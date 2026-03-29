@@ -1,0 +1,378 @@
+---
+title: "Section 1702 - Grants for broadband deployment"
+usc_title: 47
+usc_section: "1702"
+chapter: 16
+current_through: "PL 119-73"
+classification: "47 U.S.C. § 1702"
+generated_at: "2026-03-29T00:33:04.969Z"
+---
+
+# § 1702. Grants for broadband deployment
+
+(a) 
+  (1) In this section:
+    (A) The term “unserved location” means a broadband-serviceable location, as determined in accordance with the broadband DATA maps, that—
+      (i) has no access to broadband service; or
+      (ii) lacks access to reliable broadband service offered with—
+        (I) a speed of not less than—
+        (II) a latency sufficient to support real-time, interactive applications.
+    (B) The term “unserved service project” means a project in which not less than 80 percent of broadband-serviceable locations served by the project are unserved locations.
+    (C) The term “underserved location” means a location—
+      (i) that is not an unserved location; and
+      (ii) as determined in accordance with the broadband DATA maps, lacks access to reliable broadband service offered with—
+        (I) a speed of not less than—
+        (II) a latency sufficient to support real-time, interactive applications.
+    (D) The term “underserved service project” means a project in which not less than 80 percent of broadband-serviceable locations served by the project are unserved locations or underserved locations.
+    (E) The term “eligible community anchor institution” means a community anchor institution that lacks access to gigabit-level broadband service.
+  (2) In this section:
+    (A) The term “Assistant Secretary” means the Assistant Secretary of Commerce for Communications and Information.
+    (B) The term “broadband” or “broadband service” has the meaning given the term “broadband internet access service” in section 8.1(b) of title 47, Code of Federal Regulations, or any successor regulation.
+    (C) The term “broadband DATA maps” means the maps created under section 802(c)(1) of the Communications Act of 1934 ( 47 U.S.C. 642(c)(1) ).
+    (D) The term “Commission” means the Federal Communications Commission.
+    (E) The term “community anchor institution” means an entity such as a school, library, health clinic, health center, hospital or other medical provider, public safety entity, institution of higher education, public housing organization, or community support organization that facilitates greater use of broadband service by vulnerable populations, including low-income individuals, unemployed individuals, and aged individuals.
+    (F) The term “eligible entity” means a State.
+    (G) 
+      (i) The term “high-cost area” means an unserved area in which the cost of building out broadband service is higher, as compared with the average cost of building out broadband service in unserved areas in the United States (as determined by the Assistant Secretary, in consultation with the Commission), incorporating factors that include—
+        (I) the remote location of the area;
+        (II) the lack of population density of the area;
+        (III) the unique topography of the area;
+        (IV) a high rate of poverty in the area; or
+        (V) any other factor identified by the Assistant Secretary, in consultation with the Commission, that contributes to the higher cost of deploying broadband service in the area.
+      (ii) For purposes of clause (i), the term “unserved area” means an area in which not less than 80 percent of broadband-serviceable locations are unserved locations.
+    (H) The terms “location” and “broadband-serviceable location” have the meanings given those terms by the Commission under rules and guidance that are in effect, as of November 15, 2021 .
+    (I) The term “priority broadband project” means a project designed to—
+      (i) provide broadband service that meets speed, latency, reliability, consistency in quality of service, and related criteria as the Assistant Secretary shall determine; and
+      (ii) ensure that the network built by the project can easily scale speeds over time to—
+        (I) meet the evolving connectivity needs of households and businesses; and
+        (II) support the deployment of 5G, successor wireless technologies, and other advanced services.
+    (J) The term “Program” means the Broadband Equity, Access, and Deployment Program established under subsection (b)(1).
+    (K) The term “project” means an undertaking by a subgrantee under this section to construct and deploy infrastructure for the provision of broadband service.
+    (L) The term “reliable broadband service” means broadband service that meets performance criteria for service availability, adaptability to changing end-user requirements, length of serviceable life, or other criteria, other than upload and download speeds, as determined by the Assistant Secretary in coordination with the Commission.
+    (M) The term “State” has the meaning given the term in section 942 of this title , except that that definition shall be applied by striking “, and any other territory or possession of the United States”.
+    (N) The term “subgrantee” means an entity that receives grant funds from an eligible entity to carry out activities under subsection (f).
+(b) 
+  (1) Not later than 180 days after November 15, 2021 , the Assistant Secretary shall establish a grant program, to be known as the “Broadband Equity, Access, and Deployment Program”, under which the Assistant Secretary makes grants to eligible entities, in accordance with this section, to bridge the digital divide.
+  (2) There is authorized to be appropriated to the Assistant Secretary to carry out the Program $42,450,000,000.
+  (3) The Assistant Secretary shall obligate all amounts appropriated pursuant to paragraph (2) in an expedient manner after the Assistant Secretary issues the notice of funding opportunity under subsection (e)(1).
+  (4) 
+    (A) As part of the Program, the Assistant Secretary, in consultation with the Commission, shall provide technical support and assistance to eligible entities to facilitate their participation in the Program, including by assisting eligible entities with—
+      (i) the development of grant applications under the Program;
+      (ii) the development of plans and procedures for distribution of funds under the Program; and
+      (iii) other technical support as determined by the Assistant Secretary.
+    (B) The Assistant Secretary shall provide technical and other assistance to eligible entities—
+      (i) to support the expansion of broadband, with priority for—
+        (I) expansion in rural areas; and
+        (II) eligible entities that consistently rank below most other eligible entities with respect to broadband access and deployment; and
+      (ii) regarding cybersecurity resources and programs available through Federal agencies, including the Election Assistance Commission, the Cybersecurity and Infrastructure Security Agency, the Federal Trade Commission, and the National Institute of Standards and Technology.
+(c) 
+  (1) 
+    (A) On or after the date on which the broadband DATA maps are made public, the Assistant Secretary shall allocate to eligible entities, in accordance with subparagraph (B) of this paragraph, 10 percent of the amount appropriated pursuant to subsection (b)(2).
+    (B) The Assistant Secretary shall calculate the amount allocated to an eligible entity under subparagraph (A) by—
+      (i) dividing the number of unserved locations in high-cost areas in the eligible entity by the total number of unserved locations in high-cost areas in the United States; and
+      (ii) multiplying the quotient obtained under clause (i) by the amount made available under subparagraph (A).
+  (2) Of the amount appropriated pursuant to subsection (b)(2)—
+    (A) except as provided in subparagraph (B) of this paragraph, $100,000,000 shall be allocated to each State; and
+    (B) $100,000,000 shall be allocated to, and divided equally among, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+  (3) 
+    (A) On or after the date on which the broadband DATA maps are made public, of the amount appropriated pursuant to subsection (b)(2), the Assistant Secretary shall allocate to eligible entities, in accordance with subparagraph (B) of this paragraph, the amount remaining after compliance with paragraphs (1) and (2) of this subsection.
+    (B) The amount allocated to an eligible entity under subparagraph (B) shall be calculated by—
+      (i) dividing the number of unserved locations in the eligible entity by the total number of unserved locations in the United States; and
+      (ii) multiplying the quotient obtained under clause (i) by the amount made available under subparagraph (A).
+  (4) The availability of amounts allocated under paragraph (1), (2), or (3) to an eligible entity shall be subject to approval by the Assistant Secretary of the letter of intent, initial proposal, or final proposal of the eligible entity, as applicable, under subsection (e).
+  (5) 
+    (A) In this paragraph, the term “covered application” means a letter of intent, initial proposal, or final proposal under this section.
+    (B) 
+      (i) The Assistant Secretary, in carrying out the Program, shall provide that if an eligible entity fails to submit a covered application by the applicable deadline, or a covered application submitted by an eligible entity is not approved by the applicable deadline, a political subdivision or consortium of political subdivisions of the eligible entity may submit the applicable type of covered application in place of the eligible entity.
+      (ii) In the case of a political subdivision or consortium of political subdivisions that submits a covered application under clause (i) that is approved by the Assistant Secretary—
+        (I) except as provided in subclause (II) of this clause, any reference in this section to an eligible entity shall be deemed to refer to the political subdivision or consortium; and
+        (II) any reference in this section to an eligible entity in a geographic sense shall be deemed to refer to the eligible entity in whose place the political subdivision or consortium submitted the covered application.
+    (C) 
+      (i) The Assistant Secretary, in carrying out the Program, shall provide that if an eligible entity fails to submit a covered application by the applicable deadline, or a covered application submitted by an eligible entity is not approved by the applicable deadline, as provided in subparagraph (A)), and no political subdivision or consortium of political subdivisions of the eligible entity submits a covered application by the applicable deadline, or no covered application submitted by such a political subdivision or consortium is approved by the applicable deadline, as provided in subparagraph (B), the Assistant Secretary—
+        (I) shall reallocate the amounts that would have been available to the eligible entity pursuant to that type of covered application to other eligible entities that submitted that type of covered application by the applicable deadline; and
+        (II) shall reallocate the amounts described in subclause (I) of this clause in accordance with the formula under paragraph (3).
+      (ii) The Assistant Secretary, in carrying out the Program, shall provide that if an eligible entity fails to use the full amount allocated to the eligible entity under this subsection by the applicable deadline, the Assistant Secretary—
+        (I) shall reallocate the unused amounts to other eligible entities with approved final proposals; and
+        (II) shall reallocate the amounts described in subclause (I) in accordance with the formula under paragraph (3).
+(d) 
+  (1) The Assistant Secretary may use not more than 2 percent of amounts appropriated pursuant to subsection (b) for administrative purposes.
+  (2) 
+    (A) An eligible entity may use not more than 5 percent of the amount allocated to the eligible entity under subsection (c)(2) for the planning and pre-deployment activities under subsection (e)(1)(C).
+    (B) An eligible entity may use not more than 2 percent of the grant amounts made available to the eligible entity under subsection (e) for expenses relating (directly or indirectly) to administration of the grant.
+(e) 
+  (1) 
+    (A) Not later than 180 days after November 15, 2021 , the Assistant Secretary shall—
+      (i) issue a notice of funding opportunity for the Program that—
+        (I) notifies eligible entities of—
+        (II) invites eligible entities to submit letters of intent under subparagraph (B) in order to—
+        (III) contains details about the Program, including an outline of the requirements for—
+        (IV) includes any other information determined relevant by the Assistant Secretary;
+      (ii) establish a process, in accordance with subparagraph (C), through which to provide funding to eligible entities for planning and pre-deployment activities;
+      (iii) develop and make public a standard online application form that an eligible entity may use to submit an initial proposal and final proposal for the grant amounts allocated to the eligible entity under subsection (c);
+      (iv) publish a template—
+        (I) initial proposal that complies with paragraph (3)(A); and
+        (II) final proposal that complies with paragraph (4)(A); and
+      (v) in consultation with the Commission, establish standards for how an eligible entity shall assess the capabilities and capacities of a prospective subgrantee under subsection (g)(2)(A).
+    (B) 
+      (i) An eligible entity that wishes to participate in the Program shall file a letter of intent to participate in the Program consistent with this subparagraph.
+      (ii) The Assistant Secretary may establish the form and contents required for a letter of intent under this subparagraph, which contents may include—
+        (I) details of—
+        (II) the identification of known barriers or challenges to developing and administering a program to administer grants received under the Program, if applicable;
+        (III) the identification of the additional capacity needed by the eligible entity to implement the requirements under this section, such as—
+        (IV) an explanation of how the needs described in subclause (III) were identified and how funds may be used to address those needs, including target areas;
+        (V) details of any relevant partners, such as organizations that may inform broadband deployment and adoption planning; and
+        (VI) any other information determined relevant by the Assistant Secretary.
+    (C) 
+      (i) The Assistant Secretary shall establish a process through which an eligible entity, in submitting a letter of intent under subparagraph (B), may request access to not more than 5 percent of the amount allocated to the eligible entity under subsection (c)(2) for use consistent with this subparagraph.
+      (ii) If the Assistant Secretary approves a request from an eligible entity under clause (i), the Assistant Secretary shall make available to the eligible entity an amount, as determined appropriate by the Assistant Secretary, that is not more than 5 percent of the amount allocated to the eligible entity under subsection (c)(2).
+      (iii) The Assistant Secretary shall determine the allowable uses of amounts made available under clause (ii), which may include—
+        (I) research and data collection, including initial identification of unserved locations and underserved locations;
+        (II) the development of a preliminary budget for pre-planning activities;
+        (III) publications, outreach, and communications support;
+        (IV) providing technical assistance, including through workshops and events;
+        (V) training for employees of the broadband program or office of the eligible entity or employees of political subdivisions of the eligible entity, and related staffing capacity or consulting or contracted support; and
+        (VI) with respect to an office that oversees broadband programs and broadband deployment in an eligible entity, establishing, operating, or increasing the capacity of such a broadband office.
+    (D) 
+      (i) An eligible entity that receives funding from the Assistant Secretary under subparagraph (C) shall submit to the Assistant Secretary a 5-year action plan, which shall—
+        (I) be informed by collaboration with local and regional entities; and
+        (II) detail—
+      (ii) The Assistant Secretary shall establish requirements for the 5-year action plan submitted by an eligible entity under clause (i), which may include requirements to—
+        (I) address local and regional needs in the eligible entity with respect to broadband service;
+        (II) propose solutions for the deployment of affordable broadband service in the eligible entity;
+        (III) include localized data with respect to the deployment of broadband service in the eligible entity, including by identifying locations that should be prioritized for Federal support with respect to that deployment;
+        (IV) ascertain how best to serve unserved locations in the eligible entity, whether through the establishment of cooperatives or public-private partnerships;
+        (V) identify the technical assistance that would be necessary to carry out the plan; and
+        (VI) assess the amount of time it would take to build out universal broadband service in the eligible entity.
+  (2) On or after the date on which the broadband DATA maps are made public, the Assistant Secretary, in coordination with the Commission, shall issue a notice to each eligible entity that—
+    (A) contains the estimated amount available to the eligible entity under subsection (c); and
+    (B) invites the eligible entity to submit an initial proposal and final proposal for a grant under this section, in accordance with paragraphs (3) and (4) of this subsection.
+  (3) 
+    (A) 
+      (i) After the Assistant Secretary issues the notice under paragraph (2), an eligible entity that wishes to receive a grant under this section shall submit an initial proposal for a grant, using the online application form developed by the Assistant Secretary under paragraph (1)(A)(iii), that—
+        (I) outlines long-term objectives for deploying broadband, closing the digital divide, and enhancing economic growth and job creation, including—
+        (II) 
+        (III) identifies existing efforts funded by the Federal Government or a State within the jurisdiction of the eligible entity to deploy broadband and close the digital divide;
+        (IV) includes a plan to competitively award subgrants to ensure timely deployment of broadband;
+        (V) identifies—
+        (VI) certifies the intent of the eligible entity to comply with all applicable requirements under this section, including the reporting requirements under subsection (j)(1).
+      (ii) 
+        (I) The Assistant Secretary shall establish local coordination requirements for eligible entities to follow, to the greatest extent practicable.
+        (II) The local coordination requirements established under subclause (I) shall include, at minimum, an opportunity for political subdivisions of an eligible entity to—
+    (B) An eligible entity may submit only 1 initial proposal under this paragraph.
+    (C) The Assistant Secretary may accept corrections to the initial proposal of an eligible entity after the initial proposal has been submitted.
+    (D) After receipt of an initial proposal for a grant under this paragraph, the Assistant Secretary—
+      (i) shall acknowledge receipt;
+      (ii) if the initial proposal is complete—
+        (I) shall determine whether the use of funds proposed in the initial proposal—
+        (II) shall approve or disapprove the initial proposal based on the determinations under subclause (I); and
+        (III) if the Assistant Secretary approves the initial proposal under clause (ii)(II), shall make available to the eligible entity—
+      (iii) if the initial proposal is incomplete, or is disapproved under clause (ii)(II), shall notify the eligible entity and provide the eligible entity with an opportunity to resubmit the initial proposal.
+    (E) After receipt of a resubmitted initial proposal for a grant under this paragraph, the Assistant Secretary—
+      (i) shall acknowledge receipt;
+      (ii) if the initial proposal is complete—
+        (I) shall determine whether the use of funds proposed in the initial proposal—
+        (II) shall approve or disapprove the initial proposal based on the determinations under subclause (I); and
+        (III) if the Assistant Secretary approves the initial proposal under clause (ii)(II), shall make available to the eligible entity—
+      (iii) if the initial proposal is incomplete, or is disapproved under clause (ii)(II), shall notify the eligible entity and provide the eligible entity with an opportunity to resubmit the initial proposal.
+  (4) 
+    (A) 
+      (i) After the Assistant Secretary approvals 1 1 So in original. Probably should be “approves”. the initial proposal of an eligible entity under paragraph (3), the eligible entity may submit a final proposal for the remainder of the amount allocated to the eligible entity under subsection (c), using the online application form developed by the Assistant Secretary under paragraph (1)(A)(iii), that includes—
+        (I) a detailed plan that specifies how the eligible entity will—
+        (II) a timeline for implementation;
+        (III) processes for oversight and accountability to ensure the proper use of the grant funds allocated to the eligible entity under subsection (c); and
+        (IV) a description of coordination with local governments, along with local and regional broadband planning processes.
+      (ii) 
+        (I) The Assistant Secretary shall establish local coordination requirements for eligible entities to follow, to the greatest extent practicable.
+        (II) The local coordination requirements established under subclause (I) shall include, at minimum, an opportunity for political subdivisions of an eligible entity to—
+      (iii) To ensure efficient and effective use of taxpayer funds, an eligible entity shall, to the greatest extent practicable, align the use of grant funds proposed in the final proposal under clause (i) with funds available from other Federal programs that support broadband deployment and access.
+    (B) An eligible entity may submit only 1 final proposal under this paragraph.
+    (C) The Assistant Secretary may accept corrections to the final proposal of an eligible entity after the final proposal has been submitted.
+    (D) After receipt of a final proposal for a grant under this paragraph, the Assistant Secretary—
+      (i) shall acknowledge receipt;
+      (ii) if the final proposal is complete—
+        (I) shall determine whether the use of funds proposed in the final proposal—
+        (II) shall approve or disapprove the final proposal based on the determinations under subclause (I); and
+        (III) if the Assistant Secretary approves the final proposal under clause (ii)(II), shall make available to the eligible entity the remainder of the grant funds allocated to the eligible entity under subsection (c); and
+      (iii) if the final proposal is incomplete, or is disapproved under clause (ii)(II), shall notify the eligible entity and provide the eligible entity with an opportunity to resubmit the final proposal.
+    (E) After receipt of a resubmitted final proposal for a grant under this paragraph, the Assistant Secretary—
+      (i) shall acknowledge receipt;
+      (ii) if the final proposal is complete—
+        (I) shall determine whether the use of funds proposed in the final proposal—
+        (II) shall approve or disapprove the final proposal based on the determinations under subclause (I); and
+        (III) if the Assistant Secretary approves the final proposal under clause (ii)(II), shall make available to the eligible entity the remainder of the grant funds allocated to the eligible entity under subsection (c); and
+      (iii) if the final proposal is incomplete, or is disapproved under clause (ii)(II), shall notify the eligible entity and provide the eligible entity with an opportunity to resubmit the final proposal.
+(f) An eligible entity may use grant funds received under this section to competitively award subgrants for—
+  (1) unserved service projects and underserved service projects;
+  (2) connecting eligible community anchor institutions;
+  (3) data collection, broadband mapping, and planning;
+  (4) installing internet and Wi-Fi infrastructure or providing reduced-cost broadband within a multi-family residential building, with priority given to a residential building that—
+    (A) has a substantial share of unserved households; or
+    (B) is in a location in which the percentage of individuals with a household income that is at or below 150 percent of the poverty line applicable to a family of the size involved (as determined under section 9902(2) of title 42 ) is higher than the national percentage of such individuals;
+  (5) broadband adoption, including programs to provide affordable internet-capable devices; and
+  (6) any use determined necessary by the Assistant Secretary to facilitate the goals of the Program.
+(g) 
+  (1) A subgrantee, in carrying out activities using amounts received from an eligible entity under this section—
+    (A) shall adhere to quality-of-service standards, as established by the Assistant Secretary;
+    (B) shall comply with prudent cybersecurity and supply chain risk management practices, as specified by the Assistant Secretary, in consultation with the Director of the National Institute of Standards and Technology and the Commission;
+    (C) shall incorporate best practices, as defined by the Assistant Secretary, for ensuring reliability and resilience of broadband infrastructure; and
+    (D) may not use the amounts to purchase or support—
+      (i) any covered communications equipment or service, as defined in section 1608 of this title ; or
+      (ii) fiber optic cable and optical transmission equipment manufactured in the People’s Republic of China, except that the Assistant Secretary may waive the application of this clause with respect to a project if the eligible entity that awards a subgrant for the project shows that such application would unreasonably increase the cost of the project.
+  (2) In distributing funds to subgrantees under this section, an eligible entity shall—
+    (A) ensure that any prospective subgrantee—
+      (i) is capable of carrying out activities funded by the subgrant in a competent manner in compliance with all applicable Federal, State, and local laws;
+      (ii) has the financial and managerial capacity to meet—
+        (I) the commitments of the subgrantee under the subgrant;
+        (II) the requirements of the Program; and
+        (III) such requirements as may be further prescribed by the Assistant Secretary; and
+      (iii) has the technical and operational capability to provide the services promised in the subgrant in the manner contemplated by the subgrant award;
+    (B) stipulate, in any contract with a subgrantee for the use of such funds, reasonable provisions for recovery of funds for nonperformance; and
+    (C) 
+      (i) distribute the funds in an equitable and non-discriminatory manner; and
+      (ii) ensure, through a stipulation in any contract with a subgrantee for the use of such funds, that each subgrantee uses the funds in an equitable and nondiscriminatory manner.
+  (3) The Assistant Secretary—
+    (A) shall establish, in coordination with relevant Federal and State partners, appropriate mechanisms to ensure appropriate use of funds made available under this section;
+    (B) may, in addition to other authority under applicable law—
+      (i) deobligate grant funds awarded to an eligible entity that—
+        (I) violates paragraph (2); or
+        (II) demonstrates an insufficient level of performance, or wasteful or fraudulent spending, as defined in advance by the Assistant Secretary; and
+      (ii) award grant funds that are deobligated under clause (i) to new or existing applicants consistent with this section; and
+    (C) shall create and maintain a fully searchable database, accessible on the internet at no cost to the public, that contains information sufficient to allow the public to understand and monitor grants and subgrants awarded under the Program.
+(h) 
+  (1) 
+    (A) An eligible entity, in awarding subgrants for the deployment of a broadband network using grant funds received under this section, as authorized under subsection (f)(1)—
+      (i) shall award funding in a manner that—
+        (I) prioritizes unserved service projects;
+        (II) after certifying to the Assistant Secretary that the eligible entity will ensure coverage of broadband service to all unserved locations within the eligible entity, prioritizes underserved service projects; and
+        (III) after prioritizing underserved service projects, provides funding to connect eligible community anchor institutions;
+      (ii) in providing funding under subclauses (I), (II), and (III) of clause (i), shall prioritize funding for deployment of broadband infrastructure for priority broadband projects;
+      (iii) may not exclude cooperatives, nonprofit organizations, public-private partnerships, private companies, public or private utilities, public utility districts, or local governments from eligibility for such grant funds; and
+      (iv) shall give priority to projects based on—
+        (I) deployment of a broadband network to persistent poverty counties or high-poverty areas;
+        (II) the speeds of the proposed broadband service;
+        (III) the expediency with which a project can be completed; and
+        (IV) a demonstrated record of and plans to be in compliance with Federal labor and employment laws.
+    (B) The Assistant Secretary may provide additional guidance on the prioritization of subgrants awarded for the deployment of a broadband network using grant funds received under this section.
+  (2) 
+    (A) After submitting an initial proposal under subsection (e)(3) and before allocating grant funds received under this section for the deployment of broadband networks, an eligible entity shall ensure a transparent, evidence-based, and expeditious challenge process under which a unit of local government, nonprofit organization, or other broadband service provider can challenge a determination made by the eligible entity in the initial proposal as to whether a particular location or community anchor institution within the jurisdiction of the eligible entity is eligible for the grant funds, including whether a particular location is unserved or underserved.
+    (B) After resolving each challenge under subparagraph (A), and not later than 60 days before allocating grant funds received under this section for the deployment of broadband networks, an eligible entity shall provide public notice of the final classification of each unserved location, underserved location, or eligible community anchor institution within the jurisdiction of the eligible entity.
+    (C) An eligible entity shall notify the Assistant Secretary of any modification to the initial proposal of the eligible entity submitted under subsection (e)(3) that is necessitated by a successful challenge under subparagraph (A) of this paragraph.
+    (D) The Assistant Secretary—
+      (i) may modify the challenge process required under subparagraph (A) as necessary; and
+      (ii) may reverse the determination of an eligible entity with respect to the eligibility of a particular location or community anchor institution for grant funds under this section.
+    (E) 
+      (i) 
+      (iii) The Commission shall implement the amendments made by this subparagraph as soon as possible after November 15, 2021 .
+  (3) 
+    (A) 
+      (i) In allocating grant funds received under this section for deployment of broadband networks, an eligible entity shall provide, or require a subgrantee to provide, a contribution, derived from non-Federal funds (or funds from a Federal regional commission or authority), except in high-cost areas or as otherwise provided by this Act, of not less than 25 percent of project costs.
+      (ii) Upon request by an eligible entity or a subgrantee, the Assistant Secretary may reduce or waive the required matching contribution under clause (i).
+    (B) A matching contribution under subparagraph (A)—
+      (i) may be provided by an eligible entity, a unit of local government, a utility company, a cooperative, a nonprofit organization, a for-profit company, regional planning or governmental organization, a Federal regional commission or authority, or any combination thereof;
+      (ii) may include in-kind contributions; and
+      (iii) may include funds that were provided to an eligible entity or a subgrantee—
+        (I) under—
+        (II) for the purpose of deployment of broadband service, as described in the applicable provision of law described in subclause (I).
+    (C) For purposes of this paragraph, the term “Federal regional commission or authority” means—
+      (i) the Appalachian Regional Commission;
+      (ii) the Delta Regional Authority;
+      (iii) the Denali Commission; and
+      (iv) the Northern Border Regional Commission.
+  (4) An entity that receives a subgrant under subsection (f)(1) for the deployment of a broadband network—
+    (A) in providing broadband service using the network—
+      (i) shall provide broadband service—
+        (I) at a speed of not less than 100 megabits per second for downloads and 20 megabits per second for uploads;
+        (II) with a latency that is sufficiently low to allow reasonably foreseeable, real-time, interactive applications; and
+        (III) with network outages that do not exceed, on average, 48 hours over any 365-day period; and
+      (ii) shall provide access to broadband service to each customer served by the project that desires broadband service;
+    (B) shall offer not less than 1 low-cost broadband service option for eligible subscribers, as those terms are defined in paragraph (5) of this subsection;
+    (C) shall deploy the broadband network and begin providing broadband service to each customer that desires broadband service not later than 4 years after the date on which the entity receives the subgrant, except that an eligible entity may extend the deadline under this subparagraph if—
+      (i) the eligible entity has a plan for use of the grant funds;
+      (ii) the construction project is underway; or
+      (iii) extenuating circumstances require an extension of time to allow the project to be completed;
+    (D) for any project that involves laying fiber optic cables or conduit underground or along a roadway, shall include interspersed conduit access points at regular and short intervals;
+    (E) may use the subgrant to deploy broadband infrastructure in or through any area required to reach interconnection points or otherwise to ensure the technical feasibility and financial sustainability of a project providing broadband service to an unserved location, underserved location, or eligible community anchor institution;
+    (F) once the network has been deployed, shall provide public notice, online and through other means, of that fact to the locations and areas to which broadband service has been provided and share the public notice with the eligible entity that awarded the subgrant;
+    (G) shall carry out public awareness campaigns in service areas that are designed to highlight the value and benefits of broadband service in order to increase the adoption of broadband service by consumers; and
+    (H) if the entity is no longer able to provide broadband service to the locations covered by the subgrant at any time, shall sell the network capacity at a reasonable, wholesale rate on a nondiscriminatory basis to other broadband service providers or public sector entities.
+  (5) 
+    (A) In this paragraph—
+      (i) the term “eligible subscriber” shall have the meaning given the term by the Assistant Secretary for purposes of this paragraph; and
+      (ii) the term “low-cost broadband service option” shall be defined by an eligible entity for subgrantees of the eligible entity in accordance with subparagraph (B).
+    (B) 
+      (i) An eligible entity shall submit to the Assistant Secretary for approval, in the final proposal of the eligible entity submitted under subsection (e)(4), a proposed definition of “low-cost broadband service option” that shall apply to subgrantees of the eligible entity for purposes of the requirement under paragraph (4)(B) of this subsection.
+      (ii) An eligible entity shall consult with the Assistant Secretary and prospective subgrantees regarding a proposed definition of “low-cost broadband service option” before submitting the proposed definition to the Assistant Secretary under clause (i).
+      (iii) 
+        (I) A proposed definition of “low-cost broadband service option” submitted by an eligible entity under clause (i) shall not take effect until the Assistant Secretary approves the final proposal of the eligible entity submitted under subsection (e)(4), including approval of the proposed definition of “low-cost broadband service option”.
+        (II) If the Assistant Secretary does not approve a proposed definition of “low-cost broadband service option” submitted by an eligible entity under clause (i), the Assistant Secretary shall—
+      (iv) After the Assistant Secretary approves the final proposal of an eligible entity under subsection (e)(4), and before the Assistant Secretary disburses any funds to the eligible entity based on that approval, the Assistant Secretary shall publicly disclose the eligible entity’s definition of “low-cost broadband service option”.
+    (C) The Assistant Secretary shall develop procedures under which the Assistant Secretary or an eligible entity may—
+      (i) evaluate the compliance of a subgrantee with the requirement under paragraph (4)(B); and
+      (ii) take corrective action, including recoupment of funds from the subgrantee, for noncompliance with the requirement under paragraph (4)(B).
+    (D) Nothing in this subchapter may be construed to authorize the Assistant Secretary or the National Telecommunications and Information Administration to regulate the rates charged for broadband service.
+    (E) The Assistant Secretary may issue guidance to eligible entities to carry out the purposes of this paragraph.
+  (6) An entity that receives a subgrant from an eligible entity under subsection (f) and fails to comply with any requirement under this subsection shall return up to the entire amount of the subgrant to the eligible entity, at the discretion of the eligible entity or the Assistant Secretary.
+(i) The Assistant Secretary may issue such regulations or other guidance, forms, instructions, and publications as may be necessary or appropriate to carry out the programs, projects, or activities authorized under this section, including to ensure that those programs, projects, or activities are completed in a timely and effective manner.
+(j) 
+  (1) 
+    (A) Not later than 90 days after receiving grant funds under this section, for the sole purposes of providing transparency and providing information to inform future Federal broadband planning, an eligible entity shall submit to the Assistant Secretary a report that—
+      (i) describes the planned and actual use of funds;
+      (ii) describes the planned and actual process of subgranting;
+      (iii) identifies the establishment of appropriate mechanisms by the eligible entity to ensure that all subgrantees of the eligible entity comply with the eligible uses prescribed under subsection (f); and
+      (iv) includes any other information required by the Assistant Secretary.
+    (B) Not later than 1 year after receiving grant funds under this section, and semiannually thereafter until the funds have been expended, an eligible entity shall submit to the Assistant Secretary a report, with respect to the 6-month period immediately preceding the report date, that—
+      (i) describes how the eligible entity expended the grant funds;
+      (ii) describes each service provided with the grant funds;
+      (iii) describes the number of locations at which broadband service was made available using the grant funds, and the number of those locations at which broadband service was utilized; and
+      (iv) certifies that the eligible entity complied with the requirements of this section and with any additional reporting requirements prescribed by the Assistant Secretary.
+    (C) Not later than 1 year after an eligible entity has expended all grant funds received under this section, the eligible entity shall submit to the Assistant Secretary a report that—
+      (i) describes how the eligible entity expended the funds;
+      (ii) describes each service provided with the grant funds;
+      (iii) describes the number of locations at which broadband service was made available using the grant funds, and the number of those locations at which broadband service was utilized;
+      (iv) includes each report that the eligible entity received from a subgrantee under paragraph (2); and
+      (v) certifies that the eligible entity complied with the requirements of this section and with any additional reporting requirements prescribed by the Assistant Secretary.
+    (D) Subject to section 904(b)(2) of division FF of the Consolidated Appropriations Act, 2021 ( Public Law 116–260 ) [ 47 U.S.C. 1308(b)(2) ] (relating to an interagency agreement), the Assistant Secretary shall coordinate with the Commission and the Department of Agriculture, including providing the final reports received under subparagraph (C) to the Commission and the Department of Agriculture to be used when determining whether to award funds for the deployment of broadband under any program administered by those agencies.
+    (E) 
+      (i) In this subparagraph, the terms “agency” and “Federal broadband support program” have the meanings given those terms in section 903 of division FF of the Consolidated Appropriations Act, 2021 ( Public Law 116–260 ) [ 47 U.S.C. 1307 ] (also known as the “ACCESS BROADBAND Act”).
+      (ii) An agency that offers a Federal broadband support program shall provide data to the Assistant Secretary, in a manner and format prescribed by the Assistant Secretary, to promote coordination of efforts to track construction and use of broadband infrastructure.
+  (2) 
+    (A) The recipient of a subgrant from an eligible entity under this section shall submit to the eligible entity a semiannual report for the duration of the subgrant to track the effectiveness of the use of funds provided.
+    (B) Each report submitted under subparagraph (A) shall—
+      (i) describe each type of project carried out using the subgrant and the duration of the subgrant;
+      (ii) in the case of a broadband infrastructure project—
+        (I) include a list of addresses or locations that constitute the service locations that will be served by the broadband infrastructure to be constructed;
+        (II) identify whether each address or location described in subclause (I) is residential, commercial, or a community anchor institution;
+        (III) describe the types of facilities that have been constructed and installed;
+        (IV) describe the peak and off-peak actual speeds of the broadband service being offered;
+        (V) describe the maximum advertised speed of the broadband service being offered;
+        (VI) describe the non-promotional prices, including any associated fees, charged for different tiers of broadband service being offered;
+        (VII) include any other data that would be required to comply with the data and mapping collection standards of the Commission under section 1.7004 of title 47, Code of Federal Regulations, or any successor regulation, for broadband infrastructure projects; and
+        (VIII) comply with any other reasonable reporting requirements determined by the eligible entity or the Assistant Secretary; and
+      (iii) certify that the information in the report is accurate.
+  (3) The Assistant Secretary and the Commission shall collaborate to—
+    (A) standardize and coordinate reporting of locations at which broadband service was provided using grant funds received under this section in accordance with title VIII of the Communications Act of 1934 ( 47 U.S.C. 641 et seq.); and
+    (B) provide a standardized methodology to recipients of grants and subgrantees under this section for reporting the information described in subparagraph (A).
+  (4) 
+    (A) Not later than 2 years after November 15, 2021 , the Assistant Secretary, in consultation with the Commission, shall establish a publicly available website that—
+      (i) allows a consumer to determine, based on financial information entered by the consumer, whether the consumer is eligible—
+        (I) to receive a Federal or State subsidy with respect to broadband service; or
+        (II) for a low-income plan with respect to broadband service; and
+      (ii) contains information regarding how to apply for the applicable benefit described in clause (i).
+    (B) A Federal entity, State entity receiving Federal funds, or provider of broadband service that offers a subsidy or low-income plan, as applicable, with respect to broadband service shall provide data to the Assistant Secretary in a manner and format as established by the Assistant Secretary as necessary for the Assistant Secretary to carry out subparagraph (A).
+(k) Notwithstanding any other provision of law—
+  (1) an entity that has received amounts from the Federal Government or a State or local government for the purpose of expanding access to broadband service may receive a subgrant under subsection (f) in accordance with this section; and
+  (2) the receipt of a subgrant under subsection (f) by an entity described in paragraph (1) of this subsection shall not affect the eligibility of the entity to receive the amounts from the Federal Government or a State or local government described in that paragraph.
+(l) Grant funds awarded to an eligible entity under this section shall be used to supplement, and not supplant, the amounts that the eligible entity would otherwise make available for the purposes for which the grant funds may be used.
+(m) It is the sense of Congress that Federal agencies responsible for supporting broadband deployment, including the Commission, the Department of Commerce, and the Department of Agriculture, to the extent possible, should align the goals, application and reporting processes, and project requirements with respect to broadband deployment supported by those agencies.
+(n) 
+  (1) The United States District Court for the District of Columbia shall have exclusive jurisdiction to review a decision of the Assistant Secretary made under this section.
+  (2) In carrying out any review described in paragraph (1), the court shall affirm the decision of the Assistant Secretary unless—
+    (A) the decision was procured by corruption, fraud, or undue means;
+    (B) there was actual partiality or corruption in the Assistant Secretary; or
+    (C) the Assistant Secretary was guilty of—
+      (i) misconduct in refusing to review the administrative record; or
+      (ii) any other misbehavior by which the rights of any party have been prejudiced.
+(o) Any action taken or decision made by the Assistant Secretary under this section shall be exempt from the requirements of—
+  (1) section 3506 of title 44 (commonly referred to as the “Paperwork Reduction Act”);
+  (2) chapter 5 or 7 of title 5 (commonly referred to as the “Administrative Procedures Act”); and
+  (3) chapter 6 of title 5 (commonly referred to as the “Regulatory Flexibility Act”).

@@ -1,0 +1,14 @@
+---
+title: "Section 3243 - Jurisdiction of State of Kansas over offenses committed by or against Indians on Indian reservations"
+usc_title: 18
+usc_section: "3243"
+chapter: 211
+current_through: "PL 119-73"
+classification: "18 U.S.C. § 3243"
+generated_at: "2026-03-29T00:30:15.730Z"
+---
+
+# § 3243. Jurisdiction of State of Kansas over offenses committed by or against Indians on Indian reservations
+
+Jurisdiction is conferred on the State of Kansas over offenses committed by or against Indians on Indian reservations, including trust or restricted allotments, within the State of Kansas, to the same extent as its courts have jurisdiction over offenses committed elsewhere within the State in accordance with the laws of the State. This section shall not deprive the courts of the United States of jurisdiction over offenses defined by the laws of the United States committed by or against Indians on Indian reservations.
+

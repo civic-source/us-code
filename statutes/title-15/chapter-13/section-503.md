@@ -1,0 +1,14 @@
+---
+title: "Section 503 - Purpose of Foundation"
+usc_title: 15
+usc_section: "503"
+chapter: 13
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 503"
+generated_at: "2026-03-29T00:29:41.580Z"
+---
+
+# § 503. Purpose of Foundation
+
+(a) The purposes of the corporation shall be to administer and expend its funds and other property for scientific and economic research for the benefit and development of the textile industry, its allied branches, and including that of production of raw materials.
+(b) The Textile Alliance, Incorporated, is authorized to pay to the corporation the amounts payable in accordance with the arrangement between the Textile Alliance, Incorporated, and the Department of State, in lieu of paying such amounts into the United States Treasury; except that any amounts payable in accordance with such arrangement, and paid into the United States Treasury before June 10, 1930 , are authorized to be appropriated to the credit of the corporation. Upon the receipt by the corporation of such amounts the liability of the Textile Alliance, Incorporated, under such arrangement shall be extinguished.

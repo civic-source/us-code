@@ -1,0 +1,15 @@
+---
+title: "Section 41503 - Fugitive Apprehension Task Forces"
+usc_title: 34
+usc_section: "41503"
+chapter: 415
+current_through: "PL 119-73"
+classification: "34 U.S.C. § 41503"
+generated_at: "2026-03-29T00:32:01.693Z"
+---
+
+# § 41503. Fugitive Apprehension Task Forces
+
+(a) The Attorney General shall, upon consultation with appropriate Department of Justice and Department of the Treasury law enforcement components, establish permanent Fugitive Apprehension Task Forces consisting of Federal, State, and local law enforcement authorities in designated regions of the United States, to be directed and coordinated by the United States Marshals Service, for the purpose of locating and apprehending fugitives.
+(b) There are authorized to be appropriated to the Attorney General for the United States Marshals Service to carry out the provisions of this section $30,000,000 for the fiscal year 2001, $5,000,000 for fiscal year 2002, $5,000,000 for fiscal year 2003, and $10,000,000 for each of fiscal years 2008 through 2012.
+(c) Nothing in this section shall be construed to limit any existing authority under any other provision of Federal or State law for law enforcement agencies to locate or apprehend fugitives through task forces or any other means.

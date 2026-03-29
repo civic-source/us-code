@@ -1,0 +1,23 @@
+---
+title: "Section 4106 - Information from Secretary"
+usc_title: 12
+usc_section: "4106"
+chapter: 42
+current_through: "PL 119-73"
+classification: "12 U.S.C. § 4106"
+generated_at: "2026-03-29T00:29:16.806Z"
+---
+
+# § 4106. Information from Secretary
+
+(a) The Secretary shall provide each owner who submits a notice of intent to terminate the low-income affordability restrictions on the housing under section 4108 of this title with information under this section not later than 6 months after receipt of the notice of intent. The information shall include a description of the criteria for such termination specified under section 4108 of this title and the documentation required to satisfy such criteria.
+(b) The Secretary shall provide each owner who submits notice of intent to extend the low-income affordability restrictions on the housing under section 4109 of this title or transfer the housing under section 4110 of this title to a qualified purchaser with information under this subsection not later than 9 months after receipt of the notice of intent. The information shall include any information necessary for the owner to prepare a plan of action under section 4107 of this title , including the following:
+  (1) A statement of the preservation value of the housing determined under paragraphs (1) and (2) of section 4103(b) of this title .
+  (2) A statement of the preservation rent for the housing as calculated under section 4104(b) of this title .
+  (3) A statement of the applicable Federal cost limits for the market area (or relevant local market area, if applicable) in which the housing is located, which shall explain the limitations under sections 4109 and 4110 of this title of the amount of assistance that the Secretary may provide based on such cost limits.
+  (4) A statement of whether the aggregate preservation rents exceed the Federal cost limits and a direction to the owner to file a plan of action under section 4107 of this title or submit a second notice of intent under subsection (d), whichever is applicable.
+(c) The Secretary shall make any information provided to the owner under subsections (a) and (b) available to the tenants of the housing, together with other information relating to the rights and opportunities of the tenants.
+(d) 
+  (1) Each owner of eligible low-income housing that elects to transfer housing under section 4110 of this title shall submit to the Secretary, in such form and manner as the Secretary prescribes, notice of intent to sell the housing under section 4110 of this title . To be eligible to prepay the mortgage or voluntarily terminate the insurance contract on the mortgage, an owner of housing for which the preservation rents exceed the Federal cost limits under section 4105(b) of this title shall submit to the Secretary notice of such intent. The provisions of sections 4111 and 4113 of this title shall apply to any owner submitting a notice under the preceding sentence.
+  (2) A second notice of intent under this subsection shall be submitted not later than 30 days after receipt of information from the Secretary under this section. If an owner fails to submit such notice within such period, the notice of intent submitted by the owner under section 4102 of this title shall be void and ineffective for purposes of this subchapter.
+  (3) Upon filing a second notice of intent under this subsection, the owner shall simultaneously file such notice of the intent with the chief executive officer of the appropriate State or local government for the jurisdiction within which the housing is located and with the mortgagee, and shall inform the tenants of the housing of the filing.

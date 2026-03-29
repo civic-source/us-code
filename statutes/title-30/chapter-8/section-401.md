@@ -1,0 +1,14 @@
+---
+title: "Section 401 - Establishment of research laboratory; duties"
+usc_title: 30
+usc_section: "401"
+chapter: 8
+current_through: "PL 119-73"
+classification: "30 U.S.C. § 401"
+generated_at: "2026-03-29T00:31:30.767Z"
+---
+
+# § 401. Establishment of research laboratory; duties
+
+The Secretary of the Interior, acting through the United States Bureau of Mines, is authorized and directed to establish, equip, and maintain a research laboratory in the lignite-consuming region of North Dakota to conduct researches and investigations on the mining, preparation, and utilization of lignite coal and to develop new scientific, chemical, and technical uses and new and extended markets and outlets for lignite coal and its products. Such laboratory shall be planned as a center for information and assistance in matters pertaining to conserving lignite coal resources for national defense and security; to the more efficient mining, preparation, and utilization of lignite coal; and pertaining to safety, health, and sanitation in mining operations and other matters relating to problems of the lignite industry.
+

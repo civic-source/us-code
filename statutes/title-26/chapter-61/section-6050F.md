@@ -1,0 +1,26 @@
+---
+title: "Section 6050F - Returns relating to social security benefits"
+usc_title: 26
+usc_section: "6050F"
+chapter: 61
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 6050F"
+generated_at: "2026-03-29T00:31:21.012Z"
+---
+
+# § 6050F. Returns relating to social security benefits
+
+(a) The appropriate Federal official shall make a return, according to the forms and regulations prescribed by the Secretary, setting forth—
+  (1) the—
+    (A) aggregate amount of social security benefits paid with respect to any individual during any calendar year,
+    (B) aggregate amount of social security benefits repaid by such individual during such calendar year, and
+    (C) aggregate reductions under section 224 of the Social Security Act (or under section 3(a)(1) of the Railroad Retirement Act of 1974) in benefits which would otherwise have been paid to such individual during the calendar year on account of amounts received under a workmen’s compensation act, and
+  (2) the name and address of such individual.
+(b) Every person required to make a return under subsection (a) shall furnish to each individual whose name is required to be set forth in such return a written statement showing—
+  (1) the name of the agency making the payments, and
+  (2) the aggregate amount of payments, of repayments, and of reductions, with respect to the individual required to be shown on such return.
+(c) For purposes of this section
+  (1) The term “appropriate Federal official” means—
+    (A) the Commissioner of Social Security in the case of social security benefits described in section 86(d)(1)(A), and
+    (B) the Railroad Retirement Board in the case of social security benefits described in section 86(d)(1)(B).
+  (2) The term “social security benefit” has the meaning given to such term by section 86(d)(1).

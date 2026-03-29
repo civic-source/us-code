@@ -1,0 +1,70 @@
+---
+title: "Section 6511 - Limitations on credit or refund"
+usc_title: 26
+usc_section: "6511"
+chapter: 66
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 6511"
+generated_at: "2026-03-29T00:31:21.064Z"
+---
+
+# § 6511. Limitations on credit or refund
+
+(a) Claim for credit or refund of an overpayment of any tax imposed by this title in respect of which tax the taxpayer is required to file a return shall be filed by the taxpayer within 3 years from the time the return was filed or 2 years from the time the tax was paid, whichever of such periods expires the later, or if no return was filed by the taxpayer, within 2 years from the time the tax was paid. Claim for credit or refund of an overpayment of any tax imposed by this title which is required to be paid by means of a stamp shall be filed by the taxpayer within 3 years from the time the tax was paid.
+(b) 
+  (1) No credit or refund shall be allowed or made after the expiration of the period of limitation prescribed in subsection (a) for the filing of a claim for credit or refund, unless a claim for credit or refund is filed by the taxpayer within such period.
+  (2) 
+    (A) If the claim was filed by the taxpayer during the 3-year period prescribed in subsection (a), the amount of the credit or refund shall not exceed the portion of the tax paid within the period, immediately preceding the filing of the claim, equal to 3 years plus the period of any extension of time for filing the return. If the tax was required to be paid by means of a stamp, the amount of the credit or refund shall not exceed the portion of the tax paid within the 3 years immediately preceding the filing of the claim.
+    (B) If the claim was not filed within such 3-year period, the amount of the credit or refund shall not exceed the portion of the tax paid during the 2 years immediately preceding the filing of the claim.
+    (C) If no claim was filed, the credit or refund shall not exceed the amount which would be allowable under subparagraph (A) or (B), as the case may be, if claim was filed on the date the credit or refund is allowed.
+(c) If an agreement under the provisions of section 6501(c)(4) extending the period for assessment of a tax imposed by this title is made within the period prescribed in subsection (a) for the filing of a claim for credit or refund—
+  (1) The period for filing claim for credit or refund or for making credit or refund if no claim is filed, provided in subsections (a) and (b)(1), shall not expire prior to 6 months after the expiration of the period within which an assessment may be made pursuant to the agreement or any extension thereof under section 6501(c)(4).
+  (2) If a claim is filed, or a credit or refund is allowed when no claim was filed, after the execution of the agreement and within 6 months after the expiration of the period within which an assessment may be made pursuant to the agreement or any extension thereof, the amount of the credit or refund shall not exceed the portion of the tax paid after the execution of the agreement and before the filing of the claim or the making of the credit or refund, as the case may be, plus the portion of the tax paid within the period which would be applicable under subsection (b)(2) if a claim had been filed on the date the agreement was executed.
+  (3) This subsection shall not apply in the case of a claim filed, or credit or refund allowed if no claim is filed, either—
+    (A) prior to the execution of the agreement or
+    (B) more than 6 months after the expiration of the period within which an assessment may be made pursuant to the agreement or any extension thereof.
+(d) 
+  (1) If the claim for credit or refund relates to an overpayment of tax imposed by subtitle A on account of—
+    (A) The deductibility by the taxpayer, under section 166 or section 832(c), of a debt as a debt which became worthless, or, under section 165(g), of a loss from worthlessness of a security, or
+    (B) The effect that the deductibility of a debt or loss described in subparagraph (A) has on the application to the taxpayer of a carryover,
+  (2) 
+    (A) If the claim for credit or refund relates to an overpayment attributable to a net operating loss carryback or a capital loss carryback, in lieu of the 3-year period of limitation prescribed in subsection (a), the period shall be that period which ends 3 years after the time prescribed by law for filing the return (including extensions thereof) for the taxable year of the net operating loss or net capital loss which results in such carryback, or the period prescribed in subsection (c) in respect of such taxable year, whichever expires later. In the case of such a claim, the amount of the credit or refund may exceed the portion of the tax paid within the period provided in subsection (b)(2) or (c), whichever is applicable, to the extent of the amount of the overpayment attributable to such carryback.
+    (B) 
+      (i) If the allowance of a credit or refund of an overpayment of tax attributable to a net operating loss carryback or a capital loss carryback is otherwise prevented by the operation of any law or rule of law other than section 7122 (relating to compromises), such credit or refund may be allowed or made, if claim therefor is filed within the period provided in subparagraph (A) of this paragraph.
+      (ii) If the allowance of an application, credit, or refund of a decrease in tax determined under section 6411(b) is otherwise prevented by the operation of any law or rule of law other than section 7122, such application, credit, or refund may be allowed or made if application for a tentative carryback adjustment is made within the period provided in section 6411(a).
+      (iii) In the case of any such claim for credit or refund or any such application for a tentative carryback adjustment, the determination by any court, including the Tax Court, in any proceeding in which the decision of the court has become final, shall be conclusive except with respect to—
+        (I) the net operating loss deduction and the effect of such deduction, and
+        (II) the determination of a short-term capital loss and the effect of such short-term capital loss, to the extent that such deduction or short-term capital loss is affected by a carryback which was not an issue in such proceeding.
+  (3) 
+    (A) If the claim for credit or refund relates to an overpayment attributable to any taxes paid or accrued to any foreign country or to any possession of the United States for which credit is allowed against the tax imposed by subtitle A in accordance with the provisions of section 901 or the provisions of any treaty to which the United States is a party, in lieu of the 3-year period of limitation prescribed in subsection (a), the period shall be 10 years from the date prescribed by law for filing the return for the year in which such taxes were actually paid or accrued.
+    (B) In the case of a claim described in subparagraph (A), the amount of the credit or refund may exceed the portion of the tax paid within the period provided in subsection (b) or (c), whichever is applicable, to the extent of the amount of the overpayment attributable to the allowance of a credit for the taxes described in subparagraph (A).
+  (4) 
+    (A) If the claim for credit or refund relates to an overpayment attributable to a credit carryback, in lieu of the 3-year period of limitation prescribed in subsection (a), the period shall be that period which ends 3 years after the time prescribed by law for filing the return (including extensions thereof) for the taxable year of the unused credit which results in such carryback (or, with respect to any portion of a credit carryback from a taxable year attributable to a net operating loss carryback, capital loss carryback, or other credit carryback from a subsequent taxable year, the period shall be that period which ends 3 years after the time prescribed by law for filing the return, including extensions thereof, for such subsequent taxable year) or the period prescribed in subsection (c) in respect of such taxable year, whichever expires later. In the case of such a claim, the amount of the credit or refund may exceed the portion of the tax paid within the period provided in subsection (b)(2) or (c), whichever is applicable, to the extent of the amount of the overpayment attributable to such carryback.
+    (B) If the allowance of a credit or refund of an overpayment of tax attributable to a credit carryback is otherwise prevented by the operation of any law or rule of law other than section 7122, relating to compromises, such credit or refund may be allowed or made, if claim therefor is filed within the period provided in subparagraph (A) of this paragraph. In the case of any such claim for credit or refund, the determination by any court, including the Tax Court, in any proceeding in which the decision of the court has become final, shall not be conclusive with respect to any credit, and the effect of such credit, to the extent that such credit is affected by a credit carryback which was not in issue in such proceeding.
+    (C) For purposes of this paragraph, the term “credit carryback” means any business carryback under section 39.
+  (5) If the claim for credit or refund relates to an overpayment of the tax imposed by chapter 2 (relating to the tax on self-employment income) attributable to an agreement, or modification of an agreement, made pursuant to section 218 of the Social Security Act (relating to coverage of State and local employees), and if the allowance of a credit or refund of such overpayment is otherwise prevented by the operation of any law or rule of law other than section 7122 (relating to compromises), such credit or refund may be allowed or made if claim therefor is filed on or before the last day of the second year after the calendar year in which such agreement (or modification) is agreed to by the State and the Commissioner of Social Security.
+  (6) If the claim for credit or refund relates to an overpayment of tax imposed by subtitle A on account of the recapture, under section 4045 of the Employee Retirement Income Security Act of 1974, of amounts included in income for a prior taxable year, the 3-year period of limitation prescribed in subsection (a) shall be extended, for purposes of permitting a credit or refund of the amount of the recapture, until the date which occurs one year after the date on which such recaptured amount is paid by the taxpayer.
+  (7) If—
+    (A) the claim for credit or refund relates to an overpayment of the tax imposed by chapter 2 (relating to the tax on self-employment income) attributable to Tax Court determination in a proceeding under section 7436, and
+    (B) the allowance of a credit or refund of such overpayment is otherwise prevented by the operation of any law or rule of law other than section 7122 (relating to compromises),
+  (8) 
+    (A) If the claim for credit or refund relates to an overpayment of tax imposed by subtitle A on account of—
+      (i) the reduction of uniformed services retired pay computed under section 1406 or 1407 of title 10, United States Code, or
+      (ii) the waiver of such pay under section 5305 of title 38 of such Code,
+    (B) Subparagraph (A) shall not apply with respect to any taxable year which began more than 5 years before the date of such determination.
+[(e) 
+(f) For purposes of any tax imposed by section 4912, chapter 42, or section 4975, the return referred to in subsection (a) shall be the return specified in section 6501( l )(1).
+[(g) 
+(h) 
+  (1) In the case of an individual, the running of the periods specified in subsections (a), (b), and (c) shall be suspended during any period of such individual’s life that such individual is financially disabled.
+  (2) 
+    (A) For purposes of paragraph (1), an individual is financially disabled if such individual is unable to manage his financial affairs by reason of a medically determinable physical or mental impairment of the individual which can be expected to result in death or which has lasted or can be expected to last for a continuous period of not less than 12 months. An individual shall not be considered to have such an impairment unless proof of the existence thereof is furnished in such form and manner as the Secretary may require.
+    (B) An individual shall not be treated as financially disabled during any period that such individual’s spouse or any other person is authorized to act on behalf of such individual in financial matters.
+(i) 
+  (1) For time return deemed filed and tax considered paid, see section 6513.
+  (2) For limitations with respect to certain credits against estate tax, see sections 2014(b) and 2015.
+  (3) For limitations in case of floor stocks refunds, see section 6412.
+  (4) For a period of limitations for credit or refund in the case of joint income returns after separate returns have been filed, see section 6013(b)(3).
+  (5) For limitations in case of payments under section 6420 (relating to gasoline used on farms), see section 6420(b).
+  (6) For limitations in case of payments under section 6421 (relating to gasoline used for certain nonhighway purposes or by local transit systems), see section 6421(d).
+  (7) For a period of limitations for refund of an overpayment of penalties imposed under section 6694 or 6695, see section 6696(d)(2).

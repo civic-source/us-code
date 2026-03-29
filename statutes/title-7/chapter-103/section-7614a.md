@@ -1,0 +1,32 @@
+---
+title: "Section 7614a - Roadmap"
+usc_title: 7
+usc_section: "7614a"
+chapter: 103
+current_through: "PL 119-73"
+classification: "7 U.S.C. § 7614a"
+generated_at: "2026-03-29T00:28:58.288Z"
+---
+
+# § 7614a. Roadmap
+
+(a) Not later than 90 days after the date of enactment of this Act, the Secretary, acting through the Under Secretary of Research, Education, and Economics (referred to in this section as the “Under Secretary”), shall commence preparation of a roadmap for agricultural research, education, and extension that—
+  (1) identifies current trends and constraints;
+  (2) identifies major opportunities and gaps that no single entity within the Department of Agriculture would be able to address individually;
+  (3) involves—
+    (A) interested parties from the Federal Government and nongovernmental entities; and
+    (B) the National Agricultural Research, Extension, Education, and Economics Advisory Board established under section 3123 of this title ;
+  (4) incorporates roadmaps for agricultural research, education, and extension made publicly available by other Federal entities, agencies, or offices; and
+  (5) describes recommended funding levels for areas of agricultural research, education, and extension, including—
+    (A) competitive programs;
+    (B) capacity and infrastructure programs, with attention to the future growth needs of—
+      (i) small 1862 Institutions, 1890 Institutions, and 1994 Institutions;
+      (ii) Hispanic-serving agricultural colleges and universities;
+      (iii) NLGCA Institutions; and
+      (iv) colleges of veterinary medicine; and
+    (C) intramural programs at agencies within the research, education, and economics mission area; and
+  (6) describes how organizational changes enacted by this Act have impacted agricultural research, extension, and education across the Department of Agriculture, including minimization of unnecessary programmatic and administrative duplication.
+(b) The roadmap described in this section shall not be subject to review by any officer or employee of the Federal Government other than the Secretary (or a designee of the Secretary).
+(c) Not later than 1 year after the date on which the Secretary commences preparation of the roadmap under this section, the Secretary shall—
+  (1) implement and use the roadmap to set the research, education, and extension agenda of the Department of Agriculture; and
+  (2) make the roadmap available to the public.

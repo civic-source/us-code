@@ -1,0 +1,19 @@
+---
+title: "Section 371 - Definitions"
+usc_title: 43
+usc_section: "371"
+chapter: 12
+current_through: "PL 119-73"
+classification: "43 U.S.C. § 371"
+generated_at: "2026-03-29T00:32:57.318Z"
+---
+
+# § 371. Definitions
+
+When used in sections 371, 376, 377, 412, 417, 433, 462, 466, 478, 493, 494, 500, 501, and 526 of this title—
+
+(a) The word “Secretary” means the Secretary of the Interior.
+(b) The words “reclamation law” mean the Act of June 17, 1902 ( 32 Stat. 388 ), and all Acts amendatory thereof or supplementary thereto.
+(c) The words “reclamation fund” mean the fund provided by the reclamation law.
+(d) The word “project” means a Federal irrigation project authorized by the reclamation law.
+(e) The words “division of a project” mean a substantial irrigable area of a project designated as a division by order of the Secretary.

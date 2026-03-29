@@ -1,0 +1,23 @@
+---
+title: "Section 326 - Incentive bonus: conversion to military occupational specialty to ease personnel shortage"
+usc_title: 37
+usc_section: "326"
+chapter: 5
+current_through: "PL 119-73"
+classification: "37 U.S.C. § 326"
+generated_at: "2026-03-29T00:32:04.410Z"
+---
+
+# § 326. Incentive bonus: conversion to military occupational specialty to ease personnel shortage
+
+(a) The Secretary concerned may pay a bonus under this section to an eligible member of a regular or reserve component of the armed forces who executes a written agreement to convert to, and serve for a period of not less than three years in, a military occupational specialty for which there is a shortage of trained and qualified personnel.
+(b) A member is eligible to enter into an agreement under subsection (a) if, at the time the agreement is executed, the member is serving in—
+  (1) pay grade E–6, with not more than 10 years of service computed under section 205 of this title ; or
+  (2) pay grade E–5 or below, regardless of years of service.
+(c) 
+  (1) A bonus under this section may not exceed $4,000.
+  (2) A bonus payable under this section shall be disbursed in one lump sum when the member’s conversion to the military occupational specialty is approved by the chief personnel officer of the regular or reserve component of the member’s armed force.
+(d) A bonus paid to a member under this section is in addition to any other pay and allowances to which the member is entitled.
+(e) A member who does not convert to and complete the period of service in the military occupational specialty specified in the agreement executed under subsection (a) shall be subject to the repayment provisions of section 303a(e) of this title .
+(f) The Secretaries concerned shall prescribe regulations to carry out this section. Regulations prescribed by the Secretary of a military department shall be subject to the approval of the Secretary of Defense.
+(g) No agreement under this section may be entered into after December 31, 2018 .

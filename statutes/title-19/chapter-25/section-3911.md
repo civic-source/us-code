@@ -1,0 +1,18 @@
+---
+title: "Section 3911 - Reports"
+usc_title: 19
+usc_section: "3911"
+chapter: 25
+current_through: "PL 119-73"
+classification: "19 U.S.C. § 3911"
+generated_at: "2026-03-29T00:30:20.281Z"
+---
+
+# § 3911. Reports
+
+(a) Not later than 1 year after April 25, 2003 , and every 12 months thereafter for such period as this chapter is in effect, the President shall transmit to the Congress a report—
+  (1) describing actions taken by countries that have exported rough diamonds to the United States during the preceding 12-month period to control the exportation of the diamonds through the Kimberley Process Certification Scheme;
+  (2) describing whether there is statistical information or other evidence that would indicate efforts to circumvent the Kimberley Process Certification Scheme, including cutting rough diamonds for the purpose of circumventing the Kimberley Process Certification Scheme;
+  (3) identifying each country that, during the preceding 12-month period, exported rough diamonds to the United States and was exporting rough diamonds not controlled through the Kimberley Process Certification Scheme, if the failure to do so has significantly increased the likelihood that those diamonds not so controlled are being imported into the United States; and
+  (4) identifying any problems or obstacles encountered in the implementation of this chapter or the Kimberly 1 1 So in original. Probably should be “Kimberley”. Process Certification Scheme.
+(b) For each country identified in subsection (a)(3), the President, during such period as this chapter is in effect, shall, every 6 months after the initial report in which the country was identified, transmit to the Congress a report that explains what actions have been taken by the United States or such country since the previous report to ensure that diamonds the exportation of which was not controlled through the Kimberley Process Certification Scheme are not being imported from that country into the United States. The requirement to issue a semiannual report with respect to a country under this subsection shall remain in effect until such time as the country is controlling the importation and exportation of rough diamonds through the Kimberley Process Certification Scheme.

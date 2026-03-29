@@ -1,0 +1,33 @@
+---
+title: "Section 8411 - Administrative procedures"
+usc_title: 42
+usc_section: "8411"
+chapter: 92
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 8411"
+generated_at: "2026-03-29T00:32:54.124Z"
+---
+
+# § 8411. Administrative procedures
+
+(a) Except to the extent otherwise provided in this section or other provisions of this chapter, rules prescribed under this chapter shall be made in accordance with the procedures set forth in section 553 of title 5 .
+(b) Before the Secretary prescribes any rule or issues any order imposing a prohibition under this chapter, he shall publish such proposed rule or order in the Federal Register, together with a statement of the reasons for such rule or order and, in the case of a rule, a detailed statement of any special circumstances or characteristics required to be taken into account in prescribing such rule. A copy shall be transmitted to the person who operates any such powerplant required to be specifically identified in such rule or order.
+(c) 
+  (1) Any petition for an exemption from any prohibition under this chapter shall be filed at such time and shall be in such form as the Secretary shall by rule prescribe. The Secretary, upon receipt of such petition, shall publish a notice thereof in the Federal Register together with a statement of the reasons set forth in such a petition for requesting such exemption, and provide a period of public comment of at least 45 days for written comments thereon. Rules required under this paragraph shall be prescribed not later than 120 days after November 9, 1978 .
+  (2) The Secretary, upon receipt of such petition, shall notify the appropriate State agencies having primary authority to permit or regulate the construction or operation of the electric powerplant which is the subject of such petition, and, to the maximum extent practicable, consult with such agencies.
+  (3) The Secretary, within 6 months after the period for public comment and hearing applicable to any petition for an exemption, shall issue a final order granting or denying the petition for such exemption, except that the Secretary may extend such period to a specified date if he publishes notice thereof in the Federal Register and includes with such notice a statement of the reasons for such extension.
+(d) 
+  (1) In the case of any proposed rule or order by the Secretary imposing a prohibition or any petition for any order granting an exemption under this chapter, any interested person shall be afforded an opportunity to present oral data, views, and arguments at a public hearing. At such hearing any interested person shall have an opportunity to question—
+    (A) other interested persons who make oral presentations,
+    (B) employees and contractors of the United States who have made written or oral presentations or who have participated in the development of the proposed rule or order or in the consideration of such petition, and
+    (C) experts and consultants who have provided information to any person who makes an oral presentation and which is contained in or referred to in such presentation,
+  (2) A rule or order subject to this section may not be issued except on consideration of the whole record or those parts thereof cited by a party and supported by and in accordance with the reliable, probative, and substantial evidence.
+(e) A transcript shall be kept of any public hearing made in accordance with this section.
+(f) A copy of any proposed rule or order to be prescribed or issued by the Secretary which imposes a prohibition under this chapter (other than under section 8374 of this title ), or a petition for an exemption (or permit) under this chapter (other than under section 8374 of this title ), shall be transmitted by the Secretary to the Administrator of the Environmental Protection Agency and the Secretary shall request such agency to comment thereon within the period provided to the public unless a longer period is provided under the Clean Air Act [ 42 U.S.C. 7401 et seq.]. In any such case, the Administrator of the Environmental Protection Agency shall be afforded the same opportunity to comment and question as is provided other interested persons under subsection (d).
+(g) 
+(h) 
+  (1) Except as provided in sections 8412(c)(4), 8433(d)(5), and 8434 of this title, title V of the Department of Energy Organization Act ( 42 U.S.C. 7191 , et seq.) shall not apply with respect to this chapter.
+  (2) The preceding provisions of this section shall not apply with respect to any exercise of authority under section 8374 of this title .
+  (3) The procedures applicable under this chapter shall not—
+    (A) be considered to be modified or affected by any other provision of law unless such other provision specifically amends this chapter (or provisions of law cited herein), or
+    (B) be considered to be superseded by any other provision of law unless such other provision does so in specific terms, referring to this chapter, and declaring that such provision supersedes, in whole or in part, the procedures of this chapter.

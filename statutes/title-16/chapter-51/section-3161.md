@@ -1,0 +1,17 @@
+---
+title: "Section 3161 - Congressional declaration of findings"
+usc_title: 16
+usc_section: "3161"
+chapter: 51
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 3161"
+generated_at: "2026-03-29T00:29:52.790Z"
+---
+
+# § 3161. Congressional declaration of findings
+
+Congress finds that—
+
+(a) Alaska’s transportation and utility network is largely undeveloped and the future needs for transportation and utility systems in Alaska would best be identified and provided for through an orderly, continuous decisionmaking process involving the State and Federal Governments and the public;
+(b) the existing authorities to approve or disapprove applications for transportation and utility systems through public lands in Alaska are diverse, dissimilar, and, in some cases, absent; and
+(c) to minimize the adverse impacts of siting transportation and utility systems within units established or expanded by this Act and to insure the effectiveness of the decisionmaking process, a single comprehensive statutory authority for the approval or disapproval of applications for such systems must be provided in this Act.

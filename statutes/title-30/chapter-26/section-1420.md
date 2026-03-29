@@ -1,0 +1,14 @@
+---
+title: "Section 1420 - Conservation of natural resources"
+usc_title: 30
+usc_section: "1420"
+chapter: 26
+current_through: "PL 119-73"
+classification: "30 U.S.C. § 1420"
+generated_at: "2026-03-29T00:31:30.830Z"
+---
+
+# § 1420. Conservation of natural resources
+
+For the purpose of conservation of natural resources, each license and permit issued under this subchapter shall contain, as needed, terms, conditions, and restrictions which have due regard for the prevention of waste and the future opportunity for the commercial recovery of the unrecovered balance of the hard mineral resources in the area to which the license or permit applies. In establishing these terms, conditions, and restrictions, the Administrator shall consider the state of the technology, the processing system utilized and the value and potential use of any waste, the environmental effects of the exploration or commercial recovery activities, economic and resource data, and the national need for hard mineral resources. As used in this chapter, the term “conservation of natural resources” is not intended to grant, imply, or create any inference of production controls or price regulation, in particular those which would affect the volume of production, prices, profits, markets, or the decision of which minerals or metals are to be recovered, except as such effects may be incidental to actions taken pursuant to this section.
+

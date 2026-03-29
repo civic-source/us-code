@@ -1,0 +1,19 @@
+---
+title: "Section 1202a - Employee plans compliance resolution system"
+usc_title: 29
+usc_section: "1202a"
+chapter: 18
+current_through: "PL 119-73"
+classification: "29 U.S.C. § 1202a"
+generated_at: "2026-03-29T00:31:27.668Z"
+---
+
+# § 1202a. Employee plans compliance resolution system
+
+(a) The Secretary of the Treasury shall have full authority to establish and implement the Employee Plans Compliance Resolution System (or any successor program) and any other employee plans correction policies, including the authority to waive income, excise, or other taxes to ensure that any tax, penalty, or sanction is not excessive and bears a reasonable relationship to the nature, extent, and severity of the failure.
+(b) The Secretary of the Treasury shall continue to update and improve the Employee Plans Compliance Resolution System (or any successor program), giving special attention to—
+  (1) increasing the awareness and knowledge of small employers concerning the availability and use of the program;
+  (2) taking into account special concerns and circumstances that small employers face with respect to compliance and correction of compliance failures;
+  (3) extending the duration of the self-correction period under the Self-Correction Program for significant compliance failures;
+  (4) expanding the availability to correct insignificant compliance failures under the Self-Correction Program during audit; and
+  (5) assuring that any tax, penalty, or sanction that is imposed by reason of a compliance failure is not excessive and bears a reasonable relationship to the nature, extent, and severity of the failure.

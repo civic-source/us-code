@@ -1,0 +1,14 @@
+---
+title: "Section 1943 - Premiums"
+usc_title: 38
+usc_section: "1943"
+chapter: 19
+current_through: "PL 119-73"
+classification: "38 U.S.C. § 1943"
+generated_at: "2026-03-29T00:32:17.216Z"
+---
+
+# § 1943. Premiums
+
+The premium rates for insurance shall be the net rates based upon the American Experience Table of Mortality and interest at 3½ percent per annum. Regulations shall prescribe the time and method of payment of premiums, but payments of premiums in advance shall not be required for periods of more than one month each, and may be deducted from the pay or deposit of the insured or be otherwise made at the insured’s election.
+

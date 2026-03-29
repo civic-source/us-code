@@ -1,0 +1,42 @@
+---
+title: "Section 44 - Expenditures to provide access to disabled individuals"
+usc_title: 26
+usc_section: "44"
+chapter: 1
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 44"
+generated_at: "2026-03-29T00:31:20.573Z"
+---
+
+# § 44. Expenditures to provide access to disabled individuals
+
+(a) For purposes of section 38, in the case of an eligible small business, the amount of the disabled access credit determined under this section for any taxable year shall be an amount equal to 50 percent of so much of the eligible access expenditures for the taxable year as exceed $250 but do not exceed $10,250.
+(b) For purposes of this section, the term “eligible small business” means any person if—
+  (1) either—
+    (A) the gross receipts of such person for the preceding taxable year did not exceed $1,000,000, or
+    (B) in the case of a person to which subparagraph (A) does not apply, such person employed not more than 30 full-time employees during the preceding taxable year, and
+  (2) such person elects the application of this section for the taxable year.
+(c) For purposes of this section—
+  (1) The term “eligible access expenditures” means amounts paid or incurred by an eligible small business for the purpose of enabling such eligible small business to comply with applicable requirements under the Americans With Disabilities Act of 1990 (as in effect on the date of the enactment of this section).
+  (2) The term “eligible access expenditures” includes amounts paid or incurred—
+    (A) for the purpose of removing architectural, communication, physical, or transportation barriers which prevent a business from being accessible to, or usable by, individuals with disabilities,
+    (B) to provide qualified interpreters or other effective methods of making aurally delivered materials available to individuals with hearing impairments,
+    (C) to provide qualified readers, taped texts, and other effective methods of making visually delivered materials available to individuals with visual impairments,
+    (D) to acquire or modify equipment or devices for individuals with disabilities, or
+    (E) to provide other similar services, modifications, materials, or equipment.
+  (3) Amounts paid or incurred for the purposes described in paragraph (2) shall include only expenditures which are reasonable and shall not include expenditures which are unnecessary to accomplish such purposes.
+  (4) The term “eligible access expenditures” shall not include amounts described in paragraph (2)(A) which are paid or incurred in connection with any facility first placed in service after the date of the enactment of this section.
+  (5) The term “eligible access expenditures” shall not include any amount unless the taxpayer establishes, to the satisfaction of the Secretary, that the resulting removal of any barrier (or the provision of any services, modifications, materials, or equipment) meets the standards promulgated by the Secretary with the concurrence of the Architectural and Transportation Barriers Compliance Board and set forth in regulations prescribed by the Secretary.
+(d) For purposes of this section—
+  (1) The term “disability” has the same meaning as when used in the Americans With Disabilities Act of 1990 (as in effect on the date of the enactment of this section).
+  (2) 
+    (A) All members of the same controlled group of corporations (within the meaning of section 52(a)) and all persons under common control (within the meaning of section 52(b)) shall be treated as 1 person for purposes of this section.
+    (B) The Secretary shall apportion the dollar limitation under subsection (a) among the members of any group described in subparagraph (A) in such manner as the Secretary shall by regulations prescribe.
+  (3) In the case of a partnership, the limitation under subsection (a) shall apply with respect to the partnership and each partner. A similar rule shall apply in the case of an S corporation and its shareholders.
+  (4) The Secretary shall prescribe such adjustments as may be appropriate for purposes of paragraph (1) of subsection (b) if the preceding taxable year is a taxable year of less than 12 months.
+  (5) Gross receipts for any taxable year shall be reduced by returns and allowances made during such year.
+  (6) The reference to any person in paragraph (1) of subsection (b) shall be treated as including a reference to any predecessor.
+  (7) In the case of the amount of the credit determined under this section—
+    (A) no deduction or credit shall be allowed for such amount under any other provision of this chapter, and
+    (B) no increase in the adjusted basis of any property shall result from such amount.
+(e) The Secretary shall prescribe regulations necessary to carry out the purposes of this section.

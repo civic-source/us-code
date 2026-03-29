@@ -1,0 +1,15 @@
+---
+title: "Section 10157 - Transportation"
+usc_title: 42
+usc_section: "10157"
+chapter: 108
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 10157"
+generated_at: "2026-03-29T00:32:54.196Z"
+---
+
+# § 10157. Transportation
+
+(a) 
+  (1) 1 1 So in original. No subsec. (b) has been enacted. Transportation of spent nuclear fuel under section 10156(a) of this title shall be subject to licensing and regulation by the Commission and by the Secretary of Transportation as provided for transportation of commercial spent nuclear fuel under existing law.
+  (2) The Secretary, in providing for the transportation of spent nuclear fuel under this chapter, shall utilize by contract private industry to the fullest extent possible in each aspect of such transportation. The Secretary shall use direct Federal services for such transportation only upon a determination of the Secretary of Transportation, in consultation with the Secretary, that private industry is unable or unwilling to provide such transportation services at reasonable cost.

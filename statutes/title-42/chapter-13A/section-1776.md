@@ -1,0 +1,114 @@
+---
+title: "Section 1776 - State administrative expenses"
+usc_title: 42
+usc_section: "1776"
+chapter: 13
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 1776"
+generated_at: "2026-03-29T00:32:53.685Z"
+---
+
+# § 1776. State administrative expenses
+
+(a) 
+  (1) 
+    (A) Each fiscal year, the Secretary shall make available to the States for their administrative costs an amount equal to not less than 1½ percent of the Federal funds expended under sections 4, 11, and 17 of the Richard B. Russell National School Lunch Act [ 42 U.S.C. 1753 , 1759a, 1766] and 1772 and 1773 of this title during the second preceding fiscal year.
+    (B) The Secretary shall allocate the funds so provided in accordance with paragraphs (2), (3), and (4) of this subsection.
+  (2) 
+    (A) Subject to subparagraph (B), the Secretary shall allocate to each State for administrative costs incurred in any fiscal year in connection with the programs authorized under the Richard B. Russell National School Lunch Act [ 42 U.S.C. 1751 et seq.] or under this chapter, except for the programs authorized under section 13 or 17 of the Richard B. Russell National School Lunch Act [ 42 U.S.C. 1761 , 1766] or under section 1786 of this title , an amount equal to not less than 1 percent and not more than 1½ percent of the funds expended by each State under sections 4 and 11 of the Richard B. Russell National School Lunch Act [ 42 U.S.C. 1753 , 1759a] and sections 1772 and 1773 of this title during the second preceding fiscal year.
+    (B) 
+      (i) In no case shall the grant available to any State under this paragraph be less than the amount such State was allocated in the fiscal year ending September 30, 1981 , or $200,000 (as adjusted under clause (ii), 1 1 So in original. Probably should be preceded by an additional closing parenthesis. whichever is larger.
+      (ii) On October 1, 2008 , and each October 1 thereafter, the minimum dollar amount for a fiscal year specified in clause (i) shall be adjusted to reflect the percentage change between—
+        (I) the value of the index for State and local government purchases, as published by the Bureau of Economic Analysis of the Department of Commerce, for the 12-month period ending June 30 of the second preceding fiscal year; and
+        (II) the value of that index for the 12-month period ending June 30 of the preceding fiscal year.
+  (3) The Secretary shall allocate to each State for its administrative costs incurred under the program authorized by section 17 of the Richard B. Russell National School Lunch Act [ 42 U.S.C. 1766 ] in any fiscal year an amount, based upon funds expended under that program in the second preceding fiscal year, equal to (A) 20 percent of the first $50,000, (B) 10 percent of the next $100,000, (C) 5 percent of the next $250,000, and (D) 2½ percent of any remaining funds. If an agency in the State other than the State educational agency administers such program, the State shall ensure that an amount equal to no less than the funds due the State under this paragraph is provided to such agency for costs incurred by such agency in administering the program, except as provided in paragraph (5). The Secretary may adjust any State’s allocation to reflect changes in the size of its program.
+  (4) The remaining funds appropriated under this section shall be allocated among the States by the Secretary in amounts the Secretary determines necessary for the improvement in the States of the administration of the programs authorized under the Richard B. Russell National School Lunch Act [ 42 U.S.C. 1751 et seq.] and this chapter, except for section 1786 of this title , including, but not limited to, improved program integrity and the quality of meals served to children.
+  (5) 
+    (A) Not more than 25 percent of the amounts made available to each State under this section for the fiscal year 1991 and 20 percent of the amounts made available to each State under this section for the fiscal year 1992 and for each succeeding fiscal year may remain available for obligation or expenditure in the fiscal year succeeding the fiscal year for which such amounts were appropriated.
+    (B) 
+      (i) For each fiscal year, any amounts appropriated that are not obligated or expended during the fiscal year and are not carried over for the succeeding fiscal year under subparagraph (A) shall be returned to the Secretary.
+      (ii) The Secretary shall allocate, for purposes of administrative costs, any remaining amounts among States that demonstrate a need for the amounts.
+  (6) Funds available to a State under this subsection and under section 13(k)(1) of the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1761(k)(1) ) may be used by the State for the costs of administration of the programs authorized under this chapter (except for the programs authorized under sections 1786 and 1790 of this title) and the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1751 et seq.) without regard to the basis on which the funds were earned and allocated.
+  (7) Where the Secretary is responsible for the administration of programs under this chapter or the Richard B. Russell National School Lunch Act [ 42 U.S.C. 1751 et seq.], the amount of funds that would be allocated to the State agency under this section and under section 13(k)(1) of the Richard B. Russell National School Lunch Act [ 42 U.S.C. 1761(k)(1) ] shall be retained by the Secretary for the Secretary’s use in the administration of such programs.
+  (8) In the fiscal year 1991 and each succeeding fiscal year, in accordance with regulations issued by the Secretary, each State shall ensure that the State agency administering the distribution of commodities under programs authorized under this chapter and under the Richard B. Russell National School Lunch Act [ 42 U.S.C. 1751 et seq.] is provided, from funds made available to the State under this subsection, an appropriate amount of funds for administrative costs incurred in distributing such commodities. In developing such regulations, the Secretary may consider the value of commodities provided to the State under this chapter and under the Richard B. Russell National School Lunch Act.
+  (9) 
+    (A) If the Secretary determines that the administration of any program by a State under this chapter (other than section 1786 of this title ) or under the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1751 et seq.) (including any requirement to provide sufficient training, technical assistance, and monitoring of the child and adult care food program under section 17 of that Act ( 42 U.S.C. 1766 )), or compliance with a regulation issued pursuant to either this chapter or such Act, is seriously deficient, and the State fails to correct the deficiency within a specified period of time, the Secretary may withhold from the State some or all of the funds allocated to the State under this section or under section 13(k)(1) or 17 of the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1761(k)(1) or 1766).
+    (B) On a subsequent determination by the Secretary that the administration of any program referred to in subparagraph (A), or compliance with the regulations issued to carry out the program, is no longer seriously deficient and is operated in an acceptable manner, the Secretary may allocate some or all of the funds withheld under such subparagraph.
+(b) Funds paid to a State under subsection (a) of this section may be used to pay salaries, including employee benefits and travel expenses, for administrative and supervisory personnel; for support services; for office equipment; and for staff development.
+(c) If any State agency agrees to assume responsibility for the administration of food service programs in nonprofit private schools or child care institutions that were previously administered by the Secretary, an appropriate adjustment shall be made in the administrative funds paid under this section to the State not later than the succeeding fiscal year.
+(d) Notwithstanding any other provision of law, funds made available to each State under this section shall remain available for obligation and expenditure by that State during the fiscal year immediately following the fiscal year for which such funds were made available. For each fiscal year the Secretary shall establish a date by which each State shall submit to the Secretary a plan for the disbursement of funds provided under this section for each such year, and the Secretary shall reallocate any unused funds, as evidenced by such plans, to other States as the Secretary considers appropriate.
+(e) 
+  (1) Each State shall submit to the Secretary for approval by October 1 of the initial fiscal year a plan for the use of State administrative expense funds, including a staff formula for State personnel, system level supervisory and operating personnel, and school level personnel.
+  (2) 
+    (A) After submitting the initial plan, a State shall be required to submit to the Secretary for approval only a substantive change in the plan.
+    (B) Each State plan shall, at a minimum, include a description of how technology and information management systems will be used to improve program integrity by—
+      (i) monitoring the nutrient content of meals served;
+      (ii) training local educational agencies, school food authorities, and schools in how to use technology and information management systems (including verifying eligibility for free or reduced price meals using program participation or income data gathered by State or local agencies); and
+      (iii) using electronic data to establish benchmarks to compare and monitor program integrity, program participation, and financial data.
+  (3) Each State shall submit to the Secretary for approval a plan describing the manner in which the State intends to implement subsection (g) and section 22(b)(3) of the Richard B. Russell National School Lunch Act [ 42 U.S.C. 1769c(b)(3) ].
+(f) Payments of funds under this section shall be made only to States that agree to maintain a level of funding out of State revenues, for administrative costs in connection with programs under this chapter (except section 1786 of this title ) and the Richard B. Russell National School Lunch Act [ 42 U.S.C. 1751 et seq.] (except section 13 of that Act [ 42 U.S.C. 1761 ]), not less than the amount expended or obligated in fiscal year 1977, and that agree to participate fully in any studies authorized by the Secretary.
+(g) 
+  (1) 
+    (A) 
+      (i) The Secretary shall establish a program of required education, training, and certification for all school food service directors responsible for the management of a school food authority.
+      (ii) The program shall include—
+        (I) minimum educational requirements necessary to successfully manage the school lunch program established under the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1751 et seq.) and the school breakfast program established by section 1773 of this title ;
+        (II) minimum program training and certification criteria for school food service directors; and
+        (III) minimum periodic training criteria to maintain school food service director certification.
+    (B) The Secretary shall establish criteria and standards for States to use in the selection of State agency directors with responsibility for the school lunch program established under the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1751 et seq.) and the school breakfast program established by section 1773 of this title .
+    (C) The Secretary may provide financial and other assistance to 1 or more professional food service management organizations—
+      (i) to establish and manage the program under this paragraph; and
+      (ii) to develop voluntary training and certification programs for other school food service workers.
+    (D) 
+      (i) The Secretary shall establish a date by which all school food service directors whose local educational agencies are participating in the school lunch program established under the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1751 et seq.) and the school breakfast program established by section 1773 of this title shall be required to comply with the education, training, and certification criteria established in accordance with subparagraph (A).
+      (ii) The Secretary shall establish a date by which all State agencies shall be required to comply with criteria and standards established in accordance with subparagraph (B) for the selection of State agency directors with responsibility for the school lunch program established under the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1751 et seq.) and the school breakfast program established by section 1773 of this title .
+  (2) 
+    (A) 
+      (i) At least annually, each State shall provide training in administrative practices (including training in application, certification, verification, meal counting, and meal claiming procedures) to local educational agency and school food authority personnel and other appropriate personnel.
+      (ii) The Secretary shall—
+        (I) provide training and technical assistance described in clause (i) to the State; or
+        (II) at the option of the Secretary, directly provide training and technical assistance described in clause (i).
+      (iii) In accordance with procedures established by the Secretary, each local educational agency or school food authority shall ensure that an individual conducting or overseeing administrative procedures described in clause (i) receives training at least annually, unless determined otherwise by the Secretary.
+    (B) 
+      (i) The Secretary shall provide training designed to improve—
+        (I) the accuracy of approvals for free and reduced price meals; and
+        (II) the identification of reimbursable meals at the point of service.
+      (ii) In accordance with criteria established by the Secretary, local food service personnel shall complete annual training and receive annual certification—
+        (I) to ensure program compliance and integrity; and
+        (II) to demonstrate competence in the training provided under clauses (i) and (iii).
+      (iii) In addition to the topics described in clause (i), a training program carried out under this subparagraph shall include training modules on—
+        (I) nutrition;
+        (II) food allergies, including information on the best practices to prevent, recognize, and respond to food-related allergic reactions;
+        (III) health and food safety standards and methodologies; and
+        (IV) any other appropriate topics, as determined by the Secretary.
+  (3) 
+    (A) Out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary to carry out this subsection, to remain available until expended—
+      (i) on October 1, 2010 , $5,000,000; and
+      (ii) on each October 1 thereafter, $1,000,000.
+    (B) The Secretary shall be entitled to receive, shall accept, and shall use to carry out this subsection the funds transferred under subparagraph (A), without further appropriation.
+(h) 
+  (1) 
+    (A) On October 1, 2004 , and on each October 1 thereafter, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary of Agriculture to carry out this subsection $4,000,000, to remain available until expended.
+    (B) The Secretary shall be entitled to receive, shall accept, and shall use to carry out this subsection the funds transferred under subparagraph (A), without further appropriation.
+  (2) 
+    (A) Except as provided in subparagraph (B), the Secretary shall use funds provided under this subsection to assist States in carrying out subsection (g) and administrative reviews of selected local educational agencies carried out under section 22 of the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1769c ).
+    (B) The Secretary may retain a portion of the amount provided to cover costs of activities carried out by the Secretary in lieu of the State.
+  (3) The Secretary shall allocate funds provided under this subsection to States based on the number of local educational agencies that have demonstrated a high level of, or a high risk for, administrative error, as determined by the Secretary, taking into account the requirements established by the Child Nutrition and WIC Reauthorization Act of 2004 and the amendments made by that Act.
+  (4) The Secretary may reallocate, to carry out this section, any amounts made available to carry out this subsection that are not obligated or expended, as determined by the Secretary.
+(i) 
+  (1) Each State shall submit to the Secretary, for approval by the Secretary, an amendment to the plan required by subsection (e) that describes the manner in which funds provided under this section will be used for technology and information management systems.
+  (2) The amendment shall, at a minimum, describe the manner in which the State will improve program integrity by—
+    (A) monitoring the nutrient content of meals served;
+    (B) providing training to local educational agencies, school food authorities, and schools on the use of technology and information management systems for activities including—
+      (i) menu planning;
+      (ii) collection of point-of-sale data; and
+      (iii) the processing of applications for free and reduced price meals; and
+    (C) using electronic data to establish benchmarks to compare and monitor program integrity, program participation, and financial data across schools and school food authorities.
+  (3) 
+    (A) Subject to the availability of funds made available under paragraph (4) to carry out this paragraph, the Secretary shall, on a competitive basis, provide funds to States to be used to provide grants to local educational agencies, school food authorities, and schools to defray the cost of purchasing or upgrading technology and information management systems for use in programs authorized by this chapter (other than section 1786 of this title ) and the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1751 et seq.).
+    (B) To be eligible to receive a grant under this paragraph, a school or school food authority shall submit to the State a plan to purchase or upgrade technology and information management systems that addresses potential cost savings and methods to improve program integrity, including—
+      (i) processing and verification of applications for free and reduced price meals;
+      (ii) integration of menu planning, production, and serving data to monitor compliance with section 9(f)(1) of the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1758(f)(1) ); and
+      (iii) compatibility with statewide reporting systems.
+  (4) There are authorized to be appropriated to carry out this subsection such sums as are necessary for each of fiscal years 2010 through 2015, to remain available until expended.
+(j) For the fiscal year beginning October 1, 1977 , and each succeeding fiscal year ending before October 1, 2015 , there are hereby authorized to be appropriated such sums as may be necessary for the purposes of this section.

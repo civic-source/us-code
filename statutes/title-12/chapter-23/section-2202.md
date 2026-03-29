@@ -1,0 +1,25 @@
+---
+title: "Section 2202 - Reconsideration of actions"
+usc_title: 12
+usc_section: "2202"
+chapter: 23
+current_through: "PL 119-73"
+classification: "12 U.S.C. § 2202"
+generated_at: "2026-03-29T00:29:16.737Z"
+---
+
+# § 2202. Reconsideration of actions
+
+(a) 
+  (1) The board of directors of each qualified lender shall establish one or more credit review committees, which shall include farmer board representation.
+  (2) In no case shall a loan officer involved in the initial decision on a loan serve on the credit review committee when the committee reviews such loan.
+(b) 
+  (1) Any applicant for a loan from a qualified lender that has received a written notice issued under section 2201 of this title of a decision to deny or reduce the loan applied for may submit a written request, not later than 30 days after receiving a notice denying or reducing the amount of the loan application, to obtain a review of the decision before the credit review committee.
+  (2) A borrower of a loan from a qualified lender that has received notice, under section 2201 of this title , of a decision to deny loan restructuring with respect to a loan made to the borrower, if the borrower so requests in writing within 7 days after receiving such notice, may obtain a review of such decision in person before the credit review committee.
+(c) An applicant for a loan or for restructuring, who is entitled to and has requested a review under this section, may appear in person before the credit review committee, and may be accompanied by counsel or by any other representative of such person’s choice, to seek a reversal of the decision on the application under review.
+(d) 
+  (1) An appeal filed with a credit review committee under this section may include, as a part of the request for a review of the decision filed under subsection (b)(1) or (2), a request for an independent appraisal, by an accredited appraiser, of any interests in property securing the loan (other than the stock or participation certificates of the qualified lender held by the borrower).
+  (2) Within 30 days after a request for an appraisal under paragraph (1), the credit review committee shall present the borrower with a list of three appraisers approved by the appropriate qualified lender from which the borrower shall select an appraiser to conduct the appraisal the cost of which shall be borne by the borrower, and shall consider the results of such appraisal in any final determination with respect to the loan.
+  (3) A copy of any appraisal made under this subsection shall be provided to the borrower.
+  (4) An independent appraisal shall be permitted if additional collateral for a loan is demanded by the qualified lender when determining whether to restructure the loan.
+(e) Promptly after a review by the credit review committee, the committee shall notify the applicant or borrower, as the case may be, in writing of the decision of the committee and the reasons for the decision.

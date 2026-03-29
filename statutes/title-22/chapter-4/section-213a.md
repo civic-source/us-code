@@ -1,0 +1,22 @@
+---
+title: "Section 213a - Authority to designate additional passport acceptance agents"
+usc_title: 22
+usc_section: "213a"
+chapter: 4
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 213a"
+generated_at: "2026-03-29T00:30:33.625Z"
+---
+
+# § 213a. Authority to designate additional passport acceptance agents
+
+(a) The Secretary may designate any person described in subsection (b) that meets such other requirements as the Secretary may prescribe pursuant to regulations to serve as a passport acceptance agent, unless the Secretary withdraws such authorization on a case-by-case basis with respect to a given person.
+(b) A person described in this subsection is any of the following:
+  (1) An employee of the clerk of any Federal court.
+  (2) An employee of the clerk of any State court of record.
+  (3) A postal employee at a United States post office that has been selected to accept passport applications.
+  (4) An employee of the Department of Defense at a military installation that has been authorized to accept passport applications.
+  (5) An employee of a Federal department or agency that has been selected to accept passport applications.
+  (6) A United States citizen who, as determined by the Secretary, is employed by and provides services through a reputable, established company or institution and is commissioned or appointed as a notary or notary public or otherwise authorized to perform a notarization under the laws of a State, district, or territorial government.
+  (7) Any other person specifically designated by the Secretary.
+(c) The Secretary shall prescribe or revise such regulations as may be necessary to carry out this division.

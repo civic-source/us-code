@@ -1,0 +1,20 @@
+---
+title: "Section 721 - Responses to safety recommendations"
+usc_title: 14
+usc_section: "721"
+chapter: 7
+current_through: "PL 119-73"
+classification: "14 U.S.C. § 721"
+generated_at: "2026-03-29T00:29:24.991Z"
+---
+
+# § 721. Responses to safety recommendations
+
+(a) Not later than 90 days after the National Transportation Safety Board submits to the Commandant a recommendation, and supporting justification for such recommendation, relating to transportation safety, the Commandant shall submit to the National Transportation Safety Board a written response to the recommendation, including whether the Commandant—
+  (1) concurs with the recommendation;
+  (2) partially concurs with the recommendation; or
+  (3) does not concur with the recommendation.
+(b) The Commandant shall include in a response submitted under subsection (a)—
+  (1) with respect to a recommendation with which the Commandant concurs or partially concurs, an explanation of the actions the Commandant intends to take to implement such recommendation or part of such recommendation; and
+  (2) with respect to a recommendation with which the Commandant does not concur, the reasons the Commandant does not concur.
+(c) If the National Transportation Safety Board has not received the written response required under subsection (a) by the end of the time period described in such subsection, the National Transportation Safety Board shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that such response has not been received.

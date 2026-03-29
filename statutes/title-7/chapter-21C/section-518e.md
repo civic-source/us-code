@@ -1,0 +1,31 @@
+---
+title: "Section 518e - Tobacco Trust Fund"
+usc_title: 7
+usc_section: "518e"
+chapter: 21
+current_through: "PL 119-73"
+classification: "7 U.S.C. § 518e"
+generated_at: "2026-03-29T00:28:57.944Z"
+---
+
+# § 518e. Tobacco Trust Fund
+
+(a) There is established in the Commodity Credit Corporation a revolving trust fund, to be known as the “Tobacco Trust Fund”, which shall be used in carrying out this subchapter. The Tobacco Trust Fund shall consist of the following:
+  (1) Assessments collected under section 518d of this title .
+  (2) Such amounts as are necessary from the Commodity Credit Corporation.
+  (3) Any interest earned on investment of amounts in the Tobacco Trust Fund under subsection (c).
+(b) 
+  (1) Subject to paragraph (2), and notwithstanding any other provision of law, the Secretary shall use amounts in the Tobacco Trust Fund, in such amounts as the Secretary determines are necessary—
+    (A) to make payments under sections 518a and 518b of this title;
+    (B) to provide reimbursement under section 519(c) of this title ;
+    (C) to reimburse the Commodity Credit Corporation for costs incurred by the Commodity Credit Corporation under paragraph (2); and
+    (D) to make payments to financial institutions to satisfy contractual obligations under section 518a or 518b of this title.
+  (2) Notwithstanding any other provision of law, the Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to make payments described in paragraph (1). Not later than January 1, 2015 , the Secretary shall use amounts in the Tobacco Trust Fund to fully reimburse, with interest, the Commodity Credit Corporation for all funds of the Commodity Credit Corporation expended under the authority of this paragraph. Administrative costs incurred by the Secretary or the Commodity Credit Corporation to carry out this title 1 1 See References in Text note below. may not be paid using amounts in the Tobacco Trust Fund.
+(c) 
+  (1) The Commodity Credit Corporation shall invest such portion of the amounts in the Tobacco Trust Fund as are not, in the judgment of the Commodity Credit Corporation, required to meet current expenditures.
+  (2) Investments may be made only in interest-bearing obligations of the United States.
+  (3) For the purpose of investments under paragraph (1), obligations may be acquired—
+    (A) on original issue at the issue price; or
+    (B) by purchase of outstanding obligations at the market price.
+  (4) Any obligation acquired by the Tobacco Trust Fund may be sold by the Commodity Credit Corporation at the market price.
+  (5) The interest on, and the proceeds from the sale or redemption of, any obligations held in the Tobacco Trust Fund shall be credited to and form a part of the Fund.

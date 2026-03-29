@@ -1,0 +1,32 @@
+---
+title: "Section 1273 - Lake Pontchartrain Basin"
+usc_title: 33
+usc_section: "1273"
+chapter: 26
+current_through: "PL 119-73"
+classification: "33 U.S.C. § 1273"
+generated_at: "2026-03-29T00:31:57.307Z"
+---
+
+# § 1273. Lake Pontchartrain Basin
+
+(a) The Administrator shall establish within the Environmental Protection Agency the Lake Pontchartrain Basin Restoration Program.
+(b) The purpose of the program shall be to restore the ecological health of the Basin by developing and funding restoration projects and related scientific and public education projects.
+(c) In carrying out the program, the Administrator shall—
+  (1) provide administrative and technical assistance to a management conference convened for the Basin under section 1330 of this title ;
+  (2) assist and support the activities of the management conference, including the implementation of recommendations of the management conference;
+  (3) support environmental monitoring of the Basin and research to provide necessary technical and scientific information;
+  (4) develop a comprehensive research plan to address the technical needs of the program;
+  (5) coordinate the grant, research, and planning programs authorized under this section;
+  (6) collect and make available to the public publications, and other forms of information the management conference determines to be appropriate, relating to the environmental quality of the Basin; and
+  (7) ensure that the comprehensive conservation and management plan approved for the Basin under section 1330 of this title is reviewed and revised in accordance with section 1330 of this title not less often than once every 5 years, beginning on December 23, 2022 .
+(d) The Administrator may make grants to pay not more than 75 percent of the costs—
+  (1) for restoration projects and studies identified in the comprehensive conservation and management plan approved for the Basin under section 1330 of this title ; and
+  (2) for public education projects recommended by the management conference.
+(e) In this section, the following definitions apply:
+  (1) The term “Basin” means the Lake Pontchartrain Basin, a 10,000 square mile watershed encompassing 16 parishes in the State of Louisiana and 4 counties in the State of Mississippi.
+  (2) The term “program” means the Lake Pontchartrain Basin Restoration Program established under subsection (a).
+(f) 
+  (1) There is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2001 through 2012 and the amount appropriated for fiscal year 2009 for each of fiscal years 2013 through 2017. Such sums shall remain available until expended.
+  (2) Not more than 15 percent of the amount appropriated pursuant to paragraph (1) in a fiscal year may be expended on grants for public education projects under subsection (d)(2).
+  (3) Not more than 5 percent of the amounts appropriated to carry out this section may be used for administrative expenses.

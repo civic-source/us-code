@@ -1,0 +1,14 @@
+---
+title: "Section 5 - Southeastern Power Administration; deposit and availability of advance payments"
+usc_title: 16
+usc_section: "5"
+chapter: 12
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 5"
+generated_at: "2026-03-29T00:29:52.649Z"
+---
+
+# § 825s–5. Southeastern Power Administration; deposit and availability of advance payments
+
+Notwithstanding the provisions of section 3302 of title 31 , beginning in fiscal year 2008 and thereafter, such funds as are received by the Southeastern Power Administration from any State, municipality, corporation, association, firm, district, or individual as advance payment for work that is associated with Southeastern’s Operations and Maintenance, consistent with that authorized in section 825s of this title , shall be credited to this account and be available until expended.
+

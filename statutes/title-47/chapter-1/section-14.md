@@ -1,0 +1,14 @@
+---
+title: "Section 14 - Contracts filed with Federal Communications Commission; reports; failure to make"
+usc_title: 47
+usc_section: "14"
+chapter: 1
+current_through: "PL 119-73"
+classification: "47 U.S.C. § 14"
+generated_at: "2026-03-29T00:33:04.832Z"
+---
+
+# § 14. Contracts filed with Federal Communications Commission; reports; failure to make
+
+It shall be the duty of each and every one of the aforesaid railroad and telegraph companies annually to report to the Federal Communications Commission, with reasonable fullness and certainty, the nature, extent, value, and condition of the telegraph lines and property then belonging to it, the gross earnings, and all expenses of maintenance, use, and operation thereof, and its relation and business with all connecting telegraph companies during the preceding year, at such time and in such manner as may be required by a system of reports which said commission shall prescribe; and if any of said railroad or telegraph companies shall refuse or fail to make such reports or any report as may be called for by said commission, or refuse to submit its books and records for inspection, such neglect or refusal shall operate as a forfeiture, in each case of such neglect or refusal, of a sum not less than $1,000 nor more than $5,000, to be recovered by the Attorney General of the United States, in the name and for the use and benefit of the United States; and it shall be the duty of the Federal Communications Commission to inform the Attorney General of all such cases of neglect or refusal, whose duty it shall be to proceed at once to judicially enforce the forfeitures herein before provided.
+

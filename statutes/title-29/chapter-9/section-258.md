@@ -1,0 +1,14 @@
+---
+title: "Section 258 - Reliance on past administrative rulings, etc."
+usc_title: 29
+usc_section: "258"
+chapter: 9
+current_through: "PL 119-73"
+classification: "29 U.S.C. § 258"
+generated_at: "2026-03-29T00:31:27.562Z"
+---
+
+# § 258. Reliance on past administrative rulings, etc.
+
+In any action or proceeding commenced prior to or on or after May 14, 1947 based on any act or omission prior to May 14, 1947 , no employer shall be subject to any liability or punishment for or on account of the failure of the employer to pay minimum wages or overtime compensation under the Fair Labor Standards Act of 1938, as amended [ 29 U.S.C. 201 et seq.], the Walsh-Healey Act, or the Bacon-Davis Act, 1 1 See References in Text note below. if he pleads and proves that the act or omission complained of was in good faith in conformity with and in reliance on any administrative regulation, order, ruling, approval, or interpretation, of any agency of the United States, or any administrative practice or enforcement policy of any such agency with respect to the class of employers to which he belonged. Such a defense, if established, shall be a bar to the action or proceeding, notwithstanding that after such act or omission, such administrative regulation, order, ruling, approval, interpretation, practice, or enforcement policy is modified or rescinded or is determined by judicial authority to be invalid or of no legal effect.
+

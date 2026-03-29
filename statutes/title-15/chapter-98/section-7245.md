@@ -1,0 +1,16 @@
+---
+title: "Section 7245 - Rules of professional responsibility for attorneys"
+usc_title: 15
+usc_section: "7245"
+chapter: 98
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 7245"
+generated_at: "2026-03-29T00:29:41.918Z"
+---
+
+# § 7245. Rules of professional responsibility for attorneys
+
+Not later than 180 days after July 30, 2002 , the Commission shall issue rules, in the public interest and for the protection of investors, setting forth minimum standards of professional conduct for attorneys appearing and practicing before the Commission in any way in the representation of issuers, including a rule—
+
+  (1) requiring an attorney to report evidence of a material violation of securities law or breach of fiduciary duty or similar violation by the company or any agent thereof, to the chief legal counsel or the chief executive officer of the company (or the equivalent thereof); and
+  (2) if the counsel or officer does not appropriately respond to the evidence (adopting, as necessary, appropriate remedial measures or sanctions with respect to the violation), requiring the attorney to report the evidence to the audit committee of the board of directors of the issuer or to another committee of the board of directors comprised solely of directors not employed directly or indirectly by the issuer, or to the board of directors.

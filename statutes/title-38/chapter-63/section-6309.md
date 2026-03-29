@@ -1,0 +1,16 @@
+---
+title: "Section 6309 - Biennial report to Congress"
+usc_title: 38
+usc_section: "6309"
+chapter: 63
+current_through: "PL 119-73"
+classification: "38 U.S.C. § 6309"
+generated_at: "2026-03-29T00:32:17.317Z"
+---
+
+# § 6309. Biennial report to Congress
+
+(a) The Secretary shall, not later than December 1 of every even-numbered year (beginning in 2008), submit to Congress a report on the outreach activities carried out by the Department.
+(b) Each report under this section shall include the following:
+  (1) A description of the implementation during the preceding fiscal year of the current biennial plan under section 6302 of this title .
+  (2) Recommendations for the improvement or more effective administration of the outreach activities of the Department.

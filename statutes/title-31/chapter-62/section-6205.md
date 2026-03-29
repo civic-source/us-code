@@ -1,0 +1,16 @@
+---
+title: "Section 6205 - Availability of information"
+usc_title: 31
+usc_section: "6205"
+chapter: 62
+current_through: "PL 119-73"
+classification: "31 U.S.C. § 6205"
+generated_at: "2026-03-29T00:31:52.653Z"
+---
+
+# § 6205. Availability of information
+
+Each head of any authority of the Government having custody of the data files and systems referred to in section 6202(c)—
+
+  (1) shall make available to the Director (or other authority to which the Director has delegated the responsibility to carry out such section) the information requested in the form designated; and
+  (2) is authorized to make available to the Director (or such other authority) such administrative services, equipment, personnel, and facilities (and funds appropriated therefor) as the Director or such authority requires to carry out such section.

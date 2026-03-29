@@ -1,0 +1,14 @@
+---
+title: "Section 1512 - Powers and duties of Department"
+usc_title: 15
+usc_section: "1512"
+chapter: 40
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 1512"
+generated_at: "2026-03-29T00:29:41.702Z"
+---
+
+# § 1512. Powers and duties of Department
+
+It shall be the province and duty of said Department to foster, promote, and develop the foreign and domestic commerce, the mining, manufacturing, and fishery industries of the United States; and to this end it shall be vested with jurisdiction and control of the departments, bureaus, offices, and branches of the public service hereinafter specified, and with such other powers and duties as may be prescribed by law.
+

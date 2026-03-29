@@ -1,0 +1,35 @@
+---
+title: "Section 4226 - Environmental review"
+usc_title: 25
+usc_section: "4226"
+chapter: 43
+current_through: "PL 119-73"
+classification: "25 U.S.C. § 4226"
+generated_at: "2026-03-29T00:30:38.782Z"
+---
+
+# § 4226. Environmental review
+
+(a) 
+  (1) 
+    (A) The Secretary may carry out the alternative environmental protection procedures described in subparagraph (B) in order to ensure—
+      (i) that the policies of the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) and other provisions of law that further the purposes of such Act (as specified in regulations issued by the Secretary) are most effectively implemented in connection with the expenditure of grant amounts provided under this subchapter; and
+      (ii) to the public undiminished protection of the environment.
+    (B) In lieu of applying environmental protection procedures otherwise applicable, the Secretary may by regulation provide for the release of funds for specific projects to the Department of Hawaiian Home Lands if the Director of the Department assumes all of the responsibilities for environmental review, decisionmaking, and action under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.), and such other provisions of law as the regulations of the Secretary specify, that would apply to the Secretary were the Secretary to undertake those projects as Federal projects.
+  (2) 
+    (A) The Secretary shall issue regulations to carry out this section only after consultation with the Council on Environmental Quality.
+    (B) The regulations issued under this paragraph shall—
+      (i) provide for the monitoring of the environmental reviews performed under this section;
+      (ii) in the discretion of the Secretary, facilitate training for the performance of such reviews; and
+      (iii) provide for the suspension or termination of the assumption of responsibilities under this section.
+  (3) The duty of the Secretary under paragraph (2)(B) shall not be construed to limit or reduce any responsibility assumed by the Department of Hawaiian Home Lands for grant amounts with respect to any specific release of funds.
+(b) 
+  (1) The Secretary shall authorize the release of funds subject to the procedures under this section only if, not less than 15 days before that approval and before any commitment of funds to such projects, the Director of the Department of Hawaiian Home Lands submits to the Secretary a request for such release accompanied by a certification that meets the requirements of subsection (c).
+  (2) The approval of the Secretary of a certification described in paragraph (1) shall be deemed to satisfy the responsibilities of the Secretary under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) and such other provisions of law as the regulations of the Secretary specify to the extent that those responsibilities relate to the releases of funds for projects that are covered by that certification.
+(c) A certification under the procedures under this section shall—
+  (1) be in a form acceptable to the Secretary;
+  (2) be executed by the Director of the Department of Hawaiian Home Lands;
+  (3) specify that the Department of Hawaiian Home Lands has fully carried out its responsibilities as described under subsection (a); and
+  (4) specify that the Director—
+    (A) consents to assume the status of a responsible Federal official under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) and each provision of law specified in regulations issued by the Secretary to the extent that those laws apply by reason of subsection (a); and
+    (B) is authorized and consents on behalf of the Department of Hawaiian Home Lands and the Director to accept the jurisdiction of the Federal courts for the purpose of enforcement of the responsibilities of the Director of the Department of Hawaiian Home Lands as such an official.

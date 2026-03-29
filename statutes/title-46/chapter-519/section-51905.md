@@ -1,0 +1,14 @@
+---
+title: "Section 51905 - Flags and grave markers"
+usc_title: 46
+usc_section: "51905"
+chapter: 519
+current_through: "PL 119-73"
+classification: "46 U.S.C. § 51905"
+generated_at: "2026-03-29T00:33:02.930Z"
+---
+
+# § 51905. Flags and grave markers
+
+Except as authorized under another law, the Secretary of Transportation may issue, at no cost, a flag of the United States and a grave marker to the family or personal representative of a deceased individual who served in the merchant marine of the United States in support of the armed forces of the United States or its allies during a war or national emergency.
+

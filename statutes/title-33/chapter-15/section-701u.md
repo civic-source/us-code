@@ -1,0 +1,14 @@
+---
+title: "Section 701u - International engineering or scientific conferences; attendance"
+usc_title: 33
+usc_section: "701u"
+chapter: 15
+current_through: "PL 119-73"
+classification: "33 U.S.C. § 701u"
+generated_at: "2026-03-29T00:31:57.240Z"
+---
+
+# § 701u. International engineering or scientific conferences; attendance
+
+The Secretary of the Army is authorized to allot from any appropriations heretofore or hereafter made for flood control or rivers and harbors, funds for payment of expenses of representatives of the Corps of Engineers engaged on flood control and river and harbor work to international engineering or scientific conferences to be held outside the United States: Provided , That not more than ten representatives of the Corps of Engineers shall attend any one conference.
+

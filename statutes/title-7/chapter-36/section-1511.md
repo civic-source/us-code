@@ -1,0 +1,14 @@
+---
+title: "Section 1511 - Tax exemption"
+usc_title: 7
+usc_section: "1511"
+chapter: 36
+current_through: "PL 119-73"
+classification: "7 U.S.C. § 1511"
+generated_at: "2026-03-29T00:28:58.017Z"
+---
+
+# § 1511. Tax exemption
+
+The Corporation, including its franchise, its capital, reserves, and surplus, and its income and property, shall be exempt from all taxation on or after February 16, 1938 , imposed by the United States or by any Territory, dependency, or possession thereof, or by any State, county, municipality, or local taxing authority. A contract of insurance of the Corporation, and a contract of insurance reinsured by the Corporation, shall be exempt from taxation imposed by any State, municipality, or local taxing authority.
+

@@ -1,0 +1,14 @@
+---
+title: "Section 9833 - Financial assistance for Head Start programs"
+usc_title: 42
+usc_section: "9833"
+chapter: 105
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 9833"
+generated_at: "2026-03-29T00:32:54.166Z"
+---
+
+# § 9833. Financial assistance for Head Start programs
+
+The Secretary may, upon application by an agency which is eligible for designation as a Head Start agency pursuant to section 9836 of this title , provide financial assistance to such agency for a period of 5 years for the planning, conduct, administration, and evaluation of a Head Start program focused primarily upon children from low-income families who have not reached the age of compulsory school attendance which (1) will provide such comprehensive health, education, parental involvement, nutritional, social, and other services as will enable the children to attain their full potential and attain school readiness; and (2) will provide for direct participation of the parents of such children in the development, conduct, and overall program direction at the local level.
+

@@ -1,0 +1,17 @@
+---
+title: "Section 2666 - Definitions"
+usc_title: 7
+usc_section: "2666"
+chapter: 59
+current_through: "PL 119-73"
+classification: "7 U.S.C. § 2666"
+generated_at: "2026-03-29T00:28:58.149Z"
+---
+
+# § 2666. Definitions
+
+For the purposes of this subchapter—
+
+(a) “rural development” means the planning, financing, and development of facilities and services in rural areas that contribute to making those areas desirable places in which to live and make private and business investments; the planning, development, and expansion of business and industry in rural areas to provide increased employment and income; the planning, development, conservation, and use of land, water, and other natural resources of rural areas to maintain or improve the quality of the environment for people and business in rural areas; and the building or improvement of institutional, organizational, and leadership capacities of rural citizens and leaders to define and resolve their own community problems;
+(b) “State” means the several States, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands; and
+(c) “small farm” means any farm (1) producing family net income from all sources (farm and nonfarm) below the median nonmetropolitan income of the State; (2) operated by a family dependent on farming for a significant though not necessarily a majority of its income; and (3) on which family members provide most of the labor and management.

@@ -1,0 +1,14 @@
+---
+title: "Section 23 - Suits by United States; subpoenas for witnesses"
+usc_title: 15
+usc_section: "23"
+chapter: 1
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 23"
+generated_at: "2026-03-29T00:29:41.413Z"
+---
+
+# § 23. Suits by United States; subpoenas for witnesses
+
+In any suit, action, or proceeding brought by or on behalf of the United States subpoenas for witnesses who are required to attend a court of the United States in any judicial district in any case, civil or criminal, arising under the antitrust laws may run into any other district: Provided , That in civil cases no writ of subpoena shall issue for witnesses living out of the district in which the court is held at a greater distance than one hundred miles from the place of holding the same without the permission of the trial court being first had upon proper application and cause shown.
+

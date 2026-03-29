@@ -1,0 +1,14 @@
+---
+title: "Section 2705 - Compensation and travel expenses"
+usc_title: 44
+usc_section: "2705"
+chapter: 27
+current_through: "PL 119-73"
+classification: "44 U.S.C. § 2705"
+generated_at: "2026-03-29T00:32:58.557Z"
+---
+
+# § 2705. Compensation and travel expenses
+
+A member of the Committee may not be paid compensation for service performed as a member of the Committee. However, members of the Committee shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of service for the Committee.
+

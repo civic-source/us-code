@@ -1,0 +1,14 @@
+---
+title: "Section 1268 - Proceedings in name of United States; subpenas"
+usc_title: 15
+usc_section: "1268"
+chapter: 30
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 1268"
+generated_at: "2026-03-29T00:29:41.688Z"
+---
+
+# § 1268. Proceedings in name of United States; subpenas
+
+All criminal proceedings and all libel or injunction proceedings for the enforcement, or to restrain violations, of this chapter shall be by and in the name of the United States. Subpenas for witnesses who are required to attend a court of the United States in any district may run into any other district in any such proceeding.
+

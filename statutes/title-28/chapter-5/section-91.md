@@ -1,0 +1,14 @@
+---
+title: "Section 91 - Hawaii"
+usc_title: 28
+usc_section: "91"
+chapter: 5
+current_through: "PL 119-73"
+classification: "28 U.S.C. § 91"
+generated_at: "2026-03-29T00:31:24.112Z"
+---
+
+# § 91. Hawaii
+
+Hawaii constitutes one judicial district which includes the Midway Islands, Wake Island, Johnston Island, Sand Island, Kingman Reef, Palmyra Island, Baker Island, Howland Island, Jarvis Island, Canton Island, and Enderbury Island: Provided , That the inclusion of Canton and Enderbury Islands in such judicial district shall in no way be construed to be prejudicial to the claims of the United Kingdom to said Islands in accordance with the agreement of April 6, 1939 , between the Governments of the United States and of the United Kingdom to set up a regime for their use in common. Court shall be held at Honolulu.
+

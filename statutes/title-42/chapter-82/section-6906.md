@@ -1,0 +1,22 @@
+---
+title: "Section 6906 - Financial disclosure"
+usc_title: 42
+usc_section: "6906"
+chapter: 82
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 6906"
+generated_at: "2026-03-29T00:32:53.990Z"
+---
+
+# § 6906. Financial disclosure
+
+(a) Each officer or employee of the Administrator who—
+  (1) performs any function or duty under this chapter; and
+  (2) has any known financial interest in any person who applies for or receives financial assistance under this chapter
+(b) The Administrator shall—
+  (1) act within ninety days after October 21, 1976 —
+    (A) to define the term “known financial interest” for purposes of subsection (a) of this section; and
+    (B) to establish the methods by which the requirement to file written statements specified in subsection (a) of this section will be monitored and enforced, including appropriate provision for the filing by such officers and employees of such statements and the review by the Administrator of such statements; and
+  (2) report to the Congress on June 1, 1978 , and of each succeeding calendar year with respect to such disclosures and the actions taken in regard thereto during the preceding calendar year.
+(c) In the rules prescribed under subsection (b) of this section, the Administrator may identify specific positions within the Environmental Protection Agency which are of a nonpolicy-making nature and provide that officers or employees occupying such positions shall be exempt from the requirements of this section.
+(d) Any officer or employee who is subject to, and knowingly violates, this section shall be fined not more than $2,500 or imprisoned not more than one year, or both.

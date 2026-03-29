@@ -1,0 +1,23 @@
+---
+title: "Section 4102 - Exceptions; Presidential authority"
+usc_title: 5
+usc_section: "4102"
+chapter: 41
+current_through: "PL 119-73"
+classification: "5 U.S.C. § 4102"
+generated_at: "2026-03-29T00:28:38.323Z"
+---
+
+# § 4102. Exceptions; Presidential authority
+
+(a) 
+  (1) This chapter does not apply to—
+    (A) a corporation supervised by the Farm Credit Administration if private interests elect or appoint a member of the board of directors;
+    (B) the Tennessee Valley Authority; or
+    (C) an individual (except a commissioned officer of the National Oceanic and Atmospheric Administration) who is a member of a uniformed service during a period in which he is entitled to pay under section 204 of title 37 .
+  (2) This chapter (except sections 4110 and 4111) does not apply to—
+    (A) the Foreign Service of the United States; or
+    (B) an individual appointed by the President, unless the individual is specifically designated by the President for training under this chapter.
+(b) The President, at any time in the public interest, may—
+  (1) except an agency or part thereof, or an employee or group or class of employees therein, from this chapter or a provision thereof (except this section); and
+  (2) withdraw an exception made under this subsection.

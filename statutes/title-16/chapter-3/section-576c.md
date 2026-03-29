@@ -1,0 +1,14 @@
+---
+title: "Section 576c - Supplemental National Forest Reforestation Fund; establishment; duration; authorization of appropriations"
+usc_title: 16
+usc_section: "576c"
+chapter: 3
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 576c"
+generated_at: "2026-03-29T00:29:52.571Z"
+---
+
+# § 576c. Supplemental National Forest Reforestation Fund; establishment; duration; authorization of appropriations
+
+Notwithstanding any other provision of law, the Secretary of Agriculture shall establish a “Supplemental National Forest Reforestation Fund”, and transfer to that fund beginning with the fiscal year, commencing July 1, 1972 , and ending on September 30, 1987 , such amounts as may be appropriated therefor. There is hereby authorized to be appropriated for such purpose for each of the fiscal years during such period the sum of $65,000,000.
+

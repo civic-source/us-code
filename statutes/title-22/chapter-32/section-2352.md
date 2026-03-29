@@ -1,0 +1,18 @@
+---
+title: "Section 2352 - Small business"
+usc_title: 22
+usc_section: "2352"
+chapter: 32
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 2352"
+generated_at: "2026-03-29T00:30:33.793Z"
+---
+
+# § 2352. Small business
+
+(a) Insofar as practicable and to the maximum extent consistent with the accomplishment of the purposes of this chapter, the President shall assist American small business to participate equitably in the furnishing of commodities, defense articles, and services (including defense services) financed with funds made available under this chapter—
+  (1) by causing to be made available to suppliers in the United States, and particularly to small independent enterprises, information, as far in advance as possible, with respect to purchases proposed to be financed with such funds;
+  (2) by causing to be made available to prospective purchasers in the countries and areas receiving assistance under this chapter information as to such commodities, articles, and services produced by small independent enterprises in the United States; and
+  (3) by providing for additional services to give small business better opportunities to participate in the furnishing of such commodities, articles, and services financed with such funds.
+(b) There shall be an Office of Small Business, headed by a Special Assistant for Small Business, in such agency of the United States Government as the President may direct, to assist in carrying out the provisions of subsection (a) of this section.
+(c) The Secretary of Defense shall assure that there is made available to suppliers in the United States, and particularly to small independent enterprises, information with respect to purchases made by the Department of Defense pursuant to subchapter II of this chapter, such information to be furnished as far in advance as possible.

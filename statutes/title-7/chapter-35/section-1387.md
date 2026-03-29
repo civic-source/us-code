@@ -1,0 +1,14 @@
+---
+title: "Section 1387 - Photographic reproductions and maps"
+usc_title: 7
+usc_section: "1387"
+chapter: 35
+current_through: "PL 119-73"
+classification: "7 U.S.C. § 1387"
+generated_at: "2026-03-29T00:28:57.993Z"
+---
+
+# § 1387. Photographic reproductions and maps
+
+The Secretary may furnish reproductions of information such as geo-referenced data from all sources, aerial or other photographs, mosaics, and maps as have been obtained in connection with the authorized work of the Department to farmers and governmental agencies at the estimated cost of furnishing such reproductions, and to persons other than farmers at such prices as the Secretary may determine (but not less than the estimated costs of data processing, updating, revising, reformatting, repackaging and furnishing the reproductions and information), the money received from such sales to be deposited in the Treasury to the credit of the appropriation charged with the cost of making such reproductions. This section shall not affect the power of the Secretary to make other disposition of such or similar materials under any other provisions of existing law.
+

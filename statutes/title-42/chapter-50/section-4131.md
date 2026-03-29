@@ -1,0 +1,25 @@
+---
+title: "Section 4131 - Levee certifications"
+usc_title: 42
+usc_section: "4131"
+chapter: 50
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 4131"
+generated_at: "2026-03-29T00:32:53.863Z"
+---
+
+# § 4131. Levee certifications
+
+(a) In carrying out section 100226 of Public Law 112–141 ( 42 U.S.C. 4101 note; 126 Stat. 942 ), the Secretary shall—
+  (1) ensure that at least 1 program activity carried out for levee systems under the levee safety and dam safety programs of the Corps of Engineers provides adequate information to the Secretary to reach a levee accreditation decision under section 65.10 of title 44, Code of Federal Regulations (or successor regulation);
+  (2) to the maximum extent practicable, carry out the activities referred to in paragraph (1) in alignment with the schedule established for the national flood insurance program established under chapter I of the National Flood Insurance Act of 1968 ( 42 U.S.C. 4011 et seq.); and
+  (3) in the case of a levee system that is operated and maintained by the Corps of Engineers, to the maximum extent practicable, cooperate with local governments seeking a levee accreditation decision for the levee to provide information necessary to support the accreditation decision in a timely manner.
+(b) 
+  (1) On receipt of a request from a non-Federal interest, the Secretary may carry out a levee system evaluation of a federally authorized levee for purposes of the national flood insurance program established under chapter 1 1 1 So in original. Probably should be “chapter I”. of the National Flood Insurance Act of 1968 ( 42 U.S.C. 4011 et seq.) if the evaluation will be carried out earlier than such an evaluation would be carried out under subsection (a).
+  (2) A levee system evaluation under paragraph (1) shall—
+    (A) at a minimum, comply with section 65.10 of title 44, Code of Federal Regulations (as in effect on June 10, 2014 ); and
+    (B) be carried out in accordance with such procedures as the Secretary, in consultation with the Administrator of the Federal Emergency Management Agency, may establish.
+  (3) 
+    (A) The Secretary may use amounts made available under section 1962d–16 of this title to carry out this subsection.
+    (B) The Secretary shall apply the cost share under section 1962d–16(b) of this title to any activities carried out under this subsection.
+    (C) Notwithstanding subparagraph (B), a non-Federal interest may fund up to 100 percent of the cost of any activity carried out under this subsection.

@@ -1,0 +1,14 @@
+---
+title: "Section 852 - Marketing agreements with handlers; exemption from antitrust laws"
+usc_title: 7
+usc_section: "852"
+chapter: 30
+current_through: "PL 119-73"
+classification: "7 U.S.C. § 852"
+generated_at: "2026-03-29T00:28:57.956Z"
+---
+
+# § 852. Marketing agreements with handlers; exemption from antitrust laws
+
+In order to effectuate the policy declared in section 851 of this title the Secretary of Agriculture shall have the power, after due notice and opportunity for hearing, to enter into marketing agreements with manufacturers and others engaged in the handling of anti-hog-cholera serum and hog-cholera virus only with respect to such handling as is in the current of interstate or foreign commerce or which directly burdens, obstructs, or affects interstate or foreign commerce in such serum and virus. Such persons are in section 854 of this title referred to as “handlers.” The making of any such agreement shall not be held to be in violation of any of the antitrust laws of the United States, and any such agreement shall be deemed to be lawful.
+

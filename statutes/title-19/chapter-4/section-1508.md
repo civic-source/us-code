@@ -1,0 +1,111 @@
+---
+title: "Section 1508 - Recordkeeping"
+usc_title: 19
+usc_section: "1508"
+chapter: 4
+current_through: "PL 119-73"
+classification: "19 U.S.C. § 1508"
+generated_at: "2026-03-29T00:30:20.144Z"
+---
+
+# § 1508. Recordkeeping
+
+(a) Any—
+  (1) owner, importer, consignee, importer of record, entry filer, or other party who—
+    (A) imports merchandise into the customs territory of the United States, files a drawback claim, or transports or stores merchandise carried or held under bond, or
+    (B) knowingly causes the importation or transportation or storage of merchandise carried or held under bond into or from the customs territory of the United States;
+  (2) agent of any party described in paragraph (1); or
+  (3) person whose activities require the filing of a declaration or entry, or both;
+    (A) pertain to any such activity, or to the information contained in the records required by this chapter in connection with any such activity; and
+    (B) are normally kept in the ordinary course of business.
+(b) 
+  (1) In this subsection:
+    (A) The terms “USMCA” and “USMCA country” have the meanings given those terms in section 4502 of this title .
+    (B) The term “USMCA certification of origin” means the certification established under article 5.2.1 of the USMCA that a good qualifies as an originating good under the USMCA.
+  (2) Any person who completes a USMCA certification of origin or provides a written representation for a good exported from the United States to a USMCA country shall make, keep, and, pursuant to rules and regulations prescribed by the Secretary of the Treasury, render for examination and inspection, all records and supporting documents related to the origin of the good (including the certification or copies thereof), including records related to—
+    (A) the purchase, cost, value, and shipping of, and payment for, the good;
+    (B) the purchase, cost, value, and shipping of, and payment for, all materials, including indirect materials, used in the production of the good; and
+    (C) the production of the good in the form in which it was exported or the production of the material in the form in which it was sold.
+  (3) Any person who exports, or who knowingly causes to be exported, any merchandise to Canada during such time as the United States-Canada Free-Trade Agreement is in force with respect to, and the United States applies that Agreement to, Canada shall make, keep, and render for examination and inspection such records (including certifications of origin or copies thereof) which pertain to the exportations.
+  (4) 
+    (A) Any importer who claims preferential tariff treatment under the USMCA for a good imported into the United States from a USMCA country shall make, keep, and, pursuant to rules and regulations prescribed by the Secretary of the Treasury of the Secretary of Labor, render for examination and inspection—
+      (i) records and supporting documentation related to the importation;
+      (ii) all records and supporting documents related to the origin of the good (including the certification or copies thereof), if the importer completed the certification; and
+      (iii) records and supporting documents necessary to demonstrate that the good did not, while in transit to the United States, undergo further production or any other operation other than unloading, reloading, or any other operation necessary to preserve the good in good condition or to transport the good to the United States.
+    (B) Any vehicle producer whose good is the subject of a claim for preferential tariff treatment under the USMCA shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury and Secretary of Labor, render for examination and inspection records and supporting documents related to the labor value content and steel and aluminum purchasing requirements for the qualification of its vehicles for preferential treatment.
+  (5) 
+    (A) A person covered by paragraph (2) who completes a USMCA certification of origin or provides a written representation for a good exported from the United States to a USMCA country shall keep the records required by such paragraph relating to that certification of origin for a period of at least 5 years after the date on which the certification is completed.
+    (B) The records required by paragraph (3) shall be kept for such periods of time as the Secretary shall prescribe, except that—
+      (i) no period of time for the retention of the records may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate; and
+      (ii) records for any drawback claim shall be kept until the third anniversary of the date of liquidation of the claim.
+    (C) 
+      (i) An importer covered by paragraph (4)(A) shall keep the records and supporting documents required by such paragraph for a period of at least 5 years after the date of importation of the good.
+      (ii) A vehicle producer covered by paragraph (4)(B) shall keep the records and supporting documents required by paragraph (4)(B) for a period of at least 5 years after the date of filing the certifications required under paragraphs (1) and (2) of section 4532(c) of this title .
+(c) The records required by subsection (a) shall be kept for such periods of time as the Secretary shall prescribe, except that—
+  (1) no period of time for the retention of the records required under subsection (a) may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate; and
+  (2) records for any drawback claim shall be kept until the 3rd anniversary of the date of liquidation of the claim.
+(d) For the purposes of this section and section 1509 of this title , a person ordering merchandise from an importer in a domestic transaction does not knowingly cause merchandise to be imported unless—
+  (1) the terms and conditions of the importation are controlled by the person placing the order; or
+  (2) technical data, molds, equipment, other production assistance, material, components, or parts are furnished by the person placing the order with knowledge that they will be used in the manufacture or production of the imported merchandise.
+(e) 
+  (1) Any person who fails to retain records required by paragraph (2) of subsection (b) or the regulations issued to implement that paragraph shall be liable for—
+    (A) a civil penalty not to exceed $10,000; or
+    (B) the general recordkeeping penalty that applies under the customs laws;
+  (2) Any person who fails to retain the records required by paragraph (3) of subsection (b) or the regulations issued to implement that paragraph shall be liable for a civil penalty not to exceed $10,000.
+(f) 
+  (1) In this subsection:
+    (A) The term “records and supporting documents” means, with respect to an exported good under paragraph (2), records and documents related to the origin of the good, including—
+      (i) the purchase, cost, and value of, and payment for, the good;
+      (ii) if applicable, the purchase, cost, and value of, and payment for, all materials, including recovered goods, used in the production of the good; and
+      (iii) if applicable, the production of the good in the form in which it was exported.
+    (B) The term “Chile FTA Certificate of Origin” means the certification, established under article 4.13 of the United States-Chile Free Trade Agreement, that a good qualifies as an originating good under such Agreement.
+  (2) Any person who completes and issues a Chile FTA Certificate of Origin for a good exported from the United States shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the Certificate or copies thereof).
+  (3) Records and supporting documents shall be kept by the person who issued a Chile FTA Certificate of Origin for at least 5 years after the date on which the certificate was issued.
+(g) 
+  (1) In this subsection:
+    (A) The term “records and supporting documents” means, with respect to an exported good under paragraph (2), records and documents related to the origin of the good, including—
+      (i) the purchase, cost, and value of, and payment for, the good;
+      (ii) the purchase, cost, and value of, and payment for, all materials, including indirect materials, used in the production of the good; and
+      (iii) the production of the good in the form in which it was exported.
+    (B) The term “CAFTA–DR certification of origin” means the certification established under article 4.16 of the Dominican Republic-Central America-United States Free Trade Agreement that a good qualifies as an originating good under such Agreement.
+  (2) Any person who completes and issues a CAFTA–DR certification of origin for a good exported from the United States shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the certification or copies thereof).
+  (3) Records and supporting documents shall be kept by the person who issued a CAFTA–DR certification of origin for at least 5 years after the date on which the certification was issued.
+(h) 
+  (1) In this subsection:
+    (A) The term “records and supporting documents” means, with respect to an exported good under paragraph (2), records and documents related to the origin of the good, including—
+      (i) the purchase, cost, and value of, and payment for, the good;
+      (ii) the purchase, cost, and value of, and payment for, all materials, including indirect materials, used in the production of the good; and
+      (iii) the production of the good in the form in which it was exported.
+    (B) The term “PTPA certification of origin” means the certification established under article 4.15 of the United States-Peru Trade Promotion Agreement that a good qualifies as an originating good under such Agreement.
+  (2) Any person who completes and issues a PTPA certification of origin for a good exported from the United States shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the certification or copies thereof).
+  (3) The person who issues a PTPA certification of origin shall keep the records and supporting documents relating to that certification of origin for a period of at least 5 years after the date on which the certification is issued.
+(i) 
+  (1) In this subsection:
+    (A) The term “records and supporting documents” means, with respect to an exported good under paragraph (2), records and documents related to the origin of the good, including—
+      (i) the purchase, cost, and value of, and payment for, the good;
+      (ii) the purchase, cost, and value of, and payment for, all materials, including indirect materials, used in the production of the good; and
+      (iii) the production of the good in the form in which it was exported.
+    (B) The term “KFTA certification of origin” means the certification established under article 6.15 of the United States–Korea Free Trade Agreement that a good qualifies as an originating good under such Agreement.
+  (2) Any person who completes and issues a KFTA certification of origin for a good exported from the United States shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the certification or copies thereof).
+  (3) The person who issues a KFTA certification of origin shall keep the records and supporting documents relating to that certification of origin for a period of at least 5 years after the date on which the certification is issued.
+(j) 
+  (1) In this subsection:
+    (A) The term “records and supporting documents” means, with respect to an exported good under paragraph (2), records and documents related to the origin of the good, including—
+      (i) the purchase, cost, and value of, and payment for, the good;
+      (ii) the purchase, cost, and value of, and payment for, all materials, including indirect materials, used in the production of the good; and
+      (iii) the production of the good in the form in which it was exported.
+    (B) The term “CTPA certification of origin” means the certification established under article 4.15 of the United States–Colombia Trade Promotion Agreement that a good qualifies as an originating good under such Agreement.
+  (2) Any person who completes and issues a CTPA certification of origin for a good exported from the United States shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the certification or copies thereof).
+  (3) The person who issues a CTPA certification of origin shall keep the records and supporting documents relating to that certification of origin for a period of at least 5 years after the date on which the certification is issued.
+(k) 
+  (1) In this subsection:
+    (A) The term “records and supporting documents” means, with respect to an exported good under paragraph (2), records and documents related to the origin of the good, including—
+      (i) the purchase, cost, and value of, and payment for, the good;
+      (ii) the purchase, cost, and value of, and payment for, all materials, including indirect materials, used in the production of the good; and
+      (iii) the production of the good in the form in which it was exported.
+    (B) The term “Panama TPA certification of origin” means the certification established under article 4.15 of the United States–Panama Trade Promotion Agreement that a good qualifies as an originating good under such Agreement.
+  (2) Any person who completes and issues a Panama TPA certification of origin for a good exported from the United States shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the certification or copies thereof).
+  (3) The person who issues a Panama TPA certification of origin shall keep the records and supporting documents relating to that certification of origin for a period of at least 5 years after the date on which the certification is issued.
+(l) Any person who fails to retain records and supporting documents required by subsection (f), (g), (h), (i), (j), or (k) or the regulations issued to implement any such subsection shall be liable for the greater of—
+  (1) a civil penalty not to exceed $10,000; or
+  (2) the general record keeping penalty that applies under the customs laws of the United States.

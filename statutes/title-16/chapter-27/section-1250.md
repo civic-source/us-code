@@ -1,0 +1,19 @@
+---
+title: "Section 1250 - Volunteer trails assistance"
+usc_title: 16
+usc_section: "1250"
+chapter: 27
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 1250"
+generated_at: "2026-03-29T00:29:52.689Z"
+---
+
+# § 1250. Volunteer trails assistance
+
+(a) 
+  (1) In addition to the cooperative agreement and other authorities contained in this chapter, the Secretary of the Interior, the Secretary of Agriculture, and the head of any Federal agency administering Federal lands, are authorized to encourage volunteers and volunteer organizations to plan, develop, maintain, and manage, where appropriate, trails throughout the Nation.
+  (2) Wherever appropriate in furtherance of the purposes of this chapter, the Secretaries are authorized and encouraged to utilize section 102301 of title 54 , the Volunteers in the Forests Act of 1972 1 1 See References in Text note below. [ 16 U.S.C. 558a et seq.], and 200305 2 2 So in original. Probably should be preceded by “section”. of title 54 (relating to the development of Statewide Comprehensive Outdoor Recreation Plans).
+(b) Each Secretary or the head of any Federal land managing agency may assist volunteers and volunteer organizations in planning, developing, maintaining, and managing trails. Volunteer work may include, but need not be limited to—
+  (1) planning, developing, maintaining, or managing (A) trails which are components of the national trails system, or (B) trails which, if so developed and maintained, could qualify for designation as components of the national trails system; or
+  (2) operating programs to organize and supervise volunteer trail building efforts with respect to the trails referred to in paragraph (1), conducting trail-related research projects, or providing education and training to volunteers on methods of trails planning, construction, and maintenance.
+(c) The appropriate Secretary or the head of any Federal land managing agency may utilize and make available Federal facilities, equipment, tools, and technical assistance to volunteers and volunteer organizations, subject to such limitations and restrictions as the appropriate Secretary or the head of any Federal land managing agency deems necessary or desirable.

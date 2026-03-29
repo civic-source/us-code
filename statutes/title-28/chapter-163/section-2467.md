@@ -1,0 +1,50 @@
+---
+title: "Section 2467 - Enforcement of foreign judgment"
+usc_title: 28
+usc_section: "2467"
+chapter: 163
+current_through: "PL 119-73"
+classification: "28 U.S.C. § 2467"
+generated_at: "2026-03-29T00:31:24.202Z"
+---
+
+# § 2467. Enforcement of foreign judgment
+
+(a) In this section—
+  (1) the term “foreign nation” means a country that has become a party to the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances (referred to in this section as the “United Nations Convention”) or a foreign jurisdiction with which the United States has a treaty or other formal international agreement in effect providing for mutual forfeiture assistance; and
+  (2) the term “forfeiture or confiscation judgment” means a final order of a foreign nation compelling a person or entity—
+    (A) to pay a sum of money representing the proceeds of an offense described in Article 3, Paragraph 1, of the United Nations Convention, any violation of foreign law that would constitute a violation or an offense for which property could be forfeited under Federal law if the offense were committed in the United States, or any foreign offense described in section 1956(c)(7)(B) of title 18 , or property the value of which corresponds to such proceeds; or
+    (B) to forfeit property involved in or traceable to the commission of such offense.
+(b) 
+  (1) A foreign nation seeking to have a forfeiture or confiscation judgment registered and enforced by a district court of the United States under this section shall first submit a request to the Attorney General or the designee of the Attorney General, which request shall include—
+    (A) a summary of the facts of the case and a description of the proceedings that resulted in the forfeiture or confiscation judgment;
+    (B) certified 1 1 So in original. Probably should be preceded by “a”. copy of the forfeiture or confiscation judgment;
+    (C) an affidavit or sworn declaration establishing that the foreign nation took steps, in accordance with the principles of due process, to give notice of the proceedings to all persons with an interest in the property in sufficient time to enable such persons to defend against the charges and that the judgment rendered is in force and is not subject to appeal; and
+    (D) such additional information and evidence as may be required by the Attorney General or the designee of the Attorney General.
+  (2) The Attorney General or the designee of the Attorney General shall determine whether, in the interest of justice, to certify the request, and such decision shall be final and not subject to either judicial review or review under subchapter II of chapter 5, or chapter 7, of title 5 (commonly known as the “Administrative Procedure Act”).
+(c) 
+  (1) If the Attorney General or the designee of the Attorney General certifies a request under subsection (b), the United States may file an application on behalf of a foreign nation in district court of the United States seeking to enforce the foreign forfeiture or confiscation judgment as if the judgment had been entered by a court in the United States.
+  (2) In a proceeding filed under paragraph (1)—
+    (A) the United States shall be the applicant and the defendant or another person or entity affected by the forfeiture or confiscation judgment shall be the respondent;
+    (B) venue shall lie in the district court for the District of Columbia or in any other district in which the defendant or the property that may be the basis for satisfaction of a judgment under this section may be found; and
+    (C) the district court shall have personal jurisdiction over a defendant residing outside of the United States if the defendant is served with process in accordance with rule 4 of the Federal Rules of Civil Procedure.
+(d) 
+  (1) The district court shall enter such orders as may be necessary to enforce the judgment on behalf of the foreign nation unless the court finds that—
+    (A) the judgment was rendered under a system that provides tribunals or procedures incompatible with the requirements of due process of law;
+    (B) the foreign court lacked personal jurisdiction over the defendant;
+    (C) the foreign court lacked jurisdiction over the subject matter;
+    (D) the foreign nation did not take steps, in accordance with the principles of due process, to give notice of the proceedings to a person with an interest in the property of the proceedings 2 2 So in original. The words “of the proceedings” probably should not appear. in sufficient time to enable him or her to defend; or
+    (E) the judgment was obtained by fraud.
+  (2) Process to enforce a judgment under this section shall be in accordance with rule 69(a) of the Federal Rules of Civil Procedure.
+  (3) 
+    (A) 
+      (i) To preserve the availability of property subject to civil or criminal forfeiture under foreign law, the Government may apply for, and the court may issue, a restraining order at any time before or after the initiation of forfeiture proceedings by a foreign nation.
+      (ii) 
+        (I) A restraining order under this subparagraph shall be issued in a manner consistent with subparagraphs (A), (C), and (E) of paragraph (1) and the procedural due process protections for a restraining order under section 983(j) of title 18 .
+        (II) For purposes of applying such section 983(j)—
+    (B) The court, in issuing a restraining order under subparagraph (A)—
+      (i) may rely on information set forth in an affidavit describing the nature of the proceeding or investigation underway in the foreign country, and setting forth a reasonable basis to believe that the property to be restrained will be named in a judgment of forfeiture at the conclusion of such proceeding; or
+      (ii) may register and enforce a restraining order that has been issued by a court of competent jurisdiction in the foreign country and certified by the Attorney General pursuant to subsection (b)(2).
+    (C) No person may object to a restraining order under subparagraph (A) on any ground that is the subject of parallel litigation involving the same property that is pending in a foreign court.
+(e) In entering orders to enforce the judgment, the court shall be bound by the findings of fact to the extent that they are stated in the foreign forfeiture or confiscation judgment.
+(f) The rate of exchange in effect at the time the suit to enforce is filed by the foreign nation shall be used in calculating the amount stated in any forfeiture or confiscation judgment requiring the payment of a sum of money submitted for registration.

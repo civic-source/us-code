@@ -1,0 +1,14 @@
+---
+title: "Section 1013a - Benefits extended to Puerto Rico and Virgin Islands; “county” defined; payments to Governor or fiscal agent of county"
+usc_title: 7
+usc_section: "1013a"
+chapter: 33
+current_through: "PL 119-73"
+classification: "7 U.S.C. § 1013a"
+generated_at: "2026-03-29T00:28:57.971Z"
+---
+
+# § 1013a. Benefits extended to Puerto Rico and Virgin Islands; “county” defined; payments to Governor or fiscal agent of county
+
+The provisions of this subchapter shall extend to Puerto Rico and the Virgin Islands. In the case of Alaska, Puerto Rico, and the Virgin Islands, the term “county” as used in this subchapter may be the entire area, or any subdivision thereof as may be determined by the Secretary, and payments under section 1012 of this title shall be made to the Governor or to the fiscal agent of such subdivision.
+

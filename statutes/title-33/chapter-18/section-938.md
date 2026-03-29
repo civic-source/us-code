@@ -1,0 +1,15 @@
+---
+title: "Section 938 - Penalties"
+usc_title: 33
+usc_section: "938"
+chapter: 18
+current_through: "PL 119-73"
+classification: "33 U.S.C. § 938"
+generated_at: "2026-03-29T00:31:57.280Z"
+---
+
+# § 938. Penalties
+
+(a) Any employer required to secure the payment of compensation under this chapter who fails to secure such compensation shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine of not more than $10,000, or by imprisonment for not more than one year, or by both such fine and imprisonment; and in any case where such employer is a corporation, the president, secretary, and treasurer thereof shall be also severally liable to such fine or imprisonment as herein provided for the failure of such corporation to secure the payment of compensation; and such president, secretary, and treasurer shall be severally personally liable, jointly with such corporation, for any compensation or other benefit which may accrue under the said chapter in respect to any injury which may occur to any employee of such corporation while it shall so fail to secure the payment of compensation as required by section 932 of this title .
+(b) Any employer who knowingly transfers, sells, encumbers, assigns, or in any manner disposes of, conceals, secretes, or destroys any property belonging to such employer, after one of his employees has been injured within the purview of this chapter, and with intent to avoid the payment of compensation under this chapter to such employee or his dependents, shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine of not more than $10,000, or by imprisonment for not more than one year, or by both such fine and imprisonment; and in any case where such employer is a corporation, the president, secretary, and treasurer thereof shall be also severally liable to such penalty of imprisonment as well as jointly liable with such corporation for such fine.
+(c) This section shall not affect any other liability of the employer under this chapter.

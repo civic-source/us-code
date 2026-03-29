@@ -1,0 +1,23 @@
+---
+title: "Section 197a - Production contracts"
+usc_title: 7
+usc_section: "197a"
+chapter: 9
+current_through: "PL 119-73"
+classification: "7 U.S.C. § 197a"
+generated_at: "2026-03-29T00:28:57.915Z"
+---
+
+# § 197a. Production contracts
+
+(a) 
+  (1) A poultry grower or swine production contract grower may cancel a poultry growing arrangement or swine production contract by mailing a cancellation notice to the live poultry dealer or swine contractor not later than the later of—
+    (A) the date that is 3 business days after the date on which the poultry growing arrangement or swine production contract is executed; or
+    (B) any cancellation date specified in the poultry growing arrangement or swine production contract.
+  (2) A poultry growing arrangement or swine production contract shall clearly disclose—
+    (A) the right of the poultry grower or swine production contract grower to cancel the poultry growing arrangement or swine production contract;
+    (B) the method by which the poultry grower or swine production contract grower may cancel the poultry growing arrangement or swine production contract; and
+    (C) the deadline for canceling the poultry growing arrangement or swine production contract.
+(b) 
+  (1) A poultry growing arrangement or swine production contract shall contain on the first page a statement identified as “Additional Capital Investments Disclosure Statement”, which shall conspicuously state that additional large capital investments may be required of the poultry grower or swine production contract grower during the term of the poultry growing arrangement or swine production contract.
+  (2) Paragraph (1) shall apply to any poultry growing arrangement or swine production contract entered into, amended, altered, modified, renewed, or extended after the date of the enactment of this section.

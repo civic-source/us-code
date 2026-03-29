@@ -1,0 +1,14 @@
+---
+title: "Section 2190 - Saving clause for prior patent applications"
+usc_title: 42
+usc_section: "2190"
+chapter: 23
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 2190"
+generated_at: "2026-03-29T00:32:53.758Z"
+---
+
+# § 2190. Saving clause for prior patent applications
+
+Any patent application on which a patent was denied by the United States Patent and Trademark Office under sections 1811(a)(1), 1811(a)(2), or 1811(b) 1 1 See References in Text note below. of this title, and which is not prohibited by section 2181 or 2185 of this title may be reinstated upon application to the Commissioner of Patents and Trademarks within one year after August 30, 1954 and shall then be deemed to have been continuously pending since its original filing date: Provided, however , That no patent issued upon any patent application so reinstated shall in any way furnish a basis of claim against the Government of the United States.
+

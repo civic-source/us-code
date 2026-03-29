@@ -1,0 +1,27 @@
+---
+title: "Section 970 - Reduction of subpart F income of export trade corporations"
+usc_title: 26
+usc_section: "970"
+chapter: 1
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 970"
+generated_at: "2026-03-29T00:31:20.856Z"
+---
+
+# § 970. Reduction of subpart F income of export trade corporations
+
+(a) 
+  (1) In the case of a controlled foreign corporation (as defined in section 957) which for the taxable year is an export trade corporation, the subpart F income (determined without regard to this subpart) of such corporation for such year shall be reduced by an amount equal to so much of the export trade income (as defined in section 971(b)) of such corporation for such year as constitutes foreign base company income (as defined in section 954), but only to the extent that such amount does not exceed whichever of the following amounts is the lesser:
+    (A) an amount equal to 1½ times so much of the export promotion expenses (as defined in section 971(d)) of such corporation for such year as is properly allocable to the export trade income which constitutes foreign base company income of such corporation for such year, or
+    (B) an amount equal to 10 percent of so much of the gross receipts for such year (or, in the case of gross receipts arising from commissions, fees, or other compensation for its services, so much of the gross amount upon the basis of which such commissions, fees, or other compensation is computed) accruing to such export trade corporation from the sale, installation, operation, maintenance, or use of property in respect of which such corporation derives export trade income as is properly allocable to the export trade income which constitutes foreign base company income of such corporation for such year.
+  (2) The reduction under paragraph (1) for any taxable year shall not exceed an amount which bears the same ratio to the increase in the investments in export trade assets (as defined in section 971(c)) of such corporation for such year as the export trade income which constitutes foreign base company income of such corporation for such year bears to the entire export trade income of such corporation for such year.
+[(b) 
+(c) 
+  (1) For purposes of this section, the amount taken into account with respect to any export trade asset shall be its adjusted basis, reduced by any liability to which the asset is subject.
+  (2) For purposes of subsection (a), the amount of increase in investments in export trade assets of any controlled foreign corporation for any taxable year is the amount by which—
+    (A) the amount of such investments at the close of the taxable year, exceeds
+    (B) the amount of such investments at the close of the preceding taxable year.
+  (3) For purposes of subsection (b), the amount of decrease in investments in export trade assets of any controlled foreign corporation for any taxable year is the amount by which—
+    (A) the amount of such investments at the close of the preceding taxable year (reduced by an amount equal to the amount of net loss sustained during the taxable year with respect to export trade assets), exceeds
+    (B) the amount of such investments at the close of the taxable year.
+  (4) A United States shareholder of an export trade corporation may, under regulations prescribed by the Secretary, make the determinations under paragraphs (2) and (3) as of the close of the 75th day after the close of the years referred to in such paragraphs in lieu of on the last day of such years. A United States shareholder of an export trade corporation may, under regulations prescribed by the Secretary, make the determinations under paragraphs (2) and (3) with respect to export trade assets described in section 971(c)(3) as of the close of the years following the years referred to in such paragraphs, or as of the close of such longer period of time as such regulations may permit, in lieu of on the last day of such years and in lieu of on the day prescribed in the preceding sentence. Any election under this paragraph made with respect to any taxable year shall apply to such year and to all succeeding taxable years unless the Secretary consents to the revocation of such election.

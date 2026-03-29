@@ -1,0 +1,21 @@
+---
+title: "Section 1604 - Reports on covered communications equipment or services"
+usc_title: 47
+usc_section: "1604"
+chapter: 15
+current_through: "PL 119-73"
+classification: "47 U.S.C. § 1604"
+generated_at: "2026-03-29T00:33:04.968Z"
+---
+
+# § 1604. Reports on covered communications equipment or services
+
+(a) Each provider of advanced communications service shall submit an annual report to the Commission, in a form to be determined by the Commission, regarding whether such provider has purchased, rented, leased, or otherwise obtained any covered communications equipment or service on or after—
+  (1) in the case of any covered communications equipment or service that is on the initial list published under section 1601(a) of this title , August 14, 2018 ; or
+  (2) in the case of any covered communications equipment or service that is not on the initial list published under section 1601(a) of this title , the date that is 60 days after the date on which the Commission places such equipment or service on the list required by such section.
+(b) If a provider of advanced communications service certifies to the Commission that such provider does not have any covered communications equipment or service in the network of such provider, such provider is not required to submit a report under subsection (a) after making such certification, unless such provider later purchases, rents, leases, or otherwise obtains any covered communications equipment or service.
+(c) If a provider of advanced communications service indicates in a report under subsection (a) that such provider has purchased, rented, leased, or otherwise obtained any covered communications equipment or service as described in such subsection, such provider shall include in such report—
+  (1) a detailed justification for such action;
+  (2) information about whether such covered communications equipment or service has subsequently been removed and replaced pursuant to section 1603 of this title ; and
+  (3) information about whether such provider plans to continue to purchase, rent, lease, or otherwise obtain, or install or use, such covered communications equipment or service and, if so, why.
+(d) The Commission shall implement this section as part of the rulemaking required by section 1603(g) of this title .

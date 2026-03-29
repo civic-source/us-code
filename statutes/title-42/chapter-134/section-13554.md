@@ -1,0 +1,20 @@
+---
+title: "Section 13554 - Tar sands"
+usc_title: 42
+usc_section: "13554"
+chapter: 134
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 13554"
+generated_at: "2026-03-29T00:32:54.330Z"
+---
+
+# § 13554. Tar sands
+
+(a) It is the policy of the United States to promote the development and production, by all means consistent with sound engineering, economic, and environmental practices, of deposits of tar sands.
+(b) 
+  (1) For purposes of this section, the term “tar sands” means any consolidated or unconsolidated rock (other than coal, oil shale, or gilsonite) that either—
+    (A) contains a hydrocarbonaceous material with a gas-free viscosity, at original reservoir temperature, greater than 10,000 centipoise; or
+    (B) contains a hydrocarbonaceous material and is produced by mining or quarrying.
+  (2) Nothing in this section is intended or shall be construed to affect in any way the definition of the term tar sands under any other provision of Federal law.
+(c) The Secretary, in consultation with the Secretary of the Interior, shall submit a study to the House of Representatives and the Committee on Energy and Natural Resources of the Senate within one year after October 24, 1992 . Such study shall identify and evaluate the development potential of sources of tar sands in the United States. The study shall also identify and evaluate processes for extracting oil from the identified tar sand sources, including existing tar sands waste tailings, and evaluate the environmental benefits of, and the potential for co-production of minerals and metals from, such processes.
+(d) There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1993 and 1994 to carry out this section.

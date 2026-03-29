@@ -1,0 +1,14 @@
+---
+title: "Section 1168 - Theft by officers or employees of gaming establishments on Indian lands"
+usc_title: 18
+usc_section: "1168"
+chapter: 53
+current_through: "PL 119-73"
+classification: "18 U.S.C. § 1168"
+generated_at: "2026-03-29T00:30:15.664Z"
+---
+
+# § 1168. Theft by officers or employees of gaming establishments on Indian lands
+
+(a) Whoever, being an officer, employee, or individual licensee of a gaming establishment operated by or for or licensed by an Indian tribe pursuant to an ordinance or resolution approved by the National Indian Gaming Commission, embezzles, abstracts, purloins, willfully misapplies, or takes and carries away with intent to steal, any moneys, funds, assets, or other property of such establishment of a value of $1,000 or less shall be fined not more than $250,000 or imprisoned not more than five years, or both;
+(b) Whoever, being an officer, employee, or individual licensee of a gaming establishment operated by or for or licensed by an Indian tribe pursuant to an ordinance or resolution approved by the National Indian Gaming Commission, embezzles, abstracts, purloins, willfully misapplies, or takes and carries away with intent to steal, any moneys, funds, assets, or other property of such establishment of a value in excess of $1,000 shall be fined not more than $1,000,000 or imprisoned for not more than twenty years, or both.

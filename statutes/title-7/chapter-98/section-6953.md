@@ -1,0 +1,60 @@
+---
+title: "Section 6953 - Healthy food financing initiative"
+usc_title: 7
+usc_section: "6953"
+chapter: 98
+current_through: "PL 119-73"
+classification: "7 U.S.C. § 6953"
+generated_at: "2026-03-29T00:28:58.252Z"
+---
+
+# § 6953. Healthy food financing initiative
+
+(a) The purpose of this section is to enhance the authorities of the Secretary to support efforts to provide access to healthy food by establishing an initiative to improve access to healthy foods in underserved areas, to create and preserve quality jobs, and to revitalize low-income communities by providing loans and grants to eligible fresh, healthy food retailers and enterprises to overcome the higher costs and initial barriers to entry in underserved areas.
+(b) In this section:
+  (1) The term “community development financial institution” has the meaning given the term in section 4702 of title 12 .
+  (2) The term “Initiative” means the Healthy Food Financing Initiative established under subsection (c)(1).
+  (3) The term “national fund manager” means a community development financial institution that is—
+    (A) in existence on the date of enactment of this section; and
+    (B) certified by the Community Development Financial Institution Fund of the Department of Treasury to manage the Initiative for purposes of—
+      (i) raising private capital;
+      (ii) providing financial and technical assistance to partnerships; and
+      (iii) funding eligible projects to attract fresh, healthy food retailers and enterprises to underserved areas, in accordance with this section.
+  (4) The term “partnership” means a regional, State, or local public-private partnership that—
+    (A) is organized to improve access to fresh, healthy foods;
+    (B) provides financial and technical assistance to eligible projects; and
+    (C) meets such other criteria as the Secretary may establish.
+  (5) The term “perishable food” means a staple food that is fresh, refrigerated, or frozen.
+  (6) The term “quality job” means a job that provides wages and other benefits comparable to, or better than, similar positions in existing businesses of similar size in similar local economies.
+  (7) 
+    (A) The term “staple food” means food that is a basic dietary item.
+    (B) The term “staple food” includes—
+      (i) bread or cereal;
+      (ii) flour;
+      (iii) fruits;
+      (iv) vegetables;
+      (v) meat; and
+      (vi) dairy products.
+(c) 
+  (1) The Secretary shall establish an initiative to achieve the purpose described in subsection (a) in accordance with this subsection.
+  (2) 
+    (A) 
+      (i) In carrying out the Initiative, the Secretary shall provide funding to entities with eligible projects, as described in subparagraph (B), subject to the priorities described in subparagraph (C).
+      (ii) Funds provided to an entity pursuant to clause (i) shall be used—
+        (I) to create revolving loan pools of capital or other products to provide loans to finance eligible projects or partnerships;
+        (II) to provide grants for eligible projects or partnerships;
+        (III) to provide technical assistance to funded projects and entities seeking Initiative funding; and
+        (IV) to cover administrative expenses of the national fund manager in an amount not to exceed 10 percent of the Federal funds provided.
+    (B) Subject to the approval of the Secretary, the national fund manager shall establish eligibility criteria for projects under the Initiative, which shall include the existence or planned execution of agreements—
+      (i) to expand or preserve the availability of staple foods in underserved areas with moderate- and low-income populations by maintaining or increasing the number of retail outlets that offer an assortment of perishable food and staple food items, as determined by the Secretary, in those areas; and
+      (ii) as applicable, to accept benefits under the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 ( 7 U.S.C. 2011 et seq.).
+    (C) In carrying out the Initiative, priority shall be given to projects that—
+      (i) are located in severely distressed low-income communities, as defined by the Community Development Financial Institutions Fund of the Department of Treasury; and
+      (ii) include 1 or more of the following characteristics:
+        (I) The project will create or retain quality jobs for low-income residents in the community.
+        (II) The project supports regional food systems and locally grown foods, to the maximum extent practicable.
+        (III) In areas served by public transit, the project is accessible by public transit.
+        (IV) The project involves women- or minority-owned businesses.
+        (V) The project receives funding from other sources, including other Federal agencies.
+        (VI) The project otherwise advances the purpose of this section, as determined by the Secretary.
+(d) There is authorized to be appropriated to the Secretary to carry out this section $125,000,000, to remain available until expended.

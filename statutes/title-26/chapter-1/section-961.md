@@ -1,0 +1,20 @@
+---
+title: "Section 961 - Adjustments to basis of stock in controlled foreign corporations and of other property"
+usc_title: 26
+usc_section: "961"
+chapter: 1
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 961"
+generated_at: "2026-03-29T00:31:20.853Z"
+---
+
+# § 961. Adjustments to basis of stock in controlled foreign corporations and of other property
+
+(a) Under regulations prescribed by the Secretary, the basis of a United States shareholder’s stock in a controlled foreign corporation, and the basis of property of a United States shareholder by reason of which he is considered under section 958(a)(2) as owning stock of a controlled foreign corporation, shall be increased by the amount required to be included in his gross income under section 951(a) with respect to such stock or with respect to such property, as the case may be, but only to the extent to which such amount was included in the gross income of such United States shareholder. In the case of a United States shareholder who has made an election under section 962 for the taxable year, the increase in basis provided by this subsection shall not exceed an amount equal to the amount of tax paid under this chapter with respect to the amounts required to be included in his gross income under section 951(a).
+(b) 
+  (1) Under regulations prescribed by the Secretary, the adjusted basis of stock or other property with respect to which a United States shareholder or a United States person receives an amount which is excluded from gross income under section 959(a) shall be reduced by the amount so excluded. In the case of a United States shareholder who has made an election under section 962 for any prior taxable year, the reduction in basis provided by this paragraph shall not exceed an amount equal to the amount received which is excluded from gross income under section 959(a) after the application of section 962(d).
+  (2) To the extent that an amount excluded from gross income under section 959(a) exceeds the adjusted basis of the stock or other property with respect to which it is received, the amount shall be treated as gain from the sale or exchange of property.
+(c) Under regulations prescribed by the Secretary, if a United States shareholder is treated under section 958(a)(2) as owning stock in a controlled foreign corporation which is owned by another controlled foreign corporation, then adjustments similar to the adjustments provided by subsections (a) and (b) shall be made to—
+  (1) the basis of such stock, and
+  (2) the basis of stock in any other controlled foreign corporation by reason of which the United States shareholder is considered under section 958(a)(2) as owning the stock described in paragraph (1),
+(d) If a domestic corporation received a dividend from a specified 10-percent owned foreign corporation (as defined in section 245A) in any taxable year, solely for purposes of determining loss on any disposition of stock of such foreign corporation in such taxable year or any subsequent taxable year, the basis of such domestic corporation in such stock shall be reduced (but not below zero) by the amount of any deduction allowable to such domestic corporation under section 245A with respect to such stock except to the extent such basis was reduced under section 1059 by reason of a dividend for which such a deduction was allowable.

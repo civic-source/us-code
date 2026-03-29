@@ -1,0 +1,28 @@
+---
+title: "Section 6434 - Trump accounts contribution pilot program"
+usc_title: 26
+usc_section: "6434"
+chapter: 65
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 6434"
+generated_at: "2026-03-29T00:31:21.063Z"
+---
+
+# § 6434. Trump accounts contribution pilot program
+
+(a) In the case of an individual who makes an election under this section with respect to an eligible child of the individual, such eligible child shall be treated as making a payment against the tax imposed by subtitle A (for the taxable year for which the election was made) in an amount equal to $1,000.
+(b) The amount treated as a payment under subsection (a) shall be paid by the Secretary to the Trump account with respect to which such eligible child is the account beneficiary.
+(c) For purposes of this section, the term “eligible child” means a qualifying child (as defined in section 152(c))—
+  (1) who is born after December 31, 2024 , and before January 1, 2029 ,
+  (2) with respect to whom no prior election has been made under this section by such individual or any other individual, and
+  (3) who is a United States citizen.
+(d) An election under this section shall be made at such time and in such manner as the Secretary shall provide.
+(e) 
+  (1) This section shall not apply to any taxpayer unless such individual includes with the election made under this section the social security number of the eligible child with respect to whom the election is made.
+  (2) For purposes of paragraph (1), the term “social security number” shall have the meaning given such term in section 24(h)(7), determined by substituting “before the date of the election made under section 6434” for “before the due date of 1 1 So in original. Probably should be “for”. such return” in subparagraph (B) thereof.
+(f) Any payment made to any individual under this section shall not be—
+  (1) subject to reduction or offset pursuant to subsection (c), (d), (e), or (f) of section 6402 or any similar authority permitting offset, or
+  (2) reduced or offset by other assessed Federal taxes that would otherwise be subject to levy or collection.
+(g) The period determined under section 6611(a) with respect to any payment under this section shall not begin before January 1, 2028 .
+(h) In the case of any possession of the United States with a mirror code tax system (as defined in section 24(k)), this section shall not be treated as part of the income tax laws of the United States for purposes of determining the income tax law of such possession unless such possession elects to have this section be so treated.
+(i) For purposes of this section, the terms “Trump account” and “account beneficiary” have the meaning given such terms in section 530A(b).

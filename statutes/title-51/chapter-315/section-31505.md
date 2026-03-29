@@ -1,0 +1,22 @@
+---
+title: "Section 31505 - Development of enhanced-use lease policy"
+usc_title: 51
+usc_section: "31505"
+chapter: 315
+current_through: "PL 119-73"
+classification: "51 U.S.C. § 31505"
+generated_at: "2026-03-29T00:33:19.393Z"
+---
+
+# § 31505. Development of enhanced-use lease policy
+
+(a) The Administrator shall develop an agency-wide enhanced-use lease policy that—
+  (1) is based upon sound business practices and lessons learned from the demonstration centers; and
+  (2) establishes controls and procedures to ensure accountability and protect the interests of the Government.
+(b) The policy required by subsection (a) shall include the following:
+  (1) Criteria for determining whether enhanced-use lease provides better economic value to the Government than other options, such as—
+    (A) Federal financing through appropriations; or
+    (B) sale of the property.
+  (2) Requirement for the identification of proposed physical and procedural changes needed to ensure security and restrict access to specified areas, coordination of proposed changes with existing site tenants, and development of estimated costs of such changes.
+  (3) Measures of effectiveness for the enhanced-use lease program.
+  (4) Accounting controls and procedures to ensure accountability, such as an audit trail and documentation to readily support financial transactions.

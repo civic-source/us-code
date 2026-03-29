@@ -1,0 +1,27 @@
+---
+title: "Section 2283 - Transportation of explosive, biological, chemical, or radioactive or nuclear materials"
+usc_title: 18
+usc_section: "2283"
+chapter: 111
+current_through: "PL 119-73"
+classification: "18 U.S.C. § 2283"
+generated_at: "2026-03-29T00:30:15.703Z"
+---
+
+# § 2283. Transportation of explosive, biological, chemical, or radioactive or nuclear materials
+
+(a) Whoever knowingly transports aboard any vessel within the United States and on waters subject to the jurisdiction of the United States or any vessel outside the United States and on the high seas or having United States nationality an explosive or incendiary device, biological agent, chemical weapon, or radioactive or nuclear material, knowing that any such item is intended to be used to commit an offense listed under section 2332b(g)(5)(B), shall be fined under this title or imprisoned for any term of years or for life, or both.
+(b) Any person who causes the death of a person by engaging in conduct prohibited by subsection (a) may be punished by death.
+(c) In this section:
+  (1) The term “biological agent” means any biological agent, toxin, or vector (as those terms are defined in section 178).
+  (2) The term “by-product material” has the meaning given that term in section 11(e) of the Atomic Energy Act of 1954 ( 42 U.S.C. 2014(e) ).
+  (3) The term “chemical weapon” has the meaning given that term in section 229F(1).
+  (4) The term “explosive or incendiary device” has the meaning given the term in section 232(5) and includes explosive materials, as that term is defined in section 841(c) and explosive as defined in section 844(j).
+  (5) The term “nuclear material” has the meaning given that term in section 831(f)(1). 1 1 See References in Text note below.
+  (6) The term “radioactive material” means—
+    (A) source material and special nuclear material, but does not include natural or depleted uranium;
+    (B) nuclear by-product material;
+    (C) material made radioactive by bombardment in an accelerator; or
+    (D) all refined isotopes of radium.
+  (8) The term “source material” has the meaning given that term in section 11(z) of the Atomic Energy Act of 1954 ( 42 U.S.C. 2014(z) ).
+  (9) The term “special nuclear material” has the meaning given that term in section 11(aa) of the Atomic Energy Act of 1954 ( 42 U.S.C. 2014(aa) ).

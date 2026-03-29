@@ -1,0 +1,14 @@
+---
+title: "Section 491 - Destruction or dumping of farm produce received in interstate commerce by commission merchants, etc.; penalty"
+usc_title: 7
+usc_section: "491"
+chapter: 20
+current_through: "PL 119-73"
+classification: "7 U.S.C. § 491"
+generated_at: "2026-03-29T00:28:57.935Z"
+---
+
+# § 491. Destruction or dumping of farm produce received in interstate commerce by commission merchants, etc.; penalty
+
+After June 30, 1927 , any person, firm, association, or corporation receiving any fruits, vegetables, melons, dairy, or poultry products or any perishable farm products of any kind or character, hereinafter referred to as produce, in interstate commerce, or in the District of Columbia, for or on behalf of another, who without good and sufficient cause therefor, shall destroy, or abandon, discard as refuse or dump any produce directly or indirectly, or through collusion with any person, or who shall knowingly and with intent to defraud make any false report or statement to the person, firm, association, or corporation from whom any produce was received, concerning the handling, condition, quality, quantity, sale, or disposition thereof, or who shall knowingly and with intent to defraud fail truly and correctly to account therefor shall be guilty of a misdemeanor and upon conviction shall be punished by a fine of not less than $100 and not more than $3,000, or by imprisonment for a period of not exceeding one year, or both, at the discretion of the court.
+

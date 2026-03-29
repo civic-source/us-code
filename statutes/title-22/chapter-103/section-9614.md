@@ -1,0 +1,18 @@
+---
+title: "Section 9614 - Independent accountability mechanism"
+usc_title: 22
+usc_section: "9614"
+chapter: 103
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 9614"
+generated_at: "2026-03-29T00:30:34.059Z"
+---
+
+# § 9614. Independent accountability mechanism
+
+(a) The Board shall establish a transparent and independent accountability mechanism.
+(b) The independent accountability mechanism established pursuant to subsection (a) shall—
+  (1) annually evaluate and report to the Board and Congress regarding compliance with environmental, social, labor, human rights, and transparency standards, consistent with Corporation statutory mandates;
+  (2) provide a forum for resolving concerns regarding the impacts of specific Corporation-supported projects with respect to such standards; and
+  (3) provide advice regarding Corporation projects, policies, and practices.
+(c) Not later than 90 days after December 18, 2025 , the Board shall submit a report to the appropriate congressional committees describing any efficiencies that may be gained through the consolidation of functions of the independent accountability mechanism under the authorities of the Office of the Inspector General of the Corporation under section 1414. 1 1 See References in Text note below. The report shall include an outline as to how the Inspector General of the Corporation would develop an internal environmental, social, and governance expertise to adequately replace the independent accountability mechanism’s environmental, social, and governance expertise.

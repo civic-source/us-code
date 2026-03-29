@@ -1,0 +1,26 @@
+---
+title: "Section 304 - Application of categorical exclusions for multimodal projects"
+usc_title: 49
+usc_section: "304"
+chapter: 3
+current_through: "PL 119-73"
+classification: "49 U.S.C. § 304"
+generated_at: "2026-03-29T00:33:13.698Z"
+---
+
+# § 304. Application of categorical exclusions for multimodal projects
+
+(a) In this section, the following definitions apply:
+  (1) The term “cooperating authority” means a Department of Transportation operating administration or secretarial office that has expertise but is not the lead authority with respect to a proposed multimodal project.
+  (2) The term “lead authority” means a Department of Transportation operating administration or secretarial office that has the lead responsibility for compliance with the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) with respect to a proposed multimodal project.
+  (3) The term “multimodal project” has the meaning given the term in section 139(a) of title 23 .
+(b) The authorities granted in this section may be exercised for a multimodal project, class of projects, or program of projects that are carried out under this title or title 23.
+(c) In considering the environmental impacts of a proposed multimodal project, a lead authority may apply categorical exclusions designated under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) in implementing regulations or procedures of a cooperating authority for a proposed multimodal project, subject to the conditions that—
+  (1) the lead authority makes a determination, with the concurrence of the cooperating authority—
+    (A) on the applicability of a categorical exclusion to a proposed multimodal project; and
+    (B) that the project satisfies the conditions for a categorical exclusion under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) and this section;
+  (2) the lead authority follows the implementing regulations of the cooperating authority or procedures under that Act; and
+  (3) the lead authority determines that—
+    (A) the proposed multimodal project does not individually or cumulatively have a significant impact on the environment; and
+    (B) extraordinary circumstances do not exist that merit additional analysis and documentation in an environmental impact statement or environmental assessment required under that Act.
+(d) A cooperating authority shall provide expertise to the lead authority on aspects of the multimodal project in which the cooperating authority has expertise.

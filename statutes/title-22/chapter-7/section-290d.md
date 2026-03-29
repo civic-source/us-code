@@ -1,0 +1,14 @@
+---
+title: "Section 290d - Enactment of specific legislation by Congress"
+usc_title: 22
+usc_section: "290d"
+chapter: 7
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 290d"
+generated_at: "2026-03-29T00:30:33.697Z"
+---
+
+# § 290d. Enactment of specific legislation by Congress
+
+In adopting this subchapter, the Congress does so with the understanding that nothing in the Constitution of the World Health Organization in any manner commits the United States to enact any specific legislative program regarding any matters referred to in said Constitution.
+

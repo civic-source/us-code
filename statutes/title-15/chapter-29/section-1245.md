@@ -1,0 +1,16 @@
+---
+title: "Section 1245 - Ballistic knives"
+usc_title: 15
+usc_section: "1245"
+chapter: 29
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 1245"
+generated_at: "2026-03-29T00:29:41.686Z"
+---
+
+# § 1245. Ballistic knives
+
+(a) Whoever in or affecting interstate commerce, within any Territory or possession of the United States, within Indian country (as defined in section 1151 of title 18 ), or within the special maritime and territorial jurisdiction of the United States (as defined in section 7 of title 18 ), knowingly possesses, manufactures, sells, or imports a ballistic knife shall be fined as provided in title 18, or imprisoned not more than ten years, or both.
+(b) Whoever possesses or uses a ballistic knife in the commission of a Federal crime of violence shall be fined as provided in title 18, or imprisoned not less than five years and not more than ten years, or both.
+(c) The exceptions provided in paragraphs (1), (2), and (3) of section 1244 of this title with respect to switchblade knives shall apply to ballistic knives under subsection (a) of this section.
+(d) As used in this section, the term “ballistic knife” means a knife with a detachable blade that is propelled by a spring-operated mechanism.

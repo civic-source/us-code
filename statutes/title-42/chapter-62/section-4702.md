@@ -1,0 +1,14 @@
+---
+title: "Section 4702 - Administration of authorities"
+usc_title: 42
+usc_section: "4702"
+chapter: 62
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 4702"
+generated_at: "2026-03-29T00:32:53.878Z"
+---
+
+# § 4702. Administration of authorities
+
+The authorities provided by this chapter shall be administered in such manner as (1) to recognize fully the rights, powers, and responsibilities of State and local governments, and (2) to encourage innovation and allow for diversity on the part of State and local governments in the design, execution, and management of their own systems of personnel administration.
+

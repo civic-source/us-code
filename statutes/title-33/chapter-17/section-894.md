@@ -1,0 +1,36 @@
+---
+title: "Section 894 - Actions to address sexual harassment at National Oceanic and Atmospheric Administration"
+usc_title: 33
+usc_section: "894"
+chapter: 17
+current_through: "PL 119-73"
+classification: "33 U.S.C. § 894"
+generated_at: "2026-03-29T00:31:57.264Z"
+---
+
+# § 894. Actions to address sexual harassment at National Oceanic and Atmospheric Administration
+
+(a) Not later than 1 year after December 23, 2016 , the Secretary of Commerce shall, acting through the Under Secretary for Oceans and Atmosphere, develop a policy on the prevention of and response to sexual harassment involving employees of the National Oceanic and Atmospheric Administration, members of the commissioned officer corps of the Administration, and individuals who work with or conduct business on behalf of the Administration.
+(b) The policy developed under subsection (a) shall include—
+  (1) establishment of a program to promote awareness of the incidence of sexual harassment;
+  (2) clear procedures an individual should follow in the case of an occurrence of sexual harassment, including—
+    (A) a specification of the person or persons to whom an alleged occurrence of sexual harassment should be reported by an individual and options for confidential reporting, including—
+      (i) options and contact information for after-hours contact; and
+      (ii) a procedure for obtaining assistance and reporting sexual harassment while working in a remote scientific field camp, at sea, or in another field status; and
+    (B) a specification of any other person whom the victim should contact;
+  (3) establishment of a mechanism by which—
+    (A) questions regarding sexual harassment can be confidentially asked and confidentially answered; and
+    (B) incidents of sexual harassment can be reported on a restricted or unrestricted basis; and
+  (4) a prohibition on retaliation and consequences for retaliatory actions.
+(c) In developing the policy required by subsection (a), the Secretary may consult or receive assistance from such State, local, and national organizations and subject matter experts as the Secretary considers appropriate.
+(d) The Secretary shall ensure that the policy developed under subsection (a) is available to—
+  (1) all employees of the Administration and members of the commissioned officer corps of the Administration, including those employees and members who conduct field work for the Administration; and
+  (2) the public.
+(e) The Secretary shall designate out of existing staff at least 1 employee of the Administration who is tasked with handling matters relating to equal employment opportunity or sexual harassment at each marine and aviation center of the Administration.
+(f) 
+  (1) Not less frequently than 4 times each year, the Director of the Civil Rights Office of the Administration shall submit to the Under Secretary a report on sexual harassment in the Administration.
+  (2) Each report submitted under paragraph (1) shall include the following:
+    (A) The number of sexual harassment cases, both actionable and non-actionable, involving individuals covered by the policy developed under subsection (a).
+    (B) The number of open actionable sexual harassment cases and how long the cases have been open.
+    (C) Such trends or region-specific issues as the Director may have discovered with respect to sexual harassment in the Administration.
+    (D) Such recommendations as the Director may have with respect to sexual harassment in the Administration.

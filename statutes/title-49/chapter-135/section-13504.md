@@ -1,0 +1,14 @@
+---
+title: "Section 13504 - Exempt motor carrier transportation entirely in one State"
+usc_title: 49
+usc_section: "13504"
+chapter: 135
+current_through: "PL 119-73"
+classification: "49 U.S.C. § 13504"
+generated_at: "2026-03-29T00:33:13.771Z"
+---
+
+# § 13504. Exempt motor carrier transportation entirely in one State
+
+Neither the Secretary nor the Board has jurisdiction under this subchapter over transportation, except transportation of household goods, by a motor carrier operating solely within the State of Hawaii. The State of Hawaii may regulate transportation exempt from jurisdiction under this section and, to the extent provided by a motor carrier operating solely within the State of Hawaii, transportation exempt under section 13503 of this title .
+

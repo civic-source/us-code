@@ -1,0 +1,19 @@
+---
+title: "Section 3153 - National Agricultural Science Award"
+usc_title: 7
+usc_section: "3153"
+chapter: 64
+current_through: "PL 119-73"
+classification: "7 U.S.C. § 3153"
+generated_at: "2026-03-29T00:28:58.163Z"
+---
+
+# § 3153. National Agricultural Science Award
+
+(a) The Secretary shall establish the National Agricultural Science Award for research or advanced studies in the food and agricultural sciences, including the social sciences. Two such awards, one for each of the categories described in subsection (d) of this section, shall be made in each fiscal year.
+(b) The awards shall not exceed $50,000 per year for a period of not to exceed three years to support research or study by the recipient.
+(c) The awards shall be open to persons in agricultural research, extension, teaching, or any combination thereof.
+(d) Awards under this section shall be made in each fiscal year in two categories as follows:
+  (1) to a scientist in recognition of outstanding contributions to the advancement of the food and agricultural sciences; and
+  (2) to a research scientist in early career development or a graduate student, in recognition of demonstrated capability and promise of significant future achievement in the food and agricultural sciences.
+(e) The Secretary may establish such nominating and selection committees, to consist of scientists and others, to receive nominations and make recommendations for awards under this section, as the Secretary deems appropriate.

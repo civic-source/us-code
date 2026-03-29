@@ -1,0 +1,14 @@
+---
+title: "Section 11362 - Discharge coordination policy"
+usc_title: 42
+usc_section: "11362"
+chapter: 119
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 11362"
+generated_at: "2026-03-29T00:32:54.229Z"
+---
+
+# § 11362. Discharge coordination policy
+
+The Secretary may not provide a grant under this subchapter for any governmental entity serving as an applicant unless the applicant agrees to develop and implement, to the maximum extent practicable and where appropriate, policies and protocols for the discharge of persons from publicly funded institutions or systems of care (such as health care facilities, foster care or other youth facilities, or correction programs and institutions) in order to prevent such discharge from immediately resulting in homelessness for such persons.
+

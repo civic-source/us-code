@@ -1,0 +1,14 @@
+---
+title: "Section 4506 - Requirement of referendum"
+usc_title: 7
+usc_section: "4506"
+chapter: 76
+current_through: "PL 119-73"
+classification: "7 U.S.C. § 4506"
+generated_at: "2026-03-29T00:28:58.189Z"
+---
+
+# § 4506. Requirement of referendum
+
+(a) Within the sixty-day period immediately preceding September 30, 1985 , the Secretary shall conduct a referendum among producers who, during a representative period (as determined by the Secretary), have been engaged in the production of milk for commercial use for the purpose of ascertaining whether the order then in effect shall be continued. Such order shall be continued only if the Secretary determines that it has been approved by not less than a majority of the producers voting in the referendum, who during a representative period (as determined by the Secretary) have been engaged in the production of milk for commercial use. If continuation of the order is not approved by a majority of the producers voting in the referendum, the Secretary shall terminate collection of assessments under the order within six months after the Secretary determines that such action is favored by a majority of the producers voting in the referendum and shall terminate the order in an orderly manner as soon as practicable after such determination.
+(b) The Secretary shall be reimbursed from assessments collected by the Board for any expenses incurred by the Department in connection with the conduct of any referendum under this section and section 4507 of this title , except for the salaries of Government employees.

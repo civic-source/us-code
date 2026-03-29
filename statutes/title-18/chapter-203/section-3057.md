@@ -1,0 +1,14 @@
+---
+title: "Section 3057 - Bankruptcy investigations"
+usc_title: 18
+usc_section: "3057"
+chapter: 203
+current_through: "PL 119-73"
+classification: "18 U.S.C. § 3057"
+generated_at: "2026-03-29T00:30:15.721Z"
+---
+
+# § 3057. Bankruptcy investigations
+
+(a) Any judge, receiver, or trustee having reasonable grounds for believing that any violation under chapter 9 of this title or other laws of the United States relating to insolvent debtors, receiverships or reorganization plans has been committed, or that an investigation should be had in connection therewith, shall report to the appropriate United States attorney all the facts and circumstances of the case, the names of the witnesses and the offense or offenses believed to have been committed. Where one of such officers has made such report, the others need not do so.
+(b) The United States attorney thereupon shall inquire into the facts and report thereon to the judge, and if it appears probable that any such offense has been committed, shall without delay, present the matter to the grand jury, unless upon inquiry and examination he decides that the ends of public justice do not require investigation or prosecution, in which case he shall report the facts to the Attorney General for his direction.

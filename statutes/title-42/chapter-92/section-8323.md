@@ -1,0 +1,19 @@
+---
+title: "Section 8323 - General requirements for exemptions"
+usc_title: 42
+usc_section: "8323"
+chapter: 92
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 8323"
+generated_at: "2026-03-29T00:32:54.122Z"
+---
+
+# § 8323. General requirements for exemptions
+
+(a) Except in the case of an exemption under section 8322(d) of this title , the Secretary may grant a permanent exemption for a powerplant under this part only—
+  (1) if the applicant has demonstrated that the use of a mixture of natural gas or petroleum and coal or another alternate fuel, for which an exemption under section 8322(d) of this title would be available, is not economically or technically feasible; and
+  (2) if the Secretary has not made a finding that the use of a method of fluidized bed combustion of coal or another alternate fuel is economically and technically feasible.
+(b) If the appropriate State regulatory authority has not approved a powerplant for which a petition has been filed, such exemption, to the extent it applies to the prohibition under section 8311 of this title against construction without the capability of using coal or another alternate fuel, shall not take effect until all approvals required by such State regulatory authority which relate to construction have been obtained.
+(c) 
+  (1) Except in the case of an exemption under section 8322(c) of this title , the Secretary may not grant an exemption for a new powerplant unless he finds that the petitioner has demonstrated that there is no alternative supply of electric power which is available within a reasonable distance at a reasonable cost without impairing short-run or long-run reliability of service and which can be obtained by the petitioner, despite reasonable good faith efforts.
+  (2) The Secretary shall forward a copy of any such petition to the Federal Energy Regulatory Commission promptly after it is filed with the Secretary and shall consult with such Commission before making any finding on such petition under paragraph (1).

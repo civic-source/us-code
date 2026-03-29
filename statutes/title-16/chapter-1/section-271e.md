@@ -1,0 +1,14 @@
+---
+title: "Section 271e - Report to President"
+usc_title: 16
+usc_section: "271e"
+chapter: 1
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 271e"
+generated_at: "2026-03-29T00:29:52.333Z"
+---
+
+# § 271e. Report to President
+
+Within three years from November 12, 1971 , the Secretary of the Interior shall report to the President, in accordance with section 1132(c) and (d) of this title, his recommendations as to the suitability or nonsuitability of any area within the national park for preservation as wilderness, and any designation of any such area as a wilderness shall be accomplished in accordance with said section 1132(c) and (d) of this title.
+

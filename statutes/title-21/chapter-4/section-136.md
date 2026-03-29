@@ -1,0 +1,14 @@
+---
+title: "Section 136 - Additional inspection services"
+usc_title: 21
+usc_section: "136"
+chapter: 4
+current_through: "PL 119-73"
+classification: "21 U.S.C. § 136"
+generated_at: "2026-03-29T00:30:24.144Z"
+---
+
+# § 136. Additional inspection services
+
+The Secretary of Agriculture, in carrying out regulations prohibiting or restricting the entry of materials that may harbor pests, or diseases, is authorized to enter into agreements with operators or owners of vessels or aircraft for the purpose of providing inspection services at points of entry in the United States in addition to the regular or on-call basis currently available in connection with such vessels or aircraft. Any such agreement shall provide for the payment by the operator or owner of an amount determined by the Secretary to be necessary to defray the costs of providing additional service pursuant to such agreement.
+

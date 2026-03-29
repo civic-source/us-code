@@ -1,0 +1,18 @@
+---
+title: "Section 3296 - Counts dismissed pursuant to a plea agreement"
+usc_title: 18
+usc_section: "3296"
+chapter: 213
+current_through: "PL 119-73"
+classification: "18 U.S.C. § 3296"
+generated_at: "2026-03-29T00:30:15.732Z"
+---
+
+# § 3296. Counts dismissed pursuant to a plea agreement
+
+(a) Notwithstanding any other provision of this chapter, any counts of an indictment or information that are dismissed pursuant to a plea agreement shall be reinstated by the District Court if—
+  (1) the counts sought to be reinstated were originally filed within the applicable limitations period;
+  (2) the counts were dismissed pursuant to a plea agreement approved by the District Court under which the defendant pled guilty to other charges;
+  (3) the guilty plea was subsequently vacated on the motion of the defendant; and
+  (4) the United States moves to reinstate the dismissed counts within 60 days of the date on which the order vacating the plea becomes final.
+(b) Nothing in this section shall preclude the District Court from considering any defense or objection, other than statute of limitations, to the prosecution of the counts reinstated under subsection (a).

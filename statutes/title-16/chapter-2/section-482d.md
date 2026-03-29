@@ -1,0 +1,14 @@
+---
+title: "Section 482d - Perfection of claims within forest"
+usc_title: 16
+usc_section: "482d"
+chapter: 2
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 482d"
+generated_at: "2026-03-29T00:29:52.536Z"
+---
+
+# § 482d. Perfection of claims within forest
+
+Valid mining claims within the Mount Hood National Forest in the State of Oregon existing on May 11, 1934 , and thereafter maintained in compliance with the law under which they were initiated and the laws of the State of Oregon, may be perfected under sections 482b and 482c of this title, or under the law under which they were initiated, as the claimant may desire.
+

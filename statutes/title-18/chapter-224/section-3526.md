@@ -1,0 +1,16 @@
+---
+title: "Section 3526 - Cooperation of other Federal agencies and State governments; reimbursement of expenses"
+usc_title: 18
+usc_section: "3526"
+chapter: 224
+current_through: "PL 119-73"
+classification: "18 U.S.C. § 3526"
+generated_at: "2026-03-29T00:30:15.738Z"
+---
+
+# § 3526. Cooperation of other Federal agencies and State governments; reimbursement of expenses
+
+(a) Each Federal agency shall cooperate with the Attorney General in carrying out the provisions of this chapter and may provide, on a reimbursable basis, such personnel and services as the Attorney General may request in carrying out those provisions.
+(b) In any case in which a State government requests the Attorney General to provide protection to any person under this chapter—
+  (1) the Attorney General may enter into an agreement with that State government in which that government agrees to reimburse the United States for expenses incurred in providing protection to that person under this chapter; and
+  (2) the Attorney General shall enter into an agreement with that State government in which that government agrees to cooperate with the Attorney General in carrying out the provisions of this chapter with respect to all persons.

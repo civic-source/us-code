@@ -1,0 +1,14 @@
+---
+title: "Section 3170 - Special access and access to inholdings"
+usc_title: 16
+usc_section: "3170"
+chapter: 51
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 3170"
+generated_at: "2026-03-29T00:29:52.791Z"
+---
+
+# § 3170. Special access and access to inholdings
+
+(a) Notwithstanding any other provision of this Act or other law, the Secretary shall permit, on conservation system units, national recreation areas, and national conservation areas, and those public lands designated as wilderness study, the use of snowmachines (during periods of adequate snow cover, or frozen river conditions in the case of wild and scenic rivers), motorboats, airplanes, and nonmotorized surface transportation methods for traditional activities (where such activities are permitted by this Act or other law) and for travel to and from villages and homesites. Such use shall be subject to reasonable regulations by the Secretary to protect the natural and other values of the conservation system units, national recreation areas, and national conservation areas, and shall not be prohibited unless, after notice and hearing in the vicinity of the affected unit or area, the Secretary finds that such use would be detrimental to the resource values of the unit or area. Nothing in this section shall be construed as prohibiting the use of other methods of transportation for such travel and activities on conservation system lands where such use is permitted by this Act or other law.
+(b) Notwithstanding any other provisions of this Act or other law, in any case in which State owned or privately owned land, including subsurface rights of such owners underlying public lands, or a valid mining claim or other valid occupancy is within or is effectively surrounded by one or more conservation system units, national recreation areas, national conservation areas, or those public lands designated as wilderness study, the State or private owner or occupier shall be given by the Secretary such rights as may be necessary to assure adequate and feasible access for economic and other purposes to the concerned land by such State or private owner or occupier and their successors in interest. Such rights shall be subject to reasonable regulations issued by the Secretary to protect the natural and other values of such lands.

@@ -1,0 +1,14 @@
+---
+title: "Section 796 - Reporting of court proceedings"
+usc_title: 28
+usc_section: "796"
+chapter: 51
+current_through: "PL 119-73"
+classification: "28 U.S.C. § 796"
+generated_at: "2026-03-29T00:31:24.168Z"
+---
+
+# § 796. Reporting of court proceedings
+
+Subject to the approval of the United States Court of Federal Claims, the Director of the Administrative Office of the United States Courts is authorized to contract for the reporting of all proceedings had in open court, and in such contract to fix the terms and conditions under which such reporting services shall be performed, including the terms and conditions under which transcripts shall be supplied by the contractor to the court and to other persons, departments, and agencies.
+

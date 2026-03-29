@@ -1,0 +1,16 @@
+---
+title: "Section 1115 - Property of the estate"
+usc_title: 11
+usc_section: "1115"
+chapter: 11
+current_through: "PL 119-73"
+classification: "11 U.S.C. § 1115"
+generated_at: "2026-03-29T00:28:59.967Z"
+---
+
+# § 1115. Property of the estate
+
+(a) In a case in which the debtor is an individual, property of the estate includes, in addition to the property specified in section 541—
+  (1) all property of the kind specified in section 541 that the debtor acquires after the commencement of the case but before the case is closed, dismissed, or converted to a case under chapter 7, 12, or 13, whichever occurs first; and
+  (2) earnings from services performed by the debtor after the commencement of the case but before the case is closed, dismissed, or converted to a case under chapter 7, 12, or 13, whichever occurs first.
+(b) Except as provided in section 1104 or a confirmed plan or order confirming a plan, the debtor shall remain in possession of all property of the estate.

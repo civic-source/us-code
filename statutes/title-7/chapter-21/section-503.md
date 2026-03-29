@@ -1,0 +1,14 @@
+---
+title: "Section 503 - Reports; necessity; by whom made; penalties"
+usc_title: 7
+usc_section: "503"
+chapter: 21
+current_through: "PL 119-73"
+classification: "7 U.S.C. § 503"
+generated_at: "2026-03-29T00:28:57.941Z"
+---
+
+# § 503. Reports; necessity; by whom made; penalties
+
+It shall be the duty of every dealer, manufacturer, quasi-manufacturer, growers’ cooperative association, warehouseman, broker, holder, or owner, other than the original grower, except such persons as are excluded by the proviso to section 501 of this title , to furnish within fifteen days after January 1, April 1, July 1, and October 1 of each year, completely and correctly, to the best of his knowledge, a report of the quantity of leaf tobacco on hand, segregated in accordance with the blanks furnished by the Secretary of Agriculture. Any person, firm, association, or corporation required by this chapter to furnish a report, and any officer, agent, or employee thereof who shall refuse or willfully neglect to furnish any of the information required by this chapter, or shall willfully give answers that are false or misleading, shall be guilty of a misdemeanor, and upon conviction thereof shall be fined not less than $300 or more than $1,000, or imprisoned not more than one year, or both.
+

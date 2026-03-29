@@ -1,0 +1,15 @@
+---
+title: "Section 541 - United States attorneys"
+usc_title: 28
+usc_section: "541"
+chapter: 35
+current_through: "PL 119-73"
+classification: "28 U.S.C. § 541"
+generated_at: "2026-03-29T00:31:24.152Z"
+---
+
+# § 541. United States attorneys
+
+(a) The President shall appoint, by and with the advice and consent of the Senate, a United States attorney for each judicial district.
+(b) Each United States attorney shall be appointed for a term of four years. On the expiration of his term, a United States attorney shall continue to perform the duties of his office until his successor is appointed and qualifies.
+(c) Each United States attorney is subject to removal by the President.

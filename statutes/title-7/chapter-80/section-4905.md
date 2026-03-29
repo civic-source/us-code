@@ -1,0 +1,14 @@
+---
+title: "Section 4905 - Regulations"
+usc_title: 7
+usc_section: "4905"
+chapter: 80
+current_through: "PL 119-73"
+classification: "7 U.S.C. § 4905"
+generated_at: "2026-03-29T00:28:58.200Z"
+---
+
+# § 4905. Regulations
+
+The Secretary may issue such regulations as may be necessary to carry out the provisions of this chapter and the powers vested in the Secretary under this chapter.
+

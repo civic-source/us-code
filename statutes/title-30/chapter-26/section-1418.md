@@ -1,0 +1,15 @@
+---
+title: "Section 1418 - Diligence requirements"
+usc_title: 30
+usc_section: "1418"
+chapter: 26
+current_through: "PL 119-73"
+classification: "30 U.S.C. § 1418"
+generated_at: "2026-03-29T00:31:30.829Z"
+---
+
+# § 1418. Diligence requirements
+
+(a) The exploration plan or recovery plan and the terms, conditions, and restrictions of each license and permit issued under this subchapter shall be designed to assure diligent development. Each licensee shall pursue diligently the activities described in the exploration plan of the licensee, and each permittee shall pursue diligently the activities described in the recovery plan of the permittee.
+(b) Each license shall require such periodic reasonable expenditures for exploration by the licensee as the Administrator shall establish, taking into account the size of the area of the deep seabed to which the exploration plan associated with the license applies and the amount of funds which is estimated by the Administrator to be required for commercial recovery of hard mineral resources to begin within the time limit established by the Administrator. Such required expenditures shall not be established at a level which would discourage exploration by persons with less costly technology than is prevalently in use.
+(c) Once commercial recovery is achieved, the Administrator shall, within reasonable limits and taking into consideration all relevant factors, require the permittee to maintain commercial recovery throughout the period of the permit; except that the Administrator shall for good cause shown, including force majeure, adverse economic conditions, or other circumstances beyond the control of the permittee, authorize the temporary suspension of commercial recovery activities. The duration of such a suspension shall not exceed one year at any one time, unless the Administrator determines that conditions justify an extension of the suspension.

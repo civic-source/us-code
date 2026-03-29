@@ -1,0 +1,25 @@
+---
+title: "Section 529 - Annual executive agency reports on excess personal property"
+usc_title: 40
+usc_section: "529"
+chapter: 5
+current_through: "PL 119-73"
+classification: "40 U.S.C. § 529"
+generated_at: "2026-03-29T00:32:20.523Z"
+---
+
+# § 529. Annual executive agency reports on excess personal property
+
+(a) During the calendar quarter following the close of each fiscal year, each executive agency shall submit to the Administrator of General Services and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives a report on personal property—
+  (1) obtained as—
+    (A) excess property; or
+    (B) personal property determined to be no longer required for the purpose of the appropriation used to make the purchase; and
+  (2) furnished within the United States to a recipient other than a federal agency.
+(b) The report must set out the categories of equipment and show—
+  (1) the acquisition cost of the property;
+  (2) the recipient of the property; and
+  (3) other information the Administrator may require.
+(c) Not later than 180 days following the close of a fiscal year, the Administrator shall compile the data in the reports submitted under subsection (a) and submit to the Committee on Homeland Security 1 1 So in original. The word “and” probably should appear. Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives and publish on a centralized online website a publicly available report, which shall include—
+  (1) the complete data provided in each report in a user-friendly format;
+  (2) a summary of the findings of each report, including the aggregate dollar amount of personal property determined to be no longer required for the purpose of the appropriation used to make the purchase; and
+  (3) any other recommendations from the Administrator.

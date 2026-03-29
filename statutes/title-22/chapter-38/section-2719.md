@@ -1,0 +1,20 @@
+---
+title: "Section 2719 - Grants for training and education in international affairs"
+usc_title: 22
+usc_section: "2719"
+chapter: 38
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 2719"
+generated_at: "2026-03-29T00:30:33.850Z"
+---
+
+# § 2719. Grants for training and education in international affairs
+
+(a) The Secretary of State may make grants to postsecondary educational institutions or students for the purpose of increasing the level of knowledge and awareness of and interest in employment with the Foreign Service or the Civil Service, consistent with section 3905 of this title . To the extent possible, the Secretary shall give special emphasis to promoting such knowledge and awareness of, and interest in employment with, the Foreign Service or the Civil Service among minority students. Any grants awarded shall be made pursuant to regulations to be established by the Secretary of State, which shall provide for a limit on the size of any specific grant and, regarding any grants to individuals, shall ensure that no grant recipient receives an amount of grants from one or more Federal programs which in the aggregate would exceed the cost of his or her education, and shall require satisfactory educational progress by grantees as a condition of eligibility for continued receipt of grant funds.
+(b) 
+  (1) The Secretary of State, working through the Assistant Secretary for Diplomatic Security, is authorized to establish Diplomatic Security fellowship programs to provide grants to United States nationals pursuing post-secondary studies who commit to pursuing a career as a special agent, security engineering officer, or in the civil service in the Bureau of Diplomatic Security.
+  (2) The Secretary is authorized to promulgate regulations for the administration of Diplomatic Security fellowship programs that set forth—
+    (A) the eligibility requirements for receiving a grant under this subsection;
+    (B) the process by which eligible applicants may request such a grant;
+    (C) the maximum amount of such a grant; and
+    (D) the educational progress to which all grant recipients are obligated.

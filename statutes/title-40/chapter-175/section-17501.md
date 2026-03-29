@@ -1,0 +1,20 @@
+---
+title: "Section 17501 - Definitions"
+usc_title: 40
+usc_section: "17501"
+chapter: 175
+current_through: "PL 119-73"
+classification: "40 U.S.C. § 17501"
+generated_at: "2026-03-29T00:32:20.586Z"
+---
+
+# § 17501. Definitions
+
+In this chapter, the following definitions apply:
+
+  (1) The term “executive agency”—
+    (A) means an executive agency (as that term is defined in section 105 of title 5 ) that operates at least 300 motor vehicles; but
+    (B) does not include the Tennessee Valley Authority.
+  (2) The term “motor vehicle” means—
+    (A) a vehicle self-propelled or drawn by mechanical power; but not
+    (B) a vehicle designed or used for military field training, combat, or tactical purposes, or any other special purpose vehicle exempted from the requirements of this chapter by the Administrator of General Services.

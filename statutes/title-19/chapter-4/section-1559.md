@@ -1,0 +1,14 @@
+---
+title: "Section 1559 - Warehouse goods deemed abandoned after 5 years"
+usc_title: 19
+usc_section: "1559"
+chapter: 4
+current_through: "PL 119-73"
+classification: "19 U.S.C. § 1559"
+generated_at: "2026-03-29T00:30:20.157Z"
+---
+
+# § 1559. Warehouse goods deemed abandoned after 5 years
+
+Merchandise upon which any duties or charges are unpaid, remaining in bonded warehouse beyond 5 years from the date of importation, or such longer period of time as the Bureau of Customs and Border Protection may at its discretion permit upon proper request being filed and good cause shown, shall be regarded as abandoned to the Government and shall be sold under such regulations as the Secretary of the Treasury shall prescribe, and the proceeds of sale paid into the Treasury, as in the case of unclaimed merchandise covered by section 1493 of this title , subject to the payment to the owner or consignee of such amount, if any, as shall remain after deduction of duties, charges, and expenses. Merchandise upon which all duties and charges have been paid, remaining in bonded warehouse beyond 5 years from the date of importation, or such longer period of time as the Bureau of Customs and Border Protection may at its discretion permit upon proper request being filed and good cause shown, shall be held to be no longer in the custody or control of the officers of the customs.
+

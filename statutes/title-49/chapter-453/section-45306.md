@@ -1,0 +1,18 @@
+---
+title: "Section 45306 - Manual surcharge"
+usc_title: 49
+usc_section: "45306"
+chapter: 453
+current_through: "PL 119-73"
+classification: "49 U.S.C. § 45306"
+generated_at: "2026-03-29T00:33:13.914Z"
+---
+
+# § 45306. Manual surcharge
+
+(a) Not later 3 years after the date of enactment of the FAA Reauthorization Act of 2018, the Administrator shall impose and collect a surcharge on a Civil Aviation Registry transaction that—
+  (1) is conducted in person at the Civil Aviation Registry;
+  (2) could be conducted, as determined by the Administrator, with the same or greater level of efficiency by electronic or other remote means; and
+  (3) is not related to research or other non-commercial activities.
+(b) A surcharge imposed and collected under subsection (a) shall not exceed twice the maximum fee the Administrator is authorized to charge for the registration of an aircraft, not used to provide air transportation, after the transfer of ownership under section 45302(b)(2).
+(c) Monies collected from a surcharge imposed under subsection (a) shall be treated as monies collected under section 45302 and subject to the terms and conditions set forth in section 45302(d).

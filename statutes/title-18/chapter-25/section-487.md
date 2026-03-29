@@ -1,0 +1,14 @@
+---
+title: "Section 487 - Making or possessing counterfeit dies for coins"
+usc_title: 18
+usc_section: "487"
+chapter: 25
+current_through: "PL 119-73"
+classification: "18 U.S.C. § 487"
+generated_at: "2026-03-29T00:30:15.615Z"
+---
+
+# § 487. Making or possessing counterfeit dies for coins
+
+Whoever, without lawful authority, makes any die, hub, or mold, or any part thereof, either of steel or plaster, or any other substance, in likeness or similitude, as to the design or the inscription thereon, of any die, hub, or mold designated for the coining or making of any of the genuine gold, silver, nickel, bronze, copper, or other coins coined at the mints of the United States; or Whoever, without lawful authority, possesses any such die, hub, or mold, or any part thereof, or permits the same to be used for or in aid of the counterfeiting of any such coins of the United States— Shall be fined under this title or imprisoned not more than fifteen years, or both.
+

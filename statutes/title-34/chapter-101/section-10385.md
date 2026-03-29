@@ -1,0 +1,15 @@
+---
+title: "Section 10385 - Performance evaluation"
+usc_title: 34
+usc_section: "10385"
+chapter: 101
+current_through: "PL 119-73"
+classification: "34 U.S.C. § 10385"
+generated_at: "2026-03-29T00:32:01.557Z"
+---
+
+# § 10385. Performance evaluation
+
+(a) Each program, project, or activity funded under this subchapter shall contain a monitoring component, developed pursuant to guidelines established by the Attorney General. The monitoring required by this subsection shall include systematic identification and collection of data about activities, accomplishments, and programs throughout the life of the program, project, or activity and presentation of such data in a usable form.
+(b) Selected grant recipients shall be evaluated on the local level or as part of a national evaluation, pursuant to guidelines established by the Attorney General. Such evaluations may include assessments of individual program implementations. In selected jurisdictions that are able to support outcome evaluations, the effectiveness of funded programs, projects, and activities may be required. Outcome measures may include crime and victimization indicators, quality of life measures, community perceptions, and police perceptions of their own work.
+(c) The Attorney General may require a grant recipient to submit to the Attorney General the results of the monitoring and evaluations required under subsections (a) and (b) and such other data and information as the Attorney General deems reasonably necessary.

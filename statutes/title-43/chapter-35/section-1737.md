@@ -1,0 +1,24 @@
+---
+title: "Section 1737 - Implementation provisions"
+usc_title: 43
+usc_section: "1737"
+chapter: 35
+current_through: "PL 119-73"
+classification: "43 U.S.C. § 1737"
+generated_at: "2026-03-29T00:32:57.446Z"
+---
+
+# § 1737. Implementation provisions
+
+(a) The Secretary may conduct investigations, studies, and experiments, on his own initiative or in cooperation with others, involving the management, protection, development, acquisition, and conveying of the public lands.
+(b) Subject to the provisions of applicable law, the Secretary may enter into contracts and cooperative agreements involving the management, protection, development, and sale of public lands.
+(c) The Secretary may accept contributions or donations of money, services, and property, real, personal, or mixed, for the management, protection, development, acquisition, and conveying of the public lands, including the acquisition of rights-of-way for such purposes. He may accept contributions for cadastral surveying performed on federally controlled or intermingled lands. Moneys received hereunder shall be credited to a separate account in the Treasury and are hereby authorized to be appropriated and made available until expended, as the Secretary may direct, for payment of expenses incident to the function toward the administration of which the contributions were made and for refunds to depositors of amounts contributed by them in specific instances where contributions are in excess of their share of the cost.
+(d) The Secretary may recruit, without regard to the civil service classification laws, rules, or regulations, the services of individuals contributed without compensation as volunteers for aiding in or facilitating the activities administered by the Secretary through the Bureau of Land Management.
+(e) In accepting such services of individuals as volunteers, the Secretary—
+  (1) shall not permit the use of volunteers in hazardous duty or law enforcement work, or in policymaking processes or to displace any employee; and
+  (2) may provide for services or costs incidental to the utilization of volunteers, including transportation, supplies, lodging, subsistence, recruiting, training, and supervision.
+(f) Volunteers shall not be deemed employees of the United States except for the purposes of—
+  (1) the tort claims provisions of title 28;
+  (2) subchapter 1 1 1 So in original. Probably should be subchapter “I”. of chapter 81 of title 5; and
+  (3) claims relating to damage to, or loss of, personal property of a volunteer incident to volunteer service, in which case the provisions of section 3721 of title 31 shall apply.
+(g) Effective with fiscal years beginning after September 30, 1984 , there are authorized to be appropriated such sums as may be necessary to carry out the provisions of subsection (d), but not more than $250,000 may be appropriated for any one fiscal year.

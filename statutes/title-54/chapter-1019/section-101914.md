@@ -1,0 +1,14 @@
+---
+title: "Section 101914 - Term of concession contracts"
+usc_title: 54
+usc_section: "101914"
+chapter: 1019
+current_through: "PL 119-73"
+classification: "54 U.S.C. § 101914"
+generated_at: "2026-03-29T00:33:21.616Z"
+---
+
+# § 101914. Term of concession contracts
+
+A concession contract entered into pursuant to this subchapter shall generally be awarded for a term of 10 years or less. The Secretary may award a contract for a term of up to 20 years if the Secretary determines that the contract terms and conditions, including the required construction of capital improvements, warrant a longer term.
+

@@ -1,0 +1,16 @@
+---
+title: "Section 123 - Amounts received under insurance contracts for certain living expenses"
+usc_title: 26
+usc_section: "123"
+chapter: 1
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 123"
+generated_at: "2026-03-29T00:31:20.623Z"
+---
+
+# § 123. Amounts received under insurance contracts for certain living expenses
+
+(a) In the case of an individual whose principal residence is damaged or destroyed by fire, storm, or other casualty, or who is denied access to his principal residence by governmental authorities because of the occurrence or threat of occurrence of such a casualty, gross income does not include amounts received by such individual under an insurance contract which are paid to compensate or reimburse such individual for living expenses incurred for himself and members of his household resulting from the loss of use or occupancy of such residence.
+(b) Subsection (a) shall apply to amounts received by the taxpayer for living expenses incurred during any period only to the extent the amounts received do not exceed the amount by which—
+  (1) the actual living expenses incurred during such period for himself and members of his household resulting from the loss of use or occupancy of their residence, exceed
+  (2) the normal living expenses which would have been incurred for himself and members of his household during such period.

@@ -1,0 +1,20 @@
+---
+title: "Section 1470 - Federal supervision of insured institutions, State member and nonmember banks; access to information; definitions"
+usc_title: 12
+usc_section: "1470"
+chapter: 12
+current_through: "PL 119-73"
+classification: "12 U.S.C. § 1470"
+generated_at: "2026-03-29T00:29:16.560Z"
+---
+
+# § 1470. Federal supervision of insured institutions, State member and nonmember banks; access to information; definitions
+
+(a) 
+  (1) The appropriate Federal banking agency, with respect to the institutions subject to the jurisdiction of each such agency, shall by appropriate rule, regulation, order, or otherwise regulate investment in State housing corporations.
+  (2) A State housing corporation in which financial institutions invest under the authority of this section shall make available to the appropriate Federal banking agency referred to in paragraph (1) such information as may be necessary to insure that investments are properly made in accordance with this section.
+(b) For the purposes of this section and any Act amended by this section—
+  (1) The term “insured institution” has the same meaning as in section 401(a) of the National Housing Act [ 12 U.S.C. 1724(a) ]. 1 1 See References in Text note below.
+  (2) The terms “State member insured banks” and “State nonmember insured banks” have the same meaning as when used in the Federal Deposit Insurance Act [ 12 U.S.C. 1811 et seq.].
+  (3) The term “State housing corporation” means a corporation established by a State for the limited purpose of providing housing and incidental services, particularly for families of low or moderate income.
+  (4) The term “State” means any State, the District of Columbia, Guam, the Commonwealth of Puerto Rico, and the Virgin Islands.

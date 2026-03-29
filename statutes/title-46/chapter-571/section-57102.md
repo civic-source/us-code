@@ -1,0 +1,14 @@
+---
+title: "Section 57102 - Disposition of vessels"
+usc_title: 46
+usc_section: "57102"
+chapter: 571
+current_through: "PL 119-73"
+classification: "46 U.S.C. § 57102"
+generated_at: "2026-03-29T00:33:02.953Z"
+---
+
+# § 57102. Disposition of vessels
+
+(a) If the Secretary of Transportation determines that a vessel is an obsolete vessel, the Secretary may dispose of such vessel (by sale or by purchase of disposal services).
+(b) The sale of a vessel under subsection (a) shall be made on a best value basis. The purchaser does not have to be a citizen of the United States. The purchaser shall provide a surety bond, with a surety approved by the Secretary, to ensure that the vessel will not be operated in the foreign trade of the United States at any time within 10 years after the sale, in competition with a vessel owned by a citizen of the United States and documented under the laws of the United States.

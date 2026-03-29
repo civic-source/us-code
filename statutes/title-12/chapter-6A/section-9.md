@@ -1,0 +1,19 @@
+---
+title: "Section 9 - Market windows"
+usc_title: 12
+usc_section: "9"
+chapter: 6
+current_through: "PL 119-73"
+classification: "12 U.S.C. § 9"
+generated_at: "2026-03-29T00:29:16.523Z"
+---
+
+# § 635i–9. Market windows
+
+(a) To ensure that the Bank financing remains fully competitive, the United States should seek enhanced transparency over the activities of market windows in the OECD Export Credit Arrangement. If such transparency indicates that market windows are disadvantaging United States exporters, the United States should seek negotiations for multilateral disciplines and transparency within the OECD Export Credit Arrangement.
+(b) The Bank may provide financing on terms and conditions that are inconsistent with those permitted under the OECD Export Credit Arrangement—
+  (1) to match financing terms and conditions that are being offered by market windows on terms that are inconsistent with those permitted under the OECD Export Credit Arrangement, if—
+    (A) matching such terms and conditions advances the negotiations for multilateral disciplines and transparency within the OECD Export Credit Arrangement; or
+    (B) transparency verifies that the market window financing is being offered on terms that are more favorable than the terms and conditions that are available from private financial markets; and
+  (2) when the foreign government-supported institution refuses to provide sufficient transparency to permit the Bank to make a determination under paragraph (1).
+(c) In this section, the term “OECD” means the Organization for Economic Cooperation and Development.

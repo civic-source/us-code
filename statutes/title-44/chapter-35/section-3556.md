@@ -1,0 +1,19 @@
+---
+title: "Section 3556 - Federal information security incident center"
+usc_title: 44
+usc_section: "3556"
+chapter: 35
+current_through: "PL 119-73"
+classification: "44 U.S.C. § 3556"
+generated_at: "2026-03-29T00:32:58.572Z"
+---
+
+# § 3556. Federal information security incident center
+
+(a) The Secretary shall ensure the operation of a central Federal information security incident center to—
+  (1) provide timely technical assistance to operators of agency information systems regarding security incidents, including guidance on detecting and handling information security incidents;
+  (2) compile and analyze information about incidents that threaten information security;
+  (3) inform operators of agency information systems about current and potential information security threats, and vulnerabilities;
+  (4) provide, as appropriate, intelligence and other information about cyber threats, vulnerabilities, and incidents to agencies to assist in risk assessments conducted under section 3554(b); and
+  (5) consult with the National Institute of Standards and Technology, agencies or offices operating or exercising control of national security systems (including the National Security Agency), and such other agencies or offices in accordance with law and as directed by the President regarding information security incidents and related matters.
+(b) Each agency operating or exercising control of a national security system shall share information about information security incidents, threats, and vulnerabilities with the Federal information security incident center to the extent consistent with standards and guidelines for national security systems, issued in accordance with law and as directed by the President.

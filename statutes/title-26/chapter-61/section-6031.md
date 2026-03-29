@@ -1,0 +1,28 @@
+---
+title: "Section 6031 - Return of partnership income"
+usc_title: 26
+usc_section: "6031"
+chapter: 61
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 6031"
+generated_at: "2026-03-29T00:31:21.002Z"
+---
+
+# § 6031. Return of partnership income
+
+(a) Every partnership (as defined in section 761(a)) shall make a return for each taxable year, stating specifically the items of its gross income and the deductions allowable by subtitle A, and such other information, for the purpose of carrying out the provisions of subtitle A as the Secretary may by forms and regulations prescribe, and shall include in the return the names and addresses of the individuals who would be entitled to share in the taxable income if distributed and the amount of the distributive share of each individual.
+(b) Each partnership required to file a return under subsection (a) for any partnership taxable year shall (on or before the day on which the return for such taxable year was required to be filed) furnish to each person who is a partner or who holds an interest in such partnership as a nominee for another person at any time during such taxable year a copy of such information required to be shown on such return as may be required by regulations. Information required to be furnished by the partnership under this subsection may not be amended after the due date of the return under subsection (a) to which such information relates, except—
+  (1) in the case of a partnership which has elected the application of section 6221(b) for the taxable year,
+  (2) as provided in the procedures under section 6225(c),
+  (3) with respect to statements under section 6226, or
+  (4) as otherwise provided by the Secretary.
+(c) Any person who holds an interest in a partnership as a nominee for another person—
+  (1) shall furnish to the partnership, in the manner prescribed by the Secretary, the name and address of such other person, and any other information for such taxable year as the Secretary may by form and regulation prescribe, and
+  (2) shall furnish in the manner prescribed by the Secretary such other person the information provided by such partnership under subsection (b).
+(d) In the case of any partnership regularly carrying on a trade or business (within the meaning of section 512(c)(1)), the information required under subsection (b) to be furnished to its partners shall include such information as is necessary to enable each partner to compute its distributive share of partnership income or loss from such trade or business in accordance with section 512(a)(1), but without regard to the modifications described in paragraphs (8) through (15) of section 512(b).
+(e) 
+  (1) Except as provided in paragraph (2), the preceding provisions of this section shall not apply to a foreign partnership.
+  (2) Except as provided in regulations prescribed by the Secretary, this section shall apply to a foreign partnership for any taxable year if for such year, such partnership has—
+    (A) gross income derived from sources within the United States, or
+    (B) gross income which is effectively connected with the conduct of a trade or business within the United States.
+(f) In the case of any electing investment partnership (as defined in section 743(e)(6)), 1 1 See References in Text note below. the information required under subsection (b) to be furnished to any partner to whom section 743(e)(2) applies shall include such information as is necessary to enable the partner to compute the amount of losses disallowed under section 743(e).

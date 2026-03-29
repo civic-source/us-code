@@ -1,0 +1,14 @@
+---
+title: "Section 309a - Authorization of appropriations"
+usc_title: 25
+usc_section: "309a"
+chapter: 7
+current_through: "PL 119-73"
+classification: "25 U.S.C. § 309a"
+generated_at: "2026-03-29T00:30:38.628Z"
+---
+
+# § 309a. Authorization of appropriations
+
+There is authorized to be appropriated for the purposes of sections 309 and 309a of this title the sum of $25,000,000 for each fiscal year, and not to exceed $1,500,000 of such sum shall be available for administrative purposes.
+

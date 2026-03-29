@@ -1,0 +1,14 @@
+---
+title: "Section 159c - Completion of establishment"
+usc_title: 16
+usc_section: "159c"
+chapter: 1
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 159c"
+generated_at: "2026-03-29T00:29:52.308Z"
+---
+
+# § 159c. Completion of establishment
+
+For the purpose of completing the establishment of Saratoga National Historical Park, and to provide adequately for its future development, all lands and other property which have been acquired by the Federal Government pursuant to sections 159 to 159b of this title are established as the Saratoga National Historical Park and shall be administered as provided in section 159b of this title .
+

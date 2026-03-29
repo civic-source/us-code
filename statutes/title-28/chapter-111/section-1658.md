@@ -1,0 +1,16 @@
+---
+title: "Section 1658 - Time limitations on the commencement of civil actions arising under Acts of Congress"
+usc_title: 28
+usc_section: "1658"
+chapter: 111
+current_through: "PL 119-73"
+classification: "28 U.S.C. § 1658"
+generated_at: "2026-03-29T00:31:24.185Z"
+---
+
+# § 1658. Time limitations on the commencement of civil actions arising under Acts of Congress
+
+(a) Except as otherwise provided by law, a civil action arising under an Act of Congress enacted after the date of the enactment of this section may not be commenced later than 4 years after the cause of action accrues.
+(b) Notwithstanding subsection (a), a private right of action that involves a claim of fraud, deceit, manipulation, or contrivance in contravention of a regulatory requirement concerning the securities laws, as defined in section 3(a)(47) of the Securities Exchange Act of 1934 ( 15 U.S.C. 78c(a)(47) ), may be brought not later than the earlier of—
+  (1) 2 years after the discovery of the facts constituting the violation; or
+  (2) 5 years after such violation.

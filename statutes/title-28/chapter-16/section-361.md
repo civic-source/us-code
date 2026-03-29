@@ -1,0 +1,14 @@
+---
+title: "Section 361 - Reimbursement of expenses"
+usc_title: 28
+usc_section: "361"
+chapter: 16
+current_through: "PL 119-73"
+classification: "28 U.S.C. § 361"
+generated_at: "2026-03-29T00:31:24.139Z"
+---
+
+# § 361. Reimbursement of expenses
+
+Upon the request of a judge whose conduct is the subject of a complaint under this chapter, the judicial council may, if the complaint has been finally dismissed under section 354(a)(1)(B), recommend that the Director of the Administrative Office of the United States Courts award reimbursement, from funds appropriated to the Federal judiciary, for those reasonable expenses, including attorneys’ fees, incurred by that judge during the investigation which would not have been incurred but for the requirements of this chapter.
+

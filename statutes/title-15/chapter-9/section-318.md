@@ -1,0 +1,14 @@
+---
+title: "Section 318 - Weather signals on mail cars"
+usc_title: 15
+usc_section: "318"
+chapter: 9
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 318"
+generated_at: "2026-03-29T00:29:41.576Z"
+---
+
+# § 318. Weather signals on mail cars
+
+The Secretary of Commerce, in cooperation with the United States Postal Service, may arrange a plan by which there shall be displayed on all cars and other conveyances used for transporting United States mail suitable flags or other signals to indicate weather forecasts, cold-wave warnings, frost warnings, and so forth, to be furnished by the Secretary.
+

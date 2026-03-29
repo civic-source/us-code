@@ -1,0 +1,14 @@
+---
+title: "Section 1589b - Establishment of income limitations for occupancy of housing; effect on prior tenants"
+usc_title: 42
+usc_section: "1589b"
+chapter: 9
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 1589b"
+generated_at: "2026-03-29T00:32:53.663Z"
+---
+
+# § 1589b. Establishment of income limitations for occupancy of housing; effect on prior tenants
+
+The Secretary of Housing and Urban Development notwithstanding any other provisions of subchapters II to VII of this chapter or any other law except provisions hereafter enacted expressly in amendment hereof, is authorized to establish income limitations for occupancy of any housing held by him under subchapters II to VII of this chapter and, giving consideration to the ability of such tenants to obtain other housing accommodations, to require tenants, admitted to occupancy prior to the establishment of such income limitations and who have incomes in excess of limitations established by him, to vacate such housing.
+

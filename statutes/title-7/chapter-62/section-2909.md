@@ -1,0 +1,14 @@
+---
+title: "Section 2909 - Investigations by Secretary; oaths and affirmations; subpenas; judicial enforcement; contempt proceedings; service of process"
+usc_title: 7
+usc_section: "2909"
+chapter: 62
+current_through: "PL 119-73"
+classification: "7 U.S.C. § 2909"
+generated_at: "2026-03-29T00:28:58.156Z"
+---
+
+# § 2909. Investigations by Secretary; oaths and affirmations; subpenas; judicial enforcement; contempt proceedings; service of process
+
+The Secretary may make such investigations as the Secretary deems necessary for the effective administration of this chapter or to determine whether any person subject to this chapter has engaged or is about to engage in any act that constitutes or will constitute a violation of this chapter, the order, or any rule or regulation issued under this chapter. For the purpose of such investigation, the Secretary may administer oaths and affirmations, subpoena witnesses, compel their attendance, take evidence, and require the production of any records that are relevant to the inquiry. The attendance of witnesses and the production of records may be required from any place in the United States. In case of contumacy by, or refusal to obey a subpoena to, any person, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of the person and the production of records. The court may issue an order requiring such person to appear before the Secretary to produce records or to give testimony regarding the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt thereof. Process in any such case may be served in the judicial district in which such person is an inhabitant or wherever such person may be found.
+

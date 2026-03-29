@@ -1,0 +1,14 @@
+---
+title: "Section 753a - Cooperative research and training programs for fish and wildlife resources"
+usc_title: 16
+usc_section: "753a"
+chapter: 9
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 753a"
+generated_at: "2026-03-29T00:29:52.622Z"
+---
+
+# § 753a. Cooperative research and training programs for fish and wildlife resources
+
+For the purpose of developing adequate, coordinated, cooperative research and training programs for fish and wildlife resources, the Secretary of the Interior or the Secretary of Commerce, as appropriate, is authorized to continue to enter into cooperative agreements with colleges and universities, with game and fish departments of the several States, and with nonprofit organizations relating to cooperative research units: Provided , That Federal participation in the conduct of such cooperative unit programs shall be limited to the assignment of Department of the Interior or Department of Commerce scientific personnel by the Secretary to serve at the respective units, to the provision of assistance (including reasonable financial compensation) for the work of researchers on fish and wildlife ecology and resource management projects funded under this subsection 1 1 So in original. Probably should be “section”. to supply for the use of the particular units’ operations such equipment as may be available to the Secretary for such purposes, and the payment of incidental expenses of Federal personnel and employees of cooperating agencies assigned to the units.
+

@@ -1,0 +1,24 @@
+---
+title: "Section 1a - Interstate cooperation for economic opportunity and efficiency"
+usc_title: 7
+usc_section: "1a"
+chapter: 50
+current_through: "PL 119-73"
+classification: "7 U.S.C. § 1a"
+generated_at: "2026-03-29T00:28:58.088Z"
+---
+
+# § 2009bb–1a. Interstate cooperation for economic opportunity and efficiency
+
+(a) The Authority shall provide assistance to States in developing regional plans to address multistate economic issues, including plans—
+  (1) to develop a regional transmission system for movement of renewable energy to markets outside the region;
+  (2) to address regional transportation concerns, including the establishment of a Northern Great Plains Regional Transportation Working Group;
+  (3) to encourage and support interstate collaboration on federally-funded research that is in the national interest; and
+  (4) to establish a Regional Working Group on Agriculture Development and Transportation.
+(b) The multistate economic issues referred to in subsection (a) shall include—
+  (1) renewable energy development and transmission;
+  (2) transportation planning and economic development;
+  (3) information technology;
+  (4) movement of freight and individuals within the region;
+  (5) federally-funded research at institutions of higher education; and
+  (6) conservation land management.

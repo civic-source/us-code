@@ -1,0 +1,28 @@
+---
+title: "Section 3657 - Recruitment and retention remuneration"
+usc_title: 22
+usc_section: "3657"
+chapter: 51
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 3657"
+generated_at: "2026-03-29T00:30:33.885Z"
+---
+
+# § 3657. Recruitment and retention remuneration
+
+(a) 
+(b) Any employee described in more than one paragraph of subsection (a) of this section may qualify for a recruitment or retention differential under only one of those paragraphs.
+(c) 
+  (1) The Commission may pay a recruitment bonus to an individual who is newly appointed to a position with the Commission, or a relocation bonus to an employee of the Commission who must relocate to accept a position, if the Commission determines that the Commission would be likely, in the absence of such a bonus, to have difficulty in filling the position.
+  (2) A recruitment or relocation bonus may be paid to an employee under this subsection only if the employee enters into an agreement with the Commission to complete a period of employment established in the agreement. If the employee voluntarily fails to complete such period of employment or is separated from service in such employment as a result of an adverse action before the completion of such period, the employee shall repay the entire amount of the bonus.
+  (3) A recruitment or relocation bonus under this subsection may be paid as a lump sum. A bonus under this subsection may not be considered to be part of the basic pay of an employee.
+(d) 
+  (1) The Commission may pay a retention bonus to an employee of the Commission if the Commission determines that—
+    (A) the employee has unusually high or unique qualifications and those qualifications make it essential for the Commission to retain the employee for a period specified by the Commission ending not later than the Canal Transfer Date, or the Commission otherwise has a special need for the services of the employee making it essential for the Commission to retain the employee for a period specified by the Commission ending not later than the Canal Transfer Date; and
+    (B) the employee would be likely to leave employment with the Commission before the end of that period if the retention bonus is not paid.
+  (2) A retention bonus under this subsection—
+    (A) shall be in a fixed amount;
+    (B) shall be paid on a pro rata basis (over the period specified by the Commission as essential for the retention of the employee), with such payments to be made at the same time and in the same manner as basic pay; and
+    (C) may not be considered to be part of the basic pay of an employee.
+  (3) A decision by the Commission to exercise or to not exercise the authority to pay a bonus under this subsection shall not be subject to review under any statutory procedure or any agency or negotiated grievance procedure except under any of the laws referred to in section 2302(d) of title 5 .
+(e) Additional compensation provided under this section may not exceed 25 percent of the rate of basic pay of the individual to whom the compensation is paid.

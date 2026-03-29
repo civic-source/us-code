@@ -1,0 +1,22 @@
+---
+title: "Section 7502 - Program coordination"
+usc_title: 15
+usc_section: "7502"
+chapter: 101
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 7502"
+generated_at: "2026-03-29T00:29:41.926Z"
+---
+
+# § 7502. Program coordination
+
+(a) The President shall establish a National Nanotechnology Coordination Office, with a Director and full-time staff, which shall—
+  (1) provide technical and administrative support to the Council and the Advisory Panel;
+  (2) serve as the point of contact on Federal nanotechnology activities for government organizations, academia, industry, professional societies, State nanotechnology programs, interested citizen groups, and others to exchange technical and programmatic information;
+  (3) conduct public outreach, including dissemination of findings and recommendations of the Advisory Panel, as appropriate; and
+  (4) promote access to and early application of the technologies, innovations, and expertise derived from Program activities to agency missions and systems across the Federal Government, and to United States industry, including startup companies.
+(b) The National Nanotechnology Coordination Office shall be funded through interagency funding in accordance with section 631 of Public Law 108–7 .
+(c) Within 90 days after December 3, 2003 , the Director of the Office of Science and Technology Policy shall report to the Senate Committee on Commerce, Science, and Transportation, and the House of Representatives Committee on Science on the funding of the National Nanotechnology Coordination Office. The report shall include—
+  (1) the amount of funding required to adequately fund the Office;
+  (2) the adequacy of existing mechanisms to fund this Office; and
+  (3) the actions taken by the Director to ensure stable funding of this Office.

@@ -1,0 +1,19 @@
+---
+title: "Section 7682 - Eligibility"
+usc_title: 38
+usc_section: "7682"
+chapter: 76
+current_through: "PL 119-73"
+classification: "38 U.S.C. § 7682"
+generated_at: "2026-03-29T00:32:17.346Z"
+---
+
+# § 7682. Eligibility
+
+(a) An individual is eligible to participate in the Education Debt Reduction Program if the individual—
+  (1) is an employee in the Veterans Health Administration serving in a position (as determined by the Secretary) providing direct-patient care services or services incident to direct-patient care services for which recruitment or retention of qualified health-care personnel (as so determined) is difficult; and
+  (2) owes any amount of principal or interest under a loan, the proceeds of which were used by or on behalf of that individual to pay costs relating to a course of education or training which led to a degree that qualified the individual for the position referred to in paragraph (1).
+(b) For purposes of subsection (a)(2), costs relating to a course of education or training include—
+  (1) tuition expenses;
+  (2) all other reasonable educational expenses, including expenses for fees, books, and laboratory expenses; and
+  (3) reasonable living expenses.

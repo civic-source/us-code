@@ -1,0 +1,14 @@
+---
+title: "Section 2253 - Annual financial review"
+usc_title: 33
+usc_section: "2253"
+chapter: 36
+current_through: "PL 119-73"
+classification: "33 U.S.C. § 2253"
+generated_at: "2026-03-29T00:31:57.404Z"
+---
+
+# § 2253. Annual financial review
+
+For any inland waterways project that the Secretary carries out that has an estimated total cost of $500,000,000 or more, the Secretary shall submit to the congressional committees referred to in subsection (a) 1 1 See References in Text note below. an annual financial plan for the project. The plan shall be based on detailed annual estimates of the cost to complete the remaining elements of the project and on reasonable assumptions, as determined by the Secretary, of any future increases of the cost to complete the project.
+

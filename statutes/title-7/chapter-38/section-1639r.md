@@ -1,0 +1,26 @@
+---
+title: "Section 1639r - Regulations and guidelines; effect on other law"
+usc_title: 7
+usc_section: "1639r"
+chapter: 38
+current_through: "PL 119-73"
+classification: "7 U.S.C. § 1639r"
+generated_at: "2026-03-29T00:28:58.042Z"
+---
+
+# § 1639r. Regulations and guidelines; effect on other law
+
+(a) 
+  (1) 
+    (A) The Secretary shall promulgate regulations and guidelines to implement this subchapter as expeditiously as practicable.
+    (B) The Secretary shall consult with the Attorney General on the promulgation of regulations and guidelines under subparagraph (A).
+  (2) The Secretary shall annually submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report containing updates on the implementation of this subchapter.
+(b) Subject to subsection (c)(3)(B), the Secretary shall have sole authority to promulgate Federal regulations and guidelines that relate to the production of hemp, including Federal regulations and guidelines that relate to the implementation of sections 1639p and 1639q of this title.
+(c) Nothing in this subchapter shall affect or modify—
+  (1) the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 301 et seq.);
+  (2) section 262 of title 42 ; or
+  (3) the authority of the Commissioner of Food and Drugs and the Secretary of Health and Human Services—
+    (A) under—
+      (i) the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 301 et seq.); or
+      (ii) section 262 of title 42 ; or
+    (B) to promulgate Federal regulations and guidelines that relate to the production of hemp under the Act described in subparagraph (A)(i) or the section described in subparagraph (A)(ii).

@@ -1,0 +1,30 @@
+---
+title: "Section 12 - Cloud computing research enhancement"
+usc_title: 42
+usc_section: "12"
+chapter: 16
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 12"
+generated_at: "2026-03-29T00:32:53.701Z"
+---
+
+# § 1862p–12. Cloud computing research enhancement
+
+(a) The Director may support a national research agenda in key areas affected by the increased use of public and private cloud computing, including—
+  (1) new approaches, techniques, technologies, and tools for—
+    (A) optimizing the effectiveness and efficiency of cloud computing environments; and
+    (B) mitigating security, identity, privacy, reliability, and manageability risks in cloud-based environments, including as they differ from traditional data centers;
+  (2) new algorithms and technologies to define, assess, and establish large-scale, trustworthy, cloud-based infrastructures;
+  (3) models and advanced technologies to measure, assess, report, and understand the performance, reliability, energy consumption, and other characteristics of complex cloud environments; and
+  (4) advanced security technologies to protect sensitive or proprietary information in global-scale cloud environments.
+(b) 
+  (1) Not later than 60 days after January 4, 2011 , the Director shall initiate a review and assessment of cloud computing research opportunities and challenges, including research areas listed in subsection (a), as well as related issues such as—
+    (A) the management and assurance of data that are the subject of Federal laws and regulations in cloud computing environments, which laws and regulations exist on January 4, 2011 ;
+    (B) misappropriation of cloud services, piracy through cloud technologies, and other threats to the integrity of cloud services;
+    (C) areas of advanced technology needed to enable trusted communications, processing, and storage; and
+    (D) other areas of focus determined appropriate by the Director.
+  (2) The Director may accept unsolicited proposals that review and assess the issues described in paragraph (1). The proposals may be judged according to existing criteria of the National Science Foundation.
+(c) The Director shall provide an annual report for not less than 5 consecutive years to Congress on the outcomes of National Science Foundation investments in cloud computing research, recommendations for research focus and program improvements, or other related recommendations. The reports, including any interim findings or recommendations, shall be made publicly available on the website of the National Science Foundation.
+(d) The Director of the National Institute of Standards and Technology shall—
+  (1) collaborate with industry in the development of standards supporting trusted cloud computing infrastructures, metrics, interoperability, and assurance; and
+  (2) support standards development with the intent of supporting common goals.

@@ -1,0 +1,22 @@
+---
+title: "Section 13491 - Purposes and definitions"
+usc_title: 42
+usc_section: "13491"
+chapter: 134
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 13491"
+generated_at: "2026-03-29T00:32:54.323Z"
+---
+
+# § 13491. Purposes and definitions
+
+(a) The purposes of this part are—
+  (1) to require the Secretary to carry out civilian nuclear programs in a way that will lead toward the commercial availability of advanced nuclear reactor technologies; and
+  (2) to authorize such activities to further the timely availability of advanced nuclear reactor technologies, including technologies that utilize standardized designs or exhibit passive safety features.
+(b) For purposes of this part—
+  (1) the term “advanced nuclear reactor technologies” means—
+    (A) advanced light water reactors that may be commercially available in the near-term, including but not limited to mid-sized reactors with passive safety features for the generation of commercial electric power from nuclear fission; and
+    (B) other advanced nuclear reactor technologies that may require prototype demonstration prior to commercial availability in the mid- or long-term, including but not limited to high-temperature, gas-cooled reactors and liquid metal reactors, for the generation of commercial electric power from nuclear fission;
+  (2) the term “Commission” means the Nuclear Regulatory Commission;
+  (3) the term “standardized design” means a design for a nuclear power plant that may be utilized for a multiple number of units or a multiple number of sites; and
+  (4) the term “certification” means approval by the Commission of a standardized design.

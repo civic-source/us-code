@@ -1,0 +1,15 @@
+---
+title: "Section 936 - Regulations and reports"
+usc_title: 30
+usc_section: "936"
+chapter: 22
+current_through: "PL 119-73"
+classification: "30 U.S.C. § 936"
+generated_at: "2026-03-29T00:31:30.797Z"
+---
+
+# § 936. Regulations and reports
+
+(a) The Secretary of Labor and the Secretary of Health and Human Services are authorized to issue such regulations as each deems appropriate to carry out the provisions of this subchapter. Such regulations shall be issued in conformity with section 553 of title 5 , notwithstanding subsection (a) thereof.
+(b) At the end of fiscal year 2003 and each succeeding fiscal year, the Secretary of Labor shall submit to the Congress an annual report on the subject matter of this part and part B of this subchapter. Each such report shall be prepared and submitted to Congress in accordance with the requirement with respect to submission under section 942 of title 33 .
+(c) Nothing in this subchapter shall relieve any operator of the duty to comply with any State workmen’s compensation law, except insofar as such State law is in conflict with the provisions of this subchapter and the Secretary by regulation, so prescribes. The provisions of any State workmen’s compensation law which provide greater benefits than the benefits payable under this subchapter shall not thereby be construed or held to be in conflict with the provisions of this subchapter.

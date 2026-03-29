@@ -1,0 +1,14 @@
+---
+title: "Section 2000g - Establishment of Service; Director of Service: appointment, term; personnel"
+usc_title: 42
+usc_section: "2000g"
+chapter: 21
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 2000g"
+generated_at: "2026-03-29T00:32:53.728Z"
+---
+
+# § 2000g. Establishment of Service; Director of Service: appointment, term; personnel
+
+There is hereby established in and as a part of the Department of Commerce a Community Relations Service (hereinafter referred to as the “Service”), which shall be headed by a Director who shall be appointed by the President with the advice and consent of the Senate for a term of four years. The Director is authorized to appoint, subject to the civil service laws and regulations, such other personnel as may be necessary to enable the Service to carry out its functions and duties, and to fix their compensation in accordance with chapter 51 and subchapter III of chapter 53 of title 5.
+

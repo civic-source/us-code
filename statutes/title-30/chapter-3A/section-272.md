@@ -1,0 +1,14 @@
+---
+title: "Section 272 - Leases to permittees; privileges extended to oil and gas permittees"
+usc_title: 30
+usc_section: "272"
+chapter: 3
+current_through: "PL 119-73"
+classification: "30 U.S.C. § 272"
+generated_at: "2026-03-29T00:31:30.763Z"
+---
+
+# § 272. Leases to permittees; privileges extended to oil and gas permittees
+
+Upon showing to the satisfaction of the Secretary of the Interior that valuable deposits of sulphur have been discovered by the permittee within the area covered by his permit, and that the land is chiefly valuable therefor, the permittee shall be entitled to a lease for any or all of the land embraced in the prospecting permit, at a royalty of 5 per centum of the quantity or gross value of the output of sulphur at the point of shipment to market, such lease to be taken in compact form by legal subdivisions of the public-land surveys; or if the land be not surveyed, by survey executed at the cost of the permittee in accordance with regulations prescribed by the Secretary of the Interior: Provided , That where any person having been granted an oil and gas permit makes a discovery of sulphur in lands covered by said permit, he shall have the same privilege of leasing not to exceed six hundred and forty acres of said land under the same terms and conditions as are given a sulphur permittee under the provisions of this section.
+

@@ -1,0 +1,26 @@
+---
+title: "Section 1475b - Volunteer authority"
+usc_title: 43
+usc_section: "1475b"
+chapter: 31
+current_through: "PL 119-73"
+classification: "43 U.S.C. § 1475b"
+generated_at: "2026-03-29T00:32:57.414Z"
+---
+
+# § 1475b. Volunteer authority
+
+(a) The Secretary of the Interior may recruit, train, and accept, without regard to the civil service classification laws, rules, or regulations, the services of individuals, contributed without compensation as volunteers, for aiding in or facilitating the activities administered by the Secretary through the Bureau of Indian Affairs, the United States Geological Survey, the Bureau of Reclamation, and the Office of the Secretary.
+(b) 
+  (1) In accepting such services of individuals as volunteers, the Secretary shall not permit the use of volunteers in law enforcement work, in regulatory and enforcement work, in policymaking processes, or to displace any employee.
+  (2) No volunteer services authorized by this Act may be conducted on private property unless the officer or employee charged with supervising the volunteer obtains appropriate consent to enter the property from the property owner.
+  (3) The Secretary may accept the services of individuals in hazardous duty only upon a determination by the Secretary that such individuals are skilled in performing hazardous duty activities.
+  (4) The Secretary shall ensure that an appropriate officer or employee of the United States provides adequate and appropriate supervision of each volunteer whose services the Secretary accepts.
+(c) The Secretary may provide for services and costs incidental to the utilization of volunteers, including transportation, supplies, uniforms, lodging, subsistence (without regard to place of residence), recruiting, training, supervision, and awards and recognition (including nominal cash awards).
+(d) 
+  (1) Except as otherwise provided in this subsection, a volunteer shall not be deemed a Federal employee and shall not be subject to the provisions of law relating to Federal employment, including those provisions relating to hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits.
+  (2) Volunteers shall be deemed employees of the United States for the purposes of—
+    (A) the tort claims provisions of title 28;
+    (B) subchapter I of chapter 81 of title 5; and
+    (C) claims relating to damage to, or loss of, personal property of a volunteer incident to volunteer service, in which case the provisions of section 3721 of title 31 shall apply.
+  (3) Volunteers under this Act shall be subject to chapter 11 of title 18, unless the Secretary, with the concurrence of the Director of the Office of Government Ethics, determines in writing published in the Federal Register that the provisions of that chapter, except section 201, shall not apply to the actions of a class or classes of volunteers who carry out only those duties or functions specified in the determination.

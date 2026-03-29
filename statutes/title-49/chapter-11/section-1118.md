@@ -1,0 +1,28 @@
+---
+title: "Section 1118 - Authorization of appropriations"
+usc_title: 49
+usc_section: "1118"
+chapter: 11
+current_through: "PL 119-73"
+classification: "49 U.S.C. § 1118"
+generated_at: "2026-03-29T00:33:13.712Z"
+---
+
+# § 1118. Authorization of appropriations
+
+(a) 
+  (1) There is authorized to be appropriated for purposes of this chapter—
+    (A) $140,000,000 for fiscal year 2024;
+    (B) $145,000,000 for fiscal year 2025;
+    (C) $148,000,000 for fiscal year 2026;
+    (D) $151,000,000 for fiscal year 2027; and
+    (E) $154,000,000 for fiscal year 2028.
+  (2) Amounts authorized under paragraph (1) shall remain available until expended.
+(b) The Board has an emergency fund of $2,000,000 available for necessary expenses of the Board, not otherwise provided for, for accident investigations. In addition, there are authorized to be appropriated such sums as may be necessary to increase the fund to, and maintain the fund at, a level not to exceed $4,000,000.
+(c) 
+  (1) The Board may impose and collect such fees, refunds, and reimbursements as it determines to be appropriate for services provided by or through the Board.
+  (2) Notwithstanding section 3302 of title 31 , any fee, refund, or reimbursement collected under this subsection—
+    (A) shall be credited as offsetting collections to the account that finances the activities and services for which the fee is imposed or with which the refund or reimbursement is associated;
+    (B) shall be available for expenditure only to pay the costs of activities and services for which the fee is imposed or with which the refund or reimbursement is associated; and
+    (C) shall remain available until expended.
+  (3) The Board may refund any fee paid by mistake or any amount paid in excess of that required.

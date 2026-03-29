@@ -1,0 +1,18 @@
+---
+title: "Section 1720B - Respite care"
+usc_title: 38
+usc_section: "1720B"
+chapter: 17
+current_through: "PL 119-73"
+classification: "38 U.S.C. § 1720B"
+generated_at: "2026-03-29T00:32:17.197Z"
+---
+
+# § 1720B. Respite care
+
+(a) The Secretary may furnish respite care services to a veteran who is enrolled to receive care under section 1710 of this title .
+(b) For the purpose of this section, the term “respite care services” means care and services which—
+  (1) are of limited duration;
+  (2) are furnished on an intermittent basis to a veteran who is suffering from a chronic illness and who resides primarily at home; and
+  (3) are furnished for the purpose of helping the veteran to continue residing primarily at home.
+(c) In furnishing respite care services, the Secretary may enter into contract arrangements.

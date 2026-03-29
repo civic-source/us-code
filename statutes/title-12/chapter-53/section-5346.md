@@ -1,0 +1,44 @@
+---
+title: "Section 5346 - Transition oversight"
+usc_title: 12
+usc_section: "5346"
+chapter: 53
+current_through: "PL 119-73"
+classification: "12 U.S.C. § 5346"
+generated_at: "2026-03-29T00:29:16.896Z"
+---
+
+# § 5346. Transition oversight
+
+(a) The purpose of this section is to ensure that the Office—
+  (1) has an orderly and organized startup;
+  (2) attracts and retains a qualified workforce; and
+  (3) establishes comprehensive employee training and benefits programs.
+(b) 
+  (1) The Office shall submit an annual report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that includes the plans described in paragraph (2).
+  (2) The plans described in this paragraph are as follows:
+    (A) The Office shall submit a training and workforce development plan that includes, to the extent practicable—
+      (i) identification of skill and technical expertise needs and actions taken to meet those requirements;
+      (ii) steps taken to foster innovation and creativity;
+      (iii) leadership development and succession planning; and
+      (iv) effective use of technology by employees.
+    (B) The Office shall submit a workforce flexibility plan that includes, to the extent practicable—
+      (i) telework;
+      (ii) flexible work schedules;
+      (iii) phased retirement;
+      (iv) reemployed annuitants;
+      (v) part-time work;
+      (vi) job sharing;
+      (vii) parental leave benefits and childcare assistance;
+      (viii) domestic partner benefits;
+      (ix) other workplace flexibilities; or
+      (x) any combination of the items described in clauses (i) through (ix).
+    (C) The Office shall submit a recruitment and retention plan that includes, to the extent practicable, provisions relating to—
+      (i) the steps necessary to target highly qualified applicant pools with diverse backgrounds;
+      (ii) streamlined employment application processes;
+      (iii) the provision of timely notification of the status of employment applications to applicants; and
+      (iv) the collection of information to measure indicators of hiring effectiveness.
+(c) The reporting requirement under subsection (b) shall terminate 5 years after July 21, 2010 .
+(d) Nothing in this section may be construed to affect—
+  (1) a collective bargaining agreement, as that term is defined in section 7103(a)(8) of title 5 , that is in effect on July 21, 2010 ; or
+  (2) the rights of employees under chapter 71 of title 5.

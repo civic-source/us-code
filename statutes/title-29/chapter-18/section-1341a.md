@@ -1,0 +1,31 @@
+---
+title: "Section 1341a - Termination of multiemployer plans"
+usc_title: 29
+usc_section: "1341a"
+chapter: 18
+current_through: "PL 119-73"
+classification: "29 U.S.C. § 1341a"
+generated_at: "2026-03-29T00:31:27.677Z"
+---
+
+# § 1341a. Termination of multiemployer plans
+
+(a) Termination of a multiemployer plan under this section occurs as a result of—
+  (1) the adoption after September 26, 1980 , of a plan amendment which provides that participants will receive no credit for any purpose under the plan for service with any employer after the date specified by such amendment;
+  (2) the withdrawal of every employer from the plan, within the meaning of section 1383 of this title , or the cessation of the obligation of all employers to contribute under the plan; or
+  (3) the adoption of an amendment to the plan which causes the plan to become a plan described in section 1321(b)(1) of this title .
+(b) 
+  (1) The date on which a plan terminates under paragraph (1) or (3) of subsection (a) is the later of—
+    (A) the date on which the amendment is adopted, or
+    (B) the date on which the amendment takes effect.
+  (2) The date on which a plan terminates under paragraph (2) of subsection (a) is the earlier of—
+    (A) the date on which the last employer withdraws, or
+    (B) the first day of the first plan year for which no employer contributions were required under the plan.
+(c) Except as provided in subsection (f)(1), the plan sponsor of a plan which terminates under paragraph (2) of subsection (a) shall—
+  (1) limit the payment of benefits to benefits which are nonforfeitable under the plan as of the date of the termination, and
+  (2) pay benefits attributable to employer contributions, other than death benefits, only in the form of an annuity, unless the plan assets are distributed in full satisfaction of all nonforfeitable benefits under the plan.
+(d) The plan sponsor of a plan which terminates under paragraph (2) of subsection (a) shall reduce benefits and suspend benefit payments in accordance with section 1441 of this title .
+(e) In the case of a plan which terminates under paragraph (1) or (3) of subsection (a), the rate of an employer’s contributions under the plan for each plan year beginning on or after the plan termination date shall equal or exceed the highest rate of employer contributions at which the employer had an obligation to contribute under the plan in the 5 preceding plan years ending on or before the plan termination date, unless the corporation approves a reduction in the rate based on a finding that the plan is or soon will be fully funded.
+(f) 
+  (1) The plan sponsor of a terminated plan may authorize the payment other than in the form of an annuity of a participant’s entire nonforfeitable benefit attributable to employer contributions, other than a death benefit, if the value of the entire nonforfeitable benefit does not exceed $1,750. The corporation may authorize the payment of benefits under the terms of a terminated plan other than nonforfeitable benefits, or the payment other than in the form of an annuity of benefits having a value greater than $1,750, if the corporation determines that such payment is not adverse to the interest of the plan’s participants and beneficiaries generally and does not unreasonably increase the corporation’s risk of loss with respect to the plan.
+  (2) The corporation may prescribe reporting requirements for terminated plans, and rules and standards for the administration of such plans, which the corporation considers appropriate to protect the interests of plan participants and beneficiaries or to prevent unreasonable loss to the corporation.

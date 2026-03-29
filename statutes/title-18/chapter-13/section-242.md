@@ -1,0 +1,14 @@
+---
+title: "Section 242 - Deprivation of rights under color of law"
+usc_title: 18
+usc_section: "242"
+chapter: 13
+current_through: "PL 119-73"
+classification: "18 U.S.C. § 242"
+generated_at: "2026-03-29T00:30:15.608Z"
+---
+
+# § 242. Deprivation of rights under color of law
+
+Whoever, under color of any law, statute, ordinance, regulation, or custom, willfully subjects any person in any State, Territory, Commonwealth, Possession, or District to the deprivation of any rights, privileges, or immunities secured or protected by the Constitution or laws of the United States, or to different punishments, pains, or penalties, on account of such person being an alien, or by reason of his color, or race, than are prescribed for the punishment of citizens, shall be fined under this title or imprisoned not more than one year, or both; and if bodily injury results from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire, shall be fined under this title or imprisoned not more than ten years, or both; and if death results from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse, or an attempt to commit aggravated sexual abuse, or an attempt to kill, shall be fined under this title, or imprisoned for any term of years or for life, or both, or may be sentenced to death.
+

@@ -1,0 +1,17 @@
+---
+title: "Section 426 - Stones River National Battlefield; establishment; appointment of commission"
+usc_title: 16
+usc_section: "426"
+chapter: 1
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 426"
+generated_at: "2026-03-29T00:29:52.419Z"
+---
+
+# § 426. Stones River National Battlefield; establishment; appointment of commission
+
+A commission is created, to be composed of the following members, who shall be appointed by the Secretary of the Interior:
+
+  (1) A commissioned officer of the Corps of Engineers, United States Army;
+  (2) A veteran of the Civil War who served honorably in the military forces of the United States; and
+  (3) A veteran of the Civil War who served honorably in the military forces of the Confederate States of America.

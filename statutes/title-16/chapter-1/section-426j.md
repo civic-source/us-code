@@ -1,0 +1,14 @@
+---
+title: "Section 426j - Authorization of appropriation; fixing of boundaries as condition to purchase of lands"
+usc_title: 16
+usc_section: "426j"
+chapter: 1
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 426j"
+generated_at: "2026-03-29T00:29:52.419Z"
+---
+
+# § 426j. Authorization of appropriation; fixing of boundaries as condition to purchase of lands
+
+The sum of $100,000, or so much thereof as may be necessary, is authorized to be appropriated, out of any moneys in the Treasury not otherwise appropriated, to be expended for the purposes of sections 426 to 426j of this title: Provided , That no obligation for the purchase of lands shall be incurred until the commission has fixed the boundaries of said battlefield.
+

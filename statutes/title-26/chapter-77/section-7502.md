@@ -1,0 +1,43 @@
+---
+title: "Section 7502 - Timely mailing treated as timely filing and paying"
+usc_title: 26
+usc_section: "7502"
+chapter: 77
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 7502"
+generated_at: "2026-03-29T00:31:21.094Z"
+---
+
+# § 7502. Timely mailing treated as timely filing and paying
+
+(a) 
+  (1) If any return, claim, statement, or other document required to be filed, or any payment required to be made, within a prescribed period or on or before a prescribed date under authority of any provision of the internal revenue laws is, after such period or such date, delivered by United States mail to the agency, officer, or office with which such return, claim, statement, or other document is required to be filed, or to which such payment is required to be made, the date of the United States postmark stamped on the cover in which such return, claim, statement, or other document, or payment, is mailed shall be deemed to be the date of delivery or the date of payment, as the case may be.
+  (2) This subsection shall apply only if—
+    (A) the postmark date falls within the prescribed period or on or before the prescribed date—
+      (i) for the filing (including any extension granted for such filing) of the return, claim, statement, or other document, or
+      (ii) for making the payment (including any extension granted for making such payment), and
+    (B) the return, claim, statement, or other document, or payment was, within the time prescribed in subparagraph (A), deposited in the mail in the United States in an envelope or other appropriate wrapper, postage prepaid, properly addressed to the agency, officer, or office with which the return, claim, statement, or other document is required to be filed, or to which such payment is required to be made.
+(b) This section shall apply in the case of postmarks not made by the United States Postal Service only if and to the extent provided by regulations prescribed by the Secretary.
+(c) 
+  (1) For purposes of this section, if any return, claim, statement, or other document, or payment, is sent by United States registered mail—
+    (A) such registration shall be prima facie evidence that the return, claim, statement, or other document was delivered to the agency, officer, or office to which addressed; and
+    (B) the date of registration shall be deemed the postmark date.
+  (2) The Secretary is authorized to provide by regulations the extent to which the provisions of paragraph (1) with respect to prima facie evidence of delivery and the postmark date shall apply to certified mail and electronic filing.
+(d) This section shall not apply with respect to—
+  (1) the filing of a document in, or the making of a payment to, any court other than the Tax Court,
+  (2) currency or other medium of payment unless actually received and accounted for, or
+  (3) returns, claims, statements, or other documents, or payments, which are required under any provision of the internal revenue laws or the regulations thereunder to be delivered by any method other than by mailing.
+(e) 
+  (1) If any deposit required to be made (pursuant to regulations prescribed by the Secretary under section 6302(c)) on or before a prescribed date is, after such date, delivered by the United States mail to the bank, trust company, domestic building and loan association, or credit union authorized to receive such deposit, such deposit shall be deemed received by such bank, trust company, domestic building and loan association, or credit union on the date the deposit was mailed.
+  (2) Paragraph (1) shall apply only if the person required to make the deposit establishes that—
+    (A) the date of mailing falls on or before the second day before the prescribed date for making the deposit (including any extension of time granted for making such deposit), and
+    (B) the deposit was, on or before such second day, mailed in the United States in an envelope or other appropriate wrapper, postage prepaid, properly addressed to the bank, trust company, domestic building and loan association, or credit union authorized to receive such deposit.
+  (3) Paragraph (1) shall not apply with respect to any deposit of $20,000 or more by any person who is required to deposit any tax more than once a month.
+(f) 
+  (1) Any reference in this section to the United States mail shall be treated as including a reference to any designated delivery service, and any reference in this section to a postmark by the United States Postal Service shall be treated as including a reference to any date recorded or marked as described in paragraph (2)(C) by any designated delivery service.
+  (2) For purposes of this subsection, the term “designated delivery service” means any delivery service provided by a trade or business if such service is designated by the Secretary for purposes of this section. The Secretary may designate a delivery service under the preceding sentence only if the Secretary determines that such service—
+    (A) is available to the general public,
+    (B) is at least as timely and reliable on a regular basis as the United States mail,
+    (C) records electronically to its data base, kept in the regular course of its business, or marks on the cover in which any item referred to in this section is to be delivered, the date on which such item was given to such trade or business for delivery, and
+    (D) meets such other criteria as the Secretary may prescribe.
+  (3) The Secretary may provide a rule similar to the rule of paragraph (1) with respect to any service provided by a designated delivery service which is substantially equivalent to United States registered or certified mail.

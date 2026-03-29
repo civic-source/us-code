@@ -1,0 +1,14 @@
+---
+title: "Section 1344 - Treasury Department: reports"
+usc_title: 44
+usc_section: "1344"
+chapter: 13
+current_through: "PL 119-73"
+classification: "44 U.S.C. § 1344"
+generated_at: "2026-03-29T00:32:58.546Z"
+---
+
+# § 1344. Treasury Department: reports
+
+In addition to the usual number of the finance report of the Secretary of the Treasury, one thousand copies for the Senate and two thousand for the House of Representatives shall be printed in addition to those published as part of the departmental report. In addition to the usual number of the annual report of the Comptroller of the Currency, thirteen thousand copies shall be printed: one thousand for the Senate, two thousand for the House of Representatives, and ten thousand for distribution by the Comptroller of the Currency.
+

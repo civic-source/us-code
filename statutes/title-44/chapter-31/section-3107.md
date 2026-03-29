@@ -1,0 +1,14 @@
+---
+title: "Section 3107 - Authority of Comptroller General"
+usc_title: 44
+usc_section: "3107"
+chapter: 31
+current_through: "PL 119-73"
+classification: "44 U.S.C. § 3107"
+generated_at: "2026-03-29T00:32:58.559Z"
+---
+
+# § 3107. Authority of Comptroller General
+
+Chapters 21, 25, 27, 1 1 See References in Text note below. 29, and 31 of this title do not limit the authority of the Comptroller General of the United States with respect to prescribing accounting systems, forms, and procedures, or lessen the responsibility of collecting and disbursing officers for rendition of their accounts for settlement by the Government Accountability Office.
+

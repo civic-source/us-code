@@ -1,0 +1,14 @@
+---
+title: "Section 4764 - Reporting and recordkeeping requirements for State or local governments and other organizations"
+usc_title: 42
+usc_section: "4764"
+chapter: 62
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 4764"
+generated_at: "2026-03-29T00:32:53.880Z"
+---
+
+# § 4764. Reporting and recordkeeping requirements for State or local governments and other organizations
+
+(a) A State or local government office designated to administer a program or project under this chapter shall make reports and evaluations in such form, at such times, and containing such information concerning the status and application of Federal funds and the operation of the approved program or project as the Office may require, and shall keep and make available such records as may be required by the Office for the verification of such reports and evaluations.
+(b) An organization which receives a training grant under section 4744 of this title shall make reports and evaluations in such form, at such times, and containing such information concerning the status and application of Federal grant funds and the operation of the training program as the Office may require, and shall keep and make available such records as may be required by the Office for the verification of such reports and evaluations.

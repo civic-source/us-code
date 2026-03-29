@@ -1,0 +1,14 @@
+---
+title: "Section 705 - Purchase price of conveyed interest; installment payments"
+usc_title: 30
+usc_section: "705"
+chapter: 20
+current_through: "PL 119-73"
+classification: "30 U.S.C. § 705"
+generated_at: "2026-03-29T00:31:30.776Z"
+---
+
+# § 705. Purchase price of conveyed interest; installment payments
+
+The Secretary of the Interior, prior to any conveyance under this chapter, shall determine the fair market value of the interest to be conveyed, exclusive of the value of any improvements placed on the lands involved by the applicant or his predecessors in interest. Said value shall be determined as of the date of appraisal. In establishing the purchase price to be paid by the applicant for the interest, the Secretary shall take into consideration any equities of the applicant and his predecessors in interest, including conditions of prior use and occupancy. In any event the purchase price for any interest conveyed shall not exceed its fair market value nor be less than $5 per acre. The Secretary may, in his discretion, allow payment to be made in installments.
+

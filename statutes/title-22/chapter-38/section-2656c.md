@@ -1,0 +1,22 @@
+---
+title: "Section 2656c - Responsibilities of President"
+usc_title: 22
+usc_section: "2656c"
+chapter: 38
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 2656c"
+generated_at: "2026-03-29T00:30:33.838Z"
+---
+
+# § 2656c. Responsibilities of President
+
+(a) The President, in consultation with the Director of the Office of Science and Technology Policy and other officials whom the President considers appropriate, shall—
+  (1) notwithstanding any other provision of law, insure that the Secretary of State is informed and consulted before any agency of the United States Government takes any major action, primarily involving science or technology, with respect to any foreign government or international organization;
+  (2) identify and evaluate elements of major domestic science and technology programs and activities of the United States Government with significant international implications;
+  (3) identify and evaluate international scientific or technological developments with significant implications for domestic programs and activities of the United States Government; and
+  (4) assess and initiate appropriate international scientific and technological activities which are based upon domestic scientific and technological activities of the United States Government and which are beneficial to the United States and foreign countries.
+(b) 
+(c) Except as otherwise provided by law, nothing in this section shall be construed as requiring the public disclosure of sensitive information relating to intelligence sources or methods or to persons engaged in monitoring scientific or technological developments for intelligence purposes.
+(d) 
+  (1) The information and recommendations developed under subsection (b)(3) shall be made available to the United States Trade Representative for use in his consultations with Federal agencies pursuant to Executive orders pertaining to the transfer of science and technology.
+  (2) In providing such information and recommendations, the President shall utilize information developed by any Federal departments, agencies, or interagency committees as he may consider necessary.

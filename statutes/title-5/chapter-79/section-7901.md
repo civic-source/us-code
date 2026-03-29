@@ -1,0 +1,24 @@
+---
+title: "Section 7901 - Health service programs"
+usc_title: 5
+usc_section: "7901"
+chapter: 79
+current_through: "PL 119-73"
+classification: "5 U.S.C. § 7901"
+generated_at: "2026-03-29T00:28:38.381Z"
+---
+
+# § 7901. Health service programs
+
+(a) The head of each agency of the Government of the United States may establish, within the limits of appropriations available, a health service program to promote and maintain the physical and mental fitness of employees under his jurisdiction.
+(b) A health service program may be established by contract or otherwise, but only—
+  (1) after consultation with the Secretary of Health, Education, and Welfare and consideration of its recommendations; and
+  (2) in localities where there are a sufficient number of employees to warrant providing the service.
+(c) A health service program is limited to—
+  (1) treatment of on-the-job illness and dental conditions requiring emergency attention;
+  (2) preemployment and other examinations;
+  (3) referral of employees to private physicians and dentists; and
+  (4) preventive programs relating to health.
+(d) The Secretary of Health, Education, and Welfare, on request, shall review a health service program conducted under this section and shall submit comment and recommendations to the head of the agency concerned.
+(e) When this section authorizes the use of the professional services of physicians, that authorization includes the use of the professional services of surgeons and osteopathic practitioners within the scope of their practice as defined by State law.
+(f) The health programs conducted by the Tennessee Valley Authority are not affected by this section.

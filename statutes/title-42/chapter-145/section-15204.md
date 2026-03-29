@@ -1,0 +1,16 @@
+---
+title: "Section 15204 - Definitions"
+usc_title: 42
+usc_section: "15204"
+chapter: 145
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 15204"
+generated_at: "2026-03-29T00:32:54.355Z"
+---
+
+# § 15204. Definitions
+
+In this chapter:
+
+  (1) The term “public safety officer” means a person serving a public agency, with or without compensation, as a firefighter, law enforcement officer, or emergency services officer, as determined by the Attorney General. For the purposes of this paragraph, the term “law enforcement officer” includes a person who is a corrections or court officer or a civil defense officer.
+  (2) The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.

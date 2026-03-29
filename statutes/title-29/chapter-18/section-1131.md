@@ -1,0 +1,14 @@
+---
+title: "Section 1131 - Criminal penalties"
+usc_title: 29
+usc_section: "1131"
+chapter: 18
+current_through: "PL 119-73"
+classification: "29 U.S.C. § 1131"
+generated_at: "2026-03-29T00:31:27.651Z"
+---
+
+# § 1131. Criminal penalties
+
+(a) Any person who willfully violates any provision of part 1 of this subtitle, or any regulation or order issued under any such provision, shall upon conviction be fined not more than $100,000 or imprisoned not more than 10 years, or both; except that in the case of such violation by a person not an individual, the fine imposed upon such person shall be a fine not exceeding $500,000.
+(b) Any person that violates section 1149 of this title shall upon conviction be imprisoned not more than 10 years or fined under title 18, or both.

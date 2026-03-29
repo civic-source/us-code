@@ -1,0 +1,14 @@
+---
+title: "Section 30110 - Judicial review"
+usc_title: 52
+usc_section: "30110"
+chapter: 301
+current_through: "PL 119-73"
+classification: "52 U.S.C. § 30110"
+generated_at: "2026-03-29T00:33:20.226Z"
+---
+
+# § 30110. Judicial review
+
+The Commission, the national committee of any political party, or any individual eligible to vote in any election for the office of President may institute such actions in the appropriate district court of the United States, including actions for declaratory judgment, as may be appropriate to construe the constitutionality of any provision of this Act. The district court immediately shall certify all questions of constitutionality of this Act to the United States court of appeals for the circuit involved, which shall hear the matter sitting en banc.
+

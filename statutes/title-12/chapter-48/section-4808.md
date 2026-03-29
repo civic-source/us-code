@@ -1,0 +1,22 @@
+---
+title: "Section 4808 - Revising regulatory requirements for transfers of all types of assets with recourse"
+usc_title: 12
+usc_section: "4808"
+chapter: 48
+current_through: "PL 119-73"
+classification: "12 U.S.C. § 4808"
+generated_at: "2026-03-29T00:29:16.865Z"
+---
+
+# § 4808. Revising regulatory requirements for transfers of all types of assets with recourse
+
+(a) 
+  (1) During the 180-day period beginning on September 23, 1994 , each appropriate Federal banking agency shall, consistent with the principles of safety and soundness and the public interest—
+    (A) review the agency’s regulations and written policies relating to transfers of assets with recourse by insured depository institutions; and
+    (B) in consultation with the other Federal banking agencies, promulgate regulations that better reflect the exposure of an insured depository institution to credit risk from transfers of assets with recourse.
+  (2) Before the end of the 180-day period beginning on September 23, 1994 , each appropriate Federal banking agency shall prescribe the regulations developed pursuant to paragraph (1)(B).
+(b) 
+  (1) After the end of the 180-day period beginning on September 23, 1994 , the amount of risk-based capital required to be maintained, under regulations prescribed by the appropriate Federal banking agency, by any insured depository institution with respect to assets transferred with recourse by such institution may not exceed the maximum amount of recourse for which such institution is contractually liable under the recourse agreement.
+  (2) The appropriate Federal banking agency may require any insured depository institution to maintain risk-based capital in an amount greater than the amount determined under paragraph (1), if the agency determines, by regulation or order, that such higher amount is necessary for safety and soundness reasons.
+(c) This section shall not be construed as superseding the applicability of section 1835(b) of this title .
+(d) For purposes of this section, the terms “appropriate Federal banking agency”, “Federal banking agency”, and “insured depository institution” have the same meanings as in section 1813 of this title .

@@ -1,0 +1,14 @@
+---
+title: "Section 537 - Maintenance and reconstruction by road users; funds for maintenance and reconstruction; availability of deposits until expended, transfer of funds, and refunds"
+usc_title: 16
+usc_section: "537"
+chapter: 2
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 537"
+generated_at: "2026-03-29T00:29:52.543Z"
+---
+
+# § 537. Maintenance and reconstruction by road users; funds for maintenance and reconstruction; availability of deposits until expended, transfer of funds, and refunds
+
+The Secretary may require the user or users of a road under the control of the Forest Service, including purchasers of Government timber and other products, to maintain such roads in a satisfactory condition commensurate with the particular use requirements of each. Such maintenance to be borne by each user shall be proportionate to total use. The Secretary may also require the user or users of such a road to reconstruct the same when such reconstruction is determined to be necessary to accommodate such use. If such maintenance or reconstruction cannot be so provided or if the Secretary determines that maintenance or reconstruction by a user would not be practical, then the Secretary may require that sufficient funds be deposited by the user to provide his portion of such total maintenance or reconstruction. Deposits made to cover the maintenance or reconstruction of roads are hereby made available until expended to cover the cost to the United States of accomplishing the purpose for which deposited: Provided , That deposits received for work on adjacent and overlapping areas may be combined when it is the most practicable and efficient manner of performing the work, and cost thereof may be determined by estimates: And provided further , That unexpended balances upon accomplishment of the purpose for which deposited shall be transferred to miscellaneous receipts or refunded.
+

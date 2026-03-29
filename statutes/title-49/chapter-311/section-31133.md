@@ -1,0 +1,25 @@
+---
+title: "Section 31133 - General powers of the Secretary of Transportation"
+usc_title: 49
+usc_section: "31133"
+chapter: 311
+current_through: "PL 119-73"
+classification: "49 U.S.C. § 31133"
+generated_at: "2026-03-29T00:33:13.839Z"
+---
+
+# § 31133. General powers of the Secretary of Transportation
+
+(a) In carrying out this subchapter and regulations prescribed under section 31102 of this title , the Secretary of Transportation may—
+  (1) conduct and make contracts for inspections and investigations;
+  (2) compile statistics;
+  (3) make reports;
+  (4) issue subpenas;
+  (5) require production of records and property;
+  (6) take depositions;
+  (7) hold hearings;
+  (8) prescribe recordkeeping and reporting requirements;
+  (9) conduct or make contracts for studies, development, testing, evaluation, and training; and
+  (10) perform other acts the Secretary considers appropriate.
+(b) In conducting inspections and investigations under subsection (a) of this section, the Secretary shall consult, as appropriate, with employers and employees and their authorized representatives and offer them a right of accompaniment.
+(c) The Secretary may delegate to a State receiving a grant under section 31102 of this title those duties and powers related to enforcement (including conducting investigations) of this subchapter and regulations prescribed under this subchapter that the Secretary considers appropriate.

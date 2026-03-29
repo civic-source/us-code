@@ -1,0 +1,22 @@
+---
+title: "Section 7217 - Prohibition on executive branch influence over taxpayer audits and other investigations"
+usc_title: 26
+usc_section: "7217"
+chapter: 75
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 7217"
+generated_at: "2026-03-29T00:31:21.082Z"
+---
+
+# § 7217. Prohibition on executive branch influence over taxpayer audits and other investigations
+
+(a) It shall be unlawful for any applicable person to request, directly or indirectly, any officer or employee of the Internal Revenue Service to conduct or terminate an audit or other investigation of any particular taxpayer with respect to the tax liability of such taxpayer.
+(b) Any officer or employee of the Internal Revenue Service receiving any request prohibited by subsection (a) shall report the receipt of such request to the Treasury Inspector General for Tax Administration.
+(c) Subsection (a) shall not apply to any written request made—
+  (1) to an applicable person by or on behalf of the taxpayer and forwarded by such applicable person to the Internal Revenue Service;
+  (2) by an applicable person for disclosure of return or return information under section 6103 if such request is made in accordance with the requirements of such section; or
+  (3) by the Secretary of the Treasury as a consequence of the implementation of a change in tax policy.
+(d) Any person who willfully violates subsection (a) or fails to report under subsection (b) shall be punished upon conviction by a fine in any amount not exceeding $5,000, or imprisonment of not more than 5 years, or both, together with the costs of prosecution.
+(e) For purposes of this section, the term “applicable person” means—
+  (1) the President, the Vice President, any employee of the executive office of the President, and any employee of the executive office of the Vice President; and
+  (2) any individual (other than the Attorney General of the United States) serving in a position specified in section 5312 of title 5 , United States Code.

@@ -1,0 +1,16 @@
+---
+title: "Section 1683d - Reconciliation"
+usc_title: 19
+usc_section: "1683d"
+chapter: 4
+current_through: "PL 119-73"
+classification: "19 U.S.C. § 1683d"
+generated_at: "2026-03-29T00:30:20.195Z"
+---
+
+# § 1683d. Reconciliation
+
+The Secretary of the Treasury shall conduct reconciliations to ensure the proper implementation and operation of international agreements entered into between a country of export of softwood lumber or softwood lumber products described in section 1683b(a) of this title and the United States. The Secretary of Treasury shall reconcile the following:
+
+  (1) The export price declared by a United States importer pursuant to section 1683a(b)(1) of this title with the export price reported to the United States by the country of export, if any.
+  (2) The export price declared by a United States importer pursuant to section 1683a(b)(1) of this title with the revised export price reported to the United States by the country of export, if any.

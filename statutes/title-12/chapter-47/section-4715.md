@@ -1,0 +1,38 @@
+---
+title: "Section 4715 - Special provisions with respect to institutions that are supervised by Federal banking agencies"
+usc_title: 12
+usc_section: "4715"
+chapter: 47
+current_through: "PL 119-73"
+classification: "12 U.S.C. § 4715"
+generated_at: "2026-03-29T00:29:16.860Z"
+---
+
+# § 4715. Special provisions with respect to institutions that are supervised by Federal banking agencies
+
+(a) The Fund shall consult with and consider the views of the appropriate Federal banking agency prior to providing assistance under this subchapter to—
+  (1) an insured community development financial institution;
+  (2) any community development financial institution that is examined by or subject to the reporting requirements of an appropriate Federal banking agency; or
+  (3) any community development financial institution that has as its community partner an institution that is examined by or subject to the reporting requirements of an appropriate Federal banking agency.
+(b) 
+  (1) Except as provided in paragraph (4), notwithstanding any other provisions of this subchapter, prior to directly requesting information from or imposing reporting or recordkeeping requirements on an insured community development financial institution or other institution that is examined by or subject to the reporting requirements of an appropriate Federal banking agency, the Fund shall consult with the appropriate Federal banking agency to determine if the information requested is available from or may be obtained by such agency in the form, format, or detail required by the Fund.
+  (2) If the information, reports, or records requested by the Fund pursuant to paragraph (1) are not provided by the appropriate Federal banking agency in less than 15 calendar days after the date on which the material is requested, the Fund may request the information from or impose the recordkeeping or reporting requirements directly on such institutions with notice to the appropriate Federal banking agency.
+  (3) The Fund shall use any information provided the appropriate Federal banking agency under this section to the extent practicable to eliminate duplicative requests for information and reports from, and recordkeeping by an insured community development financial institution or other institution that is examined by or subject to the reporting requirements of an appropriate Federal banking agency.
+  (4) Notwithstanding paragraphs (1) and (2), the Fund may require an insured community development financial institution or other institution that is examined by or subject to the reporting requirements of an appropriate Federal banking agency to provide information with respect to the institution’s implementation of its strategic plan or compliance with the terms of its assistance agreement under this subchapter, after providing notice to the appropriate Federal banking agency.
+(c) Nothing in this section shall be construed to permit the Fund to require an insured community development financial institution or other institution that is examined by or subject to the reporting requirements of an appropriate Federal banking agency, to obtain, maintain, or furnish an examination report of any appropriate Federal banking agency or records contained in or related to such a report.
+(d) The Fund and the appropriate Federal banking agency shall promptly notify each other of material concerns about an insured community development financial institution or other institution that is examined by or subject to the reporting requirements of an appropriate Federal banking agency, and share appropriate information relating to such concerns.
+(e) Neither the Fund nor the appropriate Federal banking agency shall disclose confidential information obtained pursuant to this section from any party without the written consent of that party.
+(f) The Fund, the appropriate Federal banking agency, and any other party providing information under this section shall not be deemed to have waived any privilege applicable to any information or data, or any portion thereof, by providing such information or data to the other party or by permitting such data or information, or any copies or portions thereof, to be used by the other party.
+(g) Nothing in this section shall authorize the Fund or the appropriate Federal banking agency to withhold information from the Congress or prevent it from complying with a request for information from a Federal department or agency in compliance with applicable law.
+(h) 
+  (1) The Fund shall notify the appropriate Federal banking agency before imposing any sanction pursuant to the authority in section 4707(f)(2)(C) of this title on an insured community development financial institution or other institution that is examined by or subject to the reporting requirements of that agency.
+  (2) The Fund shall not impose a sanction referred to in paragraph (1) if the appropriate Federal banking agency, in writing, not later than 30 calendar days after receiving notice from the Fund—
+    (A) objects to the proposed sanction;
+    (B) determines that the sanction would—
+      (i) have a material adverse effect on the safety and soundness of the institution; or
+      (ii) impede or interfere with an enforcement action against that institution by that agency;
+    (C) proposes a comparable alternative action; and
+    (D) specifically explains—
+      (i) the basis for the determination under subparagraph (B) and, if appropriate, provides documentation to support the determination; and
+      (ii) how the alternative action suggested pursuant to subparagraph (C) would be as effective as the sanction proposed by the Fund in securing compliance with this subchapter and deterring future noncompliance.
+(i) The Fund and each appropriate Federal banking agency shall cooperate and respond to requests from each other and from other appropriate Federal banking agencies in a manner that ensures the safety and soundness of the insured community development financial institution or other institution that is examined by or subject to the reporting requirements of an appropriate Federal banking agency.

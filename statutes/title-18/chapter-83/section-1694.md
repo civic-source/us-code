@@ -1,0 +1,14 @@
+---
+title: "Section 1694 - Carriage of matter out of mail over post routes"
+usc_title: 18
+usc_section: "1694"
+chapter: 83
+current_through: "PL 119-73"
+classification: "18 U.S.C. § 1694"
+generated_at: "2026-03-29T00:30:15.676Z"
+---
+
+# § 1694. Carriage of matter out of mail over post routes
+
+Whoever, having charge or control of any conveyance operating by land, air, or water, which regularly performs trips at stated periods on any post route, or from one place to another between which the mail is regularly carried, carries, otherwise than in the mail, any letters or packets, except such as relate to some part of the cargo of such conveyance, or to the current business of the carrier, or to some article carried at the same time by the same conveyance, shall, except as otherwise provided by law, be fined under this title.
+

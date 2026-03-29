@@ -1,0 +1,32 @@
+---
+title: "Section 3141 - Grants for public works and economic development"
+usc_title: 42
+usc_section: "3141"
+chapter: 38
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 3141"
+generated_at: "2026-03-29T00:32:53.826Z"
+---
+
+# § 3141. Grants for public works and economic development
+
+(a) On the application of an eligible recipient, the Secretary may make grants for—
+  (1) acquisition or development of land and improvements for use for a public works, public service, or development facility or for the improvement of waste management and recycling systems; and
+  (2) acquisition, design and engineering, construction, rehabilitation, alteration, expansion, increasing the resilience 1 1 So in original. Probably should be followed by a comma. or improvement of such a facility, including related machinery and equipment.
+(b) The Secretary may make a grant under this section only if the Secretary determines that—
+  (1) the project for which the grant is applied for will, directly or indirectly—
+    (A) improve the opportunities, in the area where the project is or will be located, for the successful establishment, expansion, or retention, 2 2 So in original. The comma probably should not appear. of industrial or commercial plants or facilities;
+    (B) assist in the creation of additional long-term employment opportunities in the area; or
+    (C) primarily benefit the long-term unemployed and underemployed and members of low-income families;
+  (2) the project for which the grant is applied for will fulfill a pressing need of the area, or a part of the area, in which the project is or will be located; and
+  (3) the area for which the project is to be carried out has a comprehensive economic development strategy and the project is consistent with the strategy.
+(c) In awarding grants under subsection (a) and subject to the criteria in subsection (b), the Secretary may also consider the extent to which a project would—
+  (1) lead to economic diversification in the area, or a part of the area, in which the project is or will be located;
+  (2) address and mitigate economic impacts from extreme weather events, including development of resilient infrastructure, products, and processes;
+  (3) benefit highly rural communities without adequate tax revenues to invest in long-term or costly infrastructure;
+  (4) increase access to high-speed broadband;
+  (5) support outdoor recreation to spur economic development, with a focus on rural communities;
+  (6) promote job creation or retention relative to the population of the impacted region with outsized significance;
+  (7) promote travel and tourism; or
+  (8) promote blue economy activities.
+(d) Not more than 15 percent of the amounts made available to carry out this section may be expended in any 1 State.

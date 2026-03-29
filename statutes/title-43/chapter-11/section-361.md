@@ -1,0 +1,14 @@
+---
+title: "Section 361 - Authority to explore for, develop, and mark water holes, etc."
+usc_title: 43
+usc_section: "361"
+chapter: 11
+current_through: "PL 119-73"
+classification: "43 U.S.C. § 361"
+generated_at: "2026-03-29T00:32:57.318Z"
+---
+
+# § 361. Authority to explore for, develop, and mark water holes, etc.
+
+The Secretary of the Interior is authorized and empowered, in his discretion in so far as the authorization made herein will permit, to discover, develop, protect, and render more accessible for the benefit of the general public, springs, streams, and water holes on arid public lands of the United States; and in connection therewith to erect and maintain suitable and durable monuments and signboards at proper places and intervals along and near the accustomed lines of travel and over the general area of said desert lands, containing information and directions as to the location and nature of said springs, streams, and water holes, to the end that the same may be more readily traced and found by persons in search or need thereof; also to provide convenient and ready means, apparatus, and appliances by which water may be brought to the earth’s surface at said water holes for the use of such persons; also to prepare and distribute suitable maps, reports, and general information relating to said springs, streams, and water holes, and their specific location with reference to lines of travel.
+

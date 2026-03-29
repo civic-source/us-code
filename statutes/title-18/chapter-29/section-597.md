@@ -1,0 +1,14 @@
+---
+title: "Section 597 - Expenditures to influence voting"
+usc_title: 18
+usc_section: "597"
+chapter: 29
+current_through: "PL 119-73"
+classification: "18 U.S.C. § 597"
+generated_at: "2026-03-29T00:30:15.620Z"
+---
+
+# § 597. Expenditures to influence voting
+
+Whoever makes or offers to make an expenditure to any person, either to vote or withhold his vote, or to vote for or against any candidate; and Whoever solicits, accepts, or receives any such expenditure in consideration of his vote or the withholding of his vote— Shall be fined under this title or imprisoned not more than one year, or both; and if the violation was willful, shall be fined under this title or imprisoned not more than two years, or both.
+

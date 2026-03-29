@@ -1,0 +1,17 @@
+---
+title: "Section 4502 - Payment"
+usc_title: 41
+usc_section: "4502"
+chapter: 45
+current_through: "PL 119-73"
+classification: "41 U.S.C. § 4502"
+generated_at: "2026-03-29T00:32:22.605Z"
+---
+
+# § 4502. Payment
+
+(a) When practicable, payments under section 4501 of this title shall be made on any of the following bases:
+  (1) Performance measured by objective, quantifiable methods such as delivery of acceptable items, work measurement, or statistical process controls.
+  (2) Accomplishment of events defined in the program management plan.
+  (3) Other quantifiable measures of results.
+(b) Payments made under section 4501 of this title may not exceed the unpaid contract price.

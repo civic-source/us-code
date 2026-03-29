@@ -1,0 +1,15 @@
+---
+title: "Section 2573 - Policy formulation"
+usc_title: 22
+usc_section: "2573"
+chapter: 35
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 2573"
+generated_at: "2026-03-29T00:30:33.827Z"
+---
+
+# § 2573. Policy formulation
+
+(a) The Secretary of State shall prepare for the President, and the heads of such other Government agencies as the President may determine, recommendations and advice concerning United States arms control, nonproliferation, and disarmament policy.
+(b) No action shall be taken pursuant to this chapter or any other Act that would obligate the United States to reduce or limit the Armed Forces or armaments of the United States in a militarily significant manner, except pursuant to the treaty-making power of the President set forth in Article II, Section 2, Clause 2 of the Constitution or unless authorized by the enactment of further affirmative legislation by the Congress of the United States.
+(c) Nothing contained in this chapter shall be construed to authorize any policy or action by any Government agency which would interfere with, restrict, or prohibit the acquisition, possession, or use of firearms by an individual for the lawful purpose of personal defense, sport, recreation, education, or training.

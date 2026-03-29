@@ -1,0 +1,22 @@
+---
+title: "Section 13452 - Natural gas and electric heating and cooling technologies"
+usc_title: 42
+usc_section: "13452"
+chapter: 134
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 13452"
+generated_at: "2026-03-29T00:32:54.322Z"
+---
+
+# § 13452. Natural gas and electric heating and cooling technologies
+
+(a) 
+  (1) The Secretary shall conduct a 5-year program, in accordance with sections 13541 and 13542 of this title, on energy efficient natural gas and electric heating and cooling technologies for residential and commercial buildings.
+  (2) The natural gas heating and cooling program shall include activities on—
+    (A) thermally activated heat pumps, including absorption heat pumps and engine-driven heat pumps; and
+    (B) other advanced natural gas technologies, including fuel cells for residential and commercial applications.
+  (3) The electric heating and cooling program shall focus on—
+    (A) advanced heat pumps;
+    (B) thermal storage; and
+    (C) advanced electric HVAC (heating, ventilating, and air conditioning) and refrigeration systems that utilize replacements for chlorofluorocarbons.
+(b) Within 180 days after October 24, 1992 , the Secretary shall solicit proposals for conducting activities under this section.

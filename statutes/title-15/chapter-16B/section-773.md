@@ -1,0 +1,15 @@
+---
+title: "Section 773 - Public disclosure of information"
+usc_title: 15
+usc_section: "773"
+chapter: 16
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 773"
+generated_at: "2026-03-29T00:29:41.667Z"
+---
+
+# § 773. Public disclosure of information
+
+(a) The Administrator shall make public, on a continuing basis, any statistical and economic analyses, data, information, and whatever reports and summaries are necessary to keep the public fully and currently informed as to the nature, extent, and projected duration of shortages of energy supplies, the impact of such shortages, and the steps being taken to minimize such impacts.
+(b) Subject to the provisions of this chapter, section 552 of title 5 shall apply to public disclosure of information by the Administrator: Provided , That notwithstanding said section, the provisions of section 1905 of title 18 , or any other provision of law, (1) all matters reported to, or otherwise obtained by, any person exercising authority under this chapter containing trade secrets or other matter referred to in section 1905 of title 18 , may be disclosed to other persons authorized to perform functions under this chapter solely to carry out the purposes of the chapter, or when relevant in any proceeding under this chapter, and (2) the Administrator shall disclose to the public, at a reasonable cost, and upon a request which reasonably describes the matter sought, any matter of the type which could not be excluded from public annual reports to the Securities and Exchange Commission pursuant to section 78m or 78 o (d) of this title by a business enterprise exclusively engaged in the manufacture or sale of a single product, unless such matter concerns or relates to the trade secrets, processes, operations, style of work, or apparatus of a business enterprise.
+(c) To protect and assure privacy of individuals and confidentiality of personal information, the Administrator is directed to establish guidelines and procedures for handling any information which the Administration obtains pertaining to individuals. He shall provide, to the extent practicable, in such guidelines and procedures a method for allowing any such individual to gain access to such information pertaining to himself.

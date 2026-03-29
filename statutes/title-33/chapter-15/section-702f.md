@@ -1,0 +1,14 @@
+---
+title: "Section 702f - Expenditures for earlier projects"
+usc_title: 33
+usc_section: "702f"
+chapter: 15
+current_through: "PL 119-73"
+classification: "33 U.S.C. § 702f"
+generated_at: "2026-03-29T00:31:57.245Z"
+---
+
+# § 702f. Expenditures for earlier projects
+
+Funds appropriated under authority of section 702a of this title may be expended for the prosecution of such works for the control of the floods of the Mississippi River as have, prior to May 15, 1928 , been authorized and are not included in the present project, including levee work on the Mississippi River between Rock Island, Illinois, and Cape Girardeau, Missouri, and on the outlets and tributaries of the Mississippi River between Rock Island and Head of Passes insofar as such outlets or tributaries are affected by the backwaters of the Mississippi: Provided , That for such work on the Mississippi River between Rock Island, Illinois, and Cape Girardeau, Missouri, and on such tributaries, the States or levee districts shall provide rights-of-way without cost to the United States, contribute 33⅓ per centum of the costs of the works, and maintain them after completion: And provided further , That not more than $10,000,000 of the sums authorized in section 702a of this title , shall be expended under the provisions of this section. In an emergency, funds appropriated under authority of section 702a of this title may be expended for the maintenance of any levee when it is demonstrated to the satisfaction of the Secretary of the Army that the levee cannot be adequately maintained by the State or levee district.
+

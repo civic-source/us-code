@@ -1,0 +1,14 @@
+---
+title: "Section 499a - Transfer of title to movable property; use of appropriations"
+usc_title: 43
+usc_section: "499a"
+chapter: 12
+current_through: "PL 119-73"
+classification: "43 U.S.C. § 499a"
+generated_at: "2026-03-29T00:32:57.360Z"
+---
+
+# § 499a. Transfer of title to movable property; use of appropriations
+
+Whenever an irrigation district, municipality, or water users’ organization assumes operation and maintenance of works constructed to furnish or distribute a water supply pursuant to a contract entered into with the United States in accordance with the Federal reclamation laws (Act of June 17, 1902 , 32 Stat. 388 , and Acts amendatory thereof or supplementary thereto), the Secretary of the Interior may transfer to said district, municipality, or organization title to movable property which has been purchased with funds advanced by the district, municipality, or organization or which, in the case of property purchased with appropriated funds, is necessary to the operation and maintenance of such works and the value of which is to be repaid under a contract with the district, municipality, or organization. In order to encourage the assumption by irrigation districts, municipalities, and water users’ organizations of the operation and maintenance of works constructed to furnish or distribute a water supply, the Secretary is authorized to use appropriated funds available for the project involved to acquire movable property for transfer under the terms and conditions hereinbefore provided, at the time operation and maintenance is assumed.
+

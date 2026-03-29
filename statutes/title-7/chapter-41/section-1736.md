@@ -1,0 +1,27 @@
+---
+title: "Section 1736 - Use of Commodity Credit Corporation"
+usc_title: 7
+usc_section: "1736"
+chapter: 41
+current_through: "PL 119-73"
+classification: "7 U.S.C. § 1736"
+generated_at: "2026-03-29T00:28:58.048Z"
+---
+
+# § 1736. Use of Commodity Credit Corporation
+
+(a) The Commodity Credit Corporation may acquire and make available such agricultural commodities as necessary to carry out agreements under this chapter.
+(b) With respect to commodities made available under subchapters III and III–A, the Commodity Credit Corporation may pay—
+  (1) the cost of acquiring such commodities;
+  (2) the costs associated with packaging, enrichment, preservation, and fortification of such commodities, including the costs of carrying out section 1736g–2 of this title ;
+  (3) the processing, transportation, handling, and other incidental costs up to the time of the delivery of such commodities free on board vessels in United States ports;
+  (4) the vessel freight charges from United States ports or designated Canadian transshipment ports, as determined by the Secretary, to designated ports of entry abroad;
+  (5) the costs associated with transporting such commodities from United States ports to designated points of entry abroad in the case—
+    (A) of landlocked countries;
+    (B) of ports that cannot be used effectively because of natural or other disturbances;
+    (C) of the unavailability of carriers to a specific country; or
+    (D) of substantial savings in costs or time that may be effected by the utilization of points of entry other than ports;
+  (6) in the case of commodities for urgent and extraordinary relief requirements (including pre-positioned commodities) the transportation costs incurred in moving the commodities from designated points of entry or ports of entry abroad to storage and distribution sites and associated storage, distribution, and program implementation costs to use the commodities; and
+  (7) the charges for general average contributions arising out of the ocean transport of commodities transferred pursuant thereto.
+(c) The funds, facilities, and authorities of the Commodity Credit Corporation may be used to carry out this chapter.
+(d) Funds shall be available under this chapter only to the extent provided in advance in appropriation Acts.

@@ -1,0 +1,25 @@
+---
+title: "Section 4121 - Imposition of tax"
+usc_title: 26
+usc_section: "4121"
+chapter: 32
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 4121"
+generated_at: "2026-03-29T00:31:20.944Z"
+---
+
+# § 4121. Imposition of tax
+
+(a) 
+  (1) There is hereby imposed on coal from mines located in the United States sold by the producer, a tax equal to the rate per ton determined under subsection (b).
+  (2) The amount of the tax imposed by paragraph (1) with respect to a ton of coal shall not exceed the applicable percentage (determined under subsection (b)) of the price at which such ton of coal is sold by the producer.
+(b) For purposes of subsection (a)—
+  (1) the rate of tax on coal from underground mines shall be $1.10,
+  (2) the rate of tax on coal from surface mines shall be $.55, and
+  (3) the applicable percentage shall be 4.4 percent.
+(c) The tax imposed by subsection (a) shall not apply in the case of lignite.
+(d) For purposes of this subchapter—
+  (1) Coal shall be treated as produced from a surface mine if all of the geological matter above the coal being mined is removed before the coal is extracted from the earth. Coal extracted by auger shall be treated as coal from a surface mine.
+  (2) Coal shall be treated as produced from an underground mine if it is not produced from a surface mine.
+  (3) The term “United States” has the meaning given to it by paragraph (1) of section 638.
+  (4) The term “ton” means 2,000 pounds.

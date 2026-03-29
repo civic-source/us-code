@@ -1,0 +1,16 @@
+---
+title: "Section 3363 - Preference eligibles; promotion; physical qualifications; waiver"
+usc_title: 5
+usc_section: "3363"
+chapter: 33
+current_through: "PL 119-73"
+classification: "5 U.S.C. § 3363"
+generated_at: "2026-03-29T00:28:38.316Z"
+---
+
+# § 3363. Preference eligibles; promotion; physical qualifications; waiver
+
+In determining qualifications of a preference eligible for promotion to another position in the competitive service, an Executive agency, or the government of the District of Columbia, the Office of Personnel Management or other examining agency shall waive—
+
+  (1) requirements as to age, height, and weight, unless the requirement is essential to the performance of the duties of the position; and
+  (2) physical requirements if, in the opinion of the Office or other examining agency, after considering the recommendation of an accredited physician, the preference eligible is physically able to perform efficiently the duties of the position.

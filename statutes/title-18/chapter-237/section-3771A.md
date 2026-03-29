@@ -1,0 +1,107 @@
+---
+title: "Section 3771A - Motion to vacate; expungement; mitigating factors"
+usc_title: 18
+usc_section: "3771A"
+chapter: 237
+current_through: "PL 119-73"
+classification: "18 U.S.C. § 3771A"
+generated_at: "2026-03-29T00:30:15.754Z"
+---
+
+# § 3771A. Motion to vacate; expungement; mitigating factors
+
+(a) In this section—
+  (1) the term “child” means an individual who has not attained 18 years of age;
+  (2) the term “covered prisoner” means an individual who—
+    (A) was convicted of a level A offense or level B offense;
+    (B) was sentenced to a term of imprisonment for the offense described in subparagraph (A); and
+    (C) is, or was previously, imprisoned or incarcerated under such sentence for a term of imprisonment;
+  (3) the terms “employee” and “officer” have the meanings given the terms in section 2105 of title 5 ;
+  (4) the term “Federal offense” means an offense that is punishable under Federal law;
+  (5) the term “level A offense” means a Federal offense that is not a violent crime;
+  (6) the term “level B offense”—
+    (A) means a Federal offense that is a violent crime; and
+    (B) does not include a Federal offense that is a violent crime of which a child was a victim;
+  (7) the term “victim of trafficking” has the meaning given that term in section 103 of the Trafficking Victims Protection Act of 2000 ( 22 U.S.C. 7102 ); and
+  (8) the term “violent crime” has the meaning given the term “crime of violence” in section 16(a) of this title .
+(b) 
+  (1) 
+    (A) A person convicted of any level A offense (or an attorney representing such a person) may move the court that imposed the sentence for the level A offense to vacate the judgment of conviction if the level A offense was committed as a direct result of the person having been a victim of trafficking.
+    (B) A person arrested for any level A offense (or an attorney representing such a person) may move the district court of the United States for the district and division embracing the place where the person was arrested to expunge all records of the arrest if the conduct or alleged conduct of the person that resulted in the arrest was directly related to the person having been a victim of trafficking.
+    (C) A person arrested for any level B offense (or an attorney representing such a person) may move the district court of the United States for the district and division embracing the place where the person was arrested to expunge all records of the arrest if—
+      (i) the conduct or alleged conduct of the movant that resulted in the arrest was directly related to the movant having been a victim of trafficking; and
+      (ii) 
+        (I) the movant was acquitted of the level B offense;
+        (II) the Government did not pursue, or the Government moved to dismiss, criminal charges against the movant for the level B offense; or
+        (III) 
+  (2) A motion described in paragraph (1) shall—
+    (A) be in writing;
+    (B) describe any supporting evidence;
+    (C) state the offense; and
+    (D) include copies of any documents showing that the movant is entitled to relief under this section.
+  (3) 
+    (A) 
+      (i) Not later than 30 days after the date on which a motion is filed under paragraph (1), the Government may file a motion in opposition of the motion filed under paragraph (1).
+      (ii) If the Government files a motion described in clause (i), not later than 15 days after the date on which the motion is filed, the court shall hold a hearing on the motion.
+    (B) If the Government does not file a motion described in subparagraph (A)(i), the court may hold a hearing on the motion not later than 45 days after the date on which a motion is filed under paragraph (1).
+  (4) 
+    (A) The court may grant a motion under paragraph (1)(A) if, after notice to the Government and an opportunity to be heard, the court finds, by a preponderance of the evidence, that—
+      (i) the movant was convicted of a level A offense; and
+      (ii) the participation in the level A offense by the movant was a direct result of the movant having been a victim of trafficking.
+    (B) The court may grant a motion under paragraph (1)(B) if, after notice to the Government and an opportunity to be heard, the court finds, by a preponderance of the evidence, that—
+      (i) the movant was arrested for a level A offense; and
+      (ii) the conduct or alleged conduct that resulted in the arrest was directly related to the movant having been a victim of trafficking.
+    (C) The court may grant a motion under paragraph (1)(C) if, after notice to the Government and an opportunity to be heard, the court finds, by a preponderance of the evidence, that—
+      (i) the movant was arrested for a level B offense and the conduct or alleged conduct that resulted in the arrest was directly related to the movant having been a victim of trafficking; and
+      (ii) 
+        (I) the movant was acquitted of the level B offense;
+        (II) the Government did not pursue, or the Government moved to dismiss, criminal charges against the movant for the level B offense; or
+        (III) 
+  (5) 
+    (A) For purposes of this section, in determining whether the movant is a victim of trafficking, the court—
+      (i) shall consider an affidavit or sworn testimony of an anti-human trafficking service provider or clinician; and
+      (ii) may consider any supporting evidence the court determines is of sufficient credibility and probative value, including sworn testimony from a law enforcement officer detailing the role of the movant in coercing other victims of trafficking into committing criminal offenses.
+    (B) The affidavit or sworn testimony described in subparagraph (A)(i) shall be sufficient evidence to vacate a conviction or expunge an arrest under this section if the court determines that—
+      (i) the affidavit or sworn testimony is credible; and
+      (ii) no other evidence is readily available.
+  (6) It shall not be necessary that any person other than the movant be convicted of or arrested for an offense before the movant may file a motion under paragraph (1).
+  (7) 
+    (A) If the court denies a motion filed under paragraph (1), the denial shall be final, except as provided under subparagraph (C) of this paragraph and subject to the discovery of any new and compelling evidence or information.
+    (B) If the court denies a motion filed under paragraph (1), the court shall state the reasons for the denial in writing.
+    (C) If the court denies a motion filed under paragraph (1) due to a curable deficiency in the motion, the court shall allow the movant sufficient time to cure the deficiency.
+  (8) An order granting or denying a motion under this section may be appealed in accordance with section 1291 of title 28 .
+(c) 
+  (1) If the court grants a motion to vacate a conviction of a level A offense under subsection (b), the court shall immediately—
+    (A) vacate the conviction for cause;
+    (B) set aside the verdict and enter a judgment of acquittal; and
+    (C) enter an expungement order that directs that there be expunged from all official records all references to—
+      (i) the arrest of the movant for the level A offense;
+      (ii) the institution of criminal proceedings against the movant relating to the level A offense; and
+      (iii) the results of the proceedings.
+  (2) Nothing in this subsection requires a court to amend or remove any fine or restitution order in a criminal or civil proceeding.
+  (3) If a conviction is vacated under an order entered under paragraph (1), the conviction shall not be regarded as a conviction under Federal law and the movant for whom the conviction was vacated shall be considered to have the status occupied by the movant before the arrest or the institution of the criminal proceedings related to such conviction.
+(d) 
+  (1) If the court grants a motion to expunge all records of an arrest for an offense under subsection (b), the court shall immediately enter an expungement order that directs that there be expunged from all official records all references to—
+    (A) the arrest of the movant for the offense;
+    (B) the institution of any criminal proceedings against the movant relating to the offense; and
+    (C) the results of the proceedings, if any.
+  (2) If an arrest is expunged under an order entered under paragraph (1) the arrest shall not be regarded as an arrest under Federal law and the movant for whom the arrest is expunged shall be considered to have the status occupied by the movant before the arrest or the institution of the criminal proceedings related to such arrest, if any.
+(e) 
+  (1) The court that imposed sentence for a level A offense or level B offense upon a covered prisoner may reduce the term of imprisonment for the offense—
+    (A) upon—
+      (i) motion by the covered prisoner; or
+      (ii) the court’s own motion;
+    (B) after notice to the Government;
+    (C) after considering—
+      (i) the factors set forth in section 3553(a);
+      (ii) the nature and seriousness of the danger to any person, if applicable; and
+      (iii) the community, or any crime victims; and
+    (D) if the court finds, by a preponderance of the evidence, that the covered prisoner committed the offense as a direct result of the covered prisoner having been a victim of trafficking.
+  (2) Any proceeding under this subsection shall be subject to section 3771.
+  (3) For any motion under paragraph (1), the Government shall conduct a particularized inquiry of the facts and circumstances of the original sentencing of the covered prisoner in order to assess whether a reduction in sentence would be consistent with this section.
+(f) The court shall, upon granting a motion under this section, take any additional action necessary to grant the movant full relief.
+(g) A person may not be required to pay a filing fee, service charge, copay fee, processing fee, or any other charge for filing a motion under this section.
+(h) 
+  (1) A motion under this section and any documents, pleadings, or orders relating to the motion shall be filed under seal.
+  (2) An officer or employee may not make available for public inspection any report, paper, picture, photograph, court file, or other document, in the custody or possession of the officer or employee, that identifies the movant.
+(i) This section shall apply to any conviction or arrest occurring before, on, or after the date of enactment of this section.

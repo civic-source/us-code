@@ -1,0 +1,33 @@
+---
+title: "Section 14922 - Process for accreditation and approval; role of accrediting entities"
+usc_title: 42
+usc_section: "14922"
+chapter: 143
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 14922"
+generated_at: "2026-03-29T00:32:54.340Z"
+---
+
+# § 14922. Process for accreditation and approval; role of accrediting entities
+
+(a) 
+  (1) The Secretary shall enter into agreements with one or more qualified entities under which such entities will perform the duties described in subsection (b) in accordance with the Convention, this subchapter, and the regulations prescribed under section 14923 of this title , and upon entering into each such agreement shall designate the qualified entity as an accrediting entity.
+  (2) In paragraph (1), the term “qualified entity” means—
+    (A) a nonprofit private entity that has expertise in developing and administering standards for entities providing child welfare services and that meets such other criteria as the Secretary may by regulation establish; or
+    (B) a public entity (other than a Federal entity), including an agency or instrumentality of State government having responsibility for licensing adoption agencies, that—
+      (i) has expertise in developing and administering standards for entities providing child welfare services;
+      (ii) accredits only agencies located in the State in which the public entity is located; and
+      (iii) meets such other criteria as the Secretary may by regulation establish.
+(b) The duties described in this subsection are the following:
+  (1) Accreditation of agencies, and approval of persons, to provide adoption services in the United States in cases subject to the Convention.
+  (2) Ongoing monitoring of the compliance of accredited agencies and approved persons with applicable requirements, including review of complaints against such agencies and persons in accordance with procedures established by the accrediting entity and approved by the Secretary.
+  (3) Taking of adverse actions (including requiring corrective action, imposing sanctions, and refusing to renew, suspending, or canceling accreditation or approval) for noncompliance with applicable requirements, and notifying the agency or person against whom adverse actions are taken of the deficiencies necessitating the adverse action.
+  (4) Collection of data, maintenance of records, and reporting to the Secretary, the United States central authority, State courts, and other entities (including on persons and agencies granted or denied approval or accreditation), to the extent and in the manner that the Secretary requires.
+  (5) Not later than 90 days after an accrediting entity receives Federal funding authorized by section 14943 of this title , the entity shall submit a report to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives that describes—
+    (A) the amount of such funding the entity received; and
+    (B) how such funding was, or will be, used by the entity.
+(c) 
+  (1) An agency or person who is the subject of an adverse action by an accrediting entity may re-apply for accreditation or approval (or petition for termination of the adverse action) on demonstrating to the satisfaction of the accrediting entity that the deficiencies necessitating the adverse action have been corrected.
+  (2) An adverse action by an accrediting entity shall not be subject to administrative review.
+  (3) An agency or person who is the subject of an adverse action by an accrediting entity may petition the United States district court in the judicial district in which the agency is located or the person resides to set aside the adverse action. The court shall review the adverse action in accordance with section 706 of title 5 , and for purposes of such review the accrediting entity shall be considered an agency within the meaning of section 701 of such title.
+(d) The amount of fees assessed by accrediting entities for the costs of accreditation shall be subject to approval by the Secretary. Such fees may not exceed the costs of accreditation. In reviewing the level of such fees, the Secretary shall consider the relative size of, the geographic location of, and the number of Convention adoption cases managed by the agencies or persons subject to accreditation or approval by the accrediting entity.

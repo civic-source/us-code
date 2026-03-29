@@ -1,0 +1,15 @@
+---
+title: "Section 20113 - Enforcement by the States"
+usc_title: 49
+usc_section: "20113"
+chapter: 201
+current_through: "PL 119-73"
+classification: "49 U.S.C. § 20113"
+generated_at: "2026-03-29T00:33:13.789Z"
+---
+
+# § 20113. Enforcement by the States
+
+(a) If the Secretary of Transportation does not begin a civil action under section 20112 of this title to enjoin the violation of a railroad safety regulation prescribed or order issued by the Secretary not later than 15 days after the date the Secretary receives notice of the violation and a request from a State authority participating in investigative and surveillance activities under section 20105 of this title that the action be brought, the authority may bring a civil action in a district court of the United States to enjoin the violation. This subsection does not apply if the Secretary makes an affirmative written finding that the violation did not occur or that the action is not necessary because of other enforcement action taken by the Secretary related to the violation.
+(b) If the Secretary does not impose the applicable civil penalty for a violation of a railroad safety regulation prescribed or order issued by the Secretary not later than 60 days after the date of receiving notice from a State authority participating in investigative and surveillance activities under section 20105 of this title , the authority may bring a civil action in a district court of the United States to impose and collect the penalty. This paragraph does not apply if the Secretary makes an affirmative written finding that the violation did not occur.
+(c) A civil action under this section may be brought in the judicial district in which the violation occurred or the defendant has its principal executive office. However, a State authority may not bring an action under this section outside the State.

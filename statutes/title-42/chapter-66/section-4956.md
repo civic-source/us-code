@@ -1,0 +1,14 @@
+---
+title: "Section 4956 - Participation of program beneficiaries"
+usc_title: 42
+usc_section: "4956"
+chapter: 66
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 4956"
+generated_at: "2026-03-29T00:32:53.886Z"
+---
+
+# § 4956. Participation of program beneficiaries
+
+To the maximum extent practicable, the people of the communities to be served by volunteers under this subchapter shall participate in planning, developing, and implementing programs thereunder, and the Director, after consultation with sponsoring agencies (including volunteers assigned to them) and the people served by such agencies, shall establish in regulations, a continuing mechanism for the meaningful participation of such program beneficiaries.
+

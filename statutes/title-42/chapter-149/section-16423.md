@@ -1,0 +1,20 @@
+---
+title: "Section 16423 - Advanced Power System Technology Incentive Program"
+usc_title: 42
+usc_section: "16423"
+chapter: 149
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 16423"
+generated_at: "2026-03-29T00:32:54.409Z"
+---
+
+# § 16423. Advanced Power System Technology Incentive Program
+
+(a) The Secretary is authorized to establish an Advanced Power System Technology Incentive Program to support the deployment of certain advanced power system technologies and to improve and protect certain critical governmental, industrial, and commercial processes. Funds provided under this section shall be used by the Secretary to make incentive payments to eligible owners or operators of advanced power system technologies to increase power generation through enhanced operational, economic, and environmental performance. Payments under this section may only be made upon receipt by the Secretary of an incentive payment application establishing an applicant as either—
+  (1) a qualifying advanced power system technology facility; or
+  (2) a qualifying security and assured power facility.
+(b) Subject to availability of funds, a payment of 1.8 cents per kilowatt-hour shall be paid to the owner or operator of a qualifying advanced power system technology facility under this section for electricity generated at such facility. An additional 0.7 cents per kilowatt-hour shall be paid to the owner or operator of a qualifying security and assured power facility for electricity generated at such facility. Any facility qualifying under this section shall be eligible for an incentive payment for up to, but not more than, the first 10,000,000 kilowatt-hours produced in any fiscal year.
+(c) For purposes of this section:
+  (1) The term “qualifying advanced power system technology facility” means a facility using an advanced fuel cell, turbine, or hybrid power system or power storage system to generate or store electric energy.
+  (2) The term “qualifying security and assured power facility” means a qualifying advanced power system technology facility determined by the Secretary, in consultation with the Secretary of Homeland Security, to be in critical need of secure, reliable, rapidly available, high-quality power for critical governmental, industrial, or commercial applications.
+(d) There are authorized to be appropriated to the Secretary for the purposes of this section, $10,000,000 for each of the fiscal years 2006 through 2012.

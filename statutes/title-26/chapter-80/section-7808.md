@@ -1,0 +1,14 @@
+---
+title: "Section 7808 - Depositaries for collections"
+usc_title: 26
+usc_section: "7808"
+chapter: 80
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 7808"
+generated_at: "2026-03-29T00:31:21.116Z"
+---
+
+# § 7808. Depositaries for collections
+
+The Secretary is authorized to designate one or more depositaries in each State for the deposit and safe-keeping of the money collected by virtue of the internal revenue laws; and the receipt of the proper officer of such depositary to the proper officer or employee of the Treasury Department for the money deposited by him shall be a sufficient voucher for such Treasury officer or employee in the settlement of his accounts.
+

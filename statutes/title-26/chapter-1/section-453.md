@@ -1,0 +1,129 @@
+---
+title: "Section 453 - Installment method"
+usc_title: 26
+usc_section: "453"
+chapter: 1
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 453"
+generated_at: "2026-03-29T00:31:20.753Z"
+---
+
+# § 453. Installment method
+
+(a) Except as otherwise provided in this section, income from an installment sale shall be taken into account for purposes of this title under the installment method.
+(b) For purposes of this section—
+  (1) The term “installment sale” means a disposition of property where at least 1 payment is to be received after the close of the taxable year in which the disposition occurs.
+  (2) The term “installment sale” does not include—
+    (A) Any dealer disposition (as defined in subsection ( l )).
+    (B) A disposition of personal property of a kind which is required to be included in the inventory of the taxpayer if on hand at the close of the taxable year.
+(c) For purposes of this section, the term “installment method” means a method under which the income recognized for any taxable year from a disposition is that proportion of the payments received in that year which the gross profit (realized or to be realized when payment is completed) bears to the total contract price.
+(d) 
+  (1) Subsection (a) shall not apply to any disposition if the taxpayer elects to have subsection (a) not apply to such disposition.
+  (2) Except as otherwise provided by regulations, an election under paragraph (1) with respect to a disposition may be made only on or before the due date prescribed by law (including extensions) for filing the taxpayer’s return of the tax imposed by this chapter for the taxable year in which the disposition occurs. Such an election shall be made in the manner prescribed by regulations.
+  (3) An election under paragraph (1) with respect to any disposition may be revoked only with the consent of the Secretary.
+(e) 
+  (1) If—
+    (A) any person disposes of property to a related person (hereinafter in this subsection referred to as the “first disposition”), and
+    (B) before the person making the first disposition receives all payments with respect to such disposition, the related person disposes of the property (hereinafter in this subsection referred to as the “second disposition”),
+  (2) 
+    (A) Except in the case of marketable securities, paragraph (1) shall apply only if the date of the second disposition is not more than 2 years after the date of the first disposition.
+    (B) The running of the 2-year period set forth in subparagraph (A) shall be suspended with respect to any property for any period during which the related person’s risk of loss with respect to the property is substantially diminished by—
+      (i) the holding of a put with respect to such property (or similar property),
+      (ii) the holding by another person of a right to acquire the property, or
+      (iii) a short sale or any other transaction.
+  (3) The amount treated for any taxable year as received by the person making the first disposition by reason of paragraph (1) shall not exceed the excess of—
+    (A) the lesser of—
+      (i) the total amount realized with respect to any second disposition of the property occurring before the close of the taxable year, or
+      (ii) the total contract price for the first disposition, over
+    (B) the sum of—
+      (i) the aggregate amount of payments received with respect to the first disposition before the close of such year, plus
+      (ii) the aggregate amount treated as received with respect to the first disposition for prior taxable years by reason of this subsection.
+  (4) For purposes of this subsection, if the second disposition is not a sale or exchange, an amount equal to the fair market value of the property disposed of shall be substituted for the amount realized.
+  (5) If paragraph (1) applies for any taxable year, payments received in subsequent taxable years by the person making the first disposition shall not be treated as the receipt of payments with respect to the first disposition to the extent that the aggregate of such payments does not exceed the amount treated as received by reason of paragraph (1).
+  (6) For purposes of this subsection—
+    (A) Any sale or exchange of stock to the issuing corporation shall not be treated as a first disposition.
+    (B) A compulsory or involuntary conversion (within the meaning of section 1033) and any transfer thereafter shall not be treated as a second disposition if the first disposition occurred before the threat or imminence of the conversion.
+    (C) Any transfer after the earlier of—
+      (i) the death of the person making the first disposition, or
+      (ii) the death of the person acquiring the property in the first disposition,
+  (7) This subsection shall not apply to a second disposition (and any transfer thereafter) if it is established to the satisfaction of the Secretary that neither the first disposition nor the second disposition had as one of its principal purposes the avoidance of Federal income tax.
+  (8) The period for assessing a deficiency with respect to a first disposition (to the extent such deficiency is attributable to the application of this subsection) shall not expire before the day which is 2 years after the date on which the person making the first disposition furnishes (in such manner as the Secretary may by regulations prescribe) a notice that there was a second disposition of the property to which this subsection may have applied. Such deficiency may be assessed notwithstanding the provisions of any law or rule of law which would otherwise prevent such assessment.
+(f) For purposes of this section—
+  (1) Except for purposes of subsections (g) and (h), the term “related person” means—
+    (A) a person whose stock would be attributed under section 318(a) (other than paragraph (4) thereof) to the person first disposing of the property, or
+    (B) a person who bears a relationship described in section 267(b) to the person first disposing of the property.
+  (2) The term “marketable securities” means any security for which, as of the date of the disposition, there was a market on an established securities market or otherwise.
+  (3) Except as provided in paragraph (4), the term “payment” does not include the receipt of evidences of indebtedness of the person acquiring the property (whether or not payment of such indebtedness is guaranteed by another person).
+  (4) Receipt of a bond or other evidence of indebtedness which—
+    (A) is payable on demand, or
+    (B) is readily tradable,
+  (5) For purposes of paragraph (4), the term “readily tradable” means a bond or other evidence of indebtedness which is issued—
+    (A) with interest coupons attached or in registered form (other than one in registered form which the taxpayer establishes will not be readily tradable in an established securities market), or
+    (B) in any other form designed to render such bond or other evidence of indebtedness readily tradable in an established securities market.
+  (6) In the case of any exchange described in section 1031(b)—
+    (A) the total contract price shall be reduced to take into account the amount of any property permitted to be received in such exchange without recognition of gain,
+    (B) the gross profit from such exchange shall be reduced to take into account any amount not recognized by reason of section 1031(b), and
+    (C) the term “payment”, when used in any provision of this section other than subsection (b)(1), shall not include any property permitted to be received in such exchange without recognition of gain.
+  (7) The term “depreciable property” means property of a character which (in the hands of the transferee) is subject to the allowance for depreciation provided in section 167.
+  (8) The term “payments to be received” includes—
+    (A) the aggregate amount of all payments which are not contingent as to amount, and
+    (B) the fair market value of any payments which are contingent as to amount.
+(g) 
+  (1) In the case of an installment sale of depreciable property between related persons—
+    (A) subsection (a) shall not apply,
+    (B) for purposes of this title—
+      (i) except as provided in clause (ii), all payments to be received shall be treated as received in the year of the disposition, and
+      (ii) in the case of any payments which are contingent as to the amount but with respect to which the fair market value may not be reasonably ascertained, the basis shall be recovered ratably, and
+    (C) the purchaser may not increase the basis of any property acquired in such sale by any amount before the time such amount is includible in the gross income of the seller.
+  (2) Paragraph (1) shall not apply if it is established to the satisfaction of the Secretary that the disposition did not have as one of its principal purposes the avoidance of Federal income tax.
+  (3) For purposes of this subsection, the term “related persons” has the meaning given to such term by section 1239(b), except that such term shall include 2 or more partnerships having a relationship to each other described in section 707(b)(1)(B).
+(h) 
+  (1) 
+    (A) If, in a liquidation to which section 331 applies, the shareholder receives (in exchange for the shareholder’s stock) an installment obligation acquired in respect of a sale or exchange by the corporation during the 12-month period beginning on the date a plan of complete liquidation is adopted and the liquidation is completed during such 12-month period, then, for purposes of this section, the receipt of payments under such obligation (but not the receipt of such obligation) by the shareholder shall be treated as the receipt of payment for the stock.
+    (B) Subparagraph (A) shall not apply to an installment obligation acquired in respect of a sale or exchange of—
+      (i) stock in trade of the corporation,
+      (ii) other property of a kind which would properly be included in the inventory of the corporation if on hand at the close of the taxable year, and
+      (iii) property held by the corporation primarily for sale to customers in the ordinary course of its trade or business,
+    (C) If the obligor of any installment obligation and the shareholder are married to each other or are related persons (within the meaning of section 1239(b)), to the extent such installment obligation is attributable to the disposition by the corporation of depreciable property—
+      (i) subparagraph (A) shall not apply to such obligation, and
+      (ii) for purposes of this title, all payments to be received by the shareholder shall be deemed received in the year the shareholder receives the obligation.
+    (D) For purposes of subsection (e)(1)(A), disposition of property by the corporation shall be treated also as disposition of such property by the shareholder.
+    (E) For purposes of subparagraph (A), in the case of a controlling corporate shareholder (within the meaning of section 368(c)) of a selling corporation, an obligation acquired in respect of a sale or exchange by the selling corporation shall be treated as so acquired by such controlling corporate shareholder. The preceding sentence shall be applied successively to each controlling corporate shareholder above such controlling corporate shareholder.
+  (2) If—
+    (A) paragraph (1) applies with respect to any installment obligation received by a shareholder from a corporation, and
+    (B) by reason of the liquidation such shareholder receives property in more than 1 taxable year,
+(i) 
+  (1) In the case of any installment sale of property to which subsection (a) applies—
+    (A) notwithstanding subsection (a), any recapture income shall be recognized in the year of the disposition, and
+    (B) any gain in excess of the recapture income shall be taken into account under the installment method.
+  (2) For purposes of paragraph (1), the term “recapture income” means, with respect to any installment sale, the aggregate amount which would be treated as ordinary income under section 1245 or 1250 (or so much of section 751 as relates to section 1245 or 1250) for the taxable year of the disposition if all payments to be received were received in the taxable year of disposition.
+(j) 
+  (1) The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the provisions of this section.
+  (2) The regulations prescribed under paragraph (1) shall include regulations providing for ratable basis recovery in transactions where the gross profit or the total contract price (or both) cannot be readily ascertained.
+(k) In the case of—
+  (1) any disposition of personal property under a revolving credit plan, or
+  (2) any installment obligation arising out of a sale of—
+    (A) stock or securities which are traded on an established securities market, or
+    (B) to the extent provided in regulations, property (other than stock or securities) of a kind regularly traded on an established market,
+(l) For purposes of subsection (b)(2)(A)—
+  (1) The term “dealer disposition” means any of the following dispositions:
+    (A) Any disposition of personal property by a person who regularly sells or otherwise disposes of personal property of the same type on the installment plan.
+    (B) Any disposition of real property which is held by the taxpayer for sale to customers in the ordinary course of the taxpayer’s trade or business.
+  (2) The term “dealer disposition” does not include—
+    (A) The disposition on the installment plan of any property used or produced in the trade or business of farming (within the meaning of section 2032A(e)(4) or (5)).
+    (B) 
+      (i) Any dispositions described in clause (ii) on the installment plan if the taxpayer elects to have paragraph (3) apply to any installment obligations which arise from such dispositions. An election under this paragraph shall not apply with respect to an installment obligation which is guaranteed by any person other than an individual.
+      (ii) A disposition is described in this clause if it is a disposition in the ordinary course of the taxpayer’s trade or business to an individual of—
+        (I) a timeshare right to use or a timeshare ownership interest in residential real property for not more than 6 weeks per year, or a right to use specified campgrounds for recreational purposes, or
+        (II) any residential lot, but only if the taxpayer (or any related person) is not to make any improvements with respect to such lot.
+    (C) Any carrying charges or interest with respect to a disposition described in subparagraph (A) or (B) which are added on the books of account of the seller to the established cash selling price of the property shall be included in the total contract price of the property and, if such charges or interest are not so included, any payments received shall be treated as applying first against such carrying charges or interest.
+  (3) 
+    (A) In the case of any installment obligation to which paragraph (2)(B) applies, the tax imposed by this chapter for any taxable year for which payment is received on such obligation shall be increased by the amount of interest determined in the manner provided under subparagraph (B).
+    (B) 
+      (i) The amount of interest referred to in subparagraph (A) for any taxable year shall be determined—
+        (I) on the amount of the tax for such taxable year which is attributable to the payments received during such taxable year on installment obligations to which this subsection applies,
+        (II) for the period beginning on the date of sale, and ending on the date such payment is received, and
+        (III) by using the applicable Federal rate under section 1274 (without regard to subsection (d)(2) thereof) in effect at the time of the sale compounded semiannually.
+      (ii) For purposes of clause (i), the portion of any tax attributable to the receipt of any payment shall be determined without regard to any interest imposed under subparagraph (A).
+      (iii) No interest shall be determined for any payment received in the taxable year of the disposition from which the installment obligation arises.
+    (C) Any amount payable under this paragraph shall be taken into account in computing the amount of any deduction allowable to the taxpayer for interest paid or accrued during such taxable year.

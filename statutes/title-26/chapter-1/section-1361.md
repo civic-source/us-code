@@ -1,0 +1,125 @@
+---
+title: "Section 1361 - S corporation defined"
+usc_title: 26
+usc_section: "1361"
+chapter: 1
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 1361"
+generated_at: "2026-03-29T00:31:20.885Z"
+---
+
+# § 1361. S corporation defined
+
+(a) 
+  (1) For purposes of this title, the term “S corporation” means, with respect to any taxable year, a small business corporation for which an election under section 1362(a) is in effect for such year.
+  (2) For purposes of this title, the term “C corporation” means, with respect to any taxable year, a corporation which is not an S corporation for such year.
+(b) 
+  (1) For purposes of this subchapter, the term “small business corporation” means a domestic corporation which is not an ineligible corporation and which does not—
+    (A) have more than 100 shareholders,
+    (B) have as a shareholder a person (other than an estate, a trust described in subsection (c)(2), or an organization described in subsection (c)(6)) who is not an individual,
+    (C) have a nonresident alien as a shareholder, and
+    (D) have more than 1 class of stock.
+  (2) For purposes of paragraph (1), the term “ineligible corporation” means any corporation which is—
+    (A) a financial institution which uses the reserve method of accounting for bad debts described in section 585,
+    (B) an insurance company subject to tax under subchapter L, or
+    (C) a DISC or former DISC.
+  (3) 
+    (A) Except as provided in regulations prescribed by the Secretary, for purposes of this title—
+      (i) a corporation which is a qualified subchapter S subsidiary shall not be treated as a separate corporation, and
+      (ii) all assets, liabilities, and items of income, deduction, and credit of a qualified subchapter S subsidiary shall be treated as assets, liabilities, and such items (as the case may be) of the S corporation.
+    (B) For purposes of this paragraph, the term “qualified subchapter S subsidiary” means any domestic corporation which is not an ineligible corporation (as defined in paragraph (2)), if—
+      (i) 100 percent of the stock of such corporation is held by the S corporation, and
+      (ii) the S corporation elects to treat such corporation as a qualified subchapter S subsidiary.
+    (C) 
+      (i) For purposes of this title, if any corporation which was a qualified subchapter S subsidiary ceases to meet the requirements of subparagraph (B), such corporation shall be treated as a new corporation acquiring all of its assets (and assuming all of its liabilities) immediately before such cessation from the S corporation in exchange for its stock.
+      (ii) If the failure to meet the requirements of subparagraph (B) is by reason of the sale of stock of a corporation which is a qualified subchapter S subsidiary, the sale of such stock shall be treated as if—
+        (I) the sale were a sale of an undivided interest in the assets of such corporation (based on the percentage of the corporation’s stock sold), and
+        (II) the sale were followed by an acquisition by such corporation of all of its assets (and the assumption by such corporation of all of its liabilities) in a transaction to which section 351 applies.
+    (D) If a corporation’s status as a qualified subchapter S subsidiary terminates, such corporation (and any successor corporation) shall not be eligible to make—
+      (i) an election under subparagraph (B)(ii) to be treated as a qualified subchapter S subsidiary, or
+      (ii) an election under section 1362(a) to be treated as an S corporation,
+    (E) Except to the extent provided by the Secretary, this paragraph shall not apply to part III of subchapter A of chapter 61 (relating to information returns).
+(c) 
+  (1) 
+    (A) For purposes of subsection (b)(1)(A), there shall be treated as one shareholder—
+      (i) a husband and wife (and their estates), and
+      (ii) all members of a family (and their estates).
+    (B) For purposes of this paragraph—
+      (i) The term “members of a family” means a common ancestor, any lineal descendant of such common ancestor, and any spouse or former spouse of such common ancestor or any such lineal descendant.
+      (ii) An individual shall not be considered to be a common ancestor if, on the applicable date, the individual is more than 6 generations removed from the youngest generation of shareholders who would (but for this subparagraph) be members of the family. For purposes of the preceding sentence, a spouse (or former spouse) shall be treated as being of the same generation as the individual to whom such spouse is (or was) married.
+      (iii) The term “applicable date” means the latest of—
+        (I) the date the election under section 1362(a) is made,
+        (II) the earliest date that an individual described in clause (i) holds stock in the S corporation, or
+        (III) October 22, 2004 .
+    (C) Any legally adopted child of an individual, any child who is lawfully placed with an individual for legal adoption by the individual, and any eligible foster child of an individual (within the meaning of section 152(f)(1)(C)), shall be treated as a child of such individual by blood.
+  (2) 
+    (A) For purposes of subsection (b)(1)(B), the following trusts may be shareholders:
+      (i) A trust all of which is treated (under subpart E of part I of subchapter J of this chapter) as owned by an individual who is a citizen or resident of the United States.
+      (ii) A trust which was described in clause (i) immediately before the death of the deemed owner and which continues in existence after such death, but only for the 2-year period beginning on the day of the deemed owner’s death.
+      (iii) A trust with respect to stock transferred to it pursuant to the terms of a will, but only for the 2-year period beginning on the day on which such stock is transferred to it.
+      (iv) A trust created primarily to exercise the voting power of stock transferred to it.
+      (v) An electing small business trust.
+      (vi) In the case of a corporation which is a bank (as defined in section 581) or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act ( 12 U.S.C. 1813(w)(1) ), a trust which constitutes an individual retirement account under section 408(a), including one designated as a Roth IRA under section 408A, but only to the extent of the stock held by such trust in such bank or company as of the date of the enactment of this clause.
+    (B) For purposes of subsection (b)(1)—
+      (i) In the case of a trust described in clause (i) of subparagraph (A), the deemed owner shall be treated as the shareholder.
+      (ii) In the case of a trust described in clause (ii) of subparagraph (A), the estate of the deemed owner shall be treated as the shareholder.
+      (iii) In the case of a trust described in clause (iii) of subparagraph (A), the estate of the testator shall be treated as the shareholder.
+      (iv) In the case of a trust described in clause (iv) of subparagraph (A), each beneficiary of the trust shall be treated as a shareholder.
+      (v) In the case of a trust described in clause (v) of subparagraph (A), each potential current beneficiary of such trust shall be treated as a shareholder; except that, if for any period there is no potential current beneficiary of such trust, such trust shall be treated as the shareholder during such period. This clause shall not apply for purposes of subsection (b)(1)(C).
+      (vi) In the case of a trust described in clause (vi) of subparagraph (A), the individual for whose benefit the trust was created shall be treated as the shareholder.
+  (3) For purposes of subsection (b)(1)(B), the term “estate” includes the estate of an individual in a case under title 11 of the United States Code.
+  (4) For purposes of subsection (b)(1)(D), a corporation shall not be treated as having more than 1 class of stock solely because there are differences in voting rights among the shares of common stock.
+  (5) 
+    (A) For purposes of subsection (b)(1)(D), straight debt shall not be treated as a second class of stock.
+    (B) For purposes of this paragraph, the term “straight debt” means any written unconditional promise to pay on demand or on a specified date a sum certain in money if—
+      (i) the interest rate (and interest payment dates) are not contingent on profits, the borrower’s discretion, or similar factors,
+      (ii) there is no convertibility (directly or indirectly) into stock, and
+      (iii) the creditor is an individual (other than a nonresident alien), an estate, a trust described in paragraph (2), or a person which is actively and regularly engaged in the business of lending money.
+    (C) The Secretary shall prescribe such regulations as may be necessary or appropriate to provide for the proper treatment of straight debt under this subchapter and for the coordination of such treatment with other provisions of this title.
+  (6) For purposes of subsection (b)(1)(B), an organization which is—
+    (A) described in section 401(a) or 501(c)(3), and
+    (B) exempt from taxation under section 501(a),
+(d) 
+  (1) In the case of a qualified subchapter S trust with respect to which a beneficiary makes an election under paragraph (2)—
+    (A) such trust shall be treated as a trust described in subsection (c)(2)(A)(i),
+    (B) for purposes of section 678(a), the beneficiary of such trust shall be treated as the owner of that portion of the trust which consists of stock in an S corporation with respect to which the election under paragraph (2) is made, and
+    (C) for purposes of applying sections 465 and 469 to the beneficiary of the trust, the disposition of the S corporation stock by the trust shall be treated as a disposition by such beneficiary.
+  (2) 
+    (A) A beneficiary of a qualified subchapter S trust (or his legal representative) may elect to have this subsection apply.
+    (B) 
+      (i) An election under this paragraph shall be made separately with respect to each corporation the stock of which is held by the trust.
+      (ii) If there is an election under this paragraph with respect to any beneficiary, an election under this paragraph shall be treated as made by each successive beneficiary unless such beneficiary affirmatively refuses to consent to such election.
+      (iii) Any election, or refusal, under this paragraph shall be made in such manner and form, and at such time, as the Secretary may prescribe.
+    (C) An election under this paragraph, once made, may be revoked only with the consent of the Secretary.
+    (D) An election under this paragraph shall be effective up to 15 days and 2 months before the date of the election.
+  (3) For purposes of this subsection, the term “qualified subchapter S trust” means a trust—
+    (A) the terms of which require that—
+      (i) during the life of the current income beneficiary, there shall be only 1 income beneficiary of the trust,
+      (ii) any corpus distributed during the life of the current income beneficiary may be distributed only to such beneficiary,
+      (iii) the income interest of the current income beneficiary in the trust shall terminate on the earlier of such beneficiary’s death or the termination of the trust, and
+      (iv) upon the termination of the trust during the life of the current income beneficiary, the trust shall distribute all of its assets to such beneficiary, and
+    (B) all of the income (within the meaning of section 643(b)) of which is distributed (or required to be distributed) currently to 1 individual who is a citizen or resident of the United States.
+  (4) 
+    (A) If a qualified subchapter S trust ceases to meet any requirement of paragraph (3)(A), the provisions of this subsection shall not apply to such trust as of the date it ceases to meet such requirement.
+    (B) If any qualified subchapter S trust ceases to meet any requirement of paragraph (3)(B) but continues to meet the requirements of paragraph (3)(A), the provisions of this subsection shall not apply to such trust as of the first day of the first taxable year beginning after the first taxable year for which it failed to meet the requirements of paragraph (3)(B).
+(e) 
+  (1) For purposes of this section—
+    (A) Except as provided in subparagraph (B), the term “electing small business trust” means any trust if—
+      (i) such trust does not have as a beneficiary any person other than (I) an individual, (II) an estate, (III) an organization described in paragraph (2), (3), (4), or (5) of section 170(c), or (IV) an organization described in section 170(c)(1) which holds a contingent interest in such trust and is not a potential current beneficiary,
+      (ii) no interest in such trust was acquired by purchase, and
+      (iii) an election under this subsection applies to such trust.
+    (B) The term “electing small business trust” shall not include—
+      (i) any qualified subchapter S trust (as defined in subsection (d)(3)) if an election under subsection (d)(2) applies to any corporation the stock of which is held by such trust,
+      (ii) any trust exempt from tax under this subtitle, and
+      (iii) any charitable remainder annuity trust or charitable remainder unitrust (as defined in section 664(d)).
+    (C) For purposes of subparagraph (A), the term “purchase” means any acquisition if the basis of the property acquired is determined under section 1012.
+  (2) For purposes of this section, the term “potential current beneficiary” means, with respect to any period, any person who at any time during such period is entitled to, or at the discretion of any person may receive, a distribution from the principal or income of the trust (determined without regard to any power of appointment to the extent such power remains unexercised at the end of such period). If a trust disposes of all of the stock which it holds in an S corporation, then, with respect to such corporation, the term “potential current beneficiary” does not include any person who first met the requirements of the preceding sentence during the 1-year period ending on the date of such disposition.
+  (3) An election under this subsection shall be made by the trustee. Any such election shall apply to the taxable year of the trust for which made and all subsequent taxable years of such trust unless revoked with the consent of the Secretary.
+  (4) For special treatment of electing small business trusts, see section 641(c).
+(f) 
+  (1) Restricted bank director stock shall not be taken into account as outstanding stock of the S corporation in applying this subchapter (other than section 1368(f)).
+  (2) For purposes of this subsection, the term “restricted bank director stock” means stock in a bank (as defined in section 581) or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act ( 12 U.S.C. 1813(w)(1) )), if such stock—
+    (A) is required to be held by an individual under applicable Federal or State law in order to permit such individual to serve as a director, and
+    (B) is subject to an agreement with such bank or company (or a corporation which controls (within the meaning of section 368(c)) such bank or company) pursuant to which the holder is required to sell back such stock (at the same price as the individual acquired such stock) upon ceasing to hold the office of director.
+  (3) For treatment of certain distributions with respect to restricted bank director stock, see section 1368(f).
+(g) In the case of a bank which changes from the reserve method of accounting for bad debts described in section 585 or 593 for its first taxable year for which an election under section 1362(a) is in effect, the bank may elect to take into account any adjustments under section 481 by reason of such change for the taxable year immediately preceding such first taxable year.

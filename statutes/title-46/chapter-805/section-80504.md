@@ -1,0 +1,19 @@
+---
+title: "Section 80504 - Approval and examination"
+usc_title: 46
+usc_section: "80504"
+chapter: 805
+current_through: "PL 119-73"
+classification: "46 U.S.C. § 80504"
+generated_at: "2026-03-29T00:33:02.969Z"
+---
+
+# § 80504. Approval and examination
+
+(a) A container owner domiciled and having its principal office in the United States shall have the container—
+  (1) approved initially under procedures prescribed by the Secretary of the department in which the Coast Guard is operating or by the government of another country that is a party to the Convention; and
+  (2) examined periodically as provided in the Convention under procedures prescribed by the Secretary.
+(b) A container owner domiciled or having its principal office in the United States shall have the container—
+  (1) approved initially under procedures prescribed by the Secretary or by the government of another country that is a party to the Convention; and
+  (2) examined periodically as provided in the Convention, under procedures prescribed by the government of the country in which the owner is domiciled or has its principal office, as long as that country is a party to the Convention.
+(c) A container owner neither domiciled nor having its principal office in the United States or another country that is a party to the Convention may submit a container for initial approval and periodic examination under procedures prescribed by the Secretary.

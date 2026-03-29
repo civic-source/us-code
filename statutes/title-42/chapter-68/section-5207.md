@@ -1,0 +1,22 @@
+---
+title: "Section 5207 - Firearms policies"
+usc_title: 42
+usc_section: "5207"
+chapter: 68
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 5207"
+generated_at: "2026-03-29T00:32:53.915Z"
+---
+
+# § 5207. Firearms policies
+
+(a) No officer or employee of the United States (including any member of the uniformed services), or person operating pursuant to or under color of Federal law, or receiving Federal funds, or under control of any Federal official, or providing services to such an officer, employee, or other person, while acting in support of relief from a major disaster or emergency, may—
+  (1) temporarily or permanently seize, or authorize seizure of, any firearm the possession of which is not prohibited under Federal, State, or local law, other than for forfeiture in compliance with Federal law or as evidence in a criminal investigation;
+  (2) require registration of any firearm for which registration is not required by Federal, State, or local law;
+  (3) prohibit possession of any firearm, or promulgate any rule, regulation, or order prohibiting possession of any firearm, in any place or by any person where such possession is not otherwise prohibited by Federal, State, or local law; or
+  (4) prohibit the carrying of firearms by any person otherwise authorized to carry firearms under Federal, State, or local law, solely because such person is operating under the direction, control, or supervision of a Federal agency in support of relief from the major disaster or emergency.
+(b) Nothing in this section shall be construed to prohibit any person in subsection (a) from requiring the temporary surrender of a firearm as a condition for entry into any mode of transportation used for rescue or evacuation during a major disaster or emergency, provided that such temporarily surrendered firearm is returned at the completion of such rescue or evacuation.
+(c) 
+  (1) Any individual aggrieved by a violation of this section may seek relief in an action at law, suit in equity, or other proper proceeding for redress against any person who subjects such individual, or causes such individual to be subjected, to the deprivation of any of the rights, privileges, or immunities secured by this section.
+  (2) In addition to any existing remedy in law or equity, under any law, an individual aggrieved by the seizure or confiscation of a firearm in violation of this section may bring an action for return of such firearm in the United States district court in the district in which that individual resides or in which such firearm may be found.
+  (3) In any action or proceeding to enforce this section, the court shall award the prevailing party, other than the United States, a reasonable attorney’s fee as part of the costs.

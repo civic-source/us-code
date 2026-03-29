@@ -1,0 +1,21 @@
+---
+title: "Section 17158 - Funding"
+usc_title: 42
+usc_section: "17158"
+chapter: 152
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 17158"
+generated_at: "2026-03-29T00:32:54.430Z"
+---
+
+# § 17158. Funding
+
+(a) 
+  (1) There is authorized to be appropriated to the Secretary for the provision of grants under the program $2,000,000,000 for each of fiscal years 2008 through 2012.
+  (2) There are authorized to be appropriated to the Secretary for administrative expenses of the program—
+    (A) $20,000,000 for each of fiscal years 2008 and 2009;
+    (B) $25,000,000 for each of fiscal years 2010 and 2011; and
+    (C) $30,000,000 for fiscal year 2012.
+(b) The funding provided under this section shall supplement (and not supplant) other Federal funding provided under—
+  (1) a State energy conservation plan established under part D of title III of the Energy Policy and Conservation Act ( 42 U.S.C. 6321 et seq.); or
+  (2) the Weatherization Assistance Program for Low-Income Persons established under part A of title IV of the Energy Conservation and Production Act ( 42 U.S.C. 6861 et seq.).

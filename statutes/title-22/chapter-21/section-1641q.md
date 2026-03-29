@@ -1,0 +1,14 @@
+---
+title: "Section 1641q - Applicability of administrative provisions of subchapter I"
+usc_title: 22
+usc_section: "1641q"
+chapter: 21
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 1641q"
+generated_at: "2026-03-29T00:30:33.734Z"
+---
+
+# § 1641q. Applicability of administrative provisions of subchapter I
+
+The following provisions of subchapter I shall be applicable to this subchapter: Subsections (b), (c), (d), (e), (h), and (j) of section 1623 of this title ; and subsections (c), (d), (e), and (f) of section 1626 of this title .
+

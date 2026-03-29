@@ -1,0 +1,27 @@
+---
+title: "Section 60107 - State pipeline safety grants"
+usc_title: 49
+usc_section: "60107"
+chapter: 601
+current_through: "PL 119-73"
+classification: "49 U.S.C. § 60107"
+generated_at: "2026-03-29T00:33:13.944Z"
+---
+
+# § 60107. State pipeline safety grants
+
+(a) If a State authority files an application not later than September 30 of a calendar year, the Secretary of Transportation shall pay not more than 80 percent of the cost of the personnel, equipment, and activities the authority reasonably requires during the next calendar year—
+  (1) to carry out a safety program under a certification under section 60105 of this title or an agreement under section 60106 of this title ; or
+  (2) to act as an agent of the Secretary on interstate gas pipeline facilities or interstate hazardous liquid pipeline facilities.
+(b) After notifying and consulting with a State authority, the Secretary may withhold any part of a payment when the Secretary decides that the authority is not carrying out satisfactorily a safety program or not acting satisfactorily as an agent. The Secretary may pay an authority under this section only when the authority ensures the Secretary that it will provide the remaining costs of a safety program, except when the Secretary waives this requirement.
+(c) The Secretary shall apportion the amount appropriated to carry out this section among the States. A payment may be made under this section in installments, in advance, or on a reimbursable basis.
+(d) 
+  (1) The Secretary may prescribe—
+    (A) the form of, and way of filing, an application under this section;
+    (B) reporting and fiscal procedures the Secretary considers necessary to ensure the proper accounting of money of the Government; and
+    (C) qualifications for a State to meet to receive a payment under this section, including qualifications for State employees who perform inspection activities under section 60105 or 60106 of this title.
+  (2) The qualifications prescribed under paragraph (1)(C) of this subsection may—
+    (A) consider the experience and training of the employee;
+    (B) order training or other requirements; and
+    (C) provide for approval of qualifications on a conditional basis until specified requirements are met.
+(e) If a State program’s certification is rejected under section 60105(f) or such program is otherwise suspended or interrupted, the Secretary may use any undistributed, deobligated, or recovered funds authorized under this section to carry out pipeline safety activities for that State within the period of availability for such funds.

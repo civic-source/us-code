@@ -1,0 +1,14 @@
+---
+title: "Section 1594e - Definitions"
+usc_title: 42
+usc_section: "1594e"
+chapter: 9
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 1594e"
+generated_at: "2026-03-29T00:32:53.666Z"
+---
+
+# § 1594e. Definitions
+
+(a) Wherever the terms “Secretary of Defense” or “Secretary of the Army, Navy, or Air Force” appear in this title or in title VIII of the National Housing Act, as amended by the Housing Amendments of 1955 [ 12 U.S.C. 1748 et seq.], they shall be deemed to mean the Secretary of Transportation in the case of the application of the provisions of this subchapter or of title VIII of the National Housing Act, as amended by the Housing Amendments of 1955, for the benefit of the United States Coast Guard.
+(b) Wherever the term “armed services” appears in this subchapter it shall be deemed to include the United States Coast Guard.

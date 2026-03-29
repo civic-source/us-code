@@ -1,0 +1,14 @@
+---
+title: "Section 4014 - Refunds"
+usc_title: 16
+usc_section: "4014"
+chapter: 60
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 4014"
+generated_at: "2026-03-29T00:29:52.833Z"
+---
+
+# § 4014. Refunds
+
+Notwithstanding any other provision of this chapter, any person who pays an assessment under this chapter may demand and shall promptly receive from the council a refund of such assessment. A demand for refund must be made in accordance with the procedures, and within such time, as shall be prescribed by the council and approved by the Secretary. Procedures to provide such a refund shall be established before any such assessment may be collected. Such procedures shall allow any person to request a refund for not less than ninety days from such collection, and provide that any such refund shall be made within sixty days after demand for such refund is made.
+

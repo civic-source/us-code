@@ -1,0 +1,16 @@
+---
+title: "Section 908 - Rules of Senate and House of Representatives on reorganization plans"
+usc_title: 5
+usc_section: "908"
+chapter: 9
+current_through: "PL 119-73"
+classification: "5 U.S.C. § 908"
+generated_at: "2026-03-29T00:28:38.290Z"
+---
+
+# § 908. Rules of Senate and House of Representatives on reorganization plans
+
+Sections 909 through 912 of this title are enacted by Congress—
+
+  (1) as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such they are deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions with respect to any reorganization plans transmitted to Congress (in accordance with section 903(b) of this chapter 1 1 So in original. Probably should be “title”. ) on or before December 31, 1984 ; and they supersede other rules only to the extent that they are inconsistent therewith; and
+  (2) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of that House.

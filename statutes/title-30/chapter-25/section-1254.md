@@ -1,0 +1,23 @@
+---
+title: "Section 1254 - Federal programs"
+usc_title: 30
+usc_section: "1254"
+chapter: 25
+current_through: "PL 119-73"
+classification: "30 U.S.C. § 1254"
+generated_at: "2026-03-29T00:31:30.815Z"
+---
+
+# § 1254. Federal programs
+
+(a) The Secretary shall prepare and, subject to the provisions of this section, promulgate and implement a Federal program for a State no later than thirty-four months after August 3, 1977 , if such State—
+  (1) fails to submit a State program covering surface coal mining and reclamation operations by the end of the eighteen-month period beginning on August 3, 1977 ;
+  (2) fails to resubmit an acceptable State program within sixty days of disapproval of a proposed State program: Provided , That the Secretary shall not implement a Federal program prior to the expiration of the initial period allowed for submission of a State program as provided for in clause (1) of this subsection; or
+  (3) fails to implement, enforce, or maintain its approved State program as provided for in this chapter.
+(b) In the event that a State has a State program for surface coal mining, and is not enforcing any part of such program, the Secretary may provide for the Federal enforcement, under the provisions of section 1271 of this title , of that part of the State program not being enforced by such State.
+(c) Prior to promulgation and implementation of any proposed Federal program, the Secretary shall give adequate public notice and hold a public hearing in the affected State.
+(d) Permits issued pursuant to a previously approved State program shall be valid but reviewable under a Federal program. Immediately following promulgation of a Federal program, the Secretary shall undertake to review such permits to determine that the requirements of this chapter are not violated. If the Secretary determines any permit to have been granted contrary to the requirements of this chapter, he shall so advise the permittee and provide him an opportunity for hearing and a reasonable opportunity for submission of a new application and reasonable time, within a time limit prescribed in regulations promulgated pursuant to section 1251(b) of this title , to conform ongoing surface mining and reclamation operations to the requirements of the Federal program.
+(e) A State which has failed to obtain the approval of a State program prior to implementation of a Federal program may submit a State program at any time after such implementation. Upon the submission of such a program, the Secretary shall follow the procedures set forth in section 1253(b) of this title and shall approve or disapprove the State program within six months after its submittal. Approval of a State program shall be based on the determination that the State has the capability of carrying out the provisions of this chapter and meeting its purposes through the criteria set forth in section 1253(a)(1) through (6) of this title. Until a State program is approved as provided under this section, the Federal program shall remain in effect and all actions taken by the Secretary pursuant to such Federal program, including the terms and conditions of any permit issued thereunder shall remain in effect.
+(f) Permits issued pursuant to the Federal program shall be valid under any superseding State program: Provided , That the Federal permittee shall have the right to apply for a State permit to supersede his Federal permit. The State regulatory authority may review such permits to determine that the requirements of this chapter and the approved State program are not violated. Should the State program contain additional requirements not contained in the Federal program, the permittee will be provided opportunity for hearing and a reasonable time, within a time limit prescribed in regulations promulgated pursuant to section 1251 of this title , to conform ongoing surface mining and reclamation operations to the additional State requirements.
+(g) Whenever a Federal program is promulgated for a State pursuant to this chapter, any statutes or regulations of such State which are in effect to regulate surface mining and reclamation operations subject to this chapter shall, insofar as they interfere with the achievement of the purposes and the requirements of this chapter and the Federal program, be preempted and superseded by the Federal program. The Secretary shall set forth any State law or regulation which is preempted and superseded by the Federal program.
+(h) Any Federal program shall include a process for coordinating the review and issuance of permits for surface mining and reclamation operations with any other Federal or State permit process applicable to the proposed operation.

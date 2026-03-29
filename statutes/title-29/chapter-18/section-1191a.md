@@ -1,0 +1,29 @@
+---
+title: "Section 1191a - Special rules relating to group health plans"
+usc_title: 29
+usc_section: "1191a"
+chapter: 18
+current_through: "PL 119-73"
+classification: "29 U.S.C. § 1191a"
+generated_at: "2026-03-29T00:31:27.666Z"
+---
+
+# § 1191a. Special rules relating to group health plans
+
+(a) The requirements of this part (other than section 1185 of this title ) shall not apply to any group health plan (and group health insurance coverage offered in connection with a group health plan) for any plan year if, on the first day of such plan year, such plan has less than 2 participants who are current employees.
+(b) The requirements of this part shall not apply to any group health plan (and group health insurance coverage) in relation to its provision of excepted benefits described in section 1191b(c)(1) of this title .
+(c) 
+  (1) The requirements of this part shall not apply to any group health plan (and group health insurance coverage offered in connection with a group health plan) in relation to its provision of excepted benefits described in section 1191b(c)(2) of this title if the benefits—
+    (A) are provided under a separate policy, certificate, or contract of insurance; or
+    (B) are otherwise not an integral part of the plan.
+  (2) The requirements of this part shall not apply to any group health plan (and group health insurance coverage offered in connection with a group health plan) in relation to its provision of excepted benefits described in section 1191b(c)(3) of this title if all of the following conditions are met:
+    (A) The benefits are provided under a separate policy, certificate, or contract of insurance.
+    (B) There is no coordination between the provision of such benefits and any exclusion of benefits under any group health plan maintained by the same plan sponsor.
+    (C) Such benefits are paid with respect to an event without regard to whether benefits are provided with respect to such an event under any group health plan maintained by the same plan sponsor.
+  (3) The requirements of this part shall not apply to any group health plan (and group health insurance coverage) in relation to its provision of excepted benefits described in section 1191b(c)(4) of this title if the benefits are provided under a separate policy, certificate, or contract of insurance.
+(d) For purposes of this part—
+  (1) Any plan, fund, or program which would not be (but for this subsection) an employee welfare benefit plan and which is established or maintained by a partnership, to the extent that such plan, fund, or program provides medical care (including items and services paid for as medical care) to present or former partners in the partnership or to their dependents (as defined under the terms of the plan, fund, or program), directly or through insurance, reimbursement, or otherwise, shall be treated (subject to paragraph (2)) as an employee welfare benefit plan which is a group health plan.
+  (2) In the case of a group health plan, the term “employer” also includes the partnership in relation to any partner.
+  (3) In the case of a group health plan, the term “participant” also includes—
+    (A) in connection with a group health plan maintained by a partnership, an individual who is a partner in relation to the partnership, or
+    (B) in connection with a group health plan maintained by a self-employed individual (under which one or more employees are participants), the self-employed individual,

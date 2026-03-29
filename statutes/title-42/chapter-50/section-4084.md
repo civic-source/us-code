@@ -1,0 +1,14 @@
+---
+title: "Section 4084 - Records and audits"
+usc_title: 42
+usc_section: "4084"
+chapter: 50
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 4084"
+generated_at: "2026-03-29T00:32:53.858Z"
+---
+
+# § 4084. Records and audits
+
+(a) The flood insurance pool formed or otherwise created under part A of this subchapter, and any insurance company or other private organization executing any contract, agreement, or other appropriate arrangement with the Administrator under part B of this subchapter or this part, shall keep such records as the Administrator shall prescribe, including records which fully disclose the total costs of the program undertaken or the services being rendered, and such other records as will facilitate an effective audit.
+(b) The Administrator and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the pool and any such insurance company or other private organization that are pertinent to the costs of the program undertaken or the services being rendered.

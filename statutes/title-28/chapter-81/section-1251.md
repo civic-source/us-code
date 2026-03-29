@@ -1,0 +1,17 @@
+---
+title: "Section 1251 - Original jurisdiction"
+usc_title: 28
+usc_section: "1251"
+chapter: 81
+current_through: "PL 119-73"
+classification: "28 U.S.C. § 1251"
+generated_at: "2026-03-29T00:31:24.171Z"
+---
+
+# § 1251. Original jurisdiction
+
+(a) The Supreme Court shall have original and exclusive jurisdiction of all controversies between two or more States.
+(b) The Supreme Court shall have original but not exclusive jurisdiction of:
+  (1) All actions or proceedings to which ambassadors, other public ministers, consuls, or vice consuls of foreign states are parties;
+  (2) All controversies between the United States and a State;
+  (3) All actions or proceedings by a State against the citizens of another State or against aliens.

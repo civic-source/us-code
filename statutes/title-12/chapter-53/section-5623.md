@@ -1,0 +1,20 @@
+---
+title: "Section 5623 - Expanded access to mainstream financial institutions"
+usc_title: 12
+usc_section: "5623"
+chapter: 53
+current_through: "PL 119-73"
+classification: "12 U.S.C. § 5623"
+generated_at: "2026-03-29T00:29:16.955Z"
+---
+
+# § 5623. Expanded access to mainstream financial institutions
+
+(a) The Secretary is authorized to establish a multiyear program of grants, cooperative agreements, financial agency agreements, and similar contracts or undertakings to promote initiatives designed—
+  (1) to enable low- and moderate-income individuals to establish one or more accounts in a federally insured depository institution that are appropriate to meet the financial needs of such individuals; and
+  (2) to improve access to the provision of accounts, on reasonable terms, for low- and moderate-income individuals.
+(b) 
+  (1) The Secretary shall restrict participation in any program established under subsection (a) to an eligible entity. Subject to regulations prescribed by the Secretary under this subchapter, 1 or more eligible entities may participate in 1 or several programs established under subsection (a).
+  (2) Subject to regulations prescribed by the Secretary, an eligible entity may, in participating in a program established under subsection (a), offer or provide to low- and moderate-income individuals products and services relating to accounts, including—
+    (A) small-dollar value loans; and
+    (B) financial education and counseling relating to conducting transactions in and managing accounts.

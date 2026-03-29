@@ -1,0 +1,14 @@
+---
+title: "Section 1317 - Tobacco products; supplies for certain vessels and aircraft"
+usc_title: 19
+usc_section: "1317"
+chapter: 4
+current_through: "PL 119-73"
+classification: "19 U.S.C. § 1317"
+generated_at: "2026-03-29T00:30:20.117Z"
+---
+
+# § 1317. Tobacco products; supplies for certain vessels and aircraft
+
+(a) The shipment or delivery of manufactured tobacco, snuff, cigars, or cigarettes, for consumption beyond the jurisdiction of the internal-revenue laws of the United States, as defined by section 2197(a) of title 26 , shall be deemed exportation within the meaning of the customs and internal-revenue laws applicable to the exportation of such articles without payment of duty or internal-revenue tax.
+(b) The shipment or delivery of any merchandise for use as supplies (including equipment) upon, or in the maintenance or repair of any vessel or aircraft described in subdivision (2) or (3) of section 1309(a) of this title , or for use as ground equipment for any such aircraft, shall be deemed an exportation within the meaning of the customs and internal-revenue laws applicable to the exportation of such merchandise without the payment of duty or internal-revenue tax. With respect to merchandise for use as ground equipment, such shipment or delivery shall not be deemed an exportation within the meaning of the internal-revenue laws relating to taxes other than those imposed upon or by reason of importation.

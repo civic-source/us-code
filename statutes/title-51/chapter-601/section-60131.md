@@ -1,0 +1,22 @@
+---
+title: "Section 60131 - Continued Federal research and development"
+usc_title: 51
+usc_section: "60131"
+chapter: 601
+current_through: "PL 119-73"
+classification: "51 U.S.C. § 60131"
+generated_at: "2026-03-29T00:33:19.412Z"
+---
+
+# § 60131. Continued Federal research and development
+
+(a) 
+  (1) The Administrator and the Secretary of Defense are directed to continue and to enhance programs of remote sensing research and development.
+  (2) The Administrator is authorized and encouraged to—
+    (A) conduct experimental space remote sensing programs (including applications demonstration programs and basic research at universities);
+    (B) develop remote sensing technologies and techniques, including those needed for monitoring the Earth and its environment; and
+    (C) conduct such research and development in cooperation with other United States Government agencies and with public and private research entities (including private industry, universities, non-profit organizations, State and local governments, foreign governments, and international organizations) and to enter into arrangements (including joint ventures) which will foster such cooperation.
+(b) 
+  (1) In order to enhance the ability of the United States to manage and utilize its renewable and nonrenewable resources, the Secretary of Agriculture and the Secretary of the Interior are authorized and encouraged to conduct programs of research and development in the applications of remote sensing using funds appropriated for such purposes.
+  (2) Such programs may include basic research at universities, demonstrations of applications, and cooperative activities involving other Government agencies, private sector parties, and foreign and international organizations.
+(c) Other United States Government agencies are authorized and encouraged to conduct research and development on the use of remote sensing in the fulfillment of their authorized missions, using funds appropriated for such purposes.

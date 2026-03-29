@@ -1,0 +1,299 @@
+---
+title: "Section 45 - Electricity produced from certain renewable resources, etc."
+usc_title: 26
+usc_section: "45"
+chapter: 1
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 45"
+generated_at: "2026-03-29T00:31:20.574Z"
+---
+
+# § 45. Electricity produced from certain renewable resources, etc.
+
+(a) For purposes of section 38, the renewable electricity production credit for any taxable year is an amount equal to the product of—
+  (1) 0.3 cents, multiplied by
+  (2) the kilowatt hours of electricity—
+    (A) produced by the taxpayer—
+      (i) from qualified energy resources, and
+      (ii) at a qualified facility during the 10-year period beginning on the date the facility was originally placed in service, and
+    (B) sold by the taxpayer to an unrelated person during the taxable year.
+(b) 
+  (1) The amount of the credit determined under subsection (a) shall be reduced by an amount which bears the same ratio to the amount of the credit (determined without regard to this paragraph) as—
+    (A) the amount by which the reference price for the calendar year in which the sale occurs exceeds 8 cents, bears to
+    (B) 3 cents.
+  (2) The 0.3 cent amount in subsection (a), the 8 cent amount in paragraph (1), the $4.375 amount in subsection (e)(8)(A), the $2 amount in subsection (e)(8)(D)(ii)(I), and in subsection (e)(8)(B)(i) the reference price of fuel used as a feedstock (within the meaning of subsection (c)(7)(A)) in 2002 shall each be adjusted by multiplying such amount by the inflation adjustment factor for the calendar year in which the sale occurs. If the 0.3 cent amount as increased under the preceding sentence is not a multiple of 0.05 cent, such amount shall be rounded to the nearest multiple of 0.05 cent. In any other case, if an amount as increased under this paragraph is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.
+  (3) The amount of the credit determined under subsection (a) with respect to any facility for any taxable year (determined after the application of paragraphs (1) and (2)) shall be reduced by the amount which is the product of the amount so determined for such year and the lesser of 15 percent or a fraction—
+    (A) the numerator of which is the sum, for the taxable year and all prior taxable years, of proceeds of an issue of any obligations the interest on which is exempt from tax under section 103 and which is used to provide financing for the qualified facility, and
+    (B) the denominator of which is the aggregate amount of additions to the capital account for the qualified facility for the taxable year and all prior taxable years.
+  (4) 
+    (A) In the case of electricity produced and sold in any calendar year after 2003 at any qualified facility described in paragraph (3), (5), (6), or (7) of subsection (d), the amount in effect under subsection (a)(1) for such calendar year (determined before the application of the last two sentences of paragraph (2) of this subsection) shall be reduced by one-half.
+    (B) 
+      (i) Except as provided in clause (ii) or clause (iii), in the case of any facility described in paragraph (3), (4), (5), (6), or (7) of subsection (d), the 5-year period beginning on the date the facility was originally placed in service shall be substituted for the 10-year period in subsection (a)(2)(A)(ii).
+      (ii) In the case of any facility described in subsection (d)(3)(A)(ii) placed in service before the date of the enactment of this paragraph, the 5-year period beginning on January 1, 2005 , shall be substituted for the 10-year period in subsection (a)(2)(A)(ii).
+      (iii) Clause (i) shall not apply to any facility placed in service after the date of the enactment of this clause.
+  (5) In the case of any facility using wind to produce electricity which is placed in service before January 1, 2022 , the amount of the credit determined under subsection (a) (determined after the application of paragraphs (1), (2), and (3) and without regard to this paragraph) shall be reduced by—
+    (A) in the case of any facility the construction of which begins after December 31, 2016 , and before January 1, 2018 , 20 percent,
+    (B) in the case of any facility the construction of which begins after December 31, 2017 , and before January 1, 2019 , 40 percent,
+    (C) in the case of any facility the construction of which begins after December 31, 2018 , and before January 1, 2020 , 60 percent, and
+    (D) in the case of any facility the construction of which begins after December 31, 2019 , and before January 1, 2022 , 40 percent.
+  (6) 
+    (A) In the case of any qualified facility which satisfies the requirements of subparagraph (B), the amount of the credit determined under subsection (a) (determined after the application of paragraphs (1) through (5) and without regard to this paragraph) shall be equal to such amount multiplied by 5.
+    (B) A qualified facility meets the requirements of this subparagraph if it is one of the following:
+      (i) A facility with a maximum net output of less than 1 megawatt (as measured in alternating current).
+      (ii) A facility the construction of which begins prior to the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (7)(A) and (8).
+      (iii) A facility which satisfies the requirements of paragraphs (7)(A) and (8).
+  (7) 
+    (A) The requirements described in this subparagraph with respect to any qualified facility are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in—
+      (i) the construction of such facility, and
+      (ii) with respect to any taxable year, for any portion of such taxable year which is within the period described in subsection (a)(2)(A)(ii), the alteration or repair of such facility,
+    (B) 
+      (i) In the case of any taxpayer which fails to satisfy the requirement under subparagraph (A) with respect to the construction of any qualified facility or with respect to the alteration or repair of a facility in any year during the period described in subparagraph (A)(ii), such taxpayer shall be deemed to have satisfied such requirement under such subparagraph with respect to such facility for any year if, with respect to any laborer or mechanic who was paid wages at a rate below the rate described in such subparagraph for any period during such year, such taxpayer—
+        (I) makes payment to such laborer or mechanic in an amount equal to the sum of—
+        (II) makes payment to the Secretary of a penalty in an amount equal to the product of—
+      (ii) Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, and certain excise taxes) shall not apply with respect to the assessment or collection of any penalty imposed by this paragraph.
+      (iii) If the Secretary determines that any failure described in clause (i) is due to intentional disregard of the requirements under subparagraph (A), such clause shall be applied—
+        (I) in subclause (I), by substituting “three times the sum” for “the sum”, and
+        (II) in subclause (II), by substituting “$10,000” for “5,000 1 1 So in original. Probably should be “$5,000”. ” in item (aa) thereof.
+      (iv) Pursuant to rules issued by the Secretary, in the case of a final determination by the Secretary with respect to any failure by the taxpayer to satisfy the requirement under subparagraph (A), subparagraph (B)(i) shall not apply unless the payments described in subclauses (I) and (II) of such subparagraph are made by the taxpayer on or before the date which is 180 days after the date of such determination.
+  (8) The requirements described in this paragraph with respect to the construction of any qualified facility are as follows:
+    (A) 
+      (i) Taxpayers shall ensure that, with respect to the construction of any qualified facility, not less than the applicable percentage of the total labor hours of the construction, alteration, or repair work (including such work performed by any contractor or subcontractor) with respect to such facility shall, subject to subparagraph (B), be performed by qualified apprentices.
+      (ii) For purposes of clause (i), the applicable percentage shall be—
+        (I) in the case of a qualified facility the construction of which begins before January 1, 2023 , 10 percent,
+        (II) in the case of a qualified facility the construction of which begins after December 31, 2022 , and before January 1, 2024 , 12.5 percent, and
+        (III) in the case of a qualified facility the construction of which begins after December 31, 2023 , 15 percent.
+    (B) The requirement under subparagraph (A)(i) shall be subject to any applicable requirements for apprentice-to-journeyworker ratios of the Department of Labor or the applicable State apprenticeship agency.
+    (C) Each taxpayer, contractor, or subcontractor who employs 4 or more individuals to perform construction, alteration, or repair work with respect to the construction of a qualified facility shall employ 1 or more qualified apprentices to perform such work.
+    (D) 
+      (i) A taxpayer shall not be treated as failing to satisfy the requirements of this paragraph if such taxpayer—
+        (I) satisfies the requirements described in clause (ii), or
+        (II) subject to clause (iii), in the case of any failure by the taxpayer to satisfy the requirement under subparagraphs (A) and (C) with respect to the construction, alteration, or repair work on any qualified facility to which subclause (I) does not apply, makes payment to the Secretary of a penalty in an amount equal to the product of—
+      (ii) For purposes of clause (i), a taxpayer shall be deemed to have satisfied the requirements under this paragraph with respect to a qualified facility if such taxpayer has requested qualified apprentices from a registered apprenticeship program, as defined in section 3131(e)(3)(B), and—
+        (I) such request has been denied, provided that such denial is not the result of a refusal by the taxpayer or any contractors or subcontractors engaged in the performance of construction, alteration, or repair work with respect to such qualified facility to comply with the established standards and requirements of the registered apprenticeship program, or
+        (II) the registered apprenticeship program fails to respond to such request within 5 business days after the date on which such registered apprenticeship program received such request.
+      (iii) If the Secretary determines that any failure described in subclause (i)(II) is due to intentional disregard of the requirements under subparagraphs (A) and (C), subclause (i)(II) shall be applied by substituting “$500” for “$50” in item (aa) thereof.
+    (E) For purposes of this paragraph—
+      (i) The term “labor hours”—
+        (I) means the total number of hours devoted to the performance of construction, alteration, or repair work by any individual employed by the taxpayer or by any contractor or subcontractor, and
+        (II) excludes any hours worked by—
+      (ii) The term “qualified apprentice” means an individual who is employed by the taxpayer or by any contractor or subcontractor and who is participating in a registered apprenticeship program, as defined in section 3131(e)(3)(B).
+  (9) 
+    (A) In the case of any qualified facility which satisfies the requirement under subparagraph (B)(i), the amount of the credit determined under subsection (a) (determined after the application of paragraphs (1) through (8)) shall be increased by an amount equal to 10 percent of the amount so determined.
+    (B) 
+      (i) The requirement described in this clause is satisfied with respect to any qualified facility if the taxpayer certifies to the Secretary (at such time, and in such form and manner, as the Secretary may prescribe) that any steel, iron, or manufactured product which is a component of such facility (upon completion of construction) was produced in the United States (as determined under section 2 2 So in original. Probably should be “part”. 661 of title 49, Code of Federal Regulations).
+      (ii) In the case of steel or iron, clause (i) shall be applied in a manner consistent with section 661.5 of title 49, Code of Federal Regulations.
+      (iii) For purposes of clause (i), the manufactured products which are components of a qualified facility upon completion of construction shall be deemed to have been produced in the United States if not less than the adjusted percentage (as determined under subparagraph (C)) of the total costs of all such manufactured products of such facility are attributable to manufactured products (including components) which are mined, produced, or manufactured in the United States.
+    (C) 
+      (i) Subject to subclause (ii), for purposes of subparagraph (B)(iii), the adjusted percentage shall be 40 percent.
+      (ii) For purposes of subparagraph (B)(iii), in the case of a qualified facility which is an offshore wind facility, the adjusted percentage shall be 20 percent.
+  (10) 
+    (A) In the case of a taxpayer making an election under section 6417 with respect to a credit under this section, the amount of such credit shall be replaced with—
+      (i) the value of such credit (determined without regard to this paragraph), multiplied by
+      (ii) the applicable percentage.
+    (B) In the case of any qualified facility—
+      (i) which satisfies the requirements under paragraph (9)(B), or
+      (ii) with a maximum net output of less than 1 megawatt (as measured in alternating current),
+    (C) Subject to subparagraph (D), in the case of any qualified facility which is not described in subparagraph (B), the applicable percentage shall be—
+      (i) if construction of such facility began before January 1, 2024 , 100 percent, and
+      (ii) if construction of such facility began in calendar year 2024, 90 percent.
+    (D) 
+      (i) For purposes of this paragraph, the Secretary shall provide exceptions to the requirements under this paragraph if—
+        (I) the inclusion of steel, iron, or manufactured products which are produced in the United States increases the overall costs of construction of qualified facilities by more than 25 percent, or
+        (II) relevant steel, iron, or manufactured products are not produced in the United States in sufficient and reasonably available quantities or of a satisfactory quality.
+      (ii) In any case in which the Secretary provides an exception pursuant to clause (i), the applicable percentage shall be 100 percent.
+  (11) 
+    (A) In the case of a qualified facility which is located in an energy community, the credit determined under subsection (a) (determined after the application of paragraphs (1) through (10), without the application of paragraph (9)) shall be increased by an amount equal to 10 percent of the amount so determined.
+    (B) For purposes of this paragraph, the term “energy community” means—
+      (i) a brownfield site (as defined in subparagraphs (A), (B), and (D)(ii)(III) of section 101(39) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ( 42 U.S.C. 9601(39) )),
+      (ii) a metropolitan statistical area or non-metropolitan statistical area which—
+        (I) has (or, at any time during the period beginning after December 31, 2009 , had) 0.17 percent or greater direct employment or 25 percent or greater local tax revenues related to the extraction, processing, transport, or storage of coal, oil, or natural gas (as determined by the Secretary), and
+        (II) has an unemployment rate at or above the national average unemployment rate for the previous year (as determined by the Secretary),
+      (iii) a census tract—
+        (I) in which—
+        (II) which is directly adjoining to any census tract described in subclause (I), or
+      (iv) for purposes of any qualified facility which is an advanced nuclear facility, a metropolitan statistical area which has (or, at any time during the period beginning after December 31, 2009 , had) 0.17 percent or greater direct employment related to the advancement of nuclear power, including employment related to—
+        (I) an advanced nuclear facility,
+        (II) advanced nuclear power research and development,
+        (III) nuclear fuel cycle research, development, or production, including mining, enrichment, manufacture, storage, disposal, or recycling of nuclear fuel, and
+        (IV) the manufacturing or assembly of components used in an advanced nuclear facility.
+    (C) 
+      (i) Subject to clause (ii), for purposes of subparagraph (B)(iv), the term “advanced nuclear facility” means any nuclear facility the reactor design for which is approved in the manner described in section 45J(d)(2).
+      (ii) For purposes of clause (i), a facility shall be deemed to have a reactor design which is approved in the manner described in section 45J(d)(2) if the Nuclear Regulatory Commission has authorized construction and issued a site-specific construction permit or combined license with respect to such facility (without regard to whether the reactor design was approved after December 31, 1993 ).
+  (12) The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
+(c) For purposes of this section:
+  (1) The term “qualified energy resources” means—
+    (A) wind,
+    (B) closed-loop biomass,
+    (C) open-loop biomass,
+    (D) geothermal energy,
+    (E) solar energy,
+    (F) small irrigation power,
+    (G) municipal solid waste,
+    (H) qualified hydropower production, and
+    (I) marine and hydrokinetic renewable energy.
+  (2) The term “closed-loop biomass” means any organic material from a plant which is planted exclusively for purposes of being used at a qualified facility to produce electricity.
+  (3) 
+    (A) The term “open-loop biomass” means—
+      (i) any agricultural livestock waste nutrients, or
+      (ii) any solid, nonhazardous, cellulosic waste material or any lignin material which is derived from—
+        (I) any of the following forest-related resources: mill and harvesting residues, precommercial thinnings, slash, and brush,
+        (II) solid wood waste materials, including waste pallets, crates, dunnage, manufacturing and construction wood wastes (other than pressure-treated, chemically-treated, or painted wood wastes), and landscape or right-of-way tree trimmings, but not including municipal solid waste, gas derived from the biodegradation of solid waste, or paper which is commonly recycled, or
+        (III) agriculture sources, including orchard tree crops, vineyard, grain, legumes, sugar, and other crop by-products or residues.
+    (B) 
+      (i) The term “agricultural livestock waste nutrients” means agricultural livestock manure and litter, including wood shavings, straw, rice hulls, and other bedding material for the disposition of manure.
+      (ii) The term “agricultural livestock” includes bovine, swine, poultry, and sheep.
+  (4) The term “geothermal energy” means energy derived from a geothermal deposit (within the meaning of section 613(e)(2)).
+  (5) The term “small irrigation power” means power—
+    (A) generated without any dam or impoundment of water through an irrigation system canal or ditch, and
+    (B) the nameplate capacity rating of which is not less than 150 kilowatts but is less than 5 megawatts.
+  (6) The term “municipal solid waste” has the meaning given the term “solid waste” under section 1004(27) of the Solid Waste Disposal Act ( 42 U.S.C. 6903 ), except that such term does not include paper which is commonly recycled and which has been segregated from other solid waste (as so defined).
+  (7) 
+    (A) The term “refined coal” means a fuel—
+      (i) which—
+        (I) is a liquid, gaseous, or solid fuel produced from coal (including lignite) or high carbon fly ash, including such fuel used as a feedstock,
+        (II) is sold by the taxpayer with the reasonable expectation that it will be used for the purpose of producing steam, and
+        (III) is certified by the taxpayer as resulting (when used in the production of steam) in a qualified emission reduction, or
+      (ii) which is steel industry fuel.
+    (B) The term “qualified emission reduction” means a reduction of at least 20 percent of the emissions of nitrogen oxide and at least 40 percent of the emissions of either sulfur dioxide or mercury released when burning the refined coal (excluding any dilution caused by materials combined or added during the production process), as compared to the emissions released when burning the feedstock coal or comparable coal predominantly available in the marketplace as of January 1, 2003 .
+    (C) 
+      (i) The term “steel industry fuel” means a fuel which—
+        (I) is produced through a process of liquifying coal waste sludge and distributing it on coal, and
+        (II) is used as a feedstock for the manufacture of coke.
+      (ii) The term “coal waste sludge” means the tar decanter sludge and related byproducts of the coking process, including such materials that have been stored in ground, in tanks and in lagoons, that have been treated as hazardous wastes under applicable Federal environmental rules absent liquefaction and processing with coal into a feedstock for the manufacture of coke.
+  (8) 
+    (A) The term “qualified hydropower production” means—
+      (i) in the case of any hydroelectric dam which was placed in service on or before the date of the enactment of this paragraph, the incremental hydropower production for the taxable year, and
+      (ii) in the case of any nonhydroelectric dam described in subparagraph (C), the hydropower production from the facility for the taxable year.
+    (B) 
+      (i) For purposes of subparagraph (A), incremental hydropower production for any taxable year shall be equal to the percentage of average annual hydropower production at the facility attributable to the efficiency improvements or additions of capacity placed in service after the date of the enactment of this paragraph, determined by using the same water flow information used to determine an historic average annual hydropower production baseline for such facility. Such percentage and baseline shall be certified by the Federal Energy Regulatory Commission.
+      (ii) For purposes of clause (i), the determination of incremental hydropower production shall not be based on any operational changes at such facility not directly associated with the efficiency improvements or additions of capacity.
+    (C) For purposes of subparagraph (A), a facility is described in this subparagraph if—
+      (i) the hydroelectric project installed on the nonhydroelectric dam is licensed by the Federal Energy Regulatory Commission and meets all other applicable environmental, licensing, and regulatory requirements,
+      (ii) the nonhydroelectric dam was placed in service before the date of the enactment of this paragraph and operated for flood control, navigation, or water supply purposes and did not produce hydroelectric power on the date of the enactment of this paragraph, and
+      (iii) the hydroelectric project is operated so that the water surface elevation at any given location and time that would have occurred in the absence of the hydroelectric project is maintained, subject to any license requirements imposed under applicable law that change the water surface elevation for the purpose of improving environmental quality of the affected waterway.
+  (9) 
+    (A) The term “Indian coal” means coal which is produced from coal reserves which, on June 14, 2005 —
+      (i) were owned by an Indian tribe, or
+      (ii) were held in trust by the United States for the benefit of an Indian tribe or its members.
+    (B) For purposes of this paragraph, the term “Indian tribe” has the meaning given such term by section 7871(c)(3)(E)(ii).
+  (10) 
+    (A) The term “marine and hydrokinetic renewable energy” means energy derived from—
+      (i) waves, tides, and currents in oceans, estuaries, and tidal areas,
+      (ii) free flowing water in rivers, lakes, and streams,
+      (iii) free flowing water in an irrigation system, canal, or other man-made channel, including projects that utilize nonmechanical structures to accelerate the flow of water for electric power production purposes,
+      (iv) differentials in ocean temperature (ocean thermal energy conversion), or
+      (v) pressurized water used in a pipeline (or similar man-made water conveyance) which is operated—
+        (I) for the distribution of water for agricultural, municipal, or industrial consumption, and
+        (II) not primarily for the generation of electricity.
+    (B) Such term shall not include any energy which is derived from any source which utilizes a dam, diversionary structure (except as provided in subparagraph (A)(iii)), or impoundment for electric power production purposes.
+(d) For purposes of this section:
+  (1) In the case of a facility using wind to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after December 31, 1993 , and the construction of which begins before January 1, 2025 . Such term shall not include any facility with respect to which any qualified small wind energy property expenditure (as defined in subsection (d)(4) of section 25D) is taken into account in determining the credit under such section.
+  (2) 
+    (A) In the case of a facility using closed-loop biomass to produce electricity, the term “qualified facility” means any facility—
+      (i) owned by the taxpayer which is originally placed in service after December 31, 1992 , and the construction of which begins before January 1, 2025 , or
+      (ii) owned by the taxpayer which before January 1, 2025 , is originally placed in service and modified to use closed-loop biomass to co-fire with coal, with other biomass, or with both, but only if the modification is approved under the Biomass Power for Rural Development Programs or is part of a pilot project of the Commodity Credit Corporation as described in 65 Fed. Reg. 63052.
+    (B) Such term shall include a new unit placed in service after the date of the enactment of this subparagraph in connection with a facility described in subparagraph (A)(i), but only to the extent of the increased amount of electricity produced at the facility by reason of such new unit.
+    (C) In the case of a qualified facility described in subparagraph (A)(ii)—
+      (i) the 10-year period referred to in subsection (a) shall be treated as beginning no earlier than the date of the enactment of this clause, and
+      (ii) if the owner of such facility is not the producer of the electricity, the person eligible for the credit allowable under subsection (a) shall be the lessee or the operator of such facility.
+  (3) 
+    (A) In the case of a facility using open-loop biomass to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which—
+      (i) in the case of a facility using agricultural livestock waste nutrients—
+        (I) is originally placed in service after the date of the enactment of this subclause and the construction of which begins before January 1, 2025 , and
+        (II) the nameplate capacity rating of which is not less than 150 kilowatts, and
+      (ii) in the case of any other facility, the construction of which begins before January 1, 2025 .
+    (B) Such term shall include a new unit placed in service after the date of the enactment of this subparagraph in connection with a facility described in subparagraph (A), but only to the extent of the increased amount of electricity produced at the facility by reason of such new unit.
+    (C) In the case of any facility described in subparagraph (A), if the owner of such facility is not the producer of the electricity, the person eligible for the credit allowable under subsection (a) shall be the lessee or the operator of such facility.
+  (4) In the case of a facility using geothermal or solar energy to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2025 . Such term shall not include any property described in section 48(a)(3) the basis of which is taken into account by the taxpayer for purposes of determining the energy credit under section 48.
+  (5) In the case of a facility using small irrigation power to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and before October 3, 2008 .
+  (6) In the case of a facility producing electricity from gas derived from the biodegradation of municipal solid waste, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2025 .
+  (7) In the case of a facility (other than a facility described in paragraph (6)) which uses municipal solid waste to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2025 . Such term shall include a new unit placed in service in connection with a facility placed in service on or before the date of the enactment of this paragraph, but only to the extent of the increased amount of electricity produced at the facility by reason of such new unit.
+  (8) In the case of a facility that produces refined coal, the term “refined coal production facility” means—
+    (A) with respect to a facility producing steel industry fuel, any facility (or any modification to a facility) which is placed in service before January 1, 2010 , and
+    (B) with respect to any other facility producing refined coal, any facility placed in service after the date of the enactment of the American Jobs Creation Act of 2004 and before January 1, 2012 .
+  (9) 
+    (A) In the case of a facility producing qualified hydroelectric production described in subsection (c)(8), the term “qualified facility” means—
+      (i) in the case of any facility producing incremental hydropower production, such facility but only to the extent of its incremental hydropower production attributable to efficiency improvements or additions to capacity described in subsection (c)(8)(B) placed in service after the date of the enactment of this paragraph and before January 1, 2025 , and
+      (ii) any other facility placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2025 .
+    (B) In the case of a qualified facility described in subparagraph (A), the 10-year period referred to in subsection (a) shall be treated as beginning on the date the efficiency improvements or additions to capacity are placed in service.
+    (C) For purposes of subparagraph (A)(i), an efficiency improvement or addition to capacity shall be treated as placed in service before January 1, 2025 , if the construction of such improvement or addition begins before such date.
+  (10) The term “Indian coal production facility” means a facility that produces Indian coal.
+  (11) In the case of a facility producing electricity from marine and hydrokinetic renewable energy, the term “qualified facility” means any facility owned by the taxpayer—
+    (A) which has a nameplate capacity rating of at least 25 kilowatts, and
+    (B) which is originally placed in service on or after the date of the enactment of this paragraph and the construction of which begins before January 1, 2025 .
+(e) For purposes of this section—
+  (1) Sales shall be taken into account under this section only with respect to electricity the production of which is within—
+    (A) the United States (within the meaning of section 638(1)), or
+    (B) a possession of the United States (within the meaning of section 638(2)).
+  (2) 
+    (A) The Secretary shall, not later than April 1 of each calendar year, determine and publish in the Federal Register the inflation adjustment factor and the reference price for such calendar year in accordance with this paragraph.
+    (B) The term “inflation adjustment factor” means, with respect to a calendar year, a fraction the numerator of which is the GDP implicit price deflator for the preceding calendar year and the denominator of which is the GDP implicit price deflator for the calendar year 1992. The term “GDP implicit price deflator” means the most recent revision of the implicit price deflator for the gross domestic product as computed and published by the Department of Commerce before March 15 of the calendar year.
+    (C) The term “reference price” means, with respect to a calendar year, the Secretary’s determination of the annual average contract price per kilowatt hour of electricity generated from the same qualified energy resource and sold in the previous year in the United States. For purposes of the preceding sentence, only contracts entered into after December 31, 1989 , shall be taken into account.
+  (3) In the case of a facility in which more than 1 person has an ownership interest, except to the extent provided in regulations prescribed by the Secretary, production from the facility shall be allocated among such persons in proportion to their respective ownership interests in the gross sales from such facility.
+  (4) Persons shall be treated as related to each other if such persons would be treated as a single employer under the regulations prescribed under section 52(b). In the case of a corporation which is a member of an affiliated group of corporations filing a consolidated return, such corporation shall be treated as selling electricity to an unrelated person if such electricity is sold to such a person by another member of such group.
+  (5) Under regulations prescribed by the Secretary, rules similar to the rules of subsection (d) of section 52 shall apply.
+  [(6) 
+  (7) 
+    (A) The credit determined under subsection (a) shall not apply to electricity—
+      (i) produced at a qualified facility described in subsection (d)(1) which is originally placed in service after June 30, 1999 , and
+      (ii) sold to a utility pursuant to a contract originally entered into before January 1, 1987 (whether or not amended or restated after that date).
+    (B) Subparagraph (A) shall not apply if—
+      (i) the prices for energy and capacity from such facility are established pursuant to an amendment to the contract referred to in subparagraph (A)(ii),
+      (ii) such amendment provides that the prices set forth in the contract which exceed avoided cost prices determined at the time of delivery shall apply only to annual quantities of electricity (prorated for partial years) which do not exceed the greater of—
+        (I) the average annual quantity of electricity sold to the utility under the contract during calendar years 1994, 1995, 1996, 1997, and 1998, or
+        (II) the estimate of the annual electricity production set forth in the contract, or, if there is no such estimate, the greatest annual quantity of electricity sold to the utility under the contract in any of the calendar years 1996, 1997, or 1998, and
+      (iii) such amendment provides that energy and capacity in excess of the limitation in clause (ii) may be—
+        (I) sold to the utility only at prices that do not exceed avoided cost prices determined at the time of delivery, or
+        (II) sold to a third party subject to a mutually agreed upon advance notice to the utility.
+  (8) 
+    (A) In the case of a producer of refined coal, the credit determined under this section (without regard to this paragraph) for any taxable year shall be increased by an amount equal to $4.375 per ton of qualified refined coal—
+      (i) produced by the taxpayer at a refined coal production facility during the 10-year period beginning on the date the facility was originally placed in service, and
+      (ii) sold by the taxpayer—
+        (I) to an unrelated person, and
+        (II) during such 10-year period and such taxable year.
+    (B) The amount of the increase determined under subparagraph (A) shall be reduced by an amount which bears the same ratio to the amount of the increase (determined without regard to this subparagraph) as—
+      (i) the amount by which the reference price of fuel used as a feedstock (within the meaning of subsection (c)(7)(A)) for the calendar year in which the sale occurs exceeds an amount equal to 1.7 multiplied by the reference price for such fuel in 2002, bears to
+      (ii) $8.75.
+    (C) Rules similar to the rules of the subsection (b)(3) and paragraphs (1) through (5) of this subsection shall apply for purposes of determining the amount of any increase under this paragraph.
+    (D) 
+      (i) In the case of a taxpayer who produces steel industry fuel—
+        (I) this paragraph shall be applied separately with respect to steel industry fuel and other refined coal, and
+        (II) in applying this paragraph to steel industry fuel, the modifications in clause (ii) shall apply.
+      (ii) 
+        (I) Subparagraph (A) shall be applied by substituting “$2 per barrel-of-oil equivalent” for “$4.375 per ton”.
+        (II) In lieu of the 10-year period referred to in clauses (i) and (ii)(II) of subparagraph (A), the credit period shall be the period beginning on the later of the date such facility was originally placed in service, the date the modifications described in clause (iii) were placed in service, or October 1, 2008 , and ending on the later of December 31, 2009 , or the date which is 1 year after the date such facility or the modifications described in clause (iii) were placed in service.
+        (III) Subparagraph (B) shall not apply.
+      (iii) The modifications described in this clause are modifications to an existing facility which allow such facility to produce steel industry fuel.
+      (iv) For purposes of this subparagraph, a barrel-of-oil equivalent is the amount of steel industry fuel that has a Btu content of 5,800,000 Btus.
+  (9) 
+    (A) The term “qualified facility” shall not include any facility which produces electricity from gas derived from the biodegradation of municipal solid waste if such biodegradation occurred in a facility (within the meaning of section 45K) the production from which is allowed as a credit under section 45K for the taxable year or any prior taxable year.
+    (B) 
+      (i) The term “refined coal production facility” shall not include any facility the production from which is allowed as a credit under section 45K for the taxable year or any prior taxable year (or under section 29, 3 3 See References in Text note below. as in effect on the day before the date of enactment of the Energy Tax Incentives Act of 2005, for any prior taxable year).
+      (ii) In the case of a facility producing steel industry fuel, clause (i) shall not apply to so much of the refined coal produced at such facility as is steel industry fuel.
+  (10) 
+    (A) In the case of a producer of Indian coal, the credit determined under this section (without regard to this paragraph) for any taxable year shall be increased by an amount equal to the applicable dollar amount per ton of Indian coal—
+      (i) produced by the taxpayer at an Indian coal production facility during the 16-year period beginning on January 1, 2006 , and
+      (ii) sold by the taxpayer—
+        (I) to an unrelated person (either directly by the taxpayer or after sale or transfer to one or more related persons), and
+        (II) during such 16-year period and such taxable year.
+    (B) 
+      (i) The term “applicable dollar amount” for any taxable year beginning in a calendar year means—
+        (I) $1.50 in the case of calendar years 2006 through 2009, and
+        (II) $2.00 in the case of calendar years beginning after 2009.
+      (ii) In the case of any calendar year after 2006, each of the dollar amounts under clause (i) shall be equal to the product of such dollar amount and the inflation adjustment factor determined under paragraph (2)(B) for the calendar year, except that such paragraph shall be applied by substituting “2005” for “1992”.
+    (C) Rules similar to the rules of the subsection (b)(3) and paragraphs (1), (3), (4), and (5) of this subsection shall apply for purposes of determining the amount of any increase under this paragraph.
+  (11) 
+    (A) 
+      (i) In the case of an eligible cooperative organization, any portion of the credit determined under subsection (a) for the taxable year may, at the election of the organization, be apportioned among patrons of the organization on the basis of the amount of business done by the patrons during the taxable year.
+      (ii) An election under clause (i) for any taxable year shall be made on a timely filed return for such year. Such election, once made, shall be irrevocable for such taxable year. Such election shall not take effect unless the organization designates the apportionment as such in a written notice mailed to its patrons during the payment period described in section 1382(d).
+    (B) The amount of the credit apportioned to any patrons under subparagraph (A)—
+      (i) shall not be included in the amount determined under subsection (a) with respect to the organization for the taxable year, and
+      (ii) shall be included in the amount determined under subsection (a) for the first taxable year of each patron ending on or after the last day of the payment period (as defined in section 1382(d)) for the taxable year of the organization or, if earlier, for the taxable year of each patron ending on or after the date on which the patron receives notice from the cooperative of the apportionment.
+    (C) If the amount of the credit of a cooperative organization determined under subsection (a) for a taxable year is less than the amount of such credit shown on the return of the cooperative organization for such year, an amount equal to the excess of—
+      (i) such reduction, over
+      (ii) the amount not apportioned to such patrons under subparagraph (A) for the taxable year,
+    (D) For purposes of this section the term “eligible cooperative” means a cooperative organization described in section 1381(a) which is owned more than 50 percent by agricultural producers or by entities owned by agricultural producers. For this purpose an entity owned by an agricultural producer is one that is more than 50 percent owned by agricultural producers.
+  (12) The term “qualified facility” shall not include any facility which produces electricity from gas produced by qualified biogas property (as defined in section 48(c)(7)) if a credit is allowed under section 48 with respect to such property for the taxable year or any prior taxable year.
+  (13) Electricity produced by the taxpayer shall be treated as sold by such taxpayer to an unrelated person during the taxable year if—
+    (A) such electricity is used during such taxable year by the taxpayer or a person related to the taxpayer at a qualified clean hydrogen production facility (as defined in section 45V(c)(3)) to produce qualified clean hydrogen (as defined in section 45V(c)(2)), and
+    (B) such use and production is verified (in such form or manner as the Secretary may prescribe) by an unrelated third party.

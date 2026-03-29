@@ -1,0 +1,25 @@
+---
+title: "Section 1510 - Wireless telecommunications tax and fee collection fairness"
+usc_title: 47
+usc_section: "1510"
+chapter: 14
+current_through: "PL 119-73"
+classification: "47 U.S.C. § 1510"
+generated_at: "2026-03-29T00:33:04.966Z"
+---
+
+# § 1510. Wireless telecommunications tax and fee collection fairness
+
+(a) This section may be cited as the “Wireless Telecommunications Tax and Fee Collection Fairness Act”.
+(b) In this section:
+  (1) The term “financial transaction” means a transaction in which the purchaser or user of a wireless telecommunications service upon whom a tax, fee, or surcharge is imposed gives cash, credit, or any other exchange of monetary value or consideration to the person who is required to collect or remit the tax, fee, or surcharge.
+  (2) The term “local jurisdiction” means a political subdivision of a State.
+  (3) The term “State” means any of the several States, the District of Columbia, and any territory or possession of the United States.
+  (4) The term “State or local jurisdiction” includes any governmental entity or person acting on behalf of a State or local jurisdiction that has the authority to assess, impose, levy, or collect taxes or fees.
+  (5) The term “wireless telecommunications service” means a commercial mobile radio service, as defined in section 20.3 of title 47, Code of Federal Regulations, or any successor thereto.
+(c) 
+  (1) A State, or a local jurisdiction of a State, may not require a person who is neither a resident of such State or local jurisdiction nor an entity having its principal place of business in such State or local jurisdiction to collect from, or remit on behalf of, any other person a State or local tax, fee, or surcharge imposed on a purchaser or user with respect to the purchase or use of any wireless telecommunications service within the State unless the collection or remittance is in connection with a financial transaction.
+  (2) Nothing in this subsection shall be construed to affect the right of a State or local jurisdiction to require the collection of any tax, fee, or surcharge in connection with a financial transaction.
+(d) 
+  (1) Any person aggrieved by a violation of subsection (c) may bring a civil action in an appropriate district court of the United States for equitable relief in accordance with paragraph (2) of this subsection.
+  (2) Notwithstanding section 1341 of title 28 , or the constitution or laws of any State, the district courts of the United States shall have jurisdiction, without regard to the amount in controversy or citizenship of the parties, to grant such mandatory or prohibitive injunctive relief, interim equitable relief, and declaratory judgments as may be necessary to prevent, restrain, or terminate any acts in violation of subsection (c).

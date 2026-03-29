@@ -1,0 +1,14 @@
+---
+title: "Section 2293 - Reprogramming during national emergencies"
+usc_title: 33
+usc_section: "2293"
+chapter: 36
+current_through: "PL 119-73"
+classification: "33 U.S.C. § 2293"
+generated_at: "2026-03-29T00:31:57.415Z"
+---
+
+# § 2293. Reprogramming during national emergencies
+
+(a) In the event of a declaration of war or a declaration by the President of a national emergency in accordance with the National Emergencies Act [ 50 U.S.C. 1601 et seq.] that requires or may require use of the Armed Forces, the Secretary, without regard to any other provision of law, may (1) terminate or defer the construction, operation, maintenance, or repair of any Department of the Army civil works project that he deems not essential to the national defense, and (2) apply the resources of the Department of the Army’s civil works program, including funds, personnel, and equipment, to construct or assist in the construction, operation, maintenance, and repair of authorized civil works, military construction, and civil defense projects that are essential to the national defense.
+(b) The Secretary shall immediately notify the appropriate committees of Congress of any actions taken pursuant to the authorities provided by this section, and cease to exercise such authorities not later than 180 calendar days after the termination of the state of war or national emergency, whichever occurs later.

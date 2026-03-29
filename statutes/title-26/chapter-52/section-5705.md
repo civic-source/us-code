@@ -1,0 +1,15 @@
+---
+title: "Section 5705 - Credit, refund, or allowance of tax"
+usc_title: 26
+usc_section: "5705"
+chapter: 52
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 5705"
+generated_at: "2026-03-29T00:31:20.997Z"
+---
+
+# § 5705. Credit, refund, or allowance of tax
+
+(a) Credit or refund of any tax imposed by this chapter or section 7652 shall be allowed or made (without interest) to the manufacturer, importer, or export warehouse proprietor, on proof satisfactory to the Secretary that the claimant manufacturer, importer, or export warehouse proprietor has paid the tax on tobacco products and cigarette papers and tubes withdrawn by him from the market; or on such articles lost (otherwise than by theft) or destroyed, by fire, casualty, or act of God, while in the possession of ownership of the claimant.
+(b) If the tax has not yet been paid on tobacco products and cigarette papers and tubes provided to have been withdrawn from the market or lost or destroyed as aforesaid, relief from the tax on such articles may be extended upon the filing of a claim for allowance therefor in accordance with such regulations as the Secretary shall prescribe.
+(c) Any claim for credit or refund of tax under this section shall be filed within 6 months after the date of the withdrawal from the market, loss, or destruction of the articles to which the claim relates, and shall be in such form and contain such information as the Secretary shall by regulations prescribe.

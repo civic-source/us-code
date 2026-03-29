@@ -1,0 +1,14 @@
+---
+title: "Section 606 - Removal of snags, and so forth, from Ohio River"
+usc_title: 33
+usc_section: "606"
+chapter: 12
+current_through: "PL 119-73"
+classification: "33 U.S.C. § 606"
+generated_at: "2026-03-29T00:31:57.219Z"
+---
+
+# § 606. Removal of snags, and so forth, from Ohio River
+
+For the purpose of securing the uninterrupted work of operating snag boats on the Ohio River and removing snags, wrecks, and other obstructions in said river, the Secretary of the Army, upon the application of the Chief of Engineers, is authorized to draw his warrant or requisition from time to time upon the Secretary of the Treasury for such sums as may be necessary to do such work, not to exceed in the aggregate for each year the sum of $50,000.
+

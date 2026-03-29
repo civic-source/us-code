@@ -1,0 +1,17 @@
+---
+title: "Section 3764 - Qualified non-Native American veterans"
+usc_title: 38
+usc_section: "3764"
+chapter: 37
+current_through: "PL 119-73"
+classification: "38 U.S.C. § 3764"
+generated_at: "2026-03-29T00:32:17.293Z"
+---
+
+# § 3764. Qualified non-Native American veterans
+
+(a) Subject to the succeeding provisions of this section, for purposes of this subchapter—
+  (1) a qualified non-Native American veteran is deemed to be a Native American veteran; and
+  (2) for purposes of applicability to a non-Native American veteran, any reference in this subchapter to the jurisdiction of a tribal organization over a Native American veteran is deemed to be a reference to jurisdiction of a tribal organization over the Native American spouse of the qualified non-Native American veteran.
+(b) In making direct loans under this subchapter to a qualified non-Native American veteran by reason of eligibility under subsection (a), the Secretary shall ensure that the tribal organization permits, and the qualified non-Native American veteran actually holds, possesses, or purchases, using the proceeds of the loan, jointly with the Native American spouse of the qualified non-Native American veteran, a meaningful interest in the lot, dwelling, or both, that is located on trust land.
+(c) Nothing in subsection (b) shall be construed as precluding a tribal organization from imposing reasonable restrictions on the right of the qualified non-Native American veteran to convey, assign, or otherwise dispose of such interest in the lot or dwelling, or both, if such restrictions are designed to ensure the continuation in trust status of the lot or dwelling, or both. Such requirements may include the termination of the interest of the qualified non-Native American veteran in the lot or dwelling, or both, upon the dissolution of the marriage of the qualified non-Native American veteran to the Native American spouse.

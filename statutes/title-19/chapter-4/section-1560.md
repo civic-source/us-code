@@ -1,0 +1,14 @@
+---
+title: "Section 1560 - Leasing of warehouses"
+usc_title: 19
+usc_section: "1560"
+chapter: 4
+current_through: "PL 119-73"
+classification: "19 U.S.C. § 1560"
+generated_at: "2026-03-29T00:30:20.157Z"
+---
+
+# § 1560. Leasing of warehouses
+
+The Secretary of the Treasury may cause to be set aside any available space in a building used as a customhouse for the storage of bonded merchandise or may lease premises for the storage of unclaimed merchandise or other imported merchandise required to be stored by the Government, and set aside a portion of such leased premises for the storage of bonded merchandise: Provided , That no part of any premises owned or leased by the Government may be used for the storage of bonded merchandise at any port at which a public bonded warehouse has been established and is in operation. All the premises so leased shall be leased on public account and the storage and other charges shall be deposited and accounted for as customs receipts, and the rates therefor shall not be less than the charges for storage and similar services made at such port of entry by commercial concerns for the storage and handling of merchandise. No officer of the customs shall own, in whole or in part, any bonded warehouse or enter into any contract or agreement for the lease or use of any building to be thereafter erected as a public store or warehouse. No lease of any building to be so used shall be taken for a longer period than three years, nor shall rent for any such premises be paid, in whole or in part, in advance.
+

@@ -1,0 +1,14 @@
+---
+title: "Section 17 - Insanity defense"
+usc_title: 18
+usc_section: "17"
+chapter: 1
+current_through: "PL 119-73"
+classification: "18 U.S.C. § 17"
+generated_at: "2026-03-29T00:30:15.586Z"
+---
+
+# § 17. Insanity defense
+
+(a) It is an affirmative defense to a prosecution under any Federal statute that, at the time of the commission of the acts constituting the offense, the defendant, as a result of a severe mental disease or defect, was unable to appreciate the nature and quality or the wrongfulness of his acts. Mental disease or defect does not otherwise constitute a defense.
+(b) The defendant has the burden of proving the defense of insanity by clear and convincing evidence.

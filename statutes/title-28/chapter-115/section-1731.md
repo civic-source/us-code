@@ -1,0 +1,14 @@
+---
+title: "Section 1731 - Handwriting"
+usc_title: 28
+usc_section: "1731"
+chapter: 115
+current_through: "PL 119-73"
+classification: "28 U.S.C. § 1731"
+generated_at: "2026-03-29T00:31:24.186Z"
+---
+
+# § 1731. Handwriting
+
+The admitted or proved handwriting of any person shall be admissible, for purposes of comparison, to determine genuineness of other handwriting attributed to such person.
+

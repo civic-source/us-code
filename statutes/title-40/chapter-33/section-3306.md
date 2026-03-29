@@ -1,0 +1,27 @@
+---
+title: "Section 3306 - Accommodating federal agencies"
+usc_title: 40
+usc_section: "3306"
+chapter: 33
+current_through: "PL 119-73"
+classification: "40 U.S.C. § 3306"
+generated_at: "2026-03-29T00:32:20.550Z"
+---
+
+# § 3306. Accommodating federal agencies
+
+(a) In this section—
+  (1) The term “commercial activities” includes the operations of restaurants, food stores, craft stores, dry goods stores, financial institutions, and display facilities.
+  (2) The term “cultural activities” includes film, dramatic, dance, and musical presentations, and fine art exhibits, whether or not those activities are intended to make a profit.
+  (3) The terms “educational activities” includes the operations of libraries, schools, day care centers, laboratories, and lecture and demonstration facilities.
+  (4) The term “historical, architectural, or cultural significance” includes buildings listed or eligible to be listed on the National Register established under chapter 3021 of title 54.
+  (5) The term “recreational activities” includes the operations of gymnasiums and related facilities.
+  (6) The term “unit of general local government” means a city, county, town, parish, village, or other general-purpose political subdivision of a State.
+(b) To carry out the duties of the Administrator of General Services under sections 581(h), 584(b), 3303(c), and 3307(b)(3) and (5) of this title and under any other authority with respect to constructing, operating, maintaining, altering, and otherwise managing or acquiring space necessary to accommodate federal agencies and to accomplish the purposes of sections 581(h), 584(b), 3303(c), and 3307(b)(3) and (5), the Administrator shall—
+  (1) acquire and utilize space in suitable buildings of historical, architectural, or cultural significance, unless use of the space would not prove feasible and prudent compared with available alternatives;
+  (2) encourage the location of commercial, cultural, educational, and recreational facilities and activities in public buildings;
+  (3) provide and maintain space, facilities, and activities, to the extent practicable, that encourage public access to, and stimulate public pedestrian traffic around, into, and through, public buildings, permitting cooperative improvements to and uses of the area between the building and the street, so that the activities complement and supplement commercial, cultural, educational, and recreational resources in the neighborhood of public buildings; and
+  (4) encourage the public use of public buildings for cultural, educational, and recreational activities.
+(c) In carrying out the duties under subsection (b), the Administrator shall—
+  (1) consult with chief executive officers of the States, areawide agencies established pursuant to title II of the Demonstration Cities and Metropolitan Development Act of 1966 ( 42 U.S.C. 3331 et seq.) and section 6506 of title 31 , and chief executive officers of those units of general local government in each area served by an existing or proposed public building; and
+  (2) solicit the comments of other community leaders and members of the general public as the Administrator considers appropriate.

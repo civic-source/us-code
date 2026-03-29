@@ -1,0 +1,33 @@
+---
+title: "Section 3241 - Biennial reports on foreign biological threats"
+usc_title: 50
+usc_section: "3241"
+chapter: 44
+current_through: "PL 119-73"
+classification: "50 U.S.C. § 3241"
+generated_at: "2026-03-29T00:33:18.189Z"
+---
+
+# § 3241. Biennial reports on foreign biological threats
+
+(a) On a biennial basis until the date that is 10 years after March 15, 2022 , the Director of National Intelligence shall submit to the congressional intelligence committees a comprehensive report on the activities, prioritization, and responsibilities of the intelligence community with respect to foreign biological threats emanating from the territory of, or sponsored by, a covered country.
+(b) Each report under subsection (a) shall include, with respect to foreign biological threats emanating from the territory of, or sponsored by, a covered country, the following:
+  (1) A detailed description of all activities relating to such threats undertaken by each element of the intelligence community, and an assessment of any gaps in such activities.
+  (2) A detailed description of all duties and responsibilities relating to such threats explicitly authorized or otherwise assigned, exclusively or jointly, to each element of the intelligence community, and an assessment of any identified gaps in such duties or responsibilities.
+  (3) A description of the coordination among the relevant elements of the intelligence community with respect to the activities specified in paragraph (1) and the duties and responsibilities specified in paragraph (2).
+  (4) An inventory of the strategies, plans, policies, and interagency agreements of the intelligence community relating to the collection, monitoring, analysis, mitigation, and attribution of such threats, and an assessment of any identified gaps therein.
+  (5) A description of the coordination and interactions among the relevant elements of the intelligence community and non-intelligence community partners.
+  (6) An assessment of foreign malign influence efforts relating to such threats, including any foreign academics engaged in such efforts, and a description of how the intelligence community contributes to efforts by non-intelligence community partners to counter such foreign malign influence.
+(c) Each report submitted under subsection (a) may be submitted in classified form, but if so submitted shall include an unclassified executive summary.
+(d) In this section:
+  (1) The term “covered country” means—
+    (A) China;
+    (B) Iran;
+    (C) North Korea;
+    (D) Russia; and
+    (E) any other foreign country—
+      (i) from which the Director of National Intelligence determines a biological threat emanates; or
+      (ii) that the Director determines has a known history of, or has been assessed as having conditions present for, infectious disease outbreaks or epidemics.
+  (2) The term “foreign biological threat” means biological warfare, bioterrorism, naturally occurring infectious diseases, or accidental exposures to biological materials, without regard to whether the threat originates from a state actor, a non-state actor, natural conditions, or an undetermined source.
+  (3) The term “foreign malign influence” has the meaning given such term in section 3059(e) 1 1 See References in Text note below. of this title.
+  (4) The term “non-intelligence community partner” means a Federal department or agency that is not an element of the intelligence community.

@@ -1,0 +1,34 @@
+---
+title: "Section 7381a - Science education programs"
+usc_title: 42
+usc_section: "7381a"
+chapter: 84
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 7381a"
+generated_at: "2026-03-29T00:32:54.023Z"
+---
+
+# § 7381a. Science education programs
+
+(a) The Secretary is authorized to establish programs to enhance the quality of mathematics, science, and engineering education. Any such programs shall be operated at or through the support of Department research and development facilities, shall use the scientific resources of the Department, and shall be consistent with the overall Federal plan for education and human resources in science and technology developed by the Federal Coordinating Council for Science, Engineering, and Technology.
+(b) 
+  (1) Notwithstanding any other provision of law, the Secretary, acting through the Under Secretary for Science (referred to in this subsection as the “Under Secretary”), shall appoint a Director of Science, Engineering, and Mathematics Education (referred to in this subsection as the “Director”) with the principal responsibility for administering science, engineering, and mathematics education programs across all functions of the Department.
+  (2) The Director shall be an individual, who by reason of professional background and experience, is specially qualified to advise the Under Secretary on all matters pertaining to science, engineering, and mathematics education at the Department.
+  (3) The Director shall—
+    (A) oversee all science, engineering, and mathematics education programs of the Department;
+    (B) represent the Department as the principal interagency liaison for all science, engineering, and mathematics education programs, unless otherwise represented by the Secretary or the Under Secretary;
+    (C) prepare the annual budget and advise the Under Secretary on all budgetary issues for science, engineering, and mathematics education programs of the Department;
+    (D) increase, to the maximum extent practicable, the participation and advancement of women and underrepresented minorities at every level of science, technology, engineering, and mathematics education; and
+    (E) perform other such matters relating to science, engineering, and mathematics education as are required by the Secretary or the Under Secretary.
+  (4) The Secretary shall assign to the Director such personnel and other resources as the Secretary considers necessary to permit the Director to carry out the duties of the Director.
+  (5) 
+    (A) The Secretary shall offer to enter into a contract with the National Academy of Sciences under which the National Academy, not later than 5 years after, and not later than 10 years after, August 9, 2007 , shall assess the performance of the science, engineering, and mathematics education programs of the Department.
+    (B) An assessment under this paragraph shall be conducted taking into consideration, where applicable, the effect of science, engineering, and mathematics education programs of the Department on student academic achievement in science and mathematics.
+  (6) There are authorized to be appropriated such sums as are necessary to carry out this subsection.
+(c) The programs described in subsection (a) shall supplement and be coordinated with current activities of the Department, but shall not supplant them.
+(d) The Secretary shall establish a Science, Engineering, and Mathematics Education Fund, using not less than 0.3 percent of the amount made available to the Department for research, development, demonstration, and commercial application for each fiscal year, to carry out sections 7381b, 7381c, and 7381c–1 of this title.
+(e) The Secretary shall submit to Congress as part of the annual budget submission for a fiscal year a report describing the manner in which the Department has complied with subsection (d) for the prior fiscal year and the manner in which the Department proposes to comply with subsection (d) during the following fiscal year, including—
+  (1) the total amount of funding for research, development, demonstration, and commercial application activities for the corresponding fiscal year;
+  (2) the amounts set aside for the Science, Engineering, and Mathematics Education Fund under subsection (d) from funding for research activities, development activities, demonstration activities, and commercial application activities for the corresponding fiscal year; and
+  (3) a description of how the funds set aside under subsection (d) were allocated for the prior fiscal year and will be allocated for the following fiscal year.
+(f) In carrying out a program under subsection (a), the Secretary shall give priority to activities that are designed to encourage students from under-represented groups to pursue scientific and technical careers.

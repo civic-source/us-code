@@ -1,0 +1,14 @@
+---
+title: "Section 1411 - Jury trials"
+usc_title: 28
+usc_section: "1411"
+chapter: 87
+current_through: "PL 119-73"
+classification: "28 U.S.C. § 1411"
+generated_at: "2026-03-29T00:31:24.177Z"
+---
+
+# § 1411. Jury trials
+
+(a) Except as provided in subsection (b) of this section, this chapter and title 11 do not affect any right to trial by jury that an individual has under applicable nonbankruptcy law with regard to a personal injury or wrongful death tort claim.
+(b) The district court may order the issues arising under section 303 of title 11 to be tried without a jury.

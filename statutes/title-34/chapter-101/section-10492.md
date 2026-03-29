@@ -1,0 +1,14 @@
+---
+title: "Section 10492 - General authorization"
+usc_title: 34
+usc_section: "10492"
+chapter: 101
+current_through: "PL 119-73"
+classification: "34 U.S.C. § 10492"
+generated_at: "2026-03-29T00:32:01.572Z"
+---
+
+# § 10492. General authorization
+
+The Attorney General may make grants to States and local law enforcement agencies and to organizations representing State or local law enforcement personnel to provide family support services and mental health services to law enforcement personnel.
+

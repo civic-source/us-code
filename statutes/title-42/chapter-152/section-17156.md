@@ -1,0 +1,19 @@
+---
+title: "Section 17156 - Competitive grants"
+usc_title: 42
+usc_section: "17156"
+chapter: 152
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 17156"
+generated_at: "2026-03-29T00:32:54.430Z"
+---
+
+# § 17156. Competitive grants
+
+(a) Of the total amount made available for each fiscal year to carry out this part, the Secretary shall use not less than 2 percent to provide grants under this section, on a competitive basis, to—
+  (1) units of local government (including Indian tribes) that are not eligible entities; and
+  (2) consortia of units of local government described in paragraph (1).
+(b) To be eligible to receive a grant under this section, a unit of local government or consortia shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a plan of the unit of local government to carry out an activity described in section 17154 of this title .
+(c) In providing grants under this section, the Secretary shall give priority to units of local government—
+  (1) located in States with populations of less than 2,000,000; or
+  (2) that plan to carry out projects that would result in significant energy efficiency improvements or reductions in fossil fuel use.

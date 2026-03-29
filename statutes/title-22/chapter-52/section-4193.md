@@ -1,0 +1,14 @@
+---
+title: "Section 4193 - Protests"
+usc_title: 22
+usc_section: "4193"
+chapter: 52
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 4193"
+generated_at: "2026-03-29T00:30:33.920Z"
+---
+
+# § 4193. Protests
+
+Consuls and vice consuls shall have the right, in the ports or places to which they are severally appointed, of receiving the protests or declarations which captains, masters, crews, passengers, or merchants, who are citizens of the United States, may respectively choose to make there; and also such as any foreigner may choose to make before them relative to the personal interest of any citizen of the United States.
+

@@ -1,0 +1,14 @@
+---
+title: "Section 5356 - Appropriations"
+usc_title: 5
+usc_section: "5356"
+chapter: 53
+current_through: "PL 119-73"
+classification: "5 U.S.C. § 5356"
+generated_at: "2026-03-29T00:28:38.338Z"
+---
+
+# § 5356. Appropriations
+
+Funds appropriated to an agency for expenses of its hospitals, clinics, and laboratories to which student-employees are assigned or attached are available to carry out the provisions of this subchapter.
+

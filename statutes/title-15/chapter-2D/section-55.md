@@ -1,0 +1,14 @@
+---
+title: "Section 55 - Qualifications of directors"
+usc_title: 15
+usc_section: "55"
+chapter: 2
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 55"
+generated_at: "2026-03-29T00:29:41.545Z"
+---
+
+# § 80a–55. Qualifications of directors
+
+(a) A majority of a business development company’s directors or general partners shall be persons who are not interested persons of such company.
+(b) If, by reason of the death, disqualification, or bona fide resignation of any director or general partner, a business development company does not meet the requirements of subsection (a) of this section, or the requirements of section 80a–15(f)(1) of this title with respect to directors, the operation of such provisions shall be suspended for a period of 90 days or for such longer period as the Commission may prescribe, upon its own motion or by order upon application, as not inconsistent with the protection of investors.

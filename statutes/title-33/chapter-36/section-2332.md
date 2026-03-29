@@ -1,0 +1,93 @@
+---
+title: "Section 2332 - Shoreline and riverine protection and restoration"
+usc_title: 33
+usc_section: "2332"
+chapter: 36
+current_through: "PL 119-73"
+classification: "33 U.S.C. § 2332"
+generated_at: "2026-03-29T00:31:57.426Z"
+---
+
+# § 2332. Shoreline and riverine protection and restoration
+
+(a) The Secretary may carry out studies and projects to—
+  (1) reduce flood and hurricane and storm damage hazards; or
+  (2) restore the natural functions and values of rivers and shorelines throughout the United States.
+(b) 
+  (1) 
+    (A) In carrying out subsection (a), the Secretary may carry out studies to identify appropriate measures for—
+      (i) the reduction of flood and hurricane and storm damage hazards, including measures for erosion mitigation and bank stabilization; or
+      (ii) the conservation and restoration of the natural functions and values of rivers and shorelines.
+    (B) Subject to subsection (f)(2), in carrying out subsection (a), the Secretary may design and implement projects described in subsection (a).
+  (2) The studies and projects carried out under this section shall be conducted, to the maximum extent practicable, in consultation and coordination with the Federal Emergency Management Agency and other appropriate Federal agencies, and in consultation and coordination with appropriate State and local agencies and tribes.
+  (3) The studies and projects shall emphasize, to the maximum extent practicable and appropriate, nonstructural approaches to preventing or reducing flood and hurricane and storm damages, including the use of natural features or nature-based features.
+  (4) The studies and projects shall be conducted, to the maximum extent practicable, in cooperation with State and local agencies and tribes to ensure the coordination of local flood and hurricane and storm damage reduction or riverine, shoreline, and wetland restoration studies with projects that conserve, restore, and manage hydrologic and hydraulic regimes and restore the natural functions and values of floodplains and coastal barriers.
+(c) 
+  (1) Studies conducted under this section shall be subject to cost sharing in accordance with section 2215 of this title , except that the first $200,000 of the costs of a study conducted under this section shall be at Federal expense.
+  (2) 
+    (A) Design and construction of a project under this section that includes a nonstructural measure, a natural feature or nature-based feature, or an environmental restoration measure, shall be subject to cost sharing in accordance with section 2213 of this title , except that the non-Federal share of the cost to design and construct such a project benefitting an economically disadvantaged community (including economically disadvantaged communities located in urban and rural areas) shall be 10 percent.
+    (B) The non-Federal interests shall provide all land, easements, rights-of-way, dredged material disposal areas, and relocations necessary for such projects.
+    (C) The value of such land, easements, rights-of-way, dredged material disposal areas, and relocations shall be credited toward the payment required under this paragraph.
+  (3) Any structural flood control or hurricane and storm damage reduction projects carried out under this section shall be subject to cost sharing in accordance with section 2213 of this title , except that the non-Federal share of the cost to design and construct such a project benefitting an economically disadvantaged community (including economically disadvantaged communities located in urban and rural areas) shall be 10 percent.
+  (4) The non-Federal interests shall be responsible for all costs associated with operating, maintaining, replacing, repairing, and rehabilitating all projects carried out under this section.
+(d) Notwithstanding any requirement for economic justification established under section 1962–2 of title 42 , the Secretary may implement a project under this section if the Secretary determines that the project—
+  (1) will significantly reduce potential flood, hurricane and storm, or erosion damages;
+  (2) will improve the quality of the environment; and
+  (3) is justified considering all costs and beneficial outputs of the project.
+(e) 
+  (1) In carrying out this section, the Secretary shall examine appropriate locations, including—
+    (A) Pima County, Arizona, at Paseo De Las Iglesias and Rillito River;
+    (B) Coachella Valley, Riverside County, California;
+    (C) Los Angeles and San Gabriel Rivers, California;
+    (D) Murrieta Creek, California;
+    (E) Napa River Valley watershed, California, at Yountville, St. Helena, Calistoga, and American Canyon;
+    (F) Santa Clara basin, California, at Upper Guadalupe River and Tributaries, San Francisquito Creek, and Upper Penitencia Creek;
+    (G) Pond Creek, Kentucky;
+    (H) Red River of the North, Minnesota, North Dakota, and South Dakota;
+    (I) Connecticut River, New Hampshire;
+    (J) Pine Mount Creek, New Jersey;
+    (K) Southwest Valley, Albuquerque, New Mexico;
+    (L) Upper Delaware River, New York;
+    (M) Briar Creek, North Carolina;
+    (N) Chagrin River, Ohio;
+    (O) Mill Creek, Cincinnati, Ohio;
+    (P) Tillamook County, Oregon;
+    (Q) Willamette River basin, Oregon;
+    (R) Blair County, Pennsylvania, at Altoona and Frankstown Township;
+    (S) Delaware River, Pennsylvania;
+    (T) Schuylkill River, Pennsylvania;
+    (U) Providence County, Rhode Island;
+    (V) Shenandoah River, Virginia;
+    (W) Lincoln Creek, Wisconsin;
+    (X) Perry Creek, Iowa;
+    (Y) Lester, St. Louis, East Savanna, and Floodwood Rivers, Duluth, Minnesota;
+    (Z) Lower Hudson River and tributaries, New York;
+    (AA) Susquehanna River watershed, Bradford County, Pennsylvania;
+    (BB) Clear Creek, Harris, Galveston, and Brazoria Counties, Texas;
+    (CC) Ascension Parish, Louisiana;
+    (DD) East Baton Rouge Parish, Louisiana;
+    (EE) Iberville Parish, Louisiana;
+    (FF) Livingston Parish, Louisiana; and
+    (GG) Pointe Coupee Parish, Louisiana.
+  (2) In carrying out this section, the Secretary shall prioritize projects for the following locations:
+    (A) Delaware beaches and watersheds, Delaware.
+    (B) Louisiana Coastal Area, Louisiana.
+    (C) Great Lakes Shores and Watersheds.
+    (D) Oregon Coastal Area and Willamette River basin, Oregon.
+    (E) Upper Missouri River Basin.
+    (F) Ohio River Tributaries and their watersheds, West Virginia.
+    (G) Chesapeake Bay watershed and Maryland beaches, Maryland.
+    (H) City of Southport, North Carolina.
+    (I) Maumee River, Ohio.
+    (J) Los Angeles and San Gabriel Rivers, California.
+    (K) Kentucky River and its tributaries and watersheds.
+    (L) Shoreline of the State of Connecticut.
+    (M) Winooski River tributary watershed, Vermont.
+(f) 
+  (1) The Secretary shall not implement any project under this section until—
+    (A) the Secretary submits to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a written notification describing the project and the determinations made under subsection (d)(1); and
+    (B) 21 calendar days have elapsed after the date on which the notification was received by the committees.
+  (2) If the Federal share of the cost to design and construct a project under this section exceeds $15,000,000, the Secretary may only carry out the project if Congress enacts a law authorizing the Secretary to carry out the project.
+(g) In this section:
+  (1) The term “economically disadvantaged community” has the meaning given the term as defined by the Secretary under section 160 of the Water Resources Development Act of 2020 ( 33 U.S.C. 2201 note).
+  (2) The terms “natural feature” and “nature-based feature” have the meanings given those terms in section 2289a(a) of this title .

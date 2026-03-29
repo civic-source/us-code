@@ -1,0 +1,14 @@
+---
+title: "Section 421a - Construction of distribution and drainage systems by irrigation districts or public agencies"
+usc_title: 43
+usc_section: "421a"
+chapter: 12
+current_through: "PL 119-73"
+classification: "43 U.S.C. § 421a"
+generated_at: "2026-03-29T00:32:57.343Z"
+---
+
+# § 421a. Construction of distribution and drainage systems by irrigation districts or public agencies
+
+Distribution and drainage systems authorized to be constructed under the Federal reclamation laws may, in lieu of construction by the Secretary of the Interior (referred to in sections 421a to 421h of this title as the “Secretary”), be constructed by irrigation districts or other public agencies according to plans and specifications approved by the Secretary as provided in sections 421a to 421h of this title. The drainage systems referred to in sections 421a to 421h of this title are those required for collection and removal of excess irrigation water, either on or below the surface of the ground and do not include enlargement or alteration of existing waterways for disposition or natural runoff.
+

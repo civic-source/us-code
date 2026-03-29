@@ -1,0 +1,14 @@
+---
+title: "Section 2621 - National defense waiver"
+usc_title: 15
+usc_section: "2621"
+chapter: 53
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 2621"
+generated_at: "2026-03-29T00:29:41.799Z"
+---
+
+# § 2621. National defense waiver
+
+The Administrator shall waive compliance with any provision of this chapter upon a request and determination by the President that the requested waiver is necessary in the interest of national defense. The Administrator shall maintain a written record of the basis upon which such waiver was granted and make such record available for in camera examination when relevant in a judicial proceeding under this chapter. Upon the issuance of such a waiver, the Administrator shall publish in the Federal Register a notice that the waiver was granted for national defense purposes, unless, upon the request of the President, the Administrator determines to omit such publication because the publication itself would be contrary to the interests of national defense, in which event the Administrator shall submit notice thereof to the Armed Services Committees of the Senate and the House of Representatives.
+

@@ -1,0 +1,14 @@
+---
+title: "Section 702b - Local contribution toward cost of flood control work"
+usc_title: 33
+usc_section: "702b"
+chapter: 15
+current_through: "PL 119-73"
+classification: "33 U.S.C. § 702b"
+generated_at: "2026-03-29T00:31:57.244Z"
+---
+
+# § 702b. Local contribution toward cost of flood control work
+
+It is declared to be the sense of Congress that the principle of local contribution toward the cost of flood control work, which has been incorporated in all previous national legislation on the subject, is sound, as recognizing the special interest of the local population in its own protection, and as a means of preventing inordinate requests for unjustified items of work having no material national interest. As a full compliance with this principle in view of the great expenditure estimated at approximately $292,000,000, prior to May 15, 1928 , made by the local interests in the alluvial valley of the Mississippi River for protection against the floods of that river; in view of the extent of national concern in the control of these floods in the interests of national prosperity, the flow of interstate commerce, and the movement of the United States mails; and, in view of the gigantic scale of the project, involving flood waters of a volume and flowing from a drainage area largely outside the States most affected, and far exceeding those of any other river in the United States, no local contribution to the project herein adopted is required.
+

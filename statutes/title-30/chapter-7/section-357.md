@@ -1,0 +1,14 @@
+---
+title: "Section 357 - State or local government rights; taxation"
+usc_title: 30
+usc_section: "357"
+chapter: 7
+current_through: "PL 119-73"
+classification: "30 U.S.C. § 357"
+generated_at: "2026-03-29T00:31:30.767Z"
+---
+
+# § 357. State or local government rights; taxation
+
+Nothing contained in this chapter shall be construed to affect the rights of the State or other local authorities to exercise any right which they may have with respect to properties covered by leases issued under this chapter, including the right to levy and collect taxes upon improvements, output of mines, or other rights, property, or assets of any lessee of the United States.
+

@@ -1,0 +1,17 @@
+---
+title: "Section 47533 - Relationship to other laws"
+usc_title: 49
+usc_section: "47533"
+chapter: 475
+current_through: "PL 119-73"
+classification: "49 U.S.C. § 47533"
+generated_at: "2026-03-29T00:33:13.936Z"
+---
+
+# § 47533. Relationship to other laws
+
+Except as provided by section 47524 of this title , this subchapter does not affect—
+
+  (1) law in effect on November 5, 1990 , on airport noise or access restrictions by local authorities;
+  (2) any proposed airport noise or access restriction at a general aviation airport if the airport proprietor has formally initiated a regulatory or legislative process before October 2, 1990 ; or
+  (3) the authority of the Secretary of Transportation to seek and obtain legal remedies the Secretary considers appropriate, including injunctive relief.

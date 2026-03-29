@@ -1,0 +1,14 @@
+---
+title: "Section 430dd - Dedication"
+usc_title: 16
+usc_section: "430dd"
+chapter: 1
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 430dd"
+generated_at: "2026-03-29T00:29:52.428Z"
+---
+
+# § 430dd. Dedication
+
+Sections 430aa to 430ee of this title shall become effective if and when the requirements of sections 430aa and 430bb of this title shall have been fully complied with to the satisfaction of the President of the United States, who shall then issue a notice declaring that the requirements herein have been met, and said notice shall formally dedicate and set aside the areas transferred to the United States in accordance with the provisions of section 430aa of this title .
+

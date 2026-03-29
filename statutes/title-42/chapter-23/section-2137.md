@@ -1,0 +1,18 @@
+---
+title: "Section 2137 - Operators’ licenses"
+usc_title: 42
+usc_section: "2137"
+chapter: 23
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 2137"
+generated_at: "2026-03-29T00:32:53.749Z"
+---
+
+# § 2137. Operators’ licenses
+
+The Commission shall—
+
+(a) prescribe uniform conditions for licensing individuals as operators of any of the various classes of production and utilization facilities licensed in this chapter;
+(b) determine the qualifications of such individuals;
+(c) issue licenses to such individuals in such form as the Commission may prescribe; and
+(d) suspend such licenses for violations of any provision of this chapter or any rule or regulation issued thereunder whenever the Commission deems such action desirable.

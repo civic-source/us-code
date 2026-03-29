@@ -1,0 +1,14 @@
+---
+title: "Section 3058a - Authorization of appropriations"
+usc_title: 42
+usc_section: "3058a"
+chapter: 35
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 3058a"
+generated_at: "2026-03-29T00:32:53.821Z"
+---
+
+# § 3058a. Authorization of appropriations
+
+(a) There are authorized to be appropriated to carry out subpart II, $18,066,950 for fiscal year 2020, $19,150,967 for fiscal year 2021, $20,300,025 for fiscal year 2022, $21,518,027 for fiscal year 2023, and $22,809,108 for fiscal year 2024.
+(b) There are authorized to be appropriated to carry out subparts III and IV, $5,107,110 for fiscal year 2020, $5,413,537 for fiscal year 2021, $5,738,349 for fiscal year 2022, $6,082,650 for fiscal year 2023, and $6,447,609 for fiscal year 2024.

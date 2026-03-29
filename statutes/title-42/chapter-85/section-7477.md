@@ -1,0 +1,14 @@
+---
+title: "Section 7477 - Enforcement"
+usc_title: 42
+usc_section: "7477"
+chapter: 85
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 7477"
+generated_at: "2026-03-29T00:32:54.051Z"
+---
+
+# § 7477. Enforcement
+
+The Administrator shall, and a State may, take such measures, including issuance of an order, or seeking injunctive relief, as necessary to prevent the construction or modification of a major emitting facility which does not conform to the requirements of this part, or which is proposed to be constructed in any area designated pursuant to section 7407(d) of this title as attainment or unclassifiable and which is not subject to an implementation plan which meets the requirements of this part.
+

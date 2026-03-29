@@ -1,0 +1,25 @@
+---
+title: "Section 989 - Other definitions and special rules"
+usc_title: 26
+usc_section: "989"
+chapter: 1
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 989"
+generated_at: "2026-03-29T00:31:20.858Z"
+---
+
+# § 989. Other definitions and special rules
+
+(a) For purposes of this subpart, the term “qualified business unit” means any separate and clearly identified unit of a trade or business of a taxpayer which maintains separate books and records.
+(b) Except as provided in regulations, for purposes of this subpart, the term “appropriate exchange rate” means—
+  (1) in the case of an actual distribution of earnings and profits, the spot rate on the date such distribution is included in income,
+  (2) in the case of an actual or deemed sale or exchange of stock in a foreign corporation treated as a dividend under section 1248, the spot rate on the date the deemed dividend is included in income,
+  (3) in the case of any amounts included in income under section 951(a)(1)(A) or 1293(a), the average exchange rate for the taxable year of the foreign corporation, or
+  (4) in the case of any other qualified business unit of a taxpayer, the average exchange rate for the taxable year of such qualified business unit.
+(c) The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subpart, including regulations—
+  (1) setting forth procedures to be followed by taxpayers with qualified business units using a net worth method of accounting before the enactment of this subpart,
+  (2) limiting the recognition of foreign currency loss on certain remittances from qualified business units,
+  (3) providing for the recharacterization of interest and principal payments with respect to obligations denominated in certain hyperinflationary currencies,
+  (4) providing for alternative adjustments to the application of section 905(c),
+  (5) providing for the appropriate treatment of related party transactions (including transactions between qualified business units of the same taxpayer), and
+  (6) setting forth procedures for determining the average exchange rate for any period.

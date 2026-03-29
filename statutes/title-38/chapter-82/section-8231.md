@@ -1,0 +1,14 @@
+---
+title: "Section 8231 - Declaration of purpose"
+usc_title: 38
+usc_section: "8231"
+chapter: 82
+current_through: "PL 119-73"
+classification: "38 U.S.C. § 8231"
+generated_at: "2026-03-29T00:32:17.363Z"
+---
+
+# § 8231. Declaration of purpose
+
+The purpose of this subchapter is to authorize the Secretary to carry out a program of grants to provide assistance in the establishment of cooperative arrangements among universities, colleges, junior colleges, community colleges, schools of allied health professions, State and local systems of education, hospitals, and other nonprofit health manpower institutions affiliated with the Department, designed to coordinate, improve, and expand the training of professional and technical allied health and paramedical personnel, and to assist in developing and evaluating new health careers, interdisciplinary approaches and career advancement opportunities, so as to improve and expand allied and other health manpower utilization.
+

@@ -1,0 +1,14 @@
+---
+title: "Section 669 - Theft or embezzlement in connection with health care"
+usc_title: 18
+usc_section: "669"
+chapter: 31
+current_through: "PL 119-73"
+classification: "18 U.S.C. § 669"
+generated_at: "2026-03-29T00:30:15.624Z"
+---
+
+# § 669. Theft or embezzlement in connection with health care
+
+(a) Whoever knowingly and willfully embezzles, steals, or otherwise without authority converts to the use of any person other than the rightful owner, or intentionally misapplies any of the moneys, funds, securities, premiums, credits, property, or other assets of a health care benefit program, shall be fined under this title or imprisoned not more than 10 years, or both; but if the value of such property does not exceed the sum of $100 the defendant shall be fined under this title or imprisoned not more than one year, or both.
+(b) As used in this section, the term “health care benefit program” has the meaning given such term in section 24(b) of this title .

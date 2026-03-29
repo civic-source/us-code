@@ -1,0 +1,87 @@
+---
+title: "Section 50 - Other special rules"
+usc_title: 26
+usc_section: "50"
+chapter: 1
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 50"
+generated_at: "2026-03-29T00:31:20.599Z"
+---
+
+# § 50. Other special rules
+
+(a) Under regulations prescribed by the Secretary—
+  (1) 
+    (A) If, during any taxable year, investment credit property is disposed of, or otherwise ceases to be investment credit property with respect to the taxpayer, before the close of the recapture period, then the tax under this chapter for such taxable year shall be increased by the recapture percentage of the aggregate decrease in the credits allowed under section 38 for all prior taxable years which would have resulted solely from reducing to zero any credit determined under this subpart with respect to such property.
+    (B) For purposes of subparagraph (A), the recapture percentage shall be determined in accordance with the following table: If the property ceases to be investment credit property within— The recapture percentage is: (i) One full year after placed in service 100 (ii) One full year after the close of the period described in clause (i) 80 (iii) One full year after the close of the period described in clause (ii) 60 (iv) One full year after the close of the period described in clause (iii) 40 (v) One full year after the close of the period described in clause (iv) 20
+  (2) 
+    (A) If during any taxable year any building to which section 47(d) applied ceases (by reason of sale or other disposition, cancellation or abandonment of contract, or otherwise) to be, with respect to the taxpayer, property which, when placed in service, will be a qualified rehabilitated building, then the tax under this chapter for such taxable year shall be increased by an amount equal to the aggregate decrease in the credits allowed under section 38 for all prior taxable years which would have resulted solely from reducing to zero the credit determined under this subpart with respect to such building.
+    (B) Any amount which would have been applied as a reduction under paragraph (2) of section 47(b) but for the fact that a reduction under such paragraph cannot reduce the amount taken into account under section 47(b)(1) below zero shall be treated as an amount required to be recaptured under subparagraph (A) for the taxable year during which the building is placed in service.
+    (C) Under regulations prescribed by the Secretary, a sale by, and leaseback to, a taxpayer who, when the property is placed in service, will be a lessee to whom the rules referred to in subsection (d)(5) apply shall not be treated as a cessation described in subparagraph (A) to the extent that the amount which will be passed through to the lessee under such rules with respect to such property is not less than the qualified rehabilitation expenditures properly taken into account by the lessee under section 47(d) with respect to such property.
+    (D) If, after property is placed in service, there is a disposition or other cessation described in paragraph (1), then paragraph (1) shall be applied as if any credit which was allowable by reason of section 47(d) and which has not been required to be recaptured before such disposition, cessation, or change in use were allowable for the taxable year the property was placed in service.
+    (E) Rules similar to the rules of this paragraph shall apply in cases where qualified progress expenditures were taken into account under the rules referred to in section 48(b), 48A(b)(3), 48B(b)(3), 48C(b)(2), 48D(b)(5), or 48E(e).
+  (3) 
+    (A) If there is a an applicable transaction by an applicable taxpayer before the close of the 10-year period beginning on the date such taxpayer placed in service investment credit property which is eligible for the advanced manufacturing investment credit under section 48D(a), then the tax under this chapter for the taxable year in which such transaction occurs shall be increased by 100 percent of the aggregate decrease in the credits allowed under section 38 for all prior taxable years which would have resulted solely from reducing to zero any credit determined under section 46 which is attributable to the advanced manufacturing investment credit under section 48D(a) with respect to such property.
+    (B) Subparagraph (A) shall not apply if the applicable taxpayer demonstrates to the satisfaction of the Secretary that the applicable transaction has been ceased or abandoned within 45 days of a determination and notice by the Secretary.
+    (C) The Secretary shall issue such regulations or other guidance as the Secretary determines necessary or appropriate to carry out the purposes of this paragraph, including regulations or other guidance which provide for requirements for recordkeeping or information reporting for purposes of administering the requirements of this paragraph.
+  (4) 
+    (A) If there is an applicable payment made by a specified taxpayer before the close of the 10-year period beginning on the date such taxpayer placed in service investment credit property which is eligible for the clean electricity investment credit under section 48E(a), then the tax under this chapter for the taxable year in which such applicable payment occurs shall be increased by 100 percent of the aggregate decrease in the credits allowed under section 38 for all prior taxable years which would have resulted solely from reducing to zero any credit determined under section 46 which is attributable to the clean electricity investment credit under section 48E(a) with respect to such property.
+    (B) For purposes of this paragraph, the term “applicable payment” means, with respect to any taxable year, a payment or payments described in section 7701(a)(51)(D)(i)(II).
+    (C) For purposes of this paragraph, the term “specified taxpayer” means any taxpayer who has been allowed a credit under section 48E(a) for any taxable year beginning after the date which is 2 years after the date of enactment of this paragraph.
+  (5) In the case of any cessation described in paragraph (1) or (2), any applicable transaction to which paragraph (3)(A) applies, or any applicable payment to which paragraph (4)(A) applies, the carrybacks and carryovers under section 39 shall be adjusted by reason of such cessation or applicable transaction.
+  (6) Paragraphs (1) and (2) shall not apply to—
+    (A) a transfer by reason of death, or
+    (B) a transaction to which section 381(a) applies.
+  (7) 
+    (A) For purposes of this subsection, the term “investment credit property” means any property eligible for a credit determined under this subpart.
+    (B) In the case of any transfer described in subsection (a) of section 1041—
+      (i) the foregoing provisions of this subsection shall not apply, and
+      (ii) the same tax treatment under this subsection with respect to the transferred property shall apply to the transferee as would have applied to the transferor.
+    (C) Any increase in tax under paragraph (1), (2), (3), or (4) shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit allowable under this chapter.
+    (D) For purposes of this subsection—
+      (i) The term “applicable transaction” means, with respect to any applicable taxpayer, any significant transaction (as determined by the Secretary, in coordination with the Secretary of Commerce and the Secretary of Defense) involving the material expansion of semiconductor manufacturing capacity of such applicable taxpayer in the People’s Republic of China or a foreign country of concern (as defined in section 9901(7) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021).
+      (ii) Such term shall not include a transaction which primarily involves the expansion of manufacturing capacity for legacy semiconductors (as defined in section 9902(a)(6) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021).
+    (E) For purposes of this subsection, the term “applicable taxpayer” means any taxpayer who has been allowed a credit under section 48D(a) for any prior taxable year.
+(b) No credit shall be determined under this subpart with respect to—
+  (1) 
+    (A) Except as provided in subparagraph (B), no credit shall be determined under this subpart with respect to any property which is used predominantly outside the United States.
+    (B) Subparagraph (A) shall not apply to any property described in section 168(g)(4).
+  (2) No credit shall be determined under this subpart with respect to any property which is used predominantly to furnish lodging or in connection with the furnishing of lodging. The preceding sentence shall not apply to—
+    (A) nonlodging commercial facilities which are available to persons not using the lodging facilities on the same basis as they are available to persons using the lodging facilities;
+    (B) property used by a hotel or motel in connection with the trade or business of furnishing lodging where the predominant portion of the accommodations is used by transients;
+    (C) a certified historic structure to the extent of that portion of the basis which is attributable to qualified rehabilitation expenditures; and
+    (D) any energy property.
+  (3) No credit shall be determined under this subpart with respect to any property used by an organization (other than a cooperative described in section 521) which is exempt from the tax imposed by this chapter unless such property is used predominantly in an unrelated trade or business the income of which is subject to tax under section 511. If the property is debt-financed property (as defined in section 514(b)), the amount taken into account for purposes of determining the amount of the credit under this subpart with respect to such property shall be that percentage of the amount (which but for this paragraph would be so taken into account) which is the same percentage as is used under section 514(a), for the year the property is placed in service, in computing the amount of gross income to be taken into account during such taxable year with respect to such property. If any qualified rehabilitated building is used by the tax-exempt organization pursuant to a lease, this paragraph shall not apply for purposes of determining the amount of the rehabilitation credit.
+  (4) 
+    (A) No credit shall be determined under this subpart with respect to any property used—
+      (i) by the United States, any State or political subdivision thereof, any possession of the United States, or any agency or instrumentality of any of the foregoing, or
+      (ii) by any foreign person or entity (as defined in section 168(h)(2)(C)), but only with respect to property to which section 168(h)(2)(A)(iii) applies (determined after the application of section 168(h)(2)(B)).
+    (B) This paragraph and paragraph (3) shall not apply to any property by reason of use under a lease with a term of less than 6 months (determined under section 168(i)(3)).
+    (C) If any qualified rehabilitated building is leased to a governmental unit (or a foreign person or entity) this paragraph shall not apply for purposes of determining the rehabilitation credit with respect to such building.
+    (D) For purposes of this paragraph and paragraph (3), rules similar to the rules of paragraphs (5) and (6) of section 168(h) shall apply.
+    (E) For special rules for the application of this paragraph and paragraph (3), see section 168(h).
+(c) 
+  (1) For purposes of this subtitle, if a credit is determined under this subpart with respect to any property, the basis of such property shall be reduced by the amount of the credit so determined.
+  (2) If during any taxable year there is a recapture amount determined with respect to any property the basis of which was reduced under paragraph (1), the basis of such property (immediately before the event resulting in such recapture) shall be increased by an amount equal to such recapture amount. For purposes of the preceding sentence, the term “recapture amount” means any increase in tax (or adjustment in carrybacks or carryovers) determined under subsection (a).
+  (3) In the case of any energy credit or clean electricity investment credit—
+    (A) only 50 percent of such credit shall be taken into account under paragraph (1),
+    (B) only 50 percent of any recapture amount attributable to such credit shall be taken into account under paragraph (2), and
+    (C) paragraph (1) shall not apply for purposes of determining eligible basis under section 42.
+  (4) 
+    (A) For purposes of sections 1245 and 1250, any reduction under this subsection shall be treated as a deduction allowed for depreciation.
+    (B) For purposes of section 1250(b), the determination of what would have been the depreciation adjustments under the straight line method shall be made as if there had been no reduction under this section.
+  (5) The adjusted basis of—
+    (A) a partner’s interest in a partnership, and
+    (B) stock in an S corporation,
+(d) For purposes of this subpart, rules similar to the rules of the following provisions (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply:
+  (1) Section 46(e) (relating to limitations with respect to certain persons).
+  (2) Section 46(f) (relating to limitation in case of certain regulated companies). At the election of a taxpayer, this paragraph shall not apply to any energy storage technology (as defined in section 48(c)(6)), provided—
+    (A) no election under this paragraph shall be permitted if the making of such election is prohibited by a State or political subdivision thereof, by any agency or instrumentality of the United States, or by a public service or public utility commission or other similar body of any State or political subdivision that regulates public utilities as described in section 7701(a)(33)(A),
+    (B) an election under this paragraph shall be made separately with respect to each energy storage technology by the due date (including extensions) of the Federal tax return for the taxable year in which the energy storage technology is placed in service by the taxpayer, and once made, may be revoked only with the consent of the Secretary, and
+    (C) an election shall not apply with respect to any energy storage technology if such energy storage technology has a maximum capacity equal to or less than 500 kilowatt hours.
+  (3) Section 46(h) (relating to special rules for cooperatives).
+  (4) Paragraphs (2) and (3) of section 48(b) (relating to special rule for sale-leasebacks).
+  (5) Section 48(d) (relating to certain leased property).
+  (6) Section 48(f) (relating to estates and trusts).
+  (7) Section 48(r) (relating to certain 501(d) organizations).
+(e) For purposes of this section and section 168, the ownership of energy property described in section 48(a)(3)(A)(vii) shall be determined without regard to whether such property is readily usable by a person other than the lessee or service recipient.

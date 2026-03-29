@@ -1,0 +1,14 @@
+---
+title: "Section 6757 - Report by the Association"
+usc_title: 15
+usc_section: "6757"
+chapter: 93
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 6757"
+generated_at: "2026-03-29T00:29:41.902Z"
+---
+
+# § 6757. Report by the Association
+
+(a) As soon as practicable after the close of each fiscal year, the Association shall submit to the President, through the Department of the Treasury, and the States (including State insurance regulators), and shall publish on the website of the Association, a written report regarding the conduct of its business, and the exercise of the other rights and powers granted by this subchapter, during such fiscal year.
+(b) Each report submitted under subsection (a) with respect to any fiscal year shall include audited financial statements setting forth the financial position of the Association at the end of such fiscal year and the results of its operations (including the source and application of its funds) for such fiscal year.

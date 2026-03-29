@@ -1,0 +1,14 @@
+---
+title: "Section 7301 - Environmental impact statements"
+usc_title: 42
+usc_section: "7301"
+chapter: 84
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 7301"
+generated_at: "2026-03-29T00:32:54.022Z"
+---
+
+# § 7301. Environmental impact statements
+
+The transfer of functions under subchapters III and IV of this chapter shall not affect the validity of any draft environmental impact statement published before October 1, 1977 .
+

@@ -1,0 +1,14 @@
+---
+title: "Section 160i - Applicability to treaties, orders, or agreements"
+usc_title: 16
+usc_section: "160i"
+chapter: 1
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 160i"
+generated_at: "2026-03-29T00:29:52.311Z"
+---
+
+# § 160i. Applicability to treaties, orders, or agreements
+
+Nothing in this subchapter shall be construed to affect the provisions of any treaty now or hereafter in force between the United States and Great Britain relating to Canada or between the United States and Canada, or of any order or agreement made or entered into pursuant to any such treaty, which by its terms would be applicable to the lands and waters which may be acquired by the Secretary hereunder, including, without limitation on the generality of the foregoing, the Convention Between the United States and Canada on Emergency Regulation of Level of Rainy Lake and of Other Boundary Waters in the Rainy Lake Watershed, signed September 15, 1938 , and any order issued pursuant thereto.
+

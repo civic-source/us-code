@@ -1,0 +1,14 @@
+---
+title: "Section 12106 - Surrender of title and number"
+usc_title: 46
+usc_section: "12106"
+chapter: 121
+current_through: "PL 119-73"
+classification: "46 U.S.C. § 12106"
+generated_at: "2026-03-29T00:33:02.888Z"
+---
+
+# § 12106. Surrender of title and number
+
+(a) A documented vessel may not be titled by a State or required to display numbers under chapter 123 of this title, and any certificate of title issued by a State for a documented vessel shall be surrendered as provided by regulations prescribed by the Secretary.
+(b) The Secretary may approve the surrender under subsection (a) of a certificate of title for a vessel covered by a preferred mortgage under section 31322(d) of this title only if the mortgagee consents.

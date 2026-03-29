@@ -1,0 +1,17 @@
+---
+title: "Section 7301 - Property subject to tax"
+usc_title: 26
+usc_section: "7301"
+chapter: 75
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 7301"
+generated_at: "2026-03-29T00:31:21.083Z"
+---
+
+# § 7301. Property subject to tax
+
+(a) Any property on which, or for or in respect whereof, any tax is imposed by this title which shall be found in the possession or custody or within the control of any person, for the purpose of being sold or removed by him in fraud of the internal revenue laws, or with design to avoid payment of such tax, or which is removed, deposited, or concealed, with intent to defraud the United States of such tax or any part thereof, may be seized, and shall be forfeited to the United States.
+(b) All property found in the possession of any person intending to manufacture the same into property of a kind subject to tax for the purpose of selling such taxable property in fraud of the internal revenue laws, or with design to evade the payment of such tax, may also be seized, and shall be forfeited to the United States.
+(c) All property whatsoever, in the place or building, or any yard or enclosure, where the property described in subsection (a) or (b) is found, or which is intended to be used in the making of property described in subsection (a), with intent to defraud the United States of tax or any part thereof, on the property described in subsection (a) may also be seized, and shall be forfeited to the United States.
+(d) All property used as a container for, or which shall have contained, property described in subsection (a) or (b) may also be seized, and shall be forfeited to the United States.
+(e) Any property (including aircraft, vehicles, vessels, or draft animals) used to transport or for the deposit or concealment of property described in subsection (a) or (b), or any property used to transport or for the deposit or concealment of property which is intended to be used in the making or packaging of property described in subsection (a), may also be seized, and shall be forfeited to the United States.

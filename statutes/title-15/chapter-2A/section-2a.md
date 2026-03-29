@@ -1,0 +1,20 @@
+---
+title: "Section 2a - Conflicts of interest relating to certain securitizations"
+usc_title: 15
+usc_section: "2a"
+chapter: 2
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 2a"
+generated_at: "2026-03-29T00:29:41.458Z"
+---
+
+# § 77z–2a. Conflicts of interest relating to certain securitizations
+
+(a) An underwriter, placement agent, initial purchaser, or sponsor, or any affiliate or subsidiary of any such entity, of an asset-backed security (as such term is defined in section 78c of this title , which for the purposes of this section shall include a synthetic asset-backed security), shall not, at any time for a period ending on the date that is one year after the date of the first closing of the sale of the asset-backed security, engage in any transaction that would involve or result in any material conflict of interest with respect to any investor in a transaction arising out of such activity.
+(b) Not later than 270 days after July 21, 2010 , the Commission shall issue rules for the purpose of implementing subsection (a).
+(c) The prohibitions of subsection (a) shall not apply to—
+  (1) risk-mitigating hedging activities in connection with positions or holdings arising out of the underwriting, placement, initial purchase, or sponsorship of an asset-backed security, provided that such activities are designed to reduce the specific risks to the underwriter, placement agent, initial purchaser, or sponsor associated with positions or holdings arising out of such underwriting, placement, initial purchase, or sponsorship; or
+  (2) purchases or sales of asset-backed securities made pursuant to and consistent with—
+    (A) commitments of the underwriter, placement agent, initial purchaser, or sponsor, or any affiliate or subsidiary of any such entity, to provide liquidity for the asset-backed security, or
+    (B) bona fide market-making in the asset backed security.
+(d) This subsection 1 1 So in original. Probably should be “section”. shall not otherwise limit the application of section 78 o –11 of this title.

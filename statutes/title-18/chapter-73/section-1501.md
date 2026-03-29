@@ -1,0 +1,14 @@
+---
+title: "Section 1501 - Assault on process server"
+usc_title: 18
+usc_section: "1501"
+chapter: 73
+current_through: "PL 119-73"
+classification: "18 U.S.C. § 1501"
+generated_at: "2026-03-29T00:30:15.671Z"
+---
+
+# § 1501. Assault on process server
+
+Whoever knowingly and willfully obstructs, resists, or opposes any officer of the United States, or other person duly authorized, in serving, or attempting to serve or execute, any legal or judicial writ or process of any court of the United States, or United States magistrate judge; or Whoever assaults, beats, or wounds any officer or other person duly authorized, knowing him to be such officer, or other person so duly authorized, in serving or executing any such writ, rule, order, process, warrant, or other legal or judicial writ or process— Shall, except as otherwise provided by law, be fined under this title or imprisoned not more than one year, or both.
+

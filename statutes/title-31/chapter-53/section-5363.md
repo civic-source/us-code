@@ -1,0 +1,18 @@
+---
+title: "Section 5363 - Prohibition on acceptance of any financial instrument for unlawful Internet gambling"
+usc_title: 31
+usc_section: "5363"
+chapter: 53
+current_through: "PL 119-73"
+classification: "31 U.S.C. § 5363"
+generated_at: "2026-03-29T00:31:52.651Z"
+---
+
+# § 5363. Prohibition on acceptance of any financial instrument for unlawful Internet gambling
+
+No person engaged in the business of betting or wagering may knowingly accept, in connection with the participation of another person in unlawful Internet gambling—
+
+  (1) credit, or the proceeds of credit, extended to or on behalf of such other person (including credit extended through the use of a credit card);
+  (2) an electronic fund transfer, or funds transmitted by or through a money transmitting business, or the proceeds of an electronic fund transfer or money transmitting service, from or on behalf of such other person;
+  (3) any check, draft, or similar instrument which is drawn by or on behalf of such other person and is drawn on or payable at or through any financial institution; or
+  (4) the proceeds of any other form of financial transaction, as the Secretary and the Board of Governors of the Federal Reserve System may jointly prescribe by regulation, which involves a financial institution as a payor or financial intermediary on behalf of or for the benefit of such other person.

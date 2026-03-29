@@ -1,0 +1,20 @@
+---
+title: "Section 301 - Automatic execution of conforming changes"
+usc_title: 46
+usc_section: "301"
+chapter: 3
+current_through: "PL 119-73"
+classification: "46 U.S.C. § 301"
+generated_at: "2026-03-29T00:33:02.817Z"
+---
+
+# § 301. Automatic execution of conforming changes
+
+(a) When an amendment to a covered maritime law adds a section or larger organizational unit to the covered maritime law, repeals or transfers a section or larger organizational unit in the covered maritime law, or amends the designation or heading of a section or larger organizational unit in the covered maritime law, that amendment also shall have the effect of amending any analysis, table of contents, or similar tabular entries in the covered maritime law to alter the table to conform to the changes made by the amendment.
+(b) Subsection (a) shall not apply to an amendment described in such subsection when—
+  (1) the amendment or a clerical amendment enacted at the same time expressly amends a table of sections, table of contents, or similar tabular entries in the covered maritime law to alter the table to conform to the changes made by the amendment; or
+  (2) the amendment otherwise expressly exempts itself from the operation of this section.
+(c) In this section, the term “covered maritime law” means—
+  (1) this title;
+  (2) any Maritime Administration authorization Act that authorizes funds to be appropriated for a fiscal year to the Maritime Administration; and
+  (3) any other law designated in the text thereof as a covered maritime law for purposes of application of this section.

@@ -1,0 +1,33 @@
+---
+title: "Section 18832 - Energy efficiency materials pilot program"
+usc_title: 42
+usc_section: "18832"
+chapter: 162
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 18832"
+generated_at: "2026-03-29T00:32:54.498Z"
+---
+
+# § 18832. Energy efficiency materials pilot program
+
+(a) In this section:
+  (1) The term “applicant” means a nonprofit organization that applies for a grant under this section.
+  (2) 
+    (A) The term “energy-efficiency material” means a material (including a product, equipment, or system) the installation of which results in a reduction in use by a nonprofit organization of energy or fuel.
+    (B) The term “energy-efficiency material” includes—
+      (i) a roof or lighting system or component of the system;
+      (ii) a window;
+      (iii) a door, including a security door; and
+      (iv) a heating, ventilation, or air conditioning system or component of the system (including insulation and wiring and plumbing improvements needed to serve a more efficient system).
+  (3) The term “nonprofit building” means a building operated and owned by an organization that is described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code.
+(b) Not later than 1 year after November 15, 2021 , the Secretary shall establish a pilot program to award grants for the purpose of providing nonprofit buildings with energy-efficiency materials.
+(c) 
+  (1) The Secretary may award grants under the program established under subsection (b).
+  (2) The Secretary may award a grant under paragraph (1) if an applicant submits to the Secretary an application at such time, in such form, and containing such information as the Secretary may prescribe.
+  (3) In determining whether to award a grant under paragraph (1), the Secretary shall apply performance-based criteria, which shall give priority to applicants based on—
+    (A) the energy savings achieved;
+    (B) the cost effectiveness of the use of energy-efficiency materials;
+    (C) an effective plan for evaluation, measurement, and verification of energy savings; and
+    (D) the financial need of the applicant.
+  (4) Each grant awarded under this section shall not exceed $200,000.
+(d) There is authorized to be appropriated to the Secretary to carry out this section $50,000,000 for the period of fiscal years 2022 through 2026, to remain available until expended.

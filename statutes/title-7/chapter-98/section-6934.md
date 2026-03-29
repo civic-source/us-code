@@ -1,0 +1,65 @@
+---
+title: "Section 6934 - Office of Partnerships and Public Engagement"
+usc_title: 7
+usc_section: "6934"
+chapter: 98
+current_through: "PL 119-73"
+classification: "7 U.S.C. § 6934"
+generated_at: "2026-03-29T00:28:58.250Z"
+---
+
+# § 6934. Office of Partnerships and Public Engagement
+
+(a) In this section:
+  (1) The term “beginning farmer or rancher” has the meaning given the term in section 1991(a) of this title .
+  (2) The term “Office” means the Office of Partnerships and Public Engagement established under this section.
+  (3) The term “socially disadvantaged farmer or rancher” has the meaning given the term in section 2279(e) 1 1 See References in Text note below. of this title.
+(b) 
+  (1) The Secretary shall establish within the executive operations of the Department an office to be known as the “Office of Partnerships and Public Engagement”—
+    (A) to improve access to programs of the Department;
+    (B) to improve the viability and profitability of—
+      (i) small farms and ranches;
+      (ii) beginning farmers or ranchers;
+      (iii) socially disadvantaged farmers or ranchers;
+      (iv) limited resource producers; and
+      (v) veteran farmers and ranchers; and
+    (C) to promote youth outreach.
+  (2) The Office shall be headed by a Director, to be appointed by the Secretary from among the competitive service.
+(c) The duties of the Office shall be to ensure small farms and ranches, beginning farmers or ranchers, veteran farmers and ranchers, and socially disadvantaged farmers or ranchers access to, and equitable participation in, programs and services of the Department by—
+  (1) establishing and monitoring the goals and objectives of the Department to increase participation in programs of the Department by small, beginning, socially disadvantaged, or veteran farmers or ranchers;
+  (2) assessing the effectiveness of Department outreach programs;
+  (3) developing and implementing a plan to coordinate outreach activities and services provided by the Department;
+  (4) providing input to the agencies and offices on programmatic and policy decisions;
+  (5) measuring outcomes of the programs and activities of the Department on small farms and ranches, beginning farmers or ranchers, veteran farmers or ranchers, and socially disadvantaged farmers or ranchers programs;
+  (6) recommending new initiatives and programs to the Secretary; and
+  (7) carrying out any other related duties that the Secretary determines to be appropriate.
+(d) 
+  (1) The Secretary shall establish within the Office the Socially Disadvantaged Farmers Group.
+  (2) The Socially Disadvantaged Farmers Group—
+    (A) shall carry out section 2279 of this title ; and
+    (B) in the case of activities described in section 2279(a) 1 of this title, may conduct such activities through other agencies and offices of the Department.
+  (3) The Socially Disadvantaged Farmers Group shall oversee the operations of—
+    (A) the Advisory Committee on Minority Farmers established under section 14009 of the Food, Conservation, and Energy Act of 2008; 1 and
+    (B) the position of Farmworker Coordinator established under subsection (f).
+  (4) 
+    (A) The Socially Disadvantaged Farmers Group may carry out other duties to improve access to, and participation in, programs of the Department by socially disadvantaged farmers or ranchers, as determined by the Secretary.
+    (B) The Office of Partnerships and Public Engagement shall carry out the functions and duties of the Office of Outreach and Diversity carried out by the Assistant Secretary for Civil Rights as such functions and duties existed immediately before the date of the enactment of this section.
+(e) 
+  (1) The Secretary shall establish within the Office the Small Farms and Beginning Farmers and Ranchers Group.
+  (2) 
+    (A) The Small Farms and Beginning Farmers and Ranchers Group shall oversee the operations of the Office of Small Farms Coordination established by Departmental Regulation 9700–1 ( August 3, 2006 ).
+    (B) The Small Farms and Beginning Farmers and Ranchers Group shall consult with the National Institute for Food and Agriculture on the administration of the beginning farmer and rancher development grant program established under subsection (d) of section 2279 of this title .
+    (C) The Small Farms and Beginning Farmers and Ranchers Group shall coordinate the activities of the Group with the Advisory Committee for Beginning Farmers and Ranchers established under section 5(b) of the Agricultural Credit Improvement Act of 1992 ( 7 U.S.C. 1621 1 note; Public Law 102–554 ).
+    (D) The Small Farms and Beginning Farmers and Ranchers Group may carry out other duties to improve access to, and participation in, programs of the Department by small farms and ranches and beginning farmers or ranchers, as determined by the Secretary.
+(f) 
+  (1) The Secretary shall establish within the Office the position of Farmworker Coordinator (referred to in this subsection as the “Coordinator”).
+  (2) The Secretary shall delegate to the Coordinator responsibility for the following:
+    (A) Assisting in administering the program established by section 5177a of title 42 .
+    (B) Serving as a liaison to community-based nonprofit organizations that represent and have demonstrated experience serving low-income migrant and seasonal farmworkers.
+    (C) Coordinating with the Department, other Federal agencies, and State and local governments to ensure that farmworker needs are assessed and met during declared disasters and other emergencies.
+    (D) Consulting within the Office and with other entities to better integrate farmworker perspectives, concerns, and interests into the ongoing programs of the Department.
+    (E) Consulting with appropriate institutions on research, program improvements, or agricultural education opportunities that assist low-income and migrant seasonal farmworkers.
+    (F) Assisting farmworkers in becoming agricultural producers or landowners.
+  (3) There are authorized to be appropriated to carry out this subsection—
+    (A) such sums as are necessary for each of fiscal years 2009 through 2013; and
+    (B) $2,000,000 for each of fiscal years 2014 through 2023.

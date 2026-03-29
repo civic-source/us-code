@@ -1,0 +1,14 @@
+---
+title: "Section 1625 - Transfer and consolidation of functions, powers, bureaus, etc."
+usc_title: 7
+usc_section: "1625"
+chapter: 38
+current_through: "PL 119-73"
+classification: "7 U.S.C. § 1625"
+generated_at: "2026-03-29T00:28:58.031Z"
+---
+
+# § 1625. Transfer and consolidation of functions, powers, bureaus, etc.
+
+In order to facilitate administration and to increase the effectiveness of the marketing research, service, and regulatory work of the Department of Agriculture to the fullest extent practicable, the Secretary of Agriculture is authorized, notwithstanding any other provisions of law, to transfer, group, coordinate, and consolidate the functions, powers, duties, and authorities of each and every agency, division, bureau, service, section, or other administrative unit in the Department of Agriculture primarily concerned with research, service, or regulatory activities in connection with the marketing, transportation, storage, processing, distribution of, or service or regulatory activities in connection with, the utilization of, agricultural products, into a single administrative agency. In making such changes as may be necessary to carry out effectively the purposes of this chapter, the records, property, personnel, and funds of such agencies, divisions, bureaus, services, sections, or other administrative units in the Department of Agriculture affected are authorized to be transferred to and used by such administrative agency to which the transfer may be made, but such unexpended balances of appropriations so transferred shall be used only for the purposes for which such appropriations were made.
+

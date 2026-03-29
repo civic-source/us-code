@@ -1,0 +1,14 @@
+---
+title: "Section 1615 - Judicial divisions"
+usc_title: 48
+usc_section: "1615"
+chapter: 12
+current_through: "PL 119-73"
+classification: "48 U.S.C. § 1615"
+generated_at: "2026-03-29T00:33:06.632Z"
+---
+
+# § 1615. Judicial divisions
+
+The Virgin Islands consists of two judicial divisions; the Division of Saint Croix, comprising the island of Saint Croix and adjacent islands and cays, and the Division of Saint Thomas and Saint John, comprising the islands of Saint Thomas and Saint John and adjacent islands and cays.
+

@@ -1,0 +1,27 @@
+---
+title: "Section 3206 - Gas utility rate design proposals"
+usc_title: 15
+usc_section: "3206"
+chapter: 59
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 3206"
+generated_at: "2026-03-29T00:29:41.828Z"
+---
+
+# § 3206. Gas utility rate design proposals
+
+(a) 
+  (1) The Secretary, in consultation with the Commission and, after affording an opportunity for consultation and comment by representatives of the State regulatory commissions, gas utilities, and gas consumers, shall study and report to Congress on gas utility rate design within 18 months after November 9, 1978 . Such study shall address the effect (both separately and in combination) of the following factors upon the items listed in paragraph (2): incremental pricing; marginal cost pricing; end user gas consumption taxes; wellhead natural gas pricing policies; demand-commodity rate design; declining block rates; interruptible service; seasonal rate differentials; and end user rate schedules.
+  (2) The items referred to in paragraph (1) are as follows:
+    (A) natural gas pipeline and local distribution company load factors;
+    (B) rates to each class of user, including residential, commercial, and industrial users;
+    (C) the change in total costs resulting from gas utility designs (including capital and operating costs) to gas consumers or classes thereof;
+    (D) demand for, and consumption of, natural gas;
+    (E) end use profiles of natural gas pipelines and local distribution companies; and
+    (F) competition with alternative fuels.
+(b) Based upon the study prepared pursuant to subsection (a), the Secretary shall develop proposals to improve gas utility rate design and to encourage conservation of natural gas. Such proposals shall include any comments and recommendations of the Commission.
+(c) The proposals prepared under subsection (b), shall be transmitted, together with any legislative recommendations, to each House of Congress not later than 6 months after the date of submission of the study under subsection (a). Such proposals shall be accompanied by an analyses 1 1 So in original. Probably should be “analysis”. of—
+  (1) the projected savings (if any) in consumption of natural gas, and other energy resources,
+  (2) changes (if any) in the cost of natural gas to consumers, which are likely to result from the implementation nationally of each of such proposals, and
+  (3) the effects of the proposals on other provisions of this Act on gas utility rate structures.
+(d) The Secretary shall provide for public participation in the conduct of the study under subsection (a), and the preparation of proposals under subsection (b).

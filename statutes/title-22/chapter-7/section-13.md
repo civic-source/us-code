@@ -1,0 +1,16 @@
+---
+title: "Section 13 - Additional authorization for payment of United States contribution"
+usc_title: 22
+usc_section: "13"
+chapter: 7
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 13"
+generated_at: "2026-03-29T00:30:33.698Z"
+---
+
+# § 290g–13. Additional authorization for payment of United States contribution
+
+(a) 
+  (1) The United States Governor of the Fund is authorized to contribute $225,000,000 to the fourth replenishment of the resources of the Fund.
+  (2) Any commitment to make the contribution authorized in paragraph (1) shall be made subject to obtaining the necessary appropriations.
+(b) In order to pay for the United States contribution provided for in this section, there are authorized to be appropriated, without fiscal year limitation, $225,000,000 for payment by the Secretary of the Treasury.

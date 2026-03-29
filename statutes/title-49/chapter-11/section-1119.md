@@ -1,0 +1,23 @@
+---
+title: "Section 1119 - Accident and safety data classification and publication"
+usc_title: 49
+usc_section: "1119"
+chapter: 11
+current_through: "PL 119-73"
+classification: "49 U.S.C. § 1119"
+generated_at: "2026-03-29T00:33:13.712Z"
+---
+
+# § 1119. Accident and safety data classification and publication
+
+(a) Not later than 90 days after the date of the enactment of this section, the National Transportation Safety Board shall, in consultation and coordination with the Administrator of the Federal Aviation Administration, develop a system for classifying air carrier accident data maintained by the Board.
+(b) 
+  (1) The system developed under this section shall provide for the classification of accident and safety data in a manner that, in comparison to the system in effect on the date of the enactment of this section, provides for safety-related categories that provide clearer descriptions of accidents associated with air transportation, including a more refined classification of accidents which involve fatalities, injuries, or substantial damage and which are only related to the operation of an aircraft.
+  (2) In developing a system of classification under paragraph (1), the Board shall provide adequate opportunity for public review and comment.
+  (3) After providing for public review and comment, and after consulting with the Administrator, the Board shall issue final classifications. The Board shall ensure that air travel accident covered under this section is classified in accordance with the final classifications issued under this section for data for calendar year 1997, and for each subsequent calendar year.
+  (4) The Board shall publish on a periodic basis accident and safety data in accordance with the final classifications issued under paragraph (3).
+  (5) The Administrator may, from time to time, request the Board to consider revisions (including additions to the classification system developed under this section). The Board shall respond to any request made by the Administrator under this section not later than 90 days after receiving that request.
+(c) 
+  (1) In any case in which an employee of the Board determines that an occurrence associated with the operation of an aircraft constitutes an accident, the employee shall notify the owner or operator of that aircraft of the right to appeal that determination to the Board.
+  (2) The Board shall establish and publish the procedures for appeals under this subsection.
+  (3) This subsection shall not apply in the case of an accident that results in a loss of life.

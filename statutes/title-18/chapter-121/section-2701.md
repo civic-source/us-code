@@ -1,0 +1,26 @@
+---
+title: "Section 2701 - Unlawful access to stored communications"
+usc_title: 18
+usc_section: "2701"
+chapter: 121
+current_through: "PL 119-73"
+classification: "18 U.S.C. § 2701"
+generated_at: "2026-03-29T00:30:15.716Z"
+---
+
+# § 2701. Unlawful access to stored communications
+
+(a) Except as provided in subsection (c) of this section whoever—
+  (1) intentionally accesses without authorization a facility through which an electronic communication service is provided; or
+  (2) intentionally exceeds an authorization to access that facility;
+(b) The punishment for an offense under subsection (a) of this section is—
+  (1) if the offense is committed for purposes of commercial advantage, malicious destruction or damage, or private commercial gain, or in furtherance of any criminal or tortious act in violation of the Constitution or laws of the United States or any State—
+    (A) a fine under this title or imprisonment for not more than 5 years, or both, in the case of a first offense under this subparagraph; and
+    (B) a fine under this title or imprisonment for not more than 10 years, or both, for any subsequent offense under this subparagraph; and
+  (2) in any other case—
+    (A) a fine under this title or imprisonment for not more than 1 year or both, in the case of a first offense under this paragraph; and
+    (B) a fine under this title or imprisonment for not more than 5 years, or both, in the case of an offense under this subparagraph that occurs after a conviction of another offense under this section.
+(c) Subsection (a) of this section does not apply with respect to conduct authorized—
+  (1) by the person or entity providing a wire or electronic communications service;
+  (2) by a user of that service with respect to a communication of or intended for that user; or
+  (3) in section 2703, 2704 or 2518 of this title.

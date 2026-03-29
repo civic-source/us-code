@@ -1,0 +1,14 @@
+---
+title: "Section 30914 - Release of privately owned vessel after arrest or attachment"
+usc_title: 46
+usc_section: "30914"
+chapter: 309
+current_through: "PL 119-73"
+classification: "46 U.S.C. § 30914"
+generated_at: "2026-03-29T00:33:02.904Z"
+---
+
+# § 30914. Release of privately owned vessel after arrest or attachment
+
+If a privately owned vessel not in the possession of the United States or a federally-owned corporation is arrested or attached in a civil action arising or alleged to have arisen from prior ownership, possession, or operation by the United States or corporation, the vessel shall be released without bond or stipulation on a statement by the United States, through the Attorney General or other authorized law officer, that the United States is interested in the action, desires release of the vessel, and assumes liability for the satisfaction of any judgment obtained by the plaintiff. After the vessel is released, the action shall proceed against the United States in accordance with this chapter.
+

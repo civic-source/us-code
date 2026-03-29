@@ -1,0 +1,46 @@
+---
+title: "Section 1962 - Board of Directors of the Foundation"
+usc_title: 33
+usc_section: "1962"
+chapter: 33
+current_through: "PL 119-73"
+classification: "33 U.S.C. § 1962"
+generated_at: "2026-03-29T00:31:57.391Z"
+---
+
+# § 1962. Board of Directors of the Foundation
+
+(a) 
+  (1) The Foundation shall have a governing Board of Directors (in this title 1 1 See References in Text note below. referred to as the “Board”), which shall consist of the Under Secretary and 12 additional Directors appointed in accordance with subsection (b) from among individuals who are United States citizens.
+  (2) To the maximum extent practicable, the membership of the Board shall represent diverse points of view relating to the assessment, prevention, reduction, and removal of marine debris.
+  (3) Appointment as a Director of the Foundation shall not constitute employment by, or the holding of an office of, the United States for the purpose of any Federal law.
+(b) 
+  (1) For appointments made under paragraph (2), the Board shall submit to the Under Secretary recommendations on candidates for appointment.
+  (2) Subject to paragraph (2), after consulting with the EPA Administrator, the Director of the United States Fish and Wildlife Service, the Assistant Secretary of State for the Bureau of Oceans and International Environmental and Scientific Affairs, and the Administrator of the United States Agency for International Development, considering the recommendations submitted by the Board, and with the approval of the Secretary of Commerce, the Under Secretary shall appoint 12 Directors who meet the criteria established by subsection (a), of whom—
+    (A) at least 4 shall be educated or experienced in the assessment, prevention, reduction, or removal of marine debris, which may include an individual with expertise in post-consumer materials management or a circular economy;
+    (B) at least 2 shall be educated or experienced in the assessment, prevention, reduction, or removal of marine debris outside the United States;
+    (C) at least 2 shall be educated or experienced in ocean and coastal resource conservation science or policy; and
+    (D) at least 2 shall be educated or experienced in international trade or foreign policy.
+  (3) Any Director appointed under paragraph (2) shall be appointed for a term of 6 years.
+  (4) 
+    (A) The Under Secretary shall fill a vacancy on the Board with the approval of the Secretary of Commerce.
+    (B) An individual appointed to fill a vacancy that occurs before the expiration of the term of a Director shall be appointed for the remainder of the term.
+  (5) An individual shall not serve more than 2 consecutive terms as a Director, excluding any term of less than 6 years.
+  (6) The Under Secretary may remove a Director from the Board only after consultation with the Assistant Secretary of State for the Bureau of Oceans and International Environmental and Scientific Affairs, the Director of the United States Fish and Wildlife Service, the Administrator of the United States Agency for International Development, and the EPA Administrator and with the approval of the Secretary of Commerce.
+(c) The Chairman shall be elected by the Board from its members for a 2-year term.
+(d) A majority of the current membership of the Board shall constitute a quorum for the transaction of business.
+(e) The Board shall meet at the call of the Chairman at least once a year. If a Director misses 3 consecutive regularly scheduled meetings, that individual may be removed from the Board and that vacancy filled in accordance with subsection (b).
+(f) Members of the Board shall serve without pay, but may be reimbursed for the actual and necessary traveling and subsistence expenses incurred by them in the performance of the duties of the Foundation.
+(g) 
+  (1) The Board may complete the organization of the Foundation by—
+    (A) appointing the initial officers and employees;
+    (B) adopting a constitution and bylaws consistent with the purposes of the Foundation and the provisions of this title; 1 and
+    (C) undertaking of other such acts as may be necessary to carry out the provisions of this title. 1
+  (2) The following limitations apply with respect to the appointment of officers and employees of the Foundation:
+    (A) Officers and employees may not be appointed until the Foundation has sufficient funds to pay them for their service. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
+    (B) The first officer or employee appointed by the Board shall be the Secretary of the Board who—
+      (i) shall serve, at the direction of the Board, as the chief executive officer of the Foundation; and
+      (ii) shall be knowledgeable and experienced in matters relating to the assessment, prevention, reduction, and removal of marine debris.
+(h) 
+  (1) The Board shall appoint and review the performance of, and may remove, the chief executive officer of the Foundation.
+  (2) The chief executive officer of the Foundation may appoint, remove, and review the performance of any officer or employee of the Foundation.

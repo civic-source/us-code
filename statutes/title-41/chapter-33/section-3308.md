@@ -1,0 +1,23 @@
+---
+title: "Section 3308 - Planning for future competition in contracts for major systems"
+usc_title: 41
+usc_section: "3308"
+chapter: 33
+current_through: "PL 119-73"
+classification: "41 U.S.C. § 3308"
+generated_at: "2026-03-29T00:32:22.595Z"
+---
+
+# § 3308. Planning for future competition in contracts for major systems
+
+(a) 
+  (1) In preparing a solicitation for the award of a development contract for a major system, the head of an agency shall consider requiring in the solicitation that an offeror include in its offer proposals described in paragraph (2). In determining whether to require the proposals, the head of the agency shall consider the purposes for which the system is being procured and the technology necessary to meet the system’s required capabilities. If the proposals are required, the head of the agency shall consider them in evaluating the offeror’s price.
+  (2) The proposals that the head of an agency is to consider requiring in a solicitation for the award of a development contract are the following:
+    (A) Proposals to incorporate in the design of the major system items that are currently available within the supply system of the Federal agency responsible for the major system, available elsewhere in the national supply system, or commercially available from more than one source.
+    (B) With respect to items that are likely to be required in substantial quantities during the system’s service life, proposals to incorporate in the design of the major system items that the Federal Government will be able to acquire competitively in the future.
+(b) 
+  (1) In preparing a solicitation for the award of a production contract for a major system, the head of an agency shall consider requiring in the solicitation that an offeror include in its offer proposals described in paragraph (2). In determining whether to require the proposals, the head of the agency shall consider the purposes for which the system is being procured and the technology necessary to meet the system’s required capabilities. If the proposals are required, the head of the agency shall consider them in evaluating the offeror’s price.
+  (2) The proposals that the head of an agency is to consider requiring in a solicitation for the award of a production contract are proposals identifying opportunities to ensure that the Federal Government will be able to obtain on a competitive basis items procured in connection with the system that are likely to be reprocured in substantial quantities during the service life of the system. Proposals submitted in response to this requirement may include the following:
+    (A) Proposals to provide to the Federal Government the right to use technical data to be provided under the contract for competitive reprocurement of the item, together with the cost to the Federal Government of acquiring the data and the right to use the data.
+    (B) Proposals for the qualification or development of multiple sources of supply for the item.
+(c) If the head of an agency is making a noncompetitive award of a development contract or a production contract for a major system, the factors specified in subsections (a) and (b) to be considered in evaluating an offer for a contract may be considered as objectives in negotiating the contract to be awarded.

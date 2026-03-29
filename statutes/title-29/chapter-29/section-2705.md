@@ -1,0 +1,23 @@
+---
+title: "Section 2705 - Identification and dissemination of best practices"
+usc_title: 29
+usc_section: "2705"
+chapter: 29
+current_through: "PL 119-73"
+classification: "29 U.S.C. § 2705"
+generated_at: "2026-03-29T00:31:27.700Z"
+---
+
+# § 2705. Identification and dissemination of best practices
+
+(a) 
+  (1) The Secretary, in cooperation and after consultation with the Secretary of Commerce, shall assist workers, worker organizations, and employers in successfully adopting advanced workplace technologies, and advanced workplace practices by identifying, collecting, and disseminating information on best workplace practices and workplace assessment tools, including—
+    (A) methods, techniques, and successful models of labor-management cooperation and of worker and worker organization participation in the development, evaluation, selection, and implementation of new and advanced workplace technologies, and advanced workplace practices;
+    (B) methods, techniques, and successful models for the design and implementation of new and advanced workplace practices;
+    (C) methods, techniques, and successful models for the design and implementation of advanced forms of work organization; and
+    (D) methods, techniques, and successful models for the assessment of worker skills and training needs relating to the effective development, evaluation, selection, and implementation of advanced workplace technologies, and advanced workplace practices.
+  (2) Such information on best workplace practices shall include—
+    (A) summaries and analyses of best practice cases;
+    (B) criteria for assessment of current workplace practices; and
+    (C) information on the best available education and training materials and services relating to the development, implementation, and operation of systems utilizing new and advanced workplace technologies, and advanced workplace practices.
+(b) The information and materials developed under this section shall be distributed through an appropriate entity designated by the Secretary of Commerce to the Regional Centers for the Transfer of Manufacturing Technology, to the Manufacturing Outreach Center, to other technology training entities, and directly to others as determined appropriate by the Secretary of Labor and the Secretary of Commerce.

@@ -1,0 +1,51 @@
+---
+title: "Section 313 - Nontraditional and Emerging Transportation Technology Council"
+usc_title: 49
+usc_section: "313"
+chapter: 3
+current_through: "PL 119-73"
+classification: "49 U.S.C. § 313"
+generated_at: "2026-03-29T00:33:13.701Z"
+---
+
+# § 313. Nontraditional and Emerging Transportation Technology Council
+
+(a) Not later than 180 days after the date of enactment of this section, the Secretary of Transportation (referred to in this section as the “Secretary”) shall establish a council, to be known as the “Nontraditional and Emerging Transportation Technology Council” (referred to in this section as the “Council”), to address coordination on emerging technology issues across all modes of transportation.
+(b) 
+  (1) The Council shall be composed of—
+    (A) the Secretary, who shall serve as an ex officio member of the Council;
+    (B) the Deputy Secretary of Transportation;
+    (C) the Under Secretary of Transportation for Policy;
+    (D) the Assistant Secretary for Research and Technology of the Department of Transportation;
+    (E) the Assistant Secretary for Budget and Programs of the Department of Transportation;
+    (F) the General Counsel of the Department of Transportation;
+    (G) the Chief Information Officer of the Department of Transportation;
+    (H) the Administrator of the Federal Aviation Administration;
+    (I) the Administrator of the Federal Highway Administration;
+    (J) the Administrator of the Federal Motor Carrier Safety Administration;
+    (K) the Administrator of the Federal Railroad Administration;
+    (L) the Administrator of the Federal Transit Administration;
+    (M) the Administrator of the Maritime Administration;
+    (N) the Administrator of the National Highway Traffic Safety Administration;
+    (O) the Administrator of the Pipeline and Hazardous Materials Safety Administration; and
+    (P) any other official of the Department of Transportation, as determined by the Secretary.
+  (2) 
+    (A) The Deputy Secretary of Transportation (or a designee) shall serve as Chair of the Council.
+    (B) The Under Secretary of Transportation for Policy (or a designee) shall serve as Vice Chair of the Council.
+(c) The Council shall—
+  (1) identify and resolve jurisdictional and regulatory gaps or inconsistencies associated with nontraditional and emerging transportation technologies, modes, or projects pending or brought before the Department of Transportation to reduce, to the maximum extent practicable, impediments to the prompt and safe deployment of new and innovative transportation technology, including with respect to—
+    (A) safety oversight;
+    (B) environmental review; and
+    (C) funding and financing issues;
+  (2) coordinate the response of the Department of Transportation to nontraditional and emerging transportation technology projects;
+  (3) engage with stakeholders in nontraditional and emerging transportation technology projects; and
+  (4) develop and establish Department of Transportation-wide processes, solutions, and best practices for identifying and managing nontraditional and emerging transportation technology projects.
+(d) Not later than 1 year after the date of enactment of this section, the Council shall—
+  (1) publish initial guidelines to achieve the purposes described in subsection (c)(4); and
+  (2) promote each modal administration within the Department of Transportation to further test and support the advancement of nontraditional and emerging transportation technologies not specifically considered by the Council.
+(e) The Office of the Secretary shall provide support for the Council.
+(f) The Council shall meet not less frequently than 4 times per year, at the call of the Chair.
+(g) For each nontraditional or emerging transportation technology, mode, or project associated with a jurisdictional or regulatory gap or inconsistency identified under subsection (c)(1), the Chair of the Council shall—
+  (1) designate a lead modal administration of the Department of Transportation for review of the technology, mode, or project; and
+  (2) arrange for the detailing of staff between modal administrations or offices of the Department of Transportation as needed to maximize the sharing of experience and expertise.
+(h) Not later than 1 year after the date of establishment of the Council, and not less frequently than annually thereafter until December 31, 2026 , the Council shall post on a publicly accessible website a report describing the activities of the Council during the preceding calendar year.

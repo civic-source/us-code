@@ -1,0 +1,20 @@
+---
+title: "Section 4412 - Grants to the Endowment"
+usc_title: 22
+usc_section: "4412"
+chapter: 54
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 4412"
+generated_at: "2026-03-29T00:30:33.926Z"
+---
+
+# § 4412. Grants to the Endowment
+
+(a) The Director of the United States Information Agency shall make an annual grant to the Endowment to enable the Endowment to carry out its purposes as specified in section 4411(b) of this title . Such grants shall be made with funds specifically appropriated for grants to the Endowment or with funds appropriated to the Agency for the “Salaries and Expenses” account. Such grants shall be made pursuant to a grant agreement between the Director and the Endowment which requires that grant funds will only be used for activities which the Board of Directors of the Endowment determines are consistent with the purposes described in section 4411(b) of this title , that the Endowment will allocate funds in accordance with subsection (e) of this section, and that the Endowment will otherwise comply with the requirements of this subchapter. The grant agreement may not require the Endowment to comply with requirements other than those specified in this subchapter.
+(b) Funds so granted may be used by the Endowment to carry out the purposes described in section 4411(b) of this title , and otherwise applicable limitations on the purposes for which funds appropriated to the United States Information Agency may be used shall not apply to funds granted to the Endowment.
+(c) Nothing in this subchapter shall be construed to make the Endowment an agency or establishment of the United States Government or to make the members of the Board of Directors of the Endowment, or the officers or employees of the Endowment, officers or employees of the United States.
+(d) The Endowment and its grantees shall be subject to the appropriate oversight procedures of the Congress.
+(e) Of the amounts made available to the Endowment for each of the fiscal years 1984 and 1985 to carry out programs in furtherance of the purposes of this Act—
+  (1) not less than $13,800,000 shall be for the Free Trade Union Institute; and
+  (2) not less than $2,500,000 shall be to support private enterprise development programs of the National Chamber Foundation.
+(f) Nothing in this subchapter shall preclude the Endowment from making grants to independent labor unions.

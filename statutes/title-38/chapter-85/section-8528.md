@@ -1,0 +1,14 @@
+---
+title: "Section 8528 - Investment of the Fund"
+usc_title: 38
+usc_section: "8528"
+chapter: 85
+current_through: "PL 119-73"
+classification: "38 U.S.C. § 8528"
+generated_at: "2026-03-29T00:32:17.365Z"
+---
+
+# § 8528. Investment of the Fund
+
+Money in the Fund not required for current disbursements may be invested and reinvested by the Secretary of the Treasury in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.
+

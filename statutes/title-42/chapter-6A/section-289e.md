@@ -1,0 +1,25 @@
+---
+title: "Section 289e - Use of appropriations"
+usc_title: 42
+usc_section: "289e"
+chapter: 6
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 289e"
+generated_at: "2026-03-29T00:32:52.970Z"
+---
+
+# § 289e. Use of appropriations
+
+(a) Appropriations to carry out the purposes of this subchapter, unless otherwise expressly provided, may be expended in the District of Columbia for—
+  (1) personal services;
+  (2) stenographic recording and translating services;
+  (3) travel expenses (including the expenses of attendance at meetings when specifically authorized by the Secretary);
+  (4) rental;
+  (5) supplies and equipment;
+  (6) purchase and exchange of medical books, books of reference, directories, periodicals, newspapers, and press clippings;
+  (7) purchase, operation, and maintenance of passenger motor vehicles;
+  (8) printing and binding (in addition to that otherwise provided by law); and
+  (9) all other necessary expenses in carrying out this subchapter.
+(b) 
+  (1) None of the amounts appropriated under this chapter for the purposes of this subchapter may be obligated for the construction of facilities (including the acquisition of land) unless a provision of this subchapter establishes express authority for such purpose and unless the Act making appropriations under such provision specifies that the amounts appropriated are available for such purpose.
+  (2) Any grants, cooperative agreements, or contracts authorized in this subchapter for the construction of facilities may be awarded only on a competitive basis.

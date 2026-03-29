@@ -1,0 +1,22 @@
+---
+title: "Section 3607 - Termination of self-dealing contracts"
+usc_title: 15
+usc_section: "3607"
+chapter: 62
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 3607"
+generated_at: "2026-03-29T00:29:41.835Z"
+---
+
+# § 3607. Termination of self-dealing contracts
+
+(a) Any contract or portion thereof which is entered into after October 8, 1980 , and which—
+  (1) provides for operation, maintenance, or management of a condominium or cooperative association in a conversion project, or of property serving the condominium or cooperative unit owners in such project;
+  (2) is between such unit owners or such association and the developer or an affiliate of the developer;
+  (3) was entered into while such association was controlled by the developer through special developer control or because the developer held a majority of the votes in such association; and
+  (4) is for a period of more than three years, including any automatic renewal provisions which are exercisable at the sole option of the developer or an affiliate of the developer,
+(b) Any termination under this section may occur only during the two-year period beginning on the date on which—
+  (1) special developer control over the association is terminated; or
+  (2) the developer owns 25 per centum or less of the units in the conversion project,
+(c) A termination under this section shall be by a vote of owners of not less than two-thirds of the units other than the units owned by the developer or an affiliate of the developer.
+(d) Following the unit owners’ vote, the termination shall be effective ninety days after hand delivering notice or mailing notice by prepaid United States mail to the parties to the contract.

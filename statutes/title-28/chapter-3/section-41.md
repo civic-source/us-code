@@ -1,0 +1,14 @@
+---
+title: "Section 41 - Number and composition of circuits"
+usc_title: 28
+usc_section: "41"
+chapter: 3
+current_through: "PL 119-73"
+classification: "28 U.S.C. § 41"
+generated_at: "2026-03-29T00:31:24.108Z"
+---
+
+# § 41. Number and composition of circuits
+
+The thirteen judicial circuits of the United States are constituted as follows: Circuits Composition District of Columbia District of Columbia. First Maine, Massachusetts, New Hampshire, Puerto Rico, Rhode Island. Second Connecticut, New York, Vermont. Third Delaware, New Jersey, Pennsylvania, Virgin Islands. Fourth Maryland, North Carolina, South Carolina, Virginia, West Virginia. Fifth District of the Canal Zone, Louisiana, Mississippi, Texas. Sixth Kentucky, Michigan, Ohio, Tennessee. Seventh Illinois, Indiana, Wisconsin. Eighth Arkansas, Iowa, Minnesota, Missouri, Nebraska, North Dakota, South Dakota. Ninth Alaska, Arizona, California, Idaho, Montana, Nevada, Oregon, Washington, Guam, Hawaii. Tenth Colorado, Kansas, New Mexico, Oklahoma, Utah, Wyoming. Eleventh Alabama, Florida, Georgia. Federal All Federal judicial districts.
+

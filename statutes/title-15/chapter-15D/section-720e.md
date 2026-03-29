@@ -1,0 +1,23 @@
+---
+title: "Section 720e - Judicial review"
+usc_title: 15
+usc_section: "720e"
+chapter: 15
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 720e"
+generated_at: "2026-03-29T00:29:41.665Z"
+---
+
+# § 720e. Judicial review
+
+(a) Except for review by the Supreme Court on writ of certiorari, the United States Court of Appeals for the District of Columbia Circuit shall have original and exclusive jurisdiction to determine—
+  (1) the validity of any final order or action (including a failure to act) of any Federal agency or officer under this chapter;
+  (2) the constitutionality of any provision of this chapter, or any decision made or action taken under this chapter; or
+  (3) the validity of any determination, permit, approval, authorization, review, or other related action taken under any provision of law relating to a gas transportation project constructed and operated in accordance with section 720a of this title , including—
+    (A) subchapter II of chapter 5, and chapter 7, of title 5 (commonly known as the “Administrative Procedure Act”);
+    (B) the Endangered Species Act of 1973 ( 16 U.S.C. 1531 et seq.);
+    (C) the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.);
+    (D) chapter 2003 of title 54; 1 1 So in original. Probably should be “division A of subtitle III of title 54;”. and
+    (E) the Alaska National Interest Lands Conservation Act ( 16 U.S.C. 3101 et seq.).
+(b) A claim arising under this chapter may be brought not later than 60 days after the date of the decision or action giving rise to the claim.
+(c) The United States Court of Appeals for the District of Columbia Circuit shall set any action brought under subsection (a) for expedited consideration, taking into account the national interest of enhancing national energy security by providing access to the significant gas reserves in Alaska needed to meet the anticipated demand for natural gas.

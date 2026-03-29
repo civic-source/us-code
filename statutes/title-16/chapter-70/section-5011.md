@@ -1,0 +1,16 @@
+---
+title: "Section 5011 - Funding requirements"
+usc_title: 16
+usc_section: "5011"
+chapter: 70
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 5011"
+generated_at: "2026-03-29T00:29:52.847Z"
+---
+
+# § 5011. Funding requirements
+
+(a) There are authorized to be appropriated from time to time such sums as may be necessary for carrying out the purposes and provisions of the Convention and this chapter, including—
+  (1) necessary travel expenses of the United States Commissioners or Alternate Commissioners; and
+  (2) the United States’ share of the joint expenses of the Commission.
+(b) Such funds as shall be made available to the Secretary of Commerce for research and related activities shall be expended to carry out the program of the Commission in accordance with the recommendations of the United States Section and to carry out other research and observer programs pursuant to the Convention.

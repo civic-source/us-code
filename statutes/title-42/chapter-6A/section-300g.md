@@ -1,0 +1,18 @@
+---
+title: "Section 300g - Coverage"
+usc_title: 42
+usc_section: "300g"
+chapter: 6
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 300g"
+generated_at: "2026-03-29T00:32:53.060Z"
+---
+
+# § 300g. Coverage
+
+Subject to sections 300g–4 and 300g–5 of this title, national primary drinking water regulations under this part shall apply to each public water system in each State; except that such regulations shall not apply to a public water system—
+
+  (1) which consists only of distribution and storage facilities (and does not have any collection and treatment facilities);
+  (2) which obtains all of its water from, but is not owned or operated by, a public water system to which such regulations apply;
+  (3) which does not sell water to any person; and
+  (4) which is not a carrier which conveys passengers in interstate commerce.

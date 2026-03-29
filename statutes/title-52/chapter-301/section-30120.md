@@ -1,0 +1,30 @@
+---
+title: "Section 30120 - Publication and distribution of statements and solicitations"
+usc_title: 52
+usc_section: "30120"
+chapter: 301
+current_through: "PL 119-73"
+classification: "52 U.S.C. § 30120"
+generated_at: "2026-03-29T00:33:20.231Z"
+---
+
+# § 30120. Publication and distribution of statements and solicitations
+
+(a) Whenever a political committee makes a disbursement for the purpose of financing any communication through any broadcasting station, newspaper, magazine, outdoor advertising facility, mailing, or any other type of general public political advertising, or whenever any person makes a disbursement for the purpose of financing communications expressly advocating the election or defeat of a clearly identified candidate, or solicits any contribution through any broadcasting station, newspaper, magazine, outdoor advertising facility, mailing, or any other type of general public political advertising or makes a disbursement for an electioneering communication (as defined in section 30104(f)(3) of this title ), such communication—
+  (1) if paid for and authorized by a candidate, an authorized political committee of a candidate, or its agents, shall clearly state that the communication has been paid for by such authorized political committee, or 1 1 So in original. The word “or” probably should appear at the end of par. (2).
+  (2) if paid for by other persons but authorized by a candidate, an authorized political committee of a candidate, or its agents, shall clearly state that the communication is paid for by such other persons and authorized by such authorized political committee; 1
+  (3) if not authorized by a candidate, an authorized political committee of a candidate, or its agents, shall clearly state the name and permanent street address, telephone number, or World Wide Web address of the person who paid for the communication and state that the communication is not authorized by any candidate or candidate’s committee.
+(b) No person who sells space in a newspaper or magazine to a candidate or to the agent of a candidate, for use in connection with such candidate’s campaign, may charge any amount for such space which exceeds the amount charged for comparable use of such space for other purposes.
+(c) Any printed communication described in subsection (a) shall—
+  (1) be of sufficient type size to be clearly readable by the recipient of the communication;
+  (2) be contained in a printed box set apart from the other contents of the communication; and
+  (3) be printed with a reasonable degree of color contrast between the background and the printed statement.
+(d) 
+  (1) 
+    (A) Any communication described in paragraph (1) or (2) of subsection (a) which is transmitted through radio shall include, in addition to the requirements of that paragraph, an audio statement by the candidate that identifies the candidate and states that the candidate has approved the communication.
+    (B) Any communication described in paragraph (1) or (2) of subsection (a) which is transmitted through television shall include, in addition to the requirements of that paragraph, a statement that identifies the candidate and states that the candidate has approved the communication. Such statement—
+      (i) shall be conveyed by—
+        (I) an unobscured, full-screen view of the candidate making the statement, or
+        (II) the candidate in voice-over, accompanied by a clearly identifiable photographic or similar image of the candidate; and
+      (ii) shall also appear in writing at the end of the communication in a clearly readable manner with a reasonable degree of color contrast between the background and the printed statement, for a period of at least 4 seconds.
+  (2) Any communication described in paragraph (3) of subsection (a) which is transmitted through radio or television shall include, in addition to the requirements of that paragraph, in a clearly spoken manner, the following audio statement: “_____ is responsible for the content of this advertising.” (with the blank to be filled in with the name of the political committee or other person paying for the communication and the name of any connected organization of the payor). If transmitted through television, the statement shall be conveyed by an unobscured, full-screen view of a representative of the political committee or other person making the statement, or by a representative of such political committee or other person in voice-over, and shall also appear in a clearly readable manner with a reasonable degree of color contrast between the background and the printed statement, for a period of at least 4 seconds.

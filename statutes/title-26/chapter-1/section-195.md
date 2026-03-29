@@ -1,0 +1,36 @@
+---
+title: "Section 195 - Start-up expenditures"
+usc_title: 26
+usc_section: "195"
+chapter: 1
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 195"
+generated_at: "2026-03-29T00:31:20.668Z"
+---
+
+# § 195. Start-up expenditures
+
+(a) Except as otherwise provided in this section, no deduction shall be allowed for start-up expenditures.
+(b) 
+  (1) If a taxpayer elects the application of this subsection with respect to any start-up expenditures—
+    (A) the taxpayer shall be allowed a deduction for the taxable year in which the active trade or business begins in an amount equal to the lesser of—
+      (i) the amount of start-up expenditures with respect to the active trade or business, or
+      (ii) $5,000, reduced (but not below zero) by the amount by which such start-up expenditures exceed $50,000, and
+    (B) the remainder of such start-up expenditures shall be allowed as a deduction ratably over the 180-month period beginning with the month in which the active trade or business begins.
+  (2) In any case in which a trade or business is completely disposed of by the taxpayer before the end of the period to which paragraph (1) applies, any deferred expenses attributable to such trade or business which were not allowed as a deduction by reason of this section may be deducted to the extent allowable under section 165.
+  (3) In the case of a taxable year beginning in 2010, paragraph (1)(A)(ii) shall be applied—
+    (A) by substituting “$10,000” for “$5,000”, and
+    (B) by substituting “$60,000” for “$50,000”.
+(c) For purposes of this section—
+  (1) The term “start-up expenditure” means any amount—
+    (A) paid or incurred in connection with—
+      (i) investigating the creation or acquisition of an active trade or business, or
+      (ii) creating an active trade or business, or
+      (iii) any activity engaged in for profit and for the production of income before the day on which the active trade or business begins, in anticipation of such activity becoming an active trade or business, and
+    (B) which, if paid or incurred in connection with the operation of an existing active trade or business (in the same field as the trade or business referred to in subparagraph (A)), would be allowable as a deduction for the taxable year in which paid or incurred.
+  (2) 
+    (A) Except as provided in subparagraph (B), the determination of when an active trade or business begins shall be made in accordance with such regulations as the Secretary may prescribe.
+    (B) An acquired active trade or business shall be treated as beginning when the taxpayer acquires it.
+(d) 
+  (1) An election under subsection (b) shall be made not later than the time prescribed by law for filing the return for the taxable year in which the trade or business begins (including extensions thereof).
+  (2) The period selected under subsection (b) shall be adhered to in computing taxable income for the taxable year for which the election is made and all subsequent taxable years.

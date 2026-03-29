@@ -1,0 +1,14 @@
+---
+title: "Section 7460 - Provisions of special application to divisions"
+usc_title: 26
+usc_section: "7460"
+chapter: 76
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 7460"
+generated_at: "2026-03-29T00:31:21.092Z"
+---
+
+# § 7460. Provisions of special application to divisions
+
+(a) A division shall hear, and make a determination upon, any proceeding instituted before the Tax Court and any motion in connection therewith, assigned to such division by the chief judge, and shall make a report of any such determination which constitutes its final disposition of the proceeding.
+(b) The report of the division shall become the report of the Tax Court within 30 days after such report by the division, unless within such period the chief judge has directed that such report shall be reviewed by the Tax Court. Any preliminary action by a division which does not form the basis for the entry of the final decision shall not be subject to review by the Tax Court except in accordance with such rules as the Tax Court may prescribe. The report of a division shall not be a part of the record in any case in which the chief judge directs that such report shall be reviewed by the Tax Court.

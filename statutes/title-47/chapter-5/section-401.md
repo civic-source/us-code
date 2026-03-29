@@ -1,0 +1,15 @@
+---
+title: "Section 401 - Enforcement provisions"
+usc_title: 47
+usc_section: "401"
+chapter: 5
+current_through: "PL 119-73"
+classification: "47 U.S.C. § 401"
+generated_at: "2026-03-29T00:33:04.910Z"
+---
+
+# § 401. Enforcement provisions
+
+(a) The district courts of the United States shall have jurisdiction, upon application of the Attorney General of the United States at the request of the Commission, alleging a failure to comply with or a violation of any of the provisions of this chapter by any person, to issue a writ or writs of mandamus commanding such person to comply with the provisions of this chapter.
+(b) If any person fails or neglects to obey any order of the Commission other than for the payment of money, while the same is in effect, the Commission or any party injured thereby, or the United States, by its Attorney General, may apply to the appropriate district court of the United States for the enforcement of such order. If, after hearing, that court determines that the order was regularly made and duly served, and that the person is in disobedience of the same, the court shall enforce obedience to such order by a writ of injunction or other proper process, mandatory or otherwise, to restrain such person or the officers, agents, or representatives of such person, from further disobedience of such order, or to enjoin upon it or them obedience to the same.
+(c) Upon the request of the Commission it shall be the duty of any United States attorney to whom the Commission may apply to institute in the proper court and to prosecute under the direction of the Attorney General of the United States all necessary proceedings for the enforcement of the provisions of this chapter and for the punishment of all violations thereof, and the costs and expenses of such prosecutions shall be paid out of the appropriations for the expenses of the courts of the United States.

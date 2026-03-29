@@ -1,0 +1,14 @@
+---
+title: "Section 620h - Saving provisions"
+usc_title: 43
+usc_section: "620h"
+chapter: 12
+current_through: "PL 119-73"
+classification: "43 U.S.C. § 620h"
+generated_at: "2026-03-29T00:32:57.379Z"
+---
+
+# § 620h. Saving provisions
+
+Nothing contained in this chapter shall be construed to alter, amend, repeal, construe, interpret, modify, or be in conflict with the provisions of the Boulder Canyon Project Act ( 45 Stat. 1057 ) [ 43 U.S.C. 617 et seq.], the Boulder Canyon Project Adjustment Act ( 54 Stat. 774 ) [ 43 U.S.C. 618 et seq.], the Colorado River Compact, the Upper Colorado River Basin Compact, the Rio Grande Compact of 1938, or the treaty with the United Mexican States (Treaty Series 994).
+

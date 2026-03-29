@@ -1,0 +1,20 @@
+---
+title: "Section 5151 - Findings and purposes"
+usc_title: 16
+usc_section: "5151"
+chapter: 71
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 5151"
+generated_at: "2026-03-29T00:29:52.848Z"
+---
+
+# § 5151. Findings and purposes
+
+(a) The Congress finds and declares the following:
+  (1) Atlantic striped bass are of historic commercial and recreational importance and economic benefit to the Atlantic coastal States and to the Nation.
+  (2) No single government entity has full management authority throughout the range of the Atlantic striped bass.
+  (3) The population of Atlantic striped bass—
+    (A) has been subject to large fluctuations due to natural causes, fishing pressure, environmental pollution, loss and alteration of habitat, inadequacy of fisheries conservation and management practices, and other causes; and
+    (B) risks potential depletion in the future without effective monitoring and conservation and management measures.
+  (4) It is in the national interest to implement effective procedures and measures to provide for effective interjurisdictional conservation and management of this species.
+(b) It is therefore declared to be the purpose of the Congress in this chapter to support and encourage the development, implementation, and enforcement of effective interstate action regarding the conservation and management of the Atlantic striped bass.

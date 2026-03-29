@@ -1,0 +1,23 @@
+---
+title: "Section 588 - Movement and supply of office furniture"
+usc_title: 40
+usc_section: "588"
+chapter: 5
+current_through: "PL 119-73"
+classification: "40 U.S.C. § 588"
+generated_at: "2026-03-29T00:32:20.534Z"
+---
+
+# § 588. Movement and supply of office furniture
+
+(a) In this section, the term “controlled space” means a substantial and identifiable segment of space (such as a building, floor, or wing) in a location that the Administrator of General Services controls for purposes of assignment of space.
+(b) This section applies if an agency (or unit of the agency), moves from one controlled space to another, whether in the same or a different location.
+(c) The furniture and furnishings used by an agency (or organizational unit of the agency) shall be moved only if the Administrator determines, after consultation with the head of the agency and with due regard for the program activities of the agency, that it would not be more economical and efficient to make suitable replacements available in the new controlled space.
+(d) In the absence of a determination under subsection (c), suitable furniture and furnishings for the new controlled space shall be provided from stocks under the control of the moving agency or from stocks available to the Administrator, whichever the Administrator determines to be more economical and efficient. However, the same or similar items may not be provided from both sources.
+(e) If furniture and furnishings for a new controlled space are provided from stocks available to the Administrator, the items being provided remain in the control of the Administrator.
+(f) 
+  (1) If furniture and furnishings for a new controlled space are provided from stocks available to the Administrator, the furniture and furnishings that were previously used by the moving agency (or unit of the agency) pass to the control of the Administrator.
+  (2) 
+    (A) Furniture and furnishings passing to the control of the Administrator under this section pass without reimbursement.
+    (B) If furniture and furnishings that were purchased from a trust fund pass to the control of the Administrator under this section, the Administrator shall reimburse the trust fund for the fair market value of the furniture and furnishings.
+  (3) If furniture and furnishings are carried as assets of a revolving or working capital fund at the time they pass to the control of the Administrator under this section, the net book value of the furniture and furnishings shall be written off and the capital of the fund is diminished by the amount of the write-off.

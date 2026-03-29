@@ -1,0 +1,14 @@
+---
+title: "Section 1308a - Use of civil penalty funds to reclaim lands"
+usc_title: 30
+usc_section: "1308a"
+chapter: 25
+current_through: "PL 119-73"
+classification: "30 U.S.C. § 1308a"
+generated_at: "2026-03-29T00:31:30.826Z"
+---
+
+# § 1308a. Use of civil penalty funds to reclaim lands
+
+In fiscal year 2009 and thereafter, the Secretary of the Interior, pursuant to regulations, may use directly or through grants to States, moneys collected for civil penalties assessed under section 1268 of this title , to reclaim lands adversely affected by coal mining practices after August 3, 1977 , to remain available until expended.
+

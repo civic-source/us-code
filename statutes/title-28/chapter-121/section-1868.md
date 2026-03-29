@@ -1,0 +1,14 @@
+---
+title: "Section 1868 - Maintenance and inspection of records"
+usc_title: 28
+usc_section: "1868"
+chapter: 121
+current_through: "PL 119-73"
+classification: "28 U.S.C. § 1868"
+generated_at: "2026-03-29T00:31:24.190Z"
+---
+
+# § 1868. Maintenance and inspection of records
+
+After the master jury wheel is emptied and refilled pursuant to section 1863(b)(4) of this title , and after all persons selected to serve as jurors before the master wheel was emptied have completed such service, all records and papers compiled and maintained by the jury commission or clerk before the master wheel was emptied shall be preserved in the custody of the clerk for four years or for such longer period as may be ordered by a court, and shall be available for public inspection for the purpose of determining the validity of the selection of any jury.
+

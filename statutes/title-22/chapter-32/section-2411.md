@@ -1,0 +1,14 @@
+---
+title: "Section 2411 - Limitation upon exercise of special authorities"
+usc_title: 22
+usc_section: "2411"
+chapter: 32
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 2411"
+generated_at: "2026-03-29T00:30:33.807Z"
+---
+
+# § 2411. Limitation upon exercise of special authorities
+
+The President shall not exercise any special authority granted to him under section 2318(a), 2348a(c)(2), or 2360(a) of this title unless the President, before he intends to exercise any such authority, notifies the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate in writing of each such intended exercise, the section of this chapter under which such authority is to be exercised, and the justification for, and the extent of, the exercise of such authority.
+

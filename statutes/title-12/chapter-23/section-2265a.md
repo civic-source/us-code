@@ -1,0 +1,37 @@
+---
+title: "Section 2265a - Removal and prohibition authority; industry-wide prohibition"
+usc_title: 12
+usc_section: "2265a"
+chapter: 23
+current_through: "PL 119-73"
+classification: "12 U.S.C. § 2265a"
+generated_at: "2026-03-29T00:29:16.743Z"
+---
+
+# § 2265a. Removal and prohibition authority; industry-wide prohibition
+
+(a) In this section, the term “person” means—
+  (1) an individual; and
+  (2) in the case of a specific determination by the Farm Credit Administration, a legal entity.
+(b) Except as provided in subsection (c), any person who, pursuant to an order issued under section 2264 or 2265 of this title, has been removed or suspended from office at a System institution or prohibited from participating in the conduct of the affairs of a System institution shall not, during the period of effectiveness of the order, continue or commence to hold any office in, or participate in any manner in the conduct of the affairs of—
+  (1) any insured depository institution subject to section 1818(e)(7)(A)(i) of this title ;
+  (2) any institution subject to section 1818(e)(7)(A)(ii) of this title ;
+  (3) any insured credit union under the Federal Credit Union Act ( 12 U.S.C. 1751 et seq.);
+  (4) any Federal home loan bank;
+  (5) any institution chartered under this chapter;
+  (6) any appropriate Federal financial institutions regulatory agency (as defined in section 1818(e)(7)(D) of this title );
+  (7) the Federal Housing Finance Agency; or
+  (8) the Farm Credit Administration.
+(c) 
+  (1) 
+    (A) If, on or after the date on which an order described in subsection (b) is issued that removes or suspends an institution-affiliated party from office at a System institution or prohibits an institution-affiliated party from participating in the conduct of the affairs of a System institution, that party receives written consent described in subparagraph (B), subsection (b) shall not apply to that party—
+      (i) to the extent provided in the written consent received; and
+      (ii) with respect to the institution described in each written consent.
+    (B) The written consent referred to in subparagraph (A) is written consent received from—
+      (i) the Farm Credit Administration; and
+      (ii) each appropriate Federal financial institutions regulatory agency (as defined in section 1818(e)(7)(D) of this title ) of the applicable institution described in any of paragraphs (1), (2), (3), or (4) of subsection (b) with respect to which the party proposes to be become 1 1 So in original. an affiliated party.
+  (2) Any agency described in clause (i) or (ii) of paragraph (1)(B) that provides a written consent under that paragraph shall—
+    (A) report the action to the Farm Credit Administration; and
+    (B) publicly disclose the action.
+  (3) The agencies described in clauses (i) and (ii) of paragraph (1)(B) shall consult with each other before providing any written consent under that paragraph.
+(d) A violation of subsection (b) by any person who is subject to an order described in that subsection shall be treated as violation 2 2 So in original. Probably should be preceded by “a”. of that order.

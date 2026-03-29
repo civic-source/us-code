@@ -1,0 +1,38 @@
+---
+title: "Section 1478 - Appraisal and valuation services for real property"
+usc_title: 43
+usc_section: "1478"
+chapter: 31
+current_through: "PL 119-73"
+classification: "43 U.S.C. § 1478"
+generated_at: "2026-03-29T00:32:57.414Z"
+---
+
+# § 1478. Appraisal and valuation services for real property
+
+(a) A covered appraiser needs to be licensed or certified in only 1 State to perform appraisal or valuation services for real property in any State for a transaction over which the Secretary has jurisdiction.
+(b) If the Secretary uses a non-Federal covered appraiser to perform appraisal or valuation services for real property for a transaction described in subsection (a), the Secretary—
+  (1) shall, to the maximum extent practicable, use a non-Federal covered appraiser who is a certified general real property appraiser licensed in a State in which the real property that is the subject of the transaction is located; and
+  (2) may only use a non-Federal covered appraiser who is a certified general real property appraiser licensed in a State other than one in which the real property that is the subject of the transaction is located if a non-Federal covered appraiser described in paragraph (1) is, as determined by the Secretary—
+    (A) unavailable to complete an assignment within a reasonable period of time;
+    (B) not assignment qualified; or
+    (C) not cost competitive.
+(c) Not later than 1 year after January 4, 2025 , and annually thereafter for at least the following 4 years, the Secretary shall submit to Congress a report that includes the following:
+  (1) A comparison using quantitative data of—
+    (A) the number of requests for appraisal and valuation services received by the Department during the reporting period and the number of requests for such services received by the Department in each of the 5 years before the reporting period; and
+    (B) the amount of time required for the Department to complete a request for appraisal or valuation services before January 4, 2025 , and after January 4, 2025 .
+  (2) A qualitative assessment of the impact of subsection (a) in providing flexibility to the Secretary when contracting with non-Federal covered appraisers.
+  (3) Recommendations, if any, for congressional action that could help the Department operate more efficiently or overcome challenges with respect to timely completion of requests for appraisal or valuation services while ensuring the independence, impartiality, and objectivity of such services.
+  (4) An overview of the workforce of the Department with regard to appraisal and valuation services provided by the Department, including hiring and staffing during the reporting period with respect to employees and contractors of the Department.
+  (5) A complete list of cases in which the authority granted under this section was used during the reporting period, describing for each case the specific criteria used to satisfy the conditions of this section.
+(d) 
+  (1) Except as provided in paragraph (3), nothing in this section shall be interpreted to affect the application of any Federal or State law or regulation to a non-Federal covered appraiser with regard to the performance by such non-Federal covered appraiser of appraisal and valuation services for real property.
+  (2) Nothing in this section shall be interpreted to authorize a non-Federal covered appraiser to perform appraisal and valuation services for real property in a State in which such non-Federal covered appraiser is not licensed or certified to perform such services except to the extent that such services are performed for a transaction over which the Secretary has jurisdiction.
+  (3) Any provision of a Federal or State law or regulation enacted before January 4, 2025 , that requires a covered appraiser to be licensed or certified in a specific State to perform appraisal or valuation services for real property in that State shall not apply to any transaction over which the Secretary has jurisdiction.
+(e) Not later than 90 days after January 4, 2025 , the text of all policies (including any successor policies), including reference manuals, guidance documents, handbooks, standard operating procedures, and statements of policy specific to the scoping, contracting, and review of appraisals performed for the Department by Federal or non-Federal covered appraisers, shall be made publicly available online and provided upon request.
+(f) In this section:
+  (1) The term “covered appraiser” means a State-licensed or -certified real property appraiser.
+  (2) The term “Department” means the Department of the Interior.
+  (3) The term “reporting period” means the 1-year period before the date on which a report is submitted under subsection (c).
+  (4) The term “Secretary” means the Secretary of the Interior.
+  (5) The term “State” means each of the several States, the District of Columbia, and each territory and possession of the United States.

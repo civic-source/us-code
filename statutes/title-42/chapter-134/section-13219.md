@@ -1,0 +1,21 @@
+---
+title: "Section 13219 - United States Postal Service"
+usc_title: 42
+usc_section: "13219"
+chapter: 134
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 13219"
+generated_at: "2026-03-29T00:32:54.310Z"
+---
+
+# § 13219. United States Postal Service
+
+(a) 
+(b) To the maximum extent practicable, the Postmaster General shall coordinate the Postal Service’s alternative fueled vehicle procurement, placement, refueling, and maintenance programs with those at the Federal, State, and local level. The Postmaster General shall communicate, share, and disseminate, on a regular basis, information on such programs with the Secretary, the Administrator of General Services, and heads of appropriate Federal agencies.
+(c) The Postmaster General shall consider the following criteria in the procurement and placement of alternative fueled vehicles:
+  (1) The procurement plans of State and local governments and other public and private institutions.
+  (2) The current and future availability of refueling and repair facilities.
+  (3) The reduction in emissions of the Postal fleet.
+  (4) Whether the vehicle is to be used in a nonattainment area as specified in the Clean Air Act Amendments of 1990.
+  (5) The operational requirements of the Postal fleet.
+  (6) The contribution to the reduction in the consumption of oil in the transportation sector.

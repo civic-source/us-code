@@ -1,0 +1,20 @@
+---
+title: "Section 12405 - Technology transfer program"
+usc_title: 42
+usc_section: "12405"
+chapter: 128
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 12405"
+generated_at: "2026-03-29T00:32:54.256Z"
+---
+
+# § 12405. Technology transfer program
+
+(a) The Secretary shall conduct a program designed to accelerate wider application of hydrogen production, storage, utilization, and other technologies available in near term as a result of aerospace experience as well as other research progress by transferring critical technologies to the private sector. The Secretary shall direct the program with the advice and assistance of the Hydrogen Technical Advisory Panel established under section 12407 of this title . The objective in seeking this advice is to increase participation of private industry in the demonstration of near commercial applications through cooperative research and development arrangements, joint ventures or other appropriate arrangements involving the private sector.
+(b) The Secretary, in carrying out the program authorized by subsection (a), shall—
+  (1) undertake an inventory and assessment of hydrogen technologies and their commercial capability to economically produce, store, or utilize hydrogen in aerospace, transportation, electric utilities, petrochemical, chemical, merchant hydrogen, and other industrial sectors; and
+  (2) develop a National Aeronautics Space Administration, Department of Energy, and industry information exchange program to improve technology transfer for—
+    (A) application of aerospace experience by industry;
+    (B) application of research progress by industry and aerospace;
+    (C) application of commercial capability of industry by aerospace; and
+    (D) expression of industrial needs to research organizations.

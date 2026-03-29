@@ -1,0 +1,48 @@
+---
+title: "Section 6873 - Data consolidation and publication"
+usc_title: 16
+usc_section: "6873"
+chapter: 87
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 6873"
+generated_at: "2026-03-29T00:29:52.874Z"
+---
+
+# § 6873. Data consolidation and publication
+
+(a) Not later than 5 years after December 26, 2025 , each of the Secretaries, to the maximum extent practicable, shall digitize and make publicly available online, as applicable, geographic information system data that includes, with respect to Federal waterway restrictions—
+  (1) status information with respect to the conditions under which Federal waterways are open or closed to entry or watercraft, including watercraft inspection, decontamination requirements, low-elevation aircraft, or diving;
+  (2) the dates on which Federal waterways are seasonally closed to entry or watercraft;
+  (3) the areas of Federal waterways with restrictions on motorized propulsion, horsepower, or fuel type;
+  (4) the areas of Federal waterways with anchoring restrictions, no wake zones, exclusion zones, danger areas, or vessel speed restrictions;
+  (5) Federal waterway restrictions on the direction of travel, including upstream or downstream travel; and
+  (6) the uses, including by watercraft, that are restricted on each area of a Federal waterway, including the permissibility of—
+    (A) canoes and other paddlecraft;
+    (B) rafts and driftboats;
+    (C) motorboats;
+    (D) personal watercraft;
+    (E) airboats;
+    (F) amphibious aircraft;
+    (G) hovercraft;
+    (H) oversnow vehicles and other motorized vehicles on frozen bodies of water;
+    (I) oceangoing ships;
+    (J) swimming; and
+    (K) other applicable recreational activities, as determined to be appropriate by the Secretaries.
+(b) Not later than 5 years after December 26, 2025 , each of the Secretaries, to the maximum extent practicable, shall digitize and make publicly available online, as applicable, geographic information system data that includes, with respect to Federal waterway access and navigation information—
+  (1) 
+    (A) the location of boat ramps, portages, and fishing access sites under the authority of the Federal land or water management agency; and
+    (B) the identification of the dates on which the facilities and sites identified under subparagraph (A) are open or closed, as applicable; and
+  (2) bathymetric information and depth charts, as feasible.
+(c) Not later than 5 years after December 26, 2025 , each of the Secretaries, to the maximum extent practicable, shall digitize and make publicly available online geographic information system data that describes, with respect to Federal fishing restrictions—
+  (1) the location and geographic boundaries of Federal fishing restrictions on recreational and commercial fishing, including—
+    (A) full or partial closures;
+    (B) no-take zones; and
+    (C) Federal fishing restrictions within or surrounding marine protected areas;
+  (2) Federal fishing restrictions on the use of specific types of equipment or bait; and
+  (3) Federal requirements with respect to catch and release.
+(d) The Secretaries shall develop a process to allow members of the public to submit questions or comments regarding the information described in subsections (a) and (b).
+(e) The Secretaries, to the maximum extent practicable, shall update—
+  (1) the data described in subsections (a) and (b) not less frequently than 2 times per year; and
+  (2) the data described in subsection (c) in real time as changes go into effect.
+(f) This section shall not apply to irrigation canals and flowage easements.
+(g) Any geographic information system data made publicly available under this section shall not disclose information regarding the nature, location, character, or ownership of historic, paleontological, or archaeological resources, consistent with applicable law.

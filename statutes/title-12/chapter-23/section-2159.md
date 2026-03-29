@@ -1,0 +1,14 @@
+---
+title: "Section 2159 - Purchase and sale of obligations"
+usc_title: 12
+usc_section: "2159"
+chapter: 23
+current_through: "PL 119-73"
+classification: "12 U.S.C. § 2159"
+generated_at: "2026-03-29T00:29:16.735Z"
+---
+
+# § 2159. Purchase and sale of obligations
+
+Each bank of the System may purchase its own obligations and the obligations of other banks of the System and may provide for the sale of obligations issued by it, consolidated obligations, or Systemwide obligations through a fiscal agent or agents, by negotiation, offer, bid, syndicate sale, and to deliver such obligations by book entry, wire transfer, or such other means as may be appropriate.
+

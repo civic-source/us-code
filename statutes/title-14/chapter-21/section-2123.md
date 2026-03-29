@@ -1,0 +1,14 @@
+---
+title: "Section 2123 - Promotions; acceptance; oath of office"
+usc_title: 14
+usc_section: "2123"
+chapter: 21
+current_through: "PL 119-73"
+classification: "14 U.S.C. § 2123"
+generated_at: "2026-03-29T00:29:25.014Z"
+---
+
+# § 2123. Promotions; acceptance; oath of office
+
+(a) An officer who receives an appointment under section 2121 of this title is considered to have accepted his appointment on its effective date, unless he expressly declines the appointment.
+(b) An officer who has served continuously since he subscribed to the oath of office prescribed in section 3331 of title 5 is not required to take a new oath upon his appointment in a higher grade.

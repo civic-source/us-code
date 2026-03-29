@@ -1,0 +1,27 @@
+---
+title: "Section 7626 - Integrated research, education, and extension competitive grants program"
+usc_title: 7
+usc_section: "7626"
+chapter: 103
+current_through: "PL 119-73"
+classification: "7 U.S.C. § 7626"
+generated_at: "2026-03-29T00:28:58.289Z"
+---
+
+# § 7626. Integrated research, education, and extension competitive grants program
+
+(a) It is the purpose of this section to authorize the Secretary of Agriculture to establish an integrated research, education, and extension competitive grant program to provide funding for integrated, multifunctional agricultural research, extension, and education activities.
+(b) Subject to the availability of appropriations to carry out this section, the Secretary may award grants to colleges and universities (as defined in section 3103 of this title ), 1994 Institutions, and Hispanic-serving agricultural colleges and universities on a competitive basis for integrated agricultural research, education, and extension projects in accordance with this section.
+(c) Grants under this section shall be awarded to address priorities in United States agriculture, determined by the Secretary in consultation with the Advisory Board, that involve integrated research, extension, and education activities.
+(d) 
+  (1) Subject to paragraph (3), with respect to a grant under this section that provides a particular benefit to a specific agricultural commodity, the recipient of the grant shall provide non-Federal matching funds (including funds from an agricultural commodity promotion, research, and information program) equal to not less than the amount of the grant.
+  (2) Non-Federal matching funds described in paragraph (1) may include in-kind support.
+  (3) The Secretary may waive the matching funds requirement under paragraph (1) with respect to a grant if the Secretary determines that—
+    (A) the results of the grant are of a particular benefit to a specific agricultural commodity, but those results are likely to be applicable to agricultural commodities generally; or
+    (B) 
+      (i) the grant—
+        (I) involves a minor commodity; and
+        (II) deals with scientifically important research; and
+      (ii) the recipient is unable to satisfy the matching funds requirement.
+(e) A grant under this section shall have a term of not more than 5 years.
+(f) There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2023.

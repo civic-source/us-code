@@ -1,0 +1,14 @@
+---
+title: "Section 57513 - Minimum bid"
+usc_title: 46
+usc_section: "57513"
+chapter: 575
+current_through: "PL 119-73"
+classification: "46 U.S.C. § 57513"
+generated_at: "2026-03-29T00:33:02.954Z"
+---
+
+# § 57513. Minimum bid
+
+The Secretary of Transportation shall reject any bid for the charter under this subchapter of a vessel constructed under this subtitle or the Merchant Marine Act, 1936, if the charter hire offered is lower than the minimum charter hire would be if the vessel were chartered under section 57531 of this title .
+

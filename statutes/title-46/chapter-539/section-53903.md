@@ -1,0 +1,28 @@
+---
+title: "Section 53903 - Insurable interests"
+usc_title: 46
+usc_section: "53903"
+chapter: 539
+current_through: "PL 119-73"
+classification: "46 U.S.C. § 53903"
+generated_at: "2026-03-29T00:33:02.943Z"
+---
+
+# § 53903. Insurable interests
+
+(a) The Secretary of Transportation may provide insurance and reinsurance under this chapter for—
+  (1) an American vessel, including a vessel under construction;
+  (2) a foreign vessel—
+    (A) owned by a citizen of the United States; or
+    (B) engaged in transportation in the waterborne commerce of the United States or in such other transportation by water or such other services as the Secretary considers to be in the interest of the national defense or national economy of the United States, when so engaged;
+  (3) cargo—
+    (A) shipped or to be shipped on a vessel insurable under this section, including by express or registered mail;
+    (B) owned by a citizen or resident of the United States;
+    (C) imported to or exported from the United States, or sold or purchased by a citizen or resident of the United States, under a contract of sale or purchase the terms of which provide that the risk of loss by war risks or the obligation to provide insurance against war risks is on a citizen or resident of the United States; or
+    (D) shipped between ports in the United States;
+  (4) disbursements, including advances to masters and general average disbursements, and freight and passage money of a vessel insurable under this section;
+  (5) personal effects of an individual on a vessel insurable under this section;
+  (6) loss of life, injury, or detention by an enemy of the United States after capture, with respect to an individual on a vessel insurable under this section; and
+  (7) statutory or contractual obligations or other liabilities of a vessel insurable under this section or of the owner or charterer of such a vessel, of a nature customarily covered by insurance.
+(b) In determining whether to provide insurance or reinsurance for a foreign vessel, the Secretary shall consider the characteristics, employment, and general management of the vessel by the owner or charterer.
+(c) Insurance of a risk under subsection (a)(5)–(7), insofar as it involves a liability related to an individual on the vessel, may include risks other than war risks to the extent the Secretary considers advisable.

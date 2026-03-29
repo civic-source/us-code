@@ -1,0 +1,20 @@
+---
+title: "Section 12616 - Training"
+usc_title: 42
+usc_section: "12616"
+chapter: 129
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 12616"
+generated_at: "2026-03-29T00:32:54.273Z"
+---
+
+# § 12616. Training
+
+(a) Each member of the National Civilian Community Corps shall be provided with between three and six weeks of training that includes a comprehensive service-learning curriculum designed to promote team building, discipline, leadership, work, training, citizenship, and physical conditioning. The Director shall ensure that, to the extent practicable, each member of the Corps is trained in CPR, first aid, and other skills related to disaster preparedness and response.
+(b) 
+  (1) Members of the Corps participating in the national service program shall receive advanced training in basic, project-specific skills that the members will use in performing their community service projects, including a focus on energy conservation, environmental stewardship or conservation, infrastructure improvement, urban and rural development, or disaster preparedness needs, as appropriate.
+  (2) Members of the Corps participating in the summer national service program shall not receive advanced training referred to in paragraph (1) but, to the extent practicable, may receive other training.
+(c) 
+  (1) Members of the cadre appointed under section 12619(c)(2) of this title shall provide the training for the members of the Corps, including, as appropriate, advanced service training and ongoing training throughout the members’ periods of agreed service.
+  (2) Members of the cadre may provide, either directly or through grants, contracts, or cooperative agreements, the advanced service training referred to in subsection (b)(1) in coordination with vocational or technical schools, other employment and training providers, existing youth service programs, other qualified individuals, or organizations with expertise in training youth, including disadvantaged youth, in the skills described in such subsection.
+(d) The training may be provided at installations and other facilities of the Department of Defense, and at National Guard facilities, identified under section 12622(c) of this title .

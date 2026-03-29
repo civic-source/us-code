@@ -1,0 +1,14 @@
+---
+title: "Section 31105 - Security when counterclaim filed"
+usc_title: 46
+usc_section: "31105"
+chapter: 311
+current_through: "PL 119-73"
+classification: "46 U.S.C. § 31105"
+generated_at: "2026-03-29T00:33:02.904Z"
+---
+
+# § 31105. Security when counterclaim filed
+
+If a counterclaim is filed for a cause of action for which the original action is filed under this chapter, the respondent to the counterclaim shall give security in the usual amount and form to respond to the counterclaim, unless the court for cause shown orders otherwise. The proceedings in the original action shall be stayed until the security is given.
+

@@ -1,0 +1,14 @@
+---
+title: "Section 81 - Arson within special maritime and territorial jurisdiction"
+usc_title: 18
+usc_section: "81"
+chapter: 5
+current_through: "PL 119-73"
+classification: "18 U.S.C. § 81"
+generated_at: "2026-03-29T00:30:15.593Z"
+---
+
+# § 81. Arson within special maritime and territorial jurisdiction
+
+Whoever, within the special maritime and territorial jurisdiction of the United States, willfully and maliciously sets fire to or burns any building, structure or vessel, any machinery or building materials or supplies, military or naval stores, munitions of war, or any structural aids or appliances for navigation or shipping, or attempts or conspires to do such an act, shall be imprisoned for not more than 25 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed, or both. If the building be a dwelling or if the life of any person be placed in jeopardy, he shall be fined under this title or imprisoned for any term of years or for life, or both.
+

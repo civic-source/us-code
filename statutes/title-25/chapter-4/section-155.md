@@ -1,0 +1,14 @@
+---
+title: "Section 155 - Disposal of miscellaneous revenues from Indian reservations, etc."
+usc_title: 25
+usc_section: "155"
+chapter: 4
+current_through: "PL 119-73"
+classification: "25 U.S.C. § 155"
+generated_at: "2026-03-29T00:30:38.618Z"
+---
+
+# § 155. Disposal of miscellaneous revenues from Indian reservations, etc.
+
+All miscellaneous revenues derived from Indian reservations, agencies, and schools, except those of the Five Civilized Tribes and not the result of the labor of any member of such tribe, which are not required by existing law to be otherwise disposed of, shall be covered into the Treasury of the United States under the caption “Indian moneys, proceeds of labor”, and are made available for expenditure, in the discretion of the Secretary of the Interior, for the benefit of the Indian tribes, agencies, and schools on whose behalf they are collected, subject, however, to the limitations as to tribal funds, imposed by sections 123 and 142 1 1 See References in Text note below. of this title.
+

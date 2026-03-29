@@ -1,0 +1,17 @@
+---
+title: "Section 4841 - Statement of policy"
+usc_title: 50
+usc_section: "4841"
+chapter: 58
+current_through: "PL 119-73"
+classification: "50 U.S.C. § 4841"
+generated_at: "2026-03-29T00:33:18.272Z"
+---
+
+# § 4841. Statement of policy
+
+Congress declares it is the policy of the United States—
+
+  (1) to oppose restrictive trade practices or boycotts fostered or imposed by any foreign country against other countries friendly to the United States or against any United States person;
+  (2) to encourage and, in specified cases, require United States persons engaged in the export of goods or technology or other information to refuse to take actions, including furnishing information or entering into or implementing agreements, which have the effect of furthering or supporting the restrictive trade practices or boycotts fostered or imposed by any foreign country against a country friendly to the United States or any United States person; and
+  (3) to foster international cooperation and the development of international rules and institutions to assure reasonable access to world supplies.

@@ -1,0 +1,14 @@
+---
+title: "Section 3506 - Travel and subsistence expenses of officers and employees in connection with attendance at meetings or in performing advisory services"
+usc_title: 42
+usc_section: "3506"
+chapter: 43
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 3506"
+generated_at: "2026-03-29T00:32:53.836Z"
+---
+
+# § 3506. Travel and subsistence expenses of officers and employees in connection with attendance at meetings or in performing advisory services
+
+To the extent and under the conditions provided by regulations of the Secretary, officers (including commissioned officers of the Public Health Service) and employees of the Department of Health and Human Services may on and after June 29, 1957 , in connection with their attendance at meetings or in performing advisory services concerned with the functions or activities of the Department, be permitted to accept payment, in cash or in kind, from non-Federal agencies, organizations, and individuals, for travel and subsistence expenses, to be retained by them to cover the cost thereof or deposited to the credit of the appropriation from which the cost thereof is paid, as may be provided, in such regulations.
+

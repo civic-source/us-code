@@ -1,0 +1,16 @@
+---
+title: "Section 2005b - Conditions of assistance"
+usc_title: 42
+usc_section: "2005b"
+chapter: 22
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 2005b"
+generated_at: "2026-03-29T00:32:53.735Z"
+---
+
+# § 2005b. Conditions of assistance
+
+As a condition to providing assistance under section 2005 of this title , the Surgeon General shall—
+
+(a) require plans and specifications meeting such standards of construction and equipment as he may prescribe, and
+(b) obtain such assurances and agreements as in his judgment are equitable in the light of the financial assistance provided under this subchapter and are necessary to assure the availability of the facility for the provision of hospital and medical care to Indians and to assure that the hospital is operated in compliance with State standards for operation and maintenance of hospitals which receive Federal aid under title VI of the Public Health Service Act [ 42 U.S.C. 291 et seq.].

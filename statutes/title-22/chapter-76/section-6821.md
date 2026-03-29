@@ -1,0 +1,25 @@
+---
+title: "Section 6821 - Establishment"
+usc_title: 22
+usc_section: "6821"
+chapter: 76
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 6821"
+generated_at: "2026-03-29T00:30:33.977Z"
+---
+
+# § 6821. Establishment
+
+(a) The Secretary of the Treasury shall seek to enter into negotiations with the World Bank or the Association, in consultation with the Administrator of the United States Agency for International Development and other United States Government agencies, and with the member nations of the World Bank or the Association and with other interested parties, for the establishment within the World Bank of—
+  (1) the World Bank AIDS Trust Fund (in this subchapter referred to as the “Trust Fund”) in accordance with the provisions of this part; and
+  (2) the Advisory Board to the Trust Fund in accordance with section 6824 of this title .
+(b) The purpose of the Trust Fund should be to use contributed funds to—
+  (1) assist in the prevention and eradication of HIV/AIDS and the care and treatment of individuals infected with HIV/AIDS; and
+  (2) provide support for the establishment of programs that provide health care and primary and secondary education for children orphaned by the HIV/AIDS epidemic.
+(c) 
+  (1) The Trust Fund should be governed by a Board of Trustees, which should be composed of representatives of the participating donor countries to the Trust Fund. Individuals appointed to the Board should have demonstrated knowledge and experience in the fields of public health, epidemiology, health care (including delivery systems), and development.
+  (2) 
+    (A) Upon the effective date of this paragraph, there shall be a United States member of the Board of Trustees, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall have the qualifications described in paragraph (1).
+    (B) 
+      (i) This paragraph shall take effect upon the date the Secretary of the Treasury certifies to Congress that an agreement establishing the Trust Fund and providing for a United States member of the Board of Trustees is in effect.
+      (ii) The position established by subparagraph (A) is abolished upon the date of termination of the Trust Fund.

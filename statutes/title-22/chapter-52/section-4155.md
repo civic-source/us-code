@@ -1,0 +1,22 @@
+---
+title: "Section 4155 - Conversion of certain positions in Department of Agriculture"
+usc_title: 22
+usc_section: "4155"
+chapter: 52
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 4155"
+generated_at: "2026-03-29T00:30:33.919Z"
+---
+
+# § 4155. Conversion of certain positions in Department of Agriculture
+
+(a) Not later than 15 days after February 15, 1981 , the Secretary of Agriculture shall—
+  (1) designate and classify under section 3981 of this title those positions in the Foreign Agricultural Service under the General Schedule described in section 5332 of title 5 which the Secretary of Agriculture determines are to be occupied by career members of the Foreign Service, and
+  (2) provide written notice to individuals holding those positions of such designation and classification of the personnel category under section 3903 of this title which will apply to such individual.
+(b) Each employee serving in a position at the time it is designated under subsection (a) shall, not later than 120 days after notice of such designation, elect—
+  (1) to accept conversion to the Foreign Service, in which case such employee shall be converted in accordance with the provisions of subsection (c); or
+  (2) to decline conversion to the Foreign Service and have the provisions of subsection (d) apply.
+(c) 
+  (1) The Secretary of Agriculture shall recommend to the President for appointment to the appropriate class (as determined under paragraph (2)), by and with the advice and consent of the Senate, those employees who elect conversion under subsection (a)(1).
+  (2) The Secretary of Agriculture shall appoint as Foreign Service personnel those employees who elect to accept conversion and who are not eligible for appointment under paragraph (1).
+(d) Any employee who declines conversion under subsection (b)(2) shall for so long as that employee continues to hold the designated position be deemed to be a member of the Foreign Service for purposes of allowances, differentials, and similar benefits (as determined by the Secretary of Agriculture).

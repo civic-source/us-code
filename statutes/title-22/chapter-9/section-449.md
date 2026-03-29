@@ -1,0 +1,14 @@
+---
+title: "Section 449 - American republics"
+usc_title: 22
+usc_section: "449"
+chapter: 9
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 449"
+generated_at: "2026-03-29T00:30:33.709Z"
+---
+
+# § 449. American republics
+
+This subchapter (except section 452 1 1 See References in Text note below. of this title) shall not apply to any American republic engaged in war against a non-American state or states, provided the American republic is not cooperating with a non-American state or states in such war.
+

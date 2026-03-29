@@ -1,0 +1,14 @@
+---
+title: "Section 1309 - Portability assistance"
+usc_title: 29
+usc_section: "1309"
+chapter: 18
+current_through: "PL 119-73"
+classification: "29 U.S.C. § 1309"
+generated_at: "2026-03-29T00:31:27.674Z"
+---
+
+# § 1309. Portability assistance
+
+The corporation shall provide advice and assistance to individuals with respect to evaluating the economic desirability of establishing individual retirement accounts or other forms of individual retirement savings for which a deduction is allowable under section 219 of title 26 and with respect to evaluating the desirability, in particular cases, of transferring amounts representing an employee’s interest in a qualified plan to such an account upon the employee’s separation from service with an employer.
+

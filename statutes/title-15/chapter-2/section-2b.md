@@ -1,0 +1,31 @@
+---
+title: "Section 2b - Protection for voluntary provision of information"
+usc_title: 15
+usc_section: "2b"
+chapter: 2
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 2b"
+generated_at: "2026-03-29T00:29:41.433Z"
+---
+
+# § 57b–2b. Protection for voluntary provision of information
+
+(a) 
+  (1) An entity described in paragraphs (2) or (3) of subsection (d) that voluntarily provides material to the Commission that such entity reasonably believes is relevant to—
+    (A) a possible unfair or deceptive act or practice, as defined in section 45(a) of this title ; or
+    (B) assets subject to recovery by the Commission, including assets located in foreign jurisdictions;
+  (2) Nothing in this subsection shall be construed to exempt any such entity from liability—
+    (A) for the underlying conduct reported; or
+    (B) to any Federal agency for providing such material or for any failure to comply with any obligation the entity may have to notify a Federal agency prior to providing such material to the Commission.
+(b) An entity described in paragraph (1) of subsection (d) shall, in accordance with section 5318(g)(3) of title 31 , be exempt from liability for making a voluntary disclosure to the Commission of any possible violation of law or regulation, including—
+  (1) a disclosure regarding assets, including assets located in foreign jurisdictions—
+    (A) related to possibly fraudulent or deceptive commercial practices;
+    (B) related to persons involved in such practices; or
+    (C) otherwise subject to recovery by the Commission; or
+  (2) a disclosure regarding suspicious chargeback rates related to possibly fraudulent or deceptive commercial practices.
+(c) Any entity described in subsection (d) that voluntarily provides consumer complaints sent to it, or information contained therein, to the Commission shall not be liable to any person under any law or regulation of the United States, or under the constitution, or any law or regulation, of any State, political subdivision of a State, territory of the United States, or the District of Columbia, for such provision of material or for any failure to provide notice of such provision of material or of intention to so provide material. This subsection shall not provide any exemption from liability for the underlying conduct.
+(d) This section applies to the following entities, whether foreign or domestic:
+  (1) A financial institution as defined in section 5312 of title 31 .
+  (2) To the extent not included in paragraph (1), a bank or thrift institution, a commercial bank or trust company, an investment company, a credit card issuer, an operator of a credit card system, and an issuer, redeemer, or cashier of travelers’ checks, money orders, or similar instruments.
+  (3) A courier service, a commercial mail receiving agency, an industry membership organization, a payment system provider, a consumer reporting agency, a domain name registrar or registry acting as such, and a provider of alternative dispute resolution services.
+  (4) An Internet service provider or provider of telephone services.

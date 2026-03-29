@@ -1,0 +1,23 @@
+---
+title: "Section 704 - Military medals or decorations"
+usc_title: 18
+usc_section: "704"
+chapter: 33
+current_through: "PL 119-73"
+classification: "18 U.S.C. § 704"
+generated_at: "2026-03-29T00:30:15.625Z"
+---
+
+# § 704. Military medals or decorations
+
+(a) Whoever knowingly purchases, attempts to purchase, solicits for purchase, mails, ships, imports, exports, produces blank certificates of receipt for, manufactures, sells, attempts to sell, advertises for sale, trades, barters, or exchanges for anything of value any decoration or medal authorized by Congress for the armed forces of the United States, or any of the service medals or badges awarded to the members of such forces, or the ribbon, button, or rosette of any such badge, decoration or medal, or any colorable imitation thereof, except when authorized under regulations made pursuant to law, shall be fined under this title or imprisoned not more than six months, or both.
+(b) Whoever, with intent to obtain money, property, or other tangible benefit, fraudulently holds oneself out to be a recipient of a decoration or medal described in subsection (c)(2) or (d) shall be fined under this title, imprisoned not more than one year, or both.
+(c) 
+  (1) If a decoration or medal involved in an offense under subsection (a) is a Congressional Medal of Honor, in lieu of the punishment provided in that subsection, the offender shall be fined under this title, imprisoned not more than 1 year, or both.
+  (2) In this subsection, the term “Congressional Medal of Honor” means—
+    (A) a medal of honor awarded under section 7271, 8291, or 9271 of title 10 or section 491 1 1 See References in Text note below. of title 14;
+    (B) a duplicate medal of honor issued under section 7284, 8306, or 9284 of title 10 or section 504 1 of title 14; or
+    (C) a replacement of a medal of honor provided under section 7277, 8303, or 9277 of title 10 or section 501 1 of title 14.
+(d) 
+  (1) If a decoration or medal involved in an offense described in subsection (a) is a distinguished-service cross awarded under section 7272 of title 10 , a Navy cross awarded under section 8292 of title 10 , an Air Force cross awarded under section 9272 of title 10 , a silver star awarded under section 7276, 8294, or 9276 of title 10, a Purple Heart awarded under section 1129 of title 10 , a combat badge, or any replacement or duplicate medal for such medal as authorized by law, in lieu of the punishment provided in the applicable subsection, the offender shall be fined under this title, imprisoned not more than 1 year, or both.
+  (2) In this subsection, the term “combat badge” means a Combat Infantryman’s Badge, Combat Action Badge, Combat Medical Badge, Combat Action Ribbon, or Combat Action Medal.

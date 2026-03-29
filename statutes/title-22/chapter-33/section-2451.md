@@ -1,0 +1,14 @@
+---
+title: "Section 2451 - Congressional statement of purpose"
+usc_title: 22
+usc_section: "2451"
+chapter: 33
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 2451"
+generated_at: "2026-03-29T00:30:33.817Z"
+---
+
+# § 2451. Congressional statement of purpose
+
+The purpose of this chapter is to enable the Government of the United States to increase mutual understanding between the people of the United States and the people of other countries by means of educational and cultural exchange; to strengthen the ties which unite us with other nations by demonstrating the educational and cultural interests, developments, and achievements of the people of the United States and other nations, and the contributions being made toward a peaceful and more fruitful life for people throughout the world; to promote international cooperation for educational and cultural advancement; and thus to assist in the development of friendly, sympathetic, and peaceful relations between the United States and the other countries of the world.
+

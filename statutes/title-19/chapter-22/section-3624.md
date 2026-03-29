@@ -1,0 +1,17 @@
+---
+title: "Section 3624 - Additional program funding"
+usc_title: 19
+usc_section: "3624"
+chapter: 22
+current_through: "PL 119-73"
+classification: "19 U.S.C. § 3624"
+generated_at: "2026-03-29T00:30:20.272Z"
+---
+
+# § 3624. Additional program funding
+
+(a) Consistent, as determined by the President, with the obligations undertaken by the United States set forth in the Uruguay Round Agreements, the Commodity Credit Corporation shall use, in addition to any other funds appropriated or made available for such purposes, any funds made available under subsection (b) for authorized export promotion, foreign market development, export credit financing, and promoting the development, commercialization, and marketing of products resulting from alternative uses of agricultural commodities.
+(b) Amounts shall be credited to the Commodity Credit Corporation in fiscal year 1995 equal to the lesser of the dollar amount of—
+  (1) the fiscal year 1995 Pay-As-You-Go savings; and
+  (2) the 5-year Pay-As-You-Go savings;
+(c) This section shall take effect on December 8, 1994 .

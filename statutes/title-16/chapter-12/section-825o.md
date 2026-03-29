@@ -1,0 +1,14 @@
+---
+title: "Section 825o - Penalties for violations; applicability of section"
+usc_title: 16
+usc_section: "825o"
+chapter: 12
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 825o"
+generated_at: "2026-03-29T00:29:52.649Z"
+---
+
+# § 825o. Penalties for violations; applicability of section
+
+(a) Any person who willfully and knowingly does or causes or suffers to be done any act, matter, or thing in this chapter prohibited or declared to be unlawful, or who willfully and knowingly omits or fails to do any act, matter, or thing in this chapter required to be done, or willfully and knowingly causes or suffers such omission or failure, shall, upon conviction thereof, be punished by a fine of not more than $1,000,000 or by imprisonment for not more than 5 years, or both.
+(b) Any person who willfully and knowingly violates any rule, regulation, restriction, condition, or order made or imposed by the Commission under authority of this chapter, or any rule or regulation imposed by the Secretary of the Army under authority of subchapter I of this chapter shall, in addition to any other penalties provided by law, be punished upon conviction thereof by a fine of not exceeding $25,000 for each and every day during which such offense occurs.

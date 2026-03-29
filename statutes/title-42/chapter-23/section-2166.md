@@ -1,0 +1,14 @@
+---
+title: "Section 2166 - Applicability of other laws"
+usc_title: 42
+usc_section: "2166"
+chapter: 23
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 2166"
+generated_at: "2026-03-29T00:32:53.757Z"
+---
+
+# § 2166. Applicability of other laws
+
+(a) Sections 2161 to 2165 of this title shall not exclude the applicable provisions of any other laws, except that no Government agency shall take any action under such other laws inconsistent with the provisions of those sections.
+(b) The Commission shall have no power to control or restrict the dissemination of information other than as granted by this or any other law.

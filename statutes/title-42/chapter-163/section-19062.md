@@ -1,0 +1,14 @@
+---
+title: "Section 19062 - Accelerating unmanned maritime systems technologies"
+usc_title: 42
+usc_section: "19062"
+chapter: 163
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 19062"
+generated_at: "2026-03-29T00:32:54.509Z"
+---
+
+# § 19062. Accelerating unmanned maritime systems technologies
+
+(a) In order to support advances in marine science, maritime domain awareness, and national security the Director, in consultation with the Under Secretary of Commerce for Oceans and Atmosphere and the Commandant of the Coast Guard, shall issue awards, on a competitive basis, to institutions of higher education or nonprofit organizations (or consortia of such institutions or organizations) to support research that will accelerate innovation to advance unmanned maritime systems for the purpose of providing greater maritime domain awareness to the Nation.
+(b) In implementing this section, the Director shall coordinate with the Coast Guard, the Department of Defense, the National Oceanic and Atmospheric Administration, and other Federal agencies, including those established under the Commercial Engagement Through Ocean Technology Act of 2018 ( Public Law 115–394 ) [ 33 U.S.C. 4101 et seq.].

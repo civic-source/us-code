@@ -1,0 +1,30 @@
+---
+title: "Section 196 - Deduction for certain unused business credits"
+usc_title: 26
+usc_section: "196"
+chapter: 1
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 196"
+generated_at: "2026-03-29T00:31:20.668Z"
+---
+
+# § 196. Deduction for certain unused business credits
+
+(a) If any portion of the qualified business credits determined for any taxable year has not, after the application of section 38(c), been allowed to the taxpayer as a credit under section 38 for any taxable year, an amount equal to the credit not so allowed shall be allowed to the taxpayer as a deduction for the first taxable year following the last taxable year for which such credit could, under section 39, have been allowed as a credit.
+(b) If a taxpayer dies or ceases to exist before the first taxable year following the last taxable year for which the qualified business credits could, under section 39, have been allowed as a credit, the amount described in subsection (a) (or the proper portion thereof) shall, under regulations prescribed by the Secretary, be allowed to the taxpayer as a deduction for the taxable year in which such death or cessation occurs.
+(c) For purposes of this section, the term “qualified business credits” means—
+  (1) the investment credit determined under section 46 (but only to the extent attributable to property the basis of which is reduced by section 50(c)),
+  (2) the work opportunity credit determined under section 51(a),
+  (3) the alcohol fuels credit determined under section 40(a),
+  (4) the research credit determined under section 41(a) (other than such credit determined under section 280C(c)(3)) 1 1 See References in Text note below. for taxable years beginning after December 31, 1988 ,
+  (5) the enhanced oil recovery credit determined under section 43(a),
+  (6) the empowerment zone employment credit determined under section 1396(a),
+  (7) the Indian employment credit determined under section 45A(a),
+  (8) the employer Social Security credit determined under section 45B(a),
+  (9) the new markets tax credit determined under section 45D(a),
+  (10) the small employer pension plan startup cost credit determined under section 45E(a),
+  (11) the biodiesel fuels credit determined under section 40A(a),
+  (12) the low sulfur diesel fuel production credit determined under section 45H(a),
+  (13) the new energy efficient home credit determined under section 45L(a), and
+  (14) the small employer health insurance credit determined under section 45R(a).
+(d) Subsection (a) shall be applied by substituting “an amount equal to 50 percent of” for “an amount equal to” in the case of the investment credit determined under section 46 (other than the rehabilitation credit).

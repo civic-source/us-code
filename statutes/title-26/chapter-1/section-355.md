@@ -1,0 +1,183 @@
+---
+title: "Section 355 - Distribution of stock and securities of a controlled corporation"
+usc_title: 26
+usc_section: "355"
+chapter: 1
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 355"
+generated_at: "2026-03-29T00:31:20.693Z"
+---
+
+# § 355. Distribution of stock and securities of a controlled corporation
+
+(a) 
+  (1) If—
+    (A) a corporation (referred to in this section as the “distributing corporation”)—
+      (i) distributes to a shareholder, with respect to its stock, or
+      (ii) distributes to a security holder, in exchange for its securities,
+    (B) the transaction was not used principally as a device for the distribution of the earnings and profits of the distributing corporation or the controlled corporation or both (but the mere fact that subsequent to the distribution stock or securities in one or more of such corporations are sold or exchanged by all or some of the distributees (other than pursuant to an arrangement negotiated or agreed upon prior to such distribution) shall not be construed to mean that the transaction was used principally as such a device),
+    (C) the requirements of subsection (b) (relating to active businesses) are satisfied, and
+    (D) as part of the distribution, the distributing corporation distributes—
+      (i) all of the stock and securities in the controlled corporation held by it immediately before the distribution, or
+      (ii) an amount of stock in the controlled corporation constituting control within the meaning of section 368(c), and it is established to the satisfaction of the Secretary that the retention by the distributing corporation of stock (or stock and securities) in the controlled corporation was not in pursuance of a plan having as one of its principal purposes the avoidance of Federal income tax,
+  (2) Paragraph (1) shall be applied without regard to the following:
+    (A) whether or not the distribution is pro rata with respect to all of the shareholders of the distributing corporation,
+    (B) whether or not the shareholder surrenders stock in the distributing corporation, and
+    (C) whether or not the distribution is in pursuance of a plan of reorganization (within the meaning of section 368(a)(1)(D)).
+  (3) 
+    (A) Paragraph (1) shall not apply if—
+      (i) the principal amount of the securities in the controlled corporation which are received exceeds the principal amount of the securities which are surrendered in connection with such distribution, or
+      (ii) securities in the controlled corporation are received and no securities are surrendered in connection with such distribution.
+    (B) For purposes of this section (other than paragraph (1)(D) of this subsection) and so much of section 356 as relates to this section, stock of a controlled corporation acquired by the distributing corporation by reason of any transaction—
+      (i) which occurs within 5 years of the distribution of such stock, and
+      (ii) in which gain or loss was recognized in whole or in part,
+    (C) Neither paragraph (1) nor so much of section 356 as relates to paragraph (1) shall apply to the extent that any stock (including nonqualified preferred stock, as defined in section 351(g)(2)), securities, or other property received is attributable to interest which has accrued on securities on or after the beginning of the holder’s holding period.
+    (D) Nonqualified preferred stock (as defined in section 351(g)(2)) received in a distribution with respect to stock other than nonqualified preferred stock (as so defined) shall not be treated as stock or securities.
+  (4) 
+    (A) For treatment of the exchange if any property is received which is not permitted to be received under this subsection (including nonqualified preferred stock and an excess principal amount of securities received over securities surrendered, but not including property to which paragraph (3)(C) applies), see section 356.
+    (B) For treatment of accrued interest in the case of an exchange described in paragraph (3)(C), see section 61.
+(b) 
+  (1) Subsection (a) shall apply only if either—
+    (A) the distributing corporation, and the controlled corporation (or, if stock of more than one controlled corporation is distributed, each of such corporations), is engaged immediately after the distribution in the active conduct of a trade or business, or
+    (B) immediately before the distribution, the distributing corporation had no assets other than stock or securities in the controlled corporations and each of the controlled corporations is engaged immediately after the distribution in the active conduct of a trade or business.
+  (2) For purposes of paragraph (1), a corporation shall be treated as engaged in the active conduct of a trade or business if and only if—
+    (A) it is engaged in the active conduct of a trade or business,
+    (B) such trade or business has been actively conducted throughout the 5-year period ending on the date of the distribution,
+    (C) such trade or business was not acquired within the period described in subparagraph (B) in a transaction in which gain or loss was recognized in whole or in part, and
+    (D) control of a corporation which (at the time of acquisition of control) was conducting such trade or business—
+      (i) was not acquired by any distributee corporation directly (or through 1 or more corporations, whether through the distributing corporation or otherwise) within the period described in subparagraph (B) and was not acquired by the distributing corporation directly (or through 1 or more corporations) within such period, or
+      (ii) was so acquired by any such corporation within such period, but, in each case in which such control was so acquired, it was so acquired, only by reason of transactions in which gain or loss was not recognized in whole or in part, or only by reason of such transactions combined with acquisitions before the beginning of such period.
+  (3) 
+    (A) For purposes of determining whether a corporation meets the requirements of paragraph (2)(A), all members of such corporation’s separate affiliated group shall be treated as one corporation.
+    (B) For purposes of this paragraph, the term “separate affiliated group” means, with respect to any corporation, the affiliated group which would be determined under section 1504(a) if such corporation were the common parent and section 1504(b) did not apply.
+    (C) If a corporation became a member of a separate affiliated group as a result of one or more transactions in which gain or loss was recognized in whole or in part, any trade or business conducted by such corporation (at the time that such corporation became such a member) shall be treated for purposes of paragraph (2) as acquired in a transaction in which gain or loss was recognized in whole or in part.
+    (D) The Secretary shall prescribe such regulations as are necessary or appropriate to carry out the purposes of this paragraph, including regulations which provide for the proper application of subparagraphs (B), (C), and (D) of paragraph (2), and modify the application of subsection (a)(3)(B), in connection with the application of this paragraph.
+(c) 
+  (1) Except as provided in paragraph (2), no gain or loss shall be recognized to a corporation on any distribution to which this section (or so much of section 356 as relates to this section) applies and which is not in pursuance of a plan of reorganization.
+  (2) 
+    (A) If—
+      (i) in a distribution referred to in paragraph (1), the corporation distributes property other than qualified property, and
+      (ii) the fair market value of such property exceeds its adjusted basis (in the hands of the distributing corporation),
+    (B) For purposes of subparagraph (A), the term “qualified property” means any stock or securities in the controlled corporation.
+    (C) If any property distributed in the distribution referred to in paragraph (1) is subject to a liability or the shareholder assumes a liability of the distributing corporation in connection with the distribution, then, for purposes of subparagraph (A), the fair market value of such property shall be treated as not less than the amount of such liability.
+  (3) Sections 311 and 336(a) shall not apply to any distribution referred to in paragraph (1).
+(d) 
+  (1) In the case of a disqualified distribution, any stock or securities in the controlled corporation shall not be treated as qualified property for purposes of subsection (c)(2) of this section or section 361(c)(2).
+  (2) For purposes of this subsection, the term “disqualified distribution” means any distribution to which this section (or so much of section 356 as relates to this section) applies if, immediately after the distribution—
+    (A) any person holds disqualified stock in the distributing corporation which constitutes a 50-percent or greater interest in such corporation, or
+    (B) any person holds disqualified stock in the controlled corporation (or, if stock of more than 1 controlled corporation is distributed, in any controlled corporation) which constitutes a 50-percent or greater interest in such corporation.
+  (3) For purposes of this subsection, the term “disqualified stock” means—
+    (A) any stock in the distributing corporation acquired by purchase during the 5-year period ending on the date of the distribution, and
+    (B) any stock in any controlled corporation—
+      (i) acquired by purchase during the 5-year period ending on the date of the distribution, or
+      (ii) received in the distribution to the extent attributable to distributions on—
+        (I) stock described in subparagraph (A), or
+        (II) any securities in the distributing corporation acquired by purchase during the 5-year period ending on the date of the distribution.
+  (4) For purposes of this subsection, the term “50-percent or greater interest” means stock possessing at least 50 percent of the total combined voting power of all classes of stock entitled to vote or at least 50 percent of the total value of shares of all classes of stock.
+  (5) For purposes of this subsection—
+    (A) Except as otherwise provided in this paragraph, the term “purchase” means any acquisition but only if—
+      (i) the basis of the property acquired in the hands of the acquirer is not determined (I) in whole or in part by reference to the adjusted basis of such property in the hands of the person from whom acquired, or (II) under section 1014(a), and
+      (ii) the property is not acquired in an exchange to which section 351, 354, 355, or 356 applies.
+    (B) The term “purchase” includes any acquisition of property in an exchange to which section 351 applies to the extent such property is acquired in exchange for—
+      (i) any cash or cash item,
+      (ii) any marketable stock or security, or
+      (iii) any debt of the transferor.
+    (C) If—
+      (i) any person acquires property from another person who acquired such property by purchase (as determined under this paragraph with regard to this subparagraph), and
+      (ii) the adjusted basis of such property in the hands of such acquirer is determined in whole or in part by reference to the adjusted basis of such property in the hands of such other person,
+  (6) 
+    (A) If this paragraph applies to any stock or securities for any period, the running of any 5-year period set forth in subparagraph (A) or (B) of paragraph (3) (whichever applies) shall be suspended during such period.
+    (B) This paragraph applies to any stock or securities for any period during which the holder’s risk of loss with respect to such stock or securities, or with respect to any portion of the activities of the corporation, is (directly or indirectly) substantially diminished by—
+      (i) an option,
+      (ii) a short sale,
+      (iii) any special class of stock, or
+      (iv) any other device or transaction.
+  (7) 
+    (A) For purposes of this subsection, a person and all persons related to such person (within the meaning of section 267(b) or 707(b)(1)) shall be treated as one person.
+    (B) If two or more persons act pursuant to a plan or arrangement with respect to acquisitions of stock or securities in the distributing corporation or controlled corporation, such persons shall be treated as one person for purposes of this subsection.
+  (8) 
+    (A) Paragraph (2) of section 318(a) shall apply in determining whether a person holds stock or securities in any corporation (determined by substituting “10 percent” for “50 percent” in subparagraph (C) of such paragraph (2) and by treating any reference to stock as including a reference to securities).
+    (B) If—
+      (i) any person acquires by purchase an interest in any entity, and
+      (ii) such person is treated under subparagraph (A) as holding any stock or securities by reason of holding such interest,
+  (9) The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including—
+    (A) regulations to prevent the avoidance of the purposes of this subsection through the use of related persons, intermediaries, pass-thru entities, options, or other arrangements, and
+    (B) regulations modifying the definition of the term “purchase”.
+(e) 
+  (1) If there is a distribution to which this subsection applies, any stock or securities in the controlled corporation shall not be treated as qualified property for purposes of subsection (c)(2) of this section or section 361(c)(2).
+  (2) 
+    (A) This subsection shall apply to any distribution—
+      (i) to which this section (or so much of section 356 as relates to this section) applies, and
+      (ii) which is part of a plan (or series of related transactions) pursuant to which 1 or more persons acquire directly or indirectly stock representing a 50-percent or greater interest in the distributing corporation or any controlled corporation.
+    (B) If 1 or more persons acquire directly or indirectly stock representing a 50-percent or greater interest in the distributing corporation or any controlled corporation during the 4-year period beginning on the date which is 2 years before the date of the distribution, such acquisition shall be treated as pursuant to a plan described in subparagraph (A)(ii) unless it is established that the distribution and the acquisition are not pursuant to a plan or series of related transactions.
+    (C) A plan (or series of related transactions) shall not be treated as described in subparagraph (A)(ii) if, immediately after the completion of such plan or transactions, the distributing corporation and all controlled corporations are members of a single affiliated group (as defined in section 1504 without regard to subsection (b) thereof).
+    (D) This subsection shall not apply to any distribution to which subsection (d) applies.
+  (3) 
+    (A) Except as provided in regulations, the following acquisitions shall not be taken into account in applying paragraph (2)(A)(ii):
+      (i) The acquisition of stock in any controlled corporation by the distributing corporation.
+      (ii) The acquisition by a person of stock in any controlled corporation by reason of holding stock or securities in the distributing corporation.
+      (iii) The acquisition by a person of stock in any successor corporation of the distributing corporation or any controlled corporation by reason of holding stock or securities in such distributing or controlled corporation.
+      (iv) The acquisition of stock in the distributing corporation or any controlled corporation to the extent that the percentage of stock owned directly or indirectly in such corporation by each person owning stock in such corporation immediately before the acquisition does not decrease.
+    (B) Except as provided in regulations, for purposes of this subsection, if the assets of the distributing corporation or any controlled corporation are acquired by a successor corporation in a transaction described in subparagraph (A), (C), or (D) of section 368(a)(1) or any other transaction specified in regulations by the Secretary, the shareholders (immediately before the acquisition) of the corporation acquiring such assets shall be treated as acquiring stock in the corporation from which the assets were acquired.
+  (4) For purposes of this subsection—
+    (A) The term “50-percent or greater interest” has the meaning given such term by subsection (d)(4).
+    (B) Paragraph (1) shall not apply to any distribution made in a title 11 or similar case (as defined in section 368(a)(3)).
+    (C) 
+      (i) The rules of paragraph (7)(A) of subsection (d) shall apply.
+      (ii) Section 318(a)(2) shall apply in determining whether a person holds stock or securities in any corporation. Except as provided in regulations, section 318(a)(2)(C) shall be applied without regard to the phrase “50 percent or more in value” for purposes of the preceding sentence.
+    (D) For purposes of this subsection, any reference to a controlled corporation or a distributing corporation shall include a reference to any predecessor or successor of such corporation.
+    (E) If there is a distribution to which paragraph (1) applies—
+      (i) the statutory period for the assessment of any deficiency attributable to any part of the gain recognized under this subsection by reason of such distribution shall not expire before the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may by regulations prescribe) that such distribution occurred, and
+      (ii) such deficiency may be assessed before the expiration of such 3-year period notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.
+  (5) The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations—
+    (A) providing for the application of this subsection where there is more than 1 controlled corporation,
+    (B) treating 2 or more distributions as 1 distribution where necessary to prevent the avoidance of such purposes, and
+    (C) providing for the application of rules similar to the rules of subsection (d)(6) where appropriate for purposes of paragraph (2)(B).
+(f) Except as provided in regulations, this section (or so much of section 356 as relates to this section) shall not apply to the distribution of stock from 1 member of an affiliated group (as defined in section 1504(a)) to another member of such group if such distribution is part of a plan (or series of related transactions) described in subsection (e)(2)(A)(ii) (determined after the application of subsection (e)).
+(g) 
+  (1) This section (and so much of section 356 as relates to this section) shall not apply to any distribution which is part of a transaction if—
+    (A) either the distributing corporation or controlled corporation is, immediately after the transaction, a disqualified investment corporation, and
+    (B) any person holds, immediately after the transaction, a 50-percent or greater interest in any disqualified investment corporation, but only if such person did not hold such an interest in such corporation immediately before the transaction.
+  (2) For purposes of this subsection—
+    (A) The term “disqualified investment corporation” means any distributing or controlled corporation if the fair market value of the investment assets of the corporation is—
+      (i) in the case of distributions after the end of the 1-year period beginning on the date of the enactment of this subsection, ⅔ or more of the fair market value of all assets of the corporation, and
+      (ii) in the case of distributions during such 1-year period, ¾ or more of the fair market value of all assets of the corporation.
+    (B) 
+      (i) Except as otherwise provided in this subparagraph, the term “investment assets” means—
+        (I) cash,
+        (II) any stock or securities in a corporation,
+        (III) any interest in a partnership,
+        (IV) any debt instrument or other evidence of indebtedness,
+        (V) any option, forward or futures contract, notional principal contract, or derivative,
+        (VI) foreign currency, or
+        (VII) any similar asset.
+      (ii) Such term shall not include any asset which is held for use in the active and regular conduct of—
+        (I) a lending or finance business (within the meaning of section 954(h)(4)),
+        (II) a banking business through a bank (as defined in section 581), a domestic building and loan association (within the meaning of section 7701(a)(19)), or any similar institution specified by the Secretary, or
+        (III) an insurance business if the conduct of the business is licensed, authorized, or regulated by an applicable insurance regulatory body.
+      (iii) Such term shall not include any security (as defined in section 475(c)(2)) which is held by a dealer in securities and to which section 475(a) applies.
+      (iv) 
+        (I) Such term shall not include any stock and securities in, or any asset described in subclause (IV) or (V) of clause (i) issued by, a corporation which is a 20-percent controlled entity with respect to the distributing or controlled corporation.
+        (II) The distributing or controlled corporation shall, for purposes of applying this subsection, be treated as owning its ratable share of the assets of any 20-percent controlled entity.
+        (III) For purposes of this clause, the term “20-percent controlled entity” means, with respect to any distributing or controlled corporation, any corporation with respect to which the distributing or controlled corporation owns directly or indirectly stock meeting the requirements of section 1504(a)(2), except that such section shall be applied by substituting “20 percent” for “80 percent” and without regard to stock described in section 1504(a)(4).
+      (v) 
+        (I) Such term shall not include any interest in a partnership, or any debt instrument or other evidence of indebtedness, issued by the partnership, if 1 or more of the trades or businesses of the partnership are (or, without regard to the 5-year requirement under subsection (b)(2)(B), would be) taken into account by the distributing or controlled corporation, as the case may be, in determining whether the requirements of subsection (b) are met with respect to the distribution.
+        (II) The distributing or controlled corporation shall, for purposes of applying this subsection, be treated as owning its ratable share of the assets of any partnership described in subclause (I).
+  (3) For purposes of this subsection—
+    (A) The term “50-percent or greater interest” has the meaning given such term by subsection (d)(4).
+    (B) The rules of section 318 shall apply for purposes of determining ownership of stock for purposes of this paragraph.
+  (4) For purposes of this subsection, the term “transaction” includes a series of transactions.
+  (5) The Secretary shall prescribe such regulations as may be necessary to carry out, or prevent the avoidance of, the purposes of this subsection, including regulations—
+    (A) to carry out, or prevent the avoidance of, the purposes of this subsection in cases involving—
+      (i) the use of related persons, intermediaries, pass-thru entities, options, or other arrangements, and
+      (ii) the treatment of assets unrelated to the trade or business of a corporation as investment assets if, prior to the distribution, investment assets were used to acquire such unrelated assets,
+    (B) which in appropriate cases exclude from the application of this subsection a distribution which does not have the character of a redemption which would be treated as a sale or exchange under section 302, and
+    (C) which modify the application of the attribution rules applied for purposes of this subsection.
+(h) 
+  (1) This section (and so much of section 356 as relates to this section) shall not apply to any distribution if either the distributing corporation or controlled corporation is a real estate investment trust.
+  (2) 
+    (A) Paragraph (1) shall not apply to any distribution if, immediately after the distribution, the distributing corporation and the controlled corporation are both real estate investment trusts.
+    (B) Paragraph (1) shall not apply to any distribution if—
+      (i) the distributing corporation has been a real estate investment trust at all times during the 3-year period ending on the date of such distribution,
+      (ii) the controlled corporation has been a taxable REIT subsidiary (as defined in section 856( l )) of the distributing corporation at all times during such period, and
+      (iii) the distributing corporation had control (as defined in section 368(c) applied by taking into account stock owned directly or indirectly, including through one or more corporations or partnerships, by the distributing corporation) of the controlled corporation at all times during such period.

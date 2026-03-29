@@ -1,0 +1,21 @@
+---
+title: "Section 13336 - Coalbed methane recovery"
+usc_title: 42
+usc_section: "13336"
+chapter: 134
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 13336"
+generated_at: "2026-03-29T00:32:54.316Z"
+---
+
+# § 13336. Coalbed methane recovery
+
+(a) The Secretary, in consultation with the Administrator of the Environmental Protection Agency and the Secretary of the Interior, shall conduct a study of—
+  (1) technical, economic, financial, legal, regulatory, institutional, or other barriers to coalbed methane recovery, and of policy options for eliminating such barriers; and
+  (2) the environmental and safety aspects of flaring coalbed methane liberated from coal mines.
+(b) Beginning one year after October 24, 1992 , the Secretary, in consultation with the Administrator of the Environmental Protection Agency and the Secretary of the Interior, shall disseminate to the public information on state-of-the-art coalbed methane recovery techniques, including information on costs and benefits.
+(c) The Secretary, in consultation with the Administrator of the Environmental Protection Agency and the Secretary of the Interior, shall establish a coalbed methane recovery demonstration and commercial application program, which shall emphasize gas enrichment technology. Such program shall address—
+  (1) gas enrichment technologies for enriching medium-quality methane recovered from coal mines to pipeline quality;
+  (2) technologies to use mine ventilation air in nearby power generation facilities, including gas turbines, internal combustion engines, or other coal fired powerplants;
+  (3) technologies for cofiring methane recovered from mines, including methane from ventilation systems and degasification systems, together with coal in conventional or clean coal technology boilers; and
+  (4) other technologies for producing and using methane from coal mines that the Secretary considers appropriate.

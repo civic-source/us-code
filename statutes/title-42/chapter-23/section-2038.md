@@ -1,0 +1,14 @@
+---
+title: "Section 2038 - Appointment of Army, Navy, or Air Force officer as Assistant General Manager for Military Application; Chairman of Military Liaison Committee; compensation"
+usc_title: 42
+usc_section: "2038"
+chapter: 23
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 2038"
+generated_at: "2026-03-29T00:32:53.740Z"
+---
+
+# § 2038. Appointment of Army, Navy, or Air Force officer as Assistant General Manager for Military Application; Chairman of Military Liaison Committee; compensation
+
+Notwithstanding the provisions of any other law, the officer of the Army, Navy, or Air Force serving as Assistant General Manager for Military Application shall serve without prejudice to his commissioned status as such officer. Any such officer serving as Assistant General Manager for Military Application shall receive in addition to his pay and allowances, including special and incentive pays, for which pay and allowances the Commission shall reimburse his service, an amount equal to the difference between such pay and allowances, including special and incentive pays, and the compensation established for this position. Notwithstanding the provisions of any other law, any active or retired officer of the Army, Navy, or Air Force may serve as Chairman of the Military Liaison Committee without prejudice to his active or retired status as such officer. Any such active officer serving as Chairman of the Military Liaison Committee shall receive, in addition to his pay and allowances, including special and incentive pays, an amount equal to the difference between such pay and allowances, including special and incentive pays, and the compensation fixed for such Chairman. Any such retired officer serving as Chairman of the Military Liaison Committee shall receive the compensation fixed for such Chairman and his retired pay.
+

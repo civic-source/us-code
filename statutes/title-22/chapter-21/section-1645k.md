@@ -1,0 +1,14 @@
+---
+title: "Section 1645k - Transfer of records"
+usc_title: 22
+usc_section: "1645k"
+chapter: 21
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 1645k"
+generated_at: "2026-03-29T00:30:33.738Z"
+---
+
+# § 1645k. Transfer of records
+
+The Secretary of State, the Secretary of the Treasury, and the Secretary of Defense shall transfer or otherwise make available to the Commission such records and documents relating to claims authorized by this subchapter as may be required by the Commission in carrying out its functions under this subchapter.
+

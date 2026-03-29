@@ -1,0 +1,14 @@
+---
+title: "Section 1738a - Purpose"
+usc_title: 7
+usc_section: "1738a"
+chapter: 41
+current_through: "PL 119-73"
+classification: "7 U.S.C. § 1738a"
+generated_at: "2026-03-29T00:28:58.053Z"
+---
+
+# § 1738a. Purpose
+
+The purpose of this subchapter is to encourage and support improvement in the lives of the people of Latin America and the Caribbean through market-oriented reforms and economic growth with inter-related actions to promote debt reduction, investment reforms, and community-based conservation and sustainable use of the environment. The Facility will support such objectives through the administration of debt reduction operations relating to those countries that meet investment reform and other policy conditions provided for in this subchapter.
+

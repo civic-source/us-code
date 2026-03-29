@@ -1,0 +1,14 @@
+---
+title: "Section 1916 - Return of custody"
+usc_title: 25
+usc_section: "1916"
+chapter: 21
+current_through: "PL 119-73"
+classification: "25 U.S.C. § 1916"
+generated_at: "2026-03-29T00:30:38.716Z"
+---
+
+# § 1916. Return of custody
+
+(a) Notwithstanding State law to the contrary, whenever a final decree of adoption of an Indian child has been vacated or set aside or the adoptive parents voluntarily consent to the termination of their parental rights to the child, a biological parent or prior Indian custodian may petition for return of custody and the court shall grant such petition unless there is a showing, in a proceeding subject to the provisions of section 1912 of this title , that such return of custody is not in the best interests of the child.
+(b) Whenever an Indian child is removed from a foster care home or institution for the purpose of further foster care, preadoptive, or adoptive placement, such placement shall be in accordance with the provisions of this chapter, except in the case where an Indian child is being returned to the parent or Indian custodian from whose custody the child was originally removed.

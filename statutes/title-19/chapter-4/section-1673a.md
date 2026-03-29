@@ -1,0 +1,59 @@
+---
+title: "Section 1673a - Procedures for initiating an antidumping duty investigation"
+usc_title: 19
+usc_section: "1673a"
+chapter: 4
+current_through: "PL 119-73"
+classification: "19 U.S.C. § 1673a"
+generated_at: "2026-03-29T00:30:20.174Z"
+---
+
+# § 1673a. Procedures for initiating an antidumping duty investigation
+
+(a) 
+  (1) An antidumping duty investigation shall be initiated whenever the administering authority determines, from information available to it, that a formal investigation is warranted into the question of whether the elements necessary for the imposition of a duty under section 1673 of this title exist.
+  (2) 
+    (A) The administering authority may establish a monitoring program with respect to imports of a class or kind of merchandise from any additional supplier country for a period not to exceed one year if—
+      (i) more than one antidumping order is in effect with respect to that class or kind of merchandise;
+      (ii) in the judgment of the administering authority there is reason to believe or suspect an extraordinary pattern of persistent injurious dumping from one or more additional supplier countries; and
+      (iii) in the judgment of the administering authority this extraordinary pattern is causing a serious commercial problem for the domestic industry.
+    (B) If during the period of monitoring referred to in subparagraph (A), the administering authority determines that there is sufficient information to initiate a formal investigation under this subsection regarding an additional supplier country, the administering authority shall immediately initiate such an investigation.
+    (C) For purposes of this paragraph, the term “additional supplier country” means a country regarding which no antidumping investigation is currently pending, and no antidumping duty order is currently in effect, with respect to imports of the class or kind of merchandise covered by subparagraph (A).
+    (D) The administering authority and the Commission, to the extent practicable, shall expedite proceedings under this part undertaken as a result of a formal investigation initiated under subparagraph (B).
+(b) 
+  (1) An antidumping proceeding shall be initiated whenever an interested party described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title files a petition with the administering authority, on behalf of an industry, which alleges the elements necessary for the imposition of the duty imposed by section 1673 of this title , and which is accompanied by information reasonably available to the petitioner supporting those allegations. The petition may be amended at such time, and upon such conditions, as the administering authority and the Commission may permit.
+  (2) The petitioner shall file a copy of the petition with the Commission on the same day as it is filed with the administering authority.
+  (3) 
+    (A) Upon receipt of a petition filed under paragraph (1), the administering authority shall notify the government of any exporting country named in the petition by delivering a public version of the petition to an appropriate representative of such country.
+    (B) The administering authority shall not accept any unsolicited oral or written communication from any person other than an interested party described in section 1677(9)(C), (D), (E), (F), or (G) of this title before the administering authority makes its decision whether to initiate an investigation, except as provided in subsection (c)(4)(D), and except for inquiries regarding the status of the administering authority’s consideration of the petition.
+    (C) The administering authority and the Commission shall not disclose information with regard to any draft petition submitted for review and comment before it is filed under paragraph (1).
+(c) 
+  (1) 
+    (A) Except as provided in subparagraph (B), within 20 days after the date on which a petition is filed under subsection (b), the administering authority shall—
+      (i) after examining, on the basis of sources readily available to the administering authority, the accuracy and adequacy of the evidence provided in the petition, determine whether the petition alleges the elements necessary for the imposition of a duty under section 1673 of this title and contains information reasonably available to the petitioner supporting the allegations, and
+      (ii) determine if the petition has been filed by or on behalf of the industry.
+    (B) In any case in which the administering authority is required to poll or otherwise determine support for the petition by the industry under paragraph (4)(D), the administering authority may, in exceptional circumstances, apply subparagraph (A) by substituting “a maximum of 40 days” for “20 days”.
+    (C) If a petition is filed under this section with respect to merchandise that was the subject merchandise of—
+      (i) an antidumping duty order or finding that was revoked under section 1675(d) of this title in the 24 months preceding the date the petition is filed, or
+      (ii) a suspended investigation that was terminated under section 1675(d) of this title in the 24 months preceding the date the petition is filed,
+  (2) If the determinations under clauses (i) and (ii) of paragraph (1)(A) are affirmative, the administering authority shall initiate an investigation to determine whether the subject merchandise is being, or is likely to be, sold in the United States at less than its fair value.
+  (3) If the determination under clause (i) or (ii) of paragraph (1)(A) is negative, the administering authority shall dismiss the petition, terminate the proceeding, and notify the petitioner in writing of the reasons for the determination.
+  (4) 
+    (A) For purposes of this subsection, the administering authority shall determine that the petition has been filed by or on behalf of the industry, if—
+      (i) the domestic producers or workers who support the petition account for at least 25 percent of the total production of the domestic like product, and
+      (ii) the domestic producers or workers who support the petition account for more than 50 percent of the production of the domestic like product produced by that portion of the industry expressing support for or opposition to the petition.
+    (B) 
+      (i) In determining industry support under subparagraph (A), the administering authority shall disregard the position of domestic producers who oppose the petition, if such producers are related to foreign producers, as defined in section 1677(4)(B)(ii) of this title , unless such domestic producers demonstrate that their interests as domestic producers would be adversely affected by the imposition of an antidumping duty order.
+      (ii) The administering authority may disregard the position of domestic producers of a domestic like product who are importers of the subject merchandise.
+    (C) If the petition alleges the industry is a regional industry, the administering authority shall determine whether the petition has been filed by or on behalf of the industry by applying subparagraph (A) on the basis of production in the region.
+    (D) If the petition does not establish support of domestic producers or workers accounting for more than 50 percent of the total production of the domestic like product, the administering authority shall—
+      (i) poll the industry or rely on other information in order to determine if there is support for the petition as required by subparagraph (A), or
+      (ii) if there is a large number of producers in the industry, the administering authority may determine industry support for the petition by using any statistically valid sampling method to poll the industry.
+    (E) Before the administering authority makes a determination with respect to initiating an investigation, any person who would qualify as an interested party under section 1677(9) of this title if an investigation were initiated, may submit comments or information on the issue of industry support. After the administering authority makes a determination with respect to initiating an investigation, the determination regarding industry support shall not be reconsidered.
+  (5) For purposes of this subsection, the term “domestic producers or workers” means those interested parties who are eligible to file a petition under subsection (b)(1).
+(d) The administering authority shall—
+  (1) notify the Commission immediately of any determination it makes under subsection (a) or (c), and
+  (2) if the determination is affirmative, make available to the Commission such information as it may have relating to the matter under investigation, under such procedures as the administering authority and the Commission may establish to prevent disclosure, other than with the consent of the party providing it or under protective order, of any information to which confidential treatment has been given by the administering authority.
+(e) If, at any time after the initiation of an investigation under this part, the administering authority finds a reasonable basis to suspect that—
+  (1) there is a history of dumping in the United States or elsewhere of the subject merchandise, or
+  (2) the person by whom, or for whose account, the merchandise was imported knew, or should have known, that the exporter was selling the subject merchandise at less than its fair value,

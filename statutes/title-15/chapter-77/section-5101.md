@@ -1,0 +1,18 @@
+---
+title: "Section 5101 - Findings and purposes"
+usc_title: 15
+usc_section: "5101"
+chapter: 77
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 5101"
+generated_at: "2026-03-29T00:29:41.873Z"
+---
+
+# § 5101. Findings and purposes
+
+(a) The Congress finds that—
+  (1) maintaining viable domestic steel, aluminum, copper, and other metals industries is vital to the national security and economic well being of the United States; and
+  (2) the promotion of technology competitiveness and energy conservation in the American steel and aluminum industries by the Federal Government through a program of joint research and development will help maintain viable domestic steel and aluminum industries.
+(b) The purposes of this chapter are to—
+  (1) increase the energy efficiency and enhance the competitiveness of American steel, aluminum, and copper industries by providing Federal incentives for the establishment of public-private sector research and development partnerships to undertake scientific research and development to develop advanced technologies utilizing the expertise of the steel, aluminum, copper, and other metals industries, Government-owned laboratories of the Department of Energy and the National Institute of Standards and Technology, universities, State development agencies, and others; and
+  (2) continue steel research and development initiative efforts begun under title II of the Interior and Related Agencies portion of the joint resolution entitled “Joint Resolution making further continuing appropriations for the fiscal year 1986, and for other purposes”, approved December 19, 1985 ( Public Law 99–190 ).

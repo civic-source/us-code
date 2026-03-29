@@ -1,0 +1,60 @@
+---
+title: "Section 1169 - Additional standards for group health plans"
+usc_title: 29
+usc_section: "1169"
+chapter: 18
+current_through: "PL 119-73"
+classification: "29 U.S.C. § 1169"
+generated_at: "2026-03-29T00:31:27.657Z"
+---
+
+# § 1169. Additional standards for group health plans
+
+(a) 
+  (1) Each group health plan shall provide benefits in accordance with the applicable requirements of any qualified medical child support order. A qualified medical child support order with respect to any participant or beneficiary shall be deemed to apply to each group health plan which has received such order, from which the participant or beneficiary is eligible to receive benefits, and with respect to which the requirements of paragraph (4) are met.
+  (2) For purposes of this subsection—
+    (A) The term “qualified medical child support order” means a medical child support order—
+      (i) which creates or recognizes the existence of an alternate recipient’s right to, or assigns to an alternate recipient the right to, receive benefits for which a participant or beneficiary is eligible under a group health plan, and
+      (ii) with respect to which the requirements of paragraphs (3) and (4) are met.
+    (B) The term “medical child support order” means any judgment, decree, or order (including approval of a settlement agreement) which—
+      (i) provides for child support with respect to a child of a participant under a group health plan or provides for health benefit coverage to such a child, is made pursuant to a State domestic relations law (including a community property law), and relates to benefits under such plan, or
+      (ii) is made pursuant to a law relating to medical child support described in section 1908 of the Social Security Act [ 42 U.S.C. 1396g–1 ] (as added by section 13822 1 1 So in original. Probably should be section “13623”. of the Omnibus Budget Reconciliation Act of 1993) with respect to a group health plan,
+    (C) The term “alternate recipient” means any child of a participant who is recognized under a medical child support order as having a right to enrollment under a group health plan with respect to such participant.
+    (D) The term “child” includes any child adopted by, or placed for adoption with, a participant of a group health plan.
+  (3) A medical child support order meets the requirements of this paragraph only if such order clearly specifies—
+    (A) the name and the last known mailing address (if any) of the participant and the name and mailing address of each alternate recipient covered by the order, except that, to the extent provided in the order, the name and mailing address of an official of a State or a political subdivision thereof may be substituted for the mailing address of any such alternate recipient,
+    (B) a reasonable description of the type of coverage to be provided to each such alternate recipient, or the manner in which such type of coverage is to be determined, and
+    (C) the period to which such order applies.
+  (4) A medical child support order meets the requirements of this paragraph only if such order does not require a plan to provide any type or form of benefit, or any option, not otherwise provided under the plan, except to the extent necessary to meet the requirements of a law relating to medical child support described in section 1908 of the Social Security Act [ 42 U.S.C. 1396g–1 ] (as added by section 13822 1 of the Omnibus Budget Reconciliation Act of 1993).
+  (5) 
+    (A) In the case of any medical child support order received by a group health plan—
+      (i) the plan administrator shall promptly notify the participant and each alternate recipient of the receipt of such order and the plan’s procedures for determining whether medical child support orders are qualified medical child support orders, and
+      (ii) within a reasonable period after receipt of such order, the plan administrator shall determine whether such order is a qualified medical child support order and notify the participant and each alternate recipient of such determination.
+    (B) Each group health plan shall establish reasonable procedures to determine whether medical child support orders are qualified medical child support orders and to administer the provision of benefits under such qualified orders. Such procedures—
+      (i) shall be in writing,
+      (ii) shall provide for the notification of each person specified in a medical child support order as eligible to receive benefits under the plan (at the address included in the medical child support order) of such procedures promptly upon receipt by the plan of the medical child support order, and
+      (iii) shall permit an alternate recipient to designate a representative for receipt of copies of notices that are sent to the alternate recipient with respect to a medical child support order.
+    (C) 
+      (i) If the plan administrator of a group health plan which is maintained by the employer of a noncustodial parent of a child or to which such an employer contributes receives an appropriately completed National Medical Support Notice promulgated pursuant to section 401(b) of the Child Support Performance and Incentive Act of 1998 in the case of such child, and the Notice meets the requirements of paragraphs (3) and (4), the Notice shall be deemed to be a qualified medical child support order in the case of such child.
+      (ii) In any case in which an appropriately completed National Medical Support Notice is issued in the case of a child of a participant under a group health plan who is a noncustodial parent of the child, and the Notice is deemed under clause (i) to be a qualified medical child support order, the plan administrator, within 40 business days after the date of the Notice, shall—
+        (I) notify the State agency issuing the Notice with respect to such child whether coverage of the child is available under the terms of the plan and, if so, whether such child is covered under the plan and either the effective date of the coverage or, if necessary, any steps to be taken by the custodial parent (or by the official of a State or political subdivision thereof substituted for the name of such child pursuant to paragraph (3)(A)) to effectuate the coverage; and
+        (II) provide to the custodial parent (or such substituted official) a description of the coverage available and any forms or documents necessary to effectuate such coverage.
+      (iii) Nothing in this subparagraph shall be construed as requiring a group health plan, upon receipt of a National Medical Support Notice, to provide benefits under the plan (or eligibility for such benefits) in addition to benefits (or eligibility for benefits) provided under the terms of the plan as of immediately before receipt of such Notice.
+  (6) If a plan fiduciary acts in accordance with part 4 of this subtitle in treating a medical child support order as being (or not being) a qualified medical child support order, then the plan’s obligation to the participant and each alternate recipient shall be discharged to the extent of any payment made pursuant to such act of the fiduciary.
+  (7) 
+    (A) A person who is an alternate recipient under a qualified medical child support order shall be considered a beneficiary under the plan for purposes of any provision of this chapter.
+    (B) A person who is an alternate recipient under any medical child support order shall be considered a participant under the plan for purposes of the reporting and disclosure requirements of part 1 of this subtitle.
+  (8) Any payment for benefits made by a group health plan pursuant to a medical child support order in reimbursement for expenses paid by an alternate recipient or an alternate recipient’s custodial parent or legal guardian shall be made to the alternate recipient or the alternate recipient’s custodial parent or legal guardian.
+  (9) Payment of benefits by a group health plan to an official of a State or a political subdivision thereof whose name and address have been substituted for the address of an alternate recipient in a qualified medical child support order, pursuant to paragraph (3)(A), shall be treated, for purposes of this subchapter, as payment of benefits to the alternate recipient.
+(b) 
+  (1) A group health plan shall provide that payment for benefits with respect to a participant under the plan will be made in accordance with any assignment of rights made by or on behalf of such participant or a beneficiary of the participant as required by a State plan for medical assistance approved under title XIX of the Social Security Act [ 42 U.S.C. 1396 et seq.] pursuant to section 1912(a)(1)(A) of such Act [ 42 U.S.C. 1396k(a)(1)(A) ] (as in effect on August 10, 1993 ).
+  (2) A group health plan shall provide that, in enrolling an individual as a participant or beneficiary or in determining or making any payments for benefits of an individual as a participant or beneficiary, the fact that the individual is eligible for or is provided medical assistance under a State plan for medical assistance approved under title XIX of the Social Security Act [ 42 U.S.C. 1396 et seq.] will not be taken into account.
+  (3) A group health plan shall provide that, to the extent that payment has been made under a State plan for medical assistance approved under title XIX of the Social Security Act [ 42 U.S.C. 1396 et seq.] in any case in which a group health plan has a legal liability to make payment for items or services constituting such assistance, payment for benefits under the plan will be made in accordance with any State law which provides that the State has acquired the rights with respect to a participant to such payment for such items or services.
+(c) 
+  (1) In any case in which a group health plan provides coverage for dependent children of participants or beneficiaries, such plan shall provide benefits to dependent children placed with participants or beneficiaries for adoption under the same terms and conditions as apply in the case of dependent children who are natural children of participants or beneficiaries under the plan, irrespective of whether the adoption has become final.
+  (2) A group health plan may not restrict coverage under the plan of any dependent child adopted by a participant or beneficiary, or placed with a participant or beneficiary for adoption, solely on the basis of a preexisting condition of such child at the time that such child would otherwise become eligible for coverage under the plan, if the adoption or placement for adoption occurs while the participant or beneficiary is eligible for coverage under the plan.
+  (3) For purposes of this subsection—
+    (A) The term “child” means, in connection with any adoption, or placement for adoption, of the child, an individual who has not attained age 18 as of the date of such adoption or placement for adoption.
+    (B) The term “placement”, or being “placed”, for adoption, in connection with any placement for adoption of a child with any person, means the assumption and retention by such person of a legal obligation for total or partial support of such child in anticipation of adoption of such child. The child’s placement with such person terminates upon the termination of such legal obligation.
+(d) A group health plan may not reduce its coverage of the costs of pediatric vaccines (as defined under section 1928(h)(6) of the Social Security Act [ 42 U.S.C. 1396s(h)(6) ] as amended by section 13830 2 2 So in original. Probably should be section “13631”. of the Omnibus Budget Reconciliation Act of 1993) below the coverage it provided as of May 1, 1993 .
+(e) Any regulations prescribed under this section shall be prescribed by the Secretary of Labor, in consultation with the Secretary of Health and Human Services.

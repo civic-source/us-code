@@ -1,0 +1,14 @@
+---
+title: "Section 7654 - Obligated service"
+usc_title: 38
+usc_section: "7654"
+chapter: 76
+current_through: "PL 119-73"
+classification: "38 U.S.C. § 7654"
+generated_at: "2026-03-29T00:32:17.345Z"
+---
+
+# § 7654. Obligated service
+
+A person receiving assistance under this subchapter shall provide service in the full-time clinical practice of the person’s profession as a full-time employee of the Department for the period of obligated service provided in the agreement of such person entered into under section 7603 of this title .
+

@@ -1,0 +1,18 @@
+---
+title: "Section 306 - Retirement"
+usc_title: 14
+usc_section: "306"
+chapter: 3
+current_through: "PL 119-73"
+classification: "14 U.S.C. § 306"
+generated_at: "2026-03-29T00:29:24.975Z"
+---
+
+# § 306. Retirement
+
+(a) An officer, other than the Commandant or Vice Commandant, who, while serving in the grade of admiral or vice admiral, is retired for physical disability shall be placed on the retired list with the highest grade in which that officer served satisfactorily, as determined under section 2501 of this title .
+(b) An officer, other than the Commandant or Vice Commandant, who is retired while serving in the grade of admiral or vice admiral, or who, after serving at least 2½ years in the grade of admiral or vice admiral, is retired while serving in a lower grade, may in the discretion of the President, be retired with the highest grade in which that officer served satisfactorily, as determined under section 2501 of this title .
+(c) An officer, other than the Commandant or Vice Commandant, who, after serving less than 2½ years in the grade of admiral or vice admiral, is retired while serving in a lower grade, shall be retired in his permanent grade if performance of duties in such grade is determined to have been satisfactory pursuant to section 2501 of this title .
+(d) An officer serving in the grade of admiral or vice admiral shall continue to hold that grade—
+  (1) while being processed for physical disability retirement, beginning on the day of the processing and ending on the day that officer is retired, but not for more than 180 days; and
+  (2) while awaiting retirement, beginning on the day that officer is relieved from the position of Commandant, Vice Commandant, or Vice Admiral and ending on the day before the officer’s retirement, but not for more than 60 days.

@@ -1,0 +1,27 @@
+---
+title: "Section 1134 - Investigative authority"
+usc_title: 29
+usc_section: "1134"
+chapter: 18
+current_through: "PL 119-73"
+classification: "29 U.S.C. § 1134"
+generated_at: "2026-03-29T00:31:27.653Z"
+---
+
+# § 1134. Investigative authority
+
+(a) The Secretary shall have the power, in order to determine whether any person has violated or is about to violate any provision of this subchapter or any regulation or order thereunder—
+  (1) to make an investigation, and in connection therewith to require the submission of reports, books, and records, and the filing of data in support of any information required to be filed with the Secretary under this subchapter, and
+  (2) to enter such places, inspect such books and records and question such persons as he may deem necessary to enable him to determine the facts relative to such investigation, if he has reasonable cause to believe there may exist a violation of this subchapter or any rule or regulation issued thereunder or if the entry is pursuant to an agreement with the plan.
+(b) The Secretary may not under the authority of this section require any plan to submit to the Secretary any books or records of the plan more than once in any 12 month period, unless the Secretary has reasonable cause to believe there may exist a violation of this subchapter or any regulation or order thereunder.
+(c) For the purposes of any investigation provided for in this subchapter, the provisions of sections 49 and 50 of title 15 (relating to the attendance of witnesses and the production of books, records, and documents) are hereby made applicable (without regard to any limitation in such sections respecting persons, partnerships, banks, or common carriers) to the jurisdiction, powers, and duties of the Secretary or any officers designated by him. To the extent he considers appropriate, the Secretary may delegate his investigative functions under this section with respect to insured banks acting as fiduciaries of employee benefit plans to the appropriate Federal banking agency (as defined in section 1813(q) of title 12 ).
+(d) The Secretary may promulgate a regulation that provides an evidentiary privilege for, and provides for the confidentiality of communications between or among, any of the following entities or their agents, consultants, or employees:
+  (1) A State insurance department.
+  (2) A State attorney general.
+  (3) The National Association of Insurance Commissioners.
+  (4) The Department of Labor.
+  (5) The Department of the Treasury.
+  (6) The Department of Justice.
+  (7) The Department of Health and Human Services.
+  (8) Any other Federal or State authority that the Secretary determines is appropriate for the purposes of enforcing the provisions of this subchapter.
+(e) The privilege established under subsection (d) shall apply to communications related to any investigation, audit, examination, or inquiry conducted or coordinated by any of the agencies. A communication that is privileged under subsection (d) shall not waive any privilege otherwise available to the communicating agency or to any person who provided the information that is communicated.

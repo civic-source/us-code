@@ -1,0 +1,20 @@
+---
+title: "Section 591 - Purchase of electricity"
+usc_title: 40
+usc_section: "591"
+chapter: 5
+current_through: "PL 119-73"
+classification: "40 U.S.C. § 591"
+generated_at: "2026-03-29T00:32:20.535Z"
+---
+
+# § 591. Purchase of electricity
+
+(a) A department, agency, or instrumentality of the Federal Government may not use amounts appropriated or made available by any law to purchase electricity in a manner inconsistent with state law governing the provision of electric utility service, including—
+  (1) state utility commission rulings; and
+  (2) electric utility franchises or service territories established under state statute, state regulation, or state-approved territorial agreements.
+(b) 
+  (1) This section does not preclude the head of a federal agency from entering into a contract under section 801 of the National Energy Conservation Policy Act ( 42 U.S.C. 8287 ).
+  (2) This section does not preclude the Secretary of a military department from—
+    (A) entering into a contract under section 2394 1 1 See References in Text note below. of title 10; or
+    (B) purchasing electricity from any provider if the Secretary finds that the utility having the applicable state-approved franchise (or other service authorization) is unwilling or unable to meet unusual standards of service reliability that are necessary for purposes of national defense.

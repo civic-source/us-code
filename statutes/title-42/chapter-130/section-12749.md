@@ -1,0 +1,15 @@
+---
+title: "Section 12749 - Repayment of investment"
+usc_title: 42
+usc_section: "12749"
+chapter: 130
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 12749"
+generated_at: "2026-03-29T00:32:54.295Z"
+---
+
+# § 12749. Repayment of investment
+
+(a) Any repayment of funds drawn from a jurisdiction’s HOME Investment Trust Fund, and any payment of interest or other return on the investment of such funds, shall be deposited in such jurisdiction’s HOME Investment Trust Fund, except that, if the jurisdiction is not a participating jurisdiction when such payment or repayment is made, the amount of such payment or repayment shall be reallocated in accordance with section 12747(d) of this title .
+(b) Each participating jurisdiction shall enter into an agreement with the Secretary ensuring that funds invested in affordable housing under this part are repayable when the housing no longer qualifies as affordable housing. Any repayment under the previous sentence shall be for deposit in the HOME Investment Trust Fund of the jurisdiction making the investment; except that if such jurisdiction is not a participating jurisdiction when such repayment is made, the amount of such repayment shall be reallocated in accordance with section 12747(d) of this title .
+(c) The Secretary shall take such actions as are necessary to ensure that any repayments deposited in a HOME Investment Trust Fund in accordance with this section shall be immediately available to the participating jurisdiction for investment subject to the provisions of this part that apply to funds that are allocated under section 12747 of this title . Actions authorized under the preceding sentence may include authorizing the establishment for a participating jurisdiction of a HOME Investment Trust Fund account outside of the Federal Government that, under arrangements satisfactory to the Secretary, shall be used solely to invest in affordable housing within the participating jurisdiction’s boundaries in accordance with the provisions of this subchapter. Such accounts shall be established in such a manner that repayments are not receipts or collections of the Federal Government.

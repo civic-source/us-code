@@ -1,0 +1,20 @@
+---
+title: "Section 2354 - Penalties; waivers; exceptions"
+usc_title: 21
+usc_section: "2354"
+chapter: 28
+current_through: "PL 119-73"
+classification: "21 U.S.C. § 2354"
+generated_at: "2026-03-29T00:30:24.374Z"
+---
+
+# § 2354. Penalties; waivers; exceptions
+
+(a) Any person that violates, attempts to violate, conspires to violate, or causes a violation of this subchapter or any regulation, license, or order issued to carry out this subchapter shall be subject to the penalties set forth in subsections (b) and (c) of section 1705 of title 50 to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
+(b) The President may waive the application of sanctions under this subchapter with respect to a foreign person if the President determines that such waiver is in the national security interest of the United States.
+(c) 
+  (1) This subchapter shall not apply with respect to activities subject to the reporting requirements under title V of the National Security Act of 1947 ( 50 U.S.C. 3091 et seq.) or any authorized intelligence activities of the United States.
+  (2) Sanctions under this subchapter shall not apply with respect to an alien if admitting or paroling the alien into the United States is necessary—
+    (A) to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success on June 26, 1947 , and entered into force November 21, 1947 , between the United Nations and the United States, or other applicable international obligations of the United States; or
+    (B) to carry out or assist law enforcement activity of the United States.
+  (3) The President may not impose sanctions under this subchapter with respect to any person for conducting or facilitating a transaction for the sale of agricultural commodities, food, medicine, or medical devices or for the provision of humanitarian assistance.

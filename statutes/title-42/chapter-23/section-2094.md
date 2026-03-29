@@ -1,0 +1,14 @@
+---
+title: "Section 2094 - Foreign distribution of source material"
+usc_title: 42
+usc_section: "2094"
+chapter: 23
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 2094"
+generated_at: "2026-03-29T00:32:53.746Z"
+---
+
+# § 2094. Foreign distribution of source material
+
+The Commission is authorized to cooperate with any nation by distributing source material and to distribute source material pursuant to the terms of an agreement for cooperation to which such nation is a party and which is made in accordance with section 2153 of this title . The Commission is also authorized to distribute source material outside of the United States upon a determination by the Commission that such activity will not be inimical to the interests of the United States. The authority to distribute source material under this section other than under an export license granted by the Nuclear Regulatory Commission shall in no case extend to quantities of source material in excess of three metric tons per year per recipient.
+

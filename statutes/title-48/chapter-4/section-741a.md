@@ -1,0 +1,14 @@
+---
+title: "Section 741a - Internal-revenue taxes; levy and collection; discrimination"
+usc_title: 48
+usc_section: "741a"
+chapter: 4
+current_through: "PL 119-73"
+classification: "48 U.S.C. § 741a"
+generated_at: "2026-03-29T00:33:06.596Z"
+---
+
+# § 741a. Internal-revenue taxes; levy and collection; discrimination
+
+The internal-revenue taxes levied by the Legislature of Puerto Rico in pursuance of the authority granted by this chapter on articles, goods, wares, or merchandise may be levied and collected as such legislature may direct, on the articles subject to said tax, as soon as the same are manufactured, sold, used, or brought into the island: Provided , That no discrimination be made between the articles imported from the United States or foreign countries and similar articles produced or manufactured in Puerto Rico. The officials of the Customs and Postal Services of the United States are directed to assist the appropriate officials of the Puerto Rican government in the collection of these taxes.
+

@@ -1,0 +1,14 @@
+---
+title: "Section 53711 - Security interest"
+usc_title: 46
+usc_section: "53711"
+chapter: 537
+current_through: "PL 119-73"
+classification: "46 U.S.C. § 53711"
+generated_at: "2026-03-29T00:33:02.940Z"
+---
+
+# § 53711. Security interest
+
+(a) The Secretary or Administrator may guarantee an obligation under this chapter only if the obligor conveys or agrees to convey to the Secretary or Administrator a security interest the Secretary or Administrator considers necessary to protect the interest of the United States Government.
+(b) The security interest may relate to more than one vessel and may consist of more than one type of security. If the security interest relates to more than one vessel, the obligation may have the latest maturity date allowable under section 53710(a)(3) of this title for any of the vessels used as security for the guarantee. However, the Secretary or Administrator may require such payments of principal prior to maturity, with respect to all related obligations, as the Secretary or Administrator considers necessary to maintain adequate security for the guarantee.

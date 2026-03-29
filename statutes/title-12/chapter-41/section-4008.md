@@ -1,0 +1,54 @@
+---
+title: "Section 4008 - Regulations and reports by Board"
+usc_title: 12
+usc_section: "4008"
+chapter: 41
+current_through: "PL 119-73"
+classification: "12 U.S.C. § 4008"
+generated_at: "2026-03-29T00:29:16.804Z"
+---
+
+# § 4008. Regulations and reports by Board
+
+(a) After notice and opportunity to submit comment in accordance with section 553(c) of title 5 , the Board, jointly with the Director of the Bureau of Consumer Financial Protection, shall prescribe regulations—
+  (1) to carry out the provisions of this chapter;
+  (2) to prevent the circumvention or evasion of such provisions; and
+  (3) to facilitate compliance with such provisions.
+(b) In order to improve the check processing system, the Board shall consider (among other proposals) requiring, by regulation, that—
+  (1) depository institutions be charged based upon notification that a check or similar instrument will be presented for payment;
+  (2) the Federal Reserve banks and depository institutions provide for check truncation;
+  (3) depository institutions be provided incentives to return items promptly to the depository institution of first deposit;
+  (4) the Federal Reserve banks and depository institutions take such actions as are necessary to automate the process of returning unpaid checks;
+  (5) each depository institution and Federal Reserve bank—
+    (A) place its endorsement, and other notations specified in regulations of the Board, on checks in the positions specified in such regulations; and
+    (B) take such actions as are necessary to—
+      (i) automate the process of reading endorsements; and
+      (ii) eliminate unnecessary endorsements;
+  (6) within one business day after an originating depository institution is presented a check (for more than such minimum amount as the Board may prescribe)—
+    (A) such originating depository institution determines whether it will pay such check; and
+    (B) if such originating depository institution determines that it will not pay such check, such originating depository institution directly notify the receiving depository institution of such determination;
+  (7) regardless of where a check is cleared initially, all returned checks be eligible to be returned through the Federal Reserve System;
+  (8) Federal Reserve banks and depository institutions participate in the development and implementation of an electronic clearinghouse process to the extent the Board determines, pursuant to the study under subsection (f), that such a process is feasible; and
+  (9) originating depository institutions be permitted to return unpaid checks directly to, and obtain reimbursement for such checks directly from, the receiving depository institution.
+(c) 
+  (1) In order to carry out the provisions of this chapter, the Board of Governors of the Federal Reserve System shall have the responsibility to regulate—
+    (A) any aspect of the payment system, including the receipt, payment, collection, or clearing of checks; and
+    (B) any related function of the payment system with respect to checks.
+  (2) The Board shall prescribe such regulations as it may determine to be appropriate to carry out its responsibility under paragraph (1).
+(d) 
+  (1) 
+    (A) The Board shall transmit a report to both Houses of the Congress not later than 18, 30, and 48 months after August 10, 1987 .
+    (B) Each such report shall describe—
+      (i) the actions taken and progress made by the Board to implement the schedules established in section 4002 of this title , and
+      (ii) the impact of this chapter on consumers and depository institutions.
+  (2) 
+    (A) The Board shall transmit a report to both Houses of the Congress not later than 2 years after August 10, 1987 , regarding the effects the temporary schedule established under section 4002(c) of this title have had on depository institutions and the public.
+    (B) Such report shall also assess the potential impact the implementation of the schedule established in section 4002(b) of this title will have on depository institutions and the public, including an estimate of the risks to and losses of depository institutions and the benefits to consumers. Such report shall also contain such recommendations for legislative or administrative action as the Board may determine to be necessary.
+  (3) Not later than 6 months after September 1, 1988 , the Comptroller General of the United States shall transmit a report to the Congress evaluating the implementation and administration of this chapter.
+(e) In prescribing regulations under subsections (a) and (b), the Board and the Director of the Bureau of Consumer Financial Protection, in the case of subsection (a), and the Board, in the case of subsection (b), shall consult with the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, and the National Credit Union Administration Board.
+(f) 
+  (1) The Board shall study the feasibility of modernizing and accelerating the check payment system through the development of an electronic clearinghouse process utilizing existing telecommunications technology to avoid the necessity of actual presentment of the paper instrument to a payor institution before such institution is charged for the item.
+  (2) In connection with the study required under paragraph (1), the Board shall—
+    (A) consult with appropriate experts in telecommunications technology; and
+    (B) consider all practical and legal impediments to the development of an electronic clearinghouse process.
+  (3) The Board shall report its conclusions to the Congress within 9 months of August 10, 1987 .

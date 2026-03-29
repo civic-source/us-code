@@ -1,0 +1,24 @@
+---
+title: "Section 2012 - Credit for gift tax"
+usc_title: 26
+usc_section: "2012"
+chapter: 11
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 2012"
+generated_at: "2026-03-29T00:31:20.902Z"
+---
+
+# § 2012. Credit for gift tax
+
+(a) If a tax on a gift has been paid under chapter 12 (sec. 2501 and following), or under corresponding provisions of prior laws, and thereafter on the death of the donor any amount in respect of such gift is required to be included in the value of the gross estate of the decedent for purposes of this chapter, then there shall be credited against the tax imposed by section 2001 the amount of the tax paid on a gift under chapter 12, or under corresponding provisions of prior laws, with respect to so much of the property which constituted the gift as is included in the gross estate, except that the amount of such credit shall not exceed an amount which bears the same ratio to the tax imposed by section 2001 (after deducting from such tax the unified credit provided by section 2010) as the value (at the time of the gift or at the time of the death, whichever is lower) of so much of the property which constituted the gift as is included in the gross estate bears to the value of the entire gross estate reduced by the aggregate amount of the charitable and marital deductions allowed under sections 2055, 2056, and 2106(a)(2).
+(b) In applying, with respect to any gift, the ratio stated in subsection (a), the value at the time of the gift or at the time of the death, referred to in such ratio, shall be reduced—
+  (1) by such amount as will properly reflect the amount of such gift which was excluded in determining (for purposes of section 2503(a)), or of corresponding provisions of prior laws, the total amount of gifts made during the calendar quarter (or calendar year if the gift was made before January 1, 1971 ) in which the gift was made;
+  (2) if a deduction with respect to such gift is allowed under section 2056(a) (relating to marital deduction), then by the amount of such value, reduced as provided in paragraph (1); and
+  (3) if a deduction with respect to such gift is allowed under sections 2055 or 2106(a)(2) (relating to charitable deduction), then by the amount of such value, reduced as provided in paragraph (1) of this subsection.
+(c) Where the decedent was the donor of the gift but, under the provisions of section 2513, or corresponding provisions of prior laws, the gift was considered as made one-half by his spouse—
+  (1) the term “the amount of the tax paid on a gift under chapter 12”, as used in subsection (a), includes the amounts paid with respect to each half of such gift, the amount paid with respect to each being computed in the manner provided in subsection (d); and
+  (2) in applying, with respect to such gift, the ratio stated in subsection (a), the value at the time of the gift or at the time of the death, referred to in such ratio, includes such value with respect to each half of such gift, each such value being reduced as provided in paragraph (1) of subsection (b).
+(d) 
+  (1) For purposes of subsection (a), the amount of tax paid on a gift under chapter 12, or under corresponding provisions of prior laws, with respect to any gift shall be an amount which bears the same ratio to the total tax paid for the calendar quarter (or calendar year if the gift was made before January 1, 1971 ) in which the gift was made as the amount of such gift bears to the total amount of taxable gifts (computed without deduction of the specific exemption) for such quarter or year.
+  (2) For purposes of paragraph (1), the “amount of such gift” shall be the amount included with respect to such gift in determining (for the purposes of section 2503(a), or of corresponding provisions of prior laws) the total amount of gifts made during such quarter or year, reduced by the amount of any deduction allowed with respect to such gift under section 2522, or under corresponding provisions of prior laws (relating to charitable deduction), or under section 2523 (relating to marital deduction).
+(e) No credit shall be allowed under this section with respect to the amount of any tax paid under chapter 12 on any gift made after December 31, 1976 .

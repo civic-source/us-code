@@ -1,0 +1,14 @@
+---
+title: "Section 20165 - Limitations on non-Federal alcohol and drug testing"
+usc_title: 49
+usc_section: "20165"
+chapter: 201
+current_through: "PL 119-73"
+classification: "49 U.S.C. § 20165"
+generated_at: "2026-03-29T00:33:13.795Z"
+---
+
+# § 20165. Limitations on non-Federal alcohol and drug testing
+
+(a) Any non-Federal alcohol and drug testing program of a railroad carrier must provide that all post-employment tests of the specimens of employees who are subject to both the program and chapter 211 of this title be conducted using a scientifically recognized method of testing capable of determining the presence of the specific analyte at a level above the cut-off level established by the carrier.
+(b) Each railroad carrier that has a non-Federal alcohol and drug testing program must provide a redress process to its employees who are subject to both the alcohol and drug testing program and chapter 211 of this title for such an employee to petition for and receive a carrier hearing to review his or her specimen test results that were determined to be in violation of the program. A dispute or grievance raised by a railroad carrier or its employee, except a probationary employee, in connection with the carrier’s alcohol and drug testing program and the application of this section is subject to resolution under section 3 of the Railway Labor Act ( 45 U.S.C. 153 ).

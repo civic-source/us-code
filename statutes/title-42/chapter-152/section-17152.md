@@ -1,0 +1,22 @@
+---
+title: "Section 17152 - Energy Efficiency and Conservation Block Grant Program"
+usc_title: 42
+usc_section: "17152"
+chapter: 152
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 17152"
+generated_at: "2026-03-29T00:32:54.429Z"
+---
+
+# § 17152. Energy Efficiency and Conservation Block Grant Program
+
+(a) The Secretary shall establish a program, to be known as the “Energy Efficiency and Conservation Block Grant Program”, under which the Secretary shall provide grants to eligible entities in accordance with this part.
+(b) The purpose of the program shall be to assist eligible entities in implementing strategies—
+  (1) to reduce fossil fuel emissions created as a result of activities within the jurisdictions of eligible entities in a manner that—
+    (A) is environmentally sustainable; and
+    (B) to the maximum extent practicable, maximizes benefits for local and regional communities;
+  (2) to reduce the total energy use of the eligible entities; and
+  (3) to improve energy efficiency in—
+    (A) the transportation sector;
+    (B) the building sector; and
+    (C) other appropriate sectors.

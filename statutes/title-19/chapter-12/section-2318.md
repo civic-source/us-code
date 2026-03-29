@@ -1,0 +1,39 @@
+---
+title: "Section 2318 - Demonstration project for alternative trade adjustment assistance for older workers"
+usc_title: 19
+usc_section: "2318"
+chapter: 12
+current_through: "PL 119-73"
+classification: "19 U.S.C. § 2318"
+generated_at: "2026-03-29T00:30:20.219Z"
+---
+
+# § 2318. Demonstration project for alternative trade adjustment assistance for older workers
+
+(a) 
+  (1) Not later than 1 year after August 6, 2002 , the Secretary shall establish an alternative trade adjustment assistance program for older workers that provides the benefits described in paragraph (2).
+  (2) 
+    (A) A State shall use the funds provided to the State under section 2313 of this title to pay, for a period not to exceed 2 years, to a worker described in paragraph (3)(B), 50 percent of the difference between—
+      (i) the wages received by the worker from reemployment; and
+      (ii) the wages received by the worker at the time of separation.
+    (B) A worker described in paragraph (3)(B) participating in the program established under paragraph (1) is eligible to receive, for a period not to exceed 2 years, a credit for health insurance costs under section 35 of title 26 , as added by section 201 of the Trade Act of 2002.
+  (3) 
+    (A) 
+      (i) The Secretary shall provide the opportunity for a group of workers on whose behalf a petition is filed under section 2271 of this title to request that the group of workers be certified for the alternative trade adjustment assistance program under this section at the time the petition is filed.
+      (ii) In determining whether to certify a group of workers as eligible for the alternative trade adjustment assistance program, the Secretary shall consider the following criteria:
+        (I) Whether a significant number of workers in the workers’ firm are 50 years of age or older.
+        (II) Whether the workers in the workers’ firm possess skills that are not easily transferable.
+        (III) The competitive conditions within the workers’ industry.
+      (iii) The Secretary shall determine whether the workers in the group are eligible for the alternative trade adjustment assistance program by the date specified in section 2273(a) of this title .
+    (B) A worker in the group that the Secretary has certified as eligible for the alternative trade adjustment assistance program may elect to receive benefits under the alternative trade adjustment assistance program if the worker—
+      (i) is covered by a certification under subpart A of this part;
+      (ii) obtains reemployment not more than 26 weeks after the date of separation from the adversely affected employment;
+      (iii) is at least 50 years of age;
+      (iv) earns not more than $50,000 a year in wages from reemployment;
+      (v) is employed on a full-time basis as defined by State law in the State in which the worker is employed; and
+      (vi) does not return to the employment from which the worker was separated.
+  (4) The payments described in paragraph (2)(A) made to a worker may not exceed $10,000 per worker during the 2-year eligibility period.
+  (5) Except as provided in paragraph (2)(B), if a worker is receiving payments pursuant to the program established under paragraph (1), the worker shall not be eligible to receive any other benefits under this subchapter.
+(b) 
+  (1) Except as provided in paragraph (2), no payments may be made by a State under the program established under subsection (a)(1) after the date that is 5 years after the date on which such program is implemented by the State. 1 1 See Application of Subsection (b)(1) note below.
+  (2) Notwithstanding paragraph (1), a worker receiving payments under the program established under subsection (a)(1) on the termination date described in paragraph (1) shall continue to receive such payments if the worker meets the criteria described in subsection (a)(3)(B).

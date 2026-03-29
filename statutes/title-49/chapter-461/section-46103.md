@@ -1,0 +1,29 @@
+---
+title: "Section 46103 - Service of notice, process, and actions"
+usc_title: 49
+usc_section: "46103"
+chapter: 461
+current_through: "PL 119-73"
+classification: "49 U.S.C. § 46103"
+generated_at: "2026-03-29T00:33:13.914Z"
+---
+
+# § 46103. Service of notice, process, and actions
+
+(a) 
+  (1) Each air carrier and foreign air carrier shall designate an agent on whom service of notice and process in a proceeding before, and an action of, the Secretary of Transportation (or the Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by the Administrator of the Transportation Security Administration or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator of the Federal Aviation Administration) may be made.
+  (2) The designation—
+    (A) shall be in writing and filed with the Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration; and
+    (B) may be changed in the same way as originally made.
+(b) 
+  (1) Service may be made—
+    (A) by personal service;
+    (B) on a designated agent;
+    (C) by certified or registered mail to the person to be served or the designated agent of the person;
+    (D) by electronic or facsimile transmission to the person to be served or the designated agent of the person; or
+    (E) as designated by regulation or guidance published in the Federal Register.
+  (2) The date of service made by certified or registered mail is the date of mailing.
+  (3) The date of service made by an electronic or facsimile method is—
+    (A) the date an electronic or facsimile transmission is sent; or
+    (B) the date a notification is sent by an electronic or facsimile method that a notice, process, or action is immediately available and accessible in an electronic database.
+(c) Service on an agent designated under this section shall be made at the office or usual place of residence of the agent or at the electronic or facsimile address designated by the agent. If an air carrier or foreign air carrier does not have a designated agent, service may be made by posting the notice, process, or action in the office of the Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration.

@@ -1,0 +1,40 @@
+---
+title: "Section 70201 - State freight advisory committees"
+usc_title: 49
+usc_section: "70201"
+chapter: 702
+current_through: "PL 119-73"
+classification: "49 U.S.C. § 70201"
+generated_at: "2026-03-29T00:33:13.952Z"
+---
+
+# § 70201. State freight advisory committees
+
+(a) The Secretary of Transportation shall encourage each State to establish a freight advisory committee consisting of a representative cross-section of public and private sector freight stakeholders, including representatives of—
+  (1) ports, if applicable;
+  (2) freight railroads, if applicable;
+  (3) shippers;
+  (4) carriers;
+  (5) freight-related associations;
+  (6) third-party logistics providers;
+  (7) the freight industry workforce;
+  (8) the transportation department of the State;
+  (9) metropolitan planning organizations;
+  (10) local governments;
+  (11) the environmental protection department of the State, if applicable;
+  (12) the air resources board of the State, if applicable;
+  (13) economic development agencies of the State; and
+  (14) not-for-profit organizations or community organizations.
+(b) Each member of a freight advisory committee established under subsection (a) shall have qualifications sufficient to serve on a freight advisory committee, including, as applicable—
+  (1) general business and financial experience;
+  (2) experience or qualifications in the areas of freight transportation and logistics;
+  (3) experience in transportation planning;
+  (4) experience representing employees of the freight industry;
+  (5) experience representing a State, local government, or metropolitan planning organization; or
+  (6) experience representing the views of a community group or not-for-profit organization.
+(c) A freight advisory committee of a State described in subsection (a) shall—
+  (1) advise the State on freight-related priorities, issues, projects, and funding needs;
+  (2) serve as a forum for discussion for State transportation decisions affecting freight mobility;
+  (3) communicate and coordinate regional priorities with other organizations;
+  (4) promote the sharing of information between the private and public sectors on freight issues; and
+  (5) participate in the development of the freight plan of the State described in section 70202, including by providing advice regarding the development of the freight investment plan.

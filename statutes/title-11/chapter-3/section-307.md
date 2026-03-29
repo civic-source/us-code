@@ -1,0 +1,14 @@
+---
+title: "Section 307 - United States trustee"
+usc_title: 11
+usc_section: "307"
+chapter: 3
+current_through: "PL 119-73"
+classification: "11 U.S.C. § 307"
+generated_at: "2026-03-29T00:28:59.926Z"
+---
+
+# § 307. United States trustee
+
+The United States trustee may raise and may appear and be heard on any issue in any case or proceeding under this title but may not file a plan pursuant to section 1121(c) of this title .
+

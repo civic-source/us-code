@@ -1,0 +1,14 @@
+---
+title: "Section 2349 - Penalties"
+usc_title: 19
+usc_section: "2349"
+chapter: 12
+current_through: "PL 119-73"
+classification: "19 U.S.C. § 2349"
+generated_at: "2026-03-29T00:30:20.221Z"
+---
+
+# § 2349. Penalties
+
+Whoever makes a false statement of a material fact knowing it to be false, or knowingly fails to disclose a material fact, or whoever willfully overvalues any security, for the purpose of influencing in any way a determination under this part, or for the purpose of obtaining money, property, or anything of value under this part, shall be fined not more than $5,000 or imprisoned for not more than 2 years, or both.
+

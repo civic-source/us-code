@@ -1,0 +1,14 @@
+---
+title: "Section 60501 - Goal"
+usc_title: 51
+usc_section: "60501"
+chapter: 605
+current_through: "PL 119-73"
+classification: "51 U.S.C. § 60501"
+generated_at: "2026-03-29T00:33:19.414Z"
+---
+
+# § 60501. Goal
+
+The goal for the Administration’s Earth Science program shall be to pursue a program of Earth observations, research, and applications activities to better understand the Earth, how it supports life, and how human activities affect its ability to do so in the future. In pursuit of this goal, the Administration’s Earth Science program shall ensure that securing practical benefits for society will be an important measure of its success in addition to securing new knowledge about the Earth system and climate change. In further pursuit of this goal, the Administration shall, together with the National Oceanic and Atmospheric Administration and other relevant agencies, provide United States leadership in developing and carrying out a cooperative international Earth observations-based research program.
+

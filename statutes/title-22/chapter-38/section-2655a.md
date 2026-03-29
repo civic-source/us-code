@@ -1,0 +1,14 @@
+---
+title: "Section 2655a - Bureau of Oceans and International Environmental and Scientific Affairs within Department of State; Assistant Secretary of State as head of Bureau"
+usc_title: 22
+usc_section: "2655a"
+chapter: 38
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 2655a"
+generated_at: "2026-03-29T00:30:33.837Z"
+---
+
+# § 2655a. Bureau of Oceans and International Environmental and Scientific Affairs within Department of State; Assistant Secretary of State as head of Bureau
+
+There is established within the Department of State a Bureau of Oceans and International Environmental and Scientific Affairs. There shall be an Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs, appointed by the President, by and with the advice and consent of the Senate, who shall be the head of the Bureau and who shall have responsibility for matters relating to oceans, environmental, scientific, fisheries, wildlife, and conservation affairs and for such other related duties as the Secretary may from time to time designate.
+

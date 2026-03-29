@@ -1,0 +1,16 @@
+---
+title: "Section 8202 - Regulation of nonadmitted insurance by insured’s home State"
+usc_title: 15
+usc_section: "8202"
+chapter: 108
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 8202"
+generated_at: "2026-03-29T00:29:41.938Z"
+---
+
+# § 8202. Regulation of nonadmitted insurance by insured’s home State
+
+(a) Except as otherwise provided in this section, the placement of nonadmitted insurance shall be subject to the statutory and regulatory requirements solely of the insured’s home State.
+(b) No State other than an insured’s home State may require a surplus lines broker to be licensed in order to sell, solicit, or negotiate nonadmitted insurance with respect to such insured.
+(c) With respect to section 8201 of this title and subsections (a) and (b) of this section, any law, regulation, provision, or action of any State that applies or purports to apply to nonadmitted insurance sold to, solicited by, or negotiated with an insured whose home State is another State shall be preempted with respect to such application.
+(d) This section may not be construed to preempt any State law, rule, or regulation that restricts the placement of workers’ compensation insurance or excess insurance for self-funded workers’ compensation plans with a nonadmitted insurer.

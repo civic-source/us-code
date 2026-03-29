@@ -1,0 +1,17 @@
+---
+title: "Section 4402 - Exemptions"
+usc_title: 26
+usc_section: "4402"
+chapter: 35
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 4402"
+generated_at: "2026-03-29T00:31:20.950Z"
+---
+
+# § 4402. Exemptions
+
+No tax shall be imposed by this subchapter—
+
+  (1) On any wager placed with, or on any wager placed in a wagering pool conducted by, a parimutuel wagering enterprise licensed under State law,
+  (2) On any wager placed in a coin-operated device (as defined in section 4462 as in effect for years beginning before July 1, 1980 ), or on any amount paid, in lieu of inserting a coin, token, or similar object, to operate a device described in section 4462(a)(2) (as so in effect), or
+  (3) On any wager placed in a sweepstakes, wagering pool, or lottery which is conducted by an agency of a State acting under authority of State law, but only if such wager is placed with the State agency conducting such sweepstakes, wagering pool, or lottery, or with its authorized employees or agents.

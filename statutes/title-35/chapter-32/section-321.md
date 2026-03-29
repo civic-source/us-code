@@ -1,0 +1,15 @@
+---
+title: "Section 321 - Post-grant review"
+usc_title: 35
+usc_section: "321"
+chapter: 32
+current_through: "PL 119-73"
+classification: "35 U.S.C. § 321"
+generated_at: "2026-03-29T00:32:02.953Z"
+---
+
+# § 321. Post-grant review
+
+(a) Subject to the provisions of this chapter, a person who is not the owner of a patent may file with the Office a petition to institute a post-grant review of the patent. The Director shall establish, by regulation, fees to be paid by the person requesting the review, in such amounts as the Director determines to be reasonable, considering the aggregate costs of the post-grant review.
+(b) A petitioner in a post-grant review may request to cancel as unpatentable 1 or more claims of a patent on any ground that could be raised under paragraph (2) or (3) of section 282(b) (relating to invalidity of the patent or any claim).
+(c) A petition for a post-grant review may only be filed not later than the date that is 9 months after the date of the grant of the patent or of the issuance of a reissue patent (as the case may be).

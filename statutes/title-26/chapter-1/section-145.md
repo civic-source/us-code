@@ -1,0 +1,56 @@
+---
+title: "Section 145 - Qualified 501(c)(3) bond"
+usc_title: 26
+usc_section: "145"
+chapter: 1
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 145"
+generated_at: "2026-03-29T00:31:20.637Z"
+---
+
+# § 145. Qualified 501(c)(3) bond
+
+(a) For purposes of this part, except as otherwise provided in this section, the term “qualified 501(c)(3) bond” means any private activity bond issued as part of an issue if—
+  (1) all property which is to be provided by the net proceeds of the issue is to be owned by a 501(c)(3) organization or a governmental unit, and
+  (2) such bond would not be a private activity bond if—
+    (A) 501(c)(3) organizations were treated as governmental units with respect to their activities which do not constitute unrelated trades or businesses, determined by applying section 513(a), and
+    (B) paragraphs (1) and (2) of section 141(b) were applied by substituting “5 percent” for “10 percent” each place it appears and by substituting “net proceeds” for “proceeds” each place it appears.
+(b) 
+  (1) A bond (other than a qualified hospital bond) shall not be treated as a qualified 501(c)(3) bond if the aggregate authorized face amount of the issue (of which such bond is a part) allocated to any 501(c)(3) organization which is a test-period beneficiary (when increased by the outstanding tax-exempt nonhospital bonds of such organization) exceeds $150,000,000.
+  (2) 
+    (A) For purposes of applying paragraph (1) with respect to any issue, the outstanding tax-exempt nonhospital bonds of any organization which is a test-period beneficiary with respect to such issue is the aggregate amount of tax-exempt bonds referred to in subparagraph (B)—
+      (i) which are allocated to such organization, and
+      (ii) which are outstanding at the time of such later issue (not including as outstanding any bond which is to be redeemed (other than in an advance refunding) from the net proceeds of the later issue).
+    (B) For purposes of subparagraph (A), the bonds referred to in this subparagraph are—
+      (i) any qualified 501(c)(3) bond other than a qualified hospital bond, and
+      (ii) any bond to which section 141(a) does not apply if—
+        (I) such bond would have been an industrial development bond (as defined in section 103(b)(2), as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) if 501(c)(3) organizations were not exempt persons, and
+        (II) such bond was not described in paragraph (4), (5), or (6) of such section 103(b) (as in effect on the date such bond was issued).
+    (C) 
+      (i) A bond shall be taken into account under subparagraph (B) only to the extent that the proceeds of the issue of which such bond is a part are not used with respect to a hospital.
+      (ii) If 90 percent or more of the net proceeds of an issue are used with respect to a hospital, no bond which is part of such issue shall be taken into account under subparagraph (B)(ii).
+  (3) For purposes of this subsection, 2 or more organizations under common management or control shall be treated as 1 organization.
+  (4) Rules similar to the rules of subparagraphs (C), (D), and (E) of section 144(a)(10) shall apply for purposes of this subsection.
+  (5) This subsection shall not apply with respect to bonds issued after the date of the enactment of this paragraph as part of an issue 95 percent or more of the net proceeds of which are to be used to finance capital expenditures incurred after such date.
+(c) For purposes of this section, the term “qualified hospital bond” means any bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used with respect to a hospital.
+(d) 
+  (1) Except as otherwise provided in this subsection, a bond which is part of an issue shall not be a qualified 501(c)(3) bond if any portion of the net proceeds of the issue are to be used directly or indirectly to provide residential rental property for family units.
+  (2) Paragraph (1) shall not apply to any bond issued as part of an issue if the portion of such issue which is to be used as described in paragraph (1) is to be used to provide—
+    (A) a residential rental property for family units if the first use of such property is pursuant to such issue,
+    (B) qualified residential rental projects (as defined in section 142(d)), or
+    (C) property which is to be substantially rehabilitated in a rehabilitation beginning within the 2-year period ending 1 year after the date of the acquisition of such property.
+  (3) Solely for purposes of determining under paragraph (2)(A) whether the 1st use of property is pursuant to tax-exempt financing—
+    (A) If—
+      (i) the 1st use of property is pursuant to taxable financing,
+      (ii) there was a reasonable expectation (at the time such taxable financing was provided) that such financing would be replaced by tax-exempt financing, and
+      (iii) the taxable financing is in fact so replaced within a reasonable period after the taxable financing was provided,
+    (B) If, at the time of the 1st use of property, there was no operating State or local program for tax-exempt financing of the property, the 1st use of the property shall be treated as pursuant to the 1st tax-exempt financing of the property.
+    (C) For purposes of this paragraph—
+      (i) The term “tax-exempt financing” means financing provided by tax-exempt bonds.
+      (ii) The term “taxable financing” means financing which is not tax-exempt financing.
+  (4) 
+    (A) Except as provided in subparagraph (B), rules similar to the rules of section 47(c)(1)(B) shall apply in determining for purposes of paragraph (2)(C) whether property is substantially rehabilitated.
+    (B) For purposes of subparagraph (A), clause (ii) of section 47(c)(1)(B) shall not apply, but the Secretary may extend the 24-month period in section 47(c)(1)(B)(i) where appropriate due to circumstances not within the control of the owner.
+(e) This section shall not apply to an issue if—
+  (1) the issuer elects not to have this section apply to such issue, and
+  (2) such issue is an issue of exempt facility bonds, or qualified redevelopment bonds, to which section 146 applies.

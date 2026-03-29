@@ -1,0 +1,17 @@
+---
+title: "Section 14302 - Measurement"
+usc_title: 46
+usc_section: "14302"
+chapter: 143
+current_through: "PL 119-73"
+classification: "46 U.S.C. § 14302"
+generated_at: "2026-03-29T00:33:02.896Z"
+---
+
+# § 14302. Measurement
+
+(a) The Secretary shall measure a vessel to which this chapter applies in the way provided by this chapter and the Convention.
+(b) A vessel measured under this chapter may not be required to be measured under another law.
+(c) Unless otherwise provided by law, the measurement of a vessel under this chapter applies to a law of the United States whose applicability depends on a vessel’s tonnage, if that law—
+  (1) becomes effective after July 18, 1994 ; or
+  (2) is in effect before July 19, 1994 , is not enumerated in section 14305 of this title , and is identified by the Secretary by regulation as a law to which this chapter applies.

@@ -1,0 +1,14 @@
+---
+title: "Section 875 - Powers of officers as notaries"
+usc_title: 33
+usc_section: "875"
+chapter: 17
+current_through: "PL 119-73"
+classification: "33 U.S.C. § 875"
+generated_at: "2026-03-29T00:31:57.255Z"
+---
+
+# § 875. Powers of officers as notaries
+
+In places where the National Oceanic and Atmospheric Administration is serving which are not within the jurisdiction of any one of the States of the continental United States, excluding Alaska, commanding officers of National Oceanic and Atmospheric Administration vessels, and such other officers of the National Oceanic and Atmospheric Administration as the Secretary of Commerce may designate, may exercise the general powers of the notary public in the administration of oaths for the execution, acknowledgment, and attestation of instruments and papers, and the performance of all other notarial acts. The powers conferred shall be limited to acts performed in behalf of the personnel of the National Oceanic and Atmospheric Administration or in connection with the proper execution of the functions of that agency.
+

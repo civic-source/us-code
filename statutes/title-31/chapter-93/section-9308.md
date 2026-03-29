@@ -1,0 +1,14 @@
+---
+title: "Section 9308 - Civil penalty"
+usc_title: 31
+usc_section: "9308"
+chapter: 93
+current_through: "PL 119-73"
+classification: "31 U.S.C. § 9308"
+generated_at: "2026-03-29T00:31:52.664Z"
+---
+
+# § 9308. Civil penalty
+
+A surety corporation is liable to the United States Government for a civil penalty of at least $500 but not more than $5,000 for violating section 9304, 9305, or 9306 of this title. A civil action under this section may be brought in a judicial district in which a civil action may be brought against the corporation under section 9307 of this title . A penalty imposed under this section does not affect the validity of a contract made by the surety corporation.
+

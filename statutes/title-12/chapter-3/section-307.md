@@ -1,0 +1,14 @@
+---
+title: "Section 307 - Compensation of directors"
+usc_title: 12
+usc_section: "307"
+chapter: 3
+current_through: "PL 119-73"
+classification: "12 U.S.C. § 307"
+generated_at: "2026-03-29T00:29:16.487Z"
+---
+
+# § 307. Compensation of directors
+
+Directors of Federal reserve banks shall receive, in addition to any compensation otherwise provided, a reasonable allowance for necessary expenses in attending meetings of their respective boards, which amount shall be paid by the respective Federal reserve banks. Any compensation that may be provided by boards of directors of Federal reserve banks for directors, officers or employees shall be subject to the approval of the Board of Governors of the Federal Reserve System.
+

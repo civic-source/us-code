@@ -1,0 +1,14 @@
+---
+title: "Section 7427 - Tax return preparers"
+usc_title: 26
+usc_section: "7427"
+chapter: 76
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 7427"
+generated_at: "2026-03-29T00:31:21.087Z"
+---
+
+# § 7427. Tax return preparers
+
+In any proceeding involving the issue of whether or not a tax return preparer has willfully attempted in any manner to understate the liability for tax (within the meaning of section 6694(b)), the burden of proof in respect to such issue shall be upon the Secretary.
+

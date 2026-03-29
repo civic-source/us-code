@@ -1,0 +1,14 @@
+---
+title: "Section 3261 - Congressional declaration of policy; Presidential report to Congress"
+usc_title: 22
+usc_section: "3261"
+chapter: 47
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 3261"
+generated_at: "2026-03-29T00:30:33.874Z"
+---
+
+# § 3261. Congressional declaration of policy; Presidential report to Congress
+
+The United States shall endeavor to cooperate with other nations, international institutions, and private organizations in establishing programs to assist in the development of non-nuclear energy resources, to cooperate with both developing and industrialized nations in protecting the international environment from contamination arising from both nuclear and non-nuclear energy activities, and shall seek to cooperate with and aid developing countries in meeting their energy needs through the development of such resources and the application of non-nuclear technologies consistent with the economic factors, the material resources of those countries, and environmental protection. The United States shall additionally seek to encourage other industrialized nations and groups of nations to make commitments for similar cooperation and aid to developing countries. The President shall report annually to Congress on the level of other nations’ and groups of nations’ commitments under such program and the relation of any such commitments to United States efforts under this title. In cooperating with and providing such assistance to developing countries, the United States shall give priority to parties to the Treaty.
+

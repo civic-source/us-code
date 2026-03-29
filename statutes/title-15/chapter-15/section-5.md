@@ -1,0 +1,14 @@
+---
+title: "Section 5 - Exemption of Commodity Credit Corporation and its obligations from taxation"
+usc_title: 15
+usc_section: "5"
+chapter: 15
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 5"
+generated_at: "2026-03-29T00:29:41.651Z"
+---
+
+# § 713a–5. Exemption of Commodity Credit Corporation and its obligations from taxation
+
+Bonds, notes, debentures, and other similar obligations issued by the Commodity Credit Corporation under the provisions of sections 713a–1 to 713a–5 of this title shall be deemed and held to be instrumentalities of the Government of the United States, and as such they and the income derived therefrom shall be exempt from Federal, State, municipal, and local taxation (except surtaxes, estate, inheritance, and gift taxes). The Commodity Credit Corporation, including its franchise, its capital, reserves, and surplus, and its income shall be exempt from all taxation imposed by the United States, by any Territory, dependency, or possession thereof, or by any State, county, municipality, or local taxing authority; except that any real property of the Commodity Credit Corporation shall be subject to State, Territorial, county, municipal, or local taxation to the same extent according to its value as other real property is taxed.
+

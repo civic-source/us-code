@@ -1,0 +1,17 @@
+---
+title: "Section 2384 - Statutory officers"
+usc_title: 22
+usc_section: "2384"
+chapter: 32
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 2384"
+generated_at: "2026-03-29T00:30:33.800Z"
+---
+
+# § 2384. Statutory officers
+
+(a) The President may appoint, by and with the advice and consent of the Senate, twelve officers in the agency primarily responsible for administering subchapter I of this chapter, and in the selection of one of such persons due consideration shall be given to persons qualified as professional engineers.
+(b) Within the limitations established by subsection (a) of this section, the President may fix the rate of compensation, and may designate the title of, any officer appointed pursuant to the authority contained in that subsection. The President may also fix the order of succession among the officers provided for in subsection (a) of this section in the event of the absence, death, resignation, or disability of one or more of said officers.
+(c) Any person who was appointed by and with the advice and consent of the Senate, to any statutory position authorized by any provision of law repealed by section 642(a) and who is serving in one of such positions at the time of transfer of functions pursuant to subsections (c) and (d) of section 2381 of this title , may be appointed by the President to a comparable position authorized by subsection (a) of this section on the date of the establishment of the agency primarily responsible for administering subchapter I of this chapter, without further action by the Senate.
+(d) 
+(e) In addition to the officers otherwise provided for in this section, the President shall appoint, by and with the advice and consent of the Senate, one officer for the purpose of coordinating security assistance programs.

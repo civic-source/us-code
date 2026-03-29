@@ -1,0 +1,14 @@
+---
+title: "Section 3115 - Irrevocable commitment of Federal Government to pay ultimate award when fixed"
+usc_title: 40
+usc_section: "3115"
+chapter: 31
+current_through: "PL 119-73"
+classification: "40 U.S.C. § 3115"
+generated_at: "2026-03-29T00:32:20.546Z"
+---
+
+# § 3115. Irrevocable commitment of Federal Government to pay ultimate award when fixed
+
+(a) Action under section 3114 of this title irrevocably committing the Federal Government to the payment of the ultimate award shall not be taken unless the head of the executive department or agency or bureau of the Government empowered to acquire the land believes that the ultimate award probably will be within any limits Congress prescribes on the price to be paid.
+(b) When the Government has taken or may take title to real property during a condemnation proceeding and in advance of final judgment in the proceeding and has become irrevocably committed to pay the amount ultimately to be awarded as compensation, and the Attorney General believes that title to the property has been vested in the Government or that all persons having an interest in the property have been made parties to the proceeding and will be bound by the final judgment, the Government may expend amounts appropriated for that purpose to demolish existing structures on the property and to erect public buildings or public works on the property.

@@ -1,0 +1,22 @@
+---
+title: "Section 419 - Armed Forces Retirement Home Trust Fund"
+usc_title: 24
+usc_section: "419"
+chapter: 10
+current_through: "PL 119-73"
+classification: "24 U.S.C. § 419"
+generated_at: "2026-03-29T00:30:34.815Z"
+---
+
+# § 419. Armed Forces Retirement Home Trust Fund
+
+(a) There is hereby established in the Treasury of the United States a trust fund to be known as the Armed Forces Retirement Home Trust Fund. The Fund shall consist of the following:
+  (1) Such amounts as may be transferred to the Fund.
+  (2) Moneys deposited in the Fund by the Chief Operating Officer realized from gifts or from the disposition of property and facilities.
+  (3) Amounts deposited in the Fund as monthly fees paid by residents of the Retirement Home under section 414 of this title .
+  (4) Amounts of fines and forfeitures deposited in the Fund under section 2772 of title 10 .
+  (5) Amounts deposited in the Fund as deductions from the pay of enlisted members, warrant officers, and limited duty officers under section 1007(i) of title 37 .
+  (6) Interest from investments made under subsection (c).
+(b) Amounts in the Fund shall be available solely for the operation of the Retirement Home.
+(c) The Secretary of the Treasury may invest in obligations issued or guaranteed by the United States any monies in the Fund that the Chief Operating Officer determines are not currently needed to pay for the operation of the Retirement Home.
+(d) The Chief Financial Officer of the Armed Forces Retirement Home shall comply with the reporting requirements of subchapter II of chapter 35 of title 31.

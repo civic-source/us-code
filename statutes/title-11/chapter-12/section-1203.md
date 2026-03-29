@@ -1,0 +1,14 @@
+---
+title: "Section 1203 - Rights and powers of debtor"
+usc_title: 11
+usc_section: "1203"
+chapter: 12
+current_through: "PL 119-73"
+classification: "11 U.S.C. § 1203"
+generated_at: "2026-03-29T00:28:59.973Z"
+---
+
+# § 1203. Rights and powers of debtor
+
+Subject to such limitations as the court may prescribe, a debtor in possession shall have all the rights, other than the right to compensation under section 330, and powers, and shall perform all the functions and duties, except the duties specified in paragraphs (3) and (4) of section 1106(a), of a trustee serving in a case under chapter 11, including operating the debtor’s farm or commercial fishing operation.
+

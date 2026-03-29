@@ -1,0 +1,14 @@
+---
+title: "Section 1309 - Social security tax"
+usc_title: 31
+usc_section: "1309"
+chapter: 13
+current_through: "PL 119-73"
+classification: "31 U.S.C. § 1309"
+generated_at: "2026-03-29T00:31:52.590Z"
+---
+
+# § 1309. Social security tax
+
+Amounts made available for the compensation of officers and employees of the United States Government may be used to pay taxes imposed on an agency as an employer under chapter 21 of the Internal Revenue Code of 1986 ( 26 U.S.C. 3101 et seq.).
+

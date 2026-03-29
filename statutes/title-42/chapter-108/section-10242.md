@@ -1,0 +1,16 @@
+---
+title: "Section 10242 - Office of Nuclear Waste Negotiator"
+usc_title: 42
+usc_section: "10242"
+chapter: 108
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 10242"
+generated_at: "2026-03-29T00:32:54.201Z"
+---
+
+# § 10242. Office of Nuclear Waste Negotiator
+
+(a) There is established the Office of the Nuclear Waste Negotiator that shall be an independent establishment in the executive branch.
+(b) 
+  (1) The Office shall be headed by a Nuclear Waste Negotiator who shall be appointed by the President, by and with the advice and consent of the Senate. The Negotiator shall hold office at the pleasure of the President, and shall be compensated at the rate provided for level III of the Executive Schedule in section 5314 of title 5 .
+  (2) The Negotiator shall attempt to find a State or Indian tribe willing to host a repository or monitored retrievable storage facility at a technically qualified site on reasonable terms and shall negotiate with any State or Indian tribe which expresses an interest in hosting a repository or monitored retrievable storage facility.

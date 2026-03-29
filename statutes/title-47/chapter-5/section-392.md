@@ -1,0 +1,29 @@
+---
+title: "Section 392 - Grants for construction"
+usc_title: 47
+usc_section: "392"
+chapter: 5
+current_through: "PL 119-73"
+classification: "47 U.S.C. § 392"
+generated_at: "2026-03-29T00:33:04.905Z"
+---
+
+# § 392. Grants for construction
+
+(a) For each project for the construction of public telecommunications facilities there shall be submitted to the Secretary an application for a grant containing such information with respect to such project as the Secretary may require, including the total cost of such project, the amount of the grant requested for such project, and a 5-year plan outlining the applicant’s projected facilities requirements and the projected costs of such facilities requirements. Each applicant shall also provide assurances satisfactory to the Secretary that—
+  (1) the applicant is (A) a public broadcast station; (B) a noncommercial telecommunications entity; (C) a system of public telecommunications entities; (D) a nonprofit foundation, corporation, institution, or association organized primarily for educational or cultural purposes; or (E) a State or local government (or any agency thereof), or a political or special purpose subdivision of a State;
+  (2) the operation of such public telecommunications facilities will be under the control of the applicant;
+  (3) necessary funds to construct, operate, and maintain such public telecommunications facilities will be available when needed;
+  (4) such public telecommunications facilities will be used primarily for the provision of public telecommunications services, and that the use of such public telecommunications facilities for purposes other than the provision of public telecommunications services will not interfere with the provision of such public telecommunications services as required in this part;
+  (5) the applicant has participated in comprehensive planning for such public telecommunications facilities in the area which the applicant proposes to serve, and such planning has included an evaluation of alternate technologies and coordination with State educational television and radio agencies, as appropriate; and
+  (6) the applicant will make the most efficient use of the grant.
+(b) Upon approving any application under this section with respect to any project for the construction of public telecommunications facilities, the Secretary shall make a grant to the applicant in an amount determined by the Secretary, except that such amount shall not exceed 75 percent of the amount determined by the Secretary to be the reasonable and necessary cost of such project.
+(c) The Secretary may provide such funds as the Secretary deems necessary for the planning of any project for which construction funds may be obtained under this section. An applicant for a planning grant shall provide such information with respect to such project as the Secretary may require and shall provide assurances satisfactory to the Secretary that the applicant meets the eligible requirements of subsection (a) to receive construction assistance.
+(d) Any studies conducted by or for any grant recipient under this section shall be provided to the Secretary, if such studies are conducted through the use of funds received under this section.
+(e) The Secretary shall establish such rules and regulations as may be necessary to carry out this subpart, including rules and regulations relating to the order of priority in approving applications for construction projects and relating to determining the amount of each grant for such projects.
+(f) In establishing criteria for grants pursuant to section 393 of this title and in establishing procedures relating to the order of priority established in subsection (e) in approving applications for grants, the Secretary shall give special consideration to applications which would increase minority and women’s ownership of, operation of, and participation in public telecommunications entities. The Secretary shall take affirmative steps to inform minorities and women of the availability of funds under this subpart, and the localities where new public telecommunications facilities are needed, and to provide such other assistance and information as may be appropriate.
+(g) If, within 10 years after completion of any project for construction of public telecommunications facilities with respect to which a grant has been made under this section—
+  (1) the applicant or other owner of such facilities ceases to be an agency, institution, foundation, corporation, association, or other entity described in subsection (a)(1); or
+  (2) such facilities cease to be used primarily for the provision of public telecommunications services (or the use of such public telecommunications facilities for purposes other than the provision of public telecommunications services interferes with the provision of such public telecommunications services as required in this part);
+(h) Each recipient of assistance under this subpart shall keep such records as may be reasonably necessary to enable the Secretary to carry out the functions of the Secretary under this subpart, including a complete and itemized inventory of all public telecommunications facilities under the control of such recipient, and rec­ords which fully disclose the amount and the disposition by such recipient of the proceeds of such assistance, the total cost of the project in connection with which such assistance is given or used, the amount and nature of that portion of the cost of the project supplied by other sources, and such other records as will facilitate an effective audit.
+(i) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of any recipient of assistance under this subpart that are pertinent to assistance received under this subpart.

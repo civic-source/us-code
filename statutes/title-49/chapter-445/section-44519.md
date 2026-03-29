@@ -1,0 +1,25 @@
+---
+title: "Section 44519 - Certification personnel continuing education and training"
+usc_title: 49
+usc_section: "44519"
+chapter: 445
+current_through: "PL 119-73"
+classification: "49 U.S.C. § 44519"
+generated_at: "2026-03-29T00:33:13.890Z"
+---
+
+# § 44519. Certification personnel continuing education and training
+
+(a) The Administrator of the Federal Aviation Administration shall—
+  (1) develop a program for regular recurrent training of engineers, inspectors, and other subject-matter experts employed in the Aircraft Certification Service of the Administration in accordance with the training strategy developed pursuant to section 231 of the FAA Reauthorization Act of 2018 ( Public Law 115–254 ; 132 Stat. 3256 );
+  (2) to the maximum extent practicable, implement measures, including assignments in multiple divisions of the Aircraft Certification Service, to ensure that such engineers and other subject-matter experts in the Aircraft Certification Service have access to diverse professional opportunities that expand their knowledge and skills;
+  (3) develop a program to provide continuing education and training to Administration personnel who hold positions involving aircraft certification and flight standards, including human factors specialists, engineers, flight test pilots, inspectors, and, as determined appropriate by the Administrator, industry personnel who may be responsible for compliance activities including designees; and
+  (4) in consultation with outside experts, develop—
+    (A) an education and training curriculum on current and new aircraft technologies, human factors, project management, and the roles and responsibilities associated with oversight of designees; and
+    (B) recommended practices for compliance with Administration regulations.
+(b) The Administrator shall, to the maximum extent practicable, ensure that actions taken pursuant to subsection (a)—
+  (1) permit engineers, inspectors, and other subject matter experts to continue developing knowledge of, and expertise in, new and emerging technologies in systems design, flight controls, principles of aviation safety, system oversight, and certification project management;
+  (2) minimize the likelihood of an individual developing an inappropriate bias toward a designer or manufacturer of aircraft, aircraft engines, propellers, or appliances;
+  (3) are consistent with any applicable collective bargaining agreements; and
+  (4) account for gaps in knowledge and skills (as identified by the Administrator in consultation with the exclusive bargaining representatives certified under section 7111 of title 5 , United States Code) between Administration employees and private-sector employees for each group of Administration employees covered under this section.
+(c) There is authorized to be appropriated to the Administrator, $10,000,000 for each of fiscal years 2021 through 2028 to carry out this section. Amounts appropriated under the preceding sentence for any fiscal year shall remain available until expended.

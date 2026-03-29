@@ -1,0 +1,18 @@
+---
+title: "Section 9705 - Federal Nuclear Operations Corps’ study"
+usc_title: 42
+usc_section: "9705"
+chapter: 104
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 9705"
+generated_at: "2026-03-29T00:32:54.164Z"
+---
+
+# § 9705. Federal Nuclear Operations Corps’ study
+
+(a) The Secretary, in cooperation with the Nuclear Regulatory Commission, shall initiate a study as to the sufficiency of efforts in the United States to provide specially trained professionals to operate the controls of nuclear powerplants and other facilities in the back-end of the nuclear fuel cycle. In carrying out the study, the Secretary shall coordinate his activities with the ongoing programs of the utility industry and other Federal governmental agencies for obtaining high standards of operator performance.
+(b) 
+  (1) In conducting the study the Secretary shall assess the desirability and feasibility of creating a Federal Corps of such professionals to inspect and supervise such operations.
+  (2) The assessment shall consider the establishment of an academy to train Corps professionals in all aspects of nuclear technology, nuclear operations, nuclear regulatory and related law, and health science.
+  (3) The assessment shall include the appropriate organizational approach for the establishment of a Federal Corps within the executive branch.
+(c) The Secretary shall complete the study within one year after December 22, 1980 , and shall submit a report along with his recommendations to the Congress.

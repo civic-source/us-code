@@ -1,0 +1,14 @@
+---
+title: "Section 503 - Postmarking stamps"
+usc_title: 18
+usc_section: "503"
+chapter: 25
+current_through: "PL 119-73"
+classification: "18 U.S.C. § 503"
+generated_at: "2026-03-29T00:30:15.616Z"
+---
+
+# § 503. Postmarking stamps
+
+Whoever forges or counterfeits any postmarking stamp, or impression thereof with intent to make it appear that such impression is a genuine postmark, or makes or knowingly uses or sells, or possesses with intent to use or sell, any forged or counterfeited postmarking stamp, die, plate, or engraving, or such impression thereof, shall be fined under this title or imprisoned not more than five years, or both.
+

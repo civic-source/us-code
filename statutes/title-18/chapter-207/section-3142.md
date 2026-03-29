@@ -1,0 +1,87 @@
+---
+title: "Section 3142 - Release or detention of a defendant pending trial"
+usc_title: 18
+usc_section: "3142"
+chapter: 207
+current_through: "PL 119-73"
+classification: "18 U.S.C. § 3142"
+generated_at: "2026-03-29T00:30:15.725Z"
+---
+
+# § 3142. Release or detention of a defendant pending trial
+
+(a) Upon the appearance before a judicial officer of a person charged with an offense, the judicial officer shall issue an order that, pending trial, the person be—
+  (1) released on personal recognizance or upon execution of an unsecured appearance bond, under subsection (b) of this section;
+  (2) released on a condition or combination of conditions under subsection (c) of this section;
+  (3) temporarily detained to permit revocation of conditional release, deportation, or exclusion under subsection (d) of this section; or
+  (4) detained under subsection (e) of this section.
+(b) The judicial officer shall order the pretrial release of the person on personal recognizance, or upon execution of an unsecured appearance bond in an amount specified by the court, subject to the condition that the person not commit a Federal, State, or local crime during the period of release and subject to the condition that the person cooperate in the collection of a DNA sample from the person if the collection of such a sample is authorized pursuant to section 3 of the DNA Analysis Backlog Elimination Act of 2000 ( 42 U.S.C. 14135a ), 1 1 See References in Text note below. unless the judicial officer determines that such release will not reasonably assure the appearance of the person as required or will endanger the safety of any other person or the community.
+(c) 
+  (1) If the judicial officer determines that the release described in subsection (b) of this section will not reasonably assure the appearance of the person as required or will endanger the safety of any other person or the community, such judicial officer shall order the pretrial release of the person—
+    (A) subject to the condition that the person not commit a Federal, State, or local crime during the period of release and subject to the condition that the person cooperate in the collection of a DNA sample from the person if the collection of such a sample is authorized pursuant to section 3 of the DNA Analysis Backlog Elimination Act of 2000 ( 42 U.S.C. 14135a ); 1 and
+    (B) subject to the least restrictive further condition, or combination of conditions, that such judicial officer determines will reasonably assure the appearance of the person as required and the safety of any other person and the community, which may include the condition that the person—
+      (i) remain in the custody of a designated person, who agrees to assume supervision and to report any violation of a release condition to the court, if the designated person is able reasonably to assure the judicial officer that the person will appear as required and will not pose a danger to the safety of any other person or the community;
+      (ii) maintain employment, or, if unemployed, actively seek employment;
+      (iii) maintain or commence an educational program;
+      (iv) abide by specified restrictions on personal associations, place of abode, or travel;
+      (v) avoid all contact with an alleged victim of the crime and with a potential witness who may testify concerning the offense;
+      (vi) report on a regular basis to a designated law enforcement agency, pretrial services agency, or other agency;
+      (vii) comply with a specified curfew;
+      (viii) refrain from possessing a firearm, destructive device, or other dangerous weapon;
+      (ix) refrain from excessive use of alcohol, or any use of a narcotic drug or other controlled substance, as defined in section 102 of the Controlled Substances Act ( 21 U.S.C. 802 ), without a prescription by a licensed medical practitioner;
+      (x) undergo available medical, psychological, or psychiatric treatment, including treatment for drug or alcohol dependency, and remain in a specified institution if required for that purpose;
+      (xi) execute an agreement to forfeit upon failing to appear as required, property of a sufficient unencumbered value, including money, as is reasonably necessary to assure the appearance of the person as required, and shall provide the court with proof of ownership and the value of the property along with information regarding existing encumbrances as the judicial office may require;
+      (xii) execute a bail bond with solvent sureties; who will execute an agreement to forfeit in such amount as is reasonably necessary to assure appearance of the person as required and shall provide the court with information regarding the value of the assets and liabilities of the surety if other than an approved surety and the nature and extent of encumbrances against the surety’s property; such surety shall have a net worth which shall have sufficient unencumbered value to pay the amount of the bail bond;
+      (xiii) return to custody for specified hours following release for employment, schooling, or other limited purposes; and
+      (xiv) satisfy any other condition that is reasonably necessary to assure the appearance of the person as required and to assure the safety of any other person and the community.
+  (2) The judicial officer may not impose a financial condition that results in the pretrial detention of the person.
+  (3) The judicial officer may at any time amend the order to impose additional or different conditions of release.
+(d) If the judicial officer determines that—
+  (1) such person—
+    (A) is, and was at the time the offense was committed, on—
+      (i) release pending trial for a felony under Federal, State, or local law;
+      (ii) release pending imposition or execution of sentence, appeal of sentence or conviction, or completion of sentence, for any offense under Federal, State, or local law; or
+      (iii) probation or parole for any offense under Federal, State, or local law; or
+    (B) is not a citizen of the United States or lawfully admitted for permanent residence, as defined in section 101(a)(20) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(20) ); and
+  (2) such person may flee or pose a danger to any other person or the community;
+(e) 
+  (1) If, after a hearing pursuant to the provisions of subsection (f) of this section, the judicial officer finds that no condition or combination of conditions will reasonably assure the appearance of the person as required and the safety of any other person and the community, such judicial officer shall order the detention of the person before trial.
+  (2) In a case described in subsection (f)(1) of this section, a rebuttable presumption arises that no condition or combination of conditions will reasonably assure the safety of any other person and the community if such judicial officer finds that—
+    (A) the person has been convicted of a Federal offense that is described in subsection (f)(1) of this section, or of a State or local offense that would have been an offense described in subsection (f)(1) of this section if a circumstance giving rise to Federal jurisdiction had existed;
+    (B) the offense described in subparagraph (A) was committed while the person was on release pending trial for a Federal, State, or local offense; and
+    (C) a period of not more than five years has elapsed since the date of conviction, or the release of the person from imprisonment, for the offense described in subparagraph (A), whichever is later.
+  (3) Subject to rebuttal by the person, it shall be presumed that no condition or combination of conditions will reasonably assure the appearance of the person as required and the safety of the community if the judicial officer finds that there is probable cause to believe that the person committed—
+    (A) an offense for which a maximum term of imprisonment of ten years or more is prescribed in the Controlled Substances Act ( 21 U.S.C. 801 et seq.), the Controlled Substances Import and Export Act ( 21 U.S.C. 951 et seq.), or chapter 705 of title 46;
+    (B) an offense under section 924(c), 956(a), or 2332b of this title;
+    (C) an offense listed in section 2332b(g)(5)(B) of title 18 , United States Code, for which a maximum term of imprisonment of 10 years or more is prescribed;
+    (D) an offense under chapter 77 of this title for which a maximum term of imprisonment of 20 years or more is prescribed; or
+    (E) an offense involving a minor victim under section 1201, 1591, 2241, 2242, 2244(a)(1), 2245, 2251, 2251A, 2252(a)(1), 2252(a)(2), 2252(a)(3), 2252A(a)(1), 2252A(a)(2), 2252A(a)(3), 2252A(a)(4), 2260, 2421, 2422, 2423, or 2425 of this title.
+(f) The judicial officer shall hold a hearing to determine whether any condition or combination of conditions set forth in subsection (c) of this section will reasonably assure the appearance of such person as required and the safety of any other person and the community—
+  (1) upon motion of the attorney for the Government, in a case that involves—
+    (A) a crime of violence, a violation of section 1591, or an offense listed in section 2332b(g)(5)(B) for which a maximum term of imprisonment of 10 years or more is prescribed;
+    (B) an offense for which the maximum sentence is life imprisonment or death;
+    (C) an offense for which a maximum term of imprisonment of ten years or more is prescribed in the Controlled Substances Act ( 21 U.S.C. 801 et seq.), the Controlled Substances Import and Export Act ( 21 U.S.C. 951 et seq.), or chapter 705 of title 46;
+    (D) any felony if such person has been convicted of two or more offenses described in subparagraphs (A) through (C) of this paragraph, or two or more State or local offenses that would have been offenses described in subparagraphs (A) through (C) of this paragraph if a circumstance giving rise to Federal jurisdiction had existed, or a combination of such offenses; or
+    (E) any felony that is not otherwise a crime of violence that involves a minor victim or that involves the possession or use of a firearm or destructive device (as those terms are defined in section 921), or any other dangerous weapon, or involves a failure to register under section 2250 of title 18 , United States Code; or
+  (2) upon motion of the attorney for the Government or upon the judicial officer’s own motion in a case, that involves—
+    (A) a serious risk that such person will flee; or
+    (B) a serious risk that such person will obstruct or attempt to obstruct justice, or threaten, injure, or intimidate, or attempt to threaten, injure, or intimidate, a prospective witness or juror.
+(g) The judicial officer shall, in determining whether there are conditions of release that will reasonably assure the appearance of the person as required and the safety of any other person and the community, take into account the available information concerning—
+  (1) the nature and circumstances of the offense charged, including whether the offense is a crime of violence, a violation of section 1591, a Federal crime of terrorism, or involves a minor victim or a controlled substance, firearm, explosive, or destructive device;
+  (2) the weight of the evidence against the person;
+  (3) the history and characteristics of the person, including—
+    (A) the person’s character, physical and mental condition, family ties, employment, financial resources, length of residence in the community, community ties, past conduct, history relating to drug or alcohol abuse, criminal history, and record concerning appearance at court proceedings; and
+    (B) whether, at the time of the current offense or arrest, the person was on probation, on parole, or on other release pending trial, sentencing, appeal, or completion of sentence for an offense under Federal, State, or local law; and
+  (4) the nature and seriousness of the danger to any person or the community that would be posed by the person’s release. In considering the conditions of release described in subsection (c)(1)(B)(xi) or (c)(1)(B)(xii) of this section, the judicial officer may upon his own motion, or shall upon the motion of the Government, conduct an inquiry into the source of the property to be designated for potential forfeiture or offered as collateral to secure a bond, and shall decline to accept the designation, or the use as collateral, of property that, because of its source, will not reasonably assure the appearance of the person as required.
+(h) In a release order issued under subsection (b) or (c) of this section, the judicial officer shall—
+  (1) include a written statement that sets forth all the conditions to which the release is subject, in a manner sufficiently clear and specific to serve as a guide for the person’s conduct; and
+  (2) advise the person of—
+    (A) the penalties for violating a condition of release, including the penalties for committing an offense while on pretrial release;
+    (B) the consequences of violating a condition of release, including the immediate issuance of a warrant for the person’s arrest; and
+    (C) sections 1503 of this title (relating to intimidation of witnesses, jurors, and officers of the court), 1510 (relating to obstruction of criminal investigations), 1512 (tampering with a witness, victim, or an informant), and 1513 (retaliating against a witness, victim, or an informant).
+(i) In a detention order issued under subsection (e) of this section, the judicial officer shall—
+  (1) include written findings of fact and a written statement of the reasons for the detention;
+  (2) direct that the person be committed to the custody of the Attorney General for confinement in a corrections facility separate, to the extent practicable, from persons awaiting or serving sentences or being held in custody pending appeal;
+  (3) direct that the person be afforded reasonable opportunity for private consultation with counsel; and
+  (4) direct that, on order of a court of the United States or on request of an attorney for the Government, the person in charge of the corrections facility in which the person is confined deliver the person to a United States marshal for the purpose of an appearance in connection with a court proceeding.
+(j) Nothing in this section shall be construed as modifying or limiting the presumption of innocence.

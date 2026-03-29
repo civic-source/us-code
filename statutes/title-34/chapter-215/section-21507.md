@@ -1,0 +1,23 @@
+---
+title: "Section 21507 - Implementation plan"
+usc_title: 34
+usc_section: "21507"
+chapter: 215
+current_through: "PL 119-73"
+classification: "34 U.S.C. § 21507"
+generated_at: "2026-03-29T00:32:01.669Z"
+---
+
+# § 21507. Implementation plan
+
+(a) Not later than 90 days after February 8, 2016 , the Secretary of Homeland Security, the Secretary of State, and the Attorney General shall develop a process by which to implement section 21503(e)(5) of this title and the provisions of section 212b of title 22 .
+(b) Not later than 90 days after February 8, 2016 , the Secretary of Homeland Security, the Secretary of State, and the Attorney General shall jointly submit a report to, and shall consult with, the appropriate congressional committees on the process developed under subsection (a), which shall include a description of the proposed process and a timeline and plan for implementation of that process, and shall identify the resources required to effectively implement that process.
+(c) In this section, the term “appropriate congressional committees” means—
+  (1) the Committee on Foreign Relations of the Senate;
+  (2) the Committee on Foreign Affairs of the House of Representatives;
+  (3) the Committee on Homeland Security and Governmental Affairs of the Senate;
+  (4) the Committee on Homeland Security of the House of Representatives;
+  (5) the Committee on the Judiciary of the Senate;
+  (6) the Committee on the Judiciary of the House of Representatives;
+  (7) the Committee on Appropriations of the Senate; and
+  (8) the Committee on Appropriations of the House of Representatives.

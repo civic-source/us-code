@@ -1,0 +1,14 @@
+---
+title: "Section 3122 - Banks and trust companies as depositaries"
+usc_title: 31
+usc_section: "3122"
+chapter: 31
+current_through: "PL 119-73"
+classification: "31 U.S.C. § 3122"
+generated_at: "2026-03-29T00:31:52.603Z"
+---
+
+# § 3122. Banks and trust companies as depositaries
+
+(a) The Secretary of the Treasury may designate incorporated banks and trust companies as depositaries for any part of proceeds of an obligation issued under this chapter. The Secretary may prescribe the conditions under which deposits may be made under this section, including the interest rate on amounts deposited and security requirements.
+(b) The Secretary may designate a bank or trust company that is a depositary under subsection (a) of this section as a fiscal agent of the United States Government in selling and delivering bonds and certificates of indebtedness issued by the Government.

@@ -1,0 +1,14 @@
+---
+title: "Section 11172 - Grants for technical assistance"
+usc_title: 34
+usc_section: "11172"
+chapter: 111
+current_through: "PL 119-73"
+classification: "34 U.S.C. § 11172"
+generated_at: "2026-03-29T00:32:01.600Z"
+---
+
+# § 11172. Grants for technical assistance
+
+The Administrator may make grants to and contracts with public and private agencies, organizations, and individuals to provide technical assistance to States, units of general local government, Indian tribal governments, local private entities or agencies, or any combination thereof, to carry out the projects for which grants are made under section 11171 of this title .
+

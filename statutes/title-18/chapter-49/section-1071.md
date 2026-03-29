@@ -1,0 +1,14 @@
+---
+title: "Section 1071 - Concealing person from arrest"
+usc_title: 18
+usc_section: "1071"
+chapter: 49
+current_through: "PL 119-73"
+classification: "18 U.S.C. § 1071"
+generated_at: "2026-03-29T00:30:15.659Z"
+---
+
+# § 1071. Concealing person from arrest
+
+Whoever harbors or conceals any person for whose arrest a warrant or process has been issued under the provisions of any law of the United States, so as to prevent his discovery and arrest, after notice or knowledge of the fact that a warrant or process has been issued for the apprehension of such person, shall be fined under this title or imprisoned not more than one year, or both; except that if the warrant or process issued on a charge of felony, or after conviction of such person of any offense, the punishment shall be a fine under this title, or imprisonment for not more than five years, or both.
+

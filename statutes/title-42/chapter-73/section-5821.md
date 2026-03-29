@@ -1,0 +1,37 @@
+---
+title: "Section 5821 - Annual authorization Acts"
+usc_title: 42
+usc_section: "5821"
+chapter: 73
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 5821"
+generated_at: "2026-03-29T00:32:53.934Z"
+---
+
+# § 5821. Annual authorization Acts
+
+(a) All appropriations made to the Energy Research and Development Administration or the Administrator shall, except as otherwise provided by law, be subject to annual authorization in accordance with section 2017 of this title , section 5915 of this title , and section 5875 of this title . The provisions of this section shall apply with respect to appropriations made pursuant to the Act providing such authorization (hereinafter in this section referred to as “annual authorization Acts”).
+(b) 
+  (1) Funds appropriated pursuant to an annual authorization Act for “Operating expenses” may be used for—
+    (A) the construction or acquisition of any facilities, or major items of equipment, which may be required at locations other than installations of the Administration, for the performance of research, development, and demonstration activities, and
+    (B) grants to any organization for purchase or construction of research facilities.
+  (2) No funds shall be used under paragraph (1) for any facility or major item of equipment, including collateral equipment, if the estimated cost to the Federal Government exceeds $5,000,000 in the case of such a facility or $2,000,000 in the case of such an item of equipment, unless such facility or item has been previously authorized by the appropriate committees of the House of Representatives and the Senate, or the Administrator—
+    (A) transmit to the appropriate committees of the House of Representatives and the Senate a report on such facility or item showing its nature, purpose, and estimated cost, and
+    (B) waits a period of thirty calendar days (not including any day in which either House of Congress is not in session because of adjournment of more than three calendar days to a day certain), unless prior to the expiration of such period each such committee has transmitted to the Administrator written notice to the effect that such committee has no objection to the proposed action.
+(c) 
+  (1) Not to exceed 1 per centum of all funds appropriated pursuant to any annual authorization Act for “Operating expenses” may be used by the Administrator to construct, expand, or modify laboratories and other facilities, including the acquisition of land, at any location under the control of the Administrator, if the Administrator determines that (A) such action would be necessary because of changes in the national programs authorized to be funded by such Act or because of new scientific or engineering developments, and (B) deferral of such action until the enactment of the next authorization Act would be inconsistent with the policies established by Congress for the Administration.
+  (2) No funds may be obligated for expenditure or expended under paragraph (1) for activities described in such paragraph unless—
+    (A) a period of thirty calendar days (not including any day in which either House of Congress is not in session because of adjournment of more than three calendar days to a day certain) has passed after the Administrator has transmitted to the appropriate committees of the House of Representatives and the Senate a written report containing a full and complete statement concerning (i) the nature of the construction, expansion, or modification involved, (ii) the cost thereof, including the cost of any real estate action pertaining thereto, and (iii) the reason why such construction, expansion, or modification is necessary and in the national interest, or
+    (B) each such committee before the expiration of such period has transmitted to the Administrator a written notice to the effect that such committee has no objection to the proposed action;
+(d) 
+  (1) Except as otherwise provided in the authorization Act involved—
+    (A) no amount appropriated pursuant to any annual authorization Act may be used for any program in excess of the amount actually authorized for that particular program by such Act, and
+    (B) no amount appropriated pursuant to any annual authorization Act may be used for any program which has not been presented to, or requested of the Congress,
+  (2) Notwithstanding any other provision of this section or the authorization Act involved, the aggregate amount available for use within the categories of coal, petroleum and natural gas, oil shale, solar, geothermal, nuclear energy (non-weapons), environment and safety, and conservation from sums appropriated pursuant to an annual authorization Act may not, as a result of reprograming, be decreased by more than 10 per centum of the total of the sums appropriated pursuant to such Act for those categories.
+(e) Subject to the applicable requirements and limitations of this section and the authorization Act involved, when so specified in an appropriation Act, amounts appropriated pursuant to any annual authorization Act for “Operating expenses” or for “Plant and capital equipment” may be merged with any other amounts appropriated for like purposes pursuant to any other Act authorizing appropriations for the Administration: Provided , That no such amounts appropriated for “Plant and capital equipment” may be merged with amounts appropriated for “Operating expenses”.
+(f) When so specified in an appropriation Act, amounts appropriated pursuant to any annual authorization Act for “Operating expenses” or for “Plant and capital equipment” may remain available until expended.
+(g) The Administrator is authorized to perform construction design services for any administration construction project whenever (1) such construction project has been included in a proposed authorization bill transmitted to the Congress by the Administration, and (2) the Administration determines that the project is of such urgency in order to meet the needs of national defense or protection of life and property or health and safety that construction of the project should be initiated promptly upon enactment of legislation appropriating funds for its construction.
+(h) When so specified in appropriation Acts, any moneys received by the Administration may be retained and used for operating expenses, and may remain available until expended, notwithstanding the provisions of section 3302(b) of title 31 ; except that—
+  (1) this subsection shall not apply with respect to sums received from disposal of property under the Atomic Energy Community Act of 1955 [ 42 U.S.C. 2301 et seq.] or the Strategic and Critical Materials Stockpiling Act, as amended [ 50 U.S.C. 98 et seq.], or with respect to fees received for tests or investigations under the Act of May 16, 1910 , as amended ( 30 U.S.C. 7 ); and
+  (2) revenues received by the Administration from the enrichment of uranium shall (when so specified) be retained and used for the specific purpose of offsetting costs incurred by the Administration in providing uranium enrichment service activities.
+(i) When so specified in an appropriation Act, transfers of sums from the “Operating expenses” appropriation made pursuant to an annual authorization Act may be made to other agencies of the Government for the performance of the work for which the appropriation is made, and in such cases the sums so transferred may be merged with the appropriations to which they are transferred.

@@ -1,0 +1,14 @@
+---
+title: "Section 53409 - Special rule regarding age of participating Fleet vessels"
+usc_title: 46
+usc_section: "53409"
+chapter: 534
+current_through: "PL 119-73"
+classification: "46 U.S.C. § 53409"
+generated_at: "2026-03-29T00:33:02.936Z"
+---
+
+# § 53409. Special rule regarding age of participating Fleet vessels
+
+Any age restriction under section 53402(b)(4) of this title shall not apply to a participating Fleet vessel during the 30-month period beginning on the date the vessel begins operating under an operating agreement under this chapter, if the Secretary determines that the program participant for the vessel has entered into an arrangement to obtain and operate under the operating agreement for the participating Fleet vessel a replacement vessel that, upon commencement of such operation, will be eligible to be included in the Fleet under section 53402(b) of this title .
+

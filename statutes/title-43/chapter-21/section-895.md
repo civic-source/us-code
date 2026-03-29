@@ -1,0 +1,14 @@
+---
+title: "Section 895 - Cancellation of patents erroneously issued; reconveyance"
+usc_title: 43
+usc_section: "895"
+chapter: 21
+current_through: "PL 119-73"
+classification: "43 U.S.C. § 895"
+generated_at: "2026-03-29T00:32:57.389Z"
+---
+
+# § 895. Cancellation of patents erroneously issued; reconveyance
+
+If it shall appear, upon the completion of such adjustments, respectively, or sooner, that lands were, from any cause, prior to March 3, 1887 , erroneously certified or patented, by the United States, to or for the use or benefit of any company claiming by, through, or under grant from the United States, to aid in the construction of a railroad, it shall be the duty of the Secretary of the Interior to thereupon demand from such company a relinquishment or reconveyance to the United States of all such lands, whether within granted or indemnity limits; and if such company shall neglect or fail to so reconvey such lands to the United States within ninety days after the aforesaid demand shall have been made, it shall thereupon be the duty of the Attorney General to commence and prosecute in the proper courts the necessary proceedings to cancel all patents, certification, or other evidence of title prior to March 3, 1887 , issued for such lands, and to restore the title thereof to the United States.
+

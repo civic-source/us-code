@@ -1,0 +1,31 @@
+---
+title: "Section 40125 - Qualifications for public aircraft status"
+usc_title: 49
+usc_section: "40125"
+chapter: 401
+current_through: "PL 119-73"
+classification: "49 U.S.C. § 40125"
+generated_at: "2026-03-29T00:33:13.867Z"
+---
+
+# § 40125. Qualifications for public aircraft status
+
+(a) In this section, the following definitions apply:
+  (1) The term “commercial purposes” means the transportation of persons or property for compensation or hire, but does not include the operation of an aircraft by the armed forces for reimbursement when that reimbursement is required by any Federal statute, regulation, or directive, in effect on November 1, 1999 , or by one government on behalf of another government under a cost reimbursement agreement if the government on whose behalf the operation is conducted certifies to the Administrator of the Federal Aviation Administration that the operation is necessary to respond to a significant and imminent threat to life or property (including natural resources) and that no service by a private operator is reasonably available to meet the threat.
+  (2) The term “governmental function” means an activity undertaken by a government, such as national defense, intelligence missions, firefighting, search and rescue, law enforcement (including transport of prisoners, detainees, and illegal aliens), aeronautical research, biological or geological resource management (including data collection on civil aviation systems undergoing research, development, test, or evaluation at a test range (as such term is defined in section 44801)), infrastructure inspections, or any other activity undertaken by a governmental entity that the Administrator determines is inherently governmental.
+  (3) The term “qualified non-crewmember” means an individual, other than a member of the crew, aboard an aircraft—
+    (A) operated by the armed forces or an intelligence agency of the United States Government; or
+    (B) whose presence is required to perform, or is associated with the performance of, a governmental function.
+  (4) The term “armed forces” has the meaning given such term by section 101 of title 10 .
+(b) An aircraft described in subparagraph (A), (B), (C), (D), or (F) of section 40102(a)(41) does not qualify as a public aircraft under such section when the aircraft is used for commercial purposes or to carry an individual other than a crewmember or a qualified non-crewmember.
+(c) 
+  (1) Subject to paragraph (2), an aircraft described in section 40102(a)(41)(E) qualifies as a public aircraft if—
+    (A) the aircraft is operated in accordance with title 10;
+    (B) the aircraft is operated in the performance of a governmental function under title 14, 31, 32, or 50 and the aircraft is not used for commercial purposes; or
+    (C) the aircraft is chartered to provide transportation or other commercial air service to the armed forces and the Secretary of Defense (or the Secretary of the department in which the Coast Guard is operating) designates the operation of the aircraft as being required in the national interest.
+  (2) An aircraft that meets the criteria set forth in paragraph (1) and that is owned or operated by the National Guard of a State, the District of Columbia, or any territory or possession of the United States, qualifies as a public aircraft only to the extent that it is operated under the direct control of the Department of Defense.
+(d) An aircraft described in section 40102(a)(41)(D) that is not exclusively leased for at least 90 continuous days by the government of a State, the District of Columbia, or a territory or possession of the United States or a political subdivision of 1 of those governments, qualifies as a public aircraft if the Administrator determines that—
+  (1) there are extraordinary circumstances;
+  (2) the aircraft will be used for the performance of search and rescue missions;
+  (3) a community would not otherwise have access to search and rescue services; and
+  (4) a government entity demonstrates that granting the waiver is necessary to prevent an undue economic burden on that government.

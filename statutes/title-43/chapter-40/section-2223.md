@@ -1,0 +1,26 @@
+---
+title: "Section 2223 - Plan elements"
+usc_title: 43
+usc_section: "2223"
+chapter: 40
+current_through: "PL 119-73"
+classification: "43 U.S.C. § 2223"
+generated_at: "2026-03-29T00:32:57.460Z"
+---
+
+# § 2223. Plan elements
+
+(a) Elements of the contingency plans prepared pursuant to section 2222 of this title may include, but are not limited to, any or all of the following:
+  (1) Water banks.
+  (2) Appropriate water conservation actions.
+  (3) Water transfers to serve users inside or outside authorized Federal Reclamation project service areas in order to mitigate the effects of drought.
+  (4) Use of Federal Reclamation project facilities to store and convey nonproject water for agricultural, municipal and industrial, fish and wildlife, or other uses both inside and outside an authorized Federal Reclamation project service area.
+  (5) Use of water from dead or inactive reservoir storage or increased use of ground water resources for temporary water supplies.
+  (6) Water supplies for fish and wildlife resources.
+  (7) Minor structural actions.
+(b) Each contingency plan shall identify the following two types of plan elements related to Federal Reclamation projects:
+  (1) Those plan elements which pertain exclusively to the responsibilities and obligations of the Secretary pursuant to Federal Reclamation law and the responsibilities and obligations of the Secretary for a specific Federal Reclamation project.
+  (2) Those plan elements that pertain to projects, purposes, or activities not constructed, financed, or otherwise governed by the Federal Reclamation law.
+(c) The Secretary is authorized to work with other Federal and State agencies to improve hydrologic data collection systems and water supply forecasting techniques to provide more accurate and timely warning of potential drought conditions and drought levels that would trigger the implementation of contingency plans.
+(d) The contingency plans and plan elements shall comply with all requirements of applicable Federal law, including the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 ), section 2265(a) of title 33 , and the Fish and Wildlife Coordination Act [ 16 U.S.C. 661 et seq.], and shall be in accordance with applicable State law.
+(e) The contingency plans shall include provisions for periodic review to assure the adequacy of the contingency plan to respond to current conditions, and such plans may be modified accordingly.

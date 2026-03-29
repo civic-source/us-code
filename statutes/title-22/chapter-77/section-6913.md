@@ -1,0 +1,22 @@
+---
+title: "Section 6913 - Membership of the Commission"
+usc_title: 22
+usc_section: "6913"
+chapter: 77
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 6913"
+generated_at: "2026-03-29T00:30:33.978Z"
+---
+
+# § 6913. Membership of the Commission
+
+(a) The Commission shall be composed of 23 members as follows:
+  (1) Nine Members of the House of Representatives appointed by the Speaker of the House of Representatives. Five members shall be selected from the majority party and four members shall be selected, after consultation with the minority leader of the House, from the minority party.
+  (2) Nine Members of the Senate appointed by the President of the Senate. Five members shall be selected, after consultation with the majority leader of the Senate, from the majority party, and four members shall be selected, after consultation with the minority leader of the Senate, from the minority party.
+  (3) One representative of the Department of State, appointed by the President of the United States from among officers and employees of that Department.
+  (4) One representative of the Department of Commerce, appointed by the President of the United States from among officers and employees of that Department.
+  (5) One representative of the Department of Labor, appointed by the President of the United States from among officers and employees of that Department.
+  (6) Two at-large representatives, appointed by the President of the United States, from among the officers and employees of the executive branch.
+(b) 
+  (1) At the beginning of each odd-numbered Congress, the President of the Senate, on the recommendation of the majority leader, shall designate one of the members of the Commission from the Senate as Chairman of the Commission. At the beginning of each even-numbered Congress, the Speaker of the House of Representatives shall designate one of the members of the Commission from the House as Chairman of the Commission.
+  (2) At the beginning of each odd-numbered Congress, the Speaker of the House of Representatives shall designate one of the members of the Commission from the House as Cochairman of the Commission. At the beginning of each even-numbered Congress, the President of the Senate, on the recommendation of the majority leader, shall designate one of the members of the Commission from the Senate as Cochairman of the Commission.

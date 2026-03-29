@@ -1,0 +1,24 @@
+---
+title: "Section 1727a - Eligible countries"
+usc_title: 7
+usc_section: "1727a"
+chapter: 41
+current_through: "PL 119-73"
+classification: "7 U.S.C. § 1727a"
+generated_at: "2026-03-29T00:28:58.046Z"
+---
+
+# § 1727a. Eligible countries
+
+(a) A country shall be considered to be a least developed country and eligible for the donation of agricultural commodities under this subchapter if—
+  (1) such country meets the poverty criteria established by the International Bank for Reconstruction and Development for Civil Works Preference for providing financial assistance; or
+  (2) such country is a food deficit country and is characterized by high levels of malnutrition among significant numbers of its population, as determined by the Administrator under subsection (b).
+(b) To make a finding under subsection (a)(2) that a country is a food deficit country and is characterized by high levels of malnutrition, the Administrator must determine that the country meets all of the following indicators of national food deficit and malnutrition:
+  (1) That the daily per capita calorie consumption of the country is less than 2300 calories.
+  (2) That the country cannot meet its food security requirements through domestic production or imports due to a shortage of foreign exchange earnings.
+  (3) That the mortality rate of children under 5 years of age in the country is in excess of 100 per 1000 births.
+(c) In determining whether and to what extent agricultural commodities shall be made available to least developed countries under this subchapter, the Administrator shall give priority to countries that—
+  (1) demonstrate the greatest need for food;
+  (2) demonstrate the capacity to use food assistance effectively;
+  (3) have demonstrated a commitment to policies to promote food security, including policies to reduce measurably hunger and malnutrition through efforts such as establishing and institutionalizing supplemental nutrition programs targeted to reach those who are nutritionally at risk; and
+  (4) have a long-term plan for broad-based, equitable, and sustainable development.

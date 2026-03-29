@@ -1,0 +1,24 @@
+---
+title: "Section 4747 - Reimbursement by Fund"
+usc_title: 12
+usc_section: "4747"
+chapter: 47
+current_through: "PL 119-73"
+classification: "12 U.S.C. § 4747"
+generated_at: "2026-03-29T00:29:16.863Z"
+---
+
+# § 4747. Reimbursement by Fund
+
+(a) Not later than 30 calendar days after receiving a report filed in compliance with section 4746 of this title , the Fund shall reimburse the participating State in an amount equal to 50 percent of the amount of contributions by the participating State to the reserve funds that are subject to reimbursement by the Fund pursuant to section 4746 of this title and this section. The Fund shall reimburse participating States, as it receives reports pursuant to section 4746(a) of this title , until available funds are expended.
+(b) The Fund shall not provide any reimbursement to a participating State with respect to an enrolled loan made to a borrower that has 500 or more employees at the time that the loan is enrolled in the Program.
+(c) The amount of reimbursement to be provided by the Fund to a participating State over any 3-year period in connection with loans made to any single borrower or any group of borrowers among which a common enterprise exists shall not exceed $75,000. For purposes of this subsection, “common enterprise” shall have the same meaning as in part 32 of title 12 of the Code of Federal Regulations, or any successor to that part.
+(d) In connection with a loan in which the covered amount of the loan plus the covered amount of all previous loans enrolled by a participating financial institution does not exceed $2,000,000, the amount of reimbursement by the Fund to the participating State shall not exceed the lesser of—
+  (1) 75 percent of the sum of the premium charges paid to the reserve fund by the borrower and the participating financial institution; or
+  (2) 5.25 percent of the covered amount of the loan.
+(e) In connection with a loan in which the sum of the covered amounts of all previous loans enrolled by the participating financial institution in the Program equals or exceeds $2,000,000, the amount of reimbursement to be provided by the Fund to the participating State shall not exceed the lesser of—
+  (1) 50 percent of the sum of the premium charges paid by the borrower and the participating financial institution; or
+  (2) 3.5 percent of the covered amount of the loan.
+(f) In connection with the enrollment of a loan that will cause the aggregate covered amount of all enrolled loans to exceed $2,000,000, the amount of reimbursement by the Fund to the participating State shall be determined—
+  (1) by applying subsection (d) to the portion of the loan, which when added to the aggregate covered amount of all previously enrolled loans equals $2,000,000; and
+  (2) by applying subsection (e) to the balance of the loan.

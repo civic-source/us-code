@@ -1,0 +1,19 @@
+---
+title: "Section 2017 - Authorization of appropriations"
+usc_title: 42
+usc_section: "2017"
+chapter: 23
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 2017"
+generated_at: "2026-03-29T00:32:53.736Z"
+---
+
+# § 2017. Authorization of appropriations
+
+(a) No appropriation shall be made to the Commission, nor shall the Commission waive charges for the use of materials under the Cooperative Power Reactor Demonstration Program, unless previously authorized by legislation enacted by the Congress.
+(b) Any Act appropriating funds to the Commission may appropriate specified portions thereof to be accounted for upon the certification of the Commission only.
+(c) Notwithstanding the provisions of subsection (a), funds are hereby authorized to be appropriated for the restoration or replacement of any plant or facility destroyed or otherwise seriously damaged, and the Commission is authorized to use available funds for such purposes.
+(d) Funds authorized to be appropriated for any construction project to be used in connection with the development or production of special nuclear material or atomic weapons may be used to start another construction project not otherwise authorized if the substituted construction project is within the limit of cost of the construction project for which substitution is to be made, and the Commission certifies that—
+  (1) the substituted project is essential to the common defense and security;
+  (2) the substituted project is required by changes in weapon characteristics or weapon logistic operations; and
+  (3) the Commission is unable to enter into a contract with any person on terms satisfactory to it to furnish from a privately owned plant or facility the product or services to be provided by the new project.

@@ -1,0 +1,19 @@
+---
+title: "Section 20107 - Definitions"
+usc_title: 52
+usc_section: "20107"
+chapter: 201
+current_through: "PL 119-73"
+classification: "52 U.S.C. § 20107"
+generated_at: "2026-03-29T00:33:20.193Z"
+---
+
+# § 20107. Definitions
+
+As used in this chapter, the term—
+
+  (1) “accessible” means accessible to handicapped and elderly individuals for the purpose of voting or registration, as determined under guidelines established by the chief election officer of the State involved;
+  (2) “elderly” means 65 years of age or older;
+  (3) “Federal election” means a general, special, primary, or runoff election for the office of President or Vice President, or of Senator or Representative in, or Delegate or Resident Commissioner to, the Congress;
+  (4) “handicapped” means having a temporary or permanent physical disability; and
+  (5) “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possesssion 1 1 So in original. Probably should be “possession”. of the United States.

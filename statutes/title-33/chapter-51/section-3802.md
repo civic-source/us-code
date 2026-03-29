@@ -1,0 +1,27 @@
+---
+title: "Section 3802 - Covered vessels"
+usc_title: 33
+usc_section: "3802"
+chapter: 51
+current_through: "PL 119-73"
+classification: "33 U.S.C. § 3802"
+generated_at: "2026-03-29T00:31:57.469Z"
+---
+
+# § 3802. Covered vessels
+
+(a) Except as provided in subsection (b), after the Convention enters into force for the United States, the following vessels are subject to the requirements of this chapter:
+  (1) A vessel documented under chapter 121 of title 46 or one operated under the authority of the United States, wherever located.
+  (2) Any vessel permitted by a Federal agency to operate on the Outer Continental Shelf.
+  (3) Any other vessel when—
+    (A) in the internal waters of the United States;
+    (B) in any port, shipyard, offshore terminal, or other place in the United States;
+    (C) lightering in the territorial sea; or
+    (D) to the extent consistent with international law, anchoring in the territorial sea of the United States.
+(b) 
+  (1) The following vessels are not subject to the requirements of this chapter:
+    (A) Any warship, naval auxiliary, or other vessel owned or operated by a foreign state, and used, for the time being, only on government noncommercial service.
+    (B) Except as provided in paragraph (2), any warship, naval auxiliary, or other vessel owned or operated by the United States and used for the time being only on government noncommercial service.
+  (2) 
+    (A) The Administrator may apply any requirement of this chapter to one or more classes of vessels described in paragraph (1)(B), if the head of the Federal department or agency under which those vessels operate concurs in that application.
+    (B) Subparagraph (A) shall not apply to combat-related vessels.

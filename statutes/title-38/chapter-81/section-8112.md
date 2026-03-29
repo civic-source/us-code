@@ -1,0 +1,14 @@
+---
+title: "Section 8112 - Partial relinquishment of legislative jurisdiction"
+usc_title: 38
+usc_section: "8112"
+chapter: 81
+current_through: "PL 119-73"
+classification: "38 U.S.C. § 8112"
+generated_at: "2026-03-29T00:32:17.355Z"
+---
+
+# § 8112. Partial relinquishment of legislative jurisdiction
+
+The Secretary, on behalf of the United States, may relinquish to the State in which any lands or interests therein under the supervision or control of the Secretary are situated, such measure of legislative jurisdiction over such lands or interests as is necessary to establish concurrent jurisdiction between the Federal Government and the State concerned. Such partial relinquishment of legislative jurisdiction shall be initiated by filing a notice thereof with the Governor of the State concerned, or in such other manner as may be prescribed by the laws of such State, and shall take effect upon acceptance by such State.
+

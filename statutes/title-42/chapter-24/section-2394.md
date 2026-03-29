@@ -1,0 +1,14 @@
+---
+title: "Section 2394 - Contract to make payments"
+usc_title: 42
+usc_section: "2394"
+chapter: 24
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 2394"
+generated_at: "2026-03-29T00:32:53.785Z"
+---
+
+# § 2394. Contract to make payments
+
+The Administrator is authorized, without regard to sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15 of title 31, to enter into a contract with any governmental or other entity to which payments are authorized to be made pursuant to section 2391 of this title , obligating the Administrator to make to such entity the payments directed or authorized to be made by section 2391 of this title : Provided, however , That the term of such contracts, in the case of the cities of Oak Ridge, Tennessee, and Richland, Washington, and the Richland School District, shall not extend beyond June 30, 1979 ; and in the case of the Los Alamos School Board shall not extend beyond June 30, 1997 ; and in the case of the county of Los Alamos, New Mexico, shall not extend beyond June 30, 1997 . The authority to enter into a contract under the preceding sentence with the Los Alamos School Board and with the county of Los Alamos, New Mexico, shall be effective with respect to a period before July 1, 1997 , only to the extent or in such amounts as are provided in appropriation Acts.
+

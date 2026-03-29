@@ -1,0 +1,14 @@
+---
+title: "Section 1010 - Land conservation and land utilization"
+usc_title: 7
+usc_section: "1010"
+chapter: 33
+current_through: "PL 119-73"
+classification: "7 U.S.C. § 1010"
+generated_at: "2026-03-29T00:28:57.970Z"
+---
+
+# § 1010. Land conservation and land utilization
+
+The Secretary is authorized and directed to develop a program of land conservation and land utilization, in order thereby to correct maladjustments in land use, and thus assist in controlling soil erosion, reforestation, preserving natural resources, protecting fish and wildlife, developing and protecting recreational facilities, mitigating floods, preventing impairment of dams and reservoirs, developing energy resources, conserving surface and subsurface moisture, protecting the watersheds of navigable streams, and protecting the public lands, health, safety, and welfare, but not to build industrial parks or establish private industrial or commercial enterprises.
+

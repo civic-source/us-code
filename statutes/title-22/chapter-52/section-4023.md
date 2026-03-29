@@ -1,0 +1,17 @@
+---
+title: "Section 4023 - Career development program"
+usc_title: 22
+usc_section: "4023"
+chapter: 52
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 4023"
+generated_at: "2026-03-29T00:30:33.900Z"
+---
+
+# § 4023. Career development program
+
+(a) The Secretary shall establish a professional development program to assure that members of the Service obtain the skills and knowledge required at the various stages of their careers. With regard to Foreign Service officers, primary attention shall be given to training for career candidate officers and for midcareer officers, both after achieving tenure and as they approach eligibility for entry to the Senior Foreign Service, to enhance and broaden their qualifications for more senior levels of responsibility in the Service. Training for other members of the Service shall emphasize programs designed to enhance their particular skills and expert knowledge, including development of the management skills appropriate to their occupational categories.
+(b) Junior Foreign Service officer training shall be directed primarily toward providing expert knowledge in the basic functions of analysis and reporting as well as in consular, administrative, and linguistic skills relevant to the full range of future job assignments. Midcareer training shall be directed primarily toward development and perfection of management, functional, negotiating, and policy development skills to prepare the officers progressively for more senior levels of responsibility.
+(c) At each stage the program of professional development should be designed to provide members of the Service with the opportunity to acquire skills and knowledge relevant to clearly established professional standards of expected performance. Career candidates should satisfactorily complete candidate training prior to attainment of career status. Members of the Service should satisfactorily complete midcareer training before appointment to the Senior Foreign Service.
+(d) In formulating programs under this section, the Secretary should establish a system to provide, insofar as possible, credit toward university degrees for successful completion of courses comparable to graduate-level, university courses.
+(e) Training provided under this section shall be conducted by the Department and by other governmental and nongovernmental institutions as the Secretary may consider appropriate.

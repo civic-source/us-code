@@ -1,0 +1,14 @@
+---
+title: "Section 2620 - Procedural rights of persons subject to plan"
+usc_title: 7
+usc_section: "2620"
+chapter: 58
+current_through: "PL 119-73"
+classification: "7 U.S.C. § 2620"
+generated_at: "2026-03-29T00:28:58.147Z"
+---
+
+# § 2620. Procedural rights of persons subject to plan
+
+(a) Any person subject to a plan may file a written petition with the Secretary, stating that such plan or any provision of such plan or any obligation imposed in connection therewith is not in accordance with law and praying for a modification thereof or to be exempted therefrom. He shall thereupon be given an opportunity for a hearing upon such petition, in accordance with regulations made by the Secretary. After such hearing, the Secretary shall make a ruling upon the prayer of such petition which shall be final, if in accordance with law.
+(b) The district courts of the United States in any district in which such person is an inhabitant, or has his principal place of business, are hereby vested with jurisdiction to review such ruling: Provided , That a complaint for that purpose is filed within twenty days from the date of the entry of such ruling. Service of process in such proceedings may be had upon the Secretary by delivering to him a copy of the complaint. If the court determines that such ruling is not in accordance with law, it shall remand such proceedings to the Secretary with directions either (1) to make such ruling as the court shall determine to be in accordance with law, or (2) to take such further proceedings as, in its opinion, the law requires. The pendency of proceedings instituted pursuant to subsection (a) of this section shall not impede, hinder, or delay the United States or the Secretary from obtaining relief pursuant to section 2621(a) of this title .

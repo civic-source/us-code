@@ -1,0 +1,15 @@
+---
+title: "Section 1385 - Corrective action"
+usc_title: 33
+usc_section: "1385"
+chapter: 26
+current_through: "PL 119-73"
+classification: "33 U.S.C. § 1385"
+generated_at: "2026-03-29T00:31:57.374Z"
+---
+
+# § 1385. Corrective action
+
+(a) If the Administrator determines that a State has not complied with its agreement with the Administrator under section 1382 of this title or any other requirement of this subchapter, the Administrator shall notify the State of such noncompliance and the necessary corrective action.
+(b) If a State does not take corrective action within 60 days after the date a State receives notification of such action under subsection (a), the Administrator shall withhold additional payments to the State until the Administrator is satisfied that the State has taken the necessary corrective action.
+(c) If the Administrator is not satisfied that adequate corrective actions have been taken by the State within 12 months after the State is notified of such actions under subsection (a), the payments withheld from the State by the Administrator under subsection (b) shall be made available for reallotment in accordance with the most recent formula for allotment of funds under this subchapter.

@@ -1,0 +1,21 @@
+---
+title: "Section 4601 - Findings, purposes, and definitions"
+usc_title: 15
+usc_section: "4601"
+chapter: 72
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 4601"
+generated_at: "2026-03-29T00:29:41.861Z"
+---
+
+# § 4601. Findings, purposes, and definitions
+
+(a) The Congress finds that it is in the national economic and security interests of the United States for the Department of Defense to provide financial assistance to the industry consortium known as Sematech for research and development activities in the field of semiconductor manufacturing technology.
+(b) The purposes of this subchapter are—
+  (1) to encourage the semiconductor industry in the United States—
+    (A) to conduct research on advanced semiconductor manufacturing techniques; and
+    (B) to develop techniques to use manufacturing expertise for the manufacture of a variety of semiconductor products; and
+  (2) in order to achieve the purpose set out in paragraph (1), to provide a grant program for the financial support of semiconductor research activities conducted by Sematech.
+(c) In this subchapter:
+  (1) The terms “Semiconductor Technology Council” and “Council” mean the advisory council established by section 4603 of this title .
+  (2) The term “Sematech” means a consortium of firms in the United States semiconductor industry established for the purposes of (A) conducting research concerning advanced semiconductor manufacturing techniques, and (B) developing techniques to adapt manufacturing expertise to a variety of semiconductor products.

@@ -1,0 +1,66 @@
+---
+title: "Section 263 - Capital expenditures"
+usc_title: 26
+usc_section: "263"
+chapter: 1
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 263"
+generated_at: "2026-03-29T00:31:20.678Z"
+---
+
+# § 263. Capital expenditures
+
+(a) No deduction shall be allowed for—
+  (1) Any amount paid out for new buildings or for permanent improvements or betterments made to increase the value of any property or estate. This paragraph shall not apply to—
+    (A) expenditures for the development of mines or deposits deductible under section 616,
+    (B) research and experimental expenditures deductible under section 174 or 174A,
+    (C) soil and water conservation expenditures deductible under section 175,
+    (D) expenditures by farmers for fertilizer, etc., deductible under section 180,
+    (E) expenditures for removal of architectural and transportation barriers to the handicapped and elderly which the taxpayer elects to deduct under section 190,
+    (F) expenditures for tertiary injectants with respect to which a deduction is allowed under section 193,
+    (G) expenditures for which a deduction is allowed under section 179,
+    (H) expenditures for which a deduction is allowed under section 179B,
+    (I) expenditures for which a deduction is allowed under section 179C,
+    (J) expenditures for which a deduction is allowed under section 179D, or
+    (K) expenditures for which a deduction is allowed under section 179E.
+  (2) Any amount expended in restoring property or in making good the exhaustion thereof for which an allowance is or has been made.
+[(b) 
+(c) Notwithstanding subsection (a), and except as provided in subsection (i), regulations shall be prescribed by the Secretary under this subtitle corresponding to the regulations which granted the option to deduct as expenses intangible drilling and development costs in the case of oil and gas wells and which were recognized and approved by the Congress in House Concurrent Resolution 50, Seventy-ninth Congress. Such regulations shall also grant the option to deduct as expenses intangible drilling and development costs in the case of wells drilled for any geothermal deposit (as defined in section 613(e)(2)) to the same extent and in the same manner as such expenses are deductible in the case of oil and gas wells. This subsection shall not apply with respect to any costs to which any deduction is allowed under section 59(e) or 291.
+(d) In the case of expenditures in connection with the rehabilitation of a unit of railroad rolling stock (except a locomotive) used by a domestic common carrier by railroad which would, but for this subsection, be properly chargeable to capital account, such expenditures, if during any 12-month period they do not exceed an amount equal to 20 percent of the basis of such unit in the hands of the taxpayer, shall, at the election of the taxpayer, be treated (notwithstanding subsection (a)) as deductible repairs under section 162 or 212. An election under this subsection shall be made for any taxable year at such time and in such manner as the Secretary prescribes by regulations. An election may not be made under this subsection for any taxable year to which an election under subsection (e) applies to railroad rolling stock (other than locomotives).
+[(e) 
+(f) In the case of a domestic common carrier by rail (including a railroad switching or terminal company) which uses the retirement-replacement method of accounting for depreciation of its railroad track, expenditures for acquiring and installing replacement ties of any material (and fastenings related to such ties) shall be accorded the same tax accounting treatment as expenditures for replacement ties of wood (and fastenings related to such ties).
+(g) 
+  (1) No deduction shall be allowed for interest and carrying charges properly allocable to personal property which is part of a straddle (as defined in section 1092(c)). Any amount not allowed as a deduction by reason of the preceding sentence shall be chargeable to the capital account with respect to the personal property to which such amount relates.
+  (2) For purposes of paragraph (1), the term “interest and carrying charges” means the excess of—
+    (A) the sum of—
+      (i) interest on indebtedness incurred or continued to purchase or carry the personal property, and
+      (ii) all other amounts (including charges to insure, store, or transport the personal property) paid or incurred to carry the personal property, over
+    (B) the sum of—
+      (i) the amount of interest (including original issue discount) includible in gross income for the taxable year with respect to the property described in subparagraph (A),
+      (ii) any amount treated as ordinary income under section 1271(a)(3)(A), 1276, or 1281(a) with respect to such property for the taxable year,
+      (iii) the excess of any dividends includible in gross income with respect to such property for the taxable year over the amount of any deduction allowable with respect to such dividends under section 243 or 245, and
+      (iv) any amount which is a payment with respect to a security loan (within the meaning of section 512(a)(5)) includible in gross income with respect to such property for the taxable year.
+  (3) This subsection shall not apply in the case of any hedging transaction (as defined in section 1256(e)).
+  (4) 
+    (A) In the case of any short sale, this subsection shall be applied after subsection (h).
+    (B) In the case of any obligation to which section 1277 or 1282 applies, this subsection shall be applied after section 1277 or 1282.
+(h) 
+  (1) If—
+    (A) a taxpayer makes any payment with respect to any stock used by such taxpayer in a short sale and such payment is in lieu of a dividend payment on such stock, and
+    (B) the closing of such short sale occurs on or before the 45th day after the date of such short sale,
+  (2) If the payment described in paragraph (1)(A) is in respect of an extraordinary dividend, paragraph (1)(B) shall be applied by substituting “the day 1 year after the date of such short sale” for “the 45th day after the date of such short sale”.
+  (3) For purposes of this subsection, the term “extraordinary dividend” has the meaning given to such term by section 1059(c); except that such section shall be applied by treating the amount realized by the taxpayer in the short sale as his adjusted basis in the stock.
+  (4) The running of any period of time applicable under paragraph (1)(B) (as modified by paragraph (2)) shall be suspended during any period in which—
+    (A) the taxpayer holds, has an option to buy, or is under a contractual obligation to buy, substantially identical stock or securities, or
+    (B) under regulations prescribed by the Secretary, a taxpayer has diminished his risk of loss by holding 1 or more other positions with respect to substantially similar or related property.
+  (5) 
+    (A) Paragraph (1) shall apply only to the extent that the payments or distributions with respect to any short sale exceed the amount which—
+      (i) is treated as ordinary income by the taxpayer, and
+      (ii) is received by the taxpayer as compensation for the use of any collateral with respect to any stock used in such short sale.
+    (B) Subparagraph (A) shall not apply if one or more payments or distributions is in respect of an extraordinary dividend.
+  (6) In the case of any short sale, this subsection shall be applied before subsection (g).
+(i) In the case of intangible drilling and development costs paid or incurred with respect to an oil, gas, or geothermal well located outside the United States—
+  (1) subsection (c) shall not apply, and
+  (2) such costs shall—
+    (A) at the election of the taxpayer, be included in adjusted basis for purposes of computing the amount of any deduction allowable under section 611 (determined without regard to section 613), or
+    (B) if subparagraph (A) does not apply, be allowed as a deduction ratably over the 10-taxable year period beginning with the taxable year in which such costs were paid or incurred.

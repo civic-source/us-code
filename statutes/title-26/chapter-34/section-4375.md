@@ -1,0 +1,24 @@
+---
+title: "Section 4375 - Health insurance"
+usc_title: 26
+usc_section: "4375"
+chapter: 34
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 4375"
+generated_at: "2026-03-29T00:31:20.949Z"
+---
+
+# § 4375. Health insurance
+
+(a) There is hereby imposed on each specified health insurance policy for each policy year ending after September 30, 2012 , a fee equal to the product of $2 ($1 in the case of policy years ending during fiscal year 2013) multiplied by the average number of lives covered under the policy.
+(b) The fee imposed by subsection (a) shall be paid by the issuer of the policy.
+(c) For purposes of this section:
+  (1) Except as otherwise provided in this section, the term “specified health insurance policy” means any accident or health insurance policy (including a policy under a group health plan) issued with respect to individuals residing in the United States.
+  (2) The term “specified health insurance policy” does not include any insurance if substantially all of its coverage is of excepted benefits described in section 9832(c).
+  (3) 
+    (A) In the case of any arrangement described in subparagraph (B), such arrangement shall be treated as a specified health insurance policy, and the person referred to in such subparagraph shall be treated as the issuer.
+    (B) An arrangement is described in this subparagraph if under such arrangement fixed payments or premiums are received as consideration for any person’s agreement to provide or arrange for the provision of accident or health coverage to residents of the United States, regardless of how such coverage is provided or arranged to be provided.
+(d) In the case of any policy year ending in any fiscal year beginning after September 30, 2014 , the dollar amount in effect under subsection (a) for such policy year shall be equal to the sum of such dollar amount for policy years ending in the previous fiscal year (determined after the application of this subsection), plus an amount equal to the product of—
+  (1) such dollar amount for policy years ending in the previous fiscal year, multiplied by
+  (2) the percentage increase in the projected per capita amount of National Health Expenditures, as most recently published by the Secretary before the beginning of the fiscal year.
+(e) This section shall not apply to policy years ending after September 30, 2029 .

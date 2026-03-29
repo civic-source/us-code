@@ -1,0 +1,23 @@
+---
+title: "Section 12645c - Limitation on program grant costs"
+usc_title: 42
+usc_section: "12645c"
+chapter: 129
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 12645c"
+generated_at: "2026-03-29T00:32:54.278Z"
+---
+
+# § 12645c. Limitation on program grant costs
+
+(a) Except as otherwise provided by this section, the amount of funds approved by the Corporation for a grant to operate a program authorized under the national service laws, for supporting individuals serving in approved national service positions, may not exceed $18,000 per full-time equivalent position.
+(b) The limitation under subsection (a), and the increased limitation under subsection (e)(1), shall apply to the Corporation’s share of the member support costs, staff costs, and other costs to operate a program authorized under the national service laws incurred, 1 1 So in original. The comma probably should not appear. by the recipient of the grant.
+(c) The limitation under subsection (a), and the increased limitation under subsection (e)(1), shall not apply to expenses under a grant authorized under the national service laws to operate a program that are not included in the grant award for operating the program.
+(d) The amounts specified in subsections (a) and (e)(1) shall be adjusted each year after 2008 for inflation as measured by the Consumer Price Index for All Urban Consumers published by the Secretary of Labor.
+(e) 
+  (1) The Chief Executive Officer may increase the limitation under subsection (a) to not more than $19,500 per full-time equivalent position if necessary to meet the compelling needs of a particular program, such as—
+    (A) exceptional training needs for a program serving disadvantaged youth;
+    (B) the need to pay for increased costs relating to the participation of individuals with disabilities;
+    (C) the needs of tribal programs or programs located in the territories; and
+    (D) the need to pay for start-up costs associated with a first-time recipient of assistance under a program of the national service laws.
+  (2) The Chief Executive Officer shall report to the authorizing committees annually on all limitations increased under this subsection, with an explanation of the compelling needs justifying such increases.

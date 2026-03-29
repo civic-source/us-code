@@ -1,0 +1,19 @@
+---
+title: "Section 60104 - Requirements and limitations"
+usc_title: 49
+usc_section: "60104"
+chapter: 601
+current_through: "PL 119-73"
+classification: "49 U.S.C. § 60104"
+generated_at: "2026-03-29T00:33:13.944Z"
+---
+
+# § 60104. Requirements and limitations
+
+(a) The Secretary of Transportation shall give an interested person an opportunity to make oral and written presentations of information, views, and arguments when prescribing a standard under this chapter.
+(b) A design, installation, construction, initial inspection, or initial testing standard does not apply to a pipeline facility existing when the standard is adopted.
+(c) A State authority that has submitted a current certification under section 60105(a) of this title may adopt additional or more stringent safety standards for intrastate pipeline facilities and intrastate pipeline transportation only if those standards are compatible with the minimum standards prescribed under this chapter. A State authority may not adopt or continue in force safety standards for interstate pipeline facilities or interstate pipeline transportation. Notwithstanding the preceding sentence, a State authority may enforce a requirement of a one-call notification program of the State if the program meets the requirements for one-call notification programs under this chapter or chapter 61.
+(d) 
+  (1) When continuity of gas service is affected by prescribing a standard or waiving compliance with standards under this chapter, the Secretary of Transportation shall consult with and advise the Federal Energy Regulatory Commission or a State authority having jurisdiction over the affected gas pipeline facility before prescribing the standard or waiving compliance. The Secretary shall delay the effective date of the standard or waiver until the Commission or State authority has a reasonable opportunity to grant an authorization it considers necessary.
+  (2) In a proceeding under section 3 or 7 of the Natural Gas Act ( 15 U.S.C. 717b or 717f), each applicant for authority to import natural gas or to establish, construct, operate, or extend a gas pipeline facility subject to an applicable safety standard shall certify that it will design, install, inspect, test, construct, operate, replace, and maintain a gas pipeline facility under those standards and plans for inspection and maintenance under section 60108 of this title . The certification is binding on the Secretary of Energy and the Commission except when an appropriate enforcement agency has given timely written notice to the Commission that the applicant has violated a standard prescribed under this chapter.
+(e) This chapter does not authorize the Secretary of Transportation to prescribe the location or routing of a pipeline facility.

@@ -1,0 +1,14 @@
+---
+title: "Section 346 - Exchange of lands"
+usc_title: 16
+usc_section: "346"
+chapter: 1
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 346"
+generated_at: "2026-03-29T00:29:52.340Z"
+---
+
+# § 346. Exchange of lands
+
+The Secretary of the Interior is authorized to exchange, in his discretion, alienated lands in Zion National Park for unappropriated and unreserved public lands of equal value and approximately equal area in the State of Utah outside of said park.
+

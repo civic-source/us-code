@@ -1,0 +1,23 @@
+---
+title: "Section 301e - Multiyear retention bonus: dental officers of the armed forces"
+usc_title: 37
+usc_section: "301e"
+chapter: 5
+current_through: "PL 119-73"
+classification: "37 U.S.C. § 301e"
+generated_at: "2026-03-29T00:32:04.395Z"
+---
+
+# § 301e. Multiyear retention bonus: dental officers of the armed forces
+
+(a) 
+  (1) A dental officer described in subsection (b) who executes a written agreement to remain on active duty for two, three, or four years after completion of any other active-duty service commitment may, upon acceptance of the written agreement by the Secretary of the military department concerned, be paid a retention bonus as provided in this section.
+  (2) The amount of a retention bonus under paragraph (1) may not exceed $50,000 for each year covered by a four-year agreement. The maximum yearly retention bonus for two-year and three-year agreements shall be reduced to reflect the shorter service commitment.
+(b) Subsection (a) applies to an officer of the armed forces who—
+  (1) is an officer of the Dental Corps of the Army or the Navy or an officer of the Air Force designated as a dental officer;
+  (2) has a dental specialty in oral and maxillofacial surgery;
+  (3) is in a pay grade below pay grade O–7;
+  (4) has at least eight years of creditable service (computed as described in section 302b(g) 1 1 See References in Text note below. of this title) or has completed any active-duty service commitment incurred for dental education and training; and
+  (5) has completed initial residency training (or will complete such training before September 30 of the fiscal year in which the officer enters into an agreement under subsection (a)).
+(c) At the discretion of the Secretary of the military department concerned, the Secretary may enter into a written agreement described in subsection (a)(1) with a dental officer who does not have the dental specialty specified in subsection (b)(2), and pay a retention bonus to such an officer as provided in this section, if the officer otherwise satisfies the eligibility requirements specified in subsection (b). The Secretaries shall exercise the authority provided in this section in a manner consistent with regulations prescribed by the Secretary of Defense.
+(d) An officer who does not complete the period of active duty specified in the agreement entered into under subsection (a) shall be subject to the repayment provisions of section 303a(e) of this title .

@@ -1,0 +1,14 @@
+---
+title: "Section 663 - Solicitation or use of gifts"
+usc_title: 18
+usc_section: "663"
+chapter: 31
+current_through: "PL 119-73"
+classification: "18 U.S.C. § 663"
+generated_at: "2026-03-29T00:30:15.623Z"
+---
+
+# § 663. Solicitation or use of gifts
+
+Whoever solicits any gift of money or other property, and represents that such gift is being solicited for the use of the United States, with the intention of embezzling, stealing, or purloining such gift, or converting the same to any other use or purpose, or whoever, having come into possession of any money or property which has been donated by the owner thereof for the use of the United States, embezzles, steals or purloins such money or property, or converts the same to any other use or purpose, shall be fined under this title or imprisoned not more than five years, or both.
+

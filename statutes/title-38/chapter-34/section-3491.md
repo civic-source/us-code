@@ -1,0 +1,19 @@
+---
+title: "Section 3491 - Elementary and secondary education and preparatory educational assistance"
+usc_title: 38
+usc_section: "3491"
+chapter: 34
+current_through: "PL 119-73"
+classification: "38 U.S.C. § 3491"
+generated_at: "2026-03-29T00:32:17.259Z"
+---
+
+# § 3491. Elementary and secondary education and preparatory educational assistance
+
+(a) In the case of any eligible veteran who—
+  (1) has not received a secondary school diploma (or an equivalency certificate), or
+  (2) is not on active duty and who, in order to pursue a program of education for which the veteran would otherwise be eligible, needs refresher courses, deficiency courses, or other preparatory or special educational assistance to qualify for admission to an appropriate educational institution,
+(b) 
+  (1) The Secretary shall pay to an eligible veteran pursuing a course or courses or program pursuant to subsection (a)(2) of this section, an educational assistance allowance as provided in sections 3481 and 3482(a) or (b) of this title.
+  (2) The Secretary shall pay to an eligible veteran described in subsection (a)(1) of this section who is pursuing a course or courses or program under this subchapter for the purpose of attaining a secondary school diploma (or an equivalency certificate) an educational assistance allowance (A) at the rate of established charges for tuition and fees required of similarly circumstanced nonveterans enrolled in the same course, courses, or program, or (B) at the institutional full-time rate provided in section 3482(a) of this title , whichever is the lesser.
+(c) The provisions of section 3473(d)(1) 1 1 See References in Text note below. of this title, relating to the disapproval of enrollment in certain courses, shall be applicable to the enrollment of an eligible veteran who, while serving on active duty, enrolls in one or more courses under this subchapter for the purpose of attaining a secondary school diploma (or an equivalency certificate).

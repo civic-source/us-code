@@ -1,0 +1,14 @@
+---
+title: "Section 24908 - Transfer taxes and levies and recording charges"
+usc_title: 49
+usc_section: "24908"
+chapter: 249
+current_through: "PL 119-73"
+classification: "49 U.S.C. § 24908"
+generated_at: "2026-03-29T00:33:13.819Z"
+---
+
+# § 24908. Transfer taxes and levies and recording charges
+
+A transfer of an interest in rail property under this chapter is exempt from a tax or levy related to the transfer that is imposed by the United States Government, a State, or a political subdivision of a State. On payment of the appropriate and generally applicable charge for the service performed, a transferee or transferor may record an instrument and, consistent with the final system plan, the release or removal of a pre-existing lien or encumbrance of record related to the interest transferred.
+

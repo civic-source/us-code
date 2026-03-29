@@ -1,0 +1,14 @@
+---
+title: "Section 379 - Purchase of scientific books, law books, etc."
+usc_title: 43
+usc_section: "379"
+chapter: 12
+current_through: "PL 119-73"
+classification: "43 U.S.C. § 379"
+generated_at: "2026-03-29T00:32:57.321Z"
+---
+
+# § 379. Purchase of scientific books, law books, etc.
+
+The Secretary of the Interior may authorize the purchase of such law books, books of reference, periodicals, engineering and statistical publications as are needed in carrying out the surveys and examinations authorized by the Act of June seventeenth, nineteen hundred and two, entitled “An Act appropriating the receipts from the sale and disposal of public lands in certain States and Territories for the construction of irrigation works for the reclamation of arid lands.”
+

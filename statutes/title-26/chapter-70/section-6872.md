@@ -1,0 +1,14 @@
+---
+title: "Section 6872 - Suspension of period on assessment"
+usc_title: 26
+usc_section: "6872"
+chapter: 70
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 6872"
+generated_at: "2026-03-29T00:31:21.079Z"
+---
+
+# § 6872. Suspension of period on assessment
+
+If the regulations issued pursuant to section 6036 require the giving of notice by any fiduciary in any case under title 11 of the United States Code, or by a receiver in any other court proceeding, to the Secretary of his qualification as such, the running of the period of limitations on the making of assessments shall be suspended for the period from the date of the institution of the proceeding to a date 30 days after the date upon which the notice from the receiver or other fiduciary is received by the Secretary; but the suspension under this sentence shall in no case be for a period in excess of 2 years.
+

@@ -1,0 +1,14 @@
+---
+title: "Section 1417 - Criminal jurisdiction"
+usc_title: 48
+usc_section: "1417"
+chapter: 8
+current_through: "PL 119-73"
+classification: "48 U.S.C. § 1417"
+generated_at: "2026-03-29T00:33:06.609Z"
+---
+
+# § 1417. Criminal jurisdiction
+
+All acts done, and offenses or crimes committed, on any island, rock, or key mentioned in section 1411 of this title , by persons who may land thereon, or in the waters adjacent thereto, shall be deemed committed on the high seas, on board a merchant ship or vessel belonging to the United States; and shall be punished according to the laws of the United States relating to such ships or vessels and offenses on the high seas, which laws for the purpose aforesaid are extended over such islands, rocks, and keys.
+

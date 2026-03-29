@@ -1,0 +1,19 @@
+---
+title: "Section 5366 - Early remediation requirements"
+usc_title: 12
+usc_section: "5366"
+chapter: 53
+current_through: "PL 119-73"
+classification: "12 U.S.C. § 5366"
+generated_at: "2026-03-29T00:29:16.898Z"
+---
+
+# § 5366. Early remediation requirements
+
+(a) The Board of Governors, in consultation with the Council and the Corporation, shall prescribe regulations establishing requirements to provide for the early remediation of financial distress of a nonbank financial company supervised by the Board of Governors or a bank holding company described in section 5365(a) of this title , except that nothing in this subsection authorizes the provision of financial assistance from the Federal Government.
+(b) The purpose of the early remediation requirements under subsection (a) shall be to establish a series of specific remedial actions to be taken by a nonbank financial company supervised by the Board of Governors or a bank holding company described in section 5365(a) of this title that is experiencing increasing financial distress, in order to minimize the probability that the company will become insolvent and the potential harm of such insolvency to the financial stability of the United States.
+(c) The regulations prescribed by the Board of Governors under subsection (a) shall—
+  (1) define measures of the financial condition of the company, including regulatory capital, liquidity measures, and other forward-looking indicators; and
+  (2) establish requirements that increase in stringency as the financial condition of the company declines, including—
+    (A) requirements in the initial stages of financial decline, including limits on capital distributions, acquisitions, and asset growth; and
+    (B) requirements at later stages of financial decline, including a capital restoration plan and capital-raising requirements, limits on transactions with affiliates, management changes, and asset sales.

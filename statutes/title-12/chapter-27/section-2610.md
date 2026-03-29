@@ -1,0 +1,14 @@
+---
+title: "Section 2610 - Prohibition of fees for preparation of truth-in-lending, uniform settlement, and escrow account statements"
+usc_title: 12
+usc_section: "2610"
+chapter: 27
+current_through: "PL 119-73"
+classification: "12 U.S.C. § 2610"
+generated_at: "2026-03-29T00:29:16.765Z"
+---
+
+# § 2610. Prohibition of fees for preparation of truth-in-lending, uniform settlement, and escrow account statements
+
+No fee shall be imposed or charge made upon any other person (as a part of settlement costs or otherwise) by a lender in connection with a federally related mortgage loan made by it (or a loan for the purchase of a mobile home), or by a servicer (as the term is defined under section 2605(i) of this title ), for or on account of the preparation and submission by such lender or servicer of the statement or statements required (in connection with such loan) by sections 2603 and 2609(c) of this title or by the Truth in Lending Act [ 15 U.S.C. 1601 et seq.].
+

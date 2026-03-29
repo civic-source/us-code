@@ -1,0 +1,17 @@
+---
+title: "Section 7506 - Annual report"
+usc_title: 16
+usc_section: "7506"
+chapter: 94
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 7506"
+generated_at: "2026-03-29T00:29:52.884Z"
+---
+
+# § 7506. Annual report
+
+(a) Subject to subsection (c), 1 1 So in original. beginning with fiscal year 2017, not later than 60 days after the end of each fiscal year, the Foundation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives a report on the operation of the Fund during that fiscal year.
+(b) Each annual report submitted under subsection (a) for a fiscal year shall include—
+  (1) a full and complete statement of the receipts, including the source of all receipts, expenditures, and investments of the Fund;
+  (2) a statement of the amounts deposited in the Fund and the balance remaining in the Fund at the end of the fiscal year; and
+  (3) a description of the expenditures made from the Fund for the fiscal year, including the purpose of the expenditures.

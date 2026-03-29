@@ -1,0 +1,23 @@
+---
+title: "Section 2054 - Product safety information and research"
+usc_title: 15
+usc_section: "2054"
+chapter: 47
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 2054"
+generated_at: "2026-03-29T00:29:41.755Z"
+---
+
+# § 2054. Product safety information and research
+
+(a) The Commission shall—
+  (1) maintain an Injury Information Clearinghouse to collect, investigate, analyze, and disseminate injury data, and information, relating to the causes and prevention of death, injury, and illness associated with consumer products;
+  (2) conduct such continuing studies and investigations of deaths, injuries, diseases, other health impairments, and economic losses resulting from accidents involving consumer products as it deems necessary;
+  (3) following publication of a notice of proposed rulemaking for a product safety rule under any rulemaking authority administered by the Commission, assist public and private organizations or groups of manufacturers, administratively and technically, in the development of safety standards addressing the risk of injury identified in such notice; and
+  (4) to the extent practicable and appropriate (taking into account the resources and priorities of the Commission), assist public and private organizations or groups of manufacturers, administratively and technically, in the development of product safety standards and test methods.
+(b) The Commission may—
+  (1) conduct research, studies, and investigations on the safety of consumer products and on improving the safety of such products;
+  (2) test consumer products and develop product safety test methods and testing devices; and
+  (3) offer training in product safety investigation and test methods.
+(c) In carrying out its functions under this section, the Commission may make grants or enter into contracts for the conduct of such functions with any person (including a governmental entity).
+(d) Whenever the Federal contribution for any information, research, or development activity authorized by this chapter is more than minimal, the Commission shall include in any contract, grant, or other arrangement for such activity, provisions effective to insure that the rights to all information, uses, processes, patents, and other developments resulting from that activity will be made available to the public without charge on a nonexclusive basis. Nothing in this subsection shall be construed to deprive any person of any right which he may have had, prior to entering into any arrangement referred to in this subsection, to any patent, patent application, or invention.

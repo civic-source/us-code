@@ -1,0 +1,14 @@
+---
+title: "Section 3505 - Prevention of departure"
+usc_title: 46
+usc_section: "3505"
+chapter: 35
+current_through: "PL 119-73"
+classification: "46 U.S.C. § 3505"
+generated_at: "2026-03-29T00:33:02.845Z"
+---
+
+# § 3505. Prevention of departure
+
+Notwithstanding section 3303 of this title , a foreign vessel carrying a citizen of the United States as a passenger or embarking passengers from a United States port may not depart from a United States port if the Secretary finds that the vessel does not comply with the standards stated in the International Convention for the Safety of Life at Sea to which the United States Government is currently a party.
+

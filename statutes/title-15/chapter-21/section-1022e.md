@@ -1,0 +1,23 @@
+---
+title: "Section 1022e - Inflation"
+usc_title: 15
+usc_section: "1022e"
+chapter: 21
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 1022e"
+generated_at: "2026-03-29T00:29:41.674Z"
+---
+
+# § 1022e. Inflation
+
+(a) The Congress determines that the objective of achieving reasonable price stability as soon as feasible, as set forth in section 1022(a)(3) of this title and section 1022a(a) of this title , shall be pursued by the methods and subject to the requirements of section 1022b(b) of this title .
+(b) The Congress finds that sole dependence upon fiscal or monetary policies or both to combat inflation can exacerbate both inflation and unemployment. The Congress finds that the coordinated use of fiscal and monetary policies in conjunction with specific targeted policies are necessary to combat inflation.
+(c) The President shall initiate specific policies to reduce the rate of inflation, including recommendations to the Congress where necessary, and include recommendations within the Economic Report and the President’s budget to the extent practicable. Structural policies to reduce the rate of inflation may include—
+  (1) an effective information system to monitor and analyze inflationary trends in individual economic sectors, so that the President and Congress can be alerted to developing inflation problems especially those caused by bottlenecks inhibiting the flow of goods and services;
+  (2) programs and policies for alleviating shortages of goods, services, labor, and capital, with particular emphasis on food, energy, and critical industrial materials to aid in stabilizing prices;
+  (3) the establishment of stockpiles of agricultural commodities and other critical materials to help stabilize prices, meet emergency needs, and promote adequate income to producers;
+  (4) encouragement to labor and management to increase productivity within the national framework of full employment through voluntary arrangements in industries and economic sectors;
+  (5) recommendations to increase competition in the private sector and to improve the economic climate for the creation and growth of smaller businesses, including recommendations to strengthen and enforce the antitrust laws, the patent laws, and the internal revenue laws and regulations;
+  (6) removal or proper modification of such Government restrictions and regulations as added unnecessarily to inflationary costs;
+  (7) increasing exports and improving the international competitive position of agriculture, business, and industry; and
+  (8) such other administrative actions and recommendations for legislation as the President deems desirable, to promote reasonable price stability.

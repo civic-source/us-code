@@ -1,0 +1,20 @@
+---
+title: "Section 154 - Improved Medicare prescription drug plan and MA–PD plan complaint system"
+usc_title: 42
+usc_section: "154"
+chapter: 7
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 154"
+generated_at: "2026-03-29T00:32:53.447Z"
+---
+
+# § 1395w–154. Improved Medicare prescription drug plan and MA–PD plan complaint system
+
+(a) The Secretary shall develop and maintain a complaint system, that is widely known and easy to use, to collect and maintain information on MA–PD plan and prescription drug plan complaints that are received (including by telephone, letter, e-mail, or any other means) by the Secretary (including by a regional office of the Department of Health and Human Services, the Medicare Beneficiary Ombudsman, a subcontractor, a carrier, a fiscal intermediary, and a Medicare administrative contractor under section 1395kk–1 of this title ) through the date on which the complaint is resolved. The system shall be able to report and initiate appropriate interventions and monitoring based on substantial complaints and to guide quality improvement.
+(b) The Secretary shall develop a model electronic complaint form to be used for reporting plan complaints under the system. Such form shall be prominently displayed on the front page of the Medicare.gov Internet website and on the Internet website of the Medicare Beneficiary Ombudsman.
+(c) The Secretary shall submit to Congress annual reports on the system. Such reports shall include an analysis of the number and types of complaints reported in the system, geographic variations in such complaints, the timeliness of agency or plan responses to such complaints, and the resolution of such complaints.
+(d) In this section:
+  (1) The term “MA–PD plan” has the meaning given such term in section 1395w–151(a)(9) of this title .
+  (2) The term “prescription drug plan” has the meaning given such term in section 1395w–151(a)(14) of this title .
+  (3) The term “Secretary” means the Secretary of Health and Human Services.
+  (4) The term “system” means the plan complaint system developed and maintained under subsection (a).

@@ -1,0 +1,33 @@
+---
+title: "Section 4101 - Definitions"
+usc_title: 33
+usc_section: "4101"
+chapter: 54
+current_through: "PL 119-73"
+classification: "33 U.S.C. § 4101"
+generated_at: "2026-03-29T00:31:57.477Z"
+---
+
+# § 4101. Definitions
+
+In this chapter:
+
+  (1) The term “Administration” means the National Oceanic and Atmospheric Administration.
+  (2) The term “Administrator” means the Under Secretary of Commerce for Oceans and Atmosphere and Administrator of the National Oceanic and Atmospheric Administration.
+  (3) The terms 1 1 So in original. Probably should be “term”. “cooperative activities of the Administration” means cooperative activities between the Administration and an external entity, such as the Cooperative Institutes, Sea Grant Colleges, National Estuarine Research Reserves, the National Oceanographic Partnership Program established under chapter 665 of title 10, and regional associations of the Integrated Ocean Observing System.
+  (4) The term “data specifications” shall refer to the type, resolution, periodicity, and quality of data required by an program of the Administration.
+  (5) 
+    (A) The term “test or training range” means an area designated for operating unmanned maritime systems and other types of systems for the purpose of—
+      (i) evaluating the performance of such systems; or
+      (ii) training personnel on operating procedures for such systems.
+    (B) The term “test or training range” may include specialized fixed or portable instrumentation for the operation of unmanned maritime systems and other types of systems.
+  (6) 
+    (A) The term “unmanned maritime systems” means remotely operated or autonomous vehicles produced by the commercial sector—
+      (i) designed to function without an on-board human presence; and
+      (ii) that may include associated components such as control and communications, instrumentation, data transmission, and processing systems.
+    (B) The term “unmanned maritime systems” includes the following:
+      (i) Unmanned undersea vehicles.
+      (ii) Unmanned surface vehicles.
+      (iii) Autonomous underwater vehicles.
+      (iv) Autonomous surface vehicles.
+    (C) The term “unmanned maritime systems” includes unmanned aerial vehicles and autonomous aerial vehicles that are used to address maritime issues to the extent the Administrator determines it is necessary and appropriate to achieve the purposes of this chapter.

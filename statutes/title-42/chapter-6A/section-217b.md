@@ -1,0 +1,14 @@
+---
+title: "Section 217b - Volunteer services"
+usc_title: 42
+usc_section: "217b"
+chapter: 6
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 217b"
+generated_at: "2026-03-29T00:32:52.794Z"
+---
+
+# § 217b. Volunteer services
+
+Subject to regulations, volunteer and uncompensated services may be accepted by the Secretary, or by any other officer or employee of the Department of Health and Human Services designated by him, for use in the operation of any health care facility or in the provision of health care.
+

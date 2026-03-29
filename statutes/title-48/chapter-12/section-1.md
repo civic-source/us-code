@@ -1,0 +1,14 @@
+---
+title: "Section 1 - Applicability of laws referred to in section 502(a)(1) of Covenant to Establish a Commonwealth of the Northern Mariana Islands"
+usc_title: 48
+usc_section: "1"
+chapter: 12
+current_through: "PL 119-73"
+classification: "48 U.S.C. § 1"
+generated_at: "2026-03-29T00:33:06.627Z"
+---
+
+# § 1574–1. Applicability of laws referred to in section 502(a)(1) of Covenant to Establish a Commonwealth of the Northern Mariana Islands
+
+Effective on the date when section 502 of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America, approved by joint resolution approved on March 24, 1976 ( 90 Stat. 263 ) goes into force those laws which are referred to in section 502(a)(1) of said Covenant, except for any laws administered by the Social Security Administration, except for medicaid which is now administered by the Centers for Medicare & Medicaid Services, and except the Micronesian Claims Act of 1971 ( 85 Stat. 96 ) shall be applicable to the territories of Guam and the Virgin Islands on the same terms and conditions as such laws are applied to the Northern Mariana Islands.
+

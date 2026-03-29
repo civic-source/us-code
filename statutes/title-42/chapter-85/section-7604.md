@@ -1,0 +1,37 @@
+---
+title: "Section 7604 - Citizen suits"
+usc_title: 42
+usc_section: "7604"
+chapter: 85
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 7604"
+generated_at: "2026-03-29T00:32:54.078Z"
+---
+
+# § 7604. Citizen suits
+
+(a) Except as provided in subsection (b), any person may commence a civil action on his own behalf—
+  (1) against any person (including (i) the United States, and (ii) any other governmental instrumentality or agency to the extent permitted by the Eleventh Amendment to the Constitution) who is alleged to have violated (if there is evidence that the alleged violation has been repeated) or to be in violation of (A) an emission standard or limitation under this chapter or (B) an order issued by the Administrator or a State with respect to such a standard or limitation,
+  (2) against the Administrator where there is alleged a failure of the Administrator to perform any act or duty under this chapter which is not discretionary with the Administrator, or
+  (3) against any person who proposes to construct or constructs any new or modified major emitting facility without a permit required under part C of subchapter I (relating to significant deterioration of air quality) or part D of subchapter I (relating to nonattainment) or who is alleged to have violated (if there is evidence that the alleged violation has been repeated) or to be in violation of any condition of such permit.
+(b) No action may be commenced—
+  (1) under subsection (a)(1)—
+    (A) prior to 60 days after the plaintiff has given notice of the violation (i) to the Administrator, (ii) to the State in which the violation occurs, and (iii) to any alleged violator of the standard, limitation, or order, or
+    (B) if the Administrator or State has commenced and is diligently prosecuting a civil action in a court of the United States or a State to require compliance with the standard, limitation, or order, but in any such action in a court of the United States any person may intervene as a matter of right. 1 1 So in original. The period probably should be “, or”.
+  (2) under subsection (a)(2) prior to 60 days after the plaintiff has given notice of such action to the Administrator,
+(c) 
+  (1) Any action respecting a violation by a stationary source of an emission standard or limitation or an order respecting such standard or limitation may be brought only in the judicial district in which such source is located.
+  (2) In any action under this section, the Administrator, if not a party, may intervene as a matter of right at any time in the proceeding. A judgment in an action under this section to which the United States is not a party shall not, however, have any binding effect upon the United States.
+  (3) Whenever any action is brought under this section the plaintiff shall serve a copy of the complaint on the Attorney General of the United States and on the Administrator. No consent judgment shall be entered in an action brought under this section in which the United States is not a party prior to 45 days following the receipt of a copy of the proposed consent judgment by the Attorney General and the Administrator during which time the Government may submit its comments on the proposed consent judgment to the court and parties or may intervene as a matter of right.
+(d) The court, in issuing any final order in any action brought pursuant to subsection (a) of this section, may award costs of litigation (including reasonable attorney and expert witness fees) to any party, whenever the court determines such award is appropriate. The court may, if a temporary restraining order or preliminary injunction is sought, require the filing of a bond or equivalent security in accordance with the Federal Rules of Civil Procedure.
+(e) Nothing in this section shall restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement of any emission standard or limitation or to seek any other relief (including relief against the Administrator or a State agency). Nothing in this section or in any other law of the United States shall be construed to prohibit, exclude, or restrict any State, local, or interstate authority from—
+  (1) bringing any enforcement action or obtaining any judicial remedy or sanction in any State or local court, or
+  (2) bringing any administrative enforcement action or obtaining any administrative remedy or sanction in any State or local administrative agency, department or instrumentality,
+(f) For purposes of this section, the term “emission standard or limitation under this chapter” means—
+  (1) a schedule or timetable of compliance, emission limitation, standard of performance or emission standard,
+  (2) a control or prohibition respecting a motor vehicle fuel or fuel additive, or 2 2 So in original. The word “or” probably should not appear.
+  (3) any condition or requirement of a permit under part C of subchapter I (relating to significant deterioration of air quality) or part D of subchapter I (relating to nonattainment),, 3 3 So in original. section 7419 of this title (relating to primary nonferrous smelter orders), any condition or requirement under an applicable implementation plan relating to transportation control measures, air quality maintenance plans, vehicle inspection and maintenance programs or vapor recovery requirements, section 7545(e) and (f) of this title (relating to fuels and fuel additives), section 7491 of this title (relating to visibility protection), any condition or requirement under subchapter VI (relating to ozone protection), or any requirement under section 7411 or 7412 of this title (without regard to whether such requirement is expressed as an emission standard or otherwise); 4 4 So in original. The semicolon probably should be a comma. or
+  (4) any other standard, limitation, or schedule established under any permit issued pursuant to subchapter V or under any applicable State implementation plan approved by the Administrator, any permit term or condition, and any requirement to obtain a permit as a condition of operations. 5 5 So in original. The period probably should be a comma.
+(g) 
+  (1) Penalties received under subsection (a) shall be deposited in a special fund in the United States Treasury for licensing and other services. Amounts in such fund are authorized to be appropriated and shall remain available until expended, for use by the Administrator to finance air compliance and enforcement activities. The Administrator shall annually report to the Congress about the sums deposited into the fund, the sources thereof, and the actual and proposed uses thereof.
+  (2) Notwithstanding paragraph (1) the court in any action under this subsection 6 6 So in original. Probably should be “this section”. to apply civil penalties shall have discretion to order that such civil penalties, in lieu of being deposited in the fund referred to in paragraph (1), be used in beneficial mitigation projects which are consistent with this chapter and enhance the public health or the environment. The court shall obtain the view of the Administrator in exercising such discretion and selecting any such projects. The amount of any such payment in any such action shall not exceed $100,000.

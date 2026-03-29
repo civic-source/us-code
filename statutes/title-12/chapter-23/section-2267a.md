@@ -1,0 +1,16 @@
+---
+title: "Section 2267a - Jurisdiction over institution-affiliated parties"
+usc_title: 12
+usc_section: "2267a"
+chapter: 23
+current_through: "PL 119-73"
+classification: "12 U.S.C. § 2267a"
+generated_at: "2026-03-29T00:29:16.744Z"
+---
+
+# § 2267a. Jurisdiction over institution-affiliated parties
+
+(a) For purposes of sections 2261, 2262, and 2268 of this title, the jurisdiction of the Farm Credit Administration over parties, and the authority of the Farm Credit Administration to initiate actions, shall include enforcement authority over institution-affiliated parties.
+(b) Subject to subsection (c), the resignation, termination of employment or participation, or separation of an institution-affiliated party (including a separation caused by the merger, consolidation, conservatorship, or receivership of a Farm Credit System institution) shall not affect the jurisdiction and authority of the Farm Credit Administration to issue any notice or order and proceed under this part against that party.
+(c) To proceed against a party under subsection (b), the notice or order described in that subsection shall be served not later than 6 years after the date on which the party ceased to be an institution-affiliated party with respect to the applicable Farm Credit System institution.
+(d) The date on which a party ceases to be an institution-affiliated party described in subsection (c) may occur before, on, or after December 20, 2018 .

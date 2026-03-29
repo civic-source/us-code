@@ -1,0 +1,18 @@
+---
+title: "Section 60135 - Enforcement transparency"
+usc_title: 49
+usc_section: "60135"
+chapter: 601
+current_through: "PL 119-73"
+classification: "49 U.S.C. § 60135"
+generated_at: "2026-03-29T00:33:13.950Z"
+---
+
+# § 60135. Enforcement transparency
+
+(a) Not later than December 31, 2007 , the Secretary shall—
+  (1) provide a monthly updated summary to the public of all gas and hazardous liquid pipeline enforcement actions taken by the Secretary or the Pipeline and Hazardous Materials Safety Administration, from the time a notice commencing an enforcement action is issued until the enforcement action is final;
+  (2) include in each such summary identification of the operator involved in the enforcement activity, the type of alleged violation, the penalty or penalties proposed, any changes in case status since the previous summary, the final assessment amount of each penalty, and the reasons for a reduction in the proposed penalty, if appropriate; and
+  (3) provide a mechanism by which a pipeline operator named in an enforcement action may make information, explanations, or documents it believes are responsive to the enforcement action available to the public.
+(b) Each summary under this section shall be made available to the public by electronic means.
+(c) Nothing in this section shall be construed to require disclosure of information or records that are exempt from disclosure under section 552 of title 5 .

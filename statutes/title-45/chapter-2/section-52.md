@@ -1,0 +1,14 @@
+---
+title: "Section 52 - Carriers in Territories or other possessions of United States"
+usc_title: 45
+usc_section: "52"
+chapter: 2
+current_through: "PL 119-73"
+classification: "45 U.S.C. § 52"
+generated_at: "2026-03-29T00:32:59.658Z"
+---
+
+# § 52. Carriers in Territories or other possessions of United States
+
+Every common carrier by railroad in the Territories, the District of Columbia, the Panama Canal Zone, or other possessions of the United States shall be liable in damages to any person suffering injury while he is employed by such carrier in any of said jurisdictions, or, in case of the death of such employee, to his or her personal representative, for the benefit of the surviving widow or husband and children of such employee; and, if none, then of such employee’s parents; and, if none, then of the next of kin dependent upon such employee, for such injury or death resulting in whole or in part from the negligence of any of the officers, agents, or employees of such carrier, or by reason of any defect or insufficiency, due to its negligence, in its cars, engines, appliances, machinery, track, roadbed, works, boats, wharves, or other equipment.
+

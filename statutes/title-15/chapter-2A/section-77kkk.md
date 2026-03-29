@@ -1,0 +1,28 @@
+---
+title: "Section 77kkk - Preferential collection of claims against obligor"
+usc_title: 15
+usc_section: "77kkk"
+chapter: 2
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 77kkk"
+generated_at: "2026-03-29T00:29:41.463Z"
+---
+
+# § 77kkk. Preferential collection of claims against obligor
+
+(a) Subject to the provisions of subsection (b) of this section, if the indenture trustee shall be, or shall become, a creditor, directly or indirectly, secured or unsecured, of an obligor upon the indenture securities, within three months prior to a default as defined in the last paragraph of this subsection, or subsequent to such a default, then, unless and until such default shall be cured, such trustee shall set apart and hold in a special account for the benefit of the trustee individually and the indenture security holders—
+  (1) an amount equal to any and all reductions in the amount due and owing upon any claim as such creditor in respect of principal or interest, effected after the beginning of such three months’ period and valid as against such obligor and its other creditors, except any such reduction resulting from the receipt or disposition of any property described in paragraph (2) of this subsection, or from the exercise of any right of setoff which the trustee could have exercised if a petition in bankruptcy had been filed by or against such obligor upon the date of such default; and
+  (2) all property received in respect of any claim as such creditor, either as security therefor, or in satisfaction or composition thereof, or otherwise, after the beginning of such three months’ period, or an amount equal to the proceeds of any such property, if disposed of, subject, however, to the rights, if any, of such obligor and its other creditors in such property or such proceeds.
+    (A) to retain for its own account (i) payments made on account of any such claim by any person (other than such obligor) who is liable thereon, and (ii) the proceeds of the bona fide sale of any such claim by the trustee to a third person, and (iii) distributions made in cash, securities, or other property in respect of claims filed against such obligor in bankruptcy or receivership or in proceedings for reorganization pursuant to the Bankruptcy Act or applicable State law;
+    (B) to realize, for its own account, upon any property held by it as security for any such claim, if such property was so held prior to the beginning of such three months’ period;
+    (C) to realize, for its own account, but only to the extent of the claim hereinafter mentioned, upon any property held by it as security for any such claim, if such claim was created after the beginning of such three months’ period and such property was received as security therefor simultaneously with the creation thereof, and if the trustee shall sustain the burden of proving that at the time such property was so received the trustee had no reasonable cause to believe that a default as defined in the last paragraph of this subsection would occur within three months; or
+    (D) to receive payment on any claim referred to in paragraph (B) or (C) of this subsection, against the release of any property held as security for such claim as provided in said paragraph (B) or (C), as the case may be, to the extent of the fair value of such property.
+      (i) the receipt of property or reduction of claim which would have given rise to the obligation to account, if such indenture trustee had continued as trustee, occurred after the beginning of such three months’ period; and
+      (ii) such receipt of property or reduction of claim occurred within three months after such resignation or removal.
+(b) The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to contain provisions excluding from the operation of subsection (a) of this section a creditor relationship arising from—
+  (1) the ownership or acquisition of securities issued under any indenture, or any security or securities having a maturity of one year or more at the time of acquisition by the indenture trustee;
+  (2) advances authorized by a receivership or bankruptcy court of competent jurisdiction, or by the indenture, for the purpose of preserving the property subject to the lien of the indenture or of discharging tax liens or other prior liens or encumbrances on the trust estate, if notice of such advance and of the circumstances surrounding the making thereof is given to the indenture security holders, at the time and in the manner provided in the indenture;
+  (3) disbursements made in the ordinary course of business in the capacity of trustee under an indenture, transfer agent, registrar, custodian, paying agent, fiscal agent or depositary, or other similar capacity;
+  (4) an indebtedness created as a result of services rendered or premises rented; or an indebtedness created as a result of goods or securities sold in a cash transaction as defined in the indenture;
+  (5) the ownership of stock or of other securities of a corporation organized under the provisions of section 25(a) 1 1 See References in Text note below. of the Federal Reserve Act, as amended [ 12 U.S.C. 611 et seq.], which is directly or indirectly a creditor of an obligor upon the indenture securities; or
+  (6) the acquisition, ownership, acceptance, or negotiation of any drafts, bills of exchange, acceptances, or obligations which fall within the classification of self-liquidating paper as defined in the indenture.

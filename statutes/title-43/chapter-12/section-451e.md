@@ -1,0 +1,14 @@
+---
+title: "Section 451e - Amendment of farm unit; application; amount of land; exchange; waiver"
+usc_title: 43
+usc_section: "451e"
+chapter: 12
+current_through: "PL 119-73"
+classification: "43 U.S.C. § 451e"
+generated_at: "2026-03-29T00:32:57.352Z"
+---
+
+# § 451e. Amendment of farm unit; application; amount of land; exchange; waiver
+
+Upon timely application by an entryman on an unpatented farm unit on a Federal irrigation project, which shall be found by the Secretary, pursuant to a land classification, to be insufficient to support a family, the Secretary may, upon terms and conditions satisfactory to him, amend the farm unit of said entryman, combine all or a part of the lands of said farm unit with other contiguous or noncontiguous lands on the same project which are declared by the Secretary to be open to entry or purchase, and thereby form and designate an amended farm unit for said entryman, which in no event shall exceed three hundred and twenty acres of land containing not more than one hundred and sixty irrigable acres designated by the Secretary. The acceptance of the amended farm unit by the applicant shall be deemed an exchange within the meaning of this subchapter. In extending the benefits of this section to a resident owner of private lands as provided in section 451a of this title , the Secretary may waive, in whole or in part, the provisions of clause (iii) of subsection (b) of section 451a of this title .
+

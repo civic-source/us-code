@@ -1,0 +1,18 @@
+---
+title: "Section 6751 - National Association of Registered Agents and Brokers"
+usc_title: 15
+usc_section: "6751"
+chapter: 93
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 6751"
+generated_at: "2026-03-29T00:29:41.900Z"
+---
+
+# § 6751. National Association of Registered Agents and Brokers
+
+(a) There is established the National Association of Registered Agents and Brokers (referred to in this subchapter as the “Association”).
+(b) The Association shall—
+  (1) be a nonprofit corporation;
+  (2) not be an agent or instrumentality of the Federal Government;
+  (3) be an independent organization that may not be merged with or into any other private or public entity; and
+  (4) except as otherwise provided in this subchapter, be subject to, and have all the powers conferred upon, a nonprofit corporation by the District of Columbia Nonprofit Corporation Act (D.C. Code, sec. 29–301.01 et seq.) or any successor thereto.

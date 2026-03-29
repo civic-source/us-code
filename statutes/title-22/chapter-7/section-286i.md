@@ -1,0 +1,14 @@
+---
+title: "Section 286i - Stabilization loans by Bank; amendment to Articles of Agreement"
+usc_title: 22
+usc_section: "286i"
+chapter: 7
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 286i"
+generated_at: "2026-03-29T00:30:33.684Z"
+---
+
+# § 286i. Stabilization loans by Bank; amendment to Articles of Agreement
+
+The governor and executive director of the Bank appointed by the United States are directed to obtain promptly an official interpretation by the Bank as to its authority to make or guarantee loans for programs of economic reconstruction and the reconstruction of monetary systems, including long-term stabilization loans. If the Bank does not interpret its powers to include the making or guaranteeing of such loans, the governor of the Bank representing the United States is directed to propose promptly and support an amendment to the Articles of Agreement for the purpose of explicitly authorizing the Bank, after consultation with the Fund, to make or guarantee such loans. The President is authorized and directed to accept an amendment to that effect on behalf of the United States.
+

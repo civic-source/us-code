@@ -1,0 +1,24 @@
+---
+title: "Section 3352 - Emergency exceptions for disaster areas"
+usc_title: 12
+usc_section: "3352"
+chapter: 34
+current_through: "PL 119-73"
+classification: "12 U.S.C. § 3352"
+generated_at: "2026-03-29T00:29:16.788Z"
+---
+
+# § 3352. Emergency exceptions for disaster areas
+
+(a) Each Federal financial institutions regulatory agency may, by regulation or order, make exceptions to this chapter, and to standards prescribed pursuant to this chapter, for transactions involving institutions for which the agency is the primary Federal regulator with respect to real property located within a disaster area if the agency—
+  (1) makes the exception not later than 30 months after the date on which the President determines, pursuant to section 5170 of title 42 , that a major disaster exists in the area; and
+  (2) determines that the exception—
+    (A) would facilitate recovery from the major disaster; and
+    (B) is consistent with safety and soundness.
+(b) Any exception made under this section shall expire not later than 3 years after the date of the determination referred to in subsection (a)(1).
+(c) Any Federal financial institutions regulatory agency shall publish in the Federal Register a statement that—
+  (1) describes any exception made under this section; and
+  (2) explains how the exception—
+    (A) would facilitate recovery from the major disaster; and
+    (B) is consistent with safety and soundness.
+(d) For purposes of this section, the term “disaster area” means an area in which the President, pursuant to section 5170 of title 42 , has determined that a major disaster exists.

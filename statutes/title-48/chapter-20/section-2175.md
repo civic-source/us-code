@@ -1,0 +1,17 @@
+---
+title: "Section 2175 - Role and capacity of Oversight Board"
+usc_title: 48
+usc_section: "2175"
+chapter: 20
+current_through: "PL 119-73"
+classification: "48 U.S.C. § 2175"
+generated_at: "2026-03-29T00:33:06.680Z"
+---
+
+# § 2175. Role and capacity of Oversight Board
+
+(a) For the purposes of this subchapter, the Oversight Board may take any action necessary on behalf of the debtor to prosecute the case of the debtor, including—
+  (1) filing a petition under section 2164 of this title ;
+  (2) submitting or modifying a plan of adjustment under sections 2172 and 2173 of this title; or
+  (3) otherwise generally submitting filings in relation to the case with the court.
+(b) The Oversight Board in a case under this subchapter is the representative of the debtor.

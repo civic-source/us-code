@@ -1,0 +1,14 @@
+---
+title: "Section 396c - Lessees of restricted lands to furnish bonds for performance"
+usc_title: 25
+usc_section: "396c"
+chapter: 12
+current_through: "PL 119-73"
+classification: "25 U.S.C. § 396c"
+generated_at: "2026-03-29T00:30:38.640Z"
+---
+
+# § 396c. Lessees of restricted lands to furnish bonds for performance
+
+On and after May 11, 1938 , lessees of restricted Indian lands, tribal or allotted, for mining purposes, including oil and gas, shall furnish corporate surety bonds, in amounts satisfactory to the Secretary of the Interior, guaranteeing compliance with the terms of their leases: Provided , That personal surety bonds may be accepted where the sureties deposit as collateral with the said Secretary of the Interior any public-debt obligations of the United States guaranteed as to principal and interest by the United States equal to the full amount of such bonds, or other collateral satisfactory to the Secretary of the Interior, or show ownership to unencumbered real estate of a value equal to twice the amount of the bonds.
+

@@ -1,0 +1,24 @@
+---
+title: "Section 1655 - Requirement for Department of Defense to adopt an acquisition strategy for Defense Base Act insurance"
+usc_title: 42
+usc_section: "1655"
+chapter: 11
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 1655"
+generated_at: "2026-03-29T00:32:53.667Z"
+---
+
+# § 1655. Requirement for Department of Defense to adopt an acquisition strategy for Defense Base Act insurance
+
+(a) The Secretary of Defense shall adopt an acquisition strategy for insurance required by the Defense Base Act ( 42 U.S.C. 1651 et seq.) which minimizes the cost of such insurance to the Department of Defense and to defense contractors subject to such Act.
+(b) The Secretary shall ensure that the acquisition strategy adopted pursuant to subsection (a) addresses the following criteria:
+  (1) Minimize overhead costs associated with obtaining such insurance, such as direct or indirect costs for contract management and contract administration.
+  (2) Minimize costs for coverage of such insurance consistent with realistic assumptions regarding the likelihood of incurred claims by contractors of the Department.
+  (3) Provide for a correlation of premiums paid in relation to claims incurred that is modeled on best practices in government and industry for similar kinds of insurance.
+  (4) Provide for a low level of risk to the Department.
+  (5) Provide for a competitive marketplace for insurance required by the Defense Base Act [ 42 U.S.C. 1651 et seq.] to the maximum extent practicable.
+(c) In adopting the acquisition strategy pursuant to subsection (a), the Secretary shall consider such options (including entering into a single Defense Base Act insurance contract) as the Secretary deems to best satisfy the criteria identified under subsection (b).
+(d) 
+  (1) Not later than 270 days after October 14, 2008 , the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives, the Committee on Homeland Security and Governmental Affairs of the Senate, and the Committee on Oversight and Government Reform of the House of Representatives a report on the acquisition strategy adopted pursuant to subsection (a).
+  (2) The report shall include a discussion of each of the options considered pursuant to subsection (c) and the extent to which each option addresses the criteria identified under subsection (b), and shall include a plan to implement within 18 months after October 14, 2008 , the acquisition strategy adopted by the Secretary.
+(e) As considered appropriate by the Secretary, but not less often than once every 3 years, the Secretary shall review and, as necessary, update the acquisition strategy adopted pursuant to subsection (a) to ensure that it best addresses the criteria identified under subsection (b).

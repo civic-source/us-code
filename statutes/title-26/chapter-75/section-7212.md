@@ -1,0 +1,14 @@
+---
+title: "Section 7212 - Attempts to interfere with administration of internal revenue laws"
+usc_title: 26
+usc_section: "7212"
+chapter: 75
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 7212"
+generated_at: "2026-03-29T00:31:21.081Z"
+---
+
+# § 7212. Attempts to interfere with administration of internal revenue laws
+
+(a) Whoever corruptly or by force or threats of force (including any threatening letter or communication) endeavors to intimidate or impede any officer or employee of the United States acting in an official capacity under this title, or in any other way corruptly or by force or threats of force (including any threatening letter or communication) obstructs or impedes, or endeavors to obstruct or impede, the due administration of this title, shall, upon conviction thereof, be fined not more than $5,000, or imprisoned not more than 3 years, or both, except that if the offense is committed only by threats of force, the person convicted thereof shall be fined not more than $3,000, or imprisoned not more than 1 year, or both. The term “threats of force”, as used in this subsection, means threats of bodily harm to the officer or employee of the United States or to a member of his family.
+(b) Any person who forcibly rescues or causes to be rescued any property after it shall have been seized under this title, or shall attempt or endeavor so to do, shall, excepting in cases otherwise provided for, for every such offense, be fined not more than $500, or not more than double the value of the property so rescued, whichever is the greater, or be imprisoned not more than 2 years.

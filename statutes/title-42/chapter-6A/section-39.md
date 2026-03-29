@@ -1,0 +1,29 @@
+---
+title: "Section 39 - Peer-supported mental health services"
+usc_title: 42
+usc_section: "39"
+chapter: 6
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 39"
+generated_at: "2026-03-29T00:32:52.992Z"
+---
+
+# § 290bb–39. Peer-supported mental health services
+
+(a) The Secretary, acting through the Assistant Secretary for Mental Health and Substance Use, shall award grants to eligible entities to enable such entities to develop, expand, and enhance access to mental health peer-delivered services.
+(b) Grants awarded under subsection (a) shall be used to develop, expand, and enhance national, statewide, or community-focused programs, including virtual peer-support services and technology-related capabilities, including by—
+  (1) carrying out workforce development, recruitment, and retention activities, to train, recruit, and retain peer-support providers;
+  (2) building connections between mental health treatment programs, including between community organizations and peer-support networks, including virtual peer-support networks, and with other mental health support services;
+  (3) reducing stigma associated with mental health disorders;
+  (4) expanding and improving virtual peer mental health support services, including through the adoption of technologies and capabilities to expand access to virtual peer mental health support services, such as by acquiring equipment and software necessary to efficiently run virtual peer-support services; and
+  (5) conducting research on issues relating to mental illness and the impact peer-support has on resiliency, including identifying—
+    (A) the signs of mental illness;
+    (B) the resources available to individuals with mental illness and to their families; and
+    (C) the resources available to help support individuals living with mental illness.
+(c) In carrying out this section, the Secretary shall give special consideration to the unique needs of rural areas.
+(d) In this section, the term “eligible entity” means—
+  (1) a consumer-run nonprofit organization that—
+    (A) is principally governed by people living with a mental health condition; and
+    (B) mobilizes resources within and outside of the mental health community, which may include through peer-support networks, to increase the prevalence and quality of long-term wellness of individuals living with a mental health condition, including those with a co-occurring substance use disorder; or
+  (2) an Indian Tribe, Tribal organization, Urban Indian organization, or consortium of Tribes or Tribal organizations.
+(e) There is authorized to be appropriated to carry out this section $13,000,000 for each of fiscal years 2023 through 2027.

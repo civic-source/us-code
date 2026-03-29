@@ -1,0 +1,14 @@
+---
+title: "Section 2104 - Delegation"
+usc_title: 46
+usc_section: "2104"
+chapter: 21
+current_through: "PL 119-73"
+classification: "46 U.S.C. § 2104"
+generated_at: "2026-03-29T00:33:02.825Z"
+---
+
+# § 2104. Delegation
+
+(a) The Secretary may delegate the duties and powers conferred by this subtitle to any officer, employee, or member of the Coast Guard, and may provide for the subdelegation of those duties and powers.
+(b) When this subtitle authorizes an officer or employee of the Customs Service to act in place of a Coast Guard official, the Secretary may designate that officer or employee subject to the approval of the Secretary of the Treasury.

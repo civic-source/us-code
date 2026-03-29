@@ -1,0 +1,14 @@
+---
+title: "Section 1756 - Expanded royalty obligations"
+usc_title: 30
+usc_section: "1756"
+chapter: 29
+current_through: "PL 119-73"
+classification: "30 U.S.C. § 1756"
+generated_at: "2026-03-29T00:31:30.842Z"
+---
+
+# § 1756. Expanded royalty obligations
+
+Any lessee is liable for royalty payments on oil or gas lost or wasted from a lease site when such loss or waste is due to negligence on the part of the operator of the lease, or due to the failure to comply with any rule or regulation, order or citation issued under this chapter or any mineral leasing law.
+

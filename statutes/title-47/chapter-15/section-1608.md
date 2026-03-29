@@ -1,0 +1,37 @@
+---
+title: "Section 1608 - Definitions"
+usc_title: 47
+usc_section: "1608"
+chapter: 15
+current_through: "PL 119-73"
+classification: "47 U.S.C. § 1608"
+generated_at: "2026-03-29T00:33:04.968Z"
+---
+
+# § 1608. Definitions
+
+In this chapter:
+
+  (1) The term “advanced communications service” has the meaning given the term “advanced telecommunications capability” in section 1302 of this title .
+  (2) The term “appropriate national security agency” means—
+    (A) the Department of Homeland Security;
+    (B) the Department of Defense;
+    (C) the Office of the Director of National Intelligence;
+    (D) the National Security Agency; and
+    (E) the Federal Bureau of Investigation.
+  (3) The term “Commission” means the Federal Communications Commission.
+  (4) The term “communications equipment or service” means any equipment or service that is essential to the provision of advanced communications service.
+  (5) The term “covered communications equipment or service” means any communications equipment or service that is on the list published by the Commission under section 1601(a) of this title .
+  (6) The term “customers” means, with respect to a provider of advanced communications service—
+    (A) the customers of such provider; and
+    (B) the customers of any affiliate (as defined in section 153 of this title ) of such provider.
+  (7) The term “executive branch interagency body” means an interagency body established in the executive branch.
+  (8) The term “person” means an individual or entity.
+  (9) The term “Program” means the Secure and Trusted Communications Networks Reimbursement Program established under section 1603(a) of this title .
+  (10) The term “provider of advanced communications service”—
+    (A) means a person who provides advanced communications service to United States customers; and
+    (B) includes—
+      (i) accredited public or private noncommercial educational institutions, providing their own facilities-based educational broadband service, as defined in section 27.4 of title 47, Code of Federal Regulations, or any successor regulation; and
+      (ii) health care providers and libraries providing advanced communications service.
+  (11) The term “recipient” means any provider of advanced communications service the application of which for a reimbursement under the Program has been approved by the Commission, regardless of whether the provider has received reimbursement funds.
+  (12) The term “reimbursement funds” means any reimbursement received under the Program.

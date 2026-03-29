@@ -1,0 +1,40 @@
+---
+title: "Section 335 - Direct broadcast satellite service obligations"
+usc_title: 47
+usc_section: "335"
+chapter: 5
+current_through: "PL 119-73"
+classification: "47 U.S.C. § 335"
+generated_at: "2026-03-29T00:33:04.894Z"
+---
+
+# § 335. Direct broadcast satellite service obligations
+
+(a) The Commission shall, within 180 days after October 5, 1992 , initiate a rulemaking proceeding to impose, on providers of direct broadcast satellite service, public interest or other requirements for providing video programming. Any regulations prescribed pursuant to such rulemaking shall, at a minimum, apply the access to broadcast time requirement of section 312(a)(7) of this title and the use of facilities requirements of section 315 of this title to providers of direct broadcast satellite service providing video programming. Such proceeding also shall examine the opportunities that the establishment of direct broadcast satellite service provides for the principle of localism under this chapter, and the methods by which such principle may be served through technological and other developments in, or regulation of, such service.
+(b) 
+  (1) 
+    (A) Except as provided in subparagraph (B), the Commission shall require, as a condition of any provision, initial authorization, or authorization renewal for a provider of direct broadcast satellite service providing video programming, that the provider of such service reserve a portion of its channel capacity, equal to not less than 4 percent nor more than 7 percent, exclusively for noncommercial programming of an educational or informational nature.
+    (B) The Commission shall require, as a condition of any provision, initial authorization, or authorization renewal for a qualified satellite provider of direct broadcast satellite service providing video programming, that such provider reserve a portion of its channel capacity, equal to not less than 3.5 percent nor more than 7 percent, exclusively for noncommercial programming of an educational or informational nature.
+  (2) A provider of such service may utilize for any purpose any unused channel capacity required to be reserved under this subsection pending the actual use of such channel capacity for noncommercial programming of an educational or informational nature.
+  (3) A provider of direct broadcast satellite service shall meet the requirements of this subsection by making channel capacity available to national educational programming suppliers, upon reasonable prices, terms, and conditions, as determined by the Commission under paragraph (4). The provider of direct broadcast satellite service shall not exercise any editorial control over any video programming provided pursuant to this subsection.
+  (4) In determining reasonable prices under paragraph (3)—
+    (A) the Commission shall take into account the nonprofit character of the programming provider and any Federal funds used to support such programming;
+    (B) the Commission shall not permit such prices to exceed, for any channel made available under this subsection, 50 percent of the total direct costs of making such channel available; and
+    (C) in the calculation of total direct costs, the Commission shall exclude—
+      (i) marketing costs, general administrative costs, and similar overhead costs of the provider of direct broadcast satellite service; and
+      (ii) the revenue that such provider might have obtained by making such channel available to a commercial provider of video programming.
+  (5) For purposes of this subsection:
+    (A) The term “provider of direct broadcast satellite service” means—
+      (i) a licensee for a Ku-band satellite system under part 100 of title 47 of the Code of Federal Regulations; or
+      (ii) any distributor who controls a minimum number of channels (as specified by Commission regulation) using a Ku-band fixed service satellite system for the provision of video programming directly to the home and licensed under part 25 of title 47 of the Code of Federal Regulations.
+    (B) The term “national educational programming supplier” includes any qualified noncommercial educational television station, other public telecommunications entities, and public or private educational institutions.
+    (C) The term “qualified satellite provider” means any provider of direct broadcast satellite service that—
+      (i) provides the retransmission of the State public affairs networks of at least 15 different States;
+      (ii) offers the programming of State public affairs networks upon reasonable prices, terms, and conditions as determined by the Commission under paragraph (4); and
+      (iii) does not delete any noncommercial programming of an educational or informational nature in connection with the carriage of a State public affairs network.
+    (D) The term “State public affairs network” means a non-commercial non-broadcast network or a noncommercial educational television station—
+      (i) whose programming consists of information about State government deliberations and public policy events; and
+      (ii) that is operated by—
+        (I) a State government or subdivision thereof;
+        (II) an organization described in section 501(c)(3) of title 26 that is exempt from taxation under section 501(a) of such title and that is governed by an independent board of directors; or
+        (III) a cable system.

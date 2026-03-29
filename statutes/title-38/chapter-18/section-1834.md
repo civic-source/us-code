@@ -1,0 +1,14 @@
+---
+title: "Section 1834 - Nonduplication of benefits"
+usc_title: 38
+usc_section: "1834"
+chapter: 18
+current_through: "PL 119-73"
+classification: "38 U.S.C. § 1834"
+generated_at: "2026-03-29T00:32:17.209Z"
+---
+
+# § 1834. Nonduplication of benefits
+
+(a) In the case of an eligible child under subchapter II of this chapter whose only covered birth defect is spina bifida, a monetary allowance shall be paid under subchapter I of this chapter. In the case of an eligible child under subchapter II of this chapter who has spina bifida and one or more additional covered birth defects, a monetary allowance shall be paid under subchapter II of this chapter. In the case of a child eligible for benefits under subchapter I or II of this chapter who is also eligible for benefits under subchapter III of this chapter, a monetary allowance shall be paid under the subchapter of this chapter elected by the child.
+(b) An individual may only be provided one program of vocational training under this chapter.

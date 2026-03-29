@@ -1,0 +1,31 @@
+---
+title: "Section 719a - Junior Duck Stamp"
+usc_title: 16
+usc_section: "719a"
+chapter: 7
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 719a"
+generated_at: "2026-03-29T00:29:52.617Z"
+---
+
+# § 719a. Junior Duck Stamp
+
+(a) As part of the Program, the Secretary may annually conduct a competition to—
+  (1) solicit the submission by students at elementary and secondary schools of designs relating to conservation of migratory birds; and
+  (2) select winning designs from among those submissions for use for licensing and marketing under subsection (b).
+(b) As part of the Program, the Secretary may—
+  (1) license and market winning designs selected in competitions under subsection (a); and
+  (2) license and market stamps bearing those designs, which shall be known as Junior Duck Stamps.
+(c) Amounts received under subsection (b)—
+  (1) 1 1 So in original. Subsec. (c), as amended by Pub. L. 109–166 , does not contain a par. (2). shall be available to the Secretary until expended, without further appropriations, solely for—
+    (A) awards, prizes, and scholarships to individuals who submit designs in competitions under subsection (a), that are—
+      (i) selected in such a competition as winning designs; or
+      (ii) otherwise determined in such a competition to be superior;
+    (B) awards and prizes to schools, students, teachers, and other participants to further education activities related to the conservation education goals of the Program;
+    (C) award ceremonies for winners of national and State Junior Duck Stamp competitions;
+    (D) travel expenses for winners of national and State Junior Duck Stamp competitions to award ceremonies, if—
+      (i) the event is intended to honor students for winning a national competition; or
+      (ii) the event is intended to honor students for winning a State competition;
+    (E) expenses for licensing and marketing under subsection (b);
+    (F) expenses for migratory bird reference materials or supplies awarded to schools that participate in the Program; and
+    (G) expenses for marketing and educational materials developed to promote the Program; 2 2 So in original.

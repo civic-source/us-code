@@ -1,0 +1,50 @@
+---
+title: "Section 453A - Special rules for nondealers"
+usc_title: 26
+usc_section: "453A"
+chapter: 1
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 453A"
+generated_at: "2026-03-29T00:31:20.754Z"
+---
+
+# § 453A. Special rules for nondealers
+
+(a) In the case of an installment obligation to which this section applies—
+  (1) interest shall be paid on the deferred tax liability with respect to such obligation in the manner provided under subsection (c), and
+  (2) the pledging rules under subsection (d) shall apply.
+(b) 
+  (1) This section shall apply to any obligation which arises from the disposition of any property under the installment method, but only if the sales price of such property exceeds $150,000.
+  (2) For purposes of subsection (a)(1), this section shall apply to an obligation described in paragraph (1) arising during a taxable year only if—
+    (A) such obligation is outstanding as of the close of such taxable year, and
+    (B) the face amount of all such obligations held by the taxpayer which arose during, and are outstanding as of the close of, such taxable year exceeds $5,000,000.
+  (3) An installment obligation shall not be treated as described in paragraph (1) if it arises from the disposition—
+    (A) by an individual of personal use property (within the meaning of section 1275(b)(3)), or
+    (B) of any property used or produced in the trade or business of farming (within the meaning of section 2032A(e)(4) or (5)).
+  (4) An installment obligation shall not be treated as described in paragraph (1) if it arises from a disposition described in section 453( l )(2)(B), but the provisions of section 453( l )(3) (relating to interest payments on timeshares and residential lots) shall apply to such obligation.
+  (5) For purposes of paragraph (1), all sales or exchanges which are part of the same transaction (or a series of related transactions) shall be treated as 1 sale or exchange.
+(c) 
+  (1) If an obligation to which this section applies is outstanding as of the close of any taxable year, the tax imposed by this chapter for such taxable year shall be increased by the amount of interest determined in the manner provided under paragraph (2).
+  (2) For purposes of paragraph (1), the interest for any taxable year shall be an amount equal to the product of—
+    (A) the applicable percentage of the deferred tax liability with respect to such obligation, multiplied by
+    (B) the underpayment rate in effect under section 6621(a)(2) for the month with or within which the taxable year ends.
+  (3) For purposes of this section, the term “deferred tax liability” means, with respect to any taxable year, the product of—
+    (A) the amount of gain with respect to an obligation which has not been recognized as of the close of such taxable year, multiplied by
+    (B) the maximum rate of tax in effect under section 1 or 11, whichever is appropriate, for such taxable year.
+  (4) For purposes of this subsection, the term “applicable percentage” means, with respect to obligations arising in any taxable year, the percentage determined by dividing—
+    (A) the portion of the aggregate face amount of such obligations outstanding as of the close of such taxable year in excess of $5,000,000, by
+    (B) the aggregate face amount of such obligations outstanding as of the close of such taxable year.
+  (5) Any amount payable under this subsection shall be taken into account in computing the amount of any deduction allowable to the taxpayer for interest paid or accrued during the taxable year.
+  (6) The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this subsection including regulations providing for the application of this subsection in the case of contingent payments, short taxable years, and pass-thru entities.
+(d) 
+  (1) For purposes of section 453, if any indebtedness (hereinafter in this subsection referred to as “secured indebtedness”) is secured by an installment obligation to which this section applies, the net proceeds of the secured indebtedness shall be treated as a payment received on such installment obligation as of the later of—
+    (A) the time the indebtedness becomes secured indebtedness, or
+    (B) the time the proceeds of such indebtedness are received by the taxpayer.
+  (2) The amount treated as received under paragraph (1) by reason of any secured indebtedness shall not exceed the excess (if any) of—
+    (A) the total contract price, over
+    (B) any portion of the total contract price received under the contract before the later of the times referred to in subparagraph (A) or (B) of paragraph (1) (including amounts previously treated as received under paragraph (1) but not including amounts not taken into account by reason of paragraph (3)).
+  (3) If any amount is treated as received under paragraph (1) with respect to any installment obligation, subsequent payments received on such obligation shall not be taken into account for purposes of section 453 to the extent that the aggregate of such subsequent payments does not exceed the aggregate amount treated as received under paragraph (1).
+  (4) For purposes of this subsection indebtedness is secured by an installment obligation to the extent that payment of principal or interest on such indebtedness is directly secured (under the terms of the indebtedness or any underlying arrangements) by any interest in such installment obligation. A payment shall be treated as directly secured by an interest in an installment obligation to the extent an arrangement allows the taxpayer to satisfy all or a portion of the indebtedness with the installment obligation.
+(e) The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including regulations—
+  (1) disallowing the use of the installment method in whole or in part for transactions in which the rules of this section otherwise would be avoided through the use of related persons, pass-thru entities, or intermediaries, and
+  (2) providing that the sale of an interest in a partnership or other pass-thru entity will be treated as a sale of the proportionate share of the assets of the partnership or other entity.

@@ -1,0 +1,16 @@
+---
+title: "Section 2084 - Cooperation of other Federal departments, agencies, and instrumentalities"
+usc_title: 22
+usc_section: "2084"
+chapter: 29
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 2084"
+generated_at: "2026-03-29T00:30:33.750Z"
+---
+
+# § 2084. Cooperation of other Federal departments, agencies, and instrumentalities
+
+The head of each department, agency, or instrumentality of the Federal Government is authorized—
+
+  (1) to cooperate with the head of the designated department or agency with respect to determining the manner in which and the extent to which the United States shall be a participant in and an exhibitor at Interama; and
+  (2) to make available to the head of the designated department or agency, on a reimbursable basis, such personnel as may be necessary to assist him in carrying out his functions under this chapter.

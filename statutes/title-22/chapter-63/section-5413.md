@@ -1,0 +1,25 @@
+---
+title: "Section 5413 - Agricultural assistance"
+usc_title: 22
+usc_section: "5413"
+chapter: 63
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 5413"
+generated_at: "2026-03-29T00:30:33.940Z"
+---
+
+# § 5413. Agricultural assistance
+
+(a) 
+  (1) A principal component of the SEED Program shall be the provision by the United States of food and other agricultural commodities and products to alleviate crucial shortages that may be created in an East European country by the transition from state-directed controls to a free market economy.
+  (2) In order to ensure the necessary quantity and diversity of agricultural assistance for that purpose, the United States shall take all appropriate steps to encourage parallel efforts by the European Community and other agricultural surplus countries.
+  (3) In participating in such multilateral agricultural assistance, the United States shall seek to strike a balance wherein agricultural commodities and products are supplied in such quantities as will be effective in overcoming severe shortages and dampening inflation but without impeding the development of incentives for private agricultural production and marketing in the recipient country.
+(b) Pursuant to section 5411(b)(3) of this title , the United States Government—
+  (1) shall make available to Poland, in coordination with the European Community, United States agricultural assistance—
+    (A) to alleviate immediate food shortages (such assistance to be specifically targeted toward elements of the Polish population most vulnerable to hunger and malnutrition, in particular the infirm, the elderly, and children), and
+    (B) to facilitate the transition from state-directed controls to a free market economy, while avoiding disincentives to domestic agricultural production and reform; and
+  (2) in order to ensure the necessary quantity and diversity of such agricultural assistance, shall take all appropriate steps to encourage parallel efforts by the European Community and other agricultural surplus countries.
+(c) In carrying out subsection (b) of this section, the level of assistance for Poland for fiscal year 1990 under section 1431(b) of title 7 , the Food for Peace Act ( 7 U.S.C. 1691 and following), and section 1736 o of title 7 should not be less than $125,000,000. Such assistance—
+  (1) to the maximum extent practicable, shall be provided through nongovernmental organizations; and
+  (2) shall emphasize feed grains.
+(d) Subsection (c) should not be construed to authorize or require any budgetary obligations or outlays that are inconsistent with House Concurrent Resolution 106 of the 101st Congress (setting forth the congressional budget for the United States Government for fiscal year 1990).

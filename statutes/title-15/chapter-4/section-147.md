@@ -1,0 +1,14 @@
+---
+title: "Section 147 - Stock; issuance at par value"
+usc_title: 15
+usc_section: "147"
+chapter: 4
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 147"
+generated_at: "2026-03-29T00:29:41.556Z"
+---
+
+# § 147. Stock; issuance at par value
+
+Each share of the original or any subsequent issue of stock of a China Trade Act corporation shall be issued at not less than par value, and shall be paid for in cash, or in accordance with the provisions of section 148 of this title , in real or personal property which has been placed in the custody of the directors. No such share shall be issued until the amount of the par value thereof has been paid the corporation; and when issued, each share shall be held to be full paid and nonassessable; except that if any share is, in violation of this section, issued without the amount of the par value thereof having been paid to the corporation, the holder of such share shall be liable in suits by creditors for the difference between the amount paid for such share and the par value thereof.
+

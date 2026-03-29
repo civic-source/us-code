@@ -1,0 +1,24 @@
+---
+title: "Section 3322 - Bar to duplication of educational assistance benefits"
+usc_title: 38
+usc_section: "3322"
+chapter: 33
+current_through: "PL 119-73"
+classification: "38 U.S.C. § 3322"
+generated_at: "2026-03-29T00:32:17.254Z"
+---
+
+# § 3322. Bar to duplication of educational assistance benefits
+
+(a) An individual entitled to educational assistance under this chapter who is also eligible for educational assistance under chapter 30, 31, 32, or 35 of this title, chapter 107, 1606, or 1607 or section 510 of title 10 , or the provisions of the Hostage Relief Act of 1980 ( Public Law 96–449 ; 5 U.S.C. 5561 note) may not receive assistance under two or more such programs concurrently, but shall elect (in such form and manner as the Secretary may prescribe) under which chapter or provisions to receive educational assistance.
+(b) A period of service counted for purposes of repayment of an education loan under chapter 109 of title 10 may not be counted as a period of service for entitlement to educational assistance under this chapter.
+(c) An individual who serves in the Selected Reserve may receive credit for such service under only one of this chapter, chapter 30 of this title, and chapters 1606 and 1607 of title 10, and shall elect (in such form and manner as the Secretary may prescribe) under which chapter such service is to be credited.
+(d) In the case of an individual entitled to educational assistance under chapter 30, 31, 32, or 35 of this title, chapter 107, 1606, or 1607 of title 10, or the provisions of the Hostage Relief Act of 1980, or making contributions toward entitlement to educational assistance under chapter 30 of this title, as of August 1, 2009 , coordination of entitlement to educational assistance under this chapter, on the one hand, and such chapters or provisions, on the other, shall be governed by the provisions of section 5003(c) of the Post-9/11 Veterans Educational Assistance Act of 2008.
+(e) An individual entitled to educational assistance under both section 3319 and paragraph (8), (9), or (10) of section 3311 of this title may not receive assistance under both provisions concurrently, but shall elect (in such form and manner as the Secretary may prescribe) under which provision to receive educational assistance.
+(f) The commencement of a program of education under paragraph (8), (9), or (10) of section 3311 of this title shall be a bar to the following:
+  (1) Subsequent payments of dependency and indemnity compensation or pension based on the death of a parent to an eligible person over the age of 18 years by reason of pursuing a course in an educational institution.
+  (2) Increased rates, or additional amounts, of compensation, dependency and indemnity compensation, or pension because of such a person, whether eligibility is based upon the death of the parent.
+(g) A spouse or child who is entitled to educational assistance under this chapter based on a transfer of entitlement from more than one individual under section 3319 may not receive assistance based on transfers from more than one such individual concurrently, but shall elect (in such form and manner as the Secretary may prescribe) under which source to utilize such assistance at any one time.
+(h) 
+  (1) An individual with qualifying service in the Armed Forces that establishes eligibility on the part of such individual for educational assistance under this chapter, chapter 30 or 32 of this title, and chapter 1606 or 1607 of title 10, shall elect (in such form and manner as the Secretary may prescribe) under which authority such service is to be credited.
+  (2) A child of a member of the Armed Forces who, on or after September 11, 2001 , dies in the line of duty while serving on active duty, who is eligible for educational assistance under either chapter 35 or paragraph (8), (9), or (10) of section 3311 of this title based on the parent’s death may not receive such assistance under both this chapter and chapter 35 of this title, but shall elect (in such form and manner as the Secretary may prescribe) under which chapter to receive such assistance.

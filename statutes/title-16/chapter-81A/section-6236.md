@@ -1,0 +1,19 @@
+---
+title: "Section 6236 - Ministerial issuance, or amendment authorization"
+usc_title: 16
+usc_section: "6236"
+chapter: 81
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 6236"
+generated_at: "2026-03-29T00:29:52.855Z"
+---
+
+# § 6236. Ministerial issuance, or amendment authorization
+
+(a) The ministerial issuance or amendment of an organizational camp special use authorization shall not be subject to the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).
+(b) For purposes of subsection (a), the ministerial issuance or amendment of an authorization occurs only when the issuance or amendment of the authorization would not change the physical environment or the activities, facilities, or program of the operations governed by the authorization, and at least one of the following apply:
+  (1) The authorization is issued upon a change in control of the holder of an existing authorization.
+  (2) The holder, upon expiration of an authorization, is issued a new authorization.
+  (3) The authorization is amended—
+    (A) to effectuate administrative changes, such as modification of the land use fee or conversion to a new special use authorization form; or
+    (B) to include nondiscretionary environmental standards or to conform with current law.

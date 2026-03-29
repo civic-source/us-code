@@ -1,0 +1,15 @@
+---
+title: "Section 24303 - Officers"
+usc_title: 49
+usc_section: "24303"
+chapter: 243
+current_through: "PL 119-73"
+classification: "49 U.S.C. § 24303"
+generated_at: "2026-03-29T00:33:13.811Z"
+---
+
+# § 24303. Officers
+
+(a) Amtrak has a President and other officers that are named and appointed by the board of directors of Amtrak. An officer of Amtrak must be a citizen of the United States. Officers of Amtrak serve at the pleasure of the board.
+(b) The board may fix the pay of the officers of Amtrak. An officer may not be paid more than the general level of pay for officers of rail carriers with comparable responsibility. The preceding sentence shall not apply for any fiscal year for which no Federal assistance is provided to Amtrak.
+(c) When employed by Amtrak, an officer may not have a financial or employment relationship with another rail carrier, except that holding securities issued by a rail carrier is not deemed to be a violation of this subsection if the officer holding the securities makes a complete public disclosure of the holdings and does not participate in any decision directly affecting the rail carrier.

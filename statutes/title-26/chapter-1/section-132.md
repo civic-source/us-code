@@ -1,0 +1,133 @@
+---
+title: "Section 132 - Certain fringe benefits"
+usc_title: 26
+usc_section: "132"
+chapter: 1
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 132"
+generated_at: "2026-03-29T00:31:20.626Z"
+---
+
+# § 132. Certain fringe benefits
+
+(a) Gross income shall not include any fringe benefit which qualifies as a—
+  (1) no-additional-cost service,
+  (2) qualified employee discount,
+  (3) working condition fringe,
+  (4) de minimis fringe,
+  (5) qualified transportation fringe,
+  (6) qualified moving expense reimbursement,
+  (7) qualified retirement planning services, or
+  (8) qualified military base realignment and closure fringe.
+(b) For purposes of this section, the term “no-additional-cost service” means any service provided by an employer to an employee for use by such employee if—
+  (1) such service is offered for sale to customers in the ordinary course of the line of business of the employer in which the employee is performing services, and
+  (2) the employer incurs no substantial additional cost (including forgone revenue) in providing such service to the employee (determined without regard to any amount paid by the employee for such service).
+(c) For purposes of this section—
+  (1) The term “qualified employee discount” means any employee discount with respect to qualified property or services to the extent such discount does not exceed—
+    (A) in the case of property, the gross profit percentage of the price at which the property is being offered by the employer to customers, or
+    (B) in the case of services, 20 percent of the price at which the services are being offered by the employer to customers.
+  (2) 
+    (A) The term “gross profit percentage” means the percent which—
+      (i) the excess of the aggregate sales price of property sold by the employer to customers over the aggregate cost of such property to the employer, is of
+      (ii) the aggregate sale price of such property.
+    (B) Gross profit percentage shall be determined on the basis of—
+      (i) all property offered to customers in the ordinary course of the line of business of the employer in which the employee is performing services (or a reasonable classification of property selected by the employer), and
+      (ii) the employer’s experience during a representative period.
+  (3) The term “employee discount” means the amount by which—
+    (A) the price at which the property or services are provided by the employer to an employee for use by such employee, is less than
+    (B) the price at which such property or services are being offered by the employer to customers.
+  (4) The term “qualified property or services” means any property (other than real property and other than personal property of a kind held for investment) or services which are offered for sale to customers in the ordinary course of the line of business of the employer in which the employee is performing services.
+(d) For purposes of this section, the term “working condition fringe” means any property or services provided to an employee of the employer to the extent that, if the employee paid for such property or services, such payment would be allowable as a deduction under section 162 or 167.
+(e) For purposes of this section—
+  (1) The term “de minimis fringe” means any property or service the value of which is (after taking into account the frequency with which similar fringes are provided by the employer to the employer’s employees) so small as to make accounting for it unreasonable or administratively impracticable.
+  (2) The operation by an employer of any eating facility for employees shall be treated as a de minimis fringe if—
+    (A) such facility is located on or near the business premises of the employer, and
+    (B) revenue derived from such facility normally equals or exceeds the direct operating costs of such facility.
+(f) 
+  (1) For purposes of this section, the term “qualified transportation fringe” means any of the following provided by an employer to an employee:
+    (A) Transportation in a commuter highway vehicle if such transportation is in connection with travel between the employee’s residence and place of employment.
+    (B) Any transit pass.
+    (C) Qualified parking.
+  (2) The amount of the fringe benefits which are provided by an employer to any employee and which may be excluded from gross income under subsection (a)(5) shall not exceed—
+    (A) $175 per month in the case of the aggregate of the benefits described in subparagraphs (A) and (B) of paragraph (1), and
+    (B) $175 per month in the case of qualified parking.
+  (3) For purposes of this subsection, the term “qualified transportation fringe” includes a cash reimbursement by an employer to an employee for a benefit described in paragraph (1). The preceding sentence shall apply to a cash reimbursement for any transit pass only if a voucher or similar item which may be exchanged only for a transit pass is not readily available for direct distribution by the employer to the employee.
+  (4) No amount shall be included in the gross income of an employee solely because the employee may choose between any qualified transportation fringe and compensation which would otherwise be includible in gross income of such employee.
+  (5) For purposes of this subsection—
+    (A) The term “transit pass” means any pass, token, farecard, voucher, or similar item entitling a person to transportation (or transportation at a reduced price) if such transportation is—
+      (i) on mass transit facilities (whether or not publicly owned), or
+      (ii) provided by any person in the business of transporting persons for compensation or hire if such transportation is provided in a vehicle meeting the requirements of subparagraph (B)(i).
+    (B) The term “commuter highway vehicle” means any highway vehicle—
+      (i) the seating capacity of which is at least 6 adults (not including the driver), and
+      (ii) at least 80 percent of the mileage use of which can reasonably be expected to be—
+        (I) for purposes of transporting employees in connection with travel between their residences and their place of employment, and
+        (II) on trips during which the number of employees transported for such purposes is at least ½ of the adult seating capacity of such vehicle (not including the driver).
+    (C) The term “qualified parking” means parking provided to an employee on or near the business premises of the employer or on or near a location from which the employee commutes to work by transportation described in subparagraph (A), in a commuter highway vehicle, or by carpool. Such term shall not include any parking on or near property used by the employee for residential purposes.
+    (D) Transportation referred to in paragraph (1)(A) shall be considered to be provided by an employer if such transportation is furnished in a commuter highway vehicle operated by or for the employer.
+    (E) For purposes of this subsection, the term “employee” does not include an individual who is an employee within the meaning of section 401(c)(1).
+  (6) 
+    (A) In the case of any taxable year beginning in a calendar year after 1999, the dollar amounts contained in subparagraphs (A) and (B) of paragraph (2) shall be increased by an amount equal to—
+      (i) such dollar amount, multiplied by
+      (ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 1997” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+    (B) If any increase determined under subparagraph (A) is not a multiple of $5, such increase shall be rounded to the next lowest multiple of $5.
+  (7) For purposes of this section, the terms “working condition fringe” and “de minimis fringe” shall not include any qualified transportation fringe (determined without regard to paragraph (2)).
+(g) For purposes of this section—
+  (1) The term “qualified moving expense reimbursement” means any amount received (directly or indirectly) by an individual from an employer as a payment for (or a reimbursement of) expenses which would be deductible as moving expenses under section 217 if directly paid or incurred by the individual. Such term shall not include any payment for (or reimbursement of) an expense actually deducted by the individual in a prior taxable year.
+  (2) Except in the case of a member of the Armed Forces of the United States on active duty who moves pursuant to a military order and incident to a permanent change of station, or an employee or new appointee of the intelligence community (as defined in section 3 of the National Security Act of 1947 ( 50 U.S.C. 3003 )) (other than a member of the Armed Forces of the United States) who moves pursuant to a change in assignment that requires relocation, subsection (a)(6) shall not apply to any taxable year beginning after December 31, 2017 .
+(h) For purposes of paragraphs (1) and (2) of subsection (a)—
+  (1) With respect to a line of business of an employer, the term “employee” includes—
+    (A) any individual who was formerly employed by such employer in such line of business and who separated from service with such employer in such line of business by reason of retirement or disability, and
+    (B) any widow or widower of any individual who died while employed by such employer in such line of business or while an employee within the meaning of subparagraph (A).
+  (2) 
+    (A) Any use by the spouse or a dependent child of the employee shall be treated as use by the employee.
+    (B) For purposes of subparagraph (A), the term “dependent child” means any child (as defined in section 152(f)(1)) of the employee—
+      (i) who is a dependent of the employee, or
+      (ii) both of whose parents are deceased and who has not attained age 25.
+  (3) Any use of air transportation by a parent of an employee (determined without regard to paragraph (1)(B)) shall be treated as use by the employee.
+(i) For purposes of paragraph (1) of subsection (a), any service provided by an employer to an employee of another employer shall be treated as provided by the employer of such employee if—
+  (1) such service is provided pursuant to a written agreement between such employers, and
+  (2) neither of such employers incurs any substantial additional costs (including foregone revenue) in providing such service or pursuant to such agreement.
+(j) 
+  (1) Paragraphs (1) and (2) of subsection (a) shall apply with respect to any fringe benefit described therein provided with respect to any highly compensated employee only if such fringe benefit is available on substantially the same terms to each member of a group of employees which is defined under a reasonable classification set up by the employer which does not discriminate in favor of highly compensated employees.
+  (2) 
+    (A) For purposes of paragraph (2) of subsection (a), in the case of a leased section of a department store—
+      (i) such section shall be treated as part of the line of business of the person operating the department store, and
+      (ii) employees in the leased section shall be treated as employees of the person operating the department store.
+    (B) For purposes of subparagraph (A), a leased section of a department store is any part of a department store where over-the-counter sales of property are made under a lease or similar arrangement where it appears to the general public that individuals making such sales are employed by the person operating the department store.
+  (3) 
+    (A) For purposes of subsection (a)(3), qualified automobile demonstration use shall be treated as a working condition fringe.
+    (B) For purposes of subparagraph (A), the term “qualified automobile demonstration use” means any use of an automobile by a full-time automobile salesman in the sales area in which the automobile dealer’s sales office is located if—
+      (i) such use is provided primarily to facilitate the salesman’s performance of services for the employer, and
+      (ii) there are substantial restrictions on the personal use of such automobile by such salesman.
+  (4) 
+    (A) Gross income shall not include the value of any on-premises athletic facility provided by an employer to his employees.
+    (B) For purposes of this paragraph, the term “on-premises athletic facility” means any gym or other athletic facility—
+      (i) which is located on the premises of the employer,
+      (ii) which is operated by the employer, and
+      (iii) substantially all the use of which is by employees of the employer, their spouses, and their dependent children (within the meaning of subsection (h)).
+  (5) 
+    (A) If—
+      (i) a qualified affiliate is a member of an affiliated group another member of which operates an airline, and
+      (ii) employees of the qualified affiliate who are directly engaged in providing airline-related services are entitled to no-additional-cost service with respect to air transportation provided by such other member,
+    (B) For purposes of this paragraph, the term “qualified affiliate” means any corporation which is predominantly engaged in airline-related services.
+    (C) For purposes of this paragraph, the term “airline-related services” means any of the following services provided in connection with air transportation:
+      (i) Catering.
+      (ii) Baggage handling.
+      (iii) Ticketing and reservations.
+      (iv) Flight planning and weather analysis.
+      (v) Restaurants and gift shops located at an airport.
+      (vi) Such other similar services provided to the airline as the Secretary may prescribe.
+    (D) For purposes of this paragraph, the term “affiliated group” has the meaning given such term by section 1504(a).
+  (6) For purposes of this section, the term “highly compensated employee” has the meaning given such term by section 414(q).
+  (7) For purposes of subsection (b), the transportation of cargo by air and the transportation of passengers by air shall be treated as the same service.
+  (8) Amounts paid or expenses incurred by the employer for education or training provided to the employee which are not excludable from gross income under section 127 shall be excluded from gross income under this section if (and only if) such amounts or expenses are a working condition fringe.
+(k) For purposes of this section (other than subsection (c)(2)), the term “customers” shall only include customers who are not employees.
+(l) This section (other than subsections (e) and (g)) shall not apply to any fringe benefits of a type the tax treatment of which is expressly provided for in any other section of this chapter.
+(m) 
+  (1) For purposes of this section, the term “qualified retirement planning services” means any retirement planning advice or information provided to an employee and his spouse by an employer maintaining a qualified employer plan.
+  (2) Subsection (a)(7) shall apply in the case of highly compensated employees only if such services are available on substantially the same terms to each member of the group of employees normally provided education and information regarding the employer’s qualified employer plan.
+  (3) For purposes of this subsection, the term “qualified employer plan” means a plan, contract, pension, or account described in section 219(g)(5).
+(n) For purposes of this section—
+  (1) The term “qualified military base realignment and closure fringe” means 1 or more payments under the authority of section 1013 of the Demonstration Cities and Metropolitan Development Act of 1966 ( 42 U.S.C. 3374 ) (as in effect on the date of the enactment of the American Recovery and Reinvestment Tax Act of 2009).
+  (2) With respect to any property, such term shall not include any payment referred to in paragraph (1) to the extent that the sum of all of such payments related to such property exceeds the maximum amount described in subsection (c) of such section (as in effect on such date).
+(o) The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.

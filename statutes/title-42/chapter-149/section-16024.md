@@ -1,0 +1,22 @@
+---
+title: "Section 16024 - Nuclear Regulatory Commission"
+usc_title: 42
+usc_section: "16024"
+chapter: 149
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 16024"
+generated_at: "2026-03-29T00:32:54.371Z"
+---
+
+# § 16024. Nuclear Regulatory Commission
+
+(a) In accordance with section 5842 of this title , the Nuclear Regulatory Commission shall have licensing and regulatory authority for any reactor authorized under this part.
+(b) Not later than 3 years after August 8, 2005 , the Secretary and the Chairman of the Nuclear Regulatory Commission shall jointly submit to the appropriate committees of the Senate and the House of Representatives a licensing strategy for the prototype nuclear reactor, including—
+  (1) a description of ways in which current licensing requirements relating to light-water reactors need to be adapted for the types of prototype nuclear reactor being considered by the Project;
+  (2) a description of analytical tools that the Nuclear Regulatory Commission will have to develop to independently verify designs and performance characteristics of components, equipment, systems, or structures associated with the prototype nuclear reactor;
+  (3) other research or development activities that may be required on the part of the Nuclear Regulatory Commission in order to review a license application for the prototype nuclear reactor; and
+  (4) an estimate of the budgetary requirements associated with the licensing strategy.
+(c) The Secretary shall seek the active participation of the Nuclear Regulatory Commission throughout the duration of the Project to—
+  (1) avoid design decisions that will compromise adequate safety margins in the design of the reactor or impair the accessibility of nuclear safety-related components of the prototype reactor for inspection and maintenance;
+  (2) develop tools to facilitate inspection and maintenance needed for safety purposes; and
+  (3) develop risk-based criteria for any future commercial development of a similar reactor architectures.

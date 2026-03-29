@@ -1,0 +1,14 @@
+---
+title: "Section 6324 - State energy efficiency goals"
+usc_title: 42
+usc_section: "6324"
+chapter: 77
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 6324"
+generated_at: "2026-03-29T00:32:53.965Z"
+---
+
+# § 6324. State energy efficiency goals
+
+Each State energy conservation plan with respect to which assistance is made available under this part on or after August 8, 2005 , shall contain a goal, consisting of an improvement of 25 percent or more in the efficiency of use of energy in the State concerned in calendar year 2012 as compared to calendar year 1990, and may contain interim goals.
+

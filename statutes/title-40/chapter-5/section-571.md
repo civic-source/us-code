@@ -1,0 +1,18 @@
+---
+title: "Section 571 - General rules for deposit and use of proceeds"
+usc_title: 40
+usc_section: "571"
+chapter: 5
+current_through: "PL 119-73"
+classification: "40 U.S.C. § 571"
+generated_at: "2026-03-29T00:32:20.531Z"
+---
+
+# § 571. General rules for deposit and use of proceeds
+
+(a) 
+  (1) Except as otherwise provided in this subchapter, proceeds described in paragraph (2) shall be deposited in the Treasury as miscellaneous receipts.
+  (2) The proceeds referred to in paragraph (1) are proceeds under this chapter from a—
+    (A) transfer of excess property to a federal agency for agency use; or
+    (B) sale, lease, or other disposition of surplus property.
+(b) Subject to regulations under this subtitle, the expenses of the sale of old material, condemned stores, supplies, or other public property may be paid from the proceeds of sale so that only the net proceeds are deposited in the Treasury. This subsection applies whether proceeds are deposited as miscellaneous receipts or to the credit of an appropriation as authorized by law.

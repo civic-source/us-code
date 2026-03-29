@@ -1,0 +1,25 @@
+---
+title: "Section 944 - Effect of confirmation"
+usc_title: 11
+usc_section: "944"
+chapter: 9
+current_through: "PL 119-73"
+classification: "11 U.S.C. § 944"
+generated_at: "2026-03-29T00:28:59.964Z"
+---
+
+# § 944. Effect of confirmation
+
+(a) The provisions of a confirmed plan bind the debtor and any creditor, whether or not—
+  (1) a proof of such creditor’s claim is filed or deemed filed under section 501 of this title ;
+  (2) such claim is allowed under section 502 of this title ; or
+  (3) such creditor has accepted the plan.
+(b) Except as provided in subsection (c) of this section, the debtor is discharged from all debts as of the time when—
+  (1) the plan is confirmed;
+  (2) the debtor deposits any consideration to be distributed under the plan with a disbursing agent appointed by the court; and
+  (3) the court has determined—
+    (A) that any security so deposited will constitute, after distribution, a valid legal obligation of the debtor; and
+    (B) that any provision made to pay or secure payment of such obligation is valid.
+(c) The debtor is not discharged under subsection (b) of this section from any debt—
+  (1) excepted from discharge by the plan or order confirming the plan; or
+  (2) owed to an entity that, before confirmation of the plan, had neither notice nor actual knowledge of the case.

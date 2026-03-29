@@ -1,0 +1,18 @@
+---
+title: "Section 314 - Institution of inter partes review"
+usc_title: 35
+usc_section: "314"
+chapter: 31
+current_through: "PL 119-73"
+classification: "35 U.S.C. § 314"
+generated_at: "2026-03-29T00:32:02.952Z"
+---
+
+# § 314. Institution of inter partes review
+
+(a) The Director may not authorize an inter partes review to be instituted unless the Director determines that the information presented in the petition filed under section 311 and any response filed under section 313 shows that there is a reasonable likelihood that the petitioner would prevail with respect to at least 1 of the claims challenged in the petition.
+(b) The Director shall determine whether to institute an inter partes review under this chapter pursuant to a petition filed under section 311 within 3 months after—
+  (1) receiving a preliminary response to the petition under section 313; or
+  (2) if no such preliminary response is filed, the last date on which such response may be filed.
+(c) The Director shall notify the petitioner and patent owner, in writing, of the Director’s determination under subsection (a), and shall make such notice available to the public as soon as is practicable. Such notice shall include the date on which the review shall commence.
+(d) The determination by the Director whether to institute an inter partes review under this section shall be final and nonappealable.

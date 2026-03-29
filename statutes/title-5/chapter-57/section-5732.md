@@ -1,0 +1,17 @@
+---
+title: "Section 5732 - General average contribution; payment or reimbursement"
+usc_title: 5
+usc_section: "5732"
+chapter: 57
+current_through: "PL 119-73"
+classification: "5 U.S.C. § 5732"
+generated_at: "2026-03-29T00:28:38.357Z"
+---
+
+# § 5732. General average contribution; payment or reimbursement
+
+Under such regulations as the President may prescribe, appropriations chargeable for the transportation of baggage and household goods and personal effects of employees of the Government, volunteers as defined by section 8142(a) of this title , and members of the uniformed services are available for the payment or reimbursement of general average contributions required. Appropriations are not available for the payment or reimbursement of general average contributions—
+
+  (1) required in connection with and applicable to quantities of baggage and household goods and personal effects in excess of quantities authorized by statute or regulation to be transported;
+  (2) when the individual concerned is allowed under statute or regulation a commutation instead of actual transportation expenses; or
+  (3) when the individual concerned selected the means of shipment.

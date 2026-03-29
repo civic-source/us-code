@@ -1,0 +1,19 @@
+---
+title: "Section 3063 - Powers of Environmental Protection Agency"
+usc_title: 18
+usc_section: "3063"
+chapter: 203
+current_through: "PL 119-73"
+classification: "18 U.S.C. § 3063"
+generated_at: "2026-03-29T00:30:15.722Z"
+---
+
+# § 3063. Powers of Environmental Protection Agency
+
+(a) Upon designation by the Administrator of the Environmental Protection Agency, any law enforcement officer of the Environmental Protection Agency with responsibility for the investigation of criminal violations of a law administered by the Environmental Protection Agency, may—
+  (1) carry firearms;
+  (2) execute and serve any warrant or other processes issued under the authority of the United States; and
+  (3) make arrests without warrant for—
+    (A) any offense against the United States committed in such officer’s presence; or
+    (B) any felony offense against the United States if such officer has probable cause to believe that the person to be arrested has committed or is committing that felony offense.
+(b) The powers granted under subsection (a) of this section shall be exercised in accordance with guidelines approved by the Attorney General.

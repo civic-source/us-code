@@ -1,0 +1,14 @@
+---
+title: "Section 1966 - Expedition of actions"
+usc_title: 18
+usc_section: "1966"
+chapter: 96
+current_through: "PL 119-73"
+classification: "18 U.S.C. § 1966"
+generated_at: "2026-03-29T00:30:15.691Z"
+---
+
+# § 1966. Expedition of actions
+
+In any civil action instituted under this chapter by the United States in any district court of the United States, the Attorney General may file with the clerk of such court a certificate stating that in his opinion the case is of general public importance. A copy of that certificate shall be furnished immediately by such clerk to the chief judge or in his absence to the presiding district judge of the district in which such action is pending. Upon receipt of such copy, such judge shall designate immediately a judge of that district to hear and determine action.
+

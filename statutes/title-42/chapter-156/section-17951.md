@@ -1,0 +1,15 @@
+---
+title: "Section 17951 - Relationship to other laws"
+usc_title: 42
+usc_section: "17951"
+chapter: 156
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 17951"
+generated_at: "2026-03-29T00:32:54.451Z"
+---
+
+# § 17951. Relationship to other laws
+
+(a) Section 1178 of the Social Security Act ( 42 U.S.C. 1320d–7 ) shall apply to a provision or requirement under this subchapter in the same manner that such section applies to a provision or requirement under part C of title XI of such Act [ 42 U.S.C. 1320d et seq.] or a standard or implementation specification adopted or established under sections 1172 through 1174 of such Act [ 42 U.S.C. 1320d–1 to 1320d–3].
+(b) The standards governing the privacy and security of individually identifiable health information promulgated by the Secretary under sections 262(a) and 264 of the Health Insurance Portability and Accountability Act of 1996 shall remain in effect to the extent that they are consistent with this subchapter. The Secretary shall by rule amend such Federal regulations as required to make such regulations consistent with this subchapter.
+(c) Nothing in this subchapter shall constitute a waiver of any privilege otherwise applicable to an individual with respect to the protected health information of such individual.

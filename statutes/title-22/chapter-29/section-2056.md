@@ -1,0 +1,15 @@
+---
+title: "Section 2056 - Administration"
+usc_title: 22
+usc_section: "2056"
+chapter: 29
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 2056"
+generated_at: "2026-03-29T00:30:33.749Z"
+---
+
+# § 2056. Administration
+
+(a) In carrying out the provisions of this subchapter, the Secretary may utilize his authority under the provisions of the United States Information and Educational Exchange Act of 1948, as amended [ 22 U.S.C. 1431 et seq.].
+(b) The Secretary may, in administering the provisions of this subchapter, accept from public and private sources money and property to be utilized in carrying out the purposes and functions of the Center. In utilizing any gifts, bequests, or devises accepted there shall be available to the Secretary the same authorities as are available to him in accepting and utilizing gifts, bequests, and devises to the George P. Shultz National Foreign Affairs Training Center under the provisions of section 2697 of this title . For the purposes of Federal income, estate, and gift taxes, any gift, devise, or bequest accepted by the Secretary under the authority of this subchapter shall be deemed to be a gift, devise, or bequest to or for the use of the United States.
+(c) The Director of the United States Information Agency shall make periodic reports, as he deems necessary, to the Congress with respect to his activities under the provisions of this subchapter, and such reports shall include any recommendations for needed revisions in this subchapter.

@@ -1,0 +1,24 @@
+---
+title: "Section 1445a - Advisory Councils"
+usc_title: 16
+usc_section: "1445a"
+chapter: 32
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 1445a"
+generated_at: "2026-03-29T00:29:52.719Z"
+---
+
+# § 1445a. Advisory Councils
+
+(a) The Secretary may establish one or more advisory councils (in this section referred to as an “Advisory Council”) to advise and make recommendations to the Secretary regarding the designation and management of national marine sanctuaries. The Advisory Councils shall be exempt from chapter 10 of title 5.
+(b) Members of the Advisory Councils may be appointed from among—
+  (1) persons employed by Federal or State agencies with expertise in management of natural resources;
+  (2) members of relevant Regional Fishery Management Councils established under section 1852 of this title ; and
+  (3) representatives of local user groups, conservation and other public interest organizations, scientific organizations, educational organizations, or others interested in the protection and multiple use management of sanctuary resources.
+(c) For sanctuaries designated after November 4, 1992 , the membership of Advisory Councils shall be limited to no more than 15 members.
+(d) The Secretary may make available to an Advisory Council any staff, information, administrative services, or assistance the Secretary determines are reasonably required to enable the Advisory Council to carry out its functions.
+(e) The following guidelines apply with respect to the conduct of business meetings of an Advisory Council:
+  (1) Each meeting shall be open to the public, and interested persons shall be permitted to present oral or written statements on items on the agenda.
+  (2) Emergency meetings may be held at the call of the chairman or presiding officer.
+  (3) Timely notice of each meeting, including the time, place, and agenda of the meeting, shall be published locally and in the Federal Register, except that in the case of a meeting of an Advisory Council established to provide assistance regarding any individual national marine sanctuary the notice is not required to be published in the Federal Register.
+  (4) Minutes of each meeting shall be kept and contain a summary of the attendees and matters discussed.

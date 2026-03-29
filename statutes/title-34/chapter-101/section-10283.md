@@ -1,0 +1,14 @@
+---
+title: "Section 10283 - National programs for families of public safety officers who have sustained fatal or catastrophic injury in the line of duty"
+usc_title: 34
+usc_section: "10283"
+chapter: 101
+current_through: "PL 119-73"
+classification: "34 U.S.C. § 10283"
+generated_at: "2026-03-29T00:32:01.547Z"
+---
+
+# § 10283. National programs for families of public safety officers who have sustained fatal or catastrophic injury in the line of duty
+
+The Director is authorized to use no less than $150,000 of the funds appropriated for this subchapter to maintain and enhance national peer support and counseling programs to assist families of public safety officers who have sustained fatal or catastrophic injury in the line of duty.
+

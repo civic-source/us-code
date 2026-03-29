@@ -1,0 +1,18 @@
+---
+title: "Section 7831 - Report on United States humanitarian assistance"
+usc_title: 22
+usc_section: "7831"
+chapter: 85
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 7831"
+generated_at: "2026-03-29T00:30:34.002Z"
+---
+
+# § 7831. Report on United States humanitarian assistance
+
+(a) Not later than 180 days after October 18, 2004 , and annually thereafter through 2022, the Administrator of the United States Agency for International Development, in conjunction with the Secretary of State, shall submit to the appropriate congressional committees a report that describes—
+  (1) all activities to provide humanitarian assistance inside North Korea, and to North Koreans outside of North Korea, that receive United States funding;
+  (2) any improvements in humanitarian transparency, monitoring, and access inside North Korea during the previous 1-year period, including progress toward meeting the conditions identified in subparagraphs (A) through (D) of section 7832(b)(1) of this title ; and
+  (3) specific efforts to secure improved humanitarian transparency, monitoring, and access inside North Korea made by the United States and United States grantees, including the World Food Program, during the previous 1-year period.
+(b) The report shall include a needs assessment to inform the distribution of humanitarian assistance inside North Korea.
+(c) The information required by subsection (a)(1) may be provided in classified form if necessary.

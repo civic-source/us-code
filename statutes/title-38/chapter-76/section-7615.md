@@ -1,0 +1,14 @@
+---
+title: "Section 7615 - Status of participants"
+usc_title: 38
+usc_section: "7615"
+chapter: 76
+current_through: "PL 119-73"
+classification: "38 U.S.C. § 7615"
+generated_at: "2026-03-29T00:32:17.343Z"
+---
+
+# § 7615. Status of participants
+
+Participants in the Scholarship Program shall not by reason of their participation in such program (1) be considered to be employees of the Federal Government, or (2) be counted against any personnel ceiling affecting the Veterans Health Administration.
+

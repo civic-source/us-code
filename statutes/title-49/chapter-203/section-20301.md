@@ -1,0 +1,18 @@
+---
+title: "Section 20301 - Definition and nonapplication"
+usc_title: 49
+usc_section: "20301"
+chapter: 203
+current_through: "PL 119-73"
+classification: "49 U.S.C. § 20301"
+generated_at: "2026-03-29T00:33:13.796Z"
+---
+
+# § 20301. Definition and nonapplication
+
+(a) In this chapter, “vehicle” means a car, locomotive, tender, or similar vehicle.
+(b) This chapter does not apply to the following:
+  (1) a train of 4-wheel coal cars.
+  (2) a train of 8-wheel standard logging cars if the height of each car from the top of the rail to the center of the coupling is not more than 25 inches.
+  (3) a locomotive used in hauling a train referred to in clause (2) of this subsection when the locomotive and cars of the train are used only to transport logs.
+  (4) a car, locomotive, or train used on a street railway.

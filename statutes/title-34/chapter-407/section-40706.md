@@ -1,0 +1,15 @@
+---
+title: "Section 40706 - Privacy protection standards"
+usc_title: 34
+usc_section: "40706"
+chapter: 407
+current_through: "PL 119-73"
+classification: "34 U.S.C. § 40706"
+generated_at: "2026-03-29T00:32:01.686Z"
+---
+
+# § 40706. Privacy protection standards
+
+(a) Except as provided in subsection (b), any sample collected under, or any result of any analysis carried out under, section 40701, 40702, or 40703 of this title may be used only for a purpose specified in such section.
+(b) A sample or result described in subsection (a) may be disclosed under the circumstances under which disclosure of information included in the Combined DNA Index System is allowed, as specified in subparagraphs (A) through (D) of section 12592(b)(3) of this title .
+(c) A person who knowingly discloses a sample or result described in subsection (a) in any manner to any person not authorized to receive it, or obtains or uses, without authorization, such sample or result, shall be fined not more than $250,000, or imprisoned for a period of not more than one year. Each instance of disclosure, obtaining, or use shall constitute a separate offense under this subsection.

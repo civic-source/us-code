@@ -1,0 +1,14 @@
+---
+title: "Section 480 - Training programs"
+usc_title: 28
+usc_section: "480"
+chapter: 23
+current_through: "PL 119-73"
+classification: "28 U.S.C. § 480"
+generated_at: "2026-03-29T00:31:24.145Z"
+---
+
+# § 480. Training programs
+
+The Director of the Federal Judicial Center and the Director of the Administrative Office of the United States Courts shall develop and conduct comprehensive education and training programs to ensure that all judicial officers, clerks of court, courtroom deputies, and other appropriate court personnel are thoroughly familiar with the most recent available information and analyses about litigation management and other techniques for reducing cost and expediting the resolution of civil litigation. The curriculum of such training programs shall be periodically revised to reflect such information and analyses.
+

@@ -1,0 +1,17 @@
+---
+title: "Section 5204 - Insular areas disaster survival and recovery; definitions"
+usc_title: 42
+usc_section: "5204"
+chapter: 68
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 5204"
+generated_at: "2026-03-29T00:32:53.915Z"
+---
+
+# § 5204. Insular areas disaster survival and recovery; definitions
+
+As used in sections 5204 to 5204c of this title—
+
+  (1) the term “insular area” means any of the following: American Samoa, the Federated States of Micronesia, Guam, the Marshall Islands, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and the Virgin Islands;
+  (2) the term “disaster” means a declaration of a major disaster by the President after September 1, 1989 , pursuant to section 5170 of this title ; and
+  (3) the term “Secretary” means the Secretary of the Interior.

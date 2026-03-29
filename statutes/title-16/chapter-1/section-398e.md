@@ -1,0 +1,14 @@
+---
+title: "Section 398e - Bathing and fishing rights protected"
+usc_title: 16
+usc_section: "398e"
+chapter: 1
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 398e"
+generated_at: "2026-03-29T00:29:52.349Z"
+---
+
+# § 398e. Bathing and fishing rights protected
+
+(a) Nothing in sections 398c to 398f of this title shall be construed as authorizing any limitation on customary uses of or access to the areas specified in section 398c of this title for bathing and fishing (including setting out of fishpots and landing boats), subject to such regulations as the Secretary of the Interior may find reasonable and necessary for protection of natural conditions and prevention of damage to marine life and formations.
+(b) Notwithstanding any provision of law to the contrary, no fee or charge shall be imposed for entrance or admission into the Virgin Islands National Park.

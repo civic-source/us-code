@@ -1,0 +1,25 @@
+---
+title: "Section 308c - Special pay: bonus for affiliation or enlistment in the Selected Reserve"
+usc_title: 37
+usc_section: "308c"
+chapter: 5
+current_through: "PL 119-73"
+classification: "37 U.S.C. § 308c"
+generated_at: "2026-03-29T00:32:04.404Z"
+---
+
+# § 308c. Special pay: bonus for affiliation or enlistment in the Selected Reserve
+
+(a) The Secretary concerned may pay an affiliation bonus to an enlisted member of an armed force who—
+  (1) has completed fewer than 20 years of military service; and
+  (2) executes a written agreement to serve in the Selected Reserve of the Ready Reserve of an armed force for a period of not less than three years in a skill, unit, or pay grade designated under subsection (b) after being discharged or released from active duty under honorable conditions.
+(b) The Secretary concerned shall designate the skills, units, and pay grades for which an affiliation bonus may be paid under subsection (a). Any skill, unit, or pay grade so designated shall be a skill, unit, or pay grade for which there is a critical need for personnel in the Selected Reserve of the Ready Reserve of an armed force, as determined by the Secretary concerned. The Secretary concerned shall establish other requirements to ensure that members accepted for affiliation meet required performance and discipline standards.
+(c) The Secretary concerned may pay an accession bonus to a person who—
+  (1) has not previously served in the armed forces or has served in the armed forces, but was released from such service before completing the basic training requirements of the armed force of which the person was a member and the service was characterized as either honorable or uncharacterized; and
+  (2) executes a written agreement to serve as an enlisted member in the Selected Reserve of the Ready Reserve of an armed force for a period of not less than three years upon acceptance of the agreement by the Secretary concerned.
+(d) The amount of a bonus under subsection (a) or (c) may not exceed $20,000.
+(e) Upon acceptance of a written agreement by the Secretary concerned, the total amount of the bonus payable under the agreement becomes fixed. The agreement shall specify whether the bonus shall be paid by the Secretary concerned in a lump sum or in installments.
+(f) A member entitled to a bonus under this section who is called or ordered to active duty shall be paid, during that period of active duty, any amount of the bonus that becomes payable to the member during that period of active duty.
+(g) A person who enters into an agreement under subsection (a) or (c) and receives all or part of the bonus under the agreement, but who does not commence to serve in the Selected Reserve or does not satisfactorily participate in the Selected Reserve for the total period of service specified in the agreement, shall be subject to the repayment provisions of section 303a(e) of this title .
+(h) This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under the jurisdiction of the Secretary of Defense and by the Secretary of Homeland Security for the Coast Guard when it is not operating as a service in the Navy.
+(i) No bonus may be paid under this section with respect to any agreement entered into under subsection (a) or (c) after December 31, 2018 .

@@ -1,0 +1,17 @@
+---
+title: "Section 9802 - Statement of policy"
+usc_title: 22
+usc_section: "9802"
+chapter: 105
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 9802"
+generated_at: "2026-03-29T00:30:34.067Z"
+---
+
+# § 9802. Statement of policy
+
+It is the policy of the United States to seek to stabilize conflict-affected areas and prevent violence and fragility globally, including by—
+
+  (1) ensuring that all relevant Federal departments and agencies coordinate to achieve coherent, long-term goals for programs designed to carry out such policy;
+  (2) seeking to improve global, regional, and local coordination of relevant international and multilateral development and donor organizations regarding efforts to carry out such policy; and
+  (3) enhancing the effectiveness of United States foreign assistance programs and activities to carry out such policy, including by improving assessment, monitoring, and evaluation conducted by the relevant Federal departments and agencies.

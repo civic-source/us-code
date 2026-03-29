@@ -1,0 +1,14 @@
+---
+title: "Section 1096 - Registration on supplemental register not used to stop importations"
+usc_title: 15
+usc_section: "1096"
+chapter: 22
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 1096"
+generated_at: "2026-03-29T00:29:41.678Z"
+---
+
+# § 1096. Registration on supplemental register not used to stop importations
+
+Registration on the supplemental register or under the Act of March 19, 1920 , shall not be filed in the Department of the Treasury or be used to stop importations.
+

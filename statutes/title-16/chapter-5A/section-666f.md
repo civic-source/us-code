@@ -1,0 +1,14 @@
+---
+title: "Section 666f - Wildlife conservation and agricultural, industrial, recreational, and related uses for certain Federal lands; transfer of lands to Secretary of the Interior; administration, development, and disposition"
+usc_title: 16
+usc_section: "666f"
+chapter: 5
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 666f"
+generated_at: "2026-03-29T00:29:52.591Z"
+---
+
+# § 666f. Wildlife conservation and agricultural, industrial, recreational, and related uses for certain Federal lands; transfer of lands to Secretary of the Interior; administration, development, and disposition
+
+In order to promote the orderly development and use of the lands and interests therein acquired by the United States in connection with the Crab Orchard Creek project and the Illinois Ordnance Plant in Williamson, Jackson, and Union Counties, Illinois, consistent with the needs of agriculture, industry, recreation, and wildlife conservation, all of the interests of the United States in and to such lands are hereby transferred to the Secretary of the Interior for administration, development, and disposition, in accordance with the provisions of this section and section 666g of this title .
+

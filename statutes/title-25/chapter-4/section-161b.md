@@ -1,0 +1,14 @@
+---
+title: "Section 161b - “Indian Money, Proceeds of Labor” fund; separate accounts for respective tribes; rate of interest"
+usc_title: 25
+usc_section: "161b"
+chapter: 4
+current_through: "PL 119-73"
+classification: "25 U.S.C. § 161b"
+generated_at: "2026-03-29T00:30:38.619Z"
+---
+
+# § 161b. “Indian Money, Proceeds of Labor” fund; separate accounts for respective tribes; rate of interest
+
+All tribal funds arising under section 155 of this title on June 13, 1930 , included in the fund “Indian Money, Proceeds of Labor”, shall, on and after July 1, 1930 , be carried on the books of the Treasury Department in separate accounts for the respective tribes, and all such funds with account balances exceeding $500 shall bear simple interest at the rate of 4 per centum per annum from July 1, 1930 .
+

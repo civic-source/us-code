@@ -1,0 +1,22 @@
+---
+title: "Section 579f - Budgetary evaluation metrics and transparency; public participation"
+usc_title: 33
+usc_section: "579f"
+chapter: 12
+current_through: "PL 119-73"
+classification: "33 U.S.C. § 579f"
+generated_at: "2026-03-29T00:31:57.208Z"
+---
+
+# § 579f. Budgetary evaluation metrics and transparency; public participation
+
+(a) 
+(b) Beginning in fiscal year 2020, in the formulation of the annual budget request for the U.S. Army Corps of Engineers (Civil Works) pursuant to section 1105(a) of title 31 , the President shall ensure that such budget request—
+  (1) aligns the assessment of the potential benefit-cost ratio for budgeting water resources development projects with that used by the Corps of Engineers during project plan formulation and evaluation pursuant to section 1962d–17 of title 42 ; and
+  (2) demonstrates the transparent criteria and metrics utilized by the President in the evaluation and selection of water resources development projects included in such budget request.
+(c) In the development of, or any proposed major substantive modification to, a proposed budget for water resources development projects, the Secretary, through each District shall, not less frequently than annually—
+  (1) provide to non-Federal interests and other interested stakeholders information on the proposed budget for projects or substantive modifications to project budgets within each District’s jurisdiction;
+  (2) hold multiple public meetings to discuss the budget for projects within each District’s jurisdiction; and
+  (3) provide to non-Federal interests the opportunity to collaborate with District personnel for projects within each District’s jurisdiction—
+    (A) to support information sharing; and
+    (B) to the maximum extent practicable, to share in concept development and decisionmaking to achieve complementary or integrated solutions to problems.

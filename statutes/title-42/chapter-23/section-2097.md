@@ -1,0 +1,14 @@
+---
+title: "Section 2097 - Operations on lands belonging to United States"
+usc_title: 42
+usc_section: "2097"
+chapter: 23
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 2097"
+generated_at: "2026-03-29T00:32:53.747Z"
+---
+
+# § 2097. Operations on lands belonging to United States
+
+The Commission is authorized, to the extent it deems necessary to effectuate the provisions of this chapter, to issue leases or permits for prospecting for, exploration for, mining of, or removal of deposits of source material in lands belonging to the United States: Provided, however , That notwithstanding any other provisions of law, such leases or permits may be issued for lands administered for national park, monument, and wildlife purposes only when the President by Executive Order declares that the requirements of the common defense and security make such action necessary.
+

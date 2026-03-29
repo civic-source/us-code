@@ -1,0 +1,14 @@
+---
+title: "Section 1536 - Prohibition against fraudulent use of “Made in America” labels"
+usc_title: 15
+usc_section: "1536"
+chapter: 40
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 1536"
+generated_at: "2026-03-29T00:29:41.703Z"
+---
+
+# § 1536. Prohibition against fraudulent use of “Made in America” labels
+
+If it has been finally determined by a court or a Federal agency that any person intentionally affixed a label bearing a “Made in America” inscription, or an inscription with the same meaning, to any product sold in or shipped to the United States that is not made in the United States, that person shall be ineligible to receive any contract or subcontract from the Department of Commerce, pursuant to the debarment, suspension, and ineligibility procedures in subpart 9.4 of chapter 1 of title 48, Code of Federal Regulations.
+

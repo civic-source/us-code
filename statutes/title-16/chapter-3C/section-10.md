@@ -1,0 +1,14 @@
+---
+title: "Section 10 - Authorization of appropriations"
+usc_title: 16
+usc_section: "10"
+chapter: 3
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 10"
+generated_at: "2026-03-29T00:29:52.582Z"
+---
+
+# § 590z–10. Authorization of appropriations
+
+To carry out the purposes of this subchapter there is hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated (1) for the Department of the Interior such sums as may be necessary to carry out its functions under this subchapter, and (2) for the Department of Agriculture such sums as may be necessary to carry out its functions under this subchapter.
+

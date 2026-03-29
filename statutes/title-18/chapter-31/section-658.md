@@ -1,0 +1,14 @@
+---
+title: "Section 658 - Property mortgaged or pledged to farm credit agencies"
+usc_title: 18
+usc_section: "658"
+chapter: 31
+current_through: "PL 119-73"
+classification: "18 U.S.C. § 658"
+generated_at: "2026-03-29T00:30:15.623Z"
+---
+
+# § 658. Property mortgaged or pledged to farm credit agencies
+
+Whoever, with intent to defraud, knowingly conceals, removes, disposes of, or converts to his own use or to that of another, any property mortgaged or pledged to, or held by, the Farm Credit Administration, any Federal intermediate credit bank, or the Federal Crop Insurance Corporation, the Secretary of Agriculture acting through the Farmers Home Administration or successor agency, the Rural Development Administration or successor agency, any production credit association organized under sections 1131–1134m of Title 12, any regional agricultural credit corporation, or any bank for cooperatives, shall be fined under this title or imprisoned not more than five years, or both; but if the value of such property does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
+

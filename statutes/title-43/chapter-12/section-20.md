@@ -1,0 +1,19 @@
+---
+title: "Section 20 - Hawaii reclamation projects"
+usc_title: 43
+usc_section: "20"
+chapter: 12
+current_through: "PL 119-73"
+classification: "43 U.S.C. § 20"
+generated_at: "2026-03-29T00:32:57.331Z"
+---
+
+# § 390h–20. Hawaii reclamation projects
+
+(a) The Secretary may—
+  (1) in cooperation with the Board of Water Supply, City and County of Honolulu, Hawaii, participate in the design, planning, and construction of a project in Kalaeloa, Hawaii, to desalinate and distribute seawater for direct potable use within the service area of the Board;
+  (2) in cooperation with the County of Hawaii Department of Environmental Management, Hawaii, participate in the design, planning, and construction of facilities in Kealakehe, Hawaii, for the treatment and distribution of recycled water and for environmental purposes within the County; and
+  (3) in cooperation with the County of Maui Wastewater Reclamation Division, Hawaii, participate in the design, planning, and construction of, and acquire land for, facilities in Lahaina, Hawaii, for the distribution of recycled water from the Lahaina Wastewater Reclamation Facility for non-potable uses within the County.
+(b) The Federal share of the cost of a project described in subsection (a) shall not exceed 25 percent of the total cost of the project.
+(c) Funds provided by the Secretary shall not be used for the operation and maintenance of a project described in subsection (a).
+(d) There are authorized to be appropriated such sums as are necessary to carry out this section.

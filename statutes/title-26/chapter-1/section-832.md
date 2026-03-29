@@ -1,0 +1,121 @@
+---
+title: "Section 832 - Insurance company taxable income"
+usc_title: 26
+usc_section: "832"
+chapter: 1
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 832"
+generated_at: "2026-03-29T00:31:20.811Z"
+---
+
+# § 832. Insurance company taxable income
+
+(a) In the case of an insurance company subject to the tax imposed by section 831, the term “taxable income” means the gross income as defined in subsection (b)(1) less the deductions allowed by subsection (c).
+(b) In the case of an insurance company subject to the tax imposed by section 831—
+  (1) The term “gross income” means the sum of—
+    (A) the combined gross amount earned during the taxable year, from investment income and from underwriting income as provided in this subsection, computed on the basis of the underwriting and investment exhibit of the annual statement approved by the National Association of Insurance Commissioners,
+    (B) gain during the taxable year from the sale or other disposition of property,
+    (C) all other items constituting gross income under subchapter B, except that, in the case of a mutual fire insurance company exclusively issuing perpetual policies, the amount of single deposit premiums paid to such company shall not be included in gross income,
+    (D) in the case of a mutual fire or flood insurance company whose principal business is the issuance of policies—
+      (i) for which the premium deposits are the same (regardless of the length of the term for which the policies are written), and
+      (ii) under which the unabsorbed portion of such premium deposits not required for losses, expenses, or establishment of reserves is returned or credited to the policyholder on cancellation or expiration of the policy,
+    (E) in the case of a company which writes mortgage guaranty insurance, the amount required by subsection (e)(5) to be subtracted from the mortgage guaranty account.
+  (2) The term “investment income” means the gross amount of income earned during the taxable year from interest, dividends, and rents, computed as follows: To all interest, dividends, and rents received during the taxable year, add interest, dividends, and rents due and accrued at the end of the taxable year, and deduct all interest, dividends, and rents due and accrued at the end of the preceding taxable year.
+  (3) The term “underwriting income” means the premiums earned on insurance contracts during the taxable year less losses incurred and expenses incurred.
+  (4) The term “premiums earned on insurance contracts during the taxable year” means an amount computed as follows:
+    (A) From the amount of gross premiums written on insurance contracts during the taxable year, deduct return premiums and premiums paid for reinsurance.
+    (B) To the result so obtained, add 80 percent of the unearned premiums on outstanding business at the end of the preceding taxable year and deduct 80 percent of the unearned premiums on outstanding business at the end of the taxable year.
+    (C) To the result so obtained, in the case of a taxable year beginning after December 31, 1986 , and before January 1, 1993 , add an amount equal to 3⅓ percent of unearned premiums on outstanding business at the end of the most recent taxable year beginning before January 1, 1987 .
+  (5) 
+    (A) The term “losses incurred” means losses incurred during the taxable year on insurance contracts computed as follows:
+      (i) To losses paid during the taxable year, deduct salvage and reinsurance recovered during the taxable year.
+      (ii) To the result so obtained, add all unpaid losses on life insurance contracts plus all discounted unpaid losses (as defined in section 846) outstanding at the end of the taxable year and deduct all unpaid losses on life insurance contracts plus all discounted unpaid losses outstanding at the end of the preceding taxable year.
+      (iii) To the results so obtained, add estimated salvage and reinsurance recoverable as of the end of the preceding taxable year and deduct estimated salvage and reinsurance recoverable as of the end of the taxable year.
+    (B) The amount which would (but for this subparagraph) be taken into account under subparagraph (A) shall be reduced by an amount equal to the applicable percentage of the sum of—
+      (i) tax-exempt interest received or accrued during such taxable year,
+      (ii) the aggregate amount of deductions provided by sections 243 and 245 for—
+        (I) dividends (other than 100 percent dividends) received during the taxable year, and
+        (II) 100 percent dividends received during the taxable year to the extent attributable (directly or indirectly) to prorated amounts, and
+      (iii) the increase for the taxable year in policy cash values (within the meaning of section 805(a)(4)(F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies.
+    (C) 
+      (i) Except as provided in clause (ii), subparagraph (B) shall not apply to any dividend or interest received or accrued on any stock or obligation acquired before August 8, 1986 .
+      (ii) For purposes of clause (i), the portion of any 100 percent dividend which is attributable to prorated amounts shall be treated as received with respect to stock acquired on the later of—
+        (I) the date the payor acquired the stock or obligation to which the prorated amounts are attributable, or
+        (II) the 1st day on which the payor and payee were members of the same affiliated group (as defined in section 243(b)(2)).
+    (D) For purposes of this paragraph—
+      (i) The term “prorated amounts” means tax-exempt interest and dividends with respect to which a deduction is allowable under section 243 or 245 (other than 100 percent dividends).
+      (ii) 
+        (I) The term “100 percent dividend” means any dividend if the percentage used for purposes of determining the deduction allowable under section 243 or 245(b) is 100 percent.
+        (II) A dividend received by a foreign corporation from a domestic corporation which would be a 100 percent dividend if section 1504(b)(3) did not apply for purposes of applying section 243(b)(2) shall be treated as a 100 percent dividend.
+    (E) 
+      (i) In the case of any 100 percent dividend paid to an insurance company to which this part applies by any insurance company, the amount of the decrease in the deductions of the payee company by reason of the portion of such dividend attributable to prorated amounts shall be reduced (but not below zero) by the amount of the decrease in the deductions (or increase in income) of the payor company attributable to the application of this section or section 805(a)(4)(A) to such amounts.
+      (ii) For purposes of this subparagraph, in determining the portion of any dividend attributable to prorated amounts—
+        (I) any dividend by the paying corporation shall be treated as paid first out of earnings and profits attributable to prorated amounts (to the extent thereof), and
+        (II) by determining the portion of earnings and profits so attributable without any reduction for the tax imposed by this chapter.
+  (6) The term “expenses incurred” means all expenses shown on the annual statement approved by the National Association of Insurance Commissioners, and shall be computed as follows: To all expenses paid during the taxable year, add expenses unpaid at the end of the taxable year and deduct expenses unpaid at the end of the preceding taxable year. For purposes of this subchapter, the term “expenses unpaid” shall not include any unpaid loss adjustment expenses shown on the annual statement, but such unpaid loss adjustment expenses shall be included in unpaid losses. For the purpose of computing the taxable income subject to the tax imposed by section 831, there shall be deducted from expenses incurred (as defined in this paragraph) all expenses incurred which are not allowed as deductions by subsection (c).
+  (7) 
+    (A) Subparagraph (B) of paragraph (4) shall be applied with respect to insurance contracts described in section 816(b)(1)(B) by substituting “100 percent” for “80 percent” each place it appears in such subparagraph (B), and subparagraph (C) of paragraph (4) shall be applied by not taking such contracts into account.
+    (B) In the case of premiums attributable to insurance against default in the payment of principal or interest on securities described in section 165(g)(2)(C) with maturities of more than 5 years—
+      (i) subparagraph (B) of paragraph (4) shall be applied by substituting “90 percent” for “80 percent” each place it appears, and
+      (ii) subparagraph (C) of paragraph (4) shall be applied by substituting “1⅔ percent” for “3⅓ percent”.
+    (C) Except as provided in section 381(c)(22) (relating to carryovers in certain corporate readjustments), if, for any taxable year beginning before January 1, 1993 , the taxpayer ceases to be an insurance company taxable under section 831(a), the aggregate adjustments which would be made under paragraph (4)(C) for such taxable year and subsequent taxable years but for such cessation shall be made for the taxable year preceding such cessation year.
+    (D) 
+      (i) Subparagraph (C) of paragraph (4) shall not apply to any insurance company which, for each taxable year beginning before January 1, 1987 , was not subject to the tax imposed by section 821(a) 1 1 See References in Text note below. or 831(a) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) by reason of being—
+        (I) subject to tax under section 821(c) 1 (as so in effect), or
+        (II) described in section 501(c) (as so in effect) and exempt from tax under section 501(a).
+      (ii) In the case of an insurance company—
+        (I) which was not subject to the tax imposed by section 831(a) for its 1st taxable year beginning after December 31, 1986 , by reason of being subject to tax under section 831(b), or described in section 501(c) and exempt from tax under section 501(a), and
+        (II) which, for any taxable year beginning before January 1, 1987 , was subject to the tax imposed by section 821(a) 1 or 831(a) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986),
+    (E) In the case of a reciprocal (within the meaning of section 835(a)) which reports (as required by State law) on its annual statement reserves on unearned premiums net of premium acquisition expenses—
+      (i) subparagraph (B) of paragraph (4) shall be applied by treating unearned premiums as including an amount equal to such expenses, and
+      (ii) appropriate adjustments shall be made under subparagraph (c) of paragraph (4) to reflect the amount by which—
+        (I) such reserves at the close of the most recent taxable year beginning before January 1, 1987 , are greater or less than,
+        (II) 80 percent of the sum of the amount under subclause (I) plus such premium acquisition expenses.
+  (8) 
+    (A) In the case of premiums attributable to title insurance—
+      (i) subparagraph (B) of paragraph (4) shall be applied by substituting “the discounted unearned premiums” for “80 percent of the unearned premiums” each place it appears, and
+      (ii) subparagraph (C) of paragraph (4) shall not apply.
+    (B) For purposes of subparagraph (A), the amount of the discounted unearned premiums as of the end of any taxable year shall be the present value of such premiums (as of such time and separately with respect to premiums received in each calendar year) determined by using—
+      (i) the amount of the undiscounted unearned premiums at such time,
+      (ii) the applicable interest rate, and
+      (iii) the applicable statutory premium recognition pattern.
+    (C) In determining the amount of the discounted unearned premiums as of the end of any taxable year—
+      (i) The term “undiscounted unearned premiums” means the unearned premiums shown in the yearly statement filed by the taxpayer for the year ending with or within such taxable year.
+      (ii) The term “applicable interest rate” means the annual rate determined under 846(c)(2) for the calendar year in which the premiums are received.
+      (iii) The term “applicable statutory premium recognition pattern” means the statutory premium recognition pattern—
+        (I) which is in effect for the calendar year in which the premiums are received, and
+        (II) which is based on the statutory premium recognition pattern which applies to premiums received by the taxpayer in such calendar year.
+(c) In computing the taxable income of an insurance company subject to the tax imposed by section 831, there shall be allowed as deductions:
+  (1) all ordinary and necessary expenses incurred, as provided in section 162 (relating to trade or business expenses);
+  (2) all interest, as provided in section 163;
+  (3) taxes, as provided in section 164;
+  (4) losses incurred, as defined in subsection (b)(5) of this section;
+  (5) capital losses to the extent provided in subchapter P (relating to capital gains and losses) plus losses from capital assets sold or exchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders. Capital assets shall be considered as sold or exchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders to the extent that the gross receipts from their sale or exchange are not greater than the excess, if any, for the taxable year of the sum of dividends and similar distributions paid to policyholders in their capacity as such, losses paid, and expenses paid over the sum of the items described in section 834(b) (other than paragraph (1)(D) thereof) and net premiums received. In the application of section 1212 for purposes of this section, the net capital loss for the taxable year shall be the amount by which losses for such year from sales or exchanges of capital assets exceeds the sum of the gains from such sales or exchanges and whichever of the following amounts is the lesser:
+    (A) the taxable income (computed without regard to gains or losses from sales or exchanges of capital assets); or
+    (B) losses from the sale or exchange of capital assets sold or exchanged to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders;
+  (6) debts in the nature of agency balances and bills receivable which become worthless within the taxable year;
+  (7) the amount of interest earned during the taxable year which under section 103 is excluded from gross income;
+  (8) the depreciation deduction allowed by section 167 and the deduction allowed by section 611 (relating to depletion);
+  (9) charitable, etc., contributions, as provided in section 170;
+  (10) deductions (other than those specified in this subsection) as provided in part VI of subchapter B (sec. 161 and following, relating to itemized deductions for individuals and corporations) and in part I of subchapter D (sec. 401 and following, relating to pension, profit-sharing, stock bonus plans, etc.);
+  (11) dividends and similar distributions paid or declared to policyholders in their capacity as such, except in the case of a mutual fire insurance company described in subsection (b)(1)(C). For purposes of the preceding sentence, the term “dividends and similar distributions” includes amounts returned or credited to policyholders on cancellation or expiration of policies described in subsection (b)(1)(D). For purposes of this paragraph, the term “paid or declared” shall be construed according to the method of accounting regularly employed in keeping the books of the insurance company;
+  (12) the special deductions allowed by part VIII of subchapter B (sec. 241 and following, relating to dividends received); and
+  (13) in the case of a company which writes mortgage guaranty insurance, the deduction allowed by subsection (e).
+(d) Nothing in this section shall permit the same item to be deducted more than once.
+(e) In the case of a company which writes mortgage guaranty insurance—
+  (1) There shall be allowed as a deduction for the taxable year, if bonds are purchased as required by paragraph (2), the sum of—
+    (A) an amount representing the amount required by State law or regulation to be set aside in a reserve for mortgage guaranty insurance losses resulting from adverse economic cycles; and
+    (B) an amount representing the aggregate of amounts so set aside in such reserve for the 8 preceding taxable years to the extent such amounts were not deducted under this paragraph in such preceding taxable years,
+  (2) The deduction under paragraph (1) shall be allowed only to the extent that tax and loss bonds are purchased in an amount equal to the tax benefit attributable to such deduction, as determined under regulations prescribed by the Secretary, on or before the date that any taxes (determined without regard to this subsection) due for the taxable year for which the deduction is allowed are due to be paid. If a deduction would be allowed but for the fact that tax and loss bonds were not timely purchased, such deduction shall be allowed to the extent such purchases are made within a reasonable time, as determined by the Secretary, if all interest and penalties, computed as if this sentence did not apply, are paid.
+  (3) Each company which writes mortgage guaranty insurance shall, for purposes of this part, establish and maintain a mortgage guaranty account.
+  (4) There shall be added to the mortgage guaranty account for each taxable year an amount equal to the amount allowed as a deduction for the taxable year under paragraph (1).
+  (5) After applying paragraph (4), there shall be subtracted for the taxable year from the mortgage guaranty account and included in gross income—
+    (A) the amount (if any) remaining which was added to the account for the tenth preceding taxable year,
+    (B) the excess (if any) of the aggregate amount in the mortgage guaranty account over the aggregate amount in the reserve referred to in paragraph (1)(A). For purposes of determining such excess, the aggregate amount in the mortgage guaranty account shall be determined after applying subparagraph (A), and the aggregate amount in the reserve referred to in paragraph (1)(A) shall be determined by disregarding any amounts remaining in such reserve added for taxable years beginning before January 1, 1967 ,
+    (C) an amount (if any) equal to the net operating loss for the taxable year computed without regard to this subparagraph, and
+    (D) any amount improperly subtracted from the account under subparagraph (A), (B), or (C) to the extent that tax and loss bonds were redeemed with respect to such amount.
+  (6) The provisions of this subsection shall also apply in all respects to a company which writes lease guaranty insurance or insurance on obligations the interest on which is excludable from gross income under section 103. In applying this subsection to such a company, any reference to mortgage guaranty insurance contained in this section shall be deemed to be a reference also to lease guaranty insurance and to insurance on obligations the interest on which is excludable from gross income under section 103; and in the case of insurance on obligations the interest on which is excludable from gross income under section 103, the references in paragraph (1) to “losses resulting from adverse economic cycles” include losses from declining revenues related to such obligations (as well as losses resulting from adverse economic cycles), and the time specified in subparagraph (A) of paragraph (5) shall be the twentieth preceding taxable year.
+(f) In the case of a mutual insurance company which is an interinsurer or reciprocal underwriter—
+  (1) there shall be allowed as a deduction the increase for the taxable year in savings credited to subscriber accounts, or
+  (2) there shall be included as an item of gross income the decrease for the taxable year in savings credited to subscriber accounts.
+(g) In the case of an insurance company subject to tax under section 831(a) filing or required to file a consolidated return under section 1501 with respect to any affiliated group for any taxable year, any determination under this part with respect to any dividend paid by one member of such group to another member of such group shall be made as if such group were not filing a consolidated return.

@@ -1,0 +1,14 @@
+---
+title: "Section 549a - Review of navigation, flood control, and water supply projects"
+usc_title: 33
+usc_section: "549a"
+chapter: 12
+current_through: "PL 119-73"
+classification: "33 U.S.C. § 549a"
+generated_at: "2026-03-29T00:31:57.195Z"
+---
+
+# § 549a. Review of navigation, flood control, and water supply projects
+
+The Secretary of the Army, acting through the Chief of Engineers, is authorized to review the operation of projects the construction of which has been completed and which were constructed by the Corps of Engineers in the interest of navigation, flood control, water supply, and related purposes, when found advisable due 1 1 So in original. Probably should be “due to”. the significantly changed physical or economic conditions, and to report thereon to Congress with recommendations on the advisability of modifying the structures or their operation, and for improving the quality of the environment in the overall public interest.
+

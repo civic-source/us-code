@@ -1,0 +1,19 @@
+---
+title: "Section 5325 - Identification required to purchase certain monetary instruments"
+usc_title: 31
+usc_section: "5325"
+chapter: 53
+current_through: "PL 119-73"
+classification: "31 U.S.C. § 5325"
+generated_at: "2026-03-29T00:31:52.645Z"
+---
+
+# § 5325. Identification required to purchase certain monetary instruments
+
+(a) No financial institution may issue or sell a bank check, cashier’s check, traveler’s check, or money order to any individual in connection with a transaction or group of such contemporaneous transactions which involves United States coins or currency (or such other monetary instruments as the Secretary may prescribe) in amounts or denominations of $3,000 or more unless—
+  (1) the individual has a transaction account with such financial institution and the financial institution—
+    (A) verifies that fact through a signature card or other information maintained by such institution in connection with the account of such individual; and
+    (B) records the method of verification in accordance with regulations which the Secretary of the Treasury shall prescribe; or
+  (2) the individual furnishes the financial institution with such forms of identification as the Secretary of the Treasury may require in regulations which the Secretary shall prescribe and the financial institution verifies and records such information in accordance with regulations which such Secretary shall prescribe.
+(b) Any information required to be recorded by any financial institution under paragraph (1) or (2) of subsection (a) shall be reported by such institution to the Secretary of the Treasury at the request of such Secretary.
+(c) For purposes of this section, the term “transaction account” has the meaning given to such term in section 19(b)(1)(C) of the Federal Reserve Act.

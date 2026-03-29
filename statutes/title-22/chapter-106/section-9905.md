@@ -1,0 +1,18 @@
+---
+title: "Section 9905 - Private sector consultation and coordination"
+usc_title: 22
+usc_section: "9905"
+chapter: 106
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 9905"
+generated_at: "2026-03-29T00:30:34.068Z"
+---
+
+# § 9905. Private sector consultation and coordination
+
+(a) In developing the priorities for trade expansion initiatives described in section 9904(d) of this title , embassy mission teams shall convene local representatives of the United States private sector and the private sector of host countries to consult on issues affecting trade at the borders of such countries and take into account the private sector’s operational expertise and experience confronting the trade barriers in such countries as well as its recommendations for reform and best practices.
+(b) Written comments from local United States private sector representatives shall be included in the trade expansion component of mission plans submitted by the chief of mission to the Secretary of State, with recommendations and comments from the mission team, for the purpose of informing the development of the joint strategic plan on trade expansion priorities required pursuant to section 9904(c)(4) of this title and recommended funding for the implementation of such plan.
+(c) Each chief of mission shall designate an appropriate point of contact within the embassy who shall receive recommendations from appropriate private sector representatives regarding the implementation of the strategic plan required under section 9904(c)(4) of this title and ongoing trade barriers negatively impacting priority trade expansion. The chief of mission shall ensure that the designated point of contact shall be reasonably available for consultations with appropriate private sector representatives and to receive recommendations with respect to country-specific issues that may arise that will foreseeably disrupt trade.
+(d) 
+  (1) The Secretary of State, Secretary of Commerce, and United States Trade Representative as well as the heads of all other agencies involved in the Economic Diplomacy Action Group established under section 9904(c) of this title shall protect from disclosure any proprietary information submitted by any private sector representative and marked as “business confidential information”, unless the party submitting the confidential business information had notice, at the time of submission, that such information would be released by the head of any such department or agency, or such party subsequently consents to the release of the information. To the extent business confidential information is provided, a non-confidential version of the information shall also be provided, in which the business confidential information is summarized or, if necessary, deleted.
+  (2) Proprietary information submitted by a private party in accordance with this chapter shall be considered to be a matter falling within the meaning of trade secrets and commercial or financial information exemption under section 552(b)(4) of title 5 and shall be exempt from disclosure without the express approval of the private party.

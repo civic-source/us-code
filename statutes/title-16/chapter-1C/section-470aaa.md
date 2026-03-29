@@ -1,0 +1,24 @@
+---
+title: "Section 470aaa - Definitions"
+usc_title: 16
+usc_section: "470aaa"
+chapter: 1
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 470aaa"
+generated_at: "2026-03-29T00:29:52.532Z"
+---
+
+# § 470aaa. Definitions
+
+In this chapter:
+
+  (1) The term “casual collecting” means the collecting of a reasonable amount of common invertebrate and plant paleontological resources for non-commercial personal use, either by surface collection or the use of non-powered hand tools resulting in only negligible disturbance to the Earth’s surface and other resources. As used in this paragraph, the terms “reasonable amount”, “common invertebrate and plant paleontological resources” and “negligible disturbance” shall be determined by the Secretary.
+  (2) The term “Federal land” means—
+    (A) land controlled or administered by the Secretary of the Interior, except Indian land; or
+    (B) National Forest System land controlled or administered by the Secretary of Agriculture.
+  (3) The term “Indian Land” means land of Indian tribes, or Indian individuals, which are either held in trust by the United States or subject to a restriction against alienation imposed by the United States.
+  (4) The term “paleontological resource” means any fossilized remains, traces, or imprints of organisms, preserved in or on the earth’s crust, that are of paleontological interest and that provide information about the history of life on earth, except that the term does not include—
+    (A) any materials associated with an archaeological resource (as defined in section 470bb(1) of this title ; 1 1 So in original. A closing parenthesis probably should precede the semicolon. or
+    (B) any cultural item (as defined in section 3001 of title 25 ).
+  (5) The term “Secretary” means the Secretary of the Interior with respect to land controlled or administered by the Secretary of the Interior or the Secretary of Agriculture with respect to National Forest System land controlled or administered by the Secretary of Agriculture.
+  (6) The term “State” means the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, and any other territory or possession of the United States.

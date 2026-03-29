@@ -1,0 +1,14 @@
+---
+title: "Section 1224 - Commercial and industrial development considerations; reports to Congress; recommendations"
+usc_title: 16
+usc_section: "1224"
+chapter: 26
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 1224"
+generated_at: "2026-03-29T00:29:52.685Z"
+---
+
+# § 1224. Commercial and industrial development considerations; reports to Congress; recommendations
+
+In planning for the use or development of water and land resources, all Federal agencies shall give consideration to estuaries and their natural resources, and their importance for commercial and industrial developments, and all project plans and reports affecting such estuaries and resources submitted to the Congress shall contain a discussion by the Secretary of the Interior of such estuaries and such resources and the effects of the project on them and his recommendations thereon. The Secretary of the Interior shall make his recommendations within ninety days after receipt of such plans and reports.
+

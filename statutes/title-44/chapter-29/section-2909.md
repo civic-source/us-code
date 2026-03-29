@@ -1,0 +1,14 @@
+---
+title: "Section 2909 - Retention of records"
+usc_title: 44
+usc_section: "2909"
+chapter: 29
+current_through: "PL 119-73"
+classification: "44 U.S.C. § 2909"
+generated_at: "2026-03-29T00:32:58.559Z"
+---
+
+# § 2909. Retention of records
+
+The Archivist may empower a Federal agency to retain records for a longer period than that specified in disposal schedules, and may withdraw disposal authorizations covering records listed in disposal schedules. The Archivist shall promulgate regulations in accordance with section 2104(a) of this title to implement this section.
+

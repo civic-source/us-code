@@ -1,0 +1,24 @@
+---
+title: "Section 4403 - Honey transshipment"
+usc_title: 19
+usc_section: "4403"
+chapter: 28
+current_through: "PL 119-73"
+classification: "19 U.S.C. § 4403"
+generated_at: "2026-03-29T00:30:20.301Z"
+---
+
+# § 4403. Honey transshipment
+
+(a) The Commissioner shall direct appropriate personnel and the use of resources of U.S. Customs and Border Protection to address concerns that honey is being imported into the United States in violation of the customs and trade laws of the United States.
+(b) 
+  (1) The Commissioner shall compile a database of the individual characteristics of honey produced in foreign countries to facilitate the verification of country of origin markings of imported honey.
+  (2) The Commissioner shall seek to engage the customs agencies of foreign governments for assistance in compiling the database described in paragraph (1).
+  (3) In compiling the database described in paragraph (1), the Commissioner shall consult with entities in the honey industry regarding the development of industry standards for honey identification.
+  (4) In compiling the database described in paragraph (1), the Commissioner shall consult with the Commissioner of Food and Drugs.
+(c) Not later than 180 days after February 24, 2016 , the Commissioner shall submit to Congress a report that—
+  (1) describes and assesses the limitations in the existing analysis capabilities of laboratories with respect to determining the country of origin of honey samples or the percentage of honey contained in a sample; and
+  (2) includes any recommendations of the Commissioner for improving such capabilities.
+(d) It is the sense of Congress that the Commissioner of Food and Drugs should promptly establish a national standard of identity for honey for the Commissioner of U.S. Customs and Border Protection to use to ensure that imports of honey are—
+  (1) classified accurately for purposes of assessing duties; and
+  (2) denied entry into the United States if such imports pose a threat to the health or safety of consumers in the United States.

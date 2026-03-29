@@ -1,0 +1,14 @@
+---
+title: "Section 1988 - Savings provision"
+usc_title: 38
+usc_section: "1988"
+chapter: 19
+current_through: "PL 119-73"
+classification: "38 U.S.C. § 1988"
+generated_at: "2026-03-29T00:32:17.222Z"
+---
+
+# § 1988. Savings provision
+
+Nothing in this title or any amendment or repeal made by the Act enacting this title shall affect any right, remedy, liability, authorization or requirement pertaining to Government insurance, the respective insurance funds, or the insurance appropriations, authorized or prescribed under the provisions of the War Risk Insurance Act, the World War Veterans’ Act, 1924, the National Service Life Insurance Act of 1940, or any related Act, which was in effect on December 31, 1958 .
+

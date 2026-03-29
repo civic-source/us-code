@@ -1,0 +1,14 @@
+---
+title: "Section 5504 - Designation of State Department-family liaison and toll-free family communications system"
+usc_title: 22
+usc_section: "5504"
+chapter: 64
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 5504"
+generated_at: "2026-03-29T00:30:33.943Z"
+---
+
+# § 5504. Designation of State Department-family liaison and toll-free family communications system
+
+(a) Not later than 60 days after November 16, 1990 , the Secretary of State shall issue such rules and guidelines as are necessary to provide that in the event of an aviation disaster directly involving United States citizens abroad, if possible, the Department of State will assign a specific individual, and an alternate, as the Department of State liaison for the family of each such citizen.
+(b) In the establishment of the Department of State toll-free communications system to facilitate inquiries concerning the affect of any disaster abroad on United States citizens residing or traveling abroad, the Secretary of State shall ensure that a toll-free telephone number is reserved for the exclusive use of the families of citizens who have been determined to be directly involved in any such disaster.

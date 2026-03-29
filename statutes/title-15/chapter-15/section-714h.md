@@ -1,0 +1,14 @@
+---
+title: "Section 714h - Officers and employees; appointment; duties"
+usc_title: 15
+usc_section: "714h"
+chapter: 15
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 714h"
+generated_at: "2026-03-29T00:29:41.656Z"
+---
+
+# § 714h. Officers and employees; appointment; duties
+
+The Secretary shall appoint such officers and employees as may be necessary for the conduct of the business of the Corporation, define their authority and duties, delegate to them such of the powers vested in the Corporation as he may determine. With the exception of experts, appointments shall be made pursuant to the civil-service laws and chapter 51 and subchapter III of chapter 53 of title 5.
+

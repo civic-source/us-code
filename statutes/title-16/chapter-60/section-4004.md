@@ -1,0 +1,30 @@
+---
+title: "Section 4004 - Establishment of National Council"
+usc_title: 16
+usc_section: "4004"
+chapter: 60
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 4004"
+generated_at: "2026-03-29T00:29:52.831Z"
+---
+
+# § 4004. Establishment of National Council
+
+(a) There is established the National Fish and Seafood Promotional Council.
+(b) 
+  (1) The National Council shall be composed of the Secretary, who shall be a nonvoting member, and fifteen voting members appointed by the Secretary.
+  (2) Nominations for appointees shall be submitted in a manner prescribed by the Secretary.
+(c) The National Council shall be comprised of regional representation from the Northeast, Southeast, Pacific, and Alaska regions. The Northeast region shall consist of the States of Maine, New Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Delaware, Pennsylvania, Maryland and Virginia. The Southeast region shall consist of the States of North Carolina, South Carolina, Georgia, Florida, Alabama, Mississippi, Louisiana and Texas, the Commonwealth of Puerto Rico, and the territory of the Virgin Islands. The Pacific region shall consist of the States of Idaho, Washington, Oregon, California, and Hawaii, the territories of Guam and American Samoa, and the Commonwealth of the Northern Mariana Islands. The Alaska region shall consist of the State of Alaska.
+(d) 
+  (1) The voting members of the National Council shall be—
+    (A) three members who reside in or do substantial fishing industry business in the Northeast region;
+    (B) three members who reside in or do substantial fishing industry business in the Southeast region;
+    (C) three members who reside in or do substantial fishing industry business in the Pacific region;
+    (D) three members who reside in or do substantial fishing industry business in the Alaska region;
+    (E) two members-at-large with demonstrated expertise in fresh-water and inland commercial fisheries, at least one of whom is not a resident of the States of the Alaska, Pacific, Southeast, and Northeast regions; and
+    (F) one member-at-large who is either a person professionally engaged in the dissemination of information pertaining to the nutritional benefits and preparation of fish and fish products or a person who is a member of an organized labor union and has expertise in the United States fisheries.
+  (2) Of the members appointed pursuant to each of paragraphs (1)(A) through (D) of this subsection, one shall be a harvester, one shall be a processor or a receiver, and one shall be a marketer.
+(e) Members of the National Council shall be appointed for a term of 4 years. A vacancy in the National Council shall not affect its ability to function. The Secretary shall appoint a new member within sixty days to fill a vacancy in an unexpired term. Any member may remain on the National Council beyond that member’s term until a successor is appointed.
+(f) The National Council shall annually elect a Chairman by a majority of those voting, if a quorum is present. Ten members of the National Council shall constitute a quorum, but a lesser number may hold hearings.
+(g) The National Council shall first meet within one hundred and eighty days after November 14, 1986 .
+(h) Members of the National Council shall serve without compensation, but shall be reimbursed in accordance with section 5703 of title 5 for reasonable travel costs and expenses incurred in performing their duties as members of the National Council.

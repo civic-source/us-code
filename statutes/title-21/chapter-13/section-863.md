@@ -1,0 +1,46 @@
+---
+title: "Section 863 - Drug paraphernalia"
+usc_title: 21
+usc_section: "863"
+chapter: 13
+current_through: "PL 119-73"
+classification: "21 U.S.C. § 863"
+generated_at: "2026-03-29T00:30:24.344Z"
+---
+
+# § 863. Drug paraphernalia
+
+(a) It is unlawful for any person—
+  (1) to sell or offer for sale drug paraphernalia;
+  (2) to use the mails or any other facility of interstate commerce to transport drug paraphernalia; or
+  (3) to import or export drug paraphernalia.
+(b) Anyone convicted of an offense under subsection (a) of this section shall be imprisoned for not more than three years and fined under title 18.
+(c) Any drug paraphernalia involved in any violation of subsection (a) of this section shall be subject to seizure and forfeiture upon the conviction of a person for such violation. Any such paraphernalia shall be delivered to the Administrator of General Services, General Services Administration, who may order such paraphernalia destroyed or may authorize its use for law enforcement or educational purposes by Federal, State, or local authorities.
+(d) The term “drug paraphernalia” means any equipment, product, or material of any kind which is primarily intended or designed for use in manufacturing, compounding, converting, concealing, producing, processing, preparing, injecting, ingesting, inhaling, or otherwise introducing into the human body a controlled substance, possession of which is unlawful under this subchapter. It includes items primarily intended or designed for use in ingesting, inhaling, or otherwise introducing marijuana, 1 1 So in original. Probably should be “marihuana,”. cocaine, hashish, hashish oil, PCP, methamphetamine, or amphetamines into the human body, such as—
+  (1) metal, wooden, acrylic, glass, stone, plastic, or ceramic pipes with or without screens, permanent screens, hashish heads, or punctured metal bowls;
+  (2) water pipes;
+  (3) carburetion tubes and devices;
+  (4) smoking and carburetion masks;
+  (5) roach clips: meaning objects used to hold burning material, such as a marihuana cigarette, that has become too small or too short to be held in the hand;
+  (6) miniature spoons with level capacities of one-tenth cubic centimeter or less;
+  (7) chamber pipes;
+  (8) carburetor pipes;
+  (9) electric pipes;
+  (10) air-driven pipes;
+  (11) chillums;
+  (12) bongs;
+  (13) ice pipes or chillers;
+  (14) wired cigarette papers; or
+  (15) cocaine freebase kits.
+(e) In determining whether an item constitutes drug paraphernalia, in addition to all other logically relevant factors, the following may be considered:
+  (1) instructions, oral or written, provided with the item concerning its use;
+  (2) descriptive materials accompanying the item which explain or depict its use;
+  (3) national and local advertising concerning its use;
+  (4) the manner in which the item is displayed for sale;
+  (5) whether the owner, or anyone in control of the item, is a legitimate supplier of like or related items to the community, such as a licensed distributor or dealer of tobacco products;
+  (6) direct or circumstantial evidence of the ratio of sales of the item(s) to the total sales of the business enterprise;
+  (7) the existence and scope of legitimate uses of the item in the community; and
+  (8) expert testimony concerning its use.
+(f) This section shall not apply to—
+  (1) any person authorized by local, State, or Federal law to manufacture, possess, or distribute such items; or
+  (2) any item that, in the normal lawful course of business, is imported, exported, transported, or sold through the mail or by any other means, and traditionally intended for use with tobacco products, including any pipe, paper, or accessory.

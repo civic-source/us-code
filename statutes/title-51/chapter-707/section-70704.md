@@ -1,0 +1,26 @@
+---
+title: "Section 70704 - Composition of Commission"
+usc_title: 51
+usc_section: "70704"
+chapter: 707
+current_through: "PL 119-73"
+classification: "51 U.S.C. § 70704"
+generated_at: "2026-03-29T00:33:19.418Z"
+---
+
+# § 70704. Composition of Commission
+
+(a) A Commission established pursuant to this chapter shall consist of 15 members.
+(b) The members of a Commission shall be chosen in the following manner:
+  (1) The President shall appoint the members, and shall designate the Chairman and Vice Chairman of the Commission from among its members.
+  (2) The majority leader of the Senate, the minority leader of the Senate, the Speaker of the House of Representatives, and the minority leader of the House of Representatives shall each provide to the President a list of candidates for membership on the Commission. The President may select one of the candidates from each of the 4 lists for membership on the Commission.
+  (3) No officer or employee of the Federal Government or Member of Congress shall serve as a member of the Commission.
+  (4) No member of the Commission shall have, or have pending, a contractual relationship with the Administration.
+  (5) The President shall not appoint any individual as a member of a Commission under this section who has a current or former relationship with the Administrator that the President determines would constitute a conflict of interest.
+  (6) To the extent practicable, the President shall ensure that the members of the Commission include some individuals with experience relative to human carrying spacecraft, as well as some individuals with investigative experience and some individuals with legal experience.
+  (7) To the extent practicable, the President shall seek diversity in the membership of the Commission.
+(c) All members of a Commission established under this chapter shall be appointed no later than 30 days after the incident.
+(d) A Commission shall meet and begin operations as soon as practicable.
+(e) After its initial meeting, a Commission shall meet upon the call of the Chairman or a majority of its members.
+(f) Eight members of a Commission shall constitute a quorum.
+(g) Any vacancy in a Commission shall not affect its powers, but shall be filled in the same manner in which the original appointment was made.

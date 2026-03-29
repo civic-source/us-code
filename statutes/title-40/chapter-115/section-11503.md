@@ -1,0 +1,18 @@
+---
+title: "Section 11503 - Report"
+usc_title: 40
+usc_section: "11503"
+chapter: 115
+current_through: "PL 119-73"
+classification: "40 U.S.C. § 11503"
+generated_at: "2026-03-29T00:32:20.575Z"
+---
+
+# § 11503. Report
+
+(a) Not later than 180 days after the completion of the pilot program under this chapter, the Administrator for Federal Procurement Policy shall—
+  (1) submit to the Director of the Office of Management and Budget a report on the results and findings under the program; and
+  (2) provide a copy of the report to Congress.
+(b) The report shall include—
+  (1) a detailed description of the results of the program, as measured by the criteria established for the program; and
+  (2) a discussion of legislation that the Administrator recommends, or changes in regulations that the Administrator considers necessary, to improve overall information resources management in the Federal Government.

@@ -1,0 +1,59 @@
+---
+title: "Section 5515 - Supervision of very large banks, savings associations, and credit unions"
+usc_title: 12
+usc_section: "5515"
+chapter: 53
+current_through: "PL 119-73"
+classification: "12 U.S.C. § 5515"
+generated_at: "2026-03-29T00:29:16.935Z"
+---
+
+# § 5515. Supervision of very large banks, savings associations, and credit unions
+
+(a) This section shall apply to any covered person that is—
+  (1) an insured depository institution with total assets of more than $10,000,000,000 and any affiliate thereof; or
+  (2) an insured credit union with total assets of more than $10,000,000,000 and any affiliate thereof.
+(b) 
+  (1) The Bureau shall have exclusive authority to require reports and conduct examinations on a periodic basis of persons described in subsection (a) for purposes of—
+    (A) assessing compliance with the requirements of Federal consumer financial laws;
+    (B) obtaining information about the activities subject to such laws and the associated compliance systems or procedures of such persons; and
+    (C) detecting and assessing associated risks to consumers and to markets for consumer financial products and services.
+  (2) To minimize regulatory burden, the Bureau shall coordinate its supervisory activities with the supervisory activities conducted by prudential regulators and the State bank regulatory authorities, including consultation regarding their respective schedules for examining such persons described in subsection (a) and requirements regarding reports to be submitted by such persons.
+  (3) The Bureau shall, to the fullest extent possible, use—
+    (A) reports pertaining to a person described in subsection (a) that have been provided or required to have been provided to a Federal or State agency; and
+    (B) information that has been reported publicly.
+  (4) Nothing in this title 1 1 See References in Text note below. may be construed as limiting the authority of the Director to require reports from a person described in subsection (a), as permitted under paragraph (1), regarding information owned or under the control of such person, regardless of whether such information is maintained, stored, or processed by another person.
+  (5) The Bureau shall provide the Commissioner of Internal Revenue with any report of examination or related information identifying possible tax law noncompliance.
+(c) 
+  (1) To the extent that the Bureau and another Federal agency are authorized to enforce a Federal consumer financial law, the Bureau shall have primary authority to enforce that Federal consumer financial law with respect to any person described in subsection (a).
+  (2) Any Federal agency, other than the Federal Trade Commission, that is authorized to enforce a Federal consumer financial law may recommend, in writing, to the Bureau that the Bureau initiate an enforcement proceeding with respect to a person described in subsection (a), as the Bureau is authorized to do by that Federal consumer financial law.
+  (3) If the Bureau does not, before the end of the 120-day period beginning on the date on which the Bureau receives a recommendation under paragraph (2), initiate an enforcement proceeding, the other agency referred to in paragraph (2) may initiate an enforcement proceeding, including performing follow up supervisory and support functions incidental thereto, to assure compliance with such proceeding.
+(d) A service provider to a person described in subsection (a) shall be subject to the authority of the Bureau under this section, to the same extent as if the Bureau were an appropriate Federal banking agency under section 1867(c) of this title . In conducting any examination or requiring any report from a service provider subject to this subsection, the Bureau shall coordinate with the appropriate prudential regulator.
+(e) 
+  (1) A prudential regulator and the Bureau shall, with respect to each insured depository institution, insured credit union, or other covered person described in subsection (a) that is supervised by the prudential regulator and the Bureau, respectively—
+    (A) coordinate the scheduling of examinations of the insured depository institution, insured credit union, or other covered person described in subsection (a);
+    (B) conduct simultaneous examinations of each insured depository institution or insured credit union, unless such institution requests examinations to be conducted separately;
+    (C) share each draft report of examination with the other agency and permit the receiving agency a reasonable opportunity (which shall not be less than a period of 30 days after the date of receipt) to comment on the draft report before such report is made final; and
+    (D) prior to issuing a final report of examination or taking supervisory action, take into consideration concerns, if any, raised in the comments made by the other agency.
+  (2) The Bureau shall pursue arrangements and agreements with State bank supervisors to coordinate examinations, consistent with paragraph (1).
+  (3) 
+    (A) If the proposed supervisory determinations of the Bureau and a prudential regulator (in this section referred to collectively as the “agencies”) are conflicting, an insured depository institution, insured credit union, or other covered person described in subsection (a) may request the agencies to coordinate and present a joint statement of coordinated supervisory action.
+    (B) The agencies shall provide a joint statement under subparagraph (A), not later than 30 days after the date of receipt of the request of the insured depository institution, credit union, or covered person described in subsection (a).
+  (4) 
+    (A) If the agencies do not resolve the conflict or issue a joint statement required by subparagraph (B), or if either of the agencies takes or attempts to take any supervisory action relating to the request for the joint statement without the consent of the other agency, an insured depository institution, insured credit union, or other covered person described in subsection (a) may institute an appeal to a governing panel, as provided in this subsection, not later than 30 days after the expiration of the period during which a joint statement is required to be filed under paragraph (3)(B).
+    (B) The governing panel for an appeal under this paragraph shall be composed of—
+      (i) a representative from the Bureau and a representative of the prudential regulator, both of whom—
+        (I) have not participated in the material supervisory determinations under appeal; and
+        (II) do not directly or indirectly report to the person who participated materially in the supervisory determinations under appeal; and
+      (ii) one individual representative, to be determined on a rotating basis, from among the Board of Governors, the Corporation, the National Credit Union Administration, and the Office of the Comptroller of the Currency, other than any agency involved in the subject dispute.
+    (C) In an appeal under this paragraph—
+      (i) the insured depository institution, insured credit union, or other covered person described in subsection (a)—
+        (I) shall include in its appeal all the facts and legal arguments pertaining to the matter; and
+        (II) may, through counsel, employees, or representatives, appear before the governing panel in person or by telephone; and
+      (ii) the governing panel—
+        (I) may request the insured depository institution, insured credit union, or other covered person described in subsection (a), the Bureau, or the prudential regulator to produce additional information relevant to the appeal; and
+        (II) by a majority vote of its members, shall provide a final determination, in writing, not later than 30 days after the date of filing of an informationally complete appeal, or such longer period as the panel and the insured depository institution, insured credit union, or other covered person described in subsection (a) may jointly agree.
+    (D) A governing panel shall publish all information contained in a determination by the governing panel, with appropriate redactions of information that would be subject to an exemption from disclosure under section 552 of title 5 .
+    (E) The Bureau and the prudential regulators shall prescribe rules to provide safeguards from retaliation against the insured depository institution, insured credit union, or other covered person described in subsection (a) instituting an appeal under this paragraph, as well as their officers and employees.
+    (F) The process provided in this paragraph shall not apply to a determination by a prudential regulator to appoint a conservator or receiver for an insured depository institution or a liquidating agent for an insured credit union, as the case may be, or a decision to take action pursuant to section 1831 o of this title or section 1790a of this title , as applicable.
+    (G) Nothing in this section shall modify or limit the authority of the Bureau to interpret, or take enforcement action under, any Federal consumer financial law, or the authority of a prudential regulator to interpret or take enforcement action under any other provision of Federal law for safety and soundness purposes.

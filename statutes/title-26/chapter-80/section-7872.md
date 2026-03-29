@@ -1,0 +1,121 @@
+---
+title: "Section 7872 - Treatment of loans with below-market interest rates"
+usc_title: 26
+usc_section: "7872"
+chapter: 80
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 7872"
+generated_at: "2026-03-29T00:31:21.118Z"
+---
+
+# § 7872. Treatment of loans with below-market interest rates
+
+(a) 
+  (1) For purposes of this title, in the case of any below-market loan to which this section applies and which is a gift loan or a demand loan, the forgone interest shall be treated as—
+    (A) transferred from the lender to the borrower, and
+    (B) retransferred by the borrower to the lender as interest.
+  (2) Except as otherwise provided in regulations prescribed by the Secretary, any forgone interest attributable to periods during any calendar year shall be treated as transferred (and retransferred) under paragraph (1) on the last day of such calendar year.
+(b) 
+  (1) For purposes of this title, in the case of any below-market loan to which this section applies and to which subsection (a)(1) does not apply, the lender shall be treated as having transferred on the date the loan was made (or, if later, on the first day on which this section applies to such loan), and the borrower shall be treated as having received on such date, cash in an amount equal to the excess of—
+    (A) the amount loaned, over
+    (B) the present value of all payments which are required to be made under the terms of the loan.
+  (2) For purposes of this title—
+    (A) Any below-market loan to which paragraph (1) applies shall be treated as having original issue discount in an amount equal to the excess described in paragraph (1).
+    (B) Any original issue discount which a loan is treated as having by reason of subparagraph (A) shall be in addition to any other original issue discount on such loan (determined without regard to subparagraph (A)).
+(c) 
+  (1) Except as otherwise provided in this subsection and subsection (g), this section shall apply to—
+    (A) Any below-market loan which is a gift loan.
+    (B) Any below-market loan directly or indirectly between—
+      (i) an employer and an employee, or
+      (ii) an independent contractor and a person for whom such independent contractor provides services.
+    (C) Any below-market loan directly or indirectly between a corporation and any shareholder of such corporation.
+    (D) Any below-market loan 1 of the principal purposes of the interest arrangements of which is the avoidance of any Federal tax.
+    (E) To the extent provided in regulations, any below-market loan which is not described in subparagraph (A), (B), (C), or (F) if the interest arrangements of such loan have a significant effect on any Federal tax liability of the lender or the borrower.
+    (F) Any loan to any qualified continuing care facility pursuant to a continuing care contract.
+  (2) 
+    (A) In the case of any gift loan directly between individuals, this section shall not apply to any day on which the aggregate outstanding amount of loans between such individuals does not exceed $10,000.
+    (B) Subparagraph (A) shall not apply to any gift loan directly attributable to the purchase or carrying of income-producing assets.
+    (C) For limitation on amount treated as interest where loans do not exceed $100,000, see subsection (d)(1).
+  (3) 
+    (A) In the case of any loan described in subparagraph (B) or (C) of paragraph (1), this section shall not apply to any day on which the aggregate outstanding amount of loans between the borrower and lender does not exceed $10,000.
+    (B) Subparagraph (A) shall not apply to any loan the interest arrangements of which have as 1 of their principal purposes the avoidance of any Federal tax.
+(d) 
+  (1) 
+    (A) For purposes of subtitle A, in the case of a gift loan directly between individuals, the amount treated as retransferred by the borrower to the lender as of the close of any year shall not exceed the borrower’s net investment income for such year.
+    (B) Subparagraph (A) shall not apply to any loan the interest arrangements of which have as 1 of their principal purposes the avoidance of any Federal tax.
+    (C) For purposes of subparagraph (A), in any case in which a borrower has outstanding more than 1 gift loan, the net investment income of such borrower shall be allocated among such loans in proportion to the respective amounts which would be treated as retransferred by the borrower without regard to this paragraph.
+    (D) This paragraph shall not apply to any loan made by a lender to a borrower for any day on which the aggregate outstanding amount of loans between the borrower and lender exceeds $100,000.
+    (E) For purposes of this paragraph—
+      (i) The term “net investment income” has the meaning given such term by section 163(d)(4).
+      (ii) If the net investment income of any borrower for any year does not exceed $1,000, the net investment income of such borrower for such year shall be treated as zero.
+      (iii) In determining the net investment income of a person for any year, any amount which would be included in the gross income of such person for such year by reason of section 1272 if such section applied to all deferred payment obligations shall be treated as interest received by such person for such year.
+      (iv) The term “deferred payment obligation” includes any market discount bond, short-term obligation, United States savings bond, annuity, or similar obligation.
+  (2) In the case of any gift loan which is a term loan, subsection (b)(1) (and not subsection (a)) shall apply for purposes of chapter 12.
+(e) For purposes of this section—
+  (1) The term “below-market loan” means any loan if—
+    (A) in the case of a demand loan, interest is payable on the loan at a rate less than the applicable Federal rate, or
+    (B) in the case of a term loan, the amount loaned exceeds the present value of all payments due under the loan.
+  (2) The term “forgone interest” means, with respect to any period during which the loan is outstanding, the excess of—
+    (A) the amount of interest which would have been payable on the loan for the period if interest accrued on the loan at the applicable Federal rate and were payable annually on the day referred to in subsection (a)(2), over
+    (B) any interest payable on the loan properly allocable to such period.
+(f) For purposes of this section—
+  (1) The present value of any payment shall be determined in the manner provided by regulations prescribed by the Secretary—
+    (A) as of the date of the loan, and
+    (B) by using a discount rate equal to the applicable Federal rate.
+  (2) 
+    (A) In the case of any term loan, the applicable Federal rate shall be the applicable Federal rate in effect under section 1274(d) (as of the day on which the loan was made), compounded semiannually.
+    (B) In the case of a demand loan, the applicable Federal rate shall be the Federal short-term rate in effect under section 1274(d) for the period for which the amount of forgone interest is being determined, compounded semiannually.
+  (3) The term “gift loan” means any below-market loan where the forgoing of interest is in the nature of a gift.
+  (4) The term “amount loaned” means the amount received by the borrower.
+  (5) The term “demand loan” means any loan which is payable in full at any time on the demand of the lender. Such term also includes (for purposes other than determining the applicable Federal rate under paragraph (2)) any loan if the benefits of the interest arrangements of such loan are not transferable and are conditioned on the future performance of substantial services by an individual. To the extent provided in regulations, such term also includes any loan with an indefinite maturity.
+  (6) The term “term loan” means any loan which is not a demand loan.
+  (7) A husband and wife shall be treated as 1 person.
+  (8) This section shall not apply to any loan to which section 483, 643(i), or 1274 applies.
+  (9) No amount shall be withheld under chapter 24 with respect to—
+    (A) any amount treated as transferred or retransferred under subsection (a), and
+    (B) any amount treated as received under subsection (b).
+  (10) If this section applies to any term loan on any day, this section shall continue to apply to such loan notwithstanding paragraphs (2) and (3) of subsection (c). In the case of a gift loan, the preceding sentence shall only apply for purposes of chapter 12.
+  (11) 
+    (A) In the case of any term loan made by an employer to an employee the proceeds of which are used by the employee to purchase a principal residence (within the meaning of section 121), the determination of the applicable Federal rate shall be made as of the date the written contract to purchase such residence was entered into.
+    (B) Subparagraph (A) shall only apply to the purchase of a principal residence in connection with the commencement of work by an employee or a change in the principal place of work of an employee to which section 217 applies.
+(g) 
+  (1) This section shall not apply for any calendar year to any below-market loan made by a lender to a qualified continuing care facility pursuant to a continuing care contract if the lender (or the lender’s spouse) attains age 65 before the close of such year.
+  (2) Paragraph (1) shall apply only to the extent that the aggregate outstanding amount of any loan to which such paragraph applies (determined without regard to this paragraph), when added to the aggregate outstanding amount of all other previous loans between the lender (or the lender’s spouse) and any qualified continuing care facility to which paragraph (1) applies, does not exceed $90,000.
+  (3) For purposes of this section, the term “continuing care contract” means a written contract between an individual and a qualified continuing care facility under which—
+    (A) the individual or individual’s spouse may use a qualified continuing care facility for their life or lives,
+    (B) the individual or individual’s spouse—
+      (i) will first—
+        (I) reside in a separate, independent living unit with additional facilities outside such unit for the providing of meals and other personal care, and
+        (II) not require long-term nursing care, and
+      (ii) then will be provided long-term and skilled nursing care as the health of such individual or individual’s spouse requires, and
+    (C) no additional substantial payment is required if such individual or individual’s spouse requires increased personal care services or long-term and skilled nursing care.
+  (4) 
+    (A) For purposes of this section, the term “qualified continuing care facility” means 1 or more facilities—
+      (i) which are designed to provide services under continuing care contracts, and
+      (ii) substantially all of the residents of which are covered by continuing care contracts.
+    (B) A facility shall not be treated as a qualified continuing care facility unless substantially all facilities which are used to provide services which are required to be provided under a continuing care contract are owned or operated by the borrower.
+    (C) The term “qualified continuing care facility” shall not include any facility which is of a type which is traditionally considered a nursing home.
+  (5) In the case of any loan made during any calendar year after 1986, the dollar amount in paragraph (2) shall be increased by an amount equal to—
+    (A) such amount, multiplied by
+    (B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 1985” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+  (6) Paragraph (1) shall not apply for any calendar year to which subsection (h) applies.
+(h) 
+  (1) This section shall not apply for any calendar year to any below-market loan owed by a facility which on the last day of such year is a qualified continuing care facility, if such loan was made pursuant to a continuing care contract and if the lender (or the lender’s spouse) attains age 62 before the close of such year.
+  (2) For purposes of this section, the term “continuing care contract” means a written contract between an individual and a qualified continuing care facility under which—
+    (A) the individual or individual’s spouse may use a qualified continuing care facility for their life or lives,
+    (B) the individual or individual’s spouse will be provided with housing, as appropriate for the health of such individual or individual’s spouse—
+      (i) in an independent living unit (which has additional available facilities outside such unit for the provision of meals and other personal care), and
+      (ii) in an assisted living facility or a nursing facility, as is available in the continuing care facility, and
+    (C) the individual or individual’s spouse will be provided assisted living or nursing care as the health of such individual or individual’s spouse requires, and as is available in the continuing care facility.
+  (3) 
+    (A) For purposes of this section, the term “qualified continuing care facility” means 1 or more facilities—
+      (i) which are designed to provide services under continuing care contracts,
+      (ii) which include an independent living unit, plus an assisted living or nursing facility, or both, and
+      (iii) substantially all of the independent living unit residents of which are covered by continuing care contracts.
+    (B) The term “qualified continuing care facility” shall not include any facility which is of a type which is traditionally considered a nursing home.
+(i) 
+  (1) The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including—
+    (A) regulations providing that where, by reason of varying rates of interest, conditional interest payments, waivers of interest, disposition of the lender’s or borrower’s interest in the loan, or other circumstances, the provisions of this section do not carry out the purposes of this section, adjustments to the provisions of this section will be made to the extent necessary to carry out the purposes of this section,
+    (B) regulations for the purpose of assuring that the positions of the borrower and lender are consistent as to the application (or nonapplication) of this section, and
+    (C) regulations exempting from the application of this section any class of transactions the interest arrangements of which have no significant effect on any Federal tax liability of the lender or the borrower.
+  (2) Under regulations prescribed by the Secretary, any loan which is made with donative intent and which is a term loan shall be taken into account for purposes of chapter 11 in a manner consistent with the provisions of subsection (b).

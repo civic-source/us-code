@@ -1,0 +1,17 @@
+---
+title: "Section 10366 - Evaluation"
+usc_title: 34
+usc_section: "10366"
+chapter: 101
+current_through: "PL 119-73"
+classification: "34 U.S.C. § 10366"
+generated_at: "2026-03-29T00:32:01.553Z"
+---
+
+# § 10366. Evaluation
+
+(a) 
+  (1) Each State and local entity that receives a grant under this subchapter shall submit to the Director an evaluation not later than March 1 of each year in accordance with guidelines issued by the Director and in consultation with the Director of the National Institute of Justice.
+  (2) The Director may waive the requirement specified in subsection (a) if the Director determines that such evaluation is not warranted in the case of the State or local entity involved.
+(b) The Director shall make available to the public on a timely basis evaluations received under subsection (a).
+(c) A State or local entity may use not more than 5 percent of the funds it receives under this subchapter to develop an evaluation program under this section.

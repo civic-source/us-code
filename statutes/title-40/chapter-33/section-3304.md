@@ -1,0 +1,18 @@
+---
+title: "Section 3304 - Acquisition of buildings and sites"
+usc_title: 40
+usc_section: "3304"
+chapter: 33
+current_through: "PL 119-73"
+classification: "40 U.S.C. § 3304"
+generated_at: "2026-03-29T00:32:20.550Z"
+---
+
+# § 3304. Acquisition of buildings and sites
+
+(a) The Administrator of General Services may acquire, by purchase, condemnation, donation, exchange, or otherwise, any building and its site which the Administrator decides is necessary to carry out the duties of the Administrator under this chapter.
+(b) The Administrator may acquire, by purchase, condemnation, donation, exchange, or otherwise, land or an interest in land the Administrator considers necessary for use as sites, or additions to sites, for public buildings authorized to be constructed or altered under this chapter.
+(c) When any part of a public building is to be used for post office purposes, the Administrator shall act jointly with the United States Postal Service in selecting the town or city where the building is to be constructed, and in selecting the site in the town or city for the building.
+(d) When the Administrator is to acquire a site under subsection (b), the Administrator, if the Administrator considers it necessary, by public advertisement may solicit proposals for the sale, donation, or exchange of real property to the Federal Government to be used as the site. In selecting a site under subsection (b) the Administrator (with the concurrence of the United States Postal Service if any part of the public building to be constructed on the site is to be used for post office purposes) may—
+  (1) select the site that the Administrator believes is the most advantageous to the Government, all factors considered; and
+  (2) acquire the site without regard to division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.

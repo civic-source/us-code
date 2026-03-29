@@ -1,0 +1,17 @@
+---
+title: "Section 6155 - Payment on notice and demand"
+usc_title: 26
+usc_section: "6155"
+chapter: 62
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 6155"
+generated_at: "2026-03-29T00:31:21.033Z"
+---
+
+# § 6155. Payment on notice and demand
+
+(a) Upon receipt of notice and demand from the Secretary, there shall be paid at the place and time stated in such notice the amount of any tax (including any interest, additional amounts, additions to tax, and assessable penalties) stated in such notice and demand.
+(b) 
+  (1) For restrictions on assessment and collection of deficiency assessments of taxes subject to the jurisdiction of the Tax Court, see sections 6212 and 6213.
+  (2) For provisions relating to assessment of claims allowed in a receivership proceeding, see section 6873.
+  (3) For provisions relating to jeopardy assessments, see subchapter A of chapter 70.

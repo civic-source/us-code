@@ -1,0 +1,14 @@
+---
+title: "Section 1643 - Import provisions with respect to trade-marks"
+usc_title: 48
+usc_section: "1643"
+chapter: 12
+current_through: "PL 119-73"
+classification: "48 U.S.C. § 1643"
+generated_at: "2026-03-29T00:33:06.633Z"
+---
+
+# § 1643. Import provisions with respect to trade-marks
+
+Section 1124 of title 15 , and section 1526 of title 19 , shall not apply to importations into the Virgin Islands of genuine foreign merchandise bearing a genuine foreign trade-mark, but shall remain applicable to importations of such merchandise from the Virgin Islands into the United States or its possessions; and the dealing in or possession of any such merchandise in the Virgin Islands shall not constitute a violation of any registrant’s right under the Trade Mark Act [ 15 U.S.C. 1051 et seq.].
+

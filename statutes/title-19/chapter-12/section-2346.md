@@ -1,0 +1,15 @@
+---
+title: "Section 2346 - Delegation of functions to Small Business Administration; authorization of appropriations"
+usc_title: 19
+usc_section: "2346"
+chapter: 12
+current_through: "PL 119-73"
+classification: "19 U.S.C. § 2346"
+generated_at: "2026-03-29T00:30:20.221Z"
+---
+
+# § 2346. Delegation of functions to Small Business Administration; authorization of appropriations
+
+(a) In the case of any firm which is small (within the meaning of the Small Business Act [ 15 U.S.C. 631 et seq.] and regulations promulgated thereunder), the Secretary may delegate all of his functions under this part (other than the functions under sections 2341 and 2342(d) 1 1 See References in Text note below. of this title with respect to the certification of eligibility and section 2354 of this title ) to the Administrator of the Small Business Administration.
+(b) There are authorized to be appropriated to the Secretary $16,000,000 for each of fiscal years 2003 through 2007, and $4,000,000 for the 3-month period beginning on October 1, 2007 , 2 2 See Application of Subsection (b) note below. to carry out the Secretary’s functions under this part in connection with furnishing adjustment assistance to firms. Amounts appropriated under this subsection shall remain available until expended.
+(c) The unexpended balances of appropriations authorized by section 1912(d) 1 of this title are transferred to the Secretary to carry out his functions under this part.

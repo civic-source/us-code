@@ -1,0 +1,16 @@
+---
+title: "Section 3303 - Program authority"
+usc_title: 25
+usc_section: "3303"
+chapter: 35
+current_through: "PL 119-73"
+classification: "25 U.S.C. § 3303"
+generated_at: "2026-03-29T00:30:38.756Z"
+---
+
+# § 3303. Program authority
+
+(a) The Secretary shall, from the amounts appropriated for the purpose of supporting higher education grants for Indian students under the authority of section 13 of this title , make grants to Indian tribes in accordance with the requirements of this subchapter to permit those tribes to provide financial assistance to individual Indian students for the cost of attendance at institutions of higher education.
+(b) The Secretary shall not place any restrictions on the use of funds provided to an Indian tribe under this subchapter that is not expressly authorized by this subchapter.
+(c) The provisions of this subchapter shall not affect any trust responsibilities of the Federal Government.
+(d) Grants provided under this subchapter may not be terminated, modified, suspended, or reduced only for the convenience of the administering agency.

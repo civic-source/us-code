@@ -1,0 +1,24 @@
+---
+title: "Section 702 - Income and credits of partner"
+usc_title: 26
+usc_section: "702"
+chapter: 1
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 702"
+generated_at: "2026-03-29T00:31:20.803Z"
+---
+
+# § 702. Income and credits of partner
+
+(a) In determining his income tax, each partner shall take into account separately his distributive share of the partnership’s—
+  (1) gains and losses from sales or exchanges of capital assets held for not more than 1 year,
+  (2) gains and losses from sales or exchanges of capital assets held for more than 1 year,
+  (3) gains and losses from sales or exchanges of property described in section 1231 (relating to certain property used in a trade or business and involuntary conversions),
+  (4) charitable contributions (as defined in section 170(c)),
+  (5) dividends with respect to which section 1(h)(11) or part VIII of subchapter B applies,
+  (6) taxes, described in section 901, paid or accrued to foreign countries and to possessions of the United States,
+  (7) other items of income, gain, loss, deduction, or credit, to the extent provided by regulations prescribed by the Secretary, and
+  (8) taxable income or loss, exclusive of items requiring separate computation under other paragraphs of this subsection.
+(b) The character of any item of income, gain, loss, deduction, or credit included in a partner’s distributive share under paragraphs (1) through (7) of subsection (a) shall be determined as if such item were realized directly from the source from which realized by the partnership, or incurred in the same manner as incurred by the partnership.
+(c) In any case where it is necessary to determine the gross income of a partner for purposes of this title, such amount shall include his distributive share of the gross income of the partnership.
+(d) For rules relating to procedures for determining the tax treatment of partnership items see subchapter C of chapter 63 (section 6221 and following).

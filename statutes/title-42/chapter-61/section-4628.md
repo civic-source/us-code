@@ -1,0 +1,14 @@
+---
+title: "Section 4628 - State acting as agent for Federal program"
+usc_title: 42
+usc_section: "4628"
+chapter: 61
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 4628"
+generated_at: "2026-03-29T00:32:53.877Z"
+---
+
+# § 4628. State acting as agent for Federal program
+
+Whenever real property is acquired by a State agency at the request of a Federal agency for a Federal program or project, such acquisition shall, for the purposes of this chapter, be deemed an acquisition by the Federal agency having authority over such program or project.
+

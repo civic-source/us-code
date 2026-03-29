@@ -1,0 +1,14 @@
+---
+title: "Section 77hh - Assessments by Corporation on holders of foreign securities"
+usc_title: 15
+usc_section: "77hh"
+chapter: 2
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 77hh"
+generated_at: "2026-03-29T00:29:41.459Z"
+---
+
+# § 77hh. Assessments by Corporation on holders of foreign securities
+
+The Corporation may in its discretion levy charges, assessed on a pro rata basis, on the holders of foreign securities deposited with it: Provided , That any charge levied at the time of depositing securities with the Corporation shall not exceed one fifth of 1 per centum of the face value of such securities: Provided further , That any additional charges shall bear a close relationship to the cost of operations and negotiations including those enumerated in sections 77dd and 77ee of this title and shall not exceed 1 per centum of the face value of such securities.
+

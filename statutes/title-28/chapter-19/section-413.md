@@ -1,0 +1,14 @@
+---
+title: "Section 413 - Publications; distribution to courts"
+usc_title: 28
+usc_section: "413"
+chapter: 19
+current_through: "PL 119-73"
+classification: "28 U.S.C. § 413"
+generated_at: "2026-03-29T00:31:24.143Z"
+---
+
+# § 413. Publications; distribution to courts
+
+Distribution of publications to Federal courts in accordance with the provisions of this chapter shall not be made to any place where such court is held in a building not owned or controlled by the United States unless such publications are committed to the custody of an officer of the United States at such building. The Attorney General and the Director in the procurement of law books, books of reference or periodicals may exchange or sell similar items and apply the allowance or proceeds to payment in whole or in part of the cost of the items procured.
+

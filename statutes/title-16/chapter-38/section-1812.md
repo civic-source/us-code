@@ -1,0 +1,15 @@
+---
+title: "Section 1812 - Highly migratory species"
+usc_title: 16
+usc_section: "1812"
+chapter: 38
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 1812"
+generated_at: "2026-03-29T00:29:52.743Z"
+---
+
+# § 1812. Highly migratory species
+
+(a) The United States shall cooperate directly or through appropriate international organizations with those nations involved in fisheries for highly migratory species with a view to ensuring conservation and shall promote the achievement of optimum yield of such species throughout their range, both within and beyond the exclusive economic zone.
+(b) In managing any fisheries under an international fisheries agreement to which the United States is a party, the appropriate Council or Secretary shall take into account the traditional participation in the fishery, relative to other nations, by fishermen of the United States on fishing vessels of the United States.
+(c) If a relevant international fisheries organization does not have a process for developing a formal plan to rebuild a depleted stock, an overfished stock, or a stock that is approaching a condition of being overfished, the provisions of this chapter in this regard shall be communicated to and promoted by the United States in the international or regional fisheries organization.

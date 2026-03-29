@@ -1,0 +1,15 @@
+---
+title: "Section 874 - Allowance of deductions and credits"
+usc_title: 26
+usc_section: "874"
+chapter: 1
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 874"
+generated_at: "2026-03-29T00:31:20.833Z"
+---
+
+# § 874. Allowance of deductions and credits
+
+(a) A nonresident alien individual shall receive the benefit of the deductions and credits allowed to him in this subtitle only by filing or causing to be filed with the Secretary a true and accurate return, in the manner prescribed in subtitle F (sec. 6001 and following, relating to procedure and administration), including therein all the information which the Secretary may deem necessary for the calculation of such deductions and credits. This subsection shall not be construed to deny the credits provided by sections 31 and 33 for tax withheld at source or the credit provided by section 34 for certain uses of gasoline and special fuels.
+(b) The benefit of the deduction for exemptions under section 151 may, in the discretion of the Secretary, and under regulations prescribed by the Secretary, be received by a non-resident alien individual entitled thereto, by filing a claim therefor with the withholding agent.
+(c) Except as provided in section 906, a nonresident alien individual shall not be allowed the credits against the tax for taxes of foreign countries and possessions of the United States allowed by section 901.

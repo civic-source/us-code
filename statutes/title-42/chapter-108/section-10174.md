@@ -1,0 +1,14 @@
+---
+title: "Section 10174 - Consideration in siting facilities"
+usc_title: 42
+usc_section: "10174"
+chapter: 108
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 10174"
+generated_at: "2026-03-29T00:32:54.198Z"
+---
+
+# § 10174. Consideration in siting facilities
+
+The Secretary, in siting Federal research projects, shall give special consideration to proposals from States where a repository is located.
+

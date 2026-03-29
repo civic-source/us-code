@@ -1,0 +1,14 @@
+---
+title: "Section 8001 - Producer retention of erroneously paid loan deficiency payments and marketing loan gains"
+usc_title: 7
+usc_section: "8001"
+chapter: 106
+current_through: "PL 119-73"
+classification: "7 U.S.C. § 8001"
+generated_at: "2026-03-29T00:28:58.310Z"
+---
+
+# § 8001. Producer retention of erroneously paid loan deficiency payments and marketing loan gains
+
+Notwithstanding any other provision of law, the Secretary and the Commodity Credit Corporation shall not require producers in Erie County, Pennsylvania, to repay loan deficiency payments and marketing loan gains erroneously paid or determined to have been earned by the Commodity Credit Corporation for certain 1998 and 1999 crops under subtitle C of title I of the Federal Agriculture Improvement and Reform Act of 1996 ( 7 U.S.C. 7231 et seq.). In the case of a producer who has already made the repayment on or before May 13, 2002 , the Commodity Credit Corporation shall reimburse the producer for the full amount of the repayment.
+

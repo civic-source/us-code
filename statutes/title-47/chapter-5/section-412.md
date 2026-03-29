@@ -1,0 +1,14 @@
+---
+title: "Section 412 - Documents filed with Commission as public records; prima facie evidence; confidential records"
+usc_title: 47
+usc_section: "412"
+chapter: 5
+current_through: "PL 119-73"
+classification: "47 U.S.C. § 412"
+generated_at: "2026-03-29T00:33:04.912Z"
+---
+
+# § 412. Documents filed with Commission as public records; prima facie evidence; confidential records
+
+The copies of schedules of charges, classifications, and of all contracts, agreements, and arrangements between common carriers filed with the Commission as herein provided, and the statistics, tables, and figures contained in the annual or other reports of carriers and other persons made to the Commission as required under the provisions of this chapter shall be preserved as public records in the custody of the secretary of the Commission, and shall be received as prima facie evidence of what they purport to be for the purpose of investigations by the Commission and in all judicial proceedings; and copies of and extracts from any of said schedules, classifications, contracts, agreements, arrangements, or reports, made public records as aforesaid, certified by the secretary, under the Commission’s seal, shall be received in evidence with like effect as the originals: Provided , That the Commission may, if the public interest will be served thereby, keep confidential any contract, agreement, or arrangement relating to foreign wire or radio communication when the publication of such contract, agreement, or arrangement would place American communication companies at a disadvantage in meeting the competition of foreign communication companies.
+

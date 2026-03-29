@@ -1,0 +1,14 @@
+---
+title: "Section 1533 - Transfers of appropriations for salaries and expenses to carry out national defense responsibilities"
+usc_title: 31
+usc_section: "1533"
+chapter: 15
+current_through: "PL 119-73"
+classification: "31 U.S.C. § 1533"
+generated_at: "2026-03-29T00:31:52.596Z"
+---
+
+# § 1533. Transfers of appropriations for salaries and expenses to carry out national defense responsibilities
+
+An appropriation of an executive agency for salaries and expenses is available to carry out national defense responsibilities assigned to the agency under law. A transfer necessary to carry out this section may be made between appropriations or allocations within the executive agency. An allocation may not be made to an executive agency that can carry out with its regular personnel a defense activity assigned to it by using the authority of this section to re­align its regular programs.
+

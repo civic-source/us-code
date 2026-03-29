@@ -1,0 +1,20 @@
+---
+title: "Section 655 - Arbitrators"
+usc_title: 28
+usc_section: "655"
+chapter: 44
+current_through: "PL 119-73"
+classification: "28 U.S.C. § 655"
+generated_at: "2026-03-29T00:31:24.165Z"
+---
+
+# § 655. Arbitrators
+
+(a) An arbitrator to whom an action is referred under section 654 shall have the power, within the judicial district of the district court which referred the action to arbitration—
+  (1) to conduct arbitration hearings;
+  (2) to administer oaths and affirmations; and
+  (3) to make awards.
+(b) Each district court that authorizes arbitration shall establish standards for the certification of arbitrators and shall certify arbitrators to perform services in accordance with such standards and this chapter. The standards shall include provisions requiring that any arbitrator—
+  (1) shall take the oath or affirmation described in section 453; and
+  (2) shall be subject to the disqualification rules under section 455.
+(c) All individuals serving as arbitrators in an alternative dispute resolution program under this chapter are performing quasi-judicial functions and are entitled to the immunities and protections that the law accords to persons serving in such capacity.

@@ -1,0 +1,14 @@
+---
+title: "Section 8521 - Presumption of contract for disposition of personalty"
+usc_title: 38
+usc_section: "8521"
+chapter: 85
+current_through: "PL 119-73"
+classification: "38 U.S.C. § 8521"
+generated_at: "2026-03-29T00:32:17.365Z"
+---
+
+# § 8521. Presumption of contract for disposition of personalty
+
+The fact of death of a veteran (admitted as such), or a dependent or survivor of a veteran receiving care under the penultimate sentence of section 1781(b) of this title , in a facility or hospital, while being furnished care or treatment therein by the Department, leaving no spouse, next of kin, or heirs, shall give rise to a conclusive presumption of a valid contract for the disposition in accordance with this subchapter, but subject to its conditions, of all property described in section 8520 of this title owned by said decedent at death and as to which such person dies intestate.
+

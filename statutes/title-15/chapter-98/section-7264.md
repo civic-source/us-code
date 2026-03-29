@@ -1,0 +1,21 @@
+---
+title: "Section 7264 - Code of ethics for senior financial officers"
+usc_title: 15
+usc_section: "7264"
+chapter: 98
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 7264"
+generated_at: "2026-03-29T00:29:41.919Z"
+---
+
+# § 7264. Code of ethics for senior financial officers
+
+(a) The Commission shall issue rules to require each issuer, together with periodic reports required pursuant to section 78m(a) or 78 o (d) of this title, to disclose whether or not, and if not, the reason therefor, such issuer has adopted a code of ethics for senior financial officers, applicable to its principal financial officer and comptroller or principal accounting officer, or persons performing similar functions.
+(b) The Commission shall revise its regulations concerning matters requiring prompt disclosure on Form 8–K (or any successor thereto) to require the immediate disclosure, by means of the filing of such form, dissemination by the Internet or by other electronic means, by any issuer of any change in or waiver of the code of ethics for senior financial officers.
+(c) In this section, the term “code of ethics” means such standards as are reasonably necessary to promote—
+  (1) honest and ethical conduct, including the ethical handling of actual or apparent conflicts of interest between personal and professional relationships;
+  (2) full, fair, accurate, timely, and understandable disclosure in the periodic reports required to be filed by the issuer; and
+  (3) compliance with applicable governmental rules and regulations.
+(d) The Commission shall—
+  (1) propose rules to implement this section, not later than 90 days after July 30, 2002 ; and
+  (2) issue final rules to implement this section, not later than 180 days after July 30, 2002 .

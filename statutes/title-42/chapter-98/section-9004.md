@@ -1,0 +1,18 @@
+---
+title: "Section 9004 - Pilot and demonstration plants"
+usc_title: 42
+usc_section: "9004"
+chapter: 98
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 9004"
+generated_at: "2026-03-29T00:32:54.134Z"
+---
+
+# § 9004. Pilot and demonstration plants
+
+(a) The Secretary is authorized to initiate a program to design, construct, and operate well instrumented ocean thermal energy conversion facilities of sufficient size to demonstrate the technical feasibility and potential economic feasibility of utilizing the various forms of ocean thermal energy conversion to displace nonrenewable fuels. To achieve the goals of this section and to facilitate development of a strong industrial basis for the application of ocean thermal energy conversion system technology, at least two independent parallel demonstration projects shall be competitively selected.
+(b) The specific goals of the demonstration program shall include at a minimum—
+  (1) the demonstration of ocean thermal energy conversion technical feasibility through multiple pilot and demonstration plants with a combined capacity of at least one hundred megawatts of electrical capacity or energy product equivalent by the year 1986;
+  (2) the delivery of baseload electricity to utilities located on land or the production of commercially attractive quantities of energy product; and
+  (3) the continuous operation of each pilot and demonstration facility for a sufficient period of time to collect and analyze system performance and reliability data.
+(c) In providing any financial assistance under this section, the Secretary shall (1) give full consideration to those projects which will provide energy to United States offshore States, its territories, and its possessions and (2) seek satisfactory cost-sharing arrangements when he deems such arrangements to be appropriate.

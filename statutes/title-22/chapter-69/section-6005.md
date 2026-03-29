@@ -1,0 +1,25 @@
+---
+title: "Section 6005 - Sanctions"
+usc_title: 22
+usc_section: "6005"
+chapter: 69
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 6005"
+generated_at: "2026-03-29T00:30:33.951Z"
+---
+
+# § 6005. Sanctions
+
+(a) 
+  (1) Notwithstanding any other provision of law, no license may be issued for any transaction described in section 515.559 of title 31, Code of Federal Regulations, as in effect on July 1, 1989 .
+  (2) Paragraph (1) shall not affect any contract entered into before October 23, 1992 .
+(b) 
+  (1) Beginning on the 61st day after October 23, 1992 , a vessel which enters a port or place in Cuba to engage in the trade of goods or services may not, within 180 days after departure from such port or place in Cuba, load or unload any freight at any place in the United States, except pursuant to a license issued by the Secretary of the Treasury.
+  (2) Except as specifically authorized by the Secretary of the Treasury, a vessel carrying goods or passengers to or from Cuba or carrying goods in which Cuba or a Cuban national has any interest may not enter a United States port.
+  (3) No commodities which may be exported under a general license described in section 771.9 of title 15, Code of Federal Regulations, as in effect on May 1, 1992 , may be exported under a general license to any vessel carrying goods or passengers to or from Cuba or carrying goods in which Cuba or a Cuban national has an interest.
+  (4) As used in this subsection—
+    (A) the term “vessel” includes every description of water craft or other contrivance used, or capable of being used, as a means of transportation in water, but does not include aircraft;
+    (B) the term “United States” includes the territories and possessions of the United States and the customs waters of the United States (as defined in section 1401 of title 19 ; and
+    (C) the term “Cuban national” means a national of Cuba, as the term “national” is defined in section 515.302 of title 31, Code of Federal Regulations, as of August 1, 1992 .
+(c) The President shall establish strict limits on remittances to Cuba by United States persons for the purpose of financing the travel of Cubans to the United States, in order to ensure that such remittances reflect only the reasonable costs associated with such travel, and are not used by the Government of Cuba as a means of gaining access to United States currency.
+(d) The prohibitions contained in subsections (a), (b), and (c) shall not apply with respect to any activity otherwise permitted by section 6004 of this title or section 6006 of this title or any activity which may not be regulated or prohibited under section 5(b)(4) of the Trading With the Enemy Act [ 50 U.S.C. 4305(b)(4) ].

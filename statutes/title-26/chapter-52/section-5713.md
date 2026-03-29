@@ -1,0 +1,22 @@
+---
+title: "Section 5713 - Permit"
+usc_title: 26
+usc_section: "5713"
+chapter: 52
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 5713"
+generated_at: "2026-03-29T00:31:20.997Z"
+---
+
+# § 5713. Permit
+
+(a) A person shall not engage in business as a manufacturer or importer of tobacco products or processed tobacco or as an export warehouse proprietor without a permit to engage in such business. Such permit, conditioned upon compliance with this chapter and regulations issued thereunder, shall be issued in such form and in such manner as the Secretary shall by regulation prescribe, to every person properly qualified under sections 5711 and 5712. A new permit may be required at such other time as the Secretary shall by regulation prescribe.
+(b) 
+  (1) If the Secretary has reason to believe that any person holding a permit—
+    (A) has not in good faith complied with this chapter, or with any other provision of this title involving intent to defraud,
+    (B) has violated the conditions of such permit,
+    (C) has failed to disclose any material information required or made any material false statement in the application for such permit,
+    (D) has failed to maintain his premises in such manner as to protect the revenue,
+    (E) is, by reason of previous or current legal proceedings involving a felony violation of any other provision of Federal criminal law relating to tobacco products, processed tobacco, cigarette paper, or cigarette tubes, not likely to maintain operations in compliance with this chapter, or
+    (F) has been convicted of a felony violation of any provision of Federal or State criminal law relating to tobacco products, processed tobacco, cigarette paper, or cigarette tubes,
+  (2) If, after hearing, the Secretary finds that such person has not shown cause why his permit should not be suspended or revoked, such permit shall be suspended for such period as the Secretary deems proper or shall be revoked.

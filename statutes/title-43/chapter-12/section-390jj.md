@@ -1,0 +1,15 @@
+---
+title: "Section 390jj - Water conservation"
+usc_title: 43
+usc_section: "390jj"
+chapter: 12
+current_through: "PL 119-73"
+classification: "43 U.S.C. § 390jj"
+generated_at: "2026-03-29T00:32:57.337Z"
+---
+
+# § 390jj. Water conservation
+
+(a) The Secretary shall, pursuant to his authorities under otherwise existing Federal reclamation law, encourage the full consideration and incorporation of prudent and responsible water conservation measures in the operations of non-Federal recipients of irrigation water from Federal reclamation projects, where such measures are shown to be economically feasible for such non-Federal recipients.
+(b) Each district that has entered into a repayment contract or water service contract pursuant to Federal reclamation law or the Water Supply Act of 1958, as amended ( 43 U.S.C. 390b ), shall develop a water conservation plan which shall contain definite goals, appropriate water conservation measures, and a time schedule for meeting the water conservation objectives.
+(c) The Secretary is authorized and directed to enter into memorandums of agreement with those Federal agencies having capability to assist in implementing water conservation measures to assure coordination of ongoing programs. Such memorandums should provide for involvement of non-Federal entities such as States, Indian tribes, and water user organizations to assure full public participation in water conservation efforts.

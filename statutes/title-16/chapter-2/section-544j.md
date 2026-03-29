@@ -1,0 +1,14 @@
+---
+title: "Section 544j - Old Columbia River Highway"
+usc_title: 16
+usc_section: "544j"
+chapter: 2
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 544j"
+generated_at: "2026-03-29T00:29:52.560Z"
+---
+
+# § 544j. Old Columbia River Highway
+
+The Oregon Department of Transportation shall, in consultation with the Secretary and the Commission, the State of Oregon and the counties and cities in which the Old Columbia River Highway is located, prepare a program and undertake efforts to preserve and restore the continuity and historic integrity of the remaining segments of the Old Columbia River Highway for public use as a Historic Road, including recreation trails to connect intact and usable segments.
+

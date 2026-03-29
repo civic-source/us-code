@@ -1,0 +1,28 @@
+---
+title: "Section 10302 - Basic eligibility"
+usc_title: 34
+usc_section: "10302"
+chapter: 101
+current_through: "PL 119-73"
+classification: "34 U.S.C. § 10302"
+generated_at: "2026-03-29T00:32:01.550Z"
+---
+
+# § 10302. Basic eligibility
+
+(a) 
+  (1) The Attorney General shall provide financial assistance to a person who attends a program of education and is—
+    (A) the child of any eligible public safety officer under part A; or
+    (B) the spouse of an officer described in subparagraph (A) at the time of the officer’s death or on the date of a totally and permanently disabling injury.
+  (2) Except as provided in paragraph (3), financial assistance under this part shall consist of direct payments to an eligible person and shall be computed on the basis set forth in section 3532 of title 38 .
+  (3) The financial assistance referred to in paragraph (2) shall be reduced by the amount, if any, determined under section 10304(b) of this title .
+(b) No person shall receive assistance under this part for a period in excess of forty-five months of full-time education or training or a proportional period of time for a part-time program.
+(c) 
+  (1) Subject to paragraph (2), no child shall be eligible for assistance under this part after the child’s 27th birthday absent a finding by the Attorney General of extraordinary circumstances precluding the child from pursuing a program of education.
+  (2) 
+    (A) If a claim for assistance under this part is approved more than 1 year after the date on which the application for such assistance is filed with the Attorney General, the age limitation under this subsection shall be extended by the length of the period—
+      (i) beginning on the day after the date that is 1 year after the date on which the application is filed; and
+      (ii) ending on the date on which the application is approved.
+    (B) In addition to an extension under subparagraph (A), if any, for an application for assistance under this part that relates to a claim for benefits under part A that was approved more than 1 year after the date on which the claim was filed with the Attorney General, the age limitation under this subsection shall be extended by the length of the period—
+      (i) beginning on the day after the date that is 1 year after the date on which the claim for benefits is submitted; and
+      (ii) ending on the date on which the claim for benefits is approved.

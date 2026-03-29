@@ -1,0 +1,20 @@
+---
+title: "Section 5703 - Improving Tribal access to databases"
+usc_title: 25
+usc_section: "5703"
+chapter: 49
+current_through: "PL 119-73"
+classification: "25 U.S.C. § 5703"
+generated_at: "2026-03-29T00:30:38.810Z"
+---
+
+# § 5703. Improving Tribal access to databases
+
+(a) The Attorney General shall provide training to law enforcement agencies regarding how to record the Tribal enrollment information or affiliation, as appropriate, of a victim in Federal databases.
+(b) 
+  (1) Not later than 180 days after October 10, 2020 , the Attorney General, in cooperation with the Secretary of the Interior, shall complete a formal consultation with Indian Tribes on how to further improve Tribal data relevance and access to databases.
+  (2) Not later than 180 days after October 10, 2020 , the Attorney General, in coordination with the Secretary of the Interior, shall confer with Tribal organizations and urban Indian organizations on how to further improve American Indian and Alaska Native data relevance and access to databases.
+  (3) 
+(c) Not later than 180 days after October 10, 2020 , the Attorney General shall—
+  (1) develop and implement a dissemination strategy to educate the public of the National Missing and Unidentified Persons System; and
+  (2) conduct specific outreach to Indian Tribes, Tribal organizations, and urban Indian organizations regarding the ability to publicly enter information, through the National Missing and Unidentified Persons System or other non-law enforcement sensitive portal, regarding missing persons, which may include family members and other known acquaintances.

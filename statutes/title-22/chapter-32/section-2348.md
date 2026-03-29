@@ -1,0 +1,14 @@
+---
+title: "Section 2348 - General authorization"
+usc_title: 22
+usc_section: "2348"
+chapter: 32
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 2348"
+generated_at: "2026-03-29T00:30:33.791Z"
+---
+
+# § 2348. General authorization
+
+The President is authorized to furnish assistance to friendly countries and international organizations, on such terms and conditions as he may determine, for peacekeeping operations and other programs carried out in furtherance of the national security interests of the United States. Such assistance may include reimbursement to the Department of Defense for expenses incurred pursuant to section 287d–1 of this title , except that such reimbursements may not exceed $5,000,000 in any fiscal year unless a greater amount is specifically authorized by this section.
+

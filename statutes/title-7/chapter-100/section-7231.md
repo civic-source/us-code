@@ -1,0 +1,18 @@
+---
+title: "Section 7231 - Availability of nonrecourse marketing assistance loans"
+usc_title: 7
+usc_section: "7231"
+chapter: 100
+current_through: "PL 119-73"
+classification: "7 U.S.C. § 7231"
+generated_at: "2026-03-29T00:28:58.263Z"
+---
+
+# § 7231. Availability of nonrecourse marketing assistance loans
+
+(a) For each of the 1996 through 2002 crops of each loan commodity, the Secretary shall make available to producers on a farm nonrecourse marketing assistance loans for loan commodities produced on the farm. The loans shall be made under terms and conditions that are prescribed by the Secretary and at the loan rate established under section 7232 of this title for the loan commodity.
+(b) The following production shall be eligible for a marketing assistance loan under subsection (a):
+  (1) In the case of a marketing assistance loan for a contract commodity, any production by a producer on a farm containing eligible cropland covered by a production flexibility contract.
+  (2) In the case of a marketing assistance loan for extra long staple cotton and oilseeds, any production.
+(c) As a condition of the receipt of a marketing assistance loan under subsection (a), the producer shall comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 ( 16 U.S.C. 3811 et seq.) and applicable wetland protection requirements under subtitle C of title XII of the Act ( 16 U.S.C. 3821 et seq.) during the term of the loan.
+(d) The Secretary shall carry out this subchapter in such a manner that there are no additional outlays under this subchapter as a result of the reconstitution of a farm that occurs as a result of the combination of another farm that does not contain eligible cropland covered by a production flexibility contract.

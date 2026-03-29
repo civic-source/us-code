@@ -1,0 +1,14 @@
+---
+title: "Section 438 - Rules and regulations; simplified reports"
+usc_title: 29
+usc_section: "438"
+chapter: 11
+current_through: "PL 119-73"
+classification: "29 U.S.C. § 438"
+generated_at: "2026-03-29T00:31:27.565Z"
+---
+
+# § 438. Rules and regulations; simplified reports
+
+The Secretary shall have authority to issue, amend, and rescind rules and regulations prescribing the form and publication of reports required to be filed under this subchapter and such other reasonable rules and regulations (including rules prescribing reports concerning trusts in which a labor organization is interested) as he may find necessary to prevent the circumvention or evasion of such reporting requirements. In exercising his power under this section the Secretary shall prescribe by general rule simplified reports for labor organizations or employers for whom he finds that by virtue of their size a detailed report would be unduly burdensome, but the Secretary may revoke such provision for simplified forms of any labor organization or employer if he determines, after such investigation as he deems proper and due notice and opportunity for a hearing, that the purposes of this section would be served thereby.
+

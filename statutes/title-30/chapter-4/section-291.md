@@ -1,0 +1,14 @@
+---
+title: "Section 291 - Lease of gold, silver, or quicksilver deposits on lands title to which confirmed by Court of Private Land Claims"
+usc_title: 30
+usc_section: "291"
+chapter: 4
+current_through: "PL 119-73"
+classification: "30 U.S.C. § 291"
+generated_at: "2026-03-29T00:31:30.764Z"
+---
+
+# § 291. Lease of gold, silver, or quicksilver deposits on lands title to which confirmed by Court of Private Land Claims
+
+All gold, silver, or quicksilver deposits, or mines or minerals of the same on lands embraced within any land claim confirmed or hereafter confirmed by decree of the Court of Private Land Claims, and which did not convey the mineral rights to the grantee by the terms of the grant, and to which such grantee has not become otherwise entitled in law or in equity, may be leased by the Secretary of the Interior to the grantee, or to those claiming through or under him, for a period of twenty years, with the preferential right in the lessee to renew the same for successive periods of ten years, upon such reasonable terms and conditions as may be prescribed by the Secretary of the Interior, unless otherwise provided by law at the time of the expiration of such periods.
+

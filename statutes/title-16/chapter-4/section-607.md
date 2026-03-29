@@ -1,0 +1,14 @@
+---
+title: "Section 607 - Cutting and removal of timber on certain public lands for certain purposes"
+usc_title: 16
+usc_section: "607"
+chapter: 4
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 607"
+generated_at: "2026-03-29T00:29:52.583Z"
+---
+
+# § 607. Cutting and removal of timber on certain public lands for certain purposes
+
+In the States of Alaska, Colorado, Montana, Idaho, North Dakota, and South Dakota, Wyoming, New Mexico, and Arizona, and the gold and silver regions of Nevada, California, Oregon, Washington, and Utah in any criminal prosecution or civil action by the United States for a trespass on such public timber lands or to recover timber or lumber cut thereon it shall be a defense if the defendant shall show that the said timber was so cut or removed from the timber lands for use in such State by a resident thereof for agricultural, mining, manufacturing, or domestic purposes under rules and regulations made and prescribed by the Secretary of the Interior and has not been transported out of the same, but nothing herein contained shall operate to enlarge the rights of any railway company to cut timber on the public domain. The Secretary of the Interior may make suitable rules and regulations to carry out the provisions of this section, and he may designate the sections or tracts of land where timber may be cut, and it shall not be lawful to cut or remove any timber except as may be prescribed by such rules and regulations, but this section shall not operate to repeal sections 604 to 606 of this title.
+

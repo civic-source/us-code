@@ -1,0 +1,28 @@
+---
+title: "Section 13415 - Midcontinent Energy Research Center"
+usc_title: 42
+usc_section: "13415"
+chapter: 134
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 13415"
+generated_at: "2026-03-29T00:32:54.320Z"
+---
+
+# § 13415. Midcontinent Energy Research Center
+
+(a) Congress finds that petroleum resources in the midcontinent region of the United States are very large but are being prematurely abandoned.
+(b) The purposes of this section are to—
+  (1) improve the efficiency of petroleum recovery;
+  (2) increase ultimate petroleum recovery; and
+  (3) delay the abandonment of resources.
+(c) The Secretary may establish the Midcontinent Energy Research Center (referred to in this section as the “Center”) to—
+  (1) conduct research in petroleum geology and engineering focused on improving the recovery of petroleum from existing fields and established plays in the upper midcontinent region of the United States; and
+  (2) ensure that the results of the research described in paragraph (1) are transferred to users.
+(d) 
+  (1) In conducting research under this section, the Center shall, to the extent practicable, cooperate with agencies of the Federal Government, the States in the midcontinent region of the United States, and the affected industry.
+  (2) Research programs conducted by the Center may include—
+    (A) data base development and transfer of technology;
+    (B) reservoir management;
+    (C) reservoir characterization;
+    (D) advanced recovery methods; and
+    (E) development of new technology.

@@ -1,0 +1,42 @@
+---
+title: "Section 15102 - National Commercial Fishing Safety Advisory Committee"
+usc_title: 46
+usc_section: "15102"
+chapter: 151
+current_through: "PL 119-73"
+classification: "46 U.S.C. § 15102"
+generated_at: "2026-03-29T00:33:02.899Z"
+---
+
+# § 15102. National Commercial Fishing Safety Advisory Committee
+
+(a) There is established a National Commercial Fishing Safety Advisory Committee (in this section referred to as the “Committee”).
+(b) The Committee shall—
+  (1) advise and provide recommendations in writing to the Secretary on matters relating to the safe operation of vessels to which chapter 45 of this title applies, including the matters of—
+    (A) navigation safety;
+    (B) safety equipment and procedures;
+    (C) marine insurance;
+    (D) vessel design, construction, maintenance, and operation; and
+    (E) personnel qualifications and training;
+  (2) review regulations proposed under chapter 45 of this title (during preparation of the regulations); and
+  (3) review marine casualties and investigations of vessels covered by chapter 45 of this title and make recommendations to the Secretary to improve safety and reduce vessel casualties.
+(c) 
+  (1) The Committee shall consist of 18 members appointed by the Secretary in accordance with this section and section 15109 of this chapter.
+  (2) Each member of the Committee shall have particular expertise, knowledge, and experience in matters relating to the function of the Committee.
+  (3) Members of the Committee shall be appointed as follows:
+    (A) 10 members shall represent the commercial fishing industry and—
+      (i) as a group, shall together reflect a regional and representational balance; and
+      (ii) as individuals, shall each have experience—
+        (I) in the operation of vessels to which chapter 45 of this title applies; or
+        (II) as a crew member or processing line worker on a fish processing vessel.
+    (B) 1 member shall represent naval architects and marine engineers.
+    (C) 1 member shall represent manufacturers of equipment for vessels to which chapter 45 of this title applies.
+    (D) 1 member shall represent education and training professionals related to fishing vessel, fish processing vessel, and fish tender vessel safety and personnel qualifications.
+    (E) 1 member shall represent underwriters that insure vessels to which chapter 45 of this title applies.
+    (F) 1 member shall represent owners of vessels to which chapter 45 of this title applies.
+    (G) 3 members shall represent the general public and, to the extent possible, shall include—
+      (i) an independent expert or consultant in maritime safety;
+      (ii) a marine surveyor who provides services to vessels to which chapter 45 of this title applies; and
+      (iii) a person familiar with issues affecting fishing communities and the families of fishermen.
+(d) A quorum of 10 members is required to send any written recommendations from the Committee to the Secretary.
+(e) Nothing in this section shall preclude the Secretary from taking emergency action to ensure safety and preservation of life at sea.

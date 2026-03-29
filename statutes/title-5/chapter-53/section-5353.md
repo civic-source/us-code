@@ -1,0 +1,14 @@
+---
+title: "Section 5353 - Quarters, subsistence, and laundry"
+usc_title: 5
+usc_section: "5353"
+chapter: 53
+current_through: "PL 119-73"
+classification: "5 U.S.C. § 5353"
+generated_at: "2026-03-29T00:28:38.338Z"
+---
+
+# § 5353. Quarters, subsistence, and laundry
+
+An agency may provide living quarters, subsistence, and laundering to student-employees while at the hospitals, clinics, or laboratories. The reasonable value of the accommodations, when furnished, shall be deducted from the stipend of the student-employee. The head of the agency concerned, and the District of Columbia Council with respect to the government of the District of Columbia, shall fix the reasonable value of the accommodations at an amount not less than the lowest deduction applicable to regular employees at the same hospital, clinic, or laboratory for similar accommodations.
+

@@ -1,0 +1,14 @@
+---
+title: "Section 82 - Payments under contracts; aiding in making prohibited contracts"
+usc_title: 25
+usc_section: "82"
+chapter: 3
+current_through: "PL 119-73"
+classification: "25 U.S.C. § 82"
+generated_at: "2026-03-29T00:30:38.614Z"
+---
+
+# § 82. Payments under contracts; aiding in making prohibited contracts
+
+No money shall be paid to any agent or attorney by an officer of the United States under any such contract or agreement, other than the fees due him for services rendered thereunder; but the moneys due the tribe, Indian, or Indians, as the case may be, shall be paid by the United States, through its own officers or agents, to the party or parties entitled thereto; and no money or thing shall be paid to any person for services under such contract or agreement, until such person shall have first filed with the Commissioner of Indian Affairs a sworn statement, showing each particular act of service under the contract, giving date and fact in detail, and the Secretary of the Interior and Commissioner of Indian Affairs shall determine therefrom whether, in their judgment, such contract or agreement has been complied with or fulfilled; if so, the same may be paid, and, if not, it shall be paid in proportion to the services rendered under the contract.
+

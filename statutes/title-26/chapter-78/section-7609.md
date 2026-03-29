@@ -1,0 +1,58 @@
+---
+title: "Section 7609 - Special procedures for third-party summonses"
+usc_title: 26
+usc_section: "7609"
+chapter: 78
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 7609"
+generated_at: "2026-03-29T00:31:21.102Z"
+---
+
+# § 7609. Special procedures for third-party summonses
+
+(a) 
+  (1) If any summons to which this section applies requires the giving of testimony on or relating to, the production of any portion of records made or kept on or relating to, or the production of any computer software source code (as defined in 7612(d)(2)) with respect to, any person (other than the person summoned) who is identified in the summons, then notice of the summons shall be given to any person so identified within 3 days of the day on which such service is made, but no later than the 23rd day before the day fixed in the summons as the day upon which such records are to be examined. Such notice shall be accompanied by a copy of the summons which has been served and shall contain an explanation of the right under subsection (b)(2) to bring a proceeding to quash the summons.
+  (2) Such notice shall be sufficient if, on or before such third day, such notice is served in the manner provided in section 7603 (relating to service of summons) upon the person entitled to notice, or is mailed by certified or registered mail to the last known address of such person, or, in the absence of a last known address, is left with the person summoned. If such notice is mailed, it shall be sufficient if mailed to the last known address of the person entitled to notice or, in the case of notice to the Secretary under section 6903 of the existence of a fiduciary relationship, to the last known address of the fiduciary of such person, even if such person or fiduciary is then deceased, under a legal disability, or no longer in existence.
+  (3) Any summons to which this subsection applies (and any summons in aid of collection described in subsection (c)(2)(D)) shall identify the taxpayer to whom the summons relates or the other person to whom the records pertain and shall provide such other information as will enable the person summoned to locate the records required under the summons.
+(b) 
+  (1) Notwithstanding any other law or rule of law, any person who is entitled to notice of a summons under subsection (a) shall have the right to intervene in any proceeding with respect to the enforcement of such summons under section 7604.
+  (2) 
+    (A) Notwithstanding any other law or rule of law, any person who is entitled to notice of a summons under subsection (a) shall have the right to begin a proceeding to quash such summons not later than the 20th day after the day such notice is given in the manner provided in subsection (a)(2). In any such proceeding, the Secretary may seek to compel compliance with the summons.
+    (B) If any person begins a proceeding under subparagraph (A) with respect to any summons, not later than the close of the 20-day period referred to in subparagraph (A) such person shall mail by registered or certified mail a copy of the petition to the person summoned and to such office as the Secretary may direct in the notice referred to in subsection (a)(1).
+    (C) Notwithstanding any other law or rule of law, the person summoned shall have the right to intervene in any proceeding under subparagraph (A). Such person shall be bound by the decision in such proceeding (whether or not the person intervenes in such proceeding).
+(c) 
+  (1) Except as provided in paragraph (2), this section shall apply to any summons issued under paragraph (2) of section 7602(a) or under section 6420(e)(2), 6421(g)(2), 6427(j)(2), or 7612.
+  (2) This section shall not apply to any summons—
+    (A) served on the person with respect to whose liability the summons is issued, or any officer or employee of such person;
+    (B) issued to determine whether or not records of the business transactions or affairs of an identified person have been made or kept;
+    (C) issued solely to determine the identity of any person having a numbered account (or similar arrangement) with a bank or other institution described in section 7603(b)(2)(A);
+    (D) issued in aid of the collection of—
+      (i) an assessment made or judgment rendered against the person with respect to whose liability the summons is issued; or
+      (ii) the liability at law or in equity of any transferee or fiduciary of any person referred to in clause (i); or
+    (E) 
+      (i) issued by a criminal investigator of the Internal Revenue Service in connection with the investigation of an offense connected with the administration or enforcement of the internal revenue laws; and
+      (ii) served on any person who is not a third-party recordkeeper (as defined in section 7603(b)).
+  (3) Subsection (a) shall not apply to any summons described in subsection (f) or (g).
+  (4) For purposes of this section, the term “records” includes books, papers, and other data.
+(d) No examination of any records required to be produced under a summons as to which notice is required under subsection (a) may be made—
+  (1) before the close of the 23rd day after the day notice with respect to the summons is given in the manner provided in subsection (a)(2), or
+  (2) where a proceeding under subsection (b)(2)(A) was begun within the 20-day period referred to in such subsection and the requirements of subsection (b)(2)(B) have been met, except in accordance with an order of the court having jurisdiction of such proceeding or with the consent of the person beginning the proceeding to quash.
+(e) 
+  (1) If any person takes any action as provided in subsection (b) and such person is the person with respect to whose liability the summons is issued (or is the agent, nominee, or other person acting under the direction or control of such person), then the running of any period of limitations under section 6501 (relating to the assessment and collection of tax) or under section 6531 (relating to criminal prosecutions) with respect to such person shall be suspended for the period during which a proceeding, and appeals therein, with respect to the enforcement of such summons is pending.
+  (2) In the absence of the resolution of the summoned party’s response to the summons, the running of any period of limitations under section 6501 or under section 6531 with respect to any person with respect to whose liability the summons is issued (other than a person taking action as provided in subsection (b)) shall be suspended for the period—
+    (A) beginning on the date which is 6 months after the service of such summons, and
+    (B) ending with the final resolution of such response.
+(f) Any summons described in subsection (c)(1) which does not identify the person with respect to whose liability the summons is issued may be served only after a court proceeding in which the Secretary establishes that—
+  (1) the summons relates to the investigation of a particular person or ascertainable group or class of persons,
+  (2) there is a reasonable basis for believing that such person or group or class of persons may fail or may have failed to comply with any provision of any internal revenue law, and
+  (3) the information sought to be obtained from the examination of the records or testimony (and the identity of the person or persons with respect to whose liability the summons is issued) is not readily available from other sources.
+(g) A summons is described in this subsection if, upon petition by the Secretary, the court determines, on the basis of the facts and circumstances alleged, that there is reasonable cause to believe the giving of notice may lead to attempts to conceal, destroy, or alter records relevant to the examination, to prevent the communication of information from other persons through intimidation, bribery, or collusion, or to flee to avoid prosecution, testifying, or production of records.
+(h) 
+  (1) The United States district court for the district within which the person to be summoned resides or is found shall have jurisdiction to hear and determine any proceeding brought under subsection (b)(2), (f), or (g). An order denying the petition shall be deemed a final order which may be appealed.
+  (2) The determinations required to be made under subsections (f) and (g) shall be made ex parte and shall be made solely on the petition and supporting affidavits.
+(i) 
+  (1) On receipt of a summons to which this section applies for the production of records, the summoned party shall proceed to assemble the records requested, or such portion thereof as the Secretary may prescribe, and shall be prepared to produce the records pursuant to the summons on the day on which the records are to be examined.
+  (2) The Secretary may issue a certificate to the summoned party that the period prescribed for beginning a proceeding to quash a summons has expired and that no such proceeding began within such period, or that the taxpayer consents to the examination.
+  (3) Any summoned party, or agent or employee thereof, making a disclosure of records or testimony pursuant to this section in good faith reliance on the certificate of the Secretary or an order of a court requiring production of records or the giving of such testimony shall not be liable to any customer or other person for such disclosure.
+  (4) In the case of a summons described in subsection (f) with respect to which any period of limitations has been suspended under subsection (e)(2), the summoned party shall provide notice of such suspension to any person described in subsection (f).
+(j) Nothing in this section shall be construed to limit the Secretary’s ability to obtain information, other than by summons, through formal or informal procedures authorized by sections 7601 and 7602.

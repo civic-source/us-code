@@ -1,0 +1,17 @@
+---
+title: "Section 7587 - Vehicle conversions"
+usc_title: 42
+usc_section: "7587"
+chapter: 85
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 7587"
+generated_at: "2026-03-29T00:32:54.077Z"
+---
+
+# § 7587. Vehicle conversions
+
+(a) The requirements of section 7586 of this title may be met through the conversion of existing or new gasoline or diesel-powered vehicles to clean-fuel vehicles which comply with the applicable requirements of that section. For purposes of such provisions the conversion of a vehicle to clean fuel 1 1 So in original. Probably should be “clean-fuel”. vehicle shall be treated as the purchase of a clean fuel 1 vehicle. Nothing in this part shall be construed to provide that any covered fleet operator subject to fleet vehicle purchase requirements under section 7586 of this title shall be required to convert existing or new gasoline or diesel-powered vehicles to clean-fuel vehicles or to purchase converted vehicles.
+(b) The Administrator shall, within 24 months after November 15, 1990 , consistent with the requirements of this subchapter applicable to new vehicles, promulgate regulations governing conversions of conventional vehicles to clean-fuel vehicles. Such regulations shall establish criteria for such conversions which will ensure that a converted vehicle will comply with the standards applicable under this part to clean-fuel vehicles. Such regulations shall provide for the application to such conversions of the same provisions of this subchapter (including provisions relating to administration enforcement) as are applicable to standards under section 2 2 So in original. Probably should be “sections”. 7582, 7583, 7584, and 7585 of this title, except that in the case of conversions the Administrator may modify the applicable regulations implementing such provisions as the Administrator deems necessary to implement this part.
+(c) Any person who converts conventional vehicles to clean fuel 1 vehicles pursuant to subsection (b), shall be considered a manufacturer for purposes of sections 7525 and 7541 of this title and related enforcement provisions. Nothing in the preceding sentence shall require a person who performs such conversions to warrant any part or operation of a vehicle other than as required under this part. Nothing in this paragraph shall limit the applicability of any other warranty to unrelated parts or operations.
+(d) The conversion from a vehicle capable of operating on gasoline or diesel fuel only to a clean-fuel vehicle shall not be considered a violation of section 7522(a)(3) of this title if such conversion complies with the regulations promulgated under subsection (b).
+(e) The Secretary of Transportation shall, if necessary, promulgate rules under applicable motor vehicle laws regarding the safety of vehicles converted from existing and new vehicles to clean-fuel vehicles.

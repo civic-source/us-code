@@ -1,0 +1,14 @@
+---
+title: "Section 5493 - Administrative expenses of Agency for International Development"
+usc_title: 22
+usc_section: "5493"
+chapter: 63
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 5493"
+generated_at: "2026-03-29T00:30:33.943Z"
+---
+
+# § 5493. Administrative expenses of Agency for International Development
+
+For the purpose of paying administrative expenses incurred in connection with carrying out its functions under this chapter, the Agency for International Development may use up to $500,000 each fiscal year of the funds made available to the Agency under this chapter.
+

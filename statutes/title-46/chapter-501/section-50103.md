@@ -1,0 +1,24 @@
+---
+title: "Section 50103 - Determinations of essential services"
+usc_title: 46
+usc_section: "50103"
+chapter: 501
+current_through: "PL 119-73"
+classification: "46 U.S.C. § 50103"
+generated_at: "2026-03-29T00:33:02.916Z"
+---
+
+# § 50103. Determinations of essential services
+
+(a) 
+  (1) The Secretary of Transportation shall investigate, determine, and keep current records of the ocean services, routes, and lines from ports in the United States, or in the territories and possessions of the United States, to foreign markets, which the Secretary determines to be essential for the promotion, development, expansion, and maintenance of the foreign commerce of the United States. In making such a determination, the Secretary shall consider and give due weight to—
+    (A) the cost of maintaining each line;
+    (B) the probability that a line cannot be maintained except at a heavy loss disproportionate to the benefit to foreign trade;
+    (C) the number of voyages and types of vessels that should be employed in a line;
+    (D) the intangible benefit of maintaining a line to the foreign commerce of the United States, the national defense, and other national requirements; and
+    (E) any other facts and conditions a prudent business person would consider when dealing with the person’s own business.
+  (2) For purposes of paragraph (1), the Secretary shall establish services, routes, and lines that reflect the seasonal closing of the Saint Lawrence Seaway and provide for alternate routing of vessels through a different range of ports during that closing to maintain continuity of service on a year-round basis.
+(b) The Secretary shall investigate, determine, and keep current records of the bulk cargo carrying services that should be provided by vessels of the United States (whether or not operating on particular services, routes, or lines) for the promotion, development, expansion, and maintenance of the foreign commerce of the United States and the national defense or other national requirements.
+(c) The Secretary shall investigate, determine, and keep current records of the type, size, speed, method of propulsion, and other requirements of the vessels, including express-liner or super-liner vessels, that should be employed in—
+  (1) the services, routes, or lines described in subsection (a), and the frequency and regularity of the voyages of the vessels, with a view to furnishing adequate, regular, certain, and permanent service; and
+  (2) the bulk cargo carrying services described in subsection (b).

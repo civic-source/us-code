@@ -1,0 +1,108 @@
+---
+title: "Section 197 - Amortization of goodwill and certain other intangibles"
+usc_title: 26
+usc_section: "197"
+chapter: 1
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 197"
+generated_at: "2026-03-29T00:31:20.668Z"
+---
+
+# § 197. Amortization of goodwill and certain other intangibles
+
+(a) A taxpayer shall be entitled to an amortization deduction with respect to any amortizable section 197 intangible. The amount of such deduction shall be determined by amortizing the adjusted basis (for purposes of determining gain) of such intangible ratably over the 15-year period beginning with the month in which such intangible was acquired.
+(b) Except as provided in subsection (a), no depreciation or amortization deduction shall be allowable with respect to any amortizable section 197 intangible.
+(c) For purposes of this section—
+  (1) Except as otherwise provided in this section, the term “amortizable section 197 intangible” means any section 197 intangible—
+    (A) which is acquired by the taxpayer after the date of the enactment of this section, and
+    (B) which is held in connection with the conduct of a trade or business or an activity described in section 212.
+  (2) The term “amortizable section 197 intangible” shall not include any section 197 intangible—
+    (A) which is not described in subparagraph (D), (E), or (F) of subsection (d)(1), and
+    (B) which is created by the taxpayer.
+  (3) For exclusion of intangibles acquired in certain transactions, see subsection (f)(9).
+(d) For purposes of this section—
+  (1) Except as otherwise provided in this section, the term “section 197 intangible” means—
+    (A) goodwill,
+    (B) going concern value,
+    (C) any of the following intangible items:
+      (i) workforce in place including its composition and terms and conditions (contractual or otherwise) of its employment,
+      (ii) business books and records, operating systems, or any other information base (including lists or other information with respect to current or prospective customers),
+      (iii) any patent, copyright, formula, process, design, pattern, knowhow, format, or other similar item,
+      (iv) any customer-based intangible,
+      (v) any supplier-based intangible, and
+      (vi) any other similar item,
+    (D) any license, permit, or other right granted by a governmental unit or an agency or instrumentality thereof,
+    (E) any covenant not to compete (or other arrangement to the extent such arrangement has substantially the same effect as a covenant not to compete) entered into in connection with an acquisition (directly or indirectly) of an interest in a trade or business or substantial portion thereof, and
+    (F) any franchise, trademark, or trade name.
+  (2) 
+    (A) The term “customer-based intangible” means—
+      (i) composition of market,
+      (ii) market share, and
+      (iii) any other value resulting from future provision of goods or services pursuant to relationships (contractual or otherwise) in the ordinary course of business with customers.
+    (B) In the case of a financial institution, the term “customer-based intangible” includes deposit base and similar items.
+  (3) The term “supplier-based intangible” means any value resulting from future acquisitions of goods or services pursuant to relationships (contractual or otherwise) in the ordinary course of business with suppliers of goods or services to be used or sold by the taxpayer.
+(e) For purposes of this section, the term “section 197 intangible” shall not include any of the following:
+  (1) Any interest—
+    (A) in a corporation, partnership, trust, or estate, or
+    (B) under an existing futures contract, foreign currency contract, notional principal contract, or other similar financial contract.
+  (2) Any interest in land.
+  (3) 
+    (A) Any—
+      (i) computer software which is readily available for purchase by the general public, is subject to a nonexclusive license, and has not been substantially modified, and
+      (ii) other computer software which is not acquired in a transaction (or series of related transactions) involving the acquisition of assets constituting a trade or business or substantial portion thereof.
+    (B) For purposes of subparagraph (A), the term “computer software” means any program designed to cause a computer to perform a desired function. Such term shall not include any data base or similar item unless the data base or item is in the public domain and is incidental to the operation of otherwise qualifying computer software.
+  (4) Any of the following not acquired in a transaction (or series of related transactions) involving the acquisition of assets constituting a trade business or substantial portion thereof:
+    (A) Any interest in a film, sound recording, video tape, book, or similar property.
+    (B) Any right to receive tangible property or services under a contract or granted by a governmental unit or agency or instrumentality thereof.
+    (C) Any interest in a patent or copyright.
+    (D) To the extent provided in regulations, any right under a contract (or granted by a governmental unit or an agency or instrumentality thereof) if such right—
+      (i) has a fixed duration of less than 15 years, or
+      (ii) is fixed as to amount and, without regard to this section, would be recoverable under a method similar to the unit-of-production method.
+  (5) Any interest under—
+    (A) an existing lease of tangible property, or
+    (B) except as provided in subsection (d)(2)(B), any existing indebtedness.
+  (6) Any right to service indebtedness which is secured by residential real property unless such right is acquired in a transaction (or series of related transactions) involving the acquisition of assets (other than rights described in this paragraph) constituting a trade or business or substantial portion thereof.
+  (7) Any fees for professional services, and any transaction costs, incurred by parties to a transaction with respect to which any portion of the gain or loss is not recognized under part III of subchapter C.
+(f) 
+  (1) 
+    (A) If there is a disposition of any amortizable section 197 intangible acquired in a transaction or series of related transactions (or any such intangible becomes worthless) and one or more other amortizable section 197 intangibles acquired in such transaction or series of related transactions are retained—
+      (i) no loss shall be recognized by reason of such disposition (or such worthlessness), and
+      (ii) appropriate adjustments to the adjusted bases of such retained intangibles shall be made for any loss not recognized under clause (i).
+    (B) In the case of any section 197 intangible which is a covenant not to compete (or other arrangement) described in subsection (d)(1)(E), in no event shall such covenant or other arrangement be treated as disposed of (or becoming worthless) before the disposition of the entire interest described in such subsection in connection with which such covenant (or other arrangement) was entered into.
+    (C) All persons treated as a single taxpayer under section 41(f)(1) shall be so treated for purposes of this paragraph.
+  (2) 
+    (A) In the case of any section 197 intangible transferred in a transaction described in subparagraph (B), the transferee shall be treated as the transferor for purposes of applying this section with respect to so much of the adjusted basis in the hands of the transferee as does not exceed the adjusted basis in the hands of the transferor.
+    (B) The transactions described in this subparagraph are—
+      (i) any transaction described in section 332, 351, 361, 721, 731, 1031, or 1033, and
+      (ii) any transaction between members of the same affiliated group during any taxable year for which a consolidated return is made by such group.
+  (3) Any amount paid or incurred pursuant to a covenant or arrangement referred to in subsection (d)(1)(E) shall be treated as an amount chargeable to capital account.
+  (4) 
+    (A) The term “franchise” has the meaning given to such term by section 1253(b)(1).
+    (B) Any renewal of a franchise, trademark, or trade name (or of a license, a permit, or other right referred to in subsection (d)(1)(D)) shall be treated as an acquisition. The preceding sentence shall only apply with respect to costs incurred in connection with such renewal.
+    (C) Any amount to which section 1253(d)(1) applies shall not be taken into account under this section.
+  (5) In the case of any amortizable section 197 intangible resulting from an assumption reinsurance transaction, the amount taken into account as the adjusted basis of such intangible under this section shall be the excess of—
+    (A) the amount paid or incurred by the acquirer under the assumption reinsurance transaction, over
+    (B) the amount required to be capitalized under section 848 in connection with such transaction.
+  (6) For purposes of this section, a sublease shall be treated in the same manner as a lease of the underlying property involved.
+  (7) For purposes of this chapter, any amortizable section 197 intangible shall be treated as property which is of a character subject to the allowance for depreciation provided in section 167.
+  (8) This section shall not apply to any increment in value if, without regard to this section, such increment is properly taken into account in determining the cost of property which is not a section 197 intangible.
+  (9) For purposes of this section—
+    (A) The term “amortizable section 197 intangible” shall not include any section 197 intangible which is described in subparagraph (A) or (B) of subsection (d)(1) (or for which depreciation or amortization would not have been allowable but for this section) and which is acquired by the taxpayer after the date of the enactment of this section, if—
+      (i) the intangible was held or used at any time on or after July 25, 1991 , and on or before such date of enactment by the taxpayer or a related person,
+      (ii) the intangible was acquired from a person who held such intangible at any time on or after July 25, 1991 , and on or before such date of enactment, and, as part of the transaction, the user of such intangible does not change, or
+      (iii) the taxpayer grants the right to use such intangible to a person (or a person related to such person) who held or used such intangible at any time on or after July 25, 1991 , and on or before such date of enactment.
+    (B) If—
+      (i) subparagraph (A) would not apply to an intangible acquired by the taxpayer but for the last sentence of subparagraph (C)(i), and
+      (ii) the person from whom the taxpayer acquired the intangible elects, notwithstanding any other provision of this title—
+        (I) to recognize gain on the disposition of the intangible, and
+        (II) to pay a tax on such gain which, when added to any other income tax on such gain under this title, equals such gain multiplied by the highest rate of income tax applicable to such person under this title,
+    (C) For purposes of this paragraph—
+      (i) A person (hereinafter in this paragraph referred to as the “related person”) is related to any person if—
+        (I) the related person bears a relationship to such person specified in section 267(b) or section 707(b)(1), or
+        (II) the related person and such person are engaged in trades or businesses under common control (within the meaning of subparagraphs (A) and (B) of section 41(f)(1)).
+      (ii) A person shall be treated as related to another person if such relationship exists immediately before or immediately after the acquisition of the intangible involved.
+    (D) Subparagraph (A) shall not apply to the acquisition of any property by the taxpayer if the basis of the property in the hands of the taxpayer is determined under section 1014(a).
+    (E) With respect to any increase in the basis of partnership property under section 732, 734, or 743, determinations under this paragraph shall be made at the partner level and each partner shall be treated as having owned and used such partner’s proportionate share of the partnership assets.
+    (F) The term “amortizable section 197 intangible” does not include any section 197 intangible acquired in a transaction, one of the principal purposes of which is to avoid the requirement of subsection (c)(1) that the intangible be acquired after the date of the enactment of this section or to avoid the provisions of subparagraph (A).
+  (10) In the case of any section 197 intangible which would be tax-exempt use property as defined in subsection (h) of section 168 if such section applied to such intangible, the amortization period under this section shall not be less than 125 percent of the lease term (within the meaning of section 168(i)(3)).
+(g) The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including such regulations as may be appropriate to prevent avoidance of the purposes of this section through related persons or otherwise.

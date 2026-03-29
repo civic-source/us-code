@@ -1,0 +1,20 @@
+---
+title: "Section 2423 - Loan guarantees"
+usc_title: 43
+usc_section: "2423"
+chapter: 42
+current_through: "PL 119-73"
+classification: "43 U.S.C. § 2423"
+generated_at: "2026-03-29T00:32:57.464Z"
+---
+
+# § 2423. Loan guarantees
+
+(a) Subject to the availability of appropriations, the Secretary may make available to lenders for a project meeting the eligibility criteria established in section 2422 of this title loan guarantees to supplement private-sector or lender financing for the project.
+(b) 
+  (1) Loan guarantees under this section for a project shall be on such terms and conditions and contain such covenants, representations, warranties, and requirements as the Secretary determines to be appropriate to protect the financial interests of the United States.
+  (2) Loan guarantees by the Secretary shall not exceed an amount equal to 90 percent of the cost of the project that is the subject of the loan guarantee, as estimated at the time at which the loan guarantee is issued.
+  (3) An obligation shall bear interest at a rate that does not exceed a level that the Secretary determines to be appropriate, taking into account the prevailing rate of interest in the private sector for similar loans and risks.
+  (4) A loan guarantee under this section shall provide for complete amortization of the loan guarantee within not more than 40 years.
+  (5) An obligation shall be subject to the condition that the obligation is not subordinate to other financing.
+(c) Any prepayment or refinancing terms on a loan guarantee shall be negotiated between the non-Federal borrower and the lender with the consent of the Secretary.

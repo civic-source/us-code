@@ -1,0 +1,15 @@
+---
+title: "Section 7192 - Judicial review"
+usc_title: 42
+usc_section: "7192"
+chapter: 84
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 7192"
+generated_at: "2026-03-29T00:32:54.017Z"
+---
+
+# § 7192. Judicial review
+
+(a) Judicial review of agency action taken under any law the functions of which are vested by law in, or transferred or delegated to the Secretary, the Commission or any officer, employee, or component of the Department shall, notwithstanding such vesting, transfer, or delegation, be made in the manner specified in or for such law.
+(b) Notwithstanding the amount in controversy, the district courts of the United States shall have exclusive original jurisdiction of all other cases or controversies arising exclusively under this chapter, or under rules, regulations, or orders issued exclusively thereunder, other than any actions taken to implement or enforce any rule, regulation, or order by any officer of a State or local government agency under this chapter, except that nothing in this section affects the power of any court of competent jurisdiction to consider, hear, and determine in any proceeding before it any issue raised by way of defense (other than a defense based on the unconstitutionality of this chapter or the validity of action taken by any agency under this chapter). If in any such proceeding an issue by way of defense is raised based on the unconstitutionality of this chapter or the validity of agency action under this chapter, the case shall be subject to removal by either party to a district court of the United States in accordance with the applicable provisions of chapter 89 of title 28. Cases or controversies arising under any rule, regulation, or order of any officer of a State or local government agency may be heard in either (A) any appropriate State court, or (B) without regard to the amount in controversy, the district courts of the United States.
+(c) Subject to the provisions of section 7171(i) of this title and notwithstanding any other law, the litigation of the Department shall be subject to the supervision of the Attorney General pursuant to chapter 31 of title 28. The Attorney General may authorize any attorney of the Department to conduct any civil litigation of the Department in any Federal court except the Supreme Court.

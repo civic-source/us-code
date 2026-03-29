@@ -1,0 +1,14 @@
+---
+title: "Section 9c - Notice of investigations and enforcement actions"
+usc_title: 7
+usc_section: "9c"
+chapter: 1
+current_through: "PL 119-73"
+classification: "7 U.S.C. § 9c"
+generated_at: "2026-03-29T00:28:57.843Z"
+---
+
+# § 9c. Notice of investigations and enforcement actions
+
+The Commission shall provide the Securities and Exchange Commission with notice of the commencement of any proceeding and a copy of any order entered by the Commission pursuant to section 9 and 13b of this title against any futures commission merchant or introducing broker registered pursuant to section 6f(a)(2) of this title , any floor broker or floor trader exempt from registration pursuant to section 6f(a)(3) of this title , any associated person exempt from registration pursuant to section 6k(6) of this title , or any board of trade designated as a contract market pursuant to section 7b–1 of this title .
+

@@ -1,0 +1,17 @@
+---
+title: "Section 4901 - Requirement for prior authorization of appropriations"
+usc_title: 14
+usc_section: "4901"
+chapter: 49
+current_through: "PL 119-73"
+classification: "14 U.S.C. § 4901"
+generated_at: "2026-03-29T00:29:25.039Z"
+---
+
+# § 4901. Requirement for prior authorization of appropriations
+
+Amounts may be appropriated to or for the use of the Coast Guard for the following matters only if the amounts have been authorized by law after December 31, 1976 :
+
+  (1) For the operation and support of the Coast Guard, not otherwise provided for.
+  (2) For the procurement, construction, renovation, and improvement of aids to navigation, shore facilities, vessels, aircraft, and systems, including equipment related thereto, and for maintenance, rehabilitation, lease, and operation of facilities and equipment.
+  (3) For research and development. 1 1 So in original. The period probably should not appear. of technologies, materials, and human factors directly related to improving the performance of the Coast Guard.

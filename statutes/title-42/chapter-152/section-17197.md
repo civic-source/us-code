@@ -1,0 +1,17 @@
+---
+title: "Section 17197 - Advanced geothermal computing and data science research and development"
+usc_title: 42
+usc_section: "17197"
+chapter: 152
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 17197"
+generated_at: "2026-03-29T00:32:54.432Z"
+---
+
+# § 17197. Advanced geothermal computing and data science research and development
+
+(a) The Secretary shall carry out a program of research and development of advanced computing and data science tools for geothermal energy.
+(b) The program authorized in subsection (a) shall include the following:
+  (1) Research, development, and demonstration of technologies to develop advanced data, machine learning, artificial intelligence, and related computing tools to assist in locating geothermal resources, to increase the reliability of site characterization, to increase the rate and efficiency of drilling, to improve induced seismicity mitigation, and to support enhanced geothermal systems technologies.
+  (2) Research, development, and demonstration of models of geothermal reservoir performance and enhanced geothermal systems reservoir stimulation technologies and techniques, with an emphasis on accurately modeling fluid and heat flow, permeability evolution, geomechanics, geochemistry, seismicity, and operational performance over time, including collaboration with industry and field validation.
+(c) In carrying out these programs, the Secretary shall ensure coordination and consultation with the Department of Energy’s Office of Science. The Secretary shall ensure, to the maximum extent practicable, coordination of these activities with the Department of Energy National Laboratories, institutes of higher education, and the private sector.

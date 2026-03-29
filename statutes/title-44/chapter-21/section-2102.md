@@ -1,0 +1,14 @@
+---
+title: "Section 2102 - Establishment"
+usc_title: 44
+usc_section: "2102"
+chapter: 21
+current_through: "PL 119-73"
+classification: "44 U.S.C. § 2102"
+generated_at: "2026-03-29T00:32:58.551Z"
+---
+
+# § 2102. Establishment
+
+There shall be an independent establishment in the executive branch of the Government to be known as the National Archives and Records Administration. The Administration shall be administered under the supervision and direction of the Archivist.
+

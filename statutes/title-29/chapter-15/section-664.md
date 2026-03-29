@@ -1,0 +1,14 @@
+---
+title: "Section 664 - Disclosure of trade secrets; protective orders"
+usc_title: 29
+usc_section: "664"
+chapter: 15
+current_through: "PL 119-73"
+classification: "29 U.S.C. § 664"
+generated_at: "2026-03-29T00:31:27.576Z"
+---
+
+# § 664. Disclosure of trade secrets; protective orders
+
+All information reported to or otherwise obtained by the Secretary or his representative in connection with any inspection or proceeding under this chapter which contains or which might reveal a trade secret referred to in section 1905 of title 18 shall be considered confidential for the purpose of that section, except that such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter. In any such proceeding the Secretary, the Commission, or the court shall issue such orders as may be appropriate to protect the confidentiality of trade secrets.
+

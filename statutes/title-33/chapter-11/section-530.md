@@ -1,0 +1,14 @@
+---
+title: "Section 530 - Bridges included and excluded"
+usc_title: 33
+usc_section: "530"
+chapter: 11
+current_through: "PL 119-73"
+classification: "33 U.S.C. § 530"
+generated_at: "2026-03-29T00:31:57.191Z"
+---
+
+# § 530. Bridges included and excluded
+
+The provisions of this subchapter shall apply only to bridges over navigable waters of the United States, the construction of which is approved after August 2, 1946 , under the provisions of this subchapter; and the provisions of the first proviso of section 401 of this title , and the provisions of sections 491 to 494 and 495 to 498 of this title, shall not apply to such bridges.
+

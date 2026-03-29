@@ -1,0 +1,14 @@
+---
+title: "Section 11387 - Regulations"
+usc_title: 42
+usc_section: "11387"
+chapter: 119
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 11387"
+generated_at: "2026-03-29T00:32:54.232Z"
+---
+
+# § 11387. Regulations
+
+Not later than the expiration of the 90-day period beginning on October 28, 1992 , the Secretary shall issue interim regulations to carry out this part, which shall take effect upon issuance. The Secretary shall issue final regulations to carry out this part after notice and opportunity for public comment regarding the interim regulations, pursuant to the provisions of section 553 of title 5 (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). The duration of the period for public comment shall not be less than 60 days, and the final regulations shall be issued not later than the expiration of the 60-day period beginning upon the conclusion of the comment period and shall take effect upon issuance.
+

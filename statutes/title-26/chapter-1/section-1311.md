@@ -1,0 +1,21 @@
+---
+title: "Section 1311 - Correction of error"
+usc_title: 26
+usc_section: "1311"
+chapter: 1
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 1311"
+generated_at: "2026-03-29T00:31:20.882Z"
+---
+
+# § 1311. Correction of error
+
+(a) If a determination (as defined in section 1313) is described in one or more of the paragraphs of section 1312 and, on the date of the determination, correction of the effect of the error referred to in the applicable paragraph of section 1312 is prevented by the operation of any law or rule of law, other than this part and other than section 7122 (relating to compromises), then the effect of the error shall be corrected by an adjustment made in the amount and in the manner specified in section 1314.
+(b) 
+  (1) Except in cases described in paragraphs (3) (B) and (4) of section 1312, an adjustment shall be made under this part only if—
+    (A) in case the amount of the adjustment would be credited or refunded in the same manner as an overpayment under section 1314, there is adopted in the determination a position maintained by the Secretary, or
+    (B) in case the amount of the adjustment would be assessed and collected in the same manner as a deficiency under section 1314, there is adopted in the determination a position maintained by the taxpayer with respect to whom the determination is made,
+  (2) 
+    (A) In the case of a determination described in section 1312(3)(B) (relating to certain exclusions from income), adjustment shall be made under this part only if assessment of a deficiency for the taxable year in which the item is includible or against the related taxpayer was not barred, by any law or rule of law, at the time the Secretary first maintained, in a notice of deficiency sent pursuant to section 6212 or before the Tax Court, that the item described in section 1312(3)(B) should be included in the gross income of the taxpayer for the taxable year to which the determination relates.
+    (B) In the case of a determination described in section 1312(4) (relating to disallowance of certain deductions and credits), adjustment shall be made under this part only if credit or refund of the overpayment attributable to the deduction or credit described in such section which should have been allowed to the taxpayer or related taxpayer was not barred, by any law or rule of law, at the time the taxpayer first maintained before the Secretary or before the Tax Court, in writing, that he was entitled to such deduction or credit for the taxable year to which the determination relates.
+  (3) In case the amount of the adjustment would be assessed and collected in the same manner as a deficiency (except for cases described in section 1312(3)(B)), the adjustment shall not be made with respect to a related taxpayer unless he stands in such relationship to the taxpayer at the time the latter first maintains the inconsistent position in a return, claim for refund, or petition (or amended petition) to the Tax Court for the taxable year with respect to which the determination is made, or if such position is not so maintained, then at the time of the determination.

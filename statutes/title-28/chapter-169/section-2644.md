@@ -1,0 +1,14 @@
+---
+title: "Section 2644 - Interest"
+usc_title: 28
+usc_section: "2644"
+chapter: 169
+current_through: "PL 119-73"
+classification: "28 U.S.C. § 2644"
+generated_at: "2026-03-29T00:31:24.207Z"
+---
+
+# § 2644. Interest
+
+If, in a civil action in the Court of International Trade under section 515 of the Tariff Act of 1930, the plaintiff obtains monetary relief by a judgment or under a stipulation agreement, interest shall be allowed at an annual rate established under section 6621 of the Internal Revenue Code of 1986. Such interest shall be calculated from the date of the filing of the summons in such action to the date of the refund.
+

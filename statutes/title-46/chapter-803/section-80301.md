@@ -1,0 +1,20 @@
+---
+title: "Section 80301 - International agreements"
+usc_title: 46
+usc_section: "80301"
+chapter: 803
+current_through: "PL 119-73"
+classification: "46 U.S.C. § 80301"
+generated_at: "2026-03-29T00:33:02.969Z"
+---
+
+# § 80301. International agreements
+
+(a) The President may make agreements with interested maritime countries to—
+  (1) maintain in the North Atlantic Ocean a service of ice patrol, of study and observation of ice and current conditions, and of assistance to vessels and their crews requiring assistance within the limits of the patrol;
+  (2) maintain a service of study and observation of ice and current conditions in the waters affecting the set and drift of ice in the North Atlantic Ocean; and
+  (3) take all practicable steps to ensure the destruction or removal of derelicts in the northern part of the Atlantic Ocean, east of the line drawn from Cape Sable to a point in latitude 34 degrees north, longitude 70 degrees west, if the destruction or removal is necessary.
+(b) The President may include in an agreement under subsection (a) a provision for—
+  (1) payment to the United States Government by other countries for their proportionate share of the expense of maintaining the services; or
+  (2) contribution by the Government for its proportionate share if the agreement provides for another country to maintain the services.
+(c) Payments received pursuant to subsection (b)(1) shall be credited to the appropriation for operations and support of the Coast Guard.

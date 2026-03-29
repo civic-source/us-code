@@ -1,0 +1,17 @@
+---
+title: "Section 4053 - Reassignment and retirement of former Presidential appointees"
+usc_title: 22
+usc_section: "4053"
+chapter: 52
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 4053"
+generated_at: "2026-03-29T00:30:33.905Z"
+---
+
+# § 4053. Reassignment and retirement of former Presidential appointees
+
+(a) A participant, who completes an assignment under section 3942(b) of this title in a position to which the participant was appointed by the President, and is not otherwise eligible for retirement—
+  (1) shall be reassigned within 90 days after the termination of such assignment and any period of authorized leave, or
+  (2) if the Secretary of State determines that reassignment is not in the interest of the Foreign Service, shall be retired from the Service and receive retirement benefits in accordance with section 4046 or 4071d of this title, as appropriate.
+(b) A participant who completes an assignment under section 3942(b) of this title in a position to which the participant was appointed by the President and is eligible for retirement and is not reassigned within 90 days after the termination of such assignment and any period of authorized leave, shall be retired from the Service and receive retirement benefits in accordance with section 4046 of this title or section 4071d of this title , as appropriate.
+(c) A participant who is retired under subsection (a)(2) and is subsequently employed by the United States Government, thereafter, shall be eligible to retire only under the terms of the applicable retirement system.

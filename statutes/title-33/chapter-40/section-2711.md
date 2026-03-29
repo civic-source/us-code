@@ -1,0 +1,14 @@
+---
+title: "Section 2711 - Consultation on removal actions"
+usc_title: 33
+usc_section: "2711"
+chapter: 40
+current_through: "PL 119-73"
+classification: "33 U.S.C. § 2711"
+generated_at: "2026-03-29T00:31:57.440Z"
+---
+
+# § 2711. Consultation on removal actions
+
+The President shall consult with the affected trustees designated under section 2706 of this title on the appropriate removal action to be taken in connection with any discharge of oil. For the purposes of the National Contingency Plan, removal with respect to any discharge shall be considered completed when so determined by the President in consultation with the Governor or Governors of the affected States. However, this determination shall not preclude additional removal actions under applicable State law.
+

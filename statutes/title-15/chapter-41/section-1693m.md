@@ -1,0 +1,28 @@
+---
+title: "Section 1693m - Civil liability"
+usc_title: 15
+usc_section: "1693m"
+chapter: 41
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 1693m"
+generated_at: "2026-03-29T00:29:41.744Z"
+---
+
+# § 1693m. Civil liability
+
+(a) Except as otherwise provided by this section and section 1693h of this title , any person who fails to comply with any provision of this subchapter with respect to any consumer, except for an error resolved in accordance with section 1693f of this title , is liable to such consumer in an amount equal to the sum of—
+  (1) any actual damage sustained by such consumer as a result of such failure;
+  (2) 
+    (A) in the case of an individual action, an amount not less than $100 nor greater than $1,000; or
+    (B) in the case of a class action, such amount as the court may allow, except that (i) as to each member of the class no minimum recovery shall be applicable, and (ii) the total recovery under this subparagraph in any class action or series of class actions arising out of the same failure to comply by the same person shall not be more than the lesser of $500,000 or 1 per centum of the net worth of the defendant; and
+  (3) in the case of any successful action to enforce the foregoing liability, the costs of the action, together with a reasonable attorney’s fee as determined by the court.
+(b) In determining the amount of liability in any action under subsection (a), the court shall consider, among other relevant factors—
+  (1) in any individual action under subsection (a)(2)(A), the frequency and persistence of noncompliance, the nature of such noncompliance, and the extent to which the noncompliance was intentional; or
+  (2) in any class action under subsection (a)(2)(B), the frequency and persistence of noncompliance, the nature of such noncompliance, the resources of the defendant, the number of persons adversely affected, and the extent to which the noncompliance was intentional.
+(c) Except as provided in section 1693h of this title , a person may not be held liable in any action brought under this section for a violation of this subchapter if the person shows by a preponderance of evidence that the violation was not intentional and resulted from a bona fide error notwithstanding the maintenance of procedures reasonably adapted to avoid any such error.
+(d) No provision of this section or section 1693n 1 1 See References in Text note below. of this title imposing any liability shall apply to—
+  (1) any act done or omitted in good faith in conformity with any rule, regulation, or interpretation thereof by the Bureau or the Board or in conformity with any interpretation or approval by an official or employee of the Bureau of Consumer Financial Protection or the Federal Reserve System duly authorized by the Bureau or the Board to issue such interpretations or approvals under such procedures as the Bureau or the Board may prescribe therefor; or
+  (2) any failure to make disclosure in proper form if a financial institution utilized an appropriate model clause issued by the Bureau or the Board,
+(e) A person has no liability under this section for any failure to comply with any requirement under this subchapter if, prior to the institution of an action under this section, the person notifies the consumer concerned of the failure, complies with the requirements of this subchapter, and makes an appropriate adjustment to the consumer’s account and pays actual damages or, where applicable, damages in accordance with section 1693h of this title .
+(f) On a finding by the court that an unsuccessful action under this section was brought in bad faith or for purposes of harassment, the court shall award to the defendant attorney’s fees reasonable in relation to the work expended and costs.
+(g) Without regard to the amount in controversy, any action under this section may be brought in any United States district court, or in any other court of competent jurisdiction, within one year from the date of the occurrence of the violation.

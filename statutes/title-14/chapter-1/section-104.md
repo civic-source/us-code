@@ -1,0 +1,14 @@
+---
+title: "Section 104 - Removing restrictions"
+usc_title: 14
+usc_section: "104"
+chapter: 1
+current_through: "PL 119-73"
+classification: "14 U.S.C. § 104"
+generated_at: "2026-03-29T00:29:24.972Z"
+---
+
+# § 104. Removing restrictions
+
+Any law removing for the duration of a war or national emergency proclaimed by the President any restriction contained in any then-existing law as applied to the Navy, including, but not limited to, restrictions relating to the manner in which purchases may be made and contracts awarded, fiscal operations, and personnel, shall, in the same manner and to the same extent, remove such restrictions as applied to the Coast Guard.
+

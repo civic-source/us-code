@@ -1,0 +1,148 @@
+---
+title: "Section 457 - Deferred compensation plans of State and local governments and tax-exempt organizations"
+usc_title: 26
+usc_section: "457"
+chapter: 1
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 457"
+generated_at: "2026-03-29T00:31:20.757Z"
+---
+
+# § 457. Deferred compensation plans of State and local governments and tax-exempt organizations
+
+(a) 
+  (1) Any amount of compensation deferred under an eligible deferred compensation plan, and any income attributable to the amounts so deferred, shall be includible in gross income only for the taxable year in which such compensation or other income—
+    (A) is paid to the participant or other beneficiary, in the case of a plan of an eligible employer described in subsection (e)(1)(A), and
+    (B) is paid or otherwise made available to the participant or other beneficiary, in the case of a plan of an eligible employer described in subsection (e)(1)(B).
+  (2) To the extent provided in section 72(t)(9), section 72(t) shall apply to any amount includible in gross income under this subsection.
+  (3) In the case of a plan of an eligible employer described in subsection (e)(1)(A), to the extent provided in section 402( l ), paragraph (1) shall not apply to amounts otherwise includible in gross income under this subsection.
+(b) For purposes of this section, the term “eligible deferred compensation plan” means a plan established and maintained by an eligible employer—
+  (1) in which only individuals who perform service for the employer may be participants,
+  (2) which provides that (except as provided in paragraph (3)) the maximum amount which may be deferred under the plan for the taxable year (other than rollover amounts) shall not exceed the lesser of—
+    (A) the applicable dollar amount, or
+    (B) 100 percent of the participant’s includible compensation,
+  (3) which may provide that, for 1 or more of the participant’s last 3 taxable years ending before he attains normal retirement age under the plan, the ceiling set forth in paragraph (2) shall be the lesser of—
+    (A) twice the dollar amount in effect under subsection (b)(2)(A), or
+    (B) the sum of—
+      (i) the plan ceiling established for purposes of paragraph (2) for the taxable year (determined without regard to this paragraph), plus
+      (ii) so much of the plan ceiling established for purposes of paragraph (2) for taxable years before the taxable year as has not previously been used under paragraph (2) or this paragraph,
+  (4) which provides that compensation—
+    (A) in the case of an eligible employer described in subsection (e)(1)(A), will be deferred only if an agreement providing for such deferral has been entered into before the compensation is currently available to the individual, and
+    (B) in any other case, will be deferred for any calendar month only if an agreement providing for such deferral has been entered into before the beginning of such month,
+  (5) which meets the distribution requirements of subsection (d), and
+  (6) except as provided in subsection (g), which provides that—
+    (A) all amounts of compensation deferred under the plan,
+    (B) all property and rights purchased with such amounts, and
+    (C) all income attributable to such amounts, property, or rights,
+(c) The maximum amount of the compensation of any one individual which may be deferred under subsection (a) during any taxable year shall not exceed the amount in effect under subsection (b)(2)(A) (as modified by any adjustment provided under subsection (b)(3)).
+(d) 
+  (1) For purposes of subsection (b)(5), a plan meets the distribution requirements of this subsection if—
+    (A) under the plan amounts will not be made available to participants or beneficiaries earlier than—
+      (i) the calendar year in which the participant attains age 70½ (in the case of a plan maintained by an employer described in subsection (e)(1)(A), age 59½),
+      (ii) when the participant has a severance from employment with the employer,
+      (iii) when the participant is faced with an unforeseeable emergency (determined in the manner prescribed by the Secretary in regulations),
+      (iv) except as may be otherwise provided by regulations, in the case of a plan maintained by an employer described in subsection (e)(1)(A), with respect to amounts invested in a lifetime income investment (as defined in section 401(a)(38)(B)(ii)), the date that is 90 days prior to the date that such lifetime income investment may no longer be held as an investment option under the plan, or
+      (v) as provided in section 401(a)(39),
+    (B) the plan meets the minimum distribution requirements of paragraph (2),
+    (C) in the case of a plan maintained by an employer described in subsection (e)(1)(A), the plan meets requirements similar to the requirements of section 401(a)(31), and
+    (D) except as may be otherwise provided by regulations, in the case of amounts described in subparagraph (A)(iv), such amounts will be distributed only in the form of a qualified distribution (as defined in section 401(a)(38)(B)(i)) or a qualified plan distribution annuity contract (as defined in section 401(a)(38)(B)(iv)).
+  (2) A plan meets the minimum distribution requirements of this paragraph if such plan meets the requirements of section 401(a)(9).
+  (3) An eligible deferred compensation plan of an employer described in subsection (e)(1)(A) shall not be treated as failing to meet the requirements of this subsection solely by reason of making a distribution described in subsection (e)(9)(A).
+  (4) In determining whether a distribution to a participant is made when the participant is faced with an unforeseeable emergency, the administrator of a plan maintained by an eligible employer described in subsection (e)(1)(A) may rely on a written certification by the participant that the distribution is—
+    (A) made when the participant is faced with an unforeseeable emergency of a type which is described in regulations prescribed by the Secretary as an unforeseeable emergency, and
+    (B) not in excess of the amount required to satisfy the emergency need, and
+(e) For purposes of this section—
+  (1) The term “eligible employer” means—
+    (A) a State, political subdivision of a State, and any agency or instrumentality of a State or political subdivision of a State, and
+    (B) any other organization (other than a governmental unit) exempt from tax under this subtitle.
+  (2) The performance of service includes performance of service as an independent contractor and the person (or governmental unit) for whom such services are performed shall be treated as the employer.
+  (3) The term “participant” means an individual who is eligible to defer compensation under the plan.
+  (4) The term “beneficiary” means a beneficiary of the participant, his estate, or any other person whose interest in the plan is derived from the participant.
+  (5) The term “includible compensation” has the meaning given to the term “participant’s compensation” by section 415(c)(3).
+  (6) Compensation shall be taken into account at its present value.
+  (7) The amount of includible compensation shall be determined without regard to any community property laws.
+  (8) Gains from the disposition of property shall be treated as income attributable to such property.
+  (9) In the case of an eligible deferred compensation plan of an employer described in subsection (e)(1)(B)—
+    (A) The total amount payable to a participant under the plan shall not be treated as made available merely because the participant may elect to receive such amount (or the plan may distribute such amount without the participant’s consent) if—
+      (i) the portion of such amount which is not attributable to rollover contributions (as defined in section 411(a)(11)(D)) does not exceed the dollar limit under section 411(a)(11)(A), and
+      (ii) such amount may be distributed only if—
+        (I) no amount has been deferred under the plan with respect to such participant during the 2-year period ending on the date of the distribution, and
+        (II) there has been no prior distribution under the plan to such participant to which this subparagraph applied.
+    (B) The total amount payable to a participant under the plan shall not be treated as made available merely because the participant may elect to defer commencement of distributions under the plan if—
+      (i) such election is made after amounts may be available under the plan in accordance with subsection (d)(1)(A) and before commencement of such distributions, and
+      (ii) the participant may make only 1 such election.
+  (10) A participant shall not be required to include in gross income any portion of the entire amount payable to such participant solely by reason of the transfer of such portion from 1 eligible deferred compensation plan to another eligible deferred compensation plan.
+  (11) 
+    (A) The following plans shall be treated as not providing for the deferral of compensation:
+      (i) Any bona fide vacation leave, sick leave, compensatory time, severance pay, disability pay, or death benefit plan.
+      (ii) Any plan paying solely length of service awards to bona fide volunteers (or their beneficiaries) on account of qualified services performed by such volunteers.
+    (B) 
+      (i) An individual shall be treated as a bona fide volunteer for purposes of subparagraph (A)(ii) if the only compensation received by such individual for performing qualified services is in the form of—
+        (I) reimbursement for (or a reasonable allowance for) reasonable expenses incurred in the performance of such services, or
+        (II) reasonable benefits (including length of service awards), and nominal fees for such services, customarily paid by eligible employers in connection with the performance of such services by volunteers.
+      (ii) A plan shall not be treated as described in subparagraph (A)(ii) if the aggregate amount of length of service awards accruing with respect to any year of service for any bona fide volunteer exceeds $6,000.
+      (iii) In the case of taxable years beginning after December 31, 2017 , the Secretary shall adjust the $6,000 amount under clause (ii) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2016 , and any increase under this paragraph that is not a multiple of $500 shall be rounded to the next lowest multiple of $500.
+      (iv) In the case of a plan described in subparagraph (A)(ii) which is a defined benefit plan (as defined in section 414(j)), the limitation under clause (ii) shall apply to the actuarial present value of the aggregate amount of length of service awards accruing with respect to any year of service. Such actuarial present value with respect to any year shall be calculated using reasonable actuarial assumptions and methods, assuming payment will be made under the most valuable form of payment under the plan with payment commencing at the later of the earliest age at which unreduced benefits are payable under the plan or the participant’s age at the time of the calculation.
+    (C) For purposes of this paragraph, the term “qualified services” means fire fighting and prevention services, emergency medical services, and ambulance services.
+    (D) 
+      (i) If an applicable voluntary early retirement incentive plan—
+        (I) makes payments or supplements as an early retirement benefit, a retirement-type subsidy, or a benefit described in the last sentence of section 411(a)(9), and
+        (II) such payments or supplements are made in coordination with a defined benefit plan which is described in section 401(a) and includes a trust exempt from tax under section 501(a) and which is maintained by an eligible employer described in paragraph (1)(A) or by an education association described in clause (ii)(II),
+      (ii) For purposes of this subparagraph, the term “applicable voluntary early retirement incentive plan” means a voluntary early retirement incentive plan maintained by—
+        (I) a local educational agency (as defined in section 8101 of the Elementary and Secondary Education Act of 1965), or
+        (II) an education association which principally represents employees of 1 or more agencies described in subclause (I) and which is described in section 501(c)(5) or (6) and exempt from tax under section 501(a).
+  (12) 
+    (A) This section shall not apply to nonelective deferred compensation attributable to services not performed as an employee.
+    (B) For purposes of subparagraph (A), deferred compensation shall be treated as nonelective only if all individuals (other than those who have not satisfied any applicable initial service requirement) with the same relationship to the payor are covered under the same plan with no individual variations or options under the plan.
+  (13) The term “eligible employer” shall not include a church (as defined in section 3121(w)(3)(A)) or qualified church-controlled organization (as defined in section 3121(w)(3)(B)).
+  (14) Subsections (b)(2) and (c)(1) shall not apply to any qualified governmental excess benefit arrangement (as defined in section 415(m)(3)), and benefits provided under such an arrangement shall not be taken into account in determining whether any other plan is an eligible deferred compensation plan.
+  (15) 
+    (A) The applicable dollar amount is $15,000.
+    (B) In the case of taxable years beginning after December 31, 2006 , the Secretary shall adjust the $15,000 amount under subparagraph (A) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2005 , and any increase under this paragraph which is not a multiple of $500 shall be rounded to the next lowest multiple of $500.
+  (16) 
+    (A) In the case of an eligible deferred compensation plan established and maintained by an employer described in subsection (e)(1)(A), if—
+      (i) any portion of the balance to the credit of an employee in such plan is paid to such employee in an eligible rollover distribution (within the meaning of section 402(c)(4)),
+      (ii) the employee transfers any portion of the property such employee receives in such distribution to an eligible retirement plan described in section 402(c)(8)(B), and
+      (iii) in the case of a distribution of property other than money, the amount so transferred consists of the property distributed,
+    (B) The rules of paragraphs (2) through (7), (9), and (11) of section 402(c) and section 402(f) shall apply for purposes of subparagraph (A).
+    (C) Rollovers under this paragraph shall be reported to the Secretary in the same manner as rollovers from qualified retirement plans (as defined in section 4974(c)).
+  (17) No amount shall be includible in gross income by reason of a direct trustee-to-trustee transfer to a defined benefit governmental plan (as defined in section 414(d)) if such transfer is—
+    (A) for the purchase of permissive service credit (as defined in section 415(n)(3)(A)) under such plan, or
+    (B) a repayment to which section 415 does not apply by reason of subsection (k)(3) thereof.
+  (18) In the case of an individual who is an eligible participant (as defined by section 414(v)) and who is a participant in an eligible deferred compensation plan of an employer described in paragraph (1)(A), subsections (b)(3) and (c) shall be applied by substituting for the amount otherwise determined under the applicable subsection the greater of—
+    (A) the sum of—
+      (i) the plan ceiling established for purposes of subsection (b)(2) (without regard to subsection (b)(3)), plus
+      (ii) the lesser of any designated Roth contributions made by the participant to the plan or the applicable dollar amount for the taxable year determined under section 414(v)(2)(B)(i), or
+    (B) the amount determined under the applicable subsection (without regard to this paragraph).
+(f) 
+  (1) In the case of a plan of an eligible employer providing for a deferral of compensation, if such plan is not an eligible deferred compensation plan, then—
+    (A) the compensation shall be included in the gross income of the participant or beneficiary for the 1st taxable year in which there is no substantial risk of forfeiture of the rights to such compensation, and
+    (B) the tax treatment of any amount made available under the plan to a participant or beneficiary shall be determined under section 72 (relating to annuities, etc.).
+  (2) Paragraph (1) shall not apply to—
+    (A) a plan described in section 401(a) which includes a trust exempt from tax under section 501(a),
+    (B) an annuity plan or contract described in section 403,
+    (C) that portion of any plan which consists of a transfer of property described in section 83,
+    (D) that portion of any plan which consists of a trust to which section 402(b) applies,
+    (E) a qualified governmental excess benefit arrangement described in section 415(m), and
+    (F) that portion of any applicable employment retention plan described in paragraph (4) with respect to any participant.
+  (3) For purposes of this subsection—
+    (A) The term “plan” includes any agreement or arrangement.
+    (B) The rights of a person to compensation are subject to a substantial risk of forfeiture if such person’s rights to such compensation are conditioned upon the future performance of substantial services by any individual.
+  (4) For purposes of paragraph (2)(F)—
+    (A) The portion of an applicable employment retention plan described in this paragraph with respect to any participant is that portion of the plan which provides benefits payable to the participant not in excess of twice the applicable dollar limit determined under subsection (e)(15).
+    (B) 
+      (i) Paragraph (2)(F) shall only apply to the portion of the plan described in subparagraph (A) for years preceding the year in which such portion is paid or otherwise made available to the participant.
+      (ii) A plan shall not be treated for purposes of this title as providing for the deferral of compensation for any year with respect to the portion of the plan described in subparagraph (A).
+    (C) The term “applicable employment retention plan” means an employment retention plan maintained by—
+      (i) a local educational agency (as defined in section 8101 of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7801 )), or
+      (ii) an education association which principally represents employees of 1 or more agencies described in clause (i) and which is described in section 501(c)(5) or (6) and exempt from taxation under section 501(a).
+    (D) The term “employment retention plan” means a plan to pay, upon termination of employment, compensation to an employee of a local educational agency or education association described in subparagraph (C) for purposes of—
+      (i) retaining the services of the employee, or
+      (ii) rewarding such employee for the employee’s service with 1 or more such agencies or associations.
+(g) 
+  (1) A plan maintained by an eligible employer described in subsection (e)(1)(A) shall not be treated as an eligible deferred compensation plan unless all assets and income of the plan described in subsection (b)(6) are held in trust for the exclusive benefit of participants and their beneficiaries.
+  (2) For purposes of this title—
+    (A) a trust described in paragraph (1) shall be treated as an organization exempt from taxation under section 501(a), and
+    (B) notwithstanding any other provision of this title, amounts in the trust shall be includible in the gross income of participants and beneficiaries only to the extent, and at the time, provided in this section.
+  (3) For purposes of this subsection, custodial accounts and contracts described in section 401(f) shall be treated as trusts under rules similar to the rules under section 401(f).
+  (4) A plan described in paragraph (1) shall not be treated as an eligible deferred compensation plan unless such plan meets the requirements of section 401(a)(37).

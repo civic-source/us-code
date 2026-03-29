@@ -1,0 +1,14 @@
+---
+title: "Section 274b - Cooperation of Federal and non-Federal departments, agencies, and organizations; transfers of funds"
+usc_title: 22
+usc_section: "274b"
+chapter: 7
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 274b"
+generated_at: "2026-03-29T00:30:33.655Z"
+---
+
+# § 274b. Cooperation of Federal and non-Federal departments, agencies, and organizations; transfers of funds
+
+(a) The Congress calls upon all Federal departments and agencies and other persons and organizations, both public and private, to support and cooperate fully with the international biological program and the activities and goals of the United States National Committee and the Interagency Coordinating Committee.
+(b) For this purpose, the Congress authorizes and requests all Federal departments and agencies having functions or objectives which coincide with or are related to those of the international biological program to obligate or make appropriate transfers of funds to the program from moneys available for such functions or objectives and provide such other support as may be appropriate.

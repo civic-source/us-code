@@ -1,0 +1,19 @@
+---
+title: "Section 50921 - Office of Commercial Space Transportation"
+usc_title: 51
+usc_section: "50921"
+chapter: 509
+current_through: "PL 119-73"
+classification: "51 U.S.C. § 50921"
+generated_at: "2026-03-29T00:33:19.408Z"
+---
+
+# § 50921. Office of Commercial Space Transportation
+
+There are authorized to be appropriated to the Secretary of Transportation for the activities of the Office of the Associate Administrator for Commercial Space Transportation—
+
+  (1) $11,941,000 for fiscal year 2005;
+  (2) $12,299,000 for fiscal year 2006;
+  (3) $12,668,000 for fiscal year 2007;
+  (4) $13,048,000 for fiscal year 2008; and
+  (5) $13,440,000 for fiscal year 2009.

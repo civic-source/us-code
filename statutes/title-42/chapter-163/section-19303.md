@@ -1,0 +1,21 @@
+---
+title: "Section 19303 - Clean energy technology transfer coordination"
+usc_title: 42
+usc_section: "19303"
+chapter: 163
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 19303"
+generated_at: "2026-03-29T00:32:54.524Z"
+---
+
+# § 19303. Clean energy technology transfer coordination
+
+(a) The Secretary, acting through the Chief Commercialization Officer established in section 16391(a) of this title , shall support the coordination of relevant technology transfer programs that advance the commercial application of clean energy technologies nationally and across all energy sectors. In particular, the Secretary may support activities to—
+  (1) facilitate the sharing of information on best practices for successful operation of clean energy technology transfer programs;
+  (2) coordinate resources and improve cooperation among clean energy technology transfer programs;
+  (3) facilitate connections between entrepreneurs and start-up companies and the variety of programs related to clean energy technology transfer under the Department; and
+  (4) facilitate the development of metrics to measure the impact of clean energy technology transfer programs on—
+    (A) advancing the development, demonstration, and commercial application of clean energy technologies;
+    (B) increasing the competitiveness of United States in the clean energy sector, including in manufacturing; and
+    (C) commercial application of clean energy technologies being developed by entrepreneurs from under-represented backgrounds.
+(b) There are authorized to be appropriated to the Secretary to carry out the activities in this section $3,000,000 for each of fiscal years 2023 through 2027.

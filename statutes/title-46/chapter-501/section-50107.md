@@ -1,0 +1,16 @@
+---
+title: "Section 50107 - Studies on marine insurance"
+usc_title: 46
+usc_section: "50107"
+chapter: 501
+current_through: "PL 119-73"
+classification: "46 U.S.C. § 50107"
+generated_at: "2026-03-29T00:33:02.916Z"
+---
+
+# § 50107. Studies on marine insurance
+
+The Secretary of Transportation shall—
+
+  (1) examine into the subject of marine insurance, the number of companies in the United States, domestic and foreign, engaging in marine insurance, the extent of the insurance on hulls and cargoes placed or written in the United States, and the extent of reinsurance of American maritime risks in foreign companies; and
+  (2) ascertain what steps may be necessary to develop an ample marine insurance system as an aid in the development of the merchant marine of the United States.

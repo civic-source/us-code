@@ -1,0 +1,22 @@
+---
+title: "Section 321d - Market names for catfish and ginseng"
+usc_title: 21
+usc_section: "321d"
+chapter: 9
+current_through: "PL 119-73"
+classification: "21 U.S.C. § 321d"
+generated_at: "2026-03-29T00:30:24.151Z"
+---
+
+# § 321d. Market names for catfish and ginseng
+
+(a) 
+  (1) Notwithstanding any other provision of law, for purposes of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 301 et seq.)—
+    (A) the term “catfish” may only be considered to be a common or usual name (or part thereof) for fish classified within the family Ictaluridae; and
+    (B) only labeling or advertising for fish classified within that family may include the term “catfish”.
+  (2) 
+(b) 
+  (1) Notwithstanding any other provision of law, for purposes of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 301 et seq.)—
+    (A) the term “ginseng” may only be considered to be a common or usual name (or part thereof) for any herb or herbal ingredient derived from a plant classified within the genus Panax; and
+    (B) only labeling or advertising for herbs or herbal ingredients classified within that genus may include the term “ginseng”.
+  (2) 

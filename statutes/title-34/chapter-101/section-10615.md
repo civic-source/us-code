@@ -1,0 +1,14 @@
+---
+title: "Section 10615 - Applications"
+usc_title: 34
+usc_section: "10615"
+chapter: 101
+current_through: "PL 119-73"
+classification: "34 U.S.C. § 10615"
+generated_at: "2026-03-29T00:32:01.579Z"
+---
+
+# § 10615. Applications
+
+To request funds under this subchapter, the chief executive or the chief justice of a State or the chief executive or judge of a unit of local government or Indian tribal government, or the chief judge of a State court or the judge of a local court or Indian tribal court shall submit an application to the Attorney General in such form and containing such information as the Attorney General may reasonably require.
+

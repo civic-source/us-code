@@ -1,0 +1,14 @@
+---
+title: "Section 13 - Powers and duties of bureau"
+usc_title: 29
+usc_section: "13"
+chapter: 2
+current_through: "PL 119-73"
+classification: "29 U.S.C. § 13"
+generated_at: "2026-03-29T00:31:27.536Z"
+---
+
+# § 13. Powers and duties of bureau
+
+It shall be the duty of the Women’s Bureau to formulate standards and policies which shall promote the welfare of wage-earning women, improve their working conditions, increase their efficiency, and advance their opportunities for profitable employment. The said bureau shall have authority to investigate and report to the Department of Labor upon all matters pertaining to the welfare of women in industry. The director of said bureau may from time to time publish the results of these investigations in such a manner and to such extent as the Secretary of Labor may prescribe.
+

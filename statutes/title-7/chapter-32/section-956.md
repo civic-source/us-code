@@ -1,0 +1,14 @@
+---
+title: "Section 956 - Rules and regulations; cooperation with departments, etc.; officers and employees; expenses of administration; authorization of appropriations"
+usc_title: 7
+usc_section: "956"
+chapter: 32
+current_through: "PL 119-73"
+classification: "7 U.S.C. § 956"
+generated_at: "2026-03-29T00:28:57.970Z"
+---
+
+# § 956. Rules and regulations; cooperation with departments, etc.; officers and employees; expenses of administration; authorization of appropriations
+
+The Secretary may make rules and regulations as may be necessary in the administration of this chapter and may cooperate with any department or agency of the Government, any State, Territory, District, or possession, or department, agency, or political subdivision thereof, or any person; and shall have the power to appoint, remove, and fix the compensation of such officers and employees not in conflict with existing law, and make such expenditures for rent outside the District of Columbia, printing, binding, telegrams, telephones, law books, books of reference, publications, furniture, stationery, office equipment, travel, and other supplies and expenses, including reporting services, as shall be necessary to the administration of this chapter in the District of Columbia and elsewhere, and as may be appropriated for by Congress; and there is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary for such purpose.
+

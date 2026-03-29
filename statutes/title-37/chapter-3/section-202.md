@@ -1,0 +1,14 @@
+---
+title: "Section 202 - Pay grades: retired Coast Guard rear admirals (lower half)"
+usc_title: 37
+usc_section: "202"
+chapter: 3
+current_through: "PL 119-73"
+classification: "37 U.S.C. § 202"
+generated_at: "2026-03-29T00:32:04.386Z"
+---
+
+# § 202. Pay grades: retired Coast Guard rear admirals (lower half)
+
+An officer of the Coast Guard holding a permanent appointment in the grade of rear admiral (lower half) on the retired list, and who in time of war or national emergency has served satisfactorily on active duty for two years in that grade or in a higher grade, is entitled when on active duty to the basic pay of a rear admiral.
+

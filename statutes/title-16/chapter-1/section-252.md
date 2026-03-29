@@ -1,0 +1,14 @@
+---
+title: "Section 252 - Disposal of mineral rights"
+usc_title: 16
+usc_section: "252"
+chapter: 1
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 252"
+generated_at: "2026-03-29T00:29:52.331Z"
+---
+
+# § 252. Disposal of mineral rights
+
+In the areas of said park lying east of the range line between ranges 9 and 10 and north of the seventh standard parallel, and east of the range line between ranges 4 and 5 west, Willamette meridian, all mineral deposits of the classes and kinds now subject to location, entry, and patent under the mining laws of the United States shall be, exclusive of the land containing them, subject to disposal under such laws for a period of five years from June 29, 1938 , with rights of occupation and use of so much of the surface of the land as may be required for all purposes reasonably incident to the mining or removal of the minerals and under such general regulations as may be prescribed by the Secretary of the Interior.
+

@@ -1,0 +1,90 @@
+---
+title: "Section 419A - Qualified asset account; limitation on additions to account"
+usc_title: 26
+usc_section: "419A"
+chapter: 1
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 419A"
+generated_at: "2026-03-29T00:31:20.736Z"
+---
+
+# § 419A. Qualified asset account; limitation on additions to account
+
+(a) For purposes of this subpart and section 512, the term “qualified asset account” means any account consisting of assets set aside to provide for the payment of—
+  (1) disability benefits,
+  (2) medical benefits,
+  (3) SUB or severance pay benefits, or
+  (4) life insurance benefits.
+(b) No addition to any qualified asset account may be taken into account under section 419(c)(1)(B) to the extent such addition results in the amount in such account exceeding the account limit.
+(c) For purposes of this section—
+  (1) Except as otherwise provided in this subsection, the account limit for any qualified asset account for any taxable year is the amount reasonably and actuarially necessary to fund—
+    (A) claims incurred but unpaid (as of the close of such taxable year) for benefits referred to in subsection (a), and
+    (B) administrative costs with respect to such claims.
+  (2) The account limit for any taxable year may include a reserve funded over the working lives of the covered employees and actuarially determined on a level basis (using assumptions that are reasonable in the aggregate) as necessary for—
+    (A) post-retirement medical benefits to be provided to covered employees (determined on the basis of current medical costs), or
+    (B) post-retirement life insurance benefits to be provided to covered employees.
+  (3) 
+    (A) The account limit for any taxable year with respect to SUB or severance pay benefits is 75 percent of the average annual qualified direct costs for SUB or severance pay benefits for any 2 of the immediately preceding 7 taxable years (as selected by the fund).
+    (B) In the case of any new plan for which SUB or severance pay benefits are not available to any key employee, the Secretary shall, by regulations, provide for an interim amount to be taken into account under paragraph (1).
+  (4) 
+    (A) For purposes of paragraph (1), disability benefits payable to any individual shall not be taken into account to the extent such benefits are payable at an annual rate in excess of the lower of—
+      (i) 75 percent of such individual’s average compensation for his high 3 years (within the meaning of section 415(b)(3)), or
+      (ii) the limitation in effect under section 415(b)(1)(A).
+    (B) For purposes of paragraph (3), any SUB or severance pay benefit payable to any individual shall not be taken into account to the extent such benefit is payable at an annual rate in excess of 150 percent of the limitation in effect under section 415(c)(1)(A).
+  (5) 
+    (A) Unless there is an actuarial certification of the account limit determined under this subsection for any taxable year, the account limit for such taxable year shall not exceed the sum of the safe harbor limits for such taxable year.
+    (B) 
+      (i) In the case of short-term disability benefits, the safe harbor limit for any taxable year is 17.5 percent of the qualified direct costs (other than insurance premiums) for the immediately preceding taxable year with respect to such benefits.
+      (ii) In the case of medical benefits, the safe harbor limit for any taxable year is 35 percent of the qualified direct costs (other than insurance premiums) for the immediately preceding taxable year with respect to medical benefits.
+      (iii) In the case of SUB or severance pay benefits, the safe harbor limit for any taxable year is the amount determined under paragraph (3).
+      (iv) In the case of any long-term disability benefit or life insurance benefit, the safe harbor limit for any taxable year shall be the amount prescribed by regulations.
+  (6) 
+    (A) An applicable account limit for any taxable year may include a reserve in an amount not to exceed 35 percent of the sum of—
+      (i) the qualified direct costs, and
+      (ii) the change in claims incurred but unpaid,
+    (B) For purposes of this subsection, the term “applicable account limit” means an account limit for a qualified asset account with respect to medical benefits provided through a plan maintained by a bona fide association (as defined in section 2791(d)(3) of the Public Health Service Act ( 42 U.S.C. 300gg–91(d)(3) )).
+(d) 
+  (1) In the case of any employee who is a key employee—
+    (A) a separate account shall be established for any medical benefits or life insurance benefits provided with respect to such employee after retirement, and
+    (B) medical benefits and life insurance benefits provided with respect to such employee after retirement may only be paid from such separate account.
+  (2) For purposes of section 415, any amount attributable to medical benefits allocated to an account established under paragraph (1) shall be treated as an annual addition to a defined contribution plan for purposes of section 415(c). Subparagraph (B) of section 415(c)(1) shall not apply to any amount treated as an annual addition under the preceding sentence.
+  (3) For purposes of this section, the term “key employee” means any employee who, at any time during the plan year or any preceding plan year, is or was a key employee as defined in section 416(i).
+(e) 
+  (1) No reserve may be taken into account under subsection (c)(2) for post-retirement medical benefits or life insurance benefits to be provided to covered employees unless the plan meets the requirements of section 505(b) with respect to such benefits (whether or not such requirements apply to such plan). The preceding sentence shall not apply to any plan maintained pursuant to an agreement between employee representatives and 1 or more employers if the Secretary finds that such agreement is a collective bargaining agreement and that post-retirement medical benefits or life insurance benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.
+  (2) Life insurance benefits shall not be taken into account under subsection (c)(2) to the extent the aggregate amount of such benefits to be provided with respect to the employee exceeds $50,000.
+(f) For purposes of this section—
+  (1) The term “SUB or severance pay benefit” means—
+    (A) any supplemental unemployment compensation benefit (as defined in section 501(c)(17)(D)), and
+    (B) any severance pay benefit.
+  (2) The term “medical benefit” means a benefit which consists of the providing (directly or through insurance) of medical care (as defined in section 213(d)).
+  (3) The term “life insurance benefit” includes any other death benefit.
+  (4) For purposes of this section, the amount of the qualified asset account shall be the value of the assets in such account (as determined under regulations).
+  (5) No account limits shall apply in the case of any qualified asset account under a separate welfare benefit fund—
+    (A) under a collective bargaining agreement, or
+    (B) an employee pay-all plan under section 501(c)(9) if—
+      (i) such plan has at least 50 employees (determined without regard to subsection (h)(1)), and
+      (ii) no employee is entitled to a refund with respect to amounts in the fund, other than a refund based on the experience of the entire fund.
+  (6) 
+    (A) This subpart shall not apply in the case of any welfare benefit fund which is part of a 10 or more employer plan. The preceding sentence shall not apply to any plan which maintains experience-rating arrangements with respect to individual employers.
+    (B) For purposes of subparagraph (A), the term “10 or more employer plan” means a plan—
+      (i) to which more than 1 employer contributes, and
+      (ii) to which no employer normally contributes more than 10 percent of the total contributions contributed under the plan by all employers.
+  (7) 
+    (A) The account limit for any of the first 4 taxable years to which this section applies shall be increased by the applicable percentage of any existing excess reserves.
+    (B) For purposes of subparagraph (A)— In the case of: The applicable percentage is: The first taxable year to which this section applies 80 The second taxable year to which this section applies 60 The third taxable year to which this section applies 40 The fourth taxable year to which this section applies 20.
+    (C) For purposes of computing the increase under subparagraph (A) for any taxable year, the term “existing excess reserve” means the excess (if any) of—
+      (i) the amount of assets set aside at the close of the first taxable year ending after July 18, 1984 , for purposes described in subsection (a), over
+      (ii) the account limit determined under this section (without regard to this paragraph) for the taxable year for which such increase is being computed.
+    (D) This paragraph shall apply only to a welfare benefit fund which, as of July 18, 1984 , had assets set aside for purposes described in subsection (a).
+(g) 
+  (1) In the case of any welfare benefit fund which is not an organization described in paragraph (7), (9), or (17) of section 501(c), the employer shall include in gross income for any taxable year an amount equal to such fund’s deemed unrelated income for the fund’s taxable year ending within the employer’s taxable year.
+  (2) For purposes of paragraph (1), the deemed unrelated income of any welfare benefit fund shall be the amount which would have been its unrelated business taxable income under section 512(a)(3) if such fund were an organization described in paragraph (7), (9), or (17) of section 501(c).
+  (3) If any amount is included in the gross income of an employer for any taxable year under paragraph (1) with respect to any welfare benefit fund—
+    (A) the amount of the tax imposed by this chapter which is attributable to the amount so included shall be treated as a contribution paid to such welfare benefit fund on the last day of such taxable year, and
+    (B) the tax so attributable shall be treated as imposed on the fund for purposes of section 419(c)(4)(A).
+(h) For purposes of this subpart—
+  (1) 
+    (A) For purposes of subsections (c)(4), (d)(2), and (e)(2), all welfare benefit funds of an employer shall be treated as 1 fund.
+    (B) For purposes of this section (other than the provisions specified in subparagraph (A)), at the election of the employer, 2 or more welfare benefit funds of such employer may (to the extent not inconsistent with the purposes of this subpart and section 512) be treated as 1 fund.
+  (2) Rules similar to the rules of subsections (b), (c), (m), and (n) of section 414 shall apply.
+(i) The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this subpart. Such regulations may provide that the plan administrator of any welfare benefit fund which is part of a plan to which more than 1 employer contributes shall submit such information to the employers contributing to the fund as may be necessary to enable the employers to comply with the provisions of this section.

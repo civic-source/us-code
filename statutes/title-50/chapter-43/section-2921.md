@@ -1,0 +1,14 @@
+---
+title: "Section 2921 - Statement of policy"
+usc_title: 50
+usc_section: "2921"
+chapter: 43
+current_through: "PL 119-73"
+classification: "50 U.S.C. § 2921"
+generated_at: "2026-03-29T00:33:18.159Z"
+---
+
+# § 2921. Statement of policy
+
+It shall be the policy of the United States, consistent with the 9/11 Commission’s recommendations, to eliminate any obstacles to timely obligating and executing the full amount of any appropriated funds for threat reduction and nonproliferation programs in order to accelerate and strengthen progress on preventing weapons of mass destruction (WMD) proliferation and terrorism. Such policy shall be implemented with concrete measures, such as those described in this chapter, including the removal and modification of statutory limits to executing funds, the expansion and strengthening of the Proliferation Security Initiative, the establishment of the Office of the United States Coordinator for the Prevention of Weapons of Mass Destruction Proliferation and Terrorism under subchapter III, and the establishment of the Commission on the Prevention of Weapons of Mass Destruction Proliferation and Terrorism under subtitle E. 1 1 See References in Text below. As a result, Congress intends that any funds authorized to be appropriated to programs for preventing WMD proliferation and terrorism under this subchapter will be executed in a timely manner.
+

@@ -1,0 +1,19 @@
+---
+title: "Section 1621y - Contract health service administration and disbursement formula"
+usc_title: 25
+usc_section: "1621y"
+chapter: 18
+current_through: "PL 119-73"
+classification: "25 U.S.C. § 1621y"
+generated_at: "2026-03-29T00:30:38.688Z"
+---
+
+# § 1621y. Contract health service administration and disbursement formula
+
+(a) As soon as practicable after March 23, 2010 , the Comptroller General of the United States shall submit to the Secretary, the Committee on Indian Affairs of the Senate, and the Committee on Natural Resources of the House of Representatives, and make available to each Indian tribe, a report describing the results of the study of the Comptroller General regarding the funding of the contract health service program (including historic funding levels and a recommendation of the funding level needed for the program) and the administration of the contract health service program (including the distribution of funds pursuant to the program), as requested by Congress in March 2009, or pursuant to section 1680t of this title .
+(b) On receipt of the report under subsection (a), the Secretary shall consult with Indian tribes regarding the contract health service program, including the distribution of funds pursuant to the program—
+  (1) to determine whether the current distribution formula would require modification if the contract health service program were funded at the level recommended by the Comptroller General;
+  (2) to identify any inequities in the current distribution formula under the current funding level or inequitable results for any Indian tribe under the funding level recommended by the Comptroller General;
+  (3) to identify any areas of program administration that may result in the inefficient or ineffective management of the program; and
+  (4) to identify any other issues and recommendations to improve the administration of the contract health services program and correct any unfair results or funding disparities identified under paragraph (2).
+(c) If, after consultation with Indian tribes under subsection (b), the Secretary determines that any issue described in subsection (b)(2) exists, the Secretary may initiate procedures under subchapter III of chapter 5 of title 5 to negotiate or promulgate regulations to establish a disbursement formula for the contract health service program funding.

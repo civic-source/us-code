@@ -1,0 +1,14 @@
+---
+title: "Section 313 - Application of antitrust laws to manufacture, sale, and trade in radio apparatus"
+usc_title: 47
+usc_section: "313"
+chapter: 5
+current_through: "PL 119-73"
+classification: "47 U.S.C. § 313"
+generated_at: "2026-03-29T00:33:04.889Z"
+---
+
+# § 313. Application of antitrust laws to manufacture, sale, and trade in radio apparatus
+
+(a) All laws of the United States relating to unlawful restraints and monopolies and to combinations, contracts, or agreements in restraint of trade are declared to be applicable to the manufacture and sale of and to trade in radio apparatus and devices entering into or affecting interstate or foreign commerce and to interstate or foreign radio communications. Whenever in any suit, action, or proceeding, civil or criminal, brought under the provisions of any of said laws or in any proceedings brought to enforce or to review findings and orders of the Federal Trade Commission or other governmental agency in respect of any matters as to which said Commission or other governmental agency is by law authorized to act, any licensee shall be found guilty of the violation of the provisions of such laws or any of them, the court, in addition to the penalties imposed by said laws, may adjudge, order, and/or decree that the license of such licensee shall, as of the date the decree or judgment becomes finally effective or as of such other date as the said decree shall fix, be revoked and that all rights under such license shall thereupon cease: Provided, however , That such licensee shall have the same right of appeal or review as is provided by law in respect of other decrees and judgments of said court.
+(b) The Commission is hereby directed to refuse a station license and/or the permit hereinafter required for the construction of a station to any person (or to any person directly or indirectly controlled by such person) whose license has been revoked by a court under this section.

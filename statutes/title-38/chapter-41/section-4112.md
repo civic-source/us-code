@@ -1,0 +1,26 @@
+---
+title: "Section 4112 - Performance incentive awards for quality employment, training, and placement services"
+usc_title: 38
+usc_section: "4112"
+chapter: 41
+current_through: "PL 119-73"
+classification: "38 U.S.C. § 4112"
+generated_at: "2026-03-29T00:32:17.296Z"
+---
+
+# § 4112. Performance incentive awards for quality employment, training, and placement services
+
+(a) 
+  (1) For purposes of carrying out a program of performance incentive awards under section 4102A(c)(2)(A)(i)(III) of this title , the Secretary, acting through the Assistant Secretary of Labor for Veterans’ Employment and Training, shall establish criteria for performance incentive awards programs to be administered by States to—
+    (A) encourage the improvement and modernization of employment, training, and placement services provided under this chapter; and
+    (B) recognize eligible employees and employment service offices for excellence in the provision of such services or for having made demonstrable improvements in the provision of such services.
+  (2) The Secretary shall establish such criteria in consultation with representatives of States, political subdivisions of States, and other providers of employment, training, and placement services under the Workforce Investment Act of 1998 1 1 See References in Text note below. consistent with the performance measures established under section 4102A(b)(7) of this title .
+(b) Under the criteria established by the Secretary for performance incentive awards to be administered by States, an award under such criteria may be a cash award or such other nonfinancial awards as the Secretary may specify.
+(c) Performance incentive cash awards under this section—
+  (1) shall be made from amounts allocated from the grant or contract amount for a State for a program year under section 4102A(c)(7) of this title ;
+  (2) in the case of such an award made to an eligible employee, shall be in addition to the regular pay of the recipient; and
+  (3) in the case of such an award made to an employment service office, may be used by that employment service office for any purpose.
+(d) In this section, the term “eligible employee” means any of the following:
+  (1) A disabled veterans’ outreach program specialist.
+  (2) A local veterans’ employment representative.
+  (3) An individual providing employment, training, and placement services to veterans under the Workforce Investment Act of 1998 1 or through an employment service delivery system (as defined in section 4101(7) of this title ).

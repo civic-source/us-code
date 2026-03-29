@@ -1,0 +1,23 @@
+---
+title: "Section 5442 - Poland-Hungary scholarship partnership"
+usc_title: 22
+usc_section: "5442"
+chapter: 63
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 5442"
+generated_at: "2026-03-29T00:30:33.941Z"
+---
+
+# § 5442. Poland-Hungary scholarship partnership
+
+(a) The Administrator of the Agency for International Development is authorized to establish and administer a program of scholarship assistance, in cooperation with State governments, universities, community colleges, and businesses, to provide scholarships to enable students from Poland and Hungary to study in the United States.
+(b) The scholarship program provided for in this section shall emphasize scholarships to enable students from Poland and Hungary to study business and economics in the United States. Such scholarships may be provided for study in programs that range from the standard management courses to more specialized assistance in commercial banking and the creation of a stock market.
+(c) In carrying out this section, the Administrator may make grants to States to provide scholarship assistance for undergraduate or graduate degree programs, and training programs of one year or longer, in study areas related to the critical development needs of Poland and Hungary.
+(d) The Administrator shall consult with the participating States with regard to the educational opportunities available within each State and on the assignment of scholarship recipients.
+(e) The Federal share for each year for which a State receives payments under this section shall not be more than 50 percent.
+(f) The non-Federal share of payments under this section may be in cash, including the waiver of tuition or the offering of in-State tuition or housing waivers or subsidies, or in-kind fairly evaluated, including the provision of books or supplies.
+(g) The obligation of any recipient to reimburse any entity for any or all scholarship assistance provided under this section shall be forgiven upon the recipient’s prompt return to Poland or Hungary, as the case may be, for a period which is at least one year longer than the period spent studying in the United States with scholarship assistance.
+(h) To the maximum extent practicable, each participating State shall enlist the assistance of the private sector to enable the State to meet the non-Federal share of payments under this section. Wherever appropriate, each participating State shall encourage the private sector to offer internships or other opportunities consistent with the purposes of this section to students receiving scholarships under this section.
+(i) Grants to States pursuant to this section shall be made with funds made available to carry out chapter 1 of part I of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2151 and following; relating to development assistance) or chapter 4 of part II of that Act ( 22 U.S.C. 2346 and following; relating to the economic support fund). In addition to amounts otherwise available for such purpose under those chapters, there are authorized to be appropriated $10,000,000 for the 3-year period beginning October 1, 1989 , for use in carrying out this section.
+(j) Prohibitions on the use of foreign assistance funds for assistance for Poland and Hungary shall not apply with respect to the funds made available to carry out this section.
+(k) As used in this section, the term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.

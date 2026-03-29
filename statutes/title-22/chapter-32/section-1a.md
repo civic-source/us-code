@@ -1,0 +1,14 @@
+---
+title: "Section 1a - Classification of reports"
+usc_title: 22
+usc_section: "1a"
+chapter: 32
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 1a"
+generated_at: "2026-03-29T00:30:33.803Z"
+---
+
+# § 2394–1a. Classification of reports
+
+All information contained in any report transmitted under this chapter shall be public information. However, in the case of any item of information to be included in any such report that the President, on an extraordinary basis, determines is clearly detrimental to the security of the United States, he shall explain in a supplemental report why publication of each specific item would be detrimental to the security of the United States. A supplemental report shall be transmitted to the Congress at the time the report is transmitted.
+

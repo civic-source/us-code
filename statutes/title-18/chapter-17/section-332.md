@@ -1,0 +1,14 @@
+---
+title: "Section 332 - Debasement of coins; alteration of official scales, or embezzlement of metals"
+usc_title: 18
+usc_section: "332"
+chapter: 17
+current_through: "PL 119-73"
+classification: "18 U.S.C. § 332"
+generated_at: "2026-03-29T00:30:15.611Z"
+---
+
+# § 332. Debasement of coins; alteration of official scales, or embezzlement of metals
+
+If any of the gold or silver coins struck or coined at any of the mints of the United States shall be debased, or made worse as to the proportion of fine gold or fine silver therein contained, or shall be of less weight or value than the same ought to be, pursuant to law, or if any of the scales or weights used at any of the mints or assay offices of the United States shall be defaced, altered, increased, or diminished through the fault or connivance of any officer or person employed at the said mints or assay offices, with a fraudulent intent; or if any such officer or person shall embezzle any of the metals at any time committed to his charge for the purpose of being coined, or any of the coins struck or coined at the said mints, or any medals, coins, or other moneys of said mints or assay offices at any time committed to his charge, or of which he may have assumed the charge, every such officer or person who commits any of the said offenses shall be fined under this title or imprisoned not more than ten years, or both.
+

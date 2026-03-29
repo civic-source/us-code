@@ -1,0 +1,14 @@
+---
+title: "Section 437 - Fort McHenry; restoration and preservation"
+usc_title: 16
+usc_section: "437"
+chapter: 1
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 437"
+generated_at: "2026-03-29T00:29:52.431Z"
+---
+
+# § 437. Fort McHenry; restoration and preservation
+
+The Secretary of the Interior is authorized and directed to begin the restoration of Fort McHenry, in the State of Maryland, including the restoration of the old Fort McHenry proper to such a condition as would make it suitable for preservation permanently as a national monument and perpetual national memorial shrine as the birthplace of the immortal “Star-Spangled Banner” written by Francis Scott Key, and he is further authorized and directed, as are his successors, to hold the said Fort McHenry in perpetuity as a military reservation, national monument and historic shrine, and to maintain it as such, except that part mentioned in section 439 of this title , and that part in use on March 3, 1925 , by the Department of Commerce for a light and fog-signal station under revocable license from the Interior Department with the maintenance of the electric lines thereto and such portion of the reservation, including improvement, as may be reserved by the Secretary of the Army for the use of the Chief of Engineers, the said reservation to be maintained as a national public monument, subject to such regulations as may from time to time be issued by the Secretary of the Interior.
+

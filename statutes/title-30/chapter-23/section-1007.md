@@ -1,0 +1,15 @@
+---
+title: "Section 1007 - Readjustment of lease terms and conditions"
+usc_title: 30
+usc_section: "1007"
+chapter: 23
+current_through: "PL 119-73"
+classification: "30 U.S.C. § 1007"
+generated_at: "2026-03-29T00:31:30.804Z"
+---
+
+# § 1007. Readjustment of lease terms and conditions
+
+(a) The Secretary may readjust the terms and conditions, except as otherwise provided herein, of any geothermal lease issued under this chapter at not less than ten-year intervals beginning ten years after the date the geothermal steam is produced, as determined by the Secretary. Each geothermal lease issued under this chapter shall provide for such readjustment. The Secretary shall give notice of any proposed readjustment of terms and conditions, and, unless the lessee files with the Secretary objection to the proposed terms or relinquishes the lease within thirty days after receipt of such notice, the lessee shall conclusively be deemed to have agreed with such terms and conditions. If the lessee files objections, and no agreement can be reached between the Secretary and the lessee within a period of not less than sixty days, the lease may be terminated by either party.
+(b) The Secretary may readjust the rentals and royalties of any geothermal lease issued under this chapter at not less than twenty-year intervals beginning thirty-five years after the date geothermal steam is produced, as determined by the Secretary. In the event of any such readjustment neither the rental nor royalty may be increased by more than 50 per centum over the rental or royalty paid during the preceding period. Each geothermal lease issue 1 1 So in original. Probably should be “issued”. under this chapter shall provide for such readjustment. The Secretary shall give notice of any proposed readjustment of rentals and royalties, and, unless the lessee files with the Secretary objection to the proposed rentals and royalties or relinquishes the lease within thirty days after receipt of such notice, the lessee shall conclusively be deemed to have agreed with such terms and conditions. If the lessee files objections, and no agreement can be reached between the Secretary and the lessee within a period of not less than sixty days, the lease may be terminated by either party.
+(c) Any readjustment of the terms and conditions as to use, protection, or restoration of the surface of any lease of lands withdrawn or acquired in aid of a function of a Federal department or agency other than the Department of the Interior may be made only upon notice to, and with the approval of, such department or agency.

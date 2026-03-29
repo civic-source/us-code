@@ -1,0 +1,23 @@
+---
+title: "Section 10334 - Review of applications"
+usc_title: 34
+usc_section: "10334"
+chapter: 101
+current_through: "PL 119-73"
+classification: "34 U.S.C. § 10334"
+generated_at: "2026-03-29T00:32:01.552Z"
+---
+
+# § 10334. Review of applications
+
+(a) An applicant is eligible to receive a grant under this subchapter if—
+  (1) the applicant certifies and the Director determines that there is in effect in the State a law that permits the closed-circuit televising and video taping of testimony of children in criminal proceedings for the violation of laws relating to the abuse of children;
+  (2) the applicant certifies and the Director determines that State law meets the following criteria:
+    (A) the judges determination that a child witness will be traumatized by the presence of the defendant must be made on a case-by-case basis;
+    (B) the trauma suffered must be more than de minimis;
+    (C) the child witness must give his/her statements under oath;
+    (D) the child witness must submit to cross-examination; and
+    (E) the finder of fact must be permitted to observe the demeanor of the child witness in making his or her statement and the defendant must be able to contemporaneously communicate with his defense attorney; and
+  (3) the Director determines that the application submitted under section 10332 of this title or amendment to such application is consistent with the requirements of this chapter.
+(b) Each application or amendment made and submitted for approval to the Director pursuant to section 10333 of this title shall be deemed approved, in whole or in part, by the Director not later than 60 days after first received unless the Director informs the applicant of specific reasons for disapproval.
+(c) The Director shall not finally disapprove any application, or any amendment thereto, submitted to the Director under this section without first affording the applicant reasonable notice and opportunity for reconsideration.

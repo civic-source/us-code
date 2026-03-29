@@ -1,0 +1,14 @@
+---
+title: "Section 18b - Custody of client accounts"
+usc_title: 15
+usc_section: "18b"
+chapter: 2
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 18b"
+generated_at: "2026-03-29T00:29:41.555Z"
+---
+
+# § 80b–18b. Custody of client accounts
+
+An investment adviser registered under this subchapter shall take such steps to safeguard client assets over which such adviser has custody, including, without limitation, verification of such assets by an independent public accountant, as the Commission may, by rule, prescribe.
+

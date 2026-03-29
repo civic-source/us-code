@@ -1,0 +1,18 @@
+---
+title: "Section 742 - Powers and duties of Corporation"
+usc_title: 45
+usc_section: "742"
+chapter: 16
+current_through: "PL 119-73"
+classification: "45 U.S.C. § 742"
+generated_at: "2026-03-29T00:32:59.707Z"
+---
+
+# § 742. Powers and duties of Corporation
+
+The Corporation shall have all of the powers and is subject to all of the duties vested in it under this chapter, in addition to the powers conferred upon it under the laws of the State or States in which it is incorporated and the powers of a railroad in any State in which it operates. The Corporation is authorized and directed to—
+
+(a) acquire rail properties designated in the final system plan to be transferred or conveyed to it;
+(b) operate rail service over such rail properties except as provided under sections 744(e) and 791(d)(3) of this title;
+(c) rehabilitate, improve, and modernize such rail properties; and
+(d) maintain adequate and efficient rail services.

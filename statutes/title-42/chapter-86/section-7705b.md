@@ -1,0 +1,14 @@
+---
+title: "Section 7705b - Seismic standards"
+usc_title: 42
+usc_section: "7705b"
+chapter: 86
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 7705b"
+generated_at: "2026-03-29T00:32:54.099Z"
+---
+
+# § 7705b. Seismic standards
+
+(a) Not later than December 1, 2019 , the Director of the National Institute of Standards and Technology and the Administrator of the Federal Emergency Management Agency shall jointly convene a committee of experts from Federal agencies, nongovernmental organizations, private sector entities, disaster management professional associations, engineering professional associations, and professional construction and homebuilding industry associations, to assess and recommend options for improving the built environment and critical infrastructure to reflect performance goals stated in terms of post-earthquake reoccupancy and functional recovery time.
+(b) Not later than June 30, 2020 , the committee convened under paragraph (1) shall submit to the Committee on Commerce, Science, and Transportation, the Committee on Energy and Natural Resources, and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Science, Space, and Technology, the Committee on Natural Resources, and the Committee on Homeland Security of the House of Representatives a report on recommended options for improving the built environment and critical infrastructure to reflect performance goals stated in terms of post-earthquake reoccupancy and functional recovery time.

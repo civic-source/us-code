@@ -1,0 +1,26 @@
+---
+title: "Section 701 - Application; definitions"
+usc_title: 5
+usc_section: "701"
+chapter: 7
+current_through: "PL 119-73"
+classification: "5 U.S.C. § 701"
+generated_at: "2026-03-29T00:28:38.287Z"
+---
+
+# § 701. Application; definitions
+
+(a) This chapter applies, according to the provisions thereof, except to the extent that—
+  (1) statutes preclude judicial review; or
+  (2) agency action is committed to agency discretion by law.
+(b) For the purpose of this chapter—
+  (1) “agency” means each authority of the Government of the United States, whether or not it is within or subject to review by another agency, but does not include—
+    (A) the Congress;
+    (B) the courts of the United States;
+    (C) the governments of the territories or possessions of the United States;
+    (D) the government of the District of Columbia;
+    (E) agencies composed of representatives of the parties or of representatives of organizations of the parties to the disputes determined by them;
+    (F) courts martial and military commissions;
+    (G) military authority exercised in the field in time of war or in occupied territory; or
+    (H) functions conferred by sections 1738, 1739, 1743, and 1744 of title 12; subchapter II of chapter 471 of title 49; or sections 1884, 1891–1902, and former section 1641(b)(2), of title 50, appendix; 1 1 See References in Text note below. and
+  (2) “person”, “rule”, “order”, “license”, “sanction”, “relief”, and “agency action” have the meanings given them by section 551 of this title .

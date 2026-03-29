@@ -1,0 +1,17 @@
+---
+title: "Section 17 - Examinations and sanctions for certain violations"
+usc_title: 12
+usc_section: "17"
+chapter: 13
+current_through: "PL 119-73"
+classification: "12 U.S.C. § 17"
+generated_at: "2026-03-29T00:29:16.633Z"
+---
+
+# § 1735f–17. Examinations and sanctions for certain violations
+
+(a) 
+  (1) In connection with any examination of a mortgagee approved by the Secretary pursuant to this chapter, the Secretary shall assess the performance of the mortgagee in meeting the requirements of sections 1709(t), 1 1 See References in Text note below. 1715n(a)(7)(B), 1 and 1735f–13 of this title. Where the Secretary determines that a mortgagee is not in compliance with these requirements, the Secretary shall refer the matter to the Mortgagee Review Board for investigation and appropriate action.
+  (2) Not later than 180 days after November 28, 1990 , the Secretary shall by notice establish a procedure under which (A) any person may file a request that the Secretary determine whether a mortgagee is in compliance with sections 1709(t), 1 1715n(a)(7)(B), 1 and 1735f–13 of this title, (B) the Secretary shall inform the person of the disposition of the request, and (C) the Secretary shall publish in the Federal Register the disposition of any case referred by the Secretary to the Mortgagee Review Board. Such procedures shall be established by regulation under section 553 of title 5 . The Secretary shall issue regulations based on the initial notice before the expiration of the 8-month period beginning on the date of the notice.
+  (3) Omitted.
+(b) The Secretary shall continually monitor and undertake a thorough review of the implementation of this section to assess the impact of the section on the lending practices of mortgagees and the availability of mortgages insured under this chapter. The Secretary shall monitor the availability of credit, the number and type of lenders participating in the program, whether there is any change in the composition or practices of such lenders and any other factors the Secretary considers appropriate. The Secretary shall submit to the Congress findings detailing the results of such monitoring and review not later than 18 months after November 28, 1990 .

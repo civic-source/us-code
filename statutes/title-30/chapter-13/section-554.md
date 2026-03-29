@@ -1,0 +1,16 @@
+---
+title: "Section 554 - Lands subject to chapter"
+usc_title: 30
+usc_section: "554"
+chapter: 13
+current_through: "PL 119-73"
+classification: "30 U.S.C. § 554"
+generated_at: "2026-03-29T00:31:30.772Z"
+---
+
+# § 554. Lands subject to chapter
+
+The acts authorized in section 553 of this title may be performed—
+
+(a) on lands owned or controlled by the United States or any of its agencies, with the cooperation of the agency having jurisdiction thereof; and
+(b) on any other lands, upon obtaining proper consent or the necessary rights or interests in such lands: Provided, however , That expenditure of Federal funds for this purpose in any privately owned operating coal mine shall be limited to the acts authorized in section 553(a) of this title .

@@ -1,0 +1,14 @@
+---
+title: "Section 3531 - Congressional declaration of purpose"
+usc_title: 42
+usc_section: "3531"
+chapter: 44
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 3531"
+generated_at: "2026-03-29T00:32:53.838Z"
+---
+
+# § 3531. Congressional declaration of purpose
+
+The Congress hereby declares that the general welfare and security of the Nation and the health and living standards of our people require, as a matter of national purpose, sound development of the Nation’s communities and metropolitan areas in which the vast majority of its people live and work. To carry out such purpose, and in recognition of the increasing importance of housing and urban development in our national life, the Congress finds that establishment of an executive department is desirable to achieve the best administration of the principal programs of the Federal Government which provide assistance for housing and for the development of the Nation’s communities; to assist the President in achieving maximum coordination of the various Federal activities which have a major effect upon urban community, suburban, or metropolitan development; to encourage the solution of problems of housing, urban development, and mass transportation through State, county, town, village, or other local and private action, including promotion of interstate, regional, and metropolitan cooperation; to encourage the maximum contributions that may be made by vigorous private homebuilding and mortgage lending industries to housing, urban development, and the national economy; and to provide for full and appropriate consideration, at the national level, of the needs and interests of the Nation’s communities and of the people who live and work in them.
+

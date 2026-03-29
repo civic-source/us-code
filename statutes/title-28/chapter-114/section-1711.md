@@ -1,0 +1,20 @@
+---
+title: "Section 1711 - Definitions"
+usc_title: 28
+usc_section: "1711"
+chapter: 114
+current_through: "PL 119-73"
+classification: "28 U.S.C. § 1711"
+generated_at: "2026-03-29T00:31:24.186Z"
+---
+
+# § 1711. Definitions
+
+In this chapter:
+
+  (1) The term “class” means all of the class members in a class action.
+  (2) The term “class action” means any civil action filed in a district court of the United States under rule 23 of the Federal Rules of Civil Procedure or any civil action that is removed to a district court of the United States that was originally filed under a State statute or rule of judicial procedure authorizing an action to be brought by 1 or more representatives as a class action.
+  (3) The term “class counsel” means the persons who serve as the attorneys for the class members in a proposed or certified class action.
+  (4) The term “class members” means the persons (named or unnamed) who fall within the definition of the proposed or certified class in a class action.
+  (5) The term “plaintiff class action” means a class action in which class members are plaintiffs.
+  (6) The term “proposed settlement” means an agreement regarding a class action that is subject to court approval and that, if approved, would be binding on some or all class members.

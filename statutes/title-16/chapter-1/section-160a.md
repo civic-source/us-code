@@ -1,0 +1,14 @@
+---
+title: "Section 160a - Establishment; notice in Federal Register; donation of lands; acquisition by purchase of other lands"
+usc_title: 16
+usc_section: "160a"
+chapter: 1
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 160a"
+generated_at: "2026-03-29T00:29:52.309Z"
+---
+
+# § 160a. Establishment; notice in Federal Register; donation of lands; acquisition by purchase of other lands
+
+In furtherance of the purpose of this subchapter, the Secretary of the Interior (hereinafter referred to as the “Secretary”) is authorized to establish the Voyageurs National Park (hereinafter referred to as the “park”) in the State of Minnesota, by publication of notice to that effect in the Federal Register at such time as the Secretary deems sufficient interests in lands or waters have been acquired for administration in accordance with the purposes of this subchapter: Provided , That the Secretary shall not establish the park until the lands owned by the State of Minnesota and any of its political subdivisions within the boundaries shall have been donated to the Secretary for the purposes of the park: Provided further , That the Secretary shall not acquire other lands by purchase for the park prior to such donation unless he finds that acquisition is necessary to prevent irreparable changes in their uses or character of such a nature as to make them unsuitable for park purposes and notifies the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives of such findings at least thirty days prior to such acquisition.
+

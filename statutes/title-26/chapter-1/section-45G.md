@@ -1,0 +1,31 @@
+---
+title: "Section 45G - Railroad track maintenance credit"
+usc_title: 26
+usc_section: "45G"
+chapter: 1
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 45G"
+generated_at: "2026-03-29T00:31:20.580Z"
+---
+
+# § 45G. Railroad track maintenance credit
+
+(a) For purposes of section 38, the railroad track maintenance credit determined under this section for the taxable year is an amount equal to 40 percent (50 percent in the case of any taxable year beginning before January 1, 2023 ) of the qualified railroad track maintenance expenditures paid or incurred by an eligible taxpayer during the taxable year.
+(b) 
+  (1) The credit allowed under subsection (a) for any taxable year shall not exceed the product of—
+    (A) $3,500, multiplied by
+    (B) the sum of—
+      (i) the number of miles of railroad track owned or leased by the eligible taxpayer as of the close of the taxable year, and
+      (ii) the number of miles of railroad track assigned for purposes of this subsection to the eligible taxpayer by a Class II or Class III railroad which owns or leases such railroad track as of the close of the taxable year.
+  (2) With respect to any assignment of a mile of railroad track under paragraph (1)(B)(ii)—
+    (A) such assignment may be made only once per taxable year of the Class II or Class III railroad and shall be treated as made as of the close of such taxable year,
+    (B) such mile may not be taken into account under this section by such railroad for such taxable year, and
+    (C) such assignment shall be taken into account for the taxable year of the assignee which includes the date that such assignment is treated as effective.
+(c) For purposes of this section, the term “eligible taxpayer” means—
+  (1) any Class II or Class III railroad, and
+  (2) any person who transports property using the rail facilities of a Class II or Class III railroad or who furnishes railroad-related property or services to a Class II or Class III railroad, but only with respect to miles of railroad track assigned to such person by such Class II or Class III railroad for purposes of subsection (b).
+(d) For purposes of this section, the term “qualified railroad track maintenance expenditures” means gross expenditures (whether or not otherwise chargeable to capital account) for maintaining railroad track (including roadbed, bridges, and related track structures) owned or leased as of January 1, 2015 , by a Class II or Class III railroad (determined without regard to any consideration for such expenditures given by the Class II or Class III railroad which made the assignment of such track).
+(e) 
+  (1) For purposes of this section, the terms “Class II railroad” and “Class III railroad” have the respective meanings given such terms by the Surface Transportation Board.
+  (2) Rules similar to the rules of paragraph (1) of section 41(f) shall apply for purposes of this section.
+  (3) For purposes of this subtitle, if a credit is allowed under this section with respect to any railroad track, the basis of such track shall be reduced by the amount of the credit so allowed.

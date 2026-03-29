@@ -1,0 +1,14 @@
+---
+title: "Section 5307 - Authorization of appropriations"
+usc_title: 15
+usc_section: "5307"
+chapter: 79
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 5307"
+generated_at: "2026-03-29T00:29:41.875Z"
+---
+
+# § 5307. Authorization of appropriations
+
+There are authorized to be appropriated to the Secretary for carrying out this chapter $5,000,000 for each of the fiscal years 1991, 1992, 1993, 1994, 1995, 1996, and 1997, to be derived from such sums as are otherwise authorized under section 13451(e) of title 42 .
+

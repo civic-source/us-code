@@ -1,0 +1,19 @@
+---
+title: "Section 3501 - Number of passengers"
+usc_title: 46
+usc_section: "3501"
+chapter: 35
+current_through: "PL 119-73"
+classification: "46 U.S.C. § 3501"
+generated_at: "2026-03-29T00:33:02.844Z"
+---
+
+# § 3501. Number of passengers
+
+(a) Each certificate of inspection issued to a vessel carrying passengers (except a ferry) shall include a statement on the number of passengers that the vessel is permitted to carry.
+(b) The owner, charterer, managing operator, agent, master, or individual in charge of a vessel is liable to a person suing them for carrying more passengers than the number of passengers permitted by the certificate of inspection in an amount equal to—
+  (1) passage money; and
+  (2) $100 for each passenger in excess of the number of passengers permitted.
+(c) An owner, charterer, managing operator, agent, master, or individual in charge of a vessel that knowingly carries more passengers than the number of passengers permitted by the certificate of inspection also shall be fined not more than $100, imprisoned for not more than 30 days, or both.
+(d) The vessel also is liable in rem for a penalty under this section.
+(e) An offshore supply vessel may not carry passengers except in an emergency.

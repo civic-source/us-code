@@ -1,0 +1,132 @@
+---
+title: "Section 263A - Capitalization and inclusion in inventory costs of certain expenses"
+usc_title: 26
+usc_section: "263A"
+chapter: 1
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 263A"
+generated_at: "2026-03-29T00:31:20.679Z"
+---
+
+# § 263A. Capitalization and inclusion in inventory costs of certain expenses
+
+(a) 
+  (1) In the case of any property to which this section applies, any costs described in paragraph (2)—
+    (A) in the case of property which is inventory in the hands of the taxpayer, shall be included in inventory costs, and
+    (B) in the case of any other property, shall be capitalized.
+  (2) The costs described in this paragraph with respect to any property are—
+    (A) the direct costs of such property, and
+    (B) such property’s proper share of those indirect costs (including taxes) part or all of which are allocable to such property.
+(b) Except as otherwise provided in this section, this section shall apply to—
+  (1) Real or tangible personal property produced by the taxpayer.
+  (2) Real or personal property described in section 1221(a)(1) which is acquired by the taxpayer for resale.
+(c) 
+  (1) This section shall not apply to any property produced by the taxpayer for use by the taxpayer other than in a trade or business or an activity conducted for profit.
+  (2) This section shall not apply to any amount allowable as a deduction under section 174 or 174A.
+  (3) This section shall not apply to any cost allowable as a deduction under section 167(h), 179B, 263(c), 263(i), 291(b)(2), 616, or 617.
+  (4) This section shall not apply to any property produced by the taxpayer pursuant to a long-term contract.
+  (5) This section shall not apply to—
+    (A) trees raised, harvested, or grown by the taxpayer other than trees described in clause (ii) of subsection (e)(4)(B) (after application of the last sentence thereof), and
+    (B) any real property underlying such trees.
+  (6) Paragraphs (2) and (3) shall apply to any amount allowable as a deduction under section 59(e) for qualified expenditures described in subparagraphs (B), (C), (D), and (E) of paragraph (2) thereof.
+  (7) This section shall not apply to any amount allowed as a deduction by reason of section 168(k)(5) (relating to special rules for certain plants bearing fruits and nuts).
+(d) 
+  (1) 
+    (A) This section shall not apply to any of the following which is produced by the taxpayer in a farming business:
+      (i) Any animal.
+      (ii) Any plant which has a preproductive period of 2 years or less.
+    (B) Subparagraph (A) shall not apply to any corporation, partnership, or tax shelter required to use an accrual method of accounting under section 447 or 448(a)(3).
+  (2) 
+    (A) If plants bearing an edible crop for human consumption were lost or damaged (while in the hands of the taxpayer) by reason of freezing temperatures, disease, drought, pests, or casualty, this section shall not apply to any costs of the taxpayer of replanting plants bearing the same type of crop (whether on the same parcel of land on which such lost or damaged plants were located or any other parcel of land of the same acreage in the United States).
+    (B) Subparagraph (A) shall apply to amounts paid or incurred by a person (other than the taxpayer described in subparagraph (A)) if—
+      (i) the taxpayer described in subparagraph (A) has an equity interest of more than 50 percent in the plants described in subparagraph (A) at all times during the taxable year in which such amounts were paid or incurred, and
+      (ii) such other person holds any part of the remaining equity interest and materially participates in the planting, maintenance, cultivation, or development of the plants described in subparagraph (A) during the taxable year in which such amounts were paid or incurred.
+    (C) 
+      (i) In the case of the replanting of citrus plants, subparagraph (A) shall apply to amounts paid or incurred by a person (other than the taxpayer described in subparagraph (A)) if—
+        (I) the taxpayer described in subparagraph (A) has an equity interest of not less than 50 percent in the replanted citrus plants at all times during the taxable year in which such amounts were paid or incurred and such other person holds any part of the remaining equity interest, or
+        (II) such other person acquired the entirety of such taxpayer’s equity interest in the land on which the lost or damaged citrus plants were located at the time of such loss or damage, and the replanting is on such land.
+      (ii) Clause (i) shall not apply to any cost paid or incurred after the date which is 10 years after the date of the enactment of the Tax Cuts and Jobs Act.
+  (3) 
+    (A) If a taxpayer makes an election under this paragraph, this section shall not apply to any plant produced in any farming business carried on by such taxpayer.
+    (B) No election may be made under this paragraph by a corporation, partnership, or tax shelter, if such corporation, partnership, or tax shelter is required to use an accrual method of accounting under section 447 or 448(a)(3).
+    (C) An election under this paragraph shall not apply with respect to any item which is attributable to the planting, cultivation, maintenance, or development of any citrus or almond grove (or part thereof) and which is incurred before the close of the 4th taxable year beginning with the taxable year in which the trees were planted. For purposes of the preceding sentence, the portion of a citrus or almond grove planted in 1 taxable year shall be treated separately from the portion of such grove planted in another taxable year.
+    (D) Unless the Secretary otherwise consents, an election under this paragraph may be made only for the taxpayer’s 1st taxable year which begins after December 31, 1986 , and during which the taxpayer engages in a farming business. Any such election, once made, may be revoked only with the consent of the Secretary.
+(e) 
+  (1) 
+    (A) In the case of any plant with respect to which amounts would have been capitalized under subsection (a) but for an election under subsection (d)(3)—
+      (i) such plant (if not otherwise section 1245 property) shall be treated as section 1245 property, and
+      (ii) for purposes of section 1245, the recapture amount shall be treated as a deduction allowed for depreciation with respect to such property.
+    (B) For purposes of subparagraph (A), the term “recapture amount” means any amount allowable as a deduction to the taxpayer which, but for an election under subsection (d)(3), would have been capitalized with respect to the plant.
+  (2) 
+    (A) If the taxpayer (or any related person) makes an election under subsection (d)(3), the provisions of section 168(g)(2) (relating to alternative depreciation) shall apply to all property of the taxpayer used predominantly in the farming business and placed in service in any taxable year during which any such election is in effect.
+    (B) For purposes of subparagraph (A), the term “related person” means—
+      (i) the taxpayer and members of the taxpayer’s family,
+      (ii) any corporation (including an S corporation) if 50 percent or more (in value) of the stock of such corporation is owned (directly or through the application of section 318) by the taxpayer or members of the taxpayer’s family,
+      (iii) a corporation and any other corporation which is a member of the same controlled group described in section 1563(a)(1), and
+      (iv) any partnership if 50 percent or more (in value) of the interests in such partnership is owned directly or indirectly by the taxpayer or members of the taxpayer’s family.
+    (C) For purposes of this paragraph, the term “family” means the taxpayer, the spouse of the taxpayer, and any of their children who have not attained age 18 before the close of the taxable year.
+  (3) 
+    (A) For purposes of this section, the term “preproductive period” means—
+      (i) in the case of a plant which will have more than 1 crop or yield, the period before the 1st marketable crop or yield from such plant, or
+      (ii) in the case of any other plant, the period before such plant is reasonably expected to be disposed of.
+    (B) In the case of a plant grown in commercial quantities in the United States, the preproductive period for such plant if grown in the United States shall be based on the nationwide weighted average preproductive period for such plant.
+  (4) For purposes of this section—
+    (A) The term “farming business” means the trade or business of farming.
+    (B) The term “farming business” shall include the trade or business of—
+      (i) operating a nursery or sod farm, or
+      (ii) the raising or harvesting of trees bearing fruit, nuts, or other crops, or ornamental trees.
+  (5) The Secretary shall by regulations permit the taxpayer to use reasonable inventory valuation methods to compute the amount required to be capitalized under subsection (a) in the case of any plant.
+(f) 
+  (1) Subsection (a) shall only apply to interest costs which are—
+    (A) paid or incurred during the production period, and
+    (B) allocable to property which is described in subsection (b)(1) and which has—
+      (i) a long useful life,
+      (ii) an estimated production period exceeding 2 years, or
+      (iii) an estimated production period exceeding 1 year and a cost exceeding $1,000,000.
+  (2) 
+    (A) In determining the amount of interest required to be capitalized under subsection (a) with respect to any property—
+      (i) interest on any indebtedness directly attributable to production expenditures with respect to such property shall be assigned to such property, and
+      (ii) interest on any other indebtedness shall be assigned to such property to the extent that the taxpayer’s interest costs could have been reduced if production expenditures (not attributable to indebtedness described in clause (i)) had not been incurred.
+    (B) Subparagraph (A) shall not apply to any qualified residence interest (within the meaning of section 163(h)).
+    (C) Except as provided in regulations, in the case of any flow-through entity, this paragraph shall be applied first at the entity level and then at the beneficiary level.
+  (3) This subsection shall apply to any interest on indebtedness allocable (as determined under paragraph (2)) to property used to produce property to which this subsection applies to the extent such interest is allocable (as so determined) to the produced property.
+  (4) For purposes of this subsection, the production period shall not include the aging period for—
+    (A) beer (as defined in section 5052(a)),
+    (B) wine (as described in section 5041(a)), or
+    (C) distilled spirits (as defined in section 5002(a)(8)), except such spirits that are unfit for use for beverage purposes.
+  (5) For purposes of this subsection—
+    (A) Property has a long useful life if such property is—
+      (i) real property, or
+      (ii) property with a class life of 20 years or more (as determined under section 168).
+    (B) The term “production period” means, when used with respect to any property, the period—
+      (i) beginning on the date on which production of the property begins, and
+      (ii) except as provided in paragraph (4), ending on the date on which the property is ready to be placed in service or is ready to be held for sale.
+    (C) The term “production expenditures” means the costs (whether or not incurred during the production period) required to be capitalized under subsection (a) with respect to the property.
+(g) For purposes of this section—
+  (1) The term “produce” includes construct, build, install, manufacture, develop, or improve.
+  (2) The taxpayer shall be treated as producing any property produced for the taxpayer under a contract with the taxpayer; except that only costs paid or incurred by the taxpayer (whether under such contract or otherwise) shall be taken into account in applying subsection (a) to the taxpayer.
+(h) 
+  (1) Nothing in this section shall require the capitalization of any qualified creative expense.
+  (2) For purposes of this subsection, the term “qualified creative expense” means any expense—
+    (A) which is paid or incurred by an individual in the trade or business of such individual (other than as an employee) of being a writer, photographer, or artist, and
+    (B) which, without regard to this section, would be allowable as a deduction for the taxable year.
+  (3) For purposes of this subsection—
+    (A) The term “writer” means any individual if the personal efforts of such individual create (or may reasonably be expected to create) a literary manuscript, musical composition (including any accompanying words), or dance score.
+    (B) The term “photographer” means any individual if the personal efforts of such individual create (or may reasonably be expected to create) a photograph or photographic negative or transparency.
+    (C) 
+      (i) The term “artist” means any individual if the personal efforts of such individual create (or may reasonably be expected to create) a picture, painting, sculpture, statue, etching, drawing, cartoon, graphic design, or original print edition.
+      (ii) In determining whether any expense is paid or incurred in the trade or business of being an artist, the following criteria shall be taken into account:
+        (I) The originality and uniqueness of the item created (or to be created).
+        (II) The predominance of aesthetic value over utilitarian value of the item created (or to be created).
+    (D) 
+      (i) If—
+        (I) substantially all of the stock of a corporation is owned by a qualified employee-owner and members of his family (as defined in section 267(c)(4)), and
+        (II) the principal activity of such corporation is performance of personal services directly related to the activities of the qualified employee-owner and such services are substantially performed by the qualified employee-owner,
+      (ii) For purposes of this subparagraph, the term “qualified employee-owner” means any individual who is an employee-owner of the corporation (as defined in section 269A(b)(2)) and who is a writer, photographer, or artist.
+(i) 
+  (1) In the case of any taxpayer (other than a tax shelter prohibited from using the cash receipts and disbursements method of accounting under section 448(a)(3)) which meets the gross receipts test of section 448(c) for any taxable year, this section shall not apply with respect to such taxpayer for such taxable year.
+  (2) In the case of any taxpayer which is not a corporation or a partnership, the gross receipts test of section 448(c) shall be applied in the same manner as if each trade or business of such taxpayer were a corporation or partnership.
+  (3) Any change in method of accounting made pursuant to this subsection shall be treated for purposes of section 481 as initiated by the taxpayer and made with the consent of the Secretary.
+(j) The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including—
+  (1) regulations to prevent the use of related parties, pass-thru entities, or intermediaries to avoid the application of this section, and
+  (2) regulations providing for simplified procedures for the application of this section in the case of property described in subsection (b)(2).

@@ -1,0 +1,14 @@
+---
+title: "Section 3985 - Temporary details"
+usc_title: 22
+usc_section: "3985"
+chapter: 52
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 3985"
+generated_at: "2026-03-29T00:30:33.898Z"
+---
+
+# § 3985. Temporary details
+
+A period of duty of not more than six months in duration by a member of the Service shall be considered a temporary detail and shall not be considered an assignment within the meaning of this subchapter.
+

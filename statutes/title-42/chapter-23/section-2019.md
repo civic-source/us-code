@@ -1,0 +1,14 @@
+---
+title: "Section 2019 - Applicability of Federal Power Act"
+usc_title: 42
+usc_section: "2019"
+chapter: 23
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 2019"
+generated_at: "2026-03-29T00:32:53.736Z"
+---
+
+# § 2019. Applicability of Federal Power Act
+
+Every licensee under this chapter who holds a license from the Commission for a utilization or production facility for the generation of commercial electric energy under section 2133 of this title and who transmits such electric energy in interstate commerce or sells it at wholesale in interstate commerce shall be subject to the regulatory provisions of the Federal Power Act [ 16 U.S.C. 791a et seq.].
+

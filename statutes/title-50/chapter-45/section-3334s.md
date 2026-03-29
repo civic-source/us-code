@@ -1,0 +1,31 @@
+---
+title: "Section 3334s - Programs for next-generation microelectronics in support of artificial intelligence"
+usc_title: 50
+usc_section: "3334s"
+chapter: 45
+current_through: "PL 119-73"
+classification: "50 U.S.C. § 3334s"
+generated_at: "2026-03-29T00:33:18.198Z"
+---
+
+# § 3334s. Programs for next-generation microelectronics in support of artificial intelligence
+
+(a) Subject to the availability of appropriations, the Director of National Intelligence, acting through the Director of the Intelligence Advanced Research Projects Activity, shall establish or otherwise oversee a program to advance microelectronics research.
+(b) The Director of National Intelligence shall ensure that the research carried out under the program established under subsection (a) is focused on the following:
+  (1) Advanced engineering and applied research into next-generation computing models, materials, devices, architectures, and algorithms to enable the advancement of artificial intelligence and machine learning.
+  (2) Efforts to—
+    (A) overcome challenges with engineering and applied research of microelectronics, including with respect to the physical limits on transistors, electrical interconnects, and memory elements; 1 1 So in original. Probably should be followed by “and”.
+    (B) promote long-term advancements in computing technologies, including by fostering a unified and multidisciplinary approach encompassing research and development into—
+      (i) next-generation algorithm design;
+      (ii) next-generation compute capability;
+      (iii) generative and adaptive artificial intelligence for design applications;
+      (iv) photonics-based microprocessors, including electrophotonics;
+      (v) the chemistry and physics of new materials;
+      (vi) optical communication networks, including electrophotonics; and
+      (vii) safety and controls for generative artificial intelligence applications for the intelligence community.
+  (3) Any other activity the Director determines would promote the development of microelectronics research for future technologies, including optical communications or quantum technologies.
+(c) In carrying out the program established under subsection (a), the Director of National Intelligence shall—
+  (1) consider the national strategy developed pursuant to subsection (a)(3)(A)(i) of section 4656 of title 15 ;
+  (2) consult with the Secretary of Commerce; and
+  (3) actively collaborate with relevant Government agencies and programs, including the programs established under subsection 2 2 So in original. Probably should be “subsections”. (c), (d), (e), and (f) of such section 4656 of title 15 , academic institutions, and private industry to leverage expertise and resources in conducting research.
+(d) Amounts authorized to be appropriated for the National Intelligence Program of the Office of the Director of National Intelligence may be made available to carry out the program established under subsection (a).

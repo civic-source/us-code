@@ -1,0 +1,14 @@
+---
+title: "Section 2302 - Utilization of defense articles and defense services"
+usc_title: 22
+usc_section: "2302"
+chapter: 32
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 2302"
+generated_at: "2026-03-29T00:30:33.785Z"
+---
+
+# § 2302. Utilization of defense articles and defense services
+
+Defense articles and defense services to any country shall be furnished solely for internal security (including for antiterrorism and nonproliferation purposes), for legitimate self-defense, to permit the recipient country to participate in regional or collective arrangements or measures consistent with the Charter of the United Nations, or otherwise to permit the recipient country to participate in collective measures requested by the United Nations for the purpose of maintaining or restoring international peace and security, or for the purpose of assisting foreign military forces in less developed friendly countries (or the voluntary efforts of personnel of the Armed Forces of the United States in such countries) to construct public works and to engage in other activities helpful to the economic and social development of such friendly countries. It is the sense of the Congress that such foreign military forces should not be maintained or established solely for civic action activities and that such civic action activities not significantly detract from the capability of the military forces to perform their military missions and be coordinated with and form part of the total economic and social development effort.
+

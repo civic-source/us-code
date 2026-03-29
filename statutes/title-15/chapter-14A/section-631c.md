@@ -1,0 +1,28 @@
+---
+title: "Section 631c - Small Business Manufacturing Task Force"
+usc_title: 15
+usc_section: "631c"
+chapter: 14
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 631c"
+generated_at: "2026-03-29T00:29:41.581Z"
+---
+
+# § 631c. Small Business Manufacturing Task Force
+
+(a) The Administrator of the Small Business Administration (referred to in this subtitle 1 1 See References in Text note below. as the “Administrator”) shall establish a Small Business Manufacturing Task Force (referred to in this section as the “Task Force”) to address the concerns of small manufacturers.
+(b) The Administrator shall assign a member of the Task Force to serve as chair of the Task Force.
+(c) The Task Force shall—
+  (1) evaluate and identify whether programs and services are sufficient to serve the needs of small manufacturers;
+  (2) actively promote the programs and services of the Small Business Administration that serve small manufacturers; and
+  (3) identify and study the unique conditions facing small manufacturers and develop and propose policy initiatives to support and assist small manufacturers.
+(d) 
+  (1) The Task Force shall meet not less than 4 times per year, and more frequently if necessary to perform its duties.
+  (2) A majority of the members of the Task Force shall constitute a quorum to approve recommendations or reports.
+(e) 
+  (1) Each member of the Task Force shall serve without compensation in addition to that received for services rendered as an officer or employee of the United States.
+  (2) Any employee of the Small Business Administration may be detailed to the Task Force without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
+(f) Not later than 1 year after December 8, 2004 , and annually thereafter, the Task Force shall submit a report containing the findings and recommendations of the task force to—
+  (1) the President;
+  (2) the Committee on Small Business and Entrepreneurship of the Senate; and
+  (3) the Committee on Small Business of the House of Representatives.

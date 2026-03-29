@@ -1,0 +1,32 @@
+---
+title: "Section 1975a - Duties of Commission"
+usc_title: 42
+usc_section: "1975a"
+chapter: 20
+current_through: "PL 119-73"
+classification: "42 U.S.C. § 1975a"
+generated_at: "2026-03-29T00:32:53.717Z"
+---
+
+# § 1975a. Duties of Commission
+
+(a) The Commission—
+  (1) shall investigate allegations in writing under oath or affirmation relating to deprivations—
+    (A) because of color, race, religion, sex, age, disability, or national origin; or
+    (B) as a result of any pattern or practice of fraud;
+  (2) shall—
+    (A) study and collect information relating to;
+    (B) make appraisals of the laws and policies of the Federal Government with respect to;
+    (C) serve as a national clearinghouse for information relating to; and
+    (D) prepare public service announcements and advertising campaigns to discourage;
+(b) Nothing in this chapter or any other Act shall be construed as authorizing the Commission, its advisory committees, or any person under its supervision or control, to inquire into or investigate any membership practices or internal operations of any fraternal organization, any college or university fraternity or sorority, any private club, or any religious organization.
+(c) 
+  (1) The Commission shall submit to the President and Congress at least one report annually that monitors Federal civil rights enforcement efforts in the United States.
+  (2) The Commission shall submit such other reports to the President and the Congress as the Commission, the Congress, or the President shall deem appropriate.
+(d) The Commission may constitute such advisory committees as it deems advisable. The Commission shall establish at least one such committee in each State and the District of Columbia composed of citizens of that State or District.
+(e) 
+  (1) The Commission, or on the authorization of the Commission, any subcommittee of two or more members of the Commission, at least one of whom shall be of each major political party, may, for the purpose of carrying out this chapter, hold such hearings and act at such times and places as the Commission or such authorized subcommittee deems advisable. Each member of the Commission shall have the power to administer oaths and affirmations in connection with the proceedings of the Commission. The holding of a hearing by the Commission or the appointment of a subcommittee to hold a hearing pursuant to this paragraph must be approved by a majority of the Commission, or by a majority of the members present at a meeting when a quorum is present.
+  (2) The Commission may issue subpoenas for the attendance of witnesses and the production of written or other matter. Such a subpoena may not require the presence of a witness more than 100 miles outside the place wherein the witness is found or resides or is domiciled or transacts business, or has appointed an agent for receipt of service of process. In case of contumacy or refusal to obey a subpoena, the Attorney General may in a Federal court of appropriate jurisdiction obtain an appropriate order to enforce the subpoena.
+  (3) A witness attending any proceeding of the Commission shall be paid the same fees and mileage that are paid witnesses in the courts of the United States.
+  (4) The Commission may use depositions and written interrogatories to obtain information and testimony about matters that are the subject of a Commission hearing or report.
+(f) Nothing in this chapter or any other Act shall be construed as authorizing the Commission, its advisory committees, or any other person under its supervision or control to study and collect, make appraisals of, or serve as a clearinghouse for any information about laws and policies of the Federal Government or any other governmental authority in the United States, with respect to abortion.

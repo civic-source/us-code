@@ -1,0 +1,14 @@
+---
+title: "Section 3969 - Salaries of consular agents"
+usc_title: 22
+usc_section: "3969"
+chapter: 52
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 3969"
+generated_at: "2026-03-29T00:30:33.897Z"
+---
+
+# § 3969. Salaries of consular agents
+
+The Secretary of State shall establish the salary rate for each consular agent. Such salary rate shall be established after taking into account the workload of the consular agency and the prevailing wage rates in the locality where the agency is located, except that, in the case of a consular agent who is a citizen of the United States, the salary rate may not be less than the then applicable minimum wage rate specified in section 206(a)(1) of title 29 .
+

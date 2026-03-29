@@ -1,0 +1,14 @@
+---
+title: "Section 3223 - Educational scholarship program"
+usc_title: 50
+usc_section: "3223"
+chapter: 44
+current_through: "PL 119-73"
+classification: "50 U.S.C. § 3223"
+generated_at: "2026-03-29T00:33:18.185Z"
+---
+
+# § 3223. Educational scholarship program
+
+The head of a department or agency containing an element of the intelligence community may establish an undergraduate or graduate training program with respect to civilian employees and prospective civilian employees of such element similar in purpose, conditions, content, and administration to the program that the Secretary of Defense is authorized to establish under section 3614 of this title .
+

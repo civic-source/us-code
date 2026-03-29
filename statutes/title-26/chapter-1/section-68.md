@@ -1,0 +1,16 @@
+---
+title: "Section 68 - Overall limitation on itemized deductions"
+usc_title: 26
+usc_section: "68"
+chapter: 1
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 68"
+generated_at: "2026-03-29T00:31:20.609Z"
+---
+
+# § 68. Overall limitation on itemized deductions
+
+(a) In the case of an individual, the amount of the itemized deductions otherwise allowable for the taxable year (determined without regard to this section) shall be reduced by 2 ⁄ 37 of the lesser of—
+  (1) such amount of itemized deductions, or
+  (2) so much of the taxable income of the taxpayer for the taxable year (determined without regard to this section and increased by such amount of itemized deductions) as exceeds the dollar amount at which the 37 percent rate bracket under section 1 begins with respect to the taxpayer.
+(b) This section shall be applied after the application of any other limitation on the allowance of any itemized deduction.

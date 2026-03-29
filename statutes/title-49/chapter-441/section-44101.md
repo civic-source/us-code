@@ -1,0 +1,17 @@
+---
+title: "Section 44101 - Operation of aircraft"
+usc_title: 49
+usc_section: "44101"
+chapter: 441
+current_through: "PL 119-73"
+classification: "49 U.S.C. § 44101"
+generated_at: "2026-03-29T00:33:13.882Z"
+---
+
+# § 44101. Operation of aircraft
+
+(a) Except as provided in subsection (b) of this section, a person may operate an aircraft only when the aircraft is registered under section 44103 of this title .
+(b) A person may operate an aircraft in the United States that is not registered—
+  (1) when authorized under section 40103(d) or 41703 of this title;
+  (2) when it is an aircraft of the national defense forces of the United States and is identified in a way satisfactory to the Administrator of the Federal Aviation Administration; and
+  (3) for a reasonable period of time after a transfer of ownership, under regulations prescribed by the Administrator.

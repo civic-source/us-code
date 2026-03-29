@@ -1,0 +1,14 @@
+---
+title: "Section 1323 - Distribution of fellowships"
+usc_title: 30
+usc_section: "1323"
+chapter: 25
+current_through: "PL 119-73"
+classification: "30 U.S.C. § 1323"
+generated_at: "2026-03-29T00:31:30.827Z"
+---
+
+# § 1323. Distribution of fellowships
+
+In awarding fellowships under the provisions of this subchapter, the Secretary of Energy shall endeavor to provide equitable distribution of such fellowships throughout the Nation, except that the Secretary of Energy shall give special attention to institutions of higher education, libraries, archives, or other research centers which have a demonstrated capacity to offer courses of study or research in the field of energy resources and conservation and conversion and related disciplines. In carrying out his responsibilities under this section, the Secretary of Energy shall take into consideration the projected need for highly trained engineers and scientists in the field of energy sources.
+

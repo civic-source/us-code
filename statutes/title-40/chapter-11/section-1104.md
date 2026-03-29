@@ -1,0 +1,14 @@
+---
+title: "Section 1104 - Negotiation of contract"
+usc_title: 40
+usc_section: "1104"
+chapter: 11
+current_through: "PL 119-73"
+classification: "40 U.S.C. § 1104"
+generated_at: "2026-03-29T00:32:20.542Z"
+---
+
+# § 1104. Negotiation of contract
+
+(a) The agency head shall negotiate a contract for architectural and engineering services at compensation which the agency head determines is fair and reasonable to the Federal Government. In determining fair and reasonable compensation, the agency head shall consider the scope, complexity, professional nature, and estimated value of the services to be rendered.
+(b) The agency head shall attempt to negotiate a contract, as provided in subsection (a), with the most highly qualified firm selected under section 1103 of this title . If the agency head is unable to negotiate a satisfactory contract with the firm, the agency head shall formally terminate negotiations and then undertake negotiations with the next most qualified of the selected firms, continuing the process until an agreement is reached. If the agency head is unable to negotiate a satisfactory contract with any of the selected firms, the agency head shall select additional firms in order of their competence and qualification and continue negotiations in accordance with this section until an agreement is reached.

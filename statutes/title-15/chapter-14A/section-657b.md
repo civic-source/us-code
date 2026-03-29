@@ -1,0 +1,112 @@
+---
+title: "Section 657b - Veterans programs"
+usc_title: 15
+usc_section: "657b"
+chapter: 14
+current_through: "PL 119-73"
+classification: "15 U.S.C. § 657b"
+generated_at: "2026-03-29T00:29:41.631Z"
+---
+
+# § 657b. Veterans programs
+
+(a) There is established in the Administration an Office of Veterans Business Development, which shall be administered by the Associate Administrator for Veterans Business Development (in this section referred to as the “Associate Administrator”) appointed under section 633(b)(1) of this title .
+(b) The Associate Administrator—
+  (1) shall be an appointee in the Senior Executive Service;
+  (2) shall be responsible for the formulation, execution, and promotion of policies and programs of the Administration that provide assistance to small business concerns owned and controlled by veterans and small business concerns owned and controlled by service-disabled veterans. The Associate Administrator shall act as an ombudsman for full consideration of veterans in all programs of the Administration; and
+  (3) shall report to and be responsible directly to the Administrator.
+(c) 
+  (1) Not later than 90 days after February 14, 2008 , the President shall establish an interagency task force to coordinate the efforts of Federal agencies necessary to improve capital and business development opportunities for, and ensure achievement of the pre-established Federal contracting goals for, small business concerns owned and controlled by service-disabled veterans and small business concerns owned and controlled by veterans (in this section referred to as the “task force”).
+  (2) The members of the task force shall include—
+    (A) the Administrator, who shall serve as chairperson of the task force; and
+    (B) a senior level representative from—
+      (i) the Department of Veterans Affairs;
+      (ii) the Department of Defense;
+      (iii) the Administration (in addition to the Administrator);
+      (iv) the Department of Labor;
+      (v) the Department of the Treasury;
+      (vi) the General Services Administration;
+      (vii) the Office of Management and Budget; and
+      (viii) 4 representatives from a veterans service organization or military organization or association, selected by the President.
+  (3) The task force shall—
+    (A) consult regularly with veterans service organizations and military organizations in performing the duties of the task force; and
+    (B) coordinate administrative and regulatory activities and develop proposals relating to—
+      (i) improving capital access and capacity of small business concerns owned and controlled by service-disabled veterans and small business concerns owned and controlled by veterans through loans, surety bonding, and franchising;
+      (ii) ensuring achievement of the pre-established Federal contracting goals for small business concerns owned and controlled by service-disabled veterans and small business concerns owned and controlled by veterans through expanded mentor-protégé assistance and matching such small business concerns with contracting opportunities;
+      (iii) increasing the integrity of certifications of status as a small business concern owned and controlled by service-disabled veterans or a small business concern owned and controlled by veterans;
+      (iv) reducing paperwork and administrative burdens on veterans in accessing business development and entrepreneurship opportunities;
+      (v) increasing and improving training and counseling services provided to small business concerns owned and controlled by veterans; and
+      (vi) making other improvements relating to the support for veterans business development by the Federal Government.
+(d) 
+  (1) The Associate Administrator shall increase veteran outreach by ensuring that Veteran Business Outreach Centers regularly participate, on a nationwide basis, in the workshops of the Transition Assistance Program of the Department of Labor.
+  (2) In carrying out paragraph (1), a Veteran Business Outreach Center may provide grants to entities located in Transition Assistance Program locations to make presentations on the opportunities available from the Administration for recently separating or separated veterans. Each presentation under this paragraph shall include, at a minimum, a description of the entrepreneurial and business training resources available from the Administration.
+  (3) The Associate Administrator shall—
+    (A) create written materials that provide comprehensive information on self-employment and veterans entrepreneurship, including information on resources available from the Administration on such topics; and
+    (B) make the materials created under subparagraph (A) available to the Secretary of Labor for inclusion in the Transition Assistance Program manual.
+  (4) The Associate Administrator shall submit to Congress progress reports on the implementation of this subsection.
+(e) The Associate Administrator shall—
+  (1) compile information on existing resources available to women veterans for business training, including resources for—
+    (A) vocational and technical education;
+    (B) general business skills, such as marketing and accounting; and
+    (C) business assistance programs targeted to women veterans; and
+  (2) disseminate the information compiled under paragraph (1) through Veteran Business Outreach Centers and women’s business centers.
+(f) There are authorized to be appropriated to carry out this section—
+  (1) $1,500,000 for fiscal year 2005; and
+  (2) $2,000,000 for fiscal year 2006.
+(g) 
+  (1) In this subsection—
+    (A) the term “foreign excess property” has the meaning given the term in section 102 of title 40 ; and
+    (B) the term “state agency” has the meaning given the term, including the roles and responsibilities assigned, in section 549 of title 40 .
+  (2) The Administrator, in coordination with the Administrator of General Services, shall provide access to and manage the distribution of surplus property, and foreign excess property returned to a State for handling as surplus property, owned by the United States under chapter 7 of title 40, to small business concerns owned and controlled by veterans (as verified by the Secretary of Veterans Affairs under section 8127 of title 38 ) pursuant to a memorandum of agreement between the Administrator, the Administrator of General Services, and the head of the applicable state agency for surplus properties and in accordance with section 549 of title 40 .
+(h) 
+  (1) In this subsection, the term “covered individual” means—
+    (A) an individual who is participating in the Transition Assistance Program established under section 1144 of title 10 , subject to an availability determination by the Secretary of the military department concerned;
+    (B) a servicemember in the National Guard or Reserves not on active duty. 1 1 So in original. The period probably should be a semicolon.
+    (C) an individual who—
+      (i) served on active duty in any branch of the Armed Forces, including the National Guard or Reserves; and
+      (ii) was discharged or released from such service under conditions other than dishonorable; or
+    (D) a spouse or dependent of an individual described in subparagraph (A), (B), or (C).
+  (2) During the period beginning on December 23, 2024 , and ending on September 30, 2028 , the Administrator shall carry out a program to be known as the “Boots to Business Program” to provide entrepreneurship training to covered individuals.
+  (3) The goals of the Boots to Business Program are to—
+    (A) provide assistance and in-depth training to covered individuals interested in business ownership; and
+    (B) provide covered individuals with the tools, skills, and knowledge necessary to identify a business opportunity, draft a business plan, identify sources of capital, connect with local resources for small business concerns, and start up a small business concern.
+  (4) 
+    (A) The Boots to Business Program may include—
+      (i) a presentation providing exposure to the considerations involved in self-employment and ownership of a small business concern;
+      (ii) an online, self-study course focused on the basic skills of entrepreneurship, the language of business, and the considerations involved in self-employment and ownership of a small business concern;
+      (iii) an in-person classroom instruction component providing an introduction to the foundations of self-employment and ownership of a small business concern; and
+      (iv) in-depth training delivered through online instruction, including an online course that leads to the creation of a business plan.
+    (B) The Administrator may—
+      (i) collaborate with public and private entities to develop course curricula for the Boots to Business Program; and
+      (ii) modify program components in coordination with entities participating in a Warriors in Transition program, as defined in section 738(e) of the National Defense Authorization Act for Fiscal Year 2013 ( 10 U.S.C. 1071 note).
+    (C) 
+      (i) The Administrator shall—
+        (I) ensure that Veteran Business Outreach Centers regularly participate, on a nationwide basis, in the Boots to Business Program; and
+        (II) to the maximum extent practicable, use district offices of the Administration and a variety of other resource partners and entities in administering the Boots to Business Program.
+      (ii) In carrying out clause (i), the Administrator may make grants, subject to the availability of appropriations in advance, to Veteran Business Outreach Centers, other resource partners, or other entities to carry out components of the Boots to Business Program.
+    (D) The Administrator shall make available to the Secretary of Defense and the Secretary of Labor information regarding the Boots to Business Program, including all course materials and outreach materials related to the Boots to Business Program, for inclusion on the websites of the Department of Defense and the Department of Labor relating to the Transition Assistance Program, in the Transition Assistance Program manual, and in other relevant materials available for distribution from the Secretary of Defense and the Secretary of Labor.
+    (E) In consultation with the Secretary of Veterans Affairs, the Administrator shall make available for distribution and display on the website of the Department of Veterans Affairs and at local facilities of the Department of Veterans Affairs outreach materials regarding the Boots to Business Program, which shall, at a minimum—
+      (i) describe the Boots to Business Program and the services provided; and
+      (ii) include eligibility requirements for participating in the Boots to Business Program.
+    (F) The Administrator shall ensure information regarding the Boots to Business Program, including all course materials and outreach materials related to the Boots to Business Program, is made available to other participating agencies in the Transition Assistance Program and upon request of other agencies.
+  (5) The Administration shall use relevant competitive bidding procedures with respect to any contract or cooperative agreement executed by the Administration under the Boots to Business Program.
+  (6) Not later than 30 days before the deadline for submitting applications for any funding opportunity under the Boots to Business Program, the Administration shall publish a notice of the funding opportunity.
+  (7) Not later than 180 days after December 23, 2024 , and not less frequently than annually thereafter, the Administrator shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report on the performance and effectiveness of the Boots to Business Program, which—
+    (A) may be included as part of another report submitted to such committees by the Administrator related to the Office of Veterans Business Development; and
+    (B) shall summarize available information relating to—
+      (i) grants awarded under paragraph (4)(C);
+      (ii) the total cost of the Boots to Business Program;
+      (iii) the number of program participants using each component of the Boots to Business Program;
+      (iv) the completion rates for each component of the Boots to Business Program;
+      (v) to the extent possible—
+        (I) the demographics of program participants, to include gender, age, race, ethnicity, and relationship to military;
+        (II) the number of program participants that connect with a district office of the Administration, a Veteran Business Outreach Center, or another resource partner of the Administration;
+        (III) the number of program participants that start a small business concern;
+        (IV) the results of the Boots to Business and Boots to Business Reboot course quality surveys conducted by the Office of Veterans Business Development before and after attending each of those courses, including a summary of any comments received from program participants;
+        (V) the results of the Boots to Business Program outcome surveys conducted by the Office of Veterans Business Development, including a summary of any comments received from program participants; and
+        (VI) the results of other germane participant satisfaction surveys;
+    (C) an evaluation of the overall effectiveness of the Boots to Business Program based on each geographic region covered by the Administration during the most recent fiscal year;
+    (D) an assessment of additional performance outcome measures for the Boots to Business Program, as identified by the Administrator;
+    (E) any recommendations of the Administrator for improvement of the Boots to Business Program, which may include expansion of the types of individuals who are covered individuals;
+    (F) an explanation of how the Boots to Business Program has been integrated with other transition programs and related resources of the Administration and other Federal agencies; and
+    (G) any additional information the Administrator determines necessary.

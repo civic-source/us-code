@@ -1,0 +1,23 @@
+---
+title: "Section 6332 - Surrender of property subject to levy"
+usc_title: 26
+usc_section: "6332"
+chapter: 64
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 6332"
+generated_at: "2026-03-29T00:31:21.048Z"
+---
+
+# § 6332. Surrender of property subject to levy
+
+(a) Except as otherwise provided in this section, any person in possession of (or obligated with respect to) property or rights to property subject to levy upon which a levy has been made shall, upon demand of the Secretary, surrender such property or rights (or discharge such obligation) to the Secretary, except such part of the property or rights as is, at the time of such demand, subject to an attachment or execution under any judicial process.
+(b) 
+  (1) A levy on an organization with respect to a life insurance or endowment contract issued by such organization shall, without necessity for the surrender of the contract document, constitute a demand by the Secretary for payment of the amount described in paragraph (2) and the exercise of the right of the person against whom the tax is assessed to the advance of such amount. Such organization shall pay over such amount 90 days after service of notice of levy. Such notice shall include a certification by the Secretary that a copy of such notice has been mailed to the person against whom the tax is assessed at his last known address.
+  (2) Such levy shall be deemed to be satisfied if such organization pays over to the Secretary the amount which the person against whom the tax is assessed could have had advanced to him by such organization on the date prescribed in paragraph (1) for the satisfaction of such levy, increased by the amount of any advance (including contractual interest thereon) made to such person on or after the date such organization had actual notice or knowledge (within the meaning of section 6323(i)(1)) of the existence of the lien with respect to which such levy is made, other than an advance (including contractual interest thereon) made automatically to maintain such contract in force under an agreement entered into before such organization had such notice or knowledge.
+  (3) The satisfaction of a levy under paragraph (2) shall be without prejudice to any civil action for the enforcement of any lien imposed by this title with respect to such contract.
+(c) Any bank (as defined in section 408(n)) shall surrender (subject to an attachment or execution under judicial process) any deposits (including interest thereon) in such bank only after 21 days after service of levy.
+(d) 
+  (1) Any person who fails or refuses to surrender any property or rights to property, subject to levy, upon demand by the Secretary, shall be liable in his own person and estate to the United States in a sum equal to the value of the property or rights not so surrendered, but not exceeding the amount of taxes for the collection of which such levy has been made, together with costs and interest on such sum at the underpayment rate established under section 6621 from the date of such levy (or, in the case of a levy described in section 6331(d)(3), from the date such person would otherwise have been obligated to pay over such amounts to the taxpayer). Any amount (other than costs) recovered under this paragraph shall be credited against the tax liability for the collection of which such levy was made.
+  (2) In addition to the personal liability imposed by paragraph (1), if any person required to surrender property or rights to property fails or refuses to surrender such property or rights to property without reasonable cause, such person shall be liable for a penalty equal to 50 percent of the amount recoverable under paragraph (1). No part of such penalty shall be credited against the tax liability for the collection of which such levy was made.
+(e) Any person in possession of (or obligated with respect to) property or rights to property subject to levy upon which a levy has been made who, upon demand by the Secretary, surrenders such property or rights to property (or discharges such obligation) to the Secretary (or who pays a liability under subsection (d)(1)) shall be discharged from any obligation or liability to the delinquent taxpayer and any other person with respect to such property or rights to property arising from such surrender or payment.
+(f) The term “person,” as used in subsection (a), includes an officer or employee of a corporation or a member or employee of a partnership, who as such officer, employee, or member is under a duty to surrender the property or rights to property, or to discharge the obligation.

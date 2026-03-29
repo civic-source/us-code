@@ -1,0 +1,20 @@
+---
+title: "Section 1311 - Preparation for public offering"
+usc_title: 45
+usc_section: "1311"
+chapter: 22
+current_through: "PL 119-73"
+classification: "45 U.S.C. § 1311"
+generated_at: "2026-03-29T00:32:59.724Z"
+---
+
+# § 1311. Preparation for public offering
+
+(a) 
+  (1) Not later than 30 days after October 21, 1986 , the Secretary of Transportation, in consultation with the Secretary of the Treasury and the Chairman of the Board of Directors of the Corporation, shall retain the services of investment banking firms to serve jointly and be compensated equally as co-lead managers of the public offering (hereafter in this part referred to as the “co-lead managers”) and to establish a syndicate to underwrite the public offering. The total number of co-lead managers shall be no fewer than 4 nor greater than 6. The Secretary shall designate one co-lead manager to coordinate and administer the public offering.
+  (2) In selecting the investment banking firms to serve as co-lead managers of the public offering under paragraph (1), consideration shall be given to the firm’s institutional and retail distribution capabilities, financial strength, knowledge of the railroad industry, experience in large scale public offerings, research capability, and reputation. In addition, recognition shall also be given to contributions made by particular investment banking firms before October 21, 1986 , in demonstrating and promoting the long-term financial viability of the Corporation.
+(b) 
+  (1) Not later than 30 days after October 21, 1986 , the Corporation shall transfer to the Secretary of the Treasury $200,000,000.
+  (2) On or before February 1, 1987 , or 30 days before the sale date, whichever occurs first, the Secretary of Transportation shall determine whether to require the Corporation to transfer to the Secretary of the Treasury, in addition to amounts transferred under paragraph (1), not to exceed $100,000,000, taking into account the viability of the Corporation. The Corporation shall transfer such funds as are required to be transferred under this paragraph.
+(c) The Corporation shall prepare and cause to be filed with the Securities and Exchange Commission a registration statement with respect to the securities to be offered and sold in accordance with the securities laws and the rules and regulations thereunder in connection with the initial and any subsequent public offering.
+(d) 

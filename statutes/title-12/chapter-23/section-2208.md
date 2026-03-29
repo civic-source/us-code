@@ -1,0 +1,16 @@
+---
+title: "Section 2208 - Prohibition against use of signed ballots"
+usc_title: 12
+usc_section: "2208"
+chapter: 23
+current_through: "PL 119-73"
+classification: "12 U.S.C. § 2208"
+generated_at: "2026-03-29T00:29:16.738Z"
+---
+
+# § 2208. Prohibition against use of signed ballots
+
+In any election or merger vote, or other proceeding subject to a vote of the stockholders (or subscribers to the guaranty fund of a bank for cooperatives), conducted by a lending institution of the Farm Credit System, the institution—
+
+  (1) may not use signed ballots; and
+  (2) shall implement measures to safeguard the voting process for the protection of the right of stockholders (or subscribers) to a secret ballot.

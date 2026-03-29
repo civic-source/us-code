@@ -1,0 +1,50 @@
+---
+title: "Section 831 - Additional requirements relating to online pharmacies and telemedicine"
+usc_title: 21
+usc_section: "831"
+chapter: 13
+current_through: "PL 119-73"
+classification: "21 U.S.C. § 831"
+generated_at: "2026-03-29T00:30:24.338Z"
+---
+
+# § 831. Additional requirements relating to online pharmacies and telemedicine
+
+(a) An online pharmacy shall display in a visible and clear manner on its homepage a statement that it complies with the requirements of this section with respect to the delivery or sale or offer for sale of controlled substances and shall at all times display on the homepage of its Internet site a declaration of compliance in accordance with this section.
+(b) Each online pharmacy shall comply with the requirements of State law concerning the licensure of pharmacies in each State from which it, and in each State to which it, delivers, distributes, or dispenses or offers to deliver, distribute, or dispense controlled substances by means of the Internet, pursuant to applicable licensure requirements, as determined by each such State.
+(c) Each online pharmacy shall post in a visible and clear manner on the homepage of each Internet site it operates, or on a page directly linked thereto in which the hyperlink is also visible and clear on the homepage, the following information for each pharmacy that delivers, distributes, or dispenses controlled substances pursuant to orders made on, through, or on behalf of, that website:
+  (1) The name and address of the pharmacy as it appears on the pharmacy’s Drug Enforcement Administration certificate of registration.
+  (2) The pharmacy’s telephone number and email address.
+  (3) The name, professional degree, and States of licensure of the pharmacist-in-charge, and a telephone number at which the pharmacist-in-charge can be contacted.
+  (4) A list of the States in which the pharmacy is licensed to dispense controlled substances.
+  (5) A certification that the pharmacy is registered under this part to deliver, distribute, or dispense by means of the Internet controlled substances.
+  (6) The name, address, telephone number, professional degree, and States of licensure of any practitioner who has a contractual relationship to provide medical evaluations or issue prescriptions for controlled substances, through referrals from the website or at the request of the owner or operator of the website, or any employee or agent thereof.
+  (7) The following statement, unless revised by the Attorney General by regulation: “This online pharmacy will only dispense a controlled substance to a person who has a valid prescription issued for a legitimate medical purpose based upon a medical relationship with a prescribing practitioner. This includes at least one prior in-person medical evaluation or medical evaluation via telemedicine in accordance with applicable requirements of section 309.”.
+(d) 
+  (1) Thirty days prior to offering a controlled substance for sale, delivery, distribution, or dispensing, the online pharmacy shall notify the Attorney General, in such form and manner as the Attorney General shall determine, and the State boards of pharmacy in any States in which the online pharmacy offers to sell, deliver, distribute, or dispense controlled substances.
+  (2) The notification required under paragraph (1) shall include—
+    (A) the information required to be posted on the online pharmacy’s Internet site under subsection (c) and shall notify the Attorney General and the applicable State boards of pharmacy, under penalty of perjury, that the information disclosed on its Internet site under subsection (c) is true and accurate;
+    (B) the online pharmacy’s Internet site address and a certification that the online pharmacy shall notify the Attorney General of any change in the address at least 30 days in advance; and
+    (C) the Drug Enforcement Administration registration numbers of any pharmacies and practitioners referred to in subsection (c), as applicable.
+  (3) An online pharmacy that is already operational as of the effective date of this section, shall notify the Attorney General and applicable State boards of pharmacy in accordance with this subsection not later than 30 days after such date.
+(e) On and after the date on which it makes the notification under subsection (d), each online pharmacy shall display on the homepage of its Internet site, in such form as the Attorney General shall by regulation require, a declaration that it has made such notification to the Attorney General.
+(f) Any statement, declaration, notification, or disclosure required under this section shall be considered a report required to be kept under this part.
+(g) 
+  (1) For purposes of sections 802(52) and 882(c)(6)(B) of this title, the Secretary shall notify the Attorney General, at such times and in such manner as the Secretary and the Attorney General determine appropriate, of the Indian tribes or tribal organizations with which the Secretary has contracted or compacted under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.] for the tribes or tribal organizations to provide pharmacy services.
+  (2) 
+    (A) The Secretary may designate a practitioner described in subparagraph (B) as an Internet Eligible Controlled Substances Provider. Such designations shall be made only in cases where the Secretary has found that there is a legitimate need for the practitioner to be so designated because the population served by the practitioner is in a sufficiently remote location that access to medical services is limited.
+    (B) A practitioner described in this subparagraph is a practitioner who is an employee or contractor of the Indian Health Service, or is working for an Indian tribe or tribal organization under its contract or compact under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.] with the Indian Health Service.
+(h) 
+  (1) The Attorney General may issue to a practitioner a special registration to engage in the practice of telemedicine for purposes of section 802(54)(E) of this title if the practitioner, upon application for such special registration—
+    (A) demonstrates a legitimate need for the special registration; and
+    (B) is registered under section 823(g) of this title in the State in which the patient will be located when receiving the telemedicine treatment, unless the practitioner—
+      (i) is exempted from such registration in all States under section 822(d) of this title ; or
+      (ii) is an employee or contractor of the Department of Veterans Affairs who is acting in the scope of such employment or contract and is registered under section 823(g) of this title in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(g) of this title .
+  (2) Not later than 1 year after October 24, 2018 , in consultation with the Secretary, the Attorney General shall promulgate final regulations specifying—
+    (A) the limited circumstances in which a special registration under this subsection may be issued; and
+    (B) the procedure for obtaining a special registration under this subsection.
+  (3) Proceedings to deny an application for registration under this subsection shall be conducted in accordance with section 824(c) of this title .
+(i) 
+  (1) Any practitioner issuing a prescription for a controlled substance under the authorization to conduct telemedicine during a medical emergency situation described in section 802(54)(F) of this title shall report to the Secretary of Veterans Affairs the authorization of that emergency prescription, in accordance with such requirements as the Secretary of Veterans Affairs shall, by regulation, establish.
+  (2) Not later than 30 days after the date that a prescription described in subparagraph (A) is issued, the Secretary of Veterans Affairs shall report to the Attorney General the authorization of that emergency prescription.
+(j) Any transfer between pharmacies of information relating to a prescription for a controlled substance shall meet the applicable requirements under regulations promulgated by the Attorney General under this chapter.

@@ -1,0 +1,27 @@
+---
+title: "Section 40314 - Effect on other laws"
+usc_title: 34
+usc_section: "40314"
+chapter: 403
+current_through: "PL 119-73"
+classification: "34 U.S.C. § 40314"
+generated_at: "2026-03-29T00:32:01.680Z"
+---
+
+# § 40314. Effect on other laws
+
+(a) Nothing in the Compact shall affect the obligations and responsibilities of the FBI under section 552a of title 5 (commonly known as the “Privacy Act of 1974”).
+(b) Nothing in the Compact shall interfere in any manner with—
+  (1) access, direct or otherwise, to records pursuant to—
+    (A) section 9101 of title 5 ;
+    (B) the National Child Protection Act 1 1 See References in Text note below. [ 34 U.S.C. 40101 et seq.];
+    (C) the Brady Handgun Violence Prevention Act ( Public Law 103–159 ; 107 Stat. 1536 );
+    (D) the Violent Crime Control and Law Enforcement Act of 1994 ( Public Law 103–322 ; 108 Stat. 2074 ) or any amendment made by that Act;
+    (E) the United States Housing Act of 1937 ( 42 U.S.C. 1437 et seq.); or
+    (F) the Native American Housing Assistance and Self-Determination Act of 1996 ( 25 U.S.C. 4101 et seq.); or
+  (2) any direct access to Federal criminal history records authorized by law.
+(c) Nothing in the Compact shall be construed to affect the authority of the FBI under the Departments of State, Justice, and Commerce, the Judiciary, and Related Agencies Appropriation Act, 1973 ( Public Law 92–544 ( 86 Stat. 1115 )).
+(d) The Council shall not be considered to be a Federal advisory committee for purposes of chapter 10 of title 5.
+(e) Members of the Council (other than a member from the FBI or any at-large member who may be a Federal official or employee) shall not, by virtue of such membership, be deemed—
+  (1) to be, for any purpose other than to effect the Compact, officers or employees of the United States (as defined in sections 2104 and 2105 of title 5); or
+  (2) to become entitled by reason of Council membership to any compensation or benefit payable or made available by the Federal Government to its officers or employees.

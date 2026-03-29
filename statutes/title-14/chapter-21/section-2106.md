@@ -1,0 +1,14 @@
+---
+title: "Section 2106 - Selection boards; convening of boards"
+usc_title: 14
+usc_section: "2106"
+chapter: 21
+current_through: "PL 119-73"
+classification: "14 U.S.C. § 2106"
+generated_at: "2026-03-29T00:29:25.011Z"
+---
+
+# § 2106. Selection boards; convening of boards
+
+At least once a year and at such other times as the needs of the service require, the Secretary shall convene selection boards to recommend for promotion to the next higher grade officers on the active duty promotion list in each grade from lieutenant (junior grade) through captain, with separate boards for each grade. However, the Secretary is not required to convene a board to recommend officers for promotion to a grade when no vacancies exist in the grade concerned, and he estimates that none will occur in the next twelve months.
+

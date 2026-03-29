@@ -1,0 +1,28 @@
+---
+title: "Section 8542 - Identification of countries of concern with respect to the diversion of certain goods, services, and technologies to or through Iran"
+usc_title: 22
+usc_section: "8542"
+chapter: 92
+current_through: "PL 119-73"
+classification: "22 U.S.C. § 8542"
+generated_at: "2026-03-29T00:30:34.021Z"
+---
+
+# § 8542. Identification of countries of concern with respect to the diversion of certain goods, services, and technologies to or through Iran
+
+(a) Not later than 180 days after July 1, 2010 , the Director of National Intelligence shall submit to the President, the Secretary of Defense, the Secretary of Commerce, the Secretary of State, the Secretary of the Treasury, and the appropriate congressional committees a report that identifies each country the government of which the Director believes, based on all information available to the Director, is allowing the diversion through the country of goods, services, or technologies described in subsection (b) to Iranian end-users or Iranian intermediaries.
+(b) Goods, services, or technologies described in this subsection are goods, services, or technologies—
+  (1) that—
+    (A) originated in the United States;
+    (B) would make a material contribution to Iran’s—
+      (i) development of nuclear, chemical, or biological weapons;
+      (ii) ballistic missile or advanced conventional weapons capabilities; or
+      (iii) support for international terrorism; and
+    (C) are—
+      (i) items on the Commerce Control List or services related to those items; or
+      (ii) defense articles or defense services on the United States Munitions List; or
+  (2) that are prohibited for export to Iran under a resolution of the United Nations Security Council.
+(c) The Director of National Intelligence shall update the report required by subsection (a)—
+  (1) as new information becomes available; and
+  (2) not less frequently than annually.
+(d) The report required by subsection (a) and the updates required by subsection (c) may be submitted in classified form.

@@ -1,0 +1,41 @@
+---
+title: "Section 1302e - Connection to publicly owned treatment works"
+usc_title: 33
+usc_section: "1302e"
+chapter: 26
+current_through: "PL 119-73"
+classification: "33 U.S.C. § 1302e"
+generated_at: "2026-03-29T00:31:57.330Z"
+---
+
+# § 1302e. Connection to publicly owned treatment works
+
+(a) In this section:
+  (1) The term “eligible entity” means—
+    (A) an owner or operator of a publicly owned treatment works that assists or is seeking to assist low-income or moderate-income individuals with connecting the household of the individual to the publicly owned treatment works; or
+    (B) a nonprofit entity that assists low-income or moderate-income individuals with the costs associated with connecting the household of the individual to a publicly owned treatment works.
+  (2) The term “program” means the competitive grant program established under subsection (b).
+  (3) The term “qualified individual” has the meaning given the term “eligible individual” in section 1383(j) of this title .
+(b) Subject to the availability of appropriations, the Administrator shall establish a competitive grant program with the purpose of improving general welfare, under which the Administrator awards grants to eligible entities to provide funds to assist qualified individuals in covering the costs incurred by the qualified individual in connecting the household of the qualified individual to a publicly owned treatment works.
+(c) 
+  (1) An eligible entity seeking a grant under the program shall submit to the Administrator an application at such time, in such manner, and containing such information as the Administrator may by regulation require.
+  (2) Not later than 90 days after the date on which the Administrator receives an application from an eligible entity under paragraph (1), the Administrator shall notify the eligible entity of whether the Administrator will award a grant to the eligible entity under the program.
+(d) In selecting recipients of grants under the program, the Administrator shall use the following criteria:
+  (1) Whether the eligible entity seeking a grant provides services to, or works directly with, qualified individuals.
+  (2) Whether the eligible entity seeking a grant—
+    (A) has an existing program to assist in covering the costs incurred in connecting a household to a publicly owned treatment works; or
+    (B) seeks to create a program described in subparagraph (A).
+(e) 
+  (1) Before providing funds to a qualified individual for the costs described in subsection (b), an eligible entity shall ensure that—
+    (A) the qualified individual has connected to the publicly owned treatment works voluntarily; and
+    (B) if the eligible entity is not the owner or operator of the publicly owned treatment works to which the qualified individual has connected, the publicly owned treatment works to which the qualified individual has connected has agreed to the connection.
+  (2) An eligible entity that is an owner or operator of a publicly owned treatment works may reimburse a qualified individual that has already incurred the costs described in subsection (b) by—
+    (A) reducing the amount otherwise owed by the qualified individual to the owner or operator for wastewater or other services provided by the owner or operator; or
+    (B) providing a direct payment to the qualified individual.
+(f) 
+  (1) There is authorized to be appropriated to carry out the program $40,000,000 for each of fiscal years 2022 through 2026.
+  (2) 
+    (A) Of the amounts made available for grants under paragraph (1), to the extent that there are sufficient applications, not less than 15 percent shall be used to make grants to—
+      (i) eligible entities described in subsection (a)(1)(A) that are owners and operators of publicly owned treatment works that serve fewer than 3,300 people; and
+      (ii) eligible entities described in subsection (a)(1)(B) that provide the assistance described in that subsection in areas that are served by publicly owned treatment works that serve fewer than 3,300 people.
+    (B) Of the amounts made available for grants under paragraph (1), not more than 2 percent may be used to pay the administrative costs of the Administrator.

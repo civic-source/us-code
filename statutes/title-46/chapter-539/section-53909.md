@@ -1,0 +1,16 @@
+---
+title: "Section 53909 - War risk insurance revolving fund"
+usc_title: 46
+usc_section: "53909"
+chapter: 539
+current_through: "PL 119-73"
+classification: "46 U.S.C. § 53909"
+generated_at: "2026-03-29T00:33:02.943Z"
+---
+
+# § 53909. War risk insurance revolving fund
+
+(a) There is a war risk insurance revolving fund in the Treasury.
+(b) There shall be deposited in the fund amounts appropriated to carry out this chapter and amounts received in carrying out this chapter.
+(c) There shall be paid from the fund amounts for return premiums, losses, settlements, judgments, and all liabilities incurred by the United States Government under this chapter.
+(d) The Secretary of Transportation may request the Secretary of the Treasury to invest such portion of the fund as is not, in the judgment of the Secretary of Transportation, required to meet the current needs of the fund. These investments shall be made by the Secretary of the Treasury in public debt securities of the Government, with maturities suitable to the needs of the fund, and bearing interest rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the Government of comparable maturity. Interest and benefits from the securities shall be deposited in the fund.

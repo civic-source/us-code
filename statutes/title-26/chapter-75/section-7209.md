@@ -1,0 +1,14 @@
+---
+title: "Section 7209 - Unauthorized use or sale of stamps"
+usc_title: 26
+usc_section: "7209"
+chapter: 75
+current_through: "PL 119-73"
+classification: "26 U.S.C. § 7209"
+generated_at: "2026-03-29T00:31:21.081Z"
+---
+
+# § 7209. Unauthorized use or sale of stamps
+
+Any person who buys, sells, offers for sale, uses, transfers, takes or gives in exchange, or pledges or gives in pledge, except as authorized in this title or in regulations made pursuant thereto, any stamp, coupon, ticket, book, or other device prescribed by the Secretary under this title for the collection or payment of any tax imposed by this title, shall, upon conviction thereof, be fined not more than $1,000, or imprisoned not more than 6 months, or both.
+

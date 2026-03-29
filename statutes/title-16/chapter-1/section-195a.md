@@ -1,0 +1,14 @@
+---
+title: "Section 195a - North St. Vrain Creek and adjacent lands"
+usc_title: 16
+usc_section: "195a"
+chapter: 1
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 195a"
+generated_at: "2026-03-29T00:29:52.318Z"
+---
+
+# § 195a. North St. Vrain Creek and adjacent lands
+
+Neither the Secretary of the Interior nor any other Federal agency or officer may approve or issue any permit for, or provide any assistance for, the construction of any new dam, reservoir, or impoundment on any segment of North St. Vrain Creek or its tributaries within the boundaries of Rocky Mountain National Park or on the main stem of North St. Vrain Creek downstream to the point at which the creek crosses the elevation 6,550 feet above mean sea level. Nothing in this section shall be construed to prevent the issuance of any permit for the construction of a new water gauging station on North St. Vrain Creek at the point of its confluence with Coulson Gulch.
+

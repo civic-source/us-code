@@ -1,0 +1,14 @@
+---
+title: "Section 1888 - References in other laws"
+usc_title: 19
+usc_section: "1888"
+chapter: 7
+current_through: "PL 119-73"
+classification: "19 U.S.C. § 1888"
+generated_at: "2026-03-29T00:30:20.198Z"
+---
+
+# § 1888. References in other laws
+
+All provisions of law (other than this chapter and the Trade Agreements Extension Act of 1951) in effect after June 30, 1962 , referring to section 350 of the Tariff Act of 1930, to that section as amended, to the Act entitled “An Act to amend the Tariff Act of 1930”, approved June 12, 1934 , to that Act as amended, or to agreements entered into, or proclamations issued, under any of such provisions, shall be construed, unless clearly precluded by the context, to refer also to this chapter, or to agreements entered into or proclamations issued, pursuant to this chapter.
+

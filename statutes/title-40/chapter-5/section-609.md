@@ -1,0 +1,18 @@
+---
+title: "Section 609 - Identification of vehicles"
+usc_title: 40
+usc_section: "609"
+chapter: 5
+current_through: "PL 119-73"
+classification: "40 U.S.C. § 609"
+generated_at: "2026-03-29T00:32:20.536Z"
+---
+
+# § 609. Identification of vehicles
+
+(a) Under regulations prescribed by the Administrator of General Services, every motor vehicle acquired and used for official purposes within the United States, or the territories or possessions of the United States, by any federal agency or by the District of Columbia shall be conspicuously identified by showing, on the vehicle—
+  (1) 
+    (A) the full name of the department, establishment, corporation, or agency that uses the vehicle and the service for which the vehicle is used; or
+    (B) a title that readily identifies the department, establishment, corporation, or agency that uses the vehicle and that is descriptive of the service for which the vehicle is used; and
+  (2) the legend “For official use only”.
+(b) The regulations prescribed pursuant to this section may provide for exemptions when conspicuous identification would interfere with the purpose for which a vehicle is acquired and used.

@@ -1,0 +1,31 @@
+---
+title: "Section 12103 - General eligibility requirements"
+usc_title: 46
+usc_section: "12103"
+chapter: 121
+current_through: "PL 119-73"
+classification: "46 U.S.C. § 12103"
+generated_at: "2026-03-29T00:33:02.888Z"
+---
+
+# § 12103. General eligibility requirements
+
+(a) Except as otherwise provided, a certificate of documentation for a vessel may be issued under this chapter only if the vessel is—
+  (1) wholly owned by one or more individuals or entities described in subsection (b);
+  (2) at least 5 net tons as measured under part J of this subtitle; and
+  (3) not documented under the laws of a foreign country.
+(b) For purposes of subsection (a)(1), the following are eligible owners:
+  (1) An individual who is a citizen of the United States.
+  (2) An association, trust, joint venture, or other entity if—
+    (A) each of its members is a citizen of the United States; and
+    (B) it is capable of holding title to a vessel under the laws of the United States or a State.
+  (3) A partnership if—
+    (A) each general partner is a citizen of the United States; and
+    (B) the controlling interest in the partnership is owned by citizens of the United States.
+  (4) A corporation if—
+    (A) it is incorporated under the laws of the United States or a State;
+    (B) its chief executive officer, by whatever title, and the chairman of its board of directors are citizens of the United States; and
+    (C) no more of its directors are noncitizens than a minority of the number necessary to constitute a quorum.
+  (5) The United States Government.
+  (6) The government of a State.
+(c) Notwithstanding subsection (a)(2), the Secretary may issue a temporary certificate of documentation for a vessel before it is measured.

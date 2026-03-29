@@ -1,0 +1,14 @@
+---
+title: "Section 694 - Fish and game sanctuaries in national forests; establishment by President"
+usc_title: 16
+usc_section: "694"
+chapter: 6
+current_through: "PL 119-73"
+classification: "16 U.S.C. § 694"
+generated_at: "2026-03-29T00:29:52.602Z"
+---
+
+# § 694. Fish and game sanctuaries in national forests; establishment by President
+
+For the purpose of providing breeding places for game birds, game animals, and fish on lands and waters in the national forests not chiefly suitable for agriculture, the President of the United States is authorized, upon recommendation of the Secretary of Agriculture and the Secretary of Commerce and with the approval of the State legislatures of the respective States in which said national forests are situated, to establish by public proclamation certain specified and limited areas within said forests as fish and game sanctuaries or refuges which shall be devoted to the increase of game birds, game animals, and fish of all kinds naturally adapted thereto, but it is not intended that the lands included in such fish and game sanctuaries or refuges shall cease to be parts of the national forests wherein they are located, and the establishment of such fish and game sanctuaries or refuges shall not prevent the Secretary of Agriculture from permitting other uses of the national forests under and in conformity with the laws and the rules and regulations applicable thereto so far as such uses may be consistent with the purposes for which such fish and game sanctuaries or refuges are authorized to be established.
+
