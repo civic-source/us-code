@@ -3,9 +3,9 @@ title: "Section 1741b - Hostage Recovery Fusion Cell"
 usc_title: 22
 usc_section: "1741b"
 chapter: 23
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "22 U.S.C. § 1741b"
-generated_at: "2026-03-29T21:45:09.816Z"
+generated_at: "2026-03-29T21:53:05.658Z"
 ---
 
 # § 1741b. Hostage Recovery Fusion Cell

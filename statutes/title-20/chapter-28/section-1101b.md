@@ -3,9 +3,9 @@ title: "Section 1101b - Authorized activities"
 usc_title: 20
 usc_section: "1101b"
 chapter: 28
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "20 U.S.C. § 1101b"
-generated_at: "2026-03-29T21:44:57.978Z"
+generated_at: "2026-03-29T21:52:09.637Z"
 ---
 
 # § 1101b. Authorized activities

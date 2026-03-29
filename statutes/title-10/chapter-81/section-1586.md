@@ -3,9 +3,9 @@ title: "Section 1586 - Rotation of career-conditional and career employees assig
 usc_title: 10
 usc_section: "1586"
 chapter: 81
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "10 U.S.C. § 1586"
-generated_at: "2026-03-29T21:44:27.118Z"
+generated_at: "2026-03-29T21:51:41.539Z"
 ---
 
 # § 1586. Rotation of career-conditional and career employees assigned to duty outside the United States

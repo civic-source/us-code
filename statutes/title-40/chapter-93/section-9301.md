@@ -3,9 +3,9 @@ title: "Section 9301 - Maintenance and administration"
 usc_title: 40
 usc_section: "9301"
 chapter: 93
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "40 U.S.C. § 9301"
-generated_at: "2026-03-29T21:45:38.517Z"
+generated_at: "2026-03-29T21:54:22.346Z"
 ---
 
 # § 9301. Maintenance and administration

@@ -3,9 +3,9 @@ title: "Section 371 - Relationship to other incentives and pays"
 usc_title: 37
 usc_section: "371"
 chapter: 5
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "37 U.S.C. § 371"
-generated_at: "2026-03-29T21:45:40.512Z"
+generated_at: "2026-03-29T21:54:26.014Z"
 ---
 
 # § 371. Relationship to other incentives and pays

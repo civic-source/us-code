@@ -3,9 +3,9 @@ title: "Section 2601 - General gift funds"
 usc_title: 10
 usc_section: "2601"
 chapter: 155
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "10 U.S.C. § 2601"
-generated_at: "2026-03-29T21:44:27.187Z"
+generated_at: "2026-03-29T21:51:41.615Z"
 ---
 
 # § 2601. General gift funds

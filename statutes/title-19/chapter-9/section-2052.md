@@ -3,9 +3,9 @@ title: "Section 2052 - Assistance from other Federal agencies; facilities and pe
 usc_title: 19
 usc_section: "2052"
 chapter: 9
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "19 U.S.C. § 2052"
-generated_at: "2026-03-29T21:44:47.764Z"
+generated_at: "2026-03-29T21:52:20.695Z"
 ---
 
 # § 2052. Assistance from other Federal agencies; facilities and personnel

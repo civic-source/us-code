@@ -3,9 +3,9 @@ title: "Section 597a - Easements for Bull Lake Dam and Reservoir"
 usc_title: 43
 usc_section: "597a"
 chapter: 12
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "43 U.S.C. § 597a"
-generated_at: "2026-03-29T21:45:48.133Z"
+generated_at: "2026-03-29T21:55:05.586Z"
 ---
 
 # § 597a. Easements for Bull Lake Dam and Reservoir

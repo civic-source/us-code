@@ -3,9 +3,9 @@ title: "Section 1477 - Snow water supply forecasting"
 usc_title: 43
 usc_section: "1477"
 chapter: 31
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "43 U.S.C. § 1477"
-generated_at: "2026-03-29T21:45:48.165Z"
+generated_at: "2026-03-29T21:55:05.622Z"
 ---
 
 # § 1477. Snow water supply forecasting

@@ -3,9 +3,9 @@ title: "Section 178f - Assistance from States and public agencies; contracts and
 usc_title: 7
 usc_section: "178f"
 chapter: 8
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "7 U.S.C. § 178f"
-generated_at: "2026-03-29T21:44:07.435Z"
+generated_at: "2026-03-29T21:51:24.474Z"
 ---
 
 # § 178f. Assistance from States and public agencies; contracts and agreements

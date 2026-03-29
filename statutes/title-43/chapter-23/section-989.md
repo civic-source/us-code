@@ -3,9 +3,9 @@ title: "Section 989 - Homestead entries by purchasers from Missouri of lands dec
 usc_title: 43
 usc_section: "989"
 chapter: 23
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "43 U.S.C. § 989"
-generated_at: "2026-03-29T21:45:48.152Z"
+generated_at: "2026-03-29T21:55:05.608Z"
 ---
 
 # § 989. Homestead entries by purchasers from Missouri of lands declared not to be swamp lands

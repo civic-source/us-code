@@ -3,9 +3,9 @@ title: "Section 6598 - Designation by Sergeant at Arms and Doorkeeper of Senate 
 usc_title: 2
 usc_section: "6598"
 chapter: 65
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "2 U.S.C. § 6598"
-generated_at: "2026-03-29T21:43:54.103Z"
+generated_at: "2026-03-29T21:51:14.212Z"
 ---
 
 # § 6598. Designation by Sergeant at Arms and Doorkeeper of Senate of persons to approve vouchers for payment of moneys

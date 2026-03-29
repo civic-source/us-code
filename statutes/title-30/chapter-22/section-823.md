@@ -3,9 +3,9 @@ title: "Section 823 - Federal Mine Safety and Health Review Commission"
 usc_title: 30
 usc_section: "823"
 chapter: 22
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "30 U.S.C. § 823"
-generated_at: "2026-03-29T21:45:13.615Z"
+generated_at: "2026-03-29T21:53:13.452Z"
 ---
 
 # § 823. Federal Mine Safety and Health Review Commission

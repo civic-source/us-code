@@ -3,9 +3,9 @@ title: "Section 7760 - State terminal inspection; transmission of mailed package
 usc_title: 7
 usc_section: "7760"
 chapter: 104
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "7 U.S.C. § 7760"
-generated_at: "2026-03-29T21:44:07.701Z"
+generated_at: "2026-03-29T21:51:24.772Z"
 ---
 
 # § 7760. State terminal inspection; transmission of mailed packages for State inspection; nonmailable matter; punishment for violations; rules and regulations by United States Postal Service

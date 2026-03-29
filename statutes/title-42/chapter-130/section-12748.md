@@ -3,9 +3,9 @@ title: "Section 12748 - HOME Investment Trust Funds"
 usc_title: 42
 usc_section: "12748"
 chapter: 130
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "42 U.S.C. § 12748"
-generated_at: "2026-03-29T21:46:25.930Z"
+generated_at: "2026-03-29T21:55:58.341Z"
 ---
 
 # § 12748. HOME Investment Trust Funds

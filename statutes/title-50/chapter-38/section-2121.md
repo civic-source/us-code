@@ -3,9 +3,9 @@ title: "Section 2121 - Voluntary contributions"
 usc_title: 50
 usc_section: "2121"
 chapter: 38
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "50 U.S.C. § 2121"
-generated_at: "2026-03-29T21:46:39.425Z"
+generated_at: "2026-03-29T21:56:07.342Z"
 ---
 
 # § 2121. Voluntary contributions

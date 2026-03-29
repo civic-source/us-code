@@ -3,9 +3,9 @@ title: "Section 5414 - Transfer of beer between bonded facilities"
 usc_title: 26
 usc_section: "5414"
 chapter: 51
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "26 U.S.C. § 5414"
-generated_at: "2026-03-29T21:45:26.418Z"
+generated_at: "2026-03-29T21:53:33.951Z"
 ---
 
 # § 5414. Transfer of beer between bonded facilities

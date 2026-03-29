@@ -3,9 +3,9 @@ title: "Section 1183 - Omitted"
 usc_title: 7
 usc_section: "1183"
 chapter: 34
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "7 U.S.C. § 1183"
-generated_at: "2026-03-29T21:44:07.470Z"
+generated_at: "2026-03-29T21:51:24.512Z"
 ---
 
 # §§ 1172 to 1183. Omitted

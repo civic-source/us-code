@@ -3,9 +3,9 @@ title: "Section 1593a - Penalties for false drawback claims"
 usc_title: 19
 usc_section: "1593a"
 chapter: 4
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "19 U.S.C. § 1593a"
-generated_at: "2026-03-29T21:44:47.740Z"
+generated_at: "2026-03-29T21:52:20.660Z"
 ---
 
 # § 1593a. Penalties for false drawback claims

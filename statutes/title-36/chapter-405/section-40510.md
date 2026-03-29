@@ -3,9 +3,9 @@ title: "Section 40510 - Liability"
 usc_title: 36
 usc_section: "40510"
 chapter: 405
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "36 U.S.C. § 40510"
-generated_at: "2026-03-29T21:45:39.769Z"
+generated_at: "2026-03-29T21:54:32.127Z"
 ---
 
 # § 40510. Liability

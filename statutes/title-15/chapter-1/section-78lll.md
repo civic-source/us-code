@@ -3,9 +3,9 @@ title: "Section 78lll - Definitions"
 usc_title: 15
 usc_section: "78lll"
 chapter: 1
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "15 U.S.C. § 78lll"
-generated_at: "2026-03-29T21:44:39.910Z"
+generated_at: "2026-03-29T21:51:59.796Z"
 ---
 
 # § 78lll. Definitions

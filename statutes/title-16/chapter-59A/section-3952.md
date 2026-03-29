@@ -3,9 +3,9 @@ title: "Section 3952 - Priority Louisiana coastal wetlands restoration projects"
 usc_title: 16
 usc_section: "3952"
 chapter: 59
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "16 U.S.C. § 3952"
-generated_at: "2026-03-29T21:44:53.129Z"
+generated_at: "2026-03-29T21:52:28.409Z"
 ---
 
 # § 3952. Priority Louisiana coastal wetlands restoration projects

@@ -3,9 +3,9 @@ title: "Section 58b - User fee for customs services at certain small airports an
 usc_title: 19
 usc_section: "58b"
 chapter: 1
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "19 U.S.C. § 58b"
-generated_at: "2026-03-29T21:44:47.709Z"
+generated_at: "2026-03-29T21:52:20.616Z"
 ---
 
 # § 58b. User fee for customs services at certain small airports and other facilities

@@ -3,9 +3,9 @@ title: "Section 1653 - Contracts and grants for provision of health care and ref
 usc_title: 25
 usc_section: "1653"
 chapter: 18
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "25 U.S.C. § 1653"
-generated_at: "2026-03-29T21:45:03.762Z"
+generated_at: "2026-03-29T21:52:54.526Z"
 ---
 
 # § 1653. Contracts and grants for provision of health care and referral services

@@ -3,9 +3,9 @@ title: "Section 825e - Complaints"
 usc_title: 16
 usc_section: "825e"
 chapter: 12
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "16 U.S.C. § 825e"
-generated_at: "2026-03-29T21:44:52.980Z"
+generated_at: "2026-03-29T21:52:28.223Z"
 ---
 
 # § 825e. Complaints

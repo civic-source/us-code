@@ -3,9 +3,9 @@ title: "Section 103 - Department in which the Coast Guard operates"
 usc_title: 14
 usc_section: "103"
 chapter: 1
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "14 U.S.C. § 103"
-generated_at: "2026-03-29T21:44:30.539Z"
+generated_at: "2026-03-29T21:51:46.612Z"
 ---
 
 # § 103. Department in which the Coast Guard operates

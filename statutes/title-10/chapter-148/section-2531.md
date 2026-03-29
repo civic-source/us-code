@@ -3,9 +3,9 @@ title: "Section 2531 - Defense memoranda of understanding and related agreements
 usc_title: 10
 usc_section: "2531"
 chapter: 148
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "10 U.S.C. § 2531"
-generated_at: "2026-03-29T21:44:27.181Z"
+generated_at: "2026-03-29T21:51:41.609Z"
 ---
 
 # § 2531. Defense memoranda of understanding and related agreements

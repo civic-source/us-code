@@ -3,9 +3,9 @@ title: "Section 2215 - Acquisition Fund"
 usc_title: 25
 usc_section: "2215"
 chapter: 24
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "25 U.S.C. § 2215"
-generated_at: "2026-03-29T21:45:03.790Z"
+generated_at: "2026-03-29T21:52:54.568Z"
 ---
 
 # § 2215. Acquisition Fund

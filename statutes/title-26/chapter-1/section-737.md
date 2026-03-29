@@ -3,9 +3,9 @@ title: "Section 737 - Recognition of precontribution gain in case of certain dis
 usc_title: 26
 usc_section: "737"
 chapter: 1
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "26 U.S.C. § 737"
-generated_at: "2026-03-29T21:45:26.254Z"
+generated_at: "2026-03-29T21:53:33.732Z"
 ---
 
 # § 737. Recognition of precontribution gain in case of certain distributions to contributing partner

@@ -3,9 +3,9 @@ title: "Section 656 - Agents; administering oaths and taking testimony"
 usc_title: 16
 usc_section: "656"
 chapter: 5
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "16 U.S.C. § 656"
-generated_at: "2026-03-29T21:44:52.938Z"
+generated_at: "2026-03-29T21:52:28.167Z"
 ---
 
 # § 656. Agents; administering oaths and taking testimony

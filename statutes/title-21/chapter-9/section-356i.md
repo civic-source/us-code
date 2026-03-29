@@ -3,9 +3,9 @@ title: "Section 356i - Prompt reports of marketing status"
 usc_title: 21
 usc_section: "356i"
 chapter: 9
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "21 U.S.C. § 356i"
-generated_at: "2026-03-29T21:45:05.474Z"
+generated_at: "2026-03-29T21:52:36.131Z"
 ---
 
 # § 356i. Prompt reports of marketing status

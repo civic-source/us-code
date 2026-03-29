@@ -3,9 +3,9 @@ title: "Section 7623 - Expenses of detection of underpayments and fraud, etc."
 usc_title: 26
 usc_section: "7623"
 chapter: 78
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "26 U.S.C. § 7623"
-generated_at: "2026-03-29T21:45:26.509Z"
+generated_at: "2026-03-29T21:53:34.080Z"
 ---
 
 # § 7623. Expenses of detection of underpayments and fraud, etc.

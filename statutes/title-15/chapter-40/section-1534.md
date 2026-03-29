@@ -3,9 +3,9 @@ title: "Section 1534 - Assessment of fees for access to environmental data"
 usc_title: 15
 usc_section: "1534"
 chapter: 40
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "15 U.S.C. § 1534"
-generated_at: "2026-03-29T21:44:40.041Z"
+generated_at: "2026-03-29T21:51:59.961Z"
 ---
 
 # § 1534. Assessment of fees for access to environmental data

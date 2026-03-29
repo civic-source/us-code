@@ -3,9 +3,9 @@ title: "Section 3566 - Definitions"
 usc_title: 38
 usc_section: "3566"
 chapter: 35
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "38 U.S.C. § 3566"
-generated_at: "2026-03-29T21:45:43.249Z"
+generated_at: "2026-03-29T21:54:34.994Z"
 ---
 
 # § 3566. Definitions

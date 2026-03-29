@@ -3,9 +3,9 @@ title: "Section 1648 - Uncertified checks, United States notes, and national ban
 usc_title: 19
 usc_section: "1648"
 chapter: 4
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "19 U.S.C. § 1648"
-generated_at: "2026-03-29T21:44:47.745Z"
+generated_at: "2026-03-29T21:52:20.668Z"
 ---
 
 # § 1648. Uncertified checks, United States notes, and national bank notes receivable for customs duties

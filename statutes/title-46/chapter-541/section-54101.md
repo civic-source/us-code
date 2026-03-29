@@ -3,9 +3,9 @@ title: "Section 54101 - Assistance for small shipyards"
 usc_title: 46
 usc_section: "54101"
 chapter: 541
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "46 U.S.C. § 54101"
-generated_at: "2026-03-29T21:46:31.928Z"
+generated_at: "2026-03-29T21:56:05.111Z"
 ---
 
 # § 54101. Assistance for small shipyards

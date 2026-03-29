@@ -3,9 +3,9 @@ title: "Section 459g - Cape Lookout National Seashore; purposes; authorization f
 usc_title: 16
 usc_section: "459g"
 chapter: 1
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "16 U.S.C. § 459g"
-generated_at: "2026-03-29T21:44:52.839Z"
+generated_at: "2026-03-29T21:52:28.044Z"
 ---
 
 # § 459g. Cape Lookout National Seashore; purposes; authorization for establishment; description of area

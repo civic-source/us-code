@@ -3,9 +3,9 @@ title: "Section 1677 - Definitions; special rules"
 usc_title: 19
 usc_section: "1677"
 chapter: 4
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "19 U.S.C. § 1677"
-generated_at: "2026-03-29T21:44:47.754Z"
+generated_at: "2026-03-29T21:52:20.679Z"
 ---
 
 # § 1677. Definitions; special rules

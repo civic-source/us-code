@@ -3,9 +3,9 @@ title: "Section 4231 - Types of investments"
 usc_title: 25
 usc_section: "4231"
 chapter: 43
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "25 U.S.C. § 4231"
-generated_at: "2026-03-29T21:45:03.828Z"
+generated_at: "2026-03-29T21:52:54.613Z"
 ---
 
 # § 4231. Types of investments

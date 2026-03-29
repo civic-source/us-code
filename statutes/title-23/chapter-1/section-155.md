@@ -3,9 +3,9 @@ title: "Section 155 - Repealed. Pub. L. 112–141, div. A, title I, § 1519(b)(1
 usc_title: 23
 usc_section: "155"
 chapter: 1
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "23 U.S.C. § 155"
-generated_at: "2026-03-29T21:45:01.950Z"
+generated_at: "2026-03-29T21:52:38.522Z"
 ---
 
 # [§ 155. Repealed. Pub. L. 112–141, div. A, title I, § 1519(b)(1)(A) , July 6, 2012 , 126 Stat. 575 ]

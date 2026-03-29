@@ -3,9 +3,9 @@ title: "Section 47140a - Renumbered § 47140]"
 usc_title: 49
 usc_section: "47140a"
 chapter: 471
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "49 U.S.C. § 47140a"
-generated_at: "2026-03-29T21:46:36.187Z"
+generated_at: "2026-03-29T21:56:12.740Z"
 ---
 
 # [§ 47140a. Renumbered § 47140]

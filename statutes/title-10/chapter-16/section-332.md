@@ -3,9 +3,9 @@ title: "Section 332 - Friendly foreign countries; international and regional org
 usc_title: 10
 usc_section: "332"
 chapter: 16
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "10 U.S.C. § 332"
-generated_at: "2026-03-29T21:44:27.019Z"
+generated_at: "2026-03-29T21:51:41.423Z"
 ---
 
 # § 332. Friendly foreign countries; international and regional organizations: defense institution capacity building

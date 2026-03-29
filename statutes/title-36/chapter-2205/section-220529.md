@@ -3,9 +3,9 @@ title: "Section 220529 - Arbitration of corporation determinations"
 usc_title: 36
 usc_section: "220529"
 chapter: 2205
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "36 U.S.C. § 220529"
-generated_at: "2026-03-29T21:45:39.795Z"
+generated_at: "2026-03-29T21:54:32.154Z"
 ---
 
 # § 220529. Arbitration of corporation determinations

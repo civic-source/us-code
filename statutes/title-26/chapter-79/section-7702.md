@@ -3,9 +3,9 @@ title: "Section 7702 - Life insurance contract defined"
 usc_title: 26
 usc_section: "7702"
 chapter: 79
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "26 U.S.C. § 7702"
-generated_at: "2026-03-29T21:45:26.513Z"
+generated_at: "2026-03-29T21:53:34.085Z"
 ---
 
 # § 7702. Life insurance contract defined
@@ -108,7 +108,7 @@ generated_at: "2026-03-29T21:45:26.513Z"
     - **(D)** The term “adjustment year” means the calendar year following any calendar year that includes the effective date of a change in the prescribed U.S. valuation interest rate for life insurance with guaranteed durations of more than 20 years (as defined in the National Association of Insurance Commissioners’ Standard Valuation Law).
     - **(E)** Notwithstanding subparagraph (A), the insurance interest rate shall be 2 percent in the case of any contract which is issued during the period that—
       - **(i)** begins on January 1, 2021 , and
-      - **(ii)** ends immediately before the beginning of the first adjustment year that beings after December 31, 2021 .
+      - **(ii)** ends immediately before the beginning of the first adjustment year that beings 1 1 So in original. Probably should be “begins”. after December 31, 2021 .
 - **(g)**
   - **(1)**
     - **(A)** If at any time any contract which is a life insurance contract under the applicable law does not meet the definition of life insurance contract under subsection (a), the income on the contract for any taxable year of the policyholder shall be treated as ordinary income received or accrued by the policyholder during such year.

@@ -3,9 +3,9 @@ title: "Section 1325 - Railroad-Shipper Transportation Advisory Council"
 usc_title: 49
 usc_section: "1325"
 chapter: 13
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "49 U.S.C. § 1325"
-generated_at: "2026-03-29T21:46:36.035Z"
+generated_at: "2026-03-29T21:56:12.594Z"
 ---
 
 # § 1325. Railroad-Shipper Transportation Advisory Council

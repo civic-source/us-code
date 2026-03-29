@@ -3,9 +3,9 @@ title: "Section 10313 - Separability"
 usc_title: 52
 usc_section: "10313"
 chapter: 103
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "52 U.S.C. § 10313"
-generated_at: "2026-03-29T21:46:43.823Z"
+generated_at: "2026-03-29T21:56:15.932Z"
 ---
 
 # § 10313. Separability

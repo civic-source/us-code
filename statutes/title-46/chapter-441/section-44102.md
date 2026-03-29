@@ -3,9 +3,9 @@ title: "Section 44102 - Financial responsibility to indemnify passengers for non
 usc_title: 46
 usc_section: "44102"
 chapter: 441
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "46 U.S.C. § 44102"
-generated_at: "2026-03-29T21:46:31.906Z"
+generated_at: "2026-03-29T21:56:05.091Z"
 ---
 
 # § 44102. Financial responsibility to indemnify passengers for nonperformance of transportation

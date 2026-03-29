@@ -3,9 +3,9 @@ title: "Section 2786 - Enhanced procurement authority to manage supply chain ris
 usc_title: 50
 usc_section: "2786"
 chapter: 42
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "50 U.S.C. § 2786"
-generated_at: "2026-03-29T21:46:39.454Z"
+generated_at: "2026-03-29T21:56:07.366Z"
 ---
 
 # § 2786. Enhanced procurement authority to manage supply chain risk

@@ -3,9 +3,9 @@ title: "Section 373 - Repealed. Pub. L. 112–274, § 1(i) , Jan. 14, 2013 , 126
 usc_title: 35
 usc_section: "373"
 chapter: 37
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "35 U.S.C. § 373"
-generated_at: "2026-03-29T21:45:28.799Z"
+generated_at: "2026-03-29T21:53:47.769Z"
 ---
 
 # [§ 373. Repealed. Pub. L. 112–274, § 1(i) , Jan. 14, 2013 , 126 Stat. 2457 ]

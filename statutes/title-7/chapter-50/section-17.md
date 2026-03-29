@@ -3,9 +3,9 @@ title: "Section 17 - Regulations"
 usc_title: 7
 usc_section: "17"
 chapter: 50
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "7 U.S.C. § 17"
-generated_at: "2026-03-29T21:44:07.557Z"
+generated_at: "2026-03-29T21:51:24.619Z"
 ---
 
 # § 2009cc–17. Regulations

@@ -3,9 +3,9 @@ title: "Section 7133 - Compilation and publication of data"
 usc_title: 5
 usc_section: "7133"
 chapter: 71
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "5 U.S.C. § 7133"
-generated_at: "2026-03-29T21:43:57.105Z"
+generated_at: "2026-03-29T21:50:39.307Z"
 ---
 
 # § 7133. Compilation and publication of data

@@ -3,9 +3,9 @@ title: "Section 9116 - Diligence requirements"
 usc_title: 42
 usc_section: "9116"
 chapter: 99
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "42 U.S.C. § 9116"
-generated_at: "2026-03-29T21:46:25.766Z"
+generated_at: "2026-03-29T21:55:58.207Z"
 ---
 
 # § 9116. Diligence requirements

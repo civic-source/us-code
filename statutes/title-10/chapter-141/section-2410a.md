@@ -3,9 +3,9 @@ title: "Section 2410a - Contracts for periods crossing fiscal years: severable s
 usc_title: 10
 usc_section: "2410a"
 chapter: 141
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "10 U.S.C. § 2410a"
-generated_at: "2026-03-29T21:44:27.169Z"
+generated_at: "2026-03-29T21:51:41.595Z"
 ---
 
 # § 2410a. Contracts for periods crossing fiscal years: severable service contracts; leases of real or personal property

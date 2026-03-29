@@ -3,9 +3,9 @@ title: "Section 719d - Federal and State officer or agency and other interested 
 usc_title: 15
 usc_section: "719d"
 chapter: 15
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "15 U.S.C. § 719d"
-generated_at: "2026-03-29T21:44:40.008Z"
+generated_at: "2026-03-29T21:51:59.915Z"
 ---
 
 # § 719d. Federal and State officer or agency and other interested persons’ reports

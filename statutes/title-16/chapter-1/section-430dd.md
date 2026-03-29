@@ -3,9 +3,9 @@ title: "Section 430dd - Dedication"
 usc_title: 16
 usc_section: "430dd"
 chapter: 1
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "16 U.S.C. § 430dd"
-generated_at: "2026-03-29T21:44:52.824Z"
+generated_at: "2026-03-29T21:52:28.025Z"
 ---
 
 # § 430dd. Dedication

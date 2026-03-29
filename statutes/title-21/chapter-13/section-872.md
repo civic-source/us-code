@@ -3,9 +3,9 @@ title: "Section 872 - Education and research programs of Attorney General"
 usc_title: 21
 usc_section: "872"
 chapter: 13
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "21 U.S.C. § 872"
-generated_at: "2026-03-29T21:45:05.558Z"
+generated_at: "2026-03-29T21:52:36.253Z"
 ---
 
 # § 872. Education and research programs of Attorney General

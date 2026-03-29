@@ -3,9 +3,9 @@ title: "Section 525 - Appropriations and disposition of receipts"
 usc_title: 22
 usc_section: "525"
 chapter: 10
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "22 U.S.C. § 525"
-generated_at: "2026-03-29T21:45:09.799Z"
+generated_at: "2026-03-29T21:53:05.635Z"
 ---
 
 # § 525. Appropriations and disposition of receipts

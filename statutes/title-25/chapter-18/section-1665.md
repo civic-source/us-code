@@ -3,9 +3,9 @@ title: "Section 1665 - Definitions"
 usc_title: 25
 usc_section: "1665"
 chapter: 18
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "25 U.S.C. § 1665"
-generated_at: "2026-03-29T21:45:03.764Z"
+generated_at: "2026-03-29T21:52:54.529Z"
 ---
 
 # § 1665. Definitions

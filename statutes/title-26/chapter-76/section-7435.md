@@ -3,9 +3,9 @@ title: "Section 7435 - Civil damages for unauthorized enticement of information 
 usc_title: 26
 usc_section: "7435"
 chapter: 76
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "26 U.S.C. § 7435"
-generated_at: "2026-03-29T21:45:26.497Z"
+generated_at: "2026-03-29T21:53:34.061Z"
 ---
 
 # § 7435. Civil damages for unauthorized enticement of information disclosure

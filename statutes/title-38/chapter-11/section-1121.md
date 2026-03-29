@@ -3,9 +3,9 @@ title: "Section 1121 - Basic entitlement"
 usc_title: 38
 usc_section: "1121"
 chapter: 11
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "38 U.S.C. § 1121"
-generated_at: "2026-03-29T21:45:43.187Z"
+generated_at: "2026-03-29T21:54:34.944Z"
 ---
 
 # § 1121. Basic entitlement

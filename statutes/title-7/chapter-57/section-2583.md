@@ -3,9 +3,9 @@ title: "Section 2583 - Repealed. Pub. L. 96–574, § 20 , Dec. 22, 1980 , 94 St
 usc_title: 7
 usc_section: "2583"
 chapter: 57
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "7 U.S.C. § 2583"
-generated_at: "2026-03-29T21:44:07.593Z"
+generated_at: "2026-03-29T21:51:24.659Z"
 ---
 
 # § 2583. Repealed. Pub. L. 96–574, § 20 , Dec. 22, 1980 , 94 Stat. 3352

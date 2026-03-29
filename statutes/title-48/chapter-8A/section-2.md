@@ -3,9 +3,9 @@ title: "Section 2 - Relations between courts of United States and courts of Guam
 usc_title: 48
 usc_section: "2"
 chapter: 8
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "48 U.S.C. § 2"
-generated_at: "2026-03-29T21:46:30.142Z"
+generated_at: "2026-03-29T21:56:02.515Z"
 ---
 
 # § 1424–2. Relations between courts of United States and courts of Guam

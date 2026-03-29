@@ -3,9 +3,9 @@ title: "Section 2209f - Restriction on commodity purchase program payments"
 usc_title: 7
 usc_section: "2209f"
 chapter: 55
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "7 U.S.C. § 2209f"
-generated_at: "2026-03-29T21:44:07.583Z"
+generated_at: "2026-03-29T21:51:24.648Z"
 ---
 
 # § 2209f. Restriction on commodity purchase program payments

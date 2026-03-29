@@ -3,9 +3,9 @@ title: "Section 7656 - Aircraft and equipment: civilian aviation schools"
 usc_title: 10
 usc_section: "7656"
 chapter: 771
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "10 U.S.C. § 7656"
-generated_at: "2026-03-29T21:44:27.258Z"
+generated_at: "2026-03-29T21:51:41.695Z"
 ---
 
 # § 7656. Aircraft and equipment: civilian aviation schools

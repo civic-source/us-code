@@ -3,9 +3,9 @@ title: "Section 4705 - Termination of section 4701(a); authority of United State
 usc_title: 50
 usc_section: "4705"
 chapter: 57
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "50 U.S.C. § 4705"
-generated_at: "2026-03-29T21:46:39.562Z"
+generated_at: "2026-03-29T21:56:07.452Z"
 ---
 
 # § 4705. Termination of section 4701(a); authority of United States Maritime Commission vested in Administrator of War Shipping Administration

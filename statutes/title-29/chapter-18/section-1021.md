@@ -3,9 +3,9 @@ title: "Section 1021 - Duty of disclosure and reporting"
 usc_title: 29
 usc_section: "1021"
 chapter: 18
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "29 U.S.C. § 1021"
-generated_at: "2026-03-29T21:45:16.931Z"
+generated_at: "2026-03-29T21:53:12.301Z"
 ---
 
 # § 1021. Duty of disclosure and reporting

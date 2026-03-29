@@ -3,9 +3,9 @@ title: "Section 138e - Reporting"
 usc_title: 7
 usc_section: "138e"
 chapter: 6
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "7 U.S.C. § 138e"
-generated_at: "2026-03-29T21:44:07.434Z"
+generated_at: "2026-03-29T21:51:24.473Z"
 ---
 
 # § 138e. Reporting

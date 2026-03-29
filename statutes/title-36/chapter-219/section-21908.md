@@ -3,9 +3,9 @@ title: "Section 21908 - Annual report"
 usc_title: 36
 usc_section: "21908"
 chapter: 219
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "36 U.S.C. § 21908"
-generated_at: "2026-03-29T21:45:39.763Z"
+generated_at: "2026-03-29T21:54:32.119Z"
 ---
 
 # § 21908. Annual report

@@ -3,9 +3,9 @@ title: "Section 7656 - Designation of Crisis Management Team within Department"
 usc_title: 7
 usc_section: "7656"
 chapter: 103
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "7 U.S.C. § 7656"
-generated_at: "2026-03-29T21:44:07.697Z"
+generated_at: "2026-03-29T21:51:24.767Z"
 ---
 
 # § 7656. Designation of Crisis Management Team within Department

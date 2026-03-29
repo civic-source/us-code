@@ -3,9 +3,9 @@ title: "Section 2 - Authorization of appropriations; establishment of Columbia B
 usc_title: 16
 usc_section: "2"
 chapter: 12
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-29T21:44:52.991Z"
+generated_at: "2026-03-29T21:52:28.234Z"
 ---
 
 # § 835c–2. Authorization of appropriations; establishment of Columbia Basin Land Development Account

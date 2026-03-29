@@ -3,9 +3,9 @@ title: "Section 481i - Travel and transportation allowances: parking expenses"
 usc_title: 37
 usc_section: "481i"
 chapter: 8
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "37 U.S.C. § 481i"
-generated_at: "2026-03-29T21:45:40.523Z"
+generated_at: "2026-03-29T21:54:26.024Z"
 ---
 
 # § 481i. Travel and transportation allowances: parking expenses

@@ -3,9 +3,9 @@ title: "Section 2425 - Benefit of earlier filing date"
 usc_title: 7
 usc_section: "2425"
 chapter: 57
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "7 U.S.C. § 2425"
-generated_at: "2026-03-29T21:44:07.592Z"
+generated_at: "2026-03-29T21:51:24.657Z"
 ---
 
 # § 2425. Benefit of earlier filing date

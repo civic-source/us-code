@@ -3,9 +3,9 @@ title: "Section 192 - Defense Agencies and Department of Defense Field Activitie
 usc_title: 10
 usc_section: "192"
 chapter: 8
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "10 U.S.C. § 192"
-generated_at: "2026-03-29T21:44:27.012Z"
+generated_at: "2026-03-29T21:51:41.415Z"
 ---
 
 # § 192. Defense Agencies and Department of Defense Field Activities: oversight by the Secretary of Defense

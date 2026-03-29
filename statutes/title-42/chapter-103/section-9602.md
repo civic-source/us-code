@@ -3,9 +3,9 @@ title: "Section 9602 - Designation of additional hazardous substances and establ
 usc_title: 42
 usc_section: "9602"
 chapter: 103
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "42 U.S.C. § 9602"
-generated_at: "2026-03-29T21:46:25.774Z"
+generated_at: "2026-03-29T21:55:58.213Z"
 ---
 
 # § 9602. Designation of additional hazardous substances and establishment of reportable released quantities; regulations

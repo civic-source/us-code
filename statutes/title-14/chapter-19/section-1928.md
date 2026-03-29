@@ -3,9 +3,9 @@ title: "Section 1928 - Cadets; degree of bachelor of science"
 usc_title: 14
 usc_section: "1928"
 chapter: 19
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "14 U.S.C. § 1928"
-generated_at: "2026-03-29T21:44:30.550Z"
+generated_at: "2026-03-29T21:51:46.626Z"
 ---
 
 # § 1928. Cadets; degree of bachelor of science

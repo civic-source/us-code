@@ -3,9 +3,9 @@ title: "Section 41744 - Preservation of basic essential air service at single ca
 usc_title: 49
 usc_section: "41744"
 chapter: 417
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "49 U.S.C. § 41744"
-generated_at: "2026-03-29T21:46:36.147Z"
+generated_at: "2026-03-29T21:56:12.702Z"
 ---
 
 # § 41744. Preservation of basic essential air service at single carrier dominated hub airports

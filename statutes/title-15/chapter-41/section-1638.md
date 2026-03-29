@@ -3,9 +3,9 @@ title: "Section 1638 - Transactions other than under an open end credit plan"
 usc_title: 15
 usc_section: "1638"
 chapter: 41
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "15 U.S.C. § 1638"
-generated_at: "2026-03-29T21:44:40.047Z"
+generated_at: "2026-03-29T21:51:59.971Z"
 ---
 
 # § 1638. Transactions other than under an open end credit plan

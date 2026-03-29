@@ -3,9 +3,9 @@ title: "Section 16298c - National Energy Technology Laboratory reforms"
 usc_title: 42
 usc_section: "16298c"
 chapter: 149
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "42 U.S.C. § 16298c"
-generated_at: "2026-03-29T21:46:26.021Z"
+generated_at: "2026-03-29T21:55:58.415Z"
 ---
 
 # § 16298c. National Energy Technology Laboratory reforms

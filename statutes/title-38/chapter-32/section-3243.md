@@ -3,9 +3,9 @@ title: "Section 3243 - Deposits; reports"
 usc_title: 38
 usc_section: "3243"
 chapter: 32
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "38 U.S.C. § 3243"
-generated_at: "2026-03-29T21:45:43.240Z"
+generated_at: "2026-03-29T21:54:34.986Z"
 ---
 
 # § 3243. Deposits; reports

@@ -3,9 +3,9 @@ title: "Section 393 - Criteria for approval and expenditures by Secretary"
 usc_title: 47
 usc_section: "393"
 chapter: 5
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "47 U.S.C. § 393"
-generated_at: "2026-03-29T21:46:37.077Z"
+generated_at: "2026-03-29T21:56:03.481Z"
 ---
 
 # § 393. Criteria for approval and expenditures by Secretary

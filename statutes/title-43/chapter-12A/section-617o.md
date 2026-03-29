@@ -3,9 +3,9 @@ title: "Section 617o - Officials of ratifying States; authority to act in adviso
 usc_title: 43
 usc_section: "617o"
 chapter: 12
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "43 U.S.C. § 617o"
-generated_at: "2026-03-29T21:45:48.136Z"
+generated_at: "2026-03-29T21:55:05.589Z"
 ---
 
 # § 617o. Officials of ratifying States; authority to act in advisory capacity; access to records

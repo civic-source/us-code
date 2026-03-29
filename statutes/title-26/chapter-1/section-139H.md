@@ -3,9 +3,9 @@ title: "Section 139H - Interest received in action to recover property seized by
 usc_title: 26
 usc_section: "139H"
 chapter: 1
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "26 U.S.C. § 139H"
-generated_at: "2026-03-29T21:45:26.105Z"
+generated_at: "2026-03-29T21:53:33.518Z"
 ---
 
 # § 139H. Interest received in action to recover property seized by the Internal Revenue Service based on structuring transaction

@@ -3,9 +3,9 @@ title: "Section 1448 - Unlading"
 usc_title: 19
 usc_section: "1448"
 chapter: 4
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "19 U.S.C. § 1448"
-generated_at: "2026-03-29T21:44:47.725Z"
+generated_at: "2026-03-29T21:52:20.639Z"
 ---
 
 # § 1448. Unlading

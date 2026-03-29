@@ -3,9 +3,9 @@ title: "Section 7703 - Prohibition against predatory and abusive commercial e-ma
 usc_title: 15
 usc_section: "7703"
 chapter: 103
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "15 U.S.C. § 7703"
-generated_at: "2026-03-29T21:44:40.201Z"
+generated_at: "2026-03-29T21:52:00.164Z"
 ---
 
 # § 7703. Prohibition against predatory and abusive commercial e-mail

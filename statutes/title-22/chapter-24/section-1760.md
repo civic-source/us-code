@@ -3,9 +3,9 @@ title: "Section 1760 - Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), Sept.
 usc_title: 22
 usc_section: "1760"
 chapter: 24
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "22 U.S.C. § 1760"
-generated_at: "2026-03-29T21:45:09.817Z"
+generated_at: "2026-03-29T21:53:05.659Z"
 ---
 
 # § 1760. Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), Sept. 4, 1961 , 75 Stat. 460

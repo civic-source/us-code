@@ -3,9 +3,9 @@ title: "Section 422 - Rehabilitation services"
 usc_title: 42
 usc_section: "422"
 chapter: 7
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "42 U.S.C. § 422"
-generated_at: "2026-03-29T21:46:24.927Z"
+generated_at: "2026-03-29T21:55:57.385Z"
 ---
 
 # § 422. Rehabilitation services

@@ -3,9 +3,9 @@ title: "Section 1512 - Relationship to Middle Class Tax Relief and Job Creation 
 usc_title: 47
 usc_section: "1512"
 chapter: 14
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "47 U.S.C. § 1512"
-generated_at: "2026-03-29T21:46:37.123Z"
+generated_at: "2026-03-29T21:56:03.523Z"
 ---
 
 # § 1512. Relationship to Middle Class Tax Relief and Job Creation Act of 2012

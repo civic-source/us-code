@@ -3,9 +3,9 @@ title: "Section 110 - Laws and regulations applicable to added lands; free use o
 usc_title: 16
 usc_section: "110"
 chapter: 1
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "16 U.S.C. § 110"
-generated_at: "2026-03-29T21:44:52.731Z"
+generated_at: "2026-03-29T21:52:27.919Z"
 ---
 
 # § 110. Laws and regulations applicable to added lands; free use of roads maintained by State

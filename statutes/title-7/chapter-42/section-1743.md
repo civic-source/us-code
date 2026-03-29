@@ -3,9 +3,9 @@ title: "Section 1743 - Reduction of set-aside"
 usc_title: 7
 usc_section: "1743"
 chapter: 42
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "7 U.S.C. § 1743"
-generated_at: "2026-03-29T21:44:07.528Z"
+generated_at: "2026-03-29T21:51:24.585Z"
 ---
 
 # § 1743. Reduction of set-aside

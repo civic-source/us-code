@@ -3,9 +3,9 @@ title: "Section 3415 - Regulations"
 usc_title: 7
 usc_section: "3415"
 chapter: 65
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "7 U.S.C. § 3415"
-generated_at: "2026-03-29T21:44:07.616Z"
+generated_at: "2026-03-29T21:51:24.684Z"
 ---
 
 # § 3415. Regulations

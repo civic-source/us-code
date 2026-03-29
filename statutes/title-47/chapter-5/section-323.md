@@ -3,9 +3,9 @@ title: "Section 323 - Interference between Government and commercial stations"
 usc_title: 47
 usc_section: "323"
 chapter: 5
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "47 U.S.C. § 323"
-generated_at: "2026-03-29T21:46:37.068Z"
+generated_at: "2026-03-29T21:56:03.470Z"
 ---
 
 # § 323. Interference between Government and commercial stations

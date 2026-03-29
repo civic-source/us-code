@@ -3,9 +3,9 @@ title: "Section 3423b - Office of Non-Public Education"
 usc_title: 20
 usc_section: "3423b"
 chapter: 48
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "20 U.S.C. § 3423b"
-generated_at: "2026-03-29T21:44:58.037Z"
+generated_at: "2026-03-29T21:52:09.718Z"
 ---
 
 # § 3423b. Office of Non-Public Education

@@ -3,9 +3,9 @@ title: "Section 1020 - Publication in Federal Register; reservation of mineral r
 usc_title: 30
 usc_section: "1020"
 chapter: 23
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "30 U.S.C. § 1020"
-generated_at: "2026-03-29T21:45:13.629Z"
+generated_at: "2026-03-29T21:53:13.468Z"
 ---
 
 # § 1020. Publication in Federal Register; reservation of mineral rights

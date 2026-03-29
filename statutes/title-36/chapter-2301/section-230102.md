@@ -3,9 +3,9 @@ title: "Section 230102 - Purposes"
 usc_title: 36
 usc_section: "230102"
 chapter: 2301
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "36 U.S.C. § 230102"
-generated_at: "2026-03-29T21:45:39.797Z"
+generated_at: "2026-03-29T21:54:32.157Z"
 ---
 
 # § 230102. Purposes

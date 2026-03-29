@@ -3,9 +3,9 @@ title: "Section 4035 - Enforcement relating to trade in textile or apparel goods
 usc_title: 19
 usc_section: "4035"
 chapter: 26
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "19 U.S.C. § 4035"
-generated_at: "2026-03-29T21:44:47.824Z"
+generated_at: "2026-03-29T21:52:20.776Z"
 ---
 
 # § 4035. Enforcement relating to trade in textile or apparel goods

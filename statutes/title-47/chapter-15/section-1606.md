@@ -3,9 +3,9 @@ title: "Section 1606 - Enforcement"
 usc_title: 47
 usc_section: "1606"
 chapter: 15
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "47 U.S.C. § 1606"
-generated_at: "2026-03-29T21:46:37.125Z"
+generated_at: "2026-03-29T21:56:03.526Z"
 ---
 
 # § 1606. Enforcement

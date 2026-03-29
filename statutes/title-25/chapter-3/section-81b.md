@@ -3,9 +3,9 @@ title: "Section 81b - Continuation of contracts with attorneys containing limita
 usc_title: 25
 usc_section: "81b"
 chapter: 3
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "25 U.S.C. § 81b"
-generated_at: "2026-03-29T21:45:03.715Z"
+generated_at: "2026-03-29T21:52:54.462Z"
 ---
 
 # § 81b. Continuation of contracts with attorneys containing limitation of time where suits have been filed

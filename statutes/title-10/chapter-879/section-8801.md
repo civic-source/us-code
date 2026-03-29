@@ -3,9 +3,9 @@ title: "Section 8801 - Sales: members of the naval service and Coast Guard; wido
 usc_title: 10
 usc_section: "8801"
 chapter: 879
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "10 U.S.C. § 8801"
-generated_at: "2026-03-29T21:44:27.277Z"
+generated_at: "2026-03-29T21:51:41.721Z"
 ---
 
 # § 8801. Sales: members of the naval service and Coast Guard; widows and widowers; civilian employees and other persons

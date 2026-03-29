@@ -3,9 +3,9 @@ title: "Section 6370 - Prohibition of coercion"
 usc_title: 5
 usc_section: "6370"
 chapter: 63
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "5 U.S.C. § 6370"
-generated_at: "2026-03-29T21:43:57.101Z"
+generated_at: "2026-03-29T21:50:39.301Z"
 ---
 
 # § 6370. Prohibition of coercion

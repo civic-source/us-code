@@ -3,9 +3,9 @@ title: "Section 377 - Retirement of bankruptcy judges and magistrate judges"
 usc_title: 28
 usc_section: "377"
 chapter: 17
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "28 U.S.C. § 377"
-generated_at: "2026-03-29T21:45:14.995Z"
+generated_at: "2026-03-29T21:53:45.123Z"
 ---
 
 # § 377. Retirement of bankruptcy judges and magistrate judges

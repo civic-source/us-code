@@ -3,9 +3,9 @@ title: "Section 948c - Persons subject to military commissions"
 usc_title: 10
 usc_section: "948c"
 chapter: 47
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "10 U.S.C. § 948c"
-generated_at: "2026-03-29T21:44:27.062Z"
+generated_at: "2026-03-29T21:51:41.475Z"
 ---
 
 # § 948c. Persons subject to military commissions

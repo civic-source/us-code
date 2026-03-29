@@ -3,9 +3,9 @@ title: "Section 664 - National asset database"
 usc_title: 6
 usc_section: "664"
 chapter: 1
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "6 U.S.C. § 664"
-generated_at: "2026-03-29T21:44:00.846Z"
+generated_at: "2026-03-29T21:51:42.872Z"
 ---
 
 # § 664. National asset database

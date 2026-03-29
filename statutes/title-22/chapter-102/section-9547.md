@@ -3,9 +3,9 @@ title: "Section 9547 - Termination"
 usc_title: 22
 usc_section: "9547"
 chapter: 102
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "22 U.S.C. § 9547"
-generated_at: "2026-03-29T21:45:10.041Z"
+generated_at: "2026-03-29T21:53:05.966Z"
 ---
 
 # § 9547. Termination

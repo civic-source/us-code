@@ -3,9 +3,9 @@ title: "Section 903 - Application of State law"
 usc_title: 21
 usc_section: "903"
 chapter: 13
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "21 U.S.C. § 903"
-generated_at: "2026-03-29T21:45:05.560Z"
+generated_at: "2026-03-29T21:52:36.258Z"
 ---
 
 # § 903. Application of State law

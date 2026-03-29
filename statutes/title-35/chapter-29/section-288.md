@@ -3,9 +3,9 @@ title: "Section 288 - Action for infringement of a patent containing an invalid 
 usc_title: 35
 usc_section: "288"
 chapter: 29
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "35 U.S.C. § 288"
-generated_at: "2026-03-29T21:45:28.796Z"
+generated_at: "2026-03-29T21:53:47.761Z"
 ---
 
 # § 288. Action for infringement of a patent containing an invalid claim

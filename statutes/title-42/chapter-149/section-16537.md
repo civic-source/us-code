@@ -3,9 +3,9 @@ title: "Section 16537 - Distinguished scientist program"
 usc_title: 42
 usc_section: "16537"
 chapter: 149
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "42 U.S.C. § 16537"
-generated_at: "2026-03-29T21:46:26.035Z"
+generated_at: "2026-03-29T21:55:58.426Z"
 ---
 
 # § 16537. Distinguished scientist program

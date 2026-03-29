@@ -3,9 +3,9 @@ title: "Section 1164 - Right to be heard"
 usc_title: 11
 usc_section: "1164"
 chapter: 11
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "11 U.S.C. § 1164"
-generated_at: "2026-03-29T21:44:31.244Z"
+generated_at: "2026-03-29T21:51:53.821Z"
 ---
 
 # § 1164. Right to be heard

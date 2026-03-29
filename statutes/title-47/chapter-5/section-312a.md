@@ -3,9 +3,9 @@ title: "Section 312a - Revocation of operator’s license used in unlawful distr
 usc_title: 47
 usc_section: "312a"
 chapter: 5
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "47 U.S.C. § 312a"
-generated_at: "2026-03-29T21:46:37.067Z"
+generated_at: "2026-03-29T21:56:03.469Z"
 ---
 
 # § 312a. Revocation of operator’s license used in unlawful distribution of controlled substances

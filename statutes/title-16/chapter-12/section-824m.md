@@ -3,9 +3,9 @@ title: "Section 824m - Sales by exempt wholesale generators"
 usc_title: 16
 usc_section: "824m"
 chapter: 12
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "16 U.S.C. § 824m"
-generated_at: "2026-03-29T21:44:52.977Z"
+generated_at: "2026-03-29T21:52:28.219Z"
 ---
 
 # § 824m. Sales by exempt wholesale generators

@@ -3,9 +3,9 @@ title: "Section 1517 - Prohibited obligations and expenditures"
 usc_title: 31
 usc_section: "1517"
 chapter: 15
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "31 U.S.C. § 1517"
-generated_at: "2026-03-29T21:45:30.456Z"
+generated_at: "2026-03-29T21:53:49.708Z"
 ---
 
 # § 1517. Prohibited obligations and expenditures

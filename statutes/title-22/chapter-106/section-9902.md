@@ -3,9 +3,9 @@ title: "Section 9902 - Report from each mission on matters of commercial relatio
 usc_title: 22
 usc_section: "9902"
 chapter: 106
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "22 U.S.C. § 9902"
-generated_at: "2026-03-29T21:45:10.049Z"
+generated_at: "2026-03-29T21:53:05.976Z"
 ---
 
 # § 9902. Report from each mission on matters of commercial relations

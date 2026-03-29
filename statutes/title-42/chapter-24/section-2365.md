@@ -3,9 +3,9 @@ title: "Section 2365 - Amount of indemnity"
 usc_title: 42
 usc_section: "2365"
 chapter: 24
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "42 U.S.C. § 2365"
-generated_at: "2026-03-29T21:46:25.411Z"
+generated_at: "2026-03-29T21:55:57.880Z"
 ---
 
 # § 2365. Amount of indemnity

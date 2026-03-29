@@ -3,9 +3,9 @@ title: "Section 284y - Multilateral debt relief"
 usc_title: 22
 usc_section: "284y"
 chapter: 7
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "22 U.S.C. § 284y"
-generated_at: "2026-03-29T21:45:09.780Z"
+generated_at: "2026-03-29T21:53:05.609Z"
 ---
 
 # § 284y. Multilateral debt relief

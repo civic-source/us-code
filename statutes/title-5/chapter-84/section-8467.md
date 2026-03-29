@@ -3,9 +3,9 @@ title: "Section 8467 - Court orders"
 usc_title: 5
 usc_section: "8467"
 chapter: 84
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "5 U.S.C. § 8467"
-generated_at: "2026-03-29T21:43:57.136Z"
+generated_at: "2026-03-29T21:50:39.340Z"
 ---
 
 # § 8467. Court orders

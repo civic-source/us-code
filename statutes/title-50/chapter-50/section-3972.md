@@ -3,9 +3,9 @@ title: "Section 3972 - Insurance rights and protections"
 usc_title: 50
 usc_section: "3972"
 chapter: 50
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "50 U.S.C. § 3972"
-generated_at: "2026-03-29T21:46:39.528Z"
+generated_at: "2026-03-29T21:56:07.425Z"
 ---
 
 # § 3972. Insurance rights and protections

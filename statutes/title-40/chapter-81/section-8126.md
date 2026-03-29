@@ -3,9 +3,9 @@ title: "Section 8126 - Temporary occupancy of Potomac Park by Secretary of Agric
 usc_title: 40
 usc_section: "8126"
 chapter: 81
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "40 U.S.C. § 8126"
-generated_at: "2026-03-29T21:45:38.514Z"
+generated_at: "2026-03-29T21:54:22.343Z"
 ---
 
 # § 8126. Temporary occupancy of Potomac Park by Secretary of Agriculture

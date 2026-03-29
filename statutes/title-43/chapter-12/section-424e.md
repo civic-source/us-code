@@ -3,9 +3,9 @@ title: "Section 424e - Authority of Secretary of the Interior; rules and regulat
 usc_title: 43
 usc_section: "424e"
 chapter: 12
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "43 U.S.C. § 424e"
-generated_at: "2026-03-29T21:45:48.122Z"
+generated_at: "2026-03-29T21:55:05.572Z"
 ---
 
 # § 424e. Authority of Secretary of the Interior; rules and regulations

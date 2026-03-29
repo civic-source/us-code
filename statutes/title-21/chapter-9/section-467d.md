@@ -2,10 +2,10 @@
 title: "Section 467d - Administration and enforcement; applicability of penalty provisions; conduct of inquiries; power and jurisdiction of courts"
 usc_title: 21
 usc_section: "467d"
-chapter: 10
-current_through: "PL 117-50"
+chapter: 9
+current_through: "PL 117-57"
 classification: "21 U.S.C. § 467d"
-generated_at: "2026-03-29T21:45:05.539Z"
+generated_at: "2026-03-29T21:52:36.226Z"
 ---
 
 # § 467d. Administration and enforcement; applicability of penalty provisions; conduct of inquiries; power and jurisdiction of courts

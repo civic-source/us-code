@@ -3,9 +3,9 @@ title: "Section 3807 - Congressional Oversight Group"
 usc_title: 19
 usc_section: "3807"
 chapter: 24
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "19 U.S.C. § 3807"
-generated_at: "2026-03-29T21:44:47.819Z"
+generated_at: "2026-03-29T21:52:20.771Z"
 ---
 
 # § 3807. Congressional Oversight Group

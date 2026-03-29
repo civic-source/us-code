@@ -3,9 +3,9 @@ title: "Section 21108 - Duty to maintain corporate and tax-exempt status"
 usc_title: 36
 usc_section: "21108"
 chapter: 211
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "36 U.S.C. § 21108"
-generated_at: "2026-03-29T21:45:39.762Z"
+generated_at: "2026-03-29T21:54:32.118Z"
 ---
 
 # § 21108. Duty to maintain corporate and tax-exempt status

@@ -3,9 +3,9 @@ title: "Section 17 - Repealed. Pub. L. 105–119, title VI, § 620 , Nov. 26, 19
 usc_title: 47
 usc_section: "17"
 chapter: 1
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "47 U.S.C. § 17"
-generated_at: "2026-03-29T21:46:37.041Z"
+generated_at: "2026-03-29T21:56:03.440Z"
 ---
 
 # § 17. Repealed. Pub. L. 105–119, title VI, § 620 , Nov. 26, 1997 , 111 Stat. 2519

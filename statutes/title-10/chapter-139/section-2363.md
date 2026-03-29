@@ -3,9 +3,9 @@ title: "Section 2363 - Mechanisms to provide funds for defense laboratories for 
 usc_title: 10
 usc_section: "2363"
 chapter: 139
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "10 U.S.C. § 2363"
-generated_at: "2026-03-29T21:44:27.162Z"
+generated_at: "2026-03-29T21:51:41.588Z"
 ---
 
 # § 2363. Mechanisms to provide funds for defense laboratories for research and development of technologies for military missions

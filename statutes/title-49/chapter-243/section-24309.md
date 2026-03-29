@@ -3,9 +3,9 @@ title: "Section 24309 - Retaining and maintaining facilities"
 usc_title: 49
 usc_section: "24309"
 chapter: 243
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "49 U.S.C. § 24309"
-generated_at: "2026-03-29T21:46:36.094Z"
+generated_at: "2026-03-29T21:56:12.651Z"
 ---
 
 # § 24309. Retaining and maintaining facilities

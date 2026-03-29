@@ -3,9 +3,9 @@ title: "Section 5604 - Determinations regarding use of chemical or biological we
 usc_title: 22
 usc_section: "5604"
 chapter: 65
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "22 U.S.C. § 5604"
-generated_at: "2026-03-29T21:45:09.953Z"
+generated_at: "2026-03-29T21:53:05.847Z"
 ---
 
 # § 5604. Determinations regarding use of chemical or biological weapons

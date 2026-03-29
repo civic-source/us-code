@@ -3,9 +3,9 @@ title: "Section 61 - General regulations, investigations, tests, etc., by Secret
 usc_title: 7
 usc_section: "61"
 chapter: 2
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "7 U.S.C. § 61"
-generated_at: "2026-03-29T21:44:07.401Z"
+generated_at: "2026-03-29T21:51:24.435Z"
 ---
 
 # § 61. General regulations, investigations, tests, etc., by Secretary

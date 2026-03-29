@@ -3,9 +3,9 @@ title: "Section 110 - Foreign vessel"
 usc_title: 46
 usc_section: "110"
 chapter: 1
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "46 U.S.C. § 110"
-generated_at: "2026-03-29T21:46:31.864Z"
+generated_at: "2026-03-29T21:56:05.050Z"
 ---
 
 # § 110. Foreign vessel

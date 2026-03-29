@@ -3,9 +3,9 @@ title: "Section 1297 - Separability"
 usc_title: 30
 usc_section: "1297"
 chapter: 25
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "30 U.S.C. § 1297"
-generated_at: "2026-03-29T21:45:13.643Z"
+generated_at: "2026-03-29T21:53:13.485Z"
 ---
 
 # § 1297. Separability

@@ -3,9 +3,9 @@ title: "Section 3802 - Definitions"
 usc_title: 7
 usc_section: "3802"
 chapter: 69
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "7 U.S.C. § 3802"
-generated_at: "2026-03-29T21:44:07.617Z"
+generated_at: "2026-03-29T21:51:24.685Z"
 ---
 
 # § 3802. Definitions

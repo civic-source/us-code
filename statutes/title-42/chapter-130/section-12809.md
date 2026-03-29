@@ -3,9 +3,9 @@ title: "Section 12809 - Rehabilitation of State and local government in rem prop
 usc_title: 42
 usc_section: "12809"
 chapter: 130
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "42 U.S.C. § 12809"
-generated_at: "2026-03-29T21:46:25.934Z"
+generated_at: "2026-03-29T21:55:58.344Z"
 ---
 
 # § 12809. Rehabilitation of State and local government in rem properties

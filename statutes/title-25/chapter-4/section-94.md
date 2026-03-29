@@ -3,9 +3,9 @@ title: "Section 94 - Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1028"
 usc_title: 25
 usc_section: "94"
 chapter: 4
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "25 U.S.C. § 94"
-generated_at: "2026-03-29T21:45:03.715Z"
+generated_at: "2026-03-29T21:52:54.463Z"
 ---
 
 # § 94. Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1028

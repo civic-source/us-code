@@ -3,9 +3,9 @@ title: "Section 69a - Violations of Federal Trade Commission Act"
 usc_title: 15
 usc_section: "69a"
 chapter: 2
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "15 U.S.C. § 69a"
-generated_at: "2026-03-29T21:44:39.849Z"
+generated_at: "2026-03-29T21:51:59.723Z"
 ---
 
 # § 69a. Violations of Federal Trade Commission Act

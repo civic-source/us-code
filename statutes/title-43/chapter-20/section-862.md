@@ -3,9 +3,9 @@ title: "Section 862 - Omitted"
 usc_title: 43
 usc_section: "862"
 chapter: 20
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "43 U.S.C. § 862"
-generated_at: "2026-03-29T21:45:48.144Z"
+generated_at: "2026-03-29T21:55:05.598Z"
 ---
 
 # § 862. Omitted

@@ -3,9 +3,9 @@ title: "Section 1521 - Definitions"
 usc_title: 6
 usc_section: "1521"
 chapter: 6
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "6 U.S.C. § 1521"
-generated_at: "2026-03-29T21:44:00.869Z"
+generated_at: "2026-03-29T21:51:42.909Z"
 ---
 
 # § 1521. Definitions

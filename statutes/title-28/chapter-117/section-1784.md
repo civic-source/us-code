@@ -3,9 +3,9 @@ title: "Section 1784 - Contempt"
 usc_title: 28
 usc_section: "1784"
 chapter: 117
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "28 U.S.C. § 1784"
-generated_at: "2026-03-29T21:45:15.023Z"
+generated_at: "2026-03-29T21:53:45.157Z"
 ---
 
 # § 1784. Contempt

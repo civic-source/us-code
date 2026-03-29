@@ -3,9 +3,9 @@ title: "Section 2302 - Definitions"
 usc_title: 20
 usc_section: "2302"
 chapter: 44
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "20 U.S.C. § 2302"
-generated_at: "2026-03-29T21:44:58.025Z"
+generated_at: "2026-03-29T21:52:09.703Z"
 ---
 
 # § 2302. Definitions

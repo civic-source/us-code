@@ -3,9 +3,9 @@ title: "Section 112 - Limitations on exclusive rights: Ephemeral recordings"
 usc_title: 17
 usc_section: "112"
 chapter: 1
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "17 U.S.C. § 112"
-generated_at: "2026-03-29T21:44:42.909Z"
+generated_at: "2026-03-29T21:52:03.134Z"
 ---
 
 # § 112. Limitations on exclusive rights: Ephemeral recordings

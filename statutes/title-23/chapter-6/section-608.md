@@ -3,9 +3,9 @@ title: "Section 608 - Funding"
 usc_title: 23
 usc_section: "608"
 chapter: 6
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "23 U.S.C. § 608"
-generated_at: "2026-03-29T21:45:01.975Z"
+generated_at: "2026-03-29T21:52:38.556Z"
 ---
 
 # § 608. Funding

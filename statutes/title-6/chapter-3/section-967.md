@@ -3,9 +3,9 @@ title: "Section 967 - Consequences for lack of compliance"
 usc_title: 6
 usc_section: "967"
 chapter: 3
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "6 U.S.C. § 967"
-generated_at: "2026-03-29T21:44:00.854Z"
+generated_at: "2026-03-29T21:51:42.886Z"
 ---
 
 # § 967. Consequences for lack of compliance

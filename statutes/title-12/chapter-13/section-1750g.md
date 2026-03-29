@@ -3,9 +3,9 @@ title: "Section 1750g - Insurance of additional mortgages"
 usc_title: 12
 usc_section: "1750g"
 chapter: 13
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "12 U.S.C. § 1750g"
-generated_at: "2026-03-29T21:44:35.747Z"
+generated_at: "2026-03-29T21:51:52.821Z"
 ---
 
 # § 1750g. Insurance of additional mortgages

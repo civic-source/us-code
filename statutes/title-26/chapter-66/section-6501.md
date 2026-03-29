@@ -3,9 +3,9 @@ title: "Section 6501 - Limitations on assessment and collection"
 usc_title: 26
 usc_section: "6501"
 chapter: 66
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "26 U.S.C. § 6501"
-generated_at: "2026-03-29T21:45:26.474Z"
+generated_at: "2026-03-29T21:53:34.027Z"
 ---
 
 # § 6501. Limitations on assessment and collection

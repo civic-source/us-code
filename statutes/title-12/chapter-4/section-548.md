@@ -3,9 +3,9 @@ title: "Section 548 - State taxation"
 usc_title: 12
 usc_section: "548"
 chapter: 4
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "12 U.S.C. § 548"
-generated_at: "2026-03-29T21:44:35.657Z"
+generated_at: "2026-03-29T21:51:52.723Z"
 ---
 
 # § 548. State taxation

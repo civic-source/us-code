@@ -3,9 +3,9 @@ title: "Section 2072 - Officers and employees"
 usc_title: 19
 usc_section: "2072"
 chapter: 10
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "19 U.S.C. § 2072"
-generated_at: "2026-03-29T21:44:47.765Z"
+generated_at: "2026-03-29T21:52:20.695Z"
 ---
 
 # § 2072. Officers and employees

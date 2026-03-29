@@ -3,9 +3,9 @@ title: "Section 1510 - Clerical assistants"
 usc_title: 15
 usc_section: "1510"
 chapter: 40
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "15 U.S.C. § 1510"
-generated_at: "2026-03-29T21:44:40.039Z"
+generated_at: "2026-03-29T21:51:59.959Z"
 ---
 
 # § 1510. Clerical assistants

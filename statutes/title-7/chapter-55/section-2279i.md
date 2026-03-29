@@ -3,9 +3,9 @@ title: "Section 2279i - Cooperation with State and other agencies; expenditures"
 usc_title: 7
 usc_section: "2279i"
 chapter: 55
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "7 U.S.C. § 2279i"
-generated_at: "2026-03-29T21:44:07.590Z"
+generated_at: "2026-03-29T21:51:24.655Z"
 ---
 
 # § 2279i. Cooperation with State and other agencies; expenditures

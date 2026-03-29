@@ -3,9 +3,9 @@ title: "Section 284n - Fifth replenishment; authorization of appropriations"
 usc_title: 22
 usc_section: "284n"
 chapter: 7
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "22 U.S.C. § 284n"
-generated_at: "2026-03-29T21:45:09.780Z"
+generated_at: "2026-03-29T21:53:05.608Z"
 ---
 
 # § 284n. Fifth replenishment; authorization of appropriations

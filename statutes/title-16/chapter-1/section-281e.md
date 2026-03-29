@@ -3,9 +3,9 @@ title: "Section 281e - Contracts and cooperative agreements with State of Idaho,
 usc_title: 16
 usc_section: "281e"
 chapter: 1
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "16 U.S.C. § 281e"
-generated_at: "2026-03-29T21:44:52.754Z"
+generated_at: "2026-03-29T21:52:27.943Z"
 ---
 
 # § 281e. Contracts and cooperative agreements with State of Idaho, and others

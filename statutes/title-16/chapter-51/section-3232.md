@@ -3,9 +3,9 @@ title: "Section 3232 - Recommendations of President to Congress"
 usc_title: 16
 usc_section: "3232"
 chapter: 51
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "16 U.S.C. § 3232"
-generated_at: "2026-03-29T21:44:53.100Z"
+generated_at: "2026-03-29T21:52:28.375Z"
 ---
 
 # § 3232. Recommendations of President to Congress

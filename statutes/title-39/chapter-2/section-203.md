@@ -3,9 +3,9 @@ title: "Section 203 - Postmaster General; Deputy Postmaster General"
 usc_title: 39
 usc_section: "203"
 chapter: 2
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "39 U.S.C. § 203"
-generated_at: "2026-03-29T21:45:37.739Z"
+generated_at: "2026-03-29T21:54:28.546Z"
 ---
 
 # § 203. Postmaster General; Deputy Postmaster General

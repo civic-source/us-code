@@ -3,9 +3,9 @@ title: "Section 1202 - Trustee"
 usc_title: 11
 usc_section: "1202"
 chapter: 12
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "11 U.S.C. § 1202"
-generated_at: "2026-03-29T21:44:31.246Z"
+generated_at: "2026-03-29T21:51:53.823Z"
 ---
 
 # § 1202. Trustee

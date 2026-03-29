@@ -3,9 +3,9 @@ title: "Section 3326 - Report on student progress"
 usc_title: 38
 usc_section: "3326"
 chapter: 33
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "38 U.S.C. § 3326"
-generated_at: "2026-03-29T21:45:43.244Z"
+generated_at: "2026-03-29T21:54:34.990Z"
 ---
 
 # § 3326. Report on student progress

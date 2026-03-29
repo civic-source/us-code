@@ -3,9 +3,9 @@ title: "Section 210 - Franks and passes; free service to governmental agencies i
 usc_title: 47
 usc_section: "210"
 chapter: 5
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "47 U.S.C. § 210"
-generated_at: "2026-03-29T21:46:37.046Z"
+generated_at: "2026-03-29T21:56:03.446Z"
 ---
 
 # § 210. Franks and passes; free service to governmental agencies in connection with national defense

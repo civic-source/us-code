@@ -3,9 +3,9 @@ title: "Section 85 - Colorado"
 usc_title: 28
 usc_section: "85"
 chapter: 5
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "28 U.S.C. § 85"
-generated_at: "2026-03-29T21:45:14.983Z"
+generated_at: "2026-03-29T21:53:45.106Z"
 ---
 
 # § 85. Colorado

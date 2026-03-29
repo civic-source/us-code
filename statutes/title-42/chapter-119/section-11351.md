@@ -3,9 +3,9 @@ title: "Section 11351 - Definitions"
 usc_title: 42
 usc_section: "11351"
 chapter: 119
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "42 U.S.C. § 11351"
-generated_at: "2026-03-29T21:46:25.864Z"
+generated_at: "2026-03-29T21:55:58.287Z"
 ---
 
 # § 11351. Definitions

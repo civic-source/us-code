@@ -3,9 +3,9 @@ title: "Section 2539a - Industrial mobilization: Board on Mobilization of Indust
 usc_title: 10
 usc_section: "2539a"
 chapter: 148
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "10 U.S.C. § 2539a"
-generated_at: "2026-03-29T21:44:27.183Z"
+generated_at: "2026-03-29T21:51:41.611Z"
 ---
 
 # § 2539a. Industrial mobilization: Board on Mobilization of Industries Essential for Military Preparedness

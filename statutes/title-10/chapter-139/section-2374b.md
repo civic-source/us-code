@@ -3,9 +3,9 @@ title: "Section 2374b - Disclosure requirements for recipients of research and d
 usc_title: 10
 usc_section: "2374b"
 chapter: 139
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "10 U.S.C. § 2374b"
-generated_at: "2026-03-29T21:44:27.165Z"
+generated_at: "2026-03-29T21:51:41.591Z"
 ---
 
 # § 2374b. Disclosure requirements for recipients of research and development funds

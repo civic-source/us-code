@@ -3,9 +3,9 @@ title: "Section 6719 - Reports"
 usc_title: 31
 usc_section: "6719"
 chapter: 67
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "31 U.S.C. § 6719"
-generated_at: "2026-03-29T21:45:30.517Z"
+generated_at: "2026-03-29T21:53:49.749Z"
 ---
 
 # § 6719. Reports

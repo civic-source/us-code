@@ -3,9 +3,9 @@ title: "Section 220542 - Additional duties"
 usc_title: 36
 usc_section: "220542"
 chapter: 2205
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "36 U.S.C. § 220542"
-generated_at: "2026-03-29T21:45:39.796Z"
+generated_at: "2026-03-29T21:54:32.156Z"
 ---
 
 # § 220542. Additional duties

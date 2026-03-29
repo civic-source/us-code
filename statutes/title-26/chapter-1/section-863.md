@@ -3,9 +3,9 @@ title: "Section 863 - Special rules for determining source"
 usc_title: 26
 usc_section: "863"
 chapter: 1
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "26 U.S.C. § 863"
-generated_at: "2026-03-29T21:45:26.270Z"
+generated_at: "2026-03-29T21:53:33.758Z"
 ---
 
 # § 863. Special rules for determining source

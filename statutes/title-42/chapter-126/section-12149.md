@@ -3,9 +3,9 @@ title: "Section 12149 - Regulations"
 usc_title: 42
 usc_section: "12149"
 chapter: 126
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "42 U.S.C. § 12149"
-generated_at: "2026-03-29T21:46:25.884Z"
+generated_at: "2026-03-29T21:55:58.305Z"
 ---
 
 # § 12149. Regulations

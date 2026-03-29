@@ -3,9 +3,9 @@ title: "Section 352 - Naval Small Craft Instruction and Technical Training Schoo
 usc_title: 10
 usc_section: "352"
 chapter: 16
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "10 U.S.C. § 352"
-generated_at: "2026-03-29T21:44:27.023Z"
+generated_at: "2026-03-29T21:51:41.427Z"
 ---
 
 # § 352. Naval Small Craft Instruction and Technical Training School

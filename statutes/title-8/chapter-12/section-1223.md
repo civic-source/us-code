@@ -3,9 +3,9 @@ title: "Section 1223 - Entry through or from foreign territory and adjacent isla
 usc_title: 8
 usc_section: "1223"
 chapter: 12
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "8 U.S.C. § 1223"
-generated_at: "2026-03-29T21:44:02.492Z"
+generated_at: "2026-03-29T21:51:25.935Z"
 ---
 
 # § 1223. Entry through or from foreign territory and adjacent islands

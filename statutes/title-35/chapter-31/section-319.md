@@ -3,9 +3,9 @@ title: "Section 319 - Appeal"
 usc_title: 35
 usc_section: "319"
 chapter: 31
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "35 U.S.C. § 319"
-generated_at: "2026-03-29T21:45:28.798Z"
+generated_at: "2026-03-29T21:53:47.767Z"
 ---
 
 # § 319. Appeal

@@ -3,9 +3,9 @@ title: "Section 5535 - Report of disbursements for House of Representatives"
 usc_title: 2
 usc_section: "5535"
 chapter: 55
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "2 U.S.C. § 5535"
-generated_at: "2026-03-29T21:43:54.094Z"
+generated_at: "2026-03-29T21:51:14.203Z"
 ---
 
 # § 5535. Report of disbursements for House of Representatives

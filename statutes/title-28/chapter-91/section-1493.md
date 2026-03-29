@@ -3,9 +3,9 @@ title: "Section 1493 - Repealed. July 28, 1953, ch. 253, § 8 , 67 Stat. 226 ]"
 usc_title: 28
 usc_section: "1493"
 chapter: 91
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "28 U.S.C. § 1493"
-generated_at: "2026-03-29T21:45:15.017Z"
+generated_at: "2026-03-29T21:53:45.151Z"
 ---
 
 # [§ 1493. Repealed. July 28, 1953, ch. 253, § 8 , 67 Stat. 226 ]

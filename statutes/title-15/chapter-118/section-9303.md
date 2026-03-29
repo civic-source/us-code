@@ -3,9 +3,9 @@ title: "Section 9303 - Agency activities in support of sustainable chemistry"
 usc_title: 15
 usc_section: "9303"
 chapter: 118
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "15 U.S.C. § 9303"
-generated_at: "2026-03-29T21:44:40.236Z"
+generated_at: "2026-03-29T21:52:00.209Z"
 ---
 
 # § 9303. Agency activities in support of sustainable chemistry

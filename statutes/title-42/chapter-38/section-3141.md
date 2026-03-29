@@ -3,9 +3,9 @@ title: "Section 3141 - Grants for public works and economic development"
 usc_title: 42
 usc_section: "3141"
 chapter: 38
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "42 U.S.C. § 3141"
-generated_at: "2026-03-29T21:46:25.442Z"
+generated_at: "2026-03-29T21:55:57.911Z"
 ---
 
 # § 3141. Grants for public works and economic development

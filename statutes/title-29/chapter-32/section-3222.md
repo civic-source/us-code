@@ -3,9 +3,9 @@ title: "Section 3222 - Migrant and seasonal farmworker programs"
 usc_title: 29
 usc_section: "3222"
 chapter: 32
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "29 U.S.C. § 3222"
-generated_at: "2026-03-29T21:45:17.020Z"
+generated_at: "2026-03-29T21:53:12.438Z"
 ---
 
 # § 3222. Migrant and seasonal farmworker programs

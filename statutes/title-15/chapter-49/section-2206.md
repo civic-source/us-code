@@ -3,9 +3,9 @@ title: "Section 2206 - National Academy for Fire Prevention and Control"
 usc_title: 15
 usc_section: "2206"
 chapter: 49
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "15 U.S.C. § 2206"
-generated_at: "2026-03-29T21:44:40.098Z"
+generated_at: "2026-03-29T21:52:00.030Z"
 ---
 
 # § 2206. National Academy for Fire Prevention and Control

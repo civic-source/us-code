@@ -3,9 +3,9 @@ title: "Section 671b - Members: service extension when Congress is not in sessio
 usc_title: 10
 usc_section: "671b"
 chapter: 39
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "10 U.S.C. § 671b"
-generated_at: "2026-03-29T21:44:27.044Z"
+generated_at: "2026-03-29T21:51:41.452Z"
 ---
 
 # § 671b. Members: service extension when Congress is not in session

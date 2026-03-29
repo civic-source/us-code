@@ -3,9 +3,9 @@ title: "Section 1676 - Enforcement by Secretary of Labor"
 usc_title: 15
 usc_section: "1676"
 chapter: 41
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "15 U.S.C. § 1676"
-generated_at: "2026-03-29T21:44:40.058Z"
+generated_at: "2026-03-29T21:51:59.984Z"
 ---
 
 # § 1676. Enforcement by Secretary of Labor

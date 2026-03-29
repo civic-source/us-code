@@ -3,9 +3,9 @@ title: "Section 1368 - Counterclaims in unfair practices in international trade.
 usc_title: 28
 usc_section: "1368"
 chapter: 85
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "28 U.S.C. § 1368"
-generated_at: "2026-03-29T21:45:15.015Z"
+generated_at: "2026-03-29T21:53:45.149Z"
 ---
 
 # § 1368. Counterclaims in unfair practices in international trade.

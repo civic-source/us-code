@@ -3,9 +3,9 @@ title: "Section 7202 - Commission rules and enforcement"
 usc_title: 15
 usc_section: "7202"
 chapter: 98
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "15 U.S.C. § 7202"
-generated_at: "2026-03-29T21:44:40.189Z"
+generated_at: "2026-03-29T21:52:00.149Z"
 ---
 
 # § 7202. Commission rules and enforcement

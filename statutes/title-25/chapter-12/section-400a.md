@@ -3,9 +3,9 @@ title: "Section 400a - Lease for mining purposes of land reserved for agency or 
 usc_title: 25
 usc_section: "400a"
 chapter: 12
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "25 U.S.C. § 400a"
-generated_at: "2026-03-29T21:45:03.732Z"
+generated_at: "2026-03-29T21:52:54.485Z"
 ---
 
 # § 400a. Lease for mining purposes of land reserved for agency or school; disposition of proceeds; royalty

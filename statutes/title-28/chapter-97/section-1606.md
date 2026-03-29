@@ -3,9 +3,9 @@ title: "Section 1606 - Extent of liability"
 usc_title: 28
 usc_section: "1606"
 chapter: 97
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "28 U.S.C. § 1606"
-generated_at: "2026-03-29T21:45:15.020Z"
+generated_at: "2026-03-29T21:53:45.154Z"
 ---
 
 # § 1606. Extent of liability

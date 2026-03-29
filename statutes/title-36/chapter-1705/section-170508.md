@@ -3,9 +3,9 @@ title: "Section 170508 - Duty to maintain tax-exempt status"
 usc_title: 36
 usc_section: "170508"
 chapter: 1705
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "36 U.S.C. § 170508"
-generated_at: "2026-03-29T21:45:39.789Z"
+generated_at: "2026-03-29T21:54:32.148Z"
 ---
 
 # § 170508. Duty to maintain tax-exempt status

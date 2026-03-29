@@ -3,9 +3,9 @@ title: "Section 3660 - Review and adjustment of classifications, grades, and pay
 usc_title: 22
 usc_section: "3660"
 chapter: 51
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "22 U.S.C. § 3660"
-generated_at: "2026-03-29T21:45:09.910Z"
+generated_at: "2026-03-29T21:53:05.787Z"
 ---
 
 # § 3660. Review and adjustment of classifications, grades, and pay level

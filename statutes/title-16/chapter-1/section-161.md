@@ -3,9 +3,9 @@ title: "Section 161 - Establishment; boundaries; trespassers; claims and rights 
 usc_title: 16
 usc_section: "161"
 chapter: 1
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "16 U.S.C. § 161"
-generated_at: "2026-03-29T21:44:52.738Z"
+generated_at: "2026-03-29T21:52:27.925Z"
 ---
 
 # § 161. Establishment; boundaries; trespassers; claims and rights under land laws not affected; reclamation projects; indemnity selections of lands

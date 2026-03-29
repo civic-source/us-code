@@ -3,9 +3,9 @@ title: "Section 3008 - Import and export statistics"
 usc_title: 19
 usc_section: "3008"
 chapter: 18
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "19 U.S.C. § 3008"
-generated_at: "2026-03-29T21:44:47.804Z"
+generated_at: "2026-03-29T21:52:20.750Z"
 ---
 
 # § 3008. Import and export statistics

@@ -3,9 +3,9 @@ title: "Section 45d - Exclusive privileges within park prohibited"
 usc_title: 16
 usc_section: "45d"
 chapter: 1
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "16 U.S.C. § 45d"
-generated_at: "2026-03-29T21:44:52.719Z"
+generated_at: "2026-03-29T21:52:27.907Z"
 ---
 
 # § 45d. Exclusive privileges within park prohibited

@@ -3,9 +3,9 @@ title: "Section 4a - State option to provide coordinated care through a health h
 usc_title: 42
 usc_section: "4a"
 chapter: 7
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "42 U.S.C. § 4a"
-generated_at: "2026-03-29T21:46:25.258Z"
+generated_at: "2026-03-29T21:55:57.720Z"
 ---
 
 # § 1396w–4a. State option to provide coordinated care through a health home for children with medically complex conditions

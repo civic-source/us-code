@@ -3,9 +3,9 @@ title: "Section 9633 - Maximum contingent liability"
 usc_title: 22
 usc_section: "9633"
 chapter: 103
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "22 U.S.C. § 9633"
-generated_at: "2026-03-29T21:45:10.044Z"
+generated_at: "2026-03-29T21:53:05.969Z"
 ---
 
 # § 9633. Maximum contingent liability

@@ -3,9 +3,9 @@ title: "Section 5624 - Barter of agricultural commodities"
 usc_title: 7
 usc_section: "5624"
 chapter: 87
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "7 U.S.C. § 5624"
-generated_at: "2026-03-29T21:44:07.633Z"
+generated_at: "2026-03-29T21:51:24.703Z"
 ---
 
 # § 5624. Barter of agricultural commodities

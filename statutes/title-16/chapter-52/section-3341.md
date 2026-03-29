@@ -3,9 +3,9 @@ title: "Section 3341 - Regulations"
 usc_title: 16
 usc_section: "3341"
 chapter: 52
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "16 U.S.C. § 3341"
-generated_at: "2026-03-29T21:44:53.103Z"
+generated_at: "2026-03-29T21:52:28.378Z"
 ---
 
 # § 3341. Regulations

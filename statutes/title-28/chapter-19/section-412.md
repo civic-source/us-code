@@ -3,9 +3,9 @@ title: "Section 412 - Sale of Supreme Court reports"
 usc_title: 28
 usc_section: "412"
 chapter: 19
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "28 U.S.C. § 412"
-generated_at: "2026-03-29T21:45:14.996Z"
+generated_at: "2026-03-29T21:53:45.124Z"
 ---
 
 # § 412. Sale of Supreme Court reports

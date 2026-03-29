@@ -3,9 +3,9 @@ title: "Section 307 - United States trustee"
 usc_title: 11
 usc_section: "307"
 chapter: 3
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "11 U.S.C. § 307"
-generated_at: "2026-03-29T21:44:31.218Z"
+generated_at: "2026-03-29T21:51:53.791Z"
 ---
 
 # § 307. United States trustee

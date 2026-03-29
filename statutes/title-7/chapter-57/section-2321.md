@@ -3,9 +3,9 @@ title: "Section 2321 - Establishment"
 usc_title: 7
 usc_section: "2321"
 chapter: 57
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "7 U.S.C. § 2321"
-generated_at: "2026-03-29T21:44:07.590Z"
+generated_at: "2026-03-29T21:51:24.656Z"
 ---
 
 # § 2321. Establishment

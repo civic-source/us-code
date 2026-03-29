@@ -3,9 +3,9 @@ title: "Section 183 - Cancellation of prospecting permits"
 usc_title: 30
 usc_section: "183"
 chapter: 3
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "30 U.S.C. § 183"
-generated_at: "2026-03-29T21:45:13.593Z"
+generated_at: "2026-03-29T21:53:13.428Z"
 ---
 
 # § 183. Cancellation of prospecting permits

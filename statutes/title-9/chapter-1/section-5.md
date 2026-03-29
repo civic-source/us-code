@@ -3,9 +3,9 @@ title: "Section 5 - Appointment of arbitrators or umpire"
 usc_title: 9
 usc_section: "5"
 chapter: 1
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "9 U.S.C. § 5"
-generated_at: "2026-03-29T21:43:59.504Z"
+generated_at: "2026-03-29T21:51:18.275Z"
 ---
 
 # § 5. Appointment of arbitrators or umpire

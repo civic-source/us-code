@@ -3,9 +3,9 @@ title: "Section 53102 - Establishment of Maritime Security Fleet"
 usc_title: 46
 usc_section: "53102"
 chapter: 531
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "46 U.S.C. § 53102"
-generated_at: "2026-03-29T21:46:31.916Z"
+generated_at: "2026-03-29T21:56:05.101Z"
 ---
 
 # § 53102. Establishment of Maritime Security Fleet

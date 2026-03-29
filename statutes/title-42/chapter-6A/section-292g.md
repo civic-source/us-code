@@ -3,9 +3,9 @@ title: "Section 292g - Risk-based premiums"
 usc_title: 42
 usc_section: "292g"
 chapter: 6
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "42 U.S.C. § 292g"
-generated_at: "2026-03-29T21:46:24.780Z"
+generated_at: "2026-03-29T21:55:57.232Z"
 ---
 
 # § 292g. Risk-based premiums

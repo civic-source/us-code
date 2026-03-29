@@ -3,9 +3,9 @@ title: "Section 415 - Leases of restricted lands"
 usc_title: 25
 usc_section: "415"
 chapter: 12
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "25 U.S.C. § 415"
-generated_at: "2026-03-29T21:45:03.733Z"
+generated_at: "2026-03-29T21:52:54.486Z"
 ---
 
 # § 415. Leases of restricted lands

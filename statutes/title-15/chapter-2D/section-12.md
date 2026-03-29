@@ -3,9 +3,9 @@ title: "Section 12 - Hearings"
 usc_title: 15
 usc_section: "12"
 chapter: 2
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "15 U.S.C. § 12"
-generated_at: "2026-03-29T21:44:39.927Z"
+generated_at: "2026-03-29T21:51:59.815Z"
 ---
 
 # § 80b–12. Hearings

@@ -3,9 +3,9 @@ title: "Section 3303 - Reciprocity for foreign vessels"
 usc_title: 46
 usc_section: "3303"
 chapter: 33
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "46 U.S.C. § 3303"
-generated_at: "2026-03-29T21:46:31.867Z"
+generated_at: "2026-03-29T21:56:05.055Z"
 ---
 
 # § 3303. Reciprocity for foreign vessels

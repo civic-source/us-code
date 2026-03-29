@@ -3,9 +3,9 @@ title: "Section 1901 - Findings and policy"
 usc_title: 21
 usc_section: "1901"
 chapter: 24
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "21 U.S.C. § 1901"
-generated_at: "2026-03-29T21:45:05.575Z"
+generated_at: "2026-03-29T21:52:36.280Z"
 ---
 
 # § 1901. Findings and policy

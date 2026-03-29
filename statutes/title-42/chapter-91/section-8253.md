@@ -3,9 +3,9 @@ title: "Section 8253 - Energy and water management requirements"
 usc_title: 42
 usc_section: "8253"
 chapter: 91
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "42 U.S.C. § 8253"
-generated_at: "2026-03-29T21:46:25.739Z"
+generated_at: "2026-03-29T21:55:58.184Z"
 ---
 
 # § 8253. Energy and water management requirements

@@ -3,9 +3,9 @@ title: "Section 720l - Sense of Congress concerning natural gas demand"
 usc_title: 15
 usc_section: "720l"
 chapter: 15
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "15 U.S.C. § 720l"
-generated_at: "2026-03-29T21:44:40.011Z"
+generated_at: "2026-03-29T21:51:59.919Z"
 ---
 
 # § 720l. Sense of Congress concerning natural gas demand

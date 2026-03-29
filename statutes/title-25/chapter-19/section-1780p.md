@@ -3,9 +3,9 @@ title: "Section 1780p - Omitted"
 usc_title: 25
 usc_section: "1780p"
 chapter: 19
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "25 U.S.C. § 1780p"
-generated_at: "2026-03-29T21:45:03.773Z"
+generated_at: "2026-03-29T21:52:54.543Z"
 ---
 
 # § 1780p. Omitted

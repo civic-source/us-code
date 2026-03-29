@@ -3,9 +3,9 @@ title: "Section 810 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(42)
 usc_title: 8
 usc_section: "810"
 chapter: 11
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "8 U.S.C. § 810"
-generated_at: "2026-03-29T21:44:02.464Z"
+generated_at: "2026-03-29T21:51:25.908Z"
 ---
 
 # §§ 801 to 810. Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(42), 66 Stat. 280 , eff. Dec. 24, 1952

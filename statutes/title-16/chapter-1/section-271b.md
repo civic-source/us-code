@@ -3,9 +3,9 @@ title: "Section 271b - Grazing privileges; right of occupancy or use for fixed t
 usc_title: 16
 usc_section: "271b"
 chapter: 1
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "16 U.S.C. § 271b"
-generated_at: "2026-03-29T21:44:52.752Z"
+generated_at: "2026-03-29T21:52:27.941Z"
 ---
 
 # § 271b. Grazing privileges; right of occupancy or use for fixed term of years; renewal

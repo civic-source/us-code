@@ -3,9 +3,9 @@ title: "Section 2507h - Removal and assessment and evaluation"
 usc_title: 22
 usc_section: "2507h"
 chapter: 34
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "22 U.S.C. § 2507h"
-generated_at: "2026-03-29T21:45:09.871Z"
+generated_at: "2026-03-29T21:53:05.732Z"
 ---
 
 # § 2507h. Removal and assessment and evaluation

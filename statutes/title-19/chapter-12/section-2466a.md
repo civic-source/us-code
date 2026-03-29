@@ -3,9 +3,9 @@ title: "Section 2466a - Designation of sub-Saharan African countries for certain
 usc_title: 19
 usc_section: "2466a"
 chapter: 12
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "19 U.S.C. § 2466a"
-generated_at: "2026-03-29T21:44:47.787Z"
+generated_at: "2026-03-29T21:52:20.726Z"
 ---
 
 # § 2466a. Designation of sub-Saharan African countries for certain benefits

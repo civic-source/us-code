@@ -3,9 +3,9 @@ title: "Section 1454 - Duties of Assistant Secretary and assistant to Secretary"
 usc_title: 43
 usc_section: "1454"
 chapter: 31
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "43 U.S.C. § 1454"
-generated_at: "2026-03-29T21:45:48.161Z"
+generated_at: "2026-03-29T21:55:05.619Z"
 ---
 
 # § 1454. Duties of Assistant Secretary and assistant to Secretary

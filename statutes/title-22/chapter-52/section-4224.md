@@ -3,9 +3,9 @@ title: "Section 4224 - Fees; accounting; stamps"
 usc_title: 22
 usc_section: "4224"
 chapter: 52
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "22 U.S.C. § 4224"
-generated_at: "2026-03-29T21:45:09.936Z"
+generated_at: "2026-03-29T21:53:05.826Z"
 ---
 
 # § 4224. Fees; accounting; stamps

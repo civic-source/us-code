@@ -3,9 +3,9 @@ title: "Section 16 - Employment by Federal Government"
 usc_title: 42
 usc_section: "16"
 chapter: 21
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "42 U.S.C. § 16"
-generated_at: "2026-03-29T21:46:25.371Z"
+generated_at: "2026-03-29T21:55:57.838Z"
 ---
 
 # § 2000e–16. Employment by Federal Government

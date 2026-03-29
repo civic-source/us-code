@@ -3,9 +3,9 @@ title: "Section 20122 - Education, training, and enhanced services to end violen
 usc_title: 34
 usc_section: "20122"
 chapter: 201
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "34 U.S.C. § 20122"
-generated_at: "2026-03-29T21:45:35.233Z"
+generated_at: "2026-03-29T21:54:09.980Z"
 ---
 
 # § 20122. Education, training, and enhanced services to end violence against and abuse of women with disabilities

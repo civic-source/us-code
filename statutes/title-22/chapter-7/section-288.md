@@ -3,9 +3,9 @@ title: "Section 288 - “International organization” defined; authority of Pre
 usc_title: 22
 usc_section: "288"
 chapter: 7
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "22 U.S.C. § 288"
-generated_at: "2026-03-29T21:45:09.789Z"
+generated_at: "2026-03-29T21:53:05.621Z"
 ---
 
 # § 288. “International organization” defined; authority of President

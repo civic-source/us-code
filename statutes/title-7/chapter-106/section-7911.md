@@ -3,9 +3,9 @@ title: "Section 7911 - Establishment of base acres and payment acres for a farm"
 usc_title: 7
 usc_section: "7911"
 chapter: 106
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "7 U.S.C. § 7911"
-generated_at: "2026-03-29T21:44:07.705Z"
+generated_at: "2026-03-29T21:51:24.775Z"
 ---
 
 # § 7911. Establishment of base acres and payment acres for a farm

@@ -3,9 +3,9 @@ title: "Section 45 - Unfair methods of competition unlawful; prevention by Commi
 usc_title: 15
 usc_section: "45"
 chapter: 2
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "15 U.S.C. § 45"
-generated_at: "2026-03-29T21:44:39.842Z"
+generated_at: "2026-03-29T21:51:59.711Z"
 ---
 
 # § 45. Unfair methods of competition unlawful; prevention by Commission

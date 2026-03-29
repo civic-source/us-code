@@ -3,9 +3,9 @@ title: "Section 1748b - Cohesive wildfire management strategy"
 usc_title: 43
 usc_section: "1748b"
 chapter: 35
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "43 U.S.C. § 1748b"
-generated_at: "2026-03-29T21:45:48.190Z"
+generated_at: "2026-03-29T21:55:05.653Z"
 ---
 
 # § 1748b. Cohesive wildfire management strategy

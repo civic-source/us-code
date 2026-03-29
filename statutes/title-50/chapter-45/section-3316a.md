@@ -3,9 +3,9 @@ title: "Section 3316a - Reports on intelligence community participation in vulne
 usc_title: 50
 usc_section: "3316a"
 chapter: 45
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "50 U.S.C. § 3316a"
-generated_at: "2026-03-29T21:46:39.488Z"
+generated_at: "2026-03-29T21:56:07.393Z"
 ---
 
 # § 3316a. Reports on intelligence community participation in vulnerabilities equities process of Federal Government

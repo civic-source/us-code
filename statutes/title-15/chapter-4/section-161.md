@@ -3,9 +3,9 @@ title: "Section 161 - Alteration, amendment, or repeal"
 usc_title: 15
 usc_section: "161"
 chapter: 4
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "15 U.S.C. § 161"
-generated_at: "2026-03-29T21:44:39.930Z"
+generated_at: "2026-03-29T21:51:59.818Z"
 ---
 
 # § 161. Alteration, amendment, or repeal

@@ -3,9 +3,9 @@ title: "Section 1 - Health benefits for certain former spouses"
 usc_title: 22
 usc_section: "1"
 chapter: 52
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-03-29T21:45:09.928Z"
+generated_at: "2026-03-29T21:53:05.814Z"
 ---
 
 # § 4069c–1. Health benefits for certain former spouses

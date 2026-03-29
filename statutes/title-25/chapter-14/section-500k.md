@@ -3,9 +3,9 @@ title: "Section 500k - Omitted"
 usc_title: 25
 usc_section: "500k"
 chapter: 14
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "25 U.S.C. § 500k"
-generated_at: "2026-03-29T21:45:03.736Z"
+generated_at: "2026-03-29T21:52:54.491Z"
 ---
 
 # § 500k. Omitted

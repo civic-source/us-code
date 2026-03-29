@@ -3,9 +3,9 @@ title: "Section 302 - Rules, regulations, and orders"
 usc_title: 13
 usc_section: "302"
 chapter: 9
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "13 U.S.C. § 302"
-generated_at: "2026-03-29T21:44:29.769Z"
+generated_at: "2026-03-29T21:51:45.844Z"
 ---
 
 # § 302. Rules, regulations, and orders

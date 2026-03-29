@@ -3,9 +3,9 @@ title: "Section 669 - Petition by hydraulic miners"
 usc_title: 33
 usc_section: "669"
 chapter: 14
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "33 U.S.C. § 669"
-generated_at: "2026-03-29T21:45:32.494Z"
+generated_at: "2026-03-29T21:54:05.615Z"
 ---
 
 # § 669. Petition by hydraulic miners

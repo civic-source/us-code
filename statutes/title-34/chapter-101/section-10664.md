@@ -3,9 +3,9 @@ title: "Section 10664 - Authority to award competitive grants to address methamp
 usc_title: 34
 usc_section: "10664"
 chapter: 101
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "34 U.S.C. § 10664"
-generated_at: "2026-03-29T21:45:35.198Z"
+generated_at: "2026-03-29T21:54:09.943Z"
 ---
 
 # § 10664. Authority to award competitive grants to address methamphetamine use by pregnant and parenting women offenders

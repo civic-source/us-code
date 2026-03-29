@@ -3,9 +3,9 @@ title: "Section 2312 - Contingency Contracting Corps"
 usc_title: 41
 usc_section: "2312"
 chapter: 23
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "41 U.S.C. § 2312"
-generated_at: "2026-03-29T21:45:51.455Z"
+generated_at: "2026-03-29T21:55:04.281Z"
 ---
 
 # § 2312. Contingency Contracting Corps

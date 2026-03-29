@@ -3,9 +3,9 @@ title: "Section 662 - Impounding, diverting, or controlling of waters"
 usc_title: 16
 usc_section: "662"
 chapter: 5
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "16 U.S.C. § 662"
-generated_at: "2026-03-29T21:44:52.938Z"
+generated_at: "2026-03-29T21:52:28.167Z"
 ---
 
 # § 662. Impounding, diverting, or controlling of waters

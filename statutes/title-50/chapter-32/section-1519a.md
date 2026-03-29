@@ -3,9 +3,9 @@ title: "Section 1519a - Limitation on procurement of binary chemical weapons"
 usc_title: 50
 usc_section: "1519a"
 chapter: 32
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "50 U.S.C. § 1519a"
-generated_at: "2026-03-29T21:46:39.390Z"
+generated_at: "2026-03-29T21:56:07.311Z"
 ---
 
 # § 1519a. Limitation on procurement of binary chemical weapons

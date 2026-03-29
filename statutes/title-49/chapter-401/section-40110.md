@@ -3,9 +3,9 @@ title: "Section 40110 - General procurement authority"
 usc_title: 49
 usc_section: "40110"
 chapter: 401
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "49 U.S.C. § 40110"
-generated_at: "2026-03-29T21:46:36.135Z"
+generated_at: "2026-03-29T21:56:12.690Z"
 ---
 
 # § 40110. General procurement authority

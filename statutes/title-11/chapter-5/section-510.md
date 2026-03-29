@@ -3,9 +3,9 @@ title: "Section 510 - Subordination"
 usc_title: 11
 usc_section: "510"
 chapter: 5
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "11 U.S.C. § 510"
-generated_at: "2026-03-29T21:44:31.227Z"
+generated_at: "2026-03-29T21:51:53.801Z"
 ---
 
 # § 510. Subordination

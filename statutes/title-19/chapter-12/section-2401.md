@@ -3,9 +3,9 @@ title: "Section 2401 - Definitions"
 usc_title: 19
 usc_section: "2401"
 chapter: 12
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "19 U.S.C. § 2401"
-generated_at: "2026-03-29T21:44:47.782Z"
+generated_at: "2026-03-29T21:52:20.717Z"
 ---
 
 # § 2401. Definitions

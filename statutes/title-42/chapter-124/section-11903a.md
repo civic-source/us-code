@@ -3,9 +3,9 @@ title: "Section 11903a - Repealed. Pub. L. 105–276, title V, § 582(a)(13) , O
 usc_title: 42
 usc_section: "11903a"
 chapter: 124
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "42 U.S.C. § 11903a"
-generated_at: "2026-03-29T21:46:25.880Z"
+generated_at: "2026-03-29T21:55:58.301Z"
 ---
 
 # § 11903a. Repealed. Pub. L. 105–276, title V, § 582(a)(13) , Oct. 21, 1998 , 112 Stat. 2644

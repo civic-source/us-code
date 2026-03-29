@@ -3,9 +3,9 @@ title: "Section 2752 - Coordination with foreign policy"
 usc_title: 22
 usc_section: "2752"
 chapter: 39
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "22 U.S.C. § 2752"
-generated_at: "2026-03-29T21:45:09.889Z"
+generated_at: "2026-03-29T21:53:05.758Z"
 ---
 
 # § 2752. Coordination with foreign policy

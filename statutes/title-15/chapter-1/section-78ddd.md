@@ -3,9 +3,9 @@ title: "Section 78ddd - SIPC Fund"
 usc_title: 15
 usc_section: "78ddd"
 chapter: 1
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "15 U.S.C. § 78ddd"
-generated_at: "2026-03-29T21:44:39.907Z"
+generated_at: "2026-03-29T21:51:59.792Z"
 ---
 
 # § 78ddd. SIPC Fund

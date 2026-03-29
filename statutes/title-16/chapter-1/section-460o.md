@@ -3,9 +3,9 @@ title: "Section 460o - Establishment"
 usc_title: 16
 usc_section: "460o"
 chapter: 1
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "16 U.S.C. § 460o"
-generated_at: "2026-03-29T21:44:52.847Z"
+generated_at: "2026-03-29T21:52:28.054Z"
 ---
 
 # § 460o. Establishment

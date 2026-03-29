@@ -3,9 +3,9 @@ title: "Section 413 - Rights and protections under the Fair Labor Standards Act 
 usc_title: 3
 usc_section: "413"
 chapter: 5
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "3 U.S.C. § 413"
-generated_at: "2026-03-29T21:43:57.922Z"
+generated_at: "2026-03-29T21:50:32.939Z"
 ---
 
 # § 413. Rights and protections under the Fair Labor Standards Act of 1938

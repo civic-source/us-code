@@ -3,9 +3,9 @@ title: "Section 3503 - Multiyear contracts for acquisition of property: contract
 usc_title: 10
 usc_section: "3503"
 chapter: 249
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "10 U.S.C. § 3503"
-generated_at: "2026-03-29T21:44:27.222Z"
+generated_at: "2026-03-29T21:51:41.656Z"
 ---
 
 # § 3503. Multiyear contracts for acquisition of property: contract cancellation or termination

@@ -3,9 +3,9 @@ title: "Section 6591a - Designation of treatment areas"
 usc_title: 16
 usc_section: "6591a"
 chapter: 84
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "16 U.S.C. § 6591a"
-generated_at: "2026-03-29T21:44:53.160Z"
+generated_at: "2026-03-29T21:52:28.442Z"
 ---
 
 # § 6591a. Designation of treatment areas

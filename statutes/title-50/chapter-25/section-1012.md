@@ -3,9 +3,9 @@ title: "Section 1012 - Repealed. Pub. L. 85–861, § 36A , Sept. 2, 1958 , 72 S
 usc_title: 50
 usc_section: "1012"
 chapter: 25
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "50 U.S.C. § 1012"
-generated_at: "2026-03-29T21:46:39.389Z"
+generated_at: "2026-03-29T21:56:07.310Z"
 ---
 
 # §§ 1011, 1012. Repealed. Pub. L. 85–861, § 36A , Sept. 2, 1958 , 72 Stat. 1569

@@ -3,9 +3,9 @@ title: "Section 324 - Time, manner, etc., of annual payments"
 usc_title: 7
 usc_section: "324"
 chapter: 13
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "7 U.S.C. § 324"
-generated_at: "2026-03-29T21:44:07.442Z"
+generated_at: "2026-03-29T21:51:24.481Z"
 ---
 
 # § 324. Time, manner, etc., of annual payments

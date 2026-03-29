@@ -3,9 +3,9 @@ title: "Section 5566 - Repealed. Pub. L. 116–260, div. Z, title III, § 3006(e
 usc_title: 42
 usc_section: "5566"
 chapter: 71
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "42 U.S.C. § 5566"
-generated_at: "2026-03-29T21:46:25.539Z"
+generated_at: "2026-03-29T21:55:58.008Z"
 ---
 
 # §§ 5557 to 5566. Repealed. Pub. L. 116–260, div. Z, title III, § 3006(e)(1) , Dec. 27, 2020 , 134 Stat. 2513

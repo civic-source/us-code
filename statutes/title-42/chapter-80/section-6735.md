@@ -3,9 +3,9 @@ title: "Section 6735 - Program studies and recommendations; evaluation; counterc
 usc_title: 42
 usc_section: "6735"
 chapter: 80
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "42 U.S.C. § 6735"
-generated_at: "2026-03-29T21:46:25.597Z"
+generated_at: "2026-03-29T21:55:58.062Z"
 ---
 
 # § 6735. Program studies and recommendations; evaluation; countercyclical study

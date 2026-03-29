@@ -3,9 +3,9 @@ title: "Section 2158 - Protection of pets"
 usc_title: 7
 usc_section: "2158"
 chapter: 54
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "7 U.S.C. § 2158"
-generated_at: "2026-03-29T21:44:07.580Z"
+generated_at: "2026-03-29T21:51:24.644Z"
 ---
 
 # § 2158. Protection of pets

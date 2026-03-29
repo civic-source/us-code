@@ -3,9 +3,9 @@ title: "Section 1545 - Cooperation with travel agencies; publication of informat
 usc_title: 15
 usc_section: "1545"
 chapter: 40
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "15 U.S.C. § 1545"
-generated_at: "2026-03-29T21:44:40.041Z"
+generated_at: "2026-03-29T21:51:59.962Z"
 ---
 
 # § 1545. Cooperation with travel agencies; publication of information

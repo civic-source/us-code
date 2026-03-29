@@ -3,9 +3,9 @@ title: "Section 59hh - Declaration of nonnavigability for portion of Pelican Isl
 usc_title: 33
 usc_section: "59hh"
 chapter: 1
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "33 U.S.C. § 59hh"
-generated_at: "2026-03-29T21:45:32.468Z"
+generated_at: "2026-03-29T21:54:05.589Z"
 ---
 
 # § 59hh. Declaration of nonnavigability for portion of Pelican Island, Texas

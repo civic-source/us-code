@@ -3,9 +3,9 @@ title: "Section 622 - Cost of construction and maintenance of irrigation project
 usc_title: 43
 usc_section: "622"
 chapter: 13
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "43 U.S.C. § 622"
-generated_at: "2026-03-29T21:45:48.140Z"
+generated_at: "2026-03-29T21:55:05.594Z"
 ---
 
 # § 622. Cost of construction and maintenance of irrigation project as charge on land

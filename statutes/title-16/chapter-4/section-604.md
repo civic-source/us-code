@@ -3,9 +3,9 @@ title: "Section 604 - Cutting timber on certain mineral lands; permits to corpor
 usc_title: 16
 usc_section: "604"
 chapter: 4
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "16 U.S.C. § 604"
-generated_at: "2026-03-29T21:44:52.934Z"
+generated_at: "2026-03-29T21:52:28.163Z"
 ---
 
 # § 604. Cutting timber on certain mineral lands; permits to corporations; railroad corporations

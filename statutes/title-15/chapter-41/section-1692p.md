@@ -3,9 +3,9 @@ title: "Section 1692p - Exception for certain bad check enforcement programs ope
 usc_title: 15
 usc_section: "1692p"
 chapter: 41
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "15 U.S.C. § 1692p"
-generated_at: "2026-03-29T21:44:40.074Z"
+generated_at: "2026-03-29T21:52:00.003Z"
 ---
 
 # § 1692p. Exception for certain bad check enforcement programs operated by private entities

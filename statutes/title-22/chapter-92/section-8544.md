@@ -3,9 +3,9 @@ title: "Section 8544 - Enforcement authority"
 usc_title: 22
 usc_section: "8544"
 chapter: 92
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "22 U.S.C. § 8544"
-generated_at: "2026-03-29T21:45:10.019Z"
+generated_at: "2026-03-29T21:53:05.933Z"
 ---
 
 # § 8544. Enforcement authority

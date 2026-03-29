@@ -3,9 +3,9 @@ title: "Section 3201 - Rate of tax"
 usc_title: 26
 usc_section: "3201"
 chapter: 22
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "26 U.S.C. § 3201"
-generated_at: "2026-03-29T21:45:26.366Z"
+generated_at: "2026-03-29T21:53:33.878Z"
 ---
 
 # § 3201. Rate of tax

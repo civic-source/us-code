@@ -3,9 +3,9 @@ title: "Section 4413 - Executive Board"
 usc_title: 20
 usc_section: "4413"
 chapter: 56
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "20 U.S.C. § 4413"
-generated_at: "2026-03-29T21:44:58.047Z"
+generated_at: "2026-03-29T21:52:09.732Z"
 ---
 
 # § 4413. Executive Board

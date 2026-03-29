@@ -3,9 +3,9 @@ title: "Section 2768 - Annual audit of pay and allowances of members undergoing 
 usc_title: 14
 usc_section: "2768"
 chapter: 27
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "14 U.S.C. § 2768"
-generated_at: "2026-03-29T21:44:30.559Z"
+generated_at: "2026-03-29T21:51:46.639Z"
 ---
 
 # § 2768. Annual audit of pay and allowances of members undergoing permanent change of station

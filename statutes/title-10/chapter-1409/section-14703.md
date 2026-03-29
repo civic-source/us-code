@@ -3,9 +3,9 @@ title: "Section 14703 - Authority to retain chaplains and officers in medical sp
 usc_title: 10
 usc_section: "14703"
 chapter: 1409
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "10 U.S.C. § 14703"
-generated_at: "2026-03-29T21:44:27.310Z"
+generated_at: "2026-03-29T21:51:41.760Z"
 ---
 
 # § 14703. Authority to retain chaplains and officers in medical specialties until specified age

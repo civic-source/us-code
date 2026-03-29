@@ -3,9 +3,9 @@ title: "Section 7492 - Authorizations of appropriations"
 usc_title: 20
 usc_section: "7492"
 chapter: 70
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "20 U.S.C. § 7492"
-generated_at: "2026-03-29T21:44:58.103Z"
+generated_at: "2026-03-29T21:52:09.799Z"
 ---
 
 # § 7492. Authorizations of appropriations

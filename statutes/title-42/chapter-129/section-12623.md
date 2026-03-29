@@ -3,9 +3,9 @@ title: "Section 12623 - Advisory Board"
 usc_title: 42
 usc_section: "12623"
 chapter: 129
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "42 U.S.C. § 12623"
-generated_at: "2026-03-29T21:46:25.909Z"
+generated_at: "2026-03-29T21:55:58.323Z"
 ---
 
 # § 12623. Advisory Board

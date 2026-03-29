@@ -3,9 +3,9 @@ title: "Section 146 - Deposit of Journals of Senate and House"
 usc_title: 2
 usc_section: "146"
 chapter: 5
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "2 U.S.C. § 146"
-generated_at: "2026-03-29T21:43:54.012Z"
+generated_at: "2026-03-29T21:51:14.118Z"
 ---
 
 # § 146. Deposit of Journals of Senate and House

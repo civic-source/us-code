@@ -3,9 +3,9 @@ title: "Section 3 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Sta
 usc_title: 29
 usc_section: "3"
 chapter: 4
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "29 U.S.C. § 3"
-generated_at: "2026-03-29T21:45:16.883Z"
+generated_at: "2026-03-29T21:53:12.233Z"
 ---
 
 # § 49c–3. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 653

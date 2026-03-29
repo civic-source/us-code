@@ -3,9 +3,9 @@ title: "Section 636b - Disaster loan interest rates"
 usc_title: 15
 usc_section: "636b"
 chapter: 14
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "15 U.S.C. § 636b"
-generated_at: "2026-03-29T21:44:39.961Z"
+generated_at: "2026-03-29T21:51:59.853Z"
 ---
 
 # § 636b. Disaster loan interest rates

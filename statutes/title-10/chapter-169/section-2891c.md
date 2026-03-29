@@ -3,9 +3,9 @@ title: "Section 2891c - Transparency regarding finances and performance metrics"
 usc_title: 10
 usc_section: "2891c"
 chapter: 169
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "10 U.S.C. § 2891c"
-generated_at: "2026-03-29T21:44:27.210Z"
+generated_at: "2026-03-29T21:51:41.641Z"
 ---
 
 # § 2891c. Transparency regarding finances and performance metrics

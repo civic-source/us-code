@@ -3,9 +3,9 @@ title: "Section 758c - Authorization of appropriations for research laboratory, 
 usc_title: 16
 usc_section: "758c"
 chapter: 9
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "16 U.S.C. § 758c"
-generated_at: "2026-03-29T21:44:52.962Z"
+generated_at: "2026-03-29T21:52:28.201Z"
 ---
 
 # § 758c. Authorization of appropriations for research laboratory, experiment stations, dock and storehouse facilities, vessels, etc., for activities in the Pacific Ocean; transfer of surplus vessels

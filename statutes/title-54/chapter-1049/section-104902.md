@@ -3,9 +3,9 @@ title: "Section 104902 - Services or other accommodations for public"
 usc_title: 54
 usc_section: "104902"
 chapter: 1049
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "54 U.S.C. § 104902"
-generated_at: "2026-03-29T21:46:42.318Z"
+generated_at: "2026-03-29T21:56:16.784Z"
 ---
 
 # § 104902. Services or other accommodations for public

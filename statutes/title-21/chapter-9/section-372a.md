@@ -3,9 +3,9 @@ title: "Section 372a - Transferred"
 usc_title: 21
 usc_section: "372a"
 chapter: 9
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "21 U.S.C. § 372a"
-generated_at: "2026-03-29T21:45:05.503Z"
+generated_at: "2026-03-29T21:52:36.175Z"
 ---
 
 # § 372a. Transferred

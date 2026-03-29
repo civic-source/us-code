@@ -3,9 +3,9 @@ title: "Section 2001 - Congressional declaration of purposes"
 usc_title: 19
 usc_section: "2001"
 chapter: 8
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "19 U.S.C. § 2001"
-generated_at: "2026-03-29T21:44:47.764Z"
+generated_at: "2026-03-29T21:52:20.694Z"
 ---
 
 # § 2001. Congressional declaration of purposes

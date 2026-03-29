@@ -3,9 +3,9 @@ title: "Section 13477 - High-temperature superconductivity program"
 usc_title: 42
 usc_section: "13477"
 chapter: 134
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "42 U.S.C. § 13477"
-generated_at: "2026-03-29T21:46:25.959Z"
+generated_at: "2026-03-29T21:55:58.364Z"
 ---
 
 # § 13477. High-temperature superconductivity program

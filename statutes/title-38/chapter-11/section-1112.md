@@ -3,9 +3,9 @@ title: "Section 1112 - Presumptions relating to certain diseases and disabilitie
 usc_title: 38
 usc_section: "1112"
 chapter: 11
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "38 U.S.C. § 1112"
-generated_at: "2026-03-29T21:45:43.184Z"
+generated_at: "2026-03-29T21:54:34.941Z"
 ---
 
 # § 1112. Presumptions relating to certain diseases and disabilities

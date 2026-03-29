@@ -3,9 +3,9 @@ title: "Section 1968 - Citation release"
 usc_title: 2
 usc_section: "1968"
 chapter: 29
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "2 U.S.C. § 1968"
-generated_at: "2026-03-29T21:43:54.072Z"
+generated_at: "2026-03-29T21:51:14.180Z"
 ---
 
 # § 1968. Citation release

@@ -3,9 +3,9 @@ title: "Section 6507 - Congressional review of grant programs"
 usc_title: 31
 usc_section: "6507"
 chapter: 65
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "31 U.S.C. § 6507"
-generated_at: "2026-03-29T21:45:30.514Z"
+generated_at: "2026-03-29T21:53:49.747Z"
 ---
 
 # § 6507. Congressional review of grant programs

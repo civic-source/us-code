@@ -3,9 +3,9 @@ title: "Section 1354 - Alternative tax election; revocation; termination"
 usc_title: 26
 usc_section: "1354"
 chapter: 1
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "26 U.S.C. § 1354"
-generated_at: "2026-03-29T21:45:26.325Z"
+generated_at: "2026-03-29T21:53:33.828Z"
 ---
 
 # § 1354. Alternative tax election; revocation; termination

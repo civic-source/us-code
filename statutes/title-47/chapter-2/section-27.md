@@ -3,9 +3,9 @@ title: "Section 27 - Offending vessels to show nationality"
 usc_title: 47
 usc_section: "27"
 chapter: 2
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "47 U.S.C. § 27"
-generated_at: "2026-03-29T21:46:37.041Z"
+generated_at: "2026-03-29T21:56:03.441Z"
 ---
 
 # § 27. Offending vessels to show nationality

@@ -3,9 +3,9 @@ title: "Section 3742 - Adjustment of threshold amount of covered contract"
 usc_title: 10
 usc_section: "3742"
 chapter: 273
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "10 U.S.C. § 3742"
-generated_at: "2026-03-29T21:44:27.224Z"
+generated_at: "2026-03-29T21:51:41.658Z"
 ---
 
 # § 3742. Adjustment of threshold amount of covered contract

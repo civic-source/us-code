@@ -3,9 +3,9 @@ title: "Section 1738j - Oversight"
 usc_title: 7
 usc_section: "1738j"
 chapter: 41
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "7 U.S.C. § 1738j"
-generated_at: "2026-03-29T21:44:07.528Z"
+generated_at: "2026-03-29T21:51:24.584Z"
 ---
 
 # § 1738j. Oversight

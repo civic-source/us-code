@@ -3,9 +3,9 @@ title: "Section 225 - Applicability of penal provisions in certain cases"
 usc_title: 13
 usc_section: "225"
 chapter: 7
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "13 U.S.C. § 225"
-generated_at: "2026-03-29T21:44:29.769Z"
+generated_at: "2026-03-29T21:51:45.844Z"
 ---
 
 # § 225. Applicability of penal provisions in certain cases

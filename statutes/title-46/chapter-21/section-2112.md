@@ -3,9 +3,9 @@ title: "Section 2112 - Authority to change working hours"
 usc_title: 46
 usc_section: "2112"
 chapter: 21
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "46 U.S.C. § 2112"
-generated_at: "2026-03-29T21:46:31.865Z"
+generated_at: "2026-03-29T21:56:05.052Z"
 ---
 
 # § 2112. Authority to change working hours

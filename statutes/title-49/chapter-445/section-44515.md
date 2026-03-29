@@ -3,9 +3,9 @@ title: "Section 44515 - Advanced training facilities for maintenance technicians
 usc_title: 49
 usc_section: "44515"
 chapter: 445
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "49 U.S.C. § 44515"
-generated_at: "2026-03-29T21:46:36.155Z"
+generated_at: "2026-03-29T21:56:12.708Z"
 ---
 
 # § 44515. Advanced training facilities for maintenance technicians for air carrier aircraft

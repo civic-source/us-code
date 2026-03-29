@@ -3,9 +3,9 @@ title: "Section 1716b - Partition of Federal National Mortgage Association into 
 usc_title: 12
 usc_section: "1716b"
 chapter: 13
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "12 U.S.C. § 1716b"
-generated_at: "2026-03-29T21:44:35.734Z"
+generated_at: "2026-03-29T21:51:52.807Z"
 ---
 
 # § 1716b. Partition of Federal National Mortgage Association into Federal National Mortgage Association and Government National Mortgage Association; assets and liabilities; operations

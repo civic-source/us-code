@@ -3,9 +3,9 @@ title: "Section 10453 - Tribal Deputy"
 usc_title: 34
 usc_section: "10453"
 chapter: 101
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "34 U.S.C. § 10453"
-generated_at: "2026-03-29T21:45:35.187Z"
+generated_at: "2026-03-29T21:54:09.933Z"
 ---
 
 # § 10453. Tribal Deputy

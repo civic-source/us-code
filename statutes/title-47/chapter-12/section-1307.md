@@ -3,9 +3,9 @@ title: "Section 1307 - Office of Internet Connectivity and Growth"
 usc_title: 47
 usc_section: "1307"
 chapter: 12
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "47 U.S.C. § 1307"
-generated_at: "2026-03-29T21:46:37.115Z"
+generated_at: "2026-03-29T21:56:03.516Z"
 ---
 
 # § 1307. Office of Internet Connectivity and Growth

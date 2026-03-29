@@ -3,9 +3,9 @@ title: "Section 10151 - Standby Reserve: composition"
 usc_title: 10
 usc_section: "10151"
 chapter: 1005
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "10 U.S.C. § 10151"
-generated_at: "2026-03-29T21:44:27.293Z"
+generated_at: "2026-03-29T21:51:41.740Z"
 ---
 
 # § 10151. Standby Reserve: composition

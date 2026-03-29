@@ -3,9 +3,9 @@ title: "Section 2454 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 S
 usc_title: 42
 usc_section: "2454"
 chapter: 26
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "42 U.S.C. § 2454"
-generated_at: "2026-03-29T21:46:25.412Z"
+generated_at: "2026-03-29T21:55:57.881Z"
 ---
 
 # §§ 2451 to 2454. Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 Stat. 3444

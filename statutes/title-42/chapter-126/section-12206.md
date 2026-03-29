@@ -3,9 +3,9 @@ title: "Section 12206 - Technical assistance"
 usc_title: 42
 usc_section: "12206"
 chapter: 126
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "42 U.S.C. § 12206"
-generated_at: "2026-03-29T21:46:25.888Z"
+generated_at: "2026-03-29T21:55:58.308Z"
 ---
 
 # § 12206. Technical assistance

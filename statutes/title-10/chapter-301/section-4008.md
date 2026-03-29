@@ -3,9 +3,9 @@ title: "Section 4008 - Merit-based award of grants for research and development"
 usc_title: 10
 usc_section: "4008"
 chapter: 301
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "10 U.S.C. § 4008"
-generated_at: "2026-03-29T21:44:27.230Z"
+generated_at: "2026-03-29T21:51:41.665Z"
 ---
 
 # § 4008. Merit-based award of grants for research and development

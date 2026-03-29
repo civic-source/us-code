@@ -3,9 +3,9 @@ title: "Section 5 - United States defined"
 usc_title: 18
 usc_section: "5"
 chapter: 1
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "18 U.S.C. § 5"
-generated_at: "2026-03-29T21:44:45.607Z"
+generated_at: "2026-03-29T21:52:13.461Z"
 ---
 
 # § 5. United States defined

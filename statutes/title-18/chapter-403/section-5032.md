@@ -3,9 +3,9 @@ title: "Section 5032 - Delinquency proceedings in district courts; transfer for 
 usc_title: 18
 usc_section: "5032"
 chapter: 403
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "18 U.S.C. § 5032"
-generated_at: "2026-03-29T21:44:45.735Z"
+generated_at: "2026-03-29T21:52:13.627Z"
 ---
 
 # § 5032. Delinquency proceedings in district courts; transfer for criminal prosecution

@@ -3,9 +3,9 @@ title: "Section 285j - United States Special Resources"
 usc_title: 22
 usc_section: "285j"
 chapter: 7
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "22 U.S.C. § 285j"
-generated_at: "2026-03-29T21:45:09.780Z"
+generated_at: "2026-03-29T21:53:05.610Z"
 ---
 
 # § 285j. United States Special Resources

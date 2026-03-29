@@ -3,9 +3,9 @@ title: "Section 20120 - Enforcement report"
 usc_title: 49
 usc_section: "20120"
 chapter: 201
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "49 U.S.C. § 20120"
-generated_at: "2026-03-29T21:46:36.081Z"
+generated_at: "2026-03-29T21:56:12.641Z"
 ---
 
 # § 20120. Enforcement report

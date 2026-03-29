@@ -3,9 +3,9 @@ title: "Section 6532 - Death, resignation, or disability of Secretary and Assist
 usc_title: 2
 usc_section: "6532"
 chapter: 65
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "2 U.S.C. § 6532"
-generated_at: "2026-03-29T21:43:54.101Z"
+generated_at: "2026-03-29T21:51:14.210Z"
 ---
 
 # § 6532. Death, resignation, or disability of Secretary and Assistant Secretary of Senate; Financial Clerk deemed successor as disbursing officer

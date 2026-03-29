@@ -3,9 +3,9 @@ title: "Section 85 - Patents for lands, with reservation of coal; disposal of co
 usc_title: 30
 usc_section: "85"
 chapter: 3
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "30 U.S.C. § 85"
-generated_at: "2026-03-29T21:45:13.591Z"
+generated_at: "2026-03-29T21:53:13.426Z"
 ---
 
 # § 85. Patents for lands, with reservation of coal; disposal of coal deposits

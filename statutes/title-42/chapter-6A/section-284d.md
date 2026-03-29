@@ -3,9 +3,9 @@ title: "Section 284d - Definitions"
 usc_title: 42
 usc_section: "284d"
 chapter: 6
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "42 U.S.C. § 284d"
-generated_at: "2026-03-29T21:46:24.734Z"
+generated_at: "2026-03-29T21:55:57.175Z"
 ---
 
 # § 284d. Definitions

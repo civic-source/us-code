@@ -3,9 +3,9 @@ title: "Section 4573 - Commission recommendations and report"
 usc_title: 19
 usc_section: "4573"
 chapter: 29
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "19 U.S.C. § 4573"
-generated_at: "2026-03-29T21:44:47.842Z"
+generated_at: "2026-03-29T21:52:20.799Z"
 ---
 
 # § 4573. Commission recommendations and report

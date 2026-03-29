@@ -3,9 +3,9 @@ title: "Section 2712 - Uses of Fund"
 usc_title: 33
 usc_section: "2712"
 chapter: 40
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "33 U.S.C. § 2712"
-generated_at: "2026-03-29T21:45:32.610Z"
+generated_at: "2026-03-29T21:54:05.721Z"
 ---
 
 # § 2712. Uses of Fund

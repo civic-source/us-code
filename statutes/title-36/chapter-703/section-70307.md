@@ -3,9 +3,9 @@ title: "Section 70307 - Restrictions"
 usc_title: 36
 usc_section: "70307"
 chapter: 703
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "36 U.S.C. § 70307"
-generated_at: "2026-03-29T21:45:39.772Z"
+generated_at: "2026-03-29T21:54:32.129Z"
 ---
 
 # § 70307. Restrictions

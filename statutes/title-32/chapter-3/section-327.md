@@ -3,9 +3,9 @@ title: "Section 327 - Courts-martial of National Guard not in Federal service: c
 usc_title: 32
 usc_section: "327"
 chapter: 3
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "32 U.S.C. § 327"
-generated_at: "2026-03-29T21:45:33.821Z"
+generated_at: "2026-03-29T21:53:47.333Z"
 ---
 
 # § 327. Courts-martial of National Guard not in Federal service: convening authority

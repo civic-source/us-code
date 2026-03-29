@@ -3,9 +3,9 @@ title: "Section 3186 - Secretary of State to surrender fugitive"
 usc_title: 18
 usc_section: "3186"
 chapter: 209
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "18 U.S.C. § 3186"
-generated_at: "2026-03-29T21:44:45.709Z"
+generated_at: "2026-03-29T21:52:13.590Z"
 ---
 
 # § 3186. Secretary of State to surrender fugitive

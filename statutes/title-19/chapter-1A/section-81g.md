@@ -3,9 +3,9 @@ title: "Section 81g - Granting of application"
 usc_title: 19
 usc_section: "81g"
 chapter: 1
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "19 U.S.C. § 81g"
-generated_at: "2026-03-29T21:44:47.712Z"
+generated_at: "2026-03-29T21:52:20.619Z"
 ---
 
 # § 81g. Granting of application

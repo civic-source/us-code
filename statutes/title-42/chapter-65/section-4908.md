@@ -3,9 +3,9 @@ title: "Section 4908 - Imports"
 usc_title: 42
 usc_section: "4908"
 chapter: 65
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "42 U.S.C. § 4908"
-generated_at: "2026-03-29T21:46:25.490Z"
+generated_at: "2026-03-29T21:55:57.963Z"
 ---
 
 # § 4908. Imports

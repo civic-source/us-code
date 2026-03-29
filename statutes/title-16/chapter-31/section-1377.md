@@ -3,9 +3,9 @@ title: "Section 1377 - Enforcement"
 usc_title: 16
 usc_section: "1377"
 chapter: 31
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "16 U.S.C. § 1377"
-generated_at: "2026-03-29T21:44:53.035Z"
+generated_at: "2026-03-29T21:52:28.288Z"
 ---
 
 # § 1377. Enforcement

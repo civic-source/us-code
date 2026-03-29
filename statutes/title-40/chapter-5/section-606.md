@@ -3,9 +3,9 @@ title: "Section 606 - Regulations related to operation"
 usc_title: 40
 usc_section: "606"
 chapter: 5
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "40 U.S.C. § 606"
-generated_at: "2026-03-29T21:45:38.501Z"
+generated_at: "2026-03-29T21:54:22.331Z"
 ---
 
 # § 606. Regulations related to operation

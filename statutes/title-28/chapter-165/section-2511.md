@@ -3,9 +3,9 @@ title: "Section 2511 - Accounts of officers, agents or contractors"
 usc_title: 28
 usc_section: "2511"
 chapter: 165
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "28 U.S.C. § 2511"
-generated_at: "2026-03-29T21:45:15.034Z"
+generated_at: "2026-03-29T21:53:45.170Z"
 ---
 
 # § 2511. Accounts of officers, agents or contractors

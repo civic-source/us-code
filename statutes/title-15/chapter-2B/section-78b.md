@@ -3,9 +3,9 @@ title: "Section 78b - Necessity for regulation"
 usc_title: 15
 usc_section: "78b"
 chapter: 2
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "15 U.S.C. § 78b"
-generated_at: "2026-03-29T21:44:39.865Z"
+generated_at: "2026-03-29T21:51:59.742Z"
 ---
 
 # § 78b. Necessity for regulation

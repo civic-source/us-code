@@ -3,9 +3,9 @@ title: "Section 3123 - National Agricultural Research, Extension, Education, and
 usc_title: 7
 usc_section: "3123"
 chapter: 64
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "7 U.S.C. § 3123"
-generated_at: "2026-03-29T21:44:07.601Z"
+generated_at: "2026-03-29T21:51:24.668Z"
 ---
 
 # § 3123. National Agricultural Research, Extension, Education, and Economics Advisory Board

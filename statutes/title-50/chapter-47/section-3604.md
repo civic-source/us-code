@@ -3,9 +3,9 @@ title: "Section 3604 - Additional compensation"
 usc_title: 50
 usc_section: "3604"
 chapter: 47
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "50 U.S.C. § 3604"
-generated_at: "2026-03-29T21:46:39.511Z"
+generated_at: "2026-03-29T21:56:07.413Z"
 ---
 
 # § 3604. Additional compensation

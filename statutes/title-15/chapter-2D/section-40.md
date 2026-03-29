@@ -3,9 +3,9 @@ title: "Section 40 - Hearings by Commission"
 usc_title: 15
 usc_section: "40"
 chapter: 2
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "15 U.S.C. § 40"
-generated_at: "2026-03-29T21:44:39.921Z"
+generated_at: "2026-03-29T21:51:59.808Z"
 ---
 
 # § 80a–40. Hearings by Commission

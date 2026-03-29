@@ -3,9 +3,9 @@ title: "Section 1573 - Construction and maintenance of well fields; land acquisi
 usc_title: 43
 usc_section: "1573"
 chapter: 32
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "43 U.S.C. § 1573"
-generated_at: "2026-03-29T21:45:48.168Z"
+generated_at: "2026-03-29T21:55:05.627Z"
 ---
 
 # § 1573. Construction and maintenance of well fields; land acquisition; land replacement; nonreimbursable costs

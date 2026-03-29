@@ -3,9 +3,9 @@ title: "Section 1228 - Discharge"
 usc_title: 11
 usc_section: "1228"
 chapter: 12
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "11 U.S.C. § 1228"
-generated_at: "2026-03-29T21:44:31.247Z"
+generated_at: "2026-03-29T21:51:53.824Z"
 ---
 
 # § 1228. Discharge

@@ -3,9 +3,9 @@ title: "Section 7612 - Statement of United States policy"
 usc_title: 16
 usc_section: "7612"
 chapter: 95
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "16 U.S.C. § 7612"
-generated_at: "2026-03-29T21:44:53.174Z"
+generated_at: "2026-03-29T21:52:28.458Z"
 ---
 
 # § 7612. Statement of United States policy

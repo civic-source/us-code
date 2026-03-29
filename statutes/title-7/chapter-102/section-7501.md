@@ -3,9 +3,9 @@ title: "Section 7501 - Definitions"
 usc_title: 7
 usc_section: "7501"
 chapter: 102
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "7 U.S.C. § 7501"
-generated_at: "2026-03-29T21:44:07.690Z"
+generated_at: "2026-03-29T21:51:24.760Z"
 ---
 
 # § 7501. Definitions

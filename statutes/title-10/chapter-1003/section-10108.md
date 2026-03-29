@@ -3,9 +3,9 @@ title: "Section 10108 - Navy Reserve: administration"
 usc_title: 10
 usc_section: "10108"
 chapter: 1003
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "10 U.S.C. § 10108"
-generated_at: "2026-03-29T21:44:27.293Z"
+generated_at: "2026-03-29T21:51:41.739Z"
 ---
 
 # § 10108. Navy Reserve: administration

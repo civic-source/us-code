@@ -3,9 +3,9 @@ title: "Section 3903 - Inventory of open dumps"
 usc_title: 25
 usc_section: "3903"
 chapter: 41
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "25 U.S.C. § 3903"
-generated_at: "2026-03-29T21:45:03.818Z"
+generated_at: "2026-03-29T21:52:54.603Z"
 ---
 
 # § 3903. Inventory of open dumps

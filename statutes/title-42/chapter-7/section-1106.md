@@ -3,9 +3,9 @@ title: "Section 1106 - Unemployment compensation research program"
 usc_title: 42
 usc_section: "1106"
 chapter: 7
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "42 U.S.C. § 1106"
-generated_at: "2026-03-29T21:46:24.984Z"
+generated_at: "2026-03-29T21:55:57.452Z"
 ---
 
 # § 1106. Unemployment compensation research program

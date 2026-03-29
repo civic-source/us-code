@@ -3,9 +3,9 @@ title: "Section 2810 - Assistant United States Attorney tribal liaisons"
 usc_title: 25
 usc_section: "2810"
 chapter: 30
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "25 U.S.C. § 2810"
-generated_at: "2026-03-29T21:45:03.800Z"
+generated_at: "2026-03-29T21:52:54.580Z"
 ---
 
 # § 2810. Assistant United States Attorney tribal liaisons

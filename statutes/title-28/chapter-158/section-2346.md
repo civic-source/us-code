@@ -3,9 +3,9 @@ title: "Section 2346 - Certification of record on review"
 usc_title: 28
 usc_section: "2346"
 chapter: 158
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "28 U.S.C. § 2346"
-generated_at: "2026-03-29T21:45:15.031Z"
+generated_at: "2026-03-29T21:53:45.167Z"
 ---
 
 # § 2346. Certification of record on review

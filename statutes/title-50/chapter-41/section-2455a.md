@@ -3,9 +3,9 @@ title: "Section 2455a - National Nuclear Security Administration authority for u
 usc_title: 50
 usc_section: "2455a"
 chapter: 41
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "50 U.S.C. § 2455a"
-generated_at: "2026-03-29T21:46:39.434Z"
+generated_at: "2026-03-29T21:56:07.350Z"
 ---
 
 # § 2455a. National Nuclear Security Administration authority for urgent nonproliferation activities

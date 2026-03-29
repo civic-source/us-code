@@ -3,9 +3,9 @@ title: "Section 311 - Omitted"
 usc_title: 48
 usc_section: "311"
 chapter: 2
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "48 U.S.C. § 311"
-generated_at: "2026-03-29T21:46:30.132Z"
+generated_at: "2026-03-29T21:56:02.506Z"
 ---
 
 # §§ 310, 311. Omitted

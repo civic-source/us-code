@@ -3,9 +3,9 @@ title: "Section 2109 - Preservation, arrangement, duplication, exhibition of rec
 usc_title: 44
 usc_section: "2109"
 chapter: 21
-current_through: "PL 117-50"
+current_through: "PL 117-57"
 classification: "44 U.S.C. § 2109"
-generated_at: "2026-03-29T21:45:45.850Z"
+generated_at: "2026-03-29T21:54:37.251Z"
 ---
 
 # § 2109. Preservation, arrangement, duplication, exhibition of records
