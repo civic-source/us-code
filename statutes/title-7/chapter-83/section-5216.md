@@ -3,9 +3,9 @@ title: "Section 5216 - Repealed. Pub. L. 101–624, title XV, § 1571 , Nov. 28,
 usc_title: 7
 usc_section: "5216"
 chapter: 83
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "7 U.S.C. § 5216"
-generated_at: "2026-03-29T21:19:43.991Z"
+generated_at: "2026-03-29T21:26:38.248Z"
 ---
 
 # §§ 5215, 5216. Repealed. Pub. L. 101–624, title XV, § 1571 , Nov. 28, 1990 , 104 Stat. 3702

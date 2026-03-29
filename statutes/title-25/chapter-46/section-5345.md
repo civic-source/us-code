@@ -3,9 +3,9 @@ title: "Section 5345 - Contracts for education in public schools; submission of 
 usc_title: 25
 usc_section: "5345"
 chapter: 46
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "25 U.S.C. § 5345"
-generated_at: "2026-03-29T21:21:33.040Z"
+generated_at: "2026-03-29T21:28:11.395Z"
 ---
 
 # § 5345. Contracts for education in public schools; submission of education plan by contractor as prerequisite; criteria for approval of plan by Secretary of the Interior; participation by non-Indian students

@@ -3,9 +3,9 @@ title: "Section 304 - Filing export information, delayed filings, penalties for 
 usc_title: 13
 usc_section: "304"
 chapter: 9
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "13 U.S.C. § 304"
-generated_at: "2026-03-29T21:19:47.275Z"
+generated_at: "2026-03-29T21:26:57.277Z"
 ---
 
 # § 304. Filing export information, delayed filings, penalties for failure to file

@@ -3,9 +3,9 @@ title: "Section 8315 - Falsifying employment applications"
 usc_title: 5
 usc_section: "8315"
 chapter: 83
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "5 U.S.C. § 8315"
-generated_at: "2026-03-29T21:18:50.192Z"
+generated_at: "2026-03-29T21:26:08.488Z"
 ---
 
 # § 8315. Falsifying employment applications

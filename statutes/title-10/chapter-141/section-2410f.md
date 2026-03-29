@@ -3,9 +3,9 @@ title: "Section 2410f - Debarment of persons convicted of fraudulent use of “M
 usc_title: 10
 usc_section: "2410f"
 chapter: 141
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 2410f"
-generated_at: "2026-03-29T21:19:21.983Z"
+generated_at: "2026-03-29T21:26:52.633Z"
 ---
 
 # § 2410f. Debarment of persons convicted of fraudulent use of “Made in America” labels

@@ -3,9 +3,9 @@ title: "Section 33 - Existing rights"
 usc_title: 30
 usc_section: "33"
 chapter: 2
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "30 U.S.C. § 33"
-generated_at: "2026-03-29T21:22:46.788Z"
+generated_at: "2026-03-29T21:28:42.423Z"
 ---
 
 # § 33. Existing rights

@@ -3,9 +3,9 @@ title: "Section 5 - Rule of construction"
 usc_title: 20
 usc_section: "5"
 chapter: 28
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "20 U.S.C. § 5"
-generated_at: "2026-03-29T21:20:32.033Z"
+generated_at: "2026-03-29T21:27:24.569Z"
 ---
 
 # § 1161l–5. Rule of construction

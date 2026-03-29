@@ -3,9 +3,9 @@ title: "Section 8325 - Officers: retired grade and pay"
 usc_title: 10
 usc_section: "8325"
 chapter: 841
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 8325"
-generated_at: "2026-03-29T21:19:22.114Z"
+generated_at: "2026-03-29T21:26:52.763Z"
 ---
 
 # § 8325. Officers: retired grade and pay

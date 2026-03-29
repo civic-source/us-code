@@ -3,9 +3,9 @@ title: "Section 15 - Reports"
 usc_title: 33
 usc_section: "15"
 chapter: 17
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "33 U.S.C. § 15"
-generated_at: "2026-03-29T21:23:28.693Z"
+generated_at: "2026-03-29T21:29:34.580Z"
 ---
 
 # § 857–15. Reports

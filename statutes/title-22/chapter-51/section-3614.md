@@ -3,9 +3,9 @@ title: "Section 3614 - Deputy Administrator"
 usc_title: 22
 usc_section: "3614"
 chapter: 51
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "22 U.S.C. § 3614"
-generated_at: "2026-03-29T21:22:12.408Z"
+generated_at: "2026-03-29T21:28:26.139Z"
 ---
 
 # § 3614. Deputy Administrator

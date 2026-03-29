@@ -3,9 +3,9 @@ title: "Section 321 - The National Infrastructure Simulation and Analysis Center
 usc_title: 6
 usc_section: "321"
 chapter: 1
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "6 U.S.C. § 321"
-generated_at: "2026-03-29T21:19:29.115Z"
+generated_at: "2026-03-29T21:26:39.702Z"
 ---
 
 # § 321. The National Infrastructure Simulation and Analysis Center

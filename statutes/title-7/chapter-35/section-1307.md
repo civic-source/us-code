@@ -3,9 +3,9 @@ title: "Section 1307 - Limitation on payments under wheat, feed grains, and cott
 usc_title: 7
 usc_section: "1307"
 chapter: 35
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "7 U.S.C. § 1307"
-generated_at: "2026-03-29T21:19:43.760Z"
+generated_at: "2026-03-29T21:26:38.002Z"
 ---
 
 # § 1307. Limitation on payments under wheat, feed grains, and cotton programs for 1974 through 1977 crops

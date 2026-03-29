@@ -3,9 +3,9 @@ title: "Section 8913 - Disposal of public stores by order of commanding officer"
 usc_title: 10
 usc_section: "8913"
 chapter: 889
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 8913"
-generated_at: "2026-03-29T21:19:22.130Z"
+generated_at: "2026-03-29T21:26:52.781Z"
 ---
 
 # § 8913. Disposal of public stores by order of commanding officer

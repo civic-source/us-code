@@ -3,9 +3,9 @@ title: "Section 2734b - Property loss; personal injury or death: incident to act
 usc_title: 10
 usc_section: "2734b"
 chapter: 163
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 2734b"
-generated_at: "2026-03-29T21:19:22.024Z"
+generated_at: "2026-03-29T21:26:52.674Z"
 ---
 
 # § 2734b. Property loss; personal injury or death: incident to activities of armed forces of foreign countries in United States; international agreements

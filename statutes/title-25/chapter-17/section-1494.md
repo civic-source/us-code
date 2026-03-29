@@ -3,9 +3,9 @@ title: "Section 1494 - Evidence of eligibility of loan for and amount of guarant
 usc_title: 25
 usc_section: "1494"
 chapter: 17
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "25 U.S.C. § 1494"
-generated_at: "2026-03-29T21:21:32.937Z"
+generated_at: "2026-03-29T21:28:11.286Z"
 ---
 
 # § 1494. Evidence of eligibility of loan for and amount of guaranty or insurance; defenses and partial defenses against original lender

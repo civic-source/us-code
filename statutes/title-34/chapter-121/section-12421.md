@@ -3,9 +3,9 @@ title: "Section 12421 - Enhanced training and services to end abuse in later lif
 usc_title: 34
 usc_section: "12421"
 chapter: 121
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "34 U.S.C. § 12421"
-generated_at: "2026-03-29T21:23:25.941Z"
+generated_at: "2026-03-29T21:29:32.770Z"
 ---
 
 # § 12421. Enhanced training and services to end abuse in later life

@@ -3,9 +3,9 @@ title: "Section 1190 - Contents of plan"
 usc_title: 11
 usc_section: "1190"
 chapter: 11
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "11 U.S.C. § 1190"
-generated_at: "2026-03-29T21:20:01.827Z"
+generated_at: "2026-03-29T21:26:56.807Z"
 ---
 
 # § 1190. Contents of plan

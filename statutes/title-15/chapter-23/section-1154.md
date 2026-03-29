@@ -3,9 +3,9 @@ title: "Section 1154 - Reference of data to armed services and other Government 
 usc_title: 15
 usc_section: "1154"
 chapter: 23
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "15 U.S.C. § 1154"
-generated_at: "2026-03-29T21:20:22.153Z"
+generated_at: "2026-03-29T21:27:15.271Z"
 ---
 
 # § 1154. Reference of data to armed services and other Government agencies

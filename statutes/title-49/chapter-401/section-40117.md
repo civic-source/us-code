@@ -3,9 +3,9 @@ title: "Section 40117 - Passenger facility charges"
 usc_title: 49
 usc_section: "40117"
 chapter: 401
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "49 U.S.C. § 40117"
-generated_at: "2026-03-29T21:24:46.526Z"
+generated_at: "2026-03-29T21:30:56.288Z"
 ---
 
 # § 40117. Passenger facility charges

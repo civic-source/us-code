@@ -3,9 +3,9 @@ title: "Section 2622 - Hanford waste tank cleanup program reforms"
 usc_title: 50
 usc_section: "2622"
 chapter: 42
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "50 U.S.C. § 2622"
-generated_at: "2026-03-29T21:24:52.366Z"
+generated_at: "2026-03-29T21:31:09.151Z"
 ---
 
 # § 2622. Hanford waste tank cleanup program reforms

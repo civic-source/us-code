@@ -3,9 +3,9 @@ title: "Section 21906 - Headquarters and meetings"
 usc_title: 36
 usc_section: "21906"
 chapter: 219
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "36 U.S.C. § 21906"
-generated_at: "2026-03-29T21:23:35.226Z"
+generated_at: "2026-03-29T21:29:45.014Z"
 ---
 
 # § 21906. Headquarters and meetings

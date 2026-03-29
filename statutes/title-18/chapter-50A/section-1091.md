@@ -3,9 +3,9 @@ title: "Section 1091 - Genocide"
 usc_title: 18
 usc_section: "1091"
 chapter: 50
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "18 U.S.C. § 1091"
-generated_at: "2026-03-29T21:21:09.624Z"
+generated_at: "2026-03-29T21:28:02.734Z"
 ---
 
 # § 1091. Genocide

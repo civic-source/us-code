@@ -3,9 +3,9 @@ title: "Section 1679 - Eligibility of California Indians"
 usc_title: 25
 usc_section: "1679"
 chapter: 18
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "25 U.S.C. § 1679"
-generated_at: "2026-03-29T21:21:32.961Z"
+generated_at: "2026-03-29T21:28:11.308Z"
 ---
 
 # § 1679. Eligibility of California Indians

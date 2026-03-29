@@ -3,9 +3,9 @@ title: "Section 1330 - Organization of Commission"
 usc_title: 19
 usc_section: "1330"
 chapter: 4
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "19 U.S.C. § 1330"
-generated_at: "2026-03-29T21:20:55.924Z"
+generated_at: "2026-03-29T21:27:29.109Z"
 ---
 
 # § 1330. Organization of Commission

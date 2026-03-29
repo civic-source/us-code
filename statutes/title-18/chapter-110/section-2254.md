@@ -3,9 +3,9 @@ title: "Section 2254 - Civil forfeiture"
 usc_title: 18
 usc_section: "2254"
 chapter: 110
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "18 U.S.C. § 2254"
-generated_at: "2026-03-29T21:21:09.654Z"
+generated_at: "2026-03-29T21:28:02.770Z"
 ---
 
 # § 2254. Civil forfeiture

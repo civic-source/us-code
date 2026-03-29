@@ -3,9 +3,9 @@ title: "Section 40a - Educational facilities for dependents of employees; paymen
 usc_title: 16
 usc_section: "40a"
 chapter: 1
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "16 U.S.C. § 40a"
-generated_at: "2026-03-29T21:20:37.733Z"
+generated_at: "2026-03-29T21:27:39.679Z"
 ---
 
 # § 40a. Educational facilities for dependents of employees; payments to school districts; limitation on amount

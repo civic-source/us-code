@@ -3,9 +3,9 @@ title: "Section 1644 - Communication between State and local government agencies
 usc_title: 8
 usc_section: "1644"
 chapter: 14
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "8 U.S.C. § 1644"
-generated_at: "2026-03-29T21:19:37.478Z"
+generated_at: "2026-03-29T21:26:41.308Z"
 ---
 
 # § 1644. Communication between State and local government agencies and Immigration and Naturalization Service

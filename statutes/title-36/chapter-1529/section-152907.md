@@ -3,9 +3,9 @@ title: "Section 152907 - Exclusive right to name, seals, emblems, and badges"
 usc_title: 36
 usc_section: "152907"
 chapter: 1529
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "36 U.S.C. § 152907"
-generated_at: "2026-03-29T21:23:35.263Z"
+generated_at: "2026-03-29T21:29:45.081Z"
 ---
 
 # § 152907. Exclusive right to name, seals, emblems, and badges

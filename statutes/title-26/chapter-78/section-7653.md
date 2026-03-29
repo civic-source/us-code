@@ -3,9 +3,9 @@ title: "Section 7653 - Shipments from the United States"
 usc_title: 26
 usc_section: "7653"
 chapter: 78
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "26 U.S.C. § 7653"
-generated_at: "2026-03-29T21:23:14.598Z"
+generated_at: "2026-03-29T21:29:02.449Z"
 ---
 
 # § 7653. Shipments from the United States

@@ -3,9 +3,9 @@ title: "Section 1458 - Compilation of naturalization statistics and payment for 
 usc_title: 8
 usc_section: "1458"
 chapter: 12
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "8 U.S.C. § 1458"
-generated_at: "2026-03-29T21:19:37.469Z"
+generated_at: "2026-03-29T21:26:41.296Z"
 ---
 
 # § 1458. Compilation of naturalization statistics and payment for equipment

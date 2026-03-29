@@ -3,9 +3,9 @@ title: "Section 8432a - Payment of lost earnings"
 usc_title: 5
 usc_section: "8432a"
 chapter: 84
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "5 U.S.C. § 8432a"
-generated_at: "2026-03-29T21:18:50.221Z"
+generated_at: "2026-03-29T21:26:08.514Z"
 ---
 
 # § 8432a. Payment of lost earnings

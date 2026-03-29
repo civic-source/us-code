@@ -3,9 +3,9 @@ title: "Section 5213 - Joint development assistance agreements with certain trad
 usc_title: 7
 usc_section: "5213"
 chapter: 83
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "7 U.S.C. § 5213"
-generated_at: "2026-03-29T21:19:43.991Z"
+generated_at: "2026-03-29T21:26:38.248Z"
 ---
 
 # § 5213. Joint development assistance agreements with certain trading partners

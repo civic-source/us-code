@@ -3,9 +3,9 @@ title: "Section 7 - Effect on State laws"
 usc_title: 42
 usc_section: "7"
 chapter: 21
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-29T21:24:29.431Z"
+generated_at: "2026-03-29T21:30:45.040Z"
 ---
 
 # § 2000e–7. Effect on State laws

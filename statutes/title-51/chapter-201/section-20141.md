@@ -3,9 +3,9 @@ title: "Section 20141 - Misuse of agency name and initials"
 usc_title: 51
 usc_section: "20141"
 chapter: 201
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "51 U.S.C. § 20141"
-generated_at: "2026-03-29T21:24:56.537Z"
+generated_at: "2026-03-29T21:31:50.857Z"
 ---
 
 # § 20141. Misuse of agency name and initials

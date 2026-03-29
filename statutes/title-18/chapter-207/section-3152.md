@@ -3,9 +3,9 @@ title: "Section 3152 - Establishment of pretrial services"
 usc_title: 18
 usc_section: "3152"
 chapter: 207
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "18 U.S.C. § 3152"
-generated_at: "2026-03-29T21:21:09.686Z"
+generated_at: "2026-03-29T21:28:02.805Z"
 ---
 
 # § 3152. Establishment of pretrial services

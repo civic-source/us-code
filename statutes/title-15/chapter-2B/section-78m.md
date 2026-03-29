@@ -3,9 +3,9 @@ title: "Section 78m - Periodical and other reports"
 usc_title: 15
 usc_section: "78m"
 chapter: 2
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "15 U.S.C. § 78m"
-generated_at: "2026-03-29T21:20:21.943Z"
+generated_at: "2026-03-29T21:27:15.071Z"
 ---
 
 # § 78m. Periodical and other reports

@@ -3,9 +3,9 @@ title: "Section 4215 - Notarial acts, oaths, affirmations, affidavits, and depos
 usc_title: 22
 usc_section: "4215"
 chapter: 52
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "22 U.S.C. § 4215"
-generated_at: "2026-03-29T21:22:12.451Z"
+generated_at: "2026-03-29T21:28:26.175Z"
 ---
 
 # § 4215. Notarial acts, oaths, affirmations, affidavits, and depositions; fees

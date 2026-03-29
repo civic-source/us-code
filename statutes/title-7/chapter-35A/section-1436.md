@@ -3,9 +3,9 @@ title: "Section 1436 - Reimbursement of appropriations available for classing or
 usc_title: 7
 usc_section: "1436"
 chapter: 35
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "7 U.S.C. § 1436"
-generated_at: "2026-03-29T21:19:43.783Z"
+generated_at: "2026-03-29T21:26:38.032Z"
 ---
 
 # § 1436. Reimbursement of appropriations available for classing or grading agriculture commodities without charge

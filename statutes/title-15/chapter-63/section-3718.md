@@ -3,9 +3,9 @@ title: "Section 3718 - President’s Council on Innovation and Competitiveness"
 usc_title: 15
 usc_section: "3718"
 chapter: 63
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "15 U.S.C. § 3718"
-generated_at: "2026-03-29T21:20:22.316Z"
+generated_at: "2026-03-29T21:27:15.431Z"
 ---
 
 # § 3718. President’s Council on Innovation and Competitiveness

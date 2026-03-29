@@ -3,9 +3,9 @@ title: "Section 892a - Functions of the Administrator"
 usc_title: 33
 usc_section: "892a"
 chapter: 17
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "33 U.S.C. § 892a"
-generated_at: "2026-03-29T21:23:28.697Z"
+generated_at: "2026-03-29T21:29:34.582Z"
 ---
 
 # § 892a. Functions of the Administrator

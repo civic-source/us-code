@@ -3,9 +3,9 @@ title: "Section 5 - Omitted"
 usc_title: 43
 usc_section: "5"
 chapter: 12
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "43 U.S.C. § 5"
-generated_at: "2026-03-29T21:24:05.196Z"
+generated_at: "2026-03-29T21:30:05.688Z"
 ---
 
 # §§ 616ww to 616ww–5. Omitted

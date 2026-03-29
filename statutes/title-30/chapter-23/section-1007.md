@@ -3,9 +3,9 @@ title: "Section 1007 - Readjustment of lease terms and conditions"
 usc_title: 30
 usc_section: "1007"
 chapter: 23
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "30 U.S.C. § 1007"
-generated_at: "2026-03-29T21:22:46.847Z"
+generated_at: "2026-03-29T21:28:42.478Z"
 ---
 
 # § 1007. Readjustment of lease terms and conditions

@@ -3,9 +3,9 @@ title: "Section 2108 - Application of pre-1967 estate tax provisions"
 usc_title: 26
 usc_section: "2108"
 chapter: 11
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "26 U.S.C. § 2108"
-generated_at: "2026-03-29T21:23:14.355Z"
+generated_at: "2026-03-29T21:29:02.256Z"
 ---
 
 # § 2108. Application of pre-1967 estate tax provisions

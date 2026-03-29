@@ -3,9 +3,9 @@ title: "Section 2704 - Powers of the Committee"
 usc_title: 44
 usc_section: "2704"
 chapter: 27
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "44 U.S.C. § 2704"
-generated_at: "2026-03-29T21:23:42.742Z"
+generated_at: "2026-03-29T21:30:03.821Z"
 ---
 
 # § 2704. Powers of the Committee

@@ -3,9 +3,9 @@ title: "Section 5 - Reports of subordinate bodies and committees; unvouchered ex
 usc_title: 50
 usc_section: "5"
 chapter: 1
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "50 U.S.C. § 5"
-generated_at: "2026-03-29T21:24:52.284Z"
+generated_at: "2026-03-29T21:31:09.086Z"
 ---
 
 # § 5. Reports of subordinate bodies and committees; unvouchered expenditures

@@ -3,9 +3,9 @@ title: "Section 2372 - Independent research and development costs: allowable cos
 usc_title: 10
 usc_section: "2372"
 chapter: 139
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 2372"
-generated_at: "2026-03-29T21:19:21.978Z"
+generated_at: "2026-03-29T21:26:52.627Z"
 ---
 
 # § 2372. Independent research and development costs: allowable costs

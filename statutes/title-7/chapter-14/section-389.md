@@ -3,9 +3,9 @@ title: "Section 389 - Transfer of certain dry land and irrigation field stations
 usc_title: 7
 usc_section: "389"
 chapter: 14
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "7 U.S.C. § 389"
-generated_at: "2026-03-29T21:19:43.718Z"
+generated_at: "2026-03-29T21:26:37.954Z"
 ---
 
 # § 389. Transfer of certain dry land and irrigation field stations to States

@@ -3,9 +3,9 @@ title: "Section 626 - Enforcement of lien against entered but un­patented land"
 usc_title: 43
 usc_section: "626"
 chapter: 13
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "43 U.S.C. § 626"
-generated_at: "2026-03-29T21:24:05.205Z"
+generated_at: "2026-03-29T21:30:05.694Z"
 ---
 
 # § 626. Enforcement of lien against entered but un­patented land

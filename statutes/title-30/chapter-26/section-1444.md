@@ -3,9 +3,9 @@ title: "Section 1444 - Disclaimer of obligation to pay compensation"
 usc_title: 30
 usc_section: "1444"
 chapter: 26
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "30 U.S.C. § 1444"
-generated_at: "2026-03-29T21:22:46.878Z"
+generated_at: "2026-03-29T21:28:42.506Z"
 ---
 
 # § 1444. Disclaimer of obligation to pay compensation

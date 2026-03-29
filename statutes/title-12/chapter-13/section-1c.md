@@ -3,9 +3,9 @@ title: "Section 1c - Regulation of rents in insured projects"
 usc_title: 12
 usc_section: "1c"
 chapter: 13
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "12 U.S.C. § 1c"
-generated_at: "2026-03-29T21:19:56.202Z"
+generated_at: "2026-03-29T21:27:06.693Z"
 ---
 
 # § 1715z–1c. Regulation of rents in insured projects

@@ -3,9 +3,9 @@ title: "Section 4006 - Subsistence for prisoners"
 usc_title: 18
 usc_section: "4006"
 chapter: 301
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "18 U.S.C. § 4006"
-generated_at: "2026-03-29T21:21:09.718Z"
+generated_at: "2026-03-29T21:28:02.838Z"
 ---
 
 # § 4006. Subsistence for prisoners

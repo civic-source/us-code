@@ -3,9 +3,9 @@ title: "Section 2363 - Accounting, valuation, reporting, and administration of f
 usc_title: 22
 usc_section: "2363"
 chapter: 32
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "22 U.S.C. § 2363"
-generated_at: "2026-03-29T21:22:12.316Z"
+generated_at: "2026-03-29T21:28:26.073Z"
 ---
 
 # § 2363. Accounting, valuation, reporting, and administration of foreign currencies

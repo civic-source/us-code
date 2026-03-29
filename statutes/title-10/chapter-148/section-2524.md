@@ -3,9 +3,9 @@ title: "Section 2524 - Repealed. Pub. L. 104–106, div. A, title X, § 1081(f) 
 usc_title: 10
 usc_section: "2524"
 chapter: 148
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 2524"
-generated_at: "2026-03-29T21:19:22.000Z"
+generated_at: "2026-03-29T21:26:52.650Z"
 ---
 
 # [§§ 2523, 2524. Repealed. Pub. L. 104–106, div. A, title X, § 1081(f) , Feb. 10, 1996 , 110 Stat. 454 ]

@@ -3,9 +3,9 @@ title: "Section 470ll - Annual report to Congress"
 usc_title: 16
 usc_section: "470ll"
 chapter: 1
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "16 U.S.C. § 470ll"
-generated_at: "2026-03-29T21:20:37.966Z"
+generated_at: "2026-03-29T21:27:39.921Z"
 ---
 
 # § 470ll. Annual report to Congress

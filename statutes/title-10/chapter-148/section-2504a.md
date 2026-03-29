@@ -3,9 +3,9 @@ title: "Section 2504a - Unfunded priorities of the national technology and indus
 usc_title: 10
 usc_section: "2504a"
 chapter: 148
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 2504a"
-generated_at: "2026-03-29T21:19:21.998Z"
+generated_at: "2026-03-29T21:26:52.648Z"
 ---
 
 # § 2504a. Unfunded priorities of the national technology and industrial base: annual report

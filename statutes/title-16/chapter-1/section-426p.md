@@ -3,9 +3,9 @@ title: "Section 426p - Authorization of appropriations"
 usc_title: 16
 usc_section: "426p"
 chapter: 1
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "16 U.S.C. § 426p"
-generated_at: "2026-03-29T21:20:37.847Z"
+generated_at: "2026-03-29T21:27:39.804Z"
 ---
 
 # § 426p. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 51904 - Presentation to representatives"
 usc_title: 46
 usc_section: "51904"
 chapter: 519
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "46 U.S.C. § 51904"
-generated_at: "2026-03-29T21:24:37.287Z"
+generated_at: "2026-03-29T21:31:27.562Z"
 ---
 
 # § 51904. Presentation to representatives

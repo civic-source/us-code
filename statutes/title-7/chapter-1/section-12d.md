@@ -3,9 +3,9 @@ title: "Section 12d - Commission action for noncompliance with export sales repo
 usc_title: 7
 usc_section: "12d"
 chapter: 1
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "7 U.S.C. § 12d"
-generated_at: "2026-03-29T21:19:43.650Z"
+generated_at: "2026-03-29T21:26:37.870Z"
 ---
 
 # § 12d. Commission action for noncompliance with export sales reporting requirements

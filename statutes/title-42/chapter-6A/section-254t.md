@@ -3,9 +3,9 @@ title: "Section 254t - Demonstration project"
 usc_title: 42
 usc_section: "254t"
 chapter: 6
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "42 U.S.C. § 254t"
-generated_at: "2026-03-29T21:24:28.410Z"
+generated_at: "2026-03-29T21:30:44.206Z"
 ---
 
 # § 254t. Demonstration project

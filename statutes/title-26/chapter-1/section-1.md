@@ -3,9 +3,9 @@ title: "Section 1 - Designation"
 usc_title: 26
 usc_section: "1"
 chapter: 1
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "26 U.S.C. § 1"
-generated_at: "2026-03-29T21:23:14.334Z"
+generated_at: "2026-03-29T21:29:02.237Z"
 ---
 
 # § 1400Z–1. Designation

@@ -3,9 +3,9 @@ title: "Section 407f - Exchange of lands"
 usc_title: 16
 usc_section: "407f"
 chapter: 1
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "16 U.S.C. § 407f"
-generated_at: "2026-03-29T21:20:37.787Z"
+generated_at: "2026-03-29T21:27:39.738Z"
 ---
 
 # § 407f. Exchange of lands

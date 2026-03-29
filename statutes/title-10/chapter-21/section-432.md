@@ -3,9 +3,9 @@ title: "Section 432 - Use, disposition, and auditing of funds"
 usc_title: 10
 usc_section: "432"
 chapter: 21
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 432"
-generated_at: "2026-03-29T21:19:21.790Z"
+generated_at: "2026-03-29T21:26:52.445Z"
 ---
 
 # § 432. Use, disposition, and auditing of funds

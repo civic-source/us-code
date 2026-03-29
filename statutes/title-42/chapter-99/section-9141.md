@@ -3,9 +3,9 @@ title: "Section 9141 - Determinations under Merchant Marine Act, 1936"
 usc_title: 42
 usc_section: "9141"
 chapter: 99
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "42 U.S.C. § 9141"
-generated_at: "2026-03-29T21:24:29.944Z"
+generated_at: "2026-03-29T21:30:45.470Z"
 ---
 
 # § 9141. Determinations under Merchant Marine Act, 1936

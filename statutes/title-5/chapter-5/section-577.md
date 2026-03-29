@@ -3,9 +3,9 @@ title: "Section 577 - Arbitrators"
 usc_title: 5
 usc_section: "577"
 chapter: 5
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "5 U.S.C. § 577"
-generated_at: "2026-03-29T21:18:50.077Z"
+generated_at: "2026-03-29T21:26:08.377Z"
 ---
 
 # § 577. Arbitrators

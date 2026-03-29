@@ -3,9 +3,9 @@ title: "Section 9512 - Contracts for the inclusion or incorporation of defense f
 usc_title: 10
 usc_section: "9512"
 chapter: 961
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 9512"
-generated_at: "2026-03-29T21:19:22.143Z"
+generated_at: "2026-03-29T21:26:52.794Z"
 ---
 
 # § 9512. Contracts for the inclusion or incorporation of defense features

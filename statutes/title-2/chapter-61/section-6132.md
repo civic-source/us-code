@@ -3,9 +3,9 @@ title: "Section 6132 - Assistants to Senate Majority and Minority Leaders for Fl
 usc_title: 2
 usc_section: "6132"
 chapter: 61
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "2 U.S.C. § 6132"
-generated_at: "2026-03-29T21:19:01.803Z"
+generated_at: "2026-03-29T21:26:11.598Z"
 ---
 
 # § 6132. Assistants to Senate Majority and Minority Leaders for Floor Operations; establishment of positions; appointment; compensation

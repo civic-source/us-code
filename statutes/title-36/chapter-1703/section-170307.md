@@ -3,9 +3,9 @@ title: "Section 170307 - Exclusive right to name, seals, emblems, and badges"
 usc_title: 36
 usc_section: "170307"
 chapter: 1703
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "36 U.S.C. § 170307"
-generated_at: "2026-03-29T21:23:35.270Z"
+generated_at: "2026-03-29T21:29:45.089Z"
 ---
 
 # § 170307. Exclusive right to name, seals, emblems, and badges

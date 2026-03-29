@@ -3,9 +3,9 @@ title: "Section 2414 - Payment of judgments and compromise settlements"
 usc_title: 28
 usc_section: "2414"
 chapter: 161
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "28 U.S.C. § 2414"
-generated_at: "2026-03-29T21:22:18.231Z"
+generated_at: "2026-03-29T21:29:17.338Z"
 ---
 
 # § 2414. Payment of judgments and compromise settlements

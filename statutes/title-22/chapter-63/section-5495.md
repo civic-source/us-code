@@ -3,9 +3,9 @@ title: "Section 5495 - Certain uses of excess foreign currencies"
 usc_title: 22
 usc_section: "5495"
 chapter: 63
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "22 U.S.C. § 5495"
-generated_at: "2026-03-29T21:22:12.475Z"
+generated_at: "2026-03-29T21:28:26.196Z"
 ---
 
 # § 5495. Certain uses of excess foreign currencies

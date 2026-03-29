@@ -3,9 +3,9 @@ title: "Section 7459 - Reports and decisions"
 usc_title: 26
 usc_section: "7459"
 chapter: 76
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "26 U.S.C. § 7459"
-generated_at: "2026-03-29T21:23:14.580Z"
+generated_at: "2026-03-29T21:29:02.435Z"
 ---
 
 # § 7459. Reports and decisions

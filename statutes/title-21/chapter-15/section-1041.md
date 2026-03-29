@@ -3,9 +3,9 @@ title: "Section 1041 - Enforcement provisions"
 usc_title: 21
 usc_section: "1041"
 chapter: 15
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "21 U.S.C. § 1041"
-generated_at: "2026-03-29T21:21:54.174Z"
+generated_at: "2026-03-29T21:28:37.048Z"
 ---
 
 # § 1041. Enforcement provisions

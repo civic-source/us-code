@@ -3,9 +3,9 @@ title: "Section 10803 - Allotments"
 usc_title: 42
 usc_section: "10803"
 chapter: 114
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "42 U.S.C. § 10803"
-generated_at: "2026-03-29T21:24:30.044Z"
+generated_at: "2026-03-29T21:30:45.556Z"
 ---
 
 # § 10803. Allotments

@@ -3,9 +3,9 @@ title: "Section 1639 - Definitions"
 usc_title: 7
 usc_section: "1639"
 chapter: 38
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "7 U.S.C. § 1639"
-generated_at: "2026-03-29T21:19:43.821Z"
+generated_at: "2026-03-29T21:26:38.078Z"
 ---
 
 # § 1639. Definitions

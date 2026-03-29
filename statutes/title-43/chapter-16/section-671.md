@@ -3,9 +3,9 @@ title: "Section 671 - Repealed. Pub. L. 94–579, title VII, § 703(a) , Oct. 21
 usc_title: 43
 usc_section: "671"
 chapter: 16
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "43 U.S.C. § 671"
-generated_at: "2026-03-29T21:24:05.207Z"
+generated_at: "2026-03-29T21:30:05.695Z"
 ---
 
 # § 671. Repealed. Pub. L. 94–579, title VII, § 703(a) , Oct. 21, 1976 , 90 Stat. 2789

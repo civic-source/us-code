@@ -3,9 +3,9 @@ title: "Section 8 - Definitions"
 usc_title: 42
 usc_section: "8"
 chapter: 8
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-29T21:24:29.315Z"
+generated_at: "2026-03-29T21:30:44.944Z"
 ---
 
 # § 1437bbb–8. Definitions

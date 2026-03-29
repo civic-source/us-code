@@ -3,9 +3,9 @@ title: "Section 3304 - Overseas Private Investment Corporation"
 usc_title: 22
 usc_section: "3304"
 chapter: 48
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "22 U.S.C. § 3304"
-generated_at: "2026-03-29T21:22:12.403Z"
+generated_at: "2026-03-29T21:28:26.135Z"
 ---
 
 # § 3304. Overseas Private Investment Corporation

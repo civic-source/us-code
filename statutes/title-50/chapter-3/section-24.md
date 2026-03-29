@@ -3,9 +3,9 @@ title: "Section 24 - Duties of marshals"
 usc_title: 50
 usc_section: "24"
 chapter: 3
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "50 U.S.C. § 24"
-generated_at: "2026-03-29T21:24:52.284Z"
+generated_at: "2026-03-29T21:31:09.087Z"
 ---
 
 # § 24. Duties of marshals

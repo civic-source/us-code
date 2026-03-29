@@ -3,9 +3,9 @@ title: "Section 2414 - Congressional intent in construction of laws"
 usc_title: 25
 usc_section: "2414"
 chapter: 26
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "25 U.S.C. § 2414"
-generated_at: "2026-03-29T21:21:32.989Z"
+generated_at: "2026-03-29T21:28:11.337Z"
 ---
 
 # § 2414. Congressional intent in construction of laws

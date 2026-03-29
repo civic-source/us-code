@@ -3,9 +3,9 @@ title: "Section 751 - Federal response capability inventory"
 usc_title: 6
 usc_section: "751"
 chapter: 2
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "6 U.S.C. § 751"
-generated_at: "2026-03-29T21:19:29.169Z"
+generated_at: "2026-03-29T21:26:39.753Z"
 ---
 
 # § 751. Federal response capability inventory

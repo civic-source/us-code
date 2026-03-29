@@ -3,9 +3,9 @@ title: "Section 2501 - Statement of purpose"
 usc_title: 20
 usc_section: "2501"
 chapter: 45
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "20 U.S.C. § 2501"
-generated_at: "2026-03-29T21:20:32.081Z"
+generated_at: "2026-03-29T21:27:24.619Z"
 ---
 
 # § 2501. Statement of purpose

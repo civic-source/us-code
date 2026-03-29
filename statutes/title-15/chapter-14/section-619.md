@@ -3,9 +3,9 @@ title: "Section 619 - Repealed or Omitted"
 usc_title: 15
 usc_section: "619"
 chapter: 14
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "15 U.S.C. § 619"
-generated_at: "2026-03-29T21:20:22.042Z"
+generated_at: "2026-03-29T21:27:15.166Z"
 ---
 
 # §§ 617 to 619. Repealed or Omitted

@@ -3,9 +3,9 @@ title: "Section 8141 - Recordkeeping violations"
 usc_title: 22
 usc_section: "8141"
 chapter: 88
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "22 U.S.C. § 8141"
-generated_at: "2026-03-29T21:22:12.561Z"
+generated_at: "2026-03-29T21:28:26.264Z"
 ---
 
 # § 8141. Recordkeeping violations

@@ -3,9 +3,9 @@ title: "Section 53407 - National security requirements"
 usc_title: 46
 usc_section: "53407"
 chapter: 534
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "46 U.S.C. § 53407"
-generated_at: "2026-03-29T21:24:37.293Z"
+generated_at: "2026-03-29T21:31:27.567Z"
 ---
 
 # § 53407. National security requirements

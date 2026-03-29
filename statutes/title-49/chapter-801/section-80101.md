@@ -3,9 +3,9 @@ title: "Section 80101 - Definitions"
 usc_title: 49
 usc_section: "80101"
 chapter: 801
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "49 U.S.C. § 80101"
-generated_at: "2026-03-29T21:24:46.644Z"
+generated_at: "2026-03-29T21:30:56.387Z"
 ---
 
 # § 80101. Definitions

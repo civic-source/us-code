@@ -3,9 +3,9 @@ title: "Section 989 - Other definitions and special rules"
 usc_title: 26
 usc_section: "989"
 chapter: 1
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "26 U.S.C. § 989"
-generated_at: "2026-03-29T21:23:14.287Z"
+generated_at: "2026-03-29T21:29:02.192Z"
 ---
 
 # § 989. Other definitions and special rules

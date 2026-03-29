@@ -3,9 +3,9 @@ title: "Section 3107 - Service of warrants and seizures by Federal Bureau of Inv
 usc_title: 18
 usc_section: "3107"
 chapter: 205
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "18 U.S.C. § 3107"
-generated_at: "2026-03-29T21:21:09.681Z"
+generated_at: "2026-03-29T21:28:02.801Z"
 ---
 
 # § 3107. Service of warrants and seizures by Federal Bureau of Investigation

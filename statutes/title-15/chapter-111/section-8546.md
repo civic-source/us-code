@@ -3,9 +3,9 @@ title: "Section 8546 - National Oceanic and Atmospheric Administration Weather R
 usc_title: 15
 usc_section: "8546"
 chapter: 111
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "15 U.S.C. § 8546"
-generated_at: "2026-03-29T21:20:22.405Z"
+generated_at: "2026-03-29T21:27:15.517Z"
 ---
 
 # § 8546. National Oceanic and Atmospheric Administration Weather Ready All Hazards Award Program

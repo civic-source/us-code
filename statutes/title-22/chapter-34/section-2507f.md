@@ -3,9 +3,9 @@ title: "Section 2507f - Establishment of a policy on stalking"
 usc_title: 22
 usc_section: "2507f"
 chapter: 34
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "22 U.S.C. § 2507f"
-generated_at: "2026-03-29T21:22:12.350Z"
+generated_at: "2026-03-29T21:28:26.095Z"
 ---
 
 # § 2507f. Establishment of a policy on stalking

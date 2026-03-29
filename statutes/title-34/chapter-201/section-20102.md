@@ -3,9 +3,9 @@ title: "Section 20102 - Crime victim compensation"
 usc_title: 34
 usc_section: "20102"
 chapter: 201
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "34 U.S.C. § 20102"
-generated_at: "2026-03-29T21:23:25.956Z"
+generated_at: "2026-03-29T21:29:32.780Z"
 ---
 
 # § 20102. Crime victim compensation

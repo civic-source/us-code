@@ -3,9 +3,9 @@ title: "Section 1301 - Application"
 usc_title: 31
 usc_section: "1301"
 chapter: 13
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "31 U.S.C. § 1301"
-generated_at: "2026-03-29T21:23:21.438Z"
+generated_at: "2026-03-29T21:29:31.323Z"
 ---
 
 # § 1301. Application

@@ -3,9 +3,9 @@ title: "Section 10148 - Ready Reserve: failure to satisfactorily perform prescri
 usc_title: 10
 usc_section: "10148"
 chapter: 1005
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 10148"
-generated_at: "2026-03-29T21:19:22.148Z"
+generated_at: "2026-03-29T21:26:52.799Z"
 ---
 
 # § 10148. Ready Reserve: failure to satisfactorily perform prescribed training

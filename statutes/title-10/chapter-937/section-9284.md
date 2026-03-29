@@ -3,9 +3,9 @@ title: "Section 9284 - Medal of honor: duplicate medal"
 usc_title: 10
 usc_section: "9284"
 chapter: 937
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 9284"
-generated_at: "2026-03-29T21:19:22.136Z"
+generated_at: "2026-03-29T21:26:52.788Z"
 ---
 
 # § 9284. Medal of honor: duplicate medal

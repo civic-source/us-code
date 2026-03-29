@@ -3,9 +3,9 @@ title: "Section 4855 - Cost overruns"
 usc_title: 22
 usc_section: "4855"
 chapter: 58
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "22 U.S.C. § 4855"
-generated_at: "2026-03-29T21:22:12.464Z"
+generated_at: "2026-03-29T21:28:26.188Z"
 ---
 
 # § 4855. Cost overruns

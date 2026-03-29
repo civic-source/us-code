@@ -3,9 +3,9 @@ title: "Section 499c - Licenses"
 usc_title: 7
 usc_section: "499c"
 chapter: 20
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "7 U.S.C. § 499c"
-generated_at: "2026-03-29T21:19:43.723Z"
+generated_at: "2026-03-29T21:26:37.959Z"
 ---
 
 # § 499c. Licenses

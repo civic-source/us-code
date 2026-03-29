@@ -3,9 +3,9 @@ title: "Section 6333 - Receipt and use of transferred leave"
 usc_title: 5
 usc_section: "6333"
 chapter: 63
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "5 U.S.C. § 6333"
-generated_at: "2026-03-29T21:18:50.166Z"
+generated_at: "2026-03-29T21:26:08.464Z"
 ---
 
 # § 6333. Receipt and use of transferred leave

@@ -3,9 +3,9 @@ title: "Section 590 - Child care"
 usc_title: 40
 usc_section: "590"
 chapter: 5
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "40 U.S.C. § 590"
-generated_at: "2026-03-29T21:23:32.442Z"
+generated_at: "2026-03-29T21:30:01.328Z"
 ---
 
 # § 590. Child care

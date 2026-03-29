@@ -3,9 +3,9 @@ title: "Section 936 - Guaranteed loans; accommodations and subordination of lien
 usc_title: 7
 usc_section: "936"
 chapter: 31
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "7 U.S.C. § 936"
-generated_at: "2026-03-29T21:19:43.748Z"
+generated_at: "2026-03-29T21:26:37.987Z"
 ---
 
 # § 936. Guaranteed loans; accommodations and subordination of liens; interest rates; assignability of guaranteed loans and related guarantees

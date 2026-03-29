@@ -3,9 +3,9 @@ title: "Section 7433 - Assistance to international efforts"
 usc_title: 22
 usc_section: "7433"
 chapter: 81
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "22 U.S.C. § 7433"
-generated_at: "2026-03-29T21:22:12.538Z"
+generated_at: "2026-03-29T21:28:26.246Z"
 ---
 
 # § 7433. Assistance to international efforts

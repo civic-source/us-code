@@ -3,9 +3,9 @@ title: "Section 1888 - References in other laws"
 usc_title: 19
 usc_section: "1888"
 chapter: 7
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "19 U.S.C. § 1888"
-generated_at: "2026-03-29T21:20:56.002Z"
+generated_at: "2026-03-29T21:27:29.179Z"
 ---
 
 # § 1888. References in other laws

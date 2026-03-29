@@ -3,9 +3,9 @@ title: "Section 22106 - Principal office"
 usc_title: 36
 usc_section: "22106"
 chapter: 221
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "36 U.S.C. § 22106"
-generated_at: "2026-03-29T21:23:35.227Z"
+generated_at: "2026-03-29T21:29:45.014Z"
 ---
 
 # § 22106. Principal office

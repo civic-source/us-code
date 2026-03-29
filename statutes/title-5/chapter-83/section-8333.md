@@ -3,9 +3,9 @@ title: "Section 8333 - Eligibility for annuity"
 usc_title: 5
 usc_section: "8333"
 chapter: 83
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "5 U.S.C. § 8333"
-generated_at: "2026-03-29T21:18:50.195Z"
+generated_at: "2026-03-29T21:26:08.492Z"
 ---
 
 # § 8333. Eligibility for annuity

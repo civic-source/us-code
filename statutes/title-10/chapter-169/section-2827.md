@@ -3,9 +3,9 @@ title: "Section 2827 - Relocation of military family housing units"
 usc_title: 10
 usc_section: "2827"
 chapter: 169
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 2827"
-generated_at: "2026-03-29T21:19:22.030Z"
+generated_at: "2026-03-29T21:26:52.679Z"
 ---
 
 # § 2827. Relocation of military family housing units

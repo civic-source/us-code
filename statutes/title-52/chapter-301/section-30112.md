@@ -3,9 +3,9 @@ title: "Section 30112 - Maintenance of website of election reports"
 usc_title: 52
 usc_section: "30112"
 chapter: 301
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "52 U.S.C. § 30112"
-generated_at: "2026-03-29T21:24:55.859Z"
+generated_at: "2026-03-29T21:31:42.526Z"
 ---
 
 # § 30112. Maintenance of website of election reports

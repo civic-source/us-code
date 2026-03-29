@@ -3,9 +3,9 @@ title: "Section 2633 - Stevedoring and terminal services: vessels carrying cargo
 usc_title: 10
 usc_section: "2633"
 chapter: 157
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 2633"
-generated_at: "2026-03-29T21:19:22.011Z"
+generated_at: "2026-03-29T21:26:52.660Z"
 ---
 
 # § 2633. Stevedoring and terminal services: vessels carrying cargo or passengers sponsored by military department

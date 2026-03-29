@@ -3,9 +3,9 @@ title: "Section 1642 - Definitions"
 usc_title: 22
 usc_section: "1642"
 chapter: 21
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "22 U.S.C. § 1642"
-generated_at: "2026-03-29T21:22:12.250Z"
+generated_at: "2026-03-29T21:28:26.022Z"
 ---
 
 # § 1642. Definitions

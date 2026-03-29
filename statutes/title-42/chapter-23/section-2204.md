@@ -3,9 +3,9 @@ title: "Section 2204 - Electric utility contracts; authority to enter into; canc
 usc_title: 42
 usc_section: "2204"
 chapter: 23
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "42 U.S.C. § 2204"
-generated_at: "2026-03-29T21:24:29.471Z"
+generated_at: "2026-03-29T21:30:45.074Z"
 ---
 
 # § 2204. Electric utility contracts; authority to enter into; cancellation; submission to Energy Committees

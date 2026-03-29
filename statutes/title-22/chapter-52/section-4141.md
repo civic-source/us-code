@@ -3,9 +3,9 @@ title: "Section 4141 - Statement of policy; objectives"
 usc_title: 22
 usc_section: "4141"
 chapter: 52
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "22 U.S.C. § 4141"
-generated_at: "2026-03-29T21:22:12.448Z"
+generated_at: "2026-03-29T21:28:26.172Z"
 ---
 
 # § 4141. Statement of policy; objectives

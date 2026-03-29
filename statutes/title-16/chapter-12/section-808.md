@@ -3,9 +3,9 @@ title: "Section 808 - New licenses and renewals"
 usc_title: 16
 usc_section: "808"
 chapter: 12
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "16 U.S.C. § 808"
-generated_at: "2026-03-29T21:20:38.078Z"
+generated_at: "2026-03-29T21:27:40.034Z"
 ---
 
 # § 808. New licenses and renewals

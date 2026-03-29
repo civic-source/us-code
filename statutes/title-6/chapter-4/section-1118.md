@@ -3,9 +3,9 @@ title: "Section 1118 - Biometrics expansion"
 usc_title: 6
 usc_section: "1118"
 chapter: 4
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "6 U.S.C. § 1118"
-generated_at: "2026-03-29T21:19:29.184Z"
+generated_at: "2026-03-29T21:26:39.765Z"
 ---
 
 # § 1118. Biometrics expansion

@@ -3,9 +3,9 @@ title: "Section 8282 - Insane members of the naval service"
 usc_title: 10
 usc_section: "8282"
 chapter: 833
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 8282"
-generated_at: "2026-03-29T21:19:22.113Z"
+generated_at: "2026-03-29T21:26:52.762Z"
 ---
 
 # § 8282. Insane members of the naval service

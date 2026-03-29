@@ -3,9 +3,9 @@ title: "Section 1222 - Contents of plan"
 usc_title: 11
 usc_section: "1222"
 chapter: 12
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "11 U.S.C. § 1222"
-generated_at: "2026-03-29T21:20:01.828Z"
+generated_at: "2026-03-29T21:26:56.809Z"
 ---
 
 # § 1222. Contents of plan

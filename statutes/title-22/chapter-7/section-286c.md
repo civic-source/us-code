@@ -3,9 +3,9 @@ title: "Section 286c - Congressional authorization needed for certain actions"
 usc_title: 22
 usc_section: "286c"
 chapter: 7
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "22 U.S.C. § 286c"
-generated_at: "2026-03-29T21:22:12.199Z"
+generated_at: "2026-03-29T21:28:25.983Z"
 ---
 
 # § 286c. Congressional authorization needed for certain actions

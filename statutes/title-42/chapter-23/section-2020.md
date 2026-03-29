@@ -3,9 +3,9 @@ title: "Section 2020 - Licensing of Government agencies"
 usc_title: 42
 usc_section: "2020"
 chapter: 23
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "42 U.S.C. § 2020"
-generated_at: "2026-03-29T21:24:29.446Z"
+generated_at: "2026-03-29T21:30:45.052Z"
 ---
 
 # § 2020. Licensing of Government agencies

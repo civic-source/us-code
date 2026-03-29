@@ -3,9 +3,9 @@ title: "Section 7259a - Activities of Department of Energy facilities"
 usc_title: 42
 usc_section: "7259a"
 chapter: 84
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "42 U.S.C. § 7259a"
-generated_at: "2026-03-29T21:24:29.789Z"
+generated_at: "2026-03-29T21:30:45.346Z"
 ---
 
 # § 7259a. Activities of Department of Energy facilities

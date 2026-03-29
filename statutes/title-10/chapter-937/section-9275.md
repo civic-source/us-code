@@ -3,9 +3,9 @@ title: "Section 9275 - Medal of honor; Air Force cross; distinguished-service me
 usc_title: 10
 usc_section: "9275"
 chapter: 937
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 9275"
-generated_at: "2026-03-29T21:19:22.136Z"
+generated_at: "2026-03-29T21:26:52.788Z"
 ---
 
 # § 9275. Medal of honor; Air Force cross; distinguished-service medal: delegation of power to award

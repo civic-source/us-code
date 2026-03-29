@@ -3,9 +3,9 @@ title: "Section 182 - Definitions"
 usc_title: 7
 usc_section: "182"
 chapter: 9
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "7 U.S.C. § 182"
-generated_at: "2026-03-29T21:19:43.704Z"
+generated_at: "2026-03-29T21:26:37.938Z"
 ---
 
 # § 182. Definitions

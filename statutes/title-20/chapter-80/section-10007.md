@@ -3,9 +3,9 @@ title: "Section 10007 - Innovation Fund"
 usc_title: 20
 usc_section: "10007"
 chapter: 80
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "20 U.S.C. § 10007"
-generated_at: "2026-03-29T21:20:32.207Z"
+generated_at: "2026-03-29T21:27:24.727Z"
 ---
 
 # § 10007. Innovation Fund

@@ -3,9 +3,9 @@ title: "Section 12840 - Suspension of requirements for disaster areas"
 usc_title: 42
 usc_section: "12840"
 chapter: 130
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "42 U.S.C. § 12840"
-generated_at: "2026-03-29T21:24:30.148Z"
+generated_at: "2026-03-29T21:30:45.647Z"
 ---
 
 # § 12840. Suspension of requirements for disaster areas

@@ -3,9 +3,9 @@ title: "Section 1316b - Rights and protections relating to criminal history inqu
 usc_title: 2
 usc_section: "1316b"
 chapter: 24
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "2 U.S.C. § 1316b"
-generated_at: "2026-03-29T21:19:01.735Z"
+generated_at: "2026-03-29T21:26:11.525Z"
 ---
 
 # § 1316b. Rights and protections relating to criminal history inquiries

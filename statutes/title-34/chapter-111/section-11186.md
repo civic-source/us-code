@@ -3,9 +3,9 @@ title: "Section 11186 - Confidentiality of program records"
 usc_title: 34
 usc_section: "11186"
 chapter: 111
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "34 U.S.C. § 11186"
-generated_at: "2026-03-29T21:23:25.916Z"
+generated_at: "2026-03-29T21:29:32.754Z"
 ---
 
 # § 11186. Confidentiality of program records

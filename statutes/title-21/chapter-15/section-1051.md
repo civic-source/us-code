@@ -3,9 +3,9 @@ title: "Section 1051 - Other Federal laws applicable for administration and enfo
 usc_title: 21
 usc_section: "1051"
 chapter: 15
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "21 U.S.C. § 1051"
-generated_at: "2026-03-29T21:21:54.175Z"
+generated_at: "2026-03-29T21:28:37.050Z"
 ---
 
 # § 1051. Other Federal laws applicable for administration and enforcement of chapter; prosecution of inquiries; exercise of jurisdiction

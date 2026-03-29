@@ -3,9 +3,9 @@ title: "Section 4871 - Acquisition of sensitive materials from non-allied foreig
 usc_title: 10
 usc_section: "4871"
 chapter: 385
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 4871"
-generated_at: "2026-03-29T21:19:22.088Z"
+generated_at: "2026-03-29T21:26:52.738Z"
 ---
 
 # § 4871. Acquisition of sensitive materials from non-allied foreign nations: prohibition

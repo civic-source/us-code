@@ -3,9 +3,9 @@ title: "Section 9041 - Definitions"
 usc_title: 15
 usc_section: "9041"
 chapter: 116
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "15 U.S.C. § 9041"
-generated_at: "2026-03-29T21:20:22.422Z"
+generated_at: "2026-03-29T21:27:15.536Z"
 ---
 
 # § 9041. Definitions

@@ -3,9 +3,9 @@ title: "Section 99 - Repealed. July 28, 1953, ch. 251 , title I, § 101, 67 Stat
 usc_title: 21
 usc_section: "99"
 chapter: 4
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "21 U.S.C. § 99"
-generated_at: "2026-03-29T21:21:53.960Z"
+generated_at: "2026-03-29T21:28:36.853Z"
 ---
 
 # § 99. Repealed. July 28, 1953, ch. 251 , title I, § 101, 67 Stat. 208

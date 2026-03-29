@@ -3,9 +3,9 @@ title: "Section 15a - Suits by United States; amount of recovery; prejudgment in
 usc_title: 15
 usc_section: "15a"
 chapter: 1
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "15 U.S.C. § 15a"
-generated_at: "2026-03-29T21:20:21.883Z"
+generated_at: "2026-03-29T21:27:15.016Z"
 ---
 
 # § 15a. Suits by United States; amount of recovery; prejudgment interest

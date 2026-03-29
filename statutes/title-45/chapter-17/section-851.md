@@ -3,9 +3,9 @@ title: "Section 851 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 
 usc_title: 45
 usc_section: "851"
 chapter: 17
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "45 U.S.C. § 851"
-generated_at: "2026-03-29T21:23:46.560Z"
+generated_at: "2026-03-29T21:30:07.066Z"
 ---
 
 # § 851. Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 Stat. 1379

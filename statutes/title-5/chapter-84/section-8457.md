@@ -3,9 +3,9 @@ title: "Section 8457 - Renumbered § 8456]"
 usc_title: 5
 usc_section: "8457"
 chapter: 84
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "5 U.S.C. § 8457"
-generated_at: "2026-03-29T21:18:50.228Z"
+generated_at: "2026-03-29T21:26:08.523Z"
 ---
 
 # [§ 8457. Renumbered § 8456]

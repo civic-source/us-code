@@ -3,9 +3,9 @@ title: "Section 1705 - Information required in statement of record"
 usc_title: 15
 usc_section: "1705"
 chapter: 42
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "15 U.S.C. § 1705"
-generated_at: "2026-03-29T21:20:22.230Z"
+generated_at: "2026-03-29T21:27:15.343Z"
 ---
 
 # § 1705. Information required in statement of record

@@ -3,9 +3,9 @@ title: "Section 2336 - Other limitations"
 usc_title: 18
 usc_section: "2336"
 chapter: 113
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "18 U.S.C. § 2336"
-generated_at: "2026-03-29T21:21:09.667Z"
+generated_at: "2026-03-29T21:28:02.785Z"
 ---
 
 # § 2336. Other limitations

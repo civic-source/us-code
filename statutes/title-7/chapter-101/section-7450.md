@@ -3,9 +3,9 @@ title: "Section 7450 - Suspension or termination"
 usc_title: 7
 usc_section: "7450"
 chapter: 101
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "7 U.S.C. § 7450"
-generated_at: "2026-03-29T21:19:44.070Z"
+generated_at: "2026-03-29T21:26:38.329Z"
 ---
 
 # § 7450. Suspension or termination

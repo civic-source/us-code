@@ -3,9 +3,9 @@ title: "Section 1677f - Access to information"
 usc_title: 19
 usc_section: "1677f"
 chapter: 4
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "19 U.S.C. § 1677f"
-generated_at: "2026-03-29T21:20:55.992Z"
+generated_at: "2026-03-29T21:27:29.171Z"
 ---
 
 # § 1677f. Access to information

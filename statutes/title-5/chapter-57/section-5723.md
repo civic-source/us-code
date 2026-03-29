@@ -3,9 +3,9 @@ title: "Section 5723 - Travel and transportation expenses of new appointees and 
 usc_title: 5
 usc_section: "5723"
 chapter: 57
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "5 U.S.C. § 5723"
-generated_at: "2026-03-29T21:18:50.150Z"
+generated_at: "2026-03-29T21:26:08.449Z"
 ---
 
 # § 5723. Travel and transportation expenses of new appointees and student trainees

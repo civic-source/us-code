@@ -3,9 +3,9 @@ title: "Section 432 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "432"
 chapter: 1
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "16 U.S.C. § 432"
-generated_at: "2026-03-29T21:20:37.858Z"
+generated_at: "2026-03-29T21:27:39.815Z"
 ---
 
 # § 432. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

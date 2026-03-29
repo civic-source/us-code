@@ -3,9 +3,9 @@ title: "Section 356 - Allowance of undisputed claims of restricted allottees of 
 usc_title: 25
 usc_section: "356"
 chapter: 9
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "25 U.S.C. § 356"
-generated_at: "2026-03-29T21:21:32.916Z"
+generated_at: "2026-03-29T21:28:11.267Z"
 ---
 
 # § 356. Allowance of undisputed claims of restricted allottees of Five Civilized Tribes

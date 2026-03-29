@@ -3,9 +3,9 @@ title: "Section 7470 - Congressional declaration of purpose"
 usc_title: 42
 usc_section: "7470"
 chapter: 85
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "42 U.S.C. § 7470"
-generated_at: "2026-03-29T21:24:29.829Z"
+generated_at: "2026-03-29T21:30:45.375Z"
 ---
 
 # § 7470. Congressional declaration of purpose

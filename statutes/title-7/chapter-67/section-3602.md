@@ -3,9 +3,9 @@ title: "Section 3602 - Implementation of Agreement"
 usc_title: 7
 usc_section: "3602"
 chapter: 67
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "7 U.S.C. § 3602"
-generated_at: "2026-03-29T21:19:43.970Z"
+generated_at: "2026-03-29T21:26:38.230Z"
 ---
 
 # § 3602. Implementation of Agreement

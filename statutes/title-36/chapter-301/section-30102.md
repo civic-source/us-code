@@ -3,9 +3,9 @@ title: "Section 30102 - Purposes"
 usc_title: 36
 usc_section: "30102"
 chapter: 301
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "36 U.S.C. § 30102"
-generated_at: "2026-03-29T21:23:35.230Z"
+generated_at: "2026-03-29T21:29:45.019Z"
 ---
 
 # § 30102. Purposes

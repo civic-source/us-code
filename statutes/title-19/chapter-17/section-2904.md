@@ -3,9 +3,9 @@ title: "Section 2904 - Termination and reservation authority; reciprocal nondisc
 usc_title: 19
 usc_section: "2904"
 chapter: 17
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "19 U.S.C. § 2904"
-generated_at: "2026-03-29T21:20:56.056Z"
+generated_at: "2026-03-29T21:27:29.241Z"
 ---
 
 # § 2904. Termination and reservation authority; reciprocal nondiscriminatory treatment

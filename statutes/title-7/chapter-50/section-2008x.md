@@ -3,9 +3,9 @@ title: "Section 2008x - Reporting"
 usc_title: 7
 usc_section: "2008x"
 chapter: 50
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "7 U.S.C. § 2008x"
-generated_at: "2026-03-29T21:19:43.862Z"
+generated_at: "2026-03-29T21:26:38.127Z"
 ---
 
 # § 2008x. Reporting

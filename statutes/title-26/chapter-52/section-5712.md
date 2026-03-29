@@ -3,9 +3,9 @@ title: "Section 5712 - Application for permit"
 usc_title: 26
 usc_section: "5712"
 chapter: 52
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "26 U.S.C. § 5712"
-generated_at: "2026-03-29T21:23:14.464Z"
+generated_at: "2026-03-29T21:29:02.338Z"
 ---
 
 # § 5712. Application for permit

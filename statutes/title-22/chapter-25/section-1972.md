@@ -3,9 +3,9 @@ title: "Section 1972 - Action by Secretary of State upon seizure of vessel by fo
 usc_title: 22
 usc_section: "1972"
 chapter: 25
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "22 U.S.C. § 1972"
-generated_at: "2026-03-29T21:22:12.259Z"
+generated_at: "2026-03-29T21:28:26.030Z"
 ---
 
 # § 1972. Action by Secretary of State upon seizure of vessel by foreign country; preconditions

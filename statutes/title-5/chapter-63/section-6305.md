@@ -3,9 +3,9 @@ title: "Section 6305 - Home leave; leave for Chiefs of Missions; leave for crews
 usc_title: 5
 usc_section: "6305"
 chapter: 63
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "5 U.S.C. § 6305"
-generated_at: "2026-03-29T21:18:50.160Z"
+generated_at: "2026-03-29T21:26:08.461Z"
 ---
 
 # § 6305. Home leave; leave for Chiefs of Missions; leave for crews of vessels

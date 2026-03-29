@@ -3,9 +3,9 @@ title: "Section 1600 - Appeal to court of appeals"
 usc_title: 7
 usc_section: "1600"
 chapter: 37
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "7 U.S.C. § 1600"
-generated_at: "2026-03-29T21:19:43.810Z"
+generated_at: "2026-03-29T21:26:38.064Z"
 ---
 
 # § 1600. Appeal to court of appeals

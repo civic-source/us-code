@@ -3,9 +3,9 @@ title: "Section 2692 - Storage, treatment, and disposal of nondefense toxic and 
 usc_title: 10
 usc_section: "2692"
 chapter: 159
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 2692"
-generated_at: "2026-03-29T21:19:22.018Z"
+generated_at: "2026-03-29T21:26:52.668Z"
 ---
 
 # § 2692. Storage, treatment, and disposal of nondefense toxic and hazardous materials

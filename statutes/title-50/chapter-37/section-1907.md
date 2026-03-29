@@ -3,9 +3,9 @@ title: "Section 1907 - Government Accountability Office audits"
 usc_title: 50
 usc_section: "1907"
 chapter: 37
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "50 U.S.C. § 1907"
-generated_at: "2026-03-29T21:24:52.332Z"
+generated_at: "2026-03-29T21:31:09.123Z"
 ---
 
 # § 1907. Government Accountability Office audits

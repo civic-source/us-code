@@ -3,9 +3,9 @@ title: "Section 4216 - Report requirements; petition of Attorney General for equ
 usc_title: 33
 usc_section: "4216"
 chapter: 0
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "33 U.S.C. § 4216"
-generated_at: "2026-03-29T21:23:28.861Z"
+generated_at: "2026-03-29T21:29:34.732Z"
 ---
 
 # § 4216. Report requirements; petition of Attorney General for equitable relief

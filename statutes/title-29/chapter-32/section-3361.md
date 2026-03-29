@@ -3,9 +3,9 @@ title: "Section 3361 - References"
 usc_title: 29
 usc_section: "3361"
 chapter: 32
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "29 U.S.C. § 3361"
-generated_at: "2026-03-29T21:22:21.529Z"
+generated_at: "2026-03-29T21:28:45.666Z"
 ---
 
 # § 3361. References

@@ -3,9 +3,9 @@ title: "Section 303 - Conditions precedent to award of lease; preferred class; b
 usc_title: 30
 usc_section: "303"
 chapter: 5
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "30 U.S.C. § 303"
-generated_at: "2026-03-29T21:22:46.813Z"
+generated_at: "2026-03-29T21:28:42.445Z"
 ---
 
 # § 303. Conditions precedent to award of lease; preferred class; bidding

@@ -3,9 +3,9 @@ title: "Section 694 - Fish and game sanctuaries in national forests; establishme
 usc_title: 16
 usc_section: "694"
 chapter: 6
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "16 U.S.C. § 694"
-generated_at: "2026-03-29T21:20:38.049Z"
+generated_at: "2026-03-29T21:27:40.002Z"
 ---
 
 # § 694. Fish and game sanctuaries in national forests; establishment by President

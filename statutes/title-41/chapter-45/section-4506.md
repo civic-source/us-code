@@ -3,9 +3,9 @@ title: "Section 4506 - Action in case of fraud"
 usc_title: 41
 usc_section: "4506"
 chapter: 45
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "41 U.S.C. § 4506"
-generated_at: "2026-03-29T21:23:42.149Z"
+generated_at: "2026-03-29T21:30:08.699Z"
 ---
 
 # § 4506. Action in case of fraud

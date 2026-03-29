@@ -3,9 +3,9 @@ title: "Section 8201 - Findings"
 usc_title: 22
 usc_section: "8201"
 chapter: 89
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "22 U.S.C. § 8201"
-generated_at: "2026-03-29T21:22:12.563Z"
+generated_at: "2026-03-29T21:28:26.265Z"
 ---
 
 # § 8201. Findings

@@ -3,9 +3,9 @@ title: "Section 2638 - Transportation of civilian clothing of enlisted members"
 usc_title: 10
 usc_section: "2638"
 chapter: 157
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 2638"
-generated_at: "2026-03-29T21:19:22.011Z"
+generated_at: "2026-03-29T21:26:52.661Z"
 ---
 
 # § 2638. Transportation of civilian clothing of enlisted members

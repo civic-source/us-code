@@ -3,9 +3,9 @@ title: "Section 41702 - Interstate air transportation"
 usc_title: 49
 usc_section: "41702"
 chapter: 417
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "49 U.S.C. § 41702"
-generated_at: "2026-03-29T21:24:46.535Z"
+generated_at: "2026-03-29T21:30:56.299Z"
 ---
 
 # § 41702. Interstate air transportation

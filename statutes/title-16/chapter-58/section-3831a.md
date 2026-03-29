@@ -3,9 +3,9 @@ title: "Section 3831a - Conservation reserve enhancement program"
 usc_title: 16
 usc_section: "3831a"
 chapter: 58
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "16 U.S.C. § 3831a"
-generated_at: "2026-03-29T21:20:38.257Z"
+generated_at: "2026-03-29T21:27:40.251Z"
 ---
 
 # § 3831a. Conservation reserve enhancement program

@@ -3,9 +3,9 @@ title: "Section 129 - Financial policy; report to Congress"
 usc_title: 20
 usc_section: "129"
 chapter: 8
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "20 U.S.C. § 129"
-generated_at: "2026-03-29T21:20:31.905Z"
+generated_at: "2026-03-29T21:27:24.430Z"
 ---
 
 # § 129. Financial policy; report to Congress

@@ -3,9 +3,9 @@ title: "Section 6944 - Rural Business and Cooperative Development Service"
 usc_title: 7
 usc_section: "6944"
 chapter: 98
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "7 U.S.C. § 6944"
-generated_at: "2026-03-29T21:19:44.042Z"
+generated_at: "2026-03-29T21:26:38.301Z"
 ---
 
 # § 6944. Rural Business and Cooperative Development Service

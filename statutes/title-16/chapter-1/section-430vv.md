@@ -3,9 +3,9 @@ title: "Section 430vv - River Raisin National Battlefield Park"
 usc_title: 16
 usc_section: "430vv"
 chapter: 1
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "16 U.S.C. § 430vv"
-generated_at: "2026-03-29T21:20:37.858Z"
+generated_at: "2026-03-29T21:27:39.815Z"
 ---
 
 # § 430vv. River Raisin National Battlefield Park

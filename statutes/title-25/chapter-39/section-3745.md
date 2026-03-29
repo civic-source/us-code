@@ -3,9 +3,9 @@ title: "Section 3745 - Authorization of appropriations"
 usc_title: 25
 usc_section: "3745"
 chapter: 39
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "25 U.S.C. § 3745"
-generated_at: "2026-03-29T21:21:33.016Z"
+generated_at: "2026-03-29T21:28:11.367Z"
 ---
 
 # § 3745. Authorization of appropriations

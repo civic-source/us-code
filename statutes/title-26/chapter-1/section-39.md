@@ -3,9 +3,9 @@ title: "Section 39 - Carryback and carryforward of unused credits"
 usc_title: 26
 usc_section: "39"
 chapter: 1
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "26 U.S.C. § 39"
-generated_at: "2026-03-29T21:23:13.955Z"
+generated_at: "2026-03-29T21:29:01.888Z"
 ---
 
 # § 39. Carryback and carryforward of unused credits

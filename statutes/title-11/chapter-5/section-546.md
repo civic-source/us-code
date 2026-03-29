@@ -3,9 +3,9 @@ title: "Section 546 - Limitations on avoiding powers"
 usc_title: 11
 usc_section: "546"
 chapter: 5
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "11 U.S.C. § 546"
-generated_at: "2026-03-29T21:20:01.809Z"
+generated_at: "2026-03-29T21:26:56.787Z"
 ---
 
 # § 546. Limitations on avoiding powers

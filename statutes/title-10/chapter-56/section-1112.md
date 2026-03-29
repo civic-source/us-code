@@ -3,9 +3,9 @@ title: "Section 1112 - Assets of Fund"
 usc_title: 10
 usc_section: "1112"
 chapter: 56
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 1112"
-generated_at: "2026-03-29T21:19:21.875Z"
+generated_at: "2026-03-29T21:26:52.526Z"
 ---
 
 # § 1112. Assets of Fund

@@ -3,9 +3,9 @@ title: "Section 274 - Lands containing coal or other minerals"
 usc_title: 30
 usc_section: "274"
 chapter: 3
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "30 U.S.C. § 274"
-generated_at: "2026-03-29T21:22:46.812Z"
+generated_at: "2026-03-29T21:28:42.444Z"
 ---
 
 # § 274. Lands containing coal or other minerals

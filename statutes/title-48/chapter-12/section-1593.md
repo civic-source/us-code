@@ -3,9 +3,9 @@ title: "Section 1593 - Initiative and recall"
 usc_title: 48
 usc_section: "1593"
 chapter: 12
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "48 U.S.C. § 1593"
-generated_at: "2026-03-29T21:24:48.639Z"
+generated_at: "2026-03-29T21:30:59.701Z"
 ---
 
 # § 1593. Initiative and recall

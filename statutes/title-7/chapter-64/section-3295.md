@@ -3,9 +3,9 @@ title: "Section 3295 - International Agricultural Education Fellowship Program"
 usc_title: 7
 usc_section: "3295"
 chapter: 64
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "7 U.S.C. § 3295"
-generated_at: "2026-03-29T21:19:43.962Z"
+generated_at: "2026-03-29T21:26:38.221Z"
 ---
 
 # § 3295. International Agricultural Education Fellowship Program

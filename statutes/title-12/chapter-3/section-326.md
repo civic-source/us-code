@@ -3,9 +3,9 @@ title: "Section 326 - Acceptance of examinations and reports by State authoritie
 usc_title: 12
 usc_section: "326"
 chapter: 3
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "12 U.S.C. § 326"
-generated_at: "2026-03-29T21:19:56.087Z"
+generated_at: "2026-03-29T21:27:06.595Z"
 ---
 
 # § 326. Acceptance of examinations and reports by State authorities; special examinations

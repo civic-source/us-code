@@ -3,9 +3,9 @@ title: "Section 2874 - Leasing of housing"
 usc_title: 10
 usc_section: "2874"
 chapter: 169
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 2874"
-generated_at: "2026-03-29T21:19:22.034Z"
+generated_at: "2026-03-29T21:26:52.684Z"
 ---
 
 # § 2874. Leasing of housing

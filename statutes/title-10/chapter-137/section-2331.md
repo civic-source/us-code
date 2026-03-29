@@ -3,9 +3,9 @@ title: "Section 2331 - Procurement of services: contracts for professional and t
 usc_title: 10
 usc_section: "2331"
 chapter: 137
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 2331"
-generated_at: "2026-03-29T21:19:21.966Z"
+generated_at: "2026-03-29T21:26:52.615Z"
 ---
 
 # § 2331. Procurement of services: contracts for professional and technical services

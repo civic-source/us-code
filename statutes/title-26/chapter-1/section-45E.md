@@ -3,9 +3,9 @@ title: "Section 45E - Small employer pension plan startup costs"
 usc_title: 26
 usc_section: "45E"
 chapter: 1
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "26 U.S.C. § 45E"
-generated_at: "2026-03-29T21:23:13.974Z"
+generated_at: "2026-03-29T21:29:01.903Z"
 ---
 
 # § 45E. Small employer pension plan startup costs

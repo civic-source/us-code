@@ -3,9 +3,9 @@ title: "Section 7142d - Definitions"
 usc_title: 42
 usc_section: "7142d"
 chapter: 84
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "42 U.S.C. § 7142d"
-generated_at: "2026-03-29T21:24:29.783Z"
+generated_at: "2026-03-29T21:30:45.340Z"
 ---
 
 # § 7142d. Definitions

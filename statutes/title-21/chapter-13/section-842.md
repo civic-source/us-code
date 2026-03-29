@@ -3,9 +3,9 @@ title: "Section 842 - Prohibited acts B"
 usc_title: 21
 usc_section: "842"
 chapter: 13
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "21 U.S.C. § 842"
-generated_at: "2026-03-29T21:21:54.159Z"
+generated_at: "2026-03-29T21:28:37.032Z"
 ---
 
 # § 842. Prohibited acts B

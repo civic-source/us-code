@@ -3,9 +3,9 @@ title: "Section 2702 - Special valuation rules in case of transfers of interests
 usc_title: 26
 usc_section: "2702"
 chapter: 14
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "26 U.S.C. § 2702"
-generated_at: "2026-03-29T21:23:14.366Z"
+generated_at: "2026-03-29T21:29:02.263Z"
 ---
 
 # § 2702. Special valuation rules in case of transfers of interests in trusts

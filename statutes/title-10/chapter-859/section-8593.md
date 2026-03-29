@@ -3,9 +3,9 @@ title: "Section 8593 - Naval War College: acceptance of grants for faculty resea
 usc_title: 10
 usc_section: "8593"
 chapter: 859
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 8593"
-generated_at: "2026-03-29T21:19:22.121Z"
+generated_at: "2026-03-29T21:26:52.771Z"
 ---
 
 # § 8593. Naval War College: acceptance of grants for faculty research for scientific, literary, and educational purposes

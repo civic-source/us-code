@@ -3,9 +3,9 @@ title: "Section 705 - Imprisonment"
 usc_title: 22
 usc_section: "705"
 chapter: 13
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "22 U.S.C. § 705"
-generated_at: "2026-03-29T21:22:12.229Z"
+generated_at: "2026-03-29T21:28:26.006Z"
 ---
 
 # § 705. Imprisonment

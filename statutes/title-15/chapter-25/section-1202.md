@@ -3,9 +3,9 @@ title: "Section 1202 - Exemptions"
 usc_title: 15
 usc_section: "1202"
 chapter: 25
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "15 U.S.C. § 1202"
-generated_at: "2026-03-29T21:20:22.156Z"
+generated_at: "2026-03-29T21:27:15.274Z"
 ---
 
 # § 1202. Exemptions

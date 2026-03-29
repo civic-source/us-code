@@ -3,9 +3,9 @@ title: "Section 98b - National Defense Stockpile"
 usc_title: 50
 usc_section: "98b"
 chapter: 5
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "50 U.S.C. § 98b"
-generated_at: "2026-03-29T21:24:52.285Z"
+generated_at: "2026-03-29T21:31:09.088Z"
 ---
 
 # § 98b. National Defense Stockpile

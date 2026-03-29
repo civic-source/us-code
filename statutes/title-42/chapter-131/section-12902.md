@@ -3,9 +3,9 @@ title: "Section 12902 - Definitions"
 usc_title: 42
 usc_section: "12902"
 chapter: 131
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "42 U.S.C. § 12902"
-generated_at: "2026-03-29T21:24:30.154Z"
+generated_at: "2026-03-29T21:30:45.652Z"
 ---
 
 # § 12902. Definitions

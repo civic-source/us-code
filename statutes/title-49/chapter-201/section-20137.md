@@ -3,9 +3,9 @@ title: "Section 20137 - Event recorders"
 usc_title: 49
 usc_section: "20137"
 chapter: 201
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "49 U.S.C. § 20137"
-generated_at: "2026-03-29T21:24:46.434Z"
+generated_at: "2026-03-29T21:30:56.225Z"
 ---
 
 # § 20137. Event recorders

@@ -3,9 +3,9 @@ title: "Section 81 - Coordination"
 usc_title: 42
 usc_section: "81"
 chapter: 6
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "42 U.S.C. § 81"
-generated_at: "2026-03-29T21:24:28.692Z"
+generated_at: "2026-03-29T21:30:44.436Z"
 ---
 
 # § 300ff–81. Coordination

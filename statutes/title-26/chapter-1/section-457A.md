@@ -3,9 +3,9 @@ title: "Section 457A - Nonqualified deferred compensation from certain tax indif
 usc_title: 26
 usc_section: "457A"
 chapter: 1
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "26 U.S.C. § 457A"
-generated_at: "2026-03-29T21:23:14.179Z"
+generated_at: "2026-03-29T21:29:02.094Z"
 ---
 
 # § 457A. Nonqualified deferred compensation from certain tax indifferent parties

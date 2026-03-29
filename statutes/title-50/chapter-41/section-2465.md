@@ -3,9 +3,9 @@ title: "Section 2465 - Enhancing private-sector employment through cooperative r
 usc_title: 50
 usc_section: "2465"
 chapter: 41
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "50 U.S.C. § 2465"
-generated_at: "2026-03-29T21:24:52.356Z"
+generated_at: "2026-03-29T21:31:09.143Z"
 ---
 
 # § 2465. Enhancing private-sector employment through cooperative research and development activities

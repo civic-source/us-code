@@ -3,9 +3,9 @@ title: "Section 13 - Policies and procedures for minimum acquisition of stocks b
 usc_title: 15
 usc_section: "13"
 chapter: 15
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "15 U.S.C. § 13"
-generated_at: "2026-03-29T21:20:22.118Z"
+generated_at: "2026-03-29T21:27:15.237Z"
 ---
 
 # § 713a–13. Policies and procedures for minimum acquisition of stocks by Commodity Credit Corporation, encouragement of marketing through private trade channels and procurement of maximum returns in marketplace for producers and Corporation

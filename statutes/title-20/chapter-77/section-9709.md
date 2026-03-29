@@ -3,9 +3,9 @@ title: "Section 9709 - Coordinated education efforts"
 usc_title: 20
 usc_section: "9709"
 chapter: 77
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "20 U.S.C. § 9709"
-generated_at: "2026-03-29T21:20:32.203Z"
+generated_at: "2026-03-29T21:27:24.724Z"
 ---
 
 # § 9709. Coordinated education efforts

@@ -3,9 +3,9 @@ title: "Section 7873 - Income derived by Indians from exercise of fishing rights
 usc_title: 26
 usc_section: "7873"
 chapter: 80
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "26 U.S.C. § 7873"
-generated_at: "2026-03-29T21:23:14.619Z"
+generated_at: "2026-03-29T21:29:02.464Z"
 ---
 
 # § 7873. Income derived by Indians from exercise of fishing rights

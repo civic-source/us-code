@@ -3,9 +3,9 @@ title: "Section 1952B - Renumbered § 1959]"
 usc_title: 18
 usc_section: "1952B"
 chapter: 95
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "18 U.S.C. § 1952B"
-generated_at: "2026-03-29T21:21:09.645Z"
+generated_at: "2026-03-29T21:28:02.759Z"
 ---
 
 # [§ 1952B. Renumbered § 1959]

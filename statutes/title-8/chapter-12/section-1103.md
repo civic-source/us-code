@@ -3,9 +3,9 @@ title: "Section 1103 - Powers and duties of the Secretary, the Under Secretary, 
 usc_title: 8
 usc_section: "1103"
 chapter: 12
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "8 U.S.C. § 1103"
-generated_at: "2026-03-29T21:19:37.388Z"
+generated_at: "2026-03-29T21:26:41.215Z"
 ---
 
 # § 1103. Powers and duties of the Secretary, the Under Secretary, and the Attorney General

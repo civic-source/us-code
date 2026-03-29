@@ -3,9 +3,9 @@ title: "Section 2371a - Cooperative research and development agreements under St
 usc_title: 10
 usc_section: "2371a"
 chapter: 139
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 2371a"
-generated_at: "2026-03-29T21:19:21.977Z"
+generated_at: "2026-03-29T21:26:52.627Z"
 ---
 
 # § 2371a. Cooperative research and development agreements under Stevenson-Wydler Technology Innovation Act of 1980

@@ -3,9 +3,9 @@ title: "Section 5103 - Single per annum gross rates of allowances for personal s
 usc_title: 2
 usc_section: "5103"
 chapter: 51
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "2 U.S.C. § 5103"
-generated_at: "2026-03-29T21:19:01.793Z"
+generated_at: "2026-03-29T21:26:11.590Z"
 ---
 
 # § 5103. Single per annum gross rates of allowances for personal services in offices of Speaker, Leaders, and Whips

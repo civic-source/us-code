@@ -3,9 +3,9 @@ title: "Section 11 - Provisions relating to contributions and land exchange"
 usc_title: 16
 usc_section: "11"
 chapter: 2
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "16 U.S.C. § 11"
-generated_at: "2026-03-29T21:20:37.986Z"
+generated_at: "2026-03-29T21:27:39.941Z"
 ---
 
 # § 539m–11. Provisions relating to contributions and land exchange

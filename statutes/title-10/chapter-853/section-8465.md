@@ -3,9 +3,9 @@ title: "Section 8465 - Failure to report violation: dismissal"
 usc_title: 10
 usc_section: "8465"
 chapter: 853
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 8465"
-generated_at: "2026-03-29T21:19:22.118Z"
+generated_at: "2026-03-29T21:26:52.768Z"
 ---
 
 # § 8465. Failure to report violation: dismissal

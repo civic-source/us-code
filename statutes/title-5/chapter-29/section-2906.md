@@ -3,9 +3,9 @@ title: "Section 2906 - Oath; custody"
 usc_title: 5
 usc_section: "2906"
 chapter: 29
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "5 U.S.C. § 2906"
-generated_at: "2026-03-29T21:18:50.095Z"
+generated_at: "2026-03-29T21:26:08.395Z"
 ---
 
 # § 2906. Oath; custody

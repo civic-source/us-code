@@ -3,9 +3,9 @@ title: "Section 91 - Extending time for entry of vessels subject to quarantine"
 usc_title: 42
 usc_section: "91"
 chapter: 2
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "42 U.S.C. § 91"
-generated_at: "2026-03-29T21:24:28.330Z"
+generated_at: "2026-03-29T21:30:44.132Z"
 ---
 
 # § 91. Extending time for entry of vessels subject to quarantine

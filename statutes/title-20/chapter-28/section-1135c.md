@@ -3,9 +3,9 @@ title: "Section 1135c - Awards to graduate students"
 usc_title: 20
 usc_section: "1135c"
 chapter: 28
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "20 U.S.C. § 1135c"
-generated_at: "2026-03-29T21:20:32.021Z"
+generated_at: "2026-03-29T21:27:24.553Z"
 ---
 
 # § 1135c. Awards to graduate students

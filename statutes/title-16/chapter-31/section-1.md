@@ -3,9 +3,9 @@ title: "Section 1 - John H. Prescott Marine Mammal Rescue Assistance Grant Progr
 usc_title: 16
 usc_section: "1"
 chapter: 31
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-29T21:20:38.163Z"
+generated_at: "2026-03-29T21:27:40.140Z"
 ---
 
 # § 1421f–1. John H. Prescott Marine Mammal Rescue Assistance Grant Program

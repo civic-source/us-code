@@ -3,9 +3,9 @@ title: "Section 4024 - Health insurance reinstatement"
 usc_title: 50
 usc_section: "4024"
 chapter: 50
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "50 U.S.C. § 4024"
-generated_at: "2026-03-29T21:24:52.462Z"
+generated_at: "2026-03-29T21:31:09.226Z"
 ---
 
 # § 4024. Health insurance reinstatement

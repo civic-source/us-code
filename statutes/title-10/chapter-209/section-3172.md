@@ -3,9 +3,9 @@ title: "Section 3172 - Operational contract support: chain of authority and resp
 usc_title: 10
 usc_section: "3172"
 chapter: 209
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 3172"
-generated_at: "2026-03-29T21:19:22.049Z"
+generated_at: "2026-03-29T21:26:52.698Z"
 ---
 
 # § 3172. Operational contract support: chain of authority and responsibility within Department of Defense

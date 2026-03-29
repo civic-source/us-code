@@ -3,9 +3,9 @@ title: "Section 1342 - Limitation on voluntary services"
 usc_title: 31
 usc_section: "1342"
 chapter: 13
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "31 U.S.C. § 1342"
-generated_at: "2026-03-29T21:23:21.440Z"
+generated_at: "2026-03-29T21:29:31.324Z"
 ---
 
 # § 1342. Limitation on voluntary services

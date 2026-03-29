@@ -3,9 +3,9 @@ title: "Section 194 - Dividends on adjusted claims; distribution of assets"
 usc_title: 12
 usc_section: "194"
 chapter: 2
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "12 U.S.C. § 194"
-generated_at: "2026-03-29T21:19:56.075Z"
+generated_at: "2026-03-29T21:27:06.584Z"
 ---
 
 # § 194. Dividends on adjusted claims; distribution of assets

@@ -3,9 +3,9 @@ title: "Section 3673 - Limitation on indemnification"
 usc_title: 10
 usc_section: "3673"
 chapter: 257
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 3673"
-generated_at: "2026-03-29T21:19:22.058Z"
+generated_at: "2026-03-29T21:26:52.707Z"
 ---
 
 # § 3673. Limitation on indemnification

@@ -3,9 +3,9 @@ title: "Section 1010 - Applicability of National Environmental Policy Act and se
 usc_title: 45
 usc_section: "1010"
 chapter: 19
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "45 U.S.C. § 1010"
-generated_at: "2026-03-29T21:23:46.565Z"
+generated_at: "2026-03-29T21:30:07.069Z"
 ---
 
 # § 1010. Applicability of National Environmental Policy Act and section 6362(b) of title 42

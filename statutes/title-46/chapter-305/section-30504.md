@@ -3,9 +3,9 @@ title: "Section 30504 - Loss by fire"
 usc_title: 46
 usc_section: "30504"
 chapter: 305
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "46 U.S.C. § 30504"
-generated_at: "2026-03-29T21:24:37.262Z"
+generated_at: "2026-03-29T21:31:27.541Z"
 ---
 
 # § 30504. Loss by fire

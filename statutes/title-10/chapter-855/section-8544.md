@@ -3,9 +3,9 @@ title: "Section 8544 - Civilian teachers: number; compensation"
 usc_title: 10
 usc_section: "8544"
 chapter: 855
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 8544"
-generated_at: "2026-03-29T21:19:22.120Z"
+generated_at: "2026-03-29T21:26:52.770Z"
 ---
 
 # § 8544. Civilian teachers: number; compensation

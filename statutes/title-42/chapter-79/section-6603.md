@@ -3,9 +3,9 @@ title: "Section 6603 - Sense of Congress on innovation acceleration research"
 usc_title: 42
 usc_section: "6603"
 chapter: 79
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "42 U.S.C. § 6603"
-generated_at: "2026-03-29T21:24:29.732Z"
+generated_at: "2026-03-29T21:30:45.298Z"
 ---
 
 # § 6603. Sense of Congress on innovation acceleration research

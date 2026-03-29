@@ -3,9 +3,9 @@ title: "Section 2715b - Notification of next of kin; reports of death"
 usc_title: 22
 usc_section: "2715b"
 chapter: 38
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "22 U.S.C. § 2715b"
-generated_at: "2026-03-29T21:22:12.373Z"
+generated_at: "2026-03-29T21:28:26.112Z"
 ---
 
 # § 2715b. Notification of next of kin; reports of death

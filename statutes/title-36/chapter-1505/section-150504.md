@@ -3,9 +3,9 @@ title: "Section 150504 - Membership"
 usc_title: 36
 usc_section: "150504"
 chapter: 1505
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "36 U.S.C. § 150504"
-generated_at: "2026-03-29T21:23:35.251Z"
+generated_at: "2026-03-29T21:29:45.074Z"
 ---
 
 # § 150504. Membership

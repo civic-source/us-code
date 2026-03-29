@@ -3,9 +3,9 @@ title: "Section 2441 - Sustainment reviews"
 usc_title: 10
 usc_section: "2441"
 chapter: 144
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 2441"
-generated_at: "2026-03-29T21:19:21.990Z"
+generated_at: "2026-03-29T21:26:52.641Z"
 ---
 
 # § 2441. Sustainment reviews

@@ -3,9 +3,9 @@ title: "Section 2205 - Reimbursements"
 usc_title: 10
 usc_section: "2205"
 chapter: 131
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 2205"
-generated_at: "2026-03-29T21:19:21.943Z"
+generated_at: "2026-03-29T21:26:52.593Z"
 ---
 
 # § 2205. Reimbursements

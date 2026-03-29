@@ -3,9 +3,9 @@ title: "Section 376 - Fees"
 usc_title: 35
 usc_section: "376"
 chapter: 37
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "35 U.S.C. § 376"
-generated_at: "2026-03-29T21:23:17.346Z"
+generated_at: "2026-03-29T21:29:19.882Z"
 ---
 
 # § 376. Fees

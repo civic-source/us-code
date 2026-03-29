@@ -3,9 +3,9 @@ title: "Section 6574 - Financial assistance"
 usc_title: 16
 usc_section: "6574"
 chapter: 84
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "16 U.S.C. § 6574"
-generated_at: "2026-03-29T21:20:38.303Z"
+generated_at: "2026-03-29T21:27:40.317Z"
 ---
 
 # § 6574. Financial assistance

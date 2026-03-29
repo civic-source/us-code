@@ -3,9 +3,9 @@ title: "Section 1473 - Conventional packages, marketing"
 usc_title: 15
 usc_section: "1473"
 chapter: 39
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "15 U.S.C. § 1473"
-generated_at: "2026-03-29T21:20:22.170Z"
+generated_at: "2026-03-29T21:27:15.287Z"
 ---
 
 # § 1473. Conventional packages, marketing

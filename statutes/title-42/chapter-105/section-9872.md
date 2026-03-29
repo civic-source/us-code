@@ -3,9 +3,9 @@ title: "Section 9872 - Allotments"
 usc_title: 42
 usc_section: "9872"
 chapter: 105
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "42 U.S.C. § 9872"
-generated_at: "2026-03-29T21:24:30.006Z"
+generated_at: "2026-03-29T21:30:45.525Z"
 ---
 
 # § 9872. Allotments

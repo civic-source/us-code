@@ -3,9 +3,9 @@ title: "Section 615www - Omitted"
 usc_title: 43
 usc_section: "615www"
 chapter: 12
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "43 U.S.C. § 615www"
-generated_at: "2026-03-29T21:24:05.196Z"
+generated_at: "2026-03-29T21:30:05.687Z"
 ---
 
 # §§ 615ppp to 615www. Omitted

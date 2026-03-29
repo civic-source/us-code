@@ -3,9 +3,9 @@ title: "Section 14908 - Unlawful disclosure of information"
 usc_title: 49
 usc_section: "14908"
 chapter: 149
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "49 U.S.C. § 14908"
-generated_at: "2026-03-29T21:24:46.428Z"
+generated_at: "2026-03-29T21:30:56.220Z"
 ---
 
 # § 14908. Unlawful disclosure of information

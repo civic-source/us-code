@@ -3,9 +3,9 @@ title: "Section 10702 - Applications"
 usc_title: 34
 usc_section: "10702"
 chapter: 101
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "34 U.S.C. § 10702"
-generated_at: "2026-03-29T21:23:25.907Z"
+generated_at: "2026-03-29T21:29:32.748Z"
 ---
 
 # § 10702. Applications

@@ -3,9 +3,9 @@ title: "Section 2230 - Employees in Alaska; subsistence, equipment, and supplies
 usc_title: 7
 usc_section: "2230"
 chapter: 55
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "7 U.S.C. § 2230"
-generated_at: "2026-03-29T21:19:43.916Z"
+generated_at: "2026-03-29T21:26:38.179Z"
 ---
 
 # § 2230. Employees in Alaska; subsistence, equipment, and supplies

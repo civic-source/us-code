@@ -3,9 +3,9 @@ title: "Section 1652 - Prohibition against busing"
 usc_title: 20
 usc_section: "1652"
 chapter: 37
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "20 U.S.C. § 1652"
-generated_at: "2026-03-29T21:20:32.066Z"
+generated_at: "2026-03-29T21:27:24.605Z"
 ---
 
 # § 1652. Prohibition against busing

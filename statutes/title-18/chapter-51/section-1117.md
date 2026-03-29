@@ -3,9 +3,9 @@ title: "Section 1117 - Conspiracy to murder"
 usc_title: 18
 usc_section: "1117"
 chapter: 51
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "18 U.S.C. § 1117"
-generated_at: "2026-03-29T21:21:09.624Z"
+generated_at: "2026-03-29T21:28:02.735Z"
 ---
 
 # § 1117. Conspiracy to murder

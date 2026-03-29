@@ -3,9 +3,9 @@ title: "Section 14954 - No private right of action"
 usc_title: 42
 usc_section: "14954"
 chapter: 143
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "42 U.S.C. § 14954"
-generated_at: "2026-03-29T21:24:30.200Z"
+generated_at: "2026-03-29T21:30:45.689Z"
 ---
 
 # § 14954. No private right of action

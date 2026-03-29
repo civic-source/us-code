@@ -3,9 +3,9 @@ title: "Section 59 - Plans for performance partnerships"
 usc_title: 42
 usc_section: "59"
 chapter: 6
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "42 U.S.C. § 59"
-generated_at: "2026-03-29T21:24:28.656Z"
+generated_at: "2026-03-29T21:30:44.405Z"
 ---
 
 # § 300x–59. Plans for performance partnerships

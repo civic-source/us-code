@@ -3,9 +3,9 @@ title: "Section 212 - Repealed. Pub. L. 112–141, div. A, title I, § 1519(b)(1
 usc_title: 23
 usc_section: "212"
 chapter: 2
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "23 U.S.C. § 212"
-generated_at: "2026-03-29T21:21:14.752Z"
+generated_at: "2026-03-29T21:28:08.074Z"
 ---
 
 # [§ 212. Repealed. Pub. L. 112–141, div. A, title I, § 1519(b)(1)(A) , July 6, 2012 , 126 Stat. 575 ]

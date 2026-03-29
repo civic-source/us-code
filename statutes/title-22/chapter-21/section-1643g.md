@@ -3,9 +3,9 @@ title: "Section 1643g - Transfer of records"
 usc_title: 22
 usc_section: "1643g"
 chapter: 21
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "22 U.S.C. § 1643g"
-generated_at: "2026-03-29T21:22:12.252Z"
+generated_at: "2026-03-29T21:28:26.024Z"
 ---
 
 # § 1643g. Transfer of records

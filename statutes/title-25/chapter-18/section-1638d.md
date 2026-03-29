@@ -3,9 +3,9 @@ title: "Section 1638d - Credit to appropriations of money collected for meals at
 usc_title: 25
 usc_section: "1638d"
 chapter: 18
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "25 U.S.C. § 1638d"
-generated_at: "2026-03-29T21:21:32.951Z"
+generated_at: "2026-03-29T21:28:11.298Z"
 ---
 
 # § 1638d. Credit to appropriations of money collected for meals at Indian Health Service facilities

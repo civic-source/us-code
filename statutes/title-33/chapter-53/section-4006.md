@@ -3,9 +3,9 @@ title: "Section 4006 - Protection of States’ rights"
 usc_title: 33
 usc_section: "4006"
 chapter: 53
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "33 U.S.C. § 4006"
-generated_at: "2026-03-29T21:23:28.859Z"
+generated_at: "2026-03-29T21:29:34.730Z"
 ---
 
 # § 4006. Protection of States’ rights

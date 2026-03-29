@@ -3,9 +3,9 @@ title: "Section 12646 - Commissioned officers: retention of after completing 18 
 usc_title: 10
 usc_section: "12646"
 chapter: 1219
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 12646"
-generated_at: "2026-03-29T21:19:22.163Z"
+generated_at: "2026-03-29T21:26:52.813Z"
 ---
 
 # § 12646. Commissioned officers: retention of after completing 18 or more, but less than 20, years of service

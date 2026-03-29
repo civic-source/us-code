@@ -3,9 +3,9 @@ title: "Section 6568 - Banking and financial transactions of Secretary of Senate
 usc_title: 2
 usc_section: "6568"
 chapter: 65
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "2 U.S.C. § 6568"
-generated_at: "2026-03-29T21:19:01.809Z"
+generated_at: "2026-03-29T21:26:11.605Z"
 ---
 
 # § 6568. Banking and financial transactions of Secretary of Senate

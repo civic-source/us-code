@@ -3,9 +3,9 @@ title: "Section 525 - Rights-of-way for wagon roads or railroads"
 usc_title: 16
 usc_section: "525"
 chapter: 2
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "16 U.S.C. § 525"
-generated_at: "2026-03-29T21:20:37.979Z"
+generated_at: "2026-03-29T21:27:39.935Z"
 ---
 
 # § 525. Rights-of-way for wagon roads or railroads

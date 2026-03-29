@@ -3,9 +3,9 @@ title: "Section 1740 - Copies of consular papers"
 usc_title: 28
 usc_section: "1740"
 chapter: 115
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "28 U.S.C. § 1740"
-generated_at: "2026-03-29T21:22:18.217Z"
+generated_at: "2026-03-29T21:29:17.327Z"
 ---
 
 # § 1740. Copies of consular papers

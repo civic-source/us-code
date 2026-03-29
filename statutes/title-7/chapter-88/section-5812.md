@@ -3,9 +3,9 @@ title: "Section 5812 - Program administration"
 usc_title: 7
 usc_section: "5812"
 chapter: 88
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "7 U.S.C. § 5812"
-generated_at: "2026-03-29T21:19:44.001Z"
+generated_at: "2026-03-29T21:26:38.259Z"
 ---
 
 # § 5812. Program administration

@@ -3,9 +3,9 @@ title: "Section 2416 - Subcontractor information"
 usc_title: 10
 usc_section: "2416"
 chapter: 142
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 2416"
-generated_at: "2026-03-29T21:19:21.984Z"
+generated_at: "2026-03-29T21:26:52.635Z"
 ---
 
 # § 2416. Subcontractor information

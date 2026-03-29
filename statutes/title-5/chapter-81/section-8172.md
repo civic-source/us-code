@@ -3,9 +3,9 @@ title: "Section 8172 - Employees not citizens or residents of the United States"
 usc_title: 5
 usc_section: "8172"
 chapter: 81
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "5 U.S.C. § 8172"
-generated_at: "2026-03-29T21:18:50.190Z"
+generated_at: "2026-03-29T21:26:08.487Z"
 ---
 
 # § 8172. Employees not citizens or residents of the United States

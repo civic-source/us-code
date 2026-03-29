@@ -3,9 +3,9 @@ title: "Section 15 - Protection of social security and medicare trust funds"
 usc_title: 42
 usc_section: "15"
 chapter: 7
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "42 U.S.C. § 15"
-generated_at: "2026-03-29T21:24:28.915Z"
+generated_at: "2026-03-29T21:30:44.613Z"
 ---
 
 # § 1320b–15. Protection of social security and medicare trust funds

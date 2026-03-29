@@ -3,9 +3,9 @@ title: "Section 8213 - Enlisted grades and ratings: authority to establish"
 usc_title: 10
 usc_section: "8213"
 chapter: 825
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 8213"
-generated_at: "2026-03-29T21:19:22.112Z"
+generated_at: "2026-03-29T21:26:52.761Z"
 ---
 
 # § 8213. Enlisted grades and ratings: authority to establish

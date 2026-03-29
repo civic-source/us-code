@@ -3,9 +3,9 @@ title: "Section 1315 - Fish and Wildlife Service: bulletins"
 usc_title: 44
 usc_section: "1315"
 chapter: 13
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "44 U.S.C. § 1315"
-generated_at: "2026-03-29T21:23:42.733Z"
+generated_at: "2026-03-29T21:30:03.813Z"
 ---
 
 # § 1315. Fish and Wildlife Service: bulletins

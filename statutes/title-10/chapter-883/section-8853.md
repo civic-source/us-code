@@ -3,9 +3,9 @@ title: "Section 8853 - Court in which proceedings brought"
 usc_title: 10
 usc_section: "8853"
 chapter: 883
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 8853"
-generated_at: "2026-03-29T21:19:22.128Z"
+generated_at: "2026-03-29T21:26:52.779Z"
 ---
 
 # § 8853. Court in which proceedings brought

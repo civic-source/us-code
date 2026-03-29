@@ -3,9 +3,9 @@ title: "Section 3043 - Repealed. Pub. L. 98–473, title II, § 204(c) , Oct. 12
 usc_title: 18
 usc_section: "3043"
 chapter: 203
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "18 U.S.C. § 3043"
-generated_at: "2026-03-29T21:21:09.679Z"
+generated_at: "2026-03-29T21:28:02.799Z"
 ---
 
 # [§ 3043. Repealed. Pub. L. 98–473, title II, § 204(c) , Oct. 12, 1984 , 98 Stat. 1986 ]

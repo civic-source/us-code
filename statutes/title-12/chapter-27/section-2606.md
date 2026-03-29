@@ -3,9 +3,9 @@ title: "Section 2606 - Exempted transactions"
 usc_title: 12
 usc_section: "2606"
 chapter: 27
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "12 U.S.C. § 2606"
-generated_at: "2026-03-29T21:19:56.384Z"
+generated_at: "2026-03-29T21:27:06.849Z"
 ---
 
 # § 2606. Exempted transactions

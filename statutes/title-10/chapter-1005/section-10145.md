@@ -3,9 +3,9 @@ title: "Section 10145 - Ready Reserve: placement in"
 usc_title: 10
 usc_section: "10145"
 chapter: 1005
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 10145"
-generated_at: "2026-03-29T21:19:22.148Z"
+generated_at: "2026-03-29T21:26:52.799Z"
 ---
 
 # § 10145. Ready Reserve: placement in

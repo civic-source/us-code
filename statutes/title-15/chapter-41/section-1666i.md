@@ -3,9 +3,9 @@ title: "Section 1666i - Assertion by cardholder against card issuer of claims an
 usc_title: 15
 usc_section: "1666i"
 chapter: 41
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "15 U.S.C. § 1666i"
-generated_at: "2026-03-29T21:20:22.198Z"
+generated_at: "2026-03-29T21:27:15.313Z"
 ---
 
 # § 1666i. Assertion by cardholder against card issuer of claims and defenses arising out of credit card transaction; prerequisites; limitation on amount of claims or defenses

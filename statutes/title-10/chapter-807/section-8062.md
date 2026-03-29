@@ -3,9 +3,9 @@ title: "Section 8062 - United States Navy: composition; functions"
 usc_title: 10
 usc_section: "8062"
 chapter: 807
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 8062"
-generated_at: "2026-03-29T21:19:22.109Z"
+generated_at: "2026-03-29T21:26:52.759Z"
 ---
 
 # § 8062. United States Navy: composition; functions

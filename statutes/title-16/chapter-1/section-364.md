@@ -3,9 +3,9 @@ title: "Section 364 - Investigation of applicant for lease or contract"
 usc_title: 16
 usc_section: "364"
 chapter: 1
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "16 U.S.C. § 364"
-generated_at: "2026-03-29T21:20:37.775Z"
+generated_at: "2026-03-29T21:27:39.725Z"
 ---
 
 # § 364. Investigation of applicant for lease or contract

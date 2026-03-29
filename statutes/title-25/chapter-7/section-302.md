@@ -3,9 +3,9 @@ title: "Section 302 - Indian Reform School; rules and regulations; consent of pa
 usc_title: 25
 usc_section: "302"
 chapter: 7
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "25 U.S.C. § 302"
-generated_at: "2026-03-29T21:21:32.911Z"
+generated_at: "2026-03-29T21:28:11.262Z"
 ---
 
 # § 302. Indian Reform School; rules and regulations; consent of parents to placing youth in reform school

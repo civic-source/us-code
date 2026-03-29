@@ -3,9 +3,9 @@ title: "Section 1029 - Fraud and related activity in connection with access devi
 usc_title: 18
 usc_section: "1029"
 chapter: 47
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "18 U.S.C. § 1029"
-generated_at: "2026-03-29T21:21:09.621Z"
+generated_at: "2026-03-29T21:28:02.730Z"
 ---
 
 # § 1029. Fraud and related activity in connection with access devices

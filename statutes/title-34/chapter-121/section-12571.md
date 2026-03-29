@@ -3,9 +3,9 @@ title: "Section 12571 - Definitions"
 usc_title: 34
 usc_section: "12571"
 chapter: 121
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "34 U.S.C. § 12571"
-generated_at: "2026-03-29T21:23:25.951Z"
+generated_at: "2026-03-29T21:29:32.776Z"
 ---
 
 # § 12571. Definitions

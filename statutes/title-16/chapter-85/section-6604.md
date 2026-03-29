@@ -3,9 +3,9 @@ title: "Section 6604 - Marine Turtle Conservation Fund"
 usc_title: 16
 usc_section: "6604"
 chapter: 85
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "16 U.S.C. § 6604"
-generated_at: "2026-03-29T21:20:38.306Z"
+generated_at: "2026-03-29T21:27:40.321Z"
 ---
 
 # § 6604. Marine Turtle Conservation Fund

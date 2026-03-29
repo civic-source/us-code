@@ -3,9 +3,9 @@ title: "Section 50309 - Dissolution"
 usc_title: 36
 usc_section: "50309"
 chapter: 503
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "36 U.S.C. § 50309"
-generated_at: "2026-03-29T21:23:35.241Z"
+generated_at: "2026-03-29T21:29:45.063Z"
 ---
 
 # § 50309. Dissolution

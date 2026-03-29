@@ -3,9 +3,9 @@ title: "Section 2311 - Response to threats of terrorist use of weapons of mass d
 usc_title: 50
 usc_section: "2311"
 chapter: 40
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "50 U.S.C. § 2311"
-generated_at: "2026-03-29T21:24:52.344Z"
+generated_at: "2026-03-29T21:31:09.134Z"
 ---
 
 # § 2311. Response to threats of terrorist use of weapons of mass destruction

@@ -3,9 +3,9 @@ title: "Section 2703 - Manner of assistance and repayment"
 usc_title: 12
 usc_section: "2703"
 chapter: 28
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "12 U.S.C. § 2703"
-generated_at: "2026-03-29T21:19:56.385Z"
+generated_at: "2026-03-29T21:27:06.850Z"
 ---
 
 # § 2703. Manner of assistance and repayment

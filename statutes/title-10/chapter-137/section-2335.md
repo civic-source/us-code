@@ -3,9 +3,9 @@ title: "Section 2335 - Prohibition on collection of political information"
 usc_title: 10
 usc_section: "2335"
 chapter: 137
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 2335"
-generated_at: "2026-03-29T21:19:21.967Z"
+generated_at: "2026-03-29T21:26:52.616Z"
 ---
 
 # § 2335. Prohibition on collection of political information

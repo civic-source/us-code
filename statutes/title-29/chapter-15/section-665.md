@@ -3,9 +3,9 @@ title: "Section 665 - Variations, tolerances, and exemptions from required provi
 usc_title: 29
 usc_section: "665"
 chapter: 15
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "29 U.S.C. § 665"
-generated_at: "2026-03-29T21:22:21.328Z"
+generated_at: "2026-03-29T21:28:45.497Z"
 ---
 
 # § 665. Variations, tolerances, and exemptions from required provisions; procedure; duration

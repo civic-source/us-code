@@ -3,9 +3,9 @@ title: "Section 3703 - Injunctions"
 usc_title: 28
 usc_section: "3703"
 chapter: 178
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "28 U.S.C. § 3703"
-generated_at: "2026-03-29T21:22:18.244Z"
+generated_at: "2026-03-29T21:29:17.347Z"
 ---
 
 # § 3703. Injunctions

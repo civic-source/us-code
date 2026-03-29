@@ -3,9 +3,9 @@ title: "Section 4171 - Operational test and evaluation of defense acquisition pr
 usc_title: 10
 usc_section: "4171"
 chapter: 309
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 4171"
-generated_at: "2026-03-29T21:19:22.071Z"
+generated_at: "2026-03-29T21:26:52.720Z"
 ---
 
 # § 4171. Operational test and evaluation of defense acquisition programs

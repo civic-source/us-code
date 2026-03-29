@@ -3,9 +3,9 @@ title: "Section 1210 - Members on temporary disability retired list: periodic ph
 usc_title: 10
 usc_section: "1210"
 chapter: 61
-current_through: "PL 117-41"
+current_through: "PL 117-42"
 classification: "10 U.S.C. § 1210"
-generated_at: "2026-03-29T21:19:21.885Z"
+generated_at: "2026-03-29T21:26:52.538Z"
 ---
 
 # § 1210. Members on temporary disability retired list: periodic physical examination; final determination of status
