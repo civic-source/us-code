@@ -3,9 +3,9 @@ title: "Section 6979a - Transferred"
 usc_title: 42
 usc_section: "6979a"
 chapter: 82
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 6979a"
-generated_at: "2026-03-29T22:01:08.071Z"
+generated_at: "2026-03-29T22:06:32.896Z"
 ---
 
 # § 6979a. Transferred

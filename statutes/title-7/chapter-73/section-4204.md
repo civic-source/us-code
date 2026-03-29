@@ -3,9 +3,9 @@ title: "Section 4204 - Technical assistance"
 usc_title: 7
 usc_section: "4204"
 chapter: 73
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 4204"
-generated_at: "2026-03-29T21:57:09.304Z"
+generated_at: "2026-03-29T22:03:15.563Z"
 ---
 
 # § 4204. Technical assistance

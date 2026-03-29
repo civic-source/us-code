@@ -3,9 +3,9 @@ title: "Section 280k - Oral healthcare prevention education campaign"
 usc_title: 42
 usc_section: "280k"
 chapter: 6
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 280k"
-generated_at: "2026-03-29T22:01:06.910Z"
+generated_at: "2026-03-29T22:06:31.863Z"
 ---
 
 # § 280k. Oral healthcare prevention education campaign

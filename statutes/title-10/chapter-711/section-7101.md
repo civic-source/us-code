@@ -3,9 +3,9 @@ title: "Section 7101 - Officers on active duty: minimum strength based on requir
 usc_title: 10
 usc_section: "7101"
 chapter: 711
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 7101"
-generated_at: "2026-03-29T21:57:04.947Z"
+generated_at: "2026-03-29T22:03:29.639Z"
 ---
 
 # § 7101. Officers on active duty: minimum strength based on requirements

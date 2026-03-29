@@ -3,9 +3,9 @@ title: "Section 1407 - Tax exemption; resources exemption limitation"
 usc_title: 25
 usc_section: "1407"
 chapter: 16
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "25 U.S.C. § 1407"
-generated_at: "2026-03-29T21:58:48.141Z"
+generated_at: "2026-03-29T22:04:31.506Z"
 ---
 
 # § 1407. Tax exemption; resources exemption limitation

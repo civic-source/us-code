@@ -3,9 +3,9 @@ title: "Section 4004 - Records"
 usc_title: 22
 usc_section: "4004"
 chapter: 52
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 4004"
-generated_at: "2026-03-29T21:58:43.215Z"
+generated_at: "2026-03-29T22:04:38.481Z"
 ---
 
 # § 4004. Records

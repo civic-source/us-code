@@ -3,9 +3,9 @@ title: "Section 911 - Legislative authorization to create authorities"
 usc_title: 48
 usc_section: "911"
 chapter: 4
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "48 U.S.C. § 911"
-generated_at: "2026-03-29T22:01:19.318Z"
+generated_at: "2026-03-29T22:06:38.202Z"
 ---
 
 # § 911. Legislative authorization to create authorities

@@ -3,9 +3,9 @@ title: "Section 4651 - Definitions"
 usc_title: 15
 usc_section: "4651"
 chapter: 72
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 4651"
-generated_at: "2026-03-29T21:57:52.995Z"
+generated_at: "2026-03-29T22:03:57.200Z"
 ---
 
 # § 4651. Definitions
@@ -36,7 +36,7 @@ In this chapter:
   - **(6)** The term “foreign entity of concern” means any foreign entity that is—
     - **(A)** designated as a foreign terrorist organization by the Secretary of State under section 1189 of title 8 ;
     - **(B)** included on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury;
-    - **(C)** owned by, controlled by, or subject to the jurisdiction or direction of a government of a foreign country that is listed in section 2533c of title 10 ; or
+    - **(C)** owned by, controlled by, or subject to the jurisdiction or direction of a government of a foreign country that is listed in section 2533c 3 3 See References in Text note below. of title 10; or
     - **(D)** alleged by the Attorney General to have been involved in activities for which a conviction was obtained under—
       - **(i)** chapter 37 of title 18 (commonly known as the “Espionage Act”) ( 18 U.S.C. 792 [791] et seq.);
       - **(ii)** section 951 or 1030 of title 18;
@@ -44,7 +44,7 @@ In this chapter:
       - **(iv)** the Arms Export Control Act ( 22 U.S.C. 2751 et seq.);
       - **(v)** sections 2274, 2275, 2276, 2277, or 2284 of title 42;
       - **(vi)** the Export Control Reform Act of 2018 ( 50 U.S.C. 4801 et seq.); or
-      - **(vii)** the International Economic Emergency Powers Act 3 3 See References in Text note below. ( 50 U.S.C. 1701 et seq.); or
+      - **(vii)** the International Economic Emergency Powers Act 3 ( 50 U.S.C. 1701 et seq.); or
     - **(E)** determined by the Secretary, in consultation with the Secretary of Defense and the Director of National Intelligence, to be engaged in unauthorized conduct that is detrimental to the national security or foreign policy of the United States under this chapter.
   - **(7)** The term “governmental entity” means a State or local government.
   - **(8)** The term “Secretary” means the Secretary of Commerce.

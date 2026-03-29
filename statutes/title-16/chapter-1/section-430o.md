@@ -3,9 +3,9 @@ title: "Section 430o - Gifts and donations; acceptance by Secretary"
 usc_title: 16
 usc_section: "430o"
 chapter: 1
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 430o"
-generated_at: "2026-03-29T21:58:32.637Z"
+generated_at: "2026-03-29T22:04:21.356Z"
 ---
 
 # § 430o. Gifts and donations; acceptance by Secretary

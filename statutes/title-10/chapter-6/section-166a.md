@@ -3,9 +3,9 @@ title: "Section 166a - Combatant commands: funding through the Chairman of Joint
 usc_title: 10
 usc_section: "166a"
 chapter: 6
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 166a"
-generated_at: "2026-03-29T21:57:04.679Z"
+generated_at: "2026-03-29T22:03:29.345Z"
 ---
 
 # § 166a. Combatant commands: funding through the Chairman of Joint Chiefs of Staff
@@ -29,8 +29,8 @@ generated_at: "2026-03-29T21:57:04.679Z"
 - **(d)** Any amount provided by the Chairman of the Joint Chiefs of Staff during any fiscal year out of the Combatant Commander Initiative Fund for an activity referred to in subsection (b) shall be in addition to amounts otherwise available for that activity for that fiscal year.
 - **(e)**
   - **(1)** Of funds made available under this section for any fiscal year—
-    - **(A)** not more than $20,000,000 may be used to purchase items with a unit cost in excess of $250,000;
-    - **(B)** not more than $10,000,000 may be used to pay for any expenses of foreign countries participating in joint exercises as authorized by subsection (b)(5); and
-    - **(C)** not more than $5,000,000 may be used to provide military education and training (including transportation, translation, and administrative expenses) to military and related civilian personnel of foreign countries as authorized by subsection (b)(7).
+    - **(A)** not more than $25,000,000 may be used to purchase items with a unit cost in excess of $300,000;
+    - **(B)** not more than $15,000,000 may be used to pay for any expenses of foreign countries participating in joint exercises as authorized by subsection (b)(5); and
+    - **(C)** not more than $10,000,000 may be used to provide military education and training (including transportation, translation, and administrative expenses) to military and related civilian personnel of foreign countries as authorized by subsection (b)(7).
   - **(2)** Funds may not be provided under this section for any activity that has been denied authorization by Congress.
 - **(f)** For purposes of this section, the Commander, United States Element, North American Aerospace Defense Command shall be considered to be a commander of a combatant command.

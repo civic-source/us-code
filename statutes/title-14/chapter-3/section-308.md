@@ -3,9 +3,9 @@ title: "Section 308 - Chief Acquisition Officer"
 usc_title: 14
 usc_section: "308"
 chapter: 3
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "14 U.S.C. § 308"
-generated_at: "2026-03-29T21:57:13.753Z"
+generated_at: "2026-03-29T22:03:34.046Z"
 ---
 
 # § 308. Chief Acquisition Officer
@@ -34,5 +34,5 @@ generated_at: "2026-03-29T21:57:13.753Z"
     - **(A)** keeping the Commandant informed of the progress of major acquisition programs (as that term is defined in section 1171);
     - **(B)** informing the Commandant on a continuing basis of any developments on such programs that may require new or revisited trade-offs among cost, schedule, technical feasibility, and performance, including—
       - **(i)** significant cost growth or schedule slippage; and
-      - **(ii)** requirements creep (as that term is defined in section 2547(c)(1) of title 10 ); and
+      - **(ii)** requirements creep (as that term is defined in section 3104(c)(1) of title 10 ); and
     - **(C)** ensuring that the views of the Commandant regarding such programs on cost, schedule, technical feasibility, and performance trade-offs are strongly considered by program managers and program executive officers in all phases of the acquisition process.

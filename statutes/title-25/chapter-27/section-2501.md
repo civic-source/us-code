@@ -3,9 +3,9 @@ title: "Section 2501 - Declaration of policy"
 usc_title: 25
 usc_section: "2501"
 chapter: 27
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "25 U.S.C. § 2501"
-generated_at: "2026-03-29T21:58:48.188Z"
+generated_at: "2026-03-29T22:04:31.569Z"
 ---
 
 # § 2501. Declaration of policy

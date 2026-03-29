@@ -3,9 +3,9 @@ title: "Section 2761 - Sales from stocks"
 usc_title: 22
 usc_section: "2761"
 chapter: 39
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 2761"
-generated_at: "2026-03-29T21:58:43.184Z"
+generated_at: "2026-03-29T22:04:38.449Z"
 ---
 
 # § 2761. Sales from stocks
@@ -77,7 +77,7 @@ generated_at: "2026-03-29T21:58:43.184Z"
   - **(3)**
     - **(A)** The foreign government or international organization receiving a new or repaired defense article in exchange for a repairable defense article pursuant to paragraph (1) shall, upon the acceptance by the United States Government of the repairable defense article being returned, be charged the total cost associated with the repair and replacement transaction.
     - **(B)** The total cost charged pursuant to subparagraph (A) shall be the same as that charged the United States Armed Forces for a similar repair and replacement transaction, plus an administrative surcharge in accordance with subsection (e)(1)(A) of this section.
-  - **(4)** The authority of the President to accept the return of a repairable defense article as provided in subsection (a) shall not be subject to chapter 137 of title 10 or any other provision of law relating to the conclusion of contracts.
+  - **(4)** The authority of the President to accept the return of a repairable defense article as provided in subsection (a) shall not be subject to chapter 137 legacy provisions (as such term is defined in section 3016 of title 10 ) of title 10 or any other provision of law relating to the conclusion of contracts.
 - **(m)**
   - **(1)** The President may accept the return of a defense article from a foreign country or international organization if such defense article—
     - **(A)** previously was transferred to such country or organization under this chapter;
@@ -91,4 +91,4 @@ generated_at: "2026-03-29T21:58:43.184Z"
       - **(i)** is accepting the return of the defense article for subsequent transfer to another foreign government or international organization pursuant to a letter of offer and acceptance implemented in accordance with this chapter; and
       - **(ii)** has available sufficient funds provided by or on behalf of such other foreign government or international organization pursuant to a letter of offer and acceptance implemented in accordance with this chapter.
   - **(3)** Upon acquisition and acceptance by the United States Government of a defense article under paragraph (1), the appropriate Foreign Military Sales account of the provider shall be credited to reflect the transaction.
-  - **(4)** The authority of the President to accept the return of a defense article as provided in paragraph (1) shall not be subject to chapter 137 of title 10 or any other provision of law relating to the conclusion of contracts.
+  - **(4)** The authority of the President to accept the return of a defense article as provided in paragraph (1) shall not be subject to chapter 137 legacy provisions (as such term is defined in section 3016 of title 10 ) of title 10 or any other provision of law relating to the conclusion of contracts.

@@ -3,9 +3,9 @@ title: "Section 45101 - Definition"
 usc_title: 49
 usc_section: "45101"
 chapter: 451
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 45101"
-generated_at: "2026-03-29T22:02:02.831Z"
+generated_at: "2026-03-29T22:06:49.908Z"
 ---
 
 # § 45101. Definition

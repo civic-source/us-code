@@ -3,9 +3,9 @@ title: "Section 236 - Orphan Products Board"
 usc_title: 42
 usc_section: "236"
 chapter: 6
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 236"
-generated_at: "2026-03-29T22:01:06.817Z"
+generated_at: "2026-03-29T22:06:31.783Z"
 ---
 
 # § 236. Orphan Products Board

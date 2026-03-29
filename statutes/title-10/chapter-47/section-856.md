@@ -3,16 +3,16 @@ title: "Section 856 - Art. 56. Sentencing"
 usc_title: 10
 usc_section: "856"
 chapter: 47
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 856"
-generated_at: "2026-03-29T21:57:04.724Z"
+generated_at: "2026-03-29T22:03:29.401Z"
 ---
 
 # § 856. Art. 56. Sentencing
 
 - **(a)** The punishment which a court-martial may direct for an offense may not exceed such limits as the President may prescribe for that offense.
 - **(b)**
-  - **(1)** Except as provided in subsection (d) of section 853a of this title (article 53a), punishment for any offense specified in paragraph (2) shall include dismissal or dishonorable discharge, as applicable.
+  - **(1)** Except as provided in subsection (c) of section 853a of this title (article 53a), punishment for any offense specified in paragraph (2) shall include dismissal or dishonorable discharge, as applicable.
   - **(2)** The offenses referred to in paragraph (1) are as follows:
     - **(A)** Rape under subsection (a) of section 920 of this title (article 120).
     - **(B)** Sexual assault under subsection (b) of such section (article).

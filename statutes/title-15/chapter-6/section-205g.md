@@ -3,9 +3,9 @@ title: "Section 205g - Gifts, donations and bequests to Board"
 usc_title: 15
 usc_section: "205g"
 chapter: 6
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 205g"
-generated_at: "2026-03-29T21:57:52.775Z"
+generated_at: "2026-03-29T22:03:56.810Z"
 ---
 
 # § 205g. Gifts, donations and bequests to Board

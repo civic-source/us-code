@@ -3,9 +3,9 @@ title: "Section 482 - Readiness reports"
 usc_title: 10
 usc_section: "482"
 chapter: 23
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 482"
-generated_at: "2026-03-29T21:57:04.699Z"
+generated_at: "2026-03-29T22:03:29.372Z"
 ---
 
 # § 482. Readiness reports
@@ -24,7 +24,8 @@ generated_at: "2026-03-29T21:57:04.699Z"
   - **(7)** A summary of the readiness of the combat support and related agencies, any readiness problem or deficiency affecting any mission essential tasks of any such agency, and actions recommended to address any such problem or deficiency.
   - **(8)** A list of all Class A, Class B, and Class C mishaps that occurred in operations related to combat support and training events involving aviation, ground, or naval platforms, weapons, space, or Government vehicles, as defined by Department of Defense Instruction 6055.07, or a successor instruction.
   - **(9)** Information on the extent to which units of the armed forces have removed serviceable parts, supplies, or equipment from one vehicle, vessel, or aircraft in order to render a different vehicle, vessel, or aircraft operational.
-  - **(10)** Such other information as determined necessary or appropriate by the Secretary of Defense.
+  - **(10)** Information regarding the extent to which any member of the armed forces is assigned or detailed outside the member’s unit or away from training in order to perform any function that had previously been performed by civilian employees of the Federal Government.
+  - **(11)** Such other information as determined necessary or appropriate by the Secretary of Defense.
 - **(c)** The information required under subsection (b) to be included in the report for a quarter shall be based on readiness assessments that are provided during that quarter—
   - **(1)** to any council, committee, or other body of the Department of Defense—
     - **(A)** that has responsibility for readiness oversight; and

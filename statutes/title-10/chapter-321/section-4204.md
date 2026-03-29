@@ -3,9 +3,9 @@ title: "Section 4204 - Milestone decision authority"
 usc_title: 10
 usc_section: "4204"
 chapter: 321
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 4204"
-generated_at: "2026-03-29T21:57:04.930Z"
+generated_at: "2026-03-29T22:03:29.613Z"
 ---
 
 # § 4204. Milestone decision authority
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T21:57:04.930Z"
 - **(c)**
   - **(1)** After designating an alternate milestone decision authority under subsection (b) for a program, the Secretary of Defense may revert the position of milestone decision authority for the program back to the service acquisition executive upon request of the Secretary of the military department concerned. A decision on the request shall be made within 180 days after receipt of the request from the Secretary of the military department concerned.
   - **(2)** If the Secretary of Defense denies the request for reversion of the milestone decision authority back to the service acquisition executive, the Secretary shall report to the congressional defense committees on the basis of the Secretary’s decision that an alternate official serving as milestone decision authority will best provide for the program to achieve desired cost, schedule, and performance outcomes. No such reversion is authorized after a program has incurred a unit cost increase greater than the significant cost threshold or critical cost threshold under sections 4371 through 4375 of this title, except in exceptional circumstances.
-- **(d)** For each major defense acquisition program, the Secretary of the military department concerned and the Chief of the armed force concerned shall, in each Selected Acquisition Report required under sections 4351 through 4358 of this title—
+- **(d)** For each major defense acquisition program, the Secretary of the military department concerned and the Chief of the armed force concerned shall, in each Selected Acquisition Report required under section 4351 of this title —
   - **(1)** certify that program requirements are stable and funding is adequate to meet cost, schedule, and performance objectives for the program; and
   - **(2)** identify and report to the congressional defense committees on any increased risk to the program since the last report.
 - **(e)** The Secretary of Defense shall review the acquisition oversight process for major defense acquisition programs and shall—

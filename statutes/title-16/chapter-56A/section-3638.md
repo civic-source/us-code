@@ -3,9 +3,9 @@ title: "Section 3638 - General standard"
 usc_title: 16
 usc_section: "3638"
 chapter: 56
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 3638"
-generated_at: "2026-03-29T21:58:32.929Z"
+generated_at: "2026-03-29T22:04:21.767Z"
 ---
 
 # § 3638. General standard

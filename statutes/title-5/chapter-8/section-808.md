@@ -3,9 +3,9 @@ title: "Section 808 - Effective date of certain rules"
 usc_title: 5
 usc_section: "808"
 chapter: 8
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "5 U.S.C. § 808"
-generated_at: "2026-03-29T21:56:41.828Z"
+generated_at: "2026-03-29T22:02:55.788Z"
 ---
 
 # § 808. Effective date of certain rules

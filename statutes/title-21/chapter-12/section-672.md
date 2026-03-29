@@ -3,9 +3,9 @@ title: "Section 672 - Administrative detention; duration; pending judicial proce
 usc_title: 21
 usc_section: "672"
 chapter: 12
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "21 U.S.C. § 672"
-generated_at: "2026-03-29T21:58:50.989Z"
+generated_at: "2026-03-29T22:04:42.973Z"
 ---
 
 # § 672. Administrative detention; duration; pending judicial proceedings; notification of governmental authorities; release

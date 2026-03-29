@@ -3,9 +3,9 @@ title: "Section 240g - Defense Business Audit Remediation Plan"
 usc_title: 10
 usc_section: "240g"
 chapter: 9
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 240g"
-generated_at: "2026-03-29T21:57:04.688Z"
+generated_at: "2026-03-29T22:03:29.358Z"
 ---
 
 # § 240g. Defense Business Audit Remediation Plan
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T21:57:04.688Z"
 - **(a)** The Secretary of Defense shall maintain a plan, to be known as the “Defense Business Systems Audit Remediation Plan”. Such plan shall include a current accounting of the defense business systems of the Department of Defense that will be introduced, replaced, updated, modified, or retired in connection with the audit of the full financial statements of the Department, including a comprehensive roadmap that displays—
   - **(1)** in-service, retirement, and other pertinent dates for affected defense business systems;
   - **(2)** current cost-to-complete estimates for each affected defense business system;
-  - **(3)** dependencies both between the various defense business systems and between the introduction, replacement, update, modification, and retirement of such systems; and 1 1 So in original. The word “and” probably should not appear.
+  - **(3)** dependencies both between the various defense business systems and between the introduction, replacement, update, modification, and retirement of such systems;
   - **(4)** the amount spent by the Department on operating and maintaining financial management systems during the preceding five fiscal years; and
   - **(5)** the amount spent by the Department on acquiring or developing new financial management systems during such five fiscal years.
 - **(b)**

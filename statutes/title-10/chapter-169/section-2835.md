@@ -3,9 +3,9 @@ title: "Section 2835 - Long-term leasing of military family housing to be constr
 usc_title: 10
 usc_section: "2835"
 chapter: 169
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2835"
-generated_at: "2026-03-29T21:57:04.899Z"
+generated_at: "2026-03-29T22:03:29.574Z"
 ---
 
 # § 2835. Long-term leasing of military family housing to be constructed
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T21:57:04.899Z"
 - **(b)**
   - **(1)** The Secretary of a military department, or the Secretary of Homeland Security with respect to the Coast Guard, may enter into a lease contract under subsection (a) for such military housing as is authorized by law for the purposes of this section.
   - **(2)** The budget material submitted to Congress by the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, in connection with the budget submitted pursuant to section 1105 of title 31 for each fiscal year shall include materials that identify the military housing projects for which lease contracts are proposed to be entered into under subsection (a) in such fiscal year.
-- **(c)** Each contract under subsection (a) shall be awarded through the use of publicly advertised, competitively bid, or competitively negotiated, contracting procedures as provided in chapter 137 of this title. In accordance with such procedures, the Secretary of a military department, or the Secretary of Homeland Security, as the case may be, shall solicit bids or proposals for a contract for the lease of military housing authorized in accordance with subsection (b)(1). Such a contract may provide for the contractor of the housing facilities to operate and maintain such housing facilities during the term of the lease.
+- **(c)** Each contract under subsection (a) shall be awarded through the use of publicly advertised, competitively bid, or competitively negotiated, contracting procedures as provided in chapter 137 1 1 See References in Text note below. of this title. In accordance with such procedures, the Secretary of a military department, or the Secretary of Homeland Security, as the case may be, shall solicit bids or proposals for a contract for the lease of military housing authorized in accordance with subsection (b)(1). Such a contract may provide for the contractor of the housing facilities to operate and maintain such housing facilities during the term of the lease.
 - **(d)** A lease contract entered into for a military housing project under subsection (a) shall include the following provisions:
   - **(1)** A statement that the obligation of the United States to make payments under the contract in any fiscal year is subject to appropriations being provided specifically for that fiscal year and specifically for that project.
   - **(2)** A commitment to obligate the necessary amount for each fiscal year covered by the contract when and to the extent that funds are appropriated for that project for that fiscal year.

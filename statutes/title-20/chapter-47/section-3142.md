@@ -3,9 +3,9 @@ title: "Section 3142 - Omitted"
 usc_title: 20
 usc_section: "3142"
 chapter: 47
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 3142"
-generated_at: "2026-03-29T21:58:01.308Z"
+generated_at: "2026-03-29T22:04:14.307Z"
 ---
 
 # §§ 3141, 3142. Omitted

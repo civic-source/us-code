@@ -3,9 +3,9 @@ title: "Section 9062 - Policy; composition; aircraft authorization"
 usc_title: 10
 usc_section: "9062"
 chapter: 907
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 9062"
-generated_at: "2026-03-29T21:57:04.987Z"
+generated_at: "2026-03-29T22:03:29.683Z"
 ---
 
 # § 9062. Policy; composition; aircraft authorization
@@ -32,7 +32,7 @@ generated_at: "2026-03-29T21:57:04.987Z"
     - **(B)** The term “outsized cargo” means any single item of equipment that exceeds 1,090 inches in length, 117 inches in width, or 105 inches in height.
 - **[(h)** Repealed. Pub. L. 116–283, div. A, title I, § 132(b) , Jan. 1, 2021 , 134 Stat. 3430 .]
 - **(i)**
-  - **(1)** During the period beginning on October 1, 2017 , and ending on October 1, 2022 , the Secretary of the Air Force shall maintain a total aircraft inventory of fighter aircraft of not less than 1,970 aircraft, and a total primary mission aircraft inventory (combat-coded) of not less than 1,145 fighter aircraft.
+  - **(1)** During the period beginning on October 1, 2017 , and ending on October 1, 2026 , the Secretary of the Air Force shall maintain a total aircraft inventory of fighter aircraft of not less than 1,970 aircraft, and a total primary mission aircraft inventory (combat-coded) of not less than 1,145 fighter aircraft.
   - **(2)** In this subsection:
     - **(A)** The term “fighter aircraft” means an aircraft that—
       - **(i)** is designated by a mission design series prefix of F– or A–;

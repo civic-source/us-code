@@ -3,9 +3,9 @@ title: "Section 12103 - Additional definitions"
 usc_title: 42
 usc_section: "12103"
 chapter: 126
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 12103"
-generated_at: "2026-03-29T22:01:08.379Z"
+generated_at: "2026-03-29T22:06:33.177Z"
 ---
 
 # § 12103. Additional definitions

@@ -3,9 +3,9 @@ title: "Section 6401 - Findings; policy"
 usc_title: 22
 usc_section: "6401"
 chapter: 73
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 6401"
-generated_at: "2026-03-29T21:58:43.266Z"
+generated_at: "2026-03-29T22:04:38.544Z"
 ---
 
 # § 6401. Findings; policy

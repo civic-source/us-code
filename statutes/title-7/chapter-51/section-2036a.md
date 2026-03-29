@@ -3,9 +3,9 @@ title: "Section 2036a - Nutrition education and obesity prevention grant program
 usc_title: 7
 usc_section: "2036a"
 chapter: 51
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 2036a"
-generated_at: "2026-03-29T21:57:09.255Z"
+generated_at: "2026-03-29T22:03:15.506Z"
 ---
 
 # § 2036a. Nutrition education and obesity prevention grant program

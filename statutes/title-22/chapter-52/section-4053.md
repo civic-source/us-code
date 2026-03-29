@@ -3,9 +3,9 @@ title: "Section 4053 - Reassignment and retirement of former Presidential appoin
 usc_title: 22
 usc_section: "4053"
 chapter: 52
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 4053"
-generated_at: "2026-03-29T21:58:43.221Z"
+generated_at: "2026-03-29T22:04:38.485Z"
 ---
 
 # § 4053. Reassignment and retirement of former Presidential appointees

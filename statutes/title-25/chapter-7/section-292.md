@@ -3,9 +3,9 @@ title: "Section 292 - Suspension or discontinuance of schools"
 usc_title: 25
 usc_section: "292"
 chapter: 7
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "25 U.S.C. § 292"
-generated_at: "2026-03-29T21:58:48.115Z"
+generated_at: "2026-03-29T22:04:31.472Z"
 ---
 
 # § 292. Suspension or discontinuance of schools

@@ -3,9 +3,9 @@ title: "Section 6982 - Conditions for implementation of alterations in the level
 usc_title: 7
 usc_section: "6982"
 chapter: 98
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 6982"
-generated_at: "2026-03-29T21:57:09.351Z"
+generated_at: "2026-03-29T22:03:15.636Z"
 ---
 
 # § 6982. Conditions for implementation of alterations in the level of additives allowed in animal diets

@@ -3,9 +3,9 @@ title: "Section 42 - Construction, operation, and maintenance of flood control w
 usc_title: 22
 usc_section: "42"
 chapter: 7
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 42"
-generated_at: "2026-03-29T21:58:43.057Z"
+generated_at: "2026-03-29T22:04:38.314Z"
 ---
 
 # § 277d–42. Construction, operation, and maintenance of flood control works; authorization of appropriations; restrictions

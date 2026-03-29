@@ -3,9 +3,9 @@ title: "Section 1705 - Allocation of funds"
 usc_title: 12
 usc_section: "1705"
 chapter: 13
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 1705"
-generated_at: "2026-03-29T21:57:19.382Z"
+generated_at: "2026-03-29T22:03:46.871Z"
 ---
 
 # § 1705. Allocation of funds

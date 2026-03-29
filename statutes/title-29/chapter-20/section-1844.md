@@ -3,9 +3,9 @@ title: "Section 1844 - Compliance with written agreements"
 usc_title: 29
 usc_section: "1844"
 chapter: 20
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "29 U.S.C. § 1844"
-generated_at: "2026-03-29T21:59:20.255Z"
+generated_at: "2026-03-29T22:04:49.070Z"
 ---
 
 # § 1844. Compliance with written agreements

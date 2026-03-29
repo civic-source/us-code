@@ -3,9 +3,9 @@ title: "Section 4206 - Fees for services to American vessels or seamen prohibite
 usc_title: 22
 usc_section: "4206"
 chapter: 52
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 4206"
-generated_at: "2026-03-29T21:58:43.231Z"
+generated_at: "2026-03-29T22:04:38.499Z"
 ---
 
 # § 4206. Fees for services to American vessels or seamen prohibited

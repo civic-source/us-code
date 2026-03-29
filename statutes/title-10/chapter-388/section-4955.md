@@ -1,16 +1,25 @@
 ---
-title: "Section 4955 - Subcontractor information"
+title: "Section 4955 - Funding"
 usc_title: 10
 usc_section: "4955"
 chapter: 388
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 4955"
-generated_at: "2026-03-29T21:57:04.944Z"
+generated_at: "2026-03-29T22:03:29.635Z"
 ---
 
-# § 4955. Subcontractor information
+# § 4955. Funding
 
-- **(a)** The Secretary of Defense shall require that any defense contractor in any year shall provide to an eligible entity with which the Secretary has entered into a cooperative agreement under this chapter, on the request of such entity, the information specified in subsection (b).
-- **(b)** Information to be provided under subsection (a) is a listing of the name of each appropriate employee of the contractor who has responsibilities with respect to entering into contracts on behalf of such contractor that constitute subcontracts of contracts being performed by such contractor, together with the business address and telephone number and area of responsibility of each such employee.
-- **(c)** A defense contractor need not provide information under this section to a particular eligible entity more frequently than once a year.
-- **(d)** In this section, the term “defense contractor”, for any year, means a person awarded a contract with the Department of Defense in that year for an amount in excess of $1,000,000.
+- **(a)** Except as provided in subsection (c), the value of the assistance furnished by the Secretary to any eligible entity to carry out a procurement technical assistance program under a cooperative agreement under this chapter during any fiscal year may not exceed—
+  - **(1)** in the case of a program operating on a Statewide basis, other than a program referred to in paragraph (3) or (4), $1,000,000;
+  - **(2)** in the case of a program operating on less than a Statewide basis, other than a program referred to in paragraph (3) or (4), $750,000;
+  - **(3)** in the case of a program operated wholly within one service area of the Bureau of Indian Affairs by an eligible entity referred to in section 4951(1)(D) of this title , $450,000; or
+  - **(4)** in the case of a program operated wholly within more than one service area of the Bureau of Indian Affairs by an eligible entity referred to in section 4951(1)(D) of this title , $1,000,000.
+- **(b)** A determination of whether a procurement technical assistance program is operating on a Statewide basis or on less than a Statewide basis or is operated wholly within one or more service areas of the Bureau of Indian Affairs by an eligible entity referred to in section 4951(1)(D) of this title shall be made in accordance with regulations prescribed by the Secretary of Defense.
+- **(c)** The value of the assistance provided in accordance with section 4959(b) of this title is not subject to the limitations in subsection (a).
+- **(d)**
+  - **(1)** An eligible entity that earned income in a specified fiscal year from activities carried out pursuant to a procurement technical assistance program funded under this chapter may expend an amount of such income, not to exceed 25 percent of the cost of furnishing procurement technical assistance in such specified fiscal year, during the fiscal year following such specified fiscal year, to carry out a procurement technical assistance program funded under this chapter.
+  - **(2)** An eligible entity that does not enter into a cooperative agreement with the Secretary for a fiscal year—
+    - **(A)** shall notify the Secretary of the amount of any income the eligible entity carried over from the previous fiscal year; and
+    - **(B)** may retain an amount of such income equal to 10 percent of the value of assistance furnished by the Secretary under this section during the previous fiscal year.
+  - **(3)** In determining the value of assistance furnished by the Secretary under this section for any fiscal year, the Secretary shall account for the amount of any income the eligible entity carried over from the previous fiscal year.

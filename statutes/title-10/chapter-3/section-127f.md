@@ -3,9 +3,9 @@ title: "Section 127f - Expenditure of funds for clandestine activities that supp
 usc_title: 10
 usc_section: "127f"
 chapter: 3
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 127f"
-generated_at: "2026-03-29T21:57:04.673Z"
+generated_at: "2026-03-29T22:03:29.337Z"
 ---
 
 # § 127f. Expenditure of funds for clandestine activities that support operational preparation of the environment
@@ -21,3 +21,4 @@ generated_at: "2026-03-29T21:57:04.673Z"
   - **(2)** a detailed description of the purpose for which such expenditure was made;
   - **(3)** an explanation why other authorities available to the Department of Defense could not be used for such expenditure; and
   - **(4)** any other matters the Secretary considers appropriate.
+- **(f)** Funding used to establish, develop, and maintain non-conventional assisted recovery capabilities under this section may only be obligated and expended with the concurrence of the relevant Chief of Mission or Chiefs of Mission.

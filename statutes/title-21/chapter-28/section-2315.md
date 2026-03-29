@@ -3,9 +3,9 @@ title: "Section 2315 - Procedures for judicial review of classified information"
 usc_title: 21
 usc_section: "2315"
 chapter: 28
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "21 U.S.C. § 2315"
-generated_at: "2026-03-29T21:58:51.042Z"
+generated_at: "2026-03-29T22:04:43.022Z"
 ---
 
 # § 2315. Procedures for judicial review of classified information

@@ -3,9 +3,9 @@ title: "Section 3350 - Maximum amount charged for declassification reviews"
 usc_title: 50
 usc_section: "3350"
 chapter: 45
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 3350"
-generated_at: "2026-03-29T22:01:35.067Z"
+generated_at: "2026-03-29T22:06:44.473Z"
 ---
 
 # § 3350. Maximum amount charged for declassification reviews

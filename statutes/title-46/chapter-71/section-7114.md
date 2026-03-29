@@ -3,9 +3,9 @@ title: "Section 7114 - Fees"
 usc_title: 46
 usc_section: "7114"
 chapter: 71
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 7114"
-generated_at: "2026-03-29T22:01:37.253Z"
+generated_at: "2026-03-29T22:06:41.406Z"
 ---
 
 # § 7114. Fees

@@ -3,9 +3,9 @@ title: "Section 139 - Director of Operational Test and Evaluation"
 usc_title: 10
 usc_section: "139"
 chapter: 4
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 139"
-generated_at: "2026-03-29T21:57:04.676Z"
+generated_at: "2026-03-29T22:03:29.341Z"
 ---
 
 # § 139. Director of Operational Test and Evaluation
@@ -16,14 +16,14 @@ generated_at: "2026-03-29T21:57:04.676Z"
     - **(A)** The term “operational test and evaluation” means—
       - **(i)** the field test, under realistic combat conditions, of any item of (or key component of) weapons, equipment, or munitions for the purpose of determining the effectiveness and suitability of the weapons, equipment, or munitions for use in combat by typical military users; and
       - **(ii)** the evaluation of the results of such test.
-    - **(B)** The term “major defense acquisition program” means a Department of Defense acquisition program that is a major defense acquisition program for purposes of section 2430 of this title or that is designated as such a program by the Director for purposes of this section.
+    - **(B)** The term “major defense acquisition program” means a Department of Defense acquisition program that is a major defense acquisition program for purposes of section 4201 of this title or that is designated as such a program by the Director for purposes of this section.
 - **(b)** The Director is the principal adviser to the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, and the Under Secretary of Defense for Research and Engineering on operational test and evaluation in the Department of Defense and the principal operational test and evaluation official within the senior management of the Department of Defense. The Director shall—
   - **(1)** prescribe, by authority of the Secretary of Defense, policies and procedures for the conduct of operational test and evaluation in the Department of Defense;
   - **(2)** provide guidance to and consult with the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, and the Under Secretary of Defense for Research and Engineering and the Secretaries of the military departments with respect to operational test and evaluation in the Department of Defense in general and with respect to specific operational test and evaluation to be conducted in connection with a major defense acquisition program;
   - **(3)** monitor and review all operational test and evaluation in the Department of Defense;
   - **(4)** coordinate operational testing conducted jointly by more than one military department or defense agency;
   - **(5)** review and make recommendations to the Secretary of Defense on all budgetary and financial matters relating to operational test and evaluation, including operational test facilities and equipment, in the Department of Defense; and
-  - **(6)** monitor and review the live fire testing activities of the Department of Defense provided for under section 2366 of this title .
+  - **(6)** monitor and review the live fire testing activities of the Department of Defense provided for under section 4172 of this title .
 - **(c)** The Director may communicate views on matters within the responsibility of the Director directly to the Secretary of Defense and the Deputy Secretary of Defense without obtaining the approval or concurrence of any other official within the Department of Defense. The Director shall consult closely with, but the Director and the Director’s staff are independent of, the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering, and all other officers and entities of the Department of Defense responsible for acquisition.
 - **(d)** The Director may not be assigned any responsibility for developmental test and evaluation, other than the provision of advice to officials responsible for such testing.
 - **(e)**
@@ -38,7 +38,7 @@ generated_at: "2026-03-29T21:57:04.676Z"
 - **(g)** The Director shall ensure that safety concerns developed during the operational test and evaluation of a weapon system under a major defense acquisition program are communicated in a timely manner to the program manager for that program for consideration in the acquisition decisionmaking process.
 - **(h)**
   - **(1)** The Director shall prepare an annual report summarizing the operational test and evaluation activities (including live fire testing activities) of the Department of Defense during the preceding fiscal year.
-  - **(2)** Each such report shall be submitted concurrently to the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering, the Secretaries of the military departments, and the Congress not later than January 31 of each year, through January 31, 2026 .
+  - **(2)** Each such report shall be submitted concurrently to the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering, the Secretaries of the military departments, and the Congress not later than January 31 of each year.
   - **(3)** If the Director submits the report to Congress in a classified form, the Director shall concurrently submit an unclassified version of the report to Congress.
   - **(4)** The report shall include such comments and recommendations as the Director considers appropriate, including comments and recommendations on resources and facilities available for operational test and evaluation and levels of funding made available for operational test and evaluation activities. The report for a fiscal year shall also include an assessment of the waivers of and deviations from requirements in test and evaluation master plans and other testing requirements that occurred during the fiscal year, any concerns raised by the waivers or deviations, and the actions that have been taken or are planned to be taken to address the concerns.
   - **(5)** The Director shall solicit comments from the Secretaries of the military departments on each report of the Director to Congress under this section and include any comments as an appendix to the Director’s report. The Director shall determine the amount of time available for the Secretaries to comment on the draft report on a case by case basis, and consider the extent to which substantive discussions have already been held between the Director and the military department. The Director shall reserve the right to issue the report without comment from a military department if the department’s comments are not received within the time provided, and shall indicate any such omission in the report.

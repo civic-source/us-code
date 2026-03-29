@@ -1,19 +1,17 @@
 ---
-title: "Section 4951 - Purposes; definitions; regulations"
+title: "Section 4951 - Definitions"
 usc_title: 10
 usc_section: "4951"
 chapter: 388
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 4951"
-generated_at: "2026-03-29T21:57:04.944Z"
+generated_at: "2026-03-29T22:03:29.634Z"
 ---
 
-# § 4951. Purposes; definitions; regulations
+# § 4951. Definitions
 
-- **(a)** The purposes of the program authorized by this chapter are—
-  - **(1)** to increase assistance by the Department of Defense to eligible entities furnishing procurement technical assistance to business entities; and
-  - **(2)** to assist eligible entities in the payment of the costs of establishing and carrying out new procurement technical assistance programs and maintaining existing procurement technical assistance programs.
-- **(b)** In this chapter:
+In this chapter:
+
   - **(1)** The term “eligible entity” means any of the following:
     - **(A)** A State.
     - **(B)** A local government.
@@ -24,6 +22,5 @@ generated_at: "2026-03-29T21:57:04.944Z"
       - **(i)** has a per capita income of 80 percent or less of the State average; or
       - **(ii)** has an unemployment rate that is one percent greater than the national average for the most recent 24-month period for which statistics are available; or
     - **(B)** a reservation, as defined in section 3(d) of the Indian Financing Act of 1974 ( Public Law 93–262 ; 25 U.S.C. 1452(d) ).
-  - **(3)** The term “Secretary” means the Secretary of Defense acting through the Director of the Defense Logistics Agency.
+  - **(3)** The term “Secretary” means the Secretary of Defense acting through the Under Secretary of Defense for Acquisition and Sustainment.
   - **(4)** The terms “State” and “local government” have the meaning given those terms in section 6302 of title 31 .
-- **(c)** The Secretary of Defense shall prescribe regulations to carry out this chapter.

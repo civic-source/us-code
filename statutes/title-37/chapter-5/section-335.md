@@ -3,9 +3,9 @@ title: "Section 335 - Special bonus and incentive pay authorities for officers i
 usc_title: 37
 usc_section: "335"
 chapter: 5
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "37 U.S.C. § 335"
-generated_at: "2026-03-29T22:00:09.569Z"
+generated_at: "2026-03-29T22:05:43.772Z"
 ---
 
 # § 335. Special bonus and incentive pay authorities for officers in health professions
@@ -54,4 +54,4 @@ generated_at: "2026-03-29T22:00:09.569Z"
   - **(6)** Any health profession performed by officers in the Veterinary Corps of a uniformed service or by officers designated as a veterinary officer.
   - **(7)** Any health profession performed by officers designated as a physician assistant.
   - **(8)** Any health profession performed by officers in the regular or reserve corps 1 1 See Change of Name note below. of the Public Health Service.
-- **(k)** No agreement may be entered into under this section after December 31, 2021 .
+- **(k)** No agreement may be entered into under this section after December 31, 2022 .

@@ -3,9 +3,9 @@ title: "Section 8204 - Fish Habitat Partnerships"
 usc_title: 16
 usc_section: "8204"
 chapter: 101
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 8204"
-generated_at: "2026-03-29T21:58:32.998Z"
+generated_at: "2026-03-29T22:04:21.891Z"
 ---
 
 # § 8204. Fish Habitat Partnerships

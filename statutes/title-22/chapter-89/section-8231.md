@@ -3,9 +3,9 @@ title: "Section 8231 - Advisory Committee on Democracy Promotion"
 usc_title: 22
 usc_section: "8231"
 chapter: 89
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 8231"
-generated_at: "2026-03-29T21:58:43.309Z"
+generated_at: "2026-03-29T22:04:38.603Z"
 ---
 
 # § 8231. Advisory Committee on Democracy Promotion

@@ -1,16 +1,12 @@
 ---
-title: "Section 2416 - Subcontractor information"
+title: "Section 2416 - Renumbered § 4957]"
 usc_title: 10
 usc_section: "2416"
 chapter: 142
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2416"
-generated_at: "2026-03-29T21:57:04.861Z"
+generated_at: "2026-03-29T22:03:29.536Z"
 ---
 
-# § 2416. Subcontractor information
+# [§ 2416. Renumbered § 4957]
 
-- **(a)** The Secretary of Defense shall require that any defense contractor in any year shall provide to an eligible entity with which the Secretary has entered into a cooperative agreement under this chapter, on the request of such entity, the information specified in subsection (b).
-- **(b)** Information to be provided under subsection (a) is a listing of the name of each appropriate employee of the contractor who has responsibilities with respect to entering into contracts on behalf of such contractor that constitute subcontracts of contracts being performed by such contractor, together with the business address and telephone number and area of responsibility of each such employee.
-- **(c)** A defense contractor need not provide information under this section to a particular eligible entity more frequently than once a year.
-- **(d)** In this section, the term “defense contractor”, for any year, means a person awarded a contract with the Department of Defense in that year for an amount in excess of $1,000,000.

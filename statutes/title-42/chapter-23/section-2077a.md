@@ -3,15 +3,15 @@ title: "Section 2077a - Interagency review of applications for the transfer of U
 usc_title: 42
 usc_section: "2077a"
 chapter: 23
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 2077a"
-generated_at: "2026-03-29T22:01:07.777Z"
+generated_at: "2026-03-29T22:06:32.616Z"
 ---
 
 # § 2077a. Interagency review of applications for the transfer of United States civil nuclear technology
 
-- **(a)** Not less frequently than every 90 days, the Secretary of Energy shall submit to the appropriate congressional committees a report that includes—
-  - **(1)** a description of the authorizations under section 2077(b) of this title to transfer United States civil nuclear technology to a covered foreign country during the preceding 90 days; and
+- **(a)** At the same time as the President submits to Congress the annual budget request under section 1105 of title 31 for a fiscal year, the Secretary of Energy shall submit to the appropriate congressional committees a report that includes—
+  - **(1)** a description of the authorizations under section 2077(b) of this title to transfer United States civil nuclear technology to a covered foreign country during the preceding year; and
   - **(2)** a statement of whether any agency required to be consulted under that section or pursuant to regulation objected to or sought conditions on each such transfer.
 - **(b)**
   - **(1)** Not later than 90 days after November 25, 2015 , and every five years thereafter, the Secretary of Energy shall—

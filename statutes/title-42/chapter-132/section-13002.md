@@ -3,9 +3,9 @@ title: "Section 13002 - Transferred"
 usc_title: 42
 usc_section: "13002"
 chapter: 132
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 13002"
-generated_at: "2026-03-29T22:01:08.456Z"
+generated_at: "2026-03-29T22:06:33.243Z"
 ---
 
 # § 13002. Transferred

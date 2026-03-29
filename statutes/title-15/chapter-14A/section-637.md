@@ -3,9 +3,9 @@ title: "Section 637 - Additional powers"
 usc_title: 15
 usc_section: "637"
 chapter: 14
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 637"
-generated_at: "2026-03-29T21:57:52.809Z"
+generated_at: "2026-03-29T22:03:56.860Z"
 ---
 
 # § 637. Additional powers
@@ -357,7 +357,7 @@ generated_at: "2026-03-29T21:57:52.809Z"
     - **(E)** the procurement is made for perishable subsistence supplies;
     - **(F)** the procurement is for utility services, other than telecommunication services, and only one source is available; or
     - **(G)** the procurement is for the services of an expert for use in any litigation or dispute (including preparation for any foreseeable litigation or dispute) that involves or could involve the Federal Government in any trial, hearing, or proceeding before any court, administrative tribunal, or agency, or in any part of an alternative dispute resolution process, whether or not the expert is expected to testify.
-  - **(2)** The requirements of subsection (a)(1)(A) do not apply to any procurement under conditions described in paragraph (2), (3), (4), (5), or (7) of section 3304(a) of title 41 or paragraph (2), (3), (4), (5), or (7) of section 2304(c) of title 10 .
+  - **(2)** The requirements of subsection (a)(1)(A) do not apply to any procurement under conditions described in paragraph (2), (3), (4), (5), or (7) of section 3304(a) of title 41 or paragraph (2), (3), (4), (5), or (7) of section 3204(a) of title 10 .
   - **(3)** The requirements of subsection (a)(1)(A) shall not apply in the case of any procurement for which the head of the executive agency makes a determination in writing, after consultation with the Administrator for Federal Procurement Policy and the Administrator of the Small Business Administration, that it is not appropriate or reasonable to publish a notice before issuing a solicitation.
 - **(h)**
   - **(1)** An executive agency may not award a contract using procedures other than competitive procedures unless—
@@ -365,8 +365,8 @@ generated_at: "2026-03-29T21:57:52.809Z"
       - **(i)** in the case of a contract for an amount exceeding $100,000 (but equal to or less than $1,000,000), by the advocate for competition for the procuring activity (without further delegation);
       - **(ii)** in the case of a contract for an amount exceeding $1,000,000 (but equal to or less than $10,000,000), by the head of the procuring activity or a delegate who, if a member of the Armed Forces, is a general or flag officer, or, if a civilian, is serving in a position in grade GS–16 or above under the General Schedule (or in a comparable or higher position under another schedule); or
       - **(iii)** in the case of a contract for an amount exceeding $10,000,000, by the senior procurement executive of the agency designated pursuant to section 414(3) of title 41 1 (without further delegation); and
-    - **(B)** all other requirements applicable to the use of such procedures under division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 or chapter 137 of title 10, as appropriate, have been satisfied.
-  - **(2)** The same exceptions as are provided in paragraphs (3) and (4) of section 3304(e) of title 41 or section 2304(f)(2) of title 10 shall apply with respect to the requirements of paragraph (1)(A) of this subsection in the same manner as such exceptions apply to the requirements of section 3304(e)(1) of title 41 or section 2304(f)(1) of title 10 , as appropriate.
+    - **(B)** all other requirements applicable to the use of such procedures under division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 or sections 3201 through 3205 of title 10, as appropriate, have been satisfied.
+  - **(2)** The same exceptions as are provided in paragraphs (3) and (4) of section 3304(e) of title 41 or paragraphs (3) and (4) of section 3204(e) of title 10 shall apply with respect to the requirements of paragraph (1)(A) of this subsection in the same manner as such exceptions apply to the requirements of section 3304(e)(1) of title 41 or section 3204(e)(1) of title 10 , as appropriate.
 - **(i)** An executive agency shall make available to any business concern, or the authorized representative of such concern, the complete solicitation package for any on-going procurement announced pursuant to a notice under subsection (e). An executive agency may require the payment of a fee, not exceeding the actual cost of duplication, for a copy of such package.
 - **(j)** For purposes of this section, the term “executive agency” has the meaning provided such term in section 133 of title 41 .
 - **(k)**

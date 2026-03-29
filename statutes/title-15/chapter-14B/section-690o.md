@@ -3,9 +3,9 @@ title: "Section 690o - Regulations"
 usc_title: 15
 usc_section: "690o"
 chapter: 14
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 690o"
-generated_at: "2026-03-29T21:57:52.841Z"
+generated_at: "2026-03-29T22:03:56.941Z"
 ---
 
 # § 690o. Regulations

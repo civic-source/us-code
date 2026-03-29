@@ -3,14 +3,14 @@ title: "Section 1905 - Coast Guard Academy minority outreach team program"
 usc_title: 14
 usc_section: "1905"
 chapter: 19
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "14 U.S.C. § 1905"
-generated_at: "2026-03-29T21:57:13.764Z"
+generated_at: "2026-03-29T22:03:34.060Z"
 ---
 
 # § 1905. Coast Guard Academy minority outreach team program
 
-- **(a)** There is established within the Coast Guard Academy a minority outreach team program (in this section referred to as the “Program” ) under which officers, including minority officers and officers from territories and other possessions of the United States, who are Academy graduates may volunteer their time to recruit minority students and strengthen cadet retention through mentorship of cadets.
+- **(a)** There is established within the Coast Guard Academy a minority outreach team program (in this section referred to as the “Program”) under which officers, including minority officers and officers from territories and other possessions of the United States, who are Academy graduates may volunteer their time to recruit minority students and strengthen cadet retention through mentorship of cadets.
 - **(b)** Not later than January 1, 2021 , the Commandant, in consultation with Program volunteers and Academy alumni that participated in prior programs at the Academy similar to the Program, shall appoint a permanent civilian position at the Academy to administer the Program by, among other things—
   - **(1)** overseeing administration of the Program;
   - **(2)** serving as a resource to volunteers and outside stakeholders;

@@ -3,9 +3,9 @@ title: "Section 2891 - Requirements relating to contracts for provision of housi
 usc_title: 10
 usc_section: "2891"
 chapter: 169
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2891"
-generated_at: "2026-03-29T21:57:04.903Z"
+generated_at: "2026-03-29T22:03:29.581Z"
 ---
 
 # § 2891. Requirements relating to contracts for provision of housing units
@@ -30,4 +30,5 @@ generated_at: "2026-03-29T21:57:04.903Z"
   - **(1)** by providing a reliable mechanism through which a tenant may submit work order requests through an Internet portal and mobile application, which shall incorporate the ability to upload photos, communicate with maintenance personnel, and rate individual service calls;
   - **(2)** by allowing real-time access to such system by officials of the Department at the installation, major subordinate command, and service-wide levels; and
   - **(3)** by allowing the work order or maintenance ticket to be closed only once the tenant and the head of the housing management office of the installation sign off.
-- **(g)** The Secretary concerned shall create such legal documents as may be necessary to carry out this section.
+- **(g)** For purposes of this subchapter and subchapter IV of this chapter, housing units shall be considered as military family housing for purposes of application of Department of Defense policy implementing section 804 of the Fair Housing Act ( 42 U.S.C. 3604 ) and title III of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12181 et seq.).
+- **(h)** The Secretary concerned shall create such legal documents as may be necessary to carry out this section.

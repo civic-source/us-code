@@ -3,9 +3,9 @@ title: "Section 195 - Defense Automated Printing Service: applicability of Feder
 usc_title: 10
 usc_section: "195"
 chapter: 8
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 195"
-generated_at: "2026-03-29T21:57:04.683Z"
+generated_at: "2026-03-29T22:03:29.353Z"
 ---
 
 # § 195. Defense Automated Printing Service: applicability of Federal printing requirements

@@ -3,9 +3,9 @@ title: "Section 2780 - Transactions with countries supporting acts of internatio
 usc_title: 22
 usc_section: "2780"
 chapter: 39
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 2780"
-generated_at: "2026-03-29T21:58:43.191Z"
+generated_at: "2026-03-29T22:04:38.455Z"
 ---
 
 # § 2780. Transactions with countries supporting acts of international terrorism

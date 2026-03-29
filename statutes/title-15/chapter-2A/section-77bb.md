@@ -3,9 +3,9 @@ title: "Section 77bb - “Corporation of Foreign Security Holders”; creation; 
 usc_title: 15
 usc_section: "77bb"
 chapter: 2
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 77bb"
-generated_at: "2026-03-29T21:57:52.693Z"
+generated_at: "2026-03-29T22:03:56.707Z"
 ---
 
 # § 77bb. “Corporation of Foreign Security Holders”; creation; principal office; branch offices

@@ -3,9 +3,9 @@ title: "Section 332 - General bonus authority for officers"
 usc_title: 37
 usc_section: "332"
 chapter: 5
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "37 U.S.C. § 332"
-generated_at: "2026-03-29T22:00:09.568Z"
+generated_at: "2026-03-29T22:05:43.771Z"
 ---
 
 # § 332. General bonus authority for officers
@@ -35,4 +35,4 @@ generated_at: "2026-03-29T22:00:09.568Z"
   - **(4)** the type or conditions of the service.
 - **(e)** The bonus paid to a person or officer under this section is in addition to any other pay and allowance to which the person or officer is entitled.
 - **(f)** A person or officer who receives a bonus under this section and who fails to complete the period of service, or meet the conditions of service, for which the bonus is paid, as specified in the written agreement under subsection (d), shall be subject to the repayment provisions of section 373 of this title .
-- **(g)** No agreement may be entered into under this section after December 31, 2021 .
+- **(g)** No agreement may be entered into under this section after December 31, 2022 .

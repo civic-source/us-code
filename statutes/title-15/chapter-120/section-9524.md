@@ -3,9 +3,9 @@ title: "Section 9524 - Grants and cooperative agreements"
 usc_title: 15
 usc_section: "9524"
 chapter: 120
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 9524"
-generated_at: "2026-03-29T21:57:53.078Z"
+generated_at: "2026-03-29T22:03:57.335Z"
 ---
 
 # § 9524. Grants and cooperative agreements
@@ -81,7 +81,7 @@ generated_at: "2026-03-29T21:57:53.078Z"
     - **(B)** other institutions or entities that use Federal resources, such as—
       - **(i)** small business development centers, as that term is defined in section 632(t) of this title ;
       - **(ii)** women’s business centers described in section 656 of this title ;
-      - **(iii)** eligible entities, as that term is defined in section 2411 of title 10 , that provide services under the program carried out under chapter 142 of that title; and
+      - **(iii)** eligible entities, as that term is defined in section 2411 2 2 See References in Text note below. of title 10, that provide services under the program carried out under chapter 142 2 of that title; and
       - **(iv)** entities participating in the Hollings Manufacturing Extension Partnership Program established under section 278k of this title ;
   - **(4)** monitoring projects carried out by each Center; and
   - **(5)** establishing and enforcing administrative and reporting requirements for each Center to carry out subsection (a).

@@ -3,9 +3,9 @@ title: "Section 2218 - National Defense Sealift Fund"
 usc_title: 10
 usc_section: "2218"
 chapter: 131
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2218"
-generated_at: "2026-03-29T21:57:04.823Z"
+generated_at: "2026-03-29T22:03:29.521Z"
 ---
 
 # § 2218. National Defense Sealift Fund
@@ -86,5 +86,5 @@ generated_at: "2026-03-29T21:57:04.823Z"
   - **(3)** The term “national defense sealift vessel” means—
     - **(A)** a Department of Defense sealift vessel; and
     - **(B)** a national defense reserve fleet vessel, including a vessel in the Ready Reserve Force maintained under section 11 of the Merchant Ship Sales Act of 1946 ( 50 U.S.C. 4405 ). 1
-  - **(4)** The term “head of an agency” has the meaning given that term in section 2302(1) of this title .
+  - **(4)** The term “head of an agency” has the meaning given that term in section 3004 of this title .
   - **(5)** The term “Maritime Security Fleet” means the fleet established under section 53102(a) of title 46 .

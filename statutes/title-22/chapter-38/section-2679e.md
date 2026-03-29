@@ -1,0 +1,16 @@
+---
+title: "Section 2679e - List of certain telecommunications providers"
+usc_title: 22
+usc_section: "2679e"
+chapter: 38
+current_through: "PL 117-81"
+classification: "22 U.S.C. § 2679e"
+generated_at: "2026-03-29T22:04:38.436Z"
+---
+
+# § 2679e. List of certain telecommunications providers
+
+- **(a)** Not later than 30 days after December 27, 2021 , the Secretary, in consultation with the Director of National Intelligence and other appropriate Federal agencies as determined jointly by the Secretary and the Director of National Intelligence, shall develop or maintain, as the case may be, and update as frequently as the Secretary determines appropriate, a list of covered contractors with respect to which the Department should seek to avoid entering into contracts. Not later than 30 days after the initial development of the list under this subsection, any update thereto, and annually thereafter for 5 years after such initial 30 day period, the Secretary shall submit to the appropriate congressional committees a copy of such list.
+- **(b)** In this section, the term “covered contractor” means a provider of telecommunications, telecommunications equipment, or information technology equipment, including hardware, software, or services, that has knowingly assisted or facilitated a cyber attack or conducted surveillance, including passive or active monitoring, carried out against—
+  - **(1)** the United States by, or on behalf of, any government, or persons associated with such government, listed as a cyber threat actor in the intelligence community’s 2017 assessment of worldwide threats to United States national security or any subsequent worldwide threat assessment of the intelligence community; or
+  - **(2)** individuals, including activists, journalists, opposition politicians, or other individuals for the purposes of suppressing dissent or intimidating critics, on behalf of a country included in the annual country reports on human rights practices of the Department for systematic acts of political repression, including arbitrary arrest or detention, torture, extrajudicial or politically motivated killing, or other gross violations of human rights.

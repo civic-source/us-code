@@ -3,9 +3,9 @@ title: "Section 5722 - Policy"
 usc_title: 38
 usc_section: "5722"
 chapter: 57
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 5722"
-generated_at: "2026-03-29T22:00:30.949Z"
+generated_at: "2026-03-29T22:05:48.149Z"
 ---
 
 # § 5722. Policy

@@ -3,9 +3,9 @@ title: "Section 153 - Chairman: functions"
 usc_title: 10
 usc_section: "153"
 chapter: 5
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 153"
-generated_at: "2026-03-29T21:57:04.677Z"
+generated_at: "2026-03-29T22:03:29.343Z"
 ---
 
 # § 153. Chairman: functions
@@ -74,6 +74,7 @@ generated_at: "2026-03-29T21:57:04.677Z"
         - **(II)** for each category of risk, assess the extent to which current or future risk increases, decreases, or is stable as a result of budgetary priorities, tradeoffs, or fiscal constraints or limitations as currently estimated and applied in the current future-years defense program under section 221 of this title .
       - **(v)** Identify and assess risk associated with the assumptions or plans of the National Military Strategy (or update) about the contributions of external support, as appropriate.
       - **(vi)** Identify and assess the critical deficiencies and strengths in force capabilities (including manpower, logistics, intelligence, and mobility support) identified during the preparation and review of the contingency plans of each unified combatant command, and identify and assess the effect of such deficiencies and strengths for the National Military Strategy (or update).
+      - **(vii)** Identify and assess risk resulting from, or likely to result from, current or projected effects on military installation resilience.
   - **(3)**
     - **(A)** Not later than February 15 of each even-numbered year, the Chairman shall, through the Secretary of Defense, submit to the Committees on Armed Services of the Senate and the House of Representatives the National Military Strategy or update, if any, prepared under paragraph (1) in such year.
     - **(B)** Not later than February 15 each year, the Chairman shall, through the Secretary of Defense, submit to the Committees on Armed Services of the Senate and the House of Representatives the Risk Assessment prepared under paragraph (2) in such year.

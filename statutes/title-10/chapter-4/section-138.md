@@ -3,9 +3,9 @@ title: "Section 138 - Assistant Secretaries of Defense"
 usc_title: 10
 usc_section: "138"
 chapter: 4
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 138"
-generated_at: "2026-03-29T21:57:04.676Z"
+generated_at: "2026-03-29T22:03:29.341Z"
 ---
 
 # § 138. Assistant Secretaries of Defense
@@ -16,8 +16,8 @@ generated_at: "2026-03-29T21:57:04.676Z"
 - **(b)**
   - **(1)** The Assistant Secretaries shall perform such duties and exercise such powers as the Secretary of Defense may prescribe.
   - **(2)**
-    - **(A)** One of the Assistant Secretaries is the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict. He shall have as his principal duty the overall supervision (including oversight of policy and resources) of special operations activities (as defined in section 167(k) of this title ) and low intensity conflict activities of the Department of Defense. The Assistant Secretary is the principal civilian adviser to the Secretary of Defense on special operations and low intensity conflict matters and (after the Secretary and Deputy Secretary) is the principal special operations and low intensity conflict official within the senior management of the Department of Defense. Subject to the authority, direction, and control of the Secretary of Defense, the Assistant Secretary shall do the following:
-      - **(i)** Exercise authority, direction, and control of all special-operations peculiar administrative matters relating to the organization, training, and equipping of special operations forces through the administrative chain of command specified in section 167(f) of this title ;. 1 1 So in original.
+    - **(A)** One of the Assistant Secretaries is the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict. He shall have as his principal duty the overall supervision (including oversight of policy and resources) of special operations activities (as defined in section 167(k) of this title ) and low intensity conflict activities of the Department of Defense. The Assistant Secretary is the principal civilian adviser to the Secretary of Defense on special operations and low intensity conflict matters and (after the Secretary and Deputy Secretary) is the principal special operations and low intensity conflict official within the senior management of the Department of Defense. A person may not be appointed as Assistant Secretary within seven years after relief from active duty as a commissioned officer of a regular component of an armed force. Subject to the authority, direction, and control of the Secretary of Defense, the Assistant Secretary shall do the following:
+      - **(i)** Exercise authority, direction, and control of all special-operations peculiar administrative matters relating to the organization, training, and equipping of special operations forces through the administrative chain of command specified in section 167(f) of this title .
       - **(ii)** Assist the Secretary and the Under Secretary of Defense for Policy in the development and supervision of policy, program planning and execution, and allocation and use of resources for the activities of the Department of Defense for the following:
         - **(I)** Irregular warfare, combating terrorism, and the special operations activities specified by section 167(k) of this title .
         - **(II)** Integrating the functional activities of the headquarters of the Department to most efficiently and effectively provide for required special operations forces and capabilities.

@@ -3,9 +3,9 @@ title: "Section 244 - Principal offices of Board; chairman of Board; obligations
 usc_title: 12
 usc_section: "244"
 chapter: 3
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 244"
-generated_at: "2026-03-29T21:57:19.311Z"
+generated_at: "2026-03-29T22:03:46.781Z"
 ---
 
 # § 244. Principal offices of Board; chairman of Board; obligations and expenses; qualifications of members; vacancies

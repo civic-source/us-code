@@ -3,9 +3,9 @@ title: "Section 1323a - Omitted"
 usc_title: 48
 usc_section: "1323a"
 chapter: 6
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "48 U.S.C. § 1323a"
-generated_at: "2026-03-29T22:01:19.319Z"
+generated_at: "2026-03-29T22:06:38.202Z"
 ---
 
 # § 1323a. Omitted

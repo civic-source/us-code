@@ -3,9 +3,9 @@ title: "Section 734 - Stationery and blank books for Congress"
 usc_title: 44
 usc_section: "734"
 chapter: 7
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "44 U.S.C. § 734"
-generated_at: "2026-03-29T22:00:34.245Z"
+generated_at: "2026-03-29T22:05:50.831Z"
 ---
 
 # § 734. Stationery and blank books for Congress

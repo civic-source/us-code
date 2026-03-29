@@ -3,14 +3,14 @@ title: "Section 1466 - Payments into the Fund"
 usc_title: 10
 usc_section: "1466"
 chapter: 74
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1466"
-generated_at: "2026-03-29T21:57:04.782Z"
+generated_at: "2026-03-29T22:03:29.476Z"
 ---
 
 # § 1466. Payments into the Fund
 
-- **(a)** The Secretary of Defense and the Secretary of the department in which the Coast Guard is operating, with respect to the Coast guard, 1 1 So in original. Probably should be capitalized. shall pay into the Fund at the end of each month the respective pro rata share contribution of the Secretary of Defense and the Secretary of the department in which the Coast Guard is operating to the Fund for that month the amount that is the sum of the following:
+- **(a)** The Secretary of Defense and the Secretary of the department in which the Coast Guard is operating, with respect to the Coast Guard, shall pay into the Fund at the end of each month the respective pro rata share contribution of the Secretary of Defense and the Secretary of the department in which the Coast Guard is operating to the Fund for that month the amount that is the sum of the following:
   - **(1)** The product of—
     - **(A)** the level percentage of basic pay determined using all the methods and assumptions approved for the most recent (as of the first day of the current fiscal year) actuarial valuation under section 1465(c)(1)(A) of this title (except that any statutory change in the military retirement and survivor benefit systems that is effective after the date of that valuation and on or before the first day of the current fiscal year shall be used in such determination); and
     - **(B)** the total amount of basic pay accrued for that month for active duty (other than the Coast Guard) and for full-time National Guard duty (other than full-time National Guard duty for training only), but excluding the amount expected to be paid for any duty that would be excluded for active-duty end strength purposes by section 115(i) of this title .

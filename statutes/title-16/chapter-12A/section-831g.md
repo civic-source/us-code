@@ -3,9 +3,9 @@ title: "Section 831g - Principal office of Corporation; books; directors’ oath
 usc_title: 16
 usc_section: "831g"
 chapter: 12
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 831g"
-generated_at: "2026-03-29T21:58:32.804Z"
+generated_at: "2026-03-29T22:04:21.584Z"
 ---
 
 # § 831g. Principal office of Corporation; books; directors’ oath

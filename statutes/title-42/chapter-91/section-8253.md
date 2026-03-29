@@ -3,9 +3,9 @@ title: "Section 8253 - Energy and water management requirements"
 usc_title: 42
 usc_section: "8253"
 chapter: 91
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 8253"
-generated_at: "2026-03-29T22:01:08.198Z"
+generated_at: "2026-03-29T22:06:33.016Z"
 ---
 
 # § 8253. Energy and water management requirements
@@ -121,9 +121,7 @@ generated_at: "2026-03-29T22:01:08.198Z"
       - **(iv)** has been benchmarked with public disclosure under paragraph (8) during the preceding calendar year; and
       - **(v)**
         - **(I)** based on the benchmarking described in clause (iv), has achieved at a facility level the most recent cumulative energy savings target under subsection (a) compared to the earlier of—
-    - **(AA)** of the most recent commissioning, recommissioning, or retrocommissioning; or
-    - **(BB)** on which ongoing commissioning began; or
-    - **(II)** has a long-term contract in place guaranteeing energy savings at least as great as the energy savings target under subclause (I).
+        - **(II)** has a long-term contract in place guaranteeing energy savings at least as great as the energy savings target under subclause (I).
   - **(4)**
     - **(A)** Not later than 2 years after the date of completion of each evaluation under paragraph (3), each energy manager shall implement any energy- or water-saving measure that—
       - **(i)** the Federal agency identified in the evaluation; and

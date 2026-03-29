@@ -3,9 +3,9 @@ title: "Section 472 - Laws affecting national forest lands"
 usc_title: 16
 usc_section: "472"
 chapter: 2
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 472"
-generated_at: "2026-03-29T21:58:32.720Z"
+generated_at: "2026-03-29T22:04:21.462Z"
 ---
 
 # § 472. Laws affecting national forest lands

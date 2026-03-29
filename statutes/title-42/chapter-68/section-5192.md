@@ -3,9 +3,9 @@ title: "Section 5192 - Federal emergency assistance"
 usc_title: 42
 usc_section: "5192"
 chapter: 68
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 5192"
-generated_at: "2026-03-29T22:01:07.952Z"
+generated_at: "2026-03-29T22:06:32.786Z"
 ---
 
 # § 5192. Federal emergency assistance

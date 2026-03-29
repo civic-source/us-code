@@ -3,9 +3,9 @@ title: "Section 948 - Laws inapplicable"
 usc_title: 33
 usc_section: "948"
 chapter: 18
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 948"
-generated_at: "2026-03-29T21:59:51.406Z"
+generated_at: "2026-03-29T22:05:24.968Z"
 ---
 
 # § 948. Laws inapplicable

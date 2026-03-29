@@ -3,9 +3,9 @@ title: "Section 238 - Office for Domestic Preparedness"
 usc_title: 6
 usc_section: "238"
 chapter: 1
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "6 U.S.C. § 238"
-generated_at: "2026-03-29T21:56:51.752Z"
+generated_at: "2026-03-29T22:03:07.643Z"
 ---
 
 # § 238. Office for Domestic Preparedness

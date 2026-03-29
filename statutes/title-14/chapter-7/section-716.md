@@ -3,9 +3,9 @@ title: "Section 716 - Arctic maritime transportation"
 usc_title: 14
 usc_section: "716"
 chapter: 7
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "14 U.S.C. § 716"
-generated_at: "2026-03-29T21:57:13.759Z"
+generated_at: "2026-03-29T22:03:34.054Z"
 ---
 
 # § 716. Arctic maritime transportation
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T21:57:13.759Z"
   - **(3)** oil spill prevention and response capability;
   - **(4)** maritime domain awareness, including long-range vessel tracking; and
   - **(5)** search and rescue.
-- **(c)** The Committee on the Maritime Transportation System established under section 55501 of title 46 , United States Code, shall coordinate the establishment of domestic transportation policies in the Arctic necessary to carry out the purpose of this section.
+- **(c)** The Committee on the Maritime Transportation System established under section 55501 1 1 See References in Text note below. of title 46, United States Code, shall coordinate the establishment of domestic transportation policies in the Arctic necessary to carry out the purpose of this section.
 - **(d)** The Secretary may, subject to the availability of appropriations, enter into cooperative agreements, contracts, or other agreements with, or make grants to, individuals and governments to carry out the purpose of this section or any agreements established under subsection (b).
 - **(e)** The Secretary shall promote safe maritime navigation by means of icebreaking where necessary, feasible, and effective to carry out the purposes of this section.
 - **(f)** In this section, the term “Arctic” has the meaning given such term in section 112 of the Arctic Research and Policy Act of 1984 ( 15 U.S.C. 4111 ).

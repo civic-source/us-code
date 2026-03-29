@@ -3,9 +3,9 @@ title: "Section 1178 - System and procedures for tracking separations resulting 
 usc_title: 10
 usc_section: "1178"
 chapter: 59
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1178"
-generated_at: "2026-03-29T21:57:04.765Z"
+generated_at: "2026-03-29T22:03:29.456Z"
 ---
 
 # § 1178. System and procedures for tracking separations resulting from refusal to participate in anthrax vaccine immunization program

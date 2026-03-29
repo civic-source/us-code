@@ -3,9 +3,9 @@ title: "Section 9763 - Termination"
 usc_title: 22
 usc_section: "9763"
 chapter: 104
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 9763"
-generated_at: "2026-03-29T21:58:43.345Z"
+generated_at: "2026-03-29T22:04:38.654Z"
 ---
 
 # § 9763. Termination

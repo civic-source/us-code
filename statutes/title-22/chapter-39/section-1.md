@@ -3,9 +3,9 @@ title: "Section 1 - Nuclear reprocessing transfers, illegal exports for nuclear 
 usc_title: 22
 usc_section: "1"
 chapter: 39
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-03-29T21:58:43.195Z"
+generated_at: "2026-03-29T22:04:38.460Z"
 ---
 
 # § 2799aa–1. Nuclear reprocessing transfers, illegal exports for nuclear explosive devices, transfers of nuclear explosive devices, and nuclear detonations

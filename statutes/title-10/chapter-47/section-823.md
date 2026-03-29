@@ -3,16 +3,16 @@ title: "Section 823 - Art. 23. Who may convene special courts-martial"
 usc_title: 10
 usc_section: "823"
 chapter: 47
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 823"
-generated_at: "2026-03-29T21:57:04.721Z"
+generated_at: "2026-03-29T22:03:29.397Z"
 ---
 
 # § 823. Art. 23. Who may convene special courts-martial
 
 - **(a)** Special courts-martial may be convened by—
   - **(1)** any person who may convene a general court-martial;
-  - **(2)** the commanding officer of a district, garrison, fort, camp, station, Air Force or Space Force military installation, auxiliary air field, or other place where members of the Army 1 1 So in original. A comma probably should appear. the Air Force, or the Space Force are on duty;
+  - **(2)** the commanding officer of a district, garrison, fort, camp, station, Air Force or Space Force military installation, auxiliary air field, or other place where members of the Army, the Air Force, or the Space Force are on duty;
   - **(3)** the commanding officer of a brigade, regiment, detached battalion, or corresponding unit of the Army;
   - **(4)** the commanding officer of a wing, group, or separate squadron of the Air Force or a corresponding unit of the Space Force;
   - **(5)** the commanding officer of any naval or Coast Guard vessel, shipyard, base, or station; the commanding officer of any Marine brigade, regiment, detached battalion, or corresponding unit; the commanding officer of any Marine barracks, wing, group, separate squadron, station, base, auxiliary air field, or other place where members of the Marine Corps are on duty;

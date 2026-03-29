@@ -3,9 +3,9 @@ title: "Section 18743 - Critical minerals mining and recycling research"
 usc_title: 42
 usc_section: "18743"
 chapter: 162
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 18743"
-generated_at: "2026-03-29T22:01:08.658Z"
+generated_at: "2026-03-29T22:06:33.429Z"
 ---
 
 # § 18743. Critical minerals mining and recycling research
@@ -18,13 +18,13 @@ generated_at: "2026-03-29T22:01:08.658Z"
   - **(5)** The term “foreign entity of concern” means a foreign entity that is—
     - **(A)** designated as a foreign terrorist organization by the Secretary of State under section 1189(a) of title 8 ;
     - **(B)** included on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury (commonly known as the SDN list);
-    - **(C)** owned by, controlled by, or subject to the jurisdiction or direction of a government of a foreign country that is a covered nation (as defined in section 2533c(d) of title 10 );
+    - **(C)** owned by, controlled by, or subject to the jurisdiction or direction of a government of a foreign country that is a covered nation (as defined in section 2533c(d 1 1 See References in Text note below. ) of title 10);
     - **(D)** alleged by the Attorney General to have been involved in activities for which a conviction was obtained under—
       - **(i)** chapter 37 of title 18 (commonly known as the “Espionage Act”);
       - **(ii)** section 951 or 1030 of title 18;
       - **(iii)** chapter 90 of title 18 (commonly known as the “Economic Espionage Act of 1996)”;
       - **(iv)** the Arms Export Control Act ( 22 U.S.C. 2751 et seq.);
-      - **(v)** section 224, 225, 226, 227, or 236 of the Atomic Energy Act of 1954 ( 42 U.S.C. 2274 , 2275, 2276, 2277, and 1 1 So in original. Probably should be “or”. 2284);
+      - **(v)** section 224, 225, 226, 227, or 236 of the Atomic Energy Act of 1954 ( 42 U.S.C. 2274 , 2275, 2276, 2277, and 2 2 So in original. Probably should be “or”. 2284);
       - **(vi)** the Export Control Reform Act of 2018 ( 50 U.S.C. 4801 et seq.); or
       - **(vii)** the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.); or
     - **(E)** determined by the Secretary of Commerce, in consultation with the Secretary of Defense and the Director of National Intelligence, to be engaged in unauthorized conduct that is detrimental to the national security or foreign policy of the United States.

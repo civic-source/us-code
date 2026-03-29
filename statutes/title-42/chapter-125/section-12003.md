@@ -3,9 +3,9 @@ title: "Section 12003 - National goals and multi-year funding for Federal alcoho
 usc_title: 42
 usc_section: "12003"
 chapter: 125
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 12003"
-generated_at: "2026-03-29T22:01:08.377Z"
+generated_at: "2026-03-29T22:06:33.176Z"
 ---
 
 # § 12003. National goals and multi-year funding for Federal alcohol from biomass and other technology programs

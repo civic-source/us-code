@@ -3,9 +3,9 @@ title: "Section 4305 - Distribution of schedules"
 usc_title: 12
 usc_section: "4305"
 chapter: 44
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 4305"
-generated_at: "2026-03-29T21:57:19.562Z"
+generated_at: "2026-03-29T22:03:47.090Z"
 ---
 
 # § 4305. Distribution of schedules

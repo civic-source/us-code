@@ -3,9 +3,9 @@ title: "Section 10533 - Definitions"
 usc_title: 34
 usc_section: "10533"
 chapter: 101
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "34 U.S.C. § 10533"
-generated_at: "2026-03-29T21:59:56.038Z"
+generated_at: "2026-03-29T22:05:16.107Z"
 ---
 
 # § 10533. Definitions

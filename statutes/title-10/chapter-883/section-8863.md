@@ -3,9 +3,9 @@ title: "Section 8863 - Prize property appropriated for the use of the United Sta
 usc_title: 10
 usc_section: "8863"
 chapter: 883
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 8863"
-generated_at: "2026-03-29T21:57:04.982Z"
+generated_at: "2026-03-29T22:03:29.678Z"
 ---
 
 # § 8863. Prize property appropriated for the use of the United States

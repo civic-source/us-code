@@ -3,9 +3,9 @@ title: "Section 1k - Capital stock increase"
 usc_title: 22
 usc_section: "1k"
 chapter: 7
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 1k"
-generated_at: "2026-03-29T21:58:43.067Z"
+generated_at: "2026-03-29T22:04:38.323Z"
 ---
 
 # § 286e–1k. Capital stock increase

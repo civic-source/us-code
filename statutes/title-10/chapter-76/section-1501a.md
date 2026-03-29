@@ -3,9 +3,9 @@ title: "Section 1501a - Public-private partnerships; other forms of support"
 usc_title: 10
 usc_section: "1501a"
 chapter: 76
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1501a"
-generated_at: "2026-03-29T21:57:04.785Z"
+generated_at: "2026-03-29T22:03:29.481Z"
 ---
 
 # § 1501a. Public-private partnerships; other forms of support
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T21:57:04.785Z"
 - **(b)** The Secretary of Defense may accept voluntary services to facilitate accounting for missing persons in the same manner as the Secretary of a military department may accept such services under section 1588(a)(9) of this title .
 - **(c)**
   - **(1)** The Secretary of Defense may enter into a cooperative agreement with, or make a grant to, a private entity for purposes related to support of the activities of the designated Defense Agency.
-  - **(2)** Notwithstanding section 2304(k) of this title , the Secretary may enter such cooperative agreements or grants on a sole-source basis pursuant to section 2304(c)(5) of this title .
+  - **(2)** Notwithstanding section 3201(e) of this title , the Secretary may enter such cooperative agreements or grants on a sole-source basis pursuant to section 3204(a)(5) of this title .
 - **(d)** The Secretary may allow a private entity to use, at no cost, personal property of the Department of Defense to assist the entity in supporting the activities of the designated Defense Agency.
 - **(e)**
   - **(1)** Subject to subsection (f)(2), the Secretary may accept, hold, administer, spend, and use any gift of personal property, money, or services made on the condition that the gift be used for the purpose of facilitating accounting for missing persons pursuant to section 1501(a)(2)(C) of this title .

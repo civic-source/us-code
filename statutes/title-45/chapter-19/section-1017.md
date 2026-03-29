@@ -3,9 +3,9 @@ title: "Section 1017 - Temporary operating approval"
 usc_title: 45
 usc_section: "1017"
 chapter: 19
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "45 U.S.C. § 1017"
-generated_at: "2026-03-29T22:00:35.806Z"
+generated_at: "2026-03-29T22:05:52.228Z"
 ---
 
 # § 1017. Temporary operating approval

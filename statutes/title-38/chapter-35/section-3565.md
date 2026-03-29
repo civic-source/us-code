@@ -3,9 +3,9 @@ title: "Section 3565 - Children of certain Philippine veterans"
 usc_title: 38
 usc_section: "3565"
 chapter: 35
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 3565"
-generated_at: "2026-03-29T22:00:30.918Z"
+generated_at: "2026-03-29T22:05:48.103Z"
 ---
 
 # § 3565. Children of certain Philippine veterans

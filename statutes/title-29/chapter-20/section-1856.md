@@ -3,9 +3,9 @@ title: "Section 1856 - Waiver of rights"
 usc_title: 29
 usc_section: "1856"
 chapter: 20
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "29 U.S.C. § 1856"
-generated_at: "2026-03-29T21:59:20.256Z"
+generated_at: "2026-03-29T22:04:49.073Z"
 ---
 
 # § 1856. Waiver of rights

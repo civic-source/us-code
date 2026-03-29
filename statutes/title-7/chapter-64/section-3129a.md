@@ -3,9 +3,9 @@ title: "Section 3129a - Federal Advisory Committee Act exemption for competitive
 usc_title: 7
 usc_section: "3129a"
 chapter: 64
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 3129a"
-generated_at: "2026-03-29T21:57:09.287Z"
+generated_at: "2026-03-29T22:03:15.542Z"
 ---
 
 # § 3129a. Federal Advisory Committee Act exemption for competitive research, extension, and education programs

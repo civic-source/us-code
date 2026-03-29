@@ -3,9 +3,9 @@ title: "Section 1512 - Authorization of appropriations for interest payments"
 usc_title: 25
 usc_section: "1512"
 chapter: 17
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "25 U.S.C. § 1512"
-generated_at: "2026-03-29T21:58:48.143Z"
+generated_at: "2026-03-29T22:04:31.509Z"
 ---
 
 # § 1512. Authorization of appropriations for interest payments

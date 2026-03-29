@@ -1,14 +1,12 @@
 ---
-title: "Section 2226 - Contracted property and services: prompt payment of vouchers"
+title: "Section 2226 - Renumbered § 4602]"
 usc_title: 10
 usc_section: "2226"
 chapter: 131
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2226"
-generated_at: "2026-03-29T21:57:04.825Z"
+generated_at: "2026-03-29T22:03:29.523Z"
 ---
 
-# § 2226. Contracted property and services: prompt payment of vouchers
+# [§ 2226. Renumbered § 4602]
 
-- **(a)** Of the contract vouchers that are received by the Defense Finance and Accounting Service by means of the mechanization of contract administration services system, the number of such vouchers that remain unpaid for more than 30 days as of the last day of each month may not exceed 5 percent of the total number of the contract vouchers so received that remain unpaid on that day.
-- **(b)** In this section, the term “contract voucher” means a voucher or invoice for the payment to a contractor for services or deliverable items provided by the contractor under a contract funded by the Department of Defense.

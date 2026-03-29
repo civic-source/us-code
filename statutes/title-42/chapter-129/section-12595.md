@@ -3,9 +3,9 @@ title: "Section 12595 - National service educational awards"
 usc_title: 42
 usc_section: "12595"
 chapter: 129
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 12595"
-generated_at: "2026-03-29T22:01:08.408Z"
+generated_at: "2026-03-29T22:06:33.203Z"
 ---
 
 # § 12595. National service educational awards

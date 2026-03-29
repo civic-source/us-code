@@ -3,9 +3,9 @@ title: "Section 6455 - Program requirements for correctional facilities receivin
 usc_title: 20
 usc_section: "6455"
 chapter: 70
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 6455"
-generated_at: "2026-03-29T21:58:01.347Z"
+generated_at: "2026-03-29T22:04:14.361Z"
 ---
 
 # § 6455. Program requirements for correctional facilities receiving funds under this section

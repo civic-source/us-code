@@ -3,9 +3,9 @@ title: "Section 831d - Directors; maintenance and operation of plant for product
 usc_title: 16
 usc_section: "831d"
 chapter: 12
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 831d"
-generated_at: "2026-03-29T21:58:32.804Z"
+generated_at: "2026-03-29T22:04:21.584Z"
 ---
 
 # § 831d. Directors; maintenance and operation of plant for production, sale, and distribution of fertilizer and power

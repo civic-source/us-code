@@ -3,9 +3,9 @@ title: "Section 3371d - Designation of counterintelligence officer to lead elect
 usc_title: 50
 usc_section: "3371d"
 chapter: 45
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 3371d"
-generated_at: "2026-03-29T22:01:35.076Z"
+generated_at: "2026-03-29T22:06:44.480Z"
 ---
 
 # § 3371d. Designation of counterintelligence officer to lead election security matters

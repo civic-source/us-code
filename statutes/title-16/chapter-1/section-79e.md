@@ -3,9 +3,9 @@ title: "Section 79e - Exchange of property; cash equalization payments; commerci
 usc_title: 16
 usc_section: "79e"
 chapter: 1
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 79e"
-generated_at: "2026-03-29T21:58:32.551Z"
+generated_at: "2026-03-29T22:04:21.238Z"
 ---
 
 # § 79e. Exchange of property; cash equalization payments; commercial operations, minimum economic dislocation and disruption

@@ -3,9 +3,9 @@ title: "Section 1154 - Assistance to eligible members and former members to obta
 usc_title: 10
 usc_section: "1154"
 chapter: 58
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1154"
-generated_at: "2026-03-29T21:57:04.763Z"
+generated_at: "2026-03-29T22:03:29.453Z"
 ---
 
 # § 1154. Assistance to eligible members and former members to obtain employment as teachers: Troops-to-Teachers Program
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T21:57:04.763Z"
   - **(6)** The term “Program” means the Troops-to-Teachers Program authorized by this section.
   - **(7)** The term “Secretary” means the Secretary of Defense.
   - **(8)** The terms “elementary school”, “local educational agency”, “secondary school”, and “State” have the meanings given those terms in section 8101 of the Elementary and Secondary Education Act of 1965.
-- **(b)** The Secretary of Defense may carry out a Troops-to-Teachers Program—
+- **(b)** The Secretary of Defense shall carry out a Troops-to-Teachers Program—
   - **(1)** to assist eligible members of the armed forces described in subsection (d) to meet the requirements necessary to become a teacher in a school described in paragraph (2); and
   - **(2)** to facilitate the employment of such members—
     - **(A)** by local educational agencies or charter schools that the Secretary of Education identifies as—
@@ -102,4 +102,14 @@ generated_at: "2026-03-29T21:57:04.763Z"
   - **(2)**
     - **(A)** Subject to subparagraph (B), the Secretary may make grants to States participating in the Program, or to consortia of such States, in order to permit such States or consortia of States to operate offices for purposes of recruiting eligible members of the armed forces for participation in the Program and facilitating the employment of participants as elementary school teachers, secondary school teachers, and career or technical teachers.
     - **(B)** The total amount of grants made under subparagraph (A) in any fiscal year may not exceed $5,000,000.
-- **(i)** The total amount obligated by the Secretary under the Program for any fiscal year may not exceed $15,000,000.
+- **(i)**
+  - **(1)** Not later than December 1, 2022 , and annually thereafter, the Secretary of Defense shall submit to the appropriate congressional committees a report on the Program.
+  - **(2)** The report required under paragraph (1) shall include the following elements:
+    - **(A)** The total cost of the Program for the most recent fiscal year.
+    - **(B)** The total number of teachers placed during such fiscal year and the locations of such placements.
+    - **(C)** An assessment of the STEM backgrounds of the teachers placed, the number of placements in high-need schools, and any other metric or information the Secretary considers appropriate to illustrate the cost and benefits of the program to members of the armed forces, veterans, and local educational agencies.
+  - **(3)** In this subsection, the term “appropriate congressional committees” means—
+    - **(A)** the Committee on Armed Services and the Committee on Help, Education, Labor, and Pensions of the Senate; and
+    - **(B)** the Committee on Armed Services and the Committee on Education and Labor of the House of Representatives.
+- **(j)** The total amount obligated by the Secretary under the Program for any fiscal year may not exceed $15,000,000.
+- **(k)** The Program shall terminate on July 1, 2025 , with respect to the selection of new participants for the program. Participants in the Program as of that date may complete their program, and remain eligible for benefits under this section.

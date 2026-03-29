@@ -3,9 +3,9 @@ title: "Section 8152 - Application of national security exclusion to wide-area e
 usc_title: 22
 usc_section: "8152"
 chapter: 88
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 8152"
-generated_at: "2026-03-29T21:58:43.308Z"
+generated_at: "2026-03-29T22:04:38.601Z"
 ---
 
 # § 8152. Application of national security exclusion to wide-area environmental sampling

@@ -3,9 +3,9 @@ title: "Section 7176 - Retention on active duty"
 usc_title: 10
 usc_section: "7176"
 chapter: 719
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 7176"
-generated_at: "2026-03-29T21:57:04.948Z"
+generated_at: "2026-03-29T22:03:29.640Z"
 ---
 
 # § 7176. Retention on active duty

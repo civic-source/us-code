@@ -3,9 +3,9 @@ title: "Section 2243 - Sexual abuse of a minor or ward"
 usc_title: 18
 usc_section: "2243"
 chapter: 109
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 2243"
-generated_at: "2026-03-29T21:58:06.956Z"
+generated_at: "2026-03-29T22:04:03.430Z"
 ---
 
 # § 2243. Sexual abuse of a minor or ward

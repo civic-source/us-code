@@ -3,9 +3,9 @@ title: "Section 1909 - Inspector General for the United States Capitol Police"
 usc_title: 2
 usc_section: "1909"
 chapter: 29
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 1909"
-generated_at: "2026-03-29T21:56:43.377Z"
+generated_at: "2026-03-29T22:03:02.456Z"
 ---
 
 # § 1909. Inspector General for the United States Capitol Police

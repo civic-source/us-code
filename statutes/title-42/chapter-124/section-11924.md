@@ -3,9 +3,9 @@ title: "Section 11924 - Definitions"
 usc_title: 42
 usc_section: "11924"
 chapter: 124
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 11924"
-generated_at: "2026-03-29T22:01:08.377Z"
+generated_at: "2026-03-29T22:06:33.175Z"
 ---
 
 # § 11924. Definitions

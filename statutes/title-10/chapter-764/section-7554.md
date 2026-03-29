@@ -3,9 +3,9 @@ title: "Section 7554 - Property management contracts and leases"
 usc_title: 10
 usc_section: "7554"
 chapter: 764
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 7554"
-generated_at: "2026-03-29T21:57:04.955Z"
+generated_at: "2026-03-29T22:03:29.647Z"
 ---
 
 # § 7554. Property management contracts and leases
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T21:57:04.955Z"
   - **(2)** shall evaluate, on the basis of efficiency, cost, emergency mobilization requirements, and the goals and purposes of the ARMS Initiative, the procurement of services from the property manager, including maintenance, operation, modification, infrastructure, environmental restoration and remediation, and disposal of ammunition manufacturing assets, and other services; and
   - **(3)** may, in carrying out paragraphs (1) and (2)—
     - **(A)** enter into contracts, and provide for subcontracts, for terms up to 25 years, as the Secretary considers appropriate and consistent with the needs of the Department of the Army and the goals and purposes of the ARMS Initiative; and
-    - **(B)** use procedures that are authorized to be used under section 2304(c)(5) of this title when the contractor or subcontractor is a source specified in law.
+    - **(B)** use procedures that are authorized to be used under section 3204(a)(5) of this title when the contractor or subcontractor is a source specified in law.
 - **(b)**
   - **(1)** To the extent provided in a contract entered into under this section for the use of property at an eligible facility that is accountable under the contract, the Secretary may accept consideration for such use that is, in whole or in part, in a form other than—
     - **(A)** rental payments; or

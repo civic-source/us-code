@@ -3,9 +3,9 @@ title: "Section 318 - Transmitting apparatus; operator’s license"
 usc_title: 47
 usc_section: "318"
 chapter: 5
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "47 U.S.C. § 318"
-generated_at: "2026-03-29T22:01:22.943Z"
+generated_at: "2026-03-29T22:06:39.457Z"
 ---
 
 # § 318. Transmitting apparatus; operator’s license

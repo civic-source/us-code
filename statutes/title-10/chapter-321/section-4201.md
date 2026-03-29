@@ -3,9 +3,9 @@ title: "Section 4201 - Major defense acquisition programs: definition; exception
 usc_title: 10
 usc_section: "4201"
 chapter: 321
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 4201"
-generated_at: "2026-03-29T21:57:04.929Z"
+generated_at: "2026-03-29T22:03:29.613Z"
 ---
 
 # § 4201. Major defense acquisition programs: definition; exceptions
@@ -17,4 +17,4 @@ generated_at: "2026-03-29T21:57:04.929Z"
     - **(B)** an eventual total expenditure for procurement, including all planned increments or spirals, of more than $1,800,000,000 (based on fiscal year 1990 constant dollars).
 - **(b)** In this part, the term “major defense acquisition program” does not include the following:
   - **(1)** An acquisition program or project that is carried out using the rapid fielding or rapid prototyping acquisition pathway under section 804 of the National Defense Authorization Act for Fiscal Year 2016 ( Public Law 114–92 ; 10 U.S.C. 2302 note).
-  - **(2)** An acquisition program for a defense business system (as defined in section 2222(i)(1) of this title ) carried out using the acquisition guidance issued pursuant to section 883(e) of the National Defense Authorization Act for Fiscal Year 2016 ( Public Law 114–92 ; 10 U.S.C. 2223a note).
+  - **(2)** An acquisition program for a defense business system (as defined in section 2222(i)(1) of this title ) carried out using the acquisition guidance issued pursuant to section 883(e) of the National Defense Authorization Act for Fiscal Year 2016 ( Public Law 114–92 ; 10 U.S.C. 2223a note). 1

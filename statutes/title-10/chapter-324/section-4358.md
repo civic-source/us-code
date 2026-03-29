@@ -1,22 +1,12 @@
 ---
-title: "Section 4358 - Selected acquisition reports: when total program reporting begins; limited reports before approval to proceed to system development and demonstration"
+title: "Section 4358 - Omitted]"
 usc_title: 10
 usc_section: "4358"
 chapter: 324
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 4358"
-generated_at: "2026-03-29T21:57:04.934Z"
+generated_at: "2026-03-29T22:03:29.620Z"
 ---
 
-# § 4358. Selected acquisition reports: when total program reporting begins; limited reports before approval to proceed to system development and demonstration
+# [§§ 4352 to 4358. Omitted]
 
-- **(a)**
-  - **(1)** Total program reporting under this chapter shall apply to a major defense acquisition program when funds have been appropriated for such program and the Secretary of Defense has decided to proceed to system development and demonstration of such program.
-  - **(2)** Reporting may be limited to the development program as provided in subsection (b) before a decision is made by the Secretary of Defense to proceed to system development and demonstration if the Secretary notifies the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of the intention to submit a limited report under this section not less than 15 days before a report is due under this chapter.
-- **(b)** A limited report under this section shall include the following:
-  - **(1)** The same information, in detail and summarized form, as is provided in reports submitted under subsections (b)(1) and (b)(3) of section 4205 of this title .
-  - **(2)** Reasons for any change in the development cost and schedule.
-  - **(3)** The major contracts under the development program and designated major subprograms under the program and the reasons for any cost or schedule variances under those contracts since the last Selected Acquisition Report.
-  - **(4)** Program highlights since the last Selected Acquisition Report.
-  - **(5)** Other information as the Secretary of Defense considers appropriate.
-- **(c)** The submission requirements for a limited report under this section shall be the same as for quarterly Selected Acquisition Reports for total program reporting.

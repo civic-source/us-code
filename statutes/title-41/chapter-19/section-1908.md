@@ -3,9 +3,9 @@ title: "Section 1908 - Inflation adjustment of acquisition-related dollar thresh
 usc_title: 41
 usc_section: "1908"
 chapter: 19
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "41 U.S.C. § 1908"
-generated_at: "2026-03-29T22:00:33.737Z"
+generated_at: "2026-03-29T22:05:51.571Z"
 ---
 
 # § 1908. Inflation adjustment of acquisition-related dollar thresholds
@@ -15,8 +15,9 @@ generated_at: "2026-03-29T22:00:33.737Z"
   - **(1)** Except as provided in paragraph (2), the requirement for adjustment under subsection (c) applies to a dollar threshold that is specified in law as a factor in defining the scope of the applicability of a policy, procedure, requirement, or restriction provided in that law to the procurement of property or services by an executive agency, as the Council determines.
   - **(2)** Subsection (c) does not apply to dollar thresholds—
     - **(A)** in chapters 67 and 83 of this title;
-    - **(B)** in sections 3141 to 3144, 3146, and 3147 of title 40; or
-    - **(C)** the United States Trade Representative establishes pursuant to title III of the Trade Agreements Act of 1979 ( 19 U.S.C. 2511 et seq.).
+    - **(B)** in sections 3141 to 3144, 3146, and 3147 of title 40;
+    - **(C)** the United States Trade Representative establishes pursuant to title III of the Trade Agreements Act of 1979 ( 19 U.S.C. 2511 et seq.); or
+    - **(D)** in sections 3131 through 3134 of title 40, except any modification of any such dollar threshold made by regulation in effect on the date of the enactment of this subparagraph shall remain in effect.
   - **(3)** This section supersedes the applicability of other provisions of law that provide for the adjustment of a dollar threshold that is adjustable under this section.
 - **(c)**
   - **(1)** For purposes of paragraph (2), the baseline constant dollar value for a dollar threshold—
@@ -24,7 +25,7 @@ generated_at: "2026-03-29T22:00:33.737Z"
     - **(B)** specified in a law that takes effect after October 1, 2000 , is the constant dollar value of that threshold as of the effective date of that dollar threshold pursuant to that law.
   - **(2)** On October 1 of each year evenly divisible by 5, the Council shall adjust each acquisition-related dollar threshold provided by law, as described in subsection (b)(1), to the baseline constant dollar value of that threshold.
   - **(3)** A dollar threshold adjustable under this section shall be adjusted only as provided in this section.
-- **(d)** The Council shall publish a notice of the adjusted dollar thresholds under this section in the Federal Register. The thresholds take effect on the date of publication and shall apply, in the case of the procurement of property or services by contract, to a contract, and any subcontract at any tier under the contract, in effect on that date without regard to the date of award of the contract or subcontract.. 1 1 So in original.
+- **(d)** The Council shall publish a notice of the adjusted dollar thresholds under this section in the Federal Register. The thresholds take effect on the date of publication and shall apply, in the case of the procurement of property or services by contract, to a contract, and any subcontract at any tier under the contract, in effect on that date without regard to the date of award of the contract or subcontract.
 - **(e)** An adjustment under this section shall be—
   - **(1)** calculated on the basis of changes in the Consumer Price Index for all-urban consumers published monthly by the Secretary of Labor; and
   - **(2)** rounded, in the case of a dollar threshold that as calculated under paragraph (1) is—

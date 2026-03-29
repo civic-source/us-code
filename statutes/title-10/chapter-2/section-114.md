@@ -3,9 +3,9 @@ title: "Section 114 - Annual authorization of appropriations"
 usc_title: 10
 usc_section: "114"
 chapter: 2
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 114"
-generated_at: "2026-03-29T21:57:04.668Z"
+generated_at: "2026-03-29T22:03:29.329Z"
 ---
 
 # § 114. Annual authorization of appropriations
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T21:57:04.668Z"
   - **(7)** the operation and maintenance of any armed force or of the activities and agencies of the Department of Defense (other than the military departments);
   - **(8)** procurement of ammunition; or
   - **(9)** other procurement by any armed force or by the activities and agencies of the Department of Defense (other than the military departments);
-- **(b)** In subsection (a)(6), the term “military construction” includes any construction, development, conversion, or extension of any kind which is carried out with respect to any military facility or installation (including any Government-owned or Government-leased industrial facility used for the production of defense articles and any facility to which section 2353 of this title applies), any activity to which section 2807 of this title applies, any activity to which chapter 1803 of this title applies, and advances to the Secretary of Transportation for the construction of defense access roads under section 210 of title 23 . Such term does not include any activity to which section 2821 or 2854 of this title applies.
+- **(b)** In subsection (a)(6), the term “military construction” includes any construction, development, conversion, or extension of any kind which is carried out with respect to any military facility or installation (including any Government-owned or Government-leased industrial facility used for the production of defense articles and any facility to which section 4174 of this title applies), any activity to which section 2807 of this title applies, any activity to which chapter 1803 of this title applies, and advances to the Secretary of Transportation for the construction of defense access roads under section 210 of title 23 . Such term does not include any activity to which section 2821 or 2854 of this title applies.
 - **(c)**
   - **(1)** The size of the Special Defense Acquisition Fund established pursuant to chapter 5 of the Arms Export Control Act ( 22 U.S.C. 2795 et seq.) may not exceed $2,500,000,000.
   - **(2)** Notwithstanding section 37(a) of the Arms Export Control Act ( 22 U.S.C. 2777(a) ), amounts received by the United States pursuant to subparagraph (A) of section 21(a)(1) of that Act ( 22 U.S.C. 2761(a)(1) )—

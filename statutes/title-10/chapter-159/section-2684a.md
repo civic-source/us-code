@@ -3,9 +3,9 @@ title: "Section 2684a - Agreements to limit encroachments and other constraints 
 usc_title: 10
 usc_section: "2684a"
 chapter: 159
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2684a"
-generated_at: "2026-03-29T21:57:04.887Z"
+generated_at: "2026-03-29T22:03:29.558Z"
 ---
 
 # § 2684a. Agreements to limit encroachments and other constraints on military training, testing, and operations
@@ -58,7 +58,8 @@ generated_at: "2026-03-29T21:57:04.887Z"
     - **(B)** An assessment of the effectiveness of such projects, and other actions taken pursuant to this section, as part of a long-term strategy to ensure the sustainability of military test and training ranges, military installations, and associated airspace.
     - **(C)** An evaluation of the methodology and criteria used to select, and to establish priorities, for projects undertaken under agreements under this section.
     - **(D)** A description of any sharing of costs by the United States and eligible entities under subsection (d) during the preceding year, including a description of each agreement under this section providing for the sharing of such costs and a statement of the eligible entity or entities with which the United States is sharing such costs.
-    - **(E)** Such recommendations as the Secretary of Defense considers appropriate for legislative or administrative action in order to improve the efficiency and effectiveness of actions taken pursuant to agreements under this section.
+    - **(E)** Information concerning the activities undertaken pursuant to the Sentinel Landscapes Partnership established under section 317 of the National Defense Authorization Act for Fiscal Year 2018 ( Public Law 115–91 ; 10 U.S.C. 2684a note).
+    - **(F)** Such recommendations as the Secretary of Defense considers appropriate for legislative or administrative action in order to improve the efficiency and effectiveness of actions taken pursuant to agreements under this section.
 - **(h)** In order to facilitate interagency cooperation and enhance the effectiveness of actions that will protect the environment, military installation resilience, and military readiness, the recipient of funds provided pursuant to an agreement under this section or under the Sikes Act ( 16 U.S.C. 670 et seq.) may, with regard to the lands and waters within the scope of the agreement, use such funds to satisfy any matching funds or cost-sharing requirement of any conservation or resilience program of any Federal agency notwithstanding any limitation of such program on the source of matching or cost-sharing funds.
 - **(i)**
   - **(1)** Except as provided in paragraph (2), funds authorized to be appropriated for operation and maintenance of the Army, Navy, Marine Corps, Air Force, Space Force, or Defense-wide activities may be used to enter into agreements under this section.

@@ -3,9 +3,9 @@ title: "Section 1465 - Determination of contributions to the Fund"
 usc_title: 10
 usc_section: "1465"
 chapter: 74
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1465"
-generated_at: "2026-03-29T21:57:04.782Z"
+generated_at: "2026-03-29T22:03:29.475Z"
 ---
 
 # § 1465. Determination of contributions to the Fund
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T21:57:04.782Z"
     - **(B)** The product of—
       - **(i)** the current estimate of the value of the single level percentage of basic pay and of compensation (paid pursuant to section 206 of title 37 ) to be determined under subsection (c)(1)(B) at the time of the next actuarial valuation under subsection (c); and
       - **(ii)** the total amount of basic pay and of compensation (paid pursuant to section 206 of title 37 ) expected to be paid during that fiscal year to members of the Selected Reserve of the armed forces for service not otherwise described in subparagraph (A)(ii).
-  - **(2)** The amount determined under paragraph (1) for any fiscal year is the amount needed to be appropriated to the Coast Guard Retired Pay account and the the 1 1 So in original. Department of Defense for that fiscal year for payments to be made to the Fund during that year under section 1466(a) of this title . The President shall include not less than the full amount so determined in the budget transmitted to Congress for that fiscal year under section 1105 of title 31 . The President may comment and make recommendations concerning any such amount.
+  - **(2)** The amount determined under paragraph (1) for any fiscal year is the amount needed to be appropriated to the Coast Guard Retired Pay account and the Department of Defense for that fiscal year for payments to be made to the Fund during that year under section 1466(a) of this title . The President shall include not less than the full amount so determined in the budget transmitted to Congress for that fiscal year under section 1105 of title 31 . The President may comment and make recommendations concerning any such amount.
   - **(3)** At the same time that the Secretary of Defense makes the determination required by paragraph (1) for any fiscal year, the Secretary shall determine the amount of the Treasury contribution to be made to the Fund for the next fiscal year under section 1466(b)(2)(D) of this title . That amount shall be determined in the same manner as the determination under paragraph (1) of the total amount of Department of Defense and Coast Guard contributions to be made to the Fund during that fiscal year under section 1466(a) of this title , except that for purposes of this paragraph the Secretary, in making the calculations required by subparagraphs (A) and (B) of that paragraph, shall use the single level percentages determined under subsection (c)(4), rather than those determined under subsection (c)(1).
 - **(c)**
   - **(1)** Not less often than every four years, the Secretary of Defense, in consultation with the Secretary of the department in which the Coast Guard is operating, shall carry out an actuarial valuation of Department of Defense military retirement and survivor benefit programs. Each actuarial valuation of such programs shall include—
@@ -34,4 +34,4 @@ generated_at: "2026-03-29T21:57:04.782Z"
     - **(B)** A determination of a single level percentage determined in the same manner as applies under subparagraph (B) of paragraph (1), but based only upon the provisions of sections 1413a and 1414 of this title.
   - **(5)** Contributions to the Fund in accordance with amortization schedules under paragraphs (2) and (3) shall be made as provided in section 1466(b) of this title .
 - **(d)** All determinations under this section shall be made using methods and assumptions approved by the Board of Actuaries (including assumptions of interest rates and inflation) and in accordance with generally accepted actuarial principles and practices.
-- **(e)** The Secretary of Defense and, with regard to the Coast Guard, the Secretary of the department in which the Coast Guard is operating provide 1 for the keeping of such records as are necessary for determining the actuarial status of the Fund.
+- **(e)** The Secretary of Defense and, with regard to the Coast Guard, the Secretary of the department in which the Coast Guard is operating provide 1 1 So in original. for the keeping of such records as are necessary for determining the actuarial status of the Fund.

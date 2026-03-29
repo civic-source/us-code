@@ -3,9 +3,9 @@ title: "Section 201 - Short title"
 usc_title: 29
 usc_section: "201"
 chapter: 8
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "29 U.S.C. § 201"
-generated_at: "2026-03-29T21:59:20.143Z"
+generated_at: "2026-03-29T22:04:48.937Z"
 ---
 
 # § 201. Short title

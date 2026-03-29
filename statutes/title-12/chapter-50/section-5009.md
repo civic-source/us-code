@@ -3,9 +3,9 @@ title: "Section 5009 - Measure of damages"
 usc_title: 12
 usc_section: "5009"
 chapter: 50
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 5009"
-generated_at: "2026-03-29T21:57:19.592Z"
+generated_at: "2026-03-29T22:03:47.130Z"
 ---
 
 # § 5009. Measure of damages

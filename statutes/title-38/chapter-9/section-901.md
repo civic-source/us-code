@@ -3,9 +3,9 @@ title: "Section 901 - Authority to prescribe rules for conduct and penalties for
 usc_title: 38
 usc_section: "901"
 chapter: 9
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 901"
-generated_at: "2026-03-29T22:00:30.839Z"
+generated_at: "2026-03-29T22:05:48.018Z"
 ---
 
 # § 901. Authority to prescribe rules for conduct and penalties for violations

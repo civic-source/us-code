@@ -3,9 +3,9 @@ title: "Section 2569 - Acceleration of removal or security of fissile materials,
 usc_title: 50
 usc_section: "2569"
 chapter: 42
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 2569"
-generated_at: "2026-03-29T22:01:35.005Z"
+generated_at: "2026-03-29T22:06:44.424Z"
 ---
 
 # § 2569. Acceleration of removal or security of fissile materials, radiological materials, and related equipment at vulnerable sites worldwide
@@ -50,7 +50,7 @@ generated_at: "2026-03-29T22:01:35.005Z"
     - **(A)** a statement of any amounts received under this subsection, including, for each such amount, the value of the contribution and the person who contributed it;
     - **(B)** a statement of any amounts used under this subsection, including, for each such amount, the purposes for which the amount was used; and
     - **(C)** a statement of the amounts retained but not used under this subsection, including, for each such amount, the purposes (if known) for which the Secretary intends to use the amount.
-  - **(6)** The authority to accept, retain, and use contributions under this subsection expires on December 31, 2023 .
+  - **(6)** The authority to accept, retain, and use contributions under this subsection expires on December 31, 2028 .
 - **(g)** In this section:
   - **(1)** The term “fissile materials” means plutonium, highly-enriched uranium, or other material capable of sustaining an explosive nuclear chain reaction, including irradiated items containing such materials if the radiation field from such items is not sufficient to prevent the theft or misuse of such items.
   - **(2)** The term “radiological materials” includes Americium-241, Californium-252, Cesium-137, Cobalt-60, Iridium-192, Plutonium-238, Radium-226, Strontium-90, Curium-244, and irradiated items containing such materials, or other materials designated by the Secretary of Energy for purposes of this paragraph.

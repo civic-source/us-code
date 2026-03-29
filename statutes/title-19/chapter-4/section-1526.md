@@ -3,9 +3,9 @@ title: "Section 1526 - Merchandise bearing American trade-mark"
 usc_title: 19
 usc_section: "1526"
 chapter: 4
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "19 U.S.C. § 1526"
-generated_at: "2026-03-29T21:58:04.149Z"
+generated_at: "2026-03-29T22:04:07.802Z"
 ---
 
 # § 1526. Merchandise bearing American trade-mark

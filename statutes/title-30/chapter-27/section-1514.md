@@ -3,9 +3,9 @@ title: "Section 1514 - Program termination"
 usc_title: 30
 usc_section: "1514"
 chapter: 27
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "30 U.S.C. § 1514"
-generated_at: "2026-03-29T21:59:13.813Z"
+generated_at: "2026-03-29T22:05:11.655Z"
 ---
 
 # § 1514. Program termination

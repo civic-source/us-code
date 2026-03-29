@@ -3,9 +3,9 @@ title: "Section 627 - Failure of selection for promotion"
 usc_title: 10
 usc_section: "627"
 chapter: 36
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 627"
-generated_at: "2026-03-29T21:57:04.710Z"
+generated_at: "2026-03-29T22:03:29.384Z"
 ---
 
 # § 627. Failure of selection for promotion

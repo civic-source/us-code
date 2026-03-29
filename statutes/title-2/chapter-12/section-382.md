@@ -3,9 +3,9 @@ title: "Section 382 - Notice of contest"
 usc_title: 2
 usc_section: "382"
 chapter: 12
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 382"
-generated_at: "2026-03-29T21:56:43.335Z"
+generated_at: "2026-03-29T22:03:02.393Z"
 ---
 
 # § 382. Notice of contest

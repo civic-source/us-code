@@ -3,9 +3,9 @@ title: "Section 721 - Nonrecognition of gain or loss on contribution"
 usc_title: 26
 usc_section: "721"
 chapter: 1
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 721"
-generated_at: "2026-03-29T21:59:41.464Z"
+generated_at: "2026-03-29T22:05:10.541Z"
 ---
 
 # § 721. Nonrecognition of gain or loss on contribution

@@ -3,9 +3,9 @@ title: "Section 17115 - Technical assistance program to implement industrial emi
 usc_title: 42
 usc_section: "17115"
 chapter: 152
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 17115"
-generated_at: "2026-03-29T22:01:08.591Z"
+generated_at: "2026-03-29T22:06:33.363Z"
 ---
 
 # § 17115. Technical assistance program to implement industrial emissions reduction

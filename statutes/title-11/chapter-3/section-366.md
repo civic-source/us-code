@@ -3,9 +3,9 @@ title: "Section 366 - Utility service"
 usc_title: 11
 usc_section: "366"
 chapter: 3
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "11 U.S.C. § 366"
-generated_at: "2026-03-29T21:57:30.562Z"
+generated_at: "2026-03-29T22:03:34.971Z"
 ---
 
 # § 366. Utility service

@@ -3,9 +3,9 @@ title: "Section 4729 - Coastal Aquatic Invasive Species Mitigation Grant Program
 usc_title: 16
 usc_section: "4729"
 chapter: 67
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 4729"
-generated_at: "2026-03-29T21:58:32.960Z"
+generated_at: "2026-03-29T22:04:21.826Z"
 ---
 
 # § 4729. Coastal Aquatic Invasive Species Mitigation Grant Program and Mitigation Fund

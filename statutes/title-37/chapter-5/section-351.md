@@ -3,9 +3,9 @@ title: "Section 351 - Hazardous duty pay"
 usc_title: 37
 usc_section: "351"
 chapter: 5
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "37 U.S.C. § 351"
-generated_at: "2026-03-29T22:00:09.569Z"
+generated_at: "2026-03-29T22:05:43.773Z"
 ---
 
 # § 351. Hazardous duty pay
@@ -34,4 +34,4 @@ generated_at: "2026-03-29T22:00:09.569Z"
   - **(1)** A member may be paid hazardous duty pay under this section in addition to any other pay and allowances to which the member is entitled. The regulations prescribed to administer this section shall address dual compensation under this section for multiple circumstances involving performance of a designated hazardous duty, as described in paragraph (2) of subsection (a), or for duty in certain designated areas, as described in paragraph (1) or (3) of such subsection, that is performed by a member during a single month of service.
   - **(2)** A member may not receive hazardous duty pay under this section for a month for more than three qualifying instances described in subsection (a)(2).
 - **(g)** The regulations prescribed to administer this section may not include varied criteria or rates for payment of hazardous duty for officers and enlisted members.
-- **(h)** No hazardous duty pay under this section may be paid after December 31, 2021 .
+- **(h)** No hazardous duty pay under this section may be paid after December 31, 2022 .

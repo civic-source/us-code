@@ -3,9 +3,9 @@ title: "Section 6810 - Confidentiality"
 usc_title: 7
 usc_section: "6810"
 chapter: 97
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 6810"
-generated_at: "2026-03-29T21:57:09.345Z"
+generated_at: "2026-03-29T22:03:15.626Z"
 ---
 
 # § 6810. Confidentiality

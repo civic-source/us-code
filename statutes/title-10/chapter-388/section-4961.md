@@ -1,0 +1,18 @@
+---
+title: "Section 4961 - Administrative and other costs"
+usc_title: 10
+usc_section: "4961"
+chapter: 388
+current_through: "PL 117-81"
+classification: "10 U.S.C. § 4961"
+generated_at: "2026-03-29T22:03:29.635Z"
+---
+
+# § 4961. Administrative and other costs
+
+The Director of the Defense Logistics Agency may use, out of the amount appropriated for a fiscal year for operation and maintenance for the procurement technical assistance program authorized by this chapter—
+
+  - **(1)** an amount not exceeding three percent of such amount to defray the expenses of administering the provisions of this chapter during such fiscal year; and
+  - **(2)** an amount determined appropriate by the Director to assist eligible entities in payment of costs of eligible entities—
+    - **(A)** for meetings to discuss best practices for the improvement of the operations of procurement technical assistance centers; and
+    - **(B)** for membership dues for any association of such centers created by eligible entities, training fees and associated travel for training to carry out the purposes of this chapter, and voluntary participation on any committees or board of such an association.

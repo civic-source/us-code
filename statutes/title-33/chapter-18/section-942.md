@@ -3,9 +3,9 @@ title: "Section 942 - Annual report"
 usc_title: 33
 usc_section: "942"
 chapter: 18
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 942"
-generated_at: "2026-03-29T21:59:51.406Z"
+generated_at: "2026-03-29T22:05:24.967Z"
 ---
 
 # § 942. Annual report

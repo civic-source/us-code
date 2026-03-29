@@ -3,9 +3,9 @@ title: "Section 8812 - National Quantum Coordination Office"
 usc_title: 15
 usc_section: "8812"
 chapter: 114
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 8812"
-generated_at: "2026-03-29T21:57:53.052Z"
+generated_at: "2026-03-29T22:03:57.294Z"
 ---
 
 # § 8812. National Quantum Coordination Office
@@ -17,8 +17,9 @@ generated_at: "2026-03-29T21:57:53.052Z"
     - **(B)** staff comprised of employees detailed from the Federal departments and agencies described in section 8813(b) of this title
 - **(b)** The Coordination Office shall—
   - **(1)** provide technical and administrative support to—
-    - **(A)** the Subcommittee; and
-    - **(B)** the Advisory Committee;
+    - **(A)** the Subcommittee on Quantum Information Science;
+    - **(B)** the Advisory Committee; and
+    - **(C)** the Subcommittee on Economic and Security Implications;
   - **(2)** oversee interagency coordination of the Program, including by encouraging and supporting joint agency solicitation and selection of applications for funding of activities under the Program;
   - **(3)** serve as the point of contact on Federal civilian quantum information science and technology activities for Federal departments and agencies, industry, universities 1 1 So in original. Probably should be followed by a comma. professional societies, State governments, and such other persons as the Coordination Office considers appropriate to exchange technical and programmatic information;
   - **(4)** ensure coordination among the collaborative ventures or consortia established under section 8831(a) of this title , Multidisciplinary Centers for Quantum Research and Education established under section 8842(a) of this title , and the National Quantum Information Science Research Centers established under section 8852(a) of this title ;

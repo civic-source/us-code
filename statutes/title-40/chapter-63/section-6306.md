@@ -3,9 +3,9 @@ title: "Section 6306 - Policing of buildings and grounds"
 usc_title: 40
 usc_section: "6306"
 chapter: 63
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "40 U.S.C. § 6306"
-generated_at: "2026-03-29T21:59:59.237Z"
+generated_at: "2026-03-29T22:05:34.867Z"
 ---
 
 # § 6306. Policing of buildings and grounds

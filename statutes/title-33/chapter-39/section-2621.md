@@ -3,9 +3,9 @@ title: "Section 2621 - Study and recommendations"
 usc_title: 33
 usc_section: "2621"
 chapter: 39
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 2621"
-generated_at: "2026-03-29T21:59:51.498Z"
+generated_at: "2026-03-29T22:05:25.098Z"
 ---
 
 # § 2621. Study and recommendations

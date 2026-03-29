@@ -3,9 +3,9 @@ title: "Section 41 - Special agents and commissioners"
 usc_title: 25
 usc_section: "41"
 chapter: 2
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "25 U.S.C. § 41"
-generated_at: "2026-03-29T21:58:48.108Z"
+generated_at: "2026-03-29T22:04:31.463Z"
 ---
 
 # § 41. Special agents and commissioners

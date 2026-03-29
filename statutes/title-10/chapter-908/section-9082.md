@@ -3,9 +3,9 @@ title: "Section 9082 - Chief of Space Operations"
 usc_title: 10
 usc_section: "9082"
 chapter: 908
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 9082"
-generated_at: "2026-03-29T21:57:04.987Z"
+generated_at: "2026-03-29T22:03:29.683Z"
 ---
 
 # § 9082. Chief of Space Operations
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T21:57:04.987Z"
   - **(2)** transmit the plans and recommendations of the Office of the Chief of Space Operations to the Secretary and advise the Secretary with regard to such plans and recommendations;
   - **(3)** after approval of the plans or recommendations of the Office of the Chief of Space Operations by the Secretary, act as the agent of the Secretary in carrying them into effect;
   - **(4)** exercise supervision, consistent with the authority assigned to commanders of unified or specified combatant commands under chapter 6 of this title, over such of the members and organizations of the Space Force as the Secretary determines;
-  - **(5)** perform duties prescribed for the Chief of Space Operations by sections 171 and 2547 of this title and other provision of law; and
+  - **(5)** perform duties prescribed for the Chief of Space Operations by sections 171, 1808(a), and 1847(e)(4)(B), (5) of this title and other provision of law; and
   - **(6)** perform such other military duties, not otherwise assigned by law, as are assigned to the Chief by the President, the Secretary of Defense, or the Secretary of the Air Force.
 - **(e)**
   - **(1)** Commencing one year after the date of the enactment of the United States Space Force Act, the Chief of Space Operations shall be a member of the Joint Chiefs of Staff.

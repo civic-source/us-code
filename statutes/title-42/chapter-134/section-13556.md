@@ -3,14 +3,14 @@ title: "Section 13556 - Disadvantaged business enterprises"
 usc_title: 42
 usc_section: "13556"
 chapter: 134
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 13556"
-generated_at: "2026-03-29T22:01:08.483Z"
+generated_at: "2026-03-29T22:06:33.266Z"
 ---
 
 # § 13556. Disadvantaged business enterprises
 
-- **(a)** To the extent practicable, the head of each agency shall provide that the obligation of not less than 10 percent of the total combined amounts obligated for contracts and subcontracts by each agency under this Act and amendments made by this Act pursuant to competitive procedures within the meaning of either division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, or chapter 137 of title 10, shall be expended either with—
+- **(a)** To the extent practicable, the head of each agency shall provide that the obligation of not less than 10 percent of the total combined amounts obligated for contracts and subcontracts by each agency under this Act and amendments made by this Act pursuant to competitive procedures within the meaning of either division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, or chapter 137 legacy provisions (as such term is defined in section 3016 of title 10 ), shall be expended either with—
   - **(1)** small business concerns controlled by socially and economically disadvantaged individuals or women;
   - **(2)** historically Black colleges and universities;
   - **(3)** colleges and universities having a student body in which more than 20 percent of the students are Hispanic Americans or Native Americans; or

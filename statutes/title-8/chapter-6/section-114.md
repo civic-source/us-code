@@ -3,9 +3,9 @@ title: "Section 114 - Omitted"
 usc_title: 8
 usc_section: "114"
 chapter: 6
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "8 U.S.C. § 114"
-generated_at: "2026-03-29T21:56:53.547Z"
+generated_at: "2026-03-29T22:03:17.394Z"
 ---
 
 # § 114. Omitted

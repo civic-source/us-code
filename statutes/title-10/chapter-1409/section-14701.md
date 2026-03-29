@@ -3,9 +3,9 @@ title: "Section 14701 - Selection of officers for continuation on the reserve ac
 usc_title: 10
 usc_section: "14701"
 chapter: 1409
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 14701"
-generated_at: "2026-03-29T21:57:05.016Z"
+generated_at: "2026-03-29T22:03:29.725Z"
 ---
 
 # § 14701. Selection of officers for continuation on the reserve active-status list

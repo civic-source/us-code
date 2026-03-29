@@ -3,9 +3,9 @@ title: "Section 6110 - Public inspection of written determinations"
 usc_title: 26
 usc_section: "6110"
 chapter: 61
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 6110"
-generated_at: "2026-03-29T21:59:41.731Z"
+generated_at: "2026-03-29T22:05:10.753Z"
 ---
 
 # § 6110. Public inspection of written determinations

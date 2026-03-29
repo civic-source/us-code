@@ -3,9 +3,9 @@ title: "Section 9455 - Board of Visitors"
 usc_title: 10
 usc_section: "9455"
 chapter: 953
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 9455"
-generated_at: "2026-03-29T21:57:04.992Z"
+generated_at: "2026-03-29T22:03:29.691Z"
 ---
 
 # § 9455. Board of Visitors
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T21:57:04.992Z"
   - **(4)** The chairman of the Committee on Armed Services of the Senate, or his designee.
   - **(5)** Three other members of the Senate designated by the Vice President or the President pro tempore of the Senate, two of whom are members of the Committee on Appropriations of the Senate.
 - **(b)**
-  - **(1)** The persons designated by the President serve for three years each except that any member whose term of office has expired shall continue to serve until his successor is designated. The President shall designate persons each year to succeed the members designated by the President whose terms expire that year.
+  - **(1)** The persons designated by the President serve for three years each except that any member whose term of office has expired shall continue to serve until his successor is designated by the President. The President shall designate persons each year to succeed the members designated by the President whose terms expire that year.
   - **(2)** At least two of the members designated by the President shall be graduates of the Academy.
 - **(c)**
   - **(1)** If a member of the Board dies or resigns or is terminated as a member of the Board under paragraph (2), a successor shall be designated for the unexpired portion of the term by the official who designated the member.
@@ -35,3 +35,8 @@ generated_at: "2026-03-29T21:57:04.992Z"
 - **(f)** The Board shall prepare a semiannual report containing its views and recommendations pertaining to the Academy, based on its meeting since the last such report and any other considerations it determines relevant. Each such report shall be submitted concurrently to the Secretary of Defense, through the Secretary of the Air Force, and to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 - **(g)** Upon approval by the Secretary, the Board may call in advisers for consultation.
 - **(h)** While performing duties as a member of the Board, each member of the Board and each adviser shall be reimbursed under Government travel regulations for travel expenses.
+- **(i)**
+  - **(1)** A majority of the members of the Board may call an official meeting of the Board once per year.
+  - **(2)** A member may attend such meeting—
+    - **(A)** in person, at the Academy; or
+    - **(B)** remotely, at the election of such member.

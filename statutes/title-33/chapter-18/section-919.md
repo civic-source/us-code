@@ -3,9 +3,9 @@ title: "Section 919 - Procedure in respect of claims"
 usc_title: 33
 usc_section: "919"
 chapter: 18
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 919"
-generated_at: "2026-03-29T21:59:51.403Z"
+generated_at: "2026-03-29T22:05:24.964Z"
 ---
 
 # § 919. Procedure in respect of claims

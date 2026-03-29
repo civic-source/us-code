@@ -3,9 +3,9 @@ title: "Section 1059 - Dependents of members separated for dependent abuse: tran
 usc_title: 10
 usc_section: "1059"
 chapter: 53
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1059"
-generated_at: "2026-03-29T21:57:04.744Z"
+generated_at: "2026-03-29T22:03:29.427Z"
 ---
 
 # § 1059. Dependents of members separated for dependent abuse: transitional compensation; commissary and exchange benefits
@@ -65,4 +65,6 @@ generated_at: "2026-03-29T21:57:04.744Z"
     - **(A)** the date an administrative separation is initiated by a commander of the member;
     - **(B)** the date the court-martial sentence is adjudged if the sentence, as adjudged, includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances; or
     - **(C)** the date the member’s term of service expires.
-  - **(4)** The authority of the Secretary concerned under paragraph (1) may not be delegated.
+  - **(4)**
+    - **(A)** Except as provided in subparagraph (B), the authority of the Secretary concerned under paragraph (1) may not be delegated.
+    - **(B)** During the two year period following the date of the enactment of the National Defense Authorization Act for Fiscal Year 2022, the authority of the Secretary concerned under paragraph (1) may be delegated to an official at the Assistant Secretary-level or above. Any exercise of such delegated authority shall be reported to the Secretary concerned on a quarterly basis.

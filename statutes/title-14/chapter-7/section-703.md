@@ -3,9 +3,9 @@ title: "Section 703 - Treasury Department"
 usc_title: 14
 usc_section: "703"
 chapter: 7
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "14 U.S.C. § 703"
-generated_at: "2026-03-29T21:57:13.758Z"
+generated_at: "2026-03-29T22:03:34.053Z"
 ---
 
 # § 703. Treasury Department

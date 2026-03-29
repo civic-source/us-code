@@ -3,9 +3,9 @@ title: "Section 119 - Advanced Research Projects Agency–Infrastructure"
 usc_title: 49
 usc_section: "119"
 chapter: 1
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 119"
-generated_at: "2026-03-29T22:02:02.631Z"
+generated_at: "2026-03-29T22:06:49.661Z"
 ---
 
 # § 119. Advanced Research Projects Agency–Infrastructure
@@ -140,7 +140,7 @@ generated_at: "2026-03-29T22:02:02.631Z"
     - **(A)** demonstrates sufficient attempts to secure private financing; or
     - **(B)** indicates that the project is not independently commercially viable.
 - **(j)** The Director shall seek opportunities to partner with purchasing and procurement programs of Federal agencies to demonstrate technologies resulting from activities funded through ARPA–I.
-- **(k)** The Director shall seek opportunities to enter into contracts or partnerships with minority-serving institutions (as described in any of paragraphs (1) through (7) of section 1067q(a) of title 20 )—
+- **(k)** The Director shall seek opportunities to enter into contracts or partnerships with minority-serving institutions (as described in any of paragraphs (1) through (7) of section 371(a) of the Higher Education Act of 1965 ( 20 U.S.C. 1067q(a) ))—
   - **(1)** to accomplish the goals of ARPA–I;
   - **(2)** to develop institutional capacity in advanced transportation infrastructure technologies and materials;
   - **(3)** to engage underserved populations in developing, demonstrating, and deploying those technologies and materials; and

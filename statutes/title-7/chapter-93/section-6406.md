@@ -3,9 +3,9 @@ title: "Section 6406 - Regulations"
 usc_title: 7
 usc_section: "6406"
 chapter: 93
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 6406"
-generated_at: "2026-03-29T21:57:09.336Z"
+generated_at: "2026-03-29T22:03:15.611Z"
 ---
 
 # § 6406. Regulations

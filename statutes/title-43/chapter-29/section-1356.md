@@ -3,9 +3,9 @@ title: "Section 1356 - Documentary, registry and manning requirements"
 usc_title: 43
 usc_section: "1356"
 chapter: 29
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "43 U.S.C. § 1356"
-generated_at: "2026-03-29T22:01:10.416Z"
+generated_at: "2026-03-29T22:05:55.070Z"
 ---
 
 # § 1356. Documentary, registry and manning requirements

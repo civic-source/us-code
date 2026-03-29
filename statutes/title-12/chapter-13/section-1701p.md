@@ -3,9 +3,9 @@ title: "Section 1701p - Contents of report to President and Congress"
 usc_title: 12
 usc_section: "1701p"
 chapter: 13
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 1701p"
-generated_at: "2026-03-29T21:57:19.369Z"
+generated_at: "2026-03-29T22:03:46.855Z"
 ---
 
 # § 1701p. Contents of report to President and Congress

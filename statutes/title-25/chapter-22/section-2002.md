@@ -3,9 +3,9 @@ title: "Section 2002 - National criteria for home-living situations"
 usc_title: 25
 usc_section: "2002"
 chapter: 22
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "25 U.S.C. § 2002"
-generated_at: "2026-03-29T21:58:48.171Z"
+generated_at: "2026-03-29T22:04:31.547Z"
 ---
 
 # § 2002. National criteria for home-living situations

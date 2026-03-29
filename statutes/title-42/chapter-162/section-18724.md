@@ -3,9 +3,9 @@ title: "Section 18724 - Enhanced grid security"
 usc_title: 42
 usc_section: "18724"
 chapter: 162
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 18724"
-generated_at: "2026-03-29T22:01:08.656Z"
+generated_at: "2026-03-29T22:06:33.426Z"
 ---
 
 # § 18724. Enhanced grid security

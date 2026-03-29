@@ -3,14 +3,14 @@ title: "Section 4818 - Data collection authority of President"
 usc_title: 10
 usc_section: "4818"
 chapter: 382
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 4818"
-generated_at: "2026-03-29T21:57:04.940Z"
+generated_at: "2026-03-29T22:03:29.628Z"
 ---
 
 # § 4818. Data collection authority of President
 
-- **(a)** The President shall be entitled, by regulation, subpoena, or otherwise, to obtain such information from, require such reports and the keeping of such records by, make such inspection of the books, records, and other writings, premises or property of, and take the sworn testimony of, and administer oaths and affirmations to, any person as may be necessary or appropriate, in the President’s discretion, to the enforcement or the administration of the chapter 148 legacy provisions and the regulations issued under those provisions.
+- **(a)** The President shall be entitled, by regulation, subpoena, or otherwise, to obtain such information from, require such reports and the keeping of such records by, make such inspection of the books, records, and other writings, premises or property of, and take the sworn testimony of, and administer oaths and affirmations to, any person as may be necessary or appropriate, in the President’s discretion, to the enforcement or the administration of chapters 381 through 385 and chapter 389 and the regulations issued under such chapters.
 - **(b)** The President shall issue regulations insuring that the authority of this section will be used only after the scope and purpose of the investigation, inspection, or inquiry to be made have been defined by competent authority and it is assured that no adequate and authoritative data are available from any Federal or other responsible agency.
 - **(c)** Any person who willfully performs any act prohibited or willfully fails to perform any act required by the provisions of subsection (a), or any rule, regulation, or order thereunder, shall be fined under title 18 or imprisoned not more than one year, or both.
 - **(d)** Information obtained under subsection (a) which the President deems confidential or with reference to which a request for confidential treatment is made by the person furnishing such information shall not be published or disclosed unless the President determines that the withholding thereof is contrary to the interest of the national defense. Any person who willfully violates this subsection shall be fined under title 18 or imprisoned not more than one year, or both.

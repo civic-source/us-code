@@ -3,9 +3,9 @@ title: "Section 3202 - Standards of conduct"
 usc_title: 29
 usc_section: "3202"
 chapter: 32
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "29 U.S.C. § 3202"
-generated_at: "2026-03-29T21:59:20.286Z"
+generated_at: "2026-03-29T22:04:49.113Z"
 ---
 
 # § 3202. Standards of conduct

@@ -3,9 +3,9 @@ title: "Section 2104 - Secretary’s review of prior Minerals Agreements"
 usc_title: 25
 usc_section: "2104"
 chapter: 23
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "25 U.S.C. § 2104"
-generated_at: "2026-03-29T21:58:48.179Z"
+generated_at: "2026-03-29T22:04:31.555Z"
 ---
 
 # § 2104. Secretary’s review of prior Minerals Agreements

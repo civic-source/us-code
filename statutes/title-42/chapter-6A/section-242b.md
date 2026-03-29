@@ -3,9 +3,9 @@ title: "Section 242b - General authority respecting research, evaluations, and d
 usc_title: 42
 usc_section: "242b"
 chapter: 6
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 242b"
-generated_at: "2026-03-29T22:01:06.823Z"
+generated_at: "2026-03-29T22:06:31.788Z"
 ---
 
 # § 242b. General authority respecting research, evaluations, and demonstrations in health statistics, health services, and health care technology

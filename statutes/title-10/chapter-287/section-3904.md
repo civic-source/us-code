@@ -1,30 +1,12 @@
 ---
-title: "Section 3904 - Research and educational programs and activities: historically black colleges and universities and minority-serving institutions of higher education"
+title: "Section 3904 - Omitted]"
 usc_title: 10
 usc_section: "3904"
 chapter: 287
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 3904"
-generated_at: "2026-03-29T21:57:04.925Z"
+generated_at: "2026-03-29T22:03:29.607Z"
 ---
 
-# § 3904. Research and educational programs and activities: historically black colleges and universities and minority-serving institutions of higher education
+# [§ 3904. Omitted]
 
-- **(a)**
-  - **(1)** The Secretary of Defense, acting through the Assistant Secretary of Defense for Research and Engineering and the Secretary of each military department, shall carry out a program to provide assistance to covered educational institutions to assist the Department in defense-related research, development, testing, and evaluation activities.
-  - **(2)** The Secretary of Defense may not delegate or transfer to an individual outside the Office of the Secretary of Defense the authority regarding the programming or budgeting of the program established by this section that is carried out by the Assistant Secretary of Defense for Research and Engineering.
-- **(b)** The objective of the program established by subsection (a)(1) is to enhance defense-related research and education at covered educational institutions. Such objective shall be accomplished through initiatives designed to—
-  - **(1)** enhance the research and educational capabilities of such institutions in areas of importance to national defense, as determined by the Secretary;
-  - **(2)** encourage the participation of such institutions in the research, development, testing, and evaluation programs and activities of the Department of Defense;
-  - **(3)** increase the number of graduates from such institutions engaged in disciplines important to the national security functions of the Department of Defense, as determined by the Secretary; and
-  - **(4)** encourage research and educational collaborations between such institutions and other institutions of higher education, Government defense organizations, and the defense industry.
-- **(c)** Under the program established by subsection (a)(1), the Secretary of Defense may provide covered educational institutions with funding or technical assistance, including any of the following:
-  - **(1)** Support for research, development, testing, evaluation, or educational enhancements in areas important to national defense through the competitive awarding of grants, cooperative agreements, contracts, scholarships, fellowships, or the acquisition of research equipment or instrumentation.
-  - **(2)** Support to assist in the attraction and retention of faculty in scientific disciplines important to the national security functions of the Department of Defense.
-  - **(3)** Establishing partnerships between such institutions and defense laboratories, Government defense organizations, the defense industry, and other institutions of higher education in research, development, testing, and evaluation in areas important to the national security functions of the Department of Defense.
-  - **(4)** Other such non-monetary assistance as the Secretary finds appropriate to enhance defense-related research, development, testing, and evaluation activities at such institutions.
-- **(d)** The Secretary of Defense may develop incentives to encourage research and educational collaborations between covered educational institutions and other institutions of higher education.
-- **(e)** The Secretary of Defense may establish procedures under which the Secretary may limit funding under this section to institutions that have not otherwise received a significant amount of funding from the Department of Defense for research, development, testing, and evaluation programs supporting the national security functions of the Department.
-- **(f)** In this section the term “covered educational institution” means—
-  - **(1)** an institution of higher education eligible for assistance under title III or V of the Higher Education Act of 1965 ( 20 U.S.C. 1051 et seq.); or
-  - **(2)** an accredited postsecondary minority institution.

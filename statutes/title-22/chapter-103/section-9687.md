@@ -3,9 +3,9 @@ title: "Section 9687 - Other terminations"
 usc_title: 22
 usc_section: "9687"
 chapter: 103
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 9687"
-generated_at: "2026-03-29T21:58:43.344Z"
+generated_at: "2026-03-29T22:04:38.651Z"
 ---
 
 # § 9687. Other terminations

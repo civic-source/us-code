@@ -3,9 +3,9 @@ title: "Section 3553 - Review of protests; effect on contracts pending decision"
 usc_title: 31
 usc_section: "3553"
 chapter: 35
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "31 U.S.C. § 3553"
-generated_at: "2026-03-29T21:59:46.283Z"
+generated_at: "2026-03-29T22:05:31.236Z"
 ---
 
 # § 3553. Review of protests; effect on contracts pending decision
@@ -43,7 +43,7 @@ generated_at: "2026-03-29T21:59:46.283Z"
     - **(A)** The period referred to in paragraphs (2) and (3)(A), with respect to a contract, is the period beginning on the date of the contract award and ending on the later of—
       - **(i)** the date that is 10 days after the date of the contract award; or
       - **(ii)** the date that is 5 days after the debriefing date offered to an unsuccessful offeror for any debriefing that is requested and, when requested, is required.
-    - **(B)** For procurements conducted by any component of the Department of Defense, the 5-day period described in subparagraph (A)(ii) does not commence until the day the Government delivers to a disappointed offeror the written responses to any questions submitted pursuant to section 2305(b)(5)(B)(vii) of title 10 .
+    - **(B)** For procurements conducted by any component of the Department of Defense, the 5-day period described in subparagraph (A)(ii) does not commence until the day the Government delivers to a disappointed offeror the written responses to any questions submitted pursuant to section 3304(c)(1)(G) of title 10 .
 - **(e)** The authority of the head of the procuring activity to make findings and to authorize the award and performance of contracts under subsections (c) and (d) of this section may not be delegated.
 - **(f)**
   - **(1)** Within such deadlines as the Comptroller General prescribes, upon request each Federal agency shall provide to an interested party any document relevant to a protested procurement action (including the report required by subsection (b)(2) of this section) that would not give that party a competitive advantage and that the party is otherwise authorized by law to receive.

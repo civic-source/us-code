@@ -3,9 +3,9 @@ title: "Section 2401 - Definitions and rules of construction"
 usc_title: 7
 usc_section: "2401"
 chapter: 57
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 2401"
-generated_at: "2026-03-29T21:57:09.273Z"
+generated_at: "2026-03-29T22:03:15.527Z"
 ---
 
 # § 2401. Definitions and rules of construction

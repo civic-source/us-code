@@ -3,9 +3,9 @@ title: "Section 3606 - Report to Congress"
 usc_title: 33
 usc_section: "3606"
 chapter: 49
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 3606"
-generated_at: "2026-03-29T21:59:51.522Z"
+generated_at: "2026-03-29T22:05:25.131Z"
 ---
 
 # § 3606. Report to Congress

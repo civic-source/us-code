@@ -3,9 +3,9 @@ title: "Section 2350d - Cooperative logistic support agreements: NATO countries"
 usc_title: 10
 usc_section: "2350d"
 chapter: 138
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2350d"
-generated_at: "2026-03-29T21:57:04.847Z"
+generated_at: "2026-03-29T22:03:29.531Z"
 ---
 
 # § 2350d. Cooperative logistic support agreements: NATO countries
@@ -21,6 +21,6 @@ generated_at: "2026-03-29T21:57:04.847Z"
   - **(1)** may agree that the NATO Support and Procurement Organization and its executive agencies may enter into contracts for supply and acquisition of logistics support in Europe for requirements of the United States, to the extent the Secretary determines that the procedures of such Organization governing such supply and acquisition are appropriate; and
   - **(2)** may share the costs of set-up charges of facilities for use by the NATO Support and Procurement Organization and its executive agencies to provide cooperative logistics support and in the costs of establishing a revolving fund for initial acquisition and replenishment of supply stocks to be used by the NATO Support and Procurement Organization and its executive agencies to provide cooperative logistics support.
 - **(c)** Each Support or Procurement Partnership Agreement shall provide for joint management by the participating countries and for the equitable sharing of the administrative costs and costs of claims incident to the agreement.
-- **(d)** Except as otherwise provided in this section, the provisions of chapter 137 of this title apply to a contract entered into by the Secretary of Defense for the acquisition of logistics support under a Support or Procurement Partnership Agreement.
+- **(d)** Except as otherwise provided in this section, the provisions of chapter 137 1 1 See References in Text note below. of this title apply to a contract entered into by the Secretary of Defense for the acquisition of logistics support under a Support or Procurement Partnership Agreement.
 - **(e)** Any transfer of defense articles or defense services to a member country of the North Atlantic Treaty Organization or to the NATO Support and Procurement Organization and its executive agencies for the purposes of a Support or Procurement Partnership Agreement shall be carried out in accordance with this chapter and the Arms Export Control Act ( 22 U.S.C. 2751 et seq.).
 - **(f)** The authority of the Secretary of Defense under this section is in addition to the authority of the Secretary under subchapter I and any other provision of law.

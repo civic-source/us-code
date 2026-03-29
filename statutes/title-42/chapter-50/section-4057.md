@@ -3,9 +3,9 @@ title: "Section 4057 - Alternative loss allocation system for indeterminate clai
 usc_title: 42
 usc_section: "4057"
 chapter: 50
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 4057"
-generated_at: "2026-03-29T22:01:07.889Z"
+generated_at: "2026-03-29T22:06:32.726Z"
 ---
 
 # § 4057. Alternative loss allocation system for indeterminate claims

@@ -3,9 +3,9 @@ title: "Section 53 - Transferred"
 usc_title: 22
 usc_section: "53"
 chapter: 1
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 53"
-generated_at: "2026-03-29T21:58:43.040Z"
+generated_at: "2026-03-29T22:04:38.294Z"
 ---
 
 # § 53. Transferred

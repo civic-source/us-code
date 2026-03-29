@@ -3,9 +3,9 @@ title: "Section 122a - Public availability of Department of Defense reports requ
 usc_title: 10
 usc_section: "122a"
 chapter: 3
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 122a"
-generated_at: "2026-03-29T21:57:04.670Z"
+generated_at: "2026-03-29T22:03:29.335Z"
 ---
 
 # § 122a. Public availability of Department of Defense reports required by law
@@ -20,3 +20,4 @@ generated_at: "2026-03-29T21:57:04.670Z"
     - **(B)** proprietary information;
     - **(C)** information that is exempt from disclosure under section 552 of title 5 (commonly referred to as the “Freedom of Information Act”); or
     - **(D)** any other type of information that the Secretary of Defense determines should not be made available to the public in the interest of national security.
+- **(c)** Not later than January 1 and July 1 of each year, the Secretary of Defense shall make publicly available on an appropriate internet website a summary of all reports submitted to Congress by the Department of Defense for the preceding six-month period that are required to be submitted by statute. Each such summary shall include, for each report covered by the summary, the title of report, the date of delivery, and the section of law under which such report is required.

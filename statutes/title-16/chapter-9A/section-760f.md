@@ -3,9 +3,9 @@ title: "Section 760f - Migratory game fish study; authorization to acquire facil
 usc_title: 16
 usc_section: "760f"
 chapter: 9
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 760f"
-generated_at: "2026-03-29T21:58:32.785Z"
+generated_at: "2026-03-29T22:04:21.555Z"
 ---
 
 # § 760f. Migratory game fish study; authorization to acquire facilities, employ officers and employees, cooperate with State and other agencies, and to publish results

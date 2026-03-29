@@ -3,9 +3,9 @@ title: "Section 2525 - Annual assessments and reports to the President and Congr
 usc_title: 50
 usc_section: "2525"
 chapter: 42
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 2525"
-generated_at: "2026-03-29T22:01:35.001Z"
+generated_at: "2026-03-29T22:06:44.420Z"
 ---
 
 # § 2525. Annual assessments and reports to the President and Congress regarding the condition of the United States nuclear weapons stockpile
@@ -32,8 +32,8 @@ generated_at: "2026-03-29T22:01:35.001Z"
     - **(B)** An identification of the specific underground nuclear tests which, while not necessary, might have value in resolving any such issues and a discussion of the anticipated value of conducting such tests.
     - **(C)** Such official’s determination as to the readiness of the United States to conduct the underground nuclear tests identified under subparagraphs (A)(i) and (B), if directed by the President to do so.
   - **(3)** In the case of a report submitted by the head of a national security laboratory—
-    - **(A)** a concise statement regarding the adequacy of the science-based tools and methods being used to determine the matters covered by the assessments;
-    - **(B)** a concise statement regarding the adequacy of the tools and methods employed by the manufacturing infrastructure required by section 2532 of this title to identify and fix any inadequacy with respect to the matters covered by the assessments;
+    - **(A)** a concise statement regarding the adequacy of the science-based tools and methods, including with respect to cyber assurance, being used to determine the matters covered by the assessments;
+    - **(B)** a concise statement regarding the adequacy of the tools and methods employed by the manufacturing infrastructure required by section 2532 of this title to identify and fix any inadequacy with respect to the matters covered by the assessments, and the confidence of the head in such tools and methods;
     - **(C)** a concise summary of the findings and recommendations of any teams under subsection (d) that relate to the assessments, together with a discussion of those findings and recommendations;
     - **(D)** a concise summary of the results of any independent evaluation conducted by a dual validation team under subsection (c); and
     - **(E)** a concise summary of any significant finding investigations initiated or active during the previous year for which the head of the national security laboratory has full or partial responsibility.

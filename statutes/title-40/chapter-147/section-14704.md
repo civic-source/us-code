@@ -3,9 +3,9 @@ title: "Section 14704 - Termination"
 usc_title: 40
 usc_section: "14704"
 chapter: 147
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "40 U.S.C. § 14704"
-generated_at: "2026-03-29T21:59:59.261Z"
+generated_at: "2026-03-29T22:05:34.886Z"
 ---
 
 # § 14704. Termination

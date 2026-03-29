@@ -3,15 +3,15 @@ title: "Section 4354 - Declassification of State Department records"
 usc_title: 22
 usc_section: "4354"
 chapter: 53
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 4354"
-generated_at: "2026-03-29T21:58:43.236Z"
+generated_at: "2026-03-29T22:04:38.504Z"
 ---
 
 # § 4354. Declassification of State Department records
 
 - **(a)**
-  - **(1)** Except as provided in subsection (b), each classified record of permanent historical value (as determined by the Secretary of State and the Archivist of the United States) which was published, issued, or otherwise prepared by the Department of State (or any officer or employee thereof acting in an official capacity) shall be declassified not later than 30 years after the record was prepared, shall be transferred to the National Archives and Records Administration, and shall be made available at the National Archives for public inspection and copying.
+  - **(1)** Except as provided in subsection (b), each classified record of permanent historical value (as determined by the Secretary of State and the Archivist of the United States) which was published, issued, or otherwise prepared by the Department of State (or any officer or employee thereof acting in an official capacity) shall be declassified not later than 25 years after the record was prepared, shall be transferred to the National Archives and Records Administration, and shall be made available at the National Archives for public inspection and copying.
   - **(2)** Nothing in this subsection may be construed to require the declassification of a record wholly prepared by a foreign government.
 - **(b)** Subsection (a) shall not apply to any record (or portion thereof) the publication of which the Secretary of State, in coordination with any agency that originated information in the records, determines—
   - **(1)** would compromise weapons technology important to the national defense of the United States or reveal sensitive information relating to the design of United States or foreign military equipment or relating to United States cryptologic systems or activities;

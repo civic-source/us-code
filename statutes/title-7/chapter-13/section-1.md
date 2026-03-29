@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. June 26, 1953, ch. 157, § 2 , 67 Stat. 85 , 86"
 usc_title: 7
 usc_section: "1"
 chapter: 13
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-29T21:57:09.106Z"
+generated_at: "2026-03-29T22:03:15.312Z"
 ---
 
 # §§ 343a to 343c–1. Repealed. June 26, 1953, ch. 157, § 2 , 67 Stat. 85 , 86

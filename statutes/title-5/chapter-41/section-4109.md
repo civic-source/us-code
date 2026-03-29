@@ -3,9 +3,9 @@ title: "Section 4109 - Expenses of training"
 usc_title: 5
 usc_section: "4109"
 chapter: 41
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "5 U.S.C. § 4109"
-generated_at: "2026-03-29T21:56:41.846Z"
+generated_at: "2026-03-29T22:02:55.819Z"
 ---
 
 # § 4109. Expenses of training
@@ -13,8 +13,8 @@ generated_at: "2026-03-29T21:56:41.846Z"
 - **(a)** The head of an agency, under the regulations prescribed under section 4118(a)(8) of this title and from appropriations or other funds available to the agency, may—
   - **(1)** pay all or a part of the pay (except overtime, holiday, or night differential pay) of an employee of the agency selected and assigned for training under this chapter, for the period of training; and
   - **(2)** pay, or reimburse the employee for, all or a part of the necessary expenses of the training, without regard to section 3324(a) and (b) of title 31, including among the expenses the necessary costs of—
-    - **(A)** travel and per diem instead of subsistence under subchapter I of chapter 57 of this title or, in the case of commissioned officers of the National Oceanic and Atmospheric Administration, sections 474 and 475 1 1 See References in Text below. of title 37, and the Joint Travel Regulations for the Uniformed Services;
-    - **(B)** transportation of immediate family, household goods and personal effects, packing, crating, temporarily storing, draying, and unpacking under section 5724 of this title or, in the case of commissioned officers of the National Oceanic and Atmospheric Administration, sections 476 and 479 of title 37, and the Joint Travel Regulations for the Uniformed Services, when the estimated costs of transportation and related services are less than the estimated aggregate per diem payments for the period of training;
+    - **(A)** travel and per diem instead of subsistence under subchapter I of chapter 57 of this title or, in the case of commissioned officers of the National Oceanic and Atmospheric Administration, sections 474 and 475 of title 37, 1 1 See References in Text below. and the Joint Travel Regulations for the Uniformed Services;
+    - **(B)** transportation of immediate family, household goods and personal effects, packing, crating, temporarily storing, draying, and unpacking under section 5724 of this title or, in the case of commissioned officers of the National Oceanic and Atmospheric Administration, sections 476 and 479 of title 37, 1 and the Joint Travel Regulations for the Uniformed Services, when the estimated costs of transportation and related services are less than the estimated aggregate per diem payments for the period of training;
     - **(C)** tuition and matriculation fees;
     - **(D)** library and laboratory services;
     - **(E)** purchase or rental of books, materials, and supplies; and

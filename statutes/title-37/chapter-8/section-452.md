@@ -3,9 +3,9 @@ title: "Section 452 - Allowable travel and transportation: general authorities"
 usc_title: 37
 usc_section: "452"
 chapter: 8
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "37 U.S.C. § 452"
-generated_at: "2026-03-29T22:00:09.575Z"
+generated_at: "2026-03-29T22:05:43.783Z"
 ---
 
 # § 452. Allowable travel and transportation: general authorities
@@ -29,6 +29,10 @@ generated_at: "2026-03-29T22:00:09.575Z"
   - **(15)** Attendance at Yellow Ribbon Reintegration Program events.
   - **(16)** Missing status, as determined by the Secretary concerned under chapter 10 of this title.
   - **(17)** Attendance at or participation in international sports competitions described under section 717 of title 10 .
+  - **(18)** 1 1 So in original. Another par. (18) is set out after par. (20). Travel by a dependent child to the United States to obtain formal secondary, undergraduate, graduate, or vocational education, if the permanent duty assignment location of the member of the uniformed services is outside the continental United States (other than in Alaska or Hawaii).
+  - **(19)** Travel by a dependent child within the United States to obtain formal secondary, undergraduate, graduate, or vocational education, if the permanent duty assignment location of the member of the uniformed services is in Alaska or Hawaii and the school is located in a State outside of the permanent duty assignment location.
+  - **(20)** Subject to subsection (i), travel by a dependent to a location where a member of the uniformed services is on permanent duty aboard a ship that is overhauling, inactivating, or under construction.
+  - **(18)** 2 2 So in original. Another par. (18) is set out after par. (17). Presence of family members at the funeral and memorial services of members.
 - **(c)** Travel and transportation allowances which may be provided under subsection (a) include the following:
   - **(1)** Allowances for transportation (including fares and tolls, without regard to distance travelled), lodging, and meals.
   - **(2)** Dislocation or relocation allowances paid in connection with a change in a member’s temporary or permanent duty assignment location.
@@ -44,3 +48,7 @@ generated_at: "2026-03-29T22:00:09.575Z"
 - **(f)** An authorized traveler may be allowed advance payments for authorized travel and transportation allowances.
 - **(g)** Any unauthorized travel or transportation expense is not the responsibility of the United States.
 - **(h)** The administering Secretary may not provide payment under this section for an expense for which payment may be provided from any other appropriate Government or non-Government entity.
+- **(i)** The authority under subsection (a) for travel in connection with circumstances described in subsection (b)(20) shall be subject to the following terms and conditions:
+  - **(1)** The member of the uniformed services must be permanently assigned to the ship for 31 or more consecutive days to be eligible for allowances, and the transportation allowances accrue on the 31st day and every 60 days thereafter.
+  - **(2)** Transportation in kind, reimbursement for personally procured transportation, or a monetary allowance for mileage in place of the cost of transportation may be provided, in lieu of the member’s entitlement to transportation, for the member’s dependents from the location that was the home port of the ship before commencement of overhaul or inactivation to the port of overhaul or inactivation.
+  - **(3)** The total reimbursement for transportation for the member’s dependents may not exceed the cost of one Government-procured commercial round-trip travel.

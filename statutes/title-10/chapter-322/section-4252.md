@@ -3,9 +3,9 @@ title: "Section 4252 - Major defense acquisition programs: certification require
 usc_title: 10
 usc_section: "4252"
 chapter: 322
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 4252"
-generated_at: "2026-03-29T21:57:04.931Z"
+generated_at: "2026-03-29T22:03:29.617Z"
 ---
 
 # § 4252. Major defense acquisition programs: certification required before Milestone B approval
@@ -53,7 +53,7 @@ generated_at: "2026-03-29T21:57:04.931Z"
     - **(H)** A summary of the life cycle sustainment plan required under section 4324 of this title .
     - **(I)** Any other information the milestone decision authority considers relevant.
   - **(2)**
-    - **(A)** The certifications and determination under subsection (a) with respect to a major defense acquisition program shall be submitted to the congressional defense committees with the first Selected Acquisition Report submitted under sections 4351 through 4358 of this title after completion of the certification.
+    - **(A)** The certifications and determination under subsection (a) with respect to a major defense acquisition program shall be submitted to the congressional defense committees with the first Selected Acquisition Report submitted under section 4351 of this title after completion of the certification.
     - **(B)** The milestone decision authority shall retain records of the basis for the certifications and determination under paragraphs (1), (2), and (3) of subsection (a).
   - **(3)**
     - **(A)** At the request of any of the congressional defense committees or, in the case of intelligence or intelligence-related activities, the congressional intelligence committees, the milestone decision authority shall submit to the committee an explanation of the basis for the certifications and determination under paragraphs (1), (2), and (3) of subsection (a) with respect to a major defense acquisition program or further information or underlying documentation for the information in a brief summary report submitted under paragraph (1), including the independent cost and schedule estimates and the independent technical risk assessments referred to in that paragraph.

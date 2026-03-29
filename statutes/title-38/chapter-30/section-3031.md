@@ -3,9 +3,9 @@ title: "Section 3031 - Time limitation for use of eligibility and entitlement 1 
 usc_title: 38
 usc_section: "3031"
 chapter: 30
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 3031"
-generated_at: "2026-03-29T22:00:30.901Z"
+generated_at: "2026-03-29T22:05:48.084Z"
 ---
 
 # § 3031. Time limitation for use of eligibility and entitlement 1 1 See Extension of Time Limitations for Use of Entitlement: Montgomery GI Bill note below.

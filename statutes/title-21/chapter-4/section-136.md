@@ -3,9 +3,9 @@ title: "Section 136 - Additional inspection services"
 usc_title: 21
 usc_section: "136"
 chapter: 4
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "21 U.S.C. § 136"
-generated_at: "2026-03-29T21:58:50.847Z"
+generated_at: "2026-03-29T22:04:42.813Z"
 ---
 
 # § 136. Additional inspection services

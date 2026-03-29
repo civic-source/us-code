@@ -3,9 +3,9 @@ title: "Section 133 - State Pharmaceutical Assistance Programs"
 usc_title: 42
 usc_section: "133"
 chapter: 7
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 133"
-generated_at: "2026-03-29T22:01:07.410Z"
+generated_at: "2026-03-29T22:06:32.316Z"
 ---
 
 # § 1395w–133. State Pharmaceutical Assistance Programs

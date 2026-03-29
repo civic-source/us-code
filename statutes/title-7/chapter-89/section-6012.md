@@ -3,9 +3,9 @@ title: "Section 6012 - Suspension or termination of plan"
 usc_title: 7
 usc_section: "6012"
 chapter: 89
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 6012"
-generated_at: "2026-03-29T21:57:09.330Z"
+generated_at: "2026-03-29T22:03:15.601Z"
 ---
 
 # § 6012. Suspension or termination of plan

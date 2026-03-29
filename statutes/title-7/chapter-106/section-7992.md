@@ -3,9 +3,9 @@ title: "Section 7992 - Suspension of permanent price support authority"
 usc_title: 7
 usc_section: "7992"
 chapter: 106
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 7992"
-generated_at: "2026-03-29T21:57:09.389Z"
+generated_at: "2026-03-29T22:03:15.691Z"
 ---
 
 # § 7992. Suspension of permanent price support authority

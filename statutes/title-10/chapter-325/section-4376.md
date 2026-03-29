@@ -3,9 +3,9 @@ title: "Section 4376 - Breach of critical cost growth threshold: reassessment of
 usc_title: 10
 usc_section: "4376"
 chapter: 325
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 4376"
-generated_at: "2026-03-29T21:57:04.935Z"
+generated_at: "2026-03-29T22:03:29.621Z"
 ---
 
 # § 4376. Breach of critical cost growth threshold: reassessment of program; presumption of program termination
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T21:57:04.935Z"
     - **(C)** the rough order of magnitude of the costs of any reasonable alternative system or capability; and
     - **(D)** the need to reduce funding for other programs due to the growth in cost of the program.
 - **(b)**
-  - **(1)** After conducting the reassessment required by subsection (a) with respect to a major defense acquisition program, the Secretary shall terminate the program unless the Secretary submits to Congress, before the end of the 60-day period beginning on the day the Selected Acquisition Report containing the information described in section 4375(d) and (e) of this title is required to be submitted under section 4356(a) of this title , a written certification in accordance with paragraph (2).
+  - **(1)** After conducting the reassessment required by subsection (a) with respect to a major defense acquisition program, the Secretary shall terminate the program unless the Secretary submits to Congress, before the end of the 60-day period beginning on the day the Selected Acquisition Report containing the information described in section 4375(d) and (e) of this title is required to be submitted under section 4351(f) of this title , a written certification in accordance with paragraph (2).
   - **(2)** A certification described by this paragraph with respect to a major defense acquisition program is a written certification that—
     - **(A)** the continuation of the program is essential to the national security;
     - **(B)** there are no alternatives to the program which will provide acceptable capability to meet the joint military requirement (as defined in section 181(g)(1) of this title ) at less cost;

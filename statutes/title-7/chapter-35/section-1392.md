@@ -3,9 +3,9 @@ title: "Section 1392 - Administrative expenses; posting names and compensation o
 usc_title: 7
 usc_section: "1392"
 chapter: 35
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 1392"
-generated_at: "2026-03-29T21:57:09.154Z"
+generated_at: "2026-03-29T22:03:15.378Z"
 ---
 
 # § 1392. Administrative expenses; posting names and compensation of local employees

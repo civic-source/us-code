@@ -3,9 +3,9 @@ title: "Section 30103 - Relationship to other laws"
 usc_title: 49
 usc_section: "30103"
 chapter: 301
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 30103"
-generated_at: "2026-03-29T22:02:02.740Z"
+generated_at: "2026-03-29T22:06:49.800Z"
 ---
 
 # § 30103. Relationship to other laws

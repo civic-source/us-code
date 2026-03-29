@@ -3,9 +3,9 @@ title: "Section 16131 - Educational assistance program: establishment; amount"
 usc_title: 10
 usc_section: "16131"
 chapter: 1606
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 16131"
-generated_at: "2026-03-29T21:57:05.017Z"
+generated_at: "2026-03-29T22:03:29.726Z"
 ---
 
 # § 16131. Educational assistance program: establishment; amount
@@ -80,3 +80,6 @@ generated_at: "2026-03-29T21:57:05.017Z"
   - **(1)** Subject to paragraph (3), the amount of educational assistance payable under this chapter for a licensing or certification test described in section 3452(b) of title 38 is the lesser of $2,000 or the fee charged for the test.
   - **(2)** The number of months of entitlement charged in the case of any individual for such licensing or certification test is equal to the number (including any fraction) determined by dividing the total amount of educational assistance paid such individual for such test by the full-time monthly institutional rate of educational assistance which, but for paragraph (1), such individual would otherwise be paid under subsection (b).
   - **(3)** In no event shall payment of educational assistance under this subsection for such a test exceed the amount of the individual’s available entitlement under this chapter.
+- **(k)**
+  - **(1)** In the case of an individual entitled to educational assistance under this chapter who is pursuing education or training described in subsection (a) or (c) of section 2007 of this title on a half-time or more basis, the Secretary concerned shall, at the election of the individual, pay the individual educational assistance allowance under this chapter for pursuit of such education or training as if the individual were not also eligible to receive or in receipt of educational assistance under section 2007 for pursuit of such education or training.
+  - **(2)** Concurrent receipt of educational assistance under section 2007 of this title and educational assistance under this chapter shall not be considered a duplication of benefits if the individual is enrolled in a program of education on a half-time or more basis.

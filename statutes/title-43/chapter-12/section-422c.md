@@ -3,9 +3,9 @@ title: "Section 422c - Proposals; submission; payment for cost of examination"
 usc_title: 43
 usc_section: "422c"
 chapter: 12
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "43 U.S.C. § 422c"
-generated_at: "2026-03-29T22:01:10.354Z"
+generated_at: "2026-03-29T22:05:55.015Z"
 ---
 
 # § 422c. Proposals; submission; payment for cost of examination

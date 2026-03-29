@@ -3,9 +3,9 @@ title: "Section 3405 - Task order contracts: advisory and assistance services"
 usc_title: 10
 usc_section: "3405"
 chapter: 245
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 3405"
-generated_at: "2026-03-29T21:57:04.915Z"
+generated_at: "2026-03-29T22:03:29.594Z"
 ---
 
 # § 3405. Task order contracts: advisory and assistance services
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T21:57:04.915Z"
 - **(c)** The period of a task order contract entered into under this section, including all periods of extensions of the contract under options, modifications, or otherwise, may not exceed five years unless a longer period is specifically authorized in a law that is applicable to such contract.
 - **(d)** The notice required by section 1708 of title 41 and section 8(e) of the Small Business Act ( 15 U.S.C. 637(e) ) shall reasonably and fairly describe the general scope, magnitude, and duration of the proposed task order contract in a manner that would reasonably enable a potential offeror to decide whether to request the solicitation and consider submitting an offer.
 - **(e)**
-  - **(1)** The solicitation for the proposed task order contract shall include the information (regarding services) described in 3403(b) 1 1 So in original. Probably should be preceded by “section”. of this title.
+  - **(1)** The solicitation for the proposed task order contract shall include the information (regarding services) described in section 3403(b) of this title .
   - **(2)** A task order contract entered into under this section shall contain the same information that is required by paragraph (1) to be included in the solicitation of offers for that contract.
 - **(f)**
   - **(1)** The head of an agency may, on the basis of one solicitation, award separate task order contracts under this section for the same or similar services to two or more sources if the solicitation states that the head of the agency has the option to do so.

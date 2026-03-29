@@ -3,9 +3,9 @@ title: "Section 131 - Office of the Secretary of Defense"
 usc_title: 10
 usc_section: "131"
 chapter: 4
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 131"
-generated_at: "2026-03-29T21:57:04.675Z"
+generated_at: "2026-03-29T22:03:29.340Z"
 ---
 
 # § 131. Office of the Secretary of Defense
@@ -35,7 +35,7 @@ generated_at: "2026-03-29T21:57:04.675Z"
     - **(C)** The official designated under section 1501(a) of this title to have responsibility for Department of Defense matters relating to missing persons as set forth in section 1501 of this title .
     - **(D)** The Director of Military Family Readiness Policy under section 1781 of this title .
     - **(E)** The Director of the Office of Corrosion Policy and Oversight assigned pursuant to section 2228(a) of this title .
-    - **(F)** The official designated under section 2438(a) of this title to have responsibility for conducting and overseeing performance assessments and root cause analyses for major defense acquisition programs.
+    - **(F)** The official designated under section 4273(a) of this title to have responsibility for conducting and overseeing performance assessments and root cause analyses for major defense acquisition programs.
   - **(9)** Such other offices and officials as may be established by law or the Secretary of Defense may establish or designate in the Office.
 - **(c)** Officers of the armed forces may be assigned or detailed to permanent duty in the Office of the Secretary of Defense. However, the Secretary may not establish a military staff in the Office of the Secretary of Defense.
 - **(d)** The Secretary of each military department, and the civilian employees and members of the armed forces under the jurisdiction of the Secretary, shall cooperate fully with personnel of the Office of the Secretary of Defense to achieve efficient administration of the Department of Defense and to carry out effectively the authority, direction, and control of the Secretary of Defense.

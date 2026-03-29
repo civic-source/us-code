@@ -3,9 +3,9 @@ title: "Section 1906 - Participation in Federal, State, or other educational res
 usc_title: 14
 usc_section: "1906"
 chapter: 19
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "14 U.S.C. § 1906"
-generated_at: "2026-03-29T21:57:13.764Z"
+generated_at: "2026-03-29T22:03:34.060Z"
 ---
 
 # § 1906. Participation in Federal, State, or other educational research grants
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T21:57:13.764Z"
     - **(A)** enter into a contract, cooperative agreement, lease, or licensing agreement with a qualified organization;
     - **(B)** allow a qualified organization to use, at no cost, personal property of the Coast Guard; and
     - **(C)** notwithstanding section 504, accept funds, supplies, and services from a qualified organization.
-  - **(2)** Notwithstanding chapter 65 of title 31 and chapter 137 of title 10, the Commandant may enter into a contract or cooperative agreement under paragraph (1)(A) on a sole-source basis.
+  - **(2)** Notwithstanding chapter 65 of title 31 and sections 3201 through 3205 of title 10, the Commandant may enter into a contract or cooperative agreement under paragraph (1)(A) on a sole-source basis.
   - **(3)** The Commandant shall ensure that contributions under this subsection do not—
     - **(A)** reflect unfavorably on the ability of the Coast Guard, any of its employees, or any member of the armed forces to carry out any responsibility or duty in a fair and objective manner; or
     - **(B)** compromise the integrity or appearance of integrity of any program of the Coast Guard, or any individual involved in such a program.

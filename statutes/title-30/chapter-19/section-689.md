@@ -3,9 +3,9 @@ title: "Section 689 - Omitted"
 usc_title: 30
 usc_section: "689"
 chapter: 19
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "30 U.S.C. § 689"
-generated_at: "2026-03-29T21:59:13.774Z"
+generated_at: "2026-03-29T22:05:11.616Z"
 ---
 
 # §§ 681 to 689. Omitted

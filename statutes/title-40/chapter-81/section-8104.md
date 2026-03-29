@@ -3,9 +3,9 @@ title: "Section 8104 - Regulation of private and semipublic buildings adjacent t
 usc_title: 40
 usc_section: "8104"
 chapter: 81
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "40 U.S.C. § 8104"
-generated_at: "2026-03-29T21:59:59.241Z"
+generated_at: "2026-03-29T22:05:34.873Z"
 ---
 
 # § 8104. Regulation of private and semipublic buildings adjacent to public buildings and grounds

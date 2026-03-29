@@ -3,9 +3,9 @@ title: "Section 8287 - Authority to enter into contracts"
 usc_title: 42
 usc_section: "8287"
 chapter: 91
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 8287"
-generated_at: "2026-03-29T22:01:08.203Z"
+generated_at: "2026-03-29T22:06:33.023Z"
 ---
 
 # § 8287. Authority to enter into contracts
@@ -62,5 +62,5 @@ generated_at: "2026-03-29T22:01:08.203Z"
     - **(E)** providing a debriefing to any contractor not selected under subparagraph (D);
     - **(F)** negotiating a task or delivery order for energy savings performance contracting services with the contractor or contractors selected under subparagraph (D) based on the energy conservation measures identified; and
     - **(G)** issuing a task or delivery order for energy savings performance contracting services to such contractor or contractors.
-  - **(2)** The issuance of a task or delivery order for energy savings performance contracting services pursuant to paragraph (1) is deemed to satisfy the task and delivery order competition requirements in section 2304c(d) of title 10 and section 4106(d) of title 41 .
+  - **(2)** The issuance of a task or delivery order for energy savings performance contracting services pursuant to paragraph (1) is deemed to satisfy the task and delivery order competition requirements in section 3406(d) of title 10 and section 4106(d) of title 41 .
   - **(3)** The Secretary may issue guidance as necessary to agencies issuing task or delivery orders pursuant to paragraph (1).

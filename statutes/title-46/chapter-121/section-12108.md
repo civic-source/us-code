@@ -3,9 +3,9 @@ title: "Section 12108 - Authority to extend duration of vessel certificates"
 usc_title: 46
 usc_section: "12108"
 chapter: 121
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 12108"
-generated_at: "2026-03-29T22:01:37.269Z"
+generated_at: "2026-03-29T22:06:41.424Z"
 ---
 
 # § 12108. Authority to extend duration of vessel certificates

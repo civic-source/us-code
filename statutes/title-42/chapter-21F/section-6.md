@@ -3,9 +3,9 @@ title: "Section 6 - Remedies and enforcement"
 usc_title: 42
 usc_section: "6"
 chapter: 21
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-29T22:01:07.767Z"
+generated_at: "2026-03-29T22:06:32.607Z"
 ---
 
 # § 2000ff–6. Remedies and enforcement

@@ -1,23 +1,12 @@
 ---
-title: "Section 2354 - Contracts: indemnification provisions"
+title: "Section 2354 - Renumbered § 3861]"
 usc_title: 10
 usc_section: "2354"
 chapter: 139
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2354"
-generated_at: "2026-03-29T21:57:04.849Z"
+generated_at: "2026-03-29T22:03:29.534Z"
 ---
 
-# § 2354. Contracts: indemnification provisions
+# [§ 2354. Renumbered § 3861]
 
-- **(a)** With the approval of the Secretary of the military department concerned, any contract of a military department for research or development, or both, may provide that the United States will indemnify the contractor against either or both of the following, but only to the extent that they arise out of the direct performance of the contract and to the extent not compensated by insurance or otherwise:
-  - **(1)** Claims (including reasonable expenses of litigation or settlement) by third persons, including employees of the contractor, for death, bodily injury, or loss of or damage to property, from a risk that the contract defines as unusually hazardous.
-  - **(2)** Loss of or damage to property of the contractor from a risk that the contract defines as unusually hazardous.
-- **(b)** A contract, made under subsection (a), that provides for indemnification must also provide for—
-  - **(1)** notice to the United States of any claim or suit against the contractor for the death, bodily injury, or loss of or damage to property; and
-  - **(2)** control of or assistance in the defense by the United States, at its election, of that suit or claim.
-- **(c)** No payment may be made under subsection (a) unless the Secretary of the department concerned, or an officer or official of his department designated by him, certifies that the amount is just and reasonable.
-- **(d)** Upon approval by the Secretary concerned, payments under subsection (a) may be made from—
-  - **(1)** funds obligated for the performance of the contract concerned;
-  - **(2)** funds available for research or development, or both, and not otherwise obligated; or
-  - **(3)** funds appropriated for those payments.

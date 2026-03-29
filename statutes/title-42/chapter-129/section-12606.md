@@ -3,9 +3,9 @@ title: "Section 12606 - Approval process for approved positions"
 usc_title: 42
 usc_section: "12606"
 chapter: 129
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 12606"
-generated_at: "2026-03-29T22:01:08.410Z"
+generated_at: "2026-03-29T22:06:33.205Z"
 ---
 
 # § 12606. Approval process for approved positions

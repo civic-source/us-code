@@ -3,9 +3,9 @@ title: "Section 18405 - Commercial Reusable Suborbital Research Program"
 usc_title: 42
 usc_section: "18405"
 chapter: 159
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 18405"
-generated_at: "2026-03-29T22:01:08.648Z"
+generated_at: "2026-03-29T22:06:33.418Z"
 ---
 
 # § 18405. Commercial Reusable Suborbital Research Program

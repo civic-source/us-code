@@ -3,9 +3,9 @@ title: "Section 1557o - Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(6)
 usc_title: 22
 usc_section: "1557o"
 chapter: 19
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 1557o"
-generated_at: "2026-03-29T21:58:43.093Z"
+generated_at: "2026-03-29T22:04:38.351Z"
 ---
 
 # §§ 1557m to 1557o. Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(6), 68 Stat. 861

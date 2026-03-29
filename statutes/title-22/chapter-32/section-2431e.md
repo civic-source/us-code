@@ -3,9 +3,9 @@ title: "Section 2431e - Reduction of debt owed to United States as result of cre
 usc_title: 22
 usc_section: "2431e"
 chapter: 32
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 2431e"
-generated_at: "2026-03-29T21:58:43.156Z"
+generated_at: "2026-03-29T22:04:38.416Z"
 ---
 
 # § 2431e. Reduction of debt owed to United States as result of credits extended under title I of Food for Peace Act

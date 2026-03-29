@@ -3,9 +3,9 @@ title: "Section 838b - Operation and maintenance of Federal transmission system;
 usc_title: 16
 usc_section: "838b"
 chapter: 12
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 838b"
-generated_at: "2026-03-29T21:58:32.813Z"
+generated_at: "2026-03-29T22:04:21.596Z"
 ---
 
 # § 838b. Operation and maintenance of Federal transmission system; construction of improvements, betterments, additions and replacements; criteria

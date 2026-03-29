@@ -3,9 +3,9 @@ title: "Section 3519b - Special rules for certain individuals injured by reason 
 usc_title: 50
 usc_section: "3519b"
 chapter: 46
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 3519b"
-generated_at: "2026-03-29T22:01:35.082Z"
+generated_at: "2026-03-29T22:06:44.488Z"
 ---
 
 # § 3519b. Special rules for certain individuals injured by reason of war, insurgency, hostile act, terrorist activities, or incidents designated by the Director

@@ -1,14 +1,12 @@
 ---
-title: "Section 2302b - Implementation of simplified acquisition procedures"
+title: "Section 2302b - Renumbered § 3572]"
 usc_title: 10
 usc_section: "2302b"
 chapter: 137
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2302b"
-generated_at: "2026-03-29T21:57:04.831Z"
+generated_at: "2026-03-29T22:03:29.528Z"
 ---
 
-# § 2302b. Implementation of simplified acquisition procedures
-
-The simplified acquisition procedures contained in the Federal Acquisition Regulation pursuant to section 1901 of title 41 shall apply as provided in such section to the agencies named in section 2303(a) of this title .
+# [§ 2302b. Renumbered § 3572]
 

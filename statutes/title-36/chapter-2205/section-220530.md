@@ -3,9 +3,9 @@ title: "Section 220530 - Other amateur sports organizations"
 usc_title: 36
 usc_section: "220530"
 chapter: 2205
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "36 U.S.C. § 220530"
-generated_at: "2026-03-29T22:00:07.862Z"
+generated_at: "2026-03-29T22:05:42.326Z"
 ---
 
 # § 220530. Other amateur sports organizations

@@ -3,9 +3,9 @@ title: "Section 130j - Transferred"
 usc_title: 2
 usc_section: "130j"
 chapter: 4
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 130j"
-generated_at: "2026-03-29T21:56:43.319Z"
+generated_at: "2026-03-29T22:03:02.373Z"
 ---
 
 # § 130j. Transferred

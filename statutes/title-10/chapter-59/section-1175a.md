@@ -3,9 +3,9 @@ title: "Section 1175a - Voluntary separation pay and benefits"
 usc_title: 10
 usc_section: "1175a"
 chapter: 59
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1175a"
-generated_at: "2026-03-29T21:57:04.765Z"
+generated_at: "2026-03-29T22:03:29.456Z"
 ---
 
 # § 1175a. Voluntary separation pay and benefits
@@ -35,7 +35,7 @@ generated_at: "2026-03-29T21:57:04.765Z"
   - **(1)** A member of the armed forces who is separated from active duty under subsection (c) shall be paid voluntary separation pay in accordance with subsection (g) in an amount determined by the Secretary concerned pursuant to subsection (f).
   - **(2)** A member who is not entitled to retired or retainer pay upon separation shall be entitled to the benefits and services provided under—
     - **(A)** chapter 58 of this title during the 180-day period beginning on the date the member is separated (notwithstanding any termination date for such benefits and services otherwise applicable under the provisions of such chapter); and
-    - **(B)** sections 474 and 476 of title 37.
+    - **(B)** sections 474 and 476 1 1 See References in Text note below. of title 37.
 - **(f)** The Secretary concerned shall specify the amount of voluntary separation pay that an individual or defined group of members of the armed forces may be paid under subsection (e)(1). No member may receive as voluntary separation pay an amount greater than four times the full amount of separation pay for a member of the same pay grade and years of service who is involuntarily separated under section 1174 of this title .
 - **(g)**
   - **(1)** Voluntary separation pay under this section may be paid in a single lump sum.

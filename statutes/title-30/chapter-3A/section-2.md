@@ -3,9 +3,9 @@ title: "Section 2 - Limitations for filing oil and gas contests"
 usc_title: 30
 usc_section: "2"
 chapter: 3
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "30 U.S.C. § 2"
-generated_at: "2026-03-29T21:59:13.766Z"
+generated_at: "2026-03-29T22:05:11.608Z"
 ---
 
 # § 226–2. Limitations for filing oil and gas contests

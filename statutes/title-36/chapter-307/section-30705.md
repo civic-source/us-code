@@ -3,9 +3,9 @@ title: "Section 30705 - Powers"
 usc_title: 36
 usc_section: "30705"
 chapter: 307
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "36 U.S.C. § 30705"
-generated_at: "2026-03-29T22:00:07.826Z"
+generated_at: "2026-03-29T22:05:42.286Z"
 ---
 
 # § 30705. Powers

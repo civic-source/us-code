@@ -3,9 +3,9 @@ title: "Section 7651f - Nitrogen oxides emission reduction program"
 usc_title: 42
 usc_section: "7651f"
 chapter: 85
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 7651f"
-generated_at: "2026-03-29T22:01:08.168Z"
+generated_at: "2026-03-29T22:06:32.988Z"
 ---
 
 # § 7651f. Nitrogen oxides emission reduction program

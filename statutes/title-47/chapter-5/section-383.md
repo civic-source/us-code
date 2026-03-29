@@ -3,9 +3,9 @@ title: "Section 383 - Exemptions by Commission"
 usc_title: 47
 usc_section: "383"
 chapter: 5
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "47 U.S.C. § 383"
-generated_at: "2026-03-29T22:01:22.954Z"
+generated_at: "2026-03-29T22:06:39.468Z"
 ---
 
 # § 383. Exemptions by Commission

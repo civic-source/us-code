@@ -3,9 +3,9 @@ title: "Section 426 - Agreements with Indians not affected"
 usc_title: 25
 usc_section: "426"
 chapter: 13
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "25 U.S.C. § 426"
-generated_at: "2026-03-29T21:58:48.129Z"
+generated_at: "2026-03-29T22:04:31.491Z"
 ---
 
 # § 426. Agreements with Indians not affected

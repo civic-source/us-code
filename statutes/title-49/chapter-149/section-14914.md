@@ -3,9 +3,9 @@ title: "Section 14914 - Civil penalty procedures"
 usc_title: 49
 usc_section: "14914"
 chapter: 149
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 14914"
-generated_at: "2026-03-29T22:02:02.705Z"
+generated_at: "2026-03-29T22:06:49.755Z"
 ---
 
 # § 14914. Civil penalty procedures

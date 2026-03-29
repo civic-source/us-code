@@ -3,9 +3,9 @@ title: "Section 1926 - Authorization of appropriations"
 usc_title: 42
 usc_section: "1926"
 chapter: 18
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 1926"
-generated_at: "2026-03-29T22:01:07.738Z"
+generated_at: "2026-03-29T22:06:32.580Z"
 ---
 
 # § 1926. Authorization of appropriations

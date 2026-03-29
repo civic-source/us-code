@@ -3,9 +3,9 @@ title: "Section 3203 - Exclusion of particular source or restriction of solicita
 usc_title: 10
 usc_section: "3203"
 chapter: 221
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 3203"
-generated_at: "2026-03-29T21:57:04.911Z"
+generated_at: "2026-03-29T22:03:29.590Z"
 ---
 
 # § 3203. Exclusion of particular source or restriction of solicitation to small business concerns
@@ -20,4 +20,4 @@ generated_at: "2026-03-29T21:57:04.911Z"
     - **(F)** in the case of medical supplies, safety supplies, or emergency supplies, would satisfy a critical need for such supplies.
   - **(2)** A determination under paragraph (1) may not be made for a class of purchases or contracts.
 - **(b)** The head of an agency may provide for the procurement of property or services covered by chapter 137 legacy provisions using competitive procedures, but excluding concerns other than small business concerns in furtherance of sections 9 and 15 of the Small Business Act ( 15 U.S.C. 638 , 644).
-- **(c)** A contract awarded pursuant to the competitive procedures referred to in paragraphs (1) and (2) shall not be subject to the justification and approval required by section 3204(e)(1) of this title .
+- **(c)** A contract awarded pursuant to the competitive procedures referred to in subsections (a)(1) and (b) shall not be subject to the justification and approval required by section 3204(e)(1) of this title .

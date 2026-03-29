@@ -3,9 +3,9 @@ title: "Section 3403 - Task and delivery order contracts: general authority"
 usc_title: 10
 usc_section: "3403"
 chapter: 245
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 3403"
-generated_at: "2026-03-29T21:57:04.915Z"
+generated_at: "2026-03-29T22:03:29.594Z"
 ---
 
 # § 3403. Task and delivery order contracts: general authority
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T21:57:04.915Z"
   - **(1)** The period of the contract, including the number of options to extend the contract and the period for which the contract may be extended under each option, if any.
   - **(2)** The maximum quantity or dollar value of the services or property to be procured under the contract.
   - **(3)** A statement of work, specifications, or other description that reasonably describes the general scope, nature, complexity, and purposes of the services or property to be procured under the contract.
-- **(c)** The head of an agency may use procedures other than competitive procedures to enter into a task or delivery order contract under this 1 1 So in original. Probably should be followed by “section”. only if—
+- **(c)** The head of an agency may use procedures other than competitive procedures to enter into a task or delivery order contract under this section only if—
   - **(1)** an exception in subsection (a) of section 3204 of this title applies to the contract; and
   - **(2)** the use of such procedures is approved in accordance with subsection (e) of such section.
 - **(d)**

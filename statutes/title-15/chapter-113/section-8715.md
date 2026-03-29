@@ -3,9 +3,9 @@ title: "Section 8715 - Limitations on obligation of funds"
 usc_title: 15
 usc_section: "8715"
 chapter: 113
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 8715"
-generated_at: "2026-03-29T21:57:53.051Z"
+generated_at: "2026-03-29T22:03:57.293Z"
 ---
 
 # § 8715. Limitations on obligation of funds

@@ -3,9 +3,9 @@ title: "Section 1502 - Cost accounting standards"
 usc_title: 41
 usc_section: "1502"
 chapter: 15
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "41 U.S.C. § 1502"
-generated_at: "2026-03-29T22:00:33.731Z"
+generated_at: "2026-03-29T22:05:51.567Z"
 ---
 
 # § 1502. Cost accounting standards
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T22:00:33.731Z"
 - **(b)**
   - **(1)**
     - **(A)** In this paragraph, the term “subcontract” includes a transfer of commercial products or commercial services between divisions, subsidiaries, or affiliates of a contractor or subcontractor.
-    - **(B)** Cost accounting standards prescribed under this chapter are mandatory for use by all executive agencies and by contractors and subcontractors in estimating, accumulating, and reporting costs in connection with the pricing and administration of, and settlement of disputes concerning, all negotiated prime contract and subcontract procurements with the Federal Government in excess of the amount set forth in section 2306a(a)(1)(A)(i) of title 10 as the amount is adjusted in accordance with applicable requirements of law.
+    - **(B)** Cost accounting standards prescribed under this chapter are mandatory for use by all executive agencies and by contractors and subcontractors in estimating, accumulating, and reporting costs in connection with the pricing and administration of, and settlement of disputes concerning, all negotiated prime contract and subcontract procurements with the Federal Government in excess of the amount set forth in section 3702(a)(1)(A) of title 10 as the amount is adjusted in accordance with applicable requirements of law.
     - **(C)** Subparagraph (B) does not apply to—
       - **(i)** a contract or subcontract for the acquisition of a commercial product or commercial service;
       - **(ii)** a contract or subcontract where the price negotiated is based on a price set by law or regulation;

@@ -3,9 +3,9 @@ title: "Section 101 - Definitions"
 usc_title: 10
 usc_section: "101"
 chapter: 1
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 101"
-generated_at: "2026-03-29T21:57:04.666Z"
+generated_at: "2026-03-29T22:03:29.327Z"
 ---
 
 # § 101. Definitions
@@ -47,6 +47,8 @@ generated_at: "2026-03-29T21:57:04.666Z"
     - **(B)** The Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510 ; 10 U.S.C. 2687 note).
     - **(C)** Title II of the Defense Authorization Amendments and Base Closure and Realignment Act ( Public Law 100–526 ; 10 U.S.C. 2687 note).
   - **(18)** The term “acquisition workforce” means the persons serving in acquisition positions within the Department of Defense, as designated pursuant to section 1721(a) of this title .
+  - **(19)** The term “climate resilience” means the capability to avoid, prepare for, minimize the effect of, adapt to, and recover from, extreme weather, or from anticipated or unanticipated changes in environmental conditions, that do (or have the potential to) adversely affect the national security of the United States or of allies and partners of the United States.
+  - **(20)** The term “extreme weather” means recurrent flooding, drought, desertification, wildfires, thawing permafrost, sea level fluctuation, changes in mean high tides, or any other weather-related event, or anticipated change in environmental conditions, that present (or are projected to present) a recurring annual threat to the climate security of the United States or of allies and partners of the United States.
 - **(b)** The following definitions relating to military personnel apply in this title:
   - **(1)** The term “officer” means a commissioned or warrant officer.
   - **(2)** The term “commissioned officer” includes a commissioned warrant officer.

@@ -3,9 +3,9 @@ title: "Section 1701a - Management for acquisition workforce excellence"
 usc_title: 10
 usc_section: "1701a"
 chapter: 87
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1701a"
-generated_at: "2026-03-29T21:57:04.800Z"
+generated_at: "2026-03-29T22:03:29.494Z"
 ---
 
 # § 1701a. Management for acquisition workforce excellence
@@ -14,10 +14,10 @@ generated_at: "2026-03-29T21:57:04.800Z"
   - **(1)** in which excellence and contribution to mission is rewarded;
   - **(2)** which has the technical expertise and business skills to ensure the Department receives the best value for the expenditure of public resources;
   - **(3)** which serves as a model for performance management of employees of the Department; and
-  - **(4)** which is managed in a manner that complements and reinforces the management of the defense acquisition system pursuant to chapter 149 of this title.
+  - **(4)** which is managed in a manner that complements and reinforces the management of the defense acquisition system pursuant to chapter 205 of this title.
 - **(b)** In order to achieve the purpose set forth in subsection (a), the Secretary of Defense shall—
   - **(1)** use the full authorities provided in subsections (a) through (d) of section 9902 of title 5 , including flexibilities related to performance management and hiring and to training of managers;
-  - **(2)** require managers to develop performance plans for individual members of the acquisition workforce in order to give members an understanding of how their performance contributes to their organization’s mission and the success of the defense acquisition system (as defined in section 2545 of this title );
+  - **(2)** require managers to develop performance plans for individual members of the acquisition workforce in order to give members an understanding of how their performance contributes to their organization’s mission and the success of the defense acquisition system (as defined in section 2545 1 1 See References in Text note below. of this title);
   - **(3)** to the extent appropriate, use the lessons learned from the acquisition demonstration project carried out under section 1762 of this title related to contribution-based compensation and appraisal, and how those lessons may be applied within the General Schedule system;
   - **(4)** develop and implement a career path, as described in section 1722(a) of this title , for each career field designated by the Secretary under section 1721(a) of this title as an acquisition workforce career field;
   - **(5)** direct continuing education and training;

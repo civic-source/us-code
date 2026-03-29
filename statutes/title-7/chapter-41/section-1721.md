@@ -3,9 +3,9 @@ title: "Section 1721 - General authority"
 usc_title: 7
 usc_section: "1721"
 chapter: 41
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 1721"
-generated_at: "2026-03-29T21:57:09.195Z"
+generated_at: "2026-03-29T22:03:15.430Z"
 ---
 
 # § 1721. General authority

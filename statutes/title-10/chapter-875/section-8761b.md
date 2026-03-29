@@ -3,9 +3,9 @@ title: "Section 8761b - Authority to make grants for purposes of Naval Sea Cadet
 usc_title: 10
 usc_section: "8761b"
 chapter: 875
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 8761b"
-generated_at: "2026-03-29T21:57:04.980Z"
+generated_at: "2026-03-29T22:03:29.676Z"
 ---
 
 # § 8761b. Authority to make grants for purposes of Naval Sea Cadet Corps

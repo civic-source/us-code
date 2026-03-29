@@ -3,9 +3,9 @@ title: "Section 393 - Reporting on penetrations of networks and information syst
 usc_title: 10
 usc_section: "393"
 chapter: 19
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 393"
-generated_at: "2026-03-29T21:57:04.695Z"
+generated_at: "2026-03-29T22:03:29.366Z"
 ---
 
 # § 393. Reporting on penetrations of networks and information systems of certain contractors
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T21:57:04.695Z"
     - **(A)** The Under Secretary of Defense for Policy.
     - **(B)** The Under Secretary of Defense for Acquisition and Sustainment.
     - **(C)** the Under Secretary of Defense for Research and Engineering.
-    - **(D)** The Under Secretary of Defense for Intelligence and Security 1 1 So in original. Probably should be followed by a period.
+    - **(D)** The Under Secretary of Defense for Intelligence and Security.
     - **(E)** The Chief Information Officer of the Department of Defense.
     - **(F)** The Commander of the United States Cyber Command.
 - **(c)**

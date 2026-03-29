@@ -3,9 +3,9 @@ title: "Section 2786 - Enhanced procurement authority to manage supply chain ris
 usc_title: 50
 usc_section: "2786"
 chapter: 42
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 2786"
-generated_at: "2026-03-29T22:01:35.021Z"
+generated_at: "2026-03-29T22:06:44.438Z"
 ---
 
 # § 2786. Enhanced procurement authority to manage supply chain risk
@@ -54,4 +54,4 @@ generated_at: "2026-03-29T22:01:35.021Z"
     - **(E)** Items associated with the design and development of nonproliferation and counterproliferation programs and systems.
   - **(6)** The term “special exclusion action” means an action to prohibit, for a period not to exceed two years, the award of any contracts or subcontracts by the Administration or any other component of the Department of Energy related to any covered system to a source the Secretary determines to represent a supply chain risk.
   - **(7)** The term “supply chain risk” means the risk that an adversary may sabotage, maliciously introduce unwanted function, or otherwise subvert the design, integrity, manufacturing, production, distribution, installation, operation, or maintenance of a covered system or covered item of supply so as to surveil, deny, disrupt, or otherwise degrade the function, use, or operation of the system or item of supply.
-- **(g)** The authority under this section shall terminate on June 30, 2023 .
+- **(g)** The authority under this section shall terminate on December 31, 2028 .

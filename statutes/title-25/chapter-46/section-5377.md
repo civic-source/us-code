@@ -3,9 +3,9 @@ title: "Section 5377 - Authorization of appropriations"
 usc_title: 25
 usc_section: "5377"
 chapter: 46
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "25 U.S.C. § 5377"
-generated_at: "2026-03-29T21:58:48.237Z"
+generated_at: "2026-03-29T22:04:31.637Z"
 ---
 
 # § 5377. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 1073c - Administration of Defense Health Agency and military med
 usc_title: 10
 usc_section: "1073c"
 chapter: 55
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1073c"
-generated_at: "2026-03-29T21:57:04.746Z"
+generated_at: "2026-03-29T22:03:29.430Z"
 ---
 
 # § 1073c. Administration of Defense Health Agency and military medical treatment facilities
@@ -61,7 +61,7 @@ generated_at: "2026-03-29T21:57:04.746Z"
   - **(4)**
     - **(A)** There is in the Defense Health Agency a Deputy Assistant Director for Medical Affairs.
     - **(B)** The Deputy Assistant Director for Medical Affairs shall be responsible for policy, procedures, and direction of clinical quality and process improvement, patient safety, infection control, graduate medical education, clinical integration, utilization review, risk management, patient experience, and civilian physician recruiting at military medical treatment facilities.
-  - **(5)** Each Deputy Assistant Director appointed under paragraphs (1) through (4) shall report directly to the Assistant Director for Health Care Administration.
+  - **(5)** Each Deputy Assistant Director appointed under paragraph (3) or (4) shall report directly to the Assistant Director for Health Care Administration.
 - **(d)**
   - **(1)** In addition to the other duties of the Director of the Defense Health Agency, the Director shall coordinate with the Joint Staff Surgeon to ensure that the Director most effectively carries out the responsibilities of the Defense Health Agency as a combat support agency under section 193 of this title .
   - **(2)** The responsibilities of the Director shall include the following:
@@ -76,10 +76,11 @@ generated_at: "2026-03-29T21:57:04.746Z"
   - **(2)** A subordinate organization, to be called the Defense Health Agency Public Health—
     - **(A)** led, at the election of the Director, by a director or commander (to be called the Director or Commander of Defense Health Agency Public Health); and
     - **(B)** comprised of the Army Public Health Command, the Navy–Marine Corps Public Health Command, Air Force public health programs, and any other related defense health activities that the Secretary considers appropriate, including overseas laboratories focused on preventive medicine, environmental health, and similar matters.
-- **(f)** In implementing this section—
+- **(f)** In establishing the Defense Health Agency Research and Development pursuant to subsection (e)(1), and on a basis that is not less frequent than semiannually thereafter, the Secretary of Defense shall carry out recurring consultations with each military department regarding the plans and requirements for military medical research organizations and activities of the military department.
+- **(g)** In implementing this section—
   - **(1)** the Department of Defense shall be considered a single agency for purposes of civilian personnel assignment under title 5; and
   - **(2)** the Secretary of Defense may reassign any employee of a component of the Department of Defense or a military department in a position in the civil service (as defined in section 2101 of title 5 ) to any other component of the Department of Defense or military department.
-- **(g)** In this section:
+- **(h)** In this section:
   - **(1)** The term “career appointee” has the meaning given that term in section 3132(a)(4) of title 5 .
   - **(2)** The term “Defense Health Agency” means the Defense Agency established pursuant to Department of Defense Directive 5136.13, or such successor Defense Agency.
   - **(3)** The term “military medical treatment facility” means—

@@ -3,9 +3,9 @@ title: "Section 749 - Voidable transfers"
 usc_title: 11
 usc_section: "749"
 chapter: 7
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "11 U.S.C. § 749"
-generated_at: "2026-03-29T21:57:30.574Z"
+generated_at: "2026-03-29T22:03:34.987Z"
 ---
 
 # § 749. Voidable transfers

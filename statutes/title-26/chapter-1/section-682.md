@@ -3,9 +3,9 @@ title: "Section 682 - Repealed. Pub. L. 115–97, title I, § 11051(b)(1)(C) , D
 usc_title: 26
 usc_section: "682"
 chapter: 1
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 682"
-generated_at: "2026-03-29T21:59:41.460Z"
+generated_at: "2026-03-29T22:05:10.538Z"
 ---
 
 # [§ 682. Repealed. Pub. L. 115–97, title I, § 11051(b)(1)(C) , Dec. 22, 2017 , 131 Stat. 2089 ]

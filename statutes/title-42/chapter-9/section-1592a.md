@@ -3,9 +3,9 @@ title: "Section 1592a - Construction of housing"
 usc_title: 42
 usc_section: "1592a"
 chapter: 9
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 1592a"
-generated_at: "2026-03-29T22:01:07.678Z"
+generated_at: "2026-03-29T22:06:32.529Z"
 ---
 
 # § 1592a. Construction of housing

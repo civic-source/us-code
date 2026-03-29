@@ -3,9 +3,9 @@ title: "Section 341 - Meetings of creditors and equity security holders"
 usc_title: 11
 usc_section: "341"
 chapter: 3
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "11 U.S.C. § 341"
-generated_at: "2026-03-29T21:57:30.558Z"
+generated_at: "2026-03-29T22:03:34.966Z"
 ---
 
 # § 341. Meetings of creditors and equity security holders

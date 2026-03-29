@@ -3,9 +3,9 @@ title: "Section 2370 - Prohibitions against furnishing assistance"
 usc_title: 22
 usc_section: "2370"
 chapter: 32
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 2370"
-generated_at: "2026-03-29T21:58:43.140Z"
+generated_at: "2026-03-29T22:04:38.402Z"
 ---
 
 # § 2370. Prohibitions against furnishing assistance
@@ -35,7 +35,9 @@ generated_at: "2026-03-29T21:58:43.140Z"
 - **(n)**
 - **(o)** In determining whether or not to furnish assistance under this chapter, consideration shall be given to excluding from such assistance any country which hereafter seizes, or imposes any penalty or sanction against, any United States fishing vessel on account of its fishing activities in international waters. The provisions of this subsection shall not be applicable in any case governed by international agreement to which the United States is a party.
 - **(p)**
-- **(q)** No assistance shall be furnished under this chapter to any country which is in default, during a period in excess of six calendar months, in payment to the United States of principal or interest on any loan made to such country under this chapter, unless such country meets its obligations under the loan or unless the President determines that assistance to such country is in the national interest and notifies the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate of such determination.
+- **(q)**
+  - **(1)** No assistance shall be furnished under this chapter to the government of any country which is in default, during a period in excess of six calendar months, in payment to the United States of principal or interest on any loan made to the government of such country under this chapter, unless the government of such country meets its obligations under the loan or unless the President determines, after consultation with the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate, that assistance for such country is in the national interest of the United States.
+  - **(2)** No assistance shall be furnished under this chapter, the Peace Corps Act [ 22 U.S.C. 2501 et seq.], the Millennium Challenge Act of 2003 [ 22 U.S.C. 7701 et seq.], the African Development Foundation Act [ 22 U.S.C. 290h et seq.], the BUILD Act of 2018 [ 22 U.S.C. 9601 et seq.], section 5854 of this title , or section 2763 of this title to the government of any country which is in default during a period in excess of 1 calendar year in payment to the United States of principal or interest or any loan made to the government of such country by the United States unless the President determines, following consultation with the congressional committees specified in paragraph (1), that assistance for such country is in the national interest of the United States.
 - **(r)** No recipient of a loan made under the authority of this chapter, any part of which is outstanding on or after September 19, 1966 , shall be relieved of liability for the repayment of any part of the principal of or interest on such loan.
 - **(s)**
   - **(1)** In order to restrain arms races and proliferation of sophisticated weapons, and to ensure that resources intended for economic development are not diverted to military purposes, the President shall take into account before furnishing development loans, Alliance loans or supporting assistance to any country under this chapter, and before making sales under the Food for Peace Act, as amended [ 7 U.S.C. 1691 et seq.]:

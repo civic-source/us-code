@@ -3,9 +3,9 @@ title: "Section 3034 - Officer candidates"
 usc_title: 33
 usc_section: "3034"
 chapter: 43
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 3034"
-generated_at: "2026-03-29T21:59:51.512Z"
+generated_at: "2026-03-29T22:05:25.117Z"
 ---
 
 # § 3034. Officer candidates

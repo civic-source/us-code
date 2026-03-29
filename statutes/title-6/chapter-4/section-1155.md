@@ -3,9 +3,9 @@ title: "Section 1155 - Security awareness program"
 usc_title: 6
 usc_section: "1155"
 chapter: 4
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "6 U.S.C. § 1155"
-generated_at: "2026-03-29T21:56:51.812Z"
+generated_at: "2026-03-29T22:03:07.720Z"
 ---
 
 # § 1155. Security awareness program

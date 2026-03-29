@@ -3,9 +3,9 @@ title: "Section 13701 - Requirements for reasonable rates, classifications, thro
 usc_title: 49
 usc_section: "13701"
 chapter: 137
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 13701"
-generated_at: "2026-03-29T22:02:02.694Z"
+generated_at: "2026-03-29T22:06:49.739Z"
 ---
 
 # § 13701. Requirements for reasonable rates, classifications, through routes, rules, and practices for certain transportation

@@ -3,9 +3,9 @@ title: "Section 902 - Repealed. Pub. L. 93–197, § 3(b) , Dec. 22, 1973 , 87 S
 usc_title: 25
 usc_section: "902"
 chapter: 14
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "25 U.S.C. § 902"
-generated_at: "2026-03-29T21:58:48.134Z"
+generated_at: "2026-03-29T22:04:31.498Z"
 ---
 
 # § 902. Repealed. Pub. L. 93–197, § 3(b) , Dec. 22, 1973 , 87 Stat. 770

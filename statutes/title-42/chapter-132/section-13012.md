@@ -3,9 +3,9 @@ title: "Section 13012 - Transferred"
 usc_title: 42
 usc_section: "13012"
 chapter: 132
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 13012"
-generated_at: "2026-03-29T22:01:08.456Z"
+generated_at: "2026-03-29T22:06:33.244Z"
 ---
 
 # § 13012. Transferred

@@ -3,9 +3,9 @@ title: "Section 60301 - Regular tonnage taxes"
 usc_title: 46
 usc_section: "60301"
 chapter: 603
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 60301"
-generated_at: "2026-03-29T22:01:37.328Z"
+generated_at: "2026-03-29T22:06:41.490Z"
 ---
 
 # § 60301. Regular tonnage taxes

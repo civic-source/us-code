@@ -3,9 +3,9 @@ title: "Section 642 - Requirements for loans"
 usc_title: 15
 usc_section: "642"
 chapter: 14
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 642"
-generated_at: "2026-03-29T21:57:52.818Z"
+generated_at: "2026-03-29T22:03:56.890Z"
 ---
 
 # § 642. Requirements for loans

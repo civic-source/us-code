@@ -3,9 +3,9 @@ title: "Section 6271 - International oil allocations"
 usc_title: 42
 usc_section: "6271"
 chapter: 77
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 6271"
-generated_at: "2026-03-29T22:01:07.989Z"
+generated_at: "2026-03-29T22:06:32.821Z"
 ---
 
 # § 6271. International oil allocations

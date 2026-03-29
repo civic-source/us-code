@@ -3,9 +3,9 @@ title: "Section 127 - Moneys or annuities of hostile Indians"
 usc_title: 25
 usc_section: "127"
 chapter: 4
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "25 U.S.C. § 127"
-generated_at: "2026-03-29T21:58:48.111Z"
+generated_at: "2026-03-29T22:04:31.466Z"
 ---
 
 # § 127. Moneys or annuities of hostile Indians

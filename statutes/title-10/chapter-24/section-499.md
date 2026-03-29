@@ -3,9 +3,9 @@ title: "Section 499 - Annual assessment of cyber resiliency of nuclear command a
 usc_title: 10
 usc_section: "499"
 chapter: 24
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 499"
-generated_at: "2026-03-29T21:57:04.702Z"
+generated_at: "2026-03-29T22:03:29.375Z"
 ---
 
 # § 499. Annual assessment of cyber resiliency of nuclear command and control system
@@ -15,12 +15,12 @@ generated_at: "2026-03-29T21:57:04.702Z"
   - **(1)** conduct an assessment of the sufficiency and resiliency of the nuclear command and control system to operate through a cyber attack from the Russian Federation, the People’s Republic of China, or any other country or entity the Commanders identify as a potential threat; and
   - **(2)** develop recommendations for mitigating any concerns of the Commanders resulting from the assessment.
 - **(c)**
-  - **(1)** The Commanders shall jointly submit to the Chairman of the Joint Chiefs of Staff, for submission to the Council on Oversight of the National Leadership Command, Control, and Communications System established under section 171a of this title , a report on the assessment required by subsection (a) that includes the following:
+  - **(1)** For each assessment conducted under subsection (a), the Commanders shall jointly submit to the Chairman of the Joint Chiefs of Staff, for submission to the Council on Oversight of the National Leadership Command, Control, and Communications System established under section 171a of this title , a report on the assessment that includes the following:
     - **(A)** The recommendations developed under subsection (b)(2).
     - **(B)** A statement of the degree of confidence of each of the Commanders in the mission assurance of the nuclear deterrent against a top tier cyber threat.
     - **(C)** A detailed description of the approach used to conduct the assessment required by subsection (a) and the technical basis of conclusions reached in conducting that assessment.
     - **(D)** Any other comments of the Commanders.
-  - **(2)** The Council shall submit to the Secretary of Defense the report required by paragraph (1) and any comments of the Council on the report.
-  - **(3)** The Secretary of Defense shall submit to the congressional defense committees the report required by paragraph (1), any comments of the Council on the report under paragraph (2), and any comments of the Secretary on the report.
+  - **(2)** The Council shall submit to the Secretary of Defense each report required by paragraph (1) and any comments of the Council on each report.
+  - **(3)** Not later than 90 days after the date of the submission of a report under paragraph (1), the Secretary of Defense shall submit to the congressional defense committees the report, any comments of the Council on the report under paragraph (2), and any comments of the Secretary on the report.
 - **(d)** Not less than once every quarter, the Deputy Secretary of Defense and the Vice Chairman of the Joint Chiefs of Staff shall jointly provide to the Committees on Armed Services of the House of Representatives and the Senate a briefing on any known or suspected critical intelligence parameter breaches that were identified during the previous quarter, including an assessment of any known or suspected impacts of such breaches to the mission effectiveness of military capabilities as of the date of the briefing or thereafter.
 - **(e)** The requirements of this section shall terminate on December 31, 2027 .

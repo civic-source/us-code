@@ -3,9 +3,9 @@ title: "Section 8719 - Omitted"
 usc_title: 42
 usc_section: "8719"
 chapter: 95
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 8719"
-generated_at: "2026-03-29T22:01:08.218Z"
+generated_at: "2026-03-29T22:06:33.036Z"
 ---
 
 # §§ 8711 to 8719. Omitted

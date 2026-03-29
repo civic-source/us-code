@@ -3,9 +3,9 @@ title: "Section 2237 - Information for national security"
 usc_title: 33
 usc_section: "2237"
 chapter: 36
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 2237"
-generated_at: "2026-03-29T21:59:51.474Z"
+generated_at: "2026-03-29T22:05:25.060Z"
 ---
 
 # § 2237. Information for national security

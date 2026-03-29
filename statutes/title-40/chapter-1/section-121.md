@@ -3,9 +3,9 @@ title: "Section 121 - Administrative"
 usc_title: 40
 usc_section: "121"
 chapter: 1
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "40 U.S.C. § 121"
-generated_at: "2026-03-29T21:59:59.206Z"
+generated_at: "2026-03-29T22:05:34.843Z"
 ---
 
 # § 121. Administrative

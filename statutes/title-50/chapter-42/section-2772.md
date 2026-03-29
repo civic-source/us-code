@@ -3,9 +3,9 @@ title: "Section 2772 - Reports on financial balances for atomic energy defense a
 usc_title: 50
 usc_section: "2772"
 chapter: 42
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 2772"
-generated_at: "2026-03-29T22:01:35.020Z"
+generated_at: "2026-03-29T22:06:44.437Z"
 ---
 
 # § 2772. Reports on financial balances for atomic energy defense activities
@@ -26,18 +26,18 @@ generated_at: "2026-03-29T22:01:35.020Z"
     - **(D)** The total balance of uncosted funds.
     - **(E)** The threshold for the balance of uncosted funds, stated in dollars.
     - **(F)** The amount of any balance of uncosted funds that is over or under that threshold and, in the case of a balance over that threshold, an explanation for why the balance is over that threshold.
-    - **(G)** The total balance of committed, uncosted funds.
-    - **(H)** The total balance of uncommitted, uncosted funds.
-    - **(I)** The amount of any balance of uncommitted, uncosted funds that is over or under the threshold described in subparagraph (E) and, in the case of a balance over that threshold, an explanation for why the balance is over that threshold.
+    - **(G)** The total balance of encumbered, uncosted funds.
+    - **(H)** The total balance of unencumbered, uncosted funds.
+    - **(I)** The amount of any balance of unencumbered, uncosted funds that is over or under the threshold described in subparagraph (E) and, in the case of a balance over that threshold, an explanation for why the balance is over that threshold.
   - **(3)** The second part of the report required by subsection (a) shall set forth, for each atomic energy defense program, the following information:
     - **(A)** The balance of any unobligated funds, as of the end of the first quarter of the current fiscal year.
     - **(B)** The total balance of uncosted funds, as of the end of the first quarter of the current fiscal year.
     - **(C)** Unalloted budget authority.
 - **(c)** In this section:
-  - **(1)** The term “committed”, with respect to funds, means the funds are associated with a legally enforceable agreement, such as a purchase order or contract, that has been entered into.
-  - **(2)** The term “costed”, with respect to funds, means the funds have been obligated to a contract and goods or services have been received by the contractor in exchange for the funds.
-  - **(3)** The term “uncommitted”, with respect to funds, means the funds are not committed.
-  - **(4)** The term “uncosted”, with respect to funds, means the funds have been obligated to a contract and goods or services have not been received by the contractor in exchange for the funds.
+  - **(1)** The term “costed”, with respect to funds, means the funds have been obligated to a contract and goods or services have been received from the contractor in exchange for the funds.
+  - **(2)** The term “encumbered”, with respect to funds, means the funds have been obligated to a contract and are being held for a specific known purpose by the contractor.
+  - **(3)** The term “uncosted”, with respect to funds, means the funds have been obligated to a contract and goods or services have not been received from the contractor in exchange for the funds.
+  - **(4)** The term “unencumbered”, with respect to funds, means the funds have been obligated to a contract and are not being held for a specific known purpose by the contractor.
   - **(5)** The term “threshold” means a benchmark over which a balance carried over at the end of a fiscal year should be given greater scrutiny by Congress.
   - **(6)** The term “total funds available to cost” means the sum of—
     - **(A)** total uncosted obligations from prior fiscal years;

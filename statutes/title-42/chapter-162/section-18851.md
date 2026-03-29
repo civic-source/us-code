@@ -3,9 +3,9 @@ title: "Section 18851 - Wage rate requirements"
 usc_title: 42
 usc_section: "18851"
 chapter: 162
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 18851"
-generated_at: "2026-03-29T22:01:08.668Z"
+generated_at: "2026-03-29T22:06:33.440Z"
 ---
 
 # § 18851. Wage rate requirements

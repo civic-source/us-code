@@ -1,14 +1,19 @@
 ---
-title: "Section 4954 - Distribution"
+title: "Section 4954 - Cooperative agreements"
 usc_title: 10
 usc_section: "4954"
 chapter: 388
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 4954"
-generated_at: "2026-03-29T21:57:04.944Z"
+generated_at: "2026-03-29T22:03:29.635Z"
 ---
 
-# § 4954. Distribution
+# § 4954. Cooperative agreements
 
-The Secretary shall allocate funds available for assistance under this chapter equally to each Department of Defense contract administrative services district. If in any such fiscal year there is an insufficient number of satisfactory proposals in a district for cooperative agreements to allow effective use of the funds allocated to that district, the funds remaining with respect to that district shall be reallocated among the remaining districts.
-
+- **(a)** The Secretary, in accordance with the provisions of this chapter, may enter into cooperative agreements with eligible entities to carry out the purposes of this chapter.
+- **(b)** Under any such cooperative agreement, the eligible entity shall agree to sponsor programs to furnish procurement technical assistance to business entities and the Secretary shall agree to defray not more than 75 percent of the eligible entity’s cost of furnishing such assistance under such programs, except that—
+  - **(1)** in the case of a program sponsored by such an entity that provides services solely in a distressed area, the Secretary may agree to furnish more than 75 percent, but not more than 85 percent, of such cost with respect to such program; and
+  - **(2)** in the case of a program sponsored by such an entity that provides assistance for covered small businesses pursuant to section 4959(b) of this title , the Secretary may agree to furnish the full cost of such assistance.
+- **(c)** In entering into cooperative agreements under subsection (a), the Secretary shall assure that at least one procurement technical assistance program is carried out in each Department of Defense contract administration services district during each fiscal year.
+- **(d)** In conducting a competition for the award of a cooperative agreement under subsection (a), the Secretary shall give significant weight to successful past performance of eligible entities under a cooperative agreement under this section.
+- **(e)** In determining the level of funding to provide under an agreement under subsection (b), the Secretary shall consider the forecast by the eligible entity of demand for procurement technical assistance, and, in the case of an established program under this chapter, the outlays and receipts of such program during prior years of operation.

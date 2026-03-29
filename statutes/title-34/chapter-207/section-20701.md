@@ -3,9 +3,9 @@ title: "Section 20701 - Prevention of domestic trafficking in persons"
 usc_title: 34
 usc_section: "20701"
 chapter: 207
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "34 U.S.C. § 20701"
-generated_at: "2026-03-29T21:59:56.094Z"
+generated_at: "2026-03-29T22:05:16.166Z"
 ---
 
 # § 20701. Prevention of domestic trafficking in persons

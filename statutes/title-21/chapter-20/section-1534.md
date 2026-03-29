@@ -3,9 +3,9 @@ title: "Section 1534 - Technical assistance and training"
 usc_title: 21
 usc_section: "1534"
 chapter: 20
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "21 U.S.C. § 1534"
-generated_at: "2026-03-29T21:58:51.023Z"
+generated_at: "2026-03-29T22:04:43.003Z"
 ---
 
 # § 1534. Technical assistance and training

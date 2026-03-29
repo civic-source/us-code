@@ -3,9 +3,9 @@ title: "Section 4817 - Industrial Base Fund"
 usc_title: 10
 usc_section: "4817"
 chapter: 382
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 4817"
-generated_at: "2026-03-29T21:57:04.940Z"
+generated_at: "2026-03-29T22:03:29.628Z"
 ---
 
 # § 4817. Industrial Base Fund
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T21:57:04.940Z"
 - **(b)** The Fund shall be under the control of the Under Secretary of Defense for Acquisition and Sustainment, acting through the Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy.
 - **(c)** The Fund shall consist of amounts appropriated or otherwise made available to the Fund.
 - **(d)** Subject to subsection (e), the Fund shall be used—
-  - **(1)** to support the monitoring and assessment of the industrial base required by this chapter;
+  - **(1)** to support the monitoring and assessment of the industrial base required by chapters 381 through 385 and chapter 389;
   - **(2)** to address critical issues in the industrial base relating to urgent operational needs;
   - **(3)** to support efforts to expand the industrial base; and
   - **(4)** to address supply chain vulnerabilities.

@@ -3,9 +3,9 @@ title: "Section 2572 - Patents; availability to general public; protection of ba
 usc_title: 22
 usc_section: "2572"
 chapter: 35
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 2572"
-generated_at: "2026-03-29T21:58:43.165Z"
+generated_at: "2026-03-29T22:04:38.427Z"
 ---
 
 # § 2572. Patents; availability to general public; protection of background rights

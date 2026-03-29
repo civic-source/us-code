@@ -3,9 +3,9 @@ title: "Section 2006 - Waiver of mediation rights by borrowers"
 usc_title: 7
 usc_section: "2006"
 chapter: 50
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 2006"
-generated_at: "2026-03-29T21:57:09.224Z"
+generated_at: "2026-03-29T22:03:15.468Z"
 ---
 
 # § 2006. Waiver of mediation rights by borrowers

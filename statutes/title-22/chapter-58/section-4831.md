@@ -3,9 +3,9 @@ title: "Section 4831 - Accountability Review Boards"
 usc_title: 22
 usc_section: "4831"
 chapter: 58
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 4831"
-generated_at: "2026-03-29T21:58:43.241Z"
+generated_at: "2026-03-29T22:04:38.511Z"
 ---
 
 # § 4831. Accountability Review Boards
@@ -15,8 +15,8 @@ generated_at: "2026-03-29T21:58:43.241Z"
   - **(2)** The Secretary of State is not required to convene a Board in the case of an incident described in paragraph (1) that involves any facility, installation, or personnel of the Department of Defense with respect to which the Secretary has delegated operational control of overseas security functions to the Secretary of Defense pursuant to section 4805 of this title . In any such case, the Secretary of Defense shall conduct an appropriate inquiry. The Secretary of Defense shall report the findings and recommendations of such inquiry, and the action taken with respect to such recommendations, to the Secretary of State and Congress.
   - **(3)**
     - **(A)** The Secretary of State is not required to convene a Board in the case of an incident that—
-      - **(i)** involves serious injury, loss of life, or significant destruction of property at, or related to, a United States Government mission in Afghanistan or Iraq; and
-      - **(ii)** occurs during the period beginning on October 1, 2005 , and ending on September 30, 2009 .
+      - **(i)** involves serious injury, loss of life, or significant destruction of property at, or related to, a United States Government mission in Afghanistan, Yemen, Syria, or Iraq; and
+      - **(ii)** occurs during the period beginning on October 1, 2020 , and ending on September 30, 2022 .
     - **(B)** In the case of an incident described in subparagraph (A), the Secretary shall—
       - **(i)** promptly notify the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate of the incident;
       - **(ii)** conduct an inquiry of the incident; and

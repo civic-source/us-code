@@ -3,9 +3,9 @@ title: "Section 1116 - Presumptions of service connection for diseases associate
 usc_title: 38
 usc_section: "1116"
 chapter: 11
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 1116"
-generated_at: "2026-03-29T22:00:30.841Z"
+generated_at: "2026-03-29T22:05:48.020Z"
 ---
 
 # § 1116. Presumptions of service connection for diseases associated with exposure to certain herbicide agents; presumption of exposure for veterans who served in the Republic of Vietnam

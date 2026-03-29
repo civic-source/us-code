@@ -3,9 +3,9 @@ title: "Section 1973 - Jurisdiction of courts; duty of United States attorneys; 
 usc_title: 12
 usc_section: "1973"
 chapter: 22
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 1973"
-generated_at: "2026-03-29T21:57:19.497Z"
+generated_at: "2026-03-29T22:03:47.012Z"
 ---
 
 # § 1973. Jurisdiction of courts; duty of United States attorneys; equitable proceedings; petition; expedition of cases; temporary restraining orders; bringing in additional parties; subpenas

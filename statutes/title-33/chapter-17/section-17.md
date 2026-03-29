@@ -3,9 +3,9 @@ title: "Section 17 - Interagency cooperation and assistance"
 usc_title: 33
 usc_section: "17"
 chapter: 17
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 17"
-generated_at: "2026-03-29T21:59:51.394Z"
+generated_at: "2026-03-29T22:05:24.951Z"
 ---
 
 # § 857–17. Interagency cooperation and assistance

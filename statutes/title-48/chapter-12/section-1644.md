@@ -3,9 +3,9 @@ title: "Section 1644 - Import duties on articles entering United States or posse
 usc_title: 48
 usc_section: "1644"
 chapter: 12
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "48 U.S.C. § 1644"
-generated_at: "2026-03-29T22:01:19.343Z"
+generated_at: "2026-03-29T22:06:38.218Z"
 ---
 
 # § 1644. Import duties on articles entering United States or possessions from Virgin Islands

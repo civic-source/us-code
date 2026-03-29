@@ -3,9 +3,9 @@ title: "Section 7448 - Enforcement"
 usc_title: 7
 usc_section: "7448"
 chapter: 101
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 7448"
-generated_at: "2026-03-29T21:57:09.366Z"
+generated_at: "2026-03-29T22:03:15.661Z"
 ---
 
 # § 7448. Enforcement

@@ -3,9 +3,9 @@ title: "Section 4023 - Professional liability protection"
 usc_title: 50
 usc_section: "4023"
 chapter: 50
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 4023"
-generated_at: "2026-03-29T22:01:35.105Z"
+generated_at: "2026-03-29T22:06:44.503Z"
 ---
 
 # § 4023. Professional liability protection

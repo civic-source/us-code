@@ -3,9 +3,9 @@ title: "Section 220 - Enforcement of section 219"
 usc_title: 50
 usc_section: "220"
 chapter: 13
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 220"
-generated_at: "2026-03-29T22:01:34.937Z"
+generated_at: "2026-03-29T22:06:44.367Z"
 ---
 
 # § 220. Enforcement of section 219

@@ -3,16 +3,16 @@ title: "Section 9013 - Secretary of the Air Force"
 usc_title: 10
 usc_section: "9013"
 chapter: 903
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 9013"
-generated_at: "2026-03-29T21:57:04.985Z"
+generated_at: "2026-03-29T22:03:29.680Z"
 ---
 
 # § 9013. Secretary of the Air Force
 
 - **(a)**
   - **(1)** There is a Secretary of the Air Force, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Secretary shall, to the greatest extent practicable, be appointed from among persons most highly qualified for the position by reason of background and experience, including persons with appropriate management or leadership experience. The Secretary is the head of the Department of the Air Force.
-  - **(2)** A person may not be appointed as Secretary of the Air Force within five years after relief from active duty as a commissioned officer of a regular component of an armed force.
+  - **(2)** A person may not be appointed as Secretary of the Air Force within seven years after relief from active duty as a commissioned officer of a regular component of an armed force.
 - **(b)** Subject to the authority, direction, and control of the Secretary of Defense and subject to the provisions of chapter 6 of this title, the Secretary of the Air Force is responsible for, and has the authority necessary to conduct, all affairs of the Department of the Air Force, including the following functions:
   - **(1)** Recruiting.
   - **(2)** Organizing.

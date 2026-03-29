@@ -1,14 +1,12 @@
 ---
-title: "Section 2522 - Armament retooling and manufacturing"
+title: "Section 2522 - Renumbered § 4845]"
 usc_title: 10
 usc_section: "2522"
 chapter: 148
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2522"
-generated_at: "2026-03-29T21:57:04.873Z"
+generated_at: "2026-03-29T22:03:29.545Z"
 ---
 
-# § 2522. Armament retooling and manufacturing
-
-The Secretary of the Army is authorized by chapter 764 of this title to carry out programs for the support of armaments retooling and manufacturing in the national defense industrial and technology base.
+# [§ 2522. Renumbered § 4845]
 

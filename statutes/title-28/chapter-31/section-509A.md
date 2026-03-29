@@ -3,9 +3,9 @@ title: "Section 509A - National Security Division"
 usc_title: 28
 usc_section: "509A"
 chapter: 31
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "28 U.S.C. § 509A"
-generated_at: "2026-03-29T21:59:03.149Z"
+generated_at: "2026-03-29T22:04:51.096Z"
 ---
 
 # § 509A. National Security Division

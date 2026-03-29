@@ -3,9 +3,9 @@ title: "Section 11344 - Limitation on certain costs"
 usc_title: 42
 usc_section: "11344"
 chapter: 119
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 11344"
-generated_at: "2026-03-29T22:01:08.353Z"
+generated_at: "2026-03-29T22:06:33.156Z"
 ---
 
 # § 11344. Limitation on certain costs

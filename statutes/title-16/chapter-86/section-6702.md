@@ -3,9 +3,9 @@ title: "Section 6702 - Purposes"
 usc_title: 16
 usc_section: "6702"
 chapter: 86
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 6702"
-generated_at: "2026-03-29T21:58:32.981Z"
+generated_at: "2026-03-29T22:04:21.864Z"
 ---
 
 # § 6702. Purposes

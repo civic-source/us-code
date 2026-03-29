@@ -3,9 +3,9 @@ title: "Section 4005 - “Fuel conversion price” defined"
 usc_title: 7
 usc_section: "4005"
 chapter: 71
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 4005"
-generated_at: "2026-03-29T21:57:09.303Z"
+generated_at: "2026-03-29T22:03:15.563Z"
 ---
 
 # § 4005. “Fuel conversion price” defined

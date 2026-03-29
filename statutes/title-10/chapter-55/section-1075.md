@@ -3,9 +3,9 @@ title: "Section 1075 - TRICARE Select"
 usc_title: 10
 usc_section: "1075"
 chapter: 55
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1075"
-generated_at: "2026-03-29T21:57:04.749Z"
+generated_at: "2026-03-29T22:03:29.434Z"
 ---
 
 # § 1075. TRICARE Select
@@ -47,7 +47,12 @@ generated_at: "2026-03-29T21:57:04.749Z"
     - **(D)** The satisfaction of beneficiaries under TRICARE Select.
 - **(f)** A beneficiary enrolled in TRICARE for Life is subject to cost-sharing requirements pursuant to section 1086(d)(3) of this title and calculated as if the beneficiary were enrolled in TRICARE Standard as if TRICARE Standard were still being carried out by the Secretary.
 - **(g)** Nothing in this section may be construed as affecting the availability of TRICARE Prime and TRICARE for Life or the cost-sharing requirements for TRICARE for Life under section 1086(d)(3) of this title .
-- **(h)** In this section:
+- **(h)**
+  - **(1)** The Secretary may establish a system of multiple networks of providers under TRICARE Select in the same geographic area or areas.
+  - **(2)** Under a system established under paragraph (1), the Secretary may—
+    - **(A)** require a covered beneficiary enrolling in TRICARE Select to enroll in a specific provider network established pursuant to such system, in which case any provider not in that specific provider network shall be deemed an out-of-network provider with respect to the covered beneficiary (regardless of whether the provider is in a different TRICARE Select provider network) for purposes of this section or any other provision of law limiting the coverage or provision of health care services to those provided by network providers under the TRICARE program; and
+    - **(B)** include beneficiaries covered by subsection (c)(2).
+- **(i)** In this section:
   - **(1)** The terms “active-duty family member category”, “retired category”, and “reserve and young adult category” mean the respective categories of TRICARE Select enrollment described in subsection (b).
   - **(2)** The term “network” means—
     - **(A)** with respect to health care services, such services provided to beneficiaries by TRICARE-authorized civilian health care providers who have entered into a contract under this chapter with a contractor under the TRICARE program; and

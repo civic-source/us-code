@@ -3,9 +3,9 @@ title: "Section 52 - Use of nonofficial standards prohibited; sales by sample ex
 usc_title: 7
 usc_section: "52"
 chapter: 2
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 52"
-generated_at: "2026-03-29T21:57:09.057Z"
+generated_at: "2026-03-29T22:03:15.242Z"
 ---
 
 # § 52. Use of nonofficial standards prohibited; sales by sample excepted

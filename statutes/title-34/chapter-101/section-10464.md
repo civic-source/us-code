@@ -3,9 +3,9 @@ title: "Section 10464 - Regulations or guidelines"
 usc_title: 34
 usc_section: "10464"
 chapter: 101
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "34 U.S.C. § 10464"
-generated_at: "2026-03-29T21:59:56.036Z"
+generated_at: "2026-03-29T22:05:16.105Z"
 ---
 
 # § 10464. Regulations or guidelines

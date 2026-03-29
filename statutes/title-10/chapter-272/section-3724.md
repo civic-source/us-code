@@ -1,14 +1,12 @@
 ---
-title: "Section 3724 - Risk-based contracting for smaller contract actions under truth in negotiations act: 1 1 So in original. Probably should be “Truth in Negotiations Act:”. pilot program"
+title: "Section 3724 - [Reserved]"
 usc_title: 10
 usc_section: "3724"
 chapter: 272
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 3724"
-generated_at: "2026-03-29T21:57:04.920Z"
+generated_at: "2026-03-29T22:03:29.600Z"
 ---
 
-# § 3724. Risk-based contracting for smaller contract actions under truth in negotiations act: 1 1 So in original. Probably should be “Truth in Negotiations Act:”. pilot program
-
-[Reserved].
+# § 3724. [Reserved]
 

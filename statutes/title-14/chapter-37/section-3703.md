@@ -3,9 +3,9 @@ title: "Section 3703 - Coast Guard Reserve Boards"
 usc_title: 14
 usc_section: "3703"
 chapter: 37
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "14 U.S.C. § 3703"
-generated_at: "2026-03-29T21:57:13.775Z"
+generated_at: "2026-03-29T22:03:34.072Z"
 ---
 
 # § 3703. Coast Guard Reserve Boards

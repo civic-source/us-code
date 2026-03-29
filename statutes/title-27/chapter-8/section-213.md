@@ -3,9 +3,9 @@ title: "Section 213 - Declaration of policy and purpose"
 usc_title: 27
 usc_section: "213"
 chapter: 8
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "27 U.S.C. § 213"
-generated_at: "2026-03-29T21:58:57.963Z"
+generated_at: "2026-03-29T22:04:45.435Z"
 ---
 
 # § 213. Declaration of policy and purpose

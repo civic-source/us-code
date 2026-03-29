@@ -3,9 +3,9 @@ title: "Section 68 - Repealed. Oct. 10, 1940, ch. 851, § 4 , 54 Stat. 1111"
 usc_title: 20
 usc_section: "68"
 chapter: 3
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 68"
-generated_at: "2026-03-29T21:58:01.139Z"
+generated_at: "2026-03-29T22:04:14.075Z"
 ---
 
 # § 68. Repealed. Oct. 10, 1940, ch. 851, § 4 , 54 Stat. 1111

@@ -3,9 +3,9 @@ title: "Section 171a - Council on Oversight of the National Leadership Command, 
 usc_title: 10
 usc_section: "171a"
 chapter: 7
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 171a"
-generated_at: "2026-03-29T21:57:04.680Z"
+generated_at: "2026-03-29T22:03:29.346Z"
 ---
 
 # § 171a. Council on Oversight of the National Leadership Command, Control, and Communications System
@@ -54,7 +54,7 @@ generated_at: "2026-03-29T21:57:04.680Z"
     - **(B)** The space-based infrared system.
     - **(C)** The integrated tactical warning and attack assessment system and its command and control system.
     - **(D)** The enhanced polar system.
-  - **(3)** In this subsection, the terms “Milestone A approval” and “Milestone B approval” have the meanings given such terms in sections 2366(e) and 2366a(d) of this title.
+  - **(3)** In this subsection, the terms “Milestone A approval” and “Milestone B approval” have the meanings given such terms in sections 4172(e) and 4251(d) of this title.
 - **(j)**
   - **(1)** None of the funds authorized to be appropriated or otherwise made available to the Department of Defense for any fiscal year may be used to change any command, control, and communications system described in subsection (d)(1) in a manner that reduces the warning time provided to the national leadership of the United States with respect to a warning of a strategic missile attack on the United States unless—
     - **(A)** the Secretary of Defense notifies the congressional defense committees of such proposed change and reduction; and

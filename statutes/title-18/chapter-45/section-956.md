@@ -3,9 +3,9 @@ title: "Section 956 - Conspiracy to kill, kidnap, maim, or injure persons or dam
 usc_title: 18
 usc_section: "956"
 chapter: 45
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 956"
-generated_at: "2026-03-29T21:58:06.922Z"
+generated_at: "2026-03-29T22:04:03.381Z"
 ---
 
 # § 956. Conspiracy to kill, kidnap, maim, or injure persons or damage property in a foreign country

@@ -3,9 +3,9 @@ title: "Section 2925 - Annual Department of Defense energy management reports"
 usc_title: 10
 usc_section: "2925"
 chapter: 173
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2925"
-generated_at: "2026-03-29T21:57:04.908Z"
+generated_at: "2026-03-29T22:03:29.586Z"
 ---
 
 # § 2925. Annual Department of Defense energy management reports
@@ -28,9 +28,11 @@ generated_at: "2026-03-29T21:57:04.908Z"
     - **(C)** any limitations on expanding ESPCs throughout the Department of Defense;
     - **(D)** the effect ESPCs have on military readiness; and
     - **(E)** any additional information the Secretary determines relevant.
-  - **(8)** At the discretion of the Secretary of Defense, a classified annex, as appropriate.
+  - **(8)** A description of the effects on military readiness, and an estimate of the financial costs to the Department of Defense, reasonably attributed to adverse impacts to military installation resilience during the year preceding the submission of the report, including loss of or damage to military networks, systems, installations, facilities, and other assets and capabilities of the Department.
+  - **(9)** An assessment of vulnerabilities to military installation resilience.
+  - **(10)** At the discretion of the Secretary of Defense, a classified annex, as appropriate.
 - **(b)**
-  - **(1)** Simultaneous with the annual report required by subsection (a), the Secretary of Defense, acting through the Assistant Secretary of Defense for Energy, Installations, and Environment, shall submit to the congressional defense committees a report on operational energy management and the implementation of the operational energy strategy established pursuant to section 2926(d) of this title .
+  - **(1)** Simultaneous with the annual report required by subsection (a), the Secretary of Defense, acting through the Assistant Secretary of Defense for Energy, Installations, and Environment, shall submit to the congressional defense committees a report on operational energy management and the implementation of the operational energy strategy established pursuant to section 2926(d) 1 1 See References in Text note below. of this title.
   - **(2)** The annual report under this subsection shall address and include the following:
     - **(A)** Statistical information on operational energy demands, in terms of expenditures and consumption, for the preceding five fiscal years, including funding made available in regular defense appropriations Acts and any supplemental appropriation Acts.
     - **(B)** An estimate of operational energy demands for the current fiscal year and next fiscal year, including funding requested to meet operational energy demands in the budget submitted to Congress under section 1105 of title 31 and in any supplemental requests.

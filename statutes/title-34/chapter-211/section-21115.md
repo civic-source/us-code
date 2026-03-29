@@ -3,9 +3,9 @@ title: "Section 21115 - National Internet Crimes Against Children Data System"
 usc_title: 34
 usc_section: "21115"
 chapter: 211
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "34 U.S.C. § 21115"
-generated_at: "2026-03-29T21:59:56.103Z"
+generated_at: "2026-03-29T22:05:16.175Z"
 ---
 
 # § 21115. National Internet Crimes Against Children Data System

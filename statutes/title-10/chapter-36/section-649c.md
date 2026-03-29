@@ -3,15 +3,15 @@ title: "Section 649c - Eligibility for consideration for promotion"
 usc_title: 10
 usc_section: "649c"
 chapter: 36
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 649c"
-generated_at: "2026-03-29T21:57:04.712Z"
+generated_at: "2026-03-29T22:03:29.388Z"
 ---
 
 # § 649c. Eligibility for consideration for promotion
 
 - **(a)** Except as provided by this section, eligibility for promotion of officers in any competitive category of officers designated for purposes of this subchapter shall be governed by the provisions of section 619 of this title .
-- **(b)** Paragraphs (2) through (4) of section 619(a) of this title shall not apply to the promotion of officers described in subsection (a).
+- **(b)** Paragraphs (2) through (4) 1 1 See References in Text note below. of section 619(a) of this title shall not apply to the promotion of officers described in subsection (a).
 - **(c)** The following provisions of section 619(c) of this title shall not apply to the promotion of officers described in subsection (a):
   - **(1)** The reference in paragraph (1) of that section to an officer above the promotion zone.
   - **(2)** Paragraph (2)(A) of that section.

@@ -3,9 +3,9 @@ title: "Section 256g - Grants for innovative programs"
 usc_title: 42
 usc_section: "256g"
 chapter: 6
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 256g"
-generated_at: "2026-03-29T22:01:06.876Z"
+generated_at: "2026-03-29T22:06:31.834Z"
 ---
 
 # § 256g. Grants for innovative programs

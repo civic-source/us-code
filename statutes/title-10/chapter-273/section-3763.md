@@ -3,9 +3,9 @@ title: "Section 3763 - Bid and proposal costs: allowable costs"
 usc_title: 10
 usc_section: "3763"
 chapter: 273
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 3763"
-generated_at: "2026-03-29T21:57:04.921Z"
+generated_at: "2026-03-29T22:03:29.602Z"
 ---
 
 # § 3763. Bid and proposal costs: allowable costs

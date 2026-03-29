@@ -1,20 +1,12 @@
 ---
-title: "Section 2446c - Requirements relating to availability of major system interfaces and support for modular open system approach"
+title: "Section 2446c - Renumbered § 4403]"
 usc_title: 10
 usc_section: "2446c"
 chapter: 144
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2446c"
-generated_at: "2026-03-29T21:57:04.865Z"
+generated_at: "2026-03-29T22:03:29.537Z"
 ---
 
-# § 2446c. Requirements relating to availability of major system interfaces and support for modular open system approach
+# [§ 2446c. Renumbered § 4403]
 
-The Secretary of each military department shall—
-
-  - **(1)** coordinate with the other military departments, the defense agencies, defense and other private sector entities, national standards-setting organizations, and, when appropriate, with elements of the intelligence community with respect to the specification, identification, development, and maintenance of major system interfaces and standards for use in major system platforms, where practicable;
-  - **(2)** ensure that major system interfaces incorporate commercial standards and other widely supported consensus-based standards that are validated, published, and maintained by recognized standards organizations to the maximum extent practicable;
-  - **(3)** ensure that sufficient systems engineering and development expertise and resources are available to support the use of a modular open system approach in requirements development and acquisition program planning;
-  - **(4)** ensure that necessary planning, programming, and budgeting resources are provided to specify, identify, develop, and sustain the modular open system approach, associated major system interfaces, systems integration, and any additional program activities necessary to sustain innovation and interoperability;
-  - **(5)** ensure that adequate training in the use of a modular open system approach is provided to members of the requirements and acquisition workforce; and
-  - **(6)** issue guidance to implement the requirements of this section.

@@ -3,9 +3,9 @@ title: "Section 288c - Exemption from property taxes"
 usc_title: 22
 usc_section: "288c"
 chapter: 7
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 288c"
-generated_at: "2026-03-29T21:58:43.074Z"
+generated_at: "2026-03-29T22:04:38.330Z"
 ---
 
 # § 288c. Exemption from property taxes

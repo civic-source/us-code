@@ -3,9 +3,9 @@ title: "Section 5306 - Definitions"
 usc_title: 22
 usc_section: "5306"
 chapter: 62
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 5306"
-generated_at: "2026-03-29T21:58:43.244Z"
+generated_at: "2026-03-29T22:04:38.516Z"
 ---
 
 # § 5306. Definitions

@@ -3,9 +3,9 @@ title: "Section 10663 - Grants for programs for drug-endangered children"
 usc_title: 34
 usc_section: "10663"
 chapter: 101
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "34 U.S.C. § 10663"
-generated_at: "2026-03-29T21:59:56.045Z"
+generated_at: "2026-03-29T22:05:16.114Z"
 ---
 
 # § 10663. Grants for programs for drug-endangered children

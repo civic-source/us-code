@@ -3,9 +3,9 @@ title: "Section 1731 - Critical acquisition positions"
 usc_title: 10
 usc_section: "1731"
 chapter: 87
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1731"
-generated_at: "2026-03-29T21:57:04.802Z"
+generated_at: "2026-03-29T22:03:29.496Z"
 ---
 
 # § 1731. Critical acquisition positions
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T21:57:04.802Z"
       - **(ii)** in the case of members of the armed forces, is required to be filled by a commissioned officer of the Army, Navy, Air Force, Marine Corps, or Space Force who is serving in the grade of lieutenant colonel, or, in the case of the Navy, commander, or a higher grade.
     - **(B)** Other selected acquisition positions not covered by subparagraph (A), including the following:
       - **(i)** Program executive officer.
-      - **(ii)** Program manager of a major defense acquisition program (as defined in section 2430 of this title ) or of a significant nonmajor defense acquisition program (as defined in section 1737(a)(3) of this title ).
+      - **(ii)** Program manager of a major defense acquisition program (as defined in section 4201 of this title ) or of a significant nonmajor defense acquisition program (as defined in section 1737(a)(3) of this title ).
       - **(iii)** Deputy program manager of a major defense acquisition program.
     - **(C)** Any other acquisition position of significant responsibility in which the primary duties are supervisory or management duties.
   - **(2)** The Secretary shall periodically publish a list of the positions designated under this subsection.

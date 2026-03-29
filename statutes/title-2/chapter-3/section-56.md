@@ -3,9 +3,9 @@ title: "Section 56 - Repealed. Pub. L. 104–186, title II, § 203(20)(A) , Aug.
 usc_title: 2
 usc_section: "56"
 chapter: 3
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 56"
-generated_at: "2026-03-29T21:56:43.316Z"
+generated_at: "2026-03-29T22:03:02.368Z"
 ---
 
 # § 56. Repealed. Pub. L. 104–186, title II, § 203(20)(A) , Aug. 20, 1996 , 110 Stat. 1728

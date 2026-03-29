@@ -3,9 +3,9 @@ title: "Section 1557l - Repealed. Oct. 10, 1951, ch. 479 , title V, § 528(c), 6
 usc_title: 22
 usc_section: "1557l"
 chapter: 19
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 1557l"
-generated_at: "2026-03-29T21:58:43.093Z"
+generated_at: "2026-03-29T22:04:38.351Z"
 ---
 
 # § 1557l. Repealed. Oct. 10, 1951, ch. 479 , title V, § 528(c), 65 Stat. 386

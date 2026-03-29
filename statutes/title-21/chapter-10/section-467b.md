@@ -3,9 +3,9 @@ title: "Section 467b - Seizure and condemnation"
 usc_title: 21
 usc_section: "467b"
 chapter: 10
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "21 U.S.C. § 467b"
-generated_at: "2026-03-29T21:58:50.984Z"
+generated_at: "2026-03-29T22:04:42.967Z"
 ---
 
 # § 467b. Seizure and condemnation

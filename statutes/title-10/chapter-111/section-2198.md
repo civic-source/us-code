@@ -3,9 +3,9 @@ title: "Section 2198 - Management training program in Japanese language and cult
 usc_title: 10
 usc_section: "2198"
 chapter: 111
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2198"
-generated_at: "2026-03-29T21:57:04.820Z"
+generated_at: "2026-03-29T22:03:29.516Z"
 ---
 
 # § 2198. Management training program in Japanese language and culture
@@ -17,4 +17,4 @@ generated_at: "2026-03-29T21:57:04.820Z"
     - **(A)** to improve the knowledge of such scientists, engineers, and managers in (i) Japanese language and culture, and (ii) the research and development and management practices of such laboratories; and
     - **(B)** to provide opportunities for the encouragement of technology transfer from Japan to the United States.
   - **(3)** Whether an appropriate share of the costs of such activities will be paid out of funds derived from non-Federal Government sources.
-- **(c)** In this section, the term “defense critical technology” means a technology that is identified under section 2505 of this title as critical for attaining the national security objectives set forth in section 2501(a) of this title .
+- **(c)** In this section, the term “defense critical technology” means a technology that is identified under section 4816 of this title as critical for attaining the national security objectives set forth in section 4811(a) of this title .

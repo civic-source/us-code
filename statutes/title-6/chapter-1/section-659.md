@@ -3,9 +3,9 @@ title: "Section 659 - National cybersecurity and communications integration cent
 usc_title: 6
 usc_section: "659"
 chapter: 1
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "6 U.S.C. § 659"
-generated_at: "2026-03-29T21:56:51.789Z"
+generated_at: "2026-03-29T22:03:07.693Z"
 ---
 
 # § 659. National cybersecurity and communications integration center
@@ -16,11 +16,12 @@ generated_at: "2026-03-29T21:56:51.789Z"
     - **(A)** means threats to and vulnerabilities of information or information systems and any related consequences caused by or resulting from unauthorized access, use, disclosure, degradation, disruption, modification, or destruction of such information or information systems, including such related consequences caused by an act of terrorism; and
     - **(B)** does not include any action that solely involves a violation of a consumer term of service or a consumer licensing agreement;
   - **(3)** the terms “cyber threat indicator” and “defensive measure” have the meanings given those terms in section 102 of the Cybersecurity Act of 2015 [ 6 U.S.C. 1501 ];
-  - **(4)** the term “incident” means an occurrence that actually or imminently jeopardizes, without lawful authority, the integrity, confidentiality, or availability of information on an information system, or actually or imminently jeopardizes, without lawful authority, an information system;
-  - **(5)** the term “information sharing and analysis organization” has the meaning given that term in section 671(5) of this title ;
-  - **(6)** the term “information system” has the meaning given that term in section 3502(8) of title 44 ;
-  - **(7)** the term “security vulnerability” has the meaning given that term in section 1501 of this title ; and
-  - **(8)** the term “sharing” (including all conjugations thereof) means providing, receiving, and disseminating (including all conjugations of each of such terms).
+  - **(4)** the term “cybersecurity vulnerability” has the meaning given the term “security vulnerability” in section 102 of the Cybersecurity Information Sharing Act of 2015 ( 6 U.S.C. 1501 );
+  - **(5)** the term “incident” means an occurrence that actually or imminently jeopardizes, without lawful authority, the integrity, confidentiality, or availability of information on an information system, or actually or imminently jeopardizes, without lawful authority, an information system;
+  - **(6)** the term “information sharing and analysis organization” has the meaning given that term in section 671(5) of this title ;
+  - **(7)** the term “information system” has the meaning given that term in section 3502(8) of title 44 ;
+  - **(8)** the term “security vulnerability” has the meaning given that term in section 1501 of this title ; and
+  - **(9)** the term “sharing” (including all conjugations thereof) means providing, receiving, and disseminating (including all conjugations of each of such terms).
 - **(b)** There is in the Department a national cybersecurity and communications integration center (referred to in this section as the “Center”) to carry out certain responsibilities of the Director. The Center shall be located in the Cybersecurity and Infrastructure Security Agency. The head of the Center shall report to the Assistant Director for Cybersecurity.
 - **(c)** The cybersecurity functions of the Center shall include—
   - **(1)** being a Federal civilian interface for the multi-directional and cross-sector sharing of information related to cyber threat indicators, defensive measures, cybersecurity risks, incidents, analysis, and warnings for Federal and non-Federal entities, including the implementation of title I of the Cybersecurity Act of 2015 [ 6 U.S.C. 1501 et seq.];
@@ -28,17 +29,18 @@ generated_at: "2026-03-29T21:56:51.789Z"
   - **(3)** coordinating the sharing of information related to cyber threat indicators, defensive measures, cybersecurity risks, and incidents across the Federal Government;
   - **(4)** facilitating cross-sector coordination to address cybersecurity risks and incidents, including cybersecurity risks and incidents that may be related or could have consequential impacts across multiple sectors;
   - **(5)**
-    - **(A)** conducting integration and analysis, including cross-sector integration and analysis, of cyber threat indicators, defensive measures, cybersecurity risks, and incidents; and
-    - **(B)** sharing the analysis conducted under subparagraph (A) with Federal and non-Federal entities;
-  - **(6)** upon request, providing timely technical assistance, risk management support, and incident response capabilities to Federal and non-Federal entities with respect to cyber threat indicators, defensive measures, cybersecurity risks, and incidents, which may include attribution, mitigation, and remediation;
+    - **(A)** conducting integration and analysis, including cross-sector integration and analysis, of cyber threat indicators, defensive measures, cybersecurity risks, and incidents;
+    - **(B)** sharing mitigation protocols to counter cybersecurity vulnerabilities pursuant to subsection (n), as appropriate; and
+    - **(C)** sharing the analysis conducted under subparagraph (A) and mitigation protocols to counter cybersecurity vulnerabilities in accordance with subparagraph (B), as appropriate, with Federal and non-Federal entities;
+  - **(6)** upon request, providing timely technical assistance, risk management support, and incident response capabilities to Federal and non-Federal entities with respect to cyber threat indicators, defensive measures, cybersecurity risks, and incidents, which may include attribution, mitigation, and remediation, which may take the form of continuous monitoring and detection of cybersecurity risks to critical infrastructure entities that own or operate industrial control systems that support national critical functions;
   - **(7)** providing information and recommendations on security and resilience measures to Federal and non-Federal entities, including information and recommendations to—
     - **(A)** facilitate information security;
     - **(B)** strengthen information systems against cybersecurity risks and incidents; and
-    - **(C)** sharing 1 1 So in original. Probably should be “share”. cyber threat indicators and defensive measures;
+    - **(C)** share cyber threat indicators and defensive measures;
   - **(8)** engaging with international partners, in consultation with other appropriate agencies, to—
     - **(A)** collaborate on cyber threat indicators, defensive measures, and information related to cybersecurity risks and incidents; and
     - **(B)** enhance the security and resilience of global cybersecurity;
-  - **(9)** sharing cyber threat indicators, defensive measures, and other information related to cybersecurity risks and incidents with Federal and non-Federal entities, including across sectors of critical infrastructure and with State and major urban area fusion centers, as appropriate;
+  - **(9)** sharing cyber threat indicators, defensive measures, mitigation protocols to counter cybersecurity vulnerabilities, as appropriate, and other information related to cybersecurity risks and incidents with Federal and non-Federal entities, including across sectors of critical infrastructure and with State and major urban area fusion centers, as appropriate;
   - **(10)** participating, as appropriate, in national exercises run by the Department;
   - **(11)** in coordination with the Emergency Communications Division of the Department, assessing and evaluating consequence, vulnerability, and threat information regarding cyber incidents to public safety communications to help facilitate continuous improvements to the security and resiliency of such communications; and
   - **(12)** detecting, identifying, and receiving information for a cybersecurity purpose about security vulnerabilities relating to critical infrastructure in information systems and devices.
@@ -71,8 +73,9 @@ generated_at: "2026-03-29T21:56:51.789Z"
         - **(II)** information sharing and analysis organizations; and
         - **(III)** other appropriate non-Federal partners;
     - **(F)** as appropriate, the Center works to develop and use mechanisms for sharing information related to cyber threat indicators, defensive measures, cybersecurity risks, and incidents that are technology-neutral, interoperable, real-time, cost-effective, and resilient;
-    - **(G)** the Center works with other agencies to reduce unnecessarily duplicative sharing of information related to cyber threat indicators, defensive measures, cybersecurity risks, and incidents; and; 2 2 So in original. The semicolon probably should not appear.
-    - **(H)** the Center designates an agency contact for non-Federal entities;
+    - **(G)** the Center works with other agencies to reduce unnecessarily duplicative sharing of information related to cyber threat indicators, defensive measures, cybersecurity risks, and incidents;
+    - **(H)** the Center designates an agency contact for non-Federal entities; and
+    - **(I)** activities of the Center address the security of both information technology and operational technology, including industrial control systems;
   - **(2)** that information related to cyber threat indicators, defensive measures, cybersecurity risks, and incidents is appropriately safeguarded against unauthorized access or disclosure; and
   - **(3)** that activities conducted by the Center comply with all policies, regulations, and laws that protect the privacy and civil liberties of United States persons, including by working with the Privacy Officer appointed under section 142 of this title to ensure that the Center follows the policies and procedures specified in subsections (b) and (d)(5)(C) of section 105 of the Cybersecurity Act of 2015 [ 6 U.S.C. 1504 ].
 - **(f)**
@@ -113,7 +116,8 @@ generated_at: "2026-03-29T21:56:51.789Z"
   - **(1)** The Secretary may leverage small business development centers to provide assistance to small business concerns by disseminating information on cyber threat indicators, defense measures, cybersecurity risks, incidents, analyses, and warnings to help small business concerns in developing or enhancing cybersecurity infrastructure, awareness of cyber threat indicators, and cyber training programs for employees.
   - **(2)** For purposes of this subsection, the terms “small business concern” and “small business development center” have the meaning given such terms, respectively, under section 632 of title 15 .
 - **(n)** The Secretary, in coordination with industry and other stakeholders, may develop and adhere to Department policies and procedures for coordinating vulnerability disclosures.
-- **(o)**
+- **(o)** The Director may, as appropriate, identify, develop, and disseminate actionable protocols to mitigate cybersecurity vulnerabilities to information systems and industrial control systems, including in circumstances in which such vulnerabilities exist because software or hardware is no longer supported by a vendor.
+- **(p)**
   - **(1)** In this subsection, the term “covered device or system”—
     - **(A)** means a device or system commonly used to perform industrial, commercial, scientific, or governmental functions or processes that relate to critical infrastructure, including operational and industrial control systems, distributed control systems, and programmable logic controllers; and
     - **(B)** does not include personal devices and systems, such as consumer mobile devices, home computers, residential wireless routers, or residential internet enabled consumer devices.
@@ -174,3 +178,9 @@ generated_at: "2026-03-29T21:56:51.789Z"
       - **(iii)** A description of the outcome of the subpoena, including discussion on the resolution or mitigation of the critical infrastructure security vulnerability.
   - **(12)** The Director shall publish a version of the annual report required under paragraph (11) on the website of the Agency, which shall, at a minimum, include the findings described in clauses (iii), (iv), and (v) of subparagraph (A) of such paragraph.
   - **(13)** Any information obtained pursuant to a subpoena issued under this subsection may not be provided to any other Federal department or agency for any purpose other than a cybersecurity purpose or for the purpose of enforcing a subpoena issued pursuant to this subsection.
+- **(q)** The Director shall maintain capabilities to identify and address threats and vulnerabilities to products and technologies intended for use in the automated control of critical infrastructure processes. In carrying out this subsection, the Director shall—
+  - **(1)** lead Federal Government efforts, in consultation with Sector Risk Management Agencies, as appropriate, to identify and mitigate cybersecurity threats to industrial control systems, including supervisory control and data acquisition systems;
+  - **(2)** maintain threat hunting and incident response capabilities to respond to industrial control system cybersecurity risks and incidents;
+  - **(3)** provide cybersecurity technical assistance to industry end-users, product manufacturers, Sector Risk Management Agencies, other Federal agencies, and other industrial control system stakeholders to identify, evaluate, assess, and mitigate vulnerabilities;
+  - **(4)** collect, coordinate, and provide vulnerability information to the industrial control systems community by, as appropriate, working closely with security researchers, industry end-users, product manufacturers, Sector Risk Management Agencies, other Federal agencies, and other industrial control systems stakeholders; and
+  - **(5)** conduct such other efforts and assistance as the Secretary determines appropriate.

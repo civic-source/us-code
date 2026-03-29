@@ -3,9 +3,9 @@ title: "Section 2458a - Federal employee participation in cultural exchange prog
 usc_title: 22
 usc_section: "2458a"
 chapter: 33
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 2458a"
-generated_at: "2026-03-29T21:58:43.158Z"
+generated_at: "2026-03-29T22:04:38.420Z"
 ---
 
 # § 2458a. Federal employee participation in cultural exchange programs

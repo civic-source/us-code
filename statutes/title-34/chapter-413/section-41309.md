@@ -3,9 +3,9 @@ title: "Section 41309 - Reporting on human trafficking"
 usc_title: 34
 usc_section: "41309"
 chapter: 413
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "34 U.S.C. § 41309"
-generated_at: "2026-03-29T21:59:56.131Z"
+generated_at: "2026-03-29T22:05:16.198Z"
 ---
 
 # § 41309. Reporting on human trafficking

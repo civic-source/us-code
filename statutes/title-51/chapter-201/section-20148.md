@@ -3,9 +3,9 @@ title: "Section 20148 - Indemnification; NASA launch services and reentry servic
 usc_title: 51
 usc_section: "20148"
 chapter: 201
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "51 U.S.C. § 20148"
-generated_at: "2026-03-29T22:02:06.583Z"
+generated_at: "2026-03-29T22:06:53.121Z"
 ---
 
 # § 20148. Indemnification; NASA launch services and reentry services

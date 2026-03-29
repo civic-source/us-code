@@ -3,9 +3,9 @@ title: "Section 113 - Federal financial assistance for support of additional dut
 usc_title: 32
 usc_section: "113"
 chapter: 1
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "32 U.S.C. § 113"
-generated_at: "2026-03-29T21:59:44.025Z"
+generated_at: "2026-03-29T22:05:25.363Z"
 ---
 
 # § 113. Federal financial assistance for support of additional duties assigned to the Army National Guard
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T21:59:44.025Z"
 - **(b)**
   - **(1)** Except as provided in paragraph (2), financial assistance may be provided for the performance of an activity by the Army National Guard under subsection (a) only if—
     - **(A)** the activity is carried out in the performance of a responsibility of the Secretary of the Army under paragraph (6), (10), or (11) of section 7013(b) of title 10 ; and
-    - **(B)** the Army National Guard was selected to perform the activity under competitive procedures that permit all qualified public-sector and private-sector sources to submit offers and be considered for selection to perform the activity on the basis of the offers, subject to the exceptions provided in section 2304(c) of title 10 .
+    - **(B)** the Army National Guard was selected to perform the activity under competitive procedures that permit all qualified public-sector and private-sector sources to submit offers and be considered for selection to perform the activity on the basis of the offers, subject to the exceptions provided in section 3204(a) of title 10 .
   - **(2)** Paragraph (1)(B) does not apply to an activity that, on October 17, 1998 , was performed for the Federal Government by employees of the Federal Government or employees of a State.
 - **(c)** The Secretary of the Army shall disburse any contribution under this section through the Chief of the National Guard Bureau.
 - **(d)** Funds appropriated for the Army for a fiscal year are available for providing financial assistance under this section in support of activities carried out by the Army National Guard during that fiscal year.

@@ -3,9 +3,9 @@ title: "Section 1815 - Rules and regulations"
 usc_title: 25
 usc_section: "1815"
 chapter: 20
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "25 U.S.C. § 1815"
-generated_at: "2026-03-29T21:58:48.168Z"
+generated_at: "2026-03-29T22:04:31.541Z"
 ---
 
 # § 1815. Rules and regulations

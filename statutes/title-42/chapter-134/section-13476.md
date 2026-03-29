@@ -3,9 +3,9 @@ title: "Section 13476 - Environmental restoration and waste management program"
 usc_title: 42
 usc_section: "13476"
 chapter: 134
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 13476"
-generated_at: "2026-03-29T22:01:08.479Z"
+generated_at: "2026-03-29T22:06:33.262Z"
 ---
 
 # § 13476. Environmental restoration and waste management program

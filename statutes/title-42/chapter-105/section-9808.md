@@ -3,9 +3,9 @@ title: "Section 9808 - Federal share; amount; availability; ownership of propert
 usc_title: 42
 usc_section: "9808"
 chapter: 105
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 9808"
-generated_at: "2026-03-29T22:01:08.266Z"
+generated_at: "2026-03-29T22:06:33.081Z"
 ---
 
 # § 9808. Federal share; amount; availability; ownership of property acquired with Federal financial assistance

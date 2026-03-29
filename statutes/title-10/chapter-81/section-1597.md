@@ -3,9 +3,9 @@ title: "Section 1597 - Civilian positions: guidelines for reductions"
 usc_title: 10
 usc_section: "1597"
 chapter: 81
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1597"
-generated_at: "2026-03-29T21:57:04.796Z"
+generated_at: "2026-03-29T22:03:29.491Z"
 ---
 
 # § 1597. Civilian positions: guidelines for reductions
@@ -18,4 +18,4 @@ generated_at: "2026-03-29T21:57:04.796Z"
   - **(4)** Direct operating or production positions in the United States.
 - **(c)** The Secretary of Defense may permit a variation from the guidelines established under subsection (b) if the Secretary determines that such variation is critical to the national security. The Secretary shall immediately notify the Congress of any such variation and the reasons for such variation.
 - **(d)** The Secretary of Defense may not implement any involuntary reduction or furlough of civilian positions in a military department, Defense Agency, or other component of the Department of Defense until the expiration of the 45-day period beginning on the date on which the Secretary submits to Congress a report setting forth the reasons why such reductions or furloughs are required and a description of any change in workload or positions requirements that will result from such reductions or furloughs.
-- **(e)** The Secretary of Defense shall establish procedures to provide that, in implementing any reduction in force for civilian positions in the Department of Defense in the competitive service or the excepted service, the determination of which employees shall be separated from employment in the Department shall be made primarily on the basis of performance, as determined under any applicable performance management system.
+- **(e)** The Secretary of Defense shall establish procedures to provide that, in implementing any reduction in force for civilian positions in the Department of Defense in the competitive service or the excepted service, the determination of which employees shall be separated from employment in the Department shall, among other factors as determined by the Secretary, account for employee performance, as determined under any applicable performance management system.

@@ -3,9 +3,9 @@ title: "Section 561 - Icebreaking in polar regions"
 usc_title: 14
 usc_section: "561"
 chapter: 5
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "14 U.S.C. § 561"
-generated_at: "2026-03-29T21:57:13.758Z"
+generated_at: "2026-03-29T22:03:34.052Z"
 ---
 
 # § 561. Icebreaking in polar regions
@@ -35,7 +35,7 @@ generated_at: "2026-03-29T21:57:13.758Z"
   - **(2)** Amounts made available to the Secretary under an agreement with a Federal department or agency other than the Coast Guard and expended on a capability of a Polar Security Cutter that is based solely on an operational requirement of such Federal department or agency shall not be treated as amounts expended by the Secretary for purposes of the limitation under paragraph (1).
 - **(f)**
   - **(1)** Subject to the availability of appropriations, the Commandant shall conduct an enhanced maintenance program on the Polar Star 1 1 So in original. “Polar Star” probably should be italicized. to extend the service life of such vessel until at least December 31, 2025 .
-  - **(2)** The Commandant may use funds made available pursuant to section 4902(1)(A), to carry out this subsection.T
+  - **(2)** The Commandant may use funds made available pursuant to section 4902(1)(A), to carry out this subsection.
 - **(g)** In this section:
   - **(1)** The term “ Polar Sea ” means Coast Guard Cutter Polar Sea (WAGB 11).
   - **(2)** The term “ Polar Star ” means Coast Guard Cutter Polar Star (WAGB 10).

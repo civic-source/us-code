@@ -3,9 +3,9 @@ title: "Section 1622e - Vesting of all non-adjudicatory functions, powers, and d
 usc_title: 22
 usc_section: "1622e"
 chapter: 21
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 1622e"
-generated_at: "2026-03-29T21:58:43.093Z"
+generated_at: "2026-03-29T22:04:38.351Z"
 ---
 
 # § 1622e. Vesting of all non-adjudicatory functions, powers, and duties in Chairman of Foreign Claims Settlement Commission of the United States

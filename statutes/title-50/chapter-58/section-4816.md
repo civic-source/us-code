@@ -3,9 +3,9 @@ title: "Section 4816 - Compliance assistance"
 usc_title: 50
 usc_section: "4816"
 chapter: 58
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 4816"
-generated_at: "2026-03-29T22:01:35.149Z"
+generated_at: "2026-03-29T22:06:44.534Z"
 ---
 
 # § 4816. Compliance assistance

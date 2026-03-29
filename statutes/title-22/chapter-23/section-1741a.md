@@ -3,9 +3,9 @@ title: "Section 1741a - Special Envoy for Hostage Affairs"
 usc_title: 22
 usc_section: "1741a"
 chapter: 23
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 1741a"
-generated_at: "2026-03-29T21:58:43.101Z"
+generated_at: "2026-03-29T22:04:38.360Z"
 ---
 
 # § 1741a. Special Envoy for Hostage Affairs

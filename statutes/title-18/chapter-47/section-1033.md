@@ -3,9 +3,9 @@ title: "Section 1033 - Crimes by or affecting persons engaged in the business of
 usc_title: 18
 usc_section: "1033"
 chapter: 47
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 1033"
-generated_at: "2026-03-29T21:58:06.929Z"
+generated_at: "2026-03-29T22:04:03.392Z"
 ---
 
 # § 1033. Crimes by or affecting persons engaged in the business of insurance whose activities affect interstate commerce

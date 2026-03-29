@@ -3,9 +3,9 @@ title: "Section 283g - Muscular dystrophy; initiative through Director of Nation
 usc_title: 42
 usc_section: "283g"
 chapter: 6
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 283g"
-generated_at: "2026-03-29T22:01:06.916Z"
+generated_at: "2026-03-29T22:06:31.869Z"
 ---
 
 # § 283g. Muscular dystrophy; initiative through Director of National Institutes of Health

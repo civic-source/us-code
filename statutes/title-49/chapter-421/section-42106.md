@@ -3,9 +3,9 @@ title: "Section 42106 - Repealed. Pub. L. 105–220, title I, § 199(a)(6) , Aug
 usc_title: 49
 usc_section: "42106"
 chapter: 421
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 42106"
-generated_at: "2026-03-29T22:02:02.797Z"
+generated_at: "2026-03-29T22:06:49.873Z"
 ---
 
 # [§§ 42101 to 42106. Repealed. Pub. L. 105–220, title I, § 199(a)(6) , Aug. 7, 1998 , 112 Stat. 1059 ]

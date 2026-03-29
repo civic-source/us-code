@@ -3,9 +3,9 @@ title: "Section 665g - State and local cybersecurity grant program"
 usc_title: 6
 usc_section: "665g"
 chapter: 1
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "6 U.S.C. § 665g"
-generated_at: "2026-03-29T21:56:51.794Z"
+generated_at: "2026-03-29T22:03:07.698Z"
 ---
 
 # § 665g. State and local cybersecurity grant program
@@ -221,7 +221,7 @@ generated_at: "2026-03-29T21:56:51.794Z"
       - **(ii)** reducing cybersecurity risks to, and identifying, responding to, and recovering from cybersecurity threats to, information systems owned or operated by, or on behalf of, State, local, or Tribal governments as a result of the award of grants under this section.
   - **(3)**
     - **(A)** The Secretary, acting through the Director, shall make each report submitted under paragraph (2) publicly available, including by making each report available on the website of the Agency.
-    - **(B)** In making each report publicly available under subparagraph (A), the Director may make redactions that the Director, in consultation with each eligible entity, determines necessary to protect classified or other information exempt from disclosure under section 552 of title 5 , United States Code (commonly referred to as the ‘Freedom of Information Act’).
+    - **(B)** In making each report publicly available under subparagraph (A), the Director may make redactions that the Director, in consultation with each eligible entity, determines necessary to protect classified or other information exempt from disclosure under section 552 of title 5 (commonly referred to as the ‘Freedom of Information Act’).
   - **(4)**
     - **(A)** Not later than September 30, 2024 , the Secretary, acting through the Director, shall submit to the appropriate committees of Congress a study and legislative recommendations on the potential use of a risk-based formula for apportioning funds under this section, including—
       - **(i)** potential components that could be included in a risk-based formula, including the potential impact of those components on support for rural areas under this section;

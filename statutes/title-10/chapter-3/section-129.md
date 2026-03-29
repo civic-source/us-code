@@ -3,14 +3,14 @@ title: "Section 129 - Civilian personnel management"
 usc_title: 10
 usc_section: "129"
 chapter: 3
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 129"
-generated_at: "2026-03-29T21:57:04.673Z"
+generated_at: "2026-03-29T22:03:29.337Z"
 ---
 
 # § 129. Civilian personnel management
 
-- **(a)** The civilian personnel of the Department of Defense shall be managed each fiscal year primarily on the basis of and consistent with (1) the total force management policies and procedures established under section 129a of this title , (2) the workload required to carry out the functions and activities of the department, and (3) the funds made available to the department for such fiscal year. The management of such personnel in any fiscal year shall not be subject solely to any constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees. The Secretary of Defense and the Secretaries of the military departments may not be required to make a reduction in the number of full-time equivalent positions in the Department of Defense except in accordance with the requirements of this section and section 129a of this title .
+- **(a)** The civilian personnel of the Department of Defense shall be managed each fiscal year solely on the basis of and consistent with (1) the total force management policies and procedures established under section 129a of this title , (2) the workload required to carry out the functions and activities of the department, and (3) the funds made available to the department for such fiscal year. The management of such personnel in any fiscal year shall not be subject to any constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees. The Secretary of Defense and the Secretaries of the military departments may not be required to make a reduction in the number of full-time equivalent positions in the Department of Defense except in accordance with the requirements of this section and section 129a of this title .
 - **(b)** With respect to each budget activity within an appropriation for a fiscal year for operations and maintenance, the Secretary of Defense shall ensure that there are employed during that fiscal year employees in the number and with the combination of skills and qualifications that are necessary to carry out the functions within that budget activity as determined under the total force management policies and procedures established under section 129a of this title .
 - **(c)**
   - **(1)** Not later than February 1 of each year—

@@ -3,9 +3,9 @@ title: "Section 8669b - Senior Technical Authority for each naval vessel class"
 usc_title: 10
 usc_section: "8669b"
 chapter: 863
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 8669b"
-generated_at: "2026-03-29T21:57:04.975Z"
+generated_at: "2026-03-29T22:03:29.668Z"
 ---
 
 # § 8669b. Senior Technical Authority for each naval vessel class
@@ -44,4 +44,4 @@ generated_at: "2026-03-29T21:57:04.975Z"
       - **(i)** a substantially new class of craft (including craft procured using “new start” procurement); and
       - **(ii)** a class of craft undergoing a significant incremental change in its existing class (such as a next “flight” of destroyers or next “block” of attack submarines).
   - **(2)** The term “future-years defense program” has the meaning given that term in section 221 of this title .
-  - **(3)** The term “Milestone A approval” has the meaning given that term in section 2431a of this title .
+  - **(3)** The term “Milestone A approval” has the meaning given that term in section 4211 of this title .

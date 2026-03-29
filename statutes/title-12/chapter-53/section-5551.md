@@ -3,9 +3,9 @@ title: "Section 5551 - Relation to State law"
 usc_title: 12
 usc_section: "5551"
 chapter: 53
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 5551"
-generated_at: "2026-03-29T21:57:19.632Z"
+generated_at: "2026-03-29T22:03:47.195Z"
 ---
 
 # § 5551. Relation to State law

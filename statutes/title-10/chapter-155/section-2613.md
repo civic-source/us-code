@@ -3,9 +3,9 @@ title: "Section 2613 - Acceptance of frequent traveler miles, credits, points, a
 usc_title: 10
 usc_section: "2613"
 chapter: 155
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2613"
-generated_at: "2026-03-29T21:57:04.881Z"
+generated_at: "2026-03-29T22:03:29.551Z"
 ---
 
 # § 2613. Acceptance of frequent traveler miles, credits, points, and tickets: use to facilitate rest and recuperation travel of deployed members and their families
@@ -30,4 +30,4 @@ generated_at: "2026-03-29T21:57:04.881Z"
 - **(f)** The Secretary of Defense may enter into an agreement with a nonprofit organization to use the services of the organization—
   - **(1)** to promote the donation of travel benefits under this section, except that amounts appropriated to the Department of Defense may not be expended for this purpose; and
   - **(2)** to assist in administering the collection, distribution, and use of travel benefits under this section.
-- **(g)** In this section, the term “family member” has the meaning given that term in section 481h(b) of title 37 .
+- **(g)** In this section, the term “family member” has the meaning given that term in section 481h(b) of title 37 . 1 1 See References in Text note below.

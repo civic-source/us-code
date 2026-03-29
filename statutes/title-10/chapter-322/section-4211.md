@@ -3,9 +3,9 @@ title: "Section 4211 - Acquisition strategy"
 usc_title: 10
 usc_section: "4211"
 chapter: 322
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 4211"
-generated_at: "2026-03-29T21:57:04.930Z"
+generated_at: "2026-03-29T22:03:29.616Z"
 ---
 
 # § 4211. Acquisition strategy
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T21:57:04.930Z"
     - **(D)** the strategy considers the items listed in paragraph (2).
   - **(2)** Each strategy shall, where appropriate, consider the following:
     - **(A)** An approach that delivers required capability in increments, each depending on available mature technology, and that recognizes up front the need for future capability improvements.
-    - **(B)** Acquisition approach, including industrial base considerations in accordance with paragraph (3).
+    - **(B)** Acquisition approach, including industrial base considerations in accordance with section 4820 of this title .
     - **(C)** Risk management, including such methods as competitive prototyping at the system, subsystem, or component level.
     - **(D)** Business strategy, including measures to ensure competition at the system and subsystem level throughout the life-cycle of the program or system in accordance with section 4324 of this title .
     - **(E)** Contracting strategy, including—
@@ -32,7 +32,28 @@ generated_at: "2026-03-29T21:57:04.930Z"
       - **(iv)** consideration of small business participation.
     - **(F)** Intellectual property strategy in accordance with sections 3771 through 3775 of this title.
     - **(G)** International involvement, including foreign military sales and cooperative opportunities, in accordance with section 2350a of this title .
-    - **(H)** Multiyear procurement in accordance with sections 3501 through 3511 of this title.
+    - **(H)** Multiyear procurement in accordance with sections 3501 through 3511 1 1 See References in Text note below. of this title.
     - **(I)** Integration of current intelligence assessments into the acquisition process.
     - **(J)** Requirements related to logistics, maintenance, and sustainment in accordance with sections 2464 and 2466 of this title.
-  - **(3)**
+- **(d)**
+  - **(1)** The milestone decision authority shall review and approve, as appropriate, the acquisition strategy for a major defense acquisition program, major automated information system, or major system at each of the following times:
+    - **(A)** Milestone A approval.
+    - **(B)** The decision to release the request for proposals for development of the program or system.
+    - **(C)** Milestone B approval.
+    - **(D)** Each subsequent milestone.
+    - **(E)** Review of any decision to enter into full-rate production.
+    - **(F)** When there has been—
+      - **(i)** a significant change to the cost of the program or system;
+      - **(ii)** a critical change to the cost of the program or system;
+      - **(iii)** a significant change to the schedule of the program or system; or
+      - **(iv)** a significant change to the performance of the program or system.
+    - **(G)** Any other time considered relevant by the milestone decision authority.
+  - **(2)** If the milestone decision authority revises an acquisition strategy for a program or system because of a change described in paragraph (1)(F), the milestone decision authority shall provide notice of the revision to the congressional defense committees.
+- **(e)** In this section:
+  - **(1)** The term “Milestone A approval” means a decision to enter into technology maturation and risk reduction pursuant to guidance prescribed by the Secretary of Defense for the management of Department of Defense acquisition programs.
+  - **(2)** The term “Milestone B approval” has the meaning provided in section 4172(e)(7) of this title .
+  - **(3)** The term “milestone decision authority”, with respect to a major defense acquisition program, major automated information system, or major system, means the official within the Department of Defense designated with the overall responsibility and authority for acquisition decisions for the program or system, including authority to approve entry of the program or system into the next phase of the acquisition process.
+  - **(4)** The term “management capacity”, with respect to a major defense acquisition program, major automated information system, or major system, means the capacity to manage the program or system through the use of highly qualified organizations and personnel with appropriate experience, knowledge, and skills.
+  - **(5)** The term “significant change to the cost”, with respect to a major defense acquisition program or major system, means a significant cost growth threshold, as that term is defined in section 4371(a)(2) of this title .
+  - **(6)** The term “critical change to the cost”, with respect to a major defense acquisition program or major system, means a critical cost growth threshold, as that term is defined in section 4371(a)(3) of this title .
+  - **(7)** The term “significant change to the schedule”, with respect to a major defense acquisition program, major automated information system, or major system, means any schedule delay greater than six months in a reported event.

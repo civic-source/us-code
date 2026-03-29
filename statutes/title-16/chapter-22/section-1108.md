@@ -3,9 +3,9 @@ title: "Section 1108 - Insurance"
 usc_title: 16
 usc_section: "1108"
 chapter: 22
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 1108"
-generated_at: "2026-03-29T21:58:32.829Z"
+generated_at: "2026-03-29T22:04:21.619Z"
 ---
 
 # § 1108. Insurance

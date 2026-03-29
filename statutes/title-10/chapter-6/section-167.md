@@ -3,9 +3,9 @@ title: "Section 167 - Unified combatant command for special operations forces"
 usc_title: 10
 usc_section: "167"
 chapter: 6
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 167"
-generated_at: "2026-03-29T21:57:04.679Z"
+generated_at: "2026-03-29T22:03:29.345Z"
 ---
 
 # § 167. Unified combatant command for special operations forces
@@ -38,7 +38,7 @@ generated_at: "2026-03-29T21:57:04.679Z"
     - **(A)** The commander of the special operations command shall be responsible for, and shall have the authority to conduct, the following:
       - **(i)** Development and acquisition of special operations-peculiar equipment.
       - **(ii)** Acquisition of special operations-peculiar material, supplies, and services.
-    - **(B)** Subject to the authority, direction, and control of the Secretary of Defense, the commander of the command, in carrying out his functions under subparagraph (A), shall have authority to exercise the functions of the head of an agency under chapter 137 of this title.
+    - **(B)** Subject to the authority, direction, and control of the Secretary of Defense, the commander of the command, in carrying out his functions under subparagraph (A), shall have authority to exercise the functions of the head of an agency under chapter 137 1 1 See References in Text note below. of this title.
     - **(C)**
       - **(i)** The staff of the commander shall include a command acquisition executive, who shall be responsible for the overall supervision of acquisition matters for the special operations command. The command acquisition executive shall have the authority to—
         - **(I)** negotiate memoranda of agreement with the military departments to carry out the acquisition of equipment, material, supplies, and services described in subparagraph (A) on behalf of the command;

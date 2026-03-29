@@ -3,9 +3,9 @@ title: "Section 844 - Penalties"
 usc_title: 18
 usc_section: "844"
 chapter: 40
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 844"
-generated_at: "2026-03-29T21:58:06.913Z"
+generated_at: "2026-03-29T22:04:03.371Z"
 ---
 
 # § 844. Penalties

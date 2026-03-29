@@ -3,9 +3,9 @@ title: "Section 40903 - Experimental Program to Stimulate Competitive Research�
 usc_title: 51
 usc_section: "40903"
 chapter: 409
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "51 U.S.C. § 40903"
-generated_at: "2026-03-29T22:02:06.592Z"
+generated_at: "2026-03-29T22:06:53.130Z"
 ---
 
 # § 40903. Experimental Program to Stimulate Competitive Research—merit grant competition requirements

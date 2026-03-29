@@ -3,9 +3,9 @@ title: "Section 644 - Taxable year of trusts"
 usc_title: 26
 usc_section: "644"
 chapter: 1
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 644"
-generated_at: "2026-03-29T21:59:41.455Z"
+generated_at: "2026-03-29T22:05:10.533Z"
 ---
 
 # § 644. Taxable year of trusts

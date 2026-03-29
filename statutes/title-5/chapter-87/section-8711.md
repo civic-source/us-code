@@ -3,9 +3,9 @@ title: "Section 8711 - Basic tables of premium rates"
 usc_title: 5
 usc_section: "8711"
 chapter: 87
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "5 U.S.C. § 8711"
-generated_at: "2026-03-29T21:56:41.916Z"
+generated_at: "2026-03-29T22:02:55.928Z"
 ---
 
 # § 8711. Basic tables of premium rates

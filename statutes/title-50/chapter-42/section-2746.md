@@ -3,9 +3,9 @@ title: "Section 2746 - Conceptual and construction design"
 usc_title: 50
 usc_section: "2746"
 chapter: 42
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 2746"
-generated_at: "2026-03-29T22:01:35.014Z"
+generated_at: "2026-03-29T22:06:44.435Z"
 ---
 
 # § 2746. Conceptual and construction design
@@ -17,5 +17,5 @@ generated_at: "2026-03-29T22:01:35.014Z"
     - **(A)** for a construction project the total estimated cost of which is less than the minor construction threshold; or
     - **(B)** for emergency planning, design, and construction activities under section 2747 of this title .
 - **(b)**
-  - **(1)** Within the amounts authorized by a DOE national security authorization, the Secretary may carry out construction design (including architectural and engineering services) in connection with any proposed construction project if the total estimated cost for such design does not exceed $2,000,000.
-  - **(2)** If the total estimated cost for construction design in connection with any construction project exceeds $2,000,000, funds for that design must be specifically authorized by law.
+  - **(1)** Within the amounts authorized by a DOE national security authorization, the Secretary may carry out construction design (including architectural and engineering services) in connection with any proposed construction project if the total estimated cost for such design does not exceed $5,000,000.
+  - **(2)** If the total estimated cost for construction design in connection with any construction project exceeds $5,000,000, funds for that design must be specifically authorized by law.

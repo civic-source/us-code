@@ -3,9 +3,9 @@ title: "Section 526a - Authorized strength after December 31, 2022 : general off
 usc_title: 10
 usc_section: "526a"
 chapter: 32
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 526a"
-generated_at: "2026-03-29T21:57:04.705Z"
+generated_at: "2026-03-29T22:03:29.378Z"
 ---
 
 # § 526a. Authorized strength after December 31, 2022 : general officers and flag officers on active duty
@@ -53,3 +53,10 @@ generated_at: "2026-03-29T21:57:04.705Z"
 - **(i)** Not later than March 1 each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report specifying the following:
   - **(1)** The numbers of general officers and flag officers who, as of January 1 of the calendar year in which the report is submitted, counted toward the service-specific limits of subsection (a).
   - **(2)** The number of general officers and flag officers in joint duty assignments who, as of such January 1, counted toward the statutory limit under subsection (b)(1).
+- **(i)**
+  - **(1)** The Secretary of Defense may increase the maximum number of brigadier generals or major generals in the Army, Air Force, Marine Corps, or Space Force, or rear admirals (lower half) or rear admirals in the Navy, allowed under subsection (a) and section 525 of this title and the President may appoint officers in the equivalent grades equal to the number increased by the Secretary of Defense if each appointment is made in conjunction with an offsetting reduction under paragraph (2).
+  - **(2)** For each increase and appointment made under the authority of paragraph (1) in the Army, Navy, Air Force, Marine Corps, or Space Force, the number of appointments that may be made in the equivalent grade in one of the other armed forces (other than the Coast Guard) shall be reduced by one. When such an increase and appointment is made, the Secretary of Defense shall specify the armed force in which the reduction required by this paragraph is to be made.
+  - **(3)** The total number of general officers and flag officers increased under paragraph (1), combined with the total number of general officers and flag officers increased under section 526(k)(1) of this title , may not exceed 15 at any one time.
+  - **(4)** The Secretary may not increase the maximum number of general officers or flag officers under paragraph (1) until the date that is 30 days after the date on which the Secretary provides, to the Committees on Armed Services of the Senate and the House of Representatives, written notice of—
+    - **(A)** such increase; and
+    - **(B)** each offsetting reduction under paragraph (2), specifying the armed force and billet so reduced.

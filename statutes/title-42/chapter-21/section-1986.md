@@ -3,9 +3,9 @@ title: "Section 1986 - Action for neglect to prevent"
 usc_title: 42
 usc_section: "1986"
 chapter: 21
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 1986"
-generated_at: "2026-03-29T22:01:07.750Z"
+generated_at: "2026-03-29T22:06:32.590Z"
 ---
 
 # § 1986. Action for neglect to prevent

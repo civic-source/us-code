@@ -3,9 +3,9 @@ title: "Section 61a - Transferred"
 usc_title: 2
 usc_section: "61a"
 chapter: 4
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 61a"
-generated_at: "2026-03-29T21:56:43.316Z"
+generated_at: "2026-03-29T22:03:02.369Z"
 ---
 
 # § 61a. Transferred

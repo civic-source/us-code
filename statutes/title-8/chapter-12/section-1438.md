@@ -3,9 +3,9 @@ title: "Section 1438 - Former citizens losing citizenship by entering armed forc
 usc_title: 8
 usc_section: "1438"
 chapter: 12
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "8 U.S.C. § 1438"
-generated_at: "2026-03-29T21:56:53.603Z"
+generated_at: "2026-03-29T22:03:17.470Z"
 ---
 
 # § 1438. Former citizens losing citizenship by entering armed forces of foreign countries during World War II

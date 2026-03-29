@@ -3,9 +3,9 @@ title: "Section 505b - Laws applicable"
 usc_title: 16
 usc_section: "505b"
 chapter: 2
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 505b"
-generated_at: "2026-03-29T21:58:32.725Z"
+generated_at: "2026-03-29T22:04:21.469Z"
 ---
 
 # § 505b. Laws applicable

@@ -3,9 +3,9 @@ title: "Section 2165 - National Defense University: component institutions"
 usc_title: 10
 usc_section: "2165"
 chapter: 108
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2165"
-generated_at: "2026-03-29T21:57:04.817Z"
+generated_at: "2026-03-29T22:03:29.513Z"
 ---
 
 # § 2165. National Defense University: component institutions
@@ -28,5 +28,5 @@ generated_at: "2026-03-29T21:57:04.817Z"
   - **(5)** Subject to such limitations as may be provided in appropriations Acts, appropriations available for the National Defense University may be used to pay expenses incurred by the University in applying for, and otherwise pursuing, the award of qualifying research grants.
   - **(6)** The Secretary shall prescribe regulations for the administration of this subsection.
 - **(f)**
-  - **(1)** In engaging in research and development projects pursuant to subsection (a) of section 2358 of this title by a contract, cooperative agreement, or grant pursuant to subsection (b)(1) of such section, the Secretary may enter into such contract or cooperative agreement or award such grant through the National Defense University.
+  - **(1)** In engaging in research and development projects pursuant to subsection (a) of section 4001 of this title by a contract, cooperative agreement, or grant pursuant to subsection (b)(1) of such section, the Secretary may enter into such contract or cooperative agreement or award such grant through the National Defense University.
   - **(2)** The National Defense University shall be considered a Government-operated Federal laboratory for purposes of section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ( 15 U.S.C. 3710a ).

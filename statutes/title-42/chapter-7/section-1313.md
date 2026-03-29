@@ -3,9 +3,9 @@ title: "Section 1313 - Assistance for United States citizens returned from forei
 usc_title: 42
 usc_section: "1313"
 chapter: 7
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 1313"
-generated_at: "2026-03-29T22:01:07.248Z"
+generated_at: "2026-03-29T22:06:32.177Z"
 ---
 
 # § 1313. Assistance for United States citizens returned from foreign countries

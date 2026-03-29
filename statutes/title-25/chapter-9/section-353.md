@@ -3,9 +3,9 @@ title: "Section 353 - Sections inapplicable to certain tribes"
 usc_title: 25
 usc_section: "353"
 chapter: 9
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "25 U.S.C. § 353"
-generated_at: "2026-03-29T21:58:48.120Z"
+generated_at: "2026-03-29T22:04:31.479Z"
 ---
 
 # § 353. Sections inapplicable to certain tribes

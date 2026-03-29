@@ -3,9 +3,9 @@ title: "Section 14901 - Separation of chaplains for loss of professional qualifi
 usc_title: 10
 usc_section: "14901"
 chapter: 1411
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 14901"
-generated_at: "2026-03-29T21:57:05.017Z"
+generated_at: "2026-03-29T22:03:29.726Z"
 ---
 
 # § 14901. Separation of chaplains for loss of professional qualifications

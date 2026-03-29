@@ -1,21 +1,12 @@
 ---
-title: "Section 2229b - Comptroller General assessment of acquisition programs and initiatives"
+title: "Section 2229b - Renumbered § 3072]"
 usc_title: 10
 usc_section: "2229b"
 chapter: 131
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2229b"
-generated_at: "2026-03-29T21:57:04.826Z"
+generated_at: "2026-03-29T22:03:29.524Z"
 ---
 
-# § 2229b. Comptroller General assessment of acquisition programs and initiatives
+# [§ 2229b. Renumbered § 3072]
 
-- **(a)** The Comptroller General of the United States shall submit to the congressional defense committees an annual assessment of selected acquisition programs and initiatives of the Department of Defense by March 30th of each year from 2020 through 2023.
-- **(b)** The assessment required under subsection (a) shall include—
-  - **(1)** a macro analysis of how well acquisition programs and initiatives are performing and reasons for that performance;
-  - **(2)** a discussion of selected organizational, policy, and legislative changes, as determined appropriate by the Comptroller General, and the potential implications for execution and oversight of programs and initiatives; and
-  - **(3)** specific analyses of individual acquisition programs and initiatives.
-- **(c)** The assessment required under subsection (a) shall consider the following programs and initiatives:
-  - **(1)** Selected weapon systems, as determined appropriate by the Comptroller General.
-  - **(2)** Selected information technology systems and initiatives, including defense business systems, networks, and software-intensive systems, as determined appropriate by the Comptroller General.
-  - **(3)** Selected prototyping and rapid fielding activities and initiatives, as determined appropriate by the Comptroller General.

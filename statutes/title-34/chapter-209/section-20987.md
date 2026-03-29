@@ -3,9 +3,9 @@ title: "Section 20987 - Grants for online child safety programs"
 usc_title: 34
 usc_section: "20987"
 chapter: 209
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "34 U.S.C. § 20987"
-generated_at: "2026-03-29T21:59:56.101Z"
+generated_at: "2026-03-29T22:05:16.174Z"
 ---
 
 # § 20987. Grants for online child safety programs

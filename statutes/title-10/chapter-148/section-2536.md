@@ -1,35 +1,12 @@
 ---
-title: "Section 2536 - Award of certain contracts to entities controlled by a foreign government: prohibition"
+title: "Section 2536 - Renumbered § 4874]"
 usc_title: 10
 usc_section: "2536"
 chapter: 148
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2536"
-generated_at: "2026-03-29T21:57:04.875Z"
+generated_at: "2026-03-29T22:03:29.545Z"
 ---
 
-# § 2536. Award of certain contracts to entities controlled by a foreign government: prohibition
+# [§ 2536. Renumbered § 4874]
 
-- **(a)** A Department of Defense contract or Department of Energy contract under a national security program may not be awarded to an entity controlled by a foreign government if it is necessary for that entity to be given access to information in a proscribed category of information in order to perform the contract.
-- **(b)**
-  - **(1)** The Secretary concerned may waive the application of subsection (a) to a contract award if—
-    - **(A)** the Secretary concerned determines that the waiver is essential to the national security interests of the United States; or
-    - **(B)** in the case of a contract awarded for environmental restoration, remediation, or waste management at a Department of Defense or Department of Energy facility—
-      - **(i)** the Secretary concerned determines that the waiver will advance the environmental restoration, remediation, or waste management objectives of the department concerned and will not harm the national security interests of the United States; and
-      - **(ii)** the entity to which the contract is awarded is controlled by a foreign government with which the Secretary concerned is authorized to exchange Restricted Data under section 144 c. of the Atomic Energy Act of 1954 ( 42 U.S.C. 2164(c) ).
-  - **(2)** The Secretary concerned shall notify Congress of any decision to grant a waiver under paragraph (1)(B) with respect to a contract. The contract may be awarded only after the end of the 45-day period beginning on the date the notification is received by the committees.
-- **(c)** In this section:
-  - **(1)** The term “entity controlled by a foreign government” includes—
-    - **(A)** any domestic or foreign organization or corporation that is effectively owned or controlled by a foreign government; and
-    - **(B)** any individual acting on behalf of a foreign government,
-  - **(2)** The term “proscribed category of information” means a category of information that—
-    - **(A)** with respect to Department of Defense contracts—
-      - **(i)** includes special access information;
-      - **(ii)** is determined by the Secretary of Defense to include information the disclosure of which to an entity controlled by a foreign government is not in the national security interests of the United States; and
-      - **(iii)** is defined in regulations prescribed by the Secretary of Defense for the purposes of this section; and
-    - **(B)** with respect to Department of Energy contracts—
-      - **(i)** is determined by the Secretary of Energy to include information described in subparagraph (A)(ii); and
-      - **(ii)** is defined in regulations prescribed by the Secretary of Energy for the purposes of this section.
-  - **(3)** The term “Secretary concerned” means—
-    - **(A)** the Secretary of Defense, with respect to Department of Defense contracts; and
-    - **(B)** the Secretary of Energy, with respect to Department of Energy contracts.

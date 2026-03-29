@@ -3,9 +3,9 @@ title: "Section 6943 - Authorization of appropriations"
 usc_title: 22
 usc_section: "6943"
 chapter: 77
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 6943"
-generated_at: "2026-03-29T21:58:43.280Z"
+generated_at: "2026-03-29T22:04:38.562Z"
 ---
 
 # § 6943. Authorization of appropriations

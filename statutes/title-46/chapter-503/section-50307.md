@@ -3,9 +3,9 @@ title: "Section 50307 - Maritime environmental and technical assistance program"
 usc_title: 46
 usc_section: "50307"
 chapter: 503
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 50307"
-generated_at: "2026-03-29T22:01:37.294Z"
+generated_at: "2026-03-29T22:06:41.446Z"
 ---
 
 # § 50307. Maritime environmental and technical assistance program
@@ -22,4 +22,7 @@ generated_at: "2026-03-29T22:01:37.294Z"
   - **(1)** activities that are associated with the development or approval of validation and testing regimes; and
   - **(2)** certification or validation of emerging technologies or practices that demonstrate significant environmental or other benefits to domestic maritime industries.
 - **(d)** The Secretary of Transportation may accept gifts, or enter into cooperative agreements, contracts, or other agreements with academic, public, private, and nongovernmental entities and facilities to carry out the activities authorized under subsection (a).
-- **(e)** Not more than three percent of the funds appropriated to carry out this section may be used for administrative purposes.
+- **(e)** The results of activities conducted under subsection (b)(1) shall be used to inform—
+  - **(1)** the policy decisions of the United States related to domestic regulations; and
+  - **(2)** the position of the United States on matters before the International Maritime Organization.
+- **(f)** Not more than three percent of the funds appropriated to carry out this section may be used for administrative purposes.

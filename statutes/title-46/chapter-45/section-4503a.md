@@ -3,9 +3,9 @@ title: "Section 4503a - Alternate safety compliance program"
 usc_title: 46
 usc_section: "4503a"
 chapter: 45
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 4503a"
-generated_at: "2026-03-29T22:01:37.250Z"
+generated_at: "2026-03-29T22:06:41.402Z"
 ---
 
 # § 4503a. Alternate safety compliance program

@@ -3,9 +3,9 @@ title: "Section 4627 - State required to furnish real property incident to Feder
 usc_title: 42
 usc_section: "4627"
 chapter: 61
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 4627"
-generated_at: "2026-03-29T22:01:07.910Z"
+generated_at: "2026-03-29T22:06:32.745Z"
 ---
 
 # § 4627. State required to furnish real property incident to Federal assistance (local cooperation)

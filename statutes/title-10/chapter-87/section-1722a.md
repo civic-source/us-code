@@ -3,14 +3,14 @@ title: "Section 1722a - Special requirements for military personnel in the acqui
 usc_title: 10
 usc_section: "1722a"
 chapter: 87
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1722a"
-generated_at: "2026-03-29T21:57:04.801Z"
+generated_at: "2026-03-29T22:03:29.496Z"
 ---
 
 # § 1722a. Special requirements for military personnel in the acquisition field
 
-- **(a)** The Secretary of Defense shall require the Secretary of each military department (with respect to such military department), in collaboration with the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force,, 1 1 So in original. the Commandant of the Marine Corps, and the Chief of Space Operations (with respect to the Army, Navy, Air Force, Marine Corps, and Space Force, respectively), and the Under Secretary of Defense for Acquisition and Sustainment (with respect to the Office of the Secretary of Defense, the unified combatant commands, the Defense Agencies, and the Defense Field Activities) to establish policies and issue guidance to ensure the proper development, assignment, and employment of members of the armed forces in the acquisition field to achieve the objectives of this section as specified in subsection (b).
+- **(a)** The Secretary of Defense shall require the Secretary of each military department (with respect to such military department), in collaboration with the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, the Commandant of the Marine Corps, and the Chief of Space Operations (with respect to the Army, Navy, Air Force, Marine Corps, and Space Force, respectively), and the Under Secretary of Defense for Acquisition and Sustainment (with respect to the Office of the Secretary of Defense, the unified combatant commands, the Defense Agencies, and the Defense Field Activities) to establish policies and issue guidance to ensure the proper development, assignment, and employment of members of the armed forces in the acquisition field to achieve the objectives of this section as specified in subsection (b).
 - **(b)** Policies established and guidance issued pursuant to subsection (a) shall ensure, at a minimum, the following:
   - **(1)** A single-track career path in the acquisition field that attracts the highest quality officers and enlisted personnel.
   - **(2)** A dual-track career path that attracts the highest quality officers and enlisted personnel and allows them to gain experience in and receive credit for a primary career in combat arms and a functional secondary career in the acquisition field in order to more closely align the military operational, requirements, and acquisition workforces of each armed force.

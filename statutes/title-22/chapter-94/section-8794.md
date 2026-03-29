@@ -3,9 +3,9 @@ title: "Section 8794 - Waiver"
 usc_title: 22
 usc_section: "8794"
 chapter: 94
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 8794"
-generated_at: "2026-03-29T21:58:43.321Z"
+generated_at: "2026-03-29T22:04:38.621Z"
 ---
 
 # § 8794. Waiver

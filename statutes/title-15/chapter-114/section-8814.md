@@ -3,9 +3,9 @@ title: "Section 8814 - National Quantum Initiative Advisory Committee"
 usc_title: 15
 usc_section: "8814"
 chapter: 114
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 8814"
-generated_at: "2026-03-29T21:57:53.052Z"
+generated_at: "2026-03-29T22:03:57.295Z"
 ---
 
 # § 8814. National Quantum Initiative Advisory Committee
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T21:57:53.052Z"
 - **(b)** The Advisory Committee shall consist of members, appointed by the President, who are representative of industry, universities, and Federal laboratories and are qualified to provide advice and information on quantum information science and technology research, development, demonstrations, standards, education, technology transfer, commercial application, or national security and economic concerns.
 - **(c)** In selecting the members of the Advisory Committee, the President may seek and give consideration to recommendations from the Congress, industry, the scientific community (including the National Academy of Sciences, scientific professional societies, and universities), the defense community, and other appropriate organizations.
 - **(d)**
-  - **(1)** The Advisory Committee shall advise the President and the Subcommittee and make recommendations for the President to consider when reviewing and revising the Program.
+  - **(1)** The Advisory Committee shall advise the President, the Subcommittee on Quantum Information Science, and the Subcommittee on Economic and Security Implications and make recommendations for the President to consider when reviewing and revising the Program.
   - **(2)** The Advisory Committee shall conduct periodic, independent assessments of—
     - **(A)** any trends or developments in quantum information science and technology;
     - **(B)** the progress made in implementing the Program;

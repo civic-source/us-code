@@ -3,9 +3,9 @@ title: "Section 518 - Authorization of appropriations"
 usc_title: 33
 usc_section: "518"
 chapter: 11
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 518"
-generated_at: "2026-03-29T21:59:51.369Z"
+generated_at: "2026-03-29T22:05:24.922Z"
 ---
 
 # § 518. Authorization of appropriations

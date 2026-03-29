@@ -3,9 +3,9 @@ title: "Section 11 - Exchange of copies of patents and applications with foreign
 usc_title: 35
 usc_section: "11"
 chapter: 1
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "35 U.S.C. § 11"
-generated_at: "2026-03-29T21:59:49.037Z"
+generated_at: "2026-03-29T22:05:14.082Z"
 ---
 
 # § 11. Exchange of copies of patents and applications with foreign countries

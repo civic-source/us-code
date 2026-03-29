@@ -3,9 +3,9 @@ title: "Section 15308 - Annual report"
 usc_title: 40
 usc_section: "15308"
 chapter: 153
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "40 U.S.C. § 15308"
-generated_at: "2026-03-29T21:59:59.262Z"
+generated_at: "2026-03-29T22:05:34.887Z"
 ---
 
 # § 15308. Annual report

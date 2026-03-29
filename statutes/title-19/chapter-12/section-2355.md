@@ -3,9 +3,9 @@ title: "Section 2355 - Assistance to industry; authorization of appropriations"
 usc_title: 19
 usc_section: "2355"
 chapter: 12
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "19 U.S.C. § 2355"
-generated_at: "2026-03-29T21:58:04.200Z"
+generated_at: "2026-03-29T22:04:07.872Z"
 ---
 
 # § 2355. Assistance to industry; authorization of appropriations

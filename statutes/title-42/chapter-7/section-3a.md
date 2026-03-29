@@ -3,9 +3,9 @@ title: "Section 3a - Requirements relating to qualified prescription drug monito
 usc_title: 42
 usc_section: "3a"
 chapter: 7
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 3a"
-generated_at: "2026-03-29T22:01:07.572Z"
+generated_at: "2026-03-29T22:06:32.448Z"
 ---
 
 # § 1396w–3a. Requirements relating to qualified prescription drug monitoring programs and prescribing certain controlled substances

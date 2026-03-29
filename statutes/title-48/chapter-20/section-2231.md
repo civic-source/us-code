@@ -3,9 +3,9 @@ title: "Section 2231 - Creditor collective action"
 usc_title: 48
 usc_section: "2231"
 chapter: 20
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "48 U.S.C. § 2231"
-generated_at: "2026-03-29T22:01:19.379Z"
+generated_at: "2026-03-29T22:06:38.248Z"
 ---
 
 # § 2231. Creditor collective action

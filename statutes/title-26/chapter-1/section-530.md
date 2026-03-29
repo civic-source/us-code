@@ -3,9 +3,9 @@ title: "Section 530 - Coverdell education savings accounts"
 usc_title: 26
 usc_section: "530"
 chapter: 1
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 530"
-generated_at: "2026-03-29T21:59:41.443Z"
+generated_at: "2026-03-29T22:05:10.516Z"
 ---
 
 # § 530. Coverdell education savings accounts

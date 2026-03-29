@@ -1,14 +1,12 @@
 ---
-title: "Section 3005 - Service chief concerned"
+title: "Section 3005 - [Reserved]"
 usc_title: 10
 usc_section: "3005"
 chapter: 201
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 3005"
-generated_at: "2026-03-29T21:57:04.909Z"
+generated_at: "2026-03-29T22:03:29.587Z"
 ---
 
-# § 3005. Service chief concerned
-
-[Reserved].
+# § 3005. [Reserved]
 

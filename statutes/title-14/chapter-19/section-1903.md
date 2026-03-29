@@ -3,9 +3,9 @@ title: "Section 1903 - Annual Board of Visitors"
 usc_title: 14
 usc_section: "1903"
 chapter: 19
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "14 U.S.C. § 1903"
-generated_at: "2026-03-29T21:57:13.764Z"
+generated_at: "2026-03-29T22:03:34.060Z"
 ---
 
 # § 1903. Annual Board of Visitors
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T21:57:13.764Z"
     - **(E)** 6 individuals designated by the President.
   - **(2)**
     - **(A)** A Member of Congress designated under subparagraph (C) or (D) of paragraph (1) as a member of the Board shall be designated as a member in the First Session of a Congress and serve for the duration of that Congress.
-    - **(B)** Each individual designated by the President under subparagraph (E) of paragraph (1) shall serve as a member of the Board for 3 years, except that any such member whose term of office has expired shall continue to serve until a successor is appointed.
+    - **(B)** Each individual designated by the President under subparagraph (E) of paragraph (1) shall serve as a member of the Board for 3 years, except that any such member whose term of office has expired shall continue to serve until a successor is appointed by the President.
   - **(3)** If a member of the Board dies or resigns, a successor shall be designated for any unexpired portion of the term of the member by the official who designated the member.
 - **(c)**
   - **(1)** The Board shall visit the Academy annually to review the operation of the Academy.

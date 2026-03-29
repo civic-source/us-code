@@ -3,9 +3,9 @@ title: "Section 3206 - Planning and solicitation requirements"
 usc_title: 10
 usc_section: "3206"
 chapter: 221
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 3206"
-generated_at: "2026-03-29T21:57:04.912Z"
+generated_at: "2026-03-29T22:03:29.591Z"
 ---
 
 # § 3206. Planning and solicitation requirements
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T21:57:04.912Z"
   - **(2)** Each solicitation under chapter 137 legacy provisions shall include specifications which—
     - **(A)** consistent with the provisions of chapter 137 legacy provisions, permit full and open competition; and
     - **(B)** include restrictive provisions or conditions only to the extent necessary to satisfy the needs of the agency or as authorized by law.
-  - **(3)** For the purposes of subparagraphs (A) and (B), the type of specification included in a solicitation shall depend on the nature of the needs of the agency and the market available to satisfy such needs. Subject to such needs, specifications may be stated in terms of—
+  - **(3)** For the purposes of paragraphs (1) and (2), the type of specification included in a solicitation shall depend on the nature of the needs of the agency and the market available to satisfy such needs. Subject to such needs, specifications may be stated in terms of—
     - **(A)** function, so that a variety of products or services may qualify;
     - **(B)** performance, including specifications of the range of acceptable characteristics or of the minimum acceptable standards; or
     - **(C)** design requirements.

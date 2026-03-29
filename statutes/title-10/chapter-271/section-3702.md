@@ -3,9 +3,9 @@ title: "Section 3702 - Required cost or pricing data and certification"
 usc_title: 10
 usc_section: "3702"
 chapter: 271
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 3702"
-generated_at: "2026-03-29T21:57:04.918Z"
+generated_at: "2026-03-29T22:03:29.599Z"
 ---
 
 # § 3702. Required cost or pricing data and certification
@@ -15,13 +15,13 @@ generated_at: "2026-03-29T21:57:04.918Z"
     - **(A)** in the case of a prime contract entered into after June 30, 2018 , the price of the contract to the United States is expected to exceed $2,000,000; and
     - **(B)** in the case of a prime contract entered into on or before June 30, 2018 , the price of the contract to the United States is expected to exceed $750,000.
   - **(2)** The contractor for a prime contract under a chapter 137 legacy provision shall be required to submit cost or pricing data before the pricing of a change or modification to the contract if the price adjustment is expected to exceed $2,000,000.
-  - **(3)** An offeror for a subcontract (at any tier) of a contract under this chapter shall be required to submit cost or pricing data before the award of the subcontract if the prime contractor and each higher-tier subcontractor have been required to make available cost or pricing data under this section and the price of the subcontract is expected to exceed $2,000,000.
-  - **(4)** The subcontractor for a subcontract covered by paragraph (3) shall be required to submit cost or pricing data before the pricing of a change or modification to the subcontract if the price adjustment is expected to exceed $2,000,000.
+  - **(3)** An offeror for a subcontract (at any tier) of a contract under this chapter shall be required to submit cost or pricing data before the award of the subcontract if the prime contractor and each higher-tier subcontractor have been required to make available cost or pricing data under this chapter and the price of the subcontract is expected to exceed $2,000,000.
+  - **(4)** The subcontractor for a subcontract covered by subparagraph (C) 1 1 So in original. Probably should be “paragraph (3)”. shall be required to submit cost or pricing data before the pricing of a change or modification to the subcontract if the price adjustment is expected to exceed $2,000,000.
 - **(b)** A person required, as an offeror, contractor, or subcontractor, to submit cost or pricing data under subsection (a) (or required by the head of the agency concerned to submit such data under section 3704 of this title ) shall be required to certify that, to the best of the person’s knowledge and belief, the cost or pricing data submitted are accurate, complete, and current.
 - **(c)** Cost or pricing data required to be submitted under subsection (a) (or under section 3704 of this title ), and a certification required to be submitted under subsection (b), shall be submitted—
   - **(1)** in the case of a submission by a prime contractor (or an offeror for a prime contract), to the contracting officer for the contract (or to a designated representative of the contracting officer); or
   - **(2)** in the case of a submission by a subcontractor (or an offeror for a subcontract), to the prime contractor.
-- **(d)** Except as provided under section 3703 of this title , this section applies to contracts entered into by the head of an agency on behalf of a foreign government.
+- **(d)** Except as provided under section 3703 of this title , this chapter applies to contracts entered into by the head of an agency on behalf of a foreign government.
 - **(e)** A waiver of requirements for submission of certified cost or pricing data that is granted under section 3703(a)(3) of this title in the case of a contract or subcontract does not waive the requirement under subsection (a)(3) for submission of cost or pricing data in the case of subcontracts under that contract or subcontract unless the head of the procuring activity granting the waiver determines that the requirement under that subsection should be waived in the case of such subcontracts and justifies in writing the reasons for the determination.
-- **(f)** Upon the request of a contractor that was required to submit cost or pricing data under subsection (a) in connection with a prime contract entered into on or before June 30, 2018 , the head of the agency that entered into such contract shall modify the contract to reflect paragraphs (2)(B) and (3)(B) of subsection (a). All such modifications shall be made without requiring consideration.
+- **(f)** Under subsection (a), in connection with a prime contract entered into on or before June 30, 2018 , the head of the agency that entered into such contract shall modify the contract as soon as practicable to reflect subparagraphs (B) and (C) of such paragraph, 2 2 See References in Text note below. without requiring consideration.
 - **(g)** Effective on October 1 of each year that is divisible by 5, each amount set forth in subsection (a) shall be adjusted in accordance with section 1908 of title 41 .

@@ -3,9 +3,9 @@ title: "Section 211 - Acceptance or solicitation to obtain appointive public off
 usc_title: 18
 usc_section: "211"
 chapter: 11
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 211"
-generated_at: "2026-03-29T21:58:06.892Z"
+generated_at: "2026-03-29T22:04:03.346Z"
 ---
 
 # § 211. Acceptance or solicitation to obtain appointive public office

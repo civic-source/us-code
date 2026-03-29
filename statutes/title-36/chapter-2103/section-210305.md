@@ -3,9 +3,9 @@ title: "Section 210305 - Governing body"
 usc_title: 36
 usc_section: "210305"
 chapter: 2103
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "36 U.S.C. § 210305"
-generated_at: "2026-03-29T22:00:07.855Z"
+generated_at: "2026-03-29T22:05:42.321Z"
 ---
 
 # § 210305. Governing body

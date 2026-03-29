@@ -3,9 +3,9 @@ title: "Section 63 - Liability of principal for act of agent"
 usc_title: 7
 usc_section: "63"
 chapter: 2
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 63"
-generated_at: "2026-03-29T21:57:09.058Z"
+generated_at: "2026-03-29T22:03:15.243Z"
 ---
 
 # § 63. Liability of principal for act of agent

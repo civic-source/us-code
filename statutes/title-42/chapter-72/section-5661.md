@@ -3,9 +3,9 @@ title: "Section 5661 - Transferred"
 usc_title: 42
 usc_section: "5661"
 chapter: 72
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 5661"
-generated_at: "2026-03-29T22:01:07.973Z"
+generated_at: "2026-03-29T22:06:32.806Z"
 ---
 
 # § 5661. Transferred

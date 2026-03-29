@@ -3,9 +3,9 @@ title: "Section 2166 - Jurisdiction"
 usc_title: 48
 usc_section: "2166"
 chapter: 20
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "48 U.S.C. § 2166"
-generated_at: "2026-03-29T22:01:19.375Z"
+generated_at: "2026-03-29T22:06:38.244Z"
 ---
 
 # § 2166. Jurisdiction

@@ -3,9 +3,9 @@ title: "Section 53 - Science committee"
 usc_title: 16
 usc_section: "53"
 chapter: 1
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 53"
-generated_at: "2026-03-29T21:58:32.704Z"
+generated_at: "2026-03-29T22:04:21.441Z"
 ---
 
 # § 460nnn–53. Science committee

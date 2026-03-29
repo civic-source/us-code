@@ -3,9 +3,9 @@ title: "Section 6881 - Energy resource and renewable-resource obligation guarant
 usc_title: 42
 usc_section: "6881"
 chapter: 81
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 6881"
-generated_at: "2026-03-29T22:01:08.049Z"
+generated_at: "2026-03-29T22:06:32.876Z"
 ---
 
 # § 6881. Energy resource and renewable-resource obligation guarantee program

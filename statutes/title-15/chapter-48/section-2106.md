@@ -3,9 +3,9 @@ title: "Section 2106 - Definitions"
 usc_title: 15
 usc_section: "2106"
 chapter: 48
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 2106"
-generated_at: "2026-03-29T21:57:52.937Z"
+generated_at: "2026-03-29T22:03:57.106Z"
 ---
 
 # § 2106. Definitions

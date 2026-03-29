@@ -3,9 +3,9 @@ title: "Section 442 - Missions"
 usc_title: 10
 usc_section: "442"
 chapter: 22
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 442"
-generated_at: "2026-03-29T21:57:04.698Z"
+generated_at: "2026-03-29T22:03:29.371Z"
 ---
 
 # § 442. Missions

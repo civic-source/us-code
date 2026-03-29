@@ -3,9 +3,9 @@ title: "Section 2204 - General duties of Secretary; advisory functions; research
 usc_title: 7
 usc_section: "2204"
 chapter: 55
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 2204"
-generated_at: "2026-03-29T21:57:09.261Z"
+generated_at: "2026-03-29T22:03:15.513Z"
 ---
 
 # § 2204. General duties of Secretary; advisory functions; research and development

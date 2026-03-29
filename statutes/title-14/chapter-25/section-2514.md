@@ -3,9 +3,9 @@ title: "Section 2514 - Career flexibility to enhance retention of members"
 usc_title: 14
 usc_section: "2514"
 chapter: 25
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "14 U.S.C. § 2514"
-generated_at: "2026-03-29T21:57:13.770Z"
+generated_at: "2026-03-29T22:03:34.068Z"
 ---
 
 # § 2514. Career flexibility to enhance retention of members
@@ -40,7 +40,7 @@ generated_at: "2026-03-29T21:57:13.770Z"
     - **(C)** A member who is ineligible for payment of a special or incentive pay or bonus otherwise covered by this paragraph by reason of subparagraph (B)(i)(II) shall be subject to the requirements for repayment of such pay or bonus in accordance with the terms of the applicable agreement of the member under chapter 5 of title 37.
     - **(D)** Any service required of a member under an agreement covered by this paragraph after the member returns to active duty as described in subparagraph (A) shall be in addition to any service required of the member under an agreement under subsection (c).
   - **(4)**
-    - **(A)** Subject to subparagraph (B), a member who participates in a program is entitled, while participating in the program, to the travel and transportation allowances authorized by section 474 of title 37 for—
+    - **(A)** Subject to subparagraph (B), a member who participates in a program is entitled, while participating in the program, to the travel and transportation allowances authorized by section 474 1 1 See References in Text note below. of title 37 for—
       - **(i)** travel performed from the residence of the member, at the time of release from active duty to participate in the program, to the location in the United States designated by the member as the member’s residence during the period of participation in the program; and
       - **(ii)** travel performed to the residence of the member upon return to active duty at the end of the participation of the member in the program.
     - **(B)** An allowance is payable under this paragraph only with respect to travel of a member to and from a single residence.

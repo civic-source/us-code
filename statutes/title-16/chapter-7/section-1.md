@@ -3,9 +3,9 @@ title: "Section 1 - Definition of State"
 usc_title: 16
 usc_section: "1"
 chapter: 7
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-29T21:58:32.780Z"
+generated_at: "2026-03-29T22:04:21.548Z"
 ---
 
 # § 719b–1. Definition of State

@@ -3,14 +3,14 @@ title: "Section 2107 - Financial assistance program for specially selected membe
 usc_title: 10
 usc_section: "2107"
 chapter: 103
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2107"
-generated_at: "2026-03-29T21:57:04.811Z"
+generated_at: "2026-03-29T22:03:29.507Z"
 ---
 
 # § 2107. Financial assistance program for specially selected members
 
-- **(a)** The Secretary of the military department concerned may appoint as a cadet or midshipman, as appropriate, in the reserve of an armed force under his jurisdiction any eligible member of the program who will be under 31 years of age on December 31 of the calendar year in which he is eligible under this section for appointment as an ensign in the Navy, as a second lieutenant in the Army, Air Force, Marine Corps, or as an officer in the equivalent grade in the Space Force or Space Force, 1 1 So in original. See 2021 Amendment notes below. as the case may be.
+- **(a)** The Secretary of the military department concerned may appoint as a cadet or midshipman, as appropriate, in the reserve of an armed force under his jurisdiction any eligible member of the program who will be under 31 years of age on December 31 of the calendar year in which he is eligible under this section for appointment as an ensign in the Navy, as a second lieutenant in the Army, Air Force, Marine Corps, or as an officer in the equivalent grade in the Space Force, as the case may be.
 - **(b)** To be eligible for appointment as a cadet or midshipman under this section a member must—
   - **(1)** be a citizen or national of the United States;
   - **(2)** be specially selected for the financial assistance program under procedures prescribed by the Secretary of the military department concerned;

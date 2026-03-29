@@ -3,9 +3,9 @@ title: "Section 1305 - Notices of change of address"
 usc_title: 8
 usc_section: "1305"
 chapter: 12
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "8 U.S.C. § 1305"
-generated_at: "2026-03-29T21:56:53.589Z"
+generated_at: "2026-03-29T22:03:17.450Z"
 ---
 
 # § 1305. Notices of change of address

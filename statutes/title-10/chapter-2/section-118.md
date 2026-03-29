@@ -3,9 +3,9 @@ title: "Section 118 - Materiel readiness metrics and objectives for major weapon
 usc_title: 10
 usc_section: "118"
 chapter: 2
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 118"
-generated_at: "2026-03-29T21:57:04.669Z"
+generated_at: "2026-03-29T22:03:29.333Z"
 ---
 
 # § 118. Materiel readiness metrics and objectives for major weapon systems
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T21:57:04.669Z"
   - **(1)** an assessment of the materiel availability, operational availability, and materiel reliability for each major weapon system; and
   - **(2)** a detailed explanation of any factors that could preclude the Department of Defense or any of the military departments from meeting applicable readiness goals or objectives.
 - **(e)** In this section:
-  - **(1)** The term “major weapon system” has the meaning given in section 2379(f) of this title .
+  - **(1)** The term “major weapon system” has the meaning given in section 3455(f) of this title .
   - **(2)** The term “materiel availability” means a measure of the percentage of the total inventory of a major weapon system that is operationally capable of performing an assigned mission.
   - **(3)** The term “materiel reliability” means the probability that a major weapon system will perform without failure over a specified interval.
   - **(4)** The term “operational availability” means a measure of the percentage of time a major weapon system is operationally capable.

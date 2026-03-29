@@ -3,9 +3,9 @@ title: "Section 285 - Acceptance of membership by United States in Asian Develop
 usc_title: 22
 usc_section: "285"
 chapter: 7
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 285"
-generated_at: "2026-03-29T21:58:43.063Z"
+generated_at: "2026-03-29T22:04:38.321Z"
 ---
 
 # § 285. Acceptance of membership by United States in Asian Development Bank

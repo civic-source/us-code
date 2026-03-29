@@ -3,9 +3,9 @@ title: "Section 4273 - Performance assessments and root cause analyses"
 usc_title: 10
 usc_section: "4273"
 chapter: 322
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 4273"
-generated_at: "2026-03-29T21:57:04.931Z"
+generated_at: "2026-03-29T22:03:29.618Z"
 ---
 
 # § 4273. Performance assessments and root cause analyses
@@ -16,17 +16,17 @@ generated_at: "2026-03-29T21:57:04.931Z"
   - **(3)** The Secretary shall assign to the senior official designated under paragraph (1) appropriate staff and resources necessary to carry out the senior official’s function under this section.
 - **(b)** The senior official designated under subsection (a) shall be responsible for the following:
   - **(1)** Carrying out performance assessments of major defense acquisition programs in accordance with the requirements of subsection (c) periodically or when requested by the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Secretary of a military department, or the head of a Defense Agency.
-  - **(2)** Conducting root cause analyses for major defense acquisition programs in accordance with the requirements of subsection (d) when required by 4376(a)(1) 1 1 So in original. Probably should be preceded by “section”. of this title, or when requested by the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Secretary of a military department, or the head of a Defense Agency.
+  - **(2)** Conducting root cause analyses for major defense acquisition programs in accordance with the requirements of subsection (d) when required by section 4376(a)(1) of this title , or when requested by the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Secretary of a military department, or the head of a Defense Agency.
   - **(3)** Issuing policies, procedures, and guidance governing the conduct of performance assessments and root cause analyses by the military departments and the Defense Agencies.
   - **(4)** Evaluating the utility of performance metrics used to measure the cost, schedule, and performance of major defense acquisition programs, and making such recommendations to the Secretary of Defense as the official considers appropriate to improve such metrics.
   - **(5)** Advising acquisition officials on performance issues regarding a major defense acquisition program that may arise—
-    - **(A)** before certification under sections 4736 2 2 So in original. Probably should be “4376”. and 4377 of this title;
+    - **(A)** before certification under sections 4736 1 1 So in original. Probably should be “4376”. and 4377 of this title;
     - **(B)** before entry into full-rate production; or
     - **(C)** in the course of consideration of any decision to request authorization of a multiyear procurement contract for the program.
 - **(c)** For purposes of this section, a performance assessment with respect to a major defense acquisition program is an evaluation of the following:
   - **(1)** The cost, schedule, and performance of the program, relative to current metrics, including performance requirements and baseline descriptions.
   - **(2)** The extent to which the level of program cost, schedule, and performance predicted relative to such metrics is likely to result in the timely delivery of a level of capability to the warfighter that is consistent with the level of resources to be expended and provides superior value to alternative approaches that may be available to meet the same military requirement.
-- **(d)** For purposes of this section and sections 4736 2 and 4377 of this title, a root cause analysis with respect to a major defense acquisition program is an assessment of the underlying cause or causes of shortcomings in cost, schedule, or performance of the program, including the role, if any, of—
+- **(d)** For purposes of this section and sections 4736 1 and 4377 of this title, a root cause analysis with respect to a major defense acquisition program is an assessment of the underlying cause or causes of shortcomings in cost, schedule, or performance of the program, including the role, if any, of—
   - **(1)** unrealistic performance expectations;
   - **(2)** unrealistic baseline estimates for cost or schedule;
   - **(3)** immature technologies or excessive manufacturing or integration risk;

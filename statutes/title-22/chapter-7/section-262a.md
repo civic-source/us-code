@@ -3,9 +3,9 @@ title: "Section 262a - Contributions to international organizations; consent of 
 usc_title: 22
 usc_section: "262a"
 chapter: 7
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 262a"
-generated_at: "2026-03-29T21:58:43.042Z"
+generated_at: "2026-03-29T22:04:38.297Z"
 ---
 
 # § 262a. Contributions to international organizations; consent of State Department; limitations as to certain organizations

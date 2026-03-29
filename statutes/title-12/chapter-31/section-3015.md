@@ -3,9 +3,9 @@ title: "Section 3015 - Eligibility of cooperatives"
 usc_title: 12
 usc_section: "3015"
 chapter: 31
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 3015"
-generated_at: "2026-03-29T21:57:19.535Z"
+generated_at: "2026-03-29T22:03:47.059Z"
 ---
 
 # § 3015. Eligibility of cooperatives

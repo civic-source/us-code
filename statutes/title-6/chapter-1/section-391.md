@@ -3,15 +3,15 @@ title: "Section 391 - Research and development projects"
 usc_title: 6
 usc_section: "391"
 chapter: 1
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "6 U.S.C. § 391"
-generated_at: "2026-03-29T21:56:51.766Z"
+generated_at: "2026-03-29T22:03:07.663Z"
 ---
 
 # § 391. Research and development projects
 
 - **(a)** Until September 30, 2017 , 1 1 See Extension of Secretary’s Authority below. and subject to subsection (d), 2 2 See References in Text note below. the Secretary may carry out a pilot program under which the Secretary may exercise the following authorities:
-  - **(1)** When the Secretary carries out basic, applied, and advanced research and development projects, including the expenditure of funds for such projects, the Secretary may exercise the same authority (subject to the same limitations and conditions) with respect to such research and projects as the Secretary of Defense may exercise under section 2371 of title 10 (except for subsections (b) and (f)), after making a determination that the use of a contract, grant, or cooperative agreement for such project is not feasible or appropriate. The annual report required under subsection (b) 1 of this section, as applied to the Secretary by this paragraph, shall be submitted to the President of the Senate and the Speaker of the House of Representatives.
+  - **(1)** When the Secretary carries out basic, applied, and advanced research and development projects, including the expenditure of funds for such projects, the Secretary may exercise the same authority (subject to the same limitations and conditions) with respect to such research and projects as the Secretary of Defense may exercise under section 4021 of title 10 (except for subsections (b) and (f)), after making a determination that the use of a contract, grant, or cooperative agreement for such project is not feasible or appropriate. The annual report required under subsection (b) 1 of this section, as applied to the Secretary by this paragraph, shall be submitted to the President of the Senate and the Speaker of the House of Representatives.
   - **(2)** The Secretary may, under the authority of paragraph (1), carry out prototype projects in accordance with the requirements and conditions provided for carrying out prototype projects under section 845 1 of the National Defense Authorization Act for Fiscal Year 1994 ( Public Law 103–160 ). In applying the authorities of that section 845, subsection (c) of that section shall apply with respect to prototype projects under this paragraph, and the Secretary shall perform the functions of the Secretary of Defense under subsection (d) thereof.
 - **(b)** The Secretary may—
   - **(1)** procure the temporary or intermittent services of experts or consultants (or organizations thereof) in accordance with section 3109(b) of title 5 ; and

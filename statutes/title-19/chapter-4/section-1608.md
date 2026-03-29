@@ -3,9 +3,9 @@ title: "Section 1608 - Seizure; claims; judicial condemnation"
 usc_title: 19
 usc_section: "1608"
 chapter: 4
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "19 U.S.C. § 1608"
-generated_at: "2026-03-29T21:58:04.156Z"
+generated_at: "2026-03-29T22:04:07.811Z"
 ---
 
 # § 1608. Seizure; claims; judicial condemnation

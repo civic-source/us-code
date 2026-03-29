@@ -3,9 +3,9 @@ title: "Section 704 - Partner’s distributive share"
 usc_title: 26
 usc_section: "704"
 chapter: 1
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 704"
-generated_at: "2026-03-29T21:59:41.462Z"
+generated_at: "2026-03-29T22:05:10.539Z"
 ---
 
 # § 704. Partner’s distributive share

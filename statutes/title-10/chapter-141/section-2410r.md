@@ -1,19 +1,12 @@
 ---
-title: "Section 2410r - Contract working dogs: requirement to transfer animals to 341st Training Squadron after service life"
+title: "Section 2410r - Renumbered § 2387]"
 usc_title: 10
 usc_section: "2410r"
 chapter: 141
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2410r"
-generated_at: "2026-03-29T21:57:04.861Z"
+generated_at: "2026-03-29T22:03:29.536Z"
 ---
 
-# § 2410r. Contract working dogs: requirement to transfer animals to 341st Training Squadron after service life
+# [§ 2410r. Renumbered § 2387]
 
-- **(a)** Each contract entered into by the Secretary of Defense for the provision of a contract working dog shall require, and shall contain a contract term, that the dog be transferred to the 341st Training Squadron and assigned for veterinary screening and care in accordance with section 2583 of this title after the service life of the dog has terminated as described in subsection (b) for reclassification as a military animal and placement for adoption in accordance with such section.
-- **(b)** The service life of a contract working dog has terminated and the dog is available for transfer to the 341st Training Squadron pursuant to a contract under subsection (a) only if the contracting officer concerned has determined that—
-  - **(1)** the final contractual obligation of the dog preceding such transfer is with the Department of Defense; and
-  - **(2)** the dog cannot be used by another department or agency of the Federal Government due to age, injury, or performance.
-- **(c)** In this section, the term “contract working dog” means a dog—
-  - **(1)** that performs a service for the Department of Defense pursuant to a contract; and
-  - **(2)** that is trained and kenneled by an entity that provides such a dog pursuant to such a contract.

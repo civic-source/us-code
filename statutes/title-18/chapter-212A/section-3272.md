@@ -3,9 +3,9 @@ title: "Section 3272 - Definitions"
 usc_title: 18
 usc_section: "3272"
 chapter: 212
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 3272"
-generated_at: "2026-03-29T21:58:06.986Z"
+generated_at: "2026-03-29T22:04:03.475Z"
 ---
 
 # § 3272. Definitions

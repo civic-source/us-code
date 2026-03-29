@@ -3,9 +3,9 @@ title: "Section 7551 - Omitted"
 usc_title: 42
 usc_section: "7551"
 chapter: 85
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "42 U.S.C. § 7551"
-generated_at: "2026-03-29T22:01:08.152Z"
+generated_at: "2026-03-29T22:06:32.971Z"
 ---
 
 # § 7551. Omitted

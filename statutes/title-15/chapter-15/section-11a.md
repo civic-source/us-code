@@ -3,9 +3,9 @@ title: "Section 11a - Interest prohibited when reimbursing Corporation for net r
 usc_title: 15
 usc_section: "11a"
 chapter: 15
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 11a"
-generated_at: "2026-03-29T21:57:52.845Z"
+generated_at: "2026-03-29T22:03:56.950Z"
 ---
 
 # § 713a–11a. Interest prohibited when reimbursing Corporation for net realized losses

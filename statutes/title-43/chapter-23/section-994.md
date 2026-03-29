@@ -3,9 +3,9 @@ title: "Section 994 - Sale of lands in Wisconsin"
 usc_title: 43
 usc_section: "994"
 chapter: 23
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "43 U.S.C. § 994"
-generated_at: "2026-03-29T22:01:10.402Z"
+generated_at: "2026-03-29T22:05:55.058Z"
 ---
 
 # § 994. Sale of lands in Wisconsin

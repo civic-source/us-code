@@ -3,9 +3,9 @@ title: "Section 1599c - Health care professionals: enhanced appointment and comp
 usc_title: 10
 usc_section: "1599c"
 chapter: 81
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1599c"
-generated_at: "2026-03-29T21:57:04.797Z"
+generated_at: "2026-03-29T22:03:29.492Z"
 ---
 
 # § 1599c. Health care professionals: enhanced appointment and compensation authority for personnel for care and treatment of wounded and injured members of the armed forces

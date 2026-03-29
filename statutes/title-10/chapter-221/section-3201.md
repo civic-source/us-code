@@ -3,15 +3,15 @@ title: "Section 3201 - Full and open competition"
 usc_title: 10
 usc_section: "3201"
 chapter: 221
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 3201"
-generated_at: "2026-03-29T21:57:04.911Z"
+generated_at: "2026-03-29T22:03:29.590Z"
 ---
 
 # § 3201. Full and open competition
 
-- **(a)** Except as provided in sections 3203, 3204(a), and 3205 of this title, and except in the case of procurement procedures otherwise expressly authorized by statute, the head of an agency in conducting a procurement for property or services—
-  - **(1)** shall obtain full and open competition through the use of competitive procedures in accordance with the requirements of this section and sections 3069, 3203, 3204, 3205, 3403, 3405, 3406, 3901 1 1 So in original. Probably should be followed by a comma. 4501, and 4502 of this title and the Federal Acquisition Regulation; and
+- **(a)** Except as provided in sections 3203, 3204(a), and 3205 of this title and except in the case of procurement procedures otherwise expressly authorized by statute, the head of an agency in conducting a procurement for property or services—
+  - **(1)** shall obtain full and open competition through the use of competitive procedures in accordance with the requirements of this section and sections 3069, 3203, 3204, 3205, 3403, 3405, 3406, 3901, 4501, and 4502 of this title and the Federal Acquisition Regulation; and
   - **(2)** shall use the competitive procedure or combination of competitive procedures that is best suited under the circumstances of the procurement.
 - **(b)** In determining the competitive procedure appropriate under the circumstances, the head of an agency—
   - **(1)** shall solicit sealed bids if—

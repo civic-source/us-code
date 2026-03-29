@@ -3,9 +3,9 @@ title: "Section 1388 - Marine mammal cooperative agreements in Alaska"
 usc_title: 16
 usc_section: "1388"
 chapter: 31
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 1388"
-generated_at: "2026-03-29T21:58:32.857Z"
+generated_at: "2026-03-29T22:04:21.657Z"
 ---
 
 # § 1388. Marine mammal cooperative agreements in Alaska

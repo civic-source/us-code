@@ -3,9 +3,9 @@ title: "Section 8331 - Members of the Fleet Reserve and Fleet Marine Corps Reser
 usc_title: 10
 usc_section: "8331"
 chapter: 841
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 8331"
-generated_at: "2026-03-29T21:57:04.966Z"
+generated_at: "2026-03-29T22:03:29.660Z"
 ---
 
 # § 8331. Members of the Fleet Reserve and Fleet Marine Corps Reserve: transfer to the retired list; retired pay

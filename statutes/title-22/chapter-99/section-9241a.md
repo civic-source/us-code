@@ -3,9 +3,9 @@ title: "Section 9241a - Rebuttable presumption applicable to goods made with Nor
 usc_title: 22
 usc_section: "9241a"
 chapter: 99
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 9241a"
-generated_at: "2026-03-29T21:58:43.332Z"
+generated_at: "2026-03-29T22:04:38.637Z"
 ---
 
 # § 9241a. Rebuttable presumption applicable to goods made with North Korean labor

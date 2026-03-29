@@ -3,9 +3,9 @@ title: "Section 4864 - Miscellaneous limitations on the procurement of goods oth
 usc_title: 10
 usc_section: "4864"
 chapter: 385
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 4864"
-generated_at: "2026-03-29T21:57:04.943Z"
+generated_at: "2026-03-29T22:03:29.631Z"
 ---
 
 # § 4864. Miscellaneous limitations on the procurement of goods other than United States goods
@@ -18,14 +18,17 @@ generated_at: "2026-03-29T21:57:04.943Z"
     - **(C)** Steering controls.
     - **(D)** Propulsion and machinery control systems.
     - **(E)** Totally enclosed lifeboats.
-  - **(3)** Subject to subsection (j), 1 1 See References in Text note below. large medium-speed diesel engines.
+    - **(F)** Welded shipboard anchor and mooring chain.
+  - **(3)** Subject to subsection (k), large medium-speed diesel engines.
   - **(4)** The following components of T–AO 205 class vessels:
     - **(A)** Auxiliary equipment, including pumps, for all shipboard services.
     - **(B)** Propulsion system components, including engines, reduction gears, and propellers.
     - **(C)** Shipboard cranes.
     - **(D)** Spreaders for shipboard cranes.
-  - **(5)** A star tracker used in a satellite weighing more than 400 pounds whose principle purpose is to support the national security, defense, or intelligence needs of the United States Government.
-- **(b)** A manufacturer meets the requirements of this subsection if the manufacturer is part of the national technology and industrial base.
+  - **(5)** A star tracker used in a satellite weighing more than 400 pounds whose principal purpose is to support the national security, defense, or intelligence needs of the United States Government.
+- **(b)**
+  - **(1)** Except as provided in paragraph (2), a manufacturer meets the requirements of this subsection if the manufacturer is part of the national technology and industrial base.
+  - **(2)** A manufacturer of welded shipboard anchor and mooring chain for naval vessels meets the requirements of this subsection if the manufacturer is part of the national technology and industrial base.
 - **(c)** Subsection (a) does not apply to a procurement of spare or repair parts needed to support components for naval vessels produced or manufactured outside the United States.
 - **(d)** The Secretary of Defense may waive the limitation in subsection (a) with respect to the procurement of an item listed in that subsection if the Secretary determines that any of the following apply:
   - **(1)** Application of the limitation would cause unreasonable costs or delays to be incurred.

@@ -3,9 +3,9 @@ title: "Section 12632 - Extension of authorizations of appropriations for fiscal
 usc_title: 34
 usc_section: "12632"
 chapter: 121
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "34 U.S.C. § 12632"
-generated_at: "2026-03-29T21:59:56.082Z"
+generated_at: "2026-03-29T22:05:16.152Z"
 ---
 
 # § 12632. Extension of authorizations of appropriations for fiscal years for which full amount authorized is not appropriated

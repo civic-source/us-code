@@ -3,9 +3,9 @@ title: "Section 1137 - Contracting for major acquisitions programs"
 usc_title: 14
 usc_section: "1137"
 chapter: 11
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "14 U.S.C. § 1137"
-generated_at: "2026-03-29T21:57:13.763Z"
+generated_at: "2026-03-29T22:03:34.059Z"
 ---
 
 # § 1137. Contracting for major acquisitions programs
@@ -17,5 +17,5 @@ generated_at: "2026-03-29T21:57:13.763Z"
   - **(3)** may include combined purchases, also known as economic order quantity purchases, of—
     - **(A)** materials and components; and
     - **(B)** long lead time materials; and
-  - **(4)** as provided in section 2306b of title 10 , may be multiyear contracts.
+  - **(4)** as provided in section 3501 of title 10 , may be multiyear contracts.
 - **(c)** Any contract entered into under subsection (a) shall provide that any obligation of the United States to make a payment under the contract is subject to the availability of amounts specifically provided in advance for that purpose in subsequent appropriations Acts.

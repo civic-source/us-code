@@ -3,9 +3,9 @@ title: "Section 2279e - Approval of disclosure information and issuance of chart
 usc_title: 12
 usc_section: "2279e"
 chapter: 23
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 2279e"
-generated_at: "2026-03-29T21:57:19.520Z"
+generated_at: "2026-03-29T22:03:47.040Z"
 ---
 
 # § 2279e. Approval of disclosure information and issuance of charters

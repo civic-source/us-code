@@ -3,9 +3,9 @@ title: "Section 2462 - Civil action against Secretary"
 usc_title: 7
 usc_section: "2462"
 chapter: 57
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 2462"
-generated_at: "2026-03-29T21:57:09.274Z"
+generated_at: "2026-03-29T22:03:15.528Z"
 ---
 
 # § 2462. Civil action against Secretary

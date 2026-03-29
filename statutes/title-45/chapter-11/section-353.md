@@ -3,9 +3,9 @@ title: "Section 353 - Qualifying condition"
 usc_title: 45
 usc_section: "353"
 chapter: 11
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "45 U.S.C. § 353"
-generated_at: "2026-03-29T22:00:35.781Z"
+generated_at: "2026-03-29T22:05:52.203Z"
 ---
 
 # § 353. Qualifying condition

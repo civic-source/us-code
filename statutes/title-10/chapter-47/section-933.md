@@ -1,14 +1,14 @@
 ---
-title: "Section 933 - Art. 133. Conduct unbecoming an officer and a gentleman"
+title: "Section 933 - Art. 133. Conduct unbecoming an officer"
 usc_title: 10
 usc_section: "933"
 chapter: 47
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 933"
-generated_at: "2026-03-29T21:57:04.732Z"
+generated_at: "2026-03-29T22:03:29.411Z"
 ---
 
-# § 933. Art. 133. Conduct unbecoming an officer and a gentleman
+# § 933. Art. 133. Conduct unbecoming an officer
 
-Any commissioned officer, cadet, or midshipman who is convicted of conduct unbecoming an officer and a gentleman shall be punished as a court-martial may direct.
+Any commissioned officer, cadet, or midshipman who is convicted of conduct unbecoming an officer shall be punished as a court-martial may direct.
 

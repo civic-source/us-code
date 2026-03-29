@@ -3,9 +3,9 @@ title: "Section 57 - Separability clause"
 usc_title: 15
 usc_section: "57"
 chapter: 2
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 57"
-generated_at: "2026-03-29T21:57:52.666Z"
+generated_at: "2026-03-29T22:03:56.683Z"
 ---
 
 # § 57. Separability clause

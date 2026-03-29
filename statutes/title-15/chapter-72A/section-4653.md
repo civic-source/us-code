@@ -3,9 +3,9 @@ title: "Section 4653 - Department of Defense"
 usc_title: 15
 usc_section: "4653"
 chapter: 72
-current_through: "PL 117-80"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 4653"
-generated_at: "2026-03-29T21:57:52.996Z"
+generated_at: "2026-03-29T22:03:57.201Z"
 ---
 
 # § 4653. Department of Defense
@@ -39,10 +39,13 @@ generated_at: "2026-03-29T21:57:52.996Z"
     - **(A)** Not later than 90 days after January 1, 2021 , the Secretary of Defense shall submit to Congress a report on the plans of the Secretary to carry out paragraphs (1) and (6).
     - **(B)** Not later than one year after the date on which the Secretary submits the report required by subparagraph (A) and not less frequently than once every two years thereafter for a period of 10 years, the Comptroller General of the United States shall submit to Congress a report on the activities carried out under this subsection.
 - **(b)**
-  - **(1)** Subject to the availability of appropriations for such purposes, the Secretary of Defense may establish a national network for microelectronics research and development—
+  - **(1)** Subject to the availability of appropriations for such purposes, the Secretary of Defense shall establish a national network for microelectronics research and development—
     - **(A)** to enable the laboratory to fabrication transition of microelectronics innovations in the United States; and
     - **(B)** to expand the global leadership in microelectronics of the United States.
   - **(2)** The national network for microelectronics research and development shall—
     - **(A)** enable cost effective exploration of new materials, devices, and architectures, and prototyping in domestic facilities to safeguard domestic intellectual property;
     - **(B)** accelerate the transition of new technologies to domestic microelectronics manufacturers; and
     - **(C)** conduct other relevant activities deemed necessary by the Secretary of Defense for accomplishing the purposes of the national network for microelectronics research and development.
+  - **(3)**
+    - **(A)** In carrying out paragraph (1), the Secretary shall, through a competitive process, select two or more entities to carry out the activities described in paragraph (2) as part of the network established under paragraph (1).
+    - **(B)** The Secretary shall, to the extent practicable, ensure that the entities selected under subparagraph (A) collectively represent the geographic diversity of the United States.
