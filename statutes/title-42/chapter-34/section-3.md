@@ -3,9 +3,9 @@ title: "Section 3 - Grant program to ensure survival and continuing vitality of 
 usc_title: 42
 usc_section: "3"
 chapter: 34
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-29T21:02:49.312Z"
+generated_at: "2026-03-29T21:07:29.962Z"
 ---
 
 # § 2991b–3. Grant program to ensure survival and continuing vitality of Native American languages

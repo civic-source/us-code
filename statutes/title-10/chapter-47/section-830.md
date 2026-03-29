@@ -3,9 +3,9 @@ title: "Section 830 - Art 30. Charges and specifications"
 usc_title: 10
 usc_section: "830"
 chapter: 47
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "10 U.S.C. § 830"
-generated_at: "2026-03-29T21:00:32.897Z"
+generated_at: "2026-03-29T21:04:40.133Z"
 ---
 
 # § 830. Art 30. Charges and specifications

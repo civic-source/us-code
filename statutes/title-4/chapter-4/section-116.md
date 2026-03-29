@@ -3,9 +3,9 @@ title: "Section 116 - Rules for determining State and local government treatment
 usc_title: 4
 usc_section: "116"
 chapter: 4
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "4 U.S.C. § 116"
-generated_at: "2026-03-29T20:59:44.812Z"
+generated_at: "2026-03-29T21:03:48.066Z"
 ---
 
 # § 116. Rules for determining State and local government treatment of charges related to mobile telecommunications services

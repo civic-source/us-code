@@ -3,9 +3,9 @@ title: "Section 7243 - Applications"
 usc_title: 20
 usc_section: "7243"
 chapter: 70
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "20 U.S.C. § 7243"
-generated_at: "2026-03-29T21:01:06.364Z"
+generated_at: "2026-03-29T21:05:50.725Z"
 ---
 
 # § 7243. Applications

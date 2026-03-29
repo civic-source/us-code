@@ -3,9 +3,9 @@ title: "Section 42502 - National Shipper Advisory Committee"
 usc_title: 46
 usc_section: "42502"
 chapter: 425
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "46 U.S.C. § 42502"
-generated_at: "2026-03-29T21:02:59.907Z"
+generated_at: "2026-03-29T21:07:36.081Z"
 ---
 
 # § 42502. National Shipper Advisory Committee

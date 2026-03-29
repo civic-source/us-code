@@ -3,9 +3,9 @@ title: "Section 1 - Recovery of operating costs through fee collections"
 usc_title: 15
 usc_section: "1"
 chapter: 63
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-29T21:00:47.729Z"
+generated_at: "2026-03-29T21:04:59.125Z"
 ---
 
 # § 3704b–1. Recovery of operating costs through fee collections

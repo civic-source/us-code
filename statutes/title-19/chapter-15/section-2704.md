@@ -3,9 +3,9 @@ title: "Section 2704 - International Trade Commission reports on impact of Carib
 usc_title: 19
 usc_section: "2704"
 chapter: 15
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "19 U.S.C. § 2704"
-generated_at: "2026-03-29T21:00:55.931Z"
+generated_at: "2026-03-29T21:05:21.169Z"
 ---
 
 # § 2704. International Trade Commission reports on impact of Caribbean Basin Economic Recovery Program

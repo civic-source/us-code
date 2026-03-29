@@ -3,9 +3,9 @@ title: "Section 537 - Maintenance and reconstruction by road users; funds for ma
 usc_title: 16
 usc_section: "537"
 chapter: 2
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "16 U.S.C. § 537"
-generated_at: "2026-03-29T21:01:01.676Z"
+generated_at: "2026-03-29T21:05:17.215Z"
 ---
 
 # § 537. Maintenance and reconstruction by road users; funds for maintenance and reconstruction; availability of deposits until expended, transfer of funds, and refunds

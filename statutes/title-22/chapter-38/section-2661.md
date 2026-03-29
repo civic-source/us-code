@@ -3,9 +3,9 @@ title: "Section 2661 - Procurement of information for corporations, firms and in
 usc_title: 22
 usc_section: "2661"
 chapter: 38
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "22 U.S.C. § 2661"
-generated_at: "2026-03-29T21:01:20.909Z"
+generated_at: "2026-03-29T21:06:05.028Z"
 ---
 
 # § 2661. Procurement of information for corporations, firms and individuals; expense of cablegrams and telephone service involved; appropriation

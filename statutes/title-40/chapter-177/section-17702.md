@@ -3,9 +3,9 @@ title: "Section 17702 - Transfer of Government-owned long-lines communication fa
 usc_title: 40
 usc_section: "17702"
 chapter: 177
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "40 U.S.C. § 17702"
-generated_at: "2026-03-29T21:01:58.216Z"
+generated_at: "2026-03-29T21:06:51.200Z"
 ---
 
 # § 17702. Transfer of Government-owned long-lines communication facilities in and to Alaska

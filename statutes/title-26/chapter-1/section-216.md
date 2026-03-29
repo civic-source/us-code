@@ -3,9 +3,9 @@ title: "Section 216 - Deduction of taxes, interest, and business depreciation by
 usc_title: 26
 usc_section: "216"
 chapter: 1
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "26 U.S.C. § 216"
-generated_at: "2026-03-29T21:01:40.829Z"
+generated_at: "2026-03-29T21:06:28.669Z"
 ---
 
 # § 216. Deduction of taxes, interest, and business depreciation by cooperative housing corporation tenant-stockholder

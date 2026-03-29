@@ -3,9 +3,9 @@ title: "Section 441j - Repealed. Pub. L. 96–187, title I, § 105(1) , Jan. 8, 
 usc_title: 2
 usc_section: "441j"
 chapter: 14
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "2 U.S.C. § 441j"
-generated_at: "2026-03-29T20:59:41.716Z"
+generated_at: "2026-03-29T21:03:47.903Z"
 ---
 
 # § 441j. Repealed. Pub. L. 96–187, title I, § 105(1) , Jan. 8, 1980 , 93 Stat. 1354

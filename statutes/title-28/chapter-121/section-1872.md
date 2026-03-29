@@ -3,9 +3,9 @@ title: "Section 1872 - Issues of fact in Supreme Court"
 usc_title: 28
 usc_section: "1872"
 chapter: 121
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "28 U.S.C. § 1872"
-generated_at: "2026-03-29T21:01:42.995Z"
+generated_at: "2026-03-29T21:06:09.696Z"
 ---
 
 # § 1872. Issues of fact in Supreme Court

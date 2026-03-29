@@ -3,9 +3,9 @@ title: "Section 231b - Acceptance of donations"
 usc_title: 16
 usc_section: "231b"
 chapter: 1
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "16 U.S.C. § 231b"
-generated_at: "2026-03-29T21:01:01.513Z"
+generated_at: "2026-03-29T21:05:17.059Z"
 ---
 
 # § 231b. Acceptance of donations

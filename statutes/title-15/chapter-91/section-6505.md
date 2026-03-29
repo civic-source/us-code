@@ -3,9 +3,9 @@ title: "Section 6505 - Administration and applicability"
 usc_title: 15
 usc_section: "6505"
 chapter: 91
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "15 U.S.C. § 6505"
-generated_at: "2026-03-29T21:00:47.761Z"
+generated_at: "2026-03-29T21:04:59.158Z"
 ---
 
 # § 6505. Administration and applicability

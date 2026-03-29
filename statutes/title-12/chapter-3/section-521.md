@@ -3,9 +3,9 @@ title: "Section 521 - Reserve-bank branches; establishment; directors; discontin
 usc_title: 12
 usc_section: "521"
 chapter: 3
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "12 U.S.C. § 521"
-generated_at: "2026-03-29T21:00:42.393Z"
+generated_at: "2026-03-29T21:05:03.932Z"
 ---
 
 # § 521. Reserve-bank branches; establishment; directors; discontinuance of branches; approval for erection of branch bank building

@@ -3,9 +3,9 @@ title: "Section 7430 - Awarding of costs and certain fees"
 usc_title: 26
 usc_section: "7430"
 chapter: 76
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "26 U.S.C. § 7430"
-generated_at: "2026-03-29T21:01:41.229Z"
+generated_at: "2026-03-29T21:06:29.000Z"
 ---
 
 # § 7430. Awarding of costs and certain fees

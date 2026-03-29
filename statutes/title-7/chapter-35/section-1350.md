@@ -3,9 +3,9 @@ title: "Section 1350 - National base acreage allotment"
 usc_title: 7
 usc_section: "1350"
 chapter: 35
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "7 U.S.C. § 1350"
-generated_at: "2026-03-29T21:00:11.541Z"
+generated_at: "2026-03-29T21:04:31.522Z"
 ---
 
 # § 1350. National base acreage allotment

@@ -3,9 +3,9 @@ title: "Section 7919 - Outreach and technical assistance for rural local educati
 usc_title: 20
 usc_section: "7919"
 chapter: 70
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "20 U.S.C. § 7919"
-generated_at: "2026-03-29T21:01:06.392Z"
+generated_at: "2026-03-29T21:05:50.746Z"
 ---
 
 # § 7919. Outreach and technical assistance for rural local educational agencies

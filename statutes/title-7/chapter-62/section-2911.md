@@ -3,9 +3,9 @@ title: "Section 2911 - Authorization of appropriations"
 usc_title: 7
 usc_section: "2911"
 chapter: 62
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "7 U.S.C. § 2911"
-generated_at: "2026-03-29T21:00:11.676Z"
+generated_at: "2026-03-29T21:04:31.640Z"
 ---
 
 # § 2911. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 617 - Clearance prohibited to vessel carrying meat for export wi
 usc_title: 21
 usc_section: "617"
 chapter: 12
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "21 U.S.C. § 617"
-generated_at: "2026-03-29T21:01:15.187Z"
+generated_at: "2026-03-29T21:06:00.214Z"
 ---
 
 # § 617. Clearance prohibited to vessel carrying meat for export without inspector’s certificate

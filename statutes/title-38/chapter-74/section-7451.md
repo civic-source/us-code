@@ -3,9 +3,9 @@ title: "Section 7451 - Nurses and other health-care personnel: competitive pay"
 usc_title: 38
 usc_section: "7451"
 chapter: 74
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "38 U.S.C. § 7451"
-generated_at: "2026-03-29T21:02:11.302Z"
+generated_at: "2026-03-29T21:06:43.933Z"
 ---
 
 # § 7451. Nurses and other health-care personnel: competitive pay

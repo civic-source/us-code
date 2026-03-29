@@ -3,9 +3,9 @@ title: "Section 288e - Intervention or appearance"
 usc_title: 2
 usc_section: "288e"
 chapter: 9
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "2 U.S.C. § 288e"
-generated_at: "2026-03-29T20:59:41.710Z"
+generated_at: "2026-03-29T21:03:47.899Z"
 ---
 
 # § 288e. Intervention or appearance

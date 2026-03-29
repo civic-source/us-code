@@ -3,9 +3,9 @@ title: "Section 40101 - Reporting child abuse crime information"
 usc_title: 34
 usc_section: "40101"
 chapter: 401
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "34 U.S.C. § 40101"
-generated_at: "2026-03-29T21:01:50.750Z"
+generated_at: "2026-03-29T21:06:34.356Z"
 ---
 
 # § 40101. Reporting child abuse crime information

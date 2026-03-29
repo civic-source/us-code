@@ -3,9 +3,9 @@ title: "Section 1146 - Special tax provisions"
 usc_title: 11
 usc_section: "1146"
 chapter: 11
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "11 U.S.C. § 1146"
-generated_at: "2026-03-29T21:00:36.902Z"
+generated_at: "2026-03-29T21:04:59.872Z"
 ---
 
 # § 1146. Special tax provisions

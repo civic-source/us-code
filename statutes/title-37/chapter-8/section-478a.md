@@ -3,9 +3,9 @@ title: "Section 478a - Travel and transportation allowances: inactive duty train
 usc_title: 37
 usc_section: "478a"
 chapter: 8
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "37 U.S.C. § 478a"
-generated_at: "2026-03-29T21:02:04.909Z"
+generated_at: "2026-03-29T21:06:39.244Z"
 ---
 
 # § 478a. Travel and transportation allowances: inactive duty training outside of normal commuting distances

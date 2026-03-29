@@ -3,9 +3,9 @@ title: "Section 622 - Numbers to be recommended for promotion"
 usc_title: 10
 usc_section: "622"
 chapter: 36
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "10 U.S.C. § 622"
-generated_at: "2026-03-29T21:00:32.882Z"
+generated_at: "2026-03-29T21:04:40.117Z"
 ---
 
 # § 622. Numbers to be recommended for promotion

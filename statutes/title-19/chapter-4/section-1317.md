@@ -3,9 +3,9 @@ title: "Section 1317 - Tobacco products; supplies for certain vessels and aircra
 usc_title: 19
 usc_section: "1317"
 chapter: 4
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "19 U.S.C. § 1317"
-generated_at: "2026-03-29T21:00:55.731Z"
+generated_at: "2026-03-29T21:05:21.079Z"
 ---
 
 # § 1317. Tobacco products; supplies for certain vessels and aircraft

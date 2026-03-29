@@ -3,9 +3,9 @@ title: "Section 23 - Land use authorities"
 usc_title: 16
 usc_section: "23"
 chapter: 1
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "16 U.S.C. § 23"
-generated_at: "2026-03-29T21:01:01.650Z"
+generated_at: "2026-03-29T21:05:17.191Z"
 ---
 
 # § 460nnn–23. Land use authorities

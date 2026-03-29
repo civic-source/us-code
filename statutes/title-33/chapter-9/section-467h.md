@@ -3,9 +3,9 @@ title: "Section 467h - Reports"
 usc_title: 33
 usc_section: "467h"
 chapter: 9
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "33 U.S.C. § 467h"
-generated_at: "2026-03-29T21:01:48.752Z"
+generated_at: "2026-03-29T21:06:36.030Z"
 ---
 
 # § 467h. Reports

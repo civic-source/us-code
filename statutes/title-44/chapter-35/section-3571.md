@@ -3,9 +3,9 @@ title: "Section 3571 - Findings"
 usc_title: 44
 usc_section: "3571"
 chapter: 35
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "44 U.S.C. § 3571"
-generated_at: "2026-03-29T21:02:14.761Z"
+generated_at: "2026-03-29T21:07:03.981Z"
 ---
 
 # § 3571. Findings

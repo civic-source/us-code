@@ -3,9 +3,9 @@ title: "Section 7941 - Short title"
 usc_title: 20
 usc_section: "7941"
 chapter: 70
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "20 U.S.C. § 7941"
-generated_at: "2026-03-29T21:01:06.393Z"
+generated_at: "2026-03-29T21:05:50.746Z"
 ---
 
 # § 7941. Short title

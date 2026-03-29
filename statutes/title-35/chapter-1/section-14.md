@@ -3,9 +3,9 @@ title: "Section 14 - Renumbered § 13]"
 usc_title: 35
 usc_section: "14"
 chapter: 1
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "35 U.S.C. § 14"
-generated_at: "2026-03-29T21:01:45.642Z"
+generated_at: "2026-03-29T21:06:31.405Z"
 ---
 
 # [§ 14. Renumbered § 13]

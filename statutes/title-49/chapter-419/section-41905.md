@@ -3,9 +3,9 @@ title: "Section 41905 - Emergency mail transportation"
 usc_title: 49
 usc_section: "41905"
 chapter: 419
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "49 U.S.C. § 41905"
-generated_at: "2026-03-29T21:03:19.123Z"
+generated_at: "2026-03-29T21:07:47.647Z"
 ---
 
 # § 41905. Emergency mail transportation

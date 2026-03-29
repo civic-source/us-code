@@ -3,9 +3,9 @@ title: "Section 5332 - Nondiscrimination"
 usc_title: 49
 usc_section: "5332"
 chapter: 53
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "49 U.S.C. § 5332"
-generated_at: "2026-03-29T21:03:19.029Z"
+generated_at: "2026-03-29T21:07:47.539Z"
 ---
 
 # § 5332. Nondiscrimination

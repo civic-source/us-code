@@ -3,9 +3,9 @@ title: "Section 2207 - Liability of recipient of property over which decedent ha
 usc_title: 26
 usc_section: "2207"
 chapter: 11
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "26 U.S.C. § 2207"
-generated_at: "2026-03-29T21:01:41.057Z"
+generated_at: "2026-03-29T21:06:28.866Z"
 ---
 
 # § 2207. Liability of recipient of property over which decedent had power of appointment

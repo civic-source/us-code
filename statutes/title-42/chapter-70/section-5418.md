@@ -3,9 +3,9 @@ title: "Section 5418 - Use of services, research and testing facilities of publi
 usc_title: 42
 usc_section: "5418"
 chapter: 70
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "42 U.S.C. § 5418"
-generated_at: "2026-03-29T21:02:49.423Z"
+generated_at: "2026-03-29T21:07:30.070Z"
 ---
 
 # § 5418. Use of services, research and testing facilities of public agencies and independent laboratories

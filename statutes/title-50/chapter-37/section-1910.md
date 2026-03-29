@@ -3,9 +3,9 @@ title: "Section 1910 - Funding"
 usc_title: 50
 usc_section: "1910"
 chapter: 37
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "50 U.S.C. § 1910"
-generated_at: "2026-03-29T21:02:57.756Z"
+generated_at: "2026-03-29T21:07:38.476Z"
 ---
 
 # § 1910. Funding

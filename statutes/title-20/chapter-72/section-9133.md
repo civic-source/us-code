@@ -3,9 +3,9 @@ title: "Section 9133 - Payments; Federal share; and maintenance of effort requir
 usc_title: 20
 usc_section: "9133"
 chapter: 72
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "20 U.S.C. § 9133"
-generated_at: "2026-03-29T21:01:06.400Z"
+generated_at: "2026-03-29T21:05:50.751Z"
 ---
 
 # § 9133. Payments; Federal share; and maintenance of effort requirements

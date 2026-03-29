@@ -3,9 +3,9 @@ title: "Section 7708 - Do-Not-E-Mail registry"
 usc_title: 15
 usc_section: "7708"
 chapter: 103
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "15 U.S.C. § 7708"
-generated_at: "2026-03-29T21:00:47.786Z"
+generated_at: "2026-03-29T21:04:59.184Z"
 ---
 
 # § 7708. Do-Not-E-Mail registry

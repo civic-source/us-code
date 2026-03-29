@@ -3,9 +3,9 @@ title: "Section 385 - Treatment of certain interests in corporations as stock or
 usc_title: 26
 usc_section: "385"
 chapter: 1
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "26 U.S.C. § 385"
-generated_at: "2026-03-29T21:01:40.855Z"
+generated_at: "2026-03-29T21:06:28.695Z"
 ---
 
 # § 385. Treatment of certain interests in corporations as stock or indebtedness

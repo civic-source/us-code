@@ -3,9 +3,9 @@ title: "Section 152 - Concealment of assets; false oaths and claims; bribery"
 usc_title: 18
 usc_section: "152"
 chapter: 9
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "18 U.S.C. § 152"
-generated_at: "2026-03-29T21:00:53.172Z"
+generated_at: "2026-03-29T21:05:11.166Z"
 ---
 
 # § 152. Concealment of assets; false oaths and claims; bribery

@@ -3,9 +3,9 @@ title: "Section 8541 - Function"
 usc_title: 10
 usc_section: "8541"
 chapter: 855
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "10 U.S.C. § 8541"
-generated_at: "2026-03-29T21:00:33.182Z"
+generated_at: "2026-03-29T21:04:40.379Z"
 ---
 
 # § 8541. Function

@@ -3,9 +3,9 @@ title: "Section 3202 - Definitions"
 usc_title: 25
 usc_section: "3202"
 chapter: 34
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "25 U.S.C. § 3202"
-generated_at: "2026-03-29T21:01:11.821Z"
+generated_at: "2026-03-29T21:05:57.795Z"
 ---
 
 # § 3202. Definitions

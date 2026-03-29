@@ -3,9 +3,9 @@ title: "Section 1348 - Enforcement of safety and environmental regulations"
 usc_title: 43
 usc_section: "1348"
 chapter: 29
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "43 U.S.C. § 1348"
-generated_at: "2026-03-29T21:02:16.717Z"
+generated_at: "2026-03-29T21:06:55.265Z"
 ---
 
 # § 1348. Enforcement of safety and environmental regulations

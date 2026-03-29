@@ -3,9 +3,9 @@ title: "Section 199 - Access to records of Five Civilized Tribes"
 usc_title: 25
 usc_section: "199"
 chapter: 5
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "25 U.S.C. § 199"
-generated_at: "2026-03-29T21:01:11.727Z"
+generated_at: "2026-03-29T21:05:57.715Z"
 ---
 
 # § 199. Access to records of Five Civilized Tribes

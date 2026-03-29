@@ -3,9 +3,9 @@ title: "Section 57b - Civil actions for violations of rules and cease and desist
 usc_title: 15
 usc_section: "57b"
 chapter: 2
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "15 U.S.C. § 57b"
-generated_at: "2026-03-29T21:00:47.386Z"
+generated_at: "2026-03-29T21:04:58.843Z"
 ---
 
 # § 57b. Civil actions for violations of rules and cease and desist orders respecting unfair or deceptive acts or practices

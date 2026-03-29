@@ -3,9 +3,9 @@ title: "Section 9211 - Statement of policy"
 usc_title: 22
 usc_section: "9211"
 chapter: 99
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "22 U.S.C. § 9211"
-generated_at: "2026-03-29T21:01:21.091Z"
+generated_at: "2026-03-29T21:06:05.170Z"
 ---
 
 # § 9211. Statement of policy

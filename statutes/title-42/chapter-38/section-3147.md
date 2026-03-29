@@ -3,9 +3,9 @@ title: "Section 3147 - Grants for training, research, and technical assistance"
 usc_title: 42
 usc_section: "3147"
 chapter: 38
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "42 U.S.C. § 3147"
-generated_at: "2026-03-29T21:02:49.339Z"
+generated_at: "2026-03-29T21:07:29.988Z"
 ---
 
 # § 3147. Grants for training, research, and technical assistance

@@ -3,9 +3,9 @@ title: "Section 1960 - Modification of energy assistance funding"
 usc_title: 48
 usc_section: "1960"
 chapter: 18
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "48 U.S.C. § 1960"
-generated_at: "2026-03-29T21:02:54.429Z"
+generated_at: "2026-03-29T21:07:34.419Z"
 ---
 
 # § 1960. Modification of energy assistance funding

@@ -3,9 +3,9 @@ title: "Section 2246 - Loan, rental, or sale of films"
 usc_title: 7
 usc_section: "2246"
 chapter: 55
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "7 U.S.C. § 2246"
-generated_at: "2026-03-29T21:00:11.659Z"
+generated_at: "2026-03-29T21:04:31.626Z"
 ---
 
 # § 2246. Loan, rental, or sale of films

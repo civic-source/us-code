@@ -3,9 +3,9 @@ title: "Section 3403 - Liability for tax"
 usc_title: 26
 usc_section: "3403"
 chapter: 24
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "26 U.S.C. § 3403"
-generated_at: "2026-03-29T21:01:41.082Z"
+generated_at: "2026-03-29T21:06:28.885Z"
 ---
 
 # § 3403. Liability for tax

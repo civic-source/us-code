@@ -3,9 +3,9 @@ title: "Section 742d - Investigations; preparation and dissemination of informat
 usc_title: 16
 usc_section: "742d"
 chapter: 9
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "16 U.S.C. § 742d"
-generated_at: "2026-03-29T21:01:01.738Z"
+generated_at: "2026-03-29T21:05:17.271Z"
 ---
 
 # § 742d. Investigations; preparation and dissemination of information; reports

@@ -3,9 +3,9 @@ title: "Section 70904 - International Space Station completion"
 usc_title: 51
 usc_section: "70904"
 chapter: 709
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "51 U.S.C. § 70904"
-generated_at: "2026-03-29T21:03:22.674Z"
+generated_at: "2026-03-29T21:07:50.520Z"
 ---
 
 # § 70904. International Space Station completion

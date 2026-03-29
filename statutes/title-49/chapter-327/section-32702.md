@@ -3,9 +3,9 @@ title: "Section 32702 - Definitions"
 usc_title: 49
 usc_section: "32702"
 chapter: 327
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "49 U.S.C. § 32702"
-generated_at: "2026-03-29T21:03:19.101Z"
+generated_at: "2026-03-29T21:07:47.624Z"
 ---
 
 # § 32702. Definitions

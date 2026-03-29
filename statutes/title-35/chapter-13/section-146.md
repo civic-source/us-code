@@ -3,9 +3,9 @@ title: "Section 146 - Civil action in case of derivation proceeding"
 usc_title: 35
 usc_section: "146"
 chapter: 13
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "35 U.S.C. § 146"
-generated_at: "2026-03-29T21:01:45.645Z"
+generated_at: "2026-03-29T21:06:31.408Z"
 ---
 
 # § 146. Civil action in case of derivation proceeding

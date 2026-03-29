@@ -3,9 +3,9 @@ title: "Section 11204 - Processing fees"
 usc_title: 46
 usc_section: "11204"
 chapter: 112
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "46 U.S.C. § 11204"
-generated_at: "2026-03-29T21:02:59.889Z"
+generated_at: "2026-03-29T21:07:36.064Z"
 ---
 
 # § 11204. Processing fees

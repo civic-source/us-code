@@ -3,9 +3,9 @@ title: "Section 7213 - Unauthorized disclosure of information"
 usc_title: 26
 usc_section: "7213"
 chapter: 75
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "26 U.S.C. § 7213"
-generated_at: "2026-03-29T21:01:41.222Z"
+generated_at: "2026-03-29T21:06:28.996Z"
 ---
 
 # § 7213. Unauthorized disclosure of information

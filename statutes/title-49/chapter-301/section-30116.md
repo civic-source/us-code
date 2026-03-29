@@ -3,9 +3,9 @@ title: "Section 30116 - Defects and noncompliance found before sale to purchaser
 usc_title: 49
 usc_section: "30116"
 chapter: 301
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "49 U.S.C. § 30116"
-generated_at: "2026-03-29T21:03:19.078Z"
+generated_at: "2026-03-29T21:07:47.601Z"
 ---
 
 # § 30116. Defects and noncompliance found before sale to purchaser

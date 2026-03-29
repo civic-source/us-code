@@ -3,9 +3,9 @@ title: "Section 4322 - Priority trade issues"
 usc_title: 19
 usc_section: "4322"
 chapter: 28
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "19 U.S.C. § 4322"
-generated_at: "2026-03-29T21:00:55.973Z"
+generated_at: "2026-03-29T21:05:21.201Z"
 ---
 
 # § 4322. Priority trade issues

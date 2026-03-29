@@ -3,9 +3,9 @@ title: "Section 6992f - Relationship to State law"
 usc_title: 42
 usc_section: "6992f"
 chapter: 82
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "42 U.S.C. § 6992f"
-generated_at: "2026-03-29T21:02:49.507Z"
+generated_at: "2026-03-29T21:07:30.142Z"
 ---
 
 # § 6992f. Relationship to State law

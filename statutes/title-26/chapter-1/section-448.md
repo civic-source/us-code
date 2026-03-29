@@ -3,9 +3,9 @@ title: "Section 448 - Limitation on use of cash method of accounting"
 usc_title: 26
 usc_section: "448"
 chapter: 1
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "26 U.S.C. § 448"
-generated_at: "2026-03-29T21:01:40.901Z"
+generated_at: "2026-03-29T21:06:28.739Z"
 ---
 
 # § 448. Limitation on use of cash method of accounting

@@ -3,9 +3,9 @@ title: "Section 933 - Art. 133. Conduct unbecoming an officer and a gentleman"
 usc_title: 10
 usc_section: "933"
 chapter: 47
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "10 U.S.C. § 933"
-generated_at: "2026-03-29T21:00:32.910Z"
+generated_at: "2026-03-29T21:04:40.145Z"
 ---
 
 # § 933. Art. 133. Conduct unbecoming an officer and a gentleman

@@ -3,9 +3,9 @@ title: "Section 2208 - Certain residents of possessions considered citizens of t
 usc_title: 26
 usc_section: "2208"
 chapter: 11
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "26 U.S.C. § 2208"
-generated_at: "2026-03-29T21:01:41.057Z"
+generated_at: "2026-03-29T21:06:28.866Z"
 ---
 
 # § 2208. Certain residents of possessions considered citizens of the United States

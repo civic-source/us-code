@@ -3,9 +3,9 @@ title: "Section 1961 - Interest"
 usc_title: 28
 usc_section: "1961"
 chapter: 125
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "28 U.S.C. § 1961"
-generated_at: "2026-03-29T21:01:42.997Z"
+generated_at: "2026-03-29T21:06:09.697Z"
 ---
 
 # § 1961. Interest

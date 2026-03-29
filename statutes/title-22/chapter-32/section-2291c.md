@@ -3,9 +3,9 @@ title: "Section 2291c - Requirements relating to aircraft and other equipment"
 usc_title: 22
 usc_section: "2291c"
 chapter: 32
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "22 U.S.C. § 2291c"
-generated_at: "2026-03-29T21:01:20.870Z"
+generated_at: "2026-03-29T21:06:04.993Z"
 ---
 
 # § 2291c. Requirements relating to aircraft and other equipment

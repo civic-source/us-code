@@ -3,9 +3,9 @@ title: "Section 887d - Repealed. Pub. L. 95–561, title III, § 301(b)(1)(F) , 
 usc_title: 20
 usc_section: "887d"
 chapter: 24
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "20 U.S.C. § 887d"
-generated_at: "2026-03-29T21:01:06.104Z"
+generated_at: "2026-03-29T21:05:50.500Z"
 ---
 
 # § 887d. Repealed. Pub. L. 95–561, title III, § 301(b)(1)(F) , Nov. 1, 1978 , 92 Stat. 2228

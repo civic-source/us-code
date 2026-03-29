@@ -3,9 +3,9 @@ title: "Section 1516 - Delivery systems"
 usc_title: 50
 usc_section: "1516"
 chapter: 32
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "50 U.S.C. § 1516"
-generated_at: "2026-03-29T21:02:57.734Z"
+generated_at: "2026-03-29T21:07:38.455Z"
 ---
 
 # § 1516. Delivery systems

@@ -3,9 +3,9 @@ title: "Section 7269 - Transfer of funds"
 usc_title: 42
 usc_section: "7269"
 chapter: 84
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "42 U.S.C. § 7269"
-generated_at: "2026-03-29T21:02:49.514Z"
+generated_at: "2026-03-29T21:07:30.150Z"
 ---
 
 # § 7269. Transfer of funds

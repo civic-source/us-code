@@ -3,9 +3,9 @@ title: "Section 9b - Rules prohibiting deceptive and other abusive telemarketing
 usc_title: 7
 usc_section: "9b"
 chapter: 1
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "7 U.S.C. § 9b"
-generated_at: "2026-03-29T21:00:11.434Z"
+generated_at: "2026-03-29T21:04:31.437Z"
 ---
 
 # § 9b. Rules prohibiting deceptive and other abusive telemarketing acts or practices

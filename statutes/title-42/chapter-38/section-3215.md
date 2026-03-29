@@ -3,9 +3,9 @@ title: "Section 3215 - Penalties"
 usc_title: 42
 usc_section: "3215"
 chapter: 38
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "42 U.S.C. § 3215"
-generated_at: "2026-03-29T21:02:49.341Z"
+generated_at: "2026-03-29T21:07:29.991Z"
 ---
 
 # § 3215. Penalties

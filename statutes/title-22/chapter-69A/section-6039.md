@@ -3,9 +3,9 @@ title: "Section 6039 - Authorization of support for democratic and human rights 
 usc_title: 22
 usc_section: "6039"
 chapter: 69
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "22 U.S.C. § 6039"
-generated_at: "2026-03-29T21:01:21.005Z"
+generated_at: "2026-03-29T21:06:05.100Z"
 ---
 
 # § 6039. Authorization of support for democratic and human rights groups and international observers

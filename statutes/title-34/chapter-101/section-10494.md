@@ -3,9 +3,9 @@ title: "Section 10494 - Applications"
 usc_title: 34
 usc_section: "10494"
 chapter: 101
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "34 U.S.C. § 10494"
-generated_at: "2026-03-29T21:01:50.674Z"
+generated_at: "2026-03-29T21:06:34.285Z"
 ---
 
 # § 10494. Applications

@@ -3,9 +3,9 @@ title: "Section 2116 - Definitions"
 usc_title: 7
 usc_section: "2116"
 chapter: 53
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "7 U.S.C. § 2116"
-generated_at: "2026-03-29T21:00:11.650Z"
+generated_at: "2026-03-29T21:04:31.619Z"
 ---
 
 # § 2116. Definitions

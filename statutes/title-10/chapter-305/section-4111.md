@@ -3,9 +3,9 @@ title: "Section 4111 - Authorities for certain positions at science and technolo
 usc_title: 10
 usc_section: "4111"
 chapter: 305
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "10 U.S.C. § 4111"
-generated_at: "2026-03-29T21:00:33.127Z"
+generated_at: "2026-03-29T21:04:40.340Z"
 ---
 
 # § 4111. Authorities for certain positions at science and technology reinvention laboratories

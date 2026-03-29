@@ -3,9 +3,9 @@ title: "Section 22706 - Exclusive right to name, seals, emblems, and badges"
 usc_title: 36
 usc_section: "22706"
 chapter: 227
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "36 U.S.C. § 22706"
-generated_at: "2026-03-29T21:02:00.617Z"
+generated_at: "2026-03-29T21:06:41.449Z"
 ---
 
 # § 22706. Exclusive right to name, seals, emblems, and badges

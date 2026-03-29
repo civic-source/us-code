@@ -3,9 +3,9 @@ title: "Section 405 - Repealed. Pub. L. 98–369, div. A, title IV, § 491(a) , 
 usc_title: 26
 usc_section: "405"
 chapter: 1
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "26 U.S.C. § 405"
-generated_at: "2026-03-29T21:01:40.866Z"
+generated_at: "2026-03-29T21:06:28.706Z"
 ---
 
 # [§ 405. Repealed. Pub. L. 98–369, div. A, title IV, § 491(a) , July 18, 1984 , 98 Stat. 848 ]

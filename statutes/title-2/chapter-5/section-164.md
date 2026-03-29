@@ -3,9 +3,9 @@ title: "Section 164 - Index and digest of State legislation; preparation"
 usc_title: 2
 usc_section: "164"
 chapter: 5
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "2 U.S.C. § 164"
-generated_at: "2026-03-29T20:59:41.694Z"
+generated_at: "2026-03-29T21:03:47.888Z"
 ---
 
 # § 164. Index and digest of State legislation; preparation

@@ -3,9 +3,9 @@ title: "Section 8153 - Application of national security exclusion to location-sp
 usc_title: 22
 usc_section: "8153"
 chapter: 88
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "22 U.S.C. § 8153"
-generated_at: "2026-03-29T21:01:21.063Z"
+generated_at: "2026-03-29T21:06:05.147Z"
 ---
 
 # § 8153. Application of national security exclusion to location-specific environmental sampling

@@ -3,9 +3,9 @@ title: "Section 29a - East River, Wisconsin"
 usc_title: 33
 usc_section: "29a"
 chapter: 1
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "33 U.S.C. § 29a"
-generated_at: "2026-03-29T21:01:48.734Z"
+generated_at: "2026-03-29T21:06:36.015Z"
 ---
 
 # § 29a. East River, Wisconsin

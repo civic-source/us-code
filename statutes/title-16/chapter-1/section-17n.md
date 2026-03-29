@@ -3,9 +3,9 @@ title: "Section 17n - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "17n"
 chapter: 1
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "16 U.S.C. § 17n"
-generated_at: "2026-03-29T21:01:01.483Z"
+generated_at: "2026-03-29T21:05:17.035Z"
 ---
 
 # § 17n. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

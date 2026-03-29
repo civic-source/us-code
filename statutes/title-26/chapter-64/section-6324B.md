@@ -3,9 +3,9 @@ title: "Section 6324B - Special lien for additional estate tax attributable to f
 usc_title: 26
 usc_section: "6324B"
 chapter: 64
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "26 U.S.C. § 6324B"
-generated_at: "2026-03-29T21:01:41.186Z"
+generated_at: "2026-03-29T21:06:28.968Z"
 ---
 
 # § 6324B. Special lien for additional estate tax attributable to farm, etc., valuation

@@ -3,9 +3,9 @@ title: "Section 4708 - Expenditures from fund"
 usc_title: 20
 usc_section: "4708"
 chapter: 59
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "20 U.S.C. § 4708"
-generated_at: "2026-03-29T21:01:06.316Z"
+generated_at: "2026-03-29T21:05:50.680Z"
 ---
 
 # § 4708. Expenditures from fund

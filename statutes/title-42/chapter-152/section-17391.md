@@ -3,9 +3,9 @@ title: "Section 17391 - Voluntary state, regional, and local electricity distrib
 usc_title: 42
 usc_section: "17391"
 chapter: 152
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "42 U.S.C. § 17391"
-generated_at: "2026-03-29T21:02:49.892Z"
+generated_at: "2026-03-29T21:07:30.514Z"
 ---
 
 # § 17391. Voluntary state, regional, and local electricity distribution planning

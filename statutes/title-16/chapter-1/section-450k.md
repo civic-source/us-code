@@ -3,9 +3,9 @@ title: "Section 450k - Repealed. Dec. 21, 1944, ch. 634, § 1 , 58 Stat. 852"
 usc_title: 16
 usc_section: "450k"
 chapter: 1
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "16 U.S.C. § 450k"
-generated_at: "2026-03-29T21:01:01.591Z"
+generated_at: "2026-03-29T21:05:17.132Z"
 ---
 
 # §§ 450f to 450k. Repealed. Dec. 21, 1944, ch. 634, § 1 , 58 Stat. 852

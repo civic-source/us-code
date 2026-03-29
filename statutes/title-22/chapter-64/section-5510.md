@@ -3,9 +3,9 @@ title: "Section 5510 - United States Government compensation for victims of terr
 usc_title: 22
 usc_section: "5510"
 chapter: 64
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "22 U.S.C. § 5510"
-generated_at: "2026-03-29T21:01:20.995Z"
+generated_at: "2026-03-29T21:06:05.093Z"
 ---
 
 # § 5510. United States Government compensation for victims of terrorism

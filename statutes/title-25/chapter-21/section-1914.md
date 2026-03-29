@@ -3,9 +3,9 @@ title: "Section 1914 - Petition to court of competent jurisdiction to invalidate
 usc_title: 25
 usc_section: "1914"
 chapter: 21
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "25 U.S.C. § 1914"
-generated_at: "2026-03-29T21:01:11.785Z"
+generated_at: "2026-03-29T21:05:57.765Z"
 ---
 
 # § 1914. Petition to court of competent jurisdiction to invalidate action upon showing of certain violations

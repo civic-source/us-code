@@ -3,9 +3,9 @@ title: "Section 3145 - Construction of foreign direct investment and internation
 usc_title: 22
 usc_section: "3145"
 chapter: 46
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "22 U.S.C. § 3145"
-generated_at: "2026-03-29T21:01:20.936Z"
+generated_at: "2026-03-29T21:06:05.048Z"
 ---
 
 # § 3145. Construction of foreign direct investment and international financial data provisions

@@ -3,9 +3,9 @@ title: "Section 4 - Restrictions on officers and employees as to interest in pat
 usc_title: 35
 usc_section: "4"
 chapter: 1
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "35 U.S.C. § 4"
-generated_at: "2026-03-29T21:01:45.641Z"
+generated_at: "2026-03-29T21:06:31.404Z"
 ---
 
 # § 4. Restrictions on officers and employees as to interest in patents

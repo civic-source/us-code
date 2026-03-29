@@ -3,9 +3,9 @@ title: "Section 30501 - Definitions"
 usc_title: 49
 usc_section: "30501"
 chapter: 305
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "49 U.S.C. § 30501"
-generated_at: "2026-03-29T21:03:19.086Z"
+generated_at: "2026-03-29T21:07:47.608Z"
 ---
 
 # § 30501. Definitions

@@ -3,9 +3,9 @@ title: "Section 410mmm - Thomas Edison National Historical Park, New Jersey"
 usc_title: 16
 usc_section: "410mmm"
 chapter: 1
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "16 U.S.C. § 410mmm"
-generated_at: "2026-03-29T21:01:01.567Z"
+generated_at: "2026-03-29T21:05:17.108Z"
 ---
 
 # § 410mmm. Thomas Edison National Historical Park, New Jersey

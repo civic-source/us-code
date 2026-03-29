@@ -3,9 +3,9 @@ title: "Section 1716D - Nonmailable injurious animals, plant pests, plants, and 
 usc_title: 18
 usc_section: "1716D"
 chapter: 83
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "18 U.S.C. § 1716D"
-generated_at: "2026-03-29T21:00:53.234Z"
+generated_at: "2026-03-29T21:05:11.213Z"
 ---
 
 # § 1716D. Nonmailable injurious animals, plant pests, plants, and illegally taken fish, wildlife, and plants

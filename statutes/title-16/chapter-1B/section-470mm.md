@@ -3,9 +3,9 @@ title: "Section 470mm - Surveying of lands; reporting of violations"
 usc_title: 16
 usc_section: "470mm"
 chapter: 1
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "16 U.S.C. § 470mm"
-generated_at: "2026-03-29T21:01:01.665Z"
+generated_at: "2026-03-29T21:05:17.205Z"
 ---
 
 # § 470mm. Surveying of lands; reporting of violations

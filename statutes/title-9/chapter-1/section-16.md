@@ -3,9 +3,9 @@ title: "Section 16 - Appeals"
 usc_title: 9
 usc_section: "16"
 chapter: 1
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "9 U.S.C. § 16"
-generated_at: "2026-03-29T20:59:53.079Z"
+generated_at: "2026-03-29T21:04:26.295Z"
 ---
 
 # § 16. Appeals

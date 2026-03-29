@@ -3,9 +3,9 @@ title: "Section 499 - Military, naval, or official passes"
 usc_title: 18
 usc_section: "499"
 chapter: 25
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "18 U.S.C. § 499"
-generated_at: "2026-03-29T21:00:53.186Z"
+generated_at: "2026-03-29T21:05:11.176Z"
 ---
 
 # § 499. Military, naval, or official passes

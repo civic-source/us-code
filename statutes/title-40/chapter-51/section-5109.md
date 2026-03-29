@@ -3,9 +3,9 @@ title: "Section 5109 - Penalties"
 usc_title: 40
 usc_section: "5109"
 chapter: 51
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "40 U.S.C. § 5109"
-generated_at: "2026-03-29T21:01:58.160Z"
+generated_at: "2026-03-29T21:06:51.177Z"
 ---
 
 # § 5109. Penalties

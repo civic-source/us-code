@@ -3,9 +3,9 @@ title: "Section 295 - Standard of fineness of gold articles; deviation"
 usc_title: 15
 usc_section: "295"
 chapter: 8
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "15 U.S.C. § 295"
-generated_at: "2026-03-29T21:00:47.500Z"
+generated_at: "2026-03-29T21:04:58.936Z"
 ---
 
 # § 295. Standard of fineness of gold articles; deviation

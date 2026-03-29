@@ -3,9 +3,9 @@ title: "Section 9504 - Sport Fish Restoration and Boating Trust Fund"
 usc_title: 26
 usc_section: "9504"
 chapter: 98
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "26 U.S.C. § 9504"
-generated_at: "2026-03-29T21:01:41.268Z"
+generated_at: "2026-03-29T21:06:29.031Z"
 ---
 
 # § 9504. Sport Fish Restoration and Boating Trust Fund

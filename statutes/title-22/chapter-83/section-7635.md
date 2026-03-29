@@ -3,9 +3,9 @@ title: "Section 7635 - Report on treatment activities by relevant executive bran
 usc_title: 22
 usc_section: "7635"
 chapter: 83
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "22 U.S.C. § 7635"
-generated_at: "2026-03-29T21:01:21.052Z"
+generated_at: "2026-03-29T21:06:05.136Z"
 ---
 
 # § 7635. Report on treatment activities by relevant executive branch agencies

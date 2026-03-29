@@ -3,9 +3,9 @@ title: "Section 745a - Public improvement bonds sold to United States or agency 
 usc_title: 48
 usc_section: "745a"
 chapter: 4
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "48 U.S.C. § 745a"
-generated_at: "2026-03-29T21:02:54.388Z"
+generated_at: "2026-03-29T21:07:34.387Z"
 ---
 
 # § 745a. Public improvement bonds sold to United States or agency thereof excluded from public indebtedness

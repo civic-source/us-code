@@ -3,9 +3,9 @@ title: "Section 2410q - Multiyear contracts: purchase of electricity from renewa
 usc_title: 10
 usc_section: "2410q"
 chapter: 141
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "10 U.S.C. § 2410q"
-generated_at: "2026-03-29T21:00:33.045Z"
+generated_at: "2026-03-29T21:04:40.275Z"
 ---
 
 # § 2410q. Multiyear contracts: purchase of electricity from renewable energy sources

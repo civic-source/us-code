@@ -3,9 +3,9 @@ title: "Section 62 - Adjusted gross income defined"
 usc_title: 26
 usc_section: "62"
 chapter: 1
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "26 U.S.C. § 62"
-generated_at: "2026-03-29T21:01:40.774Z"
+generated_at: "2026-03-29T21:06:28.614Z"
 ---
 
 # § 62. Adjusted gross income defined

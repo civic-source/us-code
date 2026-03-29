@@ -3,9 +3,9 @@ title: "Section 7546 - Definitions"
 usc_title: 20
 usc_section: "7546"
 chapter: 70
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "20 U.S.C. § 7546"
-generated_at: "2026-03-29T21:01:06.377Z"
+generated_at: "2026-03-29T21:05:50.734Z"
 ---
 
 # § 7546. Definitions

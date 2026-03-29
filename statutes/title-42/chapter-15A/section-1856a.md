@@ -3,9 +3,9 @@ title: "Section 1856a - Authority to enter into reciprocal agreement; waiver of 
 usc_title: 42
 usc_section: "1856a"
 chapter: 15
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "42 U.S.C. § 1856a"
-generated_at: "2026-03-29T21:02:49.234Z"
+generated_at: "2026-03-29T21:07:29.873Z"
 ---
 
 # § 1856a. Authority to enter into reciprocal agreement; waiver of claims; reimbursement; ratification of prior agreements

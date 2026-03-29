@@ -3,9 +3,9 @@ title: "Section 31326 - Court sales to enforce preferred mortgage liens and mari
 usc_title: 46
 usc_section: "31326"
 chapter: 313
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "46 U.S.C. § 31326"
-generated_at: "2026-03-29T21:02:59.903Z"
+generated_at: "2026-03-29T21:07:36.074Z"
 ---
 
 # § 31326. Court sales to enforce preferred mortgage liens and maritime liens and priority of claims

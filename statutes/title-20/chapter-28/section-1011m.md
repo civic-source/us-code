@@ -3,9 +3,9 @@ title: "Section 1011m - Certification regarding the use of certain Federal funds
 usc_title: 20
 usc_section: "1011m"
 chapter: 28
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "20 U.S.C. § 1011m"
-generated_at: "2026-03-29T21:01:06.116Z"
+generated_at: "2026-03-29T21:05:50.513Z"
 ---
 
 # § 1011m. Certification regarding the use of certain Federal funds

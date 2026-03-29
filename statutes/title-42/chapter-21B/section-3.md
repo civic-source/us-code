@@ -3,9 +3,9 @@ title: "Section 3 - Applicability"
 usc_title: 42
 usc_section: "3"
 chapter: 21
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-29T21:02:49.265Z"
+generated_at: "2026-03-29T21:07:29.912Z"
 ---
 
 # § 2000bb–3. Applicability

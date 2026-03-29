@@ -3,9 +3,9 @@ title: "Section 7106 - Petition and review"
 usc_title: 7
 usc_section: "7106"
 chapter: 99
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "7 U.S.C. § 7106"
-generated_at: "2026-03-29T21:00:11.752Z"
+generated_at: "2026-03-29T21:04:31.710Z"
 ---
 
 # § 7106. Petition and review

@@ -3,9 +3,9 @@ title: "Section 9085 - Regular Space Force: composition"
 usc_title: 10
 usc_section: "9085"
 chapter: 908
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "10 U.S.C. § 9085"
-generated_at: "2026-03-29T21:00:33.200Z"
+generated_at: "2026-03-29T21:04:40.393Z"
 ---
 
 # § 9085. Regular Space Force: composition

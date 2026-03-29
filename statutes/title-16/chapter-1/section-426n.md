@@ -3,9 +3,9 @@ title: "Section 426n - Boundary revision of Stones River National Battlefield"
 usc_title: 16
 usc_section: "426n"
 chapter: 1
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "16 U.S.C. § 426n"
-generated_at: "2026-03-29T21:01:01.581Z"
+generated_at: "2026-03-29T21:05:17.121Z"
 ---
 
 # § 426n. Boundary revision of Stones River National Battlefield

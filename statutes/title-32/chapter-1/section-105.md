@@ -3,9 +3,9 @@ title: "Section 105 - Inspection"
 usc_title: 32
 usc_section: "105"
 chapter: 1
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "32 U.S.C. § 105"
-generated_at: "2026-03-29T21:01:45.266Z"
+generated_at: "2026-03-29T21:06:31.054Z"
 ---
 
 # § 105. Inspection

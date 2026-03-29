@@ -3,9 +3,9 @@ title: "Section 111 - Preventing surprise medical bills"
 usc_title: 42
 usc_section: "111"
 chapter: 6
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "42 U.S.C. § 111"
-generated_at: "2026-03-29T21:02:48.754Z"
+generated_at: "2026-03-29T21:07:29.416Z"
 ---
 
 # § 300gg–111. Preventing surprise medical bills

@@ -3,9 +3,9 @@ title: "Section 8213 - Prohibition against implementation of regulatory authorit
 usc_title: 16
 usc_section: "8213"
 chapter: 101
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "16 U.S.C. § 8213"
-generated_at: "2026-03-29T21:01:01.995Z"
+generated_at: "2026-03-29T21:05:17.485Z"
 ---
 
 # § 8213. Prohibition against implementation of regulatory authority by Federal agencies through partnerships

@@ -3,9 +3,9 @@ title: "Section 43 - Reauthorization; reporting requirements"
 usc_title: 21
 usc_section: "43"
 chapter: 9
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "21 U.S.C. § 43"
-generated_at: "2026-03-29T21:01:15.094Z"
+generated_at: "2026-03-29T21:06:00.184Z"
 ---
 
 # § 379j–43. Reauthorization; reporting requirements

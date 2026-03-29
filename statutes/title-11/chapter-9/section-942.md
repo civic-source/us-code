@@ -3,9 +3,9 @@ title: "Section 942 - Modification of plan"
 usc_title: 11
 usc_section: "942"
 chapter: 9
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "11 U.S.C. § 942"
-generated_at: "2026-03-29T21:00:36.897Z"
+generated_at: "2026-03-29T21:04:59.867Z"
 ---
 
 # § 942. Modification of plan

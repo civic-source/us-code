@@ -3,9 +3,9 @@ title: "Section 460 - Special rules for long-term contracts"
 usc_title: 26
 usc_section: "460"
 chapter: 1
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "26 U.S.C. § 460"
-generated_at: "2026-03-29T21:01:40.906Z"
+generated_at: "2026-03-29T21:06:28.743Z"
 ---
 
 # § 460. Special rules for long-term contracts

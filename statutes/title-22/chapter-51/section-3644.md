@@ -3,9 +3,9 @@ title: "Section 3644 - Compensation of individuals in uniformed services"
 usc_title: 22
 usc_section: "3644"
 chapter: 51
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "22 U.S.C. § 3644"
-generated_at: "2026-03-29T21:01:20.944Z"
+generated_at: "2026-03-29T21:06:05.053Z"
 ---
 
 # § 3644. Compensation of individuals in uniformed services

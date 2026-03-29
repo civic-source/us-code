@@ -3,9 +3,9 @@ title: "Section 3505 - Seal"
 usc_title: 42
 usc_section: "3505"
 chapter: 43
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "42 U.S.C. § 3505"
-generated_at: "2026-03-29T21:02:49.345Z"
+generated_at: "2026-03-29T21:07:29.993Z"
 ---
 
 # § 3505. Seal

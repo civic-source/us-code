@@ -3,9 +3,9 @@ title: "Section 500 - Payment and evaluation of receipts to State or Territory f
 usc_title: 16
 usc_section: "500"
 chapter: 2
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "16 U.S.C. § 500"
-generated_at: "2026-03-29T21:01:01.673Z"
+generated_at: "2026-03-29T21:05:17.213Z"
 ---
 
 # § 500. Payment and evaluation of receipts to State or Territory for schools and roads; moneys received; projections of revenues and estimated payments

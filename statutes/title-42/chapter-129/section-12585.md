@@ -3,9 +3,9 @@ title: "Section 12585 - Consideration of applications"
 usc_title: 42
 usc_section: "12585"
 chapter: 129
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "42 U.S.C. § 12585"
-generated_at: "2026-03-29T21:02:49.747Z"
+generated_at: "2026-03-29T21:07:30.376Z"
 ---
 
 # § 12585. Consideration of applications

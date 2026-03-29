@@ -3,9 +3,9 @@ title: "Section 3320 - Excepted service; government of the District of Columbia;
 usc_title: 5
 usc_section: "3320"
 chapter: 33
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "5 U.S.C. § 3320"
-generated_at: "2026-03-29T20:59:50.718Z"
+generated_at: "2026-03-29T21:04:21.187Z"
 ---
 
 # § 3320. Excepted service; government of the District of Columbia; selection

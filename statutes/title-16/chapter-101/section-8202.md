@@ -3,9 +3,9 @@ title: "Section 8202 - Definitions"
 usc_title: 16
 usc_section: "8202"
 chapter: 101
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "16 U.S.C. § 8202"
-generated_at: "2026-03-29T21:01:01.992Z"
+generated_at: "2026-03-29T21:05:17.484Z"
 ---
 
 # § 8202. Definitions

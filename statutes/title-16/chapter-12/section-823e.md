@@ -3,9 +3,9 @@ title: "Section 823e - Promoting hydropower development at existing nonpowered d
 usc_title: 16
 usc_section: "823e"
 chapter: 12
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "16 U.S.C. § 823e"
-generated_at: "2026-03-29T21:01:01.752Z"
+generated_at: "2026-03-29T21:05:17.286Z"
 ---
 
 # § 823e. Promoting hydropower development at existing nonpowered dams

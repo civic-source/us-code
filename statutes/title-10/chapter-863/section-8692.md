@@ -3,9 +3,9 @@ title: "Section 8692 - Biennial report on shipbuilder training and the defense i
 usc_title: 10
 usc_section: "8692"
 chapter: 863
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "10 U.S.C. § 8692"
-generated_at: "2026-03-29T21:00:33.188Z"
+generated_at: "2026-03-29T21:04:40.384Z"
 ---
 
 # § 8692. 1 1 Another section 8692 is set out preceding this section. Biennial report on shipbuilder training and the defense industrial base

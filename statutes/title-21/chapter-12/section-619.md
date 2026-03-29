@@ -3,9 +3,9 @@ title: "Section 619 - Marking, labeling, or other identification to show kinds o
 usc_title: 21
 usc_section: "619"
 chapter: 12
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "21 U.S.C. § 619"
-generated_at: "2026-03-29T21:01:15.187Z"
+generated_at: "2026-03-29T21:06:00.214Z"
 ---
 
 # § 619. Marking, labeling, or other identification to show kinds of animals from which derived; separate establishments for preparation and slaughtering activities

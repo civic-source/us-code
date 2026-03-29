@@ -3,9 +3,9 @@ title: "Section 5121 - Claims or suits of Indian tribes against United States; r
 usc_title: 25
 usc_section: "5121"
 chapter: 45
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "25 U.S.C. § 5121"
-generated_at: "2026-03-29T21:01:11.853Z"
+generated_at: "2026-03-29T21:05:57.818Z"
 ---
 
 # § 5121. Claims or suits of Indian tribes against United States; rights unimpaired

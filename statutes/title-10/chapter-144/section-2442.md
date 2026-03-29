@@ -3,9 +3,9 @@ title: "Section 2442 - Prohibition on use of lowest price technically acceptable
 usc_title: 10
 usc_section: "2442"
 chapter: 144
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "10 U.S.C. § 2442"
-generated_at: "2026-03-29T21:00:33.051Z"
+generated_at: "2026-03-29T21:04:40.280Z"
 ---
 
 # § 2442. Prohibition on use of lowest price technically acceptable source selection process

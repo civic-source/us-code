@@ -3,9 +3,9 @@ title: "Section 554e - Employment of workers for emergencies"
 usc_title: 16
 usc_section: "554e"
 chapter: 3
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "16 U.S.C. § 554e"
-generated_at: "2026-03-29T21:01:01.696Z"
+generated_at: "2026-03-29T21:05:17.232Z"
 ---
 
 # § 554e. Employment of workers for emergencies

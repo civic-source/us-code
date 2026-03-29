@@ -3,9 +3,9 @@ title: "Section 533 - Grant of easements for road rights-of-way; authority of Se
 usc_title: 16
 usc_section: "533"
 chapter: 2
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "16 U.S.C. § 533"
-generated_at: "2026-03-29T21:01:01.675Z"
+generated_at: "2026-03-29T21:05:17.215Z"
 ---
 
 # § 533. Grant of easements for road rights-of-way; authority of Secretary of Agriculture; regulations

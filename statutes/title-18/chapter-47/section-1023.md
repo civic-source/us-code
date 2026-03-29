@@ -3,9 +3,9 @@ title: "Section 1023 - Insufficient delivery of money or property for military o
 usc_title: 18
 usc_section: "1023"
 chapter: 47
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "18 U.S.C. § 1023"
-generated_at: "2026-03-29T21:00:53.214Z"
+generated_at: "2026-03-29T21:05:11.197Z"
 ---
 
 # § 1023. Insufficient delivery of money or property for military or naval service

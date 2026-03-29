@@ -3,9 +3,9 @@ title: "Section 331 - Mutilation, diminution, and falsification of coins"
 usc_title: 18
 usc_section: "331"
 chapter: 17
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "18 U.S.C. § 331"
-generated_at: "2026-03-29T21:00:53.180Z"
+generated_at: "2026-03-29T21:05:11.174Z"
 ---
 
 # § 331. Mutilation, diminution, and falsification of coins

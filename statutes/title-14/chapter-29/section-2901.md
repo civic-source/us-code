@@ -3,9 +3,9 @@ title: "Section 2901 - Work-life policies and programs"
 usc_title: 14
 usc_section: "2901"
 chapter: 29
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "14 U.S.C. § 2901"
-generated_at: "2026-03-29T21:00:37.836Z"
+generated_at: "2026-03-29T21:05:05.199Z"
 ---
 
 # § 2901. Work-life policies and programs

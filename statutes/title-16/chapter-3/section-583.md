@@ -3,9 +3,9 @@ title: "Section 583 - Establishment of sustained-yield units to stabilize forest
 usc_title: 16
 usc_section: "583"
 chapter: 3
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "16 U.S.C. § 583"
-generated_at: "2026-03-29T21:01:01.703Z"
+generated_at: "2026-03-29T21:05:17.239Z"
 ---
 
 # § 583. Establishment of sustained-yield units to stabilize forest industries, employment, communities and taxable wealth

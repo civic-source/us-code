@@ -3,9 +3,9 @@ title: "Section 1489 - Loss of title of United States to lands in territories th
 usc_title: 48
 usc_section: "1489"
 chapter: 10
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "48 U.S.C. § 1489"
-generated_at: "2026-03-29T21:02:54.400Z"
+generated_at: "2026-03-29T21:07:34.397Z"
 ---
 
 # § 1489. Loss of title of United States to lands in territories through adverse possession or prescription forbidden

@@ -3,9 +3,9 @@ title: "Section 252 - Suspension or revocation of licenses"
 usc_title: 7
 usc_section: "252"
 chapter: 10
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "7 U.S.C. § 252"
-generated_at: "2026-03-29T21:00:11.494Z"
+generated_at: "2026-03-29T21:04:31.484Z"
 ---
 
 # § 252. Suspension or revocation of licenses

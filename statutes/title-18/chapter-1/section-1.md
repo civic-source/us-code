@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. Pub. L. 98–473, title II, § 218(a)(1) , Oct. 12
 usc_title: 18
 usc_section: "1"
 chapter: 1
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "18 U.S.C. § 1"
-generated_at: "2026-03-29T21:00:53.167Z"
+generated_at: "2026-03-29T21:05:11.162Z"
 ---
 
 # [§ 1. Repealed. Pub. L. 98–473, title II, § 218(a)(1) , Oct. 12, 1984 , 98 Stat. 2027 ]

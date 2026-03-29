@@ -3,9 +3,9 @@ title: "Section 7 - Authorization of appropriations"
 usc_title: 16
 usc_section: "7"
 chapter: 6
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "16 U.S.C. § 7"
-generated_at: "2026-03-29T21:01:01.730Z"
+generated_at: "2026-03-29T21:05:17.265Z"
 ---
 
 # § 698u–7. Authorization of appropriations

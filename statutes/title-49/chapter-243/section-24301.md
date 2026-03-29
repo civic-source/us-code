@@ -3,9 +3,9 @@ title: "Section 24301 - Status and applicable laws"
 usc_title: 49
 usc_section: "24301"
 chapter: 243
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "49 U.S.C. § 24301"
-generated_at: "2026-03-29T21:03:19.070Z"
+generated_at: "2026-03-29T21:07:47.589Z"
 ---
 
 # § 24301. Status and applicable laws

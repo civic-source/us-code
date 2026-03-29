@@ -3,9 +3,9 @@ title: "Section 145n - Repealed. Pub. L. 88–131, § 3 , Sept. 24, 1963 , 77 St
 usc_title: 33
 usc_section: "145n"
 chapter: 2
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "33 U.S.C. § 145n"
-generated_at: "2026-03-29T21:01:48.739Z"
+generated_at: "2026-03-29T21:06:36.020Z"
 ---
 
 # §§ 145 to 145n. Repealed. Pub. L. 88–131, § 3 , Sept. 24, 1963 , 77 Stat. 194

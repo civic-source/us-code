@@ -3,9 +3,9 @@ title: "Section 737 - Privileges and immunities"
 usc_title: 48
 usc_section: "737"
 chapter: 4
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "48 U.S.C. § 737"
-generated_at: "2026-03-29T21:02:54.387Z"
+generated_at: "2026-03-29T21:07:34.387Z"
 ---
 
 # § 737. Privileges and immunities

@@ -3,9 +3,9 @@ title: "Section 12714 - Repealed. Pub. L. 104–99, title IV, § 404(a) , Jan. 2
 usc_title: 42
 usc_section: "12714"
 chapter: 130
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "42 U.S.C. § 12714"
-generated_at: "2026-03-29T21:02:49.766Z"
+generated_at: "2026-03-29T21:07:30.395Z"
 ---
 
 # § 12714. Repealed. Pub. L. 104–99, title IV, § 404(a) , Jan. 26, 1996 , 110 Stat. 44

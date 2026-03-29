@@ -3,9 +3,9 @@ title: "Section 1616p - Health professional chronic shortage demonstration progr
 usc_title: 25
 usc_section: "1616p"
 chapter: 18
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "25 U.S.C. § 1616p"
-generated_at: "2026-03-29T21:01:11.763Z"
+generated_at: "2026-03-29T21:05:57.744Z"
 ---
 
 # § 1616p. Health professional chronic shortage demonstration programs

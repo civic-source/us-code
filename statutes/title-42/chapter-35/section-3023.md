@@ -3,9 +3,9 @@ title: "Section 3023 - Authorization of appropriations; uses of funds"
 usc_title: 42
 usc_section: "3023"
 chapter: 35
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "42 U.S.C. § 3023"
-generated_at: "2026-03-29T21:02:49.321Z"
+generated_at: "2026-03-29T21:07:29.971Z"
 ---
 
 # § 3023. Authorization of appropriations; uses of funds

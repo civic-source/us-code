@@ -3,9 +3,9 @@ title: "Section 15702 - Definitions"
 usc_title: 42
 usc_section: "15702"
 chapter: 148
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "42 U.S.C. § 15702"
-generated_at: "2026-03-29T21:02:49.817Z"
+generated_at: "2026-03-29T21:07:30.443Z"
 ---
 
 # § 15702. Definitions

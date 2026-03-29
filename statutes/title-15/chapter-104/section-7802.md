@@ -3,9 +3,9 @@ title: "Section 7802 - Regulation of unfair and deceptive acts and practices in 
 usc_title: 15
 usc_section: "7802"
 chapter: 104
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "15 U.S.C. § 7802"
-generated_at: "2026-03-29T21:00:47.787Z"
+generated_at: "2026-03-29T21:04:59.184Z"
 ---
 
 # § 7802. Regulation of unfair and deceptive acts and practices in connection with the contact between an athlete agent and a student athlete

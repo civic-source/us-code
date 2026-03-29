@@ -3,9 +3,9 @@ title: "Section 351 - Judicial review of actions in carrying out certain transfe
 usc_title: 49
 usc_section: "351"
 chapter: 3
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "49 U.S.C. § 351"
-generated_at: "2026-03-29T21:03:19.004Z"
+generated_at: "2026-03-29T21:07:47.513Z"
 ---
 
 # § 351. Judicial review of actions in carrying out certain transferred duties and powers

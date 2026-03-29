@@ -3,9 +3,9 @@ title: "Section 3314 - Expiration of certificate of inspection"
 usc_title: 46
 usc_section: "3314"
 chapter: 33
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "46 U.S.C. § 3314"
-generated_at: "2026-03-29T21:02:59.865Z"
+generated_at: "2026-03-29T21:07:36.041Z"
 ---
 
 # § 3314. Expiration of certificate of inspection

@@ -3,9 +3,9 @@ title: "Section 13251 - Mandate for alternative fuel providers"
 usc_title: 42
 usc_section: "13251"
 chapter: 134
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "42 U.S.C. § 13251"
-generated_at: "2026-03-29T21:02:49.781Z"
+generated_at: "2026-03-29T21:07:30.410Z"
 ---
 
 # § 13251. Mandate for alternative fuel providers

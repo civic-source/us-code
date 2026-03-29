@@ -3,9 +3,9 @@ title: "Section 2506 - Department of Defense technology and industrial base poli
 usc_title: 10
 usc_section: "2506"
 chapter: 148
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "10 U.S.C. § 2506"
-generated_at: "2026-03-29T21:00:33.059Z"
+generated_at: "2026-03-29T21:04:40.287Z"
 ---
 
 # § 2506. Department of Defense technology and industrial base policy guidance

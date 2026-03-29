@@ -3,9 +3,9 @@ title: "Section 3521 - Central services program"
 usc_title: 50
 usc_section: "3521"
 chapter: 46
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "50 U.S.C. § 3521"
-generated_at: "2026-03-29T21:02:57.835Z"
+generated_at: "2026-03-29T21:07:38.544Z"
 ---
 
 # § 3521. Central services program

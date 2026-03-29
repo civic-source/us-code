@@ -3,9 +3,9 @@ title: "Section 321e - Repealed. Pub. L. 115–387, § 2(c)(1) , Dec. 21, 2018 ,
 usc_title: 6
 usc_section: "321e"
 chapter: 1
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "6 U.S.C. § 321e"
-generated_at: "2026-03-29T20:59:56.368Z"
+generated_at: "2026-03-29T21:04:46.813Z"
 ---
 
 # § 321e. Repealed. Pub. L. 115–387, § 2(c)(1) , Dec. 21, 2018 , 132 Stat. 5166

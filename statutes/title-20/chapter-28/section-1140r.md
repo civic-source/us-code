@@ -3,9 +3,9 @@ title: "Section 1140r - Authorization of appropriations"
 usc_title: 20
 usc_section: "1140r"
 chapter: 28
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "20 U.S.C. § 1140r"
-generated_at: "2026-03-29T21:01:06.235Z"
+generated_at: "2026-03-29T21:05:50.613Z"
 ---
 
 # § 1140r. Authorization of appropriations

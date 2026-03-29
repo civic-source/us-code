@@ -3,9 +3,9 @@ title: "Section 5607 - Exporter assistance initiative"
 usc_title: 7
 usc_section: "5607"
 chapter: 87
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "7 U.S.C. § 5607"
-generated_at: "2026-03-29T21:00:11.712Z"
+generated_at: "2026-03-29T21:04:31.672Z"
 ---
 
 # § 5607. Exporter assistance initiative

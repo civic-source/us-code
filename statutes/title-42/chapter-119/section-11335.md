@@ -3,9 +3,9 @@ title: "Section 11335 - Annual report"
 usc_title: 42
 usc_section: "11335"
 chapter: 119
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "42 U.S.C. § 11335"
-generated_at: "2026-03-29T21:02:49.713Z"
+generated_at: "2026-03-29T21:07:30.343Z"
 ---
 
 # § 11335. Annual report

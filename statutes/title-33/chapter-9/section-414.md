@@ -3,9 +3,9 @@ title: "Section 414 - Removal by Secretary of the Army of sunken water craft gen
 usc_title: 33
 usc_section: "414"
 chapter: 9
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "33 U.S.C. § 414"
-generated_at: "2026-03-29T21:01:48.742Z"
+generated_at: "2026-03-29T21:06:36.023Z"
 ---
 
 # § 414. Removal by Secretary of the Army of sunken water craft generally; liability of owner, lessee, or operator

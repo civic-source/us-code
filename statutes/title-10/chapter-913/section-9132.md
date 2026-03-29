@@ -3,9 +3,9 @@ title: "Section 9132 - Regular Air Force and Regular Space Force: reenlistment a
 usc_title: 10
 usc_section: "9132"
 chapter: 913
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "10 U.S.C. § 9132"
-generated_at: "2026-03-29T21:00:33.200Z"
+generated_at: "2026-03-29T21:04:40.393Z"
 ---
 
 # § 9132. 1 1 So in original. Probably should be “9138.” Regular Air Force and Regular Space Force: reenlistment after service as an officer

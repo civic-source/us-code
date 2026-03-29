@@ -3,9 +3,9 @@ title: "Section 1475a - Participation of non-Federal entities in contract negoti
 usc_title: 43
 usc_section: "1475a"
 chapter: 31
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "43 U.S.C. § 1475a"
-generated_at: "2026-03-29T21:02:16.722Z"
+generated_at: "2026-03-29T21:06:55.271Z"
 ---
 
 # § 1475a. Participation of non-Federal entities in contract negotiations and source selection proceedings

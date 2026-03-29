@@ -3,9 +3,9 @@ title: "Section 440 - Civil action for enforcement by Secretary; jurisdiction"
 usc_title: 29
 usc_section: "440"
 chapter: 11
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "29 U.S.C. § 440"
-generated_at: "2026-03-29T21:01:26.435Z"
+generated_at: "2026-03-29T21:06:18.463Z"
 ---
 
 # § 440. Civil action for enforcement by Secretary; jurisdiction

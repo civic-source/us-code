@@ -3,9 +3,9 @@ title: "Section 435 - Limitations"
 usc_title: 10
 usc_section: "435"
 chapter: 21
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "10 U.S.C. § 435"
-generated_at: "2026-03-29T21:00:32.867Z"
+generated_at: "2026-03-29T21:04:40.101Z"
 ---
 
 # § 435. Limitations

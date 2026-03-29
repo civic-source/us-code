@@ -3,9 +3,9 @@ title: "Section 2501 - National security strategy for national technology and in
 usc_title: 10
 usc_section: "2501"
 chapter: 148
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "10 U.S.C. § 2501"
-generated_at: "2026-03-29T21:00:33.058Z"
+generated_at: "2026-03-29T21:04:40.286Z"
 ---
 
 # § 2501. National security strategy for national technology and industrial base

@@ -3,9 +3,9 @@ title: "Section 2177 - Interim compensation"
 usc_title: 48
 usc_section: "2177"
 chapter: 20
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "48 U.S.C. § 2177"
-generated_at: "2026-03-29T21:02:54.441Z"
+generated_at: "2026-03-29T21:07:34.426Z"
 ---
 
 # § 2177. Interim compensation

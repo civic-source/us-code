@@ -3,9 +3,9 @@ title: "Section 63 - Consolidation of agencies"
 usc_title: 25
 usc_section: "63"
 chapter: 2
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "25 U.S.C. § 63"
-generated_at: "2026-03-29T21:01:11.721Z"
+generated_at: "2026-03-29T21:05:57.710Z"
 ---
 
 # § 63. Consolidation of agencies

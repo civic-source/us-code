@@ -3,9 +3,9 @@ title: "Section 30913 - Payment of judgment or settlement"
 usc_title: 46
 usc_section: "30913"
 chapter: 309
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "46 U.S.C. § 30913"
-generated_at: "2026-03-29T21:02:59.901Z"
+generated_at: "2026-03-29T21:07:36.073Z"
 ---
 
 # § 30913. Payment of judgment or settlement

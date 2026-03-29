@@ -3,9 +3,9 @@ title: "Section 346a - Tolerances and exemptions for pesticide chemical residues
 usc_title: 21
 usc_section: "346a"
 chapter: 9
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "21 U.S.C. § 346a"
-generated_at: "2026-03-29T21:01:14.999Z"
+generated_at: "2026-03-29T21:06:00.097Z"
 ---
 
 # § 346a. Tolerances and exemptions for pesticide chemical residues
@@ -221,7 +221,7 @@ generated_at: "2026-03-29T21:01:14.999Z"
   - **(3)** Recommendations to consumers for reducing dietary exposure to pesticide chemical residues in a manner consistent with maintaining a healthy diet, including a list of food that may reasonably substitute for food listed under paragraph (2).
 - **(p)**
   - **(1)** Not later than 2 years after August 3, 1996 , the Administrator shall in consultation with the Secretary of Health and Human Services develop a screening program, using appropriate validated test systems and other scientifically relevant information, to determine whether certain substances may have an effect in humans that is similar to an effect produced by a naturally occurring estrogen, or such other endocrine effect as the Administrator may designate.
-  - **(2)** Not later than 3 years after August 3, 1996 , after obtaining public comment and review of the screening program described in paragraph (1) by the scientific advisory panel established under section 25(d) of the Federal Insecticide, Fungicide, and Rodenticide Act [ 7 U.S.C. 136w(d) ] or the science advisory board established by section 4365 2 2 See References in Text note below. of title 42, the Administrator shall implement the program.
+  - **(2)** Not later than 3 years after August 3, 1996 , after obtaining public comment and review of the screening program described in paragraph (1) by the scientific advisory panel established under section 25(d) of the Federal Insecticide, Fungicide, and Rodenticide Act [ 7 U.S.C. 136w(d) ] or the science advisory board established by section 4365 1 of title 42, the Administrator shall implement the program.
   - **(3)** In carrying out the screening program described in paragraph (1), the Administrator—
     - **(A)** shall provide for the testing of all pesticide chemicals; and
     - **(B)** may provide for the testing of any other substance that may have an effect that is cumulative to an effect of a pesticide chemical if the Administrator determines that a substantial population may be exposed to such substance.

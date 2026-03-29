@@ -3,9 +3,9 @@ title: "Section 1161j - Improving science, technology, engineering, and mathemat
 usc_title: 20
 usc_section: "1161j"
 chapter: 28
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "20 U.S.C. § 1161j"
-generated_at: "2026-03-29T21:01:06.241Z"
+generated_at: "2026-03-29T21:05:50.618Z"
 ---
 
 # § 1161j. Improving science, technology, engineering, and mathematics education with a focus on Alaska Native and Native Hawaiian students

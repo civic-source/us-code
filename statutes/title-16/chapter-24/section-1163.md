@@ -3,9 +3,9 @@ title: "Section 1163 - Responsibility of Alaska to meet educational needs of Pri
 usc_title: 16
 usc_section: "1163"
 chapter: 24
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "16 U.S.C. § 1163"
-generated_at: "2026-03-29T21:01:01.792Z"
+generated_at: "2026-03-29T21:05:17.323Z"
 ---
 
 # § 1163. Responsibility of Alaska to meet educational needs of Pribilof Islands citizens

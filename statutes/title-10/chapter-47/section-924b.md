@@ -3,9 +3,9 @@ title: "Section 924b - Art. 124b. Graft"
 usc_title: 10
 usc_section: "924b"
 chapter: 47
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "10 U.S.C. § 924b"
-generated_at: "2026-03-29T21:00:32.909Z"
+generated_at: "2026-03-29T21:04:40.145Z"
 ---
 
 # § 924b. Art. 124b. Graft

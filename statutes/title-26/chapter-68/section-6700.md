@@ -3,9 +3,9 @@ title: "Section 6700 - Promoting abusive tax shelters, etc."
 usc_title: 26
 usc_section: "6700"
 chapter: 68
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "26 U.S.C. § 6700"
-generated_at: "2026-03-29T21:01:41.214Z"
+generated_at: "2026-03-29T21:06:28.989Z"
 ---
 
 # § 6700. Promoting abusive tax shelters, etc.

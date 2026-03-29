@@ -3,9 +3,9 @@ title: "Section 1477 - Enforcement by State Attorneys General"
 usc_title: 15
 usc_section: "1477"
 chapter: 39
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "15 U.S.C. § 1477"
-generated_at: "2026-03-29T21:00:47.604Z"
+generated_at: "2026-03-29T21:04:59.029Z"
 ---
 
 # § 1477. Enforcement by State Attorneys General

@@ -3,9 +3,9 @@ title: "Section 8929 - Report on non-compliance by the Russian Federation of its
 usc_title: 22
 usc_section: "8929"
 chapter: 96
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "22 U.S.C. § 8929"
-generated_at: "2026-03-29T21:01:21.086Z"
+generated_at: "2026-03-29T21:06:05.166Z"
 ---
 
 # § 8929. Report on non-compliance by the Russian Federation of its obligations under the INF Treaty

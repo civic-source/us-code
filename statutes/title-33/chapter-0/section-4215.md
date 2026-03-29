@@ -3,9 +3,9 @@ title: "Section 4215 - Volunteer status"
 usc_title: 33
 usc_section: "4215"
 chapter: 0
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "33 U.S.C. § 4215"
-generated_at: "2026-03-29T21:01:48.940Z"
+generated_at: "2026-03-29T21:06:36.176Z"
 ---
 
 # § 4215. Volunteer status

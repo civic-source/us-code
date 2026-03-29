@@ -3,9 +3,9 @@ title: "Section 65 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641"
 usc_title: 42
 usc_section: "65"
 chapter: 1
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "42 U.S.C. § 65"
-generated_at: "2026-03-29T21:02:48.494Z"
+generated_at: "2026-03-29T21:07:29.144Z"
 ---
 
 # § 65. Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641

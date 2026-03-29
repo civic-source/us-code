@@ -3,9 +3,9 @@ title: "Section 7704 - National Earthquake Hazards Reduction Program"
 usc_title: 42
 usc_section: "7704"
 chapter: 86
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "42 U.S.C. § 7704"
-generated_at: "2026-03-29T21:02:49.587Z"
+generated_at: "2026-03-29T21:07:30.219Z"
 ---
 
 # § 7704. National Earthquake Hazards Reduction Program

@@ -3,9 +3,9 @@ title: "Section 485e - Maintenance and operation of project works; delinquency p
 usc_title: 43
 usc_section: "485e"
 chapter: 12
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "43 U.S.C. § 485e"
-generated_at: "2026-03-29T21:02:16.680Z"
+generated_at: "2026-03-29T21:06:55.234Z"
 ---
 
 # § 485e. Maintenance and operation of project works; delinquency penalties

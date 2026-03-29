@@ -3,9 +3,9 @@ title: "Section 2521a - Nonpartisan appointments"
 usc_title: 22
 usc_section: "2521a"
 chapter: 34
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "22 U.S.C. § 2521a"
-generated_at: "2026-03-29T21:01:20.901Z"
+generated_at: "2026-03-29T21:06:05.022Z"
 ---
 
 # § 2521a. Nonpartisan appointments

@@ -3,9 +3,9 @@ title: "Section 2714a - Revocation or denial of passport in case of certain unpa
 usc_title: 22
 usc_section: "2714a"
 chapter: 38
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "22 U.S.C. § 2714a"
-generated_at: "2026-03-29T21:01:20.916Z"
+generated_at: "2026-03-29T21:06:05.033Z"
 ---
 
 # § 2714a. Revocation or denial of passport in case of certain unpaid taxes

@@ -3,9 +3,9 @@ title: "Section 2274 - Study and notifications regarding certain affirmative det
 usc_title: 19
 usc_section: "2274"
 chapter: 12
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "19 U.S.C. § 2274"
-generated_at: "2026-03-29T21:00:55.894Z"
+generated_at: "2026-03-29T21:05:21.141Z"
 ---
 
 # § 2274. Study and notifications regarding certain affirmative determinations; industry notification of assistance

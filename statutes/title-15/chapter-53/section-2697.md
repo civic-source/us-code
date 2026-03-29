@@ -3,9 +3,9 @@ title: "Section 2697 - Formaldehyde standards"
 usc_title: 15
 usc_section: "2697"
 chapter: 53
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "15 U.S.C. § 2697"
-generated_at: "2026-03-29T21:00:47.708Z"
+generated_at: "2026-03-29T21:04:59.108Z"
 ---
 
 # § 2697. Formaldehyde standards

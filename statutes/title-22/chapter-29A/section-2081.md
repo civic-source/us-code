@@ -3,9 +3,9 @@ title: "Section 2081 - United States participation in Inter-American Cultural an
 usc_title: 22
 usc_section: "2081"
 chapter: 29
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "22 U.S.C. § 2081"
-generated_at: "2026-03-29T21:01:20.849Z"
+generated_at: "2026-03-29T21:06:04.974Z"
 ---
 
 # § 2081. United States participation in Inter-American Cultural and Trade Center; purposes of Interama

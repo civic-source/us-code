@@ -3,9 +3,9 @@ title: "Section 7415 - The Judge Advocate General’s School: master of laws in 
 usc_title: 10
 usc_section: "7415"
 chapter: 751
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "10 U.S.C. § 7415"
-generated_at: "2026-03-29T21:00:33.160Z"
+generated_at: "2026-03-29T21:04:40.362Z"
 ---
 
 # § 7415. The Judge Advocate General’s School: master of laws in military law

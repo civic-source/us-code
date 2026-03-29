@@ -3,9 +3,9 @@ title: "Section 2431 - Review of programs"
 usc_title: 25
 usc_section: "2431"
 chapter: 26
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "25 U.S.C. § 2431"
-generated_at: "2026-03-29T21:01:11.804Z"
+generated_at: "2026-03-29T21:05:57.782Z"
 ---
 
 # § 2431. Review of programs

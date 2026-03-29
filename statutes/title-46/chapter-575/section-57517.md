@@ -3,9 +3,9 @@ title: "Section 57517 - Recovery of excess profits"
 usc_title: 46
 usc_section: "57517"
 chapter: 575
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "46 U.S.C. § 57517"
-generated_at: "2026-03-29T21:02:59.937Z"
+generated_at: "2026-03-29T21:07:36.108Z"
 ---
 
 # § 57517. Recovery of excess profits

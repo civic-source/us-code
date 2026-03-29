@@ -3,9 +3,9 @@ title: "Section 3103 - Investigation of foreign telecommunications trade barrier
 usc_title: 19
 usc_section: "3103"
 chapter: 19
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "19 U.S.C. § 3103"
-generated_at: "2026-03-29T21:00:55.936Z"
+generated_at: "2026-03-29T21:05:21.173Z"
 ---
 
 # § 3103. Investigation of foreign telecommunications trade barriers

@@ -3,9 +3,9 @@ title: "Section 1521a - Department of Commerce Nonrecurring Expenses Fund"
 usc_title: 15
 usc_section: "1521a"
 chapter: 40
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "15 U.S.C. § 1521a"
-generated_at: "2026-03-29T21:00:47.606Z"
+generated_at: "2026-03-29T21:04:59.030Z"
 ---
 
 # § 1521a. Department of Commerce Nonrecurring Expenses Fund

@@ -3,9 +3,9 @@ title: "Section 1161x - School of veterinary medicine competitive grant program"
 usc_title: 20
 usc_section: "1161x"
 chapter: 28
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "20 U.S.C. § 1161x"
-generated_at: "2026-03-29T21:01:06.247Z"
+generated_at: "2026-03-29T21:05:50.623Z"
 ---
 
 # § 1161x. School of veterinary medicine competitive grant program

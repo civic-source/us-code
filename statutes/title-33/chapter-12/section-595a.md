@@ -3,9 +3,9 @@ title: "Section 595a - Compensation for taking or condemnation of property for p
 usc_title: 33
 usc_section: "595a"
 chapter: 12
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "33 U.S.C. § 595a"
-generated_at: "2026-03-29T21:01:48.762Z"
+generated_at: "2026-03-29T21:06:36.039Z"
 ---
 
 # § 595a. Compensation for taking or condemnation of property for public improvements; fair market value; partial taking; effective date

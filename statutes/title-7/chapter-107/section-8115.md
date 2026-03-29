@@ -3,9 +3,9 @@ title: "Section 8115 - Carbon utilization and biogas education program"
 usc_title: 7
 usc_section: "8115"
 chapter: 107
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "7 U.S.C. § 8115"
-generated_at: "2026-03-29T21:00:11.798Z"
+generated_at: "2026-03-29T21:04:31.750Z"
 ---
 
 # § 8115. Carbon utilization and biogas education program

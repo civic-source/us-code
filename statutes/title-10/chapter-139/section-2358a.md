@@ -3,9 +3,9 @@ title: "Section 2358a - Authorities for certain positions at science and technol
 usc_title: 10
 usc_section: "2358a"
 chapter: 139
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "10 U.S.C. § 2358a"
-generated_at: "2026-03-29T21:00:33.034Z"
+generated_at: "2026-03-29T21:04:40.265Z"
 ---
 
 # § 2358a. Authorities for certain positions at science and technology reinvention laboratories

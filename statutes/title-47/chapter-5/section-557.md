@@ -3,9 +3,9 @@ title: "Section 557 - Existing franchises"
 usc_title: 47
 usc_section: "557"
 chapter: 5
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "47 U.S.C. § 557"
-generated_at: "2026-03-29T21:03:06.629Z"
+generated_at: "2026-03-29T21:07:39.494Z"
 ---
 
 # § 557. Existing franchises

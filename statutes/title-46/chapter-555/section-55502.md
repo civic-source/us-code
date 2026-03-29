@@ -3,9 +3,9 @@ title: "Section 55502 - Maritime Transportation System National Advisory Committ
 usc_title: 46
 usc_section: "55502"
 chapter: 555
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "46 U.S.C. § 55502"
-generated_at: "2026-03-29T21:02:59.933Z"
+generated_at: "2026-03-29T21:07:36.105Z"
 ---
 
 # § 55502. Maritime Transportation System National Advisory Committee

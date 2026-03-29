@@ -3,9 +3,9 @@ title: "Section 3509 - Repealed. Pub. L. 105–362, title VI, § 601(a)(2)(C) , 
 usc_title: 42
 usc_section: "3509"
 chapter: 43
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "42 U.S.C. § 3509"
-generated_at: "2026-03-29T21:02:49.345Z"
+generated_at: "2026-03-29T21:07:29.994Z"
 ---
 
 # § 3509. Repealed. Pub. L. 105–362, title VI, § 601(a)(2)(C) , Nov. 10, 1998 , 112 Stat. 3285

@@ -3,9 +3,9 @@ title: "Section 44F - Renumbered § 30]"
 usc_title: 26
 usc_section: "44F"
 chapter: 1
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "26 U.S.C. § 44F"
-generated_at: "2026-03-29T21:01:40.754Z"
+generated_at: "2026-03-29T21:06:28.596Z"
 ---
 
 # [§ 44F. Renumbered § 30]

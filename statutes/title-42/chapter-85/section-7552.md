@@ -3,9 +3,9 @@ title: "Section 7552 - Motor vehicle compliance program fees"
 usc_title: 42
 usc_section: "7552"
 chapter: 85
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "42 U.S.C. § 7552"
-generated_at: "2026-03-29T21:02:49.564Z"
+generated_at: "2026-03-29T21:07:30.195Z"
 ---
 
 # § 7552. Motor vehicle compliance program fees

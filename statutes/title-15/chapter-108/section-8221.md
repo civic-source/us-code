@@ -3,9 +3,9 @@ title: "Section 8221 - Regulation of credit for reinsurance and reinsurance agre
 usc_title: 15
 usc_section: "8221"
 chapter: 108
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "15 U.S.C. § 8221"
-generated_at: "2026-03-29T21:00:47.790Z"
+generated_at: "2026-03-29T21:04:59.187Z"
 ---
 
 # § 8221. Regulation of credit for reinsurance and reinsurance agreements

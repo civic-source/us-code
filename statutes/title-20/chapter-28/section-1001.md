@@ -3,9 +3,9 @@ title: "Section 1001 - General definition of institution of higher education"
 usc_title: 20
 usc_section: "1001"
 chapter: 28
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "20 U.S.C. § 1001"
-generated_at: "2026-03-29T21:01:06.112Z"
+generated_at: "2026-03-29T21:05:50.509Z"
 ---
 
 # § 1001. General definition of institution of higher education

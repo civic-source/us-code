@@ -3,9 +3,9 @@ title: "Section 2801 - Congressional findings"
 usc_title: 22
 usc_section: "2801"
 chapter: 40
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "22 U.S.C. § 2801"
-generated_at: "2026-03-29T21:01:20.932Z"
+generated_at: "2026-03-29T21:06:05.045Z"
 ---
 
 # § 2801. Congressional findings

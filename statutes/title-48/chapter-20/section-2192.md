@@ -3,9 +3,9 @@ title: "Section 2192 - Right of Puerto Rico to determine its future political st
 usc_title: 48
 usc_section: "2192"
 chapter: 20
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "48 U.S.C. § 2192"
-generated_at: "2026-03-29T21:02:54.441Z"
+generated_at: "2026-03-29T21:07:34.426Z"
 ---
 
 # § 2192. Right of Puerto Rico to determine its future political status

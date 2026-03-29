@@ -3,9 +3,9 @@ title: "Section 1005 - Bank entries, reports and transactions"
 usc_title: 18
 usc_section: "1005"
 chapter: 47
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "18 U.S.C. § 1005"
-generated_at: "2026-03-29T21:00:53.212Z"
+generated_at: "2026-03-29T21:05:11.196Z"
 ---
 
 # § 1005. Bank entries, reports and transactions

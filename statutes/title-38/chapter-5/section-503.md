@@ -3,9 +3,9 @@ title: "Section 503 - Administrative error; equitable relief"
 usc_title: 38
 usc_section: "503"
 chapter: 5
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "38 U.S.C. § 503"
-generated_at: "2026-03-29T21:02:11.168Z"
+generated_at: "2026-03-29T21:06:43.817Z"
 ---
 
 # § 503. Administrative error; equitable relief

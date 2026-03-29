@@ -3,9 +3,9 @@ title: "Section 5942 - Allowance based on duty at remote worksites"
 usc_title: 5
 usc_section: "5942"
 chapter: 59
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "5 U.S.C. § 5942"
-generated_at: "2026-03-29T20:59:50.784Z"
+generated_at: "2026-03-29T21:04:21.226Z"
 ---
 
 # § 5942. Allowance based on duty at remote worksites

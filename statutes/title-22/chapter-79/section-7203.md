@@ -3,9 +3,9 @@ title: "Section 7203 - Exceptions"
 usc_title: 22
 usc_section: "7203"
 chapter: 79
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "22 U.S.C. § 7203"
-generated_at: "2026-03-29T21:01:21.041Z"
+generated_at: "2026-03-29T21:06:05.127Z"
 ---
 
 # § 7203. Exceptions

@@ -3,9 +3,9 @@ title: "Section 4140 - Continued use of amounts for affordable housing"
 usc_title: 25
 usc_section: "4140"
 chapter: 43
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "25 U.S.C. § 4140"
-generated_at: "2026-03-29T21:01:11.842Z"
+generated_at: "2026-03-29T21:05:57.811Z"
 ---
 
 # § 4140. Continued use of amounts for affordable housing

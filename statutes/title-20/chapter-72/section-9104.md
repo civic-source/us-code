@@ -3,9 +3,9 @@ title: "Section 9104 - Deputy Directors"
 usc_title: 20
 usc_section: "9104"
 chapter: 72
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "20 U.S.C. § 9104"
-generated_at: "2026-03-29T21:01:06.398Z"
+generated_at: "2026-03-29T21:05:50.750Z"
 ---
 
 # § 9104. Deputy Directors

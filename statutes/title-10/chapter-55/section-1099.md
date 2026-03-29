@@ -3,9 +3,9 @@ title: "Section 1099 - Health care enrollment system and payment options"
 usc_title: 10
 usc_section: "1099"
 chapter: 55
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "10 U.S.C. § 1099"
-generated_at: "2026-03-29T21:00:32.940Z"
+generated_at: "2026-03-29T21:04:40.177Z"
 ---
 
 # § 1099. Health care enrollment system and payment options

@@ -3,9 +3,9 @@ title: "Section 5c - Transfer of rehabilitation loan fund assets and liabilities
 usc_title: 12
 usc_section: "5c"
 chapter: 13
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "12 U.S.C. § 5c"
-generated_at: "2026-03-29T21:00:42.432Z"
+generated_at: "2026-03-29T21:05:03.965Z"
 ---
 
 # § 1701g–5c. Transfer of rehabilitation loan fund assets and liabilities

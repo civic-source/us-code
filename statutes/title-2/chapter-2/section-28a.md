@@ -3,9 +3,9 @@ title: "Section 28a - Compilation of the Precedents of House of Representatives;
 usc_title: 2
 usc_section: "28a"
 chapter: 2
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "2 U.S.C. § 28a"
-generated_at: "2026-03-29T20:59:41.673Z"
+generated_at: "2026-03-29T21:03:47.879Z"
 ---
 
 # § 28a. Compilation of the Precedents of House of Representatives; date of completion; biennial update; printing and availability of copies

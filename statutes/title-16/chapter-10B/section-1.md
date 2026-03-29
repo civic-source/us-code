@@ -3,9 +3,9 @@ title: "Section 1 - Boating infrastructure"
 usc_title: 16
 usc_section: "1"
 chapter: 10
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-29T21:01:01.745Z"
+generated_at: "2026-03-29T21:05:17.279Z"
 ---
 
 # § 777g–1. Boating infrastructure

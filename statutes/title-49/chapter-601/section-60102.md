@@ -3,9 +3,9 @@ title: "Section 60102 - Purpose and general authority"
 usc_title: 49
 usc_section: "60102"
 chapter: 601
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "49 U.S.C. § 60102"
-generated_at: "2026-03-29T21:03:19.169Z"
+generated_at: "2026-03-29T21:07:47.689Z"
 ---
 
 # § 60102. Purpose and general authority

@@ -3,9 +3,9 @@ title: "Section 940 - Supplies and equipment from stock"
 usc_title: 14
 usc_section: "940"
 chapter: 9
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "14 U.S.C. § 940"
-generated_at: "2026-03-29T21:00:37.821Z"
+generated_at: "2026-03-29T21:05:05.187Z"
 ---
 
 # § 940. Supplies and equipment from stock

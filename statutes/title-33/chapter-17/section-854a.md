@@ -3,9 +3,9 @@ title: "Section 854a - Service credit as deck officer or junior engineer for pro
 usc_title: 33
 usc_section: "854a"
 chapter: 17
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "33 U.S.C. § 854a"
-generated_at: "2026-03-29T21:01:48.780Z"
+generated_at: "2026-03-29T21:06:36.053Z"
 ---
 
 # § 854a. Service credit as deck officer or junior engineer for promotion purposes

@@ -3,9 +3,9 @@ title: "Section 5525 - Repealed. Pub. L. 114–329, title I, § 105(n) , Jan. 6,
 usc_title: 15
 usc_section: "5525"
 chapter: 81
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "15 U.S.C. § 5525"
-generated_at: "2026-03-29T21:00:47.753Z"
+generated_at: "2026-03-29T21:04:59.151Z"
 ---
 
 # § 5525. Repealed. Pub. L. 114–329, title I, § 105(n) , Jan. 6, 2017 , 130 Stat. 2984

@@ -3,9 +3,9 @@ title: "Section 3708 - Protests"
 usc_title: 41
 usc_section: "3708"
 chapter: 37
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "41 U.S.C. § 3708"
-generated_at: "2026-03-29T21:02:13.894Z"
+generated_at: "2026-03-29T21:06:57.473Z"
 ---
 
 # § 3708. Protests

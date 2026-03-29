@@ -3,9 +3,9 @@ title: "Section 34 - Repealed. Pub. L. 90–576, title I, § 103 , Oct. 16, 1968
 usc_title: 20
 usc_section: "34"
 chapter: 2
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "20 U.S.C. § 34"
-generated_at: "2026-03-29T21:01:06.080Z"
+generated_at: "2026-03-29T21:05:50.470Z"
 ---
 
 # §§ 30 to 34. Repealed. Pub. L. 90–576, title I, § 103 , Oct. 16, 1968 , 82 Stat. 1091

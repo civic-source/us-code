@@ -3,9 +3,9 @@ title: "Section 3171 - Congressional findings and declaration of policy"
 usc_title: 7
 usc_section: "3171"
 chapter: 64
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "7 U.S.C. § 3171"
-generated_at: "2026-03-29T21:00:11.682Z"
+generated_at: "2026-03-29T21:04:31.646Z"
 ---
 
 # § 3171. Congressional findings and declaration of policy

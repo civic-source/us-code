@@ -3,9 +3,9 @@ title: "Section 1c - Prevention of traumatic brain injury"
 usc_title: 42
 usc_section: "1c"
 chapter: 6
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "42 U.S.C. § 1c"
-generated_at: "2026-03-29T21:02:48.570Z"
+generated_at: "2026-03-29T21:07:29.229Z"
 ---
 
 # § 280b–1c. Prevention of traumatic brain injury

@@ -3,9 +3,9 @@ title: "Section 3501 - Collection and payment of taxes"
 usc_title: 26
 usc_section: "3501"
 chapter: 25
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "26 U.S.C. § 3501"
-generated_at: "2026-03-29T21:01:41.084Z"
+generated_at: "2026-03-29T21:06:28.886Z"
 ---
 
 # § 3501. Collection and payment of taxes

@@ -3,9 +3,9 @@ title: "Section 190l - Private claims pending before Congress; taking of testimo
 usc_title: 2
 usc_section: "190l"
 chapter: 6
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "2 U.S.C. § 190l"
-generated_at: "2026-03-29T20:59:41.703Z"
+generated_at: "2026-03-29T21:03:47.896Z"
 ---
 
 # § 190l. Private claims pending before Congress; taking of testimony

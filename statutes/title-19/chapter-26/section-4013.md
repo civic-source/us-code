@@ -3,9 +3,9 @@ title: "Section 4013 - Implementing actions in anticipation of entry into force 
 usc_title: 19
 usc_section: "4013"
 chapter: 26
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "19 U.S.C. § 4013"
-generated_at: "2026-03-29T21:00:55.959Z"
+generated_at: "2026-03-29T21:05:21.190Z"
 ---
 
 # § 4013. Implementing actions in anticipation of entry into force and initial regulations

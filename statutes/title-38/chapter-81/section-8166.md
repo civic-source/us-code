@@ -3,9 +3,9 @@ title: "Section 8166 - Construction standards"
 usc_title: 38
 usc_section: "8166"
 chapter: 81
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "38 U.S.C. § 8166"
-generated_at: "2026-03-29T21:02:11.326Z"
+generated_at: "2026-03-29T21:06:43.950Z"
 ---
 
 # § 8166. Construction standards

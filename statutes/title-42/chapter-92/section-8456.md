@@ -3,9 +3,9 @@ title: "Section 8456 - Socioeconomic impacts of increased coal production and ot
 usc_title: 42
 usc_section: "8456"
 chapter: 92
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "42 U.S.C. § 8456"
-generated_at: "2026-03-29T21:02:49.612Z"
+generated_at: "2026-03-29T21:07:30.243Z"
 ---
 
 # § 8456. Socioeconomic impacts of increased coal production and other energy development

@@ -3,9 +3,9 @@ title: "Section 3112 - Instrumentalities of the United States"
 usc_title: 26
 usc_section: "3112"
 chapter: 21
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "26 U.S.C. § 3112"
-generated_at: "2026-03-29T21:01:41.065Z"
+generated_at: "2026-03-29T21:06:28.872Z"
 ---
 
 # § 3112. Instrumentalities of the United States

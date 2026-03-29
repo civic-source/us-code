@@ -3,9 +3,9 @@ title: "Section 1243 - Manufacture, sale, or possession within specific jurisdic
 usc_title: 15
 usc_section: "1243"
 chapter: 29
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "15 U.S.C. § 1243"
-generated_at: "2026-03-29T21:00:47.592Z"
+generated_at: "2026-03-29T21:04:59.019Z"
 ---
 
 # § 1243. Manufacture, sale, or possession within specific jurisdictions; penalty

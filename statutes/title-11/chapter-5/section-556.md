@@ -3,9 +3,9 @@ title: "Section 556 - Contractual right to liquidate, terminate, or accelerate a
 usc_title: 11
 usc_section: "556"
 chapter: 5
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "11 U.S.C. § 556"
-generated_at: "2026-03-29T21:00:36.888Z"
+generated_at: "2026-03-29T21:04:59.861Z"
 ---
 
 # § 556. Contractual right to liquidate, terminate, or accelerate a commodities contract or forward contract

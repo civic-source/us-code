@@ -3,9 +3,9 @@ title: "Section 1933 - Guaranteed rural housing loans; Hawaiian home lands"
 usc_title: 7
 usc_section: "1933"
 chapter: 50
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "7 U.S.C. § 1933"
-generated_at: "2026-03-29T21:00:11.606Z"
+generated_at: "2026-03-29T21:04:31.579Z"
 ---
 
 # § 1933. Guaranteed rural housing loans; Hawaiian home lands

@@ -3,9 +3,9 @@ title: "Section 41101 - Joint ventures and consortiums"
 usc_title: 46
 usc_section: "41101"
 chapter: 411
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "46 U.S.C. § 41101"
-generated_at: "2026-03-29T21:02:59.905Z"
+generated_at: "2026-03-29T21:07:36.079Z"
 ---
 
 # § 41101. Joint ventures and consortiums

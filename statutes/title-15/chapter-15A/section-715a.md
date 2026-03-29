@@ -3,9 +3,9 @@ title: "Section 715a - Definitions"
 usc_title: 15
 usc_section: "715a"
 chapter: 15
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "15 U.S.C. § 715a"
-generated_at: "2026-03-29T21:00:47.563Z"
+generated_at: "2026-03-29T21:04:58.994Z"
 ---
 
 # § 715a. Definitions

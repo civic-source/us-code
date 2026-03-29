@@ -3,9 +3,9 @@ title: "Section 4271 - Program cost, fielding, and performance goals in planning
 usc_title: 10
 usc_section: "4271"
 chapter: 322
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "10 U.S.C. § 4271"
-generated_at: "2026-03-29T21:00:33.132Z"
+generated_at: "2026-03-29T21:04:40.344Z"
 ---
 
 # § 4271. Program cost, fielding, and performance goals in planning major defense acquisition programs

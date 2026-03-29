@@ -3,9 +3,9 @@ title: "Section 9818 - Continuity of care"
 usc_title: 26
 usc_section: "9818"
 chapter: 100
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "26 U.S.C. § 9818"
-generated_at: "2026-03-29T21:01:41.282Z"
+generated_at: "2026-03-29T21:06:29.041Z"
 ---
 
 # § 9818. Continuity of care

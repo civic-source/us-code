@@ -3,9 +3,9 @@ title: "Section 1824 - Energy and environmental measures in Capitol Complex Mast
 usc_title: 2
 usc_section: "1824"
 chapter: 28
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "2 U.S.C. § 1824"
-generated_at: "2026-03-29T20:59:41.769Z"
+generated_at: "2026-03-29T21:03:47.949Z"
 ---
 
 # § 1824. Energy and environmental measures in Capitol Complex Master Plan

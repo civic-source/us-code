@@ -3,9 +3,9 @@ title: "Section 9509 - General workforce classification and pay"
 usc_title: 5
 usc_section: "9509"
 chapter: 95
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "5 U.S.C. § 9509"
-generated_at: "2026-03-29T20:59:50.855Z"
+generated_at: "2026-03-29T21:04:21.365Z"
 ---
 
 # § 9509. General workforce classification and pay

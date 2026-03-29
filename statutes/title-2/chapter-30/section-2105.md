@@ -3,9 +3,9 @@ title: "Section 2105 - Authorization of appropriations"
 usc_title: 2
 usc_section: "2105"
 chapter: 30
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "2 U.S.C. § 2105"
-generated_at: "2026-03-29T20:59:41.784Z"
+generated_at: "2026-03-29T21:03:47.963Z"
 ---
 
 # § 2105. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 3851 - Criminal enforcement"
 usc_title: 33
 usc_section: "3851"
 chapter: 51
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "33 U.S.C. § 3851"
-generated_at: "2026-03-29T21:01:48.931Z"
+generated_at: "2026-03-29T21:06:36.169Z"
 ---
 
 # § 3851. Criminal enforcement

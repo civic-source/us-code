@@ -3,9 +3,9 @@ title: "Section 107 - Issuance of injunctions in labor disputes; hearing; findin
 usc_title: 29
 usc_section: "107"
 chapter: 6
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "29 U.S.C. § 107"
-generated_at: "2026-03-29T21:01:26.417Z"
+generated_at: "2026-03-29T21:06:18.448Z"
 ---
 
 # § 107. Issuance of injunctions in labor disputes; hearing; findings of court; notice to affected persons; temporary restraining order; undertakings

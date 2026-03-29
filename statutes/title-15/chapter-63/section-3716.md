@@ -3,9 +3,9 @@ title: "Section 3716 - Critical industries"
 usc_title: 15
 usc_section: "3716"
 chapter: 63
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "15 U.S.C. § 3716"
-generated_at: "2026-03-29T21:00:47.732Z"
+generated_at: "2026-03-29T21:04:59.128Z"
 ---
 
 # § 3716. Critical industries

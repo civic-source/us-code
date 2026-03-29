@@ -3,9 +3,9 @@ title: "Section 1550 - Reports and briefings on use of military force and suppor
 usc_title: 50
 usc_section: "1550"
 chapter: 33
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "50 U.S.C. § 1550"
-generated_at: "2026-03-29T21:02:57.740Z"
+generated_at: "2026-03-29T21:07:38.460Z"
 ---
 
 # § 1550. Reports and briefings on use of military force and support of partner forces

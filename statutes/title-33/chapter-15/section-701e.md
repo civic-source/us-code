@@ -3,9 +3,9 @@ title: "Section 701e - Effect of act June 22, 1936 , on provisions for Mississip
 usc_title: 33
 usc_section: "701e"
 chapter: 15
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "33 U.S.C. § 701e"
-generated_at: "2026-03-29T21:01:48.772Z"
+generated_at: "2026-03-29T21:06:36.046Z"
 ---
 
 # § 701e. Effect of act June 22, 1936 , on provisions for Mississippi River and other projects

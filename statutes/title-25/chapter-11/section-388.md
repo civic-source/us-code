@@ -3,9 +3,9 @@ title: "Section 388 - Claims for damages; settlement by agreement"
 usc_title: 25
 usc_section: "388"
 chapter: 11
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "25 U.S.C. § 388"
-generated_at: "2026-03-29T21:01:11.735Z"
+generated_at: "2026-03-29T21:05:57.724Z"
 ---
 
 # § 388. Claims for damages; settlement by agreement

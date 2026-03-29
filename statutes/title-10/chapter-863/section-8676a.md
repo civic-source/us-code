@@ -3,9 +3,9 @@ title: "Section 8676a - Vessels stricken from Naval Vessel Register: use for exp
 usc_title: 10
 usc_section: "8676a"
 chapter: 863
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "10 U.S.C. § 8676a"
-generated_at: "2026-03-29T21:00:33.186Z"
+generated_at: "2026-03-29T21:04:40.382Z"
 ---
 
 # § 8676a. Vessels stricken from Naval Vessel Register: use for experimental purposes

@@ -3,9 +3,9 @@ title: "Section 3057j - Application"
 usc_title: 42
 usc_section: "3057j"
 chapter: 35
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "42 U.S.C. § 3057j"
-generated_at: "2026-03-29T21:02:49.335Z"
+generated_at: "2026-03-29T21:07:29.983Z"
 ---
 
 # § 3057j. Application

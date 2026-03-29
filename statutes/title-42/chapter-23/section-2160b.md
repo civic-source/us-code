@@ -3,9 +3,9 @@ title: "Section 2160b - Authority to suspend nuclear cooperation with nations wh
 usc_title: 42
 usc_section: "2160b"
 chapter: 23
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "42 U.S.C. § 2160b"
-generated_at: "2026-03-29T21:02:49.284Z"
+generated_at: "2026-03-29T21:07:29.933Z"
 ---
 
 # § 2160b. Authority to suspend nuclear cooperation with nations which have not ratified the Convention on the Physical Security of Nuclear Material

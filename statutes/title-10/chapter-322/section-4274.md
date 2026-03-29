@@ -3,9 +3,9 @@ title: "Section 4274 - Acquisition-related functions of chiefs of the armed forc
 usc_title: 10
 usc_section: "4274"
 chapter: 322
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "10 U.S.C. § 4274"
-generated_at: "2026-03-29T21:00:33.132Z"
+generated_at: "2026-03-29T21:04:40.345Z"
 ---
 
 # § 4274. Acquisition-related functions of chiefs of the armed forces: adherence to requirements in major defense acquisition programs

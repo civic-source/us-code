@@ -3,9 +3,9 @@ title: "Section 754b - Funds from private entities credited to Resource Manageme
 usc_title: 16
 usc_section: "754b"
 chapter: 9
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "16 U.S.C. § 754b"
-generated_at: "2026-03-29T21:01:01.740Z"
+generated_at: "2026-03-29T21:05:17.273Z"
 ---
 
 # § 754b. Funds from private entities credited to Resource Management account

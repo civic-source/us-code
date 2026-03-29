@@ -3,9 +3,9 @@ title: "Section 51702 - Civilian nautical schools"
 usc_title: 46
 usc_section: "51702"
 chapter: 517
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "46 U.S.C. § 51702"
-generated_at: "2026-03-29T21:02:59.918Z"
+generated_at: "2026-03-29T21:07:36.089Z"
 ---
 
 # § 51702. Civilian nautical schools

@@ -3,9 +3,9 @@ title: "Section 3158 - Next generation agriculture technology challenge"
 usc_title: 7
 usc_section: "3158"
 chapter: 64
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "7 U.S.C. § 3158"
-generated_at: "2026-03-29T21:00:11.682Z"
+generated_at: "2026-03-29T21:04:31.646Z"
 ---
 
 # § 3158. Next generation agriculture technology challenge

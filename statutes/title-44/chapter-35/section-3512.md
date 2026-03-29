@@ -3,9 +3,9 @@ title: "Section 3512 - Public protection"
 usc_title: 44
 usc_section: "3512"
 chapter: 35
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "44 U.S.C. § 3512"
-generated_at: "2026-03-29T21:02:14.758Z"
+generated_at: "2026-03-29T21:07:03.978Z"
 ---
 
 # § 3512. Public protection

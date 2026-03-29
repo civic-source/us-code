@@ -3,9 +3,9 @@ title: "Section 1306 - Effect on rights of owner of coal in Alaska to conduct su
 usc_title: 30
 usc_section: "1306"
 chapter: 25
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "30 U.S.C. § 1306"
-generated_at: "2026-03-29T21:01:28.868Z"
+generated_at: "2026-03-29T21:06:08.286Z"
 ---
 
 # § 1306. Effect on rights of owner of coal in Alaska to conduct surface mining operations

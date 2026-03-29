@@ -3,9 +3,9 @@ title: "Section 1592i - Laborers and mechanics"
 usc_title: 42
 usc_section: "1592i"
 chapter: 9
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "42 U.S.C. § 1592i"
-generated_at: "2026-03-29T21:02:49.207Z"
+generated_at: "2026-03-29T21:07:29.839Z"
 ---
 
 # § 1592i. Laborers and mechanics

@@ -3,9 +3,9 @@ title: "Section 579 - Interoperable Emergency Communications Grant Program"
 usc_title: 6
 usc_section: "579"
 chapter: 1
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "6 U.S.C. § 579"
-generated_at: "2026-03-29T20:59:56.389Z"
+generated_at: "2026-03-29T21:04:46.833Z"
 ---
 
 # § 579. Interoperable Emergency Communications Grant Program

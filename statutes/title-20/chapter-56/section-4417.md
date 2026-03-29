@@ -3,9 +3,9 @@ title: "Section 4417 - Functions of Institute"
 usc_title: 20
 usc_section: "4417"
 chapter: 56
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "20 U.S.C. § 4417"
-generated_at: "2026-03-29T21:01:06.313Z"
+generated_at: "2026-03-29T21:05:50.677Z"
 ---
 
 # § 4417. Functions of Institute

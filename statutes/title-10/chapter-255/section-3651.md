@@ -3,9 +3,9 @@ title: "Section 3651 - [Reserved]"
 usc_title: 10
 usc_section: "3651"
 chapter: 255
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "10 U.S.C. § 3651"
-generated_at: "2026-03-29T21:00:33.115Z"
+generated_at: "2026-03-29T21:04:40.332Z"
 ---
 
 # § 3651. [Reserved]

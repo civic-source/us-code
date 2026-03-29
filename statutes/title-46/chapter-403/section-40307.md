@@ -3,9 +3,9 @@ title: "Section 40307 - Exemption from antitrust laws"
 usc_title: 46
 usc_section: "40307"
 chapter: 403
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "46 U.S.C. § 40307"
-generated_at: "2026-03-29T21:02:59.904Z"
+generated_at: "2026-03-29T21:07:36.076Z"
 ---
 
 # § 40307. Exemption from antitrust laws

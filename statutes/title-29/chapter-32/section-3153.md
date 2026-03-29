@@ -3,9 +3,9 @@ title: "Section 3153 - Eligible providers of youth workforce investment activiti
 usc_title: 29
 usc_section: "3153"
 chapter: 32
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "29 U.S.C. § 3153"
-generated_at: "2026-03-29T21:01:26.580Z"
+generated_at: "2026-03-29T21:06:18.576Z"
 ---
 
 # § 3153. Eligible providers of youth workforce investment activities

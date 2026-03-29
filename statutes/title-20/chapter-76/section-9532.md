@@ -3,9 +3,9 @@ title: "Section 9532 - Commissioner for Education Research"
 usc_title: 20
 usc_section: "9532"
 chapter: 76
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "20 U.S.C. § 9532"
-generated_at: "2026-03-29T21:01:06.407Z"
+generated_at: "2026-03-29T21:05:50.755Z"
 ---
 
 # § 9532. Commissioner for Education Research

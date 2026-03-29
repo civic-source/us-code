@@ -3,9 +3,9 @@ title: "Section 8012 - Engagement of diplomatic missions of the United States"
 usc_title: 16
 usc_section: "8012"
 chapter: 99
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "16 U.S.C. § 8012"
-generated_at: "2026-03-29T21:01:01.991Z"
+generated_at: "2026-03-29T21:05:17.482Z"
 ---
 
 # § 8012. Engagement of diplomatic missions of the United States

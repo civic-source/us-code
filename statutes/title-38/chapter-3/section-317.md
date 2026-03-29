@@ -3,9 +3,9 @@ title: "Section 317 - Center for Minority Veterans"
 usc_title: 38
 usc_section: "317"
 chapter: 3
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "38 U.S.C. § 317"
-generated_at: "2026-03-29T21:02:11.167Z"
+generated_at: "2026-03-29T21:06:43.815Z"
 ---
 
 # § 317. Center for Minority Veterans

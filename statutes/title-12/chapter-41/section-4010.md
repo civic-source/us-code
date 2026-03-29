@@ -3,9 +3,9 @@ title: "Section 4010 - Civil liability"
 usc_title: 12
 usc_section: "4010"
 chapter: 41
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "12 U.S.C. § 4010"
-generated_at: "2026-03-29T21:00:42.632Z"
+generated_at: "2026-03-29T21:05:04.127Z"
 ---
 
 # § 4010. Civil liability

@@ -3,9 +3,9 @@ title: "Section 53708 - Findings related to economic soundness"
 usc_title: 46
 usc_section: "53708"
 chapter: 537
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "46 U.S.C. § 53708"
-generated_at: "2026-03-29T21:02:59.925Z"
+generated_at: "2026-03-29T21:07:36.099Z"
 ---
 
 # § 53708. Findings related to economic soundness

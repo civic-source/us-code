@@ -3,9 +3,9 @@ title: "Section 20 - Hawaii reclamation projects"
 usc_title: 43
 usc_section: "20"
 chapter: 12
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "43 U.S.C. § 20"
-generated_at: "2026-03-29T21:02:16.667Z"
+generated_at: "2026-03-29T21:06:55.223Z"
 ---
 
 # § 390h–20. Hawaii reclamation projects

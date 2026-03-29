@@ -3,9 +3,9 @@ title: "Section 6611 - Formula grants to States"
 usc_title: 20
 usc_section: "6611"
 chapter: 70
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "20 U.S.C. § 6611"
-generated_at: "2026-03-29T21:01:06.347Z"
+generated_at: "2026-03-29T21:05:50.708Z"
 ---
 
 # § 6611. Formula grants to States

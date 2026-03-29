@@ -3,9 +3,9 @@ title: "Section 2447c - Requirements and limitations for weapon system component
 usc_title: 10
 usc_section: "2447c"
 chapter: 144
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "10 U.S.C. § 2447c"
-generated_at: "2026-03-29T21:00:33.052Z"
+generated_at: "2026-03-29T21:04:40.280Z"
 ---
 
 # § 2447c. Requirements and limitations for weapon system component or technology prototype projects

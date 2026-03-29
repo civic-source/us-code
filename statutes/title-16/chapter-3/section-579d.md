@@ -3,9 +3,9 @@ title: "Section 579d - Indirect expenditures; future budget justifications"
 usc_title: 16
 usc_section: "579d"
 chapter: 3
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "16 U.S.C. § 579d"
-generated_at: "2026-03-29T21:01:01.701Z"
+generated_at: "2026-03-29T21:05:17.237Z"
 ---
 
 # § 579d. Indirect expenditures; future budget justifications

@@ -3,9 +3,9 @@ title: "Section 1103 - Executive responsibilities; utilization of staff, interag
 usc_title: 33
 usc_section: "1103"
 chapter: 22
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "33 U.S.C. § 1103"
-generated_at: "2026-03-29T21:01:48.794Z"
+generated_at: "2026-03-29T21:06:36.065Z"
 ---
 
 # § 1103. Executive responsibilities; utilization of staff, interagency, and non-Government advisory arrangements; consultation with agencies; solicitation of views of non-Federal agencies

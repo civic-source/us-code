@@ -3,9 +3,9 @@ title: "Section 7701 - Organization of the Administration"
 usc_title: 38
 usc_section: "7701"
 chapter: 77
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "38 U.S.C. § 7701"
-generated_at: "2026-03-29T21:02:11.311Z"
+generated_at: "2026-03-29T21:06:43.940Z"
 ---
 
 # § 7701. Organization of the Administration

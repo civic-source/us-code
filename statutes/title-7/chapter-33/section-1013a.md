@@ -3,9 +3,9 @@ title: "Section 1013a - Benefits extended to Puerto Rico and Virgin Islands; “
 usc_title: 7
 usc_section: "1013a"
 chapter: 33
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "7 U.S.C. § 1013a"
-generated_at: "2026-03-29T21:00:11.530Z"
+generated_at: "2026-03-29T21:04:31.513Z"
 ---
 
 # § 1013a. Benefits extended to Puerto Rico and Virgin Islands; “county” defined; payments to Governor or fiscal agent of county

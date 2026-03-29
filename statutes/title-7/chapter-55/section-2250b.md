@@ -3,9 +3,9 @@ title: "Section 2250b - Nonrecurring expenses fund"
 usc_title: 7
 usc_section: "2250b"
 chapter: 55
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "7 U.S.C. § 2250b"
-generated_at: "2026-03-29T21:00:11.660Z"
+generated_at: "2026-03-29T21:04:31.626Z"
 ---
 
 # § 2250b. Nonrecurring expenses fund

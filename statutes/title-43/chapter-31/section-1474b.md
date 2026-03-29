@@ -3,9 +3,9 @@ title: "Section 1474b - Natural Resource Damage Assessment and Restoration Fund;
 usc_title: 43
 usc_section: "1474b"
 chapter: 31
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "43 U.S.C. § 1474b"
-generated_at: "2026-03-29T21:02:16.722Z"
+generated_at: "2026-03-29T21:06:55.270Z"
 ---
 
 # § 1474b. Natural Resource Damage Assessment and Restoration Fund; availability of assessments

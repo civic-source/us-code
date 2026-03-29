@@ -3,9 +3,9 @@ title: "Section 1851 - Coal depredations"
 usc_title: 18
 usc_section: "1851"
 chapter: 91
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "18 U.S.C. § 1851"
-generated_at: "2026-03-29T21:00:53.238Z"
+generated_at: "2026-03-29T21:05:11.216Z"
 ---
 
 # § 1851. Coal depredations

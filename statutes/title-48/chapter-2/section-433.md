@@ -3,9 +3,9 @@ title: "Section 433 - Repealed. Pub. L. 85–508, § 20 , July 7, 1958 , 72 Stat
 usc_title: 48
 usc_section: "433"
 chapter: 2
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "48 U.S.C. § 433"
-generated_at: "2026-03-29T21:02:54.386Z"
+generated_at: "2026-03-29T21:07:34.384Z"
 ---
 
 # § 433. Repealed. Pub. L. 85–508, § 20 , July 7, 1958 , 72 Stat. 351

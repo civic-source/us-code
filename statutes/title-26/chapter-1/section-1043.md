@@ -3,9 +3,9 @@ title: "Section 1043 - Sale of property to comply with conflict-of-interest requ
 usc_title: 26
 usc_section: "1043"
 chapter: 1
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "26 U.S.C. § 1043"
-generated_at: "2026-03-29T21:01:41.005Z"
+generated_at: "2026-03-29T21:06:28.825Z"
 ---
 
 # § 1043. Sale of property to comply with conflict-of-interest requirements

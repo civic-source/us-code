@@ -3,9 +3,9 @@ title: "Section 4952 - Cooperative agreements"
 usc_title: 10
 usc_section: "4952"
 chapter: 388
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "10 U.S.C. § 4952"
-generated_at: "2026-03-29T21:00:33.150Z"
+generated_at: "2026-03-29T21:04:40.356Z"
 ---
 
 # § 4952. Cooperative agreements

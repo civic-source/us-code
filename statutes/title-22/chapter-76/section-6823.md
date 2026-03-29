@@ -3,9 +3,9 @@ title: "Section 6823 - Administration"
 usc_title: 22
 usc_section: "6823"
 chapter: 76
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "22 U.S.C. § 6823"
-generated_at: "2026-03-29T21:01:21.028Z"
+generated_at: "2026-03-29T21:06:05.118Z"
 ---
 
 # § 6823. Administration

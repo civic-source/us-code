@@ -3,9 +3,9 @@ title: "Section 896 - Art. 96. Release of prisoner without authority; drinking w
 usc_title: 10
 usc_section: "896"
 chapter: 47
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "10 U.S.C. § 896"
-generated_at: "2026-03-29T21:00:32.905Z"
+generated_at: "2026-03-29T21:04:40.141Z"
 ---
 
 # § 896. Art. 96. Release of prisoner without authority; drinking with prisoner

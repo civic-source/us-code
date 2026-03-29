@@ -3,9 +3,9 @@ title: "Section 1334 - Apportionment of national acreage allotment"
 usc_title: 7
 usc_section: "1334"
 chapter: 35
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "7 U.S.C. § 1334"
-generated_at: "2026-03-29T21:00:11.535Z"
+generated_at: "2026-03-29T21:04:31.518Z"
 ---
 
 # § 1334. Apportionment of national acreage allotment

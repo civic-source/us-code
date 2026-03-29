@@ -3,9 +3,9 @@ title: "Section 195f - EMP and GMD mitigation research and development and threa
 usc_title: 6
 usc_section: "195f"
 chapter: 1
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "6 U.S.C. § 195f"
-generated_at: "2026-03-29T20:59:56.352Z"
+generated_at: "2026-03-29T21:04:46.801Z"
 ---
 
 # § 195f. EMP and GMD mitigation research and development and threat assessment, response, and recovery

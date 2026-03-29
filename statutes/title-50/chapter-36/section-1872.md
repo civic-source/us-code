@@ -3,9 +3,9 @@ title: "Section 1872 - Declassification of significant decisions, orders, and op
 usc_title: 50
 usc_section: "1872"
 chapter: 36
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "50 U.S.C. § 1872"
-generated_at: "2026-03-29T21:02:57.747Z"
+generated_at: "2026-03-29T21:07:38.468Z"
 ---
 
 # § 1872. Declassification of significant decisions, orders, and opinions

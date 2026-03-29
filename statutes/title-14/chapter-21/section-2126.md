@@ -3,9 +3,9 @@ title: "Section 2126 - Promotion of officers not included on active duty promoti
 usc_title: 14
 usc_section: "2126"
 chapter: 21
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "14 U.S.C. § 2126"
-generated_at: "2026-03-29T21:00:37.827Z"
+generated_at: "2026-03-29T21:05:05.193Z"
 ---
 
 # § 2126. Promotion of officers not included on active duty promotion list

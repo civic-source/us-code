@@ -3,9 +3,9 @@ title: "Section 250 - Foreign-derived intangible income and global intangible lo
 usc_title: 26
 usc_section: "250"
 chapter: 1
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "26 U.S.C. § 250"
-generated_at: "2026-03-29T21:01:40.836Z"
+generated_at: "2026-03-29T21:06:28.674Z"
 ---
 
 # § 250. Foreign-derived intangible income and global intangible low-taxed income

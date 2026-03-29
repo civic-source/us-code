@@ -3,9 +3,9 @@ title: "Section 3810 - Relationship to other laws"
 usc_title: 15
 usc_section: "3810"
 chapter: 64
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "15 U.S.C. § 3810"
-generated_at: "2026-03-29T21:00:47.735Z"
+generated_at: "2026-03-29T21:04:59.132Z"
 ---
 
 # § 3810. Relationship to other laws

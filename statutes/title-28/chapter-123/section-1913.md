@@ -3,9 +3,9 @@ title: "Section 1913 - Courts of appeals"
 usc_title: 28
 usc_section: "1913"
 chapter: 123
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "28 U.S.C. § 1913"
-generated_at: "2026-03-29T21:01:42.995Z"
+generated_at: "2026-03-29T21:06:09.696Z"
 ---
 
 # § 1913. Courts of appeals

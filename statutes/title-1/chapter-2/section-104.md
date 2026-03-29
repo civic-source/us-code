@@ -3,9 +3,9 @@ title: "Section 104 - Numbering of sections; single proposition"
 usc_title: 1
 usc_section: "104"
 chapter: 2
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "1 U.S.C. § 104"
-generated_at: "2026-03-29T20:59:41.901Z"
+generated_at: "2026-03-29T21:03:44.951Z"
 ---
 
 # § 104. Numbering of sections; single proposition

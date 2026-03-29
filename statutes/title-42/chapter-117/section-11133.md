@@ -3,9 +3,9 @@ title: "Section 11133 - Reporting of certain professional review actions taken b
 usc_title: 42
 usc_section: "11133"
 chapter: 117
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "42 U.S.C. § 11133"
-generated_at: "2026-03-29T21:02:49.709Z"
+generated_at: "2026-03-29T21:07:30.339Z"
 ---
 
 # § 11133. Reporting of certain professional review actions taken by health care entities

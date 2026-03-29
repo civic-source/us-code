@@ -3,9 +3,9 @@ title: "Section 1181d - Transferred"
 usc_title: 43
 usc_section: "1181d"
 chapter: 28
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "43 U.S.C. § 1181d"
-generated_at: "2026-03-29T21:02:16.709Z"
+generated_at: "2026-03-29T21:06:55.259Z"
 ---
 
 # § 1181d. Transferred

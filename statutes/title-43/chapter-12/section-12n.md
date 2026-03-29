@@ -3,9 +3,9 @@ title: "Section 12n - Treatment of effluent from sanitation districts of Los Ang
 usc_title: 43
 usc_section: "12n"
 chapter: 12
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "43 U.S.C. § 12n"
-generated_at: "2026-03-29T21:02:16.666Z"
+generated_at: "2026-03-29T21:06:55.222Z"
 ---
 
 # § 390h–12n. Treatment of effluent from sanitation districts of Los Angeles County through city of Long Beach

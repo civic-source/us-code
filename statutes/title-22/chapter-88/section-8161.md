@@ -3,9 +3,9 @@ title: "Section 8161 - Protection of certain information"
 usc_title: 22
 usc_section: "8161"
 chapter: 88
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "22 U.S.C. § 8161"
-generated_at: "2026-03-29T21:01:21.063Z"
+generated_at: "2026-03-29T21:06:05.147Z"
 ---
 
 # § 8161. Protection of certain information

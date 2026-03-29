@@ -3,9 +3,9 @@ title: "Section 286d - Federal Reserve banks as depositories"
 usc_title: 22
 usc_section: "286d"
 chapter: 7
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "22 U.S.C. § 286d"
-generated_at: "2026-03-29T21:01:20.809Z"
+generated_at: "2026-03-29T21:06:04.934Z"
 ---
 
 # § 286d. Federal Reserve banks as depositories

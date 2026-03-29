@@ -3,9 +3,9 @@ title: "Section 4262 - Purposes"
 usc_title: 16
 usc_section: "4262"
 chapter: 62
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "16 U.S.C. § 4262"
-generated_at: "2026-03-29T21:01:01.930Z"
+generated_at: "2026-03-29T21:05:17.443Z"
 ---
 
 # § 4262. Purposes

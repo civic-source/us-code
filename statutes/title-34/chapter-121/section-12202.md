@@ -3,9 +3,9 @@ title: "Section 12202 - Emerging community development corporation revolving loa
 usc_title: 34
 usc_section: "12202"
 chapter: 121
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "34 U.S.C. § 12202"
-generated_at: "2026-03-29T21:01:50.703Z"
+generated_at: "2026-03-29T21:06:34.312Z"
 ---
 
 # § 12202. Emerging community development corporation revolving loan funds

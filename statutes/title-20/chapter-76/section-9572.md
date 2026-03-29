@@ -3,9 +3,9 @@ title: "Section 9572 - Prohibitions"
 usc_title: 20
 usc_section: "9572"
 chapter: 76
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "20 U.S.C. § 9572"
-generated_at: "2026-03-29T21:01:06.410Z"
+generated_at: "2026-03-29T21:05:50.758Z"
 ---
 
 # § 9572. Prohibitions

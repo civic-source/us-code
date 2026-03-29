@@ -3,9 +3,9 @@ title: "Section 3030e - Grants for establishment and operation of nutrition proj
 usc_title: 42
 usc_section: "3030e"
 chapter: 35
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "42 U.S.C. § 3030e"
-generated_at: "2026-03-29T21:02:49.327Z"
+generated_at: "2026-03-29T21:07:29.975Z"
 ---
 
 # § 3030e. Grants for establishment and operation of nutrition projects

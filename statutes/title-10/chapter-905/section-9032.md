@@ -3,9 +3,9 @@ title: "Section 9032 - The Air Staff: general duties"
 usc_title: 10
 usc_section: "9032"
 chapter: 905
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "10 U.S.C. § 9032"
-generated_at: "2026-03-29T21:00:33.198Z"
+generated_at: "2026-03-29T21:04:40.391Z"
 ---
 
 # § 9032. The Air Staff: general duties

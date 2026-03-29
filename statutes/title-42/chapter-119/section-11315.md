@@ -3,9 +3,9 @@ title: "Section 11315 - Powers"
 usc_title: 42
 usc_section: "11315"
 chapter: 119
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "42 U.S.C. § 11315"
-generated_at: "2026-03-29T21:02:49.712Z"
+generated_at: "2026-03-29T21:07:30.342Z"
 ---
 
 # § 11315. Powers

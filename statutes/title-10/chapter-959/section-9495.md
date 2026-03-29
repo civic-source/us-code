@@ -3,9 +3,9 @@ title: "Section 9495 - Funds appropriated for the Civil Air Patrol"
 usc_title: 10
 usc_section: "9495"
 chapter: 959
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "10 U.S.C. § 9495"
-generated_at: "2026-03-29T21:00:33.207Z"
+generated_at: "2026-03-29T21:04:40.399Z"
 ---
 
 # § 9495. Funds appropriated for the Civil Air Patrol

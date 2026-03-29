@@ -3,9 +3,9 @@ title: "Section 2242 - Repealed. Pub. L. 101–624, title XVI, § 1606(b)(1) , (
 usc_title: 7
 usc_section: "2242"
 chapter: 55
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "7 U.S.C. § 2242"
-generated_at: "2026-03-29T21:00:11.659Z"
+generated_at: "2026-03-29T21:04:31.626Z"
 ---
 
 # § 2242. Repealed. Pub. L. 101–624, title XVI, § 1606(b)(1) , (2), Nov. 28, 1990 , 104 Stat. 3715

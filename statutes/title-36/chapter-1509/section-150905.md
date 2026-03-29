@@ -3,9 +3,9 @@ title: "Section 150905 - Powers"
 usc_title: 36
 usc_section: "150905"
 chapter: 1509
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "36 U.S.C. § 150905"
-generated_at: "2026-03-29T21:02:00.638Z"
+generated_at: "2026-03-29T21:06:41.465Z"
 ---
 
 # § 150905. Powers

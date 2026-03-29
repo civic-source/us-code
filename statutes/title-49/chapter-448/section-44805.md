@@ -3,9 +3,9 @@ title: "Section 44805 - Small Unmanned 1 1 So in original. Probably should not b
 usc_title: 49
 usc_section: "44805"
 chapter: 448
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "49 U.S.C. § 44805"
-generated_at: "2026-03-29T21:03:19.137Z"
+generated_at: "2026-03-29T21:07:47.660Z"
 ---
 
 # § 44805. Small Unmanned 1 1 So in original. Probably should not be capitalized. aircraft safety standards

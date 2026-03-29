@@ -3,9 +3,9 @@ title: "Section 5502 - Definitions"
 usc_title: 16
 usc_section: "5502"
 chapter: 75
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "16 U.S.C. § 5502"
-generated_at: "2026-03-29T21:01:01.949Z"
+generated_at: "2026-03-29T21:05:17.455Z"
 ---
 
 # § 5502. Definitions

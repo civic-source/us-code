@@ -3,9 +3,9 @@ title: "Section 469n - Preserve America Program"
 usc_title: 16
 usc_section: "469n"
 chapter: 1
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "16 U.S.C. § 469n"
-generated_at: "2026-03-29T21:01:01.662Z"
+generated_at: "2026-03-29T21:05:17.203Z"
 ---
 
 # § 469n. Preserve America Program

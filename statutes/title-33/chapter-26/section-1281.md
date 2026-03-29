@@ -3,9 +3,9 @@ title: "Section 1281 - Congressional declaration of purpose"
 usc_title: 33
 usc_section: "1281"
 chapter: 26
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "33 U.S.C. § 1281"
-generated_at: "2026-03-29T21:01:48.805Z"
+generated_at: "2026-03-29T21:06:36.074Z"
 ---
 
 # § 1281. Congressional declaration of purpose

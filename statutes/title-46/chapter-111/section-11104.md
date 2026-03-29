@@ -3,9 +3,9 @@ title: "Section 11104 - Destitute seamen"
 usc_title: 46
 usc_section: "11104"
 chapter: 111
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "46 U.S.C. § 11104"
-generated_at: "2026-03-29T21:02:59.888Z"
+generated_at: "2026-03-29T21:07:36.063Z"
 ---
 
 # § 11104. Destitute seamen

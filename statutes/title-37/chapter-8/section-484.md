@@ -3,9 +3,9 @@ title: "Section 484 - Travel and transportation; dependents; household and perso
 usc_title: 37
 usc_section: "484"
 chapter: 8
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "37 U.S.C. § 484"
-generated_at: "2026-03-29T21:02:04.911Z"
+generated_at: "2026-03-29T21:06:39.246Z"
 ---
 
 # § 484. Travel and transportation; dependents; household and personal effects; trailers; additional movements; motor vehicles; sale of bulky items; claims for proceeds; appropriation chargeable

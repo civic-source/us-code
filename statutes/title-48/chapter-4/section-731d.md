@@ -3,9 +3,9 @@ title: "Section 731d - Ratification of constitution by Congress"
 usc_title: 48
 usc_section: "731d"
 chapter: 4
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "48 U.S.C. § 731d"
-generated_at: "2026-03-29T21:02:54.387Z"
+generated_at: "2026-03-29T21:07:34.385Z"
 ---
 
 # § 731d. Ratification of constitution by Congress

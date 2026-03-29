@@ -3,9 +3,9 @@ title: "Section 2739 - Coast Guard medal"
 usc_title: 14
 usc_section: "2739"
 chapter: 27
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "14 U.S.C. § 2739"
-generated_at: "2026-03-29T21:00:37.834Z"
+generated_at: "2026-03-29T21:05:05.198Z"
 ---
 
 # § 2739. Coast Guard medal

@@ -3,9 +3,9 @@ title: "Section 18238 - Army National Guard of United States; Air National Guard
 usc_title: 10
 usc_section: "18238"
 chapter: 1803
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "10 U.S.C. § 18238"
-generated_at: "2026-03-29T21:00:33.241Z"
+generated_at: "2026-03-29T21:04:40.427Z"
 ---
 
 # § 18238. Army National Guard of United States; Air National Guard of United States: limitation on relocation of units

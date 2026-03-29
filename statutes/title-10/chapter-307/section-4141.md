@@ -3,9 +3,9 @@ title: "Section 4141 - Contracts: acquisition, construction, or furnishing of te
 usc_title: 10
 usc_section: "4141"
 chapter: 307
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "10 U.S.C. § 4141"
-generated_at: "2026-03-29T21:00:33.127Z"
+generated_at: "2026-03-29T21:04:40.341Z"
 ---
 
 # § 4141. Contracts: acquisition, construction, or furnishing of test facilities and equipment

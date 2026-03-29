@@ -3,9 +3,9 @@ title: "Section 228d - Acquisition of State of Arizona or local lands by donatio
 usc_title: 16
 usc_section: "228d"
 chapter: 1
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "16 U.S.C. § 228d"
-generated_at: "2026-03-29T21:01:01.512Z"
+generated_at: "2026-03-29T21:05:17.057Z"
 ---
 
 # § 228d. Acquisition of State of Arizona or local lands by donation or exchange; approval for transfer to United States of Indian trust lands

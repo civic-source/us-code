@@ -3,9 +3,9 @@ title: "Section 1303 - Administrative provisions"
 usc_title: 49
 usc_section: "1303"
 chapter: 13
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "49 U.S.C. § 1303"
-generated_at: "2026-03-29T21:03:19.009Z"
+generated_at: "2026-03-29T21:07:47.518Z"
 ---
 
 # § 1303. Administrative provisions

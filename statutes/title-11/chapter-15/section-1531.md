@@ -3,9 +3,9 @@ title: "Section 1531 - Presumption of insolvency based on recognition of a forei
 usc_title: 11
 usc_section: "1531"
 chapter: 15
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "11 U.S.C. § 1531"
-generated_at: "2026-03-29T21:00:36.910Z"
+generated_at: "2026-03-29T21:04:59.879Z"
 ---
 
 # § 1531. Presumption of insolvency based on recognition of a foreign main proceeding

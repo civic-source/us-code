@@ -3,9 +3,9 @@ title: "Section 415 - Reduction of liability for outstanding notes by depositing
 usc_title: 12
 usc_section: "415"
 chapter: 3
-current_through: "PL 117-32"
+current_through: "PL 117-36"
 classification: "12 U.S.C. § 415"
-generated_at: "2026-03-29T21:00:42.390Z"
+generated_at: "2026-03-29T21:05:03.929Z"
 ---
 
 # § 415. Reduction of liability for outstanding notes by depositing notes and collateral and payment of notes of series prior to 1928; reissue of deposited notes
