@@ -3,9 +3,9 @@ title: "Section 1621 - Congressional declaration of purpose; use of existing fac
 usc_title: 7
 usc_section: "1621"
 chapter: 38
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "7 U.S.C. § 1621"
-generated_at: "2026-03-29T21:40:15.816Z"
+generated_at: "2026-03-29T21:44:07.508Z"
 ---
 
 # § 1621. Congressional declaration of purpose; use of existing facilities; cooperation with States

@@ -3,9 +3,9 @@ title: "Section 484a - Exchange of lands in national forests; public schools; de
 usc_title: 16
 usc_section: "484a"
 chapter: 2
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "16 U.S.C. § 484a"
-generated_at: "2026-03-29T21:41:10.627Z"
+generated_at: "2026-03-29T21:44:52.901Z"
 ---
 
 # § 484a. Exchange of lands in national forests; public schools; deposit of funds by school authority with insufficient exchange land; limitations on use

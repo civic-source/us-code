@@ -3,9 +3,9 @@ title: "Section 302k - Special pay: accession bonus for medical officers in crit
 usc_title: 37
 usc_section: "302k"
 chapter: 5
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "37 U.S.C. § 302k"
-generated_at: "2026-03-29T21:42:25.182Z"
+generated_at: "2026-03-29T21:45:40.502Z"
 ---
 
 # § 302k. Special pay: accession bonus for medical officers in critically short wartime specialties

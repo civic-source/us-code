@@ -3,9 +3,9 @@ title: "Section 9403 - Imposition of additional sanctions in response to Iran’
 usc_title: 22
 usc_section: "9403"
 chapter: 101
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "22 U.S.C. § 9403"
-generated_at: "2026-03-29T21:41:23.224Z"
+generated_at: "2026-03-29T21:45:10.037Z"
 ---
 
 # § 9403. Imposition of additional sanctions in response to Iran’s ballistic missile program

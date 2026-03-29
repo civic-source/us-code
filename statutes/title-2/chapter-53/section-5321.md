@@ -3,9 +3,9 @@ title: "Section 5321 - Employees of Members of House of Representatives"
 usc_title: 2
 usc_section: "5321"
 chapter: 53
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "2 U.S.C. § 5321"
-generated_at: "2026-03-29T21:39:57.101Z"
+generated_at: "2026-03-29T21:43:54.092Z"
 ---
 
 # § 5321. Employees of Members of House of Representatives

@@ -3,9 +3,9 @@ title: "Section 3349 - Violations in obtaining and performing appraisals in fede
 usc_title: 12
 usc_section: "3349"
 chapter: 34
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "12 U.S.C. § 3349"
-generated_at: "2026-03-29T21:40:42.670Z"
+generated_at: "2026-03-29T21:44:35.851Z"
 ---
 
 # § 3349. Violations in obtaining and performing appraisals in federally related transactions

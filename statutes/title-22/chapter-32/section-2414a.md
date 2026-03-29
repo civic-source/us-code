@@ -3,9 +3,9 @@ title: "Section 2414a - Annual report to Congress on voting practices at United 
 usc_title: 22
 usc_section: "2414a"
 chapter: 32
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "22 U.S.C. § 2414a"
-generated_at: "2026-03-29T21:41:23.059Z"
+generated_at: "2026-03-29T21:45:09.862Z"
 ---
 
 # § 2414a. Annual report to Congress on voting practices at United Nations

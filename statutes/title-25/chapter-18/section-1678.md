@@ -3,9 +3,9 @@ title: "Section 1678 - Arizona as contract health service delivery area"
 usc_title: 25
 usc_section: "1678"
 chapter: 18
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "25 U.S.C. § 1678"
-generated_at: "2026-03-29T21:41:18.934Z"
+generated_at: "2026-03-29T21:45:03.768Z"
 ---
 
 # § 1678. Arizona as contract health service delivery area

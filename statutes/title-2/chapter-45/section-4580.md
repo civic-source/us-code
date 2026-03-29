@@ -3,9 +3,9 @@ title: "Section 4580 - Lump sum payment for accrued annual leave of Senate emplo
 usc_title: 2
 usc_section: "4580"
 chapter: 45
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "2 U.S.C. § 4580"
-generated_at: "2026-03-29T21:39:57.098Z"
+generated_at: "2026-03-29T21:43:54.089Z"
 ---
 
 # § 4580. Lump sum payment for accrued annual leave of Senate employees

@@ -3,9 +3,9 @@ title: "Section 46 - Omitted"
 usc_title: 2
 usc_section: "46"
 chapter: 3
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "2 U.S.C. § 46"
-generated_at: "2026-03-29T21:39:57.018Z"
+generated_at: "2026-03-29T21:43:54.005Z"
 ---
 
 # §§ 44 to 46. Omitted

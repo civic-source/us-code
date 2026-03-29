@@ -3,9 +3,9 @@ title: "Section 833b - Definitions"
 usc_title: 16
 usc_section: "833b"
 chapter: 12
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "16 U.S.C. § 833b"
-generated_at: "2026-03-29T21:41:10.722Z"
+generated_at: "2026-03-29T21:44:52.990Z"
 ---
 
 # § 833b. Definitions

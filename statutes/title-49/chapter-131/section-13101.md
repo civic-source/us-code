@@ -3,9 +3,9 @@ title: "Section 13101 - Transportation policy"
 usc_title: 49
 usc_section: "13101"
 chapter: 131
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "49 U.S.C. § 13101"
-generated_at: "2026-03-29T21:43:24.210Z"
+generated_at: "2026-03-29T21:46:36.067Z"
 ---
 
 # § 13101. Transportation policy

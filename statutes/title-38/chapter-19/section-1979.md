@@ -3,9 +3,9 @@ title: "Section 1979 - Incontestability"
 usc_title: 38
 usc_section: "1979"
 chapter: 19
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "38 U.S.C. § 1979"
-generated_at: "2026-03-29T21:42:22.325Z"
+generated_at: "2026-03-29T21:45:43.219Z"
 ---
 
 # § 1979. Incontestability

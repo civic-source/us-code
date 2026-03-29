@@ -3,9 +3,9 @@ title: "Section 1360 - Investigation before trade negotiations"
 usc_title: 19
 usc_section: "1360"
 chapter: 4
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "19 U.S.C. § 1360"
-generated_at: "2026-03-29T21:40:48.219Z"
+generated_at: "2026-03-29T21:44:47.721Z"
 ---
 
 # § 1360. Investigation before trade negotiations

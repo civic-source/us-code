@@ -3,9 +3,9 @@ title: "Section 25 - Grassland conservation initiative"
 usc_title: 16
 usc_section: "25"
 chapter: 58
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "16 U.S.C. § 25"
-generated_at: "2026-03-29T21:41:10.848Z"
+generated_at: "2026-03-29T21:44:53.121Z"
 ---
 
 # § 3839aa–25. Grassland conservation initiative

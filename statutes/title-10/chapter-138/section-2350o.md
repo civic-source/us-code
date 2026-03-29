@@ -3,9 +3,9 @@ title: "Section 2350o - Participation in programs relating to coordination or ex
 usc_title: 10
 usc_section: "2350o"
 chapter: 138
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 2350o"
-generated_at: "2026-03-29T21:40:11.174Z"
+generated_at: "2026-03-29T21:44:27.159Z"
 ---
 
 # § 2350o. Participation in programs relating to coordination or exchange of air refueling and air transportation services

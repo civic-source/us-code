@@ -3,9 +3,9 @@ title: "Section 8750 - Special agents of the Naval Criminal Investigative Servic
 usc_title: 10
 usc_section: "8750"
 chapter: 871
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 8750"
-generated_at: "2026-03-29T21:40:11.312Z"
+generated_at: "2026-03-29T21:44:27.276Z"
 ---
 
 # § 8750. Special agents of the Naval Criminal Investigative Service: authority to execute warrants and make arrests

@@ -3,9 +3,9 @@ title: "Section 2021e - Limited availability of certain regional disposal facili
 usc_title: 42
 usc_section: "2021e"
 chapter: 23
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "42 U.S.C. § 2021e"
-generated_at: "2026-03-29T21:43:05.514Z"
+generated_at: "2026-03-29T21:46:25.380Z"
 ---
 
 # § 2021e. Limited availability of certain regional disposal facilities during transition and licensing periods

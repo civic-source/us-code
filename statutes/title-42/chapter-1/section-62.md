@@ -3,9 +3,9 @@ title: "Section 62 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641"
 usc_title: 42
 usc_section: "62"
 chapter: 1
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "42 U.S.C. § 62"
-generated_at: "2026-03-29T21:43:04.752Z"
+generated_at: "2026-03-29T21:46:24.638Z"
 ---
 
 # § 62. Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641

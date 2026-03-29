@@ -3,9 +3,9 @@ title: "Section 460i - Delegation of powers; regulations"
 usc_title: 16
 usc_section: "460i"
 chapter: 1
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "16 U.S.C. § 460i"
-generated_at: "2026-03-29T21:41:10.550Z"
+generated_at: "2026-03-29T21:44:52.843Z"
 ---
 
 # § 460i. Delegation of powers; regulations

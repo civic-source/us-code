@@ -3,9 +3,9 @@ title: "Section 30108 - Advisory opinions"
 usc_title: 52
 usc_section: "30108"
 chapter: 301
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "52 U.S.C. § 30108"
-generated_at: "2026-03-29T21:43:27.188Z"
+generated_at: "2026-03-29T21:46:43.843Z"
 ---
 
 # § 30108. Advisory opinions

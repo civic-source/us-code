@@ -3,9 +3,9 @@ title: "Section 5366 - Supervision"
 usc_title: 26
 usc_section: "5366"
 chapter: 51
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "26 U.S.C. § 5366"
-generated_at: "2026-03-29T21:41:39.250Z"
+generated_at: "2026-03-29T21:45:26.417Z"
 ---
 
 # § 5366. Supervision

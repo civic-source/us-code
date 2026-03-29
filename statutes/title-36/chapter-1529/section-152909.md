@@ -3,9 +3,9 @@ title: "Section 152909 - Duty to maintain corporate and tax-exempt status"
 usc_title: 36
 usc_section: "152909"
 chapter: 1529
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "36 U.S.C. § 152909"
-generated_at: "2026-03-29T21:42:18.206Z"
+generated_at: "2026-03-29T21:45:39.785Z"
 ---
 
 # § 152909. Duty to maintain corporate and tax-exempt status

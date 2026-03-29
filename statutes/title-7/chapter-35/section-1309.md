@@ -3,9 +3,9 @@ title: "Section 1309 - Normally planted acreage and target prices"
 usc_title: 7
 usc_section: "1309"
 chapter: 35
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "7 U.S.C. § 1309"
-generated_at: "2026-03-29T21:40:15.776Z"
+generated_at: "2026-03-29T21:44:07.473Z"
 ---
 
 # § 1309. Normally planted acreage and target prices

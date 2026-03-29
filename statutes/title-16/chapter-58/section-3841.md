@@ -3,9 +3,9 @@ title: "Section 3841 - Commodity Credit Corporation"
 usc_title: 16
 usc_section: "3841"
 chapter: 58
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "16 U.S.C. § 3841"
-generated_at: "2026-03-29T21:41:10.850Z"
+generated_at: "2026-03-29T21:44:53.122Z"
 ---
 
 # § 3841. Commodity Credit Corporation

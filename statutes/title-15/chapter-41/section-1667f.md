@@ -3,9 +3,9 @@ title: "Section 1667f - Regulations"
 usc_title: 15
 usc_section: "1667f"
 chapter: 41
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "15 U.S.C. § 1667f"
-generated_at: "2026-03-29T21:40:27.636Z"
+generated_at: "2026-03-29T21:44:40.057Z"
 ---
 
 # § 1667f. Regulations

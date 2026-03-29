@@ -3,9 +3,9 @@ title: "Section 3272 - Cooperative assistance to State and other public agencies
 usc_title: 42
 usc_section: "3272"
 chapter: 40
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "42 U.S.C. § 3272"
-generated_at: "2026-03-29T21:43:05.580Z"
+generated_at: "2026-03-29T21:46:25.445Z"
 ---
 
 # § 3272. Cooperative assistance to State and other public agencies; types of assistance; private engineering services

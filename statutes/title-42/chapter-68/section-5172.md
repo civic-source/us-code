@@ -3,9 +3,9 @@ title: "Section 5172 - Repair, restoration, and replacement of damaged facilitie
 usc_title: 42
 usc_section: "5172"
 chapter: 68
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "42 U.S.C. § 5172"
-generated_at: "2026-03-29T21:43:05.641Z"
+generated_at: "2026-03-29T21:46:25.515Z"
 ---
 
 # § 5172. Repair, restoration, and replacement of damaged facilities

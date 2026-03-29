@@ -3,9 +3,9 @@ title: "Section 2718 - Fees received for use of Blair House"
 usc_title: 22
 usc_section: "2718"
 chapter: 38
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "22 U.S.C. § 2718"
-generated_at: "2026-03-29T21:41:23.083Z"
+generated_at: "2026-03-29T21:45:09.887Z"
 ---
 
 # § 2718. Fees received for use of Blair House

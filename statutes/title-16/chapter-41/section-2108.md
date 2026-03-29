@@ -3,9 +3,9 @@ title: "Section 2108 - Consolidation of payments"
 usc_title: 16
 usc_section: "2108"
 chapter: 41
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "16 U.S.C. § 2108"
-generated_at: "2026-03-29T21:41:10.810Z"
+generated_at: "2026-03-29T21:44:53.082Z"
 ---
 
 # § 2108. Consolidation of payments

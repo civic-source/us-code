@@ -3,9 +3,9 @@ title: "Section 2541c - Transferability, additional limitations, and definition"
 usc_title: 10
 usc_section: "2541c"
 chapter: 148
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 2541c"
-generated_at: "2026-03-29T21:40:11.203Z"
+generated_at: "2026-03-29T21:44:27.184Z"
 ---
 
 # § 2541c. Transferability, additional limitations, and definition

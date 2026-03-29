@@ -3,9 +3,9 @@ title: "Section 1761d - Supervisory committee; powers and duties; suspension of 
 usc_title: 12
 usc_section: "1761d"
 chapter: 14
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "12 U.S.C. § 1761d"
-generated_at: "2026-03-29T21:40:42.572Z"
+generated_at: "2026-03-29T21:44:35.750Z"
 ---
 
 # § 1761d. Supervisory committee; powers and duties; suspension of members; passbook

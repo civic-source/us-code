@@ -3,9 +3,9 @@ title: "Section 3519 - Access to information"
 usc_title: 44
 usc_section: "3519"
 chapter: 35
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "44 U.S.C. § 3519"
-generated_at: "2026-03-29T21:42:36.445Z"
+generated_at: "2026-03-29T21:45:45.860Z"
 ---
 
 # § 3519. Access to information

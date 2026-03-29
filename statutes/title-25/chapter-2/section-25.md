@@ -3,9 +3,9 @@ title: "Section 25 - Superintendent for Five Civilized Tribes"
 usc_title: 25
 usc_section: "25"
 chapter: 2
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "25 U.S.C. § 25"
-generated_at: "2026-03-29T21:41:18.884Z"
+generated_at: "2026-03-29T21:45:03.713Z"
 ---
 
 # § 25. Superintendent for Five Civilized Tribes

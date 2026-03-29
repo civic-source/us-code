@@ -3,9 +3,9 @@ title: "Section 1542 - Agency cooperation; private contracts for management serv
 usc_title: 25
 usc_section: "1542"
 chapter: 17
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "25 U.S.C. § 1542"
-generated_at: "2026-03-29T21:41:18.916Z"
+generated_at: "2026-03-29T21:45:03.749Z"
 ---
 
 # § 1542. Agency cooperation; private contracts for management services and technical assistance

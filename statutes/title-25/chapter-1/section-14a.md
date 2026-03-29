@@ -3,9 +3,9 @@ title: "Section 14a - Deposit of grant funds received by Bureau from other Feder
 usc_title: 25
 usc_section: "14a"
 chapter: 1
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "25 U.S.C. § 14a"
-generated_at: "2026-03-29T21:41:18.883Z"
+generated_at: "2026-03-29T21:45:03.713Z"
 ---
 
 # § 14a. Deposit of grant funds received by Bureau from other Federal agencies

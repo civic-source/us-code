@@ -3,9 +3,9 @@ title: "Section 285gg - Eleventh replenishment"
 usc_title: 22
 usc_section: "285gg"
 chapter: 7
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "22 U.S.C. § 285gg"
-generated_at: "2026-03-29T21:41:22.979Z"
+generated_at: "2026-03-29T21:45:09.781Z"
 ---
 
 # § 285gg. Eleventh replenishment

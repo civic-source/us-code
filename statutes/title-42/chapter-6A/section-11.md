@@ -3,9 +3,9 @@ title: "Section 11 - Office of the National Coordinator for Health Information T
 usc_title: 42
 usc_section: "11"
 chapter: 6
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-29T21:43:05.022Z"
+generated_at: "2026-03-29T21:46:24.894Z"
 ---
 
 # § 300jj–11. Office of the National Coordinator for Health Information Technology

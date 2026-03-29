@@ -3,9 +3,9 @@ title: "Section 13389 - Greenhouse gas intensity reducing strategies"
 usc_title: 42
 usc_section: "13389"
 chapter: 134
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "42 U.S.C. § 13389"
-generated_at: "2026-03-29T21:43:06.011Z"
+generated_at: "2026-03-29T21:46:25.955Z"
 ---
 
 # § 13389. Greenhouse gas intensity reducing strategies

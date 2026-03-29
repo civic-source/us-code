@@ -3,9 +3,9 @@ title: "Section 11116 - Coordinating Council on Juvenile Justice and Delinquency
 usc_title: 34
 usc_section: "11116"
 chapter: 111
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "34 U.S.C. § 11116"
-generated_at: "2026-03-29T21:41:48.704Z"
+generated_at: "2026-03-29T21:45:35.201Z"
 ---
 
 # § 11116. Coordinating Council on Juvenile Justice and Delinquency Prevention

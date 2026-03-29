@@ -3,9 +3,9 @@ title: "Section 898 - Taxable year of certain foreign corporations"
 usc_title: 26
 usc_section: "898"
 chapter: 1
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "26 U.S.C. § 898"
-generated_at: "2026-03-29T21:41:39.116Z"
+generated_at: "2026-03-29T21:45:26.280Z"
 ---
 
 # § 898. Taxable year of certain foreign corporations

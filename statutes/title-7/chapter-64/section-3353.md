@@ -3,9 +3,9 @@ title: "Section 3353 - Agricultural biosecurity"
 usc_title: 7
 usc_section: "3353"
 chapter: 64
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "7 U.S.C. § 3353"
-generated_at: "2026-03-29T21:40:15.924Z"
+generated_at: "2026-03-29T21:44:07.614Z"
 ---
 
 # § 3353. Agricultural biosecurity

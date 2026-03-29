@@ -3,9 +3,9 @@ title: "Section 2218 - Utilization of democratic institutions in development"
 usc_title: 22
 usc_section: "2218"
 chapter: 32
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "22 U.S.C. § 2218"
-generated_at: "2026-03-29T21:41:23.035Z"
+generated_at: "2026-03-29T21:45:09.838Z"
 ---
 
 # § 2218. Utilization of democratic institutions in development

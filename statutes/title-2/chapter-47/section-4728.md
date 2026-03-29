@@ -3,9 +3,9 @@ title: "Section 4728 - Notification of post-employment restrictions for Senators
 usc_title: 2
 usc_section: "4728"
 chapter: 47
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "2 U.S.C. § 4728"
-generated_at: "2026-03-29T21:39:57.099Z"
+generated_at: "2026-03-29T21:43:54.090Z"
 ---
 
 # § 4728. Notification of post-employment restrictions for Senators and employees

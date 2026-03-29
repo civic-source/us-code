@@ -3,9 +3,9 @@ title: "Section 6113 - Duties of the Superintendent of the Supreme Court Buildin
 usc_title: 40
 usc_section: "6113"
 chapter: 61
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "40 U.S.C. § 6113"
-generated_at: "2026-03-29T21:42:33.201Z"
+generated_at: "2026-03-29T21:45:38.511Z"
 ---
 
 # § 6113. Duties of the Superintendent of the Supreme Court Building

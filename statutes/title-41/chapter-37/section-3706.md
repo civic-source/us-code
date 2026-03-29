@@ -3,9 +3,9 @@ title: "Section 3706 - Encouragement of alternative dispute resolution"
 usc_title: 41
 usc_section: "3706"
 chapter: 37
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "41 U.S.C. § 3706"
-generated_at: "2026-03-29T21:42:36.019Z"
+generated_at: "2026-03-29T21:45:51.459Z"
 ---
 
 # § 3706. Encouragement of alternative dispute resolution

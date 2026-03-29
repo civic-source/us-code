@@ -3,9 +3,9 @@ title: "Section 723 - Memorial addresses: preparation; distribution"
 usc_title: 44
 usc_section: "723"
 chapter: 7
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "44 U.S.C. § 723"
-generated_at: "2026-03-29T21:42:36.430Z"
+generated_at: "2026-03-29T21:45:45.844Z"
 ---
 
 # § 723. Memorial addresses: preparation; distribution

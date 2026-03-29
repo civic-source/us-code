@@ -3,9 +3,9 @@ title: "Section 409 - Discovery and admission as evidence of certain reports and
 usc_title: 23
 usc_section: "409"
 chapter: 4
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "23 U.S.C. § 409"
-generated_at: "2026-03-29T21:41:14.768Z"
+generated_at: "2026-03-29T21:45:01.968Z"
 ---
 
 # § 409. Discovery and admission as evidence of certain reports and surveys

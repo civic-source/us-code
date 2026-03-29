@@ -3,9 +3,9 @@ title: "Section 1110 - Appropriations"
 usc_title: 2
 usc_section: "1110"
 chapter: 22
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "2 U.S.C. § 1110"
-generated_at: "2026-03-29T21:39:57.059Z"
+generated_at: "2026-03-29T21:43:54.048Z"
 ---
 
 # § 1110. Appropriations

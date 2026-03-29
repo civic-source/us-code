@@ -3,9 +3,9 @@ title: "Section 142h - Biomedical Ethics Board; disbursement of funds, computati
 usc_title: 2
 usc_section: "142h"
 chapter: 5
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "2 U.S.C. § 142h"
-generated_at: "2026-03-29T21:39:57.024Z"
+generated_at: "2026-03-29T21:43:54.011Z"
 ---
 
 # § 142h. Biomedical Ethics Board; disbursement of funds, computation and disbursement of basic pay, and provision of financial management services and support by Library of Congress

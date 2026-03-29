@@ -3,9 +3,9 @@ title: "Section 42301 - Definitions"
 usc_title: 46
 usc_section: "42301"
 chapter: 423
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "46 U.S.C. § 42301"
-generated_at: "2026-03-29T21:43:12.842Z"
+generated_at: "2026-03-29T21:46:31.903Z"
 ---
 
 # § 42301. Definitions

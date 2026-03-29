@@ -3,9 +3,9 @@ title: "Section 936d - Eligibility of distribution borrowers for loans, loan gua
 usc_title: 7
 usc_section: "936d"
 chapter: 31
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "7 U.S.C. § 936d"
-generated_at: "2026-03-29T21:40:15.767Z"
+generated_at: "2026-03-29T21:44:07.464Z"
 ---
 
 # § 936d. Eligibility of distribution borrowers for loans, loan guarantees, and lien accommodations

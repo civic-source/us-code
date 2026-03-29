@@ -3,9 +3,9 @@ title: "Section 3303 - Exclusion of particular source or restriction of solicita
 usc_title: 41
 usc_section: "3303"
 chapter: 33
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "41 U.S.C. § 3303"
-generated_at: "2026-03-29T21:42:36.016Z"
+generated_at: "2026-03-29T21:45:51.456Z"
 ---
 
 # § 3303. Exclusion of particular source or restriction of solicitation to small business concerns

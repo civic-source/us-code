@@ -3,9 +3,9 @@ title: "Section 2307 - Comptroller General’s access to information"
 usc_title: 41
 usc_section: "2307"
 chapter: 23
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "41 U.S.C. § 2307"
-generated_at: "2026-03-29T21:42:36.014Z"
+generated_at: "2026-03-29T21:45:51.455Z"
 ---
 
 # § 2307. Comptroller General’s access to information

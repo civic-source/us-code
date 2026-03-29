@@ -3,9 +3,9 @@ title: "Section 7 - Physicians services"
 usc_title: 42
 usc_section: "7"
 chapter: 84
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-29T21:43:05.746Z"
+generated_at: "2026-03-29T21:46:25.652Z"
 ---
 
 # § 7385s–7. Physicians services

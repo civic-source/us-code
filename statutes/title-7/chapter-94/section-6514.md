@@ -3,9 +3,9 @@ title: "Section 6514 - Accreditation program"
 usc_title: 7
 usc_section: "6514"
 chapter: 94
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "7 U.S.C. § 6514"
-generated_at: "2026-03-29T21:40:15.966Z"
+generated_at: "2026-03-29T21:44:07.654Z"
 ---
 
 # § 6514. Accreditation program

@@ -3,9 +3,9 @@ title: "Section 1332 - Definitions"
 usc_title: 16
 usc_section: "1332"
 chapter: 30
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "16 U.S.C. § 1332"
-generated_at: "2026-03-29T21:41:10.758Z"
+generated_at: "2026-03-29T21:44:53.031Z"
 ---
 
 # § 1332. Definitions

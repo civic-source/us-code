@@ -3,9 +3,9 @@ title: "Section 3490 - Potential financial interests or impaired objectivity of 
 usc_title: 20
 usc_section: "3490"
 chapter: 48
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "20 U.S.C. § 3490"
-generated_at: "2026-03-29T21:40:52.085Z"
+generated_at: "2026-03-29T21:44:58.039Z"
 ---
 
 # § 3490. Potential financial interests or impaired objectivity of covered individuals or entities

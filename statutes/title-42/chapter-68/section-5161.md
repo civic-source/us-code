@@ -3,9 +3,9 @@ title: "Section 5161 - Audits and investigations"
 usc_title: 42
 usc_section: "5161"
 chapter: 68
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "42 U.S.C. § 5161"
-generated_at: "2026-03-29T21:43:05.638Z"
+generated_at: "2026-03-29T21:46:25.512Z"
 ---
 
 # § 5161. Audits and investigations

@@ -3,9 +3,9 @@ title: "Section 9591 - Utilities: proceeds from overseas operations"
 usc_title: 10
 usc_section: "9591"
 chapter: 967
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 9591"
-generated_at: "2026-03-29T21:40:11.328Z"
+generated_at: "2026-03-29T21:44:27.290Z"
 ---
 
 # § 9591. Utilities: proceeds from overseas operations

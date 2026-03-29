@@ -3,9 +3,9 @@ title: "Section 1522 - Establishment of program"
 usc_title: 30
 usc_section: "1522"
 chapter: 27
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "30 U.S.C. § 1522"
-generated_at: "2026-03-29T21:41:29.375Z"
+generated_at: "2026-03-29T21:45:13.650Z"
 ---
 
 # § 1522. Establishment of program

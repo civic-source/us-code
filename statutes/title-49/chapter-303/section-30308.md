@@ -3,9 +3,9 @@ title: "Section 30308 - Authorization of appropriations"
 usc_title: 49
 usc_section: "30308"
 chapter: 303
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "49 U.S.C. § 30308"
-generated_at: "2026-03-29T21:43:24.253Z"
+generated_at: "2026-03-29T21:46:36.109Z"
 ---
 
 # § 30308. Authorization of appropriations

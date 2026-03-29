@@ -3,9 +3,9 @@ title: "Section 804 - Administration"
 usc_title: 2
 usc_section: "804"
 chapter: 19
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "2 U.S.C. § 804"
-generated_at: "2026-03-29T21:39:57.051Z"
+generated_at: "2026-03-29T21:43:54.039Z"
 ---
 
 # § 804. Administration

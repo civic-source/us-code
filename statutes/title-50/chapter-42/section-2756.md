@@ -3,9 +3,9 @@ title: "Section 2756 - Unfunded priorities of the Administration"
 usc_title: 50
 usc_section: "2756"
 chapter: 42
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "50 U.S.C. § 2756"
-generated_at: "2026-03-29T21:43:17.340Z"
+generated_at: "2026-03-29T21:46:39.452Z"
 ---
 
 # § 2756. Unfunded priorities of the Administration

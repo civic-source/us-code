@@ -3,9 +3,9 @@ title: "Section 4903 - Authorization of personnel end strengths"
 usc_title: 14
 usc_section: "4903"
 chapter: 49
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "14 U.S.C. § 4903"
-generated_at: "2026-03-29T21:40:20.500Z"
+generated_at: "2026-03-29T21:44:30.563Z"
 ---
 
 # § 4903. Authorization of personnel end strengths

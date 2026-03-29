@@ -3,9 +3,9 @@ title: "Section 2709 - Special agents"
 usc_title: 22
 usc_section: "2709"
 chapter: 38
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "22 U.S.C. § 2709"
-generated_at: "2026-03-29T21:41:23.081Z"
+generated_at: "2026-03-29T21:45:09.885Z"
 ---
 
 # § 2709. Special agents

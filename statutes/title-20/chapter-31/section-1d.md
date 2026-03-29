@@ -3,9 +3,9 @@ title: "Section 1d - Use of Council staff and facilities"
 usc_title: 20
 usc_section: "1d"
 chapter: 31
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "20 U.S.C. § 1d"
-generated_at: "2026-03-29T21:40:52.039Z"
+generated_at: "2026-03-29T21:44:57.997Z"
 ---
 
 # § 1221e–1d. Use of Council staff and facilities

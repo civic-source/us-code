@@ -3,9 +3,9 @@ title: "Section 1722 - Departmental distribution of publications"
 usc_title: 44
 usc_section: "1722"
 chapter: 17
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "44 U.S.C. § 1722"
-generated_at: "2026-03-29T21:42:36.435Z"
+generated_at: "2026-03-29T21:45:45.849Z"
 ---
 
 # § 1722. Departmental distribution of publications

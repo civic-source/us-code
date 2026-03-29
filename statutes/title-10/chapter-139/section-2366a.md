@@ -3,9 +3,9 @@ title: "Section 2366a - Major defense acquisition programs: determination requir
 usc_title: 10
 usc_section: "2366a"
 chapter: 139
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 2366a"
-generated_at: "2026-03-29T21:40:11.178Z"
+generated_at: "2026-03-29T21:44:27.163Z"
 ---
 
 # § 2366a. Major defense acquisition programs: determination required before Milestone A approval

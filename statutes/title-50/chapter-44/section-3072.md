@@ -3,9 +3,9 @@ title: "Section 3072 - Authority of Federal Bureau of Investigation to award per
 usc_title: 50
 usc_section: "3072"
 chapter: 44
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "50 U.S.C. § 3072"
-generated_at: "2026-03-29T21:43:17.355Z"
+generated_at: "2026-03-29T21:46:39.472Z"
 ---
 
 # § 3072. Authority of Federal Bureau of Investigation to award personal services contracts

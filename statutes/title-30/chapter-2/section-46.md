@@ -3,9 +3,9 @@ title: "Section 46 - Additional land districts and officers"
 usc_title: 30
 usc_section: "46"
 chapter: 2
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "30 U.S.C. § 46"
-generated_at: "2026-03-29T21:41:29.317Z"
+generated_at: "2026-03-29T21:45:13.590Z"
 ---
 
 # § 46. Additional land districts and officers

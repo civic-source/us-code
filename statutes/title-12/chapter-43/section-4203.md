@@ -3,9 +3,9 @@ title: "Section 4203 - Confidentiality of declarations"
 usc_title: 12
 usc_section: "4203"
 chapter: 43
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "12 U.S.C. § 4203"
-generated_at: "2026-03-29T21:40:42.685Z"
+generated_at: "2026-03-29T21:44:35.868Z"
 ---
 
 # § 4203. Confidentiality of declarations

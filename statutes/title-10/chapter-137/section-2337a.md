@@ -3,9 +3,9 @@ title: "Section 2337a - Assessment, management, and control of operating and sup
 usc_title: 10
 usc_section: "2337a"
 chapter: 137
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 2337a"
-generated_at: "2026-03-29T21:40:11.170Z"
+generated_at: "2026-03-29T21:44:27.156Z"
 ---
 
 # § 2337a. Assessment, management, and control of operating and support costs for major weapon systems

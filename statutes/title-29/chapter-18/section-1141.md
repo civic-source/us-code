@@ -3,9 +3,9 @@ title: "Section 1141 - Coercive interference"
 usc_title: 29
 usc_section: "1141"
 chapter: 18
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "29 U.S.C. § 1141"
-generated_at: "2026-03-29T21:41:28.245Z"
+generated_at: "2026-03-29T21:45:16.958Z"
 ---
 
 # § 1141. Coercive interference

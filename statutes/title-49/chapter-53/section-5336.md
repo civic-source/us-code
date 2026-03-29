@@ -3,9 +3,9 @@ title: "Section 5336 - Apportionment of appropriations for formula grants"
 usc_title: 49
 usc_section: "5336"
 chapter: 53
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "49 U.S.C. § 5336"
-generated_at: "2026-03-29T21:43:24.197Z"
+generated_at: "2026-03-29T21:46:36.055Z"
 ---
 
 # § 5336. Apportionment of appropriations for formula grants

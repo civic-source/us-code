@@ -3,9 +3,9 @@ title: "Section 8205 - Fish habitat conservation projects"
 usc_title: 16
 usc_section: "8205"
 chapter: 101
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "16 U.S.C. § 8205"
-generated_at: "2026-03-29T21:41:10.904Z"
+generated_at: "2026-03-29T21:44:53.180Z"
 ---
 
 # § 8205. Fish habitat conservation projects

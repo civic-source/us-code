@@ -3,9 +3,9 @@ title: "Section 36c - Acceptance of contributions from public and private source
 usc_title: 43
 usc_section: "36c"
 chapter: 2
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "43 U.S.C. § 36c"
-generated_at: "2026-03-29T21:42:38.061Z"
+generated_at: "2026-03-29T21:45:48.098Z"
 ---
 
 # § 36c. Acceptance of contributions from public and private sources; cooperation with other agencies in prosecution of projects

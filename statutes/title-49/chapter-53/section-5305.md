@@ -3,9 +3,9 @@ title: "Section 5305 - Planning programs"
 usc_title: 49
 usc_section: "5305"
 chapter: 53
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "49 U.S.C. § 5305"
-generated_at: "2026-03-29T21:43:24.188Z"
+generated_at: "2026-03-29T21:46:36.045Z"
 ---
 
 # § 5305. Planning programs

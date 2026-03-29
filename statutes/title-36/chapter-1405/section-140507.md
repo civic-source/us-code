@@ -3,9 +3,9 @@ title: "Section 140507 - Principal office"
 usc_title: 36
 usc_section: "140507"
 chapter: 1405
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "36 U.S.C. § 140507"
-generated_at: "2026-03-29T21:42:18.200Z"
+generated_at: "2026-03-29T21:45:39.779Z"
 ---
 
 # § 140507. Principal office

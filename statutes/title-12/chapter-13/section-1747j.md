@@ -3,9 +3,9 @@ title: "Section 1747j - Taxation of real property"
 usc_title: 12
 usc_section: "1747j"
 chapter: 13
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "12 U.S.C. § 1747j"
-generated_at: "2026-03-29T21:40:42.567Z"
+generated_at: "2026-03-29T21:44:35.744Z"
 ---
 
 # § 1747j. Taxation of real property

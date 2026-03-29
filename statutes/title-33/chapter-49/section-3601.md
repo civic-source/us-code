@@ -3,9 +3,9 @@ title: "Section 3601 - Purposes"
 usc_title: 33
 usc_section: "3601"
 chapter: 49
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "33 U.S.C. § 3601"
-generated_at: "2026-03-29T21:42:01.950Z"
+generated_at: "2026-03-29T21:45:32.629Z"
 ---
 
 # § 3601. Purposes

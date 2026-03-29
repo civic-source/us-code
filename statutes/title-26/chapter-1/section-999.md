@@ -3,9 +3,9 @@ title: "Section 999 - Reports by taxpayers; determinations"
 usc_title: 26
 usc_section: "999"
 chapter: 1
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "26 U.S.C. § 999"
-generated_at: "2026-03-29T21:41:39.139Z"
+generated_at: "2026-03-29T21:45:26.299Z"
 ---
 
 # § 999. Reports by taxpayers; determinations

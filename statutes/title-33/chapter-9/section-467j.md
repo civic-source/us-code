@@ -3,9 +3,9 @@ title: "Section 467j - Authorization of appropriations"
 usc_title: 33
 usc_section: "467j"
 chapter: 9
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "33 U.S.C. § 467j"
-generated_at: "2026-03-29T21:42:01.814Z"
+generated_at: "2026-03-29T21:45:32.479Z"
 ---
 
 # § 467j. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 30112 - Prohibitions on manufacturing, selling, and importing no
 usc_title: 49
 usc_section: "30112"
 chapter: 301
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "49 U.S.C. § 30112"
-generated_at: "2026-03-29T21:43:24.244Z"
+generated_at: "2026-03-29T21:46:36.102Z"
 ---
 
 # § 30112. Prohibitions on manufacturing, selling, and importing noncomplying motor vehicles and equipment

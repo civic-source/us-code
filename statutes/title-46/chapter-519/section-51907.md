@@ -3,9 +3,9 @@ title: "Section 51907 - Provision of decorations, medals, and replacements"
 usc_title: 46
 usc_section: "51907"
 chapter: 519
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "46 U.S.C. § 51907"
-generated_at: "2026-03-29T21:43:12.854Z"
+generated_at: "2026-03-29T21:46:31.916Z"
 ---
 
 # § 51907. Provision of decorations, medals, and replacements

@@ -3,9 +3,9 @@ title: "Section 593 - Reserves for losses on loans"
 usc_title: 26
 usc_section: "593"
 chapter: 1
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "26 U.S.C. § 593"
-generated_at: "2026-03-29T21:41:39.065Z"
+generated_at: "2026-03-29T21:45:26.242Z"
 ---
 
 # § 593. Reserves for losses on loans

@@ -3,9 +3,9 @@ title: "Section 2624 - Suspension or termination of plans"
 usc_title: 7
 usc_section: "2624"
 chapter: 58
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "7 U.S.C. § 2624"
-generated_at: "2026-03-29T21:40:15.905Z"
+generated_at: "2026-03-29T21:44:07.594Z"
 ---
 
 # § 2624. Suspension or termination of plans

@@ -3,9 +3,9 @@ title: "Section 2439 - Negotiation of price for technical data before developmen
 usc_title: 10
 usc_section: "2439"
 chapter: 144
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 2439"
-generated_at: "2026-03-29T21:40:11.191Z"
+generated_at: "2026-03-29T21:44:27.173Z"
 ---
 
 # § 2439. Negotiation of price for technical data before development, production, or sustainment of major weapon systems

@@ -3,9 +3,9 @@ title: "Section 6432 - Allocation of funds"
 usc_title: 20
 usc_section: "6432"
 chapter: 70
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "20 U.S.C. § 6432"
-generated_at: "2026-03-29T21:40:52.128Z"
+generated_at: "2026-03-29T21:44:58.073Z"
 ---
 
 # § 6432. Allocation of funds

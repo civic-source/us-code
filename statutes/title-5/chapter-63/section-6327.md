@@ -3,9 +3,9 @@ title: "Section 6327 - Absence in connection with serving as a bone-marrow or or
 usc_title: 5
 usc_section: "6327"
 chapter: 63
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "5 U.S.C. § 6327"
-generated_at: "2026-03-29T21:39:48.524Z"
+generated_at: "2026-03-29T21:43:57.099Z"
 ---
 
 # § 6327. Absence in connection with serving as a bone-marrow or organ donor

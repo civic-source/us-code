@@ -3,9 +3,9 @@ title: "Section 347a - Advances to member bank groups; inadequate amounts of eli
 usc_title: 12
 usc_section: "347a"
 chapter: 3
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "12 U.S.C. § 347a"
-generated_at: "2026-03-29T21:40:42.472Z"
+generated_at: "2026-03-29T21:44:35.651Z"
 ---
 
 # § 347a. Advances to member bank groups; inadequate amounts of eligible and acceptable assets; liability of individual banks in group; distribution of loans among banks of group; rate of interest; notes accepted for advances as collateral security for Federal reserve notes; foreign obligations as security for advances

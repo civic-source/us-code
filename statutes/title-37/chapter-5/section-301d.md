@@ -3,9 +3,9 @@ title: "Section 301d - Multiyear retention bonus: medical officers of the armed 
 usc_title: 37
 usc_section: "301d"
 chapter: 5
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "37 U.S.C. § 301d"
-generated_at: "2026-03-29T21:42:25.179Z"
+generated_at: "2026-03-29T21:45:40.501Z"
 ---
 
 # § 301d. Multiyear retention bonus: medical officers of the armed forces

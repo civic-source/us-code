@@ -3,9 +3,9 @@ title: "Section 3059 - Foreign Malign Influence Response Center"
 usc_title: 50
 usc_section: "3059"
 chapter: 44
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "50 U.S.C. § 3059"
-generated_at: "2026-03-29T21:43:17.355Z"
+generated_at: "2026-03-29T21:46:39.470Z"
 ---
 
 # § 3059. Foreign Malign Influence Response Center

@@ -3,9 +3,9 @@ title: "Section 118a - Quadrennial quality of life review"
 usc_title: 10
 usc_section: "118a"
 chapter: 2
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 118a"
-generated_at: "2026-03-29T21:40:11.004Z"
+generated_at: "2026-03-29T21:44:26.998Z"
 ---
 
 # § 118a. 1 1 Another section 118a is set out preceding this section. Quadrennial quality of life review

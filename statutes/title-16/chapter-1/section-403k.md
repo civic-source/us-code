@@ -3,9 +3,9 @@ title: "Section 403k - Boundary between Great Smoky Mountains National Park and 
 usc_title: 16
 usc_section: "403k"
 chapter: 1
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "16 U.S.C. § 403k"
-generated_at: "2026-03-29T21:41:10.477Z"
+generated_at: "2026-03-29T21:44:52.768Z"
 ---
 
 # § 403k. Boundary between Great Smoky Mountains National Park and Cherokee-Pisgah-Nantahala National Forests

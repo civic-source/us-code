@@ -3,9 +3,9 @@ title: "Section 4212 - Acceptance and use of donations"
 usc_title: 16
 usc_section: "4212"
 chapter: 62
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "16 U.S.C. § 4212"
-generated_at: "2026-03-29T21:41:10.861Z"
+generated_at: "2026-03-29T21:44:53.135Z"
 ---
 
 # § 4212. Acceptance and use of donations

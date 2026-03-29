@@ -3,9 +3,9 @@ title: "Section 4046 - Advisory board"
 usc_title: 25
 usc_section: "4046"
 chapter: 42
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "25 U.S.C. § 4046"
-generated_at: "2026-03-29T21:41:18.981Z"
+generated_at: "2026-03-29T21:45:03.820Z"
 ---
 
 # § 4046. Advisory board

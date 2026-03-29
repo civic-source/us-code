@@ -3,9 +3,9 @@ title: "Section 345 - Actions for allotments"
 usc_title: 25
 usc_section: "345"
 chapter: 9
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "25 U.S.C. § 345"
-generated_at: "2026-03-29T21:41:18.895Z"
+generated_at: "2026-03-29T21:45:03.727Z"
 ---
 
 # § 345. Actions for allotments

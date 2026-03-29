@@ -3,9 +3,9 @@ title: "Section 854 - Limitations applicable to dividends received from regulate
 usc_title: 26
 usc_section: "854"
 chapter: 1
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "26 U.S.C. § 854"
-generated_at: "2026-03-29T21:41:39.092Z"
+generated_at: "2026-03-29T21:45:26.264Z"
 ---
 
 # § 854. Limitations applicable to dividends received from regulated investment company

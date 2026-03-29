@@ -3,9 +3,9 @@ title: "Section 2319 - Encouragement of new competitors"
 usc_title: 10
 usc_section: "2319"
 chapter: 137
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 2319"
-generated_at: "2026-03-29T21:40:11.164Z"
+generated_at: "2026-03-29T21:44:27.152Z"
 ---
 
 # § 2319. Encouragement of new competitors

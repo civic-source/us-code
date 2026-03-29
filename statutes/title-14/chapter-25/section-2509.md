@@ -3,9 +3,9 @@ title: "Section 2509 - Prohibition of certain involuntary administrative separat
 usc_title: 14
 usc_section: "2509"
 chapter: 25
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "14 U.S.C. § 2509"
-generated_at: "2026-03-29T21:40:20.491Z"
+generated_at: "2026-03-29T21:44:30.556Z"
 ---
 
 # § 2509. Prohibition of certain involuntary administrative separations

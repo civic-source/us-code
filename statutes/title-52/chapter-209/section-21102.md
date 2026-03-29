@@ -3,9 +3,9 @@ title: "Section 21102 - Process for adoption"
 usc_title: 52
 usc_section: "21102"
 chapter: 209
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "52 U.S.C. § 21102"
-generated_at: "2026-03-29T21:43:27.183Z"
+generated_at: "2026-03-29T21:46:43.838Z"
 ---
 
 # § 21102. Process for adoption

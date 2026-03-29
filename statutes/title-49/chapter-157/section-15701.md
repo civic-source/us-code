@@ -3,9 +3,9 @@ title: "Section 15701 - Providing transportation and service"
 usc_title: 49
 usc_section: "15701"
 chapter: 157
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "49 U.S.C. § 15701"
-generated_at: "2026-03-29T21:43:24.222Z"
+generated_at: "2026-03-29T21:46:36.078Z"
 ---
 
 # § 15701. Providing transportation and service

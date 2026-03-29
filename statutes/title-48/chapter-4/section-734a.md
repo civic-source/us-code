@@ -3,9 +3,9 @@ title: "Section 734a - Extension of industrial alcohol and internal revenue laws
 usc_title: 48
 usc_section: "734a"
 chapter: 4
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "48 U.S.C. § 734a"
-generated_at: "2026-03-29T21:43:10.378Z"
+generated_at: "2026-03-29T21:46:30.134Z"
 ---
 
 # § 734a. Extension of industrial alcohol and internal revenue laws to Puerto Rico

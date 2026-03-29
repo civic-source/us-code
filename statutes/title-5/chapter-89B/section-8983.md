@@ -3,9 +3,9 @@ title: "Section 8983 - Contracting authority"
 usc_title: 5
 usc_section: "8983"
 chapter: 89
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "5 U.S.C. § 8983"
-generated_at: "2026-03-29T21:39:48.577Z"
+generated_at: "2026-03-29T21:43:57.149Z"
 ---
 
 # § 8983. Contracting authority

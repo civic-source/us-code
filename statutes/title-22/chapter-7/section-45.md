@@ -3,9 +3,9 @@ title: "Section 45 - New Treaty Minute"
 usc_title: 22
 usc_section: "45"
 chapter: 7
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "22 U.S.C. § 45"
-generated_at: "2026-03-29T21:41:22.971Z"
+generated_at: "2026-03-29T21:45:09.775Z"
 ---
 
 # § 277d–45. New Treaty Minute

@@ -3,9 +3,9 @@ title: "Section 3242 - Indians committing certain offenses; acts on reservations
 usc_title: 18
 usc_section: "3242"
 chapter: 211
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "18 U.S.C. § 3242"
-generated_at: "2026-03-29T21:40:58.391Z"
+generated_at: "2026-03-29T21:44:45.710Z"
 ---
 
 # § 3242. Indians committing certain offenses; acts on reservations

@@ -3,9 +3,9 @@ title: "Section 505 - Use of national forests established on land reserved for p
 usc_title: 16
 usc_section: "505"
 chapter: 2
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "16 U.S.C. § 505"
-generated_at: "2026-03-29T21:41:10.629Z"
+generated_at: "2026-03-29T21:44:52.903Z"
 ---
 
 # § 505. Use of national forests established on land reserved for purposes of national defense; maintenance available

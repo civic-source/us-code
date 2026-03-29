@@ -3,9 +3,9 @@ title: "Section 40741 - Definitions"
 usc_title: 34
 usc_section: "40741"
 chapter: 407
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "34 U.S.C. § 40741"
-generated_at: "2026-03-29T21:41:48.766Z"
+generated_at: "2026-03-29T21:45:35.264Z"
 ---
 
 # § 40741. Definitions

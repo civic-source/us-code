@@ -3,9 +3,9 @@ title: "Section 3304a - Competitive service; career appointment after 3 years’
 usc_title: 5
 usc_section: "3304a"
 chapter: 33
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "5 U.S.C. § 3304a"
-generated_at: "2026-03-29T21:39:48.486Z"
+generated_at: "2026-03-29T21:43:57.062Z"
 ---
 
 # § 3304a. Competitive service; career appointment after 3 years’ temporary service

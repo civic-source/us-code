@@ -3,9 +3,9 @@ title: "Section 27 - Execution of agreements"
 usc_title: 22
 usc_section: "27"
 chapter: 7
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "22 U.S.C. § 27"
-generated_at: "2026-03-29T21:41:22.969Z"
+generated_at: "2026-03-29T21:45:09.773Z"
 ---
 
 # § 277d–27. Execution of agreements

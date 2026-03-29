@@ -3,9 +3,9 @@ title: "Section 2451 - Bureau of Indian Affairs law enforcement and judicial tra
 usc_title: 25
 usc_section: "2451"
 chapter: 26
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "25 U.S.C. § 2451"
-generated_at: "2026-03-29T21:41:18.956Z"
+generated_at: "2026-03-29T21:45:03.793Z"
 ---
 
 # § 2451. Bureau of Indian Affairs law enforcement and judicial training

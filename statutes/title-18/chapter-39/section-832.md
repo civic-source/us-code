@@ -3,9 +3,9 @@ title: "Section 832 - Participation in nuclear and weapons of mass destruction t
 usc_title: 18
 usc_section: "832"
 chapter: 39
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "18 U.S.C. § 832"
-generated_at: "2026-03-29T21:40:58.305Z"
+generated_at: "2026-03-29T21:44:45.630Z"
 ---
 
 # § 832. Participation in nuclear and weapons of mass destruction threats to the United States

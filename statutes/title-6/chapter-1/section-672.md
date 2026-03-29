@@ -3,9 +3,9 @@ title: "Section 672 - Designation of critical infrastructure protection program"
 usc_title: 6
 usc_section: "672"
 chapter: 1
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "6 U.S.C. § 672"
-generated_at: "2026-03-29T21:40:00.990Z"
+generated_at: "2026-03-29T21:44:00.848Z"
 ---
 
 # § 672. Designation of critical infrastructure protection program

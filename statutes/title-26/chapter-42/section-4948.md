@@ -3,9 +3,9 @@ title: "Section 4948 - Application of taxes and denial of exemption with respect
 usc_title: 26
 usc_section: "4948"
 chapter: 42
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "26 U.S.C. § 4948"
-generated_at: "2026-03-29T21:41:39.229Z"
+generated_at: "2026-03-29T21:45:26.394Z"
 ---
 
 # § 4948. Application of taxes and denial of exemption with respect to certain foreign organizations

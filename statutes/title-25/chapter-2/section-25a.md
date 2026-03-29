@@ -3,9 +3,9 @@ title: "Section 25a - Application of civil service laws"
 usc_title: 25
 usc_section: "25a"
 chapter: 2
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "25 U.S.C. § 25a"
-generated_at: "2026-03-29T21:41:18.884Z"
+generated_at: "2026-03-29T21:45:03.713Z"
 ---
 
 # § 25a. Application of civil service laws

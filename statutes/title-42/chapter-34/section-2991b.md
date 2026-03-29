@@ -3,9 +3,9 @@ title: "Section 2991b - Financial assistance for Native American projects"
 usc_title: 42
 usc_section: "2991b"
 chapter: 34
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "42 U.S.C. § 2991b"
-generated_at: "2026-03-29T21:43:05.551Z"
+generated_at: "2026-03-29T21:46:25.415Z"
 ---
 
 # § 2991b. Financial assistance for Native American projects

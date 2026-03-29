@@ -3,9 +3,9 @@ title: "Section 6806 - Relation to other provisions"
 usc_title: 15
 usc_section: "6806"
 chapter: 94
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "15 U.S.C. § 6806"
-generated_at: "2026-03-29T21:40:27.764Z"
+generated_at: "2026-03-29T21:44:40.185Z"
 ---
 
 # § 6806. Relation to other provisions

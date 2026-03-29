@@ -3,9 +3,9 @@ title: "Section 3163 - Effect on other laws"
 usc_title: 16
 usc_section: "3163"
 chapter: 51
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "16 U.S.C. § 3163"
-generated_at: "2026-03-29T21:41:10.824Z"
+generated_at: "2026-03-29T21:44:53.096Z"
 ---
 
 # § 3163. Effect on other laws

@@ -3,9 +3,9 @@ title: "Section 925 - Effect of list of claims"
 usc_title: 11
 usc_section: "925"
 chapter: 9
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "11 U.S.C. § 925"
-generated_at: "2026-03-29T21:40:21.263Z"
+generated_at: "2026-03-29T21:44:31.240Z"
 ---
 
 # § 925. Effect of list of claims

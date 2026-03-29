@@ -3,9 +3,9 @@ title: "Section 1330 - Common law and other rights unaffected"
 usc_title: 17
 usc_section: "1330"
 chapter: 13
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "17 U.S.C. § 1330"
-generated_at: "2026-03-29T21:40:52.582Z"
+generated_at: "2026-03-29T21:44:42.930Z"
 ---
 
 # § 1330. Common law and other rights unaffected

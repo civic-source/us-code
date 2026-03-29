@@ -3,9 +3,9 @@ title: "Section 144 - Bias or prejudice of judge"
 usc_title: 28
 usc_section: "144"
 chapter: 5
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "28 U.S.C. § 144"
-generated_at: "2026-03-29T21:41:42.634Z"
+generated_at: "2026-03-29T21:45:14.987Z"
 ---
 
 # § 144. Bias or prejudice of judge

@@ -3,9 +3,9 @@ title: "Section 3108 - Auditability of certain elements of the intelligence comm
 usc_title: 50
 usc_section: "3108"
 chapter: 44
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "50 U.S.C. § 3108"
-generated_at: "2026-03-29T21:43:17.360Z"
+generated_at: "2026-03-29T21:46:39.477Z"
 ---
 
 # § 3108. Auditability of certain elements of the intelligence community

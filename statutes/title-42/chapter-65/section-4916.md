@@ -3,9 +3,9 @@ title: "Section 4916 - Railroad noise emission standards"
 usc_title: 42
 usc_section: "4916"
 chapter: 65
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "42 U.S.C. § 4916"
-generated_at: "2026-03-29T21:43:05.623Z"
+generated_at: "2026-03-29T21:46:25.491Z"
 ---
 
 # § 4916. Railroad noise emission standards

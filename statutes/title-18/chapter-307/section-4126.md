@@ -3,9 +3,9 @@ title: "Section 4126 - Prison Industries Fund; use and settlement of accounts"
 usc_title: 18
 usc_section: "4126"
 chapter: 307
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "18 U.S.C. § 4126"
-generated_at: "2026-03-29T21:40:58.415Z"
+generated_at: "2026-03-29T21:44:45.733Z"
 ---
 
 # § 4126. Prison Industries Fund; use and settlement of accounts

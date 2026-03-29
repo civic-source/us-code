@@ -3,9 +3,9 @@ title: "Section 241 - Reference to chapters 1003, 1005, and 1007"
 usc_title: 10
 usc_section: "241"
 chapter: 11
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 241"
-generated_at: "2026-03-29T21:40:11.024Z"
+generated_at: "2026-03-29T21:44:27.016Z"
 ---
 
 # § 241. Reference to chapters 1003, 1005, and 1007

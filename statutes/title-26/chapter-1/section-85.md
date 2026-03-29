@@ -3,9 +3,9 @@ title: "Section 85 - Unemployment compensation"
 usc_title: 26
 usc_section: "85"
 chapter: 1
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "26 U.S.C. § 85"
-generated_at: "2026-03-29T21:41:38.918Z"
+generated_at: "2026-03-29T21:45:26.093Z"
 ---
 
 # § 85. Unemployment compensation

@@ -3,9 +3,9 @@ title: "Section 4956 - Authority to provide certain types of technical assistanc
 usc_title: 10
 usc_section: "4956"
 chapter: 388
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 4956"
-generated_at: "2026-03-29T21:40:11.279Z"
+generated_at: "2026-03-29T21:44:27.247Z"
 ---
 
 # § 4956. Authority to provide certain types of technical assistance

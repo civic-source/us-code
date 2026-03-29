@@ -3,9 +3,9 @@ title: "Section 10 - Disclosure of information by Commission"
 usc_title: 15
 usc_section: "10"
 chapter: 2
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "15 U.S.C. § 10"
-generated_at: "2026-03-29T21:40:27.508Z"
+generated_at: "2026-03-29T21:44:39.927Z"
 ---
 
 # § 80b–10. Disclosure of information by Commission

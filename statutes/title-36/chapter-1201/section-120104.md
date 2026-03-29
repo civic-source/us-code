@@ -3,9 +3,9 @@ title: "Section 120104 - Governing body"
 usc_title: 36
 usc_section: "120104"
 chapter: 1201
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "36 U.S.C. § 120104"
-generated_at: "2026-03-29T21:42:18.197Z"
+generated_at: "2026-03-29T21:45:39.777Z"
 ---
 
 # § 120104. Governing body

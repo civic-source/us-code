@@ -3,9 +3,9 @@ title: "Section 2604 - Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(
 usc_title: 26
 usc_section: "2604"
 chapter: 13
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "26 U.S.C. § 2604"
-generated_at: "2026-03-29T21:41:39.192Z"
+generated_at: "2026-03-29T21:45:26.356Z"
 ---
 
 # [§ 2604. Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(95)(B)(i) , Dec. 19, 2014 , 128 Stat. 4051 ]

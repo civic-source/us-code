@@ -3,9 +3,9 @@ title: "Section 856 - Continuing offense"
 usc_title: 50
 usc_section: "856"
 chapter: 23
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "50 U.S.C. § 856"
-generated_at: "2026-03-29T21:43:17.280Z"
+generated_at: "2026-03-29T21:46:39.389Z"
 ---
 
 # § 856. Continuing offense

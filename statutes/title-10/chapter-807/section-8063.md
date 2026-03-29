@@ -3,9 +3,9 @@ title: "Section 8063 - United States Marine Corps: composition; functions"
 usc_title: 10
 usc_section: "8063"
 chapter: 807
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 8063"
-generated_at: "2026-03-29T21:40:11.296Z"
+generated_at: "2026-03-29T21:44:27.262Z"
 ---
 
 # § 8063. United States Marine Corps: composition; functions

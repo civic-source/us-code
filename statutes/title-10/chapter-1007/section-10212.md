@@ -3,9 +3,9 @@ title: "Section 10212 - Gratuitous services of officers: authority to accept"
 usc_title: 10
 usc_section: "10212"
 chapter: 1007
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 10212"
-generated_at: "2026-03-29T21:40:11.334Z"
+generated_at: "2026-03-29T21:44:27.294Z"
 ---
 
 # § 10212. Gratuitous services of officers: authority to accept

@@ -3,9 +3,9 @@ title: "Section 2410r - Contract working dogs: requirement to transfer animals t
 usc_title: 10
 usc_section: "2410r"
 chapter: 141
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 2410r"
-generated_at: "2026-03-29T21:40:11.187Z"
+generated_at: "2026-03-29T21:44:27.170Z"
 ---
 
 # § 2410r. Contract working dogs: requirement to transfer animals to 341st Training Squadron after service life

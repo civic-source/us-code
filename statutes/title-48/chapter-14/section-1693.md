@@ -3,9 +3,9 @@ title: "Section 1693 - Audit of government; access to books, records, etc."
 usc_title: 48
 usc_section: "1693"
 chapter: 14
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "48 U.S.C. § 1693"
-generated_at: "2026-03-29T21:43:10.396Z"
+generated_at: "2026-03-29T21:46:30.154Z"
 ---
 
 # § 1693. Audit of government; access to books, records, etc.

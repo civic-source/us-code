@@ -3,9 +3,9 @@ title: "Section 8 - Rural business investment companies"
 usc_title: 7
 usc_section: "8"
 chapter: 50
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "7 U.S.C. § 8"
-generated_at: "2026-03-29T21:40:15.865Z"
+generated_at: "2026-03-29T21:44:07.556Z"
 ---
 
 # § 2009cc–8. Rural business investment companies

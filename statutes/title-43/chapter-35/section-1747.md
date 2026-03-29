@@ -3,9 +3,9 @@ title: "Section 1747 - Loans to States and political subdivisions; purposes; amo
 usc_title: 43
 usc_section: "1747"
 chapter: 35
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "43 U.S.C. § 1747"
-generated_at: "2026-03-29T21:42:38.156Z"
+generated_at: "2026-03-29T21:45:48.190Z"
 ---
 
 # § 1747. Loans to States and political subdivisions; purposes; amounts; allocation; terms and conditions; interest rate; security; limitations; forebearance for benefit of borrowers; recordkeeping requirements; discrimination prohibited; deposit of receipts

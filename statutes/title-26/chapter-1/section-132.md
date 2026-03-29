@@ -3,9 +3,9 @@ title: "Section 132 - Certain fringe benefits"
 usc_title: 26
 usc_section: "132"
 chapter: 1
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "26 U.S.C. § 132"
-generated_at: "2026-03-29T21:41:38.926Z"
+generated_at: "2026-03-29T21:45:26.102Z"
 ---
 
 # § 132. Certain fringe benefits

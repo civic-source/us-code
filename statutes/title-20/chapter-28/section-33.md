@@ -3,9 +3,9 @@ title: "Section 33 - Scholarships authorized"
 usc_title: 20
 usc_section: "33"
 chapter: 28
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "20 U.S.C. § 33"
-generated_at: "2026-03-29T21:40:51.957Z"
+generated_at: "2026-03-29T21:44:57.923Z"
 ---
 
 # § 1070d–33. Scholarships authorized

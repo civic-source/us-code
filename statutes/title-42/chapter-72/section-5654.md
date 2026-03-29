@@ -3,9 +3,9 @@ title: "Section 5654 - Transferred"
 usc_title: 42
 usc_section: "5654"
 chapter: 72
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "42 U.S.C. § 5654"
-generated_at: "2026-03-29T21:43:05.659Z"
+generated_at: "2026-03-29T21:46:25.539Z"
 ---
 
 # § 5654. Transferred

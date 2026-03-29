@@ -3,9 +3,9 @@ title: "Section 1175a - Voluntary separation pay and benefits"
 usc_title: 10
 usc_section: "1175a"
 chapter: 59
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 1175a"
-generated_at: "2026-03-29T21:40:11.099Z"
+generated_at: "2026-03-29T21:44:27.094Z"
 ---
 
 # § 1175a. Voluntary separation pay and benefits

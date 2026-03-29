@@ -3,9 +3,9 @@ title: "Section 4506 - Requirement of referendum"
 usc_title: 7
 usc_section: "4506"
 chapter: 76
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "7 U.S.C. § 4506"
-generated_at: "2026-03-29T21:40:15.931Z"
+generated_at: "2026-03-29T21:44:07.621Z"
 ---
 
 # § 4506. Requirement of referendum

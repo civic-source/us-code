@@ -3,9 +3,9 @@ title: "Section 517a - Payment of awards in condemnation proceedings"
 usc_title: 16
 usc_section: "517a"
 chapter: 2
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "16 U.S.C. § 517a"
-generated_at: "2026-03-29T21:41:10.630Z"
+generated_at: "2026-03-29T21:44:52.904Z"
 ---
 
 # § 517a. Payment of awards in condemnation proceedings

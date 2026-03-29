@@ -3,9 +3,9 @@ title: "Section 136a - Registration of pesticides"
 usc_title: 7
 usc_section: "136a"
 chapter: 6
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "7 U.S.C. § 136a"
-generated_at: "2026-03-29T21:40:15.707Z"
+generated_at: "2026-03-29T21:44:07.409Z"
 ---
 
 # § 136a. Registration of pesticides

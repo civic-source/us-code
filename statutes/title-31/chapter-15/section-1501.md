@@ -3,9 +3,9 @@ title: "Section 1501 - Documentary evidence requirement for Government obligatio
 usc_title: 31
 usc_section: "1501"
 chapter: 15
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "31 U.S.C. § 1501"
-generated_at: "2026-03-29T21:42:10.393Z"
+generated_at: "2026-03-29T21:45:30.455Z"
 ---
 
 # § 1501. Documentary evidence requirement for Government obligations

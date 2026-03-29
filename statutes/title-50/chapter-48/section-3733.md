@@ -3,9 +3,9 @@ title: "Section 3733 - Limitation on use of funds until certain permits obtained
 usc_title: 50
 usc_section: "3733"
 chapter: 48
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "50 U.S.C. § 3733"
-generated_at: "2026-03-29T21:43:17.392Z"
+generated_at: "2026-03-29T21:46:39.515Z"
 ---
 
 # § 3733. Limitation on use of funds until certain permits obtained

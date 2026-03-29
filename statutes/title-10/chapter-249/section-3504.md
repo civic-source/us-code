@@ -3,9 +3,9 @@ title: "Section 3504 - Multiyear contracts for acquisition of property: particip
 usc_title: 10
 usc_section: "3504"
 chapter: 249
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 3504"
-generated_at: "2026-03-29T21:40:11.250Z"
+generated_at: "2026-03-29T21:44:27.222Z"
 ---
 
 # § 3504. Multiyear contracts for acquisition of property: participation by subcontractors, vendors, and suppliers

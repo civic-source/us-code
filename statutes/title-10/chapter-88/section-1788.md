@@ -3,9 +3,9 @@ title: "Section 1788 - Additional family assistance"
 usc_title: 10
 usc_section: "1788"
 chapter: 88
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 1788"
-generated_at: "2026-03-29T21:40:11.130Z"
+generated_at: "2026-03-29T21:44:27.126Z"
 ---
 
 # § 1788. Additional family assistance

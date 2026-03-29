@@ -3,9 +3,9 @@ title: "Section 455b - State tax as lien upon lands; prior lien of United States
 usc_title: 43
 usc_section: "455b"
 chapter: 12
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "43 U.S.C. § 455b"
-generated_at: "2026-03-29T21:42:38.087Z"
+generated_at: "2026-03-29T21:45:48.124Z"
 ---
 
 # § 455b. State tax as lien upon lands; prior lien of United States; rights of holder of tax title

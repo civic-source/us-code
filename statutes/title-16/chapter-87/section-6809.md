@@ -3,9 +3,9 @@ title: "Section 6809 - Sunset provision"
 usc_title: 16
 usc_section: "6809"
 chapter: 87
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "16 U.S.C. § 6809"
-generated_at: "2026-03-29T21:41:10.890Z"
+generated_at: "2026-03-29T21:44:53.166Z"
 ---
 
 # § 6809. Sunset provision

@@ -3,9 +3,9 @@ title: "Section 200301 - Definitions"
 usc_title: 54
 usc_section: "200301"
 chapter: 2003
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "54 U.S.C. § 200301"
-generated_at: "2026-03-29T21:43:28.962Z"
+generated_at: "2026-03-29T21:46:42.319Z"
 ---
 
 # § 200301. Definitions

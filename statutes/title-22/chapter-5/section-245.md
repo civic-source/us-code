@@ -3,9 +3,9 @@ title: "Section 245 - Transferred"
 usc_title: 22
 usc_section: "245"
 chapter: 5
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "22 U.S.C. § 245"
-generated_at: "2026-03-29T21:41:22.955Z"
+generated_at: "2026-03-29T21:45:09.759Z"
 ---
 
 # §§ 236 to 245. Transferred

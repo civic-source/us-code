@@ -3,9 +3,9 @@ title: "Section 3125 - Emergency pen register and trap and trace device installa
 usc_title: 18
 usc_section: "3125"
 chapter: 206
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "18 U.S.C. § 3125"
-generated_at: "2026-03-29T21:40:58.387Z"
+generated_at: "2026-03-29T21:44:45.704Z"
 ---
 
 # § 3125. Emergency pen register and trap and trace device installation

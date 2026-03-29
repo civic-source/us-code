@@ -3,9 +3,9 @@ title: "Section 7275 - Penalty for offenses relating to certain airline tickets 
 usc_title: 26
 usc_section: "7275"
 chapter: 75
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "26 U.S.C. § 7275"
-generated_at: "2026-03-29T21:41:39.321Z"
+generated_at: "2026-03-29T21:45:26.492Z"
 ---
 
 # § 7275. Penalty for offenses relating to certain airline tickets and advertising

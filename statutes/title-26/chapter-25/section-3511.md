@@ -3,9 +3,9 @@ title: "Section 3511 - Certified professional employer organizations"
 usc_title: 26
 usc_section: "3511"
 chapter: 25
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "26 U.S.C. § 3511"
-generated_at: "2026-03-29T21:41:39.211Z"
+generated_at: "2026-03-29T21:45:26.376Z"
 ---
 
 # § 3511. Certified professional employer organizations

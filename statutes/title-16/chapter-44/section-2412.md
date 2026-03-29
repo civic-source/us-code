@@ -3,9 +3,9 @@ title: "Section 2412 - Relationship to existing treaties"
 usc_title: 16
 usc_section: "2412"
 chapter: 44
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "16 U.S.C. § 2412"
-generated_at: "2026-03-29T21:41:10.813Z"
+generated_at: "2026-03-29T21:44:53.086Z"
 ---
 
 # § 2412. Relationship to existing treaties

@@ -3,9 +3,9 @@ title: "Section 5 - Repealed. June 26, 1953, ch. 157, § 2 , 67 Stat. 86"
 usc_title: 7
 usc_section: "5"
 chapter: 13
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "7 U.S.C. § 5"
-generated_at: "2026-03-29T21:40:15.744Z"
+generated_at: "2026-03-29T21:44:07.443Z"
 ---
 
 # §§ 343d–1 to 343d–5. Repealed. June 26, 1953, ch. 157, § 2 , 67 Stat. 86

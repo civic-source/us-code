@@ -3,9 +3,9 @@ title: "Section 1421o - Federal assistance for fire control, watershed protectio
 usc_title: 48
 usc_section: "1421o"
 chapter: 8
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "48 U.S.C. § 1421o"
-generated_at: "2026-03-29T21:43:10.385Z"
+generated_at: "2026-03-29T21:46:30.140Z"
 ---
 
 # § 1421o. Federal assistance for fire control, watershed protection, and reforestation

@@ -3,9 +3,9 @@ title: "Section 1318 - Geological Survey: classes and sizes of publications; rep
 usc_title: 44
 usc_section: "1318"
 chapter: 13
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "44 U.S.C. § 1318"
-generated_at: "2026-03-29T21:42:36.433Z"
+generated_at: "2026-03-29T21:45:45.847Z"
 ---
 
 # § 1318. Geological Survey: classes and sizes of publications; report of mineral resources; number of copies; reprints; distribution

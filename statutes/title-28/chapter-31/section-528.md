@@ -3,9 +3,9 @@ title: "Section 528 - Disqualification of officers and employees of the Departme
 usc_title: 28
 usc_section: "528"
 chapter: 31
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "28 U.S.C. § 528"
-generated_at: "2026-03-29T21:41:42.646Z"
+generated_at: "2026-03-29T21:45:14.999Z"
 ---
 
 # § 528. Disqualification of officers and employees of the Department of Justice

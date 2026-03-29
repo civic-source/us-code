@@ -3,9 +3,9 @@ title: "Section 2538 - Industrial mobilization: orders; priorities; possession o
 usc_title: 10
 usc_section: "2538"
 chapter: 148
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 2538"
-generated_at: "2026-03-29T21:40:11.202Z"
+generated_at: "2026-03-29T21:44:27.183Z"
 ---
 
 # § 2538. Industrial mobilization: orders; priorities; possession of manufacturing plants; violations

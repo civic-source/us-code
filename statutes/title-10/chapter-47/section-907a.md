@@ -3,9 +3,9 @@ title: "Section 907a - Art. 107a. Parole violation"
 usc_title: 10
 usc_section: "907a"
 chapter: 47
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 907a"
-generated_at: "2026-03-29T21:40:11.065Z"
+generated_at: "2026-03-29T21:44:27.058Z"
 ---
 
 # § 907a. Art. 107a. Parole violation

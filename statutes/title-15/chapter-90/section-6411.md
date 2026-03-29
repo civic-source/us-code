@@ -3,9 +3,9 @@ title: "Section 6411 - Reports"
 usc_title: 15
 usc_section: "6411"
 chapter: 90
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "15 U.S.C. § 6411"
-generated_at: "2026-03-29T21:40:27.752Z"
+generated_at: "2026-03-29T21:44:40.176Z"
 ---
 
 # § 6411. Reports

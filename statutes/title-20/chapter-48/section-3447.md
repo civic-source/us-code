@@ -3,9 +3,9 @@ title: "Section 3447 - Effect of transfers"
 usc_title: 20
 usc_section: "3447"
 chapter: 48
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "20 U.S.C. § 3447"
-generated_at: "2026-03-29T21:40:52.083Z"
+generated_at: "2026-03-29T21:44:58.038Z"
 ---
 
 # § 3447. Effect of transfers

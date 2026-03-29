@@ -3,9 +3,9 @@ title: "Section 40 - Additions to park; entry under other acts"
 usc_title: 16
 usc_section: "40"
 chapter: 1
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "16 U.S.C. § 40"
-generated_at: "2026-03-29T21:41:10.436Z"
+generated_at: "2026-03-29T21:44:52.717Z"
 ---
 
 # § 40. Additions to park; entry under other acts

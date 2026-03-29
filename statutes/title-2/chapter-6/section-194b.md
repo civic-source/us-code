@@ -3,9 +3,9 @@ title: "Section 194b - Omitted"
 usc_title: 2
 usc_section: "194b"
 chapter: 6
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "2 U.S.C. § 194b"
-generated_at: "2026-03-29T21:39:57.033Z"
+generated_at: "2026-03-29T21:43:54.020Z"
 ---
 
 # § 194b. Omitted

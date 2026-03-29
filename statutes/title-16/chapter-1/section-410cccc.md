@@ -3,9 +3,9 @@ title: "Section 410cccc - Acquisition of lands"
 usc_title: 16
 usc_section: "410cccc"
 chapter: 1
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "16 U.S.C. § 410cccc"
-generated_at: "2026-03-29T21:41:10.515Z"
+generated_at: "2026-03-29T21:44:52.810Z"
 ---
 
 # § 410cccc. Acquisition of lands

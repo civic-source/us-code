@@ -3,9 +3,9 @@ title: "Section 2486l - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "2486l"
 chapter: 26
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "42 U.S.C. § 2486l"
-generated_at: "2026-03-29T21:43:05.548Z"
+generated_at: "2026-03-29T21:46:25.412Z"
 ---
 
 # §§ 2486k, 2486l. Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 Stat. 3444

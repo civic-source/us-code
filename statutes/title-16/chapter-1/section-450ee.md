@@ -3,9 +3,9 @@ title: "Section 450ee - Fort Sumter National Monument; establishment"
 usc_title: 16
 usc_section: "450ee"
 chapter: 1
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "16 U.S.C. § 450ee"
-generated_at: "2026-03-29T21:41:10.534Z"
+generated_at: "2026-03-29T21:44:52.830Z"
 ---
 
 # § 450ee. Fort Sumter National Monument; establishment

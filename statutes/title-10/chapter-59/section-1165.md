@@ -3,9 +3,9 @@ title: "Section 1165 - Regular warrant officers: separation during three-year pr
 usc_title: 10
 usc_section: "1165"
 chapter: 59
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 1165"
-generated_at: "2026-03-29T21:40:11.098Z"
+generated_at: "2026-03-29T21:44:27.093Z"
 ---
 
 # § 1165. Regular warrant officers: separation during three-year probationary period

@@ -3,9 +3,9 @@ title: "Section 4301 - Application"
 usc_title: 46
 usc_section: "4301"
 chapter: 43
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "46 U.S.C. § 4301"
-generated_at: "2026-03-29T21:43:12.801Z"
+generated_at: "2026-03-29T21:46:31.874Z"
 ---
 
 # § 4301. Application

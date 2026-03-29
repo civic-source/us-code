@@ -3,9 +3,9 @@ title: "Section 307 - Improving State and Federal agency engagement in environme
 usc_title: 49
 usc_section: "307"
 chapter: 3
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "49 U.S.C. § 307"
-generated_at: "2026-03-29T21:43:24.168Z"
+generated_at: "2026-03-29T21:46:36.027Z"
 ---
 
 # § 307. Improving State and Federal agency engagement in environmental reviews

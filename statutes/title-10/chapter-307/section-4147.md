@@ -3,9 +3,9 @@ title: "Section 4147 - Use of federally funded research and development centers"
 usc_title: 10
 usc_section: "4147"
 chapter: 307
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 4147"
-generated_at: "2026-03-29T21:40:11.263Z"
+generated_at: "2026-03-29T21:44:27.232Z"
 ---
 
 # § 4147. Use of federally funded research and development centers

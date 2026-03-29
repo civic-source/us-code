@@ -3,9 +3,9 @@ title: "Section 179r - Remedies"
 usc_title: 2
 usc_section: "179r"
 chapter: 5
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "2 U.S.C. § 179r"
-generated_at: "2026-03-29T21:39:57.029Z"
+generated_at: "2026-03-29T21:43:54.015Z"
 ---
 
 # § 179r. Remedies

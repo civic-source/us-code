@@ -3,9 +3,9 @@ title: "Section 9202 - National Bio and Agro-Defense Facility"
 usc_title: 7
 usc_section: "9202"
 chapter: 116
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "7 U.S.C. § 9202"
-generated_at: "2026-03-29T21:40:16.054Z"
+generated_at: "2026-03-29T21:44:07.741Z"
 ---
 
 # § 9202. National Bio and Agro-Defense Facility

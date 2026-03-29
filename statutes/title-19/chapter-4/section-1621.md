@@ -3,9 +3,9 @@ title: "Section 1621 - Limitation of actions"
 usc_title: 19
 usc_section: "1621"
 chapter: 4
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "19 U.S.C. § 1621"
-generated_at: "2026-03-29T21:40:48.243Z"
+generated_at: "2026-03-29T21:44:47.743Z"
 ---
 
 # § 1621. Limitation of actions

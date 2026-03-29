@@ -3,9 +3,9 @@ title: "Section 711 - Breeding and sale for food supply"
 usc_title: 16
 usc_section: "711"
 chapter: 7
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "16 U.S.C. § 711"
-generated_at: "2026-03-29T21:41:10.688Z"
+generated_at: "2026-03-29T21:44:52.956Z"
 ---
 
 # § 711. Breeding and sale for food supply

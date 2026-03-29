@@ -3,9 +3,9 @@ title: "Section 3325 - Appointments to scientific and professional positions"
 usc_title: 5
 usc_section: "3325"
 chapter: 33
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "5 U.S.C. § 3325"
-generated_at: "2026-03-29T21:39:48.487Z"
+generated_at: "2026-03-29T21:43:57.063Z"
 ---
 
 # § 3325. Appointments to scientific and professional positions

@@ -3,9 +3,9 @@ title: "Section 7291 - Awards for academic enrichment"
 usc_title: 20
 usc_section: "7291"
 chapter: 70
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "20 U.S.C. § 7291"
-generated_at: "2026-03-29T21:40:52.148Z"
+generated_at: "2026-03-29T21:44:58.097Z"
 ---
 
 # § 7291. Awards for academic enrichment

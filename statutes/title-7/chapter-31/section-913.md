@@ -3,9 +3,9 @@ title: "Section 913 - Definitions"
 usc_title: 7
 usc_section: "913"
 chapter: 31
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "7 U.S.C. § 913"
-generated_at: "2026-03-29T21:40:15.763Z"
+generated_at: "2026-03-29T21:44:07.461Z"
 ---
 
 # § 913. Definitions

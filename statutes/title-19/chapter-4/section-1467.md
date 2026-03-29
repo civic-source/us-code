@@ -3,9 +3,9 @@ title: "Section 1467 - Special inspection, examination, and search"
 usc_title: 19
 usc_section: "1467"
 chapter: 4
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "19 U.S.C. § 1467"
-generated_at: "2026-03-29T21:40:48.226Z"
+generated_at: "2026-03-29T21:44:47.727Z"
 ---
 
 # § 1467. Special inspection, examination, and search

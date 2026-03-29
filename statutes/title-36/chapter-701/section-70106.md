@@ -3,9 +3,9 @@ title: "Section 70106 - Powers"
 usc_title: 36
 usc_section: "70106"
 chapter: 701
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "36 U.S.C. § 70106"
-generated_at: "2026-03-29T21:42:18.191Z"
+generated_at: "2026-03-29T21:45:39.771Z"
 ---
 
 # § 70106. Powers

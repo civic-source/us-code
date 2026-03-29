@@ -3,9 +3,9 @@ title: "Section 418 - Repealed. Feb. 20, 1931, ch. 235 , 46 Stat. 1191"
 usc_title: 16
 usc_section: "418"
 chapter: 1
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "16 U.S.C. § 418"
-generated_at: "2026-03-29T21:41:10.518Z"
+generated_at: "2026-03-29T21:44:52.814Z"
 ---
 
 # § 418. Repealed. Feb. 20, 1931, ch. 235 , 46 Stat. 1191

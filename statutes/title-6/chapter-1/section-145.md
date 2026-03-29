@@ -3,9 +3,9 @@ title: "Section 145 - Transferred"
 usc_title: 6
 usc_section: "145"
 chapter: 1
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "6 U.S.C. § 145"
-generated_at: "2026-03-29T21:40:00.936Z"
+generated_at: "2026-03-29T21:44:00.798Z"
 ---
 
 # §§ 143 to 145. Transferred

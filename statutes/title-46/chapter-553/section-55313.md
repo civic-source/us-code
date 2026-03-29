@@ -3,9 +3,9 @@ title: "Section 55313 - Exemption of certain agricultural exports from cargo pre
 usc_title: 46
 usc_section: "55313"
 chapter: 553
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "46 U.S.C. § 55313"
-generated_at: "2026-03-29T21:43:12.876Z"
+generated_at: "2026-03-29T21:46:31.930Z"
 ---
 
 # § 55313. Exemption of certain agricultural exports from cargo preference provisions

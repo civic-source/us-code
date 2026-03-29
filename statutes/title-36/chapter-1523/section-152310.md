@@ -3,9 +3,9 @@ title: "Section 152310 - Service of process"
 usc_title: 36
 usc_section: "152310"
 chapter: 1523
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "36 U.S.C. § 152310"
-generated_at: "2026-03-29T21:42:18.205Z"
+generated_at: "2026-03-29T21:45:39.784Z"
 ---
 
 # § 152310. Service of process

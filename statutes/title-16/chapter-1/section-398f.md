@@ -3,9 +3,9 @@ title: "Section 398f - Authorization of appropriations for acquisitions, grants,
 usc_title: 16
 usc_section: "398f"
 chapter: 1
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "16 U.S.C. § 398f"
-generated_at: "2026-03-29T21:41:10.474Z"
+generated_at: "2026-03-29T21:44:52.765Z"
 ---
 
 # § 398f. Authorization of appropriations for acquisitions, grants, etc.

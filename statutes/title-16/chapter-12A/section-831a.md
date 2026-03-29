@@ -3,9 +3,9 @@ title: "Section 831a - Membership, operation, and duties of the Board of Directo
 usc_title: 16
 usc_section: "831a"
 chapter: 12
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "16 U.S.C. § 831a"
-generated_at: "2026-03-29T21:41:10.715Z"
+generated_at: "2026-03-29T21:44:52.983Z"
 ---
 
 # § 831a. Membership, operation, and duties of the Board of Directors

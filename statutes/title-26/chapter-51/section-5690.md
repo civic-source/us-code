@@ -3,9 +3,9 @@ title: "Section 5690 - Definition of the term “person”"
 usc_title: 26
 usc_section: "5690"
 chapter: 51
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "26 U.S.C. § 5690"
-generated_at: "2026-03-29T21:41:39.255Z"
+generated_at: "2026-03-29T21:45:26.423Z"
 ---
 
 # § 5690. Definition of the term “person”

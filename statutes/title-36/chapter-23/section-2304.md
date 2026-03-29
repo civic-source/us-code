@@ -3,9 +3,9 @@ title: "Section 2304 - Administrative provisions"
 usc_title: 36
 usc_section: "2304"
 chapter: 23
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "36 U.S.C. § 2304"
-generated_at: "2026-03-29T21:42:18.180Z"
+generated_at: "2026-03-29T21:45:39.759Z"
 ---
 
 # § 2304. Administrative provisions

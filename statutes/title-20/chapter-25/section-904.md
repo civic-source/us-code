@@ -3,9 +3,9 @@ title: "Section 904 - Leave"
 usc_title: 20
 usc_section: "904"
 chapter: 25
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "20 U.S.C. § 904"
-generated_at: "2026-03-29T21:40:51.924Z"
+generated_at: "2026-03-29T21:44:57.886Z"
 ---
 
 # § 904. Leave

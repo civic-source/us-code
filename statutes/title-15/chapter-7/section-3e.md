@@ -3,9 +3,9 @@ title: "Section 3e - Contractor compliance with coordinated disclosure of securi
 usc_title: 15
 usc_section: "3e"
 chapter: 7
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "15 U.S.C. § 3e"
-generated_at: "2026-03-29T21:40:27.518Z"
+generated_at: "2026-03-29T21:44:39.937Z"
 ---
 
 # § 278g–3e. Contractor compliance with coordinated disclosure of security vulnerabilities relating to agency Internet of Things devices

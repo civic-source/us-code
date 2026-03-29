@@ -3,9 +3,9 @@ title: "Section 695 - Migratory waterfowl and other wildlife refuge in Californi
 usc_title: 16
 usc_section: "695"
 chapter: 6
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "16 U.S.C. § 695"
-generated_at: "2026-03-29T21:41:10.682Z"
+generated_at: "2026-03-29T21:44:52.949Z"
 ---
 
 # § 695. Migratory waterfowl and other wildlife refuge in California; participation by State of California

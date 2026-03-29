@@ -3,9 +3,9 @@ title: "Section 499e - Liability to persons injured"
 usc_title: 7
 usc_section: "499e"
 chapter: 20
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "7 U.S.C. § 499e"
-generated_at: "2026-03-29T21:40:15.749Z"
+generated_at: "2026-03-29T21:44:07.449Z"
 ---
 
 # § 499e. Liability to persons injured

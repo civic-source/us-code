@@ -3,9 +3,9 @@ title: "Section 971a - Alaskan lands within highway, telephone, and pipeline wit
 usc_title: 43
 usc_section: "971a"
 chapter: 22
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "43 U.S.C. § 971a"
-generated_at: "2026-03-29T21:42:38.114Z"
+generated_at: "2026-03-29T21:45:48.151Z"
 ---
 
 # § 971a. Alaskan lands within highway, telephone, and pipeline withdrawals; disposal; amendment of land description of claim or entry on adjoining lands

@@ -3,9 +3,9 @@ title: "Section 1621e - Reimbursement from certain third parties of costs of hea
 usc_title: 25
 usc_section: "1621e"
 chapter: 18
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "25 U.S.C. § 1621e"
-generated_at: "2026-03-29T21:41:18.921Z"
+generated_at: "2026-03-29T21:45:03.754Z"
 ---
 
 # § 1621e. Reimbursement from certain third parties of costs of health services

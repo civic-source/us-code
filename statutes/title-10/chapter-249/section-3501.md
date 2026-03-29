@@ -3,9 +3,9 @@ title: "Section 3501 - Multiyear contracts for acquisition of property: authorit
 usc_title: 10
 usc_section: "3501"
 chapter: 249
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 3501"
-generated_at: "2026-03-29T21:40:11.250Z"
+generated_at: "2026-03-29T21:44:27.221Z"
 ---
 
 # § 3501. Multiyear contracts for acquisition of property: authority; definitions

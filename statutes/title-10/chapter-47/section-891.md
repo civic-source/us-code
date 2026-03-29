@@ -3,9 +3,9 @@ title: "Section 891 - Art. 91. Insubordinate conduct toward warrant officer, non
 usc_title: 10
 usc_section: "891"
 chapter: 47
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 891"
-generated_at: "2026-03-29T21:40:11.064Z"
+generated_at: "2026-03-29T21:44:27.057Z"
 ---
 
 # § 891. Art. 91. Insubordinate conduct toward warrant officer, noncommissioned officer, or petty officer

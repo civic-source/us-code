@@ -3,9 +3,9 @@ title: "Section 5517 - Withholding State income taxes"
 usc_title: 5
 usc_section: "5517"
 chapter: 55
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "5 U.S.C. § 5517"
-generated_at: "2026-03-29T21:39:48.508Z"
+generated_at: "2026-03-29T21:43:57.082Z"
 ---
 
 # § 5517. Withholding State income taxes

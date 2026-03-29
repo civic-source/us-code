@@ -3,9 +3,9 @@ title: "Section 2021h - Alternative disposal methods"
 usc_title: 42
 usc_section: "2021h"
 chapter: 23
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "42 U.S.C. § 2021h"
-generated_at: "2026-03-29T21:43:05.515Z"
+generated_at: "2026-03-29T21:46:25.381Z"
 ---
 
 # § 2021h. Alternative disposal methods

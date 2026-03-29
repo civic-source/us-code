@@ -3,9 +3,9 @@ title: "Section 21085 - Methods of implementation left to discretion of State"
 usc_title: 52
 usc_section: "21085"
 chapter: 209
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "52 U.S.C. § 21085"
-generated_at: "2026-03-29T21:43:27.183Z"
+generated_at: "2026-03-29T21:46:43.838Z"
 ---
 
 # § 21085. Methods of implementation left to discretion of State

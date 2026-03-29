@@ -3,9 +3,9 @@ title: "Section 15100 - Projects of national significance"
 usc_title: 42
 usc_section: "15100"
 chapter: 144
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "42 U.S.C. § 15100"
-generated_at: "2026-03-29T21:43:06.034Z"
+generated_at: "2026-03-29T21:46:25.982Z"
 ---
 
 # § 15100. Projects of national significance

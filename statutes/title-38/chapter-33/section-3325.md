@@ -3,9 +3,9 @@ title: "Section 3325 - Reporting requirement"
 usc_title: 38
 usc_section: "3325"
 chapter: 33
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "38 U.S.C. § 3325"
-generated_at: "2026-03-29T21:42:22.346Z"
+generated_at: "2026-03-29T21:45:43.243Z"
 ---
 
 # § 3325. Reporting requirement

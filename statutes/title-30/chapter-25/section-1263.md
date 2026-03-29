@@ -3,9 +3,9 @@ title: "Section 1263 - Public notice and public hearings"
 usc_title: 30
 usc_section: "1263"
 chapter: 25
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "30 U.S.C. § 1263"
-generated_at: "2026-03-29T21:41:29.363Z"
+generated_at: "2026-03-29T21:45:13.637Z"
 ---
 
 # § 1263. Public notice and public hearings

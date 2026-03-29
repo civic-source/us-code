@@ -3,9 +3,9 @@ title: "Section 946 - Right of way to canal ditch companies and irrigation or dr
 usc_title: 43
 usc_section: "946"
 chapter: 22
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "43 U.S.C. § 946"
-generated_at: "2026-03-29T21:42:38.113Z"
+generated_at: "2026-03-29T21:45:48.150Z"
 ---
 
 # § 946. Right of way to canal ditch companies and irrigation or drainage districts for irrigation or drainage purposes and operation and maintenance of reservoirs, canals, and laterals

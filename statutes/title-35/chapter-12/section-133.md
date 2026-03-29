@@ -3,9 +3,9 @@ title: "Section 133 - Time for prosecuting application"
 usc_title: 35
 usc_section: "133"
 chapter: 12
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "35 U.S.C. § 133"
-generated_at: "2026-03-29T21:41:46.233Z"
+generated_at: "2026-03-29T21:45:28.789Z"
 ---
 
 # § 133. Time for prosecuting application

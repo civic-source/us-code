@@ -3,9 +3,9 @@ title: "Section 4061 - Payments for future benefits"
 usc_title: 22
 usc_section: "4061"
 chapter: 52
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "22 U.S.C. § 4061"
-generated_at: "2026-03-29T21:41:23.118Z"
+generated_at: "2026-03-29T21:45:09.926Z"
 ---
 
 # § 4061. Payments for future benefits

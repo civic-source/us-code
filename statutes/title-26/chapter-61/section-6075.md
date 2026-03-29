@@ -3,9 +3,9 @@ title: "Section 6075 - Time for filing estate and gift tax returns"
 usc_title: 26
 usc_section: "6075"
 chapter: 61
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "26 U.S.C. § 6075"
-generated_at: "2026-03-29T21:41:39.274Z"
+generated_at: "2026-03-29T21:45:26.444Z"
 ---
 
 # § 6075. Time for filing estate and gift tax returns

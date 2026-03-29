@@ -3,9 +3,9 @@ title: "Section 112 - Drug interdiction and counter-drug activities"
 usc_title: 32
 usc_section: "112"
 chapter: 1
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "32 U.S.C. § 112"
-generated_at: "2026-03-29T21:41:45.530Z"
+generated_at: "2026-03-29T21:45:33.819Z"
 ---
 
 # § 112. Drug interdiction and counter-drug activities

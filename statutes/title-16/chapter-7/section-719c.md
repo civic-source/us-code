@@ -3,9 +3,9 @@ title: "Section 719c - Authorization of appropriations"
 usc_title: 16
 usc_section: "719c"
 chapter: 7
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "16 U.S.C. § 719c"
-generated_at: "2026-03-29T21:41:10.691Z"
+generated_at: "2026-03-29T21:44:52.959Z"
 ---
 
 # § 719c. Authorization of appropriations

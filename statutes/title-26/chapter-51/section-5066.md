@@ -3,9 +3,9 @@ title: "Section 5066 - Distilled spirits for use of foreign embassies, legations
 usc_title: 26
 usc_section: "5066"
 chapter: 51
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "26 U.S.C. § 5066"
-generated_at: "2026-03-29T21:41:39.246Z"
+generated_at: "2026-03-29T21:45:26.411Z"
 ---
 
 # § 5066. Distilled spirits for use of foreign embassies, legations, etc.

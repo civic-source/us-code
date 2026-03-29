@@ -3,9 +3,9 @@ title: "Section 4413 - Other agreements"
 usc_title: 16
 usc_section: "4413"
 chapter: 64
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "16 U.S.C. § 4413"
-generated_at: "2026-03-29T21:41:10.865Z"
+generated_at: "2026-03-29T21:44:53.138Z"
 ---
 
 # § 4413. Other agreements

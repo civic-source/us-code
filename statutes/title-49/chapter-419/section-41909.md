@@ -3,9 +3,9 @@ title: "Section 41909 - Renumbered § 41906]"
 usc_title: 49
 usc_section: "41909"
 chapter: 419
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "49 U.S.C. § 41909"
-generated_at: "2026-03-29T21:43:24.292Z"
+generated_at: "2026-03-29T21:46:36.150Z"
 ---
 
 # [§ 41909. Renumbered § 41906]

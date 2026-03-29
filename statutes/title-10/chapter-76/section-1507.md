@@ -3,9 +3,9 @@ title: "Section 1507 - Recommendation of status of death"
 usc_title: 10
 usc_section: "1507"
 chapter: 76
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 1507"
-generated_at: "2026-03-29T21:40:11.117Z"
+generated_at: "2026-03-29T21:44:27.113Z"
 ---
 
 # § 1507. Recommendation of status of death

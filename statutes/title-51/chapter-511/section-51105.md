@@ -3,9 +3,9 @@ title: "Section 51105 - Authorization of appropriations"
 usc_title: 51
 usc_section: "51105"
 chapter: 511
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "51 U.S.C. § 51105"
-generated_at: "2026-03-29T21:43:26.834Z"
+generated_at: "2026-03-29T21:46:44.418Z"
 ---
 
 # § 51105. Authorization of appropriations

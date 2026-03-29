@@ -3,9 +3,9 @@ title: "Section 3712 - Exclusiveness of service"
 usc_title: 14
 usc_section: "3712"
 chapter: 37
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "14 U.S.C. § 3712"
-generated_at: "2026-03-29T21:40:20.497Z"
+generated_at: "2026-03-29T21:44:30.561Z"
 ---
 
 # § 3712. Exclusiveness of service

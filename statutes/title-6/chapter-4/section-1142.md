@@ -3,9 +3,9 @@ title: "Section 1142 - Public transportation employee protections"
 usc_title: 6
 usc_section: "1142"
 chapter: 4
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "6 U.S.C. § 1142"
-generated_at: "2026-03-29T21:40:01.007Z"
+generated_at: "2026-03-29T21:44:00.860Z"
 ---
 
 # § 1142. Public transportation employee protections

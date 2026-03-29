@@ -3,9 +3,9 @@ title: "Section 102503 - Authority of Secretary"
 usc_title: 54
 usc_section: "102503"
 chapter: 1025
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "54 U.S.C. § 102503"
-generated_at: "2026-03-29T21:43:28.960Z"
+generated_at: "2026-03-29T21:46:42.316Z"
 ---
 
 # § 102503. Authority of Secretary

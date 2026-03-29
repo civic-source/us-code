@@ -3,9 +3,9 @@ title: "Section 6163 - Extension of time for payment of estate tax on value of r
 usc_title: 26
 usc_section: "6163"
 chapter: 62
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "26 U.S.C. § 6163"
-generated_at: "2026-03-29T21:41:39.283Z"
+generated_at: "2026-03-29T21:45:26.454Z"
 ---
 
 # § 6163. Extension of time for payment of estate tax on value of reversionary or remainder interest in property

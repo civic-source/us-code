@@ -3,9 +3,9 @@ title: "Section 100507 - Additional areas for System"
 usc_title: 54
 usc_section: "100507"
 chapter: 1005
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "54 U.S.C. § 100507"
-generated_at: "2026-03-29T21:43:28.953Z"
+generated_at: "2026-03-29T21:46:42.304Z"
 ---
 
 # § 100507. Additional areas for System

@@ -3,9 +3,9 @@ title: "Section 6 - Development of domestic sources"
 usc_title: 50
 usc_section: "6"
 chapter: 5
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "50 U.S.C. § 6"
-generated_at: "2026-03-29T21:43:17.267Z"
+generated_at: "2026-03-29T21:46:39.379Z"
 ---
 
 # § 98h–6. Development of domestic sources

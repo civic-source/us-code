@@ -3,9 +3,9 @@ title: "Section 286z - Collection and exchange of information on monetary and fi
 usc_title: 22
 usc_section: "286z"
 chapter: 7
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "22 U.S.C. § 286z"
-generated_at: "2026-03-29T21:41:22.982Z"
+generated_at: "2026-03-29T21:45:09.785Z"
 ---
 
 # § 286z. Collection and exchange of information on monetary and financial problems

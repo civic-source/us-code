@@ -3,9 +3,9 @@ title: "Section 333 - Extension of time for completion of irrigation works"
 usc_title: 43
 usc_section: "333"
 chapter: 9
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "43 U.S.C. § 333"
-generated_at: "2026-03-29T21:42:38.070Z"
+generated_at: "2026-03-29T21:45:48.106Z"
 ---
 
 # § 333. Extension of time for completion of irrigation works

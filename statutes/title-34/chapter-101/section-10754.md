@@ -3,9 +3,9 @@ title: "Section 10754 - Evaluation"
 usc_title: 34
 usc_section: "10754"
 chapter: 101
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "34 U.S.C. § 10754"
-generated_at: "2026-03-29T21:41:48.703Z"
+generated_at: "2026-03-29T21:45:35.200Z"
 ---
 
 # § 10754. Evaluation

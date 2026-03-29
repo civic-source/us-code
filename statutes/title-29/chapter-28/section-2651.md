@@ -3,9 +3,9 @@ title: "Section 2651 - Effect on other laws"
 usc_title: 29
 usc_section: "2651"
 chapter: 28
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "29 U.S.C. § 2651"
-generated_at: "2026-03-29T21:41:28.285Z"
+generated_at: "2026-03-29T21:45:16.998Z"
 ---
 
 # § 2651. Effect on other laws

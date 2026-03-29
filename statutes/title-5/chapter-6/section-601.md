@@ -3,9 +3,9 @@ title: "Section 601 - Definitions"
 usc_title: 5
 usc_section: "601"
 chapter: 6
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "5 U.S.C. § 601"
-generated_at: "2026-03-29T21:39:48.473Z"
+generated_at: "2026-03-29T21:43:57.048Z"
 ---
 
 # § 601. Definitions

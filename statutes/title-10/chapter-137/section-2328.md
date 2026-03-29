@@ -3,9 +3,9 @@ title: "Section 2328 - Release of technical data under Freedom of Information Ac
 usc_title: 10
 usc_section: "2328"
 chapter: 137
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 2328"
-generated_at: "2026-03-29T21:40:11.167Z"
+generated_at: "2026-03-29T21:44:27.154Z"
 ---
 
 # § 2328. Release of technical data under Freedom of Information Act: recovery of costs

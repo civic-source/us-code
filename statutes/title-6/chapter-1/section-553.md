@@ -3,9 +3,9 @@ title: "Section 553 - Terminations"
 usc_title: 6
 usc_section: "553"
 chapter: 1
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "6 U.S.C. § 553"
-generated_at: "2026-03-29T21:40:00.972Z"
+generated_at: "2026-03-29T21:44:00.833Z"
 ---
 
 # § 553. Terminations

@@ -3,9 +3,9 @@ title: "Section 72 - Authority to assess and use OTC monograph fees"
 usc_title: 21
 usc_section: "72"
 chapter: 9
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "21 U.S.C. § 72"
-generated_at: "2026-03-29T21:41:17.095Z"
+generated_at: "2026-03-29T21:45:05.519Z"
 ---
 
 # § 379j–72. Authority to assess and use OTC monograph fees

@@ -3,9 +3,9 @@ title: "Section 3525 - Victims Compensation Fund"
 usc_title: 18
 usc_section: "3525"
 chapter: 224
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "18 U.S.C. § 3525"
-generated_at: "2026-03-29T21:40:58.398Z"
+generated_at: "2026-03-29T21:44:45.716Z"
 ---
 
 # § 3525. Victims Compensation Fund

@@ -3,9 +3,9 @@ title: "Section 5303 - Annual adjustments to pay schedules"
 usc_title: 5
 usc_section: "5303"
 chapter: 53
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "5 U.S.C. § 5303"
-generated_at: "2026-03-29T21:39:48.499Z"
+generated_at: "2026-03-29T21:43:57.075Z"
 ---
 
 # § 5303. Annual adjustments to pay schedules

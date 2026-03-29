@@ -3,9 +3,9 @@ title: "Section 8306 - Seizure, quarantine, and disposal"
 usc_title: 7
 usc_section: "8306"
 chapter: 109
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "7 U.S.C. § 8306"
-generated_at: "2026-03-29T21:40:16.029Z"
+generated_at: "2026-03-29T21:44:07.720Z"
 ---
 
 # § 8306. Seizure, quarantine, and disposal

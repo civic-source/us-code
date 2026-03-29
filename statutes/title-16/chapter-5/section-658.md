@@ -3,9 +3,9 @@ title: "Section 658 - Repealed. Feb. 26, 1944, ch. 65, § 18 , 58 Stat. 104"
 usc_title: 16
 usc_section: "658"
 chapter: 5
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "16 U.S.C. § 658"
-generated_at: "2026-03-29T21:41:10.670Z"
+generated_at: "2026-03-29T21:44:52.938Z"
 ---
 
 # § 658. Repealed. Feb. 26, 1944, ch. 65, § 18 , 58 Stat. 104

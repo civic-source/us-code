@@ -3,9 +3,9 @@ title: "Section 1090a - Commanding officer and supervisor referrals of members f
 usc_title: 10
 usc_section: "1090a"
 chapter: 55
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 1090a"
-generated_at: "2026-03-29T21:40:11.090Z"
+generated_at: "2026-03-29T21:44:27.084Z"
 ---
 
 # § 1090a. Commanding officer and supervisor referrals of members for mental health evaluations

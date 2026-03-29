@@ -3,9 +3,9 @@ title: "Section 81 - Repealed. Pub. L. 100–203, title X, § 10201(b)(1) , Dec.
 usc_title: 26
 usc_section: "81"
 chapter: 1
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "26 U.S.C. § 81"
-generated_at: "2026-03-29T21:41:38.917Z"
+generated_at: "2026-03-29T21:45:26.092Z"
 ---
 
 # [§ 81. Repealed. Pub. L. 100–203, title X, § 10201(b)(1) , Dec. 22, 1987 , 101 Stat. 1330–387 ]

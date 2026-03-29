@@ -3,9 +3,9 @@ title: "Section 4105 - Reports on unmanned maritime systems and usage for missio
 usc_title: 33
 usc_section: "4105"
 chapter: 54
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "33 U.S.C. § 4105"
-generated_at: "2026-03-29T21:42:01.960Z"
+generated_at: "2026-03-29T21:45:32.639Z"
 ---
 
 # § 4105. Reports on unmanned maritime systems and usage for mission of the National Oceanic and Atmospheric Administration

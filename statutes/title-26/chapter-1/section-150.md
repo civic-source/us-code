@@ -3,9 +3,9 @@ title: "Section 150 - Definitions and special rules"
 usc_title: 26
 usc_section: "150"
 chapter: 1
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "26 U.S.C. § 150"
-generated_at: "2026-03-29T21:41:38.938Z"
+generated_at: "2026-03-29T21:45:26.115Z"
 ---
 
 # § 150. Definitions and special rules

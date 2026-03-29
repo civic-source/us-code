@@ -3,9 +3,9 @@ title: "Section 294 - Sale of certain abandoned buildings on lands belonging to 
 usc_title: 25
 usc_section: "294"
 chapter: 7
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "25 U.S.C. § 294"
-generated_at: "2026-03-29T21:41:18.892Z"
+generated_at: "2026-03-29T21:45:03.723Z"
 ---
 
 # § 294. Sale of certain abandoned buildings on lands belonging to Indian tribes

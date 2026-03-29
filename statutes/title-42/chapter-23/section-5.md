@@ -3,9 +3,9 @@ title: "Section 5 - Leasing of gaseous diffusion facilities"
 usc_title: 42
 usc_section: "5"
 chapter: 23
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-29T21:43:05.541Z"
+generated_at: "2026-03-29T21:46:25.406Z"
 ---
 
 # § 2297h–5. Leasing of gaseous diffusion facilities

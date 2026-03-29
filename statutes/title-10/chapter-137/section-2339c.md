@@ -3,9 +3,9 @@ title: "Section 2339c - Disclosures for offerors for certain shipbuilding major 
 usc_title: 10
 usc_section: "2339c"
 chapter: 137
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 2339c"
-generated_at: "2026-03-29T21:40:11.171Z"
+generated_at: "2026-03-29T21:44:27.157Z"
 ---
 
 # § 2339c. Disclosures for offerors for certain shipbuilding major defense acquisition program contracts

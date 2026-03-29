@@ -3,9 +3,9 @@ title: "Section 1736f - Authorization of appropriations"
 usc_title: 7
 usc_section: "1736f"
 chapter: 41
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "7 U.S.C. § 1736f"
-generated_at: "2026-03-29T21:40:15.832Z"
+generated_at: "2026-03-29T21:44:07.523Z"
 ---
 
 # § 1736f. Authorization of appropriations

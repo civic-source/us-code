@@ -3,9 +3,9 @@ title: "Section 1706 - Management of health care: other requirements"
 usc_title: 38
 usc_section: "1706"
 chapter: 17
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "38 U.S.C. § 1706"
-generated_at: "2026-03-29T21:42:22.306Z"
+generated_at: "2026-03-29T21:45:43.196Z"
 ---
 
 # § 1706. Management of health care: other requirements

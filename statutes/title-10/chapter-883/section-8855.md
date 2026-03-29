@@ -3,9 +3,9 @@ title: "Section 8855 - Appointment of prize commissioners and special prize comm
 usc_title: 10
 usc_section: "8855"
 chapter: 883
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 8855"
-generated_at: "2026-03-29T21:40:11.315Z"
+generated_at: "2026-03-29T21:44:27.278Z"
 ---
 
 # § 8855. Appointment of prize commissioners and special prize commissioners

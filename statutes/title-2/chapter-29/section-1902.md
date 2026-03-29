@@ -3,9 +3,9 @@ title: "Section 1902 - Compensation of Chief"
 usc_title: 2
 usc_section: "1902"
 chapter: 29
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "2 U.S.C. § 1902"
-generated_at: "2026-03-29T21:39:57.077Z"
+generated_at: "2026-03-29T21:43:54.068Z"
 ---
 
 # § 1902. Compensation of Chief

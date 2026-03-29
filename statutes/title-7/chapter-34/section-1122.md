@@ -3,9 +3,9 @@ title: "Section 1122 - Omitted"
 usc_title: 7
 usc_section: "1122"
 chapter: 34
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "7 U.S.C. § 1122"
-generated_at: "2026-03-29T21:40:15.773Z"
+generated_at: "2026-03-29T21:44:07.470Z"
 ---
 
 # §§ 1111 to 1122. Omitted

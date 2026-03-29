@@ -3,9 +3,9 @@ title: "Section 1970 - Assistance by Executive departments and agencies"
 usc_title: 2
 usc_section: "1970"
 chapter: 29
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "2 U.S.C. § 1970"
-generated_at: "2026-03-29T21:39:57.082Z"
+generated_at: "2026-03-29T21:43:54.072Z"
 ---
 
 # § 1970. Assistance by Executive departments and agencies

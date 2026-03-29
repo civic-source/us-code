@@ -3,9 +3,9 @@ title: "Section 4201 - Fees for certification of invoices"
 usc_title: 22
 usc_section: "4201"
 chapter: 52
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "22 U.S.C. § 4201"
-generated_at: "2026-03-29T21:41:23.127Z"
+generated_at: "2026-03-29T21:45:09.935Z"
 ---
 
 # § 4201. Fees for certification of invoices

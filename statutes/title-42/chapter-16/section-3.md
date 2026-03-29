@@ -3,9 +3,9 @@ title: "Section 3 - Personnel oversight"
 usc_title: 42
 usc_section: "3"
 chapter: 16
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-29T21:43:05.479Z"
+generated_at: "2026-03-29T21:46:25.353Z"
 ---
 
 # § 1862s–3. Personnel oversight

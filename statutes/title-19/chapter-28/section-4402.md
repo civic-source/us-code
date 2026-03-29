@@ -3,9 +3,9 @@ title: "Section 4402 - Illicitly imported, exported, or trafficked cultural prop
 usc_title: 19
 usc_section: "4402"
 chapter: 28
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "19 U.S.C. § 4402"
-generated_at: "2026-03-29T21:40:48.345Z"
+generated_at: "2026-03-29T21:44:47.834Z"
 ---
 
 # § 4402. Illicitly imported, exported, or trafficked cultural property, archaeological or ethnological materials, and fish, wildlife, and plants

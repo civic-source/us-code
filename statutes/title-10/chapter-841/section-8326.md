@@ -3,9 +3,9 @@ title: "Section 8326 - Enlisted members: 30 years"
 usc_title: 10
 usc_section: "8326"
 chapter: 841
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 8326"
-generated_at: "2026-03-29T21:40:11.301Z"
+generated_at: "2026-03-29T21:44:27.265Z"
 ---
 
 # § 8326. Enlisted members: 30 years

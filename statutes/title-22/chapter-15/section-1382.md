@@ -3,9 +3,9 @@ title: "Section 1382 - Administration of the Trading With the Enemy Act in Phili
 usc_title: 22
 usc_section: "1382"
 chapter: 15
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "22 U.S.C. § 1382"
-generated_at: "2026-03-29T21:41:23.001Z"
+generated_at: "2026-03-29T21:45:09.803Z"
 ---
 
 # § 1382. Administration of the Trading With the Enemy Act in Philippines

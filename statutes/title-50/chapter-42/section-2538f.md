@@ -3,9 +3,9 @@ title: "Section 2538f - Earned value management and technology readiness levels 
 usc_title: 50
 usc_section: "2538f"
 chapter: 42
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "50 U.S.C. § 2538f"
-generated_at: "2026-03-29T21:43:17.328Z"
+generated_at: "2026-03-29T21:46:39.441Z"
 ---
 
 # § 2538f. Earned value management and technology readiness levels for life extension programs

@@ -3,9 +3,9 @@ title: "Section 1606 - Special rules for ships of war, vessels proceeding under 
 usc_title: 33
 usc_section: "1606"
 chapter: 30
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "33 U.S.C. § 1606"
-generated_at: "2026-03-29T21:42:01.899Z"
+generated_at: "2026-03-29T21:45:32.572Z"
 ---
 
 # § 1606. Special rules for ships of war, vessels proceeding under convoy, and fishing vessels engaged in fishing as a fleet

@@ -3,9 +3,9 @@ title: "Section 10009 - Coordinated support to recover assets stolen from the Su
 usc_title: 22
 usc_section: "10009"
 chapter: 107
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "22 U.S.C. § 10009"
-generated_at: "2026-03-29T21:41:23.240Z"
+generated_at: "2026-03-29T21:45:10.050Z"
 ---
 
 # § 10009. Coordinated support to recover assets stolen from the Sudanese people

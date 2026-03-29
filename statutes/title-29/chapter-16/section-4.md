@@ -3,9 +3,9 @@ title: "Section 4 - Standards and assurances for centers for independent living"
 usc_title: 29
 usc_section: "4"
 chapter: 16
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "29 U.S.C. § 4"
-generated_at: "2026-03-29T21:41:28.213Z"
+generated_at: "2026-03-29T21:45:16.927Z"
 ---
 
 # § 796f–4. Standards and assurances for centers for independent living

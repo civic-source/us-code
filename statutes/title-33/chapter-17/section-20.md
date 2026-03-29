@@ -3,9 +3,9 @@ title: "Section 20 - Repealed. Pub. L. 116–221, § 10 , Dec. 18, 2020 , 134 St
 usc_title: 33
 usc_section: "20"
 chapter: 17
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "33 U.S.C. § 20"
-generated_at: "2026-03-29T21:42:01.839Z"
+generated_at: "2026-03-29T21:45:32.506Z"
 ---
 
 # § 857–20. Repealed. Pub. L. 116–221, § 10 , Dec. 18, 2020 , 134 Stat. 1061

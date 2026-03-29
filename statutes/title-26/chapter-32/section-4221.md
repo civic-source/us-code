@@ -3,9 +3,9 @@ title: "Section 4221 - Certain tax-free sales"
 usc_title: 26
 usc_section: "4221"
 chapter: 32
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "26 U.S.C. § 4221"
-generated_at: "2026-03-29T21:41:39.217Z"
+generated_at: "2026-03-29T21:45:26.382Z"
 ---
 
 # § 4221. Certain tax-free sales

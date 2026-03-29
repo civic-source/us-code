@@ -3,9 +3,9 @@ title: "Section 2436 - Major defense acquisition programs: incentive program for
 usc_title: 10
 usc_section: "2436"
 chapter: 144
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 2436"
-generated_at: "2026-03-29T21:40:11.190Z"
+generated_at: "2026-03-29T21:44:27.173Z"
 ---
 
 # § 2436. Major defense acquisition programs: incentive program for contractors to purchase capital assets manufactured in United States

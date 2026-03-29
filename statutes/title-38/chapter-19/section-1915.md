@@ -3,9 +3,9 @@ title: "Section 1915 - Total disability income provision"
 usc_title: 38
 usc_section: "1915"
 chapter: 19
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "38 U.S.C. § 1915"
-generated_at: "2026-03-29T21:42:22.319Z"
+generated_at: "2026-03-29T21:45:43.212Z"
 ---
 
 # § 1915. Total disability income provision

@@ -3,9 +3,9 @@ title: "Section 7b - Suspension or revocation of designation as registered entit
 usc_title: 7
 usc_section: "7b"
 chapter: 1
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "7 U.S.C. § 7b"
-generated_at: "2026-03-29T21:40:15.689Z"
+generated_at: "2026-03-29T21:44:07.391Z"
 ---
 
 # § 7b. Suspension or revocation of designation as registered entity

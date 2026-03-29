@@ -3,9 +3,9 @@ title: "Section 1469 - Rules and regulations"
 usc_title: 25
 usc_section: "1469"
 chapter: 17
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "25 U.S.C. § 1469"
-generated_at: "2026-03-29T21:41:18.914Z"
+generated_at: "2026-03-29T21:45:03.748Z"
 ---
 
 # § 1469. Rules and regulations

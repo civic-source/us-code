@@ -3,9 +3,9 @@ title: "Section 15 - Issuance and signing of patents by Secretary of the Interio
 usc_title: 43
 usc_section: "15"
 chapter: 1
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "43 U.S.C. § 15"
-generated_at: "2026-03-29T21:42:38.059Z"
+generated_at: "2026-03-29T21:45:48.096Z"
 ---
 
 # § 15. Issuance and signing of patents by Secretary of the Interior; delegation of authority; notice

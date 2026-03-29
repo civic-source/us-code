@@ -3,9 +3,9 @@ title: "Section 30509 - Provisions limiting liability for personal injury or dea
 usc_title: 46
 usc_section: "30509"
 chapter: 305
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "46 U.S.C. § 30509"
-generated_at: "2026-03-29T21:43:12.831Z"
+generated_at: "2026-03-29T21:46:31.896Z"
 ---
 
 # § 30509. Provisions limiting liability for personal injury or death

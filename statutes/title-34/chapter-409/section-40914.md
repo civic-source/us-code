@@ -3,9 +3,9 @@ title: "Section 40914 - Penalties for noncompliance"
 usc_title: 34
 usc_section: "40914"
 chapter: 409
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "34 U.S.C. § 40914"
-generated_at: "2026-03-29T21:41:48.767Z"
+generated_at: "2026-03-29T21:45:35.266Z"
 ---
 
 # § 40914. Penalties for noncompliance

@@ -3,9 +3,9 @@ title: "Section 2290 - Flood control in Trust Territory of the Pacific Islands"
 usc_title: 33
 usc_section: "2290"
 chapter: 36
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "33 U.S.C. § 2290"
-generated_at: "2026-03-29T21:42:01.916Z"
+generated_at: "2026-03-29T21:45:32.591Z"
 ---
 
 # § 2290. Flood control in Trust Territory of the Pacific Islands

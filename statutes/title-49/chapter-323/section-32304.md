@@ -3,9 +3,9 @@ title: "Section 32304 - Passenger motor vehicle country of origin labeling"
 usc_title: 49
 usc_section: "32304"
 chapter: 323
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "49 U.S.C. § 32304"
-generated_at: "2026-03-29T21:43:24.267Z"
+generated_at: "2026-03-29T21:46:36.123Z"
 ---
 
 # § 32304. Passenger motor vehicle country of origin labeling

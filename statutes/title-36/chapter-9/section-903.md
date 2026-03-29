@@ -3,9 +3,9 @@ title: "Section 903 - Designation of Medal of Honor Flag"
 usc_title: 36
 usc_section: "903"
 chapter: 9
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "36 U.S.C. § 903"
-generated_at: "2026-03-29T21:42:18.177Z"
+generated_at: "2026-03-29T21:45:39.756Z"
 ---
 
 # § 903. Designation of Medal of Honor Flag

@@ -3,9 +3,9 @@ title: "Section 160 - Competition in provision of telecommunications service"
 usc_title: 47
 usc_section: "160"
 chapter: 5
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "47 U.S.C. § 160"
-generated_at: "2026-03-29T21:43:13.786Z"
+generated_at: "2026-03-29T21:46:37.045Z"
 ---
 
 # § 160. Competition in provision of telecommunications service

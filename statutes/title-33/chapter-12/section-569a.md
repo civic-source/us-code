@@ -3,9 +3,9 @@ title: "Section 569a - Temporary employment of experts or consultants; compensat
 usc_title: 33
 usc_section: "569a"
 chapter: 12
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "33 U.S.C. § 569a"
-generated_at: "2026-03-29T21:42:01.820Z"
+generated_at: "2026-03-29T21:45:32.487Z"
 ---
 
 # § 569a. Temporary employment of experts or consultants; compensation

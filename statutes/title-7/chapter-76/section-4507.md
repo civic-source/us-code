@@ -3,9 +3,9 @@ title: "Section 4507 - Suspension and termination of orders"
 usc_title: 7
 usc_section: "4507"
 chapter: 76
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "7 U.S.C. § 4507"
-generated_at: "2026-03-29T21:40:15.931Z"
+generated_at: "2026-03-29T21:44:07.621Z"
 ---
 
 # § 4507. Suspension and termination of orders

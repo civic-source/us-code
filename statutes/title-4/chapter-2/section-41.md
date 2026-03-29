@@ -3,9 +3,9 @@ title: "Section 41 - Seal of the United States"
 usc_title: 4
 usc_section: "41"
 chapter: 2
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "4 U.S.C. § 41"
-generated_at: "2026-03-29T21:39:52.213Z"
+generated_at: "2026-03-29T21:43:50.200Z"
 ---
 
 # § 41. Seal of the United States

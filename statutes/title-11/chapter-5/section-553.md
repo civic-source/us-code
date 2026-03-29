@@ -3,9 +3,9 @@ title: "Section 553 - Setoff"
 usc_title: 11
 usc_section: "553"
 chapter: 5
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "11 U.S.C. § 553"
-generated_at: "2026-03-29T21:40:21.258Z"
+generated_at: "2026-03-29T21:44:31.233Z"
 ---
 
 # § 553. Setoff

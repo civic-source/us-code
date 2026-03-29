@@ -3,9 +3,9 @@ title: "Section 230305 - Powers"
 usc_title: 36
 usc_section: "230305"
 chapter: 2303
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "36 U.S.C. § 230305"
-generated_at: "2026-03-29T21:42:18.220Z"
+generated_at: "2026-03-29T21:45:39.797Z"
 ---
 
 # § 230305. Powers

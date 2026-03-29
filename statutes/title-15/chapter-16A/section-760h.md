@@ -3,9 +3,9 @@ title: "Section 760h - Omitted"
 usc_title: 15
 usc_section: "760h"
 chapter: 16
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "15 U.S.C. § 760h"
-generated_at: "2026-03-29T21:40:27.590Z"
+generated_at: "2026-03-29T21:44:40.011Z"
 ---
 
 # §§ 751 to 760h. Omitted

@@ -3,9 +3,9 @@ title: "Section 50302 - Loan guarantees for production of commercial reusable in
 usc_title: 51
 usc_section: "50302"
 chapter: 503
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "51 U.S.C. § 50302"
-generated_at: "2026-03-29T21:43:26.827Z"
+generated_at: "2026-03-29T21:46:44.414Z"
 ---
 
 # § 50302. Loan guarantees for production of commercial reusable in-space transportation

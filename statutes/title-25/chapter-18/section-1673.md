@@ -3,9 +3,9 @@ title: "Section 1673 - Repealed. Pub. L. 102–573, title IX, § 901(4) , Oct. 2
 usc_title: 25
 usc_section: "1673"
 chapter: 18
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "25 U.S.C. § 1673"
-generated_at: "2026-03-29T21:41:18.933Z"
+generated_at: "2026-03-29T21:45:03.768Z"
 ---
 
 # § 1673. Repealed. Pub. L. 102–573, title IX, § 901(4) , Oct. 29, 1992 , 106 Stat. 4591

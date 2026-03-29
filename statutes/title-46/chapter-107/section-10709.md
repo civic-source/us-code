@@ -3,9 +3,9 @@ title: "Section 10709 - Distribution"
 usc_title: 46
 usc_section: "10709"
 chapter: 107
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "46 U.S.C. § 10709"
-generated_at: "2026-03-29T21:43:12.819Z"
+generated_at: "2026-03-29T21:46:31.885Z"
 ---
 
 # § 10709. Distribution

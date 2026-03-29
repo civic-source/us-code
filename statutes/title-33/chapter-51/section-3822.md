@@ -3,9 +3,9 @@ title: "Section 3822 - Declaration"
 usc_title: 33
 usc_section: "3822"
 chapter: 51
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "33 U.S.C. § 3822"
-generated_at: "2026-03-29T21:42:01.954Z"
+generated_at: "2026-03-29T21:45:32.633Z"
 ---
 
 # § 3822. Declaration

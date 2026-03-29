@@ -3,9 +3,9 @@ title: "Section 111 - Repeals as evidence of prior effectiveness"
 usc_title: 1
 usc_section: "111"
 chapter: 2
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "1 U.S.C. § 111"
-generated_at: "2026-03-29T21:39:45.388Z"
+generated_at: "2026-03-29T21:43:49.652Z"
 ---
 
 # § 111. Repeals as evidence of prior effectiveness

@@ -3,9 +3,9 @@ title: "Section 40302 - Definitions"
 usc_title: 51
 usc_section: "40302"
 chapter: 403
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "51 U.S.C. § 40302"
-generated_at: "2026-03-29T21:43:26.825Z"
+generated_at: "2026-03-29T21:46:44.408Z"
 ---
 
 # § 40302. Definitions

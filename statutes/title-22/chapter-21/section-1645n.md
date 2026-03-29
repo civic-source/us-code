@@ -3,9 +3,9 @@ title: "Section 1645n - Applicability of other statutory provisions"
 usc_title: 22
 usc_section: "1645n"
 chapter: 21
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "22 U.S.C. § 1645n"
-generated_at: "2026-03-29T21:41:23.013Z"
+generated_at: "2026-03-29T21:45:09.816Z"
 ---
 
 # § 1645n. Applicability of other statutory provisions

@@ -3,9 +3,9 @@ title: "Section 371b - Rate of interest on time deposits; payment of time deposi
 usc_title: 12
 usc_section: "371b"
 chapter: 3
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "12 U.S.C. § 371b"
-generated_at: "2026-03-29T21:40:42.473Z"
+generated_at: "2026-03-29T21:44:35.652Z"
 ---
 
 # § 371b. Rate of interest on time deposits; payment of time deposits before maturity; waiver of notice requirements for withdrawal of savings deposits

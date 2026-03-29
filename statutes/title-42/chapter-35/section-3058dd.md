@@ -3,9 +3,9 @@ title: "Section 3058dd - Technical assistance"
 usc_title: 42
 usc_section: "3058dd"
 chapter: 35
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "42 U.S.C. § 3058dd"
-generated_at: "2026-03-29T21:43:05.576Z"
+generated_at: "2026-03-29T21:46:25.441Z"
 ---
 
 # § 3058dd. Technical assistance

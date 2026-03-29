@@ -3,9 +3,9 @@ title: "Section 778a - Acquisition of lands; construction of buildings; employme
 usc_title: 16
 usc_section: "778a"
 chapter: 10
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "16 U.S.C. § 778a"
-generated_at: "2026-03-29T21:41:10.700Z"
+generated_at: "2026-03-29T21:44:52.968Z"
 ---
 
 # § 778a. Acquisition of lands; construction of buildings; employment of personnel; cooperation with other agencies; publication of results

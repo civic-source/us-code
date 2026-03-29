@@ -3,9 +3,9 @@ title: "Section 5108 - Acquisition of lands, water rights or surface rights; app
 usc_title: 25
 usc_section: "5108"
 chapter: 45
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "25 U.S.C. § 5108"
-generated_at: "2026-03-29T21:41:18.992Z"
+generated_at: "2026-03-29T21:45:03.831Z"
 ---
 
 # § 5108. Acquisition of lands, water rights or surface rights; appropriation; title to lands; tax exemption

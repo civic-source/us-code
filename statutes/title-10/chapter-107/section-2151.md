@@ -3,9 +3,9 @@ title: "Section 2151 - Definitions"
 usc_title: 10
 usc_section: "2151"
 chapter: 107
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 2151"
-generated_at: "2026-03-29T21:40:11.140Z"
+generated_at: "2026-03-29T21:44:27.133Z"
 ---
 
 # § 2151. Definitions

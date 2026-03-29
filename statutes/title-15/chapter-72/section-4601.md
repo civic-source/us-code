@@ -3,9 +3,9 @@ title: "Section 4601 - Findings, purposes, and definitions"
 usc_title: 15
 usc_section: "4601"
 chapter: 72
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "15 U.S.C. § 4601"
-generated_at: "2026-03-29T21:40:27.727Z"
+generated_at: "2026-03-29T21:44:40.157Z"
 ---
 
 # § 4601. Findings, purposes, and definitions

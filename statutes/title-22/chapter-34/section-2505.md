@@ -3,9 +3,9 @@ title: "Section 2505 - Peace Corps volunteer leaders; number; applicability of c
 usc_title: 22
 usc_section: "2505"
 chapter: 34
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "22 U.S.C. § 2505"
-generated_at: "2026-03-29T21:41:23.067Z"
+generated_at: "2026-03-29T21:45:09.870Z"
 ---
 
 # § 2505. Peace Corps volunteer leaders; number; applicability of chapter; benefits

@@ -3,9 +3,9 @@ title: "Section 44740 - Special rule for certain aircraft operations"
 usc_title: 49
 usc_section: "44740"
 chapter: 447
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "49 U.S.C. § 44740"
-generated_at: "2026-03-29T21:43:24.305Z"
+generated_at: "2026-03-29T21:46:36.162Z"
 ---
 
 # § 44740. Special rule for certain aircraft operations

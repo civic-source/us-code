@@ -3,9 +3,9 @@ title: "Section 2410o - Multiyear procurement authority: purchase of dinitrogen 
 usc_title: 10
 usc_section: "2410o"
 chapter: 141
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 2410o"
-generated_at: "2026-03-29T21:40:11.187Z"
+generated_at: "2026-03-29T21:44:27.170Z"
 ---
 
 # § 2410o. Multiyear procurement authority: purchase of dinitrogen tetroxide, hydrazine, and hydrazine-related products

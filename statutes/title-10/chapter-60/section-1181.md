@@ -3,9 +3,9 @@ title: "Section 1181 - Authority to establish procedures to consider the separat
 usc_title: 10
 usc_section: "1181"
 chapter: 60
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "10 U.S.C. § 1181"
-generated_at: "2026-03-29T21:40:11.100Z"
+generated_at: "2026-03-29T21:44:27.095Z"
 ---
 
 # § 1181. Authority to establish procedures to consider the separation of officers for substandard performance of duty and for certain other reasons

@@ -3,9 +3,9 @@ title: "Section 3005 - Application of chapter to judgments"
 usc_title: 28
 usc_section: "3005"
 chapter: 176
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "28 U.S.C. § 3005"
-generated_at: "2026-03-29T21:41:42.683Z"
+generated_at: "2026-03-29T21:45:15.038Z"
 ---
 
 # § 3005. Application of chapter to judgments

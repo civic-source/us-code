@@ -3,9 +3,9 @@ title: "Section 2799 - Purpose"
 usc_title: 22
 usc_section: "2799"
 chapter: 39
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "22 U.S.C. § 2799"
-generated_at: "2026-03-29T21:41:23.093Z"
+generated_at: "2026-03-29T21:45:09.899Z"
 ---
 
 # § 2799. Purpose

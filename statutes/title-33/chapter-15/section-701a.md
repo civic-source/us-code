@@ -3,9 +3,9 @@ title: "Section 701a - Declaration of policy of 1936 act"
 usc_title: 33
 usc_section: "701a"
 chapter: 15
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "33 U.S.C. § 701a"
-generated_at: "2026-03-29T21:42:01.829Z"
+generated_at: "2026-03-29T21:45:32.495Z"
 ---
 
 # § 701a. Declaration of policy of 1936 act

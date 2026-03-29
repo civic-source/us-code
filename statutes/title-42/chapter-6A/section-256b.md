@@ -3,9 +3,9 @@ title: "Section 256b - Limitation on prices of drugs purchased by covered entiti
 usc_title: 42
 usc_section: "256b"
 chapter: 6
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "42 U.S.C. § 256b"
-generated_at: "2026-03-29T21:43:04.811Z"
+generated_at: "2026-03-29T21:46:24.694Z"
 ---
 
 # § 256b. Limitation on prices of drugs purchased by covered entities

@@ -3,9 +3,9 @@ title: "Section 14912 - Responsibilities of the Secretary of State"
 usc_title: 42
 usc_section: "14912"
 chapter: 143
-current_through: "PL 117-49"
+current_through: "PL 117-50"
 classification: "42 U.S.C. § 14912"
-generated_at: "2026-03-29T21:43:06.025Z"
+generated_at: "2026-03-29T21:46:25.972Z"
 ---
 
 # § 14912. Responsibilities of the Secretary of State
