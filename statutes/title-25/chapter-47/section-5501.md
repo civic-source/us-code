@@ -3,9 +3,9 @@ title: "Section 5501 - Submarginal lands of United States held in trust for spec
 usc_title: 25
 usc_section: "5501"
 chapter: 47
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "25 U.S.C. § 5501"
-generated_at: "2026-03-29T22:04:31.642Z"
+generated_at: "2026-03-29T22:09:21.584Z"
 ---
 
 # § 5501. Submarginal lands of United States held in trust for specified Indian tribes

@@ -3,9 +3,9 @@ title: "Section 8901 - Composition"
 usc_title: 10
 usc_section: "8901"
 chapter: 887
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "10 U.S.C. § 8901"
-generated_at: "2026-03-29T22:03:29.679Z"
+generated_at: "2026-03-29T22:08:02.548Z"
 ---
 
 # § 8901. Composition

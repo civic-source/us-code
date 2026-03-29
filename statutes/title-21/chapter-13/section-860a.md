@@ -3,9 +3,9 @@ title: "Section 860a - Consecutive sentence for manufacturing or distributing, o
 usc_title: 21
 usc_section: "860a"
 chapter: 13
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "21 U.S.C. § 860a"
-generated_at: "2026-03-29T22:04:42.990Z"
+generated_at: "2026-03-29T22:09:23.994Z"
 ---
 
 # § 860a. Consecutive sentence for manufacturing or distributing, or possessing with intent to manufacture or distribute, methamphetamine on premises where children are present or reside

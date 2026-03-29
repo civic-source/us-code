@@ -3,9 +3,9 @@ title: "Section 1421b - Costs of production"
 usc_title: 7
 usc_section: "1421b"
 chapter: 35
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "7 U.S.C. § 1421b"
-generated_at: "2026-03-29T22:03:15.378Z"
+generated_at: "2026-03-29T22:07:50.726Z"
 ---
 
 # § 1421b. Costs of production

@@ -3,9 +3,9 @@ title: "Section 7452 - Cadets: hazing"
 usc_title: 10
 usc_section: "7452"
 chapter: 753
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "10 U.S.C. § 7452"
-generated_at: "2026-03-29T22:03:29.644Z"
+generated_at: "2026-03-29T22:08:02.514Z"
 ---
 
 # § 7452. Cadets: hazing

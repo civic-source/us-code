@@ -3,9 +3,9 @@ title: "Section 1974e - Transferred"
 usc_title: 42
 usc_section: "1974e"
 chapter: 20
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 1974e"
-generated_at: "2026-03-29T22:06:32.589Z"
+generated_at: "2026-03-29T22:10:51.052Z"
 ---
 
 # § 1974e. Transferred

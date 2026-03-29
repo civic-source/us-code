@@ -3,9 +3,9 @@ title: "Section 765 - Retirement for disability"
 usc_title: 33
 usc_section: "765"
 chapter: 16
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "33 U.S.C. § 765"
-generated_at: "2026-03-29T22:05:24.950Z"
+generated_at: "2026-03-29T22:10:07.170Z"
 ---
 
 # § 765. Retirement for disability

@@ -3,9 +3,9 @@ title: "Section 2105 - Placement"
 usc_title: 48
 usc_section: "2105"
 chapter: 20
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "48 U.S.C. § 2105"
-generated_at: "2026-03-29T22:06:38.238Z"
+generated_at: "2026-03-29T22:10:56.366Z"
 ---
 
 # § 2105. Placement

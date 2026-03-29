@@ -3,9 +3,9 @@ title: "Section 3053 - Travel on any common carrier for certain intelligence col
 usc_title: 50
 usc_section: "3053"
 chapter: 44
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "50 U.S.C. § 3053"
-generated_at: "2026-03-29T22:06:44.452Z"
+generated_at: "2026-03-29T22:11:02.191Z"
 ---
 
 # § 3053. Travel on any common carrier for certain intelligence collection personnel

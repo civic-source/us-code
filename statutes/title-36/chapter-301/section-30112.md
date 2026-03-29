@@ -3,9 +3,9 @@ title: "Section 30112 - Distribution of assets on dissolution or final liquidati
 usc_title: 36
 usc_section: "30112"
 chapter: 301
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "36 U.S.C. § 30112"
-generated_at: "2026-03-29T22:05:42.285Z"
+generated_at: "2026-03-29T22:10:11.711Z"
 ---
 
 # § 30112. Distribution of assets on dissolution or final liquidation

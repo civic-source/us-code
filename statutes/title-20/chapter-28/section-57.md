@@ -3,9 +3,9 @@ title: "Section 57 - Additional funds to conduct community service work-study pr
 usc_title: 20
 usc_section: "57"
 chapter: 28
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "20 U.S.C. § 57"
-generated_at: "2026-03-29T22:04:14.187Z"
+generated_at: "2026-03-29T22:08:51.838Z"
 ---
 
 # § 1087–57. Additional funds to conduct community service work-study programs

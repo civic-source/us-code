@@ -3,9 +3,9 @@ title: "Section 854 - Rules, regulations, and forms"
 usc_title: 50
 usc_section: "854"
 chapter: 23
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "50 U.S.C. § 854"
-generated_at: "2026-03-29T22:06:44.375Z"
+generated_at: "2026-03-29T22:11:02.120Z"
 ---
 
 # § 854. Rules, regulations, and forms

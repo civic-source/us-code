@@ -3,9 +3,9 @@ title: "Section 1116 - Annual reports: limitation on number of copies printed; r
 usc_title: 44
 usc_section: "1116"
 chapter: 11
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "44 U.S.C. § 1116"
-generated_at: "2026-03-29T22:05:50.833Z"
+generated_at: "2026-03-29T22:10:22.253Z"
 ---
 
 # § 1116. Annual reports: limitation on number of copies printed; reports of bureau chiefs

@@ -3,9 +3,9 @@ title: "Section 130112 - Annual report"
 usc_title: 36
 usc_section: "130112"
 chapter: 1301
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "36 U.S.C. § 130112"
-generated_at: "2026-03-29T22:05:42.302Z"
+generated_at: "2026-03-29T22:10:11.721Z"
 ---
 
 # § 130112. Annual report

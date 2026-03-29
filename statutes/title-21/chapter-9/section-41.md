@@ -3,9 +3,9 @@ title: "Section 41 - Definitions"
 usc_title: 21
 usc_section: "41"
 chapter: 9
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "21 U.S.C. § 41"
-generated_at: "2026-03-29T22:04:42.934Z"
+generated_at: "2026-03-29T22:09:23.938Z"
 ---
 
 # § 379j–41. Definitions

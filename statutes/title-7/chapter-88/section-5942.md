@@ -3,9 +3,9 @@ title: "Section 5942 - Wheat and feed grains research; regional and national res
 usc_title: 7
 usc_section: "5942"
 chapter: 88
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "7 U.S.C. § 5942"
-generated_at: "2026-03-29T22:03:15.597Z"
+generated_at: "2026-03-29T22:07:50.922Z"
 ---
 
 # § 5942. Wheat and feed grains research; regional and national research programs; utilization of services of Federal, State and private agencies; authorization of appropriations

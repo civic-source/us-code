@@ -3,9 +3,9 @@ title: "Section 3219 - Mailgrams"
 usc_title: 39
 usc_section: "3219"
 chapter: 32
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "39 U.S.C. § 3219"
-generated_at: "2026-03-29T22:05:33.636Z"
+generated_at: "2026-03-29T22:10:09.630Z"
 ---
 
 # § 3219. Mailgrams

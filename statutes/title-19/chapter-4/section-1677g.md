@@ -3,9 +3,9 @@ title: "Section 1677g - Interest on certain overpayments and underpayments"
 usc_title: 19
 usc_section: "1677g"
 chapter: 4
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "19 U.S.C. § 1677g"
-generated_at: "2026-03-29T22:04:07.838Z"
+generated_at: "2026-03-29T22:09:14.202Z"
 ---
 
 # § 1677g. Interest on certain overpayments and underpayments

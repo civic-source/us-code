@@ -3,9 +3,9 @@ title: "Section 197c - Arbitration"
 usc_title: 7
 usc_section: "197c"
 chapter: 9
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "7 U.S.C. § 197c"
-generated_at: "2026-03-29T22:03:15.302Z"
+generated_at: "2026-03-29T22:07:50.667Z"
 ---
 
 # § 197c. Arbitration

@@ -3,9 +3,9 @@ title: "Section 1506 - Personnel files"
 usc_title: 10
 usc_section: "1506"
 chapter: 76
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "10 U.S.C. § 1506"
-generated_at: "2026-03-29T22:03:29.482Z"
+generated_at: "2026-03-29T22:08:02.352Z"
 ---
 
 # § 1506. Personnel files

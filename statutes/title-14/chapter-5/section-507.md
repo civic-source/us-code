@@ -3,9 +3,9 @@ title: "Section 507 - Appointment of judges"
 usc_title: 14
 usc_section: "507"
 chapter: 5
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "14 U.S.C. § 507"
-generated_at: "2026-03-29T22:03:34.051Z"
+generated_at: "2026-03-29T22:08:27.155Z"
 ---
 
 # § 507. Appointment of judges

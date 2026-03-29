@@ -3,9 +3,9 @@ title: "Section 2073 - Domestic distribution of special nuclear material"
 usc_title: 42
 usc_section: "2073"
 chapter: 23
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 2073"
-generated_at: "2026-03-29T22:06:32.615Z"
+generated_at: "2026-03-29T22:10:51.074Z"
 ---
 
 # § 2073. Domestic distribution of special nuclear material

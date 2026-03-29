@@ -3,9 +3,9 @@ title: "Section 1508 - Application to District of Columbia"
 usc_title: 48
 usc_section: "1508"
 chapter: 11
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "48 U.S.C. § 1508"
-generated_at: "2026-03-29T22:06:38.214Z"
+generated_at: "2026-03-29T22:10:56.340Z"
 ---
 
 # § 1508. Application to District of Columbia

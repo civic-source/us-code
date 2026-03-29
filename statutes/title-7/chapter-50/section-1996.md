@@ -3,9 +3,9 @@ title: "Section 1996 - Loans to resident aliens"
 usc_title: 7
 usc_section: "1996"
 chapter: 50
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "7 U.S.C. § 1996"
-generated_at: "2026-03-29T22:03:15.466Z"
+generated_at: "2026-03-29T22:07:50.799Z"
 ---
 
 # § 1996. Loans to resident aliens

@@ -3,9 +3,9 @@ title: "Section 12148 - Public transportation programs and activities in existin
 usc_title: 42
 usc_section: "12148"
 chapter: 126
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 12148"
-generated_at: "2026-03-29T22:06:33.180Z"
+generated_at: "2026-03-29T22:10:51.593Z"
 ---
 
 # § 12148. Public transportation programs and activities in existing facilities and one car per train rule

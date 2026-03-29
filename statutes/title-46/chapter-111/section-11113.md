@@ -3,9 +3,9 @@ title: "Section 11113 - Treatment of abandoned seafarers"
 usc_title: 46
 usc_section: "11113"
 chapter: 111
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "46 U.S.C. § 11113"
-generated_at: "2026-03-29T22:06:41.422Z"
+generated_at: "2026-03-29T22:10:58.207Z"
 ---
 
 # § 11113. Treatment of abandoned seafarers

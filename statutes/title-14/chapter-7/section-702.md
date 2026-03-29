@@ -3,9 +3,9 @@ title: "Section 702 - State Department"
 usc_title: 14
 usc_section: "702"
 chapter: 7
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "14 U.S.C. § 702"
-generated_at: "2026-03-29T22:03:34.053Z"
+generated_at: "2026-03-29T22:08:27.157Z"
 ---
 
 # § 702. State Department

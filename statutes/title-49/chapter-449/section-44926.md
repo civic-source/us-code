@@ -3,9 +3,9 @@ title: "Section 44926 - Appeal and redress process for passengers wrongly delaye
 usc_title: 49
 usc_section: "44926"
 chapter: 449
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "49 U.S.C. § 44926"
-generated_at: "2026-03-29T22:06:49.904Z"
+generated_at: "2026-03-29T22:11:07.062Z"
 ---
 
 # § 44926. Appeal and redress process for passengers wrongly delayed or prohibited from boarding a flight

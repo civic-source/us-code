@@ -3,9 +3,9 @@ title: "Section 1342 - National pollutant discharge elimination system"
 usc_title: 33
 usc_section: "1342"
 chapter: 26
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "33 U.S.C. § 1342"
-generated_at: "2026-03-29T22:05:25.023Z"
+generated_at: "2026-03-29T22:10:07.233Z"
 ---
 
 # § 1342. National pollutant discharge elimination system

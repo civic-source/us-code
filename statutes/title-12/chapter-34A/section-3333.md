@@ -3,9 +3,9 @@ title: "Section 3333 - Chairperson of Appraisal Subcommittee; term of Chairperso
 usc_title: 12
 usc_section: "3333"
 chapter: 34
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "12 U.S.C. § 3333"
-generated_at: "2026-03-29T22:03:47.066Z"
+generated_at: "2026-03-29T22:08:33.345Z"
 ---
 
 # § 3333. Chairperson of Appraisal Subcommittee; term of Chairperson; meetings

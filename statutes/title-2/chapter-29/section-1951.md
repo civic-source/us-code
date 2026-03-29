@@ -3,9 +3,9 @@ title: "Section 1951 - Establishment of United States Capitol Police Memorial Fu
 usc_title: 2
 usc_section: "1951"
 chapter: 29
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "2 U.S.C. § 1951"
-generated_at: "2026-03-29T22:03:02.458Z"
+generated_at: "2026-03-29T22:07:21.625Z"
 ---
 
 # § 1951. Establishment of United States Capitol Police Memorial Fund

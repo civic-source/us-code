@@ -3,9 +3,9 @@ title: "Section 3191 - Management plans"
 usc_title: 16
 usc_section: "3191"
 chapter: 51
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "16 U.S.C. § 3191"
-generated_at: "2026-03-29T22:04:21.749Z"
+generated_at: "2026-03-29T22:08:58.814Z"
 ---
 
 # § 3191. Management plans

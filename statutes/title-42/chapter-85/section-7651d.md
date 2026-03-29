@@ -3,9 +3,9 @@ title: "Section 7651d - Phase II sulfur dioxide requirements"
 usc_title: 42
 usc_section: "7651d"
 chapter: 85
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 7651d"
-generated_at: "2026-03-29T22:06:32.985Z"
+generated_at: "2026-03-29T22:10:51.442Z"
 ---
 
 # § 7651d. Phase II sulfur dioxide requirements

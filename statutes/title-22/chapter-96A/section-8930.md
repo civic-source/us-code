@@ -3,9 +3,9 @@ title: "Section 8930 - Rule of construction"
 usc_title: 22
 usc_section: "8930"
 chapter: 96
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "22 U.S.C. § 8930"
-generated_at: "2026-03-29T22:04:38.628Z"
+generated_at: "2026-03-29T22:09:30.007Z"
 ---
 
 # § 8930. Rule of construction

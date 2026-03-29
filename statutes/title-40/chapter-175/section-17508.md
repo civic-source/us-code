@@ -3,9 +3,9 @@ title: "Section 17508 - Compliance"
 usc_title: 40
 usc_section: "17508"
 chapter: 175
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "40 U.S.C. § 17508"
-generated_at: "2026-03-29T22:05:34.889Z"
+generated_at: "2026-03-29T22:10:19.013Z"
 ---
 
 # § 17508. Compliance

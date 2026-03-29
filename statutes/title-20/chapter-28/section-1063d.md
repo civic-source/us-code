@@ -3,9 +3,9 @@ title: "Section 1063d - Strengthening HBCUS through Federal agency plans"
 usc_title: 20
 usc_section: "1063d"
 chapter: 28
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "20 U.S.C. § 1063d"
-generated_at: "2026-03-29T22:04:14.132Z"
+generated_at: "2026-03-29T22:08:51.787Z"
 ---
 
 # § 1063d. Strengthening HBCUS through Federal agency plans

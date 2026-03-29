@@ -3,9 +3,9 @@ title: "Section 8465 - Waiver, allotment, and assignment of benefits"
 usc_title: 5
 usc_section: "8465"
 chapter: 84
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "5 U.S.C. § 8465"
-generated_at: "2026-03-29T22:02:55.921Z"
+generated_at: "2026-03-29T22:07:27.583Z"
 ---
 
 # § 8465. Waiver, allotment, and assignment of benefits

@@ -3,9 +3,9 @@ title: "Section 6225 - Partnership adjustment by Secretary"
 usc_title: 26
 usc_section: "6225"
 chapter: 63
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "26 U.S.C. § 6225"
-generated_at: "2026-03-29T22:05:10.760Z"
+generated_at: "2026-03-29T22:09:58.052Z"
 ---
 
 # § 6225. Partnership adjustment by Secretary

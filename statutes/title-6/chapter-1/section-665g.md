@@ -3,9 +3,9 @@ title: "Section 665g - State and local cybersecurity grant program"
 usc_title: 6
 usc_section: "665g"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "6 U.S.C. § 665g"
-generated_at: "2026-03-29T22:03:07.698Z"
+generated_at: "2026-03-29T22:07:40.108Z"
 ---
 
 # § 665g. State and local cybersecurity grant program

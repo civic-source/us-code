@@ -3,9 +3,9 @@ title: "Section 5347 - Reimbursement to school districts for educating non-resid
 usc_title: 25
 usc_section: "5347"
 chapter: 46
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "25 U.S.C. § 5347"
-generated_at: "2026-03-29T22:04:31.630Z"
+generated_at: "2026-03-29T22:09:21.497Z"
 ---
 
 # § 5347. Reimbursement to school districts for educating non-resident students

@@ -3,9 +3,9 @@ title: "Section 428b - Transferred"
 usc_title: 7
 usc_section: "428b"
 chapter: 17
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "7 U.S.C. § 428b"
-generated_at: "2026-03-29T22:03:15.317Z"
+generated_at: "2026-03-29T22:07:50.678Z"
 ---
 
 # § 428b. Transferred

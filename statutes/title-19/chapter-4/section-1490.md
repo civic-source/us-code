@@ -3,9 +3,9 @@ title: "Section 1490 - General orders"
 usc_title: 19
 usc_section: "1490"
 chapter: 4
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "19 U.S.C. § 1490"
-generated_at: "2026-03-29T22:04:07.791Z"
+generated_at: "2026-03-29T22:09:14.163Z"
 ---
 
 # § 1490. General orders

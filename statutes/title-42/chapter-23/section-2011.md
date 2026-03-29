@@ -3,9 +3,9 @@ title: "Section 2011 - Congressional declaration of policy"
 usc_title: 42
 usc_section: "2011"
 chapter: 23
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 2011"
-generated_at: "2026-03-29T22:06:32.609Z"
+generated_at: "2026-03-29T22:10:51.068Z"
 ---
 
 # § 2011. Congressional declaration of policy

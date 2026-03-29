@@ -3,9 +3,9 @@ title: "Section 247 - Contributions to Alaska Native Settlement Trusts"
 usc_title: 26
 usc_section: "247"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "26 U.S.C. § 247"
-generated_at: "2026-03-29T22:05:10.383Z"
+generated_at: "2026-03-29T22:09:57.696Z"
 ---
 
 # § 247. Contributions to Alaska Native Settlement Trusts

@@ -3,9 +3,9 @@ title: "Section 2343 - Waiver of applicability of certain laws"
 usc_title: 10
 usc_section: "2343"
 chapter: 138
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "10 U.S.C. § 2343"
-generated_at: "2026-03-29T22:03:29.530Z"
+generated_at: "2026-03-29T22:08:02.399Z"
 ---
 
 # § 2343. Waiver of applicability of certain laws

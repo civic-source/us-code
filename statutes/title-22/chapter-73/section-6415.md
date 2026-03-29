@@ -3,9 +3,9 @@ title: "Section 6415 - Programs and allocations of funds by United States missio
 usc_title: 22
 usc_section: "6415"
 chapter: 73
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "22 U.S.C. § 6415"
-generated_at: "2026-03-29T22:04:38.545Z"
+generated_at: "2026-03-29T22:09:29.931Z"
 ---
 
 # § 6415. Programs and allocations of funds by United States missions abroad

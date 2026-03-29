@@ -3,9 +3,9 @@ title: "Section 147 - Other requirements applicable to certain private activity 
 usc_title: 26
 usc_section: "147"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "26 U.S.C. § 147"
-generated_at: "2026-03-29T22:05:10.342Z"
+generated_at: "2026-03-29T22:09:57.654Z"
 ---
 
 # § 147. Other requirements applicable to certain private activity bonds

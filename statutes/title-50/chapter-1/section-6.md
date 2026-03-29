@@ -3,9 +3,9 @@ title: "Section 6 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Sta
 usc_title: 50
 usc_section: "6"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "50 U.S.C. § 6"
-generated_at: "2026-03-29T22:06:44.360Z"
+generated_at: "2026-03-29T22:11:02.105Z"
 ---
 
 # § 6. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 644

@@ -3,9 +3,9 @@ title: "Section 227a - Omitted"
 usc_title: 42
 usc_section: "227a"
 chapter: 6
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 227a"
-generated_at: "2026-03-29T22:06:31.781Z"
+generated_at: "2026-03-29T22:10:50.196Z"
 ---
 
 # § 227a. Omitted

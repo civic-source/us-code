@@ -3,9 +3,9 @@ title: "Section 9502 - Pay authority for critical positions"
 usc_title: 5
 usc_section: "9502"
 chapter: 95
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "5 U.S.C. § 9502"
-generated_at: "2026-03-29T22:02:55.939Z"
+generated_at: "2026-03-29T22:07:27.598Z"
 ---
 
 # § 9502. Pay authority for critical positions

@@ -3,9 +3,9 @@ title: "Section 814 - Removal of exemption of certain drugs"
 usc_title: 21
 usc_section: "814"
 chapter: 13
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "21 U.S.C. § 814"
-generated_at: "2026-03-29T22:04:42.980Z"
+generated_at: "2026-03-29T22:09:23.983Z"
 ---
 
 # § 814. Removal of exemption of certain drugs

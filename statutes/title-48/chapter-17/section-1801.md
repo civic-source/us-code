@@ -3,9 +3,9 @@ title: "Section 1801 - Approval of Covenant to Establish a Commonwealth of the N
 usc_title: 48
 usc_section: "1801"
 chapter: 17
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "48 U.S.C. § 1801"
-generated_at: "2026-03-29T22:06:38.221Z"
+generated_at: "2026-03-29T22:10:56.346Z"
 ---
 
 # § 1801. Approval of Covenant to Establish a Commonwealth of the Northern Mariana Islands

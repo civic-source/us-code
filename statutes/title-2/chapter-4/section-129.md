@@ -3,9 +3,9 @@ title: "Section 129 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 S
 usc_title: 2
 usc_section: "129"
 chapter: 4
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "2 U.S.C. § 129"
-generated_at: "2026-03-29T22:03:02.372Z"
+generated_at: "2026-03-29T22:07:21.540Z"
 ---
 
 # §§ 128, 129. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 658 , 659

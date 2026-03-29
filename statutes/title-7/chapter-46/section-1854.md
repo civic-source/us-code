@@ -3,9 +3,9 @@ title: "Section 1854 - Agreements limiting imports"
 usc_title: 7
 usc_section: "1854"
 chapter: 46
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "7 U.S.C. § 1854"
-generated_at: "2026-03-29T22:03:15.445Z"
+generated_at: "2026-03-29T22:07:50.783Z"
 ---
 
 # § 1854. Agreements limiting imports

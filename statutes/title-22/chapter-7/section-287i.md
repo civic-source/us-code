@@ -3,9 +3,9 @@ title: "Section 287i - Deduction of principal and interest from annual payment o
 usc_title: 22
 usc_section: "287i"
 chapter: 7
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "22 U.S.C. § 287i"
-generated_at: "2026-03-29T22:04:38.329Z"
+generated_at: "2026-03-29T22:09:29.690Z"
 ---
 
 # § 287i. Deduction of principal and interest from annual payment of assessed share of United States of budget

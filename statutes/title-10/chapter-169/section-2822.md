@@ -3,9 +3,9 @@ title: "Section 2822 - Requirement for authorization of number of family housing
 usc_title: 10
 usc_section: "2822"
 chapter: 169
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "10 U.S.C. § 2822"
-generated_at: "2026-03-29T22:03:29.572Z"
+generated_at: "2026-03-29T22:08:02.439Z"
 ---
 
 # § 2822. Requirement for authorization of number of family housing units

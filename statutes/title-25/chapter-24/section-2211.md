@@ -3,9 +3,9 @@ title: "Section 2211 - Governing body of tribe; construction of chapter as not v
 usc_title: 25
 usc_section: "2211"
 chapter: 24
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "25 U.S.C. § 2211"
-generated_at: "2026-03-29T22:04:31.561Z"
+generated_at: "2026-03-29T22:09:21.430Z"
 ---
 
 # § 2211. Governing body of tribe; construction of chapter as not vesting with authority not authorized by tribal constitution or by-laws

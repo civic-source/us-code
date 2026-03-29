@@ -3,9 +3,9 @@ title: "Section 70 - Obstruction of revenue officers by masters of vessels"
 usc_title: 19
 usc_section: "70"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "19 U.S.C. § 70"
-generated_at: "2026-03-29T22:04:07.764Z"
+generated_at: "2026-03-29T22:09:14.141Z"
 ---
 
 # § 70. Obstruction of revenue officers by masters of vessels

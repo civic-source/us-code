@@ -3,9 +3,9 @@ title: "Section 2200b - Grant program"
 usc_title: 10
 usc_section: "2200b"
 chapter: 112
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "10 U.S.C. § 2200b"
-generated_at: "2026-03-29T22:03:29.516Z"
+generated_at: "2026-03-29T22:08:02.388Z"
 ---
 
 # § 2200b. Grant program

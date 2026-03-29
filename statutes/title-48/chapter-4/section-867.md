@@ -3,9 +3,9 @@ title: "Section 867 - Repealed. Pub. L. 90–274, § 103(g) , Mar. 27, 1968 , 82
 usc_title: 48
 usc_section: "867"
 chapter: 4
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "48 U.S.C. § 867"
-generated_at: "2026-03-29T22:06:38.201Z"
+generated_at: "2026-03-29T22:10:56.325Z"
 ---
 
 # § 867. Repealed. Pub. L. 90–274, § 103(g) , Mar. 27, 1968 , 82 Stat. 63

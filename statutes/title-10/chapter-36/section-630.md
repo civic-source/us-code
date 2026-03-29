@@ -3,9 +3,9 @@ title: "Section 630 - Discharge of commissioned officers with less than six year
 usc_title: 10
 usc_section: "630"
 chapter: 36
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "10 U.S.C. § 630"
-generated_at: "2026-03-29T22:03:29.385Z"
+generated_at: "2026-03-29T22:08:02.252Z"
 ---
 
 # § 630. Discharge of commissioned officers with less than six years of active commissioned service or found not qualified for promotion for first lieutenant or lieutenant (junior grade)

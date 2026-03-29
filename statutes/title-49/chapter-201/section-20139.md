@@ -3,9 +3,9 @@ title: "Section 20139 - Maintenance-of-way operations on railroad bridges"
 usc_title: 49
 usc_section: "20139"
 chapter: 201
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "49 U.S.C. § 20139"
-generated_at: "2026-03-29T22:06:49.762Z"
+generated_at: "2026-03-29T22:11:06.940Z"
 ---
 
 # § 20139. Maintenance-of-way operations on railroad bridges

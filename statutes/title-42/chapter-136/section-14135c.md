@@ -3,9 +3,9 @@ title: "Section 14135c - Transferred"
 usc_title: 42
 usc_section: "14135c"
 chapter: 136
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 14135c"
-generated_at: "2026-03-29T22:06:33.270Z"
+generated_at: "2026-03-29T22:10:51.660Z"
 ---
 
 # § 14135c. Transferred

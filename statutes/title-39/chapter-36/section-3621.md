@@ -3,9 +3,9 @@ title: "Section 3621 - Applicability; definitions"
 usc_title: 39
 usc_section: "3621"
 chapter: 36
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "39 U.S.C. § 3621"
-generated_at: "2026-03-29T22:05:33.636Z"
+generated_at: "2026-03-29T22:10:09.630Z"
 ---
 
 # § 3621. Applicability; definitions

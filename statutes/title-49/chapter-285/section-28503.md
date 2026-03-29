@@ -3,9 +3,9 @@ title: "Section 28503 - Surface Transportation Board mediation of rights-of-way 
 usc_title: 49
 usc_section: "28503"
 chapter: 285
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "49 U.S.C. § 28503"
-generated_at: "2026-03-29T22:06:49.796Z"
+generated_at: "2026-03-29T22:11:06.972Z"
 ---
 
 # § 28503. Surface Transportation Board mediation of rights-of-way use requests

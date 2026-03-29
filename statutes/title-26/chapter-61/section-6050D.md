@@ -3,9 +3,9 @@ title: "Section 6050D - Returns relating to energy grants and financing"
 usc_title: 26
 usc_section: "6050D"
 chapter: 61
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "26 U.S.C. § 6050D"
-generated_at: "2026-03-29T22:05:10.741Z"
+generated_at: "2026-03-29T22:09:58.030Z"
 ---
 
 # § 6050D. Returns relating to energy grants and financing

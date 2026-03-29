@@ -3,9 +3,9 @@ title: "Section 17 - Penalty for sale or introduction of falsely labeled dairy o
 usc_title: 21
 usc_section: "17"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "21 U.S.C. § 17"
-generated_at: "2026-03-29T22:04:42.811Z"
+generated_at: "2026-03-29T22:09:23.827Z"
 ---
 
 # § 17. Penalty for sale or introduction of falsely labeled dairy or food products; venue

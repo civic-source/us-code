@@ -3,9 +3,9 @@ title: "Section 1712 - Dental care; drugs and medicines for certain disabled vet
 usc_title: 38
 usc_section: "1712"
 chapter: 17
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "38 U.S.C. § 1712"
-generated_at: "2026-03-29T22:05:48.038Z"
+generated_at: "2026-03-29T22:10:17.893Z"
 ---
 
 # § 1712. Dental care; drugs and medicines for certain disabled veterans; vaccines

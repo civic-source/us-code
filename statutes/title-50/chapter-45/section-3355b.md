@@ -3,9 +3,9 @@ title: "Section 3355b - Identification, collection, and review for declassificat
 usc_title: 50
 usc_section: "3355b"
 chapter: 45
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "50 U.S.C. § 3355b"
-generated_at: "2026-03-29T22:06:44.475Z"
+generated_at: "2026-03-29T22:11:02.220Z"
 ---
 
 # § 3355b. Identification, collection, and review for declassification of information of archival value or extraordinary public interest

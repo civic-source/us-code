@@ -3,9 +3,9 @@ title: "Section 1095 - Transfer of allotments"
 usc_title: 20
 usc_section: "1095"
 chapter: 28
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "20 U.S.C. § 1095"
-generated_at: "2026-03-29T22:04:14.216Z"
+generated_at: "2026-03-29T22:08:51.871Z"
 ---
 
 # § 1095. Transfer of allotments

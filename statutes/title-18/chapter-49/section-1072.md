@@ -3,9 +3,9 @@ title: "Section 1072 - Concealing escaped prisoner"
 usc_title: 18
 usc_section: "1072"
 chapter: 49
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "18 U.S.C. § 1072"
-generated_at: "2026-03-29T22:04:03.394Z"
+generated_at: "2026-03-29T22:08:40.287Z"
 ---
 
 # § 1072. Concealing escaped prisoner

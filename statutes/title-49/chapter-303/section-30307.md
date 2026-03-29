@@ -3,9 +3,9 @@ title: "Section 30307 - Criminal penalties"
 usc_title: 49
 usc_section: "30307"
 chapter: 303
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "49 U.S.C. § 30307"
-generated_at: "2026-03-29T22:06:49.810Z"
+generated_at: "2026-03-29T22:11:06.984Z"
 ---
 
 # § 30307. Criminal penalties

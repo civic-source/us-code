@@ -3,9 +3,9 @@ title: "Section 7422 - Listing of certain unregulated pollutants"
 usc_title: 42
 usc_section: "7422"
 chapter: 85
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 7422"
-generated_at: "2026-03-29T22:06:32.943Z"
+generated_at: "2026-03-29T22:10:51.402Z"
 ---
 
 # § 7422. Listing of certain unregulated pollutants

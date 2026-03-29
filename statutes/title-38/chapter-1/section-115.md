@@ -3,9 +3,9 @@ title: "Section 115 - Acquisition of real property"
 usc_title: 38
 usc_section: "115"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "38 U.S.C. § 115"
-generated_at: "2026-03-29T22:05:48.002Z"
+generated_at: "2026-03-29T22:10:17.864Z"
 ---
 
 # § 115. Acquisition of real property

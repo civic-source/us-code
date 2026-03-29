@@ -3,9 +3,9 @@ title: "Section 243 - General grant of authority for cooperation"
 usc_title: 42
 usc_section: "243"
 chapter: 6
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 243"
-generated_at: "2026-03-29T22:06:31.791Z"
+generated_at: "2026-03-29T22:10:50.207Z"
 ---
 
 # § 243. General grant of authority for cooperation

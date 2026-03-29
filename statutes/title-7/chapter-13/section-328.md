@@ -3,9 +3,9 @@ title: "Section 328 - Power to amend, repeal, etc., reserved"
 usc_title: 7
 usc_section: "328"
 chapter: 13
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "7 U.S.C. § 328"
-generated_at: "2026-03-29T22:03:15.311Z"
+generated_at: "2026-03-29T22:07:50.673Z"
 ---
 
 # § 328. Power to amend, repeal, etc., reserved

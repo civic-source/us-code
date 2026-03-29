@@ -3,9 +3,9 @@ title: "Section 1228c - Disclosure requirements"
 usc_title: 20
 usc_section: "1228c"
 chapter: 31
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "20 U.S.C. § 1228c"
-generated_at: "2026-03-29T22:04:14.256Z"
+generated_at: "2026-03-29T22:08:51.906Z"
 ---
 
 # § 1228c. Disclosure requirements

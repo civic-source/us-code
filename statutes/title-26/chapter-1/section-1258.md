@@ -3,9 +3,9 @@ title: "Section 1258 - Recharacterization of gain from certain financial transac
 usc_title: 26
 usc_section: "1258"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "26 U.S.C. § 1258"
-generated_at: "2026-03-29T22:05:10.610Z"
+generated_at: "2026-03-29T22:09:57.896Z"
 ---
 
 # § 1258. Recharacterization of gain from certain financial transactions

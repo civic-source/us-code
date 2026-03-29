@@ -3,9 +3,9 @@ title: "Section 248b - Omitted"
 usc_title: 48
 usc_section: "248b"
 chapter: 2
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "48 U.S.C. § 248b"
-generated_at: "2026-03-29T22:06:38.198Z"
+generated_at: "2026-03-29T22:10:56.322Z"
 ---
 
 # §§ 241 to 248b. Omitted

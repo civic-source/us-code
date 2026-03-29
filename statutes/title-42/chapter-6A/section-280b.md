@@ -3,9 +3,9 @@ title: "Section 280b - Research"
 usc_title: 42
 usc_section: "280b"
 chapter: 6
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 280b"
-generated_at: "2026-03-29T22:06:31.848Z"
+generated_at: "2026-03-29T22:10:50.285Z"
 ---
 
 # § 280b. Research

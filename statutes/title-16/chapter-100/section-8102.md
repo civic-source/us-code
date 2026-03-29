@@ -3,9 +3,9 @@ title: "Section 8102 - Nutria eradication program"
 usc_title: 16
 usc_section: "8102"
 chapter: 100
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "16 U.S.C. § 8102"
-generated_at: "2026-03-29T22:04:21.890Z"
+generated_at: "2026-03-29T22:08:58.923Z"
 ---
 
 # § 8102. Nutria eradication program

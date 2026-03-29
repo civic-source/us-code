@@ -3,9 +3,9 @@ title: "Section 2036 - Grants to support science, technology, engineering, and m
 usc_title: 10
 usc_section: "2036"
 chapter: 102
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "10 U.S.C. § 2036"
-generated_at: "2026-03-29T22:03:29.506Z"
+generated_at: "2026-03-29T22:08:02.377Z"
 ---
 
 # § 2036. Grants to support science, technology, engineering, and mathematics education

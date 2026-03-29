@@ -3,9 +3,9 @@ title: "Section 36c - National Suicide Prevention Lifeline program"
 usc_title: 42
 usc_section: "36c"
 chapter: 6
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 36c"
-generated_at: "2026-03-29T22:06:31.908Z"
+generated_at: "2026-03-29T22:10:50.366Z"
 ---
 
 # § 290bb–36c. National Suicide Prevention Lifeline program

@@ -3,9 +3,9 @@ title: "Section 11041 - Relationship to other law"
 usc_title: 42
 usc_section: "11041"
 chapter: 116
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 11041"
-generated_at: "2026-03-29T22:06:33.147Z"
+generated_at: "2026-03-29T22:10:51.564Z"
 ---
 
 # § 11041. Relationship to other law

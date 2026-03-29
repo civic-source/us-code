@@ -3,9 +3,9 @@ title: "Section 1468b - Powers of examiners"
 usc_title: 12
 usc_section: "1468b"
 chapter: 12
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "12 U.S.C. § 1468b"
-generated_at: "2026-03-29T22:03:46.852Z"
+generated_at: "2026-03-29T22:08:33.160Z"
 ---
 
 # § 1468b. Powers of examiners

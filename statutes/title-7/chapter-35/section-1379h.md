@@ -3,9 +3,9 @@ title: "Section 1379h - Applicability of provisions to designated persons; repor
 usc_title: 7
 usc_section: "1379h"
 chapter: 35
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "7 U.S.C. § 1379h"
-generated_at: "2026-03-29T22:03:15.377Z"
+generated_at: "2026-03-29T22:07:50.725Z"
 ---
 
 # § 1379h. Applicability of provisions to designated persons; reports and records; examinations by the Secretary

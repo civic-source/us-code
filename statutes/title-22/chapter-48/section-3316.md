@@ -3,9 +3,9 @@ title: "Section 3316 - Severability"
 usc_title: 22
 usc_section: "3316"
 chapter: 48
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "22 U.S.C. § 3316"
-generated_at: "2026-03-29T22:04:38.466Z"
+generated_at: "2026-03-29T22:09:29.848Z"
 ---
 
 # § 3316. Severability

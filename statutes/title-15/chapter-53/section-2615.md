@@ -3,9 +3,9 @@ title: "Section 2615 - Penalties"
 usc_title: 15
 usc_section: "2615"
 chapter: 53
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "15 U.S.C. § 2615"
-generated_at: "2026-03-29T22:03:57.131Z"
+generated_at: "2026-03-29T22:08:24.951Z"
 ---
 
 # § 2615. Penalties

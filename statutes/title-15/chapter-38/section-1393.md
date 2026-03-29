@@ -3,9 +3,9 @@ title: "Section 1393 - Repealed. Pub. L. 93–492, title I, § 107(b) , Oct. 27,
 usc_title: 15
 usc_section: "1393"
 chapter: 38
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "15 U.S.C. § 1393"
-generated_at: "2026-03-29T22:03:57.016Z"
+generated_at: "2026-03-29T22:08:24.846Z"
 ---
 
 # § 1393. Repealed. Pub. L. 93–492, title I, § 107(b) , Oct. 27, 1974 , 88 Stat. 1482

@@ -3,9 +3,9 @@ title: "Section 3106 - Elements of the defense acquisition system: performance g
 usc_title: 10
 usc_section: "3106"
 chapter: 205
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "10 U.S.C. § 3106"
-generated_at: "2026-03-29T22:03:29.588Z"
+generated_at: "2026-03-29T22:08:02.456Z"
 ---
 
 # § 3106. Elements of the defense acquisition system: performance goals

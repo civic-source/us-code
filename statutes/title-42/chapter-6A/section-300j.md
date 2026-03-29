@@ -3,9 +3,9 @@ title: "Section 300j - Assurances of availability of adequate supplies of chemic
 usc_title: 42
 usc_section: "300j"
 chapter: 6
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 300j"
-generated_at: "2026-03-29T22:06:31.981Z"
+generated_at: "2026-03-29T22:10:50.446Z"
 ---
 
 # § 300j. Assurances of availability of adequate supplies of chemicals necessary for treatment of water

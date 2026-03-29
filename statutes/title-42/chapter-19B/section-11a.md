@@ -3,9 +3,9 @@ title: "Section 11a - Potomac River water diversion structure"
 usc_title: 42
 usc_section: "11a"
 chapter: 19
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 11a"
-generated_at: "2026-03-29T22:06:32.586Z"
+generated_at: "2026-03-29T22:10:51.049Z"
 ---
 
 # § 1962d–11a. Potomac River water diversion structure

@@ -3,9 +3,9 @@ title: "Section 6202 - Investigations to assist foreign antitrust authority in o
 usc_title: 15
 usc_section: "6202"
 chapter: 88
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "15 U.S.C. § 6202"
-generated_at: "2026-03-29T22:03:57.223Z"
+generated_at: "2026-03-29T22:08:25.040Z"
 ---
 
 # § 6202. Investigations to assist foreign antitrust authority in obtaining antitrust evidence

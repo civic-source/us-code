@@ -3,9 +3,9 @@ title: "Section 8722 - Administration"
 usc_title: 10
 usc_section: "8722"
 chapter: 869
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "10 U.S.C. § 8722"
-generated_at: "2026-03-29T22:03:29.674Z"
+generated_at: "2026-03-29T22:08:02.543Z"
 ---
 
 # § 8722. Administration

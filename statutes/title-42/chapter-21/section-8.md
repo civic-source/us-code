@@ -3,9 +3,9 @@ title: "Section 8 - Investigations"
 usc_title: 42
 usc_section: "8"
 chapter: 21
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-29T22:06:32.598Z"
+generated_at: "2026-03-29T22:10:51.058Z"
 ---
 
 # § 2000e–8. Investigations

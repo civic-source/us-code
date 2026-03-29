@@ -3,9 +3,9 @@ title: "Section 3305 - Programs for corrections education and other institutiona
 usc_title: 29
 usc_section: "3305"
 chapter: 32
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "29 U.S.C. § 3305"
-generated_at: "2026-03-29T22:04:49.131Z"
+generated_at: "2026-03-29T22:09:39.077Z"
 ---
 
 # § 3305. Programs for corrections education and other institutionalized individuals

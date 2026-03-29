@@ -3,9 +3,9 @@ title: "Section 2102 - Private enforcement"
 usc_title: 15
 usc_section: "2102"
 chapter: 48
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "15 U.S.C. § 2102"
-generated_at: "2026-03-29T22:03:57.106Z"
+generated_at: "2026-03-29T22:08:24.926Z"
 ---
 
 # § 2102. Private enforcement

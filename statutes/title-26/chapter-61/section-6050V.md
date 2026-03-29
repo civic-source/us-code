@@ -3,9 +3,9 @@ title: "Section 6050V - Returns relating to applicable insurance contracts in wh
 usc_title: 26
 usc_section: "6050V"
 chapter: 61
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "26 U.S.C. § 6050V"
-generated_at: "2026-03-29T22:05:10.742Z"
+generated_at: "2026-03-29T22:09:58.032Z"
 ---
 
 # § 6050V. Returns relating to applicable insurance contracts in which certain exempt organizations hold interests

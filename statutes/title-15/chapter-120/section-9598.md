@@ -3,9 +3,9 @@ title: "Section 9598 - Authorization of appropriations"
 usc_title: 15
 usc_section: "9598"
 chapter: 120
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "15 U.S.C. § 9598"
-generated_at: "2026-03-29T22:03:57.338Z"
+generated_at: "2026-03-29T22:08:25.134Z"
 ---
 
 # § 9598. Authorization of appropriations

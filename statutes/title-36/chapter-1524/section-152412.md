@@ -3,9 +3,9 @@ title: "Section 152412 - Annual report"
 usc_title: 36
 usc_section: "152412"
 chapter: 1524
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "36 U.S.C. § 152412"
-generated_at: "2026-03-29T22:05:42.311Z"
+generated_at: "2026-03-29T22:10:11.732Z"
 ---
 
 # § 152412. Annual report

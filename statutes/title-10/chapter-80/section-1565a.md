@@ -3,9 +3,9 @@ title: "Section 1565a - DNA samples maintained for identification of human remai
 usc_title: 10
 usc_section: "1565a"
 chapter: 80
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "10 U.S.C. § 1565a"
-generated_at: "2026-03-29T22:03:29.488Z"
+generated_at: "2026-03-29T22:08:02.358Z"
 ---
 
 # § 1565a. DNA samples maintained for identification of human remains: use for law enforcement purposes

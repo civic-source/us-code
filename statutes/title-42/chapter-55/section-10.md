@@ -3,9 +3,9 @@ title: "Section 10 - GAO report"
 usc_title: 42
 usc_section: "10"
 chapter: 55
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-29T22:06:32.740Z"
+generated_at: "2026-03-29T22:10:51.187Z"
 ---
 
 # § 4370m–10. GAO report

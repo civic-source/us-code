@@ -3,9 +3,9 @@ title: "Section 2704 - Department of Energy defense nuclear facilities workforce
 usc_title: 50
 usc_section: "2704"
 chapter: 42
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "50 U.S.C. § 2704"
-generated_at: "2026-03-29T22:06:44.433Z"
+generated_at: "2026-03-29T22:11:02.173Z"
 ---
 
 # § 2704. Department of Energy defense nuclear facilities workforce restructuring plan

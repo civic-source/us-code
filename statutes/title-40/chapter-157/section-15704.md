@@ -3,9 +3,9 @@ title: "Section 15704 - Inspector General; records"
 usc_title: 40
 usc_section: "15704"
 chapter: 157
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "40 U.S.C. § 15704"
-generated_at: "2026-03-29T22:05:34.888Z"
+generated_at: "2026-03-29T22:10:19.012Z"
 ---
 
 # § 15704. Inspector General; records

@@ -3,9 +3,9 @@ title: "Section 7221c - Facilities financing assistance"
 usc_title: 20
 usc_section: "7221c"
 chapter: 70
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "20 U.S.C. § 7221c"
-generated_at: "2026-03-29T22:04:14.379Z"
+generated_at: "2026-03-29T22:08:52.026Z"
 ---
 
 # § 7221c. Facilities financing assistance

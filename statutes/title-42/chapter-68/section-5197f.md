@@ -3,9 +3,9 @@ title: "Section 5197f - Relation to Atomic Energy Act of 1954"
 usc_title: 42
 usc_section: "5197f"
 chapter: 68
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 5197f"
-generated_at: "2026-03-29T22:06:32.790Z"
+generated_at: "2026-03-29T22:10:51.234Z"
 ---
 
 # § 5197f. Relation to Atomic Energy Act of 1954

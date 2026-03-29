@@ -3,9 +3,9 @@ title: "Section 136n - Administrative procedure; judicial review"
 usc_title: 7
 usc_section: "136n"
 chapter: 6
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "7 U.S.C. § 136n"
-generated_at: "2026-03-29T22:03:15.264Z"
+generated_at: "2026-03-29T22:07:50.640Z"
 ---
 
 # § 136n. Administrative procedure; judicial review

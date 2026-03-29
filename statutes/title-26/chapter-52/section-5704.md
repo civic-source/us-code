@@ -3,9 +3,9 @@ title: "Section 5704 - Exemption from tax"
 usc_title: 26
 usc_section: "5704"
 chapter: 52
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "26 U.S.C. § 5704"
-generated_at: "2026-03-29T22:05:10.727Z"
+generated_at: "2026-03-29T22:09:58.014Z"
 ---
 
 # § 5704. Exemption from tax

@@ -3,9 +3,9 @@ title: "Section 7454 - Physician assistants and other health care professionals:
 usc_title: 38
 usc_section: "7454"
 chapter: 74
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "38 U.S.C. § 7454"
-generated_at: "2026-03-29T22:05:48.176Z"
+generated_at: "2026-03-29T22:10:17.997Z"
 ---
 
 # § 7454. Physician assistants and other health care professionals: additional pay

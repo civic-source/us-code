@@ -3,9 +3,9 @@ title: "Section 10462 - Applications"
 usc_title: 34
 usc_section: "10462"
 chapter: 101
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "34 U.S.C. § 10462"
-generated_at: "2026-03-29T22:05:16.105Z"
+generated_at: "2026-03-29T22:10:04.889Z"
 ---
 
 # § 10462. Applications

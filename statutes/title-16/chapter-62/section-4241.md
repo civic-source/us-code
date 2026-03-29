@@ -3,9 +3,9 @@ title: "Section 4241 - Relationship to Endangered Species Act of 1973"
 usc_title: 16
 usc_section: "4241"
 chapter: 62
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "16 U.S.C. § 4241"
-generated_at: "2026-03-29T22:04:21.816Z"
+generated_at: "2026-03-29T22:08:58.863Z"
 ---
 
 # § 4241. Relationship to Endangered Species Act of 1973

@@ -3,9 +3,9 @@ title: "Section 1132 - Findings"
 usc_title: 6
 usc_section: "1132"
 chapter: 4
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "6 U.S.C. § 1132"
-generated_at: "2026-03-29T22:03:07.715Z"
+generated_at: "2026-03-29T22:07:40.127Z"
 ---
 
 # § 1132. Findings

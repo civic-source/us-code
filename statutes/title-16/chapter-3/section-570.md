@@ -3,9 +3,9 @@ title: "Section 570 - Ascertainment by Secretary of Agriculture of public lands 
 usc_title: 16
 usc_section: "570"
 chapter: 3
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "16 U.S.C. § 570"
-generated_at: "2026-03-29T22:04:21.499Z"
+generated_at: "2026-03-29T22:08:58.576Z"
 ---
 
 # § 570. Ascertainment by Secretary of Agriculture of public lands valuable for stream-flow protection and report thereof

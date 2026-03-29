@@ -3,9 +3,9 @@ title: "Section 9063 - Designation: officers to perform certain professional fun
 usc_title: 10
 usc_section: "9063"
 chapter: 907
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "10 U.S.C. § 9063"
-generated_at: "2026-03-29T22:03:29.683Z"
+generated_at: "2026-03-29T22:08:02.552Z"
 ---
 
 # § 9063. Designation: officers to perform certain professional functions

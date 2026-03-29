@@ -3,9 +3,9 @@ title: "Section 10498 - Definitions"
 usc_title: 34
 usc_section: "10498"
 chapter: 101
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "34 U.S.C. § 10498"
-generated_at: "2026-03-29T22:05:16.107Z"
+generated_at: "2026-03-29T22:10:04.891Z"
 ---
 
 # § 10498. Definitions

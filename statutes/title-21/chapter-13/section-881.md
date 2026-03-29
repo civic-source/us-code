@@ -3,9 +3,9 @@ title: "Section 881 - Forfeitures"
 usc_title: 21
 usc_section: "881"
 chapter: 13
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "21 U.S.C. § 881"
-generated_at: "2026-03-29T22:04:42.992Z"
+generated_at: "2026-03-29T22:09:23.997Z"
 ---
 
 # § 881. Forfeitures

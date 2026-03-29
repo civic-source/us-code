@@ -3,9 +3,9 @@ title: "Section 283bb - Governor, Director, and alternates"
 usc_title: 22
 usc_section: "283bb"
 chapter: 7
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "22 U.S.C. § 283bb"
-generated_at: "2026-03-29T22:04:38.320Z"
+generated_at: "2026-03-29T22:09:29.677Z"
 ---
 
 # § 283bb. Governor, Director, and alternates

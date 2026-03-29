@@ -3,9 +3,9 @@ title: "Section 2497b - Jurisdiction"
 usc_title: 19
 usc_section: "2497b"
 chapter: 12
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "19 U.S.C. § 2497b"
-generated_at: "2026-03-29T22:04:07.889Z"
+generated_at: "2026-03-29T22:09:14.245Z"
 ---
 
 # § 2497b. Jurisdiction

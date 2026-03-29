@@ -3,9 +3,9 @@ title: "Section 5315 - Scientific research and development in support of coordin
 usc_title: 7
 usc_section: "5315"
 chapter: 84
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "7 U.S.C. § 5315"
-generated_at: "2026-03-29T22:03:15.579Z"
+generated_at: "2026-03-29T22:07:50.907Z"
 ---
 
 # § 5315. Scientific research and development in support of coordinated program and comprehensive plan

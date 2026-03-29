@@ -3,9 +3,9 @@ title: "Section 498 - Military or naval discharge certificates"
 usc_title: 18
 usc_section: "498"
 chapter: 25
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "18 U.S.C. § 498"
-generated_at: "2026-03-29T22:04:03.355Z"
+generated_at: "2026-03-29T22:08:40.248Z"
 ---
 
 # § 498. Military or naval discharge certificates

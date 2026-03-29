@@ -3,9 +3,9 @@ title: "Section 9341 - General rule"
 usc_title: 10
 usc_section: "9341"
 chapter: 943
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "10 U.S.C. § 9341"
-generated_at: "2026-03-29T22:03:29.686Z"
+generated_at: "2026-03-29T22:08:02.557Z"
 ---
 
 # § 9341. General rule

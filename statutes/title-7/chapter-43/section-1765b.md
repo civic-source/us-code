@@ -3,9 +3,9 @@ title: "Section 1765b - Functions"
 usc_title: 7
 usc_section: "1765b"
 chapter: 43
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "7 U.S.C. § 1765b"
-generated_at: "2026-03-29T22:03:15.444Z"
+generated_at: "2026-03-29T22:07:50.781Z"
 ---
 
 # § 1765b. Functions

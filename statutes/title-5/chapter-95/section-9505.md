@@ -3,9 +3,9 @@ title: "Section 9505 - Performance awards for senior executives"
 usc_title: 5
 usc_section: "9505"
 chapter: 95
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "5 U.S.C. § 9505"
-generated_at: "2026-03-29T22:02:55.939Z"
+generated_at: "2026-03-29T22:07:27.599Z"
 ---
 
 # § 9505. Performance awards for senior executives

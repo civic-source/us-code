@@ -3,9 +3,9 @@ title: "Section 4324 - Life-cycle management and product support"
 usc_title: 10
 usc_section: "4324"
 chapter: 323
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "10 U.S.C. § 4324"
-generated_at: "2026-03-29T22:03:29.619Z"
+generated_at: "2026-03-29T22:08:02.488Z"
 ---
 
 # § 4324. Life-cycle management and product support

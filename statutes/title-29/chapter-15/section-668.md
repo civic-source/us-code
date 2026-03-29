@@ -3,9 +3,9 @@ title: "Section 668 - Programs of Federal agencies"
 usc_title: 29
 usc_section: "668"
 chapter: 15
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "29 U.S.C. § 668"
-generated_at: "2026-03-29T22:04:48.958Z"
+generated_at: "2026-03-29T22:09:38.917Z"
 ---
 
 # § 668. Programs of Federal agencies

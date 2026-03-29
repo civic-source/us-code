@@ -3,9 +3,9 @@ title: "Section 9231 - Sense of Congress on trilateral cooperation between the U
 usc_title: 22
 usc_section: "9231"
 chapter: 99
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "22 U.S.C. § 9231"
-generated_at: "2026-03-29T22:04:38.637Z"
+generated_at: "2026-03-29T22:09:30.015Z"
 ---
 
 # § 9231. Sense of Congress on trilateral cooperation between the United States, South Korea, and Japan

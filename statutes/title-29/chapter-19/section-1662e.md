@@ -3,9 +3,9 @@ title: "Section 1662e - Repealed. Pub. L. 105–220, title I, § 199(b)(2) , Aug
 usc_title: 29
 usc_section: "1662e"
 chapter: 19
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "29 U.S.C. § 1662e"
-generated_at: "2026-03-29T22:04:49.066Z"
+generated_at: "2026-03-29T22:09:39.027Z"
 ---
 
 # §§ 1662 to 1662e. Repealed. Pub. L. 105–220, title I, § 199(b)(2) , Aug. 7, 1998 , 112 Stat. 1059

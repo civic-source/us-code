@@ -3,9 +3,9 @@ title: "Section 81e - Vessels entering or leaving zone; coastwise trade"
 usc_title: 19
 usc_section: "81e"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "19 U.S.C. § 81e"
-generated_at: "2026-03-29T22:04:07.765Z"
+generated_at: "2026-03-29T22:09:14.141Z"
 ---
 
 # § 81e. Vessels entering or leaving zone; coastwise trade

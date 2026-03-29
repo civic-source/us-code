@@ -3,9 +3,9 @@ title: "Section 2454 - Model Indian Juvenile Code"
 usc_title: 25
 usc_section: "2454"
 chapter: 26
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "25 U.S.C. § 2454"
-generated_at: "2026-03-29T22:04:31.568Z"
+generated_at: "2026-03-29T22:09:21.436Z"
 ---
 
 # § 2454. Model Indian Juvenile Code

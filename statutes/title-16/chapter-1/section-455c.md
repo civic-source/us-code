@@ -3,9 +3,9 @@ title: "Section 455c - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "455c"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "16 U.S.C. § 455c"
-generated_at: "2026-03-29T22:04:21.372Z"
+generated_at: "2026-03-29T22:08:58.443Z"
 ---
 
 # § 455c. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

@@ -3,9 +3,9 @@ title: "Section 71 - Definitions"
 usc_title: 21
 usc_section: "71"
 chapter: 9
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "21 U.S.C. § 71"
-generated_at: "2026-03-29T22:04:42.941Z"
+generated_at: "2026-03-29T22:09:23.944Z"
 ---
 
 # § 379j–71. Definitions

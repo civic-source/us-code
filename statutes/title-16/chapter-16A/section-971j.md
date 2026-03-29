@@ -3,9 +3,9 @@ title: "Section 971j - Repealed. Pub. L. 114–81, title I, § 107(5) , Nov. 5, 
 usc_title: 16
 usc_section: "971j"
 chapter: 16
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "16 U.S.C. § 971j"
-generated_at: "2026-03-29T22:04:21.613Z"
+generated_at: "2026-03-29T22:08:58.688Z"
 ---
 
 # § 971j. Repealed. Pub. L. 114–81, title I, § 107(5) , Nov. 5, 2015 , 129 Stat. 658

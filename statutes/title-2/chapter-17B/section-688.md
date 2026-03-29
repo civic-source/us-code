@@ -3,9 +3,9 @@ title: "Section 688 - Procedure in House of Representatives and Senate"
 usc_title: 2
 usc_section: "688"
 chapter: 17
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "2 U.S.C. § 688"
-generated_at: "2026-03-29T22:03:02.413Z"
+generated_at: "2026-03-29T22:07:21.581Z"
 ---
 
 # § 688. Procedure in House of Representatives and Senate

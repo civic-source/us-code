@@ -3,9 +3,9 @@ title: "Section 254a - Definitions"
 usc_title: 22
 usc_section: "254a"
 chapter: 6
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "22 U.S.C. § 254a"
-generated_at: "2026-03-29T22:04:38.296Z"
+generated_at: "2026-03-29T22:09:29.649Z"
 ---
 
 # § 254a. Definitions

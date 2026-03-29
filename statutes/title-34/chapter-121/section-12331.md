@@ -3,9 +3,9 @@ title: "Section 12331 - Research agenda"
 usc_title: 34
 usc_section: "12331"
 chapter: 121
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "34 U.S.C. § 12331"
-generated_at: "2026-03-29T22:05:16.139Z"
+generated_at: "2026-03-29T22:10:04.929Z"
 ---
 
 # § 12331. Research agenda

@@ -3,9 +3,9 @@ title: "Section 4574 - Action by President with respect to affirmative determina
 usc_title: 19
 usc_section: "4574"
 chapter: 29
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "19 U.S.C. § 4574"
-generated_at: "2026-03-29T22:04:07.964Z"
+generated_at: "2026-03-29T22:09:14.310Z"
 ---
 
 # § 4574. Action by President with respect to affirmative determination

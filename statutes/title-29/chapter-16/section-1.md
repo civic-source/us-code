@@ -3,9 +3,9 @@ title: "Section 1 - Training and technical assistance"
 usc_title: 29
 usc_section: "1"
 chapter: 16
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "29 U.S.C. § 1"
-generated_at: "2026-03-29T22:04:48.984Z"
+generated_at: "2026-03-29T22:09:38.945Z"
 ---
 
 # § 796j–1. Training and technical assistance

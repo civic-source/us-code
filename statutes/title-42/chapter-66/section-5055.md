@@ -3,9 +3,9 @@ title: "Section 5055 - Application of Federal law"
 usc_title: 42
 usc_section: "5055"
 chapter: 66
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 5055"
-generated_at: "2026-03-29T22:06:32.763Z"
+generated_at: "2026-03-29T22:10:51.207Z"
 ---
 
 # § 5055. Application of Federal law

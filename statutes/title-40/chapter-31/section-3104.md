@@ -3,9 +3,9 @@ title: "Section 3104 - Furniture for new buildings"
 usc_title: 40
 usc_section: "3104"
 chapter: 31
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "40 U.S.C. § 3104"
-generated_at: "2026-03-29T22:05:34.859Z"
+generated_at: "2026-03-29T22:10:18.987Z"
 ---
 
 # § 3104. Furniture for new buildings

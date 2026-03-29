@@ -3,9 +3,9 @@ title: "Section 77www - Liability for misleading statements"
 usc_title: 15
 usc_section: "77www"
 chapter: 2
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "15 U.S.C. § 77www"
-generated_at: "2026-03-29T22:03:56.712Z"
+generated_at: "2026-03-29T22:08:24.629Z"
 ---
 
 # § 77www. Liability for misleading statements

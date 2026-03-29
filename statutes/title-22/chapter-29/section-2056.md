@@ -3,9 +3,9 @@ title: "Section 2056 - Administration"
 usc_title: 22
 usc_section: "2056"
 chapter: 29
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "22 U.S.C. § 2056"
-generated_at: "2026-03-29T22:04:38.366Z"
+generated_at: "2026-03-29T22:09:29.734Z"
 ---
 
 # § 2056. Administration

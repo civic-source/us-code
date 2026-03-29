@@ -3,9 +3,9 @@ title: "Section 2 - Application to persons of Coast Guard"
 usc_title: 33
 usc_section: "2"
 chapter: 16
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "33 U.S.C. § 2"
-generated_at: "2026-03-29T22:05:24.950Z"
+generated_at: "2026-03-29T22:10:07.170Z"
 ---
 
 # § 763a–2. Application to persons of Coast Guard

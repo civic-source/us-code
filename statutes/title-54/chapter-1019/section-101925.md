@@ -3,9 +3,9 @@ title: "Section 101925 - Commercial use authorizations"
 usc_title: 54
 usc_section: "101925"
 chapter: 1019
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "54 U.S.C. § 101925"
-generated_at: "2026-03-29T22:06:54.469Z"
+generated_at: "2026-03-29T22:11:09.950Z"
 ---
 
 # § 101925. Commercial use authorizations

@@ -3,9 +3,9 @@ title: "Section 1537 - Pilot program on small government flexibility"
 usc_title: 2
 usc_section: "1537"
 chapter: 25
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "2 U.S.C. § 1537"
-generated_at: "2026-03-29T22:03:02.444Z"
+generated_at: "2026-03-29T22:07:21.610Z"
 ---
 
 # § 1537. Pilot program on small government flexibility

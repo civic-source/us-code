@@ -3,9 +3,9 @@ title: "Section 1148 - Repealed. Pub. L. 115–334, title V, § 5411(59) , Dec. 
 usc_title: 12
 usc_section: "1148"
 chapter: 7
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "12 U.S.C. § 1148"
-generated_at: "2026-03-29T22:03:46.819Z"
+generated_at: "2026-03-29T22:08:33.136Z"
 ---
 
 # § 1148. Repealed. Pub. L. 115–334, title V, § 5411(59) , Dec. 20, 2018 , 132 Stat. 4685

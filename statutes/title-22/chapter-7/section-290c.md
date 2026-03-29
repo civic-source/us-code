@@ -3,9 +3,9 @@ title: "Section 290c - Withdrawal from Organization on one-year notice"
 usc_title: 22
 usc_section: "290c"
 chapter: 7
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "22 U.S.C. § 290c"
-generated_at: "2026-03-29T22:04:38.331Z"
+generated_at: "2026-03-29T22:09:29.692Z"
 ---
 
 # § 290c. Withdrawal from Organization on one-year notice

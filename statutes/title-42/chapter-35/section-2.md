@@ -3,9 +3,9 @@ title: "Section 2 - Maintenance of effort"
 usc_title: 42
 usc_section: "2"
 chapter: 35
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-29T22:06:32.678Z"
+generated_at: "2026-03-29T22:10:51.134Z"
 ---
 
 # § 3030s–2. Maintenance of effort

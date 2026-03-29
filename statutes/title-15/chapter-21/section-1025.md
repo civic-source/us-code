@@ -3,9 +3,9 @@ title: "Section 1025 - Printing of monthly publication by Joint Economic Committ
 usc_title: 15
 usc_section: "1025"
 chapter: 21
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "15 U.S.C. § 1025"
-generated_at: "2026-03-29T22:03:56.985Z"
+generated_at: "2026-03-29T22:08:24.822Z"
 ---
 
 # § 1025. Printing of monthly publication by Joint Economic Committee entitled “Economic Indicators”; distribution

@@ -3,9 +3,9 @@ title: "Section 741 - Recognition and character of gain or loss on sale or excha
 usc_title: 26
 usc_section: "741"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "26 U.S.C. § 741"
-generated_at: "2026-03-29T22:05:10.543Z"
+generated_at: "2026-03-29T22:09:57.827Z"
 ---
 
 # § 741. Recognition and character of gain or loss on sale or exchange

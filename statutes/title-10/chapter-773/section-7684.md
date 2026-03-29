@@ -3,9 +3,9 @@ title: "Section 7684 - Surplus obsolete ordnance: sale to patriotic organization
 usc_title: 10
 usc_section: "7684"
 chapter: 773
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "10 U.S.C. § 7684"
-generated_at: "2026-03-29T22:03:29.649Z"
+generated_at: "2026-03-29T22:08:02.520Z"
 ---
 
 # § 7684. Surplus obsolete ordnance: sale to patriotic organizations

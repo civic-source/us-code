@@ -3,9 +3,9 @@ title: "Section 1723b - Investment of funds"
 usc_title: 12
 usc_section: "1723b"
 chapter: 13
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "12 U.S.C. § 1723b"
-generated_at: "2026-03-29T22:03:46.912Z"
+generated_at: "2026-03-29T22:08:33.212Z"
 ---
 
 # § 1723b. Investment of funds

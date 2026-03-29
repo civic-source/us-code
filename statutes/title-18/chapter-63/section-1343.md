@@ -3,9 +3,9 @@ title: "Section 1343 - Fraud by wire, radio, or television"
 usc_title: 18
 usc_section: "1343"
 chapter: 63
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "18 U.S.C. § 1343"
-generated_at: "2026-03-29T22:04:03.400Z"
+generated_at: "2026-03-29T22:08:40.294Z"
 ---
 
 # § 1343. Fraud by wire, radio, or television

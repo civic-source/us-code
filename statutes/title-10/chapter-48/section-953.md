@@ -3,9 +3,9 @@ title: "Section 953 - Remission or suspension of sentence; restoration to duty; 
 usc_title: 10
 usc_section: "953"
 chapter: 48
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "10 U.S.C. § 953"
-generated_at: "2026-03-29T22:03:29.417Z"
+generated_at: "2026-03-29T22:08:02.287Z"
 ---
 
 # § 953. Remission or suspension of sentence; restoration to duty; reenlistment

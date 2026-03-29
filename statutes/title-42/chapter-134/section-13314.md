@@ -3,9 +3,9 @@ title: "Section 13314 - Study of tax and rate treatment of renewable energy proj
 usc_title: 42
 usc_section: "13314"
 chapter: 134
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 13314"
-generated_at: "2026-03-29T22:06:33.251Z"
+generated_at: "2026-03-29T22:10:51.644Z"
 ---
 
 # § 13314. Study of tax and rate treatment of renewable energy projects

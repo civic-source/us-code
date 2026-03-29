@@ -3,9 +3,9 @@ title: "Section 207 - Persons affected by suspension of commercial intercourse"
 usc_title: 50
 usc_section: "207"
 chapter: 13
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "50 U.S.C. § 207"
-generated_at: "2026-03-29T22:06:44.366Z"
+generated_at: "2026-03-29T22:11:02.110Z"
 ---
 
 # § 207. Persons affected by suspension of commercial intercourse

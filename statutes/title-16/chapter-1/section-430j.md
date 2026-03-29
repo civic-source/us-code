@@ -3,9 +3,9 @@ title: "Section 430j - Monocacy National Battlefield; establishment"
 usc_title: 16
 usc_section: "430j"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "16 U.S.C. § 430j"
-generated_at: "2026-03-29T22:04:21.356Z"
+generated_at: "2026-03-29T22:08:58.423Z"
 ---
 
 # § 430j. Monocacy National Battlefield; establishment

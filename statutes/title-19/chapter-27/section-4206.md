@@ -3,9 +3,9 @@ title: "Section 4206 - Treatment of certain trade agreements for which negotiati
 usc_title: 19
 usc_section: "4206"
 chapter: 27
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "19 U.S.C. § 4206"
-generated_at: "2026-03-29T22:04:07.945Z"
+generated_at: "2026-03-29T22:09:14.293Z"
 ---
 
 # § 4206. Treatment of certain trade agreements for which negotiations have already begun

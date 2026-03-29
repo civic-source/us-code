@@ -3,9 +3,9 @@ title: "Section 872 - Habeas corpus; mandamus; suit to restrain assessment or co
 usc_title: 48
 usc_section: "872"
 chapter: 4
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "48 U.S.C. § 872"
-generated_at: "2026-03-29T22:06:38.201Z"
+generated_at: "2026-03-29T22:10:56.325Z"
 ---
 
 # § 872. Habeas corpus; mandamus; suit to restrain assessment or collection of taxes

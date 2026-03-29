@@ -3,9 +3,9 @@ title: "Section 2112 - Record on review and enforcement of agency orders"
 usc_title: 28
 usc_section: "2112"
 chapter: 133
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "28 U.S.C. § 2112"
-generated_at: "2026-03-29T22:04:51.130Z"
+generated_at: "2026-03-29T22:09:35.002Z"
 ---
 
 # § 2112. Record on review and enforcement of agency orders

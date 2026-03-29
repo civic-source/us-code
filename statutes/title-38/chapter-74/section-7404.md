@@ -3,9 +3,9 @@ title: "Section 7404 - Grades and pay scales"
 usc_title: 38
 usc_section: "7404"
 chapter: 74
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "38 U.S.C. § 7404"
-generated_at: "2026-03-29T22:05:48.172Z"
+generated_at: "2026-03-29T22:10:17.994Z"
 ---
 
 # § 7404. Grades and pay scales
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T22:05:48.172Z"
   - **(1)**
     - **(A)** The annual rates or ranges of rates of basic pay for positions provided in section 1 1 So in original. Probably should be “sections”. 7306 and 7401(4) of this title shall be prescribed from time to time by Executive order as authorized by chapter 53 of title 5 or as otherwise authorized by law.
     - **(B)** Section 5377 of title 5 shall apply to a position under section 7401(4) of this title as if such position were included in the definition of “position” in section 5377(a) of title 5 .
-  - **(2)** The pay of physicians and dentists serving in positions to which an Executive order applies under paragraph (1) shall be determined under subchapter III of this chapter instead of such Executive order.
+  - **(2)** The pay of physicians, podiatrists, and dentists serving in positions to which an Executive order applies under paragraph (1) shall be determined under subchapter III of this chapter instead of such Executive order.
   - **(3)**
     - **(A)** The rate of basic pay for a position to which an Executive order applies under paragraph (1) and is not described by paragraph (2) shall be set in accordance with section 5382 of title 5 as if such position were a Senior Executive Service position (as such term is defined in section 3132(a) of title 5 ).
     - **(B)** A rate of basic pay for a position may not be set under subparagraph (A) in excess of—

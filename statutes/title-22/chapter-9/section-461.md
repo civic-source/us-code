@@ -3,9 +3,9 @@ title: "Section 461 - Enforcement by courts; employment of land or naval forces"
 usc_title: 22
 usc_section: "461"
 chapter: 9
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "22 U.S.C. § 461"
-generated_at: "2026-03-29T22:04:38.340Z"
+generated_at: "2026-03-29T22:09:29.703Z"
 ---
 
 # § 461. Enforcement by courts; employment of land or naval forces

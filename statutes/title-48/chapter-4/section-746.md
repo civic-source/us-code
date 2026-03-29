@@ -3,9 +3,9 @@ title: "Section 746 - Public lands and buildings; reservations; rights prior to 
 usc_title: 48
 usc_section: "746"
 chapter: 4
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "48 U.S.C. § 746"
-generated_at: "2026-03-29T22:06:38.200Z"
+generated_at: "2026-03-29T22:10:56.324Z"
 ---
 
 # § 746. Public lands and buildings; reservations; rights prior to July 1, 1902

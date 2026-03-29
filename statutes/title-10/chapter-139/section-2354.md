@@ -3,9 +3,9 @@ title: "Section 2354 - Renumbered § 3861]"
 usc_title: 10
 usc_section: "2354"
 chapter: 139
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "10 U.S.C. § 2354"
-generated_at: "2026-03-29T22:03:29.534Z"
+generated_at: "2026-03-29T22:08:02.403Z"
 ---
 
 # [§ 2354. Renumbered § 3861]

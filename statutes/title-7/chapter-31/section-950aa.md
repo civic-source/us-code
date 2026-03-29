@@ -3,9 +3,9 @@ title: "Section 950aa - Additional powers and duties"
 usc_title: 7
 usc_section: "950aa"
 chapter: 31
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "7 U.S.C. § 950aa"
-generated_at: "2026-03-29T22:03:15.350Z"
+generated_at: "2026-03-29T22:07:50.703Z"
 ---
 
 # § 950aa. Additional powers and duties

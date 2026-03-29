@@ -3,9 +3,9 @@ title: "Section 7123 - Appeals dispute resolution procedures"
 usc_title: 26
 usc_section: "7123"
 chapter: 74
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "26 U.S.C. § 7123"
-generated_at: "2026-03-29T22:05:10.808Z"
+generated_at: "2026-03-29T22:09:58.093Z"
 ---
 
 # § 7123. Appeals dispute resolution procedures

@@ -3,9 +3,9 @@ title: "Section 104a - Transferred"
 usc_title: 2
 usc_section: "104a"
 chapter: 4
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "2 U.S.C. § 104a"
-generated_at: "2026-03-29T22:03:02.371Z"
+generated_at: "2026-03-29T22:07:21.539Z"
 ---
 
 # § 104a. Transferred

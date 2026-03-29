@@ -3,9 +3,9 @@ title: "Section 466 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "466"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "16 U.S.C. § 466"
-generated_at: "2026-03-29T22:04:21.455Z"
+generated_at: "2026-03-29T22:08:58.532Z"
 ---
 
 # § 466. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

@@ -3,9 +3,9 @@ title: "Section 912 - Port Security Exercise Program"
 usc_title: 6
 usc_section: "912"
 chapter: 3
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "6 U.S.C. § 912"
-generated_at: "2026-03-29T22:03:07.708Z"
+generated_at: "2026-03-29T22:07:40.120Z"
 ---
 
 # § 912. Port Security Exercise Program

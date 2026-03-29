@@ -3,9 +3,9 @@ title: "Section 309 - Vocational training program; eligibility; contracts or agr
 usc_title: 25
 usc_section: "309"
 chapter: 7
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "25 U.S.C. § 309"
-generated_at: "2026-03-29T22:04:31.475Z"
+generated_at: "2026-03-29T22:09:21.346Z"
 ---
 
 # § 309. Vocational training program; eligibility; contracts or agreements

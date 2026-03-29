@@ -3,9 +3,9 @@ title: "Section 454 - Practice of law by justices and judges"
 usc_title: 28
 usc_section: "454"
 chapter: 21
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "28 U.S.C. § 454"
-generated_at: "2026-03-29T22:04:51.094Z"
+generated_at: "2026-03-29T22:09:34.958Z"
 ---
 
 # § 454. Practice of law by justices and judges

@@ -3,9 +3,9 @@ title: "Section 2053a - Employee training exchanges"
 usc_title: 15
 usc_section: "2053a"
 chapter: 47
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "15 U.S.C. § 2053a"
-generated_at: "2026-03-29T22:03:57.087Z"
+generated_at: "2026-03-29T22:08:24.911Z"
 ---
 
 # § 2053a. Employee training exchanges

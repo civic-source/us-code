@@ -3,9 +3,9 @@ title: "Section 5142 - Bureau of Engraving and Printing Fund"
 usc_title: 31
 usc_section: "5142"
 chapter: 51
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "31 U.S.C. § 5142"
-generated_at: "2026-03-29T22:05:31.263Z"
+generated_at: "2026-03-29T22:10:03.206Z"
 ---
 
 # § 5142. Bureau of Engraving and Printing Fund

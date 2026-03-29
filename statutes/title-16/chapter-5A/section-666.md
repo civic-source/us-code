@@ -3,9 +3,9 @@ title: "Section 666 - Authorization of appropriations"
 usc_title: 16
 usc_section: "666"
 chapter: 5
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "16 U.S.C. § 666"
-generated_at: "2026-03-29T22:04:21.518Z"
+generated_at: "2026-03-29T22:08:58.596Z"
 ---
 
 # § 666. Authorization of appropriations

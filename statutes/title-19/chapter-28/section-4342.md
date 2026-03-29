@@ -3,9 +3,9 @@ title: "Section 4342 - Notification of persons injured by circumvention devices"
 usc_title: 19
 usc_section: "4342"
 chapter: 28
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "19 U.S.C. § 4342"
-generated_at: "2026-03-29T22:04:07.951Z"
+generated_at: "2026-03-29T22:09:14.298Z"
 ---
 
 # § 4342. Notification of persons injured by circumvention devices

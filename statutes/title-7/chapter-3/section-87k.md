@@ -3,9 +3,9 @@ title: "Section 87k - Standardizing commercial inspections"
 usc_title: 7
 usc_section: "87k"
 chapter: 3
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "7 U.S.C. § 87k"
-generated_at: "2026-03-29T22:03:15.250Z"
+generated_at: "2026-03-29T22:07:50.631Z"
 ---
 
 # § 87k. Standardizing commercial inspections

@@ -3,9 +3,9 @@ title: "Section 1312 - Water quality related effluent limitations"
 usc_title: 33
 usc_section: "1312"
 chapter: 26
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "33 U.S.C. § 1312"
-generated_at: "2026-03-29T22:05:24.997Z"
+generated_at: "2026-03-29T22:10:07.213Z"
 ---
 
 # § 1312. Water quality related effluent limitations

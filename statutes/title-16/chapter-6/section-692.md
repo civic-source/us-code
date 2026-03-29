@@ -3,9 +3,9 @@ title: "Section 692 - Game sanctuaries or refuges in Ocala National Forest; crea
 usc_title: 16
 usc_section: "692"
 chapter: 6
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "16 U.S.C. § 692"
-generated_at: "2026-03-29T22:04:21.532Z"
+generated_at: "2026-03-29T22:08:58.609Z"
 ---
 
 # § 692. Game sanctuaries or refuges in Ocala National Forest; creation

@@ -3,9 +3,9 @@ title: "Section 904b - Art. 104b. Unlawful enlistment, appointment, or separatio
 usc_title: 10
 usc_section: "904b"
 chapter: 47
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "10 U.S.C. § 904b"
-generated_at: "2026-03-29T22:03:29.407Z"
+generated_at: "2026-03-29T22:08:02.273Z"
 ---
 
 # § 904b. Art. 104b. Unlawful enlistment, appointment, or separation

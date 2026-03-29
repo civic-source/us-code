@@ -3,9 +3,9 @@ title: "Section 1445g - Production of commodities for conversion into industrial
 usc_title: 7
 usc_section: "1445g"
 chapter: 35
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "7 U.S.C. § 1445g"
-generated_at: "2026-03-29T22:03:15.387Z"
+generated_at: "2026-03-29T22:07:50.734Z"
 ---
 
 # § 1445g. Production of commodities for conversion into industrial hydrocarbons; terms and conditions; incentive payments; regulations; appropriations; effective date

@@ -3,9 +3,9 @@ title: "Section 2293 - Budget and audit provisions of Government corporation con
 usc_title: 12
 usc_section: "2293"
 chapter: 24
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "12 U.S.C. § 2293"
-generated_at: "2026-03-29T22:03:47.050Z"
+generated_at: "2026-03-29T22:08:33.330Z"
 ---
 
 # § 2293. Budget and audit provisions of Government corporation control law applicable

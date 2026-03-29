@@ -3,9 +3,9 @@ title: "Section 2279a - Fair and equitable treatment of socially disadvantaged p
 usc_title: 7
 usc_section: "2279a"
 chapter: 55
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "7 U.S.C. § 2279a"
-generated_at: "2026-03-29T22:03:15.524Z"
+generated_at: "2026-03-29T22:07:50.854Z"
 ---
 
 # § 2279a. Fair and equitable treatment of socially disadvantaged producers

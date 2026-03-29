@@ -3,9 +3,9 @@ title: "Section 1087kk - Amount of need"
 usc_title: 20
 usc_section: "1087kk"
 chapter: 28
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "20 U.S.C. § 1087kk"
-generated_at: "2026-03-29T22:04:14.196Z"
+generated_at: "2026-03-29T22:08:51.848Z"
 ---
 
 # § 1087kk. Amount of need

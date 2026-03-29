@@ -3,9 +3,9 @@ title: "Section 7491 - Authorization of appropriations"
 usc_title: 7
 usc_section: "7491"
 chapter: 101
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "7 U.S.C. § 7491"
-generated_at: "2026-03-29T22:03:15.665Z"
+generated_at: "2026-03-29T22:07:50.977Z"
 ---
 
 # § 7491. Authorization of appropriations

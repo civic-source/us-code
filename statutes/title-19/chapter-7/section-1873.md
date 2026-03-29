@@ -3,9 +3,9 @@ title: "Section 1873 - Repealed. Pub. L. 93–618, title VI, § 602(d) , Jan. 3,
 usc_title: 19
 usc_section: "1873"
 chapter: 7
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "19 U.S.C. § 1873"
-generated_at: "2026-03-29T22:04:07.846Z"
+generated_at: "2026-03-29T22:09:14.208Z"
 ---
 
 # § 1873. Repealed. Pub. L. 93–618, title VI, § 602(d) , Jan. 3, 1975 , 88 Stat. 2072

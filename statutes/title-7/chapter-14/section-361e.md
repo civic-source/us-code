@@ -3,9 +3,9 @@ title: "Section 361e - Payment of allotments to State agricultural experiment st
 usc_title: 7
 usc_section: "361e"
 chapter: 14
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "7 U.S.C. § 361e"
-generated_at: "2026-03-29T22:03:15.314Z"
+generated_at: "2026-03-29T22:07:50.676Z"
 ---
 
 # § 361e. Payment of allotments to State agricultural experiment stations; directors and treasurers or other officers; accounting; reports to Secretary; replacement by States of diminished, lost or misapplied allotments; subsequent allotments or payments contingent on such replacement

@@ -3,9 +3,9 @@ title: "Section 9702 - Establishment of the United Mine Workers of America Combi
 usc_title: 26
 usc_section: "9702"
 chapter: 99
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "26 U.S.C. § 9702"
-generated_at: "2026-03-29T22:05:10.862Z"
+generated_at: "2026-03-29T22:09:58.148Z"
 ---
 
 # § 9702. Establishment of the United Mine Workers of America Combined Benefit Fund

@@ -3,9 +3,9 @@ title: "Section 815 - Art. 15. Commanding officer’s non-judicial punishment"
 usc_title: 10
 usc_section: "815"
 chapter: 47
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "10 U.S.C. § 815"
-generated_at: "2026-03-29T22:03:29.396Z"
+generated_at: "2026-03-29T22:08:02.263Z"
 ---
 
 # § 815. Art. 15. Commanding officer’s non-judicial punishment

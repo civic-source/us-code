@@ -3,9 +3,9 @@ title: "Section 407bb - Establishment"
 usc_title: 16
 usc_section: "407bb"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "16 U.S.C. § 407bb"
-generated_at: "2026-03-29T22:04:21.286Z"
+generated_at: "2026-03-29T22:08:58.346Z"
 ---
 
 # § 407bb. Establishment

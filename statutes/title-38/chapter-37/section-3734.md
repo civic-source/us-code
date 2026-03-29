@@ -3,9 +3,9 @@ title: "Section 3734 - Annual submission of information on the Veterans Housing 
 usc_title: 38
 usc_section: "3734"
 chapter: 37
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "38 U.S.C. § 3734"
-generated_at: "2026-03-29T22:05:48.122Z"
+generated_at: "2026-03-29T22:10:17.958Z"
 ---
 
 # § 3734. Annual submission of information on the Veterans Housing Benefit Program Fund and housing programs

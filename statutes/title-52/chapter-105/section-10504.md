@@ -3,9 +3,9 @@ title: "Section 10504 - Judicial relief; civil actions by the Attorney General; 
 usc_title: 52
 usc_section: "10504"
 chapter: 105
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "52 U.S.C. § 10504"
-generated_at: "2026-03-29T22:06:53.572Z"
+generated_at: "2026-03-29T22:11:10.891Z"
 ---
 
 # § 10504. Judicial relief; civil actions by the Attorney General; three-judge district court; appeal to Supreme Court

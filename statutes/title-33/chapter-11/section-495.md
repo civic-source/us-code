@@ -3,9 +3,9 @@ title: "Section 495 - Violations of orders respecting bridges and accessory work
 usc_title: 33
 usc_section: "495"
 chapter: 11
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "33 U.S.C. § 495"
-generated_at: "2026-03-29T22:05:24.920Z"
+generated_at: "2026-03-29T22:10:07.136Z"
 ---
 
 # § 495. Violations of orders respecting bridges and accessory works

@@ -3,9 +3,9 @@ title: "Section 1842 - Conversion of existing pay rates"
 usc_title: 2
 usc_section: "1842"
 chapter: 28
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "2 U.S.C. § 1842"
-generated_at: "2026-03-29T22:03:02.451Z"
+generated_at: "2026-03-29T22:07:21.619Z"
 ---
 
 # § 1842. Conversion of existing pay rates

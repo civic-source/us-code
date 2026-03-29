@@ -3,9 +3,9 @@ title: "Section 226 - Omitted"
 usc_title: 16
 usc_section: "226"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "16 U.S.C. § 226"
-generated_at: "2026-03-29T22:04:21.258Z"
+generated_at: "2026-03-29T22:08:58.318Z"
 ---
 
 # § 226. Omitted

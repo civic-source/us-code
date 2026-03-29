@@ -3,9 +3,9 @@ title: "Section 1490d - Loans to nonprofit organizations to provide building sit
 usc_title: 42
 usc_section: "1490d"
 chapter: 8
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 1490d"
-generated_at: "2026-03-29T22:06:32.518Z"
+generated_at: "2026-03-29T22:10:50.988Z"
 ---
 
 # § 1490d. Loans to nonprofit organizations to provide building sites for eligible families, nonprofit organizations, public agencies, and cooperatives; interest rates; factors determinative in making loan

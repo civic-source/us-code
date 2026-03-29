@@ -3,9 +3,9 @@ title: "Section 5565 - Encouraging the development of plans for converting certa
 usc_title: 49
 usc_section: "5565"
 chapter: 55
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "49 U.S.C. § 5565"
-generated_at: "2026-03-29T22:06:49.716Z"
+generated_at: "2026-03-29T22:11:06.902Z"
 ---
 
 # § 5565. Encouraging the development of plans for converting certain rail passenger terminals

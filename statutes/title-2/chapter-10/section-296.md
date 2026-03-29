@@ -3,9 +3,9 @@ title: "Section 296 - Step increases; waiting periods; service in Armed Forces; 
 usc_title: 2
 usc_section: "296"
 chapter: 10
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "2 U.S.C. § 296"
-generated_at: "2026-03-29T22:03:02.391Z"
+generated_at: "2026-03-29T22:07:21.560Z"
 ---
 
 # § 296. Step increases; waiting periods; service in Armed Forces; automatic advancement

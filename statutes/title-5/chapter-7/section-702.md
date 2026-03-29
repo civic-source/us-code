@@ -3,9 +3,9 @@ title: "Section 702 - Right of review"
 usc_title: 5
 usc_section: "702"
 chapter: 7
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "5 U.S.C. § 702"
-generated_at: "2026-03-29T22:02:55.786Z"
+generated_at: "2026-03-29T22:07:27.480Z"
 ---
 
 # § 702. Right of review

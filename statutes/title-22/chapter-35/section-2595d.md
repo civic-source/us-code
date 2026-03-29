@@ -3,9 +3,9 @@ title: "Section 2595d - Annual report on comprehensive nuclear-test-ban treaty s
 usc_title: 22
 usc_section: "2595d"
 chapter: 35
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "22 U.S.C. § 2595d"
-generated_at: "2026-03-29T22:04:38.429Z"
+generated_at: "2026-03-29T22:09:29.806Z"
 ---
 
 # § 2595d. Annual report on comprehensive nuclear-test-ban treaty sensors

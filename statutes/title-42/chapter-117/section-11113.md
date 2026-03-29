@@ -3,9 +3,9 @@ title: "Section 11113 - Payment of reasonable attorneys’ fees and costs in def
 usc_title: 42
 usc_section: "11113"
 chapter: 117
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 11113"
-generated_at: "2026-03-29T22:06:33.149Z"
+generated_at: "2026-03-29T22:10:51.568Z"
 ---
 
 # § 11113. Payment of reasonable attorneys’ fees and costs in defense of suit

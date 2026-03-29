@@ -3,9 +3,9 @@ title: "Section 557 - Reference"
 usc_title: 6
 usc_section: "557"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "6 U.S.C. § 557"
-generated_at: "2026-03-29T22:03:07.677Z"
+generated_at: "2026-03-29T22:07:40.088Z"
 ---
 
 # § 557. Reference

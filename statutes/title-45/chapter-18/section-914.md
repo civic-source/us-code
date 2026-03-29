@@ -3,9 +3,9 @@ title: "Section 914 - Obligation guarantees"
 usc_title: 45
 usc_section: "914"
 chapter: 18
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "45 U.S.C. § 914"
-generated_at: "2026-03-29T22:05:52.226Z"
+generated_at: "2026-03-29T22:10:21.713Z"
 ---
 
 # § 914. Obligation guarantees

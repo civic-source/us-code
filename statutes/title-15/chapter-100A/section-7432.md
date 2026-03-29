@@ -3,9 +3,9 @@ title: "Section 7432 - National cybersecurity challenges"
 usc_title: 15
 usc_section: "7432"
 chapter: 100
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "15 U.S.C. § 7432"
-generated_at: "2026-03-29T22:03:57.265Z"
+generated_at: "2026-03-29T22:08:25.076Z"
 ---
 
 # § 7432. National cybersecurity challenges

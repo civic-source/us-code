@@ -3,9 +3,9 @@ title: "Section 1975 - Claims for amounts expended because of seizure"
 usc_title: 22
 usc_section: "1975"
 chapter: 25
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "22 U.S.C. § 1975"
-generated_at: "2026-03-29T22:04:38.364Z"
+generated_at: "2026-03-29T22:09:29.732Z"
 ---
 
 # § 1975. Claims for amounts expended because of seizure

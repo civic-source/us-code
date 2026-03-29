@@ -3,9 +3,9 @@ title: "Section 10235 - Indian liability waiver"
 usc_title: 34
 usc_section: "10235"
 chapter: 101
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "34 U.S.C. § 10235"
-generated_at: "2026-03-29T22:05:16.094Z"
+generated_at: "2026-03-29T22:10:04.874Z"
 ---
 
 # § 10235. Indian liability waiver

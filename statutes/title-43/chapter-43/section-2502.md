@@ -3,9 +3,9 @@ title: "Section 2502 - Adjudications as to suspended entries; approval"
 usc_title: 43
 usc_section: "2502"
 chapter: 43
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "43 U.S.C. § 2502"
-generated_at: "2026-03-29T22:05:55.135Z"
+generated_at: "2026-03-29T22:10:26.985Z"
 ---
 
 # § 2502. Adjudications as to suspended entries; approval

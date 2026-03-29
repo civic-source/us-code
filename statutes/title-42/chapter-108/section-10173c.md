@@ -3,9 +3,9 @@ title: "Section 10173c - Termination"
 usc_title: 42
 usc_section: "10173c"
 chapter: 108
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 10173c"
-generated_at: "2026-03-29T22:06:33.124Z"
+generated_at: "2026-03-29T22:10:51.543Z"
 ---
 
 # § 10173c. Termination

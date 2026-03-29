@@ -3,9 +3,9 @@ title: "Section 1 - Review of certain reprogramming notifications"
 usc_title: 22
 usc_section: "1"
 chapter: 35
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-03-29T22:04:38.429Z"
+generated_at: "2026-03-29T22:09:29.805Z"
 ---
 
 # § 2595b–1. Review of certain reprogramming notifications

@@ -3,9 +3,9 @@ title: "Section 6301 - Statement of purpose"
 usc_title: 20
 usc_section: "6301"
 chapter: 70
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "20 U.S.C. § 6301"
-generated_at: "2026-03-29T22:04:14.340Z"
+generated_at: "2026-03-29T22:08:51.989Z"
 ---
 
 # § 6301. Statement of purpose

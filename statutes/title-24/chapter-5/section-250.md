@@ -3,9 +3,9 @@ title: "Section 250 - Omitted"
 usc_title: 24
 usc_section: "250"
 chapter: 5
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "24 U.S.C. § 250"
-generated_at: "2026-03-29T22:04:29.352Z"
+generated_at: "2026-03-29T22:09:24.220Z"
 ---
 
 # §§ 231 to 250. Omitted

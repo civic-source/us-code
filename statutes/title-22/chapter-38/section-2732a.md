@@ -3,9 +3,9 @@ title: "Section 2732a - Avoiding duplication of programs and efforts"
 usc_title: 22
 usc_section: "2732a"
 chapter: 38
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "22 U.S.C. § 2732a"
-generated_at: "2026-03-29T22:04:38.445Z"
+generated_at: "2026-03-29T22:09:29.823Z"
 ---
 
 # § 2732a. Avoiding duplication of programs and efforts

@@ -3,9 +3,9 @@ title: "Section 526 - Restrictions on debt relief agencies"
 usc_title: 11
 usc_section: "526"
 chapter: 5
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "11 U.S.C. § 526"
-generated_at: "2026-03-29T22:03:34.978Z"
+generated_at: "2026-03-29T22:08:18.937Z"
 ---
 
 # § 526. Restrictions on debt relief agencies

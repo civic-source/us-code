@@ -3,9 +3,9 @@ title: "Section 3908 - Technical assistance"
 usc_title: 19
 usc_section: "3908"
 chapter: 25
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "19 U.S.C. § 3908"
-generated_at: "2026-03-29T22:04:07.933Z"
+generated_at: "2026-03-29T22:09:14.280Z"
 ---
 
 # § 3908. Technical assistance

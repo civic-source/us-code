@@ -3,9 +3,9 @@ title: "Section 6m - Use of mails or other means or instrumentalities of interst
 usc_title: 7
 usc_section: "6m"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "7 U.S.C. § 6m"
-generated_at: "2026-03-29T22:03:15.223Z"
+generated_at: "2026-03-29T22:07:50.606Z"
 ---
 
 # § 6m. Use of mails or other means or instrumentalities of interstate commerce by commodity trading advisors and commodity pool operators; relation to other law

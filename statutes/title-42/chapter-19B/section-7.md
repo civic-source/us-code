@@ -3,9 +3,9 @@ title: "Section 7 - Delmarva Peninsula hydrologic study; duties of Secretary of 
 usc_title: 42
 usc_section: "7"
 chapter: 19
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-29T22:06:32.586Z"
+generated_at: "2026-03-29T22:10:51.049Z"
 ---
 
 # § 1962d–7. Delmarva Peninsula hydrologic study; duties of Secretary of the Interior

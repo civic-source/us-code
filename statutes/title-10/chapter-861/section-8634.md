@@ -3,9 +3,9 @@ title: "Section 8634 - Submarine safety programs: participation of NATO naval pe
 usc_title: 10
 usc_section: "8634"
 chapter: 861
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "10 U.S.C. § 8634"
-generated_at: "2026-03-29T22:03:29.668Z"
+generated_at: "2026-03-29T22:08:02.539Z"
 ---
 
 # § 8634. Submarine safety programs: participation of NATO naval personnel

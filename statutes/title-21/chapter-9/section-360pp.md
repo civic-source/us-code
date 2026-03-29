@@ -3,9 +3,9 @@ title: "Section 360pp - Enforcement"
 usc_title: 21
 usc_section: "360pp"
 chapter: 9
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "21 U.S.C. § 360pp"
-generated_at: "2026-03-29T22:04:42.899Z"
+generated_at: "2026-03-29T22:09:23.905Z"
 ---
 
 # § 360pp. Enforcement

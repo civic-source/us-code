@@ -3,9 +3,9 @@ title: "Section 8136 - Recapture provisions"
 usc_title: 38
 usc_section: "8136"
 chapter: 81
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "38 U.S.C. § 8136"
-generated_at: "2026-03-29T22:05:48.196Z"
+generated_at: "2026-03-29T22:10:18.011Z"
 ---
 
 # § 8136. Recapture provisions

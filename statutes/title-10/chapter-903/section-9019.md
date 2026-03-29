@@ -3,9 +3,9 @@ title: "Section 9019 - General Counsel"
 usc_title: 10
 usc_section: "9019"
 chapter: 903
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "10 U.S.C. § 9019"
-generated_at: "2026-03-29T22:03:29.681Z"
+generated_at: "2026-03-29T22:08:02.550Z"
 ---
 
 # § 9019. General Counsel

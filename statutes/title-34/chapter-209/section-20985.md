@@ -3,9 +3,9 @@ title: "Section 20985 - Grants for Rape, Abuse & Incest National Network"
 usc_title: 34
 usc_section: "20985"
 chapter: 209
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "34 U.S.C. § 20985"
-generated_at: "2026-03-29T22:05:16.173Z"
+generated_at: "2026-03-29T22:10:04.968Z"
 ---
 
 # § 20985. Grants for Rape, Abuse & Incest National Network

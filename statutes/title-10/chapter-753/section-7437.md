@@ -3,9 +3,9 @@ title: "Section 7437 - Chaplain"
 usc_title: 10
 usc_section: "7437"
 chapter: 753
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "10 U.S.C. § 7437"
-generated_at: "2026-03-29T22:03:29.643Z"
+generated_at: "2026-03-29T22:08:02.512Z"
 ---
 
 # § 7437. Chaplain

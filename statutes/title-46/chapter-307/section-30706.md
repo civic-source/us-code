@@ -3,9 +3,9 @@ title: "Section 30706 - Defenses"
 usc_title: 46
 usc_section: "30706"
 chapter: 307
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "46 U.S.C. § 30706"
-generated_at: "2026-03-29T22:06:41.433Z"
+generated_at: "2026-03-29T22:10:58.221Z"
 ---
 
 # § 30706. Defenses

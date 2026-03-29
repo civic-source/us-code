@@ -3,9 +3,9 @@ title: "Section 2713 - Protection of historic and artistic furnishings of recept
 usc_title: 22
 usc_section: "2713"
 chapter: 38
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "22 U.S.C. § 2713"
-generated_at: "2026-03-29T22:04:38.443Z"
+generated_at: "2026-03-29T22:09:29.820Z"
 ---
 
 # § 2713. Protection of historic and artistic furnishings of reception areas of the Harry S Truman Federal Building

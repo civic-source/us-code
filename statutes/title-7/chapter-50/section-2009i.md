@@ -3,9 +3,9 @@ title: "Section 2009i - Interstate collaboration"
 usc_title: 7
 usc_section: "2009i"
 chapter: 50
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "7 U.S.C. § 2009i"
-generated_at: "2026-03-29T22:03:15.473Z"
+generated_at: "2026-03-29T22:07:50.806Z"
 ---
 
 # § 2009i. Interstate collaboration

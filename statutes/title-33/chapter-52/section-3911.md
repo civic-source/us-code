@@ -3,9 +3,9 @@ title: "Section 3911 - Regulations"
 usc_title: 33
 usc_section: "3911"
 chapter: 52
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "33 U.S.C. § 3911"
-generated_at: "2026-03-29T22:05:25.141Z"
+generated_at: "2026-03-29T22:10:07.331Z"
 ---
 
 # § 3911. Regulations

@@ -3,9 +3,9 @@ title: "Section 18353 - Maintenance of the United States segment and assurance o
 usc_title: 42
 usc_section: "18353"
 chapter: 159
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 18353"
-generated_at: "2026-03-29T22:06:33.416Z"
+generated_at: "2026-03-29T22:10:51.800Z"
 ---
 
 # § 18353. Maintenance of the United States segment and assurance of continued operations of the International Space Station.

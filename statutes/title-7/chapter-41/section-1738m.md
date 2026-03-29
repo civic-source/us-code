@@ -3,9 +3,9 @@ title: "Section 1738m - Annual report to Congress"
 usc_title: 7
 usc_section: "1738m"
 chapter: 41
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "7 U.S.C. § 1738m"
-generated_at: "2026-03-29T22:03:15.442Z"
+generated_at: "2026-03-29T22:07:50.779Z"
 ---
 
 # § 1738m. Annual report to Congress

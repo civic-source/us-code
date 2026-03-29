@@ -3,9 +3,9 @@ title: "Section 402 - Definitions"
 usc_title: 29
 usc_section: "402"
 chapter: 11
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "29 U.S.C. § 402"
-generated_at: "2026-03-29T22:04:48.945Z"
+generated_at: "2026-03-29T22:09:38.906Z"
 ---
 
 # § 402. Definitions

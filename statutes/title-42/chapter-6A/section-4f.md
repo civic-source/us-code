@@ -3,9 +3,9 @@ title: "Section 4f - Research relating to preterm labor and delivery and the car
 usc_title: 42
 usc_section: "4f"
 chapter: 6
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 4f"
-generated_at: "2026-03-29T22:06:31.794Z"
+generated_at: "2026-03-29T22:10:50.215Z"
 ---
 
 # § 247b–4f. Research relating to preterm labor and delivery and the care, treatment, and outcomes of preterm and low birthweight infants

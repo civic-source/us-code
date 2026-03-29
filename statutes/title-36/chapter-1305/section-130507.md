@@ -3,9 +3,9 @@ title: "Section 130507 - Restrictions"
 usc_title: 36
 usc_section: "130507"
 chapter: 1305
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "36 U.S.C. § 130507"
-generated_at: "2026-03-29T22:05:42.303Z"
+generated_at: "2026-03-29T22:10:11.722Z"
 ---
 
 # § 130507. Restrictions

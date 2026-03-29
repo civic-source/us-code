@@ -3,9 +3,9 @@ title: "Section 246 - Omitted"
 usc_title: 20
 usc_section: "246"
 chapter: 13
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "20 U.S.C. § 246"
-generated_at: "2026-03-29T22:04:14.095Z"
+generated_at: "2026-03-29T22:08:51.750Z"
 ---
 
 # § 246. Omitted

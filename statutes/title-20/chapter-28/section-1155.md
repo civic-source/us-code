@@ -3,9 +3,9 @@ title: "Section 1155 - Connie Lee privatization"
 usc_title: 20
 usc_section: "1155"
 chapter: 28
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "20 U.S.C. § 1155"
-generated_at: "2026-03-29T22:04:14.240Z"
+generated_at: "2026-03-29T22:08:51.891Z"
 ---
 
 # § 1155. Connie Lee privatization

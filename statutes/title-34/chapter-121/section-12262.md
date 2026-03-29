@@ -3,9 +3,9 @@ title: "Section 12262 - Requirements"
 usc_title: 34
 usc_section: "12262"
 chapter: 121
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "34 U.S.C. § 12262"
-generated_at: "2026-03-29T22:05:16.135Z"
+generated_at: "2026-03-29T22:10:04.926Z"
 ---
 
 # § 12262. Requirements

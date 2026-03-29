@@ -3,9 +3,9 @@ title: "Section 209 - Poisons; book entry of sale; labels"
 usc_title: 21
 usc_section: "209"
 chapter: 7
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "21 U.S.C. § 209"
-generated_at: "2026-03-29T22:04:42.816Z"
+generated_at: "2026-03-29T22:09:23.831Z"
 ---
 
 # § 209. Poisons; book entry of sale; labels

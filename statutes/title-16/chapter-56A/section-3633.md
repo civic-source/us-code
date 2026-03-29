@@ -3,9 +3,9 @@ title: "Section 3633 - Authority and responsibility"
 usc_title: 16
 usc_section: "3633"
 chapter: 56
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "16 U.S.C. § 3633"
-generated_at: "2026-03-29T22:04:21.767Z"
+generated_at: "2026-03-29T22:08:58.828Z"
 ---
 
 # § 3633. Authority and responsibility

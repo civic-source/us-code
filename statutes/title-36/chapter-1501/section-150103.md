@@ -3,9 +3,9 @@ title: "Section 150103 - Purposes"
 usc_title: 36
 usc_section: "150103"
 chapter: 1501
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "36 U.S.C. § 150103"
-generated_at: "2026-03-29T22:05:42.304Z"
+generated_at: "2026-03-29T22:10:11.726Z"
 ---
 
 # § 150103. Purposes

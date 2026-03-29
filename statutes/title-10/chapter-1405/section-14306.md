@@ -3,9 +3,9 @@ title: "Section 14306 - Establishment of promotion zones: Navy Reserve and Marin
 usc_title: 10
 usc_section: "14306"
 chapter: 1405
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "10 U.S.C. § 14306"
-generated_at: "2026-03-29T22:03:29.721Z"
+generated_at: "2026-03-29T22:08:02.589Z"
 ---
 
 # § 14306. Establishment of promotion zones: Navy Reserve and Marine Corps Reserve running mate system

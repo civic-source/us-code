@@ -3,9 +3,9 @@ title: "Section 70503 - Membership"
 usc_title: 36
 usc_section: "70503"
 chapter: 705
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "36 U.S.C. § 70503"
-generated_at: "2026-03-29T22:05:42.296Z"
+generated_at: "2026-03-29T22:10:11.717Z"
 ---
 
 # § 70503. Membership

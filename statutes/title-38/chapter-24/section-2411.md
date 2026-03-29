@@ -3,9 +3,9 @@ title: "Section 2411 - Prohibition against interment or memorialization in the N
 usc_title: 38
 usc_section: "2411"
 chapter: 24
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "38 U.S.C. § 2411"
-generated_at: "2026-03-29T22:05:48.074Z"
+generated_at: "2026-03-29T22:10:17.921Z"
 ---
 
 # § 2411. Prohibition against interment or memorialization in the National Cemetery Administration or Arlington National Cemetery of persons committing Federal or State capital crimes

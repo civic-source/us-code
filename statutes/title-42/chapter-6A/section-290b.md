@@ -3,9 +3,9 @@ title: "Section 290b - Establishment and duties of Foundation"
 usc_title: 42
 usc_section: "290b"
 chapter: 6
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 290b"
-generated_at: "2026-03-29T22:06:31.895Z"
+generated_at: "2026-03-29T22:10:50.350Z"
 ---
 
 # § 290b. Establishment and duties of Foundation
@@ -120,4 +120,4 @@ generated_at: "2026-03-29T22:06:31.895Z"
 - **(k)**
   - **(1)** In the case of any individual who is not an employee of the Federal Government and who serves in association with the National Institutes of Health, with respect to financial assistance received from the Foundation, the Foundation may not provide the assistance of, or otherwise permit the work at the National Institutes of Health to begin until a memorandum of understanding between the individual and the Director of the National Institutes of Health, or the designee of such Director, has been executed specifying that the individual shall be subject to such ethical and procedural standards of conduct relating to duties performed at the National Institutes of Health, as the Director of the National Institutes of Health determines is appropriate.
   - **(2)** The Director of the National Institutes of Health may provide facilities, utilities and support services to the Foundation if it is determined by the Director to be advantageous to the research programs of the National Institutes of Health.
-- **(l)** From amounts appropriated to the National Institutes of Health, for each fiscal year, the Director of NIH shall transfer not less than $500,000 and not more than $1,250,000 to the Foundation.
+- **(l)** From amounts appropriated to the National Institutes of Health, for each fiscal year, the Director of NIH shall transfer not less than $1,250,000 and not more than $5,000,000 to the Foundation.

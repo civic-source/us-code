@@ -3,9 +3,9 @@ title: "Section 836 - Transportation of fireworks into State prohibiting sale or
 usc_title: 18
 usc_section: "836"
 chapter: 39
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "18 U.S.C. § 836"
-generated_at: "2026-03-29T22:04:03.369Z"
+generated_at: "2026-03-29T22:08:40.260Z"
 ---
 
 # § 836. Transportation of fireworks into State prohibiting sale or use

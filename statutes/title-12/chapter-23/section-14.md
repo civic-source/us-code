@@ -3,9 +3,9 @@ title: "Section 14 - Federal jurisdiction"
 usc_title: 12
 usc_section: "14"
 chapter: 23
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "12 U.S.C. § 14"
-generated_at: "2026-03-29T22:03:47.044Z"
+generated_at: "2026-03-29T22:08:33.326Z"
 ---
 
 # § 2279aa–14. Federal jurisdiction

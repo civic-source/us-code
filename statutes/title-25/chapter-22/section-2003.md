@@ -3,9 +3,9 @@ title: "Section 2003 - Codification of regulations"
 usc_title: 25
 usc_section: "2003"
 chapter: 22
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "25 U.S.C. § 2003"
-generated_at: "2026-03-29T22:04:31.547Z"
+generated_at: "2026-03-29T22:09:21.415Z"
 ---
 
 # § 2003. Codification of regulations

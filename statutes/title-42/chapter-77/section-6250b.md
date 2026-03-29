@@ -3,9 +3,9 @@ title: "Section 6250b - Conditions for release; plan"
 usc_title: 42
 usc_section: "6250b"
 chapter: 77
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 6250b"
-generated_at: "2026-03-29T22:06:32.820Z"
+generated_at: "2026-03-29T22:10:51.266Z"
 ---
 
 # § 6250b. Conditions for release; plan

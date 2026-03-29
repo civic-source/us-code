@@ -3,9 +3,9 @@ title: "Section 7035 - Confidentiality"
 usc_title: 7
 usc_section: "7035"
 chapter: 98
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "7 U.S.C. § 7035"
-generated_at: "2026-03-29T22:03:15.639Z"
+generated_at: "2026-03-29T22:07:50.956Z"
 ---
 
 # § 7035. Confidentiality

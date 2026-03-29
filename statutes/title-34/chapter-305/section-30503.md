@@ -3,9 +3,9 @@ title: "Section 30503 - Support for criminal investigations and prosecutions by 
 usc_title: 34
 usc_section: "30503"
 chapter: 305
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "34 U.S.C. § 30503"
-generated_at: "2026-03-29T22:05:16.186Z"
+generated_at: "2026-03-29T22:10:04.983Z"
 ---
 
 # § 30503. Support for criminal investigations and prosecutions by State, local, and tribal law enforcement officials

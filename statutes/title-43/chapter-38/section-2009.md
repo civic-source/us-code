@@ -3,9 +3,9 @@ title: "Section 2009 - Expedited procedures for issuance of permits: enforcement
 usc_title: 43
 usc_section: "2009"
 chapter: 38
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "43 U.S.C. § 2009"
-generated_at: "2026-03-29T22:05:55.124Z"
+generated_at: "2026-03-29T22:10:26.977Z"
 ---
 
 # § 2009. Expedited procedures for issuance of permits: enforcement of rights-of-way

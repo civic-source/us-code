@@ -3,9 +3,9 @@ title: "Section 3941 - General provisions"
 usc_title: 22
 usc_section: "3941"
 chapter: 52
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "22 U.S.C. § 3941"
-generated_at: "2026-03-29T22:04:38.478Z"
+generated_at: "2026-03-29T22:09:29.863Z"
 ---
 
 # § 3941. General provisions

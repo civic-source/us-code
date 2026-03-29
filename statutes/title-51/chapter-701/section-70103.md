@@ -3,9 +3,9 @@ title: "Section 70103 - Commercial payloads on space launch system"
 usc_title: 51
 usc_section: "70103"
 chapter: 701
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "51 U.S.C. § 70103"
-generated_at: "2026-03-29T22:06:53.141Z"
+generated_at: "2026-03-29T22:11:10.523Z"
 ---
 
 # § 70103. Commercial payloads on space launch system

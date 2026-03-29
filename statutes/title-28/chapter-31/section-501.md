@@ -3,9 +3,9 @@ title: "Section 501 - Executive department"
 usc_title: 28
 usc_section: "501"
 chapter: 31
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "28 U.S.C. § 501"
-generated_at: "2026-03-29T22:04:51.096Z"
+generated_at: "2026-03-29T22:09:34.960Z"
 ---
 
 # § 501. Executive department

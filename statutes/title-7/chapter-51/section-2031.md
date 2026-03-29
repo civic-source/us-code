@@ -3,9 +3,9 @@ title: "Section 2031 - Minnesota Family Investment Project"
 usc_title: 7
 usc_section: "2031"
 chapter: 51
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "7 U.S.C. § 2031"
-generated_at: "2026-03-29T22:03:15.504Z"
+generated_at: "2026-03-29T22:07:50.832Z"
 ---
 
 # § 2031. Minnesota Family Investment Project

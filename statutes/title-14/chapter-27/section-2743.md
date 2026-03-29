@@ -3,9 +3,9 @@ title: "Section 2743 - Posthumous awards"
 usc_title: 14
 usc_section: "2743"
 chapter: 27
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "14 U.S.C. § 2743"
-generated_at: "2026-03-29T22:03:34.070Z"
+generated_at: "2026-03-29T22:08:27.172Z"
 ---
 
 # § 2743. Posthumous awards

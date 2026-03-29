@@ -3,9 +3,9 @@ title: "Section 1201 - Findings"
 usc_title: 45
 usc_section: "1201"
 chapter: 21
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "45 U.S.C. § 1201"
-generated_at: "2026-03-29T22:05:52.232Z"
+generated_at: "2026-03-29T22:10:21.716Z"
 ---
 
 # § 1201. Findings

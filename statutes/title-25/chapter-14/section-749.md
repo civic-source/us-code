@@ -3,9 +3,9 @@ title: "Section 749 - Omitted"
 usc_title: 25
 usc_section: "749"
 chapter: 14
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "25 U.S.C. § 749"
-generated_at: "2026-03-29T22:04:31.496Z"
+generated_at: "2026-03-29T22:09:21.365Z"
 ---
 
 # § 749. Omitted

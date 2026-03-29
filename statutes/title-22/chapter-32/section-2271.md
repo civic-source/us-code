@@ -3,9 +3,9 @@ title: "Section 2271 - Statement of policy"
 usc_title: 22
 usc_section: "2271"
 chapter: 32
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "22 U.S.C. § 2271"
-generated_at: "2026-03-29T22:04:38.388Z"
+generated_at: "2026-03-29T22:09:29.758Z"
 ---
 
 # § 2271. Statement of policy

@@ -3,9 +3,9 @@ title: "Section 3070 - Limitation on acquisition of excess supplies"
 usc_title: 10
 usc_section: "3070"
 chapter: 203
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "10 U.S.C. § 3070"
-generated_at: "2026-03-29T22:03:29.588Z"
+generated_at: "2026-03-29T22:08:02.455Z"
 ---
 
 # § 3070. Limitation on acquisition of excess supplies

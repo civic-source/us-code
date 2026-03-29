@@ -3,9 +3,9 @@ title: "Section 10201 - Judicial review"
 usc_title: 42
 usc_section: "10201"
 chapter: 108
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 10201"
-generated_at: "2026-03-29T22:06:33.126Z"
+generated_at: "2026-03-29T22:10:51.545Z"
 ---
 
 # § 10201. Judicial review

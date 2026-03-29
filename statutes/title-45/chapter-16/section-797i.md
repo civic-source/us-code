@@ -3,9 +3,9 @@ title: "Section 797i - Limitations on liability"
 usc_title: 45
 usc_section: "797i"
 chapter: 16
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "45 U.S.C. § 797i"
-generated_at: "2026-03-29T22:05:52.224Z"
+generated_at: "2026-03-29T22:10:21.711Z"
 ---
 
 # § 797i. Limitations on liability

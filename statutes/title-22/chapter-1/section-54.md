@@ -3,9 +3,9 @@ title: "Section 54 - Omitted"
 usc_title: 22
 usc_section: "54"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "22 U.S.C. § 54"
-generated_at: "2026-03-29T22:04:38.294Z"
+generated_at: "2026-03-29T22:09:29.648Z"
 ---
 
 # § 54. Omitted

@@ -3,9 +3,9 @@ title: "Section 513 - Determination of reasonable license fees for individual pr
 usc_title: 17
 usc_section: "513"
 chapter: 5
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "17 U.S.C. § 513"
-generated_at: "2026-03-29T22:04:04.496Z"
+generated_at: "2026-03-29T22:08:36.372Z"
 ---
 
 # § 513. Determination of reasonable license fees for individual proprietors

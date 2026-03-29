@@ -3,9 +3,9 @@ title: "Section 4553 - Civilian personnel"
 usc_title: 50
 usc_section: "4553"
 chapter: 55
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "50 U.S.C. § 4553"
-generated_at: "2026-03-29T22:06:44.522Z"
+generated_at: "2026-03-29T22:11:02.277Z"
 ---
 
 # § 4553. Civilian personnel

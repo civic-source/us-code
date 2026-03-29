@@ -3,9 +3,9 @@ title: "Section 1396d - Definitions"
 usc_title: 42
 usc_section: "1396d"
 chapter: 7
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 1396d"
-generated_at: "2026-03-29T22:06:32.406Z"
+generated_at: "2026-03-29T22:10:50.886Z"
 ---
 
 # § 1396d. Definitions
@@ -317,7 +317,7 @@ For purposes of this subchapter—
 - **(ff)** Notwithstanding subsection (b) or (z)(2), subject to subsections (hh) and (ii)—
   - **(1)** for the period beginning October 1, 2019 , and ending December 20, 2019 , the Federal medical assistance percentage for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be equal to 100 percent;
   - **(2)** subject to section 1308(g)(7)(C) of this title , for the period beginning December 21, 2019 , and ending December 3, 2021 , the Federal medical assistance percentage for Puerto Rico shall be equal to 76 percent; and
-  - **(3)** subject to section 1308(g)(8)(B) of this title , for the period beginning December 21, 2019 , and ending February 18, 2022 , the Federal medical assistance percentage for the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be equal to 83 percent.
+  - **(3)** subject to section 1308(g)(8)(B) of this title , for the period beginning December 21, 2019 , and ending March 11, 2022 , the Federal medical assistance percentage for the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be equal to 83 percent.
 - **(gg)**
   - **(1)** For purposes of subsection (a)(30), with respect to a State and an individual enrolled under the State plan (or a waiver of such plan) who participates in a qualifying clinical trial, routine patient costs—
     - **(A)** include any item or service provided to the individual under the qualifying clinical trial, including—

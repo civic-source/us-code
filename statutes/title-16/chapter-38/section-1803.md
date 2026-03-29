@@ -3,9 +3,9 @@ title: "Section 1803 - Authorization of appropriations"
 usc_title: 16
 usc_section: "1803"
 chapter: 38
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "16 U.S.C. § 1803"
-generated_at: "2026-03-29T22:04:21.693Z"
+generated_at: "2026-03-29T22:08:58.764Z"
 ---
 
 # § 1803. Authorization of appropriations

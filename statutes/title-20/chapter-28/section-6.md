@@ -3,9 +3,9 @@ title: "Section 6 - Evaluations"
 usc_title: 20
 usc_section: "6"
 chapter: 28
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "20 U.S.C. § 6"
-generated_at: "2026-03-29T22:04:14.247Z"
+generated_at: "2026-03-29T22:08:51.896Z"
 ---
 
 # § 1161i–6. Evaluations

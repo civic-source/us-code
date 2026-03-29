@@ -3,9 +3,9 @@ title: "Section 1382h - Benefits for individuals who perform substantial gainful
 usc_title: 42
 usc_section: "1382h"
 chapter: 7
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 1382h"
-generated_at: "2026-03-29T22:06:32.217Z"
+generated_at: "2026-03-29T22:10:50.695Z"
 ---
 
 # § 1382h. Benefits for individuals who perform substantial gainful activity despite severe medical impairment

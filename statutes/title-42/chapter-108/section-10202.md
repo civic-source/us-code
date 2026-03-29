@@ -3,9 +3,9 @@ title: "Section 10202 - Research on alternatives for permanent disposal of high-
 usc_title: 42
 usc_section: "10202"
 chapter: 108
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 10202"
-generated_at: "2026-03-29T22:06:33.126Z"
+generated_at: "2026-03-29T22:10:51.545Z"
 ---
 
 # § 10202. Research on alternatives for permanent disposal of high-level radioactive waste

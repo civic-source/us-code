@@ -3,9 +3,9 @@ title: "Section 3044 - Software licensing"
 usc_title: 50
 usc_section: "3044"
 chapter: 44
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "50 U.S.C. § 3044"
-generated_at: "2026-03-29T22:06:44.451Z"
+generated_at: "2026-03-29T22:11:02.188Z"
 ---
 
 # § 3044. Software licensing

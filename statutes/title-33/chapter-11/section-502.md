@@ -3,9 +3,9 @@ title: "Section 502 - Alteration, removal, or repair of bridge or accessory obst
 usc_title: 33
 usc_section: "502"
 chapter: 11
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "33 U.S.C. § 502"
-generated_at: "2026-03-29T22:05:24.921Z"
+generated_at: "2026-03-29T22:10:07.139Z"
 ---
 
 # § 502. Alteration, removal, or repair of bridge or accessory obstructions to navigation

@@ -3,9 +3,9 @@ title: "Section 2601 - Findings"
 usc_title: 16
 usc_section: "2601"
 chapter: 46
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "16 U.S.C. § 2601"
-generated_at: "2026-03-29T22:04:21.731Z"
+generated_at: "2026-03-29T22:08:58.798Z"
 ---
 
 # § 2601. Findings

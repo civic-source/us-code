@@ -3,9 +3,9 @@ title: "Section 8723 - Periodic re-examination of production requirements"
 usc_title: 10
 usc_section: "8723"
 chapter: 869
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "10 U.S.C. § 8723"
-generated_at: "2026-03-29T22:03:29.674Z"
+generated_at: "2026-03-29T22:08:02.543Z"
 ---
 
 # § 8723. Periodic re-examination of production requirements

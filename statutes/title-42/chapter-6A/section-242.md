@@ -3,9 +3,9 @@ title: "Section 242 - Studies and investigations on use and misuse of narcotic d
 usc_title: 42
 usc_section: "242"
 chapter: 6
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 242"
-generated_at: "2026-03-29T22:06:31.788Z"
+generated_at: "2026-03-29T22:10:50.204Z"
 ---
 
 # § 242. Studies and investigations on use and misuse of narcotic drugs and other drugs; annual report to Attorney General; cooperation with States

@@ -3,9 +3,9 @@ title: "Section 162a - Summer homes and cottages"
 usc_title: 16
 usc_section: "162a"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "16 U.S.C. § 162a"
-generated_at: "2026-03-29T22:04:21.249Z"
+generated_at: "2026-03-29T22:08:58.310Z"
 ---
 
 # § 162a. Summer homes and cottages

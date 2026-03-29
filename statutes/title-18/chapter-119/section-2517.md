@@ -3,9 +3,9 @@ title: "Section 2517 - Authorization for disclosure and use of intercepted wire,
 usc_title: 18
 usc_section: "2517"
 chapter: 119
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "18 U.S.C. § 2517"
-generated_at: "2026-03-29T22:04:03.455Z"
+generated_at: "2026-03-29T22:08:40.346Z"
 ---
 
 # § 2517. Authorization for disclosure and use of intercepted wire, oral, or electronic communications

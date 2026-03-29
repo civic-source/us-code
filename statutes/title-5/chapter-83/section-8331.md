@@ -3,9 +3,9 @@ title: "Section 8331 - Definitions"
 usc_title: 5
 usc_section: "8331"
 chapter: 83
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "5 U.S.C. § 8331"
-generated_at: "2026-03-29T22:02:55.888Z"
+generated_at: "2026-03-29T22:07:27.555Z"
 ---
 
 # § 8331. Definitions

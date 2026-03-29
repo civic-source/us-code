@@ -3,9 +3,9 @@ title: "Section 298 - Violations of law"
 usc_title: 15
 usc_section: "298"
 chapter: 8
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "15 U.S.C. § 298"
-generated_at: "2026-03-29T22:03:56.827Z"
+generated_at: "2026-03-29T22:08:24.727Z"
 ---
 
 # § 298. Violations of law

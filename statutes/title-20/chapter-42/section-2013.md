@@ -3,9 +3,9 @@ title: "Section 2013 - Authorization of appropriations"
 usc_title: 20
 usc_section: "2013"
 chapter: 42
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "20 U.S.C. § 2013"
-generated_at: "2026-03-29T22:04:14.292Z"
+generated_at: "2026-03-29T22:08:51.942Z"
 ---
 
 # § 2013. Authorization of appropriations

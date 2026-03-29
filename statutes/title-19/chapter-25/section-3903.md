@@ -3,9 +3,9 @@ title: "Section 3903 - Measures for the importation and exportation of rough dia
 usc_title: 19
 usc_section: "3903"
 chapter: 25
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "19 U.S.C. § 3903"
-generated_at: "2026-03-29T22:04:07.933Z"
+generated_at: "2026-03-29T22:09:14.280Z"
 ---
 
 # § 3903. Measures for the importation and exportation of rough diamonds

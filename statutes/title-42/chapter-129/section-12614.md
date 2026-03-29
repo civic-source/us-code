@@ -3,9 +3,9 @@ title: "Section 12614 - Summer national service program"
 usc_title: 42
 usc_section: "12614"
 chapter: 129
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 12614"
-generated_at: "2026-03-29T22:06:33.206Z"
+generated_at: "2026-03-29T22:10:51.611Z"
 ---
 
 # § 12614. Summer national service program

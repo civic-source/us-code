@@ -3,9 +3,9 @@ title: "Section 2432 - Definitions"
 usc_title: 16
 usc_section: "2432"
 chapter: 44
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "16 U.S.C. § 2432"
-generated_at: "2026-03-29T22:04:21.728Z"
+generated_at: "2026-03-29T22:08:58.795Z"
 ---
 
 # § 2432. Definitions

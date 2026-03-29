@@ -3,9 +3,9 @@ title: "Section 857 - Repealed. Pub. L. 101–647, title XXIV, § 2401(d) , Nov.
 usc_title: 21
 usc_section: "857"
 chapter: 13
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "21 U.S.C. § 857"
-generated_at: "2026-03-29T22:04:42.989Z"
+generated_at: "2026-03-29T22:09:23.993Z"
 ---
 
 # § 857. Repealed. Pub. L. 101–647, title XXIV, § 2401(d) , Nov. 29, 1990 , 104 Stat. 4859

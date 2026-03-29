@@ -3,9 +3,9 @@ title: "Section 508 - Special rules with respect to section 501(c)(3) organizati
 usc_title: 26
 usc_section: "508"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "26 U.S.C. § 508"
-generated_at: "2026-03-29T22:05:10.505Z"
+generated_at: "2026-03-29T22:09:57.797Z"
 ---
 
 # § 508. Special rules with respect to section 501(c)(3) organizations

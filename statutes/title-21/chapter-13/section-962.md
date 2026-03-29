@@ -3,9 +3,9 @@ title: "Section 962 - Second or subsequent offenses"
 usc_title: 21
 usc_section: "962"
 chapter: 13
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "21 U.S.C. § 962"
-generated_at: "2026-03-29T22:04:42.996Z"
+generated_at: "2026-03-29T22:09:24.000Z"
 ---
 
 # § 962. Second or subsequent offenses

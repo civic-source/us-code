@@ -3,9 +3,9 @@ title: "Section 450ii - Joshua Tree National Monument; revision of boundaries"
 usc_title: 16
 usc_section: "450ii"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "16 U.S.C. § 450ii"
-generated_at: "2026-03-29T22:04:21.366Z"
+generated_at: "2026-03-29T22:08:58.438Z"
 ---
 
 # § 450ii. Joshua Tree National Monument; revision of boundaries

@@ -3,9 +3,9 @@ title: "Section 17812 - Repealed or Omitted"
 usc_title: 42
 usc_section: "17812"
 chapter: 155
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 17812"
-generated_at: "2026-03-29T22:06:33.388Z"
+generated_at: "2026-03-29T22:10:51.779Z"
 ---
 
 # §§ 17811, 17812. Repealed or Omitted

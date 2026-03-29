@@ -3,9 +3,9 @@ title: "Section 2465a - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "2465a"
 chapter: 26
-current_through: "PL 117-81"
+current_through: "PL 117-102"
 classification: "42 U.S.C. § 2465a"
-generated_at: "2026-03-29T22:06:32.653Z"
+generated_at: "2026-03-29T22:10:51.111Z"
 ---
 
 # § 2465a. Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 Stat. 3444
