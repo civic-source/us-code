@@ -3,9 +3,9 @@ title: "Section 843 - Application of Internal Security Act of 1950 to members of
 usc_title: 50
 usc_section: "843"
 chapter: 23
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "50 U.S.C. § 843"
-generated_at: "2026-03-29T22:16:39.214Z"
+generated_at: "2026-03-29T22:22:35.952Z"
 ---
 
 # § 843. Application of Internal Security Act of 1950 to members of Communist Party and other subversive organizations; “Communist Party” defined

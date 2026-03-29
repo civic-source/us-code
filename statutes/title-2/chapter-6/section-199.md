@@ -3,9 +3,9 @@ title: "Section 199 - Member of commission, board, etc., appointed by President 
 usc_title: 2
 usc_section: "199"
 chapter: 6
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "2 U.S.C. § 199"
-generated_at: "2026-03-29T22:11:38.271Z"
+generated_at: "2026-03-29T22:17:45.423Z"
 ---
 
 # § 199. Member of commission, board, etc., appointed by President pro tempore of Senate; recommendation process; applicability

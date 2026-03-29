@@ -3,9 +3,9 @@ title: "Section 4826 - Transition provisions"
 usc_title: 50
 usc_section: "4826"
 chapter: 58
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "50 U.S.C. § 4826"
-generated_at: "2026-03-29T22:16:39.397Z"
+generated_at: "2026-03-29T22:22:36.183Z"
 ---
 
 # § 4826. Transition provisions

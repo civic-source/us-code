@@ -3,9 +3,9 @@ title: "Section 8105 - Structural requirements"
 usc_title: 38
 usc_section: "8105"
 chapter: 81
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "38 U.S.C. § 8105"
-generated_at: "2026-03-29T22:15:38.196Z"
+generated_at: "2026-03-29T22:21:25.626Z"
 ---
 
 # § 8105. Structural requirements

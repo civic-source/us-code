@@ -3,9 +3,9 @@ title: "Section 18373 - Decadal Survey missions implementation for Earth observa
 usc_title: 42
 usc_section: "18373"
 chapter: 159
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "42 U.S.C. § 18373"
-generated_at: "2026-03-29T22:16:20.612Z"
+generated_at: "2026-03-29T22:22:17.960Z"
 ---
 
 # § 18373. Decadal Survey missions implementation for Earth observation

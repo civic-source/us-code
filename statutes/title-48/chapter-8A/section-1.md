@@ -3,9 +3,9 @@ title: "Section 1 - Jurisdiction and powers of local courts"
 usc_title: 48
 usc_section: "1"
 chapter: 8
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "48 U.S.C. § 1"
-generated_at: "2026-03-29T22:16:25.833Z"
+generated_at: "2026-03-29T22:22:29.301Z"
 ---
 
 # § 1424–1. Jurisdiction and powers of local courts

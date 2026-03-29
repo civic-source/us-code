@@ -3,9 +3,9 @@ title: "Section 2162a - Promoting maximum efficiency in operation of Capitol Pow
 usc_title: 2
 usc_section: "2162a"
 chapter: 30
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "2 U.S.C. § 2162a"
-generated_at: "2026-03-29T22:11:38.358Z"
+generated_at: "2026-03-29T22:17:45.509Z"
 ---
 
 # § 2162a. Promoting maximum efficiency in operation of Capitol Power Plant

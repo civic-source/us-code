@@ -3,9 +3,9 @@ title: "Section 3305 - Audits of depositaries"
 usc_title: 31
 usc_section: "3305"
 chapter: 33
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "31 U.S.C. § 3305"
-generated_at: "2026-03-29T22:15:30.957Z"
+generated_at: "2026-03-29T22:21:07.412Z"
 ---
 
 # § 3305. Audits of depositaries

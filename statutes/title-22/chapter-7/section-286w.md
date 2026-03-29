@@ -3,9 +3,9 @@ title: "Section 286w - Denial of membership or other status in Fund for Palestin
 usc_title: 22
 usc_section: "286w"
 chapter: 7
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "22 U.S.C. § 286w"
-generated_at: "2026-03-29T22:14:52.756Z"
+generated_at: "2026-03-29T22:19:52.783Z"
 ---
 
 # § 286w. Denial of membership or other status in Fund for Palestine Liberation Organization; United States participation in Fund if membership or other status granted; report by President to Congress

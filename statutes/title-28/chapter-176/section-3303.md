@@ -3,9 +3,9 @@ title: "Section 3303 - Value for transfer or obligation"
 usc_title: 28
 usc_section: "3303"
 chapter: 176
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "28 U.S.C. § 3303"
-generated_at: "2026-03-29T22:15:20.569Z"
+generated_at: "2026-03-29T22:20:14.419Z"
 ---
 
 # § 3303. Value for transfer or obligation

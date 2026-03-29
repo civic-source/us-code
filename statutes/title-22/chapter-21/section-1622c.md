@@ -3,9 +3,9 @@ title: "Section 1622c - Membership of Foreign Claims Settlement Commission of th
 usc_title: 22
 usc_section: "1622c"
 chapter: 21
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "22 U.S.C. § 1622c"
-generated_at: "2026-03-29T22:14:52.787Z"
+generated_at: "2026-03-29T22:19:52.821Z"
 ---
 
 # § 1622c. Membership of Foreign Claims Settlement Commission of the United States

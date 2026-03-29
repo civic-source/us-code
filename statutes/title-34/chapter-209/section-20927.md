@@ -3,9 +3,9 @@ title: "Section 20927 - Failure of jurisdiction to comply"
 usc_title: 34
 usc_section: "20927"
 chapter: 209
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "34 U.S.C. § 20927"
-generated_at: "2026-03-29T22:15:28.094Z"
+generated_at: "2026-03-29T22:20:59.741Z"
 ---
 
 # § 20927. Failure of jurisdiction to comply

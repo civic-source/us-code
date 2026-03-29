@@ -3,9 +3,9 @@ title: "Section 1362 - Publication of marketing quota; mailing of allotment noti
 usc_title: 7
 usc_section: "1362"
 chapter: 35
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "7 U.S.C. § 1362"
-generated_at: "2026-03-29T22:12:12.959Z"
+generated_at: "2026-03-29T22:18:14.126Z"
 ---
 
 # § 1362. Publication of marketing quota; mailing of allotment notice

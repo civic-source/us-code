@@ -3,9 +3,9 @@ title: "Section 15001 - Findings, purposes, and policy"
 usc_title: 42
 usc_section: "15001"
 chapter: 144
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "42 U.S.C. § 15001"
-generated_at: "2026-03-29T22:16:20.476Z"
+generated_at: "2026-03-29T22:22:17.786Z"
 ---
 
 # § 15001. Findings, purposes, and policy

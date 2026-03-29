@@ -3,9 +3,9 @@ title: "Section 5239 - Recoupment"
 usc_title: 12
 usc_section: "5239"
 chapter: 52
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "12 U.S.C. § 5239"
-generated_at: "2026-03-29T22:12:59.691Z"
+generated_at: "2026-03-29T22:18:56.605Z"
 ---
 
 # § 5239. Recoupment

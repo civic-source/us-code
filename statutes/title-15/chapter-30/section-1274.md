@@ -3,9 +3,9 @@ title: "Section 1274 - Remedies respecting banned hazardous substances"
 usc_title: 15
 usc_section: "1274"
 chapter: 30
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "15 U.S.C. § 1274"
-generated_at: "2026-03-29T22:13:34.356Z"
+generated_at: "2026-03-29T22:19:02.763Z"
 ---
 
 # § 1274. Remedies respecting banned hazardous substances

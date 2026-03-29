@@ -3,9 +3,9 @@ title: "Section 7907 - Prohibitions on Federal Government and use of Federal fun
 usc_title: 20
 usc_section: "7907"
 chapter: 70
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "20 U.S.C. § 7907"
-generated_at: "2026-03-29T22:14:13.760Z"
+generated_at: "2026-03-29T22:19:23.097Z"
 ---
 
 # § 7907. Prohibitions on Federal Government and use of Federal funds

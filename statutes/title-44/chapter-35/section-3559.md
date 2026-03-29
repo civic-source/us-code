@@ -3,9 +3,9 @@ title: "Section 3559 - Federal websites required to be mobile friendly"
 usc_title: 44
 usc_section: "3559"
 chapter: 35
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "44 U.S.C. § 3559"
-generated_at: "2026-03-29T22:15:45.526Z"
+generated_at: "2026-03-29T22:21:34.856Z"
 ---
 
 # § 3559. Federal websites required to be mobile friendly

@@ -3,9 +3,9 @@ title: "Section 9567b - Duties"
 usc_title: 20
 usc_section: "9567b"
 chapter: 76
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "20 U.S.C. § 9567b"
-generated_at: "2026-03-29T22:14:13.781Z"
+generated_at: "2026-03-29T22:19:23.119Z"
 ---
 
 # § 9567b. Duties

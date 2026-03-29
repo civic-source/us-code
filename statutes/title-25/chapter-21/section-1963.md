@@ -3,9 +3,9 @@ title: "Section 1963 - Severability"
 usc_title: 25
 usc_section: "1963"
 chapter: 21
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "25 U.S.C. § 1963"
-generated_at: "2026-03-29T22:14:41.773Z"
+generated_at: "2026-03-29T22:20:08.599Z"
 ---
 
 # § 1963. Severability

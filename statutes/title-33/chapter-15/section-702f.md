@@ -3,9 +3,9 @@ title: "Section 702f - Expenditures for earlier projects"
 usc_title: 33
 usc_section: "702f"
 chapter: 15
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "33 U.S.C. § 702f"
-generated_at: "2026-03-29T22:15:26.371Z"
+generated_at: "2026-03-29T22:21:04.538Z"
 ---
 
 # § 702f. Expenditures for earlier projects

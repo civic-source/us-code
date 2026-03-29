@@ -3,9 +3,9 @@ title: "Section 1872 - Interagency trade organization"
 usc_title: 19
 usc_section: "1872"
 chapter: 7
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "19 U.S.C. § 1872"
-generated_at: "2026-03-29T22:14:17.159Z"
+generated_at: "2026-03-29T22:19:36.360Z"
 ---
 
 # § 1872. Interagency trade organization

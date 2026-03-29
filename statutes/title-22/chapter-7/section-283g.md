@@ -3,9 +3,9 @@ title: "Section 283g - Status, privileges, and immunities of the United States"
 usc_title: 22
 usc_section: "283g"
 chapter: 7
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "22 U.S.C. § 283g"
-generated_at: "2026-03-29T22:14:52.749Z"
+generated_at: "2026-03-29T22:19:52.770Z"
 ---
 
 # § 283g. Status, privileges, and immunities of the United States

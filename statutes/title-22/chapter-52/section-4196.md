@@ -3,9 +3,9 @@ title: "Section 4196 - Notification of death of decedent; transmission of invent
 usc_title: 22
 usc_section: "4196"
 chapter: 52
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "22 U.S.C. § 4196"
-generated_at: "2026-03-29T22:14:52.950Z"
+generated_at: "2026-03-29T22:19:53.017Z"
 ---
 
 # § 4196. Notification of death of decedent; transmission of inventory of effects

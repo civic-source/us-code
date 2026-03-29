@@ -3,9 +3,9 @@ title: "Section 556d - Advances of public moneys to Forest Service for fighting 
 usc_title: 16
 usc_section: "556d"
 chapter: 3
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "16 U.S.C. § 556d"
-generated_at: "2026-03-29T22:14:06.507Z"
+generated_at: "2026-03-29T22:19:14.298Z"
 ---
 
 # § 556d. Advances of public moneys to Forest Service for fighting forest fires in emergency cases

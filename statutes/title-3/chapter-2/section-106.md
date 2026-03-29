@@ -3,9 +3,9 @@ title: "Section 106 - Assistance and services for the Vice President"
 usc_title: 3
 usc_section: "106"
 chapter: 2
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "3 U.S.C. § 106"
-generated_at: "2026-03-29T22:11:34.973Z"
+generated_at: "2026-03-29T22:17:36.923Z"
 ---
 
 # § 106. Assistance and services for the Vice President

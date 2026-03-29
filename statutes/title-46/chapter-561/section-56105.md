@@ -3,9 +3,9 @@ title: "Section 56105 - Forfeiture procedure"
 usc_title: 46
 usc_section: "56105"
 chapter: 561
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "46 U.S.C. § 56105"
-generated_at: "2026-03-29T22:16:51.852Z"
+generated_at: "2026-03-29T22:23:02.750Z"
 ---
 
 # § 56105. Forfeiture procedure

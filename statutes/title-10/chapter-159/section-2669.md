@@ -3,9 +3,9 @@ title: "Section 2669 - Repealed. Pub. L. 109–364, div. B, title XXVIII, § 282
 usc_title: 10
 usc_section: "2669"
 chapter: 159
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "10 U.S.C. § 2669"
-generated_at: "2026-03-29T22:11:59.004Z"
+generated_at: "2026-03-29T22:18:45.978Z"
 ---
 
 # [§ 2669. Repealed. Pub. L. 109–364, div. B, title XXVIII, § 2822(c) , Oct. 17, 2006 , 120 Stat. 2475 ]

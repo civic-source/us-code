@@ -3,9 +3,9 @@ title: "Section 7416a - Confirmation of authority of Secretary of Agriculture to
 usc_title: 7
 usc_section: "7416a"
 chapter: 101
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "7 U.S.C. § 7416a"
-generated_at: "2026-03-29T22:12:13.270Z"
+generated_at: "2026-03-29T22:18:14.384Z"
 ---
 
 # § 7416a. Confirmation of authority of Secretary of Agriculture to collect State commodity assessments

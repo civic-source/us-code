@@ -3,9 +3,9 @@ title: "Section 290kk - Applicability to designated programs"
 usc_title: 42
 usc_section: "290kk"
 chapter: 6
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "42 U.S.C. § 290kk"
-generated_at: "2026-03-29T22:16:18.877Z"
+generated_at: "2026-03-29T22:22:15.992Z"
 ---
 
 # § 290kk. Applicability to designated programs

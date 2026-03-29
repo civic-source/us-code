@@ -3,9 +3,9 @@ title: "Section 140703 - Purposes"
 usc_title: 36
 usc_section: "140703"
 chapter: 1407
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "36 U.S.C. § 140703"
-generated_at: "2026-03-29T22:15:40.748Z"
+generated_at: "2026-03-29T22:21:13.699Z"
 ---
 
 # § 140703. Purposes

@@ -3,9 +3,9 @@ title: "Section 1452 - Penalty for failure to provide notice"
 usc_title: 29
 usc_section: "1452"
 chapter: 18
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "29 U.S.C. § 1452"
-generated_at: "2026-03-29T22:15:04.110Z"
+generated_at: "2026-03-29T22:20:18.496Z"
 ---
 
 # § 1452. Penalty for failure to provide notice

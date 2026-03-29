@@ -3,9 +3,9 @@ title: "Section 985 - Bonds; issuance; maturity; redemption; interest; purchase 
 usc_title: 33
 usc_section: "985"
 chapter: 19
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "33 U.S.C. § 985"
-generated_at: "2026-03-29T22:15:26.392Z"
+generated_at: "2026-03-29T22:21:04.561Z"
 ---
 
 # § 985. Bonds; issuance; maturity; redemption; interest; purchase of obligations by Secretary of the Treasury

@@ -3,9 +3,9 @@ title: "Section 391b - Omitted"
 usc_title: 43
 usc_section: "391b"
 chapter: 12
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "43 U.S.C. § 391b"
-generated_at: "2026-03-29T22:15:48.566Z"
+generated_at: "2026-03-29T22:21:42.252Z"
 ---
 
 # § 391b. Omitted

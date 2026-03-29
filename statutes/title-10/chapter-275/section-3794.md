@@ -3,9 +3,9 @@ title: "Section 3794 - Release of technical data under Freedom of Information Ac
 usc_title: 10
 usc_section: "3794"
 chapter: 275
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "10 U.S.C. § 3794"
-generated_at: "2026-03-29T22:11:59.050Z"
+generated_at: "2026-03-29T22:18:46.017Z"
 ---
 
 # § 3794. Release of technical data under Freedom of Information Act: recovery of costs

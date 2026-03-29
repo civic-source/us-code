@@ -3,9 +3,9 @@ title: "Section 6416 - Equal access to United States missions abroad for conduct
 usc_title: 22
 usc_section: "6416"
 chapter: 73
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "22 U.S.C. § 6416"
-generated_at: "2026-03-29T22:14:52.992Z"
+generated_at: "2026-03-29T22:19:53.067Z"
 ---
 
 # § 6416. Equal access to United States missions abroad for conducting religious activities

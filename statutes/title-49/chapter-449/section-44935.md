@@ -3,9 +3,9 @@ title: "Section 44935 - Employment standards and training"
 usc_title: 49
 usc_section: "44935"
 chapter: 449
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "49 U.S.C. § 44935"
-generated_at: "2026-03-29T22:16:49.766Z"
+generated_at: "2026-03-29T22:23:16.491Z"
 ---
 
 # § 44935. Employment standards and training

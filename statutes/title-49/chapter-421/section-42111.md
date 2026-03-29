@@ -3,9 +3,9 @@ title: "Section 42111 - Mutual aid agreements"
 usc_title: 49
 usc_section: "42111"
 chapter: 421
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "49 U.S.C. § 42111"
-generated_at: "2026-03-29T22:16:49.739Z"
+generated_at: "2026-03-29T22:23:16.459Z"
 ---
 
 # § 42111. Mutual aid agreements

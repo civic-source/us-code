@@ -3,9 +3,9 @@ title: "Section 1693o - Administrative enforcement"
 usc_title: 15
 usc_section: "1693o"
 chapter: 41
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "15 U.S.C. § 1693o"
-generated_at: "2026-03-29T22:13:34.434Z"
+generated_at: "2026-03-29T22:19:02.829Z"
 ---
 
 # § 1693o. Administrative enforcement

@@ -3,9 +3,9 @@ title: "Section 8733 - Lease of land acquired for park, parkway, or playground p
 usc_title: 40
 usc_section: "8733"
 chapter: 87
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "40 U.S.C. § 8733"
-generated_at: "2026-03-29T22:15:39.217Z"
+generated_at: "2026-03-29T22:21:17.274Z"
 ---
 
 # § 8733. Lease of land acquired for park, parkway, or playground purposes

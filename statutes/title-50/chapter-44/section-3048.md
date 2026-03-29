@@ -3,9 +3,9 @@ title: "Section 3048 - Detail of intelligence community personnel—Intelligence
 usc_title: 50
 usc_section: "3048"
 chapter: 44
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "50 U.S.C. § 3048"
-generated_at: "2026-03-29T22:16:39.297Z"
+generated_at: "2026-03-29T22:22:36.054Z"
 ---
 
 # § 3048. Detail of intelligence community personnel—Intelligence Community Assignment Program

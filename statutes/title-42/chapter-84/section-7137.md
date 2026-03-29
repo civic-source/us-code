@@ -3,9 +3,9 @@ title: "Section 7137 - Functions of Comptroller General"
 usc_title: 42
 usc_section: "7137"
 chapter: 84
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "42 U.S.C. § 7137"
-generated_at: "2026-03-29T22:16:20.082Z"
+generated_at: "2026-03-29T22:22:17.295Z"
 ---
 
 # § 7137. Functions of Comptroller General

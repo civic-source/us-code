@@ -3,9 +3,9 @@ title: "Section 287 - Representation in Organization"
 usc_title: 22
 usc_section: "287"
 chapter: 7
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "22 U.S.C. § 287"
-generated_at: "2026-03-29T22:14:52.760Z"
+generated_at: "2026-03-29T22:19:52.786Z"
 ---
 
 # § 287. Representation in Organization

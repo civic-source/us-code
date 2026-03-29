@@ -3,9 +3,9 @@ title: "Section 653a - State Directory of New Hires"
 usc_title: 42
 usc_section: "653a"
 chapter: 7
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "42 U.S.C. § 653a"
-generated_at: "2026-03-29T22:16:19.161Z"
+generated_at: "2026-03-29T22:22:16.297Z"
 ---
 
 # § 653a. State Directory of New Hires

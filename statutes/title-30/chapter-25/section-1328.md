@@ -3,9 +3,9 @@ title: "Section 1328 - Research, development projects, etc., relating to alterna
 usc_title: 30
 usc_section: "1328"
 chapter: 25
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "30 U.S.C. § 1328"
-generated_at: "2026-03-29T22:15:06.637Z"
+generated_at: "2026-03-29T22:20:15.470Z"
 ---
 
 # § 1328. Research, development projects, etc., relating to alternative coal mining technologies

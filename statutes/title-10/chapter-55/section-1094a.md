@@ -3,9 +3,9 @@ title: "Section 1094a - Continuing medical education requirements: system for mo
 usc_title: 10
 usc_section: "1094a"
 chapter: 55
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "10 U.S.C. § 1094a"
-generated_at: "2026-03-29T22:11:58.899Z"
+generated_at: "2026-03-29T22:18:45.885Z"
 ---
 
 # § 1094a. Continuing medical education requirements: system for monitoring physician compliance

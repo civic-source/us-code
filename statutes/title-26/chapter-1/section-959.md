@@ -3,9 +3,9 @@ title: "Section 959 - Exclusion from gross income of previously taxed earnings a
 usc_title: 26
 usc_section: "959"
 chapter: 1
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "26 U.S.C. § 959"
-generated_at: "2026-03-29T22:15:18.562Z"
+generated_at: "2026-03-29T22:20:51.388Z"
 ---
 
 # § 959. Exclusion from gross income of previously taxed earnings and profits

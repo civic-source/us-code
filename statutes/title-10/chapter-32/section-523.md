@@ -3,9 +3,9 @@ title: "Section 523 - Authorized strengths: commissioned officers on active duty
 usc_title: 10
 usc_section: "523"
 chapter: 32
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "10 U.S.C. § 523"
-generated_at: "2026-03-29T22:11:58.825Z"
+generated_at: "2026-03-29T22:18:45.828Z"
 ---
 
 # § 523. Authorized strengths: commissioned officers on active duty in grades of major, lieutenant colonel, and colonel and Navy grades of lieutenant commander, commander, and captain

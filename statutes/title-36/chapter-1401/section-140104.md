@@ -3,9 +3,9 @@ title: "Section 140104 - Annual report"
 usc_title: 36
 usc_section: "140104"
 chapter: 1401
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "36 U.S.C. § 140104"
-generated_at: "2026-03-29T22:15:40.747Z"
+generated_at: "2026-03-29T22:21:13.698Z"
 ---
 
 # § 140104. Annual report

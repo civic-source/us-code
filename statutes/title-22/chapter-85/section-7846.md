@@ -3,9 +3,9 @@ title: "Section 7846 - Sense of Congress on humanitarian coordination related to
 usc_title: 22
 usc_section: "7846"
 chapter: 85
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "22 U.S.C. § 7846"
-generated_at: "2026-03-29T22:14:53.040Z"
+generated_at: "2026-03-29T22:19:53.118Z"
 ---
 
 # § 7846. Sense of Congress on humanitarian coordination related to the Korean Peninsula

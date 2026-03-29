@@ -3,9 +3,9 @@ title: "Section 5727 - Definitions"
 usc_title: 38
 usc_section: "5727"
 chapter: 57
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "38 U.S.C. § 5727"
-generated_at: "2026-03-29T22:15:38.165Z"
+generated_at: "2026-03-29T22:21:25.574Z"
 ---
 
 # § 5727. Definitions

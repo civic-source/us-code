@@ -3,9 +3,9 @@ title: "Section 3111 - Regulations to promote satisfactory conduct and cooperati
 usc_title: 38
 usc_section: "3111"
 chapter: 31
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "38 U.S.C. § 3111"
-generated_at: "2026-03-29T22:15:38.114Z"
+generated_at: "2026-03-29T22:21:25.491Z"
 ---
 
 # § 3111. Regulations to promote satisfactory conduct and cooperation

@@ -3,9 +3,9 @@ title: "Section 1537 - International cooperation"
 usc_title: 16
 usc_section: "1537"
 chapter: 35
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "16 U.S.C. § 1537"
-generated_at: "2026-03-29T22:14:06.737Z"
+generated_at: "2026-03-29T22:19:14.464Z"
 ---
 
 # § 1537. International cooperation

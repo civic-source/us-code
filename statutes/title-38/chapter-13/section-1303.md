@@ -3,9 +3,9 @@ title: "Section 1303 - Cost-of-living adjustments"
 usc_title: 38
 usc_section: "1303"
 chapter: 13
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "38 U.S.C. § 1303"
-generated_at: "2026-03-29T22:15:38.051Z"
+generated_at: "2026-03-29T22:21:25.401Z"
 ---
 
 # § 1303. Cost-of-living adjustments

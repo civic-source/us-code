@@ -3,9 +3,9 @@ title: "Section 5562 - Assistance projects"
 usc_title: 49
 usc_section: "5562"
 chapter: 55
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "49 U.S.C. § 5562"
-generated_at: "2026-03-29T22:16:49.618Z"
+generated_at: "2026-03-29T22:23:16.308Z"
 ---
 
 # § 5562. Assistance projects

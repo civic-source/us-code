@@ -3,9 +3,9 @@ title: "Section 1140l - Establishment of Advisory Commission on Accessible Instr
 usc_title: 20
 usc_section: "1140l"
 chapter: 28
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "20 U.S.C. § 1140l"
-generated_at: "2026-03-29T22:14:13.566Z"
+generated_at: "2026-03-29T22:19:22.887Z"
 ---
 
 # § 1140l. Establishment of Advisory Commission on Accessible Instructional Materials in Postsecondary Education for Students with Disabilities

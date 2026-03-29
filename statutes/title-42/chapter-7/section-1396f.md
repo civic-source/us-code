@@ -3,9 +3,9 @@ title: "Section 1396f - Observance of religious beliefs"
 usc_title: 42
 usc_section: "1396f"
 chapter: 7
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "42 U.S.C. § 1396f"
-generated_at: "2026-03-29T22:16:19.523Z"
+generated_at: "2026-03-29T22:22:16.681Z"
 ---
 
 # § 1396f. Observance of religious beliefs

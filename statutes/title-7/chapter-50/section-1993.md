@@ -3,9 +3,9 @@ title: "Section 1993 - Transition to private commercial or other sources of cred
 usc_title: 7
 usc_section: "1993"
 chapter: 50
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "7 U.S.C. § 1993"
-generated_at: "2026-03-29T22:12:13.050Z"
+generated_at: "2026-03-29T22:18:14.199Z"
 ---
 
 # § 1993. Transition to private commercial or other sources of credit

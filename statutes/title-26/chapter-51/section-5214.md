@@ -3,9 +3,9 @@ title: "Section 5214 - Withdrawal of distilled spirits from bonded premises free
 usc_title: 26
 usc_section: "5214"
 chapter: 51
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "26 U.S.C. § 5214"
-generated_at: "2026-03-29T22:15:18.713Z"
+generated_at: "2026-03-29T22:20:51.576Z"
 ---
 
 # § 5214. Withdrawal of distilled spirits from bonded premises free of tax or without payment of tax

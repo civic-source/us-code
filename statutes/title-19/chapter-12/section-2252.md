@@ -3,9 +3,9 @@ title: "Section 2252 - Investigations, determinations, and recommendations by Co
 usc_title: 19
 usc_section: "2252"
 chapter: 12
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "19 U.S.C. § 2252"
-generated_at: "2026-03-29T22:14:17.171Z"
+generated_at: "2026-03-29T22:19:36.376Z"
 ---
 
 # § 2252. Investigations, determinations, and recommendations by Commission

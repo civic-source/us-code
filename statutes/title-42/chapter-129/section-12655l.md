@@ -3,9 +3,9 @@ title: "Section 12655l - Living allowance"
 usc_title: 42
 usc_section: "12655l"
 chapter: 129
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "42 U.S.C. § 12655l"
-generated_at: "2026-03-29T22:16:20.418Z"
+generated_at: "2026-03-29T22:22:17.713Z"
 ---
 
 # § 12655l. Living allowance

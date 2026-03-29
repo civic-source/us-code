@@ -3,9 +3,9 @@ title: "Section 9511 - Congressional review of certain actions relating to sanct
 usc_title: 22
 usc_section: "9511"
 chapter: 102
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "22 U.S.C. § 9511"
-generated_at: "2026-03-29T22:14:53.083Z"
+generated_at: "2026-03-29T22:19:53.167Z"
 ---
 
 # § 9511. Congressional review of certain actions relating to sanctions imposed with respect to the Russian Federation

@@ -3,9 +3,9 @@ title: "Section 521b - Report of Secretary of Agriculture prior to purchase or e
 usc_title: 16
 usc_section: "521b"
 chapter: 2
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "16 U.S.C. § 521b"
-generated_at: "2026-03-29T22:14:06.477Z"
+generated_at: "2026-03-29T22:19:14.275Z"
 ---
 
 # § 521b. Report of Secretary of Agriculture prior to purchase or exchange of land; contents; waiting period

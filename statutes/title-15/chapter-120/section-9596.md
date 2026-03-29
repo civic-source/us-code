@@ -3,9 +3,9 @@ title: "Section 9596 - Separability"
 usc_title: 15
 usc_section: "9596"
 chapter: 120
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "15 U.S.C. § 9596"
-generated_at: "2026-03-29T22:13:34.718Z"
+generated_at: "2026-03-29T22:19:03.071Z"
 ---
 
 # § 9596. Separability

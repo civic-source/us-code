@@ -3,9 +3,9 @@ title: "Section 1706a - Civil penalties for trading without required certificate
 usc_title: 19
 usc_section: "1706a"
 chapter: 5
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "19 U.S.C. § 1706a"
-generated_at: "2026-03-29T22:14:17.158Z"
+generated_at: "2026-03-29T22:19:36.358Z"
 ---
 
 # § 1706a. Civil penalties for trading without required certificate of documentation

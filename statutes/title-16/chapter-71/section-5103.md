@@ -3,9 +3,9 @@ title: "Section 5103 - State-Federal cooperation in Atlantic coastal fishery man
 usc_title: 16
 usc_section: "5103"
 chapter: 71
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "16 U.S.C. § 5103"
-generated_at: "2026-03-29T22:14:06.891Z"
+generated_at: "2026-03-29T22:19:14.585Z"
 ---
 
 # § 5103. State-Federal cooperation in Atlantic coastal fishery management

@@ -3,9 +3,9 @@ title: "Section 1952 - Fiscal procedures assistance"
 usc_title: 48
 usc_section: "1952"
 chapter: 18
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "48 U.S.C. § 1952"
-generated_at: "2026-03-29T22:16:25.873Z"
+generated_at: "2026-03-29T22:22:29.341Z"
 ---
 
 # § 1952. Fiscal procedures assistance

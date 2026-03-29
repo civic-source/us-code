@@ -3,9 +3,9 @@ title: "Section 782 - Leasing of space in the General Accounting Office Building
 usc_title: 31
 usc_section: "782"
 chapter: 7
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "31 U.S.C. § 782"
-generated_at: "2026-03-29T22:15:30.942Z"
+generated_at: "2026-03-29T22:21:07.395Z"
 ---
 
 # § 782. Leasing of space in the General Accounting Office Building

@@ -3,9 +3,9 @@ title: "Section 6577 - Senate legislative information system"
 usc_title: 2
 usc_section: "6577"
 chapter: 65
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "2 U.S.C. § 6577"
-generated_at: "2026-03-29T22:11:38.388Z"
+generated_at: "2026-03-29T22:17:45.540Z"
 ---
 
 # § 6577. Senate legislative information system

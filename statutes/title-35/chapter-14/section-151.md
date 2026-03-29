@@ -3,9 +3,9 @@ title: "Section 151 - Issue of patent"
 usc_title: 35
 usc_section: "151"
 chapter: 14
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "35 U.S.C. § 151"
-generated_at: "2026-03-29T22:15:23.367Z"
+generated_at: "2026-03-29T22:20:55.088Z"
 ---
 
 # § 151. Issue of patent

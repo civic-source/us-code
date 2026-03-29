@@ -3,9 +3,9 @@ title: "Section 6442 - Presidential actions in response to particularly severe v
 usc_title: 22
 usc_section: "6442"
 chapter: 73
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "22 U.S.C. § 6442"
-generated_at: "2026-03-29T22:14:52.995Z"
+generated_at: "2026-03-29T22:19:53.070Z"
 ---
 
 # § 6442. Presidential actions in response to particularly severe violations of religious freedom

@@ -3,9 +3,9 @@ title: "Section 2084 - Office of Trade"
 usc_title: 19
 usc_section: "2084"
 chapter: 10
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "19 U.S.C. § 2084"
-generated_at: "2026-03-29T22:14:17.163Z"
+generated_at: "2026-03-29T22:19:36.366Z"
 ---
 
 # § 2084. Office of Trade

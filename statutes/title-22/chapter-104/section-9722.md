@@ -3,9 +3,9 @@ title: "Section 9722 - Waiver for sanctioned officials that recognize the Interi
 usc_title: 22
 usc_section: "9722"
 chapter: 104
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "22 U.S.C. § 9722"
-generated_at: "2026-03-29T22:14:53.096Z"
+generated_at: "2026-03-29T22:19:53.178Z"
 ---
 
 # § 9722. Waiver for sanctioned officials that recognize the Interim President of Venezuela

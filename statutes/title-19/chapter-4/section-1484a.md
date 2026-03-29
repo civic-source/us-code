@@ -3,9 +3,9 @@ title: "Section 1484a - Articles returned from space not to be construed as impo
 usc_title: 19
 usc_section: "1484a"
 chapter: 4
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "19 U.S.C. § 1484a"
-generated_at: "2026-03-29T22:14:17.115Z"
+generated_at: "2026-03-29T22:19:36.304Z"
 ---
 
 # § 1484a. Articles returned from space not to be construed as importation

@@ -3,9 +3,9 @@ title: "Section 452 - Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(12),
 usc_title: 22
 usc_section: "452"
 chapter: 9
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "22 U.S.C. § 452"
-generated_at: "2026-03-29T22:14:52.772Z"
+generated_at: "2026-03-29T22:19:52.805Z"
 ---
 
 # § 452. Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(12), 68 Stat. 861

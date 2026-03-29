@@ -3,9 +3,9 @@ title: "Section 3309 - Preservation of claims of Government until settled in Gov
 usc_title: 44
 usc_section: "3309"
 chapter: 33
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "44 U.S.C. § 3309"
-generated_at: "2026-03-29T22:15:45.516Z"
+generated_at: "2026-03-29T22:21:34.846Z"
 ---
 
 # § 3309. Preservation of claims of Government until settled in Government Accountability Office; disposal authorized upon written approval of Comptroller General

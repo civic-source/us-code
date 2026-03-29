@@ -3,9 +3,9 @@ title: "Section 340 - Extension of certain provisions"
 usc_title: 25
 usc_section: "340"
 chapter: 9
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "25 U.S.C. § 340"
-generated_at: "2026-03-29T22:14:41.697Z"
+generated_at: "2026-03-29T22:20:08.526Z"
 ---
 
 # § 340. Extension of certain provisions

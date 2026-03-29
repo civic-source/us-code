@@ -3,9 +3,9 @@ title: "Section 7631 - Presidential Task Force on Wildlife Trafficking"
 usc_title: 16
 usc_section: "7631"
 chapter: 95
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "16 U.S.C. § 7631"
-generated_at: "2026-03-29T22:14:06.946Z"
+generated_at: "2026-03-29T22:19:14.628Z"
 ---
 
 # § 7631. Presidential Task Force on Wildlife Trafficking

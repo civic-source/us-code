@@ -3,9 +3,9 @@ title: "Section 9582 - Participation of Federal departments and agencies"
 usc_title: 15
 usc_section: "9582"
 chapter: 120
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "15 U.S.C. § 9582"
-generated_at: "2026-03-29T22:13:34.718Z"
+generated_at: "2026-03-29T22:19:03.070Z"
 ---
 
 # § 9582. Participation of Federal departments and agencies

@@ -3,9 +3,9 @@ title: "Section 351 - Disposal of patient records"
 usc_title: 11
 usc_section: "351"
 chapter: 3
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "11 U.S.C. § 351"
-generated_at: "2026-03-29T22:12:34.867Z"
+generated_at: "2026-03-29T22:18:51.124Z"
 ---
 
 # § 351. Disposal of patient records

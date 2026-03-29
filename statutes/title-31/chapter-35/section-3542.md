@@ -3,9 +3,9 @@ title: "Section 3542 - Carrying out distress warrants"
 usc_title: 31
 usc_section: "3542"
 chapter: 35
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "31 U.S.C. § 3542"
-generated_at: "2026-03-29T22:15:30.964Z"
+generated_at: "2026-03-29T22:21:07.422Z"
 ---
 
 # § 3542. Carrying out distress warrants

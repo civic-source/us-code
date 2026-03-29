@@ -3,9 +3,9 @@ title: "Section 140706 - Powers"
 usc_title: 36
 usc_section: "140706"
 chapter: 1407
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "36 U.S.C. § 140706"
-generated_at: "2026-03-29T22:15:40.749Z"
+generated_at: "2026-03-29T22:21:13.699Z"
 ---
 
 # § 140706. Powers

@@ -3,9 +3,9 @@ title: "Section 616 - Inspectors of carcasses, etc., meat of which is intended f
 usc_title: 21
 usc_section: "616"
 chapter: 12
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "21 U.S.C. § 616"
-generated_at: "2026-03-29T22:14:58.087Z"
+generated_at: "2026-03-29T22:19:44.023Z"
 ---
 
 # § 616. Inspectors of carcasses, etc., meat of which is intended for export; certificates of condition

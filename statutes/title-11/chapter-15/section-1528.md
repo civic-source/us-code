@@ -3,9 +3,9 @@ title: "Section 1528 - Commencement of a case under this title after recognition
 usc_title: 11
 usc_section: "1528"
 chapter: 15
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "11 U.S.C. § 1528"
-generated_at: "2026-03-29T22:12:34.911Z"
+generated_at: "2026-03-29T22:18:51.161Z"
 ---
 
 # § 1528. Commencement of a case under this title after recognition of a foreign main proceeding

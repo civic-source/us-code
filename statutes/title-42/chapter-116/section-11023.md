@@ -3,9 +3,9 @@ title: "Section 11023 - Toxic chemical release forms"
 usc_title: 42
 usc_section: "11023"
 chapter: 116
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "42 U.S.C. § 11023"
-generated_at: "2026-03-29T22:16:20.343Z"
+generated_at: "2026-03-29T22:22:17.617Z"
 ---
 
 # § 11023. Toxic chemical release forms

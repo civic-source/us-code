@@ -3,9 +3,9 @@ title: "Section 823 - Repealed. July 3, 1950, ch. 446, § 5(2) , 64 Stat. 320"
 usc_title: 48
 usc_section: "823"
 chapter: 4
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "48 U.S.C. § 823"
-generated_at: "2026-03-29T22:16:25.824Z"
+generated_at: "2026-03-29T22:22:29.288Z"
 ---
 
 # §§ 822, 823. Repealed. July 3, 1950, ch. 446, § 5(2) , 64 Stat. 320

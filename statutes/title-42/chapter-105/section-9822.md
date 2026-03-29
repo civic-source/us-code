@@ -3,9 +3,9 @@ title: "Section 9822 - Availability of certain appropriated funds"
 usc_title: 42
 usc_section: "9822"
 chapter: 105
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "42 U.S.C. § 9822"
-generated_at: "2026-03-29T22:16:20.274Z"
+generated_at: "2026-03-29T22:22:17.538Z"
 ---
 
 # § 9822. Availability of certain appropriated funds

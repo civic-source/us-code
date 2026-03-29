@@ -3,9 +3,9 @@ title: "Section 8137 - State control of operations"
 usc_title: 38
 usc_section: "8137"
 chapter: 81
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "38 U.S.C. § 8137"
-generated_at: "2026-03-29T22:15:38.201Z"
+generated_at: "2026-03-29T22:21:25.638Z"
 ---
 
 # § 8137. State control of operations

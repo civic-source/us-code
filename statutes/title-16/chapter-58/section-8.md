@@ -3,9 +3,9 @@ title: "Section 8 - Conservation innovation grants and payments"
 usc_title: 16
 usc_section: "8"
 chapter: 58
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "16 U.S.C. § 8"
-generated_at: "2026-03-29T22:14:06.847Z"
+generated_at: "2026-03-29T22:19:14.552Z"
 ---
 
 # § 3839aa–8. Conservation innovation grants and payments

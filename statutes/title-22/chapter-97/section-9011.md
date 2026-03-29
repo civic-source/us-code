@@ -3,9 +3,9 @@ title: "Section 9011 - Authorization of appropriations"
 usc_title: 22
 usc_section: "9011"
 chapter: 97
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "22 U.S.C. § 9011"
-generated_at: "2026-03-29T22:14:53.071Z"
+generated_at: "2026-03-29T22:19:53.154Z"
 ---
 
 # § 9011. Authorization of appropriations

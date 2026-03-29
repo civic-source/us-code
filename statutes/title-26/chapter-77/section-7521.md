@@ -3,9 +3,9 @@ title: "Section 7521 - Procedures involving taxpayer interviews"
 usc_title: 26
 usc_section: "7521"
 chapter: 77
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "26 U.S.C. § 7521"
-generated_at: "2026-03-29T22:15:18.849Z"
+generated_at: "2026-03-29T22:20:51.716Z"
 ---
 
 # § 7521. Procedures involving taxpayer interviews

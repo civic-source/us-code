@@ -3,9 +3,9 @@ title: "Section 2451 - Authority of Executive Director"
 usc_title: 15
 usc_section: "2451"
 chapter: 51
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "15 U.S.C. § 2451"
-generated_at: "2026-03-29T22:13:34.488Z"
+generated_at: "2026-03-29T22:19:02.873Z"
 ---
 
 # § 2451. Authority of Executive Director

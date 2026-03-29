@@ -3,9 +3,9 @@ title: "Section 410 - Renumbered § 480]"
 usc_title: 37
 usc_section: "410"
 chapter: 7
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "37 U.S.C. § 410"
-generated_at: "2026-03-29T22:15:41.490Z"
+generated_at: "2026-03-29T22:21:26.904Z"
 ---
 
 # [§ 410. Renumbered § 480]

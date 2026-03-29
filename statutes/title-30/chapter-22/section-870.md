@@ -3,9 +3,9 @@ title: "Section 870 - Trolley wires and trolley feeder wires"
 usc_title: 30
 usc_section: "870"
 chapter: 22
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "30 U.S.C. § 870"
-generated_at: "2026-03-29T22:15:06.603Z"
+generated_at: "2026-03-29T22:20:15.433Z"
 ---
 
 # § 870. Trolley wires and trolley feeder wires

@@ -3,9 +3,9 @@ title: "Section 1493 - Prosecution; authorization to seek review; local or Feder
 usc_title: 48
 usc_section: "1493"
 chapter: 10
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "48 U.S.C. § 1493"
-generated_at: "2026-03-29T22:16:25.840Z"
+generated_at: "2026-03-29T22:22:29.306Z"
 ---
 
 # § 1493. Prosecution; authorization to seek review; local or Federal appellate courts; decisions, judgments or orders

@@ -3,9 +3,9 @@ title: "Section 9811 - Travel and transportation expenses of certain new appoint
 usc_title: 5
 usc_section: "9811"
 chapter: 98
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "5 U.S.C. § 9811"
-generated_at: "2026-03-29T22:11:41.563Z"
+generated_at: "2026-03-29T22:17:32.197Z"
 ---
 
 # § 9811. Travel and transportation expenses of certain new appointees

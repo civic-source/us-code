@@ -3,9 +3,9 @@ title: "Section 8281b - Repealed. Pub. L. 99–412, title II, § 201(a) , Aug. 2
 usc_title: 42
 usc_section: "8281b"
 chapter: 91
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "42 U.S.C. § 8281b"
-generated_at: "2026-03-29T22:16:20.211Z"
+generated_at: "2026-03-29T22:22:17.463Z"
 ---
 
 # §§ 8281 to 8281b. Repealed. Pub. L. 99–412, title II, § 201(a) , Aug. 28, 1986 , 100 Stat. 943

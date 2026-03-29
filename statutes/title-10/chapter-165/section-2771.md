@@ -3,9 +3,9 @@ title: "Section 2771 - Final settlement of accounts: deceased members"
 usc_title: 10
 usc_section: "2771"
 chapter: 165
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "10 U.S.C. § 2771"
-generated_at: "2026-03-29T22:11:59.014Z"
+generated_at: "2026-03-29T22:18:45.986Z"
 ---
 
 # § 2771. Final settlement of accounts: deceased members

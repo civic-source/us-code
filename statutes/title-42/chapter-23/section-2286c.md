@@ -3,9 +3,9 @@ title: "Section 2286c - Responsibilities of Secretary of Energy"
 usc_title: 42
 usc_section: "2286c"
 chapter: 23
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "42 U.S.C. § 2286c"
-generated_at: "2026-03-29T22:16:19.801Z"
+generated_at: "2026-03-29T22:22:16.961Z"
 ---
 
 # § 2286c. Responsibilities of Secretary of Energy

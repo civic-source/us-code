@@ -3,9 +3,9 @@ title: "Section 1155 - Statement of benefits"
 usc_title: 10
 usc_section: "1155"
 chapter: 58
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "10 U.S.C. § 1155"
-generated_at: "2026-03-29T22:11:58.909Z"
+generated_at: "2026-03-29T22:18:45.895Z"
 ---
 
 # § 1155. Statement of benefits

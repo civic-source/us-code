@@ -3,9 +3,9 @@ title: "Section 964 - Additional penalties"
 usc_title: 21
 usc_section: "964"
 chapter: 13
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "21 U.S.C. § 964"
-generated_at: "2026-03-29T22:14:58.109Z"
+generated_at: "2026-03-29T22:19:44.057Z"
 ---
 
 # § 964. Additional penalties

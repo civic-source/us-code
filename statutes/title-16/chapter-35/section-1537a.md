@@ -3,9 +3,9 @@ title: "Section 1537a - Convention implementation"
 usc_title: 16
 usc_section: "1537a"
 chapter: 35
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "16 U.S.C. § 1537a"
-generated_at: "2026-03-29T22:14:06.737Z"
+generated_at: "2026-03-29T22:19:14.465Z"
 ---
 
 # § 1537a. Convention implementation

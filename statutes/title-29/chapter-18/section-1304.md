@@ -3,9 +3,9 @@ title: "Section 1304 - Participant and Plan Sponsor Advocate"
 usc_title: 29
 usc_section: "1304"
 chapter: 18
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "29 U.S.C. § 1304"
-generated_at: "2026-03-29T22:15:04.085Z"
+generated_at: "2026-03-29T22:20:18.472Z"
 ---
 
 # § 1304. Participant and Plan Sponsor Advocate

@@ -3,9 +3,9 @@ title: "Section 5606 - Penalty relating to containers of distilled spirits"
 usc_title: 26
 usc_section: "5606"
 chapter: 51
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "26 U.S.C. § 5606"
-generated_at: "2026-03-29T22:15:18.721Z"
+generated_at: "2026-03-29T22:20:51.584Z"
 ---
 
 # § 5606. Penalty relating to containers of distilled spirits

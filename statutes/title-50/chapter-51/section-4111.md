@@ -3,9 +3,9 @@ title: "Section 4111 - Payments to certain members of religious orders"
 usc_title: 50
 usc_section: "4111"
 chapter: 51
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "50 U.S.C. § 4111"
-generated_at: "2026-03-29T22:16:39.367Z"
+generated_at: "2026-03-29T22:22:36.141Z"
 ---
 
 # § 4111. Payments to certain members of religious orders

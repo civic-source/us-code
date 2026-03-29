@@ -3,9 +3,9 @@ title: "Section 2675 - Identification in budget materials of amounts for declass
 usc_title: 50
 usc_section: "2675"
 chapter: 42
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "50 U.S.C. § 2675"
-generated_at: "2026-03-29T22:16:39.276Z"
+generated_at: "2026-03-29T22:22:36.028Z"
 ---
 
 # § 2675. Identification in budget materials of amounts for declassification activities and limitation on expenditures for such activities

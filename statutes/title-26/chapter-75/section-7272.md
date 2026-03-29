@@ -3,9 +3,9 @@ title: "Section 7272 - Penalty for failure to register or reregister"
 usc_title: 26
 usc_section: "7272"
 chapter: 75
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "26 U.S.C. § 7272"
-generated_at: "2026-03-29T22:15:18.832Z"
+generated_at: "2026-03-29T22:20:51.695Z"
 ---
 
 # § 7272. Penalty for failure to register or reregister

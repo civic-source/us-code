@@ -3,9 +3,9 @@ title: "Section 7505 - Repayment for failure to satisfy requirements of agreemen
 usc_title: 38
 usc_section: "7505"
 chapter: 75
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "38 U.S.C. § 7505"
-generated_at: "2026-03-29T22:15:38.189Z"
+generated_at: "2026-03-29T22:21:25.614Z"
 ---
 
 # § 7505. Repayment for failure to satisfy requirements of agreement

@@ -3,9 +3,9 @@ title: "Section 1509 - Repealed. Pub. L. 109–469, title XI, § 1101(b) , Dec. 
 usc_title: 21
 usc_section: "1509"
 chapter: 20
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "21 U.S.C. § 1509"
-generated_at: "2026-03-29T22:14:58.114Z"
+generated_at: "2026-03-29T22:19:44.064Z"
 ---
 
 # § 1509. Repealed. Pub. L. 109–469, title XI, § 1101(b) , Dec. 29, 2006 , 120 Stat. 3539

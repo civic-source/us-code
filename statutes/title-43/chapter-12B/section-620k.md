@@ -3,9 +3,9 @@ title: "Section 620k - Authorization of appropriations"
 usc_title: 43
 usc_section: "620k"
 chapter: 12
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "43 U.S.C. § 620k"
-generated_at: "2026-03-29T22:15:48.595Z"
+generated_at: "2026-03-29T22:21:42.288Z"
 ---
 
 # § 620k. Authorization of appropriations

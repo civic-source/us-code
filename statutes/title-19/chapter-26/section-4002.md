@@ -3,9 +3,9 @@ title: "Section 4002 - Definitions"
 usc_title: 19
 usc_section: "4002"
 chapter: 26
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "19 U.S.C. § 4002"
-generated_at: "2026-03-29T22:14:17.222Z"
+generated_at: "2026-03-29T22:19:36.457Z"
 ---
 
 # § 4002. Definitions

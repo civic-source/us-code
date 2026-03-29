@@ -3,9 +3,9 @@ title: "Section 2a - Confidentiality and delayed notice of compulsory process fo
 usc_title: 15
 usc_section: "2a"
 chapter: 2
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "15 U.S.C. § 2a"
-generated_at: "2026-03-29T22:13:34.030Z"
+generated_at: "2026-03-29T22:19:02.461Z"
 ---
 
 # § 57b–2a. Confidentiality and delayed notice of compulsory process for certain third parties

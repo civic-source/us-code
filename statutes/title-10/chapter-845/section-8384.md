@@ -3,9 +3,9 @@ title: "Section 8384 - Promotion of retired members to higher enlisted grades: r
 usc_title: 10
 usc_section: "8384"
 chapter: 845
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "10 U.S.C. § 8384"
-generated_at: "2026-03-29T22:11:59.102Z"
+generated_at: "2026-03-29T22:18:46.073Z"
 ---
 
 # § 8384. Promotion of retired members to higher enlisted grades: retention of grade upon release from active duty

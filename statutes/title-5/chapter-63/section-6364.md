@@ -3,9 +3,9 @@ title: "Section 6364 - Establishment of Leave Bank Boards"
 usc_title: 5
 usc_section: "6364"
 chapter: 63
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "5 U.S.C. § 6364"
-generated_at: "2026-03-29T22:11:41.487Z"
+generated_at: "2026-03-29T22:17:32.117Z"
 ---
 
 # § 6364. Establishment of Leave Bank Boards

@@ -3,9 +3,9 @@ title: "Section 3686 - Bonus authority"
 usc_title: 39
 usc_section: "3686"
 chapter: 36
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "39 U.S.C. § 3686"
-generated_at: "2026-03-29T22:15:33.311Z"
+generated_at: "2026-03-29T22:21:17.813Z"
 ---
 
 # § 3686. Bonus authority

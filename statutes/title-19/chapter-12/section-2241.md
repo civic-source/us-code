@@ -3,9 +3,9 @@ title: "Section 2241 - Estimates of barriers to market access"
 usc_title: 19
 usc_section: "2241"
 chapter: 12
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "19 U.S.C. § 2241"
-generated_at: "2026-03-29T22:14:17.170Z"
+generated_at: "2026-03-29T22:19:36.375Z"
 ---
 
 # § 2241. Estimates of barriers to market access

@@ -3,9 +3,9 @@ title: "Section 4326 - Conduct of investigation; subpoenas"
 usc_title: 38
 usc_section: "4326"
 chapter: 43
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "38 U.S.C. § 4326"
-generated_at: "2026-03-29T22:15:38.156Z"
+generated_at: "2026-03-29T22:21:25.557Z"
 ---
 
 # § 4326. Conduct of investigation; subpoenas

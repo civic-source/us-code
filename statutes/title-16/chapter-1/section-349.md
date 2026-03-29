@@ -3,9 +3,9 @@ title: "Section 349 - Rights-of-way"
 usc_title: 16
 usc_section: "349"
 chapter: 1
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "16 U.S.C. § 349"
-generated_at: "2026-03-29T22:14:06.250Z"
+generated_at: "2026-03-29T22:19:14.095Z"
 ---
 
 # § 349. Rights-of-way

@@ -3,9 +3,9 @@ title: "Section 2158 - Review of records of officers"
 usc_title: 14
 usc_section: "2158"
 chapter: 21
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "14 U.S.C. § 2158"
-generated_at: "2026-03-29T22:12:38.191Z"
+generated_at: "2026-03-29T22:18:50.083Z"
 ---
 
 # § 2158. Review of records of officers

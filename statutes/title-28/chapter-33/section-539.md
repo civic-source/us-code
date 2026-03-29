@@ -3,9 +3,9 @@ title: "Section 539 - Counterintelligence official reception and representation 
 usc_title: 28
 usc_section: "539"
 chapter: 33
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "28 U.S.C. § 539"
-generated_at: "2026-03-29T22:15:20.514Z"
+generated_at: "2026-03-29T22:20:14.359Z"
 ---
 
 # § 539. Counterintelligence official reception and representation expenses

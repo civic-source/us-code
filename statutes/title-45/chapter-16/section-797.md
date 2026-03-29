@@ -3,9 +3,9 @@ title: "Section 797 - Repealed. Pub. L. 99–509, title IV, § 4024(c) , Oct. 21
 usc_title: 45
 usc_section: "797"
 chapter: 16
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "45 U.S.C. § 797"
-generated_at: "2026-03-29T22:15:46.591Z"
+generated_at: "2026-03-29T22:21:35.569Z"
 ---
 
 # § 797. Repealed. Pub. L. 99–509, title IV, § 4024(c) , Oct. 21, 1986 , 100 Stat. 1904

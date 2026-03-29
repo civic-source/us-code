@@ -3,9 +3,9 @@ title: "Section 612 - Composition of selection boards"
 usc_title: 10
 usc_section: "612"
 chapter: 36
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "10 U.S.C. § 612"
-generated_at: "2026-03-29T22:11:58.831Z"
+generated_at: "2026-03-29T22:18:45.834Z"
 ---
 
 # § 612. Composition of selection boards

@@ -3,9 +3,9 @@ title: "Section 276h - United States group; appointment; term; meetings"
 usc_title: 22
 usc_section: "276h"
 chapter: 7
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "22 U.S.C. § 276h"
-generated_at: "2026-03-29T22:14:52.741Z"
+generated_at: "2026-03-29T22:19:52.760Z"
 ---
 
 # § 276h. United States group; appointment; term; meetings

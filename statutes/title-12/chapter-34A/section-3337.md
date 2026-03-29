@@ -3,9 +3,9 @@ title: "Section 3337 - Startup funding"
 usc_title: 12
 usc_section: "3337"
 chapter: 34
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "12 U.S.C. § 3337"
-generated_at: "2026-03-29T22:12:59.624Z"
+generated_at: "2026-03-29T22:18:56.525Z"
 ---
 
 # § 3337. Startup funding

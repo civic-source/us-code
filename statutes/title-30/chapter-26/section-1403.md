@@ -3,9 +3,9 @@ title: "Section 1403 - Definitions"
 usc_title: 30
 usc_section: "1403"
 chapter: 26
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "30 U.S.C. § 1403"
-generated_at: "2026-03-29T22:15:06.638Z"
+generated_at: "2026-03-29T22:20:15.471Z"
 ---
 
 # § 1403. Definitions

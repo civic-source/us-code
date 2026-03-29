@@ -3,9 +3,9 @@ title: "Section 51c - “Common stock”, “capital”, and “capital stock”
 usc_title: 12
 usc_section: "51c"
 chapter: 2
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "12 U.S.C. § 51c"
-generated_at: "2026-03-29T22:12:59.353Z"
+generated_at: "2026-03-29T22:18:56.249Z"
 ---
 
 # § 51c. “Common stock”, “capital”, and “capital stock” defined

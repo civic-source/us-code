@@ -3,9 +3,9 @@ title: "Section 1422 - Public safety broadband network"
 usc_title: 47
 usc_section: "1422"
 chapter: 13
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "47 U.S.C. § 1422"
-generated_at: "2026-03-29T22:16:32.272Z"
+generated_at: "2026-03-29T22:22:58.639Z"
 ---
 
 # § 1422. Public safety broadband network

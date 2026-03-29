@@ -3,9 +3,9 @@ title: "Section 6323 - Reporting requirement"
 usc_title: 22
 usc_section: "6323"
 chapter: 72
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "22 U.S.C. § 6323"
-generated_at: "2026-03-29T22:14:52.989Z"
+generated_at: "2026-03-29T22:19:53.065Z"
 ---
 
 # § 6323. Reporting requirement

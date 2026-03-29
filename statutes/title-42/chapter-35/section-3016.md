@@ -3,9 +3,9 @@ title: "Section 3016 - Authority of Assistant Secretary"
 usc_title: 42
 usc_section: "3016"
 chapter: 35
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "42 U.S.C. § 3016"
-generated_at: "2026-03-29T22:16:19.831Z"
+generated_at: "2026-03-29T22:22:16.994Z"
 ---
 
 # § 3016. Authority of Assistant Secretary

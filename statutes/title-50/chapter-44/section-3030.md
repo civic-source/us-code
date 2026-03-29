@@ -3,9 +3,9 @@ title: "Section 3030 - Director of Science and Technology"
 usc_title: 50
 usc_section: "3030"
 chapter: 44
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "50 U.S.C. § 3030"
-generated_at: "2026-03-29T22:16:39.293Z"
+generated_at: "2026-03-29T22:22:36.048Z"
 ---
 
 # § 3030. Director of Science and Technology

@@ -3,9 +3,9 @@ title: "Section 547 - Agricultural commodities, foods, and cotton or woolen good
 usc_title: 40
 usc_section: "547"
 chapter: 5
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "40 U.S.C. § 547"
-generated_at: "2026-03-29T22:15:39.194Z"
+generated_at: "2026-03-29T22:21:17.247Z"
 ---
 
 # § 547. Agricultural commodities, foods, and cotton or woolen goods

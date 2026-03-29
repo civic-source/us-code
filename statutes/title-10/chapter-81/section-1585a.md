@@ -3,9 +3,9 @@ title: "Section 1585a - Special agents of the Defense Criminal Investigative Ser
 usc_title: 10
 usc_section: "1585a"
 chapter: 81
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "10 U.S.C. § 1585a"
-generated_at: "2026-03-29T22:11:58.943Z"
+generated_at: "2026-03-29T22:18:45.925Z"
 ---
 
 # § 1585a. Special agents of the Defense Criminal Investigative Service: authority to execute warrants and make arrests

@@ -3,9 +3,9 @@ title: "Section 221 - Refusal or neglect to answer questions; false answers"
 usc_title: 13
 usc_section: "221"
 chapter: 7
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "13 U.S.C. § 221"
-generated_at: "2026-03-29T22:12:26.524Z"
+generated_at: "2026-03-29T22:18:48.919Z"
 ---
 
 # § 221. Refusal or neglect to answer questions; false answers

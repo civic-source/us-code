@@ -3,9 +3,9 @@ title: "Section 50919 - Relationship to other executive agencies, laws, and inte
 usc_title: 51
 usc_section: "50919"
 chapter: 509
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "51 U.S.C. § 50919"
-generated_at: "2026-03-29T22:16:54.707Z"
+generated_at: "2026-03-29T22:23:25.248Z"
 ---
 
 # § 50919. Relationship to other executive agencies, laws, and international obligations

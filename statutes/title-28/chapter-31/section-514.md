@@ -3,9 +3,9 @@ title: "Section 514 - Legal services on pending claims in departments and agenci
 usc_title: 28
 usc_section: "514"
 chapter: 31
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "28 U.S.C. § 514"
-generated_at: "2026-03-29T22:15:20.511Z"
+generated_at: "2026-03-29T22:20:14.353Z"
 ---
 
 # § 514. Legal services on pending claims in departments and agencies

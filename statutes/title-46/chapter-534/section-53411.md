@@ -3,9 +3,9 @@ title: "Section 53411 - Authorization of appropriations"
 usc_title: 46
 usc_section: "53411"
 chapter: 534
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "46 U.S.C. § 53411"
-generated_at: "2026-03-29T22:16:51.834Z"
+generated_at: "2026-03-29T22:23:02.734Z"
 ---
 
 # § 53411. Authorization of appropriations

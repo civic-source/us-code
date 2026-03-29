@@ -3,9 +3,9 @@ title: "Section 298 - Repealed. Oct. 31, 1951, ch. 654, § 1(47) , 65 Stat. 703"
 usc_title: 24
 usc_section: "298"
 chapter: 7
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "24 U.S.C. § 298"
-generated_at: "2026-03-29T22:14:29.183Z"
+generated_at: "2026-03-29T22:19:40.548Z"
 ---
 
 # § 298. Repealed. Oct. 31, 1951, ch. 654, § 1(47) , 65 Stat. 703

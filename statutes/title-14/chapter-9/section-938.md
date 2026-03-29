@@ -3,9 +3,9 @@ title: "Section 938 - Claims for damage to property of the United States"
 usc_title: 14
 usc_section: "938"
 chapter: 9
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "14 U.S.C. § 938"
-generated_at: "2026-03-29T22:12:38.177Z"
+generated_at: "2026-03-29T22:18:50.072Z"
 ---
 
 # § 938. Claims for damage to property of the United States

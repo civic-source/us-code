@@ -3,9 +3,9 @@ title: "Section 2209d - Statement of percentage and dollar amount of Federal fun
 usc_title: 7
 usc_section: "2209d"
 chapter: 55
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "7 U.S.C. § 2209d"
-generated_at: "2026-03-29T22:12:13.104Z"
+generated_at: "2026-03-29T22:18:14.248Z"
 ---
 
 # § 2209d. Statement of percentage and dollar amount of Federal funding

@@ -3,9 +3,9 @@ title: "Section 7452 - Representation of parties"
 usc_title: 26
 usc_section: "7452"
 chapter: 76
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "26 U.S.C. § 7452"
-generated_at: "2026-03-29T22:15:18.842Z"
+generated_at: "2026-03-29T22:20:51.707Z"
 ---
 
 # § 7452. Representation of parties

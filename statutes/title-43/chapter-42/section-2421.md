@@ -3,9 +3,9 @@ title: "Section 2421 - Definitions"
 usc_title: 43
 usc_section: "2421"
 chapter: 42
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "43 U.S.C. § 2421"
-generated_at: "2026-03-29T22:15:48.684Z"
+generated_at: "2026-03-29T22:21:42.435Z"
 ---
 
 # § 2421. Definitions

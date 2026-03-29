@@ -3,9 +3,9 @@ title: "Section 3406 - Balloting materials under the Uniformed and Overseas Citi
 usc_title: 39
 usc_section: "3406"
 chapter: 34
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "39 U.S.C. § 3406"
-generated_at: "2026-03-29T22:15:33.306Z"
+generated_at: "2026-03-29T22:21:17.808Z"
 ---
 
 # § 3406. Balloting materials under the Uniformed and Overseas Citizens Absentee Voting Act

@@ -3,9 +3,9 @@ title: "Section 730a - Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV]
 usc_title: 33
 usc_section: "730a"
 chapter: 16
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "33 U.S.C. § 730a"
-generated_at: "2026-03-29T22:15:26.374Z"
+generated_at: "2026-03-29T22:21:04.542Z"
 ---
 
 # § 730a. Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(4), Jan. 1, 2021 , 134 Stat. 4759

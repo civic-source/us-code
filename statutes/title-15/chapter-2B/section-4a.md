@@ -3,9 +3,9 @@ title: "Section 4a - Commission Office of Municipal Securities"
 usc_title: 15
 usc_section: "4a"
 chapter: 2
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "15 U.S.C. § 4a"
-generated_at: "2026-03-29T22:13:34.122Z"
+generated_at: "2026-03-29T22:19:02.522Z"
 ---
 
 # § 78o–4a. Commission Office of Municipal Securities

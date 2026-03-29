@@ -3,9 +3,9 @@ title: "Section 328 - Eligibility for environmental restoration and pollution ab
 usc_title: 23
 usc_section: "328"
 chapter: 3
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "23 U.S.C. § 328"
-generated_at: "2026-03-29T22:14:38.459Z"
+generated_at: "2026-03-29T22:20:00.603Z"
 ---
 
 # § 328. Eligibility for environmental restoration and pollution abatement

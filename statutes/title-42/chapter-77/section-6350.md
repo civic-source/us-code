@@ -3,9 +3,9 @@ title: "Section 6350 - Industrial insulation and audit guidelines"
 usc_title: 42
 usc_section: "6350"
 chapter: 77
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "42 U.S.C. § 6350"
-generated_at: "2026-03-29T22:16:20.030Z"
+generated_at: "2026-03-29T22:22:17.225Z"
 ---
 
 # § 6350. Industrial insulation and audit guidelines

@@ -3,9 +3,9 @@ title: "Section 44305 - Insuring United States Government property"
 usc_title: 49
 usc_section: "44305"
 chapter: 443
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "49 U.S.C. § 44305"
-generated_at: "2026-03-29T22:16:49.745Z"
+generated_at: "2026-03-29T22:23:16.464Z"
 ---
 
 # § 44305. Insuring United States Government property

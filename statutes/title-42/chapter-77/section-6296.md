@@ -3,9 +3,9 @@ title: "Section 6296 - Requirements of manufacturers"
 usc_title: 42
 usc_section: "6296"
 chapter: 77
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "42 U.S.C. § 6296"
-generated_at: "2026-03-29T22:16:20.018Z"
+generated_at: "2026-03-29T22:22:17.208Z"
 ---
 
 # § 6296. Requirements of manufacturers

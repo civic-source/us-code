@@ -3,9 +3,9 @@ title: "Section 1302 - Rules and regulations; impact analyses of Medicare and Me
 usc_title: 42
 usc_section: "1302"
 chapter: 7
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "42 U.S.C. § 1302"
-generated_at: "2026-03-29T22:16:19.211Z"
+generated_at: "2026-03-29T22:22:16.352Z"
 ---
 
 # § 1302. Rules and regulations; impact analyses of Medicare and Medicaid rules and regulations on small rural hospitals

@@ -3,9 +3,9 @@ title: "Section 3731 - Sense of the Congress regarding comprehensive debt relief
 usc_title: 19
 usc_section: "3731"
 chapter: 23
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "19 U.S.C. § 3731"
-generated_at: "2026-03-29T22:14:17.217Z"
+generated_at: "2026-03-29T22:19:36.449Z"
 ---
 
 # § 3731. Sense of the Congress regarding comprehensive debt relief for the world’s poorest countries

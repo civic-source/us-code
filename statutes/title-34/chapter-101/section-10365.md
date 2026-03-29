@@ -3,9 +3,9 @@ title: "Section 10365 - Distribution of funds"
 usc_title: 34
 usc_section: "10365"
 chapter: 101
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "34 U.S.C. § 10365"
-generated_at: "2026-03-29T22:15:28.006Z"
+generated_at: "2026-03-29T22:20:59.639Z"
 ---
 
 # § 10365. Distribution of funds

@@ -3,9 +3,9 @@ title: "Section 5002 - Definitions"
 usc_title: 26
 usc_section: "5002"
 chapter: 51
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "26 U.S.C. § 5002"
-generated_at: "2026-03-29T22:15:18.704Z"
+generated_at: "2026-03-29T22:20:51.566Z"
 ---
 
 # § 5002. Definitions

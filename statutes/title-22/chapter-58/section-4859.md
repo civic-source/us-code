@@ -3,9 +3,9 @@ title: "Section 4859 - Protection of public entrances of United States diplomati
 usc_title: 22
 usc_section: "4859"
 chapter: 58
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "22 U.S.C. § 4859"
-generated_at: "2026-03-29T22:14:52.962Z"
+generated_at: "2026-03-29T22:19:53.032Z"
 ---
 
 # § 4859. Protection of public entrances of United States diplomatic missions abroad

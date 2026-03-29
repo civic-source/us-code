@@ -3,9 +3,9 @@ title: "Section 317 - United States Coast Guard Band; composition; director"
 usc_title: 14
 usc_section: "317"
 chapter: 3
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "14 U.S.C. § 317"
-generated_at: "2026-03-29T22:12:38.170Z"
+generated_at: "2026-03-29T22:18:49.977Z"
 ---
 
 # § 317. United States Coast Guard Band; composition; director

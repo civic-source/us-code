@@ -3,9 +3,9 @@ title: "Section 1403 - Issuance of bonds or other obligations by government or m
 usc_title: 48
 usc_section: "1403"
 chapter: 7
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "48 U.S.C. § 1403"
-generated_at: "2026-03-29T22:16:25.827Z"
+generated_at: "2026-03-29T22:22:29.294Z"
 ---
 
 # § 1403. Issuance of bonds or other obligations by government or municipalities; use of proceeds; limit on public indebtedness; terms, execution, interest rate, and sale price; taxes

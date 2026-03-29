@@ -3,9 +3,9 @@ title: "Section 7424 - Restriction on United States participation in certain Uni
 usc_title: 22
 usc_section: "7424"
 chapter: 81
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "22 U.S.C. § 7424"
-generated_at: "2026-03-29T22:14:53.023Z"
+generated_at: "2026-03-29T22:19:53.099Z"
 ---
 
 # § 7424. Restriction on United States participation in certain United Nations peacekeeping operations

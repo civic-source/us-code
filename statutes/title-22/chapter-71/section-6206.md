@@ -3,9 +3,9 @@ title: "Section 6206 - Repealed. Pub. L. 114–328, div. A, title XII, § 1288(4
 usc_title: 22
 usc_section: "6206"
 chapter: 71
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "22 U.S.C. § 6206"
-generated_at: "2026-03-29T22:14:52.985Z"
+generated_at: "2026-03-29T22:19:53.062Z"
 ---
 
 # § 6206. Repealed. Pub. L. 114–328, div. A, title XII, § 1288(4) , Dec. 23, 2016 , 130 Stat. 2552

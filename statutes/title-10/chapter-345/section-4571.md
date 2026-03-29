@@ -3,9 +3,9 @@ title: "Section 4571 - Information technology acquisition: planning and oversigh
 usc_title: 10
 usc_section: "4571"
 chapter: 345
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "10 U.S.C. § 4571"
-generated_at: "2026-03-29T22:11:59.068Z"
+generated_at: "2026-03-29T22:18:46.036Z"
 ---
 
 # § 4571. Information technology acquisition: planning and oversight processes

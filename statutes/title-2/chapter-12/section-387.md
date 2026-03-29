@@ -3,9 +3,9 @@ title: "Section 387 - Notice of depositions"
 usc_title: 2
 usc_section: "387"
 chapter: 12
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "2 U.S.C. § 387"
-generated_at: "2026-03-29T22:11:38.279Z"
+generated_at: "2026-03-29T22:17:45.433Z"
 ---
 
 # § 387. Notice of depositions

@@ -3,9 +3,9 @@ title: "Section 13334 - Nonfuel use of coal"
 usc_title: 42
 usc_section: "13334"
 chapter: 134
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "42 U.S.C. § 13334"
-generated_at: "2026-03-29T22:16:20.452Z"
+generated_at: "2026-03-29T22:22:17.754Z"
 ---
 
 # § 13334. Nonfuel use of coal

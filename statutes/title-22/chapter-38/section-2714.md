@@ -3,9 +3,9 @@ title: "Section 2714 - Denial of passports to certain convicted drug traffickers
 usc_title: 22
 usc_section: "2714"
 chapter: 38
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "22 U.S.C. § 2714"
-generated_at: "2026-03-29T22:14:52.882Z"
+generated_at: "2026-03-29T22:19:52.942Z"
 ---
 
 # § 2714. Denial of passports to certain convicted drug traffickers

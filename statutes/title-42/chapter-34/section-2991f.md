@@ -3,9 +3,9 @@ title: "Section 2991f - Submission of plans to State and local officials"
 usc_title: 42
 usc_section: "2991f"
 chapter: 34
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "42 U.S.C. § 2991f"
-generated_at: "2026-03-29T22:16:19.823Z"
+generated_at: "2026-03-29T22:22:16.983Z"
 ---
 
 # § 2991f. Submission of plans to State and local officials

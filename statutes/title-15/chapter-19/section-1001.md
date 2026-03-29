@@ -3,9 +3,9 @@ title: "Section 1001 - Prize-fight films as subjects of interstate or foreign co
 usc_title: 15
 usc_section: "1001"
 chapter: 19
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "15 U.S.C. § 1001"
-generated_at: "2026-03-29T22:13:34.327Z"
+generated_at: "2026-03-29T22:19:02.741Z"
 ---
 
 # § 1001. Prize-fight films as subjects of interstate or foreign commerce

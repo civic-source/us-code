@@ -3,9 +3,9 @@ title: "Section 1832 - Assignment and reassignment of personnel"
 usc_title: 2
 usc_section: "1832"
 chapter: 28
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "2 U.S.C. § 1832"
-generated_at: "2026-03-29T22:11:38.339Z"
+generated_at: "2026-03-29T22:17:45.489Z"
 ---
 
 # § 1832. Assignment and reassignment of personnel

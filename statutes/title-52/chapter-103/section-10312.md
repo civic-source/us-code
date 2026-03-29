@@ -3,9 +3,9 @@ title: "Section 10312 - Authorization of appropriations"
 usc_title: 52
 usc_section: "10312"
 chapter: 103
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "52 U.S.C. § 10312"
-generated_at: "2026-03-29T22:16:55.252Z"
+generated_at: "2026-03-29T22:23:19.959Z"
 ---
 
 # § 10312. Authorization of appropriations

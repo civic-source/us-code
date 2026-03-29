@@ -3,9 +3,9 @@ title: "Section 5506 - Test procedures and definitive performance criteria for s
 usc_title: 42
 usc_section: "5506"
 chapter: 71
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "42 U.S.C. § 5506"
-generated_at: "2026-03-29T22:16:19.987Z"
+generated_at: "2026-03-29T22:22:17.170Z"
 ---
 
 # § 5506. Test procedures and definitive performance criteria for solar heating and combined solar heating and cooling components and systems and suitable dwellings; determination, consultation and publication in Federal Register

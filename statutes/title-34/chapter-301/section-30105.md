@@ -3,9 +3,9 @@ title: "Section 30105 - Additional funding for resources to investigate and pros
 usc_title: 34
 usc_section: "30105"
 chapter: 301
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "34 U.S.C. § 30105"
-generated_at: "2026-03-29T22:15:28.103Z"
+generated_at: "2026-03-29T22:20:59.754Z"
 ---
 
 # § 30105. Additional funding for resources to investigate and prosecute intellectual property crimes and other criminal activity involving computers

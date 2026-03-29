@@ -3,9 +3,9 @@ title: "Section 41305 - Hate crime statistics"
 usc_title: 34
 usc_section: "41305"
 chapter: 413
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "34 U.S.C. § 41305"
-generated_at: "2026-03-29T22:15:28.119Z"
+generated_at: "2026-03-29T22:20:59.776Z"
 ---
 
 # § 41305. Hate crime statistics

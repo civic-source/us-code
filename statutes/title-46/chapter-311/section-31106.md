@@ -3,9 +3,9 @@ title: "Section 31106 - Exoneration and limitation"
 usc_title: 46
 usc_section: "31106"
 chapter: 311
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "46 U.S.C. § 31106"
-generated_at: "2026-03-29T22:16:51.803Z"
+generated_at: "2026-03-29T22:23:02.703Z"
 ---
 
 # § 31106. Exoneration and limitation

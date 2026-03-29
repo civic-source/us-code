@@ -3,9 +3,9 @@ title: "Section 1159 - Federal agency consultations with and technical assistanc
 usc_title: 16
 usc_section: "1159"
 chapter: 24
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "16 U.S.C. § 1159"
-generated_at: "2026-03-29T22:14:06.653Z"
+generated_at: "2026-03-29T22:19:14.407Z"
 ---
 
 # § 1159. Federal agency consultations with and technical assistance to Secretary of Commerce or Commission; reimbursement for assistance

@@ -3,9 +3,9 @@ title: "Section 9602 - Comprehensive centers"
 usc_title: 20
 usc_section: "9602"
 chapter: 76
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "20 U.S.C. § 9602"
-generated_at: "2026-03-29T22:14:13.783Z"
+generated_at: "2026-03-29T22:19:23.121Z"
 ---
 
 # § 9602. Comprehensive centers

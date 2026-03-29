@@ -3,9 +3,9 @@ title: "Section 4372 - Unit cost reports: quarterly report from program manager 
 usc_title: 10
 usc_section: "4372"
 chapter: 325
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "10 U.S.C. § 4372"
-generated_at: "2026-03-29T22:11:59.064Z"
+generated_at: "2026-03-29T22:18:46.033Z"
 ---
 
 # § 4372. Unit cost reports: quarterly report from program manager to service acquisition executive

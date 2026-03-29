@@ -3,9 +3,9 @@ title: "Section 1103 - National Transportation Security Center of Excellence"
 usc_title: 6
 usc_section: "1103"
 chapter: 4
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "6 U.S.C. § 1103"
-generated_at: "2026-03-29T22:11:46.395Z"
+generated_at: "2026-03-29T22:17:49.223Z"
 ---
 
 # § 1103. National Transportation Security Center of Excellence

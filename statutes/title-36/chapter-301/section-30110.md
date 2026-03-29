@@ -3,9 +3,9 @@ title: "Section 30110 - Service of process"
 usc_title: 36
 usc_section: "30110"
 chapter: 301
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "36 U.S.C. § 30110"
-generated_at: "2026-03-29T22:15:40.730Z"
+generated_at: "2026-03-29T22:21:13.682Z"
 ---
 
 # § 30110. Service of process

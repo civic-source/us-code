@@ -3,9 +3,9 @@ title: "Section 8525 - Effect on other statutes"
 usc_title: 5
 usc_section: "8525"
 chapter: 85
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "5 U.S.C. § 8525"
-generated_at: "2026-03-29T22:11:41.543Z"
+generated_at: "2026-03-29T22:17:32.179Z"
 ---
 
 # § 8525. Effect on other statutes

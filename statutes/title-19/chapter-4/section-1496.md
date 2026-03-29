@@ -3,9 +3,9 @@ title: "Section 1496 - Examination of baggage"
 usc_title: 19
 usc_section: "1496"
 chapter: 4
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "19 U.S.C. § 1496"
-generated_at: "2026-03-29T22:14:17.116Z"
+generated_at: "2026-03-29T22:19:36.305Z"
 ---
 
 # § 1496. Examination of baggage

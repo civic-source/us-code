@@ -3,9 +3,9 @@ title: "Section 2123 - Executive Director and staff of Oversight Board"
 usc_title: 48
 usc_section: "2123"
 chapter: 20
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "48 U.S.C. § 2123"
-generated_at: "2026-03-29T22:16:25.876Z"
+generated_at: "2026-03-29T22:22:29.344Z"
 ---
 
 # § 2123. Executive Director and staff of Oversight Board

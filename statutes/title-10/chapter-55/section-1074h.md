@@ -3,9 +3,9 @@ title: "Section 1074h - Medical and dental care: medal of honor recipients; depe
 usc_title: 10
 usc_section: "1074h"
 chapter: 55
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "10 U.S.C. § 1074h"
-generated_at: "2026-03-29T22:11:58.889Z"
+generated_at: "2026-03-29T22:18:45.878Z"
 ---
 
 # § 1074h. Medical and dental care: medal of honor recipients; dependents

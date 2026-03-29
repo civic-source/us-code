@@ -3,9 +3,9 @@ title: "Section 40732 - Sale of firearms and supplies"
 usc_title: 36
 usc_section: "40732"
 chapter: 407
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "36 U.S.C. § 40732"
-generated_at: "2026-03-29T22:15:40.736Z"
+generated_at: "2026-03-29T22:21:13.687Z"
 ---
 
 # § 40732. Sale of firearms and supplies

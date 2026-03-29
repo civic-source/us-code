@@ -3,9 +3,9 @@ title: "Section 197a - Production contracts"
 usc_title: 7
 usc_section: "197a"
 chapter: 9
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "7 U.S.C. § 197a"
-generated_at: "2026-03-29T22:12:12.892Z"
+generated_at: "2026-03-29T22:18:14.062Z"
 ---
 
 # § 197a. Production contracts

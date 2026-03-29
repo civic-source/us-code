@@ -3,9 +3,9 @@ title: "Section 406a - Renumbered § 476a]"
 usc_title: 37
 usc_section: "406a"
 chapter: 7
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "37 U.S.C. § 406a"
-generated_at: "2026-03-29T22:15:41.490Z"
+generated_at: "2026-03-29T22:21:26.904Z"
 ---
 
 # [§ 406a. Renumbered § 476a]

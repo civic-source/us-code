@@ -3,9 +3,9 @@ title: "Section 521d - Sale, exchange, or interchange of National Forest System 
 usc_title: 16
 usc_section: "521d"
 chapter: 2
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "16 U.S.C. § 521d"
-generated_at: "2026-03-29T22:14:06.477Z"
+generated_at: "2026-03-29T22:19:14.275Z"
 ---
 
 # § 521d. Sale, exchange, or interchange of National Forest System land

@@ -3,9 +3,9 @@ title: "Section 40702 - Collection and use of DNA identification information fro
 usc_title: 34
 usc_section: "40702"
 chapter: 407
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "34 U.S.C. § 40702"
-generated_at: "2026-03-29T22:15:28.114Z"
+generated_at: "2026-03-29T22:20:59.769Z"
 ---
 
 # § 40702. Collection and use of DNA identification information from certain Federal offenders

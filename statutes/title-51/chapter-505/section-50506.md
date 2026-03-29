@@ -3,9 +3,9 @@ title: "Section 50506 - Commercial Space Achievement Award"
 usc_title: 51
 usc_section: "50506"
 chapter: 505
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "51 U.S.C. § 50506"
-generated_at: "2026-03-29T22:16:54.703Z"
+generated_at: "2026-03-29T22:23:25.243Z"
 ---
 
 # § 50506. Commercial Space Achievement Award

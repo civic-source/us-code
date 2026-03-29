@@ -3,9 +3,9 @@ title: "Section 286l - British loan; authorization to Secretary of the Treasury 
 usc_title: 22
 usc_section: "286l"
 chapter: 7
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "22 U.S.C. § 286l"
-generated_at: "2026-03-29T22:14:52.756Z"
+generated_at: "2026-03-29T22:19:52.782Z"
 ---
 
 # § 286l. British loan; authorization to Secretary of the Treasury to carry out agreement

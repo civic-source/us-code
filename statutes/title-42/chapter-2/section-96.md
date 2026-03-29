@@ -3,9 +3,9 @@ title: "Section 96 - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 S
 usc_title: 42
 usc_section: "96"
 chapter: 2
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "42 U.S.C. § 96"
-generated_at: "2026-03-29T22:16:18.671Z"
+generated_at: "2026-03-29T22:22:15.771Z"
 ---
 
 # §§ 92 to 96. Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 Stat. 714

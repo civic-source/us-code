@@ -3,9 +3,9 @@ title: "Section 471c - Lands in California set aside as reserved forest lands"
 usc_title: 16
 usc_section: "471c"
 chapter: 2
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "16 U.S.C. § 471c"
-generated_at: "2026-03-29T22:14:06.464Z"
+generated_at: "2026-03-29T22:19:14.263Z"
 ---
 
 # § 471c. Lands in California set aside as reserved forest lands

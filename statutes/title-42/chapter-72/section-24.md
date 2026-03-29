@@ -3,9 +3,9 @@ title: "Section 24 - Transferred"
 usc_title: 42
 usc_section: "24"
 chapter: 72
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "42 U.S.C. § 24"
-generated_at: "2026-03-29T22:16:19.990Z"
+generated_at: "2026-03-29T22:22:17.172Z"
 ---
 
 # § 5714–24. Transferred

@@ -3,9 +3,9 @@ title: "Section 153106 - Deposit of historical material in Smithsonian Instituti
 usc_title: 36
 usc_section: "153106"
 chapter: 1531
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "36 U.S.C. § 153106"
-generated_at: "2026-03-29T22:15:40.759Z"
+generated_at: "2026-03-29T22:21:13.707Z"
 ---
 
 # § 153106. Deposit of historical material in Smithsonian Institution

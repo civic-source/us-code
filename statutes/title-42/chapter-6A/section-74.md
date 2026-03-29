@@ -3,9 +3,9 @@ title: "Section 74 - Rule of construction"
 usc_title: 42
 usc_section: "74"
 chapter: 6
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "42 U.S.C. § 74"
-generated_at: "2026-03-29T22:16:18.938Z"
+generated_at: "2026-03-29T22:22:16.055Z"
 ---
 
 # § 300d–74. Rule of construction

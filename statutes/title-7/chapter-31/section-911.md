@@ -3,9 +3,9 @@ title: "Section 911 - Acceptance of services of Federal or State officers; appli
 usc_title: 7
 usc_section: "911"
 chapter: 31
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "7 U.S.C. § 911"
-generated_at: "2026-03-29T22:12:12.931Z"
+generated_at: "2026-03-29T22:18:14.096Z"
 ---
 
 # § 911. Acceptance of services of Federal or State officers; application of civil service laws; expenditures for supplies and equipment

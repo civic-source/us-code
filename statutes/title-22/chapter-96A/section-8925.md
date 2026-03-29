@@ -3,9 +3,9 @@ title: "Section 8925 - Increased military assistance for the Government of Ukrai
 usc_title: 22
 usc_section: "8925"
 chapter: 96
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "22 U.S.C. § 8925"
-generated_at: "2026-03-29T22:14:53.067Z"
+generated_at: "2026-03-29T22:19:53.151Z"
 ---
 
 # § 8925. Increased military assistance for the Government of Ukraine

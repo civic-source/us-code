@@ -3,9 +3,9 @@ title: "Section 3634 - Interagency cooperation"
 usc_title: 16
 usc_section: "3634"
 chapter: 56
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "16 U.S.C. § 3634"
-generated_at: "2026-03-29T22:14:06.829Z"
+generated_at: "2026-03-29T22:19:14.537Z"
 ---
 
 # § 3634. Interagency cooperation

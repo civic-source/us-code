@@ -3,9 +3,9 @@ title: "Section 7341 - Penalty for sales to evade tax"
 usc_title: 26
 usc_section: "7341"
 chapter: 75
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "26 U.S.C. § 7341"
-generated_at: "2026-03-29T22:15:18.833Z"
+generated_at: "2026-03-29T22:20:51.697Z"
 ---
 
 # § 7341. Penalty for sales to evade tax

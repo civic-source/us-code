@@ -3,9 +3,9 @@ title: "Section 22108 - Repealed. Pub. L. 114–94, div. A, title XI, § 11301(c
 usc_title: 49
 usc_section: "22108"
 chapter: 221
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "49 U.S.C. § 22108"
-generated_at: "2026-03-29T22:16:49.659Z"
+generated_at: "2026-03-29T22:23:16.362Z"
 ---
 
 # [§ 22108. Repealed. Pub. L. 114–94, div. A, title XI, § 11301(c)(4) , Dec. 4, 2015 , 129 Stat. 1648 ]

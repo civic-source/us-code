@@ -3,9 +3,9 @@ title: "Section 5851 - Short title and purposes"
 usc_title: 7
 usc_section: "5851"
 chapter: 88
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "7 U.S.C. § 5851"
-generated_at: "2026-03-29T22:12:13.196Z"
+generated_at: "2026-03-29T22:18:14.321Z"
 ---
 
 # § 5851. Short title and purposes

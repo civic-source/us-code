@@ -3,9 +3,9 @@ title: "Section 1403 - Miscellaneous provisions"
 usc_title: 26
 usc_section: "1403"
 chapter: 2
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "26 U.S.C. § 1403"
-generated_at: "2026-03-29T22:15:18.618Z"
+generated_at: "2026-03-29T22:20:51.455Z"
 ---
 
 # § 1403. Miscellaneous provisions

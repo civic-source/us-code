@@ -3,9 +3,9 @@ title: "Section 10317 - Loss of lien and right to wages"
 usc_title: 46
 usc_section: "10317"
 chapter: 103
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "46 U.S.C. § 10317"
-generated_at: "2026-03-29T22:16:51.783Z"
+generated_at: "2026-03-29T22:23:02.681Z"
 ---
 
 # § 10317. Loss of lien and right to wages

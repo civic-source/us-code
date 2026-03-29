@@ -3,9 +3,9 @@ title: "Section 2104 - Permits for construction and management of artificial ree
 usc_title: 33
 usc_section: "2104"
 chapter: 35
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "33 U.S.C. § 2104"
-generated_at: "2026-03-29T22:15:26.456Z"
+generated_at: "2026-03-29T22:21:04.637Z"
 ---
 
 # § 2104. Permits for construction and management of artificial reefs

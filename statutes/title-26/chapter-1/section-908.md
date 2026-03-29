@@ -3,9 +3,9 @@ title: "Section 908 - Reduction of credit for participation in or cooperation wi
 usc_title: 26
 usc_section: "908"
 chapter: 1
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "26 U.S.C. § 908"
-generated_at: "2026-03-29T22:15:18.554Z"
+generated_at: "2026-03-29T22:20:51.380Z"
 ---
 
 # § 908. Reduction of credit for participation in or cooperation with an international boycott

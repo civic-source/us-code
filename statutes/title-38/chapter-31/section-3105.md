@@ -3,9 +3,9 @@ title: "Section 3105 - Duration of rehabilitation programs"
 usc_title: 38
 usc_section: "3105"
 chapter: 31
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "38 U.S.C. § 3105"
-generated_at: "2026-03-29T22:15:38.113Z"
+generated_at: "2026-03-29T22:21:25.489Z"
 ---
 
 # § 3105. Duration of rehabilitation programs

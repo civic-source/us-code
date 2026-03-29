@@ -3,9 +3,9 @@ title: "Section 1524 - Rules and regulations"
 usc_title: 25
 usc_section: "1524"
 chapter: 17
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "25 U.S.C. § 1524"
-generated_at: "2026-03-29T22:14:41.731Z"
+generated_at: "2026-03-29T22:20:08.558Z"
 ---
 
 # § 1524. Rules and regulations

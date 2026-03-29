@@ -3,9 +3,9 @@ title: "Section 28502 - Surface Transportation Board mediation of trackage use r
 usc_title: 49
 usc_section: "28502"
 chapter: 285
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "49 U.S.C. § 28502"
-generated_at: "2026-03-29T22:16:49.681Z"
+generated_at: "2026-03-29T22:23:16.385Z"
 ---
 
 # § 28502. Surface Transportation Board mediation of trackage use requests

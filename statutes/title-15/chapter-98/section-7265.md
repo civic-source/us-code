@@ -3,9 +3,9 @@ title: "Section 7265 - Disclosure of audit committee financial expert"
 usc_title: 15
 usc_section: "7265"
 chapter: 98
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "15 U.S.C. § 7265"
-generated_at: "2026-03-29T22:13:34.627Z"
+generated_at: "2026-03-29T22:19:03.000Z"
 ---
 
 # § 7265. Disclosure of audit committee financial expert

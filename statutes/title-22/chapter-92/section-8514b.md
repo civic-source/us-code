@@ -3,9 +3,9 @@ title: "Section 8514b - Imposition of sanctions with respect to persons who enga
 usc_title: 22
 usc_section: "8514b"
 chapter: 92
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "22 U.S.C. § 8514b"
-generated_at: "2026-03-29T22:14:53.055Z"
+generated_at: "2026-03-29T22:19:53.135Z"
 ---
 
 # § 8514b. Imposition of sanctions with respect to persons who engage in censorship or other related activities against citizens of Iran

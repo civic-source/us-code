@@ -3,9 +3,9 @@ title: "Section 1202 - Omitted"
 usc_title: 48
 usc_section: "1202"
 chapter: 5
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "48 U.S.C. § 1202"
-generated_at: "2026-03-29T22:16:25.825Z"
+generated_at: "2026-03-29T22:22:29.292Z"
 ---
 
 # §§ 1191 to 1202. Omitted

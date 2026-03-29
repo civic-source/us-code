@@ -3,9 +3,9 @@ title: "Section 6216 - Annual Home Heating Readiness Reports"
 usc_title: 42
 usc_section: "6216"
 chapter: 77
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "42 U.S.C. § 6216"
-generated_at: "2026-03-29T22:16:20.000Z"
+generated_at: "2026-03-29T22:22:17.185Z"
 ---
 
 # § 6216. Annual Home Heating Readiness Reports

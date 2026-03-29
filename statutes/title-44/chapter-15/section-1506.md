@@ -3,9 +3,9 @@ title: "Section 1506 - Administrative Committee of the Federal Register; establi
 usc_title: 44
 usc_section: "1506"
 chapter: 15
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "44 U.S.C. § 1506"
-generated_at: "2026-03-29T22:15:45.506Z"
+generated_at: "2026-03-29T22:21:34.836Z"
 ---
 
 # § 1506. Administrative Committee of the Federal Register; establishment and composition; powers and duties

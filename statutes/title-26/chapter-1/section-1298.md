@@ -3,9 +3,9 @@ title: "Section 1298 - Special rules"
 usc_title: 26
 usc_section: "1298"
 chapter: 1
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "26 U.S.C. § 1298"
-generated_at: "2026-03-29T22:15:18.601Z"
+generated_at: "2026-03-29T22:20:51.434Z"
 ---
 
 # § 1298. Special rules

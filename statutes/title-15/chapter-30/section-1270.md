@@ -3,9 +3,9 @@ title: "Section 1270 - Examinations and investigations"
 usc_title: 15
 usc_section: "1270"
 chapter: 30
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "15 U.S.C. § 1270"
-generated_at: "2026-03-29T22:13:34.355Z"
+generated_at: "2026-03-29T22:19:02.763Z"
 ---
 
 # § 1270. Examinations and investigations

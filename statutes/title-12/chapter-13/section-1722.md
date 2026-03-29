@@ -3,9 +3,9 @@ title: "Section 1722 - Benefits and burdens incident to administration of functi
 usc_title: 12
 usc_section: "1722"
 chapter: 13
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "12 U.S.C. § 1722"
-generated_at: "2026-03-29T22:12:59.478Z"
+generated_at: "2026-03-29T22:18:56.366Z"
 ---
 
 # § 1722. Benefits and burdens incident to administration of functions and operations under sections 1720 and 1721

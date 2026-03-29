@@ -3,9 +3,9 @@ title: "Section 433 - Report of employers"
 usc_title: 29
 usc_section: "433"
 chapter: 11
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "29 U.S.C. § 433"
-generated_at: "2026-03-29T22:15:03.964Z"
+generated_at: "2026-03-29T22:20:18.358Z"
 ---
 
 # § 433. Report of employers

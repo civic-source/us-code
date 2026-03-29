@@ -3,9 +3,9 @@ title: "Section 7508 - Additional centers"
 usc_title: 15
 usc_section: "7508"
 chapter: 101
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "15 U.S.C. § 7508"
-generated_at: "2026-03-29T22:13:34.637Z"
+generated_at: "2026-03-29T22:19:03.009Z"
 ---
 
 # § 7508. Additional centers

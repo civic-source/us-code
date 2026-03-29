@@ -3,9 +3,9 @@ title: "Section 5305 - Disposition of unpaid salary and other sums on death of R
 usc_title: 2
 usc_section: "5305"
 chapter: 53
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "2 U.S.C. § 5305"
-generated_at: "2026-03-29T22:11:38.376Z"
+generated_at: "2026-03-29T22:17:45.528Z"
 ---
 
 # § 5305. Disposition of unpaid salary and other sums on death of Representative or Resident Commissioner

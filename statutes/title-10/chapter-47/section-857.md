@@ -3,9 +3,9 @@ title: "Section 857 - Art. 57. Effective date of sentences"
 usc_title: 10
 usc_section: "857"
 chapter: 47
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "10 U.S.C. § 857"
-generated_at: "2026-03-29T22:11:58.855Z"
+generated_at: "2026-03-29T22:18:45.851Z"
 ---
 
 # § 857. Art. 57. Effective date of sentences

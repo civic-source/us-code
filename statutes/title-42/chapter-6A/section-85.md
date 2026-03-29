@@ -3,9 +3,9 @@ title: "Section 85 - Privacy protections"
 usc_title: 42
 usc_section: "85"
 chapter: 6
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "42 U.S.C. § 85"
-generated_at: "2026-03-29T22:16:19.029Z"
+generated_at: "2026-03-29T22:22:16.156Z"
 ---
 
 # § 300ff–85. Privacy protections

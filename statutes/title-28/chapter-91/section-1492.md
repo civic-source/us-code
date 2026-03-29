@@ -3,9 +3,9 @@ title: "Section 1492 - Congressional reference cases"
 usc_title: 28
 usc_section: "1492"
 chapter: 91
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "28 U.S.C. § 1492"
-generated_at: "2026-03-29T22:15:20.537Z"
+generated_at: "2026-03-29T22:20:14.385Z"
 ---
 
 # § 1492. Congressional reference cases

@@ -3,9 +3,9 @@ title: "Section 1720A - Treatment and rehabilitative services for persons with d
 usc_title: 38
 usc_section: "1720A"
 chapter: 17
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "38 U.S.C. § 1720A"
-generated_at: "2026-03-29T22:15:38.068Z"
+generated_at: "2026-03-29T22:21:25.423Z"
 ---
 
 # § 1720A. Treatment and rehabilitative services for persons with drug or alcohol dependency

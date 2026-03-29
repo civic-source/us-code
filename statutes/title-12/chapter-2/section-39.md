@@ -3,9 +3,9 @@ title: "Section 39 - Reservation of rights of associations organized under Act o
 usc_title: 12
 usc_section: "39"
 chapter: 2
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "12 U.S.C. § 39"
-generated_at: "2026-03-29T22:12:59.352Z"
+generated_at: "2026-03-29T22:18:56.248Z"
 ---
 
 # § 39. Reservation of rights of associations organized under Act of 1863

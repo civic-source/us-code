@@ -3,9 +3,9 @@ title: "Section 3671 - Designation"
 usc_title: 38
 usc_section: "3671"
 chapter: 36
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "38 U.S.C. § 3671"
-generated_at: "2026-03-29T22:15:38.130Z"
+generated_at: "2026-03-29T22:21:25.515Z"
 ---
 
 # § 3671. Designation

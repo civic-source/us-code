@@ -3,9 +3,9 @@ title: "Section 3733 - Cooperative agreement between Department of the Interior 
 usc_title: 25
 usc_section: "3733"
 chapter: 39
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "25 U.S.C. § 3733"
-generated_at: "2026-03-29T22:14:41.838Z"
+generated_at: "2026-03-29T22:20:08.666Z"
 ---
 
 # § 3733. Cooperative agreement between Department of the Interior and Indian tribes

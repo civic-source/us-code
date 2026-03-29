@@ -3,9 +3,9 @@ title: "Section 1443a - Naturalization proceedings overseas for members of the A
 usc_title: 8
 usc_section: "1443a"
 chapter: 12
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "8 U.S.C. § 1443a"
-generated_at: "2026-03-29T22:11:45.379Z"
+generated_at: "2026-03-29T22:17:54.358Z"
 ---
 
 # § 1443a. Naturalization proceedings overseas for members of the Armed Forces and their spouses and children

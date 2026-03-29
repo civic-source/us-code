@@ -3,9 +3,9 @@ title: "Section 719f - Congressional review"
 usc_title: 15
 usc_section: "719f"
 chapter: 15
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "15 U.S.C. § 719f"
-generated_at: "2026-03-29T22:13:34.316Z"
+generated_at: "2026-03-29T22:19:02.728Z"
 ---
 
 # § 719f. Congressional review

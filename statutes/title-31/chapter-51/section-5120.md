@@ -3,9 +3,9 @@ title: "Section 5120 - Obsolete, mutilated, and worn coins and currency"
 usc_title: 31
 usc_section: "5120"
 chapter: 51
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "31 U.S.C. § 5120"
-generated_at: "2026-03-29T22:15:30.980Z"
+generated_at: "2026-03-29T22:21:07.444Z"
 ---
 
 # § 5120. Obsolete, mutilated, and worn coins and currency

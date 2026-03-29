@@ -3,9 +3,9 @@ title: "Section 230d - Hunting, fishing, and trapping; public safety; consultati
 usc_title: 16
 usc_section: "230d"
 chapter: 1
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "16 U.S.C. § 230d"
-generated_at: "2026-03-29T22:14:06.236Z"
+generated_at: "2026-03-29T22:19:14.083Z"
 ---
 
 # § 230d. Hunting, fishing, and trapping; public safety; consultation

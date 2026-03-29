@@ -3,9 +3,9 @@ title: "Section 1605 - Hold harmless"
 usc_title: 47
 usc_section: "1605"
 chapter: 15
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "47 U.S.C. § 1605"
-generated_at: "2026-03-29T22:16:32.286Z"
+generated_at: "2026-03-29T22:22:58.648Z"
 ---
 
 # § 1605. Hold harmless

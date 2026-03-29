@@ -3,9 +3,9 @@ title: "Section 2315 - Testing of preparedness for emergencies involving nuclear
 usc_title: 50
 usc_section: "2315"
 chapter: 40
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "50 U.S.C. § 2315"
-generated_at: "2026-03-29T22:16:39.251Z"
+generated_at: "2026-03-29T22:22:36.003Z"
 ---
 
 # § 2315. Testing of preparedness for emergencies involving nuclear, radiological, chemical, and biological weapons

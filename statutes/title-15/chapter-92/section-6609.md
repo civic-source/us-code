@@ -3,9 +3,9 @@ title: "Section 6609 - Application of existing impossibility or commercial impra
 usc_title: 15
 usc_section: "6609"
 chapter: 92
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "15 U.S.C. § 6609"
-generated_at: "2026-03-29T22:13:34.600Z"
+generated_at: "2026-03-29T22:19:02.979Z"
 ---
 
 # § 6609. Application of existing impossibility or commercial impracticability doctrines

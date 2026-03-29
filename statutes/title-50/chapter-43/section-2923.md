@@ -3,9 +3,9 @@ title: "Section 2923 - Authorization of appropriations for the Department of Ene
 usc_title: 50
 usc_section: "2923"
 chapter: 43
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "50 U.S.C. § 2923"
-generated_at: "2026-03-29T22:16:39.288Z"
+generated_at: "2026-03-29T22:22:36.039Z"
 ---
 
 # § 2923. Authorization of appropriations for the Department of Energy programs to prevent weapons of mass destruction proliferation and terrorism

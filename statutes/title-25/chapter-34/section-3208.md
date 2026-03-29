@@ -3,9 +3,9 @@ title: "Section 3208 - Indian Child Abuse Treatment Grant Program"
 usc_title: 25
 usc_section: "3208"
 chapter: 34
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "25 U.S.C. § 3208"
-generated_at: "2026-03-29T22:14:41.825Z"
+generated_at: "2026-03-29T22:20:08.654Z"
 ---
 
 # § 3208. Indian Child Abuse Treatment Grant Program

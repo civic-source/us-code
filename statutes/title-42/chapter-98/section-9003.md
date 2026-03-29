@@ -3,9 +3,9 @@ title: "Section 9003 - Research and development"
 usc_title: 42
 usc_section: "9003"
 chapter: 98
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "42 U.S.C. § 9003"
-generated_at: "2026-03-29T22:16:20.234Z"
+generated_at: "2026-03-29T22:22:17.490Z"
 ---
 
 # § 9003. Research and development

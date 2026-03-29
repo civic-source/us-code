@@ -3,9 +3,9 @@ title: "Section 20709b - Encouraging a victim-centered approach to training of F
 usc_title: 34
 usc_section: "20709b"
 chapter: 207
-current_through: "PL 117-114"
+current_through: "PL 117-116"
 classification: "34 U.S.C. § 20709b"
-generated_at: "2026-03-29T22:15:28.091Z"
+generated_at: "2026-03-29T22:20:59.738Z"
 ---
 
 # § 20709b. Encouraging a victim-centered approach to training of Federal law enforcement personnel
