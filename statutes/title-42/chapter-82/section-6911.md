@@ -3,9 +3,9 @@ title: "Section 6911 - Office of Solid Waste and Interagency Coordinating Commit
 usc_title: 42
 usc_section: "6911"
 chapter: 82
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 6911"
-generated_at: "2026-03-29T23:23:27.891Z"
+generated_at: "2026-03-29T23:26:16.132Z"
 ---
 
 # § 6911. Office of Solid Waste and Interagency Coordinating Committee

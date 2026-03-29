@@ -3,9 +3,9 @@ title: "Section 1396a - State plans for medical assistance"
 usc_title: 42
 usc_section: "1396a"
 chapter: 7
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 1396a"
-generated_at: "2026-03-29T23:23:27.686Z"
+generated_at: "2026-03-29T23:26:15.927Z"
 ---
 
 # § 1396a. State plans for medical assistance
@@ -415,7 +415,7 @@ generated_at: "2026-03-29T23:23:27.686Z"
       - **(iv)** A State shall, with respect to an individual who loses eligibility for medical assistance under the State plan (or a waiver of such plan) by reason of clause (i)—
         - **(I)** before the date on which the individual loses such eligibility, inform the individual—
         - **(II)** provide technical assistance to the individual seeking to enroll in such a qualified health plan.
-      - **(v)** In this subparagraph, the term “qualified lottery winnings” means winnings from a sweepstakes, lottery, or pool described in paragraph (3) of section 4402 of title 26 or a lottery operated by a multistate or multijurisdictional lottery association, including amounts awarded as a lump sum payment.
+      - **(v)** In this subparagraph, the term “qualified lottery winnings” means winnings from a sweepstakes, lottery, or pool described in paragraph (3) of section 4402 of the Internal Revenue Code of 1986 or a lottery operated by a multistate or multijurisdictional lottery association, including amounts awarded as a lump sum payment.
       - **(vi)** In this subparagraph, the term “qualified lump sum income” means income that is received as a lump sum from monetary winnings from gambling (as defined by the Secretary and including gambling activities described in section 1955(b)(4) of title 18 ).
   - **(15)** The first $2,000 received by an individual (who has attained 19 years of age) as compensation for participation in a clinical trial meeting the requirements of section 1382a(b)(26) of this title shall be disregarded for purposes of determining the income eligibility of such individual for medical assistance under the State plan or any waiver of such plan.
   - **(16)**

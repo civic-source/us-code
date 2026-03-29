@@ -3,9 +3,9 @@ title: "Section 6g - Reporting and recordkeeping"
 usc_title: 7
 usc_section: "6g"
 chapter: 1
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "7 U.S.C. § 6g"
-generated_at: "2026-03-29T23:20:20.935Z"
+generated_at: "2026-03-29T23:24:49.358Z"
 ---
 
 # § 6g. Reporting and recordkeeping

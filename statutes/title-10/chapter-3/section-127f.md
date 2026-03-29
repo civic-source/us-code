@@ -3,9 +3,9 @@ title: "Section 127f - Expenditure of funds for clandestine activities that supp
 usc_title: 10
 usc_section: "127f"
 chapter: 3
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "10 U.S.C. § 127f"
-generated_at: "2026-03-29T23:20:11.157Z"
+generated_at: "2026-03-29T23:24:28.108Z"
 ---
 
 # § 127f. Expenditure of funds for clandestine activities that support operational preparation of the environment

@@ -3,9 +3,9 @@ title: "Section 2227 - Withholding of United States proportionate share for cert
 usc_title: 22
 usc_section: "2227"
 chapter: 32
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "22 U.S.C. § 2227"
-generated_at: "2026-03-29T23:21:55.146Z"
+generated_at: "2026-03-29T23:25:31.230Z"
 ---
 
 # § 2227. Withholding of United States proportionate share for certain programs of international organizations

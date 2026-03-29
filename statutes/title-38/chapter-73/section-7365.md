@@ -3,9 +3,9 @@ title: "Section 7365 - Coverage of employees under certain Federal tort claims l
 usc_title: 38
 usc_section: "7365"
 chapter: 73
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "38 U.S.C. § 7365"
-generated_at: "2026-03-29T23:22:45.432Z"
+generated_at: "2026-03-29T23:25:55.584Z"
 ---
 
 # § 7365. Coverage of employees under certain Federal tort claims laws

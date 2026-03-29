@@ -3,9 +3,9 @@ title: "Section 1429 - Penalties for neglect or refusal to answer subpena"
 usc_title: 18
 usc_section: "1429"
 chapter: 69
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "18 U.S.C. § 1429"
-generated_at: "2026-03-29T23:21:10.292Z"
+generated_at: "2026-03-29T23:25:16.600Z"
 ---
 
 # § 1429. Penalties for neglect or refusal to answer subpena

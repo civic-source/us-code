@@ -3,9 +3,9 @@ title: "Section 3553 - Authority and functions of the Director and the Secretary
 usc_title: 44
 usc_section: "3553"
 chapter: 35
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "44 U.S.C. § 3553"
-generated_at: "2026-03-29T23:23:08.079Z"
+generated_at: "2026-03-29T23:25:58.067Z"
 ---
 
 # § 3553. Authority and functions of the Director and the Secretary

@@ -3,9 +3,9 @@ title: "Section 6743 - Prohibition relating to unscheduled discrete organic chem
 usc_title: 22
 usc_section: "6743"
 chapter: 75
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "22 U.S.C. § 6743"
-generated_at: "2026-03-29T23:21:55.219Z"
+generated_at: "2026-03-29T23:25:31.304Z"
 ---
 
 # § 6743. Prohibition relating to unscheduled discrete organic chemicals and coincidental byproducts in waste streams

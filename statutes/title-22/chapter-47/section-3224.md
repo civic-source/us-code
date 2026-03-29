@@ -3,9 +3,9 @@ title: "Section 3224 - Reevaluation of nuclear fuel cycle"
 usc_title: 22
 usc_section: "3224"
 chapter: 47
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "22 U.S.C. § 3224"
-generated_at: "2026-03-29T23:21:55.180Z"
+generated_at: "2026-03-29T23:25:31.264Z"
 ---
 
 # § 3224. Reevaluation of nuclear fuel cycle

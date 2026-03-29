@@ -3,9 +3,9 @@ title: "Section 793 - Appointment of officers and employees of Commission; dutie
 usc_title: 16
 usc_section: "793"
 chapter: 12
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "16 U.S.C. § 793"
-generated_at: "2026-03-29T23:21:01.712Z"
+generated_at: "2026-03-29T23:25:21.273Z"
 ---
 
 # § 793. Appointment of officers and employees of Commission; duties, and salaries; detail of officers and employees from other departments; expenditures authorized

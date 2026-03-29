@@ -3,9 +3,9 @@ title: "Section 1110 - Repealed. Pub. L. 115–334, title VI, § 6603(2) , Dec. 
 usc_title: 47
 usc_section: "1110"
 chapter: 10
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "47 U.S.C. § 1110"
-generated_at: "2026-03-29T23:23:37.364Z"
+generated_at: "2026-03-29T23:26:22.245Z"
 ---
 
 # §§ 1101 to 1110. Repealed. Pub. L. 115–334, title VI, § 6603(2) , Dec. 20, 2018 , 132 Stat. 4777

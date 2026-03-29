@@ -3,9 +3,9 @@ title: "Section 1308 - Filing of prepetition tax returns"
 usc_title: 11
 usc_section: "1308"
 chapter: 13
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "11 U.S.C. § 1308"
-generated_at: "2026-03-29T23:20:38.732Z"
+generated_at: "2026-03-29T23:24:52.812Z"
 ---
 
 # § 1308. Filing of prepetition tax returns

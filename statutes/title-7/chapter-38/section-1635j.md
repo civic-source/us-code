@@ -3,9 +3,9 @@ title: "Section 1635j - Mandatory reporting for swine"
 usc_title: 7
 usc_section: "1635j"
 chapter: 38
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "7 U.S.C. § 1635j"
-generated_at: "2026-03-29T23:20:21.004Z"
+generated_at: "2026-03-29T23:24:49.430Z"
 ---
 
 # § 1635j. Mandatory reporting for swine

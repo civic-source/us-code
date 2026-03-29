@@ -3,9 +3,9 @@ title: "Section 2168 - Defense Language Institute Foreign Language Center: degre
 usc_title: 10
 usc_section: "2168"
 chapter: 108
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "10 U.S.C. § 2168"
-generated_at: "2026-03-29T23:20:11.228Z"
+generated_at: "2026-03-29T23:24:28.181Z"
 ---
 
 # § 2168. Defense Language Institute Foreign Language Center: degree of Associate or Bachelor of Arts in foreign language

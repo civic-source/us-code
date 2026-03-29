@@ -3,9 +3,9 @@ title: "Section 18651 - High intensity laser research initiative"
 usc_title: 42
 usc_section: "18651"
 chapter: 161
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 18651"
-generated_at: "2026-03-29T23:23:28.116Z"
+generated_at: "2026-03-29T23:26:16.356Z"
 ---
 
 # § 18651. High intensity laser research initiative

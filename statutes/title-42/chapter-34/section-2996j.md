@@ -3,9 +3,9 @@ title: "Section 2996j - Special limitations"
 usc_title: 42
 usc_section: "2996j"
 chapter: 34
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 2996j"
-generated_at: "2026-03-29T23:23:27.802Z"
+generated_at: "2026-03-29T23:26:16.044Z"
 ---
 
 # § 2996j. Special limitations

@@ -3,9 +3,9 @@ title: "Section 25 - Private rights of action"
 usc_title: 7
 usc_section: "25"
 chapter: 1
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "7 U.S.C. § 25"
-generated_at: "2026-03-29T23:20:20.942Z"
+generated_at: "2026-03-29T23:24:49.365Z"
 ---
 
 # § 25. Private rights of action

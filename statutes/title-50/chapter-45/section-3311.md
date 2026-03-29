@@ -3,9 +3,9 @@ title: "Section 3311 - Submittal to Congress by heads of elements of intelligenc
 usc_title: 50
 usc_section: "3311"
 chapter: 45
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "50 U.S.C. § 3311"
-generated_at: "2026-03-29T23:23:39.086Z"
+generated_at: "2026-03-29T23:26:21.607Z"
 ---
 
 # § 3311. Submittal to Congress by heads of elements of intelligence community of plans for orderly shutdown in event of absence of appropriations

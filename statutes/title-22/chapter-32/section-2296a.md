@@ -3,9 +3,9 @@ title: "Section 2296a - Economic assistance"
 usc_title: 22
 usc_section: "2296a"
 chapter: 32
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "22 U.S.C. § 2296a"
-generated_at: "2026-03-29T23:21:55.150Z"
+generated_at: "2026-03-29T23:25:31.233Z"
 ---
 
 # § 2296a. Economic assistance

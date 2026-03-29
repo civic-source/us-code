@@ -3,9 +3,9 @@ title: "Section 12702 - Objective of national housing policy"
 usc_title: 42
 usc_section: "12702"
 chapter: 130
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 12702"
-generated_at: "2026-03-29T23:23:28.032Z"
+generated_at: "2026-03-29T23:26:16.273Z"
 ---
 
 # § 12702. Objective of national housing policy

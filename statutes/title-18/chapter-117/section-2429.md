@@ -3,9 +3,9 @@ title: "Section 2429 - Mandatory restitution"
 usc_title: 18
 usc_section: "2429"
 chapter: 117
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "18 U.S.C. § 2429"
-generated_at: "2026-03-29T23:21:10.309Z"
+generated_at: "2026-03-29T23:25:16.617Z"
 ---
 
 # § 2429. Mandatory restitution

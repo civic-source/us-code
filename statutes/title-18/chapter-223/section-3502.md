@@ -3,9 +3,9 @@ title: "Section 3502 - Admissibility in evidence of eye witness testimony"
 usc_title: 18
 usc_section: "3502"
 chapter: 223
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "18 U.S.C. § 3502"
-generated_at: "2026-03-29T23:21:10.318Z"
+generated_at: "2026-03-29T23:25:16.625Z"
 ---
 
 # § 3502. Admissibility in evidence of eye witness testimony

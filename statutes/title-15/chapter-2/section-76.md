@@ -3,9 +3,9 @@ title: "Section 76 - Retaliation against restriction of importations in time of 
 usc_title: 15
 usc_section: "76"
 chapter: 2
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "15 U.S.C. § 76"
-generated_at: "2026-03-29T23:20:44.011Z"
+generated_at: "2026-03-29T23:25:11.096Z"
 ---
 
 # § 76. Retaliation against restriction of importations in time of war

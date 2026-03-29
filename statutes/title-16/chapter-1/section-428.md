@@ -3,9 +3,9 @@ title: "Section 428 - Fort Donelson National Battlefield; establishment; appoint
 usc_title: 16
 usc_section: "428"
 chapter: 1
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "16 U.S.C. § 428"
-generated_at: "2026-03-29T23:21:01.633Z"
+generated_at: "2026-03-29T23:25:21.195Z"
 ---
 
 # § 428. Fort Donelson National Battlefield; establishment; appointment of commission

@@ -3,9 +3,9 @@ title: "Section 6602 - Definitions"
 usc_title: 15
 usc_section: "6602"
 chapter: 92
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "15 U.S.C. § 6602"
-generated_at: "2026-03-29T23:20:44.176Z"
+generated_at: "2026-03-29T23:25:11.264Z"
 ---
 
 # § 6602. Definitions

@@ -3,9 +3,9 @@ title: "Section 220711 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "220711"
 chapter: 2207
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "36 U.S.C. § 220711"
-generated_at: "2026-03-29T23:22:47.473Z"
+generated_at: "2026-03-29T23:25:54.094Z"
 ---
 
 # § 220711. Liability for acts of officers and agents

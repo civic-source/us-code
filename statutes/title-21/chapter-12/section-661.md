@@ -3,9 +3,9 @@ title: "Section 661 - Federal and State cooperation"
 usc_title: 21
 usc_section: "661"
 chapter: 12
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "21 U.S.C. § 661"
-generated_at: "2026-03-29T23:21:51.551Z"
+generated_at: "2026-03-29T23:25:34.844Z"
 ---
 
 # § 661. Federal and State cooperation

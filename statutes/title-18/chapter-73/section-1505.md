@@ -3,9 +3,9 @@ title: "Section 1505 - Obstruction of proceedings before departments, agencies, 
 usc_title: 18
 usc_section: "1505"
 chapter: 73
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "18 U.S.C. § 1505"
-generated_at: "2026-03-29T23:21:10.293Z"
+generated_at: "2026-03-29T23:25:16.601Z"
 ---
 
 # § 1505. Obstruction of proceedings before departments, agencies, and committees

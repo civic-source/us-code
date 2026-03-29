@@ -3,9 +3,9 @@ title: "Section 2792 - Limitations on use of funds for laboratory directed resea
 usc_title: 50
 usc_section: "2792"
 chapter: 42
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "50 U.S.C. § 2792"
-generated_at: "2026-03-29T23:23:39.075Z"
+generated_at: "2026-03-29T23:26:21.595Z"
 ---
 
 # § 2792. Limitations on use of funds for laboratory directed research and development purposes

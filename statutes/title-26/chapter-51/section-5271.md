@@ -3,9 +3,9 @@ title: "Section 5271 - Permits"
 usc_title: 26
 usc_section: "5271"
 chapter: 51
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "26 U.S.C. § 5271"
-generated_at: "2026-03-29T23:22:12.945Z"
+generated_at: "2026-03-29T23:25:46.759Z"
 ---
 
 # § 5271. Permits

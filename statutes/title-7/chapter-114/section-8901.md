@@ -3,9 +3,9 @@ title: "Section 8901 - Definitions"
 usc_title: 7
 usc_section: "8901"
 chapter: 114
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "7 U.S.C. § 8901"
-generated_at: "2026-03-29T23:20:21.115Z"
+generated_at: "2026-03-29T23:24:49.540Z"
 ---
 
 # § 8901. Definitions

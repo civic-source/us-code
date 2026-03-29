@@ -3,9 +3,9 @@ title: "Section 1717 - Federal National Mortgage Association and Government Nati
 usc_title: 12
 usc_section: "1717"
 chapter: 13
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "12 U.S.C. § 1717"
-generated_at: "2026-03-29T23:20:46.627Z"
+generated_at: "2026-03-29T23:24:55.230Z"
 ---
 
 # § 1717. Federal National Mortgage Association and Government National Mortgage Association

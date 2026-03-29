@@ -3,14 +3,14 @@ title: "Section 3014 - Additional special assessment"
 usc_title: 18
 usc_section: "3014"
 chapter: 201
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "18 U.S.C. § 3014"
-generated_at: "2026-03-29T23:21:10.312Z"
+generated_at: "2026-03-29T23:25:16.619Z"
 ---
 
 # § 3014. Additional special assessment
 
-- **(a)** Beginning on the date of enactment of the Justice for Victims of Trafficking Act of 2015 and ending on September 30, 2022 , in addition to the assessment imposed under section 3013, the court shall assess an amount of $5,000 on any non-indigent person or entity convicted of an offense under—
+- **(a)** Beginning on the date of enactment of the Justice for Victims of Trafficking Act of 2015 and ending on December 16, 2022 , in addition to the assessment imposed under section 3013, the court shall assess an amount of $5,000 on any non-indigent person or entity convicted of an offense under—
   - **(1)** chapter 77 (relating to peonage, slavery, and trafficking in persons);
   - **(2)** chapter 109A (relating to sexual abuse);
   - **(3)** chapter 110 (relating to sexual exploitation and other abuse of children);

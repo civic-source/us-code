@@ -3,9 +3,9 @@ title: "Section 467d - National dam inventory"
 usc_title: 33
 usc_section: "467d"
 chapter: 9
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "33 U.S.C. § 467d"
-generated_at: "2026-03-29T23:22:27.760Z"
+generated_at: "2026-03-29T23:25:51.282Z"
 ---
 
 # § 467d. National dam inventory

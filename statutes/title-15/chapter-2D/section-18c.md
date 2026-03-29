@@ -3,9 +3,9 @@ title: "Section 18c - Rule of construction relating to the Commodities Exchange 
 usc_title: 15
 usc_section: "18c"
 chapter: 2
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "15 U.S.C. § 18c"
-generated_at: "2026-03-29T23:20:44.050Z"
+generated_at: "2026-03-29T23:25:11.136Z"
 ---
 
 # § 80b–18c. Rule of construction relating to the Commodities Exchange Act

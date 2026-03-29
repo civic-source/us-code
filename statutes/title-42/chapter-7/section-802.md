@@ -3,9 +3,9 @@ title: "Section 802 - Coronavirus State fiscal recovery fund"
 usc_title: 42
 usc_section: "802"
 chapter: 7
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 802"
-generated_at: "2026-03-29T23:23:27.575Z"
+generated_at: "2026-03-29T23:26:15.814Z"
 ---
 
 # § 802. Coronavirus State fiscal recovery fund
@@ -77,4 +77,4 @@ generated_at: "2026-03-29T23:23:27.575Z"
   - **(4)** The term “Secretary” means the Secretary of the Treasury.
   - **(5)** The term “State” means each of the 50 States and the District of Columbia.
   - **(6)** The term “territory” means the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa.
-  - **(7)** The term “Tribal Government” means the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list published most recently as of March 11, 2021 pursuant to section 5131 of title 25 .
+  - **(7)** The term “Tribal Government” means the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list published most recently as of March 11, 2021 , pursuant to section 5131 of title 25 .

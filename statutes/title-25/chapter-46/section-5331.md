@@ -3,9 +3,9 @@ title: "Section 5331 - Contract disputes and claims"
 usc_title: 25
 usc_section: "5331"
 chapter: 46
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "25 U.S.C. § 5331"
-generated_at: "2026-03-29T23:21:42.568Z"
+generated_at: "2026-03-29T23:25:29.217Z"
 ---
 
 # § 5331. Contract disputes and claims

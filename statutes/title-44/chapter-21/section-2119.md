@@ -3,9 +3,9 @@ title: "Section 2119 - Cooperative agreements"
 usc_title: 44
 usc_section: "2119"
 chapter: 21
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "44 U.S.C. § 2119"
-generated_at: "2026-03-29T23:23:08.076Z"
+generated_at: "2026-03-29T23:25:58.063Z"
 ---
 
 # § 2119. Cooperative agreements

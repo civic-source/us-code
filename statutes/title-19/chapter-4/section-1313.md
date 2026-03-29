@@ -3,9 +3,9 @@ title: "Section 1313 - Drawback and refunds"
 usc_title: 19
 usc_section: "1313"
 chapter: 4
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "19 U.S.C. § 1313"
-generated_at: "2026-03-29T23:20:52.910Z"
+generated_at: "2026-03-29T23:25:17.751Z"
 ---
 
 # § 1313. Drawback and refunds

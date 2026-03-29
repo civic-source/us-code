@@ -3,9 +3,9 @@ title: "Section 3692 - Performance targets and transparency"
 usc_title: 39
 usc_section: "3692"
 chapter: 36
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "39 U.S.C. § 3692"
-generated_at: "2026-03-29T23:22:43.047Z"
+generated_at: "2026-03-29T23:25:53.451Z"
 ---
 
 # § 3692. Performance targets and transparency

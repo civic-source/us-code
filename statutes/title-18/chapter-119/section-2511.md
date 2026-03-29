@@ -3,9 +3,9 @@ title: "Section 2511 - Interception and disclosure of wire, oral, or electronic 
 usc_title: 18
 usc_section: "2511"
 chapter: 119
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "18 U.S.C. § 2511"
-generated_at: "2026-03-29T23:21:10.310Z"
+generated_at: "2026-03-29T23:25:16.617Z"
 ---
 
 # § 2511. Interception and disclosure of wire, oral, or electronic communications prohibited

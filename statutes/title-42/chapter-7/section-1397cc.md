@@ -3,9 +3,9 @@ title: "Section 1397cc - Coverage requirements for children’s health insurance
 usc_title: 42
 usc_section: "1397cc"
 chapter: 7
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 1397cc"
-generated_at: "2026-03-29T23:23:27.718Z"
+generated_at: "2026-03-29T23:26:15.959Z"
 ---
 
 # § 1397cc. Coverage requirements for children’s health insurance
@@ -60,7 +60,7 @@ generated_at: "2026-03-29T23:23:27.718Z"
   - **(8)** Nothing in this section shall be construed as requiring any health benefits coverage offered under the plan to provide coverage for items or services for which payment is prohibited under this subchapter, notwithstanding that any benchmark benefit package includes coverage for such an item or service.
   - **(9)** Nothing in this subchapter shall be construed as limiting a State’s ability to provide child health assistance for covered items and services that are furnished through school-based health centers (as defined in section 1397jj(c)(9) of this title ).
   - **(10)** The child health assistance provided to a targeted low-income child shall include coverage of any in vitro diagnostic product described in section 1396d(a)(3)(B) of this title that is administered during any portion of the emergency period described in such section beginning on or after March 18, 2020 1 1 See References in Text note below. (and the administration of such product).
-  - **(11)** Regardless of the type of coverage elected by a State under subsection (a), the child health assistance provided for a targeted low-income child, and, in the case of a State that elects to provide pregnancy-related assistance pursuant to section 1397 ll of this title, the pregnancy-related assistance provided for a targeted low-income pregnant woman (as such terms are defined for purposes of such section), shall include coverage, during the period beginning on March 11, 2021 and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in section 1320b–5(g)(1)(B) of this title , of—
+  - **(11)** Regardless of the type of coverage elected by a State under subsection (a), the child health assistance provided for a targeted low-income child, and, in the case of a State that elects to provide pregnancy-related assistance pursuant to section 1397 ll of this title, the pregnancy-related assistance provided for a targeted low-income pregnant woman (as such terms are defined for purposes of such section), shall include coverage, during the period beginning on March 11, 2021 , and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in section 1320b–5(g)(1)(B) of this title , of—
     - **(A)** a COVID–19 vaccine (and the administration of the vaccine); and
     - **(B)** testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, in the case of an individual who is diagnosed with or presumed to have COVID–19, during the period during which such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State child health plan (or waiver of such plan).
 - **(d)**

@@ -3,9 +3,9 @@ title: "Section 16 - Fishing and wildlife"
 usc_title: 16
 usc_section: "16"
 chapter: 1
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "16 U.S.C. § 16"
-generated_at: "2026-03-29T23:21:01.661Z"
+generated_at: "2026-03-29T23:25:21.222Z"
 ---
 
 # § 460vv–16. Fishing and wildlife

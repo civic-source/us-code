@@ -3,9 +3,9 @@ title: "Section 10564 - Use of grants"
 usc_title: 34
 usc_section: "10564"
 chapter: 101
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "34 U.S.C. § 10564"
-generated_at: "2026-03-29T23:22:39.878Z"
+generated_at: "2026-03-29T23:25:50.323Z"
 ---
 
 # § 10564. Use of grants

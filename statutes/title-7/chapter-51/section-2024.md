@@ -3,9 +3,9 @@ title: "Section 2024 - Violations and enforcement"
 usc_title: 7
 usc_section: "2024"
 chapter: 51
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "7 U.S.C. § 2024"
-generated_at: "2026-03-29T23:20:21.032Z"
+generated_at: "2026-03-29T23:24:49.457Z"
 ---
 
 # § 2024. Violations and enforcement

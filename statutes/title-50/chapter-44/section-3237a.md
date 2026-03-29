@@ -3,9 +3,9 @@ title: "Section 3237a - Annual reports on security services of the People’s Re
 usc_title: 50
 usc_section: "3237a"
 chapter: 44
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "50 U.S.C. § 3237a"
-generated_at: "2026-03-29T23:23:39.085Z"
+generated_at: "2026-03-29T23:26:21.606Z"
 ---
 
 # § 3237a. Annual reports on security services of the People’s Republic of China in the Hong Kong Special Administrative Region

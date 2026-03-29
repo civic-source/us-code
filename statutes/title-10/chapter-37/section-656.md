@@ -3,9 +3,9 @@ title: "Section 656 - Diversity in military leadership: plan; mentoring and care
 usc_title: 10
 usc_section: "656"
 chapter: 37
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "10 U.S.C. § 656"
-generated_at: "2026-03-29T23:20:11.180Z"
+generated_at: "2026-03-29T23:24:28.131Z"
 ---
 
 # § 656. Diversity in military leadership: plan; mentoring and career counseling program

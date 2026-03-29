@@ -3,9 +3,9 @@ title: "Section 1473 - Acceptance of contributions from private and public sourc
 usc_title: 43
 usc_section: "1473"
 chapter: 31
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "43 U.S.C. § 1473"
-generated_at: "2026-03-29T23:23:13.699Z"
+generated_at: "2026-03-29T23:25:58.701Z"
 ---
 
 # § 1473. Acceptance of contributions from private and public sources by Mineral Management Service

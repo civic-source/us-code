@@ -3,9 +3,9 @@ title: "Section 7902 - Prohibition on bringing of qualified civil liability acti
 usc_title: 15
 usc_section: "7902"
 chapter: 105
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "15 U.S.C. § 7902"
-generated_at: "2026-03-29T23:20:44.190Z"
+generated_at: "2026-03-29T23:25:11.277Z"
 ---
 
 # § 7902. Prohibition on bringing of qualified civil liability actions in Federal or State court

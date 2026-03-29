@@ -3,9 +3,9 @@ title: "Section 459u - Exchange of recreational demonstration project lands by g
 usc_title: 16
 usc_section: "459u"
 chapter: 1
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "16 U.S.C. § 459u"
-generated_at: "2026-03-29T23:21:01.646Z"
+generated_at: "2026-03-29T23:25:21.207Z"
 ---
 
 # § 459u. Exchange of recreational demonstration project lands by grantee

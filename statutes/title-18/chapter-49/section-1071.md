@@ -3,9 +3,9 @@ title: "Section 1071 - Concealing person from arrest"
 usc_title: 18
 usc_section: "1071"
 chapter: 49
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "18 U.S.C. § 1071"
-generated_at: "2026-03-29T23:21:10.289Z"
+generated_at: "2026-03-29T23:25:16.598Z"
 ---
 
 # § 1071. Concealing person from arrest

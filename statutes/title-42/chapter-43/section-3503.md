@@ -3,9 +3,9 @@ title: "Section 3503 - Omitted"
 usc_title: 42
 usc_section: "3503"
 chapter: 43
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 3503"
-generated_at: "2026-03-29T23:23:27.817Z"
+generated_at: "2026-03-29T23:26:16.059Z"
 ---
 
 # § 3503. Omitted

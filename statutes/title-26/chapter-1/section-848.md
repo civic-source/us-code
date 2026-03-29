@@ -3,9 +3,9 @@ title: "Section 848 - Capitalization of certain policy acquisition expenses"
 usc_title: 26
 usc_section: "848"
 chapter: 1
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "26 U.S.C. § 848"
-generated_at: "2026-03-29T23:22:12.869Z"
+generated_at: "2026-03-29T23:25:46.681Z"
 ---
 
 # § 848. Capitalization of certain policy acquisition expenses

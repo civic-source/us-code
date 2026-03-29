@@ -3,9 +3,9 @@ title: "Section 280j - Representation in Congress; appointment of delegates and 
 usc_title: 22
 usc_section: "280j"
 chapter: 7
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "22 U.S.C. § 280j"
-generated_at: "2026-03-29T23:21:55.113Z"
+generated_at: "2026-03-29T23:25:31.195Z"
 ---
 
 # § 280j. Representation in Congress; appointment of delegates and alternates

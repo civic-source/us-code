@@ -3,9 +3,9 @@ title: "Section 103302 - Camps for military instruction"
 usc_title: 54
 usc_section: "103302"
 chapter: 1033
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "54 U.S.C. § 103302"
-generated_at: "2026-03-29T23:23:51.092Z"
+generated_at: "2026-03-29T23:26:40.775Z"
 ---
 
 # § 103302. Camps for military instruction

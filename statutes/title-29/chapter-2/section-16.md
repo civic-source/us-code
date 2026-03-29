@@ -3,9 +3,9 @@ title: "Section 16 - Repealed. Oct. 31, 1951, ch. 654, § 1(54) , 65 Stat. 703"
 usc_title: 29
 usc_section: "16"
 chapter: 2
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "29 U.S.C. § 16"
-generated_at: "2026-03-29T23:22:24.231Z"
+generated_at: "2026-03-29T23:25:38.545Z"
 ---
 
 # § 16. Repealed. Oct. 31, 1951, ch. 654, § 1(54) , 65 Stat. 703

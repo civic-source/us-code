@@ -3,9 +3,9 @@ title: "Section 1314 - Ephemeris and Nautical Almanac"
 usc_title: 44
 usc_section: "1314"
 chapter: 13
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "44 U.S.C. § 1314"
-generated_at: "2026-03-29T23:23:08.074Z"
+generated_at: "2026-03-29T23:25:58.060Z"
 ---
 
 # § 1314. Ephemeris and Nautical Almanac

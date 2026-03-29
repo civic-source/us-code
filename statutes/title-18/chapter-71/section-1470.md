@@ -3,9 +3,9 @@ title: "Section 1470 - Transfer of obscene material to minors"
 usc_title: 18
 usc_section: "1470"
 chapter: 71
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "18 U.S.C. § 1470"
-generated_at: "2026-03-29T23:21:10.293Z"
+generated_at: "2026-03-29T23:25:16.601Z"
 ---
 
 # § 1470. Transfer of obscene material to minors

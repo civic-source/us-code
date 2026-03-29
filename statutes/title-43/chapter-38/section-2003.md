@@ -3,9 +3,9 @@ title: "Section 2003 - Definitions"
 usc_title: 43
 usc_section: "2003"
 chapter: 38
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "43 U.S.C. § 2003"
-generated_at: "2026-03-29T23:23:13.717Z"
+generated_at: "2026-03-29T23:25:58.720Z"
 ---
 
 # § 2003. Definitions

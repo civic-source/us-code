@@ -3,9 +3,9 @@ title: "Section 907 - Congressional Record: extracts for Members of Congress; ma
 usc_title: 44
 usc_section: "907"
 chapter: 9
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "44 U.S.C. § 907"
-generated_at: "2026-03-29T23:23:08.073Z"
+generated_at: "2026-03-29T23:25:58.060Z"
 ---
 
 # § 907. Congressional Record: extracts for Members of Congress; mailing envelopes

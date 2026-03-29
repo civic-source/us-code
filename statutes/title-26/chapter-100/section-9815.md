@@ -3,9 +3,9 @@ title: "Section 9815 - Additional market reforms"
 usc_title: 26
 usc_section: "9815"
 chapter: 100
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "26 U.S.C. § 9815"
-generated_at: "2026-03-29T23:22:13.007Z"
+generated_at: "2026-03-29T23:25:46.824Z"
 ---
 
 # § 9815. 1 1 So in original. No section 9814 has been enacted. Additional market reforms

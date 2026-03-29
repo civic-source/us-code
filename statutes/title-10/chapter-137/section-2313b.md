@@ -3,9 +3,9 @@ title: "Section 2313b - Renumbered § 3842]"
 usc_title: 10
 usc_section: "2313b"
 chapter: 137
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "10 U.S.C. § 2313b"
-generated_at: "2026-03-29T23:20:11.234Z"
+generated_at: "2026-03-29T23:24:28.186Z"
 ---
 
 # [§ 2313b. Renumbered § 3842]

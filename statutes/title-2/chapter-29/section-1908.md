@@ -3,9 +3,9 @@ title: "Section 1908 - Legal representation authority"
 usc_title: 2
 usc_section: "1908"
 chapter: 29
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "2 U.S.C. § 1908"
-generated_at: "2026-03-29T23:19:24.696Z"
+generated_at: "2026-03-29T23:24:11.507Z"
 ---
 
 # § 1908. Legal representation authority

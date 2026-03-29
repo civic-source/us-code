@@ -3,9 +3,9 @@ title: "Section 668 - Definitions"
 usc_title: 10
 usc_section: "668"
 chapter: 38
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "10 U.S.C. § 668"
-generated_at: "2026-03-29T23:20:11.180Z"
+generated_at: "2026-03-29T23:24:28.131Z"
 ---
 
 # § 668. Definitions

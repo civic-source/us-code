@@ -3,9 +3,9 @@ title: "Section 284n - Certain demonstration projects"
 usc_title: 42
 usc_section: "284n"
 chapter: 6
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 284n"
-generated_at: "2026-03-29T23:23:27.445Z"
+generated_at: "2026-03-29T23:26:15.684Z"
 ---
 
 # § 284n. Certain demonstration projects

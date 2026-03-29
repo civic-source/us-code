@@ -3,9 +3,9 @@ title: "Section 10283 - National programs for families of public safety officers
 usc_title: 34
 usc_section: "10283"
 chapter: 101
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "34 U.S.C. § 10283"
-generated_at: "2026-03-29T23:22:39.871Z"
+generated_at: "2026-03-29T23:25:50.316Z"
 ---
 
 # § 10283. National programs for families of public safety officers who have sustained fatal or catastrophic injury in the line of duty

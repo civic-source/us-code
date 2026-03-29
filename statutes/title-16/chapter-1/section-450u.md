@@ -3,9 +3,9 @@ title: "Section 450u - Transferred"
 usc_title: 16
 usc_section: "450u"
 chapter: 1
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "16 U.S.C. § 450u"
-generated_at: "2026-03-29T23:21:01.639Z"
+generated_at: "2026-03-29T23:25:21.200Z"
 ---
 
 # § 450u. Transferred

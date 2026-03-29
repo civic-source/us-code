@@ -3,9 +3,9 @@ title: "Section 3319e - New Era Rural Technology Program"
 usc_title: 7
 usc_section: "3319e"
 chapter: 64
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "7 U.S.C. § 3319e"
-generated_at: "2026-03-29T23:20:21.055Z"
+generated_at: "2026-03-29T23:24:49.481Z"
 ---
 
 # § 3319e. New Era Rural Technology Program

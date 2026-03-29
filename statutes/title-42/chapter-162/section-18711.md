@@ -3,9 +3,9 @@ title: "Section 18711 - Preventing outages and enhancing the resilience of the e
 usc_title: 42
 usc_section: "18711"
 chapter: 162
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 18711"
-generated_at: "2026-03-29T23:23:28.117Z"
+generated_at: "2026-03-29T23:26:16.356Z"
 ---
 
 # § 18711. Preventing outages and enhancing the resilience of the electric grid
@@ -82,7 +82,7 @@ generated_at: "2026-03-29T23:23:28.117Z"
       - **(ii)** battery-storage subcomponents;
     - **(I)** adaptive protection technologies;
     - **(J)** advanced modeling technologies;
-    - **(K)** hardening of power lines, facilities, substations, of other systems; and
+    - **(K)** hardening of power lines, facilities, substations, of 1 1 So in original. other systems; and
     - **(L)** the replacement of old overhead conductors and underground cables.
   - **(2)**
     - **(A)** A grant awarded to an eligible entity under the program may not be used for—

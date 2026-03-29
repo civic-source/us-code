@@ -3,9 +3,9 @@ title: "Section 3111 - Assessment of Indian forest land and management programs"
 usc_title: 25
 usc_section: "3111"
 chapter: 33
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "25 U.S.C. § 3111"
-generated_at: "2026-03-29T23:21:42.552Z"
+generated_at: "2026-03-29T23:25:29.201Z"
 ---
 
 # § 3111. Assessment of Indian forest land and management programs

@@ -3,9 +3,9 @@ title: "Section 4978 - Tax on certain dispositions by employee stock ownership p
 usc_title: 26
 usc_section: "4978"
 chapter: 43
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "26 U.S.C. § 4978"
-generated_at: "2026-03-29T23:22:12.937Z"
+generated_at: "2026-03-29T23:25:46.751Z"
 ---
 
 # § 4978. Tax on certain dispositions by employee stock ownership plans and certain cooperatives

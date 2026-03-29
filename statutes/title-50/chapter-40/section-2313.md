@@ -3,9 +3,9 @@ title: "Section 2313 - Nuclear, chemical, and biological emergency response"
 usc_title: 50
 usc_section: "2313"
 chapter: 40
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "50 U.S.C. § 2313"
-generated_at: "2026-03-29T23:23:39.063Z"
+generated_at: "2026-03-29T23:26:21.582Z"
 ---
 
 # § 2313. Nuclear, chemical, and biological emergency response

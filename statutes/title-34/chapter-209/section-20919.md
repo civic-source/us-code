@@ -3,9 +3,9 @@ title: "Section 20919 - Duty to notify sex offenders of registration requirement
 usc_title: 34
 usc_section: "20919"
 chapter: 209
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "34 U.S.C. § 20919"
-generated_at: "2026-03-29T23:22:39.905Z"
+generated_at: "2026-03-29T23:25:50.351Z"
 ---
 
 # § 20919. Duty to notify sex offenders of registration requirements and to register

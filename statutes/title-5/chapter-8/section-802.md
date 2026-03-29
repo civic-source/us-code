@@ -3,9 +3,9 @@ title: "Section 802 - Congressional disapproval procedure"
 usc_title: 5
 usc_section: "802"
 chapter: 8
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "5 U.S.C. § 802"
-generated_at: "2026-03-29T23:19:45.014Z"
+generated_at: "2026-03-29T23:24:04.569Z"
 ---
 
 # § 802. Congressional disapproval procedure

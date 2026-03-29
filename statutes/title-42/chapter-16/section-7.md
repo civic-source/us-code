@@ -3,9 +3,9 @@ title: "Section 7 - Computer science education research"
 usc_title: 42
 usc_section: "7"
 chapter: 16
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-29T23:23:27.767Z"
+generated_at: "2026-03-29T23:26:16.009Z"
 ---
 
 # § 1862s–7. Computer science education research

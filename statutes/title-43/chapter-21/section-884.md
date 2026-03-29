@@ -3,9 +3,9 @@ title: "Section 884 - Right of forfeiture of railroad grants not affected"
 usc_title: 43
 usc_section: "884"
 chapter: 21
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "43 U.S.C. § 884"
-generated_at: "2026-03-29T23:23:13.690Z"
+generated_at: "2026-03-29T23:25:58.691Z"
 ---
 
 # § 884. Right of forfeiture of railroad grants not affected

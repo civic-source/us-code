@@ -3,9 +3,9 @@ title: "Section 294p - Training for health care providers"
 usc_title: 42
 usc_section: "294p"
 chapter: 6
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 294p"
-generated_at: "2026-03-29T23:23:27.473Z"
+generated_at: "2026-03-29T23:26:15.713Z"
 ---
 
 # § 294p. Training for health care providers

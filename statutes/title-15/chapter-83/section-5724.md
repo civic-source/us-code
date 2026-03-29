@@ -3,9 +3,9 @@ title: "Section 5724 - Definitions"
 usc_title: 15
 usc_section: "5724"
 chapter: 83
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "15 U.S.C. § 5724"
-generated_at: "2026-03-29T23:20:44.172Z"
+generated_at: "2026-03-29T23:25:11.260Z"
 ---
 
 # § 5724. Definitions

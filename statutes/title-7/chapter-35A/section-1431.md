@@ -3,9 +3,9 @@ title: "Section 1431 - Disposition of commodities to prevent waste"
 usc_title: 7
 usc_section: "1431"
 chapter: 35
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "7 U.S.C. § 1431"
-generated_at: "2026-03-29T23:20:20.988Z"
+generated_at: "2026-03-29T23:24:49.414Z"
 ---
 
 # § 1431. Disposition of commodities to prevent waste

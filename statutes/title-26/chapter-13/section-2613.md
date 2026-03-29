@@ -3,9 +3,9 @@ title: "Section 2613 - Skip person and non-skip person defined"
 usc_title: 26
 usc_section: "2613"
 chapter: 13
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "26 U.S.C. § 2613"
-generated_at: "2026-03-29T23:22:12.913Z"
+generated_at: "2026-03-29T23:25:46.727Z"
 ---
 
 # § 2613. Skip person and non-skip person defined

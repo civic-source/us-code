@@ -3,9 +3,9 @@ title: "Section 355 - New drugs"
 usc_title: 21
 usc_section: "355"
 chapter: 9
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "21 U.S.C. § 355"
-generated_at: "2026-03-29T23:21:51.504Z"
+generated_at: "2026-03-29T23:25:34.797Z"
 ---
 
 # § 355. New drugs
@@ -551,7 +551,7 @@ generated_at: "2026-03-29T23:21:51.504Z"
   - **(3)**
     - **(A)** For purposes of this subsection, the term “therapeutic category” means a therapeutic category identified in the list developed by the United States Pharmacopeia pursuant to section 1395w–104(b)(3)(C)(ii) of title 42 and as in effect on September 27, 2007 .
     - **(B)** The Secretary shall publish the list described in subparagraph (A) and may amend such list by regulation.
-  - **(4)** The election referred to in paragraph (1) may be made only in an application that is submitted to the Secretary after September 27, 2007 , and before October 1, 2022 .
+  - **(4)** The election referred to in paragraph (1) may be made only in an application that is submitted to the Secretary after September 27, 2007 , and before December 17, 2022 .
 - **(v)**
   - **(1)**
     - **(A)** Notwithstanding any provision of the Food and Drug Administration Modernization Act of 1997 or any other provision of law, a sponsor of a drug that is the subject of an application described in subparagraph (B)(i) shall be eligible for, with respect to the drug, the 3-year exclusivity period referred to under clauses (iii) and (iv) of subsection (c)(3)(E) and under clauses (iii) and (iv) of subsection (j)(5)(F), subject to the requirements of such clauses, as applicable.

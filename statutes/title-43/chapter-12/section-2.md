@@ -3,9 +3,9 @@ title: "Section 2 - Omitted"
 usc_title: 43
 usc_section: "2"
 chapter: 12
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "43 U.S.C. § 2"
-generated_at: "2026-03-29T23:23:13.684Z"
+generated_at: "2026-03-29T23:25:58.684Z"
 ---
 
 # §§ 616aaaa to 616ffff–2. Omitted

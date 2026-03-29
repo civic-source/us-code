@@ -3,9 +3,9 @@ title: "Section 1829 - Authorization during time of war"
 usc_title: 50
 usc_section: "1829"
 chapter: 36
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "50 U.S.C. § 1829"
-generated_at: "2026-03-29T23:23:39.053Z"
+generated_at: "2026-03-29T23:26:21.573Z"
 ---
 
 # § 1829. Authorization during time of war

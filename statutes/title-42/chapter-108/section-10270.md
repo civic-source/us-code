@@ -3,9 +3,9 @@ title: "Section 10270 - Termination of Board"
 usc_title: 42
 usc_section: "10270"
 chapter: 108
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 10270"
-generated_at: "2026-03-29T23:23:27.994Z"
+generated_at: "2026-03-29T23:26:16.234Z"
 ---
 
 # § 10270. Termination of Board

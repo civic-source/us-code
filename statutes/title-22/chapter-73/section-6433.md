@@ -3,9 +3,9 @@ title: "Section 6433 - Report of Commission"
 usc_title: 22
 usc_section: "6433"
 chapter: 73
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "22 U.S.C. § 6433"
-generated_at: "2026-03-29T23:21:55.214Z"
+generated_at: "2026-03-29T23:25:31.299Z"
 ---
 
 # § 6433. Report of Commission

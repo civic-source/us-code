@@ -3,9 +3,9 @@ title: "Section 6722 - Failure to furnish correct payee statements"
 usc_title: 26
 usc_section: "6722"
 chapter: 68
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "26 U.S.C. § 6722"
-generated_at: "2026-03-29T23:22:12.981Z"
+generated_at: "2026-03-29T23:25:46.798Z"
 ---
 
 # § 6722. Failure to furnish correct payee statements

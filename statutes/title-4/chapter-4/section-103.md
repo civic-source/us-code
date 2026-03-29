@@ -3,9 +3,9 @@ title: "Section 103 - Assent to purchase of lands for forts"
 usc_title: 4
 usc_section: "103"
 chapter: 4
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "4 U.S.C. § 103"
-generated_at: "2026-03-29T23:19:21.687Z"
+generated_at: "2026-03-29T23:24:04.660Z"
 ---
 
 # § 103. Assent to purchase of lands for forts

@@ -3,9 +3,9 @@ title: "Section 1506 - Oversight of government activities"
 usc_title: 6
 usc_section: "1506"
 chapter: 6
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "6 U.S.C. § 1506"
-generated_at: "2026-03-29T23:20:11.835Z"
+generated_at: "2026-03-29T23:24:29.951Z"
 ---
 
 # § 1506. Oversight of government activities

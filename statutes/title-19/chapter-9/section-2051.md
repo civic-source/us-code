@@ -3,9 +3,9 @@ title: "Section 2051 - Implementation of the Agreement; executive designation an
 usc_title: 19
 usc_section: "2051"
 chapter: 9
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "19 U.S.C. § 2051"
-generated_at: "2026-03-29T23:20:52.935Z"
+generated_at: "2026-03-29T23:25:17.777Z"
 ---
 
 # § 2051. Implementation of the Agreement; executive designation and duty of Federal agencies

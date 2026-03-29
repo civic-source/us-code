@@ -3,9 +3,9 @@ title: "Section 7263 - When Secretary may require"
 usc_title: 10
 usc_section: "7263"
 chapter: 735
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "10 U.S.C. § 7263"
-generated_at: "2026-03-29T23:20:11.276Z"
+generated_at: "2026-03-29T23:24:28.230Z"
 ---
 
 # § 7263. When Secretary may require

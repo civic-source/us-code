@@ -3,9 +3,9 @@ title: "Section 8167 - Requirement of exemplary conduct"
 usc_title: 10
 usc_section: "8167"
 chapter: 821
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "10 U.S.C. § 8167"
-generated_at: "2026-03-29T23:20:11.282Z"
+generated_at: "2026-03-29T23:24:28.237Z"
 ---
 
 # § 8167. Requirement of exemplary conduct

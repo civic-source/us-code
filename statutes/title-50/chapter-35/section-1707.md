@@ -3,9 +3,9 @@ title: "Section 1707 - Multinational economic embargoes against governments in a
 usc_title: 50
 usc_section: "1707"
 chapter: 35
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "50 U.S.C. § 1707"
-generated_at: "2026-03-29T23:23:39.051Z"
+generated_at: "2026-03-29T23:26:21.570Z"
 ---
 
 # § 1707. Multinational economic embargoes against governments in armed conflict with the United States

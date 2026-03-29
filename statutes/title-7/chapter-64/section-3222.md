@@ -3,9 +3,9 @@ title: "Section 3222 - Agricultural research at 1890 land-grant colleges, includ
 usc_title: 7
 usc_section: "3222"
 chapter: 64
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "7 U.S.C. § 3222"
-generated_at: "2026-03-29T23:20:21.053Z"
+generated_at: "2026-03-29T23:24:49.479Z"
 ---
 
 # § 3222. Agricultural research at 1890 land-grant colleges, including Tuskegee University

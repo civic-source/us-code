@@ -3,9 +3,9 @@ title: "Section 10165 - Site selection"
 usc_title: 42
 usc_section: "10165"
 chapter: 108
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 10165"
-generated_at: "2026-03-29T23:23:27.992Z"
+generated_at: "2026-03-29T23:26:16.232Z"
 ---
 
 # § 10165. Site selection

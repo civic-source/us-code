@@ -3,9 +3,9 @@ title: "Section 1873a - Repealed. Pub. L. 99–159, title I, § 109(f) , Nov. 22
 usc_title: 42
 usc_section: "1873a"
 chapter: 16
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 1873a"
-generated_at: "2026-03-29T23:23:27.768Z"
+generated_at: "2026-03-29T23:26:16.010Z"
 ---
 
 # § 1873a. Repealed. Pub. L. 99–159, title I, § 109(f) , Nov. 22, 1985 , 99 Stat. 890

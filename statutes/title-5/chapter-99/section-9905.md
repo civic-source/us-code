@@ -3,9 +3,9 @@ title: "Section 9905 - Direct hire authority for certain personnel of the Depart
 usc_title: 5
 usc_section: "9905"
 chapter: 99
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "5 U.S.C. § 9905"
-generated_at: "2026-03-29T23:19:45.074Z"
+generated_at: "2026-03-29T23:24:04.626Z"
 ---
 
 # § 9905. Direct hire authority for certain personnel of the Department of Defense

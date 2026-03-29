@@ -3,9 +3,9 @@ title: "Section 1922 - Appointments"
 usc_title: 14
 usc_section: "1922"
 chapter: 19
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "14 U.S.C. § 1922"
-generated_at: "2026-03-29T23:20:33.893Z"
+generated_at: "2026-03-29T23:24:52.367Z"
 ---
 
 # § 1922. Appointments

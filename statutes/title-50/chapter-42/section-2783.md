@@ -3,9 +3,9 @@ title: "Section 2783 - Contractor liability for injury or loss of property arisi
 usc_title: 50
 usc_section: "2783"
 chapter: 42
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "50 U.S.C. § 2783"
-generated_at: "2026-03-29T23:23:39.073Z"
+generated_at: "2026-03-29T23:26:21.594Z"
 ---
 
 # § 2783. Contractor liability for injury or loss of property arising out of atomic weapons testing programs

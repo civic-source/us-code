@@ -3,9 +3,9 @@ title: "Section 210304 - Membership"
 usc_title: 36
 usc_section: "210304"
 chapter: 2103
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "36 U.S.C. § 210304"
-generated_at: "2026-03-29T23:22:47.471Z"
+generated_at: "2026-03-29T23:25:54.091Z"
 ---
 
 # § 210304. Membership

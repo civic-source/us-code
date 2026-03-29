@@ -3,9 +3,9 @@ title: "Section 1509 - No jurisdiction in cases involving refunds of tax shelter
 usc_title: 28
 usc_section: "1509"
 chapter: 91
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "28 U.S.C. § 1509"
-generated_at: "2026-03-29T23:22:00.765Z"
+generated_at: "2026-03-29T23:25:40.730Z"
 ---
 
 # § 1509. No jurisdiction in cases involving refunds of tax shelter promoter and understatement penalties

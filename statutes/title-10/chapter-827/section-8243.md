@@ -3,9 +3,9 @@ title: "Section 8243 - Fixing cost on certain vessels and stations"
 usc_title: 10
 usc_section: "8243"
 chapter: 827
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "10 U.S.C. § 8243"
-generated_at: "2026-03-29T23:20:11.283Z"
+generated_at: "2026-03-29T23:24:28.237Z"
 ---
 
 # § 8243. Fixing cost on certain vessels and stations

@@ -3,9 +3,9 @@ title: "Section 4115 - Environmental review"
 usc_title: 25
 usc_section: "4115"
 chapter: 43
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "25 U.S.C. § 4115"
-generated_at: "2026-03-29T23:21:42.560Z"
+generated_at: "2026-03-29T23:25:29.209Z"
 ---
 
 # § 4115. Environmental review

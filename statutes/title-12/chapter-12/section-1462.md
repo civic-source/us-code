@@ -3,9 +3,9 @@ title: "Section 1462 - Definitions"
 usc_title: 12
 usc_section: "1462"
 chapter: 12
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "12 U.S.C. § 1462"
-generated_at: "2026-03-29T23:20:46.600Z"
+generated_at: "2026-03-29T23:24:55.202Z"
 ---
 
 # § 1462. Definitions

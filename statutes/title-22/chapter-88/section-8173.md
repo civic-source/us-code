@@ -3,9 +3,9 @@ title: "Section 8173 - Content of reports on United States declarations"
 usc_title: 22
 usc_section: "8173"
 chapter: 88
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "22 U.S.C. § 8173"
-generated_at: "2026-03-29T23:21:55.235Z"
+generated_at: "2026-03-29T23:25:31.320Z"
 ---
 
 # § 8173. Content of reports on United States declarations

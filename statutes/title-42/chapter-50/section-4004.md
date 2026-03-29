@@ -3,9 +3,9 @@ title: "Section 4004 - Definitions applicable to Biggert-Waters Flood Insurance 
 usc_title: 42
 usc_section: "4004"
 chapter: 50
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 4004"
-generated_at: "2026-03-29T23:23:27.824Z"
+generated_at: "2026-03-29T23:26:16.067Z"
 ---
 
 # § 4004. Definitions applicable to Biggert-Waters Flood Insurance Reform Act of 2012

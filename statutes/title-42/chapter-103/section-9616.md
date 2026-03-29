@@ -3,9 +3,9 @@ title: "Section 9616 - Schedules"
 usc_title: 42
 usc_section: "9616"
 chapter: 103
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 9616"
-generated_at: "2026-03-29T23:23:27.970Z"
+generated_at: "2026-03-29T23:26:16.211Z"
 ---
 
 # § 9616. Schedules

@@ -3,9 +3,9 @@ title: "Section 20307 - Enforcement"
 usc_title: 52
 usc_section: "20307"
 chapter: 203
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "52 U.S.C. § 20307"
-generated_at: "2026-03-29T23:23:50.613Z"
+generated_at: "2026-03-29T23:26:38.919Z"
 ---
 
 # § 20307. Enforcement

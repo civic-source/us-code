@@ -3,9 +3,9 @@ title: "Section 2505 - Unified credit against gift tax"
 usc_title: 26
 usc_section: "2505"
 chapter: 12
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "26 U.S.C. § 2505"
-generated_at: "2026-03-29T23:22:12.912Z"
+generated_at: "2026-03-29T23:25:46.726Z"
 ---
 
 # § 2505. Unified credit against gift tax

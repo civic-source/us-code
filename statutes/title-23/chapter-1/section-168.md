@@ -3,9 +3,9 @@ title: "Section 168 - Integration of planning and environmental review"
 usc_title: 23
 usc_section: "168"
 chapter: 1
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "23 U.S.C. § 168"
-generated_at: "2026-03-29T23:21:21.230Z"
+generated_at: "2026-03-29T23:25:28.277Z"
 ---
 
 # § 168. Integration of planning and environmental review

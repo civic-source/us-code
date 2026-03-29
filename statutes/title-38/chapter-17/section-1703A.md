@@ -3,9 +3,9 @@ title: "Section 1703A - Agreements with eligible entities or providers; certific
 usc_title: 38
 usc_section: "1703A"
 chapter: 17
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "38 U.S.C. § 1703A"
-generated_at: "2026-03-29T23:22:45.389Z"
+generated_at: "2026-03-29T23:25:55.538Z"
 ---
 
 # § 1703A. Agreements with eligible entities or providers; certification processes

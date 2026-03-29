@@ -3,9 +3,9 @@ title: "Section 227b - Call authentication"
 usc_title: 47
 usc_section: "227b"
 chapter: 5
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "47 U.S.C. § 227b"
-generated_at: "2026-03-29T23:23:37.330Z"
+generated_at: "2026-03-29T23:26:22.214Z"
 ---
 
 # § 227b. Call authentication

@@ -3,9 +3,9 @@ title: "Section 705a - Rest and recuperation absence: certain members undergoing
 usc_title: 10
 usc_section: "705a"
 chapter: 40
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "10 U.S.C. § 705a"
-generated_at: "2026-03-29T23:20:11.181Z"
+generated_at: "2026-03-29T23:24:28.132Z"
 ---
 
 # § 705a. Rest and recuperation absence: certain members undergoing extended deployment to a combat zone

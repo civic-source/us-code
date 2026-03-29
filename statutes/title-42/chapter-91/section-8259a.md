@@ -3,9 +3,9 @@ title: "Section 8259a - Energy and water savings measures in congressional build
 usc_title: 42
 usc_section: "8259a"
 chapter: 91
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 8259a"
-generated_at: "2026-03-29T23:23:27.952Z"
+generated_at: "2026-03-29T23:26:16.193Z"
 ---
 
 # § 8259a. Energy and water savings measures in congressional buildings

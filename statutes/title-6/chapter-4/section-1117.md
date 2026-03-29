@@ -3,9 +3,9 @@ title: "Section 1117 - Roles of the Department of Homeland Security and the Depa
 usc_title: 6
 usc_section: "1117"
 chapter: 4
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "6 U.S.C. § 1117"
-generated_at: "2026-03-29T23:20:11.828Z"
+generated_at: "2026-03-29T23:24:29.944Z"
 ---
 
 # § 1117. Roles of the Department of Homeland Security and the Department of Transportation

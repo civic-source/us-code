@@ -3,9 +3,9 @@ title: "Section 348 - Rules and regulations"
 usc_title: 7
 usc_section: "348"
 chapter: 13
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "7 U.S.C. § 348"
-generated_at: "2026-03-29T23:20:20.966Z"
+generated_at: "2026-03-29T23:24:49.391Z"
 ---
 
 # § 348. Rules and regulations

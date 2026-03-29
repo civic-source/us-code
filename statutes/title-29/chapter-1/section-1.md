@@ -3,9 +3,9 @@ title: "Section 1 - Design and duties of bureau generally"
 usc_title: 29
 usc_section: "1"
 chapter: 1
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "29 U.S.C. § 1"
-generated_at: "2026-03-29T23:22:24.231Z"
+generated_at: "2026-03-29T23:25:38.545Z"
 ---
 
 # § 1. Design and duties of bureau generally

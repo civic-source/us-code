@@ -3,9 +3,9 @@ title: "Section 19d - Review of technologies"
 usc_title: 42
 usc_section: "19d"
 chapter: 6
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 19d"
-generated_at: "2026-03-29T23:23:27.497Z"
+generated_at: "2026-03-29T23:26:15.736Z"
 ---
 
 # § 300j–19d. Review of technologies

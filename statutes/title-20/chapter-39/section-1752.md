@@ -3,9 +3,9 @@ title: "Section 1752 - Appeals from Federal district court transfer or transport
 usc_title: 20
 usc_section: "1752"
 chapter: 39
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "20 U.S.C. § 1752"
-generated_at: "2026-03-29T23:21:16.614Z"
+generated_at: "2026-03-29T23:25:23.780Z"
 ---
 
 # § 1752. Appeals from Federal district court transfer or transportation orders affecting school attendance areas and achieving balancing of students; postponement of Federal court orders pending exercise of appellate remedy; expiration of section

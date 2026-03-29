@@ -3,9 +3,9 @@ title: "Section 8904 - Availability of material for Naval Militia"
 usc_title: 10
 usc_section: "8904"
 chapter: 887
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "10 U.S.C. § 8904"
-generated_at: "2026-03-29T23:20:11.292Z"
+generated_at: "2026-03-29T23:24:28.246Z"
 ---
 
 # § 8904. Availability of material for Naval Militia

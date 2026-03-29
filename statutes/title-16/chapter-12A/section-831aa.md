@@ -3,9 +3,9 @@ title: "Section 831aa - Laws repealed"
 usc_title: 16
 usc_section: "831aa"
 chapter: 12
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "16 U.S.C. § 831aa"
-generated_at: "2026-03-29T23:21:01.722Z"
+generated_at: "2026-03-29T23:25:21.286Z"
 ---
 
 # § 831aa. Laws repealed

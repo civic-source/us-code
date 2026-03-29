@@ -3,9 +3,9 @@ title: "Section 1883 - Office of Small Business Research and Development"
 usc_title: 42
 usc_section: "1883"
 chapter: 16
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 1883"
-generated_at: "2026-03-29T23:23:27.768Z"
+generated_at: "2026-03-29T23:26:16.010Z"
 ---
 
 # § 1883. Office of Small Business Research and Development

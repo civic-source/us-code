@@ -3,9 +3,9 @@ title: "Section 2781 - Costs not allowed under covered contracts"
 usc_title: 50
 usc_section: "2781"
 chapter: 42
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "50 U.S.C. § 2781"
-generated_at: "2026-03-29T23:23:39.072Z"
+generated_at: "2026-03-29T23:26:21.594Z"
 ---
 
 # § 2781. Costs not allowed under covered contracts

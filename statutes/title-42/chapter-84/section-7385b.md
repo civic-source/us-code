@@ -3,9 +3,9 @@ title: "Section 7385b - Payment in full settlement of claims"
 usc_title: 42
 usc_section: "7385b"
 chapter: 84
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 7385b"
-generated_at: "2026-03-29T23:23:27.911Z"
+generated_at: "2026-03-29T23:26:16.151Z"
 ---
 
 # § 7385b. Payment in full settlement of claims

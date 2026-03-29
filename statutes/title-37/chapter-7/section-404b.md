@@ -3,9 +3,9 @@ title: "Section 404b - Renumbered § 474b]"
 usc_title: 37
 usc_section: "404b"
 chapter: 7
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "37 U.S.C. § 404b"
-generated_at: "2026-03-29T23:22:48.050Z"
+generated_at: "2026-03-29T23:25:53.259Z"
 ---
 
 # [§ 404b. Renumbered § 474b]

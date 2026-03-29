@@ -3,9 +3,9 @@ title: "Section 8616 - Collection, preservation, and display of captured flags"
 usc_title: 10
 usc_section: "8616"
 chapter: 861
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "10 U.S.C. § 8616"
-generated_at: "2026-03-29T23:20:11.287Z"
+generated_at: "2026-03-29T23:24:28.241Z"
 ---
 
 # § 8616. Collection, preservation, and display of captured flags

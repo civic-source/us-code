@@ -3,9 +3,9 @@ title: "Section 1513 - Books of account and annual reports of Corporation"
 usc_title: 7
 usc_section: "1513"
 chapter: 36
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "7 U.S.C. § 1513"
-generated_at: "2026-03-29T23:20:20.996Z"
+generated_at: "2026-03-29T23:24:49.422Z"
 ---
 
 # § 1513. Books of account and annual reports of Corporation

@@ -3,9 +3,9 @@ title: "Section 13384 - Assessment of alternative policy mechanisms for addressi
 usc_title: 42
 usc_section: "13384"
 chapter: 134
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 13384"
-generated_at: "2026-03-29T23:23:28.045Z"
+generated_at: "2026-03-29T23:26:16.286Z"
 ---
 
 # § 13384. Assessment of alternative policy mechanisms for addressing greenhouse gas emissions

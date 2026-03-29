@@ -3,9 +3,9 @@ title: "Section 1435 - Requirements for statewide system"
 usc_title: 20
 usc_section: "1435"
 chapter: 33
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "20 U.S.C. § 1435"
-generated_at: "2026-03-29T23:21:16.610Z"
+generated_at: "2026-03-29T23:25:23.775Z"
 ---
 
 # § 1435. Requirements for statewide system

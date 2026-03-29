@@ -3,9 +3,9 @@ title: "Section 151101 - Organization"
 usc_title: 36
 usc_section: "151101"
 chapter: 1511
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "36 U.S.C. § 151101"
-generated_at: "2026-03-29T23:22:47.466Z"
+generated_at: "2026-03-29T23:25:54.086Z"
 ---
 
 # § 151101. Organization

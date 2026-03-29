@@ -3,9 +3,9 @@ title: "Section 9513 - Research and information"
 usc_title: 15
 usc_section: "9513"
 chapter: 120
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "15 U.S.C. § 9513"
-generated_at: "2026-03-29T23:20:44.209Z"
+generated_at: "2026-03-29T23:25:11.296Z"
 ---
 
 # § 9513. Research and information

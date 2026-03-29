@@ -3,9 +3,9 @@ title: "Section 6302 - Purposes"
 usc_title: 15
 usc_section: "6302"
 chapter: 89
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "15 U.S.C. § 6302"
-generated_at: "2026-03-29T23:20:44.174Z"
+generated_at: "2026-03-29T23:25:11.262Z"
 ---
 
 # § 6302. Purposes

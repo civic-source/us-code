@@ -3,9 +3,9 @@ title: "Section 211 - Miscellaneous provisions"
 usc_title: 27
 usc_section: "211"
 chapter: 8
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "27 U.S.C. § 211"
-generated_at: "2026-03-29T23:21:57.773Z"
+generated_at: "2026-03-29T23:25:38.655Z"
 ---
 
 # § 211. Miscellaneous provisions

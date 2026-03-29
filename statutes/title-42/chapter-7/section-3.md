@@ -3,9 +3,9 @@ title: "Section 3 - Feasibility study funding"
 usc_title: 42
 usc_section: "3"
 chapter: 7
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-29T23:23:27.717Z"
+generated_at: "2026-03-29T23:26:15.958Z"
 ---
 
 # § 1397n–3. Feasibility study funding

@@ -3,9 +3,9 @@ title: "Section 278 - Gorgas Memorial Laboratory; location; acceptance of funds 
 usc_title: 22
 usc_section: "278"
 chapter: 7
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "22 U.S.C. § 278"
-generated_at: "2026-03-29T23:21:55.113Z"
+generated_at: "2026-03-29T23:25:31.194Z"
 ---
 
 # § 278. Gorgas Memorial Laboratory; location; acceptance of funds from Latin American countries or other sources

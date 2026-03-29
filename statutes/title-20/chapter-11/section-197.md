@@ -3,9 +3,9 @@ title: "Section 197 - Construction of Chinese Garden at the National Arboretum"
 usc_title: 20
 usc_section: "197"
 chapter: 11
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "20 U.S.C. § 197"
-generated_at: "2026-03-29T23:21:16.545Z"
+generated_at: "2026-03-29T23:25:23.701Z"
 ---
 
 # § 197. Construction of Chinese Garden at the National Arboretum

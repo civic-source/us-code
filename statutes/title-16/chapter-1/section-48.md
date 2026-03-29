@@ -3,9 +3,9 @@ title: "Section 48 - Tennessee Valley Authority transfer costs"
 usc_title: 16
 usc_section: "48"
 chapter: 1
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "16 U.S.C. § 48"
-generated_at: "2026-03-29T23:21:01.667Z"
+generated_at: "2026-03-29T23:25:21.228Z"
 ---
 
 # § 460lll–48. Tennessee Valley Authority transfer costs

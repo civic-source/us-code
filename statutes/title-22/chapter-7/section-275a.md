@@ -3,9 +3,9 @@ title: "Section 275a - Permanent International Commission of the Congresses of N
 usc_title: 22
 usc_section: "275a"
 chapter: 7
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "22 U.S.C. § 275a"
-generated_at: "2026-03-29T23:21:55.110Z"
+generated_at: "2026-03-29T23:25:31.190Z"
 ---
 
 # § 275a. Permanent International Commission of the Congresses of Navigation; authorization of appropriations

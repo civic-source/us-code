@@ -3,9 +3,9 @@ title: "Section 1847 - Penalties"
 usc_title: 12
 usc_section: "1847"
 chapter: 17
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "12 U.S.C. § 1847"
-generated_at: "2026-03-29T23:20:46.665Z"
+generated_at: "2026-03-29T23:24:55.270Z"
 ---
 
 # § 1847. Penalties

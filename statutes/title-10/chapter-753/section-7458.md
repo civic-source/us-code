@@ -3,9 +3,9 @@ title: "Section 7458 - Grants for faculty research for scientific, literary, and
 usc_title: 10
 usc_section: "7458"
 chapter: 753
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "10 U.S.C. § 7458"
-generated_at: "2026-03-29T23:20:11.278Z"
+generated_at: "2026-03-29T23:24:28.232Z"
 ---
 
 # § 7458. Grants for faculty research for scientific, literary, and educational purposes: acceptance; authorized grantees

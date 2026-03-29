@@ -3,9 +3,9 @@ title: "Section 586 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 S
 usc_title: 16
 usc_section: "586"
 chapter: 3
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "16 U.S.C. § 586"
-generated_at: "2026-03-29T23:21:01.693Z"
+generated_at: "2026-03-29T23:25:21.254Z"
 ---
 
 # §§ 585, 586. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 648

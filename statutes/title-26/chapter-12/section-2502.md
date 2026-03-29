@@ -3,9 +3,9 @@ title: "Section 2502 - Rate of tax"
 usc_title: 26
 usc_section: "2502"
 chapter: 12
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "26 U.S.C. § 2502"
-generated_at: "2026-03-29T23:22:12.912Z"
+generated_at: "2026-03-29T23:25:46.725Z"
 ---
 
 # § 2502. Rate of tax

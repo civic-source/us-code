@@ -3,9 +3,9 @@ title: "Section 2 - Use of loan proceeds to refinance loans for deployment of br
 usc_title: 7
 usc_section: "2"
 chapter: 31
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-29T23:20:20.979Z"
+generated_at: "2026-03-29T23:24:49.405Z"
 ---
 
 # § 950cc–2. Use of loan proceeds to refinance loans for deployment of broadband service

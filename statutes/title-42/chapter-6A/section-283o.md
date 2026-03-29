@@ -3,9 +3,9 @@ title: "Section 283o - Next generation of researchers"
 usc_title: 42
 usc_section: "283o"
 chapter: 6
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 283o"
-generated_at: "2026-03-29T23:23:27.442Z"
+generated_at: "2026-03-29T23:26:15.682Z"
 ---
 
 # § 283o. Next generation of researchers

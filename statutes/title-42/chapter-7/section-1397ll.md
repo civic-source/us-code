@@ -3,9 +3,9 @@ title: "Section 1397ll - Optional coverage of targeted low-income pregnant women
 usc_title: 42
 usc_section: "1397ll"
 chapter: 7
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 1397ll"
-generated_at: "2026-03-29T23:23:27.722Z"
+generated_at: "2026-03-29T23:26:15.964Z"
 ---
 
 # § 1397ll. Optional coverage of targeted low-income pregnant women through a State plan amendment
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T23:23:27.722Z"
 - **(d)** For purposes of this section:
   - **(1)** The term “pregnancy-related assistance” has the meaning given the term “child health assistance” in section 1397jj(a) of this title with respect to an individual during the period described in paragraph (2)(A).
   - **(2)** The term “targeted low-income pregnant woman” means an individual—
-    - **(A)** during pregnancy and through the end of the month in which the 60-day period, or, in the case that subparagraph (A) of section 1396a(e)(16) of this title applies to the State child health plan (or waiver of such plan), pursuant to section 1397gg(e)(1) of this title , the 12-month period, (beginning on the last day of her pregnancy) ends;
+    - **(A)** during pregnancy and through the end of the month in which the 60-day period, or, in the case that subparagraph (A) of section 1396a(e)(16) of this title applies to the State child health plan (or waiver of such plan), pursuant to section 1397gg(e)(1) of this title , the 12-month period, 1 1 So in original. The comma probably should not appear. (beginning on the last day of her pregnancy) ends;
     - **(B)** whose family income exceeds 185 percent (or, if higher, the percent applied under subsection (b)(1)(A)) of the poverty line applicable to a family of the size involved, but does not exceed the income eligibility level established under the State child health plan under this subchapter for a targeted low-income child; and
     - **(C)** who satisfies the requirements of paragraphs (1)(A), (1)(C), (2), and (3) of section 1397jj(b) of this title in the same manner as a child applying for child health assistance would have to satisfy such requirements.
 - **(e)** If a child is born to a targeted low-income pregnant woman who was receiving pregnancy-related assistance under this section on the date of the child’s birth, the child shall be deemed to have applied for child health assistance under the State child health plan and to have been found eligible for such assistance under such plan or to have applied for medical assistance under subchapter XIX and to have been found eligible for such assistance under such subchapter, as appropriate, on the date of such birth and to remain eligible for such assistance until the child attains 1 year of age. During the period in which a child is deemed under the preceding sentence to be eligible for child health or medical assistance, the child health or medical assistance eligibility identification number of the mother shall also serve as the identification number of the child, and all claims shall be submitted and paid under such number (unless the State issues a separate identification number for the child before such period expires).

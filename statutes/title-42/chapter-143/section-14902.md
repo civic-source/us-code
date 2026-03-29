@@ -3,9 +3,9 @@ title: "Section 14902 - Definitions"
 usc_title: 42
 usc_section: "14902"
 chapter: 143
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 14902"
-generated_at: "2026-03-29T23:23:28.053Z"
+generated_at: "2026-03-29T23:26:16.294Z"
 ---
 
 # § 14902. Definitions

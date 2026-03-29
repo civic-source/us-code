@@ -3,9 +3,9 @@ title: "Section 31141 - Review and preemption of State laws and regulations"
 usc_title: 49
 usc_section: "31141"
 chapter: 311
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "49 U.S.C. § 31141"
-generated_at: "2026-03-29T23:23:48.823Z"
+generated_at: "2026-03-29T23:26:35.686Z"
 ---
 
 # § 31141. Review and preemption of State laws and regulations

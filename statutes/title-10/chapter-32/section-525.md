@@ -3,9 +3,9 @@ title: "Section 525 - Distribution of commissioned officers on active duty in ge
 usc_title: 10
 usc_section: "525"
 chapter: 32
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "10 U.S.C. § 525"
-generated_at: "2026-03-29T23:20:11.175Z"
+generated_at: "2026-03-29T23:24:28.125Z"
 ---
 
 # § 525. Distribution of commissioned officers on active duty in general officer and flag officer grades

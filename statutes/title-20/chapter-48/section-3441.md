@@ -3,9 +3,9 @@ title: "Section 3441 - Transfers from Department of Health, Education, and Welfa
 usc_title: 20
 usc_section: "3441"
 chapter: 48
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "20 U.S.C. § 3441"
-generated_at: "2026-03-29T23:21:16.621Z"
+generated_at: "2026-03-29T23:25:23.787Z"
 ---
 
 # § 3441. Transfers from Department of Health, Education, and Welfare

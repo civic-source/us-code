@@ -3,9 +3,9 @@ title: "Section 3046 - Warrant or summons—(Rule)"
 usc_title: 18
 usc_section: "3046"
 chapter: 203
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "18 U.S.C. § 3046"
-generated_at: "2026-03-29T23:21:10.312Z"
+generated_at: "2026-03-29T23:25:16.620Z"
 ---
 
 # § 3046. Warrant or summons—(Rule)

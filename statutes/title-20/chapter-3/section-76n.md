@@ -3,9 +3,9 @@ title: "Section 76n - Repealed. Pub. L. 101–449, § 3 , Oct. 22, 1990 , 104 St
 usc_title: 20
 usc_section: "76n"
 chapter: 3
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "20 U.S.C. § 76n"
-generated_at: "2026-03-29T23:21:16.539Z"
+generated_at: "2026-03-29T23:25:23.696Z"
 ---
 
 # § 76n. Repealed. Pub. L. 101–449, § 3 , Oct. 22, 1990 , 104 Stat. 1050

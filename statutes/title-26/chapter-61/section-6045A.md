@@ -3,9 +3,9 @@ title: "Section 6045A - Information required in connection with transfers of cov
 usc_title: 26
 usc_section: "6045A"
 chapter: 61
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "26 U.S.C. § 6045A"
-generated_at: "2026-03-29T23:22:12.954Z"
+generated_at: "2026-03-29T23:25:46.770Z"
 ---
 
 # § 6045A. Information required in connection with transfers of covered securities to brokers

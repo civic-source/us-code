@@ -3,9 +3,9 @@ title: "Section 1822 - Authorization of physical searches for foreign intelligen
 usc_title: 50
 usc_section: "1822"
 chapter: 36
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "50 U.S.C. § 1822"
-generated_at: "2026-03-29T23:23:39.053Z"
+generated_at: "2026-03-29T23:26:21.572Z"
 ---
 
 # § 1822. Authorization of physical searches for foreign intelligence purposes

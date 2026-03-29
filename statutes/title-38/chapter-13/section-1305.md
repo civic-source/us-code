@@ -3,9 +3,9 @@ title: "Section 1305 - Reevaluation of dependency and indemnity compensation det
 usc_title: 38
 usc_section: "1305"
 chapter: 13
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "38 U.S.C. § 1305"
-generated_at: "2026-03-29T23:22:45.388Z"
+generated_at: "2026-03-29T23:25:55.535Z"
 ---
 
 # § 1305. Reevaluation of dependency and indemnity compensation determinations pursuant to changes in presumptions of service connection

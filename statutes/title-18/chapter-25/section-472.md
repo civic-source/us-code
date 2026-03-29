@@ -3,9 +3,9 @@ title: "Section 472 - Uttering counterfeit obligations or securities"
 usc_title: 18
 usc_section: "472"
 chapter: 25
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "18 U.S.C. § 472"
-generated_at: "2026-03-29T23:21:10.275Z"
+generated_at: "2026-03-29T23:25:16.584Z"
 ---
 
 # § 472. Uttering counterfeit obligations or securities

@@ -3,9 +3,9 @@ title: "Section 56104 - Penalty for false statements"
 usc_title: 46
 usc_section: "56104"
 chapter: 561
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "46 U.S.C. § 56104"
-generated_at: "2026-03-29T23:23:31.618Z"
+generated_at: "2026-03-29T23:26:20.476Z"
 ---
 
 # § 56104. Penalty for false statements

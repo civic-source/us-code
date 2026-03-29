@@ -3,9 +3,9 @@ title: "Section 1091c - Readmission requirements for servicemembers"
 usc_title: 20
 usc_section: "1091c"
 chapter: 28
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "20 U.S.C. § 1091c"
-generated_at: "2026-03-29T23:21:16.584Z"
+generated_at: "2026-03-29T23:25:23.747Z"
 ---
 
 # § 1091c. Readmission requirements for servicemembers

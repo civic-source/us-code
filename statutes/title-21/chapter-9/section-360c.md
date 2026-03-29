@@ -3,9 +3,9 @@ title: "Section 360c - Classification of devices intended for human use"
 usc_title: 21
 usc_section: "360c"
 chapter: 9
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "21 U.S.C. § 360c"
-generated_at: "2026-03-29T23:21:51.516Z"
+generated_at: "2026-03-29T23:25:34.809Z"
 ---
 
 # § 360c. Classification of devices intended for human use
@@ -178,10 +178,10 @@ generated_at: "2026-03-29T23:21:51.516Z"
     - **(A)** As part of a submission under section 360(k) of this title respecting a device, the person required to file a premarket notification under such section shall provide an adequate summary of any information respecting safety and effectiveness or state that such information will be made available upon request by any person.
     - **(B)** Any summary under subparagraph (A) respecting a device shall contain detailed information regarding data concerning adverse health effects and shall be made available to the public by the Secretary within 30 days of the issuance of a determination that such device is substantially equivalent to another device.
 - **(j)**
-  - **(1)**
+  - **(1)** The Secretary shall—
     - **(A)** ensure that each employee of the Food and Drug Administration who is involved in the review of premarket submissions, including supervisors, receives training regarding the meaning and implementation of the least burdensome requirements under subsections (a)(3)(D) and (i)(1)(D) of this section and section 360e(c)(5) of this title ; and
     - **(B)** periodically assess the implementation of the least burdensome requirements, including the employee training under subparagraph (A), to ensure that the least burdensome requirements are fully and consistently applied.
-  - **(2)**
+  - **(2)** Not later than 18 months after December 13, 2016 , the ombudsman for any organizational unit of the Food and Drug Administration responsible for the premarket review of devices shall—
     - **(A)** conduct an audit of the training described in paragraph (1)(A), including the effectiveness of such training in implementing the least burdensome requirements;
     - **(B)** include in such audit interviews of persons who are representatives of the device industry regarding their experiences in the device premarket review process, including with respect to the application of least burdensome concepts to premarket review and decisionmaking;
     - **(C)** include in such audit a list of the measurement tools the Secretary uses to assess the implementation of the least burdensome requirements, including under paragraph (1)(B) and section 360g–1(a)(3) of this title , and may also provide feedback on the effectiveness of such tools in the implementation of the least burdensome requirements;

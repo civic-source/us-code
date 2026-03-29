@@ -3,9 +3,9 @@ title: "Section 6508 - Authority to make exceptions"
 usc_title: 41
 usc_section: "6508"
 chapter: 65
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "41 U.S.C. § 6508"
-generated_at: "2026-03-29T23:22:56.980Z"
+generated_at: "2026-03-29T23:25:57.843Z"
 ---
 
 # § 6508. Authority to make exceptions

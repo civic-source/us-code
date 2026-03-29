@@ -3,9 +3,9 @@ title: "Section 3339 - Functions of Federal financial institutions regulatory ag
 usc_title: 12
 usc_section: "3339"
 chapter: 34
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "12 U.S.C. § 3339"
-generated_at: "2026-03-29T23:20:46.687Z"
+generated_at: "2026-03-29T23:24:55.293Z"
 ---
 
 # § 3339. Functions of Federal financial institutions regulatory agencies relating to appraisal standards

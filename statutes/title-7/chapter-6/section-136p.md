@@ -3,9 +3,9 @@ title: "Section 136p - Exemption of Federal and State agencies"
 usc_title: 7
 usc_section: "136p"
 chapter: 6
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "7 U.S.C. § 136p"
-generated_at: "2026-03-29T23:20:20.951Z"
+generated_at: "2026-03-29T23:24:49.375Z"
 ---
 
 # § 136p. Exemption of Federal and State agencies

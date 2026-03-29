@@ -3,9 +3,9 @@ title: "Section 1606 - Authorization of expenditures"
 usc_title: 7
 usc_section: "1606"
 chapter: 37
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "7 U.S.C. § 1606"
-generated_at: "2026-03-29T23:20:21.001Z"
+generated_at: "2026-03-29T23:24:49.427Z"
 ---
 
 # § 1606. Authorization of expenditures

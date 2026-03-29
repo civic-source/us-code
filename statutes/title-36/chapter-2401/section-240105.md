@@ -3,9 +3,9 @@ title: "Section 240105 - Governing body"
 usc_title: 36
 usc_section: "240105"
 chapter: 2401
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "36 U.S.C. § 240105"
-generated_at: "2026-03-29T23:22:47.474Z"
+generated_at: "2026-03-29T23:25:54.095Z"
 ---
 
 # § 240105. Governing body

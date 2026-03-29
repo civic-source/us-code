@@ -3,9 +3,9 @@ title: "Section 754 - Action by the Comptroller General"
 usc_title: 31
 usc_section: "754"
 chapter: 7
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "31 U.S.C. § 754"
-generated_at: "2026-03-29T23:22:40.596Z"
+generated_at: "2026-03-29T23:25:49.599Z"
 ---
 
 # § 754. Action by the Comptroller General

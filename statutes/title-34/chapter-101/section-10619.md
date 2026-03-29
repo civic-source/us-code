@@ -3,9 +3,9 @@ title: "Section 10619 - Technical assistance, training, and evaluation"
 usc_title: 34
 usc_section: "10619"
 chapter: 101
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "34 U.S.C. § 10619"
-generated_at: "2026-03-29T23:22:39.879Z"
+generated_at: "2026-03-29T23:25:50.324Z"
 ---
 
 # § 10619. Technical assistance, training, and evaluation

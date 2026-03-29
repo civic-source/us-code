@@ -3,9 +3,9 @@ title: "Section 2552 - Equipment for instruction and practice: American National
 usc_title: 10
 usc_section: "2552"
 chapter: 152
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "10 U.S.C. § 2552"
-generated_at: "2026-03-29T23:20:11.239Z"
+generated_at: "2026-03-29T23:24:28.192Z"
 ---
 
 # § 2552. Equipment for instruction and practice: American National Red Cross

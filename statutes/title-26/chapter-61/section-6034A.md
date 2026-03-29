@@ -3,9 +3,9 @@ title: "Section 6034A - Information to beneficiaries of estates and trusts"
 usc_title: 26
 usc_section: "6034A"
 chapter: 61
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "26 U.S.C. § 6034A"
-generated_at: "2026-03-29T23:22:12.952Z"
+generated_at: "2026-03-29T23:25:46.767Z"
 ---
 
 # § 6034A. Information to beneficiaries of estates and trusts

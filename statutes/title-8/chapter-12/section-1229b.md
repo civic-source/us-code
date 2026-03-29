@@ -3,9 +3,9 @@ title: "Section 1229b - Cancellation of removal; adjustment of status"
 usc_title: 8
 usc_section: "1229b"
 chapter: 12
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "8 U.S.C. § 1229b"
-generated_at: "2026-03-29T23:20:02.230Z"
+generated_at: "2026-03-29T23:24:14.098Z"
 ---
 
 # § 1229b. Cancellation of removal; adjustment of status

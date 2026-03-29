@@ -3,9 +3,9 @@ title: "Section 665a - Intelligence and cybersecurity diversity fellowship progr
 usc_title: 6
 usc_section: "665a"
 chapter: 1
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "6 U.S.C. § 665a"
-generated_at: "2026-03-29T23:20:11.819Z"
+generated_at: "2026-03-29T23:24:29.934Z"
 ---
 
 # § 665a. Intelligence and cybersecurity diversity fellowship program

@@ -3,9 +3,9 @@ title: "Section 5130 - Definitions"
 usc_title: 25
 usc_section: "5130"
 chapter: 45
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "25 U.S.C. § 5130"
-generated_at: "2026-03-29T23:21:42.565Z"
+generated_at: "2026-03-29T23:25:29.215Z"
 ---
 
 # § 5130. Definitions

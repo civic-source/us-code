@@ -3,9 +3,9 @@ title: "Section 5364 - Prohibition against management interlocks between certain
 usc_title: 12
 usc_section: "5364"
 chapter: 53
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "12 U.S.C. § 5364"
-generated_at: "2026-03-29T23:20:46.719Z"
+generated_at: "2026-03-29T23:24:55.326Z"
 ---
 
 # § 5364. Prohibition against management interlocks between certain financial companies

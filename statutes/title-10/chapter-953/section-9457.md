@@ -3,9 +3,9 @@ title: "Section 9457 - Grants for faculty research for scientific, literary, and
 usc_title: 10
 usc_section: "9457"
 chapter: 953
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "10 U.S.C. § 9457"
-generated_at: "2026-03-29T23:20:11.296Z"
+generated_at: "2026-03-29T23:24:28.251Z"
 ---
 
 # § 9457. Grants for faculty research for scientific, literary, and educational purposes: acceptance; authorized grantees

@@ -3,9 +3,9 @@ title: "Section 1522 - Advanced internal defenses"
 usc_title: 6
 usc_section: "1522"
 chapter: 6
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "6 U.S.C. § 1522"
-generated_at: "2026-03-29T23:20:11.835Z"
+generated_at: "2026-03-29T23:24:29.951Z"
 ---
 
 # § 1522. Advanced internal defenses

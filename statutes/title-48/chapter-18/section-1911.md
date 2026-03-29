@@ -3,9 +3,9 @@ title: "Section 1911 - Compensatory adjustments"
 usc_title: 48
 usc_section: "1911"
 chapter: 18
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "48 U.S.C. § 1911"
-generated_at: "2026-03-29T23:23:40.648Z"
+generated_at: "2026-03-29T23:26:19.106Z"
 ---
 
 # § 1911. Compensatory adjustments

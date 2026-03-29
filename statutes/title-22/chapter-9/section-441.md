@@ -3,9 +3,9 @@ title: "Section 441 - Proclamation of state of war between foreign states"
 usc_title: 22
 usc_section: "441"
 chapter: 9
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "22 U.S.C. § 441"
-generated_at: "2026-03-29T23:21:55.125Z"
+generated_at: "2026-03-29T23:25:31.207Z"
 ---
 
 # § 441. Proclamation of state of war between foreign states

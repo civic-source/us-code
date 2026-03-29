@@ -3,9 +3,9 @@ title: "Section 7 - Limitation on payments"
 usc_title: 16
 usc_section: "7"
 chapter: 58
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "16 U.S.C. § 7"
-generated_at: "2026-03-29T23:21:01.790Z"
+generated_at: "2026-03-29T23:25:21.353Z"
 ---
 
 # § 3839aa–7. Limitation on payments

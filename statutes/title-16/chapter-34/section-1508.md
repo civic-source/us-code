@@ -3,9 +3,9 @@ title: "Section 1508 - Repealed. Pub. L. 104–127, title III, § 336(d)(1) , Ap
 usc_title: 16
 usc_section: "1508"
 chapter: 34
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "16 U.S.C. § 1508"
-generated_at: "2026-03-29T23:21:01.755Z"
+generated_at: "2026-03-29T23:25:21.318Z"
 ---
 
 # §§ 1501 to 1508. Repealed. Pub. L. 104–127, title III, § 336(d)(1) , Apr. 4, 1996 , 110 Stat. 1006

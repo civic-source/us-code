@@ -3,9 +3,9 @@ title: "Section 668d - Availability of appropriations for Migratory Bird Treaty 
 usc_title: 16
 usc_section: "668d"
 chapter: 5
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "16 U.S.C. § 668d"
-generated_at: "2026-03-29T23:21:01.698Z"
+generated_at: "2026-03-29T23:25:21.260Z"
 ---
 
 # § 668d. Availability of appropriations for Migratory Bird Treaty Act

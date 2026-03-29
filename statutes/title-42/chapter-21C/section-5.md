@@ -3,9 +3,9 @@ title: "Section 5 - Definitions"
 usc_title: 42
 usc_section: "5"
 chapter: 21
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-29T23:23:27.777Z"
+generated_at: "2026-03-29T23:26:16.019Z"
 ---
 
 # § 2000cc–5. Definitions

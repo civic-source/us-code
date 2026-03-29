@@ -3,9 +3,9 @@ title: "Section 2641 - Transportation of certain veterans on Department of Defen
 usc_title: 10
 usc_section: "2641"
 chapter: 157
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "10 U.S.C. § 2641"
-generated_at: "2026-03-29T23:20:11.242Z"
+generated_at: "2026-03-29T23:24:28.195Z"
 ---
 
 # § 2641. Transportation of certain veterans on Department of Defense aeromedical evacuation aircraft

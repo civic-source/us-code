@@ -3,9 +3,9 @@ title: "Section 59 - Collections of National Ocean Survey, United States Geologi
 usc_title: 20
 usc_section: "59"
 chapter: 3
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "20 U.S.C. § 59"
-generated_at: "2026-03-29T23:21:16.538Z"
+generated_at: "2026-03-29T23:25:23.693Z"
 ---
 
 # § 59. Collections of National Ocean Survey, United States Geological Survey, and others deposited in National Museum

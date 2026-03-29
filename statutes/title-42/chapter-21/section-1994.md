@@ -3,9 +3,9 @@ title: "Section 1994 - Peonage abolished"
 usc_title: 42
 usc_section: "1994"
 chapter: 21
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 1994"
-generated_at: "2026-03-29T23:23:27.773Z"
+generated_at: "2026-03-29T23:26:16.015Z"
 ---
 
 # § 1994. Peonage abolished

@@ -3,9 +3,9 @@ title: "Section 16011 - Demonstration hydrogen production at existing nuclear po
 usc_title: 42
 usc_section: "16011"
 chapter: 149
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 16011"
-generated_at: "2026-03-29T23:23:28.066Z"
+generated_at: "2026-03-29T23:26:16.307Z"
 ---
 
 # § 16011. Demonstration hydrogen production at existing nuclear power plants

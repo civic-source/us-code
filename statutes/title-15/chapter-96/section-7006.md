@@ -3,9 +3,9 @@ title: "Section 7006 - Definitions"
 usc_title: 15
 usc_section: "7006"
 chapter: 96
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "15 U.S.C. § 7006"
-generated_at: "2026-03-29T23:20:44.181Z"
+generated_at: "2026-03-29T23:25:11.269Z"
 ---
 
 # § 7006. Definitions

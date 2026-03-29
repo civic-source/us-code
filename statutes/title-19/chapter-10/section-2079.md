@@ -3,9 +3,9 @@ title: "Section 2079 - Payments in foreign countries; claims for reimbursement"
 usc_title: 19
 usc_section: "2079"
 chapter: 10
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "19 U.S.C. § 2079"
-generated_at: "2026-03-29T23:20:52.936Z"
+generated_at: "2026-03-29T23:25:17.777Z"
 ---
 
 # § 2079. Payments in foreign countries; claims for reimbursement

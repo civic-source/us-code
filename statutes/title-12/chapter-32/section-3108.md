@@ -3,9 +3,9 @@ title: "Section 3108 - Regulation and enforcement"
 usc_title: 12
 usc_section: "3108"
 chapter: 32
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "12 U.S.C. § 3108"
-generated_at: "2026-03-29T23:20:46.686Z"
+generated_at: "2026-03-29T23:24:55.291Z"
 ---
 
 # § 3108. Regulation and enforcement

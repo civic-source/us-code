@@ -3,9 +3,9 @@ title: "Section 6372d - Applications for grants for technical assistance"
 usc_title: 42
 usc_section: "6372d"
 chapter: 77
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 6372d"
-generated_at: "2026-03-29T23:23:27.882Z"
+generated_at: "2026-03-29T23:26:16.123Z"
 ---
 
 # § 6372d. Applications for grants for technical assistance

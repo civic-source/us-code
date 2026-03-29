@@ -3,9 +3,9 @@ title: "Section 152 - Miscellaneous provisions"
 usc_title: 42
 usc_section: "152"
 chapter: 7
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 152"
-generated_at: "2026-03-29T23:23:27.653Z"
+generated_at: "2026-03-29T23:26:15.892Z"
 ---
 
 # § 1395w–152. Miscellaneous provisions

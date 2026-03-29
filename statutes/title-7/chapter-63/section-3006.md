@@ -3,9 +3,9 @@ title: "Section 3006 - Repealed. Pub. L. 115–334, title X, § 10102(c)(5)(B) ,
 usc_title: 7
 usc_section: "3006"
 chapter: 63
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "7 U.S.C. § 3006"
-generated_at: "2026-03-29T23:20:21.049Z"
+generated_at: "2026-03-29T23:24:49.475Z"
 ---
 
 # §§ 3005, 3006. Repealed. Pub. L. 115–334, title X, § 10102(c)(5)(B) , Dec. 20, 2018 , 132 Stat. 4898

@@ -3,9 +3,9 @@ title: "Section 5321 - Civil penalties"
 usc_title: 31
 usc_section: "5321"
 chapter: 53
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "31 U.S.C. § 5321"
-generated_at: "2026-03-29T23:22:40.616Z"
+generated_at: "2026-03-29T23:25:49.620Z"
 ---
 
 # § 5321. Civil penalties

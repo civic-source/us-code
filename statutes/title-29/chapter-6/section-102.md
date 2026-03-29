@@ -3,9 +3,9 @@ title: "Section 102 - Public policy in labor matters declared"
 usc_title: 29
 usc_section: "102"
 chapter: 6
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "29 U.S.C. § 102"
-generated_at: "2026-03-29T23:22:24.233Z"
+generated_at: "2026-03-29T23:25:38.546Z"
 ---
 
 # § 102. Public policy in labor matters declared

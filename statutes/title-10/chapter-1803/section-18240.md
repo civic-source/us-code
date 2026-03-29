@@ -3,9 +3,9 @@ title: "Section 18240 - Acquisition of facilities by exchange"
 usc_title: 10
 usc_section: "18240"
 chapter: 1803
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "10 U.S.C. § 18240"
-generated_at: "2026-03-29T23:20:11.312Z"
+generated_at: "2026-03-29T23:24:28.266Z"
 ---
 
 # § 18240. Acquisition of facilities by exchange

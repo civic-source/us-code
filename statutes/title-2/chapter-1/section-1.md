@@ -3,9 +3,9 @@ title: "Section 1 - Time for election of Senators"
 usc_title: 2
 usc_section: "1"
 chapter: 1
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "2 U.S.C. § 1"
-generated_at: "2026-03-29T23:19:24.662Z"
+generated_at: "2026-03-29T23:24:11.475Z"
 ---
 
 # § 1. Time for election of Senators

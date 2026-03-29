@@ -3,9 +3,9 @@ title: "Section 8504 - Assignment of Federal service and wages"
 usc_title: 5
 usc_section: "8504"
 chapter: 85
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "5 U.S.C. § 8504"
-generated_at: "2026-03-29T23:19:45.066Z"
+generated_at: "2026-03-29T23:24:04.618Z"
 ---
 
 # § 8504. Assignment of Federal service and wages

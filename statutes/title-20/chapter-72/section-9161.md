@@ -3,9 +3,9 @@ title: "Section 9161 - Services for Native Americans"
 usc_title: 20
 usc_section: "9161"
 chapter: 72
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "20 U.S.C. § 9161"
-generated_at: "2026-03-29T23:21:16.661Z"
+generated_at: "2026-03-29T23:25:23.831Z"
 ---
 
 # § 9161. Services for Native Americans

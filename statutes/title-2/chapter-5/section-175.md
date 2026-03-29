@@ -3,9 +3,9 @@ title: "Section 175 - Administrative provisions"
 usc_title: 2
 usc_section: "175"
 chapter: 5
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "2 U.S.C. § 175"
-generated_at: "2026-03-29T23:19:24.669Z"
+generated_at: "2026-03-29T23:24:11.481Z"
 ---
 
 # § 175. Administrative provisions

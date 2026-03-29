@@ -3,9 +3,9 @@ title: "Section 64 - Appropriation for expenses; appointment by Secretary of off
 usc_title: 7
 usc_section: "64"
 chapter: 2
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "7 U.S.C. § 64"
-generated_at: "2026-03-29T23:20:20.943Z"
+generated_at: "2026-03-29T23:24:49.368Z"
 ---
 
 # § 64. Appropriation for expenses; appointment by Secretary of officers and agents; compensation

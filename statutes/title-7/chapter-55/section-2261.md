@@ -3,9 +3,9 @@ title: "Section 2261 - Credit of donations and proceeds from exhibitions to appr
 usc_title: 7
 usc_section: "2261"
 chapter: 55
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "7 U.S.C. § 2261"
-generated_at: "2026-03-29T23:20:21.042Z"
+generated_at: "2026-03-29T23:24:49.466Z"
 ---
 
 # § 2261. Credit of donations and proceeds from exhibitions to appropriations concerned with foreign market development programs

@@ -3,9 +3,9 @@ title: "Section 39 - Amendment, modification, etc., of rights granted"
 usc_title: 47
 usc_section: "39"
 chapter: 2
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "47 U.S.C. § 39"
-generated_at: "2026-03-29T23:23:37.323Z"
+generated_at: "2026-03-29T23:26:22.208Z"
 ---
 
 # § 39. Amendment, modification, etc., of rights granted

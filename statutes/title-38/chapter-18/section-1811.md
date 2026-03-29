@@ -3,9 +3,9 @@ title: "Section 1811 - Definitions"
 usc_title: 38
 usc_section: "1811"
 chapter: 18
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "38 U.S.C. § 1811"
-generated_at: "2026-03-29T23:22:45.395Z"
+generated_at: "2026-03-29T23:25:55.544Z"
 ---
 
 # § 1811. Definitions

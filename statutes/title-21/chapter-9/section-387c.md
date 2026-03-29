@@ -3,9 +3,9 @@ title: "Section 387c - Misbranded tobacco products"
 usc_title: 21
 usc_section: "387c"
 chapter: 9
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "21 U.S.C. § 387c"
-generated_at: "2026-03-29T23:21:51.543Z"
+generated_at: "2026-03-29T23:25:34.836Z"
 ---
 
 # § 387c. Misbranded tobacco products

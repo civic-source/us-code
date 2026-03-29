@@ -3,9 +3,9 @@ title: "Section 9 - Repealed. Pub. L. 110–84, title III, § 302(a) , Sept. 27,
 usc_title: 20
 usc_section: "9"
 chapter: 28
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "20 U.S.C. § 9"
-generated_at: "2026-03-29T23:21:16.569Z"
+generated_at: "2026-03-29T23:25:23.730Z"
 ---
 
 # § 1078–9. Repealed. Pub. L. 110–84, title III, § 302(a) , Sept. 27, 2007 , 121 Stat. 796

@@ -3,9 +3,9 @@ title: "Section 4312 - Reemployment rights of persons who serve in the uniformed
 usc_title: 38
 usc_section: "4312"
 chapter: 43
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "38 U.S.C. § 4312"
-generated_at: "2026-03-29T23:22:45.420Z"
+generated_at: "2026-03-29T23:25:55.572Z"
 ---
 
 # § 4312. Reemployment rights of persons who serve in the uniformed services
@@ -14,17 +14,23 @@ generated_at: "2026-03-29T23:22:45.420Z"
   - **(1)** the person (or an appropriate officer of the uniformed service in which such service is performed) has given advance written or verbal notice of such service to such person’s employer;
   - **(2)** the cumulative length of the absence and of all previous absences from a position of employment with that employer by reason of service in the uniformed services does not exceed five years; and
   - **(3)** except as provided in subsection (f), the person reports to, or submits an application for reemployment to, such employer in accordance with the provisions of subsection (e).
-- **(b)** No notice is required under subsection (a)(1) if the giving of such notice is precluded by military necessity or, under all of the relevant circumstances, the giving of such notice is otherwise impossible or unreasonable. A determination of military necessity for the purposes of this subsection shall be made pursuant to regulations prescribed by the Secretary of Defense and shall not be subject to judicial review.
+- **(b)**
+  - **(1)** No notice is required under subsection (a)(1) if the giving of such notice is precluded by military necessity or, under all of the relevant circumstances, the giving of such notice is otherwise impossible or unreasonable.
+  - **(2)** A determination of military necessity for purposes of paragraph (1) shall be made—
+    - **(A)** except as provided in subparagraphs (B) and (C), pursuant to regulations prescribed by the Secretary of Defense;
+    - **(B)** for persons performing service to the Federal Emergency Management Agency under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5165f ) and as intermittent personnel under section 306(b)(1) of such Act ( 42 U.S.C. 5149(b)(1) ), by the Administrator of the Federal Emergency Management Agency as described in sections 327(j)(2) and 306(d)(2) of such Act ( 42 U.S.C. 5165f(j)(2) and 5149(d)(2)), 1 1 So in original. The closing parenthesis probably should follow “respectively”. respectively; or
+    - **(C)** for intermittent disaster-response appointees of the National Disaster Medical System, by the Secretary of Health and Human Services as described in section 2812(d)(3)(B) of the Public Health Service Act ( 42 U.S.C. 300hh–11(d)(3)(B) ).
+  - **(3)** A determination of military necessity under paragraph (1) shall not be subject to judicial review.
 - **(c)** Subsection (a) shall apply to a person who is absent from a position of employment by reason of service in the uniformed services if such person’s cumulative period of service in the uniformed services, with respect to the employer relationship for which a person seeks reemployment, does not exceed five years, except that any such period of service shall not include any service—
   - **(1)** that is required, beyond five years, to complete an initial period of obligated service;
   - **(2)** during which such person was unable to obtain orders releasing such person from a period of service in the uniformed services before the expiration of such five-year period and such inability was through no fault of such person;
   - **(3)** performed as required pursuant to section 10147 of title 10 , under section 502(a) or 503 of title 32, or to fulfill additional training requirements determined and certified in writing by the Secretary concerned, to be necessary for professional development, or for completion of skill training or retraining; or
   - **(4)** performed by a member of a uniformed service who is—
-    - **(A)** ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, 12304a, 12304b, or 12305 of title 10 or under section 331, 332, 359, 360, 367, or 712 1 1 See References in Text note below. of title 14;
+    - **(A)** ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, 12304a, 12304b, or 12305 of title 10 or under section 331, 332, 359, 360, 367, or 712 2 2 See References in Text note below. of title 14;
     - **(B)** ordered to or retained on active duty (other than for training) under any provision of law because of a war or national emergency declared by the President or the Congress, as determined by the Secretary concerned;
     - **(C)** ordered to active duty (other than for training) in support, as determined by the Secretary concerned, of an operational mission for which personnel have been ordered to active duty under section 12304 of title 10 ;
     - **(D)** ordered to active duty in support, as determined by the Secretary concerned, of a critical mission or requirement of the uniformed services;
-    - **(E)** called into Federal service as a member of the National Guard under chapter 15 of title 10 or under section 12406 of title 10 ; or
+    - **(E)** called into Federal service as a member of the National Guard under chapter 15 2 of title 10 or under section 12406 of title 10 ; or
     - **(F)** ordered to full-time National Guard duty (other than for training) under section 502(f)(2)(A) of title 32 when authorized by the President or the Secretary of Defense for the purpose of responding to a national emergency declared by the President and supported by Federal funds, as determined by the Secretary concerned.
 - **(d)**
   - **(1)** An employer is not required to reemploy a person under this chapter if—

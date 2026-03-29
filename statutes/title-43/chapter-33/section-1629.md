@@ -3,9 +3,9 @@ title: "Section 1629 - Cape Krusenstern National Monument land exchange between 
 usc_title: 43
 usc_section: "1629"
 chapter: 33
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "43 U.S.C. § 1629"
-generated_at: "2026-03-29T23:23:13.706Z"
+generated_at: "2026-03-29T23:25:58.709Z"
 ---
 
 # § 1629. Cape Krusenstern National Monument land exchange between United States and NANA Regional Corporation, Inc.

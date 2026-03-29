@@ -3,9 +3,9 @@ title: "Section 7671 - Authorization of appropriations"
 usc_title: 22
 usc_section: "7671"
 chapter: 83
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "22 U.S.C. § 7671"
-generated_at: "2026-03-29T23:21:55.230Z"
+generated_at: "2026-03-29T23:25:31.315Z"
 ---
 
 # § 7671. Authorization of appropriations

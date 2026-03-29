@@ -3,9 +3,9 @@ title: "Section 457 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "457"
 chapter: 1
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "16 U.S.C. § 457"
-generated_at: "2026-03-29T23:21:01.642Z"
+generated_at: "2026-03-29T23:25:21.203Z"
 ---
 
 # § 457. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

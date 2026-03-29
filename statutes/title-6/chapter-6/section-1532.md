@@ -3,9 +3,9 @@ title: "Section 1532 - Enhancement of emergency services"
 usc_title: 6
 usc_section: "1532"
 chapter: 6
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "6 U.S.C. § 1532"
-generated_at: "2026-03-29T23:20:11.836Z"
+generated_at: "2026-03-29T23:24:29.951Z"
 ---
 
 # § 1532. Enhancement of emergency services

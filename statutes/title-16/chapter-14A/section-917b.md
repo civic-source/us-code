@@ -3,9 +3,9 @@ title: "Section 917b - Cooperation of other Federal agencies"
 usc_title: 16
 usc_section: "917b"
 chapter: 14
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "16 U.S.C. § 917b"
-generated_at: "2026-03-29T23:21:01.729Z"
+generated_at: "2026-03-29T23:25:21.292Z"
 ---
 
 # § 917b. Cooperation of other Federal agencies

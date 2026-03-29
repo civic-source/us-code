@@ -3,9 +3,9 @@ title: "Section 1352 - Printing of reentry permits and blank forms of manifest a
 usc_title: 8
 usc_section: "1352"
 chapter: 12
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "8 U.S.C. § 1352"
-generated_at: "2026-03-29T23:20:02.236Z"
+generated_at: "2026-03-29T23:24:14.105Z"
 ---
 
 # § 1352. Printing of reentry permits and blank forms of manifest and crew lists; sale to public

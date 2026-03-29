@@ -3,9 +3,9 @@ title: "Section 78ccc - Securities Investor Protection Corporation"
 usc_title: 15
 usc_section: "78ccc"
 chapter: 1
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "15 U.S.C. § 78ccc"
-generated_at: "2026-03-29T23:20:44.040Z"
+generated_at: "2026-03-29T23:25:11.125Z"
 ---
 
 # § 78ccc. Securities Investor Protection Corporation

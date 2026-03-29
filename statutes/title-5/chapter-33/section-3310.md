@@ -3,9 +3,9 @@ title: "Section 3310 - Preference eligibles; examinations; guards, elevator oper
 usc_title: 5
 usc_section: "3310"
 chapter: 33
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "5 U.S.C. § 3310"
-generated_at: "2026-03-29T23:19:45.021Z"
+generated_at: "2026-03-29T23:24:04.576Z"
 ---
 
 # § 3310. Preference eligibles; examinations; guards, elevator operators, messengers, and custodians

@@ -3,9 +3,9 @@ title: "Section 615ooo - Omitted"
 usc_title: 43
 usc_section: "615ooo"
 chapter: 12
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "43 U.S.C. § 615ooo"
-generated_at: "2026-03-29T23:23:13.684Z"
+generated_at: "2026-03-29T23:25:58.684Z"
 ---
 
 # §§ 615jjj to 615ooo. Omitted

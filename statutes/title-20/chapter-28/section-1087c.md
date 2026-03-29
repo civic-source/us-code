@@ -3,9 +3,9 @@ title: "Section 1087c - Selection of institutions for participation and originat
 usc_title: 20
 usc_section: "1087c"
 chapter: 28
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "20 U.S.C. § 1087c"
-generated_at: "2026-03-29T23:21:16.576Z"
+generated_at: "2026-03-29T23:25:23.738Z"
 ---
 
 # § 1087c. Selection of institutions for participation and origination

@@ -3,9 +3,9 @@ title: "Section 2374b - Repealed. Pub. L. 116–283, div. A, title XVIII, § 188
 usc_title: 10
 usc_section: "2374b"
 chapter: 139
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "10 U.S.C. § 2374b"
-generated_at: "2026-03-29T23:20:11.235Z"
+generated_at: "2026-03-29T23:24:28.189Z"
 ---
 
 # [§ 2374b. Repealed. Pub. L. 116–283, div. A, title XVIII, § 1881(a) , Jan. 1, 2021 , 134 Stat. 4293 ]

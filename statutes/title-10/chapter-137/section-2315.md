@@ -3,9 +3,9 @@ title: "Section 2315 - Repealed. Pub. L. 116–283, div. A, title XVIII, § 1807
 usc_title: 10
 usc_section: "2315"
 chapter: 137
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "10 U.S.C. § 2315"
-generated_at: "2026-03-29T23:20:11.234Z"
+generated_at: "2026-03-29T23:24:28.186Z"
 ---
 
 # [§§ 2314, 2315. Repealed. Pub. L. 116–283, div. A, title XVIII, § 1807(e)(4) , Jan. 1, 2021 , 134 Stat. 4159 ]

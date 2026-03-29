@@ -3,9 +3,9 @@ title: "Section 6410 - Relation to other programs"
 usc_title: 15
 usc_section: "6410"
 chapter: 90
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "15 U.S.C. § 6410"
-generated_at: "2026-03-29T23:20:44.176Z"
+generated_at: "2026-03-29T23:25:11.263Z"
 ---
 
 # § 6410. Relation to other programs

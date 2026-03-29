@@ -3,9 +3,9 @@ title: "Section 5722 - Relation to State laws"
 usc_title: 15
 usc_section: "5722"
 chapter: 83
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "15 U.S.C. § 5722"
-generated_at: "2026-03-29T23:20:44.172Z"
+generated_at: "2026-03-29T23:25:11.260Z"
 ---
 
 # § 5722. Relation to State laws

@@ -3,9 +3,9 @@ title: "Section 551c - Planning for fire protection"
 usc_title: 16
 usc_section: "551c"
 chapter: 3
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "16 U.S.C. § 551c"
-generated_at: "2026-03-29T23:21:01.688Z"
+generated_at: "2026-03-29T23:25:21.249Z"
 ---
 
 # § 551c. Planning for fire protection

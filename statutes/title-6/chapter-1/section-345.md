@@ -3,9 +3,9 @@ title: "Section 345 - Establishment of Officer for Civil Rights and Civil Libert
 usc_title: 6
 usc_section: "345"
 chapter: 1
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "6 U.S.C. § 345"
-generated_at: "2026-03-29T23:20:11.803Z"
+generated_at: "2026-03-29T23:24:29.919Z"
 ---
 
 # § 345. Establishment of Officer for Civil Rights and Civil Liberties

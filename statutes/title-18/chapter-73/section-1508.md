@@ -3,9 +3,9 @@ title: "Section 1508 - Recording, listening to, or observing proceedings of gran
 usc_title: 18
 usc_section: "1508"
 chapter: 73
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "18 U.S.C. § 1508"
-generated_at: "2026-03-29T23:21:10.293Z"
+generated_at: "2026-03-29T23:25:16.601Z"
 ---
 
 # § 1508. Recording, listening to, or observing proceedings of grand or petit juries while deliberating or voting

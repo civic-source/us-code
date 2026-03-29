@@ -3,9 +3,9 @@ title: "Section 821 - Rules and regulations"
 usc_title: 21
 usc_section: "821"
 chapter: 13
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "21 U.S.C. § 821"
-generated_at: "2026-03-29T23:21:51.553Z"
+generated_at: "2026-03-29T23:25:34.847Z"
 ---
 
 # § 821. Rules and regulations

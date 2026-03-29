@@ -3,9 +3,9 @@ title: "Section 200308 - Principal office"
 usc_title: 36
 usc_section: "200308"
 chapter: 2003
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "36 U.S.C. § 200308"
-generated_at: "2026-03-29T23:22:47.470Z"
+generated_at: "2026-03-29T23:25:54.091Z"
 ---
 
 # § 200308. Principal office

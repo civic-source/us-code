@@ -3,9 +3,9 @@ title: "Section 8951 - Definitions"
 usc_title: 5
 usc_section: "8951"
 chapter: 89
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "5 U.S.C. § 8951"
-generated_at: "2026-03-29T23:19:45.070Z"
+generated_at: "2026-03-29T23:24:04.622Z"
 ---
 
 # § 8951. Definitions

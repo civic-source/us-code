@@ -3,9 +3,9 @@ title: "Section 8549 - Defense industry civilians: admission to defense product 
 usc_title: 10
 usc_section: "8549"
 chapter: 855
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "10 U.S.C. § 8549"
-generated_at: "2026-03-29T23:20:11.287Z"
+generated_at: "2026-03-29T23:24:28.241Z"
 ---
 
 # § 8549. Defense industry civilians: admission to defense product development program

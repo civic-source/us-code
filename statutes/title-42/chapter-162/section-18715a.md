@@ -3,9 +3,9 @@ title: "Section 18715a - Grants to facilitate the siting of interstate electrici
 usc_title: 42
 usc_section: "18715a"
 chapter: 162
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 18715a"
-generated_at: "2026-03-29T23:23:28.118Z"
+generated_at: "2026-03-29T23:26:16.357Z"
 ---
 
 # § 18715a. Grants to facilitate the siting of interstate electricity transmission lines

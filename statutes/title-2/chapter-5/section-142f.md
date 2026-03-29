@@ -3,9 +3,9 @@ title: "Section 142f - Office of Technology Assessment; disbursement of funds, c
 usc_title: 2
 usc_section: "142f"
 chapter: 5
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "2 U.S.C. § 142f"
-generated_at: "2026-03-29T23:19:24.667Z"
+generated_at: "2026-03-29T23:24:11.479Z"
 ---
 
 # § 142f. Office of Technology Assessment; disbursement of funds, computation and disbursement of basic pay, and provision of financial management support by Library of Congress

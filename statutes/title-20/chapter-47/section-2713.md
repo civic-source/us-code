@@ -3,9 +3,9 @@ title: "Section 2713 - Omitted"
 usc_title: 20
 usc_section: "2713"
 chapter: 47
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "20 U.S.C. § 2713"
-generated_at: "2026-03-29T23:21:16.620Z"
+generated_at: "2026-03-29T23:25:23.786Z"
 ---
 
 # §§ 2711 to 2713. Omitted

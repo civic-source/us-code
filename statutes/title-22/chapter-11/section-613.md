@@ -3,9 +3,9 @@ title: "Section 613 - Exemptions"
 usc_title: 22
 usc_section: "613"
 chapter: 11
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "22 U.S.C. § 613"
-generated_at: "2026-03-29T23:21:55.126Z"
+generated_at: "2026-03-29T23:25:31.208Z"
 ---
 
 # § 613. Exemptions

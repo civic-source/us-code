@@ -3,9 +3,9 @@ title: "Section 714b - General powers of Corporation"
 usc_title: 15
 usc_section: "714b"
 chapter: 15
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "15 U.S.C. § 714b"
-generated_at: "2026-03-29T23:20:44.088Z"
+generated_at: "2026-03-29T23:25:11.175Z"
 ---
 
 # § 714b. General powers of Corporation

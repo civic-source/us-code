@@ -3,9 +3,9 @@ title: "Section 2104 - Authority of Federal officers and agencies unaffected"
 usc_title: 22
 usc_section: "2104"
 chapter: 30
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "22 U.S.C. § 2104"
-generated_at: "2026-03-29T23:21:55.138Z"
+generated_at: "2026-03-29T23:25:31.221Z"
 ---
 
 # § 2104. Authority of Federal officers and agencies unaffected

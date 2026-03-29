@@ -3,9 +3,9 @@ title: "Section 19 - Multilateral Debt Relief Initiative"
 usc_title: 22
 usc_section: "19"
 chapter: 7
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "22 U.S.C. § 19"
-generated_at: "2026-03-29T23:21:55.122Z"
+generated_at: "2026-03-29T23:25:31.204Z"
 ---
 
 # § 290g–19. Multilateral Debt Relief Initiative

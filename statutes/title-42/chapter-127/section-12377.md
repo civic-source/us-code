@@ -3,9 +3,9 @@ title: "Section 12377 - Authorization of appropriations"
 usc_title: 42
 usc_section: "12377"
 chapter: 127
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "42 U.S.C. § 12377"
-generated_at: "2026-03-29T23:23:28.018Z"
+generated_at: "2026-03-29T23:26:16.259Z"
 ---
 
 # § 12377. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 1721 - Establishment"
 usc_title: 2
 usc_section: "1721"
 chapter: 27
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "2 U.S.C. § 1721"
-generated_at: "2026-03-29T23:19:24.694Z"
+generated_at: "2026-03-29T23:24:11.504Z"
 ---
 
 # § 1721. Establishment

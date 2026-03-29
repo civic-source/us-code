@@ -3,37 +3,37 @@ title: "Section 379j - Authority to assess and use device fees"
 usc_title: 21
 usc_section: "379j"
 chapter: 9
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "21 U.S.C. § 379j"
-generated_at: "2026-03-29T23:21:51.533Z"
+generated_at: "2026-03-29T23:25:34.825Z"
 ---
 
 # § 379j. Authority to assess and use device fees
 
 - **(a)**
-  - **(1)** Beginning in fiscal year 2018, the Secretary shall assess and collect fees in accordance with this section.
+  - **(1)** Beginning in fiscal year 2023, the Secretary shall assess and collect fees in accordance with this section.
   - **(2)**
-    - **(A)** Except as provided in subparagraph (B) and subsections (d) and (e), each person who submits any of the following, on or after October 1, 2017 , shall be subject to a fee established under subsection (c) for the fiscal year involved in accordance with the following:
+    - **(A)** Except as provided in subparagraph (B) and subsections (d) and (e), each person who submits any of the following, on or after October 1, 2022 , shall be subject to a fee established under subsection (c) for the fiscal year involved in accordance with the following:
       - **(i)** A premarket application.
       - **(ii)** For a premarket report, a fee equal to the fee that applies under clause (i).
-      - **(iii)** For a panel track supplement, a fee equal to 75 percent of the fee that applies under clause (i).
+      - **(iii)** For a panel track supplement, a fee equal to 80 percent of the fee that applies under clause (i).
       - **(iv)** For a 180-day supplement, a fee equal to 15 percent of the fee that applies under clause (i).
       - **(v)** For a real-time supplement, a fee equal to 7 percent of the fee that applies under clause (i).
       - **(vi)** For a 30-day notice, a fee equal to 1.6 percent of the fee that applies under clause (i).
       - **(vii)** For an efficacy supplement, a fee equal to the fee that applies under clause (i).
-      - **(viii)** For a premarket notification submission, a fee equal to 3.4 percent of the fee that applies under clause (i).
+      - **(viii)** For a premarket notification submission, a fee equal to 4.5 percent of the fee that applies under clause (i).
       - **(ix)** For a request for classification information, a fee equal to 1.35 percent of the fee that applies under clause (i).
       - **(x)** For periodic reporting concerning a class III device, an annual fee equal to 3.5 percent of the fee that applies under clause (i).
       - **(xi)** For a de novo classification request, a fee equal to 30 percent of the fee that applies under clause (i).
     - **(B)**
       - **(i)** An application under section 360j(m) of this title is not subject to any fee under subparagraph (A).
       - **(ii)** No fee shall be required under subparagraph (A) for the submission of a premarket application under section 262 of title 42 for a product licensed for further manufacturing use only.
-      - **(iii)** No fee shall be required under subparagraph (A) for a premarket application, premarket report, supplement, or premarket notification submission submitted by a State or Federal Government entity unless the device involved is to be distributed commercially.
+      - **(iii)** No fee shall be required under subparagraph (A) for a premarket application, premarket report, supplement, premarket notification submission, or de novo classification request submitted by a State or Federal Government entity unless the device involved is to be distributed commercially.
       - **(iv)** No fee shall be required under subparagraph (A) for a premarket notification submission reviewed by an accredited person pursuant to section 360m of this title .
       - **(v)**
         - **(I)** No fee shall be required under subparagraph (A) for a premarket application, premarket report, premarket notification submission, or de novo classification request if the proposed conditions of use for the device involved are solely for a pediatric population. No fee shall be required under such subparagraph for a supplement if the sole purpose of the supplement is to propose conditions of use for a pediatric population.
         - **(II)** In the case of a person who submits a premarket application or premarket report for which, under subclause (I), a fee under subparagraph (A) is not required, any supplement to such application that proposes conditions of use for any adult population is subject to the fee that applies under such subparagraph for a premarket application.
-    - **(C)** The fee required by subparagraph (A) shall be due upon submission of the premarket application, premarket report, supplement, premarket notification submission, 30-day notice, request for classification information, or periodic reporting concerning a class III device. Applicants submitting portions of applications pursuant to section 360e(c)(4) of this title shall pay such fees upon submission of the first portion of such applications.
+    - **(C)** The fee required by subparagraph (A) shall be due upon submission of the premarket application, premarket report, supplement, premarket notification submission, 30-day notice, request for classification information, periodic reporting concerning a class III device, or de novo classification request. Applicants submitting portions of applications pursuant to section 360e(c)(4) of this title shall pay such fees upon submission of the first portion of such applications.
     - **(D)**
       - **(i)** The Secretary shall refund 75 percent of the fee paid under subparagraph (A) for any application, report, or supplement that is refused for filing.
       - **(ii)** The Secretary shall refund 75 percent of the fee paid under subparagraph (A) for any application, report, or supplement that is withdrawn prior to the filing decision of the Secretary.
@@ -48,34 +48,90 @@ generated_at: "2026-03-29T23:21:51.533Z"
       - **(i)** the initial or annual registration (as applicable) of the establishment under section 360 of this title ; or
       - **(ii)** the first business day after the date of enactment of an appropriations Act providing for the collection and obligation of fees for such year under this section.
 - **(b)**
-  - **(1)** Subject to subsections (c), (d), (e), and (h), for each of fiscal years 2018 through 2022, fees under subsection (a) shall be derived from the base fee amounts specified in paragraph (2), to generate the total revenue amounts specified in paragraph (3).
-  - **(2)** For purposes of paragraph (1), the base fee amounts specified in this paragraph are as follows: Fee Type Fiscal Year 2018 Fiscal Year 2019 Fiscal Year 2020 Fiscal Year 2021 Fiscal Year 2022 Premarket Application $294,000 $300,000 $310,000 $328,000 $329,000 Establishment Registration $4,375 $4,548 $4,760 $4,975 $4,978
+  - **(1)** Subject to subsections (c), (d), (e), and (h), for each of fiscal years 2023 through 2027, fees under subsection (a) shall be derived from the base fee amounts specified in paragraph (2), to generate the total revenue amounts specified in paragraph (3).
+  - **(2)** For purposes of paragraph (1), the base fee amounts specified in this paragraph are as follows: Fee Type Fiscal Year 2023 Fiscal Year 2024 Fiscal Year 2025 Fiscal Year 2026 Fiscal Year 2027 Premarket Application $425,000 $435,000 $445,000 $455,000 $470,000 Establishment Registration $6,250 $6,875 $7,100 $7,575 $8,465
   - **(3)** For purposes of paragraph (1), the total revenue amounts specified in this paragraph are as follows:
-    - **(A)** $183,280,756 for fiscal year 2018.
-    - **(B)** $190,654,875 for fiscal year 2019.
-    - **(C)** $200,132,014 for fiscal year 2020.
-    - **(D)** $211,748,789 for fiscal year 2021.
-    - **(E)** $213,687,660 for fiscal year 2022.
+    - **(A)** $312,606,000 for fiscal year 2023.
+    - **(B)** $335,750,000 for fiscal year 2024.
+    - **(C)** $350,746,400 for fiscal year 2025.
+    - **(D)** $366,486,300 for fiscal year 2026.
+    - **(E)** $418,343,000 for fiscal year 2027.
 - **(c)**
-  - **(1)** The Secretary shall, 60 days before the start of each fiscal year after September 30, 2017 , establish fees under subsection (a), based on amounts specified under subsection (b) and the adjustments provided under this subsection, and publish such fees, and the rationale for any adjustments to such fees, in the Federal Register.
+  - **(1)** The Secretary shall, 60 days before the start of each fiscal year after September 30, 2022 , establish fees under subsection (a), based on amounts specified under subsection (b) and the adjustments provided under this subsection, and publish such fees, and the rationale for any adjustments to such fees, in the Federal Register.
   - **(2)**
-    - **(A)** For fiscal year 2018 and each subsequent fiscal year, the Secretary shall adjust the total revenue amount specified in subsection (b)(3) for such fiscal year by multiplying such amount by the applicable inflation adjustment under subparagraph (B) for such year.
-    - **(B)** The applicable inflation adjustment for fiscal year 2018 and each subsequent fiscal year is the product of—
+    - **(A)** For fiscal year 2023 and each subsequent fiscal year, the Secretary shall adjust the total revenue amount specified in subsection (b)(3) for such fiscal year by multiplying such amount by the applicable inflation adjustment under subparagraph (B) for such year.
+    - **(B)** The applicable inflation adjustment for fiscal year 2023 and each subsequent fiscal year is the product of—
       - **(i)** the base inflation adjustment under subparagraph (C) for such fiscal year; and
-      - **(ii)** the product of the base inflation adjustment under subparagraph (C) for each of the fiscal years preceding such fiscal year, beginning with fiscal year 2016.
+      - **(ii)** the product of the base inflation adjustment under subparagraph (C) for each of the fiscal years preceding such fiscal year, beginning with fiscal year 2022.
     - **(C)**
       - **(i)** Subject to further adjustment under clause (ii), the base inflation adjustment for a fiscal year is the sum of one plus—
         - **(I)** the average annual percent change in the cost, per full-time equivalent position of the Food and Drug Administration, of all personnel compensation and benefits paid with respect to such positions for the first 3 years of the preceding 4 fiscal years, multiplied by 0.60; and
-        - **(II)** the average annual percent change that occurred in the Consumer Price Index for urban consumers (Washington-Baltimore, DC–MD–VA–WV; Not Seasonally Adjusted; All items; Annual Index) for the first 3 years of the preceding 4 years of available data multiplied by 0.40.
+        - **(II)** the average annual percent change that occurred in the Consumer Price Index for urban consumers (Washington-Arlington-Alexandria, DC–VA–MD–WV; Not Seasonally Adjusted; All items; Annual Index) for the first 3 years of the preceding 4 years of available data multiplied by 0.40.
       - **(ii)** For purposes of subparagraph (B), if the base inflation adjustment for a fiscal year under clause (i)—
         - **(I)** is less than 1, such adjustment shall be considered to be equal to 1; or
         - **(II)** is greater than 1.04, such adjustment shall be considered to be equal to 1.04.
-    - **(D)** For each of fiscal years 2018 through 2022, the Secretary shall—
+    - **(D)** For each of fiscal years 2023 through 2027, the Secretary shall—
       - **(i)** adjust the base fee amounts specified in subsection (b)(2) for such fiscal year by multiplying such amounts by the applicable inflation adjustment under subparagraph (B) for such year; and
       - **(ii)** if the Secretary determines necessary, increase (in addition to the adjustment under clause (i)) such base fee amounts, on a uniform proportionate basis, to generate the total revenue amounts under subsection (b)(3), as adjusted for inflation under subparagraph (A).
-  - **(3)** For each of fiscal years 2018 through 2022, after the base fee amounts specified in subsection (b)(2) are adjusted under paragraph (2)(D), the base establishment registration fee amounts specified in such subsection shall be increased, as the Secretary estimates is necessary in order for total fee collections for such fiscal year to generate the total revenue amounts, as adjusted under paragraph (2).
-  - **(4)** The total amount of fees charged, as adjusted under this subsection, for a fiscal year may not exceed the total costs for such fiscal year for the resources allocated for the process for the review of device applications.
+  - **(3)** For each of fiscal years 2023 through 2027, after the base fee amounts specified in subsection (b)(2) are adjusted under paragraph (2)(D), the base establishment registration fee amounts specified in such subsection shall be increased, as the Secretary estimates is necessary in order for total fee collections for such fiscal year to generate the total revenue amounts, as adjusted under paragraph (2).
+  - **(4)**
+    - **(A)** For each of fiscal years 2025 through 2027, after the adjustments under paragraphs (2) and (3), the base establishment registration fee amounts for such fiscal year shall be increased to reflect changes in the resource needs of the Secretary due to improved review performance goals for the process for the review of device applications identified in the letters described in section 2001(b) of the Medical Device User Fee Amendments of 2022, as the Secretary determines necessary to achieve an increase in total fee collections for such fiscal year equal to the following amounts, as applicable:
+      - **(i)** For fiscal year 2025, the product of—
+        - **(I)** the amount determined under subparagraph (B)(i)(I); and
+        - **(II)** the applicable inflation adjustment under paragraph (2)(B) for such fiscal year.
+      - **(ii)** For fiscal year 2026, the product of—
+        - **(I)** the sum of the amounts determined under subparagraphs (B)(i)(II), (B)(ii)(I), and (B)(iii)(I); and
+        - **(II)** the applicable inflation adjustment under paragraph (2)(B) for such fiscal year.
+      - **(iii)** For fiscal year 2027, the product of—
+        - **(I)** the sum of the amounts determined under subparagraphs (B)(i)(III), (B)(ii)(II), and (B)(iii)(II); and
+        - **(II)** the applicable inflation adjustment under paragraph (2)(B) for such fiscal year.
+    - **(B)**
+      - **(i)** For purposes of subparagraph (A), with respect to the Presubmission Written Feedback goal, the amounts determined under this subparagraph are as follows:
+        - **(I)** For fiscal year 2025, $15,396,600 if such goal for fiscal year 2023 is met.
+        - **(II)** For fiscal year 2026:
+        - **(III)** For fiscal year 2027:
+      - **(ii)** For purposes of subparagraph (A), with respect to the De Novo Decision goal, the amounts determined under this subparagraph are as follows:
+        - **(I)** For fiscal year 2026, $6,323,500 if such goal for fiscal year 2023 is met.
+        - **(II)** For fiscal year 2027:
+      - **(iii)** For purposes of subparagraph (A), with respect to the 510(k) decision goal, 510(k) Shared Outcome Total Time to Decision goal, PMA decision goal, and PMA Shared Outcome Total Time to Decision goal, the amounts determined under this subparagraph are as follows:
+        - **(I)** For fiscal year 2026, $1,020,000 if the 4 goals for fiscal year 2023 are met.
+        - **(II)** For fiscal year 2027:
+    - **(C)** For purposes of this paragraph, performance of the following goals shall be determined as specified in the letters described in section 2001(b) of the Medical Device User Fee Amendments of 2022 and based on data available, as follows:
+      - **(i)** The performance of the Presubmission Written Feedback goal shall be based on data available as of—
+        - **(I)** for fiscal year 2023, March 31, 2024 ;
+        - **(II)** for fiscal year 2024, March 31, 2025 ; and
+        - **(III)** for fiscal year 2025, March 31, 2026 .
+      - **(ii)** The performance of the De Novo Decision goal, 510(k) decision goal, 510(k) Shared Outcome Total Time to Decision goal, PMA decision goal, and PMA Shared Outcome Total Time to Decision goal shall be based on data available as of—
+        - **(I)** for fiscal year 2023, March 31, 2025 ; and
+        - **(II)** for fiscal year 2024, March 31, 2026 .
+    - **(D)** For purposes of this paragraph, the terms “Presubmission Written Feedback goal”, “De Novo Decision goal”, “510(k) decision goal”, “510(k) Shared Outcome Total Time to Decision goal”, “PMA decision goal”, and “PMA Shared Outcome Total Time to Decision goal” refer to the goals identified by the same names in the letters described in section 2001(b) of the Medical Device User Fee Amendments of 2022.
   - **(5)**
+    - **(A)** For each of fiscal years 2025 through 2027, after the adjustments under paragraphs (2), (3), and (4), if applicable, if the number of hires to support the process for the review of device applications falls below the thresholds specified in subparagraph (B) for the applicable fiscal years, the base establishment registration fee amounts shall be decreased as the Secretary determines necessary to achieve a reduction in total fee collections equal to the hiring adjustment amount under subparagraph (C).
+    - **(B)** The thresholds specified in this subparagraph are as follows:
+      - **(i)** For fiscal year 2025, the threshold is 123 hires for fiscal year 2023.
+      - **(ii)** For fiscal year 2026, the threshold is 38 hires for fiscal year 2024.
+      - **(iii)** For fiscal year 2027, the threshold is—
+        - **(I)** 22 hires for fiscal year 2025 if the base establishment registration fees are not increased by the amount determined under paragraph (4)(A)(i); or
+        - **(II)** 75 hires for fiscal year 2025 if such fees are so increased.
+    - **(C)** The hiring adjustment amount for fiscal year 2025 and each subsequent fiscal year is the product of—
+      - **(i)** the number of hires by which the hiring goal specified in subparagraph (D) for the fiscal year before the prior fiscal year was not met;
+      - **(ii)** $72,877; and
+      - **(iii)** the applicable inflation adjustment under paragraph (2)(B) for the fiscal year for which the hiring goal was not met.
+    - **(D)** The hiring goals for each of fiscal years 2023 through 2025 are as follows:
+      - **(i)** For fiscal year 2023, 144 hires.
+      - **(ii)** For fiscal year 2024, 42 hires.
+      - **(iii)** For fiscal year 2025:
+        - **(I)** 24 hires if the base establishment registration fees are not increased by the amount determined under paragraph (4)(A)(i).
+        - **(II)** 83 hires if the base establishment registration fees are increased by the amount determined under paragraph (4)(A)(i).
+    - **(E)** For purposes of this paragraph, the number of hires for a fiscal year shall be determined by the Secretary as set forth in the letters described in section 2001(b) of the Medical Device User Fee Amendments of 2022.
+  - **(6)**
+    - **(A)** For each of fiscal years 2023 through 2027, after the adjustments under paragraphs (2), (3), (4), and (5), if applicable, if the Secretary has operating reserves of carryover user fees for the process for the review of device applications in excess of the designated amount in subparagraph (B), the Secretary shall decrease the base establishment registration fee amounts to provide for not more than such designated amount of operating reserves.
+    - **(B)** Subject to subparagraph (C), for each fiscal year, the designated amount in this subparagraph is equal to the sum of—
+      - **(i)** 13 weeks of operating reserves of carryover user fees; and
+      - **(ii)** 1 month of operating reserves maintained pursuant to paragraph (8).
+    - **(C)** For the period of fiscal years 2023 through 2026, a total amount equal to $118,000,000 shall not be considered part of the designated amount under subparagraph (B) and shall not be subject to the decrease under subparagraph (A).
+  - **(7)** The total amount of fees charged, as adjusted under this subsection, for a fiscal year may not exceed the total costs for such fiscal year for the resources allocated for the process for the review of device applications.
+  - **(8)**
     - **(A)** The Secretary may use unobligated carryover balances from fees collected in previous fiscal years to ensure that sufficient fee revenues are available in that fiscal year, so long as the Secretary maintains unobligated carryover balances of not less than 1 month of operating reserves for the first month of the next fiscal year.
     - **(B)** Not later than 14 days before the Secretary anticipates the use of funds described in subparagraph (A), the Secretary shall provide notice to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives.
 - **(d)**
@@ -105,9 +161,9 @@ generated_at: "2026-03-29T23:21:51.533Z"
   - **(2)** Registration information submitted under section 360 of this title by an establishment subject to a registration fee shall be considered incomplete and shall not be accepted by the Secretary until the registration fee under subsection (a)(3) owed for the establishment has been paid. Until the fee is paid and the registration is complete, the establishment is deemed to have failed to register in accordance with section 360 of this title .
 - **(g)**
   - **(1)** With respect to the amount that, under the salaries and expenses account of the Food and Drug Administration, is appropriated for a fiscal year for devices and radiological products, fees may not be assessed under subsection (a) for the fiscal year, and the Secretary is not expected to meet any performance goals identified for the fiscal year, if—
-    - **(A)** the amount so appropriated for the fiscal year, excluding the amount of fees appropriated for the fiscal year, is more than 1 percent less than $320,825,000 multiplied by the adjustment factor applicable to such fiscal year; or
+    - **(A)** the amount so appropriated for the fiscal year, excluding the amount of fees appropriated for the fiscal year, is more than 1 percent less than $398,566,000 multiplied by the adjustment factor applicable to such fiscal year; or
     - **(B)** fees were not assessed under subsection (a) for the previous fiscal year.
-  - **(2)** If the Secretary does not assess fees under subsection (a) during any portion of a fiscal year because of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, premarket notification submissions, 30-day notices, requests for classification information, periodic reporting concerning a class III device, and establishment registrations at any time in such fiscal year, notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
+  - **(2)** If the Secretary does not assess fees under subsection (a) during any portion of a fiscal year because of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, premarket notification submissions, 30-day notices, requests for classification information, periodic reporting concerning a class III device, de novo classification requests, and establishment registrations at any time in such fiscal year, notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
   - **(3)** Beginning on October 1, 2023 , the authorities under section 379i(9)(C) of this title shall include only leasing and necessary scientific equipment.
 - **(h)**
   - **(1)** Subject to paragraph (2)(C), fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriation Acts. Such fees are authorized to be appropriated to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of device applications.
@@ -121,7 +177,14 @@ generated_at: "2026-03-29T23:21:51.533Z"
         - **(II)**
       - **(ii)** To the extent such costs are more than 5 percent below the specified level in subparagraph (A)(ii), fees may not be collected under this section for that fiscal year.
     - **(C)** Payment of fees authorized under this section for a fiscal year, prior to the due date for such fees, may be accepted by the Secretary in accordance with authority provided in advance in a prior year appropriations Act.
-  - **(3)** For each of the fiscal years 2018 through 2022, there is authorized to be appropriated for fees under this section an amount equal to the total revenue amount specified under subsection (b)(3) for the fiscal year, as adjusted under subsection (c).
+  - **(3)**
+    - **(A)** For each of fiscal years 2023 through 2027, there is authorized to be appropriated for fees under this section an amount equal to the revenue amount determined under subparagraph (B), less the amount of reductions determined under subparagraph (C).
+    - **(B)** For purposes of this paragraph, the revenue amount for each fiscal year is the sum of—
+      - **(i)** the total revenue amount under subsection (b)(3) for the fiscal year, as adjusted under paragraphs (2) and (3) of subsection (c); and
+      - **(ii)** the performance improvement adjustment amount for the fiscal year under subsection (c)(4), if applicable.
+    - **(C)** For purposes of this paragraph, the amount of reductions for each fiscal year is the sum of—
+      - **(i)** the hiring adjustment amount for the fiscal year under subsection (c)(5), if applicable; and
+      - **(ii)** the operating reserve adjustment amount for the fiscal year under subsection (c)(6), if applicable.
 - **(i)** In any case where the Secretary does not receive payment of a fee assessed under subsection (a) within 30 days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
 - **(j)** To qualify for consideration for a refund under subsection (a)(2)(D), a person shall submit to the Secretary a written request for such refund not later than 180 days after such fee is due.
 - **(k)** This section may not be construed to require that the number of full-time equivalent positions in the Department of Health and Human Services, for officers, employees, and advisory committees not engaged in the process of the review of device applications, be reduced to offset the number of officers, employees, and advisory committees so engaged.

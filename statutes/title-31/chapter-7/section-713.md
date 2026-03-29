@@ -3,9 +3,9 @@ title: "Section 713 - Audit of Internal Revenue Service, Tax and Trade Bureau, a
 usc_title: 31
 usc_section: "713"
 chapter: 7
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "31 U.S.C. § 713"
-generated_at: "2026-03-29T23:22:40.594Z"
+generated_at: "2026-03-29T23:25:49.597Z"
 ---
 
 # § 713. Audit of Internal Revenue Service, Tax and Trade Bureau, and Bureau of Alcohol, Tobacco, Firearms, and Explosives

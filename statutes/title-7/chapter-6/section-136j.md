@@ -3,9 +3,9 @@ title: "Section 136j - Unlawful acts"
 usc_title: 7
 usc_section: "136j"
 chapter: 6
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "7 U.S.C. § 136j"
-generated_at: "2026-03-29T23:20:20.950Z"
+generated_at: "2026-03-29T23:24:49.374Z"
 ---
 
 # § 136j. Unlawful acts

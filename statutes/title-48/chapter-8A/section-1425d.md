@@ -3,9 +3,9 @@ title: "Section 1425d - Ratification of prior act"
 usc_title: 48
 usc_section: "1425d"
 chapter: 8
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "48 U.S.C. § 1425d"
-generated_at: "2026-03-29T23:23:40.639Z"
+generated_at: "2026-03-29T23:26:19.097Z"
 ---
 
 # § 1425d. Ratification of prior act

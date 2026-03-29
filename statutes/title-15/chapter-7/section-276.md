@@ -3,9 +3,9 @@ title: "Section 276 - Ownership of facilities"
 usc_title: 15
 usc_section: "276"
 chapter: 7
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "15 U.S.C. § 276"
-generated_at: "2026-03-29T23:20:44.054Z"
+generated_at: "2026-03-29T23:25:11.140Z"
 ---
 
 # § 276. Ownership of facilities

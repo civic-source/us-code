@@ -3,9 +3,9 @@ title: "Section 3313 - Educational assistance: amount; payment"
 usc_title: 38
 usc_section: "3313"
 chapter: 33
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "38 U.S.C. § 3313"
-generated_at: "2026-03-29T23:22:45.408Z"
+generated_at: "2026-03-29T23:25:55.558Z"
 ---
 
 # § 3313. Educational assistance: amount; payment
@@ -42,8 +42,8 @@ generated_at: "2026-03-29T23:22:45.408Z"
   - **(2)** Payment of the amount payable under subsection (c)(1)(B), and of similar amounts payable under paragraphs (2) through (6) of subsection (c), for pursuit of a program of education shall be made on a monthly basis.
   - **(3)** The Secretary shall prescribe in regulations methods for determining the number of months (including fractions thereof) of entitlement of an individual to educational assistance under this chapter that are chargeable under this chapter for an advance payment of amounts under paragraphs (1) and (2) for pursuit of a program of education on a quarter, semester, term, or other basis.
 - **(e)**
-  - **(1)** Educational assistance is payable under this chapter for pursuit of an approved program of education leading to a degree while on active duty.
-  - **(2)** The amounts of educational assistance payable under this chapter to an individual pursuing a program of education leading to a degree while on active duty are as follows:
+  - **(1)** Educational assistance is payable under this chapter for pursuit of an approved program of education leading to a degree while on active duty for a period of more than 30 days.
+  - **(2)** The amounts of educational assistance payable under this chapter to an individual pursuing a program of education leading to a degree while on active duty for a period of more than 30 days are as follows:
     - **(A)** Subject to subparagraph (C), an amount equal to the lesser of—
       - **(i)** in the case of a program of education pursued at a public institution of higher learning, the actual net cost for in-State tuition and fees assessed by the institution for the program of education after the application of—
         - **(I)** any waiver of, or reduction in, tuition and fees; and

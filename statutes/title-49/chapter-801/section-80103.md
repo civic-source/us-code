@@ -3,9 +3,9 @@ title: "Section 80103 - Negotiable and nonnegotiable bills"
 usc_title: 49
 usc_section: "80103"
 chapter: 801
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "49 U.S.C. § 80103"
-generated_at: "2026-03-29T23:23:48.872Z"
+generated_at: "2026-03-29T23:26:35.735Z"
 ---
 
 # § 80103. Negotiable and nonnegotiable bills

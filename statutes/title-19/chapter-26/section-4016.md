@@ -3,9 +3,9 @@ title: "Section 4016 - Arbitration of claims"
 usc_title: 19
 usc_section: "4016"
 chapter: 26
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "19 U.S.C. § 4016"
-generated_at: "2026-03-29T23:20:52.965Z"
+generated_at: "2026-03-29T23:25:17.808Z"
 ---
 
 # § 4016. Arbitration of claims

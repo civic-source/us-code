@@ -3,9 +3,9 @@ title: "Section 7845 - Consolidated local plans or applications"
 usc_title: 20
 usc_section: "7845"
 chapter: 70
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "20 U.S.C. § 7845"
-generated_at: "2026-03-29T23:21:16.657Z"
+generated_at: "2026-03-29T23:25:23.826Z"
 ---
 
 # § 7845. Consolidated local plans or applications

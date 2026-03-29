@@ -3,9 +3,9 @@ title: "Section 709a - Expenses incurred in connection with leave canceled due t
 usc_title: 10
 usc_section: "709a"
 chapter: 40
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "10 U.S.C. § 709a"
-generated_at: "2026-03-29T23:20:11.181Z"
+generated_at: "2026-03-29T23:24:28.132Z"
 ---
 
 # § 709a. Expenses incurred in connection with leave canceled due to contingency operations: reimbursement

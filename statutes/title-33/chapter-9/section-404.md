@@ -3,9 +3,9 @@ title: "Section 404 - Establishment of harbor lines; conditions to grants for ex
 usc_title: 33
 usc_section: "404"
 chapter: 9
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "33 U.S.C. § 404"
-generated_at: "2026-03-29T23:22:27.757Z"
+generated_at: "2026-03-29T23:25:51.279Z"
 ---
 
 # § 404. Establishment of harbor lines; conditions to grants for extension of piers, etc.

@@ -3,9 +3,9 @@ title: "Section 3370 - Supply Chain and Counterintelligence Risk Management Task
 usc_title: 50
 usc_section: "3370"
 chapter: 45
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "50 U.S.C. § 3370"
-generated_at: "2026-03-29T23:23:39.093Z"
+generated_at: "2026-03-29T23:26:21.614Z"
 ---
 
 # § 3370. Supply Chain and Counterintelligence Risk Management Task Force

@@ -3,9 +3,9 @@ title: "Section 3051 - Powers of Special Agents 1 1 So in original. The words �
 usc_title: 18
 usc_section: "3051"
 chapter: 203
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "18 U.S.C. § 3051"
-generated_at: "2026-03-29T23:21:10.312Z"
+generated_at: "2026-03-29T23:25:16.620Z"
 ---
 
 # § 3051. Powers of Special Agents 1 1 So in original. The words “Special Agents” probably should not be capitalized. of Bureau of Alcohol, Tobacco, Firearms, and Explosives

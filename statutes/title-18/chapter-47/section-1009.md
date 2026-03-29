@@ -3,9 +3,9 @@ title: "Section 1009 - Repealed. Pub. L. 101–73, title IX , §§ 961(g)(1), 96
 usc_title: 18
 usc_section: "1009"
 chapter: 47
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "18 U.S.C. § 1009"
-generated_at: "2026-03-29T23:21:10.287Z"
+generated_at: "2026-03-29T23:25:16.596Z"
 ---
 
 # [§§ 1008, 1009. Repealed. Pub. L. 101–73, title IX , §§ 961(g)(1), 962(a)(3), Aug. 9, 1989 , 103 Stat. 500 , 502]

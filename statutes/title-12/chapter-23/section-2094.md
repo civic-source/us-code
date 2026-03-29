@@ -3,9 +3,9 @@ title: "Section 2094 - Federal land bank association capitalization"
 usc_title: 12
 usc_section: "2094"
 chapter: 23
-current_through: "PL 117-177"
+current_through: "PL 117-185"
 classification: "12 U.S.C. § 2094"
-generated_at: "2026-03-29T23:20:46.668Z"
+generated_at: "2026-03-29T23:24:55.273Z"
 ---
 
 # § 2094. Federal land bank association capitalization
