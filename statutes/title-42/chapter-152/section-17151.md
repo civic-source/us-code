@@ -5,7 +5,7 @@ usc_section: "17151"
 chapter: 152
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 17151"
-generated_at: "2026-03-29T20:06:11.835Z"
+generated_at: "2026-03-29T20:07:44.948Z"
 ---
 
 # § 17151. Definitions

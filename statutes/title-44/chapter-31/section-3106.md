@@ -5,7 +5,7 @@ usc_section: "3106"
 chapter: 31
 current_through: "PL 119-73"
 classification: "44 U.S.C. § 3106"
-generated_at: "2026-03-29T20:05:29.602Z"
+generated_at: "2026-03-29T20:06:03.289Z"
 ---
 
 # § 3106. Unlawful removal, destruction of records

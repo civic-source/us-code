@@ -5,7 +5,7 @@ usc_section: "5330"
 chapter: 53
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 5330"
-generated_at: "2026-03-29T20:06:28.140Z"
+generated_at: "2026-03-29T20:07:58.445Z"
 ---
 
 # [§ 5330. Repealed. Pub. L. 112–141, div. B, § 20030(e) , July 6, 2012 , 126 Stat. 731 ]

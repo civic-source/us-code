@@ -5,7 +5,7 @@ usc_section: "12003"
 chapter: 125
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 12003"
-generated_at: "2026-03-29T20:06:11.633Z"
+generated_at: "2026-03-29T20:07:44.739Z"
 ---
 
 # § 12003. National goals and multi-year funding for Federal alcohol from biomass and other technology programs

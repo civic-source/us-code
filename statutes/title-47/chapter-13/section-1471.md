@@ -5,7 +5,7 @@ usc_section: "1471"
 chapter: 13
 current_through: "PL 119-73"
 classification: "47 U.S.C. § 1471"
-generated_at: "2026-03-29T20:06:46.059Z"
+generated_at: "2026-03-29T20:08:02.549Z"
 ---
 
 # § 1471. Definitions

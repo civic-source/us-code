@@ -5,7 +5,7 @@ usc_section: "1553"
 chapter: 32
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 1553"
-generated_at: "2026-03-29T20:05:36.549Z"
+generated_at: "2026-03-29T20:06:00.056Z"
 ---
 
 # § 1553. Upper Colorado River Basin; rights to consumptive uses not to be reduced or prejudiced; duties and powers of Commission not impaired

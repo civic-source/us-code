@@ -5,7 +5,7 @@ usc_section: "3797dd"
 chapter: 46
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 3797dd"
-generated_at: "2026-03-29T20:06:11.108Z"
+generated_at: "2026-03-29T20:07:44.268Z"
 ---
 
 # § 3797dd. Transferred

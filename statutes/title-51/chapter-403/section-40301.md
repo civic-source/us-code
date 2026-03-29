@@ -5,7 +5,7 @@ usc_section: "40301"
 chapter: 403
 current_through: "PL 119-73"
 classification: "51 U.S.C. § 40301"
-generated_at: "2026-03-29T20:07:12.583Z"
+generated_at: "2026-03-29T20:08:15.821Z"
 ---
 
 # § 40301. Purposes

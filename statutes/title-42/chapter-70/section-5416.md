@@ -5,7 +5,7 @@ usc_section: "5416"
 chapter: 70
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 5416"
-generated_at: "2026-03-29T20:06:11.214Z"
+generated_at: "2026-03-29T20:07:44.372Z"
 ---
 
 # § 5416. Consumer’s manual; contents

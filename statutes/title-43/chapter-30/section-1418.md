@@ -5,7 +5,7 @@ usc_section: "1418"
 chapter: 30
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 1418"
-generated_at: "2026-03-29T20:05:36.537Z"
+generated_at: "2026-03-29T20:06:00.048Z"
 ---
 
 # §§ 1411 to 1418. Omitted

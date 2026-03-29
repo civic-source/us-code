@@ -5,7 +5,7 @@ usc_section: "629i"
 chapter: 7
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 629i"
-generated_at: "2026-03-29T20:06:10.390Z"
+generated_at: "2026-03-29T20:07:43.456Z"
 ---
 
 # § 629i. State partnership planning and demonstration grants to support meaningful relationships between foster children and the incarcerated parents of the children

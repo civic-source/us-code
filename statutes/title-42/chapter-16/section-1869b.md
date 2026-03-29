@@ -5,7 +5,7 @@ usc_section: "1869b"
 chapter: 16
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1869b"
-generated_at: "2026-03-29T20:06:10.937Z"
+generated_at: "2026-03-29T20:07:44.105Z"
 ---
 
 # § 1869b. Issuance of instructions to grantees of pre-college curriculum projects

@@ -5,7 +5,7 @@ usc_section: "1821"
 chapter: 17
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1821"
-generated_at: "2026-03-29T20:06:17.918Z"
+generated_at: "2026-03-29T20:08:00.019Z"
 ---
 
 # § 1821. District Court for the Northern Mariana Islands

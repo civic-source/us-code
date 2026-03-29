@@ -5,7 +5,7 @@ usc_section: "1397"
 chapter: 7
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1397"
-generated_at: "2026-03-29T20:06:17.895Z"
+generated_at: "2026-03-29T20:07:59.995Z"
 ---
 
 # § 1397. Income tax laws of United States in force; payment of proceeds; levy of surtax on all taxpayers

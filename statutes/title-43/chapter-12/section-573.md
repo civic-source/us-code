@@ -5,7 +5,7 @@ usc_section: "573"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 573"
-generated_at: "2026-03-29T20:05:36.492Z"
+generated_at: "2026-03-29T20:06:00.004Z"
 ---
 
 # § 573. Expenses of appraisement and sale; rules and regulations

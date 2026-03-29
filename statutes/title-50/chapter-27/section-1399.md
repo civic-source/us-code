@@ -5,7 +5,7 @@ usc_section: "1399"
 chapter: 27
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 1399"
-generated_at: "2026-03-29T20:06:21.040Z"
+generated_at: "2026-03-29T20:08:11.132Z"
 ---
 
 # § 1399. Omitted

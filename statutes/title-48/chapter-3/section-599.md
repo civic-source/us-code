@@ -5,7 +5,7 @@ usc_section: "599"
 chapter: 3
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 599"
-generated_at: "2026-03-29T20:06:17.890Z"
+generated_at: "2026-03-29T20:07:59.991Z"
 ---
 
 # §§ 561 to 599. Omitted

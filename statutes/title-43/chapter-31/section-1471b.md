@@ -5,7 +5,7 @@ usc_section: "1471b"
 chapter: 31
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 1471b"
-generated_at: "2026-03-29T20:05:36.538Z"
+generated_at: "2026-03-29T20:06:00.049Z"
 ---
 
 # § 1471b. Availability of appropriations for suppression and emergency prevention of forest and range fires

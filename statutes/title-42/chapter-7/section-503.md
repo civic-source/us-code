@@ -5,7 +5,7 @@ usc_section: "503"
 chapter: 7
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 503"
-generated_at: "2026-03-29T20:06:10.366Z"
+generated_at: "2026-03-29T20:07:43.428Z"
 ---
 
 # § 503. State laws

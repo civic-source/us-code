@@ -5,7 +5,7 @@ usc_section: "16601"
 chapter: 150
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 16601"
-generated_at: "2026-03-29T20:06:11.819Z"
+generated_at: "2026-03-29T20:07:44.931Z"
 ---
 
 # § 16601. Transferred

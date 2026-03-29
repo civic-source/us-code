@@ -5,7 +5,7 @@ usc_section: "12"
 chapter: 21
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 12"
-generated_at: "2026-03-29T20:06:10.961Z"
+generated_at: "2026-03-29T20:07:44.127Z"
 ---
 
 # § 2000e–12. Regulations; conformity of regulations with administrative procedure provisions; reliance on interpretations and instructions of Commission

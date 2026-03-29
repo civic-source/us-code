@@ -5,7 +5,7 @@ usc_section: "292r"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 292r"
-generated_at: "2026-03-29T20:06:10.150Z"
+generated_at: "2026-03-29T20:07:43.163Z"
 ---
 
 # § 292r. Loan provisions

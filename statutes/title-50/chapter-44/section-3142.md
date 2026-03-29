@@ -5,7 +5,7 @@ usc_section: "3142"
 chapter: 44
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 3142"
-generated_at: "2026-03-29T20:06:21.115Z"
+generated_at: "2026-03-29T20:08:11.209Z"
 ---
 
 # § 3142. Operational files of the National Geospatial-Intelligence Agency

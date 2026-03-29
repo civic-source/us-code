@@ -5,7 +5,7 @@ usc_section: "1997i"
 chapter: 21
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1997i"
-generated_at: "2026-03-29T20:06:10.953Z"
+generated_at: "2026-03-29T20:07:44.122Z"
 ---
 
 # § 1997i. Disclaimer respecting standards of care

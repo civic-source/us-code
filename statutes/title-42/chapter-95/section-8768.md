@@ -5,7 +5,7 @@ usc_section: "8768"
 chapter: 95
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 8768"
-generated_at: "2026-03-29T20:06:11.485Z"
+generated_at: "2026-03-29T20:07:44.611Z"
 ---
 
 # §§ 8761 to 8768. Omitted

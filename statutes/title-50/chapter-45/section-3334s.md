@@ -5,7 +5,7 @@ usc_section: "3334s"
 chapter: 45
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 3334s"
-generated_at: "2026-03-29T20:06:21.132Z"
+generated_at: "2026-03-29T20:08:11.224Z"
 ---
 
 # § 3334s. Programs for next-generation microelectronics in support of artificial intelligence

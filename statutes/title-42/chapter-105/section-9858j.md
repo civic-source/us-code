@@ -5,7 +5,7 @@ usc_section: "9858j"
 chapter: 105
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 9858j"
-generated_at: "2026-03-29T20:06:11.556Z"
+generated_at: "2026-03-29T20:07:44.670Z"
 ---
 
 # § 9858j. Reports, hotline, and Web site

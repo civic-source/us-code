@@ -5,7 +5,7 @@ usc_section: "6961"
 chapter: 82
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 6961"
-generated_at: "2026-03-29T20:06:11.319Z"
+generated_at: "2026-03-29T20:07:44.462Z"
 ---
 
 # § 6961. Application of Federal, State, and local law to Federal facilities

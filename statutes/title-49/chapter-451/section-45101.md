@@ -5,7 +5,7 @@ usc_section: "45101"
 chapter: 451
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 45101"
-generated_at: "2026-03-29T20:06:28.315Z"
+generated_at: "2026-03-29T20:07:58.628Z"
 ---
 
 # § 45101. Definition

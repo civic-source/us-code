@@ -5,7 +5,7 @@ usc_section: "11044"
 chapter: 116
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 11044"
-generated_at: "2026-03-29T20:06:11.603Z"
+generated_at: "2026-03-29T20:07:44.711Z"
 ---
 
 # § 11044. Public availability of plans, data sheets, forms, and followup notices

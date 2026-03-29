@@ -5,7 +5,7 @@ usc_section: "405a"
 chapter: 7
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 405a"
-generated_at: "2026-03-29T20:06:10.346Z"
+generated_at: "2026-03-29T20:07:43.404Z"
 ---
 
 # § 405a. Regulations pertaining to frequency or due dates of payments and reports under voluntary agreements covering State and local employees; effective date

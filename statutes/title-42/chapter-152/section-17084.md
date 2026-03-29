@@ -5,7 +5,7 @@ usc_section: "17084"
 chapter: 152
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 17084"
-generated_at: "2026-03-29T20:06:11.826Z"
+generated_at: "2026-03-29T20:07:44.938Z"
 ---
 
 # § 17084. Separate spaces with high-performance energy efficiency measures

@@ -5,7 +5,7 @@ usc_section: "1592n"
 chapter: 9
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1592n"
-generated_at: "2026-03-29T20:06:10.879Z"
+generated_at: "2026-03-29T20:07:44.032Z"
 ---
 
 # § 1592n. Definitions

@@ -5,7 +5,7 @@ usc_section: "60109"
 chapter: 601
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 60109"
-generated_at: "2026-03-29T20:06:28.353Z"
+generated_at: "2026-03-29T20:07:58.662Z"
 ---
 
 # § 60109. High-density population areas and environmentally sensitive areas

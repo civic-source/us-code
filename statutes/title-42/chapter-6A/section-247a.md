@@ -5,7 +5,7 @@ usc_section: "247a"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 247a"
-generated_at: "2026-03-29T20:06:09.970Z"
+generated_at: "2026-03-29T20:07:42.942Z"
 ---
 
 # § 247a. Family support groups for Alzheimer’s disease patients

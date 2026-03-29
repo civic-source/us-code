@@ -5,7 +5,7 @@ usc_section: "11313"
 chapter: 119
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 11313"
-generated_at: "2026-03-29T20:06:11.611Z"
+generated_at: "2026-03-29T20:07:44.718Z"
 ---
 
 # § 11313. Functions

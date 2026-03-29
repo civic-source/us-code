@@ -5,7 +5,7 @@ usc_section: "15063"
 chapter: 144
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 15063"
-generated_at: "2026-03-29T20:06:11.743Z"
+generated_at: "2026-03-29T20:07:44.847Z"
 ---
 
 # § 15063. Purpose and scope of activities

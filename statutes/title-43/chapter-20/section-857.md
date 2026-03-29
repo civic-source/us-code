@@ -5,7 +5,7 @@ usc_section: "857"
 chapter: 20
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 857"
-generated_at: "2026-03-29T20:05:36.508Z"
+generated_at: "2026-03-29T20:06:00.022Z"
 ---
 
 # § 857. Grant to new States

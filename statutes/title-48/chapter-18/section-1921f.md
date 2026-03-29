@@ -5,7 +5,7 @@ usc_section: "1921f"
 chapter: 18
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1921f"
-generated_at: "2026-03-29T20:06:17.931Z"
+generated_at: "2026-03-29T20:08:00.032Z"
 ---
 
 # § 1921f. Prohibition

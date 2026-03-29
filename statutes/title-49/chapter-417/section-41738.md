@@ -5,7 +5,7 @@ usc_section: "41738"
 chapter: 417
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 41738"
-generated_at: "2026-03-29T20:06:28.273Z"
+generated_at: "2026-03-29T20:07:58.588Z"
 ---
 
 # § 41738. Fitness of air carriers

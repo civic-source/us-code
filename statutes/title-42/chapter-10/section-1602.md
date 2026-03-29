@@ -5,7 +5,7 @@ usc_section: "1602"
 chapter: 10
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1602"
-generated_at: "2026-03-29T20:06:10.881Z"
+generated_at: "2026-03-29T20:07:44.037Z"
 ---
 
 # §§ 1601, 1602. Transferred

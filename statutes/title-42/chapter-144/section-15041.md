@@ -5,7 +5,7 @@ usc_section: "15041"
 chapter: 144
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 15041"
-generated_at: "2026-03-29T20:06:11.742Z"
+generated_at: "2026-03-29T20:07:44.845Z"
 ---
 
 # § 15041. Purpose

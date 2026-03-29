@@ -5,7 +5,7 @@ usc_section: "3102"
 chapter: 31
 current_through: "PL 119-73"
 classification: "44 U.S.C. § 3102"
-generated_at: "2026-03-29T20:05:29.602Z"
+generated_at: "2026-03-29T20:06:03.289Z"
 ---
 
 # § 3102. Establishment of program of management

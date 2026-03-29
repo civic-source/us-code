@@ -5,7 +5,7 @@ usc_section: "4327"
 chapter: 53
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 4327"
-generated_at: "2026-03-29T20:06:21.197Z"
+generated_at: "2026-03-29T20:08:11.282Z"
 ---
 
 # § 4327. Attachment or garnishment of funds or property held by Custodian

@@ -5,7 +5,7 @@ usc_section: "67"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 67"
-generated_at: "2026-03-29T20:06:10.273Z"
+generated_at: "2026-03-29T20:07:43.321Z"
 ---
 
 # § 300ff–67. Use of funds

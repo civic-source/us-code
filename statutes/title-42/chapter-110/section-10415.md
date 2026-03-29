@@ -5,7 +5,7 @@ usc_section: "10415"
 chapter: 110
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 10415"
-generated_at: "2026-03-29T20:06:11.594Z"
+generated_at: "2026-03-29T20:07:44.703Z"
 ---
 
 # § 10415. Repealed. Pub. L. 108–36, title IV, § 410 , June 25, 2003 , 117 Stat. 827

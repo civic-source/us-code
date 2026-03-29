@@ -5,7 +5,7 @@ usc_section: "629e"
 chapter: 7
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 629e"
-generated_at: "2026-03-29T20:06:10.387Z"
+generated_at: "2026-03-29T20:07:43.453Z"
 ---
 
 # § 629e. Evaluations; research; technical assistance

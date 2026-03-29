@@ -5,7 +5,7 @@ usc_section: "21"
 chapter: 1
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 21"
-generated_at: "2026-03-29T20:05:36.435Z"
+generated_at: "2026-03-29T20:05:59.956Z"
 ---
 
 # §§ 19 to 21. Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029

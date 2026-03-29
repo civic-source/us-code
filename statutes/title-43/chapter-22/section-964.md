@@ -5,7 +5,7 @@ usc_section: "964"
 chapter: 22
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 964"
-generated_at: "2026-03-29T20:05:36.521Z"
+generated_at: "2026-03-29T20:06:00.032Z"
 ---
 
 # § 964. Limit of time for completion of Colorado and Wyoming pipelines; forfeiture

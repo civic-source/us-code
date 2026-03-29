@@ -5,7 +5,7 @@ usc_section: "666"
 chapter: 15
 current_through: "PL 119-73"
 classification: "45 U.S.C. § 666"
-generated_at: "2026-03-29T20:05:24.336Z"
+generated_at: "2026-03-29T20:06:01.735Z"
 ---
 
 # § 666. Court supervision of expenditures; findings; report to Secretary

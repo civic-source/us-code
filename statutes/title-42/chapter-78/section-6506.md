@@ -5,7 +5,7 @@ usc_section: "6506"
 chapter: 78
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 6506"
-generated_at: "2026-03-29T20:06:11.284Z"
+generated_at: "2026-03-29T20:07:44.430Z"
 ---
 
 # § 6506. Applicability of antitrust provisions; plans and proposals submitted to Congress to contain report by Attorney General on impact of plans and proposals on competition

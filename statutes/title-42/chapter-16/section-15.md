@@ -5,7 +5,7 @@ usc_section: "15"
 chapter: 16
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 15"
-generated_at: "2026-03-29T20:06:10.929Z"
+generated_at: "2026-03-29T20:07:44.099Z"
 ---
 
 # § 1862p–15. Twenty-first century graduate education

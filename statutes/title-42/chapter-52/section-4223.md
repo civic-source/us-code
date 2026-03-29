@@ -5,7 +5,7 @@ usc_section: "4223"
 chapter: 52
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 4223"
-generated_at: "2026-03-29T20:06:11.125Z"
+generated_at: "2026-03-29T20:07:44.288Z"
 ---
 
 # §§ 4221 to 4223. Repealed. Pub. L. 97–258, § 5(b) , Sept. 13, 1982 , 96 Stat. 1068

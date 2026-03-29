@@ -5,7 +5,7 @@ usc_section: "170a"
 chapter: 2
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 170a"
-generated_at: "2026-03-29T20:06:17.889Z"
+generated_at: "2026-03-29T20:07:59.990Z"
 ---
 
 # §§ 161 to 170a. Omitted

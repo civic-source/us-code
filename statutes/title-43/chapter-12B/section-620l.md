@@ -5,7 +5,7 @@ usc_section: "620l"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 620l"
-generated_at: "2026-03-29T20:05:36.502Z"
+generated_at: "2026-03-29T20:06:00.015Z"
 ---
 
 # § 620l. Net power revenues

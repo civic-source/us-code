@@ -5,7 +5,7 @@ usc_section: "6371i"
 chapter: 77
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 6371i"
-generated_at: "2026-03-29T20:06:11.278Z"
+generated_at: "2026-03-29T20:07:44.425Z"
 ---
 
 # § 6371i. Records

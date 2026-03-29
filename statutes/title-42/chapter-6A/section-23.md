@@ -5,7 +5,7 @@ usc_section: "23"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 23"
-generated_at: "2026-03-29T20:06:10.326Z"
+generated_at: "2026-03-29T20:07:43.380Z"
 ---
 
 # § 300mm–23. National arrangement for benefits for eligible individuals outside New York

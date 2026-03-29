@@ -5,7 +5,7 @@ usc_section: "687"
 chapter: 7
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 687"
-generated_at: "2026-03-29T20:06:10.420Z"
+generated_at: "2026-03-29T20:07:43.490Z"
 ---
 
 # §§ 681 to 687. Repealed. Pub. L. 104–193, title I, § 108(e) , Aug. 22, 1996 , 110 Stat. 2167

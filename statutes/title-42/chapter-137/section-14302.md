@@ -5,7 +5,7 @@ usc_section: "14302"
 chapter: 137
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 14302"
-generated_at: "2026-03-29T20:06:11.728Z"
+generated_at: "2026-03-29T20:07:44.830Z"
 ---
 
 # § 14302. Definitions

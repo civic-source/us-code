@@ -5,7 +5,7 @@ usc_section: "30171"
 chapter: 301
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 30171"
-generated_at: "2026-03-29T20:06:28.215Z"
+generated_at: "2026-03-29T20:07:58.530Z"
 ---
 
 # § 30171. Protection of employees providing motor vehicle safety information

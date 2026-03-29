@@ -5,7 +5,7 @@ usc_section: "1594e"
 chapter: 9
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1594e"
-generated_at: "2026-03-29T20:06:10.881Z"
+generated_at: "2026-03-29T20:07:44.037Z"
 ---
 
 # § 1594e. Definitions

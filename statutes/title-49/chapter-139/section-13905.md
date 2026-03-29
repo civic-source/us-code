@@ -5,7 +5,7 @@ usc_section: "13905"
 chapter: 139
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 13905"
-generated_at: "2026-03-29T20:06:28.167Z"
+generated_at: "2026-03-29T20:07:58.479Z"
 ---
 
 # § 13905. Effective periods of registration

@@ -5,7 +5,7 @@ usc_section: "6422"
 chapter: 77
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 6422"
-generated_at: "2026-03-29T20:06:11.283Z"
+generated_at: "2026-03-29T20:07:44.429Z"
 ---
 
 # § 6422. Expedited procedure for Congressional consideration of certain authorities

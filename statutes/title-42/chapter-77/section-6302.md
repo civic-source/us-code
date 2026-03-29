@@ -5,7 +5,7 @@ usc_section: "6302"
 chapter: 77
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 6302"
-generated_at: "2026-03-29T20:06:11.258Z"
+generated_at: "2026-03-29T20:07:44.410Z"
 ---
 
 # § 6302. Prohibited acts

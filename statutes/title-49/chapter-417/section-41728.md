@@ -5,7 +5,7 @@ usc_section: "41728"
 chapter: 417
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 41728"
-generated_at: "2026-03-29T20:06:28.271Z"
+generated_at: "2026-03-29T20:07:58.587Z"
 ---
 
 # § 41728. Airline passengers with disabilities bill of rights

@@ -5,7 +5,7 @@ usc_section: "7435"
 chapter: 85
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 7435"
-generated_at: "2026-03-29T20:06:11.376Z"
+generated_at: "2026-03-29T20:07:44.517Z"
 ---
 
 # § 7435. Low emissions electricity program

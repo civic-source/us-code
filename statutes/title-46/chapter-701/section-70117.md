@@ -5,7 +5,7 @@ usc_section: "70117"
 chapter: 701
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 70117"
-generated_at: "2026-03-29T20:07:02.769Z"
+generated_at: "2026-03-29T20:08:05.399Z"
 ---
 
 # [§ 70117. Repealed. Pub. L. 111–281, title II, § 208(b) , Oct. 15, 2010 , 124 Stat. 2912 ]

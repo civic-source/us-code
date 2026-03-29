@@ -5,7 +5,7 @@ usc_section: "7"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 7"
-generated_at: "2026-03-29T20:05:36.494Z"
+generated_at: "2026-03-29T20:06:00.006Z"
 ---
 
 # §§ 616aaa to 616fff–7. Omitted

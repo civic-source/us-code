@@ -5,7 +5,7 @@ usc_section: "663"
 chapter: 7
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 663"
-generated_at: "2026-03-29T20:06:10.404Z"
+generated_at: "2026-03-29T20:07:43.473Z"
 ---
 
 # § 663. Use of Federal Parent Locator Service in connection with enforcement or determination of child custody in cases of parental kidnaping of child

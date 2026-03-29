@@ -5,7 +5,7 @@ usc_section: "5116h"
 chapter: 67
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 5116h"
-generated_at: "2026-03-29T20:06:11.174Z"
+generated_at: "2026-03-29T20:07:44.337Z"
 ---
 
 # § 5116h. Definitions

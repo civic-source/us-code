@@ -5,7 +5,7 @@ usc_section: "6736"
 chapter: 80
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 6736"
-generated_at: "2026-03-29T20:06:11.293Z"
+generated_at: "2026-03-29T20:07:44.440Z"
 ---
 
 # § 6736. Authorization of appropriations for Puerto Rico, Guam, American Samoa, and Virgin Islands

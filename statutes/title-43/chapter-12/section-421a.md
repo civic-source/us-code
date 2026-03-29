@@ -5,7 +5,7 @@ usc_section: "421a"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 421a"
-generated_at: "2026-03-29T20:05:36.472Z"
+generated_at: "2026-03-29T20:05:59.987Z"
 ---
 
 # § 421a. Construction of distribution and drainage systems by irrigation districts or public agencies

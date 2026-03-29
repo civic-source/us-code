@@ -5,7 +5,7 @@ usc_section: "2036"
 chapter: 23
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2036"
-generated_at: "2026-03-29T20:06:10.979Z"
+generated_at: "2026-03-29T20:07:44.144Z"
 ---
 
 # § 2036. Repealed. Pub. L. 95–91, title VII, § 709(c)(1) , Aug. 4, 1977 , 91 Stat. 608

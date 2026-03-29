@@ -5,7 +5,7 @@ usc_section: "30123"
 chapter: 301
 current_through: "PL 119-73"
 classification: "52 U.S.C. § 30123"
-generated_at: "2026-03-29T20:07:20.995Z"
+generated_at: "2026-03-29T20:08:22.777Z"
 ---
 
 # § 30123. Limitation on contribution of currency

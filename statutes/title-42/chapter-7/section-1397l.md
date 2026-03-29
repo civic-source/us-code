@@ -5,7 +5,7 @@ usc_section: "1397l"
 chapter: 7
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1397l"
-generated_at: "2026-03-29T20:06:10.803Z"
+generated_at: "2026-03-29T20:07:43.931Z"
 ---
 
 # § 1397l. Establishment and support of elder abuse, neglect, and exploitation forensic centers

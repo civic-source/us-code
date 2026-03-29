@@ -5,7 +5,7 @@ usc_section: "300l"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 300l"
-generated_at: "2026-03-29T20:06:10.223Z"
+generated_at: "2026-03-29T20:07:43.260Z"
 ---
 
 # § 300l. Requirement of matching funds

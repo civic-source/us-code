@@ -5,7 +5,7 @@ usc_section: "10742"
 chapter: 107
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 10742"
-generated_at: "2026-03-29T20:06:28.155Z"
+generated_at: "2026-03-29T20:07:58.464Z"
 ---
 
 # § 10742. Facilities for interchange of traffic

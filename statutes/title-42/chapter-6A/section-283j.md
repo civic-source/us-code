@@ -5,7 +5,7 @@ usc_section: "283j"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 283j"
-generated_at: "2026-03-29T20:06:10.075Z"
+generated_at: "2026-03-29T20:07:43.069Z"
 ---
 
 # § 283j. Repealed. Pub. L. 114–255, div. A, title II, § 2042(f)(1) , Dec. 13, 2016 , 130 Stat. 1073

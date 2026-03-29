@@ -5,7 +5,7 @@ usc_section: "3401"
 chapter: 42
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 3401"
-generated_at: "2026-03-29T20:06:11.088Z"
+generated_at: "2026-03-29T20:07:44.248Z"
 ---
 
 # § 3401. Declaration of policy

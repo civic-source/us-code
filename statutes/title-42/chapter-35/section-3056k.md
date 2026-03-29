@@ -5,7 +5,7 @@ usc_section: "3056k"
 chapter: 35
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 3056k"
-generated_at: "2026-03-29T20:06:11.066Z"
+generated_at: "2026-03-29T20:07:44.226Z"
 ---
 
 # § 3056k. Performance

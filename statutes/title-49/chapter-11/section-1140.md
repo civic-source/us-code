@@ -5,7 +5,7 @@ usc_section: "1140"
 chapter: 11
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 1140"
-generated_at: "2026-03-29T20:06:28.116Z"
+generated_at: "2026-03-29T20:07:58.419Z"
 ---
 
 # § 1140. Information individuals 1 1 So in original. Probably should be preceded by “for”. involved in accidents and families of such individuals

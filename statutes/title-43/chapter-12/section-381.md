@@ -5,7 +5,7 @@ usc_section: "381"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 381"
-generated_at: "2026-03-29T20:05:36.454Z"
+generated_at: "2026-03-29T20:05:59.973Z"
 ---
 
 # § 381. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 639

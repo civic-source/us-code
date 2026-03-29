@@ -5,7 +5,7 @@ usc_section: "3355a"
 chapter: 45
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 3355a"
-generated_at: "2026-03-29T20:06:21.139Z"
+generated_at: "2026-03-29T20:08:11.229Z"
 ---
 
 # § 3355a. Public Interest Declassification Board

@@ -5,7 +5,7 @@ usc_section: "31307"
 chapter: 313
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 31307"
-generated_at: "2026-03-29T20:07:02.701Z"
+generated_at: "2026-03-29T20:08:05.337Z"
 ---
 
 # § 31307. State statutes superseded

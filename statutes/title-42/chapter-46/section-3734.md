@@ -5,7 +5,7 @@ usc_section: "3734"
 chapter: 46
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 3734"
-generated_at: "2026-03-29T20:06:11.103Z"
+generated_at: "2026-03-29T20:07:44.265Z"
 ---
 
 # § 3734. Repealed. Pub. L. 98–473, title II, § 605(c) , Oct. 12, 1984 , 98 Stat. 2080

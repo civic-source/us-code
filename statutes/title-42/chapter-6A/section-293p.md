@@ -5,7 +5,7 @@ usc_section: "293p"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 293p"
-generated_at: "2026-03-29T20:06:10.157Z"
+generated_at: "2026-03-29T20:07:43.173Z"
 ---
 
 # §§ 293n to 293p. Repealed. Pub. L. 105–392, title I, § 102(4) , Nov. 13, 1998 , 112 Stat. 3539

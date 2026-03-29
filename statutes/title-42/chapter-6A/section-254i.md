@@ -5,7 +5,7 @@ usc_section: "254i"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 254i"
-generated_at: "2026-03-29T20:06:10.018Z"
+generated_at: "2026-03-29T20:07:42.997Z"
 ---
 
 # § 254i. Annual report to Congress; contents

@@ -5,7 +5,7 @@ usc_section: "11450"
 chapter: 119
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 11450"
-generated_at: "2026-03-29T20:06:11.624Z"
+generated_at: "2026-03-29T20:07:44.730Z"
 ---
 
 # §§ 11449, 11450. Repealed. Pub. L. 105–220, title I, § 199(a)(5) , Aug. 7, 1998 , 112 Stat. 1059

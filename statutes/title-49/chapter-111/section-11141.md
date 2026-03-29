@@ -5,7 +5,7 @@ usc_section: "11141"
 chapter: 111
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 11141"
-generated_at: "2026-03-29T20:06:28.157Z"
+generated_at: "2026-03-29T20:07:58.467Z"
 ---
 
 # § 11141. Definitions

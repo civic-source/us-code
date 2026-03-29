@@ -5,7 +5,7 @@ usc_section: "1902"
 chapter: 19
 current_through: "PL 119-73"
 classification: "41 U.S.C. § 1902"
-generated_at: "2026-03-29T20:05:26.589Z"
+generated_at: "2026-03-29T20:05:58.269Z"
 ---
 
 # § 1902. Procedures applicable to purchases below micro-purchase threshold

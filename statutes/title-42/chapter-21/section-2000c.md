@@ -5,7 +5,7 @@ usc_section: "2000c"
 chapter: 21
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2000c"
-generated_at: "2026-03-29T20:06:10.954Z"
+generated_at: "2026-03-29T20:07:44.123Z"
 ---
 
 # § 2000c. Definitions

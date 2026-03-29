@@ -5,7 +5,7 @@ usc_section: "5915a"
 chapter: 74
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 5915a"
-generated_at: "2026-03-29T20:06:11.231Z"
+generated_at: "2026-03-29T20:07:44.387Z"
 ---
 
 # § 5915a. Expiration of initial authorization to construct fossil energy demonstration plants

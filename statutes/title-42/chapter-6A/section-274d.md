@@ -5,7 +5,7 @@ usc_section: "274d"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 274d"
-generated_at: "2026-03-29T20:06:10.042Z"
+generated_at: "2026-03-29T20:07:43.026Z"
 ---
 
 # § 274d. Report

@@ -5,7 +5,7 @@ usc_section: "7270"
 chapter: 84
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 7270"
-generated_at: "2026-03-29T20:06:11.342Z"
+generated_at: "2026-03-29T20:07:44.483Z"
 ---
 
 # § 7270. Authorization of appropriations

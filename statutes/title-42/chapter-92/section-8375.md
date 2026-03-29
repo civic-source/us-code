@@ -5,7 +5,7 @@ usc_section: "8375"
 chapter: 92
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 8375"
-generated_at: "2026-03-29T20:06:11.472Z"
+generated_at: "2026-03-29T20:07:44.602Z"
 ---
 
 # § 8375. Repealed. Pub. L. 100–42, § 1(a)(5) , May 21, 1987 , 101 Stat. 310

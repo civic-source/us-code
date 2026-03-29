@@ -5,7 +5,7 @@ usc_section: "11203"
 chapter: 112
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 11203"
-generated_at: "2026-03-29T20:07:02.685Z"
+generated_at: "2026-03-29T20:08:05.321Z"
 ---
 
 # § 11203. Documentation of qualified service

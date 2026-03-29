@@ -5,7 +5,7 @@ usc_section: "1341"
 chapter: 22
 current_through: "PL 119-73"
 classification: "45 U.S.C. § 1341"
-generated_at: "2026-03-29T20:05:24.364Z"
+generated_at: "2026-03-29T20:06:01.760Z"
 ---
 
 # § 1341. Abolition of United States Railway Association

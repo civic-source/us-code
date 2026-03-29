@@ -5,7 +5,7 @@ usc_section: "11326"
 chapter: 113
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 11326"
-generated_at: "2026-03-29T20:06:28.158Z"
+generated_at: "2026-03-29T20:07:58.469Z"
 ---
 
 # § 11326. Employee protective arrangements in transactions involving rail carriers

@@ -5,7 +5,7 @@ usc_section: "260"
 chapter: 5
 current_through: "PL 119-73"
 classification: "47 U.S.C. § 260"
-generated_at: "2026-03-29T20:06:45.975Z"
+generated_at: "2026-03-29T20:08:02.466Z"
 ---
 
 # § 260. Provision of telemessaging service

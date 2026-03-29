@@ -5,7 +5,7 @@ usc_section: "1422d"
 chapter: 8
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1422d"
-generated_at: "2026-03-29T20:06:17.900Z"
+generated_at: "2026-03-29T20:07:59.999Z"
 ---
 
 # § 1422d. Transfer of functions from government comptroller for Guam to Inspector General, Department of the Interior

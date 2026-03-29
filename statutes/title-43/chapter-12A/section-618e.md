@@ -5,7 +5,7 @@ usc_section: "618e"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 618e"
-generated_at: "2026-03-29T20:05:36.497Z"
+generated_at: "2026-03-29T20:06:00.011Z"
 ---
 
 # § 618e. Interest payments; rate

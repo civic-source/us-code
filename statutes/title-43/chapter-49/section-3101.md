@@ -5,7 +5,7 @@ usc_section: "3101"
 chapter: 49
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 3101"
-generated_at: "2026-03-29T20:05:36.620Z"
+generated_at: "2026-03-29T20:06:00.121Z"
 ---
 
 # § 3101. Definitions

@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 9
 current_through: "PL 119-73"
 classification: "45 U.S.C. § 1"
-generated_at: "2026-03-29T20:05:24.319Z"
+generated_at: "2026-03-29T20:06:01.723Z"
 ---
 
 # § 231n–1. Social Security Equivalent Benefit Account

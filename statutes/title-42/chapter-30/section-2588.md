@@ -5,7 +5,7 @@ usc_section: "2588"
 chapter: 30
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2588"
-generated_at: "2026-03-29T20:06:11.028Z"
+generated_at: "2026-03-29T20:07:44.186Z"
 ---
 
 # § 2588. Repealed. Pub. L. 89–15, § 7 , Apr. 26, 1965 , 79 Stat. 78

@@ -5,7 +5,7 @@ usc_section: "320303"
 chapter: 3203
 current_through: "PL 119-73"
 classification: "54 U.S.C. § 320303"
-generated_at: "2026-03-29T20:07:09.921Z"
+generated_at: "2026-03-29T20:08:14.626Z"
 ---
 
 # § 320303. Regulations

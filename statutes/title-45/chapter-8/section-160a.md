@@ -5,7 +5,7 @@ usc_section: "160a"
 chapter: 8
 current_through: "PL 119-73"
 classification: "45 U.S.C. § 160a"
-generated_at: "2026-03-29T20:05:24.304Z"
+generated_at: "2026-03-29T20:06:01.710Z"
 ---
 
 # § 160a. Rules and regulations

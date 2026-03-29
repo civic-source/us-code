@@ -5,7 +5,7 @@ usc_section: "634a"
 chapter: 3
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 634a"
-generated_at: "2026-03-29T20:06:17.890Z"
+generated_at: "2026-03-29T20:07:59.991Z"
 ---
 
 # §§ 634, 634a. Repealed. Pub. L. 86–3, § 14(e) , Mar. 18, 1959 , 73 Stat. 10

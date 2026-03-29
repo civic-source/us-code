@@ -5,7 +5,7 @@ usc_section: "93"
 chapter: 5
 current_through: "PL 119-73"
 classification: "45 U.S.C. § 93"
-generated_at: "2026-03-29T20:05:24.298Z"
+generated_at: "2026-03-29T20:06:01.704Z"
 ---
 
 # § 93. Transferred

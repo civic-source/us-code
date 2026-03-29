@@ -5,7 +5,7 @@ usc_section: "6372"
 chapter: 77
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 6372"
-generated_at: "2026-03-29T20:06:11.278Z"
+generated_at: "2026-03-29T20:07:44.425Z"
 ---
 
 # § 6372. Definitions

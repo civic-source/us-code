@@ -5,7 +5,7 @@ usc_section: "737"
 chapter: 7
 current_through: "PL 119-73"
 classification: "44 U.S.C. § 737"
-generated_at: "2026-03-29T20:05:29.587Z"
+generated_at: "2026-03-29T20:06:03.272Z"
 ---
 
 # § 737. Binding for Senate library

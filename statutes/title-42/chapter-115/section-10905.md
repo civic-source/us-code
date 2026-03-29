@@ -5,7 +5,7 @@ usc_section: "10905"
 chapter: 115
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 10905"
-generated_at: "2026-03-29T20:06:11.599Z"
+generated_at: "2026-03-29T20:07:44.707Z"
 ---
 
 # § 10905. Authorization of appropriations

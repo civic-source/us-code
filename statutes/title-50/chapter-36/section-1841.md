@@ -5,7 +5,7 @@ usc_section: "1841"
 chapter: 36
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 1841"
-generated_at: "2026-03-29T20:06:21.056Z"
+generated_at: "2026-03-29T20:08:11.148Z"
 ---
 
 # § 1841. Definitions

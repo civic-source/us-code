@@ -5,7 +5,7 @@ usc_section: "2160c"
 chapter: 23
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2160c"
-generated_at: "2026-03-29T20:06:10.992Z"
+generated_at: "2026-03-29T20:07:44.154Z"
 ---
 
 # § 2160c. Consultation with Department of Defense concerning certain exports and subsequent arrangements

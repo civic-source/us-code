@@ -5,7 +5,7 @@ usc_section: "41713"
 chapter: 417
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 41713"
-generated_at: "2026-03-29T20:06:28.268Z"
+generated_at: "2026-03-29T20:07:58.584Z"
 ---
 
 # § 41713. Preemption of authority over prices, routes, and service

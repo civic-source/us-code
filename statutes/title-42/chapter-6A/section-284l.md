@@ -5,7 +5,7 @@ usc_section: "284l"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 284l"
-generated_at: "2026-03-29T20:06:10.080Z"
+generated_at: "2026-03-29T20:07:43.074Z"
 ---
 
 # § 284l. Enhancement awards

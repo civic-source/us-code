@@ -5,7 +5,7 @@ usc_section: "208"
 chapter: 9
 current_through: "PL 119-73"
 classification: "45 U.S.C. § 208"
-generated_at: "2026-03-29T20:05:24.305Z"
+generated_at: "2026-03-29T20:06:01.711Z"
 ---
 
 # §§ 201 to 208. Omitted

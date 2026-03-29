@@ -5,7 +5,7 @@ usc_section: "1397j"
 chapter: 7
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1397j"
-generated_at: "2026-03-29T20:06:10.802Z"
+generated_at: "2026-03-29T20:07:43.929Z"
 ---
 
 # § 1397j. Definitions

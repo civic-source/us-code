@@ -5,7 +5,7 @@ usc_section: "5b"
 chapter: 19
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 5b"
-generated_at: "2026-03-29T20:06:10.943Z"
+generated_at: "2026-03-29T20:07:44.112Z"
 ---
 
 # § 1962d–5b. Written agreement requirement for water resources projects

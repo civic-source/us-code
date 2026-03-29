@@ -5,7 +5,7 @@ usc_section: "21143"
 chapter: 209
 current_through: "PL 119-73"
 classification: "52 U.S.C. § 21143"
-generated_at: "2026-03-29T20:07:20.985Z"
+generated_at: "2026-03-29T20:08:22.768Z"
 ---
 
 # § 21143. Review and report on adequacy of existing electoral fraud statutes and penalties

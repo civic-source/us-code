@@ -5,7 +5,7 @@ usc_section: "6"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-29T20:06:10.282Z"
+generated_at: "2026-03-29T20:07:43.331Z"
 ---
 
 # § 300gg–6. Comprehensive health insurance coverage

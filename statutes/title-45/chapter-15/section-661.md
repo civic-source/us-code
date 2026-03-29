@@ -5,7 +5,7 @@ usc_section: "661"
 chapter: 15
 current_through: "PL 119-73"
 classification: "45 U.S.C. § 661"
-generated_at: "2026-03-29T20:05:24.331Z"
+generated_at: "2026-03-29T20:06:01.735Z"
 ---
 
 # § 661. Definitions

@@ -5,7 +5,7 @@ usc_section: "5322"
 chapter: 69
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 5322"
-generated_at: "2026-03-29T20:06:11.209Z"
+generated_at: "2026-03-29T20:07:44.368Z"
 ---
 
 # § 5322. Funds made available for administrative costs without regard to particular disaster appropriation

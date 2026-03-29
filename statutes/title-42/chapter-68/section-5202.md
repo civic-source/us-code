@@ -5,7 +5,7 @@ usc_section: "5202"
 chapter: 68
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 5202"
-generated_at: "2026-03-29T20:06:11.196Z"
+generated_at: "2026-03-29T20:07:44.358Z"
 ---
 
 # § 5202. Repealed. Pub. L. 100–707, title I, § 108(c) , Nov. 23, 1988 , 102 Stat. 4708

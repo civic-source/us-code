@@ -5,7 +5,7 @@ usc_section: "17272"
 chapter: 152
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 17272"
-generated_at: "2026-03-29T20:06:11.845Z"
+generated_at: "2026-03-29T20:07:44.959Z"
 ---
 
 # § 17272. Assessment of carbon sequestration and methane and nitrous oxide emissions from ecosystems

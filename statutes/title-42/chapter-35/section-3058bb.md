@@ -5,7 +5,7 @@ usc_section: "3058bb"
 chapter: 35
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 3058bb"
-generated_at: "2026-03-29T20:06:11.073Z"
+generated_at: "2026-03-29T20:07:44.236Z"
 ---
 
 # § 3058bb. Definitions

@@ -5,7 +5,7 @@ usc_section: "1824"
 chapter: 36
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 1824"
-generated_at: "2026-03-29T20:05:36.599Z"
+generated_at: "2026-03-29T20:06:00.102Z"
 ---
 
 # §§ 1811 to 1824. Repealed. Pub. L. 101–380, title II, § 2004 , Aug. 18, 1990 , 104 Stat. 507

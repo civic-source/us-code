@@ -5,7 +5,7 @@ usc_section: "114b"
 chapter: 7
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 114b"
-generated_at: "2026-03-29T20:06:10.632Z"
+generated_at: "2026-03-29T20:07:43.727Z"
 ---
 
 # § 1395w–114b. Manufacturer rebate for certain drugs with prices increasing faster than inflation

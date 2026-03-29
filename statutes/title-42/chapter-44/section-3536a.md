@@ -5,7 +5,7 @@ usc_section: "3536a"
 chapter: 44
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 3536a"
-generated_at: "2026-03-29T20:06:11.093Z"
+generated_at: "2026-03-29T20:07:44.256Z"
 ---
 
 # § 3536a. Report on interagency family economic empowerment strategies

@@ -5,7 +5,7 @@ usc_section: "113"
 chapter: 2
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 113"
-generated_at: "2026-03-29T20:06:09.945Z"
+generated_at: "2026-03-29T20:07:42.907Z"
 ---
 
 # § 113. Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , eff. Sept. 1, 1948

@@ -5,7 +5,7 @@ usc_section: "13013a"
 chapter: 132
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 13013a"
-generated_at: "2026-03-29T20:06:11.697Z"
+generated_at: "2026-03-29T20:07:44.800Z"
 ---
 
 # § 13013a. Omitted

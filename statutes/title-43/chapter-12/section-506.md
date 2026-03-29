@@ -5,7 +5,7 @@ usc_section: "506"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 506"
-generated_at: "2026-03-29T20:05:36.484Z"
+generated_at: "2026-03-29T20:05:59.999Z"
 ---
 
 # § 506. Authority of Secretary to make modifications

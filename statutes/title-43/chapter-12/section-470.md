@@ -5,7 +5,7 @@ usc_section: "470"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 470"
-generated_at: "2026-03-29T20:05:36.479Z"
+generated_at: "2026-03-29T20:05:59.994Z"
 ---
 
 # § 470. When work increasing construction charge may be undertaken

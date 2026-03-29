@@ -5,7 +5,7 @@ usc_section: "11343"
 chapter: 119
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 11343"
-generated_at: "2026-03-29T20:06:11.613Z"
+generated_at: "2026-03-29T20:07:44.720Z"
 ---
 
 # § 11343. Purposes of grants

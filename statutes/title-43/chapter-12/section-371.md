@@ -5,7 +5,7 @@ usc_section: "371"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 371"
-generated_at: "2026-03-29T20:05:36.452Z"
+generated_at: "2026-03-29T20:05:59.971Z"
 ---
 
 # § 371. Definitions

@@ -5,7 +5,7 @@ usc_section: "1437ee"
 chapter: 8
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1437ee"
-generated_at: "2026-03-29T20:06:10.850Z"
+generated_at: "2026-03-29T20:07:43.996Z"
 ---
 
 # §§ 1437aa to 1437ee. Repealed. Pub. L. 104–330, title V, § 501(a) , Oct. 26, 1996 , 110 Stat. 4041

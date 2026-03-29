@@ -5,7 +5,7 @@ usc_section: "1395fff"
 chapter: 7
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1395fff"
-generated_at: "2026-03-29T20:06:10.717Z"
+generated_at: "2026-03-29T20:07:43.828Z"
 ---
 
 # § 1395fff. Prospective payment for home health services

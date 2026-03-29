@@ -5,7 +5,7 @@ usc_section: "838"
 chapter: 17
 current_through: "PL 119-73"
 classification: "45 U.S.C. § 838"
-generated_at: "2026-03-29T20:05:24.351Z"
+generated_at: "2026-03-29T20:06:01.751Z"
 ---
 
 # §§ 837, 838. Repealed. Pub. L. 105–178, title VII, § 7203(a)(2) , June 9, 1998 , 112 Stat. 477

@@ -5,7 +5,7 @@ usc_section: "1009"
 chapter: 5
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1009"
-generated_at: "2026-03-29T20:06:17.894Z"
+generated_at: "2026-03-29T20:07:59.994Z"
 ---
 
 # § 1009. Repealed. Oct. 31, 1951, ch. 655, § 56(d) , 65 Stat. 729

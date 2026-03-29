@@ -5,7 +5,7 @@ usc_section: "1623"
 chapter: 33
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 1623"
-generated_at: "2026-03-29T20:05:36.563Z"
+generated_at: "2026-03-29T20:06:00.074Z"
 ---
 
 # § 1623. Authorization of appropriations

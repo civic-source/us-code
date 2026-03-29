@@ -5,7 +5,7 @@ usc_section: "1819"
 chapter: 14
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1819"
-generated_at: "2026-03-29T20:06:10.916Z"
+generated_at: "2026-03-29T20:07:44.082Z"
 ---
 
 # §§ 1801 to 1819. Transferred

@@ -5,7 +5,7 @@ usc_section: "22406"
 chapter: 224
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 22406"
-generated_at: "2026-03-29T20:06:28.192Z"
+generated_at: "2026-03-29T20:07:58.505Z"
 ---
 
 # § 22406. Authorization of appropriations. 1 1 So in original. The period probably should not appear.

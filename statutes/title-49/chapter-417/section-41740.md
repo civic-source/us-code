@@ -5,7 +5,7 @@ usc_section: "41740"
 chapter: 417
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 41740"
-generated_at: "2026-03-29T20:06:28.273Z"
+generated_at: "2026-03-29T20:07:58.588Z"
 ---
 
 # [§ 41740. Repealed. Pub. L. 118–63, title V, § 561(i) , May 16, 2024 , 138 Stat. 1216 ]

@@ -5,7 +5,7 @@ usc_section: "18842"
 chapter: 162
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 18842"
-generated_at: "2026-03-29T20:06:11.908Z"
+generated_at: "2026-03-29T20:07:45.027Z"
 ---
 
 # § 18842. Model guidance for combined heat and power systems and waste heat to power systems

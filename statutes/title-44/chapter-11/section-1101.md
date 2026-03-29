@@ -5,7 +5,7 @@ usc_section: "1101"
 chapter: 11
 current_through: "PL 119-73"
 classification: "44 U.S.C. § 1101"
-generated_at: "2026-03-29T20:05:29.589Z"
+generated_at: "2026-03-29T20:06:03.273Z"
 ---
 
 # § 1101. Printing and binding for the President

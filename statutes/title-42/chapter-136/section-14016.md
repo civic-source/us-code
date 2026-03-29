@@ -5,7 +5,7 @@ usc_section: "14016"
 chapter: 136
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 14016"
-generated_at: "2026-03-29T20:06:11.726Z"
+generated_at: "2026-03-29T20:07:44.828Z"
 ---
 
 # § 14016. Transferred

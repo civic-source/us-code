@@ -5,7 +5,7 @@ usc_section: "13107"
 chapter: 133
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 13107"
-generated_at: "2026-03-29T20:06:11.698Z"
+generated_at: "2026-03-29T20:07:44.801Z"
 ---
 
 # § 13107. EPA report

@@ -5,7 +5,7 @@ usc_section: "30125"
 chapter: 301
 current_through: "PL 119-73"
 classification: "52 U.S.C. § 30125"
-generated_at: "2026-03-29T20:07:20.996Z"
+generated_at: "2026-03-29T20:08:22.777Z"
 ---
 
 # § 30125. Soft money of political parties

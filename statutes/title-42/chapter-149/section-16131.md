@@ -5,7 +5,7 @@ usc_section: "16131"
 chapter: 149
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 16131"
-generated_at: "2026-03-29T20:06:11.770Z"
+generated_at: "2026-03-29T20:07:44.878Z"
 ---
 
 # § 16131. Definitions

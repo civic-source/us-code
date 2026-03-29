@@ -5,7 +5,7 @@ usc_section: "8108"
 chapter: 90
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 8108"
-generated_at: "2026-03-29T20:06:11.456Z"
+generated_at: "2026-03-29T20:07:44.589Z"
 ---
 
 # § 8108. Warnings to homeowners of foreclosure rescue scams

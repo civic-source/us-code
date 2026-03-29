@@ -5,7 +5,7 @@ usc_section: "3369d"
 chapter: 45
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 3369d"
-generated_at: "2026-03-29T20:06:21.143Z"
+generated_at: "2026-03-29T20:08:11.232Z"
 ---
 
 # § 3369d. Committee to counter active measures by the Russian Federation, the People’s Republic of China, the Islamic Republic of Iran, the Democratic People’s Republic of Korea, or other nation state to exert covert influence over peoples and governments

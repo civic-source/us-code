@@ -5,7 +5,7 @@ usc_section: "2703"
 chapter: 27
 current_through: "PL 119-73"
 classification: "44 U.S.C. § 2703"
-generated_at: "2026-03-29T20:05:29.601Z"
+generated_at: "2026-03-29T20:06:03.288Z"
 ---
 
 # § 2703. Functions of the Committee

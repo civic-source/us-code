@@ -5,7 +5,7 @@ usc_section: "14"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 14"
-generated_at: "2026-03-29T20:06:10.315Z"
+generated_at: "2026-03-29T20:07:43.367Z"
 ---
 
 # § 300jj–14. Process for adoption of endorsed recommendations; adoption of initial set of standards, implementation specifications, and certification criteria

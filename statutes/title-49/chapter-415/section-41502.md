@@ -5,7 +5,7 @@ usc_section: "41502"
 chapter: 415
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 41502"
-generated_at: "2026-03-29T20:06:28.266Z"
+generated_at: "2026-03-29T20:07:58.578Z"
 ---
 
 # § 41502. Establishing joint prices for through routes with other carriers

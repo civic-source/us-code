@@ -5,7 +5,7 @@ usc_section: "3220"
 chapter: 38
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 3220"
-generated_at: "2026-03-29T20:06:11.085Z"
+generated_at: "2026-03-29T20:07:44.245Z"
 ---
 
 # § 3220. Acceptance of certifications by applicants

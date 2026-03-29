@@ -5,7 +5,7 @@ usc_section: "19401"
 chapter: 164
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 19401"
-generated_at: "2026-03-29T20:06:11.939Z"
+generated_at: "2026-03-29T20:07:45.059Z"
 ---
 
 # § 19401. Findings

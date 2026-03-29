@@ -5,7 +5,7 @@ usc_section: "7623"
 chapter: 85
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 7623"
-generated_at: "2026-03-29T20:06:11.416Z"
+generated_at: "2026-03-29T20:07:44.554Z"
 ---
 
 # § 7623. Repealed. Pub. L. 96–300, § 1(c) , July 2, 1980 , 94 Stat. 831

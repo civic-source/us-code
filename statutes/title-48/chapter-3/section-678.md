@@ -5,7 +5,7 @@ usc_section: "678"
 chapter: 3
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 678"
-generated_at: "2026-03-29T20:06:17.891Z"
+generated_at: "2026-03-29T20:07:59.991Z"
 ---
 
 # §§ 661 to 678. Omitted

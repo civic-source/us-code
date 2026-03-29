@@ -5,7 +5,7 @@ usc_section: "293d"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 293d"
-generated_at: "2026-03-29T20:06:10.155Z"
+generated_at: "2026-03-29T20:07:43.170Z"
 ---
 
 # § 293d. Authorization of appropriation

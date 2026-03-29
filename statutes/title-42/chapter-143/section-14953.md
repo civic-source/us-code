@@ -5,7 +5,7 @@ usc_section: "14953"
 chapter: 143
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 14953"
-generated_at: "2026-03-29T20:06:11.736Z"
+generated_at: "2026-03-29T20:07:44.839Z"
 ---
 
 # § 14953. Relationship to other laws

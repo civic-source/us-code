@@ -5,7 +5,7 @@ usc_section: "20101"
 chapter: 201
 current_through: "PL 119-73"
 classification: "51 U.S.C. § 20101"
-generated_at: "2026-03-29T20:07:12.570Z"
+generated_at: "2026-03-29T20:08:15.812Z"
 ---
 
 # § 20101. Short title

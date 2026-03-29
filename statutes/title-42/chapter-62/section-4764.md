@@ -5,7 +5,7 @@ usc_section: "4764"
 chapter: 62
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 4764"
-generated_at: "2026-03-29T20:06:11.147Z"
+generated_at: "2026-03-29T20:07:44.311Z"
 ---
 
 # § 4764. Reporting and recordkeeping requirements for State or local governments and other organizations

@@ -5,7 +5,7 @@ usc_section: "1480b"
 chapter: 10
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1480b"
-generated_at: "2026-03-29T20:06:17.903Z"
+generated_at: "2026-03-29T20:08:00.002Z"
 ---
 
 # §§ 1480 to 1480b. Repealed. Pub. L. 95–584, § 1 , Nov. 2, 1978 , 92 Stat. 2483

@@ -5,7 +5,7 @@ usc_section: "81"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 81"
-generated_at: "2026-03-29T20:06:10.273Z"
+generated_at: "2026-03-29T20:07:43.322Z"
 ---
 
 # § 300ff–81. Coordination

@@ -5,7 +5,7 @@ usc_section: "26a"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 26a"
-generated_at: "2026-03-29T20:06:10.240Z"
+generated_at: "2026-03-29T20:07:43.279Z"
 ---
 
 # § 300x–26a. Repealed. Pub. L. 116–94, div. N, title I, § 604(c) , Dec. 20, 2019 , 133 Stat. 3127

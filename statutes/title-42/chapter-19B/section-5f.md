@@ -5,7 +5,7 @@ usc_section: "5f"
 chapter: 19
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 5f"
-generated_at: "2026-03-29T20:06:10.944Z"
+generated_at: "2026-03-29T20:07:44.113Z"
 ---
 
 # § 1962d–5f. Beach nourishment

@@ -5,7 +5,7 @@ usc_section: "6a"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 6a"
-generated_at: "2026-03-29T20:06:10.229Z"
+generated_at: "2026-03-29T20:07:43.266Z"
 ---
 
 # § 300u–6a. Individual offices of minority health within the Department

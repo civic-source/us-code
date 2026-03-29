@@ -5,7 +5,7 @@ usc_section: "21145"
 chapter: 209
 current_through: "PL 119-73"
 classification: "52 U.S.C. § 21145"
-generated_at: "2026-03-29T20:07:20.986Z"
+generated_at: "2026-03-29T20:08:22.768Z"
 ---
 
 # § 21145. No effect on other laws

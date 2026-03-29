@@ -5,7 +5,7 @@ usc_section: "1323a"
 chapter: 6
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1323a"
-generated_at: "2026-03-29T20:06:17.894Z"
+generated_at: "2026-03-29T20:07:59.994Z"
 ---
 
 # § 1323a. Omitted

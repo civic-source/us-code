@@ -5,7 +5,7 @@ usc_section: "797f"
 chapter: 16
 current_through: "PL 119-73"
 classification: "45 U.S.C. § 797f"
-generated_at: "2026-03-29T20:05:24.349Z"
+generated_at: "2026-03-29T20:06:01.749Z"
 ---
 
 # § 797f. Contracting out

@@ -5,7 +5,7 @@ usc_section: "3742"
 chapter: 48
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 3742"
-generated_at: "2026-03-29T20:06:21.168Z"
+generated_at: "2026-03-29T20:08:11.254Z"
 ---
 
 # §§ 3741, 3742. Repealed. Pub. L. 115–91, div. A, title X, § 1051(t)(7) , (8), Dec. 12, 2017 , 131 Stat. 1566

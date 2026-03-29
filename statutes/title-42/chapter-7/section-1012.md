@@ -5,7 +5,7 @@ usc_section: "1012"
 chapter: 7
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1012"
-generated_at: "2026-03-29T20:06:10.440Z"
+generated_at: "2026-03-29T20:07:43.513Z"
 ---
 
 # § 1012. Definitions

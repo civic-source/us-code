@@ -5,7 +5,7 @@ usc_section: "8"
 chapter: 19
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-29T20:06:10.939Z"
+generated_at: "2026-03-29T20:07:44.108Z"
 ---
 
 # §§ 1961c to 1961c–8. Repealed. Pub. L. 95–467, title IV, § 410(a) , Oct. 17, 1978 , 92 Stat. 1316

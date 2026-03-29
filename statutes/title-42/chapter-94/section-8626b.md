@@ -5,7 +5,7 @@ usc_section: "8626b"
 chapter: 94
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 8626b"
-generated_at: "2026-03-29T20:06:11.484Z"
+generated_at: "2026-03-29T20:07:44.610Z"
 ---
 
 # § 8626b. Residential Energy Assistance Challenge option (R.E.A.Ch.)

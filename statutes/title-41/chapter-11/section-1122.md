@@ -5,7 +5,7 @@ usc_section: "1122"
 chapter: 11
 current_through: "PL 119-73"
 classification: "41 U.S.C. § 1122"
-generated_at: "2026-03-29T20:05:26.581Z"
+generated_at: "2026-03-29T20:05:58.260Z"
 ---
 
 # § 1122. Functions

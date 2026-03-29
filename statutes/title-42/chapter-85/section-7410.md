@@ -5,7 +5,7 @@ usc_section: "7410"
 chapter: 85
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 7410"
-generated_at: "2026-03-29T20:06:11.360Z"
+generated_at: "2026-03-29T20:07:44.501Z"
 ---
 
 # § 7410. State implementation plans for national primary and secondary ambient air quality standards

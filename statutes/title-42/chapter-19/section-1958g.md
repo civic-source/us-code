@@ -5,7 +5,7 @@ usc_section: "1958g"
 chapter: 19
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1958g"
-generated_at: "2026-03-29T20:06:10.939Z"
+generated_at: "2026-03-29T20:07:44.108Z"
 ---
 
 # §§ 1958a to 1958g. Omitted

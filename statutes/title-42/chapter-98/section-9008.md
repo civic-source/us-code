@@ -5,7 +5,7 @@ usc_section: "9008"
 chapter: 98
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 9008"
-generated_at: "2026-03-29T20:06:11.492Z"
+generated_at: "2026-03-29T20:07:44.618Z"
 ---
 
 # § 9008. Definitions

@@ -5,7 +5,7 @@ usc_section: "1688"
 chapter: 14
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1688"
-generated_at: "2026-03-29T20:06:17.914Z"
+generated_at: "2026-03-29T20:08:00.014Z"
 ---
 
 # § 1688. Trust Territory of the Pacific Islands Economic Development Loan Fund

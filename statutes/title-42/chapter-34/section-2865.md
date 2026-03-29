@@ -5,7 +5,7 @@ usc_section: "2865"
 chapter: 34
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2865"
-generated_at: "2026-03-29T20:06:11.033Z"
+generated_at: "2026-03-29T20:07:44.189Z"
 ---
 
 # §§ 2861 to 2865. Repealed. Pub. L. 95–568, § 8(a)(2) , Nov. 2, 1978 , 92 Stat. 2428

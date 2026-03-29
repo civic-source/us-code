@@ -5,7 +5,7 @@ usc_section: "1314"
 chapter: 29
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 1314"
-generated_at: "2026-03-29T20:05:36.526Z"
+generated_at: "2026-03-29T20:06:00.037Z"
 ---
 
 # § 1314. Rights and powers retained by United States; purchase of natural resources; condemnation of lands

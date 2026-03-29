@@ -5,7 +5,7 @@ usc_section: "1655"
 chapter: 11
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1655"
-generated_at: "2026-03-29T20:06:10.881Z"
+generated_at: "2026-03-29T20:07:44.037Z"
 ---
 
 # § 1655. Requirement for Department of Defense to adopt an acquisition strategy for Defense Base Act insurance

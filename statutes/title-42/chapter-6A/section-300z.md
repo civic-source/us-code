@@ -5,7 +5,7 @@ usc_section: "300z"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 300z"
-generated_at: "2026-03-29T20:06:10.245Z"
+generated_at: "2026-03-29T20:07:43.285Z"
 ---
 
 # § 300z. Findings and purposes

@@ -5,7 +5,7 @@ usc_section: "24709"
 chapter: 247
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 24709"
-generated_at: "2026-03-29T20:06:28.203Z"
+generated_at: "2026-03-29T20:07:58.514Z"
 ---
 
 # § 24709. International transportation

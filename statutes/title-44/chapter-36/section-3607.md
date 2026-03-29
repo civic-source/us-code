@@ -5,7 +5,7 @@ usc_section: "3607"
 chapter: 36
 current_through: "PL 119-73"
 classification: "44 U.S.C. § 3607"
-generated_at: "2026-03-29T20:05:29.618Z"
+generated_at: "2026-03-29T20:06:03.300Z"
 ---
 
 # § 3607. Definitions

@@ -5,7 +5,7 @@ usc_section: "1434"
 chapter: 29
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 1434"
-generated_at: "2026-03-29T20:06:21.041Z"
+generated_at: "2026-03-29T20:08:11.132Z"
 ---
 
 # § 1434. Repealed. Pub. L. 105–362, title IX, § 901(r)(1)(A) , Nov. 10, 1998 , 112 Stat. 3291

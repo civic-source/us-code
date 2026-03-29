@@ -5,7 +5,7 @@ usc_section: "662"
 chapter: 15
 current_through: "PL 119-73"
 classification: "45 U.S.C. § 662"
-generated_at: "2026-03-29T20:05:24.335Z"
+generated_at: "2026-03-29T20:06:01.735Z"
 ---
 
 # § 662. Guarantee of certificates

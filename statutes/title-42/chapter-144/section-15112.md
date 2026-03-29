@@ -5,7 +5,7 @@ usc_section: "15112"
 chapter: 144
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 15112"
-generated_at: "2026-03-29T20:06:11.745Z"
+generated_at: "2026-03-29T20:07:44.849Z"
 ---
 
 # § 15112. Definitions

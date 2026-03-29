@@ -5,7 +5,7 @@ usc_section: "51303"
 chapter: 513
 current_through: "PL 119-73"
 classification: "51 U.S.C. § 51303"
-generated_at: "2026-03-29T20:07:12.591Z"
+generated_at: "2026-03-29T20:08:15.830Z"
 ---
 
 # § 51303. Asteroid resource and space resource rights

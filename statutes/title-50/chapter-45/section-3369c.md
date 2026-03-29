@@ -5,7 +5,7 @@ usc_section: "3369c"
 chapter: 45
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 3369c"
-generated_at: "2026-03-29T20:06:21.143Z"
+generated_at: "2026-03-29T20:08:11.232Z"
 ---
 
 # § 3369c. Notification of an active measures campaign

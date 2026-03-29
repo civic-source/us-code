@@ -5,7 +5,7 @@ usc_section: "2122a"
 chapter: 23
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2122a"
-generated_at: "2026-03-29T20:06:10.987Z"
+generated_at: "2026-03-29T20:07:44.149Z"
 ---
 
 # § 2122a. Repealed. Pub. L. 106–65, div. C, title XXXII, § 3294(e)(1)(A) , Oct. 5, 1999 , 113 Stat. 970

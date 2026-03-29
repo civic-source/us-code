@@ -5,7 +5,7 @@ usc_section: "862"
 chapter: 4
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 862"
-generated_at: "2026-03-29T20:06:17.893Z"
+generated_at: "2026-03-29T20:07:59.993Z"
 ---
 
 # § 862. Omitted

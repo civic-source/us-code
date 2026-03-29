@@ -5,7 +5,7 @@ usc_section: "9"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-03-29T20:06:10.322Z"
+generated_at: "2026-03-29T20:07:43.375Z"
 ---
 
 # §§ 300ll to 300ll–9. Repealed. Pub. L. 112–240, title VI, § 642(a) , Jan. 2, 2013 , 126 Stat. 2358

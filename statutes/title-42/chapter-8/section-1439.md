@@ -5,7 +5,7 @@ usc_section: "1439"
 chapter: 8
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1439"
-generated_at: "2026-03-29T20:06:10.855Z"
+generated_at: "2026-03-29T20:07:43.999Z"
 ---
 
 # § 1439. Local housing assistance plan

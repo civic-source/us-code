@@ -5,7 +5,7 @@ usc_section: "752"
 chapter: 6
 current_through: "PL 119-73"
 classification: "47 U.S.C. § 752"
-generated_at: "2026-03-29T20:06:46.033Z"
+generated_at: "2026-03-29T20:08:02.523Z"
 ---
 
 # §§ 751, 752. Omitted

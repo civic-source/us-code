@@ -5,7 +5,7 @@ usc_section: "1395z"
 chapter: 7
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1395z"
-generated_at: "2026-03-29T20:06:10.656Z"
+generated_at: "2026-03-29T20:07:43.755Z"
 ---
 
 # § 1395z. Consultation with State agencies and other organizations to develop conditions of participation for providers of services

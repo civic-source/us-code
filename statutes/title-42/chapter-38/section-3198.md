@@ -5,7 +5,7 @@ usc_section: "3198"
 chapter: 38
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 3198"
-generated_at: "2026-03-29T20:06:11.083Z"
+generated_at: "2026-03-29T20:07:44.243Z"
 ---
 
 # § 3198. Office of Tribal Economic Development

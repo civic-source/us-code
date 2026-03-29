@@ -5,7 +5,7 @@ usc_section: "6862"
 chapter: 81
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 6862"
-generated_at: "2026-03-29T20:06:11.296Z"
+generated_at: "2026-03-29T20:07:44.442Z"
 ---
 
 # § 6862. Definitions

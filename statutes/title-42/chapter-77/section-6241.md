@@ -5,7 +5,7 @@ usc_section: "6241"
 chapter: 77
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 6241"
-generated_at: "2026-03-29T20:06:11.235Z"
+generated_at: "2026-03-29T20:07:44.390Z"
 ---
 
 # § 6241. Drawdown and sale of petroleum products

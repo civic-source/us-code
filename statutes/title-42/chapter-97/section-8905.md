@@ -5,7 +5,7 @@ usc_section: "8905"
 chapter: 97
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 8905"
-generated_at: "2026-03-29T20:06:11.490Z"
+generated_at: "2026-03-29T20:07:44.615Z"
 ---
 
 # § 8905. Authorization of appropriations

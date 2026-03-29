@@ -5,7 +5,7 @@ usc_section: "404o"
 chapter: 15
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 404o"
-generated_at: "2026-03-29T20:06:21.032Z"
+generated_at: "2026-03-29T20:08:11.128Z"
 ---
 
 # § 404o. Transferred

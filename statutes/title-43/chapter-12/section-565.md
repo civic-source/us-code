@@ -5,7 +5,7 @@ usc_section: "565"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 565"
-generated_at: "2026-03-29T20:05:36.491Z"
+generated_at: "2026-03-29T20:06:00.003Z"
 ---
 
 # § 565. Terms of sale of town lots; installments of price

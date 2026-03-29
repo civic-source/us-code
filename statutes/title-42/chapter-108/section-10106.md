@@ -5,7 +5,7 @@ usc_section: "10106"
 chapter: 108
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 10106"
-generated_at: "2026-03-29T20:06:11.569Z"
+generated_at: "2026-03-29T20:07:44.681Z"
 ---
 
 # § 10106. Protection of classified national security information

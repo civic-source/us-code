@@ -5,7 +5,7 @@ usc_section: "1502a"
 chapter: 9
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1502a"
-generated_at: "2026-03-29T20:06:10.872Z"
+generated_at: "2026-03-29T20:07:44.023Z"
 ---
 
 # § 1502a. Repealed. Pub. L. 85–861, § 36A , Sept. 2, 1958 , 72 Stat. 1569

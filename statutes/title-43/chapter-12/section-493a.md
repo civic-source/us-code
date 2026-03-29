@@ -5,7 +5,7 @@ usc_section: "493a"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 493a"
-generated_at: "2026-03-29T20:05:36.483Z"
+generated_at: "2026-03-29T20:05:59.998Z"
 ---
 
 # § 493a. Omitted

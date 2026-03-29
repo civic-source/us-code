@@ -5,7 +5,7 @@ usc_section: "1166"
 chapter: 28
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 1166"
-generated_at: "2026-03-29T20:05:36.525Z"
+generated_at: "2026-03-29T20:06:00.036Z"
 ---
 
 # § 1166. Transferred

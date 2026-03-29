@@ -5,7 +5,7 @@ usc_section: "2072"
 chapter: 23
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2072"
-generated_at: "2026-03-29T20:06:10.981Z"
+generated_at: "2026-03-29T20:07:44.145Z"
 ---
 
 # § 2072. Repealed. Pub. L. 88–489, § 4 , Aug. 26, 1964 , 78 Stat. 603

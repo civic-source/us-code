@@ -5,7 +5,7 @@ usc_section: "3024"
 chapter: 44
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 3024"
-generated_at: "2026-03-29T20:06:21.092Z"
+generated_at: "2026-03-29T20:08:11.186Z"
 ---
 
 # § 3024. Responsibilities and authorities of the Director of National Intelligence

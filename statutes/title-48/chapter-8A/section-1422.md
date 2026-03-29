@@ -5,7 +5,7 @@ usc_section: "1422"
 chapter: 8
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1422"
-generated_at: "2026-03-29T20:06:17.899Z"
+generated_at: "2026-03-29T20:07:59.999Z"
 ---
 
 # § 1422. Governor and Lieutenant Governor; term of office; qualifications; powers and duties; annual report to Congress

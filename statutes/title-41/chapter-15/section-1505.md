@@ -5,7 +5,7 @@ usc_section: "1505"
 chapter: 15
 current_through: "PL 119-73"
 classification: "41 U.S.C. § 1505"
-generated_at: "2026-03-29T20:05:26.585Z"
+generated_at: "2026-03-29T20:05:58.265Z"
 ---
 
 # § 1505. Examinations

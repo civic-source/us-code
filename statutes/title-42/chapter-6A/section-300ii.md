@@ -5,7 +5,7 @@ usc_section: "300ii"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 300ii"
-generated_at: "2026-03-29T20:06:10.311Z"
+generated_at: "2026-03-29T20:07:43.362Z"
 ---
 
 # § 300ii. Definitions

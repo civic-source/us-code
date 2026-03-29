@@ -5,7 +5,7 @@ usc_section: "201"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 201"
-generated_at: "2026-03-29T20:06:09.946Z"
+generated_at: "2026-03-29T20:07:42.907Z"
 ---
 
 # § 201. Definitions

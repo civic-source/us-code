@@ -5,7 +5,7 @@ usc_section: "2286k"
 chapter: 23
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2286k"
-generated_at: "2026-03-29T20:06:11.015Z"
+generated_at: "2026-03-29T20:07:44.174Z"
 ---
 
 # § 2286k. Inspector General

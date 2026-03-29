@@ -5,7 +5,7 @@ usc_section: "503"
 chapter: 19
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 503"
-generated_at: "2026-03-29T20:06:21.036Z"
+generated_at: "2026-03-29T20:08:11.129Z"
 ---
 
 # § 503. Authorization of appropriations

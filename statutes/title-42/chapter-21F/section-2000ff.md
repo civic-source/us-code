@@ -5,7 +5,7 @@ usc_section: "2000ff"
 chapter: 21
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2000ff"
-generated_at: "2026-03-29T20:06:10.968Z"
+generated_at: "2026-03-29T20:07:44.132Z"
 ---
 
 # § 2000ff. Definitions

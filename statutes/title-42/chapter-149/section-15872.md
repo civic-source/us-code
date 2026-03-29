@@ -5,7 +5,7 @@ usc_section: "15872"
 chapter: 149
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 15872"
-generated_at: "2026-03-29T20:06:11.751Z"
+generated_at: "2026-03-29T20:07:44.860Z"
 ---
 
 # § 15872. Assessment of geothermal energy potential

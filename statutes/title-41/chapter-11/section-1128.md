@@ -5,7 +5,7 @@ usc_section: "1128"
 chapter: 11
 current_through: "PL 119-73"
 classification: "41 U.S.C. § 1128"
-generated_at: "2026-03-29T20:05:26.582Z"
+generated_at: "2026-03-29T20:05:58.261Z"
 ---
 
 # § 1128. Maintaining necessary capability with respect to acquisition of architectural and engineering services

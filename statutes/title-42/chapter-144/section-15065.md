@@ -5,7 +5,7 @@ usc_section: "15065"
 chapter: 144
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 15065"
-generated_at: "2026-03-29T20:06:11.744Z"
+generated_at: "2026-03-29T20:07:44.847Z"
 ---
 
 # § 15065. Definition

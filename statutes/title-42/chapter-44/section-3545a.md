@@ -5,7 +5,7 @@ usc_section: "3545a"
 chapter: 44
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 3545a"
-generated_at: "2026-03-29T20:06:11.097Z"
+generated_at: "2026-03-29T20:07:44.259Z"
 ---
 
 # § 3545a. Notification of issuance of electronic notice of availability of assistance or funding to be competitively awarded for certain programs or discretionary funds

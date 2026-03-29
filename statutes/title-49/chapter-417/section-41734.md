@@ -5,7 +5,7 @@ usc_section: "41734"
 chapter: 417
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 41734"
-generated_at: "2026-03-29T20:06:28.272Z"
+generated_at: "2026-03-29T20:07:58.588Z"
 ---
 
 # § 41734. Ending, suspending, and reducing basic essential air service

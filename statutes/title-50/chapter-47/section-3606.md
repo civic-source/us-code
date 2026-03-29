@@ -5,7 +5,7 @@ usc_section: "3606"
 chapter: 47
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 3606"
-generated_at: "2026-03-29T20:06:21.164Z"
+generated_at: "2026-03-29T20:08:11.251Z"
 ---
 
 # § 3606. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 660

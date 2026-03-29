@@ -5,7 +5,7 @@ usc_section: "7144"
 chapter: 84
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 7144"
-generated_at: "2026-03-29T20:06:11.334Z"
+generated_at: "2026-03-29T20:07:44.477Z"
 ---
 
 # § 7144. Establishment of policy for National Nuclear Security Administration

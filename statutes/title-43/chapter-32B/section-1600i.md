@@ -5,7 +5,7 @@ usc_section: "1600i"
 chapter: 32
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 1600i"
-generated_at: "2026-03-29T20:05:36.553Z"
+generated_at: "2026-03-29T20:06:00.062Z"
 ---
 
 # § 1600i. Reports to Congress

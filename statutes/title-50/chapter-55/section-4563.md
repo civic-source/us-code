@@ -5,7 +5,7 @@ usc_section: "4563"
 chapter: 55
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 4563"
-generated_at: "2026-03-29T20:06:21.205Z"
+generated_at: "2026-03-29T20:08:11.288Z"
 ---
 
 # § 4563. Separability

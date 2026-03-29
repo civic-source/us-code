@@ -5,7 +5,7 @@ usc_section: "2922"
 chapter: 43
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 2922"
-generated_at: "2026-03-29T20:06:21.091Z"
+generated_at: "2026-03-29T20:08:11.184Z"
 ---
 
 # § 2922. Authorization of appropriations for the Department of Defense Cooperative Threat Reduction Program

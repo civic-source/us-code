@@ -5,7 +5,7 @@ usc_section: "315f"
 chapter: 8
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 315f"
-generated_at: "2026-03-29T20:05:36.447Z"
+generated_at: "2026-03-29T20:05:59.967Z"
 ---
 
 # § 315f. Homestead entry within district or withdrawn lands; classification; preferences

@@ -5,7 +5,7 @@ usc_section: "755"
 chapter: 22
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 755"
-generated_at: "2026-03-29T20:06:21.037Z"
+generated_at: "2026-03-29T20:08:11.130Z"
 ---
 
 # §§ 751 to 755. Repealed. Pub. L. 85–861, § 36A , Sept. 2, 1958 , 72 Stat. 1570

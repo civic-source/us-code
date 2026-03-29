@@ -5,7 +5,7 @@ usc_section: "5302"
 chapter: 69
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 5302"
-generated_at: "2026-03-29T20:06:11.198Z"
+generated_at: "2026-03-29T20:07:44.359Z"
 ---
 
 # § 5302. General provisions

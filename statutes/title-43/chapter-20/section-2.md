@@ -5,7 +5,7 @@ usc_section: "2"
 chapter: 20
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 2"
-generated_at: "2026-03-29T20:05:36.510Z"
+generated_at: "2026-03-29T20:06:00.023Z"
 ---
 
 # § 869–2. Conditions of transfer by grantee; solid waste disposal

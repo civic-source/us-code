@@ -5,7 +5,7 @@ usc_section: "1396k"
 chapter: 7
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1396k"
-generated_at: "2026-03-29T20:06:10.754Z"
+generated_at: "2026-03-29T20:07:43.866Z"
 ---
 
 # § 1396k. Assignment, enforcement, and collection of rights of payments for medical care; establishment of procedures pursuant to State plan; amounts retained by State

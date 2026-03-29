@@ -5,7 +5,7 @@ usc_section: "1983"
 chapter: 18
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1983"
-generated_at: "2026-03-29T20:06:17.935Z"
+generated_at: "2026-03-29T20:08:00.035Z"
 ---
 
 # § 1983. Approval of 2023 Agreement to Amend the U.S.-FSM Compact, 2023 Agreement to Amend the U.S.-RMI Compact, 2023 U.S.-Palau Compact Review Agreement, and Subsidiary Agreements

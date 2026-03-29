@@ -5,7 +5,7 @@ usc_section: "292o"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 292o"
-generated_at: "2026-03-29T20:06:10.149Z"
+generated_at: "2026-03-29T20:07:43.162Z"
 ---
 
 # § 292o. Definitions

@@ -5,7 +5,7 @@ usc_section: "1986"
 chapter: 18
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1986"
-generated_at: "2026-03-29T20:06:17.936Z"
+generated_at: "2026-03-29T20:08:00.037Z"
 ---
 
 # § 1986. Agreements with and other provisions related to the Republic of Palau

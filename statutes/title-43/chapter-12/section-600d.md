@@ -5,7 +5,7 @@ usc_section: "600d"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 600d"
-generated_at: "2026-03-29T20:05:36.493Z"
+generated_at: "2026-03-29T20:06:00.005Z"
 ---
 
 # § 600d. Sanford Reservoir recreation facilities; allocation of water, reservoir capacity, or joint project costs of Canadian River project; municipal water use priorities; agreements for operation, maintenance, or additional development of project lands or facilities; disposal of project lands or facilities; nonreimbursable costs; cognizance of effect of fish and wildlife plan

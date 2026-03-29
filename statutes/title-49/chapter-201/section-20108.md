@@ -5,7 +5,7 @@ usc_section: "20108"
 chapter: 201
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 20108"
-generated_at: "2026-03-29T20:06:28.176Z"
+generated_at: "2026-03-29T20:07:58.489Z"
 ---
 
 # § 20108. Research, development, testing, and training

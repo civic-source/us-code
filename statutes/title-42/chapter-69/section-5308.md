@@ -5,7 +5,7 @@ usc_section: "5308"
 chapter: 69
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 5308"
-generated_at: "2026-03-29T20:06:11.205Z"
+generated_at: "2026-03-29T20:07:44.364Z"
 ---
 
 # § 5308. Guarantee and commitment to guarantee loans for acquisition of property

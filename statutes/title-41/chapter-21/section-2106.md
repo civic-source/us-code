@@ -5,7 +5,7 @@ usc_section: "2106"
 chapter: 21
 current_through: "PL 119-73"
 classification: "41 U.S.C. § 2106"
-generated_at: "2026-03-29T20:05:26.591Z"
+generated_at: "2026-03-29T20:05:58.271Z"
 ---
 
 # § 2106. Reporting information believed to constitute evidence of offense

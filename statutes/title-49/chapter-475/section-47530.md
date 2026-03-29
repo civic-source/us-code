@@ -5,7 +5,7 @@ usc_section: "47530"
 chapter: 475
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 47530"
-generated_at: "2026-03-29T20:06:28.343Z"
+generated_at: "2026-03-29T20:07:58.655Z"
 ---
 
 # § 47530. Nonapplication of sections 47528(a)–(d) and 47529 to aircraft outside the 48 contiguous States

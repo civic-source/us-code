@@ -5,7 +5,7 @@ usc_section: "9"
 chapter: 8
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-03-29T20:06:10.855Z"
+generated_at: "2026-03-29T20:07:43.999Z"
 ---
 
 # § 1437bbb–9. Termination and evaluation

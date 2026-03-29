@@ -5,7 +5,7 @@ usc_section: "971b"
 chapter: 22
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 971b"
-generated_at: "2026-03-29T20:05:36.522Z"
+generated_at: "2026-03-29T20:06:00.032Z"
 ---
 
 # § 971b. Sale of restored Alaskan lands; preference rights; consent of Federal agency

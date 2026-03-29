@@ -5,7 +5,7 @@ usc_section: "4326"
 chapter: 53
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 4326"
-generated_at: "2026-03-29T20:06:21.197Z"
+generated_at: "2026-03-29T20:08:11.281Z"
 ---
 
 # § 4326. Waiver by Custodian of demand for property; acceptance of less amount; approval of Attorney General

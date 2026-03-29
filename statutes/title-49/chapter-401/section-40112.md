@@ -5,7 +5,7 @@ usc_section: "40112"
 chapter: 401
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 40112"
-generated_at: "2026-03-29T20:06:28.254Z"
+generated_at: "2026-03-29T20:07:58.571Z"
 ---
 
 # § 40112. Multiyear procurement contracts for property

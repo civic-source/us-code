@@ -5,7 +5,7 @@ usc_section: "3"
 chapter: 55
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-29T20:06:11.136Z"
+generated_at: "2026-03-29T20:07:44.297Z"
 ---
 
 # § 4370m–3. Interstate compacts

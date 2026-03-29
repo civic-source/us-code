@@ -5,7 +5,7 @@ usc_section: "1509"
 chapter: 31
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 1509"
-generated_at: "2026-03-29T20:06:21.041Z"
+generated_at: "2026-03-29T20:08:11.132Z"
 ---
 
 # §§ 1501 to 1509. Transferred

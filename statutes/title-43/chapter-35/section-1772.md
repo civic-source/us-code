@@ -5,7 +5,7 @@ usc_section: "1772"
 chapter: 35
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 1772"
-generated_at: "2026-03-29T20:05:36.594Z"
+generated_at: "2026-03-29T20:06:00.098Z"
 ---
 
 # § 1772. Vegetation managment, 1 1 So in original. Probably should be “management,”. facility inspection, and operation and maintenance relating to electric transmission and distribution facility rights of way

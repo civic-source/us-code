@@ -5,7 +5,7 @@ usc_section: "6509"
 chapter: 65
 current_through: "PL 119-73"
 classification: "41 U.S.C. § 6509"
-generated_at: "2026-03-29T20:05:26.609Z"
+generated_at: "2026-03-29T20:05:58.292Z"
 ---
 
 # § 6509. Other procedures

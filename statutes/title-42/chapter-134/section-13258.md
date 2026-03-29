@@ -5,7 +5,7 @@ usc_section: "13258"
 chapter: 134
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 13258"
-generated_at: "2026-03-29T20:06:11.703Z"
+generated_at: "2026-03-29T20:07:44.806Z"
 ---
 
 # § 13258. Credits

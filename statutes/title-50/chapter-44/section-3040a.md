@@ -5,7 +5,7 @@ usc_section: "3040a"
 chapter: 44
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 3040a"
-generated_at: "2026-03-29T20:06:21.103Z"
+generated_at: "2026-03-29T20:08:11.194Z"
 ---
 
 # § 3040a. Prohibition on collection and maintenance of information of United States persons based on first amendment-protected activities

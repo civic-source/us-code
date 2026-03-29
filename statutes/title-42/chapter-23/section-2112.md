@@ -5,7 +5,7 @@ usc_section: "2112"
 chapter: 23
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2112"
-generated_at: "2026-03-29T20:06:10.986Z"
+generated_at: "2026-03-29T20:07:44.148Z"
 ---
 
 # § 2112. Foreign distribution of byproduct material

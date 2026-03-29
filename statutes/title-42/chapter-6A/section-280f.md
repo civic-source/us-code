@@ -5,7 +5,7 @@ usc_section: "280f"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 280f"
-generated_at: "2026-03-29T20:06:10.051Z"
+generated_at: "2026-03-29T20:07:43.040Z"
 ---
 
 # § 280f. Fetal alcohol spectrum disorders prevention, intervention, and services delivery program

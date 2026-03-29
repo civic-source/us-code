@@ -5,7 +5,7 @@ usc_section: "41731"
 chapter: 417
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 41731"
-generated_at: "2026-03-29T20:06:28.271Z"
+generated_at: "2026-03-29T20:07:58.587Z"
 ---
 
 # § 41731. Definitions

@@ -5,7 +5,7 @@ usc_section: "41509"
 chapter: 415
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 41509"
-generated_at: "2026-03-29T20:06:28.267Z"
+generated_at: "2026-03-29T20:07:58.579Z"
 ---
 
 # § 41509. Authority of the Secretary of Transportation to suspend, cancel, and reject tariffs for foreign air transportation

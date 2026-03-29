@@ -5,7 +5,7 @@ usc_section: "1846"
 chapter: 36
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 1846"
-generated_at: "2026-03-29T20:05:36.600Z"
+generated_at: "2026-03-29T20:06:00.103Z"
 ---
 
 # § 1846. Repealed. Pub. L. 104–66, title I, § 1021(f) , Dec. 21, 1995 , 109 Stat. 713

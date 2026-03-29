@@ -5,7 +5,7 @@ usc_section: "11123"
 chapter: 111
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 11123"
-generated_at: "2026-03-29T20:06:28.157Z"
+generated_at: "2026-03-29T20:07:58.467Z"
 ---
 
 # § 11123. Situations requiring immediate action to serve the public

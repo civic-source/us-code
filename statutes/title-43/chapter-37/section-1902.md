@@ -5,7 +5,7 @@ usc_section: "1902"
 chapter: 37
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 1902"
-generated_at: "2026-03-29T20:05:36.600Z"
+generated_at: "2026-03-29T20:06:00.104Z"
 ---
 
 # § 1902. Definitions

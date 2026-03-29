@@ -5,7 +5,7 @@ usc_section: "861"
 chapter: 4
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 861"
-generated_at: "2026-03-29T20:06:17.893Z"
+generated_at: "2026-03-29T20:07:59.993Z"
 ---
 
 # § 861. Repealed. July 3, 1950, ch. 446, § 5(2) , 64 Stat. 320

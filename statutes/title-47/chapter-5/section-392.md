@@ -5,7 +5,7 @@ usc_section: "392"
 chapter: 5
 current_through: "PL 119-73"
 classification: "47 U.S.C. § 392"
-generated_at: "2026-03-29T20:06:46.001Z"
+generated_at: "2026-03-29T20:08:02.495Z"
 ---
 
 # § 392. Grants for construction

@@ -5,7 +5,7 @@ usc_section: "1467"
 chapter: 31
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 1467"
-generated_at: "2026-03-29T20:05:36.538Z"
+generated_at: "2026-03-29T20:06:00.049Z"
 ---
 
 # § 1467. Working capital fund; establishment; uses; reimbursement

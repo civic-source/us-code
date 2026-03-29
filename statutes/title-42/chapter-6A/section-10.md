@@ -5,7 +5,7 @@ usc_section: "10"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-29T20:06:10.305Z"
+generated_at: "2026-03-29T20:07:43.355Z"
 ---
 
 # § 300hh–10. Coordination of preparedness for and response to all-hazards public health emergencies

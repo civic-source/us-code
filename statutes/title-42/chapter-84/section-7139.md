@@ -5,7 +5,7 @@ usc_section: "7139"
 chapter: 84
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 7139"
-generated_at: "2026-03-29T20:06:11.333Z"
+generated_at: "2026-03-29T20:07:44.476Z"
 ---
 
 # § 7139. Office of Science; establishment; appointment of Director; compensation; duties

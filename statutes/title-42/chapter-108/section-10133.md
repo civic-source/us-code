@@ -5,7 +5,7 @@ usc_section: "10133"
 chapter: 108
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 10133"
-generated_at: "2026-03-29T20:06:11.570Z"
+generated_at: "2026-03-29T20:07:44.682Z"
 ---
 
 # § 10133. Site characterization

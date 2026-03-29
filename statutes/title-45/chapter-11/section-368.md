@@ -5,7 +5,7 @@ usc_section: "368"
 chapter: 11
 current_through: "PL 119-73"
 classification: "45 U.S.C. § 368"
-generated_at: "2026-03-29T20:05:24.330Z"
+generated_at: "2026-03-29T20:06:01.734Z"
 ---
 
 # § 368. Repealed. Pub. L. 104–251, § 5(c) , Oct. 9, 1996 , 110 Stat. 3165

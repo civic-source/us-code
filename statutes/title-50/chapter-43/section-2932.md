@@ -5,7 +5,7 @@ usc_section: "2932"
 chapter: 43
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 2932"
-generated_at: "2026-03-29T20:06:21.091Z"
+generated_at: "2026-03-29T20:08:11.185Z"
 ---
 
 # § 2932. Sense of Congress on United States-Russia cooperation and coordination on the prevention of weapons of mass destruction proliferation and terrorism

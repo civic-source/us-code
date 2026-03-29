@@ -5,7 +5,7 @@ usc_section: "765"
 chapter: 18
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 765"
-generated_at: "2026-03-29T20:05:36.506Z"
+generated_at: "2026-03-29T20:06:00.019Z"
 ---
 
 # §§ 764, 765. Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029

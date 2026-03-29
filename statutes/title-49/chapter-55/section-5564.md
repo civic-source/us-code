@@ -5,7 +5,7 @@ usc_section: "5564"
 chapter: 55
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 5564"
-generated_at: "2026-03-29T20:06:28.147Z"
+generated_at: "2026-03-29T20:07:58.454Z"
 ---
 
 # § 5564. Interim preservation of certain rail passenger terminals

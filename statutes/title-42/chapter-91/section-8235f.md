@@ -5,7 +5,7 @@ usc_section: "8235f"
 chapter: 91
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 8235f"
-generated_at: "2026-03-29T20:06:11.458Z"
+generated_at: "2026-03-29T20:07:44.590Z"
 ---
 
 # § 8235f. Application of other laws

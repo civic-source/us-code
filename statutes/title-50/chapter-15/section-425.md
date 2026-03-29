@@ -5,7 +5,7 @@ usc_section: "425"
 chapter: 15
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 425"
-generated_at: "2026-03-29T20:06:21.033Z"
+generated_at: "2026-03-29T20:08:11.128Z"
 ---
 
 # § 425. Transferred

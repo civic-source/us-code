@@ -5,7 +5,7 @@ usc_section: "3057b"
 chapter: 35
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 3057b"
-generated_at: "2026-03-29T20:06:11.068Z"
+generated_at: "2026-03-29T20:07:44.230Z"
 ---
 
 # § 3057b. Findings

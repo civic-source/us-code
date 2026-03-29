@@ -5,7 +5,7 @@ usc_section: "10413"
 chapter: 110
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 10413"
-generated_at: "2026-03-29T20:06:11.593Z"
+generated_at: "2026-03-29T20:07:44.702Z"
 ---
 
 # § 10413. National domestic violence hotline grant

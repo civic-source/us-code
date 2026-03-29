@@ -5,7 +5,7 @@ usc_section: "1846"
 chapter: 36
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 1846"
-generated_at: "2026-03-29T20:06:21.057Z"
+generated_at: "2026-03-29T20:08:11.150Z"
 ---
 
 # § 1846. Congressional oversight

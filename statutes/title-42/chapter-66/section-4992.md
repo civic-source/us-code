@@ -5,7 +5,7 @@ usc_section: "4992"
 chapter: 66
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 4992"
-generated_at: "2026-03-29T20:06:11.160Z"
+generated_at: "2026-03-29T20:07:44.320Z"
 ---
 
 # § 4992. Authority to establish and operate special volunteer and demonstration programs

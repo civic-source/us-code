@@ -5,7 +5,7 @@ usc_section: "4577"
 chapter: 60
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 4577"
-generated_at: "2026-03-29T20:06:11.140Z"
+generated_at: "2026-03-29T20:07:44.302Z"
 ---
 
 # § 4577. Grants and contracts for demonstration of new and more effective drug and alcohol abuse prevention, treatment, and rehabilitation programs

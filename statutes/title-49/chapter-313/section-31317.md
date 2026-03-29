@@ -5,7 +5,7 @@ usc_section: "31317"
 chapter: 313
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 31317"
-generated_at: "2026-03-29T20:06:28.233Z"
+generated_at: "2026-03-29T20:07:58.551Z"
 ---
 
 # § 31317. Procedure for prescribing regulations

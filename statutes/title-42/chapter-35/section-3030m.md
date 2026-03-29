@@ -5,7 +5,7 @@ usc_section: "3030m"
 chapter: 35
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 3030m"
-generated_at: "2026-03-29T20:06:11.058Z"
+generated_at: "2026-03-29T20:07:44.219Z"
 ---
 
 # § 3030m. Program authorized

@@ -5,7 +5,7 @@ usc_section: "4560"
 chapter: 55
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 4560"
-generated_at: "2026-03-29T20:06:21.205Z"
+generated_at: "2026-03-29T20:08:11.288Z"
 ---
 
 # § 4560. Employment of personnel; appointment policies; nucleus executive reserve; use of confidential information by employees; printing and distribution of reports

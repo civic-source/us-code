@@ -5,7 +5,7 @@ usc_section: "6873"
 chapter: 81
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 6873"
-generated_at: "2026-03-29T20:06:11.301Z"
+generated_at: "2026-03-29T20:07:44.445Z"
 ---
 
 # § 6873. Availability of labor

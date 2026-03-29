@@ -5,7 +5,7 @@ usc_section: "6911a"
 chapter: 82
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 6911a"
-generated_at: "2026-03-29T20:06:11.303Z"
+generated_at: "2026-03-29T20:07:44.447Z"
 ---
 
 # § 6911a. Assistant Administrator of Environmental Protection Agency; appointment, etc.

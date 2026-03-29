@@ -5,7 +5,7 @@ usc_section: "60307"
 chapter: 603
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 60307"
-generated_at: "2026-03-29T20:07:02.756Z"
+generated_at: "2026-03-29T20:08:05.386Z"
 ---
 
 # § 60307. Vessels engaged in coastwise trade or the fisheries

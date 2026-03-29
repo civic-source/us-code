@@ -5,7 +5,7 @@ usc_section: "13521"
 chapter: 134
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 13521"
-generated_at: "2026-03-29T20:06:11.721Z"
+generated_at: "2026-03-29T20:07:44.823Z"
 ---
 
 # § 13521. Policy on major construction projects

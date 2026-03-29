@@ -5,7 +5,7 @@ usc_section: "4852"
 chapter: 58
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 4852"
-generated_at: "2026-03-29T20:06:21.221Z"
+generated_at: "2026-03-29T20:08:11.307Z"
 ---
 
 # § 4852. Assistant Secretaries of Commerce

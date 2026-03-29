@@ -5,7 +5,7 @@ usc_section: "380"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 380"
-generated_at: "2026-03-29T20:05:36.454Z"
+generated_at: "2026-03-29T20:05:59.973Z"
 ---
 
 # § 380. Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029

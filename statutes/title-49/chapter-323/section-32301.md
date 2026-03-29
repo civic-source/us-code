@@ -5,7 +5,7 @@ usc_section: "32301"
 chapter: 323
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 32301"
-generated_at: "2026-03-29T20:06:28.234Z"
+generated_at: "2026-03-29T20:07:58.552Z"
 ---
 
 # § 32301. Definitions

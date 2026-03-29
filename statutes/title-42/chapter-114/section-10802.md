@@ -5,7 +5,7 @@ usc_section: "10802"
 chapter: 114
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 10802"
-generated_at: "2026-03-29T20:06:11.596Z"
+generated_at: "2026-03-29T20:07:44.705Z"
 ---
 
 # § 10802. Definitions

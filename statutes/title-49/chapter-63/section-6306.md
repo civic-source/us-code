@@ -5,7 +5,7 @@ usc_section: "6306"
 chapter: 63
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 6306"
-generated_at: "2026-03-29T20:06:28.149Z"
+generated_at: "2026-03-29T20:07:58.457Z"
 ---
 
 # § 6306. Transportation statistical collection, analysis, and dissemination

@@ -5,7 +5,7 @@ usc_section: "3557"
 chapter: 35
 current_through: "PL 119-73"
 classification: "44 U.S.C. § 3557"
-generated_at: "2026-03-29T20:05:29.614Z"
+generated_at: "2026-03-29T20:06:03.297Z"
 ---
 
 # § 3557. National security systems

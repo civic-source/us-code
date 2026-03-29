@@ -5,7 +5,7 @@ usc_section: "618p"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 618p"
-generated_at: "2026-03-29T20:05:36.498Z"
+generated_at: "2026-03-29T20:06:00.011Z"
 ---
 
 # § 618p. Omitted

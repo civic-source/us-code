@@ -5,7 +5,7 @@ usc_section: "7661e"
 chapter: 85
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 7661e"
-generated_at: "2026-03-29T20:06:11.431Z"
+generated_at: "2026-03-29T20:07:44.568Z"
 ---
 
 # § 7661e. Other authorities

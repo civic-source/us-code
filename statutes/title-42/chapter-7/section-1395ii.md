@@ -5,7 +5,7 @@ usc_section: "1395ii"
 chapter: 7
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1395ii"
-generated_at: "2026-03-29T20:06:10.670Z"
+generated_at: "2026-03-29T20:07:43.770Z"
 ---
 
 # § 1395ii. Application of certain provisions of sub­chapter II

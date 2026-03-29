@@ -5,7 +5,7 @@ usc_section: "2424"
 chapter: 42
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 2424"
-generated_at: "2026-03-29T20:05:36.608Z"
+generated_at: "2026-03-29T20:06:00.113Z"
 ---
 
 # § 2424. Defaults

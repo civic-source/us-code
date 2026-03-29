@@ -5,7 +5,7 @@ usc_section: "650e"
 chapter: 14
 current_through: "PL 119-73"
 classification: "45 U.S.C. § 650e"
-generated_at: "2026-03-29T20:05:24.331Z"
+generated_at: "2026-03-29T20:06:01.735Z"
 ---
 
 # §§ 650d, 650e. Repealed. Pub. L. 103–429, § 8(6) , Oct. 31, 1994 , 108 Stat. 4390

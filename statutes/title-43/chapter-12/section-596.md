@@ -5,7 +5,7 @@ usc_section: "596"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 596"
-generated_at: "2026-03-29T20:05:36.492Z"
+generated_at: "2026-03-29T20:06:00.005Z"
 ---
 
 # § 596. Omitted

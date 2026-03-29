@@ -5,7 +5,7 @@ usc_section: "15"
 chapter: 21
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 15"
-generated_at: "2026-03-29T20:06:10.961Z"
+generated_at: "2026-03-29T20:07:44.127Z"
 ---
 
 # § 2000e–15. Presidential conferences; acquaintance of leadership with provisions for employment rights and obligations; plans for fair administration; membership

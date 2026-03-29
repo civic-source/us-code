@@ -5,7 +5,7 @@ usc_section: "1582"
 chapter: 9
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1582"
-generated_at: "2026-03-29T20:06:10.874Z"
+generated_at: "2026-03-29T20:07:44.026Z"
 ---
 
 # § 1582. Temporary housing exempted from provisions of section 1553 of this title

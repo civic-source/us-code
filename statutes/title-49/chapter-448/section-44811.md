@@ -5,7 +5,7 @@ usc_section: "44811"
 chapter: 448
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 44811"
-generated_at: "2026-03-29T20:06:28.301Z"
+generated_at: "2026-03-29T20:07:58.615Z"
 ---
 
 # § 44811. Beyond visual line of sight operations for unmanned aircraft systems

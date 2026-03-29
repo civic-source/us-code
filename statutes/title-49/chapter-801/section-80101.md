@@ -5,7 +5,7 @@ usc_section: "80101"
 chapter: 801
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 80101"
-generated_at: "2026-03-29T20:06:28.363Z"
+generated_at: "2026-03-29T20:07:58.675Z"
 ---
 
 # § 80101. Definitions

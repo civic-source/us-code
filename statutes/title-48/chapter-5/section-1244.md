@@ -5,7 +5,7 @@ usc_section: "1244"
 chapter: 5
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1244"
-generated_at: "2026-03-29T20:06:17.894Z"
+generated_at: "2026-03-29T20:07:59.994Z"
 ---
 
 # § 1244. Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(35), 66 Stat. 279

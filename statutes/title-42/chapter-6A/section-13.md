@@ -5,7 +5,7 @@ usc_section: "13"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 13"
-generated_at: "2026-03-29T20:06:10.314Z"
+generated_at: "2026-03-29T20:07:43.367Z"
 ---
 
 # § 300jj–13. Setting priorities for standards adoption

@@ -5,7 +5,7 @@ usc_section: "3901"
 chapter: 39
 current_through: "PL 119-73"
 classification: "44 U.S.C. § 3901"
-generated_at: "2026-03-29T20:05:29.619Z"
+generated_at: "2026-03-29T20:06:03.302Z"
 ---
 
 # § 3901. Purpose and establishment of the Office of Inspector General

@@ -5,7 +5,7 @@ usc_section: "61"
 chapter: 1
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 61"
-generated_at: "2026-03-29T20:06:09.945Z"
+generated_at: "2026-03-29T20:07:42.905Z"
 ---
 
 # § 61. Omitted

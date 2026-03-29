@@ -5,7 +5,7 @@ usc_section: "24408"
 chapter: 244
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 24408"
-generated_at: "2026-03-29T20:06:28.203Z"
+generated_at: "2026-03-29T20:07:58.514Z"
 ---
 
 # [§§ 24401 to 24408. Renumbered §§ 22901 to 22908]

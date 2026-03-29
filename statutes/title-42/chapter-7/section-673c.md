@@ -5,7 +5,7 @@ usc_section: "673c"
 chapter: 7
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 673c"
-generated_at: "2026-03-29T20:06:10.414Z"
+generated_at: "2026-03-29T20:07:43.483Z"
 ---
 
 # § 673c. Repealed. Pub. L. 109–239, § 4(c) , July 3, 2006 , 120 Stat. 512

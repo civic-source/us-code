@@ -5,7 +5,7 @@ usc_section: "297x"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 297x"
-generated_at: "2026-03-29T20:06:10.171Z"
+generated_at: "2026-03-29T20:07:43.195Z"
 ---
 
 # §§ 297w, 297x. Repealed. Pub. L. 116–136, div. A, title III, § 3404(a)(12) , Mar. 27, 2020 , 134 Stat. 394

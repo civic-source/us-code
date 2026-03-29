@@ -5,7 +5,7 @@ usc_section: "9819"
 chapter: 105
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 9819"
-generated_at: "2026-03-29T20:06:11.533Z"
+generated_at: "2026-03-29T20:07:44.651Z"
 ---
 
 # § 9819. Evaluation of programs; implementation and funding, etc.; research and demonstration projects; implementation and purposes

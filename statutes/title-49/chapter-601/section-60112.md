@@ -5,7 +5,7 @@ usc_section: "60112"
 chapter: 601
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 60112"
-generated_at: "2026-03-29T20:06:28.354Z"
+generated_at: "2026-03-29T20:07:58.666Z"
 ---
 
 # § 60112. Pipeline facilities hazardous to life and property

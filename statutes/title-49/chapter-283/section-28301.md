@@ -5,7 +5,7 @@ usc_section: "28301"
 chapter: 283
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 28301"
-generated_at: "2026-03-29T20:06:28.209Z"
+generated_at: "2026-03-29T20:07:58.523Z"
 ---
 
 # § 28301. General

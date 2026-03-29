@@ -5,7 +5,7 @@ usc_section: "2078"
 chapter: 23
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2078"
-generated_at: "2026-03-29T20:06:10.985Z"
+generated_at: "2026-03-29T20:07:44.147Z"
 ---
 
 # § 2078. Congressional review of guaranteed purchase price, guaranteed purchase price period, and criteria for waiver of charges

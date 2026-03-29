@@ -5,7 +5,7 @@ usc_section: "80a"
 chapter: 4
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 80a"
-generated_at: "2026-03-29T20:05:36.440Z"
+generated_at: "2026-03-29T20:05:59.962Z"
 ---
 
 # §§ 80, 80a. Repealed. Apr. 24, 1944, ch. 177, § 4 , 58 Stat. 215

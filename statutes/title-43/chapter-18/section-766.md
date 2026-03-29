@@ -5,7 +5,7 @@ usc_section: "766"
 chapter: 18
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 766"
-generated_at: "2026-03-29T20:05:36.506Z"
+generated_at: "2026-03-29T20:06:00.019Z"
 ---
 
 # § 766. Geological surveys, extension of public surveys, expenses of subdividing

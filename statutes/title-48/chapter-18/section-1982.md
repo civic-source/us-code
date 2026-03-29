@@ -5,7 +5,7 @@ usc_section: "1982"
 chapter: 18
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1982"
-generated_at: "2026-03-29T20:06:17.934Z"
+generated_at: "2026-03-29T20:08:00.035Z"
 ---
 
 # § 1982. Definitions

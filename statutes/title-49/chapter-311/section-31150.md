@@ -5,7 +5,7 @@ usc_section: "31150"
 chapter: 311
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 31150"
-generated_at: "2026-03-29T20:06:28.228Z"
+generated_at: "2026-03-29T20:07:58.545Z"
 ---
 
 # § 31150. Safety performance history screening

@@ -5,7 +5,7 @@ usc_section: "1095"
 chapter: 27
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 1095"
-generated_at: "2026-03-29T20:05:36.524Z"
+generated_at: "2026-03-29T20:06:00.035Z"
 ---
 
 # § 1095. Reservations between sections for highway purposes

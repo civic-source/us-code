@@ -5,7 +5,7 @@ usc_section: "3154f"
 chapter: 38
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 3154f"
-generated_at: "2026-03-29T20:06:11.078Z"
+generated_at: "2026-03-29T20:07:44.241Z"
 ---
 
 # § 3154f. Congressional notification requirements

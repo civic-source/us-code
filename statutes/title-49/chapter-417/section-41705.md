@@ -5,7 +5,7 @@ usc_section: "41705"
 chapter: 417
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 41705"
-generated_at: "2026-03-29T20:06:28.268Z"
+generated_at: "2026-03-29T20:07:58.580Z"
 ---
 
 # § 41705. Discrimination against individuals with disabilities

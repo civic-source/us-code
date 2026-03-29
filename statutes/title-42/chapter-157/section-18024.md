@@ -5,7 +5,7 @@ usc_section: "18024"
 chapter: 157
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 18024"
-generated_at: "2026-03-29T20:06:11.865Z"
+generated_at: "2026-03-29T20:07:44.981Z"
 ---
 
 # § 18024. Related definitions

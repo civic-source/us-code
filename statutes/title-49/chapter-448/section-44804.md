@@ -5,7 +5,7 @@ usc_section: "44804"
 chapter: 448
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 44804"
-generated_at: "2026-03-29T20:06:28.299Z"
+generated_at: "2026-03-29T20:07:58.613Z"
 ---
 
 # § 44804. Unmanned aircraft in the Arctic

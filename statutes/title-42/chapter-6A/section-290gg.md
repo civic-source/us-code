@@ -5,7 +5,7 @@ usc_section: "290gg"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 290gg"
-generated_at: "2026-03-29T20:06:10.141Z"
+generated_at: "2026-03-29T20:07:43.150Z"
 ---
 
 # § 290gg. Repealed. Pub. L. 106–310, div. B, title XXXIII, § 3301(c)(4) , Oct. 17, 2000 , 114 Stat. 1209

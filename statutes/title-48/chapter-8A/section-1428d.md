@@ -5,7 +5,7 @@ usc_section: "1428d"
 chapter: 8
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1428d"
-generated_at: "2026-03-29T20:06:17.902Z"
+generated_at: "2026-03-29T20:08:00.001Z"
 ---
 
 # § 1428d. Report for inclusion in annual report by Governor

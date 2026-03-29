@@ -5,7 +5,7 @@ usc_section: "2314"
 chapter: 24
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2314"
-generated_at: "2026-03-29T20:06:11.023Z"
+generated_at: "2026-03-29T20:07:44.183Z"
 ---
 
 # § 2314. Repealed. Pub. L. 93–608, § 1(22) , Jan. 2, 1975 , 88 Stat. 1970

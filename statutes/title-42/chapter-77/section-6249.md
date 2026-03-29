@@ -5,7 +5,7 @@ usc_section: "6249"
 chapter: 77
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 6249"
-generated_at: "2026-03-29T20:06:11.236Z"
+generated_at: "2026-03-29T20:07:44.392Z"
 ---
 
 # § 6249. Contracting for petroleum product and facilities

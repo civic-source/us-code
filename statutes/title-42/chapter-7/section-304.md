@@ -5,7 +5,7 @@ usc_section: "304"
 chapter: 7
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 304"
-generated_at: "2026-03-29T20:06:10.330Z"
+generated_at: "2026-03-29T20:07:43.384Z"
 ---
 
 # § 304. Stopping payment on deviation from required provisions of plan or failure to comply therewith

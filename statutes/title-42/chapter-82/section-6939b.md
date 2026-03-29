@@ -5,7 +5,7 @@ usc_section: "6939b"
 chapter: 82
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 6939b"
-generated_at: "2026-03-29T20:06:11.311Z"
+generated_at: "2026-03-29T20:07:44.456Z"
 ---
 
 # § 6939b. Interim control of hazardous waste injection

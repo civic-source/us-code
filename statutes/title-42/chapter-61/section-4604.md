@@ -5,7 +5,7 @@ usc_section: "4604"
 chapter: 61
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 4604"
-generated_at: "2026-03-29T20:06:11.141Z"
+generated_at: "2026-03-29T20:07:44.305Z"
 ---
 
 # § 4604. Certification

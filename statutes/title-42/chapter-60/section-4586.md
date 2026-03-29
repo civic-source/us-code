@@ -5,7 +5,7 @@ usc_section: "4586"
 chapter: 60
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 4586"
-generated_at: "2026-03-29T20:06:11.141Z"
+generated_at: "2026-03-29T20:07:44.305Z"
 ---
 
 # § 4586. Repealed. Pub. L. 98–24, § 2(c)(1) , Apr. 26, 1983 , 97 Stat. 182

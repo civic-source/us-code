@@ -5,7 +5,7 @@ usc_section: "8"
 chapter: 55
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-29T20:06:11.137Z"
+generated_at: "2026-03-29T20:07:44.299Z"
 ---
 
 # § 4370m–8. Funding for governance, oversight, and processing of environmental reviews and permits

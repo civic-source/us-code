@@ -5,7 +5,7 @@ usc_section: "2548"
 chapter: 29
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2548"
-generated_at: "2026-03-29T20:06:11.027Z"
+generated_at: "2026-03-29T20:07:44.186Z"
 ---
 
 # §§ 2541 to 2548. Omitted

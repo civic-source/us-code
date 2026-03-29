@@ -5,7 +5,7 @@ usc_section: "3"
 chapter: 8
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 3"
-generated_at: "2026-03-29T20:06:17.901Z"
+generated_at: "2026-03-29T20:08:00.000Z"
 ---
 
 # § 1424–3. Appellate jurisdiction of District Court; procedure; review by United States Court of Appeals for Ninth Circuit; rules; appeals to appellate court

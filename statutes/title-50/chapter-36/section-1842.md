@@ -5,7 +5,7 @@ usc_section: "1842"
 chapter: 36
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 1842"
-generated_at: "2026-03-29T20:06:21.056Z"
+generated_at: "2026-03-29T20:08:11.149Z"
 ---
 
 # § 1842. Pen registers and trap and trace devices for foreign intelligence and international terrorism investigations

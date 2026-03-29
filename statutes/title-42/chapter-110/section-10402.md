@@ -5,7 +5,7 @@ usc_section: "10402"
 chapter: 110
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 10402"
-generated_at: "2026-03-29T20:06:11.589Z"
+generated_at: "2026-03-29T20:07:44.699Z"
 ---
 
 # § 10402. Definitions

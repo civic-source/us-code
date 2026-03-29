@@ -5,7 +5,7 @@ usc_section: "22901"
 chapter: 229
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 22901"
-generated_at: "2026-03-29T20:06:28.193Z"
+generated_at: "2026-03-29T20:07:58.506Z"
 ---
 
 # § 22901. Definitions

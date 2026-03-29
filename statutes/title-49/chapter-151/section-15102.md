@@ -5,7 +5,7 @@ usc_section: "15102"
 chapter: 151
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 15102"
-generated_at: "2026-03-29T20:06:28.174Z"
+generated_at: "2026-03-29T20:07:58.486Z"
 ---
 
 # § 15102. Definitions

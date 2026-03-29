@@ -5,7 +5,7 @@ usc_section: "12878"
 chapter: 130
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 12878"
-generated_at: "2026-03-29T20:06:11.693Z"
+generated_at: "2026-03-29T20:07:44.796Z"
 ---
 
 # § 12878. Limitation on selection criteria

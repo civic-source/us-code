@@ -5,7 +5,7 @@ usc_section: "2315"
 chapter: 40
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 2315"
-generated_at: "2026-03-29T20:06:21.082Z"
+generated_at: "2026-03-29T20:08:11.173Z"
 ---
 
 # § 2315. Testing of preparedness for emergencies involving nuclear, radiological, chemical, and biological weapons

@@ -5,7 +5,7 @@ usc_section: "12404"
 chapter: 128
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 12404"
-generated_at: "2026-03-29T20:06:11.645Z"
+generated_at: "2026-03-29T20:07:44.750Z"
 ---
 
 # § 12404. Demonstrations

@@ -5,7 +5,7 @@ usc_section: "1340"
 chapter: 29
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 1340"
-generated_at: "2026-03-29T20:05:36.531Z"
+generated_at: "2026-03-29T20:06:00.042Z"
 ---
 
 # § 1340. Geological and geophysical explorations

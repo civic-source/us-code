@@ -5,7 +5,7 @@ usc_section: "1862"
 chapter: 36
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 1862"
-generated_at: "2026-03-29T20:06:21.060Z"
+generated_at: "2026-03-29T20:08:11.150Z"
 ---
 
 # § 1862. Access to certain business records for foreign intelligence and international terrorism investigations

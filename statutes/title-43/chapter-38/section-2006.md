@@ -5,7 +5,7 @@ usc_section: "2006"
 chapter: 38
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 2006"
-generated_at: "2026-03-29T20:05:36.602Z"
+generated_at: "2026-03-29T20:06:00.106Z"
 ---
 
 # § 2006. Environmental impact statements

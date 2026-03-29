@@ -5,7 +5,7 @@ usc_section: "525"
 chapter: 5
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 525"
-generated_at: "2026-03-29T20:06:28.112Z"
+generated_at: "2026-03-29T20:07:58.414Z"
 ---
 
 # § 525. Disobedience to subpoenas

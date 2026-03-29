@@ -5,7 +5,7 @@ usc_section: "91"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 91"
-generated_at: "2026-03-29T20:06:10.292Z"
+generated_at: "2026-03-29T20:07:43.341Z"
 ---
 
 # § 300gg–91. Definitions

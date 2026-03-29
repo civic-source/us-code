@@ -5,7 +5,7 @@ usc_section: "19109"
 chapter: 163
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 19109"
-generated_at: "2026-03-29T20:06:11.923Z"
+generated_at: "2026-03-29T20:07:45.042Z"
 ---
 
 # § 19109. Translation Accelerator

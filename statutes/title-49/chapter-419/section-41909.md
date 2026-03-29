@@ -5,7 +5,7 @@ usc_section: "41909"
 chapter: 419
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 41909"
-generated_at: "2026-03-29T20:06:28.275Z"
+generated_at: "2026-03-29T20:07:58.591Z"
 ---
 
 # [§ 41909. Renumbered § 41906]

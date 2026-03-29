@@ -5,7 +5,7 @@ usc_section: "4"
 chapter: 7
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-29T20:06:10.805Z"
+generated_at: "2026-03-29T20:07:43.935Z"
 ---
 
 # § 1397n–4. Evaluations

@@ -5,7 +5,7 @@ usc_section: "863"
 chapter: 4
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 863"
-generated_at: "2026-03-29T20:06:17.893Z"
+generated_at: "2026-03-29T20:07:59.993Z"
 ---
 
 # § 863. Repealed. Pub. L. 91–272, § 13 , June 2, 1970 , 84 Stat. 298

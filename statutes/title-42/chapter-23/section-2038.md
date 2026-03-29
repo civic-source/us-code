@@ -5,7 +5,7 @@ usc_section: "2038"
 chapter: 23
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2038"
-generated_at: "2026-03-29T20:06:10.979Z"
+generated_at: "2026-03-29T20:07:44.144Z"
 ---
 
 # § 2038. Appointment of Army, Navy, or Air Force officer as Assistant General Manager for Military Application; Chairman of Military Liaison Committee; compensation

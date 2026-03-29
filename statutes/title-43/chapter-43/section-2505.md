@@ -5,7 +5,7 @@ usc_section: "2505"
 chapter: 43
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 2505"
-generated_at: "2026-03-29T20:05:36.609Z"
+generated_at: "2026-03-29T20:06:00.114Z"
 ---
 
 # § 2505. Suspension of entries for correction of clerical errors; patents

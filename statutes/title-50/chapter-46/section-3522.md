@@ -5,7 +5,7 @@ usc_section: "3522"
 chapter: 46
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 3522"
-generated_at: "2026-03-29T20:06:21.157Z"
+generated_at: "2026-03-29T20:08:11.247Z"
 ---
 
 # § 3522. Detail of employees

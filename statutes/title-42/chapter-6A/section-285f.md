@@ -5,7 +5,7 @@ usc_section: "285f"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 285f"
-generated_at: "2026-03-29T20:06:10.091Z"
+generated_at: "2026-03-29T20:07:43.089Z"
 ---
 
 # § 285f. Purpose of Institute

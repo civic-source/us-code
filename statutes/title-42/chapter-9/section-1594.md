@@ -5,7 +5,7 @@ usc_section: "1594"
 chapter: 9
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1594"
-generated_at: "2026-03-29T20:06:10.880Z"
+generated_at: "2026-03-29T20:07:44.035Z"
 ---
 
 # § 1594. Contracts for construction

@@ -5,7 +5,7 @@ usc_section: "1314a"
 chapter: 6
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1314a"
-generated_at: "2026-03-29T20:06:17.894Z"
+generated_at: "2026-03-29T20:07:59.994Z"
 ---
 
 # § 1314a. Repealed. Pub. L. 87–845, § 26(b) , Oct. 18, 1962 , 76A Stat. 701

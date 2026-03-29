@@ -5,7 +5,7 @@ usc_section: "1308"
 chapter: 12
 current_through: "PL 119-73"
 classification: "47 U.S.C. § 1308"
-generated_at: "2026-03-29T20:06:46.052Z"
+generated_at: "2026-03-29T20:08:02.541Z"
 ---
 
 # § 1308. Interagency agreement

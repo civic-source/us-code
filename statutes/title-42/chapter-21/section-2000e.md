@@ -5,7 +5,7 @@ usc_section: "2000e"
 chapter: 21
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2000e"
-generated_at: "2026-03-29T20:06:10.955Z"
+generated_at: "2026-03-29T20:07:44.124Z"
 ---
 
 # § 2000e. Definitions

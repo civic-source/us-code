@@ -5,7 +5,7 @@ usc_section: "6924"
 chapter: 82
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 6924"
-generated_at: "2026-03-29T20:06:11.305Z"
+generated_at: "2026-03-29T20:07:44.449Z"
 ---
 
 # § 6924. Standards applicable to owners and operators of hazardous waste treatment, storage, and disposal facilities

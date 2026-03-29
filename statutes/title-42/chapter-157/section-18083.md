@@ -5,7 +5,7 @@ usc_section: "18083"
 chapter: 157
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 18083"
-generated_at: "2026-03-29T20:06:11.876Z"
+generated_at: "2026-03-29T20:07:44.992Z"
 ---
 
 # § 18083. Streamlining of procedures for enrollment through an Exchange and State medicaid, CHIP, and health subsidy programs

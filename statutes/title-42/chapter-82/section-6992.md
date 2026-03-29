@@ -5,7 +5,7 @@ usc_section: "6992"
 chapter: 82
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 6992"
-generated_at: "2026-03-29T20:06:11.329Z"
+generated_at: "2026-03-29T20:07:44.471Z"
 ---
 
 # § 6992. Scope of demonstration program for medical waste

@@ -5,7 +5,7 @@ usc_section: "14614"
 chapter: 140
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 14614"
-generated_at: "2026-03-29T20:06:11.731Z"
+generated_at: "2026-03-29T20:07:44.835Z"
 ---
 
 # § 14614. Transferred

@@ -5,7 +5,7 @@ usc_section: "616mmm"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 616mmm"
-generated_at: "2026-03-29T20:05:36.494Z"
+generated_at: "2026-03-29T20:06:00.006Z"
 ---
 
 # §§ 616ggg to 616mmm. Omitted

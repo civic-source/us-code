@@ -5,7 +5,7 @@ usc_section: "210"
 chapter: 13
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 210"
-generated_at: "2026-03-29T20:06:21.030Z"
+generated_at: "2026-03-29T20:08:11.126Z"
 ---
 
 # § 210. Penalties for unauthorized trading, etc.; jurisdiction of prosecutions

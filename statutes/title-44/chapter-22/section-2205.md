@@ -5,7 +5,7 @@ usc_section: "2205"
 chapter: 22
 current_through: "PL 119-73"
 classification: "44 U.S.C. § 2205"
-generated_at: "2026-03-29T20:05:29.599Z"
+generated_at: "2026-03-29T20:06:03.286Z"
 ---
 
 # § 2205. Exceptions to restricted access

@@ -5,7 +5,7 @@ usc_section: "2000bb"
 chapter: 21
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2000bb"
-generated_at: "2026-03-29T20:06:10.963Z"
+generated_at: "2026-03-29T20:07:44.129Z"
 ---
 
 # § 2000bb. Congressional findings and declaration of purposes

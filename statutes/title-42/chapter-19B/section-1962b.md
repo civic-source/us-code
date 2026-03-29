@@ -5,7 +5,7 @@ usc_section: "1962b"
 chapter: 19
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1962b"
-generated_at: "2026-03-29T20:06:10.941Z"
+generated_at: "2026-03-29T20:07:44.110Z"
 ---
 
 # § 1962b. Creation of commissions; powers and duties

@@ -5,7 +5,7 @@ usc_section: "20946"
 chapter: 209
 current_through: "PL 119-73"
 classification: "52 U.S.C. § 20946"
-generated_at: "2026-03-29T20:07:20.973Z"
+generated_at: "2026-03-29T20:08:22.755Z"
 ---
 
 # § 20946. Status of Boards and members for purposes of claims against Board

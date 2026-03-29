@@ -5,7 +5,7 @@ usc_section: "2807"
 chapter: 34
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2807"
-generated_at: "2026-03-29T20:06:11.030Z"
+generated_at: "2026-03-29T20:07:44.189Z"
 ---
 
 # §§ 2801 to 2807. Repealed. Pub. L. 89–750, title III, § 315 , Nov. 3, 1966 , 80 Stat. 1222

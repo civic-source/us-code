@@ -5,7 +5,7 @@ usc_section: "167j"
 chapter: 10
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 167j"
-generated_at: "2026-03-29T20:06:21.029Z"
+generated_at: "2026-03-29T20:08:11.125Z"
 ---
 
 # § 167j. Land conveyance in Potter County, Texas

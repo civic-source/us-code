@@ -5,7 +5,7 @@ usc_section: "44701"
 chapter: 447
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 44701"
-generated_at: "2026-03-29T20:06:28.283Z"
+generated_at: "2026-03-29T20:07:58.599Z"
 ---
 
 # § 44701. General requirements

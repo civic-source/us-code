@@ -5,7 +5,7 @@ usc_section: "17"
 chapter: 1
 current_through: "PL 119-73"
 classification: "47 U.S.C. § 17"
-generated_at: "2026-03-29T20:06:45.948Z"
+generated_at: "2026-03-29T20:08:02.441Z"
 ---
 
 # § 17. Repealed. Pub. L. 105–119, title VI, § 620 , Nov. 26, 1997 , 111 Stat. 2519

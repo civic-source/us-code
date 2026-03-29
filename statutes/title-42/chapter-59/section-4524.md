@@ -5,7 +5,7 @@ usc_section: "4524"
 chapter: 59
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 4524"
-generated_at: "2026-03-29T20:06:11.139Z"
+generated_at: "2026-03-29T20:07:44.301Z"
 ---
 
 # §§ 4511 to 4524. Repealed. Pub. L. 98–181, title I [title IV, § 474(e)], Nov. 30, 1983 , 97 Stat. 1239

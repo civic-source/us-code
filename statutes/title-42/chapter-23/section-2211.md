@@ -5,7 +5,7 @@ usc_section: "2211"
 chapter: 23
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2211"
-generated_at: "2026-03-29T20:06:11.005Z"
+generated_at: "2026-03-29T20:07:44.168Z"
 ---
 
 # § 2211. Payment of claims or judgments for damage resulting from nuclear incident involving nuclear reactor of United States warship; exception; terms and conditions

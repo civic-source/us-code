@@ -5,7 +5,7 @@ usc_section: "311"
 chapter: 2
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 311"
-generated_at: "2026-03-29T20:06:17.889Z"
+generated_at: "2026-03-29T20:07:59.990Z"
 ---
 
 # §§ 310, 311. Omitted

@@ -5,7 +5,7 @@ usc_section: "1397h"
 chapter: 7
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1397h"
-generated_at: "2026-03-29T20:06:10.801Z"
+generated_at: "2026-03-29T20:07:43.928Z"
 ---
 
 # § 1397h. Program for early detection of certain medical conditions related to environmental health hazards

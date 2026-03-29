@@ -5,7 +5,7 @@ usc_section: "31d"
 chapter: 2
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 31d"
-generated_at: "2026-03-29T20:05:36.436Z"
+generated_at: "2026-03-29T20:05:59.957Z"
 ---
 
 # § 31d. Advisory committee

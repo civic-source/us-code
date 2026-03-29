@@ -5,7 +5,7 @@ usc_section: "2004"
 chapter: 22
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2004"
-generated_at: "2026-03-29T20:06:10.972Z"
+generated_at: "2026-03-29T20:07:44.138Z"
 ---
 
 # § 2004. Transfer of personnel, property, records, monies

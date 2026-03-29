@@ -5,7 +5,7 @@ usc_section: "100505"
 chapter: 1005
 current_through: "PL 119-73"
 classification: "54 U.S.C. § 100505"
-generated_at: "2026-03-29T20:07:09.901Z"
+generated_at: "2026-03-29T20:08:14.606Z"
 ---
 
 # § 100505. Periodic review of System

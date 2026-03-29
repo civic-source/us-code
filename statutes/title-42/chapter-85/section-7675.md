@@ -5,7 +5,7 @@ usc_section: "7675"
 chapter: 85
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 7675"
-generated_at: "2026-03-29T20:06:11.436Z"
+generated_at: "2026-03-29T20:07:44.572Z"
 ---
 
 # § 7675. American innovation and manufacturing

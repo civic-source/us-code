@@ -5,7 +5,7 @@ usc_section: "901"
 chapter: 18
 current_through: "PL 119-73"
 classification: "45 U.S.C. § 901"
-generated_at: "2026-03-29T20:05:24.351Z"
+generated_at: "2026-03-29T20:06:01.751Z"
 ---
 
 # § 901. Congressional findings

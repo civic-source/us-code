@@ -5,7 +5,7 @@ usc_section: "44902"
 chapter: 449
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 44902"
-generated_at: "2026-03-29T20:06:28.302Z"
+generated_at: "2026-03-29T20:07:58.616Z"
 ---
 
 # § 44902. Refusal to transport passengers and property

@@ -5,7 +5,7 @@ usc_section: "1824"
 chapter: 17
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1824"
-generated_at: "2026-03-29T20:06:17.918Z"
+generated_at: "2026-03-29T20:08:00.019Z"
 ---
 
 # § 1824. Relations between courts of United States and courts of Northern Mariana Islands; applicability of statutory provisions

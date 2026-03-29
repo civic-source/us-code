@@ -5,7 +5,7 @@ usc_section: "2224"
 chapter: 40
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 2224"
-generated_at: "2026-03-29T20:05:36.604Z"
+generated_at: "2026-03-29T20:06:00.109Z"
 ---
 
 # § 2224. Recommendations

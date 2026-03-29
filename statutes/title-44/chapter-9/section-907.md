@@ -5,7 +5,7 @@ usc_section: "907"
 chapter: 9
 current_through: "PL 119-73"
 classification: "44 U.S.C. § 907"
-generated_at: "2026-03-29T20:05:29.589Z"
+generated_at: "2026-03-29T20:06:03.273Z"
 ---
 
 # § 907. Congressional Record: extracts for Members of Congress; mailing envelopes
