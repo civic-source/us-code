@@ -3,9 +3,9 @@ title: "Section 59g - Transferred"
 usc_title: 2
 usc_section: "59g"
 chapter: 3
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "2 U.S.C. § 59g"
-generated_at: "2026-03-29T19:56:57.129Z"
+generated_at: "2026-03-29T20:01:46.476Z"
 ---
 
 # § 59g. Transferred

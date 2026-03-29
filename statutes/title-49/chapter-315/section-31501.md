@@ -5,7 +5,7 @@ usc_section: "31501"
 chapter: 315
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 31501"
-generated_at: "2026-03-29T20:01:14.929Z"
+generated_at: "2026-03-29T20:01:51.072Z"
 ---
 
 # § 31501. Definitions

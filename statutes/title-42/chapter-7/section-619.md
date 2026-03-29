@@ -5,7 +5,7 @@ usc_section: "619"
 chapter: 7
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 619"
-generated_at: "2026-03-29T20:00:54.192Z"
+generated_at: "2026-03-29T20:01:32.298Z"
 ---
 
 # § 619. Definitions

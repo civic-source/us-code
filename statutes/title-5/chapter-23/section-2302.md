@@ -3,9 +3,9 @@ title: "Section 2302 - Prohibited personnel practices"
 usc_title: 5
 usc_section: "2302"
 chapter: 23
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "5 U.S.C. § 2302"
-generated_at: "2026-03-29T19:57:14.874Z"
+generated_at: "2026-03-29T20:01:52.130Z"
 ---
 
 # § 2302. Prohibited personnel practices
@@ -113,7 +113,7 @@ generated_at: "2026-03-29T19:57:14.874Z"
     - **(B)** Sections 943(c)(2) and 1784(c) of title 10.
     - **(C)** Section 1308(b) of the Alaska National Interest Lands Conservation Act.
     - **(D)** Section 301(c) of the Foreign Service Act of 1980.
-    - **(E)** Sections 106(f), 1 1 See References in Text note below. 7281(e), and 7802(5) 1 of title 38.
+    - **(E)** Sections 106(f), 2 2 See References in Text note below. 7281(e), and 7802(5) 2 of title 38.
     - **(F)** Section 1005(a) of title 39 .
     - **(G)** Any other provision of law that the Director of the Office of Personnel Management designates in regulations as being a veterans’ preference requirement for the purposes of this subsection.
     - **(H)** Any regulation prescribed under subsection (b) or (c) of section 1302 and any other regulation that implements a provision of law referred to in any of the preceding subparagraphs.

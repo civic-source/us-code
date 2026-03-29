@@ -5,7 +5,7 @@ usc_section: "20304"
 chapter: 203
 current_through: "PL 119-4"
 classification: "51 U.S.C. § 20304"
-generated_at: "2026-03-29T20:01:19.054Z"
+generated_at: "2026-03-29T20:01:58.785Z"
 ---
 
 # § 20304. Basic research enhancement

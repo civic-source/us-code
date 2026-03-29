@@ -5,7 +5,7 @@ usc_section: "1705"
 chapter: 15
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 1705"
-generated_at: "2026-03-29T20:01:08.590Z"
+generated_at: "2026-03-29T20:01:41.612Z"
 ---
 
 # § 1705. Tidelands, submerged lands, or filled lands

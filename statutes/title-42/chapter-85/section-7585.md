@@ -5,7 +5,7 @@ usc_section: "7585"
 chapter: 85
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 7585"
-generated_at: "2026-03-29T20:00:55.176Z"
+generated_at: "2026-03-29T20:01:33.387Z"
 ---
 
 # § 7585. Standards for heavy-duty clean-fuel vehicles (GVWR above 8,500 up to 26,000 lbs.)

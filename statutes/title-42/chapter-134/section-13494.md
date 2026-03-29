@@ -5,7 +5,7 @@ usc_section: "13494"
 chapter: 134
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 13494"
-generated_at: "2026-03-29T20:00:55.484Z"
+generated_at: "2026-03-29T20:01:33.704Z"
 ---
 
 # § 13494. Prototype demonstration of advanced nuclear reactor technology

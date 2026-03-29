@@ -5,7 +5,7 @@ usc_section: "12502"
 chapter: 125
 current_through: "PL 119-4"
 classification: "46 U.S.C. § 12502"
-generated_at: "2026-03-29T20:01:03.898Z"
+generated_at: "2026-03-29T20:01:44.449Z"
 ---
 
 # § 12502. Identification numbers, signal letters, and markings

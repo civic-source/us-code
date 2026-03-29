@@ -5,7 +5,7 @@ usc_section: "31301"
 chapter: 313
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 31301"
-generated_at: "2026-03-29T20:01:14.924Z"
+generated_at: "2026-03-29T20:01:51.067Z"
 ---
 
 # § 31301. Definitions

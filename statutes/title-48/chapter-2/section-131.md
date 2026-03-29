@@ -5,7 +5,7 @@ usc_section: "131"
 chapter: 2
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 131"
-generated_at: "2026-03-29T20:01:08.561Z"
+generated_at: "2026-03-29T20:01:41.583Z"
 ---
 
 # § 131. Omitted

@@ -5,7 +5,7 @@ usc_section: "2000gg"
 chapter: 21
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 2000gg"
-generated_at: "2026-03-29T20:00:54.761Z"
+generated_at: "2026-03-29T20:01:32.955Z"
 ---
 
 # § 2000gg. Definitions

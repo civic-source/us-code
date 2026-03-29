@@ -5,7 +5,7 @@ usc_section: "3561"
 chapter: 35
 current_through: "PL 119-4"
 classification: "44 U.S.C. § 3561"
-generated_at: "2026-03-29T19:59:33.836Z"
+generated_at: "2026-03-29T20:00:54.179Z"
 ---
 
 # § 3561. Definitions

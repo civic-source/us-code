@@ -5,7 +5,7 @@ usc_section: "51319"
 chapter: 513
 current_through: "PL 119-4"
 classification: "46 U.S.C. § 51319"
-generated_at: "2026-03-29T20:01:03.923Z"
+generated_at: "2026-03-29T20:01:44.479Z"
 ---
 
 # § 51319. Sexual assault response coordinators and sexual assault victim advocates

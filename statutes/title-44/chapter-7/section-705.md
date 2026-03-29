@@ -5,7 +5,7 @@ usc_section: "705"
 chapter: 7
 current_through: "PL 119-4"
 classification: "44 U.S.C. § 705"
-generated_at: "2026-03-29T19:59:33.810Z"
+generated_at: "2026-03-29T20:00:54.153Z"
 ---
 
 # § 705. Duplicate orders to print

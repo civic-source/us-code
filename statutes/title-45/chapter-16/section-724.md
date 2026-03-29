@@ -5,7 +5,7 @@ usc_section: "724"
 chapter: 16
 current_through: "PL 119-4"
 classification: "45 U.S.C. § 724"
-generated_at: "2026-03-29T19:59:46.758Z"
+generated_at: "2026-03-29T20:00:48.969Z"
 ---
 
 # § 724. Authorization of appropriations

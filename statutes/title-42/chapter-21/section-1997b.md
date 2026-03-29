@@ -5,7 +5,7 @@ usc_section: "1997b"
 chapter: 21
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 1997b"
-generated_at: "2026-03-29T20:00:54.744Z"
+generated_at: "2026-03-29T20:01:32.940Z"
 ---
 
 # § 1997b. Certification requirements; Attorney General to personally sign certification

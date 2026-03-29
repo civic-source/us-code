@@ -5,7 +5,7 @@ usc_section: "3030a"
 chapter: 35
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 3030a"
-generated_at: "2026-03-29T20:00:54.840Z"
+generated_at: "2026-03-29T20:01:33.038Z"
 ---
 
 # § 3030a. Nutrition services incentive program

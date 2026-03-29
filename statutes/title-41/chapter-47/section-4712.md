@@ -5,7 +5,7 @@ usc_section: "4712"
 chapter: 47
 current_through: "PL 119-4"
 classification: "41 U.S.C. § 4712"
-generated_at: "2026-03-29T19:59:34.767Z"
+generated_at: "2026-03-29T20:00:48.372Z"
 ---
 
 # § 4712. Enhancement of contractor protection from reprisal for disclosure of certain information

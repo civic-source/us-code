@@ -5,7 +5,7 @@ usc_section: "703"
 chapter: 7
 current_through: "PL 119-4"
 classification: "44 U.S.C. § 703"
-generated_at: "2026-03-29T19:59:33.809Z"
+generated_at: "2026-03-29T20:00:54.153Z"
 ---
 
 # § 703. Printing extra copies

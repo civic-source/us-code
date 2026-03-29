@@ -5,7 +5,7 @@ usc_section: "5908"
 chapter: 59
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 5908"
-generated_at: "2026-03-29T20:01:14.822Z"
+generated_at: "2026-03-29T20:01:50.967Z"
 ---
 
 # § 5908. Relationship to other laws

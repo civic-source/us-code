@@ -5,7 +5,7 @@ usc_section: "4030"
 chapter: 50
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 4030"
-generated_at: "2026-03-29T20:00:54.894Z"
+generated_at: "2026-03-29T20:01:33.096Z"
 ---
 
 # § 4030. Repealed. Pub. L. 112–141, div. F, title II, § 100225(b) , July 6, 2012 , 126 Stat. 941

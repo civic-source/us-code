@@ -5,7 +5,7 @@ usc_section: "422b"
 chapter: 12
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 422b"
-generated_at: "2026-03-29T19:59:41.389Z"
+generated_at: "2026-03-29T20:00:47.498Z"
 ---
 
 # § 422b. Definitions

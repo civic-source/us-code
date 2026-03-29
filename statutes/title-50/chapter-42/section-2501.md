@@ -5,7 +5,7 @@ usc_section: "2501"
 chapter: 42
 current_through: "PL 119-4"
 classification: "50 U.S.C. § 2501"
-generated_at: "2026-03-29T20:01:07.286Z"
+generated_at: "2026-03-29T20:01:54.693Z"
 ---
 
 # § 2501. Definitions

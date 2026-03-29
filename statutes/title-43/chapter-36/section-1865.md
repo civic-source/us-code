@@ -5,7 +5,7 @@ usc_section: "1865"
 chapter: 36
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 1865"
-generated_at: "2026-03-29T19:59:41.501Z"
+generated_at: "2026-03-29T20:00:47.616Z"
 ---
 
 # § 1865. Investigation of reserves of oil and gas in Outer Continental Shelf

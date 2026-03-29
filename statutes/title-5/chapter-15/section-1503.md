@@ -3,9 +3,9 @@ title: "Section 1503 - Nonpartisan candidacies permitted"
 usc_title: 5
 usc_section: "1503"
 chapter: 15
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "5 U.S.C. § 1503"
-generated_at: "2026-03-29T19:57:14.872Z"
+generated_at: "2026-03-29T20:01:52.128Z"
 ---
 
 # § 1503. Nonpartisan candidacies permitted

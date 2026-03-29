@@ -5,7 +5,7 @@ usc_section: "18"
 chapter: 6
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 18"
-generated_at: "2026-03-29T20:00:54.114Z"
+generated_at: "2026-03-29T20:01:32.221Z"
 ---
 
 # § 300jj–18. Transitions

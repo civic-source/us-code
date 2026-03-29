@@ -5,7 +5,7 @@ usc_section: "761a"
 chapter: 6
 current_through: "PL 119-4"
 classification: "47 U.S.C. § 761a"
-generated_at: "2026-03-29T20:01:01.611Z"
+generated_at: "2026-03-29T20:01:40.094Z"
 ---
 
 # § 761a. Incentives; limitation on expansion pending privatization

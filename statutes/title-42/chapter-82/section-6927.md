@@ -5,7 +5,7 @@ usc_section: "6927"
 chapter: 82
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 6927"
-generated_at: "2026-03-29T20:00:55.066Z"
+generated_at: "2026-03-29T20:01:33.286Z"
 ---
 
 # § 6927. Inspections

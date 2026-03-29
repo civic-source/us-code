@@ -5,7 +5,7 @@ usc_section: "5505"
 chapter: 55
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 5505"
-generated_at: "2026-03-29T20:01:14.819Z"
+generated_at: "2026-03-29T20:01:50.964Z"
 ---
 
 # § 5505. University transportation centers program

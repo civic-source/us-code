@@ -5,7 +5,7 @@ usc_section: "227"
 chapter: 5
 current_through: "PL 119-4"
 classification: "47 U.S.C. § 227"
-generated_at: "2026-03-29T20:01:01.535Z"
+generated_at: "2026-03-29T20:01:40.021Z"
 ---
 
 # § 227. Restrictions on use of telephone equipment

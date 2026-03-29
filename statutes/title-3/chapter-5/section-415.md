@@ -3,9 +3,9 @@ title: "Section 415 - Rights and protections under the Worker Adjustment and Ret
 usc_title: 3
 usc_section: "415"
 chapter: 5
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "3 U.S.C. § 415"
-generated_at: "2026-03-29T19:57:04.446Z"
+generated_at: "2026-03-29T20:01:43.995Z"
 ---
 
 # § 415. Rights and protections under the Worker Adjustment and Retraining Notification Act

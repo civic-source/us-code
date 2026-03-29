@@ -5,7 +5,7 @@ usc_section: "921"
 chapter: 8
 current_through: "PL 119-4"
 classification: "47 U.S.C. § 921"
-generated_at: "2026-03-29T20:01:01.615Z"
+generated_at: "2026-03-29T20:01:40.098Z"
 ---
 
 # § 921. Definitions

@@ -5,7 +5,7 @@ usc_section: "4322"
 chapter: 53
 current_through: "PL 119-4"
 classification: "50 U.S.C. § 4322"
-generated_at: "2026-03-29T20:01:07.426Z"
+generated_at: "2026-03-29T20:01:54.842Z"
 ---
 
 # § 4322. Investments by Custodian in participating certificates issued by Secretary of the Treasury; transfers to and payments from German, Austrian or Hungarian special deposit accounts; allocation of payments

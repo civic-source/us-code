@@ -5,7 +5,7 @@ usc_section: "3902"
 chapter: 39
 current_through: "PL 119-4"
 classification: "44 U.S.C. § 3902"
-generated_at: "2026-03-29T19:59:33.841Z"
+generated_at: "2026-03-29T20:00:54.185Z"
 ---
 
 # § 3902. Appointment of Inspector General; supervision; removal; pay; limits on bonuses; counsel

@@ -5,7 +5,7 @@ usc_section: "339"
 chapter: 9
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 339"
-generated_at: "2026-03-29T19:59:41.371Z"
+generated_at: "2026-03-29T20:00:47.478Z"
 ---
 
 # § 339. Perfection of title to entry; supplementary provisions to sections 335, 337, and 338

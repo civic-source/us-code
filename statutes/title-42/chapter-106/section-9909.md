@@ -5,7 +5,7 @@ usc_section: "9909"
 chapter: 106
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 9909"
-generated_at: "2026-03-29T20:00:55.326Z"
+generated_at: "2026-03-29T20:01:33.532Z"
 ---
 
 # § 9909. Designation and redesignation of eligible entities in unserved areas

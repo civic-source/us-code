@@ -5,7 +5,7 @@ usc_section: "7409"
 chapter: 85
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 7409"
-generated_at: "2026-03-29T20:00:55.122Z"
+generated_at: "2026-03-29T20:01:33.341Z"
 ---
 
 # § 7409. National primary and secondary ambient air quality standards

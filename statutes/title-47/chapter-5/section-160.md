@@ -5,7 +5,7 @@ usc_section: "160"
 chapter: 5
 current_through: "PL 119-4"
 classification: "47 U.S.C. § 160"
-generated_at: "2026-03-29T20:01:01.524Z"
+generated_at: "2026-03-29T20:01:40.015Z"
 ---
 
 # § 160. Competition in provision of telecommunications service

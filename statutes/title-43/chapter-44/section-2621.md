@@ -5,7 +5,7 @@ usc_section: "2621"
 chapter: 44
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 2621"
-generated_at: "2026-03-29T19:59:41.513Z"
+generated_at: "2026-03-29T20:00:47.627Z"
 ---
 
 # § 2621. Coos Bay Wagon Road grant fund; annual payments; appraisal and assessment of land and timber; computation of payments

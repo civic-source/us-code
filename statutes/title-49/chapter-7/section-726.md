@@ -5,7 +5,7 @@ usc_section: "726"
 chapter: 7
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 726"
-generated_at: "2026-03-29T20:01:14.776Z"
+generated_at: "2026-03-29T20:01:50.923Z"
 ---
 
 # [§ 726. Renumbered § 1325]

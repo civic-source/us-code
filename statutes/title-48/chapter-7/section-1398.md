@@ -5,7 +5,7 @@ usc_section: "1398"
 chapter: 7
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 1398"
-generated_at: "2026-03-29T20:01:08.568Z"
+generated_at: "2026-03-29T20:01:41.590Z"
 ---
 
 # § 1398. Omitted

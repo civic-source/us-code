@@ -5,7 +5,7 @@ usc_section: "10508"
 chapter: 105
 current_through: "PL 119-4"
 classification: "52 U.S.C. § 10508"
-generated_at: "2026-03-29T20:01:19.534Z"
+generated_at: "2026-03-29T20:01:57.972Z"
 ---
 
 # § 10508. Voting assistance for blind, disabled or illiterate persons

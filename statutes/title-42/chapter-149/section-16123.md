@@ -5,7 +5,7 @@ usc_section: "16123"
 chapter: 149
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 16123"
-generated_at: "2026-03-29T20:00:55.540Z"
+generated_at: "2026-03-29T20:01:33.760Z"
 ---
 
 # § 16123. Federal procurement of stationary, portable, and micro fuel cells

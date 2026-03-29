@@ -5,7 +5,7 @@ usc_section: "28"
 chapter: 12
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 28"
-generated_at: "2026-03-29T19:59:41.381Z"
+generated_at: "2026-03-29T20:00:47.491Z"
 ---
 
 # § 390h–28. North Coast County Water District recycled water project

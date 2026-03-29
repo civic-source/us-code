@@ -5,7 +5,7 @@ usc_section: "16161e"
 chapter: 149
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 16161e"
-generated_at: "2026-03-29T20:00:55.545Z"
+generated_at: "2026-03-29T20:01:33.768Z"
 ---
 
 # § 16161e. Laboratory management

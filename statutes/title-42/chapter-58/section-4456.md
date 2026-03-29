@@ -5,7 +5,7 @@ usc_section: "4456"
 chapter: 58
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 4456"
-generated_at: "2026-03-29T20:00:54.916Z"
+generated_at: "2026-03-29T20:01:33.119Z"
 ---
 
 # §§ 4453 to 4456. Transferred

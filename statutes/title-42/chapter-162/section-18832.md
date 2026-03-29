@@ -5,7 +5,7 @@ usc_section: "18832"
 chapter: 162
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 18832"
-generated_at: "2026-03-29T20:00:55.692Z"
+generated_at: "2026-03-29T20:01:33.911Z"
 ---
 
 # § 18832. Energy efficiency materials pilot program

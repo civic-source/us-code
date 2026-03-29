@@ -5,7 +5,7 @@ usc_section: "390ss"
 chapter: 12
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 390ss"
-generated_at: "2026-03-29T19:59:41.383Z"
+generated_at: "2026-03-29T20:00:47.494Z"
 ---
 
 # § 390ss. Religious or charitable organizations

@@ -5,7 +5,7 @@ usc_section: "30302"
 chapter: 303
 current_through: "PL 119-4"
 classification: "51 U.S.C. § 30302"
-generated_at: "2026-03-29T20:01:19.055Z"
+generated_at: "2026-03-29T20:01:58.786Z"
 ---
 
 # § 30302. Quality assurance personnel

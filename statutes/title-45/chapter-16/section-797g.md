@@ -5,7 +5,7 @@ usc_section: "797g"
 chapter: 16
 current_through: "PL 119-4"
 classification: "45 U.S.C. § 797g"
-generated_at: "2026-03-29T19:59:46.768Z"
+generated_at: "2026-03-29T20:00:48.976Z"
 ---
 
 # § 797g. New collective-bargaining agreements

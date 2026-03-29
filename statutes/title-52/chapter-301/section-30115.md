@@ -5,7 +5,7 @@ usc_section: "30115"
 chapter: 301
 current_through: "PL 119-4"
 classification: "52 U.S.C. § 30115"
-generated_at: "2026-03-29T20:01:19.563Z"
+generated_at: "2026-03-29T20:01:58.003Z"
 ---
 
 # § 30115. Authorization of appropriations

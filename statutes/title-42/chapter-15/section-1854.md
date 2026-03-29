@@ -5,7 +5,7 @@ usc_section: "1854"
 chapter: 15
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 1854"
-generated_at: "2026-03-29T20:00:54.713Z"
+generated_at: "2026-03-29T20:01:32.903Z"
 ---
 
 # §§ 1851 to 1854. Repealed. Sept. 30, 1950, ch. 1125 § 9, 64 Stat. 1111

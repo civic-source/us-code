@@ -5,7 +5,7 @@ usc_section: "1598"
 chapter: 12
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 1598"
-generated_at: "2026-03-29T20:01:08.587Z"
+generated_at: "2026-03-29T20:01:41.608Z"
 ---
 
 # § 1598. Omitted

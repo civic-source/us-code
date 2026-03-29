@@ -5,7 +5,7 @@ usc_section: "12521"
 chapter: 129
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 12521"
-generated_at: "2026-03-29T20:00:55.410Z"
+generated_at: "2026-03-29T20:01:33.623Z"
 ---
 
 # § 12521. Purpose

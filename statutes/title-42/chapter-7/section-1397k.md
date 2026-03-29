@@ -5,7 +5,7 @@ usc_section: "1397k"
 chapter: 7
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 1397k"
-generated_at: "2026-03-29T20:00:54.593Z"
+generated_at: "2026-03-29T20:01:32.769Z"
 ---
 
 # § 1397k. Elder Justice Coordinating Council

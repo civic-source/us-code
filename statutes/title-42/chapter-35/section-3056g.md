@@ -5,7 +5,7 @@ usc_section: "3056g"
 chapter: 35
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 3056g"
-generated_at: "2026-03-29T20:00:54.851Z"
+generated_at: "2026-03-29T20:01:33.047Z"
 ---
 
 # § 3056g. Employment assistance and Federal housing and supplemental nutrition assistance programs

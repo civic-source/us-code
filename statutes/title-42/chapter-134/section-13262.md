@@ -5,7 +5,7 @@ usc_section: "13262"
 chapter: 134
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 13262"
-generated_at: "2026-03-29T20:00:55.469Z"
+generated_at: "2026-03-29T20:01:33.688Z"
 ---
 
 # § 13262. Enforcement

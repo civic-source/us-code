@@ -5,7 +5,7 @@ usc_section: "913"
 chapter: 21
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 913"
-generated_at: "2026-03-29T19:59:41.426Z"
+generated_at: "2026-03-29T20:00:47.538Z"
 ---
 
 # § 913. Conveyance by land grant railroads of portions of rights of way to State, county, or municipality

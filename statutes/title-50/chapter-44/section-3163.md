@@ -5,7 +5,7 @@ usc_section: "3163"
 chapter: 44
 current_through: "PL 119-4"
 classification: "50 U.S.C. § 3163"
-generated_at: "2026-03-29T20:01:07.342Z"
+generated_at: "2026-03-29T20:01:54.750Z"
 ---
 
 # § 3163. Exceptions

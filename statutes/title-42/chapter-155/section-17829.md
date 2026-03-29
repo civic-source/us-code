@@ -5,7 +5,7 @@ usc_section: "17829"
 chapter: 155
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 17829"
-generated_at: "2026-03-29T20:00:55.633Z"
+generated_at: "2026-03-29T20:01:33.855Z"
 ---
 
 # §§ 17827 to 17829. Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 Stat. 3444

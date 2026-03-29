@@ -5,7 +5,7 @@ usc_section: "524"
 chapter: 20
 current_through: "PL 119-4"
 classification: "50 U.S.C. § 524"
-generated_at: "2026-03-29T20:01:07.225Z"
+generated_at: "2026-03-29T20:01:54.633Z"
 ---
 
 # § 524. Authorization of appropriations

@@ -5,7 +5,7 @@ usc_section: "1473"
 chapter: 8
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 1473"
-generated_at: "2026-03-29T20:00:54.650Z"
+generated_at: "2026-03-29T20:01:32.835Z"
 ---
 
 # § 1473. Loans for housing and buildings on potentially adequate farms; conditions and terms

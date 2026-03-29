@@ -5,7 +5,7 @@ usc_section: "125"
 chapter: 6
 current_through: "PL 119-4"
 classification: "45 U.S.C. § 125"
-generated_at: "2026-03-29T19:59:46.721Z"
+generated_at: "2026-03-29T20:00:48.932Z"
 ---
 
 # §§ 101 to 125. Repealed. May 20, 1926, ch. 347, § 14 , 44 Stat. 587

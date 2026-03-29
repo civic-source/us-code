@@ -3,9 +3,9 @@ title: "Section 1881c - Authorization of appropriations"
 usc_title: 2
 usc_section: "1881c"
 chapter: 28
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "2 U.S.C. § 1881c"
-generated_at: "2026-03-29T19:56:57.227Z"
+generated_at: "2026-03-29T20:01:46.582Z"
 ---
 
 # § 1881c. Authorization of appropriations

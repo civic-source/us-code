@@ -5,7 +5,7 @@ usc_section: "18"
 chapter: 19
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 18"
-generated_at: "2026-03-29T20:00:54.739Z"
+generated_at: "2026-03-29T20:01:32.933Z"
 ---
 
 # § 1962d–18. Study of depletion of natural resources of regions of Colorado, Kansas, New Mexico, Oklahoma, Texas, and Nebraska utilizing Ogallala aquifer; plans; reports to Congress; authorization of appropriation

@@ -5,7 +5,7 @@ usc_section: "238i"
 chapter: 6
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 238i"
-generated_at: "2026-03-29T20:00:53.695Z"
+generated_at: "2026-03-29T20:01:31.810Z"
 ---
 
 # § 238i. Memorials and other acknowledgments for contributions to health of Nation

@@ -5,7 +5,7 @@ usc_section: "12807"
 chapter: 130
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 12807"
-generated_at: "2026-03-29T20:00:55.451Z"
+generated_at: "2026-03-29T20:01:33.670Z"
 ---
 
 # § 12807. Low-income housing conservation and efficiency grant programs

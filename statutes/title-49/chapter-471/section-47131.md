@@ -5,7 +5,7 @@ usc_section: "47131"
 chapter: 471
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 47131"
-generated_at: "2026-03-29T20:01:15.035Z"
+generated_at: "2026-03-29T20:01:51.178Z"
 ---
 
 # [§ 47131. Repealed. Pub. L. 118–63, title II, § 218(d) , May 16, 2024 , 138 Stat. 1055 ]

@@ -5,7 +5,7 @@ usc_section: "1006"
 chapter: 9
 current_through: "PL 119-4"
 classification: "47 U.S.C. § 1006"
-generated_at: "2026-03-29T20:01:01.621Z"
+generated_at: "2026-03-29T20:01:40.104Z"
 ---
 
 # § 1006. Technical requirements and standards; extension of compliance date

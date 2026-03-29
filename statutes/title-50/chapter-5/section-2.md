@@ -5,7 +5,7 @@ usc_section: "2"
 chapter: 5
 current_through: "PL 119-4"
 classification: "50 U.S.C. § 2"
-generated_at: "2026-03-29T20:01:07.212Z"
+generated_at: "2026-03-29T20:01:54.619Z"
 ---
 
 # § 98h–2. Reports

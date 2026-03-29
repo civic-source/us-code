@@ -5,7 +5,7 @@ usc_section: "7386k"
 chapter: 84
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 7386k"
-generated_at: "2026-03-29T20:00:55.119Z"
+generated_at: "2026-03-29T20:01:33.338Z"
 ---
 
 # §§ 7386 to 7386k. Transferred

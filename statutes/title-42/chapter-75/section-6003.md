@@ -5,7 +5,7 @@ usc_section: "6003"
 chapter: 75
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 6003"
-generated_at: "2026-03-29T20:00:54.989Z"
+generated_at: "2026-03-29T20:01:33.211Z"
 ---
 
 # § 6003. Repealed. Pub. L. 106–402, title IV, § 401(a) , Oct. 30, 2000 , 114 Stat. 1737

@@ -5,7 +5,7 @@ usc_section: "4106"
 chapter: 41
 current_through: "PL 119-4"
 classification: "41 U.S.C. § 4106"
-generated_at: "2026-03-29T19:59:34.763Z"
+generated_at: "2026-03-29T20:00:48.369Z"
 ---
 
 # § 4106. Orders

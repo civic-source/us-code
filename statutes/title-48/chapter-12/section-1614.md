@@ -5,7 +5,7 @@ usc_section: "1614"
 chapter: 12
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 1614"
-generated_at: "2026-03-29T20:01:08.587Z"
+generated_at: "2026-03-29T20:01:41.609Z"
 ---
 
 # § 1614. Judges of District Court

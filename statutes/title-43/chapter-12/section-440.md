@@ -5,7 +5,7 @@ usc_section: "440"
 chapter: 12
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 440"
-generated_at: "2026-03-29T19:59:41.392Z"
+generated_at: "2026-03-29T20:00:47.501Z"
 ---
 
 # § 440. Regulations as to use of water and requirements as to cultivation and reclamation of land; cancellation for noncompliance with requirements

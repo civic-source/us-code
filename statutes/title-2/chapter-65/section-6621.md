@@ -3,9 +3,9 @@ title: "Section 6621 - Payment for telecommunications equipment and services; de
 usc_title: 2
 usc_section: "6621"
 chapter: 65
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "2 U.S.C. § 6621"
-generated_at: "2026-03-29T19:56:57.277Z"
+generated_at: "2026-03-29T20:01:46.645Z"
 ---
 
 # § 6621. Payment for telecommunications equipment and services; definitions

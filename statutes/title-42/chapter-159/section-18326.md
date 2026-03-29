@@ -5,7 +5,7 @@ usc_section: "18326"
 chapter: 159
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 18326"
-generated_at: "2026-03-29T20:00:55.658Z"
+generated_at: "2026-03-29T20:01:33.880Z"
 ---
 
 # § 18326. Development of technologies and in-space capabilities for beyond near-Earth space missions

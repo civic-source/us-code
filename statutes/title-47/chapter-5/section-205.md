@@ -5,7 +5,7 @@ usc_section: "205"
 chapter: 5
 current_through: "PL 119-4"
 classification: "47 U.S.C. § 205"
-generated_at: "2026-03-29T20:01:01.525Z"
+generated_at: "2026-03-29T20:01:40.016Z"
 ---
 
 # § 205. Commission authorized to prescribe just and reasonable charges; penalties for violations

@@ -5,7 +5,7 @@ usc_section: "354"
 chapter: 5
 current_through: "PL 119-4"
 classification: "47 U.S.C. § 354"
-generated_at: "2026-03-29T20:01:01.574Z"
+generated_at: "2026-03-29T20:01:40.058Z"
 ---
 
 # § 354. Technical requirements of equipment on radiotelegraph equipped ships

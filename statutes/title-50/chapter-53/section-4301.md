@@ -5,7 +5,7 @@ usc_section: "4301"
 chapter: 53
 current_through: "PL 119-4"
 classification: "50 U.S.C. § 4301"
-generated_at: "2026-03-29T20:01:07.421Z"
+generated_at: "2026-03-29T20:01:54.836Z"
 ---
 
 # § 4301. Designation of chapter

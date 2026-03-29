@@ -5,7 +5,7 @@ usc_section: "2279"
 chapter: 23
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 2279"
-generated_at: "2026-03-29T20:00:54.800Z"
+generated_at: "2026-03-29T20:01:32.995Z"
 ---
 
 # § 2279. Applicability of other laws

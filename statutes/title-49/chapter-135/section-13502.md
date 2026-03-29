@@ -5,7 +5,7 @@ usc_section: "13502"
 chapter: 135
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 13502"
-generated_at: "2026-03-29T20:01:14.842Z"
+generated_at: "2026-03-29T20:01:50.986Z"
 ---
 
 # § 13502. Exempt transportation between Alaska and other States

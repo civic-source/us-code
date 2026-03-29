@@ -5,7 +5,7 @@ usc_section: "2145"
 chapter: 20
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 2145"
-generated_at: "2026-03-29T20:01:08.622Z"
+generated_at: "2026-03-29T20:01:41.645Z"
 ---
 
 # § 2145. Recommendations on financial stability and management responsibility

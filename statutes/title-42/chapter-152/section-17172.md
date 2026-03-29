@@ -5,7 +5,7 @@ usc_section: "17172"
 chapter: 152
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 17172"
-generated_at: "2026-03-29T20:00:55.609Z"
+generated_at: "2026-03-29T20:01:33.832Z"
 ---
 
 # § 17172. Solar energy curriculum development and certification grants

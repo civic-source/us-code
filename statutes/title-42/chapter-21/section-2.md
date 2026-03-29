@@ -5,7 +5,7 @@ usc_section: "2"
 chapter: 21
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-29T20:00:54.751Z"
+generated_at: "2026-03-29T20:01:32.948Z"
 ---
 
 # § 2000h–2. Intervention by Attorney General; denial of equal protection on account of race, color, religion, sex or national origin

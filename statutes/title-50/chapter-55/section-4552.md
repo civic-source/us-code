@@ -5,7 +5,7 @@ usc_section: "4552"
 chapter: 55
 current_through: "PL 119-4"
 classification: "50 U.S.C. § 4552"
-generated_at: "2026-03-29T20:01:07.433Z"
+generated_at: "2026-03-29T20:01:54.849Z"
 ---
 
 # § 4552. Definitions

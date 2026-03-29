@@ -5,7 +5,7 @@ usc_section: "12211"
 chapter: 126
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 12211"
-generated_at: "2026-03-29T20:00:55.404Z"
+generated_at: "2026-03-29T20:01:33.617Z"
 ---
 
 # § 12211. Definitions

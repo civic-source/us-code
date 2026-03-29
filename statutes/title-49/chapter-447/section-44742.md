@@ -5,7 +5,7 @@ usc_section: "44742"
 chapter: 447
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 44742"
-generated_at: "2026-03-29T20:01:14.993Z"
+generated_at: "2026-03-29T20:01:51.136Z"
 ---
 
 # § 44742. Interference with the duties of organization designation authorization unit members

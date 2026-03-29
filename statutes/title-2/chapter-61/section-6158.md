@@ -3,9 +3,9 @@ title: "Section 6158 - Utilization of funds for specialized training of professi
 usc_title: 2
 usc_section: "6158"
 chapter: 61
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "2 U.S.C. § 6158"
-generated_at: "2026-03-29T19:56:57.270Z"
+generated_at: "2026-03-29T20:01:46.634Z"
 ---
 
 # § 6158. Utilization of funds for specialized training of professional staff for Majority and Minority Conference Committee of Senate

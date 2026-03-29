@@ -5,7 +5,7 @@ usc_section: "3303"
 chapter: 33
 current_through: "PL 119-4"
 classification: "44 U.S.C. § 3303"
-generated_at: "2026-03-29T19:59:33.827Z"
+generated_at: "2026-03-29T20:00:54.171Z"
 ---
 
 # § 3303. Lists and schedules of records to be submitted to the Archivist by head of each Government agency

@@ -5,7 +5,7 @@ usc_section: "300w"
 chapter: 6
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 300w"
-generated_at: "2026-03-29T20:00:54.020Z"
+generated_at: "2026-03-29T20:01:32.130Z"
 ---
 
 # § 300w. Authorization of appropriations

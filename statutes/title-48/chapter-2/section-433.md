@@ -5,7 +5,7 @@ usc_section: "433"
 chapter: 2
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 433"
-generated_at: "2026-03-29T20:01:08.562Z"
+generated_at: "2026-03-29T20:01:41.584Z"
 ---
 
 # § 433. Repealed. Pub. L. 85–508, § 20 , July 7, 1958 , 72 Stat. 351

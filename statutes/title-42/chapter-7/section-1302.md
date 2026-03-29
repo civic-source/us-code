@@ -5,7 +5,7 @@ usc_section: "1302"
 chapter: 7
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 1302"
-generated_at: "2026-03-29T20:00:54.247Z"
+generated_at: "2026-03-29T20:01:32.368Z"
 ---
 
 # § 1302. Rules and regulations; impact analyses of Medicare and Medicaid rules and regulations on small rural hospitals

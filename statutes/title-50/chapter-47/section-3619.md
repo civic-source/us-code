@@ -5,7 +5,7 @@ usc_section: "3619"
 chapter: 47
 current_through: "PL 119-4"
 classification: "50 U.S.C. § 3619"
-generated_at: "2026-03-29T20:01:07.394Z"
+generated_at: "2026-03-29T20:01:54.802Z"
 ---
 
 # § 3619. Senior Chief Petty Officer Shannon Kent Award for Distinguished Female Personnel

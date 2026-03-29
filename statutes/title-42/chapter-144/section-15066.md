@@ -5,7 +5,7 @@ usc_section: "15066"
 chapter: 144
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 15066"
-generated_at: "2026-03-29T20:00:55.511Z"
+generated_at: "2026-03-29T20:01:33.731Z"
 ---
 
 # § 15066. Authorization of appropriations

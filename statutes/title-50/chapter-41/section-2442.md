@@ -5,7 +5,7 @@ usc_section: "2442"
 chapter: 41
 current_through: "PL 119-4"
 classification: "50 U.S.C. § 2442"
-generated_at: "2026-03-29T20:01:07.284Z"
+generated_at: "2026-03-29T20:01:54.691Z"
 ---
 
 # § 2442. Repealed. Pub. L. 112–239, div. C, title XXXI, § 3132(c)(1)(A) , Jan. 2, 2013 , 126 Stat. 2186

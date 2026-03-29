@@ -5,7 +5,7 @@ usc_section: "44310"
 chapter: 443
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 44310"
-generated_at: "2026-03-29T20:01:14.976Z"
+generated_at: "2026-03-29T20:01:51.119Z"
 ---
 
 # § 44310. Ending effective date

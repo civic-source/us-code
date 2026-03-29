@@ -5,7 +5,7 @@ usc_section: "5904"
 chapter: 74
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 5904"
-generated_at: "2026-03-29T20:00:54.986Z"
+generated_at: "2026-03-29T20:01:33.209Z"
 ---
 
 # § 5904. Research, development, and demonstration program governing principles

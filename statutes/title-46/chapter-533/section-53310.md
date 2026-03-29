@@ -5,7 +5,7 @@ usc_section: "53310"
 chapter: 533
 current_through: "PL 119-4"
 classification: "46 U.S.C. § 53310"
-generated_at: "2026-03-29T20:01:03.931Z"
+generated_at: "2026-03-29T20:01:44.488Z"
 ---
 
 # § 53310. Obligation of deposits and period for construction of certain vessels

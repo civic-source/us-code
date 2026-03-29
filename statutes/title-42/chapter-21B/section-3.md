@@ -5,7 +5,7 @@ usc_section: "3"
 chapter: 21
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-29T20:00:54.752Z"
+generated_at: "2026-03-29T20:01:32.949Z"
 ---
 
 # § 2000bb–3. Applicability

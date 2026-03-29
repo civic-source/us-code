@@ -5,7 +5,7 @@ usc_section: "17212"
 chapter: 152
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 17212"
-generated_at: "2026-03-29T20:00:55.612Z"
+generated_at: "2026-03-29T20:01:33.834Z"
 ---
 
 # § 17212. Water power technology research, development, and demonstration

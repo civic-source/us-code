@@ -5,7 +5,7 @@ usc_section: "702"
 chapter: 7
 current_through: "PL 119-4"
 classification: "44 U.S.C. § 702"
-generated_at: "2026-03-29T19:59:33.809Z"
+generated_at: "2026-03-29T20:00:54.153Z"
 ---
 
 # § 702. Extra copies of documents and reports

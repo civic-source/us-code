@@ -5,7 +5,7 @@ usc_section: "84b"
 chapter: 4
 current_through: "PL 119-4"
 classification: "47 U.S.C. § 84b"
-generated_at: "2026-03-29T20:01:01.519Z"
+generated_at: "2026-03-29T20:01:40.008Z"
 ---
 
 # §§ 84a, 84b. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 647

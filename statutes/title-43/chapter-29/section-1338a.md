@@ -5,7 +5,7 @@ usc_section: "1338a"
 chapter: 29
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 1338a"
-generated_at: "2026-03-29T19:59:41.440Z"
+generated_at: "2026-03-29T20:00:47.554Z"
 ---
 
 # § 1338a. Moneys received as a result of forfeiture by Outer Continental Shelf permittee, lessee, or right-of-way holder; deposits and transfers to decommissioning account; return of excess amounts

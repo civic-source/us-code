@@ -5,7 +5,7 @@ usc_section: "363"
 chapter: 11
 current_through: "PL 119-4"
 classification: "45 U.S.C. § 363"
-generated_at: "2026-03-29T19:59:46.751Z"
+generated_at: "2026-03-29T20:00:48.960Z"
 ---
 
 # § 363. Exclusiveness of provisions; transfers from State unemployment compensation accounts to railroad unemployment insurance account

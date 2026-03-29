@@ -5,7 +5,7 @@ usc_section: "65"
 chapter: 6
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 65"
-generated_at: "2026-03-29T20:00:54.067Z"
+generated_at: "2026-03-29T20:01:32.178Z"
 ---
 
 # § 300ff–65. Requirement of submission of application containing certain agreements and assurances

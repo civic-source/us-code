@@ -5,7 +5,7 @@ usc_section: "17113b"
 chapter: 152
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 17113b"
-generated_at: "2026-03-29T20:00:55.604Z"
+generated_at: "2026-03-29T20:01:33.825Z"
 ---
 
 # § 17113b. Advanced industrial facilities deployment program

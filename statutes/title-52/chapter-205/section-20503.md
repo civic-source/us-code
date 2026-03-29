@@ -5,7 +5,7 @@ usc_section: "20503"
 chapter: 205
 current_through: "PL 119-4"
 classification: "52 U.S.C. § 20503"
-generated_at: "2026-03-29T20:01:19.538Z"
+generated_at: "2026-03-29T20:01:57.976Z"
 ---
 
 # § 20503. National procedures for voter registration for elections for Federal office

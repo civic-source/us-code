@@ -5,7 +5,7 @@ usc_section: "2076"
 chapter: 23
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 2076"
-generated_at: "2026-03-29T20:00:54.773Z"
+generated_at: "2026-03-29T20:01:32.969Z"
 ---
 
 # § 2076. Guaranteed purchase prices

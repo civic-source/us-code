@@ -5,7 +5,7 @@ usc_section: "60503"
 chapter: 605
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 60503"
-generated_at: "2026-03-29T20:01:15.064Z"
+generated_at: "2026-03-29T20:01:51.212Z"
 ---
 
 # § 60503. Effect of enactment

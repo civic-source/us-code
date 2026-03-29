@@ -3,9 +3,9 @@ title: "Section 8345 - Payment of benefits; commencement, termination, and waive
 usc_title: 5
 usc_section: "8345"
 chapter: 83
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "5 U.S.C. § 8345"
-generated_at: "2026-03-29T19:57:14.976Z"
+generated_at: "2026-03-29T20:01:52.240Z"
 ---
 
 # § 8345. Payment of benefits; commencement, termination, and waiver of annuity

@@ -3,9 +3,9 @@ title: "Section 425 - Rights and protections under the Occupational Safety and H
 usc_title: 3
 usc_section: "425"
 chapter: 5
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "3 U.S.C. § 425"
-generated_at: "2026-03-29T19:57:04.447Z"
+generated_at: "2026-03-29T20:01:43.995Z"
 ---
 
 # § 425. Rights and protections under the Occupational Safety and Health Act of 1970; procedures for remedy of violations

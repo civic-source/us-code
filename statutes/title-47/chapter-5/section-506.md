@@ -5,7 +5,7 @@ usc_section: "506"
 chapter: 5
 current_through: "PL 119-4"
 classification: "47 U.S.C. § 506"
-generated_at: "2026-03-29T20:01:01.586Z"
+generated_at: "2026-03-29T20:01:40.070Z"
 ---
 
 # § 506. Repealed. Pub. L. 96–507, § 1 , Dec. 8, 1980 , 94 Stat. 2747

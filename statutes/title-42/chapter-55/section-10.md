@@ -5,7 +5,7 @@ usc_section: "10"
 chapter: 55
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-29T20:00:54.915Z"
+generated_at: "2026-03-29T20:01:33.118Z"
 ---
 
 # § 4370m–10. GAO report

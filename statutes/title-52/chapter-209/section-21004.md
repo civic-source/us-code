@@ -5,7 +5,7 @@ usc_section: "21004"
 chapter: 209
 current_through: "PL 119-4"
 classification: "52 U.S.C. § 21004"
-generated_at: "2026-03-29T20:01:19.546Z"
+generated_at: "2026-03-29T20:01:57.986Z"
 ---
 
 # § 21004. State plan

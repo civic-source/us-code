@@ -5,7 +5,7 @@ usc_section: "12376"
 chapter: 127
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 12376"
-generated_at: "2026-03-29T20:00:55.407Z"
+generated_at: "2026-03-29T20:01:33.621Z"
 ---
 
 # § 12376. Definitions

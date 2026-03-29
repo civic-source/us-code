@@ -5,7 +5,7 @@ usc_section: "1857k"
 chapter: 15
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 1857k"
-generated_at: "2026-03-29T20:00:54.714Z"
+generated_at: "2026-03-29T20:01:32.904Z"
 ---
 
 # §§ 1857g to 1857k. Transferred

@@ -5,7 +5,7 @@ usc_section: "20306"
 chapter: 203
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 20306"
-generated_at: "2026-03-29T20:01:14.870Z"
+generated_at: "2026-03-29T20:01:51.014Z"
 ---
 
 # § 20306. Exemption for technological improvements

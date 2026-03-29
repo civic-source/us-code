@@ -5,7 +5,7 @@ usc_section: "10105"
 chapter: 108
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 10105"
-generated_at: "2026-03-29T20:00:55.331Z"
+generated_at: "2026-03-29T20:01:33.539Z"
 ---
 
 # § 10105. Limitation on spending authority

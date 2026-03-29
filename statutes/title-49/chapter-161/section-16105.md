@@ -5,7 +5,7 @@ usc_section: "16105"
 chapter: 161
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 16105"
-generated_at: "2026-03-29T20:01:14.859Z"
+generated_at: "2026-03-29T20:01:51.003Z"
 ---
 
 # § 16105. General criminal penalty when specific penalty not provided

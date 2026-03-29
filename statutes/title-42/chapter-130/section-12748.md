@@ -5,7 +5,7 @@ usc_section: "12748"
 chapter: 130
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 12748"
-generated_at: "2026-03-29T20:00:55.448Z"
+generated_at: "2026-03-29T20:01:33.666Z"
 ---
 
 # § 12748. HOME Investment Trust Funds

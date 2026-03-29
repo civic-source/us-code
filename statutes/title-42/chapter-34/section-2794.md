@@ -5,7 +5,7 @@ usc_section: "2794"
 chapter: 34
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 2794"
-generated_at: "2026-03-29T20:00:54.820Z"
+generated_at: "2026-03-29T20:01:33.015Z"
 ---
 
 # §§ 2792 to 2794. Omitted

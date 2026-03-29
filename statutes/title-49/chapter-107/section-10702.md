@@ -5,7 +5,7 @@ usc_section: "10702"
 chapter: 107
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 10702"
-generated_at: "2026-03-29T20:01:14.832Z"
+generated_at: "2026-03-29T20:01:50.976Z"
 ---
 
 # § 10702. Authority for rail carriers to establish rates, classifications, rules, and practices

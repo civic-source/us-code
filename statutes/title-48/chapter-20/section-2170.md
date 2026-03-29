@@ -5,7 +5,7 @@ usc_section: "2170"
 chapter: 20
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 2170"
-generated_at: "2026-03-29T20:01:08.624Z"
+generated_at: "2026-03-29T20:01:41.647Z"
 ---
 
 # § 2170. Applicable rules of procedure

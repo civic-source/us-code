@@ -5,7 +5,7 @@ usc_section: "146"
 chapter: 7
 current_through: "PL 119-4"
 classification: "45 U.S.C. § 146"
-generated_at: "2026-03-29T19:59:46.722Z"
+generated_at: "2026-03-29T20:00:48.932Z"
 ---
 
 # §§ 131 to 146. Repealed. May 20, 1926, ch. 347, § 14 , 44 Stat. 587

@@ -5,7 +5,7 @@ usc_section: "1310"
 chapter: 7
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 1310"
-generated_at: "2026-03-29T20:00:54.253Z"
+generated_at: "2026-03-29T20:01:32.371Z"
 ---
 
 # § 1310. Cooperative research or demonstration projects

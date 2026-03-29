@@ -5,7 +5,7 @@ usc_section: "100102"
 chapter: 1001
 current_through: "PL 119-4"
 classification: "54 U.S.C. § 100102"
-generated_at: "2026-03-29T20:01:18.391Z"
+generated_at: "2026-03-29T20:02:00.527Z"
 ---
 
 # § 100102. Definitions

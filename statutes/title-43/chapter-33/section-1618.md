@@ -5,7 +5,7 @@ usc_section: "1618"
 chapter: 33
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 1618"
-generated_at: "2026-03-29T19:59:41.466Z"
+generated_at: "2026-03-29T20:00:47.582Z"
 ---
 
 # § 1618. Revocation of reserved rights; excepted reserve; acquisition of title to surface and subsurface estates in reserve; election of Village Corporations; restoration of land to Elim Native Corporation

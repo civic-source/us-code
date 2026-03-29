@@ -5,7 +5,7 @@ usc_section: "44510"
 chapter: 445
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 44510"
-generated_at: "2026-03-29T20:01:14.979Z"
+generated_at: "2026-03-29T20:01:51.121Z"
 ---
 
 # § 44510. Repealed. Pub. L. 118–63, title IV, § 401(a) , May 16, 2024 , 138 Stat. 1148

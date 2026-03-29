@@ -5,7 +5,7 @@ usc_section: "670"
 chapter: 7
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 670"
-generated_at: "2026-03-29T20:00:54.216Z"
+generated_at: "2026-03-29T20:01:32.327Z"
 ---
 
 # § 670. Congressional declaration of purpose; authorization of appropriations

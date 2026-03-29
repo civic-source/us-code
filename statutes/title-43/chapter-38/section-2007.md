@@ -5,7 +5,7 @@ usc_section: "2007"
 chapter: 38
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 2007"
-generated_at: "2026-03-29T19:59:41.502Z"
+generated_at: "2026-03-29T20:00:47.618Z"
 ---
 
 # § 2007. Decision of President

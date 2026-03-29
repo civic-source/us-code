@@ -5,7 +5,7 @@ usc_section: "2021"
 chapter: 38
 current_through: "PL 119-4"
 classification: "50 U.S.C. § 2021"
-generated_at: "2026-03-29T20:01:07.264Z"
+generated_at: "2026-03-29T20:01:54.669Z"
 ---
 
 # § 2021. Contributions to fund

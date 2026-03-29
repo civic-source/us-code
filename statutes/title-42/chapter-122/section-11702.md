@@ -5,7 +5,7 @@ usc_section: "11702"
 chapter: 122
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 11702"
-generated_at: "2026-03-29T20:00:55.387Z"
+generated_at: "2026-03-29T20:01:33.599Z"
 ---
 
 # § 11702. Declaration of policy

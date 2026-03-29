@@ -5,7 +5,7 @@ usc_section: "1423i"
 chapter: 8
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 1423i"
-generated_at: "2026-03-29T20:01:08.574Z"
+generated_at: "2026-03-29T20:01:41.596Z"
 ---
 
 # § 1423i. Approval of bills

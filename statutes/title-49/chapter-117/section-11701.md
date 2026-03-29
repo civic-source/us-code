@@ -5,7 +5,7 @@ usc_section: "11701"
 chapter: 117
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 11701"
-generated_at: "2026-03-29T20:01:14.839Z"
+generated_at: "2026-03-29T20:01:50.983Z"
 ---
 
 # § 11701. General authority

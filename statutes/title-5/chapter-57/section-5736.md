@@ -3,9 +3,9 @@ title: "Section 5736 - Travel, transportation, and relocation expenses of certai
 usc_title: 5
 usc_section: "5736"
 chapter: 57
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "5 U.S.C. § 5736"
-generated_at: "2026-03-29T19:57:14.926Z"
+generated_at: "2026-03-29T20:01:52.184Z"
 ---
 
 # § 5736. Travel, transportation, and relocation expenses of certain nonappropriated fund employees

@@ -5,7 +5,7 @@ usc_section: "1511"
 chapter: 32
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 1511"
-generated_at: "2026-03-29T19:59:41.451Z"
+generated_at: "2026-03-29T20:00:47.566Z"
 ---
 
 # § 1511. Reconnaissance investigations by Secretary of the Interior; reports; 10-year moratorium on water importation studies

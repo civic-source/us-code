@@ -5,7 +5,7 @@ usc_section: "8236b"
 chapter: 91
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 8236b"
-generated_at: "2026-03-29T20:00:55.224Z"
+generated_at: "2026-03-29T20:01:33.430Z"
 ---
 
 # § 8236b. Report

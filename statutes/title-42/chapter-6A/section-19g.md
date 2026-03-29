@@ -5,7 +5,7 @@ usc_section: "19g"
 chapter: 6
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 19g"
-generated_at: "2026-03-29T20:00:54.009Z"
+generated_at: "2026-03-29T20:01:32.113Z"
 ---
 
 # § 300j–19g. Midsize and Large Drinking Water System Infrastructure Resilience and Sustainability Program

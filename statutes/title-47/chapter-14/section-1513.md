@@ -5,7 +5,7 @@ usc_section: "1513"
 chapter: 14
 current_through: "PL 119-4"
 classification: "47 U.S.C. § 1513"
-generated_at: "2026-03-29T20:01:01.640Z"
+generated_at: "2026-03-29T20:01:40.123Z"
 ---
 
 # § 1513. No additional funds authorized

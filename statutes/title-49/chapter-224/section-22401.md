@@ -5,7 +5,7 @@ usc_section: "22401"
 chapter: 224
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 22401"
-generated_at: "2026-03-29T20:01:14.877Z"
+generated_at: "2026-03-29T20:01:51.021Z"
 ---
 
 # § 22401. Definitions

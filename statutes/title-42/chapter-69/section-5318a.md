@@ -5,7 +5,7 @@ usc_section: "5318a"
 chapter: 69
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 5318a"
-generated_at: "2026-03-29T20:00:54.973Z"
+generated_at: "2026-03-29T20:01:33.191Z"
 ---
 
 # § 5318a. John Heinz Neighborhood Development Program

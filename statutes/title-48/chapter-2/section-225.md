@@ -5,7 +5,7 @@ usc_section: "225"
 chapter: 2
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 225"
-generated_at: "2026-03-29T20:01:08.561Z"
+generated_at: "2026-03-29T20:01:41.583Z"
 ---
 
 # § 225. Repealed. Pub. L. 85–296 , Sept. 4, 1957 , 71 Stat. 617

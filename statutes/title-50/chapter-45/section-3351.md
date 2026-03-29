@@ -5,7 +5,7 @@ usc_section: "3351"
 chapter: 45
 current_through: "PL 119-4"
 classification: "50 U.S.C. § 3351"
-generated_at: "2026-03-29T20:01:07.363Z"
+generated_at: "2026-03-29T20:01:54.773Z"
 ---
 
 # § 3351. Improving quality of information in background investigation request packages

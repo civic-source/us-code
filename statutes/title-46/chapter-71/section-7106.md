@@ -5,7 +5,7 @@ usc_section: "7106"
 chapter: 71
 current_through: "PL 119-4"
 classification: "46 U.S.C. § 7106"
-generated_at: "2026-03-29T20:01:03.878Z"
+generated_at: "2026-03-29T20:01:44.426Z"
 ---
 
 # § 7106. Duration of licenses

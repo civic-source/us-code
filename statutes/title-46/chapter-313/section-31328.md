@@ -5,7 +5,7 @@ usc_section: "31328"
 chapter: 313
 current_through: "PL 119-4"
 classification: "46 U.S.C. § 31328"
-generated_at: "2026-03-29T20:01:03.906Z"
+generated_at: "2026-03-29T20:01:44.460Z"
 ---
 
 # [§ 31328. Repealed. Pub. L. 104–324, title XI, § 1113(b)(1) , Oct. 19, 1996 , 110 Stat. 3970 ]

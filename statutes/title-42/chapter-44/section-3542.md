@@ -5,7 +5,7 @@ usc_section: "3542"
 chapter: 44
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 3542"
-generated_at: "2026-03-29T20:00:54.876Z"
+generated_at: "2026-03-29T20:01:33.078Z"
 ---
 
 # § 3542. Public notice and comment regarding demonstration programs not expressly authorized in law

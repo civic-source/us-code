@@ -5,7 +5,7 @@ usc_section: "4321"
 chapter: 55
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 4321"
-generated_at: "2026-03-29T20:00:54.903Z"
+generated_at: "2026-03-29T20:01:33.108Z"
 ---
 
 # § 4321. Congressional declaration of purpose

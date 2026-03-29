@@ -5,7 +5,7 @@ usc_section: "4636"
 chapter: 61
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 4636"
-generated_at: "2026-03-29T20:00:54.920Z"
+generated_at: "2026-03-29T20:01:33.127Z"
 ---
 
 # § 4636. Payments not to be considered as income for revenue purposes or for eligibility for assistance under Social Security Act or other Federal law

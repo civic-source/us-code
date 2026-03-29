@@ -5,7 +5,7 @@ usc_section: "7143"
 chapter: 84
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 7143"
-generated_at: "2026-03-29T20:00:55.094Z"
+generated_at: "2026-03-29T20:01:33.316Z"
 ---
 
 # § 7143. Repealed. Pub. L. 106–65, div. C, title XXXII, § 3294(d)(1) , Oct. 5, 1999 , 113 Stat. 970

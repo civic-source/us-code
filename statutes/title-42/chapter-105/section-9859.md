@@ -5,7 +5,7 @@ usc_section: "9859"
 chapter: 105
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 9859"
-generated_at: "2026-03-29T20:00:55.323Z"
+generated_at: "2026-03-29T20:01:33.529Z"
 ---
 
 # § 9859. Definitions

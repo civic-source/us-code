@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 34
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-29T20:00:54.824Z"
+generated_at: "2026-03-29T20:01:33.019Z"
 ---
 
 # § 2992b–1. Additional requirements applicable to rulemaking

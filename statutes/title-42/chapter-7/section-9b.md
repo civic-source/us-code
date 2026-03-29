@@ -5,7 +5,7 @@ usc_section: "9b"
 chapter: 7
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 9b"
-generated_at: "2026-03-29T20:00:54.276Z"
+generated_at: "2026-03-29T20:01:32.397Z"
 ---
 
 # § 1320b–9b. Adult health quality measures

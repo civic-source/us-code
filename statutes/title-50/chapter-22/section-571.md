@@ -5,7 +5,7 @@ usc_section: "571"
 chapter: 22
 current_through: "PL 119-4"
 classification: "50 U.S.C. § 571"
-generated_at: "2026-03-29T20:01:07.226Z"
+generated_at: "2026-03-29T20:01:54.633Z"
 ---
 
 # § 571. Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641

@@ -5,7 +5,7 @@ usc_section: "3533"
 chapter: 46
 current_through: "PL 119-4"
 classification: "50 U.S.C. § 3533"
-generated_at: "2026-03-29T20:01:07.388Z"
+generated_at: "2026-03-29T20:01:54.799Z"
 ---
 
 # § 3533. Special Victim Investigator

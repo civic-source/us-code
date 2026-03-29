@@ -5,7 +5,7 @@ usc_section: "12"
 chapter: 84
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 12"
-generated_at: "2026-03-29T20:00:55.118Z"
+generated_at: "2026-03-29T20:01:33.337Z"
 ---
 
 # § 7385s–12. Maximum aggregate compensation

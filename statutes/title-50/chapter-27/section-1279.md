@@ -5,7 +5,7 @@ usc_section: "1279"
 chapter: 27
 current_through: "PL 119-4"
 classification: "50 U.S.C. § 1279"
-generated_at: "2026-03-29T20:01:07.229Z"
+generated_at: "2026-03-29T20:01:54.636Z"
 ---
 
 # §§ 1271 to 1279. Repealed. Pub. L. 85–861, § 36A , Sept. 2, 1958 , 72 Stat. 1569

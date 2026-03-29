@@ -5,7 +5,7 @@ usc_section: "11905"
 chapter: 124
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 11905"
-generated_at: "2026-03-29T20:00:55.391Z"
+generated_at: "2026-03-29T20:01:33.606Z"
 ---
 
 # § 11905. Definitions

@@ -5,7 +5,7 @@ usc_section: "20154"
 chapter: 201
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 20154"
-generated_at: "2026-03-29T20:01:14.865Z"
+generated_at: "2026-03-29T20:01:51.009Z"
 ---
 
 # [§ 20154. Repealed. Pub. L. 114–94, div. A, title XI, § 11301(c)(1) , Dec. 4, 2015 , 129 Stat. 1648 ]

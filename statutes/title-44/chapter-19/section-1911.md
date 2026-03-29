@@ -5,7 +5,7 @@ usc_section: "1911"
 chapter: 19
 current_through: "PL 119-4"
 classification: "44 U.S.C. § 1911"
-generated_at: "2026-03-29T19:59:33.821Z"
+generated_at: "2026-03-29T20:00:54.164Z"
 ---
 
 # § 1911. Free use of Government publications in depositories; disposal of unwanted publications

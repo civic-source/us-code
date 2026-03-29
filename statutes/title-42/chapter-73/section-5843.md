@@ -5,7 +5,7 @@ usc_section: "5843"
 chapter: 73
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 5843"
-generated_at: "2026-03-29T20:00:54.983Z"
+generated_at: "2026-03-29T20:01:33.205Z"
 ---
 
 # § 5843. Office of Nuclear Reactor Regulation

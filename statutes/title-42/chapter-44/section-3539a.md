@@ -5,7 +5,7 @@ usc_section: "3539a"
 chapter: 44
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 3539a"
-generated_at: "2026-03-29T20:00:54.875Z"
+generated_at: "2026-03-29T20:01:33.077Z"
 ---
 
 # § 3539a. Department of Housing and Urban Development Nonrecurring Expenses Fund

@@ -5,7 +5,7 @@ usc_section: "17952"
 chapter: 156
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 17952"
-generated_at: "2026-03-29T20:00:55.640Z"
+generated_at: "2026-03-29T20:01:33.858Z"
 ---
 
 # § 17952. Regulatory references

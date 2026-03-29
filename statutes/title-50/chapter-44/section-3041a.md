@@ -5,7 +5,7 @@ usc_section: "3041a"
 chapter: 44
 current_through: "PL 119-4"
 classification: "50 U.S.C. § 3041a"
-generated_at: "2026-03-29T20:01:07.326Z"
+generated_at: "2026-03-29T20:01:54.734Z"
 ---
 
 # § 3041a. Director of the National Reconnaissance Office

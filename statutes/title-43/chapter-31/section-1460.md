@@ -5,7 +5,7 @@ usc_section: "1460"
 chapter: 31
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 1460"
-generated_at: "2026-03-29T19:59:41.447Z"
+generated_at: "2026-03-29T20:00:47.561Z"
 ---
 
 # § 1460. Copies of records, documents, etc.; charges; disposition of receipts

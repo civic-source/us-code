@@ -5,7 +5,7 @@ usc_section: "53"
 chapter: 3
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 53"
-generated_at: "2026-03-29T19:59:41.358Z"
+generated_at: "2026-03-29T20:00:47.467Z"
 ---
 
 # § 53. Powers devolved on Secretary of the Interior on turning over of papers to States

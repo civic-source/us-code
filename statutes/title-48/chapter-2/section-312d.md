@@ -5,7 +5,7 @@ usc_section: "312d"
 chapter: 2
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 312d"
-generated_at: "2026-03-29T20:01:08.561Z"
+generated_at: "2026-03-29T20:01:41.583Z"
 ---
 
 # §§ 312 to 312d. Repealed. Pub. L. 104–58, title I, § 104(g)(1) , Nov. 28, 1995 , 109 Stat. 560

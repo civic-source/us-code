@@ -5,7 +5,7 @@ usc_section: "3022"
 chapter: 35
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 3022"
-generated_at: "2026-03-29T20:00:54.836Z"
+generated_at: "2026-03-29T20:01:33.033Z"
 ---
 
 # § 3022. Definitions

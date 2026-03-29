@@ -5,7 +5,7 @@ usc_section: "1395ccc"
 chapter: 7
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 1395ccc"
-generated_at: "2026-03-29T20:00:54.505Z"
+generated_at: "2026-03-29T20:01:32.668Z"
 ---
 
 # § 1395ccc. Offset of payments to individuals to collect past-due obligations arising from breach of scholarship and loan contract

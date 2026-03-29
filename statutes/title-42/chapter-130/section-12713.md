@@ -5,7 +5,7 @@ usc_section: "12713"
 chapter: 130
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 12713"
-generated_at: "2026-03-29T20:00:55.445Z"
+generated_at: "2026-03-29T20:01:33.663Z"
 ---
 
 # § 12713. Eligibility under first-time homebuyer programs

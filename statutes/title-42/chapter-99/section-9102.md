@@ -5,7 +5,7 @@ usc_section: "9102"
 chapter: 99
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 9102"
-generated_at: "2026-03-29T20:00:55.256Z"
+generated_at: "2026-03-29T20:01:33.461Z"
 ---
 
 # § 9102. Definitions

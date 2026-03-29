@@ -5,7 +5,7 @@ usc_section: "41104"
 chapter: 411
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 41104"
-generated_at: "2026-03-29T20:01:14.956Z"
+generated_at: "2026-03-29T20:01:51.098Z"
 ---
 
 # § 41104. Additional limitations and requirements of charter air carriers

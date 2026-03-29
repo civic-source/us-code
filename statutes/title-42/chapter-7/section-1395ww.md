@@ -5,7 +5,7 @@ usc_section: "1395ww"
 chapter: 7
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 1395ww"
-generated_at: "2026-03-29T20:00:54.479Z"
+generated_at: "2026-03-29T20:01:32.636Z"
 ---
 
 # § 1395ww. Payments to hospitals for inpatient hospital services

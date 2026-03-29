@@ -5,7 +5,7 @@ usc_section: "2822"
 chapter: 34
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 2822"
-generated_at: "2026-03-29T20:00:54.820Z"
+generated_at: "2026-03-29T20:01:33.016Z"
 ---
 
 # §§ 2821, 2822. Omitted

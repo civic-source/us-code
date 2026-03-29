@@ -5,7 +5,7 @@ usc_section: "45"
 chapter: 6
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 45"
-generated_at: "2026-03-29T20:00:54.086Z"
+generated_at: "2026-03-29T20:01:32.194Z"
 ---
 
 # § 300gg–45. Relief for high risk pools

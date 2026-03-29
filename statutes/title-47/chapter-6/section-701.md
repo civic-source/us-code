@@ -5,7 +5,7 @@ usc_section: "701"
 chapter: 6
 current_through: "PL 119-4"
 classification: "47 U.S.C. § 701"
-generated_at: "2026-03-29T20:01:01.610Z"
+generated_at: "2026-03-29T20:01:40.093Z"
 ---
 
 # § 701. Omitted

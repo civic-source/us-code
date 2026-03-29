@@ -5,7 +5,7 @@ usc_section: "420"
 chapter: 7
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 420"
-generated_at: "2026-03-29T20:00:54.163Z"
+generated_at: "2026-03-29T20:01:32.268Z"
 ---
 
 # § 420. Disability provisions inapplicable if benefit rights impaired

@@ -5,7 +5,7 @@ usc_section: "19104"
 chapter: 163
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 19104"
-generated_at: "2026-03-29T20:00:55.710Z"
+generated_at: "2026-03-29T20:01:33.928Z"
 ---
 
 # § 19104. Requirements

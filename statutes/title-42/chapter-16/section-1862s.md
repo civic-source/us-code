@@ -5,7 +5,7 @@ usc_section: "1862s"
 chapter: 16
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 1862s"
-generated_at: "2026-03-29T20:00:54.725Z"
+generated_at: "2026-03-29T20:01:32.919Z"
 ---
 
 # § 1862s. Reaffirmation of merit-based peer review

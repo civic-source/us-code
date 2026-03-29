@@ -5,7 +5,7 @@ usc_section: "3"
 chapter: 20
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-29T20:00:54.741Z"
+generated_at: "2026-03-29T20:01:32.937Z"
 ---
 
 # § 1973gg–3. Transferred

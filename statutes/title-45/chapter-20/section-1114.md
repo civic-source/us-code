@@ -5,7 +5,7 @@ usc_section: "1114"
 chapter: 20
 current_through: "PL 119-4"
 classification: "45 U.S.C. § 1114"
-generated_at: "2026-03-29T19:59:46.774Z"
+generated_at: "2026-03-29T20:00:48.981Z"
 ---
 
 # § 1114. Repealed. Pub. L. 99–509, title IV, § 4033(c)(1)(C)(i)(III) , Oct. 21, 1986 , 100 Stat. 1908

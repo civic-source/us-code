@@ -5,7 +5,7 @@ usc_section: "31100"
 chapter: 311
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 31100"
-generated_at: "2026-03-29T20:01:14.911Z"
+generated_at: "2026-03-29T20:01:51.054Z"
 ---
 
 # § 31100. Purpose

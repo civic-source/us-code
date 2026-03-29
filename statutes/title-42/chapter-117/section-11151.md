@@ -5,7 +5,7 @@ usc_section: "11151"
 chapter: 117
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 11151"
-generated_at: "2026-03-29T20:00:55.367Z"
+generated_at: "2026-03-29T20:01:33.577Z"
 ---
 
 # § 11151. Definitions

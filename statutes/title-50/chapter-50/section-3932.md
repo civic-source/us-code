@@ -5,7 +5,7 @@ usc_section: "3932"
 chapter: 50
 current_through: "PL 119-4"
 classification: "50 U.S.C. § 3932"
-generated_at: "2026-03-29T20:01:07.403Z"
+generated_at: "2026-03-29T20:01:54.817Z"
 ---
 
 # § 3932. Stay of proceedings when servicemember has notice

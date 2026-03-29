@@ -5,7 +5,7 @@ usc_section: "2445"
 chapter: 41
 current_through: "PL 119-4"
 classification: "50 U.S.C. § 2445"
-generated_at: "2026-03-29T20:01:07.284Z"
+generated_at: "2026-03-29T20:01:54.692Z"
 ---
 
 # § 2445. Limitation on bonuses for employees who engage in improper program management

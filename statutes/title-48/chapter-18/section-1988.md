@@ -5,7 +5,7 @@ usc_section: "1988"
 chapter: 18
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 1988"
-generated_at: "2026-03-29T20:01:08.615Z"
+generated_at: "2026-03-29T20:01:41.638Z"
 ---
 
 # § 1988. United States policy regarding the Freely Associated States

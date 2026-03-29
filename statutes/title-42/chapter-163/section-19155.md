@@ -5,7 +5,7 @@ usc_section: "19155"
 chapter: 163
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 19155"
-generated_at: "2026-03-29T20:00:55.715Z"
+generated_at: "2026-03-29T20:01:33.933Z"
 ---
 
 # § 19155. Cultural and institutional barriers to expanding the academic and Federal STEM workforce

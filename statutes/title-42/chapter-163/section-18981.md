@@ -5,7 +5,7 @@ usc_section: "18981"
 chapter: 163
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 18981"
-generated_at: "2026-03-29T20:00:55.698Z"
+generated_at: "2026-03-29T20:01:33.917Z"
 ---
 
 # § 18981. Definitions

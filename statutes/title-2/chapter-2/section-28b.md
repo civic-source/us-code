@@ -3,9 +3,9 @@ title: "Section 28b - Printing and binding as public document of Precedents of H
 usc_title: 2
 usc_section: "28b"
 chapter: 2
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "2 U.S.C. § 28b"
-generated_at: "2026-03-29T19:56:57.125Z"
+generated_at: "2026-03-29T20:01:46.473Z"
 ---
 
 # § 28b. Printing and binding as public document of Precedents of House of Representatives; number of sets authorized

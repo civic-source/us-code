@@ -5,7 +5,7 @@ usc_section: "18701"
 chapter: 162
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 18701"
-generated_at: "2026-03-29T20:00:55.674Z"
+generated_at: "2026-03-29T20:01:33.893Z"
 ---
 
 # § 18701. Definitions

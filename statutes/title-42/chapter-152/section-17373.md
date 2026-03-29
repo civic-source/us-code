@@ -5,7 +5,7 @@ usc_section: "17373"
 chapter: 152
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 17373"
-generated_at: "2026-03-29T20:00:55.627Z"
+generated_at: "2026-03-29T20:01:33.846Z"
 ---
 
 # § 17373. Convention on Supplementary Compensation for Nuclear Damage contingent cost allocation

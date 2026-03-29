@@ -5,7 +5,7 @@ usc_section: "975b"
 chapter: 22
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 975b"
-generated_at: "2026-03-29T19:59:41.431Z"
+generated_at: "2026-03-29T20:00:47.545Z"
 ---
 
 # § 975b. Repealed. Pub. L. 94–579, title VII, § 704(a) , Oct. 21, 1976 , 90 Stat. 2792

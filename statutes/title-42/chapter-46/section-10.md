@@ -5,7 +5,7 @@ usc_section: "10"
 chapter: 46
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-29T20:00:54.883Z"
+generated_at: "2026-03-29T20:01:33.087Z"
 ---
 
 # § 3796gg–10. Transferred

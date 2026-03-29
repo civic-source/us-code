@@ -5,7 +5,7 @@ usc_section: "15a"
 chapter: 6
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 15a"
-generated_at: "2026-03-29T20:00:54.079Z"
+generated_at: "2026-03-29T20:01:32.186Z"
 ---
 
 # § 300gg–15a. Provision of additional information

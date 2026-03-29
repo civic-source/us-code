@@ -5,7 +5,7 @@ usc_section: "1383a"
 chapter: 7
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 1383a"
-generated_at: "2026-03-29T20:00:54.310Z"
+generated_at: "2026-03-29T20:01:32.430Z"
 ---
 
 # § 1383a. Penalties for fraud

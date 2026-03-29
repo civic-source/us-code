@@ -5,7 +5,7 @@ usc_section: "253"
 chapter: 5
 current_through: "PL 119-4"
 classification: "47 U.S.C. § 253"
-generated_at: "2026-03-29T20:01:01.543Z"
+generated_at: "2026-03-29T20:01:40.029Z"
 ---
 
 # § 253. Removal of barriers to entry

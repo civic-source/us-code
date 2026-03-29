@@ -3,9 +3,9 @@ title: "Section 122a - Repealed. Pub. L. 104–186, title II, § 204(66) , Aug. 
 usc_title: 2
 usc_section: "122a"
 chapter: 4
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "2 U.S.C. § 122a"
-generated_at: "2026-03-29T19:56:57.137Z"
+generated_at: "2026-03-29T20:01:46.480Z"
 ---
 
 # § 122a. Repealed. Pub. L. 104–186, title II, § 204(66) , Aug. 20, 1996 , 110 Stat. 1740

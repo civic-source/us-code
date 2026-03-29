@@ -5,7 +5,7 @@ usc_section: "1406l"
 chapter: 7
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 1406l"
-generated_at: "2026-03-29T20:01:08.569Z"
+generated_at: "2026-03-29T20:01:41.591Z"
 ---
 
 # § 1406l. Effective date

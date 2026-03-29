@@ -5,7 +5,7 @@ usc_section: "749"
 chapter: 4
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 749"
-generated_at: "2026-03-29T20:01:08.564Z"
+generated_at: "2026-03-29T20:01:41.586Z"
 ---
 
 # § 749. Harbors and navigable waters transferred; definitions

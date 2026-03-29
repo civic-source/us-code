@@ -5,7 +5,7 @@ usc_section: "5913"
 chapter: 74
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 5913"
-generated_at: "2026-03-29T20:00:54.988Z"
+generated_at: "2026-03-29T20:01:33.211Z"
 ---
 
 # § 5913. Evaluation by National Institute of Standards and Technology of energy-related inventions prior to awarding of grants by Secretary; promulgation of regulations

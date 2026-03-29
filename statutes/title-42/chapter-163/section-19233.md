@@ -5,7 +5,7 @@ usc_section: "19233"
 chapter: 163
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 19233"
-generated_at: "2026-03-29T20:00:55.720Z"
+generated_at: "2026-03-29T20:01:33.938Z"
 ---
 
 # § 19233. Review of contracts and agreements

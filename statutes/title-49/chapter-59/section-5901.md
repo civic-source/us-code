@@ -5,7 +5,7 @@ usc_section: "5901"
 chapter: 59
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 5901"
-generated_at: "2026-03-29T20:01:14.821Z"
+generated_at: "2026-03-29T20:01:50.966Z"
 ---
 
 # § 5901. Definitions

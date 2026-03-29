@@ -5,7 +5,7 @@ usc_section: "5109"
 chapter: 51
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 5109"
-generated_at: "2026-03-29T20:01:14.789Z"
+generated_at: "2026-03-29T20:01:50.935Z"
 ---
 
 # § 5109. Motor carrier safety permits

@@ -5,7 +5,7 @@ usc_section: "1612"
 chapter: 33
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 1612"
-generated_at: "2026-03-29T19:59:41.464Z"
+generated_at: "2026-03-29T20:00:47.579Z"
 ---
 
 # § 1612. Surveys

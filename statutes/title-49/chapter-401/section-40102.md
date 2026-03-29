@@ -5,7 +5,7 @@ usc_section: "40102"
 chapter: 401
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 40102"
-generated_at: "2026-03-29T20:01:14.946Z"
+generated_at: "2026-03-29T20:01:51.089Z"
 ---
 
 # § 40102. Definitions

@@ -5,7 +5,7 @@ usc_section: "404"
 chapter: 5
 current_through: "PL 119-4"
 classification: "47 U.S.C. § 404"
-generated_at: "2026-03-29T20:01:01.584Z"
+generated_at: "2026-03-29T20:01:40.067Z"
 ---
 
 # § 404. Reports of investigations

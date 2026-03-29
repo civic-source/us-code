@@ -5,7 +5,7 @@ usc_section: "7271c"
 chapter: 84
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 7271c"
-generated_at: "2026-03-29T20:00:55.101Z"
+generated_at: "2026-03-29T20:01:33.323Z"
 ---
 
 # § 7271c. Repealed. Pub. L. 105–85, div. C, title XXXI, § 3152(b) , Nov. 18, 1997 , 111 Stat. 2042

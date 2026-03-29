@@ -5,7 +5,7 @@ usc_section: "9"
 chapter: 46
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-03-29T20:00:54.883Z"
+generated_at: "2026-03-29T20:01:33.087Z"
 ---
 
 # § 3796gg–9. Repealed. Pub. L. 109–271, § 3(a) , Aug. 12, 2006 , 120 Stat. 754

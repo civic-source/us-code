@@ -5,7 +5,7 @@ usc_section: "32302"
 chapter: 323
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 32302"
-generated_at: "2026-03-29T20:01:14.931Z"
+generated_at: "2026-03-29T20:01:51.073Z"
 ---
 
 # § 32302. Passenger motor vehicle information

@@ -5,7 +5,7 @@ usc_section: "502"
 chapter: 12
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 502"
-generated_at: "2026-03-29T19:59:41.398Z"
+generated_at: "2026-03-29T20:00:47.508Z"
 ---
 
 # § 502. Emergency fund to assure continuous operation of projects and project facilities governed by Federal reclamation law

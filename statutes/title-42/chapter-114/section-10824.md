@@ -5,7 +5,7 @@ usc_section: "10824"
 chapter: 114
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 10824"
-generated_at: "2026-03-29T20:00:55.359Z"
+generated_at: "2026-03-29T20:01:33.568Z"
 ---
 
 # § 10824. Reports by Secretary

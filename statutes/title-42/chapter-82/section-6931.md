@@ -5,7 +5,7 @@ usc_section: "6931"
 chapter: 82
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 6931"
-generated_at: "2026-03-29T20:00:55.067Z"
+generated_at: "2026-03-29T20:01:33.287Z"
 ---
 
 # § 6931. Authorization of assistance to States

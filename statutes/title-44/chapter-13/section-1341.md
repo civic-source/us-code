@@ -5,7 +5,7 @@ usc_section: "1341"
 chapter: 13
 current_through: "PL 119-4"
 classification: "44 U.S.C. § 1341"
-generated_at: "2026-03-29T19:59:33.818Z"
+generated_at: "2026-03-29T20:00:54.159Z"
 ---
 
 # § 1341. Smithsonian Institution: report

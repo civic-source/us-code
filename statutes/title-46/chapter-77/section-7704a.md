@@ -5,7 +5,7 @@ usc_section: "7704a"
 chapter: 77
 current_through: "PL 119-4"
 classification: "46 U.S.C. § 7704a"
-generated_at: "2026-03-29T20:01:03.880Z"
+generated_at: "2026-03-29T20:01:44.429Z"
 ---
 
 # § 7704a. Sexual harassment or sexual assault as grounds for suspension or revocation

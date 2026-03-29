@@ -5,7 +5,7 @@ usc_section: "451d"
 chapter: 12
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 451d"
-generated_at: "2026-03-29T19:59:41.393Z"
+generated_at: "2026-03-29T20:00:47.503Z"
 ---
 
 # § 451d. Disposal of improvements; water rights; revertibil­ity of relinquished land

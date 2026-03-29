@@ -5,7 +5,7 @@ usc_section: "14302"
 chapter: 143
 current_through: "PL 119-4"
 classification: "46 U.S.C. § 14302"
-generated_at: "2026-03-29T20:01:03.900Z"
+generated_at: "2026-03-29T20:01:44.452Z"
 ---
 
 # § 14302. Measurement

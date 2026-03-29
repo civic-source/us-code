@@ -5,7 +5,7 @@ usc_section: "201"
 chapter: 5
 current_through: "PL 119-4"
 classification: "47 U.S.C. § 201"
-generated_at: "2026-03-29T20:01:01.524Z"
+generated_at: "2026-03-29T20:01:40.015Z"
 ---
 
 # § 201. Service and charges

@@ -5,7 +5,7 @@ usc_section: "7541"
 chapter: 85
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 7541"
-generated_at: "2026-03-29T20:00:55.162Z"
+generated_at: "2026-03-29T20:01:33.373Z"
 ---
 
 # § 7541. Compliance by vehicles and engines in actual use

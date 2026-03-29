@@ -5,7 +5,7 @@ usc_section: "10503"
 chapter: 105
 current_through: "PL 119-4"
 classification: "46 U.S.C. § 10503"
-generated_at: "2026-03-29T20:01:03.887Z"
+generated_at: "2026-03-29T20:01:44.436Z"
 ---
 
 # § 10503. Exhibiting merchant mariners’ documents

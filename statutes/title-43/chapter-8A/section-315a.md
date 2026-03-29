@@ -5,7 +5,7 @@ usc_section: "315a"
 chapter: 8
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 315a"
-generated_at: "2026-03-29T19:59:41.366Z"
+generated_at: "2026-03-29T20:00:47.473Z"
 ---
 
 # § 315a. Protection, administration, regulation, and improvement of districts; rules and regulations; study of erosion and flood control; offenses

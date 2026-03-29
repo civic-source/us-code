@@ -5,7 +5,7 @@ usc_section: "24302"
 chapter: 243
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 24302"
-generated_at: "2026-03-29T20:01:14.885Z"
+generated_at: "2026-03-29T20:01:51.029Z"
 ---
 
 # § 24302. Board of directors

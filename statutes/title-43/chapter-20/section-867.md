@@ -5,7 +5,7 @@ usc_section: "867"
 chapter: 20
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 867"
-generated_at: "2026-03-29T19:59:41.422Z"
+generated_at: "2026-03-29T20:00:47.534Z"
 ---
 
 # § 867. Omitted

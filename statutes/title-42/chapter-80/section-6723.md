@@ -5,7 +5,7 @@ usc_section: "6723"
 chapter: 80
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 6723"
-generated_at: "2026-03-29T20:00:55.047Z"
+generated_at: "2026-03-29T20:01:33.271Z"
 ---
 
 # § 6723. Allocation of amounts

@@ -5,7 +5,7 @@ usc_section: "507"
 chapter: 5
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 507"
-generated_at: "2026-03-29T20:01:14.775Z"
+generated_at: "2026-03-29T20:01:50.922Z"
 ---
 
 # § 507. Enforcement

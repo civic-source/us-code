@@ -5,7 +5,7 @@ usc_section: "1664"
 chapter: 13
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 1664"
-generated_at: "2026-03-29T20:01:08.589Z"
+generated_at: "2026-03-29T20:01:41.611Z"
 ---
 
 # § 1664. Repealed. Pub. L. 109–304, § 19 , Oct. 6, 2006 , 120 Stat. 1710

@@ -5,7 +5,7 @@ usc_section: "20101"
 chapter: 201
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 20101"
-generated_at: "2026-03-29T20:01:14.860Z"
+generated_at: "2026-03-29T20:01:51.004Z"
 ---
 
 # § 20101. Purpose

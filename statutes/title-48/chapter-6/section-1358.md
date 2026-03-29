@@ -5,7 +5,7 @@ usc_section: "1358"
 chapter: 6
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 1358"
-generated_at: "2026-03-29T20:01:08.567Z"
+generated_at: "2026-03-29T20:01:41.589Z"
 ---
 
 # §§ 1357, 1358. Omitted

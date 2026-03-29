@@ -5,7 +5,7 @@ usc_section: "4"
 chapter: 6
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-29T20:00:54.123Z"
+generated_at: "2026-03-29T20:01:32.229Z"
 ---
 
 # § 300mm–4. Clinical Centers of Excellence and Data Centers

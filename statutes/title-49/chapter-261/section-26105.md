@@ -5,7 +5,7 @@ usc_section: "26105"
 chapter: 261
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 26105"
-generated_at: "2026-03-29T20:01:14.900Z"
+generated_at: "2026-03-29T20:01:51.043Z"
 ---
 
 # § 26105. Definitions

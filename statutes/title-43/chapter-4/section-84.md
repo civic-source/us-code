@@ -5,7 +5,7 @@ usc_section: "84"
 chapter: 4
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 84"
-generated_at: "2026-03-29T19:59:41.359Z"
+generated_at: "2026-03-29T20:00:47.468Z"
 ---
 
 # § 84. Repealed. Pub. L. 86–649, title II, § 202(b) , July 14, 1960 , 74 Stat. 507

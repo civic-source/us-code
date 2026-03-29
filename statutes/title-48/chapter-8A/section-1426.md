@@ -5,7 +5,7 @@ usc_section: "1426"
 chapter: 8
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 1426"
-generated_at: "2026-03-29T20:01:08.576Z"
+generated_at: "2026-03-29T20:01:41.597Z"
 ---
 
 # § 1426. Repealed. Aug. 2, 1954, ch. 649 , title II, § 205, 68 Stat. 622

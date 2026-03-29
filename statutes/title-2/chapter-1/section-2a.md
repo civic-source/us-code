@@ -3,9 +3,9 @@ title: "Section 2a - Reapportionment of Representatives; time and manner; existi
 usc_title: 2
 usc_section: "2a"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "2 U.S.C. § 2a"
-generated_at: "2026-03-29T19:56:57.124Z"
+generated_at: "2026-03-29T20:01:46.472Z"
 ---
 
 # § 2a. Reapportionment of Representatives; time and manner; existing decennial census figures as basis; statement by President; duty of clerk

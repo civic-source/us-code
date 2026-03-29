@@ -5,7 +5,7 @@ usc_section: "1881a"
 chapter: 36
 current_through: "PL 119-4"
 classification: "50 U.S.C. § 1881a"
-generated_at: "2026-03-29T20:01:07.253Z"
+generated_at: "2026-03-29T20:01:54.660Z"
 ---
 
 # § 1881a. Procedures for targeting certain persons outside the United States other than United States persons

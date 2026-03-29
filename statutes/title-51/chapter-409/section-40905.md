@@ -5,7 +5,7 @@ usc_section: "40905"
 chapter: 409
 current_through: "PL 119-4"
 classification: "51 U.S.C. § 40905"
-generated_at: "2026-03-29T20:01:19.061Z"
+generated_at: "2026-03-29T20:01:58.795Z"
 ---
 
 # § 40905. Program to expand distance learning in rural underserved areas

@@ -5,7 +5,7 @@ usc_section: "1507"
 chapter: 15
 current_through: "PL 119-4"
 classification: "44 U.S.C. § 1507"
-generated_at: "2026-03-29T19:59:33.818Z"
+generated_at: "2026-03-29T20:00:54.160Z"
 ---
 
 # § 1507. Filing document as constructive notice; publication in Federal Register as presumption of validity; judicial notice; citation

@@ -5,7 +5,7 @@ usc_section: "101523"
 chapter: 1015
 current_through: "PL 119-4"
 classification: "54 U.S.C. § 101523"
-generated_at: "2026-03-29T20:01:18.402Z"
+generated_at: "2026-03-29T20:02:00.535Z"
 ---
 
 # § 101523. Procedures applicable to transportation plans and projects

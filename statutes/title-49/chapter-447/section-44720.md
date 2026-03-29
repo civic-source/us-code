@@ -5,7 +5,7 @@ usc_section: "44720"
 chapter: 447
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 44720"
-generated_at: "2026-03-29T20:01:14.989Z"
+generated_at: "2026-03-29T20:01:51.128Z"
 ---
 
 # § 44720. Meteorological services

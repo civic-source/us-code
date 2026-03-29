@@ -5,7 +5,7 @@ usc_section: "2012"
 chapter: 23
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 2012"
-generated_at: "2026-03-29T20:00:54.764Z"
+generated_at: "2026-03-29T20:01:32.960Z"
 ---
 
 # § 2012. Congressional findings

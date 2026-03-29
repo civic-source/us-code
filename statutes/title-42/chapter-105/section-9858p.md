@@ -5,7 +5,7 @@ usc_section: "9858p"
 chapter: 105
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 9858p"
-generated_at: "2026-03-29T20:00:55.323Z"
+generated_at: "2026-03-29T20:01:33.528Z"
 ---
 
 # § 9858p. Severability

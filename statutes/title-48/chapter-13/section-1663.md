@@ -5,7 +5,7 @@ usc_section: "1663"
 chapter: 13
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 1663"
-generated_at: "2026-03-29T20:01:08.589Z"
+generated_at: "2026-03-29T20:01:41.611Z"
 ---
 
 # § 1663. Acknowledgment of deeds

@@ -5,7 +5,7 @@ usc_section: "14408"
 chapter: 138
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 14408"
-generated_at: "2026-03-29T20:00:55.495Z"
+generated_at: "2026-03-29T20:01:33.716Z"
 ---
 
 # § 14408. Relation to other laws

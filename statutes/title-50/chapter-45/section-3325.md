@@ -5,7 +5,7 @@ usc_section: "3325"
 chapter: 45
 current_through: "PL 119-4"
 classification: "50 U.S.C. § 3325"
-generated_at: "2026-03-29T20:01:07.354Z"
+generated_at: "2026-03-29T20:01:54.763Z"
 ---
 
 # § 3325. Reaffirmation of longstanding prohibition against drug trafficking by employees of the intelligence community

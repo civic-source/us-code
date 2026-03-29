@@ -3,9 +3,9 @@ title: "Section 4911 - House of Representatives Page Board; establishment and pu
 usc_title: 2
 usc_section: "4911"
 chapter: 49
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "2 U.S.C. § 4911"
-generated_at: "2026-03-29T19:56:57.260Z"
+generated_at: "2026-03-29T20:01:46.623Z"
 ---
 
 # § 4911. House of Representatives Page Board; establishment and purpose

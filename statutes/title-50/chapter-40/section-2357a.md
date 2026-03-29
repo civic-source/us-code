@@ -5,7 +5,7 @@ usc_section: "2357a"
 chapter: 40
 current_through: "PL 119-4"
 classification: "50 U.S.C. § 2357a"
-generated_at: "2026-03-29T20:01:07.280Z"
+generated_at: "2026-03-29T20:01:54.687Z"
 ---
 
 # § 2357a. Definitions

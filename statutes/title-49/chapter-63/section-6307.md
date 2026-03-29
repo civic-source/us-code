@@ -5,7 +5,7 @@ usc_section: "6307"
 chapter: 63
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 6307"
-generated_at: "2026-03-29T20:01:14.823Z"
+generated_at: "2026-03-29T20:01:50.968Z"
 ---
 
 # § 6307. Furnishing of information, data, or reports by Federal agencies

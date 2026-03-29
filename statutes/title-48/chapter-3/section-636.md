@@ -5,7 +5,7 @@ usc_section: "636"
 chapter: 3
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 636"
-generated_at: "2026-03-29T20:01:08.562Z"
+generated_at: "2026-03-29T20:01:41.584Z"
 ---
 
 # §§ 635, 636. Omitted

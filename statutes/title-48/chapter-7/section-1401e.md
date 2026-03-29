@@ -5,7 +5,7 @@ usc_section: "1401e"
 chapter: 7
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 1401e"
-generated_at: "2026-03-29T20:01:08.568Z"
+generated_at: "2026-03-29T20:01:41.590Z"
 ---
 
 # §§ 1401 to 1401e. Repealed. Pub. L. 110–40, § 1(a) , June 29, 2007 , 121 Stat. 232

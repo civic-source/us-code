@@ -5,7 +5,7 @@ usc_section: "6"
 chapter: 1
 current_through: "PL 119-4"
 classification: "50 U.S.C. § 6"
-generated_at: "2026-03-29T20:01:07.209Z"
+generated_at: "2026-03-29T20:01:54.616Z"
 ---
 
 # § 6. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 644

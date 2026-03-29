@@ -5,7 +5,7 @@ usc_section: "1604"
 chapter: 33
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 1604"
-generated_at: "2026-03-29T19:59:41.461Z"
+generated_at: "2026-03-29T20:00:47.575Z"
 ---
 
 # § 1604. Enrollment

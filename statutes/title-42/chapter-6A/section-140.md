@@ -5,7 +5,7 @@ usc_section: "140"
 chapter: 6
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 140"
-generated_at: "2026-03-29T20:00:54.073Z"
+generated_at: "2026-03-29T20:01:32.182Z"
 ---
 
 # § 300ff–140. Applicability of part

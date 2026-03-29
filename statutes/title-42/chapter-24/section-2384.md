@@ -5,7 +5,7 @@ usc_section: "2384"
 chapter: 24
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 2384"
-generated_at: "2026-03-29T20:00:54.816Z"
+generated_at: "2026-03-29T20:01:33.011Z"
 ---
 
 # § 2384. Transfer to governmental entity or private nonprofit organization; determination of transferee

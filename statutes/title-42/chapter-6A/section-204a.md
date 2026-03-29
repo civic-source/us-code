@@ -5,7 +5,7 @@ usc_section: "204a"
 chapter: 6
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 204a"
-generated_at: "2026-03-29T20:00:53.681Z"
+generated_at: "2026-03-29T20:01:31.800Z"
 ---
 
 # § 204a. Deployment readiness

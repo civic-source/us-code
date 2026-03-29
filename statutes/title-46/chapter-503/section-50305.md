@@ -5,7 +5,7 @@ usc_section: "50305"
 chapter: 503
 current_through: "PL 119-4"
 classification: "46 U.S.C. § 50305"
-generated_at: "2026-03-29T20:01:03.918Z"
+generated_at: "2026-03-29T20:01:44.473Z"
 ---
 
 # § 50305. Appointment of trustee or receiver and operation of vessels

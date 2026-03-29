@@ -5,7 +5,7 @@ usc_section: "25f"
 chapter: 6
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 25f"
-generated_at: "2026-03-29T20:00:53.894Z"
+generated_at: "2026-03-29T20:01:31.999Z"
 ---
 
 # § 290bb–25f. Prevention and education programs

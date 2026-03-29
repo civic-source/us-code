@@ -5,7 +5,7 @@ usc_section: "13436"
 chapter: 134
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 13436"
-generated_at: "2026-03-29T20:00:55.480Z"
+generated_at: "2026-03-29T20:01:33.701Z"
 ---
 
 # § 13436. Repealed. Pub. L. 104–271, title I, § 103(b)(2) , Oct. 9, 1996 , 110 Stat. 3306

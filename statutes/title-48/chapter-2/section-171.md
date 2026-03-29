@@ -5,7 +5,7 @@ usc_section: "171"
 chapter: 2
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 171"
-generated_at: "2026-03-29T20:01:08.561Z"
+generated_at: "2026-03-29T20:01:41.583Z"
 ---
 
 # § 171. Repealed. Pub. L. 87–304, § 9(a)(1) , Sept. 26, 1961 , 75 Stat. 664

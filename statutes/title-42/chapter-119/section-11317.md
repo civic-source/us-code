@@ -5,7 +5,7 @@ usc_section: "11317"
 chapter: 119
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 11317"
-generated_at: "2026-03-29T20:00:55.371Z"
+generated_at: "2026-03-29T20:01:33.584Z"
 ---
 
 # § 11317. Definitions

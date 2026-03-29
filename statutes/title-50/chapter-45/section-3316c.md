@@ -5,7 +5,7 @@ usc_section: "3316c"
 chapter: 45
 current_through: "PL 119-4"
 classification: "50 U.S.C. § 3316c"
-generated_at: "2026-03-29T20:01:07.353Z"
+generated_at: "2026-03-29T20:01:54.763Z"
 ---
 
 # § 3316c. Development of definitions for certain terms relating to intelligence

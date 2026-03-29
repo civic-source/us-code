@@ -5,7 +5,7 @@ usc_section: "13337"
 chapter: 134
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 13337"
-generated_at: "2026-03-29T20:00:55.472Z"
+generated_at: "2026-03-29T20:01:33.692Z"
 ---
 
 # § 13337. Metallurgical coal development

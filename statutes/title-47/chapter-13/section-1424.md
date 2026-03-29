@@ -5,7 +5,7 @@ usc_section: "1424"
 chapter: 13
 current_through: "PL 119-4"
 classification: "47 U.S.C. § 1424"
-generated_at: "2026-03-29T20:01:01.633Z"
+generated_at: "2026-03-29T20:01:40.115Z"
 ---
 
 # § 1424. Establishment of the First Responder Network Authority

@@ -5,7 +5,7 @@ usc_section: "23"
 chapter: 35
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 23"
-generated_at: "2026-03-29T20:00:54.842Z"
+generated_at: "2026-03-29T20:01:33.040Z"
 ---
 
 # § 3030g–23. Nutrition services impact study

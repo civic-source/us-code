@@ -5,7 +5,7 @@ usc_section: "1781a"
 chapter: 35
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 1781a"
-generated_at: "2026-03-29T19:59:41.496Z"
+generated_at: "2026-03-29T20:00:47.611Z"
 ---
 
 # § 1781a. Acceptance of donation of certain existing permits or leases

@@ -5,7 +5,7 @@ usc_section: "1984"
 chapter: 18
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 1984"
-generated_at: "2026-03-29T20:01:08.613Z"
+generated_at: "2026-03-29T20:01:41.636Z"
 ---
 
 # § 1984. Agreements with Federated States of Micronesia

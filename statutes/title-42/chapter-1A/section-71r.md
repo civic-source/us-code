@@ -5,7 +5,7 @@ usc_section: "71r"
 chapter: 1
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 71r"
-generated_at: "2026-03-29T20:00:53.674Z"
+generated_at: "2026-03-29T20:01:31.799Z"
 ---
 
 # § 71r. Omitted

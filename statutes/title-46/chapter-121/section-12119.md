@@ -5,7 +5,7 @@ usc_section: "12119"
 chapter: 121
 current_through: "PL 119-4"
 classification: "46 U.S.C. § 12119"
-generated_at: "2026-03-29T20:01:03.896Z"
+generated_at: "2026-03-29T20:01:44.443Z"
 ---
 
 # § 12119. Owners engaged primarily in leasing or financing transactions

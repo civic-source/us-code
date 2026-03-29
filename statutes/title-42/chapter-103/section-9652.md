@@ -5,7 +5,7 @@ usc_section: "9652"
 chapter: 103
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 9652"
-generated_at: "2026-03-29T20:00:55.292Z"
+generated_at: "2026-03-29T20:01:33.496Z"
 ---
 
 # § 9652. Effective dates; savings provisions

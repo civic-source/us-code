@@ -5,7 +5,7 @@ usc_section: "3352f"
 chapter: 45
 current_through: "PL 119-4"
 classification: "50 U.S.C. § 3352f"
-generated_at: "2026-03-29T20:01:07.365Z"
+generated_at: "2026-03-29T20:01:54.774Z"
 ---
 
 # § 3352f. Information-sharing program for positions of trust and security clearances

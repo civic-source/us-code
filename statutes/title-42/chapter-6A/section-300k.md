@@ -5,7 +5,7 @@ usc_section: "300k"
 chapter: 6
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 300k"
-generated_at: "2026-03-29T20:00:54.011Z"
+generated_at: "2026-03-29T20:01:32.115Z"
 ---
 
 # § 300k. Establishment of program of grants to States

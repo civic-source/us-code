@@ -5,7 +5,7 @@ usc_section: "15903"
 chapter: 149
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 15903"
-generated_at: "2026-03-29T20:00:55.521Z"
+generated_at: "2026-03-29T20:01:33.744Z"
 ---
 
 # § 15903. Marginal property production incentives

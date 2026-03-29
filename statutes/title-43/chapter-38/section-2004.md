@@ -5,7 +5,7 @@ usc_section: "2004"
 chapter: 38
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 2004"
-generated_at: "2026-03-29T19:59:41.502Z"
+generated_at: "2026-03-29T20:00:47.617Z"
 ---
 
 # § 2004. Applications for approval of proposed crude oil transportation systems

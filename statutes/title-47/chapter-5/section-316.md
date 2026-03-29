@@ -5,7 +5,7 @@ usc_section: "316"
 chapter: 5
 current_through: "PL 119-4"
 classification: "47 U.S.C. § 316"
-generated_at: "2026-03-29T20:01:01.561Z"
+generated_at: "2026-03-29T20:01:40.046Z"
 ---
 
 # § 316. Modification by Commission of station licenses or construction permits; burden of proof

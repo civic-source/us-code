@@ -5,7 +5,7 @@ usc_section: "309"
 chapter: 5
 current_through: "PL 119-4"
 classification: "47 U.S.C. § 309"
-generated_at: "2026-03-29T20:01:01.557Z"
+generated_at: "2026-03-29T20:01:40.042Z"
 ---
 
 # § 309. Application for license

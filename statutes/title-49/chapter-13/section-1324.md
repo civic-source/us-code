@@ -5,7 +5,7 @@ usc_section: "1324"
 chapter: 13
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 1324"
-generated_at: "2026-03-29T20:01:14.786Z"
+generated_at: "2026-03-29T20:01:50.932Z"
 ---
 
 # § 1324. Service of process in court proceedings

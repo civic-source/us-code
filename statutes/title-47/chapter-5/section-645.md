@@ -5,7 +5,7 @@ usc_section: "645"
 chapter: 5
 current_through: "PL 119-4"
 classification: "47 U.S.C. § 645"
-generated_at: "2026-03-29T20:01:01.610Z"
+generated_at: "2026-03-29T20:01:40.093Z"
 ---
 
 # § 645. Cost

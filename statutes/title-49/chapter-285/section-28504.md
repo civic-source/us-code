@@ -5,7 +5,7 @@ usc_section: "28504"
 chapter: 285
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 28504"
-generated_at: "2026-03-29T20:01:14.901Z"
+generated_at: "2026-03-29T20:01:51.044Z"
 ---
 
 # § 28504. Applicability of other laws

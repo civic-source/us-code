@@ -5,7 +5,7 @@ usc_section: "2151"
 chapter: 38
 current_through: "PL 119-4"
 classification: "50 U.S.C. § 2151"
-generated_at: "2026-03-29T20:01:07.275Z"
+generated_at: "2026-03-29T20:01:54.678Z"
 ---
 
 # § 2151. Application of Federal Employees’ Retirement System to Agency employees

@@ -5,7 +5,7 @@ usc_section: "102901"
 chapter: 1029
 current_through: "PL 119-4"
 classification: "54 U.S.C. § 102901"
-generated_at: "2026-03-29T20:01:18.407Z"
+generated_at: "2026-03-29T20:02:00.545Z"
 ---
 
 # § 102901. Conveyance of property and interests in property in System units or related areas

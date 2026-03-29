@@ -5,7 +5,7 @@ usc_section: "274f"
 chapter: 6
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 274f"
-generated_at: "2026-03-29T20:00:53.798Z"
+generated_at: "2026-03-29T20:01:31.903Z"
 ---
 
 # § 274f. Reimbursement of travel and subsistence expenses incurred toward living organ donation

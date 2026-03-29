@@ -5,7 +5,7 @@ usc_section: "227a"
 chapter: 5
 current_through: "PL 119-4"
 classification: "47 U.S.C. § 227a"
-generated_at: "2026-03-29T20:01:01.537Z"
+generated_at: "2026-03-29T20:01:40.024Z"
 ---
 
 # § 227a. Consumer education materials on how to avoid scams that rely upon misleading or inaccurate caller identification information

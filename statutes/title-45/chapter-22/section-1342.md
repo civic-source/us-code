@@ -5,7 +5,7 @@ usc_section: "1342"
 chapter: 22
 current_through: "PL 119-4"
 classification: "45 U.S.C. § 1342"
-generated_at: "2026-03-29T19:59:46.779Z"
+generated_at: "2026-03-29T20:00:48.987Z"
 ---
 
 # § 1342. Exemption from liability

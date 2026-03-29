@@ -5,7 +5,7 @@ usc_section: "730"
 chapter: 7
 current_through: "PL 119-4"
 classification: "44 U.S.C. § 730"
-generated_at: "2026-03-29T19:59:33.811Z"
+generated_at: "2026-03-29T20:00:54.155Z"
 ---
 
 # § 730. Distribution of documents to Members of Congress

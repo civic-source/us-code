@@ -5,7 +5,7 @@ usc_section: "335"
 chapter: 9
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 335"
-generated_at: "2026-03-29T19:59:41.370Z"
+generated_at: "2026-03-29T20:00:47.478Z"
 ---
 
 # § 335. Further extension in cases not covered by sections 333 and 334 of this title

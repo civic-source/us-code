@@ -5,7 +5,7 @@ usc_section: "314"
 chapter: 3
 current_through: "PL 119-4"
 classification: "44 U.S.C. § 314"
-generated_at: "2026-03-29T19:59:33.808Z"
+generated_at: "2026-03-29T20:00:54.152Z"
 ---
 
 # § 314. Inks, glues, and other supplies furnished to other Government agencies: payment

@@ -5,7 +5,7 @@ usc_section: "17131"
 chapter: 152
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 17131"
-generated_at: "2026-03-29T20:00:55.607Z"
+generated_at: "2026-03-29T20:01:33.828Z"
 ---
 
 # § 17131. Training Federal contracting officers to negotiate energy efficiency contracts

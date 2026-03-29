@@ -5,7 +5,7 @@ usc_section: "3602"
 chapter: 36
 current_through: "PL 119-4"
 classification: "44 U.S.C. § 3602"
-generated_at: "2026-03-29T19:59:33.838Z"
+generated_at: "2026-03-29T20:00:54.181Z"
 ---
 
 # § 3602. Office of Electronic Government

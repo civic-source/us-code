@@ -5,7 +5,7 @@ usc_section: "3202"
 chapter: 32
 current_through: "PL 119-4"
 classification: "46 U.S.C. § 3202"
-generated_at: "2026-03-29T20:01:03.861Z"
+generated_at: "2026-03-29T20:01:44.408Z"
 ---
 
 # § 3202. Application

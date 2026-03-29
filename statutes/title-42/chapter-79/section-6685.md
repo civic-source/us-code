@@ -5,7 +5,7 @@ usc_section: "6685"
 chapter: 79
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 6685"
-generated_at: "2026-03-29T20:00:55.045Z"
+generated_at: "2026-03-29T20:01:33.269Z"
 ---
 
 # §§ 6681 to 6685. Omitted

@@ -5,7 +5,7 @@ usc_section: "1753"
 chapter: 16
 current_through: "PL 119-4"
 classification: "47 U.S.C. § 1753"
-generated_at: "2026-03-29T20:01:01.660Z"
+generated_at: "2026-03-29T20:01:40.145Z"
 ---
 
 # § 1753. Adoption of consumer broadband labels

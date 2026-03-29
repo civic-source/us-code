@@ -5,7 +5,7 @@ usc_section: "2"
 chapter: 8
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-29T20:00:54.660Z"
+generated_at: "2026-03-29T20:01:32.849Z"
 ---
 
 # § 1490p–2. Loan guarantees for multifamily rental housing in rural areas

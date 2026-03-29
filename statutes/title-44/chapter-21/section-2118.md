@@ -5,7 +5,7 @@ usc_section: "2118"
 chapter: 21
 current_through: "PL 119-4"
 classification: "44 U.S.C. § 2118"
-generated_at: "2026-03-29T19:59:33.823Z"
+generated_at: "2026-03-29T20:00:54.166Z"
 ---
 
 # § 2118. Records of Congress

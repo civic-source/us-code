@@ -5,7 +5,7 @@ usc_section: "315k"
 chapter: 8
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 315k"
-generated_at: "2026-03-29T19:59:41.367Z"
+generated_at: "2026-03-29T20:00:47.474Z"
 ---
 
 # § 315k. Cooperation with governmental departments; coordination of range administration

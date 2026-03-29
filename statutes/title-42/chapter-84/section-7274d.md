@@ -5,7 +5,7 @@ usc_section: "7274d"
 chapter: 84
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 7274d"
-generated_at: "2026-03-29T20:00:55.101Z"
+generated_at: "2026-03-29T20:01:33.323Z"
 ---
 
 # §§ 7274a to 7274d. Transferred

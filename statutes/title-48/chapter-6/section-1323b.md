@@ -5,7 +5,7 @@ usc_section: "1323b"
 chapter: 6
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 1323b"
-generated_at: "2026-03-29T20:01:08.567Z"
+generated_at: "2026-03-29T20:01:41.589Z"
 ---
 
 # § 1323b. Repealed. Pub. L. 87–845, § 26(b) , Oct. 18, 1962 , 76A Stat. 701

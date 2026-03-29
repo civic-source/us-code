@@ -5,7 +5,7 @@ usc_section: "1470"
 chapter: 31
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 1470"
-generated_at: "2026-03-29T19:59:41.448Z"
+generated_at: "2026-03-29T20:00:47.562Z"
 ---
 
 # § 1470. Appropriations; availability for certain administrative expenses

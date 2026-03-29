@@ -5,7 +5,7 @@ usc_section: "18940"
 chapter: 163
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 18940"
-generated_at: "2026-03-29T20:00:55.697Z"
+generated_at: "2026-03-29T20:01:33.915Z"
 ---
 
 # § 18940. Dr. David Satcher Cybersecurity Education Grant Program

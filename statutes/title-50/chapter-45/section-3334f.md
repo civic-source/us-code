@@ -5,7 +5,7 @@ usc_section: "3334f"
 chapter: 45
 current_through: "PL 119-4"
 classification: "50 U.S.C. § 3334f"
-generated_at: "2026-03-29T20:01:07.357Z"
+generated_at: "2026-03-29T20:01:54.766Z"
 ---
 
 # § 3334f. Congressional notification of designation of covered intelligence officer as persona non grata

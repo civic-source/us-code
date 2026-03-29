@@ -5,7 +5,7 @@ usc_section: "19084"
 chapter: 163
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 19084"
-generated_at: "2026-03-29T20:00:55.709Z"
+generated_at: "2026-03-29T20:01:33.927Z"
 ---
 
 # § 19084. Advanced computing

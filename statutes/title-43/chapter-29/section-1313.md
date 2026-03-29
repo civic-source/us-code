@@ -5,7 +5,7 @@ usc_section: "1313"
 chapter: 29
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 1313"
-generated_at: "2026-03-29T19:59:41.435Z"
+generated_at: "2026-03-29T20:00:47.549Z"
 ---
 
 # § 1313. Exceptions from operation of section 1311 of this title

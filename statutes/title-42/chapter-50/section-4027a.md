@@ -5,7 +5,7 @@ usc_section: "4027a"
 chapter: 50
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 4027a"
-generated_at: "2026-03-29T20:00:54.894Z"
+generated_at: "2026-03-29T20:01:33.096Z"
 ---
 
 # § 4027a. Report of the Administrator on activities under the National Flood Insurance Program

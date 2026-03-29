@@ -5,7 +5,7 @@ usc_section: "1138"
 chapter: 11
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 1138"
-generated_at: "2026-03-29T20:01:14.784Z"
+generated_at: "2026-03-29T20:01:50.930Z"
 ---
 
 # § 1138. Evaluation and audit of National Transportation Safety Board

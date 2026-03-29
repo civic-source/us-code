@@ -5,7 +5,7 @@ usc_section: "12898"
 chapter: 130
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 12898"
-generated_at: "2026-03-29T20:00:55.457Z"
+generated_at: "2026-03-29T20:01:33.678Z"
 ---
 
 # § 12898. Implementation

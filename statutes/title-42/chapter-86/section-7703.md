@@ -5,7 +5,7 @@ usc_section: "7703"
 chapter: 86
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 7703"
-generated_at: "2026-03-29T20:00:55.206Z"
+generated_at: "2026-03-29T20:01:33.414Z"
 ---
 
 # § 7703. Definitions

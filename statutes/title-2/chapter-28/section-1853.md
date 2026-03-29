@@ -3,9 +3,9 @@ title: "Section 1853 - Exemption of officers and employees of Architect of Capit
 usc_title: 2
 usc_section: "1853"
 chapter: 28
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "2 U.S.C. § 1853"
-generated_at: "2026-03-29T19:56:57.226Z"
+generated_at: "2026-03-29T20:01:46.576Z"
 ---
 
 # § 1853. Exemption of officers and employees of Architect of Capitol from certain Federal pay provisions

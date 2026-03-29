@@ -5,7 +5,7 @@ usc_section: "4"
 chapter: 21
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-29T20:00:54.760Z"
+generated_at: "2026-03-29T20:01:32.954Z"
 ---
 
 # § 2000ff–4. Training programs

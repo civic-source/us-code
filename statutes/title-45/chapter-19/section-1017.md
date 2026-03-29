@@ -5,7 +5,7 @@ usc_section: "1017"
 chapter: 19
 current_through: "PL 119-4"
 classification: "45 U.S.C. § 1017"
-generated_at: "2026-03-29T19:59:46.773Z"
+generated_at: "2026-03-29T20:00:48.980Z"
 ---
 
 # § 1017. Temporary operating approval

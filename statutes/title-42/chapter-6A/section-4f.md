@@ -5,7 +5,7 @@ usc_section: "4f"
 chapter: 6
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 4f"
-generated_at: "2026-03-29T20:00:53.718Z"
+generated_at: "2026-03-29T20:01:31.828Z"
 ---
 
 # § 247b–4f. Research relating to preterm labor and delivery and the care, treatment, and outcomes of preterm and low birthweight infants

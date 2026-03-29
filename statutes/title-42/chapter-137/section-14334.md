@@ -5,7 +5,7 @@ usc_section: "14334"
 chapter: 137
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 14334"
-generated_at: "2026-03-29T20:00:55.494Z"
+generated_at: "2026-03-29T20:01:33.715Z"
 ---
 
 # § 14334. Limitations on sale of button cell mercuric-oxide batteries

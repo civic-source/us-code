@@ -5,7 +5,7 @@ usc_section: "114"
 chapter: 2
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 114"
-generated_at: "2026-03-29T20:00:53.679Z"
+generated_at: "2026-03-29T20:01:31.799Z"
 ---
 
 # § 114. Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , eff. Sept. 1, 1948

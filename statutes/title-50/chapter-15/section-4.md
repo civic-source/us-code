@@ -5,7 +5,7 @@ usc_section: "4"
 chapter: 15
 current_through: "PL 119-4"
 classification: "50 U.S.C. § 4"
-generated_at: "2026-03-29T20:01:07.224Z"
+generated_at: "2026-03-29T20:01:54.632Z"
 ---
 
 # § 441j–4. Transferred

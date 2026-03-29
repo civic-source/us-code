@@ -5,7 +5,7 @@ usc_section: "1441a"
 chapter: 8
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 1441a"
-generated_at: "2026-03-29T20:00:54.647Z"
+generated_at: "2026-03-29T20:01:32.832Z"
 ---
 
 # § 1441a. National housing goals

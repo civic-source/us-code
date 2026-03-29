@@ -5,7 +5,7 @@ usc_section: "70051"
 chapter: 700
 current_through: "PL 119-4"
 classification: "46 U.S.C. § 70051"
-generated_at: "2026-03-29T20:01:03.958Z"
+generated_at: "2026-03-29T20:01:44.522Z"
 ---
 
 # § 70051. Regulation of anchorage and movement of vessels during national emergency

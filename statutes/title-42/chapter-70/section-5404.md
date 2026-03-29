@@ -5,7 +5,7 @@ usc_section: "5404"
 chapter: 70
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 5404"
-generated_at: "2026-03-29T20:00:54.976Z"
+generated_at: "2026-03-29T20:01:33.194Z"
 ---
 
 # § 5404. Manufactured home installation

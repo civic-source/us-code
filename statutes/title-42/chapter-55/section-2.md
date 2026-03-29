@@ -5,7 +5,7 @@ usc_section: "2"
 chapter: 55
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-29T20:00:54.912Z"
+generated_at: "2026-03-29T20:01:33.115Z"
 ---
 
 # § 4370m–2. Permitting process improvement

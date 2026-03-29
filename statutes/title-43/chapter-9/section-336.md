@@ -5,7 +5,7 @@ usc_section: "336"
 chapter: 9
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 336"
-generated_at: "2026-03-29T19:59:41.370Z"
+generated_at: "2026-03-29T20:00:47.478Z"
 ---
 
 # § 336. Further extension in addition to that authorized by sections 333 to 335 of this title

@@ -5,7 +5,7 @@ usc_section: "3313"
 chapter: 41
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 3313"
-generated_at: "2026-03-29T20:00:54.868Z"
+generated_at: "2026-03-29T20:01:33.066Z"
 ---
 
 # §§ 3301 to 3313. Omitted

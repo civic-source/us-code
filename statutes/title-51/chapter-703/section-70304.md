@@ -5,7 +5,7 @@ usc_section: "70304"
 chapter: 703
 current_through: "PL 119-4"
 classification: "51 U.S.C. § 70304"
-generated_at: "2026-03-29T20:01:19.077Z"
+generated_at: "2026-03-29T20:01:58.807Z"
 ---
 
 # [§§ 70301 to 70304. Repealed. Pub. L. 115–10, title IV, § 416(b) , Mar. 21, 2017 , 131 Stat. 35 ]

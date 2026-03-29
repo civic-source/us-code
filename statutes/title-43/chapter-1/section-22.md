@@ -5,7 +5,7 @@ usc_section: "22"
 chapter: 1
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 22"
-generated_at: "2026-03-29T19:59:41.354Z"
+generated_at: "2026-03-29T20:00:47.463Z"
 ---
 
 # § 22. Repealed. July 30, 1947, ch. 354, § 2 , 61 Stat. 522

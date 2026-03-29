@@ -5,7 +5,7 @@ usc_section: "1307"
 chapter: 12
 current_through: "PL 119-4"
 classification: "47 U.S.C. § 1307"
-generated_at: "2026-03-29T20:01:01.626Z"
+generated_at: "2026-03-29T20:01:40.113Z"
 ---
 
 # § 1307. Office of Internet Connectivity and Growth

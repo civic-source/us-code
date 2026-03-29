@@ -5,7 +5,7 @@ usc_section: "1485"
 chapter: 8
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 1485"
-generated_at: "2026-03-29T20:00:54.653Z"
+generated_at: "2026-03-29T20:01:32.842Z"
 ---
 
 # § 1485. Housing and related facilities for elderly persons and families or other persons and families of low income

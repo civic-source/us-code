@@ -5,7 +5,7 @@ usc_section: "5511"
 chapter: 71
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 5511"
-generated_at: "2026-03-29T20:00:54.979Z"
+generated_at: "2026-03-29T20:01:33.200Z"
 ---
 
 # § 5511. Federally assisted or federally constructed housing

@@ -5,7 +5,7 @@ usc_section: "1355"
 chapter: 7
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 1355"
-generated_at: "2026-03-29T20:00:54.297Z"
+generated_at: "2026-03-29T20:01:32.419Z"
 ---
 
 # § 1355. Definitions

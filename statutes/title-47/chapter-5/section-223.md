@@ -5,7 +5,7 @@ usc_section: "223"
 chapter: 5
 current_through: "PL 119-4"
 classification: "47 U.S.C. § 223"
-generated_at: "2026-03-29T20:01:01.532Z"
+generated_at: "2026-03-29T20:01:40.019Z"
 ---
 
 # § 223. Obscene or harassing telephone calls in the District of Columbia or in interstate or foreign communications

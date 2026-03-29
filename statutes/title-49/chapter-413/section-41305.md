@@ -5,7 +5,7 @@ usc_section: "41305"
 chapter: 413
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 41305"
-generated_at: "2026-03-29T20:01:14.957Z"
+generated_at: "2026-03-29T20:01:51.100Z"
 ---
 
 # § 41305. Applications for permits

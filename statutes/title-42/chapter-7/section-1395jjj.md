@@ -5,7 +5,7 @@ usc_section: "1395jjj"
 chapter: 7
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 1395jjj"
-generated_at: "2026-03-29T20:00:54.511Z"
+generated_at: "2026-03-29T20:01:32.674Z"
 ---
 
 # § 1395jjj. Shared savings program

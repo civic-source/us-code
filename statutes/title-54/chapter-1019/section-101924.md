@@ -5,7 +5,7 @@ usc_section: "101924"
 chapter: 1019
 current_through: "PL 119-4"
 classification: "54 U.S.C. § 101924"
-generated_at: "2026-03-29T20:01:18.405Z"
+generated_at: "2026-03-29T20:02:00.537Z"
 ---
 
 # § 101924. Promotion of sale of Indian, Alaska Native, Native Samoan, and Native Hawaiian handicrafts

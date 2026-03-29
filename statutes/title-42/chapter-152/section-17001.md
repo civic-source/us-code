@@ -5,7 +5,7 @@ usc_section: "17001"
 chapter: 152
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 17001"
-generated_at: "2026-03-29T20:00:55.593Z"
+generated_at: "2026-03-29T20:01:33.814Z"
 ---
 
 # § 17001. Definitions

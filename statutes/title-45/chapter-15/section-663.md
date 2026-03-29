@@ -5,7 +5,7 @@ usc_section: "663"
 chapter: 15
 current_through: "PL 119-4"
 classification: "45 U.S.C. § 663"
-generated_at: "2026-03-29T19:59:46.753Z"
+generated_at: "2026-03-29T20:00:48.962Z"
 ---
 
 # § 663. Inspection of accounts, books, etc., of railroad receiving financial assistance

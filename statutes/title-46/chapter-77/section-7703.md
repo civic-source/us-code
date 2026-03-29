@@ -5,7 +5,7 @@ usc_section: "7703"
 chapter: 77
 current_through: "PL 119-4"
 classification: "46 U.S.C. § 7703"
-generated_at: "2026-03-29T20:01:03.880Z"
+generated_at: "2026-03-29T20:01:44.428Z"
 ---
 
 # § 7703. Bases for suspension or revocation

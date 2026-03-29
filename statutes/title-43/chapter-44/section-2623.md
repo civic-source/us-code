@@ -5,7 +5,7 @@ usc_section: "2623"
 chapter: 44
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 2623"
-generated_at: "2026-03-29T19:59:41.513Z"
+generated_at: "2026-03-29T20:00:47.627Z"
 ---
 
 # § 2623. Additional sum from surplus for meeting payments due from insufficient annual receipts; maximum aggregate of decennial payments; covering of excess receipts into general fund of Treasury

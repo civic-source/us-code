@@ -5,7 +5,7 @@ usc_section: "5102"
 chapter: 51
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 5102"
-generated_at: "2026-03-29T20:01:14.787Z"
+generated_at: "2026-03-29T20:01:50.933Z"
 ---
 
 # § 5102. Definitions

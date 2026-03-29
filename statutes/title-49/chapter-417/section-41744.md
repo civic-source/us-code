@@ -5,7 +5,7 @@ usc_section: "41744"
 chapter: 417
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 41744"
-generated_at: "2026-03-29T20:01:14.970Z"
+generated_at: "2026-03-29T20:01:51.112Z"
 ---
 
 # [§ 41744. Repealed. Pub. L. 118–63, title V, § 561(j) , May 16, 2024 , 138 Stat. 1216 ]

@@ -5,7 +5,7 @@ usc_section: "4"
 chapter: 84
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-29T20:00:55.117Z"
+generated_at: "2026-03-29T20:01:33.337Z"
 ---
 
 # § 7385s–4. Determinations regarding contraction of covered illnesses

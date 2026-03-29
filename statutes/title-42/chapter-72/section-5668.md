@@ -5,7 +5,7 @@ usc_section: "5668"
 chapter: 72
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 5668"
-generated_at: "2026-03-29T20:00:54.981Z"
+generated_at: "2026-03-29T20:01:33.202Z"
 ---
 
 # § 5668. Transferred

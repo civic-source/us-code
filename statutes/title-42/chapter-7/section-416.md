@@ -5,7 +5,7 @@ usc_section: "416"
 chapter: 7
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 416"
-generated_at: "2026-03-29T20:00:54.159Z"
+generated_at: "2026-03-29T20:01:32.264Z"
 ---
 
 # § 416. Additional definitions

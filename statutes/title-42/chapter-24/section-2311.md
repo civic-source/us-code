@@ -5,7 +5,7 @@ usc_section: "2311"
 chapter: 24
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 2311"
-generated_at: "2026-03-29T20:00:54.814Z"
+generated_at: "2026-03-29T20:01:33.009Z"
 ---
 
 # § 2311. Community Disposal Operations Fund

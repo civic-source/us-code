@@ -5,7 +5,7 @@ usc_section: "1418"
 chapter: 8
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 1418"
-generated_at: "2026-03-29T20:01:08.570Z"
+generated_at: "2026-03-29T20:01:41.592Z"
 ---
 
 # § 1418. Employment of land and naval forces in protection of rights

@@ -5,7 +5,7 @@ usc_section: "5307"
 chapter: 69
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 5307"
-generated_at: "2026-03-29T20:00:54.968Z"
+generated_at: "2026-03-29T20:01:33.187Z"
 ---
 
 # § 5307. Special purpose grants

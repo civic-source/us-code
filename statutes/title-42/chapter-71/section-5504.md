@@ -5,7 +5,7 @@ usc_section: "5504"
 chapter: 71
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 5504"
-generated_at: "2026-03-29T20:00:54.979Z"
+generated_at: "2026-03-29T20:01:33.197Z"
 ---
 
 # § 5504. Development and demonstration of combined solar heating and cooling systems for use in residential dwellings

@@ -5,7 +5,7 @@ usc_section: "70206"
 chapter: 702
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 70206"
-generated_at: "2026-03-29T20:01:15.066Z"
+generated_at: "2026-03-29T20:01:51.215Z"
 ---
 
 # § 70206. Savings provision

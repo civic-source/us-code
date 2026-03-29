@@ -5,7 +5,7 @@ usc_section: "5662"
 chapter: 72
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 5662"
-generated_at: "2026-03-29T20:00:54.980Z"
+generated_at: "2026-03-29T20:01:33.202Z"
 ---
 
 # § 5662. Transferred

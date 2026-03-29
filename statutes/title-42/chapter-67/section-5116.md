@@ -5,7 +5,7 @@ usc_section: "5116"
 chapter: 67
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 5116"
-generated_at: "2026-03-29T20:00:54.944Z"
+generated_at: "2026-03-29T20:01:33.157Z"
 ---
 
 # § 5116. Purpose and authority

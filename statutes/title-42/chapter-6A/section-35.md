@@ -5,7 +5,7 @@ usc_section: "35"
 chapter: 6
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 35"
-generated_at: "2026-03-29T20:00:54.120Z"
+generated_at: "2026-03-29T20:01:32.226Z"
 ---
 
 # § 300jj–35. Demonstration program to integrate information technology into clinical education

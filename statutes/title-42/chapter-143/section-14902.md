@@ -5,7 +5,7 @@ usc_section: "14902"
 chapter: 143
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 14902"
-generated_at: "2026-03-29T20:00:55.496Z"
+generated_at: "2026-03-29T20:01:33.719Z"
 ---
 
 # § 14902. Definitions

@@ -5,7 +5,7 @@ usc_section: "4959"
 chapter: 66
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 4959"
-generated_at: "2026-03-29T20:00:54.930Z"
+generated_at: "2026-03-29T20:01:33.140Z"
 ---
 
 # § 4959. Repealed. Pub. L. 111–13, title II, § 2104 , Apr. 21, 2009 , 123 Stat. 1583

@@ -5,7 +5,7 @@ usc_section: "13254"
 chapter: 134
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 13254"
-generated_at: "2026-03-29T20:00:55.467Z"
+generated_at: "2026-03-29T20:01:33.686Z"
 ---
 
 # § 13254. Modification of goals; additional rulemaking authority

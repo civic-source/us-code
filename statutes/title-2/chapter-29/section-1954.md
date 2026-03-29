@@ -3,9 +3,9 @@ title: "Section 1954 - Administration by Capitol Police Board"
 usc_title: 2
 usc_section: "1954"
 chapter: 29
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "2 U.S.C. § 1954"
-generated_at: "2026-03-29T19:56:57.231Z"
+generated_at: "2026-03-29T20:01:46.588Z"
 ---
 
 # § 1954. Administration by Capitol Police Board

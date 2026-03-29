@@ -3,9 +3,9 @@ title: "Section 5595 - Severance pay"
 usc_title: 5
 usc_section: "5595"
 chapter: 55
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "5 U.S.C. § 5595"
-generated_at: "2026-03-29T19:57:14.921Z"
+generated_at: "2026-03-29T20:01:52.179Z"
 ---
 
 # § 5595. Severance pay

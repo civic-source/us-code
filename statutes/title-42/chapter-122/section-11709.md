@@ -5,7 +5,7 @@ usc_section: "11709"
 chapter: 122
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 11709"
-generated_at: "2026-03-29T20:00:55.389Z"
+generated_at: "2026-03-29T20:01:33.601Z"
 ---
 
 # § 11709. Native Hawaiian health scholarships

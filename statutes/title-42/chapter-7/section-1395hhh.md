@@ -5,7 +5,7 @@ usc_section: "1395hhh"
 chapter: 7
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 1395hhh"
-generated_at: "2026-03-29T20:00:54.510Z"
+generated_at: "2026-03-29T20:01:32.673Z"
 ---
 
 # § 1395hhh. Health care infrastructure improvement program

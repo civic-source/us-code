@@ -5,7 +5,7 @@ usc_section: "1308"
 chapter: 7
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 1308"
-generated_at: "2026-03-29T20:00:54.251Z"
+generated_at: "2026-03-29T20:01:32.369Z"
 ---
 
 # § 1308. Additional grants to Puerto Rico, Virgin Islands, Guam, and American Samoa; limitation on total payments

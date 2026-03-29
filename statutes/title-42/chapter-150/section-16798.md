@@ -5,7 +5,7 @@ usc_section: "16798"
 chapter: 150
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 16798"
-generated_at: "2026-03-29T20:00:55.590Z"
+generated_at: "2026-03-29T20:01:33.813Z"
 ---
 
 # § 16798. Repealed or Omitted

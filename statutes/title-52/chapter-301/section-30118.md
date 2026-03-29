@@ -5,7 +5,7 @@ usc_section: "30118"
 chapter: 301
 current_through: "PL 119-4"
 classification: "52 U.S.C. § 30118"
-generated_at: "2026-03-29T20:01:19.565Z"
+generated_at: "2026-03-29T20:01:58.005Z"
 ---
 
 # § 30118. Contributions or expenditures by national banks, corporations, or labor organizations

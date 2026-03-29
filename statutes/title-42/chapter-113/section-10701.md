@@ -5,7 +5,7 @@ usc_section: "10701"
 chapter: 113
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 10701"
-generated_at: "2026-03-29T20:00:55.356Z"
+generated_at: "2026-03-29T20:01:33.564Z"
 ---
 
 # § 10701. Definitions

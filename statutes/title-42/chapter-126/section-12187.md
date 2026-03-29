@@ -5,7 +5,7 @@ usc_section: "12187"
 chapter: 126
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 12187"
-generated_at: "2026-03-29T20:00:55.402Z"
+generated_at: "2026-03-29T20:01:33.616Z"
 ---
 
 # § 12187. Exemptions for private clubs and religious organizations

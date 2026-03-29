@@ -5,7 +5,7 @@ usc_section: "20511"
 chapter: 205
 current_through: "PL 119-4"
 classification: "52 U.S.C. § 20511"
-generated_at: "2026-03-29T20:01:19.540Z"
+generated_at: "2026-03-29T20:01:57.978Z"
 ---
 
 # § 20511. Criminal penalties

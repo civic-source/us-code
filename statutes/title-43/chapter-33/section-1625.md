@@ -5,7 +5,7 @@ usc_section: "1625"
 chapter: 33
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 1625"
-generated_at: "2026-03-29T19:59:41.469Z"
+generated_at: "2026-03-29T20:00:47.584Z"
 ---
 
 # § 1625. Securities laws exemption

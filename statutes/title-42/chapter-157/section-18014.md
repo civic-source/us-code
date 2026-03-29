@@ -5,7 +5,7 @@ usc_section: "18014"
 chapter: 157
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 18014"
-generated_at: "2026-03-29T20:00:55.642Z"
+generated_at: "2026-03-29T20:01:33.861Z"
 ---
 
 # § 18014. Treatment of expatriate health plans under ACA

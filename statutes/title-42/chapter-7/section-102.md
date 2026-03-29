@@ -5,7 +5,7 @@ usc_section: "102"
 chapter: 7
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 102"
-generated_at: "2026-03-29T20:00:54.407Z"
+generated_at: "2026-03-29T20:01:32.551Z"
 ---
 
 # § 1395w–102. Prescription drug benefits

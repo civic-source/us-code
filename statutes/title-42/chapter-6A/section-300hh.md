@@ -5,7 +5,7 @@ usc_section: "300hh"
 chapter: 6
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 300hh"
-generated_at: "2026-03-29T20:00:54.101Z"
+generated_at: "2026-03-29T20:01:32.208Z"
 ---
 
 # § 300hh. Public health and medical preparedness and response functions

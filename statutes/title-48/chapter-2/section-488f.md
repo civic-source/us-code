@@ -5,7 +5,7 @@ usc_section: "488f"
 chapter: 2
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 488f"
-generated_at: "2026-03-29T20:01:08.562Z"
+generated_at: "2026-03-29T20:01:41.584Z"
 ---
 
 # §§ 488 to 488f. Omitted

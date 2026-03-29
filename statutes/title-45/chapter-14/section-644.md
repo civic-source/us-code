@@ -5,7 +5,7 @@ usc_section: "644"
 chapter: 14
 current_through: "PL 119-4"
 classification: "45 U.S.C. § 644"
-generated_at: "2026-03-29T19:59:46.752Z"
+generated_at: "2026-03-29T20:00:48.962Z"
 ---
 
 # §§ 642 to 644. Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 Stat. 1379

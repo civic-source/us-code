@@ -5,7 +5,7 @@ usc_section: "2622"
 chapter: 44
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 2622"
-generated_at: "2026-03-29T19:59:41.513Z"
+generated_at: "2026-03-29T20:00:47.627Z"
 ---
 
 # § 2622. Appraisal of land and timber; manner and frequency; computation of amounts upon basis of last appraisement; deduction of appraisement expenses

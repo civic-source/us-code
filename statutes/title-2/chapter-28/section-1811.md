@@ -3,9 +3,9 @@ title: "Section 1811 - Powers and duties"
 usc_title: 2
 usc_section: "1811"
 chapter: 28
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "2 U.S.C. § 1811"
-generated_at: "2026-03-29T19:56:57.221Z"
+generated_at: "2026-03-29T20:01:46.573Z"
 ---
 
 # § 1811. Powers and duties

@@ -5,7 +5,7 @@ usc_section: "284p"
 chapter: 6
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 284p"
-generated_at: "2026-03-29T20:00:53.846Z"
+generated_at: "2026-03-29T20:01:31.951Z"
 ---
 
 # § 284p. Activities of the National Institutes of Health with respect to research with implications for enhancing daily function for persons with paralysis

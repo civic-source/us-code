@@ -5,7 +5,7 @@ usc_section: "13431"
 chapter: 134
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 13431"
-generated_at: "2026-03-29T20:00:55.479Z"
+generated_at: "2026-03-29T20:01:33.700Z"
 ---
 
 # § 13431. General transportation

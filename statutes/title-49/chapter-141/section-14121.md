@@ -5,7 +5,7 @@ usc_section: "14121"
 chapter: 141
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 14121"
-generated_at: "2026-03-29T20:01:14.852Z"
+generated_at: "2026-03-29T20:01:50.993Z"
 ---
 
 # § 14121. Definitions

@@ -5,7 +5,7 @@ usc_section: "3a"
 chapter: 7
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 3a"
-generated_at: "2026-03-29T20:00:54.586Z"
+generated_at: "2026-03-29T20:01:32.758Z"
 ---
 
 # § 1396w–3a. Requirements relating to qualified prescription drug monitoring programs and prescribing certain controlled substances

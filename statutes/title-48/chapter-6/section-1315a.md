@@ -5,7 +5,7 @@ usc_section: "1315a"
 chapter: 6
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 1315a"
-generated_at: "2026-03-29T20:01:08.567Z"
+generated_at: "2026-03-29T20:01:41.588Z"
 ---
 
 # §§ 1314f to 1315a. Omitted

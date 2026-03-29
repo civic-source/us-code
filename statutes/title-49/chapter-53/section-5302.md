@@ -5,7 +5,7 @@ usc_section: "5302"
 chapter: 53
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 5302"
-generated_at: "2026-03-29T20:01:14.793Z"
+generated_at: "2026-03-29T20:01:50.939Z"
 ---
 
 # § 5302. Definitions

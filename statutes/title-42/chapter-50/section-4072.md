@@ -5,7 +5,7 @@ usc_section: "4072"
 chapter: 50
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 4072"
-generated_at: "2026-03-29T20:00:54.896Z"
+generated_at: "2026-03-29T20:01:33.100Z"
 ---
 
 # § 4072. Adjustment and payment of claims; judicial review; limitations; jurisdiction

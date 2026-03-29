@@ -5,7 +5,7 @@ usc_section: "10701"
 chapter: 107
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 10701"
-generated_at: "2026-03-29T20:01:14.832Z"
+generated_at: "2026-03-29T20:01:50.976Z"
 ---
 
 # § 10701. Standards for rates, classifications, through routes, rules, and practices

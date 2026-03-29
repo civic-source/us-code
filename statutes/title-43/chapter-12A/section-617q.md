@@ -5,7 +5,7 @@ usc_section: "617q"
 chapter: 12
 current_through: "PL 119-4"
 classification: "43 U.S.C. § 617q"
-generated_at: "2026-03-29T19:59:41.408Z"
+generated_at: "2026-03-29T20:00:47.520Z"
 ---
 
 # § 617q. Effect on authority of States to control waters within own borders

@@ -5,7 +5,7 @@ usc_section: "2286e"
 chapter: 23
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 2286e"
-generated_at: "2026-03-29T20:00:54.806Z"
+generated_at: "2026-03-29T20:01:32.998Z"
 ---
 
 # § 2286e. Reports

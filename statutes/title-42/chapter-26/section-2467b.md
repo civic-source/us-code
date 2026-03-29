@@ -5,7 +5,7 @@ usc_section: "2467b"
 chapter: 26
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 2467b"
-generated_at: "2026-03-29T20:00:54.817Z"
+generated_at: "2026-03-29T20:01:33.012Z"
 ---
 
 # §§ 2465f to 2467b. Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 Stat. 3444

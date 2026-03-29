@@ -5,7 +5,7 @@ usc_section: "1706"
 chapter: 15
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 1706"
-generated_at: "2026-03-29T20:01:08.590Z"
+generated_at: "2026-03-29T20:01:41.613Z"
 ---
 
 # § 1706. Reserved rights

@@ -5,7 +5,7 @@ usc_section: "4307"
 chapter: 53
 current_through: "PL 119-4"
 classification: "50 U.S.C. § 4307"
-generated_at: "2026-03-29T20:01:07.422Z"
+generated_at: "2026-03-29T20:01:54.837Z"
 ---
 
 # § 4307. Lists of enemy or ally of enemy officers, directors or stockholders of corporations in United States; acts constituting trade with enemy prior to October 6, 1917 ; conveyance of property to custodian; voluntary payment to custodian by holder; acts under order, rule, or regulation

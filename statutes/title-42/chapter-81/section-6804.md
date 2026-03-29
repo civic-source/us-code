@@ -5,7 +5,7 @@ usc_section: "6804"
 chapter: 81
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 6804"
-generated_at: "2026-03-29T20:00:55.049Z"
+generated_at: "2026-03-29T20:01:33.272Z"
 ---
 
 # § 6804. Funding, administrative, and judicial authorities of Secretary

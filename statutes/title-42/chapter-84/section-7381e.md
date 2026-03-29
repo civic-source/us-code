@@ -5,7 +5,7 @@ usc_section: "7381e"
 chapter: 84
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 7381e"
-generated_at: "2026-03-29T20:00:55.110Z"
+generated_at: "2026-03-29T20:01:33.328Z"
 ---
 
 # § 7381e. Authorization of appropriations

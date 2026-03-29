@@ -5,7 +5,7 @@ usc_section: "47526"
 chapter: 475
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 47526"
-generated_at: "2026-03-29T20:01:15.042Z"
+generated_at: "2026-03-29T20:01:51.190Z"
 ---
 
 # § 47526. Limitations for noncomplying airport noise and access restrictions

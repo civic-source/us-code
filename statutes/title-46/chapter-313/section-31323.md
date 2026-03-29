@@ -5,7 +5,7 @@ usc_section: "31323"
 chapter: 313
 current_through: "PL 119-4"
 classification: "46 U.S.C. § 31323"
-generated_at: "2026-03-29T20:01:03.906Z"
+generated_at: "2026-03-29T20:01:44.459Z"
 ---
 
 # § 31323. Disclosing and incurring obligations before executing preferred mortgages

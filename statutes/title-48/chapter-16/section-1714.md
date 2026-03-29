@@ -5,7 +5,7 @@ usc_section: "1714"
 chapter: 16
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 1714"
-generated_at: "2026-03-29T20:01:08.591Z"
+generated_at: "2026-03-29T20:01:41.613Z"
 ---
 
 # § 1714. Territorial legislature; determination of election procedure

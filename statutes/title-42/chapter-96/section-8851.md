@@ -5,7 +5,7 @@ usc_section: "8851"
 chapter: 96
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 8851"
-generated_at: "2026-03-29T20:00:55.253Z"
+generated_at: "2026-03-29T20:01:33.458Z"
 ---
 
 # § 8851. Model demonstration biomass energy facilities; establishment, public inspection, etc.; authorization of appropriations

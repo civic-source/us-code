@@ -5,7 +5,7 @@ usc_section: "57105"
 chapter: 571
 current_through: "PL 119-4"
 classification: "46 U.S.C. § 57105"
-generated_at: "2026-03-29T20:01:03.949Z"
+generated_at: "2026-03-29T20:01:44.511Z"
 ---
 
 # § 57105. Acquisition of vessels for essential services, routes, or lines

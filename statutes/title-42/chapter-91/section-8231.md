@@ -5,7 +5,7 @@ usc_section: "8231"
 chapter: 91
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 8231"
-generated_at: "2026-03-29T20:00:55.222Z"
+generated_at: "2026-03-29T20:01:33.429Z"
 ---
 
 # § 8231. Grants for energy conserving improvements; establishment of standards; authorization of appropriations

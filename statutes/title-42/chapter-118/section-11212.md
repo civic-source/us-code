@@ -5,7 +5,7 @@ usc_section: "11212"
 chapter: 118
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 11212"
-generated_at: "2026-03-29T20:00:55.368Z"
+generated_at: "2026-03-29T20:01:33.580Z"
 ---
 
 # §§ 11211, 11212. Repealed. Pub. L. 105–362, title VI, § 601(a)(2)(E) , Nov. 10, 1998 , 112 Stat. 3286

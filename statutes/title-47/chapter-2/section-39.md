@@ -5,7 +5,7 @@ usc_section: "39"
 chapter: 2
 current_through: "PL 119-4"
 classification: "47 U.S.C. § 39"
-generated_at: "2026-03-29T20:01:01.519Z"
+generated_at: "2026-03-29T20:01:40.008Z"
 ---
 
 # § 39. Amendment, modification, etc., of rights granted

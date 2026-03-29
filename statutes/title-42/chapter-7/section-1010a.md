@@ -5,7 +5,7 @@ usc_section: "1010a"
 chapter: 7
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 1010a"
-generated_at: "2026-03-29T20:00:54.242Z"
+generated_at: "2026-03-29T20:01:32.360Z"
 ---
 
 # § 1010a. Optional Federal administration of State recognition payments

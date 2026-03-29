@@ -5,7 +5,7 @@ usc_section: "1523"
 chapter: 32
 current_through: "PL 119-4"
 classification: "50 U.S.C. § 1523"
-generated_at: "2026-03-29T20:01:07.233Z"
+generated_at: "2026-03-29T20:01:54.640Z"
 ---
 
 # § 1523. Annual report on chemical and biological warfare defense

@@ -3,9 +3,9 @@ title: "Section 130d - Transferred"
 usc_title: 2
 usc_section: "130d"
 chapter: 4
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "2 U.S.C. § 130d"
-generated_at: "2026-03-29T19:56:57.138Z"
+generated_at: "2026-03-29T20:01:46.481Z"
 ---
 
 # § 130d. Transferred

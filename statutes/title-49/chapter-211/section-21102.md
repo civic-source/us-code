@@ -5,7 +5,7 @@ usc_section: "21102"
 chapter: 211
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 21102"
-generated_at: "2026-03-29T20:01:14.874Z"
+generated_at: "2026-03-29T20:01:51.015Z"
 ---
 
 # § 21102. Nonapplication, exemption, and alternate hours of service regime

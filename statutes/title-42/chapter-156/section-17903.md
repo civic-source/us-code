@@ -5,7 +5,7 @@ usc_section: "17903"
 chapter: 156
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 17903"
-generated_at: "2026-03-29T20:00:55.633Z"
+generated_at: "2026-03-29T20:01:33.855Z"
 ---
 
 # § 17903. Study and reports

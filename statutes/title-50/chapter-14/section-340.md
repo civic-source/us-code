@@ -5,7 +5,7 @@ usc_section: "340"
 chapter: 14
 current_through: "PL 119-4"
 classification: "50 U.S.C. § 340"
-generated_at: "2026-03-29T20:01:07.222Z"
+generated_at: "2026-03-29T20:01:54.626Z"
 ---
 
 # §§ 332 to 340. Repealed. Apr. 19, 1946, ch. 142 , 60 Stat. 96

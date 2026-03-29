@@ -5,7 +5,7 @@ usc_section: "5131"
 chapter: 68
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 5131"
-generated_at: "2026-03-29T20:00:54.945Z"
+generated_at: "2026-03-29T20:01:33.158Z"
 ---
 
 # § 5131. Federal and State disaster preparedness programs

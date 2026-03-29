@@ -5,7 +5,7 @@ usc_section: "2015b"
 chapter: 23
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 2015b"
-generated_at: "2026-03-29T20:00:54.765Z"
+generated_at: "2026-03-29T20:01:32.961Z"
 ---
 
 # § 2015b. Scholarship and fellowship program

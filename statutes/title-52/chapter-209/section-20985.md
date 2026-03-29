@@ -5,7 +5,7 @@ usc_section: "20985"
 chapter: 209
 current_through: "PL 119-4"
 classification: "52 U.S.C. § 20985"
-generated_at: "2026-03-29T20:01:19.545Z"
+generated_at: "2026-03-29T20:01:57.985Z"
 ---
 
 # § 20985. Study and report on electronic voting and the electoral process

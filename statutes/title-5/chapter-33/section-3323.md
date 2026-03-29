@@ -3,9 +3,9 @@ title: "Section 3323 - Automatic separations; reappointment; re­employment of a
 usc_title: 5
 usc_section: "3323"
 chapter: 33
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "5 U.S.C. § 3323"
-generated_at: "2026-03-29T19:57:14.884Z"
+generated_at: "2026-03-29T20:01:52.138Z"
 ---
 
 # § 3323. Automatic separations; reappointment; re­employment of annuitants

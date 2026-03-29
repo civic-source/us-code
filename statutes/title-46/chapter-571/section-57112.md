@@ -5,7 +5,7 @@ usc_section: "57112"
 chapter: 571
 current_through: "PL 119-4"
 classification: "46 U.S.C. § 57112"
-generated_at: "2026-03-29T20:01:03.949Z"
+generated_at: "2026-03-29T20:01:44.512Z"
 ---
 
 # § 57112. Requirements for purchasing federally auctioned vessels

@@ -5,7 +5,7 @@ usc_section: "226"
 chapter: 5
 current_through: "PL 119-4"
 classification: "47 U.S.C. § 226"
-generated_at: "2026-03-29T20:01:01.534Z"
+generated_at: "2026-03-29T20:01:40.020Z"
 ---
 
 # § 226. Telephone operator services

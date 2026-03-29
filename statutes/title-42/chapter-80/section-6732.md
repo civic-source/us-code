@@ -5,7 +5,7 @@ usc_section: "6732"
 chapter: 80
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 6732"
-generated_at: "2026-03-29T20:00:55.048Z"
+generated_at: "2026-03-29T20:01:33.272Z"
 ---
 
 # § 6732. Withholding of payments for failure to comply with statement of assurances; procedures applicable

@@ -5,7 +5,7 @@ usc_section: "1384"
 chapter: 7
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 1384"
-generated_at: "2026-03-29T20:00:54.311Z"
+generated_at: "2026-03-29T20:01:32.431Z"
 ---
 
 # § 1384. Omitted

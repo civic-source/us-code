@@ -5,7 +5,7 @@ usc_section: "116"
 chapter: 7
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 116"
-generated_at: "2026-03-29T20:00:54.425Z"
+generated_at: "2026-03-29T20:01:32.573Z"
 ---
 
 # § 1395w–116. Medicare Prescription Drug Account in the Federal Supplementary Medical Insurance Trust Fund

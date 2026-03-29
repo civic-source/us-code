@@ -3,9 +3,9 @@ title: "Section 101 - Oath by members of legislatures and officers"
 usc_title: 4
 usc_section: "101"
 chapter: 4
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "4 U.S.C. § 101"
-generated_at: "2026-03-29T19:57:01.185Z"
+generated_at: "2026-03-29T20:01:43.693Z"
 ---
 
 # § 101. Oath by members of legislatures and officers

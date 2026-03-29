@@ -5,7 +5,7 @@ usc_section: "1437v"
 chapter: 8
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 1437v"
-generated_at: "2026-03-29T20:00:54.636Z"
+generated_at: "2026-03-29T20:01:32.821Z"
 ---
 
 # § 1437v. Demolition, site revitalization, replacement housing, and tenant-based assistance grants for projects

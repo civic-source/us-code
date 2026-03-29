@@ -5,7 +5,7 @@ usc_section: "608"
 chapter: 7
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 608"
-generated_at: "2026-03-29T20:00:54.182Z"
+generated_at: "2026-03-29T20:01:32.287Z"
 ---
 
 # § 608. Prohibitions; requirements

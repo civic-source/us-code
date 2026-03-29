@@ -5,7 +5,7 @@ usc_section: "6213"
 chapter: 77
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 6213"
-generated_at: "2026-03-29T20:00:54.992Z"
+generated_at: "2026-03-29T20:01:33.213Z"
 ---
 
 # § 6213. Certain lease bidding arrangements prohibited

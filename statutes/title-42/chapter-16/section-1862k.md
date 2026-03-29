@@ -5,7 +5,7 @@ usc_section: "1862k"
 chapter: 16
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 1862k"
-generated_at: "2026-03-29T20:00:54.716Z"
+generated_at: "2026-03-29T20:01:32.907Z"
 ---
 
 # § 1862k. Findings; core strategies

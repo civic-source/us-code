@@ -5,7 +5,7 @@ usc_section: "2304"
 chapter: 24
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 2304"
-generated_at: "2026-03-29T20:00:54.813Z"
+generated_at: "2026-03-29T20:01:33.008Z"
 ---
 
 # § 2304. Definitions

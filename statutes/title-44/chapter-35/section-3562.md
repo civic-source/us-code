@@ -5,7 +5,7 @@ usc_section: "3562"
 chapter: 35
 current_through: "PL 119-4"
 classification: "44 U.S.C. § 3562"
-generated_at: "2026-03-29T19:59:33.837Z"
+generated_at: "2026-03-29T20:00:54.179Z"
 ---
 
 # § 3562. Coordination and oversight of policies

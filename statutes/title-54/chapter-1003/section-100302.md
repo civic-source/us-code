@@ -5,7 +5,7 @@ usc_section: "100302"
 chapter: 1003
 current_through: "PL 119-4"
 classification: "54 U.S.C. § 100302"
-generated_at: "2026-03-29T20:01:18.391Z"
+generated_at: "2026-03-29T20:02:00.527Z"
 ---
 
 # § 100302. Directors and other employees

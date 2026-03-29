@@ -5,7 +5,7 @@ usc_section: "12152"
 chapter: 121
 current_through: "PL 119-4"
 classification: "46 U.S.C. § 12152"
-generated_at: "2026-03-29T20:01:03.897Z"
+generated_at: "2026-03-29T20:01:44.449Z"
 ---
 
 # § 12152. Denial or revocation of endorsement for non-payment of civil penalty

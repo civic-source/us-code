@@ -5,7 +5,7 @@ usc_section: "1717"
 chapter: 17
 current_through: "PL 119-4"
 classification: "44 U.S.C. § 1717"
-generated_at: "2026-03-29T19:59:33.820Z"
+generated_at: "2026-03-29T20:00:54.163Z"
 ---
 
 # § 1717. Documents and reports for foreign legations

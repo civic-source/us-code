@@ -5,7 +5,7 @@ usc_section: "19038"
 chapter: 163
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 19038"
-generated_at: "2026-03-29T20:00:55.706Z"
+generated_at: "2026-03-29T20:01:33.924Z"
 ---
 
 # § 19038. Plan with respect to controlled information and background screening

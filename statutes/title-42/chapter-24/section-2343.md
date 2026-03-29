@@ -5,7 +5,7 @@ usc_section: "2343"
 chapter: 24
 current_through: "PL 119-4"
 classification: "42 U.S.C. § 2343"
-generated_at: "2026-03-29T20:00:54.815Z"
+generated_at: "2026-03-29T20:01:33.010Z"
 ---
 
 # § 2343. Sales

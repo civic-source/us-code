@@ -5,7 +5,7 @@ usc_section: "3501"
 chapter: 35
 current_through: "PL 119-4"
 classification: "41 U.S.C. § 3501"
-generated_at: "2026-03-29T19:59:34.759Z"
+generated_at: "2026-03-29T20:00:48.366Z"
 ---
 
 # § 3501. General

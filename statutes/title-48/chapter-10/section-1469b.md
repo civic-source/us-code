@@ -5,7 +5,7 @@ usc_section: "1469b"
 chapter: 10
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 1469b"
-generated_at: "2026-03-29T20:01:08.577Z"
+generated_at: "2026-03-29T20:01:41.598Z"
 ---
 
 # § 1469b. Auditing of transactions of territorial and local governments

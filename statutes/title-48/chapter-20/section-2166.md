@@ -5,7 +5,7 @@ usc_section: "2166"
 chapter: 20
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 2166"
-generated_at: "2026-03-29T20:01:08.623Z"
+generated_at: "2026-03-29T20:01:41.646Z"
 ---
 
 # § 2166. Jurisdiction

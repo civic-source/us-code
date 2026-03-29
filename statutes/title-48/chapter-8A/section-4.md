@@ -5,7 +5,7 @@ usc_section: "4"
 chapter: 8
 current_through: "PL 119-4"
 classification: "48 U.S.C. § 4"
-generated_at: "2026-03-29T20:01:08.575Z"
+generated_at: "2026-03-29T20:01:41.596Z"
 ---
 
 # § 1424–4. Criminal offenses; procedure; definitions

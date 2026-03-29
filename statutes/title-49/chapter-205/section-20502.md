@@ -5,7 +5,7 @@ usc_section: "20502"
 chapter: 205
 current_through: "PL 119-4"
 classification: "49 U.S.C. § 20502"
-generated_at: "2026-03-29T20:01:14.870Z"
+generated_at: "2026-03-29T20:01:51.014Z"
 ---
 
 # § 20502. Requirements for installation and use

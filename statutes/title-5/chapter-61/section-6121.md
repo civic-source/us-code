@@ -3,9 +3,9 @@ title: "Section 6121 - Definitions"
 usc_title: 5
 usc_section: "6121"
 chapter: 61
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "5 U.S.C. § 6121"
-generated_at: "2026-03-29T19:57:14.930Z"
+generated_at: "2026-03-29T20:01:52.192Z"
 ---
 
 # § 6121. Definitions
