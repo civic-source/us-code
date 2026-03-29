@@ -3,9 +3,9 @@ title: "Section 3701 - Findings"
 usc_title: 25
 usc_section: "3701"
 chapter: 39
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "25 U.S.C. § 3701"
-generated_at: "2026-03-29T23:38:49.407Z"
+generated_at: "2026-03-29T23:42:03.938Z"
 ---
 
 # § 3701. Findings

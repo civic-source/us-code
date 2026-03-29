@@ -3,9 +3,9 @@ title: "Section 7706 - Drug testing reporting"
 usc_title: 46
 usc_section: "7706"
 chapter: 77
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "46 U.S.C. § 7706"
-generated_at: "2026-03-29T23:40:04.296Z"
+generated_at: "2026-03-29T23:42:56.277Z"
 ---
 
 # § 7706. Drug testing reporting

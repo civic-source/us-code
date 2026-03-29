@@ -3,9 +3,9 @@ title: "Section 5606 - Establishment of Morris K. Udall and Stewart L. Udall Tru
 usc_title: 20
 usc_section: "5606"
 chapter: 66
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "20 U.S.C. § 5606"
-generated_at: "2026-03-29T23:38:20.578Z"
+generated_at: "2026-03-29T23:41:51.847Z"
 ---
 
 # § 5606. Establishment of Morris K. Udall and Stewart L. Udall Trust Fund

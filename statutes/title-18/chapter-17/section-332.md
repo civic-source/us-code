@@ -3,9 +3,9 @@ title: "Section 332 - Debasement of coins; alteration of official scales, or emb
 usc_title: 18
 usc_section: "332"
 chapter: 17
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "18 U.S.C. § 332"
-generated_at: "2026-03-29T23:38:23.660Z"
+generated_at: "2026-03-29T23:41:53.894Z"
 ---
 
 # § 332. Debasement of coins; alteration of official scales, or embezzlement of metals

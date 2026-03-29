@@ -3,9 +3,9 @@ title: "Section 6405 - Emergency assistance"
 usc_title: 16
 usc_section: "6405"
 chapter: 83
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "16 U.S.C. § 6405"
-generated_at: "2026-03-29T23:38:34.250Z"
+generated_at: "2026-03-29T23:42:00.382Z"
 ---
 
 # § 6405. Emergency assistance

@@ -3,9 +3,9 @@ title: "Section 2790 - Recovery of improperly disposed of Department of Defense 
 usc_title: 10
 usc_section: "2790"
 chapter: 165
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "10 U.S.C. § 2790"
-generated_at: "2026-03-29T23:37:57.177Z"
+generated_at: "2026-03-29T23:41:20.514Z"
 ---
 
 # § 2790. Recovery of improperly disposed of Department of Defense property

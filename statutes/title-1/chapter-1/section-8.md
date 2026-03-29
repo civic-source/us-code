@@ -3,9 +3,9 @@ title: "Section 8 - “Person”, “human being”, “child”, and “individ
 usc_title: 1
 usc_section: "8"
 chapter: 1
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "1 U.S.C. § 8"
-generated_at: "2026-03-29T23:37:32.101Z"
+generated_at: "2026-03-29T23:41:03.986Z"
 ---
 
 # § 8. “Person”, “human being”, “child”, and “individual” as including born-alive infant

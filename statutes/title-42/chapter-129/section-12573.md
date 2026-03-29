@@ -3,9 +3,9 @@ title: "Section 12573 - Types of national service positions eligible for approva
 usc_title: 42
 usc_section: "12573"
 chapter: 129
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "42 U.S.C. § 12573"
-generated_at: "2026-03-29T23:39:46.780Z"
+generated_at: "2026-03-29T23:42:47.939Z"
 ---
 
 # § 12573. Types of national service positions eligible for approval for national service educational awards

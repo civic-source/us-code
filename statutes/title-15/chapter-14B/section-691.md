@@ -3,9 +3,9 @@ title: "Section 691 - Repealed. Pub. L. 87–341, § 11(f) , Oct. 3, 1961 , 75 S
 usc_title: 15
 usc_section: "691"
 chapter: 14
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "15 U.S.C. § 691"
-generated_at: "2026-03-29T23:38:06.952Z"
+generated_at: "2026-03-29T23:41:37.764Z"
 ---
 
 # § 691. Repealed. Pub. L. 87–341, § 11(f) , Oct. 3, 1961 , 75 Stat. 756

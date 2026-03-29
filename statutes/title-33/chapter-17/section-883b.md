@@ -3,9 +3,9 @@ title: "Section 883b - Dissemination of data; further activities"
 usc_title: 33
 usc_section: "883b"
 chapter: 17
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "33 U.S.C. § 883b"
-generated_at: "2026-03-29T23:39:11.915Z"
+generated_at: "2026-03-29T23:42:26.766Z"
 ---
 
 # § 883b. Dissemination of data; further activities

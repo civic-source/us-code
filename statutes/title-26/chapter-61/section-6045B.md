@@ -3,9 +3,9 @@ title: "Section 6045B - Returns relating to actions affecting basis of specified
 usc_title: 26
 usc_section: "6045B"
 chapter: 61
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "26 U.S.C. § 6045B"
-generated_at: "2026-03-29T23:39:07.358Z"
+generated_at: "2026-03-29T23:42:22.024Z"
 ---
 
 # § 6045B. Returns relating to actions affecting basis of specified securities

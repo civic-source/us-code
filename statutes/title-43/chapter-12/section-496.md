@@ -3,9 +3,9 @@ title: "Section 496 - Cancellation of entry or water right for nonpayment of ope
 usc_title: 43
 usc_section: "496"
 chapter: 12
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "43 U.S.C. § 496"
-generated_at: "2026-03-29T23:39:19.326Z"
+generated_at: "2026-03-29T23:42:34.585Z"
 ---
 
 # § 496. Cancellation of entry or water right for nonpayment of operation charge

@@ -3,9 +3,9 @@ title: "Section 655 - Standards"
 usc_title: 29
 usc_section: "655"
 chapter: 15
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "29 U.S.C. § 655"
-generated_at: "2026-03-29T23:38:53.180Z"
+generated_at: "2026-03-29T23:42:11.967Z"
 ---
 
 # § 655. Standards

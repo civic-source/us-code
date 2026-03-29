@@ -3,9 +3,9 @@ title: "Section 66 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641"
 usc_title: 50
 usc_section: "66"
 chapter: 5
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "50 U.S.C. § 66"
-generated_at: "2026-03-29T23:40:24.288Z"
+generated_at: "2026-03-29T23:43:03.539Z"
 ---
 
 # §§ 59 to 66. Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641

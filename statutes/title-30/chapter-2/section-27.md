@@ -3,9 +3,9 @@ title: "Section 27 - Mining tunnels; right to possession of veins on line with; 
 usc_title: 30
 usc_section: "27"
 chapter: 2
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "30 U.S.C. § 27"
-generated_at: "2026-03-29T23:38:51.879Z"
+generated_at: "2026-03-29T23:42:10.769Z"
 ---
 
 # § 27. Mining tunnels; right to possession of veins on line with; abandonment of right

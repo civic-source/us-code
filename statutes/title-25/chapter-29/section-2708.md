@@ -3,9 +3,9 @@ title: "Section 2708 - Commission; access to information"
 usc_title: 25
 usc_section: "2708"
 chapter: 29
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "25 U.S.C. § 2708"
-generated_at: "2026-03-29T23:38:49.398Z"
+generated_at: "2026-03-29T23:42:03.930Z"
 ---
 
 # § 2708. Commission; access to information

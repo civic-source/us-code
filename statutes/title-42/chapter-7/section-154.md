@@ -3,9 +3,9 @@ title: "Section 154 - Improved Medicare prescription drug plan and MA–PD plan 
 usc_title: 42
 usc_section: "154"
 chapter: 7
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "42 U.S.C. § 154"
-generated_at: "2026-03-29T23:39:46.413Z"
+generated_at: "2026-03-29T23:42:47.547Z"
 ---
 
 # § 1395w–154. Improved Medicare prescription drug plan and MA–PD plan complaint system

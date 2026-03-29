@@ -3,9 +3,9 @@ title: "Section 226 - Special operations forces: display of service-common and o
 usc_title: 10
 usc_section: "226"
 chapter: 9
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "10 U.S.C. § 226"
-generated_at: "2026-03-29T23:37:57.081Z"
+generated_at: "2026-03-29T23:41:20.427Z"
 ---
 
 # § 226. Special operations forces: display of service-common and other support and enabling capabilities

@@ -3,9 +3,9 @@ title: "Section 3222e - New beginning for tribal students"
 usc_title: 7
 usc_section: "3222e"
 chapter: 64
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "7 U.S.C. § 3222e"
-generated_at: "2026-03-29T23:37:50.886Z"
+generated_at: "2026-03-29T23:41:30.535Z"
 ---
 
 # § 3222e. New beginning for tribal students

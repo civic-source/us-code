@@ -3,9 +3,9 @@ title: "Section 6001 - Findings"
 usc_title: 22
 usc_section: "6001"
 chapter: 69
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "22 U.S.C. § 6001"
-generated_at: "2026-03-29T23:38:41.064Z"
+generated_at: "2026-03-29T23:42:07.374Z"
 ---
 
 # § 6001. Findings

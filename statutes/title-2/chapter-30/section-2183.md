@@ -3,9 +3,9 @@ title: "Section 2183 - Protection of buildings and property"
 usc_title: 2
 usc_section: "2183"
 chapter: 30
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "2 U.S.C. § 2183"
-generated_at: "2026-03-29T23:37:39.916Z"
+generated_at: "2026-03-29T23:41:11.252Z"
 ---
 
 # § 2183. Protection of buildings and property

@@ -3,9 +3,9 @@ title: "Section 2705 - Coordinating and consulting requirements and authorities 
 usc_title: 15
 usc_section: "2705"
 chapter: 54
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "15 U.S.C. § 2705"
-generated_at: "2026-03-29T23:38:07.021Z"
+generated_at: "2026-03-29T23:41:37.833Z"
 ---
 
 # § 2705. Coordinating and consulting requirements and authorities of Secretary of Energy

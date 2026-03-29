@@ -3,9 +3,9 @@ title: "Section 4682 - Timeline required"
 usc_title: 19
 usc_section: "4682"
 chapter: 29
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "19 U.S.C. § 4682"
-generated_at: "2026-03-29T23:38:18.109Z"
+generated_at: "2026-03-29T23:41:48.945Z"
 ---
 
 # § 4682. Timeline required

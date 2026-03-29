@@ -3,9 +3,9 @@ title: "Section 3645 - Deduction from basic pay of amounts due for supplies or s
 usc_title: 22
 usc_section: "3645"
 chapter: 51
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "22 U.S.C. § 3645"
-generated_at: "2026-03-29T23:38:41.039Z"
+generated_at: "2026-03-29T23:42:07.348Z"
 ---
 
 # § 3645. Deduction from basic pay of amounts due for supplies or services

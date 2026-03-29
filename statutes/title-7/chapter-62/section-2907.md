@@ -3,9 +3,9 @@ title: "Section 2907 - Refunds"
 usc_title: 7
 usc_section: "2907"
 chapter: 62
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "7 U.S.C. § 2907"
-generated_at: "2026-03-29T23:37:50.882Z"
+generated_at: "2026-03-29T23:41:30.530Z"
 ---
 
 # § 2907. Refunds

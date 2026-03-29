@@ -3,9 +3,9 @@ title: "Section 6204 - Delegation"
 usc_title: 31
 usc_section: "6204"
 chapter: 62
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "31 U.S.C. § 6204"
-generated_at: "2026-03-29T23:39:10.967Z"
+generated_at: "2026-03-29T23:42:25.054Z"
 ---
 
 # § 6204. Delegation

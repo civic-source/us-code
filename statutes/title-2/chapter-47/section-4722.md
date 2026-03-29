@@ -3,9 +3,9 @@ title: "Section 4722 - Mandatory Senate ethics training for Members and staff"
 usc_title: 2
 usc_section: "4722"
 chapter: 47
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "2 U.S.C. § 4722"
-generated_at: "2026-03-29T23:37:39.921Z"
+generated_at: "2026-03-29T23:41:11.257Z"
 ---
 
 # § 4722. Mandatory Senate ethics training for Members and staff

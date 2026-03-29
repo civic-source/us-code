@@ -3,9 +3,9 @@ title: "Section 2712 - Payment for the apprehension of stragglers"
 usc_title: 14
 usc_section: "2712"
 chapter: 27
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "14 U.S.C. § 2712"
-generated_at: "2026-03-29T23:38:00.933Z"
+generated_at: "2026-03-29T23:41:34.619Z"
 ---
 
 # § 2712. Payment for the apprehension of stragglers

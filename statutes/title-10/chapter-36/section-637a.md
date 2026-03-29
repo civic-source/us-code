@@ -3,9 +3,9 @@ title: "Section 637a - Continuation on active duty: officers in certain military
 usc_title: 10
 usc_section: "637a"
 chapter: 36
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "10 U.S.C. § 637a"
-generated_at: "2026-03-29T23:37:57.099Z"
+generated_at: "2026-03-29T23:41:20.442Z"
 ---
 
 # § 637a. Continuation on active duty: officers in certain military specialties and career tracks

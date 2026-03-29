@@ -3,9 +3,9 @@ title: "Section 654b - Collection and disbursement of support payments"
 usc_title: 42
 usc_section: "654b"
 chapter: 7
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "42 U.S.C. § 654b"
-generated_at: "2026-03-29T23:39:46.323Z"
+generated_at: "2026-03-29T23:42:47.453Z"
 ---
 
 # § 654b. Collection and disbursement of support payments

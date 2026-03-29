@@ -3,9 +3,9 @@ title: "Section 18611 - Sense of Congress on accelerating energy innovation"
 usc_title: 42
 usc_section: "18611"
 chapter: 161
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "42 U.S.C. § 18611"
-generated_at: "2026-03-29T23:39:46.869Z"
+generated_at: "2026-03-29T23:42:48.031Z"
 ---
 
 # § 18611. Sense of Congress on accelerating energy innovation

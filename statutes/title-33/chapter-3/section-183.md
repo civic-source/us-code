@@ -3,9 +3,9 @@ title: "Section 183 - Repealed. Pub. L. 96–591, § 8(a) , Dec. 24, 1980 , 94 S
 usc_title: 33
 usc_section: "183"
 chapter: 3
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "33 U.S.C. § 183"
-generated_at: "2026-03-29T23:39:11.897Z"
+generated_at: "2026-03-29T23:42:26.749Z"
 ---
 
 # §§ 171 to 183. Repealed. Pub. L. 96–591, § 8(a) , Dec. 24, 1980 , 94 Stat. 3435

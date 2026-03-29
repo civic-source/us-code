@@ -3,9 +3,9 @@ title: "Section 578 - Disposal of surplus property for development of public por
 usc_title: 33
 usc_section: "578"
 chapter: 12
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "33 U.S.C. § 578"
-generated_at: "2026-03-29T23:39:11.906Z"
+generated_at: "2026-03-29T23:42:26.757Z"
 ---
 
 # § 578. Disposal of surplus property for development of public port or industrial facilities

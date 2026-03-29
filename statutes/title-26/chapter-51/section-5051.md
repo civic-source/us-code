@@ -3,9 +3,9 @@ title: "Section 5051 - Imposition and rate of tax"
 usc_title: 26
 usc_section: "5051"
 chapter: 51
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "26 U.S.C. § 5051"
-generated_at: "2026-03-29T23:39:07.346Z"
+generated_at: "2026-03-29T23:42:22.011Z"
 ---
 
 # § 5051. Imposition and rate of tax

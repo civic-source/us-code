@@ -3,9 +3,9 @@ title: "Section 3929b - Cooperation with Office of the Inspector General"
 usc_title: 22
 usc_section: "3929b"
 chapter: 52
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "22 U.S.C. § 3929b"
-generated_at: "2026-03-29T23:38:41.042Z"
+generated_at: "2026-03-29T23:42:07.352Z"
 ---
 
 # § 3929b. Cooperation with Office of the Inspector General

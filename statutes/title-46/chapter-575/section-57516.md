@@ -3,9 +3,9 @@ title: "Section 57516 - Operating-differential subsidies"
 usc_title: 46
 usc_section: "57516"
 chapter: 575
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "46 U.S.C. § 57516"
-generated_at: "2026-03-29T23:40:04.319Z"
+generated_at: "2026-03-29T23:42:56.303Z"
 ---
 
 # § 57516. Operating-differential subsidies

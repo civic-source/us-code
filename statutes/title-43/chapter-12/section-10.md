@@ -3,9 +3,9 @@ title: "Section 10 - San Diego area water reclamation program"
 usc_title: 43
 usc_section: "10"
 chapter: 12
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "43 U.S.C. § 10"
-generated_at: "2026-03-29T23:39:19.319Z"
+generated_at: "2026-03-29T23:42:34.579Z"
 ---
 
 # § 390h–10. San Diego area water reclamation program

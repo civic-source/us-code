@@ -3,9 +3,9 @@ title: "Section 2501 - Congressional findings and policy"
 usc_title: 15
 usc_section: "2501"
 chapter: 52
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "15 U.S.C. § 2501"
-generated_at: "2026-03-29T23:38:07.010Z"
+generated_at: "2026-03-29T23:41:37.822Z"
 ---
 
 # § 2501. Congressional findings and policy

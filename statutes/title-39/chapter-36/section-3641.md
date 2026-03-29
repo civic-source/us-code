@@ -3,9 +3,9 @@ title: "Section 3641 - Market tests of experimental products"
 usc_title: 39
 usc_section: "3641"
 chapter: 36
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "39 U.S.C. § 3641"
-generated_at: "2026-03-29T23:39:13.674Z"
+generated_at: "2026-03-29T23:42:28.423Z"
 ---
 
 # § 3641. Market tests of experimental products

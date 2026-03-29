@@ -3,9 +3,9 @@ title: "Section 80305 - Availability of certain appropriations"
 usc_title: 49
 usc_section: "80305"
 chapter: 803
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "49 U.S.C. § 80305"
-generated_at: "2026-03-29T23:40:03.544Z"
+generated_at: "2026-03-29T23:42:54.975Z"
 ---
 
 # § 80305. Availability of certain appropriations

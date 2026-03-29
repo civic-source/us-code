@@ -3,9 +3,9 @@ title: "Section 2505 - Special advisory committees; membership; reimbursement"
 usc_title: 44
 usc_section: "2505"
 chapter: 25
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "44 U.S.C. § 2505"
-generated_at: "2026-03-29T23:39:18.291Z"
+generated_at: "2026-03-29T23:42:33.467Z"
 ---
 
 # § 2505. Special advisory committees; membership; reimbursement

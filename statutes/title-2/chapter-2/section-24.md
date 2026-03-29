@@ -3,9 +3,9 @@ title: "Section 24 - Secretary of Senate or assistant secretary may administer o
 usc_title: 2
 usc_section: "24"
 chapter: 2
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "2 U.S.C. § 24"
-generated_at: "2026-03-29T23:37:39.871Z"
+generated_at: "2026-03-29T23:41:11.216Z"
 ---
 
 # § 24. Secretary of Senate or assistant secretary may administer oaths

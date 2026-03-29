@@ -3,9 +3,9 @@ title: "Section 1 - Transferred"
 usc_title: 42
 usc_section: "1"
 chapter: 26
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-29T23:39:46.562Z"
+generated_at: "2026-03-29T23:42:47.703Z"
 ---
 
 # § 2459j–1. Transferred

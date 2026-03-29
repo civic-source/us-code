@@ -3,9 +3,9 @@ title: "Section 6 - Reduction of representation"
 usc_title: 2
 usc_section: "6"
 chapter: 1
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "2 U.S.C. § 6"
-generated_at: "2026-03-29T23:37:39.871Z"
+generated_at: "2026-03-29T23:41:11.215Z"
 ---
 
 # § 6. Reduction of representation

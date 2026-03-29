@@ -3,9 +3,9 @@ title: "Section 60301 - User fees"
 usc_title: 49
 usc_section: "60301"
 chapter: 603
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "49 U.S.C. § 60301"
-generated_at: "2026-03-29T23:40:03.543Z"
+generated_at: "2026-03-29T23:42:54.974Z"
 ---
 
 # § 60301. User fees

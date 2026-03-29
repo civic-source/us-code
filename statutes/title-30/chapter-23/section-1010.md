@@ -3,9 +3,9 @@ title: "Section 1010 - Suspension of operations and production"
 usc_title: 30
 usc_section: "1010"
 chapter: 23
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "30 U.S.C. § 1010"
-generated_at: "2026-03-29T23:38:51.898Z"
+generated_at: "2026-03-29T23:42:10.788Z"
 ---
 
 # § 1010. Suspension of operations and production

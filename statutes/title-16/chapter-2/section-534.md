@@ -3,9 +3,9 @@ title: "Section 534 - Termination and cancellation of easements; notice; hearing
 usc_title: 16
 usc_section: "534"
 chapter: 2
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "16 U.S.C. § 534"
-generated_at: "2026-03-29T23:38:34.114Z"
+generated_at: "2026-03-29T23:42:00.244Z"
 ---
 
 # § 534. Termination and cancellation of easements; notice; hearing

@@ -3,9 +3,9 @@ title: "Section 31139 - Minimum financial responsibility for transporting proper
 usc_title: 49
 usc_section: "31139"
 chapter: 311
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "49 U.S.C. § 31139"
-generated_at: "2026-03-29T23:40:03.498Z"
+generated_at: "2026-03-29T23:42:54.925Z"
 ---
 
 # § 31139. Minimum financial responsibility for transporting property

@@ -3,9 +3,9 @@ title: "Section 625 - Repealed. Oct. 31, 1951, ch. 654, § 1(58) , 65 Stat. 703"
 usc_title: 33
 usc_section: "625"
 chapter: 12
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "33 U.S.C. § 625"
-generated_at: "2026-03-29T23:39:11.907Z"
+generated_at: "2026-03-29T23:42:26.759Z"
 ---
 
 # § 625. Repealed. Oct. 31, 1951, ch. 654, § 1(58) , 65 Stat. 703

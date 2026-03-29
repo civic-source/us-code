@@ -3,9 +3,9 @@ title: "Section 2005 - Reports and studies for Congress"
 usc_title: 30
 usc_section: "2005"
 chapter: 32
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "30 U.S.C. § 2005"
-generated_at: "2026-03-29T23:38:51.914Z"
+generated_at: "2026-03-29T23:42:10.803Z"
 ---
 
 # § 2005. Reports and studies for Congress

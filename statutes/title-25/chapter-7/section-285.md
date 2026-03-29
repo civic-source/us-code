@@ -3,9 +3,9 @@ title: "Section 285 - Withholding annuities from Osage Indians for nonattendance
 usc_title: 25
 usc_section: "285"
 chapter: 7
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "25 U.S.C. § 285"
-generated_at: "2026-03-29T23:38:49.361Z"
+generated_at: "2026-03-29T23:42:03.892Z"
 ---
 
 # § 285. Withholding annuities from Osage Indians for nonattendance at schools

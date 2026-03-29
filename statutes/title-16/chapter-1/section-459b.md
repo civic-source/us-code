@@ -3,9 +3,9 @@ title: "Section 459b - Cape Cod National Seashore; description of area"
 usc_title: 16
 usc_section: "459b"
 chapter: 1
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "16 U.S.C. § 459b"
-generated_at: "2026-03-29T23:38:34.075Z"
+generated_at: "2026-03-29T23:42:00.204Z"
 ---
 
 # § 459b. Cape Cod National Seashore; description of area

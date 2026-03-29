@@ -3,9 +3,9 @@ title: "Section 4121 - Science and technology reinvention laboratories: authorit
 usc_title: 10
 usc_section: "4121"
 chapter: 303
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "10 U.S.C. § 4121"
-generated_at: "2026-03-29T23:37:57.197Z"
+generated_at: "2026-03-29T23:41:20.531Z"
 ---
 
 # § 4121. Science and technology reinvention laboratories: authority and designation

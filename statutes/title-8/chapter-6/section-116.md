@@ -3,9 +3,9 @@ title: "Section 116 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(13)
 usc_title: 8
 usc_section: "116"
 chapter: 6
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "8 U.S.C. § 116"
-generated_at: "2026-03-29T23:37:47.663Z"
+generated_at: "2026-03-29T23:41:14.347Z"
 ---
 
 # §§ 115, 116. Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(13), 66 Stat. 279 , eff. Dec. 24, 1952

@@ -3,9 +3,9 @@ title: "Section 1322 - Omitted"
 usc_title: 22
 usc_section: "1322"
 chapter: 15
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "22 U.S.C. § 1322"
-generated_at: "2026-03-29T23:38:40.985Z"
+generated_at: "2026-03-29T23:42:07.291Z"
 ---
 
 # §§ 1321, 1322. Omitted

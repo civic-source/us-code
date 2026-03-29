@@ -3,9 +3,9 @@ title: "Section 1707 - Population changes without effect, per se, on school popu
 usc_title: 20
 usc_section: "1707"
 chapter: 39
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "20 U.S.C. § 1707"
-generated_at: "2026-03-29T23:38:20.560Z"
+generated_at: "2026-03-29T23:41:51.829Z"
 ---
 
 # § 1707. Population changes without effect, per se, on school population changes

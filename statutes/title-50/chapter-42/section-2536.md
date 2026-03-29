@@ -3,9 +3,9 @@ title: "Section 2536 - Reports on life extension programs"
 usc_title: 50
 usc_section: "2536"
 chapter: 42
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "50 U.S.C. § 2536"
-generated_at: "2026-03-29T23:40:24.317Z"
+generated_at: "2026-03-29T23:43:03.566Z"
 ---
 
 # § 2536. Reports on life extension programs

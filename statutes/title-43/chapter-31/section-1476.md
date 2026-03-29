@@ -3,9 +3,9 @@ title: "Section 1476 - Elimination of oaths for written statements; discretion o
 usc_title: 43
 usc_section: "1476"
 chapter: 31
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "43 U.S.C. § 1476"
-generated_at: "2026-03-29T23:39:19.345Z"
+generated_at: "2026-03-29T23:42:34.603Z"
 ---
 
 # § 1476. Elimination of oaths for written statements; discretion of Secretary of the Interior

@@ -3,9 +3,9 @@ title: "Section 1574 - Modification of projects"
 usc_title: 43
 usc_section: "1574"
 chapter: 32
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "43 U.S.C. § 1574"
-generated_at: "2026-03-29T23:39:19.347Z"
+generated_at: "2026-03-29T23:42:34.604Z"
 ---
 
 # § 1574. Modification of projects

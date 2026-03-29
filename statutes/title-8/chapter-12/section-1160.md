@@ -3,9 +3,9 @@ title: "Section 1160 - Special agricultural workers"
 usc_title: 8
 usc_section: "1160"
 chapter: 12
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "8 U.S.C. § 1160"
-generated_at: "2026-03-29T23:37:47.669Z"
+generated_at: "2026-03-29T23:41:14.354Z"
 ---
 
 # § 1160. Special agricultural workers

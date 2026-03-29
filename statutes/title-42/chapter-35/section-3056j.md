@@ -3,9 +3,9 @@ title: "Section 3056j - Treatment of assistance"
 usc_title: 42
 usc_section: "3056j"
 chapter: 35
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "42 U.S.C. § 3056j"
-generated_at: "2026-03-29T23:39:46.575Z"
+generated_at: "2026-03-29T23:42:47.716Z"
 ---
 
 # § 3056j. Treatment of assistance

@@ -3,9 +3,9 @@ title: "Section 6838 - Cost-effective codes implementation for efficiency and re
 usc_title: 42
 usc_section: "6838"
 chapter: 81
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "42 U.S.C. § 6838"
-generated_at: "2026-03-29T23:39:46.649Z"
+generated_at: "2026-03-29T23:42:47.799Z"
 ---
 
 # § 6838. Cost-effective codes implementation for efficiency and resilience

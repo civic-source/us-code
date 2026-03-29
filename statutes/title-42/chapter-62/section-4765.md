@@ -3,9 +3,9 @@ title: "Section 4765 - Review and audit"
 usc_title: 42
 usc_section: "4765"
 chapter: 62
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "42 U.S.C. § 4765"
-generated_at: "2026-03-29T23:39:46.600Z"
+generated_at: "2026-03-29T23:42:47.746Z"
 ---
 
 # § 4765. Review and audit

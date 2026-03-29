@@ -3,9 +3,9 @@ title: "Section 3062 - General arrest authority for violation of release conditi
 usc_title: 18
 usc_section: "3062"
 chapter: 203
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "18 U.S.C. § 3062"
-generated_at: "2026-03-29T23:38:23.700Z"
+generated_at: "2026-03-29T23:41:53.936Z"
 ---
 
 # § 3062. General arrest authority for violation of release conditions

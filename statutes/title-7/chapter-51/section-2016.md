@@ -3,9 +3,9 @@ title: "Section 2016 - Issuance and use of program benefits"
 usc_title: 7
 usc_section: "2016"
 chapter: 51
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "7 U.S.C. § 2016"
-generated_at: "2026-03-29T23:37:50.861Z"
+generated_at: "2026-03-29T23:41:30.509Z"
 ---
 
 # § 2016. Issuance and use of program benefits

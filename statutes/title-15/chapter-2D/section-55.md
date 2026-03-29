@@ -3,9 +3,9 @@ title: "Section 55 - Qualifications of directors"
 usc_title: 15
 usc_section: "55"
 chapter: 2
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "15 U.S.C. § 55"
-generated_at: "2026-03-29T23:38:06.911Z"
+generated_at: "2026-03-29T23:41:37.725Z"
 ---
 
 # § 80a–55. Qualifications of directors

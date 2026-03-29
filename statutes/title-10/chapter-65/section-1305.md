@@ -3,9 +3,9 @@ title: "Section 1305 - Thirty years or more: regular warrant officers"
 usc_title: 10
 usc_section: "1305"
 chapter: 65
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "10 U.S.C. § 1305"
-generated_at: "2026-03-29T23:37:57.131Z"
+generated_at: "2026-03-29T23:41:20.473Z"
 ---
 
 # § 1305. Thirty years or more: regular warrant officers

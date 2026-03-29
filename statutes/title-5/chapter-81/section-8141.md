@@ -3,9 +3,9 @@ title: "Section 8141 - Civil Air Patrol volunteers"
 usc_title: 5
 usc_section: "8141"
 chapter: 81
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "5 U.S.C. § 8141"
-generated_at: "2026-03-29T23:37:44.436Z"
+generated_at: "2026-03-29T23:40:59.060Z"
 ---
 
 # § 8141. Civil Air Patrol volunteers

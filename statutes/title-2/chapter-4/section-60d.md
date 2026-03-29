@@ -3,9 +3,9 @@ title: "Section 60d - Repealed. Pub. L. 107–68, title I, § 116(b)(1) , Nov. 1
 usc_title: 2
 usc_section: "60d"
 chapter: 4
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "2 U.S.C. § 60d"
-generated_at: "2026-03-29T23:37:39.874Z"
+generated_at: "2026-03-29T23:41:11.217Z"
 ---
 
 # § 60d. Repealed. Pub. L. 107–68, title I, § 116(b)(1) , Nov. 12, 2001 , 115 Stat. 573

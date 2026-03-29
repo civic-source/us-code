@@ -3,9 +3,9 @@ title: "Section 138c - Samples"
 usc_title: 7
 usc_section: "138c"
 chapter: 6
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "7 U.S.C. § 138c"
-generated_at: "2026-03-29T23:37:50.793Z"
+generated_at: "2026-03-29T23:41:30.437Z"
 ---
 
 # § 138c. Samples

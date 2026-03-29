@@ -3,9 +3,9 @@ title: "Section 387h - Notification and other remedies"
 usc_title: 21
 usc_section: "387h"
 chapter: 9
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "21 U.S.C. § 387h"
-generated_at: "2026-03-29T23:38:42.918Z"
+generated_at: "2026-03-29T23:42:04.938Z"
 ---
 
 # § 387h. Notification and other remedies

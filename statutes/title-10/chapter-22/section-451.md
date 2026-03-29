@@ -3,9 +3,9 @@ title: "Section 451 - Maps, charts, books, and datasets"
 usc_title: 10
 usc_section: "451"
 chapter: 22
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "10 U.S.C. § 451"
-generated_at: "2026-03-29T23:37:57.092Z"
+generated_at: "2026-03-29T23:41:20.434Z"
 ---
 
 # § 451. Maps, charts, books, and datasets

@@ -3,9 +3,9 @@ title: "Section 7927 - Sense of Congress on restoration of State sovereignty ove
 usc_title: 20
 usc_section: "7927"
 chapter: 70
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "20 U.S.C. § 7927"
-generated_at: "2026-03-29T23:38:20.609Z"
+generated_at: "2026-03-29T23:41:51.876Z"
 ---
 
 # § 7927. Sense of Congress on restoration of State sovereignty over public education

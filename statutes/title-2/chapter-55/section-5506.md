@@ -3,9 +3,9 @@ title: "Section 5506 - Appropriations for expenses of House; restrictions"
 usc_title: 2
 usc_section: "5506"
 chapter: 55
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "2 U.S.C. § 5506"
-generated_at: "2026-03-29T23:37:39.923Z"
+generated_at: "2026-03-29T23:41:11.258Z"
 ---
 
 # § 5506. Appropriations for expenses of House; restrictions

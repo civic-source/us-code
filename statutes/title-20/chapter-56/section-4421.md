@@ -3,9 +3,9 @@ title: "Section 4421 - Transfer of functions"
 usc_title: 20
 usc_section: "4421"
 chapter: 56
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "20 U.S.C. § 4421"
-generated_at: "2026-03-29T23:38:20.574Z"
+generated_at: "2026-03-29T23:41:51.843Z"
 ---
 
 # § 4421. Transfer of functions

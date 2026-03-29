@@ -3,9 +3,9 @@ title: "Section 1321 - Oil and hazardous substance liability"
 usc_title: 33
 usc_section: "1321"
 chapter: 26
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "33 U.S.C. § 1321"
-generated_at: "2026-03-29T23:39:11.931Z"
+generated_at: "2026-03-29T23:42:26.783Z"
 ---
 
 # § 1321. Oil and hazardous substance liability

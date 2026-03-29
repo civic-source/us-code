@@ -3,9 +3,9 @@ title: "Section 122 - Patents; reservation in the United States of reserved depo
 usc_title: 30
 usc_section: "122"
 chapter: 3
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "30 U.S.C. § 122"
-generated_at: "2026-03-29T23:38:51.882Z"
+generated_at: "2026-03-29T23:42:10.771Z"
 ---
 
 # § 122. Patents; reservation in the United States of reserved deposits; acquisition of right to remove deposits; application for entry to disprove classification

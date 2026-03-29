@@ -3,9 +3,9 @@ title: "Section 504 - Forfeitures"
 usc_title: 47
 usc_section: "504"
 chapter: 5
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "47 U.S.C. § 504"
-generated_at: "2026-03-29T23:39:50.214Z"
+generated_at: "2026-03-29T23:42:52.708Z"
 ---
 
 # § 504. Forfeitures

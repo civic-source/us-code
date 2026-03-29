@@ -3,9 +3,9 @@ title: "Section 59z - Declaration of nonnavigability of bodies of water in Ridge
 usc_title: 33
 usc_section: "59z"
 chapter: 1
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "33 U.S.C. § 59z"
-generated_at: "2026-03-29T23:39:11.896Z"
+generated_at: "2026-03-29T23:42:26.747Z"
 ---
 
 # § 59z. Declaration of nonnavigability of bodies of water in Ridgefield, New Jersey

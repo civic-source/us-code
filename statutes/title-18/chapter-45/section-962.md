@@ -3,9 +3,9 @@ title: "Section 962 - Arming vessel against friendly nation"
 usc_title: 18
 usc_section: "962"
 chapter: 45
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "18 U.S.C. § 962"
-generated_at: "2026-03-29T23:38:23.671Z"
+generated_at: "2026-03-29T23:41:53.905Z"
 ---
 
 # § 962. Arming vessel against friendly nation

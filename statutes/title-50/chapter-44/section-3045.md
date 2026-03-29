@@ -3,9 +3,9 @@ title: "Section 3045 - National mission of National Geospatial-Intelligence Agen
 usc_title: 50
 usc_section: "3045"
 chapter: 44
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "50 U.S.C. § 3045"
-generated_at: "2026-03-29T23:40:24.329Z"
+generated_at: "2026-03-29T23:43:03.577Z"
 ---
 
 # § 3045. National mission of National Geospatial-Intelligence Agency

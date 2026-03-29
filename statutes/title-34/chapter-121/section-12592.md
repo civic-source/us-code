@@ -3,9 +3,9 @@ title: "Section 12592 - Index to facilitate law enforcement exchange of DNA iden
 usc_title: 34
 usc_section: "12592"
 chapter: 121
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "34 U.S.C. § 12592"
-generated_at: "2026-03-29T23:39:10.299Z"
+generated_at: "2026-03-29T23:42:25.807Z"
 ---
 
 # § 12592. Index to facilitate law enforcement exchange of DNA identification information

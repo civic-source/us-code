@@ -3,9 +3,9 @@ title: "Section 19311 - Lab-Embedded Entrepreneurship Program"
 usc_title: 42
 usc_section: "19311"
 chapter: 163
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "42 U.S.C. § 19311"
-generated_at: "2026-03-29T23:39:46.890Z"
+generated_at: "2026-03-29T23:42:48.053Z"
 ---
 
 # § 19311. Lab-Embedded Entrepreneurship Program

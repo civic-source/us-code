@@ -3,9 +3,9 @@ title: "Section 178i - Coordination of activities with Federal agencies"
 usc_title: 7
 usc_section: "178i"
 chapter: 8
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "7 U.S.C. § 178i"
-generated_at: "2026-03-29T23:37:50.793Z"
+generated_at: "2026-03-29T23:41:30.438Z"
 ---
 
 # § 178i. Coordination of activities with Federal agencies

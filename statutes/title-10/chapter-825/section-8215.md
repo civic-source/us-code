@@ -3,9 +3,9 @@ title: "Section 8215 - Citizenship of officers of vessels"
 usc_title: 10
 usc_section: "8215"
 chapter: 825
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "10 U.S.C. § 8215"
-generated_at: "2026-03-29T23:37:57.214Z"
+generated_at: "2026-03-29T23:41:20.549Z"
 ---
 
 # § 8215. Citizenship of officers of vessels

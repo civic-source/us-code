@@ -3,9 +3,9 @@ title: "Section 77sss - Rules, regulations, and orders"
 usc_title: 15
 usc_section: "77sss"
 chapter: 2
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "15 U.S.C. § 77sss"
-generated_at: "2026-03-29T23:38:06.878Z"
+generated_at: "2026-03-29T23:41:37.693Z"
 ---
 
 # § 77sss. Rules, regulations, and orders

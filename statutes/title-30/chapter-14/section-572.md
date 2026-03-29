@@ -3,9 +3,9 @@ title: "Section 572 - United States contributions to Pennsylvania: authority, co
 usc_title: 30
 usc_section: "572"
 chapter: 14
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "30 U.S.C. § 572"
-generated_at: "2026-03-29T23:38:51.889Z"
+generated_at: "2026-03-29T23:42:10.779Z"
 ---
 
 # § 572. United States contributions to Pennsylvania: authority, conditions, limitations

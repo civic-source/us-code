@@ -3,9 +3,9 @@ title: "Section 1683a - Establishment of softwood lumber importer declaration pr
 usc_title: 19
 usc_section: "1683a"
 chapter: 4
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "19 U.S.C. § 1683a"
-generated_at: "2026-03-29T23:38:18.063Z"
+generated_at: "2026-03-29T23:41:48.894Z"
 ---
 
 # § 1683a. Establishment of softwood lumber importer declaration program

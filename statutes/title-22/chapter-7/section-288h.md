@@ -3,9 +3,9 @@ title: "Section 288h - Commission of European Communities; extension of privileg
 usc_title: 22
 usc_section: "288h"
 chapter: 7
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "22 U.S.C. § 288h"
-generated_at: "2026-03-29T23:38:40.978Z"
+generated_at: "2026-03-29T23:42:07.284Z"
 ---
 
 # § 288h. Commission of European Communities; extension of privileges and immunities to members

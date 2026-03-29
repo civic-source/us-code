@@ -3,9 +3,9 @@ title: "Section 2174 - American schools, libraries, and hospital centers abroad"
 usc_title: 22
 usc_section: "2174"
 chapter: 32
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "22 U.S.C. § 2174"
-generated_at: "2026-03-29T23:38:41.001Z"
+generated_at: "2026-03-29T23:42:07.308Z"
 ---
 
 # § 2174. American schools, libraries, and hospital centers abroad

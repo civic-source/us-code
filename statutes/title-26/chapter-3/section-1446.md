@@ -3,9 +3,9 @@ title: "Section 1446 - Withholding of tax on foreign partners’ share of effect
 usc_title: 26
 usc_section: "1446"
 chapter: 3
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "26 U.S.C. § 1446"
-generated_at: "2026-03-29T23:39:07.311Z"
+generated_at: "2026-03-29T23:42:21.974Z"
 ---
 
 # § 1446. Withholding of tax on foreign partners’ share of effectively connected income

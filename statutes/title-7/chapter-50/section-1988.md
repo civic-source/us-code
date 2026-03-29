@@ -3,9 +3,9 @@ title: "Section 1988 - Appropriations"
 usc_title: 7
 usc_section: "1988"
 chapter: 50
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "7 U.S.C. § 1988"
-generated_at: "2026-03-29T23:37:50.851Z"
+generated_at: "2026-03-29T23:41:30.499Z"
 ---
 
 # § 1988. Appropriations

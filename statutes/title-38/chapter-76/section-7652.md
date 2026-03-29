@@ -3,9 +3,9 @@ title: "Section 7652 - Eligibility: individuals entitled to benefits under the G
 usc_title: 38
 usc_section: "7652"
 chapter: 76
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "38 U.S.C. § 7652"
-generated_at: "2026-03-29T23:39:16.458Z"
+generated_at: "2026-03-29T23:42:31.319Z"
 ---
 
 # § 7652. Eligibility: individuals entitled to benefits under the GI Bill program for members of the Selected Reserve

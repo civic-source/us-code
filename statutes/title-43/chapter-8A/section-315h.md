@@ -3,9 +3,9 @@ title: "Section 315h - Cooperation with associations, land officials, and agenci
 usc_title: 43
 usc_section: "315h"
 chapter: 8
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "43 U.S.C. § 315h"
-generated_at: "2026-03-29T23:39:19.314Z"
+generated_at: "2026-03-29T23:42:34.576Z"
 ---
 
 # § 315h. Cooperation with associations, land officials, and agencies engaged in conservation or propagation of wildlife; local hearings on appeals; acceptance and use of contributions

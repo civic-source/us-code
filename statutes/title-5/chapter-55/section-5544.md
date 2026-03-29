@@ -3,9 +3,9 @@ title: "Section 5544 - Wage-board overtime and Sunday rates; computation"
 usc_title: 5
 usc_section: "5544"
 chapter: 55
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "5 U.S.C. § 5544"
-generated_at: "2026-03-29T23:37:44.422Z"
+generated_at: "2026-03-29T23:40:59.045Z"
 ---
 
 # § 5544. Wage-board overtime and Sunday rates; computation

@@ -3,9 +3,9 @@ title: "Section 1902 - Continued operation of Center"
 usc_title: 29
 usc_section: "1902"
 chapter: 21
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "29 U.S.C. § 1902"
-generated_at: "2026-03-29T23:38:53.225Z"
+generated_at: "2026-03-29T23:42:12.013Z"
 ---
 
 # § 1902. Continued operation of Center

@@ -3,9 +3,9 @@ title: "Section 1375a - Report on coastal recreation waters"
 usc_title: 33
 usc_section: "1375a"
 chapter: 26
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "33 U.S.C. § 1375a"
-generated_at: "2026-03-29T23:39:11.940Z"
+generated_at: "2026-03-29T23:42:26.792Z"
 ---
 
 # § 1375a. Report on coastal recreation waters

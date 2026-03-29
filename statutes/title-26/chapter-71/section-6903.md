@@ -3,9 +3,9 @@ title: "Section 6903 - Notice of fiduciary relationship"
 usc_title: 26
 usc_section: "6903"
 chapter: 71
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "26 U.S.C. § 6903"
-generated_at: "2026-03-29T23:39:07.387Z"
+generated_at: "2026-03-29T23:42:22.053Z"
 ---
 
 # § 6903. Notice of fiduciary relationship

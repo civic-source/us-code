@@ -3,9 +3,9 @@ title: "Section 14503 - Limitation on liability for volunteers"
 usc_title: 42
 usc_section: "14503"
 chapter: 139
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "42 U.S.C. § 14503"
-generated_at: "2026-03-29T23:39:46.810Z"
+generated_at: "2026-03-29T23:42:47.972Z"
 ---
 
 # § 14503. Limitation on liability for volunteers

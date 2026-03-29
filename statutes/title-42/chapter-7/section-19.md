@@ -3,9 +3,9 @@ title: "Section 19 - Omitted"
 usc_title: 42
 usc_section: "19"
 chapter: 7
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "42 U.S.C. § 19"
-generated_at: "2026-03-29T23:39:46.354Z"
+generated_at: "2026-03-29T23:42:47.486Z"
 ---
 
 # §§ 1320c–14 to 1320c–19. Omitted

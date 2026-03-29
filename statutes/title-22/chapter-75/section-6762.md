@@ -3,9 +3,9 @@ title: "Section 6762 - Specific enforcement"
 usc_title: 22
 usc_section: "6762"
 chapter: 75
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "22 U.S.C. § 6762"
-generated_at: "2026-03-29T23:38:41.075Z"
+generated_at: "2026-03-29T23:42:07.385Z"
 ---
 
 # § 6762. Specific enforcement

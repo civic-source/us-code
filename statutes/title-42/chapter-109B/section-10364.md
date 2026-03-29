@@ -3,9 +3,9 @@ title: "Section 10364 - Water management improvement"
 usc_title: 42
 usc_section: "10364"
 chapter: 109
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "42 U.S.C. § 10364"
-generated_at: "2026-03-29T23:39:46.754Z"
+generated_at: "2026-03-29T23:42:47.911Z"
 ---
 
 # § 10364. Water management improvement

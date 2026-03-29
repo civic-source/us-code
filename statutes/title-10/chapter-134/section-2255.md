@@ -3,9 +3,9 @@ title: "Section 2255 - Aircraft accident investigation boards: composition requi
 usc_title: 10
 usc_section: "2255"
 chapter: 134
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "10 U.S.C. § 2255"
-generated_at: "2026-03-29T23:37:57.157Z"
+generated_at: "2026-03-29T23:41:20.497Z"
 ---
 
 # § 2255. Aircraft accident investigation boards: composition requirements

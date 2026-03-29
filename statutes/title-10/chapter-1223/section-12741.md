@@ -3,9 +3,9 @@ title: "Section 12741 - Retirement for service in an active status performed in 
 usc_title: 10
 usc_section: "12741"
 chapter: 1223
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "10 U.S.C. § 12741"
-generated_at: "2026-03-29T23:37:57.238Z"
+generated_at: "2026-03-29T23:41:20.573Z"
 ---
 
 # § 12741. Retirement for service in an active status performed in the Selected Reserve of the Ready Reserve after eligibility for regular retirement

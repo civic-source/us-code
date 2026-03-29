@@ -3,9 +3,9 @@ title: "Section 30907 - Procedure for hearing and determination"
 usc_title: 46
 usc_section: "30907"
 chapter: 309
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "46 U.S.C. § 30907"
-generated_at: "2026-03-29T23:40:04.304Z"
+generated_at: "2026-03-29T23:42:56.285Z"
 ---
 
 # § 30907. Procedure for hearing and determination

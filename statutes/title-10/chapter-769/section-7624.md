@@ -3,9 +3,9 @@ title: "Section 7624 - Medical supplies: civilian employees of the Army; America
 usc_title: 10
 usc_section: "7624"
 chapter: 769
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "10 U.S.C. § 7624"
-generated_at: "2026-03-29T23:37:57.211Z"
+generated_at: "2026-03-29T23:41:20.546Z"
 ---
 
 # § 7624. Medical supplies: civilian employees of the Army; American National Red Cross; Armed Forces Retirement Home

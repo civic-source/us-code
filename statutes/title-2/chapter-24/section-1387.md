@@ -3,9 +3,9 @@ title: "Section 1387 - Semiannual report of disbursements"
 usc_title: 2
 usc_section: "1387"
 chapter: 24
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "2 U.S.C. § 1387"
-generated_at: "2026-03-29T23:37:39.903Z"
+generated_at: "2026-03-29T23:41:11.240Z"
 ---
 
 # § 1387. Semiannual report of disbursements

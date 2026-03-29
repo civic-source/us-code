@@ -3,9 +3,9 @@ title: "Section 52 - Dissemination of false advertisements"
 usc_title: 15
 usc_section: "52"
 chapter: 2
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "15 U.S.C. § 52"
-generated_at: "2026-03-29T23:38:06.868Z"
+generated_at: "2026-03-29T23:41:37.682Z"
 ---
 
 # § 52. Dissemination of false advertisements

@@ -3,9 +3,9 @@ title: "Section 3749 - Revolving fund"
 usc_title: 38
 usc_section: "3749"
 chapter: 37
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "38 U.S.C. § 3749"
-generated_at: "2026-03-29T23:39:16.439Z"
+generated_at: "2026-03-29T23:42:31.301Z"
 ---
 
 # § 3749. Revolving fund

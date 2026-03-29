@@ -3,9 +3,9 @@ title: "Section 2201 - Combat zone-related deaths of members of the Armed Forces
 usc_title: 26
 usc_section: "2201"
 chapter: 11
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "26 U.S.C. § 2201"
-generated_at: "2026-03-29T23:39:07.317Z"
+generated_at: "2026-03-29T23:42:21.980Z"
 ---
 
 # § 2201. Combat zone-related deaths of members of the Armed Forces, deaths of astronauts, and deaths of victims of certain terrorist attacks

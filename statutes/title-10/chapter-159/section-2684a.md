@@ -3,9 +3,9 @@ title: "Section 2684a - Agreements to limit encroachments and other constraints 
 usc_title: 10
 usc_section: "2684a"
 chapter: 159
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "10 U.S.C. § 2684a"
-generated_at: "2026-03-29T23:37:57.171Z"
+generated_at: "2026-03-29T23:41:20.510Z"
 ---
 
 # § 2684a. Agreements to limit encroachments and other constraints on military training, testing, and operations

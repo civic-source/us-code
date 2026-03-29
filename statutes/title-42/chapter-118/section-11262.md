@@ -3,9 +3,9 @@ title: "Section 11262 - Dissemination"
 usc_title: 42
 usc_section: "11262"
 chapter: 118
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "42 U.S.C. § 11262"
-generated_at: "2026-03-29T23:39:46.763Z"
+generated_at: "2026-03-29T23:42:47.921Z"
 ---
 
 # § 11262. Dissemination

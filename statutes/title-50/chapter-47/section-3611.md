@@ -3,9 +3,9 @@ title: "Section 3611 - Cryptologic research grant program"
 usc_title: 50
 usc_section: "3611"
 chapter: 47
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "50 U.S.C. § 3611"
-generated_at: "2026-03-29T23:40:24.347Z"
+generated_at: "2026-03-29T23:43:03.596Z"
 ---
 
 # § 3611. Cryptologic research grant program

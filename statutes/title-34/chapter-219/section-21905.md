@@ -3,9 +3,9 @@ title: "Section 21905 - Voluntary participation"
 usc_title: 34
 usc_section: "21905"
 chapter: 219
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "34 U.S.C. § 21905"
-generated_at: "2026-03-29T23:39:10.312Z"
+generated_at: "2026-03-29T23:42:25.820Z"
 ---
 
 # § 21905. Voluntary participation

@@ -3,9 +3,9 @@ title: "Section 117a - Omitted"
 usc_title: 2
 usc_section: "117a"
 chapter: 4
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "2 U.S.C. § 117a"
-generated_at: "2026-03-29T23:37:39.877Z"
+generated_at: "2026-03-29T23:41:11.218Z"
 ---
 
 # § 117a. Omitted

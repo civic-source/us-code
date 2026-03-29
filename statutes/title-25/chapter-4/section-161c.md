@@ -3,9 +3,9 @@ title: "Section 161c - Surplus above requirements of fund; transfer to surplus f
 usc_title: 25
 usc_section: "161c"
 chapter: 4
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "25 U.S.C. § 161c"
-generated_at: "2026-03-29T23:38:49.360Z"
+generated_at: "2026-03-29T23:42:03.890Z"
 ---
 
 # § 161c. Surplus above requirements of fund; transfer to surplus fund of Treasury; retransfer

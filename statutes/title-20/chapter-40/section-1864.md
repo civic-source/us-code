@@ -3,9 +3,9 @@ title: "Section 1864 - Repealed. Pub. L. 95–561, title III, § 301(b)(1)(A) �
 usc_title: 20
 usc_section: "1864"
 chapter: 40
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "20 U.S.C. § 1864"
-generated_at: "2026-03-29T23:38:20.560Z"
+generated_at: "2026-03-29T23:41:51.830Z"
 ---
 
 # §§ 1861 to 1864. Repealed. Pub. L. 95–561, title III, § 301(b)(1)(A) –(D), Nov. 1, 1978 , 92 Stat. 2228

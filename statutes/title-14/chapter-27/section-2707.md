@@ -3,9 +3,9 @@ title: "Section 2707 - Protection of uniform"
 usc_title: 14
 usc_section: "2707"
 chapter: 27
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "14 U.S.C. § 2707"
-generated_at: "2026-03-29T23:38:00.933Z"
+generated_at: "2026-03-29T23:41:34.619Z"
 ---
 
 # § 2707. Protection of uniform

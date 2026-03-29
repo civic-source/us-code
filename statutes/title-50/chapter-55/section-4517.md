@@ -3,9 +3,9 @@ title: "Section 4517 - Strengthening domestic capability"
 usc_title: 50
 usc_section: "4517"
 chapter: 55
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "50 U.S.C. § 4517"
-generated_at: "2026-03-29T23:40:24.360Z"
+generated_at: "2026-03-29T23:43:03.610Z"
 ---
 
 # § 4517. Strengthening domestic capability

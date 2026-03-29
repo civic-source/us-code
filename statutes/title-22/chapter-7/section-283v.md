@@ -3,9 +3,9 @@ title: "Section 283v - Loans to the Caribbean Development Bank"
 usc_title: 22
 usc_section: "283v"
 chapter: 7
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "22 U.S.C. § 283v"
-generated_at: "2026-03-29T23:38:40.971Z"
+generated_at: "2026-03-29T23:42:07.277Z"
 ---
 
 # § 283v. Loans to the Caribbean Development Bank

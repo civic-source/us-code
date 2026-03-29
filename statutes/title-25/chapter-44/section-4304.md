@@ -3,9 +3,9 @@ title: "Section 4304 - Native American trade and export promotion"
 usc_title: 25
 usc_section: "4304"
 chapter: 44
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "25 U.S.C. § 4304"
-generated_at: "2026-03-29T23:38:49.414Z"
+generated_at: "2026-03-29T23:42:03.946Z"
 ---
 
 # § 4304. Native American trade and export promotion

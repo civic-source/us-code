@@ -3,9 +3,9 @@ title: "Section 42301 - Emergency contingency plans"
 usc_title: 49
 usc_section: "42301"
 chapter: 423
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "49 U.S.C. § 42301"
-generated_at: "2026-03-29T23:40:03.515Z"
+generated_at: "2026-03-29T23:42:54.943Z"
 ---
 
 # § 42301. Emergency contingency plans

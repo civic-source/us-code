@@ -3,9 +3,9 @@ title: "Section 3223 - International undertakings"
 usc_title: 22
 usc_section: "3223"
 chapter: 47
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "22 U.S.C. § 3223"
-generated_at: "2026-03-29T23:38:41.035Z"
+generated_at: "2026-03-29T23:42:07.345Z"
 ---
 
 # § 3223. International undertakings

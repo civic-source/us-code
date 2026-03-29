@@ -3,9 +3,9 @@ title: "Section 2009b - Payment to Trust Fund; Board requests binding on Secreta
 usc_title: 20
 usc_section: "2009b"
 chapter: 42
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "20 U.S.C. § 2009b"
-generated_at: "2026-03-29T23:38:20.561Z"
+generated_at: "2026-03-29T23:41:51.830Z"
 ---
 
 # § 2009b. Payment to Trust Fund; Board requests binding on Secretary

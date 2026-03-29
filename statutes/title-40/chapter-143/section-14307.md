@@ -3,9 +3,9 @@ title: "Section 14307 - Meetings"
 usc_title: 40
 usc_section: "14307"
 chapter: 143
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "40 U.S.C. § 14307"
-generated_at: "2026-03-29T23:39:15.092Z"
+generated_at: "2026-03-29T23:42:29.906Z"
 ---
 
 # § 14307. Meetings

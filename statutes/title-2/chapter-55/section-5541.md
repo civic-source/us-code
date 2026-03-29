@@ -3,9 +3,9 @@ title: "Section 5541 - Fees for internal delivery in House of Representatives of
 usc_title: 2
 usc_section: "5541"
 chapter: 55
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "2 U.S.C. § 5541"
-generated_at: "2026-03-29T23:37:39.924Z"
+generated_at: "2026-03-29T23:41:11.259Z"
 ---
 
 # § 5541. Fees for internal delivery in House of Representatives of nonpostage mail from outside sources

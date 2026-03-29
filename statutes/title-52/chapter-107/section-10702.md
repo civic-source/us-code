@@ -3,9 +3,9 @@ title: "Section 10702 - “State” defined"
 usc_title: 52
 usc_section: "10702"
 chapter: 107
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "52 U.S.C. § 10702"
-generated_at: "2026-03-29T23:40:26.412Z"
+generated_at: "2026-03-29T23:43:07.317Z"
 ---
 
 # § 10702. “State” defined

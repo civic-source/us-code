@@ -3,9 +3,9 @@ title: "Section 410qqq - Coltsville National Historical Park"
 usc_title: 16
 usc_section: "410qqq"
 chapter: 1
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "16 U.S.C. § 410qqq"
-generated_at: "2026-03-29T23:38:34.059Z"
+generated_at: "2026-03-29T23:42:00.188Z"
 ---
 
 # § 410qqq. Coltsville National Historical Park

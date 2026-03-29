@@ -3,9 +3,9 @@ title: "Section 2492 - Tariff treatment of products of uncooperative major drug 
 usc_title: 19
 usc_section: "2492"
 chapter: 12
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "19 U.S.C. § 2492"
-generated_at: "2026-03-29T23:38:18.078Z"
+generated_at: "2026-03-29T23:41:48.909Z"
 ---
 
 # § 2492. Tariff treatment of products of uncooperative major drug producing or drug-transit countries

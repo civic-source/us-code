@@ -3,9 +3,9 @@ title: "Section 153505 - Powers"
 usc_title: 36
 usc_section: "153505"
 chapter: 1535
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "36 U.S.C. § 153505"
-generated_at: "2026-03-29T23:39:14.676Z"
+generated_at: "2026-03-29T23:42:29.167Z"
 ---
 
 # § 153505. Powers

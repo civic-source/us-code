@@ -3,9 +3,9 @@ title: "Section 231 - Budgeting for construction of naval vessels: annual plan a
 usc_title: 10
 usc_section: "231"
 chapter: 9
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "10 U.S.C. § 231"
-generated_at: "2026-03-29T23:37:57.081Z"
+generated_at: "2026-03-29T23:41:20.427Z"
 ---
 
 # § 231. Budgeting for construction of naval vessels: annual plan and certification

@@ -3,9 +3,9 @@ title: "Section 2872b - Treatment of breach of contract"
 usc_title: 10
 usc_section: "2872b"
 chapter: 169
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "10 U.S.C. § 2872b"
-generated_at: "2026-03-29T23:37:57.181Z"
+generated_at: "2026-03-29T23:41:20.518Z"
 ---
 
 # § 2872b. Treatment of breach of contract

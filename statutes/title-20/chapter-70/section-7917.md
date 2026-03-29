@@ -3,9 +3,9 @@ title: "Section 7917 - Transfer of school disciplinary records"
 usc_title: 20
 usc_section: "7917"
 chapter: 70
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "20 U.S.C. § 7917"
-generated_at: "2026-03-29T23:38:20.608Z"
+generated_at: "2026-03-29T23:41:51.876Z"
 ---
 
 # § 7917. Transfer of school disciplinary records

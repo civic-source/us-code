@@ -3,9 +3,9 @@ title: "Section 2008c - Rural Business-Cooperative Service programs technical as
 usc_title: 7
 usc_section: "2008c"
 chapter: 50
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "7 U.S.C. § 2008c"
-generated_at: "2026-03-29T23:37:50.853Z"
+generated_at: "2026-03-29T23:41:30.501Z"
 ---
 
 # § 2008c. Rural Business-Cooperative Service programs technical assistance and training

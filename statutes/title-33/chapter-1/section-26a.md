@@ -3,9 +3,9 @@ title: "Section 26a - Additional portion of Calumet River, old channel, abandone
 usc_title: 33
 usc_section: "26a"
 chapter: 1
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "33 U.S.C. § 26a"
-generated_at: "2026-03-29T23:39:11.893Z"
+generated_at: "2026-03-29T23:42:26.746Z"
 ---
 
 # § 26a. Additional portion of Calumet River, old channel, abandoned as navigable water

@@ -3,9 +3,9 @@ title: "Section 292k - Participation by Federal credit unions in Federal, State,
 usc_title: 42
 usc_section: "292k"
 chapter: 6
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "42 U.S.C. § 292k"
-generated_at: "2026-03-29T23:39:46.229Z"
+generated_at: "2026-03-29T23:42:47.350Z"
 ---
 
 # § 292k. Participation by Federal credit unions in Federal, State, and private student loan insurance programs

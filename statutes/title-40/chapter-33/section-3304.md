@@ -3,9 +3,9 @@ title: "Section 3304 - Acquisition of buildings and sites"
 usc_title: 40
 usc_section: "3304"
 chapter: 33
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "40 U.S.C. § 3304"
-generated_at: "2026-03-29T23:39:15.085Z"
+generated_at: "2026-03-29T23:42:29.899Z"
 ---
 
 # § 3304. Acquisition of buildings and sites

@@ -3,9 +3,9 @@ title: "Section 2112 - Barriers to and other distortions of trade"
 usc_title: 19
 usc_section: "2112"
 chapter: 12
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "19 U.S.C. § 2112"
-generated_at: "2026-03-29T23:38:18.066Z"
+generated_at: "2026-03-29T23:41:48.897Z"
 ---
 
 # § 2112. Barriers to and other distortions of trade

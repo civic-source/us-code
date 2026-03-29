@@ -3,9 +3,9 @@ title: "Section 7709 - Congressional and public notification"
 usc_title: 22
 usc_section: "7709"
 chapter: 84
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "22 U.S.C. § 7709"
-generated_at: "2026-03-29T23:38:41.088Z"
+generated_at: "2026-03-29T23:42:07.396Z"
 ---
 
 # § 7709. Congressional and public notification

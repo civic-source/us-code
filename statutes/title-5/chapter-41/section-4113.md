@@ -3,9 +3,9 @@ title: "Section 4113 - Repealed. Pub. L. 104–66, title II, § 2181(c)(1) , Dec
 usc_title: 5
 usc_section: "4113"
 chapter: 41
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "5 U.S.C. § 4113"
-generated_at: "2026-03-29T23:37:44.415Z"
+generated_at: "2026-03-29T23:40:59.037Z"
 ---
 
 # [§ 4113. Repealed. Pub. L. 104–66, title II, § 2181(c)(1) , Dec. 21, 1995 , 109 Stat. 732 ]

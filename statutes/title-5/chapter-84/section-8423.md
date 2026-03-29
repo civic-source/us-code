@@ -3,9 +3,9 @@ title: "Section 8423 - Government contributions"
 usc_title: 5
 usc_section: "8423"
 chapter: 84
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "5 U.S.C. § 8423"
-generated_at: "2026-03-29T23:37:44.446Z"
+generated_at: "2026-03-29T23:40:59.071Z"
 ---
 
 # § 8423. Government contributions

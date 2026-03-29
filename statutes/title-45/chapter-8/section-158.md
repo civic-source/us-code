@@ -3,9 +3,9 @@ title: "Section 158 - Agreement to arbitrate; form and contents; signatures and 
 usc_title: 45
 usc_section: "158"
 chapter: 8
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "45 U.S.C. § 158"
-generated_at: "2026-03-29T23:39:21.919Z"
+generated_at: "2026-03-29T23:42:37.529Z"
 ---
 
 # § 158. Agreement to arbitrate; form and contents; signatures and acknowledgment; revocation

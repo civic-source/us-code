@@ -3,9 +3,9 @@ title: "Section 3772 - Rights in technical data: provisions required in contract
 usc_title: 10
 usc_section: "3772"
 chapter: 275
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "10 U.S.C. § 3772"
-generated_at: "2026-03-29T23:37:57.193Z"
+generated_at: "2026-03-29T23:41:20.528Z"
 ---
 
 # § 3772. Rights in technical data: provisions required in contracts

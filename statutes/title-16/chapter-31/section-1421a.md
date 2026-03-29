@@ -3,9 +3,9 @@ title: "Section 1421a - Determination; data collection and dissemination"
 usc_title: 16
 usc_section: "1421a"
 chapter: 31
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "16 U.S.C. § 1421a"
-generated_at: "2026-03-29T23:38:34.188Z"
+generated_at: "2026-03-29T23:42:00.319Z"
 ---
 
 # § 1421a. Determination; data collection and dissemination

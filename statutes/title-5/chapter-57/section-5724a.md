@@ -3,9 +3,9 @@ title: "Section 5724a - Relocation expenses of employees transferred or reemploy
 usc_title: 5
 usc_section: "5724a"
 chapter: 57
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "5 U.S.C. § 5724a"
-generated_at: "2026-03-29T23:37:44.425Z"
+generated_at: "2026-03-29T23:40:59.049Z"
 ---
 
 # § 5724a. Relocation expenses of employees transferred or reemployed

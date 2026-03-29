@@ -3,9 +3,9 @@ title: "Section 6165 - Bonds where time to pay tax or deficiency has been extend
 usc_title: 26
 usc_section: "6165"
 chapter: 62
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "26 U.S.C. § 6165"
-generated_at: "2026-03-29T23:39:07.368Z"
+generated_at: "2026-03-29T23:42:22.033Z"
 ---
 
 # § 6165. Bonds where time to pay tax or deficiency has been extended

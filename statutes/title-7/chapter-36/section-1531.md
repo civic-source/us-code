@@ -3,9 +3,9 @@ title: "Section 1531 - Supplemental agricultural disaster assistance"
 usc_title: 7
 usc_section: "1531"
 chapter: 36
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "7 U.S.C. § 1531"
-generated_at: "2026-03-29T23:37:50.830Z"
+generated_at: "2026-03-29T23:41:30.477Z"
 ---
 
 # § 1531. Supplemental agricultural disaster assistance

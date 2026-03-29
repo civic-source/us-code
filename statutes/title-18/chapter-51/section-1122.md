@@ -3,9 +3,9 @@ title: "Section 1122 - Protection against the human immunodeficiency virus"
 usc_title: 18
 usc_section: "1122"
 chapter: 51
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "18 U.S.C. § 1122"
-generated_at: "2026-03-29T23:38:23.675Z"
+generated_at: "2026-03-29T23:41:53.910Z"
 ---
 
 # § 1122. Protection against the human immunodeficiency virus

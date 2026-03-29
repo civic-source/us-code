@@ -3,9 +3,9 @@ title: "Section 844 - Repealed. June 17, 1957 , Pub. L. 85–56, title XXII, § 
 usc_title: 43
 usc_section: "844"
 chapter: 19
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "43 U.S.C. § 844"
-generated_at: "2026-03-29T23:39:19.334Z"
+generated_at: "2026-03-29T23:42:34.593Z"
 ---
 
 # §§ 842 to 844. Repealed. June 17, 1957 , Pub. L. 85–56, title XXII, § 2202(1) , 71 Stat. 162

@@ -3,9 +3,9 @@ title: "Section 3101 - Purposes of agricultural research, extension, and educati
 usc_title: 7
 usc_section: "3101"
 chapter: 64
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "7 U.S.C. § 3101"
-generated_at: "2026-03-29T23:37:50.882Z"
+generated_at: "2026-03-29T23:41:30.530Z"
 ---
 
 # § 3101. Purposes of agricultural research, extension, and education

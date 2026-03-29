@@ -3,9 +3,9 @@ title: "Section 179l - National Film Registry of Library of Congress"
 usc_title: 2
 usc_section: "179l"
 chapter: 5
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "2 U.S.C. § 179l"
-generated_at: "2026-03-29T23:37:39.881Z"
+generated_at: "2026-03-29T23:41:11.221Z"
 ---
 
 # § 179l. National Film Registry of Library of Congress

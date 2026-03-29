@@ -3,9 +3,9 @@ title: "Section 15109 - Administration"
 usc_title: 46
 usc_section: "15109"
 chapter: 151
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "46 U.S.C. § 15109"
-generated_at: "2026-03-29T23:40:04.302Z"
+generated_at: "2026-03-29T23:42:56.284Z"
 ---
 
 # § 15109. Administration

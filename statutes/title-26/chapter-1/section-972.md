@@ -3,9 +3,9 @@ title: "Section 972 - Repealed. Pub. L. 94–455, title XIX, § 1901(a)(120) , O
 usc_title: 26
 usc_section: "972"
 chapter: 1
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "26 U.S.C. § 972"
-generated_at: "2026-03-29T23:39:07.292Z"
+generated_at: "2026-03-29T23:42:21.955Z"
 ---
 
 # [§ 972. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(120) , Oct. 4, 1976 , 90 Stat. 1784 ]

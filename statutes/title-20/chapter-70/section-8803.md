@@ -3,9 +3,9 @@ title: "Section 8803 - Repealed. Pub. L. 107–110, title X, § 1011(5)(C) , Jan
 usc_title: 20
 usc_section: "8803"
 chapter: 70
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "20 U.S.C. § 8803"
-generated_at: "2026-03-29T23:38:20.610Z"
+generated_at: "2026-03-29T23:41:51.878Z"
 ---
 
 # §§ 8801 to 8803. Repealed. Pub. L. 107–110, title X, § 1011(5)(C) , Jan. 8, 2002 , 115 Stat. 1986

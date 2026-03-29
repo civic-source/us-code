@@ -3,9 +3,9 @@ title: "Section 14502 - Special selection boards: correction of errors"
 usc_title: 10
 usc_section: "14502"
 chapter: 1407
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "10 U.S.C. § 14502"
-generated_at: "2026-03-29T23:37:57.240Z"
+generated_at: "2026-03-29T23:41:20.575Z"
 ---
 
 # § 14502. Special selection boards: correction of errors

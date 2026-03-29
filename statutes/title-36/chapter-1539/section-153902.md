@@ -3,9 +3,9 @@ title: "Section 153902 - Purposes"
 usc_title: 36
 usc_section: "153902"
 chapter: 1539
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "36 U.S.C. § 153902"
-generated_at: "2026-03-29T23:39:14.677Z"
+generated_at: "2026-03-29T23:42:29.168Z"
 ---
 
 # § 153902. Purposes

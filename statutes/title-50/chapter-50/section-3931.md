@@ -3,9 +3,9 @@ title: "Section 3931 - Protection of servicemembers against default judgments"
 usc_title: 50
 usc_section: "3931"
 chapter: 50
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "50 U.S.C. § 3931"
-generated_at: "2026-03-29T23:40:24.351Z"
+generated_at: "2026-03-29T23:43:03.601Z"
 ---
 
 # § 3931. Protection of servicemembers against default judgments

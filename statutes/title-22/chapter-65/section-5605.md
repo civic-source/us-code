@@ -3,9 +3,9 @@ title: "Section 5605 - Sanctions against use of chemical or biological weapons"
 usc_title: 22
 usc_section: "5605"
 chapter: 65
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "22 U.S.C. § 5605"
-generated_at: "2026-03-29T23:38:41.061Z"
+generated_at: "2026-03-29T23:42:07.371Z"
 ---
 
 # § 5605. Sanctions against use of chemical or biological weapons

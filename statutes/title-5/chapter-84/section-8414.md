@@ -3,9 +3,9 @@ title: "Section 8414 - Early retirement"
 usc_title: 5
 usc_section: "8414"
 chapter: 84
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "5 U.S.C. § 8414"
-generated_at: "2026-03-29T23:37:44.444Z"
+generated_at: "2026-03-29T23:40:59.069Z"
 ---
 
 # § 8414. Early retirement
@@ -33,7 +33,7 @@ generated_at: "2026-03-29T23:37:44.444Z"
         - **(V)** skills, knowledge, or other factors related to a position; or
         - **(VI)** any appropriate combination of such factors. 2 2 So in original. Probably should be a semicolon.
   - **(2)** An employee under paragraph (1) who is separated as described in subparagraph (A) of such paragraph is not entitled to an annuity under this subsection if the employee has declined a reasonable offer of another position in the employee’s agency for which the employee is qualified, and the offered position is not lower than 2 grades (or pay levels) below the employee’s grade (or pay level) and is within the employee’s commuting area.
-  - **(3)** Paragraph (1) shall not apply to an employee entitled to an annuity under subsection (d) or (e) of section 8412.
+  - **(3)** Paragraph (1) shall not apply to an employee entitled to an annuity under subsection (d)(1) or (e) of section 8412.
 - **(c)**
   - **(1)** An employee who was hired as a military reserve technician on or before February 10, 1996 (under the provisions of this title in effect before that date), and who is separated from technician service, after becoming 50 years of age and completing 25 years of service, by reason of being separated from the Selected Reserve of the employee’s reserve component or ceasing to hold the military grade specified by the Secretary concerned for the position held by the employee is entitled to an annuity.
   - **(2)** An employee who is initially hired as a military technician (dual status) after February 10, 1996 , and who is separated from the Selected Reserve or ceases to hold the military grade specified by the Secretary concerned for the position held by the technician—

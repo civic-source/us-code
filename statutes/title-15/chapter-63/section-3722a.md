@@ -3,9 +3,9 @@ title: "Section 3722a - Regional Technology and Innovation Hub Program"
 usc_title: 15
 usc_section: "3722a"
 chapter: 63
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "15 U.S.C. § 3722a"
-generated_at: "2026-03-29T23:38:07.032Z"
+generated_at: "2026-03-29T23:41:37.845Z"
 ---
 
 # § 3722a. Regional Technology and Innovation Hub Program

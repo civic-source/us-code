@@ -3,9 +3,9 @@ title: "Section 2039 - Annuities"
 usc_title: 26
 usc_section: "2039"
 chapter: 11
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "26 U.S.C. § 2039"
-generated_at: "2026-03-29T23:39:07.315Z"
+generated_at: "2026-03-29T23:42:21.978Z"
 ---
 
 # § 2039. Annuities

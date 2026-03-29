@@ -3,9 +3,9 @@ title: "Section 2303 - Prohibited practices"
 usc_title: 7
 usc_section: "2303"
 chapter: 56
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "7 U.S.C. § 2303"
-generated_at: "2026-03-29T23:37:50.877Z"
+generated_at: "2026-03-29T23:41:30.525Z"
 ---
 
 # § 2303. Prohibited practices

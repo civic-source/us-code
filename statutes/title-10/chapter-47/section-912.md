@@ -3,9 +3,9 @@ title: "Section 912 - Art. 112. Drunkenness and other incapacitation offenses"
 usc_title: 10
 usc_section: "912"
 chapter: 47
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "10 U.S.C. § 912"
-generated_at: "2026-03-29T23:37:57.109Z"
+generated_at: "2026-03-29T23:41:20.451Z"
 ---
 
 # § 912. Art. 112. Drunkenness and other incapacitation offenses

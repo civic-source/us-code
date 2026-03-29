@@ -3,9 +3,9 @@ title: "Section 231 - Standard barrel for apples; steel barrels"
 usc_title: 15
 usc_section: "231"
 chapter: 6
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "15 U.S.C. § 231"
-generated_at: "2026-03-29T23:38:06.917Z"
+generated_at: "2026-03-29T23:41:37.731Z"
 ---
 
 # § 231. Standard barrel for apples; steel barrels

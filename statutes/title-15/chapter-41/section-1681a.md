@@ -3,9 +3,9 @@ title: "Section 1681a - Definitions; rules of construction"
 usc_title: 15
 usc_section: "1681a"
 chapter: 41
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "15 U.S.C. § 1681a"
-generated_at: "2026-03-29T23:38:06.986Z"
+generated_at: "2026-03-29T23:41:37.798Z"
 ---
 
 # § 1681a. Definitions; rules of construction

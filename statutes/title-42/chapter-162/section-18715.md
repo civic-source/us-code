@@ -3,9 +3,9 @@ title: "Section 18715 - Transmission facility financing"
 usc_title: 42
 usc_section: "18715"
 chapter: 162
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "42 U.S.C. § 18715"
-generated_at: "2026-03-29T23:39:46.874Z"
+generated_at: "2026-03-29T23:42:48.036Z"
 ---
 
 # § 18715. Transmission facility financing

@@ -3,9 +3,9 @@ title: "Section 60132 - Availability of federally gathered unenhanced data"
 usc_title: 51
 usc_section: "60132"
 chapter: 601
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "51 U.S.C. § 60132"
-generated_at: "2026-03-29T23:40:44.239Z"
+generated_at: "2026-03-29T23:43:07.775Z"
 ---
 
 # § 60132. Availability of federally gathered unenhanced data

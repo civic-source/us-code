@@ -3,9 +3,9 @@ title: "Section 321 - Rights-of-way for pipe lines"
 usc_title: 25
 usc_section: "321"
 chapter: 8
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "25 U.S.C. § 321"
-generated_at: "2026-03-29T23:38:49.363Z"
+generated_at: "2026-03-29T23:42:03.893Z"
 ---
 
 # § 321. Rights-of-way for pipe lines

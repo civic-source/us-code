@@ -3,9 +3,9 @@ title: "Section 11297 - Authorization of appropriations"
 usc_title: 34
 usc_section: "11297"
 chapter: 111
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "34 U.S.C. § 11297"
-generated_at: "2026-03-29T23:39:10.289Z"
+generated_at: "2026-03-29T23:42:25.796Z"
 ---
 
 # § 11297. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 7a - State constitution or laws limiting mortgage interest, disc
 usc_title: 12
 usc_section: "7a"
 chapter: 13
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "12 U.S.C. § 7a"
-generated_at: "2026-03-29T23:38:12.567Z"
+generated_at: "2026-03-29T23:41:45.365Z"
 ---
 
 # § 1735f–7a. State constitution or laws limiting mortgage interest, discount points, and finance or other charges; exemption for obligations made after March 31, 1980

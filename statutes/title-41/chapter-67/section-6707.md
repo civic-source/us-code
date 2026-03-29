@@ -3,9 +3,9 @@ title: "Section 6707 - Enforcement and administration of chapter"
 usc_title: 41
 usc_section: "6707"
 chapter: 67
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "41 U.S.C. § 6707"
-generated_at: "2026-03-29T23:39:18.687Z"
+generated_at: "2026-03-29T23:42:33.947Z"
 ---
 
 # § 6707. Enforcement and administration of chapter

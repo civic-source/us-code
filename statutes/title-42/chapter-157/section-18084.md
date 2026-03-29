@@ -3,9 +3,9 @@ title: "Section 18084 - Premium tax credit and cost-sharing reduction payments d
 usc_title: 42
 usc_section: "18084"
 chapter: 157
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "42 U.S.C. § 18084"
-generated_at: "2026-03-29T23:39:46.866Z"
+generated_at: "2026-03-29T23:42:48.029Z"
 ---
 
 # § 18084. Premium tax credit and cost-sharing reduction payments disregarded for Federal and federally-assisted programs

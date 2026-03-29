@@ -3,9 +3,9 @@ title: "Section 5343 - Staff expenses for House Members attending organizational
 usc_title: 2
 usc_section: "5343"
 chapter: 53
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "2 U.S.C. § 5343"
-generated_at: "2026-03-29T23:37:39.923Z"
+generated_at: "2026-03-29T23:41:11.258Z"
 ---
 
 # § 5343. Staff expenses for House Members attending organizational caucus or conference

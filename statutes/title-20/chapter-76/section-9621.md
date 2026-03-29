@@ -3,9 +3,9 @@ title: "Section 9621 - National Assessment Governing Board"
 usc_title: 20
 usc_section: "9621"
 chapter: 76
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "20 U.S.C. § 9621"
-generated_at: "2026-03-29T23:38:20.616Z"
+generated_at: "2026-03-29T23:41:51.884Z"
 ---
 
 # § 9621. National Assessment Governing Board

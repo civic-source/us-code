@@ -3,9 +3,9 @@ title: "Section 6577 - Involvement by other agencies and organizations"
 usc_title: 16
 usc_section: "6577"
 chapter: 84
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "16 U.S.C. § 6577"
-generated_at: "2026-03-29T23:38:34.252Z"
+generated_at: "2026-03-29T23:42:00.384Z"
 ---
 
 # § 6577. Involvement by other agencies and organizations

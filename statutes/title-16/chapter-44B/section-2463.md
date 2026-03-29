@@ -3,9 +3,9 @@ title: "Section 2463 - Prohibition of Antarctic mineral resource activities"
 usc_title: 16
 usc_section: "2463"
 chapter: 44
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "16 U.S.C. § 2463"
-generated_at: "2026-03-29T23:38:34.214Z"
+generated_at: "2026-03-29T23:42:00.345Z"
 ---
 
 # § 2463. Prohibition of Antarctic mineral resource activities

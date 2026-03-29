@@ -3,9 +3,9 @@ title: "Section 8 - Confidentiality"
 usc_title: 16
 usc_section: "8"
 chapter: 1
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "16 U.S.C. § 8"
-generated_at: "2026-03-29T23:38:34.110Z"
+generated_at: "2026-03-29T23:42:00.239Z"
 ---
 
 # § 470aaa–8. Confidentiality

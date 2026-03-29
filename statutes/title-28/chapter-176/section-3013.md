@@ -3,9 +3,9 @@ title: "Section 3013 - Modification or protective order; supervision of enforcem
 usc_title: 28
 usc_section: "3013"
 chapter: 176
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "28 U.S.C. § 3013"
-generated_at: "2026-03-29T23:38:59.973Z"
+generated_at: "2026-03-29T23:42:10.277Z"
 ---
 
 # § 3013. Modification or protective order; supervision of enforcement

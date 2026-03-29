@@ -3,9 +3,9 @@ title: "Section 60501 - Goal"
 usc_title: 51
 usc_section: "60501"
 chapter: 605
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "51 U.S.C. § 60501"
-generated_at: "2026-03-29T23:40:44.240Z"
+generated_at: "2026-03-29T23:43:07.775Z"
 ---
 
 # § 60501. Goal

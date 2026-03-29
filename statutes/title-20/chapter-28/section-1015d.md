@@ -3,9 +3,9 @@ title: "Section 1015d - In-State tuition rates for members of the armed forces o
 usc_title: 20
 usc_section: "1015d"
 chapter: 28
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "20 U.S.C. § 1015d"
-generated_at: "2026-03-29T23:38:20.490Z"
+generated_at: "2026-03-29T23:41:51.762Z"
 ---
 
 # § 1015d. In-State tuition rates for members of the armed forces on active duty, spouses, and dependent children

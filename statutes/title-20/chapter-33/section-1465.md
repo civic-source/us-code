@@ -3,9 +3,9 @@ title: "Section 1465 - Interim alternative educational settings, behavioral supp
 usc_title: 20
 usc_section: "1465"
 chapter: 33
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "20 U.S.C. § 1465"
-generated_at: "2026-03-29T23:38:20.558Z"
+generated_at: "2026-03-29T23:41:51.828Z"
 ---
 
 # § 1465. Interim alternative educational settings, behavioral supports, and systemic school interventions

@@ -3,9 +3,9 @@ title: "Section 5189d - Case management services"
 usc_title: 42
 usc_section: "5189d"
 chapter: 68
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "42 U.S.C. § 5189d"
-generated_at: "2026-03-29T23:39:46.615Z"
+generated_at: "2026-03-29T23:42:47.761Z"
 ---
 
 # § 5189d. Case management services

@@ -3,9 +3,9 @@ title: "Section 114 - Removal, disturbance, destruction, or molestation of ruins
 usc_title: 16
 usc_section: "114"
 chapter: 1
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "16 U.S.C. § 114"
-generated_at: "2026-03-29T23:38:34.025Z"
+generated_at: "2026-03-29T23:42:00.153Z"
 ---
 
 # § 114. Removal, disturbance, destruction, or molestation of ruins

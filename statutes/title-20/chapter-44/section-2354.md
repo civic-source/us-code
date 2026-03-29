@@ -3,9 +3,9 @@ title: "Section 2354 - Local application for career and technical education prog
 usc_title: 20
 usc_section: "2354"
 chapter: 44
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "20 U.S.C. § 2354"
-generated_at: "2026-03-29T23:38:20.565Z"
+generated_at: "2026-03-29T23:41:51.835Z"
 ---
 
 # § 2354. Local application for career and technical education programs

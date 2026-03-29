@@ -3,9 +3,9 @@ title: "Section 13a - Loan guarantees for Indian housing"
 usc_title: 12
 usc_section: "13a"
 chapter: 13
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "12 U.S.C. § 13a"
-generated_at: "2026-03-29T23:38:12.561Z"
+generated_at: "2026-03-29T23:41:45.359Z"
 ---
 
 # § 1715z–13a. Loan guarantees for Indian housing

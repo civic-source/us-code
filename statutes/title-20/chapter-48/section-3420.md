@@ -3,9 +3,9 @@ title: "Section 3420 - Office of English Language Acquisition, Language Enhancem
 usc_title: 20
 usc_section: "3420"
 chapter: 48
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "20 U.S.C. § 3420"
-generated_at: "2026-03-29T23:38:20.568Z"
+generated_at: "2026-03-29T23:41:51.837Z"
 ---
 
 # § 3420. Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students

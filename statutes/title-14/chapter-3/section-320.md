@@ -3,9 +3,9 @@ title: "Section 320 - Coast Guard Junior Reserve Officers’ Training Corps"
 usc_title: 14
 usc_section: "320"
 chapter: 3
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "14 U.S.C. § 320"
-generated_at: "2026-03-29T23:38:00.925Z"
+generated_at: "2026-03-29T23:41:34.611Z"
 ---
 
 # § 320. Coast Guard Junior Reserve Officers’ Training Corps

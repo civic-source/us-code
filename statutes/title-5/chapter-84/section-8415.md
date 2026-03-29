@@ -3,9 +3,9 @@ title: "Section 8415 - Computation of basic annuity"
 usc_title: 5
 usc_section: "8415"
 chapter: 84
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "5 U.S.C. § 8415"
-generated_at: "2026-03-29T23:37:44.444Z"
+generated_at: "2026-03-29T23:40:59.069Z"
 ---
 
 # § 8415. Computation of basic annuity
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T23:37:44.444Z"
 - **(b)** The annuity of a Member, or former Member with title to a Member annuity, retiring under this subchapter is computed under subsection (a), except that if the individual has had at least 5 years of service as a Member or Congressional employee, or any combination thereof, so much of the annuity as is computed with respect to either such type of service (or a combination thereof), not exceeding a total of 20 years, shall be computed by multiplying 1 7 ⁄ 10 percent of the individual’s average pay by the years of such service.
 - **(c)** The annuity of a Congressional employee, or former Congressional employee, retiring under this subchapter is computed under subsection (a), except that if the individual has had at least 5 years of service as a Congressional employee or Member, or any combination thereof, so much of the annuity as is computed with respect to either such type of service (or a combination thereof), not exceeding a total of 20 years, shall be computed by multiplying 1 7 ⁄ 10 percent of the individual’s average pay by the years of such service.
 - **(d)** Notwithstanding any other provision of law, the annuity of an individual described in subsection (b) or (c) who is a revised annuity employee or a further revised annuity employee shall be computed in the same manner as in the case of an individual described in subsection (a).
-- **(e)** The annuity of an employee retiring under subsection (d) or (e) of section 8412 or under subsection (a), (b), or (c) of section 8425 is—
+- **(e)** The annuity of an employee retiring under subsection (d)(1) or (e) of section 8412 or under subsection (a), (b), or (c) of section 8425 is—
   - **(1)** 1 7 ⁄ 10 percent of that individual’s average pay multiplied by so much of such individual’s total service as does not exceed 20 years; plus
   - **(2)** 1 percent of that individual’s average pay multiplied by so much of such individual’s total service as exceeds 20 years.
 - **(f)** The annuity of an air traffic controller or former air traffic controller retiring under section 8412(a) is computed under subsection (a), except that if the individual has at least 5 years of service in any combination as—
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T23:37:44.444Z"
 - **(h)**
   - **(1)** The annuity of an employee or Member retiring under section 8412(g) or 8413(b) is computed in accordance with applicable provisions of this section, except that the annuity shall be reduced by five-twelfths of 1 percent for each full month by which the commencement date of the annuity precedes the sixty-second anniversary of the birth of the employee or Member.
   - **(2)**
-    - **(A)** Paragraph (1) does not apply in the case of an employee or Member retiring under section 8412(g) or 8413(b) if the employee or Member would satisfy the age and service requirements for title to an annuity under section 8412(a), (b), (d)(2), (e)(2), or (f)(2), determined as if the employee or Member had, as of the date of separation, attained the age specified in subparagraph (B).
+    - **(A)** Paragraph (1) does not apply in the case of an employee or Member retiring under section 8412(g) or 8413(b) if the employee or Member would satisfy the age and service requirements for title to an annuity under section 8412(a), (b), (d)(1)(B), (e)(2), or (f)(2), determined as if the employee or Member had, as of the date of separation, attained the age specified in subparagraph (B).
     - **(B)** A determination under subparagraph (A) shall be based on how old the employee or Member will be as of the date on which the annuity under section 8412(g) or 8413(b) is to commence.
 - **(i)**
   - **(1)** In applying subsection (a) with respect to an employee under paragraph (2), the percentage applied under such subsection shall be 1.1 percent, rather than 1 percent.

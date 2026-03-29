@@ -3,9 +3,9 @@ title: "Section 4484 - Cross references"
 usc_title: 26
 usc_section: "4484"
 chapter: 36
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "26 U.S.C. § 4484"
-generated_at: "2026-03-29T23:39:07.334Z"
+generated_at: "2026-03-29T23:42:21.998Z"
 ---
 
 # § 4484. Cross references

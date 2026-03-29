@@ -3,9 +3,9 @@ title: "Section 452 - Pilot charts"
 usc_title: 10
 usc_section: "452"
 chapter: 22
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "10 U.S.C. § 452"
-generated_at: "2026-03-29T23:37:57.092Z"
+generated_at: "2026-03-29T23:41:20.434Z"
 ---
 
 # § 452. Pilot charts

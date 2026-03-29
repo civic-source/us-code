@@ -3,9 +3,9 @@ title: "Section 20705 - Jurisdiction to compel production of records or papers"
 usc_title: 52
 usc_section: "20705"
 chapter: 207
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "52 U.S.C. § 20705"
-generated_at: "2026-03-29T23:40:26.414Z"
+generated_at: "2026-03-29T23:43:07.319Z"
 ---
 
 # § 20705. Jurisdiction to compel production of records or papers

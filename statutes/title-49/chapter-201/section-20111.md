@@ -3,9 +3,9 @@ title: "Section 20111 - Enforcement by the Secretary of Transportation"
 usc_title: 49
 usc_section: "20111"
 chapter: 201
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "49 U.S.C. § 20111"
-generated_at: "2026-03-29T23:40:03.479Z"
+generated_at: "2026-03-29T23:42:54.902Z"
 ---
 
 # § 20111. Enforcement by the Secretary of Transportation

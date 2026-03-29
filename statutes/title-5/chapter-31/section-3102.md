@@ -3,9 +3,9 @@ title: "Section 3102 - Employment of personal assistants for handicapped employe
 usc_title: 5
 usc_section: "3102"
 chapter: 31
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "5 U.S.C. § 3102"
-generated_at: "2026-03-29T23:37:44.409Z"
+generated_at: "2026-03-29T23:40:59.031Z"
 ---
 
 # § 3102. Employment of personal assistants for handicapped employees, including blind and deaf employees

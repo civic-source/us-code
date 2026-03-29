@@ -3,9 +3,9 @@ title: "Section 10171 - Correctional options grants"
 usc_title: 34
 usc_section: "10171"
 chapter: 101
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "34 U.S.C. § 10171"
-generated_at: "2026-03-29T23:39:10.272Z"
+generated_at: "2026-03-29T23:42:25.778Z"
 ---
 
 # § 10171. Correctional options grants

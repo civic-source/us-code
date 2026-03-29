@@ -3,9 +3,9 @@ title: "Section 121 - Omitted"
 usc_title: 47
 usc_section: "121"
 chapter: 4
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "47 U.S.C. § 121"
-generated_at: "2026-03-29T23:39:50.193Z"
+generated_at: "2026-03-29T23:42:52.689Z"
 ---
 
 # §§ 120, 121. Omitted

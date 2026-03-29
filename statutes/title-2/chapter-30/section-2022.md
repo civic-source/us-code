@@ -3,9 +3,9 @@ title: "Section 2022 - Acquisition of buildings and facilities for use in emerge
 usc_title: 2
 usc_section: "2022"
 chapter: 30
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "2 U.S.C. § 2022"
-generated_at: "2026-03-29T23:37:39.913Z"
+generated_at: "2026-03-29T23:41:11.249Z"
 ---
 
 # § 2022. Acquisition of buildings and facilities for use in emergency situation

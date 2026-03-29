@@ -3,9 +3,9 @@ title: "Section 8932 - Performance standard for the detection of highly fluorina
 usc_title: 15
 usc_section: "8932"
 chapter: 115
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "15 U.S.C. § 8932"
-generated_at: "2026-03-29T23:38:07.072Z"
+generated_at: "2026-03-29T23:41:37.883Z"
 ---
 
 # § 8932. Performance standard for the detection of highly fluorinated compounds

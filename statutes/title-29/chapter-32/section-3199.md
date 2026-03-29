@@ -3,9 +3,9 @@ title: "Section 3199 - Counseling and job placement"
 usc_title: 29
 usc_section: "3199"
 chapter: 32
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "29 U.S.C. § 3199"
-generated_at: "2026-03-29T23:38:53.239Z"
+generated_at: "2026-03-29T23:42:12.027Z"
 ---
 
 # § 3199. Counseling and job placement

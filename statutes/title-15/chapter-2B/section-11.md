@@ -3,9 +3,9 @@ title: "Section 11 - Credit risk retention"
 usc_title: 15
 usc_section: "11"
 chapter: 2
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "15 U.S.C. § 11"
-generated_at: "2026-03-29T23:38:06.894Z"
+generated_at: "2026-03-29T23:41:37.708Z"
 ---
 
 # § 78o–11. Credit risk retention

@@ -3,9 +3,9 @@ title: "Section 4001 - Congressional findings and declaration of purpose"
 usc_title: 42
 usc_section: "4001"
 chapter: 50
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "42 U.S.C. § 4001"
-generated_at: "2026-03-29T23:39:46.587Z"
+generated_at: "2026-03-29T23:42:47.731Z"
 ---
 
 # § 4001. Congressional findings and declaration of purpose

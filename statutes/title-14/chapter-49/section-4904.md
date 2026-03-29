@@ -3,9 +3,9 @@ title: "Section 4904 - Authorized levels of military strength and training"
 usc_title: 14
 usc_section: "4904"
 chapter: 49
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "14 U.S.C. § 4904"
-generated_at: "2026-03-29T23:38:00.936Z"
+generated_at: "2026-03-29T23:41:34.622Z"
 ---
 
 # § 4904. Authorized levels of military strength and training

@@ -3,9 +3,9 @@ title: "Section 179E - Election to expense advanced mine safety equipment"
 usc_title: 26
 usc_section: "179E"
 chapter: 1
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "26 U.S.C. § 179E"
-generated_at: "2026-03-29T23:39:07.212Z"
+generated_at: "2026-03-29T23:42:21.869Z"
 ---
 
 # § 179E. Election to expense advanced mine safety equipment

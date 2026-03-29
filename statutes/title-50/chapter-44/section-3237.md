@@ -3,9 +3,9 @@ title: "Section 3237 - Annual reports on influence operations and campaigns in t
 usc_title: 50
 usc_section: "3237"
 chapter: 44
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "50 U.S.C. § 3237"
-generated_at: "2026-03-29T23:40:24.335Z"
+generated_at: "2026-03-29T23:43:03.584Z"
 ---
 
 # § 3237. Annual reports on influence operations and campaigns in the United States by the Chinese Communist Party

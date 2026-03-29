@@ -3,9 +3,9 @@ title: "Section 20503 - Grant program for notification and communications system
 usc_title: 34
 usc_section: "20503"
 chapter: 205
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "34 U.S.C. § 20503"
-generated_at: "2026-03-29T23:39:10.306Z"
+generated_at: "2026-03-29T23:42:25.813Z"
 ---
 
 # § 20503. Grant program for notification and communications systems along highways and major transportation routes for recovery of abducted children

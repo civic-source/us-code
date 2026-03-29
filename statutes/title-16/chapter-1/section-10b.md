@@ -3,9 +3,9 @@ title: "Section 10b - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "10b"
 chapter: 1
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "16 U.S.C. § 10b"
-generated_at: "2026-03-29T23:38:34.081Z"
+generated_at: "2026-03-29T23:42:00.209Z"
 ---
 
 # § 460l–10b. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

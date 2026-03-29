@@ -3,9 +3,9 @@ title: "Section 303 - Repealed. Aug. 9, 1955, ch. 656 , title III, § 307, 69 St
 usc_title: 50
 usc_section: "303"
 chapter: 14
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "50 U.S.C. § 303"
-generated_at: "2026-03-29T23:40:24.293Z"
+generated_at: "2026-03-29T23:43:03.542Z"
 ---
 
 # §§ 301 to 303. Repealed. Aug. 9, 1955, ch. 656 , title III, § 307, 69 Stat. 589

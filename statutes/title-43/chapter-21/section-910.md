@@ -3,9 +3,9 @@ title: "Section 910 - Right to extend public surveys over lands granted, and oth
 usc_title: 43
 usc_section: "910"
 chapter: 21
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "43 U.S.C. § 910"
-generated_at: "2026-03-29T23:39:19.336Z"
+generated_at: "2026-03-29T23:42:34.594Z"
 ---
 
 # § 910. Right to extend public surveys over lands granted, and other rights of United States, not affected

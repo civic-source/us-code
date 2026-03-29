@@ -3,9 +3,9 @@ title: "Section 773c - General responsibility"
 usc_title: 16
 usc_section: "773c"
 chapter: 10
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "16 U.S.C. § 773c"
-generated_at: "2026-03-29T23:38:34.147Z"
+generated_at: "2026-03-29T23:42:00.276Z"
 ---
 
 # § 773c. General responsibility

@@ -3,9 +3,9 @@ title: "Section 1804 - Reinstatement of joint operating arrangements previously 
 usc_title: 15
 usc_section: "1804"
 chapter: 43
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "15 U.S.C. § 1804"
-generated_at: "2026-03-29T23:38:06.998Z"
+generated_at: "2026-03-29T23:41:37.810Z"
 ---
 
 # § 1804. Reinstatement of joint operating arrangements previously adjudged unlawful under antitrust laws

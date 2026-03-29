@@ -3,9 +3,9 @@ title: "Section 13292 - Proposals"
 usc_title: 42
 usc_section: "13292"
 chapter: 134
-current_through: "PL 117-224"
+current_through: "PL 117-227"
 classification: "42 U.S.C. § 13292"
-generated_at: "2026-03-29T23:39:46.801Z"
+generated_at: "2026-03-29T23:42:47.960Z"
 ---
 
 # § 13292. Proposals
