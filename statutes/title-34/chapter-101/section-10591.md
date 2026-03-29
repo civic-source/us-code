@@ -3,9 +3,9 @@ title: "Section 10591 - Grants authorized"
 usc_title: 34
 usc_section: "10591"
 chapter: 101
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "34 U.S.C. § 10591"
-generated_at: "2026-03-29T21:06:34.288Z"
+generated_at: "2026-03-29T21:10:13.771Z"
 ---
 
 # § 10591. Grants authorized

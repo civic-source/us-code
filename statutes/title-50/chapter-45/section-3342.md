@@ -3,9 +3,9 @@ title: "Section 3342 - Security clearances for transition team members"
 usc_title: 50
 usc_section: "3342"
 chapter: 45
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "50 U.S.C. § 3342"
-generated_at: "2026-03-29T21:07:38.532Z"
+generated_at: "2026-03-29T21:11:35.841Z"
 ---
 
 # § 3342. Security clearances for transition team members

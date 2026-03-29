@@ -3,9 +3,9 @@ title: "Section 402b - Additions to park"
 usc_title: 16
 usc_section: "402b"
 chapter: 1
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "16 U.S.C. § 402b"
-generated_at: "2026-03-29T21:05:17.073Z"
+generated_at: "2026-03-29T21:09:22.146Z"
 ---
 
 # § 402b. Additions to park

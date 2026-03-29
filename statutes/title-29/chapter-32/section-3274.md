@@ -3,9 +3,9 @@ title: "Section 3274 - Rule of construction regarding postsecondary transition a
 usc_title: 29
 usc_section: "3274"
 chapter: 32
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "29 U.S.C. § 3274"
-generated_at: "2026-03-29T21:06:18.591Z"
+generated_at: "2026-03-29T21:09:49.376Z"
 ---
 
 # § 3274. Rule of construction regarding postsecondary transition and concurrent enrollment activities

@@ -3,9 +3,9 @@ title: "Section 135a - National library service for the blind and print disabled
 usc_title: 2
 usc_section: "135a"
 chapter: 5
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "2 U.S.C. § 135a"
-generated_at: "2026-03-29T21:03:47.885Z"
+generated_at: "2026-03-29T21:08:16.058Z"
 ---
 
 # § 135a. National library service for the blind and print disabled

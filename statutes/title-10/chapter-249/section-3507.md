@@ -3,9 +3,9 @@ title: "Section 3507 - Department of defense contracts: defense acquisitions spe
 usc_title: 10
 usc_section: "3507"
 chapter: 249
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "10 U.S.C. § 3507"
-generated_at: "2026-03-29T21:04:40.331Z"
+generated_at: "2026-03-29T21:08:44.219Z"
 ---
 
 # § 3507. Department of defense contracts: defense acquisitions specifically authorized by law

@@ -3,9 +3,9 @@ title: "Section 562 - Forest experiment station in California"
 usc_title: 16
 usc_section: "562"
 chapter: 3
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "16 U.S.C. § 562"
-generated_at: "2026-03-29T21:05:17.234Z"
+generated_at: "2026-03-29T21:09:22.319Z"
 ---
 
 # § 562. Forest experiment station in California

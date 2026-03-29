@@ -3,9 +3,9 @@ title: "Section 2147 - Oversight Board authority related to debt issuance"
 usc_title: 48
 usc_section: "2147"
 chapter: 20
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "48 U.S.C. § 2147"
-generated_at: "2026-03-29T21:07:34.424Z"
+generated_at: "2026-03-29T21:11:37.326Z"
 ---
 
 # § 2147. Oversight Board authority related to debt issuance

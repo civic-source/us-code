@@ -3,9 +3,9 @@ title: "Section 1980a - Reimbursement of owner for fee paid to navigate foreign 
 usc_title: 22
 usc_section: "1980a"
 chapter: 25
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "22 U.S.C. § 1980a"
-generated_at: "2026-03-29T21:06:04.972Z"
+generated_at: "2026-03-29T21:09:35.993Z"
 ---
 
 # § 1980a. Reimbursement of owner for fee paid to navigate foreign waters if fee inconsistent with international law

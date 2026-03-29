@@ -3,9 +3,9 @@ title: "Section 4101 - Congressional findings and declaration of purposes"
 usc_title: 15
 usc_section: "4101"
 chapter: 67
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "15 U.S.C. § 4101"
-generated_at: "2026-03-29T21:04:59.135Z"
+generated_at: "2026-03-29T21:08:59.654Z"
 ---
 
 # § 4101. Congressional findings and declaration of purposes

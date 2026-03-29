@@ -3,9 +3,9 @@ title: "Section 320 - Credentialing and typing"
 usc_title: 6
 usc_section: "320"
 chapter: 1
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "6 U.S.C. § 320"
-generated_at: "2026-03-29T21:04:46.813Z"
+generated_at: "2026-03-29T21:08:23.293Z"
 ---
 
 # § 320. Credentialing and typing

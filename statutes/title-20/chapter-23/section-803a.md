@@ -3,9 +3,9 @@ title: "Section 803a - Project grants and contracts"
 usc_title: 20
 usc_section: "803a"
 chapter: 23
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "20 U.S.C. § 803a"
-generated_at: "2026-03-29T21:05:50.499Z"
+generated_at: "2026-03-29T21:09:13.924Z"
 ---
 
 # § 803a. Project grants and contracts

@@ -3,9 +3,9 @@ title: "Section 3724 - Crowdsourcing and citizen science"
 usc_title: 15
 usc_section: "3724"
 chapter: 63
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "15 U.S.C. § 3724"
-generated_at: "2026-03-29T21:04:59.130Z"
+generated_at: "2026-03-29T21:08:59.650Z"
 ---
 
 # § 3724. Crowdsourcing and citizen science

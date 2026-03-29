@@ -3,9 +3,9 @@ title: "Section 1975 - Overseas travel"
 usc_title: 2
 usc_section: "1975"
 chapter: 29
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "2 U.S.C. § 1975"
-generated_at: "2026-03-29T21:03:47.959Z"
+generated_at: "2026-03-29T21:08:16.136Z"
 ---
 
 # § 1975. Overseas travel

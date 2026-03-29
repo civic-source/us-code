@@ -3,9 +3,9 @@ title: "Section 203 - District of Columbia Code; preparation and publication; cu
 usc_title: 1
 usc_section: "203"
 chapter: 3
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "1 U.S.C. § 203"
-generated_at: "2026-03-29T21:03:44.954Z"
+generated_at: "2026-03-29T21:08:13.942Z"
 ---
 
 # § 203. District of Columbia Code; preparation and publication; cumulative supplements

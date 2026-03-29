@@ -3,9 +3,9 @@ title: "Section 1278 - Definitions and special rules"
 usc_title: 26
 usc_section: "1278"
 chapter: 1
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "26 U.S.C. § 1278"
-generated_at: "2026-03-29T21:06:28.838Z"
+generated_at: "2026-03-29T21:10:05.141Z"
 ---
 
 # § 1278. Definitions and special rules

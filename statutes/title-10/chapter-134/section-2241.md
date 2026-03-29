@@ -3,9 +3,9 @@ title: "Section 2241 - Availability of appropriations for certain purposes"
 usc_title: 10
 usc_section: "2241"
 chapter: 134
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "10 U.S.C. § 2241"
-generated_at: "2026-03-29T21:04:40.246Z"
+generated_at: "2026-03-29T21:08:44.135Z"
 ---
 
 # § 2241. Availability of appropriations for certain purposes

@@ -3,9 +3,9 @@ title: "Section 50c - Improved apprenticeship program coordination between the D
 usc_title: 29
 usc_section: "50c"
 chapter: 4
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "29 U.S.C. § 50c"
-generated_at: "2026-03-29T21:06:18.447Z"
+generated_at: "2026-03-29T21:09:49.232Z"
 ---
 
 # § 50c. Improved apprenticeship program coordination between the Department of Labor and the Department of Veterans Affairs

@@ -3,9 +3,9 @@ title: "Section 1161 - Omitted"
 usc_title: 7
 usc_section: "1161"
 chapter: 34
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "7 U.S.C. § 1161"
-generated_at: "2026-03-29T21:04:31.514Z"
+generated_at: "2026-03-29T21:08:28.492Z"
 ---
 
 # §§ 1151 to 1161. Omitted

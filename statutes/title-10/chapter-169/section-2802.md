@@ -3,9 +3,9 @@ title: "Section 2802 - Military construction projects"
 usc_title: 10
 usc_section: "2802"
 chapter: 169
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "10 U.S.C. § 2802"
-generated_at: "2026-03-29T21:04:40.311Z"
+generated_at: "2026-03-29T21:08:44.199Z"
 ---
 
 # § 2802. Military construction projects

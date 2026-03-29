@@ -3,9 +3,9 @@ title: "Section 59dd - Declaration of nonnavigability of portions of Cleveland H
 usc_title: 33
 usc_section: "59dd"
 chapter: 1
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "33 U.S.C. § 59dd"
-generated_at: "2026-03-29T21:06:36.018Z"
+generated_at: "2026-03-29T21:10:12.013Z"
 ---
 
 # § 59dd. Declaration of nonnavigability of portions of Cleveland Harbor, Ohio

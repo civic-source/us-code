@@ -3,9 +3,9 @@ title: "Section 4165 - Review and audit by Secretary"
 usc_title: 25
 usc_section: "4165"
 chapter: 43
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "25 U.S.C. § 4165"
-generated_at: "2026-03-29T21:05:57.812Z"
+generated_at: "2026-03-29T21:09:30.943Z"
 ---
 
 # § 4165. Review and audit by Secretary

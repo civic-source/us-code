@@ -3,9 +3,9 @@ title: "Section 2005 - Advanced education assistance: active duty agreement; rei
 usc_title: 10
 usc_section: "2005"
 chapter: 101
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "10 U.S.C. § 2005"
-generated_at: "2026-03-29T21:04:40.228Z"
+generated_at: "2026-03-29T21:08:44.120Z"
 ---
 
 # § 2005. Advanced education assistance: active duty agreement; reimbursement requirements

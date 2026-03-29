@@ -3,9 +3,9 @@ title: "Section 282 - Emergency situations involving weapons of mass destruction
 usc_title: 10
 usc_section: "282"
 chapter: 15
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "10 U.S.C. § 282"
-generated_at: "2026-03-29T21:04:40.089Z"
+generated_at: "2026-03-29T21:08:44.008Z"
 ---
 
 # § 282. Emergency situations involving weapons of mass destruction

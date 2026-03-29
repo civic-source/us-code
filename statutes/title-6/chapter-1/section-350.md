@@ -3,9 +3,9 @@ title: "Section 350 - Workforce health and medical support"
 usc_title: 6
 usc_section: "350"
 chapter: 1
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "6 U.S.C. § 350"
-generated_at: "2026-03-29T21:04:46.820Z"
+generated_at: "2026-03-29T21:08:23.299Z"
 ---
 
 # § 350. Workforce health and medical support

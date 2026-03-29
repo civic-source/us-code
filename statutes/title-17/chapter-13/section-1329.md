@@ -3,9 +3,9 @@ title: "Section 1329 - Relation to design patent law"
 usc_title: 17
 usc_section: "1329"
 chapter: 13
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "17 U.S.C. § 1329"
-generated_at: "2026-03-29T21:05:08.072Z"
+generated_at: "2026-03-29T21:09:03.317Z"
 ---
 
 # § 1329. Relation to design patent law

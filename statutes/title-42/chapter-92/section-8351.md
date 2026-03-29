@@ -3,9 +3,9 @@ title: "Section 8351 - Temporary exemptions"
 usc_title: 42
 usc_section: "8351"
 chapter: 92
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "42 U.S.C. § 8351"
-generated_at: "2026-03-29T21:07:30.240Z"
+generated_at: "2026-03-29T21:11:26.068Z"
 ---
 
 # § 8351. Temporary exemptions

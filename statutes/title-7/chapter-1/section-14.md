@@ -3,9 +3,9 @@ title: "Section 14 - Repealed. Pub. L. 99–641, title I, § 110(5) , Nov. 10, 1
 usc_title: 7
 usc_section: "14"
 chapter: 1
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "7 U.S.C. § 14"
-generated_at: "2026-03-29T21:04:31.441Z"
+generated_at: "2026-03-29T21:08:28.415Z"
 ---
 
 # § 14. Repealed. Pub. L. 99–641, title I, § 110(5) , Nov. 10, 1986 , 100 Stat. 3561

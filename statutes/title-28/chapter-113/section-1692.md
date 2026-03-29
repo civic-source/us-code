@@ -3,9 +3,9 @@ title: "Section 1692 - Process and orders affecting property in different distri
 usc_title: 28
 usc_section: "1692"
 chapter: 113
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "28 U.S.C. § 1692"
-generated_at: "2026-03-29T21:06:09.691Z"
+generated_at: "2026-03-29T21:09:45.171Z"
 ---
 
 # § 1692. Process and orders affecting property in different districts

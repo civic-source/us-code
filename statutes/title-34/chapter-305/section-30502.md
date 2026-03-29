@@ -3,9 +3,9 @@ title: "Section 30502 - Definitions"
 usc_title: 34
 usc_section: "30502"
 chapter: 305
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "34 U.S.C. § 30502"
-generated_at: "2026-03-29T21:06:34.355Z"
+generated_at: "2026-03-29T21:10:13.837Z"
 ---
 
 # § 30502. Definitions

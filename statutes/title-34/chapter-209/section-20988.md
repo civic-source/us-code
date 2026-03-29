@@ -3,9 +3,9 @@ title: "Section 20988 - Jessica Lunsford Address Verification Grant Program"
 usc_title: 34
 usc_section: "20988"
 chapter: 209
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "34 U.S.C. § 20988"
-generated_at: "2026-03-29T21:06:34.345Z"
+generated_at: "2026-03-29T21:10:13.827Z"
 ---
 
 # § 20988. Jessica Lunsford Address Verification Grant Program

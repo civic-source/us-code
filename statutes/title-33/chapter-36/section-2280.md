@@ -3,9 +3,9 @@ title: "Section 2280 - Maximum cost of projects"
 usc_title: 33
 usc_section: "2280"
 chapter: 36
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "33 U.S.C. § 2280"
-generated_at: "2026-03-29T21:06:36.125Z"
+generated_at: "2026-03-29T21:10:12.164Z"
 ---
 
 # § 2280. Maximum cost of projects

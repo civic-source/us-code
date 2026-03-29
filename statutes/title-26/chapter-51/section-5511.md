@@ -3,9 +3,9 @@ title: "Section 5511 - Establishment and operation"
 usc_title: 26
 usc_section: "5511"
 chapter: 51
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "26 U.S.C. § 5511"
-generated_at: "2026-03-29T21:06:28.929Z"
+generated_at: "2026-03-29T21:10:05.269Z"
 ---
 
 # § 5511. Establishment and operation

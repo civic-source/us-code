@@ -3,9 +3,9 @@ title: "Section 19 - Cooperation of Secretary of the Interior with State and loc
 usc_title: 42
 usc_section: "19"
 chapter: 19
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "42 U.S.C. § 19"
-generated_at: "2026-03-29T21:07:29.899Z"
+generated_at: "2026-03-29T21:11:25.619Z"
 ---
 
 # § 1962d–19. Cooperation of Secretary of the Interior with State and local regulatory and law enforcement officials in enforcement of laws or ordinances in connection with Federal resource protection, etc., within Federal water resource development project; funding

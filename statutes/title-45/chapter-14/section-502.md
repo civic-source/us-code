@@ -3,9 +3,9 @@ title: "Section 502 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 
 usc_title: 45
 usc_section: "502"
 chapter: 14
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "45 U.S.C. § 502"
-generated_at: "2026-03-29T21:06:58.587Z"
+generated_at: "2026-03-29T21:10:58.592Z"
 ---
 
 # §§ 501 to 502. Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 Stat. 1379

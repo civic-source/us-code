@@ -3,9 +3,9 @@ title: "Section 419 - Regulation by Secretary governing transportation and dumpi
 usc_title: 33
 usc_section: "419"
 chapter: 9
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "33 U.S.C. § 419"
-generated_at: "2026-03-29T21:06:36.023Z"
+generated_at: "2026-03-29T21:10:12.019Z"
 ---
 
 # § 419. Regulation by Secretary governing transportation and dumping of dredgings, refuse, etc., into navigable waters; oyster lands; appropriations

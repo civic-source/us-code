@@ -3,9 +3,9 @@ title: "Section 451f - Exchanges subject to mortgage contracts"
 usc_title: 43
 usc_section: "451f"
 chapter: 12
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "43 U.S.C. § 451f"
-generated_at: "2026-03-29T21:06:55.232Z"
+generated_at: "2026-03-29T21:11:00.674Z"
 ---
 
 # § 451f. Exchanges subject to mortgage contracts

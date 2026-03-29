@@ -3,9 +3,9 @@ title: "Section 101522 - Transportation projects"
 usc_title: 54
 usc_section: "101522"
 chapter: 1015
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "54 U.S.C. § 101522"
-generated_at: "2026-03-29T21:07:50.082Z"
+generated_at: "2026-03-29T21:11:48.118Z"
 ---
 
 # § 101522. Transportation projects

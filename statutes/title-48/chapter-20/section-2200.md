@@ -3,9 +3,9 @@ title: "Section 2200 - Determination on debt"
 usc_title: 48
 usc_section: "2200"
 chapter: 20
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "48 U.S.C. § 2200"
-generated_at: "2026-03-29T21:07:34.427Z"
+generated_at: "2026-03-29T21:11:37.330Z"
 ---
 
 # § 2200. Determination on debt

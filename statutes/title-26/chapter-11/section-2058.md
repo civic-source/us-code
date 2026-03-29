@@ -3,9 +3,9 @@ title: "Section 2058 - State death taxes"
 usc_title: 26
 usc_section: "2058"
 chapter: 11
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "26 U.S.C. § 2058"
-generated_at: "2026-03-29T21:06:28.864Z"
+generated_at: "2026-03-29T21:10:05.178Z"
 ---
 
 # § 2058. State death taxes

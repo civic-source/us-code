@@ -3,9 +3,9 @@ title: "Section 18083 - Streamlining of procedures for enrollment through an Exc
 usc_title: 42
 usc_section: "18083"
 chapter: 157
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "42 U.S.C. § 18083"
-generated_at: "2026-03-29T21:07:30.530Z"
+generated_at: "2026-03-29T21:11:26.435Z"
 ---
 
 # § 18083. Streamlining of procedures for enrollment through an Exchange and State medicaid, CHIP, and health subsidy programs

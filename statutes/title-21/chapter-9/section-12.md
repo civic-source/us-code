@@ -3,9 +3,9 @@ title: "Section 12 - Authority to assess and use animal drug fees"
 usc_title: 21
 usc_section: "12"
 chapter: 9
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "21 U.S.C. § 12"
-generated_at: "2026-03-29T21:06:00.179Z"
+generated_at: "2026-03-29T21:09:28.319Z"
 ---
 
 # § 379j–12. Authority to assess and use animal drug fees

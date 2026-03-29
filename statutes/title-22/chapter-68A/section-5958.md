@@ -3,9 +3,9 @@ title: "Section 5958 - Authorization for additional fiscal year 1993 assistance 
 usc_title: 22
 usc_section: "5958"
 chapter: 68
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "22 U.S.C. § 5958"
-generated_at: "2026-03-29T21:06:05.098Z"
+generated_at: "2026-03-29T21:09:36.123Z"
 ---
 
 # § 5958. Authorization for additional fiscal year 1993 assistance to independent states of the former Soviet Union

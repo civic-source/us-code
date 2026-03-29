@@ -3,9 +3,9 @@ title: "Section 21903 - Powers"
 usc_title: 36
 usc_section: "21903"
 chapter: 219
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "36 U.S.C. § 21903"
-generated_at: "2026-03-29T21:06:41.448Z"
+generated_at: "2026-03-29T21:10:42.334Z"
 ---
 
 # § 21903. Powers

@@ -3,9 +3,9 @@ title: "Section 272a - Technology services"
 usc_title: 15
 usc_section: "272a"
 chapter: 7
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "15 U.S.C. § 272a"
-generated_at: "2026-03-29T21:04:58.930Z"
+generated_at: "2026-03-29T21:08:59.449Z"
 ---
 
 # § 272a. Technology services

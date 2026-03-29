@@ -3,9 +3,9 @@ title: "Section 1712A - Eligibility for readjustment counseling and related ment
 usc_title: 38
 usc_section: "1712A"
 chapter: 17
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "38 U.S.C. § 1712A"
-generated_at: "2026-03-29T21:06:43.837Z"
+generated_at: "2026-03-29T21:10:55.075Z"
 ---
 
 # § 1712A. Eligibility for readjustment counseling and related mental health services
@@ -68,5 +68,5 @@ generated_at: "2026-03-29T21:06:43.837Z"
       - **(iv)** a step-family member; and
       - **(v)** an extended family member; or
     - **(B)** lives with the veteran or member but is not a member of the family of the veteran or member.
-  - **“(4)** The term “‘active service”’ has the meaning given that term in section 101 of title 10 .
-  - **“(5)** The term “‘civil disorder”’ has the meaning given that term in section 232 of title 18 .”
+  - **(4)** The term “active service” has the meaning given that term in section 101 of title 10 .
+  - **(5)** The term “civil disorder” has the meaning given that term in section 232 of title 18 .

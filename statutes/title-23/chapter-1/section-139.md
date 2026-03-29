@@ -3,9 +3,9 @@ title: "Section 139 - Efficient environmental reviews for project decisionmaking
 usc_title: 23
 usc_section: "139"
 chapter: 1
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "23 U.S.C. § 139"
-generated_at: "2026-03-29T21:06:01.050Z"
+generated_at: "2026-03-29T21:09:36.991Z"
 ---
 
 # § 139. Efficient environmental reviews for project decisionmaking

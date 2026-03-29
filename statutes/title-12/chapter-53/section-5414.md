@@ -3,9 +3,9 @@ title: "Section 5414 - Savings provisions"
 usc_title: 12
 usc_section: "5414"
 chapter: 53
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "12 U.S.C. § 5414"
-generated_at: "2026-03-29T21:05:04.187Z"
+generated_at: "2026-03-29T21:08:53.554Z"
 ---
 
 # § 5414. Savings provisions

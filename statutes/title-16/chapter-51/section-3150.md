@@ -3,9 +3,9 @@ title: "Section 3150 - Alaska mineral resource assessment program"
 usc_title: 16
 usc_section: "3150"
 chapter: 51
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "16 U.S.C. § 3150"
-generated_at: "2026-03-29T21:05:17.406Z"
+generated_at: "2026-03-29T21:09:22.513Z"
 ---
 
 # § 3150. Alaska mineral resource assessment program

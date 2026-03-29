@@ -3,9 +3,9 @@ title: "Section 4214 - Advisory group"
 usc_title: 16
 usc_section: "4214"
 chapter: 62
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "16 U.S.C. § 4214"
-generated_at: "2026-03-29T21:05:17.442Z"
+generated_at: "2026-03-29T21:09:22.549Z"
 ---
 
 # § 4214. Advisory group

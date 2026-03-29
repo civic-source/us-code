@@ -3,9 +3,9 @@ title: "Section 9221 - Determinations with respect to North Korea as a jurisdict
 usc_title: 22
 usc_section: "9221"
 chapter: 99
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "22 U.S.C. § 9221"
-generated_at: "2026-03-29T21:06:05.170Z"
+generated_at: "2026-03-29T21:09:36.193Z"
 ---
 
 # § 9221. Determinations with respect to North Korea as a jurisdiction of primary money laundering concern

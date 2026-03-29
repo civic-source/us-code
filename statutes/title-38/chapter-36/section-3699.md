@@ -3,9 +3,9 @@ title: "Section 3699 - Effects of closure or disapproval of educational institut
 usc_title: 38
 usc_section: "3699"
 chapter: 36
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "38 U.S.C. § 3699"
-generated_at: "2026-03-29T21:06:43.890Z"
+generated_at: "2026-03-29T21:10:55.150Z"
 ---
 
 # § 3699. Effects of closure or disapproval of educational institution
@@ -20,9 +20,14 @@ generated_at: "2026-03-29T21:06:43.890Z"
       - **(i)** a provision of law enacted after the date on which the individual enrolls at such institution affecting the approval or disapproval of courses under this chapter; or
       - **(ii)** after the date on which the individual enrolls at such institution, the Secretary prescribing or modifying regulations or policies of the Department affecting such approval or disapproval; and
   - **(2)** did not receive credit or lost training time, toward completion of the program of education being so pursued.
-- **(c)** The period for which, by reason of this subsection, educational assistance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the aggregate of—
-  - **(1)** the portion of the period of enrollment in the course from which the individual did not receive credit or with respect to which the individual lost training time, as determined under subsection (b)(2); and
-  - **(2)** the period by which a monthly stipend is extended under section 3680(a)(2)(B) of this title .
+- **(c)**
+  - **(1)** The period for which, by reason of this subsection, educational assistance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the aggregate of—
+    - **(A)** the portion of the period of enrollment in the course from which the individual did not receive credit or with respect to which the individual lost training time, as determined under subsection (b)(2); and
+    - **(B)** the period by which a monthly stipend is extended under section 3680(a)(2)(B) of this title .
+  - **(2)**
+    - **(A)** An individual described in subparagraph (B) who transfers fewer than 12 credits from a program of education that is closed or disapproved as described in subsection (b)(1) shall be deemed to be an individual who did not receive such credits, as described in subsection (b)(2), except that the period for which such individual’s entitlement is not charged shall be the entire period of the individual’s enrollment in the program of education. In carrying out this subparagraph, the Secretary, in consultation with the Secretary of Education, shall establish procedures to determine whether the individual transferred credits to a comparable course or program of education.
+    - **(B)** An individual described in this subparagraph is an individual who is enrolled in a course or program of education closed or discontinued as described in subsection (b)(1) during the period beginning on the date that is 120 days before the date of such closure or discontinuance and ending on the date of such closure or discontinuance, as the case may be.
+    - **(C)** This paragraph shall apply with respect to a course or program of education closed or discontinued before September 30, 2023 .
 - **(d)**
   - **(1)** The Secretary may treat a course of education that is disapproved under this chapter as being approved under this chapter with respect to an individual described in paragraph (2) if the Secretary determines, on a case-by-case basis, that—
     - **(A)** such disapproval is the result of an action described in clause (i) or (ii) of subsection (b)(1)(B); and

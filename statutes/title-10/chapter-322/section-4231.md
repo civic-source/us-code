@@ -3,9 +3,9 @@ title: "Section 4231 - Major systems: determination of quantity for low-rate ini
 usc_title: 10
 usc_section: "4231"
 chapter: 322
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "10 U.S.C. § 4231"
-generated_at: "2026-03-29T21:04:40.343Z"
+generated_at: "2026-03-29T21:08:44.232Z"
 ---
 
 # § 4231. Major systems: determination of quantity for low-rate initial production

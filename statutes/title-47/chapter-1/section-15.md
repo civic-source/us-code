@@ -3,9 +3,9 @@ title: "Section 15 - Reservation of power to alter, amend, or repeal act; power 
 usc_title: 47
 usc_section: "15"
 chapter: 1
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "47 U.S.C. § 15"
-generated_at: "2026-03-29T21:07:39.439Z"
+generated_at: "2026-03-29T21:11:32.705Z"
 ---
 
 # § 15. Reservation of power to alter, amend, or repeal act; power to fix rates and purchase lines

@@ -3,9 +3,9 @@ title: "Section 973o - Disposition of fees, penalties, forfeitures, and other mo
 usc_title: 16
 usc_section: "973o"
 chapter: 16
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "16 U.S.C. § 973o"
-generated_at: "2026-03-29T21:05:17.318Z"
+generated_at: "2026-03-29T21:09:22.416Z"
 ---
 
 # § 973o. Disposition of fees, penalties, forfeitures, and other moneys

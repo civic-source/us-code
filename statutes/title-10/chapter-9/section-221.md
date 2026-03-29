@@ -3,9 +3,9 @@ title: "Section 221 - Future-years defense program: submission to Congress; cons
 usc_title: 10
 usc_section: "221"
 chapter: 9
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "10 U.S.C. § 221"
-generated_at: "2026-03-29T21:04:40.083Z"
+generated_at: "2026-03-29T21:08:44.001Z"
 ---
 
 # § 221. Future-years defense program: submission to Congress; consistency in budgeting

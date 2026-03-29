@@ -3,9 +3,9 @@ title: "Section 2152d - Assistance to foreign countries to meet minimum standard
 usc_title: 22
 usc_section: "2152d"
 chapter: 32
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "22 U.S.C. § 2152d"
-generated_at: "2026-03-29T21:06:04.983Z"
+generated_at: "2026-03-29T21:09:36.005Z"
 ---
 
 # § 2152d. Assistance to foreign countries to meet minimum standards for the elimination of trafficking

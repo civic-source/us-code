@@ -3,9 +3,9 @@ title: "Section 11906 - Reports"
 usc_title: 42
 usc_section: "11906"
 chapter: 124
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "42 U.S.C. § 11906"
-generated_at: "2026-03-29T21:07:30.357Z"
+generated_at: "2026-03-29T21:11:26.211Z"
 ---
 
 # § 11906. Reports

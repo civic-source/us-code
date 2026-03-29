@@ -3,9 +3,9 @@ title: "Section 398 - Leases of unallotted lands for oil and gas mining purposes
 usc_title: 25
 usc_section: "398"
 chapter: 12
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "25 U.S.C. § 398"
-generated_at: "2026-03-29T21:05:57.725Z"
+generated_at: "2026-03-29T21:09:30.836Z"
 ---
 
 # § 398. Leases of unallotted lands for oil and gas mining purposes

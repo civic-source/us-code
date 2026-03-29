@@ -3,9 +3,9 @@ title: "Section 19n - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "19n"
 chapter: 1
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "16 U.S.C. § 19n"
-generated_at: "2026-03-29T21:05:17.035Z"
+generated_at: "2026-03-29T21:09:22.107Z"
 ---
 
 # § 19n. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

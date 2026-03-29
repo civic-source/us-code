@@ -3,9 +3,9 @@ title: "Section 720 - Definitions"
 usc_title: 15
 usc_section: "720"
 chapter: 15
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "15 U.S.C. § 720"
-generated_at: "2026-03-29T21:04:59.000Z"
+generated_at: "2026-03-29T21:08:59.521Z"
 ---
 
 # § 720. Definitions

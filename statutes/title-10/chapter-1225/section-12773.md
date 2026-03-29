@@ -3,9 +3,9 @@ title: "Section 12773 - Limitation on accrual of increased pay or benefits"
 usc_title: 10
 usc_section: "12773"
 chapter: 1225
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "10 U.S.C. § 12773"
-generated_at: "2026-03-29T21:04:40.418Z"
+generated_at: "2026-03-29T21:08:44.308Z"
 ---
 
 # § 12773. Limitation on accrual of increased pay or benefits

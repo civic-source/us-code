@@ -3,9 +3,9 @@ title: "Section 242 - Ineligibility to hold office in member banks; qualificatio
 usc_title: 12
 usc_section: "242"
 chapter: 3
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "12 U.S.C. § 242"
-generated_at: "2026-03-29T21:05:03.919Z"
+generated_at: "2026-03-29T21:08:53.225Z"
 ---
 
 # § 242. Ineligibility to hold office in member banks; qualifications and terms of office of members; chairman and vice chairman; oath of office

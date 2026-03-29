@@ -3,9 +3,9 @@ title: "Section 388 - Contracts for materials; liability of United States"
 usc_title: 43
 usc_section: "388"
 chapter: 12
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "43 U.S.C. § 388"
-generated_at: "2026-03-29T21:06:55.218Z"
+generated_at: "2026-03-29T21:11:00.656Z"
 ---
 
 # § 388. Contracts for materials; liability of United States

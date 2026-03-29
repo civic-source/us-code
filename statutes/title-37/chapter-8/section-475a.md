@@ -3,9 +3,9 @@ title: "Section 475a - Travel and transportation allowances: departure allowance
 usc_title: 37
 usc_section: "475a"
 chapter: 8
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "37 U.S.C. § 475a"
-generated_at: "2026-03-29T21:06:39.240Z"
+generated_at: "2026-03-29T21:10:33.946Z"
 ---
 
 # § 475a. Travel and transportation allowances: departure allowances

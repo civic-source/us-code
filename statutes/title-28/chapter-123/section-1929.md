@@ -3,9 +3,9 @@ title: "Section 1929 - Extraordinary expenses not expressly authorized"
 usc_title: 28
 usc_section: "1929"
 chapter: 123
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "28 U.S.C. § 1929"
-generated_at: "2026-03-29T21:06:09.697Z"
+generated_at: "2026-03-29T21:09:45.177Z"
 ---
 
 # § 1929. Extraordinary expenses not expressly authorized

@@ -3,9 +3,9 @@ title: "Section 470e - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "470e"
 chapter: 1
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "16 U.S.C. § 470e"
-generated_at: "2026-03-29T21:05:17.203Z"
+generated_at: "2026-03-29T21:09:22.286Z"
 ---
 
 # § 470e. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

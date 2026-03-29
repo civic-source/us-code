@@ -3,9 +3,9 @@ title: "Section 3153 - Organization and administration of pretrial services"
 usc_title: 18
 usc_section: "3153"
 chapter: 207
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "18 U.S.C. § 3153"
-generated_at: "2026-03-29T21:05:11.250Z"
+generated_at: "2026-03-29T21:09:09.462Z"
 ---
 
 # § 3153. Organization and administration of pretrial services

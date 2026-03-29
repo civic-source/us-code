@@ -3,9 +3,9 @@ title: "Section 1302 - Repealed. Oct. 31, 1949, ch. 792 , title IV, § 414, 63 S
 usc_title: 7
 usc_section: "1302"
 chapter: 35
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "7 U.S.C. § 1302"
-generated_at: "2026-03-29T21:04:31.515Z"
+generated_at: "2026-03-29T21:08:28.493Z"
 ---
 
 # § 1302. Repealed. Oct. 31, 1949, ch. 792 , title IV, § 414, 63 Stat. 1057

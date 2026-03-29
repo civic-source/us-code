@@ -3,9 +3,9 @@ title: "Section 592a - Technology research and development investment strategy f
 usc_title: 6
 usc_section: "592a"
 chapter: 1
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "6 U.S.C. § 592a"
-generated_at: "2026-03-29T21:04:46.835Z"
+generated_at: "2026-03-29T21:08:23.313Z"
 ---
 
 # § 592a. Technology research and development investment strategy for nuclear and radiological detection

@@ -3,9 +3,9 @@ title: "Section 51 - Water users’ vested and accrued rights; enumeration of us
 usc_title: 30
 usc_section: "51"
 chapter: 2
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "30 U.S.C. § 51"
-generated_at: "2026-03-29T21:06:08.237Z"
+generated_at: "2026-03-29T21:09:40.151Z"
 ---
 
 # § 51. Water users’ vested and accrued rights; enumeration of uses; protection of interest; rights-of-way for canals and ditches; liability for injury or damage to settlers’ possession

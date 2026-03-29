@@ -3,9 +3,9 @@ title: "Section 6516 - Judicial review in United States district courts"
 usc_title: 16
 usc_section: "6516"
 chapter: 84
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "16 U.S.C. § 6516"
-generated_at: "2026-03-29T21:05:17.463Z"
+generated_at: "2026-03-29T21:09:22.575Z"
 ---
 
 # § 6516. Judicial review in United States district courts

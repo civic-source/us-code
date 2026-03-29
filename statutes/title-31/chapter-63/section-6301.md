@@ -3,9 +3,9 @@ title: "Section 6301 - Purposes"
 usc_title: 31
 usc_section: "6301"
 chapter: 63
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "31 U.S.C. § 6301"
-generated_at: "2026-03-29T21:06:33.072Z"
+generated_at: "2026-03-29T21:10:31.079Z"
 ---
 
 # § 6301. Purposes

@@ -3,9 +3,9 @@ title: "Section 200509 - Recordkeeping"
 usc_title: 54
 usc_section: "200509"
 chapter: 2005
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "54 U.S.C. § 200509"
-generated_at: "2026-03-29T21:07:50.088Z"
+generated_at: "2026-03-29T21:11:48.128Z"
 ---
 
 # § 200509. Recordkeeping

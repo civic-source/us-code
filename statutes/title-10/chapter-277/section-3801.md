@@ -3,9 +3,9 @@ title: "Section 3801 - Authority of agency"
 usc_title: 10
 usc_section: "3801"
 chapter: 277
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "10 U.S.C. § 3801"
-generated_at: "2026-03-29T21:04:40.336Z"
+generated_at: "2026-03-29T21:08:44.225Z"
 ---
 
 # § 3801. Authority of agency

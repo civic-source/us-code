@@ -3,9 +3,9 @@ title: "Section 625 - Director and staff"
 usc_title: 28
 usc_section: "625"
 chapter: 42
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "28 U.S.C. § 625"
-generated_at: "2026-03-29T21:06:09.676Z"
+generated_at: "2026-03-29T21:09:45.156Z"
 ---
 
 # § 625. Director and staff

@@ -3,9 +3,9 @@ title: "Section 3752 - Retention boards; removal from an active status to provid
 usc_title: 14
 usc_section: "3752"
 chapter: 37
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "14 U.S.C. § 3752"
-generated_at: "2026-03-29T21:05:05.202Z"
+generated_at: "2026-03-29T21:08:47.304Z"
 ---
 
 # § 3752. Retention boards; removal from an active status to provide a flow of promotion

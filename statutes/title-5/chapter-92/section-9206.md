@@ -3,9 +3,9 @@ title: "Section 9206 - Rules of construction"
 usc_title: 5
 usc_section: "9206"
 chapter: 92
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "5 U.S.C. § 9206"
-generated_at: "2026-03-29T21:04:21.364Z"
+generated_at: "2026-03-29T21:08:19.153Z"
 ---
 
 # § 9206. Rules of construction

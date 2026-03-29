@@ -3,9 +3,9 @@ title: "Section 313 - Buy America"
 usc_title: 23
 usc_section: "313"
 chapter: 3
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "23 U.S.C. § 313"
-generated_at: "2026-03-29T21:06:01.064Z"
+generated_at: "2026-03-29T21:09:37.006Z"
 ---
 
 # § 313. Buy America

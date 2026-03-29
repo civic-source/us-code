@@ -3,9 +3,9 @@ title: "Section 79d - Acquisition of lands"
 usc_title: 16
 usc_section: "79d"
 chapter: 1
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "16 U.S.C. § 79d"
-generated_at: "2026-03-29T21:05:17.041Z"
+generated_at: "2026-03-29T21:09:22.114Z"
 ---
 
 # § 79d. Acquisition of lands

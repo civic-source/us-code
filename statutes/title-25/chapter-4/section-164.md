@@ -3,9 +3,9 @@ title: "Section 164 - Restoration to tribal ownership of unclaimed per capita an
 usc_title: 25
 usc_section: "164"
 chapter: 4
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "25 U.S.C. § 164"
-generated_at: "2026-03-29T21:05:57.714Z"
+generated_at: "2026-03-29T21:09:30.824Z"
 ---
 
 # § 164. Restoration to tribal ownership of unclaimed per capita and other individual payments of tribal trust funds; deposit in general fund of the Treasury

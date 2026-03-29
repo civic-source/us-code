@@ -3,9 +3,9 @@ title: "Section 50104 - Studies of general maritime problems"
 usc_title: 46
 usc_section: "50104"
 chapter: 501
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "46 U.S.C. § 50104"
-generated_at: "2026-03-29T21:07:36.082Z"
+generated_at: "2026-03-29T21:11:39.386Z"
 ---
 
 # § 50104. Studies of general maritime problems

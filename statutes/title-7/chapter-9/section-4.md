@@ -3,9 +3,9 @@ title: "Section 4 - Violation of final order by live poultry dealer; penalty"
 usc_title: 7
 usc_section: "4"
 chapter: 9
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "7 U.S.C. § 4"
-generated_at: "2026-03-29T21:04:31.483Z"
+generated_at: "2026-03-29T21:08:28.461Z"
 ---
 
 # § 228b–4. Violation of final order by live poultry dealer; penalty

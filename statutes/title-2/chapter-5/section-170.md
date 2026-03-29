@@ -3,9 +3,9 @@ title: "Section 170 - American Television and Radio Archives"
 usc_title: 2
 usc_section: "170"
 chapter: 5
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "2 U.S.C. § 170"
-generated_at: "2026-03-29T21:03:47.890Z"
+generated_at: "2026-03-29T21:08:16.066Z"
 ---
 
 # § 170. American Television and Radio Archives

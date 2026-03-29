@@ -3,9 +3,9 @@ title: "Section 891a - Fleet replacement and modernization program"
 usc_title: 33
 usc_section: "891a"
 chapter: 17
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "33 U.S.C. § 891a"
-generated_at: "2026-03-29T21:06:36.055Z"
+generated_at: "2026-03-29T21:10:12.058Z"
 ---
 
 # § 891a. Fleet replacement and modernization program

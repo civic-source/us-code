@@ -3,9 +3,9 @@ title: "Section 29 - Reports and financial statements of investment companies an
 usc_title: 15
 usc_section: "29"
 chapter: 2
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "15 U.S.C. § 29"
-generated_at: "2026-03-29T21:04:58.915Z"
+generated_at: "2026-03-29T21:08:59.434Z"
 ---
 
 # § 80a–29. Reports and financial statements of investment companies and affiliated persons

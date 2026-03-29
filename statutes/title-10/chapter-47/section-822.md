@@ -3,9 +3,9 @@ title: "Section 822 - Art. 22. Who may convene general courts-martial"
 usc_title: 10
 usc_section: "822"
 chapter: 47
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "10 U.S.C. § 822"
-generated_at: "2026-03-29T21:04:40.132Z"
+generated_at: "2026-03-29T21:08:44.041Z"
 ---
 
 # § 822. Art. 22. Who may convene general courts-martial

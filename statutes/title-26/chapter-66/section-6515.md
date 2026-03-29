@@ -3,9 +3,9 @@ title: "Section 6515 - Cross references"
 usc_title: 26
 usc_section: "6515"
 chapter: 66
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "26 U.S.C. § 6515"
-generated_at: "2026-03-29T21:06:28.981Z"
+generated_at: "2026-03-29T21:10:05.337Z"
 ---
 
 # § 6515. Cross references

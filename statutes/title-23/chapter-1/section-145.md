@@ -3,9 +3,9 @@ title: "Section 145 - Federal-State relationship"
 usc_title: 23
 usc_section: "145"
 chapter: 1
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "23 U.S.C. § 145"
-generated_at: "2026-03-29T21:06:01.053Z"
+generated_at: "2026-03-29T21:09:36.995Z"
 ---
 
 # § 145. Federal-State relationship

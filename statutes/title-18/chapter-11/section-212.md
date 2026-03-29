@@ -3,9 +3,9 @@ title: "Section 212 - Offer of loan or gratuity to financial institution examine
 usc_title: 18
 usc_section: "212"
 chapter: 11
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "18 U.S.C. § 212"
-generated_at: "2026-03-29T21:05:11.169Z"
+generated_at: "2026-03-29T21:09:09.352Z"
 ---
 
 # § 212. Offer of loan or gratuity to financial institution examiner

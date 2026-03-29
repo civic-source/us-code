@@ -3,9 +3,9 @@ title: "Section 30911 - Costs and interest"
 usc_title: 46
 usc_section: "30911"
 chapter: 309
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "46 U.S.C. § 30911"
-generated_at: "2026-03-29T21:07:36.073Z"
+generated_at: "2026-03-29T21:11:39.376Z"
 ---
 
 # § 30911. Costs and interest

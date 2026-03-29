@@ -3,9 +3,9 @@ title: "Section 1207 - Disability from intentional misconduct or willful neglect
 usc_title: 10
 usc_section: "1207"
 chapter: 61
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "10 U.S.C. § 1207"
-generated_at: "2026-03-29T21:04:40.188Z"
+generated_at: "2026-03-29T21:08:44.088Z"
 ---
 
 # § 1207. Disability from intentional misconduct or willful neglect: separation

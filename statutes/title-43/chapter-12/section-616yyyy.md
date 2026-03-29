@@ -3,9 +3,9 @@ title: "Section 616yyyy - Omitted"
 usc_title: 43
 usc_section: "616yyyy"
 chapter: 12
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "43 U.S.C. § 616yyyy"
-generated_at: "2026-03-29T21:06:55.241Z"
+generated_at: "2026-03-29T21:11:00.685Z"
 ---
 
 # §§ 616tttt to 616yyyy. Omitted

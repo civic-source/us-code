@@ -3,9 +3,9 @@ title: "Section 8547 - Report on contract positions at National Weather Service"
 usc_title: 15
 usc_section: "8547"
 chapter: 111
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "15 U.S.C. § 8547"
-generated_at: "2026-03-29T21:04:59.193Z"
+generated_at: "2026-03-29T21:08:59.711Z"
 ---
 
 # § 8547. Report on contract positions at National Weather Service

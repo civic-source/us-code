@@ -3,9 +3,9 @@ title: "Section 283 - Regulations for withholding rations for non­attendance at
 usc_title: 25
 usc_section: "283"
 chapter: 7
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "25 U.S.C. § 283"
-generated_at: "2026-03-29T21:05:57.716Z"
+generated_at: "2026-03-29T21:09:30.827Z"
 ---
 
 # § 283. Regulations for withholding rations for non­attendance at schools

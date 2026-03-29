@@ -3,9 +3,9 @@ title: "Section 4071 - Federal operation of program; determination by Administra
 usc_title: 42
 usc_section: "4071"
 chapter: 50
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "42 U.S.C. § 4071"
-generated_at: "2026-03-29T21:07:30.012Z"
+generated_at: "2026-03-29T21:11:25.756Z"
 ---
 
 # § 4071. Federal operation of program; determination by Administrator; fiscal agents; report to Congress

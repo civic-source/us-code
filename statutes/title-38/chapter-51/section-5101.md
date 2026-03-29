@@ -3,9 +3,9 @@ title: "Section 5101 - Claims and forms"
 usc_title: 38
 usc_section: "5101"
 chapter: 51
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "38 U.S.C. § 5101"
-generated_at: "2026-03-29T21:06:43.906Z"
+generated_at: "2026-03-29T21:10:55.172Z"
 ---
 
 # § 5101. Claims and forms
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T21:06:43.906Z"
   - **(1)**
     - **(A)** Except as provided in subparagraph (B), a specific claim in the form prescribed by the Secretary (or jointly with the Commissioner of Social Security, as prescribed by section 5105 of this title ) must be filed in order for benefits to be paid or furnished to any individual under the laws administered by the Secretary.
     - **(B)**
-      - **(i)** The Secretary may pay benefits under chapters 13 and 15 and sections 2303, 1 2307, and 5121 of this title to a survivor of a veteran who has not filed a formal claim if the Secretary determines that the record contains sufficient evidence to establish the entitlement of the survivor to such benefits.
+      - **(i)** The Secretary may pay benefits under chapters 13 and 15 and sections 2303, 2307, and 5121 of this title to a survivor of a veteran who has not filed a formal claim if the Secretary determines that the record contains sufficient evidence to establish the entitlement of the survivor to such benefits.
       - **(ii)** For purposes of this subparagraph and section 5110 of this title , the earlier of the following dates shall be treated as the date of the receipt of the survivor’s application for benefits described in clause (i):
         - **(I)** The date on which the survivor of a veteran (or the representative of such a survivor) notifies the Secretary of the death of the veteran through a death certificate or other relevant evidence that establishes entitlement to survivors’ benefits identified in clause (i).
         - **(II)** The head of any other department or agency of the Federal Government notifies the Secretary of the death of the veteran.

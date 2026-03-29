@@ -3,9 +3,9 @@ title: "Section 3846 - Defense Contract Audit Agency: legal resources and expert
 usc_title: 10
 usc_section: "3846"
 chapter: 279
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "10 U.S.C. § 3846"
-generated_at: "2026-03-29T21:04:40.337Z"
+generated_at: "2026-03-29T21:08:44.226Z"
 ---
 
 # § 3846. Defense Contract Audit Agency: legal resources and expertise

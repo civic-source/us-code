@@ -3,9 +3,9 @@ title: "Section 1423b - Selection and qualification of members; officers; rules 
 usc_title: 48
 usc_section: "1423b"
 chapter: 8
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "48 U.S.C. § 1423b"
-generated_at: "2026-03-29T21:07:34.394Z"
+generated_at: "2026-03-29T21:11:37.282Z"
 ---
 
 # § 1423b. Selection and qualification of members; officers; rules and regulations; quorum

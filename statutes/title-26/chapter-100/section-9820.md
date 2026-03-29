@@ -3,9 +3,9 @@ title: "Section 9820 - Protecting patients and improving the accuracy of provide
 usc_title: 26
 usc_section: "9820"
 chapter: 100
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "26 U.S.C. § 9820"
-generated_at: "2026-03-29T21:06:29.041Z"
+generated_at: "2026-03-29T21:10:05.415Z"
 ---
 
 # § 9820. Protecting patients and improving the accuracy of provider directory information

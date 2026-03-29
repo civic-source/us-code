@@ -3,9 +3,9 @@ title: "Section 4356 - Selected acquisition reports: time for submission to Cong
 usc_title: 10
 usc_section: "4356"
 chapter: 324
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "10 U.S.C. § 4356"
-generated_at: "2026-03-29T21:04:40.346Z"
+generated_at: "2026-03-29T21:08:44.235Z"
 ---
 
 # § 4356. Selected acquisition reports: time for submission to Congress; form of report

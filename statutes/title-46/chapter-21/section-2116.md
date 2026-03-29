@@ -3,9 +3,9 @@ title: "Section 2116 - Marine safety strategy, goals, and performance assessment
 usc_title: 46
 usc_section: "2116"
 chapter: 21
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "46 U.S.C. § 2116"
-generated_at: "2026-03-29T21:07:36.038Z"
+generated_at: "2026-03-29T21:11:39.333Z"
 ---
 
 # § 2116. Marine safety strategy, goals, and performance assessments

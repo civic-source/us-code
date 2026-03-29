@@ -3,9 +3,9 @@ title: "Section 472 - Information furnished of confidential character; penalty f
 usc_title: 7
 usc_section: "472"
 chapter: 19
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "7 U.S.C. § 472"
-generated_at: "2026-03-29T21:04:31.491Z"
+generated_at: "2026-03-29T21:08:28.468Z"
 ---
 
 # § 472. Information furnished of confidential character; penalty for divulging information

@@ -3,9 +3,9 @@ title: "Section 2409 - Use of United States Armed Forces"
 usc_title: 22
 usc_section: "2409"
 chapter: 32
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "22 U.S.C. § 2409"
-generated_at: "2026-03-29T21:06:05.011Z"
+generated_at: "2026-03-29T21:09:36.035Z"
 ---
 
 # § 2409. Use of United States Armed Forces

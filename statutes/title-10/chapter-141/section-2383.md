@@ -3,9 +3,9 @@ title: "Section 2383 - Contractor performance of acquisition functions closely a
 usc_title: 10
 usc_section: "2383"
 chapter: 141
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "10 U.S.C. § 2383"
-generated_at: "2026-03-29T21:04:40.270Z"
+generated_at: "2026-03-29T21:08:44.161Z"
 ---
 
 # § 2383. Contractor performance of acquisition functions closely associated with inherently governmental functions

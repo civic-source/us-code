@@ -3,9 +3,9 @@ title: "Section 31504 - Identification of motor vehicles"
 usc_title: 49
 usc_section: "31504"
 chapter: 315
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "49 U.S.C. § 31504"
-generated_at: "2026-03-29T21:07:47.621Z"
+generated_at: "2026-03-29T21:11:44.345Z"
 ---
 
 # § 31504. Identification of motor vehicles

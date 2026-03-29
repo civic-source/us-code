@@ -3,9 +3,9 @@ title: "Section 272 - Legislative Counsel"
 usc_title: 2
 usc_section: "272"
 chapter: 9
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "2 U.S.C. § 272"
-generated_at: "2026-03-29T21:03:47.897Z"
+generated_at: "2026-03-29T21:08:16.075Z"
 ---
 
 # § 272. Legislative Counsel

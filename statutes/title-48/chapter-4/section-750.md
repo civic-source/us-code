@@ -3,9 +3,9 @@ title: "Section 750 - Repealed. July 3, 1950, ch. 446, § 5(2) , 64 Stat. 320"
 usc_title: 48
 usc_section: "750"
 chapter: 4
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "48 U.S.C. § 750"
-generated_at: "2026-03-29T21:07:34.388Z"
+generated_at: "2026-03-29T21:11:37.274Z"
 ---
 
 # § 750. Repealed. July 3, 1950, ch. 446, § 5(2) , 64 Stat. 320

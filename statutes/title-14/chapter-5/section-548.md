@@ -3,9 +3,9 @@ title: "Section 548 - Prohibition against officers and employees being intereste
 usc_title: 14
 usc_section: "548"
 chapter: 5
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "14 U.S.C. § 548"
-generated_at: "2026-03-29T21:05:05.184Z"
+generated_at: "2026-03-29T21:08:47.284Z"
 ---
 
 # § 548. Prohibition against officers and employees being interested in contracts for materials

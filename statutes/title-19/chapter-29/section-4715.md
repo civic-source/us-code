@@ -3,9 +3,9 @@ title: "Section 4715 - Other monitoring and enforcement actions"
 usc_title: 19
 usc_section: "4715"
 chapter: 29
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "19 U.S.C. § 4715"
-generated_at: "2026-03-29T21:05:21.215Z"
+generated_at: "2026-03-29T21:09:06.618Z"
 ---
 
 # § 4715. Other monitoring and enforcement actions

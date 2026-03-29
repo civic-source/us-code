@@ -3,9 +3,9 @@ title: "Section 5318 - Adjustments in rates of pay"
 usc_title: 5
 usc_section: "5318"
 chapter: 53
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "5 U.S.C. § 5318"
-generated_at: "2026-03-29T21:04:21.203Z"
+generated_at: "2026-03-29T21:08:19.080Z"
 ---
 
 # § 5318. Adjustments in rates of pay

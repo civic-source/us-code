@@ -3,9 +3,9 @@ title: "Section 579e - Forest service budget restructure"
 usc_title: 16
 usc_section: "579e"
 chapter: 3
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "16 U.S.C. § 579e"
-generated_at: "2026-03-29T21:05:17.237Z"
+generated_at: "2026-03-29T21:09:22.323Z"
 ---
 
 # § 579e. Forest service budget restructure

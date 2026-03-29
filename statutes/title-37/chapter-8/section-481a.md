@@ -3,9 +3,9 @@ title: "Section 481a - Travel and transportation allowances: travel performed in
 usc_title: 37
 usc_section: "481a"
 chapter: 8
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "37 U.S.C. § 481a"
-generated_at: "2026-03-29T21:06:39.244Z"
+generated_at: "2026-03-29T21:10:33.949Z"
 ---
 
 # § 481a. Travel and transportation allowances: travel performed in connection with convalescent leave

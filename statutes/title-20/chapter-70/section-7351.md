@@ -3,9 +3,9 @@ title: "Section 7351 - Program authorized"
 usc_title: 20
 usc_section: "7351"
 chapter: 70
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "20 U.S.C. § 7351"
-generated_at: "2026-03-29T21:05:50.728Z"
+generated_at: "2026-03-29T21:09:14.130Z"
 ---
 
 # § 7351. Program authorized

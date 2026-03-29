@@ -3,9 +3,9 @@ title: "Section 3804 - Coordination with other Federal departments and agencies"
 usc_title: 15
 usc_section: "3804"
 chapter: 64
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "15 U.S.C. § 3804"
-generated_at: "2026-03-29T21:04:59.132Z"
+generated_at: "2026-03-29T21:08:59.651Z"
 ---
 
 # § 3804. Coordination with other Federal departments and agencies

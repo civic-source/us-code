@@ -3,9 +3,9 @@ title: "Section 10825 - Technical assistance"
 usc_title: 42
 usc_section: "10825"
 chapter: 114
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "42 U.S.C. § 10825"
-generated_at: "2026-03-29T21:07:30.334Z"
+generated_at: "2026-03-29T21:11:26.180Z"
 ---
 
 # § 10825. Technical assistance

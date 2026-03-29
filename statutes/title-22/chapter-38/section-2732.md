@@ -3,9 +3,9 @@ title: "Section 2732 - Public diplomacy responsibilities of the Department of St
 usc_title: 22
 usc_section: "2732"
 chapter: 38
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "22 U.S.C. § 2732"
-generated_at: "2026-03-29T21:06:05.035Z"
+generated_at: "2026-03-29T21:09:36.059Z"
 ---
 
 # § 2732. Public diplomacy responsibilities of the Department of State

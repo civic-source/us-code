@@ -3,9 +3,9 @@ title: "Section 3317 - Public-private contributions for additional educational a
 usc_title: 38
 usc_section: "3317"
 chapter: 33
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "38 U.S.C. § 3317"
-generated_at: "2026-03-29T21:06:43.876Z"
+generated_at: "2026-03-29T21:10:55.130Z"
 ---
 
 # § 3317. Public-private contributions for additional educational assistance

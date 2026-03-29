@@ -3,9 +3,9 @@ title: "Section 201 - Penalties; how recovered"
 usc_title: 25
 usc_section: "201"
 chapter: 5
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "25 U.S.C. § 201"
-generated_at: "2026-03-29T21:05:57.715Z"
+generated_at: "2026-03-29T21:09:30.825Z"
 ---
 
 # § 201. Penalties; how recovered

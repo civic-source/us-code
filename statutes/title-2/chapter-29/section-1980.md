@@ -3,9 +3,9 @@ title: "Section 1980 - Mounted horse unit"
 usc_title: 2
 usc_section: "1980"
 chapter: 29
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "2 U.S.C. § 1980"
-generated_at: "2026-03-29T21:03:47.959Z"
+generated_at: "2026-03-29T21:08:16.137Z"
 ---
 
 # § 1980. Mounted horse unit

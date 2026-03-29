@@ -3,9 +3,9 @@ title: "Section 3425 - Competitiveness"
 usc_title: 33
 usc_section: "3425"
 chapter: 47
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "33 U.S.C. § 3425"
-generated_at: "2026-03-29T21:06:36.164Z"
+generated_at: "2026-03-29T21:10:12.241Z"
 ---
 
 # § 3425. Competitiveness

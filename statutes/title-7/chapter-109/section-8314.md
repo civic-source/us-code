@@ -3,9 +3,9 @@ title: "Section 8314 - Enforcement"
 usc_title: 7
 usc_section: "8314"
 chapter: 109
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "7 U.S.C. § 8314"
-generated_at: "2026-03-29T21:04:31.753Z"
+generated_at: "2026-03-29T21:08:28.735Z"
 ---
 
 # § 8314. Enforcement

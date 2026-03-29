@@ -3,9 +3,9 @@ title: "Section 153 - Perfecting bona fide claims to lands; exchange of private 
 usc_title: 24
 usc_section: "153"
 chapter: 3
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "24 U.S.C. § 153"
-generated_at: "2026-03-29T21:05:54.155Z"
+generated_at: "2026-03-29T21:09:28.643Z"
 ---
 
 # § 153. Perfecting bona fide claims to lands; exchange of private lands

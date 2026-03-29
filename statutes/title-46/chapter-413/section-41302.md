@@ -3,9 +3,9 @@ title: "Section 41302 - Investigations"
 usc_title: 46
 usc_section: "41302"
 chapter: 413
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "46 U.S.C. § 41302"
-generated_at: "2026-03-29T21:07:36.080Z"
+generated_at: "2026-03-29T21:11:39.383Z"
 ---
 
 # § 41302. Investigations

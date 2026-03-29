@@ -3,9 +3,9 @@ title: "Section 79n - Authorization of appropriations for rehabilitation program
 usc_title: 16
 usc_section: "79n"
 chapter: 1
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "16 U.S.C. § 79n"
-generated_at: "2026-03-29T21:05:17.041Z"
+generated_at: "2026-03-29T21:09:22.115Z"
 ---
 
 # § 79n. Authorization of appropriations for rehabilitation programs

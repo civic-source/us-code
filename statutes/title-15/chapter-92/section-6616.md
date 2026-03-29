@@ -3,9 +3,9 @@ title: "Section 6616 - Admissible evidence ultimate issue in State courts"
 usc_title: 15
 usc_section: "6616"
 chapter: 92
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "15 U.S.C. § 6616"
-generated_at: "2026-03-29T21:04:59.161Z"
+generated_at: "2026-03-29T21:08:59.678Z"
 ---
 
 # § 6616. Admissible evidence ultimate issue in State courts

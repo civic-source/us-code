@@ -3,9 +3,9 @@ title: "Section 2301 - Purpose"
 usc_title: 20
 usc_section: "2301"
 chapter: 44
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "20 U.S.C. § 2301"
-generated_at: "2026-03-29T21:05:50.653Z"
+generated_at: "2026-03-29T21:09:14.062Z"
 ---
 
 # § 2301. Purpose

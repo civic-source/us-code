@@ -3,9 +3,9 @@ title: "Section 122 - Repealed. June 17, 1930, ch. 497 , title IV, § 651(a)(1),
 usc_title: 19
 usc_section: "122"
 chapter: 3
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "19 U.S.C. § 122"
-generated_at: "2026-03-29T21:05:21.075Z"
+generated_at: "2026-03-29T21:09:06.447Z"
 ---
 
 # § 122. Repealed. June 17, 1930, ch. 497 , title IV, § 651(a)(1), 46 Stat. 762 , eff. June 18, 1930

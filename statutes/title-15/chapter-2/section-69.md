@@ -3,9 +3,9 @@ title: "Section 69 - Definitions"
 usc_title: 15
 usc_section: "69"
 chapter: 2
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "15 U.S.C. § 69"
-generated_at: "2026-03-29T21:04:58.846Z"
+generated_at: "2026-03-29T21:08:59.358Z"
 ---
 
 # § 69. Definitions

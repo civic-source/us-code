@@ -3,9 +3,9 @@ title: "Section 6714 - Relocation services"
 usc_title: 40
 usc_section: "6714"
 chapter: 67
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "40 U.S.C. § 6714"
-generated_at: "2026-03-29T21:06:51.179Z"
+generated_at: "2026-03-29T21:10:43.445Z"
 ---
 
 # § 6714. Relocation services

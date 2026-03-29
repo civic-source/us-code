@@ -3,9 +3,9 @@ title: "Section 155 - National Labor Relations Board; principal office, conducti
 usc_title: 29
 usc_section: "155"
 chapter: 7
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "29 U.S.C. § 155"
-generated_at: "2026-03-29T21:06:18.449Z"
+generated_at: "2026-03-29T21:09:49.234Z"
 ---
 
 # § 155. National Labor Relations Board; principal office, conducting inquiries throughout country; participation in decisions or inquiries conducted by member

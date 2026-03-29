@@ -3,9 +3,9 @@ title: "Section 1385 - Partial withdrawals"
 usc_title: 29
 usc_section: "1385"
 chapter: 18
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "29 U.S.C. § 1385"
-generated_at: "2026-03-29T21:06:18.548Z"
+generated_at: "2026-03-29T21:09:49.332Z"
 ---
 
 # § 1385. Partial withdrawals

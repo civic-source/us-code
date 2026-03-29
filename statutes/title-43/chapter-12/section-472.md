@@ -3,9 +3,9 @@ title: "Section 472 - Installments on entries or applications made after August 
 usc_title: 43
 usc_section: "472"
 chapter: 12
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "43 U.S.C. § 472"
-generated_at: "2026-03-29T21:06:55.233Z"
+generated_at: "2026-03-29T21:11:00.675Z"
 ---
 
 # § 472. Installments on entries or applications made after August 13, 1914 , and prior to December 5, 1924

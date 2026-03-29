@@ -3,9 +3,9 @@ title: "Section 4144 - Use of test and evaluation installations by commercial en
 usc_title: 10
 usc_section: "4144"
 chapter: 307
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "10 U.S.C. § 4144"
-generated_at: "2026-03-29T21:04:40.341Z"
+generated_at: "2026-03-29T21:08:44.230Z"
 ---
 
 # § 4144. Use of test and evaluation installations by commercial entities

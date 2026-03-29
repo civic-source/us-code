@@ -3,9 +3,9 @@ title: "Section 287b - Staff; Deputy Parliamentarian; delegation of functions"
 usc_title: 2
 usc_section: "287b"
 chapter: 9
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "2 U.S.C. § 287b"
-generated_at: "2026-03-29T21:03:47.898Z"
+generated_at: "2026-03-29T21:08:16.076Z"
 ---
 
 # § 287b. Staff; Deputy Parliamentarian; delegation of functions

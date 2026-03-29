@@ -3,9 +3,9 @@ title: "Section 612 - Unpatented mining claims"
 usc_title: 30
 usc_section: "612"
 chapter: 15
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "30 U.S.C. § 612"
-generated_at: "2026-03-29T21:06:08.253Z"
+generated_at: "2026-03-29T21:09:40.169Z"
 ---
 
 # § 612. Unpatented mining claims

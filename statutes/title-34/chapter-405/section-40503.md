@@ -3,9 +3,9 @@ title: "Section 40503 - Use of funds"
 usc_title: 34
 usc_section: "40503"
 chapter: 405
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "34 U.S.C. § 40503"
-generated_at: "2026-03-29T21:06:34.359Z"
+generated_at: "2026-03-29T21:10:13.841Z"
 ---
 
 # § 40503. Use of funds

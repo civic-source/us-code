@@ -3,9 +3,9 @@ title: "Section 11501 - Penalties for specified offenses"
 usc_title: 46
 usc_section: "11501"
 chapter: 115
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "46 U.S.C. § 11501"
-generated_at: "2026-03-29T21:07:36.064Z"
+generated_at: "2026-03-29T21:11:39.364Z"
 ---
 
 # § 11501. Penalties for specified offenses

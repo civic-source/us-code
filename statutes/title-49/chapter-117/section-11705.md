@@ -3,9 +3,9 @@ title: "Section 11705 - Limitation on actions by and against rail carriers"
 usc_title: 49
 usc_section: "11705"
 chapter: 117
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "49 U.S.C. § 11705"
-generated_at: "2026-03-29T21:07:47.556Z"
+generated_at: "2026-03-29T21:11:44.265Z"
 ---
 
 # § 11705. Limitation on actions by and against rail carriers

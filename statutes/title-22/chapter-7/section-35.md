@@ -3,9 +3,9 @@ title: "Section 35 - Construction, operation, and maintenance of works; property
 usc_title: 22
 usc_section: "35"
 chapter: 7
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "22 U.S.C. § 35"
-generated_at: "2026-03-29T21:06:04.926Z"
+generated_at: "2026-03-29T21:09:35.942Z"
 ---
 
 # § 277d–35. Construction, operation, and maintenance of works; property relocation, contracts; transfer of authority

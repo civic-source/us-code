@@ -3,9 +3,9 @@ title: "Section 3987 - Approval of applications"
 usc_title: 20
 usc_section: "3987"
 chapter: 52
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "20 U.S.C. § 3987"
-generated_at: "2026-03-29T21:05:50.672Z"
+generated_at: "2026-03-29T21:09:14.080Z"
 ---
 
 # § 3987. Approval of applications

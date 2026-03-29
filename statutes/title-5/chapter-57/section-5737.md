@@ -3,9 +3,9 @@ title: "Section 5737 - Relocation expenses of an employee who is performing an e
 usc_title: 5
 usc_section: "5737"
 chapter: 57
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "5 U.S.C. § 5737"
-generated_at: "2026-03-29T21:04:21.220Z"
+generated_at: "2026-03-29T21:08:19.095Z"
 ---
 
 # § 5737. Relocation expenses of an employee who is performing an extended assignment

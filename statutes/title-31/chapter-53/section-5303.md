@@ -3,9 +3,9 @@ title: "Section 5303 - Reserved coins and currencies of foreign countries"
 usc_title: 31
 usc_section: "5303"
 chapter: 53
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "31 U.S.C. § 5303"
-generated_at: "2026-03-29T21:06:33.061Z"
+generated_at: "2026-03-29T21:10:31.066Z"
 ---
 
 # § 5303. Reserved coins and currencies of foreign countries

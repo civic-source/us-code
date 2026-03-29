@@ -3,9 +3,9 @@ title: "Section 14107 - Information furnished by the Secretary concerned to prom
 usc_title: 10
 usc_section: "14107"
 chapter: 1403
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "10 U.S.C. § 14107"
-generated_at: "2026-03-29T21:04:40.418Z"
+generated_at: "2026-03-29T21:08:44.308Z"
 ---
 
 # § 14107. Information furnished by the Secretary concerned to promotion boards

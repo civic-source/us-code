@@ -3,9 +3,9 @@ title: "Section 6952 - Development of specifications for secondary materials"
 usc_title: 42
 usc_section: "6952"
 chapter: 82
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "42 U.S.C. § 6952"
-generated_at: "2026-03-29T21:07:30.134Z"
+generated_at: "2026-03-29T21:11:25.936Z"
 ---
 
 # § 6952. Development of specifications for secondary materials

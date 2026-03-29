@@ -3,9 +3,9 @@ title: "Section 2667 - Regulations"
 usc_title: 7
 usc_section: "2667"
 chapter: 59
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "7 U.S.C. § 2667"
-generated_at: "2026-03-29T21:04:31.637Z"
+generated_at: "2026-03-29T21:08:28.616Z"
 ---
 
 # § 2667. Regulations

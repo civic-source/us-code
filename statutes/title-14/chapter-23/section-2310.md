@@ -3,9 +3,9 @@ title: "Section 2310 - Relief of retired enlisted member promoted while on activ
 usc_title: 14
 usc_section: "2310"
 chapter: 23
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "14 U.S.C. § 2310"
-generated_at: "2026-03-29T21:05:05.195Z"
+generated_at: "2026-03-29T21:08:47.297Z"
 ---
 
 # § 2310. Relief of retired enlisted member promoted while on active duty

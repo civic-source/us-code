@@ -3,9 +3,9 @@ title: "Section 2019 - Redemption of program benefits"
 usc_title: 7
 usc_section: "2019"
 chapter: 51
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "7 U.S.C. § 2019"
-generated_at: "2026-03-29T21:04:31.607Z"
+generated_at: "2026-03-29T21:08:28.585Z"
 ---
 
 # § 2019. Redemption of program benefits

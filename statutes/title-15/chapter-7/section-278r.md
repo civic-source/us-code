@@ -3,9 +3,9 @@ title: "Section 278r - Collaborative manufacturing research pilot grants"
 usc_title: 15
 usc_section: "278r"
 chapter: 7
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "15 U.S.C. § 278r"
-generated_at: "2026-03-29T21:04:58.934Z"
+generated_at: "2026-03-29T21:08:59.454Z"
 ---
 
 # § 278r. Collaborative manufacturing research pilot grants

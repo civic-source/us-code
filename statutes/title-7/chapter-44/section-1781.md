@@ -3,9 +3,9 @@ title: "Section 1781 - Repealed. Pub. L. 103–130, § 4(a) , Nov. 1, 1993 , 107
 usc_title: 7
 usc_section: "1781"
 chapter: 44
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "7 U.S.C. § 1781"
-generated_at: "2026-03-29T21:04:31.572Z"
+generated_at: "2026-03-29T21:08:28.551Z"
 ---
 
 # § 1781. Repealed. Pub. L. 103–130, § 4(a) , Nov. 1, 1993 , 107 Stat. 1369

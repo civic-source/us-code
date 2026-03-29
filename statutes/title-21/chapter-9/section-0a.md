@@ -3,9 +3,9 @@ title: "Section 0a - Investigational drugs for use by eligible patients"
 usc_title: 21
 usc_section: "0a"
 chapter: 9
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "21 U.S.C. § 0a"
-generated_at: "2026-03-29T21:06:00.153Z"
+generated_at: "2026-03-29T21:09:28.283Z"
 ---
 
 # § 360bbb–0a. Investigational drugs for use by eligible patients

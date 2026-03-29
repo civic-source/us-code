@@ -3,9 +3,9 @@ title: "Section 2 - Failure to make choice on prescribed day"
 usc_title: 3
 usc_section: "2"
 chapter: 1
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "3 U.S.C. § 2"
-generated_at: "2026-03-29T21:03:45.544Z"
+generated_at: "2026-03-29T21:08:14.113Z"
 ---
 
 # § 2. Failure to make choice on prescribed day

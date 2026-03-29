@@ -3,9 +3,9 @@ title: "Section 1748h - Omitted"
 usc_title: 12
 usc_section: "1748h"
 chapter: 13
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "12 U.S.C. § 1748h"
-generated_at: "2026-03-29T21:05:04.016Z"
+generated_at: "2026-03-29T21:08:53.334Z"
 ---
 
 # §§ 1748g–1, 1748h. Omitted

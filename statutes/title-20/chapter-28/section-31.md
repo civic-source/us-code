@@ -3,9 +3,9 @@ title: "Section 31 - Statement of purpose"
 usc_title: 20
 usc_section: "31"
 chapter: 28
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "20 U.S.C. § 31"
-generated_at: "2026-03-29T21:05:50.546Z"
+generated_at: "2026-03-29T21:09:13.960Z"
 ---
 
 # § 1070d–31. Statement of purpose

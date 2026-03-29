@@ -3,9 +3,9 @@ title: "Section 1103d - Assistance to institutions under other programs"
 usc_title: 20
 usc_section: "1103d"
 chapter: 28
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "20 U.S.C. § 1103d"
-generated_at: "2026-03-29T21:05:50.604Z"
+generated_at: "2026-03-29T21:09:14.016Z"
 ---
 
 # § 1103d. Assistance to institutions under other programs

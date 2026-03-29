@@ -3,9 +3,9 @@ title: "Section 717m - Investigations by Commission"
 usc_title: 15
 usc_section: "717m"
 chapter: 15
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "15 U.S.C. § 717m"
-generated_at: "2026-03-29T21:04:58.996Z"
+generated_at: "2026-03-29T21:08:59.517Z"
 ---
 
 # § 717m. Investigations by Commission

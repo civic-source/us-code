@@ -3,9 +3,9 @@ title: "Section 2894 - Landlord-tenant dispute resolution process and treatment 
 usc_title: 10
 usc_section: "2894"
 chapter: 169
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "10 U.S.C. § 2894"
-generated_at: "2026-03-29T21:04:40.319Z"
+generated_at: "2026-03-29T21:08:44.208Z"
 ---
 
 # § 2894. Landlord-tenant dispute resolution process and treatment of certain payments during process

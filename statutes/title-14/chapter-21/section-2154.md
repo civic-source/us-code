@@ -3,9 +3,9 @@ title: "Section 2154 - Compulsory retirement"
 usc_title: 14
 usc_section: "2154"
 chapter: 21
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "14 U.S.C. § 2154"
-generated_at: "2026-03-29T21:05:05.194Z"
+generated_at: "2026-03-29T21:08:47.297Z"
 ---
 
 # § 2154. Compulsory retirement

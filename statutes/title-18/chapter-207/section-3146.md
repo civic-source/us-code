@@ -3,9 +3,9 @@ title: "Section 3146 - Penalty for failure to appear"
 usc_title: 18
 usc_section: "3146"
 chapter: 207
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "18 U.S.C. § 3146"
-generated_at: "2026-03-29T21:05:11.249Z"
+generated_at: "2026-03-29T21:09:09.461Z"
 ---
 
 # § 3146. Penalty for failure to appear

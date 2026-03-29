@@ -3,9 +3,9 @@ title: "Section 3713 - Authority for urgent threat reduction activities under De
 usc_title: 50
 usc_section: "3713"
 chapter: 48
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "50 U.S.C. § 3713"
-generated_at: "2026-03-29T21:07:38.547Z"
+generated_at: "2026-03-29T21:11:35.861Z"
 ---
 
 # § 3713. Authority for urgent threat reduction activities under Department of Defense Cooperative Threat Reduction Program

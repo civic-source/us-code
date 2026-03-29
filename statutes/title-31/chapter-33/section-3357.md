@@ -3,9 +3,9 @@ title: "Section 3357 - Financial and administrative controls relating to fraud a
 usc_title: 31
 usc_section: "3357"
 chapter: 33
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "31 U.S.C. § 3357"
-generated_at: "2026-03-29T21:06:33.042Z"
+generated_at: "2026-03-29T21:10:31.045Z"
 ---
 
 # § 3357. Financial and administrative controls relating to fraud and improper payments

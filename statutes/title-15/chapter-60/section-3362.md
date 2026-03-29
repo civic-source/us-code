@@ -3,9 +3,9 @@ title: "Section 3362 - Emergency purchase authority"
 usc_title: 15
 usc_section: "3362"
 chapter: 60
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "15 U.S.C. § 3362"
-generated_at: "2026-03-29T21:04:59.120Z"
+generated_at: "2026-03-29T21:08:59.641Z"
 ---
 
 # § 3362. Emergency purchase authority

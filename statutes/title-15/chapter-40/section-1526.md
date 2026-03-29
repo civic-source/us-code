@@ -3,9 +3,9 @@ title: "Section 1526 - Receipts for work or services; deposit in special account
 usc_title: 15
 usc_section: "1526"
 chapter: 40
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "15 U.S.C. § 1526"
-generated_at: "2026-03-29T21:04:59.030Z"
+generated_at: "2026-03-29T21:08:59.552Z"
 ---
 
 # § 1526. Receipts for work or services; deposit in special accounts; availability for payment of costs, repayment or advances to appropriations or funds, refunds, credits to working capital funds; appropriation limitation of annual expenditures from accounts

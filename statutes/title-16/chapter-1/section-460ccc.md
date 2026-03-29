@@ -3,9 +3,9 @@ title: "Section 460ccc - Definitions"
 usc_title: 16
 usc_section: "460ccc"
 chapter: 1
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "16 U.S.C. § 460ccc"
-generated_at: "2026-03-29T21:05:17.182Z"
+generated_at: "2026-03-29T21:09:22.264Z"
 ---
 
 # § 460ccc. Definitions

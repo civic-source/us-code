@@ -3,9 +3,9 @@ title: "Section 869 - Fees payable by United States out of revenue of Puerto Ric
 usc_title: 48
 usc_section: "869"
 chapter: 4
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "48 U.S.C. § 869"
-generated_at: "2026-03-29T21:07:34.388Z"
+generated_at: "2026-03-29T21:11:37.274Z"
 ---
 
 # § 869. Fees payable by United States out of revenue of Puerto Rico

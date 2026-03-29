@@ -3,9 +3,9 @@ title: "Section 824k - Orders requiring interconnection or wheeling"
 usc_title: 16
 usc_section: "824k"
 chapter: 12
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "16 U.S.C. § 824k"
-generated_at: "2026-03-29T21:05:17.290Z"
+generated_at: "2026-03-29T21:09:22.384Z"
 ---
 
 # § 824k. Orders requiring interconnection or wheeling

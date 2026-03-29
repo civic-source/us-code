@@ -3,9 +3,9 @@ title: "Section 1355 - Suspension of processing tax on coconut oil"
 usc_title: 22
 usc_section: "1355"
 chapter: 15
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "22 U.S.C. § 1355"
-generated_at: "2026-03-29T21:06:04.956Z"
+generated_at: "2026-03-29T21:09:35.974Z"
 ---
 
 # § 1355. Suspension of processing tax on coconut oil

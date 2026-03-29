@@ -3,9 +3,9 @@ title: "Section 7584 - Administration and enforcement as per California standard
 usc_title: 42
 usc_section: "7584"
 chapter: 85
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "42 U.S.C. § 7584"
-generated_at: "2026-03-29T21:07:30.198Z"
+generated_at: "2026-03-29T21:11:26.021Z"
 ---
 
 # § 7584. Administration and enforcement as per California standards

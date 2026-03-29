@@ -3,9 +3,9 @@ title: "Section 2304 - Definitions"
 usc_title: 42
 usc_section: "2304"
 chapter: 24
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "42 U.S.C. § 2304"
-generated_at: "2026-03-29T21:07:29.955Z"
+generated_at: "2026-03-29T21:11:25.683Z"
 ---
 
 # § 2304. Definitions

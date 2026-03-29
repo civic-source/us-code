@@ -3,9 +3,9 @@ title: "Section 474b - Travel and transportation allowances: payment of lodging 
 usc_title: 37
 usc_section: "474b"
 chapter: 8
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "37 U.S.C. § 474b"
-generated_at: "2026-03-29T21:06:39.240Z"
+generated_at: "2026-03-29T21:10:33.946Z"
 ---
 
 # § 474b. Travel and transportation allowances: payment of lodging expenses at temporary duty location during authorized absence of member

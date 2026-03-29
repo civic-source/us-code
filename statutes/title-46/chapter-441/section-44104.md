@@ -3,9 +3,9 @@ title: "Section 44104 - Civil penalty"
 usc_title: 46
 usc_section: "44104"
 chapter: 441
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "46 U.S.C. § 44104"
-generated_at: "2026-03-29T21:07:36.081Z"
+generated_at: "2026-03-29T21:11:39.385Z"
 ---
 
 # § 44104. Civil penalty

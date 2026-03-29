@@ -3,9 +3,9 @@ title: "Section 387o - Regulation requirement"
 usc_title: 21
 usc_section: "387o"
 chapter: 9
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "21 U.S.C. § 387o"
-generated_at: "2026-03-29T21:06:00.203Z"
+generated_at: "2026-03-29T21:09:28.355Z"
 ---
 
 # § 387o. Regulation requirement

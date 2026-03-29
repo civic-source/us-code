@@ -3,9 +3,9 @@ title: "Section 36 - Staff of Commission"
 usc_title: 16
 usc_section: "36"
 chapter: 1
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "16 U.S.C. § 36"
-generated_at: "2026-03-29T21:05:17.087Z"
+generated_at: "2026-03-29T21:09:22.161Z"
 ---
 
 # § 410cc–36. Staff of Commission

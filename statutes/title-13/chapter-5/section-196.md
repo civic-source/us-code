@@ -3,9 +3,9 @@ title: "Section 196 - Special censuses"
 usc_title: 13
 usc_section: "196"
 chapter: 5
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "13 U.S.C. § 196"
-generated_at: "2026-03-29T21:04:49.434Z"
+generated_at: "2026-03-29T21:08:46.689Z"
 ---
 
 # § 196. Special censuses

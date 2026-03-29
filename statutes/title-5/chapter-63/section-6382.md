@@ -3,9 +3,9 @@ title: "Section 6382 - Leave requirement"
 usc_title: 5
 usc_section: "6382"
 chapter: 63
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "5 U.S.C. § 6382"
-generated_at: "2026-03-29T21:04:21.305Z"
+generated_at: "2026-03-29T21:08:19.104Z"
 ---
 
 # § 6382. Leave requirement

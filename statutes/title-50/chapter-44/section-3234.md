@@ -3,9 +3,9 @@ title: "Section 3234 - Prohibited personnel practices in the intelligence commun
 usc_title: 50
 usc_section: "3234"
 chapter: 44
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "50 U.S.C. § 3234"
-generated_at: "2026-03-29T21:07:38.526Z"
+generated_at: "2026-03-29T21:11:35.833Z"
 ---
 
 # § 3234. Prohibited personnel practices in the intelligence community

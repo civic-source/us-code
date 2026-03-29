@@ -3,9 +3,9 @@ title: "Section 304 - Annual report on embassy construction costs"
 usc_title: 22
 usc_section: "304"
 chapter: 8
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "22 U.S.C. § 304"
-generated_at: "2026-03-29T21:06:04.949Z"
+generated_at: "2026-03-29T21:09:35.968Z"
 ---
 
 # § 304. Annual report on embassy construction costs

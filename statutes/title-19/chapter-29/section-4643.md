@@ -3,9 +3,9 @@ title: "Section 4643 - Enforcement priorities"
 usc_title: 19
 usc_section: "4643"
 chapter: 29
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "19 U.S.C. § 4643"
-generated_at: "2026-03-29T21:05:21.214Z"
+generated_at: "2026-03-29T21:09:06.616Z"
 ---
 
 # § 4643. Enforcement priorities

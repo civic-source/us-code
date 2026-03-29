@@ -3,9 +3,9 @@ title: "Section 992 - Terms of office; compensation"
 usc_title: 28
 usc_section: "992"
 chapter: 58
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "28 U.S.C. § 992"
-generated_at: "2026-03-29T21:06:09.681Z"
+generated_at: "2026-03-29T21:09:45.162Z"
 ---
 
 # § 992. Terms of office; compensation

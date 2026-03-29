@@ -3,9 +3,9 @@ title: "Section 3717 - National Quality Council"
 usc_title: 15
 usc_section: "3717"
 chapter: 63
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "15 U.S.C. § 3717"
-generated_at: "2026-03-29T21:04:59.128Z"
+generated_at: "2026-03-29T21:08:59.648Z"
 ---
 
 # § 3717. National Quality Council

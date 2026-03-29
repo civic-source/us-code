@@ -3,9 +3,9 @@ title: "Section 5317 - Search and forfeiture of monetary instruments"
 usc_title: 31
 usc_section: "5317"
 chapter: 53
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "31 U.S.C. § 5317"
-generated_at: "2026-03-29T21:06:33.062Z"
+generated_at: "2026-03-29T21:10:31.067Z"
 ---
 
 # § 5317. Search and forfeiture of monetary instruments

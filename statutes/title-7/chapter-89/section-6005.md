@@ -3,9 +3,9 @@ title: "Section 6005 - Required terms in plans"
 usc_title: 7
 usc_section: "6005"
 chapter: 89
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "7 U.S.C. § 6005"
-generated_at: "2026-03-29T21:04:31.682Z"
+generated_at: "2026-03-29T21:08:28.663Z"
 ---
 
 # § 6005. Required terms in plans

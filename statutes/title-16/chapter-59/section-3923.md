@@ -3,9 +3,9 @@ title: "Section 3923 - Restriction on use of eminent domain in acquisitions"
 usc_title: 16
 usc_section: "3923"
 chapter: 59
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "16 U.S.C. § 3923"
-generated_at: "2026-03-29T21:05:17.437Z"
+generated_at: "2026-03-29T21:09:22.544Z"
 ---
 
 # § 3923. Restriction on use of eminent domain in acquisitions

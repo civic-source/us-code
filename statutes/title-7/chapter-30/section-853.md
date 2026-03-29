@@ -3,9 +3,9 @@ title: "Section 853 - Terms and conditions of marketing agreements"
 usc_title: 7
 usc_section: "853"
 chapter: 30
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "7 U.S.C. § 853"
-generated_at: "2026-03-29T21:04:31.504Z"
+generated_at: "2026-03-29T21:08:28.482Z"
 ---
 
 # § 853. Terms and conditions of marketing agreements

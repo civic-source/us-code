@@ -3,9 +3,9 @@ title: "Section 7519 - Required payments for entities electing not to have requi
 usc_title: 26
 usc_section: "7519"
 chapter: 77
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "26 U.S.C. § 7519"
-generated_at: "2026-03-29T21:06:29.010Z"
+generated_at: "2026-03-29T21:10:05.373Z"
 ---
 
 # § 7519. Required payments for entities electing not to have required taxable year

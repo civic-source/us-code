@@ -3,9 +3,9 @@ title: "Section 1454 - Purchase and sale of mortgages; residential mortgages; co
 usc_title: 12
 usc_section: "1454"
 chapter: 11
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "12 U.S.C. § 1454"
-generated_at: "2026-03-29T21:05:03.952Z"
+generated_at: "2026-03-29T21:08:53.263Z"
 ---
 
 # § 1454. Purchase and sale of mortgages; residential mortgages; conventional mortgages; terms and conditions of sale or other disposition; authority to enter into, perform, and carry out transactions

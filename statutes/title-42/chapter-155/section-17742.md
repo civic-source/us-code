@@ -3,9 +3,9 @@ title: "Section 17742 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "17742"
 chapter: 155
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "42 U.S.C. § 17742"
-generated_at: "2026-03-29T21:07:30.515Z"
+generated_at: "2026-03-29T21:11:26.417Z"
 ---
 
 # §§ 17741, 17742. Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 Stat. 3444

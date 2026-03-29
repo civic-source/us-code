@@ -3,9 +3,9 @@ title: "Section 12647 - Commissioned officers: retention in active status while 
 usc_title: 10
 usc_section: "12647"
 chapter: 1219
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "10 U.S.C. § 12647"
-generated_at: "2026-03-29T21:04:40.415Z"
+generated_at: "2026-03-29T21:08:44.306Z"
 ---
 
 # § 12647. Commissioned officers: retention in active status while assigned to Selective Service System or serving as United States property and fiscal officers

@@ -3,9 +3,9 @@ title: "Section 1054 - Benefit accrual requirements"
 usc_title: 29
 usc_section: "1054"
 chapter: 18
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "29 U.S.C. § 1054"
-generated_at: "2026-03-29T21:06:18.501Z"
+generated_at: "2026-03-29T21:09:49.284Z"
 ---
 
 # § 1054. Benefit accrual requirements

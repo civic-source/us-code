@@ -3,9 +3,9 @@ title: "Section 5581 - Participation by House in interparliamentary institutions
 usc_title: 2
 usc_section: "5581"
 chapter: 55
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "2 U.S.C. § 5581"
-generated_at: "2026-03-29T21:03:47.985Z"
+generated_at: "2026-03-29T21:08:16.160Z"
 ---
 
 # § 5581. Participation by House in interparliamentary institutions; reception of members of foreign legislative bodies and foreign officials; meetings with Government officials

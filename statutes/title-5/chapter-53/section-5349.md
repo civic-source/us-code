@@ -3,9 +3,9 @@ title: "Section 5349 - Prevailing rate employees; legislative, judicial, Bureau 
 usc_title: 5
 usc_section: "5349"
 chapter: 53
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "5 U.S.C. § 5349"
-generated_at: "2026-03-29T21:04:21.205Z"
+generated_at: "2026-03-29T21:08:19.082Z"
 ---
 
 # § 5349. Prevailing rate employees; legislative, judicial, Bureau of Engraving and Printing, and government of the District of Columbia

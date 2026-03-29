@@ -3,9 +3,9 @@ title: "Section 5 - Repealed. Pub. L. 101–624, title XI, § 1161(a)(2) , Nov. 
 usc_title: 7
 usc_section: "5"
 chapter: 35
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "7 U.S.C. § 5"
-generated_at: "2026-03-29T21:04:31.534Z"
+generated_at: "2026-03-29T21:08:28.511Z"
 ---
 
 # § 1445b–5. Repealed. Pub. L. 101–624, title XI, § 1161(a)(2) , Nov. 28, 1990 , 104 Stat. 3520

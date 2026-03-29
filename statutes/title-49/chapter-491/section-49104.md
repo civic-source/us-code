@@ -3,9 +3,9 @@ title: "Section 49104 - Lease of Metropolitan Washington Airports"
 usc_title: 49
 usc_section: "49104"
 chapter: 491
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "49 U.S.C. § 49104"
-generated_at: "2026-03-29T21:07:47.687Z"
+generated_at: "2026-03-29T21:11:44.442Z"
 ---
 
 # § 49104. Lease of Metropolitan Washington Airports

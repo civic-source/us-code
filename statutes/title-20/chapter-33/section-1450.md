@@ -3,9 +3,9 @@ title: "Section 1450 - Findings"
 usc_title: 20
 usc_section: "1450"
 chapter: 33
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "20 U.S.C. § 1450"
-generated_at: "2026-03-29T21:05:50.645Z"
+generated_at: "2026-03-29T21:09:14.054Z"
 ---
 
 # § 1450. Findings

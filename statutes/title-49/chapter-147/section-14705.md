@@ -3,9 +3,9 @@ title: "Section 14705 - Limitation on actions by and against carriers"
 usc_title: 49
 usc_section: "14705"
 chapter: 147
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "49 U.S.C. § 14705"
-generated_at: "2026-03-29T21:07:47.568Z"
+generated_at: "2026-03-29T21:11:44.282Z"
 ---
 
 # § 14705. Limitation on actions by and against carriers

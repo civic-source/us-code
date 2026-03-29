@@ -3,9 +3,9 @@ title: "Section 60108 - Inspection and maintenance"
 usc_title: 49
 usc_section: "60108"
 chapter: 601
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "49 U.S.C. § 60108"
-generated_at: "2026-03-29T21:07:47.691Z"
+generated_at: "2026-03-29T21:11:44.450Z"
 ---
 
 # § 60108. Inspection and maintenance

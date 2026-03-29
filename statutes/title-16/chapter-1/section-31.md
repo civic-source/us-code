@@ -3,9 +3,9 @@ title: "Section 31 - Trust Fund"
 usc_title: 16
 usc_section: "31"
 chapter: 1
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "16 U.S.C. § 31"
-generated_at: "2026-03-29T21:05:17.188Z"
+generated_at: "2026-03-29T21:09:22.271Z"
 ---
 
 # § 460lll–31. Trust Fund

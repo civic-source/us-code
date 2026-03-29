@@ -3,9 +3,9 @@ title: "Section 2704 - Equipment to prevent accidents"
 usc_title: 14
 usc_section: "2704"
 chapter: 27
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "14 U.S.C. § 2704"
-generated_at: "2026-03-29T21:05:05.198Z"
+generated_at: "2026-03-29T21:08:47.299Z"
 ---
 
 # § 2704. Equipment to prevent accidents

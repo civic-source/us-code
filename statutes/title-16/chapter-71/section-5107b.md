@@ -3,9 +3,9 @@ title: "Section 5107b - Transition to management of American lobster fishery by 
 usc_title: 16
 usc_section: "5107b"
 chapter: 71
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "16 U.S.C. § 5107b"
-generated_at: "2026-03-29T21:05:17.453Z"
+generated_at: "2026-03-29T21:09:22.561Z"
 ---
 
 # § 5107b. Transition to management of American lobster fishery by Commission

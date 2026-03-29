@@ -3,9 +3,9 @@ title: "Section 2141 - Authority to maintain existing areas of conformity betwee
 usc_title: 50
 usc_section: "2141"
 chapter: 38
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "50 U.S.C. § 2141"
-generated_at: "2026-03-29T21:07:38.482Z"
+generated_at: "2026-03-29T21:11:35.776Z"
 ---
 
 # § 2141. Authority to maintain existing areas of conformity between Civil Service and Central Intelligence Agency Retirement and Disability Systems

@@ -3,9 +3,9 @@ title: "Section 9905 - Definitions"
 usc_title: 20
 usc_section: "9905"
 chapter: 79
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "20 U.S.C. § 9905"
-generated_at: "2026-03-29T21:05:50.765Z"
+generated_at: "2026-03-29T21:09:14.173Z"
 ---
 
 # § 9905. Definitions

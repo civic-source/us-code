@@ -3,9 +3,9 @@ title: "Section 4581 - Aggregate gross compensation of employee of Senator of St
 usc_title: 2
 usc_section: "4581"
 chapter: 45
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "2 U.S.C. § 4581"
-generated_at: "2026-03-29T21:03:47.978Z"
+generated_at: "2026-03-29T21:08:16.153Z"
 ---
 
 # § 4581. Aggregate gross compensation of employee of Senator of State with population under 5,000,000

@@ -3,9 +3,9 @@ title: "Section 392 - Payments into reclamation fund of moneys received from ent
 usc_title: 43
 usc_section: "392"
 chapter: 12
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "43 U.S.C. § 392"
-generated_at: "2026-03-29T21:06:55.225Z"
+generated_at: "2026-03-29T21:11:00.665Z"
 ---
 
 # § 392. Payments into reclamation fund of moneys received from entrymen and water right applicants

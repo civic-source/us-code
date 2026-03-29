@@ -3,9 +3,9 @@ title: "Section 891 - Repealed. Pub. L. 93–197, § 3(b) , Dec. 22, 1973 , 87 S
 usc_title: 25
 usc_section: "891"
 chapter: 14
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "25 U.S.C. § 891"
-generated_at: "2026-03-29T21:05:57.734Z"
+generated_at: "2026-03-29T21:09:30.848Z"
 ---
 
 # § 891. Repealed. Pub. L. 93–197, § 3(b) , Dec. 22, 1973 , 87 Stat. 770

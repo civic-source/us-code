@@ -3,9 +3,9 @@ title: "Section 925 - Budget request for school construction funds for Director 
 usc_title: 20
 usc_section: "925"
 chapter: 25
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "20 U.S.C. § 925"
-generated_at: "2026-03-29T21:05:50.502Z"
+generated_at: "2026-03-29T21:09:13.926Z"
 ---
 
 # § 925. Budget request for school construction funds for Director of Dependents’ Education

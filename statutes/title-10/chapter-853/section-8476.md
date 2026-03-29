@@ -3,9 +3,9 @@ title: "Section 8476 - Operation of Naval Academy dairy farm"
 usc_title: 10
 usc_section: "8476"
 chapter: 853
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "10 U.S.C. § 8476"
-generated_at: "2026-03-29T21:04:40.378Z"
+generated_at: "2026-03-29T21:08:44.269Z"
 ---
 
 # § 8476. Operation of Naval Academy dairy farm

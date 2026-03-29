@@ -3,9 +3,9 @@ title: "Section 3394 - Noncareer and limited appointments"
 usc_title: 5
 usc_section: "3394"
 chapter: 33
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "5 U.S.C. § 3394"
-generated_at: "2026-03-29T21:04:21.192Z"
+generated_at: "2026-03-29T21:08:19.070Z"
 ---
 
 # § 3394. Noncareer and limited appointments

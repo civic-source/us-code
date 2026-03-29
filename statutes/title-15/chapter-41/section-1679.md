@@ -3,9 +3,9 @@ title: "Section 1679 - Findings and purposes"
 usc_title: 15
 usc_section: "1679"
 chapter: 41
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "15 U.S.C. § 1679"
-generated_at: "2026-03-29T21:04:59.048Z"
+generated_at: "2026-03-29T21:08:59.569Z"
 ---
 
 # § 1679. Findings and purposes

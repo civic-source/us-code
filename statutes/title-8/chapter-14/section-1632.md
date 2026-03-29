@@ -3,9 +3,9 @@ title: "Section 1632 - Authority for States to provide for attribution of sponso
 usc_title: 8
 usc_section: "1632"
 chapter: 14
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "8 U.S.C. § 1632"
-generated_at: "2026-03-29T21:04:41.547Z"
+generated_at: "2026-03-29T21:08:22.367Z"
 ---
 
 # § 1632. Authority for States to provide for attribution of sponsors income and resources to the alien with respect to State programs

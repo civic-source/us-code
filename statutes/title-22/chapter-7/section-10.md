@@ -3,9 +3,9 @@ title: "Section 10 - Effectiveness of Convention"
 usc_title: 22
 usc_section: "10"
 chapter: 7
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "22 U.S.C. § 10"
-generated_at: "2026-03-29T21:06:04.946Z"
+generated_at: "2026-03-29T21:09:35.964Z"
 ---
 
 # § 290k–10. Effectiveness of Convention

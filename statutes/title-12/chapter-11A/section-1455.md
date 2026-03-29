@@ -3,9 +3,9 @@ title: "Section 1455 - Obligations and securities of the Corporation"
 usc_title: 12
 usc_section: "1455"
 chapter: 11
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "12 U.S.C. § 1455"
-generated_at: "2026-03-29T21:05:03.953Z"
+generated_at: "2026-03-29T21:08:53.263Z"
 ---
 
 # § 1455. Obligations and securities of the Corporation

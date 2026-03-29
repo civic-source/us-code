@@ -3,9 +3,9 @@ title: "Section 4024 - Technical assistance"
 usc_title: 25
 usc_section: "4024"
 chapter: 42
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "25 U.S.C. § 4024"
-generated_at: "2026-03-29T21:05:57.807Z"
+generated_at: "2026-03-29T21:09:30.937Z"
 ---
 
 # § 4024. Technical assistance

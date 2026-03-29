@@ -3,9 +3,9 @@ title: "Section 411 - Establishment and operation of experimental plant"
 usc_title: 30
 usc_section: "411"
 chapter: 9
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "30 U.S.C. § 411"
-generated_at: "2026-03-29T21:06:08.249Z"
+generated_at: "2026-03-29T21:09:40.164Z"
 ---
 
 # § 411. Establishment and operation of experimental plant

@@ -3,9 +3,9 @@ title: "Section 111 - Payments or allowances for beneficiary travel"
 usc_title: 38
 usc_section: "111"
 chapter: 1
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "38 U.S.C. § 111"
-generated_at: "2026-03-29T21:06:43.812Z"
+generated_at: "2026-03-29T21:10:55.041Z"
 ---
 
 # § 111. Payments or allowances for beneficiary travel

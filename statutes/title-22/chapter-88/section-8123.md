@@ -3,9 +3,9 @@ title: "Section 8123 - Consents, warrants, and complementary access"
 usc_title: 22
 usc_section: "8123"
 chapter: 88
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "22 U.S.C. § 8123"
-generated_at: "2026-03-29T21:06:05.146Z"
+generated_at: "2026-03-29T21:09:36.171Z"
 ---
 
 # § 8123. Consents, warrants, and complementary access

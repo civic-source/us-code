@@ -3,9 +3,9 @@ title: "Section 4236 - Individual compensation of eligible Aleuts"
 usc_title: 50
 usc_section: "4236"
 chapter: 52
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "50 U.S.C. § 4236"
-generated_at: "2026-03-29T21:07:38.564Z"
+generated_at: "2026-03-29T21:11:35.881Z"
 ---
 
 # § 4236. Individual compensation of eligible Aleuts

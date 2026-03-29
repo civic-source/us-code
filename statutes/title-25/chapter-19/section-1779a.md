@@ -3,9 +3,9 @@ title: "Section 1779a - Omitted"
 usc_title: 25
 usc_section: "1779a"
 chapter: 19
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "25 U.S.C. § 1779a"
-generated_at: "2026-03-29T21:05:57.762Z"
+generated_at: "2026-03-29T21:09:30.886Z"
 ---
 
 # § 1779a. Omitted

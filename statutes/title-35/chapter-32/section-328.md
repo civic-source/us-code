@@ -3,9 +3,9 @@ title: "Section 328 - Decision of the Board"
 usc_title: 35
 usc_section: "328"
 chapter: 32
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "35 U.S.C. § 328"
-generated_at: "2026-03-29T21:06:31.417Z"
+generated_at: "2026-03-29T21:10:15.396Z"
 ---
 
 # § 328. Decision of the Board

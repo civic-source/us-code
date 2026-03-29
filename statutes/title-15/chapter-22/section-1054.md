@@ -3,9 +3,9 @@ title: "Section 1054 - Collective marks and certification marks registrable"
 usc_title: 15
 usc_section: "1054"
 chapter: 22
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "15 U.S.C. § 1054"
-generated_at: "2026-03-29T21:04:59.008Z"
+generated_at: "2026-03-29T21:08:59.531Z"
 ---
 
 # § 1054. Collective marks and certification marks registrable

@@ -3,9 +3,9 @@ title: "Section 4955 - Subcontractor information"
 usc_title: 10
 usc_section: "4955"
 chapter: 388
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "10 U.S.C. § 4955"
-generated_at: "2026-03-29T21:04:40.356Z"
+generated_at: "2026-03-29T21:08:44.246Z"
 ---
 
 # § 4955. Subcontractor information

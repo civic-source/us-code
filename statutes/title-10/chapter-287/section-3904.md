@@ -3,9 +3,9 @@ title: "Section 3904 - Research and educational programs and activities: histori
 usc_title: 10
 usc_section: "3904"
 chapter: 287
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "10 U.S.C. § 3904"
-generated_at: "2026-03-29T21:04:40.338Z"
+generated_at: "2026-03-29T21:08:44.227Z"
 ---
 
 # § 3904. Research and educational programs and activities: historically black colleges and universities and minority-serving institutions of higher education

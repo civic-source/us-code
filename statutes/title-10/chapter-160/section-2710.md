@@ -3,9 +3,9 @@ title: "Section 2710 - Inventory of unexploded ordnance, discarded military muni
 usc_title: 10
 usc_section: "2710"
 chapter: 160
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "10 U.S.C. § 2710"
-generated_at: "2026-03-29T21:04:40.307Z"
+generated_at: "2026-03-29T21:08:44.195Z"
 ---
 
 # § 2710. Inventory of unexploded ordnance, discarded military munitions, and munitions constituents at defense sites (other than operational ranges)

@@ -3,9 +3,9 @@ title: "Section 5197h - Minority emergency preparedness demonstration program"
 usc_title: 42
 usc_section: "5197h"
 chapter: 68
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "42 U.S.C. § 5197h"
-generated_at: "2026-03-29T21:07:30.059Z"
+generated_at: "2026-03-29T21:11:25.829Z"
 ---
 
 # § 5197h. Minority emergency preparedness demonstration program

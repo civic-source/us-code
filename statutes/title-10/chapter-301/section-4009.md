@@ -3,9 +3,9 @@ title: "Section 4009 - Technology protection features activities"
 usc_title: 10
 usc_section: "4009"
 chapter: 301
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "10 U.S.C. § 4009"
-generated_at: "2026-03-29T21:04:40.339Z"
+generated_at: "2026-03-29T21:08:44.228Z"
 ---
 
 # § 4009. Technology protection features activities

@@ -3,9 +3,9 @@ title: "Section 2649 - Civilian passengers and commercial cargoes: transportatio
 usc_title: 10
 usc_section: "2649"
 chapter: 157
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "10 U.S.C. § 2649"
-generated_at: "2026-03-29T21:04:40.298Z"
+generated_at: "2026-03-29T21:08:44.187Z"
 ---
 
 # § 2649. Civilian passengers and commercial cargoes: transportation on Department of Defense vessels, vehicles, and aircraft

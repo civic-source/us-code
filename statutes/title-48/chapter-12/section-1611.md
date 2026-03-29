@@ -3,9 +3,9 @@ title: "Section 1611 - District Court of Virgin Islands; local courts; jurisdict
 usc_title: 48
 usc_section: "1611"
 chapter: 12
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "48 U.S.C. § 1611"
-generated_at: "2026-03-29T21:07:34.401Z"
+generated_at: "2026-03-29T21:11:37.291Z"
 ---
 
 # § 1611. District Court of Virgin Islands; local courts; jurisdiction; practice and procedure

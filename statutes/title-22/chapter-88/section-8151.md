@@ -3,9 +3,9 @@ title: "Section 8151 - Notification to Congress of IAEA Board approval of wide-a
 usc_title: 22
 usc_section: "8151"
 chapter: 88
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "22 U.S.C. § 8151"
-generated_at: "2026-03-29T21:06:05.146Z"
+generated_at: "2026-03-29T21:09:36.172Z"
 ---
 
 # § 8151. Notification to Congress of IAEA Board approval of wide-area environmental sampling

@@ -3,9 +3,9 @@ title: "Section 8013a - Secretary of the Navy: powers with respect to Coast Guar
 usc_title: 10
 usc_section: "8013a"
 chapter: 803
-current_through: "PL 117-36"
+current_through: "PL 117-38"
 classification: "10 U.S.C. § 8013a"
-generated_at: "2026-03-29T21:04:40.369Z"
+generated_at: "2026-03-29T21:08:44.259Z"
 ---
 
 # § 8013a. Secretary of the Navy: powers with respect to Coast Guard
