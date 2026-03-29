@@ -3,9 +3,9 @@ title: "Section 1596 - Foreign language proficiency: special pay for proficiency
 usc_title: 10
 usc_section: "1596"
 chapter: 81
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "10 U.S.C. § 1596"
-generated_at: "2026-03-29T22:42:13.483Z"
+generated_at: "2026-03-29T22:47:53.241Z"
 ---
 
 # § 1596. Foreign language proficiency: special pay for proficiency beneficial for intelligence interests

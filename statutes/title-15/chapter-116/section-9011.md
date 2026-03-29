@@ -3,9 +3,9 @@ title: "Section 9011 - Subsidy for certain loan payments"
 usc_title: 15
 usc_section: "9011"
 chapter: 116
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "15 U.S.C. § 9011"
-generated_at: "2026-03-29T22:42:31.989Z"
+generated_at: "2026-03-29T22:48:36.512Z"
 ---
 
 # § 9011. Subsidy for certain loan payments

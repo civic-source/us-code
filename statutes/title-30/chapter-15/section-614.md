@@ -3,9 +3,9 @@ title: "Section 614 - Waiver of rights"
 usc_title: 30
 usc_section: "614"
 chapter: 15
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "30 U.S.C. § 614"
-generated_at: "2026-03-29T22:43:38.416Z"
+generated_at: "2026-03-29T22:49:26.331Z"
 ---
 
 # § 614. Waiver of rights

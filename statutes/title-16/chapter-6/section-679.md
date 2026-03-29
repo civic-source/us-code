@@ -3,9 +3,9 @@ title: "Section 679 - Patents to State of South Dakota of certain lands in Custe
 usc_title: 16
 usc_section: "679"
 chapter: 6
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "16 U.S.C. § 679"
-generated_at: "2026-03-29T22:42:48.883Z"
+generated_at: "2026-03-29T22:48:52.844Z"
 ---
 
 # § 679. Patents to State of South Dakota of certain lands in Custer State Park; reservation of coal, oil, gas, and other mineral rights

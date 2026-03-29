@@ -3,9 +3,9 @@ title: "Section 8294 - Silver star medal"
 usc_title: 10
 usc_section: "8294"
 chapter: 837
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "10 U.S.C. § 8294"
-generated_at: "2026-03-29T22:42:13.655Z"
+generated_at: "2026-03-29T22:47:53.395Z"
 ---
 
 # § 8294. Silver star medal

@@ -3,9 +3,9 @@ title: "Section 591g - Mission of the Office"
 usc_title: 6
 usc_section: "591g"
 chapter: 1
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "6 U.S.C. § 591g"
-generated_at: "2026-03-29T22:41:52.095Z"
+generated_at: "2026-03-29T22:48:07.102Z"
 ---
 
 # § 591g. Mission of the Office

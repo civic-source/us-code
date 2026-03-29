@@ -3,9 +3,9 @@ title: "Section 508 - Safety performance history of new drivers; limitation on l
 usc_title: 49
 usc_section: "508"
 chapter: 5
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "49 U.S.C. § 508"
-generated_at: "2026-03-29T22:46:20.189Z"
+generated_at: "2026-03-29T22:52:18.485Z"
 ---
 
 # § 508. Safety performance history of new drivers; limitation on liability

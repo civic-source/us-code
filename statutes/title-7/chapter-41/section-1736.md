@@ -3,9 +3,9 @@ title: "Section 1736 - Use of Commodity Credit Corporation"
 usc_title: 7
 usc_section: "1736"
 chapter: 41
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "7 U.S.C. § 1736"
-generated_at: "2026-03-29T22:41:59.123Z"
+generated_at: "2026-03-29T22:48:19.811Z"
 ---
 
 # § 1736. Use of Commodity Credit Corporation

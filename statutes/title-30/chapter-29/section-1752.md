@@ -3,9 +3,9 @@ title: "Section 1752 - Reports"
 usc_title: 30
 usc_section: "1752"
 chapter: 29
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "30 U.S.C. § 1752"
-generated_at: "2026-03-29T22:43:38.465Z"
+generated_at: "2026-03-29T22:49:26.391Z"
 ---
 
 # § 1752. Reports

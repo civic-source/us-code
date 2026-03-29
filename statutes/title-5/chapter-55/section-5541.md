@@ -3,9 +3,9 @@ title: "Section 5541 - Definitions"
 usc_title: 5
 usc_section: "5541"
 chapter: 55
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "5 U.S.C. § 5541"
-generated_at: "2026-03-29T22:41:40.524Z"
+generated_at: "2026-03-29T22:47:33.473Z"
 ---
 
 # § 5541. Definitions

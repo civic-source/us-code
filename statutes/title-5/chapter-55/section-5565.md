@@ -3,9 +3,9 @@ title: "Section 5565 - Agency review"
 usc_title: 5
 usc_section: "5565"
 chapter: 55
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "5 U.S.C. § 5565"
-generated_at: "2026-03-29T22:41:40.529Z"
+generated_at: "2026-03-29T22:47:33.477Z"
 ---
 
 # § 5565. Agency review

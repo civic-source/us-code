@@ -3,9 +3,9 @@ title: "Section 2246 - Advisory committees"
 usc_title: 12
 usc_section: "2246"
 chapter: 23
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "12 U.S.C. § 2246"
-generated_at: "2026-03-29T22:42:25.493Z"
+generated_at: "2026-03-29T22:48:29.547Z"
 ---
 
 # § 2246. Advisory committees

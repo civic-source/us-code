@@ -3,9 +3,9 @@ title: "Section 228 - Prospecting permits and leases to persons of lands not wit
 usc_title: 30
 usc_section: "228"
 chapter: 3
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "30 U.S.C. § 228"
-generated_at: "2026-03-29T22:43:38.408Z"
+generated_at: "2026-03-29T22:49:26.322Z"
 ---
 
 # § 228. Prospecting permits and leases to persons of lands not withdrawn; terms and conditions of; fraud of claimants

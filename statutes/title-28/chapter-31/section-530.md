@@ -3,9 +3,9 @@ title: "Section 530 - Payment of travel and transportation expenses of newly app
 usc_title: 28
 usc_section: "530"
 chapter: 31
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "28 U.S.C. § 530"
-generated_at: "2026-03-29T22:44:00.969Z"
+generated_at: "2026-03-29T22:49:25.408Z"
 ---
 
 # § 530. Payment of travel and transportation expenses of newly appointed special agents

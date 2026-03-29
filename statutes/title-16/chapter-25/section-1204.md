@@ -3,9 +3,9 @@ title: "Section 1204 - Compacts"
 usc_title: 16
 usc_section: "1204"
 chapter: 25
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "16 U.S.C. § 1204"
-generated_at: "2026-03-29T22:42:48.972Z"
+generated_at: "2026-03-29T22:48:52.936Z"
 ---
 
 # § 1204. Compacts

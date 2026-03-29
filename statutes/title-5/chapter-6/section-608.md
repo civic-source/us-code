@@ -3,9 +3,9 @@ title: "Section 608 - Procedure for waiver or delay of completion"
 usc_title: 5
 usc_section: "608"
 chapter: 6
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "5 U.S.C. § 608"
-generated_at: "2026-03-29T22:41:40.474Z"
+generated_at: "2026-03-29T22:47:33.429Z"
 ---
 
 # § 608. Procedure for waiver or delay of completion

@@ -3,9 +3,9 @@ title: "Section 695e - Construction, operation, and maintenance of water supply 
 usc_title: 16
 usc_section: "695e"
 chapter: 6
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "16 U.S.C. § 695e"
-generated_at: "2026-03-29T22:42:48.885Z"
+generated_at: "2026-03-29T22:48:52.846Z"
 ---
 
 # § 695e. Construction, operation, and maintenance of water supply development works

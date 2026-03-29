@@ -3,9 +3,9 @@ title: "Section 1458 - Bulk cargo, time for unlading"
 usc_title: 19
 usc_section: "1458"
 chapter: 4
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "19 U.S.C. § 1458"
-generated_at: "2026-03-29T22:43:03.582Z"
+generated_at: "2026-03-29T22:48:58.793Z"
 ---
 
 # § 1458. Bulk cargo, time for unlading

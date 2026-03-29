@@ -3,9 +3,9 @@ title: "Section 824 - Authorization of appropriations"
 usc_title: 30
 usc_section: "824"
 chapter: 22
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "30 U.S.C. § 824"
-generated_at: "2026-03-29T22:43:38.421Z"
+generated_at: "2026-03-29T22:49:26.337Z"
 ---
 
 # § 824. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 10154 - Licensing of facility expansions and transshipments"
 usc_title: 42
 usc_section: "10154"
 chapter: 108
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 10154"
-generated_at: "2026-03-29T22:45:59.414Z"
+generated_at: "2026-03-29T22:51:40.505Z"
 ---
 
 # § 10154. Licensing of facility expansions and transshipments

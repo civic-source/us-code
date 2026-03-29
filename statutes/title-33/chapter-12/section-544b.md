@@ -3,9 +3,9 @@ title: "Section 544b - Employment of physicians to examine employees; fee or emp
 usc_title: 33
 usc_section: "544b"
 chapter: 12
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "33 U.S.C. § 544b"
-generated_at: "2026-03-29T22:44:19.610Z"
+generated_at: "2026-03-29T22:49:57.045Z"
 ---
 
 # § 544b. Employment of physicians to examine employees; fee or employment basis; validation of prior agreements

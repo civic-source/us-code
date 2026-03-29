@@ -3,9 +3,9 @@ title: "Section 4656 - Prohibition on persons convicted of defense-contract rela
 usc_title: 10
 usc_section: "4656"
 chapter: 363
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "10 U.S.C. § 4656"
-generated_at: "2026-03-29T22:42:13.617Z"
+generated_at: "2026-03-29T22:47:53.365Z"
 ---
 
 # § 4656. Prohibition on persons convicted of defense-contract related felonies and related criminal penalty on defense contractors

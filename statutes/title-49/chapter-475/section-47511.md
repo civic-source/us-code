@@ -3,9 +3,9 @@ title: "Section 47511 - CLEEN engine and airframe technology partnership"
 usc_title: 49
 usc_section: "47511"
 chapter: 475
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "49 U.S.C. § 47511"
-generated_at: "2026-03-29T22:46:20.359Z"
+generated_at: "2026-03-29T22:52:18.710Z"
 ---
 
 # § 47511. CLEEN engine and airframe technology partnership

@@ -3,9 +3,9 @@ title: "Section 285d - Purpose of Institute"
 usc_title: 42
 usc_section: "285d"
 chapter: 6
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 285d"
-generated_at: "2026-03-29T22:45:58.359Z"
+generated_at: "2026-03-29T22:51:39.157Z"
 ---
 
 # § 285d. Purpose of Institute

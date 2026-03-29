@@ -3,9 +3,9 @@ title: "Section 71 - Permanent seat of Government"
 usc_title: 4
 usc_section: "71"
 chapter: 3
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "4 U.S.C. § 71"
-generated_at: "2026-03-29T22:41:19.511Z"
+generated_at: "2026-03-29T22:47:23.400Z"
 ---
 
 # § 71. Permanent seat of Government

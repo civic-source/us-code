@@ -3,9 +3,9 @@ title: "Section 130d - Treatment under Freedom of Information Act of certain con
 usc_title: 10
 usc_section: "130d"
 chapter: 3
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "10 U.S.C. § 130d"
-generated_at: "2026-03-29T22:42:13.308Z"
+generated_at: "2026-03-29T22:47:53.098Z"
 ---
 
 # § 130d. Treatment under Freedom of Information Act of certain confidential information shared with State and local personnel

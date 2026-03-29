@@ -3,9 +3,9 @@ title: "Section 2605 - Suits to recover wrongful or fraudulent payments"
 usc_title: 39
 usc_section: "2605"
 chapter: 26
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "39 U.S.C. § 2605"
-generated_at: "2026-03-29T22:44:23.835Z"
+generated_at: "2026-03-29T22:50:10.468Z"
 ---
 
 # § 2605. Suits to recover wrongful or fraudulent payments

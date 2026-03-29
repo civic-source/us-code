@@ -3,9 +3,9 @@ title: "Section 21502 - Purpose"
 usc_title: 36
 usc_section: "21502"
 chapter: 215
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "36 U.S.C. § 21502"
-generated_at: "2026-03-29T22:44:38.378Z"
+generated_at: "2026-03-29T22:50:25.201Z"
 ---
 
 # § 21502. Purpose

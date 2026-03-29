@@ -3,9 +3,9 @@ title: "Section 707a - Payment upon disapproval of certain board of inquiry reco
 usc_title: 10
 usc_section: "707a"
 chapter: 40
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "10 U.S.C. § 707a"
-generated_at: "2026-03-29T22:42:13.371Z"
+generated_at: "2026-03-29T22:47:53.157Z"
 ---
 
 # § 707a. Payment upon disapproval of certain board of inquiry recommendations for excess leave required to be taken

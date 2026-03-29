@@ -3,9 +3,9 @@ title: "Section 3108 - Authorization of appropriations"
 usc_title: 22
 usc_section: "3108"
 chapter: 46
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "22 U.S.C. § 3108"
-generated_at: "2026-03-29T22:43:26.250Z"
+generated_at: "2026-03-29T22:49:19.981Z"
 ---
 
 # § 3108. Authorization of appropriations

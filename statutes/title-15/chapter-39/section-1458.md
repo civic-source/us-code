@@ -3,9 +3,9 @@ title: "Section 1458 - Cooperation with State authorities; transmittal of regula
 usc_title: 15
 usc_section: "1458"
 chapter: 39
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "15 U.S.C. § 1458"
-generated_at: "2026-03-29T22:42:31.696Z"
+generated_at: "2026-03-29T22:48:36.289Z"
 ---
 
 # § 1458. Cooperation with State authorities; transmittal of regulations to States; noninterference with existing programs

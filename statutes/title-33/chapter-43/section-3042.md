@@ -3,9 +3,9 @@ title: "Section 3042 - Separation pay"
 usc_title: 33
 usc_section: "3042"
 chapter: 43
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "33 U.S.C. § 3042"
-generated_at: "2026-03-29T22:44:19.731Z"
+generated_at: "2026-03-29T22:49:57.194Z"
 ---
 
 # § 3042. Separation pay

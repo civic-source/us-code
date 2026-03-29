@@ -3,9 +3,9 @@ title: "Section 623 - Continuing study of additional budget reform proposals"
 usc_title: 2
 usc_section: "623"
 chapter: 17
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "2 U.S.C. § 623"
-generated_at: "2026-03-29T22:41:27.164Z"
+generated_at: "2026-03-29T22:47:36.170Z"
 ---
 
 # § 623. Continuing study of additional budget reform proposals

@@ -3,9 +3,9 @@ title: "Section 1322 - Federal Acquisition Security Council establishment and me
 usc_title: 41
 usc_section: "1322"
 chapter: 13
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "41 U.S.C. § 1322"
-generated_at: "2026-03-29T22:44:43.372Z"
+generated_at: "2026-03-29T22:50:33.520Z"
 ---
 
 # § 1322. Federal Acquisition Security Council establishment and membership

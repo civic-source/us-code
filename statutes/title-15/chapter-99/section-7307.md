@@ -3,9 +3,9 @@ title: "Section 7307 - National Construction Safety Team report"
 usc_title: 15
 usc_section: "7307"
 chapter: 99
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "15 U.S.C. § 7307"
-generated_at: "2026-03-29T22:42:31.942Z"
+generated_at: "2026-03-29T22:48:36.475Z"
 ---
 
 # § 7307. National Construction Safety Team report

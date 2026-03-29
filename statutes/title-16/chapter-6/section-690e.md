@@ -3,9 +3,9 @@ title: "Section 690e - Enforcement of laws and regulations; warrants and process
 usc_title: 16
 usc_section: "690e"
 chapter: 6
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "16 U.S.C. § 690e"
-generated_at: "2026-03-29T22:42:48.884Z"
+generated_at: "2026-03-29T22:48:52.845Z"
 ---
 
 # § 690e. Enforcement of laws and regulations; warrants and processes; jurisdiction of courts; forfeiture of property captured, injured, killed or removed

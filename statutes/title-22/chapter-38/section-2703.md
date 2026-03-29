@@ -3,9 +3,9 @@ title: "Section 2703 - Services and facilities for employees at posts abroad"
 usc_title: 22
 usc_section: "2703"
 chapter: 38
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "22 U.S.C. § 2703"
-generated_at: "2026-03-29T22:43:26.233Z"
+generated_at: "2026-03-29T22:49:19.959Z"
 ---
 
 # § 2703. Services and facilities for employees at posts abroad

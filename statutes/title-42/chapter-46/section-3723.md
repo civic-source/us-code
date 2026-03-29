@@ -3,9 +3,9 @@ title: "Section 3723 - Transferred"
 usc_title: 42
 usc_section: "3723"
 chapter: 46
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 3723"
-generated_at: "2026-03-29T22:45:59.080Z"
+generated_at: "2026-03-29T22:51:40.088Z"
 ---
 
 # § 3723. Transferred

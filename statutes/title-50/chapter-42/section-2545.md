@@ -3,9 +3,9 @@ title: "Section 2545 - Procedures for meeting tritium production requirements"
 usc_title: 50
 usc_section: "2545"
 chapter: 42
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "50 U.S.C. § 2545"
-generated_at: "2026-03-29T22:46:14.752Z"
+generated_at: "2026-03-29T22:52:07.189Z"
 ---
 
 # § 2545. Procedures for meeting tritium production requirements

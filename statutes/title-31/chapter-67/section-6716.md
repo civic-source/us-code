@@ -3,9 +3,9 @@ title: "Section 6716 - Civil action by a person adversely affected"
 usc_title: 31
 usc_section: "6716"
 chapter: 67
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "31 U.S.C. § 6716"
-generated_at: "2026-03-29T22:44:05.035Z"
+generated_at: "2026-03-29T22:49:54.662Z"
 ---
 
 # § 6716. Civil action by a person adversely affected

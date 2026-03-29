@@ -3,9 +3,9 @@ title: "Section 6421 - Purpose and program authorization"
 usc_title: 20
 usc_section: "6421"
 chapter: 70
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "20 U.S.C. § 6421"
-generated_at: "2026-03-29T22:42:42.634Z"
+generated_at: "2026-03-29T22:49:03.722Z"
 ---
 
 # § 6421. Purpose and program authorization

@@ -3,9 +3,9 @@ title: "Section 213 - Preservation of Customs funds"
 usc_title: 6
 usc_section: "213"
 chapter: 1
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "6 U.S.C. § 213"
-generated_at: "2026-03-29T22:41:52.052Z"
+generated_at: "2026-03-29T22:48:07.051Z"
 ---
 
 # § 213. Preservation of Customs funds

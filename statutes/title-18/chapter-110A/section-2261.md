@@ -3,9 +3,9 @@ title: "Section 2261 - Interstate domestic violence"
 usc_title: 18
 usc_section: "2261"
 chapter: 110
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "18 U.S.C. § 2261"
-generated_at: "2026-03-29T22:43:11.585Z"
+generated_at: "2026-03-29T22:48:44.656Z"
 ---
 
 # § 2261. Interstate domestic violence

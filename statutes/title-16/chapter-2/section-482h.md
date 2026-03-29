@@ -3,9 +3,9 @@ title: "Section 482h - Coronado National Forest; mining rights"
 usc_title: 16
 usc_section: "482h"
 chapter: 2
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "16 U.S.C. § 482h"
-generated_at: "2026-03-29T22:42:48.823Z"
+generated_at: "2026-03-29T22:48:52.776Z"
 ---
 
 # § 482h. Coronado National Forest; mining rights

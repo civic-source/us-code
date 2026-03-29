@@ -3,9 +3,9 @@ title: "Section 708 - Educational leave of absence"
 usc_title: 10
 usc_section: "708"
 chapter: 40
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "10 U.S.C. § 708"
-generated_at: "2026-03-29T22:42:13.372Z"
+generated_at: "2026-03-29T22:47:53.157Z"
 ---
 
 # § 708. Educational leave of absence

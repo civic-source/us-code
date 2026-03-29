@@ -3,9 +3,9 @@ title: "Section 283z - Proposal of light-capital or intermediate technologies as
 usc_title: 22
 usc_section: "283z"
 chapter: 7
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "22 U.S.C. § 283z"
-generated_at: "2026-03-29T22:43:26.126Z"
+generated_at: "2026-03-29T22:49:19.807Z"
 ---
 
 # § 283z. Proposal of light-capital or intermediate technologies as part of Bank’s development strategy

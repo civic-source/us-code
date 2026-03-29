@@ -3,9 +3,9 @@ title: "Section 620m - Compliance with law required in operation of facilities; 
 usc_title: 43
 usc_section: "620m"
 chapter: 12
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "43 U.S.C. § 620m"
-generated_at: "2026-03-29T22:45:06.563Z"
+generated_at: "2026-03-29T22:50:30.959Z"
 ---
 
 # § 620m. Compliance with law required in operation of facilities; enforcement of provisions

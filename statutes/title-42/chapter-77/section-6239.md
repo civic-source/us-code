@@ -3,9 +3,9 @@ title: "Section 6239 - Development, operation, and maintenance of the Reserve"
 usc_title: 42
 usc_section: "6239"
 chapter: 77
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 6239"
-generated_at: "2026-03-29T22:45:59.165Z"
+generated_at: "2026-03-29T22:51:40.198Z"
 ---
 
 # § 6239. Development, operation, and maintenance of the Reserve

@@ -3,9 +3,9 @@ title: "Section 52 - Evidence of title to site and buildings"
 usc_title: 20
 usc_section: "52"
 chapter: 3
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "20 U.S.C. § 52"
-generated_at: "2026-03-29T22:42:42.340Z"
+generated_at: "2026-03-29T22:49:03.412Z"
 ---
 
 # § 52. Evidence of title to site and buildings

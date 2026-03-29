@@ -3,9 +3,9 @@ title: "Section 9502 - Sense of Congress"
 usc_title: 22
 usc_section: "9502"
 chapter: 102
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "22 U.S.C. § 9502"
-generated_at: "2026-03-29T22:43:26.384Z"
+generated_at: "2026-03-29T22:49:20.150Z"
 ---
 
 # § 9502. Sense of Congress

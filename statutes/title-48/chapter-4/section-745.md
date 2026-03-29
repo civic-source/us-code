@@ -3,9 +3,9 @@ title: "Section 745 - Tax exempt bonds"
 usc_title: 48
 usc_section: "745"
 chapter: 4
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "48 U.S.C. § 745"
-generated_at: "2026-03-29T22:46:22.109Z"
+generated_at: "2026-03-29T22:52:03.776Z"
 ---
 
 # § 745. Tax exempt bonds

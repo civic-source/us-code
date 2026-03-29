@@ -3,9 +3,9 @@ title: "Section 2241 - Sale or exchange of animals or animal products"
 usc_title: 7
 usc_section: "2241"
 chapter: 55
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "7 U.S.C. § 2241"
-generated_at: "2026-03-29T22:41:59.214Z"
+generated_at: "2026-03-29T22:48:19.889Z"
 ---
 
 # § 2241. Sale or exchange of animals or animal products

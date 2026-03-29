@@ -3,9 +3,9 @@ title: "Section 1787 - Payment of insurance"
 usc_title: 12
 usc_section: "1787"
 chapter: 14
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "12 U.S.C. § 1787"
-generated_at: "2026-03-29T22:42:25.395Z"
+generated_at: "2026-03-29T22:48:29.468Z"
 ---
 
 # § 1787. Payment of insurance

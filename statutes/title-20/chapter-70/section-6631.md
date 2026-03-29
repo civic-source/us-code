@@ -3,9 +3,9 @@ title: "Section 6631 - Purposes; definitions"
 usc_title: 20
 usc_section: "6631"
 chapter: 70
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "20 U.S.C. § 6631"
-generated_at: "2026-03-29T22:42:42.641Z"
+generated_at: "2026-03-29T22:49:03.729Z"
 ---
 
 # § 6631. Purposes; definitions

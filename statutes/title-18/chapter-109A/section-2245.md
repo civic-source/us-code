@@ -3,9 +3,9 @@ title: "Section 2245 - Offenses resulting in death"
 usc_title: 18
 usc_section: "2245"
 chapter: 109
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "18 U.S.C. § 2245"
-generated_at: "2026-03-29T22:43:11.581Z"
+generated_at: "2026-03-29T22:48:44.651Z"
 ---
 
 # § 2245. Offenses resulting in death

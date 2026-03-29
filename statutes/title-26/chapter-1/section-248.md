@@ -3,9 +3,9 @@ title: "Section 248 - Organizational expenditures"
 usc_title: 26
 usc_section: "248"
 chapter: 1
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "26 U.S.C. § 248"
-generated_at: "2026-03-29T22:43:54.344Z"
+generated_at: "2026-03-29T22:49:48.665Z"
 ---
 
 # § 248. Organizational expenditures

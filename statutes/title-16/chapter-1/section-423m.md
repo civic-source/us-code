@@ -3,9 +3,9 @@ title: "Section 423m - Eutaw Springs Battlefield Site; establishment; purpose"
 usc_title: 16
 usc_section: "423m"
 chapter: 1
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "16 U.S.C. § 423m"
-generated_at: "2026-03-29T22:42:48.707Z"
+generated_at: "2026-03-29T22:48:52.664Z"
 ---
 
 # § 423m. Eutaw Springs Battlefield Site; establishment; purpose

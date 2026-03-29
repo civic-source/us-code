@@ -3,9 +3,9 @@ title: "Section 1591 - Salinity control policy"
 usc_title: 43
 usc_section: "1591"
 chapter: 32
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "43 U.S.C. § 1591"
-generated_at: "2026-03-29T22:45:06.595Z"
+generated_at: "2026-03-29T22:50:31.002Z"
 ---
 
 # § 1591. Salinity control policy

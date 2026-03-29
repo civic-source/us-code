@@ -3,9 +3,9 @@ title: "Section 608 - Permits to cut and remove timber; citizens of Malheur Coun
 usc_title: 16
 usc_section: "608"
 chapter: 4
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "16 U.S.C. § 608"
-generated_at: "2026-03-29T22:42:48.865Z"
+generated_at: "2026-03-29T22:48:52.823Z"
 ---
 
 # § 608. Permits to cut and remove timber; citizens of Malheur County, Oregon

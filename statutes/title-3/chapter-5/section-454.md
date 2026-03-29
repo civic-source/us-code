@@ -3,9 +3,9 @@ title: "Section 454 - Appropriate agencies"
 usc_title: 3
 usc_section: "454"
 chapter: 5
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "3 U.S.C. § 454"
-generated_at: "2026-03-29T22:41:22.886Z"
+generated_at: "2026-03-29T22:47:24.241Z"
 ---
 
 # § 454. Appropriate agencies

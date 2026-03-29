@@ -3,9 +3,9 @@ title: "Section 9105 - Personnel"
 usc_title: 20
 usc_section: "9105"
 chapter: 72
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "20 U.S.C. § 9105"
-generated_at: "2026-03-29T22:42:42.692Z"
+generated_at: "2026-03-29T22:49:03.786Z"
 ---
 
 # § 9105. Personnel

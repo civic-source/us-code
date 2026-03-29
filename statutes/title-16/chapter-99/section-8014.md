@@ -3,9 +3,9 @@ title: "Section 8014 - Expansion of existing mechanisms to combat IUU fishing"
 usc_title: 16
 usc_section: "8014"
 chapter: 99
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "16 U.S.C. § 8014"
-generated_at: "2026-03-29T22:42:49.177Z"
+generated_at: "2026-03-29T22:48:53.141Z"
 ---
 
 # § 8014. Expansion of existing mechanisms to combat IUU fishing

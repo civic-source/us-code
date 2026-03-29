@@ -3,9 +3,9 @@ title: "Section 100722 - Liability"
 usc_title: 54
 usc_section: "100722"
 chapter: 1007
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "54 U.S.C. § 100722"
-generated_at: "2026-03-29T22:46:51.186Z"
+generated_at: "2026-03-29T22:52:24.942Z"
 ---
 
 # § 100722. Liability

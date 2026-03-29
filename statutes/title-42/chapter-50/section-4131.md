@@ -3,9 +3,9 @@ title: "Section 4131 - Levee certifications"
 usc_title: 42
 usc_section: "4131"
 chapter: 50
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 4131"
-generated_at: "2026-03-29T22:45:59.095Z"
+generated_at: "2026-03-29T22:51:40.105Z"
 ---
 
 # § 4131. Levee certifications
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T22:45:59.095Z"
   - **(2)** to the maximum extent practicable, carry out the activities referred to in paragraph (1) in alignment with the schedule established for the national flood insurance program established under chapter I of the National Flood Insurance Act of 1968 ( 42 U.S.C. 4011 et seq.); and
   - **(3)** in the case of a levee system that is operated and maintained by the Corps of Engineers, to the maximum extent practicable, cooperate with local governments seeking a levee accreditation decision for the levee to provide information necessary to support the accreditation decision in a timely manner.
 - **(b)**
-  - **(1)** On receipt of a request from a non-Federal interest, the Secretary may carry out a levee system evaluation of a federally authorized levee for purposes of the national flood insurance program established under chapter 1 1 of the National Flood Insurance Act of 1968 ( 42 U.S.C. 4011 et seq.) if the evaluation will be carried out earlier than such an evaluation would be carried out under subsection (a).
+  - **(1)** On receipt of a request from a non-Federal interest, the Secretary may carry out a levee system evaluation of a federally authorized levee for purposes of the national flood insurance program established under chapter 1 1 1 So in original. Probably should be “chapter I”. of the National Flood Insurance Act of 1968 ( 42 U.S.C. 4011 et seq.) if the evaluation will be carried out earlier than such an evaluation would be carried out under subsection (a).
   - **(2)** A levee system evaluation under paragraph (1) shall—
     - **(A)** at a minimum, comply with section 65.10 of title 44, Code of Federal Regulations (as in effect on June 10, 2014 ); and
     - **(B)** be carried out in accordance with such procedures as the Secretary, in consultation with the Administrator of the Federal Emergency Management Agency, may establish.

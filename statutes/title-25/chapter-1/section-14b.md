@@ -3,9 +3,9 @@ title: "Section 14b - Disposition of funds received from public for goods and se
 usc_title: 25
 usc_section: "14b"
 chapter: 1
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "25 U.S.C. § 14b"
-generated_at: "2026-03-29T22:43:16.749Z"
+generated_at: "2026-03-29T22:49:11.584Z"
 ---
 
 # § 14b. Disposition of funds received from public for goods and services provided by Bureau of Indian Affairs

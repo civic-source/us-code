@@ -3,9 +3,9 @@ title: "Section 55332 - Designating American Great Lakes vessels"
 usc_title: 46
 usc_section: "55332"
 chapter: 553
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "46 U.S.C. § 55332"
-generated_at: "2026-03-29T22:46:48.593Z"
+generated_at: "2026-03-29T22:51:53.664Z"
 ---
 
 # § 55332. Designating American Great Lakes vessels

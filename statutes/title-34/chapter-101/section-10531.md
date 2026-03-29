@@ -3,9 +3,9 @@ title: "Section 10531 - Program authorized"
 usc_title: 34
 usc_section: "10531"
 chapter: 101
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "34 U.S.C. § 10531"
-generated_at: "2026-03-29T22:44:17.668Z"
+generated_at: "2026-03-29T22:50:01.770Z"
 ---
 
 # § 10531. Program authorized

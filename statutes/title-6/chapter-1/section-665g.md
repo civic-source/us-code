@@ -3,9 +3,9 @@ title: "Section 665g - State and Local Cybersecurity Grant Program"
 usc_title: 6
 usc_section: "665g"
 chapter: 1
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "6 U.S.C. § 665g"
-generated_at: "2026-03-29T22:41:52.114Z"
+generated_at: "2026-03-29T22:48:07.122Z"
 ---
 
 # § 665g. State and Local Cybersecurity Grant Program
@@ -45,7 +45,7 @@ generated_at: "2026-03-29T22:41:52.114Z"
       - **(ii)** if the eligible entity is a State, consultation and feedback from local governments and associations of local governments within the jurisdiction of the eligible entity;
     - **(B)** describe, to the extent practicable, how the eligible entity will—
       - **(i)** manage, monitor, and track information systems, applications, and user accounts owned or operated by, or on behalf of, the eligible entity or, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity, and the information technology deployed on those information systems, including legacy information systems and information technology that are no longer supported by the manufacturer of the systems or technology;
-      - **(ii)** monitor, audit, and, track network traffic and activity transiting or traveling to or from information systems, applications, and user accounts owned or operated by, or on behalf of, the eligible entity or, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity;
+      - **(ii)** monitor, audit, and, 1 1 So in original. The comma probably should not appear. track network traffic and activity transiting or traveling to or from information systems, applications, and user accounts owned or operated by, or on behalf of, the eligible entity or, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity;
       - **(iii)** enhance the preparation, response, and resiliency of information systems, applications, and user accounts owned or operated by, or on behalf of, the eligible entity or, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity, against cybersecurity risks and cybersecurity threats;
       - **(iv)** implement a process of continuous cybersecurity vulnerability assessments and threat mitigation practices prioritized by degree of risk to address cybersecurity risks and cybersecurity threats on information systems, applications, and user accounts owned or operated by, or on behalf of, the eligible entity or, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity;
       - **(v)** ensure that the eligible entity and, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity, adopt and use best practices and methodologies to enhance cybersecurity, such as—

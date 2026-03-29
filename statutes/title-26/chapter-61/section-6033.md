@@ -3,9 +3,9 @@ title: "Section 6033 - Returns by exempt organizations"
 usc_title: 26
 usc_section: "6033"
 chapter: 61
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "26 U.S.C. § 6033"
-generated_at: "2026-03-29T22:43:54.624Z"
+generated_at: "2026-03-29T22:49:48.999Z"
 ---
 
 # § 6033. Returns by exempt organizations

@@ -3,9 +3,9 @@ title: "Section 16212 - High power density industry program"
 usc_title: 42
 usc_section: "16212"
 chapter: 149
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 16212"
-generated_at: "2026-03-29T22:45:59.570Z"
+generated_at: "2026-03-29T22:51:40.690Z"
 ---
 
 # § 16212. High power density industry program

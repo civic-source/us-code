@@ -3,9 +3,9 @@ title: "Section 5307 - Special purpose grants"
 usc_title: 42
 usc_section: "5307"
 chapter: 69
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 5307"
-generated_at: "2026-03-29T22:45:59.146Z"
+generated_at: "2026-03-29T22:51:40.172Z"
 ---
 
 # § 5307. Special purpose grants
@@ -33,7 +33,7 @@ generated_at: "2026-03-29T22:45:59.146Z"
 - **(c)** Of the amount set aside for use under subsection (b) in any fiscal year, the Secretary shall, 2 2 So in original. The comma probably should not appear. make grants to institutions of higher education, either directly or through areawide planning organizations or States, for the purpose of providing assistance to economically disadvantaged and minority students who participate in community development work study programs and are enrolled in full-time graduate or undergraduate programs in community and economic development, community planning, or community management.
 - **(d)** Amounts set aside for use under subsection (b) in any fiscal year but not used in that year shall remain available for use in subsequent fiscal years in accordance with the provisions of that subsection.
 - **(e)**
-  - **(1)** Except as provided in paragraph (2), no grant may be made under this section or section 5318 of this title and no assistance may be made available under section 1437 o 3 3 See References in Text note below. of this title unless the grantee provides satisfactory assurances that its program will be conducted and administered in conformity with the Civil Rights Act of 1964 [ 42 U.S.C. 2000a et seq.] and the Fair Housing Act [ 42 U.S.C. 3601 et seq.].
+  - **(1)** Except as provided in paragraph (2), no grant may be made under this section or section 5318 of this title and no assistance may be made available under section 1437 o 1 of this title unless the grantee provides satisfactory assurances that its program will be conducted and administered in conformity with the Civil Rights Act of 1964 [ 42 U.S.C. 2000a et seq.] and the Fair Housing Act [ 42 U.S.C. 3601 et seq.].
   - **(2)** No grant may be made to an Indian tribe under this section, section 5306(a)(1) of this title , or section 5318 of this title unless the applicant provides satisfactory assurances that its program will be conducted and administered in conformity with title II of Public Law 90–284 [ 25 U.S.C. 1301 et seq.]. The Secretary may waive, in connection with grants to Indian tribes, the provisions of section 5309 of this title and section 5310 of this title .
   - **(3)** The Secretary may accept a certification from the grantee or applicant that it has complied with the requirements of paragraph (1) or (2), as appropriate.
 - **(f)** Any grant made under this section shall be made pursuant to criteria for selection of recipients of such grants that the Secretary shall by regulation establish and which the Secretary shall publish together with any notification of availability of amounts under this section.

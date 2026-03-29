@@ -3,9 +3,9 @@ title: "Section 360c - Classification of devices intended for human use"
 usc_title: 21
 usc_section: "360c"
 chapter: 9
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "21 U.S.C. § 360c"
-generated_at: "2026-03-29T22:43:34.471Z"
+generated_at: "2026-03-29T22:49:14.033Z"
 ---
 
 # § 360c. Classification of devices intended for human use

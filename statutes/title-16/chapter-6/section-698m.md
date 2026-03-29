@@ -3,9 +3,9 @@ title: "Section 698m - Authorization of appropriations for Big Cypress Preserve 
 usc_title: 16
 usc_section: "698m"
 chapter: 6
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "16 U.S.C. § 698m"
-generated_at: "2026-03-29T22:42:48.889Z"
+generated_at: "2026-03-29T22:48:52.850Z"
 ---
 
 # § 698m. Authorization of appropriations for Big Cypress Preserve and Addition

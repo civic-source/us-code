@@ -3,9 +3,9 @@ title: "Section 3912 - Funding"
 usc_title: 33
 usc_section: "3912"
 chapter: 52
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "33 U.S.C. § 3912"
-generated_at: "2026-03-29T22:44:19.746Z"
+generated_at: "2026-03-29T22:49:57.209Z"
 ---
 
 # § 3912. Funding

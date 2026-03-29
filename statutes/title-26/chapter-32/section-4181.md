@@ -3,9 +3,9 @@ title: "Section 4181 - Imposition of tax"
 usc_title: 26
 usc_section: "4181"
 chapter: 32
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "26 U.S.C. § 4181"
-generated_at: "2026-03-29T22:43:54.578Z"
+generated_at: "2026-03-29T22:49:48.938Z"
 ---
 
 # § 4181. Imposition of tax

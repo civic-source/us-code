@@ -3,9 +3,9 @@ title: "Section 8164 - Authority for disposition of leased property"
 usc_title: 38
 usc_section: "8164"
 chapter: 81
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "38 U.S.C. § 8164"
-generated_at: "2026-03-29T22:44:36.584Z"
+generated_at: "2026-03-29T22:50:10.061Z"
 ---
 
 # § 8164. Authority for disposition of leased property

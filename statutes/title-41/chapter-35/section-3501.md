@@ -3,9 +3,9 @@ title: "Section 3501 - General"
 usc_title: 41
 usc_section: "3501"
 chapter: 35
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "41 U.S.C. § 3501"
-generated_at: "2026-03-29T22:44:43.382Z"
+generated_at: "2026-03-29T22:50:33.534Z"
 ---
 
 # § 3501. General

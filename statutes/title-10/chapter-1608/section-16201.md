@@ -3,9 +3,9 @@ title: "Section 16201 - Financial assistance: health-care professionals in reser
 usc_title: 10
 usc_section: "16201"
 chapter: 1608
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "10 U.S.C. § 16201"
-generated_at: "2026-03-29T22:42:13.730Z"
+generated_at: "2026-03-29T22:47:53.699Z"
 ---
 
 # § 16201. Financial assistance: health-care professionals in reserve components

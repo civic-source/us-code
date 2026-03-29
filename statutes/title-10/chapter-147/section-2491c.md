@@ -3,9 +3,9 @@ title: "Section 2491c - Retention of morale, welfare, and recreation funds by mi
 usc_title: 10
 usc_section: "2491c"
 chapter: 147
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "10 U.S.C. § 2491c"
-generated_at: "2026-03-29T22:42:13.535Z"
+generated_at: "2026-03-29T22:47:53.277Z"
 ---
 
 # § 2491c. Retention of morale, welfare, and recreation funds by military installations: limitation

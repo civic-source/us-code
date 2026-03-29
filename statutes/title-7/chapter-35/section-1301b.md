@@ -3,9 +3,9 @@ title: "Section 1301b - Repealed. Pub. L. 85–835, title I, § 108 , Aug. 28, 1
 usc_title: 7
 usc_section: "1301b"
 chapter: 35
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "7 U.S.C. § 1301b"
-generated_at: "2026-03-29T22:41:59.045Z"
+generated_at: "2026-03-29T22:48:19.727Z"
 ---
 
 # § 1301b. Repealed. Pub. L. 85–835, title I, § 108 , Aug. 28, 1958 , 72 Stat. 993

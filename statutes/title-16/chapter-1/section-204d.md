@@ -3,9 +3,9 @@ title: "Section 204d - Forfeiture of property used for unlawful purposes"
 usc_title: 16
 usc_section: "204d"
 chapter: 1
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "16 U.S.C. § 204d"
-generated_at: "2026-03-29T22:42:48.617Z"
+generated_at: "2026-03-29T22:48:52.577Z"
 ---
 
 # § 204d. Forfeiture of property used for unlawful purposes

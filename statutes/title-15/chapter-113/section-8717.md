@@ -3,9 +3,9 @@ title: "Section 8717 - Study and report by the Department of Commerce"
 usc_title: 15
 usc_section: "8717"
 chapter: 113
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "15 U.S.C. § 8717"
-generated_at: "2026-03-29T22:42:31.976Z"
+generated_at: "2026-03-29T22:48:36.504Z"
 ---
 
 # § 8717. Study and report by the Department of Commerce

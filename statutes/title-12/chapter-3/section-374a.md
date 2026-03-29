@@ -3,9 +3,9 @@ title: "Section 374a - Acting as agent for nonbanking borrower in making loans o
 usc_title: 12
 usc_section: "374a"
 chapter: 3
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "12 U.S.C. § 374a"
-generated_at: "2026-03-29T22:42:25.244Z"
+generated_at: "2026-03-29T22:48:29.341Z"
 ---
 
 # § 374a. Acting as agent for nonbanking borrower in making loans on securities to dealers in stocks, bonds, etc.; penalties

@@ -3,9 +3,9 @@ title: "Section 28k - Regulations"
 usc_title: 30
 usc_section: "28k"
 chapter: 2
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "30 U.S.C. § 28k"
-generated_at: "2026-03-29T22:43:38.396Z"
+generated_at: "2026-03-29T22:49:26.307Z"
 ---
 
 # § 28k. Regulations

@@ -3,9 +3,9 @@ title: "Section 5105 - Report"
 usc_title: 7
 usc_section: "5105"
 chapter: 82
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "7 U.S.C. § 5105"
-generated_at: "2026-03-29T22:41:59.281Z"
+generated_at: "2026-03-29T22:48:19.948Z"
 ---
 
 # § 5105. Report

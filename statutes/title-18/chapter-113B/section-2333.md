@@ -3,9 +3,9 @@ title: "Section 2333 - Civil remedies"
 usc_title: 18
 usc_section: "2333"
 chapter: 113
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "18 U.S.C. § 2333"
-generated_at: "2026-03-29T22:43:11.593Z"
+generated_at: "2026-03-29T22:48:44.666Z"
 ---
 
 # § 2333. Civil remedies

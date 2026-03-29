@@ -3,9 +3,9 @@ title: "Section 3709 - Refinancing of housing loans"
 usc_title: 38
 usc_section: "3709"
 chapter: 37
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "38 U.S.C. § 3709"
-generated_at: "2026-03-29T22:44:36.524Z"
+generated_at: "2026-03-29T22:50:09.999Z"
 ---
 
 # § 3709. Refinancing of housing loans

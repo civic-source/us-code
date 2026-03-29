@@ -3,9 +3,9 @@ title: "Section 4 - Establishment Clause unaffected"
 usc_title: 42
 usc_section: "4"
 chapter: 21
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-29T22:45:58.992Z"
+generated_at: "2026-03-29T22:51:39.965Z"
 ---
 
 # § 2000cc–4. Establishment Clause unaffected

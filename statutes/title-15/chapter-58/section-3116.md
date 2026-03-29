@@ -3,9 +3,9 @@ title: "Section 3116 - Job training, counseling and reservoirs of employment pro
 usc_title: 15
 usc_section: "3116"
 chapter: 58
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "15 U.S.C. § 3116"
-generated_at: "2026-03-29T22:42:31.846Z"
+generated_at: "2026-03-29T22:48:36.399Z"
 ---
 
 # § 3116. Job training, counseling and reservoirs of employment projects

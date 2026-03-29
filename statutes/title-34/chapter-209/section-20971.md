@@ -3,9 +3,9 @@ title: "Section 20971 - Jimmy Ryce State civil commitment programs for sexually 
 usc_title: 34
 usc_section: "20971"
 chapter: 209
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "34 U.S.C. § 20971"
-generated_at: "2026-03-29T22:44:17.724Z"
+generated_at: "2026-03-29T22:50:01.844Z"
 ---
 
 # § 20971. Jimmy Ryce State civil commitment programs for sexually dangerous persons

@@ -3,9 +3,9 @@ title: "Section 3493 - Deposition to authenticate foreign documents"
 usc_title: 18
 usc_section: "3493"
 chapter: 223
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "18 U.S.C. § 3493"
-generated_at: "2026-03-29T22:43:11.614Z"
+generated_at: "2026-03-29T22:48:44.696Z"
 ---
 
 # § 3493. Deposition to authenticate foreign documents

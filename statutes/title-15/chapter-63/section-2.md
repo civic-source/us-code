@@ -3,9 +3,9 @@ title: "Section 2 - Transfer of Federal scientific and technical information"
 usc_title: 15
 usc_section: "2"
 chapter: 63
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-29T22:42:31.858Z"
+generated_at: "2026-03-29T22:48:36.408Z"
 ---
 
 # § 3704b–2. Transfer of Federal scientific and technical information

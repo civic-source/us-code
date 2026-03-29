@@ -3,9 +3,9 @@ title: "Section 4013 - Department awards"
 usc_title: 22
 usc_section: "4013"
 chapter: 52
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "22 U.S.C. § 4013"
-generated_at: "2026-03-29T22:43:26.267Z"
+generated_at: "2026-03-29T22:49:20.001Z"
 ---
 
 # § 4013. Department awards

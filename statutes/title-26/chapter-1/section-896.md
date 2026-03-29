@@ -3,9 +3,9 @@ title: "Section 896 - Adjustment of tax on nationals, residents, and corporation
 usc_title: 26
 usc_section: "896"
 chapter: 1
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "26 U.S.C. § 896"
-generated_at: "2026-03-29T22:43:54.480Z"
+generated_at: "2026-03-29T22:49:48.830Z"
 ---
 
 # § 896. Adjustment of tax on nationals, residents, and corporations of certain foreign countries

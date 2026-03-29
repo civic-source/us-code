@@ -3,9 +3,9 @@ title: "Section 6932 - Farm Service Agency"
 usc_title: 7
 usc_section: "6932"
 chapter: 98
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "7 U.S.C. § 6932"
-generated_at: "2026-03-29T22:41:59.326Z"
+generated_at: "2026-03-29T22:48:20.001Z"
 ---
 
 # § 6932. Farm Service Agency

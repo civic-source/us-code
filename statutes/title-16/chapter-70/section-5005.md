@@ -3,9 +3,9 @@ title: "Section 5005 - Commission recommendations"
 usc_title: 16
 usc_section: "5005"
 chapter: 70
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "16 U.S.C. § 5005"
-generated_at: "2026-03-29T22:42:49.133Z"
+generated_at: "2026-03-29T22:48:53.102Z"
 ---
 
 # § 5005. Commission recommendations

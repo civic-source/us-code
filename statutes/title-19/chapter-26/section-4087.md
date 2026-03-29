@@ -3,9 +3,9 @@ title: "Section 4087 - Compensation authority"
 usc_title: 19
 usc_section: "4087"
 chapter: 26
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "19 U.S.C. § 4087"
-generated_at: "2026-03-29T22:43:03.691Z"
+generated_at: "2026-03-29T22:48:58.919Z"
 ---
 
 # § 4087. Compensation authority

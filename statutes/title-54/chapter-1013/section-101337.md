@@ -3,9 +3,9 @@ title: "Section 101337 - Leasing of seasonal employee quarters"
 usc_title: 54
 usc_section: "101337"
 chapter: 1013
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "54 U.S.C. § 101337"
-generated_at: "2026-03-29T22:46:51.189Z"
+generated_at: "2026-03-29T22:52:24.946Z"
 ---
 
 # § 101337. Leasing of seasonal employee quarters

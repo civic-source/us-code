@@ -3,9 +3,9 @@ title: "Section 5305 - Review"
 usc_title: 15
 usc_section: "5305"
 chapter: 79
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "15 U.S.C. § 5305"
-generated_at: "2026-03-29T22:42:31.894Z"
+generated_at: "2026-03-29T22:48:36.433Z"
 ---
 
 # § 5305. Review

@@ -3,9 +3,9 @@ title: "Section 1490 - Transportation of remains: certain retired members and de
 usc_title: 10
 usc_section: "1490"
 chapter: 75
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "10 U.S.C. § 1490"
-generated_at: "2026-03-29T22:42:13.471Z"
+generated_at: "2026-03-29T22:47:53.232Z"
 ---
 
 # § 1490. Transportation of remains: certain retired members and dependents who die in military medical facilities

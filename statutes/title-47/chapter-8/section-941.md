@@ -3,9 +3,9 @@ title: "Section 941 - Child-friendly second-level Internet domain"
 usc_title: 47
 usc_section: "941"
 chapter: 8
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "47 U.S.C. § 941"
-generated_at: "2026-03-29T22:46:35.351Z"
+generated_at: "2026-03-29T22:52:02.115Z"
 ---
 
 # § 941. Child-friendly second-level Internet domain

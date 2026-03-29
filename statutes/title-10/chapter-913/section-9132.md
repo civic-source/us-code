@@ -3,9 +3,9 @@ title: "Section 9132 - Regular Air Force and Regular Space Force: gender-free ba
 usc_title: 10
 usc_section: "9132"
 chapter: 913
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "10 U.S.C. § 9132"
-generated_at: "2026-03-29T22:42:13.683Z"
+generated_at: "2026-03-29T22:47:53.653Z"
 ---
 
 # § 9132. Regular Air Force and Regular Space Force: gender-free basis for acceptance of original enlistments

@@ -3,9 +3,9 @@ title: "Section 689 - Tahquitz National Game Preserve"
 usc_title: 16
 usc_section: "689"
 chapter: 6
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "16 U.S.C. § 689"
-generated_at: "2026-03-29T22:42:48.883Z"
+generated_at: "2026-03-29T22:48:52.844Z"
 ---
 
 # § 689. Tahquitz National Game Preserve

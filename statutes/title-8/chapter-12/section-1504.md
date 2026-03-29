@@ -3,9 +3,9 @@ title: "Section 1504 - Cancellation of United States passports and Consular Repo
 usc_title: 8
 usc_section: "1504"
 chapter: 12
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "8 U.S.C. § 1504"
-generated_at: "2026-03-29T22:41:48.563Z"
+generated_at: "2026-03-29T22:47:39.754Z"
 ---
 
 # § 1504. Cancellation of United States passports and Consular Reports of Birth

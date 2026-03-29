@@ -3,9 +3,9 @@ title: "Section 133 - Provider requirements with respect to disclosure on patien
 usc_title: 42
 usc_section: "133"
 chapter: 6
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 133"
-generated_at: "2026-03-29T22:45:58.525Z"
+generated_at: "2026-03-29T22:51:39.362Z"
 ---
 
 # § 300gg–133. Provider requirements with respect to disclosure on patient protections against balance billing

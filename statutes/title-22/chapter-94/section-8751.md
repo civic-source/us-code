@@ -3,9 +3,9 @@ title: "Section 8751 - Codification of sanctions with respect to grave human rig
 usc_title: 22
 usc_section: "8751"
 chapter: 94
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "22 U.S.C. § 8751"
-generated_at: "2026-03-29T22:43:26.368Z"
+generated_at: "2026-03-29T22:49:20.127Z"
 ---
 
 # § 8751. Codification of sanctions with respect to grave human rights abuses by the Governments of Iran and Syria using information technology

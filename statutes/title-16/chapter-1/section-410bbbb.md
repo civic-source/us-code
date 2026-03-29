@@ -3,9 +3,9 @@ title: "Section 410bbbb - Reconstruction Era National Historical Park and Recons
 usc_title: 16
 usc_section: "410bbbb"
 chapter: 1
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "16 U.S.C. § 410bbbb"
-generated_at: "2026-03-29T22:42:48.698Z"
+generated_at: "2026-03-29T22:48:52.655Z"
 ---
 
 # § 410bbbb. Reconstruction Era National Historical Park and Reconstruction Era National Historic Network

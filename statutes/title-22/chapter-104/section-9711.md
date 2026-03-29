@@ -3,9 +3,9 @@ title: "Section 9711 - Humanitarian relief for the Venezuelan people"
 usc_title: 22
 usc_section: "9711"
 chapter: 104
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "22 U.S.C. § 9711"
-generated_at: "2026-03-29T22:43:26.392Z"
+generated_at: "2026-03-29T22:49:20.161Z"
 ---
 
 # § 9711. Humanitarian relief for the Venezuelan people

@@ -3,9 +3,9 @@ title: "Section 4285 - Persons released pending further judicial proceedings"
 usc_title: 18
 usc_section: "4285"
 chapter: 315
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "18 U.S.C. § 4285"
-generated_at: "2026-03-29T22:43:11.635Z"
+generated_at: "2026-03-29T22:48:44.721Z"
 ---
 
 # § 4285. Persons released pending further judicial proceedings

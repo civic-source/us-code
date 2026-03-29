@@ -3,9 +3,9 @@ title: "Section 626 - Prosecution of work when appropriation in­sufficient"
 usc_title: 33
 usc_section: "626"
 chapter: 12
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "33 U.S.C. § 626"
-generated_at: "2026-03-29T22:44:19.617Z"
+generated_at: "2026-03-29T22:49:57.052Z"
 ---
 
 # § 626. Prosecution of work when appropriation in­sufficient

@@ -3,9 +3,9 @@ title: "Section 290a - Designation of representatives and alternates; compensati
 usc_title: 22
 usc_section: "290a"
 chapter: 7
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "22 U.S.C. § 290a"
-generated_at: "2026-03-29T22:43:26.140Z"
+generated_at: "2026-03-29T22:49:19.826Z"
 ---
 
 # § 290a. Designation of representatives and alternates; compensation; loyalty checkup

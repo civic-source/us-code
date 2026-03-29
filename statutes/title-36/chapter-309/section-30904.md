@@ -3,9 +3,9 @@ title: "Section 30904 - Powers"
 usc_title: 36
 usc_section: "30904"
 chapter: 309
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "36 U.S.C. § 30904"
-generated_at: "2026-03-29T22:44:38.382Z"
+generated_at: "2026-03-29T22:50:25.207Z"
 ---
 
 # § 30904. Powers

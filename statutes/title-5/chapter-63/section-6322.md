@@ -3,9 +3,9 @@ title: "Section 6322 - Leave for jury or witness service; official duty status f
 usc_title: 5
 usc_section: "6322"
 chapter: 63
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "5 U.S.C. § 6322"
-generated_at: "2026-03-29T22:41:40.546Z"
+generated_at: "2026-03-29T22:47:33.490Z"
 ---
 
 # § 6322. Leave for jury or witness service; official duty status for certain witness service

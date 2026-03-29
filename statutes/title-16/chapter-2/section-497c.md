@@ -3,9 +3,9 @@ title: "Section 497c - Ski area permit rental charge"
 usc_title: 16
 usc_section: "497c"
 chapter: 2
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "16 U.S.C. § 497c"
-generated_at: "2026-03-29T22:42:48.825Z"
+generated_at: "2026-03-29T22:48:52.779Z"
 ---
 
 # § 497c. Ski area permit rental charge

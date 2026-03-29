@@ -3,9 +3,9 @@ title: "Section 1395eee - Payments to, and coverage of benefits under, programs 
 usc_title: 42
 usc_section: "1395eee"
 chapter: 7
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 1395eee"
-generated_at: "2026-03-29T22:45:58.813Z"
+generated_at: "2026-03-29T22:51:39.736Z"
 ---
 
 # § 1395eee. Payments to, and coverage of benefits under, programs of all-inclusive care for elderly (PACE)

@@ -3,9 +3,9 @@ title: "Section 2462 - Definitions"
 usc_title: 16
 usc_section: "2462"
 chapter: 44
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "16 U.S.C. § 2462"
-generated_at: "2026-03-29T22:42:49.072Z"
+generated_at: "2026-03-29T22:48:53.039Z"
 ---
 
 # § 2462. Definitions

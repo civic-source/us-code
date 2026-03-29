@@ -3,9 +3,9 @@ title: "Section 2214 - Repealed. Pub. L. 115–439, title I, § 101(b) , Jan. 14
 usc_title: 42
 usc_section: "2214"
 chapter: 23
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 2214"
-generated_at: "2026-03-29T22:45:59.021Z"
+generated_at: "2026-03-29T22:51:40.002Z"
 ---
 
 # § 2214. Repealed. Pub. L. 115–439, title I, § 101(b) , Jan. 14, 2019 , 132 Stat. 5568

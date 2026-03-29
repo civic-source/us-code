@@ -3,9 +3,9 @@ title: "Section 7434 - Civil damages for fraudulent filing of information return
 usc_title: 26
 usc_section: "7434"
 chapter: 76
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "26 U.S.C. § 7434"
-generated_at: "2026-03-29T22:43:54.689Z"
+generated_at: "2026-03-29T22:49:49.084Z"
 ---
 
 # § 7434. Civil damages for fraudulent filing of information returns

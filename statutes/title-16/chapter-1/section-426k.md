@@ -3,9 +3,9 @@ title: "Section 426k - Acquisition of additional lands"
 usc_title: 16
 usc_section: "426k"
 chapter: 1
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "16 U.S.C. § 426k"
-generated_at: "2026-03-29T22:42:48.710Z"
+generated_at: "2026-03-29T22:48:52.667Z"
 ---
 
 # § 426k. Acquisition of additional lands

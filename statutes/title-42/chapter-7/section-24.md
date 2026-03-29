@@ -3,9 +3,9 @@ title: "Section 24 - Premiums and bid amounts"
 usc_title: 42
 usc_section: "24"
 chapter: 7
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 24"
-generated_at: "2026-03-29T22:45:58.730Z"
+generated_at: "2026-03-29T22:51:39.636Z"
 ---
 
 # § 1395w–24. Premiums and bid amounts

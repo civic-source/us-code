@@ -3,9 +3,9 @@ title: "Section 20922 - Dru Sjodin National Sex Offender Public Website"
 usc_title: 34
 usc_section: "20922"
 chapter: 209
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "34 U.S.C. § 20922"
-generated_at: "2026-03-29T22:44:17.723Z"
+generated_at: "2026-03-29T22:50:01.843Z"
 ---
 
 # § 20922. Dru Sjodin National Sex Offender Public Website

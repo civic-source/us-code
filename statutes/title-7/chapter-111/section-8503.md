@@ -3,9 +3,9 @@ title: "Section 8503 - Brown tree snake control, interdiction, research and erad
 usc_title: 7
 usc_section: "8503"
 chapter: 111
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "7 U.S.C. § 8503"
-generated_at: "2026-03-29T22:41:59.397Z"
+generated_at: "2026-03-29T22:48:20.072Z"
 ---
 
 # § 8503. Brown tree snake control, interdiction, research and eradication

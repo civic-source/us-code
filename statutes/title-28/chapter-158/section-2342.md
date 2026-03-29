@@ -3,9 +3,9 @@ title: "Section 2342 - Jurisdiction of court of appeals"
 usc_title: 28
 usc_section: "2342"
 chapter: 158
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "28 U.S.C. § 2342"
-generated_at: "2026-03-29T22:44:01.002Z"
+generated_at: "2026-03-29T22:49:25.450Z"
 ---
 
 # § 2342. Jurisdiction of court of appeals

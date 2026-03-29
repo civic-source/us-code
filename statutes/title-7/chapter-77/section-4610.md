@@ -3,9 +3,9 @@ title: "Section 4610 - Enforcement"
 usc_title: 7
 usc_section: "4610"
 chapter: 77
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "7 U.S.C. § 4610"
-generated_at: "2026-03-29T22:41:59.275Z"
+generated_at: "2026-03-29T22:48:19.939Z"
 ---
 
 # § 4610. Enforcement

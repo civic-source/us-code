@@ -3,9 +3,9 @@ title: "Section 53401 - Definitions"
 usc_title: 46
 usc_section: "53401"
 chapter: 534
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "46 U.S.C. § 53401"
-generated_at: "2026-03-29T22:46:48.582Z"
+generated_at: "2026-03-29T22:51:53.650Z"
 ---
 
 # § 53401. Definitions

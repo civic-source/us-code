@@ -3,9 +3,9 @@ title: "Section 3733 - Property management"
 usc_title: 38
 usc_section: "3733"
 chapter: 37
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "38 U.S.C. § 3733"
-generated_at: "2026-03-29T22:44:36.530Z"
+generated_at: "2026-03-29T22:50:10.004Z"
 ---
 
 # § 3733. Property management

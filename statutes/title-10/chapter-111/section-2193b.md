@@ -3,9 +3,9 @@ title: "Section 2193b - Improvement of education in technical fields: program fo
 usc_title: 10
 usc_section: "2193b"
 chapter: 111
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "10 U.S.C. § 2193b"
-generated_at: "2026-03-29T22:42:13.508Z"
+generated_at: "2026-03-29T22:47:53.259Z"
 ---
 
 # § 2193b. Improvement of education in technical fields: program for support of elementary and secondary education in science, technology, engineering, art and design, and mathematics

@@ -3,9 +3,9 @@ title: "Section 353 - Leases"
 usc_title: 16
 usc_section: "353"
 chapter: 1
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "16 U.S.C. § 353"
-generated_at: "2026-03-29T22:42:48.636Z"
+generated_at: "2026-03-29T22:48:52.593Z"
 ---
 
 # § 353. Leases

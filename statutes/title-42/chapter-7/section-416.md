@@ -3,9 +3,9 @@ title: "Section 416 - Additional definitions"
 usc_title: 42
 usc_section: "416"
 chapter: 7
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 416"
-generated_at: "2026-03-29T22:45:58.564Z"
+generated_at: "2026-03-29T22:51:39.410Z"
 ---
 
 # § 416. Additional definitions

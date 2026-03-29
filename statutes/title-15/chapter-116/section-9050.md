@@ -3,9 +3,9 @@ title: "Section 9050 - Temporary relief for community banks"
 usc_title: 15
 usc_section: "9050"
 chapter: 116
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "15 U.S.C. § 9050"
-generated_at: "2026-03-29T22:42:31.997Z"
+generated_at: "2026-03-29T22:48:36.518Z"
 ---
 
 # § 9050. Temporary relief for community banks

@@ -3,9 +3,9 @@ title: "Section 2814 - Special authority for development of Ford Island, Hawaii"
 usc_title: 10
 usc_section: "2814"
 chapter: 169
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "10 U.S.C. § 2814"
-generated_at: "2026-03-29T22:42:13.563Z"
+generated_at: "2026-03-29T22:47:53.309Z"
 ---
 
 # § 2814. Special authority for development of Ford Island, Hawaii

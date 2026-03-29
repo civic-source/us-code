@@ -3,9 +3,9 @@ title: "Section 9097 - Implementation"
 usc_title: 7
 usc_section: "9097"
 chapter: 115
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "7 U.S.C. § 9097"
-generated_at: "2026-03-29T22:41:59.418Z"
+generated_at: "2026-03-29T22:48:20.092Z"
 ---
 
 # § 9097. Implementation

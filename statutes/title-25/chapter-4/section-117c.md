@@ -3,9 +3,9 @@ title: "Section 117c - Standards for approval of tribal payments; United States 
 usc_title: 25
 usc_section: "117c"
 chapter: 4
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "25 U.S.C. § 117c"
-generated_at: "2026-03-29T22:43:16.752Z"
+generated_at: "2026-03-29T22:49:11.588Z"
 ---
 
 # § 117c. Standards for approval of tribal payments; United States not liable for distribution of funds; continuing responsibility under other provisions

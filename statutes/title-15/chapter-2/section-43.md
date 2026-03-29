@@ -3,9 +3,9 @@ title: "Section 43 - Office and place of meeting"
 usc_title: 15
 usc_section: "43"
 chapter: 2
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "15 U.S.C. § 43"
-generated_at: "2026-03-29T22:42:31.381Z"
+generated_at: "2026-03-29T22:48:36.029Z"
 ---
 
 # § 43. Office and place of meeting

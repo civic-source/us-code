@@ -3,9 +3,9 @@ title: "Section 5671 - Penalty and forfeiture for evasion of beer tax and fraudu
 usc_title: 26
 usc_section: "5671"
 chapter: 51
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "26 U.S.C. § 5671"
-generated_at: "2026-03-29T22:43:54.616Z"
+generated_at: "2026-03-29T22:49:48.990Z"
 ---
 
 # § 5671. Penalty and forfeiture for evasion of beer tax and fraudulent noncompliance with requirements

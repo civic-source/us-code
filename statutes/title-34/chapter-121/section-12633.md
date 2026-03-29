@@ -3,9 +3,9 @@ title: "Section 12633 - Flexibility in making of appropriations"
 usc_title: 34
 usc_section: "12633"
 chapter: 121
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "34 U.S.C. § 12633"
-generated_at: "2026-03-29T22:44:17.708Z"
+generated_at: "2026-03-29T22:50:01.822Z"
 ---
 
 # § 12633. Flexibility in making of appropriations

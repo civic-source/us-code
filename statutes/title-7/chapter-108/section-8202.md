@@ -3,9 +3,9 @@ title: "Section 8202 - Eligibility"
 usc_title: 7
 usc_section: "8202"
 chapter: 108
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "7 U.S.C. § 8202"
-generated_at: "2026-03-29T22:41:59.390Z"
+generated_at: "2026-03-29T22:48:20.066Z"
 ---
 
 # § 8202. Eligibility

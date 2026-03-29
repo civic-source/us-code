@@ -3,9 +3,9 @@ title: "Section 1747g - Debentures"
 usc_title: 12
 usc_section: "1747g"
 chapter: 13
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "12 U.S.C. § 1747g"
-generated_at: "2026-03-29T22:42:25.375Z"
+generated_at: "2026-03-29T22:48:29.453Z"
 ---
 
 # § 1747g. Debentures

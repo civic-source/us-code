@@ -3,9 +3,9 @@ title: "Section 2305 - Use of FMHA funds"
 usc_title: 33
 usc_section: "2305"
 chapter: 36
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "33 U.S.C. § 2305"
-generated_at: "2026-03-29T22:44:19.705Z"
+generated_at: "2026-03-29T22:49:57.165Z"
 ---
 
 # § 2305. Use of FMHA funds

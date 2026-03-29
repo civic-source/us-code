@@ -3,9 +3,9 @@ title: "Section 47533 - Relationship to other laws"
 usc_title: 49
 usc_section: "47533"
 chapter: 475
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "49 U.S.C. § 47533"
-generated_at: "2026-03-29T22:46:20.360Z"
+generated_at: "2026-03-29T22:52:18.712Z"
 ---
 
 # § 47533. Relationship to other laws

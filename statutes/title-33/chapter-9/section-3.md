@@ -3,9 +3,9 @@ title: "Section 3 - Coastal storm damage reduction contracts"
 usc_title: 33
 usc_section: "3"
 chapter: 9
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "33 U.S.C. § 3"
-generated_at: "2026-03-29T22:44:19.599Z"
+generated_at: "2026-03-29T22:49:57.033Z"
 ---
 
 # § 426e–3. Coastal storm damage reduction contracts

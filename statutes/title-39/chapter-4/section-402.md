@@ -3,9 +3,9 @@ title: "Section 402 - Delegation of authority"
 usc_title: 39
 usc_section: "402"
 chapter: 4
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "39 U.S.C. § 402"
-generated_at: "2026-03-29T22:44:23.830Z"
+generated_at: "2026-03-29T22:50:10.458Z"
 ---
 
 # § 402. Delegation of authority

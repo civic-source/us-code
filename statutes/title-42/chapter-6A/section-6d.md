@@ -3,9 +3,9 @@ title: "Section 6d - Targeted liability protections for pandemic and epidemic pr
 usc_title: 42
 usc_section: "6d"
 chapter: 6
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 6d"
-generated_at: "2026-03-29T22:45:58.283Z"
+generated_at: "2026-03-29T22:51:39.058Z"
 ---
 
 # § 247d–6d. Targeted liability protections for pandemic and epidemic products and security countermeasures

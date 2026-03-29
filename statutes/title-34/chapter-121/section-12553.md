@@ -3,9 +3,9 @@ title: "Section 12553 - Establishment of Office of the Police Corps and Law Enfo
 usc_title: 34
 usc_section: "12553"
 chapter: 121
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "34 U.S.C. § 12553"
-generated_at: "2026-03-29T22:44:17.705Z"
+generated_at: "2026-03-29T22:50:01.817Z"
 ---
 
 # § 12553. Establishment of Office of the Police Corps and Law Enforcement Education

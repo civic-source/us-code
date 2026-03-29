@@ -3,9 +3,9 @@ title: "Section 8878 - Interfering with delivery, custody, or sale of prize prop
 usc_title: 10
 usc_section: "8878"
 chapter: 883
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "10 U.S.C. § 8878"
-generated_at: "2026-03-29T22:42:13.677Z"
+generated_at: "2026-03-29T22:47:53.646Z"
 ---
 
 # § 8878. Interfering with delivery, custody, or sale of prize property

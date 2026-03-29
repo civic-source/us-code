@@ -3,9 +3,9 @@ title: "Section 3292 - Partnerships to build capacity in international agricultu
 usc_title: 7
 usc_section: "3292"
 chapter: 64
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "7 U.S.C. § 3292"
-generated_at: "2026-03-29T22:41:59.253Z"
+generated_at: "2026-03-29T22:48:19.916Z"
 ---
 
 # § 3292. Partnerships to build capacity in international agricultural research, extension, and teaching

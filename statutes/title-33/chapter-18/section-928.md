@@ -3,9 +3,9 @@ title: "Section 928 - Fees for services"
 usc_title: 33
 usc_section: "928"
 chapter: 18
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "33 U.S.C. § 928"
-generated_at: "2026-03-29T22:44:19.638Z"
+generated_at: "2026-03-29T22:49:57.080Z"
 ---
 
 # § 928. Fees for services

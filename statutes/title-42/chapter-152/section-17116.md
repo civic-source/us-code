@@ -3,9 +3,9 @@ title: "Section 17116 - Industrial research and assessment centers"
 usc_title: 42
 usc_section: "17116"
 chapter: 152
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 17116"
-generated_at: "2026-03-29T22:45:59.606Z"
+generated_at: "2026-03-29T22:51:40.729Z"
 ---
 
 # § 17116. Industrial research and assessment centers

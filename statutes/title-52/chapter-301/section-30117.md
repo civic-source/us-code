@@ -3,9 +3,9 @@ title: "Section 30117 - Modification of certain limits for House candidates in r
 usc_title: 52
 usc_section: "30117"
 chapter: 301
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "52 U.S.C. § 30117"
-generated_at: "2026-03-29T22:46:58.566Z"
+generated_at: "2026-03-29T22:52:22.598Z"
 ---
 
 # § 30117. Modification of certain limits for House candidates in response to personal fund expenditures of opponents

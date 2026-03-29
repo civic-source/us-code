@@ -3,9 +3,9 @@ title: "Section 70908 - Restrictions"
 usc_title: 36
 usc_section: "70908"
 chapter: 709
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "36 U.S.C. § 70908"
-generated_at: "2026-03-29T22:44:38.388Z"
+generated_at: "2026-03-29T22:50:25.216Z"
 ---
 
 # § 70908. Restrictions

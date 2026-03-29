@@ -3,9 +3,9 @@ title: "Section 40c - Comprehensive plan for expenditure of appropriations"
 usc_title: 42
 usc_section: "40c"
 chapter: 6
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 40c"
-generated_at: "2026-03-29T22:45:58.490Z"
+generated_at: "2026-03-29T22:51:39.321Z"
 ---
 
 # § 300cc–40c. Comprehensive plan for expenditure of appropriations

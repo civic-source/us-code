@@ -3,9 +3,9 @@ title: "Section 3922a - Representation of minorities and women in Foreign Servic
 usc_title: 22
 usc_section: "3922a"
 chapter: 52
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "22 U.S.C. § 3922a"
-generated_at: "2026-03-29T22:43:26.263Z"
+generated_at: "2026-03-29T22:49:19.996Z"
 ---
 
 # § 3922a. Representation of minorities and women in Foreign Service

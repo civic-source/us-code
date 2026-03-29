@@ -3,9 +3,9 @@ title: "Section 468 - Special rules for mining and solid waste reclamation and c
 usc_title: 26
 usc_section: "468"
 chapter: 1
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "26 U.S.C. § 468"
-generated_at: "2026-03-29T22:43:54.422Z"
+generated_at: "2026-03-29T22:49:48.757Z"
 ---
 
 # § 468. Special rules for mining and solid waste reclamation and closing costs

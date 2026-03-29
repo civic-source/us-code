@@ -3,9 +3,9 @@ title: "Section 3058i - Prevention of elder abuse, neglect, and exploitation"
 usc_title: 42
 usc_section: "3058i"
 chapter: 35
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 3058i"
-generated_at: "2026-03-29T22:45:59.062Z"
+generated_at: "2026-03-29T22:51:40.064Z"
 ---
 
 # § 3058i. Prevention of elder abuse, neglect, and exploitation

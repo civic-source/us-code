@@ -3,9 +3,9 @@ title: "Section 312 - Inspector General"
 usc_title: 38
 usc_section: "312"
 chapter: 3
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "38 U.S.C. § 312"
-generated_at: "2026-03-29T22:44:36.449Z"
+generated_at: "2026-03-29T22:50:09.914Z"
 ---
 
 # § 312. Inspector General
@@ -27,3 +27,27 @@ generated_at: "2026-03-29T22:44:36.449Z"
       - **(ii)** any Member of Congress upon request; and
     - **(C)** not later than 3 days after the work product is submitted in final form to the Secretary, post the work product on the Internet website of the Inspector General.
   - **(2)** Nothing in this subsection shall be construed to authorize the public disclosure of information that is specifically prohibited from disclosure by any other provision of law.
+- **(d)**
+  - **(1)**
+    - **(A)** In addition to the authority otherwise provided by the Inspector General Act of 1978 (5 U.S.C. App.) and in accordance with the requirements of this subsection, the Inspector General, in carrying out the provisions of this section, may require by subpoena the attendance and testimony of witnesses as necessary in the performance of the functions assigned to the Inspector General by the Inspector General Act of 1978 (5 U.S.C. App.) and this section, which in the case of contumacy or refusal to obey, such subpoena shall be enforceable by order of any appropriate district court of the United States.
+    - **(B)** The Inspector General may not require by subpoena the attendance and testimony under subparagraph (A) of—
+      - **(i)** any current Federal employee; or
+      - **(ii)** any witness as part of any criminal proceeding.
+  - **(2)** The authority to issue a subpoena under paragraph (1) may not be delegated.
+  - **(3)**
+    - **(A)** The Inspector General shall notify the Attorney General of the intent to issue a subpoena under paragraph (1).
+    - **(B)** Not later than 10 days after the date on which the Attorney General is notified pursuant to subparagraph (A), the Attorney General may object in writing to the issuance of the subpoena if the subpoena will interfere with an ongoing investigation and, if the Attorney General makes such an objection, the Inspector General may not issue the subpoena.
+    - **(C)** If the Attorney General does not object in writing to the issuance of the subpoena during the 10-day period described in subparagraph (B), the Inspector General may issue the subpoena.
+  - **(4)** Before requiring by subpoena under paragraph (1) the attendance and testimony of a witness, the Inspector General shall, to the degree practicable—
+    - **(A)** notify the witness of the intent of the Inspector General to issue the subpoena; and
+    - **(B)** provide the witness an opportunity to attend and testify voluntarily.
+  - **(5)** Whenever requiring by subpoena under paragraph (1) the attendance and testimony of a witness, the Inspector General shall, to the greatest extent practicable, travel to residence of the witness, the principal place of business of the witness, or other similar location that is in proximity to the residence of the witness.
+  - **(6)** 1 1 See Effective Date of 2022 Amendment note below. (A) Along with each semiannual report submitted by the Inspector General pursuant to section 5(b) of the Inspector General Act of 1978 (5 U.S.C. App. 5(b)), the Inspector General shall include a report on the exercise of the authority provided by paragraph (1).
+    - **(B)** Each report submitted under subparagraph (A) shall include, for the most recently completed six-month period, the following:
+      - **(i)** The number of testimonial subpoenas issued and the number of individuals interviewed pursuant to such subpoenas.
+      - **(ii)** The number of proposed testimonial subpoenas with respect to which the Attorney General objected under paragraph (3)(B).
+      - **(iii)** A discussion of any challenges or concerns that the Inspector General has encountered exercising the authority provided by paragraph (1).
+      - **(iv)** Such other matters as the Inspector General considers appropriate.
+  - **(7)**
+    - **(A)** The authority provided by paragraph (1)(A) shall terminate on May 31, 2025 .
+    - **(B)** The termination of authority by subparagraph (A) shall not affect the enforceability of a subpoena issued under paragraph (1)(A) before the date of such termination.

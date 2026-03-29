@@ -3,9 +3,9 @@ title: "Section 217b - Abraham Lincoln Birthplace National Historical Park"
 usc_title: 16
 usc_section: "217b"
 chapter: 1
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "16 U.S.C. § 217b"
-generated_at: "2026-03-29T22:42:48.621Z"
+generated_at: "2026-03-29T22:48:52.578Z"
 ---
 
 # § 217b. Abraham Lincoln Birthplace National Historical Park

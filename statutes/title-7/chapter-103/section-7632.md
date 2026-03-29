@@ -3,9 +3,9 @@ title: "Section 7632 - Specialty crop research initiative"
 usc_title: 7
 usc_section: "7632"
 chapter: 103
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "7 U.S.C. § 7632"
-generated_at: "2026-03-29T22:41:59.362Z"
+generated_at: "2026-03-29T22:48:20.040Z"
 ---
 
 # § 7632. Specialty crop research initiative

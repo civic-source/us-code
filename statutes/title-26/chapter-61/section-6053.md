@@ -3,9 +3,9 @@ title: "Section 6053 - Reporting of tips"
 usc_title: 26
 usc_section: "6053"
 chapter: 61
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "26 U.S.C. § 6053"
-generated_at: "2026-03-29T22:43:54.634Z"
+generated_at: "2026-03-29T22:49:49.016Z"
 ---
 
 # § 6053. Reporting of tips

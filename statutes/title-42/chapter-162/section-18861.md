@@ -3,9 +3,9 @@ title: "Section 18861 - Office of Clean Energy Demonstrations"
 usc_title: 42
 usc_section: "18861"
 chapter: 162
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 18861"
-generated_at: "2026-03-29T22:45:59.657Z"
+generated_at: "2026-03-29T22:51:40.788Z"
 ---
 
 # § 18861. Office of Clean Energy Demonstrations
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T22:45:59.657Z"
   - **(1)** The term “covered project” means a demonstration project of the Department that—
     - **(A)** receives or is eligible to receive funding from the Secretary; and
     - **(B)** is authorized under—
-      - **(i)** this chapter; or
+      - **(i)** this division; or
       - **(ii)** the Energy Act of 2020 ( Public Law 116–260 ; 134 Stat. 1182 ). 1 1 See References in Text note below.
   - **(2)** The term “program” means the program established under subsection (b).
 - **(b)** The Secretary, in coordination with the heads of relevant program offices of the Department, shall establish a program to conduct project management and oversight of covered projects, including by—

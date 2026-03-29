@@ -3,9 +3,9 @@ title: "Section 2703 - Defenses to liability"
 usc_title: 33
 usc_section: "2703"
 chapter: 40
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "33 U.S.C. § 2703"
-generated_at: "2026-03-29T22:44:19.718Z"
+generated_at: "2026-03-29T22:49:57.182Z"
 ---
 
 # § 2703. Defenses to liability

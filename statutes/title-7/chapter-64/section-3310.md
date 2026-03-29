@@ -3,9 +3,9 @@ title: "Section 3310 - Limitation on indirect costs for agricultural research, e
 usc_title: 7
 usc_section: "3310"
 chapter: 64
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "7 U.S.C. § 3310"
-generated_at: "2026-03-29T22:41:59.254Z"
+generated_at: "2026-03-29T22:48:19.917Z"
 ---
 
 # § 3310. Limitation on indirect costs for agricultural research, education, and extension programs

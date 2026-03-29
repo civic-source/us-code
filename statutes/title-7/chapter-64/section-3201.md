@@ -3,9 +3,9 @@ title: "Section 3201 - Funds appropriated or otherwise made available pursuant t
 usc_title: 7
 usc_section: "3201"
 chapter: 64
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "7 U.S.C. § 3201"
-generated_at: "2026-03-29T22:41:59.249Z"
+generated_at: "2026-03-29T22:48:19.913Z"
 ---
 
 # § 3201. Funds appropriated or otherwise made available pursuant to other provisions of law

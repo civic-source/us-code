@@ -3,9 +3,9 @@ title: "Section 3720D - Garnishment"
 usc_title: 31
 usc_section: "3720D"
 chapter: 37
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "31 U.S.C. § 3720D"
-generated_at: "2026-03-29T22:44:05.008Z"
+generated_at: "2026-03-29T22:49:54.622Z"
 ---
 
 # § 3720D. Garnishment

@@ -3,9 +3,9 @@ title: "Section 7209 - Requirements relating to certain travel-related transacti
 usc_title: 22
 usc_section: "7209"
 chapter: 79
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "22 U.S.C. § 7209"
-generated_at: "2026-03-29T22:43:26.340Z"
+generated_at: "2026-03-29T22:49:20.090Z"
 ---
 
 # § 7209. Requirements relating to certain travel-related transactions with Cuba

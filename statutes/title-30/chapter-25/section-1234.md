@@ -3,9 +3,9 @@ title: "Section 1234 - Eligible lands and water"
 usc_title: 30
 usc_section: "1234"
 chapter: 25
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "30 U.S.C. § 1234"
-generated_at: "2026-03-29T22:43:38.441Z"
+generated_at: "2026-03-29T22:49:26.361Z"
 ---
 
 # § 1234. Eligible lands and water

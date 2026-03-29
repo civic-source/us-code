@@ -3,9 +3,9 @@ title: "Section 2503 - Approval of trade agreements"
 usc_title: 19
 usc_section: "2503"
 chapter: 13
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "19 U.S.C. § 2503"
-generated_at: "2026-03-29T22:43:03.652Z"
+generated_at: "2026-03-29T22:48:58.875Z"
 ---
 
 # § 2503. Approval of trade agreements

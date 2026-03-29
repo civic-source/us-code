@@ -3,9 +3,9 @@ title: "Section 1040 - Transfer of certain farm, etc., real property"
 usc_title: 26
 usc_section: "1040"
 chapter: 1
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "26 U.S.C. § 1040"
-generated_at: "2026-03-29T22:43:54.501Z"
+generated_at: "2026-03-29T22:49:48.856Z"
 ---
 
 # § 1040. Transfer of certain farm, etc., real property

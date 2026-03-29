@@ -3,9 +3,9 @@ title: "Section 657g - Participation in federally funded projects"
 usc_title: 15
 usc_section: "657g"
 chapter: 14
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "15 U.S.C. § 657g"
-generated_at: "2026-03-29T22:42:31.612Z"
+generated_at: "2026-03-29T22:48:36.230Z"
 ---
 
 # § 657g. Participation in federally funded projects

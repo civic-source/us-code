@@ -3,9 +3,9 @@ title: "Section 3811 - Issuance of regulations; maintenance of rec­ords"
 usc_title: 7
 usc_section: "3811"
 chapter: 69
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "7 U.S.C. § 3811"
-generated_at: "2026-03-29T22:41:59.264Z"
+generated_at: "2026-03-29T22:48:19.929Z"
 ---
 
 # § 3811. Issuance of regulations; maintenance of rec­ords

@@ -3,9 +3,9 @@ title: "Section 654 - Study by Government Accountability Office of forms of Fede
 usc_title: 2
 usc_section: "654"
 chapter: 17
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "2 U.S.C. § 654"
-generated_at: "2026-03-29T22:41:27.169Z"
+generated_at: "2026-03-29T22:47:36.174Z"
 ---
 
 # § 654. Study by Government Accountability Office of forms of Federal financial commitment not reviewed annually by Congress

@@ -3,9 +3,9 @@ title: "Section 2286 - Acceptance of certain funds for mitigation"
 usc_title: 33
 usc_section: "2286"
 chapter: 36
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "33 U.S.C. § 2286"
-generated_at: "2026-03-29T22:44:19.704Z"
+generated_at: "2026-03-29T22:49:57.164Z"
 ---
 
 # § 2286. Acceptance of certain funds for mitigation

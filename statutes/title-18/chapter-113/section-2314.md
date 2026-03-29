@@ -3,9 +3,9 @@ title: "Section 2314 - Transportation of stolen goods, securities, moneys, fraud
 usc_title: 18
 usc_section: "2314"
 chapter: 113
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "18 U.S.C. § 2314"
-generated_at: "2026-03-29T22:43:11.588Z"
+generated_at: "2026-03-29T22:48:44.661Z"
 ---
 
 # § 2314. Transportation of stolen goods, securities, moneys, fraudulent State tax stamps, or articles used in counterfeiting

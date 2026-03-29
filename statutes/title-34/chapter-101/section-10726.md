@@ -3,9 +3,9 @@ title: "Section 10726 - Rules and regulations"
 usc_title: 34
 usc_section: "10726"
 chapter: 101
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "34 U.S.C. § 10726"
-generated_at: "2026-03-29T22:44:17.677Z"
+generated_at: "2026-03-29T22:50:01.781Z"
 ---
 
 # § 10726. Rules and regulations

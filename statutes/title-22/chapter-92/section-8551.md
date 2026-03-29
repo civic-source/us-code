@@ -3,9 +3,9 @@ title: "Section 8551 - General provisions"
 usc_title: 22
 usc_section: "8551"
 chapter: 92
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "22 U.S.C. § 8551"
-generated_at: "2026-03-29T22:43:26.365Z"
+generated_at: "2026-03-29T22:49:20.123Z"
 ---
 
 # § 8551. General provisions

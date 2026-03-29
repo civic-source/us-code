@@ -3,9 +3,9 @@ title: "Section 8116 - Authorization of appropriations"
 usc_title: 15
 usc_section: "8116"
 chapter: 107
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "15 U.S.C. § 8116"
-generated_at: "2026-03-29T22:42:31.958Z"
+generated_at: "2026-03-29T22:48:36.490Z"
 ---
 
 # § 8116. Authorization of appropriations

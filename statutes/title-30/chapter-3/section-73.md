@@ -3,9 +3,9 @@ title: "Section 73 - Presentation of claims"
 usc_title: 30
 usc_section: "73"
 chapter: 3
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "30 U.S.C. § 73"
-generated_at: "2026-03-29T22:43:38.398Z"
+generated_at: "2026-03-29T22:49:26.311Z"
 ---
 
 # § 73. Presentation of claims

@@ -3,9 +3,9 @@ title: "Section 1040 - Fraud in connection with major disaster or emergency bene
 usc_title: 18
 usc_section: "1040"
 chapter: 47
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "18 U.S.C. § 1040"
-generated_at: "2026-03-29T22:43:11.557Z"
+generated_at: "2026-03-29T22:48:44.612Z"
 ---
 
 # § 1040. Fraud in connection with major disaster or emergency benefits

@@ -3,9 +3,9 @@ title: "Section 4403 - Duties of Secretary of Agriculture"
 usc_title: 7
 usc_section: "4403"
 chapter: 75
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "7 U.S.C. § 4403"
-generated_at: "2026-03-29T22:41:59.268Z"
+generated_at: "2026-03-29T22:48:19.933Z"
 ---
 
 # § 4403. Duties of Secretary of Agriculture

@@ -3,9 +3,9 @@ title: "Section 222c - Armed forces: Out-Year Unconstrained Total Munitions Requ
 usc_title: 10
 usc_section: "222c"
 chapter: 9
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "10 U.S.C. § 222c"
-generated_at: "2026-03-29T22:42:13.324Z"
+generated_at: "2026-03-29T22:47:53.114Z"
 ---
 
 # § 222c. Armed forces: Out-Year Unconstrained Total Munitions Requirements; Out-Year inventory numbers

@@ -3,9 +3,9 @@ title: "Section 408a - “United States” defined"
 usc_title: 22
 usc_section: "408a"
 chapter: 9
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "22 U.S.C. § 408a"
-generated_at: "2026-03-29T22:43:26.147Z"
+generated_at: "2026-03-29T22:49:19.836Z"
 ---
 
 # § 408a. “United States” defined

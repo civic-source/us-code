@@ -3,9 +3,9 @@ title: "Section 977 - Omitted"
 usc_title: 20
 usc_section: "977"
 chapter: 26
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "20 U.S.C. § 977"
-generated_at: "2026-03-29T22:42:42.375Z"
+generated_at: "2026-03-29T22:49:03.444Z"
 ---
 
 # § 977. Omitted

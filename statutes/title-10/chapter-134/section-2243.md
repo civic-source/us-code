@@ -3,9 +3,9 @@ title: "Section 2243 - Authority to use appropriated funds to support student me
 usc_title: 10
 usc_section: "2243"
 chapter: 134
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "10 U.S.C. § 2243"
-generated_at: "2026-03-29T22:42:13.516Z"
+generated_at: "2026-03-29T22:47:53.264Z"
 ---
 
 # § 2243. Authority to use appropriated funds to support student meal programs in overseas defense dependents’ schools

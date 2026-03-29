@@ -3,9 +3,9 @@ title: "Section 10304 - Research concerning water resource-related problems deem
 usc_title: 42
 usc_section: "10304"
 chapter: 109
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 10304"
-generated_at: "2026-03-29T22:45:59.424Z"
+generated_at: "2026-03-29T22:51:40.516Z"
 ---
 
 # § 10304. Research concerning water resource-related problems deemed to be in national interest

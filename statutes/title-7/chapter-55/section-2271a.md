@@ -3,9 +3,9 @@ title: "Section 2271a - Advanced marketing training for farmers and ranchers"
 usc_title: 7
 usc_section: "2271a"
 chapter: 55
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "7 U.S.C. § 2271a"
-generated_at: "2026-03-29T22:41:59.217Z"
+generated_at: "2026-03-29T22:48:19.891Z"
 ---
 
 # § 2271a. Advanced marketing training for farmers and ranchers

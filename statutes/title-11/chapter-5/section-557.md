@@ -3,9 +3,9 @@ title: "Section 557 - Expedited determination of interests in, and abandonment o
 usc_title: 11
 usc_section: "557"
 chapter: 5
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "11 U.S.C. § 557"
-generated_at: "2026-03-29T22:42:18.061Z"
+generated_at: "2026-03-29T22:48:38.903Z"
 ---
 
 # § 557. Expedited determination of interests in, and abandonment or other disposition of grain assets

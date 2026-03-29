@@ -3,9 +3,9 @@ title: "Section 1834 - Reduced assessment rate for deposits attributable to life
 usc_title: 12
 usc_section: "1834"
 chapter: 16
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "12 U.S.C. § 1834"
-generated_at: "2026-03-29T22:42:25.461Z"
+generated_at: "2026-03-29T22:48:29.520Z"
 ---
 
 # § 1834. Reduced assessment rate for deposits attributable to lifeline accounts

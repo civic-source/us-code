@@ -3,9 +3,9 @@ title: "Section 1783 - Subpoena of person in foreign country"
 usc_title: 28
 usc_section: "1783"
 chapter: 117
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "28 U.S.C. § 1783"
-generated_at: "2026-03-29T22:44:00.993Z"
+generated_at: "2026-03-29T22:49:25.439Z"
 ---
 
 # § 1783. Subpoena of person in foreign country

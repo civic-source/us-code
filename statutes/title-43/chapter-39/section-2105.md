@@ -3,9 +3,9 @@ title: "Section 2105 - Rights of ownership"
 usc_title: 43
 usc_section: "2105"
 chapter: 39
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "43 U.S.C. § 2105"
-generated_at: "2026-03-29T22:45:06.629Z"
+generated_at: "2026-03-29T22:50:31.048Z"
 ---
 
 # § 2105. Rights of ownership

@@ -3,9 +3,9 @@ title: "Section 437e - Repealed. Pub. L. 96–187, title I, § 105(1) , Jan. 8, 
 usc_title: 2
 usc_section: "437e"
 chapter: 14
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "2 U.S.C. § 437e"
-generated_at: "2026-03-29T22:41:27.158Z"
+generated_at: "2026-03-29T22:47:36.164Z"
 ---
 
 # § 437e. Repealed. Pub. L. 96–187, title I, § 105(1) , Jan. 8, 1980 , 93 Stat. 1354

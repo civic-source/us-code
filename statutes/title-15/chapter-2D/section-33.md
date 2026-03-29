@@ -3,9 +3,9 @@ title: "Section 33 - Destruction and falsification of reports and records"
 usc_title: 15
 usc_section: "33"
 chapter: 2
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "15 U.S.C. § 33"
-generated_at: "2026-03-29T22:42:31.507Z"
+generated_at: "2026-03-29T22:48:36.139Z"
 ---
 
 # § 80a–33. Destruction and falsification of reports and records

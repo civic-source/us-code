@@ -3,9 +3,9 @@ title: "Section 1365 - Annual report of plan administrator"
 usc_title: 29
 usc_section: "1365"
 chapter: 18
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "29 U.S.C. § 1365"
-generated_at: "2026-03-29T22:43:40.347Z"
+generated_at: "2026-03-29T22:49:28.624Z"
 ---
 
 # § 1365. Annual report of plan administrator

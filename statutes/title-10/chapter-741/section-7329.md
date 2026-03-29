@@ -3,9 +3,9 @@ title: "Section 7329 - Computation of retired pay: law applicable"
 usc_title: 10
 usc_section: "7329"
 chapter: 741
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "10 U.S.C. § 7329"
-generated_at: "2026-03-29T22:42:13.634Z"
+generated_at: "2026-03-29T22:47:53.379Z"
 ---
 
 # § 7329. Computation of retired pay: law applicable

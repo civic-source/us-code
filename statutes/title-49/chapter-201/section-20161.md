@@ -3,9 +3,9 @@ title: "Section 20161 - Fostering introduction of new technology to improve safe
 usc_title: 49
 usc_section: "20161"
 chapter: 201
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "49 U.S.C. § 20161"
-generated_at: "2026-03-29T22:46:20.251Z"
+generated_at: "2026-03-29T22:52:18.562Z"
 ---
 
 # § 20161. Fostering introduction of new technology to improve safety at highway-rail grade crossings

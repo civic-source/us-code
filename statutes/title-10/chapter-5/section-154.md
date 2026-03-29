@@ -3,9 +3,9 @@ title: "Section 154 - Vice Chairman"
 usc_title: 10
 usc_section: "154"
 chapter: 5
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "10 U.S.C. § 154"
-generated_at: "2026-03-29T22:42:13.313Z"
+generated_at: "2026-03-29T22:47:53.105Z"
 ---
 
 # § 154. Vice Chairman

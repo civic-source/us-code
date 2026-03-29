@@ -3,9 +3,9 @@ title: "Section 8278 - Authorization of appropriations"
 usc_title: 42
 usc_section: "8278"
 chapter: 91
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 8278"
-generated_at: "2026-03-29T22:45:59.321Z"
+generated_at: "2026-03-29T22:51:40.403Z"
 ---
 
 # § 8278. Authorization of appropriations

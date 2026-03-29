@@ -3,9 +3,9 @@ title: "Section 7701 - Purpose"
 usc_title: 20
 usc_section: "7701"
 chapter: 70
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "20 U.S.C. § 7701"
-generated_at: "2026-03-29T22:42:42.671Z"
+generated_at: "2026-03-29T22:49:03.763Z"
 ---
 
 # § 7701. Purpose

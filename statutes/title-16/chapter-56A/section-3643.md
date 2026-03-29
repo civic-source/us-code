@@ -3,9 +3,9 @@ title: "Section 3643 - Savings provision"
 usc_title: 16
 usc_section: "3643"
 chapter: 56
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "16 U.S.C. § 3643"
-generated_at: "2026-03-29T22:42:49.096Z"
+generated_at: "2026-03-29T22:48:53.063Z"
 ---
 
 # § 3643. Savings provision

@@ -3,9 +3,9 @@ title: "Section 11905 - Definitions"
 usc_title: 42
 usc_section: "11905"
 chapter: 124
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 11905"
-generated_at: "2026-03-29T22:45:59.459Z"
+generated_at: "2026-03-29T22:51:40.560Z"
 ---
 
 # § 11905. Definitions

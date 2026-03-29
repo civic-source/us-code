@@ -3,14 +3,14 @@ title: "Section 18725 - Cybersecurity plan"
 usc_title: 42
 usc_section: "18725"
 chapter: 162
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 18725"
-generated_at: "2026-03-29T22:45:59.649Z"
+generated_at: "2026-03-29T22:51:40.779Z"
 ---
 
 # § 18725. Cybersecurity plan
 
-- **(a)** The Secretary may require, as the Secretary determines appropriate, a recipient of any award or other funding under this chapter—
+- **(a)** The Secretary may require, as the Secretary determines appropriate, a recipient of any award or other funding under this division—
   - **(1)** to submit to the Secretary, prior to the issuance of the award or other funding, a cybersecurity plan that demonstrates the cybersecurity maturity of the recipient in the context of the project for which that award or other funding was provided; and
   - **(2)** establish a plan for maintaining and improving cybersecurity throughout the life of the proposed solution of the project.
 - **(b)** A cybersecurity plan described in subsection (a) shall, at a minimum, describe how the recipient described in that subsection—

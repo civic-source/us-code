@@ -3,9 +3,9 @@ title: "Section 6402 - Data standards for grant reporting"
 usc_title: 31
 usc_section: "6402"
 chapter: 64
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "31 U.S.C. § 6402"
-generated_at: "2026-03-29T22:44:05.032Z"
+generated_at: "2026-03-29T22:49:54.657Z"
 ---
 
 # § 6402. Data standards for grant reporting

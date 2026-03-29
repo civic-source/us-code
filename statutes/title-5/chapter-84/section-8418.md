@@ -3,9 +3,9 @@ title: "Section 8418 - Survivor elections; deposit; offsets"
 usc_title: 5
 usc_section: "8418"
 chapter: 84
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "5 U.S.C. § 8418"
-generated_at: "2026-03-29T22:41:40.591Z"
+generated_at: "2026-03-29T22:47:33.525Z"
 ---
 
 # § 8418. Survivor elections; deposit; offsets

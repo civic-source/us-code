@@ -3,9 +3,9 @@ title: "Section 1563 - Consideration of proposals from Members of Congress for h
 usc_title: 10
 usc_section: "1563"
 chapter: 80
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "10 U.S.C. § 1563"
-generated_at: "2026-03-29T22:42:13.479Z"
+generated_at: "2026-03-29T22:47:53.236Z"
 ---
 
 # § 1563. Consideration of proposals from Members of Congress for honorary promotions: procedures for review and promotion

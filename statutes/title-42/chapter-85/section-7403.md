@@ -3,9 +3,9 @@ title: "Section 7403 - Research, investigation, training, and other activities"
 usc_title: 42
 usc_section: "7403"
 chapter: 85
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 7403"
-generated_at: "2026-03-29T22:45:59.245Z"
+generated_at: "2026-03-29T22:51:40.300Z"
 ---
 
 # § 7403. Research, investigation, training, and other activities
@@ -139,7 +139,7 @@ generated_at: "2026-03-29T22:45:59.245Z"
     - **(D)** Submission every two years of a unified budget recommendation to the President for activities of the Federal Government in connection with the research program described in this subsection.
     - **(E)** Beginning in 1992 and biennially thereafter, submission of a report to Congress describing the results of its investigations and analyses. The reporting of technical information about acid deposition shall be provided in a format that facilitates communication with policymakers and the public. The report shall include—
       - **(i)** actual and projected emissions and acid deposition trends;
-      - **(ii)** average ambient concentrations of acid deposition percursors 2 2 So in original. Probably should be “precursors”. and their transformation products;
+      - **(ii)** average ambient concentrations of acid deposition percursors 1 1 So in original. Probably should be “precursors”. and their transformation products;
       - **(iii)** the status of ecosystems (including forests and surface waters), materials, and visibility affected by acid deposition;
       - **(iv)** the causes and effects of such deposition, including changes in surface water quality and forest and soil conditions;
       - **(v)** the occurrence and effects of episodic acidification, particularly with respect to high elevation watersheds; and

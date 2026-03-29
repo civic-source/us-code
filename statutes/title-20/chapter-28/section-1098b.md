@@ -3,9 +3,9 @@ title: "Section 1098b - Authorization of appropriations for administrative expen
 usc_title: 20
 usc_section: "1098b"
 chapter: 28
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "20 U.S.C. § 1098b"
-generated_at: "2026-03-29T22:42:42.489Z"
+generated_at: "2026-03-29T22:49:03.563Z"
 ---
 
 # § 1098b. Authorization of appropriations for administrative expenses

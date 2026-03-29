@@ -3,9 +3,9 @@ title: "Section 814 - Transferred"
 usc_title: 22
 usc_section: "814"
 chapter: 14
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "22 U.S.C. § 814"
-generated_at: "2026-03-29T22:43:26.151Z"
+generated_at: "2026-03-29T22:49:19.841Z"
 ---
 
 # §§ 812 to 814. Transferred

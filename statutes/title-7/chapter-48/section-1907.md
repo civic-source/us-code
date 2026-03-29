@@ -3,9 +3,9 @@ title: "Section 1907 - Practices involving nonambulatory livestock"
 usc_title: 7
 usc_section: "1907"
 chapter: 48
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "7 U.S.C. § 1907"
-generated_at: "2026-03-29T22:41:59.134Z"
+generated_at: "2026-03-29T22:48:19.823Z"
 ---
 
 # § 1907. Practices involving nonambulatory livestock

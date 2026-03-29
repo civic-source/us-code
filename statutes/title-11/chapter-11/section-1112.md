@@ -3,9 +3,9 @@ title: "Section 1112 - Conversion or dismissal"
 usc_title: 11
 usc_section: "1112"
 chapter: 11
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "11 U.S.C. § 1112"
-generated_at: "2026-03-29T22:42:18.073Z"
+generated_at: "2026-03-29T22:48:38.913Z"
 ---
 
 # § 1112. Conversion or dismissal

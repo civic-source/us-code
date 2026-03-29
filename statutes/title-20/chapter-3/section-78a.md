@@ -3,9 +3,9 @@ title: "Section 78a - Authorization of appropriations; availability of funds; li
 usc_title: 20
 usc_section: "78a"
 chapter: 3
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "20 U.S.C. § 78a"
-generated_at: "2026-03-29T22:42:42.348Z"
+generated_at: "2026-03-29T22:49:03.417Z"
 ---
 
 # § 78a. Authorization of appropriations; availability of funds; limit on use of funds during fiscal year; supervision; rules and regulations

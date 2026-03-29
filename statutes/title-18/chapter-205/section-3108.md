@@ -3,9 +3,9 @@ title: "Section 3108 - Execution, service, and return—(Rule)"
 usc_title: 18
 usc_section: "3108"
 chapter: 205
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "18 U.S.C. § 3108"
-generated_at: "2026-03-29T22:43:11.604Z"
+generated_at: "2026-03-29T22:48:44.684Z"
 ---
 
 # § 3108. Execution, service, and return—(Rule)

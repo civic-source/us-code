@@ -3,9 +3,9 @@ title: "Section 2101 - Congressional declaration of findings and purpose"
 usc_title: 20
 usc_section: "2101"
 chapter: 43
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "20 U.S.C. § 2101"
-generated_at: "2026-03-29T22:42:42.565Z"
+generated_at: "2026-03-29T22:49:03.643Z"
 ---
 
 # § 2101. Congressional declaration of findings and purpose

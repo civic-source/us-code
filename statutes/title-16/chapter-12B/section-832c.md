@@ -3,9 +3,9 @@ title: "Section 832c - Distribution of electricity; preference to public bodies 
 usc_title: 16
 usc_section: "832c"
 chapter: 12
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "16 U.S.C. § 832c"
-generated_at: "2026-03-29T22:42:48.942Z"
+generated_at: "2026-03-29T22:48:52.903Z"
 ---
 
 # § 832c. Distribution of electricity; preference to public bodies and cooperatives

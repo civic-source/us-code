@@ -3,9 +3,9 @@ title: "Section 4 - Coordination of required reviews"
 usc_title: 42
 usc_section: "4"
 chapter: 55
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-29T22:45:59.103Z"
+generated_at: "2026-03-29T22:51:40.116Z"
 ---
 
 # § 4370m–4. Coordination of required reviews
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T22:45:59.103Z"
   - **(3)** where an environmental impact statement is required for a project, prepare a single, joint interagency environmental impact statement for the project unless the lead agency provides justification in the coordinated project plan that multiple environmental documents are more efficient for project review and authorization.
 - **(b)**
   - **(1)**
-    - **(A)** On the request of a project sponsor, a lead agency shall consider and, as appropriate, adopt or incorporate by reference, the analysis and documentation that has been prepared for a covered project under the laws and procedures of a State or Indian Tribe (as defined in section 5130 title 25) as the documentation, or part of the documentation, required to complete an environmental review for the covered project, if the analysis and documentation were, as determined by the lead agency in consultation with the Council on Environmental Quality, developed pursuant to laws and procedures of that State or Indian Tribe (as so defined) that are of equal or greater rigor to each applicable Federal law and procedure, and prepared under circumstances that allowed for opportunities for public participation and consideration of alternatives, environmental consequences, and other required analyses that are substantially equivalent to what would have been available had the documents and analysis been prepared by a Federal agency pursuant to NEPA.
+    - **(A)** On the request of a project sponsor, a lead agency shall consider and, as appropriate, adopt or incorporate by reference, the analysis and documentation that has been prepared for a covered project under the laws and procedures of a State or Indian Tribe (as defined in section 5130 of title 25 ) as the documentation, or part of the documentation, required to complete an environmental review for the covered project, if the analysis and documentation were, as determined by the lead agency in consultation with the Council on Environmental Quality, developed pursuant to laws and procedures of that State or Indian Tribe (as so defined) that are of equal or greater rigor to each applicable Federal law and procedure, and prepared under circumstances that allowed for opportunities for public participation and consideration of alternatives, environmental consequences, and other required analyses that are substantially equivalent to what would have been available had the documents and analysis been prepared by a Federal agency pursuant to NEPA.
     - **(B)** The Council on Environmental Quality may issue guidance to carry out this subsection.
   - **(2)** An environmental document adopted under paragraph (1) or a document that includes documentation incorporated under paragraph (1) may serve as the documentation required for an environmental review or a supplemental environmental review required to be prepared by a lead agency under NEPA.
   - **(3)** If the lead agency adopts or incorporates analysis and documentation described in paragraph (1), the lead agency shall prepare and publish a supplemental document if the lead agency determines that during the period after preparation of the analysis and documentation and before the adoption or incorporation—

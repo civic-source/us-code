@@ -3,9 +3,9 @@ title: "Section 677 - John H. Chafee Foster Care Program for Successful Transiti
 usc_title: 42
 usc_section: "677"
 chapter: 7
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 677"
-generated_at: "2026-03-29T22:45:58.608Z"
+generated_at: "2026-03-29T22:51:39.468Z"
 ---
 
 # § 677. John H. Chafee Foster Care Program for Successful Transition to Adulthood

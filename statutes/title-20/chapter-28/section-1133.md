@@ -3,9 +3,9 @@ title: "Section 1133 - Purpose"
 usc_title: 20
 usc_section: "1133"
 chapter: 28
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "20 U.S.C. § 1133"
-generated_at: "2026-03-29T22:42:42.501Z"
+generated_at: "2026-03-29T22:49:03.576Z"
 ---
 
 # § 1133. Purpose

@@ -3,9 +3,9 @@ title: "Section 1370 - Reimbursement of States and localities for emergency ambu
 usc_title: 8
 usc_section: "1370"
 chapter: 12
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "8 U.S.C. § 1370"
-generated_at: "2026-03-29T22:41:48.550Z"
+generated_at: "2026-03-29T22:47:39.741Z"
 ---
 
 # § 1370. Reimbursement of States and localities for emergency ambulance services

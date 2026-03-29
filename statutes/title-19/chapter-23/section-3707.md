@@ -3,9 +3,9 @@ title: "Section 3707 - Activities in support of transparency"
 usc_title: 19
 usc_section: "3707"
 chapter: 23
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "19 U.S.C. § 3707"
-generated_at: "2026-03-29T22:43:03.680Z"
+generated_at: "2026-03-29T22:48:58.905Z"
 ---
 
 # § 3707. Activities in support of transparency

@@ -3,9 +3,9 @@ title: "Section 6614 - Policy planning; analysis; advice; establishment of advis
 usc_title: 42
 usc_section: "6614"
 chapter: 79
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 6614"
-generated_at: "2026-03-29T22:45:59.197Z"
+generated_at: "2026-03-29T22:51:40.240Z"
 ---
 
 # § 6614. Policy planning; analysis; advice; establishment of advisory panel
@@ -30,4 +30,4 @@ generated_at: "2026-03-29T22:45:59.197Z"
   - **(3)**
     - **(A)** The Director of the Office, or his representative, shall serve as Chairman of the Panel.
     - **(B)** The Panel shall perform such functions as the Chairman may prescribe, and shall meet at the call of the Chairman.
-  - **(4)** Each member of the Panel shall, while serving on business of the Panel, be entitled to receive compensation at a rate not to exceed the daily rate prescribed for GS–18 of the General Schedule under section 5332 of title 5 , including traveltime, and, while so serving away from his home or regular place of business, he may be allowed travel expenses, including per diem in lieu of subsistence in the same manner as the expenses authorized by section 5703(b) 2 2 See References in Text note below. of title 5 for persons in government service employed intermittently.
+  - **(4)** Each member of the Panel shall, while serving on business of the Panel, be entitled to receive compensation at a rate not to exceed the daily rate prescribed for GS–18 of the General Schedule under section 5332 of title 5 , including traveltime, and, while so serving away from his home or regular place of business, he may be allowed travel expenses, including per diem in lieu of subsistence in the same manner as the expenses authorized by section 5703(b) 1 of title 5 for persons in government service employed intermittently.

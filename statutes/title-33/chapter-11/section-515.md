@@ -3,9 +3,9 @@ title: "Section 515 - Contracts for project; guaranty of cost"
 usc_title: 33
 usc_section: "515"
 chapter: 11
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "33 U.S.C. § 515"
-generated_at: "2026-03-29T22:44:19.608Z"
+generated_at: "2026-03-29T22:49:57.042Z"
 ---
 
 # § 515. Contracts for project; guaranty of cost

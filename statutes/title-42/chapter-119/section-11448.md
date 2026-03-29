@@ -3,9 +3,9 @@ title: "Section 11448 - Repealed. Pub. L. 107–95, § 5(e)(4) , Dec. 21, 2001 ,
 usc_title: 42
 usc_section: "11448"
 chapter: 119
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 11448"
-generated_at: "2026-03-29T22:45:59.454Z"
+generated_at: "2026-03-29T22:51:40.554Z"
 ---
 
 # § 11448. Repealed. Pub. L. 107–95, § 5(e)(4) , Dec. 21, 2001 , 115 Stat. 918

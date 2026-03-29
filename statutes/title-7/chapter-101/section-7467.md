@@ -3,9 +3,9 @@ title: "Section 7467 - Petition and review"
 usc_title: 7
 usc_section: "7467"
 chapter: 101
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "7 U.S.C. § 7467"
-generated_at: "2026-03-29T22:41:59.353Z"
+generated_at: "2026-03-29T22:48:20.031Z"
 ---
 
 # § 7467. Petition and review

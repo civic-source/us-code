@@ -3,9 +3,9 @@ title: "Section 398 - Notices to States regarding imported food"
 usc_title: 21
 usc_section: "398"
 chapter: 9
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "21 U.S.C. § 398"
-generated_at: "2026-03-29T22:43:34.534Z"
+generated_at: "2026-03-29T22:49:14.111Z"
 ---
 
 # § 398. Notices to States regarding imported food

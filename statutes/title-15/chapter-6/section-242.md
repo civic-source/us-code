@@ -3,9 +3,9 @@ title: "Section 242 - Duty of United States attorney to enforce law"
 usc_title: 15
 usc_section: "242"
 chapter: 6
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "15 U.S.C. § 242"
-generated_at: "2026-03-29T22:42:31.528Z"
+generated_at: "2026-03-29T22:48:36.156Z"
 ---
 
 # § 242. Duty of United States attorney to enforce law

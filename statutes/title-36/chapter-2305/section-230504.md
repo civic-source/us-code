@@ -3,9 +3,9 @@ title: "Section 230504 - Membership"
 usc_title: 36
 usc_section: "230504"
 chapter: 2305
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "36 U.S.C. § 230504"
-generated_at: "2026-03-29T22:44:38.409Z"
+generated_at: "2026-03-29T22:50:25.247Z"
 ---
 
 # § 230504. Membership

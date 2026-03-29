@@ -3,9 +3,9 @@ title: "Section 1325 - Improper entry by alien"
 usc_title: 8
 usc_section: "1325"
 chapter: 12
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "8 U.S.C. § 1325"
-generated_at: "2026-03-29T22:41:48.543Z"
+generated_at: "2026-03-29T22:47:39.733Z"
 ---
 
 # § 1325. Improper entry by alien

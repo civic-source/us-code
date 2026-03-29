@@ -3,9 +3,9 @@ title: "Section 2535 - Replacement project for Chemistry and Metallurgy Research
 usc_title: 50
 usc_section: "2535"
 chapter: 42
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "50 U.S.C. § 2535"
-generated_at: "2026-03-29T22:46:14.751Z"
+generated_at: "2026-03-29T22:52:07.187Z"
 ---
 
 # § 2535. Replacement project for Chemistry and Metallurgy Research Building, Los Alamos National Laboratory, New Mexico

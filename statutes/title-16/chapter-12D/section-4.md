@@ -3,9 +3,9 @@ title: "Section 4 - General powers of Secretary of the Interior; delegation to a
 usc_title: 16
 usc_section: "4"
 chapter: 12
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-29T22:42:48.945Z"
+generated_at: "2026-03-29T22:48:52.906Z"
 ---
 
 # § 835c–4. General powers of Secretary of the Interior; delegation to authorized representatives

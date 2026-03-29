@@ -3,9 +3,9 @@ title: "Section 6707 - State variation of local government allocations"
 usc_title: 31
 usc_section: "6707"
 chapter: 67
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "31 U.S.C. § 6707"
-generated_at: "2026-03-29T22:44:05.034Z"
+generated_at: "2026-03-29T22:49:54.661Z"
 ---
 
 # § 6707. State variation of local government allocations

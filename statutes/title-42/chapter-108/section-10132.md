@@ -3,9 +3,9 @@ title: "Section 10132 - Recommendation of candidate sites for site characterizat
 usc_title: 42
 usc_section: "10132"
 chapter: 108
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 10132"
-generated_at: "2026-03-29T22:45:59.411Z"
+generated_at: "2026-03-29T22:51:40.499Z"
 ---
 
 # § 10132. Recommendation of candidate sites for site characterization

@@ -3,9 +3,9 @@ title: "Section 542 - Advisory Committee on Women Veterans"
 usc_title: 38
 usc_section: "542"
 chapter: 5
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "38 U.S.C. § 542"
-generated_at: "2026-03-29T22:44:36.455Z"
+generated_at: "2026-03-29T22:50:09.919Z"
 ---
 
 # § 542. Advisory Committee on Women Veterans

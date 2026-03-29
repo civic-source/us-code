@@ -3,9 +3,9 @@ title: "Section 569f - Debarment of persons convicted of fraudulent use of “Ma
 usc_title: 33
 usc_section: "569f"
 chapter: 12
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "33 U.S.C. § 569f"
-generated_at: "2026-03-29T22:44:19.612Z"
+generated_at: "2026-03-29T22:49:57.047Z"
 ---
 
 # § 569f. Debarment of persons convicted of fraudulent use of “Made in America” labels

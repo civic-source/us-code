@@ -3,9 +3,9 @@ title: "Section 3922 - Participation of teachers from private schools"
 usc_title: 20
 usc_section: "3922"
 chapter: 52
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "20 U.S.C. § 3922"
-generated_at: "2026-03-29T22:42:42.590Z"
+generated_at: "2026-03-29T22:49:03.672Z"
 ---
 
 # § 3922. Participation of teachers from private schools

@@ -3,9 +3,9 @@ title: "Section 2726 - Fee for use of diplomatic reception rooms"
 usc_title: 22
 usc_section: "2726"
 chapter: 38
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "22 U.S.C. § 2726"
-generated_at: "2026-03-29T22:43:26.236Z"
+generated_at: "2026-03-29T22:49:19.963Z"
 ---
 
 # § 2726. Fee for use of diplomatic reception rooms

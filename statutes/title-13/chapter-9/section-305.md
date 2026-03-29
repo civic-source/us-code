@@ -3,9 +3,9 @@ title: "Section 305 - Penalties for unlawful export information activities"
 usc_title: 13
 usc_section: "305"
 chapter: 9
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "13 U.S.C. § 305"
-generated_at: "2026-03-29T22:42:16.807Z"
+generated_at: "2026-03-29T22:48:23.140Z"
 ---
 
 # § 305. Penalties for unlawful export information activities

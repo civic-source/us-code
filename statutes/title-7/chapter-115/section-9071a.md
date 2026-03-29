@@ -3,9 +3,9 @@ title: "Section 9071a - Dairy donation program"
 usc_title: 7
 usc_section: "9071a"
 chapter: 115
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "7 U.S.C. § 9071a"
-generated_at: "2026-03-29T22:41:59.415Z"
+generated_at: "2026-03-29T22:48:20.089Z"
 ---
 
 # § 9071a. Dairy donation program

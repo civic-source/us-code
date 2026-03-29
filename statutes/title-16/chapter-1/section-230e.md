@@ -3,9 +3,9 @@ title: "Section 230e - Establishment; notice in Federal Register; administration
 usc_title: 16
 usc_section: "230e"
 chapter: 1
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "16 U.S.C. § 230e"
-generated_at: "2026-03-29T22:42:48.625Z"
+generated_at: "2026-03-29T22:48:52.582Z"
 ---
 
 # § 230e. Establishment; notice in Federal Register; administration

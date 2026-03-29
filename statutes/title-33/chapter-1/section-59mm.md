@@ -3,9 +3,9 @@ title: "Section 59mm - Coalbank Slough deemed not navigable waters of the United
 usc_title: 33
 usc_section: "59mm"
 chapter: 1
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "33 U.S.C. § 59mm"
-generated_at: "2026-03-29T22:44:19.594Z"
+generated_at: "2026-03-29T22:49:57.026Z"
 ---
 
 # § 59mm. Coalbank Slough deemed not navigable waters of the United States for certain purposes

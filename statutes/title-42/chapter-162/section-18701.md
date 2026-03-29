@@ -3,14 +3,14 @@ title: "Section 18701 - Definitions"
 usc_title: 42
 usc_section: "18701"
 chapter: 162
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 18701"
-generated_at: "2026-03-29T22:45:59.645Z"
+generated_at: "2026-03-29T22:51:40.776Z"
 ---
 
 # § 18701. Definitions
 
-In this chapter:
+In this division:
 
   - **(1)** The term “Department” means the Department of Energy.
   - **(2)** The term “Indian Tribe” has the meaning given the term in section 5304 of title 25 .

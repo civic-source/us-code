@@ -3,9 +3,9 @@ title: "Section 468 - Cost of inspection; overtime"
 usc_title: 21
 usc_section: "468"
 chapter: 10
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "21 U.S.C. § 468"
-generated_at: "2026-03-29T22:43:34.540Z"
+generated_at: "2026-03-29T22:49:14.116Z"
 ---
 
 # § 468. Cost of inspection; overtime

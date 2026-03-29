@@ -3,9 +3,9 @@ title: "Section 1671 - Congressional findings and declaration of purpose"
 usc_title: 15
 usc_section: "1671"
 chapter: 41
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "15 U.S.C. § 1671"
-generated_at: "2026-03-29T22:42:31.729Z"
+generated_at: "2026-03-29T22:48:36.310Z"
 ---
 
 # § 1671. Congressional findings and declaration of purpose

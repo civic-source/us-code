@@ -3,9 +3,9 @@ title: "Section 9688 - Incidental transfers"
 usc_title: 22
 usc_section: "9688"
 chapter: 103
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "22 U.S.C. § 9688"
-generated_at: "2026-03-29T22:43:26.392Z"
+generated_at: "2026-03-29T22:49:20.160Z"
 ---
 
 # § 9688. Incidental transfers

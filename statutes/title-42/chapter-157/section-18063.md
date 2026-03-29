@@ -3,9 +3,9 @@ title: "Section 18063 - Risk adjustment"
 usc_title: 42
 usc_section: "18063"
 chapter: 157
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 18063"
-generated_at: "2026-03-29T22:45:59.636Z"
+generated_at: "2026-03-29T22:51:40.761Z"
 ---
 
 # § 18063. Risk adjustment

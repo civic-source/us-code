@@ -3,9 +3,9 @@ title: "Section 6c - Repealed. Pub. L. 113–5, title II, § 205 , Mar. 13, 2013
 usc_title: 42
 usc_section: "6c"
 chapter: 6
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 6c"
-generated_at: "2026-03-29T22:45:58.283Z"
+generated_at: "2026-03-29T22:51:39.058Z"
 ---
 
 # § 247d–6c. Repealed. Pub. L. 113–5, title II, § 205 , Mar. 13, 2013 , 127 Stat. 179

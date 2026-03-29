@@ -3,9 +3,9 @@ title: "Section 3332 - Functions of Appraisal Subcommittee"
 usc_title: 12
 usc_section: "3332"
 chapter: 34
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "12 U.S.C. § 3332"
-generated_at: "2026-03-29T22:42:25.536Z"
+generated_at: "2026-03-29T22:48:29.584Z"
 ---
 
 # § 3332. Functions of Appraisal Subcommittee

@@ -3,9 +3,9 @@ title: "Section 10411 - Grants to State Domestic Violence Coalitions"
 usc_title: 42
 usc_section: "10411"
 chapter: 110
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 10411"
-generated_at: "2026-03-29T22:45:59.429Z"
+generated_at: "2026-03-29T22:51:40.523Z"
 ---
 
 # § 10411. Grants to State Domestic Violence Coalitions

@@ -3,9 +3,9 @@ title: "Section 532 - Authority to advertise in national media; VetStar Award Pr
 usc_title: 38
 usc_section: "532"
 chapter: 5
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "38 U.S.C. § 532"
-generated_at: "2026-03-29T22:44:36.454Z"
+generated_at: "2026-03-29T22:50:09.918Z"
 ---
 
 # § 532. Authority to advertise in national media; VetStar Award Program

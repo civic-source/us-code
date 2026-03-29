@@ -3,9 +3,9 @@ title: "Section 3101 - Congressional findings"
 usc_title: 15
 usc_section: "3101"
 chapter: 58
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "15 U.S.C. § 3101"
-generated_at: "2026-03-29T22:42:31.845Z"
+generated_at: "2026-03-29T22:48:36.398Z"
 ---
 
 # § 3101. Congressional findings

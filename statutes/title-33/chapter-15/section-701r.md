@@ -3,9 +3,9 @@ title: "Section 701r - Protection of highways, bridge approaches, public works, 
 usc_title: 33
 usc_section: "701r"
 chapter: 15
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "33 U.S.C. § 701r"
-generated_at: "2026-03-29T22:44:19.625Z"
+generated_at: "2026-03-29T22:49:57.061Z"
 ---
 
 # § 701r. Protection of highways, bridge approaches, public works, and nonprofit public services

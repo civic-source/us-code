@@ -3,9 +3,9 @@ title: "Section 10004 - Support for development programs"
 usc_title: 22
 usc_section: "10004"
 chapter: 107
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "22 U.S.C. § 10004"
-generated_at: "2026-03-29T22:43:26.396Z"
+generated_at: "2026-03-29T22:49:20.165Z"
 ---
 
 # § 10004. Support for development programs

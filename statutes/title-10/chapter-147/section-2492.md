@@ -3,9 +3,9 @@ title: "Section 2492 - Nonappropriated fund instrumentalities: contracts with ot
 usc_title: 10
 usc_section: "2492"
 chapter: 147
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "10 U.S.C. § 2492"
-generated_at: "2026-03-29T22:42:13.535Z"
+generated_at: "2026-03-29T22:47:53.277Z"
 ---
 
 # § 2492. Nonappropriated fund instrumentalities: contracts with other agencies and instrumentalities to provide and obtain goods and services

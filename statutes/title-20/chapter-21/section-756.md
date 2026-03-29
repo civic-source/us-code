@@ -3,9 +3,9 @@ title: "Section 756 - Omitted"
 usc_title: 20
 usc_section: "756"
 chapter: 21
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "20 U.S.C. § 756"
-generated_at: "2026-03-29T22:42:42.365Z"
+generated_at: "2026-03-29T22:49:03.434Z"
 ---
 
 # §§ 753 to 756. Omitted

@@ -3,9 +3,9 @@ title: "Section 698f - Big Cypress National Preserve; Big Cypress National Prese
 usc_title: 16
 usc_section: "698f"
 chapter: 6
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "16 U.S.C. § 698f"
-generated_at: "2026-03-29T22:42:48.888Z"
+generated_at: "2026-03-29T22:48:52.849Z"
 ---
 
 # § 698f. Big Cypress National Preserve; Big Cypress National Preserve Addition

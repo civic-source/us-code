@@ -3,9 +3,9 @@ title: "Section 1701w - Budget, debt management, and related counseling services
 usc_title: 12
 usc_section: "1701w"
 chapter: 13
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "12 U.S.C. § 1701w"
-generated_at: "2026-03-29T22:42:25.307Z"
+generated_at: "2026-03-29T22:48:29.397Z"
 ---
 
 # § 1701w. Budget, debt management, and related counseling services for mortgagors; authorization of appropriations

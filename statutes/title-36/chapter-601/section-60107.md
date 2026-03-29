@@ -3,9 +3,9 @@ title: "Section 60107 - Restrictions"
 usc_title: 36
 usc_section: "60107"
 chapter: 601
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "36 U.S.C. § 60107"
-generated_at: "2026-03-29T22:44:38.387Z"
+generated_at: "2026-03-29T22:50:25.213Z"
 ---
 
 # § 60107. Restrictions

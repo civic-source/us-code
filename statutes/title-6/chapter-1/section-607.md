@@ -3,9 +3,9 @@ title: "Section 607 - Terrorism prevention"
 usc_title: 6
 usc_section: "607"
 chapter: 1
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "6 U.S.C. § 607"
-generated_at: "2026-03-29T22:41:52.099Z"
+generated_at: "2026-03-29T22:48:07.106Z"
 ---
 
 # § 607. Terrorism prevention

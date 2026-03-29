@@ -3,9 +3,9 @@ title: "Section 3506 - Federal agency responsibilities"
 usc_title: 44
 usc_section: "3506"
 chapter: 35
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "44 U.S.C. § 3506"
-generated_at: "2026-03-29T22:44:42.811Z"
+generated_at: "2026-03-29T22:50:36.316Z"
 ---
 
 # § 3506. Federal agency responsibilities

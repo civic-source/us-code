@@ -3,9 +3,9 @@ title: "Section 5584 - Transfer of certain personnel"
 usc_title: 12
 usc_section: "5584"
 chapter: 53
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "12 U.S.C. § 5584"
-generated_at: "2026-03-29T22:42:25.671Z"
+generated_at: "2026-03-29T22:48:29.694Z"
 ---
 
 # § 5584. Transfer of certain personnel

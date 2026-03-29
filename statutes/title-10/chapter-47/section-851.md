@@ -3,9 +3,9 @@ title: "Section 851 - Art. 51. Voting and rulings"
 usc_title: 10
 usc_section: "851"
 chapter: 47
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "10 U.S.C. § 851"
-generated_at: "2026-03-29T22:42:13.382Z"
+generated_at: "2026-03-29T22:47:53.166Z"
 ---
 
 # § 851. Art. 51. Voting and rulings

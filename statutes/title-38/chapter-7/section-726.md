@@ -3,9 +3,9 @@ title: "Section 726 - Annual report on performance awards and bonuses awarded to
 usc_title: 38
 usc_section: "726"
 chapter: 7
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "38 U.S.C. § 726"
-generated_at: "2026-03-29T22:44:36.458Z"
+generated_at: "2026-03-29T22:50:09.922Z"
 ---
 
 # § 726. Annual report on performance awards and bonuses awarded to certain high-level employees

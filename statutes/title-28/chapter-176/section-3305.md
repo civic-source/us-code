@@ -3,9 +3,9 @@ title: "Section 3305 - When transfer is made or obligation is incurred"
 usc_title: 28
 usc_section: "3305"
 chapter: 176
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "28 U.S.C. § 3305"
-generated_at: "2026-03-29T22:44:01.013Z"
+generated_at: "2026-03-29T22:49:25.461Z"
 ---
 
 # § 3305. When transfer is made or obligation is incurred

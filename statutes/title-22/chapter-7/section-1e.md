@@ -3,9 +3,9 @@ title: "Section 1e - Equivalent increase in quota of United States"
 usc_title: 22
 usc_section: "1e"
 chapter: 7
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "22 U.S.C. § 1e"
-generated_at: "2026-03-29T22:43:26.131Z"
+generated_at: "2026-03-29T22:49:19.814Z"
 ---
 
 # § 286e–1e. Equivalent increase in quota of United States

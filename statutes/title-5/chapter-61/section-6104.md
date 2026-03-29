@@ -3,9 +3,9 @@ title: "Section 6104 - Holidays; daily, hourly, and piece-work basis employees"
 usc_title: 5
 usc_section: "6104"
 chapter: 61
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "5 U.S.C. § 6104"
-generated_at: "2026-03-29T22:41:40.543Z"
+generated_at: "2026-03-29T22:47:33.487Z"
 ---
 
 # § 6104. Holidays; daily, hourly, and piece-work basis employees

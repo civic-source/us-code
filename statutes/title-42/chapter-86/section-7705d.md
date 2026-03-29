@@ -3,9 +3,9 @@ title: "Section 7705d - Repealed. Pub. L. 106–503, title II, § 203 , Nov. 13,
 usc_title: 42
 usc_section: "7705d"
 chapter: 86
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 7705d"
-generated_at: "2026-03-29T22:45:59.305Z"
+generated_at: "2026-03-29T22:51:40.383Z"
 ---
 
 # § 7705d. Repealed. Pub. L. 106–503, title II, § 203 , Nov. 13, 2000 , 114 Stat. 2305

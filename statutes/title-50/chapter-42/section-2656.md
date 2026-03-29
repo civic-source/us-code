@@ -3,9 +3,9 @@ title: "Section 2656 - Notice to congressional committees of certain security an
 usc_title: 50
 usc_section: "2656"
 chapter: 42
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "50 U.S.C. § 2656"
-generated_at: "2026-03-29T22:46:14.757Z"
+generated_at: "2026-03-29T22:52:07.197Z"
 ---
 
 # § 2656. Notice to congressional committees of certain security and counterintelligence failures within atomic energy defense programs

@@ -3,9 +3,9 @@ title: "Section 1591 - Reimbursement for travel and transportation expenses when
 usc_title: 10
 usc_section: "1591"
 chapter: 81
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "10 U.S.C. § 1591"
-generated_at: "2026-03-29T22:42:13.483Z"
+generated_at: "2026-03-29T22:47:53.240Z"
 ---
 
 # § 1591. Reimbursement for travel and transportation expenses when accompanying Members of Congress

@@ -3,9 +3,9 @@ title: "Section 200304 - Governing body"
 usc_title: 36
 usc_section: "200304"
 chapter: 2003
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "36 U.S.C. § 200304"
-generated_at: "2026-03-29T22:44:38.403Z"
+generated_at: "2026-03-29T22:50:25.237Z"
 ---
 
 # § 200304. Governing body

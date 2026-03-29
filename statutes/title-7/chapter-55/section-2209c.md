@@ -3,9 +3,9 @@ title: "Section 2209c - Use of funds for one-year contracts to be performed in t
 usc_title: 7
 usc_section: "2209c"
 chapter: 55
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "7 U.S.C. § 2209c"
-generated_at: "2026-03-29T22:41:59.212Z"
+generated_at: "2026-03-29T22:48:19.886Z"
 ---
 
 # § 2209c. Use of funds for one-year contracts to be performed in two fiscal years

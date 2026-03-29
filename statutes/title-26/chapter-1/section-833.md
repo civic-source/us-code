@@ -3,9 +3,9 @@ title: "Section 833 - Treatment of Blue Cross and Blue Shield organizations, etc
 usc_title: 26
 usc_section: "833"
 chapter: 1
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "26 U.S.C. § 833"
-generated_at: "2026-03-29T22:43:54.462Z"
+generated_at: "2026-03-29T22:49:48.805Z"
 ---
 
 # § 833. Treatment of Blue Cross and Blue Shield organizations, etc.

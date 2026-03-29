@@ -3,9 +3,9 @@ title: "Section 76aa - Site for museum and sculpture garden"
 usc_title: 20
 usc_section: "76aa"
 chapter: 3
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "20 U.S.C. § 76aa"
-generated_at: "2026-03-29T22:42:42.347Z"
+generated_at: "2026-03-29T22:49:03.417Z"
 ---
 
 # § 76aa. Site for museum and sculpture garden

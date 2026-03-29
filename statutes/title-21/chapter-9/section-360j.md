@@ -3,9 +3,9 @@ title: "Section 360j - General provisions respecting control of devices intended
 usc_title: 21
 usc_section: "360j"
 chapter: 9
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "21 U.S.C. § 360j"
-generated_at: "2026-03-29T22:43:34.479Z"
+generated_at: "2026-03-29T22:49:14.042Z"
 ---
 
 # § 360j. General provisions respecting control of devices intended for human use

@@ -3,9 +3,9 @@ title: "Section 719 - Classification and numbering of publications ordered print
 usc_title: 44
 usc_section: "719"
 chapter: 7
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "44 U.S.C. § 719"
-generated_at: "2026-03-29T22:44:42.797Z"
+generated_at: "2026-03-29T22:50:36.301Z"
 ---
 
 # § 719. Classification and numbering of publications ordered printed by Congress; designation of publications of departments; printing of committee hearings

@@ -3,9 +3,9 @@ title: "Section 20118 - Prohibition on public disclosure of railroad safety anal
 usc_title: 49
 usc_section: "20118"
 chapter: 201
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "49 U.S.C. § 20118"
-generated_at: "2026-03-29T22:46:20.248Z"
+generated_at: "2026-03-29T22:52:18.557Z"
 ---
 
 # § 20118. Prohibition on public disclosure of railroad safety analysis records

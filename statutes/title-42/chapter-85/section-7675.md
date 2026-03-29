@@ -3,38 +3,38 @@ title: "Section 7675 - American innovation and manufacturing"
 usc_title: 42
 usc_section: "7675"
 chapter: 85
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 7675"
-generated_at: "2026-03-29T22:45:59.302Z"
+generated_at: "2026-03-29T22:51:40.379Z"
 ---
 
 # § 7675. American innovation and manufacturing
 
-- **(a)** This section may be cited as the ‘American Innovation and Manufacturing Act of 2020’.
+- **(a)** This section may be cited as the “American Innovation and Manufacturing Act of 2020”.
 - **(b)** In this section:
-  - **(1)** The term ‘Administrator’ means the Administrator of the Environmental Protection Agency.
-  - **(2)** The term ‘allowance’ means a limited authorization for the production or consumption of a regulated substance established under subsection (e).
-  - **(3)** The term ‘consumption’, with respect to a regulated substance, means a quantity equal to the difference between—
+  - **(1)** The term “Administrator” means the Administrator of the Environmental Protection Agency.
+  - **(2)** The term “allowance”’ means a limited authorization for the production or consumption of a regulated substance established under subsection (e).
+  - **(3)** The term “consumption”, with respect to a regulated substance, means a quantity equal to the difference between—
     - **(A)** a quantity equal to the sum of—
       - **(i)** the quantity of that regulated substance produced in the United States; and
       - **(ii)** the quantity of the regulated substance imported into the United States; and
     - **(B)** the quantity of the regulated substance exported from the United States.
-  - **(4)** The term ‘consumption baseline’ means the baseline established for the consumption of regulated substances under subsection (e)(1)(C).
-  - **(5)** The term ‘exchange value’ means the value assigned to a regulated substance in accordance with subsections (c) and (e), as applicable.
-  - **(6)** The term ‘import’ means to land on, bring into, or introduce into, or attempt to land on, bring into, or introduce into, any place subject to the jurisdiction of the United States, regardless of whether that landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States.
+  - **(4)** The term “consumption baseline” means the baseline established for the consumption of regulated substances under subsection (e)(1)(C).
+  - **(5)** The term “exchange value” means the value assigned to a regulated substance in accordance with subsections (c) and (e), as applicable.
+  - **(6)** The term “import” means to land on, bring into, or introduce into, or attempt to land on, bring into, or introduce into, any place subject to the jurisdiction of the United States, regardless of whether that landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States.
   - **(7)**
-    - **(A)** The term ‘produce’ means the manufacture of a regulated substance from a raw material or feedstock chemical (but not including the destruction of a regulated substance by a technology approved by the Administrator).
-    - **(B)** The term ‘produce’ does not include—
+    - **(A)** The term “produce” means the manufacture of a regulated substance from a raw material or feedstock chemical (but not including the destruction of a regulated substance by a technology approved by the Administrator).
+    - **(B)** The term “produce” does not include—
       - **(i)** the manufacture of a regulated substance that is used and entirely consumed (except for trace quantities) in the manufacture of another chemical; or
       - **(ii)** the reclamation, reuse, or recycling of a regulated substance.
-  - **(8)** The term ‘production baseline’ means the baseline established for the production of regulated substances under subsection (e)(1)(B).
-  - **(9)** The terms ‘reclaim’ and ‘reclamation’ mean—
+  - **(8)** The term “production baseline” means the baseline established for the production of regulated substances under subsection (e)(1)(B).
+  - **(9)** The terms “reclaim” and “reclamation” mean—
     - **(A)** the reprocessing of a recovered regulated substance to at least the purity described in standard 700–2016 of the Air-Conditioning, Heating, and Refrigeration Institute (or an appropriate successor standard adopted by the Administrator); and
     - **(B)** the verification of the purity of that regulated substance using, at a minimum, the analytical methodology described in the standard referred to in subparagraph (A).
-  - **(10)** The term ‘recover’ means the process by which a regulated substance is—
+  - **(10)** The term “recover” means the process by which a regulated substance is—
     - **(A)** removed, in any condition, from equipment; and
     - **(B)** stored in an external container, with or without testing or processing the regulated substance.
-  - **(11)** The term ‘regulated substance’ means—
+  - **(11)** The term “regulated substance” means—
     - **(A)** a substance listed in the table contained in subsection (c)(1); and
     - **(B)** a substance included as a regulated substance by the Administrator under subsection (c)(3).
 - **(c)**

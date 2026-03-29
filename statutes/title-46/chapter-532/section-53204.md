@@ -3,9 +3,9 @@ title: "Section 53204 - Effectiveness of operating agreements"
 usc_title: 46
 usc_section: "53204"
 chapter: 532
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "46 U.S.C. § 53204"
-generated_at: "2026-03-29T22:46:48.581Z"
+generated_at: "2026-03-29T22:51:53.649Z"
 ---
 
 # § 53204. Effectiveness of operating agreements

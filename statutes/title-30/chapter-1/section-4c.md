@@ -3,9 +3,9 @@ title: "Section 4c - Investigation of sub-bituminous and lignite coal"
 usc_title: 30
 usc_section: "4c"
 chapter: 1
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "30 U.S.C. § 4c"
-generated_at: "2026-03-29T22:43:38.394Z"
+generated_at: "2026-03-29T22:49:26.305Z"
 ---
 
 # § 4c. Investigation of sub-bituminous and lignite coal

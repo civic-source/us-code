@@ -3,9 +3,9 @@ title: "Section 1319a - Duty on coffee; ratification of duties imposed by Legisl
 usc_title: 19
 usc_section: "1319a"
 chapter: 4
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "19 U.S.C. § 1319a"
-generated_at: "2026-03-29T22:43:03.573Z"
+generated_at: "2026-03-29T22:48:58.783Z"
 ---
 
 # § 1319a. Duty on coffee; ratification of duties imposed by Legislature of Puerto Rico

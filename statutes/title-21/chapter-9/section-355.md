@@ -3,9 +3,9 @@ title: "Section 355 - New drugs"
 usc_title: 21
 usc_section: "355"
 chapter: 9
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "21 U.S.C. § 355"
-generated_at: "2026-03-29T22:43:34.441Z"
+generated_at: "2026-03-29T22:49:14.004Z"
 ---
 
 # § 355. New drugs

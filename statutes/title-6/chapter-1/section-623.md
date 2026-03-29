@@ -3,9 +3,9 @@ title: "Section 623 - Protection and sharing of information"
 usc_title: 6
 usc_section: "623"
 chapter: 1
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "6 U.S.C. § 623"
-generated_at: "2026-03-29T22:41:52.103Z"
+generated_at: "2026-03-29T22:48:07.110Z"
 ---
 
 # § 623. Protection and sharing of information

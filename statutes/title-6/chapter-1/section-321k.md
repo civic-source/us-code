@@ -3,9 +3,9 @@ title: "Section 321k - Model standards and guidelines for critical infrastructur
 usc_title: 6
 usc_section: "321k"
 chapter: 1
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "6 U.S.C. § 321k"
-generated_at: "2026-03-29T22:41:52.066Z"
+generated_at: "2026-03-29T22:48:07.070Z"
 ---
 
 # § 321k. Model standards and guidelines for critical infrastructure workers

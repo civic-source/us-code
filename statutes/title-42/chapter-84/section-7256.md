@@ -3,9 +3,9 @@ title: "Section 7256 - Contracts, leases, etc., with public agencies and private
 usc_title: 42
 usc_section: "7256"
 chapter: 84
-current_through: "PL 117-129"
+current_through: "PL 117-139"
 classification: "42 U.S.C. § 7256"
-generated_at: "2026-03-29T22:45:59.233Z"
+generated_at: "2026-03-29T22:51:40.285Z"
 ---
 
 # § 7256. Contracts, leases, etc., with public agencies and private organizations and persons
@@ -24,8 +24,8 @@ generated_at: "2026-03-29T22:45:59.233Z"
   - **(2)** Before entering into a lease under subsection (c), the Secretary shall obtain the concurrence of the Administrator of the Environmental Protection Agency or the appropriate State official, as the case may be, in the determination required under paragraph (1). The Secretary may enter into a lease under subsection (c) without obtaining such concurrence if, within 60 days after the Secretary requests the concurrence, the Administrator or appropriate State official, as the case may be, fails to submit to the Secretary a notice of such individual’s concurrence with, or rejection of, the determination.
 - **(f)** To the extent provided in advance in appropriations Acts, the Secretary may retain and use money rentals received by the Secretary directly from a lease entered into under subsection (c) in any amount the Secretary considers necessary to cover the administrative expenses of the lease, the maintenance and repair of the leased property, or environmental restoration activities at the facility where the leased property is located. Amounts retained under this subsection shall be retained in a separate fund established in the Treasury for such purpose. The Secretary shall annually submit to the Congress a report on amounts retained and amounts used under this subsection.
 - **(g)**
-  - **(1)** In addition to authority granted to the Secretary under any other provision of law, the Secretary may exercise the same authority to enter into transactions (other than contracts, cooperative agreements, and grants), subject to the same terms and conditions as the Secretary of Defense under section 2371 of title 10 (other than subsections (b) and (f) of that section).
-  - **(2)** In applying section 2371 of title 10 to the Secretary under paragraph (1)—
+  - **(1)** In addition to authority granted to the Secretary under any other provision of law, the Secretary may exercise the same authority to enter into transactions (other than contracts, cooperative agreements, and grants), subject to the same terms and conditions as the Secretary of Defense under section 2371 1 1 See References in Text note below. of title 10 (other than subsections (b) and (f) of that section).
+  - **(2)** In applying section 2371 1 of title 10 to the Secretary under paragraph (1)—
     - **(A)** the term “basic” shall be replaced by the term “research”;
     - **(B)** the term “applied” shall be replaced by the term “development”; and
     - **(C)** the terms “advanced research projects” and “advanced research” shall be replaced by the term “demonstration projects”.
@@ -44,7 +44,7 @@ generated_at: "2026-03-29T22:45:59.233Z"
     - **(A)** Not later than 90 days after August 8, 2005 , the Secretary shall issue guidelines for transactions under paragraph (1).
     - **(B)** The guidelines shall be published in the Federal Register for public comment in accordance with rulemaking procedures of the Department.
     - **(C)** The Secretary shall not have authority to carry out transactions under paragraph (1) until the guidelines for transactions required under subparagraph (A) are final.
-  - **(7)** The annual report of the head of an executive agency under section 2371(h) 1 1 See References in Text note below. of title 10 shall be submitted to Congress.
+  - **(7)** The annual report of the head of an executive agency under section 2371(h) 1 of title 10 shall be submitted to Congress.
   - **(8)**
     - **(A)** In this paragraph, the term “nontraditional Government contractor” has the meaning given the term “nontraditional defense contractor” in section 845(f) 1 of the National Defense Authorization Act for Fiscal Year 1994 ( Public Law 103–160 ; 10 U.S.C. 2371 note).
     - **(B)** Not later than 1 year after the date on which the final guidelines are published under paragraph (6), the Comptroller General of the United States shall submit to Congress a report describing—
