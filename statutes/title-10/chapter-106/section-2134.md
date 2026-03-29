@@ -3,9 +3,9 @@ title: "Section 2134 - Renumbered § 16134]"
 usc_title: 10
 usc_section: "2134"
 chapter: 106
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "10 U.S.C. § 2134"
-generated_at: "2026-03-29T23:08:22.911Z"
+generated_at: "2026-03-29T23:10:50.120Z"
 ---
 
 # [§ 2134. Renumbered § 16134]

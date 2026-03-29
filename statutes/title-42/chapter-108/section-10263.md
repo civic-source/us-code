@@ -3,9 +3,9 @@ title: "Section 10263 - Functions"
 usc_title: 42
 usc_section: "10263"
 chapter: 108
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "42 U.S.C. § 10263"
-generated_at: "2026-03-29T23:10:02.658Z"
+generated_at: "2026-03-29T23:14:44.099Z"
 ---
 
 # § 10263. Functions

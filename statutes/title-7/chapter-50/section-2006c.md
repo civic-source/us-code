@@ -3,9 +3,9 @@ title: "Section 2006c - Supervised credit"
 usc_title: 7
 usc_section: "2006c"
 chapter: 50
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "7 U.S.C. § 2006c"
-generated_at: "2026-03-29T23:08:35.888Z"
+generated_at: "2026-03-29T23:10:44.394Z"
 ---
 
 # § 2006c. Supervised credit

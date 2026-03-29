@@ -3,9 +3,9 @@ title: "Section 262r - Annual report by Chairman of National Advisory Council on
 usc_title: 22
 usc_section: "262r"
 chapter: 7
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "22 U.S.C. § 262r"
-generated_at: "2026-03-29T23:09:00.330Z"
+generated_at: "2026-03-29T23:11:48.651Z"
 ---
 
 # § 262r. Annual report by Chairman of National Advisory Council on International Monetary and Financial Policies

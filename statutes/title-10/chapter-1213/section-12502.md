@@ -3,9 +3,9 @@ title: "Section 12502 - Chief and assistant chief of staff of National Guard div
 usc_title: 10
 usc_section: "12502"
 chapter: 1213
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "10 U.S.C. § 12502"
-generated_at: "2026-03-29T23:08:22.980Z"
+generated_at: "2026-03-29T23:10:50.209Z"
 ---
 
 # § 12502. Chief and assistant chief of staff of National Guard divisions and wings in Federal service: detail

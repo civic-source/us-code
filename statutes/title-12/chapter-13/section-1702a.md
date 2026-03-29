@@ -3,9 +3,9 @@ title: "Section 1702a - Repealed. June 28, 1955, ch. 189, § 12(c)(14) , 69 Stat
 usc_title: 12
 usc_section: "1702a"
 chapter: 13
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "12 U.S.C. § 1702a"
-generated_at: "2026-03-29T23:08:40.418Z"
+generated_at: "2026-03-29T23:11:11.793Z"
 ---
 
 # § 1702a. Repealed. June 28, 1955, ch. 189, § 12(c)(14) , 69 Stat. 182

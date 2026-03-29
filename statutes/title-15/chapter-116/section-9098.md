@@ -3,9 +3,9 @@ title: "Section 9098 - Taxpayer protection"
 usc_title: 15
 usc_section: "9098"
 chapter: 116
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "15 U.S.C. § 9098"
-generated_at: "2026-03-29T23:08:43.479Z"
+generated_at: "2026-03-29T23:11:14.833Z"
 ---
 
 # § 9098. Taxpayer protection

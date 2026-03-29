@@ -3,9 +3,9 @@ title: "Section 425c - Commission; organization"
 usc_title: 16
 usc_section: "425c"
 chapter: 1
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "16 U.S.C. § 425c"
-generated_at: "2026-03-29T23:08:52.407Z"
+generated_at: "2026-03-29T23:11:41.560Z"
 ---
 
 # § 425c. Commission; organization

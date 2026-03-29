@@ -3,9 +3,9 @@ title: "Section 8124 - Grant of easements in Government-owned lands"
 usc_title: 38
 usc_section: "8124"
 chapter: 81
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "38 U.S.C. § 8124"
-generated_at: "2026-03-29T23:09:35.099Z"
+generated_at: "2026-03-29T23:13:58.940Z"
 ---
 
 # § 8124. Grant of easements in Government-owned lands

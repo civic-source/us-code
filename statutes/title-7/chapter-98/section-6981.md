@@ -3,9 +3,9 @@ title: "Section 6981 - Under Secretary of Agriculture for Food Safety"
 usc_title: 7
 usc_section: "6981"
 chapter: 98
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "7 U.S.C. § 6981"
-generated_at: "2026-03-29T23:08:35.953Z"
+generated_at: "2026-03-29T23:10:44.468Z"
 ---
 
 # § 6981. Under Secretary of Agriculture for Food Safety

@@ -3,9 +3,9 @@ title: "Section 3355 - Repealed. Pub. L. 105–332, § 6(b)(1) , Oct. 31, 1998 ,
 usc_title: 25
 usc_section: "3355"
 chapter: 35
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "25 U.S.C. § 3355"
-generated_at: "2026-03-29T23:08:56.338Z"
+generated_at: "2026-03-29T23:12:03.175Z"
 ---
 
 # §§ 3351 to 3355. Repealed. Pub. L. 105–332, § 6(b)(1) , Oct. 31, 1998 , 112 Stat. 3128

@@ -3,9 +3,9 @@ title: "Section 8266 - Uniforms, accouterments, and equipment: sale at cost"
 usc_title: 10
 usc_section: "8266"
 chapter: 831
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "10 U.S.C. § 8266"
-generated_at: "2026-03-29T23:08:22.961Z"
+generated_at: "2026-03-29T23:10:50.184Z"
 ---
 
 # § 8266. Uniforms, accouterments, and equipment: sale at cost

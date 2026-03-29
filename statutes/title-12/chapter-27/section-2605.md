@@ -3,9 +3,9 @@ title: "Section 2605 - Servicing of mortgage loans and administration of escrow 
 usc_title: 12
 usc_section: "2605"
 chapter: 27
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "12 U.S.C. § 2605"
-generated_at: "2026-03-29T23:08:40.486Z"
+generated_at: "2026-03-29T23:11:11.867Z"
 ---
 
 # § 2605. Servicing of mortgage loans and administration of escrow accounts

@@ -3,9 +3,9 @@ title: "Section 290b - Collection, compilation, critical evaluation, publication
 usc_title: 15
 usc_section: "290b"
 chapter: 7
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "15 U.S.C. § 290b"
-generated_at: "2026-03-29T23:08:43.327Z"
+generated_at: "2026-03-29T23:11:14.663Z"
 ---
 
 # § 290b. Collection, compilation, critical evaluation, publication and dissemination of standard reference data

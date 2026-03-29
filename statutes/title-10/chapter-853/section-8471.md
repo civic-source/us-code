@@ -3,9 +3,9 @@ title: "Section 8471 - Midshipmen’s store, trade shops, dairy, and laundry: no
 usc_title: 10
 usc_section: "8471"
 chapter: 853
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "10 U.S.C. § 8471"
-generated_at: "2026-03-29T23:08:22.964Z"
+generated_at: "2026-03-29T23:10:50.187Z"
 ---
 
 # § 8471. Midshipmen’s store, trade shops, dairy, and laundry: nonappropriated fund instrumentality and accounts

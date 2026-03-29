@@ -3,9 +3,9 @@ title: "Section 617 - Deduction and recapture of certain mining exploration expe
 usc_title: 26
 usc_section: "617"
 chapter: 1
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "26 U.S.C. § 617"
-generated_at: "2026-03-29T23:09:10.592Z"
+generated_at: "2026-03-29T23:12:49.384Z"
 ---
 
 # § 617. Deduction and recapture of certain mining exploration expenditures

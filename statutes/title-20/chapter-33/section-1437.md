@@ -3,9 +3,9 @@ title: "Section 1437 - State application and assurances"
 usc_title: 20
 usc_section: "1437"
 chapter: 33
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "20 U.S.C. § 1437"
-generated_at: "2026-03-29T23:08:49.991Z"
+generated_at: "2026-03-29T23:11:23.012Z"
 ---
 
 # § 1437. State application and assurances

@@ -3,9 +3,9 @@ title: "Section 347b - Advances to individual member banks on time or demand not
 usc_title: 12
 usc_section: "347b"
 chapter: 3
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "12 U.S.C. § 347b"
-generated_at: "2026-03-29T23:08:40.387Z"
+generated_at: "2026-03-29T23:11:11.764Z"
 ---
 
 # § 347b. Advances to individual member banks on time or demand notes; maturities; time notes secured by mortgage loans covering one-to-four family residences

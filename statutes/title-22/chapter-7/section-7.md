@@ -3,9 +3,9 @@ title: "Section 7 - Exemption from securities laws for certain securities issued
 usc_title: 22
 usc_section: "7"
 chapter: 7
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "22 U.S.C. § 7"
-generated_at: "2026-03-29T23:09:00.345Z"
+generated_at: "2026-03-29T23:11:48.669Z"
 ---
 
 # § 290o–7. Exemption from securities laws for certain securities issued by Bank; reports required

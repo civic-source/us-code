@@ -3,9 +3,9 @@ title: "Section 8028 - Director of Small Business Programs"
 usc_title: 10
 usc_section: "8028"
 chapter: 803
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "10 U.S.C. § 8028"
-generated_at: "2026-03-29T23:08:22.960Z"
+generated_at: "2026-03-29T23:10:50.182Z"
 ---
 
 # § 8028. Director of Small Business Programs

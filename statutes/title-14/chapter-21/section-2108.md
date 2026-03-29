@@ -3,9 +3,9 @@ title: "Section 2108 - Selection boards; notice of convening; communication with
 usc_title: 14
 usc_section: "2108"
 chapter: 21
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "14 U.S.C. § 2108"
-generated_at: "2026-03-29T23:08:38.148Z"
+generated_at: "2026-03-29T23:11:03.319Z"
 ---
 
 # § 2108. Selection boards; notice of convening; communication with board

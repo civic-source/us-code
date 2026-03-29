@@ -3,9 +3,9 @@ title: "Section 17701 - Definitions"
 usc_title: 40
 usc_section: "17701"
 chapter: 177
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "40 U.S.C. § 17701"
-generated_at: "2026-03-29T23:09:18.572Z"
+generated_at: "2026-03-29T23:13:48.077Z"
 ---
 
 # § 17701. Definitions

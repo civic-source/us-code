@@ -3,9 +3,9 @@ title: "Section 5507 - Arrangements with Federal agencies for development and de
 usc_title: 42
 usc_section: "5507"
 chapter: 71
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "42 U.S.C. § 5507"
-generated_at: "2026-03-29T23:10:02.534Z"
+generated_at: "2026-03-29T23:14:43.884Z"
 ---
 
 # § 5507. Arrangements with Federal agencies for development and demonstration of solar heating and combined heating and cooling systems for commercial buildings

@@ -3,9 +3,9 @@ title: "Section 110305 - Restrictions"
 usc_title: 36
 usc_section: "110305"
 chapter: 1103
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "36 U.S.C. § 110305"
-generated_at: "2026-03-29T23:09:24.149Z"
+generated_at: "2026-03-29T23:13:47.515Z"
 ---
 
 # § 110305. Restrictions

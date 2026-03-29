@@ -3,9 +3,9 @@ title: "Section 1397gg - Strategic objectives and performance goals; plan admini
 usc_title: 42
 usc_section: "1397gg"
 chapter: 7
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "42 U.S.C. § 1397gg"
-generated_at: "2026-03-29T23:10:02.401Z"
+generated_at: "2026-03-29T23:14:43.718Z"
 ---
 
 # § 1397gg. Strategic objectives and performance goals; plan administration

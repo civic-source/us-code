@@ -3,9 +3,9 @@ title: "Section 2791a - Laboratory-directed research and development"
 usc_title: 50
 usc_section: "2791a"
 chapter: 42
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "50 U.S.C. § 2791a"
-generated_at: "2026-03-29T23:10:09.012Z"
+generated_at: "2026-03-29T23:15:24.489Z"
 ---
 
 # § 2791a. Laboratory-directed research and development

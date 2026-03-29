@@ -3,9 +3,9 @@ title: "Section 5 - Issuance and guarantee of trust certificates"
 usc_title: 7
 usc_section: "5"
 chapter: 50
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "7 U.S.C. § 5"
-generated_at: "2026-03-29T23:08:35.893Z"
+generated_at: "2026-03-29T23:10:44.400Z"
 ---
 
 # § 2009cc–5. Issuance and guarantee of trust certificates

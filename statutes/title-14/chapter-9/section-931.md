@@ -3,9 +3,9 @@ title: "Section 931 - Oaths required for boards"
 usc_title: 14
 usc_section: "931"
 chapter: 9
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "14 U.S.C. § 931"
-generated_at: "2026-03-29T23:08:38.145Z"
+generated_at: "2026-03-29T23:11:03.315Z"
 ---
 
 # § 931. Oaths required for boards

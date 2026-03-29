@@ -3,9 +3,9 @@ title: "Section 3483a - Department of Education Nonrecurring Expenses Fund"
 usc_title: 20
 usc_section: "3483a"
 chapter: 48
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "20 U.S.C. § 3483a"
-generated_at: "2026-03-29T23:08:50.004Z"
+generated_at: "2026-03-29T23:11:23.027Z"
 ---
 
 # § 3483a. Department of Education Nonrecurring Expenses Fund

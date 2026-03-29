@@ -3,9 +3,9 @@ title: "Section 902 - Commissioner; Deputy Commissioner; other officers"
 usc_title: 42
 usc_section: "902"
 chapter: 7
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "42 U.S.C. § 902"
-generated_at: "2026-03-29T23:10:02.259Z"
+generated_at: "2026-03-29T23:14:43.535Z"
 ---
 
 # § 902. Commissioner; Deputy Commissioner; other officers

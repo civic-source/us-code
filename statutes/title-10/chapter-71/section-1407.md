@@ -3,9 +3,9 @@ title: "Section 1407 - Retired pay base for members who first became members aft
 usc_title: 10
 usc_section: "1407"
 chapter: 71
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "10 U.S.C. § 1407"
-generated_at: "2026-03-29T23:08:22.895Z"
+generated_at: "2026-03-29T23:10:50.102Z"
 ---
 
 # § 1407. Retired pay base for members who first became members after September 7, 1980 : high-36 month average

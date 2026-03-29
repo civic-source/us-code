@@ -3,9 +3,9 @@ title: "Section 551 - Protection of national forests; rules and regulations"
 usc_title: 16
 usc_section: "551"
 chapter: 3
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "16 U.S.C. § 551"
-generated_at: "2026-03-29T23:08:52.463Z"
+generated_at: "2026-03-29T23:11:41.619Z"
 ---
 
 # § 551. Protection of national forests; rules and regulations

@@ -3,9 +3,9 @@ title: "Section 934 - Penalty for unauthorized use of words “Coast Guard”"
 usc_title: 14
 usc_section: "934"
 chapter: 9
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "14 U.S.C. § 934"
-generated_at: "2026-03-29T23:08:38.145Z"
+generated_at: "2026-03-29T23:11:03.315Z"
 ---
 
 # § 934. Penalty for unauthorized use of words “Coast Guard”

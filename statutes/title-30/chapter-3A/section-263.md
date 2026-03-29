@@ -3,9 +3,9 @@ title: "Section 263 - Permits to use or lease of nonmineral lands for camp sites
 usc_title: 30
 usc_section: "263"
 chapter: 3
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "30 U.S.C. § 263"
-generated_at: "2026-03-29T23:09:02.976Z"
+generated_at: "2026-03-29T23:12:09.366Z"
 ---
 
 # § 263. Permits to use or lease of nonmineral lands for camp sites, and other purposes; annual rentals; acreage

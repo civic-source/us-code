@@ -3,9 +3,9 @@ title: "Section 11386e - Appeal procedure"
 usc_title: 42
 usc_section: "11386e"
 chapter: 119
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "42 U.S.C. § 11386e"
-generated_at: "2026-03-29T23:10:02.671Z"
+generated_at: "2026-03-29T23:14:44.119Z"
 ---
 
 # § 11386e. Appeal procedure

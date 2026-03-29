@@ -3,9 +3,9 @@ title: "Section 5333 - Minimum rate for new appointments"
 usc_title: 5
 usc_section: "5333"
 chapter: 53
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "5 U.S.C. § 5333"
-generated_at: "2026-03-29T23:08:10.464Z"
+generated_at: "2026-03-29T23:10:37.412Z"
 ---
 
 # § 5333. Minimum rate for new appointments

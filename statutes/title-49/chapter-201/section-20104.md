@@ -3,9 +3,9 @@ title: "Section 20104 - Emergency authority"
 usc_title: 49
 usc_section: "20104"
 chapter: 201
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "49 U.S.C. § 20104"
-generated_at: "2026-03-29T23:10:11.200Z"
+generated_at: "2026-03-29T23:15:16.292Z"
 ---
 
 # § 20104. Emergency authority

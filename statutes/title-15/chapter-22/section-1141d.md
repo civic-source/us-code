@@ -3,9 +3,9 @@ title: "Section 1141d - Request for extension of protection subsequent to intern
 usc_title: 15
 usc_section: "1141d"
 chapter: 22
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "15 U.S.C. § 1141d"
-generated_at: "2026-03-29T23:08:43.371Z"
+generated_at: "2026-03-29T23:11:14.715Z"
 ---
 
 # § 1141d. Request for extension of protection subsequent to international registration

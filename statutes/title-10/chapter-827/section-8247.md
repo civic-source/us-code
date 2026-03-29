@@ -3,9 +3,9 @@ title: "Section 8247 - Sale of meals by general messes"
 usc_title: 10
 usc_section: "8247"
 chapter: 827
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "10 U.S.C. § 8247"
-generated_at: "2026-03-29T23:08:22.961Z"
+generated_at: "2026-03-29T23:10:50.184Z"
 ---
 
 # § 8247. Sale of meals by general messes

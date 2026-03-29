@@ -3,9 +3,9 @@ title: "Section 162 - Repealed. June 24, 1938, ch. 648, § 2 , 52 Stat. 1037"
 usc_title: 25
 usc_section: "162"
 chapter: 4
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "25 U.S.C. § 162"
-generated_at: "2026-03-29T23:08:56.295Z"
+generated_at: "2026-03-29T23:12:03.120Z"
 ---
 
 # § 162. Repealed. June 24, 1938, ch. 648, § 2 , 52 Stat. 1037

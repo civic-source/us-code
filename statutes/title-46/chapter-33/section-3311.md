@@ -3,9 +3,9 @@ title: "Section 3311 - Certificate of inspection required"
 usc_title: 46
 usc_section: "3311"
 chapter: 33
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "46 U.S.C. § 3311"
-generated_at: "2026-03-29T23:10:07.479Z"
+generated_at: "2026-03-29T23:15:08.792Z"
 ---
 
 # § 3311. Certificate of inspection required

@@ -3,9 +3,9 @@ title: "Section 503 - Functions of Deputy Director for Management"
 usc_title: 31
 usc_section: "503"
 chapter: 5
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "31 U.S.C. § 503"
-generated_at: "2026-03-29T23:09:15.587Z"
+generated_at: "2026-03-29T23:13:25.041Z"
 ---
 
 # § 503. Functions of Deputy Director for Management

@@ -3,9 +3,9 @@ title: "Section 6308 - Use of multiple relationships for different parts of join
 usc_title: 31
 usc_section: "6308"
 chapter: 63
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "31 U.S.C. § 6308"
-generated_at: "2026-03-29T23:09:15.613Z"
+generated_at: "2026-03-29T23:13:25.075Z"
 ---
 
 # § 6308. Use of multiple relationships for different parts of jointly financed projects

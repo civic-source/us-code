@@ -3,9 +3,9 @@ title: "Section 903 - Reorganization plans"
 usc_title: 5
 usc_section: "903"
 chapter: 9
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "5 U.S.C. § 903"
-generated_at: "2026-03-29T23:08:10.438Z"
+generated_at: "2026-03-29T23:10:37.397Z"
 ---
 
 # § 903. Reorganization plans

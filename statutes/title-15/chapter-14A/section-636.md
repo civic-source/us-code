@@ -3,9 +3,9 @@ title: "Section 636 - Additional powers"
 usc_title: 15
 usc_section: "636"
 chapter: 14
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "15 U.S.C. § 636"
-generated_at: "2026-03-29T23:08:43.333Z"
+generated_at: "2026-03-29T23:11:14.668Z"
 ---
 
 # § 636. Additional powers
@@ -467,6 +467,7 @@ generated_at: "2026-03-29T23:08:43.333Z"
       - **(iv)** A lender that made a covered loan to a covered recipient before December 27, 2020 may, at the request of the covered recipient—
         - **(I)** recalculate the maximum loan amount applicable to that covered loan based on the formula described in clause (ii) or (iii), as applicable, if doing so would result in a larger covered loan amount; and
         - **(II)** provide the covered recipient with additional covered loan amounts based on that recalculation.
+    - **(W)** Notwithstanding any other provision of law, any criminal charge or civil enforcement action alleging that a borrower engaged in fraud with respect to a covered loan guaranteed under this paragraph shall be filed not later than 10 years after the offense was committed.
   - **(37)**
     - **(A)** In this paragraph—
       - **(i)** the terms “additional covered nonprofit entity”, “eligible self-employed individual”, “housing cooperative”, “nonprofit organization”, “payroll costs”, “seasonal employer”, and “veterans organization” have the meanings given those terms in paragraph (36), except that “eligible entity” shall be substituted for “eligible recipient” each place it appears in the definitions of those terms;
@@ -536,6 +537,7 @@ generated_at: "2026-03-29T23:08:43.333Z"
     - **(O)** A covered loan under this paragraph may only be made to an eligible entity that—
       - **(i)** has received a loan under paragraph (36); and
       - **(ii)** on or before the expected date on which the covered loan under this paragraph is disbursed to the eligible entity, has used, or will use, the full amount of the loan received under paragraph (36).
+    - **(P)** Notwithstanding any other provision of law, any criminal charge or civil enforcement action alleging that a borrower engaged in fraud with respect to a covered loan guaranteed under this paragraph shall be filed not later than 10 years after the offense was committed.
 - **(b)** Except as to agricultural enterprises as defined in section 647(b)(1) of this title , the Administration also is empowered to the extent and in such amounts as provided in advance in appropriation Acts—
   - **(1)**
     - **(A)** to make such loans (either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred (guaranteed) basis) as the Administration may determine to be necessary or appropriate to repair, rehabilitate or replace property, real or personal, damaged or destroyed by or as a result of natural or other disasters: Provided , That such damage or destruction is not compensated for by insurance or otherwise: And provided further , That the Administration may increase the amount of the loan by up to an additional 20 per centum of the aggregate costs of such damage or destruction (whether or not compensated for by insurance or otherwise) if it determines such increase to be necessary or appropriate in order to protect the damaged or destroyed property from possible future disasters by taking mitigating measures, including—
@@ -646,6 +648,7 @@ generated_at: "2026-03-29T23:08:43.333Z"
   - **(15)** The Administrator shall increase oversight of entities receiving loans under paragraph (2), and may consider—
     - **(A)** scheduled site visits to ensure borrower eligibility and compliance with requirements established by the Administrator; and
     - **(B)** reviews of the use of the loan proceeds by an entity described in paragraph (2) to ensure compliance with requirements established by the Administrator.
+  - **(16)** Notwithstanding any other provision of law, any criminal charge or civil enforcement action alleging that a borrower engaged in fraud with respect to a loan made under this subsection in response to COVID–19 during the covered period (as defined in section 9009(a) of this title ) shall be filed not later than 10 years after the offense was committed.
     - **(A)** may make any loan for repair, rehabilitation, or replacement of property damaged or destroyed without regard to whether the required financial assistance is otherwise available from private sources;
     - **(B)** may, in the case of the total destruction or substantial property damage of a home or business concern, refinance any mortgage or other liens outstanding against the destroyed or damaged property if such property is to be repaired, rehabilitated, or replaced, except that (1) in the case of a business concern, the amount refinanced shall not exceed the amount of the physical loss sustained, and (2) in the case of a home, the amount of each monthly payment of principal and interest on the loan after refinancing under this clause shall not be less than the amount of each such payment made prior to such refinancing;
     - **(C)** may, in the case of a loan made under clause (A) or a mortgage or other lien refinanced under clause (B) in connection with the destruction of, or substantial damage to, property owned and used as a residence by an individual who by reason of retirement, disability, or other similar circumstances relies for support on survivor, disability, or retirement benefits under a pension, insurance, or other programs, consent to the suspension of the payments of the principal of that loan, mortgage, or lien during the lifetime of that individual and his spouse for so long as the Administration determines that making such payments would constitute a substantial hardship;

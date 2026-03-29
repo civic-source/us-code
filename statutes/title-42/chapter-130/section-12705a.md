@@ -3,9 +3,9 @@ title: "Section 12705a - Purposes of Removal of Regulatory Barriers to Affordabl
 usc_title: 42
 usc_section: "12705a"
 chapter: 130
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "42 U.S.C. § 12705a"
-generated_at: "2026-03-29T23:10:02.694Z"
+generated_at: "2026-03-29T23:14:44.154Z"
 ---
 
 # § 12705a. Purposes of Removal of Regulatory Barriers to Affordable Housing Act

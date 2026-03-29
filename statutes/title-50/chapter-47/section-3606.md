@@ -3,9 +3,9 @@ title: "Section 3606 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 
 usc_title: 50
 usc_section: "3606"
 chapter: 47
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "50 U.S.C. § 3606"
-generated_at: "2026-03-29T23:10:09.039Z"
+generated_at: "2026-03-29T23:15:24.511Z"
 ---
 
 # § 3606. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 660

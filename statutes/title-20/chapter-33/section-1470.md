@@ -3,9 +3,9 @@ title: "Section 1470 - Purposes"
 usc_title: 20
 usc_section: "1470"
 chapter: 33
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "20 U.S.C. § 1470"
-generated_at: "2026-03-29T23:08:49.994Z"
+generated_at: "2026-03-29T23:11:23.015Z"
 ---
 
 # § 1470. Purposes

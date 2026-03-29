@@ -3,9 +3,9 @@ title: "Section 6324 - Definitions"
 usc_title: 22
 usc_section: "6324"
 chapter: 72
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "22 U.S.C. § 6324"
-generated_at: "2026-03-29T23:09:00.431Z"
+generated_at: "2026-03-29T23:11:48.766Z"
 ---
 
 # § 6324. Definitions

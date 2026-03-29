@@ -3,9 +3,9 @@ title: "Section 2351 - Durability, sustainability, and resilience"
 usc_title: 33
 usc_section: "2351"
 chapter: 36
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "33 U.S.C. § 2351"
-generated_at: "2026-03-29T23:09:14.159Z"
+generated_at: "2026-03-29T23:13:30.069Z"
 ---
 
 # § 2351. Durability, sustainability, and resilience

@@ -3,9 +3,9 @@ title: "Section 4577 - Availability of appropriations during first three months 
 usc_title: 2
 usc_section: "4577"
 chapter: 45
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "2 U.S.C. § 4577"
-generated_at: "2026-03-29T23:08:07.226Z"
+generated_at: "2026-03-29T23:10:28.129Z"
 ---
 
 # § 4577. Availability of appropriations during first three months of any fiscal year for aggregate of payments of gross compensation made to employees from Senate appropriation account for “Salaries, Officers and Employees”

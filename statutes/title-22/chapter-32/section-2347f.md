@@ -3,9 +3,9 @@ title: "Section 2347f - Consultation requirement"
 usc_title: 22
 usc_section: "2347f"
 chapter: 32
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "22 U.S.C. § 2347f"
-generated_at: "2026-03-29T23:09:00.372Z"
+generated_at: "2026-03-29T23:11:48.701Z"
 ---
 
 # § 2347f. Consultation requirement

@@ -3,9 +3,9 @@ title: "Section 1280 - Federal mining and mineral leasing laws"
 usc_title: 16
 usc_section: "1280"
 chapter: 28
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "16 U.S.C. § 1280"
-generated_at: "2026-03-29T23:08:52.517Z"
+generated_at: "2026-03-29T23:11:41.681Z"
 ---
 
 # § 1280. Federal mining and mineral leasing laws

@@ -3,9 +3,9 @@ title: "Section 1494c - Drug Enforcement Agency personnel assignments"
 usc_title: 48
 usc_section: "1494c"
 chapter: 10
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "48 U.S.C. § 1494c"
-generated_at: "2026-03-29T23:10:06.515Z"
+generated_at: "2026-03-29T23:15:06.219Z"
 ---
 
 # § 1494c. Drug Enforcement Agency personnel assignments

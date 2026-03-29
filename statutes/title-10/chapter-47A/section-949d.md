@@ -3,9 +3,9 @@ title: "Section 949d - Sessions"
 usc_title: 10
 usc_section: "949d"
 chapter: 47
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "10 U.S.C. § 949d"
-generated_at: "2026-03-29T23:08:22.878Z"
+generated_at: "2026-03-29T23:10:50.078Z"
 ---
 
 # § 949d. Sessions

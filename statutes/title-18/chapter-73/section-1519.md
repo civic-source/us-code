@@ -3,9 +3,9 @@ title: "Section 1519 - Destruction, alteration, or falsification of records in F
 usc_title: 18
 usc_section: "1519"
 chapter: 73
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "18 U.S.C. § 1519"
-generated_at: "2026-03-29T23:08:48.177Z"
+generated_at: "2026-03-29T23:11:31.012Z"
 ---
 
 # § 1519. Destruction, alteration, or falsification of records in Federal investigations and bankruptcy

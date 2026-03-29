@@ -3,9 +3,9 @@ title: "Section 715 - Senate and House documents and reports for Department of S
 usc_title: 44
 usc_section: "715"
 chapter: 7
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "44 U.S.C. § 715"
-generated_at: "2026-03-29T23:09:37.107Z"
+generated_at: "2026-03-29T23:14:23.337Z"
 ---
 
 # § 715. Senate and House documents and reports for Department of State

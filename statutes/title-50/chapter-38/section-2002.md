@@ -3,9 +3,9 @@ title: "Section 2002 - Definitions relating to participants and annuitants"
 usc_title: 50
 usc_section: "2002"
 chapter: 38
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "50 U.S.C. § 2002"
-generated_at: "2026-03-29T23:10:08.995Z"
+generated_at: "2026-03-29T23:15:24.474Z"
 ---
 
 # § 2002. Definitions relating to participants and annuitants

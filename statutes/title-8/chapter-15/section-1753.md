@@ -3,9 +3,9 @@ title: "Section 1753 - Joint United States-Canada projects for alternative inspe
 usc_title: 8
 usc_section: "1753"
 chapter: 15
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "8 U.S.C. § 1753"
-generated_at: "2026-03-29T23:08:14.723Z"
+generated_at: "2026-03-29T23:10:40.830Z"
 ---
 
 # § 1753. Joint United States-Canada projects for alternative inspections services

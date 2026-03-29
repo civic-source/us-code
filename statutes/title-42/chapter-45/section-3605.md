@@ -3,9 +3,9 @@ title: "Section 3605 - Discrimination in residential real estate-related transac
 usc_title: 42
 usc_section: "3605"
 chapter: 45
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "42 U.S.C. § 3605"
-generated_at: "2026-03-29T23:10:02.496Z"
+generated_at: "2026-03-29T23:14:43.837Z"
 ---
 
 # § 3605. Discrimination in residential real estate-related transactions

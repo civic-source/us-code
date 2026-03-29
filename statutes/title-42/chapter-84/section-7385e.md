@@ -3,9 +3,9 @@ title: "Section 7385e - Certification of treatment of payments under other laws"
 usc_title: 42
 usc_section: "7385e"
 chapter: 84
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "42 U.S.C. § 7385e"
-generated_at: "2026-03-29T23:10:02.580Z"
+generated_at: "2026-03-29T23:14:43.949Z"
 ---
 
 # § 7385e. Certification of treatment of payments under other laws

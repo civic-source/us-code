@@ -3,9 +3,9 @@ title: "Section 50108 - Studies on cargo carriage and cargo containers"
 usc_title: 46
 usc_section: "50108"
 chapter: 501
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "46 U.S.C. § 50108"
-generated_at: "2026-03-29T23:10:07.500Z"
+generated_at: "2026-03-29T23:15:08.810Z"
 ---
 
 # § 50108. Studies on cargo carriage and cargo containers

@@ -3,9 +3,9 @@ title: "Section 2003 - Regulations"
 usc_title: 42
 usc_section: "2003"
 chapter: 22
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "42 U.S.C. § 2003"
-generated_at: "2026-03-29T23:10:02.457Z"
+generated_at: "2026-03-29T23:14:43.789Z"
 ---
 
 # § 2003. Regulations

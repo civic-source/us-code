@@ -3,9 +3,9 @@ title: "Section 3811 - Program ineligibility"
 usc_title: 16
 usc_section: "3811"
 chapter: 58
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "16 U.S.C. § 3811"
-generated_at: "2026-03-29T23:08:52.559Z"
+generated_at: "2026-03-29T23:11:41.732Z"
 ---
 
 # § 3811. Program ineligibility

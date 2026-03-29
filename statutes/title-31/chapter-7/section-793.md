@@ -3,9 +3,9 @@ title: "Section 793 - Authorization of appropriations"
 usc_title: 31
 usc_section: "793"
 chapter: 7
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "31 U.S.C. § 793"
-generated_at: "2026-03-29T23:09:15.590Z"
+generated_at: "2026-03-29T23:13:25.047Z"
 ---
 
 # § 793. Authorization of appropriations

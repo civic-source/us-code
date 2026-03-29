@@ -3,9 +3,9 @@ title: "Section 11296 - Oversight and accountability"
 usc_title: 34
 usc_section: "11296"
 chapter: 111
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "34 U.S.C. § 11296"
-generated_at: "2026-03-29T23:09:16.320Z"
+generated_at: "2026-03-29T23:12:57.849Z"
 ---
 
 # § 11296. Oversight and accountability

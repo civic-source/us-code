@@ -3,9 +3,9 @@ title: "Section 4567 - Defense Production Act Committee"
 usc_title: 50
 usc_section: "4567"
 chapter: 55
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "50 U.S.C. § 4567"
-generated_at: "2026-03-29T23:10:09.061Z"
+generated_at: "2026-03-29T23:15:24.529Z"
 ---
 
 # § 4567. Defense Production Act Committee

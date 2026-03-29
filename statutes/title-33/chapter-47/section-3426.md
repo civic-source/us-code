@@ -3,9 +3,9 @@ title: "Section 3426 - Authorization of appropriations"
 usc_title: 33
 usc_section: "3426"
 chapter: 47
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "33 U.S.C. § 3426"
-generated_at: "2026-03-29T23:09:14.170Z"
+generated_at: "2026-03-29T23:13:30.080Z"
 ---
 
 # § 3426. Authorization of appropriations

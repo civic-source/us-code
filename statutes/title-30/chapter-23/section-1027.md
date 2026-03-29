@@ -3,9 +3,9 @@ title: "Section 1027 - Land subject to prohibition on leasing"
 usc_title: 30
 usc_section: "1027"
 chapter: 23
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "30 U.S.C. § 1027"
-generated_at: "2026-03-29T23:09:02.988Z"
+generated_at: "2026-03-29T23:12:09.380Z"
 ---
 
 # § 1027. Land subject to prohibition on leasing

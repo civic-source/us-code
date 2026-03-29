@@ -3,9 +3,9 @@ title: "Section 2097 - Liens on stock"
 usc_title: 12
 usc_section: "2097"
 chapter: 23
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "12 U.S.C. § 2097"
-generated_at: "2026-03-29T23:08:40.475Z"
+generated_at: "2026-03-29T23:11:11.853Z"
 ---
 
 # § 2097. Liens on stock

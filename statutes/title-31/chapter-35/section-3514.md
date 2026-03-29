@@ -3,9 +3,9 @@ title: "Section 3514 - Discontinuing certain accounts maintained by the Comptrol
 usc_title: 31
 usc_section: "3514"
 chapter: 35
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "31 U.S.C. § 3514"
-generated_at: "2026-03-29T23:09:15.599Z"
+generated_at: "2026-03-29T23:13:25.058Z"
 ---
 
 # § 3514. Discontinuing certain accounts maintained by the Comptroller General

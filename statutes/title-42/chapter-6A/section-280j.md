@@ -3,9 +3,9 @@ title: "Section 280j - National strategy for quality improvement in health care"
 usc_title: 42
 usc_section: "280j"
 chapter: 6
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "42 U.S.C. § 280j"
-generated_at: "2026-03-29T23:10:02.118Z"
+generated_at: "2026-03-29T23:14:43.356Z"
 ---
 
 # § 280j. National strategy for quality improvement in health care

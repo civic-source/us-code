@@ -3,9 +3,9 @@ title: "Section 98 - Short title"
 usc_title: 50
 usc_section: "98"
 chapter: 5
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "50 U.S.C. § 98"
-generated_at: "2026-03-29T23:10:08.977Z"
+generated_at: "2026-03-29T23:15:24.458Z"
 ---
 
 # § 98. Short title

@@ -3,9 +3,9 @@ title: "Section 2225a - Prohibiting Federal funding of conferences held at non-c
 usc_title: 15
 usc_section: "2225a"
 chapter: 49
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "15 U.S.C. § 2225a"
-generated_at: "2026-03-29T23:08:43.410Z"
+generated_at: "2026-03-29T23:11:14.758Z"
 ---
 
 # § 2225a. Prohibiting Federal funding of conferences held at non-certified places of public accommodation

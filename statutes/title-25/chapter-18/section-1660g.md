@@ -3,9 +3,9 @@ title: "Section 1660g - Use of Federal Government facilities and sources of supp
 usc_title: 25
 usc_section: "1660g"
 chapter: 18
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "25 U.S.C. § 1660g"
-generated_at: "2026-03-29T23:08:56.316Z"
+generated_at: "2026-03-29T23:12:03.143Z"
 ---
 
 # § 1660g. Use of Federal Government facilities and sources of supply

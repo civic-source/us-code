@@ -3,9 +3,9 @@ title: "Section 2575a - Inquiry point"
 usc_title: 19
 usc_section: "2575a"
 chapter: 13
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "19 U.S.C. § 2575a"
-generated_at: "2026-03-29T23:08:47.284Z"
+generated_at: "2026-03-29T23:11:36.117Z"
 ---
 
 # § 2575a. Inquiry point

@@ -3,9 +3,9 @@ title: "Section 390rr - Central Arizona Project"
 usc_title: 43
 usc_section: "390rr"
 chapter: 12
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "43 U.S.C. § 390rr"
-generated_at: "2026-03-29T23:09:37.791Z"
+generated_at: "2026-03-29T23:14:14.547Z"
 ---
 
 # § 390rr. Central Arizona Project

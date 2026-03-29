@@ -3,9 +3,9 @@ title: "Section 2540c - Renumbered § 4974]"
 usc_title: 10
 usc_section: "2540c"
 chapter: 148
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "10 U.S.C. § 2540c"
-generated_at: "2026-03-29T23:08:22.921Z"
+generated_at: "2026-03-29T23:10:50.132Z"
 ---
 
 # [§ 2540c. Renumbered § 4974]

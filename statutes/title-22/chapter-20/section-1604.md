@@ -3,9 +3,9 @@ title: "Section 1604 - Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(5),
 usc_title: 22
 usc_section: "1604"
 chapter: 20
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "22 U.S.C. § 1604"
-generated_at: "2026-03-29T23:09:00.352Z"
+generated_at: "2026-03-29T23:11:48.678Z"
 ---
 
 # §§ 1601 to 1604. Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(5), 68 Stat. 861

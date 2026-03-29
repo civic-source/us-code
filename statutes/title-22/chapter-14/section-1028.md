@@ -3,9 +3,9 @@ title: "Section 1028 - Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct. 1
 usc_title: 22
 usc_section: "1028"
 chapter: 14
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "22 U.S.C. § 1028"
-generated_at: "2026-03-29T23:09:00.348Z"
+generated_at: "2026-03-29T23:11:48.673Z"
 ---
 
 # §§ 1026 to 1028. Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct. 17, 1980 , 94 Stat. 2159

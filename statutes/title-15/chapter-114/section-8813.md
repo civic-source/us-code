@@ -3,9 +3,9 @@ title: "Section 8813 - Subcommittee on Quantum Information Science."
 usc_title: 15
 usc_section: "8813"
 chapter: 114
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "15 U.S.C. § 8813"
-generated_at: "2026-03-29T23:08:43.469Z"
+generated_at: "2026-03-29T23:11:14.822Z"
 ---
 
 # § 8813. Subcommittee on Quantum Information Science.

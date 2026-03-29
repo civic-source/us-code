@@ -3,9 +3,9 @@ title: "Section 3516 - Health benefits for certain former spouses of Central Int
 usc_title: 50
 usc_section: "3516"
 chapter: 46
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "50 U.S.C. § 3516"
-generated_at: "2026-03-29T23:10:09.036Z"
+generated_at: "2026-03-29T23:15:24.509Z"
 ---
 
 # § 3516. Health benefits for certain former spouses of Central Intelligence Agency employees

@@ -3,9 +3,9 @@ title: "Section 1850 - Protection of Government’s interest"
 usc_title: 15
 usc_section: "1850"
 chapter: 45
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "15 U.S.C. § 1850"
-generated_at: "2026-03-29T23:08:43.401Z"
+generated_at: "2026-03-29T23:11:14.749Z"
 ---
 
 # § 1850. Protection of Government’s interest

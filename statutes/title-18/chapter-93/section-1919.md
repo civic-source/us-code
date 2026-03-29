@@ -3,9 +3,9 @@ title: "Section 1919 - False statement to obtain unemployment compensation for F
 usc_title: 18
 usc_section: "1919"
 chapter: 93
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "18 U.S.C. § 1919"
-generated_at: "2026-03-29T23:08:48.181Z"
+generated_at: "2026-03-29T23:11:31.016Z"
 ---
 
 # § 1919. False statement to obtain unemployment compensation for Federal service

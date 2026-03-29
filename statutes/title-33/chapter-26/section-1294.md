@@ -3,9 +3,9 @@ title: "Section 1294 - Public information and education on recycling and reuse o
 usc_title: 33
 usc_section: "1294"
 chapter: 26
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "33 U.S.C. § 1294"
-generated_at: "2026-03-29T23:09:14.127Z"
+generated_at: "2026-03-29T23:13:30.037Z"
 ---
 
 # § 1294. Public information and education on recycling and reuse of wastewater, use of land treatment, and reduction of wastewater volume

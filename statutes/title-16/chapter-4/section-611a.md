@@ -3,9 +3,9 @@ title: "Section 611a - Permits to cut and remove timber; citizens of Bear Lake C
 usc_title: 16
 usc_section: "611a"
 chapter: 4
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "16 U.S.C. § 611a"
-generated_at: "2026-03-29T23:08:52.470Z"
+generated_at: "2026-03-29T23:11:41.628Z"
 ---
 
 # § 611a. Permits to cut and remove timber; citizens of Bear Lake County, Idaho

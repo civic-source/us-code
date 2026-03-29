@@ -3,9 +3,9 @@ title: "Section 5909 - Relationship to antitrust laws"
 usc_title: 42
 usc_section: "5909"
 chapter: 74
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "42 U.S.C. § 5909"
-generated_at: "2026-03-29T23:10:02.537Z"
+generated_at: "2026-03-29T23:14:43.890Z"
 ---
 
 # § 5909. Relationship to antitrust laws

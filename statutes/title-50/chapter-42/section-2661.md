@@ -3,9 +3,9 @@ title: "Section 2661 - Protection of certain nuclear facilities and assets from 
 usc_title: 50
 usc_section: "2661"
 chapter: 42
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "50 U.S.C. § 2661"
-generated_at: "2026-03-29T23:10:09.009Z"
+generated_at: "2026-03-29T23:15:24.486Z"
 ---
 
 # § 2661. Protection of certain nuclear facilities and assets from unmanned aircraft

@@ -3,9 +3,9 @@ title: "Section 17071 - Energy Code improvements applicable to manufactured hous
 usc_title: 42
 usc_section: "17071"
 chapter: 152
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "42 U.S.C. § 17071"
-generated_at: "2026-03-29T23:10:02.745Z"
+generated_at: "2026-03-29T23:14:44.250Z"
 ---
 
 # § 17071. Energy Code improvements applicable to manufactured housing

@@ -3,9 +3,9 @@ title: "Section 2169 - Fingerprinting for criminal history record checks"
 usc_title: 42
 usc_section: "2169"
 chapter: 23
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "42 U.S.C. § 2169"
-generated_at: "2026-03-29T23:10:02.465Z"
+generated_at: "2026-03-29T23:14:43.799Z"
 ---
 
 # § 2169. Fingerprinting for criminal history record checks

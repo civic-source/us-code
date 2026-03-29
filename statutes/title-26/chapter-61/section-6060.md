@@ -3,9 +3,9 @@ title: "Section 6060 - Information returns of tax return preparers"
 usc_title: 26
 usc_section: "6060"
 chapter: 61
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "26 U.S.C. § 6060"
-generated_at: "2026-03-29T23:09:10.689Z"
+generated_at: "2026-03-29T23:12:49.479Z"
 ---
 
 # § 6060. Information returns of tax return preparers

@@ -3,9 +3,9 @@ title: "Section 3112 - Annual reports on the domestic activities of the intellig
 usc_title: 50
 usc_section: "3112"
 chapter: 44
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "50 U.S.C. § 3112"
-generated_at: "2026-03-29T23:10:09.021Z"
+generated_at: "2026-03-29T23:15:24.498Z"
 ---
 
 # § 3112. Annual reports on the domestic activities of the intelligence community

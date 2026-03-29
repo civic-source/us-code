@@ -3,9 +3,9 @@ title: "Section 1571 - Water quality improvement"
 usc_title: 43
 usc_section: "1571"
 chapter: 32
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "43 U.S.C. § 1571"
-generated_at: "2026-03-29T23:09:37.816Z"
+generated_at: "2026-03-29T23:14:14.572Z"
 ---
 
 # § 1571. Water quality improvement

@@ -3,9 +3,9 @@ title: "Section 191 - Repealed. Oct. 31, 1951, ch. 654, § 1(51) , 65 Stat. 703"
 usc_title: 25
 usc_section: "191"
 chapter: 5
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "25 U.S.C. § 191"
-generated_at: "2026-03-29T23:08:56.296Z"
+generated_at: "2026-03-29T23:12:03.121Z"
 ---
 
 # § 191. Repealed. Oct. 31, 1951, ch. 654, § 1(51) , 65 Stat. 703

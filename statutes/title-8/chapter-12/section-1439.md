@@ -3,9 +3,9 @@ title: "Section 1439 - Naturalization through service in the armed forces"
 usc_title: 8
 usc_section: "1439"
 chapter: 12
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "8 U.S.C. § 1439"
-generated_at: "2026-03-29T23:08:14.710Z"
+generated_at: "2026-03-29T23:10:40.824Z"
 ---
 
 # § 1439. Naturalization through service in the armed forces

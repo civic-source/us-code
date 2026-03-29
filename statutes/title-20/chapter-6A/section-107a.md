@@ -3,9 +3,9 @@ title: "Section 107a - Federal and State responsibilities"
 usc_title: 20
 usc_section: "107a"
 chapter: 6
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "20 U.S.C. § 107a"
-generated_at: "2026-03-29T23:08:49.917Z"
+generated_at: "2026-03-29T23:11:22.933Z"
 ---
 
 # § 107a. Federal and State responsibilities

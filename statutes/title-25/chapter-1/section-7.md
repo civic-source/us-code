@@ -3,9 +3,9 @@ title: "Section 7 - Fees for furnishing certified copies of records"
 usc_title: 25
 usc_section: "7"
 chapter: 1
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "25 U.S.C. § 7"
-generated_at: "2026-03-29T23:08:56.293Z"
+generated_at: "2026-03-29T23:12:03.114Z"
 ---
 
 # § 7. Fees for furnishing certified copies of records

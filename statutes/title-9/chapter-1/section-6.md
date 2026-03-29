@@ -3,9 +3,9 @@ title: "Section 6 - Application heard as motion"
 usc_title: 9
 usc_section: "6"
 chapter: 1
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "9 U.S.C. § 6"
-generated_at: "2026-03-29T23:08:12.087Z"
+generated_at: "2026-03-29T23:10:38.844Z"
 ---
 
 # § 6. Application heard as motion

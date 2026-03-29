@@ -3,9 +3,9 @@ title: "Section 1252c - Authorizing State and local law enforcement officials to
 usc_title: 8
 usc_section: "1252c"
 chapter: 12
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "8 U.S.C. § 1252c"
-generated_at: "2026-03-29T23:08:14.690Z"
+generated_at: "2026-03-29T23:10:40.813Z"
 ---
 
 # § 1252c. Authorizing State and local law enforcement officials to arrest and detain certain illegal aliens

@@ -3,9 +3,9 @@ title: "Section 7 - Exchange of surplus agricultural commodities for reserve sto
 usc_title: 15
 usc_section: "7"
 chapter: 15
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "15 U.S.C. § 7"
-generated_at: "2026-03-29T23:08:43.358Z"
+generated_at: "2026-03-29T23:11:14.700Z"
 ---
 
 # § 713a–7. Exchange of surplus agricultural commodities for reserve stocks of strategic materials

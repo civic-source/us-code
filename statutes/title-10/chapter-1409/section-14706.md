@@ -3,9 +3,9 @@ title: "Section 14706 - Computation of total years of service"
 usc_title: 10
 usc_section: "14706"
 chapter: 1409
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "10 U.S.C. § 14706"
-generated_at: "2026-03-29T23:08:22.984Z"
+generated_at: "2026-03-29T23:10:50.214Z"
 ---
 
 # § 14706. Computation of total years of service

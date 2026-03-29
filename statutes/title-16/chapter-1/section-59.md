@@ -3,9 +3,9 @@ title: "Section 59 - No adverse effect on land until acquired"
 usc_title: 16
 usc_section: "59"
 chapter: 1
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "16 U.S.C. § 59"
-generated_at: "2026-03-29T23:08:52.396Z"
+generated_at: "2026-03-29T23:11:41.548Z"
 ---
 
 # § 410aaa–59. No adverse effect on land until acquired

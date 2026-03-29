@@ -3,9 +3,9 @@ title: "Section 4104 - Internees"
 usc_title: 50
 usc_section: "4104"
 chapter: 51
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "50 U.S.C. § 4104"
-generated_at: "2026-03-29T23:10:09.047Z"
+generated_at: "2026-03-29T23:15:24.518Z"
 ---
 
 # § 4104. Internees

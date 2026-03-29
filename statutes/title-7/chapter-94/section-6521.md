@@ -3,9 +3,9 @@ title: "Section 6521 - Administration"
 usc_title: 7
 usc_section: "6521"
 chapter: 94
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "7 U.S.C. § 6521"
-generated_at: "2026-03-29T23:08:35.947Z"
+generated_at: "2026-03-29T23:10:44.462Z"
 ---
 
 # § 6521. Administration

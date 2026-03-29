@@ -3,9 +3,9 @@ title: "Section 2601 - Conservation management by Department of the Interior; pe
 usc_title: 43
 usc_section: "2601"
 chapter: 44
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "43 U.S.C. § 2601"
-generated_at: "2026-03-29T23:09:37.835Z"
+generated_at: "2026-03-29T23:14:14.595Z"
 ---
 
 # § 2601. Conservation management by Department of the Interior; permanent forest production; sale of timber; subdivision

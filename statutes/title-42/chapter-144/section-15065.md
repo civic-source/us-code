@@ -3,9 +3,9 @@ title: "Section 15065 - Definition"
 usc_title: 42
 usc_section: "15065"
 chapter: 144
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "42 U.S.C. § 15065"
-generated_at: "2026-03-29T23:10:02.717Z"
+generated_at: "2026-03-29T23:14:44.198Z"
 ---
 
 # § 15065. Definition

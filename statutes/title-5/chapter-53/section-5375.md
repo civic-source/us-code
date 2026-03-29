@@ -3,9 +3,9 @@ title: "Section 5375 - Police force of the National Zoological Park"
 usc_title: 5
 usc_section: "5375"
 chapter: 53
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "5 U.S.C. § 5375"
-generated_at: "2026-03-29T23:08:10.467Z"
+generated_at: "2026-03-29T23:10:37.413Z"
 ---
 
 # § 5375. Police force of the National Zoological Park

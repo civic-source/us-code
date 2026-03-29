@@ -3,9 +3,9 @@ title: "Section 10284 - Definitions"
 usc_title: 34
 usc_section: "10284"
 chapter: 101
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "34 U.S.C. § 10284"
-generated_at: "2026-03-29T23:09:16.305Z"
+generated_at: "2026-03-29T23:12:57.832Z"
 ---
 
 # § 10284. Definitions

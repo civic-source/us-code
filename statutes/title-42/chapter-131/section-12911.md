@@ -3,9 +3,9 @@ title: "Section 12911 - Report"
 usc_title: 42
 usc_section: "12911"
 chapter: 131
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "42 U.S.C. § 12911"
-generated_at: "2026-03-29T23:10:02.700Z"
+generated_at: "2026-03-29T23:14:44.166Z"
 ---
 
 # § 12911. Report

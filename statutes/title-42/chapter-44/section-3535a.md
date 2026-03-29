@@ -3,9 +3,9 @@ title: "Section 3535a - Working capital fund"
 usc_title: 42
 usc_section: "3535a"
 chapter: 44
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "42 U.S.C. § 3535a"
-generated_at: "2026-03-29T23:10:02.494Z"
+generated_at: "2026-03-29T23:14:43.836Z"
 ---
 
 # § 3535a. Working capital fund

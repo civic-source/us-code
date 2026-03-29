@@ -3,9 +3,9 @@ title: "Section 2220 - Rivers and harbors and other waterways projects for benef
 usc_title: 33
 usc_section: "2220"
 chapter: 36
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "33 U.S.C. § 2220"
-generated_at: "2026-03-29T23:09:14.148Z"
+generated_at: "2026-03-29T23:13:30.058Z"
 ---
 
 # § 2220. Rivers and harbors and other waterways projects for benefit of navigation, flood control, hurricane protection, beach erosion control, and other purposes

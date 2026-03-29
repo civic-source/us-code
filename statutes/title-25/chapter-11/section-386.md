@@ -3,9 +3,9 @@ title: "Section 386 - Reimbursement of construction charges"
 usc_title: 25
 usc_section: "386"
 chapter: 11
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "25 U.S.C. § 386"
-generated_at: "2026-03-29T23:08:56.301Z"
+generated_at: "2026-03-29T23:12:03.125Z"
 ---
 
 # § 386. Reimbursement of construction charges

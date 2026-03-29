@@ -3,9 +3,9 @@ title: "Section 717l - Complaints"
 usc_title: 15
 usc_section: "717l"
 chapter: 15
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "15 U.S.C. § 717l"
-generated_at: "2026-03-29T23:08:43.360Z"
+generated_at: "2026-03-29T23:11:14.703Z"
 ---
 
 # § 717l. Complaints

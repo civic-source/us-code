@@ -3,9 +3,9 @@ title: "Section 1073e - Protection of armed forces from infectious diseases"
 usc_title: 10
 usc_section: "1073e"
 chapter: 55
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "10 U.S.C. § 1073e"
-generated_at: "2026-03-29T23:08:22.884Z"
+generated_at: "2026-03-29T23:10:50.086Z"
 ---
 
 # § 1073e. Protection of armed forces from infectious diseases

@@ -3,9 +3,9 @@ title: "Section 614 - Organization certificate; acknowledgment; forwarding to, f
 usc_title: 12
 usc_section: "614"
 chapter: 6
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "12 U.S.C. § 614"
-generated_at: "2026-03-29T23:08:40.391Z"
+generated_at: "2026-03-29T23:11:11.768Z"
 ---
 
 # § 614. Organization certificate; acknowledgment; forwarding to, filing, and approval by Board of Governors of the Federal Reserve System; permit to do business; body corporate; name; seal; corporate succession; contracts; suits; directors, officers, and employees; bylaws

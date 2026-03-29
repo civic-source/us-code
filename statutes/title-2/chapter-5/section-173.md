@@ -3,9 +3,9 @@ title: "Section 173 - Establishment of Center for the Book"
 usc_title: 2
 usc_section: "173"
 chapter: 5
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "2 U.S.C. § 173"
-generated_at: "2026-03-29T23:08:07.156Z"
+generated_at: "2026-03-29T23:10:28.093Z"
 ---
 
 # § 173. Establishment of Center for the Book

@@ -3,9 +3,9 @@ title: "Section 2772 - Education loan repayment program"
 usc_title: 14
 usc_section: "2772"
 chapter: 27
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "14 U.S.C. § 2772"
-generated_at: "2026-03-29T23:08:38.151Z"
+generated_at: "2026-03-29T23:11:03.323Z"
 ---
 
 # § 2772. Education loan repayment program

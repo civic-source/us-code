@@ -3,9 +3,9 @@ title: "Section 4292 - Contracts: limitations on lead system integrators"
 usc_title: 10
 usc_section: "4292"
 chapter: 322
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "10 U.S.C. § 4292"
-generated_at: "2026-03-29T23:08:22.947Z"
+generated_at: "2026-03-29T23:10:50.167Z"
 ---
 
 # § 4292. Contracts: limitations on lead system integrators

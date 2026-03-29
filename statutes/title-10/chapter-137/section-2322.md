@@ -3,9 +3,9 @@ title: "Section 2322 - Repealed. Pub. L. 116–283, div. A, title XVIII, § 1881
 usc_title: 10
 usc_section: "2322"
 chapter: 137
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "10 U.S.C. § 2322"
-generated_at: "2026-03-29T23:08:22.916Z"
+generated_at: "2026-03-29T23:10:50.126Z"
 ---
 
 # [§§ 2320 to 2322. Repealed. Pub. L. 116–283, div. A, title XVIII, § 1881(a) , Jan. 1, 2021 , 134 Stat. 4293 ]

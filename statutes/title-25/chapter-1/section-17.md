@@ -3,9 +3,9 @@ title: "Section 17 - Use of Bureau facilities"
 usc_title: 25
 usc_section: "17"
 chapter: 1
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "25 U.S.C. § 17"
-generated_at: "2026-03-29T23:08:56.293Z"
+generated_at: "2026-03-29T23:12:03.115Z"
 ---
 
 # § 17. Use of Bureau facilities

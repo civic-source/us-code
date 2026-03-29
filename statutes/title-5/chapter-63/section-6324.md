@@ -3,9 +3,9 @@ title: "Section 6324 - Absence of certain police and firemen"
 usc_title: 5
 usc_section: "6324"
 chapter: 63
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "5 U.S.C. § 6324"
-generated_at: "2026-03-29T23:08:10.489Z"
+generated_at: "2026-03-29T23:10:37.424Z"
 ---
 
 # § 6324. Absence of certain police and firemen

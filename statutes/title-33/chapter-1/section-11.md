@@ -3,9 +3,9 @@ title: "Section 11 - Authority for compact between Middle Northwest States as to
 usc_title: 33
 usc_section: "11"
 chapter: 1
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "33 U.S.C. § 11"
-generated_at: "2026-03-29T23:09:14.093Z"
+generated_at: "2026-03-29T23:13:30.003Z"
 ---
 
 # § 11. Authority for compact between Middle Northwest States as to jurisdiction of offenses committed on boundary waters

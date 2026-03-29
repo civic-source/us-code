@@ -3,9 +3,9 @@ title: "Section 5606 - Arrangements for attendance at funeral of deceased House 
 usc_title: 2
 usc_section: "5606"
 chapter: 55
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "2 U.S.C. § 5606"
-generated_at: "2026-03-29T23:08:07.233Z"
+generated_at: "2026-03-29T23:10:28.135Z"
 ---
 
 # § 5606. Arrangements for attendance at funeral of deceased House Members; payment of funeral expenses and expenses of attending funeral rites

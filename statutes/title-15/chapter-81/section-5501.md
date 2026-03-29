@@ -3,9 +3,9 @@ title: "Section 5501 - Findings"
 usc_title: 15
 usc_section: "5501"
 chapter: 81
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "15 U.S.C. § 5501"
-generated_at: "2026-03-29T23:08:43.444Z"
+generated_at: "2026-03-29T23:11:14.795Z"
 ---
 
 # § 5501. Findings

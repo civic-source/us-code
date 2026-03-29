@@ -3,9 +3,9 @@ title: "Section 151104 - Governing body"
 usc_title: 36
 usc_section: "151104"
 chapter: 1511
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "36 U.S.C. § 151104"
-generated_at: "2026-03-29T23:09:24.152Z"
+generated_at: "2026-03-29T23:13:47.517Z"
 ---
 
 # § 151104. Governing body

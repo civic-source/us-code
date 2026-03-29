@@ -3,9 +3,9 @@ title: "Section 51 - Short title"
 usc_title: 7
 usc_section: "51"
 chapter: 2
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "7 U.S.C. § 51"
-generated_at: "2026-03-29T23:08:35.806Z"
+generated_at: "2026-03-29T23:10:44.308Z"
 ---
 
 # § 51. Short title

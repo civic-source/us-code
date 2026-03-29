@@ -3,9 +3,9 @@ title: "Section 1293 - Loan guarantees"
 usc_title: 33
 usc_section: "1293"
 chapter: 26
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "33 U.S.C. § 1293"
-generated_at: "2026-03-29T23:09:14.127Z"
+generated_at: "2026-03-29T23:13:30.037Z"
 ---
 
 # § 1293. Loan guarantees

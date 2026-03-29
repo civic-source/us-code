@@ -3,9 +3,9 @@ title: "Section 2283 - Renumbered § 4901]"
 usc_title: 10
 usc_section: "2283"
 chapter: 136
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "10 U.S.C. § 2283"
-generated_at: "2026-03-29T23:08:22.916Z"
+generated_at: "2026-03-29T23:10:50.126Z"
 ---
 
 # [§ 2283. Renumbered § 4901]

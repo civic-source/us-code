@@ -3,9 +3,9 @@ title: "Section 3510 - Additional medical and safety standards"
 usc_title: 46
 usc_section: "3510"
 chapter: 35
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "46 U.S.C. § 3510"
-generated_at: "2026-03-29T23:10:07.480Z"
+generated_at: "2026-03-29T23:15:08.793Z"
 ---
 
 # § 3510. Additional medical and safety standards

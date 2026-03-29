@@ -3,9 +3,9 @@ title: "Section 719 - Judicial review"
 usc_title: 45
 usc_section: "719"
 chapter: 16
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "45 U.S.C. § 719"
-generated_at: "2026-03-29T23:09:38.079Z"
+generated_at: "2026-03-29T23:14:08.591Z"
 ---
 
 # § 719. Judicial review

@@ -3,9 +3,9 @@ title: "Section 10420 - Transferred"
 usc_title: 42
 usc_section: "10420"
 chapter: 110
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "42 U.S.C. § 10420"
-generated_at: "2026-03-29T23:10:02.662Z"
+generated_at: "2026-03-29T23:14:44.106Z"
 ---
 
 # § 10420. Transferred

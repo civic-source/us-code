@@ -3,9 +3,9 @@ title: "Section 1504 - Rental rates; exemption from limitations of United States
 usc_title: 42
 usc_section: "1504"
 chapter: 9
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "42 U.S.C. § 1504"
-generated_at: "2026-03-29T23:10:02.422Z"
+generated_at: "2026-03-29T23:14:43.747Z"
 ---
 
 # § 1504. Rental rates; exemption from limitations of United States Housing Act of 1937

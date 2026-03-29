@@ -3,9 +3,9 @@ title: "Section 7302 - Functions of Veterans Health Administration: health-care 
 usc_title: 38
 usc_section: "7302"
 chapter: 73
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "38 U.S.C. § 7302"
-generated_at: "2026-03-29T23:09:35.088Z"
+generated_at: "2026-03-29T23:13:58.929Z"
 ---
 
 # § 7302. Functions of Veterans Health Administration: health-care personnel education and training programs

@@ -3,9 +3,9 @@ title: "Section 8041 - Authorization of appropriations"
 usc_title: 16
 usc_section: "8041"
 chapter: 99
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "16 U.S.C. § 8041"
-generated_at: "2026-03-29T23:08:52.597Z"
+generated_at: "2026-03-29T23:11:41.774Z"
 ---
 
 # § 8041. Authorization of appropriations

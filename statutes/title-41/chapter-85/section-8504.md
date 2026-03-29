@@ -3,9 +3,9 @@ title: "Section 8504 - Procurement requirements for the Federal Government"
 usc_title: 41
 usc_section: "8504"
 chapter: 85
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "41 U.S.C. § 8504"
-generated_at: "2026-03-29T23:09:38.361Z"
+generated_at: "2026-03-29T23:14:17.537Z"
 ---
 
 # § 8504. Procurement requirements for the Federal Government

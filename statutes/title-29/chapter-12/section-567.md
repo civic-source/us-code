@@ -3,9 +3,9 @@ title: "Section 567 - Labor-management dispute settlement expenses"
 usc_title: 29
 usc_section: "567"
 chapter: 12
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "29 U.S.C. § 567"
-generated_at: "2026-03-29T23:09:05.532Z"
+generated_at: "2026-03-29T23:12:20.995Z"
 ---
 
 # § 567. Labor-management dispute settlement expenses

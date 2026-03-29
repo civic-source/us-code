@@ -3,9 +3,9 @@ title: "Section 1745 - Nursing home care, adult day health care, and medications
 usc_title: 38
 usc_section: "1745"
 chapter: 17
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "38 U.S.C. § 1745"
-generated_at: "2026-03-29T23:09:35.051Z"
+generated_at: "2026-03-29T23:13:58.892Z"
 ---
 
 # § 1745. Nursing home care, adult day health care, and medications for veterans with service-connected disabilities

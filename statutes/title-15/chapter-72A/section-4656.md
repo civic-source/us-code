@@ -3,9 +3,9 @@ title: "Section 4656 - Advanced microelectronics research and development"
 usc_title: 15
 usc_section: "4656"
 chapter: 72
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "15 U.S.C. § 4656"
-generated_at: "2026-03-29T23:08:43.440Z"
+generated_at: "2026-03-29T23:11:14.791Z"
 ---
 
 # § 4656. Advanced microelectronics research and development

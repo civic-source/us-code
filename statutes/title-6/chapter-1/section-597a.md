@@ -3,9 +3,9 @@ title: "Section 597a - Medical countermeasures"
 usc_title: 6
 usc_section: "597a"
 chapter: 1
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "6 U.S.C. § 597a"
-generated_at: "2026-03-29T23:08:13.303Z"
+generated_at: "2026-03-29T23:10:59.570Z"
 ---
 
 # § 597a. Medical countermeasures

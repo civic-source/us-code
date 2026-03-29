@@ -3,9 +3,9 @@ title: "Section 22 - Distribution, redemption, and repurchase of securities; reg
 usc_title: 15
 usc_section: "22"
 chapter: 2
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "15 U.S.C. § 22"
-generated_at: "2026-03-29T23:08:43.315Z"
+generated_at: "2026-03-29T23:11:14.650Z"
 ---
 
 # § 80a–22. Distribution, redemption, and repurchase of securities; regulations by securities associations

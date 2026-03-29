@@ -3,9 +3,9 @@ title: "Section 904 - General administrative provisions"
 usc_title: 47
 usc_section: "904"
 chapter: 8
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "47 U.S.C. § 904"
-generated_at: "2026-03-29T23:10:05.779Z"
+generated_at: "2026-03-29T23:15:01.800Z"
 ---
 
 # § 904. General administrative provisions

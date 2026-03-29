@@ -3,9 +3,9 @@ title: "Section 1623 - Limitation on eligibility for preferential treatment of a
 usc_title: 8
 usc_section: "1623"
 chapter: 14
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "8 U.S.C. § 1623"
-generated_at: "2026-03-29T23:08:14.720Z"
+generated_at: "2026-03-29T23:10:40.828Z"
 ---
 
 # § 1623. Limitation on eligibility for preferential treatment of aliens not lawfully present on basis of residence for higher education benefits

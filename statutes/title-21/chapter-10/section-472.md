@@ -3,9 +3,9 @@ title: "Section 472 - Interstate shipment of poultry inspected by Federal and St
 usc_title: 21
 usc_section: "472"
 chapter: 10
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "21 U.S.C. § 472"
-generated_at: "2026-03-29T23:08:57.395Z"
+generated_at: "2026-03-29T23:12:02.220Z"
 ---
 
 # § 472. Interstate shipment of poultry inspected by Federal and State agencies for certain small establishments

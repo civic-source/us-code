@@ -3,9 +3,9 @@ title: "Section 343 - Examination of the debtor"
 usc_title: 11
 usc_section: "343"
 chapter: 3
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "11 U.S.C. § 343"
-generated_at: "2026-03-29T23:08:38.667Z"
+generated_at: "2026-03-29T23:11:17.033Z"
 ---
 
 # § 343. Examination of the debtor

@@ -3,9 +3,9 @@ title: "Section 1680 - California as a contract health service delivery area"
 usc_title: 25
 usc_section: "1680"
 chapter: 18
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "25 U.S.C. § 1680"
-generated_at: "2026-03-29T23:08:56.319Z"
+generated_at: "2026-03-29T23:12:03.148Z"
 ---
 
 # § 1680. California as a contract health service delivery area

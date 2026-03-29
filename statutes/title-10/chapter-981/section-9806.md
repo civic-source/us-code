@@ -3,9 +3,9 @@ title: "Section 9806 - Settlement or compromise: final and conclusive"
 usc_title: 10
 usc_section: "9806"
 chapter: 981
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "10 U.S.C. § 9806"
-generated_at: "2026-03-29T23:08:22.975Z"
+generated_at: "2026-03-29T23:10:50.203Z"
 ---
 
 # § 9806. Settlement or compromise: final and conclusive

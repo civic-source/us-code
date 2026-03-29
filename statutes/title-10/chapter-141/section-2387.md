@@ -3,9 +3,9 @@ title: "Section 2387 - Contract working dogs: requirement to transfer animals to
 usc_title: 10
 usc_section: "2387"
 chapter: 141
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "10 U.S.C. § 2387"
-generated_at: "2026-03-29T23:08:22.919Z"
+generated_at: "2026-03-29T23:10:50.128Z"
 ---
 
 # § 2387. Contract working dogs: requirement to transfer animals to 341st Training Squadron after service life

@@ -3,9 +3,9 @@ title: "Section 2902 - Commission; where recorded"
 usc_title: 5
 usc_section: "2902"
 chapter: 29
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "5 U.S.C. § 2902"
-generated_at: "2026-03-29T23:08:10.444Z"
+generated_at: "2026-03-29T23:10:37.401Z"
 ---
 
 # § 2902. Commission; where recorded

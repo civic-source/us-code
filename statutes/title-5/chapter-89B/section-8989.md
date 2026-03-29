@@ -3,9 +3,9 @@ title: "Section 8989 - Preemption"
 usc_title: 5
 usc_section: "8989"
 chapter: 89
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "5 U.S.C. § 8989"
-generated_at: "2026-03-29T23:08:10.550Z"
+generated_at: "2026-03-29T23:10:37.453Z"
 ---
 
 # § 8989. Preemption

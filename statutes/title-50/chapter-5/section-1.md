@@ -3,9 +3,9 @@ title: "Section 1 - Advisory committees"
 usc_title: 50
 usc_section: "1"
 chapter: 5
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "50 U.S.C. § 1"
-generated_at: "2026-03-29T23:10:08.978Z"
+generated_at: "2026-03-29T23:15:24.459Z"
 ---
 
 # § 98h–1. Advisory committees

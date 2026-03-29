@@ -3,9 +3,9 @@ title: "Section 2656k - Human rights awareness for American athletic delegations
 usc_title: 22
 usc_section: "2656k"
 chapter: 38
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "22 U.S.C. § 2656k"
-generated_at: "2026-03-29T23:09:00.386Z"
+generated_at: "2026-03-29T23:11:48.717Z"
 ---
 
 # § 2656k. Human rights awareness for American athletic delegations

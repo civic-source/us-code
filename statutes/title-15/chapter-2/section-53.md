@@ -3,9 +3,9 @@ title: "Section 53 - False advertisements; injunctions and restraining orders"
 usc_title: 15
 usc_section: "53"
 chapter: 2
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "15 U.S.C. § 53"
-generated_at: "2026-03-29T23:08:43.277Z"
+generated_at: "2026-03-29T23:11:14.608Z"
 ---
 
 # § 53. False advertisements; injunctions and restraining orders

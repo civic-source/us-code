@@ -3,9 +3,9 @@ title: "Section 15009 - Rights of individuals with developmental disabilities"
 usc_title: 42
 usc_section: "15009"
 chapter: 144
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "42 U.S.C. § 15009"
-generated_at: "2026-03-29T23:10:02.715Z"
+generated_at: "2026-03-29T23:14:44.194Z"
 ---
 
 # § 15009. Rights of individuals with developmental disabilities

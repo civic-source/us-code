@@ -3,9 +3,9 @@ title: "Section 111 - Expense allowance of Vice President"
 usc_title: 3
 usc_section: "111"
 chapter: 2
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "3 U.S.C. § 111"
-generated_at: "2026-03-29T23:08:05.382Z"
+generated_at: "2026-03-29T23:10:26.769Z"
 ---
 
 # § 111. Expense allowance of Vice President

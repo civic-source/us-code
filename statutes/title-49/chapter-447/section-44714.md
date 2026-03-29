@@ -3,9 +3,9 @@ title: "Section 44714 - Aviation fuel standards"
 usc_title: 49
 usc_section: "44714"
 chapter: 447
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "49 U.S.C. § 44714"
-generated_at: "2026-03-29T23:10:11.243Z"
+generated_at: "2026-03-29T23:15:16.335Z"
 ---
 
 # § 44714. Aviation fuel standards

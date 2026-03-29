@@ -3,9 +3,9 @@ title: "Section 4723a - United States Commercial Centers"
 usc_title: 15
 usc_section: "4723a"
 chapter: 73
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "15 U.S.C. § 4723a"
-generated_at: "2026-03-29T23:08:43.441Z"
+generated_at: "2026-03-29T23:11:14.792Z"
 ---
 
 # § 4723a. United States Commercial Centers

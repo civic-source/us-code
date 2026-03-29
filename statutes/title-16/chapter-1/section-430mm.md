@@ -3,9 +3,9 @@ title: "Section 430mm - Authorization of appropriations"
 usc_title: 16
 usc_section: "430mm"
 chapter: 1
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "16 U.S.C. § 430mm"
-generated_at: "2026-03-29T23:08:52.411Z"
+generated_at: "2026-03-29T23:11:41.564Z"
 ---
 
 # § 430mm. Authorization of appropriations

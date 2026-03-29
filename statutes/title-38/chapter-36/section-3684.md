@@ -3,9 +3,9 @@ title: "Section 3684 - Reports by veterans, eligible persons, and institutions; 
 usc_title: 38
 usc_section: "3684"
 chapter: 36
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "38 U.S.C. § 3684"
-generated_at: "2026-03-29T23:09:35.073Z"
+generated_at: "2026-03-29T23:13:58.912Z"
 ---
 
 # § 3684. Reports by veterans, eligible persons, and institutions; reporting fee

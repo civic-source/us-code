@@ -3,9 +3,9 @@ title: "Section 30142 - Prohibition against use of certain Federal funds for ele
 usc_title: 52
 usc_section: "30142"
 chapter: 301
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "52 U.S.C. § 30142"
-generated_at: "2026-03-29T23:10:13.059Z"
+generated_at: "2026-03-29T23:15:38.089Z"
 ---
 
 # § 30142. Prohibition against use of certain Federal funds for election activities

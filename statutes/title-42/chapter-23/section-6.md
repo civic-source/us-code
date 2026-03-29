@@ -3,9 +3,9 @@ title: "Section 6 - Transfer of contracts"
 usc_title: 42
 usc_section: "6"
 chapter: 23
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-29T23:10:02.472Z"
+generated_at: "2026-03-29T23:14:43.808Z"
 ---
 
 # § 2297h–6. Transfer of contracts

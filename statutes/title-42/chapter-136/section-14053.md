@@ -3,9 +3,9 @@ title: "Section 14053 - Transferred"
 usc_title: 42
 usc_section: "14053"
 chapter: 136
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "42 U.S.C. § 14053"
-generated_at: "2026-03-29T23:10:02.712Z"
+generated_at: "2026-03-29T23:14:44.187Z"
 ---
 
 # § 14053. Transferred

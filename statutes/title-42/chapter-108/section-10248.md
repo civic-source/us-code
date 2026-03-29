@@ -3,9 +3,9 @@ title: "Section 10248 - Administrative powers of Negotiator"
 usc_title: 42
 usc_section: "10248"
 chapter: 108
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "42 U.S.C. § 10248"
-generated_at: "2026-03-29T23:10:02.658Z"
+generated_at: "2026-03-29T23:14:44.099Z"
 ---
 
 # § 10248. Administrative powers of Negotiator

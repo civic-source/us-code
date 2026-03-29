@@ -3,9 +3,9 @@ title: "Section 7837 - Settlement of accounts: remission or cancellation of inde
 usc_title: 10
 usc_section: "7837"
 chapter: 783
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "10 U.S.C. § 7837"
-generated_at: "2026-03-29T23:08:22.959Z"
+generated_at: "2026-03-29T23:10:50.182Z"
 ---
 
 # § 7837. Settlement of accounts: remission or cancellation of indebtedness of members

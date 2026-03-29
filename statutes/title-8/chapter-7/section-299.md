@@ -3,9 +3,9 @@ title: "Section 299 - Repealed. Dec. 17, 1943, ch. 344, § 1 , 57 Stat. 600"
 usc_title: 8
 usc_section: "299"
 chapter: 7
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "8 U.S.C. § 299"
-generated_at: "2026-03-29T23:08:14.646Z"
+generated_at: "2026-03-29T23:10:40.793Z"
 ---
 
 # § 299. Repealed. Dec. 17, 1943, ch. 344, § 1 , 57 Stat. 600

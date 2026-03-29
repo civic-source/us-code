@@ -3,9 +3,9 @@ title: "Section 432 - Report of officers and employees of labor organizations"
 usc_title: 29
 usc_section: "432"
 chapter: 11
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "29 U.S.C. § 432"
-generated_at: "2026-03-29T23:09:05.530Z"
+generated_at: "2026-03-29T23:12:20.994Z"
 ---
 
 # § 432. Report of officers and employees of labor organizations

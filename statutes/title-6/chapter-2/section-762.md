@@ -3,9 +3,9 @@ title: "Section 762 - Emergency management performance grants program"
 usc_title: 6
 usc_section: "762"
 chapter: 2
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "6 U.S.C. § 762"
-generated_at: "2026-03-29T23:08:13.323Z"
+generated_at: "2026-03-29T23:10:59.579Z"
 ---
 
 # § 762. Emergency management performance grants program

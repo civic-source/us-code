@@ -3,9 +3,9 @@ title: "Section 173 - Advisory personnel"
 usc_title: 10
 usc_section: "173"
 chapter: 7
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "10 U.S.C. § 173"
-generated_at: "2026-03-29T23:08:22.851Z"
+generated_at: "2026-03-29T23:10:50.046Z"
 ---
 
 # § 173. Advisory personnel

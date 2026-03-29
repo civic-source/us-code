@@ -3,9 +3,9 @@ title: "Section 56102 - Additional controls during war or national emergency"
 usc_title: 46
 usc_section: "56102"
 chapter: 561
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "46 U.S.C. § 56102"
-generated_at: "2026-03-29T23:10:07.514Z"
+generated_at: "2026-03-29T23:15:08.820Z"
 ---
 
 # § 56102. Additional controls during war or national emergency

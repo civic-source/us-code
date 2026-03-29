@@ -3,9 +3,9 @@ title: "Section 3720C - Debt Collection Improvement Account"
 usc_title: 31
 usc_section: "3720C"
 chapter: 37
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "31 U.S.C. § 3720C"
-generated_at: "2026-03-29T23:09:15.601Z"
+generated_at: "2026-03-29T23:13:25.062Z"
 ---
 
 # § 3720C. Debt Collection Improvement Account

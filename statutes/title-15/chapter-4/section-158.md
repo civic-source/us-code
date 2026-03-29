@@ -3,9 +3,9 @@ title: "Section 158 - False or fraudulent statements prohibited; penalties"
 usc_title: 15
 usc_section: "158"
 chapter: 4
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "15 U.S.C. § 158"
-generated_at: "2026-03-29T23:08:43.321Z"
+generated_at: "2026-03-29T23:11:14.656Z"
 ---
 
 # § 158. False or fraudulent statements prohibited; penalties

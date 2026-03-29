@@ -3,9 +3,9 @@ title: "Section 3905 - Cost contracts"
 usc_title: 41
 usc_section: "3905"
 chapter: 39
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "41 U.S.C. § 3905"
-generated_at: "2026-03-29T23:09:38.357Z"
+generated_at: "2026-03-29T23:14:17.533Z"
 ---
 
 # § 3905. Cost contracts

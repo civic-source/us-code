@@ -3,9 +3,9 @@ title: "Section 424c - Moccasin Bend National Archeological District"
 usc_title: 16
 usc_section: "424c"
 chapter: 1
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "16 U.S.C. § 424c"
-generated_at: "2026-03-29T23:08:52.406Z"
+generated_at: "2026-03-29T23:11:41.560Z"
 ---
 
 # § 424c. Moccasin Bend National Archeological District

@@ -3,9 +3,9 @@ title: "Section 1101 - Definitions"
 usc_title: 38
 usc_section: "1101"
 chapter: 11
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "38 U.S.C. § 1101"
-generated_at: "2026-03-29T23:09:35.041Z"
+generated_at: "2026-03-29T23:13:58.882Z"
 ---
 
 # § 1101. Definitions

@@ -3,9 +3,9 @@ title: "Section 3 - Registration of investment advisers"
 usc_title: 15
 usc_section: "3"
 chapter: 2
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-03-29T23:08:43.318Z"
+generated_at: "2026-03-29T23:11:14.654Z"
 ---
 
 # § 80b–3. Registration of investment advisers

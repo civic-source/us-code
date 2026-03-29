@@ -3,9 +3,9 @@ title: "Section 4402 - Smokeless tobacco warning"
 usc_title: 15
 usc_section: "4402"
 chapter: 70
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "15 U.S.C. § 4402"
-generated_at: "2026-03-29T23:08:43.438Z"
+generated_at: "2026-03-29T23:11:14.788Z"
 ---
 
 # § 4402. Smokeless tobacco warning

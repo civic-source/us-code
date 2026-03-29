@@ -3,9 +3,9 @@ title: "Section 1592 - Penalties for fraud, gross negligence, and negligence"
 usc_title: 19
 usc_section: "1592"
 chapter: 4
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "19 U.S.C. § 1592"
-generated_at: "2026-03-29T23:08:47.254Z"
+generated_at: "2026-03-29T23:11:36.087Z"
 ---
 
 # § 1592. Penalties for fraud, gross negligence, and negligence

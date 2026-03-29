@@ -3,9 +3,9 @@ title: "Section 1787 - Jupiter Inlet Lighthouse Outstanding Natural Area"
 usc_title: 43
 usc_section: "1787"
 chapter: 35
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "43 U.S.C. § 1787"
-generated_at: "2026-03-29T23:09:37.831Z"
+generated_at: "2026-03-29T23:14:14.589Z"
 ---
 
 # § 1787. Jupiter Inlet Lighthouse Outstanding Natural Area

@@ -3,9 +3,9 @@ title: "Section 8411 - Aviation cadets: grade; procurement; transfer"
 usc_title: 10
 usc_section: "8411"
 chapter: 851
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "10 U.S.C. § 8411"
-generated_at: "2026-03-29T23:08:22.962Z"
+generated_at: "2026-03-29T23:10:50.186Z"
 ---
 
 # § 8411. Aviation cadets: grade; procurement; transfer

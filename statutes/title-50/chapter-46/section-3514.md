@@ -3,9 +3,9 @@ title: "Section 3514 - Retirement equity for spouses of certain employees"
 usc_title: 50
 usc_section: "3514"
 chapter: 46
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "50 U.S.C. § 3514"
-generated_at: "2026-03-29T23:10:09.036Z"
+generated_at: "2026-03-29T23:15:24.509Z"
 ---
 
 # § 3514. Retirement equity for spouses of certain employees

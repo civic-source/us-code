@@ -3,9 +3,9 @@ title: "Section 18053 - Provisions relating to offering of plans in more than on
 usc_title: 42
 usc_section: "18053"
 chapter: 157
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "42 U.S.C. § 18053"
-generated_at: "2026-03-29T23:10:02.762Z"
+generated_at: "2026-03-29T23:14:44.285Z"
 ---
 
 # § 18053. Provisions relating to offering of plans in more than one State

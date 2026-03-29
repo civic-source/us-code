@@ -3,9 +3,9 @@ title: "Section 42 - Transferred"
 usc_title: 50
 usc_section: "42"
 chapter: 4
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "50 U.S.C. § 42"
-generated_at: "2026-03-29T23:10:08.977Z"
+generated_at: "2026-03-29T23:15:24.458Z"
 ---
 
 # § 42. Transferred

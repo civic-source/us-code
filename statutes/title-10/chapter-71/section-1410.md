@@ -3,9 +3,9 @@ title: "Section 1410 - Restoral of full retirement amount at age 62 for certain 
 usc_title: 10
 usc_section: "1410"
 chapter: 71
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "10 U.S.C. § 1410"
-generated_at: "2026-03-29T23:08:22.896Z"
+generated_at: "2026-03-29T23:10:50.103Z"
 ---
 
 # § 1410. Restoral of full retirement amount at age 62 for certain members entering on or after August 1, 1986

@@ -3,9 +3,9 @@ title: "Section 84 - Applications for entry"
 usc_title: 30
 usc_section: "84"
 chapter: 3
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "30 U.S.C. § 84"
-generated_at: "2026-03-29T23:09:02.971Z"
+generated_at: "2026-03-29T23:12:09.361Z"
 ---
 
 # § 84. Applications for entry

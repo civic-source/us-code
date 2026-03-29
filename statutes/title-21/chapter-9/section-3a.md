@@ -3,9 +3,9 @@ title: "Section 3a - Hiring authority for scientific, technical, and professiona
 usc_title: 21
 usc_section: "3a"
 chapter: 9
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "21 U.S.C. § 3a"
-generated_at: "2026-03-29T23:08:57.376Z"
+generated_at: "2026-03-29T23:12:02.201Z"
 ---
 
 # § 379d–3a. Hiring authority for scientific, technical, and professional personnel

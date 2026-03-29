@@ -3,9 +3,9 @@ title: "Section 403c - Omitted"
 usc_title: 16
 usc_section: "403c"
 chapter: 1
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "16 U.S.C. § 403c"
-generated_at: "2026-03-29T23:08:52.383Z"
+generated_at: "2026-03-29T23:11:41.535Z"
 ---
 
 # § 403c. Omitted

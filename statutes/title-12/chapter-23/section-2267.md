@@ -3,9 +3,9 @@ title: "Section 2267 - Jurisdiction and enforcement"
 usc_title: 12
 usc_section: "2267"
 chapter: 23
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "12 U.S.C. § 2267"
-generated_at: "2026-03-29T23:08:40.479Z"
+generated_at: "2026-03-29T23:11:11.859Z"
 ---
 
 # § 2267. Jurisdiction and enforcement

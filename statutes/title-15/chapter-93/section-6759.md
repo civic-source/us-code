@@ -3,9 +3,9 @@ title: "Section 6759 - Presidential oversight"
 usc_title: 15
 usc_section: "6759"
 chapter: 93
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "15 U.S.C. § 6759"
-generated_at: "2026-03-29T23:08:43.452Z"
+generated_at: "2026-03-29T23:11:14.804Z"
 ---
 
 # § 6759. Presidential oversight

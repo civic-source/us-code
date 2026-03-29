@@ -3,9 +3,9 @@ title: "Section 6682 - Definitions"
 usc_title: 20
 usc_section: "6682"
 chapter: 70
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "20 U.S.C. § 6682"
-generated_at: "2026-03-29T23:08:50.026Z"
+generated_at: "2026-03-29T23:11:23.051Z"
 ---
 
 # § 6682. Definitions

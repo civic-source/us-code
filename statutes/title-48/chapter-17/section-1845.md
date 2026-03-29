@@ -3,9 +3,9 @@ title: "Section 1845 - Plans for development, utilization, and conservation of w
 usc_title: 48
 usc_section: "1845"
 chapter: 17
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "48 U.S.C. § 1845"
-generated_at: "2026-03-29T23:10:06.522Z"
+generated_at: "2026-03-29T23:15:06.223Z"
 ---
 
 # § 1845. Plans for development, utilization, and conservation of water and related land resources

@@ -3,9 +3,9 @@ title: "Section 43 - Repealed. Pub. L. 105–244, title IV, § 405 , Oct. 7, 199
 usc_title: 20
 usc_section: "43"
 chapter: 28
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "20 U.S.C. § 43"
-generated_at: "2026-03-29T23:08:49.938Z"
+generated_at: "2026-03-29T23:11:22.955Z"
 ---
 
 # §§ 1070a–41 to 1070a–43. Repealed. Pub. L. 105–244, title IV, § 405 , Oct. 7, 1998 , 112 Stat. 1664

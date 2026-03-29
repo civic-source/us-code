@@ -3,9 +3,9 @@ title: "Section 152708 - Duty to maintain tax-exempt status"
 usc_title: 36
 usc_section: "152708"
 chapter: 1527
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "36 U.S.C. § 152708"
-generated_at: "2026-03-29T23:09:24.154Z"
+generated_at: "2026-03-29T23:13:47.519Z"
 ---
 
 # § 152708. Duty to maintain tax-exempt status

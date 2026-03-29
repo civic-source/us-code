@@ -3,9 +3,9 @@ title: "Section 283e - Payment of subscription to Bank and Fund by United States
 usc_title: 22
 usc_section: "283e"
 chapter: 7
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "22 U.S.C. § 283e"
-generated_at: "2026-03-29T23:09:00.336Z"
+generated_at: "2026-03-29T23:11:48.658Z"
 ---
 
 # § 283e. Payment of subscription to Bank and Fund by United States

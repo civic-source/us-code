@@ -3,9 +3,9 @@ title: "Section 2316 - Briefings on implementation"
 usc_title: 21
 usc_section: "2316"
 chapter: 28
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "21 U.S.C. § 2316"
-generated_at: "2026-03-29T23:08:57.418Z"
+generated_at: "2026-03-29T23:12:02.242Z"
 ---
 
 # § 2316. Briefings on implementation

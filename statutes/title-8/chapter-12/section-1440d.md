@@ -3,9 +3,9 @@ title: "Section 1440d - Omitted"
 usc_title: 8
 usc_section: "1440d"
 chapter: 12
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "8 U.S.C. § 1440d"
-generated_at: "2026-03-29T23:08:14.711Z"
+generated_at: "2026-03-29T23:10:40.824Z"
 ---
 
 # §§ 1440a to 1440d. Omitted

@@ -3,9 +3,9 @@ title: "Section 903 - Establishment of agency Deputy Chief Financial Officers"
 usc_title: 31
 usc_section: "903"
 chapter: 9
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "31 U.S.C. § 903"
-generated_at: "2026-03-29T23:09:15.590Z"
+generated_at: "2026-03-29T23:13:25.048Z"
 ---
 
 # § 903. Establishment of agency Deputy Chief Financial Officers

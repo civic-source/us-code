@@ -3,9 +3,9 @@ title: "Section 3151 - Use of funds in projects constructed under projected cost
 usc_title: 42
 usc_section: "3151"
 chapter: 38
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "42 U.S.C. § 3151"
-generated_at: "2026-03-29T23:10:02.490Z"
+generated_at: "2026-03-29T23:14:43.832Z"
 ---
 
 # § 3151. Use of funds in projects constructed under projected cost

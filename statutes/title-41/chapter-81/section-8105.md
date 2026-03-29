@@ -3,9 +3,9 @@ title: "Section 8105 - Waiver"
 usc_title: 41
 usc_section: "8105"
 chapter: 81
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "41 U.S.C. § 8105"
-generated_at: "2026-03-29T23:09:38.361Z"
+generated_at: "2026-03-29T23:14:17.536Z"
 ---
 
 # § 8105. Waiver

@@ -3,9 +3,9 @@ title: "Section 9055 - Congressional Oversight Commission"
 usc_title: 15
 usc_section: "9055"
 chapter: 116
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "15 U.S.C. § 9055"
-generated_at: "2026-03-29T23:08:43.476Z"
+generated_at: "2026-03-29T23:11:14.830Z"
 ---
 
 # § 9055. Congressional Oversight Commission
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T23:08:43.476Z"
     - **(B)** 1 member appointed by the minority leader of the House of Representatives.
     - **(C)** 1 member appointed by the majority leader of the Senate.
     - **(D)** 1 member appointed by the minority leader of the Senate.
-    - **(E)** 1 member appointed as Chairperson by the Speaker of the House of Representatives and the majority leader of the Senate, after consultation with the minority leader of the Senate and the minority leader of the House of Representatives
+    - **(E)** 1 member appointed as Chairperson by the Speaker of the House of Representatives and the majority leader of the Senate, after consultation with the minority leader of the Senate and the minority leader of the House of Representatives 1 1 So in original. Probably should be followed by a period.
   - **(2)** Each member of the Oversight Commission shall be paid at a rate equal to the daily equivalent of the annual rate of basic pay for level I of the Executive Schedule for each day (including travel time) during which such member is engaged in the actual performance of duties vested in the Oversight Commission.
   - **(3)** Members of the Oversight Commission who are full-time officers or employees of the United States may not receive additional pay, allowances, or benefits by reason of their service on the Oversight Commission.
   - **(4)** Each member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with applicable provisions under subchapter I of chapter 57 of title 5.
@@ -39,7 +39,7 @@ generated_at: "2026-03-29T23:08:43.476Z"
 - **(d)**
   - **(1)** The Oversight Commission may appoint and fix the pay of any personnel as the Oversight Commission considers appropriate.
   - **(2)** The Oversight Commission may procure temporary and intermittent services under section 3109(b) of title 5 .
-  - **(3)** Upon request of the Oversight Commission, the head of any Federal department or agency may detail, on a reimbursable basis, any of the personnel of that department or agency to the Oversight Commission to assist it in carrying out its duties under the this 1 1 So in original. part.
+  - **(3)** Upon request of the Oversight Commission, the head of any Federal department or agency may detail, on a reimbursable basis, any of the personnel of that department or agency to the Oversight Commission to assist it in carrying out its duties under the this 2 2 So in original. part.
 - **(e)**
   - **(1)** The Oversight Commission, or any subcommittee or member thereof, may, for the purpose of carrying out this section hold hearings, sit and act at times and places, take testimony, and receive evidence as the Oversight Commission considers appropriate and may administer oaths or affirmations to witnesses appearing before it.
   - **(2)** The Oversight Commission may, to such extent and in such amounts as are provided in appropriation Acts, enter into contracts to enable the Oversight Commission to discharge its duties under this section.

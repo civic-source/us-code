@@ -3,9 +3,9 @@ title: "Section 4611 - Participation in joint reviews with Canada and Mexico reg
 usc_title: 19
 usc_section: "4611"
 chapter: 29
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "19 U.S.C. § 4611"
-generated_at: "2026-03-29T23:08:47.311Z"
+generated_at: "2026-03-29T23:11:36.145Z"
 ---
 
 # § 4611. Participation in joint reviews with Canada and Mexico regarding extension of the term of the USMCA and other action regarding the USMCA

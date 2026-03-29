@@ -3,9 +3,9 @@ title: "Section 6309 - Honorable discharge certificate in lieu of birth certific
 usc_title: 41
 usc_section: "6309"
 chapter: 63
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "41 U.S.C. § 6309"
-generated_at: "2026-03-29T23:09:38.360Z"
+generated_at: "2026-03-29T23:14:17.535Z"
 ---
 
 # § 6309. Honorable discharge certificate in lieu of birth certificate

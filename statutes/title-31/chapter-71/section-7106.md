@@ -3,9 +3,9 @@ title: "Section 7106 - Delegation of supervision of assistance"
 usc_title: 31
 usc_section: "7106"
 chapter: 71
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "31 U.S.C. § 7106"
-generated_at: "2026-03-29T23:09:15.616Z"
+generated_at: "2026-03-29T23:13:25.077Z"
 ---
 
 # § 7106. Delegation of supervision of assistance

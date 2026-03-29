@@ -3,9 +3,9 @@ title: "Section 21705 - Exclusive right to name, emblems, and badges"
 usc_title: 36
 usc_section: "21705"
 chapter: 217
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "36 U.S.C. § 21705"
-generated_at: "2026-03-29T23:09:24.144Z"
+generated_at: "2026-03-29T23:13:47.509Z"
 ---
 
 # § 21705. Exclusive right to name, emblems, and badges

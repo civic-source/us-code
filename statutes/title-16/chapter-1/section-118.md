@@ -3,9 +3,9 @@ title: "Section 118 - Appropriations; availability for operation of Aileen Nusba
 usc_title: 16
 usc_section: "118"
 chapter: 1
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "16 U.S.C. § 118"
-generated_at: "2026-03-29T23:08:52.370Z"
+generated_at: "2026-03-29T23:11:41.521Z"
 ---
 
 # § 118. Appropriations; availability for operation of Aileen Nusbaum Hospital

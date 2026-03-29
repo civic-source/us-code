@@ -3,9 +3,9 @@ title: "Section 2303 - Death in Department facility; plot allowance"
 usc_title: 38
 usc_section: "2303"
 chapter: 23
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "38 U.S.C. § 2303"
-generated_at: "2026-03-29T23:09:35.062Z"
+generated_at: "2026-03-29T23:13:58.900Z"
 ---
 
 # § 2303. Death in Department facility; plot allowance

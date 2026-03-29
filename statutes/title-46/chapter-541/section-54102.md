@@ -3,9 +3,9 @@ title: "Section 54102 - Renumbered § 51706]"
 usc_title: 46
 usc_section: "54102"
 chapter: 541
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "46 U.S.C. § 54102"
-generated_at: "2026-03-29T23:10:07.511Z"
+generated_at: "2026-03-29T23:15:08.819Z"
 ---
 
 # [§ 54102. Renumbered § 51706]

@@ -3,9 +3,9 @@ title: "Section 17013 - Advanced technology vehicles manufacturing incentive pro
 usc_title: 42
 usc_section: "17013"
 chapter: 152
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "42 U.S.C. § 17013"
-generated_at: "2026-03-29T23:10:02.744Z"
+generated_at: "2026-03-29T23:14:44.245Z"
 ---
 
 # § 17013. Advanced technology vehicles manufacturing incentive program

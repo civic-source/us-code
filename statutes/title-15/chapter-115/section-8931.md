@@ -3,9 +3,9 @@ title: "Section 8931 - Definitions"
 usc_title: 15
 usc_section: "8931"
 chapter: 115
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "15 U.S.C. § 8931"
-generated_at: "2026-03-29T23:08:43.470Z"
+generated_at: "2026-03-29T23:11:14.823Z"
 ---
 
 # § 8931. Definitions

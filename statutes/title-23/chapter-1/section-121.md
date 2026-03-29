@@ -3,9 +3,9 @@ title: "Section 121 - Payment to States for construction"
 usc_title: 23
 usc_section: "121"
 chapter: 1
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "23 U.S.C. § 121"
-generated_at: "2026-03-29T23:08:55.293Z"
+generated_at: "2026-03-29T23:11:44.859Z"
 ---
 
 # § 121. Payment to States for construction

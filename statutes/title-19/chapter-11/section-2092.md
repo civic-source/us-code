@@ -3,9 +3,9 @@ title: "Section 2092 - Export certification requirement"
 usc_title: 19
 usc_section: "2092"
 chapter: 11
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "19 U.S.C. § 2092"
-generated_at: "2026-03-29T23:08:47.269Z"
+generated_at: "2026-03-29T23:11:36.102Z"
 ---
 
 # § 2092. Export certification requirement

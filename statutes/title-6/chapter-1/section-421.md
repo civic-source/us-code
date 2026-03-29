@@ -3,9 +3,9 @@ title: "Section 421 - Definition"
 usc_title: 6
 usc_section: "421"
 chapter: 1
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "6 U.S.C. § 421"
-generated_at: "2026-03-29T23:08:13.290Z"
+generated_at: "2026-03-29T23:10:59.563Z"
 ---
 
 # § 421. Definition

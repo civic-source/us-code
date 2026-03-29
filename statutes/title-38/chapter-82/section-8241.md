@@ -3,9 +3,9 @@ title: "Section 8241 - Expenditures to remodel and make special allocations to D
 usc_title: 38
 usc_section: "8241"
 chapter: 82
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "38 U.S.C. § 8241"
-generated_at: "2026-03-29T23:09:35.101Z"
+generated_at: "2026-03-29T23:13:58.942Z"
 ---
 
 # § 8241. Expenditures to remodel and make special allocations to Department hospitals for health manpower education and training

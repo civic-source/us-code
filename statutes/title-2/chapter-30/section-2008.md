@@ -3,9 +3,9 @@ title: "Section 2008 - Record of assignment of rooms"
 usc_title: 2
 usc_section: "2008"
 chapter: 30
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "2 U.S.C. § 2008"
-generated_at: "2026-03-29T23:08:07.212Z"
+generated_at: "2026-03-29T23:10:28.121Z"
 ---
 
 # § 2008. Record of assignment of rooms

@@ -3,9 +3,9 @@ title: "Section 1473 - Loans for housing and buildings on potentially adequate f
 usc_title: 42
 usc_section: "1473"
 chapter: 8
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "42 U.S.C. § 1473"
-generated_at: "2026-03-29T23:10:02.417Z"
+generated_at: "2026-03-29T23:14:43.741Z"
 ---
 
 # § 1473. Loans for housing and buildings on potentially adequate farms; conditions and terms

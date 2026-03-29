@@ -3,9 +3,9 @@ title: "Section 3321 - National Intelligence Reserve Corps"
 usc_title: 50
 usc_section: "3321"
 chapter: 45
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "50 U.S.C. § 3321"
-generated_at: "2026-03-29T23:10:09.026Z"
+generated_at: "2026-03-29T23:15:24.502Z"
 ---
 
 # § 3321. National Intelligence Reserve Corps

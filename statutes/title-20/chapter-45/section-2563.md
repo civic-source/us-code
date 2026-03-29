@@ -3,9 +3,9 @@ title: "Section 2563 - Omitted"
 usc_title: 20
 usc_section: "2563"
 chapter: 45
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "20 U.S.C. § 2563"
-generated_at: "2026-03-29T23:08:50.002Z"
+generated_at: "2026-03-29T23:11:23.024Z"
 ---
 
 # §§ 2561 to 2563. Omitted

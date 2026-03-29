@@ -3,9 +3,9 @@ title: "Section 2 - Enforcement of nonproliferation treaties"
 usc_title: 22
 usc_section: "2"
 chapter: 32
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "22 U.S.C. § 2"
-generated_at: "2026-03-29T23:09:00.378Z"
+generated_at: "2026-03-29T23:11:48.709Z"
 ---
 
 # § 2429a–2. Enforcement of nonproliferation treaties

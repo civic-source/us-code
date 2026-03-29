@@ -3,9 +3,9 @@ title: "Section 1636d - Recordkeeping"
 usc_title: 7
 usc_section: "1636d"
 chapter: 38
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "7 U.S.C. § 1636d"
-generated_at: "2026-03-29T23:08:35.872Z"
+generated_at: "2026-03-29T23:10:44.377Z"
 ---
 
 # § 1636d. Recordkeeping

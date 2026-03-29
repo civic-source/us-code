@@ -3,9 +3,9 @@ title: "Section 1844 - Burden of proof"
 usc_title: 43
 usc_section: "1844"
 chapter: 36
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "43 U.S.C. § 1844"
-generated_at: "2026-03-29T23:09:37.832Z"
+generated_at: "2026-03-29T23:14:14.590Z"
 ---
 
 # § 1844. Burden of proof

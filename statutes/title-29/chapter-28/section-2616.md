@@ -3,9 +3,9 @@ title: "Section 2616 - Investigative authority"
 usc_title: 29
 usc_section: "2616"
 chapter: 28
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "29 U.S.C. § 2616"
-generated_at: "2026-03-29T23:09:05.581Z"
+generated_at: "2026-03-29T23:12:21.053Z"
 ---
 
 # § 2616. Investigative authority

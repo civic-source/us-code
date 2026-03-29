@@ -3,9 +3,9 @@ title: "Section 1834 - Nonduplication of benefits"
 usc_title: 38
 usc_section: "1834"
 chapter: 18
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "38 U.S.C. § 1834"
-generated_at: "2026-03-29T23:09:35.052Z"
+generated_at: "2026-03-29T23:13:58.894Z"
 ---
 
 # § 1834. Nonduplication of benefits

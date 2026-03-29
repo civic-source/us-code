@@ -3,9 +3,9 @@ title: "Section 1593a - Seed variety information and survey"
 usc_title: 7
 usc_section: "1593a"
 chapter: 37
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "7 U.S.C. § 1593a"
-generated_at: "2026-03-29T23:08:35.867Z"
+generated_at: "2026-03-29T23:10:44.373Z"
 ---
 
 # § 1593a. Seed variety information and survey

@@ -3,9 +3,9 @@ title: "Section 903 - Ownership, transfer, licensing, and recordation"
 usc_title: 17
 usc_section: "903"
 chapter: 9
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "17 U.S.C. § 903"
-generated_at: "2026-03-29T23:08:45.404Z"
+generated_at: "2026-03-29T23:11:19.862Z"
 ---
 
 # § 903. Ownership, transfer, licensing, and recordation

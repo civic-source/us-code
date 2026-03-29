@@ -3,9 +3,9 @@ title: "Section 60555 - Authorization of appropriations for research"
 usc_title: 34
 usc_section: "60555"
 chapter: 605
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "34 U.S.C. § 60555"
-generated_at: "2026-03-29T23:09:16.357Z"
+generated_at: "2026-03-29T23:12:57.889Z"
 ---
 
 # § 60555. Authorization of appropriations for research

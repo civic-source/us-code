@@ -3,9 +3,9 @@ title: "Section 3024 - Responsibilities and authorities of the Director of Natio
 usc_title: 50
 usc_section: "3024"
 chapter: 44
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "50 U.S.C. § 3024"
-generated_at: "2026-03-29T23:10:09.013Z"
+generated_at: "2026-03-29T23:15:24.491Z"
 ---
 
 # § 3024. Responsibilities and authorities of the Director of National Intelligence

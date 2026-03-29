@@ -3,9 +3,9 @@ title: "Section 1397i - Additional funding for aging and disability services pro
 usc_title: 42
 usc_section: "1397i"
 chapter: 7
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "42 U.S.C. § 1397i"
-generated_at: "2026-03-29T23:10:02.394Z"
+generated_at: "2026-03-29T23:14:43.711Z"
 ---
 
 # § 1397i. Additional funding for aging and disability services programs

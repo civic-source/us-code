@@ -3,9 +3,9 @@ title: "Section 2223c - Report and recommendations"
 usc_title: 15
 usc_section: "2223c"
 chapter: 49
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "15 U.S.C. § 2223c"
-generated_at: "2026-03-29T23:08:43.409Z"
+generated_at: "2026-03-29T23:11:14.758Z"
 ---
 
 # § 2223c. Report and recommendations

@@ -3,9 +3,9 @@ title: "Section 5617 - Transferred"
 usc_title: 42
 usc_section: "5617"
 chapter: 72
-current_through: "PL 117-164"
+current_through: "PL 117-166"
 classification: "42 U.S.C. § 5617"
-generated_at: "2026-03-29T23:10:02.534Z"
+generated_at: "2026-03-29T23:14:43.885Z"
 ---
 
 # § 5617. Transferred
