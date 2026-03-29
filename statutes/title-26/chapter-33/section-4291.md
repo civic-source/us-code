@@ -3,9 +3,9 @@ title: "Section 4291 - Cases where persons receiving payment must collect tax"
 usc_title: 26
 usc_section: "4291"
 chapter: 33
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "26 U.S.C. § 4291"
-generated_at: "2026-03-29T22:33:41.626Z"
+generated_at: "2026-03-29T22:43:54.581Z"
 ---
 
 # § 4291. Cases where persons receiving payment must collect tax

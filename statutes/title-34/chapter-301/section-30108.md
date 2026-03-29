@@ -3,9 +3,9 @@ title: "Section 30108 - National Resource Center grant"
 usc_title: 34
 usc_section: "30108"
 chapter: 301
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "34 U.S.C. § 30108"
-generated_at: "2026-03-29T22:33:57.005Z"
+generated_at: "2026-03-29T22:44:17.731Z"
 ---
 
 # § 30108. National Resource Center grant

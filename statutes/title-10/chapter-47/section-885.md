@@ -3,9 +3,9 @@ title: "Section 885 - Art. 85. Desertion"
 usc_title: 10
 usc_section: "885"
 chapter: 47
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "10 U.S.C. § 885"
-generated_at: "2026-03-29T22:31:32.658Z"
+generated_at: "2026-03-29T22:42:13.388Z"
 ---
 
 # § 885. Art. 85. Desertion

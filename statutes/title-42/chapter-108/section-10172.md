@@ -3,9 +3,9 @@ title: "Section 10172 - Selection of Yucca Mountain site"
 usc_title: 42
 usc_section: "10172"
 chapter: 108
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "42 U.S.C. § 10172"
-generated_at: "2026-03-29T22:35:10.952Z"
+generated_at: "2026-03-29T22:45:59.418Z"
 ---
 
 # § 10172. Selection of Yucca Mountain site

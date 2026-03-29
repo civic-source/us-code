@@ -3,9 +3,9 @@ title: "Section 527 - Abandonment, destruction, or donation of property"
 usc_title: 40
 usc_section: "527"
 chapter: 5
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "40 U.S.C. § 527"
-generated_at: "2026-03-29T22:34:01.553Z"
+generated_at: "2026-03-29T22:44:22.473Z"
 ---
 
 # § 527. Abandonment, destruction, or donation of property

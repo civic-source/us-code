@@ -3,9 +3,9 @@ title: "Section 3901 - Purpose and establishment of the Office of Inspector Gene
 usc_title: 44
 usc_section: "3901"
 chapter: 39
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "44 U.S.C. § 3901"
-generated_at: "2026-03-29T22:34:44.861Z"
+generated_at: "2026-03-29T22:44:42.818Z"
 ---
 
 # § 3901. Purpose and establishment of the Office of Inspector General

@@ -3,9 +3,9 @@ title: "Section 1305 - Transfer of acreage allotments or feed grain bases on pub
 usc_title: 7
 usc_section: "1305"
 chapter: 35
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "7 U.S.C. § 1305"
-generated_at: "2026-03-29T22:31:19.882Z"
+generated_at: "2026-03-29T22:41:59.045Z"
 ---
 
 # § 1305. Transfer of acreage allotments or feed grain bases on public lands upon request of State agencies

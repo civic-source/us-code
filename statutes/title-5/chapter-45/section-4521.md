@@ -3,9 +3,9 @@ title: "Section 4521 - Definition"
 usc_title: 5
 usc_section: "4521"
 chapter: 45
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "5 U.S.C. § 4521"
-generated_at: "2026-03-29T22:30:58.783Z"
+generated_at: "2026-03-29T22:41:40.507Z"
 ---
 
 # § 4521. Definition

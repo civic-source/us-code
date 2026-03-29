@@ -3,9 +3,9 @@ title: "Section 403h - Inclusion of acquired lands"
 usc_title: 16
 usc_section: "403h"
 chapter: 1
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "16 U.S.C. § 403h"
-generated_at: "2026-03-29T22:32:17.784Z"
+generated_at: "2026-03-29T22:42:48.646Z"
 ---
 
 # § 403h. Inclusion of acquired lands

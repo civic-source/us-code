@@ -3,9 +3,9 @@ title: "Section 704a - Administration of leave: prohibition on authorizing, gran
 usc_title: 10
 usc_section: "704a"
 chapter: 40
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "10 U.S.C. § 704a"
-generated_at: "2026-03-29T22:31:32.639Z"
+generated_at: "2026-03-29T22:42:13.371Z"
 ---
 
 # § 704a. Administration of leave: prohibition on authorizing, granting, or assigning leave not expressly authorized by law

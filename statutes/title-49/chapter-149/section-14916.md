@@ -3,9 +3,9 @@ title: "Section 14916 - Unlawful brokerage activities"
 usc_title: 49
 usc_section: "14916"
 chapter: 149
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "49 U.S.C. § 14916"
-generated_at: "2026-03-29T22:36:08.022Z"
+generated_at: "2026-03-29T22:46:20.244Z"
 ---
 
 # § 14916. Unlawful brokerage activities

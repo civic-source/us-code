@@ -3,9 +3,9 @@ title: "Section 2192a - Renumbered § 4093]"
 usc_title: 10
 usc_section: "2192a"
 chapter: 111
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "10 U.S.C. § 2192a"
-generated_at: "2026-03-29T22:31:32.785Z"
+generated_at: "2026-03-29T22:42:13.508Z"
 ---
 
 # [§ 2192a. Renumbered § 4093]

@@ -3,9 +3,9 @@ title: "Section 342 - Notice"
 usc_title: 11
 usc_section: "342"
 chapter: 3
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "11 U.S.C. § 342"
-generated_at: "2026-03-29T22:31:38.932Z"
+generated_at: "2026-03-29T22:42:18.044Z"
 ---
 
 # § 342. Notice

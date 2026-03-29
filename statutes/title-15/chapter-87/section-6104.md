@@ -3,9 +3,9 @@ title: "Section 6104 - Actions by private persons"
 usc_title: 15
 usc_section: "6104"
 chapter: 87
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "15 U.S.C. § 6104"
-generated_at: "2026-03-29T22:31:52.211Z"
+generated_at: "2026-03-29T22:42:31.901Z"
 ---
 
 # § 6104. Actions by private persons

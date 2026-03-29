@@ -3,9 +3,9 @@ title: "Section 4724 - Trade shows"
 usc_title: 15
 usc_section: "4724"
 chapter: 73
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "15 U.S.C. § 4724"
-generated_at: "2026-03-29T22:31:52.196Z"
+generated_at: "2026-03-29T22:42:31.885Z"
 ---
 
 # § 4724. Trade shows

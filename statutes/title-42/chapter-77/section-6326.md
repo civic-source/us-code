@@ -3,9 +3,9 @@ title: "Section 6326 - State energy security plans"
 usc_title: 42
 usc_section: "6326"
 chapter: 77
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "42 U.S.C. § 6326"
-generated_at: "2026-03-29T22:35:10.633Z"
+generated_at: "2026-03-29T22:45:59.186Z"
 ---
 
 # § 6326. State energy security plans

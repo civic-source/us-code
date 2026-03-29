@@ -3,9 +3,9 @@ title: "Section 1485 - Declaration"
 usc_title: 19
 usc_section: "1485"
 chapter: 4
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "19 U.S.C. § 1485"
-generated_at: "2026-03-29T22:32:06.618Z"
+generated_at: "2026-03-29T22:43:03.584Z"
 ---
 
 # § 1485. Declaration

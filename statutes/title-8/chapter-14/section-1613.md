@@ -3,9 +3,9 @@ title: "Section 1613 - Five-year limited eligibility of qualified aliens for Fed
 usc_title: 8
 usc_section: "1613"
 chapter: 14
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "8 U.S.C. § 1613"
-generated_at: "2026-03-29T22:31:12.917Z"
+generated_at: "2026-03-29T22:41:48.569Z"
 ---
 
 # § 1613. Five-year limited eligibility of qualified aliens for Federal means-tested public benefit

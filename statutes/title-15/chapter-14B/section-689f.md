@@ -3,9 +3,9 @@ title: "Section 689f - Fees"
 usc_title: 15
 usc_section: "689f"
 chapter: 14
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "15 U.S.C. § 689f"
-generated_at: "2026-03-29T22:31:51.945Z"
+generated_at: "2026-03-29T22:42:31.624Z"
 ---
 
 # § 689f. Fees

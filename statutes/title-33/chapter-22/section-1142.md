@@ -3,9 +3,9 @@ title: "Section 1142 - Establishment of program"
 usc_title: 33
 usc_section: "1142"
 chapter: 22
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "33 U.S.C. § 1142"
-generated_at: "2026-03-29T22:33:52.055Z"
+generated_at: "2026-03-29T22:44:19.644Z"
 ---
 
 # § 1142. Establishment of program

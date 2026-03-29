@@ -3,9 +3,9 @@ title: "Section 563 - Notification of certain determinations"
 usc_title: 14
 usc_section: "563"
 chapter: 5
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "14 U.S.C. § 563"
-generated_at: "2026-03-29T22:31:37.558Z"
+generated_at: "2026-03-29T22:42:18.825Z"
 ---
 
 # § 563. Notification of certain determinations

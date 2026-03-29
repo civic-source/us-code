@@ -3,9 +3,9 @@ title: "Section 82 - Payments under contracts; aiding in making prohibited contr
 usc_title: 25
 usc_section: "82"
 chapter: 3
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "25 U.S.C. § 82"
-generated_at: "2026-03-29T22:32:28.749Z"
+generated_at: "2026-03-29T22:43:16.751Z"
 ---
 
 # § 82. Payments under contracts; aiding in making prohibited contracts

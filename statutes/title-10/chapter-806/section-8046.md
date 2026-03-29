@@ -3,9 +3,9 @@ title: "Section 8046 - Staff Judge Advocate to the Commandant of the Marine Corp
 usc_title: 10
 usc_section: "8046"
 chapter: 806
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "10 U.S.C. § 8046"
-generated_at: "2026-03-29T22:31:32.943Z"
+generated_at: "2026-03-29T22:42:13.649Z"
 ---
 
 # § 8046. Staff Judge Advocate to the Commandant of the Marine Corps

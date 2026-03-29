@@ -3,9 +3,9 @@ title: "Section 45a - Labels on products"
 usc_title: 15
 usc_section: "45a"
 chapter: 2
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "15 U.S.C. § 45a"
-generated_at: "2026-03-29T22:31:51.711Z"
+generated_at: "2026-03-29T22:42:31.385Z"
 ---
 
 # § 45a. Labels on products

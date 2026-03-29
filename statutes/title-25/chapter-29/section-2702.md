@@ -3,9 +3,9 @@ title: "Section 2702 - Declaration of policy"
 usc_title: 25
 usc_section: "2702"
 chapter: 29
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "25 U.S.C. § 2702"
-generated_at: "2026-03-29T22:32:28.866Z"
+generated_at: "2026-03-29T22:43:16.839Z"
 ---
 
 # § 2702. Declaration of policy

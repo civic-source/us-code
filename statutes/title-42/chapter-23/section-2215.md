@@ -3,9 +3,9 @@ title: "Section 2215 - Nuclear Regulatory Commission user fees and annual charge
 usc_title: 42
 usc_section: "2215"
 chapter: 23
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "42 U.S.C. § 2215"
-generated_at: "2026-03-29T22:35:10.387Z"
+generated_at: "2026-03-29T22:45:59.021Z"
 ---
 
 # § 2215. Nuclear Regulatory Commission user fees and annual charges for fiscal year 2021 and each fiscal year thereafter
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T22:35:10.387Z"
       - **(i)** Any fee relief activity, as identified by the Commission.
       - **(ii)** Amounts appropriated for a fiscal year to the Commission—
         - **(I)** from the Nuclear Waste Fund established under section 10222(c) of this title ;
-        - **(II)** for implementation of section 3116 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 ( 50 U.S.C. 2601 note; 1 1 See References in Text below. Public Law 108–375 );
+        - **(II)** for implementation of section 3116 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 ( 50 U.S.C. 2601 note; 1 1 See References in Text note below. Public Law 108–375 );
         - **(III)** for the homeland security activities of the Commission (other than for the costs of fingerprinting and background checks required under section 2169 of this title and the costs of conducting security inspections);
         - **(IV)** for the Inspector General services of the Commission provided to the Defense Nuclear Facilities Safety Board;
         - **(V)** for research and development at universities in areas relevant to the mission of the Commission; and

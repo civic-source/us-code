@@ -3,9 +3,9 @@ title: "Section 1306 - Disclosure of information in possession of Social Securit
 usc_title: 42
 usc_section: "1306"
 chapter: 7
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "42 U.S.C. § 1306"
-generated_at: "2026-03-29T22:35:09.787Z"
+generated_at: "2026-03-29T22:45:58.625Z"
 ---
 
 # § 1306. Disclosure of information in possession of Social Security Administration or Department of Health and Human Services

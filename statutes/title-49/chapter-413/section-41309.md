@@ -3,9 +3,9 @@ title: "Section 41309 - Cooperative agreements and requests"
 usc_title: 49
 usc_section: "41309"
 chapter: 413
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "49 U.S.C. § 41309"
-generated_at: "2026-03-29T22:36:08.123Z"
+generated_at: "2026-03-29T22:46:20.309Z"
 ---
 
 # § 41309. Cooperative agreements and requests

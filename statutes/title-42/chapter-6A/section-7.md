@@ -3,9 +3,9 @@ title: "Section 7 - Prohibition on excessive waiting periods"
 usc_title: 42
 usc_section: "7"
 chapter: 6
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-29T22:35:09.615Z"
+generated_at: "2026-03-29T22:45:58.509Z"
 ---
 
 # § 300gg–7. Prohibition on excessive waiting periods

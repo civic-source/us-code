@@ -3,9 +3,9 @@ title: "Section 2234 - Purchases for bureaus from appropriations for contingent 
 usc_title: 7
 usc_section: "2234"
 chapter: 55
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "7 U.S.C. § 2234"
-generated_at: "2026-03-29T22:31:20.059Z"
+generated_at: "2026-03-29T22:41:59.214Z"
 ---
 
 # § 2234. Purchases for bureaus from appropriations for contingent expenses

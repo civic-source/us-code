@@ -3,9 +3,9 @@ title: "Section 16421 - Third-party finance"
 usc_title: 42
 usc_section: "16421"
 chapter: 149
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "42 U.S.C. § 16421"
-generated_at: "2026-03-29T22:35:11.211Z"
+generated_at: "2026-03-29T22:45:59.589Z"
 ---
 
 # § 16421. Third-party finance

@@ -3,9 +3,9 @@ title: "Section 6802 - Definitions"
 usc_title: 7
 usc_section: "6802"
 chapter: 97
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "7 U.S.C. § 6802"
-generated_at: "2026-03-29T22:31:20.172Z"
+generated_at: "2026-03-29T22:41:59.319Z"
 ---
 
 # § 6802. Definitions

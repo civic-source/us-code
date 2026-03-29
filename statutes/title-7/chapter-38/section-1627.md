@@ -3,9 +3,9 @@ title: "Section 1627 - Appointment of personnel; compensation; employment of spe
 usc_title: 7
 usc_section: "1627"
 chapter: 38
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "7 U.S.C. § 1627"
-generated_at: "2026-03-29T22:31:19.942Z"
+generated_at: "2026-03-29T22:41:59.105Z"
 ---
 
 # § 1627. Appointment of personnel; compensation; employment of specialists

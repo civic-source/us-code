@@ -3,9 +3,9 @@ title: "Section 292s - Medical schools and primary health care"
 usc_title: 42
 usc_section: "292s"
 chapter: 6
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "42 U.S.C. § 292s"
-generated_at: "2026-03-29T22:35:09.464Z"
+generated_at: "2026-03-29T22:45:58.405Z"
 ---
 
 # § 292s. Medical schools and primary health care

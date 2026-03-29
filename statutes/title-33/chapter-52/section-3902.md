@@ -3,9 +3,9 @@ title: "Section 3902 - Authority to provide assistance"
 usc_title: 33
 usc_section: "3902"
 chapter: 52
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "33 U.S.C. § 3902"
-generated_at: "2026-03-29T22:33:52.219Z"
+generated_at: "2026-03-29T22:44:19.744Z"
 ---
 
 # § 3902. Authority to provide assistance

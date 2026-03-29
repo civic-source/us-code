@@ -3,9 +3,9 @@ title: "Section 1a - Transfer of activities, employees, records, etc., from Bure
 usc_title: 30
 usc_section: "1a"
 chapter: 1
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "30 U.S.C. § 1a"
-generated_at: "2026-03-29T22:32:59.113Z"
+generated_at: "2026-03-29T22:43:38.393Z"
 ---
 
 # § 1a. Transfer of activities, employees, records, etc., from Bureau of Foreign and Domestic Commerce to the United States Bureau of Mines

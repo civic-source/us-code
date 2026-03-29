@@ -3,9 +3,9 @@ title: "Section 2483 - Consequential changes in Tariff Schedules of the United S
 usc_title: 19
 usc_section: "2483"
 chapter: 12
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "19 U.S.C. § 2483"
-generated_at: "2026-03-29T22:32:06.719Z"
+generated_at: "2026-03-29T22:43:03.649Z"
 ---
 
 # § 2483. Consequential changes in Tariff Schedules of the United States

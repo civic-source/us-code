@@ -3,9 +3,9 @@ title: "Section 5501A - Beneficiaries’ rights in mental competence determinati
 usc_title: 38
 usc_section: "5501A"
 chapter: 55
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "38 U.S.C. § 5501A"
-generated_at: "2026-03-29T22:34:08.243Z"
+generated_at: "2026-03-29T22:44:36.546Z"
 ---
 
 # § 5501A. Beneficiaries’ rights in mental competence determinations

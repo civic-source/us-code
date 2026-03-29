@@ -3,9 +3,9 @@ title: "Section 1395g - Payments to providers of services"
 usc_title: 42
 usc_section: "1395g"
 chapter: 7
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "42 U.S.C. § 1395g"
-generated_at: "2026-03-29T22:35:09.860Z"
+generated_at: "2026-03-29T22:45:58.671Z"
 ---
 
 # § 1395g. Payments to providers of services

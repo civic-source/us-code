@@ -3,9 +3,9 @@ title: "Section 1833 - Treatment of receipt of monetary allowance and other bene
 usc_title: 38
 usc_section: "1833"
 chapter: 18
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "38 U.S.C. § 1833"
-generated_at: "2026-03-29T22:34:08.156Z"
+generated_at: "2026-03-29T22:44:36.483Z"
 ---
 
 # § 1833. Treatment of receipt of monetary allowance and other benefits

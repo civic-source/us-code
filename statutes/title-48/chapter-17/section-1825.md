@@ -3,9 +3,9 @@ title: "Section 1825 - Effective date"
 usc_title: 48
 usc_section: "1825"
 chapter: 17
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "48 U.S.C. § 1825"
-generated_at: "2026-03-29T22:35:19.395Z"
+generated_at: "2026-03-29T22:46:22.131Z"
 ---
 
 # § 1825. Effective date

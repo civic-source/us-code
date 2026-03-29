@@ -3,9 +3,9 @@ title: "Section 3011 - Computation of time—(Rule)"
 usc_title: 18
 usc_section: "3011"
 chapter: 201
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "18 U.S.C. § 3011"
-generated_at: "2026-03-29T22:32:10.181Z"
+generated_at: "2026-03-29T22:43:11.602Z"
 ---
 
 # § 3011. Computation of time—(Rule)

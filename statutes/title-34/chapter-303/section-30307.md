@@ -3,9 +3,9 @@ title: "Section 30307 - Adoption and effect of national standards"
 usc_title: 34
 usc_section: "30307"
 chapter: 303
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "34 U.S.C. § 30307"
-generated_at: "2026-03-29T22:33:57.008Z"
+generated_at: "2026-03-29T22:44:17.733Z"
 ---
 
 # § 30307. Adoption and effect of national standards

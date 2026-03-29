@@ -3,9 +3,9 @@ title: "Section 1936 - Beginning farmer or rancher and socially disadvantaged fa
 usc_title: 7
 usc_section: "1936"
 chapter: 50
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "7 U.S.C. § 1936"
-generated_at: "2026-03-29T22:31:19.984Z"
+generated_at: "2026-03-29T22:41:59.143Z"
 ---
 
 # § 1936. Beginning farmer or rancher and socially disadvantaged farmer or rancher contract land sales program

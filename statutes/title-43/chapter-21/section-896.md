@@ -3,9 +3,9 @@ title: "Section 896 - Erroneous cancellation of bona fide entries corrected"
 usc_title: 43
 usc_section: "896"
 chapter: 21
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "43 U.S.C. § 896"
-generated_at: "2026-03-29T22:34:28.404Z"
+generated_at: "2026-03-29T22:45:06.571Z"
 ---
 
 # § 896. Erroneous cancellation of bona fide entries corrected

@@ -3,9 +3,9 @@ title: "Section 47136 - Zero-emission airport vehicles and infrastructure"
 usc_title: 49
 usc_section: "47136"
 chapter: 471
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "49 U.S.C. § 47136"
-generated_at: "2026-03-29T22:36:08.197Z"
+generated_at: "2026-03-29T22:46:20.355Z"
 ---
 
 # § 47136. Zero-emission airport vehicles and infrastructure

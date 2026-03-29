@@ -3,9 +3,9 @@ title: "Section 2 - Volunteer enhancement pilot projects"
 usc_title: 16
 usc_section: "2"
 chapter: 9
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-29T22:32:18.083Z"
+generated_at: "2026-03-29T22:42:48.906Z"
 ---
 
 # § 760aa–2. Volunteer enhancement pilot projects

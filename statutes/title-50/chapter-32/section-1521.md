@@ -3,9 +3,9 @@ title: "Section 1521 - Destruction of existing stockpile of lethal chemical agen
 usc_title: 50
 usc_section: "1521"
 chapter: 32
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "50 U.S.C. § 1521"
-generated_at: "2026-03-29T22:35:28.859Z"
+generated_at: "2026-03-29T22:46:14.713Z"
 ---
 
 # § 1521. Destruction of existing stockpile of lethal chemical agents and munitions

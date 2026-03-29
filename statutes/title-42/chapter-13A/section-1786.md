@@ -3,9 +3,9 @@ title: "Section 1786 - Special supplemental nutrition program for women, infants
 usc_title: 42
 usc_section: "1786"
 chapter: 13
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "42 U.S.C. § 1786"
-generated_at: "2026-03-29T22:35:10.291Z"
+generated_at: "2026-03-29T22:45:58.954Z"
 ---
 
 # § 1786. Special supplemental nutrition program for women, infants, and children
@@ -46,6 +46,7 @@ generated_at: "2026-03-29T22:35:10.291Z"
     - **(C)** is not accessible year-around by means of a public road (as defined in section 101 of title 23 ).
   - **(22)** The term “primary contract infant formula” means the specific infant formula for which manufacturers submit a bid to a State agency in response to a rebate solicitation under this section and for which a contract is awarded by the State agency as a result of that bid.
   - **(23)** The term “State alliance” means 2 or more State agencies that join together for the purpose of procuring infant formula under the program by soliciting competitive bids for infant formula.
+  - **(24)** The term “supply chain disruption” means a shortage of supplemental foods that impedes the redemption of food instruments, as determined by the Secretary.
 - **(c)**
   - **(1)** The Secretary may carry out a special supplemental nutrition program to assist State agencies through grants-in-aid and other means to provide, through local agencies, at no cost, supplemental foods, nutrition education, and breastfeeding support and promotion to low-income pregnant, postpartum, and breastfeeding women, infants, and children who satisfy the eligibility requirements specified in subsection (d) of this section. The program shall be supplementary to—
     - **(A)** the supplemental nutrition assistance program;
@@ -71,7 +72,7 @@ generated_at: "2026-03-29T22:35:10.291Z"
       - **(i)** any basic allowance—
         - **(I)** for housing received by military service personnel residing off military installations; or
         - **(II)** provided under section 403 of title 37 for housing that is acquired or constructed under subchapter IV of chapter 169 of title 10 or any related provision of law; and
-      - **(ii)** any cost-of-living allowance provided under section 475 1 1 See References in Text below. of title 37 to a member of a uniformed service who is on duty outside the contiguous States of the United States.
+      - **(ii)** any cost-of-living allowance provided under section 475 1 1 See References in Text note below. of title 37 to a member of a uniformed service who is on duty outside the contiguous States of the United States.
     - **(C)** For the purpose of determining income eligibility under this section, a State agency shall exclude from income any additional payment under chapter 5 of title 37, or otherwise designated by the Secretary to be appropriate for exclusion under this subparagraph, that is received by or from a member of the United States Armed Forces deployed to a designated combat zone, if the additional pay—
       - **(i)** is the result of deployment to or service in a combat zone; and
       - **(ii)** was not received immediately prior to serving in a combat zone.
@@ -265,7 +266,7 @@ generated_at: "2026-03-29T22:35:10.291Z"
       - **(iii)** A State agency that receives a performance bonus under clause (i)—
         - **(I)** shall treat the funds as program income; and
         - **(II)** may transfer the funds to local agencies for use in carrying out the program.
-      - **(iv)** The Secretary shall provide the first performance bonuses not later than 1 year after December 13, 2010 , and may subsequently revise the criteria for awarding performance bonuses; and 1 1 So in original. The “; and” probably should be a period.
+      - **(iv)** The Secretary shall provide the first performance bonuses not later than 1 year after December 13, 2010 , and may subsequently revise the criteria for awarding performance bonuses; and 2 2 So in original. The “; and” probably should be a period.
   - **(5)**
     - **(A)** Subject to subparagraph (B), in any fiscal year that a State agency submits a plan to reduce average food costs per participant and to increase participation above the level estimated for the State agency, the State agency may, with the approval of the Secretary, convert amounts allocated for food benefits for such fiscal year for costs of nutrition services and administration to the extent that such conversion is necessary—
       - **(i)** to cover allowable expenditures in such fiscal year; and
@@ -328,6 +329,10 @@ generated_at: "2026-03-29T22:35:10.291Z"
     - **(I)** Not later than the expiration of the 180-day period beginning on October 24, 1992 , the Secretary shall prescribe regulations to carry out this paragraph.
     - **(J)** A State shall not incur any interest liability to the Federal Government on rebate funds for infant formula and other foods if all interest earned by the State on the funds is used for program purposes.
     - **(K)** Effective beginning October 1, 2011 , each State agency shall report rebate payments received from manufacturers in the month in which the payments are received, rather than in the month in which the payments were earned.
+    - **(L)**
+      - **(i)** The Secretary shall require that each infant formula cost containment contract renewed or entered into on or after May 21, 2022 , includes remedies in the event of an infant formula recall, including how an infant formula manufacturer would protect against disruption to program participants in the State.
+      - **(ii)** In the case of an infant formula recall, an infant formula manufacturer contracted to provide infant formula under this section shall comply with the contract requirements under clause (i).
+    - **(M)** Not later than 30 days after May 21, 2022 , the Secretary shall ensure there is a memorandum of understanding between the Secretary and the Secretary of Health and Human Services that includes procedures to promote coordination and information sharing between the Department of Agriculture and the Department of Health and Human Services regarding any supply chain disruption, including a supplemental food recall.
   - **(9)**
     - **(A)** In this subsection, the term “cost containment measure” means a competitive bidding, rebate, direct distribution, or home delivery system implemented by a State agency as described in the approved State plan of operation and administration of the State agency.
     - **(B)** Any State agency instituting a cost containment measure for any authorized food, including infant formula, shall—
@@ -450,8 +455,8 @@ generated_at: "2026-03-29T22:35:10.291Z"
     - **(B)** demonstration projects in selected State or local areas; and
     - **(C)** such other activities as the Secretaries find are appropriate.
   - **(4)** As used in this subsection:
-    - **(A)** The term “community health center” has the meaning given the term in section 254c(a) 2 2 See References in Text note below. of this title.
-    - **(B)** The term “migrant health center” has the meaning given the term in section 254b(a)(1) 2 of this title.
+    - **(A)** The term “community health center” has the meaning given the term in section 254c(a) 1 of this title.
+    - **(B)** The term “migrant health center” has the meaning given the term in section 254b(a)(1) 1 of this title.
 - **(k)**
   - **(1)** There is hereby established a National Advisory Council on Maternal, Infant, and Fetal Nutrition (referred to in this subsection as the “Council”) composed of 24 members appointed by the Secretary. One member shall be a State director of a program under this section; one member shall be a State official responsible for a commodity supplemental food program under section 1304 of the Food and Agriculture Act of 1977; one member shall be a State fiscal officer of a program under this section (or the equivalent thereof); one member shall be a State health officer (or the equivalent thereof); one member shall be a local agency director of a program under this section in an urban area; one member shall be a local agency director of a program under this section in a rural area; one member shall be a project director of a commodity supplemental food program; one member shall be a State public health nutrition director (or the equivalent thereof); one member shall be a representative of an organization serving migrants; one member shall be an official from a State agency predominantly serving Indians; three members shall be parent participants of a program under this section or of a commodity supplemental food program; one member shall be a pediatrician; one member shall be an obstetrician; one member shall be a representative of a nonprofit public interest organization that has experience with and knowledge of the special supplemental nutrition program; one member shall be a person involved at the retail sales level of food in the special supplemental nutrition program; two members shall be officials of the Department of Health and Human Services appointed by the Secretary of Health and Human Services; two members shall be officials of the Department of Agriculture appointed by the Secretary; 1 member shall be an expert in the promotion of breast feeding; one member shall be an expert in drug abuse education and prevention; and one member shall be an expert in alcohol abuse education and prevention.
   - **(2)** Members of the Council appointed from outside the Department of Agriculture and the Department of Health and Human Services shall be appointed for terms not exceeding three years. State and local officials shall serve only during their official tenure, and the tenure of parent participants shall not exceed two years. Persons appointed to complete an unexpired term shall serve only for the remainder of such term.
@@ -497,7 +502,7 @@ generated_at: "2026-03-29T22:35:10.291Z"
         - **(I)** there is a need for an increase in funds; and
         - **(II)** the use of the increased funding will be consistent with serving nutritionally at-risk persons and expanding the awareness and use of farmers’ markets;
       - **(iii)** demonstrated ability to satisfactorily operate the existing program; and
-      - **(iv)** whether, in the case of a State that intends to use any funding provided under subparagraph (G)(i) 2 to increase the value of the Federal share of the benefits received by a recipient, the funding provided under subparagraph (G)(i) 2 will increase the rate of coupon redemption.
+      - **(iv)** whether, in the case of a State that intends to use any funding provided under subparagraph (G)(i) 1 to increase the value of the Federal share of the benefits received by a recipient, the funding provided under subparagraph (G)(i) 1 will increase the rate of coupon redemption.
     - **(D)**
       - **(i)** A State that desires to receive a grant under this subsection shall submit, for each fiscal year, a State plan to the Secretary by November 15 of each year.
       - **(ii)** Each State plan submitted under this paragraph shall contain—
@@ -572,3 +577,38 @@ generated_at: "2026-03-29T22:35:10.291Z"
     - **(C)** third, to reimburse any Federal, State, or local law enforcement agency for any costs incurred in the law enforcement effort resulting in the forfeiture; and
     - **(D)** fourth, by the State agency to carry out approval, reauthorization, and compliance investigations of vendors.
 - **(q)** The Secretary of Agriculture shall provide technical assistance to the Secretary of Defense, if so requested by the Secretary of Defense, for the purpose of carrying out the overseas special supplemental food program established under section 1060a(a) of title 10 .
+- **(r)**
+  - **(1)** Notwithstanding any other provision of law, during an emergency period, the Secretary may modify or waive any qualified administrative requirement for one or more State agencies if—
+    - **(A)** the qualified administrative requirement cannot be met by State agencies during any portion of the emergency period under the conditions which prompted the emergency period; and
+    - **(B)** the modification or waiver of such a requirement—
+      - **(i)** is necessary to provide assistance under this section; and
+      - **(ii)** does not substantially weaken the nutritional quality of supplemental foods provided under this section.
+  - **(2)** A waiver established under this subsection may be available for a period of not greater than the emergency period and the 60 days after the end of such emergency period.
+  - **(3)** In this subsection:
+    - **(A)** The term “emergency period” means a period during which there exists—
+      - **(i)** a public health emergency declared by the Secretary of Health and Human Services under section 247d of this title ;
+      - **(ii)** any renewal of such a public health emergency pursuant to such section 247d;
+      - **(iii)** a presidentially declared major disaster as defined under section 5122 of this title ; or
+      - **(iv)** a presidentially declared emergency as defined under section 5122 of this title .
+    - **(B)** The term “qualified administrative requirement” means a requirement under this section or a regulatory requirement issued pursuant to this section.
+- **(s)**
+  - **(1)** Notwithstanding any other provision of law, during a supply chain disruption, including a supplemental food product recall, the Secretary may modify or waive any qualified administrative requirement for one or more State agencies if—
+    - **(A)** the qualified administrative requirement cannot be met by State agencies during any portion of the supply chain disruption, including a supplemental food product recall, under the conditions which prompted such disruption or recall; and
+    - **(B)** the modification or waiver of such a requirement—
+      - **(i)** is necessary to provide assistance under this section; and
+      - **(ii)** does not substantially weaken the nutritional quality of supplemental foods provided under this section.
+  - **(2)** The Secretary may, under a waiver or modification under paragraph (1)—
+    - **(A)** permit authorized vendors to exchange or substitute authorized supplemental foods obtained with food instruments beyond exchanges for an identical (exact brand and size) food item;
+    - **(B)** waive any requirement with respect to medical documentation for the issuance of noncontract brand infant formula, except for the requirements for participants receiving Food Package III (as defined in section 246.10(e)(3) of title 7, Code of Federal Regulations (as in effect on May 21, 2022 ));
+    - **(C)** waive the maximum monthly allowance for infant formula; and
+    - **(D)** waive any additional qualified administrative requirement to address a supply chain disruption, including a supplemental food product recall.
+  - **(3)** A waiver or modification established under this subsection—
+    - **(A)** may be—
+      - **(i)** available for a period of not more than 45 days, to begin on a date determined by the Secretary; and
+      - **(ii)** renewed so long as the Secretary provides notice at least 15 days before such renewal; and
+    - **(B)** shall not be available after the date that is 60 days after the supply chain disruption for which such waiver is established ceases to exist.
+  - **(4)**
+    - **(A)** If the Secretary determines that a supply chain disruption exists and issues a waiver or modification under this subsection, the Secretary shall notify each State agency affected by such disruption and include with such notification an explanation of such determination.
+    - **(B)** The Secretary shall make each determination described in subparagraph (A) publicly available on the website of the Department.
+    - **(C)** In the case of a waiver or modification under this subsection related to infant formula, a State agency notified under subparagraph (A) shall notify each infant formula manufacturer that has a contract with such State agency with respect to such notification.
+  - **(5)** For purposes of this subsection, the term “qualified administrative requirement” has the meaning given the term in subsection (r).

@@ -3,9 +3,9 @@ title: "Section 302l - Special pay: accession bonus for dental specialist office
 usc_title: 37
 usc_section: "302l"
 chapter: 5
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "37 U.S.C. § 302l"
-generated_at: "2026-03-29T22:34:00.363Z"
+generated_at: "2026-03-29T22:44:37.191Z"
 ---
 
 # § 302l. Special pay: accession bonus for dental specialist officers in critically short wartime specialties

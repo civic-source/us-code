@@ -3,9 +3,9 @@ title: "Section 2293a - Reprogramming of funds for projects by Corps of Engineer
 usc_title: 33
 usc_section: "2293a"
 chapter: 36
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "33 U.S.C. § 2293a"
-generated_at: "2026-03-29T22:33:52.157Z"
+generated_at: "2026-03-29T22:44:19.704Z"
 ---
 
 # § 2293a. Reprogramming of funds for projects by Corps of Engineers

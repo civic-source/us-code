@@ -3,9 +3,9 @@ title: "Section 9091 - Administration generally"
 usc_title: 7
 usc_section: "9091"
 chapter: 115
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "7 U.S.C. § 9091"
-generated_at: "2026-03-29T22:31:20.277Z"
+generated_at: "2026-03-29T22:41:59.417Z"
 ---
 
 # § 9091. Administration generally

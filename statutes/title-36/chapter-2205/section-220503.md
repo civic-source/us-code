@@ -3,9 +3,9 @@ title: "Section 220503 - Purposes"
 usc_title: 36
 usc_section: "220503"
 chapter: 2205
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "36 U.S.C. § 220503"
-generated_at: "2026-03-29T22:34:03.655Z"
+generated_at: "2026-03-29T22:44:38.405Z"
 ---
 
 # § 220503. Purposes

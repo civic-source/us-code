@@ -3,9 +3,9 @@ title: "Section 1154 - Procedure for granting immigrant status"
 usc_title: 8
 usc_section: "1154"
 chapter: 12
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "8 U.S.C. § 1154"
-generated_at: "2026-03-29T22:31:12.831Z"
+generated_at: "2026-03-29T22:41:48.492Z"
 ---
 
 # § 1154. Procedure for granting immigrant status

@@ -3,9 +3,9 @@ title: "Section 9762 - Prohibition on construction of provisions of this chapter
 usc_title: 22
 usc_section: "9762"
 chapter: 104
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "22 U.S.C. § 9762"
-generated_at: "2026-03-29T22:32:42.510Z"
+generated_at: "2026-03-29T22:43:26.394Z"
 ---
 
 # § 9762. Prohibition on construction of provisions of this chapter as an authorization for the use of military force

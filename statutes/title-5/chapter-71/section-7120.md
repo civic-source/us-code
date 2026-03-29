@@ -3,9 +3,9 @@ title: "Section 7120 - Standards of conduct for labor organizations"
 usc_title: 5
 usc_section: "7120"
 chapter: 71
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "5 U.S.C. § 7120"
-generated_at: "2026-03-29T22:30:58.835Z"
+generated_at: "2026-03-29T22:41:40.555Z"
 ---
 
 # § 7120. Standards of conduct for labor organizations

@@ -3,9 +3,9 @@ title: "Section 665i - CyberSentry program"
 usc_title: 6
 usc_section: "665i"
 chapter: 1
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "6 U.S.C. § 665i"
-generated_at: "2026-03-29T22:31:10.459Z"
+generated_at: "2026-03-29T22:41:52.116Z"
 ---
 
 # § 665i. CyberSentry program

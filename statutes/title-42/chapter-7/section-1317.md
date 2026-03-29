@@ -3,9 +3,9 @@ title: "Section 1317 - Appointment of the Administrator and Chief Actuary of the
 usc_title: 42
 usc_section: "1317"
 chapter: 7
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "42 U.S.C. § 1317"
-generated_at: "2026-03-29T22:35:09.797Z"
+generated_at: "2026-03-29T22:45:58.629Z"
 ---
 
 # § 1317. Appointment of the Administrator and Chief Actuary of the Centers for Medicare & Medicaid Services

@@ -3,9 +3,9 @@ title: "Section 8893 - Stay of proceedings for preserving evidence after stay of
 usc_title: 10
 usc_section: "8893"
 chapter: 885
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "10 U.S.C. § 8893"
-generated_at: "2026-03-29T22:31:32.972Z"
+generated_at: "2026-03-29T22:42:13.677Z"
 ---
 
 # § 8893. Stay of proceedings for preserving evidence after stay of suit

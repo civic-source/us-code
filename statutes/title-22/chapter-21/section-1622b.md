@@ -3,9 +3,9 @@ title: "Section 1622b - Transfer of functions, powers, and duties of Foreign Cla
 usc_title: 22
 usc_section: "1622b"
 chapter: 21
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "22 U.S.C. § 1622b"
-generated_at: "2026-03-29T22:32:42.142Z"
+generated_at: "2026-03-29T22:43:26.159Z"
 ---
 
 # § 1622b. Transfer of functions, powers, and duties of Foreign Claims Settlement Commission of the United States

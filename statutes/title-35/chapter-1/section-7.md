@@ -3,9 +3,9 @@ title: "Section 7 - Library"
 usc_title: 35
 usc_section: "7"
 chapter: 1
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "35 U.S.C. § 7"
-generated_at: "2026-03-29T22:33:45.533Z"
+generated_at: "2026-03-29T22:44:03.388Z"
 ---
 
 # § 7. Library

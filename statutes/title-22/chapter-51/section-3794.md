@@ -3,9 +3,9 @@ title: "Section 3794 - Procedures"
 usc_title: 22
 usc_section: "3794"
 chapter: 51
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "22 U.S.C. § 3794"
-generated_at: "2026-03-29T22:32:42.307Z"
+generated_at: "2026-03-29T22:43:26.262Z"
 ---
 
 # § 3794. Procedures

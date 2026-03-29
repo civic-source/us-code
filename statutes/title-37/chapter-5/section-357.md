@@ -3,9 +3,9 @@ title: "Section 357 - Incentive pay authorities for members of the reserve compo
 usc_title: 37
 usc_section: "357"
 chapter: 5
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "37 U.S.C. § 357"
-generated_at: "2026-03-29T22:34:00.375Z"
+generated_at: "2026-03-29T22:44:37.199Z"
 ---
 
 # § 357. Incentive pay authorities for members of the reserve components of the armed forces

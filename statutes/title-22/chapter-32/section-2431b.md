@@ -3,9 +3,9 @@ title: "Section 2431b - Establishment of Facility"
 usc_title: 22
 usc_section: "2431b"
 chapter: 32
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "22 U.S.C. § 2431b"
-generated_at: "2026-03-29T22:32:42.230Z"
+generated_at: "2026-03-29T22:43:26.215Z"
 ---
 
 # § 2431b. Establishment of Facility

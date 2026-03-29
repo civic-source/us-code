@@ -3,9 +3,9 @@ title: "Section 240c - Audit: consolidated corrective action plan; centralized r
 usc_title: 10
 usc_section: "240c"
 chapter: 9
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "10 U.S.C. § 240c"
-generated_at: "2026-03-29T22:31:32.592Z"
+generated_at: "2026-03-29T22:42:13.327Z"
 ---
 
 # § 240c. Audit: consolidated corrective action plan; centralized reporting system

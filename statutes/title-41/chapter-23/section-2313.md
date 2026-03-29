@@ -3,9 +3,9 @@ title: "Section 2313 - Database for Federal agency contract and grant officers a
 usc_title: 41
 usc_section: "2313"
 chapter: 23
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "41 U.S.C. § 2313"
-generated_at: "2026-03-29T22:34:34.241Z"
+generated_at: "2026-03-29T22:44:43.379Z"
 ---
 
 # § 2313. Database for Federal agency contract and grant officers and suspension and debarment officials

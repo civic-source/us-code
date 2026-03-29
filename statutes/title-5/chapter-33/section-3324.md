@@ -3,9 +3,9 @@ title: "Section 3324 - Appointments to positions classified above GS–15"
 usc_title: 5
 usc_section: "3324"
 chapter: 33
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "5 U.S.C. § 3324"
-generated_at: "2026-03-29T22:30:58.771Z"
+generated_at: "2026-03-29T22:41:40.493Z"
 ---
 
 # § 3324. Appointments to positions classified above GS–15

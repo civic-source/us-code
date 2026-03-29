@@ -3,9 +3,9 @@ title: "Section 925C - Annual report to Congress"
 usc_title: 18
 usc_section: "925C"
 chapter: 44
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "18 U.S.C. § 925C"
-generated_at: "2026-03-29T22:32:10.094Z"
+generated_at: "2026-03-29T22:43:11.548Z"
 ---
 
 # § 925C. Annual report to Congress

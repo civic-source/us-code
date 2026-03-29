@@ -3,9 +3,9 @@ title: "Section 52 - Advisory role in management activities"
 usc_title: 16
 usc_section: "52"
 chapter: 1
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "16 U.S.C. § 52"
-generated_at: "2026-03-29T22:32:17.961Z"
+generated_at: "2026-03-29T22:42:48.802Z"
 ---
 
 # § 460nnn–52. Advisory role in management activities

@@ -3,9 +3,9 @@ title: "Section 1631l - Determination of expenses and time for filing suit, noti
 usc_title: 22
 usc_section: "1631l"
 chapter: 21
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "22 U.S.C. § 1631l"
-generated_at: "2026-03-29T22:32:42.145Z"
+generated_at: "2026-03-29T22:43:26.162Z"
 ---
 
 # § 1631l. Determination of expenses and time for filing suit, notice of claim and debt claim

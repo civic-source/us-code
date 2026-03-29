@@ -3,9 +3,9 @@ title: "Section 10612 - Prohibition of participation by violent offenders"
 usc_title: 34
 usc_section: "10612"
 chapter: 101
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "34 U.S.C. § 10612"
-generated_at: "2026-03-29T22:33:56.905Z"
+generated_at: "2026-03-29T22:44:17.671Z"
 ---
 
 # § 10612. Prohibition of participation by violent offenders

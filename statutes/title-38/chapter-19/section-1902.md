@@ -3,9 +3,9 @@ title: "Section 1902 - Premium rates and policy values"
 usc_title: 38
 usc_section: "1902"
 chapter: 19
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "38 U.S.C. § 1902"
-generated_at: "2026-03-29T22:34:08.156Z"
+generated_at: "2026-03-29T22:44:36.483Z"
 ---
 
 # § 1902. Premium rates and policy values

@@ -3,9 +3,9 @@ title: "Section 2302 - Rules governing contents of warranties"
 usc_title: 15
 usc_section: "2302"
 chapter: 50
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "15 U.S.C. § 2302"
-generated_at: "2026-03-29T22:31:52.111Z"
+generated_at: "2026-03-29T22:42:31.796Z"
 ---
 
 # § 2302. Rules governing contents of warranties

@@ -3,9 +3,9 @@ title: "Section 2115 - Acquisition, operation, and maintenance of Lafayette Esca
 usc_title: 36
 usc_section: "2115"
 chapter: 21
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "36 U.S.C. § 2115"
-generated_at: "2026-03-29T22:34:03.606Z"
+generated_at: "2026-03-29T22:44:38.375Z"
 ---
 
 # § 2115. Acquisition, operation, and maintenance of Lafayette Escadrille Memorial

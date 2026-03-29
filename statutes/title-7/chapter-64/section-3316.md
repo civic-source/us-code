@@ -3,9 +3,9 @@ title: "Section 3316 - Rules and regulations"
 usc_title: 7
 usc_section: "3316"
 chapter: 64
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "7 U.S.C. § 3316"
-generated_at: "2026-03-29T22:31:20.100Z"
+generated_at: "2026-03-29T22:41:59.255Z"
 ---
 
 # § 3316. Rules and regulations

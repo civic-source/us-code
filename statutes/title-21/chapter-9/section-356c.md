@@ -3,9 +3,9 @@ title: "Section 356c - Discontinuance or interruption in the production of life-
 usc_title: 21
 usc_section: "356c"
 chapter: 9
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "21 U.S.C. § 356c"
-generated_at: "2026-03-29T22:32:26.350Z"
+generated_at: "2026-03-29T22:43:34.463Z"
 ---
 
 # § 356c. Discontinuance or interruption in the production of life-saving drugs

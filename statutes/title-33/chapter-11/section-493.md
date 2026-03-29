@@ -3,9 +3,9 @@ title: "Section 493 - Use of railroad bridges by other railroad companies"
 usc_title: 33
 usc_section: "493"
 chapter: 11
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "33 U.S.C. § 493"
-generated_at: "2026-03-29T22:33:51.996Z"
+generated_at: "2026-03-29T22:44:19.606Z"
 ---
 
 # § 493. Use of railroad bridges by other railroad companies

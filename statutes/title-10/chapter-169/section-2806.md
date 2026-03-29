@@ -3,9 +3,9 @@ title: "Section 2806 - Contributions for North Atlantic Treaty Organizations Sec
 usc_title: 10
 usc_section: "2806"
 chapter: 169
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "10 U.S.C. § 2806"
-generated_at: "2026-03-29T22:31:32.846Z"
+generated_at: "2026-03-29T22:42:13.562Z"
 ---
 
 # § 2806. Contributions for North Atlantic Treaty Organizations Security Investment

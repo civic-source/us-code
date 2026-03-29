@@ -3,9 +3,9 @@ title: "Section 806 - Authorization of appropriations; availability of funds"
 usc_title: 20
 usc_section: "806"
 chapter: 23
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "20 U.S.C. § 806"
-generated_at: "2026-03-29T22:32:02.628Z"
+generated_at: "2026-03-29T22:42:42.366Z"
 ---
 
 # § 806. Authorization of appropriations; availability of funds

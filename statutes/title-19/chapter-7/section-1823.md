@@ -3,9 +3,9 @@ title: "Section 1823 - Waiver of limitation on decrease in duty and negotiation 
 usc_title: 19
 usc_section: "1823"
 chapter: 7
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "19 U.S.C. § 1823"
-generated_at: "2026-03-29T22:32:06.679Z"
+generated_at: "2026-03-29T22:43:03.622Z"
 ---
 
 # § 1823. Waiver of limitation on decrease in duty and negotiation and staging requirements for dicyandiamide and limestone

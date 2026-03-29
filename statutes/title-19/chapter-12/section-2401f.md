@@ -3,9 +3,9 @@ title: "Section 2401f - Fraud and recovery of overpayments"
 usc_title: 19
 usc_section: "2401f"
 chapter: 12
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "19 U.S.C. § 2401f"
-generated_at: "2026-03-29T22:32:06.711Z"
+generated_at: "2026-03-29T22:43:03.643Z"
 ---
 
 # § 2401f. Fraud and recovery of overpayments

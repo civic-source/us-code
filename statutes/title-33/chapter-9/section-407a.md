@@ -3,9 +3,9 @@ title: "Section 407a - Deposit of debris of mines and stamp works"
 usc_title: 33
 usc_section: "407a"
 chapter: 9
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "33 U.S.C. § 407a"
-generated_at: "2026-03-29T22:33:51.981Z"
+generated_at: "2026-03-29T22:44:19.596Z"
 ---
 
 # § 407a. Deposit of debris of mines and stamp works

@@ -3,9 +3,9 @@ title: "Section 3565 - Revocation of probation"
 usc_title: 18
 usc_section: "3565"
 chapter: 227
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "18 U.S.C. § 3565"
-generated_at: "2026-03-29T22:32:10.207Z"
+generated_at: "2026-03-29T22:43:11.618Z"
 ---
 
 # § 3565. Revocation of probation

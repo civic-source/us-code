@@ -3,9 +3,9 @@ title: "Section 276cc - Acceptance of funds and property from other sources; lim
 usc_title: 22
 usc_section: "276cc"
 chapter: 7
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "22 U.S.C. § 276cc"
-generated_at: "2026-03-29T22:32:42.079Z"
+generated_at: "2026-03-29T22:43:26.119Z"
 ---
 
 # § 276cc. Acceptance of funds and property from other sources; limitation; disbursement and investment

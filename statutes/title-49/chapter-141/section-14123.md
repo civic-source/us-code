@@ -3,9 +3,9 @@ title: "Section 14123 - Financial reporting"
 usc_title: 49
 usc_section: "14123"
 chapter: 141
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "49 U.S.C. § 14123"
-generated_at: "2026-03-29T22:36:08.016Z"
+generated_at: "2026-03-29T22:46:20.240Z"
 ---
 
 # § 14123. Financial reporting

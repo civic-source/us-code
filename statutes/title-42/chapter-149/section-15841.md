@@ -3,9 +3,9 @@ title: "Section 15841 - Energy-efficient appliances"
 usc_title: 42
 usc_section: "15841"
 chapter: 149
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "42 U.S.C. § 15841"
-generated_at: "2026-03-29T22:35:11.148Z"
+generated_at: "2026-03-29T22:45:59.549Z"
 ---
 
 # § 15841. Energy-efficient appliances

@@ -3,9 +3,9 @@ title: "Section 5692 - Administrator of Foreign Agricultural Service"
 usc_title: 7
 usc_section: "5692"
 chapter: 87
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "7 U.S.C. § 5692"
-generated_at: "2026-03-29T22:31:20.138Z"
+generated_at: "2026-03-29T22:41:59.289Z"
 ---
 
 # § 5692. Administrator of Foreign Agricultural Service

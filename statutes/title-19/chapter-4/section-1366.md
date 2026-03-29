@@ -3,9 +3,9 @@ title: "Section 1366 - General Agreement on Tariff and Trade un­affected"
 usc_title: 19
 usc_section: "1366"
 chapter: 4
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "19 U.S.C. § 1366"
-generated_at: "2026-03-29T22:32:06.608Z"
+generated_at: "2026-03-29T22:43:03.578Z"
 ---
 
 # § 1366. General Agreement on Tariff and Trade un­affected

@@ -3,9 +3,9 @@ title: "Section 8724 - Continuation in effect of sanctions with respect to the G
 usc_title: 22
 usc_section: "8724"
 chapter: 94
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "22 U.S.C. § 8724"
-generated_at: "2026-03-29T22:32:42.468Z"
+generated_at: "2026-03-29T22:43:26.367Z"
 ---
 
 # § 8724. Continuation in effect of sanctions with respect to the Government of Iran, the Central Bank of Iran, and sanctions evaders

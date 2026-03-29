@@ -3,9 +3,9 @@ title: "Section 481a - Workplace and gender relations issues: surveys of Departm
 usc_title: 10
 usc_section: "481a"
 chapter: 23
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "10 U.S.C. § 481a"
-generated_at: "2026-03-29T22:31:32.611Z"
+generated_at: "2026-03-29T22:42:13.344Z"
 ---
 
 # § 481a. Workplace and gender relations issues: surveys of Department of Defense civilian employees

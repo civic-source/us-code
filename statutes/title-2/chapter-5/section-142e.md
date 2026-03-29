@@ -3,9 +3,9 @@ title: "Section 142e - Disbursing Officer of the Library of Congress; disburseme
 usc_title: 2
 usc_section: "142e"
 chapter: 5
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "2 U.S.C. § 142e"
-generated_at: "2026-03-29T22:31:03.692Z"
+generated_at: "2026-03-29T22:41:27.133Z"
 ---
 
 # § 142e. Disbursing Officer of the Library of Congress; disbursements for Congressional Budget Office, accountability; financial management support to Congressional Budget Office under agreement of Librarian of Congress and Director of Congressional Budget Office; Congressional Budget Office certifying officers: voucher certifications, accountability, relief by Comptroller General

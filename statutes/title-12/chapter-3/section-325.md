@@ -3,9 +3,9 @@ title: "Section 325 - Examinations"
 usc_title: 12
 usc_section: "325"
 chapter: 3
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "12 U.S.C. § 325"
-generated_at: "2026-03-29T22:31:44.986Z"
+generated_at: "2026-03-29T22:42:25.236Z"
 ---
 
 # § 325. Examinations

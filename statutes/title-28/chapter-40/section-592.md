@@ -3,9 +3,9 @@ title: "Section 592 - Preliminary investigation and application for appointment 
 usc_title: 28
 usc_section: "592"
 chapter: 40
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "28 U.S.C. § 592"
-generated_at: "2026-03-29T22:33:16.393Z"
+generated_at: "2026-03-29T22:44:00.973Z"
 ---
 
 # § 592. Preliminary investigation and application for appointment of an independent counsel

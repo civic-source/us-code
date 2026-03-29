@@ -3,9 +3,9 @@ title: "Section 300 - Application of State laws"
 usc_title: 15
 usc_section: "300"
 chapter: 8
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "15 U.S.C. § 300"
-generated_at: "2026-03-29T22:31:51.869Z"
+generated_at: "2026-03-29T22:42:31.541Z"
 ---
 
 # § 300. Application of State laws

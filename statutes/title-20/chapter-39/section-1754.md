@@ -3,9 +3,9 @@ title: "Section 1754 - Provisions respecting transportation of pupils to achieve
 usc_title: 20
 usc_section: "1754"
 chapter: 39
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "20 U.S.C. § 1754"
-generated_at: "2026-03-29T22:32:02.845Z"
+generated_at: "2026-03-29T22:42:42.563Z"
 ---
 
 # § 1754. Provisions respecting transportation of pupils to achieve racial balance and judicial power to insure compliance with constitutional standards applicable to the entire United States

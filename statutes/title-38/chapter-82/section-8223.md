@@ -3,9 +3,9 @@ title: "Section 8223 - Grants"
 usc_title: 38
 usc_section: "8223"
 chapter: 82
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "38 U.S.C. § 8223"
-generated_at: "2026-03-29T22:34:08.295Z"
+generated_at: "2026-03-29T22:44:36.585Z"
 ---
 
 # § 8223. Grants

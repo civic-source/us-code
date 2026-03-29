@@ -3,9 +3,9 @@ title: "Section 1400 - Omitted"
 usc_title: 43
 usc_section: "1400"
 chapter: 30
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "43 U.S.C. § 1400"
-generated_at: "2026-03-29T22:34:28.427Z"
+generated_at: "2026-03-29T22:45:06.588Z"
 ---
 
 # §§ 1391 to 1400. Omitted

@@ -3,9 +3,9 @@ title: "Section 20117 - Authorization of appropriations"
 usc_title: 49
 usc_section: "20117"
 chapter: 201
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "49 U.S.C. § 20117"
-generated_at: "2026-03-29T22:36:08.027Z"
+generated_at: "2026-03-29T22:46:20.247Z"
 ---
 
 # § 20117. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 685 - Treatment of funeral trusts"
 usc_title: 26
 usc_section: "685"
 chapter: 1
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "26 U.S.C. § 685"
-generated_at: "2026-03-29T22:33:41.420Z"
+generated_at: "2026-03-29T22:43:54.453Z"
 ---
 
 # § 685. Treatment of funeral trusts

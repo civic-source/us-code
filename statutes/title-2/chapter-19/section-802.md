@@ -3,9 +3,9 @@ title: "Section 802 - Program"
 usc_title: 2
 usc_section: "802"
 chapter: 19
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "2 U.S.C. § 802"
-generated_at: "2026-03-29T22:31:03.730Z"
+generated_at: "2026-03-29T22:41:27.175Z"
 ---
 
 # § 802. Program

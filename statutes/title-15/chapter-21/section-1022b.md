@@ -3,9 +3,9 @@ title: "Section 1022b - Presentation of analysis respecting short-term and mediu
 usc_title: 15
 usc_section: "1022b"
 chapter: 21
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "15 U.S.C. § 1022b"
-generated_at: "2026-03-29T22:31:51.983Z"
+generated_at: "2026-03-29T22:42:31.665Z"
 ---
 
 # § 1022b. Presentation of analysis respecting short-term and medium-term goals in Economic Report of President; mutually reinforcing means

@@ -3,9 +3,9 @@ title: "Section 661 - Creation of commission; appointment of members; vacancies;
 usc_title: 33
 usc_section: "661"
 chapter: 14
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "33 U.S.C. § 661"
-generated_at: "2026-03-29T22:33:52.013Z"
+generated_at: "2026-03-29T22:44:19.618Z"
 ---
 
 # § 661. Creation of commission; appointment of members; vacancies; powers generally

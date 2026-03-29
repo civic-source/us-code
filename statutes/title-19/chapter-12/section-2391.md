@@ -3,9 +3,9 @@ title: "Section 2391 - GAO study and report"
 usc_title: 19
 usc_section: "2391"
 chapter: 12
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "19 U.S.C. § 2391"
-generated_at: "2026-03-29T22:32:06.709Z"
+generated_at: "2026-03-29T22:43:03.641Z"
 ---
 
 # § 2391. GAO study and report

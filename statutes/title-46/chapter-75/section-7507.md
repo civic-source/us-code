@@ -3,9 +3,9 @@ title: "Section 7507 - Authority to extend the duration of licenses, certificate
 usc_title: 46
 usc_section: "7507"
 chapter: 75
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "46 U.S.C. § 7507"
-generated_at: "2026-03-29T22:35:50.589Z"
+generated_at: "2026-03-29T22:46:48.542Z"
 ---
 
 # § 7507. Authority to extend the duration of licenses, certificates of registry, and merchant mariner documents

@@ -3,9 +3,9 @@ title: "Section 7313 - General requirements for members of engine departments"
 usc_title: 46
 usc_section: "7313"
 chapter: 73
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "46 U.S.C. § 7313"
-generated_at: "2026-03-29T22:35:50.588Z"
+generated_at: "2026-03-29T22:46:48.542Z"
 ---
 
 # § 7313. General requirements for members of engine departments

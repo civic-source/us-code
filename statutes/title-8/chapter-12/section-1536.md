@@ -3,9 +3,9 @@ title: "Section 1536 - Custody and release pending removal hearing"
 usc_title: 8
 usc_section: "1536"
 chapter: 12
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "8 U.S.C. § 1536"
-generated_at: "2026-03-29T22:31:12.913Z"
+generated_at: "2026-03-29T22:41:48.566Z"
 ---
 
 # § 1536. Custody and release pending removal hearing

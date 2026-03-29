@@ -3,9 +3,9 @@ title: "Section 1316 - National standards of performance"
 usc_title: 33
 usc_section: "1316"
 chapter: 26
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "33 U.S.C. § 1316"
-generated_at: "2026-03-29T22:33:52.086Z"
+generated_at: "2026-03-29T22:44:19.662Z"
 ---
 
 # § 1316. National standards of performance

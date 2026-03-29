@@ -3,9 +3,9 @@ title: "Section 608c - Orders"
 usc_title: 7
 usc_section: "608c"
 chapter: 26
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "7 U.S.C. § 608c"
-generated_at: "2026-03-29T22:31:19.856Z"
+generated_at: "2026-03-29T22:41:59.021Z"
 ---
 
 # § 608c. Orders

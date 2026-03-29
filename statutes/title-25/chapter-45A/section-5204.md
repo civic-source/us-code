@@ -3,9 +3,9 @@ title: "Section 5204 - Cooperative associations; charter; purposes; voting right
 usc_title: 25
 usc_section: "5204"
 chapter: 45
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "25 U.S.C. § 5204"
-generated_at: "2026-03-29T22:32:28.920Z"
+generated_at: "2026-03-29T22:43:16.882Z"
 ---
 
 # § 5204. Cooperative associations; charter; purposes; voting rights

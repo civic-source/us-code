@@ -3,9 +3,9 @@ title: "Section 1090a - Commanding officer and supervisor referrals of members f
 usc_title: 10
 usc_section: "1090a"
 chapter: 55
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "10 U.S.C. § 1090a"
-generated_at: "2026-03-29T22:31:32.702Z"
+generated_at: "2026-03-29T22:42:13.430Z"
 ---
 
 # § 1090a. Commanding officer and supervisor referrals of members for mental health evaluations
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T22:31:32.702Z"
     - **(A)** provide for a self-initiated process that enables the member to trigger a referral for a mental health evaluation by requesting such a referral from a commanding officer or supervisor who is in a grade above E-5;
     - **(B)** ensure the function of the process described in subparagraph (A) by—
       - **(i)** requiring the commanding officer or supervisor of the member to refer the member to a mental health provider for a mental health evaluation as soon as practicable following the request of the member (including by providing to the mental health provider the name and contact information of the member and providing to the member the date, time, and place of the scheduled mental health evaluation); and
-      - **(ii)** ensure the member may request a referral pursuant to subparagraph (A) on any basis (including on the basis of a concern relating to fitness for duty, occupational requirements, safety issues, significant changes in performance, or behavioral changes that may be attributable to possible changes in mental status); and
+      - **(ii)** ensure 1 1 So in original. Probably should be “ensuring”. the member may request a referral pursuant to subparagraph (A) on any basis (including on the basis of a concern relating to fitness for duty, occupational requirements, safety issues, significant changes in performance, or behavioral changes that may be attributable to possible changes in mental status); and
     - **(C)** ensure that the process described in subparagraph (A)—
       - **(i)** reduces stigma in accordance with subsection (b), including by treating referrals for mental health evaluations made pursuant to such process in a manner similar to referrals for other medical services, to the maximum extent practicable; and
       - **(ii)** protects the confidentiality of the member to the maximum extent practicable, in accordance with requirements for the confidentiality of health information under the Health Insurance Portability and Accountability Act of 1996 ( Public Law 104–191 ) and applicable privacy laws.

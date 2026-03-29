@@ -3,9 +3,9 @@ title: "Section 11141 - Definitions"
 usc_title: 49
 usc_section: "11141"
 chapter: 111
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "49 U.S.C. § 11141"
-generated_at: "2026-03-29T22:36:08.001Z"
+generated_at: "2026-03-29T22:46:20.231Z"
 ---
 
 # § 11141. Definitions

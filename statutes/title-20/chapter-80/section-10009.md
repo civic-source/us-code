@@ -3,9 +3,9 @@ title: "Section 10009 - Evaluation"
 usc_title: 20
 usc_section: "10009"
 chapter: 80
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "20 U.S.C. § 10009"
-generated_at: "2026-03-29T22:32:03.013Z"
+generated_at: "2026-03-29T22:42:42.716Z"
 ---
 
 # § 10009. Evaluation

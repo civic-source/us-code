@@ -3,9 +3,9 @@ title: "Section 12184 - Prohibition of discrimination in specified public transp
 usc_title: 42
 usc_section: "12184"
 chapter: 126
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "42 U.S.C. § 12184"
-generated_at: "2026-03-29T22:35:11.021Z"
+generated_at: "2026-03-29T22:45:59.466Z"
 ---
 
 # § 12184. Prohibition of discrimination in specified public transportation services provided by private entities

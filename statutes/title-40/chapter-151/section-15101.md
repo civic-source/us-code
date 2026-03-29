@@ -3,9 +3,9 @@ title: "Section 15101 - Definitions"
 usc_title: 40
 usc_section: "15101"
 chapter: 151
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "40 U.S.C. § 15101"
-generated_at: "2026-03-29T22:34:01.595Z"
+generated_at: "2026-03-29T22:44:22.499Z"
 ---
 
 # § 15101. Definitions

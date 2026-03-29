@@ -3,9 +3,9 @@ title: "Section 2799aa - Nuclear enrichment transfers"
 usc_title: 22
 usc_section: "2799aa"
 chapter: 39
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "22 U.S.C. § 2799aa"
-generated_at: "2026-03-29T22:32:42.284Z"
+generated_at: "2026-03-29T22:43:26.248Z"
 ---
 
 # § 2799aa. Nuclear enrichment transfers

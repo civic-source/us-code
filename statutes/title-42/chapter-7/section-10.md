@@ -3,9 +3,9 @@ title: "Section 10 - Website"
 usc_title: 42
 usc_section: "10"
 chapter: 7
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-29T22:35:10.174Z"
+generated_at: "2026-03-29T22:45:58.878Z"
 ---
 
 # § 1397n–10. Website

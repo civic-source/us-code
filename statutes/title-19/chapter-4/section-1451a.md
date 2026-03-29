@@ -3,9 +3,9 @@ title: "Section 1451a - Repealed. Pub. L. 103–66, title XIII, § 13811(b)(1) ,
 usc_title: 19
 usc_section: "1451a"
 chapter: 4
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "19 U.S.C. § 1451a"
-generated_at: "2026-03-29T22:32:06.615Z"
+generated_at: "2026-03-29T22:43:03.582Z"
 ---
 
 # § 1451a. Repealed. Pub. L. 103–66, title XIII, § 13811(b)(1) , Aug. 10, 1993 , 107 Stat. 670

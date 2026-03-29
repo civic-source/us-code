@@ -3,9 +3,9 @@ title: "Section 4205 - Weapon systems for which procurement funding requested in
 usc_title: 10
 usc_section: "4205"
 chapter: 321
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "10 U.S.C. § 4205"
-generated_at: "2026-03-29T22:31:32.898Z"
+generated_at: "2026-03-29T22:42:13.607Z"
 ---
 
 # § 4205. Weapon systems for which procurement funding requested in budget: development and procurement schedules

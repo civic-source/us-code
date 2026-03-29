@@ -3,9 +3,9 @@ title: "Section 9058b - Funding for water assistance program"
 usc_title: 15
 usc_section: "9058b"
 chapter: 116
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "15 U.S.C. § 9058b"
-generated_at: "2026-03-29T22:31:52.302Z"
+generated_at: "2026-03-29T22:42:32.001Z"
 ---
 
 # § 9058b. Funding for water assistance program

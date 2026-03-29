@@ -3,9 +3,9 @@ title: "Section 68 - Enforcement of customs and immigration laws in Guam and the
 usc_title: 19
 usc_section: "68"
 chapter: 1
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "19 U.S.C. § 68"
-generated_at: "2026-03-29T22:32:06.590Z"
+generated_at: "2026-03-29T22:43:03.566Z"
 ---
 
 # § 68. Enforcement of customs and immigration laws in Guam and the Virgin Islands and along Canadian and Mexican borders; cooperation by Secretary of the Treasury and Attorney General; erection of buildings

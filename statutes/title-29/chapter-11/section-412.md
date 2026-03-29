@@ -3,9 +3,9 @@ title: "Section 412 - Civil action for infringement of rights; jurisdiction"
 usc_title: 29
 usc_section: "412"
 chapter: 11
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "29 U.S.C. § 412"
-generated_at: "2026-03-29T22:33:18.919Z"
+generated_at: "2026-03-29T22:43:40.247Z"
 ---
 
 # § 412. Civil action for infringement of rights; jurisdiction

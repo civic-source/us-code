@@ -3,9 +3,9 @@ title: "Section 77e - Prohibitions relating to interstate commerce and the mails
 usc_title: 15
 usc_section: "77e"
 chapter: 2
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "15 U.S.C. § 77e"
-generated_at: "2026-03-29T22:31:51.731Z"
+generated_at: "2026-03-29T22:42:31.403Z"
 ---
 
 # § 77e. Prohibitions relating to interstate commerce and the mails

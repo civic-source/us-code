@@ -3,9 +3,9 @@ title: "Section 539i - Fossil Ridge Recreation Management Area"
 usc_title: 16
 usc_section: "539i"
 chapter: 2
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "16 U.S.C. § 539i"
-generated_at: "2026-03-29T22:32:17.996Z"
+generated_at: "2026-03-29T22:42:48.831Z"
 ---
 
 # § 539i. Fossil Ridge Recreation Management Area

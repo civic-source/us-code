@@ -3,9 +3,9 @@ title: "Section 2213 - Administration of acquired fractional interests; disposit
 usc_title: 25
 usc_section: "2213"
 chapter: 24
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "25 U.S.C. § 2213"
-generated_at: "2026-03-29T22:32:28.855Z"
+generated_at: "2026-03-29T22:43:16.829Z"
 ---
 
 # § 2213. Administration of acquired fractional interests; disposition of proceeds

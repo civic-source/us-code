@@ -3,9 +3,9 @@ title: "Section 3701 - National Afro-American History and Culture Commission"
 usc_title: 20
 usc_section: "3701"
 chapter: 50
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "20 U.S.C. § 3701"
-generated_at: "2026-03-29T22:32:02.872Z"
+generated_at: "2026-03-29T22:42:42.589Z"
 ---
 
 # § 3701. National Afro-American History and Culture Commission

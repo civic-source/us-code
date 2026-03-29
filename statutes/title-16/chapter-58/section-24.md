@@ -3,9 +3,9 @@ title: "Section 24 - Duties of the Secretary"
 usc_title: 16
 usc_section: "24"
 chapter: 58
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "16 U.S.C. § 24"
-generated_at: "2026-03-29T22:32:18.324Z"
+generated_at: "2026-03-29T22:42:49.108Z"
 ---
 
 # § 3839aa–24. Duties of the Secretary

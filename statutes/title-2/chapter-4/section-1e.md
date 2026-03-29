@@ -3,9 +3,9 @@ title: "Section 1e - Transferred"
 usc_title: 2
 usc_section: "1e"
 chapter: 4
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "2 U.S.C. § 1e"
-generated_at: "2026-03-29T22:31:03.688Z"
+generated_at: "2026-03-29T22:41:27.128Z"
 ---
 
 # § 72a–1e. Transferred

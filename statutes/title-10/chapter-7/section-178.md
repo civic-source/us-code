@@ -3,9 +3,9 @@ title: "Section 178 - The Henry M. Jackson Foundation for the Advancement of Mil
 usc_title: 10
 usc_section: "178"
 chapter: 7
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "10 U.S.C. § 178"
-generated_at: "2026-03-29T22:31:32.581Z"
+generated_at: "2026-03-29T22:42:13.317Z"
 ---
 
 # § 178. The Henry M. Jackson Foundation for the Advancement of Military Medicine

@@ -3,9 +3,9 @@ title: "Section 104907 - Limitation on extension or establishment of national pa
 usc_title: 54
 usc_section: "104907"
 chapter: 1049
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "54 U.S.C. § 104907"
-generated_at: "2026-03-29T22:36:12.652Z"
+generated_at: "2026-03-29T22:46:51.195Z"
 ---
 
 # § 104907. Limitation on extension or establishment of national parks in Wyoming

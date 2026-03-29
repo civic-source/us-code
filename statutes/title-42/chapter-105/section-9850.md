@@ -3,9 +3,9 @@ title: "Section 9850 - Limitation with respect to certain unlawful activities"
 usc_title: 42
 usc_section: "9850"
 chapter: 105
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "42 U.S.C. § 9850"
-generated_at: "2026-03-29T22:35:10.926Z"
+generated_at: "2026-03-29T22:45:59.397Z"
 ---
 
 # § 9850. Limitation with respect to certain unlawful activities

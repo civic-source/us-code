@@ -3,9 +3,9 @@ title: "Section 1203 - Research and development"
 usc_title: 47
 usc_section: "1203"
 chapter: 11
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "47 U.S.C. § 1203"
-generated_at: "2026-03-29T22:35:21.301Z"
+generated_at: "2026-03-29T22:46:35.358Z"
 ---
 
 # § 1203. Research and development

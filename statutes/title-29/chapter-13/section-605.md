@@ -3,9 +3,9 @@ title: "Section 605 - Repealed. Pub. L. 97–306, title III, § 311 , Oct. 14, 1
 usc_title: 29
 usc_section: "605"
 chapter: 13
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "29 U.S.C. § 605"
-generated_at: "2026-03-29T22:33:18.924Z"
+generated_at: "2026-03-29T22:43:40.251Z"
 ---
 
 # §§ 601 to 605. Repealed. Pub. L. 97–306, title III, § 311 , Oct. 14, 1982 , 96 Stat. 1442

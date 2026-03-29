@@ -3,9 +3,9 @@ title: "Section 1804 - Inland and intracoastal waterways of the United States"
 usc_title: 33
 usc_section: "1804"
 chapter: 32
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "33 U.S.C. § 1804"
-generated_at: "2026-03-29T22:33:52.132Z"
+generated_at: "2026-03-29T22:44:19.689Z"
 ---
 
 # § 1804. Inland and intracoastal waterways of the United States

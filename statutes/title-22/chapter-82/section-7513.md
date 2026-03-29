@@ -3,9 +3,9 @@ title: "Section 7513 - Authorization of assistance"
 usc_title: 22
 usc_section: "7513"
 chapter: 82
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "22 U.S.C. § 7513"
-generated_at: "2026-03-29T22:32:42.427Z"
+generated_at: "2026-03-29T22:43:26.342Z"
 ---
 
 # § 7513. Authorization of assistance

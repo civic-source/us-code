@@ -3,9 +3,9 @@ title: "Section 2082 - Customs Service administration"
 usc_title: 19
 usc_section: "2082"
 chapter: 10
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "19 U.S.C. § 2082"
-generated_at: "2026-03-29T22:32:06.684Z"
+generated_at: "2026-03-29T22:43:03.625Z"
 ---
 
 # § 2082. Customs Service administration

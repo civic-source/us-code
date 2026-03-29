@@ -3,9 +3,9 @@ title: "Section 877 - Art. 77. Principals"
 usc_title: 10
 usc_section: "877"
 chapter: 47
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "10 U.S.C. § 877"
-generated_at: "2026-03-29T22:31:32.658Z"
+generated_at: "2026-03-29T22:42:13.388Z"
 ---
 
 # § 877. Art. 77. Principals

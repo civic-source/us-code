@@ -3,9 +3,9 @@ title: "Section 2793 - Other provisions unaffected"
 usc_title: 22
 usc_section: "2793"
 chapter: 39
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "22 U.S.C. § 2793"
-generated_at: "2026-03-29T22:32:42.281Z"
+generated_at: "2026-03-29T22:43:26.246Z"
 ---
 
 # § 2793. Other provisions unaffected

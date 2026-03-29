@@ -3,9 +3,9 @@ title: "Section 10507 - Survey to compile registration and voting statistics"
 usc_title: 52
 usc_section: "10507"
 chapter: 105
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "52 U.S.C. § 10507"
-generated_at: "2026-03-29T22:36:11.757Z"
+generated_at: "2026-03-29T22:46:58.544Z"
 ---
 
 # § 10507. Survey to compile registration and voting statistics

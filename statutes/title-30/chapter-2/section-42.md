@@ -3,9 +3,9 @@ title: "Section 42 - Patents for nonmineral lands: application, survey, notice, 
 usc_title: 30
 usc_section: "42"
 chapter: 2
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "30 U.S.C. § 42"
-generated_at: "2026-03-29T22:32:59.120Z"
+generated_at: "2026-03-29T22:43:38.397Z"
 ---
 
 # § 42. Patents for nonmineral lands: application, survey, notice, acreage limitation, payment

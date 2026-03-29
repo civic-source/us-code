@@ -3,9 +3,9 @@ title: "Section 81 - Rights of entrymen of lands subsequently classified as coal
 usc_title: 30
 usc_section: "81"
 chapter: 3
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "30 U.S.C. § 81"
-generated_at: "2026-03-29T22:32:59.122Z"
+generated_at: "2026-03-29T22:43:38.398Z"
 ---
 
 # § 81. Rights of entrymen of lands subsequently classified as coal lands; disposal of coal deposits

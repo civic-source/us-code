@@ -3,9 +3,9 @@ title: "Section 441p - Transferred"
 usc_title: 50
 usc_section: "441p"
 chapter: 15
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "50 U.S.C. § 441p"
-generated_at: "2026-03-29T22:35:28.853Z"
+generated_at: "2026-03-29T22:46:14.706Z"
 ---
 
 # § 441p. Transferred

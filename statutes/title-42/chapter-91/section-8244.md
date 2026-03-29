@@ -3,9 +3,9 @@ title: "Section 8244 - Authorization of appropriations"
 usc_title: 42
 usc_section: "8244"
 chapter: 91
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "42 U.S.C. § 8244"
-generated_at: "2026-03-29T22:35:10.835Z"
+generated_at: "2026-03-29T22:45:59.316Z"
 ---
 
 # § 8244. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 2152b - Transferred"
 usc_title: 22
 usc_section: "2152b"
 chapter: 32
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "22 U.S.C. § 2152b"
-generated_at: "2026-03-29T22:32:42.177Z"
+generated_at: "2026-03-29T22:43:26.182Z"
 ---
 
 # § 2152b. Transferred

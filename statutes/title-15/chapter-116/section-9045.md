@@ -3,9 +3,9 @@ title: "Section 9045 - Coordination with Secretary of Transportation"
 usc_title: 15
 usc_section: "9045"
 chapter: 116
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "15 U.S.C. § 9045"
-generated_at: "2026-03-29T22:31:52.298Z"
+generated_at: "2026-03-29T22:42:31.996Z"
 ---
 
 # § 9045. Coordination with Secretary of Transportation

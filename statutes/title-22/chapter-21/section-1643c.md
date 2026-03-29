@@ -3,9 +3,9 @@ title: "Section 1643c - Ownership of claims by nationals"
 usc_title: 22
 usc_section: "1643c"
 chapter: 21
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "22 U.S.C. § 1643c"
-generated_at: "2026-03-29T22:32:42.149Z"
+generated_at: "2026-03-29T22:43:26.165Z"
 ---
 
 # § 1643c. Ownership of claims by nationals

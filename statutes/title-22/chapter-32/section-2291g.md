@@ -3,9 +3,9 @@ title: "Section 2291g - Limitations on acquisition of real property and construc
 usc_title: 22
 usc_section: "2291g"
 chapter: 32
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "22 U.S.C. § 2291g"
-generated_at: "2026-03-29T22:32:42.194Z"
+generated_at: "2026-03-29T22:43:26.193Z"
 ---
 
 # § 2291g. Limitations on acquisition of real property and construction of facilities

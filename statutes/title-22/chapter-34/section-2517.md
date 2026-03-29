@@ -3,9 +3,9 @@ title: "Section 2517 - Activities promoting Americans’ understanding of other 
 usc_title: 22
 usc_section: "2517"
 chapter: 34
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "22 U.S.C. § 2517"
-generated_at: "2026-03-29T22:32:42.241Z"
+generated_at: "2026-03-29T22:43:26.222Z"
 ---
 
 # § 2517. Activities promoting Americans’ understanding of other peoples

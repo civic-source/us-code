@@ -3,9 +3,9 @@ title: "Section 110109 - Records and inspection"
 usc_title: 36
 usc_section: "110109"
 chapter: 1101
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "36 U.S.C. § 110109"
-generated_at: "2026-03-29T22:34:03.630Z"
+generated_at: "2026-03-29T22:44:38.390Z"
 ---
 
 # § 110109. Records and inspection

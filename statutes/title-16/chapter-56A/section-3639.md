@@ -3,9 +3,9 @@ title: "Section 3639 - Advisory committee"
 usc_title: 16
 usc_section: "3639"
 chapter: 56
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "16 U.S.C. § 3639"
-generated_at: "2026-03-29T22:32:18.305Z"
+generated_at: "2026-03-29T22:42:49.096Z"
 ---
 
 # § 3639. Advisory committee

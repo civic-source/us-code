@@ -3,9 +3,9 @@ title: "Section 136v - Authority of States"
 usc_title: 7
 usc_section: "136v"
 chapter: 6
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "7 U.S.C. § 136v"
-generated_at: "2026-03-29T22:31:19.795Z"
+generated_at: "2026-03-29T22:41:58.963Z"
 ---
 
 # § 136v. Authority of States

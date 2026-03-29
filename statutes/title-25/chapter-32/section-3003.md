@@ -3,9 +3,9 @@ title: "Section 3003 - Inventory for human remains and associated funerary objec
 usc_title: 25
 usc_section: "3003"
 chapter: 32
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "25 U.S.C. § 3003"
-generated_at: "2026-03-29T22:32:28.874Z"
+generated_at: "2026-03-29T22:43:16.846Z"
 ---
 
 # § 3003. Inventory for human remains and associated funerary objects

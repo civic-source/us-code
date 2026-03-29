@@ -3,9 +3,9 @@ title: "Section 910a - Authorization of loans, conveyances, etc., by government 
 usc_title: 48
 usc_section: "910a"
 chapter: 4
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "48 U.S.C. § 910a"
-generated_at: "2026-03-29T22:35:19.366Z"
+generated_at: "2026-03-29T22:46:22.111Z"
 ---
 
 # § 910a. Authorization of loans, conveyances, etc., by government and municipalities

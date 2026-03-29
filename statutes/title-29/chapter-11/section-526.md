@@ -3,9 +3,9 @@ title: "Section 526 - Applicability of administrative procedure provisions"
 usc_title: 29
 usc_section: "526"
 chapter: 11
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "29 U.S.C. § 526"
-generated_at: "2026-03-29T22:33:18.922Z"
+generated_at: "2026-03-29T22:43:40.250Z"
 ---
 
 # § 526. Applicability of administrative procedure provisions

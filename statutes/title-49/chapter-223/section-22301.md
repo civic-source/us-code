@@ -3,9 +3,9 @@ title: "Section 22301 - Capital grants for class II and class III railroads"
 usc_title: 49
 usc_section: "22301"
 chapter: 223
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "49 U.S.C. § 22301"
-generated_at: "2026-03-29T22:36:08.041Z"
+generated_at: "2026-03-29T22:46:20.257Z"
 ---
 
 # § 22301. Capital grants for class II and class III railroads

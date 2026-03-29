@@ -3,9 +3,9 @@ title: "Section 2379 - Renumbered § 3455]"
 usc_title: 10
 usc_section: "2379"
 chapter: 140
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "10 U.S.C. § 2379"
-generated_at: "2026-03-29T22:31:32.805Z"
+generated_at: "2026-03-29T22:42:13.526Z"
 ---
 
 # [§ 2379. Renumbered § 3455]

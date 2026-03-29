@@ -3,9 +3,9 @@ title: "Section 4121 - Definitions of qualified and priority purchaser and relat
 usc_title: 12
 usc_section: "4121"
 chapter: 42
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "12 U.S.C. § 4121"
-generated_at: "2026-03-29T22:31:45.320Z"
+generated_at: "2026-03-29T22:42:25.563Z"
 ---
 
 # § 4121. Definitions of qualified and priority purchaser and related party rule

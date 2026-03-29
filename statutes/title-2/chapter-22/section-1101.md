@@ -3,9 +3,9 @@ title: "Section 1101 - Congressional findings"
 usc_title: 2
 usc_section: "1101"
 chapter: 22
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "2 U.S.C. § 1101"
-generated_at: "2026-03-29T22:31:03.745Z"
+generated_at: "2026-03-29T22:41:27.189Z"
 ---
 
 # § 1101. Congressional findings

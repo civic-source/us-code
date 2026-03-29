@@ -3,9 +3,9 @@ title: "Section 912 - Relation to other laws"
 usc_title: 17
 usc_section: "912"
 chapter: 9
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "17 U.S.C. § 912"
-generated_at: "2026-03-29T22:31:56.597Z"
+generated_at: "2026-03-29T22:42:35.605Z"
 ---
 
 # § 912. Relation to other laws

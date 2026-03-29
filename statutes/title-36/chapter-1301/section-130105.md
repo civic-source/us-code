@@ -3,9 +3,9 @@ title: "Section 130105 - Powers"
 usc_title: 36
 usc_section: "130105"
 chapter: 1301
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "36 U.S.C. § 130105"
-generated_at: "2026-03-29T22:34:03.632Z"
+generated_at: "2026-03-29T22:44:38.391Z"
 ---
 
 # § 130105. Powers

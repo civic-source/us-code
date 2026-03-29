@@ -3,9 +3,9 @@ title: "Section 403 - Repealed. Pub. L. 104–106, div. A, title X, § 1061(g)(1
 usc_title: 10
 usc_section: "403"
 chapter: 20
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "10 U.S.C. § 403"
-generated_at: "2026-03-29T22:31:32.607Z"
+generated_at: "2026-03-29T22:42:13.338Z"
 ---
 
 # [§ 403. Repealed. Pub. L. 104–106, div. A, title X, § 1061(g)(1) , Feb. 10, 1996 , 110 Stat. 443 ]

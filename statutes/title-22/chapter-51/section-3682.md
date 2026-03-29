@@ -3,9 +3,9 @@ title: "Section 3682 - Administration of certain disability benefits"
 usc_title: 22
 usc_section: "3682"
 chapter: 51
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "22 U.S.C. § 3682"
-generated_at: "2026-03-29T22:32:42.302Z"
+generated_at: "2026-03-29T22:43:26.259Z"
 ---
 
 # § 3682. Administration of certain disability benefits

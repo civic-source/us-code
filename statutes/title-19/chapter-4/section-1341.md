@@ -3,9 +3,9 @@ title: "Section 1341 - Interference with functions of Commission"
 usc_title: 19
 usc_section: "1341"
 chapter: 4
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "19 U.S.C. § 1341"
-generated_at: "2026-03-29T22:32:06.606Z"
+generated_at: "2026-03-29T22:43:03.576Z"
 ---
 
 # § 1341. Interference with functions of Commission

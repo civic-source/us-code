@@ -3,9 +3,9 @@ title: "Section 2205 - Contract practices"
 usc_title: 42
 usc_section: "2205"
 chapter: 23
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "42 U.S.C. § 2205"
-generated_at: "2026-03-29T22:35:10.382Z"
+generated_at: "2026-03-29T22:45:59.017Z"
 ---
 
 # § 2205. Contract practices

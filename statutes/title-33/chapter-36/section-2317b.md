@@ -3,9 +3,9 @@ title: "Section 2317b - Mitigation banks and in-lieu fee arrangements"
 usc_title: 33
 usc_section: "2317b"
 chapter: 36
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "33 U.S.C. § 2317b"
-generated_at: "2026-03-29T22:33:52.161Z"
+generated_at: "2026-03-29T22:44:19.707Z"
 ---
 
 # § 2317b. Mitigation banks and in-lieu fee arrangements

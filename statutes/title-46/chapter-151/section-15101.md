@@ -3,9 +3,9 @@ title: "Section 15101 - National Chemical Transportation Safety Advisory Committ
 usc_title: 46
 usc_section: "15101"
 chapter: 151
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "46 U.S.C. § 15101"
-generated_at: "2026-03-29T22:35:50.615Z"
+generated_at: "2026-03-29T22:46:48.557Z"
 ---
 
 # § 15101. National Chemical Transportation Safety Advisory Committee

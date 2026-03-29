@@ -3,9 +3,9 @@ title: "Section 1177 - Confiscation of gambling devices and means of transportat
 usc_title: 15
 usc_section: "1177"
 chapter: 24
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "15 U.S.C. § 1177"
-generated_at: "2026-03-29T22:31:51.996Z"
+generated_at: "2026-03-29T22:42:31.681Z"
 ---
 
 # § 1177. Confiscation of gambling devices and means of transportation; laws governing

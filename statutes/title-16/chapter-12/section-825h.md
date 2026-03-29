@@ -3,9 +3,9 @@ title: "Section 825h - Administrative powers of Commission; rules, regulations, 
 usc_title: 16
 usc_section: "825h"
 chapter: 12
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "16 U.S.C. § 825h"
-generated_at: "2026-03-29T22:32:18.110Z"
+generated_at: "2026-03-29T22:42:48.929Z"
 ---
 
 # § 825h. Administrative powers of Commission; rules, regulations, and orders

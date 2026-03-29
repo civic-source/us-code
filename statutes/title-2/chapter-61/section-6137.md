@@ -3,9 +3,9 @@ title: "Section 6137 - Transfer of funds from appropriations account of Majority
 usc_title: 2
 usc_section: "6137"
 chapter: 61
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "2 U.S.C. § 6137"
-generated_at: "2026-03-29T22:31:03.818Z"
+generated_at: "2026-03-29T22:41:27.265Z"
 ---
 
 # § 6137. Transfer of funds from appropriations account of Majority and Minority Leaders of Senate to appropriations account, Miscellaneous Items, within Senate contingent fund

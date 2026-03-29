@@ -3,9 +3,9 @@ title: "Section 4692 - Suspension of liquidation"
 usc_title: 19
 usc_section: "4692"
 chapter: 29
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "19 U.S.C. § 4692"
-generated_at: "2026-03-29T22:32:06.819Z"
+generated_at: "2026-03-29T22:43:03.714Z"
 ---
 
 # § 4692. Suspension of liquidation

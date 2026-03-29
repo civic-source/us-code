@@ -3,9 +3,9 @@ title: "Section 837d - Exchange contracts"
 usc_title: 16
 usc_section: "837d"
 chapter: 12
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "16 U.S.C. § 837d"
-generated_at: "2026-03-29T22:32:18.128Z"
+generated_at: "2026-03-29T22:42:48.947Z"
 ---
 
 # § 837d. Exchange contracts

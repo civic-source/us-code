@@ -3,9 +3,9 @@ title: "Section 1474 - Technology development, demonstration, and utilization; m
 usc_title: 20
 usc_section: "1474"
 chapter: 33
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "20 U.S.C. § 1474"
-generated_at: "2026-03-29T22:32:02.840Z"
+generated_at: "2026-03-29T22:42:42.559Z"
 ---
 
 # § 1474. Technology development, demonstration, and utilization; media services; and instructional materials

@@ -3,9 +3,9 @@ title: "Section 1384 - Prostitution near military and naval establishments"
 usc_title: 18
 usc_section: "1384"
 chapter: 67
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "18 U.S.C. § 1384"
-generated_at: "2026-03-29T22:32:10.118Z"
+generated_at: "2026-03-29T22:43:11.563Z"
 ---
 
 # § 1384. Prostitution near military and naval establishments

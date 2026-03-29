@@ -3,9 +3,9 @@ title: "Section 2403 - Reciprocity limits"
 usc_title: 7
 usc_section: "2403"
 chapter: 57
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "7 U.S.C. § 2403"
-generated_at: "2026-03-29T22:31:20.070Z"
+generated_at: "2026-03-29T22:41:59.226Z"
 ---
 
 # § 2403. Reciprocity limits

@@ -3,9 +3,9 @@ title: "Section 8145 - Administration"
 usc_title: 5
 usc_section: "8145"
 chapter: 81
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "5 U.S.C. § 8145"
-generated_at: "2026-03-29T22:30:58.848Z"
+generated_at: "2026-03-29T22:41:40.568Z"
 ---
 
 # § 8145. Administration

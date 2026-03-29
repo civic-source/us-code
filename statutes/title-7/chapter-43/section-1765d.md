@@ -3,9 +3,9 @@ title: "Section 1765d - Acquisition of property"
 usc_title: 7
 usc_section: "1765d"
 chapter: 43
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "7 U.S.C. § 1765d"
-generated_at: "2026-03-29T22:31:19.973Z"
+generated_at: "2026-03-29T22:41:59.132Z"
 ---
 
 # § 1765d. Acquisition of property

@@ -3,9 +3,9 @@ title: "Section 20141 - Power brake safety"
 usc_title: 49
 usc_section: "20141"
 chapter: 201
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "49 U.S.C. § 20141"
-generated_at: "2026-03-29T22:36:08.028Z"
+generated_at: "2026-03-29T22:46:20.249Z"
 ---
 
 # § 20141. Power brake safety

@@ -3,9 +3,9 @@ title: "Section 10305 - Manner of signing agreement"
 usc_title: 46
 usc_section: "10305"
 chapter: 103
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "46 U.S.C. § 10305"
-generated_at: "2026-03-29T22:35:50.598Z"
+generated_at: "2026-03-29T22:46:48.547Z"
 ---
 
 # § 10305. Manner of signing agreement

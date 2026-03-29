@@ -3,9 +3,9 @@ title: "Section 1132 - Civil aircraft accident investigations"
 usc_title: 49
 usc_section: "1132"
 chapter: 11
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "49 U.S.C. § 1132"
-generated_at: "2026-03-29T22:36:07.946Z"
+generated_at: "2026-03-29T22:46:20.194Z"
 ---
 
 # § 1132. Civil aircraft accident investigations

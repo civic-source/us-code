@@ -3,9 +3,9 @@ title: "Section 5322 - Funds made available for administrative costs without reg
 usc_title: 42
 usc_section: "5322"
 chapter: 69
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "42 U.S.C. § 5322"
-generated_at: "2026-03-29T22:35:10.575Z"
+generated_at: "2026-03-29T22:45:59.150Z"
 ---
 
 # § 5322. Funds made available for administrative costs without regard to particular disaster appropriation

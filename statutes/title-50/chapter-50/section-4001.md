@@ -3,9 +3,9 @@ title: "Section 4001 - Residence for tax purposes"
 usc_title: 50
 usc_section: "4001"
 chapter: 50
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "50 U.S.C. § 4001"
-generated_at: "2026-03-29T22:35:29.022Z"
+generated_at: "2026-03-29T22:46:14.823Z"
 ---
 
 # § 4001. Residence for tax purposes

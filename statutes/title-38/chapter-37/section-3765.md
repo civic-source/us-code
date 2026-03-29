@@ -3,9 +3,9 @@ title: "Section 3765 - Definitions"
 usc_title: 38
 usc_section: "3765"
 chapter: 37
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "38 U.S.C. § 3765"
-generated_at: "2026-03-29T22:34:08.223Z"
+generated_at: "2026-03-29T22:44:36.533Z"
 ---
 
 # § 3765. Definitions

@@ -3,9 +3,9 @@ title: "Section 11303 - Performance-based and results-based management"
 usc_title: 40
 usc_section: "11303"
 chapter: 113
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "40 U.S.C. § 11303"
-generated_at: "2026-03-29T22:34:01.588Z"
+generated_at: "2026-03-29T22:44:22.494Z"
 ---
 
 # § 11303. Performance-based and results-based management

@@ -3,9 +3,9 @@ title: "Section 2166 - Repealed. Pub. L. 110–437, title IV, § 422(a) , Oct. 2
 usc_title: 2
 usc_section: "2166"
 chapter: 30
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "2 U.S.C. § 2166"
-generated_at: "2026-03-29T22:31:03.789Z"
+generated_at: "2026-03-29T22:41:27.236Z"
 ---
 
 # § 2166. Repealed. Pub. L. 110–437, title IV, § 422(a) , Oct. 20, 2008 , 122 Stat. 4996

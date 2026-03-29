@@ -3,9 +3,9 @@ title: "Section 3346 - Time limitation"
 usc_title: 5
 usc_section: "3346"
 chapter: 33
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "5 U.S.C. § 3346"
-generated_at: "2026-03-29T22:30:58.773Z"
+generated_at: "2026-03-29T22:41:40.495Z"
 ---
 
 # § 3346. Time limitation

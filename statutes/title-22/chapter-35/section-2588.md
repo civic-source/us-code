@@ -3,9 +3,9 @@ title: "Section 2588 - Repealed. Pub. L. 105–277, div. G , subdiv. A, title XI
 usc_title: 22
 usc_section: "2588"
 chapter: 35
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "22 U.S.C. § 2588"
-generated_at: "2026-03-29T22:32:42.243Z"
+generated_at: "2026-03-29T22:43:26.224Z"
 ---
 
 # §§ 2585 to 2588. Repealed. Pub. L. 105–277, div. G , subdiv. A, title XII, § 1222, Oct. 21, 1998 , 112 Stat. 2681–768

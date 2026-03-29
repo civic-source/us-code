@@ -3,9 +3,9 @@ title: "Section 1383 - Complete withdrawal"
 usc_title: 29
 usc_section: "1383"
 chapter: 18
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "29 U.S.C. § 1383"
-generated_at: "2026-03-29T22:33:19.044Z"
+generated_at: "2026-03-29T22:43:40.349Z"
 ---
 
 # § 1383. Complete withdrawal

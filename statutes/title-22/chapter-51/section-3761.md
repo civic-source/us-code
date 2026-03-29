@@ -3,9 +3,9 @@ title: "Section 3761 - Settlement of claims generally"
 usc_title: 22
 usc_section: "3761"
 chapter: 51
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "22 U.S.C. § 3761"
-generated_at: "2026-03-29T22:32:42.305Z"
+generated_at: "2026-03-29T22:43:26.261Z"
 ---
 
 # § 3761. Settlement of claims generally

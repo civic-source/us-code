@@ -3,9 +3,9 @@ title: "Section 1903 - Grants, contracts, and cooperative agreements"
 usc_title: 30
 usc_section: "1903"
 chapter: 31
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "30 U.S.C. § 1903"
-generated_at: "2026-03-29T22:32:59.227Z"
+generated_at: "2026-03-29T22:43:38.466Z"
 ---
 
 # § 1903. Grants, contracts, and cooperative agreements

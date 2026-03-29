@@ -3,9 +3,9 @@ title: "Section 502 - Feeder organizations"
 usc_title: 26
 usc_section: "502"
 chapter: 1
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "26 U.S.C. § 502"
-generated_at: "2026-03-29T22:33:41.384Z"
+generated_at: "2026-03-29T22:43:54.430Z"
 ---
 
 # § 502. Feeder organizations

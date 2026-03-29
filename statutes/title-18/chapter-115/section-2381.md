@@ -3,9 +3,9 @@ title: "Section 2381 - Treason"
 usc_title: 18
 usc_section: "2381"
 chapter: 115
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "18 U.S.C. § 2381"
-generated_at: "2026-03-29T22:32:10.167Z"
+generated_at: "2026-03-29T22:43:11.595Z"
 ---
 
 # § 2381. Treason

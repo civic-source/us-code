@@ -3,9 +3,9 @@ title: "Section 1421q - Applicability of Federal laws"
 usc_title: 48
 usc_section: "1421q"
 chapter: 8
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "48 U.S.C. § 1421q"
-generated_at: "2026-03-29T22:35:19.376Z"
+generated_at: "2026-03-29T22:46:22.115Z"
 ---
 
 # § 1421q. Applicability of Federal laws

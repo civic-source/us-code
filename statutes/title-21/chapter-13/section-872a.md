@@ -3,9 +3,9 @@ title: "Section 872a - Public-private education program"
 usc_title: 21
 usc_section: "872a"
 chapter: 13
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "21 U.S.C. § 872a"
-generated_at: "2026-03-29T22:32:26.473Z"
+generated_at: "2026-03-29T22:43:34.561Z"
 ---
 
 # § 872a. Public-private education program

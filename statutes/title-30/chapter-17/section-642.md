@@ -3,9 +3,9 @@ title: "Section 642 - Exploration contracts"
 usc_title: 30
 usc_section: "642"
 chapter: 17
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "30 U.S.C. § 642"
-generated_at: "2026-03-29T22:32:59.152Z"
+generated_at: "2026-03-29T22:43:38.416Z"
 ---
 
 # § 642. Exploration contracts

@@ -3,9 +3,9 @@ title: "Section 583 - Payment of allowances, etc., incident to change of station
 usc_title: 33
 usc_section: "583"
 chapter: 12
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "33 U.S.C. § 583"
-generated_at: "2026-03-29T22:33:52.008Z"
+generated_at: "2026-03-29T22:44:19.615Z"
 ---
 
 # § 583. Payment of allowances, etc., incident to change of station of Engineer officers from appropriation for improvements

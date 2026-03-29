@@ -3,9 +3,9 @@ title: "Section 131 - Acquisition"
 usc_title: 41
 usc_section: "131"
 chapter: 1
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "41 U.S.C. § 131"
-generated_at: "2026-03-29T22:34:34.224Z"
+generated_at: "2026-03-29T22:44:43.371Z"
 ---
 
 # § 131. Acquisition

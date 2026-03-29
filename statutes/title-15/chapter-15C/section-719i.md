@@ -3,9 +3,9 @@ title: "Section 719i - Supplemental enforcement authority"
 usc_title: 15
 usc_section: "719i"
 chapter: 15
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "15 U.S.C. § 719i"
-generated_at: "2026-03-29T22:31:51.970Z"
+generated_at: "2026-03-29T22:42:31.653Z"
 ---
 
 # § 719i. Supplemental enforcement authority

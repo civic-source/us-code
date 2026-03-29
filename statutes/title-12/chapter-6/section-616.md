@@ -3,9 +3,9 @@ title: "Section 616 - Place of carrying on business; when business may be begun"
 usc_title: 12
 usc_section: "616"
 chapter: 6
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "12 U.S.C. § 616"
-generated_at: "2026-03-29T22:31:45.003Z"
+generated_at: "2026-03-29T22:42:25.251Z"
 ---
 
 # § 616. Place of carrying on business; when business may be begun

@@ -3,9 +3,9 @@ title: "Section 1442 - Price support and acreage requirements for corn and other
 usc_title: 7
 usc_section: "1442"
 chapter: 35
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "7 U.S.C. § 1442"
-generated_at: "2026-03-29T22:31:19.907Z"
+generated_at: "2026-03-29T22:41:59.070Z"
 ---
 
 # § 1442. Price support and acreage requirements for corn and other feed grains

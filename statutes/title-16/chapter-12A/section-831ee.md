@@ -3,9 +3,9 @@ title: "Section 831ee - Essential stewardship activities"
 usc_title: 16
 usc_section: "831ee"
 chapter: 12
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "16 U.S.C. § 831ee"
-generated_at: "2026-03-29T22:32:18.120Z"
+generated_at: "2026-03-29T22:42:48.941Z"
 ---
 
 # § 831ee. Essential stewardship activities

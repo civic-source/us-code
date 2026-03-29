@@ -3,9 +3,9 @@ title: "Section 5806 - Preemption"
 usc_title: 12
 usc_section: "5806"
 chapter: 55
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "12 U.S.C. § 5806"
-generated_at: "2026-03-29T22:31:45.438Z"
+generated_at: "2026-03-29T22:42:25.680Z"
 ---
 
 # § 5806. Preemption

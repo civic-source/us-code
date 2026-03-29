@@ -3,9 +3,9 @@ title: "Section 4401 - Findings"
 usc_title: 20
 usc_section: "4401"
 chapter: 56
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "20 U.S.C. § 4401"
-generated_at: "2026-03-29T22:32:02.883Z"
+generated_at: "2026-03-29T22:42:42.598Z"
 ---
 
 # § 4401. Findings

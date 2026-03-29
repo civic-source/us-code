@@ -3,9 +3,9 @@ title: "Section 271g - Authorization of appropriations"
 usc_title: 16
 usc_section: "271g"
 chapter: 1
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "16 U.S.C. § 271g"
-generated_at: "2026-03-29T22:32:17.768Z"
+generated_at: "2026-03-29T22:42:48.630Z"
 ---
 
 # § 271g. Authorization of appropriations

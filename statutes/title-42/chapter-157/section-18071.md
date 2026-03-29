@@ -3,9 +3,9 @@ title: "Section 18071 - Reduced cost-sharing for individuals enrolling in qualif
 usc_title: 42
 usc_section: "18071"
 chapter: 157
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "42 U.S.C. § 18071"
-generated_at: "2026-03-29T22:35:11.285Z"
+generated_at: "2026-03-29T22:45:59.636Z"
 ---
 
 # § 18071. Reduced cost-sharing for individuals enrolling in qualified health plans

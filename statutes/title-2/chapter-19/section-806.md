@@ -3,9 +3,9 @@ title: "Section 806 - Powers, functions, and limitations"
 usc_title: 2
 usc_section: "806"
 chapter: 19
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "2 U.S.C. § 806"
-generated_at: "2026-03-29T22:31:03.731Z"
+generated_at: "2026-03-29T22:41:27.176Z"
 ---
 
 # § 806. Powers, functions, and limitations

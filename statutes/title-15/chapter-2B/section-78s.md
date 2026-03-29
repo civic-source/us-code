@@ -3,9 +3,9 @@ title: "Section 78s - Registration, responsibilities, and oversight of self-regu
 usc_title: 15
 usc_section: "78s"
 chapter: 2
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "15 U.S.C. § 78s"
-generated_at: "2026-03-29T22:31:51.796Z"
+generated_at: "2026-03-29T22:42:31.468Z"
 ---
 
 # § 78s. Registration, responsibilities, and oversight of self-regulatory organizations

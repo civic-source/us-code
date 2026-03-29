@@ -3,9 +3,9 @@ title: "Section 296p - Nurse education, practice, quality, and retention grants"
 usc_title: 42
 usc_section: "296p"
 chapter: 6
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "42 U.S.C. § 296p"
-generated_at: "2026-03-29T22:35:09.487Z"
+generated_at: "2026-03-29T22:45:58.421Z"
 ---
 
 # § 296p. Nurse education, practice, quality, and retention grants

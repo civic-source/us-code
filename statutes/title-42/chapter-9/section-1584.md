@@ -3,9 +3,9 @@ title: "Section 1584 - Removal of all dwelling structures on land under Secretar
 usc_title: 42
 usc_section: "1584"
 chapter: 9
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "42 U.S.C. § 1584"
-generated_at: "2026-03-29T22:35:10.252Z"
+generated_at: "2026-03-29T22:45:58.928Z"
 ---
 
 # § 1584. Removal of all dwelling structures on land under Secretary’s control; temporary housing exempted; preference in fulfilling vacancies

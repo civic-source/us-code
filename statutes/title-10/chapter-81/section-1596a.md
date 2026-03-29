@@ -3,9 +3,9 @@ title: "Section 1596a - Foreign language proficiency: special pay for proficienc
 usc_title: 10
 usc_section: "1596a"
 chapter: 81
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "10 U.S.C. § 1596a"
-generated_at: "2026-03-29T22:31:32.758Z"
+generated_at: "2026-03-29T22:42:13.483Z"
 ---
 
 # § 1596a. Foreign language proficiency: special pay for proficiency beneficial for other national security interests

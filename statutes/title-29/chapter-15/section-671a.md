@@ -3,9 +3,9 @@ title: "Section 671a - Workers’ family protection"
 usc_title: 29
 usc_section: "671a"
 chapter: 15
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "29 U.S.C. § 671a"
-generated_at: "2026-03-29T22:33:18.934Z"
+generated_at: "2026-03-29T22:43:40.260Z"
 ---
 
 # § 671a. Workers’ family protection

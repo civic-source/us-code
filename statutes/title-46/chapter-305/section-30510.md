@@ -3,9 +3,9 @@ title: "Section 30510 - Vicarious liability for medical malpractice with regard 
 usc_title: 46
 usc_section: "30510"
 chapter: 305
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "46 U.S.C. § 30510"
-generated_at: "2026-03-29T22:35:50.618Z"
+generated_at: "2026-03-29T22:46:48.559Z"
 ---
 
 # § 30510. Vicarious liability for medical malpractice with regard to crew

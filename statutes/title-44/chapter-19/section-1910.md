@@ -3,9 +3,9 @@ title: "Section 1910 - Designations of replacement depositories; limitations on 
 usc_title: 44
 usc_section: "1910"
 chapter: 19
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "44 U.S.C. § 1910"
-generated_at: "2026-03-29T22:34:44.840Z"
+generated_at: "2026-03-29T22:44:42.803Z"
 ---
 
 # § 1910. Designations of replacement depositories; limitations on numbers; conditions

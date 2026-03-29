@@ -3,9 +3,9 @@ title: "Section 1552 - Criteria for long-range operation of reservoirs"
 usc_title: 43
 usc_section: "1552"
 chapter: 32
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "43 U.S.C. § 1552"
-generated_at: "2026-03-29T22:34:28.434Z"
+generated_at: "2026-03-29T22:45:06.594Z"
 ---
 
 # § 1552. Criteria for long-range operation of reservoirs

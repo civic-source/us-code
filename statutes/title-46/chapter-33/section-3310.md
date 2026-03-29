@@ -3,9 +3,9 @@ title: "Section 3310 - Records of certification"
 usc_title: 46
 usc_section: "3310"
 chapter: 33
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "46 U.S.C. § 3310"
-generated_at: "2026-03-29T22:35:50.571Z"
+generated_at: "2026-03-29T22:46:48.532Z"
 ---
 
 # § 3310. Records of certification

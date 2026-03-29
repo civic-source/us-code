@@ -3,9 +3,9 @@ title: "Section 60111 - Financial responsibility for liquefied natural gas facil
 usc_title: 49
 usc_section: "60111"
 chapter: 601
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "49 U.S.C. § 60111"
-generated_at: "2026-03-29T22:36:08.217Z"
+generated_at: "2026-03-29T22:46:20.369Z"
 ---
 
 # § 60111. Financial responsibility for liquefied natural gas facilities

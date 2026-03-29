@@ -3,9 +3,9 @@ title: "Section 26a - Restrictions on the purchase of gasohol and synthetic moto
 usc_title: 15
 usc_section: "26a"
 chapter: 1
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "15 U.S.C. § 26a"
-generated_at: "2026-03-29T22:31:51.708Z"
+generated_at: "2026-03-29T22:42:31.379Z"
 ---
 
 # § 26a. Restrictions on the purchase of gasohol and synthetic motor fuel

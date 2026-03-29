@@ -3,9 +3,9 @@ title: "Section 3108 - Consultations"
 usc_title: 19
 usc_section: "3108"
 chapter: 19
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "19 U.S.C. § 3108"
-generated_at: "2026-03-29T22:32:06.751Z"
+generated_at: "2026-03-29T22:43:03.670Z"
 ---
 
 # § 3108. Consultations

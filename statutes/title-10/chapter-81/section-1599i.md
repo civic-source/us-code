@@ -3,9 +3,9 @@ title: "Section 1599i - Recruitment incentives for placement at remote locations
 usc_title: 10
 usc_section: "1599i"
 chapter: 81
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "10 U.S.C. § 1599i"
-generated_at: "2026-03-29T22:31:32.760Z"
+generated_at: "2026-03-29T22:42:13.486Z"
 ---
 
 # § 1599i. Recruitment incentives for placement at remote locations

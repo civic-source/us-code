@@ -3,9 +3,9 @@ title: "Section 286vv - Capital stock increases"
 usc_title: 22
 usc_section: "286vv"
 chapter: 7
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "22 U.S.C. § 286vv"
-generated_at: "2026-03-29T22:32:42.104Z"
+generated_at: "2026-03-29T22:43:26.135Z"
 ---
 
 # § 286vv. Capital stock increases

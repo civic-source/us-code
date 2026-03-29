@@ -3,9 +3,9 @@ title: "Section 3391 - Repealed. Pub. L. 116–113, title VI, § 601 , Jan. 29, 
 usc_title: 19
 usc_section: "3391"
 chapter: 21
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "19 U.S.C. § 3391"
-generated_at: "2026-03-29T22:32:06.754Z"
+generated_at: "2026-03-29T22:43:03.673Z"
 ---
 
 # § 3391. Repealed. Pub. L. 116–113, title VI, § 601 , Jan. 29, 2020 , 134 Stat. 78

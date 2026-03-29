@@ -3,9 +3,9 @@ title: "Section 226 - Repealed. May 21, 1934, ch. 321 , 48 Stat. 787"
 usc_title: 25
 usc_section: "226"
 chapter: 6
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "25 U.S.C. § 226"
-generated_at: "2026-03-29T22:32:28.755Z"
+generated_at: "2026-03-29T22:43:16.756Z"
 ---
 
 # §§ 219 to 226. Repealed. May 21, 1934, ch. 321 , 48 Stat. 787

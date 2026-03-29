@@ -3,9 +3,9 @@ title: "Section 20333 - Specialized technical assistance and training programs"
 usc_title: 34
 usc_section: "20333"
 chapter: 203
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "34 U.S.C. § 20333"
-generated_at: "2026-03-29T22:33:56.979Z"
+generated_at: "2026-03-29T22:44:17.717Z"
 ---
 
 # § 20333. Specialized technical assistance and training programs

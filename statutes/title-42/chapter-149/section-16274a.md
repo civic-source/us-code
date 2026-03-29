@@ -3,9 +3,9 @@ title: "Section 16274a - University Nuclear Leadership Program"
 usc_title: 42
 usc_section: "16274a"
 chapter: 149
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "42 U.S.C. § 16274a"
-generated_at: "2026-03-29T22:35:11.190Z"
+generated_at: "2026-03-29T22:45:59.575Z"
 ---
 
 # § 16274a. University Nuclear Leadership Program

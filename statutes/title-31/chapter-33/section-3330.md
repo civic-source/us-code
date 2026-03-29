@@ -3,9 +3,9 @@ title: "Section 3330 - Payment of Department of Veterans Affairs checks for the 
 usc_title: 31
 usc_section: "3330"
 chapter: 33
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "31 U.S.C. § 3330"
-generated_at: "2026-03-29T22:33:48.777Z"
+generated_at: "2026-03-29T22:44:04.999Z"
 ---
 
 # § 3330. Payment of Department of Veterans Affairs checks for the benefit of individuals in foreign countries

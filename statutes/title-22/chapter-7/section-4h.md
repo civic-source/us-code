@@ -3,9 +3,9 @@ title: "Section 4h - Discussions to increase productive economic participation o
 usc_title: 22
 usc_section: "4h"
 chapter: 7
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "22 U.S.C. § 4h"
-generated_at: "2026-03-29T22:32:42.070Z"
+generated_at: "2026-03-29T22:43:26.113Z"
 ---
 
 # § 262p–4h. Discussions to increase productive economic participation of poor; reports

@@ -3,9 +3,9 @@ title: "Section 622 - Contracts, etc., with private industry for implementation 
 usc_title: 33
 usc_section: "622"
 chapter: 12
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "33 U.S.C. § 622"
-generated_at: "2026-03-29T22:33:52.010Z"
+generated_at: "2026-03-29T22:44:19.617Z"
 ---
 
 # § 622. Contracts, etc., with private industry for implementation of projects for improvements and dredging; reduction of federally owned fleet

@@ -3,9 +3,9 @@ title: "Section 3506 - Price reductions for defective cost or pricing data"
 usc_title: 41
 usc_section: "3506"
 chapter: 35
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "41 U.S.C. § 3506"
-generated_at: "2026-03-29T22:34:34.246Z"
+generated_at: "2026-03-29T22:44:43.383Z"
 ---
 
 # § 3506. Price reductions for defective cost or pricing data

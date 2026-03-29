@@ -3,9 +3,9 @@ title: "Section 18813 - Leveraging Smart Manufacturing Infrastructure at Nationa
 usc_title: 42
 usc_section: "18813"
 chapter: 162
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "42 U.S.C. § 18813"
-generated_at: "2026-03-29T22:35:11.315Z"
+generated_at: "2026-03-29T22:45:59.655Z"
 ---
 
 # § 18813. Leveraging Smart Manufacturing Infrastructure at National Laboratories

@@ -3,9 +3,9 @@ title: "Section 2740 - Property loss: reimbursement of members and civilian empl
 usc_title: 10
 usc_section: "2740"
 chapter: 163
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "10 U.S.C. § 2740"
-generated_at: "2026-03-29T22:31:32.840Z"
+generated_at: "2026-03-29T22:42:13.559Z"
 ---
 
 # § 2740. Property loss: reimbursement of members and civilian employees for full replacement value of household effects when contractor reimbursement not available

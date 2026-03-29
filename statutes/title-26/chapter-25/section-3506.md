@@ -3,9 +3,9 @@ title: "Section 3506 - Individuals providing companion sitting placement service
 usc_title: 26
 usc_section: "3506"
 chapter: 25
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "26 U.S.C. § 3506"
-generated_at: "2026-03-29T22:33:41.610Z"
+generated_at: "2026-03-29T22:43:54.572Z"
 ---
 
 # § 3506. Individuals providing companion sitting placement services

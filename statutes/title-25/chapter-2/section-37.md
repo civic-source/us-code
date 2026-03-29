@@ -3,9 +3,9 @@ title: "Section 37 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 St
 usc_title: 25
 usc_section: "37"
 chapter: 2
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "25 U.S.C. § 37"
-generated_at: "2026-03-29T22:32:28.747Z"
+generated_at: "2026-03-29T22:43:16.749Z"
 ---
 
 # § 37. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 633 , 641

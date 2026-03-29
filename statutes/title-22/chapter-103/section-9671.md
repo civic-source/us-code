@@ -3,9 +3,9 @@ title: "Section 9671 - Limitations and preferences"
 usc_title: 22
 usc_section: "9671"
 chapter: 103
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "22 U.S.C. § 9671"
-generated_at: "2026-03-29T22:32:42.505Z"
+generated_at: "2026-03-29T22:43:26.391Z"
 ---
 
 # § 9671. Limitations and preferences

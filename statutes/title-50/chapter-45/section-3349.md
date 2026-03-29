@@ -3,9 +3,9 @@ title: "Section 3349 - Notification regarding the authorized public disclosure o
 usc_title: 50
 usc_section: "3349"
 chapter: 45
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "50 U.S.C. § 3349"
-generated_at: "2026-03-29T22:35:28.982Z"
+generated_at: "2026-03-29T22:46:14.798Z"
 ---
 
 # § 3349. Notification regarding the authorized public disclosure of national intelligence

@@ -3,9 +3,9 @@ title: "Section 3223 - Grants for acquisition and improvement of research facili
 usc_title: 7
 usc_section: "3223"
 chapter: 64
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "7 U.S.C. § 3223"
-generated_at: "2026-03-29T22:31:20.097Z"
+generated_at: "2026-03-29T22:41:59.252Z"
 ---
 
 # § 3223. Grants for acquisition and improvement of research facilities and equipment

@@ -3,9 +3,9 @@ title: "Section 1477a - Omitted"
 usc_title: 22
 usc_section: "1477a"
 chapter: 18
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "22 U.S.C. § 1477a"
-generated_at: "2026-03-29T22:32:42.141Z"
+generated_at: "2026-03-29T22:43:26.159Z"
 ---
 
 # § 1477a. Omitted

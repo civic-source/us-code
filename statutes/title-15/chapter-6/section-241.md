@@ -3,9 +3,9 @@ title: "Section 241 - Penalty for selling lime in unmarked barrels and container
 usc_title: 15
 usc_section: "241"
 chapter: 6
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "15 U.S.C. § 241"
-generated_at: "2026-03-29T22:31:51.854Z"
+generated_at: "2026-03-29T22:42:31.528Z"
 ---
 
 # § 241. Penalty for selling lime in unmarked barrels and containers

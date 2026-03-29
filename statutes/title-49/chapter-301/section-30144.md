@@ -3,9 +3,9 @@ title: "Section 30144 - Importing motor vehicles on a temporary basis"
 usc_title: 49
 usc_section: "30144"
 chapter: 301
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "49 U.S.C. § 30144"
-generated_at: "2026-03-29T22:36:08.070Z"
+generated_at: "2026-03-29T22:46:20.276Z"
 ---
 
 # § 30144. Importing motor vehicles on a temporary basis

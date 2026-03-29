@@ -3,9 +3,9 @@ title: "Section 969 - Contempt proceedings"
 usc_title: 21
 usc_section: "969"
 chapter: 13
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "21 U.S.C. § 969"
-generated_at: "2026-03-29T22:32:26.480Z"
+generated_at: "2026-03-29T22:43:34.567Z"
 ---
 
 # § 969. Contempt proceedings

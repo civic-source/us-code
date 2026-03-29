@@ -3,9 +3,9 @@ title: "Section 220307 - Tax exemption"
 usc_title: 36
 usc_section: "220307"
 chapter: 2203
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "36 U.S.C. § 220307"
-generated_at: "2026-03-29T22:34:03.654Z"
+generated_at: "2026-03-29T22:44:38.405Z"
 ---
 
 # § 220307. Tax exemption

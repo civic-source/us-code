@@ -3,9 +3,9 @@ title: "Section 4104 - Acquisition of unmanned maritime systems"
 usc_title: 33
 usc_section: "4104"
 chapter: 54
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "33 U.S.C. § 4104"
-generated_at: "2026-03-29T22:33:52.227Z"
+generated_at: "2026-03-29T22:44:19.748Z"
 ---
 
 # § 4104. Acquisition of unmanned maritime systems

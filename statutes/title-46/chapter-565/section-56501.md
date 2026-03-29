@@ -3,9 +3,9 @@ title: "Section 56501 - Definition"
 usc_title: 46
 usc_section: "56501"
 chapter: 565
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "46 U.S.C. § 56501"
-generated_at: "2026-03-29T22:35:50.664Z"
+generated_at: "2026-03-29T22:46:48.595Z"
 ---
 
 # § 56501. Definition

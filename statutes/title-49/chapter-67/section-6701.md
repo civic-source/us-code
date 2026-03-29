@@ -3,9 +3,9 @@ title: "Section 6701 - National infrastructure project assistance"
 usc_title: 49
 usc_section: "6701"
 chapter: 67
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "49 U.S.C. § 6701"
-generated_at: "2026-03-29T22:36:07.992Z"
+generated_at: "2026-03-29T22:46:20.225Z"
 ---
 
 # § 6701. National infrastructure project assistance

@@ -3,9 +3,9 @@ title: "Section 1372 - Partnership rules to apply for fringe benefit purposes"
 usc_title: 26
 usc_section: "1372"
 chapter: 1
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "26 U.S.C. § 1372"
-generated_at: "2026-03-29T22:33:41.541Z"
+generated_at: "2026-03-29T22:43:54.527Z"
 ---
 
 # § 1372. Partnership rules to apply for fringe benefit purposes

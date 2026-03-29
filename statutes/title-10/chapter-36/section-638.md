@@ -3,9 +3,9 @@ title: "Section 638 - Selective early retirement"
 usc_title: 10
 usc_section: "638"
 chapter: 36
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "10 U.S.C. § 638"
-generated_at: "2026-03-29T22:31:32.632Z"
+generated_at: "2026-03-29T22:42:13.362Z"
 ---
 
 # § 638. Selective early retirement

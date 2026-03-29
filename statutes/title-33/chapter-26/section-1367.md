@@ -3,9 +3,9 @@ title: "Section 1367 - Employee protection"
 usc_title: 33
 usc_section: "1367"
 chapter: 26
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "33 U.S.C. § 1367"
-generated_at: "2026-03-29T22:33:52.115Z"
+generated_at: "2026-03-29T22:44:19.678Z"
 ---
 
 # § 1367. Employee protection

@@ -3,9 +3,9 @@ title: "Section 1035 - Certain exchanges of insurance policies"
 usc_title: 26
 usc_section: "1035"
 chapter: 1
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "26 U.S.C. § 1035"
-generated_at: "2026-03-29T22:33:41.501Z"
+generated_at: "2026-03-29T22:43:54.501Z"
 ---
 
 # § 1035. Certain exchanges of insurance policies

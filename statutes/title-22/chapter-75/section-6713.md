@@ -3,9 +3,9 @@ title: "Section 6713 - Civil liability of United States"
 usc_title: 22
 usc_section: "6713"
 chapter: 75
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "22 U.S.C. § 6713"
-generated_at: "2026-03-29T22:32:42.402Z"
+generated_at: "2026-03-29T22:43:26.327Z"
 ---
 
 # § 6713. Civil liability of United States

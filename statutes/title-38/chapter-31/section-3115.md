@@ -3,9 +3,9 @@ title: "Section 3115 - Rehabilitation resources"
 usc_title: 38
 usc_section: "3115"
 chapter: 31
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "38 U.S.C. § 3115"
-generated_at: "2026-03-29T22:34:08.188Z"
+generated_at: "2026-03-29T22:44:36.505Z"
 ---
 
 # § 3115. Rehabilitation resources

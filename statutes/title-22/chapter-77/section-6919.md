@@ -3,9 +3,9 @@ title: "Section 6919 - Printing and binding costs"
 usc_title: 22
 usc_section: "6919"
 chapter: 77
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "22 U.S.C. § 6919"
-generated_at: "2026-03-29T22:32:42.409Z"
+generated_at: "2026-03-29T22:43:26.331Z"
 ---
 
 # § 6919. Printing and binding costs

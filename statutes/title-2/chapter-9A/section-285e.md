@@ -3,9 +3,9 @@ title: "Section 285e - Compensation"
 usc_title: 2
 usc_section: "285e"
 chapter: 9
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "2 U.S.C. § 285e"
-generated_at: "2026-03-29T22:31:03.707Z"
+generated_at: "2026-03-29T22:41:27.149Z"
 ---
 
 # § 285e. Compensation

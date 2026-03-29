@@ -3,9 +3,9 @@ title: "Section 3007 - Penalty"
 usc_title: 25
 usc_section: "3007"
 chapter: 32
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "25 U.S.C. § 3007"
-generated_at: "2026-03-29T22:32:28.875Z"
+generated_at: "2026-03-29T22:43:16.847Z"
 ---
 
 # § 3007. Penalty

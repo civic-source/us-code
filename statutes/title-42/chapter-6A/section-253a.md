@@ -3,9 +3,9 @@ title: "Section 253a - Medical services to retired personnel of National Oceanic
 usc_title: 42
 usc_section: "253a"
 chapter: 6
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "42 U.S.C. § 253a"
-generated_at: "2026-03-29T22:35:09.305Z"
+generated_at: "2026-03-29T22:45:58.291Z"
 ---
 
 # § 253a. Medical services to retired personnel of National Oceanic and Atmospheric Administration

@@ -3,9 +3,9 @@ title: "Section 641 - Definitions"
 usc_title: 47
 usc_section: "641"
 chapter: 5
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "47 U.S.C. § 641"
-generated_at: "2026-03-29T22:35:21.284Z"
+generated_at: "2026-03-29T22:46:35.343Z"
 ---
 
 # § 641. Definitions

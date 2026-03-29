@@ -3,9 +3,9 @@ title: "Section 3334d - Cyber protection support for the personnel of the intell
 usc_title: 50
 usc_section: "3334d"
 chapter: 45
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "50 U.S.C. § 3334d"
-generated_at: "2026-03-29T22:35:28.977Z"
+generated_at: "2026-03-29T22:46:14.795Z"
 ---
 
 # § 3334d. Cyber protection support for the personnel of the intelligence community in positions highly vulnerable to cyber attack

@@ -3,9 +3,9 @@ title: "Section 53406 - Payments"
 usc_title: 46
 usc_section: "53406"
 chapter: 534
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "46 U.S.C. § 53406"
-generated_at: "2026-03-29T22:35:50.647Z"
+generated_at: "2026-03-29T22:46:48.583Z"
 ---
 
 # § 53406. Payments

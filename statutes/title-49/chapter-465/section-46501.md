@@ -3,9 +3,9 @@ title: "Section 46501 - Definitions"
 usc_title: 49
 usc_section: "46501"
 chapter: 465
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "49 U.S.C. § 46501"
-generated_at: "2026-03-29T22:36:08.183Z"
+generated_at: "2026-03-29T22:46:20.345Z"
 ---
 
 # § 46501. Definitions

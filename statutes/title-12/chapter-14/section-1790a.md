@@ -3,9 +3,9 @@ title: "Section 1790a - Board disapproval of directors, committee members, and s
 usc_title: 12
 usc_section: "1790a"
 chapter: 14
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "12 U.S.C. § 1790a"
-generated_at: "2026-03-29T22:31:45.158Z"
+generated_at: "2026-03-29T22:42:25.403Z"
 ---
 
 # § 1790a. Board disapproval of directors, committee members, and senior executive officers of insured credit unions

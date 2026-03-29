@@ -3,9 +3,9 @@ title: "Section 3684A - Procedures relating to computer matching program"
 usc_title: 38
 usc_section: "3684A"
 chapter: 36
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "38 U.S.C. § 3684A"
-generated_at: "2026-03-29T22:34:08.207Z"
+generated_at: "2026-03-29T22:44:36.519Z"
 ---
 
 # § 3684A. Procedures relating to computer matching program

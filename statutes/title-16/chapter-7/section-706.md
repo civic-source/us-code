@@ -3,9 +3,9 @@ title: "Section 706 - Arrests; search warrants"
 usc_title: 16
 usc_section: "706"
 chapter: 7
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "16 U.S.C. § 706"
-generated_at: "2026-03-29T22:32:18.070Z"
+generated_at: "2026-03-29T22:42:48.895Z"
 ---
 
 # § 706. Arrests; search warrants

@@ -3,9 +3,9 @@ title: "Section 4065 - Voluntary contribution account"
 usc_title: 22
 usc_section: "4065"
 chapter: 52
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "22 U.S.C. § 4065"
-generated_at: "2026-03-29T22:32:42.326Z"
+generated_at: "2026-03-29T22:43:26.274Z"
 ---
 
 # § 4065. Voluntary contribution account

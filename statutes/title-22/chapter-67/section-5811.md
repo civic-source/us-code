@@ -3,9 +3,9 @@ title: "Section 5811 - Findings"
 usc_title: 22
 usc_section: "5811"
 chapter: 67
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "22 U.S.C. § 5811"
-generated_at: "2026-03-29T22:32:42.368Z"
+generated_at: "2026-03-29T22:43:26.305Z"
 ---
 
 # § 5811. Findings

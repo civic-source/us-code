@@ -3,9 +3,9 @@ title: "Section 350j - Targeting of inspection resources for domestic facilities
 usc_title: 21
 usc_section: "350j"
 chapter: 9
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "21 U.S.C. § 350j"
-generated_at: "2026-03-29T22:32:26.322Z"
+generated_at: "2026-03-29T22:43:34.433Z"
 ---
 
 # § 350j. Targeting of inspection resources for domestic facilities, foreign facilities, and ports of entry; annual report

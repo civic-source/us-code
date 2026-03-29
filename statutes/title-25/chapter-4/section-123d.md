@@ -3,9 +3,9 @@ title: "Section 123d - Additional appropriations from tribal funds"
 usc_title: 25
 usc_section: "123d"
 chapter: 4
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "25 U.S.C. § 123d"
-generated_at: "2026-03-29T22:32:28.751Z"
+generated_at: "2026-03-29T22:43:16.752Z"
 ---
 
 # § 123d. Additional appropriations from tribal funds

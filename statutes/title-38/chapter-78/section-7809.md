@@ -3,9 +3,9 @@ title: "Section 7809 - Child-care centers"
 usc_title: 38
 usc_section: "7809"
 chapter: 78
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "38 U.S.C. § 7809"
-generated_at: "2026-03-29T22:34:08.282Z"
+generated_at: "2026-03-29T22:44:36.576Z"
 ---
 
 # § 7809. Child-care centers

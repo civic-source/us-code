@@ -3,9 +3,9 @@ title: "Section 405 - Reservation for park and camp sites"
 usc_title: 16
 usc_section: "405"
 chapter: 1
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "16 U.S.C. § 405"
-generated_at: "2026-03-29T22:32:17.787Z"
+generated_at: "2026-03-29T22:42:48.648Z"
 ---
 
 # § 405. Reservation for park and camp sites

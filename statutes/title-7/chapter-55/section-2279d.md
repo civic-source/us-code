@@ -3,9 +3,9 @@ title: "Section 2279d - Compensatory damages in claims under Rehabilitation Act 
 usc_title: 7
 usc_section: "2279d"
 chapter: 55
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "7 U.S.C. § 2279d"
-generated_at: "2026-03-29T22:31:20.067Z"
+generated_at: "2026-03-29T22:41:59.221Z"
 ---
 
 # § 2279d. Compensatory damages in claims under Rehabilitation Act of 1973

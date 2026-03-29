@@ -3,9 +3,9 @@ title: "Section 6 - Jurisdiction over the Area"
 usc_title: 16
 usc_section: "6"
 chapter: 2
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-03-29T22:32:17.999Z"
+generated_at: "2026-03-29T22:42:48.835Z"
 ---
 
 # § 539m–6. Jurisdiction over the Area

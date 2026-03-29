@@ -3,9 +3,9 @@ title: "Section 1j - Additional increase in capital stock of Bank; subscription 
 usc_title: 22
 usc_section: "1j"
 chapter: 7
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "22 U.S.C. § 1j"
-generated_at: "2026-03-29T22:32:42.098Z"
+generated_at: "2026-03-29T22:43:26.131Z"
 ---
 
 # § 286e–1j. Additional increase in capital stock of Bank; subscription to additional shares; authorization of appropriations

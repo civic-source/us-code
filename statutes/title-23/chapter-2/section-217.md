@@ -3,9 +3,9 @@ title: "Section 217 - Bicycle transportation and pedestrian walkways"
 usc_title: 23
 usc_section: "217"
 chapter: 2
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "23 U.S.C. § 217"
-generated_at: "2026-03-29T22:32:48.917Z"
+generated_at: "2026-03-29T22:43:18.629Z"
 ---
 
 # § 217. Bicycle transportation and pedestrian walkways

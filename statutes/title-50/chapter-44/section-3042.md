@@ -3,9 +3,9 @@ title: "Section 3042 - Repealed. Pub. L. 116–92, div. E, title LXVII, § 6742(
 usc_title: 50
 usc_section: "3042"
 chapter: 44
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "50 U.S.C. § 3042"
-generated_at: "2026-03-29T22:35:28.948Z"
+generated_at: "2026-03-29T22:46:14.773Z"
 ---
 
 # § 3042. Repealed. Pub. L. 116–92, div. E, title LXVII, § 6742(b)(3) , Dec. 20, 2019 , 133 Stat. 2240

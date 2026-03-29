@@ -3,9 +3,9 @@ title: "Section 522 - Law enforcement"
 usc_title: 14
 usc_section: "522"
 chapter: 5
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "14 U.S.C. § 522"
-generated_at: "2026-03-29T22:31:37.556Z"
+generated_at: "2026-03-29T22:42:18.823Z"
 ---
 
 # § 522. Law enforcement

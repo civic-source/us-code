@@ -3,9 +3,9 @@ title: "Section 773 - Resurveys or retracements of township lines, etc."
 usc_title: 43
 usc_section: "773"
 chapter: 18
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "43 U.S.C. § 773"
-generated_at: "2026-03-29T22:34:28.399Z"
+generated_at: "2026-03-29T22:45:06.567Z"
 ---
 
 # § 773. Resurveys or retracements of township lines, etc.

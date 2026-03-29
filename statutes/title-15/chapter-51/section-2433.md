@@ -3,9 +3,9 @@ title: "Section 2433 - Support of external activities"
 usc_title: 15
 usc_section: "2433"
 chapter: 51
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "15 U.S.C. § 2433"
-generated_at: "2026-03-29T22:31:52.116Z"
+generated_at: "2026-03-29T22:42:31.799Z"
 ---
 
 # § 2433. Support of external activities

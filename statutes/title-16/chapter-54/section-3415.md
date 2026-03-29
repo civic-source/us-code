@@ -3,9 +3,9 @@ title: "Section 3415 - Repealed. Pub. L. 104–66, title I, § 1011(p) , Dec. 21
 usc_title: 16
 usc_section: "3415"
 chapter: 54
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "16 U.S.C. § 3415"
-generated_at: "2026-03-29T22:32:18.300Z"
+generated_at: "2026-03-29T22:42:49.091Z"
 ---
 
 # § 3415. Repealed. Pub. L. 104–66, title I, § 1011(p) , Dec. 21, 1995 , 109 Stat. 710

@@ -3,9 +3,9 @@ title: "Section 1395z - Consultation with State agencies and other organizations
 usc_title: 42
 usc_section: "1395z"
 chapter: 7
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "42 U.S.C. § 1395z"
-generated_at: "2026-03-29T22:35:10.003Z"
+generated_at: "2026-03-29T22:45:58.765Z"
 ---
 
 # § 1395z. Consultation with State agencies and other organizations to develop conditions of participation for providers of services

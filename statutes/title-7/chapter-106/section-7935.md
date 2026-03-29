@@ -3,9 +3,9 @@ title: "Section 7935 - Loan deficiency payments"
 usc_title: 7
 usc_section: "7935"
 chapter: 106
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "7 U.S.C. § 7935"
-generated_at: "2026-03-29T22:31:20.233Z"
+generated_at: "2026-03-29T22:41:59.376Z"
 ---
 
 # § 7935. Loan deficiency payments

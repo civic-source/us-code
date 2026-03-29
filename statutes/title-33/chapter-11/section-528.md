@@ -3,9 +3,9 @@ title: "Section 528 - Statement of construction costs of privately owned interst
 usc_title: 33
 usc_section: "528"
 chapter: 11
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "33 U.S.C. § 528"
-generated_at: "2026-03-29T22:33:52.000Z"
+generated_at: "2026-03-29T22:44:19.609Z"
 ---
 
 # § 528. Statement of construction costs of privately owned interstate bridges; investigation of costs; conclusiveness of findings; review

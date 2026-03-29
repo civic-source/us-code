@@ -3,9 +3,9 @@ title: "Section 4263 - United States leadership in international FORA"
 usc_title: 33
 usc_section: "4263"
 chapter: 55
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "33 U.S.C. § 4263"
-generated_at: "2026-03-29T22:33:52.231Z"
+generated_at: "2026-03-29T22:44:19.750Z"
 ---
 
 # § 4263. United States leadership in international FORA

@@ -3,9 +3,9 @@ title: "Section 1151 - Definitions"
 usc_title: 16
 usc_section: "1151"
 chapter: 24
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "16 U.S.C. § 1151"
-generated_at: "2026-03-29T22:32:18.155Z"
+generated_at: "2026-03-29T22:42:48.970Z"
 ---
 
 # § 1151. Definitions

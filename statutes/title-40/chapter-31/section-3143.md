@@ -3,9 +3,9 @@ title: "Section 3143 - Termination of work on failure to pay agreed wages"
 usc_title: 40
 usc_section: "3143"
 chapter: 31
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "40 U.S.C. § 3143"
-generated_at: "2026-03-29T22:34:01.569Z"
+generated_at: "2026-03-29T22:44:22.483Z"
 ---
 
 # § 3143. Termination of work on failure to pay agreed wages

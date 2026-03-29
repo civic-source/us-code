@@ -3,9 +3,9 @@ title: "Section 4891 - Improved national defense control of technology diversion
 usc_title: 10
 usc_section: "4891"
 chapter: 385
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "10 U.S.C. § 4891"
-generated_at: "2026-03-29T22:31:32.919Z"
+generated_at: "2026-03-29T22:42:13.626Z"
 ---
 
 # § 4891. Improved national defense control of technology diversions overseas

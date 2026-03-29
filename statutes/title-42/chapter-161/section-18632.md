@@ -3,9 +3,9 @@ title: "Section 18632 - Energy Innovation Hubs"
 usc_title: 42
 usc_section: "18632"
 chapter: 161
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "42 U.S.C. § 18632"
-generated_at: "2026-03-29T22:35:11.299Z"
+generated_at: "2026-03-29T22:45:59.644Z"
 ---
 
 # § 18632. Energy Innovation Hubs

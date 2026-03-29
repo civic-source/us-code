@@ -3,9 +3,9 @@ title: "Section 1850 - Compensation of registered nurses"
 usc_title: 2
 usc_section: "1850"
 chapter: 28
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "2 U.S.C. § 1850"
-generated_at: "2026-03-29T22:31:03.772Z"
+generated_at: "2026-03-29T22:41:27.217Z"
 ---
 
 # § 1850. Compensation of registered nurses

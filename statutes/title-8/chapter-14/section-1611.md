@@ -3,9 +3,9 @@ title: "Section 1611 - Aliens who are not qualified aliens ineligible for Federa
 usc_title: 8
 usc_section: "1611"
 chapter: 14
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "8 U.S.C. § 1611"
-generated_at: "2026-03-29T22:31:12.915Z"
+generated_at: "2026-03-29T22:41:48.567Z"
 ---
 
 # § 1611. Aliens who are not qualified aliens ineligible for Federal public benefits

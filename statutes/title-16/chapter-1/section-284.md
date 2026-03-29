@@ -3,9 +3,9 @@ title: "Section 284 - Establishment; statement of purposes; description; acquisi
 usc_title: 16
 usc_section: "284"
 chapter: 1
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "16 U.S.C. § 284"
-generated_at: "2026-03-29T22:32:17.771Z"
+generated_at: "2026-03-29T22:42:48.632Z"
 ---
 
 # § 284. Establishment; statement of purposes; description; acquisition of property; acreage limitation

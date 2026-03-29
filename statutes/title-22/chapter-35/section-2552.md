@@ -3,9 +3,9 @@ title: "Section 2552 - Definitions"
 usc_title: 22
 usc_section: "2552"
 chapter: 35
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "22 U.S.C. § 2552"
-generated_at: "2026-03-29T22:32:42.242Z"
+generated_at: "2026-03-29T22:43:26.223Z"
 ---
 
 # § 2552. Definitions

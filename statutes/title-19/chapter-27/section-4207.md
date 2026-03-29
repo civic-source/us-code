@@ -3,9 +3,9 @@ title: "Section 4207 - Sovereignty"
 usc_title: 19
 usc_section: "4207"
 chapter: 27
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "19 U.S.C. § 4207"
-generated_at: "2026-03-29T22:32:06.793Z"
+generated_at: "2026-03-29T22:43:03.697Z"
 ---
 
 # § 4207. Sovereignty

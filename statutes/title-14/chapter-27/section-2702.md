@@ -3,9 +3,9 @@ title: "Section 2702 - Training"
 usc_title: 14
 usc_section: "2702"
 chapter: 27
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "14 U.S.C. § 2702"
-generated_at: "2026-03-29T22:31:37.581Z"
+generated_at: "2026-03-29T22:42:18.844Z"
 ---
 
 # § 2702. Training

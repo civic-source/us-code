@@ -3,9 +3,9 @@ title: "Section 210102 - Purposes"
 usc_title: 36
 usc_section: "210102"
 chapter: 2101
-current_through: "PL 117-125"
+current_through: "PL 117-129"
 classification: "36 U.S.C. § 210102"
-generated_at: "2026-03-29T22:34:03.652Z"
+generated_at: "2026-03-29T22:44:38.403Z"
 ---
 
 # § 210102. Purposes
