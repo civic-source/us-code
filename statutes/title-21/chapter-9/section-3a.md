@@ -3,14 +3,14 @@ title: "Section 3a - Hiring authority for scientific, technical, and professiona
 usc_title: 21
 usc_section: "3a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "21 U.S.C. § 3a"
-generated_at: "2026-03-29T20:04:50.502Z"
+generated_at: "2026-03-29T20:32:52.552Z"
 ---
 
 # § 379d–3a. Hiring authority for scientific, technical, and professional personnel
 
-- **(a)** The Secretary may, notwithstanding title 5, governing appointments in the competitive service, appoint outstanding and qualified candidates to scientific, technical, or professional positions, including cross-cutting operational positions, that support the development, review, and regulation of medical products and the regulation of food and cosmetics. Such positions shall be within the competitive service.
+- **(a)** The Secretary may, notwithstanding title 5, governing appointments in the competitive service, appoint outstanding and qualified candidates to scientific, technical, or professional positions that support the development, review, and regulation of medical products. Such positions shall be within the competitive service.
 - **(b)**
   - **(1)** Notwithstanding any other provision of law, including any requirement with respect to General Schedule pay rates under subchapter III of chapter 53 of title 5, and consistent with the requirements of paragraph (2), the Commissioner of Food and Drugs may determine and set—
     - **(A)** the annual rate of pay of any individual appointed under subsection (a); and
@@ -19,10 +19,9 @@ generated_at: "2026-03-29T20:04:50.502Z"
   - **(3)** The annual rate of pay provided to an individual in accordance with this section shall be publicly available information.
 - **(c)** The authorities under this section shall not be construed to affect the authority provided under section 379d–3 of this title .
 - **(d)**
-  - **(1)** Not later than 18 months after December 29, 2022 , the Secretary shall submit a report on workforce planning to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives that includes—
-    - **(A)** an updated analysis of the workforce needs at the Food and Drug Administration and the Secretary’s strategic plan for addressing such needs, including through use of the authority under this section;
-    - **(B)** an analysis of how the Secretary has used the authorities provided under this section, and a plan for how the Secretary will use the authority under this section, and other applicable hiring authorities, for employees of the Food and Drug Administration; and
-    - **(C)** an updated recruitment and retention plan for hiring qualified scientific, technical, and professional candidates, which may include the use of—
+  - **(1)** Not later than 18 months after December 13, 2016 , the Secretary shall submit a report on workforce planning to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives that examines the extent to which the Food and Drug Administration has a critical need for qualified individuals for scientific, technical, or professional positions, including—
+    - **(A)** an analysis of the workforce needs at the Food and Drug Administration and the Secretary’s strategic plan for addressing such needs, including through use of the authority under this section; and
+    - **(B)** a recruitment and retention plan for hiring qualified scientific, technical, and professional candidates, which may include the use of—
       - **(i)** recruitment through nongovernmental recruitment or placement agencies;
       - **(ii)** recruitment through academic institutions;
       - **(iii)** recruitment or hiring bonuses, if applicable;

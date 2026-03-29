@@ -3,9 +3,9 @@ title: "Section 765 - Disability, Independent Living, and Rehabilitation Researc
 usc_title: 29
 usc_section: "765"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "29 U.S.C. § 765"
-generated_at: "2026-03-29T20:05:03.664Z"
+generated_at: "2026-03-29T20:33:05.691Z"
 ---
 
 # § 765. Disability, Independent Living, and Rehabilitation Research Advisory Council
@@ -24,4 +24,4 @@ generated_at: "2026-03-29T20:05:03.664Z"
   - **(2)** Each member of the Council may receive travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for employees serving intermittently in the Government service, for each day the member is engaged in the performance of duties away from the home or regular place of business of the member.
 - **(g)** On the request of the Council, the Secretary may detail, with or without reimbursement, any of the personnel of the Department of Health and Human Services to the Council to assist the Council in carrying out its duties. Any detail shall not interrupt or otherwise affect the civil service status or privileges of the Federal employee.
 - **(h)** On the request of the Council, the Secretary shall provide such technical assistance to the Council as the Council determines to be necessary to carry out its duties.
-- **(i)** Section 1013 of title 5 shall not apply with respect to the Council.
+- **(i)** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Council.

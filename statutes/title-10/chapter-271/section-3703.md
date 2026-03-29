@@ -3,16 +3,16 @@ title: "Section 3703 - Exceptions"
 usc_title: 10
 usc_section: "3703"
 chapter: 271
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 3703"
-generated_at: "2026-03-29T20:03:09.762Z"
+generated_at: "2026-03-29T20:31:54.676Z"
 ---
 
 # § 3703. Exceptions
 
 - **(a)** Submission of certified cost or pricing data shall not be required under section 3702 of this title in the case of a contract, a subcontract, or modification of a contract or subcontract—
   - **(1)** for which the price agreed upon is based on—
-    - **(A)** adequate price competition; or
+    - **(A)** adequate competition that results in at least two or more responsive and viable competing bids; or
     - **(B)** prices set by law or regulation;
   - **(2)** for the acquisition of a commercial product or a commercial service;
   - **(3)** in an exceptional case when the head of the procuring activity, without delegation, determines that the requirements of this chapter may be waived and justifies in writing the reasons for such determination; or

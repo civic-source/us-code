@@ -3,9 +3,9 @@ title: "Section 11b - Best practices for long-term follow-up services for pediat
 usc_title: 42
 usc_section: "11b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 11b"
-generated_at: "2026-03-29T20:07:43.080Z"
+generated_at: "2026-03-29T20:34:52.645Z"
 ---
 
 # § 285a–11b. Best practices for long-term follow-up services for pediatric cancer survivors

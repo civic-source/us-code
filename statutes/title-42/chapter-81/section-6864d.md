@@ -3,9 +3,9 @@ title: "Section 6864d - Financial assistance for WAP enhancement and innovation"
 usc_title: 42
 usc_section: "6864d"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 6864d"
-generated_at: "2026-03-29T20:07:44.443Z"
+generated_at: "2026-03-29T20:34:53.755Z"
 ---
 
 # § 6864d. Financial assistance for WAP enhancement and innovation
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T20:07:44.443Z"
     - **(A)** to significantly increase the number of energy retrofits performed by such entity;
     - **(B)** to replicate best practices for work performed pursuant to this section on a larger scale;
     - **(C)** to leverage additional funds to sustain the provision of weatherization assistance and other work performed pursuant to this section after financial assistance awarded under this section is expended; and
-    - **(D)** to hire and retain employees who are individuals described 1 1 So in original. Probably should be followed by “in”. subsection (a)(5);
+    - **(D)** to hire and retain employees who are individuals described subsection (a)(5);
   - **(3)** for innovative outreach and education regarding the benefits and availability of weatherization assistance and other assistance available pursuant to this section;
   - **(4)** for quality control of work performed pursuant to this section;
   - **(5)** for data collection, measurement, and verification with respect to such work;

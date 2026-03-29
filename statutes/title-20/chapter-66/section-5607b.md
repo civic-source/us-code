@@ -3,9 +3,9 @@ title: "Section 5607b - Use of the National Center by Federal agency or other en
 usc_title: 20
 usc_section: "5607b"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "20 U.S.C. § 5607b"
-generated_at: "2026-03-29T20:04:33.033Z"
+generated_at: "2026-03-29T20:32:28.945Z"
 ---
 
 # § 5607b. Use of the National Center by Federal agency or other entity
@@ -35,4 +35,4 @@ generated_at: "2026-03-29T20:04:33.033Z"
 - **(e)**
   - **(1)** Non-Federal entities, including state 1 1 So in original. Probably should be capitalized. and local governments, Native American tribal governments, nongovernmental organizations and persons, as defined in section 1 of title 1 , may use the Foundation and the National Center to provide assessment, mediation, or other related services in connection with a dispute or conflict involving the Federal government 1 related to the environment, public lands, or natural resources.
   - **(2)** Entities utilizing services pursuant to this subsection shall reimburse the National Center for the costs of services provided. Such amounts shall be deposited into the Environmental Dispute Resolution Fund established under section 5607a of this title .
-- **(f)** Use of the Foundation or National Center to provide independent and impartial assessment, mediation, or other dispute or conflict resolution under this section shall not be considered to be the establishment or use of an advisory committee within the meaning of chapter 10 of title 5.
+- **(f)** Use of the Foundation or National Center to provide independent and impartial assessment, mediation, or other dispute or conflict resolution under this section shall not be considered to be the establishment or use of an advisory committee within the meaning of the Federal Advisory Committee Act (5 U.S.C. App.).

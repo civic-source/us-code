@@ -1,12 +1,14 @@
 ---
-title: "Section 1662a - Repealed. Pub. L. 118–232, § 1 , Jan. 4, 2025 , 138 Stat. 2834"
+title: "Section 1662a - Amendment of constitution of American Samoa"
 usc_title: 48
 usc_section: "1662a"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "48 U.S.C. § 1662a"
-generated_at: "2026-03-29T20:08:00.014Z"
+generated_at: "2026-03-29T20:34:59.086Z"
 ---
 
-# § 1662a. Repealed. Pub. L. 118–232, § 1 , Jan. 4, 2025 , 138 Stat. 2834
+# § 1662a. Amendment of constitution of American Samoa
+
+Amendments of, or modifications to, the constitution of American Samoa, as approved by the Secretary of the Interior pursuant to Executive Order 10264 as in effect January 1, 1983 , may be made only by Act of Congress.
 

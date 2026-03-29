@@ -1,25 +1,25 @@
 ---
-title: "Section 910 - Replacement of lost income: involuntarily mobilized reserve component members and members of the Space Force subject to extended and frequent active duty service"
+title: "Section 910 - Replacement of lost income: involuntarily mobilized reserve component members subject to extended and frequent active duty service"
 usc_title: 37
 usc_section: "910"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "37 U.S.C. § 910"
-generated_at: "2026-03-29T20:05:44.923Z"
+generated_at: "2026-03-29T20:33:48.651Z"
 ---
 
-# § 910. Replacement of lost income: involuntarily mobilized reserve component members and members of the Space Force subject to extended and frequent active duty service
+# § 910. Replacement of lost income: involuntarily mobilized reserve component members subject to extended and frequent active duty service
 
-- **(a)** The Secretary concerned shall pay to an eligible member of a reserve component of the armed forces or of the Space Force an amount equal to the monthly active-duty income differential of the member, as determined by the Secretary, when the total monthly military compensation of the member is less than the average monthly civilian income of the member. The payments shall be made on a monthly basis.
+- **(a)** The Secretary concerned shall pay to an eligible member of a reserve component of the armed forces an amount equal to the monthly active-duty income differential of the member, as determined by the Secretary, when the total monthly military compensation of the member is less than the average monthly civilian income of the member. The payments shall be made on a monthly basis.
 - **(b)**
-  - **(1)** A member of a reserve component or the Space Force is entitled to a payment under this section for any full month of active duty of the member, when the total monthly military compensation of the member is less than the average monthly civilian income of the member, while the member is on active duty under an involuntary mobilization order, following the date on which the member—
+  - **(1)** A member of a reserve component is entitled to a payment under this section for any full month of active duty of the member, when the total monthly military compensation of the member is less than the average monthly civilian income of the member, while the member is on active duty under an involuntary mobilization order, following the date on which the member—
     - **(A)** completes 547 continuous days of service on active duty under an involuntary mobilization order;
     - **(B)** completes 730 cumulative days on active duty under an involuntary mobilization order during the previous 1,826 days; or
     - **(C)** is involuntarily mobilized for service on active duty for a period of 180 days or more within 180 days after the date of the member’s separation from a previous period of active duty for a period of 180 days or more.
-  - **(2)** The entitlement of a member of a reserve component or the Space Force to a payment under this section also shall commence or, if previously commenced under paragraph (1), shall continue if the member—
+  - **(2)** The entitlement of a member of a reserve component to a payment under this section also shall commence or, if previously commenced under paragraph (1), shall continue if the member—
     - **(A)** satisfies the required number of days on active duty specified in subparagraph (A) or (B) of paragraph (1) or was involuntarily mobilized as provided in subparagraph (C) of such paragraph; and
     - **(B)** is retained on active duty under subparagraph (A) or (B) of section 12301(h)(1) of title 10 because of an injury or illness incurred or aggravated while the member was assigned to duty in an area for which special pay under section 310, or paragraph (1) or (3) of section 351(a), of this title is available.
-  - **(3)** A civilian employee of the Federal Government who is also a member of a reserve component or the Space Force is not entitled to a payment under this section for any period for which the employee is entitled to—
+  - **(3)** A civilian employee of the Federal Government who is also a member of a reserve component is not entitled to a payment under this section for any period for which the employee is entitled to—
     - **(A)** a differential payment under section 5538 of title 5 ; or
     - **(B)** a comparable benefit under an administratively established program for civilian employees absent from a position of employment with the Federal Government in order to perform active duty in the uniformed services.
 - **(c)**
@@ -29,9 +29,9 @@ generated_at: "2026-03-29T20:05:44.923Z"
   - **(1)** the average monthly civilian income of the member; and
   - **(2)** the member’s total monthly military compensation.
 - **(e)** In this section:
-  - **(1)** The term “average monthly civilian income”, with respect to a member of a reserve component or the Space Force, means the amount, determined by the Secretary concerned, of the earned income of the member for either the 12 months preceding the member’s mobilization or the 12 months covered by the member’s most recent Federal income tax filing, divided by 12.
+  - **(1)** The term “average monthly civilian income”, with respect to a member of a reserve component, means the amount, determined by the Secretary concerned, of the earned income of the member for either the 12 months preceding the member’s mobilization or the 12 months covered by the member’s most recent Federal income tax filing, divided by 12.
   - **(2)** The term “total monthly military compensation” means the amount, computed on a monthly basis, of the sum of—
     - **(A)** the amount of the regular military compensation (RMC) of the member; and
     - **(B)** any amount of special pay or incentive pay and any allowance (other than an allowance included in regular military compensation) that is paid to the member on a monthly basis.
 - **(f)** This section shall be administered under regulations to be prescribed by the Secretary of Defense.
-- **(g)** No payment shall be made to a member under this section for months beginning after December 31, 2026 , unless the entitlement of the member to payments under this section commenced on or before that date.
+- **(g)** No payment shall be made to a member under this section for months beginning after December 31, 2021 , unless the entitlement of the member to payments under this section commenced on or before that date.

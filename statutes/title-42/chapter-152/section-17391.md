@@ -3,9 +3,9 @@ title: "Section 17391 - Voluntary state, regional, and local electricity distrib
 usc_title: 42
 usc_section: "17391"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 17391"
-generated_at: "2026-03-29T20:07:44.971Z"
+generated_at: "2026-03-29T20:34:54.291Z"
 ---
 
 # § 17391. Voluntary state, regional, and local electricity distribution planning
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T20:07:44.971Z"
   - **(1)** the evaluation of the physical security, cybersecurity, and associated communications needs of an advanced distribution management system and the integration of distributed energy resources; and
   - **(2)** advanced use of grid architecture to analyze risks in an all-hazards approach that includes communications infrastructure, control systems architecture, and power systems architecture.
 - **(c)** The information collected for the assessment and analysis under subsection (a)(1)—
-  - **(1)** shall be considered to be critical electric infrastructure information under section 824 o –1 of title 16; and
+  - **(1)** shall be considered to be critical electric infrastructure information under section 824o–1 of title 16 ; and
   - **(2)** shall only be released in compliance with regulations implementing that section.
 - **(d)** For the purpose of assisting in the development of State and regional electricity distribution plans, the Secretary shall provide technical assistance to—
   - **(1)** States;

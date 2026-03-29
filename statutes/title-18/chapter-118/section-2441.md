@@ -3,21 +3,15 @@ title: "Section 2441 - War crimes"
 usc_title: 18
 usc_section: "2441"
 chapter: 118
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "18 U.S.C. § 2441"
-generated_at: "2026-03-29T20:03:53.791Z"
+generated_at: "2026-03-29T20:32:21.414Z"
 ---
 
 # § 2441. War crimes
 
 - **(a)** Whoever, whether inside or outside the United States, commits a war crime, in any of the circumstances described in subsection (b), shall be fined under this title or imprisoned for life or any term of years, or both, and if death results to the victim, shall also be subject to the penalty of death.
-- **(b)** There is jurisdiction over an offense described in subsection (a) if—
-  - **(1)** the offense occurs in whole or in part within the United States; or
-  - **(2)** regardless of where the offense occurs—
-    - **(A)** the victim or offender is—
-      - **(i)** a national of the United States or an alien lawfully admitted for permanent residence; or
-      - **(ii)** a member of the Armed Forces of the United States, regardless of nationality; or
-    - **(B)** the offender is present in the United States, regardless of the nationality of the victim or offender.
+- **(b)** The circumstances referred to in subsection (a) are that the person committing such war crime or the victim of such war crime is a member of the Armed Forces of the United States or a national of the United States (as defined in section 101 of the Immigration and Nationality Act).
 - **(c)** As used in this section the term “war crime” means any conduct—
   - **(1)** defined as a grave breach in any of the international conventions signed at Geneva 12 August 1949, or any protocol to such convention to which the United States is a party;
   - **(2)** prohibited by Article 23, 25, 27, or 28 of the Annex to the Hague Convention IV, Respecting the Laws and Customs of War on Land, signed 18 October 1907;
@@ -51,14 +45,3 @@ generated_at: "2026-03-29T20:03:53.791Z"
     - **(B)** death, damage, or injury incident to a lawful attack.
   - **(4)** Paragraph (1)(I) does not apply to an offense under subsection (a) by reason of subsection (c)(3) in the case of a prisoner exchange during wartime.
   - **(5)** The definitions in this subsection are intended only to define the grave breaches of common Article 3 and not the full scope of United States obligations under that Article.
-- **(e)** In the case of an offense described in subsection (a) and further described in subsections (c)(1) and (c)(3), an indictment may be found or an information may be instituted at any time without limitation.
-- **(f)**
-  - **(1)** No prosecution for an offense described in subsection (a) shall be undertaken by the United States except on written certification of the Attorney General, the Deputy Attorney General, or an Assistant Attorney General, which function of approving prosecutions may not be delegated, that a prosecution by the United States is in the public interest and necessary to secure substantial justice.
-  - **(2)** For an offense for which jurisdiction exists under subsection (b)(2)(B) (and does not exist under any other provision of subsection (b)), the written certification required under paragraph (1) of this subsection that a prosecution by the United States is in the public interest and necessary to secure substantial justice shall be made by the Attorney General or the Deputy Attorney General, which function may not be delegated. In issuing such certification, the same official shall weigh and consider, among other relevant factors—
-    - **(A)** whether the alleged offender can be removed from the United States for purposes of prosecution in another jurisdiction; and
-    - **(B)** potential adverse consequences for nationals, servicemembers, or employees of the United States.
-- **(g)** The Secretary of Defense and Secretary of State may submit to the Attorney General for consideration their views generally regarding potential benefits, or potential adverse consequences for nationals, servicemembers, or employees of the United States, of prosecutions of offenses for which jurisdiction exists under subsection (b)(2)(B).
-- **(h)** Certifications under subsection (f) and input from other agency heads under subsection (g) are not subject to judicial review.
-- **(i)** Nothing in this section shall be construed as—
-  - **(1)** support for ratification of or accession to the Rome Statute of the International Criminal Court, which entered into force on July 1, 2002 ; or
-  - **(2)** consent by the United States to any assertion or exercise of jurisdiction by any international, hybrid, or foreign court.

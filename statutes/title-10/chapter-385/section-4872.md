@@ -1,57 +1,35 @@
 ---
-title: "Section 4872 - Acquisition of sensitive materials from non-allied foreign nations: prohibition"
+title: "Section 4872 - Award of certain contracts to entities controlled by a foreign government: prohibition"
 usc_title: 10
 usc_section: "4872"
 chapter: 385
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 4872"
-generated_at: "2026-03-29T20:03:09.803Z"
+generated_at: "2026-03-29T20:31:54.705Z"
 ---
 
-# § 4872. Acquisition of sensitive materials from non-allied foreign nations: prohibition
+# § 4872. Award of certain contracts to entities controlled by a foreign government: prohibition
 
-- **(a)** Except as provided in subsections (c) and (e), the Secretary of Defense may not—
-  - **(1)** procure any covered material melted or produced in any covered nation, or any end item that contains a covered material manufactured in any covered nation, except as provided by subsections (c) and (e); or
-  - **(2)** sell any material from the National Defense Stockpile, if the National Defense Stockpile Manager determines that such a sale is not in the national interests of the United States, to—
-    - **(A)** any covered nation; or
-    - **(B)** any third party that the Secretary reasonably believes is acting as a broker or agent for a covered nation or an entity in a covered nation.
-- **(b)** Subsection (a) shall apply to prime contracts and subcontracts at any tier.
-- **(c)** Subsection (a)(1) does not apply under the following circumstances:
-  - **(1)** If the Secretary of Defense or the Secretary of the military department concerned—
-    - **(A)** identifies a specific end item for which a specific covered material of satisfactory quality and quantity, in the required form, cannot be procured as and when needed at a reasonable price; and
-    - **(B)** waives subsection (a)(1) for such specific end item and such specific covered material for a period not exceeding 36 months.
-  - **(2)** To the procurement of an end item described in subsection (a)(1) or the sale of any covered material described under subsection (a)(1) by the Secretary outside of the United States in support of contingency operations or for use outside of the United States.
-  - **(3)** To the purchase by the Secretary of an end item containing a covered material that is—
-    - **(A)** a commercially available off-the-shelf item (as defined in section 104 of title 41 ), other than—
-      - **(i)** a commercially available off-the-shelf item that is 50 percent or more tungsten by weight; or
-      - **(ii)** a mill product, such as bar, billet, slab, wire, cube, sphere, block, blank, plate, or sheet, that has not been incorporated into an end item, subsystem, assembly, or component;
-    - **(B)** an electronic device, unless the Secretary of Defense, upon the recommendation of the Strategic and Critical Materials Board of Directors pursuant to section 10 of the Strategic and Critical Materials Stock Piling Act ( 50 U.S.C. 98h–1 ), determines that the domestic availability of a particular electronic device is critical to national security;
-    - **(C)** a neodymium-iron-boron magnet or samarium-cobalt magnet manufactured from recycled material if the milling of the recycled material and sintering of the final magnet takes place in the United States; or
-    - **(D)** tantalum, tungsten, or molybdenum produced from recycled material if the contractor demonstrates to the Secretary that the recycled material was produced outside of a covered nation and the melting of the recycled material and any further processing and manufacturing of the recycled material takes place in the United States or in the country of a qualifying foreign government, as defined in section 4863(m)(11) of this title .
-- **(d)** The authorities in subsection (c)—
-  - **(1)** may be delegated to the head of contracting activity for the relevant component for an exception for a single acquisition program;
-  - **(2)** may be delegated to the senior acquisition executive of a military department for an exception for multiple programs within such military department; and
-  - **(3)** may be delegated to the Undersecretary of Defense for Acquisition and Sustainment for an exception for more than one military department.
-- **(e)**
-  - **(1)** Notwithstanding subsection (a), the Secretary of Defense or the Secretary of the military department concerned, may accept the delivery of an end item containing covered material manufactured in a covered nation if the Secretary determines in writing that acceptance of such end item is necessary to the national security interests of the United States.
-  - **(2)** A written determination under paragraph (1)—
-    - **(A)** may be delegated—
-      - **(i)** to the senior acquisition executive of the military department concerned for a waiver for one or more acquisition programs within such military department; and
-      - **(ii)** to the Deputy Secretary of Defense or the Under Secretary of Defense for Acquisition and Sustainment for a waiver applicable to more than one military department;
-    - **(B)** shall specify the quantity of end items to which the waiver applies and the time period over which the waiver applies; and
-    - **(C)** shall be provided to the congressional defense committees prior to making such a determination (except that in the case of an urgent national security requirement, such certification may be provided to the defense committees up to 7 days after it is made).
-  - **(3)** If the Secretary of Defense or the authorized delegate has made a determination under subsection (k) of section 4863 of this title for a national security waiver of the restrictions under subsection (a) of that section for a specific end item, the Secretary or authorized delegate may apply that waiver to the restrictions under subsection (a) of this section for the same covered material or end item.
-- **(f)** In this section:
-  - **(1)** The term “covered material” means—
-    - **(A)** samarium-cobalt magnets;
-    - **(B)** neodymium-iron-boron magnets;
-    - **(C)** tungsten metal powder;
-    - **(D)** tungsten heavy alloy or any finished or semi-finished component containing tungsten heavy alloy;
-    - **(E)** tantalum metals and alloys; and
-    - **(F)** molybdenum.
-  - **(2)** The term “covered nation” means—
-    - **(A)** the Democratic People’s Republic of North Korea;
-    - **(B)** the People’s Republic of China;
-    - **(C)** the Russian Federation; and
-    - **(D)** the Islamic Republic of Iran.
-  - **(3)** The term “end item” has the meaning given in section 4863(m) of this title .
+- **(a)** A Department of Defense contract or Department of Energy contract under a national security program may not be awarded to an entity controlled by a foreign government if it is necessary for that entity to be given access to information in a proscribed category of information in order to perform the contract.
+- **(b)**
+  - **(1)** The Secretary concerned may waive the application of subsection (a) to a contract award if—
+    - **(A)** the Secretary concerned determines that the waiver is essential to the national security interests of the United States; or
+    - **(B)** in the case of a contract awarded for environmental restoration, remediation, or waste management at a Department of Defense or Department of Energy facility—
+      - **(i)** the Secretary concerned determines that the waiver will advance the environmental restoration, remediation, or waste management objectives of the department concerned and will not harm the national security interests of the United States; and
+      - **(ii)** the entity to which the contract is awarded is controlled by a foreign government with which the Secretary concerned is authorized to exchange Restricted Data under section 144 c. of the Atomic Energy Act of 1954 ( 42 U.S.C. 2164(c) ).
+  - **(2)** The Secretary concerned shall notify Congress of any decision to grant a waiver under paragraph (1)(B) with respect to a contract. The contract may be awarded only after the end of the 45-day period beginning on the date the notification is received by the committees.
+- **(c)** In this section:
+  - **(1)** The term “entity controlled by a foreign government” includes—
+    - **(A)** any domestic or foreign organization or corporation that is effectively owned or controlled by a foreign government; and
+    - **(B)** any individual acting on behalf of a foreign government,
+  - **(2)** The term “proscribed category of information” means a category of information that—
+    - **(A)** with respect to Department of Defense contracts—
+      - **(i)** includes special access information;
+      - **(ii)** is determined by the Secretary of Defense to include information the disclosure of which to an entity controlled by a foreign government is not in the national security interests of the United States; and
+      - **(iii)** is defined in regulations prescribed by the Secretary of Defense for the purposes of this section; and
+    - **(B)** with respect to Department of Energy contracts—
+      - **(i)** is determined by the Secretary of Energy to include information described in subparagraph (A)(ii); and
+      - **(ii)** is defined in regulations prescribed by the Secretary of Energy for the purposes of this section.
+  - **(3)** The term “Secretary concerned” means—
+    - **(A)** the Secretary of Defense, with respect to Department of Defense contracts; and
+    - **(B)** the Secretary of Energy, with respect to Department of Energy contracts.

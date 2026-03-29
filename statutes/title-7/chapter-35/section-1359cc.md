@@ -3,9 +3,9 @@ title: "Section 1359cc - Establishment of flexible marketing allotments"
 usc_title: 7
 usc_section: "1359cc"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 1359cc"
-generated_at: "2026-03-29T20:02:52.490Z"
+generated_at: "2026-03-29T20:31:41.962Z"
 ---
 
 # § 1359cc. Establishment of flexible marketing allotments
@@ -41,7 +41,5 @@ generated_at: "2026-03-29T20:02:52.490Z"
   - **(1)**
     - **(A)** Subject to subparagraph (B), the Secretary shall, based on reestimates under section 1359bb(a)(3) of this title , adjust upward or downward marketing allotments in a fair and equitable manner, as the Secretary determines appropriate, to reflect changes in estimated sugar consumption, stocks, production, or imports.
     - **(B)** In carrying out subparagraph (A), the Secretary may not reduce the overall allotment quantity to a quantity of less than 85 percent of the estimated quantity of sugar for domestic human consumption for the crop year.
-  - **(2)**
-    - **(A)** Except as provided in subparagraph (B), in the case of any increase or decrease in an allotment, each allocation to a processor of the allotment under section 1359dd of this title , and each proportionate share established with respect to the allotment under section 1359ff(c) of this title , shall be increased or decreased by the same percentage that the allotment is increased or decreased.
-    - **(B)** If the Secretary makes an upward adjustment under paragraph (1)(A), in adjusting allocations among beet sugar processors, the Secretary shall give priority to beet sugar processors with available sugar.
+  - **(2)** In the case of any increase or decrease in an allotment, each allocation to a processor of the allotment under section 1359dd of this title , and each proportionate share established with respect to the allotment under section 1359ff(c) of this title , shall be increased or decreased by the same percentage that the allotment is increased or decreased.
   - **(3)** Whenever a marketing allotment for a crop year is required to be reduced during the crop year under this subsection, if, at the time of the reduction, the quantity of sugar marketed exceeds the processor’s reduced allocation, the allocation of an allotment next established for the processor shall be reduced by the quantity of the excess sugar marketed.

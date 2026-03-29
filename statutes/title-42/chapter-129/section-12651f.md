@@ -3,14 +3,14 @@ title: "Section 12651f - Employees, consultants, and other personnel"
 usc_title: 42
 usc_section: "12651f"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 12651f"
-generated_at: "2026-03-29T20:07:44.775Z"
+generated_at: "2026-03-29T20:34:54.125Z"
 ---
 
 # § 12651f. Employees, consultants, and other personnel
 
-- **(a)** Except as provided in subsection (b), section 12651e(d) of this title , and section 414 of title 5 , the Chief Executive Officer shall, in accordance with applicable provisions of title 5, appoint and determine the compensation of such employees as the Chief Executive Officer determines to be necessary to carry out the duties of the Corporation.
+- **(a)** Except as provided in subsection (b), section 12651e(d) of this title , and section 8E 1 1 See References in Text note below. of the Inspector General Act of 1978, the Chief Executive Officer shall, in accordance with applicable provisions of title 5, appoint and determine the compensation of such employees as the Chief Executive Officer determines to be necessary to carry out the duties of the Corporation.
 - **(b)**
   - **(1)** The Chief Executive Officer may designate positions in the Corporation as positions to which the Chief Executive Officer may make appointments, and for which the Chief Executive Officer may determine compensation, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, to the extent the Chief Executive Officer determines that such a designation is appropriate and desirable to further the effective operation of the Corporation. The Chief Executive Officer may provide for appointments to such positions to be made on a limited term basis.
   - **(2)** The Director of the Office of Personnel Management may grant competitive status for appointment to the competitive service, under such conditions as the Director may prescribe, to an employee who is appointed under this subsection and who is separated from the Corporation (other than by removal for cause).

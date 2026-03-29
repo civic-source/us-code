@@ -3,9 +3,9 @@ title: "Section 3051 - Definitions"
 usc_title: 15
 usc_section: "3051"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 3051"
-generated_at: "2026-03-29T20:03:27.554Z"
+generated_at: "2026-03-29T20:32:09.993Z"
 ---
 
 # § 3051. Definitions

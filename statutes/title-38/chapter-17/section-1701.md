@@ -3,9 +3,9 @@ title: "Section 1701 - Definitions"
 usc_title: 38
 usc_section: "1701"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "38 U.S.C. § 1701"
-generated_at: "2026-03-29T20:05:54.643Z"
+generated_at: "2026-03-29T20:34:04.882Z"
 ---
 
 # § 1701. Definitions
@@ -37,7 +37,6 @@ For the purposes of this chapter—
       - **(iii)** such other supplies or services as the Secretary determines to be reasonable and necessary.
     - **(G)** Travel and incidental expenses pursuant to section 111 of this title .
     - **(H)** Chiropractic services.
-    - **(I)** The provision of medically necessary van lifts, raised doors, raised roofs, air conditioning, and wheelchair tiedowns for passenger use.
   - **(7)** The term “domiciliary care” includes necessary medical services and travel and incidental expenses pursuant to the provisions of section 111 of this title .
   - **(8)** The term “rehabilitative services” means such professional, counseling, chiropractic, and guidance services and treatment programs as are necessary to restore, to the maximum extent possible, the physical, mental, and psychological functioning of an ill or disabled person.
   - **(9)** The term “preventive health services” means—

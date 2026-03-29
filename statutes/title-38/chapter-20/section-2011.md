@@ -3,9 +3,9 @@ title: "Section 2011 - Grants"
 usc_title: 38
 usc_section: "2011"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "38 U.S.C. § 2011"
-generated_at: "2026-03-29T20:05:54.679Z"
+generated_at: "2026-03-29T20:34:04.913Z"
 ---
 
 # § 2011. Grants
@@ -30,7 +30,8 @@ generated_at: "2026-03-29T20:05:54.679Z"
   - **(6)** Specification as to the means by which an entity receiving a grant may contribute in-kind services to the start-up costs of a project for which a grant is sought and the methodology for assigning a cost to that contribution for purposes of subsection (c).
 - **(c)**
   - **(1)** A grant under this section may not be used to support operational costs.
-  - **(2)**
+  - **(2)** The amount of a grant under this section may not exceed 65 percent of the estimated cost of the project concerned.
+  - **(3)**
     - **(A)** The Secretary may not deny an application from an entity that seeks a grant under this section to carry out a project described in subsection (b)(1)(A) solely on the basis that the entity proposes to use funding from other private or public sources, if the entity demonstrates that a private nonprofit organization will provide oversight and site control for the project.
     - **(B)** In this paragraph, the term “private nonprofit organization” means the following:
       - **(i)** An incorporated private institution, organization, or foundation—

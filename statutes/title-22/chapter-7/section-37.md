@@ -3,9 +3,9 @@ title: "Section 37 - Channel shifts; boundary determination"
 usc_title: 22
 usc_section: "37"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 37"
-generated_at: "2026-03-29T20:04:46.654Z"
+generated_at: "2026-03-29T20:32:59.862Z"
 ---
 
 # § 277d–37. Channel shifts; boundary determination

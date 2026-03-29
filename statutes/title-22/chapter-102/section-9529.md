@@ -3,9 +3,9 @@ title: "Section 9529 - Sanctions described"
 usc_title: 22
 usc_section: "9529"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 9529"
-generated_at: "2026-03-29T20:04:47.030Z"
+generated_at: "2026-03-29T20:33:00.206Z"
 ---
 
 # § 9529. Sanctions described

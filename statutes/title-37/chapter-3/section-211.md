@@ -3,16 +3,16 @@ title: "Section 211 - Participation in Thrift Savings Plan"
 usc_title: 37
 usc_section: "211"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "37 U.S.C. § 211"
-generated_at: "2026-03-29T20:05:44.893Z"
+generated_at: "2026-03-29T20:33:48.621Z"
 ---
 
 # § 211. Participation in Thrift Savings Plan
 
 - **(a)** In this section, the term “member” means—
   - **(1)** a member of the uniformed services serving on active duty; and
-  - **(2)** a member of the Ready Reserve or the Space Force in any pay status.
+  - **(2)** a member of the Ready Reserve in any pay status.
 - **(b)** Any member may participate in the Thrift Savings Plan in accordance with section 8440e of title 5 .
 - **(c)** For purposes of subchapters III and VII of chapter 84 of title 5, each of the following actions shall, in the case of a member participating in the Thrift Savings Plan in accordance with section 8440e of such title, be considered a separation from Government employment:
   - **(1)** Release of the member from active duty, not followed, before the end of the 31-day period beginning on the day following the effective date of the release, by—

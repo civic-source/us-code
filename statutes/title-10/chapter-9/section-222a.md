@@ -3,9 +3,9 @@ title: "Section 222a - Unfunded priorities of the armed forces and combatant com
 usc_title: 10
 usc_section: "222a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 222a"
-generated_at: "2026-03-29T20:03:09.434Z"
+generated_at: "2026-03-29T20:31:54.396Z"
 ---
 
 # § 222a. Unfunded priorities of the armed forces and combatant commands: annual report
@@ -21,30 +21,24 @@ generated_at: "2026-03-29T20:03:09.434Z"
   - **(7)** The Chief of the National Guard Bureau in the role assigned to that position in section 10502(c)(1) of this title .
 - **(c)**
   - **(1)** Each report under this subsection shall specify, for each unfunded priority covered by such report, the following:
-    - **(A)** A summary description of such priority, including the objectives outlined in the national defense strategy required under section 113(g) of this title and the National Military Strategy required under section 139(b) of this title to be advanced if such priority is funded (whether in whole or in part).
+    - **(A)** A summary description of such priority, including the objectives to be achieved if such priority is funded (whether in whole or in part).
     - **(B)** The additional amount of funds recommended in connection with the objectives under subparagraph (A).
     - **(C)** Account information with respect to such priority, including the following (as applicable):
       - **(i)** Line Item Number (LIN) for applicable procurement accounts.
       - **(ii)** Program Element (PE) number for applicable research, development, test, and evaluation accounts.
       - **(iii)** Sub-activity group (SAG) for applicable operation and maintenance accounts.
-    - **(D)** A detailed assessment of each specific risk that would be reduced in executing the national defense strategy required under section 113(g) of this title and the National Military Strategy required under section 139(b) of this title if such priority is funded (whether in whole or in part).
-    - **(E)** The requirement to be addressed by the unfunded priority.
-    - **(F)** The reason why funding for the priority was not included in the budget of the President.
-    - **(G)** A description of any funding provided for the requirement for the current and preceding fiscal year.
-    - **(H)** An assessment of the effect that providing funding for the priority would have on the future-years defense plan.
   - **(2)** Each report shall present the unfunded priorities covered by such report as follows:
-    - **(A)** In overall order of urgency of priority according to the amount of risk reduced.
+    - **(A)** In overall order of urgency of priority.
     - **(B)** In overall order of urgency of priority among unfunded priorities (other than covered military construction projects).
     - **(C)** In overall order of urgency of priority among covered military construction projects.
   - **(3)**
-    - **(A)** The officer specified under subsection (b)(7) shall only include in a report submitted under subsection (a) such priorities that—
+    - **(A)** The officer specified under subsection (b)(6) shall only include in a report submitted under subsection (a) such priorities that—
       - **(i)** relate to equipping requirements in support of non-federalized National Guard responsibilities for the homeland defense or civil support missions; and
       - **(ii)** except as provided in subparagraph (B), were not included in a report under this section submitted by an officer specified in subsection (b)(1) or (3) for any of five fiscal years preceding the fiscal year for which the report is submitted, on behalf of National Guard forces to address a warfighting requirement.
-    - **(B)** The officer specified under subsection (b)(7) may include in a report submitted under subsection (a) an unfunded priority covered by subparagraph (A)(ii) if the Secretary of Defense—
+    - **(B)** The officer specified under subsection (b)(6) may include in a report submitted under subsection (a) an unfunded priority covered by subparagraph (A)(ii) if the Secretary of Defense—
       - **(i)** determines that the inclusion such unfunded priority reasonably supports the priorities of the Department under the national defense strategy under section 113(g) of this title ; and
       - **(ii)** submits to the congressional defense committees written notice of such determination.
-- **(d)** Not later than 10 days after the receipt of all of the reports referred to in subsection (a), the Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, shall submit to the congressional defense committees a report that prioritizes each specific unfunded priority across all unfunded priorities submitted by officers specified in (b) according to the risk reduced in executing the national defense strategy required under section 113(g) of this title and the National Military Strategy required under section 139(b) of this title .
-- **(e)** In this section:
+- **(d)** In this section:
   - **(1)** The term “unfunded priority”, in the case of a fiscal year, means a program, activity, or mission requirement, including a covered military construction project, that—
     - **(A)** is not funded in the budget of the President for the fiscal year as submitted to Congress pursuant to section 1105 of title 31 ;
     - **(B)** is necessary to fulfill a requirement associated with an operational or contingency plan of a combatant command or other validated requirement; and

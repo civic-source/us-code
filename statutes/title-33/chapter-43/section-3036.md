@@ -3,9 +3,9 @@ title: "Section 3036 - Career flexibility to enhance retention of officers"
 usc_title: 33
 usc_section: "3036"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "33 U.S.C. § 3036"
-generated_at: "2026-03-29T20:05:35.864Z"
+generated_at: "2026-03-29T20:33:34.324Z"
 ---
 
 # § 3036. Career flexibility to enhance retention of officers
@@ -38,7 +38,7 @@ generated_at: "2026-03-29T20:05:35.864Z"
     - **(C)** An officer who is ineligible for payment of a special or incentive pay or bonus otherwise covered by this paragraph by reason of subparagraph (B)(i)(II) shall be subject to the requirements for repayment of such pay or bonus in accordance with the terms of the applicable agreement of the officer under chapter 5 of title 37.
     - **(D)** Any service required of an officer under an agreement covered by this paragraph after the officer returns to active duty as described in subparagraph (A) shall be in addition to any service required of the officer under an agreement under subsection (c).
   - **(4)**
-    - **(A)** Subject to subparagraph (B), an officer who participates in a program under this section is entitled, while participating in the program, to the travel and transportation allowances authorized by section 452 of title 37 for—
+    - **(A)** Subject to subparagraph (B), an officer who participates in a program under this section is entitled, while participating in the program, to the travel and transportation allowances authorized by section 474 of title 37 for—
       - **(i)** travel performed from the residence of the officer, at the time of release from active duty to participate in the program, to the location in the United States designated by the officer as the officer’s residence during the period of participation in the program; and
       - **(ii)** travel performed to the residence of the officer upon return to active duty at the end of the participation of the officer in the program.
     - **(B)** An allowance is payable under this paragraph only with respect to travel of an officer to and from a single residence.

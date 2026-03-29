@@ -3,9 +3,9 @@ title: "Section 17014 - Research and development into integrating electric vehic
 usc_title: 42
 usc_section: "17014"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 17014"
-generated_at: "2026-03-29T20:07:44.934Z"
+generated_at: "2026-03-29T20:34:54.262Z"
 ---
 
 # § 17014. Research and development into integrating electric vehicles onto the electric grid
@@ -40,7 +40,6 @@ generated_at: "2026-03-29T20:07:44.934Z"
     - **(F)** charging infrastructure manufacturers;
     - **(G)** the National Laboratories; and
     - **(H)** other Federal agencies, as the Secretary determines appropriate.
-  - **(4)** The Secretary shall update the report required under this section every 3 years for the duration of the program under section 1 1 So in original. Probably should be “subsection”. (a) and shall submit the updated report to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
 - **(c)** In carrying out the research, development, demonstration, and commercial application aims of section, 2 2 So in original. Probably should be “of this section,”. the Secretary shall—
   - **(1)** implement the recommendations set forth in the report in subsection (b); and
   - **(2)** coordinate across all relevant program offices at the Department to achieve the goals established in this section, including the Office of Electricity.

@@ -3,9 +3,9 @@ title: "Section 8906 - Criteria for issuance of construction permit"
 usc_title: 40
 usc_section: "8906"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "40 U.S.C. § 8906"
-generated_at: "2026-03-29T20:05:42.957Z"
+generated_at: "2026-03-29T20:33:44.486Z"
 ---
 
 # § 8906. Criteria for issuance of construction permit

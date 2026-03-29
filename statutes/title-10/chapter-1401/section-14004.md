@@ -3,9 +3,9 @@ title: "Section 14004 - Reserve active-status lists: eligibility for Reserve pro
 usc_title: 10
 usc_section: "14004"
 chapter: 1401
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 14004"
-generated_at: "2026-03-29T20:03:09.927Z"
+generated_at: "2026-03-29T20:31:54.782Z"
 ---
 
 # § 14004. Reserve active-status lists: eligibility for Reserve promotion

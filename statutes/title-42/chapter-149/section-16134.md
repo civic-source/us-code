@@ -3,9 +3,9 @@ title: "Section 16134 - Evaluation and report"
 usc_title: 42
 usc_section: "16134"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 16134"
-generated_at: "2026-03-29T20:07:44.879Z"
+generated_at: "2026-03-29T20:34:54.223Z"
 ---
 
 # § 16134. Evaluation and report

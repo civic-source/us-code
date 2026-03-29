@@ -3,9 +3,9 @@ title: "Section 50915 - Paying claims exceeding liability insurance and financia
 usc_title: 51
 usc_section: "50915"
 chapter: 509
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "51 U.S.C. § 50915"
-generated_at: "2026-03-29T20:08:15.828Z"
+generated_at: "2026-03-29T20:35:13.949Z"
 ---
 
 # § 50915. Paying claims exceeding liability insurance and financial responsibility requirements
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T20:08:15.828Z"
       - **(ii)** a contractor, subcontractor, or customer of the licensee or transferee;
       - **(iii)** a contractor or subcontractor of a customer; or
       - **(iv)** a space flight participant.
-    - **(B)** Clause (iv) of subparagraph (A) ceases to be effective September 30, 2028 .
+    - **(B)** Clause (iv) of subparagraph (A) ceases to be effective September 30, 2025 .
 - **(b)** Before a payment under subsection (a) of this section is made—
   - **(1)** notice must be given to the Government of a claim, or a civil action related to the claim, against a party described in subsection (a)(1) of this section for death, bodily injury, or property damage or loss;
   - **(2)** the Government must be given an opportunity to participate or assist in the defense of the claim or action; and
@@ -57,4 +57,4 @@ generated_at: "2026-03-29T20:08:15.828Z"
     - **(B)** a motion to postpone consideration of a resolution.
     - **(C)** a motion to proceed to the consideration of other business.
     - **(D)** an appeal from a decision of the chair related to the application of the rules of the Senate to the procedures related to a resolution.
-- **(f)** This section applies to a license issued or transferred under this chapter for which the Secretary receives a complete and valid application not later than September 30, 2028 . This section does not apply to permits.
+- **(f)** This section applies to a license issued or transferred under this chapter for which the Secretary receives a complete and valid application not later than September 30, 2025 . This section does not apply to permits.

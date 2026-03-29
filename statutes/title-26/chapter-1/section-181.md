@@ -1,26 +1,25 @@
 ---
-title: "Section 181 - Treatment of certain qualified productions"
+title: "Section 181 - Treatment of certain qualified film and television and live theatrical productions"
 usc_title: 26
 usc_section: "181"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 181"
-generated_at: "2026-03-29T20:05:22.252Z"
+generated_at: "2026-03-29T20:33:26.880Z"
 ---
 
-# § 181. Treatment of certain qualified productions
+# § 181. Treatment of certain qualified film and television and live theatrical productions
 
 - **(a)**
-  - **(1)** A taxpayer may elect to treat the cost of any qualified film or television production, any qualified live theatrical production, and any qualified sound recording production as an expense which is not chargeable to capital account. Any cost so treated shall be allowed as a deduction.
+  - **(1)** A taxpayer may elect to treat the cost of any qualified film or television production, and any qualified live theatrical production, as an expense which is not chargeable to capital account. Any cost so treated shall be allowed as a deduction.
   - **(2)**
     - **(A)** Paragraph (1) shall not apply to so much of the aggregate cost of any qualified film or television production or any qualified live theatrical production as exceeds $15,000,000.
     - **(B)** In the case of any qualified film or television production or any qualified live theatrical production the aggregate cost of which is significantly incurred in an area eligible for designation as—
       - **(i)** a low-income community under section 45D, or
       - **(ii)** a distressed county or isolated area of distress by the Delta Regional Authority established under section 2009aa–1 of title 7 , United States Code,
-    - **(C)** Paragraph (1) shall not apply to so much of the aggregate cost of any qualified sound recording production, or to so much of the aggregate, cumulative cost of all such qualified sound recording productions in the taxable year, as exceeds $150,000.
-- **(b)** With respect to the basis of any qualified film or television production, any qualified live theatrical production, or any qualified sound recording production to which an election is made under subsection (a), no other depreciation or amortization deduction shall be allowable.
+- **(b)** With respect to the basis of any qualified film or television production or any qualified live theatrical production to which an election is made under subsection (a), no other depreciation or amortization deduction shall be allowable.
 - **(c)**
-  - **(1)** An election under this section with respect to any qualified film or television production, any qualified live theatrical production, or any qualified sound recording production shall be made in such manner as prescribed by the Secretary and by the due date (including extensions) for filing the taxpayer’s return of tax under this chapter for the taxable year in which costs of the production are first incurred.
+  - **(1)** An election under this section with respect to any qualified film or television production or any qualified live theatrical production shall be made in such manner as prescribed by the Secretary and by the due date (including extensions) for filing the taxpayer’s return of tax under this chapter for the taxable year in which costs of the production are first incurred.
   - **(2)** Any election made under this section may not be revoked without the consent of the Secretary.
 - **(d)** For purposes of this section—
   - **(1)** The term “qualified film or television production” means any production described in paragraph (2) if 75 percent of the total compensation of the production is qualified compensation.
@@ -49,6 +48,5 @@ generated_at: "2026-03-29T20:05:22.252Z"
       - **(i)** In the case of a live staged production not described in subparagraph (B) which is produced or presented by a taxable entity for not more than 10 weeks of the taxable year, subparagraph (A) shall be applied by substituting “6,500” for “3,000”.
       - **(ii)** For purposes of clause (i), in the case of any taxable year of less than 12 months, the number of weeks for which a production is produced or presented shall be annualized by multiplying the number of weeks the production is produced or presented during such taxable year by 12 and dividing the result by the number of months in such taxable year.
     - **(E)** A production is not described in this paragraph if such production includes or consists of any performance of conduct described in section 2257(h)(1) of title 18 , United States Code.
-- **(f)** For purposes of this section, the term “qualified sound recording production” means a sound recording (as defined in section 101 of title 17 , United States Code) produced and recorded in the United States.
-- **(g)** For purposes of this section, rules similar to the rules of subsections (b)(2) and (c)(4) of section 194 shall apply.
-- **(h)** This section shall not apply to qualified film and television productions, qualified live theatrical productions, or qualified sound recording productions commencing after December 31, 2025 .
+- **(f)** For purposes of this section, rules similar to the rules of subsections (b)(2) and (c)(4) of section 194 shall apply.
+- **(g)** This section shall not apply to qualified film and television productions or qualified live theatrical productions commencing after December 31, 2025 .

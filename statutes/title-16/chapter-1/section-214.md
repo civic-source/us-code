@@ -3,9 +3,9 @@ title: "Section 214 - Rules and regulations"
 usc_title: 16
 usc_section: "214"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 214"
-generated_at: "2026-03-29T20:04:19.928Z"
+generated_at: "2026-03-29T20:32:44.984Z"
 ---
 
 # § 214. Rules and regulations

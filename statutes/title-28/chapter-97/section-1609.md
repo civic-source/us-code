@@ -3,9 +3,9 @@ title: "Section 1609 - Immunity from attachment and execution of property of a f
 usc_title: 28
 usc_section: "1609"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "28 U.S.C. § 1609"
-generated_at: "2026-03-29T20:05:24.783Z"
+generated_at: "2026-03-29T20:33:11.491Z"
 ---
 
 # § 1609. Immunity from attachment and execution of property of a foreign state

@@ -3,9 +3,9 @@ title: "Section 53401 - Definitions"
 usc_title: 46
 usc_section: "53401"
 chapter: 534
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "46 U.S.C. § 53401"
-generated_at: "2026-03-29T20:08:05.365Z"
+generated_at: "2026-03-29T20:35:02.425Z"
 ---
 
 # § 53401. Definitions
@@ -28,4 +28,3 @@ In this chapter:
       - **(ii)** the application for documentation of the vessel under chapter 121 of this title includes an affidavit of each trustee stating that the trustee is not aware of any reason involving a beneficiary of the trust that is not a citizen of the United States, or involving any other person who is not a citizen of the United States, as a result of which the beneficiary or other person would hold more than 25 percent of the aggregate power to influence or limit the exercise of the authority of the trustee with respect to matters involving any ownership or operation of the vessel that may adversely affect the interests of the United States;
     - **(B)** does not include a trust for which any person that is not a citizen of the United States has authority to direct, or participate in directing, a trustee for a trust in matters involving any ownership or operation of the vessel that may adversely affect the interests of the United States or in removing a trustee without cause, either directly or indirectly through the control of another person, unless the trust instrument provides that persons who are not citizens of the United States may not hold more than 25 percent of the aggregate authority to so direct or remove a trustee; and
     - **(C)** may include a trust for which a person who is not a citizen of the United States holds more than 25 percent of the beneficial interest in the trust.
-  - **(8)** The term “long term charter” means any time charter of a product tank vessel to the United States Government that, together with options, occurs for a continuous period of more than 180 days.

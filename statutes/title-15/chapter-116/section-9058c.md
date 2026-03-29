@@ -3,9 +3,9 @@ title: "Section 9058c - Emergency rental assistance"
 usc_title: 15
 usc_section: "9058c"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 9058c"
-generated_at: "2026-03-29T20:03:27.724Z"
+generated_at: "2026-03-29T20:32:10.128Z"
 ---
 
 # § 9058c. Emergency rental assistance
@@ -64,7 +64,7 @@ generated_at: "2026-03-29T20:03:27.724Z"
       - **(i)** qualified for unemployment benefits; or
       - **(ii)** experienced a reduction in household income, incurred significant costs, or experienced other financial hardship during or due, directly or indirectly, to the coronavirus pandemic;
     - **(B)** 1 or more individuals within the household can demonstrate a risk of experiencing homelessness or housing instability; and
-    - **(C)** the household is a low-income family (as such term is defined in section 1437a(b) of title 42 . 2 2 So in original. A closing parenthesis probably should precede the period.
+    - **(C)** the household is a low-income family (as such term is defined in section 1437a(b) of title 42 .
   - **(3)** The term “Inspector General” means the Inspector General of the Department of the Treasury.
   - **(4)** The term “Secretary” means the Secretary of the Treasury.
   - **(5)** The term “unit of local government” has the meaning given such term in section 9058a of this title .

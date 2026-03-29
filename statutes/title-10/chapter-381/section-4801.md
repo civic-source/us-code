@@ -3,16 +3,16 @@ title: "Section 4801 - Definitions"
 usc_title: 10
 usc_section: "4801"
 chapter: 381
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 4801"
-generated_at: "2026-03-29T20:03:09.796Z"
+generated_at: "2026-03-29T20:31:54.700Z"
 ---
 
 # § 4801. Definitions
 
 In this subpart:
 
-  - **(1)** The term “national technology and industrial base” means the persons and organizations that are engaged in research, development, production, integration, services, or information technology activities conducted within the United States, the United Kingdom of Great Britain and Northern Ireland, Australia, New Zealand, and Canada.
+  - **(1)** The term “national technology and industrial base” means the persons and organizations that are engaged in research, development, production, integration, services, or information technology activities conducted within the United States, the United Kingdom of Great Britain and Northern Ireland, Australia, and Canada.
   - **(2)** The term “dual-use” with respect to products, services, standards, processes, or acquisition practices, means products, services, standards, processes, or acquisition practices, respectively, that are capable of meeting requirements for military and nonmilitary applications.
   - **(3)** The term “dual-use critical technology” means a critical technology that has military applications and nonmilitary applications.
   - **(4)** The term “technology and industrial base sector” means a group of public or private persons and organizations that engage in, or are capable of engaging in, similar research, development, production, integration, services, or information technology activities.
@@ -20,7 +20,7 @@ In this subpart:
   - **(6)** The term “critical technology” means a technology that is—
     - **(A)** a national critical technology; or
     - **(B)** a defense critical technology.
-  - **(7)** The term “national critical technology” means a technology that appears on the list of national critical technologies contained in the most recent biennial report on national critical technologies submitted to Congress by the President pursuant to section 603(d) 1 1 See References in Text note below. of the National Science and Technology Policy, Organization, and Priorities Act of 1976 ( 42 U.S.C. 6683(d) ).
+  - **(7)** The term “national critical technology” means a technology that appears on the list of national critical technologies contained in the most recent biennial report on national critical technologies submitted to Congress by the President pursuant to section 603(d) of the National Science and Technology Policy, Organization, and Priorities Act of 1976 ( 42 U.S.C. 6683(d) ).
   - **(8)** The term “defense critical technology” means a technology that is identified under section 4816 of this title as critical for attaining the national security objectives set forth in section 4811(a) of this title .
   - **(9)** The term “eligible firm” means a company or other business entity that, as determined by the Secretary of Commerce—
     - **(A)** conducts a significant level of its research, development, engineering, manufacturing, integration, services, and information technology activities in the United States; and
@@ -39,3 +39,4 @@ In this subpart:
     - **(B)** any other criteria the Secretary may consider necessary to ensure an appropriate equity mix among the participants.
   - **(14)** The term “person of a foreign country” has the meaning given such term in section 3502(d) of the Primary Dealers Act of 1988 ( 22 U.S.C. 5342(d) ).
   - **(15)** The term “integration” means the process of providing systems engineering and technical direction for a system for the purpose of achieving capabilities that satisfy program requirements.
+  - **(16)** The term “chapter 148 legacy provision” means any of the following provisions of this subpart: sections 4801, 4811–4819, 4831–4834, 4841–4843, 4851, 4852, 4861–4864, 4871, 4872, 4881–4884, 4891, and 4892, and chapter 389.

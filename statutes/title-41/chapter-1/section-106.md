@@ -3,9 +3,9 @@ title: "Section 106 - Federal Acquisition Regulation"
 usc_title: 41
 usc_section: "106"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "41 U.S.C. § 106"
-generated_at: "2026-03-29T20:05:58.258Z"
+generated_at: "2026-03-29T20:34:07.724Z"
 ---
 
 # § 106. Federal Acquisition Regulation

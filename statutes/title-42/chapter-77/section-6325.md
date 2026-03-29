@@ -3,9 +3,9 @@ title: "Section 6325 - General provisions"
 usc_title: 42
 usc_section: "6325"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 6325"
-generated_at: "2026-03-29T20:07:44.419Z"
+generated_at: "2026-03-29T20:34:53.730Z"
 ---
 
 # § 6325. General provisions
@@ -17,11 +17,7 @@ generated_at: "2026-03-29T20:07:44.419Z"
 - **(e)** Within 90 days after August 14, 1976 , the Secretary shall—
   - **(1)** develop, by rule after consultation with the Secretary of Housing and Urban Development, and publish a list of energy conservation measures and renewable-resource energy measures which are eligible (on a national or regional basis) for financial assistance pursuant to section 1701z–8 of title 12 or section 6881 of this title ;
   - **(2)** designate, by rule, the types of, and requirements for, energy audits.
-- **(f)**
-  - **(1)** There is authorized to be appropriated to carry out this part $500,000,000 for the period of fiscal years 2022 through 2026.
-  - **(2)** Amounts made available under paragraph (1)—
-    - **(A)** shall be distributed to the States in accordance with the applicable distribution formula in effect on January 1, 2021 ; and
-    - **(B)** shall not be subject to the matching requirement described in section 6323a of this title .
+- **(f)** For the purpose of carrying out this part, there are authorized to be appropriated $125,000,000 for each of fiscal years 2007 through 2012.
 - **(g)**
   - **(1)**
     - **(A)** There is hereby established within the Department of Energy a State Energy Advisory Board (hereafter in this subsection referred to as the “Board”) which shall consist of at least 18 and not more than 21 members appointed by the Secretary as soon as practicable but no later than September 30, 1991 . At least eight of the members of the Board shall be persons who serve as directors of the State agency, or a division of such agency, responsible for developing State energy conservation plans pursuant to section 6322 of this title . At least four members shall be directors of State or local low income weatherization assistance programs. Other members shall be appointed from persons who have experience in energy efficiency or renewable energy programs from the private sector, consumer interest groups, utilities, public utility commissions, educational institutions, financial institutions, local government energy programs, or research institutions. A majority of the members of the Board shall be State employees.

@@ -3,9 +3,9 @@ title: "Section 3233 - Apprenticeship or other on-job training"
 usc_title: 38
 usc_section: "3233"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "38 U.S.C. § 3233"
-generated_at: "2026-03-29T20:05:54.705Z"
+generated_at: "2026-03-29T20:34:04.936Z"
 ---
 
 # § 3233. Apprenticeship or other on-job training

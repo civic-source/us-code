@@ -3,9 +3,9 @@ title: "Section 7298 - Retirement Fund"
 usc_title: 38
 usc_section: "7298"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "38 U.S.C. § 7298"
-generated_at: "2026-03-29T20:05:54.771Z"
+generated_at: "2026-03-29T20:34:04.992Z"
 ---
 
 # § 7298. Retirement Fund

@@ -3,9 +3,9 @@ title: "Section 451 - Definitions"
 usc_title: 37
 usc_section: "451"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "37 U.S.C. § 451"
-generated_at: "2026-03-29T20:05:44.917Z"
+generated_at: "2026-03-29T20:33:48.642Z"
 ---
 
 # § 451. Definitions
@@ -25,15 +25,12 @@ generated_at: "2026-03-29T20:05:44.917Z"
     - **(F)** An applicant or rejected applicant for enlistment.
     - **(G)** Any person whose employment or service is considered directly related to a Government official activity or function under regulations prescribed under section 464 of this title .
     - **(H)** Any other person not covered by subparagraphs (A) through (G) who is determined by the administering Secretary pursuant to regulations prescribed under section 464 of this title as warranting the provision of travel benefits for purposes of the following:
-      - **(i)** Transportation of survivors to attend burial services or transfer of deceased members after death overseas as provided in section 453(f) of this title .
-      - **(ii)** Transportation of designated individuals incident to the hospitalization of members as provided in section 452(b)(12) of this title .
-      - **(iii)** Transportation of designated individuals incident to the repatriation of members as provided in section 452(b)(13) of this title .
-      - **(iv)** Transportation of non-medical attendants as provided in section 452(b)(14) of this title .
-      - **(v)** Transportation of designated individuals to attend Yellow Ribbon Reintegration Program events as provided in section 452(b)(15) of this title .
+      - **(i)** Transportation of survivors to attend burial services or transfer of deceased members after death overseas as provided in section 481f of this title .
+      - **(ii)** Transportation of designated individuals incident to the hospitalization of members as provided in section 481h of this title .
+      - **(iii)** Transportation of designated individuals incident to the repatriation of members as provided in section 481j of this title .
+      - **(iv)** Transportation of non-medical attendants as provided in section 481k of this title .
+      - **(v)** Transportation of designated individuals to attend Yellow Ribbon Reintegration Program events as provided in section 481 l of this title.
       - **(vi)** Transportation of a person with regard to a single event when the administering Secretary determines that the travel is necessary to ensure fairness and equity, respond to emergency or humanitarian circumstances, or serve the best interests of the Government.
-      - **(vii)** Transportation of a dependent child of a member of the uniformed services to the United States to obtain formal secondary, undergraduate, graduate, or vocational education, if the permanent duty assignment location of the member is outside the continental United States (other than in Alaska or Hawaii).
-      - **(viii)** Transportation of a dependent child of a member of the uniformed services within the United States to obtain formal secondary, undergraduate, graduate, or vocational education, if the permanent duty assignment location of the member is in Alaska or Hawaii and the school is located in a State outside of the permanent duty assignment location.
-      - **(ix)** Transportation of a dependent to a location where a member of the uniformed services is on permanent duty aboard a ship that is overhauling, inactivating, or under construction.
   - **(3)** The term “family member”, with respect to a member of the uniformed services, means the following:
     - **(A)** A dependent, as defined in section 401(a) of this title .
     - **(B)** A child, as defined in section 401(b)(1) of this title .
@@ -53,10 +50,5 @@ generated_at: "2026-03-29T20:05:44.917Z"
   - **(5)** The term “transportation-, lodging-, or meals-in-kind” means transportation, lodging, or meals provided by the Government without cost to an authorized traveler.
   - **(6)** The term “miscellaneous expenses” means authorized expenses incurred in addition to authorized allowances during the performance of official travel by an authorized traveler.
   - **(7)** The term “personal property”, with respect to transportation allowances, includes baggage, furniture, and other household items, clothing, privately owned vehicles, house trailers, mobile homes, and any other personal items that would not otherwise be prohibited by any other provision of law or regulation prescribed under section 464 of this title .
-  - **(8)** The term “relocation allowances” means the costs associated with relocating a member of the uniformed services and the member’s dependents between an old and new temporary or permanent duty assignment location or other authorized location. Such costs include pet quarantine expenses.
+  - **(8)** The term “relocation allowances” means the costs associated with relocating a member of the uniformed services and the member’s dependents between an old and new temporary or permanent duty assignment location or other authorized location.
   - **(9)** The term “dislocation allowances” means the costs associated with relocation of the household of a member of the uniformed services and the member’s dependents in relation to a change in the member’s permanent duty assignment location ordered for the convenience of the Government or incident to an evacuation.
-  - **(10)**
-    - **(A)** The term “permanent duty assignment location” means—
-      - **(i)** the official station of a member of the uniformed services; or
-      - **(ii)** the residence of a dependent of a member of the uniformed services.
-    - **(B)** As used in subparagraph (A)(ii), the residence of a dependent who is a student not living with the member while at school is the permanent duty assignment location of the dependent student.

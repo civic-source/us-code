@@ -3,9 +3,9 @@ title: "Section 294 - Assignment of retired Justices or judges to active duty"
 usc_title: 28
 usc_section: "294"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "28 U.S.C. § 294"
-generated_at: "2026-03-29T20:05:24.744Z"
+generated_at: "2026-03-29T20:33:11.450Z"
 ---
 
 # § 294. Assignment of retired Justices or judges to active duty

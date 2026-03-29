@@ -3,9 +3,9 @@ title: "Section 524 - Availability of appropriations"
 usc_title: 28
 usc_section: "524"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "28 U.S.C. § 524"
-generated_at: "2026-03-29T20:05:24.754Z"
+generated_at: "2026-03-29T20:33:11.460Z"
 ---
 
 # § 524. Availability of appropriations
@@ -42,19 +42,14 @@ generated_at: "2026-03-29T20:05:24.754Z"
       - **(ii)** for equipping any vessel, vehicle, or aircraft available for official use by a State or local law enforcement agency to enable the vessel, vehicle, or aircraft to assist law enforcement functions if the vessel, vehicle, or aircraft will be used in a joint law enforcement operation with a Federal agency participating in the Fund; and
       - **(iii)** payments for other equipment directly related to seizure or forfeiture, including laboratory equipment, protective equipment, communications equipment, and the operation and maintenance costs of such equipment;
     - **(G)** for purchase of evidence of any violation of the Controlled Substances Act, the Controlled Substances Import and Export Act, chapter 96 of title 18, or sections 1956 and 1957 of title 18;
-    - **(H)** the payment of State and local property taxes on forfeited real property that accrued between the date of the violation giving rise to the forfeiture and the date of the forfeiture order;
-    - **(I)** payment of overtime salaries, travel, fuel, training, equipment, and other similar costs of State or local law enforcement officers that are incurred in a joint law enforcement operation with a Federal law enforcement agency participating in the Fund; and
-    - **(J)** at the discretion of the Attorney General, payments to reimburse operating expenses and program costs incurred by crime-tip organizations that—
-      - **(i)** annually waive their qualification for—
-        - **(I)** awards for information leading to forfeiture under subparagraph (C); and
-        - **(II)** receiving payment from equitably shared forfeiture funds; and
-      - **(ii)** offer rewards for information about violations of Federal criminal laws prohibiting human trafficking.
+    - **(H)** the payment of State and local property taxes on forfeited real property that accrued between the date of the violation giving rise to the forfeiture and the date of the forfeiture order; and
+    - **(I)** payment of overtime salaries, travel, fuel, training, equipment, and other similar costs of State or local law enforcement officers that are incurred in a joint law enforcement operation with a Federal law enforcement agency participating in the Fund.
   - **(2)** Any award paid from the Fund, as provided in paragraph (1)(B) or (C), shall be paid at the discretion of the Attorney General or his delegate, under existing departmental delegation policies for the payment of awards, except that the authority to pay an award of $250,000 or more shall not be delegated to any person other than the Deputy Attorney General, the Associate Attorney General, the Director of the Federal Bureau of Investigation, or the Administrator of the Drug Enforcement Administration. Any award pursuant to paragraph (1)(B) shall not exceed $500,000. Any award pursuant to paragraph (1)(C) shall not exceed the lesser of $500,000 or one-fourth of the amount realized by the United States from the property forfeited, without both the personal approval of the Attorney General and written notice within 30 days thereof to the Chairmen and ranking minority members of the Committees on Appropriations and the Judiciary of the Senate and of the House of Representatives.
   - **(3)** Any amount under subparagraph (G) of paragraph (1) shall be paid at the discretion of the Attorney General or his delegate, except that the authority to pay $100,000 or more may be delegated only to the respective head of the agency involved.
   - **(4)** There shall be deposited in the Fund—
     - **(A)** all amounts from the forfeiture of property under any law enforced or administered by the Department of Justice, except all proceeds of forfeitures available for use by the Secretary of the Treasury or the Secretary of the Interior pursuant to section 11(d) of the Endangered Species Act ( 16 U.S.C. 1540(d) ) or section 6(d) of the Lacey Act Amendments of 1981 ( 16 U.S.C. 3375(d) ), or the Postmaster General of the United States pursuant to 39 U.S.C. 2003(b)(7) ;
     - **(B)** all amounts representing the Federal equitable share from the forfeiture of property under any Federal, State, local or foreign law, for any Federal agency participating in the Fund;
-    - **(C)** all amounts transferred by the Secretary of the Treasury pursuant to section 9705(f)(4)(A) of title 31 ; and
+    - **(C)** all amounts transferred by the Secretary of the Treasury pursuant to section 9705(g)(4)(A) of title 31 ; and
     - **(D)** all amounts collected—
       - **(i)** by the United States pursuant to a reimbursement order under paragraph (2) of section 413(q) of the Controlled Substances Act ( 21 U.S.C. 853(q) ); and
       - **(ii)** pursuant to a restitution order under paragraph (1) or (3) of section 413(q) of the Controlled Substances Act for injuries to the United States.
@@ -83,7 +78,7 @@ generated_at: "2026-03-29T20:05:24.754Z"
   - **(9)**
     - **(A)** Following the completion of procedures for the forfeiture of property pursuant to any law enforced or administered by the Department, the Attorney General is authorized, in her discretion, to warrant clear title to any subsequent purchaser or transferee of such property.
     - **(B)** For fiscal years 2002 and 2003, the Attorney General is authorized to transfer, under such terms and conditions as the Attorney General shall specify, real or personal property of limited or marginal value, to a State or local government agency, or its designated contractor or transferee, for use to support drug abuse treatment, drug and crime prevention and education, housing, job skills, and other community-based public health and safety programs. Each such transfer shall be subject to satisfaction by the recipient involved of any outstanding lien against the property transferred, but no such transfer shall create or confer any private right of action in any person against the United States.
-  - **(10)** The Attorney General shall transfer from the Fund to the Secretary of the Treasury for deposit in the Department of the Treasury Forfeiture Fund amounts appropriate to reflect the degree of participation of the Department of the Treasury law enforcement organizations (described in section 9705(n) of title 31 ) in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by the Department of Justice.
+  - **(10)** The Attorney General shall transfer from the Fund to the Secretary of the Treasury for deposit in the Department of the Treasury Forfeiture Fund amounts appropriate to reflect the degree of participation of the Department of the Treasury law enforcement organizations (described in section 9705( o ) of title 31) in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by the Department of Justice.
   - **(11)** For purposes of this subsection and notwithstanding section 9705 of title 31 or any other law, property is forfeited pursuant to a law enforced or administered by the Department of Justice if it is forfeited pursuant to—
     - **(A)** a judicial forfeiture proceeding when the underlying seizure was made by an officer of a Federal law enforcement agency participating in the Department of Justice Assets Forfeiture Fund or the property was maintained by the United States Marshals Service; or
     - **(B)** a civil administrative forfeiture proceeding conducted by a Department of Justice law enforcement component or pursuant to the authority of the Secretary of Commerce.

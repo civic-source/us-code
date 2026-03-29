@@ -1,0 +1,20 @@
+---
+title: "Section 2538a - Plutonium pit production capacity"
+usc_title: 50
+usc_section: "2538a"
+chapter: 42
+current_through: "PL 117-24"
+classification: "50 U.S.C. § 2538a"
+generated_at: "2026-03-29T20:35:05.188Z"
+---
+
+# § 2538a. Plutonium pit production capacity
+
+- **(a)** Consistent with the requirements of the Secretary of Defense, the Secretary of Energy shall ensure that the nuclear security enterprise—
+  - **(1)** during 2021, begins production of qualification plutonium pits;
+  - **(2)** during 2024, produces not less than 10 war reserve plutonium pits;
+  - **(3)** during 2025, produces not less than 20 war reserve plutonium pits;
+  - **(4)** during 2026, produces not less than 30 war reserve plutonium pits; and
+  - **(5)** during 2030, produces not less than 80 war reserve plutonium pits.
+- **(b)** Not later than March 1, 2015 , and each year thereafter through 2030, the Secretary of Energy shall certify to the congressional defense committees and the Secretary of Defense that the programs and budget of the Secretary of Energy will enable the nuclear security enterprise to meet the requirements under subsection (a).
+- **(c)** If the Secretary of Energy does not make a certification under subsection (b) by March 1 of any year in which a certification is required under that subsection, by not later than May 1 of such year, the Chairman of the Nuclear Weapons Council shall submit to the congressional defense committees a plan to enable the nuclear security enterprise to meet the requirements under subsection (a). Such plan shall include identification of the resources of the Department of Energy that the Chairman determines should be redirected to support the plan to meet such requirements.

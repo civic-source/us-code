@@ -3,9 +3,9 @@ title: "Section 2 - Enrollment and general assistance payments"
 usc_title: 25
 usc_section: "2"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "25 U.S.C. § 2"
-generated_at: "2026-03-29T20:04:54.309Z"
+generated_at: "2026-03-29T20:32:54.643Z"
 ---
 
 # § 13d–2. Enrollment and general assistance payments

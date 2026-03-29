@@ -3,9 +3,9 @@ title: "Section 504 - Commandant; general powers"
 usc_title: 14
 usc_section: "504"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "14 U.S.C. § 504"
-generated_at: "2026-03-29T20:03:17.278Z"
+generated_at: "2026-03-29T20:32:03.583Z"
 ---
 
 # § 504. Commandant; general powers
@@ -36,9 +36,8 @@ generated_at: "2026-03-29T20:03:17.278Z"
   - **(21)** require that any member of the Coast Guard or Coast Guard Reserve (including a cadet or an applicant for appointment or enlistment to any of the foregoing and any member of a uniformed service who is assigned to the Coast Guard) request that all information contained in the National Driver Register pertaining to the individual, as described in section 30304(a) of title 49 , be made available to the Commandant under section 30305(b)(7) of title 49 , may receive that information, and upon receipt, shall make the information available to the individual;
   - **(22)** provide for the honorary recognition of individuals and organizations that significantly contribute to Coast Guard programs, missions, or operations, including State and local governments and commercial and nonprofit organizations, and pay for, using any appropriations or funds available to the Coast Guard, plaques, medals, trophies, badges, and similar items to acknowledge such contribution (including reasonable expenses of ceremony and presentation);
   - **(23)** rent or lease, under such terms and conditions as are considered by the Secretary to be advisable, commercial vehicles to transport the next of kin of eligible retired Coast Guard military personnel to attend funeral services of the service member at a national cemetery;
-  - **(24)** after informing the Secretary, make such recommendations to the Congress relating to the Coast Guard as the Commandant considers appropriate;
-  - **(25)** enter into cooperative agreements, contracts, and other agreements with Federal entities and other public or private entities, including academic entities, to develop a positioning, navigation, and timing system to provide redundant capability in the event Global Positioning System signals are disrupted, which may consist of an enhanced LORAN system; and
-  - **(26)** develop data workflows and processes for the leveraging of mission-relevant data by the Coast Guard to enhance operational effectiveness and efficiency.
+  - **(24)** after informing the Secretary, make such recommendations to the Congress relating to the Coast Guard as the Commandant considers appropriate; and
+  - **(25)** enter into cooperative agreements, contracts, and other agreements with Federal entities and other public or private entities, including academic entities, to develop a positioning, navigation, and timing system to provide redundant capability in the event Global Positioning System signals are disrupted, which may consist of an enhanced LORAN system.
 - **(b)**
   - **(1)** Notwithstanding subsection (a)(13), a lease described in paragraph (2) of this subsection may be for a term of up to 20 years.
   - **(2)** A lease referred to in paragraph (1) is a lease—

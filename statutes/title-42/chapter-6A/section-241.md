@@ -3,9 +3,9 @@ title: "Section 241 - Research and investigations generally"
 usc_title: 42
 usc_section: "241"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 241"
-generated_at: "2026-03-29T20:07:42.927Z"
+generated_at: "2026-03-29T20:34:52.533Z"
 ---
 
 # § 241. Research and investigations generally
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T20:07:42.927Z"
   - **(4)** secure from time to time and for such periods as he deems advisable, the assistance and advice of experts, scholars, and consultants from the United States or abroad;
   - **(5)** for purposes of study, admit and treat at institutions, hospitals, and stations of the Service, persons not otherwise eligible for such treatment;
   - **(6)** make available, to health officials, scientists, and appropriate public and other nonprofit institutions and organizations, technical advice and assistance on the application of statistical methods to experiments, studies, and surveys in health and medical fields;
-  - **(7)** enter into contracts, including contracts for research in accordance with and subject to the provisions of law applicable to contracts entered into by the military departments under sections 3861 and 4141 of title 10, except that determination, approval, and certification required thereby shall be by the Secretary of Health and Human Services; and
+  - **(7)** enter into contracts, including contracts for research in accordance with and subject to the provisions of law applicable to contracts entered into by the military departments under sections 2353 and 2354 of title 10, except that determination, approval, and certification required thereby shall be by the Secretary of Health and Human Services; and
   - **(8)** adopt, upon recommendations of the advisory councils to the appropriate entities of the Department or, with respect to mental health, the National Advisory Mental Health Council, such additional means as the Secretary considers necessary or appropriate to carry out the purposes of this section.
 - **(b)**
   - **(1)** The Secretary shall conduct and may support through grants and contracts studies and testing of substances for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects. In carrying out this paragraph, the Secretary shall consult with entities of the Federal Government, outside of the Department of Health and Human Services, engaged in comparable activities. The Secretary, upon request of such an entity and under appropriate arrangements for the payment of expenses, may conduct for such entity studies and testing of substances for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects.
@@ -54,7 +54,7 @@ generated_at: "2026-03-29T20:07:42.927Z"
   - **(4)** For purposes of this subsection, the term “identifiable, sensitive information” means information that is about an individual and that is gathered or used during the course of research described in paragraph (1)(A) and—
     - **(A)** through which an individual is identified; or
     - **(B)** for which there is at least a very small risk, as determined by current scientific practices or statistical methods, that some combination of the information, a request for the information, and other available data sources could be used to deduce the identity of an individual.
-- **(e)** The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall expand, intensify, and coordinate the activities of the Centers for Disease Control and Prevention with respect to preterm labor and delivery, preventable maternal mortality and severe maternal morbidity, and infant mortality.
+- **(e)** The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall expand, intensify, and coordinate the activities of the Centers for Disease Control and Prevention with respect to preterm labor and delivery and infant mortality.
 - **(f)**
   - **(1)** The Secretary may exempt from disclosure under section 552(b)(3) of title 5 biomedical information that is about an individual and that is gathered or used during the course of biomedical research if—
     - **(A)** an individual is identified; or

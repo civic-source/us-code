@@ -3,9 +3,9 @@ title: "Section 3352c - Goals for promptness of determinations regarding securit
 usc_title: 50
 usc_section: "3352c"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "50 U.S.C. § 3352c"
-generated_at: "2026-03-29T20:08:11.228Z"
+generated_at: "2026-03-29T20:35:05.243Z"
 ---
 
 # § 3352c. Goals for promptness of determinations regarding security clearances
@@ -17,6 +17,6 @@ generated_at: "2026-03-29T20:08:11.228Z"
   - **(2)** reciprocity of security clearances at the same level are recognized in 2 weeks or fewer.
 - **(b)** The Council shall reform the security clearance process with the goal that by December 31, 2021 , reinvestigation on a set periodicity is not required for more than 10 percent of the population that holds a security clearance.
 - **(c)**
-  - **(1)** If the Council develops a set of performance metrics that it certifies to the appropriate congressional committees should achieve substantially equivalent outcomes as those outlined in subsections (a) and (b), the Council may use those metrics for purposes of compliance within this provision.
+  - **(1)** If the Council develops a set of performance metrics that it certifies to the appropriate congressional committees should achieve substantially equivalent outcomes as those outlined in subsections (b) and (c), 1 1 So in original. Probably should be “subsections (a) and (b)”. the Council may use those metrics for purposes of compliance within this provision.
   - **(2)** If the Council uses the authority provided by paragraph (1) to use metrics as described in such paragraph, the Council shall, not later than 30 days after communicating such metrics to departments and agencies, notify the appropriate congressional committees that it is using such authority.
-- **(d)** Not later than 180 days after December 20, 2019 , the Council shall submit to the appropriate congressional committees and make available to appropriate industry partners a plan to carry out this section. Such plan shall include recommended interim milestones for the goals set forth in subsections (a) and (b) for 2019, 2020, and 2021.
+- **(d)** Not later than 180 days after December 20, 2019 , the Council shall submit to the appropriate congressional committees and make available to appropriate industry partners a plan to carry out this section. Such plan shall include recommended interim milestones for the goals set forth in subsections (b) and (c) 1 for 2019, 2020, and 2021.

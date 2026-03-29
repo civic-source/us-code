@@ -3,17 +3,15 @@ title: "Section 1810 - Civil liability"
 usc_title: 50
 usc_section: "1810"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "50 U.S.C. § 1810"
-generated_at: "2026-03-29T20:08:11.146Z"
+generated_at: "2026-03-29T20:35:05.143Z"
 ---
 
 # § 1810. Civil liability
 
 An aggrieved person, other than a foreign power or an agent of a foreign power, as defined in section 1801(a) or (b)(1)(A) of this title, respectively, who has been subjected to an electronic surveillance or about whom information obtained by electronic surveillance of such person has been disclosed or used in violation of section 1809 of this title shall have a cause of action against any person who committed such violation and shall be entitled to recover—
 
-- **(a)** actual damages, but not less than liquidated damages equal to the greater of—
-  - **(1)** if the aggrieved person is a United States person, $10,000 or $1,000 per day for each day of violation; or
-  - **(2)** for any other aggrieved person, $1,000 or $100 per day for each day of violation;
+- **(a)** actual damages, but not less than liquidated damages of $1,000 or $100 per day for each day of violation, whichever is greater;
 - **(b)** punitive damages; and
 - **(c)** reasonable attorney’s fees and other investigation and litigation costs reasonably incurred.

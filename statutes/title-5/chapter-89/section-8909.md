@@ -3,20 +3,19 @@ title: "Section 8909 - Employees Health Benefits Fund"
 usc_title: 5
 usc_section: "8909"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "5 U.S.C. § 8909"
-generated_at: "2026-03-29T20:02:37.916Z"
+generated_at: "2026-03-29T20:31:26.955Z"
 ---
 
 # § 8909. Employees Health Benefits Fund
 
 - **(a)** There is in the Treasury of the United States an Employees Health Benefits Fund which is administered by the Office of Personnel Management. The contributions of enrollees and the Government described by section 8906 of this title shall be paid into the Fund. The Fund is available—
   - **(1)** without fiscal year limitation for all payments to approved health benefits plans; and
-  - **(2)** to pay expenses for administering this chapter within the limitations that may be specified annually by Congress, except that the amounts required to be set aside under subsection (b)(2) shall not be subject to the limitations that may be specified annually by Congress.
+  - **(2)** to pay expenses for administering this chapter within the limitations that may be specified annually by Congress.
 - **(b)** Portions of the contributions made by enrollees and the Government shall be regularly set aside in the Fund as follows:
   - **(1)** A percentage, not to exceed 1 percent of all contributions, determined by the Office to be reasonably adequate to pay the administrative expenses made available by subsection (a) of this section.
-  - **(2)** In fiscal year 2026, $66,000,000, to be derived from all contributions, and to remain available until the end of fiscal year 2035, for the Director of the Office to carry out subsections (c) through (f) of the FEHB Protection Act of 2025.
-  - **(3)** For each health benefits plan, a percentage, not to exceed 3 percent of the contributions toward the plan, determined by the Office to be reasonably adequate to provide a contingency reserve.
+  - **(2)** For each health benefits plan, a percentage, not to exceed 3 percent of the contributions toward the plan, determined by the Office to be reasonably adequate to provide a contingency reserve.
 - **(c)** The Secretary of the Treasury may invest and reinvest any of the money in the Fund in interest-bearing obligations of the United States, and may sell these obligations for the purposes of the Fund. The interest on and the proceeds from the sale of these obligations become a part of the Fund.
 - **(d)** When the assets, liabilities, and membership of employee organizations sponsoring or underwriting plans approved under section 8903(3) or 8903a of this title are merged, the assets (including contingency reserves) and liabilities of the plans sponsored or underwritten by the merged organizations shall be transferred at the beginning of the contract term next following the date of the merger to the plan sponsored or underwritten by the successor organization. Each employee, annuitant, former spouse, or person having continued coverage under section 8905a of this title affected by a merger shall be transferred to the plan sponsored or underwritten by the successor organization unless he enrolls in another plan under this chapter. If the successor organization is an organization described in section 8901(8)(B) of this title , any employee, annuitant, former spouse, or person having continued coverage under section 8905a of this title so transferred may not remain enrolled in the plan after the end of the contract term in which the merger occurs unless that individual is a full member of such organization (as determined under section 8903a(d) of this title ).
 - **(e)**

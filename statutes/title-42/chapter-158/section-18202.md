@@ -3,9 +3,9 @@ title: "Section 18202 - Establishment of Pregnancy Assistance Fund"
 usc_title: 42
 usc_section: "18202"
 chapter: 158
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 18202"
-generated_at: "2026-03-29T20:07:44.994Z"
+generated_at: "2026-03-29T20:34:54.312Z"
 ---
 
 # § 18202. Establishment of Pregnancy Assistance Fund

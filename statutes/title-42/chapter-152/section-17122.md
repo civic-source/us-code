@@ -3,9 +3,9 @@ title: "Section 17122 - Research and development"
 usc_title: 42
 usc_section: "17122"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 17122"
-generated_at: "2026-03-29T20:07:44.947Z"
+generated_at: "2026-03-29T20:34:54.271Z"
 ---
 
 # § 17122. Research and development

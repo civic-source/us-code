@@ -3,9 +3,9 @@ title: "Section 7208 - Offenses relating to stamps"
 usc_title: 26
 usc_section: "7208"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 7208"
-generated_at: "2026-03-29T20:05:22.737Z"
+generated_at: "2026-03-29T20:33:27.359Z"
 ---
 
 # § 7208. Offenses relating to stamps

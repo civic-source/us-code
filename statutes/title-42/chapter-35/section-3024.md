@@ -3,9 +3,9 @@ title: "Section 3024 - Allotment to States"
 usc_title: 42
 usc_section: "3024"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 3024"
-generated_at: "2026-03-29T20:07:44.209Z"
+generated_at: "2026-03-29T20:34:53.549Z"
 ---
 
 # § 3024. Allotment to States

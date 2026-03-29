@@ -3,9 +3,9 @@ title: "Section 1804a - Planning grants"
 usc_title: 25
 usc_section: "1804a"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "25 U.S.C. § 1804a"
-generated_at: "2026-03-29T20:04:54.387Z"
+generated_at: "2026-03-29T20:32:54.716Z"
 ---
 
 # § 1804a. Planning grants

@@ -3,9 +3,9 @@ title: "Section 1561 - Public stores"
 usc_title: 19
 usc_section: "1561"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "19 U.S.C. § 1561"
-generated_at: "2026-03-29T20:04:27.312Z"
+generated_at: "2026-03-29T20:32:31.733Z"
 ---
 
 # § 1561. Public stores

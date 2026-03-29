@@ -3,9 +3,9 @@ title: "Section 2356 - Project consultation"
 usc_title: 33
 usc_section: "2356"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "33 U.S.C. § 2356"
-generated_at: "2026-03-29T20:05:35.843Z"
+generated_at: "2026-03-29T20:33:34.309Z"
 ---
 
 # § 2356. Project consultation

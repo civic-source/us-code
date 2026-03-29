@@ -3,9 +3,9 @@ title: "Section 40731 - Issuance or loan of firearms and supplies"
 usc_title: 36
 usc_section: "40731"
 chapter: 407
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "36 U.S.C. § 40731"
-generated_at: "2026-03-29T20:05:40.571Z"
+generated_at: "2026-03-29T20:33:50.626Z"
 ---
 
 # § 40731. Issuance or loan of firearms and supplies

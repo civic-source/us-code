@@ -3,9 +3,9 @@ title: "Section 8316 - Authorization of appropriations"
 usc_title: 7
 usc_section: "8316"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 8316"
-generated_at: "2026-03-29T20:02:52.853Z"
+generated_at: "2026-03-29T20:31:42.277Z"
 ---
 
 # § 8316. Authorization of appropriations

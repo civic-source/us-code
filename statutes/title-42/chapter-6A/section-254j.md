@@ -3,9 +3,9 @@ title: "Section 254j - National Advisory Council on National Health Service Corp
 usc_title: 42
 usc_section: "254j"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 254j"
-generated_at: "2026-03-29T20:07:42.997Z"
+generated_at: "2026-03-29T20:34:52.582Z"
 ---
 
 # § 254j. National Advisory Council on National Health Service Corps
@@ -14,4 +14,4 @@ generated_at: "2026-03-29T20:07:42.997Z"
 - **(b)**
   - **(1)** Members of the Council shall be appointed for a term of three years, except that any member appointed to fill a vacancy occurring prior to the expiration of the term for which the member’s predecessor was appointed shall be appointed for the remainder of such term. No member shall be removed, except for cause.
   - **(2)** Members of the Council (other than members who are officers or employees of the United States), while attending meetings or conferences thereof or otherwise serving on the business of the Council, shall be entitled to receive for each day (including traveltime) in which they are so serving compensation at a rate fixed by the Secretary (but not to exceed the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule); and while so serving away from their homes or regular places of business all members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government Service employed intermittently.
-- **(c)** Section 1013 of title 5 shall not apply with respect to the Council.
+- **(c)** Section 14 of the Federal Advisory Committee Act shall not apply with respect to the Council.

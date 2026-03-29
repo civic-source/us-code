@@ -1,12 +1,14 @@
 ---
-title: "Section 2 - Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(14) , Dec. 23, 2022 , 136 Stat. 4165"
+title: "Section 2 - Application to persons of Coast Guard"
 usc_title: 33
 usc_section: "2"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "33 U.S.C. § 2"
-generated_at: "2026-03-29T20:05:35.691Z"
+generated_at: "2026-03-29T20:33:34.198Z"
 ---
 
-# § 763a–2. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(14) , Dec. 23, 2022 , 136 Stat. 4165
+# § 763a–2. Application to persons of Coast Guard
+
+The provisions of sections 763 1 1 See References in Text note below. and 763a–1 1 of this title shall not apply to persons of the Coast Guard other than officers and employees of the former Lighthouse Service who, on June 30, 1939 , met the requirements for retirement (except those relating to age and period of service) of said sections.
 

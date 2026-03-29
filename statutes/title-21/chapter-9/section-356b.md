@@ -3,17 +3,16 @@ title: "Section 356b - Reports of postmarketing studies"
 usc_title: 21
 usc_section: "356b"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "21 U.S.C. § 356b"
-generated_at: "2026-03-29T20:04:50.440Z"
+generated_at: "2026-03-29T20:32:52.501Z"
 ---
 
 # § 356b. Reports of postmarketing studies
 
 - **(a)**
   - **(1)** A sponsor of a drug that has entered into an agreement with the Secretary to conduct a postmarketing study of a drug shall submit to the Secretary, within 1 year after the approval of such drug and annually thereafter until the study is completed or terminated, a report of the progress of the study or the reasons for the failure of the sponsor to conduct the study. The report shall be submitted in such form as is prescribed by the Secretary in regulations issued by the Secretary.
-  - **(2)** Notwithstanding paragraph (1), a sponsor of a drug approved pursuant to accelerated approval shall submit to the Secretary a report of the progress of any study required under section 356(c) of this title , including progress toward enrollment targets, milestones, and other information as required by the Secretary, not later than 180 days after the approval of such drug and not less frequently than every 180 days thereafter, until the study is completed or terminated. The Secretary shall promptly publish on the website of the Food and Drug Administration, in an easily searchable format, the information reported under this paragraph.
-  - **(3)** Any agreement entered into between the Secretary and a sponsor of a drug, prior to November 21, 1997 , to conduct a postmarketing study of a drug shall be subject to the requirements of paragraph (1). An initial report for such an agreement shall be submitted within 6 months after the date of the issuance of the regulations under paragraph (1).
+  - **(2)** Any agreement entered into between the Secretary and a sponsor of a drug, prior to November 21, 1997 , to conduct a postmarketing study of a drug shall be subject to the requirements of paragraph (1). An initial report for such an agreement shall be submitted within 6 months after the date of the issuance of the regulations under paragraph (1).
 - **(b)** Any information pertaining to a report described in subsection (a) shall be considered to be public information to the extent that the information is necessary—
   - **(1)** to identify the sponsor; and
   - **(2)** to establish the status of a study described in subsection (a) and the reasons, if any, for any failure to carry out the study.

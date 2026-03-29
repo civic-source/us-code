@@ -3,9 +3,9 @@ title: "Section 2185 - Programs to be consistent with programs administered by t
 usc_title: 10
 usc_section: "2185"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2185"
-generated_at: "2026-03-29T20:03:09.651Z"
+generated_at: "2026-03-29T20:31:54.561Z"
 ---
 
 # § 2185. Programs to be consistent with programs administered by the Department of Veterans Affairs

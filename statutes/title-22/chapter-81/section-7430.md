@@ -3,9 +3,9 @@ title: "Section 7430 - Application of sections 7423 and 7425 to exercise of cons
 usc_title: 22
 usc_section: "7430"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 7430"
-generated_at: "2026-03-29T20:04:46.968Z"
+generated_at: "2026-03-29T20:33:00.146Z"
 ---
 
 # § 7430. Application of sections 7423 and 7425 to exercise of constitutional authorities

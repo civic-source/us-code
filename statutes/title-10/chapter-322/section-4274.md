@@ -1,12 +1,20 @@
 ---
-title: "Section 4274 - Omitted]"
+title: "Section 4274 - Acquisition-related functions of chiefs of the armed forces: adherence to requirements in major defense acquisition programs"
 usc_title: 10
 usc_section: "4274"
 chapter: 322
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 4274"
-generated_at: "2026-03-29T20:03:09.784Z"
+generated_at: "2026-03-29T20:31:54.692Z"
 ---
 
-# [§ 4274. Omitted]
+# § 4274. Acquisition-related functions of chiefs of the armed forces: adherence to requirements in major defense acquisition programs
 
+- **(a)** The Secretary of the military department concerned shall ensure that the program capability document supporting a Milestone B or subsequent decision for a major defense acquisition program may not be approved until the chief of the armed force concerned determines in writing that the requirements in the document are necessary and realistic in relation to the program cost and fielding targets established under 4271(a) 1 1 So in original. Probably should be preceded by “section”. of this title.
+- **(b)** Consistent with the performance of duties under section 3053 of this title , the Chief of the armed force concerned, or in the case of a joint program the chiefs of the armed forces concerned, with respect to major defense acquisition programs, shall—
+  - **(1)** concur with the need for a materiel solution as identified in the Materiel Development Decision Review prior to entry into the Materiel Solution Analysis Phase under Department of Defense Instruction 5000.02;
+  - **(2)** concur with the cost, schedule, technical feasibility, and performance trade-offs that have been made with regard to the program before Milestone A approval is granted under section 4251 of this title ;
+  - **(3)** concur that appropriate trade-offs among cost, schedule, technical feasibility, and performance objectives have been made to ensure that the program is affordable when considering the per unit cost and the total life-cycle cost before Milestone B approval is granted under section 4252 of this title ; and
+  - **(4)** concur that the requirements in the program capability document are necessary and realistic in relation to program cost and fielding targets as required by paragraph (1) before Milestone C approval is granted.
+- **(c)** Nothing in this section shall be construed to affect the assignment of functions under section 7014(c)(1)(A), section 8014(c)(1)(A), or section 9014(c)(1)(A) of this title , except as explicitly provided in this section.
+- **(d)** In this section, the term “program capability document” has the meaning provided that term in section 4401(b)(5) of this title .

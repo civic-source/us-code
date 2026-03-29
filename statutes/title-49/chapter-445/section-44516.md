@@ -3,9 +3,9 @@ title: "Section 44516 - Human factors program"
 usc_title: 49
 usc_section: "44516"
 chapter: 445
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 44516"
-generated_at: "2026-03-29T20:07:58.598Z"
+generated_at: "2026-03-29T20:35:10.917Z"
 ---
 
 # § 44516. Human factors program

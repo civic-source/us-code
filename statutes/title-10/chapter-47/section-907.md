@@ -3,9 +3,9 @@ title: "Section 907 - Art. 107. False official statements; false swearing"
 usc_title: 10
 usc_section: "907"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 907"
-generated_at: "2026-03-29T20:03:09.517Z"
+generated_at: "2026-03-29T20:31:54.454Z"
 ---
 
 # § 907. Art. 107. False official statements; false swearing

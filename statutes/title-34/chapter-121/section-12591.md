@@ -3,9 +3,9 @@ title: "Section 12591 - Quality assurance and proficiency testing standards"
 usc_title: 34
 usc_section: "12591"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "34 U.S.C. § 12591"
-generated_at: "2026-03-29T20:05:30.408Z"
+generated_at: "2026-03-29T20:33:40.353Z"
 ---
 
 # § 12591. Quality assurance and proficiency testing standards
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T20:05:30.408Z"
     - **(B)** In this Act, the term “Rapid DNA instruments” means instrumentation that carries out a fully automated process to derive a DNA analysis from a DNA sample.
 - **(b)**
   - **(1)** For administrative purposes, the advisory board appointed under subsection (a) shall be considered an advisory board to the Director of the Federal Bureau of Investigation.
-  - **(2)** Section 1013 of title 5 shall not apply with respect to the advisory board appointed under subsection (a).
+  - **(2)** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the advisory board appointed under subsection (a).
   - **(3)** The DNA advisory board established under this section shall be separate and distinct from any other advisory board administered by the FBI, and is to be administered separately.
   - **(4)** The board shall cease to exist on the date 5 years after the initial appointments are made to the board, unless the existence of the board is extended by the Director of the Federal Bureau of Investigation.
 - **(c)**

@@ -3,9 +3,9 @@ title: "Section 1326 - Authority of the Inspector General"
 usc_title: 49
 usc_section: "1326"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 1326"
-generated_at: "2026-03-29T20:07:58.421Z"
+generated_at: "2026-03-29T20:35:10.756Z"
 ---
 
 # § 1326. Authority of the Inspector General
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T20:07:58.421Z"
   - **(1)** keep the Chairman of the Board, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives fully and currently informed about problems relating to administration of the internal accounting and administrative control systems of the Board;
   - **(2)** issue findings and recommendations for actions to address the problems referred to in paragraph (1); and
   - **(3)** submit periodic reports to the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives that describe any progress made in implementing actions to address the problems referred to in paragraph (1).
-- **(c)** In carrying out this section, the Inspector General may exercise authorities granted to the Inspector General under subsections (a) and (c) of section 406 of title 5 .
+- **(c)** In carrying out this section, the Inspector General may exercise authorities granted to the Inspector General under subsections (a) and (b) of section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).
 - **(d)**
   - **(1)** There are authorized to be appropriated to the Secretary of Transportation for use by the Inspector General of the Department of Transportation such sums as may be necessary to cover expenses associated with activities pursuant to the authority exercised under this section.
   - **(2)** In the absence of an appropriation under this subsection for an expense referred to in paragraph (1), the Inspector General and the Board shall have a reimbursement agreement to cover such expense.

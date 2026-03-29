@@ -3,9 +3,9 @@ title: "Section 1453 - Cancellation of certificates issued by Attorney General, 
 usc_title: 8
 usc_section: "1453"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "8 U.S.C. § 1453"
-generated_at: "2026-03-29T20:02:46.267Z"
+generated_at: "2026-03-29T20:31:32.256Z"
 ---
 
 # § 1453. Cancellation of certificates issued by Attorney General, the Commissioner or a Deputy Commissioner; action not to affect citizenship status

@@ -3,9 +3,9 @@ title: "Section 115 - Advance construction"
 usc_title: 23
 usc_section: "115"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "23 U.S.C. § 115"
-generated_at: "2026-03-29T20:04:51.969Z"
+generated_at: "2026-03-29T20:32:49.805Z"
 ---
 
 # § 115. Advance construction
@@ -16,4 +16,4 @@ generated_at: "2026-03-29T20:04:51.969Z"
     - **(A)** with the aid of Federal funds previously apportioned or allocated to the State; or
     - **(B)** with obligation authority previously allocated to the State.
 - **(b)** The Secretary, on the request of a State and execution of a project agreement, may obligate all or a portion of the Federal share of a project authorized to proceed under this section from any category of funds for which the project is eligible.
-- **(c)** The Secretary may approve an application for a project under this section only if the project is included in the transportation improvement program of the State developed under section 135(g).
+- **(c)** The Secretary may approve an application for a project under this section only if the project is included in the transportation improvement program of the State developed under section 135(f).

@@ -1,12 +1,14 @@
 ---
-title: "Section 2791b - Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(3) , Dec. 18, 2025 , 139 Stat. 1458"
+title: "Section 2791b - Charges to individual program, project, or activity"
 usc_title: 50
 usc_section: "2791b"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "50 U.S.C. § 2791b"
-generated_at: "2026-03-29T20:08:11.184Z"
+generated_at: "2026-03-29T20:35:05.202Z"
 ---
 
-# § 2791b. Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(3) , Dec. 18, 2025 , 139 Stat. 1458
+# § 2791b. Charges to individual program, project, or activity
+
+Of the funds authorized by the Secretary of Energy for laboratory directed research and development, no individual program, project, or activity funded by this or any subsequent Act making appropriations for Energy and Water Development for any fiscal year may be charged more than the statutory maximum authorized for such activities: Provided , That this section shall take effect not earlier than October 1, 2015 .
 

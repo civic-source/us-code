@@ -3,9 +3,9 @@ title: "Section 5332 - The General Schedule"
 usc_title: 5
 usc_section: "5332"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "5 U.S.C. § 5332"
-generated_at: "2026-03-29T20:02:37.805Z"
+generated_at: "2026-03-29T20:31:26.766Z"
 ---
 
 # § 5332. The General Schedule

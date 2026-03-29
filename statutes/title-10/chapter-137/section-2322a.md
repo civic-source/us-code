@@ -1,12 +1,20 @@
 ---
-title: "Section 2322a - Renumbered § 4576]"
+title: "Section 2322a - Requirement for consideration of certain matters during acquisition of noncommercial computer software"
 usc_title: 10
 usc_section: "2322a"
 chapter: 137
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2322a"
-generated_at: "2026-03-29T20:03:09.670Z"
+generated_at: "2026-03-29T20:31:54.583Z"
 ---
 
-# [§ 2322a. Renumbered § 4576]
+# § 2322a. Requirement for consideration of certain matters during acquisition of noncommercial computer software
 
+- **(a)** As part of any negotiation for the acquisition of noncommercial computer software, the Secretary of Defense shall ensure that such negotiations consider, to the maximum extent practicable, acquisition, at the appropriate time in the life cycle of the noncommercial computer software, of all software and related materials necessary—
+  - **(1)** to reproduce, build, or recompile the software from original source code and required libraries;
+  - **(2)** to conduct required computer software testing; and
+  - **(3)** to deploy working computer software system binary files on relevant system hardware.
+- **(b)** Any noncommercial computer software or related materials required to be delivered as a result of considerations in subsection (a) shall, to the extent appropriate as determined by the Secretary—
+  - **(1)** include computer software delivered in a useable, digital format;
+  - **(2)** not rely on external or additional software code or data, unless such software code or data is included in the items to be delivered; and
+  - **(3)** in the case of negotiated terms that do not allow for the inclusion of dependent software code or data, sufficient documentation to support maintenance and understanding of interfaces and software revision history.

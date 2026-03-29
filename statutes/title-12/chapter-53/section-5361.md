@@ -3,9 +3,9 @@ title: "Section 5361 - Reports by and examinations of nonbank financial companie
 usc_title: 12
 usc_section: "5361"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "12 U.S.C. § 5361"
-generated_at: "2026-03-29T20:03:45.966Z"
+generated_at: "2026-03-29T20:32:15.214Z"
 ---
 
 # § 5361. Reports by and examinations of nonbank financial companies by the Board of Governors
@@ -20,9 +20,6 @@ generated_at: "2026-03-29T20:03:45.966Z"
     - **(C)** information that is otherwise required to be reported publicly; and
     - **(D)** externally audited financial statements of such company or subsidiary.
   - **(3)** Upon the request of the Board of Governors, a nonbank financial company supervised by the Board of Governors, or a subsidiary thereof, shall promptly provide to the Board of Governors any information described in paragraph (2).
-  - **(4)**
-    - **(A)** The Board of Governors shall adopt data standards for all information that, through a collection of information, is regularly filed with or submitted to the Board of Governors under this subsection by any nonbank financial company supervised by the Board of Governors or any subsidiary thereof.
-    - **(B)** The data standards required under subparagraph (A) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of this title , including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of section 5334 of this title .
 - **(b)**
   - **(1)** Subject to paragraph (2), the Board of Governors may examine any nonbank financial company supervised by the Board of Governors and any subsidiary of such company, to inform the Board of Governors of—
     - **(A)** the nature of the operations and financial condition of the company and such subsidiary;

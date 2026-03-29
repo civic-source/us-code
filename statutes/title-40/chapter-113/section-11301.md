@@ -3,9 +3,9 @@ title: "Section 11301 - Responsibility of Director"
 usc_title: 40
 usc_section: "11301"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "40 U.S.C. § 11301"
-generated_at: "2026-03-29T20:05:42.959Z"
+generated_at: "2026-03-29T20:33:44.487Z"
 ---
 
 # § 11301. Responsibility of Director

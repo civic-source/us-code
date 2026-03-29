@@ -3,9 +3,9 @@ title: "Section 2303 - Prohibited personnel practices in the Federal Bureau of I
 usc_title: 5
 usc_section: "2303"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "5 U.S.C. § 2303"
-generated_at: "2026-03-29T20:02:37.770Z"
+generated_at: "2026-03-29T20:31:26.741Z"
 ---
 
 # § 2303. Prohibited personnel practices in the Federal Bureau of Investigation
@@ -25,6 +25,3 @@ generated_at: "2026-03-29T20:02:37.770Z"
     - **(B)** gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.
 - **(b)** The Attorney General shall prescribe regulations to ensure that such a personnel action shall not be taken against an employee of the Bureau as a reprisal for any disclosure of information described in subsection (a) of this section.
 - **(c)** The President shall provide for the enforcement of this section in a manner consistent with applicable provisions of sections 1214 and 1221 of this title.
-- **(d)**
-  - **(1)** An employee of the Federal Bureau of Investigation who makes an allegation of a reprisal under regulations promulgated under this section may appeal a final determination or corrective action order by the Bureau under those regulations to the Merit Systems Protection Board pursuant to section 1221.
-  - **(2)** If no final determination or corrective action order has been made or issued for an allegation described in paragraph (1) before the expiration of the 180-day period beginning on the date on which the allegation is received by the Federal Bureau of Investigation, the employee described in that paragraph may seek corrective action directly from the Merit Systems Protection Board pursuant to section 1221.

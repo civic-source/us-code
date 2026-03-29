@@ -1,84 +1,20 @@
 ---
-title: "Section 3073a - Requirements for certain employment activities by former intelligence officers and employees"
+title: "Section 3073a - Reporting of certain employment activities by former intelligence officers and employees"
 usc_title: 50
 usc_section: "3073a"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "50 U.S.C. § 3073a"
-generated_at: "2026-03-29T20:08:11.202Z"
+generated_at: "2026-03-29T20:35:05.218Z"
 ---
 
-# § 3073a. Requirements for certain employment activities by former intelligence officers and employees
+# § 3073a. Reporting of certain employment activities by former intelligence officers and employees
 
-- **(a)**
-  - **(1)**
-    - **(A)** Except as provided by paragraph (2)(A), an employee of an element of the intelligence community who occupies a covered intelligence position may not occupy a covered post-service position for a designated prohibited foreign country following the date on which the employee ceases to occupy a covered intelligence position.
-    - **(B)** Except as provided by paragraph (2)(A), an employee of an element of the intelligence community who occupies a covered intelligence position may not occupy a covered post-service position during the 30-month period following the date on which the employee ceases to occupy a covered intelligence position.
-  - **(2)**
-    - **(A)** The applicable head of an intelligence community element may waive a restriction in paragraph (1) with respect to an employee or former employee who is subject to that restriction only after—
-      - **(i)** the employee or former employee submits to the applicable head of the intelligence community element a written application for such waiver in such form and manner as the applicable head of the intelligence community element determines appropriate; and
-      - **(ii)** the applicable head of the element of the intelligence community determines that granting such waiver will not harm the national security interests of the United States.
-    - **(B)** A waiver issued under subparagraph (A) shall apply for a period not exceeding 5 years. The applicable head of the intelligence community element may renew such a waiver.
-    - **(C)** The applicable head of the intelligence community element may revoke a waiver issued under subparagraph (A) to an employee or former employee, effective on the date that is 60 days after the date on which the applicable head of the intelligence community element provides the employee or former employee written notice of such revocation.
-    - **(D)** The 30-month restriction in paragraph (1)(B) shall be tolled for an employee or former employee during the period beginning on the date on which a waiver is issued under subparagraph (A) and ending on the date on which the waiver expires or on the effective date of a revocation under subparagraph (C), as the case may be.
-    - **(E)** On a quarterly basis, the head of each element of the intelligence community shall submit to the congressional intelligence committees and the congressional defense committees for Department of Defense elements of the intelligence community, a written notification of each waiver or revocation that shall include the following:
-      - **(i)** With respect to a waiver issued to an employee or former employee—
-        - **(I)** the covered intelligence position held or formerly held by the employee or former employee; and
-        - **(II)** a brief description of the covered post-service employment, including the employer and the recipient of the representation, advice, or services.
-      - **(ii)** With respect to a revocation of a waiver issued to an employee or former employee—
-        - **(I)** the details of the waiver, including any renewals of such waiver, and the dates of such waiver and renewals; and
-        - **(II)** the specific reasons why the applicable head of the intelligence community element determined that such revocation is warranted.
-- **(b)**
-  - **(1)** During the period described in paragraph (2), an employee who ceases to occupy a covered intelligence position shall—
-    - **(A)** report covered post-service employment to the head of the element of the intelligence community that employed such employee in such covered intelligence position upon accepting such covered post-service employment; and
-    - **(B)** annually (or more frequently if the head of such element considers it appropriate) report covered post-service employment to the head of such element.
-  - **(2)** The period described in this paragraph is the period beginning on the date on which an employee ceases to occupy a covered intelligence position.
-  - **(3)** The head of each element of the intelligence community shall issue regulations requiring, as a condition of employment, each employee of such element occupying a covered intelligence position to sign a written agreement requiring the regular reporting of covered post-service employment to the head of such element pursuant to paragraph (1).
-- **(c)**
-  - **(1)** A former employee who knowingly and willfully violates subsection (a) or who knowingly and willfully fails to make a required report under subsection (b) shall be fined under title 18 or imprisoned for not more than 5 years, or both. Each report under subsection (b) shall be subject to section 1001 of title 18 .
-  - **(2)** The head of an element of the intelligence community shall revoke the security clearance of a former employee if the former employee knowingly and willfully fails to make a required report under subsection (b) or knowingly and willfully makes a false report under such subsection.
-- **(d)**
-  - **(1)** The head of each element of the intelligence community shall regularly provide training on the restrictions under subsection (a) and the reporting requirements under subsection (b) to employees of that element who occupy a covered intelligence position.
-  - **(2)** The head of each element of the intelligence community shall provide written notice of the reporting requirements under subsection (b) to an employee when the employee occupies a covered intelligence position.
-  - **(3)** The head of each element of the intelligence community shall provide written notice of the restrictions under subsection (a) to any person who may be subject to such restrictions on or after December 23, 2022 —
-    - **(A)** when the head of the element determines that such person may become subject to such covered intelligence position restrictions; and
-    - **(B)** when the person occupies a covered intelligence position.
-  - **(4)** Upon request from a current employee who occupies a covered intelligence position or a former employee who previously occupied a covered intelligence position, the applicable head of the element of the intelligence community concerned may provide a written advisory opinion to such current or former employee regarding whether a proposed employment, representation, or provision of advice or services constitutes covered post-service employment as defined in subsection (g).
-- **(e)**
-  - **(1)** Not later than March 31 of each year, the Director of National Intelligence shall submit to the congressional intelligence committees a report on covered post-service employment occurring during the year covered by the report.
-  - **(2)** Each report under paragraph (1) shall include the following:
-    - **(A)** The number of former employees who occupy a covered post-service position, broken down by—
-      - **(i)** the name of the employer;
-      - **(ii)** the foreign government, including by the specific foreign individual, agency, or entity, for whom the covered post-service employment is being performed; and
-      - **(iii)** the nature of the services provided as part of the covered post-service employment.
-    - **(B)** A certification by the Director that—
-      - **(i)** each element of the intelligence community maintains adequate systems and processes for ensuring that former employees are submitting reports required under subsection (b);
-      - **(ii)** to the knowledge of the heads of the elements of the intelligence community, all former employees who occupy a covered post-service position are in compliance with this section;
-      - **(iii)** the services provided by former employees who occupy a covered post-service position do not—
-        - **(I)** pose a current or future threat to the national security of the United States; or
-        - **(II)** pose a counterintelligence risk; and
-      - **(iv)** the Director and the heads of such elements are not aware of any credible information or reporting that any former employee who occupies a covered post-service position has engaged in activities that violate Federal law, infringe upon the privacy rights of United States persons, or constitute abuses of human rights.
-  - **(3)** Each report under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
-- **(f)** In addition to the annual reports under subsection (e), if a head of an element of the intelligence community determines that the services provided by a former employee who occupies a covered post-service position pose a threat or risk described in clause (iii) of paragraph (2)(B) of such subsection, or include activities described in clause (iv) of such paragraph, the head shall notify the congressional intelligence committees of such determination by not later than 7 days after making such determination. The notification shall include the following:
-  - **(1)** The name of the former employee.
-  - **(2)** The name of the employer.
-  - **(3)** The foreign government, including the specific foreign individual, agency, or entity, for whom the covered post-service employment is being performed.
-  - **(4)** As applicable, a description of—
-    - **(A)** the risk to national security, the counterintelligence risk, or both; and
-    - **(B)** the activities that may violate Federal law, infringe upon the privacy rights of United States persons, or constitute abuses of human rights.
-- **(g)** In this section:
-  - **(1)** The term “covered intelligence position” means a position within an element of the intelligence community that, based on the level of access of a person occupying such position to information regarding sensitive intelligence sources or methods or other exceptionally sensitive matters, the head of such element determines should be subject to the requirements of this section.
-  - **(2)** The term “covered post-service employment” means direct or indirect employment by, representation of, or any provision of advice or services to the government of a foreign country or any company, entity, or other person whose activities are directly or indirectly supervised, directed, controlled, financed, or subsidized, in whole or in major part, by any government of a foreign country if such employment, representation, or provision of advice or services relates to national security, intelligence, the military, or internal security.
-  - **(3)** The term “covered post-service position” means a position of employment described in paragraph (2).
-  - **(4)** The term “designated prohibited foreign country” means the following:
-    - **(A)** The People’s Republic of China.
-    - **(B)** The Russian Federation.
-    - **(C)** The Democratic People’s Republic of Korea.
-    - **(D)** The Islamic Republic of Iran.
-    - **(E)** The Republic of Cuba.
-    - **(F)** The Syrian Arab Republic.
-  - **(5)** The term “employee”, with respect to an employee occupying a covered intelligence position, includes an officer or official of an element of the intelligence community, a contractor of such an element, a detailee to such an element, or a member of the Armed Forces assigned to such an element.
-  - **(6)** The term “former employee” means an individual—
-    - **(A)** who was an employee occupying a covered intelligence position; and
-    - **(B)** who is subject to the requirements under subsection (a) or (b).
-  - **(7)** The term “government of a foreign country” has the meaning given the term in section 611(e) of title 22 .
+- **(a)** The head of each element of the intelligence community shall issue regulations requiring each employee of such element occupying a covered position to sign a written agreement requiring the regular reporting of covered employment to the head of such element.
+- **(b)** The regulations required under subsection (a) shall provide that an agreement contain provisions requiring each employee occupying a covered position to, during the two-year period beginning on the date on which such employee ceases to occupy such covered position—
+  - **(1)** report covered employment to the head of the element of the intelligence community that employed such employee in such covered position upon accepting such covered employment; and
+  - **(2)** annually (or more frequently if the head of such element considers it appropriate) report covered employment to the head of such element.
+- **(c)** In this section:
+  - **(1)** The term “covered employment” means direct employment by, representation of, or the provision of advice relating to national security to the government of a foreign country or any person whose activities are directly or indirectly supervised, directed, controlled, financed, or subsidized, in whole or in major part, by any government of a foreign country.
+  - **(2)** The term “covered position” means a position within an element of the intelligence community that, based on the level of access of a person occupying such position to information regarding sensitive intelligence sources or methods or other exceptionally sensitive matters, the head of such element determines should be subject to the requirements of this section.
+  - **(3)** The term “government of a foreign country” has the meaning given the term in section 611(e) of title 22 .

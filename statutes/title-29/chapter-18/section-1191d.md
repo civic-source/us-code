@@ -3,9 +3,9 @@ title: "Section 1191d - Standardized reporting format"
 usc_title: 29
 usc_section: "1191d"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "29 U.S.C. § 1191d"
-generated_at: "2026-03-29T20:05:03.742Z"
+generated_at: "2026-03-29T20:33:05.763Z"
 ---
 
 # § 1191d. Standardized reporting format
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T20:05:03.742Z"
         - **(IV)** 1 representative of the Office for Civil Rights of the Department of Health and Human Services with expertise in data privacy and security;
         - **(V)** 1 representative of the National Center for Health Statistics;
         - **(VI)** 1 representative of the Office of the National Coordinator for Health Information Technology; and
-        - **(VII)** 1 representative of a State All-Payer 2 2 So in original. Definition in subsec. (c) does not contain hyphen in “All Payer”. Claims Database;
+        - **(VII)** 1 representative of a State All-Payer 2 2 So in original. Probably should be “All Payer”. Claims Database;
       - **(iv)** members appointed by the Comptroller General of the United States, including—
         - **(I)** 1 representative of an employer that sponsors a group health plan;
         - **(II)** 1 representative of an employee organization that sponsors a group health plan;

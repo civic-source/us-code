@@ -3,9 +3,9 @@ title: "Section 3123a - Specialty crop committee"
 usc_title: 7
 usc_section: "3123a"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 3123a"
-generated_at: "2026-03-29T20:02:52.675Z"
+generated_at: "2026-03-29T20:31:42.125Z"
 ---
 
 # § 3123a. Specialty crop committee
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T20:02:52.675Z"
       - **(iii)** One of such members shall represent Texas.
     - **(C)** The Secretary may appoint individuals who are not members of the specialty crops committee or the Advisory Board established under section 3123 of this title as members of the citrus disease subcommittee 1 1 So in original. Probably should be followed by a period.
     - **(D)** The subcommittee established under subparagraph (A) shall terminate on September 30, 2023 .
-    - **(E)** The subcommittee established under subparagraph (A) shall be covered by the exemption to section 1008(c) of title 5 applicable to the Advisory Board under section 3123(f) of this title .
+    - **(E)** The subcommittee established under subparagraph (A) shall be covered by the exemption to section 9(c) of the Federal Advisory Committee Act (5 U.S.C. App.) applicable to the Advisory Board under section 3123(f) of this title .
 - **(b)**
   - **(1)** Individuals who are not members of the Advisory Board may be appointed as members of the specialty crops committee.
   - **(2)** Members of the specialty crops committee shall serve at the discretion of the executive committee.

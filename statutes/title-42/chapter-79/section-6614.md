@@ -3,9 +3,9 @@ title: "Section 6614 - Policy planning; analysis; advice; establishment of advis
 usc_title: 42
 usc_section: "6614"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 6614"
-generated_at: "2026-03-29T20:07:44.432Z"
+generated_at: "2026-03-29T20:34:53.746Z"
 ---
 
 # § 6614. Policy planning; analysis; advice; establishment of advisory panel
@@ -26,8 +26,8 @@ generated_at: "2026-03-29T20:07:44.432Z"
   - **(13)** perform such other duties and functions and make and furnish such studies and reports thereon, and recommendations with respect to matters of policy and legislation as the President may request.
 - **(b)**
   - **(1)** The Director shall establish an Intergovernmental Science, Engineering, and Technology Advisory Panel (hereinafter referred to as the “Panel”), whose purpose shall be to (A) identify and define civilian problems at State, regional, and local levels which science, engineering, and technology may assist in resolving or ameliorating; (B) recommend priorities for addressing such problems; and (C) advise and assist the Director in identifying and fostering policies to facilitate the transfer and utilization of research and development results so as to maximize their application to civilian needs.
-  - **(2)** The Panel shall be composed of (A) the Director of the Office, or his representative; (B) at least ten members representing the interests of the States, appointed by the Director of the Office after consultation with State officials; (C) the Director of the National Science Foundation, or his representative; and (D) the Director of the Office of Pandemic Preparedness and Response Policy.
+  - **(2)** The Panel shall be composed of (A) the Director of the Office, or his representative; (B) at least ten members representing the interests of the States, appointed by the Director of the Office after consultation with State officials; and (C) the Director of the National Science Foundation, or his representative.
   - **(3)**
     - **(A)** The Director of the Office, or his representative, shall serve as Chairman of the Panel.
     - **(B)** The Panel shall perform such functions as the Chairman may prescribe, and shall meet at the call of the Chairman.
-  - **(4)** Each member of the Panel shall, while serving on business of the Panel, be entitled to receive compensation at a rate not to exceed the daily rate prescribed for GS–18 of the General Schedule under section 5332 of title 5 , including traveltime, and, while so serving away from his home or regular place of business, he may be allowed travel expenses, including per diem in lieu of subsistence in the same manner as the expenses authorized by section 5703(b) 1 of title 5 for persons in government service employed intermittently.
+  - **(4)** Each member of the Panel shall, while serving on business of the Panel, be entitled to receive compensation at a rate not to exceed the daily rate prescribed for GS–18 of the General Schedule under section 5332 of title 5 , including traveltime, and, while so serving away from his home or regular place of business, he may be allowed travel expenses, including per diem in lieu of subsistence in the same manner as the expenses authorized by section 5703(b) 2 2 See References in Text note below. of title 5 for persons in government service employed intermittently.

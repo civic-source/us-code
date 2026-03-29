@@ -3,9 +3,9 @@ title: "Section 233 - Civil actions or proceedings against commissioned officers
 usc_title: 42
 usc_section: "233"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 233"
-generated_at: "2026-03-29T20:07:42.915Z"
+generated_at: "2026-03-29T20:34:52.522Z"
 ---
 
 # § 233. Civil actions or proceedings against commissioned officers or employees
@@ -36,7 +36,7 @@ generated_at: "2026-03-29T20:07:42.915Z"
       - **(i)** The election is effective upon the expiration of the 30-day period beginning on the date on which the entity submits such notification.
       - **(ii)** Upon taking effect, the election terminates the applicability of this subsection to the entity and each officer, governing board member, employee, and contractor of the entity.
       - **(iii)** Upon the effective date for the election, clauses (i) and (ii) of subparagraph (G) apply to the entity to the same extent and in the same manner as such clauses apply to an entity that has not submitted an application under subparagraph (D).
-      - **(iv)** If after making the election the entity submits an application under subparagraph (D), the election does not preclude the Secretary from approving the application (and thereby restoring the applicability of this subsection to the entity and each officer, governing board member, employee, and contractor of the entity, subject to the provisions of this subsection and the subsequent provisions of this section).
+      - **(iv)** If after making the election the entity submits an application under subparagraph (D), the election does not preclude the Secretary from approving the application ( 2 2 So in original. There is no closing parenthesis. and thereby restoring the applicability of this subsection to the entity and each officer, governing board member, employee, and contractor of the entity, subject to the provisions of this subsection and the subsequent provisions of this section.
   - **(2)** If, with respect to an entity or person deemed to be an employee for purposes of paragraph (1), a cause of action is instituted against the United States pursuant to this section, any claim of the entity or person for benefits under an insurance policy with respect to medical malpractice relating to such cause of action shall be subrogated to the United States.
   - **(3)** This subsection shall apply with respect to a cause of action arising from an act or omission which occurs on or after January 1, 1993 .
   - **(4)** An entity described in this paragraph is a public or non-profit private entity receiving Federal funds under section 254b of this title .
@@ -65,7 +65,7 @@ generated_at: "2026-03-29T20:07:42.915Z"
       - **(ii)** the amounts paid during that 5-year period on all claims described in clause (i), regardless of when such claims were filed, adjusted to reflect payments which would not be permitted under section 1346 and chapter 171 of title 28, and
       - **(iii)** amounts in the fund established under paragraph (2) but unspent from prior fiscal years.
   - **(2)** Subject to appropriations, for each fiscal year, the Secretary shall establish a fund of an amount equal to the amount estimated under paragraph (1) that is attributable to entities receiving funds under each of the grant programs described in paragraph (4) of subsection (g), but not to exceed a total of $10,000,000 for each such fiscal year. Appropriations for purposes of this paragraph shall be made separate from appropriations made for purposes of sections 254b, 254b and 256a of this title. 1
-  - **(3)** In order for payments to be made for judgments against the United States (together with related fees and expenses of witnesses) pursuant to this section arising from the acts or omissions of entities described in subsection (g)(4) and of officers, governing board members, employees, or contractors (subject to subsection (g)(5)) of such entities, the total amount contained within the fund established by the Secretary under paragraph (2) for a fiscal year shall be transferred not later than the December 31 that occurs during the fiscal year to the appropriate accounts in the Treasury.
+  - **(3)** In order for payments to be made for judgments against the United States (together with related fees and expenses of witnesses) pursuant to this section arising from the acts or omissions of entities described in subsection (g)(4) and of officers, governing board member, 3 3 So in original. Probably should be “members,”. employees, or contractors (subject to subsection (g)(5)) of such entities, the total amount contained within the fund established by the Secretary under paragraph (2) for a fiscal year shall be transferred not later than the December 31 that occurs during the fiscal year to the appropriate accounts in the Treasury.
 - **(l)**
   - **(1)** If a civil action or proceeding is filed in a State court against any entity described in subsection (g)(4) or any officer, governing board member, employee, or any contractor of such an entity for damages described in subsection (a), the Attorney General, within 15 days after being notified of such filing, shall make an appearance in such court and advise such court as to whether the Secretary has determined under subsections (g) and (h), that such entity, officer, governing board member, employee, or contractor of the entity is deemed to be an employee of the Public Health Service for purposes of this section with respect to the actions or omissions that are the subject of such civil action or proceeding. Such advice shall be deemed to satisfy the provisions of subsection (c) that the Attorney General certify that an entity, officer, governing board member, employee, or contractor of the entity was acting within the scope of their employment or responsibility.
   - **(2)** If the Attorney General fails to appear in State court within the time period prescribed under paragraph (1), upon petition of any entity or officer, governing board member, employee, or contractor of the entity named, the civil action or proceeding shall be removed to the appropriate United States district court. The civil action or proceeding shall be stayed in such court until such court conducts a hearing, and makes a determination, as to the appropriate forum or procedure for the assertion of the claim for damages described in subsection (a) and issues an order consistent with such determination.
@@ -194,7 +194,7 @@ generated_at: "2026-03-29T20:07:42.915Z"
       - **(iv)** a State, a political subdivision of a State, or an agency or official of a State or of such a political subdivision, if such State, subdivision, agency, or official has established requirements, provided policy guidance, supplied technical or scientific advice or assistance, or otherwise supervised or administered a program with respect to administration of such countermeasures;
       - **(v)** in the case of a claim arising out of alleged transmission of vaccinia from an individual—
         - **(I)** the individual who allegedly transmitted the vaccinia, if vaccinia vaccine was administered to such individual as provided by paragraph (2)(B) and such individual was within a category of individuals covered by a declaration under paragraph (2)(A)(i); or
-        - **(II)** an entity that employs an individual described by clause (I) 2 2 So in original. Probably should be “subclause”. or where such individual has privileges or is otherwise authorized to provide health care;
+        - **(II)** an entity that employs an individual described by clause (I) 4 4 So in original. Probably should be “subclause”. or where such individual has privileges or is otherwise authorized to provide health care;
       - **(vi)** an official, agent, or employee of a person described in clause (i), (ii), (iii), or (iv);
       - **(vii)** a contractor of, or a volunteer working for, a person described in clause (i), (ii), or (iv), if the contractor or volunteer performs a function for which a person described in clause (i), (ii), or (iv) is a covered person; or
       - **(viii)** an individual who has privileges or is otherwise authorized to provide health care under the auspices of an entity described in clause (ii) or (v)(II).
@@ -230,7 +230,8 @@ generated_at: "2026-03-29T20:07:42.915Z"
       - **(iii)** The report shall include a summary of the data relied upon for the estimate in clause (i), including the number of claims filed and paid from the previous calendar year.
     - **(C)** Not later than December 31 of each fiscal year, the Secretary shall transfer from the fund under subsection (k)(2) to the appropriate accounts in the Treasury an amount equal to the estimate made under subparagraph (B) for the calendar year beginning in such fiscal year, subject to the extent of amounts in the fund.
   - **(5)**
-    - **(A)** This subsection shall take effect on October 1, 2017 , except as provided in subparagraph (B).
+    - **(A)** This subsection shall take effect on October 1, 2017 , except as provided in subparagraph (B) and paragraph (6).
     - **(B)** Effective on December 13, 2016 —
       - **(i)** the Secretary may issue regulations for carrying out this subsection, and the Secretary may accept and consider applications submitted pursuant to paragraph (3)(B); and
       - **(ii)** reports under paragraph (4)(B) may be submitted to Congress.
+  - **(6)** Beginning on October 1, 2022 , this subsection shall cease to have any force or effect.

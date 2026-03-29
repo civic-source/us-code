@@ -3,9 +3,9 @@ title: "Section 24 - Premiums and bid amounts"
 usc_title: 42
 usc_section: "24"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 24"
-generated_at: "2026-03-29T20:07:43.701Z"
+generated_at: "2026-03-29T20:34:53.122Z"
 ---
 
 # § 1395w–24. Premiums and bid amounts
@@ -91,7 +91,7 @@ generated_at: "2026-03-29T20:07:43.701Z"
     - **(A)** The term “MA monthly basic beneficiary premium” means, with respect to an MA plan—
       - **(i)** described in section 1395w–23(a)(1)(B)(i) of this title (relating to plans providing rebates), zero; or
       - **(ii)** described in section 1395w–23(a)(1)(B)(ii) of this title , the amount (if any) by which the unadjusted MA statutory non-drug monthly bid amount (as defined in subparagraph (E)) exceeds the applicable unadjusted MA area-specific non-drug monthly benchmark amount (as defined in section 1395w–23(j) of this title ).
-    - **(B)** The term “MA monthly prescription drug beneficiary premium” means, with respect to an MA plan, the base beneficiary premium (as determined under paragraph (2) or (8) (as applicable) of section 1395w–113(a) of this title and as adjusted under section 1395w–113(a)(1)(B) of this title ), less the amount of rebate credited toward such amount under subsection (b)(1)(C)(ii)(II).
+    - **(B)** The term “MA monthly prescription drug beneficiary premium” means, with respect to an MA plan, the base beneficiary premium (as determined under section 1395w–113(a)(2) of this title and as adjusted under section 1395w–113(a)(1)(B) of this title ), less the amount of rebate credited toward such amount under subsection (b)(1)(C)(ii)(II).
     - **(C)**
       - **(i)** The term “MA monthly supplemental beneficiary premium” means, with respect to an MA plan, the portion of the aggregate monthly bid amount submitted under clause (i) of subsection (a)(6)(A) for the year that is attributable under clause (ii)(III) of such subsection to the provision of supplemental health care benefits, less the amount of rebate credited toward such portion under subsection (b)(1)(C)(ii)(I).
       - **(ii)** For plan years beginning on or after January 1, 2012 , any MA monthly supplementary beneficiary premium charged to an individual enrolled in an MA plan shall be used for the purposes, and in the priority order, described in subclauses (I) through (III) of paragraph (1)(C)(iii). 3 3 See References in Text note below.

@@ -3,9 +3,9 @@ title: "Section 3056a - Administration"
 usc_title: 42
 usc_section: "3056a"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 3056a"
-generated_at: "2026-03-29T20:07:44.224Z"
+generated_at: "2026-03-29T20:34:53.559Z"
 ---
 
 # § 3056a. Administration
@@ -23,9 +23,8 @@ generated_at: "2026-03-29T20:07:44.224Z"
     - **(C)** the relative distribution of—
       - **(i)** eligible individuals who are individuals with greatest economic need;
       - **(ii)** eligible individuals who are minority individuals;
-      - **(iii)** eligible individuals who are limited English proficient;
-      - **(iv)** eligible individuals who are individuals with greatest social need; and
-      - **(v)** eligible individuals who have been incarcerated within the last 5 years or are under supervision following release from prison or jail within the last 5 years;
+      - **(iii)** eligible individuals who are limited English proficient; and
+      - **(iv)** eligible individuals who are individuals with greatest social need;
     - **(D)** the current and projected employment opportunities in the State (such as by providing information available under section 49 l –2 of title 29 by occupation), and the type of skills possessed by local eligible individuals;
     - **(E)** the localities and populations for which projects of the type authorized by this subchapter are most needed; and
     - **(F)** how the activities of grantees in the State under this subchapter will be coordinated with activities carried out in the State under title I of the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3111 et seq.) and other related programs (referred to in this subparagraph as “WIOA and related activities”), and how the State will reduce unnecessary duplication between the activities carried out under this subchapter and the WIOA and related activities.

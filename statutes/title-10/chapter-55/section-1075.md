@@ -3,9 +3,9 @@ title: "Section 1075 - TRICARE Select"
 usc_title: 10
 usc_section: "1075"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 1075"
-generated_at: "2026-03-29T20:03:09.551Z"
+generated_at: "2026-03-29T20:31:54.482Z"
 ---
 
 # § 1075. TRICARE Select
@@ -45,23 +45,9 @@ generated_at: "2026-03-29T20:03:09.551Z"
     - **(B)** Whether covered beneficiaries are able to obtain appointments for health care according to the access standards established by the Secretary of Defense.
     - **(C)** The percent of network providers that accept new patients under the TRICARE program.
     - **(D)** The satisfaction of beneficiaries under TRICARE Select.
-- **(f)**
-  - **(1)** A beneficiary enrolled in TRICARE for Life is subject to cost-sharing requirements pursuant to section 1086(d)(3) of this title and calculated as if the beneficiary were enrolled in TRICARE Standard as if TRICARE Standard were still being carried out by the Secretary.
-  - **(2)**
-    - **(A)** Notwithstanding any other provision of this section, the cost-sharing amount under this section for any beneficiary enrolled in TRICARE Select for a service described in subparagraph (B) that is provided by a network provider is $0.
-    - **(B)** A service described in this subparagraph is any contraceptive method approved, cleared, or authorized under section 505, 510(k), 513(f)(2), or 515 of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 355 , 360(k), 360c(f)(2), 360e), any contraceptive care (including with respect to insertion, removal, and follow up), any sterilization procedure, or any patient education or counseling service provided in connection with any such contraceptive, care, or procedure.
-  - **(3)**
-    - **(A)** Consistent with other provisions of this chapter and subject to requirements to be prescribed by the Secretary, the Secretary may waive cost-sharing requirements for the first three outpatient mental health visits each year of any of the following beneficiaries:
-      - **(i)** Beneficiaries in the active-duty family member category.
-      - **(ii)** Beneficiaries covered by section 1110b of this title .
-    - **(B)** This paragraph shall terminate on the date that is five years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024.
+- **(f)** A beneficiary enrolled in TRICARE for Life is subject to cost-sharing requirements pursuant to section 1086(d)(3) of this title and calculated as if the beneficiary were enrolled in TRICARE Standard as if TRICARE Standard were still being carried out by the Secretary.
 - **(g)** Nothing in this section may be construed as affecting the availability of TRICARE Prime and TRICARE for Life or the cost-sharing requirements for TRICARE for Life under section 1086(d)(3) of this title .
-- **(h)**
-  - **(1)** The Secretary may establish a system of multiple networks of providers under TRICARE Select in the same geographic area or areas.
-  - **(2)** Under a system established under paragraph (1), the Secretary may—
-    - **(A)** require a covered beneficiary enrolling in TRICARE Select to enroll in a specific provider network established pursuant to such system, in which case any provider not in that specific provider network shall be deemed an out-of-network provider with respect to the covered beneficiary (regardless of whether the provider is in a different TRICARE Select provider network) for purposes of this section or any other provision of law limiting the coverage or provision of health care services to those provided by network providers under the TRICARE program; and
-    - **(B)** include beneficiaries covered by subsection (c)(2).
-- **(i)** In this section:
+- **(h)** In this section:
   - **(1)** The terms “active-duty family member category”, “retired category”, and “reserve and young adult category” mean the respective categories of TRICARE Select enrollment described in subsection (b).
   - **(2)** The term “network” means—
     - **(A)** with respect to health care services, such services provided to beneficiaries by TRICARE-authorized civilian health care providers who have entered into a contract under this chapter with a contractor under the TRICARE program; and

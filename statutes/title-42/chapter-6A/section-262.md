@@ -3,9 +3,9 @@ title: "Section 262 - Regulation of biological products"
 usc_title: 42
 usc_section: "262"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 262"
-generated_at: "2026-03-29T20:07:43.011Z"
+generated_at: "2026-03-29T20:34:52.594Z"
 ---
 
 # § 262. Regulation of biological products
@@ -80,7 +80,7 @@ generated_at: "2026-03-29T20:07:43.011Z"
     - **(A)** A biological product, in an application submitted under this subsection, may not be evaluated against more than 1 reference product.
     - **(B)** An application submitted under this subsection shall be reviewed by the division within the Food and Drug Administration that is responsible for the review and approval of the application under which the reference product is licensed.
     - **(C)** The authority of the Secretary with respect to risk evaluation and mitigation strategies under the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 301 et seq.] shall apply to biological products licensed under this subsection in the same manner as such authority applies to biological products licensed under subsection (a).
-  - **(6)** The Secretary shall not make approval as an interchangeable biological product effective with respect to an application submitted under this subsection that relies on the same reference product for which a prior biological product has received a determination of interchangeability for any condition of use, until the earlier of—
+  - **(6)** Upon review of an application submitted under this subsection relying on the same reference product for which a prior biological product has received a determination of interchangeability for any condition of use, the Secretary shall not make a determination under paragraph (4) that the second or subsequent biological product is interchangeable for any condition of use until the earlier of—
     - **(A)** 1 year after the first commercial marketing of the first interchangeable biosimilar biological product to be approved as interchangeable for that reference product;
     - **(B)** 18 months after—
       - **(i)** a final court decision on all patents in suit in an action instituted under subsection ( l )(6) against the applicant that submitted the application for the first approved interchangeable biosimilar biological product; or

@@ -3,9 +3,9 @@ title: "Section 1092 - Institutional and financial assistance information for st
 usc_title: 20
 usc_section: "1092"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "20 U.S.C. § 1092"
-generated_at: "2026-03-29T20:04:32.889Z"
+generated_at: "2026-03-29T20:32:28.831Z"
 ---
 
 # § 1092. Institutional and financial assistance information for students
@@ -79,12 +79,8 @@ generated_at: "2026-03-29T20:04:32.889Z"
         - **(II)** the effects of consolidation on a borrower’s underlying loan benefits, including grace periods, loan forgiveness, cancellation, and deferment opportunities;
         - **(III)** the option of the borrower to prepay the loan or to change repayment plans; and
         - **(IV)** that borrower benefit programs may vary among different lenders;
-      - **(viii)** a general description of the types of tax benefits that may be available to borrowers;
+      - **(viii)** a general description of the types of tax benefits that may be available to borrowers; and
       - **(ix)** a notice to borrowers about the availability of the National Student Loan Data System and how the system can be used by a borrower to obtain information on the status of the borrower’s loans; and
-      - **(x)** an explanation that—
-        - **(I)** the borrower may be contacted during the repayment period by third-party student debt relief companies;
-        - **(II)** the borrower should use caution when dealing with those companies; and
-        - **(III)** the services that those companies typically provide are already offered to borrowers free of charge through the Department or the borrower’s servicer; and
     - **(B)** In the case of borrower who leaves an institution without the prior knowledge of the institution, the institution shall attempt to provide the information described in subparagraph (A) to the student in writing.
   - **(2)**
     - **(A)** Each eligible institution shall require that the borrower of a loan made under part B, D, or E submit to the institution, during the exit interview required by this subsection—
@@ -140,10 +136,9 @@ generated_at: "2026-03-29T20:04:32.889Z"
         - **(VI)** motor vehicle theft;
         - **(VII)** manslaughter;
         - **(VIII)** arson;
-        - **(IX)** arrests or persons referred for campus disciplinary action for liquor law violations, drug-related violations, and weapons possession;
-      - **(ii)** of the crimes described in subclauses (I) through (VIII) of clause (i), of larceny-theft, simple assault, intimidation, and destruction, damage, or vandalism of property, and of other crimes involving bodily injury to any person, in which the victim is intentionally selected because of the actual or perceived race, gender, religion, national origin, sexual orientation, gender identity,, 2 2 So in original. ethnicity, or disability of the victim that are reported to campus security authorities or local police agencies, which data shall be collected and reported according to category of prejudice;
-      - **(iii)** of domestic violence, dating violence, and stalking incidents that were reported to campus security authorities or local police agencies; and
-      - **(iv)** of hazing incidents that were reported to campus security authorities or local police agencies.
+        - **(IX)** arrests or persons referred for campus disciplinary action for liquor law violations, drug-related violations, and weapons possession; and
+      - **(ii)** of the crimes described in subclauses (I) through (VIII) of clause (i), of larceny-theft, simple assault, intimidation, and destruction, damage, or vandalism of property, and of other crimes involving bodily injury to any person, in which the victim is intentionally selected because of the actual or perceived race, gender, religion, national origin, sexual orientation, gender identity,, 2 2 So in original. ethnicity, or disability of the victim that are reported to campus security authorities or local police agencies, which data shall be collected and reported according to category of prejudice; and
+      - **(iii)** of domestic violence, dating violence, and stalking incidents that were reported to campus security authorities or local police agencies.
     - **(G)** A statement of policy concerning the monitoring and recording through local police agencies of criminal activity at off-campus student organizations which are recognized by the institution and that are engaged in by students attending the institution, including those student organizations with off-campus housing facilities.
     - **(H)** A statement of policy regarding the possession, use, and sale of alcoholic beverages and enforcement of State underage drinking laws and a statement of policy regarding the possession, use, and sale of illegal drugs and enforcement of Federal and State drug laws and a description of any drug or alcohol abuse education programs as required under section 1011i of this title .
     - **(I)** A statement advising the campus community where law enforcement agency information provided by a State under section 14071(j) 3 3 See References in Text note below. of title 42, concerning registered sex offenders may be obtained, such as the law enforcement office of the institution, a local law enforcement agency with jurisdiction for the campus, or a computer network address.
@@ -151,10 +146,6 @@ generated_at: "2026-03-29T20:04:32.889Z"
       - **(i)** immediately notify the campus community upon the confirmation of a significant emergency or dangerous situation involving an immediate threat to the health or safety of students or staff occurring on the campus, as defined in paragraph (6), unless issuing a notification will compromise efforts to contain the emergency;
       - **(ii)** publicize emergency response and evacuation procedures on an annual basis in a manner designed to reach students and staff; and
       - **(iii)** test emergency response and evacuation procedures on an annual basis.
-    - **(K)** A statement of current policies relating to hazing (as defined by the institution), how to report incidents of such hazing, and the process used to investigate such incidents of hazing, and information on applicable local, State, and Tribal laws on hazing (as defined by such local, State, and Tribal laws).
-    - **(L)** A statement of policy regarding prevention and awareness programs related to hazing (as defined by the institution) that includes a description of research-informed campus-wide prevention programs designed to reach students, staff, and faculty, which includes—
-      - **(i)** the information referred to in subparagraph (K); and
-      - **(ii)** primary prevention strategies intended to stop hazing before hazing occurs, which may include skill building for bystander intervention, information about ethical leadership, and the promotion of strategies for building group cohesion without hazing.
   - **(2)** Nothing in this subsection shall be construed to authorize the Secretary to require particular policies, procedures, or practices by institutions of higher education with respect to campus crimes or campus security.
   - **(3)** Each institution participating in any program under this subchapter, other than a foreign institution of higher education, shall make timely reports to the campus community on crimes considered to be a threat to other students and employees described in paragraph (1)(F) that are reported to campus security or local law police agencies. Such reports shall be provided to students and employees in a manner that is timely, that withholds the names of victims as confidential, and that will aid in the prevention of similar occurrences.
   - **(4)**
@@ -180,12 +171,8 @@ generated_at: "2026-03-29T20:04:32.889Z"
         - **(II)** any building or property (other than a branch campus) owned or controlled by an institution of higher education that is used in direct support of, or in relation to, the institution’s educational purposes, is used by students, and is not within the same reasonably contiguous geographic area of the institution.
       - **(iv)** The term “public property” means all public property that is within the same reasonably contiguous geographic area of the institution, such as a sidewalk, a street, other thoroughfare, or parking facility, and is adjacent to a facility owned or controlled by the institution if the facility is used by the institution in direct support of, or in a manner related to the institution’s educational purposes.
       - **(v)** The term “sexual assault” means an offense classified as a forcible or nonforcible sex offense under the uniform crime reporting system of the Federal Bureau of Investigation.
-      - **(vi)** The term “hazing”, for purposes of reporting statistics on hazing incidents under paragraph (1)(F)(iv), means any intentional, knowing, or reckless act committed by a person (whether individually or in concert with other persons) against another person or persons regardless of the willingness of such other person or persons to participate, that—
-        - **(I)** is committed in the course of an initiation into, an affiliation with, or the maintenance of membership in, a student organization; and
-        - **(II)** causes or creates a risk, above the reasonable risk encountered in the course of participation in the institution of higher education or the organization (such as the physical preparation necessary for participation in an athletic team), of physical or psychological injury including—
-      - **(vii)** The term “student organization”, for purposes of reporting under paragraph (1)(F)(iv) and paragraph (9)(A), means an organization at an institution of higher education (such as a club, society, association, varsity or junior varsity athletic team, club sports team, fraternity, sorority, band, or student government) in which two or more of the members are students enrolled at the institution of higher education, whether or not the organization is established or recognized by the institution.
     - **(B)** In cases where branch campuses of an institution of higher education, schools within an institution of higher education, or administrative divisions within an institution are not within a reasonably contiguous geographic area, such entities shall be considered separate campuses for purposes of the reporting requirements of this section.
-  - **(7)** The statistics described in clauses (i) and (ii) of paragraph (1)(F) shall be compiled in accordance with the definitions used in the uniform crime reporting system of the Department of Justice, Federal Bureau of Investigation, and the modifications in such definitions as implemented pursuant to the Hate Crime Statistics Act. For the offenses of domestic violence, dating violence, and stalking, such statistics shall be compiled in accordance with the definitions used in section 12291(a) of title 34 . For hazing incidents referred to in clause (iv) of paragraph (1)(F), such statistics shall be compiled per each single hazing incident and in accordance with the definition of the term “hazing” in paragraph (6)(A)(vi), and if the same person or persons commit more than one hazing act, and the time and place intervals separating each such act are insignificant, such acts shall be reported as a single hazing incident. Such statistics shall not identify victims of crimes or persons accused of crimes.
+  - **(7)** The statistics described in clauses (i) and (ii) of paragraph (1)(F) shall be compiled in accordance with the definitions used in the uniform crime reporting system of the Department of Justice, Federal Bureau of Investigation, and the modifications in such definitions as implemented pursuant to the Hate Crime Statistics Act. For the offenses of domestic violence, dating violence, and stalking, such statistics shall be compiled in accordance with the definitions used in section 12291(a) of title 34 . Such statistics shall not identify victims of crimes or persons accused of crimes.
   - **(8)**
     - **(A)** Each institution of higher education participating in any program under this subchapter and title IV of the Economic Opportunity Act of 1964, 3 other than a foreign institution of higher education, shall develop and distribute as part of the report described in paragraph (1) a statement of policy regarding—
       - **(i)** such institution’s programs to prevent domestic violence, dating violence, sexual assault, and stalking; and
@@ -208,53 +195,26 @@ generated_at: "2026-03-29T20:04:32.889Z"
       - **(vi)** Written notification of students and employees about existing counseling, health, mental health, victim advocacy, legal assistance, and other services available for victims both on-campus and in the community.
       - **(vii)** Written notification of victims about options for, and available assistance in, changing academic, living, transportation, and working situations, if so requested by the victim and if such accommodations are reasonably available, regardless of whether the victim chooses to report the crime to campus police or local law enforcement.
     - **(C)** A student or employee who reports to an institution of higher education that the student or employee has been a victim of domestic violence, dating violence, sexual assault, or stalking, whether the offense occurred on or off campus, shall be provided with a written explanation of the student or employee’s rights and options, as described in clauses (ii) through (vii) of subparagraph (B).
-  - **(9)**
-    - **(A)** Each institution participating in any program under this subchapter, other than a foreign institution of higher education, shall develop, in accordance with the institution’s statement of policy relating to hazing under paragraph (1)(K), a report (which shall be referred to as the “Campus Hazing Transparency Report”) summarizing findings concerning any student organization (except that this shall only apply to student organizations that are established or recognized by the institution) found to be in violation of an institution’s standards of conduct relating to hazing, as defined by the institution, (hereinafter referred to in this paragraph as a “hazing violation”) that requires the institution to—
-      - **(i)** beginning July 1, 2025 , collect information with respect to hazing incidents at the institution;
-      - **(ii)** not later than 12 months after December 23, 2024 , make the Campus Hazing Transparency Report publicly available on the public website of the institution; and
-      - **(iii)** not less frequently than 2 times each year, update the Campus Hazing Transparency Report to include, for the period beginning on the date on which the Report was last published and ending on the date on which such update is submitted, each incident involving a student organization for which a finding of responsibility is issued relating to a hazing violation, including—
-        - **(I)** the name of such student organization;
-        - **(II)** a general description of the violation that resulted in a finding of responsibility, including whether the violation involved the abuse or illegal use of alcohol or drugs, the findings of the institution, and any sanctions placed on the student organization by the institution, as applicable; and
-        - **(III)** the dates on which—
-    - **(B)** The Campus Hazing Transparency Report may include—
-      - **(i)** to satisfy the requirements of this paragraph, information that—
-        - **(I)** is included as part of a report published by the institution; and
-        - **(II)** meets the requirements of the Campus Hazing Transparency Report; and
-      - **(ii)** any additional information—
-        - **(I)** determined by the institution to be necessary; or
-        - **(II)** reported as required by State law.
-    - **(C)** The Campus Hazing Transparency Report shall not include any personally identifiable information, including any information that would reveal personally identifiable information, about any individual student in accordance with section 444 of the General Education Provisions Act [ 20 U.S.C. 1232g ] (commonly known as the “Family Educational Rights and Privacy Act of 1974”).
-    - **(D)** The institution shall publish, in a prominent location on the public website of the institution, the Campus Hazing Transparency Report, including—
-      - **(i)** a statement notifying the public of the annual availability of statistics on hazing pursuant to the report required under paragraph (1)(F), including a link to such report;
-      - **(ii)** information about the institution’s policies relating to hazing under paragraph (1)(K) and applicable local, State, and Tribal laws on hazing; and
-      - **(iii)** the information included in each update required under subparagraph (A)(iii), which shall be maintained for a period of 5 calendar years from the date of publication of such update.
-    - **(E)** The institution may include, as part of the publication of the Campus Hazing Transparency Report under subparagraph (D), a description of the purposes of, and differences between—
-      - **(i)** the report required under paragraph (1)(F); and
-      - **(ii)** the Campus Hazing Transparency Report required under this paragraph.
-    - **(F)** For purposes of this paragraph, the definition of “campus” under paragraph (6)(A)(ii) shall not apply.
-    - **(G)** An institution described in subparagraph (A) is not required to—
-      - **(i)** develop the Campus Hazing Transparency Report under this subsection until such institution has a finding of a hazing violation; or
-      - **(ii)** update the Campus Hazing Transparency Report in accordance with clause (iii) of subparagraph (A) for a period described in such clause if such institution does not have a finding of a hazing violation for such period.
-  - **(10)** The Secretary, in consultation with the Attorney General of the United States, shall provide technical assistance in complying with the provisions of this section to an institution of higher education who requests such assistance.
-  - **(11)** Nothing in this section shall be construed to require the reporting or disclosure of privileged information.
-  - **(12)** The Secretary shall report to the appropriate committees of Congress each institution of higher education that the Secretary determines is not in compliance with the reporting requirements of this subsection.
-  - **(13)** For purposes of reporting the statistics with respect to crimes described in paragraph (1)(F), an institution of higher education shall distinguish, by means of separate categories, any criminal offenses that occur—
+  - **(9)** The Secretary, in consultation with the Attorney General of the United States, shall provide technical assistance in complying with the provisions of this section to an institution of higher education who requests such assistance.
+  - **(10)** Nothing in this section shall be construed to require the reporting or disclosure of privileged information.
+  - **(11)** The Secretary shall report to the appropriate committees of Congress each institution of higher education that the Secretary determines is not in compliance with the reporting requirements of this subsection.
+  - **(12)** For purposes of reporting the statistics with respect to crimes described in paragraph (1)(F), an institution of higher education shall distinguish, by means of separate categories, any criminal offenses that occur—
     - **(A)** on campus;
     - **(B)** in or on a noncampus building or property;
     - **(C)** on public property; and
     - **(D)** in dormitories or other residential facilities for students on campus.
-  - **(14)** Upon a determination pursuant to section 1094(c)(3)(B) of this title that an institution of higher education has substantially misrepresented the number, location, or nature of the crimes required to be reported under this subsection, the Secretary shall impose a civil penalty upon the institution in the same amount and pursuant to the same procedures as a civil penalty is imposed under section 1094(c)(3)(B) of this title .
-  - **(15)**
+  - **(13)** Upon a determination pursuant to section 1094(c)(3)(B) of this title that an institution of higher education has substantially misrepresented the number, location, or nature of the crimes required to be reported under this subsection, the Secretary shall impose a civil penalty upon the institution in the same amount and pursuant to the same procedures as a civil penalty is imposed under section 1094(c)(3)(B) of this title .
+  - **(14)**
     - **(A)** Nothing in this subsection may be construed to—
       - **(i)** create a cause of action against any institution of higher education or any employee of such an institution for any civil liability; or
       - **(ii)** establish any standard of care.
     - **(B)** Notwithstanding any other provision of law, evidence regarding compliance or noncompliance with this subsection shall not be admissible as evidence in any proceeding of any court, agency, board, or other entity, except with respect to an action to enforce this subsection.
-  - **(16)** The Secretary shall annually report to the authorizing committees regarding compliance with this subsection by institutions of higher education, including an up-to-date report on the Secretary’s monitoring of such compliance.
-  - **(17)**
+  - **(15)** The Secretary shall annually report to the authorizing committees regarding compliance with this subsection by institutions of higher education, including an up-to-date report on the Secretary’s monitoring of such compliance.
+  - **(16)**
     - **(A)** The Secretary shall seek the advice and counsel of the Attorney General of the United States concerning the development, and dissemination to institutions of higher education, of best practices information about campus safety and emergencies.
     - **(B)** The Secretary shall seek the advice and counsel of the Attorney General of the United States and the Secretary of Health and Human Services concerning the development, and dissemination to institutions of higher education, of best practices information about preventing and responding to incidents of domestic violence, dating violence, sexual assault, and stalking, including elements of institutional policies that have proven successful based on evidence-based outcome measurements.
-  - **(18)** No officer, employee, or agent of an institution participating in any program under this subchapter shall retaliate, intimidate, threaten, coerce, or otherwise discriminate against any individual for exercising their rights or responsibilities under any provision of this subsection.
-  - **(19)** This subsection may be cited as the “Jeanne Clery Campus Safety Act”.
+  - **(17)** No officer, employee, or agent of an institution participating in any program under this subchapter shall retaliate, intimidate, threaten, coerce, or otherwise discriminate against any individual for exercising their rights or responsibilities under any provision of this subsection.
+  - **(18)** This subsection may be cited as the “Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act”.
 - **(g)**
   - **(1)** Each coeducational institution of higher education that participates in any program under this subchapter, and has an intercollegiate athletic program, shall annually, for the immediately preceding academic year, prepare a report that contains the following information regarding intercollegiate athletics:
     - **(A)** The number of male and female full-time undergraduates that attended the institution.
@@ -339,6 +299,8 @@ generated_at: "2026-03-29T20:04:32.889Z"
     - **(A)** to provide a private right of action to any person to enforce any provision of this subsection; or
     - **(B)** to create a cause of action against any institution of higher education or any employee of the institution for any civil liability.
 - **(k)**
+  - **(1)** Each institution of higher education shall provide to each student, upon enrollment, a separate, clear, and conspicuous written notice that advises the student of the penalties under section 1091(r) of this title .
+  - **(2)** An institution of higher education shall provide in a timely manner to each student who has lost eligibility for any grant, loan, or work-study assistance under this subchapter as a result of the penalties listed under section 1091(r)(1) of this title a separate, clear, and conspicuous written notice that notifies the student of the loss of eligibility and advises the student of the ways in which the student can regain eligibility under section 1091(r)(2) of this title .
 - **(l)**
   - **(1)**
     - **(A)** Each eligible institution shall, at or prior to the time of a disbursement to a first-time borrower of a loan made, insured, or guaranteed under part B (other than a loan made pursuant to section 1078–3 of this title or a loan made on behalf of a student pursuant to section 1078–2 of this title ) or made under part D (other than a Federal Direct Consolidation Loan or a Federal Direct PLUS loan made on behalf of a student), ensure that the borrower receives comprehensive information on the terms and conditions of the loan and of the responsibilities the borrower has with respect to such loan in accordance with paragraph (2). Such information—

@@ -3,15 +3,15 @@ title: "Section 4101 - Registration and bond"
 usc_title: 26
 usc_section: "4101"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 4101"
-generated_at: "2026-03-29T20:05:22.584Z"
+generated_at: "2026-03-29T20:33:27.207Z"
 ---
 
 # § 4101. Registration and bond
 
 - **(a)**
-  - **(1)** Every person required by the Secretary to register under this section with respect to the tax imposed by section 4041(a) or 4081, every person producing or importing biodiesel (as defined in section 40A(d)(1)) or alcohol (as defined in section 6426(b)(4)(A)), every person producing or importing sustainable aviation fuel (as defined in section 40B), every person producing a fuel eligible for the clean fuel production credit (pursuant to section 45Z), and every person producing second generation biofuel (as defined in section 40(b)(6)(E)) shall register with the Secretary at such time, in such form and manner, and subject to such terms and conditions, as the Secretary may by regulations prescribe. A registration under this section may be used only in accordance with regulations prescribed under this section.
+  - **(1)** Every person required by the Secretary to register under this section with respect to the tax imposed by section 4041(a) or 4081, every person producing or importing biodiesel (as defined in section 40A(d)(1)) or alcohol (as defined in section 6426(b)(4)(A)), and every person producing second generation biofuel (as defined in section 40(b)(6)(E)) shall register with the Secretary at such time, in such form and manner, and subject to such terms and conditions, as the Secretary may by regulations prescribe. A registration under this section may be used only in accordance with regulations prescribed under this section.
   - **(2)** The Secretary shall require registration by any person which—
     - **(A)** operates a terminal or refinery within a foreign trade zone or within a customs bonded storage facility, or
     - **(B)** holds an inventory position with respect to a taxable fuel in such a terminal.

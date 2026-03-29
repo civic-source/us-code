@@ -1,12 +1,23 @@
 ---
-title: "Section 4503a - Repealed. Pub. L. 117–263, div. K, title CXV, § 11509(a)(3) , Dec. 23, 2022 , 136 Stat. 4137 ]"
+title: "Section 4503a - Alternate safety compliance program"
 usc_title: 46
 usc_section: "4503a"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "46 U.S.C. § 4503a"
-generated_at: "2026-03-29T20:08:05.305Z"
+generated_at: "2026-03-29T20:35:02.369Z"
 ---
 
-# [§ 4503a. Repealed. Pub. L. 117–263, div. K, title CXV, § 11509(a)(3) , Dec. 23, 2022 , 136 Stat. 4137 ]
+# § 4503a. Alternate safety compliance program
 
+- **(a)** Subject to subsection (c), beginning on the date that is 3 years after the date that the Secretary prescribes an alternate safety compliance program, a fishing vessel, fish processing vessel, or fish tender vessel to which section 4502(b) of this title applies shall comply with such an alternate safety compliance program, if the vessel—
+  - **(1)** is at least 50 feet overall in length;
+  - **(2)** is built before July 1, 2013 ; and
+  - **(3)** is 25 years of age or older.
+- **(b)** A fishing vessel, fish processing vessel, or fish tender vessel built before July 1, 2013 , that undergoes a major conversion completed after the later of July 1, 2013 , or the date the Secretary prescribes an alternate safety compliance program under subsection (a), shall comply with such an alternate safety compliance program.
+- **(c)** For purposes of subsection (a), a separate alternate safety compliance program may be developed for a specific region or specific fishery.
+- **(d)** Notwithstanding subsection (a), vessels owned by a person that owns more than 30 vessels subject to that subsection are not required to meet the alternate safety compliance requirements of that subsection until January 1, 2030 , if that owner enters into a compliance agreement with the Secretary that provides for a fixed schedule for all of the vessels owned by that person to meet requirements of that subsection by that date and the vessel owner is meeting that schedule.
+- **(e)** A fishing vessel, fish processing vessel, or fish tender vessel to which section 4502(b) of this title applies that was classed before July 1, 2012 is not eligible to participate in an alternative safety compliance program prescribed under subsection (a) and, 1 1 So in original. Comma probably should appear after “2012” instead. See 2018 Amendment note below. shall—
+  - **(1)** remain subject to the requirements of a classification society approved by the Secretary; and
+  - **(2)** have on board a certificate from that society.
+- **(f)** For the purposes of this section, the term “built” has the meaning given that term in section 4503(f).

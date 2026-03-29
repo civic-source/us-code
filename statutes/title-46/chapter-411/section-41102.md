@@ -3,9 +3,9 @@ title: "Section 41102 - General prohibitions"
 usc_title: 46
 usc_section: "41102"
 chapter: 411
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "46 U.S.C. § 41102"
-generated_at: "2026-03-29T20:08:05.342Z"
+generated_at: "2026-03-29T20:35:02.405Z"
 ---
 
 # § 41102. General prohibitions
@@ -15,10 +15,3 @@ generated_at: "2026-03-29T20:08:05.342Z"
   - **(1)** the agreement has not become effective under section 40304 of this title or has been rejected, disapproved, or canceled; or
   - **(2)** the operation is not in accordance with the terms of the agreement or any modifications to the agreement made by the Federal Maritime Commission.
 - **(c)** A common carrier, marine terminal operator, or ocean transportation intermediary may not fail to establish, observe, and enforce just and reasonable regulations and practices relating to or connected with receiving, handling, storing, or delivering property.
-- **(d)** A common carrier, marine terminal operator, or ocean transportation intermediary, acting alone or in conjunction with any other person, directly or indirectly, may not—
-  - **(1)** retaliate against a shipper, an agent of a shipper, an ocean transportation intermediary, or a motor carrier by refusing, or threatening to refuse, an otherwise-available cargo space accommodation; or
-  - **(2)** resort to any other unfair or unjustly discriminatory action for—
-    - **(A)** the reason that a shipper, an agent of a shipper, an ocean transportation intermediary, or motor carrier has—
-      - **(i)** patronized another carrier; or
-      - **(ii)** filed a complaint against the common carrier, marine terminal operator, or ocean transportation intermediary; or
-    - **(B)** any other reason.

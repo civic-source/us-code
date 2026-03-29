@@ -3,9 +3,9 @@ title: "Section 210306 - Powers"
 usc_title: 36
 usc_section: "210306"
 chapter: 2103
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "36 U.S.C. § 210306"
-generated_at: "2026-03-29T20:05:40.604Z"
+generated_at: "2026-03-29T20:33:50.651Z"
 ---
 
 # § 210306. Powers

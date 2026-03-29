@@ -3,9 +3,9 @@ title: "Section 7403 - Research, investigation, training, and other activities"
 usc_title: 42
 usc_section: "7403"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 7403"
-generated_at: "2026-03-29T20:07:44.497Z"
+generated_at: "2026-03-29T20:34:53.813Z"
 ---
 
 # § 7403. Research, investigation, training, and other activities
@@ -68,7 +68,7 @@ generated_at: "2026-03-29T20:07:44.497Z"
   - **(3)** The Secretary of Energy shall make available to interested persons (including other Federal agencies and businesses) the use of the Liquefied Gaseous Fuels Spill Test Facility to conduct research and other activities in connection with the activities described in this subsection.
 - **(g)**
   - **(1)** In carrying out subsection (a), the Administrator shall conduct a basic engineering research and technology program to develop, evaluate, and demonstrate nonregulatory strategies and technologies for air pollution prevention.
-  - **(2)** Such strategies and technologies described in paragraph (1) shall be developed with priority on those pollutants which pose a significant risk to human health and the environment, and with opportunities for participation by industry, public interest groups, scientists, States, institutions of higher education, and other interested persons in the development of such strategies and technologies.
+  - **(2)** Such strategies and technologies described in paragraph (1) shall be developed with priority on those pollutants which pose a significant risk to human health and the environment, and with opportunities for participation by industry, public interest groups, scientists, States, institutions of higher education,and other interested persons in the development of such strategies and technologies.
   - **(3)** The program under this subsection shall include the following elements:
     - **(A)** Improvements in nonregulatory strategies and technologies for preventing or reducing multiple air pollutants, including sulfur oxides, nitrogen oxides, heavy metals, PM–10 (particulate matter), carbon monoxide, and carbon dioxide, from stationary sources, including fossil fuel power plants. Such strategies and technologies shall include improvements in the relative cost effectiveness and long-range implications of various air pollutant reduction and nonregulatory control strategies such as energy conservation, including end-use efficiency, and fuel-switching to cleaner fuels. Such strategies and technologies shall be considered for existing and new facilities.
     - **(B)** Improvements in nonregulatory strategies and technologies for reducing air emissions from area sources.
@@ -105,7 +105,7 @@ generated_at: "2026-03-29T20:07:44.497Z"
         - **(II)** The United States—
         - **(III)** Title to any intellectual property described in subclause (I) shall not be transferred or passed, except to an entity that is incorporated in the United States, until the expiration of the first patent obtained in connection with the intellectual property.
       - **(v)** There is authorized to be appropriated to carry out this subparagraph $35,000,000, to remain available until expended.
-      - **(vi)** Notwithstanding section 14 of the Federal Advisory Committee Act (5 U.S.C. App.), 1 1 See References in Text note below. the Board and all authority provided under this subparagraph shall terminate not later than 12 years after December 27, 2020 .
+      - **(vi)** Notwithstanding section 14 of the Federal Advisory Committee Act (5 U.S.C. App.), the Board and all authority provided under this subparagraph shall terminate not later than 12 years after December 27, 2020 .
     - **(C)**
       - **(i)**
         - **(I)** In this subparagraph, the term “deep saline formation” means a formation of subsurface geographically extensive sedimentary rock layers saturated with waters or brines that have a high total dissolved solids content and that are below the depth where carbon dioxide can exist in the formation as a supercritical fluid.

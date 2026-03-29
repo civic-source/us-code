@@ -3,15 +3,15 @@ title: "Section 646 - Other provisions"
 usc_title: 47
 usc_section: "646"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "47 U.S.C. § 646"
-generated_at: "2026-03-29T20:08:02.522Z"
+generated_at: "2026-03-29T20:35:00.373Z"
 ---
 
 # § 646. Other provisions
 
 - **(a)** Notwithstanding any other provision of law, the initial rule making required under section 642(a)(1) of this title shall be exempt from review by the Office of Management and Budget.
-- **(b)** Subchapter I of chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”) shall not apply to any rule making or other action by the Commission required under this subchapter.
+- **(b)** Subchapter I of chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”) shall not apply to the initial rule making required under section 642(a)(1) of this title .
 - **(c)** Except, with respect to an entity that is not the Universal Service Administrative Company, as provided in section 642(a)(2)(B) of this title , section 642(b)(1)(A)(ii) of this title , and subsections (c), (d), and (e) of section 644 of this title , the Commission—
   - **(1)** including the offices of the Commission, shall carry out the responsibilities assigned to the Commission under this subchapter; and
   - **(2)** may not delegate any of the responsibilities assigned to the Commission under this subchapter to any third party, including the Universal Service Administrative Company.

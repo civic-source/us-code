@@ -3,16 +3,16 @@ title: "Section 57100 - National Defense Reserve Fleet"
 usc_title: 46
 usc_section: "57100"
 chapter: 571
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "46 U.S.C. § 57100"
-generated_at: "2026-03-29T20:08:05.382Z"
+generated_at: "2026-03-29T20:35:02.442Z"
 ---
 
 # § 57100. National Defense Reserve Fleet
 
 - **(a)** The Secretary of Transportation shall maintain a National Defense Reserve Fleet, including any vessel assigned by the Secretary to the Ready Reserve Force component of the fleet, consisting of those vessels owned or acquired by the United States Government that the Secretary of Transportation, after consultation with the Secretary of the Navy, determines are of value for national defense purposes and that the Secretary of Transportation decides to place and maintain in the fleet. Vessels in the National Defense Reserve Fleet, including vessels loaned to State maritime academies, shall be considered public vessels of the United States.
 - **(b)** Except as otherwise provided by law, a vessel in the fleet may be used—
-  - **(1)** for an account of an agency of the United States Government in a period during which vessels may be requisitioned under chapter 563; or
+  - **(1)** for an account of an agency of the United States Government in a period during which vessels may be requisitioned under section 902 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1242); 1 1 See References in Text note below. or
   - **(2)** on the request of the Secretary of Defense, and in accordance with memoranda of agreement between the Secretary of Transportation and the Secretary of Defense, for—
     - **(A)** testing for readiness and suitability for mission performance;
     - **(B)** defense sealift functions for which other sealift assets are not reasonably available; and
@@ -39,8 +39,8 @@ generated_at: "2026-03-29T20:08:05.382Z"
 - **(e)** Vessels in the National Defense Reserve Fleet are exempt from the provisions of section 3703a.
 - **(f)** With the concurrence of the Secretary of Defense, the Secretary of Transportation may allow the use of vessels in the National Defense Reserve Fleet (NDRF) for civil contingency operations requested by another Federal agency, and for Maritime Administration promotional and media events relating to demonstration projects and research and development supporting the Administration’s mission, if the Secretary of Transportation determines such use is in the best interest of the Government after considering the following factors:
   - **(1)** The availability of NDRF or Ready Reserve Force (RRF) resources and the impact of such use on NDRF and RRF mission support to the defense and homeland security requirements of the Government.
-  - **(2)** Whether the use of such of 1 1 So in original. vessels will support the mission of the Maritime Administration and not significantly interfere with NDRF vessel maintenance, repair, safety, readiness, and resource availability.
+  - **(2)** Whether the such 2 2 So in original. use of vessels will support the mission of the Maritime Administration and not significantly interfere with NDRF vessel maintenance, repair, safety, readiness, and resource availability.
   - **(3)** Whether safety precautions will be taken, including indemnification of liability when applicable.
   - **(4)** Whether any costs incurred by such use will be funded as a reimbursable transaction between Federal agencies, as applicable.
   - **(5)** Any other matters the Maritime Administrator considers appropriate.
-- **(g)** A vessel in the National Defense Reserve Fleet determined by the Maritime Administration to be an obsolete vessel shall remain a vessel within the meaning of that term in section 3 of title 1 , United States Code, and subject to the rights and responsibilities of a vessel under admiralty law at least until such time as the vessel is delivered to a dismantling facility or is disposed of otherwise from the National Defense Reserve Fleet.
+- **(g)** A vessel in the National Defense Reserve Fleet determined by the Maritime Administration to be of insufficient value to remain in the National Defense Reserve Fleet shall remain a vessel within the meaning of that term in section 3 of title 1 , United States Code, and subject to the rights and responsibilities of a vessel under admiralty law at least until such time as the vessel is delivered to a dismantling facility or is disposed of otherwise from the National Defense Reserve Fleet.

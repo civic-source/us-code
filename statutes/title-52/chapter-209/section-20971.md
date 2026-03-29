@@ -3,9 +3,9 @@ title: "Section 20971 - Certification and testing of voting systems"
 usc_title: 52
 usc_section: "20971"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "52 U.S.C. § 20971"
-generated_at: "2026-03-29T20:08:22.755Z"
+generated_at: "2026-03-29T20:35:17.812Z"
 ---
 
 # § 20971. Certification and testing of voting systems
@@ -22,6 +22,3 @@ generated_at: "2026-03-29T20:08:22.755Z"
   - **(1)** In cooperation with the Commission and in consultation with the Standards Board and the Board of Advisors, the Director of the National Institute of Standards and Technology shall monitor and review, on an ongoing basis, the performance of the laboratories accredited by the Commission under this section, and shall make such recommendations to the Commission as it considers appropriate with respect to the continuing accreditation of such laboratories, including recommendations to revoke the accreditation of any such laboratory.
   - **(2)** The accreditation of a laboratory for purposes of this section may not be revoked unless the revocation is approved by a vote of the Commission.
 - **(d)** Until such time as the Commission provides for the testing, certification, decertification, and recertification of voting system hardware and software by accredited laboratories under this section, the accreditation of laboratories and the procedure for the testing, certification, decertification, and recertification of voting system hardware and software used as of October 29, 2002 , shall remain in effect.
-- **(e)**
-  - **(1)** Not later than 180 days after December 18, 2025 , the Commission shall provide for the conduct of penetration testing as part of the testing, certification, decertification, and recertification of voting system hardware and software by the Commission based on accredited laboratories under this section.
-  - **(2)** The Commission shall develop a program for the acceptance of the results of penetration testing on election systems. The penetration testing required by this subsection shall be required for Commission certification. The Commission shall vote on the selection of any entity identified. The requirements for such selection shall be based on consideration of an entity’s competence to conduct penetration testing under this subsection. The Commission may consult with the National Institute of Standards and Technology or any other appropriate Federal agency on lab selection criteria and other aspects of this program.

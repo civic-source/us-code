@@ -3,9 +3,9 @@ title: "Section 902 - Authority and functions of agency Chief Financial Officers
 usc_title: 31
 usc_section: "902"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "31 U.S.C. § 902"
-generated_at: "2026-03-29T20:05:32.566Z"
+generated_at: "2026-03-29T20:33:31.753Z"
 ---
 
 # § 902. Authority and functions of agency Chief Financial Officers
@@ -46,4 +46,4 @@ generated_at: "2026-03-29T20:05:32.566Z"
     - **(C)** to the extent and in such amounts as may be provided in advance by appropriations Acts, may—
       - **(i)** enter into contracts and other arrangements with public agencies and with private persons for the preparation of financial statements, studies, analyses, and other services; and
       - **(ii)** make such payments as may be necessary to carry out the provisions of this section.
-  - **(2)** Except as provided in paragraph (1)(B), this subsection does not provide to an agency Chief Financial Officer any access greater than permitted under any other law to records, reports, audits, reviews, documents, papers, recommendations, or other material of any Office of Inspector General established under chapter 4 of title 5.
+  - **(2)** Except as provided in paragraph (1)(B), this subsection does not provide to an agency Chief Financial Officer any access greater than permitted under any other law to records, reports, audits, reviews, documents, papers, recommendations, or other material of any Office of Inspector General established under the Inspector General Act of 1978 (5 U.S.C. App.).

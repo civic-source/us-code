@@ -3,9 +3,9 @@ title: "Section 1826j - Illegal, unreported, or unregulated fishing"
 usc_title: 16
 usc_section: "1826j"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 1826j"
-generated_at: "2026-03-29T20:04:20.348Z"
+generated_at: "2026-03-29T20:32:45.391Z"
 ---
 
 # § 1826j. Illegal, unreported, or unregulated fishing
@@ -14,13 +14,10 @@ generated_at: "2026-03-29T20:04:20.348Z"
   - **(1)** The Secretary shall, based on a cumulative compilation and analysis of data collected and provided by international fishery management organizations and other nations and organizations, identify, and list in the report under section 1826h of this title , a nation if any fishing vessel of that nation is engaged, or has been engaged at any point during the preceding 3 years, in illegal, unreported, or unregulated fishing—
     - **(A)** that undermines the effectiveness of measures required by an international fishery management organization, taking into account whether the relevant international fishery management organization has failed to implement effective measures to end the illegal, unreported, or unregulated fishing activity by that nation or the nation is not a party to, or does not maintain cooperating status with, such organization; or
     - **(B)** where no international fishery management organization exists with a mandate to regulate the fishing activity in question.
-  - **(2)** The Secretary shall identify, and list in such report, a nation engaging in or endorsing illegal, unreported, or unregulated fishing. In determining which nations to list in such report, the Secretary shall consider the following:
-    - **(A)** Any nation that is violating, or has violated at any point during the 3 years preceding the date of the determination, conservation and management measures, including catch and other data reporting obligations and requirements, required under an international fishery management agreement to which the United States is a party.
-    - **(B)** Any nation that is failing, or has failed in the 3-year period preceding the date of the determination, to effectively address or regulate illegal, unreported, or unregulated fishing within its fleets in any areas where its vessels are fishing.
-    - **(C)** Any nation that fails to discharge duties incumbent upon it under international law or practice as a flag, port, or coastal state to take action to prevent, deter, and eliminate illegal, unreported, or unregulated fishing.
-    - **(D)** Any nation that has been identified as producing for export to the United States seafood-related goods through forced labor or oppressive child labor (as those terms are defined in section 11329 of the Don Young Coast Guard Authorization Act of 2022) in the most recent List of Goods Produced by Child Labor or Forced Labor in accordance with the Trafficking Victims Protection Act of 2000 ( 22 U.S.C. 7101 et seq.).
+  - **(2)** Taking into account the factors described under subsection (a)(1), the Secretary shall also identify, and list in such report, a nation—
+    - **(A)** if it is violating, or has violated at any point during the preceding 3 years, conservation and management measures required under an international fishery management agreement to which the United States is a party and the violations undermine the effectiveness of such measures; or
+    - **(B)** if it is failing, or has failed in the preceding 3-year period, to effectively address or regulate illegal, unreported, or unregulated fishing in areas described under paragraph (1)(B).
   - **(3)** Where the provisions of this Act are applicable to nations, they shall also be applicable, as appropriate, to other entities that have competency to enter into international fishery management agreements.
-  - **(4)** The Secretary shall make an identification under paragraph (1) or (2) at any time that the Secretary has sufficient information to make such identification.
 - **(b)** The Secretary shall notify the President and that nation of such an identification.
 - **(c)** No later than 60 days after submitting a report to Congress under section 1826h of this title , the Secretary, acting through the Secretary of State, shall—
   - **(1)** notify nations listed in the report of the requirements of this section;
@@ -34,8 +31,12 @@ generated_at: "2026-03-29T20:04:20.348Z"
     - **(A)** the vessel has not engaged in illegal, unreported, or unregulated fishing under an international fishery management agreement to which the United States is a party; or
     - **(B)** the vessel is not identified by an international fishery management organization as participating in illegal, unreported, or unregulated fishing activities.
   - **(3)**
-    - **(A)** The provisions of subsection (a) and paragraphs (3) and (4) of subsection (b) of section 1826a of this title shall apply to any nation that, after being identified and notified under subsection (b) has failed to take the appropriate corrective actions for which the Secretary has issued a negative certification under this subsection.
-    - **(B)** The provisions of subsection (a) and paragraphs (3) and (4) of subsection (b) of section 1826a of this title shall not apply to any nation identified under subsection (a) for which the Secretary has issued a positive certification under this subsection.
+    - **(A)** The provisions of section 1826a(a) and section 1826a(b)(3) and (4) of this title—
+      - **(i)** shall apply to any nation identified under subsection (a) for which the Secretary has issued a negative certification under this subsection; but
+      - **(ii)** shall not apply to any nation identified under subsection (a) for which the Secretary has issued a positive certification under this subsection.
+    - **(B)** Subparagraph (A)(i) does not apply—
+      - **(i)** to the extent that such provisions would apply to sport fishing equipment or to fish or fish products not managed under the applicable international fishery agreement; or
+      - **(ii)** if there is no applicable international fishery agreement, to the extent that such provisions would apply to fish or fish products caught by vessels not engaged in illegal, unreported, or unregulated fishing.
 - **(e)**
   - **(1)** In this Act the term “illegal, unreported, or unregulated fishing” has the meaning established under paragraph (2).
   - **(2)** Within 3 months after January 12, 2007 , the Secretary shall publish a definition of the term “illegal, unreported, or unregulated fishing” for purposes of this Act.

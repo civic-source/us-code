@@ -3,9 +3,9 @@ title: "Section 1432 - Special financial assistance by the corporation"
 usc_title: 29
 usc_section: "1432"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "29 U.S.C. § 1432"
-generated_at: "2026-03-29T20:05:03.768Z"
+generated_at: "2026-03-29T20:33:05.787Z"
 ---
 
 # § 1432. Special financial assistance by the corporation
@@ -42,7 +42,7 @@ generated_at: "2026-03-29T20:05:03.768Z"
 - **(h)** The payment made by the corporation to an eligible multiemployer plan under this section shall be made as a single, lump sum payment.
 - **(i)**
   - **(1)** Special financial assistance under this section shall be a transfer of funds in the amount necessary as demonstrated by the plan sponsor on the application for such special financial assistance, in accordance with the requirements described in subsection (j). Special financial assistance shall be paid to such plan as soon as practicable upon approval of the application by the corporation.
-  - **(2)** Special financial assistance granted by the corporation under this section shall not be capped by the guarantee under 1322a 1 1 So in original. Probably should be preceded by “section”. of this title.
+  - **(2)** Special financial assistance granted by the corporation under this section shall not be capped by the guarantee under 1322a of this title.
 - **(j)**
   - **(1)** The amount of financial assistance provided to a multiemployer plan eligible for financial assistance under this section shall be such amount required for the plan to pay all benefits due during the period beginning on the date of payment of the special financial assistance payment under this section and ending on the last day of the plan year ending in 2051, with no reduction in a participant’s or beneficiary’s accrued benefit as of March 11, 2021 , except to the extent of a reduction in accordance with section 1085(e)(8) of this title adopted prior to the plan’s application for special financial assistance under this section, and taking into account the reinstatement of benefits required under subsection (k).
   - **(2)** The funding projections for purposes of this section shall be performed on a deterministic basis.

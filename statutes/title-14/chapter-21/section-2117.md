@@ -3,9 +3,9 @@ title: "Section 2117 - Selection boards; reports"
 usc_title: 14
 usc_section: "2117"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "14 U.S.C. § 2117"
-generated_at: "2026-03-29T20:03:17.299Z"
+generated_at: "2026-03-29T20:32:03.595Z"
 ---
 
 # § 2117. Selection boards; reports

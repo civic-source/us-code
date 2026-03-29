@@ -3,9 +3,9 @@ title: "Section 285d - Staff; Deputy Law Revision Counsel; delegation of functio
 usc_title: 2
 usc_section: "285d"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "2 U.S.C. § 285d"
-generated_at: "2026-03-29T20:02:11.253Z"
+generated_at: "2026-03-29T20:31:22.470Z"
 ---
 
 # § 285d. Staff; Deputy Law Revision Counsel; delegation of functions

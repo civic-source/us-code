@@ -3,9 +3,9 @@ title: "Section 7543 - Army industrial facilities: sales of manufactured article
 usc_title: 10
 usc_section: "7543"
 chapter: 763
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 7543"
-generated_at: "2026-03-29T20:03:09.844Z"
+generated_at: "2026-03-29T20:31:54.717Z"
 ---
 
 # § 7543. Army industrial facilities: sales of manufactured articles or services outside Department of Defense

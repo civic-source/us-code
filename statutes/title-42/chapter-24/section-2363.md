@@ -3,9 +3,9 @@ title: "Section 2363 - Indemnity obligation of Commission; incorporation by refe
 usc_title: 42
 usc_section: "2363"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 2363"
-generated_at: "2026-03-29T20:07:44.184Z"
+generated_at: "2026-03-29T20:34:53.529Z"
 ---
 
 # § 2363. Indemnity obligation of Commission; incorporation by reference in deed

@@ -3,14 +3,14 @@ title: "Section 2107 - Financial assistance program for specially selected membe
 usc_title: 10
 usc_section: "2107"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2107"
-generated_at: "2026-03-29T20:03:09.640Z"
+generated_at: "2026-03-29T20:31:54.552Z"
 ---
 
 # § 2107. Financial assistance program for specially selected members
 
-- **(a)** The Secretary of the military department concerned may appoint as a cadet or midshipman, as appropriate, in the reserve of an armed force under his jurisdiction any eligible member of the program who will be under 31 years of age on December 31 of the calendar year in which he is eligible under this section for appointment as an ensign in the Navy or as a second lieutenant in the Army, Air Force, Marine Corps, or Space Force.
+- **(a)** The Secretary of the military department concerned may appoint as a cadet or midshipman, as appropriate, in the reserve of an armed force under his jurisdiction any eligible member of the program who will be under 31 years of age on December 31 of the calendar year in which he is eligible under this section for appointment as an ensign in the Navy, as a second lieutenant in the Army, Air Force, Marine Corps, or as an officer in the equivalent grade in the Space Force or Space Force, 1 1 So in original. See 2021 Amendment notes below. as the case may be.
 - **(b)** To be eligible for appointment as a cadet or midshipman under this section a member must—
   - **(1)** be a citizen or national of the United States;
   - **(2)** be specially selected for the financial assistance program under procedures prescribed by the Secretary of the military department concerned;
@@ -39,7 +39,7 @@ generated_at: "2026-03-29T20:03:09.640Z"
     - **(E)** A qualified officer who did not previously receive financial assistance under this section is eligible to receive educational assistance under this paragraph.
     - **(F)** A Reserve officer may not be called or ordered to active duty for a deployment while participating in the program under this paragraph.
     - **(G)** Any service obligation incurred by an officer under an agreement entered into under this paragraph shall be in addition to any service obligation incurred by that officer under any other provision of law or agreement.
-- **(d)** Upon satisfactorily completing the academic and military requirements of the four-year program, a cadet or midshipman may be appointed as a regular or reserve officer in the appropriate armed force in the grade of second lieutenant or ensign, even though he is under 21 years of age.
+- **(d)** Upon satisfactorily completing the academic and military requirements of the four-year program, a cadet or midshipman may be appointed as a regular or reserve officer in the appropriate armed force in the grade of second lieutenant, ensign, or an equivalent grade in the Space Force, even though he is under 21 years of age.
 - **(e)** The date of rank of officers appointed under this section in May or June of any year is the date of graduation of cadets or midshipmen from the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy, as the case may be in that year. The Secretary of the military department concerned shall establish the date of rank of all other officers appointed under this section.
 - **(f)** A cadet or midshipman who does not complete the four-year course of instruction, or who completes the course but declines to accept a commission when offered, may be ordered to active duty by the Secretary of the military department concerned to serve in his enlisted grade or rating for such period of time as the Secretary prescribes but not for more than four years.
 - **(g)** In computing length of service for any purpose, an officer appointed under this section may not be credited with service either as a cadet or midshipman or concurrent enlisted service, other than concurrent enlisted service performed on or after August 1, 1979 , as a member of the Selected Reserve.
@@ -59,6 +59,3 @@ generated_at: "2026-03-29T20:03:09.640Z"
     - **(E)** Requirements for—
       - **(i)** one or more health-care professionals to review, in the case of such a response of a cadet or midshipman, each health-related condition and prognosis addressed in the response, taking into consideration the matters submitted in such response; and
       - **(ii)** the Secretary concerned to take into consideration the determinations made under clause (i) with respect to such condition in making a final decision regarding whether to suspend payment in the case of such cadet or midshipman on the basis of that condition, and the conditions under which such suspension may be lifted.
-- **(k)**
-  - **(1)** Provisions of this section referring to a regular commission, regular officer, or a commission in a regular component shall be treated as also referring to the commission of an officer, or an officer, who is a commissioned officer in the Space Force serving on active duty pursuant to section 20105(b) of this title .
-  - **(2)** Provisions of this section referring to a reserve commission, reserve officer, or a commission in a reserve component shall be treated as also referring to the commission of an officer, or an officer, who is a commissioned officer in the Space Force not serving on active duty pursuant to section 20105(b) of this title .

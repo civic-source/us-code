@@ -3,16 +3,16 @@ title: "Section 7442 - Federal Cyber Scholarship-for-Service Program"
 usc_title: 15
 usc_section: "7442"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 7442"
-generated_at: "2026-03-29T20:03:27.668Z"
+generated_at: "2026-03-29T20:32:10.079Z"
 ---
 
 # § 7442. Federal Cyber Scholarship-for-Service Program
 
 - **(a)** The Director of the National Science Foundation, in coordination with the Director of the Office of Personnel Management and Secretary of Homeland Security, shall continue a Federal cyber scholarship-for-service program to recruit and train the next generation of information technology professionals, industrial control system security professionals, and security managers to meet the needs of the cybersecurity mission for Federal, State, local, and tribal governments.
 - **(b)** The Federal Cyber Scholarship-for-Service Program shall—
-  - **(1)** provide scholarships through qualified institutions of higher education, including community colleges, to students who are enrolled in programs of study at institutions of higher education leading to degrees or specialized program certifications in the cybersecurity field and cybersecurity-related aspects of other related fields as appropriate, including artificial intelligence, quantum computing and aerospace;
+  - **(1)** provide scholarships through qualified institutions of higher education, including community colleges, to students who are enrolled in programs of study at institutions of higher education leading to degrees or specialized program certifications in the cybersecurity field;
   - **(2)** provide the scholarship recipients with summer internship opportunities or other meaningful temporary appointments in the Federal information technology and cybersecurity workforce;
   - **(3)** prioritize the placement of scholarship recipients fulfilling the post-award employment obligation under this section to ensure that—
     - **(A)** not less than 70 percent of such recipients are placed in an executive agency (as defined in section 105 of title 5 );
@@ -85,7 +85,7 @@ generated_at: "2026-03-29T20:03:27.668Z"
   - **(2)** The Director of the National Science Foundation, in coordination with the Office of Personnel Management, shall submit, not less frequently than once every two years, to the Committee on Commerce, Science, and Transportation and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Science, Space, and Technology and the Committee on Oversight and Reform of the House of Representatives a report, including—
     - **(A)** the results of the evaluation under paragraph (1);
     - **(B)** the disparity in any reporting between scholarship recipients and their respective institutions of higher education; and
-    - **(C)** any recent statistics regarding the size, composition, and educational requirements of the Federal cyber 2 2 So in original. Probably should be “cybersecurity”. See 2021 Amendment notes below. workforce.. 3 3 So in original.
+    - **(C)** any recent statistics regarding the size, composition, and educational requirements of the Federal cyber workforce..
   - **(3)** The Director of the National Science Foundation, in coordination with the Director of the Office of Personnel Management, shall provide consolidated and user-friendly online resources for prospective scholarship recipients, including, to the extent practicable—
     - **(A)** searchable, up-to-date, and accurate information about participating institutions of higher education and job opportunities related to the field of cybersecurity; and
     - **(B)** a modernized description of cybersecurity careers.

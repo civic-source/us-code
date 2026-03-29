@@ -3,9 +3,9 @@ title: "Section 1558 - Review of actions of selection boards: correction of mili
 usc_title: 10
 usc_section: "1558"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 1558"
-generated_at: "2026-03-29T20:03:09.611Z"
+generated_at: "2026-03-29T20:31:54.530Z"
 ---
 
 # § 1558. Review of actions of selection boards: correction of military records by special boards; judicial review
@@ -13,27 +13,27 @@ generated_at: "2026-03-29T20:03:09.611Z"
 - **(a)** The Secretary of a military department may correct a person’s military records in accordance with a recommendation made by a special board. Any such correction may be made effective as of the effective date of the action taken on a report of a previous selection board that resulted in the action corrected in the person’s military records.
 - **(b)** In this section:
   - **(1)**
-    - **(A)** The term “special board” means a board that the Secretary of a military department convenes under any authority to consider whether to recommend a person for appointment, enlistment, reenlistment, assignment, promotion, retention, separation, retirement, or transfer to inactive status in a reserve component, or the Space Force, instead of referring the records of that person for consideration by a previously convened selection board which considered or should have considered that person.
+    - **(A)** The term “special board” means a board that the Secretary of a military department convenes under any authority to consider whether to recommend a person for appointment, enlistment, reenlistment, assignment, promotion, retention, separation, retirement, or transfer to inactive status in a reserve component instead of referring the records of that person for consideration by a previously convened selection board which considered or should have considered that person.
     - **(B)** Such term includes a board for the correction of military records convened under section 1552 of this title , if designated as a special board by the Secretary concerned.
-    - **(C)** Such term does not include a promotion special selection board convened under section 628, 14502, or 20252 of this title.
+    - **(C)** Such term does not include a promotion special selection board convened under section 628 or 14502 of this title.
   - **(2)**
-    - **(A)** The term “selection board” means a selection board convened under section 573(c), 580, 580a, 581, 611(b), 637, 638, 638a, 14101(b), 14701, 14701a, 14704, 14705, or 20403 of this title, and any other board convened by the Secretary of a military department under any authority to recommend persons for appointment, enlistment, reenlistment, assignment, promotion, or retention in the armed forces or for separation, retirement, or transfer to inactive status in a reserve component, or the Space Force, for the purpose of reducing the number of persons serving in the armed forces.
+    - **(A)** The term “selection board” means a selection board convened under section 573(c), 580, 580a, 581, 611(b), 637, 638, 638a, 14101(b), 14701, 14704, or 14705 of this title, and any other board convened by the Secretary of a military department under any authority to recommend persons for appointment, enlistment, reenlistment, assignment, promotion, or retention in the armed forces or for separation, retirement, or transfer to inactive status in a reserve component for the purpose of reducing the number of persons serving in the armed forces.
     - **(B)** Such term does not include any of the following:
-      - **(i)** A promotion board convened under section 573(a), 611(a), 14101(a), or 20211 of this title.
+      - **(i)** A promotion board convened under section 573(a), 611(a), or 14101(a) of this title.
       - **(ii)** A special board.
       - **(iii)** A special selection board convened under section 628 of this title .
       - **(iv)** A board for the correction of military records convened under section 1552 of this title .
-  - **(3)** The term “involuntarily board-separated” means separated or retired from an armed force, or transferred to the Retired Reserve or to inactive status in a reserve component, or the Space Force, as a result of a recommendation of a selection board.
+  - **(3)** The term “involuntarily board-separated” means separated or retired from an armed force, or transferred to the Retired Reserve or to inactive status in a reserve component, as a result of a recommendation of a selection board.
 - **(c)**
-  - **(1)** The Secretary of the military department concerned shall ensure that an involuntarily board-separated person receives relief under paragraph (2) or under paragraph (3) if the person, as a result of a correction of the person’s military records under subsection (a), becomes entitled to retention on or restoration to active duty or to active status in a reserve component, or the Space Force.
+  - **(1)** The Secretary of the military department concerned shall ensure that an involuntarily board-separated person receives relief under paragraph (2) or under paragraph (3) if the person, as a result of a correction of the person’s military records under subsection (a), becomes entitled to retention on or restoration to active duty or to active status in a reserve component.
   - **(2)**
     - **(A)** A person referred to in paragraph (1) shall, with that person’s consent, be restored to the same status, rights, and entitlements (less appropriate offsets against back pay and allowances) in that person’s armed force as the person would have had if the person had not been selected to be involuntarily board-separated as a result of an action the record of which is corrected under subsection (a). An action under this subparagraph is subject to subparagraph (B).
-    - **(B)** Nothing in subparagraph (A) may be construed to permit a person to be on active duty or in an active status in a reserve component, or the Space Force, after the date on which the person would have been separated, retired, or transferred to the Retired Reserve or to inactive status in a reserve component, or the Space Force, if the person had not been selected to be involuntarily board-separated in an action of a selection board the record of which is corrected under subsection (a).
+    - **(B)** Nothing in subparagraph (A) may be construed to permit a person to be on active duty or in an active status in a reserve component after the date on which the person would have been separated, retired, or transferred to the Retired Reserve or to inactive status in a reserve component if the person had not been selected to be involuntarily board-separated in an action of a selection board the record of which is corrected under subsection (a).
   - **(3)** If an involuntarily board-separated person referred to in paragraph (1) does not consent to a restoration of status, rights, and entitlements under paragraph (2), the Secretary concerned shall pay that person back pay and allowances (less appropriate offsets), and shall provide that person service credit, for the period—
-    - **(A)** beginning on the date of the person’s separation, retirement, or transfer to the Retired Reserve or to inactive status in a reserve component, or the Space Force, as the case may be; and
+    - **(A)** beginning on the date of the person’s separation, retirement, or transfer to the Retired Reserve or to inactive status in a reserve component, as the case may be; and
     - **(B)** ending on the earlier of—
       - **(i)** the date on which the person would have been so restored under paragraph (2), as determined by the Secretary concerned; or
-      - **(ii)** the date on which the person would otherwise have been separated, retired, or transferred to the Retired Reserve or to inactive status in a reserve component, or the Space Force, as the case may be.
+      - **(ii)** the date on which the person would otherwise have been separated, retired, or transferred to the Retired Reserve or to inactive status in a reserve component, as the case may be.
 - **(d)** If a special board makes a recommendation not to correct the military records of a person regarding action taken in the case of that person on the basis of a previous report of a selection board, the action previously taken on that report shall be considered as final as of the date of the action taken on that report.
 - **(e)**
   - **(1)** The Secretary of each military department shall prescribe regulations to carry out this section. Regulations under this subsection may not apply to subsection (f), other than to paragraph (4)(C) of that subsection.

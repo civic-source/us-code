@@ -3,9 +3,9 @@ title: "Section 3609 - Void lease or contract provisions"
 usc_title: 15
 usc_section: "3609"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 3609"
-generated_at: "2026-03-29T20:03:27.571Z"
+generated_at: "2026-03-29T20:32:10.006Z"
 ---
 
 # § 3609. Void lease or contract provisions

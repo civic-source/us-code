@@ -3,9 +3,9 @@ title: "Section 14111 - Reports of selection boards: transmittal to President"
 usc_title: 10
 usc_section: "14111"
 chapter: 1403
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 14111"
-generated_at: "2026-03-29T20:03:09.928Z"
+generated_at: "2026-03-29T20:31:54.783Z"
 ---
 
 # § 14111. Reports of selection boards: transmittal to President
@@ -14,7 +14,4 @@ generated_at: "2026-03-29T20:03:09.928Z"
 - **(b)**
   - **(1)** Except as provided in paragraph (2), the name of an officer recommended for promotion by a selection board may be removed from the report of the selection board only by the President.
   - **(2)** In the case of an officer recommended by a selection board for promotion to a grade below brigadier general or rear admiral (lower half), the name of the officer may also be removed from the report of the selection board by the Secretary of Defense or the Deputy Secretary of Defense.
-  - **(3)** The Secretary of Defense shall notify the congressional defense committees of the removal of the name of an officer from the report of a selection board by the President or the Secretary or Deputy Secretary of Defense under paragraph (1) or paragraph (2), respectively, for any reason other than misconduct—
-    - **(A)** not later than 30 days after the name of an officer is removed; and
-    - **(B)** prior to submission to the Senate of a promotion list with respect to such report pursuant to section 12203 of this title .
 - **(c)** If the Secretary of a military department or the Secretary of Defense makes a recommendation under this section that the name of an officer be removed from the report of a promotion board and the recommendation is accompanied by information that was not presented to that promotion board, that information shall be made available to that officer. The officer shall then be afforded a reasonable opportunity to submit comments on that information to the officials making the recommendation and the officials reviewing the recommendation. If an eligible officer cannot be given access to such information because of its classification status, the officer shall, to the maximum extent practicable, be provided with an appropriate summary of the information.

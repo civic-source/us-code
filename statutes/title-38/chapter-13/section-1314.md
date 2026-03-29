@@ -3,9 +3,9 @@ title: "Section 1314 - Supplemental dependency and indemnity compensation to chi
 usc_title: 38
 usc_section: "1314"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "38 U.S.C. § 1314"
-generated_at: "2026-03-29T20:05:54.640Z"
+generated_at: "2026-03-29T20:34:04.880Z"
 ---
 
 # § 1314. Supplemental dependency and indemnity compensation to children

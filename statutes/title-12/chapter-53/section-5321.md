@@ -3,9 +3,9 @@ title: "Section 5321 - Financial Stability Oversight Council established"
 usc_title: 12
 usc_section: "5321"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "12 U.S.C. § 5321"
-generated_at: "2026-03-29T20:03:45.961Z"
+generated_at: "2026-03-29T20:32:15.210Z"
 ---
 
 # § 5321. Financial Stability Oversight Council established
@@ -42,7 +42,7 @@ generated_at: "2026-03-29T20:03:45.961Z"
   - **(1)** The Council shall meet at the call of the Chairperson or a majority of the members then serving, but not less frequently than quarterly.
   - **(2)** The Council shall adopt such rules as may be necessary for the conduct of the business of the Council. Such rules shall be rules of agency organization, procedure, or practice for purposes of section 553 of title 5 .
 - **(f)** Unless otherwise specified, the Council shall make all decisions that it is authorized or required to make by a majority vote of the voting members then serving.
-- **(g)** Chapter 10 of title 5 shall not apply to the Council, or to any special advisory, technical, or professional committee appointed by the Council, except that, if an advisory, technical, or professional committee has one or more members who are not employees of or affiliated with the United States Government, the Council shall publish a list of the names of the members of such committee.
+- **(g)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Council, or to any special advisory, technical, or professional committee appointed by the Council, except that, if an advisory, technical, or professional committee has one or more members who are not employees of or affiliated with the United States Government, the Council shall publish a list of the names of the members of such committee.
 - **(h)** Any department or agency of the United States may provide to the Council and any special advisory, technical, or professional committee appointed by the Council, such services, funds, facilities, staff, and other support services as the Council may determine advisable.
 - **(i)**
   - **(1)** All members of the Council who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States.

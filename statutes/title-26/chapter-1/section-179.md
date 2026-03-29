@@ -3,17 +3,17 @@ title: "Section 179 - Election to expense certain depreciable business assets"
 usc_title: 26
 usc_section: "179"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 179"
-generated_at: "2026-03-29T20:05:22.250Z"
+generated_at: "2026-03-29T20:33:26.878Z"
 ---
 
 # § 179. Election to expense certain depreciable business assets
 
 - **(a)** A taxpayer may elect to treat the cost of any section 179 property as an expense which is not chargeable to capital account. Any cost so treated shall be allowed as a deduction for the taxable year in which the section 179 property is placed in service.
 - **(b)**
-  - **(1)** The aggregate cost which may be taken into account under subsection (a) for any taxable year shall not exceed $2,500,000.
-  - **(2)** The limitation under paragraph (1) for any taxable year shall be reduced (but not below zero) by the amount by which the cost of section 179 property placed in service during such taxable year exceeds $4,000,000.
+  - **(1)** The aggregate cost which may be taken into account under subsection (a) for any taxable year shall not exceed $1,000,000.
+  - **(2)** The limitation under paragraph (1) for any taxable year shall be reduced (but not below zero) by the amount by which the cost of section 179 property placed in service during such taxable year exceeds $2,500,000.
   - **(3)**
     - **(A)** The amount allowed as a deduction under subsection (a) for any taxable year (determined after the application of paragraphs (1) and (2)) shall not exceed the aggregate amount of taxable income of the taxpayer for such taxable year which is derived from the active conduct by the taxpayer of any trade or business during such taxable year.
     - **(B)** The amount allowable as a deduction under subsection (a) for any taxable year shall be increased by the lesser of—
@@ -37,11 +37,9 @@ generated_at: "2026-03-29T20:05:22.250Z"
         - **(II)** is equipped with a cargo area of at least 6 feet in interior length which is an open area or is designed for use as an open area but is enclosed by a cap and is not readily accessible directly from the passenger compartment, or
         - **(III)** has an integral enclosure, fully enclosing the driver compartment and load carrying device, does not have seating rearward of the driver’s seat, and has no body section protruding more than 30 inches ahead of the leading edge of the windshield.
   - **(6)**
-    - **(A)** In the case of any taxable year beginning after 2018 (2025 in the case of the dollar amounts in paragraphs (1) and (2)), the dollar amounts in paragraphs (1), (2), and (5)(A) shall each be increased by an amount equal to—
+    - **(A)** In the case of any taxable year beginning after 2018, the dollar amounts in paragraphs (1), (2), and (5)(A) shall each be increased by an amount equal to—
       - **(i)** such dollar amount, multiplied by
-      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting in subparagraph (A)(ii) thereof—
-        - **(I)** in the case of amounts in paragraphs (1) and (2), “calendar year 2024” for “calendar year 2016”, and
-        - **(II)** in the case of the amount in paragraph (5)(A), “calendar year 2017” for “calendar year 2016”.
+      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2017” for “calendar year 2016” in subparagraph (A)(ii) thereof.
     - **(B)** The amount of any increase under subparagraph (A) shall be rounded to the nearest multiple of $10,000 ($100 in the case of any increase in the amount under paragraph (5)(A)).
 - **(c)**
   - **(1)** An election under this section for any taxable year shall—

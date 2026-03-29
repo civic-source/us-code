@@ -3,9 +3,9 @@ title: "Section 603 - Grants to States"
 usc_title: 42
 usc_section: "603"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 603"
-generated_at: "2026-03-29T20:07:43.431Z"
+generated_at: "2026-03-29T20:34:52.901Z"
 ---
 
 # § 603. Grants to States
@@ -169,7 +169,7 @@ generated_at: "2026-03-29T20:07:43.431Z"
         - **(I)** based on the methodology used by the Bureau of the Census to produce and publish intercensal poverty data for States and counties (or, in the case of Puerto Rico, the Virgin Islands, Guam, and American Samoa, other poverty data selected by the Secretary of Labor); and
         - **(II)** using data for the most recent year for which such data is available before the beginning of the fiscal year.
       - **(ii)** As used in this paragraph, the term “private industry council” means, with respect to a service delivery area, the private industry council or local workforce development board established for the local workforce development area pursuant to title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 et seq.], as appropriate.
-      - **(iii)** As used in this paragraph, the term “service delivery area” shall have the meaning given such term for purposes of the Job Training Partnership Act or. 5 5 So in original.
+      - **(iii)** As used in this paragraph, the term “service delivery area” shall have the meaning given such term for purposes of the Job Training Partnership Act or. 6 6 So in original.
     - **(E)** 1 percent of the amount specified in subparagraph (H) for fiscal year 1998 and $15,000,000 of the amount so specified for fiscal year 1999 shall be reserved for grants to Indian tribes under section 612(a)(3) of this title .
     - **(F)** 0.6 percent of the amount specified in subparagraph (H) for fiscal year 1998 and $9,000,000 of the amount so specified for fiscal year 1999 shall be reserved for use by the Secretary to carry out section 613(j) of this title .
     - **(G)**

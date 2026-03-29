@@ -3,9 +3,9 @@ title: "Section 274b - General provisions respecting grants and contracts"
 usc_title: 42
 usc_section: "274b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 274b"
-generated_at: "2026-03-29T20:07:43.026Z"
+generated_at: "2026-03-29T20:34:52.605Z"
 ---
 
 # § 274b. General provisions respecting grants and contracts
@@ -18,8 +18,8 @@ generated_at: "2026-03-29T20:07:43.026Z"
 - **(c)**
   - **(1)** The Secretary shall determine the amount of a grant or contract made under section 273 or 274a of this title. Payments under such grants and contracts may be made in advance on the basis of estimates or by the way of reimbursement, with necessary adjustments on account of underpayments or overpayments, and in such installments and on such terms and conditions as the Secretary finds necessary to carry out the purposes of such grants and contracts.
   - **(2)**
-    - **(A)** Each recipient of a grant or contract under section 273, 274, or 274a of this title shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grant or contract, the total cost of the undertaking in connection with which such grant or contract was made, and the amount of that portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
-    - **(B)** The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient of a grant or contract under section 273, 274, or 274a of this title that are pertinent to such grant or contract.
+    - **(A)** Each recipient of a grant or contract under section 273 or 274a of this title shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grant or contract, the total cost of the undertaking in connection with which such grant or contract was made, and the amount of that portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+    - **(B)** The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient of a grant or contract under section 273 or 274a of this title that are pertinent to such grant or contract.
 - **(d)** For purposes of this part:
   - **(1)** The term “transplant center” means a health care facility in which transplants of organs are performed.
   - **(2)** The term “organ” means the human kidney, liver, heart, lung, pancreas, and any other human organ (other than corneas and eyes) specified by the Secretary by regulation and for purposes of section 274a of this title , such term includes bone marrow.

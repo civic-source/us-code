@@ -3,15 +3,15 @@ title: "Section 3709 - Authorization of appropriations"
 usc_title: 16
 usc_section: "3709"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 3709"
-generated_at: "2026-03-29T20:04:20.418Z"
+generated_at: "2026-03-29T20:32:45.438Z"
 ---
 
 # § 3709. Authorization of appropriations
 
 - **(a)**
-  - **(1)** There are authorized to be appropriated to carry out this Act for each of fiscal years 2021 through 2030—
+  - **(1)** There are authorized to be appropriated to carry out this Act for each of fiscal years 2021 through 2025—
     - **(A)** $15,000,000 to the Secretary of the Interior;
     - **(B)** $5,000,000 to the Secretary of Agriculture; and
     - **(C)** $5,000,000 to the Secretary of Commerce.
@@ -20,10 +20,9 @@ generated_at: "2026-03-29T20:04:20.418Z"
   - **(4)** No Federal funds made available under paragraph (1) shall be used by the Foundation for administrative expenses of the Foundation, including for salaries, travel and transportation expenses, and other overhead expenses.
 - **(b)**
   - **(1)**
-    - **(A)** In addition to the amounts authorized to be appropriated under subsection (a), Federal departments, agencies, or instrumentalities are authorized to provide funds to the Foundation through Federal financial assistance grants, cooperative agreements, participating agreements, and similar instruments used for providing partnership funds, subject to the condition that the amounts are used for purposes that further the conservation and management of fish, wildlife, plants, and other natural resources in accordance with this Act.
-    - **(B)** Federal departments, agencies, and instrumentalities may enter into a Federal funding agreement with the Foundation for a period of not more than 10 years.
-    - **(C)** Federal departments, agencies, or instrumentalities may, and should when possible, advance amounts described in subparagraph (A) to the Foundation in a lump sum without regard to when the expenses for which the amounts are used are incurred.
-    - **(D)** The Foundation may assess and collect fees for the management of amounts received under this paragraph.
+    - **(A)** In addition to the amounts authorized to be appropriated under subsection (a), Federal departments, agencies, or instrumentalities are authorized to provide funds to the Foundation through Federal financial assistance grants and cooperative agreements, subject to the condition that the amounts are used for purposes that further the conservation and management of fish, wildlife, plants, and other natural resources in accordance with this Act.
+    - **(B)** Federal departments, agencies, or instrumentalities may advance amounts described in subparagraph (A) to the Foundation in a lump sum without regard to when the expenses for which the amounts are used are incurred.
+    - **(C)** The Foundation may assess and collect fees for the management of amounts received under this paragraph.
   - **(2)** Federal funds provided to the Foundation under paragraph (1) may be used by the Foundation for matching, in whole or in part, contributions (whether in currency, services, or property) made to the Foundation by private persons, State and local government agencies, and other entities.
   - **(3)**
     - **(A)** In entering into contracts, agreements, or other partnerships pursuant to this Act, a Federal department, agency, or instrumentality shall have discretion to waive any competitive process applicable to the department, agency, or instrumentality for entering into contracts, agreements, or partnerships with the Foundation if the purpose of the waiver is—

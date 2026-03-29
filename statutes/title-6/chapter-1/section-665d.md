@@ -1,14 +1,14 @@
 ---
-title: "Section 665d - Sector Risk Management Agencies"
+title: "Section 665d - Sector risk management agencies"
 usc_title: 6
 usc_section: "665d"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "6 U.S.C. § 665d"
-generated_at: "2026-03-29T20:02:42.042Z"
+generated_at: "2026-03-29T20:31:30.671Z"
 ---
 
-# § 665d. Sector Risk Management Agencies
+# § 665d. Sector risk management agencies
 
 - **(a)** Consistent with applicable law, Presidential directives, Federal regulations, and strategic guidance from the Secretary, each Sector Risk Management Agency, in coordination with the Director, shall—
   - **(1)** provide specialized sector-specific expertise to critical infrastructure owners and operators within its designated critical infrastructure sector or subsector of such sector; and
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T20:02:42.042Z"
     - **(B)** serving as the Federal Government coordinating council chair for the designated sector or subsector of such sector; and
     - **(C)** participating in cross-sector coordinating councils, as appropriate;
   - **(4)** facilitating, in coordination with the Director, the sharing with the Department and other appropriate Federal department of information regarding physical security and cybersecurity threats within the designated sector or subsector of such sector, including—
-    - **(A)** facilitating, in coordination with the Director, access to, and exchange of, information and intelligence necessary to strengthen the security of critical infrastructure, including through Information Sharing and Analysis Organizations and the national cybersecurity and communications integration center established pursuant to section 659 of this title ;
+    - **(A)** facilitating, in coordination with the Director, access to, and exchange of, information and intelligence necessary to strengthen the security of critical infrastructure, including through information sharing and analysis organizations and the national cybersecurity and communications integration center established pursuant to section 659 of this title ;
     - **(B)** facilitating the identification of intelligence needs and priorities of critical infrastructure owners and operators in the designated sector or subsector of such sector, in coordination with the Director of National Intelligence and the heads of other Federal departments and agencies, as appropriate;
     - **(C)** providing the Director, and facilitating awareness within the designated sector or subsector of such sector, of ongoing, and where possible, real-time awareness of identified threats, vulnerabilities, mitigations, and other actions related to the security of such sector or subsector of such sector; and
     - **(D)** supporting the reporting requirements of the Department under applicable law by providing, on an annual basis, sector-specific critical infrastructure information;

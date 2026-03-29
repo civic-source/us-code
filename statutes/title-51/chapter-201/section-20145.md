@@ -3,9 +3,9 @@ title: "Section 20145 - Lease of non-excess property"
 usc_title: 51
 usc_section: "20145"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "51 U.S.C. § 20145"
-generated_at: "2026-03-29T20:08:15.815Z"
+generated_at: "2026-03-29T20:35:13.933Z"
 ---
 
 # § 20145. Lease of non-excess property
@@ -29,10 +29,4 @@ generated_at: "2026-03-29T20:08:15.815Z"
 - **(f)** The Administrator shall submit an annual report by January 31st of each year. The report shall include the following:
   - **(1)** Information that identifies and quantifies the value of the arrangements and expenditures of revenues received under this section.
   - **(2)** The availability and use of funds received under this section for the Administration’s operating plan.
-  - **(3)** The annual and cumulative number of leases entered into under this section, by National Aeronautics and Space Administration center and facility.
-  - **(4)** For each active lease agreement under this section, the estimated cost savings to the Administration resulting from reduced maintenance, operating, and associated costs in the previous fiscal year.
-  - **(5)** Other quantifiable benefits, including additional cost savings not included under paragraph (4), to the Administration resulting from the use of leases under this section.
-- **(g)** Not later than 270 days after the date of the enactment of the National Aeronautics and Space Administration Authorization Act of 2022, the Administrator shall prepare and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on existing requirements for applicants seeking a lease under this section, including—
-  - **(1)** any requirement related to the involvement of foreign entities, foreign entity ownership, and foreign entity investment; and
-  - **(2)** at the discretion of the Administrator, any other requirement related to the protection and security of Administration missions and facilities.
-- **(h)** The authority to enter into leases under this section shall expire December 31, 2032 . The expiration under this subsection of authority to enter into leases under this section shall not affect the validity or term of leases or the Administration’s retention of proceeds from leases entered into under this section before the expiration of the authority.
+- **(g)** The authority to enter into leases under this section shall expire December 31, 2021 . The expiration under this subsection of authority to enter into leases under this section shall not affect the validity or term of leases or the Administration’s retention of proceeds from leases entered into under this section before the expiration of the authority.

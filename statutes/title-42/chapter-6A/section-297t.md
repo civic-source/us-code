@@ -3,9 +3,9 @@ title: "Section 297t - National Advisory Council on Nurse Education and Practice
 usc_title: 42
 usc_section: "297t"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 297t"
-generated_at: "2026-03-29T20:07:43.195Z"
+generated_at: "2026-03-29T20:34:52.715Z"
 ---
 
 # § 297t. National Advisory Council on Nurse Education and Practice
@@ -35,4 +35,4 @@ generated_at: "2026-03-29T20:07:43.195Z"
   - **(1)** Each member of the Advisory Council shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5 for each day (including travel time) during which such member is engaged in the performance of the duties of the Council. All members of the Council who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States.
   - **(2)** The members of the Advisory Council shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Council.
 - **(g)** Amounts appropriated for carrying out parts B, C, and D may be utilized by the Secretary to support the nurse education and practice activities of the Council.
-- **(h)** Chapter 10 of title 5 shall apply to the Advisory Committee under this section only to the extent that the provisions of chapter 10 of title 5 do not conflict with the requirements of this section.
+- **(h)** The Federal Advisory Committee Act shall apply to the Advisory Committee under this section only to the extent that the provisions of such Act do not conflict with the requirements of this section.

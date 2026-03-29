@@ -3,14 +3,14 @@ title: "Section 1492 - Authority to provide travel and transportation allowances
 usc_title: 10
 usc_section: "1492"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 1492"
-generated_at: "2026-03-29T20:03:09.604Z"
+generated_at: "2026-03-29T20:31:54.525Z"
 ---
 
 # § 1492. Authority to provide travel and transportation allowances in connection with transfer ceremonies of certain civilian employees who die overseas
 
-- **(a)** A covered official may treat a covered relative of a covered employee under the jurisdiction of that covered official in the same manner the Secretary of a military department treats, under section 481f(d) 1 1 See References in Text note below. of title 37, next of kin and family members of a member of the armed forces who dies while located or serving overseas.
+- **(a)** A covered official may treat a covered relative of a covered employee under the jurisdiction of that covered official in the same manner the Secretary of a military department treats, under section 481f(d) of title 37 , next of kin and family members of a member of the armed forces who dies while located or serving overseas.
 - **(b)** In this section:
   - **(1)** The term “covered employee” means a civilian employee—
     - **(A)** under the jurisdiction of a covered official; and

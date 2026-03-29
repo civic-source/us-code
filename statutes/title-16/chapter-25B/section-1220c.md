@@ -3,9 +3,9 @@ title: "Section 1220c - Denial of applications; finality of decision"
 usc_title: 16
 usc_section: "1220c"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 1220c"
-generated_at: "2026-03-29T20:04:20.271Z"
+generated_at: "2026-03-29T20:32:45.337Z"
 ---
 
 # § 1220c. Denial of applications; finality of decision

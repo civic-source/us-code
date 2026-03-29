@@ -3,14 +3,14 @@ title: "Section 137 - Under Secretary of Defense for Intelligence and Security"
 usc_title: 10
 usc_section: "137"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 137"
-generated_at: "2026-03-29T20:03:09.418Z"
+generated_at: "2026-03-29T20:31:54.384Z"
 ---
 
 # § 137. Under Secretary of Defense for Intelligence and Security
 
-- **(a)** There is an Under Secretary of Defense for Intelligence and Security, appointed from civilian life by the President, by and with the advice and consent of the Senate. A person may not be appointed as Under Secretary within seven years after relief from active duty as a commissioned officer of a regular component of an armed force.
+- **(a)** There is an Under Secretary of Defense for Intelligence and Security, appointed from civilian life by the President, by and with the advice and consent of the Senate. A person may not be appointed as Under Secretary within seven years after relief from active duty as a commissioned officer of a regular component of the armed forces.
 - **(b)** Subject to the authority, direction, and control of the Secretary of Defense, the Under Secretary of Defense for Intelligence and Security shall—
   - **(1)** have responsibility for the overall direction and supervision for policy, program planning and execution, and use of resources, for the activities of the Department of Defense that are part of the Military Intelligence Program;
   - **(2)** execute the functions for the National Intelligence Program of the Department of Defense under section 105 of the National Security Act of 1947 ( 50 U.S.C. 3038 ), as delegated by the Secretary of Defense;

@@ -3,9 +3,9 @@ title: "Section 5304 - Statewide and nonmetropolitan transportation planning"
 usc_title: 49
 usc_section: "5304"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 5304"
-generated_at: "2026-03-29T20:07:58.430Z"
+generated_at: "2026-03-29T20:35:10.766Z"
 ---
 
 # § 5304. Statewide and nonmetropolitan transportation planning
@@ -41,7 +41,7 @@ generated_at: "2026-03-29T20:07:58.430Z"
     - **(C)** A State shall integrate into the statewide transportation planning process, directly or by reference, the goals, objectives, performance measures, and targets described in this paragraph, in other State transportation plans and transportation processes, as well as any plans developed pursuant to title 23 by providers of public transportation in areas with a population of fewer than 200,000 individuals, as calculated according to the most recent decennial census, and not represented by a metropolitan planning organization, required as part of a performance-based program.
     - **(D)** The performance measures and targets established under this paragraph shall be considered by a State when developing policies, programs, and investment priorities reflected in the statewide transportation plan and statewide transportation improvement program.
   - **(3)** The failure to take into consideration the factors specified in paragraphs (1) and (2) shall not be subject to review by any court under this chapter, title 23, subchapter II of chapter 5 of title 5, or chapter 7 of title 5 in any matter affecting a statewide transportation plan, a statewide transportation improvement program, a project or strategy, or the certification of a planning process.
-- **(e)** In carrying out planning under this section, each State shall, at a minimum—
+- **(e)** “In 1 1 So in original. The quotation marks probably should not appear. carrying out planning under this section, each State shall, at a minimum—
   - **(1)** with respect to nonmetropolitan areas, cooperate with affected local officials with responsibility for transportation or, if applicable, through regional transportation planning organizations described in subsection (l);
   - **(2)** consider the concerns of Indian tribal governments and Federal land management agencies that have jurisdiction over land within the boundaries of the State; and
   - **(3)** consider coordination of transportation plans, the transportation improvement program, and planning activities with related planning activities being carried out outside of metropolitan planning areas and between States.
@@ -65,9 +65,6 @@ generated_at: "2026-03-29T20:07:58.430Z"
       - **(ii)** hold any public meetings at convenient and accessible locations and times;
       - **(iii)** employ visualization techniques to describe plans; and
       - **(iv)** make public information available in electronically accessible format and means, such as the World Wide Web, as appropriate to afford reasonable opportunity for consideration of public information under subparagraph (A).
-    - **(C)** A State may use social media and other web-based tools—
-      - **(i)** to further encourage public participation; and
-      - **(ii)** to solicit public feedback during the transportation planning process.
   - **(4)**
     - **(A)** A long-range transportation plan shall include a discussion of potential environmental mitigation activities and potential areas to carry out these activities, including activities that may have the greatest potential to restore and maintain the environmental functions affected by the plan.
     - **(B)** The discussion shall be developed in consultation with Federal, State, and tribal wildlife, land management, and regulatory agencies.
@@ -133,7 +130,7 @@ generated_at: "2026-03-29T20:07:58.430Z"
       - **(i)** the overall effectiveness of performance-based planning as a tool for guiding transportation investments; and
       - **(ii)** the effectiveness of the performance-based planning process of each State.
     - **(B)** The report under subparagraph (A) shall be published or otherwise made available in electronically accessible formats and means, including on the Internet.
-- **(i)** For purposes of this section and section 5303, and sections 134 and 135 of title 23, State laws, rules, or regulations pertaining to congestion management systems or programs may constitute the congestion management process under this section and section 5303, and sections 134 and 135 of title 23, if the Secretary finds that the State laws, rules, or regulations are consistent with, and fulfill the intent of, the purposes of this section and section 5303, and sections 134 and 135 of title 23, as appropriate.
+- **(i)** For purposes of this section and section 5303, and sections 134 and 135 of title 23, State laws, rules, or regulations pertaining to congestion management systems or programs may constitute the congestion management process under this this 2 2 So in original. section and section 5303, and sections 134 and 135 of title 23, if the Secretary finds that the State laws, rules, or regulations are consistent with, and fulfill the intent of, the purposes of this section and section 5303, and sections 134 and 135 of title 23, as appropriate.
 - **(j)** Since the statewide transportation plan and the transportation improvement program described in this section are subject to a reasonable opportunity for public comment, since individual projects included in the statewide transportation plans and the transportation improvement program are subject to review under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.), and since decisions by the Secretary concerning statewide transportation plans or the transportation improvement program described in this section have not been reviewed under that Act as of January 1, 1997 , any decision by the Secretary concerning a metropolitan or statewide transportation plan or the transportation improvement program described in this section shall not be considered to be a Federal action subject to review under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).
 - **(k)** The Secretary shall issue guidance on a schedule for implementation of the changes made by this section, taking into consideration the established planning update cycle for States. The Secretary shall not require a State to deviate from its established planning update cycle to implement changes made by this section. States shall reflect changes made to their transportation plan or transportation improvement program updates not later than 2 years after the date of issuance of guidance by the Secretary under this subsection.
 - **(l)**

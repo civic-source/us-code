@@ -3,9 +3,9 @@ title: "Section 403b - Cost-of-living allowance in the continental United States
 usc_title: 37
 usc_section: "403b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "37 U.S.C. § 403b"
-generated_at: "2026-03-29T20:05:44.914Z"
+generated_at: "2026-03-29T20:33:48.639Z"
 ---
 
 # § 403b. Cost-of-living allowance in the continental United States
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T20:05:44.914Z"
   - **(3)** A member assigned to duty in the continental United States if the Secretary of the uniformed service concerned determines that—
     - **(A)** the primary dependent of the member must reside in a high cost area in the continental United States by reason of the member’s duty location or other circumstances; and
     - **(B)** it would be inequitable for the member’s eligibility for the allowance to be determined on the basis of the duty location of the member.
-- **(c)** An area is a high cost area for a fiscal year for purposes of this section if the uniformed services cost of living for that area for the base period exceeds the average cost of living in the continental United States for such base period by at least the threshold percentage. The Secretary of Defense, in consultation with the other administering Secretaries, shall establish the threshold percentage, except that the threshold percentage may not be less than 5 percent. The administering Secretaries may prescribe a higher threshold percentage to be applied for a fiscal year when it is necessary to do so in order to ensure that the total amount of the payments of the cost-of-living allowance made to members of the uniformed services under this section for such fiscal year does not exceed the total amount available to all uniformed services for that fiscal year for paying such allowance.
+- **(c)** An area is a high cost area for a fiscal year for purposes of this section if the uniformed services cost of living for that area for the base period exceeds the average cost of living in the continental United States for such base period by at least the threshold percentage. The Secretary of Defense, in consultation with the other administering Secretaries, shall establish the threshold percentage, except that the threshold percentage may not be less than 8 percent. The administering Secretaries shall prescribe a higher threshold percentage to be applied for a fiscal year when it is necessary to do so in order to ensure that the total amount of the payments of the cost-of-living allowance made to members of the uniformed services under this section for such fiscal year does not exceed the total amount available to all uniformed services for that fiscal year for paying such allowance.
 - **(d)** The cost-of-living allowance that may be paid to a member for a high cost area for a fiscal year shall be the amount that is equal to the product of—
   - **(1)** the amount of the average spendable income determined applicable for the regular military compensation level of such member under subsection (g); and
   - **(2)** the percentage equal to the excess of—

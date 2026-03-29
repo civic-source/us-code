@@ -3,17 +3,21 @@ title: "Section 125 - Emergency relief"
 usc_title: 23
 usc_section: "125"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "23 U.S.C. § 125"
-generated_at: "2026-03-29T20:04:51.975Z"
+generated_at: "2026-03-29T20:32:49.807Z"
 ---
 
 # § 125. Emergency relief
 
 - **(a)** Subject to this section and section 120, an emergency fund is authorized for expenditure by the Secretary for the repair or reconstruction of highways, roads, and trails, in any area of the United States, including Indian reservations, that the Secretary finds have suffered serious damage as a result of—
-  - **(1)** a natural disaster over a wide area, such as by a flood, hurricane, tidal wave, earthquake, severe storm, wildfire, or landslide; or
+  - **(1)** a natural disaster over a wide area, such as by a flood, hurricane, tidal wave, earthquake, severe storm, or landslide; or
   - **(2)** catastrophic failure from any external cause.
-- **(b)** Funds under this section shall not be used for the repair or reconstruction of a bridge that has been permanently closed to all vehicular traffic by the State or responsible local official because of imminent danger of collapse due to a structural deficiency or physical deterioration.
+- **(b)**
+  - **(1)** In this subsection, the term “construction phase” means the phase of physical construction of a highway or bridge facility that is separate from any other identified phases, such as planning, design, or right-of-way phases, in the State transportation improvement program.
+  - **(2)** In no case shall funds be used under this section for the repair or reconstruction of a bridge—
+    - **(A)** that has been permanently closed to all vehicular traffic by the State or responsible local official because of imminent danger of collapse due to a structural deficiency or physical deterioration; or
+    - **(B)** if a construction phase of a replacement structure is included in the approved Statewide transportation improvement program at the time of an event described in subsection (a).
 - **(c)**
   - **(1)** Subject to the limitations described in paragraph (2), there are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) such sums as are necessary to establish the fund authorized by this section and to replenish that fund on an annual basis.
   - **(2)** The limitations referred to in paragraph (1) are that—
@@ -28,27 +32,13 @@ generated_at: "2026-03-29T20:04:51.975Z"
     - **(A)** no funds shall be so expended unless an emergency has been declared by the Governor of the State with concurrence by the Secretary, unless the President has declared the emergency to be a major disaster for the purposes of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.) for which concurrence of the Secretary is not required; and
     - **(B)** the Secretary has received an application from the State transportation department that includes a comprehensive list of all eligible project sites and repair costs by not later than 2 years after the natural disaster or catastrophic failure.
   - **(2)**
-    - **(A)** In this paragraph, the term “comparable facility” means a facility that—
-      - **(i)** meets the current geometric and construction standards required for the types and volume of traffic that the facility will carry over its design life; and
-      - **(ii)** incorporates economically justifiable improvements that will mitigate the risk of recurring damage from extreme weather, flooding, and other natural disasters.
+    - **(A)** In this paragraph, the term “comparable facility” means a facility that meets the current geometric and construction standards required for the types and volume of traffic that the facility will carry over its design life.
     - **(B)** The total cost of a project funded under this section may not exceed the cost of repair or reconstruction of a comparable facility.
-  - **(3)**
-    - **(A)** The cost of an improvement that is part of a project under this section shall be an eligible expense under this section if the improvement is a protective feature that will mitigate the risk of recurring damage or the cost of future repair from extreme weather, flooding, and other natural disasters.
-    - **(B)** A protective feature referred to in subparagraph (A) includes—
-      - **(i)** raising roadway grades;
-      - **(ii)** relocating roadways in a floodplain to higher ground above projected flood elevation levels or away from slide prone areas;
-      - **(iii)** stabilizing slide areas;
-      - **(iv)** stabilizing slopes;
-      - **(v)** lengthening or raising bridges to increase waterway openings;
-      - **(vi)** increasing the size or number of drainage structures;
-      - **(vii)** replacing culverts with bridges or upsizing culverts;
-      - **(viii)** installing seismic retrofits on bridges;
-      - **(ix)** adding scour protection at bridges, installing riprap, or adding other scour, stream stability, coastal, or other hydraulic countermeasures, including spur dikes; and
-      - **(x)** the use of natural infrastructure to mitigate the risk of recurring damage or the cost of future repair from extreme weather, flooding, and other natural disasters.
-  - **(4)** The costs of debris removal shall be an eligible expense under this section only for—
+  - **(3)** The costs of debris removal shall be an eligible expense under this section only for—
     - **(A)** an event not declared a major disaster or emergency by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.);
     - **(B)** an event declared a major disaster or emergency by the President under that Act if the debris removal is not eligible for assistance under section 403, 407, or 502 of that Act ( 42 U.S.C. 5170b , 5173, 5192); or
     - **(C)** projects eligible for assistance under this section located on tribal transportation facilities, Federal lands transportation facilities, or other federally owned roads that are open to public travel (as defined in subsection (e)(1)).
+  - **[(4)** Repealed. Pub. L. 116–94, div. H, title I, § 127 , Dec. 20, 2019 , 133 Stat. 2953 .]
   - **(5)** Notwithstanding any other provision of this section, actual and necessary costs of maintenance and operation of ferryboats or additional transit service providing temporary substitute highway traffic service, less the amount of fares charged for comparable service, may be expended from the emergency fund authorized by this section for Federal-aid highways.
 - **(e)**
   - **(1)** In this subsection, the following definitions apply:

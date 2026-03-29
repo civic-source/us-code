@@ -1,12 +1,14 @@
 ---
-title: "Section 3005 - Repealed. Pub. L. 117–81, div. E, title LI, § 5114(b)(5) , Dec. 27, 2021 , 135 Stat. 2352"
+title: "Section 3005 - Report relating to Commission on Security and Cooperation in Europe"
 usc_title: 22
 usc_section: "3005"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 3005"
-generated_at: "2026-03-29T20:04:46.840Z"
+generated_at: "2026-03-29T20:33:00.025Z"
 ---
 
-# § 3005. Repealed. Pub. L. 117–81, div. E, title LI, § 5114(b)(5) , Dec. 27, 2021 , 135 Stat. 2352
+# § 3005. Report relating to Commission on Security and Cooperation in Europe
+
+In order to assist the Commission in carrying out its duties, the Secretary of State shall submit to the Commission an annual report discussing the overall United States policy objectives that are advanced through meetings of decision-making bodies of the Organization for Security and Cooperation in Europe (OSCE), the OSCE implementation review process, and other activities of the OSCE. The report shall also include a summary of specific United States policy objectives with respect to participating states where there is particular concern relating to the implementation of OSCE commitments or where an OSCE presence exists. Such summary shall address the role played by OSCE institutions, mechanisms, or field activities in achieving United States policy objectives. Each annual report shall cover the period from January 1 to December 31, shall be submitted not more than 90 days after the end of the reporting period, and shall be posted on the Internet website of the Department of State.
 

@@ -3,9 +3,9 @@ title: "Section 3501a - Additional Assistant Secretaries"
 usc_title: 42
 usc_section: "3501a"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 3501a"
-generated_at: "2026-03-29T20:07:44.249Z"
+generated_at: "2026-03-29T20:34:53.579Z"
 ---
 
 # § 3501a. Additional Assistant Secretaries

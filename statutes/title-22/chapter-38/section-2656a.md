@@ -3,9 +3,9 @@ title: "Section 2656a - Congressional declaration of findings of major significa
 usc_title: 22
 usc_section: "2656a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 2656a"
-generated_at: "2026-03-29T20:04:46.807Z"
+generated_at: "2026-03-29T20:32:59.997Z"
 ---
 
 # § 2656a. Congressional declaration of findings of major significance of modern scientific and technological advances in foreign policy

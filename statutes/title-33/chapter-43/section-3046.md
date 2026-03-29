@@ -3,9 +3,9 @@ title: "Section 3046 - Retired grade and retired pay"
 usc_title: 33
 usc_section: "3046"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "33 U.S.C. § 3046"
-generated_at: "2026-03-29T20:05:35.865Z"
+generated_at: "2026-03-29T20:33:34.324Z"
 ---
 
 # § 3046. Retired grade and retired pay

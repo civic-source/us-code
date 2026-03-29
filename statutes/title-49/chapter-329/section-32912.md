@@ -3,15 +3,15 @@ title: "Section 32912 - Civil penalties"
 usc_title: 49
 usc_section: "32912"
 chapter: 329
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 32912"
-generated_at: "2026-03-29T20:07:58.563Z"
+generated_at: "2026-03-29T20:35:10.878Z"
 ---
 
 # § 32912. Civil penalties
 
 - **(a)** A person that violates section 32911(a) of this title is liable to the United States Government for a civil penalty of not more than $10,000 for each violation. A separate violation occurs for each day the violation continues.
-- **(b)** Except as provided in subsection (c) of this section, a manufacturer that violates a standard prescribed for a model year under section 32902 of this title is liable to the Government for a civil penalty of $0.00 multiplied by each .1 of a mile a gallon by which the applicable average fuel economy standard under that section exceeds the average fuel economy—
+- **(b)** Except as provided in subsection (c) of this section, a manufacturer that violates a standard prescribed for a model year under section 32902 of this title is liable to the Government for a civil penalty of $5 multiplied by each .1 of a mile a gallon by which the applicable average fuel economy standard under that section exceeds the average fuel economy—
   - **(1)** calculated under section 32904(a)(1)(A) or (B) of this title for automobiles to which the standard applies manufactured by the manufacturer during the model year;
   - **(2)** multiplied by the number of those automobiles; and
   - **(3)** reduced by the credits available to the manufacturer under section 32903 of this title for the model year.
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T20:07:58.563Z"
     - **(A)** The Secretary of Transportation shall prescribe by regulation a higher amount for each .1 of a mile a gallon to be used in calculating a civil penalty under subsection (b) of this section, if the Secretary decides that the increase in the penalty—
       - **(i)** will result in, or substantially further, substantial energy conservation for automobiles in model years in which the increased penalty may be imposed; and
       - **(ii)** will not have a substantial deleterious impact on the economy of the United States, a State, or a region of a State.
-    - **(B)** The amount prescribed under subparagraph (A) of this paragraph may not be more than $0.00 for each .1 of a mile a gallon.
+    - **(B)** The amount prescribed under subparagraph (A) of this paragraph may not be more than $10 for each .1 of a mile a gallon.
     - **(C)** The Secretary may make a decision under subparagraph (A)(ii) of this paragraph only when the Secretary decides that it is likely that the increase in the penalty will not—
       - **(i)** cause a significant increase in unemployment in a State or a region of a State;
       - **(ii)** adversely affect competition; or

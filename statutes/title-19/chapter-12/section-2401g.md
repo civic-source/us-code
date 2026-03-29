@@ -3,12 +3,12 @@ title: "Section 2401g - Authorization of appropriations"
 usc_title: 19
 usc_section: "2401g"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "19 U.S.C. § 2401g"
-generated_at: "2026-03-29T20:04:27.380Z"
+generated_at: "2026-03-29T20:32:31.802Z"
 ---
 
 # § 2401g. Authorization of appropriations
 
-- **(a)** There are authorized to be appropriated and there are appropriated to the Department of Agriculture not to exceed $90,000,000 for each of the fiscal years 2003 through 2007 to carry out the purposes of this part, and there are authorized to be appropriated and there are appropriated to the Department of Agriculture to carry out this part $9,000,000 for the 3-month period beginning on October 1, 2007 . 1 1 See Application of Subsection (a) note below.
+- **(a)** There are authorized to be appropriated to the Department of Agriculture not to exceed $90,000,000 for each of the fiscal years 2015 through 2021, to carry out the purposes of this part, including administrative costs, and salaries and expenses of employees of the Department of Agriculture.
 - **(b)** If in any year the amount appropriated under this part is insufficient to meet the requirements for adjustment assistance payable under this part, the amount of assistance payable under this part shall be reduced proportionately.

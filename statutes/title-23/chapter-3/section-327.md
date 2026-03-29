@@ -3,9 +3,9 @@ title: "Section 327 - Surface transportation project delivery program"
 usc_title: 23
 usc_section: "327"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "23 U.S.C. § 327"
-generated_at: "2026-03-29T20:04:52.016Z"
+generated_at: "2026-03-29T20:32:49.837Z"
 ---
 
 # § 327. Surface transportation project delivery program
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T20:04:52.016Z"
     - **(D)** Any responsibility of the Secretary not explicitly assumed by the State by written agreement under this section shall remain the responsibility of the Secretary.
     - **(E)** Nothing in this section preempts or interferes with any power, jurisdiction, responsibility, or authority of an agency, other than the Department of Transportation, under applicable law (including regulations) with respect to a project.
     - **(F)** The Secretary may not require a State, as a condition of participation in the program, to forego project delivery methods that are otherwise permissible for projects.
-    - **(G)** A State assuming the responsibilities of the Secretary under this section for a specific project may use funds apportioned to the State under section 104(b)(2) for attorneys’ fees directly attributable to eligible activities associated with the project, including the payment of fees awarded under section 2412 of title 28 .
+    - **(G)** A State assuming the responsibilities of the Secretary under this section for a specific project may use funds apportioned to the State under section 104(b)(2) for attorneys’ fees directly attributable to eligible activities associated with the project.
 - **(b)**
   - **(1)** All States are eligible to participate in the program.
   - **(2)** Not later than 270 days after the date on which amendments to this section by the MAP-21 take effect, the Secretary shall amend, as appropriate, regulations that establish requirements relating to information required to be contained in any application of a State to participate in the program, including, at a minimum—
@@ -51,9 +51,8 @@ generated_at: "2026-03-29T20:04:52.016Z"
       - **(ii)** are comparable to section 552 of title 5 , including providing that any decision regarding the public availability of a document under those State laws is reviewable by a court of competent jurisdiction; and
     - **(D)** agrees to maintain the financial resources necessary to carry out the responsibilities being assumed;
   - **(4)** require the State to provide to the Secretary any information the Secretary reasonably considers necessary to ensure that the State is adequately carrying out the responsibilities assigned to the State;
-  - **(5)** except as provided under paragraph (7), have a term of not more than 5 years;
-  - **(6)** be renewable; and
-  - **(7)** for any State that has participated in a program under this section (or under a predecessor program) for at least 10 years, have a term of 10 years.
+  - **(5)** have a term of not more than 5 years; and
+  - **(6)** be renewable.
 - **(d)**
   - **(1)** The United States district courts shall have exclusive jurisdiction over any civil action against a State for failure to carry out any responsibility of the State under this section.
   - **(2)** A civil action under paragraph (1) shall be governed by the legal standards and requirements that would apply in such a civil action against the Secretary had the Secretary taken the actions in question.
@@ -63,9 +62,8 @@ generated_at: "2026-03-29T20:04:52.016Z"
 - **(g)**
   - **(1)** To ensure compliance by a State with any agreement of the State under subsection (c) (including compliance by the State with all Federal laws for which responsibility is assumed under subsection (a)(2)), for each State participating in the program under this section, the Secretary shall—
     - **(A)** not later than 180 days after the date of execution of the agreement, meet with the State to review implementation of the agreement and discuss plans for the first annual audit;
-    - **(B)** conduct annual audits during each of the first 4 years of State participation;
-    - **(C)** in the case of an agreement period of greater than 5 years pursuant to subsection (c)(7), conduct an audit covering the first 5 years of the agreement period; and
-    - **(D)** ensure that the time period for completing an audit, from initiation to completion (including public comment and responses to those comments), does not exceed 180 days.
+    - **(B)** conduct annual audits during each of the first 4 years of State participation; and
+    - **(C)** ensure that the time period for completing an annual audit, from initiation to completion (including public comment and responses to those comments), does not exceed 180 days.
   - **(2)**
     - **(A)** An audit conducted under paragraph (1) shall be provided to the public for comment.
     - **(B)** Not later than 60 days after the date on which the period for public comment ends, the Secretary shall respond to public comments received under subparagraph (A).
@@ -89,4 +87,3 @@ generated_at: "2026-03-29T20:04:52.016Z"
 - **(l)** A State granted authority under this section may, as appropriate and at the request of a local government—
   - **(1)** exercise such authority on behalf of the local government for a locally administered project; or
   - **(2)** provide guidance and training on consolidating and minimizing the documentation and environmental analyses necessary for sponsors of a locally administered project to comply with the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) and any comparable requirements under State law.
-- **(m)** A State agency that is assigned a responsibility under an agreement under this section shall be deemed to be an agency for the purposes of section 2412 of title 28 .

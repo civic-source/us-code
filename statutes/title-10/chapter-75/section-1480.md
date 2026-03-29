@@ -3,9 +3,9 @@ title: "Section 1480 - Death gratuity: miscellaneous provisions"
 usc_title: 10
 usc_section: "1480"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 1480"
-generated_at: "2026-03-29T20:03:09.601Z"
+generated_at: "2026-03-29T20:31:54.524Z"
 ---
 
 # § 1480. Death gratuity: miscellaneous provisions
@@ -20,6 +20,3 @@ generated_at: "2026-03-29T20:03:09.601Z"
   - **(5)** the manner in which the travel was performed; and
   - **(6)** the immediate cause of death.
 - **(d)** Payments under sections 1475–1477 of this title shall be made from appropriations available for the payment of members of the armed force concerned.
-- **(e)** In the case of a claim for a death gratuity under this chapter by an individual who is younger than 21 years of age on the date of the death with respect to which the claim is made, the individual shall file the claim with the Secretary of Defense not later than the later of—
-  - **(1)** the date that is three years after the individual reaches 21 years of age; or
-  - **(2)** the date that is six years after the date of the death with respect to which the claim is made.

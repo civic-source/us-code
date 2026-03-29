@@ -3,9 +3,9 @@ title: "Section 74 - Omitted"
 usc_title: 2
 usc_section: "74"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "2 U.S.C. § 74"
-generated_at: "2026-03-29T20:02:11.239Z"
+generated_at: "2026-03-29T20:31:22.449Z"
 ---
 
 # §§ 73, 74. Omitted

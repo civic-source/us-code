@@ -3,9 +3,9 @@ title: "Section 2279b - Department of Agriculture educational, training, and pro
 usc_title: 7
 usc_section: "2279b"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 2279b"
-generated_at: "2026-03-29T20:02:52.657Z"
+generated_at: "2026-03-29T20:31:42.107Z"
 ---
 
 # § 2279b. Department of Agriculture educational, training, and professional development activities
@@ -44,7 +44,7 @@ generated_at: "2026-03-29T20:02:52.657Z"
   - **(6)** The Director and the members of the Board shall not be held personally liable for any loss or damage that may accrue to the funds of the Graduate School as the result of any act or exercise of discretion performed in carrying out their duties under this section.
 - **(f)** Employees of the Graduate School are employees of a nonappropriated fund instrumentality and shall not be considered to be Federal employees.
 - **(g)** The Graduate School shall not be considered to be a Federal agency for purposes of—
-  - **(1)** chapter 10 of title 5;
+  - **(1)** the Federal Advisory Committee Act (5 U.S.C. App.);
   - **(2)** section 552 or 552a of title 5; or
   - **(3)** chapter 171 of title 28.
 - **(h)** In order to carry out the activities of the Graduate School, the Graduate School may—

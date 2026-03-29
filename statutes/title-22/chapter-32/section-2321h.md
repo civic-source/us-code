@@ -3,9 +3,9 @@ title: "Section 2321h - Stockpiling of defense articles for foreign countries"
 usc_title: 22
 usc_section: "2321h"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 2321h"
-generated_at: "2026-03-29T20:04:46.767Z"
+generated_at: "2026-03-29T20:32:59.960Z"
 ---
 
 # § 2321h. Stockpiling of defense articles for foreign countries
@@ -14,9 +14,9 @@ generated_at: "2026-03-29T20:04:46.767Z"
 - **(b)**
   - **(1)** The value of defense articles to be set aside, earmarked, reserved, or intended for use as war reserve stocks for allied or other foreign countries (other than for purposes of the North Atlantic Treaty Organization or in the implementation of agreements with Israel) in stockpiles located in foreign countries may not exceed in any fiscal year an amount that is specified in security assistance authorizing legislation for that fiscal year.
   - **(2)**
-    - **(A)** The value of such additions to stockpiles of defense articles in foreign countries shall not exceed $500,000,000 for any of the fiscal years 2023 through 2027.
+    - **(A)** The value of such additions to stockpiles of defense articles in foreign countries shall not exceed $200,000,000 for each of fiscal years 2021, 2022, 2023, 2024, and 2025.
     - **(B)** Of the amount specified in subparagraph (A) for a fiscal year, not more than $200,000,000 may be made available for stockpiles in the State of Israel.
 - **(c)**
   - **(1)** Except as provided in paragraph (2), no stockpile of defense articles may be located outside the boundaries of a United States military base or a military base used primarily by the United States.
-  - **(2)** Paragraph (1) shall not apply with respect to stockpiles of defense articles located in the Republic of Korea, Thailand, Taiwan, any country that is a member of the North Atlantic Treaty Organization, any country that is a major non-NATO ally, or any other country the President may designate. At least 15 days before designating a country pursuant to the last clause of the preceding sentence, the President shall notify the congressional committees specified in section 2394–1(a) of this title in accordance with the procedures applicable to reprogramming notifications under that section.
+  - **(2)** Paragraph (1) shall not apply with respect to stockpiles of defense articles located in the Republic of Korea, Thailand, any country that is a member of the North Atlantic Treaty Organization, any country that is a major non-NATO ally, or any other country the President may designate. At least 15 days before designating a country pursuant to the last clause of the preceding sentence, the President shall notify the congressional committees specified in section 2394–1(a) of this title in accordance with the procedures applicable to reprogramming notifications under that section.
 - **(d)** No defense article transferred from any stockpile which is made available to or for use by any foreign country may be considered an excess defense article for the purpose of determining the value thereof.

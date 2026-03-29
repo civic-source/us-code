@@ -3,9 +3,9 @@ title: "Section 483 - Notifications related to basing decision-making process"
 usc_title: 10
 usc_section: "483"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 483"
-generated_at: "2026-03-29T20:03:09.463Z"
+generated_at: "2026-03-29T20:31:54.415Z"
 ---
 
 # § 483. Notifications related to basing decision-making process
@@ -23,7 +23,6 @@ generated_at: "2026-03-29T20:03:09.463Z"
   - **(3)** A description of the manner in which community support for the basing decision-making process described in subsection (a) will be or was, whichever applies, comparatively analyzed among candidate military installations, including consultation with appropriate State officials and officials of units of local government in which each installation is located regarding matters affecting the local community, such as transportation, utility infrastructure, housing, education, and family support activities. In any case in which the Secretary concerned selects as the preferred location a military installation with less community support compared to other locations, as indicated by such a comparative analysis, an explanation of the operational considerations that formed the basis for such selection.
   - **(4)** An explanation of how each candidate location will be or was, whichever applies, scored against the factors referred to in the preceding paragraphs, including the weight assigned to each factor.
   - **(5)** A summary of any internal score cards that will be or were, whichever applies, used to make the basing decision.
-  - **(6)** With respect to any decision of the Secretary concerned that would result in a significant increase in the number of members of the Armed Forces assigned to a military installation, a description of the consultation with appropriate State and local entities regarding the basing decision to ensure consideration of matters affecting the local community, including requirements for transportation, utility infrastructure, housing, education, and family support activities.
 - **(d)** No irrevocable action may be taken to effect or implement a basing decision reached through the decision-making process described in subsection (a) until the end of the 14-day period beginning on the date on which the Secretary concerned submits, in an electronic medium pursuant to section 480 of this title , the notice referred to in subsection (b)(3) regarding a preferred location for the major headquarters, covered military unit, or major weapon system.
 - **(e)**
   - **(1)** Not later than 10 days after the date on which the budget request for a fiscal year is submitted to Congress under section 1105 of title 31 , the Secretary concerned shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report providing the following:
@@ -37,8 +36,8 @@ generated_at: "2026-03-29T20:03:09.463Z"
 - **(f)** In this section:
   - **(1)** The term “covered military unit” means a unit of the armed forces whose initial assignment to a military installation or relocation from a military installation to a different military installation requires the preparation of an environmental impact statement in accordance with the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).
   - **(2)** The term “major headquarters” means the headquarters of a military unit or command that is the appropriate command of a general officer or flag officer.
-  - **(3)** The term “major weapon system” means a weapon system that is treatable as a major system under section 3041(a) and (b) of this title.
-  - **(4)** The term “military installation” means a base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdiction of the Department of Defense, including any leased facility. Such term does not include any facility used primarily for civil works, rivers and harbors projects, or flood control projects.
+  - **(3)** The term “major weapon system” means a weapon system that is treatable as a major system under section 2302(5) of title. 1 1 So in original. Probably should be “this title”.
+  - **(4)** The term “military installation” means a base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdiction of the Department of Defense, including any leased facility, which is located within any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or Guam. Such term does not include any facility used primarily for civil works, rivers and harbors projects, or flood control projects.
   - **(5)** The term “Secretary concerned” means—
     - **(A)** the Secretary of the military department concerned; and
     - **(B)** the Secretary of Defense with respect to matters concerning the Defense Agencies and the Joint Staff.

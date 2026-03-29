@@ -3,9 +3,9 @@ title: "Section 3134 - Employee retention credit for employers subject to closur
 usc_title: 26
 usc_section: "3134"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 3134"
-generated_at: "2026-03-29T20:05:22.565Z"
+generated_at: "2026-03-29T20:33:27.186Z"
 ---
 
 # § 3134. Employee retention credit for employers subject to closure due to COVID–19
@@ -53,8 +53,9 @@ generated_at: "2026-03-29T20:05:22.565Z"
       - **(i)** Such term shall include amounts paid by the eligible employer to provide and maintain a group health plan (as defined in section 5000(b)(1)), but only to the extent that such amounts are excluded from the gross income of employees by reason of section 106(a).
       - **(ii)** For purposes of this section, amounts treated as wages under clause (i) shall be treated as paid with respect to any employee (and with respect to any period) to the extent that such amounts are properly allocable to such employee (and to such period) in such manner as the Secretary may prescribe. Except as otherwise provided by the Secretary, such allocation shall be treated as properly made if made on the basis of being pro rata among periods of coverage.
   - **(5)** The term “recovery startup business” means any employer—
-    - **(A)** which began carrying on any trade or business after February 15, 2020 , and
-    - **(B)** for which the average annual gross receipts of such employer (as determined under rules similar to the rules under section 448(c)(3)) for the 3-taxable-year period ending with the taxable year which precedes the calendar quarter for which the credit is determined under subsection (a) does not exceed $1,000,000.
+    - **(A)** which began carrying on any trade or business after February 15, 2020 ,
+    - **(B)** for which the average annual gross receipts of such employer (as determined under rules similar to the rules under section 448(c)(3)) for the 3-taxable-year period ending with the taxable year which precedes the calendar quarter for which the credit is determined under subsection (a) does not exceed $1,000,000, and
+    - **(C)** which, with respect to such calendar quarter, is not described in subclause (I) or (II) of paragraph (2)(A)(ii).
   - **(6)** Any term used in this section which is also used in this chapter or chapter 22 shall have the same meaning as when used in such chapter.
 - **(d)** All persons treated as a single employer under subsection (a) or (b) of section 52, or subsection (m) or ( o ) of section 414, shall be treated as one employer for purposes of this section.
 - **(e)** For purposes of this section, rules similar to the rules of sections 51(i)(1) and 280C(a) shall apply.
@@ -85,16 +86,11 @@ generated_at: "2026-03-29T20:05:22.565Z"
     - **(A)** The amount of credit which would (but for this subsection) be allowed under this section shall be reduced (but not below zero) by the aggregate payment allowed to the taxpayer under paragraph (2). Any failure to so reduce the credit shall be treated as arising out of a mathematical or clerical error and assessed according to section 6213(b)(1).
     - **(B)** If the advance payments to a taxpayer under paragraph (2) for a calendar quarter exceed the credit allowed by this section (determined without regard to subparagraph (A)), the tax imposed under section 3111(b) or so much of the tax imposed under section 3221(a) as is attributable to the rate in effect under section 3111(b) (whichever is applicable) for the calendar quarter shall be increased by the amount of such excess.
 - **(k)** The Secretary shall waive any penalty under section 6656 for any failure to make a deposit of any applicable employment taxes if the Secretary determines that such failure was due to the reasonable anticipation of the credit allowed under this section.
-- **(l)**
-  - **(1)** Notwithstanding section 6501, the limitation on the time period for the assessment of any amount attributable to a credit claimed under this section shall not expire before the date that is 6 years after the latest of—
-    - **(A)** the date on which the original return which includes the calendar quarter with respect to which such credit is determined is filed,
-    - **(B)** the date on which such return is treated as filed under section 6501(b)(2), or
-    - **(C)** the date on which the claim for credit or refund with respect to such credit is made.
-  - **(2)**
-    - **(A)** Notwithstanding section 6511, in the case of an assessment attributable to a credit claimed under this section, the limitation on the time period for credit or refund of any amount attributable to a deduction for improperly claimed ERTC wages shall not expire before the time period for such assessment expires under paragraph (1).
-    - **(B)** For purposes of this paragraph, the term “improperly claimed ERTC wages” means, with respect to an assessment attributable to a credit claimed under this section, the wages with respect to which a deduction would not have been allowed if the portion of the credit to which such assessment relates had been properly claimed.
+- **(l)** Notwithstanding section 6501, the limitation on the time period for the assessment of any amount attributable to a credit claimed under this section shall not expire before the date that is 5 years after the later of—
+  - **(1)** the date on which the original return which includes the calendar quarter with respect to which such credit is determined is filed, or
+  - **(2)** the date on which such return is treated as filed under section 6501(b)(2).
 - **(m)** The Secretary shall issue such forms, instructions, regulations, and other guidance as are necessary—
   - **(1)** to allow the advance payment of the credit under subsection (a) as provided in subsection (j)(2), subject to the limitations provided in this section, based on such information as the Secretary shall require,
   - **(2)** with respect to the application of the credit under subsection (a) to third party payors (including professional employer organizations, certified professional employer organizations, or agents under section 3504), including regulations or guidance allowing such payors to submit documentation necessary to substantiate the eligible employer status of employers that use such payors, and
   - **(3)** to prevent the avoidance of the purposes of the limitations under this section, including through the leaseback of employees.
-- **(n)** This section shall only apply to wages paid after June 30, 2021 , and before October 1, 2021 (or, in the case of wages paid by an eligible employer which is a recovery startup business, January 1, 2022 ).
+- **(n)** This section shall only apply to wages paid after June 30, 2021 , and before January 1, 2022 .

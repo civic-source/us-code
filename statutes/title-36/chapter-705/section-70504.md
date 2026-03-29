@@ -3,12 +3,18 @@ title: "Section 70504 - Governing body"
 usc_title: 36
 usc_section: "70504"
 chapter: 705
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "36 U.S.C. § 70504"
-generated_at: "2026-03-29T20:05:40.574Z"
+generated_at: "2026-03-29T20:33:50.629Z"
 ---
 
 # § 70504. Governing body
 
-- **(a)** The board of directors is the governing body of the corporation. The board may exercise, or provide for the exercise of, the powers of the corporation. The board of directors and the responsibilities of the board are as provided in the bylaws.
-- **(b)** The officers and the election of the officers are as provided for in the bylaws.
+- **(a)**
+  - **(1)** The board of directors is the governing body of the corporation. The board may exercise, or provide for the exercise of, the powers of the corporation.
+  - **(2)** The board shall consist of 12 individuals elected, and subject to removal at any time, by a majority vote of the members of the corporation. The term of office of an elected director is 6 years. A vacancy on the board shall be filled by a majority vote of the members of the corporation.
+  - **(3)** The board shall meet at least annually. Each director has one vote on each matter decided by the board. The board may delegate its powers to a prudential committee subject to the direction of, and reporting to, the board.
+  - **(4)** The president of the corporation is the chairman of the board and of the prudential committee.
+- **(b)**
+  - **(1)** The officers of the corporation are a president, a vice president, a secretary, a treasurer, a historian, and other officers provided for in the bylaws. The powers of the officers are as provided in the bylaws.
+  - **(2)** The officers shall be elected by the board of directors at its annual meeting. The term of office of an officer is 1 year.

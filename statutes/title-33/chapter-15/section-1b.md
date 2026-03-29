@@ -3,9 +3,9 @@ title: "Section 1b - Further modification; adoption"
 usc_title: 33
 usc_section: "1b"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "33 U.S.C. § 1b"
-generated_at: "2026-03-29T20:05:35.685Z"
+generated_at: "2026-03-29T20:33:34.193Z"
 ---
 
 # § 702a–1b. Further modification; adoption

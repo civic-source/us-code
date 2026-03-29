@@ -3,14 +3,14 @@ title: "Section 777c - Division of annual appropriations"
 usc_title: 16
 usc_section: "777c"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 777c"
-generated_at: "2026-03-29T20:04:20.212Z"
+generated_at: "2026-03-29T20:32:45.276Z"
 ---
 
 # § 777c. Division of annual appropriations
 
-- **(a)** For each fiscal year through fiscal year 2026, the balance of each annual appropriation made in accordance with the provisions of section 777b of this title remaining after the distributions for administrative expenses and other purposes under subsection (b) and for activities under section 777m(e) of this title shall be distributed as follows:
+- **(a)** For each fiscal year through fiscal year 2021, the balance of each annual appropriation made in accordance with the provisions of section 777b of this title remaining after the distributions for administrative expenses and other purposes under subsection (b) and for activities under section 777m(e) of this title shall be distributed as follows:
   - **(1)** An amount equal to 18.673 percent to the Secretary of the Interior for distribution as provided in the Coastal Wetlands Planning, Protection, 1 1 So in original. The comma probably should not appear. and Restoration Act ( 16 U.S.C. 3951 et seq.).
   - **(2)** An amount equal to 17.315 percent to the Secretary of the department in which the Coast Guard is operating for State recreational boating safety programs under section 13107 of title 46 .
   - **(3)**
@@ -19,21 +19,20 @@ generated_at: "2026-03-29T20:04:20.212Z"
   - **(4)** An amount equal to 2.0 percent to the Secretary of the Interior for the National Outreach and Communications Program under section 777g(d) of this title . Such amounts shall remain available for 3 fiscal years, after which any portion thereof that is unobligated by the Secretary for that program may be expended by the Secretary under subsection (c) of this section.
 - **(b)**
   - **(1)**
-    - **(A)** From the annual appropriation made in accordance with section 777b of this title , for each fiscal year through fiscal year 2026, the Secretary of the Interior may use no more than the amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in the implementation of this chapter, in accordance with this section and section 777h of this title . The amount specified in subparagraph (B) for a fiscal year may not be included in the amount of the annual appropriation distributed under subsection (a) for the fiscal year.
+    - **(A)** From the annual appropriation made in accordance with section 777b of this title , for each fiscal year through fiscal year 2021, the Secretary of the Interior may use no more than the amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in the implementation of this chapter, in accordance with this section and section 777h of this title . The amount specified in subparagraph (B) for a fiscal year may not be included in the amount of the annual appropriation distributed under subsection (a) for the fiscal year.
     - **(B)** The available amount referred to in subparagraph (A) is—
-      - **(i)** for the fiscal year that includes November 15, 2021 , the product obtained by multiplying—
-        - **(I)** $12,786,434; and
-        - **(II)** the change, relative to the preceding fiscal year, in the Consumer Price Index for All Urban Consumers published by the Department of Labor; and
-      - **(ii)** for each fiscal year thereafter, the sum obtained by adding—
-        - **(I)** the available amount specified in this subparagraph for the preceding fiscal year; and
-        - **(II)** the product obtained by multiplying—
+      - **(i)** for each of fiscal years 2001 and 2002, $9,000,000;
+      - **(ii)** for fiscal year 2003, $8,212,000; and
+      - **(iii)** for fiscal year 2004 and each fiscal year thereafter, the sum of—
+        - **(I)** the available amount for the preceding fiscal year; and
+        - **(II)** the amount determined by multiplying—
   - **(2)**
-    - **(A)** From the annual appropriation made in accordance with section 777b of this title , for each of fiscal years 2022 through 2026, the Secretary of the department in which the Coast Guard is operating may use no more than the amount specified in subparagraph (B) for the fiscal year for the purposes set forth in section 13107(c) of title 46 . The amount specified in subparagraph (B) for a fiscal year may not be included in the amount of the annual appropriation distributed under subsection (a) for the fiscal year.
+    - **(A)** From the annual appropriation made in accordance with section 777b of this title , for each of fiscal years 2016 through 2021, the Secretary of the department in which the Coast Guard is operating may use no more than the amount specified in subparagraph (B) for the fiscal year for the purposes set forth in section 13107(c) of title 46 . The amount specified in subparagraph (B) for a fiscal year may not be included in the amount of the annual appropriation distributed under subsection (a) for the fiscal year.
     - **(B)** The available amount referred to in subparagraph (A) is—
-      - **(i)** for fiscal year 2022, $12,786,434; and
-      - **(ii)** for fiscal year 2023 and each fiscal year thereafter, the sum obtained by adding—
-        - **(I)** the available amount specified in this subparagraph for the preceding fiscal year; and
-        - **(II)** the product obtained by multiplying—
+      - **(i)** for fiscal year 2016, $7,700,000; and
+      - **(ii)** for fiscal year 2017 and each fiscal year thereafter, the sum of—
+        - **(I)** the available amount for the preceding fiscal year; and
+        - **(II)** the amount determined by multiplying—
   - **(3)**
     - **(A)** For each fiscal year, the available amount under paragraph (1) shall remain available for obligation for use under that paragraph until the end of the subsequent fiscal year.
     - **(B)** Not later than 60 days after the end of a fiscal year, the Secretary of the Interior shall apportion among the States any of the available amount under paragraph (1) that remains unobligated at the end of the fiscal year, on the same basis and in the same manner as other amounts made available under this chapter are apportioned among the States under subsection (c) for the fiscal year.
@@ -43,5 +42,5 @@ generated_at: "2026-03-29T20:04:20.212Z"
 - **(d)** So much of any sum not allocated under the provisions of this section for any fiscal year is hereby authorized to be made available for expenditure to carry out the purposes of this chapter until the close of the succeeding fiscal year. The term fiscal year as used in this section shall be a period of twelve consecutive months from October 1 through the succeeding September 30, except that the period for enumeration of persons holding licenses to fish shall be a State’s fiscal or license year.
 - **(e)**
   - **(1)** For each fiscal year, of the amounts appropriated under section 777b of this title , the Secretary of the Interior shall use only funds authorized for use under paragraphs (1), (3), (4), and (5) of subsection (a) to pay the expenses for administration incurred in carrying out the provisions of law referred to in those paragraphs, respectively.
-  - **(2)** For each fiscal year, the Secretary of the Interior may use not more than $1,300,000 in accordance with paragraph (1).
+  - **(2)** For each fiscal year, the Secretary of the Interior may use not more than $900,000 in accordance with paragraph (1).
 - **(f)** Amounts available under paragraphs (3) and (4) of subsection (a) that are unobligated by the Secretary of the Interior after 3 fiscal years shall be transferred to the Secretary of the department in which the Coast Guard is operating and shall be expended for State recreational boating safety programs under section 13107(a) of title 46 .

@@ -3,14 +3,14 @@ title: "Section 4182 - Exemptions"
 usc_title: 26
 usc_section: "4182"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 4182"
-generated_at: "2026-03-29T20:05:22.586Z"
+generated_at: "2026-03-29T20:33:27.208Z"
 ---
 
 # § 4182. Exemptions
 
-- **(a)** The tax imposed by section 4181 shall not apply to any firearm on which the tax provided by section 5811 has been paid. For purposes of the preceding sentence, any firearm described in section 5811(a)(2) shall be deemed to be a firearm on which the tax provided by section 5811 has been paid.
+- **(a)** The tax imposed by section 4181 shall not apply to any firearm on which the tax provided by section 5811 has been paid.
 - **(b)** No firearms, pistols, revolvers, shells, and cartridges purchased with funds appropriated for the military department shall be subject to any tax imposed on the sale or transfer of such articles.
 - **(c)**
   - **(1)** The tax imposed by section 4181 shall not apply to any pistol, revolver, or firearm described in such section if manufactured, produced, or imported by a person who manufactures, produces, and imports less than an aggregate of 50 of such articles during the calendar year.

@@ -3,9 +3,9 @@ title: "Section 3111 - Rate of tax"
 usc_title: 26
 usc_section: "3111"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 3111"
-generated_at: "2026-03-29T20:05:22.558Z"
+generated_at: "2026-03-29T20:33:27.177Z"
 ---
 
 # § 3111. Rate of tax
@@ -26,9 +26,7 @@ generated_at: "2026-03-29T20:05:22.558Z"
     - **(A)** the term “qualified tax-exempt organization” means an employer that is an organization described in section 501(c) and exempt from taxation under section 501(a), and
     - **(B)** the term “qualified veteran” has the meaning given such term by section 51(d)(3).
 - **(f)**
-  - **(1)** In the case of a taxpayer who has made an election under section 41(h) for a taxable year—
-    - **(A)** there shall be allowed as a credit against the tax imposed by subsection (a) for the first calendar quarter which begins after the date on which the taxpayer files the return specified in section 41(h)(4)(A)(ii) an amount equal to so much of the payroll tax credit portion determined under section 41(h)(2) as does not exceed the limitation of subclause (I) of section 41(h)(4)(B)(i) (applied without regard to subclause (II) thereof), and
-    - **(B)** there shall be allowed as a credit against the tax imposed by subsection (b) for the first calendar quarter which begins after the date on which the taxpayer files the return specified in section 41(h)(4)(A)(ii) an amount equal to so much of the payroll tax credit portion determined under section 41(h)(2) as is not allowed as a credit under subparagraph (A).
-  - **(2)** The credit allowed by paragraph (1)(A) shall not exceed the tax imposed by subsection (a) for any calendar quarter, and the credit allowed by paragraph (1)(B) shall not exceed the tax imposed by subsection (b) for any calendar quarter, on the wages paid with respect to the employment of all individuals in the employ of the employer.
-  - **(3)** If the amount of any credit under paragraph (1) exceeds the limitation of paragraph (2) for any calendar quarter, such excess shall be carried to the succeeding calendar quarter and allowed as a credit under paragraph (1) for such quarter.
-  - **(4)** The credits allowed under paragraph (1) shall not be taken into account for purposes of determining the amount of any deduction allowed under chapter 1 for taxes imposed under subsection (a) or (b).
+  - **(1)** In the case of a taxpayer who has made an election under section 41(h) for a taxable year, there shall be allowed as a credit against the tax imposed by subsection (a) for the first calendar quarter which begins after the date on which the taxpayer files the return specified in section 41(h)(4)(A)(ii) an amount equal to the payroll tax credit portion determined under section 41(h)(2).
+  - **(2)** The credit allowed by paragraph (1) shall not exceed the tax imposed by subsection (a) for any calendar quarter on the wages paid with respect to the employment of all individuals in the employ of the employer.
+  - **(3)** If the amount of the credit under paragraph (1) exceeds the limitation of paragraph (2) for any calendar quarter, such excess shall be carried to the succeeding calendar quarter and allowed as a credit under paragraph (1) for such quarter.
+  - **(4)** The credit allowed under paragraph (1) shall not be taken into account for purposes of determining the amount of any deduction allowed under chapter 1 for taxes imposed under subsection (a).

@@ -3,14 +3,14 @@ title: "Section 8685 - Preservation of Navy shipbuilding capability"
 usc_title: 10
 usc_section: "8685"
 chapter: 863
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 8685"
-generated_at: "2026-03-29T20:03:09.876Z"
+generated_at: "2026-03-29T20:31:54.741Z"
 ---
 
 # § 8685. Preservation of Navy shipbuilding capability
 
-- **(a)** The Secretary of the Navy may enter into an agreement, to be known as a “shipbuilding capability preservation agreement”, with a shipbuilder under which the cost reimbursement rules described in subsection (b) shall be applied to the shipbuilder under a Navy contract for the construction of a ship. Such an agreement may be entered into in any case in which the Secretary determines that the application of such cost reimbursement rules would facilitate the achievement of the policy objectives set forth in section 4811(b) of this title .
+- **(a)** The Secretary of the Navy may enter into an agreement, to be known as a “shipbuilding capability preservation agreement”, with a shipbuilder under which the cost reimbursement rules described in subsection (b) shall be applied to the shipbuilder under a Navy contract for the construction of a ship. Such an agreement may be entered into in any case in which the Secretary determines that the application of such cost reimbursement rules would facilitate the achievement of the policy objectives set forth in section 2501(b) of this title .
 - **(b)** The cost reimbursement rules applicable under an agreement entered into under subsection (a) are as follows:
   - **(1)** The Secretary of the Navy shall, in determining the reimbursement due a shipbuilder for its indirect costs of performing a contract for the construction of a ship for the Navy, allow the shipbuilder to allocate indirect costs to its private sector work only to the extent of the shipbuilder’s allocable indirect private sector costs, subject to paragraph (3).
   - **(2)** For purposes of paragraph (1), the allocable indirect private sector costs of a shipbuilder are those costs of the shipbuilder that are equal to the sum of the following:
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T20:03:09.876Z"
       - **(i)** the direct costs attributable to such private sector work; and
       - **(ii)** the incremental indirect costs attributable to such private sector work.
   - **(3)** The total amount of allocable indirect private sector costs for a contract covered by the agreement may not exceed the amount of indirect costs that a shipbuilder would have allocated to its private sector work during the period covered by the agreement in accordance with the shipbuilder’s established accounting practices.
-- **(c)** The cost reimbursement rules set forth in subsection (b) may be modified by the Secretary of the Navy for a particular agreement if the Secretary determines that modifications are appropriate to the particular situation to facilitate achievement of the policy set forth in section 4811(b) of this title .
+- **(c)** The cost reimbursement rules set forth in subsection (b) may be modified by the Secretary of the Navy for a particular agreement if the Secretary determines that modifications are appropriate to the particular situation to facilitate achievement of the policy set forth in section 2501(b) of this title .
 - **(d)**
   - **(1)** An agreement entered into with a shipbuilder under subsection (a) shall apply to each of the following Navy contracts with the shipbuilder:
     - **(A)** A contract that is in effect on the date on which the agreement is entered into.

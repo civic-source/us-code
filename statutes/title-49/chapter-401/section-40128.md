@@ -3,9 +3,9 @@ title: "Section 40128 - Overflights of national parks"
 usc_title: 49
 usc_section: "40128"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 40128"
-generated_at: "2026-03-29T20:07:58.574Z"
+generated_at: "2026-03-29T20:35:10.893Z"
 ---
 
 # § 40128. Overflights of national parks
@@ -56,9 +56,8 @@ generated_at: "2026-03-29T20:07:58.574Z"
   - **(4)** In establishing an air tour management plan for a national park or tribal lands, the Administrator and the Director shall—
     - **(A)** hold at least one public meeting with interested parties to develop the air tour management plan;
     - **(B)** publish the proposed plan in the Federal Register for notice and comment and make copies of the proposed plan available to the public;
-    - **(C)** comply with the regulations set forth in sections 1501.3 and 1501.5 through 1501.8 of title 40, Code of Federal Regulations (for purposes of complying with the regulations, the Federal Aviation Administration shall be the lead agency and the National Park Service is a cooperating agency);
-    - **(D)** solicit the participation of any Indian tribe whose tribal lands are, or may be, overflown by aircraft involved in a commercial air tour operation over the park or tribal lands to which the plan applies, as a cooperating agency under the regulations referred to in subparagraph (C); and
-    - **(E)** consult with the advisory group established under section 805 of the National Parks Air Tour Management Act of 2000 ( 49 U.S.C. 40128 note) and consider all advice, information, and recommendations provided by the advisory group to the Administrator and the Director.
+    - **(C)** comply with the regulations set forth in sections 1501.3 and 1501.5 through 1501.8 of title 40, Code of Federal Regulations (for purposes of complying with the regulations, the Federal Aviation Administration shall be the lead agency and the National Park Service is a cooperating agency); and
+    - **(D)** solicit the participation of any Indian tribe whose tribal lands are, or may be, overflown by aircraft involved in a commercial air tour operation over the park or tribal lands to which the plan applies, as a cooperating agency under the regulations referred to in subparagraph (C).
   - **(5)** An air tour management plan developed under this subsection shall be subject to judicial review.
   - **(6)** The Administrator, in cooperation with the Director, may make amendments to an air tour management plan. Any such amendments shall be published in the Federal Register for notice and comment. A request for amendment of an air tour management plan shall be made in such form and manner as the Administrator may prescribe.
   - **(7)**

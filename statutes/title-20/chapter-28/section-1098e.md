@@ -3,27 +3,23 @@ title: "Section 1098e - Income-based repayment"
 usc_title: 20
 usc_section: "1098e"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "20 U.S.C. § 1098e"
-generated_at: "2026-03-29T20:04:32.903Z"
+generated_at: "2026-03-29T20:32:28.841Z"
 ---
 
 # § 1098e. Income-based repayment
 
 - **(a)** In this section:
   - **(1)** The term “excepted PLUS loan” means a loan under section 1078–2 of this title , or a Federal Direct PLUS Loan, that is made, insured, or guaranteed on behalf of a dependent student.
-  - **(2)**
-    - **(A)** The term “excepted consolidation loan” means—
-      - **(i)** a consolidation loan under section 1078–3 of this title , or a Federal Direct Consolidation Loan, if the proceeds of such loan were used to discharge the liability on an excepted PLUS loan; or
-      - **(ii)** a consolidation loan under section 1078–3 of this title , or a Federal Direct Consolidation Loan, if the proceeds of such loan were used to discharge the liability on a consolidation loan under section 1078–3 of this title , or a Federal Direct Consolidation Loan described in clause (i).
-    - **(B)** The term “excepted consolidation loan” does not include a Federal Direct Consolidation Loan described in subparagraph (A) that, on any date during the period beginning on July 4, 2025 , and ending on June 30, 2028 , was being repaid—
-      - **(i)** pursuant to the Income Contingent Repayment (ICR) plan in accordance with section 685.209(b) of title 34, Code of Federal Regulations (as in effect on June 30, 2023 ); or
-      - **(ii)** pursuant to another income driven repayment plan.
-  - **(3)** The term “applicable amount” means 15 percent of the result obtained by calculating, on at least an annual basis, the amount by which—
-    - **(A)** the borrower’s, and the borrower’s spouse’s (if applicable), adjusted gross income; exceeds
-    - **(B)** 150 percent of the poverty line applicable to the borrower’s family size as determined under section 9902(2) of title 42 .
+  - **(2)** The term “excepted consolidation loan” means a consolidation loan under section 1078–3 of this title , or a Federal Direct Consolidation Loan, if the proceeds of such loan were used to the discharge the liability on an excepted PLUS loan.
+  - **(3)** The term “partial financial hardship”, when used with respect to a borrower, means that for such borrower—
+    - **(A)** the annual amount due on the total amount of loans made, insured, or guaranteed under part B or D (other than an excepted PLUS loan or excepted consolidation loan) to a borrower as calculated under the standard repayment plan under section 1078(b)(9)(A)(i) or 1087e(d)(1)(A) of this title, based on a 10-year repayment period; exceeds
+    - **(B)** 15 percent of the result obtained by calculating, on at least an annual basis, the amount by which—
+      - **(i)** the borrower’s, and the borrower’s spouse’s (if applicable), adjusted gross income; exceeds
+      - **(ii)** 150 percent of the poverty line applicable to the borrower’s family size as determined under section 9902(2) of title 42 .
 - **(b)** Notwithstanding any other provision of this chapter, the Secretary shall carry out a program under which—
-  - **(1)** a borrower of any loan made, insured, or guaranteed under part B or D (other than an excepted PLUS loan or excepted consolidation loan), may elect to have the borrower’s aggregate monthly payment for all such loans not exceed the applicable amount divided by 12;
+  - **(1)** a borrower of any loan made, insured, or guaranteed under part B or D (other than an excepted PLUS loan or excepted consolidation loan) who has a partial financial hardship (whether or not the borrower’s loan has been submitted to a guaranty agency for default aversion or had been in default) may elect, during any period the borrower has the partial financial hardship, to have the borrower’s aggregate monthly payment for all such loans not exceed the result described in subsection (a)(3)(B) divided by 12;
   - **(2)** the holder of such a loan shall apply the borrower’s monthly payment under this subsection first toward interest due on the loan, next toward any fees due on the loan, and then toward the principal of the loan;
   - **(3)** any interest due and not paid under paragraph (2)—
     - **(A)** shall, on subsidized loans, be paid by the Secretary for a period of not more than 3 years after the date of the borrower’s election under paragraph (1), except that such period shall not include any period during which the borrower is in deferment due to an economic hardship described in section 1085( o ) of this title; and
@@ -36,8 +32,8 @@ generated_at: "2026-03-29T20:04:32.903Z"
         - **(II)** begins making payments of not less than the amount specified in paragraph (6)(A);
   - **(4)** any principal due and not paid under paragraph (2) shall be deferred;
   - **(5)** the amount of time the borrower makes monthly payments under paragraph (1) may exceed 10 years;
-  - **(6)** if the monthly payment amount calculated under this section for all loans made to the borrower under part B or D (other than an excepted PLUS loan or excepted consolidation loan) exceeds the monthly amount calculated under section 1078(b)(9)(A)(i) of this title or 1087e(d)(1)(A) of this title, based on a 10-year repayment period, when the borrower first made the election described in this subsection (referred to in this paragraph as the “standard monthly repayment amount”), or if the borrower no longer wishes to continue the election under this subsection, then—
-    - **(A)** the maximum monthly payment required to be paid for all loans made to the borrower under part B or D (other than an excepted PLUS loan or excepted consolidation loan) shall be the standard monthly repayment amount; and
+  - **(6)** if the borrower no longer has a partial financial hardship or no longer wishes to continue the election under this subsection, then—
+    - **(A)** the maximum monthly payment required to be paid for all loans made to the borrower under part B or D (other than an excepted PLUS loan or excepted consolidation loan) shall not exceed the monthly amount calculated under section 1078(b)(9)(A)(i) or 1087e(d)(1)(A) of this title, based on a 10-year repayment period, when the borrower first made the election described in this subsection; and
     - **(B)** the amount of time the borrower is permitted to repay such loans may exceed 10 years;
   - **(7)** the Secretary shall repay or cancel any outstanding balance of principal and interest due on all loans made under part B or D (other than a loan under section 1078–2 of this title or a Federal Direct PLUS Loan) to a borrower who—
     - **(A)** at any time, elected to participate in income-based repayment under paragraph (1); and
@@ -45,21 +41,16 @@ generated_at: "2026-03-29T20:04:32.903Z"
       - **(i)** has made reduced monthly payments under paragraph (1) or paragraph (6);
       - **(ii)** has made monthly payments of not less than the monthly amount calculated under section 1078(b)(9)(A)(i) or 1087e(d)(1)(A) of this title, based on a 10-year repayment period, when the borrower first made the election described in this subsection;
       - **(iii)** has made payments of not less than the payments required under a standard repayment plan under section 1078(b)(9)(A)(i) or 1087e(d)(1)(A) of this title with a repayment period of 10 years;
-      - **(iv)** has made payments under an income-contingent repayment plan under section 1087e(d)(1)(D) of this title (as such section was in effect on the day before the date of the repeal of section 1087e(e) of this title ; or
+      - **(iv)** has made payments under an income-contingent repayment plan under section 1087e(d)(1)(D) of this title ; or
       - **(v)** has been in deferment due to an economic hardship described in section 1085( o ) of this title;
-  - **(8)** a borrower who is repaying a loan made under part B or D pursuant to income-based repayment may elect, at any time, to terminate repayment pursuant to income-based repayment and repay such loan under the standard repayment plan or the Repayment Assistance Program under section 1087e(q) of this title ; and
+  - **(8)** a borrower who is repaying a loan made under part B or D pursuant to income-based repayment may elect, at any time, to terminate repayment pursuant to income-based repayment and repay such loan under the standard repayment plan; and
   - **(9)** the special allowance payment to a lender calculated under section 1087–1(b)(2)(I) of this title , when calculated for a loan in repayment under this section, shall be calculated on the principal balance of the loan and on any accrued interest unpaid by the borrower in accordance with this section.
 - **(c)**
-  - **(1)** The Secretary shall establish procedures for annually determining, in accordance with paragraph (2), the borrower’s eligibility for income-based repayment, including the verification of a borrower’s annual income and the annual amount due on the total amount of loans made, insured, or guaranteed under part B or D (other than an excepted PLUS loan or excepted consolidation loan), and such other procedures as are necessary to effectively implement income-based repayment under this section. The Secretary shall consider, but is not limited to, the procedures established in accordance with section 1087e(e)(1) of this title (as in effect on the day before the date of repeal of subsection (e) of section 1087e of this title ) or in connection with income sensitive repayment schedules under section 1078(b)(9)(A)(iii) of this title or 1078–3(b)(1)(E) of this title.
-  - **(2)**
-    - **(A)** The Secretary shall establish and implement, with respect to any borrower enrolled in an income-based repayment program under this section or under section 1087e(q) of this title , procedures to—
-      - **(i)** use return information disclosed under section 6103( l )(13) of title 26, pursuant to approval provided under section 1098h of this title , to determine the repayment obligation of the borrower without further action by the borrower;
-      - **(ii)** allow the borrower (or the spouse of the borrower), at any time, to opt out of disclosure under such section 6103( l )(13) and instead provide such information as the Secretary may require to determine the repayment obligation of the borrower (or withdraw from the repayment plan under this section or under section 1087e(q) of this title , as the case may be); and
-      - **(iii)** provide the borrower with an opportunity to update the return information so disclosed before the determination of the repayment obligation of the borrower.
-    - **(B)** Subparagraph (A) shall apply to each borrower of a loan eligible to be repaid under this section or under section 1087e(q) of this title , who, on or after the date on which the Secretary establishes procedures under such subparagraph (A)—
-      - **(i)** selects, or is required to repay such loan pursuant to, an income-based repayment plan under this section or under section 1087e(q) of this title ; or
-      - **(ii)** recertifies income or family size under such plan.
+  - **(1)** The Secretary shall establish procedures for annually determining the borrower’s eligibility for income-based repayment, including verification of a borrower’s annual income and the annual amount due on the total amount of loans made, insured, or guaranteed under part B or D (other than an excepted PLUS loan or excepted consolidation loan), and such other procedures as are necessary to effectively implement income-based repayment under this section.
+  - **(2)** The Secretary shall—
+    - **(A)** consider, but is not limited to, the procedures established in accordance with section 1087e(e)(1) of this title or in connection with income sensitive repayment schedules under section 1078(b)(9)(A)(iii) or 1078–3(b)(1)(E) of this title; and
+    - **(B)** carry out, with respect to borrowers of any loan made under part D (other than an excepted PLUS loan or excepted consolidation loan), procedures for income-based repayment plans that are equivalent to the procedures carried out under section 1087e(e)(8) of this title with respect to income-contingent repayment plans.
 - **(d)** In the case of a married borrower who files a separate Federal income tax return, the Secretary shall calculate the amount of the borrower’s income-based repayment under this section solely on the basis of the borrower’s student loan debt and adjusted gross income.
-- **(e)** With respect to any loan made to a new borrower on or after July 1, 2014 and before July 1, 2026 —
+- **(e)** With respect to any loan made to a new borrower on or after July 1, 2014 —
   - **(1)** subsection (a)(3)(B) shall be applied by substituting “10 percent” for “15 percent”; and
   - **(2)** subsection (b)(7)(B) shall be applied by substituting “20 years” for “25 years”.

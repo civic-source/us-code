@@ -3,9 +3,9 @@ title: "Section 2101 - Definitions"
 usc_title: 41
 usc_section: "2101"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "41 U.S.C. § 2101"
-generated_at: "2026-03-29T20:05:58.270Z"
+generated_at: "2026-03-29T20:34:07.734Z"
 ---
 
 # § 2101. Definitions
@@ -14,7 +14,7 @@ In this chapter:
 
   - **(1)** The term “contracting officer” means an individual who, by appointment in accordance with applicable regulations, has the authority to enter into a Federal agency procurement contract on behalf of the Government and to make determinations and findings with respect to the contract.
   - **(2)** The term “contractor bid or proposal information” means any of the following information submitted to a Federal agency as part of, or in connection with, a bid or proposal to enter into a Federal agency procurement contract, if that information previously has not been made available to the public or disclosed publicly:
-    - **(A)** Cost or pricing data (as defined in section 3701 of title 10 with respect to procurements subject to that section and section 3501(a) of this title with respect to procurements subject to that section).
+    - **(A)** Cost or pricing data (as defined in section 2306a(h) of title 10 with respect to procurements subject to that section and section 3501(a) of this title with respect to procurements subject to that section).
     - **(B)** Indirect costs and direct labor rates.
     - **(C)** Proprietary information about manufacturing processes, operations, or techniques marked by the contractor in accordance with applicable law or regulation.
     - **(D)** Information marked by the contractor as “contractor bid or proposal information”, in accordance with applicable law or regulation.

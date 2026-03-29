@@ -3,9 +3,9 @@ title: "Section 1601 - Determination of communications equipment or services pos
 usc_title: 47
 usc_section: "1601"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "47 U.S.C. § 1601"
-generated_at: "2026-03-29T20:08:02.551Z"
+generated_at: "2026-03-29T20:35:00.403Z"
 ---
 
 # § 1601. Determination of communications equipment or services posing national security risks

@@ -3,9 +3,9 @@ title: "Section 4611 - Imposition of tax"
 usc_title: 26
 usc_section: "4611"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 4611"
-generated_at: "2026-03-29T20:05:22.596Z"
+generated_at: "2026-03-29T20:33:27.216Z"
 ---
 
 # § 4611. Imposition of tax
@@ -23,20 +23,22 @@ generated_at: "2026-03-29T20:05:22.596Z"
     - **(A)** the Hazardous Substance Superfund financing rate, and
     - **(B)** the Oil Spill Liability Trust Fund financing rate.
   - **(2)** For purposes of paragraph (1)—
-    - **(A)** the Hazardous Substance Superfund financing rate is 16.4 cents a barrel, and
+    - **(A)** the Hazardous Substance Superfund financing rate is 9.7 cents a barrel, and
     - **(B)** the Oil Spill Liability Trust Fund financing rate is—
       - **(i)** in the case of crude oil received or petroleum products entered before January 1, 2017 , 8 cents a barrel, and
       - **(ii)** in the case of crude oil received or petroleum products entered after December 31, 2016 , 9 cents a barrel.
-  - **(3)**
-    - **(A)** In the case of a year beginning after 2023, the amount in paragraph (2)(A) shall be increased by an amount equal to—
-      - **(i)** such amount, multiplied by
-      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2022” for “calendar year 2016” in subparagraph (A)(ii) thereof.
-    - **(B)** If any amount as adjusted under subparagraph (A) is not a multiple of $0.01, such amount shall be rounded to the next lowest multiple of $0.01.
 - **(d)**
   - **(1)** The tax imposed by subsection (a)(1) shall be paid by the operator of the United States refinery.
   - **(2)** The tax imposed by subsection (a)(2) shall be paid by the person entering the product for consumption, use, or warehousing.
   - **(3)** The tax imposed by subsection (b) shall be paid by the person using or exporting the crude oil, as the case may be.
-- **[(e)**
+- **(e)**
+  - **(1)** Except as provided in paragraphs (2) and (3), the Hazardous Substance Superfund financing rate under this section shall apply after December 31, 1986 , and before January 1, 1996 .
+  - **(2)** If on December 31, 1993 , or December 31, 1994 —
+    - **(A)** the unobligated balance in the Hazardous Substance Superfund exceeds $3,500,000,000, and
+    - **(B)** the Secretary, after consultation with the Administrator of the Environmental Protection Agency, determines that the unobligated balance in the Hazardous Substance Superfund will exceed $3,500,000,000 on December 31 of 1994 or 1995, respectively, if no tax is imposed under this section and sections 4661 and 4671,
+  - **(3)**
+    - **(A)** The Secretary as of the close of each calendar quarter (and at such other times as the Secretary determines appropriate) shall make an estimate of the amount of taxes which will be collected under this section (to the extent attributable to the Hazardous Substance Superfund financing rate) and sections 4661 and 4671 and credited to the Hazardous Substance Superfund during the period beginning January 1, 1987 , and ending December 31, 1995 .
+    - **(B)** If the Secretary estimates under subparagraph (A) that more than $11,970,000,000 will be credited to the Fund before January 1, 1996 , the Hazardous Substance Superfund financing rate under this section shall not apply after the date on which (as estimated by the Secretary) $11,970,000,000 will be so credited to the Fund.
 - **(f)**
   - **(1)** Except as provided in paragraph (2), the Oil Spill Liability Trust Fund financing rate under subsection (c) shall apply on and after April 1, 2006 , or if later, the date which is 30 days after the last day of any calendar quarter for which the Secretary estimates that, as of the close of that quarter, the unobligated balance in the Oil Spill Liability Trust Fund is less than $2,000,000,000.
   - **(2)** The Oil Spill Liability Trust Fund financing rate shall not apply after December 31, 2025 .

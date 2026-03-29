@@ -3,9 +3,9 @@ title: "Section 2615 - Finding and issuance of plan"
 usc_title: 7
 usc_section: "2615"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 2615"
-generated_at: "2026-03-29T20:02:52.664Z"
+generated_at: "2026-03-29T20:31:42.113Z"
 ---
 
 # § 2615. Finding and issuance of plan

@@ -3,9 +3,9 @@ title: "Section 26b - Portion of Calumet River, Chicago, as nonnavigable stream"
 usc_title: 33
 usc_section: "26b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "33 U.S.C. § 26b"
-generated_at: "2026-03-29T20:05:35.632Z"
+generated_at: "2026-03-29T20:33:34.150Z"
 ---
 
 # § 26b. Portion of Calumet River, Chicago, as nonnavigable stream

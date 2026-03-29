@@ -3,9 +3,9 @@ title: "Section 360c - Classification of devices intended for human use"
 usc_title: 21
 usc_section: "360c"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "21 U.S.C. § 360c"
-generated_at: "2026-03-29T20:04:50.452Z"
+generated_at: "2026-03-29T20:32:52.511Z"
 ---
 
 # § 360c. Classification of devices intended for human use
@@ -70,7 +70,7 @@ generated_at: "2026-03-29T20:04:50.452Z"
         - **(I)** pose questions to a designated representative described in subparagraph (A)(iii); and
         - **(II)** consider the responses to such questions in the panel’s review of the device.
   - **(7)** After receiving from a classification panel the conclusions and recommendations of the panel on a matter that the panel has reviewed, the Secretary shall review the conclusions and recommendations, shall make a final decision on the matter in accordance with section 360e(d)(2) of this title , and shall notify the affected persons of the decision in writing and, if the decision differs from the conclusions and recommendations of the panel, shall include the reasons for the difference.
-  - **(8)** A classification panel under this subsection shall not be subject to the annual chartering and annual report requirements of the 1 1 So in original. The word “the” probably should not appear. chapter 10 of title 5.
+  - **(8)** A classification panel under this subsection shall not be subject to the annual chartering and annual report requirements of the Federal Advisory Committee Act.
 - **(c)**
   - **(1)** The Secretary shall organize the panels according to the various fields of clinical medicine and fundamental sciences in which devices intended for human use are used. The Secretary shall refer a device to be classified under this section to an appropriate panel established or authorized to be used under subsection (b) for its review and for its recommendation respecting the classification of the device. The Secretary shall by regulation prescribe the procedure to be followed by the panels in making their reviews and recommendations. In making their reviews of devices, the panels, to the maximum extent practicable, shall provide an opportunity for interested persons to submit data and views on the classification of the devices.
   - **(2)**
@@ -178,10 +178,10 @@ generated_at: "2026-03-29T20:04:50.452Z"
     - **(A)** As part of a submission under section 360(k) of this title respecting a device, the person required to file a premarket notification under such section shall provide an adequate summary of any information respecting safety and effectiveness or state that such information will be made available upon request by any person.
     - **(B)** Any summary under subparagraph (A) respecting a device shall contain detailed information regarding data concerning adverse health effects and shall be made available to the public by the Secretary within 30 days of the issuance of a determination that such device is substantially equivalent to another device.
 - **(j)**
-  - **(1)** The Secretary shall—
+  - **(1)**
     - **(A)** ensure that each employee of the Food and Drug Administration who is involved in the review of premarket submissions, including supervisors, receives training regarding the meaning and implementation of the least burdensome requirements under subsections (a)(3)(D) and (i)(1)(D) of this section and section 360e(c)(5) of this title ; and
     - **(B)** periodically assess the implementation of the least burdensome requirements, including the employee training under subparagraph (A), to ensure that the least burdensome requirements are fully and consistently applied.
-  - **(2)** Not later than 18 months after December 13, 2016 , the ombudsman for any organizational unit of the Food and Drug Administration responsible for the premarket review of devices shall—
+  - **(2)**
     - **(A)** conduct an audit of the training described in paragraph (1)(A), including the effectiveness of such training in implementing the least burdensome requirements;
     - **(B)** include in such audit interviews of persons who are representatives of the device industry regarding their experiences in the device premarket review process, including with respect to the application of least burdensome concepts to premarket review and decisionmaking;
     - **(C)** include in such audit a list of the measurement tools the Secretary uses to assess the implementation of the least burdensome requirements, including under paragraph (1)(B) and section 360g–1(a)(3) of this title , and may also provide feedback on the effectiveness of such tools in the implementation of the least burdensome requirements;
@@ -189,6 +189,3 @@ generated_at: "2026-03-29T20:04:50.452Z"
     - **(E)** within 30 calendar days of completion of such final audit report, make such final audit report available—
       - **(i)** to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives; and
       - **(ii)** on the Internet website of the Food and Drug Administration.
-- **(k)** For a device authorized for emergency use under section 360bbb–3 of this title for which, in accordance with section 360bbb–3(m) of this title , the Secretary has deemed a laboratory examination or procedure associated with such device to be in the category of examinations and procedures described in section 263a(d)(3) of title 42 , the sponsor of such device may, when submitting a request for classification under subsection (f)(2), submit a single submission containing—
-  - **(1)** the information needed for such a request; and
-  - **(2)** sufficient information to enable the Secretary to determine whether such laboratory examination or procedure satisfies the criteria to be categorized under section 263a(d)(3) of title 42 .

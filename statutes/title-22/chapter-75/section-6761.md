@@ -3,9 +3,9 @@ title: "Section 6761 - Penalties"
 usc_title: 22
 usc_section: "6761"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 6761"
-generated_at: "2026-03-29T20:04:46.950Z"
+generated_at: "2026-03-29T20:33:00.129Z"
 ---
 
 # § 6761. Penalties

@@ -3,9 +3,9 @@ title: "Section 44703 - Airman certificates"
 usc_title: 49
 usc_section: "44703"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 44703"
-generated_at: "2026-03-29T20:07:58.599Z"
+generated_at: "2026-03-29T20:35:10.918Z"
 ---
 
 # § 44703. Airman certificates
@@ -187,10 +187,3 @@ generated_at: "2026-03-29T20:07:58.599Z"
     - **(A)** An air carrier may refuse to hire an individual as a pilot if the individual did not provide written consent for the air carrier to receive records under subsection (h)(2)(A) or (i)(3)(A) or did not execute the release from liability requested under subsection (h)(2)(B) or (i)(3)(B).
     - **(B)** No action or proceeding may be brought against an air carrier by or on behalf of an individual who has applied for or is seeking a position as a pilot with the air carrier if the air carrier refused to hire the individual after the individual did not provide written consent for the air carrier to receive records under subsection (h)(2)(A) or (i)(3)(A) or did not execute a release from liability requested under subsection (h)(2)(B) or (i)(3)(B).
 - **(k)** Nothing in subsection (h) or (i) shall be construed as precluding the availability of the records of a pilot in an investigation or other proceeding concerning an accident or incident conducted by the Administrator, the National Transportation Safety Board, or a court.
-- **(l)** An individual may obtain a temporary airman certificate from the Administrator after requesting a permanent replacement airman certificate issued under this section. A temporary airman certificate shall be—
-  - **(1)** made available—
-    - **(A)** electronically to the individual immediately upon submitting an online application for a replacement certificate to the Administrator; or
-    - **(B)** physically to the individual at a flight standards district office—
-      - **(i)** if the individual submits an online application for a replacement certificate; or
-      - **(ii)** if the individual applies for a permanent replacement certificate other than by online application and such application has been received by the Federal Aviation Administration; and
-  - **(2)** destroyed upon receipt of the permanent replacement airman certificate from the Administrator.

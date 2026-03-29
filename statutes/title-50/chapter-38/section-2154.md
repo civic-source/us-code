@@ -3,9 +3,9 @@ title: "Section 2154 - Special rules for former spouses"
 usc_title: 50
 usc_section: "2154"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "50 U.S.C. § 2154"
-generated_at: "2026-03-29T20:08:11.172Z"
+generated_at: "2026-03-29T20:35:05.171Z"
 ---
 
 # § 2154. Special rules for former spouses
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T20:08:11.172Z"
   - **(1)**
     - **(A)** Unless otherwise expressly provided by a spousal agreement or court order governing disposition of benefits payable under subchapter II or V of chapter 84 of title 5, a qualified former spouse of an employee is entitled to a share (determined under subparagraph (B)) of all benefits otherwise payable to such employee under subchapter II or V of chapter 84 of title 5.
     - **(B)** The share referred to in subparagraph (A) equals—
-      - **(i)** 50 percent, if the qualified former spouse was married to the employee throughout the entire period of the employee’s service which is creditable under chapter 84 of title 5; or
+      - **(i)** 50 percent, if the qualified former spouse was married to the employee throughout the entire period of the employee’s service which is creditable under chapter 84 of title 50; 1 1 So in original. Probably should be title “5”. or
       - **(ii)** a pro rata share of 50 percent, if the qualified former spouse was not married to the employee throughout such creditable service.
   - **(2)** The benefits payable to an employee under subchapter II of chapter 84 of title 5 shall include, for purposes of this subsection, any annuity supplement payable to such employee under sections 8421 and 8421a of such title.
   - **(3)** A qualified former spouse shall not be entitled to any benefit under this subsection if, before the commencement of any benefit, the qualified former spouse remarries before becoming 55 years of age.
@@ -40,7 +40,7 @@ generated_at: "2026-03-29T20:08:11.172Z"
   - **(5)**
     - **(A)** Any reduction in payments to a retired employee as a result of payments to a qualified former spouse under this subsection shall be disregarded in calculating—
       - **(i)** the survivor annuity for any spouse, former spouse (qualified or otherwise), or other survivor under chapter 84 of title 5, and
-      - **(ii)** any reduction in the annuity of the retired employee to provide survivor benefits under subsection (d) of this section or under section 8442 or 8445 of title 5.
+      - **(ii)** any reduction in the annuity of the retired employee to provide survivor benefits under subsection (d) of this section or under sections 2 2 So in original. Probably should be “section”. 8442 or 8445 of title 5.
     - **(B)** If a retired employee whose annuity is reduced under paragraph (1) is recalled to service under section 2152(c) of this title , the basic pay of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund.
   - **(6)** Notwithstanding paragraphs (1) and (4), in the case of any qualified former spouse of a disability annuitant—
     - **(A)** the annuity of such former spouse shall commence on the date on which the employee would qualify, on the basis of the employee’s creditable service, for benefits under subchapter II of chapter 84 of title 5 or on the date on which the disability annuity begins, whichever is later; and

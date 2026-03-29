@@ -3,9 +3,9 @@ title: "Section 17232 - Better energy storage technology"
 usc_title: 42
 usc_section: "17232"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 17232"
-generated_at: "2026-03-29T20:07:44.955Z"
+generated_at: "2026-03-29T20:34:54.277Z"
 ---
 
 # § 17232. Better energy storage technology
@@ -81,13 +81,11 @@ generated_at: "2026-03-29T20:07:44.955Z"
     - **(D)** the Electricity Storage Research Initiative established under section 16315 of this title .
   - **(7)** In carrying out this subsection, the Secretary shall identify, incorporate, and follow best practices for protecting the privacy of individuals and businesses and the respective sensitive data of the individuals and businesses, including by managing privacy risk and implementing the Fair Information Practice Principles of the Federal Trade Commission for the collection, use, disclosure, and retention of individual electric consumer information in accordance with the Office of Management and Budget Circular A–130 (or successor circulars).
 - **(c)**
-  - **(1)** Not later than September 30, 2023 , the Secretary shall, to the maximum extent practicable, enter into agreements to carry out 3 energy storage system demonstration projects, including—
-    - **(A)** at least 1 energy storage system demonstration project designed to further the development of technologies described in clause (v) or (vi) of subsection (b)(2)(A); and
-    - **(B)** 1 project to demonstrate second-life applications of electric vehicle batteries as aggregated energy storage installations to provide services to the electric grid, in accordance with paragraph (3).
+  - **(1)** Not later than September 30, 2023 , the Secretary shall, to the maximum extent practicable, enter into agreements to carry out 3 energy storage system demonstration projects, including at least 1 energy storage system demonstration project designed to further the development of technologies described in clause (v) or (vi) of subsection (b)(2)(A).
   - **(2)**
     - **(A)** In this paragraph, the term “eligible entity” means—
       - **(i)** a State energy office (as defined in section 15821(a) of this title );
-      - **(ii)** an Indian Tribe (as defined in section 4103 of title 25 ; 1 1 So in original. A closing parenthesis probably should precede the semicolon.
+      - **(ii)** an Indian Tribe (as defined in section 4103 of title 25 ;
       - **(iii)** a Tribal organization (as defined in section 3765 of title 38 );
       - **(iv)** an institution of higher education (as defined in section 1001 of title 20 );
       - **(v)** an electric utility, including—
@@ -117,18 +115,8 @@ generated_at: "2026-03-29T20:07:44.955Z"
       - **(x)** To enable the use of stored energy in forms other than electricity to support the natural gas system and other industrial processes.
       - **(xi)** To integrate fast charging of electric vehicles.
       - **(xii)** To improve energy efficiency.
-  - **(3)**
-    - **(A)** The Secretary shall enter into an agreement to carry out a project to demonstrate second-life applications of electric vehicle batteries as aggregated energy storage installations to provide services to the electric grid.
-    - **(B)** The purposes of the project under subparagraph (A) shall be—
-      - **(i)** to demonstrate power safety and the reliability of the applications demonstrated under the program;
-      - **(ii)** to demonstrate the ability of electric vehicle batteries—
-        - **(I)** to provide ancillary services for grid stability and management; and
-        - **(II)** to reduce the peak loads of homes and businesses;
-      - **(iii)** to extend the useful life of electric vehicle batteries and the components of electric vehicle batteries prior to the collection, recycling, and reprocessing of the batteries and components; and
-      - **(iv)** to increase acceptance of, and participation in, the use of second-life applications of electric vehicle batteries by utilities.
-    - **(C)** In selecting a project to carry out under subparagraph (A), the Secretary shall give priority to projects in which the demonstration of the applicable second-life applications is paired with 1 or more facilities that could particularly benefit from increased resiliency and lower energy costs, such as a multi-family affordable housing facility, a senior care facility, and a community health center.
-  - **(4)** Not less frequently than once every 3 years for the duration of the programs under paragraphs (1) and (2), the Secretary shall submit to Congress and make publicly available a report describing the performance of those programs.
-  - **(5)** The Federal Government shall not hold any equity or other ownership interest in any energy storage system that is part of a project under this subsection unless the holding is agreed to by each participant of the project.
+  - **(3)** Not less frequently than once every 3 years for the duration of the programs under paragraphs (1) and (2), the Secretary shall submit to Congress and make publicly available a report describing the performance of those programs.
+  - **(4)** The Federal Government shall not hold any equity or other ownership interest in any energy storage system that is part of a project under this subsection unless the holding is agreed to by each participant of the project.
 - **(d)**
   - **(1)** In this subsection:
     - **(A)** The term “Initiative” means the demonstration initiative established under paragraph (2).
@@ -157,32 +145,11 @@ generated_at: "2026-03-29T20:07:44.955Z"
         - **(I)** make available to the public project information that will accelerate deployment of long-duration energy storage technologies; and
         - **(II)** will be carried out in the field.
 - **(e)**
-  - **(1)** In this subsection, the term “eligible entity” means—
-    - **(A)**
-      - **(i)** an electric utility, including—
-        - **(I)** a political subdivision of a State, such as a municipally owned electric utility; or
-        - **(II)** an instrumentality of a State composed of municipally owned electric utilities;
-      - **(ii)** an electric cooperative; or
-      - **(iii)** an investor-owned utility;
-    - **(B)** an Indian Tribe or Tribal organization;
-    - **(C)** a State energy office;
-    - **(D)** an institution of higher education; and
-    - **(E)** a consortium of the entities described in subparagraphs (A) through (D).
-  - **(2)**
-    - **(A)** Not later than September 30, 2023 , the Secretary shall, to the maximum extent practicable, enter into an agreement with an eligible entity to provide financial assistance to the eligible entity to carry out project design, transmission studies, power market assessments, and permitting for a pumped storage hydropower project to facilitate the long-duration storage of intermittent renewable electricity.
-    - **(B)** To be eligible for financial assistance under subparagraph (A), a project shall—
-      - **(i)** be designed to provide not less than 1,000 megawatts of storage capacity;
-      - **(ii)** be able to provide energy and capacity for use in more than 1 organized electricity market;
-      - **(iii)** be able to store electricity generated by intermittent renewable electricity projects located on Tribal land; and
-      - **(iv)** have received a preliminary permit from the Federal Energy Regulatory Commission.
-    - **(C)** An eligible entity receiving financial assistance under subparagraph (A) shall provide matching funds equal to or greater than the amount of financial assistance provided under that subparagraph.
-  - **(3)** There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2022 through 2026.
-- **(f)**
-- **(g)** To the maximum extent practicable, the Secretary shall coordinate the activities under this section (including activities conducted pursuant to the amendments made by this section) among the offices and employees of the Department, other Federal agencies, and other relevant entities—
+- **(f)** To the maximum extent practicable, the Secretary shall coordinate the activities under this section (including activities conducted pursuant to the amendments made by this section) among the offices and employees of the Department, other Federal agencies, and other relevant entities—
   - **(1)** to ensure appropriate collaboration;
   - **(2)** to avoid unnecessary duplication of those activities; and
   - **(3)** to increase domestic manufacturing and production of energy storage systems, such as those within the Department and within the National Institute of Standards and Technology.
-- **(h)** There are authorized to be appropriated—
+- **(g)** There are authorized to be appropriated—
   - **(1)** to carry out subsection (b), $100,000,000 for each of fiscal years 2021 through 2025, to remain available until expended;
   - **(2)** to carry out subsection (c), $71,000,000 for each of fiscal years 2021 through 2025, to remain available until expended; and
   - **(3)** to carry out subsection (d), $30,000,000 for each of fiscal years 2021 through 2025, to remain available until expended.

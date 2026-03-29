@@ -3,9 +3,9 @@ title: "Section 1431 - Manifests"
 usc_title: 19
 usc_section: "1431"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "19 U.S.C. § 1431"
-generated_at: "2026-03-29T20:04:27.292Z"
+generated_at: "2026-03-29T20:32:31.714Z"
 ---
 
 # § 1431. Manifests
@@ -22,11 +22,9 @@ generated_at: "2026-03-29T20:04:27.292Z"
     - **(F)** The seaport or airport of discharge.
     - **(G)** The country of origin of the shipment.
     - **(H)** The trademarks appearing on the goods or packages.
-  - **(2)**
-    - **(A)** The information listed in paragraph (1) shall not be available for public disclosure if—
-      - **(i)** the Secretary of the Treasury makes an affirmative finding on a shipment-by-shipment basis that disclosure is likely to pose a threat of personal injury or property damage; or
-      - **(ii)** the information is exempt under the provisions of section 552(b)(1) of title 5 .
-    - **(B)** The Secretary shall ensure that any personally identifiable information, including Social Security numbers and passport numbers, is removed from any manifest signed, produced, delivered, or electronically transmitted under this section before access to the manifest is provided to the public.
+  - **(2)** The information listed in paragraph (1) shall not be available for public disclosure if—
+    - **(A)** the Secretary of the Treasury makes an affirmative finding on a shipment-by-shipment basis that disclosure is likely to pose a threat of personal injury or property damage; or
+    - **(B)** the information is exempt under the provisions of section 552(b)(1) of title 5 .
   - **(3)** The Secretary of the Treasury, in order to allow for the timely dissemination and publication of the information listed in paragraph (1), shall establish procedures to provide access to manifests. Such procedures shall include provisions for adequate protection against the public disclosure of information not available for public disclosure from such manifests.
 - **(d)**
   - **(1)** The Secretary shall by regulation—

@@ -3,15 +3,15 @@ title: "Section 2077a - Interagency review of applications for the transfer of U
 usc_title: 42
 usc_section: "2077a"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 2077a"
-generated_at: "2026-03-29T20:07:44.146Z"
+generated_at: "2026-03-29T20:34:53.490Z"
 ---
 
 # § 2077a. Interagency review of applications for the transfer of United States civil nuclear technology
 
-- **(a)** At the same time as the President submits to Congress the annual budget request under section 1105 of title 31 for a fiscal year, the Secretary of Energy shall submit to the appropriate congressional committees a report that includes—
-  - **(1)** a description of the authorizations under section 2077(b) of this title to transfer United States civil nuclear technology to a covered foreign country during the preceding year; and
+- **(a)** Not less frequently than every 90 days, the Secretary of Energy shall submit to the appropriate congressional committees a report that includes—
+  - **(1)** a description of the authorizations under section 2077(b) of this title to transfer United States civil nuclear technology to a covered foreign country during the preceding 90 days; and
   - **(2)** a statement of whether any agency required to be consulted under that section or pursuant to regulation objected to or sought conditions on each such transfer.
 - **(b)**
   - **(1)** Not later than 90 days after November 25, 2015 , and every five years thereafter, the Secretary of Energy shall—
@@ -57,8 +57,7 @@ generated_at: "2026-03-29T20:07:44.146Z"
     - **(A)** describing the efforts of covered foreign countries to prevent the transfer of sensitive items, including efforts to improve the prevention of the transfer of such items; and
     - **(B)** assessing the adequacy of such efforts.
   - **(2)** In this subsection, the term “sensitive items” means goods, services, and technologies described in section 2(a) of the Iran, North Korea, and Syria Nonproliferation Act ( Public Law 106–178 ; 50 U.S.C. 1701 note).
-- **(i)** The Secretary of Energy may submit the annual reports required by subsections (a), (d), and (e) as a single annual report, including by providing portions of the information so required as an annex to the single annual report.
-- **(j)** In this section:
+- **(i)** In this section:
   - **(1)** The term “appropriate congressional committees” means—
     - **(A)** the congressional defense committees;
     - **(B)** the Committee on Energy and Natural Resources, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate; and

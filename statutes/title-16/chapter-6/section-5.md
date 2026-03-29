@@ -3,9 +3,9 @@ title: "Section 5 - Advisory Committee"
 usc_title: 16
 usc_section: "5"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-29T20:04:20.197Z"
+generated_at: "2026-03-29T20:32:45.262Z"
 ---
 
 # § 698u–5. Advisory Committee
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T20:04:20.197Z"
   - **(3)** Each member shall continue to serve after the expiration of the term of the member until a successor is appointed.
   - **(4)** A vacancy on the Advisory Committee shall be filled in the same manner as an original appointment is made. The member appointed to fill the vacancy shall serve until the expiration of the term in which the vacancy occurred.
 - **(e)** The members of the Advisory Committee shall select 1 of the members to serve as Chairperson.
-- **(f)** Meetings of the Advisory Committee shall be held at the call of the Chairperson or the majority of the Advisory Committee. Meetings shall be held at such locations and in such a manner as to ensure adequate opportunity for public involvement. In compliance with the requirements of chapter 10 of title 5, the Advisory Committee shall choose an appropriate means of providing interested members of the public advance notice of scheduled meetings.
+- **(f)** Meetings of the Advisory Committee shall be held at the call of the Chairperson or the majority of the Advisory Committee. Meetings shall be held at such locations and in such a manner as to ensure adequate opportunity for public involvement. In compliance with the requirements of the Federal Advisory Committee Act (5 U.S.C. App.), the Advisory Committee shall choose an appropriate means of providing interested members of the public advance notice of scheduled meetings.
 - **(g)** A majority of the members of the Advisory Committee shall constitute a quorum.
 - **(h)** Each member of the Advisory Committee shall serve without compensation, except that while engaged in official business of the Advisory Committee, the member shall be entitled to travel expenses, including per diem in lieu of subsistence in the same manner as persons employed intermittently in Government service under section 5703 of title 5 .
-- **(i)** The rechartering provisions of section 1013(b) of title 5 shall not apply to the Advisory Committee.
+- **(i)** The rechartering provisions of section 14(b) of the Federal Advisory Committee Act (15 1 1 So in original. Probably should be “5”. U.S.C. App.) shall not apply to the Advisory Committee.

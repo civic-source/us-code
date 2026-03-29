@@ -3,9 +3,9 @@ title: "Section 4377 - Breach of critical cost growth threshold: actions if prog
 usc_title: 10
 usc_section: "4377"
 chapter: 325
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 4377"
-generated_at: "2026-03-29T20:03:09.787Z"
+generated_at: "2026-03-29T20:31:54.694Z"
 ---
 
 # § 4377. Breach of critical cost growth threshold: actions if program not terminated
@@ -16,14 +16,14 @@ generated_at: "2026-03-29T20:03:09.787Z"
   - **(3)** require a new Milestone approval for the program before taking any contract action to enter a new contract, exercise an option under an existing contract, or otherwise extend the scope of an existing contract under the program, except to the extent determined necessary by the Milestone Decision Authority, on a non-delegable basis, to ensure that the program can be restructured as intended by the Secretary without unnecessarily wasting resources;
   - **(4)** include in the report specified in subsection (b) a description of all funding changes made as a result of the growth in cost of the program, including reductions made in funding for other programs to accommodate such cost growth; and
   - **(5)** conduct regular reviews of the program in accordance with the requirements of section 205 of the Weapon Systems Acquisition Reform Act of 2009.
-- **(b)** For purposes of subsection (a)(4), the report specified in this subsection is the first Selected Acquisition Report for the program submitted pursuant to section 4351 of this title after the President submits a budget pursuant to section 1105 of title 31 , in the calendar year following the year in which the program was restructured.
+- **(b)** For purposes of subsection (a)(4), the report specified in this subsection is the first Selected Acquisition Report for the program submitted pursuant to section 4352 of this title after the President submits a budget pursuant to section 1105 of title 31 , in the calendar year following the year in which the program was restructured.
 - **(c)**
   - **(1)** The requirements of paragraphs (2), (3), and (5) of subsection (a) shall not apply to a program or subprogram if—
     - **(A)** the Milestone Decision Authority determines in writing, on the basis of a cost assessment and root cause analysis conducted pursuant to section 4376(a) of this title , that—
       - **(i)** but for a change in the quantity of items to be purchased under the program or subprogram, the program acquisition unit cost or procurement unit cost for the program or subprogram would not have increased by a percentage equal to or greater than the cost growth thresholds for the program or subprogram set forth in paragraph (2); and
       - **(ii)** the change in quantity of items described in clause (i) was not made as a result of an increase in program cost, a delay in the program, or a problem meeting program requirements;
     - **(B)** the Secretary determines in writing that the cost to the Department of Defense of complying with such requirements is likely to exceed the benefits to the Department of complying with such requirements; and
-    - **(C)** the Secretary submits to Congress, before the end of the 60-day period beginning on the day the Selected Acquisition Report containing the information described in subsections (d) and (e) of section 4375 of this title is required to be submitted under section 4351(f) of this title —
+    - **(C)** the Secretary submits to Congress, before the end of the 60-day period beginning on the day the Selected Acquisition Report containing the information described in subsections (d) and (e) of section 4375 of this title is required to be submitted under section 4356 of this title —
       - **(i)** a copy of the written determination under subparagraph (A) and an explanation of the basis for the determination; and
       - **(ii)** a copy of the written determination under subparagraph (B) and an explanation of the basis for the determination.
   - **(2)** The cost growth thresholds specified in this paragraph are as follows:

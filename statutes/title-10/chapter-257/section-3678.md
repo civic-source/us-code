@@ -1,12 +1,14 @@
 ---
-title: "Section 3678 - Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(6) , Dec. 18, 2025 , 139 Stat. 948 ]"
+title: "Section 3678 - Contracts with terms of 18 months or more: limitation"
 usc_title: 10
 usc_section: "3678"
 chapter: 257
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 3678"
-generated_at: "2026-03-29T20:03:09.762Z"
+generated_at: "2026-03-29T20:31:54.676Z"
 ---
 
-# [§ 3678. Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(6) , Dec. 18, 2025 , 139 Stat. 948 ]
+# § 3678. Contracts with terms of 18 months or more: limitation
+
+The Secretary of Defense or the Secretary of a military department may not enter into any contract with a term of 18 months or more, or extend or renew any contract for a term of 18 months or more, for any vessel, aircraft, or vehicle, through a lease, charter, or similar agreement, unless the Secretary has considered all costs of such contract (including estimated termination liability) and has determined in writing that the contract is in the best interest of the Government.
 

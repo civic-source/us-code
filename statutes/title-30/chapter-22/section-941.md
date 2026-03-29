@@ -3,9 +3,9 @@ title: "Section 941 - Penalty for false statements or representations"
 usc_title: 30
 usc_section: "941"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "30 U.S.C. § 941"
-generated_at: "2026-03-29T20:05:08.724Z"
+generated_at: "2026-03-29T20:33:07.400Z"
 ---
 
 # § 941. Penalty for false statements or representations

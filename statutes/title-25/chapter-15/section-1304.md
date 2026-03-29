@@ -1,124 +1,75 @@
 ---
-title: "Section 1304 - Tribal jurisdiction over covered crimes"
+title: "Section 1304 - Tribal jurisdiction over crimes of domestic violence"
 usc_title: 25
 usc_section: "1304"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "25 U.S.C. § 1304"
-generated_at: "2026-03-29T20:04:54.346Z"
+generated_at: "2026-03-29T20:32:54.683Z"
 ---
 
-# § 1304. Tribal jurisdiction over covered crimes
+# § 1304. Tribal jurisdiction over crimes of domestic violence
 
 - **(a)** In this section:
-  - **(1)** The term “assault of Tribal justice personnel” means any violation of the criminal law of the Indian tribe that has jurisdiction over the Indian country where the violation occurs that involves the use, attempted use, or threatened use of physical force against an individual authorized to act for, or on behalf of, that Indian tribe or serving that Indian tribe during, or because of, the performance or duties of that individual in—
-    - **(A)** preventing, detecting, investigating, making arrests relating to, making apprehensions for, or prosecuting a covered crime;
-    - **(B)** adjudicating, participating in the adjudication of, or supporting the adjudication of a covered crime;
-    - **(C)** detaining, providing supervision for, or providing services for persons charged with a covered crime; or
-    - **(D)** incarcerating, supervising, providing treatment for, providing rehabilitation services for, or providing reentry services for persons convicted of a covered crime.
-  - **(2)** The term “child” means a person who has not attained the lesser of—
-    - **(A)** the age of 18; and
-    - **(B)** except in the case of sexual abuse, the age specified by the criminal law of the Indian tribe that has jurisdiction over the Indian country where the violation occurs.
-  - **(3)** The term “child violence” means the use, threatened use, or attempted use of violence against a child proscribed by the criminal law of the Indian tribe that has jurisdiction over the Indian country where the violation occurs.
-  - **(4)** The terms “coercion” and “commercial sex act” have the meanings given the terms in section 1591(e) of title 18 .
-  - **(5)** The term “covered crime” means—
-    - **(A)** assault of Tribal justice personnel;
-    - **(B)** child violence;
-    - **(C)** dating violence;
-    - **(D)** domestic violence;
-    - **(E)** obstruction of justice;
-    - **(F)** sexual violence;
-    - **(G)** sex trafficking;
-    - **(H)** stalking; and
-    - **(I)** a violation of a protection order.
-  - **(6)** The term “dating violence” means any violation of the criminal law of the Indian tribe that has jurisdiction over the Indian country where the violation occurs that is committed by a person who is or has been in a social relationship of a romantic or intimate nature with the victim, as determined by the length of the relationship, the type of relationship, and the frequency of interaction between the persons involved in the relationship.
-  - **(7)** The term “domestic violence” means any violation of the criminal law of the Indian tribe that has jurisdiction over the Indian country where the violation occurs that is committed by—
-    - **(A)** a current or former spouse or intimate partner of the victim;
-    - **(B)** a person with whom the victim shares a child in common;
-    - **(C)** a person who is cohabitating with or who has cohabitated with the victim as a spouse or intimate partner; or
-    - **(D)** a person similarly situated to a spouse of the victim under the domestic- or family-violence laws of the Indian tribe that has jurisdiction over the Indian country where the violation occurs.
-  - **(8)** The term “Indian country” has the meaning given the term in section 1151 of title 18 .
-  - **(9)** The term “obstruction of justice” means any violation of the criminal law of the Indian tribe that has jurisdiction over the Indian country where the violation occurs that involves interfering with the administration or due process of the laws of the Indian tribe, including any Tribal criminal proceeding or investigation of a crime.
-  - **(10)** The term “participating tribe” means an Indian tribe that elects to exercise special Tribal criminal jurisdiction over the Indian country of that Indian tribe.
-  - **(11)** The term “protection order”—
+  - **(1)** The term “dating violence” means violence committed by a person who is or has been in a social relationship of a romantic or intimate nature with the victim, as determined by the length of the relationship, the type of relationship, and the frequency of interaction between the persons involved in the relationship.
+  - **(2)** The term “domestic violence” means violence committed by a current or former spouse or intimate partner of the victim, by a person with whom the victim shares a child in common, by a person who is cohabitating with or has cohabitated with the victim as a spouse or intimate partner, or by a person similarly situated to a spouse of the victim under the domestic- or family- violence laws of an Indian tribe that has jurisdiction over the Indian country where the violence occurs.
+  - **(3)** The term “Indian country” has the meaning given the term in section 1151 of title 18 .
+  - **(4)** The term “participating tribe” means an Indian tribe that elects to exercise special domestic violence criminal jurisdiction over the Indian country of that Indian tribe.
+  - **(5)** The term “protection order”—
     - **(A)** means any injunction, restraining order, or other order issued by a civil or criminal court for the purpose of preventing violent or threatening acts or harassment against, sexual violence against, contact or communication with, or physical proximity to, another person; and
     - **(B)** includes any temporary or final order issued by a civil or criminal court, whether obtained by filing an independent action or as a pendent lite order in another proceeding, if the civil or criminal order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection.
-  - **(12)** The term “sex trafficking” means conduct within the meaning of section 1591(a) of title 18 .
-  - **(13)** The term “sexual violence” means any nonconsensual sexual act or contact proscribed by the criminal law of the Indian tribe that has jurisdiction over the Indian country where the violation occurs, including in any case in which the victim lacks the capacity to consent to the act.
-  - **(14)** The term “special Tribal criminal jurisdiction” means the criminal jurisdiction that a participating tribe may exercise under this section but could not otherwise exercise.
-  - **(15)** The term “spouse or intimate partner” has the meaning given the term in section 2266 of title 18 .
-  - **(16)** The term “stalking” means engaging in a course of conduct directed at a specific person proscribed by the criminal law of the Indian tribe that has jurisdiction over the Indian country where the violation occurs that would cause a reasonable person—
-    - **(A)** to fear for the person’s safety or the safety of others; or
-    - **(B)** to suffer substantial emotional distress.
-  - **(17)** The term “violation of a protection order” means an act that—
-    - **(A)** occurs in the Indian country of a participating tribe; and
-    - **(B)** violates a provision of a protection order that—
-      - **(i)** prohibits or provides protection against violent or threatening acts or harassment against, sexual violence against, contact or communication with, or physical proximity to, another person;
-      - **(ii)** was issued against the defendant;
-      - **(iii)** is enforceable by the participating tribe; and
-      - **(iv)** is consistent with section 2265(b) of title 18 .
+  - **(6)** The term “special domestic violence criminal jurisdiction” means the criminal jurisdiction that a participating tribe may exercise under this section but could not otherwise exercise.
+  - **(7)** The term “spouse or intimate partner” has the meaning given the term in section 2266 of title 18 .
 - **(b)**
-  - **(1)** Notwithstanding any other provision of law, in addition to all powers of self-government recognized and affirmed by sections 1301 and 1303 of this title, the powers of self-government of a participating tribe, including any participating tribes in the State of Maine, include the inherent power of that tribe, which is hereby recognized and affirmed, to exercise special Tribal criminal jurisdiction over all persons.
-  - **(2)** The exercise of special Tribal criminal jurisdiction by a participating tribe shall be concurrent with the jurisdiction of the United States, of a State, or of both.
+  - **(1)** Notwithstanding any other provision of law, in addition to all powers of self-government recognized and affirmed by sections 1301 and 1303 of this title, the powers of self-government of a participating tribe include the inherent power of that tribe, which is hereby recognized and affirmed, to exercise special domestic violence criminal jurisdiction over all persons.
+  - **(2)** The exercise of special domestic violence criminal jurisdiction by a participating tribe shall be concurrent with the jurisdiction of the United States, of a State, or of both.
   - **(3)** Nothing in this section—
     - **(A)** creates or eliminates any Federal or State criminal jurisdiction over Indian country; or
     - **(B)** affects the authority of the United States or any State government that has been delegated authority by the United States to investigate and prosecute a criminal violation in Indian country.
   - **(4)**
-    - **(A)** A participating tribe may not exercise special Tribal criminal jurisdiction over an alleged offense, other than obstruction of justice or assault of Tribal justice personnel, if neither the defendant nor the alleged victim is an Indian.
-    - **(B)** In this paragraph and with respect to a criminal proceeding in which a participating tribe exercises special Tribal criminal jurisdiction based on a violation of a protection order, the term “victim” means a person specifically protected by a protection order that the defendant allegedly violated.
-- **(c)** A participating tribe may exercise special Tribal criminal jurisdiction over a defendant for a covered crime that occurs in the Indian country of the participating tribe.
-- **(d)** In a criminal proceeding in which a participating tribe exercises special Tribal criminal jurisdiction, the participating tribe shall provide to the defendant—
+    - **(A)**
+      - **(i)** A participating tribe may not exercise special domestic violence criminal jurisdiction over an alleged offense if neither the defendant nor the alleged victim is an Indian.
+      - **(ii)** In this subparagraph and with respect to a criminal proceeding in which a participating tribe exercises special domestic violence criminal jurisdiction based on a violation of a protection order, the term “victim” means a person specifically protected by a protection order that the defendant allegedly violated.
+    - **(B)** A participating tribe may exercise special domestic violence criminal jurisdiction over a defendant only if the defendant—
+      - **(i)** resides in the Indian country of the participating tribe;
+      - **(ii)** is employed in the Indian country of the participating tribe; or
+      - **(iii)** is a spouse, intimate partner, or dating partner of—
+        - **(I)** a member of the participating tribe; or
+        - **(II)** an Indian who resides in the Indian country of the participating tribe.
+- **(c)** A participating tribe may exercise special domestic violence criminal jurisdiction over a defendant for criminal conduct that falls into one or more of the following categories:
+  - **(1)** An act of domestic violence or dating violence that occurs in the Indian country of the participating tribe.
+  - **(2)** An act that—
+    - **(A)** occurs in the Indian country of the participating tribe; and
+    - **(B)** violates the portion of a protection order that—
+      - **(i)** prohibits or provides protection against violent or threatening acts or harassment against, sexual violence against, contact or communication with, or physical proximity to, another person;
+      - **(ii)** was issued against the defendant;
+      - **(iii)** is enforceable by the participating tribe; and
+      - **(iv)** is consistent with section 2265(b) of title 18 .
+- **(d)** In a criminal proceeding in which a participating tribe exercises special domestic violence criminal jurisdiction, the participating tribe shall provide to the defendant—
   - **(1)** all applicable rights under this Act;
   - **(2)** if a term of imprisonment of any length may be imposed, all rights described in section 1302(c) of this title ;
   - **(3)** the right to a trial by an impartial jury that is drawn from sources that—
     - **(A)** reflect a fair cross section of the community; and
     - **(B)** do not systematically exclude any distinctive group in the community, including non-Indians; and
-  - **(4)** all other rights whose protection is necessary under the Constitution of the United States in order for Congress to recognize and affirm the inherent power of the participating tribe to exercise special Tribal criminal jurisdiction over the defendant.
+  - **(4)** all other rights whose protection is necessary under the Constitution of the United States in order for Congress to recognize and affirm the inherent power of the participating tribe to exercise special domestic violence criminal jurisdiction over the defendant.
 - **(e)**
   - **(1)** A person who has filed a petition for a writ of habeas corpus in a court of the United States under section 1303 of this title may petition that court to stay further detention of that person by the participating tribe.
   - **(2)** A court shall grant a stay described in paragraph (1) if the court—
     - **(A)** finds that there is a substantial likelihood that the habeas corpus petition will be granted; and
     - **(B)** after giving each alleged victim in the matter an opportunity to be heard, finds by clear and convincing evidence that under conditions imposed by the court, the petitioner is not likely to flee or pose a danger to any person or the community if released.
-- **(f)**
-  - **(1)** After a defendant has been sentenced by a participating tribe, the defendant may file a petition for a writ of habeas corpus in a court of the United States under section 1303 of this title .
-  - **(2)** An application for a writ of habeas corpus on behalf of a person in custody pursuant to an order of a Tribal court shall not be granted unless —
-    - **(A)** the applicant has exhausted the remedies available in the Tribal court system;
-    - **(B)** there is an absence of an available Tribal corrective process; or
-    - **(C)** circumstances exist that render the Tribal corrective process ineffective to protect the rights of the applicant.
-- **(g)** A participating tribe that has ordered the detention of any person has a duty to timely notify in writing such person of their rights and privileges under this section and under section 1303 of this title .
-- **(h)**
-  - **(1)**
-    - **(A)** The Attorney General may reimburse Tribal government authorities (or an authorized designee of a Tribal government) for expenses incurred in exercising special Tribal criminal jurisdiction.
-    - **(B)** Eligible expenses for reimbursement under subparagraph (A) shall include expenses and costs incurred in, relating to, or associated with—
-      - **(i)** investigating, making arrests relating to, making apprehensions for, or prosecuting covered crimes (including costs involving the purchasing, collecting, and processing of sexual assault forensic materials);
-      - **(ii)** detaining, providing supervision of, or providing services for persons charged with covered crimes (including costs associated with providing health care);
-      - **(iii)** providing indigent defense services for 1 or more persons charged with 1 or more covered crimes; and
-      - **(iv)** incarcerating, supervising, or providing treatment, rehabilitation, or reentry services for 1 or more persons charged with 1 or more covered crimes.
-    - **(C)**
-      - **(i)** Reimbursements authorized under subparagraph (A) shall be in accordance with rules promulgated by the Attorney General, after consultation with Indian tribes, and within 1 year after March 15, 2022 .
-      - **(ii)** The rules promulgated by the Attorney General under clause (i)—
-        - **(I)** shall set a maximum allowable reimbursement to any Tribal government (or an authorized designee of any Tribal government) in a 1-year period; and
-        - **(II)** may allow the Attorney General—
-      - **(iii)** To the maximum extent practicable, the Attorney General shall—
-        - **(I)** not later than 90 days after the date on which the Attorney General receives a qualifying reimbursement request from a Tribal government (or an authorized designee of a Tribal government)—
-        - **(II)** not later than 30 days after the date on which a Tribal government (or an authorized designee of a Tribal government) reaches the annual maximum allowable reimbursement for the Tribal government (or an authorized designee) established by the Attorney General under clause (ii)(I), notify the Tribal government (or authorized designee) that the Tribal government has reached its annual maximum allowable reimbursement.
-    - **(D)** A Tribal government (or an authorized designee of a Tribal Government) of an Indian tribe designated as a participating Tribe under subtitle B of title VIII of the Violence Against Women Act Reauthorization Act of 2022 shall be eligible for reimbursement, in accordance with this paragraph, of expenses incurred in exercising special Tribal criminal jurisdiction under that subtitle.
-  - **(2)** The Attorney General may award grants to Tribal governments (or authorized designees of Tribal governments), including a Tribal government (or an authorized designee of a Tribal government) of an Indian tribe designated as a participating Tribe under subtitle B of title VIII of the Violence Against Women Act Reauthorization Act of 2022—
-    - **(A)** to strengthen Tribal criminal justice systems to assist Indian tribes in exercising special Tribal criminal jurisdiction, including for—
-      - **(i)** law enforcement (including the capacity of law enforcement, court personnel, or other non-law enforcement entities that have no Federal or State arrest authority agencies but have been designated by an Indian tribe as responsible for maintaining public safety within the territorial jurisdiction of the Indian tribe, to enter information into and obtain information from national crime information databases);
-      - **(ii)** prosecution;
-      - **(iii)** trial and appellate courts (including facilities maintenance, renovation, and rehabilitation);
-      - **(iv)** supervision systems;
-      - **(v)** detention and corrections (including facilities maintenance, renovation, and rehabilitation);
-      - **(vi)** treatment, rehabilitation, and reentry programs and services;
-      - **(vii)** culturally appropriate services and assistance for victims and their families; and
-      - **(viii)** criminal codes and rules of criminal procedure, appellate procedure, and evidence;
-    - **(B)** to provide indigent criminal defendants with licensed defense counsel, at no cost to the defendant, in criminal proceedings in which a participating tribe prosecutes covered crimes;
-    - **(C)** to ensure that, in criminal proceedings in which a participating tribe exercises special Tribal criminal jurisdiction, jurors are summoned, selected, and instructed in a manner consistent with all applicable requirements; and
-    - **(D)** to accord victims of covered crimes rights that are similar to the rights of a crime victim described in section 3771(a) of title 18 consistent with Tribal law and custom.
-- **(i)** Amounts made available under this section shall supplement and not supplant any other Federal, State, or local government amounts made available to carry out activities described in this section.
-- **(j)**
-  - **(1)** There is authorized to be appropriated $25,000,000 for each of fiscal years 2023 through 2027—
-    - **(A)** to carry out subsection (h); and
-    - **(B)** to provide training, technical assistance, data collection, and evaluation of the criminal justice systems of participating tribes.
-  - **(2)** Of the total amount made available under paragraph (1) for each fiscal year, not more than 40 percent shall be used for reimbursements under subsection (h)(1).
+  - **(3)** An Indian tribe that has ordered the detention of any person has a duty to timely notify such person of his rights and privileges under this subsection and under section 1303 of this title .
+- **(f)** The Attorney General may award grants to the governments of Indian tribes (or to authorized designees of those governments)—
+  - **(1)** to strengthen tribal criminal justice systems to assist Indian tribes in exercising special domestic violence criminal jurisdiction, including—
+    - **(A)** law enforcement (including the capacity of law enforcement or court personnel to enter information into and obtain information from national crime information databases);
+    - **(B)** prosecution;
+    - **(C)** trial and appellate courts;
+    - **(D)** probation systems;
+    - **(E)** detention and correctional facilities;
+    - **(F)** alternative rehabilitation centers;
+    - **(G)** culturally appropriate services and assistance for victims and their families; and
+    - **(H)** criminal codes and rules of criminal procedure, appellate procedure, and evidence;
+  - **(2)** to provide indigent criminal defendants with the effective assistance of licensed defense counsel, at no cost to the defendant, in criminal proceedings in which a participating tribe prosecutes a crime of domestic violence or dating violence or a criminal violation of a protection order;
+  - **(3)** to ensure that, in criminal proceedings in which a participating tribe exercises special domestic violence criminal jurisdiction, jurors are summoned, selected, and instructed in a manner consistent with all applicable requirements; and
+  - **(4)** to accord victims of domestic violence, dating violence, and violations of protection orders rights that are similar to the rights of a crime victim described in section 3771(a) of title 18 , consistent with tribal law and custom.
+- **(g)** Amounts made available under this section shall supplement and not supplant any other Federal, State, tribal, or local government amounts made available to carry out activities described in this section.
+- **(h)** There are authorized to be appropriated $5,000,000 for each of fiscal years 2014 through 2018 to carry out subsection (f) and to provide training, technical assistance, data collection, and evaluation of the criminal justice systems of participating tribes.

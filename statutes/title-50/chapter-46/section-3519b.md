@@ -3,9 +3,9 @@ title: "Section 3519b - Special rules for certain individuals injured by reason 
 usc_title: 50
 usc_section: "3519b"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "50 U.S.C. § 3519b"
-generated_at: "2026-03-29T20:08:11.246Z"
+generated_at: "2026-03-29T20:35:05.257Z"
 ---
 
 # § 3519b. Special rules for certain individuals injured by reason of war, insurgency, hostile act, terrorist activities, or incidents designated by the Director
@@ -40,19 +40,3 @@ generated_at: "2026-03-29T20:08:11.246Z"
     - **(C)** the seniority of the covered employee.
   - **(2)** Notwithstanding chapter 81 of title 5, the total amount of monthly compensation increased under paragraph (1) may not exceed the monthly pay of the maximum rate of basic pay for GS–15 of the General Schedule under section 5332 of such title.
 - **(c)** The Director may pay the costs of treating a qualifying injury of a covered employee, a covered individual, or a covered dependent, or may reimburse a covered employee, a covered individual, or a covered dependent for such costs, that are not otherwise covered by chapter 81 of title 5, or other provision of Federal law.
-- **(d)**
-  - **(1)** In this subsection:
-    - **(A)** The term “covered dependent” has the meaning given such term in subsection (a), except that the assigned duty station need not be in a foreign country.
-    - **(B)** The term “qualifying injury” has the meaning given such term in subsection (a), except that the assigned duty station need not be in a foreign country.
-  - **(2)** Notwithstanding any other provision of law but subject to paragraph (3), the Director may provide payment to a covered dependent, a covered employee, and a covered individual for a qualifying injury to the brain.
-  - **(3)**
-    - **(A)** Payment under paragraph (2) in a fiscal year may be made using any funds—
-      - **(i)** appropriated specifically for payments under such paragraph; or
-      - **(ii)** reprogrammed in accordance with section 3094 of this title .
-    - **(B)** For each fiscal year, the Director shall include with the budget justification materials submitted to Congress in support of the budget of the President for that fiscal year pursuant to section 1105(a) of title 31 an estimate of the funds required in that fiscal year to make payments under paragraph (2).
-  - **(4)**
-    - **(A)** The Director shall prescribe regulations to carry out this subsection.
-    - **(B)** The regulations prescribed under subparagraph (A) shall include regulations detailing fair and equitable criteria for payment under paragraph (2).
-  - **(5)**
-    - **(A)** Payments made under paragraph (2) are supplemental to any other benefit furnished by the United States Government for which a covered dependent, covered employee, or covered individual is entitled, and the receipt of such payments may not affect the eligibility of such a person to any other benefit furnished by the United States Government.
-    - **(B)** Without regard to the requirements in sections (b) and (c), covered employees need not first seek benefits provided under chapter 81 of title 5 to be eligible solely for payment authorized under paragraph (2) of this subsection.

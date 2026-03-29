@@ -3,9 +3,9 @@ title: "Section 1490a - Loans to provide occupant owned, rental, and cooperative
 usc_title: 42
 usc_section: "1490a"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 1490a"
-generated_at: "2026-03-29T20:07:44.017Z"
+generated_at: "2026-03-29T20:34:53.380Z"
 ---
 
 # § 1490a. Loans to provide occupant owned, rental, and cooperative housing for low and moderate income, elderly or handicapped persons or families
@@ -42,7 +42,7 @@ generated_at: "2026-03-29T20:07:44.017Z"
         - **(I)** administration, maintenance, repair, and security of the project;
         - **(II)** utilities, fuel, furnishings, and equipment for the project; and
         - **(III)** maintaining adequate reserve funds for the project.
-- **(b)** Housing and related facilities provided with loans described in subsection (a) shall be located in rural areas; and applicants eligible for such loans under section 1472, 1487(a)(1), 1 or 1490f(a) of this title, or for occupancy of housing provided with such loans under section 1485 or 1490f(c) of this title, shall include otherwise qualified nonrural residents who will become rural residents.
+- **(b)** Housing and related facilities provided with loans described in subsection (a) shall be located in rural areas; and applicants eligible for such loans under section 1472, 1487(a)(1), 2 2 See References in Text note below. or 1490f(a) of this title, or for occupancy of housing provided with such loans under section 1485 or 1490f(c) of this title, shall include otherwise qualified nonrural residents who will become rural residents.
 - **(c)** There shall be reimbursed to the Rural Housing Insurance Fund by annual appropriations (1) the amounts by which nonprincipal payments made from the fund during each fiscal year to the holders of insured loans described in subsection (a)(1) exceed interest due from the borrowers during each year, and (2) the amount of assistance payments described in subsections (a)(2) and (a)(5). There are authorized to be appropriated to the Rural Housing Insurance Fund such sums as may be necessary to reimburse such fund for the amount of assistance payments described in subsection (a)(1)(C). The Secretary may from time to time issue notes to the Secretary of the Treasury under section 1487(h) and of this title and section 1490f of this title to obtain amounts equal to such unreimbursed payments, pending the annual reimbursement by appropriation.
 - **(d)**
   - **(1)** In utilizing the rental assistance payments authority pursuant to subsection (a)(2)—

@@ -3,9 +3,9 @@ title: "Section 610 - Control of aquatic plant growths and invasive species"
 usc_title: 33
 usc_section: "610"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "33 U.S.C. § 610"
-generated_at: "2026-03-29T20:05:35.670Z"
+generated_at: "2026-03-29T20:33:34.182Z"
 ---
 
 # § 610. Control of aquatic plant growths and invasive species
@@ -23,8 +23,8 @@ generated_at: "2026-03-29T20:05:35.670Z"
     - **(E)** $10,000,000 shall be made available to carry out subsection (d)(1)(A)(v).
   - **(2)**
     - **(A)** There are authorized to be appropriated—
-      - **(i)** $10,000,000 for each of fiscal years 2025 through 2029 to carry out subsection (f); and
-      - **(ii)** $75,000,000 for each of fiscal years 2021 through 2029 to carry out subsection (g)(2).
+      - **(i)** $10,000,000 for each of fiscal years 2021 through 2024 to carry out subsection (f); and
+      - **(ii)** $50,000,000 for each of fiscal years 2021 through 2024 to carry out subsection (g)(2).
     - **(B)** There is authorized to be appropriated to the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, $10,000,000 to carry out subsection (g)(3).
   - **(3)** Any funds made available under paragraph (1) or (2)(A) to be used for control operations shall be allocated by the Chief of Engineers on a priority basis, based on the urgency and need of each area and the availability of local funds.
 - **(c)** In carrying out the program under this section, the Secretary is encouraged to use contracts, cooperative agreements, and grants with colleges and universities and other non-Federal entities.
@@ -39,7 +39,7 @@ generated_at: "2026-03-29T20:05:35.670Z"
     - **(B)** The Secretary shall place watercraft inspection and decontamination stations under subparagraph (A) at locations with the highest likelihood of preventing the spread of aquatic invasive species into and out of waters of the United States, as determined by the Secretary in consultation with the Governors and entities described in paragraph (3).
     - **(C)** The Secretary shall assist States within the areas described in subparagraph (A) with rapid response to any aquatic invasive species, including quagga or zebra mussel, infestation.
   - **(2)** The non-Federal share of the cost of constructing, operating, and maintaining watercraft inspection and decontamination stations described in paragraph (1) (including personnel costs) shall be—
-    - **(A)** 35 percent; and
+    - **(A)** 50 percent; and
     - **(B)** provided by the State or local governmental entity in which such inspection station is located.
   - **(3)** In carrying out this subsection, the Secretary shall consult and coordinate with—
     - **(A)** the Governors of the States within the areas described in each of clauses (i) through (v) of paragraph (1)(A), as applicable;
@@ -53,7 +53,7 @@ generated_at: "2026-03-29T20:05:35.670Z"
 - **(e)** In carrying out this section, the Secretary may—
   - **(1)** carry out risk assessments of water resources facilities;
   - **(2)** monitor for aquatic invasive species;
-  - **(3)** assist States in early detection of, and monitoring and contingency planning for, aquatic invasive species, including quagga and zebra mussels; and
+  - **(3)** assist States in early detection of aquatic invasive species, including quagga and zebra mussels; and
   - **(4)** monitor water quality, including sediment cores and fish tissue samples.
 - **(f)**
   - **(1)** In this subsection, the term “invasive species” has the meaning given the term in section 1 of Executive Order 13112 (64 Fed. Reg. 6183; relating to invasive species ( February 3, 1999 )) (as amended by section 2 of Executive Order 13751 (81 Fed. Reg. 88609; relating to safeguarding the Nation from the impacts of invasive species ( December 5, 2016 ))).
@@ -63,12 +63,12 @@ generated_at: "2026-03-29T20:05:35.670Z"
       - **(i)** are affected by aquatic invasive species; and
       - **(ii)** need financial and technical assistance in order to maintain operations.
     - **(B)** In developing a management plan under subparagraph (A), the Secretary shall consider a management plan submitted by a participating State under section 4724(a) of title 16 .
-  - **(4)** The authority provided under this subsection shall terminate on September 30, 2028 .
+  - **(4)** The authority provided under this subsection shall terminate on September 30, 2024 .
 - **(g)**
-  - **(1)** In this subsection, the term “invasive species” has the meaning given the term in section 1 of Executive Order 13112 (64 Fed. Reg. 6183; relating to invasive species ( February 3, 1999 )) (as amended by section 2 of Executive Order 13751 (81 Fed. Reg. 88609; relating to safeguarding the Nation from the impacts of invasive species ( December 5, 2016 ))).
+  - **(1)** In this subsection, the term ‘invasive species’ has the meaning given the term in section 1 of Executive Order 13112 (64 Fed. Reg. 6183; relating to invasive species ( February 3, 1999 )) (as amended by section 2 of Executive Order 13751 (81 Fed. Reg. 88609; relating to safeguarding the Nation from the impacts of invasive species ( December 5, 2016 ))).
   - **(2)**
-    - **(A)** The Secretary may enter into partnerships with applicable States and other Federal agencies to carry out actions to prevent the introduction of, control, or eradicate, to the maximum extent practicable, invasive species that adversely impact water quantity, water quality, or ecosystems in the Platte River Basin, the Upper Colorado River Basin, the Upper Snake River Basin, the Lake Erie Basin, the Ohio River Basin, the Connecticut River Basin, and the Upper Missouri River Basin.
-    - **(B)** In selecting actions to carry out under a partnership under subparagraph (A), the Secretary shall give priority to projects that are intended to control or eradicate the Russian olive ( Elaeagnus angustifolia ), hydrilla ( Hydrilla verticillata ), or saltcedar (of the genus Tamarix ).
+    - **(A)** The Secretary may enter into partnerships with applicable States and other Federal agencies to carry out actions to prevent the introduction of, control, or eradicate, to the maximum extent practicable, invasive species that adversely impact water quantity or water quality in the Platte River Basin, the Upper Colorado River Basin, the Upper Snake River Basin, and the Upper Missouri River Basin.
+    - **(B)** In selecting actions to carry out under a partnership under subparagraph (A), the Secretary shall give priority to projects that are intended to control or eradicate the Russian olive ( Elaeagnus angustifolia ) or saltcedar (of the genus Tamarix ).
   - **(3)**
     - **(A)** In this paragraph:
       - **(i)** The term “eligible entity” means a partnership between or among 2 or more entities that—
@@ -84,5 +84,5 @@ generated_at: "2026-03-29T20:05:35.670Z"
       - **(ii)** where appropriate, to replace the invasive plant species described in clause (i) with ecologically suitable native species; and
       - **(iii)** to maintain and monitor riparian areas in which activities are carried out under clauses (i) and (ii).
     - **(C)** Not later than 18 months after December 27, 2020 , the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report describing the implementation of the pilot program.
-    - **(D)** The authority provided under this paragraph shall terminate on September 30, 2028 .
+    - **(D)** The authority provided under this paragraph shall terminate on September 30, 2024 .
   - **(4)** The Federal share of an action carried out under a partnership under paragraph (2) or an activity carried out under the pilot program under paragraph (3) shall not exceed 80 percent of the total cost of the action or activity.

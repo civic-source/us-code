@@ -3,9 +3,9 @@ title: "Section 2159 - Authority to apply for injunctions"
 usc_title: 7
 usc_section: "2159"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 2159"
-generated_at: "2026-03-29T20:02:52.644Z"
+generated_at: "2026-03-29T20:31:42.094Z"
 ---
 
 # § 2159. Authority to apply for injunctions

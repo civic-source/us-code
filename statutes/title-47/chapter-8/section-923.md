@@ -3,9 +3,9 @@ title: "Section 923 - Identification of reallocable frequencies"
 usc_title: 47
 usc_section: "923"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "47 U.S.C. § 923"
-generated_at: "2026-03-29T20:08:02.527Z"
+generated_at: "2026-03-29T20:35:00.378Z"
 ---
 
 # § 923. Identification of reallocable frequencies
@@ -124,7 +124,7 @@ generated_at: "2026-03-29T20:08:02.527Z"
       - **(vi)** The members of the Technical Panel shall not receive any compensation for service on the Technical Panel. If any such member is an employee of the agency of the official that appointed such member to the Technical Panel, compensation in the member’s capacity as such an employee shall not be considered compensation under this clause.
     - **(C)** The NTIA shall provide the Technical Panel with the administrative support services necessary to carry out its duties under this subsection, subsection (i), and section 928(g)(2)(E) of this title .
     - **(D)** Not later than 180 days after February 22, 2012 , the NTIA shall, after public notice and comment and subject to approval by the Director of OMB, adopt regulations to govern the workings of the Technical Panel.
-    - **(E)** Chapter 10 of title 5 and sections 552 and 552b of title 5 shall not apply to the Technical Panel.
+    - **(E)** The Federal Advisory Committee Act (5 U.S.C. App.) and sections 552 and 552b of title 5 shall not apply to the Technical Panel.
   - **(4)**
     - **(A)** Not later than 30 days after the submission of the plan under paragraph (1), the Technical Panel shall submit to the NTIA and to the Federal entity a report on the sufficiency of the plan, including whether the plan includes the information required by paragraph (2) and an assessment of the reasonableness of the proposed timelines and estimated relocation or sharing costs, including the costs of any proposed expansion of the capabilities of a Federal system in connection with relocation or sharing.
     - **(B)** If the Technical Panel finds the plan insufficient, the Federal entity shall, not later than 90 days after the submission of the report by the Technical Panel under subparagraph (A), submit to the Technical Panel a revised plan. Such revised plan shall be treated as a plan submitted under paragraph (1).
@@ -155,7 +155,7 @@ generated_at: "2026-03-29T20:08:02.527Z"
   - **(6)** The NTIA shall provide the dispute resolution board with the administrative support services necessary to carry out its duties under this subsection.
   - **(7)** A decision of the dispute resolution board may be appealed to the United States Court of Appeals for the District of Columbia Circuit by filing a notice of appeal with that court not later than 30 days after the date of such decision. Each party shall bear its own costs and expenses, including attorneys’ fees, for any appeal under this paragraph.
   - **(8)** Not later than 180 days after February 22, 2012 , the NTIA shall, after public notice and comment and subject to approval by OMB, adopt regulations to govern the working of any dispute resolution boards established under paragraph (2)(A) and the role of the Technical Panel in assisting any such board.
-  - **(9)** Chapter 10 of title 5 and sections 552 and 552b of title 5 shall not apply to a dispute resolution board established under paragraph (2)(A).
+  - **(9)** The Federal Advisory Committee Act (5 U.S.C. App.) and sections 552 and 552b of title 5 shall not apply to a dispute resolution board established under paragraph (2)(A).
 - **(j)**
   - **(1)** In evaluating a band of frequencies for possible reallocation for exclusive non-Federal use or shared use, the NTIA shall give priority to options involving reallocation of the band for exclusive non-Federal use and shall choose options involving shared use only when it determines, in consultation with the Director of the Office of Management and Budget, that relocation of a Federal entity from the band is not feasible because of technical or cost constraints.
   - **(2)** If the NTIA determines under paragraph (1) that relocation of a Federal entity from the band is not feasible, the NTIA shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives of the determination, including the specific technical or cost constraints on which the determination is based.

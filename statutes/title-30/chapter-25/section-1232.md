@@ -3,15 +3,15 @@ title: "Section 1232 - Reclamation fee"
 usc_title: 30
 usc_section: "1232"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "30 U.S.C. § 1232"
-generated_at: "2026-03-29T20:05:08.733Z"
+generated_at: "2026-03-29T20:33:07.408Z"
 ---
 
 # § 1232. Reclamation fee
 
-- **(a)** All operators of coal mining operations subject to the provisions of this chapter shall pay to the Secretary of the Interior, for deposit in the fund, a reclamation fee of 22.4 cents per ton of coal produced by surface coal mining and 9.6 cents per ton of coal produced by underground mining or 10 per centum of the value of the coal at the mine, as determined by the Secretary, whichever is less, except that the reclamation fee for lignite coal shall be at a rate of 2 per centum of the value of the coal at the mine, or 6.4 cents per ton, whichever is less.
-- **(b)** Such fee shall be paid no later than thirty days after the end of each calendar quarter beginning with the first calendar quarter occurring after August 3, 1977 , and ending September 30, 2034 .
+- **(a)** All operators of coal mining operations subject to the provisions of this chapter shall pay to the Secretary of the Interior, for deposit in the fund, a reclamation fee of 28 cents per ton of coal produced by surface coal mining and 12 cents per ton of coal produced by underground mining or 10 per centum of the value of the coal at the mine, as determined by the Secretary, whichever is less, except that the reclamation fee for lignite coal shall be at a rate of 2 per centum of the value of the coal at the mine, or 8 cents per ton, whichever is less.
+- **(b)** Such fee shall be paid no later than thirty days after the end of each calendar quarter beginning with the first calendar quarter occurring after August 3, 1977 , and ending September 30, 2021 .
 - **(c)** Together with such reclamation fee, all operators of coal mine operations shall submit a statement of the amount of coal produced during the calendar quarter, the method of coal removal and the type of coal, the accuracy of which shall be sworn to by the operator and notarized. Such statement shall include an identification of the permittee of the surface coal mining operation, any operator in addition to the permittee, the owner of the coal, the preparation plant, tripple, 1 1 So in original. Probably should be “tipple,”. or loading point for the coal, and the person purchasing the coal from the operator. The report shall also specify the number of the permit required under section 1256 of this title and the mine safety and health identification number. Each quarterly report shall contain a notification of any changes in the information required by this subsection since the date of the preceding quarterly report. The information contained in the quarterly reports under this subsection shall be maintained by the Secretary in a computerized database.
 - **(d)**
   - **(1)** Any person, corporate officer, agent or director, on behalf of a coal mine operator, who knowingly makes any false statement, representation or certification, or knowingly fails to make any statement, representation or certification required in this section shall, upon conviction, be punished by a fine of not more than $10,000, or by imprisonment for not more than one year, or both.
@@ -140,7 +140,7 @@ generated_at: "2026-03-29T20:05:08.733Z"
       - **(i)** each such transfer for the fiscal year is a percentage of the amount described;
       - **(ii)** the amount is determined without regard to subsection (h)(5)(A); and
       - **(iii)** the percentage transferred is the same for all transfers made under paragraph (1) for the fiscal year.
-    - **(C)** The dollar limitation under subparagraph (A) shall be increased by the amount of the cost to provide benefits which are taken into account under subsection (h)(2)(C)(ii) solely by reason of the amendments made by section 2(a) of the American Miner Benefits Improvement Act of 2020.
+    - **(C)** The dollar limitation under subparagraph (A) shall be increased by the amount of the cost to provide benefits which are taken into account under subsection (h)(2)(C)(ii) solely by reason of the amendments made by section 2(a) of the American Miner Benefits Improvement Act of 2020
   - **(4)**
     - **(A)** If the dollar limitation specified in paragraph (3)(A) exceeds the aggregate amount required to be transferred under paragraphs (1) and (2) for a fiscal year, the Secretary of the Treasury shall transfer an additional amount equal to the difference between such dollar limitation and such aggregate amount to the trustees of the 1974 UMWA Pension Plan to pay benefits required under that plan.
     - **(B)** The transfers described in subparagraph (A) shall cease as of the first fiscal year beginning after the first plan year for which the funded percentage (as defined in section 432(j)(2) of title 26 ) of the 1974 UMWA Pension Plan is at least 100 percent.

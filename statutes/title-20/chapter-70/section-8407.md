@@ -3,9 +3,9 @@ title: "Section 8407 - Repealed. Pub. L. 107–110, title X, § 1011(5)(A) , Jan
 usc_title: 20
 usc_section: "8407"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "20 U.S.C. § 8407"
-generated_at: "2026-03-29T20:04:33.126Z"
+generated_at: "2026-03-29T20:32:29.036Z"
 ---
 
 # §§ 8401 to 8407. Repealed. Pub. L. 107–110, title X, § 1011(5)(A) , Jan. 8, 2002 , 115 Stat. 1986

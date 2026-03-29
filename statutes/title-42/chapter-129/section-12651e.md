@@ -3,9 +3,9 @@ title: "Section 12651e - Officers"
 usc_title: 42
 usc_section: "12651e"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 12651e"
-generated_at: "2026-03-29T20:07:44.774Z"
+generated_at: "2026-03-29T20:34:54.125Z"
 ---
 
 # § 12651e. Officers
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T20:07:44.774Z"
   - **(3)** The Corporation shall determine the programs for which the Managing Directors shall have primary responsibility and shall establish the divisions of the Corporation to be headed by the Managing Directors.
 - **(b)**
   - **(1)** There shall be in the Corporation an Office of the Inspector General.
-  - **(2)** The Office shall be headed by an Inspector General, appointed in accordance with chapter 4 of title 5.
+  - **(2)** The Office shall be headed by an Inspector General, appointed in accordance with the Inspector General Act of 1978 [5 U.S.C. App.].
 - **(c)**
   - **(1)** There shall be in the Corporation a Chief Financial Officer, who shall be appointed by the Chief Executive Officer pursuant to subsections (a) and (b) of section 12651f of this title .
   - **(2)** The Chief Financial Officer shall—

@@ -3,9 +3,9 @@ title: "Section 1320e - Comparative clinical effectiveness research"
 usc_title: 42
 usc_section: "1320e"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 1320e"
-generated_at: "2026-03-29T20:07:43.567Z"
+generated_at: "2026-03-29T20:34:53.015Z"
 ---
 
 # § 1320e. Comparative clinical effectiveness research
@@ -131,7 +131,7 @@ generated_at: "2026-03-29T20:07:43.567Z"
   - **(2)** The Institute shall support forums to increase public awareness and obtain and incorporate public input and feedback through media (such as an Internet website) on research priorities, research findings, and other duties, activities, or processes the Institute determines appropriate.
   - **(3)** The Institute shall make available to the public and disclose through the official public Internet website of the Institute the following:
     - **(A)** Information contained in research findings as specified in subsection (d)(9).
-    - **(B)** The process and methods for the conduct of research, including the identity of the entity and the investigators conducing 6 6 So in original. Probably should be “conducting”. such research and any conflicts of interests of such parties, any direct or indirect links the entity has to industry, and research protocols, including measures taken, methods of research and analysis, research results, and such other information the Institute determines appropriate) 5 concurrent with the release of research findings.
+    - **(B)** The process and methods for the conduct of research, including the identity of the entity and the investigators conducing 6 6 So in original. Probably should be “conducting”. such research and any conflicts of interests of such parties, any direct or indirect links the entity has to industry, and research protocols, including measures taken, methods of research and analysis, research results, and such other information the Institute determines appropriate) 7 7 So in original. concurrent with the release of research findings.
     - **(C)** Notice of public comment periods under paragraph (1), including deadlines for public comments.
     - **(D)** Subsequent comments received during each of the public comment periods.
     - **(E)** In accordance with applicable laws and processes and as the Institute determines appropriate, proceedings of the Institute.
@@ -141,7 +141,7 @@ generated_at: "2026-03-29T20:07:43.567Z"
       - **(ii)** By the Board in appointing members of the methodology committee under subsection (d)(6);
       - **(iii)** By the Institute in the annual report under subsection (d)(10), except that, in the case of individuals contributing to any such peer review process, such description shall be in a manner such that those individuals cannot be identified with a particular research project.
     - **(B)** Conflicts of interest shall be disclosed as described in subparagraph (A) as soon as practicable on the Internet web site of the Institute. The information disclosed under the preceding sentence shall include the type, nature, and magnitude of the interests of the individual involved, except to the extent that the individual recuses himself or herself from participating in the consideration of or any other activity with respect to the study as to which the potential conflict exists.
-- **(i)** The Institute, 5 its Board or staff, shall be prohibited from accepting gifts, bequeaths, 7 7 So in original. Probably should be “bequests”. or donations of services or property. In addition, the Institute shall be prohibited from establishing a corporation or generating revenues from activities other than as provided under this section.
+- **(i)** The Institute, 7 its Board or staff, shall be prohibited from accepting gifts, bequeaths, 8 8 So in original. Probably should be “bequests”. or donations of services or property. In addition, the Institute shall be prohibited from establishing a corporation or generating revenues from activities other than as provided under this section.
 - **(j)**
   - **(1)** Nothing in this section shall be construed—
     - **(A)** to permit the Institute to mandate coverage, reimbursement, or other policies for any public or private payer; or

@@ -3,9 +3,9 @@ title: "Section 8013 - Supportive housing for persons with disabilities"
 usc_title: 42
 usc_section: "8013"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 8013"
-generated_at: "2026-03-29T20:07:44.586Z"
+generated_at: "2026-03-29T20:34:53.914Z"
 ---
 
 # § 8013. Supportive housing for persons with disabilities
@@ -158,16 +158,6 @@ generated_at: "2026-03-29T20:07:44.586Z"
         - **(II)** is paid expenses, reasonable benefits, or a nominal fee for such services; and
       - **(iii)** is not otherwise employed at any time in the construction work.
   - **(6)** Amounts for project reserves for a project assisted under this section may be used for costs, subject to reasonable limitations as the Secretary determines appropriate, for reducing the number of dwelling units in the project. Such use shall be subject to the approval of the Secretary to ensure that the use is designed to retrofit units that are currently obsolete or unmarketable.
-  - **(7)** Each dwelling unit assisted under this section shall contain installed carbon monoxide alarms or detectors that meet or exceed—
-    - **(A)** the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
-    - **(B)** any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
-  - **(8)**
-    - **(A)** Each dwelling unit assisted under this section shall contain qualifying smoke alarms that are installed in accordance with applicable codes and standards published by the International Code Council or the National Fire Protection Association and the requirements of the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.
-    - **(B)** For purposes of this paragraph, the following definitions shall apply:
-      - **(i)** The term “smoke alarm” has the meaning given the term “smoke detector” in section 2225(d) of title 15 .
-      - **(ii)** The term “qualifying smoke alarm” means a smoke alarm that—
-        - **(I)** in the case of a dwelling unit built before December 29, 2022 , and not substantially rehabilitated after December 29, 2022 —
-        - **(II)** in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022 , is hardwired.
 - **(k)** As used in this section—
   - **(1)** The term “group home” means a single family residential structure designed or adapted for occupancy by not more than 8 persons with disabilities, which provides a separate bedroom for each tenant of the residence. The Secretary may waive the project size limitation contained in the previous sentence if the applicant demonstrates that local market conditions dictate the development of a larger project. Not later than the date of the exercise of any waiver permitted under the previous sentence, the Secretary shall notify the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives of the waiver or the intention to exercise the waiver, together with a detailed explanation of the reason for the waiver. Not more than 1 home may be located on any one site and no such home may be located on a site contiguous to another site containing such a home.
   - **(2)** The term “person with disabilities” means a household composed of one or more persons who is 18 years of age or older and less than 62 years of age, and who has a disability. A person shall be considered to have a disability if such person is determined, pursuant to regulations issued by the Secretary to have a physical, mental, or emotional impairment which (A) is expected to be of long-continued and indefinite duration, (B) substantially impedes his or her ability to live independently, and (C) is of such a nature that such ability could be improved by more suitable housing conditions. A person shall also be considered to have a disability if such person has a developmental disability as defined in section 15002 of this title . The Secretary shall prescribe such regulations as may be necessary to prevent abuses in determining, under the definitions contained in this paragraph, the eligibility of families and persons for admission to and occupancy of housing assisted under this section. Notwithstanding the preceding provisions of this paragraph, the term “person with disabilities” includes two or more persons with disabilities living together, one or more such persons living with another person who is determined (under regulations prescribed by the Secretary) to be important to their care or well-being, and the surviving member or members of any household described in the first sentence of this paragraph who were living, in a unit assisted under this section, with the deceased member of the household at the time of his or her death.

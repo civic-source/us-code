@@ -3,9 +3,9 @@ title: "Section 3021 - Original appointments and reappointments"
 usc_title: 33
 usc_section: "3021"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "33 U.S.C. § 3021"
-generated_at: "2026-03-29T20:05:35.862Z"
+generated_at: "2026-03-29T20:33:34.322Z"
 ---
 
 # § 3021. Original appointments and reappointments
@@ -37,9 +37,7 @@ generated_at: "2026-03-29T20:05:35.862Z"
 - **(b)**
   - **(1)** Except as provided in paragraph (2), an individual who previously served in the commissioned officer corps of the Administration may be appointed by the Secretary to the grade the individual held prior to separation.
   - **(2)** An appointment under paragraph (1) to a position of importance and responsibility designated under section 3028 of this title may only be made by the President.
-- **(c)** An appointment under subsection (a) or (b) may—
-  - **(1)** be given only to an individual who is a citizen of the United States; and
-  - **(2)** not be given. 1 1 So in original. The period probably should not appear. to an individual until the individual’s mental, moral, physical, and professional fitness to perform the duties of an officer has been established under such regulations as the Secretary shall prescribe.
+- **(c)** An appointment under subsection (a) or (b) may not be given to an individual until the individual’s mental, moral, physical, and professional fitness to perform the duties of an officer has been established under such regulations as the Secretary shall prescribe.
 - **(d)** Appointees under this section shall take precedence in the grade to which appointed in accordance with the dates of their commissions as commissioned officers in such grade. The order of precedence of appointees whose dates of commission are the same shall be determined by the Secretary.
 - **(e)** For inter-service transfers (as described in Department of Defense Directive 1300.4 (dated December 27, 2006 )) the Secretary shall—
   - **(1)** coordinate with the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating to promote and streamline inter-service transfers;

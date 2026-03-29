@@ -3,9 +3,9 @@ title: "Section 352 - Deposits subject to lease; consent of department heads; la
 usc_title: 30
 usc_section: "352"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "30 U.S.C. § 352"
-generated_at: "2026-03-29T20:05:08.698Z"
+generated_at: "2026-03-29T20:33:07.374Z"
 ---
 
 # § 352. Deposits subject to lease; consent of department heads; lands excluded

@@ -3,9 +3,9 @@ title: "Section 14 - Repealed. Pub. L. 104–58, title I, § 104(g)(3) , Nov. 28
 usc_title: 42
 usc_section: "14"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 14"
-generated_at: "2026-03-29T20:07:44.116Z"
+generated_at: "2026-03-29T20:34:53.456Z"
 ---
 
 # §§ 1962d–12 to 1962d–14. Repealed. Pub. L. 104–58, title I, § 104(g)(3) , Nov. 28, 1995 , 109 Stat. 560

@@ -3,15 +3,15 @@ title: "Section 4372 - Unit cost reports: quarterly report from program manager 
 usc_title: 10
 usc_section: "4372"
 chapter: 325
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 4372"
-generated_at: "2026-03-29T20:03:09.786Z"
+generated_at: "2026-03-29T20:31:54.694Z"
 ---
 
 # § 4372. Unit cost reports: quarterly report from program manager to service acquisition executive
 
 - **(a)**
-  - **(1)** The program manager for a major defense acquisition program (other than a program not required to be included in the Selected Acquisition Report for that quarter under section 4351(b)(3) of this title ) shall, on a quarterly basis, submit to the service acquisition executive designated by the Secretary concerned a written report on the unit costs of the program (or of each designated major subprogram under the program).
+  - **(1)** The program manager for a major defense acquisition program (other than a program not required to be included in the Selected Acquisition Report for that quarter under section 4352(c) of this title ) shall, on a quarterly basis, submit to the service acquisition executive designated by the Secretary concerned a written report on the unit costs of the program (or of each designated major subprogram under the program).
   - **(2)** Each report shall be submitted not more than 30 calendar days after the end of that quarter.
 - **(b)** The program manager shall include in each such unit cost report the following information with respect to the program (as of the last day of the quarter for which the report is made):
   - **(1)** The program acquisition unit cost for the program (or for each designated major subprogram under the program).

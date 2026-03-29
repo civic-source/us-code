@@ -3,9 +3,9 @@ title: "Section 5101 - Claims and forms"
 usc_title: 38
 usc_section: "5101"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "38 U.S.C. § 5101"
-generated_at: "2026-03-29T20:05:54.750Z"
+generated_at: "2026-03-29T20:34:04.974Z"
 ---
 
 # § 5101. Claims and forms
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T20:05:54.750Z"
   - **(1)**
     - **(A)** Except as provided in subparagraph (B), a specific claim in the form prescribed by the Secretary (or jointly with the Commissioner of Social Security, as prescribed by section 5105 of this title ) must be filed in order for benefits to be paid or furnished to any individual under the laws administered by the Secretary.
     - **(B)**
-      - **(i)** The Secretary may pay benefits under chapters 13 and 15 and sections 2303, 2307, and 5121 of this title to a survivor of a veteran who has not filed a formal claim if the Secretary determines that the record contains sufficient evidence to establish the entitlement of the survivor to such benefits.
+      - **(i)** The Secretary may pay benefits under chapters 13 and 15 and sections 2303, 1 2307, and 5121 of this title to a survivor of a veteran who has not filed a formal claim if the Secretary determines that the record contains sufficient evidence to establish the entitlement of the survivor to such benefits.
       - **(ii)** For purposes of this subparagraph and section 5110 of this title , the earlier of the following dates shall be treated as the date of the receipt of the survivor’s application for benefits described in clause (i):
         - **(I)** The date on which the survivor of a veteran (or the representative of such a survivor) notifies the Secretary of the death of the veteran through a death certificate or other relevant evidence that establishes entitlement to survivors’ benefits identified in clause (i).
         - **(II)** The head of any other department or agency of the Federal Government notifies the Secretary of the death of the veteran.
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T20:05:54.750Z"
   - **(3)** The costs of administering this subsection shall be paid for from amounts available to the Department of Veterans Affairs for the payment of compensation and pension.
 - **(d)**
   - **(1)** The Secretary shall publish in a central location on the internet website of the Department—
-    - **(A)** the disability benefit questionnaire forms of the Department for the submittal of evidence from non-Department medical providers regarding a disability of a claimant, including any form or process that replaces any such disability benefit questionnaire form, including (except as provided in paragraph (4)(A)) all disability benefit questionnaire forms available to personnel of the Veterans Health Administration and covered non-Department providers for the completion of examinations with respect to medical disability of applicants for benefits under laws administered by the Secretary; and
+    - **(A)** the disability benefit questionnaire forms of the Department for the submittal of evidence from non-Department medical providers regarding a disability of a claimant, including any form or process that replaces any such disability benefit questionnaire form; and
     - **(B)** details about the process used by the Department for submittal of evidence described in subparagraph (A).
   - **(2)** Subject to section 6103 of this title , if the Secretary updates a form described in paragraph (1)(A), the Secretary shall—
     - **(A)** accept the previous version of the form filed by a claimant if—
@@ -38,15 +38,8 @@ generated_at: "2026-03-29T20:05:54.750Z"
     - **(B)** request from the claimant (or from a non-Department medical provider if the claimant has authorized the provider to share health information with the Secretary) any other information that the updated version of the form requires; and
     - **(C)** apply the laws and regulations required to adjudicate the claim as if the claimant filed the updated version of the form.
   - **(3)** The Secretary may waive any interagency approval process required to approve a modification to a disability benefit questionnaire form if such requirement only applies by reason of the forms being made public.
-  - **(4)**
-    - **(A)** The Secretary may exclude from publication under clauses (i) and (ii) of paragraph (1)(A) 1 1 So in original. Subpar. (A) of par. (1) does not contain clauses. any form described in subparagraph (B) of this paragraph that the Secretary determines could not reasonably be completed to a clinically acceptable standard by someone not an employee or a contractor of the Department.
-    - **(B)** A form described in this subparagraph is a form that—
-      - **(i)** was available or in use at any time after the date of the enactment of the Veterans Benefits Improvement Act of 2024; and
-      - **(ii)** has not been published under paragraph (1).
-    - **(C)** The Secretary shall include on the same internet website as the website on which forms are published under paragraph (1)(A) a list of forms that have been excluded from publication pursuant to subparagraph (A), and for each such form, a justification for the exclusion of the form from publication.
 - **(e)** In this section:
   - **(1)** The term “mentally incompetent” with respect to an individual means that the individual lacks the mental capacity—
     - **(A)** to provide substantially accurate information needed to complete a form; or
     - **(B)** to certify that the statements made on a form are true and complete.
   - **(2)** The term “TIN” has the meaning given the term in section 7701(a)(41) of the Internal Revenue Code of 1986.
-  - **(3)** The term “covered non-Department provider” means a medical provider who is not an employee of the Department and who provides examinations with respect to medical disability of applicants for benefits under laws administered by the Secretary pursuant to a contract with the Department.

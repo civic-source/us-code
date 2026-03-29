@@ -3,9 +3,9 @@ title: "Section 24315 - Reports and audits"
 usc_title: 49
 usc_section: "24315"
 chapter: 243
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 24315"
-generated_at: "2026-03-29T20:07:58.511Z"
+generated_at: "2026-03-29T20:35:10.828Z"
 ---
 
 # § 24315. Reports and audits
@@ -18,28 +18,17 @@ generated_at: "2026-03-29T20:07:58.511Z"
     - **(D)** the revenue-to-cost ratio;
     - **(E)** revenues;
     - **(F)** the United States Government subsidy;
-    - **(G)** the subsidy not provided by the United States Government;
-    - **(H)** on-time performance; and
-    - **(I)** any change made to a route’s or service’s frequency or station stops;
+    - **(G)** the subsidy not provided by the United States Government; and
+    - **(H)** on-time performance;
   - **(2)** provides relevant information about a decision to pay an officer of Amtrak more than the rate for level I of the Executive Schedule under section 5312 of title 5 ; and
   - **(3)** specifies—
     - **(A)** significant operational problems Amtrak identifies; and
     - **(B)** proposals by Amtrak to solve those problems.
 - **(b)**
   - **(1)** Not later than February 15 of each year, Amtrak shall submit to the President and Congress a complete report of its operations, activities, and accomplishments, including a statement of revenues and expenditures for the prior fiscal year. The report—
-    - **(A)** shall include a discussion and accounting of Amtrak’s success in meeting the goal described in section 24902(a);
-    - **(B)** may include recommendations for legislation, including the amount of financial assistance needed for operations and capital improvements, the method of computing the assistance, and the sources of the assistance;
-    - **(C)** shall incorporate the category described in section 24319(c)(2)(C);
-    - **(D)** shall include an action plan for bringing Amtrak-served stations that are not in compliance with the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12101 et seq.) into compliance with such Act, as required by the settlement agreement entered into in 2020 between Amtrak and the Department of Justice;
-    - **(E)** shall include a status report on—
-      - **(i)** Amtrak-served stations for which Amtrak is solely responsible for compliance with such Act based on a station assessment carried out by Amtrak, including a timeline for any required compliance with such Act, as required by the settlement agreement;
-      - **(ii)** Amtrak-served stations for which Amtrak has a shared responsibility for compliance with such Act based on a station assessment carried out by Amtrak or by the party responsible for such compliance, including a timeline for any required compliance with such Act for the portions of the station for which Amtrak is the responsible party consistent with the terms of the settlement agreement, identifying who is responsible for compliance (and the status of the compliance of each responsible party with such Act) for such portions and the timeline for compliance in cases in which Amtrak is not the responsible party; and
-      - **(iii)** the status of compliance with such Act for all Amtrak-served stations for which Amtrak is not the responsible party, nor is responsible for a portion of the station, and identify the entity or entities that have responsibility for compliance with such Act, based on a station assessment carried out by Amtrak or the party responsible under such Act.
+    - **(A)** shall include a discussion and accounting of Amtrak’s success in meeting the goal of section 24902(b) 1 1 See References in Text note below. of this title; and
+    - **(B)** may include recommendations for legislation, including the amount of financial assistance needed for operations and capital improvements, the method of computing the assistance, and the sources of the assistance.
   - **(2)** Amtrak may submit reports to the President and Congress at other times Amtrak considers desirable.
-  - **(3)** Amtrak may meet the requirements described in clauses (ii) and (iii) of paragraph (1)(E) by demonstrating that Amtrak took reasonable measures to obtain cooperation from responsible entities.
-  - **(4)** Amtrak shall submit the action plan and status report required under subparagraphs (D) and (E) of paragraph (1)—
-    - **(A)** annually while the settlement agreement referred to in paragraph (1)(D) is in effect; and
-    - **(B)** every 5 years beginning on the first day the settlement is no longer in effect.
 - **(c)** The Secretary of Transportation shall prepare a report on the effectiveness of this part in meeting the requirements for a balanced transportation system in the United States. The report may include recommendations for legislation. The Secretary shall include this report as part of the annual report the Secretary submits under section 308(a) of this title .
 - **(d)** An independent certified public accountant shall audit the financial statements of Amtrak each year. The audit shall be carried out at the place at which the financial statements normally are kept and under generally accepted auditing standards. A report of the audit shall be included in the report required by subsection (a) of this section.
 - **(e)** The Comptroller General may conduct performance audits of the activities and transactions of Amtrak. Each audit shall be conducted at the place at which the Comptroller General decides and under generally accepted management principles. The Comptroller General may prescribe regulations governing the audit.

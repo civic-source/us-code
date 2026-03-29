@@ -3,9 +3,9 @@ title: "Section 2116 - Marine safety strategy, goals, and performance assessment
 usc_title: 46
 usc_section: "2116"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "46 U.S.C. § 2116"
-generated_at: "2026-03-29T20:08:05.292Z"
+generated_at: "2026-03-29T20:35:02.355Z"
 ---
 
 # § 2116. Marine safety strategy, goals, and performance assessments
@@ -20,14 +20,14 @@ generated_at: "2026-03-29T20:08:05.292Z"
     - **(A)** To increase the number of safety examinations on all high-risk vessels.
     - **(B)** To eliminate the backlog of marine safety-related rulemakings.
     - **(C)** To improve the quality and effectiveness of marine safety information databases by ensuring that all Coast Guard personnel accurately and effectively report all safety, casualty, and injury information.
-    - **(D)** To provide for a sufficient number of Coast Guard marine safety personnel, and provide adequate facilities and equipment to carry out the functions referred to in section 504(c) of title 14 .
+    - **(D)** To provide for a sufficient number of Coast Guard marine safety personnel, and provide adequate facilities and equipment to carry out the functions referred to in section 93(c) 1 1 See References in Text note below. of title 14.
   - **(2)** The 5-year strategy and plan shall include estimates of—
     - **(A)** the funds and staff resources needed to accomplish each activity included in the strategy and plan; and
     - **(B)** the staff skills and training needed for timely and effective accomplishment of each goal.
 - **(c)** Not later than 5 years after the date of the enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, and every 5 years thereafter, the Secretary shall submit to Congress the strategy and plan not later than 60 days following the transmission of the President’s budget submission under section 1105 of title 31 .
 - **(d)**
   - **(1)** In conjunction with the submission of the 5-year strategy and plan, the Commandant shall assess the progress of the Coast Guard toward achieving the goals set forth in subsection (b). The Commandant shall convey the Commandant’s assessment to the employees of the marine safety workforce and shall identify any deficiencies that should be remedied before the next progress assessment.
-  - **(2)** The Secretary shall periodically brief the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives—
+  - **(2)** The Secretary shall periodically brief the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representative—
     - **(A)** on the performance of the marine safety program in achieving the goals of the marine safety strategy and plan under subsection (a) for the period covered by the briefing;
     - **(B)** on the program’s mission performance in achieving numerical measurable goals established under subsection (b), including—
       - **(i)** the number of civilian and military Coast Guard personnel assigned to marine safety positions; and

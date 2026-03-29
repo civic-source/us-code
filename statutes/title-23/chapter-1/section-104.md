@@ -3,83 +3,66 @@ title: "Section 104 - Apportionment"
 usc_title: 23
 usc_section: "104"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "23 U.S.C. § 104"
-generated_at: "2026-03-29T20:04:51.965Z"
+generated_at: "2026-03-29T20:32:49.800Z"
 ---
 
 # § 104. Apportionment
 
 - **(a)**
   - **(1)** There is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to be made available to the Secretary for administrative expenses of the Federal Highway Administration—
-    - **(A)** $490,964,697 for fiscal year 2022;
-    - **(B)** $500,783,991 for fiscal year 2023;
-    - **(C)** $510,799,671 for fiscal year 2024;
-    - **(D)** $521,015,664 for fiscal year 2025; and
-    - **(E)** $531,435,977 for fiscal year 2026.
+    - **(A)** $453,000,000 for fiscal year 2016;
+    - **(B)** $459,795,000 for fiscal year 2017;
+    - **(C)** $466,691,925 for fiscal year 2018;
+    - **(D)** $473,692,304 for fiscal year 2019; and
+    - **(E)** $480,797,689 for fiscal year 2020.
   - **(2)** The amounts authorized to be appropriated by this subsection shall be used—
     - **(A)** to administer the provisions of law to be funded from appropriations for the Federal-aid highway program and programs authorized under chapter 2;
     - **(B)** to make transfers of such sums as the Secretary determines to be appropriate to the Appalachian Regional Commission for administrative activities associated with the Appalachian development highway system; and
     - **(C)** to reimburse, as appropriate, the Office of Inspector General of the Department of Transportation for the conduct of annual audits of financial statements in accordance with section 3521 of title 31 .
   - **(3)** The amounts made available under paragraph (1) shall remain available until expended.
-- **(b)** The Secretary shall distribute the amount of the base apportionment apportioned to a State for a fiscal year under subsection (c) among the national highway performance program, the surface transportation block grant program, the highway safety improvement program, the congestion mitigation and air quality improvement program, the national highway freight program, the carbon reduction program under section 175, to carry out subsection (c) of the PROTECT program under section 176, and to carry out section 134 as follows:
-  - **(1)** For the national highway performance program, 59.0771195921461 percent of the amount remaining after distributing amounts under paragraphs (4), (5), and (6).
-  - **(2)** For the surface transportation block grant program, 28.7402203421251 percent of the amount remaining after distributing amounts under paragraphs (4), (5), and (6).
-  - **(3)** For the highway safety improvement program, 6.70605141316253 percent of the amount remaining after distributing amounts under paragraphs (4), (5), and (6).
-  - **(4)**
-    - **(A)** For the congestion mitigation and air quality improvement program, an amount determined for the State under subparagraphs (B) and (C).
-    - **(B)** The total amount for the congestion mitigation and air quality improvement program for all States shall be—
-      - **(i)** $2,536,490,803 for fiscal year 2022;
-      - **(ii)** $2,587,220,620 for fiscal year 2023;
-      - **(iii)** $2,638,965,032 for fiscal year 2024;
-      - **(iv)** $2,691,744,332 for fiscal year 2025; and
-      - **(v)** $2,745,579,213 for fiscal year 2026.
-    - **(C)** For each fiscal year, the Secretary shall distribute among the States the total amount for the congestion mitigation and air quality improvement program under subparagraph (B) so that each State receives an amount equal to the proportion that—
-      - **(i)** the amount apportioned to the State for the congestion mitigation and air quality improvement program for fiscal year 2020; bears to
-      - **(ii)** the total amount of funds apportioned to all States for that program for fiscal year 2020.
+- **(b)** The Secretary shall distribute the amount of the base apportionment apportioned to a State for a fiscal year under subsection (c) among the national highway performance program, the surface transportation block grant program, the highway safety improvement program, the congestion mitigation and air quality improvement program, the national highway freight program, and to carry out section 134 as follows:
+  - **(1)** For the national highway performance program, 63.7 percent of the amount remaining after distributing amounts under paragraphs (4), (5), and (6).
+  - **(2)** For the surface transportation block grant program, 29.3 percent of the amount remaining after distributing amounts under paragraphs (4), (5), and (6).
+  - **(3)** For the highway safety improvement program, 7 percent of the amount remaining after distributing amounts under paragraphs (4), (5), and (6).
+  - **(4)** For the congestion mitigation and air quality improvement program, an amount determined by multiplying the amount of the base apportionment remaining for the State under subsection (c) after making the set aside in accordance with paragraph (5) by the proportion that—
+    - **(A)** the amount apportioned to the State for the congestion mitigation and air quality improvement program for fiscal year 2009; bears to
+    - **(B)** the total amount of funds apportioned to the State for that fiscal year for the programs referred to in section 105(a)(2) (except for the high priority projects program referred to in section 105(a)(2)(H)), as in effect on the day before the date of enactment of the MAP–21.
   - **(5)**
     - **(A)** For the national highway freight program under section 167, the Secretary shall set aside from the base apportionment determined for a State under subsection (c) an amount determined for the State under subparagraphs (B) and (C).
     - **(B)** The total amount set aside for the national highway freight program for all States shall be—
-      - **(i)** $1,373,932,519 for fiscal year 2022;
-      - **(ii)** $1,401,411,169 for fiscal year 2023;
-      - **(iii)** $1,429,439,392 for fiscal year 2024;
-      - **(iv)** $1,458,028,180 for fiscal year 2025; and
-      - **(v)** $1,487,188,740 for fiscal year 2026.
+      - **(i)** $1,150,000,000 for fiscal year 2016;
+      - **(ii)** $1,100,000,000 for fiscal year 2017;
+      - **(iii)** $1,200,000,000 for fiscal year 2018;
+      - **(iv)** $1,350,000,000 for fiscal year 2019; and
+      - **(v)** $1,500,000,000 for fiscal year 2020.
     - **(C)** For each fiscal year, the Secretary shall distribute among the States the total set-aside amount for the national highway freight program under subparagraph (B) so that each State receives the amount equal to the proportion that—
       - **(i)** the total base apportionment determined for the State under subsection (c); bears to
       - **(ii)** the total base apportionments for all States under subsection (c).
-  - **(6)**
-    - **(A)** To carry out section 134, an amount determined for the State under subparagraphs (B) and (C).
-    - **(B)** The total amount for metropolitan planning for all States shall be—
-      - **(i)** $438,121,139 for fiscal year 2022;
-      - **(ii)** $446,883,562 for fiscal year 2023;
-      - **(iii)** $455,821,233 for fiscal year 2024;
-      - **(iv)** $464,937,657 for fiscal year 2025; and
-      - **(v)** $474,236,409 for fiscal year 2026.
-    - **(C)** For each fiscal year, the Secretary shall distribute among the States the total amount to carry out section 134 under subparagraph (B) so that each State receives an amount equal to the proportion that—
-      - **(i)** the amount apportioned to the State to carry out section 134 for fiscal year 2020; bears to
-      - **(ii)** the total amount of funds apportioned to all States to carry out section 134 for fiscal year 2020.
-  - **(7)** For the carbon reduction program under section 175, 2.56266964565637 percent of the amount remaining after distributing amounts under paragraphs (4), (5), and (6).
-  - **(8)** To carry out subsection (c) of the PROTECT program under section 176, 2.91393900690991 percent of the amount remaining after distributing amounts under paragraphs (4), (5), and (6).
+    - **(D)** Of the amount set aside under this paragraph for a State, the Secretary shall use to carry out section 134 an amount determined by multiplying the set-aside amount by the proportion that—
+      - **(i)** the amount apportioned to the State to carry out section 134 for fiscal year 2009; bears to
+      - **(ii)** the total amount of funds apportioned to the State for that fiscal year for the programs referred to in section 105(a)(2) (except for the high priority projects program referred to in section 105(a)(2)(H)), as in effect on the day before the date of enactment of MAP–21 ( Public Law 112–141 ; 126 Stat. 405 ).
+  - **(6)** To carry out section 134, an amount determined by multiplying the amount of the base apportionment remaining for a State under subsection (c) after making the set aside in accordance with paragraph (5) by the proportion that—
+    - **(A)** the amount apportioned to the State to carry out section 134 for fiscal year 2009; bears to
+    - **(B)** the total amount of funds apportioned to the State for that fiscal year for the programs referred to in section 105(a)(2) (except for the high priority projects program referred to in section 105(a)(2)(H)), as in effect on the day before the date of enactment of the MAP–21.
 - **(c)**
-  - **(1)** For fiscal year 2022 and each fiscal year thereafter, the amount for each State shall be determined as follows:
+  - **(1)** For each of fiscal years 2016 through 2020, the amount for each State shall be determined as follows:
     - **(A)** The initial amounts for each State shall be determined by multiplying—
-      - **(i)** the base apportionment; by
+      - **(i)** each of—
+        - **(I)** the base apportionment;
+        - **(II)** supplemental funds reserved under subsection (h)(1) for the national highway performance program; and
+        - **(III)** supplemental funds reserved under subsection (h)(2) for the surface transportation block grant program; by
       - **(ii)** the share for each State, which shall be equal to the proportion that—
-        - **(I)** the amount of apportionments that the State received for fiscal year 2021; bears to
+        - **(I)** the amount of apportionments that the State received for fiscal year 2015; bears to
         - **(II)** the amount of those apportionments received by all States for that fiscal year.
-    - **(B)** The initial amounts resulting from the calculation under subparagraph (A) shall be adjusted to ensure that each State receives an aggregate apportionment that is—
-      - **(i)** equal to at least 95 percent of the estimated tax payments paid into the Highway Trust Fund (other than the Mass Transit Account) in the most recent fiscal year for which data are available that are—
-        - **(I)** attributable to highway users in the State; and
-        - **(II)** associated with taxes in effect on July 1, 2019 , and only up to the rate those taxes were in effect on that date;
-      - **(ii)** at least 2 percent greater than the apportionment that the State received for fiscal year 2021; and
-      - **(iii)** at least 1 percent greater than the apportionment that the State received for the previous fiscal year.
-  - **(2)** On October 1 of fiscal year 2022 and each fiscal year thereafter, the Secretary shall apportion the sums authorized to be appropriated for expenditure on the national highway performance program under section 119, the surface transportation block grant program under section 133, the highway safety improvement program under section 148, the congestion mitigation and air quality improvement program under section 149, the national highway freight program under section 167, the carbon reduction program under section 175, to carry out subsection (c) of the PROTECT program under section 176, and to carry out section 134 in accordance with paragraph (1).
+    - **(B)** The initial amounts resulting from the calculation under subparagraph (A) shall be adjusted to ensure that each State receives an aggregate apportionment equal to at least 95 percent of the estimated tax payments attributable to highway users in the State paid into the Highway Trust Fund (other than the Mass Transit Account) in the most recent fiscal year for which data are available.
+  - **(2)** On October 1 of fiscal years 2016 through 2020, the Secretary shall apportion the sums authorized to be appropriated for expenditure on the national highway performance program under section 119, the surface transportation block grant program under section 133, the highway safety improvement program under section 148, the congestion mitigation and air quality improvement program under section 149, the national highway freight program under section 167, and to carry out section 134 in accordance with paragraph (1).
 - **(d)**
   - **(1)**
     - **(A)**
-      - **(i)** Except as provided in clause (ii), the amounts apportioned to a State under subsection (b)(6) shall be made available by the State to the metropolitan planning organizations responsible for carrying out section 134 in the State.
-      - **(ii)** A State that received the minimum apportionment for use in carrying out section 134 for fiscal year 2009 may, subject to the approval of the Secretary, use the funds apportioned under subsection (b)(6) to fund transportation planning outside of urbanized areas.
+      - **(i)** Except as provided in clause (ii), the amounts apportioned to a State under paragraphs (5)(D) and (6) of subsection (b) shall be made available by the State to the metropolitan planning organizations responsible for carrying out section 134 in the State.
+      - **(ii)** A State that received the minimum apportionment for use in carrying out section 134 for fiscal year 2009 may, subject to the approval of the Secretary, use the funds apportioned under paragraphs (5)(D) and (6) of subsection (b) to fund transportation planning outside of urbanized areas.
     - **(B)** Any funds that are not used to carry out section 134 may be made available by a metropolitan planning organization to the State to fund activities under section 135.
   - **(2)**
     - **(A)** The distribution within any State of the planning funds made available to organizations under paragraph (1) shall be in accordance with a formula that—
@@ -103,7 +86,7 @@ generated_at: "2026-03-29T20:04:51.965Z"
     - **(A)** Subject to subparagraph (B), amounts made available for highway projects or transportation planning under chapter 53 of title 49 may be transferred to and administered by the Secretary in accordance with this title.
     - **(B)** The provisions of chapter 53 of title 49 relating to the non-Federal share shall apply to amounts transferred under subparagraph (A).
   - **(3)**
-    - **(A)** Subject to subparagraph (B), the Secretary may, at the request of a State, transfer amounts apportioned or allocated under this title to the State to another State, or to an operating administration of the Department of Transportation, for the purpose of funding 1 or more projects that are eligible for assistance with amounts so apportioned or allocated.
+    - **(A)** Subject to subparagraph (B), the Secretary may, at the request of a State, transfer amounts apportioned or allocated under this title to the State to another State, or to the Federal Highway Administration, for the purpose of funding 1 or more projects that are eligible for assistance with amounts so apportioned or allocated.
     - **(B)** The transfer shall have no effect on any apportionment of amounts to a State under this section.
     - **(C)** Amounts that are apportioned or allocated to a State under subsection (b)(3) (as in effect on the day before the date of enactment of the MAP–21) or subsection (b)(2) and attributed to an urbanized area of a State with a population of more than 200,000 individuals under section 133(d) may be transferred under this paragraph only if the metropolitan planning organization designated for the area concurs, in writing, with the transfer request.
   - **(4)** Obligation authority for amounts transferred under this subsection shall be transferred in the same manner and amount as the amounts for the projects that are transferred under this section.
@@ -141,4 +124,22 @@ generated_at: "2026-03-29T20:04:51.965Z"
         - **(III)** 50,000 or more individuals but less than 200,000 individuals; or
         - **(IV)** 200,000 or more individuals; and
       - **(viii)** available information on the estimated cost of the project as of the start of project construction, or the revised cost estimate based on a description of revisions to the scope of work or other factors affecting project cost other than cost overruns.
-- **(h)** In this section, the term “base apportionment” means the combined amount authorized for appropriation for the national highway performance program under section 119, the surface transportation block grant program under section 133, the highway safety improvement program under section 148, the congestion mitigation and air quality improvement program under section 149, the national highway freight program under section 167, the carbon reduction program under section 175, to carry out subsection (c) of the PROTECT program under section 176, and to carry out section 134.
+- **(h)**
+  - **(1)**
+    - **(A)** Before making an apportionment for a fiscal year under subsection (c), the Secretary shall reserve for the national highway performance program under section 119 for that fiscal year an amount equal to—
+      - **(i)** $53,596,122 for fiscal year 2019; and
+      - **(ii)** $66,717,816 for fiscal year 2020.
+    - **(B)** Funds reserved under subparagraph (A) and apportioned to a State under subsection (c) shall be treated as if apportioned under subsection (b)(1), and shall be in addition to amounts apportioned under that subsection.
+  - **(2)**
+    - **(A)** Before making an apportionment for a fiscal year under subsection (c), the Secretary shall reserve for the surface transportation block grant program under section 133 for that fiscal year an amount equal to—
+      - **(i)** $835,000,000 for each of fiscal years 2016 and 2017 pursuant to section 133(h), plus—
+        - **(I)** $55,426,310 for fiscal year 2016; and
+        - **(II)** $89,289,904 for fiscal year 2017; and
+      - **(ii)** $850,000,000 for each of fiscal years 2018 through 2020 pursuant to section 133(h), plus—
+        - **(I)** $118,013,536 for fiscal year 2018;
+        - **(II)** $130,688,367 for fiscal year 2019; and
+        - **(III)** $170,053,448 for fiscal year 2020.
+    - **(B)** Funds reserved under subparagraph (A) and apportioned to a State under subsection (c) shall be treated as if apportioned under subsection (b)(2), and shall be in addition to amounts apportioned under that subsection.
+- **(i)** In this section, the term “base apportionment” means—
+  - **(1)** the combined amount authorized for appropriation for the national highway performance program under section 119, the surface transportation block grant program under section 133, the highway safety improvement program under section 148, the congestion mitigation and air quality improvement program under section 149, the national highway freight program under section 167, and to carry out section 134; minus
+  - **(2)** supplemental funds reserved under subsection (h) for the national highway performance program and the surface transportation block grant program.

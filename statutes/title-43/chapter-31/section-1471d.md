@@ -3,9 +3,9 @@ title: "Section 1471d - Availability of appropriations for transportation, repri
 usc_title: 43
 usc_section: "1471d"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "43 U.S.C. § 1471d"
-generated_at: "2026-03-29T20:06:00.050Z"
+generated_at: "2026-03-29T20:34:16.751Z"
 ---
 
 # § 1471d. Availability of appropriations for transportation, reprint, telephone, and library membership expenses

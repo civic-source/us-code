@@ -3,9 +3,9 @@ title: "Section 7144b - Office of Intelligence and Counterintelligence"
 usc_title: 42
 usc_section: "7144b"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 7144b"
-generated_at: "2026-03-29T20:07:44.477Z"
+generated_at: "2026-03-29T20:34:53.790Z"
 ---
 
 # § 7144b. Office of Intelligence and Counterintelligence
@@ -18,6 +18,3 @@ generated_at: "2026-03-29T20:07:44.477Z"
 - **(d)**
   - **(1)** Subject to the authority, direction, and control of the Secretary, the Director shall perform such duties and exercise such powers as the Secretary may prescribe.
   - **(2)** The Director shall be responsible for establishing policy for intelligence and counterintelligence programs and activities at the Department.
-  - **(3)** The Director shall develop and implement—
-    - **(A)** a plan and cost assessment for delineated and standardized counterintelligence training for all personnel who interact with classified and sensitive military technology and dual-use commercial technology in the Department; and
-    - **(B)** a delineated and standardized training plan to train officers in the Office of Intelligence and Counterintelligence who have counterintelligence responsibilities on counterintelligence skills and practices.

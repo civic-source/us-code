@@ -3,9 +3,9 @@ title: "Section 3307 - Preference for commercial products and commercial service
 usc_title: 41
 usc_section: "3307"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "41 U.S.C. § 3307"
-generated_at: "2026-03-29T20:05:58.277Z"
+generated_at: "2026-03-29T20:34:07.739Z"
 ---
 
 # § 3307. Preference for commercial products and commercial services
@@ -38,7 +38,7 @@ generated_at: "2026-03-29T20:05:58.277Z"
   - **(3)** In conducting market research, the head of an executive agency should not require potential sources to submit more than the minimum information that is necessary to make the determinations required in paragraph (2).
   - **(4)** The head of the agency shall document the results of market research in a manner appropriate to the size and complexity of the acquisition.
 - **(e)**
-  - **(1)** The Federal Acquisition Regulation shall provide regulations to implement this section, sections 102, 103, 103a, 104, 105, and 110 of this title, and chapter 247 of title 10.
+  - **(1)** The Federal Acquisition Regulation shall provide regulations to implement this section, sections 102, 103, 103a, 104, 105, and 110 of this title, and chapter 140 of title 10.
   - **(2)**
     - **(A)** In this paragraph, the term “subcontract” includes a transfer of commercial products or commercial services between divisions, subsidiaries, or affiliates of a contractor or subcontractor.
     - **(B)** The regulations prescribed under paragraph (1) shall contain a list of contract clauses to be included in contracts for the acquisition of end items that are commercial products. To the maximum extent practicable, the list shall include only those contract clauses that are—

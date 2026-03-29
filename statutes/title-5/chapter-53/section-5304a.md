@@ -3,9 +3,9 @@ title: "Section 5304a - Authority to fix an alternative level of comparability p
 usc_title: 5
 usc_section: "5304a"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "5 U.S.C. § 5304a"
-generated_at: "2026-03-29T20:02:37.799Z"
+generated_at: "2026-03-29T20:31:26.764Z"
 ---
 
 # § 5304a. Authority to fix an alternative level of comparability payments

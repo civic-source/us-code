@@ -3,9 +3,9 @@ title: "Section 3a - Adjusted gross income limitation"
 usc_title: 7
 usc_section: "3a"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 3a"
-generated_at: "2026-03-29T20:02:52.480Z"
+generated_at: "2026-03-29T20:31:41.954Z"
 ---
 
 # § 1308–3a. Adjusted gross income limitation
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T20:02:52.480Z"
     - **(A)** the person provides a certified statement by a certified public accountant or attorney that specifies the method by which the average adjusted gross income would have been declared and reported had the persons filed 2 separate returns; and
     - **(B)** the Secretary determines that the method described in the statement is consistent with the information supporting the filed joint tax return.
 - **(b)**
-  - **(1)** Notwithstanding any other provision of law, subject to paragraphs (3) and (4), a person or legal entity shall not be eligible to receive any benefit described in paragraph (2) during a crop, fiscal, or program year, as appropriate, if the average adjusted gross income of the person or legal entity exceeds $900,000.
+  - **(1)** Notwithstanding any other provision of law, subject to paragraph (3), a person or legal entity shall not be eligible to receive any benefit described in paragraph (2) during a crop, fiscal, or program year, as appropriate, if the average adjusted gross income of the person or legal entity exceeds $900,000.
   - **(2)** Paragraph (1) applies with respect to the following:
     - **(A)** A payment or benefit under subtitle A or E of title I of the Agricultural Act of 2014 [ 7 U.S.C. 9011 et seq., 9081].
     - **(B)** A marketing loan gain or loan deficiency payment under subtitle B of title I of the Agricultural Act of 2014 [ 7 U.S.C. 9031 et seq.].
@@ -25,18 +25,10 @@ generated_at: "2026-03-29T20:02:52.480Z"
     - **(D)** A payment or benefit under section 1524(b) of this title .
     - **(E)** A payment or benefit under section 7333 of this title .
   - **(3)** The Secretary may waive the limitation established by paragraph (1) with respect to a payment pursuant to a covered benefit described in paragraph (2)(C), on a case-by-case basis, if the Secretary determines that environmentally sensitive land of special significance would be protected as a result of such waiver.
-  - **(4)**
-    - **(A)** In this paragraph:
-      - **(i)** The term “excepted payment or benefit” means—
-        - **(I)** a payment or benefit under subtitle E of title I of the Agricultural Act of 2014 ( 7 U.S.C. 9081 et seq.);
-        - **(II)** a payment or benefit under section 7333 of this title ; and
-        - **(III)** a payment or benefit described in paragraph (2)(C) received on or after October 1, 2024 .
-      - **(ii)** The term “farming, ranching, or silviculture activities” includes agri-tourism, direct-to-consumer marketing of agricultural products, the sale of agricultural equipment owned by the person or legal entity, and other agriculture-related activities, as determined by the Secretary.
-    - **(B)** In the case of an excepted payment or benefit, the limitation established by paragraph (1) shall not apply to a person or legal entity during a crop, fiscal, or program year, as appropriate, if greater than or equal to 75 percent of the average gross income of the person or legal entity derives from farming, ranching, or silviculture activities.
 - **(c)**
   - **(1)** To comply with subsection (b), at least once every 3 years a person or legal entity shall provide to the Secretary—
     - **(A)** a certification by a certified public accountant or another third party that is acceptable to the Secretary that the average adjusted gross income of the person or legal entity does not exceed the applicable limitation specified in that subsection; or
     - **(B)** information and documentation regarding the average adjusted gross income of the person or legal entity through other procedures established by the Secretary.
   - **(2)** If the Secretary determines that a person or legal entity has failed to comply with this section, the Secretary shall deny the issuance of applicable payments and benefits specified in subsection (b)(2) to the person or legal entity, under similar terms and conditions as described in section 1308–2 of this title .
   - **(3)** The Secretary shall establish statistically valid procedures under which the Secretary shall conduct targeted audits of such persons or legal entities as the Secretary determines are most likely to exceed the limitations under subsection (b).
-- **(d)** In the case of a payment or benefit described in subsection (b)(2) made in a crop, program, or fiscal year, as appropriate, to an entity, the amount of the payment or benefit shall be reduced by an amount that is commensurate with the direct and indirect ownership interest in the entity of each person who has an average adjusted gross income in excess of the applicable limitation specified in subsection (b).
+- **(d)** In the case of a payment or benefit described in subsection (b)(2) made in a crop, program, or fiscal year, as appropriate, to an entity, general partnership, or joint venture, the amount of the payment or benefit shall be reduced by an amount that is commensurate with the direct and indirect ownership interest in the entity, general partnership, or joint venture of each person who has an average adjusted gross income in excess of the applicable limitation specified in subsection (b).

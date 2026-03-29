@@ -3,9 +3,9 @@ title: "Section 3611 - Establishment, purposes, offices, and residence of Commis
 usc_title: 22
 usc_section: "3611"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 3611"
-generated_at: "2026-03-29T20:04:46.855Z"
+generated_at: "2026-03-29T20:33:00.034Z"
 ---
 
 # § 3611. Establishment, purposes, offices, and residence of Commission

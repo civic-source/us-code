@@ -3,9 +3,9 @@ title: "Section 7109a - Research on domestic and international trafficking in pe
 usc_title: 22
 usc_section: "7109a"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 7109a"
-generated_at: "2026-03-29T20:04:46.963Z"
+generated_at: "2026-03-29T20:33:00.142Z"
 ---
 
 # § 7109a. Research on domestic and international trafficking in persons
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T20:04:46.963Z"
     - **(D)** identify emerging issues in human trafficking and establishing integrated methods to combat them; and
     - **(E)** identify research priorities to respond to global patterns and emerging issues.
   - **(3)** The database established in accordance with paragraph (2) shall be maintained in consultation with the Director of the Office to Monitor and Combat Trafficking in Persons of the Department of State.
-  - **(4)** There are authorized to be appropriated $1,000,000 to the Human Smuggling and Trafficking Center for each of the fiscal years 2022 through 2027 to carry out the activities described in this subsection.
+  - **(4)** There are authorized to be appropriated $1,000,000 to the Human Smuggling and Trafficking Center for each of the fiscal years 2018 through 2021 to carry out the activities described in this subsection.
 - **(c)** In this section:
   - **(1)** The term “AIDS” means the acquired immune deficiency syndrome.
   - **(2)** The term “HIV” means the human immunodeficiency virus, the pathogen that causes AIDS.

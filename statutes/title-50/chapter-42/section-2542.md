@@ -1,12 +1,19 @@
 ---
-title: "Section 2542 - Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1) , Dec. 18, 2025 , 139 Stat. 1458"
+title: "Section 2542 - Tritium recycling"
 usc_title: 50
 usc_section: "2542"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "50 U.S.C. § 2542"
-generated_at: "2026-03-29T20:08:11.182Z"
+generated_at: "2026-03-29T20:35:05.188Z"
 ---
 
-# §§ 2541, 2542. Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1) , Dec. 18, 2025 , 139 Stat. 1458
+# § 2542. Tritium recycling
 
+- **(a)** Except as provided in subsection (b), the following activities shall be carried out at the Savannah River Site, South Carolina:
+  - **(1)** All tritium recycling for weapons, including tritium refitting.
+  - **(2)** All activities regarding tritium formerly carried out at the Mound Plant, Ohio.
+- **(b)** The following activities may be carried out at the Los Alamos National Laboratory, New Mexico:
+  - **(1)** Research on tritium.
+  - **(2)** Work on tritium in support of the defense inertial confinement fusion program.
+  - **(3)** Provision of technical assistance to the Savannah River Site regarding the weapons surveillance program.

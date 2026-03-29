@@ -3,9 +3,9 @@ title: "Section 547 - Advisory Committee on Tribal and Indian Affairs"
 usc_title: 38
 usc_section: "547"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "38 U.S.C. § 547"
-generated_at: "2026-03-29T20:05:54.625Z"
+generated_at: "2026-03-29T20:34:04.869Z"
 ---
 
 # § 547. Advisory Committee on Tribal and Indian Affairs
@@ -60,7 +60,7 @@ generated_at: "2026-03-29T20:05:54.625Z"
     - **(B)** each response the Secretary submits under paragraph (2); and
     - **(C)** each report the Secretary receives under paragraph (3).
 - **(h)** A member of the Committee shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5 while away from the home or regular place of business of the member in the performance of the duties of the Committee.
-- **(i)** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) 1 1 See References in Text note below. shall not apply to the Committee.
+- **(i)** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Committee.
 - **(j)** In this section:
   - **(1)** The term “appropriate committees of Congress” means—
     - **(A)** the Committee on Veterans’ Affairs and the Committee on Indian Affairs of the Senate; and

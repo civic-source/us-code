@@ -3,9 +3,9 @@ title: "Section 2279b - Council on Oversight of the Department of Defense Positi
 usc_title: 10
 usc_section: "2279b"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2279b"
-generated_at: "2026-03-29T20:03:09.667Z"
+generated_at: "2026-03-29T20:31:54.572Z"
 ---
 
 # § 2279b. Council on Oversight of the Department of Defense Positioning, Navigation, and Timing Enterprise
@@ -22,8 +22,8 @@ generated_at: "2026-03-29T20:03:09.667Z"
   - **(8)** The Commander of United States Cyber Command.
   - **(9)** The Director of the National Security Agency.
   - **(10)** The Chief Information Officer of the Department of Defense.
-  - **(11)** The Secretaries of the military departments, who shall be ex officio members.
-  - **(12)** Such other officers of the Department of Defense as the Secretary may designate.
+  - **(11)** 1 1 So in original. Two pars. (11) have been enacted. The Secretaries of the military departments, who shall be ex officio members.
+  - **(11)** 1 Such other officers of the Department of Defense as the Secretary may designate.
 - **(c)** The Council shall be co-chaired by the Under Secretary of Defense for Research and Engineering, the Under Secretary of Defense for Acquisition and Sustainment, and the Vice Chairman of the Joint Chiefs of Staff.
 - **(d)**
   - **(1)** The Council shall be responsible for oversight of the Department of Defense positioning, navigation, and timing enterprise, including positioning, navigation, and timing services provided to civil, commercial, scientific, and international users.
@@ -31,9 +31,8 @@ generated_at: "2026-03-29T20:03:09.667Z"
     - **(A)** Oversight of performance assessments (including interoperability).
     - **(B)** Vulnerability identification and mitigation.
     - **(C)** Architecture development.
-    - **(D)** Alternative methods to perform position navigation and timing.
-    - **(E)** Resource prioritization.
-    - **(F)** Such other responsibilities as the Secretary of Defense shall specify for purposes of this section.
+    - **(D)** Resource prioritization.
+    - **(E)** Such other responsibilities as the Secretary of Defense shall specify for purposes of this section.
 - **(e)** At the same time each year that the budget of the President is submitted to Congress under section 1105(a) of title 31 , the Council shall submit to the congressional defense committees a report on the activities of the Council. Each report shall include the following:
   - **(1)** A description and assessment of the activities of the Council during the previous fiscal year.
   - **(2)** A description of the activities proposed to be undertaken by the Council during the period covered by the current future-years defense program under section 221 of this title .
@@ -50,4 +49,4 @@ generated_at: "2026-03-29T20:03:09.667Z"
 - **(g)**
   - **(1)** The Secretary of Defense shall submit to the congressional defense committees written notification of an anomaly in the Department of Defense positioning, navigation, and timing enterprise that is reported to the Secretary or the Council by not later than 14 days after the date on which the Secretary or the Council learns of such anomaly, as the case may be.
   - **(2)** In this subsection, the term “anomaly” means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system.
-- **(h)** The Council shall terminate on the date that is 10 years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2022.
+- **(h)** The Council shall terminate on the date that is 10 years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2016.

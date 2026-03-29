@@ -3,9 +3,9 @@ title: "Section 47136 - Zero-emission airport vehicles and infrastructure"
 usc_title: 49
 usc_section: "47136"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 47136"
-generated_at: "2026-03-29T20:07:58.648Z"
+generated_at: "2026-03-29T20:35:10.962Z"
 ---
 
 # § 47136. Zero-emission airport vehicles and infrastructure
@@ -18,9 +18,7 @@ generated_at: "2026-03-29T20:07:58.648Z"
   - **(2)** used exclusively to transport passengers and employees between the airport and—
     - **(A)** nearby facilities which are owned or controlled by the airport or which otherwise directly support the functions or services provided by the airport; or
     - **(B)** an intermodal surface transportation facility adjacent to the airport.
-- **(c)** In selecting from among applicants for participation in the program, the Secretary shall give priority consideration to applicants that—
-  - **(1)** will achieve the greatest air quality benefits measured by the amount of emissions reduced per dollar of funds expended under the program; and
-  - **(2)** provide a long-term management plan for eligible vehicles and equipment that includes the existing and future infrastructure requirements of the airport related to such vehicles and equipment.
+- **(c)** In selecting from among applicants for participation in the program, the Secretary shall give priority consideration to applicants that will achieve the greatest air quality benefits measured by the amount of emissions reduced per dollar of funds expended under the program.
 - **(d)** The Federal share of the cost of a project carried out under the program shall be the Federal share specified in section 47109.
 - **(e)**
   - **(1)** The sponsor of a public-use airport may use not more than 10 percent of the amounts made available to the sponsor under the program in any fiscal year for—

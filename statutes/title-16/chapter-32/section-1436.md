@@ -3,9 +3,9 @@ title: "Section 1436 - Prohibited activities"
 usc_title: 16
 usc_section: "1436"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 1436"
-generated_at: "2026-03-29T20:04:20.315Z"
+generated_at: "2026-03-29T20:32:45.367Z"
 ---
 
 # § 1436. Prohibited activities

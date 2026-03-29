@@ -3,9 +3,9 @@ title: "Section 16391 - Improved technology transfer of energy technologies"
 usc_title: 42
 usc_section: "16391"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 16391"
-generated_at: "2026-03-29T20:07:44.917Z"
+generated_at: "2026-03-29T20:34:54.246Z"
 ---
 
 # § 16391. Improved technology transfer of energy technologies
@@ -34,8 +34,6 @@ generated_at: "2026-03-29T20:07:44.917Z"
       - **(iii)** the activities of each technology partnership ombudsman appointed under section 7261c of this title ; and
       - **(iv)** efforts to engage private sector entities, including venture capital companies.
   - **(5)** In carrying out the mission and activities of the Office, the Chief Commercialization Officer shall coordinate with the senior leadership of the Department, other relevant program offices of the Department, National Laboratories, the Technology Transfer Working Group established under subsection (b), the Technology Transfer Policy Board, and other stakeholders (including private industry).
-  - **(6)** To carry out the program authorized in this section, the Under Secretary for Science may appoint personnel using the authorities in section 19321 of this title .
-  - **(7)** There are authorized to be appropriated to the Secretary to carry out the activities authorized in this section $20,000,000 for each of fiscal years 2023 through 2027.
 - **(b)** The Secretary shall establish a Technology Transfer Working Group, which shall consist of representatives of the National Laboratories and single-purpose research facilities, to—
   - **(1)** coordinate technology transfer activities occurring at National Laboratories and single-purpose research facilities;
   - **(2)** exchange information about technology transfer practices, including alternative approaches to resolution of disputes involving intellectual property rights and other technology transfer matters; and
@@ -59,10 +57,10 @@ generated_at: "2026-03-29T20:07:44.917Z"
     - **(A)** a summary, with supporting data, of how much Department program offices contribute to and use the Fund each year, including a list of current funding restrictions;
     - **(B)** recommendations on how to improve implementation and administration of the Fund; and
     - **(C)** an analysis on how to spend funds optimally on technology areas that have the greatest need and opportunity for commercial application, rather than spending funds at the programmatic level or under current funding restrictions.
-- **(h)**
+- **(f)**
   - **(1)** Not later than 180 days after August 8, 2005 , the Secretary shall submit to Congress a technology transfer execution plan.
   - **(2)** Each year after the submission of the plan under paragraph (1), the Secretary shall submit to Congress an updated execution plan and reports that describe progress toward meeting goals set forth in the execution plan and the funds expended under subsection (c).
-- **(i)** The Secretary may develop additional programs to—
+- **(g)** The Secretary may develop additional programs to—
   - **(1)** support regional energy innovation systems;
   - **(2)** support clean energy incubators;
   - **(3)** provide small business vouchers;

@@ -3,9 +3,9 @@ title: "Section 665a - Intelligence and cybersecurity diversity fellowship progr
 usc_title: 6
 usc_section: "665a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "6 U.S.C. § 665a"
-generated_at: "2026-03-29T20:02:42.041Z"
+generated_at: "2026-03-29T20:31:30.671Z"
 ---
 
 # § 665a. Intelligence and cybersecurity diversity fellowship program
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T20:02:42.041Z"
   - **(1)** be a citizen of the United States; and
   - **(2)** as of the date of submitting the application to participate in the Program—
     - **(A)** have a cumulative grade point average of at least 3.2 on a 4.0 scale;
-    - **(B)** be a socially disadvantaged individual (as that term in 1 1 So in original. Probably should be “is”. defined in section 124.103 of title 13, Code of Federal Regulations, or successor regulation); and
+    - **(B)** be a socially disadvantaged individual (as that term in defined in section 124.103 of title 13, Code of Federal Regulations, or successor regulation); and
     - **(C)** be a sophomore, junior, or senior at an institution of higher education.
 - **(d)** If an individual who receives an offer of employment under subsection (b)(3) accepts such offer, the Secretary shall appoint, without regard to provisions of subchapter I of chapter 33 of title 5 (except for section 3328 of such title) such individual to the position specified in such offer.
 - **(e)**

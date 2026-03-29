@@ -3,9 +3,9 @@ title: "Section 6331 - Grants for the outlying areas and the Secretary of the In
 usc_title: 20
 usc_section: "6331"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "20 U.S.C. § 6331"
-generated_at: "2026-03-29T20:04:33.051Z"
+generated_at: "2026-03-29T20:32:28.964Z"
 ---
 
 # § 6331. Grants for the outlying areas and the Secretary of the Interior
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T20:04:33.051Z"
   - **(2)** reserve 0.7 percent to provide assistance to the Secretary of the Interior in accordance with subsection (d).
 - **(b)**
   - **(1)** From the amount made available for any fiscal year under subsection (a)(1), the Secretary shall—
-    - **(A)** first reserve $1,000,000 for the Republic of Palau, subject to such terms and conditions as the Secretary may establish, except that Public Law 95–134 , permitting the consolidation of grants, shall not apply; and
+    - **(A)** first reserve $1,000,000 for the Republic of Palau, until Palau enters into an agreement for extension of United States educational assistance under the Compact of Free Association, and subject to such terms and conditions as the Secretary may establish, except that Public Law 95–134 , permitting the consolidation of grants, shall not apply; and
     - **(B)** use the remaining funds to award grants to the outlying areas in accordance with paragraphs (2) through (5).
   - **(2)** The Secretary shall allocate the amount available under paragraph (1)(B) to the outlying areas in proportion to their relative numbers of children, aged 5 to 17, inclusive, from families below the poverty level, on the basis of the most recent satisfactory data available from the Department of Commerce.
   - **(3)** For each fiscal year, the amount made available to each outlying area under this subsection shall be—

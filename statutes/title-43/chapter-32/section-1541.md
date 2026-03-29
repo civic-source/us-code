@@ -3,9 +3,9 @@ title: "Section 1541 - Allocation of costs; repayment"
 usc_title: 43
 usc_section: "1541"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "43 U.S.C. § 1541"
-generated_at: "2026-03-29T20:06:00.054Z"
+generated_at: "2026-03-29T20:34:16.756Z"
 ---
 
 # § 1541. Allocation of costs; repayment

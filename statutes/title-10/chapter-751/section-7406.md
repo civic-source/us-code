@@ -3,9 +3,9 @@ title: "Section 7406 - Service schools: leaves of absence for instructors"
 usc_title: 10
 usc_section: "7406"
 chapter: 751
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 7406"
-generated_at: "2026-03-29T20:03:09.839Z"
+generated_at: "2026-03-29T20:31:54.713Z"
 ---
 
 # § 7406. Service schools: leaves of absence for instructors

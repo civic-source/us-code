@@ -3,9 +3,9 @@ title: "Section 5913 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "5913"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 5913"
-generated_at: "2026-03-29T20:04:20.472Z"
+generated_at: "2026-03-29T20:32:45.492Z"
 ---
 
 # § 5913. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

@@ -3,9 +3,9 @@ title: "Section 5133 - Predisaster hazard mitigation"
 usc_title: 42
 usc_section: "5133"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 5133"
-generated_at: "2026-03-29T20:07:44.338Z"
+generated_at: "2026-03-29T20:34:53.652Z"
 ---
 
 # § 5133. Predisaster hazard mitigation
@@ -76,3 +76,4 @@ generated_at: "2026-03-29T20:07:44.338Z"
   - **(1)** In this subsection, the term “congressionally directed spending” means a statutory provision or report language included primarily at the request of a Senator or a Member, Delegate or Resident Commissioner of the House of Representatives providing, authorizing, or recommending a specific amount of discretionary budget authority, credit authority, or other spending authority for a contract, loan, loan guarantee, grant, loan authority, or other expenditure with or to an entity, or targeted to a specific State, locality, or Congressional district, other than through a statutory or administrative formula-driven or competitive award process.
   - **(2)** None of the funds appropriated or otherwise made available to carry out this section may be used for congressionally directed spending.
   - **(3)** The Administrator of the Federal Emergency Management Agency shall submit to Congress a certification regarding whether all financial assistance under this section was awarded in accordance with this section.
+- **(m)** For purposes of subsections (e)(1)(B)(iv) and (g)(10), the term “latest published editions” means, with respect to relevant consensus-based codes, specifications, and standards, the 2 most recently published editions.

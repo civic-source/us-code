@@ -3,9 +3,9 @@ title: "Section 3303a - Levee safety initiative"
 usc_title: 33
 usc_section: "3303a"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "33 U.S.C. § 3303a"
-generated_at: "2026-03-29T20:05:35.873Z"
+generated_at: "2026-03-29T20:33:34.330Z"
 ---
 
 # § 3303a. Levee safety initiative
@@ -77,14 +77,14 @@ generated_at: "2026-03-29T20:05:35.873Z"
         - **(V)** develops technical assistance materials, seminars, and guidelines to improve the security of levees of the United States.
     - **(D)** Technical assistance or grants may not be provided to a State under this subsection during a fiscal year unless the State enters into an agreement with the Administrator to ensure that the State will maintain during that fiscal year aggregate expenditures for programs to ensure levee safety that equal or exceed the average annual level of such expenditures for the State for the 2 fiscal years preceding that fiscal year.
     - **(E)**
-      - **(i)** There is authorized to be appropriated to the Administrator to carry out this subsection $25,000,000 for each of fiscal years 2019 through 2030.
+      - **(i)** There is authorized to be appropriated to the Administrator to carry out this subsection $25,000,000 for each of fiscal years 2019 through 2023.
       - **(ii)** For each fiscal year, amounts made available under this subparagraph shall be allocated among the States, regional districts, and Indian tribes as follows:
         - **(I)** ⅓ among States, regional districts, and Indian tribes that qualify for assistance under this subsection.
         - **(II)** ⅔ among States, regional districts, and Indian tribes that qualify for assistance under this subsection, to each such State, regional district, or Indian tribe in the proportion that—
       - **(iii)** The amounts allocated to a State, regional district, or Indian tribe under this subparagraph shall not exceed 50 percent of the reasonable cost of implementing the State, regional, or tribal levee safety program.
     - **(F)** No amounts made available to the Administrator under this chapter shall be used for levee construction, rehabilitation, repair, operations, or maintenance.
 - **(h)**
-  - **(1)** The Secretary shall provide assistance to States, regional districts, Indian tribes, and local governments relating to addressing flood mitigation and levee rehabilitation activities that result in an overall reduction in flood risk.
+  - **(1)** The Secretary shall provide assistance to States, regional districts, Indian tribes, and local governments relating to addressing flood mitigation activities that result in an overall reduction in flood risk.
   - **(2)** To be eligible to receive assistance under this subsection, a State, regional district, Indian tribe, or local government shall—
     - **(A)** participate in, and comply with, all applicable Federal floodplain management and flood insurance programs;
     - **(B)** have in place a hazard mitigation plan that—
@@ -113,11 +113,10 @@ generated_at: "2026-03-29T20:05:35.873Z"
       - **(ii)** to make any modification to a levee that does not result in an improvement to public safety.
   - **(5)** A contract for assistance provided under this subsection shall not be considered to confer any proprietary interest on the United States.
   - **(6)** The maximum Federal share of the cost of any assistance provided under this subsection shall be 65 percent.
-  - **(7)** The maximum amount of Federal assistance for a project under this subsection shall be $25,000,000.
+  - **(7)** The maximum amount of Federal assistance for a project under this subsection shall be $10,000,000.
   - **(8)** A project shall not receive Federal assistance under this subsection more than 1 time.
   - **(9)** For a project that is not a project eligible for rehabilitation assistance under section 701n of this title , the Secretary shall determine that the proposed rehabilitation is in the Federal interest prior to providing assistance for such rehabilitation.
   - **(10)** Assistance provided under this subsection shall be subject to all applicable laws (including regulations) that apply to the construction of a civil works project of the Corps of Engineers.
-  - **(11)** To the maximum extent practicable, the Secretary shall prioritize the provision of assistance under this subsection to economically disadvantaged communities (as defined by the Secretary under section 160 of the Water Resources Development Act of 2020 ( 33 U.S.C. 2201 note)), including economically disadvantaged communities located in urban and rural areas.
 - **(i)** Nothing in this section—
   - **(1)** affects the requirement under section 100226(b)(2) of Public Law 112–141 ( 42 U.S.C. 4101 note; 126 Stat. 942 ); or
   - **(2)** confers any regulatory authority on—

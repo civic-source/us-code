@@ -3,9 +3,9 @@ title: "Section 4336 - Retention of properties or interests of Germany and Japan
 usc_title: 50
 usc_section: "4336"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "50 U.S.C. § 4336"
-generated_at: "2026-03-29T20:08:11.283Z"
+generated_at: "2026-03-29T20:35:05.293Z"
 ---
 
 # § 4336. Retention of properties or interests of Germany and Japan and their nationals; proceeds covered into Treasury; ex gratia payment to Switzerland

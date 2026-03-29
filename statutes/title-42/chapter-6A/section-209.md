@@ -3,9 +3,9 @@ title: "Section 209 - Appointment of personnel"
 usc_title: 42
 usc_section: "209"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 209"
-generated_at: "2026-03-29T20:07:42.909Z"
+generated_at: "2026-03-29T20:34:52.517Z"
 ---
 
 # § 209. Appointment of personnel
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T20:07:42.909Z"
     - **(A)**
       - **(i)** was on active duty in the Ready Reserve Corps on July 1, 1960 , (ii) was on such active duty continuously for not less than one year immediately prior to such date, and (iii) applies for appointment to the Regular Corps prior to July 1, 1962 ; or
     - **(B)** does not come within clause (A)(i) and (ii) but was on active duty in the Ready Reserve Corps continuously for not less than one year immediately prior to his appointment to the Regular Corps and has not served on active duty continuously for a period, occurring after June 30, 1960 , of more than three and one-half years prior to applying for such appointment.
-  - **(3)** No person shall be appointed pursuant to this subsection unless he meets standards established in accordance with regulations of the President.
+  - **(3)** No person shall be appointed pursuant to this subsection unless he meets standards established in accordance with regulat1ions of the President.
 - **(c)** Commissions evidencing the appointment by the President of officers of the Regular Corps or Ready Reserve Corps shall be issued by the Secretary under the seal of the Department of Health and Human Services.
 - **(d)**
   - **(1)** For purposes of basic pay and for purposes of promotion, any person appointed under subsection (a) to the grade of senior assistant in the Regular Corps, and any person appointed under subsection (b), shall, except as provided in paragraphs (2) and (3) of this subsection, be considered as having had on the date of appointment the following length of service: Three years if appointed to the senior assistant grade, ten years if appointed to the full grade, seventeen years if appointed to the senior grade, and eighteen years if appointed to the director grade.

@@ -3,9 +3,9 @@ title: "Section 70101 - National multimodal freight policy"
 usc_title: 49
 usc_section: "70101"
 chapter: 701
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 70101"
-generated_at: "2026-03-29T20:07:58.673Z"
+generated_at: "2026-03-29T20:35:10.986Z"
 ---
 
 # § 70101. National multimodal freight policy
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T20:07:58.673Z"
   - **(8)** to improve the flexibility of States to support multi-State corridor planning and the creation of multi-State organizations to increase the ability of States to address multimodal freight connectivity;
   - **(9)** to reduce the adverse environmental impacts of freight movement on the National Multimodal Freight Network; and
   - **(10)** to pursue the goals described in this subsection in a manner that is not burdensome to State and local governments.
-- **(c)** The Assistant Secretary for Multimodal Freight, who shall be responsible for the oversight and implementation of the national multimodal freight policy, shall—
+- **(c)** The Under Secretary of Transportation for Policy, who shall be responsible for the oversight and implementation of the national multimodal freight policy, shall—
   - **(1)** carry out sections 70102 and 70103;
   - **(2)** assist with the coordination of modal freight planning; and
   - **(3)** identify interagency data sharing opportunities to promote freight planning and coordination.

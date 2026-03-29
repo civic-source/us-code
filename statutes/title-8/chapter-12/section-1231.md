@@ -3,9 +3,9 @@ title: "Section 1231 - Detention and removal of aliens ordered removed"
 usc_title: 8
 usc_section: "1231"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "8 U.S.C. § 1231"
-generated_at: "2026-03-29T20:02:46.228Z"
+generated_at: "2026-03-29T20:31:32.218Z"
 ---
 
 # § 1231. Detention and removal of aliens ordered removed
@@ -18,9 +18,7 @@ generated_at: "2026-03-29T20:02:46.228Z"
       - **(ii)** If the removal order is judicially reviewed and if a court orders a stay of the removal of the alien, the date of the court’s final order.
       - **(iii)** If the alien is detained or confined (except under an immigration process), the date the alien is released from detention or confinement.
     - **(C)** The removal period shall be extended beyond a period of 90 days and the alien may remain in detention during such extended period if the alien fails or refuses to make timely application in good faith for travel or other documents necessary to the alien’s departure or conspires or acts to prevent the alien’s removal subject to an order of removal.
-  - **(2)**
-    - **(A)** During the removal period, the Attorney General shall detain the alien. Under no circumstance during the removal period shall the Attorney General release an alien who has been found inadmissible under section 1182(a)(2) or 1182(a)(3)(B) of this title or deportable under section 1227(a)(2) or 1227(a)(4)(B) of this title.
-    - **(B)** The attorney general of a State, or other authorized State officer, alleging a violation of the detention requirement under subparagraph (A) that harms such State or its residents shall have standing to bring an action against the Secretary of Homeland Security on behalf of such State or the residents of such State in an appropriate district court of the United States to obtain appropriate injunctive relief. The court shall advance on the docket and expedite the disposition of a civil action filed under this subparagraph to the greatest extent practicable. For purposes of this subparagraph, a State or its residents shall be considered to have been harmed if the State or its residents experience harm, including financial harm in excess of $100.
+  - **(2)** During the removal period, the Attorney General shall detain the alien. Under no circumstance during the removal period shall the Attorney General release an alien who has been found inadmissible under section 1182(a)(2) or 1182(a)(3)(B) of this title or deportable under section 1227(a)(2) or 1227(a)(4)(B) of this title.
   - **(3)** If the alien does not leave or is not removed within the removal period, the alien, pending removal, shall be subject to supervision under regulations prescribed by the Attorney General. The regulations shall include provisions requiring the alien—
     - **(A)** to appear before an immigration officer periodically for identification;
     - **(B)** to submit, if necessary, to a medical and psychiatric examination at the expense of the United States Government;

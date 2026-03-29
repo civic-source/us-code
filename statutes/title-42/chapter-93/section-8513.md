@@ -3,9 +3,9 @@ title: "Section 8513 - Standby Federal conservation plan"
 usc_title: 42
 usc_section: "8513"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 8513"
-generated_at: "2026-03-29T20:07:44.607Z"
+generated_at: "2026-03-29T20:34:53.938Z"
 ---
 
 # § 8513. Standby Federal conservation plan
@@ -40,7 +40,7 @@ generated_at: "2026-03-29T20:07:44.607Z"
     - **(A)** is inconsistent with any otherwise applicable Federal law (including any rule or regulation under such law),
     - **(B)** is an undue burden on interstate commerce,
     - **(C)** is a tax, tariff, or user fee, or
-    - **(D)** is a program for the assignment of rights for end-user purchases of gasoline or diesel fuel, as described in section 6263(a)(1)(A) and (B) 1 of this title.
+    - **(D)** is a program for the assignment of rights for end-user purchases of gasoline or diesel fuel, as described in section 6263(a)(1)(A) and (B) 3 3 See References in Text note below. of this title.
 - **(i)**
   - **(1)** Except as provided in paragraph (2), the plan established under subsection (a) may not provide for the restriction of hours of sale of motor fuel at retail at any time between Friday noon and Sunday midnight.
   - **(2)** Paragraph (1) shall not preclude the restriction on such hours of sale if that restriction occurs in connection with a program for restricting hours of sale of motor fuel each day of the week on a rotating basis.

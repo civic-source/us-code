@@ -3,9 +3,9 @@ title: "Section 3504 - Authority and functions of Director"
 usc_title: 44
 usc_section: "3504"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "44 U.S.C. § 3504"
-generated_at: "2026-03-29T20:06:03.291Z"
+generated_at: "2026-03-29T20:34:08.944Z"
 ---
 
 # § 3504. Authority and functions of Director
@@ -69,16 +69,10 @@ generated_at: "2026-03-29T20:06:03.291Z"
     - **(A)** be headed by the chief statistician; and
     - **(B)** consist of—
       - **(i)** the heads of the major statistical programs; and
-      - **(ii)** representatives of other statistical agencies under rotating membership;
+      - **(ii)** representatives of other statistical agencies under rotating membership; and
   - **(9)** provide opportunities for training in statistical policy functions to employees of the Federal Government under which—
     - **(A)** each trainee shall be selected at the discretion of the Director based on agency requests and shall serve under the chief statistician for at least 6 months and not more than 1 year; and
-    - **(B)** all costs of the training shall be paid by the agency requesting training; and
-  - **(10)** ensure that any change to the standards of core-based statistical area (as defined in section 4 of the MAPS Act of 2021) delineations pursuant to this subsection shall—
-    - **(A)** be accompanied by a public report that explains—
-      - **(i)** the scientific basis, criteria, and methodology for such change to existing standards, including clear quantitative thresholds for determining any future statistical re-delineations; and
-      - **(ii)** the opinions of domestic and international experts in statistics and demographics, including government experts at the Bureau of the Census and other relevant agencies, who were consulted regarding such change to existing standards;
-    - **(B)** not be influenced by any non-statistical considerations such as impact on program administration or service delivery; and
-    - **(C)** not propagate automatically for any non-statistical use by any domestic assistance program (as defined in section 4 of the MAPS Act of 2021).
+    - **(B)** all costs of the training shall be paid by the agency requesting training.
 - **(f)** With respect to records management, the Director shall—
   - **(1)** provide advice and assistance to the Archivist of the United States and the Administrator of General Services to promote coordination in the administration of chapters 29, 31, and 33 of this title with the information resources management policies, principles, standards, and guidelines established under this subchapter;
   - **(2)** review compliance by agencies with—
@@ -91,8 +85,8 @@ generated_at: "2026-03-29T20:06:03.291Z"
 - **(h)** With respect to Federal information technology, the Director shall—
   - **(1)** in consultation with the Director of the National Institute of Standards and Technology and the Administrator of General Services—
     - **(A)** develop and oversee the implementation of policies, principles, standards, and guidelines for information technology functions and activities of the Federal Government, including periodic evaluations of major information systems; and
-    - **(B)** oversee the development and implementation of standards under section 11331 of title 40 ; 2 2 See References in Text note below.
-  - **(2)** monitor the effectiveness of, and compliance with, directives issued under subtitle III of title 40 and directives issued under section 322 2 of title 40;
+    - **(B)** oversee the development and implementation of standards under section 11331 of title 40 ;
+  - **(2)** monitor the effectiveness of, and compliance with, directives issued under subtitle III of title 40 and directives issued under section 322 2 2 See References in Text note below. of title 40;
   - **(3)** coordinate the development and review by the Office of Information and Regulatory Affairs of policy associated with Federal procurement and acquisition of information technology with the Office of Federal Procurement Policy;
   - **(4)** ensure, through the review of agency budget proposals, information resources management plans and other means—
     - **(A)** agency integration of information resources management plans, program plans and budgets for acquisition and use of information technology; and

@@ -3,9 +3,9 @@ title: "Section 6623 - Interagency public access committee"
 usc_title: 42
 usc_section: "6623"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 6623"
-generated_at: "2026-03-29T20:07:44.434Z"
+generated_at: "2026-03-29T20:34:53.748Z"
 ---
 
 # § 6623. Interagency public access committee

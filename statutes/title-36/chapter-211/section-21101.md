@@ -3,9 +3,9 @@ title: "Section 21101 - Definition"
 usc_title: 36
 usc_section: "21101"
 chapter: 211
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "36 U.S.C. § 21101"
-generated_at: "2026-03-29T20:05:40.559Z"
+generated_at: "2026-03-29T20:33:50.614Z"
 ---
 
 # § 21101. Definition

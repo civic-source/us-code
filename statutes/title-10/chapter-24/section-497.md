@@ -3,9 +3,9 @@ title: "Section 497 - Notification required for reduction, consolidation, or wit
 usc_title: 10
 usc_section: "497"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 497"
-generated_at: "2026-03-29T20:03:09.468Z"
+generated_at: "2026-03-29T20:31:54.418Z"
 ---
 
 # § 497. Notification required for reduction, consolidation, or withdrawal of nuclear forces based in Europe
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T20:03:09.468Z"
   - **(1)** justification for such reduction, consolidation, or withdrawal; and
   - **(2)** an assessment of how member states of the North Atlantic Treaty Organization, in light of such reduction, consolidation, or withdrawal, assess the credibility of the deterrence capability of the United States in support of its commitments undertaken pursuant to article 5 of the North Atlantic Treaty, signed at Washington, District of Columbia, on April 4, 1949 , and entered into force on August 24, 1949 ( 63 Stat. 2241 ; TIAS 1964).
 - **(b)**
-  - **(1)** The President shall transmit the notification required by subsection (a) by not later than 120 days before the date on which the President commences a reduction, consolidation, or withdrawal of the nuclear forces of the United States that are based in Europe described in such notification.
+  - **(1)** The President shall transmit the notification required by subsection (a) by not later than 60 days before the date on which the President commences a reduction, consolidation, or withdrawal of the nuclear forces of the United States that are based in Europe described in such notification.
   - **(2)** The limitation in paragraph (1) shall not apply to a reduction, consolidation, or withdrawal of nuclear weapons of the United States that are based in Europe made to ensure the safety, security, reliability, and credibility of such weapons.
 - **(c)** In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committees on Armed Services of the House of Representatives and the Senate; and

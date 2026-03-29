@@ -3,9 +3,9 @@ title: "Section 1396 - Medicaid and CHIP Payment and Access Commission"
 usc_title: 42
 usc_section: "1396"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 1396"
-generated_at: "2026-03-29T20:07:43.833Z"
+generated_at: "2026-03-29T20:34:53.233Z"
 ---
 
 # § 1396. Medicaid and CHIP Payment and Access Commission
@@ -63,7 +63,7 @@ generated_at: "2026-03-29T20:07:43.833Z"
     - **(A)** The membership of MACPAC shall include individuals who have had direct experience as enrollees or parents or caregivers of enrollees in Medicaid or CHIP and individuals with national recognition for their expertise in Federal safety net health programs, health finance and economics, actuarial science, health plans and integrated delivery systems, reimbursement for health care, health information technology, and other providers of health services, public health, and other related fields, who provide a mix of different professions, broad geographic representation, and a balance between urban and rural representation.
     - **(B)** The membership of MACPAC shall include (but not be limited to) physicians, dentists, and other health professionals, employers, third-party payers, and individuals with expertise in the delivery of health services. Such membership shall also include representatives of children, pregnant women, the elderly, individuals with disabilities, caregivers, and dual eligible individuals, current or former representatives of State agencies responsible for administering Medicaid, and current or former representatives of State agencies responsible for administering CHIP.
     - **(C)** Individuals who are directly involved in the provision, or management of the delivery, of items and services covered under Medicaid or CHIP shall not constitute a majority of the membership of MACPAC.
-    - **(D)** The Comptroller General of the United States shall establish a system for public disclosure by members of MACPAC of financial and other potential conflicts of interest relating to such members. Members of MACPAC shall be treated as employees of Congress for purposes of applying subchapter I of chapter 131 of title 5.
+    - **(D)** The Comptroller General of the United States shall establish a system for public disclosure by members of MACPAC of financial and other potential conflicts of interest relating to such members. Members of MACPAC shall be treated as employees of Congress for purposes of applying title I of the Ethics in Government Act of 1978 ( Public Law 95–521 ) [5 U.S.C. App.].
   - **(3)**
     - **(A)** The terms of members of MACPAC shall be for 3 years except that the Comptroller General of the United States shall designate staggered terms for the members first appointed.
     - **(B)** Any member appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member’s term until a successor has taken office. A vacancy in MACPAC shall be filled in the manner in which the original appointment was made.

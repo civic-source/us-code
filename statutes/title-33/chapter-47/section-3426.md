@@ -1,12 +1,35 @@
 ---
-title: "Section 3426 - Repealed. Pub. L. 117–263, div. J, title CIII, § 10306(a) , Dec. 23, 2022 , 136 Stat. 3974"
+title: "Section 3426 - Authorization of appropriations"
 usc_title: 33
 usc_section: "3426"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "33 U.S.C. § 3426"
-generated_at: "2026-03-29T20:05:35.876Z"
+generated_at: "2026-03-29T20:33:34.332Z"
 ---
 
-# §§ 3421 to 3426. Repealed. Pub. L. 117–263, div. J, title CIII, § 10306(a) , Dec. 23, 2022 , 136 Stat. 3974
+# § 3426. Authorization of appropriations
 
+There are authorized to be appropriated to the National Oceanic and Atmospheric Administration—
+
+  - **(1)** for fiscal year 2009—
+    - **(A)** $13,750,000 for the regional centers, of which 50 percent shall be for West Coast regional centers and 50 percent shall be for East Coast regional centers; and
+    - **(B)** $5,500,000 for the National Technology Institute;
+  - **(2)** for fiscal year 2010—
+    - **(A)** $15,125,000 for the regional centers, of which 50 percent shall be for West Coast regional centers and 50 percent shall be for East Coast regional centers; and
+    - **(B)** $6,050,000 for the National Technology Institute;
+  - **(3)** for fiscal year 2011—
+    - **(A)** $16,638,000 for the regional centers, of which 50 percent shall be for West Coast regional centers and 50 percent shall be for East Coast regional centers; and
+    - **(B)** $6,655,000 for the National Technology Institute;
+  - **(4)** for fiscal year 2012—
+    - **(A)** $18,301,000 for the regional centers, of which 50 percent shall be for West Coast regional centers and 50 percent shall be for East Coast regional centers; and
+    - **(B)** $7,321,000 for the National Technology Institute;
+  - **(5)** for fiscal year 2013—
+    - **(A)** $20,131,000 for the regional centers, of which 50 percent shall be for West Coast regional centers and 50 percent shall be for East Coast regional centers; and
+    - **(B)** $8,053,000 for the National Technology Institute;
+  - **(6)** for fiscal year 2014—
+    - **(A)** $22,145,000 for the regional centers, of which 50 percent shall be for West Coast regional centers and 50 percent shall be for East Coast regional centers; and
+    - **(B)** $8,859,000 for the National Technology Institute; and
+  - **(7)** for fiscal year 2015—
+    - **(A)** $24,359,000 for the regional centers, of which 50 percent shall be for West Coast regional centers and 50 percent shall be for East Coast regional centers; and
+    - **(B)** $9,744,000 for the National Technology Institute.

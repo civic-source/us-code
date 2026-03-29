@@ -3,9 +3,9 @@ title: "Section 3527 - General authority to relieve accountable officials and ag
 usc_title: 31
 usc_section: "3527"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "31 U.S.C. § 3527"
-generated_at: "2026-03-29T20:05:32.591Z"
+generated_at: "2026-03-29T20:33:31.776Z"
 ---
 
 # § 3527. General authority to relieve accountable officials and agents from liability

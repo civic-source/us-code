@@ -3,9 +3,9 @@ title: "Section 2 - Denial of program benefits"
 usc_title: 7
 usc_section: "2"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-29T20:02:52.479Z"
+generated_at: "2026-03-29T20:31:41.954Z"
 ---
 
 # § 1308–2. Denial of program benefits
@@ -17,5 +17,5 @@ generated_at: "2026-03-29T20:02:52.479Z"
 - **(c)**
   - **(1)** Payments otherwise owed to a person or legal entity described in subsections (a) or (b) shall be denied in a pro rata manner based on the ownership interest of the person or legal entity in a farm.
   - **(2)** Payments otherwise payable to a person or legal entity shall be denied in a pro rata manner if the person or legal entity is a cash rent tenant on a farm owned or under the control of a person or legal entity with respect to which a determination has been made under subsection (a) or (b).
-- **(d)** Any legal entity (including qualified pass-through entities) and any member of any legal entity determined to have knowingly participated in a scheme or device to evade, or that has the purpose of evading, sections 1308, 1308–1, or 1308–3 of this title shall be jointly and severally liable for any amounts that are payable to the Secretary as the result of the scheme or device (including amounts necessary to recover those amounts).
+- **(d)** Any legal entity (including partnerships and joint ventures) and any member of any legal entity determined to have knowingly participated in a scheme or device to evade, or that has the purpose of evading, sections 1308, 1308–1, or 1308–3 of this title shall be jointly and severally liable for any amounts that are payable to the Secretary as the result of the scheme or device (including amounts necessary to recover those amounts).
 - **(e)** The Secretary may partially or fully release from liability any person or legal entity who cooperates with the Secretary in enforcing sections 1308, 1308–1, and 1308–3 of this title, and this section.

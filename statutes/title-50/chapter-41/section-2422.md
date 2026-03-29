@@ -3,9 +3,9 @@ title: "Section 2422 - Office of Defense Nuclear Security"
 usc_title: 50
 usc_section: "2422"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "50 U.S.C. § 2422"
-generated_at: "2026-03-29T20:08:11.180Z"
+generated_at: "2026-03-29T20:35:05.178Z"
 ---
 
 # § 2422. Office of Defense Nuclear Security
@@ -14,4 +14,4 @@ generated_at: "2026-03-29T20:08:11.180Z"
 - **(b)**
   - **(1)** The head of the Office of Defense Nuclear Security is the Chief of Defense Nuclear Security, who shall report to the Administrator and shall implement the security policies directed by the Secretary and Administrator.
   - **(2)** The Chief shall have direct access to the Secretary and all other officials of the Department and the contractors of the Department concerning security matters.
-  - **(3)** The Chief shall be responsible for the development and implementation of security programs for the Administration, including the protection, control and accounting of materials, and for the physical security for all facilities of the Administration.
+  - **(3)** The Chief shall be responsible for the development and implementation of security programs for the Administration, including the protection, control and accounting of materials, and for the physical and cyber security for all facilities of the Administration.

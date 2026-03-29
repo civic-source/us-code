@@ -3,9 +3,9 @@ title: "Section 4271 - Program cost, fielding, and performance goals in planning
 usc_title: 10
 usc_section: "4271"
 chapter: 322
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 4271"
-generated_at: "2026-03-29T20:03:09.784Z"
+generated_at: "2026-03-29T20:31:54.691Z"
 ---
 
 # § 4271. Program cost, fielding, and performance goals in planning major defense acquisition programs
@@ -20,5 +20,5 @@ generated_at: "2026-03-29T20:03:09.784Z"
     - **(B)** the date for initial operational capability (referred to in this section as the “fielding target”); and
     - **(C)** technology maturation, prototyping, and a modular open system approach to evolve system capabilities and improve interoperability.
 - **(b)** In this section:
-  - **(1)** The term “procurement unit cost” has the meaning provided in section 4351(a)(2) of this title .
+  - **(1)** The term “procurement unit cost” has the meaning provided in section 4351(2) of this title .
   - **(2)** The term “initial capabilities document” has the meaning provided in section 4251(d)(1) of this title .

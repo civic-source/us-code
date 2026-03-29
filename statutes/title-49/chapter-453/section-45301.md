@@ -3,14 +3,14 @@ title: "Section 45301 - General provisions"
 usc_title: 49
 usc_section: "45301"
 chapter: 453
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 45301"
-generated_at: "2026-03-29T20:07:58.629Z"
+generated_at: "2026-03-29T20:35:10.943Z"
 ---
 
 # § 45301. General provisions
 
-- **(a)** The Administrator of the Federal Aviation Administration shall establish a schedule of new fees, and a collection process for such fees, for the following services provided by the Administration:
+- **(a)** The Administrator shall establish a schedule of new fees, and a collection process for such fees, for the following services provided by the Administration:
   - **(1)** Air traffic control and related services provided to aircraft other than military and civilian aircraft of the United States Government or of a foreign government that neither take off from, nor land in, the United States.
   - **(2)** Services (other than air traffic control services) provided to a foreign government or services provided to any entity obtaining services outside the United States, except that the Administrator shall not impose fees in any manner for production-certification related service performed outside the United States pertaining to aeronautical products manufactured outside the United States.
 - **(b)**

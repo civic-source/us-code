@@ -3,9 +3,9 @@ title: "Section 7451 - National research activities"
 usc_title: 20
 usc_section: "7451"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "20 U.S.C. § 7451"
-generated_at: "2026-03-29T20:04:33.097Z"
+generated_at: "2026-03-29T20:32:29.009Z"
 ---
 
 # § 7451. National research activities

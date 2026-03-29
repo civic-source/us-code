@@ -3,9 +3,9 @@ title: "Section 15043 - System required"
 usc_title: 42
 usc_section: "15043"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 15043"
-generated_at: "2026-03-29T20:07:44.845Z"
+generated_at: "2026-03-29T20:34:54.196Z"
 ---
 
 # § 15043. System required

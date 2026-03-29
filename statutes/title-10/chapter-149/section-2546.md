@@ -1,12 +1,14 @@
 ---
-title: "Section 2546 - Renumbered § 3103]"
+title: "Section 2546 - Civilian management of the defense acquisition system"
 usc_title: 10
 usc_section: "2546"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2546"
-generated_at: "2026-03-29T20:03:09.689Z"
+generated_at: "2026-03-29T20:31:54.624Z"
 ---
 
-# [§ 2546. Renumbered § 3103]
+# § 2546. Civilian management of the defense acquisition system
 
+- **(a)** Subject to the authority, direction and control of the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment shall be responsible for the management of the defense acquisition system and shall exercise such control of the system and perform such duties as are necessary to ensure the successful and efficient operation of the defense acquisition system, including the duties enumerated and assigned to the Under Secretary elsewhere in this title.
+- **(b)** Subject to the direction of the Under Secretary of Defense for Acquisition and Sustainment on matters pertaining to acquisition, and subject to the authority, direction, and control of the Secretary of the military department concerned, a service acquisition executive of a military department shall be responsible for the management of elements of the defense acquisition system in that military department and shall exercise such control of the system and perform such duties as are necessary to ensure the successful and efficient operation of such elements of the defense acquisition system.

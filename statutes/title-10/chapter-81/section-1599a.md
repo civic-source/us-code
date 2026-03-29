@@ -3,9 +3,9 @@ title: "Section 1599a - Financial assistance to certain employees in acquisition
 usc_title: 10
 usc_section: "1599a"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 1599a"
-generated_at: "2026-03-29T20:03:09.618Z"
+generated_at: "2026-03-29T20:31:54.536Z"
 ---
 
 # § 1599a. Financial assistance to certain employees in acquisition of critical skills

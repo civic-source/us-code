@@ -3,9 +3,9 @@ title: "Section 130f - Notification requirements for sensitive military operatio
 usc_title: 10
 usc_section: "130f"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 130f"
-generated_at: "2026-03-29T20:03:09.415Z"
+generated_at: "2026-03-29T20:31:54.380Z"
 ---
 
 # § 130f. Notification requirements for sensitive military operations
@@ -16,9 +16,10 @@ generated_at: "2026-03-29T20:03:09.415Z"
   - **(2)** The congressional defense committees shall ensure that committee procedures designed to protect from unauthorized disclosure classified information relating to national security of the United States are sufficient to protect the information that is submitted to the committees pursuant to this section.
   - **(3)** In the event of an unauthorized disclosure of a sensitive military operation covered by this section, the Secretary shall ensure, to the maximum extent practicable, that the congressional defense committees are notified immediately of the sensitive military operation concerned. The notification under this paragraph may be verbal or written, but in the event of a verbal notification a written notification shall be provided by not later than 48 hours after the provision of the verbal notification.
 - **(c)** The Secretary of Defense shall periodically brief the congressional defense committees on Department of Defense personnel and equipment assigned to sensitive military operations, including Department of Defense support to such operations conducted under the National Security Act of 1947 ( 50 U.S.C. 3001 et seq.).
-- **(d)** In this section, the term “sensitive military operation” means—
-  - **(1)** a lethal operation or capture operation conducted by the armed forces or conducted by a foreign partner in coordination with the armed forces that targets a specific individual or individuals;
-  - **(2)** an operation conducted by the armed forces in self-defense or in defense of foreign partners, including during a cooperative operation; or
-  - **(3)** an operation conducted by the armed forces to free an individual from the control of hostile foreign forces.
+- **(d)**
+  - **(1)** Except as provided in paragraph (2), in this section, the term “sensitive military operation” means—
+    - **(A)** a lethal operation or capture operation conducted by the armed forces or conducted by a foreign partner in coordination with the armed forces that targets a specific individual or individuals; or
+    - **(B)** an operation conducted by the armed forces in self-defense or in defense of foreign partners, including during a cooperative operation.
+  - **(2)** For purposes of this section, the term “sensitive military operation” does not include any operation conducted within Afghanistan, Syria, or Iraq.
 - **(e)** Nothing in this section shall be construed to provide any new authority or to alter or otherwise affect the War Powers Resolution ( 50 U.S.C. 1541 et seq.), the Authorization for Use of Military Force ( Public Law 107–40 ; 50 U.S.C. 1541 note), or any requirement under the National Security Act of 1947 ( 50 U.S.C. 3001 et seq.).
 - **(f)** Not later than 48 hours after the date on which a foreign partner force has been designated as eligible for the provision of collective self-defense by the armed forces for the purposes of subsection (d)(1)(B), the Secretary of Defense shall provide to the congressional defense committees notice in writing of such designation.

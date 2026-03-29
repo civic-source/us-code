@@ -3,9 +3,9 @@ title: "Section 3951 - United States citizens hired abroad"
 usc_title: 22
 usc_section: "3951"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 3951"
-generated_at: "2026-03-29T20:04:46.867Z"
+generated_at: "2026-03-29T20:33:00.046Z"
 ---
 
 # § 3951. United States citizens hired abroad
@@ -17,4 +17,3 @@ generated_at: "2026-03-29T20:04:46.867Z"
   - **(2)** Family members employed under this section shall be paid in accordance with the Foreign Service Schedule or the salary rates established under section 3967 of this title .
   - **(3)** In exceptional circumstances, non-family members may be paid in accordance with the Foreign Service Schedule or the salary rates established under section 3967 of this title , if the Secretary determines that the national interest would be served by such payments.
 - **(d)** Nonfamily member United States citizens employed under this section shall not be eligible by reason of such employment for benefits under subchapter VIII of this chapter, or under chapters 1 1 So in original. Probably should be “chapter”. 83 or 84 of title 5.
-- **(e)** The Secretary shall hold a family member of a government employee described in subsection (a) seeking employment in a position described in that subsection to the same employment standards as those applicable to Foreign Service officers, Foreign Service personnel, or foreign national employees seeking the same or a substantially similar position.

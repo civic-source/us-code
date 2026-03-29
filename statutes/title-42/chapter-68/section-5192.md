@@ -3,9 +3,9 @@ title: "Section 5192 - Federal emergency assistance"
 usc_title: 42
 usc_section: "5192"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 5192"
-generated_at: "2026-03-29T20:07:44.355Z"
+generated_at: "2026-03-29T20:34:53.667Z"
 ---
 
 # § 5192. Federal emergency assistance
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T20:07:44.355Z"
     - **(E)** management, control, and reduction of immediate threats to public health and safety;
   - **(4)** provide emergency assistance through Federal agencies;
   - **(5)** remove debris in accordance with the terms and conditions of section 5173 of this title ;
-  - **(6)** provide assistance in accordance with section 5174 of this title and section 5183 of this title ;
+  - **(6)** provide assistance in accordance with section 5174 of this title ;
   - **(7)** assist State and local governments in the distribution of medicine, food, and other consumable supplies, and emergency assistance; and
   - **(8)** provide accelerated Federal assistance and Federal support where necessary to save lives, prevent human suffering, or mitigate severe damage, which may be provided in the absence of a specific request and in which case the President—
     - **(A)** shall, to the fullest extent practicable, promptly notify and coordinate with a State in which such assistance or support is provided; and

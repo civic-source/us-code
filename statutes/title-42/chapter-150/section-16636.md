@@ -3,9 +3,9 @@ title: "Section 16636 - Omitted"
 usc_title: 42
 usc_section: "16636"
 chapter: 150
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 16636"
-generated_at: "2026-03-29T20:07:44.932Z"
+generated_at: "2026-03-29T20:34:54.258Z"
 ---
 
 # §§ 16635, 16636. Omitted

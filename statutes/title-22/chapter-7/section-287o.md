@@ -3,9 +3,9 @@ title: "Section 287o - National Commission on Educational, Scientific, and Cultu
 usc_title: 22
 usc_section: "287o"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 287o"
-generated_at: "2026-03-29T20:04:46.676Z"
+generated_at: "2026-03-29T20:32:59.883Z"
 ---
 
 # § 287o. National Commission on Educational, Scientific, and Cultural Cooperation; membership; meetings; expenses

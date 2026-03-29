@@ -3,9 +3,9 @@ title: "Section 1075a - TRICARE Prime: cost sharing"
 usc_title: 10
 usc_section: "1075a"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 1075a"
-generated_at: "2026-03-29T20:03:09.552Z"
+generated_at: "2026-03-29T20:31:54.483Z"
 ---
 
 # § 1075a. TRICARE Prime: cost sharing
@@ -22,10 +22,3 @@ generated_at: "2026-03-29T20:03:09.552Z"
   - **(3)** Enrollment fees, deductible amounts, and catastrophic caps under this section are on a calendar-year basis.
   - **(4)** The cost-sharing requirements applicable to services not specifically addressed in the table set forth in paragraph (1) shall be established by the Secretary.
 - **(c)** Notwithstanding subsection (b)(1), the cost-sharing amount for a beneficiary enrolled in TRICARE Prime who does not obtain a referral for care under paragraph (1) of section 1095f(a) of this title (or a waiver pursuant to paragraph (2) of such section for such care) shall be an amount equal to 50 percent of the allowed point-of-service charge for such care.
-- **(d)**
-  - **(1)**
-    - **(A)** Notwithstanding any other provision of this section, the cost-sharing amount under this section for any beneficiary enrolled in TRICARE Prime for a service described in subparagraph (B) that is provided under TRICARE Prime is $0.
-    - **(B)** A service described in this subparagraph is any contraceptive method approved, cleared, or authorized under section 505, 510(k), 513(f)(2), or 515 of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 355 , 360(k), 360c(f)(2), 360e), any contraceptive care (including with respect to insertion, removal, and follow up), any sterilization procedure, or any patient education or counseling service provided in connection with any such contraceptive, care, or procedure.
-  - **(2)**
-    - **(A)** Consistent with other provisions of this chapter and subject to requirements to be prescribed by the Secretary, the Secretary may waive cost-sharing requirements for the first three outpatient mental health visits each year of a beneficiary in the active-duty family member category (as described in section 1075(b)(1)(A) of this title ).
-    - **(B)** This paragraph shall terminate on the date that is five years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024.

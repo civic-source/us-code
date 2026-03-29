@@ -3,9 +3,9 @@ title: "Section 22103 - Applications"
 usc_title: 49
 usc_section: "22103"
 chapter: 221
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 22103"
-generated_at: "2026-03-29T20:07:58.502Z"
+generated_at: "2026-03-29T20:35:10.823Z"
 ---
 
 # § 22103. Applications

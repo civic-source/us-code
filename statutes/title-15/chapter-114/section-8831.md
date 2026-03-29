@@ -3,9 +3,9 @@ title: "Section 8831 - National Institute of Standards and Technology activities
 usc_title: 15
 usc_section: "8831"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 8831"
-generated_at: "2026-03-29T20:03:27.699Z"
+generated_at: "2026-03-29T20:32:10.105Z"
 ---
 
 # § 8831. National Institute of Standards and Technology activities and quantum consortium
@@ -13,11 +13,8 @@ generated_at: "2026-03-29T20:03:27.699Z"
 - **(a)** As part of the Program, the Director of the National Institute of Standards and Technology—
   - **(1)** shall continue to support and expand basic and applied quantum information science and technology research and development of measurement and standards infrastructure necessary to advance commercial development of quantum applications;
   - **(2)** shall use the existing programs of the National Institute of Standards and Technology, in collaboration with other Federal departments and agencies, as appropriate, to train scientists in quantum information science and technology to increase participation in the quantum fields;
-  - **(3)** shall carry out research to facilitate the development and standardization of quantum cryptography and post-quantum classical cryptography;
-  - **(4)** shall carry out research to facilitate the development and standardization of quantum networking, communications, and sensing technologies and applications;
-  - **(5)** for quantum technologies determined by the Director of the National Institute of Standards and Technology to be at a readiness level sufficient for standardization, shall provide technical review and assistance to such other Federal agencies as the Director considers appropriate for the development of quantum networking infrastructure standards;
-  - **(6)** shall establish or expand collaborative ventures or consortia with other public or private sector entities, including industry, universities, and Federal laboratories for the purpose of advancing the field of quantum information science and engineering; and
-  - **(7)** may enter into and perform such contracts, including cooperative research and development arrangements and grants and cooperative agreements or other transactions, as may be necessary in the conduct of the work of the National Institute of Standards and Technology and on such terms as the Director considers appropriate, in furtherance of the purposes of this chapter.
+  - **(3)** shall establish or expand collaborative ventures or consortia with other public or private sector entities, including industry, universities, and Federal laboratories for the purpose of advancing the field of quantum information science and engineering; and
+  - **(4)** may enter into and perform such contracts, including cooperative research and development arrangements and grants and cooperative agreements or other transactions, as may be necessary in the conduct of the work of the National Institute of Standards and Technology and on such terms as the Director considers appropriate, in furtherance of the purposes of this chapter.
 - **(b)**
   - **(1)** Not later than 1 year after December 21, 2018 , the Director of the National Institute of Standards and Technology shall convene a consortium of stakeholders to identify the future measurement, standards, cybersecurity, and other appropriate needs for supporting the development of a robust quantum information science and technology industry in the United States.
   - **(2)** The goals of the consortium shall be—

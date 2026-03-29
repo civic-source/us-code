@@ -3,9 +3,9 @@ title: "Section 8075 - Bureau Chiefs: succession to duties"
 usc_title: 10
 usc_section: "8075"
 chapter: 809
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 8075"
-generated_at: "2026-03-29T20:03:09.855Z"
+generated_at: "2026-03-29T20:31:54.726Z"
 ---
 
 # § 8075. Bureau Chiefs: succession to duties

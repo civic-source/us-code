@@ -3,9 +3,9 @@ title: "Section 146 - Volume cap"
 usc_title: 26
 usc_section: "146"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 146"
-generated_at: "2026-03-29T20:05:22.220Z"
+generated_at: "2026-03-29T20:33:26.846Z"
 ---
 
 # § 146. Volume cap
@@ -76,10 +76,8 @@ generated_at: "2026-03-29T20:05:22.220Z"
 - **(g)** Only for purposes of this section, the term “private activity bond” shall not include—
   - **(1)** any qualified veterans’ mortgage bond,
   - **(2)** any qualified 501(c)(3) bond,
-  - **(3)** any exempt facility bond issued as part of an issue described in paragraph (1), (2), (12), (13), (14), or (15) of section 142(a),
-  - **(4)** 75 percent of any exempt facility bond issued as part of an issue described in paragraph (11) of section 142(a) (relating to high-speed intercity rail facilities),
-  - **(5)** 75 percent of any exempt facility bond issued as part of an issue described in paragraph (16) of section 142(a) (relating to qualified broadband projects), and
-  - **(6)** 75 percent of any exempt facility bond issued as part of an issue described in paragraph (17) of section 142(a) (relating to qualified carbon dioxide capture facilities).
+  - **(3)** any exempt facility bond issued as part of an issue described in paragraph (1), (2), (12), (13), (14), or (15) of section 142(a), and
+  - **(4)** 75 percent of any exempt facility bond issued as part of an issue described in paragraph (11) of section 142(a) (relating to high-speed intercity rail facilities).
 - **(h)**
   - **(1)** Only for purposes of this section, the term “private activity bond” shall not include any exempt facility bond described in section 142(a)(6) which is issued as part of an issue if all of the property to be financed by the net proceeds of such issue is to be owned by a governmental unit.
   - **(2)** In determining ownership for purposes of paragraph (1), section 142(b)(1)(B) shall apply, except that a lease term shall be treated as satisfying clause (ii) thereof if it is not more than 20 years.

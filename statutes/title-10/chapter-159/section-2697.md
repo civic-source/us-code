@@ -1,16 +1,16 @@
 ---
-title: "Section 2697 - Acceptance and use of landing fees charged for use of military airfields by civil aircraft"
+title: "Section 2697 - Acceptance and use of landing fees charged for use of domestic military airfields by civil aircraft"
 usc_title: 10
 usc_section: "2697"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2697"
-generated_at: "2026-03-29T20:03:09.711Z"
+generated_at: "2026-03-29T20:31:54.641Z"
 ---
 
-# § 2697. Acceptance and use of landing fees charged for use of military airfields by civil aircraft
+# § 2697. Acceptance and use of landing fees charged for use of domestic military airfields by civil aircraft
 
-- **(a)** The Secretary of a military department may impose landing fees for the use by civil aircraft of military airfields under the jurisdiction of that Secretary and may use any fees received under this section as a source of funding for the operation and maintenance of airfields of that department.
+- **(a)** The Secretary of a military department may impose landing fees for the use by civil aircraft of domestic military airfields under the jurisdiction of that Secretary and may use any fees received under this section as a source of funding for the operation and maintenance of airfields of that department.
 - **(b)** The Secretary of Defense shall prescribe the amount of the landing fees that may be imposed under this section. Such fees shall be uniform among the military departments.
 - **(c)** Amounts received for a fiscal year in payment of landing fees imposed under this section for the use of a military airfield shall be credited to the appropriation that is available for that fiscal year for the operation and maintenance of that military airfield, shall be merged with amounts in the appropriation to which credited, and shall be available for that military airfield for the same period and purposes as the appropriation is available.
 - **(d)** The Secretary of a military department shall determine whether consideration for a landing fee has been received in a lease, license, or other real estate agreement for an airfield and shall use such a determination to offset appropriate amounts imposed under subsection (a) for that airfield.

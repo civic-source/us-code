@@ -3,9 +3,9 @@ title: "Section 9074 - Required assurances"
 usc_title: 15
 usc_section: "9074"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 9074"
-generated_at: "2026-03-29T20:03:27.730Z"
+generated_at: "2026-03-29T20:32:10.130Z"
 ---
 
 # § 9074. Required assurances
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T20:03:27.730Z"
   - **(3)** The authority provided under this subsection shall terminate on March 1, 2022 , and any requirements issued by the Secretary of Transportation under this subsection shall cease to apply after that date.
 - **(c)**
   - **(1)** If, after December 27, 2020 , a contractor expends any funds made available pursuant to section 9072 of this title and distributed pursuant to section 9073 of this title , the assurances in paragraphs (1) through (3) of subsection (a) shall continue to apply until the dates included in such paragraphs, or the date on which the contractor fully expends such financial assistance, whichever is later.
-  - **(2)** Not later than April 5, 2021 , each contractor described in section 9071(3)(A)(i) of this title that has received funds pursuant to such section 9072 of this title shall report to the Secretary on the amount of such funds that the contractor has expended through March 31, 2021 . If the contractor has expended an amount that is less than 100 percent of the total amount of funds the contractor received under such section, the Secretary shall initiate an action to recover any funds that remain unexpended as of April 30, 2021 .
+  - **(2)** Not later than April 5, 2021 , each contractor described in section 9071(3)(A)(i) that has received funds pursuant to such section 9072 of this title shall report to the Secretary on the amount of such funds that the contractor has expended through March 31, 2021 . If the contractor has expended an amount that is less than 100 percent of the total amount of funds the contractor received under such section, the Secretary shall initiate an action to recover any funds that remain unexpended as of April 30, 2021 .
 - **(d)**
   - **(1)** Subject to paragraph (2), any contractor that has unspent financial assistance provided under this part as of December 27, 2020 , and conducted involuntary furloughs or reduced pay rates and benefits, between March 27, 2020 , and the date on which the contractor entered into an agreement with the Secretary related to financial assistance under this part, shall recall (as defined in section 9071 of this title ) employees who were involuntarily furloughed during such period by not later than January 4, 2021 .
   - **(2)** The Secretary of the Treasury shall waive the requirement under paragraph (1) for a contractor to recall employees if the contractor certifies that the contractor has or will have insufficient remaining financial assistance provided under this part to keep recalled employees employed for more than two weeks upon returning to work.

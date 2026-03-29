@@ -1,14 +1,17 @@
 ---
-title: "Section 4956 - Distribution"
+title: "Section 4956 - Authority to provide certain types of technical assistance"
 usc_title: 10
 usc_section: "4956"
 chapter: 388
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 4956"
-generated_at: "2026-03-29T20:03:09.807Z"
+generated_at: "2026-03-29T20:31:54.707Z"
 ---
 
-# § 4956. Distribution
+# § 4956. Authority to provide certain types of technical assistance
 
-The Secretary shall allocate funds available for assistance under this chapter equally to each Department of Defense contract administrative services district. If in any such fiscal year there is an insufficient number of satisfactory proposals in a district for cooperative agreements to allow effective use of the funds allocated to that district, the funds remaining with respect to that district shall be reallocated among the remaining districts.
-
+- **(a)** The procurement technical assistance furnished by eligible entities assisted by the Department of Defense under this chapter may include technical assistance relating to contracts entered into with (1) Federal departments and agencies other than the Department of Defense, and (2) State and local governments.
+- **(b)** An eligible entity assisted by the Department of Defense under this chapter also may furnish information relating to assistance and other programs available pursuant to the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992.
+- **(c)** An eligible entity assisted by the Department of Defense under this chapter also may furnish education on the requirements applicable to small businesses under the regulations issued—
+  - **(1)** under section 38 of the Arms Export Control Act ( 22 U.S.C. 2778 ), and on compliance with those requirements; and
+  - **(2)** under section 9 of the Small Business Act ( 15 U.S.C. 638 ), and on compliance with those requirements.

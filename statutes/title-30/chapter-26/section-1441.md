@@ -3,9 +3,9 @@ title: "Section 1441 - Declaration of Congressional intent"
 usc_title: 30
 usc_section: "1441"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "30 U.S.C. § 1441"
-generated_at: "2026-03-29T20:05:08.757Z"
+generated_at: "2026-03-29T20:33:07.429Z"
 ---
 
 # § 1441. Declaration of Congressional intent

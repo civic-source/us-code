@@ -1,22 +1,25 @@
 ---
-title: "Section 6209 - Incorporation and non-Federal status of broadcasting entities"
+title: "Section 6209 - Broadcast entities reporting to Chief Executive Officer"
 usc_title: 22
 usc_section: "6209"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 6209"
-generated_at: "2026-03-29T20:04:46.933Z"
+generated_at: "2026-03-29T20:33:00.113Z"
 ---
 
-# § 6209. Incorporation and non-Federal status of broadcasting entities
+# § 6209. Broadcast entities reporting to Chief Executive Officer
 
-- **(a)** In this chapter—
-  - **(1)** the term “grant” includes agreements under section 6305 of title 31 ; and
-  - **(2)** the term “grantee” includes recipients of an agreement described in paragraph (1).
-- **(b)** The Chief Executive Officer is authorized to incorporate grantees in accordance with the regular notification procedures of—
-  - **(1)** the Committee on Appropriations of the Senate;
-  - **(2)** the Committee on Foreign Relations of the Senate;
-  - **(3)** the Committee on Appropriations of the House of Representatives; and
-  - **(4)** the Committee on Foreign Affairs of the House of Representatives.
-- **(c)** Nothing in this chapter or in any other Act, and no action taken pursuant to this chapter or any other Act, may be construed to make a grantee incorporated pursuant to subsection (b), or any other grantee or entity provided funding by the Agency, a Federal agency or instrumentality.
-- **(d)** The chief executive officer or the equivalent official of RFE/RL Inc., Radio Free Asia, the Open Technology Fund, and the Middle East Broadcasting Networks, and any other organization that is established or authorized under this chapter, shall serve at the pleasure of, and may be named by, the Chief Executive Officer of the Agency, with the concurrence of the Grantee Board and subject to the approval of the Advisory Board pursuant to section 6205 of this title .
+- **(a)**
+  - **(1)** The Chief Executive Officer, subject to the regular notification procedures of the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives and the Committee on Appropriations and the Committee on Foreign Relations of the Senate, who is authorized to incorporate a grantee, may condition annual grants to RFE/RL, Inc., Radio Free Asia, the Open Technology Fund, and the Middle East Broadcasting Networks on the consolidation of such grantees into a single, consolidated private, non-profit corporation (in accordance with section 501(c)(3) of title 26 and exempt from tax under section 501(a) of such title), in such a manner and under such terms and conditions as determined by the Chief Executive Officer, which may broadcast and provide news and information to audiences wherever the agency may broadcast, for activities that the Chief Executive Officer determines are consistent with the purposes of this chapter, including the terms and conditions of subsections (g)(5), (h), (i), and (j) of section 6207 of this title , except that the Agency may select any name for such a consolidated grantee.
+  - **(2)** No State or political subdivision of a State may establish, enforce, or continue in effect any provision of law or legal requirement that is different from, or is in conflict with, any requirement or authority applicable under this chapter relating to the consolidation, incorporation, structure, or dissolution of any grantee under this chapter.
+- **(b)** The consolidated grantee established under subsection (a) shall—
+  - **(1)** counter state-sponsored propaganda which undermines the national security or foreign policy interests of the United States and its allies;
+  - **(2)** provide uncensored local and regional news and analysis to people in societies where a robust, indigenous, independent, and free media does not exist;
+  - **(3)** help countries improve their indigenous capacity to enhance media professionalism and independence, and develop partnerships with local media outlets, as appropriate; and
+  - **(4)** promote unrestricted access to uncensored sources of information, especially via the internet, and use all effective and efficient mediums of communication to reach target audiences.
+- **(c)** Nothing in this chapter or any other Act, or any action taken pursuant to this chapter or any other Act, may be construed to make such a consolidated grantee described in subsection (a) or RFE/RL, Inc., Radio Free Asia, the Open Technology Fund, or the Middle East Broadcasting Networks or any other grantee or entity provided funding by the agency a Federal agency or instrumentality. Employees or staff of such grantees or entities may not be Federal employees. For purposes of this section and this chapter, the term “grant” includes agreements under section 6305 of title 31 , and the term “grantee” includes recipients of such agreements.
+- **(d)** Officers and directors of RFE/RL Inc., Radio Free Asia, the Open Technology Fund, and the Middle East Broadcasting Networks or any organization that is established through the consolidation of such entities, or authorized under this chapter, shall serve at the pleasure of and may be named by the Chief Executive Officer of the Agency.
+- **(e)** RFE/RL, Incorporated, Radio Free Asia, the Open Technology Fund, and the Middle East Broadcasting Networks, Incorporated should remain brand names under which news and related programming and content may be disseminated by the consolidated grantee. Additional brands may be created as necessary.
+- **(f)** No consolidation of grantees authorized under subsection (a) involving any grantee shall result in any legal transfer of ownership of any proprietary information or intellectual property to the United State Agency for Global Media or any other Federal entity.
+- **(g)** No consolidation of grantees authorized under subsection (a) shall result in the consolidation of the Open Technology Fund or any successor entity with any other grantee.

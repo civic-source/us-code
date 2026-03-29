@@ -3,9 +3,9 @@ title: "Section 1074g - Pharmacy benefits program"
 usc_title: 10
 usc_section: "1074g"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 1074g"
-generated_at: "2026-03-29T20:03:09.548Z"
+generated_at: "2026-03-29T20:31:54.480Z"
 ---
 
 # § 1074g. Pharmacy benefits program
@@ -33,8 +33,6 @@ generated_at: "2026-03-29T20:03:09.548Z"
     - **(A)** In the case of any of the years 2018 through 2027, the cost-sharing amounts under this subsection for eligible covered beneficiaries shall be determined in accordance with the following table: For: The cost-sharing amount for a 30-day supply of a retail generic is: The cost-sharing amount for a 30-day supply of a retail formulary is: The cost-sharing amount for a 90-day supply of a mail order generic is: The cost-sharing amount for a 90-day supply of a mail order formulary is: The cost-sharing amount for a 90-day supply of a mail order non-formulary is: 2018 $11 $28 $7 $24 $53 2019 $11 $28 $7 $24 $53 2020 $13 $33 $10 $29 $60 2021 $13 $33 $10 $29 $60 2022 $14 $38 $12 $34 $68 2023 $14 $38 $12 $34 $68 2024 $16 $43 $13 $38 $76 2025 $16 $43 $13 $38 $76 2026 $16 $48 $14 $44 $85 2027 $16 $48 $14 $44 $85
     - **(B)** For any year after 2027, the cost-sharing amounts under this subsection for eligible covered beneficiaries shall be equal to the cost-sharing amounts for the previous year adjusted by an amount, if any, determined by the Secretary to reflect changes in the costs of pharmaceutical agents and prescription dispensing, rounded to the nearest dollar.
     - **(C)** Notwithstanding subparagraphs (A) and (B), the cost-sharing amounts under this subsection for a dependent of a member of the uniformed services who dies while on active duty, a member retired under chapter 61 of this title, or a dependent of a member retired under such chapter shall be equal to the cost-sharing amounts, if any, for 2017.
-    - **(D)** Notwithstanding subparagraphs (A), (B), and (C), the Secretary may selectively waive or reduce cost-sharing amounts under this subsection for a dependent of a member of the uniformed services described in section 1074(c)(3)(B) of this title if the dependent is enrolled in the TRICARE Prime Remote program and accompanies the member to the duty assignment of the member at the expense of the Federal Government.
-    - **(E)** Notwithstanding subparagraphs (A), (B), and (C), the cost-sharing amount under this subsection for any prescription contraceptive on the uniform formulary provided through a retail pharmacy described in paragraph (2)(E)(ii) or through the national mail-order pharmacy program is $0.
   - **(7)** The Secretary shall establish procedures for eligible covered beneficiaries to receive pharmaceutical agents that are not included on the uniform formulary but that are considered to be clinically necessary. Such procedures shall include peer review procedures under which the Secretary may determine that there is a clinical justification for the use of a pharmaceutical agent that is not on the uniform formulary, in which case the pharmaceutical agent shall be provided under the same terms and conditions as an agent on the uniform formulary. Such procedures shall also include an expeditious appeals process for an eligible covered beneficiary, or a network or uniformed provider on behalf of the beneficiary, to establish clinical justification for the use of a pharmaceutical agent that is not on the uniform formulary.
   - **(8)** In carrying out this subsection, the Secretary shall ensure that an eligible covered beneficiary may continue to receive coverage for any maintenance pharmaceutical that is not on the uniform formulary and that was prescribed for the beneficiary before October 5, 1999 , and stabilized the medical condition of the beneficiary.
   - **(9)**

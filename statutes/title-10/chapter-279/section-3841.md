@@ -3,9 +3,9 @@ title: "Section 3841 - Examination of records of contractor"
 usc_title: 10
 usc_section: "3841"
 chapter: 279
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 3841"
-generated_at: "2026-03-29T20:03:09.770Z"
+generated_at: "2026-03-29T20:31:54.681Z"
 ---
 
 # § 3841. Examination of records of contractor
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T20:03:09.770Z"
 - **(a)** In this section, the term “records” includes books, documents, accounting procedures and practices, and other data, regardless of type and regardless of whether such items are in written form, in the form of computer data, or in any other form.
 - **(b)**
   - **(1)** The head of an agency, acting through an authorized representative, is authorized to inspect the plant and audit the records of—
-    - **(A)** a contractor performing a cost-reimbursement, incentive, time-and-materials, labor-hour, or price-redeterminable contract, or any combination of such contracts, made by that agency under a chapter 137 legacy provision; and
+    - **(A)** a contractor performing a cost-reimbursement, incentive, time-and-materials, labor-hour, or price-redeterminable contract, or any combination of such contracts,made by that agency under a chapter 137 legacy provision; and
     - **(B)** a subcontractor performing any cost-reimbursement, incentive, time-and-materials, labor-hour, or price-redeterminable subcontract or any combination of such subcontracts under a contract referred to in subparagraph (A).
   - **(2)** The head of an agency, acting through an authorized representative, is authorized, for the purpose of evaluating the accuracy, completeness, and currency of certified cost or pricing data required to be submitted pursuant to chapter 271 of this title with respect to a contract or subcontract, to examine all records of the contractor or subcontractor related to—
     - **(A)** the proposal for the contract or subcontract;

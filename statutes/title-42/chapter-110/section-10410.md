@@ -3,9 +3,9 @@ title: "Section 10410 - National resource centers and training and technical ass
 usc_title: 42
 usc_section: "10410"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 10410"
-generated_at: "2026-03-29T20:07:44.701Z"
+generated_at: "2026-03-29T20:34:54.046Z"
 ---
 
 # § 10410. National resource centers and training and technical assistance centers

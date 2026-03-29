@@ -3,9 +3,9 @@ title: "Section 127e - Support of special operations to combat terrorism"
 usc_title: 10
 usc_section: "127e"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 127e"
-generated_at: "2026-03-29T20:03:09.412Z"
+generated_at: "2026-03-29T20:31:54.378Z"
 ---
 
 # § 127e. Support of special operations to combat terrorism
@@ -41,7 +41,7 @@ generated_at: "2026-03-29T20:03:09.412Z"
   - **(1)** A covert action, as such term is defined in section 503(e) of the National Security Act of 1947 ( 50 U.S.C. 3093(e) ).
   - **(2)** An introduction of the armed forces, (including as such term is defined in section 8(c) of the War Powers Resolution ( 50 U.S.C. 1547(c) ), into hostilities, or into situations where hostilities are clearly indicated by the circumstances, without specific statutory authorization within the meaning of section 5(b) of such Resolution ( 50 U.S.C. 1544(b) ).
   - **(3)** Activities or support of activities, directly or indirectly, that are inconsistent with the laws of armed conflict.
-- **(h)** The Assistant Secretary of Defense for Special Operations and Low Intensity Conflict shall have primary responsibility within the Office of the Secretary of Defense for oversight of policies and programs for support authorized by this section.
+- **(h)** The Assistant Secretary of Defense for Special Operations and “Low Intensity” Conflict shall have primary responsibility within the Office of the Secretary of Defense for oversight of policies and programs for support authorized by this section.
 - **(i)**
   - **(1)** Not later than 120 days after the last day of each fiscal year, the Secretary shall submit to the congressional defense committees a report on the support provided under this section during the preceding calendar year.
   - **(2)** Not later than six months after the date of the submittal of the report most recently submitted under paragraph (1), the Secretary shall submit to the congressional defense committees a report on the support provided under this section during the first half of the calendar year in which the report under this paragraph is submitted.

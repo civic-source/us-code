@@ -3,9 +3,9 @@ title: "Section 6038 - Information reporting with respect to certain foreign cor
 usc_title: 26
 usc_section: "6038"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 6038"
-generated_at: "2026-03-29T20:05:22.655Z"
+generated_at: "2026-03-29T20:33:27.275Z"
 ---
 
 # § 6038. Information reporting with respect to certain foreign corporations and partnerships

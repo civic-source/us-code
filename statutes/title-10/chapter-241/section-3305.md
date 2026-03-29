@@ -3,9 +3,9 @@ title: "Section 3305 - Pre-award debriefings"
 usc_title: 10
 usc_section: "3305"
 chapter: 241
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 3305"
-generated_at: "2026-03-29T20:03:09.755Z"
+generated_at: "2026-03-29T20:31:54.671Z"
 ---
 
 # § 3305. Pre-award debriefings
@@ -18,4 +18,4 @@ generated_at: "2026-03-29T20:03:09.755Z"
   - **(2)** a summary of the rationale for the offeror’s exclusion; and
   - **(3)** reasonable responses to relevant questions posed by the debriefed offeror as to whether source selection procedures set forth in the solicitation, applicable regulations, and other applicable authorities were followed by the executive agency.
 - **(e)** The debriefing conducted under subsections (a) and (b) may not disclose the number or identity of other offerors and shall not disclose information about the content, ranking, or evaluation of other offerors’ proposals.
-- **(f)** The contracting officer shall include a summary of any debriefing conducted under this section in the contract file.
+- **(f)** The contracting officer shall include a summary of any debriefing conducted this section 1 1 So in original. Probably should be “under this section”. in the contract file.

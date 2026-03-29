@@ -1,12 +1,14 @@
 ---
-title: "Section 2513 - Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1) , Dec. 18, 2025 , 139 Stat. 1458"
+title: "Section 2513 - Restriction on licensing requirement for certain defense activities and facilities"
 usc_title: 50
 usc_section: "2513"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "50 U.S.C. § 2513"
-generated_at: "2026-03-29T20:08:11.182Z"
+generated_at: "2026-03-29T20:35:05.181Z"
 ---
 
-# §§ 2511 to 2513. Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1) , Dec. 18, 2025 , 139 Stat. 1458
+# § 2513. Restriction on licensing requirement for certain defense activities and facilities
+
+None of the funds authorized to be appropriated by the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981 ( Public Law 96–540 ; 94 Stat. 3197 ) or any other Act may be used for any purpose related to licensing of any defense activity or facility of the Department of Energy by the Nuclear Regulatory Commission.
 

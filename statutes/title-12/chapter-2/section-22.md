@@ -3,9 +3,9 @@ title: "Section 22 - Organization certificate"
 usc_title: 12
 usc_section: "22"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "12 U.S.C. § 22"
-generated_at: "2026-03-29T20:03:45.554Z"
+generated_at: "2026-03-29T20:32:14.825Z"
 ---
 
 # § 22. Organization certificate

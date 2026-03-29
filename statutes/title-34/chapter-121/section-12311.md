@@ -3,9 +3,9 @@ title: "Section 12311 - Training programs"
 usc_title: 34
 usc_section: "12311"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "34 U.S.C. § 12311"
-generated_at: "2026-03-29T20:05:30.396Z"
+generated_at: "2026-03-29T20:33:40.345Z"
 ---
 
 # § 12311. Training programs
@@ -15,4 +15,4 @@ generated_at: "2026-03-29T20:05:30.396Z"
   - **(2)** supervision; and
   - **(3)** relapse prevention.
 - **(b)** The Attorney General shall ensure, to the extent practicable, that training programs developed under subsection (a) are available in geographically diverse locations throughout the country.
-- **(c)** There are authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2023 through 2027.
+- **(c)** There are authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2014 through 2018.

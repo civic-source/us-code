@@ -3,9 +3,9 @@ title: "Section 1616c - Tribal recruitment and retention program"
 usc_title: 25
 usc_section: "1616c"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "25 U.S.C. § 1616c"
-generated_at: "2026-03-29T20:04:54.353Z"
+generated_at: "2026-03-29T20:32:54.690Z"
 ---
 
 # § 1616c. Tribal recruitment and retention program

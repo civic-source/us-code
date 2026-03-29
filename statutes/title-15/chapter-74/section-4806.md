@@ -3,9 +3,9 @@ title: "Section 4806 - Powers of Council"
 usc_title: 15
 usc_section: "4806"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 4806"
-generated_at: "2026-03-29T20:03:27.611Z"
+generated_at: "2026-03-29T20:32:10.035Z"
 ---
 
 # § 4806. Powers of Council
@@ -30,6 +30,6 @@ generated_at: "2026-03-29T20:03:27.611Z"
     - **(C)** to encourage the ability of the industry involved to compete in markets identified under section 4807(b)(1)(C) of this title ; or
     - **(D)** to alleviate the problems in a specific policy area facing more than one industry.
   - **(5)** Any discussion held by any subcouncil shall not be considered to violate any Federal or State antitrust law.
-  - **(6)** Any discussion held by any subcouncil shall not be subject to the provisions of chapter 10 of title 5, except that a Federal representative shall attend all subcouncil meetings.
+  - **(6)** Any discussion held by any subcouncil shall not be subject to the provisions of the Federal Advisory Committee Act, except that a Federal representative shall attend all subcouncil meetings.
   - **(7)** Any subcouncil shall terminate 30 days after making recommendations, unless the Council specifically requests that the subcouncil continue in operation.
-- **(h)** The provisions of subsections (e) and (f) of section 1009 of title 5 shall not apply to the Council.
+- **(h)** The provisions of subsections (e) and (f) of section 10, 1 1 So in original. The comma probably should not appear. of the Federal Advisory Committee Act shall not apply to the Council.

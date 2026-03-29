@@ -3,9 +3,9 @@ title: "Section 20925 - Development and availability of registry management and 
 usc_title: 34
 usc_section: "20925"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "34 U.S.C. § 20925"
-generated_at: "2026-03-29T20:05:30.431Z"
+generated_at: "2026-03-29T20:33:40.370Z"
 ---
 
 # § 20925. Development and availability of registry management and website software

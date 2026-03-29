@@ -3,9 +3,9 @@ title: "Section 4307 - Contractor certification"
 usc_title: 41
 usc_section: "4307"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "41 U.S.C. § 4307"
-generated_at: "2026-03-29T20:05:58.286Z"
+generated_at: "2026-03-29T20:34:07.746Z"
 ---
 
 # § 4307. Contractor certification

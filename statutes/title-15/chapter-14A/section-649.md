@@ -3,9 +3,9 @@ title: "Section 649 - Office of International Trade"
 usc_title: 15
 usc_section: "649"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 649"
-generated_at: "2026-03-29T20:03:27.304Z"
+generated_at: "2026-03-29T20:32:09.794Z"
 ---
 
 # § 649. Office of International Trade
@@ -80,7 +80,7 @@ generated_at: "2026-03-29T20:03:27.304Z"
   - **(2)** work with the Department of Commerce, the Office of the United States Trade Representative, and the International Trade Commission to increase access to trade remedy proceedings for small businesses.
 - **(f)** The Associate Administrator shall submit an annual report to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives that contains—
   - **(1)** a description of the progress of the Office in implementing the requirements of this section;
-  - **(2)** a detailed account of the results of export growth activities of the Administration, including the activities of each district and regional office of the Administration, based on the performance measures described in subsection (i); 1 1 So in original. Probably should be a reference to subsection (j).
+  - **(2)** a detailed account of the results of export growth activities of the Administration, including the activities of each district and regional office of the Administration, based on the performance measures described in subsection (i); 2 2 So in original. Probably should be a reference to subsection (j).
   - **(3)** an estimate of the total number of jobs created or retained as a result of export assistance provided by the Administration and resource partners of the Administration;
   - **(4)** for any travel by the staff of the Office, the destination of such travel and the benefits to the Administration and to small business concerns resulting from such travel; and
   - **(5)** a description of the participation by the Office in trade negotiations.

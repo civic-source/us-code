@@ -1,14 +1,14 @@
 ---
-title: "Section 1385 - Use of Army, Navy, Marine Corps, Air Force, and Space Force as posse comitatus"
+title: "Section 1385 - Use of Army and Air Force as posse comitatus"
 usc_title: 18
 usc_section: "1385"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "18 U.S.C. § 1385"
-generated_at: "2026-03-29T20:03:53.743Z"
+generated_at: "2026-03-29T20:32:21.375Z"
 ---
 
-# § 1385. Use of Army, Navy, Marine Corps, Air Force, and Space Force as posse comitatus
+# § 1385. Use of Army and Air Force as posse comitatus
 
-Whoever, except in cases and under circumstances expressly authorized by the Constitution or Act of Congress, willfully uses any part of the Army, the Navy, the Marine Corps, the Air Force, or the Space Force as a posse comitatus or otherwise to execute the laws shall be fined under this title or imprisoned not more than two years, or both.
+Whoever, except in cases and under circumstances expressly authorized by the Constitution or Act of Congress, willfully uses any part of the Army or the Air Force as a posse comitatus or otherwise to execute the laws shall be fined under this title or imprisoned not more than two years, or both.
 

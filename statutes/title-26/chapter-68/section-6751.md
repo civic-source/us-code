@@ -3,9 +3,9 @@ title: "Section 6751 - Procedural requirements"
 usc_title: 26
 usc_section: "6751"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 6751"
-generated_at: "2026-03-29T20:05:22.734Z"
+generated_at: "2026-03-29T20:33:27.356Z"
 ---
 
 # § 6751. Procedural requirements
@@ -14,6 +14,6 @@ generated_at: "2026-03-29T20:05:22.734Z"
 - **(b)**
   - **(1)** No penalty under this title shall be assessed unless the initial determination of such assessment is personally approved (in writing) by the immediate supervisor of the individual making such determination or such higher level official as the Secretary may designate.
   - **(2)** Paragraph (1) shall not apply to—
-    - **(A)** any addition to tax under section 6651, 6654, 6655, or 6662 (but only with respect to an addition to tax by reason of paragraph (9) or (10) of subsection (b) thereof); or
+    - **(A)** any addition to tax under section 6651, 6654, 6655, or 6662 (but only with respect to an addition to tax by reason of subsection (b)(9) thereof); or
     - **(B)** any other penalty automatically calculated through electronic means.
 - **(c)** For purposes of this section, the term “penalty” includes any addition to tax or any additional amount.

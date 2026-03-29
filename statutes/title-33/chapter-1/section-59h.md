@@ -3,13 +3,13 @@ title: "Section 59h - San Francisco, California, Waterfront Area"
 usc_title: 33
 usc_section: "59h"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "33 U.S.C. § 59h"
-generated_at: "2026-03-29T20:05:35.635Z"
+generated_at: "2026-03-29T20:33:34.152Z"
 ---
 
 # § 59h. San Francisco, California, Waterfront Area
 
 - **(a)** The following area is declared to be nonnavigable waters of the United States: All of that portion of the City and County of San Francisco, California, lying shoreward of a line beginning at the intersection of the southerly right of way line of Earl Street prolongation with the Pierhead United States Government Pierhead line, the Pierhead line as defined in the State of California Harbor and Navigation Code Section 1770, as amended in 1961; thence northerly along said Pierhead line to its intersection with a line parallel with and distant 10 feet easterly from, the existing easterly boundary line of Pier 30–32; thence northerly along said parallel line and its northerly prolongation, to a point of intersection with a line parallel with, and distant 10 feet northerly from, the existing northerly boundary of Pier 30–32; thence westerly along last said parallel line to its intersection with said Pierhead line; thence northerly along said Pierhead line, to the intersection of the easterly right of way line of Van Ness Avenue, formerly Marlette Street, prolongation to the Pierhead line.
-- **(b)** The declaration of nonnavigability under subsection (a) applies only to those parts of the area described in subsection (a) that are or will be bulkheaded, filled, or otherwise occupied or covered by permanent structures and does not affect the applicability of any Federal statute or regulation that relates to filling of navigable waters or to other regulated activities within the area described in subsection (a), including sections 401 and 403 of this title, section 1344 of this title , and the National Environmental Policy Act of 1969 [ 42 U.S.C. 4321 et seq.].
+- **(b)** The declaration of nonnavigability under subsection (a) applies only to those parts of the area described in subsection (a) that are or will be bulkheaded, filled, or otherwise occupied or covered by permanent structures and does not affect the applicability of any Federal statute or regulation that relates to filling of navigable waters or to other regulated activities within the area described in subsection (a), including sections 9 and 10 of the Act of March 3, 1899 ( 33 U.S.C. 401 , 403), section 404 of the Federal Water Pollution Control Act [ 33 U.S.C. 1344 ], and the National Environmental Policy Act of 1969 [ 42 U.S.C. 4321 et seq.].
 - **(c)** Congress finds and declares that the area described in subsection (a) contains the seawall, piers, and wharves that comprise the Embarcadero Historic District listed on the National Register of Historic Places on May 12, 2006 .

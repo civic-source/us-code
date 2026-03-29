@@ -3,9 +3,9 @@ title: "Section 4980H - Shared responsibility for employers regarding health cov
 usc_title: 26
 usc_section: "4980H"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 4980H"
-generated_at: "2026-03-29T20:05:22.620Z"
+generated_at: "2026-03-29T20:33:27.240Z"
 ---
 
 # § 4980H. Shared responsibility for employers regarding health coverage
@@ -58,4 +58,3 @@ generated_at: "2026-03-29T20:05:22.620Z"
   - **(1)** Any assessable payment provided by this section shall be paid upon notice and demand by the Secretary, and shall be assessed and collected in the same manner as an assessable penalty under subchapter B of chapter 68.
   - **(2)** The Secretary may provide for the payment of any assessable payment provided by this section on an annual, monthly, or other periodic basis as the Secretary may prescribe.
   - **(3)** The Secretary shall prescribe rules, regulations, or guidance for the repayment of any assessable payment (including interest) if such payment is based on the allowance or payment of an applicable premium tax credit or cost-sharing reduction with respect to an employee, such allowance or payment is subsequently disallowed, and the assessable payment would not have been required to be made but for such allowance or payment.
-  - **(4)** The Secretary shall allow an applicable large employer at least 90 days from the date of the first letter which informs the employer of a proposed assessment of the employer shared responsibility payment under this section to respond to the proposed assessment before taking any further action with respect to such proposed assessment.

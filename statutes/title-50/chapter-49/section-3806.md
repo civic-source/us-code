@@ -3,9 +3,9 @@ title: "Section 3806 - Deferments and exemptions from training and service"
 usc_title: 50
 usc_section: "3806"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "50 U.S.C. § 3806"
-generated_at: "2026-03-29T20:08:11.259Z"
+generated_at: "2026-03-29T20:35:05.264Z"
 ---
 
 # § 3806. Deferments and exemptions from training and service
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T20:08:11.259Z"
     - **(A)** periods of active duty training performed as a member of a reserve component pursuant to an order or call to active duty solely for training purposes;
     - **(B)** periods of active duty in which the service consisted solely of training under the Army specialized training program, the Army Air Force college training program, or any similar program under the jurisdiction of the Navy, Marine Corps, or Coast Guard;
     - **(C)** periods of active duty as a cadet at the United States Military Academy or United States Coast Guard Academy, or as a midshipman at the United States Naval Academy, or in a preparatory school after nomination as a principal, alternate, or candidate for admission to any of such academies; or
-    - **(D)** periods of active duty in any of the armed forces while being processed for entry into or separation from any educational program or institution referred to in paragraphs (B) or (C); 2 2 So in original. The semicolon probably should be a period.
+    - **(D)** periods of active duty in any of the armed forces while being processed for entry into or separation from any educational program or institution referred to in paragraphs (B) or (C);
 - **(c)**
   - **(1)** Persons who, on February 1, 1951 , were members of organized units of the federally recognized National Guard, the federally recognized Air National Guard, the Officers’ Reserve Corps, the Regular Army Reserve, the Air Force Reserve, the Enlisted Reserve Corps, the Naval Reserve, the Marine Corps Reserve, the Coast Guard Reserve, or the Public Health Service Reserve, shall, so long as they continue to be such members and satisfactorily participate in scheduled drills and training periods as prescribed by the Secretary of Defense, be exempt from training and service by induction under the provisions of this chapter, but shall not be exempt from registration unless on active duty.
   - **(2)**

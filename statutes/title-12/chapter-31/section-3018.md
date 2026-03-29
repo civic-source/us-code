@@ -3,9 +3,9 @@ title: "Section 3018 - Loans"
 usc_title: 12
 usc_section: "3018"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "12 U.S.C. § 3018"
-generated_at: "2026-03-29T20:03:45.862Z"
+generated_at: "2026-03-29T20:32:15.122Z"
 ---
 
 # § 3018. Loans

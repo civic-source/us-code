@@ -3,9 +3,9 @@ title: "Section 1417 - Prohibitions"
 usc_title: 16
 usc_section: "1417"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 1417"
-generated_at: "2026-03-29T20:04:20.309Z"
+generated_at: "2026-03-29T20:32:45.364Z"
 ---
 
 # § 1417. Prohibitions

@@ -3,9 +3,9 @@ title: "Section 4701 - Findings and purposes"
 usc_title: 16
 usc_section: "4701"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 4701"
-generated_at: "2026-03-29T20:04:20.458Z"
+generated_at: "2026-03-29T20:32:45.475Z"
 ---
 
 # § 4701. Findings and purposes
@@ -38,7 +38,7 @@ generated_at: "2026-03-29T20:04:20.458Z"
   - **(15)** resolving the problems associated with aquatic nuisance species will require the participation and cooperation of the Federal Government and State governments, and investment in the development of prevention technologies.
 - **(b)** The purposes of this chapter are—
   - **(1)** to prevent unintentional introduction and dispersal of nonindigenous species into waters of the United States through ballast water management and other requirements;
-  - **(2)** to coordinate federally conducted, funded, or authorized research, prevention control, information dissemination and other activities regarding the zebra mussel and other aquatic nuisance species;
+  - **(2)** to coordinate federally conducted, funded or authorized research, prevention 1 1 So in original. Probably should be followed by a comma. control, information dissemination and other activities regarding the zebra mussel and other aquatic nuisance species;
   - **(3)** to develop and carry out environmentally sound control methods to prevent, monitor and control unintentional introductions of nonindigenous species from pathways other than ballast water exchange;
   - **(4)** to understand and minimize economic and ecological impacts of nonindigenous aquatic nuisance species that become established, including the zebra mussel; and
   - **(5)** to establish a program of research and technology development and assistance to States in the management and removal of zebra mussels.

@@ -3,9 +3,9 @@ title: "Section 578a - Disposition studies"
 usc_title: 33
 usc_section: "578a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "33 U.S.C. § 578a"
-generated_at: "2026-03-29T20:05:35.666Z"
+generated_at: "2026-03-29T20:33:34.179Z"
 ---
 
 # § 578a. Disposition studies

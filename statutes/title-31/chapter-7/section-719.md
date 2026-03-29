@@ -3,9 +3,9 @@ title: "Section 719 - Comptroller General reports"
 usc_title: 31
 usc_section: "719"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "31 U.S.C. § 719"
-generated_at: "2026-03-29T20:05:32.562Z"
+generated_at: "2026-03-29T20:33:31.748Z"
 ---
 
 # § 719. Comptroller General reports

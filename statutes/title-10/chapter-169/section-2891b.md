@@ -3,9 +3,9 @@ title: "Section 2891b - Considerations of eligible entity housing history in con
 usc_title: 10
 usc_section: "2891b"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2891b"
-generated_at: "2026-03-29T20:03:09.736Z"
+generated_at: "2026-03-29T20:31:54.658Z"
 ---
 
 # § 2891b. Considerations of eligible entity housing history in contracts for privatized military housing

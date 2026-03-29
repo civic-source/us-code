@@ -3,9 +3,9 @@ title: "Section 31c - Geologic mapping program"
 usc_title: 43
 usc_section: "31c"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "43 U.S.C. § 31c"
-generated_at: "2026-03-29T20:05:59.956Z"
+generated_at: "2026-03-29T20:34:16.666Z"
 ---
 
 # § 31c. Geologic mapping program
@@ -69,6 +69,3 @@ generated_at: "2026-03-29T20:05:59.956Z"
       - **(ii)** shall respond to mapping priorities identified for the Federal component and the State component.
     - **(C)** The Survey and recipients of grants under the education component shall not use more than 15.25 percent of the Federal funds made available under the education component for any fiscal year to pay indirect, servicing, or program management charges.
     - **(D)** The Federal share of the cost of activities under the education component for any fiscal year shall not exceed 50 percent.
-  - **(4)**
-    - **(A)** The geologic mapping program shall include an abandoned mine land and mine waste geologic mapping component, the objective of which shall be to establish the geologic framework of abandoned mine land and other land containing mine waste.
-    - **(B)** For the component described in subparagraph (A), the priority shall be mapping abandoned mine land and other land containing mine waste where multiple critical mineral (as defined in section 1606(a) of title 30 ) and metal commodities are anticipated to be present, rather than single mineral resources.

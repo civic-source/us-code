@@ -3,9 +3,9 @@ title: "Section 48102 - Research and development"
 usc_title: 49
 usc_section: "48102"
 chapter: 481
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 48102"
-generated_at: "2026-03-29T20:07:58.655Z"
+generated_at: "2026-03-29T20:35:10.967Z"
 ---
 
 # § 48102. Research and development
@@ -73,13 +73,8 @@ generated_at: "2026-03-29T20:07:58.655Z"
   - **(11)** $194,000,000 for fiscal year 2019;
   - **(12)** $199,000,000 for fiscal year 2020;
   - **(13)** $204,000,000 for fiscal year 2021;
-  - **(14)** $209,000,000 for fiscal year 2022;
-  - **(15)** $214,000,000 for fiscal year 2023;
-  - **(16)** $280,000,000 for fiscal year 2024;
-  - **(17)** $311,000,000 for fiscal year 2025;
-  - **(18)** $323,000,000 for fiscal year 2026;
-  - **(19)** $334,000,000 for fiscal year 2027; and
-  - **(20)** $345,000,000 for fiscal year 2028.
+  - **(14)** $209,000,000 for fiscal year 2022; and
+  - **(15)** $214,000,000 for fiscal year 2023.
 - **(b)**
   - **(1)** The Administrator shall prioritize safety in considering the advice and recommendations of the research advisory committee established by section 44508 of this title in establishing priorities among major categories of research and development activities carried out by the Federal Aviation Administration.
   - **(2)** As safety related activities shall be the highest research priority, at least 70 percent of the amount appropriated under subsection (a) of this section shall be for safety research and development projects.
@@ -94,7 +89,7 @@ generated_at: "2026-03-29T20:07:58.655Z"
   - **(2)** The Administrator shall submit to the Committees on Science and Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on expenditures made under paragraph (1) of this subsection for each fiscal year. The report shall be submitted not later than 60 days after the end of the fiscal year.
 - **(e)** Necessary amounts may be appropriated to the Secretary out of amounts in the Fund available for research and development to conduct research under section 44506(a) and (b) of this title.
 - **(f)** Amounts appropriated under subsection (a) of this section remain available until expended.
-- **(g)** The Administrator shall submit the national aviation research plan to Congress no later than the date that is 30 days after the date of submission of the President’s budget request to Congress for that fiscal year, as required under section 44501(c).
+- **(g)** The Administrator shall submit the national aviation research plan to Congress no later than the date of submission of the President’s budget request to Congress for that fiscal year, as required under section 44501(c).
 - **(h)**
   - **(1)** The Administrator of the Federal Aviation Administration shall establish a program to utilize undergraduate and technical colleges, including Historically Black Colleges and Universities and Hispanic Serving Institutions, in research on subjects of relevance to the Federal Aviation Administration. Grants may be awarded under this subsection for—
     - **(A)** research projects to be carried out at primarily undergraduate institutions and technical colleges;

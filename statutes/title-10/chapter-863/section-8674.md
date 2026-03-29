@@ -3,9 +3,9 @@ title: "Section 8674 - Examination of vessels; striking of vessels from Naval Ve
 usc_title: 10
 usc_section: "8674"
 chapter: 863
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 8674"
-generated_at: "2026-03-29T20:03:09.872Z"
+generated_at: "2026-03-29T20:31:54.740Z"
 ---
 
 # § 8674. Examination of vessels; striking of vessels from Naval Vessel Register
@@ -18,10 +18,9 @@ generated_at: "2026-03-29T20:03:09.872Z"
 - **(b)** A board designated under subsection (a) shall submit to the Secretary in writing its recommendations as to which vessels, if any, among those it examined should be stricken from the Naval Vessel Register.
 - **(c)** If the Secretary concurs with a recommendation by a board that a vessel should be stricken from the Naval Vessel Register, the Secretary shall strike the name of that vessel from the Naval Vessel Register.
 - **(d)**
-  - **(1)** Not later than March 1 each year, the board designated under subsection (a) shall provide to the congressional defense committees a briefing and submit to such committees a report regarding the following:
+  - **(1)** Not later than March 1 each year, the board designated under subsection (a) shall submit to the congressional defense committees a report setting forth the following:
     - **(A)** An overall narrative summary of the material readiness of Navy ships as compared to established material requirements standards.
     - **(B)** The overall number and types of vessels inspected during the preceding fiscal year.
     - **(C)** For in-service vessels, material readiness trends by inspected functional area as compared to the previous five years.
-  - **(2)** Each report under this subsection shall be submitted in—
-    - **(A)** a classified form; and
-    - **(B)** an unclassified form that is releasable to the public without further redaction.
+  - **(2)** Each report under this subsection shall be submitted in an unclassified form that is releasable to the public without further redaction.
+  - **(3)** No report shall be required under this subsection after October 1, 2021 .

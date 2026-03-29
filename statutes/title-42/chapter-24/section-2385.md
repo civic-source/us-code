@@ -3,9 +3,9 @@ title: "Section 2385 - Installations transferable"
 usc_title: 42
 usc_section: "2385"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 2385"
-generated_at: "2026-03-29T20:07:44.185Z"
+generated_at: "2026-03-29T20:34:53.530Z"
 ---
 
 # § 2385. Installations transferable

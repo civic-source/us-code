@@ -3,9 +3,9 @@ title: "Section 8287c - Definitions"
 usc_title: 42
 usc_section: "8287c"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 8287c"
-generated_at: "2026-03-29T20:07:44.599Z"
+generated_at: "2026-03-29T20:34:53.930Z"
 ---
 
 # § 8287c. Definitions
@@ -16,7 +16,7 @@ For purposes of this subchapter, the following definitions apply:
   - **(2)** The term “energy savings” means—
     - **(A)** a reduction in the cost of energy, water, or wastewater treatment, from a base cost established through a methodology set forth in the contract, used in an existing Federal building (as defined in section 8259 of this title ) as a result of—
       - **(i)** the lease or purchase of operating equipment, improvements, altered operation and maintenance, or technical services;
-      - **(ii)** the increased efficient use of existing energy sources by cogeneration or heat recovery, excluding any cogeneration process for other than a Federal building (as defined in section 8259 of this title ); or
+      - **(ii)** the increased efficient use of existing energy sources by cogeneration or heat recovery, excluding any cogeneration process for other than a Federal building (as defined in section 8259 of this title ; or
       - **(iii)** the increased efficient use of existing water sources in either interior or exterior applications;
     - **(B)** the increased efficient use of an existing energy source by cogeneration or heat recovery;
     - **(C)** if otherwise authorized by Federal or State law (including regulations), the sale or transfer of electrical or thermal energy generated on-site from renewable energy sources or cogeneration, but in excess of Federal needs, to utilities or non-Federal energy users;

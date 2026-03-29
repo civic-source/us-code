@@ -3,9 +3,9 @@ title: "Section 3381 - Coordination of counterintelligence activities"
 usc_title: 50
 usc_section: "3381"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "50 U.S.C. § 3381"
-generated_at: "2026-03-29T20:08:11.238Z"
+generated_at: "2026-03-29T20:35:05.248Z"
 ---
 
 # § 3381. Coordination of counterintelligence activities
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T20:08:11.238Z"
       - **(ii)** upon the direction of the President, resolving conflicts that arise between elements of the Government conducting such activities; and
     - **(B)** act as an interagency working group to—
       - **(i)** ensure the discussion and review of matters relating to the implementation of the Counterintelligence Enhancement Act of 2002; and
-      - **(ii)** provide advice to the Director of the National Counterintelligence and Security Center on priorities in the implementation of the National Counterintelligence Strategy produced pursuant to section 904(e)(2) of that Act ( 50 U.S.C. 3383(e)(2) ).
+      - **(ii)** provide advice to the Director of the National Counterintelligence and Security Center on priorities in the implementation of the National Counterintelligence Strategy produced pursuant to section 904(d)(2) of that Act ( 50 U.S.C. 3383(d)(2) ).
   - **(2)** The Board may, for purposes of carrying out its functions under this section, establish such interagency boards and working groups as the Board considers appropriate.
 - **(e)**
   - **(1)** Except as provided in paragraph (5), the head of each department or agency within the executive branch shall ensure that—
@@ -47,4 +47,4 @@ generated_at: "2026-03-29T20:08:11.238Z"
     - **(B)** A department or agency may not conduct a polygraph examination, interrogate, or otherwise take any action that is likely to alert an employee covered by a notice under subparagraph (A) of an investigation described in that subparagraph without prior coordination and consultation with the Federal Bureau of Investigation.
   - **(5)** Where essential to meet extraordinary circumstances affecting vital national security interests of the United States, the President may on a case-by-case basis waive the requirements of paragraph (1), (2), or (3), as they apply to the head of a particular department or agency, or the Director of the Federal Bureau of Investigation. Such waiver shall be in writing and shall fully state the justification for such waiver. Within thirty days, the President shall notify the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives that such waiver has been issued, and at that time or as soon as national security considerations permit, provide these committees with a complete explanation of the circumstances which necessitated such waiver.
   - **(6)** Nothing in this section may be construed to alter the existing jurisdictional arrangements between the Federal Bureau of Investigation and the Department of Defense with respect to investigations of persons subject to the Uniform Code of Military Justice, nor to impose additional reporting requirements upon the Department of Defense with respect to such investigations beyond those required by existing law and executive branch policy.
-  - **(7)** As used in this section, the terms “foreign power” and “agent of a foreign power” have the same meanings as set forth in subsections (a) and (b) of section 1801, respectively, of this title.
+  - **(7)** As used in this section, the terms “foreign power” and “agent of a foreign power” have the same meanings as set forth in sections 1 1 So in original. Probably should be “section”. 1801(a) and (b), respectively, of this title.

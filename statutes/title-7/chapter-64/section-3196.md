@@ -3,9 +3,9 @@ title: "Section 3196 - Research on national and regional animal health or diseas
 usc_title: 7
 usc_section: "3196"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 3196"
-generated_at: "2026-03-29T20:02:52.683Z"
+generated_at: "2026-03-29T20:31:42.133Z"
 ---
 
 # § 3196. Research on national and regional animal health or disease problems
@@ -20,4 +20,4 @@ generated_at: "2026-03-29T20:02:52.683Z"
   - **(5)** whether the status of scientific research is such that accomplishments may be anticipated through the application of scientific effort to such health or disease problem.
 - **(d)** Without regard to any consultation under subsection (c), the Secretary shall, to the extent feasible, award grants on the basis of the priorities assigned through a peer review system. Grantees shall be selected on a competitive basis in accordance with such procedures as the Secretary may establish.
 - **(e)** In the case of multiyear grants, the Secretary shall distribute funds to grant recipients on a schedule which is reasonably related to the timetable required for the orderly conduct of the research project involved.
-- **(f)** Chapter 10 of title 5 and title XVIII of this Act [ 7 U.S.C. 2281 et seq.] shall not apply to a panel or board created solely for the purpose of reviewing applications or proposals submitted under this subchapter.
+- **(f)** The Federal Advisory Committee Act (5 U.S.C. App.) and title XVIII of this Act [ 7 U.S.C. 2281 et seq.] shall not apply to a panel or board created solely for the purpose of reviewing applications or proposals submitted under this subchapter.

@@ -3,9 +3,9 @@ title: "Section 41303 - Transfers of permits"
 usc_title: 49
 usc_section: "41303"
 chapter: 413
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 41303"
-generated_at: "2026-03-29T20:07:58.577Z"
+generated_at: "2026-03-29T20:35:10.896Z"
 ---
 
 # § 41303. Transfers of permits

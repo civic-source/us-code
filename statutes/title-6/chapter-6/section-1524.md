@@ -3,16 +3,16 @@ title: "Section 1524 - Assessment; reports"
 usc_title: 6
 usc_section: "1524"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "6 U.S.C. § 1524"
-generated_at: "2026-03-29T20:02:42.090Z"
+generated_at: "2026-03-29T20:31:30.703Z"
 ---
 
 # § 1524. Assessment; reports
 
 - **(a)** In this section:
   - **(1)** The term “agency information” has the meaning given the term in section 2213 of the Homeland Security Act of 2002 [ 6 U.S.C. 663 ].
-  - **(2)** The terms “cyber threat indicator” and “defensive measure” have the meanings given those terms in section 650 of this title .
+  - **(2)** The terms “cyber threat indicator” and “defensive measure” have the meanings given those terms in section 1501 of this title .
   - **(3)** The term “intrusion assessments” means actions taken under the intrusion assessment plan to identify and remove intruders in agency information systems.
   - **(4)** The term “intrusion assessment plan” means the plan required under section 2210(b)(1) of the Homeland Security Act of 2002 [ 6 U.S.C. 660(b)(1) ].
   - **(5)** The term “intrusion detection and prevention capabilities” means the capabilities required under section 2213(b) of the Homeland Security Act of 2002 [ 6 U.S.C. 663(b) ].

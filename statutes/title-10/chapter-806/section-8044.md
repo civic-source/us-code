@@ -3,9 +3,9 @@ title: "Section 8044 - Assistant Commandant of the Marine Corps"
 usc_title: 10
 usc_section: "8044"
 chapter: 806
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 8044"
-generated_at: "2026-03-29T20:03:09.854Z"
+generated_at: "2026-03-29T20:31:54.725Z"
 ---
 
 # § 8044. Assistant Commandant of the Marine Corps

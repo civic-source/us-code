@@ -3,29 +3,27 @@ title: "Section 937 - Art. 137. Articles to be explained"
 usc_title: 10
 usc_section: "937"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 937"
-generated_at: "2026-03-29T20:03:09.522Z"
+generated_at: "2026-03-29T20:31:54.458Z"
 ---
 
 # § 937. Art. 137. Articles to be explained
 
 - **(a)**
   - **(1)** The sections (articles) of this chapter specified in paragraph (3) shall be carefully explained to each enlisted member at the time of (or within fourteen days after)—
-    - **(A)** the member’s initial entrance on active duty;
-    - **(B)** the member’s initial entrance into a duty status with a reserve component; or
-    - **(C)** the member’s initial entrance on active duty or into a space force active status.
+    - **(A)** the member’s initial entrance on active duty; or
+    - **(B)** the member’s initial entrance into a duty status with a reserve component.
   - **(2)** Such sections (articles) shall be explained again—
-    - **(A)** after the member has completed six months of active duty or, in the case of a member of a reserve component, after the member has completed basic or recruit training;
-    - **(B)** after a member of the Space Force has completed six months of sustained duty or in the case of a member not on sustained duty, after the member has completed basic or recruit training; and
-    - **(C)** at the time when the member reenlists.
+    - **(A)** after the member has completed six months of active duty or, in the case of a member of a reserve component, after the member has completed basic or recruit training; and
+    - **(B)** at the time when the member reenlists.
   - **(3)** This subsection applies with respect to sections 802, 803, 807–815, 825, 827, 831, 837, 838, 855, 877–934, and 937–939 of this title (articles 2, 3, 7–15, 25, 27, 31, 37, 38, 55, 77–134, and 137–139).
 - **(b)**
   - **(1)** The sections (articles) of this chapter specified in paragraph (2) shall be carefully explained to each officer at the time of (or within six months after)—
     - **(A)** the initial entrance of the officer on active duty as an officer; or
-    - **(B)** the initial commissioning of the officer in a reserve component or the Space Force.
+    - **(B)** the initial commissioning of the officer in a reserve component.
   - **(2)** This subsection applies with respect to the sections (articles) specified in subsection (a)(3) and such other sections (articles) as the Secretary concerned may prescribe by regulation.
 - **(c)** Under regulations prescribed by the Secretary concerned, officers with the authority to convene courts-martial or to impose non-judicial punishment shall receive periodic training regarding the purposes and administration of this chapter. Under regulations prescribed by the Secretary of Defense, officers assigned to duty in a joint command or a combatant command, who have such authority, shall receive additional specialized training regarding the purposes and administration of this chapter with respect to joint commands and the combatant commands.
 - **(d)** The text of this chapter and the text of the regulations prescribed by the President under this chapter shall be—
-  - **(1)** made available to a member on active duty, to a member of a reserve component, or to a member of the Space Force, upon request by the member, for the member’s personal examination; and
+  - **(1)** made available to a member on active duty or to a member of a reserve component, upon request by the member, for the member’s personal examination; and
   - **(2)** maintained by the Secretary of Defense in electronic formats that are updated periodically and made available on the Internet.

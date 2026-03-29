@@ -3,14 +3,14 @@ title: "Section 50c - Improved apprenticeship program coordination between the D
 usc_title: 29
 usc_section: "50c"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "29 U.S.C. § 50c"
-generated_at: "2026-03-29T20:05:03.616Z"
+generated_at: "2026-03-29T20:33:05.648Z"
 ---
 
 # § 50c. Improved apprenticeship program coordination between the Department of Labor and the Department of Veterans Affairs
 
-- **(a)** In this Act:
+- **(a)** In this section:
   - **(1)** The term “registered apprenticeship program” means an apprenticeship program registered under the Act of August 16, 1937 ( 50 Stat. 664 ; commonly referred to as the “National Apprenticeship Act”).
   - **(2)** The term “Secretary” means the Secretary of Labor.
 - **(b)** Notwithstanding any other provision of law, for any program applying to become a registered apprenticeship program on or after the date that is 180 days after March 26, 2020 , the Secretary shall—

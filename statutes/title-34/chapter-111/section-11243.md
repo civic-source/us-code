@@ -3,9 +3,9 @@ title: "Section 11243 - Authority to make grants for research, evaluation, demon
 usc_title: 34
 usc_section: "11243"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "34 U.S.C. § 11243"
-generated_at: "2026-03-29T20:05:30.379Z"
+generated_at: "2026-03-29T20:33:40.333Z"
 ---
 
 # § 11243. Authority to make grants for research, evaluation, demonstration, and service projects

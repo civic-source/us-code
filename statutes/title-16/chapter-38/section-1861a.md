@@ -3,154 +3,21 @@ title: "Section 1861a - Transition to sustainable fisheries"
 usc_title: 16
 usc_section: "1861a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 1861a"
-generated_at: "2026-03-29T20:04:20.357Z"
+generated_at: "2026-03-29T20:32:45.399Z"
 ---
 
 # § 1861a. Transition to sustainable fisheries
 
 - **(a)**
-  - **(1)** In this subsection:
-    - **(A)** The term “allowable cause” means a natural cause, discrete anthropogenic cause, or undetermined cause, including a cause that occurred not more than 5 years prior to the date of a request for a fishery resource disaster determination that affected such applicable fishery.
-    - **(B)** The term “anthropogenic cause” means an anthropogenic event, such as an oil spill or spillway opening—
-      - **(i)** that could not have been addressed or prevented by fishery management measures; and
-      - **(ii)** that is otherwise beyond the control of fishery managers to mitigate through conservation and management measures, including regulatory restrictions imposed as a result of judicial action or to protect human health or marine animals, plants, or habitats.
-    - **(C)** The term “fishery resource disaster” means a disaster that is determined by the Secretary in accordance with this subsection and—
-      - **(i)** is an unexpected large decrease in fish stock biomass or other change that results in significant loss of access to the fishery resource, which may include loss of fishing vessels and gear for a substantial period of time and results in significant revenue loss or negative subsistence impact due to an allowable cause; and
-      - **(ii)** does not include—
-        - **(I)** reasonably predictable, foreseeable, and recurrent fishery cyclical variations in species distribution or stock abundance; or
-        - **(II)** reductions in fishing opportunities resulting from conservation and management measures taken pursuant to this chapter.
-    - **(D)** The term “Indian Tribe” has the meaning given such term in section 5130 of title 25 , and the term “Tribal” means of or pertaining to such an Indian tribe.
-    - **(E)** The term “natural cause”—
-      - **(i)** means a weather, climatic, hazard, or biology-related event, such as—
-        - **(I)** a hurricane;
-        - **(II)** a flood;
-        - **(III)** a harmful algal bloom;
-        - **(IV)** a tsunami;
-        - **(V)** a hypoxic zone;
-        - **(VI)** a drought;
-        - **(VII)** El Niño effects on water temperature;
-        - **(VIII)** a marine heat wave; or
-        - **(IX)** disease; and
-      - **(ii)** does not mean a normal or cyclical variation in a species distribution or stock abundance.
-    - **(F)** The term “12-month revenue loss” means the percentage reduction, as applicable, in commercial, charter, headboat, or processor revenue for the affected fishery for the 12 months during which the fishery resource disaster occurred, when compared to average annual revenue in the most recent 5 years when no fishery resource disaster occurred or equivalent for stocks with cyclical life histories.
-    - **(G)** The term “undetermined cause” means a cause in which the current state of knowledge does not allow the Secretary to identify the exact cause, and there is no current conclusive evidence supporting a possible cause of the fishery resource disaster.
-  - **(2)**
-    - **(A)** The Secretary shall have the authority to determine the existence, extent, and beginning and end dates of a fishery resource disaster under this subsection in accordance with this subsection.
-    - **(B)** After the Secretary determines that a fishery resource disaster has occurred, the Secretary is authorized to make sums available, from funds appropriated for such purposes, to be used by the affected State, Indian Tribe, or interstate marine fisheries commission, or by the Secretary in cooperation with the affected State, Indian Tribe, or interstate marine fisheries commission.
-    - **(C)** The requirements under this paragraph and paragraphs (3), (4), and (5) shall take effect only with respect to fishery resource disaster determination requests submitted after December 29, 2022 .
-  - **(3)**
-    - **(A)**
-      - **(i)** If the Secretary has not independently determined that a fishery resource disaster has occurred, a request for a fishery resource disaster determination may be submitted to the Secretary at any time, but not later than the applicable date determined under clause (ii), by—
-        - **(I)** the Governor of an affected State;
-        - **(II)** an official resolution of an Indian Tribe; or
-        - **(III)** any other comparable elected or politically appointed representative as determined by the Secretary.
-      - **(ii)** The applicable date under this clause shall be—
-        - **(I)** 1 year after the date of the conclusion of the fishing season;
-        - **(II)** in the case of a distinct cause that occurs during more than 1 consecutive fishing season, 2 years after the date of the conclusion of the fishing season for which the request for a fishery resource disaster determination is made; or
-        - **(III)** in the case of a complete fishery closure, 1 year after the date on which that closure is determined by the Secretary.
-    - **(B)** A complete request for a fishery resource disaster determination under subparagraph (A) shall include—
-      - **(i)** identification of all presumed affected fish stocks;
-      - **(ii)** identification of the fishery as Federal, non-Federal, or both;
-      - **(iii)** the geographical boundaries of the fishery, as determined by the eligible requester, including geographic boundaries that are smaller than the area represented by the eligible requester;
-      - **(iv)** preliminary information on causes of the fishery resource disaster, if known; and
-      - **(v)** information needed to support a finding of a fishery resource disaster, including—
-        - **(I)** information demonstrating the occurrence of an unexpected large decrease in fish stock biomass or other change that results in significant loss of access to the fishery resource, which could include the loss of fishing vessels and gear, for a substantial period of time;
-        - **(II)** significant—
-        - **(III)** if applicable, information on lost resource tax revenues assessed by local communities, such as a raw fish tax and local sourcing requirements; and
-        - **(IV)** if applicable and available, information on affected fishery 12-month revenue loss for charter, headboat, or processors related to the information provided under subclause (I), subject to section 1881a(b) of this title .
-    - **(C)** The Secretary may provide data and analysis assistance to an eligible requester described in paragraph (1), if—
-      - **(i)** the assistance is so requested;
-      - **(ii)** the Secretary is in possession of the required information described in subparagraph (B); and
-      - **(iii)** the data is not available to the requester, in carrying out the complete request under subparagraph (B).
-    - **(D)** The Secretary shall have the discretion to initiate a fishery resource disaster review without a request.
-  - **(4)**
-    - **(A)** Not later than 20 days after receipt of a request under paragraph (3), the Secretary shall provide an interim response to the individual that—
-      - **(i)** acknowledges receipt of the request;
-      - **(ii)** provides a regional contact within the National Oceanographic and Atmospheric Administration;
-      - **(iii)** outlines the process and timeline by which a request shall be considered; and
-      - **(iv)** requests additional information concerning the fishery resource disaster, if the original request is considered incomplete.
-    - **(B)**
-      - **(i)** The Secretary shall complete a review, within the time frame described in clause (ii), using the best scientific information available, in consultation with the affected fishing communities, States, or Indian Tribes, of—
-        - **(I)** the information provided by the requester and any additional information relevant to the fishery, which may include—
-        - **(II)** the available economic information, which may include an analysis of—
-      - **(ii)** The Secretary shall complete the review described in clause (i), if the fishing season, applicable to the fishery—
-        - **(I)** has concluded or there is no defined fishing season applicable to the fishery, not later than 120 days after the Secretary receives a complete request for a fishery resource disaster determination;
-        - **(II)** has not concluded, not later than 120 days after the conclusion of the fishing season; or
-        - **(III)** is expected to be closed for the entire fishing season, not later than 120 days after the Secretary receives a complete request for a fishery resource disaster determination.
-    - **(C)** The Secretary shall make the determination of a fishery resource disaster based on the criteria for determinations listed in paragraph (5).
-    - **(D)** Not later than 14 days after the conclusion of the review under this paragraph, the Secretary shall notify the requester and the Governor of the affected State or Indian Tribe representative of the determination of the Secretary.
-  - **(5)**
-    - **(A)** The Secretary shall make a determination about whether a fishery resource disaster has occurred, based on the revenue loss thresholds under subparagraph (B), and, if a fishery resource disaster has occurred, whether the fishery resource disaster was due to—
-      - **(i)** a natural cause;
-      - **(ii)** an anthropogenic cause;
-      - **(iii)** a combination of a natural cause and an anthropogenic cause; or
-      - **(iv)** an undetermined cause.
-    - **(B)**
-      - **(i)** Based on the information provided or analyzed under paragraph (4)(B), the Secretary shall apply the following 12-month revenue loss thresholds in determining whether a fishery resource disaster has occurred:
-        - **(I)** Losses greater than 80 percent may result in a positive determination that a fishery resource disaster has occurred, based on the information provided or analyzed under paragraph (4)(B).
-        - **(II)** Losses between 35 percent and 80 percent shall be evaluated to determine whether economic impacts are severe enough to determine that a fishery resource disaster has occurred.
-        - **(III)** Losses less than 35 percent shall not be eligible for a determination that a fishery resource disaster has occurred.
-      - **(ii)** In making a determination of whether a fishery resource disaster has occurred, the Secretary shall consider the economic impacts to the charter fishing industry to ensure financial coverage for charter fishing businesses.
-      - **(iii)** In considering negative subsistence impacts, the Secretary shall evaluate the severity of negative impacts to the fishing community instead of applying the revenue loss thresholds described in clause (i).
-    - **(C)** A fishery subject to overfishing in any of the 3 years preceding the date of a determination under this subsection is not eligible for a determination of whether a fishery resource disaster has occurred unless the Secretary determines that overfishing was not a contributing factor to the fishery resource disaster.
-    - **(D)** In an exceptional circumstance where substantial economic impacts to the affected fishery and fishing community have been subject to a disaster declaration under another statutory authority, such as in the case of a natural disaster or from the direct consequences of a Federal action taken to prevent, or in response to, a natural disaster for purposes of protecting life and safety, the Secretary may determine a fishery resource disaster has occurred without a request, notwithstanding the requirements under subparagraph (B) and paragraph (3).
-  - **(6)**
-    - **(A)** The Secretary shall allocate funds available under paragraph (9) for fishery resource disasters.
-    - **(B)**
-      - **(i)** When there are appropriated funds for 1 or more fishery resource disasters, the Secretary shall notify—
-        - **(I)** the public; and
-        - **(II)** representatives of affected fishing communities with a positive disaster determination that is unfunded;
-      - **(ii)** The Secretary may extend the deadline under clause (i) by 90 days to evaluate and make determinations on eligible requests.
-    - **(C)** In determining the allocation of appropriations for a fishery resource disaster, the Secretary shall consider commercial, charter, headboat, or seafood processing revenue losses and negative impacts to subsistence or Indian Tribe ceremonial fishing opportunity, for the affected fishery, and may consider the following factors:
-      - **(i)** Direct economic impacts.
-      - **(ii)** Uninsured losses.
-      - **(iii)** Losses of recreational fishing opportunity.
-      - **(iv)** Aquaculture operations revenue loss.
-      - **(v)** Direct revenue losses to a fishing community.
-      - **(vi)** Treaty obligations.
-      - **(vii)** Other economic impacts.
-    - **(D)**
-      - **(i)** To receive an allocation from funds available under paragraph (9), a requester with an affirmative fishery resource disaster determination shall submit a spend plan to the Secretary, not more than 120 days after receiving notification that funds are available, that shall include the following information, if applicable:
-        - **(I)** Objectives and outcomes, with an emphasis on addressing the factors contributing to the fishery resource disaster and minimizing future uninsured losses, if applicable.
-        - **(II)** Statement of work.
-        - **(III)** Budget details.
-      - **(ii)**
-        - **(I)** The Secretary shall review a spend plan submitted under clause (i) to determine if it is complete and provide notice within 10 days.
-        - **(II)** If the Secretary determines that a spend plan submitted under clause (i) is not complete, when providing the notice required by subclause (I), the Secretary shall provide a detailed description of the information that is necessary for the spend plan to be determined complete.
-    - **(E)** If so requested, the Secretary shall provide a regional contact within the National Oceanic and Atmospheric Administration to facilitate review of spend plans and disbursal of funds.
-    - **(F)**
-      - **(i)**
-        - **(I)** Funds shall be made available to grantees not later than 90 days after the date the Secretary receives a complete spend plan.
-        - **(II)** If so requested, the Director of the Office of Management and Budget may review a completed spend plan concurrently with the Secretary. The Director of the Office of Management and Budget may not delay the timeline described in subclause (I).
-      - **(ii)** The Secretary may provide an allocation of funds under this subsection in the form of a grant, direct payment, cooperative agreement, loan, or contract.
-      - **(iii)**
-        - **(I)** Funds allocated for fishery resources disasters under this subsection shall restore the fishery affected by such a disaster, prevent a similar disaster in the future, or assist the affected fishing community, and shall prioritize the following uses, which are not in order of priority:
-        - **(II)** Where appropriate, individuals carrying out the activities described in items (aa) through (dd) of subclause (I) shall be individuals who are, or were, employed in a commercial, charter, or Indian Tribe fishery for which the Secretary has determined that a fishery resource disaster has occurred.
-  - **(7)**
-    - **(A)**
-      - **(i)** Except as provided in clauses (ii) and (iii), the Federal share of the cost of any activity carried out under the authority of this subsection shall not exceed 75 percent of the cost of that activity.
-      - **(ii)** The Secretary may waive the non-Federal share requirements of this subsection, if the Secretary determines that—
-        - **(I)** no reasonable means are available through which the recipient of the Federal share can meet the non-Federal share requirement; and
-        - **(II)** the probable benefit of 100 percent Federal financing outweighs the public interest in imposition of the non-Federal share requirement.
-      - **(iii)** The Federal share shall be equal to 100 percent in the case of—
-        - **(I)** direct assistance as described in paragraph (6)(F)(iii)(I)(ee); or
-        - **(II)** assistance to subsistence or Tribal fisheries.
-    - **(B)**
-      - **(i)** Not more than 3 percent of the funds available under this subsection may be used for administrative expenses by the National Oceanographic and Atmospheric Administration.
-      - **(ii)** Of the funds remaining after the use described in clause (i), not more than 5 percent may be used by States, Indian Tribes, or interstate marine fisheries commissions for administrative expenses.
-    - **(C)**
-      - **(i)** No funds available under this subsection may be used as part of a fishing capacity reduction program in a fishery unless the Secretary determines that adequate conservation and management measures are in place in such fishery.
-      - **(ii)** As a condition of providing assistance under this subsection with respect to a vessel under a fishing capacity reduction program, the Secretary shall—
-        - **(I)** prohibit the vessel from being used for fishing in Federal, State, or international waters; and
-        - **(II)** require that the vessel be—
-    - **(D)**
-      - **(i)** A vessel that is prohibited from fishing under subparagraph (C)(ii)(I) shall not be eligible for a fishery endorsement under section 12113(a) of title 46 .
-      - **(ii)** A fishery endorsement for a vessel described in clause (i) shall not be effective.
-      - **(iii)** A vessel described in clause (i) shall not be sold to a foreign owner or reflagged.
-  - **(8)** The Secretary shall make available and update as appropriate, information on data collection and submittal best practices for the information described in paragraph (4)(B).
-  - **(9)** There are authorized to be appropriated to carry out this subsection $377,000,000 for the period of fiscal years 2023 through 2027.
+  - **(1)** At the discretion of the Secretary or at the request of the Governor of an affected State or a fishing community, the Secretary shall determine whether there is a commercial fishery failure due to a fishery resource disaster as a result of—
+    - **(A)** natural causes;
+    - **(B)** man-made causes beyond the control of fishery managers to mitigate through conservation and management measures, including regulatory restrictions (including those imposed as a result of judicial action) imposed to protect human health or the marine environment; or
+    - **(C)** undetermined causes.
+  - **(2)** Upon the determination under paragraph (1) that there is a commercial fishery failure, the Secretary is authorized to make sums available to be used by the affected State, fishing community, or by the Secretary in cooperation with the affected State or fishing community for assessing the economic and social effects of the commercial fishery failure, or any activity that the Secretary determines is appropriate to restore the fishery or prevent a similar failure in the future and to assist a fishing community affected by such failure. Before making funds available for an activity authorized under this section, the Secretary shall make a determination that such activity will not expand the size or scope of the commercial fishery failure in that fishery or into other fisheries or other geographic regions.
+  - **(3)** The Federal share of the cost of any activity carried out under the authority of this subsection shall not exceed 75 percent of the cost of that activity.
+  - **(4)** There are authorized to be appropriated to the Secretary such sums as are necessary for each of the fiscal years 2007 through 2013.
 - **(b)**
   - **(1)** The Secretary, at the request of the appropriate Council for fisheries under the authority of such Council, the Governor of a State for fisheries under State authority, or a majority of permit holders in the fishery, may conduct a voluntary fishing capacity reduction program (referred to in this section as the “program”) in a fishery if the Secretary determines that the program—
     - **(A)** is necessary to prevent or end overfishing, rebuild stocks of fish, or achieve measurable and significant improvements in the conservation and management of the fishery;

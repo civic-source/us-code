@@ -3,20 +3,18 @@ title: "Section 12304b - Selected Reserve: order to active duty for preplanned m
 usc_title: 10
 usc_section: "12304b"
 chapter: 1209
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 12304b"
-generated_at: "2026-03-29T20:03:09.920Z"
+generated_at: "2026-03-29T20:31:54.776Z"
 ---
 
 # § 12304b. Selected Reserve: order to active duty for preplanned missions in support of the combatant commands
 
 - **(a)** When the Secretary of a military department determines that it is necessary to augment the active forces for a preplanned mission in support of a combatant command, the Secretary may, subject to subsection (b), order any unit of the Selected Reserve (as defined in section 10143(a) of this title ), without the consent of the members, to active duty for not more than 365 consecutive days.
 - **(b)**
-  - **(1)**
-    - **(A)** Except as provided under subparagraph (B), units may be ordered to active duty under this section only if—
-      - **(i)** the manpower and associated costs of such active duty are specifically included and identified in the defense budget materials for the fiscal year or years in which such units are anticipated to be ordered to active duty; and
-      - **(ii)** the budget information on such costs includes a description of the mission for which such units are anticipated to be ordered to active duty and the anticipated length of time of the order of such units to active duty on an involuntary basis.
-    - **(B)** In the event the President’s budget is delivered later than April 1st in the year prior to the year of the mobilization of one or more units under this section, the Secretary concerned may submit to Congress the information required under subparagraph (A) in a separate notice.
+  - **(1)** Units may be ordered to active duty under this section only if—
+    - **(A)** the manpower and associated costs of such active duty are specifically included and identified in the defense budget materials for the fiscal year or years in which such units are anticipated to be ordered to active duty; and
+    - **(B)** the budget information on such costs includes a description of the mission for which such units are anticipated to be ordered to active duty and the anticipated length of time of the order of such units to active duty on an involuntary basis.
   - **(2)** Not more than 60,000 members of the reserve components of the armed forces may be on active duty under this section at any one time.
 - **(c)** Members ordered to active duty under this section shall not be counted in computing authorized strength in members on active duty or total number of members in grade under this title or any other law.
 - **(d)** Whenever the Secretary of a military department orders any unit of the Selected Reserve to active duty under subsection (a), such Secretary shall submit to Congress a report, in writing, setting forth the circumstances necessitating the action taken under this section and describing the anticipated use of such unit.
@@ -30,4 +28,4 @@ generated_at: "2026-03-29T20:03:09.920Z"
   - **(3)** family responsibilities; and
   - **(4)** employment necessary to maintain the national health, safety, or interest.
 - **(h)** The Secretaries of the military departments shall prescribe policies and procedures to carry out this section, including on determinations with respect to orders to active duty under subsection (g). Such policies and procedures shall not go into effect until approved by the Secretary of Defense.
-- **(i)** In this section, the term “defense budget materials” has the meaning given that term in section 231(f)(2) 1 1 See References in Text note below. of this title.
+- **(i)** In this section, the term “defense budget materials” has the meaning given that term in section 231(f)(2) of this title .

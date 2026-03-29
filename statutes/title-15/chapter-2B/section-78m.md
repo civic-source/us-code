@@ -3,9 +3,9 @@ title: "Section 78m - Periodical and other reports"
 usc_title: 15
 usc_section: "78m"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 78m"
-generated_at: "2026-03-29T20:03:27.137Z"
+generated_at: "2026-03-29T20:32:09.667Z"
 ---
 
 # § 78m. Periodical and other reports
@@ -292,6 +292,3 @@ generated_at: "2026-03-29T20:03:27.137Z"
     - **(A)** initiate an investigation into the possible imposition of sanctions under the Iran Sanctions Act of 1996 ( Public Law 104–172 ; 50 U.S.C. 1701 note), section 8513 or 8514a of title 22, an Executive order specified in clause (i) or (ii) of paragraph (1)(D), or any other provision of law relating to the imposition of sanctions with respect to Iran, as applicable; and
     - **(B)** not later than 180 days after initiating such an investigation, make a determination with respect to whether sanctions should be imposed with respect to the issuer or the affiliate of the issuer (as the case may be).
   - **(6)** The provisions of this subsection shall terminate on the date that is 30 days after the date on which the President makes the certification described in section 8551(a) of title 22 .
-- **(s)**
-  - **(1)** The Commission shall, by rule, adopt data standards for all collections of information with respect to periodic and current reports required to be filed or furnished under this section or under section 78 o (d) of this title, except that the Commission may exempt exhibits, signatures, and certifications from those data standards.
-  - **(2)** The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of title 12 , including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.

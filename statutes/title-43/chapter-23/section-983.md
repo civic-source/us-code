@@ -3,9 +3,9 @@ title: "Section 983 - Lists and plats of lands, for governors of States"
 usc_title: 43
 usc_section: "983"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "43 U.S.C. § 983"
-generated_at: "2026-03-29T20:06:00.032Z"
+generated_at: "2026-03-29T20:34:16.735Z"
 ---
 
 # § 983. Lists and plats of lands, for governors of States

@@ -3,9 +3,9 @@ title: "Section 6605 - Disclosure of funding sources in applications for Federal
 usc_title: 42
 usc_section: "6605"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 6605"
-generated_at: "2026-03-29T20:07:44.432Z"
+generated_at: "2026-03-29T20:34:53.746Z"
 ---
 
 # § 6605. Disclosure of funding sources in applications for Federal research and development awards
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T20:07:44.432Z"
     - **(B)** certify that the disclosure is current, accurate, and complete; and
     - **(C)** agree to update such disclosure at the request of the agency prior to the award of support and at any subsequent time the agency determines appropriate during the term of the award; and
   - **(2)** that any entity applying for such award certify that each covered individual who is employed by the entity and listed on the application has been made aware of the requirements under paragraph (1).
-- **(b)** The Director of the Office of Science and Technology Policy, acting through the National Science and Technology Council and in accordance with the authority provided under section 1746(a) of the National Defense Authorization Act for Fiscal Year 2020 ( Public Law 116–92 ; 42 U.S.C. 6601 note) 1 1 So in original. Probably should be followed by a comma. shall ensure that the requirements issued by Federal research agencies under subsection (a) are consistent.
+- **(b)** The Director of the Office of Science and Technology Policy, acting through the National Science and Technology Council and in accordance with the authority provided under section 1746(a) of the National Defense Authorization Act for Fiscal Year 2020 ( Public Law 116–92 ; 42 U.S.C. 6601 note) shall ensure that the requirements issued by Federal research agencies under subsection (a) are consistent.
 - **(c)**
   - **(1)** A Federal research agency may reject an application for a research and development award if the current and pending research support disclosed by an individual under subsection (a) violates Federal law or agency terms and conditions.
   - **(2)** Subject to paragraph (3), in the event that a covered individual listed on an entity’s application for a research and development award knowingly fails to disclose information under subsection (a), a Federal research agency may take one or more of the following actions:
@@ -33,7 +33,7 @@ generated_at: "2026-03-29T20:07:44.432Z"
     - **(C)** the head of the Federal research agency concerned determines that—
       - **(i)** the entity is owned, controlled, or substantially influenced by a covered individual; and
       - **(ii)** such individual knowingly failed to disclose information under subsection (a)(1).
-  - **(4)** A Federal research agency that intends to take action under paragraph (1) or (2) shall, as practicable and in accordance with part 180 of title 2, Code of Federal Regulations, any successor regulation, or any other appropriate law or regulation, notify each individual or entity subject to such action about the specific reason for the action, and shall provide such individuals and entities with the opportunity to, and a process by which, to contest 2 2 So in original. Probably should be “which to, contest”. the proposed action.
+  - **(4)** A Federal research agency that intends to take action under paragraph (1) or (2) shall, as practicable and in accordance with part 180 of title 2, Code of Federal Regulations, any successor regulation, or any other appropriate law or regulation, notify each individual or entity subject to such action about the specific reason for the action, and shall provide such individuals and entities with the opportunity to, and a process by which, to contest the proposed action.
   - **(5)** A Federal research agency seeking suspension or debarment under paragraph (2)(D) shall abide by the procedures and evidentiary standards set forth in part 180 of title 2, Code of Federal Regulations, any successor regulation, or any other appropriate law or regulation.
 - **(d)** In this section:
   - **(1)** The term “covered individual” means an individual who—

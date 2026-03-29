@@ -3,9 +3,9 @@ title: "Section 254l - National Health Service Corps Scholarship Program"
 usc_title: 42
 usc_section: "254l"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 254l"
-generated_at: "2026-03-29T20:07:42.997Z"
+generated_at: "2026-03-29T20:34:52.582Z"
 ---
 
 # § 254l. National Health Service Corps Scholarship Program
@@ -57,7 +57,7 @@ generated_at: "2026-03-29T20:07:42.997Z"
   - **(4)** such other statements of the rights and liabilities of the Secretary and of the individual, not inconsistent with the provisions of this subpart.
 - **(g)**
   - **(1)** A scholarship provided to a student for a school year under a written contract under the Scholarship Program shall consist of—
-    - **(A)** payment to, or (in accordance with paragraph (2)) on behalf of, the student of the amount (except as provided in section 292k 3 of this title) of—
+    - **(A)** payment to, or (in accordance with paragraph (2)) on behalf of, the student of the amount (except as provided in section 292k 2 of this title) of—
       - **(i)** the tuition of the student in such school year; and
       - **(ii)** all other reasonable educational expenses, including fees, books, and laboratory expenses, incurred by the student in such school year; and
     - **(B)** payment to the student of a stipend of $400 per month (adjusted in accordance with paragraph (3)) for each of the 12 consecutive months beginning with the first month of such school year.

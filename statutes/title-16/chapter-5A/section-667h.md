@@ -1,14 +1,14 @@
 ---
-title: "Section 667h - Chronic Wasting Disease Task Force"
+title: "Section 667h - Chronic wasting disease task force"
 usc_title: 16
 usc_section: "667h"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 667h"
-generated_at: "2026-03-29T20:04:20.177Z"
+generated_at: "2026-03-29T20:32:45.245Z"
 ---
 
-# § 667h. Chronic Wasting Disease Task Force
+# § 667h. Chronic wasting disease task force
 
 - **(a)** In this section:
   - **(1)** The term “cervid” means any species within the family Cervidae.
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T20:04:20.177Z"
     - **(B)** belongs to the group of diseases known as transmissible spongiform encephalopathies, which group includes scrapie, bovine spongiform encephalopathy, and Creutzfeldt-Jakob disease.
   - **(3)** The term “Secretaries” means the Secretary of Agriculture, acting through the Administrator of the Animal and Plant Health Inspection Service, and the Secretary of the Interior, acting through the Director of the United States Geological Survey and the Director of the United States Fish and Wildlife Service, acting jointly.
 - **(b)**
-  - **(1)** The Secretaries shall establish within the United States Fish and Wildlife Service a task force, to be known as the “Chronic Wasting Disease Task Force” (referred to in this subsection as the “Task Force”).
+  - **(1)** The Secretaries shall establish within the United States Fish and Wildlife Service a task force, to be known as the “Chronic Wasting Disease Task Force” (referred to in this subsection as the “Task Force”) after the completion of the study required by subsection (c).
   - **(2)** The Task Force shall—
     - **(A)** collaborate with foreign governments to share research, coordinate efforts, and discuss best management practices to reduce, minimize, prevent, or eliminate chronic wasting disease in the United States;
     - **(B)** develop recommendations, including recommendations based on findings of the study conducted under subsection (c), and a set of best practices regarding—
@@ -45,7 +45,7 @@ generated_at: "2026-03-29T20:04:20.177Z"
     - **(B)** 1 of the Federal representatives described in paragraph (3)(A)(iii); and
     - **(C)** 1 State representative appointed under paragraph (3)(A)(iv), to be selected by a majority vote of those State representatives.
   - **(5)**
-    - **(A)** The members of the Task Force shall be appointed not later than 90 days after December 23, 2024 . The efforts of the Task Force shall not be contingent on the completion of the study required by subsection (c).
+    - **(A)** The members of the Task Force shall be appointed not later than 180 days after the date on which the study is completed under subsection (c).
     - **(B)** On appointment of the members of the Task Force, the Co-Chairs of the Task Force shall notify the Chairs and Ranking Members of the Committees on Environment and Public Works and Agriculture, Nutrition, and Forestry of the Senate and Natural Resources and Agriculture of the House of Representatives.
   - **(6)** Any vacancy in the members appointed to the Task Force—
     - **(A)** shall not affect the power or duty of the Task Force; and
@@ -100,6 +100,6 @@ generated_at: "2026-03-29T20:04:20.177Z"
     - **(A)** the findings of the study; and
     - **(B)** any conclusions and recommendations that the Secretaries determine to be appropriate.
 - **(d)** There are authorized to be appropriated to carry out this section—
-  - **(1)** for the period of fiscal years 2021 through 2030, $5,000,000 to the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, to carry out administrative activities under subsection (b);
+  - **(1)** for the period of fiscal years 2021 through 2025, $5,000,000 to the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, to carry out administrative activities under subsection (b);
   - **(2)** for fiscal year 2021, $1,200,000 to the Secretary of the Interior, acting through the Director of the United States Geological Survey, to carry out activities to fund research under subsection (c); and
   - **(3)** for fiscal year 2021, $1,200,000 to the Secretary of Agriculture, acting through the Administrator of the Animal and Plant Health Inspection Service, to carry out activities to fund research under subsection (c).

@@ -3,9 +3,9 @@ title: "Section 1703 - Veterans Community Care Program"
 usc_title: 38
 usc_section: "1703"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "38 U.S.C. § 1703"
-generated_at: "2026-03-29T20:05:54.643Z"
+generated_at: "2026-03-29T20:34:04.882Z"
 ---
 
 # § 1703. Veterans Community Care Program
@@ -18,7 +18,6 @@ generated_at: "2026-03-29T20:05:54.643Z"
     - **(C)** Ensuring coordination among regional networks if the covered veteran accesses care and services in a different network than the regional network in which the covered veteran resides.
     - **(D)** Ensuring that covered veterans do not experience a lapse in care resulting from errors or delays by the Department or its contractors or an unusual or excessive burden in accessing hospital care, medical services, or extended care services.
   - **(3)** A covered veteran may only receive care or services under this section upon the authorization of such care or services by the Secretary.
-  - **(4)** Nothing in this section shall be construed to authorize the Secretary to suspend the program established under paragraph (1).
 - **(b)** For purposes of this section, a covered veteran is any veteran who—
   - **(1)** is enrolled in the system of annual patient enrollment established and operated under section 1705 of this title ; or
   - **(2)** is not enrolled in such system but is otherwise entitled to hospital care, medical services, or extended care services under subsection (c)(2) of such section.
@@ -52,7 +51,6 @@ generated_at: "2026-03-29T20:05:54.643Z"
       - **(iv)** Whether there is compelling reason, as determined by the Secretary, that the veteran needs to receive hospital care, medical services, or extended care services from a medical facility other than a medical facility of the Department.
       - **(v)** Such other considerations as the Secretary considers appropriate.
   - **(3)** If the Secretary has determined that the Department does not offer the care or services the covered veteran requires under subparagraph (A) of paragraph (1), that the Department does not operate a full-service medical facility in the State in which the covered veteran resides under subparagraph (B) of such paragraph, that the covered veteran is described under subparagraph (C) of such paragraph, or that the Department is not able to furnish care or services in a manner that complies with designated access standards developed by the Secretary under section 1703B of this title under subparagraph (D) of such paragraph, the decision to receive hospital care, medical services, or extended care services under such subparagraphs from a health care provider specified in subsection (c) shall be at the election of the veteran.
-  - **(4)** In determining under paragraph (1)(D) whether the Department is able to furnish care or services in a manner that complies with designated access standards developed by the Secretary under section 1703B of this title , for purposes of calculating a wait time for a veteran to schedule an appointment at a medical facility of the Department, the Secretary shall measure from the date of request for the appointment, unless a later date has been agreed to by the veteran in consultation with a health care provider of the Department, to the first next available appointment date relevant to the requested medical service.
 - **(e)**
   - **(1)**
     - **(A)** The Secretary may furnish hospital care, medical services, or extended care services through a health care provider specified in subsection (c) to a covered veteran served by a medical service line of the Department that the Secretary has determined is not providing care that complies with the standards for quality the Secretary shall establish under section 1703C.
@@ -144,32 +142,7 @@ generated_at: "2026-03-29T20:05:54.643Z"
 - **(n)**
   - **(1)** The Secretary shall not limit the types of hospital care, medical services, or extended care services covered veterans may receive under this section if it is in the best medical interest of the veteran to receive such hospital care, medical services, or extended care services, as determined by the veteran and the veteran’s health care provider.
   - **(2)** No provision in this section may be construed to alter or modify any other provision of law establishing specific eligibility criteria for certain hospital care, medical services, or extended care services.
-- **(o)**
-  - **(1)** The Secretary shall conduct outreach to inform veterans of the following:
-    - **(A)** The conditions for care or services under subsections (d) and (e).
-    - **(B)** How to request such care or services.
-    - **(C)** How to appeal a denial of a request for such care or services using the clinical appeals process of the Veterans Health Administration.
-  - **(2)** Upon enrollment of a veteran in the system of annual patient enrollment established and operated under section 1705 of this title , and not less frequently than every two years thereafter, the Secretary shall inform the veteran of information described in paragraph (1).
-  - **(3)** The Secretary shall ensure that information described in paragraph (1) is—
-    - **(A)** publicly displayed in each medical facility of the Department;
-    - **(B)** prominently displayed on a website of the Department; and
-    - **(C)** included in other outreach campaigns and activities conducted by the Secretary.
-- **(p)**
-  - **(1)** On an annual basis, the Secretary shall—
-    - **(A)** conduct a review of waivers of payment rates under subsection (i) for Third Party Administrators to identify whether such waivers help to alleviate community-specific challenges, including scarcity of medical services associated with access to health care; and
-    - **(B)** submit to Congress a report on the results of such review.
-  - **(2)** Each report under paragraph (1)(B) shall include, with respect to the period covered by the report—
-    - **(A)** a statement, disaggregated by region, of the total number of waivers described in subparagraph (A) of such paragraph requested by Third Party Administrators;
-    - **(B)** a statement of the total number of such waivers that were—
-      - **(i)** granted by the Secretary;
-      - **(ii)** denied by the Secretary; or
-      - **(iii)** withdrawn by a Third Party Administrator;
-    - **(C)** a description of the process for the review required under paragraph (1);
-    - **(D)** a statement, disaggregated by region, of the average time to process such waivers;
-    - **(E)** an assessment, disaggregated by region, of the extent to which such waivers that were granted by the Secretary improved access to health care for covered veterans; and
-    - **(F)** a description of trends, if any, identified by the Secretary with respect to such waivers.
-  - **(3)** In this subsection, the term “Third Party Administrator” has the meaning given such term in section 1703B of this title .
-- **(q)** In this section:
+- **(o)** In this section:
   - **(1)** The term “appropriate committees of Congress” means—
     - **(A)** the Committee on Veterans’ Affairs and the Committee on Appropriations of the Senate; and
     - **(B)** the Committee on Veterans’ Affairs and the Committee on Appropriations of the House of Representatives.

@@ -3,9 +3,9 @@ title: "Section 1344 - Passenger carrier use"
 usc_title: 31
 usc_section: "1344"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "31 U.S.C. § 1344"
-generated_at: "2026-03-29T20:05:32.574Z"
+generated_at: "2026-03-29T20:33:31.760Z"
 ---
 
 # § 1344. Passenger carrier use
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T20:05:32.574Z"
   - **(1)** Funds available to a Federal agency, by appropriation or otherwise, may be expended by the Federal agency for the maintenance, operation, or repair of any passenger carrier only to the extent that such carrier is used to provide transportation for official purposes. Notwithstanding any other provision of law, transporting any individual other than the individuals listed in subsections (b) and (c) of this section between such individual’s residence and such individual’s place of employment is not transportation for an official purpose.
   - **(2)** For purposes of paragraph (1), transportation between the residence of an officer or employee and various locations that is—
     - **(A)** required for the performance of field work, in accordance with regulations prescribed pursuant to subsection (e) of this section, or
-    - **(B)** essential for the safe and efficient performance of intelligence, counterintelligence, protective services, or criminal law enforcement duties, or transportation of federally owned canines associated with force protection duties of any part of the intelligence community (as defined in section 3 of the National Security Act of 1947 ( 50 U.S.C. 3003 )),
+    - **(B)** essential for the safe and efficient performance of intelligence, counterintelligence, protective services, or criminal law enforcement duties,
   - **(3)** For purposes of paragraph (1), the transportation of an individual between such individual’s place of employment and a mass transit facility pursuant to subsection (g) is transportation for an official purpose.
 - **(b)** A passenger carrier may be used to transport between residence and place of employment the following officers and employees of Federal agencies:
   - **(1)**

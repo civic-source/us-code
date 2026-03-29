@@ -3,9 +3,9 @@ title: "Section 22102 - Eligibility"
 usc_title: 49
 usc_section: "22102"
 chapter: 221
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 22102"
-generated_at: "2026-03-29T20:07:58.502Z"
+generated_at: "2026-03-29T20:35:10.823Z"
 ---
 
 # § 22102. Eligibility

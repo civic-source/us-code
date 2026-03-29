@@ -3,9 +3,9 @@ title: "Section 313 - Federal Emergency Management Agency"
 usc_title: 6
 usc_section: "313"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "6 U.S.C. § 313"
-generated_at: "2026-03-29T20:02:41.986Z"
+generated_at: "2026-03-29T20:31:30.620Z"
 ---
 
 # § 313. Federal Emergency Management Agency
@@ -20,9 +20,8 @@ generated_at: "2026-03-29T20:02:41.986Z"
     - **(D)** integrate the Agency’s emergency preparedness, protection, response, recovery, and mitigation responsibilities to confront effectively the challenges of a natural disaster, act of terrorism, or other man-made disaster;
     - **(E)** develop and maintain robust Regional Offices that will work with State, local, and tribal governments, emergency response providers, and other appropriate entities to identify and address regional priorities;
     - **(F)** under the leadership of the Secretary, coordinate with the Commandant of the Coast Guard, the Director of Customs and Border Protection, the Director of Immigration and Customs Enforcement, the National Operations Center, and other agencies and offices in the Department to take full advantage of the substantial range of resources in the Department;
-    - **(G)** provide funding, training, exercises, technical assistance, planning, and other assistance to build tribal, local, State, regional, and national capabilities (including communications capabilities), necessary to respond to a natural disaster, act of terrorism, or other man-made disaster;
-    - **(H)** develop and coordinate the implementation of a risk-based, all-hazards strategy for preparedness that builds those common capabilities necessary to respond to natural disasters, acts of terrorism, and other man-made disasters while also building the unique capabilities necessary to respond to specific types of incidents that pose the greatest risk to our Nation; and
-    - **(I)** identify, integrate, and implement the needs of children, including children within under-served communities, into activities to prepare for, protect against, respond to, recover from, and mitigate against the risk of natural disasters, acts of terrorism, and other disasters, including catastrophic incidents, including by appointing a technical expert, who may consult with relevant outside organizations and experts, as necessary, to coordinate such integration, as necessary.
+    - **(G)** provide funding, training, exercises, technical assistance, planning, and other assistance to build tribal, local, State, regional, and national capabilities (including communications capabilities), necessary to respond to a natural disaster, act of terrorism, or other man-made disaster; and
+    - **(H)** develop and coordinate the implementation of a risk-based, all-hazards strategy for preparedness that builds those common capabilities necessary to respond to natural disasters, acts of terrorism, and other man-made disasters while also building the unique capabilities necessary to respond to specific types of incidents that pose the greatest risk to our Nation.
 - **(c)**
   - **(1)** The Administrator shall be appointed by the President, by and with the advice and consent of the Senate.
   - **(2)** The Administrator shall be appointed from among individuals who have—

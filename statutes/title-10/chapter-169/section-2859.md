@@ -1,12 +1,25 @@
 ---
-title: "Section 2859 - Repealed. Pub. L. 119–60, div. B, title XXVIII, § 2848(a) , Dec. 18, 2025 , 139 Stat. 1319 ]"
+title: "Section 2859 - Construction requirements related to antiterrorism and force protection or urban-training operations"
 usc_title: 10
 usc_section: "2859"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2859"
-generated_at: "2026-03-29T20:03:09.730Z"
+generated_at: "2026-03-29T20:31:54.654Z"
 ---
 
-# [§ 2859. Repealed. Pub. L. 119–60, div. B, title XXVIII, § 2848(a) , Dec. 18, 2025 , 139 Stat. 1319 ]
+# § 2859. Construction requirements related to antiterrorism and force protection or urban-training operations
 
+- **(a)** The Secretary of Defense shall develop common guidance and criteria to be used by each Secretary concerned—
+  - **(1)** to assess the vulnerability of military installations located inside and outside of the United States to terrorist attack;
+  - **(2)** to develop construction standards that, taking into consideration other security or force-protection measures available for the facility or military installation concerned, are designed to reduce the vulnerability of structures to terrorist attack and improve the security of the occupants of such structures;
+  - **(3)** to prepare and carry out military construction projects, such as gate and fenceline construction, to improve the physical security of military installations; and
+  - **(4)** to assist in prioritizing such projects within the military construction budget of each of the armed forces.
+- **(b)** The Secretary of Defense shall require vulnerability assessments of military installations to be conducted, at regular intervals, using the criteria developed under subsection (a).
+- **(c)**
+  - **(1)** Except as provided in paragraph (3), the Secretary concerned may not carry out a military construction project to construct a facility designed to provide training in urban operations for members of the armed forces or personnel of the Department of Defense or other Federal agencies until—
+    - **(A)** the Secretary of Defense approves a strategy for training and facility construction for operations in urban terrain; and
+    - **(B)** the Under Secretary of Defense for Personnel and Readiness evaluates the project and certifies to the appropriate committees of Congress that the project—
+      - **(i)** is consistent with the strategy; and
+      - **(ii)** incorporates the appropriate capabilities for joint and interagency use in accordance with the strategy.
+  - **(2)** This subsection shall not apply with respect to a military construction project carried out under the authority of section 2803, 2804, or 2808 of this title or section 2808 of the Military Construction Authorization Act for Fiscal Year 2004 (division B of Public Law 108–136 ; 117 Stat. 1723 ).

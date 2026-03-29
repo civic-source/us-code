@@ -3,9 +3,9 @@ title: "Section 9121 - Relief for airports"
 usc_title: 15
 usc_section: "9121"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 9121"
-generated_at: "2026-03-29T20:03:27.734Z"
+generated_at: "2026-03-29T20:32:10.133Z"
 ---
 
 # § 9121. Relief for airports
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T20:03:27.734Z"
     - **(A)** Not more than $6,492,000,000 shall be made available for primary airports, as such term is defined in section 47102 of title 49 , and certain cargo airports, for costs related to operations, personnel, cleaning, sanitization, janitorial services, combating the spread of pathogens at the airport, and debt service payments.
     - **(B)** Amounts made available under this paragraph—
       - **(i)** shall not be subject to the reduced apportionments under section 47114(f) of title 49 ;
-      - **(ii)** shall first be apportioned as set forth in sections 47114(c)(1)(A), 47114(c)(1)(C)(i), 1 1 See References in Text note below. 47114(c)(1)(C)(ii), 1 47114(c)(2)(A), 47114(c)(2)(B), and 47114(c)(2)(E) 1 of title 49; and
+      - **(ii)** shall first be apportioned as set forth in sections 47114(c)(1)(A), 47114(c)(1)(C)(i), 47114(c)(1)(C)(ii), 47114(c)(2)(A), 47114(c)(2)(B), and 47114(c)(2)(E) of title 49; and
       - **(iii)** shall not be subject to a maximum apportionment limit set forth in section 47114(c)(1)(B) of title 49 .
     - **(C)** Any amount remaining after distribution under subparagraph (B) shall be distributed to the sponsor of each primary airport (as such term is defined in section 47102 of title 49 ) based on each such primary airport’s passenger enplanements compared to the total passenger enplanements of all such primary airports in calendar year 2019.
   - **(2)**

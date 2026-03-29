@@ -3,9 +3,9 @@ title: "Section 1887 - Limitation on imports under section 624 of title 7"
 usc_title: 19
 usc_section: "1887"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "19 U.S.C. § 1887"
-generated_at: "2026-03-29T20:04:27.352Z"
+generated_at: "2026-03-29T20:32:31.771Z"
 ---
 
 # § 1887. Limitation on imports under section 624 of title 7

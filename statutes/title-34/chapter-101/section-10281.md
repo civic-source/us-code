@@ -3,14 +3,14 @@ title: "Section 10281 - Payment of death benefits"
 usc_title: 34
 usc_section: "10281"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "34 U.S.C. § 10281"
-generated_at: "2026-03-29T20:05:30.344Z"
+generated_at: "2026-03-29T20:33:40.303Z"
 ---
 
 # § 10281. Payment of death benefits
 
-- **(a)** In any case in which the Bureau of Justice Assistance (hereinafter in this subchapter referred to as the “Bureau”) determines, under regulations issued pursuant to this subchapter, that a public safety officer has died as the direct and proximate result of a personal injury sustained in the line of duty, a benefit of $250,000, adjusted in accordance with subsection (h), and calculated in accordance with subsection (i), shall be payable by the Bureau, as follows (if the payee indicated is living on the date on which the determination is made)—
+- **(a)** In any case in which the Bureau of Justice Assistance (hereinafter in this subchapter referred to as the “Bureau”) determines, under regulations issued pursuant to this subchapter, that a public safety officer has died as the direct and proximate result of a personal injury sustained in the line of duty, the Bureau shall pay a benefit of $250,000, adjusted in accordance with subsection (h), as follows (if the payee indicated is living on the date on which the determination is made)—
   - **(1)** if there is no child who survived the public safety officer, to the surviving spouse of the public safety officer;
   - **(2)** if there is at least 1 child who survived the public safety officer and a surviving spouse of the public safety officer, 50 percent to the surviving child (or children, in equal shares) and 50 percent to the surviving spouse;
   - **(3)** if there is no surviving spouse of the public safety officer, to the surviving child (or children, in equal shares);
@@ -19,8 +19,8 @@ generated_at: "2026-03-29T20:05:30.344Z"
     - **(B)** if there is no individual qualifying under subparagraph (A), to the surviving individual (or individuals, in equal shares) designated by the public safety officer to receive benefits under the most recently executed life insurance policy of the public safety officer on file at the time of death with the public safety agency, organization, or unit;
   - **(5)** if there is no individual qualifying under paragraph (1), (2), (3), or (4), to the surviving parent (or parents, in equal shares) of the public safety officer; or
   - **(6)** if there is no individual qualifying under paragraph (1), (2), (3), (4), or (5), to the surviving individual (or individuals, in equal shares) who would qualify under the definition of the term “child” under section 10284 of this title but for age.
-- **(b)** In accordance with regulations issued pursuant to this subchapter, in any case in which the Bureau determines that a public safety officer has become permanently and totally disabled as the direct and proximate result of a personal injury sustained in the line of duty, a benefit shall be payable to the public safety officer (if living on the date on which the determination is made) in the same amount that would be payable, as of the date such injury was sustained (including as adjusted in accordance with subsection (h), and calculated in accordance with subsection (i)), if such determination were a determination under subsection (a): Provided , That for the purposes of making these benefit payments, there are authorized to be appropriated for each fiscal year such sums as may be necessary.
-- **(c)** Whenever the Bureau determines upon showing of need and prior to final action that the death of a public safety officer is one with respect to which a benefit will probably be paid, the Bureau may make an interim benefit payment not exceeding $6,000, adjusted in accordance with subsection (h), to the individual entitled to receive a benefit under subsection (a) of this section.
+- **(b)** In accordance with regulations issued pursuant to this subchapter, in any case in which the Bureau determines that a public safety officer has become permanently and totally disabled as the direct and proximate result of a personal injury sustained in the line of duty, the Bureau shall pay the same benefit to the public safety officer (if living on the date on which the determination is made) that is payable under subsection (a) with respect to the date on which the catastrophic injury occurred, as adjusted in accordance with subsection (h): Provided , That for the purposes of making these benefit payments, there are authorized to be appropriated for each fiscal year such sums as may be necessary: Provided further , That the amount payable under this subsection shall be the amount payable as of the date of catastrophic injury of such public safety officer.
+- **(c)** Whenever the Bureau determines upon showing of need and prior to final action that the death of a public safety officer is one with respect to which a benefit will probably be paid, the Bureau may make an interim benefit payment not exceeding $3,000 to the individual entitled to receive a benefit under subsection (a) of this section.
 - **(d)** The amount of an interim payment under subsection (c) shall be deducted from the amount of any final benefit paid to such individual.
 - **(e)** Where there is no final benefit paid, the recipient of any interim payment under subsection (c) shall be liable for repayment of such amount. The Bureau may waive all or part of such repayment, considering for this purpose the hardship which would result from such repayment.
 - **(f)** The benefit payable under this subchapter shall be in addition to any other benefit that may be due from any other source, except—
@@ -28,10 +28,8 @@ generated_at: "2026-03-29T20:05:30.344Z"
   - **(2)** benefits authorized by section 8191 of title 5 , such that beneficiaries shall receive only such benefits under such section 8191 as are in excess of the benefits received under this subchapter; or
   - **(3)** payments under the September 11th Victim Compensation Fund of 2001 ( 49 U.S.C. 40101 note; Public Law 107–42 ).
 - **(g)** No benefit paid under this subchapter shall be subject to execution or attachment.
-- **(h)** On October 1 of each fiscal year beginning after June 1, 1988 , the Bureau shall adjust the level of the benefit payable immediately before such October 1 under subsections (a) and (b) and the level of the interim benefit payable immediately before such October 1 under subsection (c), to reflect the annual percentage change in the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics, occurring in the 1-year period ending on June 1 immediately preceding such October 1.
-- **(i)** The amount payable under subsections (a) and (b), with respect to the death or permanent and total disability of a public safety officer, shall be the greater of—
-  - **(1)** the amount payable under the relevant subsection as of the date of death or of the catastrophic injury of the public safety officer; or
-  - **(2)** in any case in which the claim filed thereunder has been pending for more than 365 days at the time of final determination by the Bureau, the amount that would be payable under the relevant subsection if the death or the catastrophic injury of the public safety officer had occurred on the date on which the Bureau makes such final determination.
+- **(h)** On October 1 of each fiscal year beginning after June 1, 1988 , the Bureau shall adjust the level of the benefit payable immediately before such October 1 under subsection (a), to reflect the annual percentage change in the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics, occurring in the 1-year period ending on June 1 immediately preceding such October 1.
+- **(i)** The amount payable under subsection (a) with respect to the death of a public safety officer shall be the amount payable under subsection (a) as of the date of death of such officer.
 - **(j)**
   - **(1)** No benefit is payable under this subchapter with respect to the death of a public safety officer if a benefit is paid under this subchapter with respect to the disability of such officer.
   - **(2)** No benefit is payable under this subchapter with respect to the disability of a public safety officer if a benefit is payable under this subchapter with respect to the death of such public safety officer.
@@ -45,91 +43,5 @@ generated_at: "2026-03-29T20:05:30.344Z"
     - **(C)** not later than 24 hours after the officer is engaged or participating as described in paragraph (1); and
   - **(3)** the heart attack, stroke, or vascular rupture directly and proximately results in the death of the public safety officer,
 - **(l)** For purposes of subsection (k), “nonroutine stressful or strenuous physical” excludes actions of a clerical, administrative, or nonmanual nature.
-- **(m)** The Bureau may suspend or end collection action on an amount disbursed pursuant to a statute enacted retroactively or otherwise disbursed in error under subsection (a), (b), or (c), where such collection would be impractical, or would cause undue hardship to a debtor who acted in good faith.
+- **(m)** The Bureau may suspend or end collection action on an amount disbursed pursuant to a statute enacted retroactively or otherwise disbursed in error under subsection (a) or (c), where such collection would be impractical, or would cause undue hardship to a debtor who acted in good faith.
 - **(n)** The public safety agency, organization, or unit responsible for maintaining on file an executed designation of beneficiary or executed life insurance policy for purposes of subsection (a)(4) shall maintain the confidentiality of the designation or policy in the same manner as the agency, organization, or unit maintains personnel or other similar records of the public safety officer.
-- **(o)**
-  - **(1)** In this section:
-    - **(A)** The term “mass casualty event” means an incident resulting in casualties to not fewer than 3 victims, including—
-      - **(i)** an incident that exceeds the normal resources for emergency response available in the jurisdiction where the incident takes place; and
-      - **(ii)** an incident that results in a sudden and timely surge of injured individuals necessitating emergency services.
-    - **(B)** The term “mass fatality event” means an incident resulting in the fatalities of not fewer than 3 individuals at 1 or more locations close to one another with a common cause.
-    - **(C)** The term “mass shooting” means a multiple homicide incident in which not fewer than 3 victims are killed—
-      - **(i)** with a firearm;
-      - **(ii)** during one event; and
-      - **(iii)** in one or more locations in close proximity.
-    - **(D)** The term “exposed” includes—
-      - **(i)** directly experiencing or witnessing an event; or
-      - **(ii)** being subjected, in an intense way, to aversive consequences of the event (including a public safety officer collecting human remains).
-    - **(E)** The term “traumatic event” means, in the case of a public safety officer exposed to an event, an event that is—
-      - **(i)** a homicide, suicide, or the violent or gruesome death of another individual (including such a death resulting from a mass casualty event, mass fatality event, or mass shooting);
-      - **(ii)** a harrowing circumstance posing an extraordinary and significant danger or threat to the life of or of serious bodily harm to any individual (including such a circumstance as a mass casualty event, mass fatality event, or mass shooting); or
-      - **(iii)** an act of criminal sexual violence committed against any individual.
-  - **(2)** As determined by the Bureau—
-    - **(A)** post-traumatic stress disorder, acute stress disorder, or trauma and stress related disorders suffered by a public safety officer and diagnosed by a licensed medical or mental health professional, shall be presumed to constitute a personal injury within the meaning of subsection (a) or (b), sustained in the line of duty by the officer, if the officer was exposed, while on duty, to one or more traumatic events and such exposure was a substantial factor in the disorder;
-    - **(B)** post-traumatic stress disorder, acute stress disorder, or trauma and stress related disorders, suffered by a public safety officer who has contacted or attempted to contact the employee assistance program of the agency or entity that the officer serves, a licensed medical or mental health professional, suicide prevention services, or another mental health assistance service in order to receive help, treatment, or diagnosis for post-traumatic stress disorder or acute stress disorder, shall be presumed to constitute a personal injury within the meaning of subsection (a) or (b), sustained in the line of duty by the officer, if the officer, was exposed, while on duty, to one or more traumatic events and such exposure was a substantial factor in the disorder; and
-    - **(C)** post-traumatic stress disorder, acute stress disorder, or trauma and stress related disorders, suffered by a public safety officer who was exposed, while on duty, to one or more traumatic events shall be presumed to constitute a personal injury within the meaning of subsection (a) or (b), sustained in the line of duty by the officer if such exposure was a substantial factor in the disorder.
-  - **(3)** A public safety officer shall be presumed to have died or become permanently and totally disabled (within the meaning of subsection (a) or (b)) as the direct and proximate result of a personal injury sustained in the line of duty, if (as determined by the Bureau) the officer either—
-    - **(A)** took an action, which action was intended to bring about the officer’s death and directly and proximately resulted in such officer’s death or permanent and total disability and exposure, while on duty, to one or more traumatic events was a substantial factor in the action taken by the officer; or
-    - **(B)** took an action within 45 days of the end of exposure, while on duty, to a traumatic event, which action was intended to bring about the officer’s death and directly and proximately resulted in such officer’s death or permanent and total disability, if such action was not inconsistent with a psychiatric disorder.
-  - **(4)**
-    - **(A)** Section 10282(a)(1) of this title shall not apply to any claim for a benefit under this part that is payable in accordance with this subsection.
-    - **(B)** Section 10282(a)(2) of this title shall not preclude the payment of a benefit under this part if the benefit is otherwise payable in accordance with this subsection.
-- **(p)**
-  - **(1)** In this subsection, the term “retired law enforcement officer” means an individual who separated from service in good standing as a law enforcement officer in an official capacity at a public agency with or without compensation.
-  - **(2)** A retired law enforcement officer shall be eligible for a benefit under this subchapter if the officer died or became permanently and totally disabled as the direct and proximate result of a personal injury resulting from a targeted attack because of the retired law enforcement officer’s service as a law enforcement officer.
-- **(q)**
-  - **(1)** In this subsection:
-    - **(A)** The term “carcinogen” means an agent that is—
-      - **(i)** classified by the International Agency for Research on Cancer under Group 1 or Group 2A; and
-      - **(ii)** reasonably linked to an exposure-related cancer.
-    - **(B)** The term “Director” means the Director of the Bureau.
-    - **(C)** As updated from time to time in accordance with paragraph (3), the term “exposure-related cancer” means—
-      - **(i)** bladder cancer;
-      - **(ii)** brain cancer;
-      - **(iii)** breast cancer;
-      - **(iv)** cervical cancer;
-      - **(v)** colon cancer;
-      - **(vi)** colorectal cancer;
-      - **(vii)** esophageal cancer;
-      - **(viii)** kidney cancer;
-      - **(ix)** leukemia;
-      - **(x)** lung cancer;
-      - **(xi)** malignant melanoma;
-      - **(xii)** mesothelioma;
-      - **(xiii)** multiple myeloma;
-      - **(xiv)** non-Hodgkins lymphoma;
-      - **(xv)** ovarian cancer;
-      - **(xvi)** prostate cancer;
-      - **(xvii)** skin cancer;
-      - **(xviii)** stomach cancer;
-      - **(xix)** testicular cancer;
-      - **(xx)** thyroid cancer;
-      - **(xxi)** any form of cancer that is considered a WTC-related health condition under section 300mm–22(a) of title 42 ; and
-      - **(xxii)** any form of cancer added to this definition pursuant to an update in accordance with paragraph (3).
-  - **(2)**
-    - **(A)** Subject to subparagraph (B), as determined by the Bureau, the exposure of a public safety officer to a carcinogen shall be presumed to constitute a personal injury within the meaning of subsection (a) or (b) sustained in the line of duty by the officer and directly and proximately resulting in death or permanent and total disability, if—
-      - **(i)** the exposure occurred while the public safety officer was engaged in line of duty action or activity;
-      - **(ii)** the public safety officer began serving as a public safety officer not fewer than 5 years before the date of the diagnosis of the public safety officer with an exposure-related cancer;
-      - **(iii)** the public safety officer was diagnosed with the exposure-related cancer not more than 15 years after the public safety officer’s last date of active service as a public safety officer; and
-      - **(iv)** the exposure-related cancer directly and proximately results in the death or permanent and total disability of the public safety officer.
-    - **(B)** The presumption under subparagraph (A) shall not apply if competent medical evidence establishes that the exposure of the public safety officer to the carcinogen was not a substantial contributing factor in the death or disability of the public safety officer.
-  - **(3)**
-    - **(A)** From time to time but not less frequently than once every 3 years, the Director shall—
-      - **(i)** review the definition of ‘exposure-related cancer’ under paragraph (1); and
-      - **(ii)** if appropriate, update the definition, in accordance with this paragraph—
-        - **(I)** by rule; or
-        - **(II)** by publication in the Federal Register or on the public website of the Bureau.
-    - **(B)**
-      - **(i)** The Director shall make an update under subparagraph (A)(ii) in any case in which the Director finds such an update to be appropriate based on competent medical evidence of significant risk to public safety officers of developing the form of exposure-related cancer that is the subject of the update from engagement in their public safety activities.
-      - **(ii)** The competent medical evidence described in clause (i) may include recommendations, risk assessments, and scientific studies by—
-        - **(I)** the National Institute for Occupational Safety and Health;
-        - **(II)** the National Toxicology Program;
-        - **(III)** the National Academies of Sciences, Engineering, and Medicine; or
-        - **(IV)** the International Agency for Research on Cancer.
-    - **(C)**
-      - **(i)** Any person may petition the Director to add a form of cancer to the definition of “exposure-related cancer” under paragraph (1).
-      - **(ii)** A petition under clause (i) shall provide information to show that there is sufficient competent medical evidence of significant risk to public safety officers of developing the cancer from engagement in their public safety activities.
-      - **(iii)**
-        - **(I)** Not later than 180 days after receipt of a petition satisfying clause (ii), the Director shall refer the petition to appropriate medical experts for review, analysis (including risk assessment and scientific study), and recommendation.
-        - **(II)** The Director shall consider each recommendation under subclause (I) and promptly take appropriate action in connection with the recommendation pursuant to subparagraph (B).
-      - **(iv)** Not later than 30 days after taking any substantive action in connection with a recommendation under clause (iii)(II), the Director shall notify the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives of the substantive action.

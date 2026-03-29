@@ -3,9 +3,9 @@ title: "Section 3369a - Report on deepfake technology, foreign weaponization of 
 usc_title: 50
 usc_section: "3369a"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "50 U.S.C. § 3369a"
-generated_at: "2026-03-29T20:08:11.232Z"
+generated_at: "2026-03-29T20:35:05.246Z"
 ---
 
 # § 3369a. Report on deepfake technology, foreign weaponization of deepfakes, and related notifications
@@ -34,6 +34,7 @@ generated_at: "2026-03-29T20:08:11.232Z"
 - **(c)** The Director of National Intelligence, in cooperation with the heads of any other relevant departments or agencies of the Federal Government, shall notify the congressional intelligence committees each time the Director of National Intelligence determines—
   - **(1)** there is credible information or intelligence that a foreign entity has attempted, is attempting, or will attempt to deploy machine-manipulated media or machine-generated text aimed at the elections or domestic political processes of the United States; and
   - **(2)** that such intrusion or campaign can be attributed to a foreign government, a foreign government-affiliated entity, or a foreign individual.
-- **(d)**
+- **(d)** Upon submission of the report in subsection (a), on an annual basis, the Director of National Intelligence, in consultation with the heads of the elements of the intelligence community determined appropriate by the Director, shall submit to the congressional intelligence committees any significant updates with respect to the matters described in subsection (a).
+- **(e)**
   - **(1)** The term “machine-generated text” means text generated using machine-learning techniques in order to resemble writing in natural language.
-  - **(2)** The term “machine-manipulated media” has the meaning given that term in section 5724. 1 1 See References in Text note below.
+  - **(2)** The term “machine-manipulated media” has the meaning given that term in section 5724.

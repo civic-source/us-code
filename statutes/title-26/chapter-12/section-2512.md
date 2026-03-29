@@ -3,9 +3,9 @@ title: "Section 2512 - Valuation of gifts"
 usc_title: 26
 usc_section: "2512"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 2512"
-generated_at: "2026-03-29T20:05:22.551Z"
+generated_at: "2026-03-29T20:33:27.169Z"
 ---
 
 # § 2512. Valuation of gifts

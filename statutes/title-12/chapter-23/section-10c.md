@@ -3,9 +3,9 @@ title: "Section 10c - Corporation as conservator or receiver; certain other powe
 usc_title: 12
 usc_section: "10c"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "12 U.S.C. § 10c"
-generated_at: "2026-03-29T20:03:45.835Z"
+generated_at: "2026-03-29T20:32:15.097Z"
 ---
 
 # § 2277a–10c. Corporation as conservator or receiver; certain other powers

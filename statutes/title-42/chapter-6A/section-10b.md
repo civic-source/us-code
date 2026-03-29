@@ -3,9 +3,9 @@ title: "Section 10b - National Advisory Committee on Children and Disasters"
 usc_title: 42
 usc_section: "10b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 10b"
-generated_at: "2026-03-29T20:07:43.357Z"
+generated_at: "2026-03-29T20:34:52.837Z"
 ---
 
 # § 300hh–10b. National Advisory Committee on Children and Disasters
@@ -13,21 +13,20 @@ generated_at: "2026-03-29T20:07:43.357Z"
 - **(a)** The Secretary, in consultation with the Secretary of Homeland Security, shall establish an advisory committee to be known as the “National Advisory Committee on Children and Disasters” (referred to in this section as the “Advisory Committee”).
 - **(b)** The Advisory Committee shall—
   - **(1)** provide advice and consultation with respect to the activities carried out pursuant to section 300hh–16 of this title , as applicable and appropriate;
-  - **(2)** evaluate and provide input with respect to the medical, mental, behavioral, developmental, and public health needs of children as they relate to preparation for, response to, and recovery from all-hazards emergencies;
-  - **(3)** provide advice and consultation with respect to State emergency preparedness and response activities and children, including related drills and exercises pursuant to the preparedness goals under section 300hh–1(b) of this title ; and
-  - **(4)** provide advice and consultation with respect to continuity of care and education for all children and supporting parents and caregivers during all-hazards emergencies.
+  - **(2)** evaluate and provide input with respect to the medical, mental and behavioral, and public health needs of children as they relate to preparation for, response to, and recovery from all-hazards emergencies; and
+  - **(3)** provide advice and consultation with respect to State emergency preparedness and response activities and children, including related drills and exercises pursuant to the preparedness goals under section 300hh–1(b) of this title .
 - **(c)** The Advisory Committee may provide advice and recommendations to the Secretary with respect to children and the medical and public health grants and cooperative agreements as applicable to preparedness and response activities authorized under this subchapter and subchapter II.
 - **(d)**
   - **(1)** The Secretary, in consultation with such other Secretaries as may be appropriate, shall appoint not to exceed 25 members to the Advisory Committee. In appointing such members, the Secretary shall ensure that the total membership of the Advisory Committee is an odd number.
   - **(2)** The Secretary, in consultation with such other heads of Federal agencies as may be appropriate, shall appoint to the Advisory Committee under paragraph (1) at least 13 individuals, including—
     - **(A)** at least 2 non-Federal professionals with expertise in pediatric medical disaster planning, preparedness, response, or recovery;
     - **(B)** at least 2 representatives from State, local, Tribal, or territorial agencies with expertise in pediatric disaster planning, preparedness, response, or recovery;
-    - **(C)** at least 4 members representing health care professionals, which may include members with expertise in pediatric emergency medicine; pediatric trauma, critical care, or surgery; the treatment of pediatric patients affected by chemical, biological, radiological, or nuclear agents, including emerging infectious diseases; pediatric mental or behavioral health related to children affected by a public health emergency; or pediatric primary care;
-    - **(D)** at least 4 non-Federal members representing child care settings, State or local educational agencies, individuals with expertise in children with disabilities, and parents; and
-    - **(E)** other members as the Secretary determines appropriate, of whom—
+    - **(C)** at least 4 members representing health care professionals, which may include members with expertise in pediatric emergency medicine; pediatric trauma, critical care, or surgery; the treatment of pediatric patients affected by chemical, biological, radiological, or nuclear agents, including emerging infectious diseases; pediatric mental or behavioral health related to children affected by a public health emergency; or pediatric primary care; and
+    - **(D)** other members as the Secretary determines appropriate, of whom—
       - **(i)** at least one such member shall represent a children’s hospital;
-      - **(ii)** at least one such member shall be an individual with expertise in children and youth with special health care needs; and
-      - **(iii)** at least one such member shall be an individual with expertise in the needs of parents or family caregivers, including the parents or caregivers of children with disabilities.
+      - **(ii)** at least one such member shall be an individual with expertise in schools or child care settings;
+      - **(iii)** at least one such member shall be an individual with expertise in children and youth with special health care needs; and
+      - **(iv)** at least one such member shall be an individual with expertise in the needs of parents or family caregivers, including the parents or caregivers of children with disabilities.
   - **(3)** The Advisory Committee under paragraph (1) shall include the following Federal members or their designees (who may be nonvoting members, as determined by the Secretary):
     - **(A)** The Assistant Secretary for Preparedness and Response.
     - **(B)** The Director of the Biomedical Advanced Research and Development Authority.
@@ -44,4 +43,4 @@ generated_at: "2026-03-29T20:07:43.357Z"
   - **(5)** A member appointed under paragraph (2) may serve not more than 3 terms on the Advisory Committee, and not more than two of such terms may be served consecutively.
 - **(e)** The Advisory Committee shall meet not less than biannually. At least one meeting per year shall be an in-person meeting.
 - **(f)** The Secretary shall coordinate duties and activities authorized under this section in accordance with section 300hh–10e of this title .
-- **(g)** The Advisory Committee shall terminate on January 30, 2026 .
+- **(g)** The Advisory Committee shall terminate on September 30, 2023 .

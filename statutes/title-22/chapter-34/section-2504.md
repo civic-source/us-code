@@ -3,9 +3,9 @@ title: "Section 2504 - Peace Corps volunteers"
 usc_title: 22
 usc_section: "2504"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 2504"
-generated_at: "2026-03-29T20:04:46.792Z"
+generated_at: "2026-03-29T20:32:59.986Z"
 ---
 
 # § 2504. Peace Corps volunteers
@@ -46,7 +46,7 @@ generated_at: "2026-03-29T20:04:46.792Z"
     - **(B)** a copy of any report or study received from the entity or used by the Peace Corps to perform the analysis; and
     - **(C)** any supporting documentation upon which the Peace Corps or such entity relied to make its determination, including the volunteer’s complete medical record, as soon as such information is available to the Peace Corps.
   - **(3)** If a volunteer dies, the Peace Corps shall take reasonable measures, in accordance with local laws, to preserve any information or material, in any medium or format, that may be relevant to determining the cause or root cause of the death of the volunteer, including personal effects, medication, and other tangible items belonging to the volunteer, as long as such measures do not interfere with the legal procedures of the host country if the government of the host country is exercising jurisdiction over the investigation of such death. The Inspector General of the Peace Corps shall be provided an opportunity to inspect such items before their final disposition.
-  - **(4)** Consistent with the Inspector General Act of 1978 (5 U.S.C. App.), 1 the Inspector General of the Peace Corps may independently review the facts and circumstances surrounding the death of a volunteer and the actions taken by the Peace Corps in responding to such incident.
+  - **(4)** Consistent with the Inspector General Act of 1978 (5 U.S.C. App.), the Inspector General of the Peace Corps may independently review the facts and circumstances surrounding the death of a volunteer and the actions taken by the Peace Corps in responding to such incident.
   - **(5)** For the purposes of undertaking a review under this section, an officer or employee of the United States or a member of the Armed Forces may be detailed to the Inspector General of the Peace Corps from another department of the United States Government on a nonreimbursable basis, as jointly agreed to by the Inspector General and the detailing department, for a period not to exceed 1 year. This paragraph may not be construed to limit or modify any other source of authority for reimbursable or nonreimbursable details. A nonreimbursable detail made under this section may not be considered an augmentation of the appropriations of the Peace Corps.
   - **(6)** Upon request, the Peace Corps may make available necessary funds to the Inspector General of the Peace Corps for reviews conducted by the Inspector General under this section. The request shall be limited to costs relating to hiring, procuring, or otherwise obtaining medical-related experts or expert services, and associated travel.
   - **(7)** The undertaking of a review under this section may not be considered a transfer of program operating responsibilities to the Inspector General of the Peace Corps.

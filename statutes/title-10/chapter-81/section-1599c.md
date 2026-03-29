@@ -3,9 +3,9 @@ title: "Section 1599c - Health care professionals: enhanced appointment and comp
 usc_title: 10
 usc_section: "1599c"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 1599c"
-generated_at: "2026-03-29T20:03:09.618Z"
+generated_at: "2026-03-29T20:31:54.538Z"
 ---
 
 # § 1599c. Health care professionals: enhanced appointment and compensation authority for personnel for care and treatment of wounded and injured members of the armed forces
@@ -19,5 +19,5 @@ generated_at: "2026-03-29T20:03:09.618Z"
     - **(B)** In using the authority provided by this paragraph, the Secretary shall apply the principles of preference for the hiring of veterans and other persons established in subchapter I of chapter 33 of title 5.
     - **(C)** Any designation by the Secretary for purposes of subparagraph (A)(i) shall be based on an analysis of current and future Department of Defense workforce requirements.
 - **(b)**
-  - **(1)** The authority of the Secretary of Defense under subsection (a)(1) to exercise authorities available under chapter 74 of title 38 for purposes of the recruitment, employment, and retention of civilian health care professionals for the Department of Defense expires December 31, 2030 .
-  - **(2)** The Secretary may not appoint a person to a position of employment under subsection (a)(2) after December 31, 2030 .
+  - **(1)** The authority of the Secretary of Defense under subsection (a)(1) to exercise authorities available under chapter 74 of title 38 for purposes of the recruitment, employment, and retention of civilian health care professionals for the Department of Defense expires December 31, 2025 .
+  - **(2)** The Secretary may not appoint a person to a position of employment under subsection (a)(2) after December 31, 2025 .

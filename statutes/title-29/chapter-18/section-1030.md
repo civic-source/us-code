@@ -3,14 +3,14 @@ title: "Section 1030 - Alternative methods of compliance"
 usc_title: 29
 usc_section: "1030"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "29 U.S.C. § 1030"
-generated_at: "2026-03-29T20:05:03.688Z"
+generated_at: "2026-03-29T20:33:05.714Z"
 ---
 
 # § 1030. Alternative methods of compliance
 
-- **(a)** The Secretary on his own motion or after having received the petition of an administrator may prescribe an alternative method for satisfying any requirement of this part with respect to any pension plan, or class of pension plans (including pension-linked emergency savings account features within a pension plan), subject to such requirement if he determines—
+- **(a)** The Secretary on his own motion or after having received the petition of an administrator may prescribe an alternative method for satisfying any requirement of this part with respect to any pension plan, or class of pension plans, subject to such requirement if he determines—
   - **(1)** that the use of such alternative method is consistent with the purposes of this subchapter and that it provides adequate disclosure to the participants and beneficiaries in the plan, and adequate reporting to the Secretary,
   - **(2)** that the application of such requirement of this part would—
     - **(A)** increase the costs to the plan, or

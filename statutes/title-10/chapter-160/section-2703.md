@@ -3,9 +3,9 @@ title: "Section 2703 - Environmental restoration accounts"
 usc_title: 10
 usc_section: "2703"
 chapter: 160
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2703"
-generated_at: "2026-03-29T20:03:09.711Z"
+generated_at: "2026-03-29T20:31:54.642Z"
 ---
 
 # § 2703. Environmental restoration accounts
@@ -26,6 +26,6 @@ generated_at: "2026-03-29T20:03:09.711Z"
   - **(2)** Any other amounts recovered from a contractor, insurer, surety, or other person to reimburse the Department of Defense or a military department for any expenditure for environmental response activities.
 - **(f)** None of the funds appropriated to the Environmental Restoration Account, Defense, or to any environmental restoration account of a military department, may be used for the payment of a fine or penalty (including any supplemental environmental project carried out as part of such penalty) imposed against the Department of Defense or a military department unless the act or omission for which the fine or penalty is imposed arises out of an activity funded by the environmental restoration account concerned and the payment of the fine or penalty has been specifically authorized by law.
 - **(g)**
-  - **(1)** Except as provided in subsection (h), the sole source of funds for all phases of an environmental remedy at a site under the jurisdiction of the Department of Defense, a National Guard facility, or a formerly used defense site shall be the applicable environmental restoration account established under subsection (a).
+  - **(1)** Except as provided in subsection (h), the sole source of funds for all phases of an environmental remedy at a site under the jurisdiction of the Department of Defense or a formerly used defense site shall be the applicable environmental restoration account established under subsection (a).
   - **(2)** In this subsection, the term “environmental remedy” has the meaning given the term “remedy” in section 101 of CERCLA ( 42 U.S.C. 9601 ).
 - **(h)** In the case of property disposed of pursuant to a base closure law and subject to a covenant that was required to be provided by paragraphs (3) and (4) of section 120(h) of CERCLA ( 42 U.S.C. 9620(h) ), the sole source of funds for services procured under section 2701(d)(1) of this title shall be the Department of Defense Base Closure Account established under section 2906 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510 ; 10 U.S.C. 2687 note). The limitation in this subsection shall expire upon the closure of such base closure account.

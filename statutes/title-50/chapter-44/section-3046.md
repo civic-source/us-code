@@ -3,9 +3,9 @@ title: "Section 3046 - Repealed. Pub. L. 108–458, title I, § 1075 , Dec. 17, 
 usc_title: 50
 usc_section: "3046"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "50 U.S.C. § 3046"
-generated_at: "2026-03-29T20:08:11.195Z"
+generated_at: "2026-03-29T20:35:05.215Z"
 ---
 
 # § 3046. Repealed. Pub. L. 108–458, title I, § 1075 , Dec. 17, 2004 , 118 Stat. 3694

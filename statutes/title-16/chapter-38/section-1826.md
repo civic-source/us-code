@@ -3,9 +3,9 @@ title: "Section 1826 - Large-scale driftnet fishing"
 usc_title: 16
 usc_section: "1826"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 1826"
-generated_at: "2026-03-29T20:04:20.346Z"
+generated_at: "2026-03-29T20:32:45.390Z"
 ---
 
 # § 1826. Large-scale driftnet fishing
@@ -17,14 +17,12 @@ generated_at: "2026-03-29T20:04:20.346Z"
   - **(3)** there is a pressing need for detailed and reliable information on the number of seabirds, sea turtles, nontarget fish, and marine mammals that become entangled and die in actively fished large-scale driftnets and in large-scale driftnets that are lost, abandoned, or discarded;
   - **(4)** increased efforts, including reliable observer data and enforcement mechanisms, are needed to monitor, assess, control, and reduce the adverse impact of large-scale driftnet fishing on living marine resources;
   - **(5)** the nations of the world have agreed in the United Nations, through General Assembly Resolution Numbered 44–225, approved December 22, 1989 , by the General Assembly, that a moratorium should be imposed by June 30, 1992 , on the use of large-scale driftnets beyond the exclusive economic zone of any nation;
-  - **(6)** the nations of the South Pacific have agreed to a moratorium on the use of large-scale driftnets in the South Pacific through the Convention for the Prohibition of Fishing with Long Driftnets in the South Pacific, which was agreed to in Wellington, New Zealand, on November 29, 1989 ;
-  - **(7)** increasing population pressures and new knowledge of the importance of living marine resources to the health of the global ecosystem demand that greater responsibility be exercised by persons fishing or developing new fisheries beyond the exclusive economic zone of any nation; and
-  - **(8)** within the exclusive economic zone, large-scale driftnet fishing that deploys nets with large mesh sizes causes significant entanglement and mortality of living marine resources, including myriad protected species, despite limitations on the lengths of such nets.
+  - **(6)** the nations of the South Pacific have agreed to a moratorium on the use of large-scale driftnets in the South Pacific through the Convention for the Prohibition of Fishing with Long Driftnets in the South Pacific, which was agreed to in Wellington, New Zealand, on November 29, 1989 ; and
+  - **(7)** increasing population pressures and new knowledge of the importance of living marine resources to the health of the global ecosystem demand that greater responsibility be exercised by persons fishing or developing new fisheries beyond the exclusive economic zone of any nation.
 - **(c)** It is declared to be the policy of the Congress in this section that the United States should—
   - **(1)** implement the moratorium called for by the United Nations General Assembly in Resolution Numbered 44–225;
-  - **(2)** support the Tarawa Declaration and the Wellington Convention for the Prohibition of Fishing with Long Driftnets in the South Pacific;
-  - **(3)** secure a permanent ban on the use of destructive fishing practices, and in particular large-scale driftnets, by persons or vessels fishing beyond the exclusive economic zone of any nation; and
-  - **(4)** prioritize the phase out of large-scale driftnet fishing in the exclusive economic zone and promote the development and adoption of alternative fishing methods and gear types that minimize the incidental catch of living marine resources.
+  - **(2)** support the Tarawa Declaration and the Wellington Convention for the Prohibition of Fishing with Long Driftnets in the South Pacific; and
+  - **(3)** secure a permanent ban on the use of destructive fishing practices, and in particular large-scale driftnets, by persons or vessels fishing beyond the exclusive economic zone of any nation.
 - **(d)** The Secretary, through the Secretary of State and the Secretary of the department in which the Coast Guard is operating, shall seek to secure international agreements to implement immediately the findings, policy, and provisions of this section, and in particular an international ban on large-scale driftnet fishing. The Secretary, through the Secretary of State, shall include, in any agreement which addresses the taking of living marine resources of the United States, provisions to ensure that—
   - **(1)** each large-scale driftnet fishing vessel of a foreign nation that is party to the agreement, including vessels that may operate independently to develop new fishing areas, which operate beyond the exclusive economic zone of any nation, is included in such agreement;
   - **(2)** each large-scale driftnet fishing vessel of a foreign nation that is party to the agreement, which operates beyond the exclusive economic zone of any nation, is equipped with satellite transmitters which provide real-time position information accessible to the United States;
@@ -36,12 +34,11 @@ generated_at: "2026-03-29T20:04:20.346Z"
   - **(8)** all large-scale driftnets are marked at appropriate intervals in a manner that conclusively identifies the vessel and flag nation responsible for each such driftnet;
   - **(9)** the taking of nontarget fish species, marine mammals, sea turtles, seabirds, and endangered species or other species protected by international agreements to which the United States is a party is minimized and does not pose a threat to existing fisheries or the long-term health of living marine resources; and
   - **(10)** definitive steps are agreed upon to ensure that parties to the agreement comply with the spirit of other international agreements and resolutions concerning the use of large-scale driftnets beyond the exclusive economic zone of any nation.
-- **(e)** This section shall not serve or be construed to expand or diminish the sovereign rights of the United States, as stated by Presidential Proclamation Numbered 5030, dated March 10, 1983 , and reflected in this chapter or other existing law.
-- **(f)** As used in this section, the term “living marine resources” includes fish, marine mammals, sea turtles, and seabirds and other waterfowl.
-- **(i)**
-  - **(1)** During the 5-year period beginning on December 29, 2022 , the Secretary shall conduct a transition program to facilitate the phase-out of large-scale driftnet fishing and adoption of alternative fishing practices that minimize the incidental catch of living marine resources, and shall award grants to eligible permit holders who participate in the program.
-  - **(2)** Any permit holder receiving a grant under paragraph (1) may use such funds only for the purpose of covering—
-    - **(A)** any fee originally associated with a permit authorizing participation in a large-scale driftnet fishery, if such permit is surrendered for permanent revocation, and such permit holder relinquishes any claim associated with the permit;
-    - **(B)** a forfeiture of fishing gear associated with a permit described in subparagraph (A); or
-    - **(C)** the purchase of alternative gear with minimal incidental catch of living marine resources, if the fishery participant is authorized to continue fishing using such alternative gears.
-  - **(3)** The Secretary shall certify that, with respect to each participant in the program under this subsection, any permit authorizing participation in a large-scale driftnet fishery has been permanently revoked and that no new permits will be issued to authorize such fishing.
+- **(e)** Not later than January 1, 1991 , and every year thereafter until the purposes of this section are met, the Secretary, after consultation with the Secretary of State and the Secretary of the department in which the Coast Guard is operating, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives a report—
+  - **(1)** describing the steps taken to carry out the provisions of this section, particularly subsection (c);
+  - **(2)** evaluating the progress of those efforts, the impacts on living marine resources, including available observer data, and specifying plans for further action;
+  - **(3)** containing a list and description of any new fisheries developed by nations that conduct, or authorize their nationals to conduct, large-scale driftnet fishing beyond the exclusive economic zone of any nation; and
+  - **(4)** containing a list of the nations that conduct, or authorize their nationals to conduct, large-scale driftnet fishing beyond the exclusive economic zone of any nation in a manner that diminishes the effectiveness of or is inconsistent with any international agreement governing large-scale driftnet fishing to which the United States is a party or otherwise subscribes.
+- **(f)** If at any time the Secretary, in consultation with the Secretary of State and the Secretary of the department in which the Coast Guard is operating, identifies any nation that warrants inclusion in the list described under subsection (e)(4), the Secretary shall certify that fact to the President. Such certification shall be deemed to be a certification for the purposes of section 1978(a) of title 22 .
+- **(g)** This section shall not serve or be construed to expand or diminish the sovereign rights of the United States, as stated by Presidential Proclamation Numbered 5030, dated March 10, 1983 , and reflected in this chapter or other existing law.
+- **(h)** As used in this section, the term “living marine resources” includes fish, marine mammals, sea turtles, and seabirds and other waterfowl.

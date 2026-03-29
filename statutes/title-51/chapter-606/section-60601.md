@@ -3,9 +3,9 @@ title: "Section 60601 - Space weather"
 usc_title: 51
 usc_section: "60601"
 chapter: 606
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "51 U.S.C. § 60601"
-generated_at: "2026-03-29T20:08:15.837Z"
+generated_at: "2026-03-29T20:35:13.954Z"
 ---
 
 # § 60601. Space weather
@@ -71,4 +71,4 @@ generated_at: "2026-03-29T20:08:15.837Z"
     - **(D)** Not later than 30 days after the completion of the survey under subparagraph (A), the advisory group shall provide to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a briefing on the results of the survey under subparagraph (A).
     - **(E)** Within 30 days of the briefing to Congress, the advisory group shall make the results of the survey under subparagraph (A) publicly available.
     - **(F)** The advisory group shall review and assess the survey under subparagraph (A) not less than every 3 years and update, resubmit, and republish the survey in accordance with the requirements of subparagraphs (D) and (E).
-  - **(4)** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) 1 1 See References in Text note below. shall not apply to the advisory group.
+  - **(4)** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the advisory group.

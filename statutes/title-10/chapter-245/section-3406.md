@@ -3,9 +3,9 @@ title: "Section 3406 - Task and delivery order contracts: orders"
 usc_title: 10
 usc_section: "3406"
 chapter: 245
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 3406"
-generated_at: "2026-03-29T20:03:09.757Z"
+generated_at: "2026-03-29T20:31:54.673Z"
 ---
 
 # § 3406. Task and delivery order contracts: orders
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T20:03:09.757Z"
 - **(b)** The following actions are not required for issuance of a task or delivery order under a task or delivery order contract:
   - **(1)** A separate notice for such order under section 1708 of title 41 or section 8(e) of the Small Business Act ( 15 U.S.C. 637(e) ).
   - **(2)** Except as provided in subsection (c), a competition (or a waiver of competition approved in accordance with section 3204(e) of this title ) that is separate from that used for entering into the contract.
-- **(c)** When multiple task or delivery order contracts are awarded under section 3403(d)(1)(B) or 3405(f) of this title, all contractors awarded such contracts shall be provided a fair opportunity to be considered, pursuant to procedures set forth in the contracts, for each task or delivery order in excess of $2,500 that is to be issued under any of the contracts unless—
+- **(c)** When multiple task or delivery order contracts are awarded under section 3403(d)(1)(B) or 3405(f) 1 1 Amendment by section 1820(e)(5)(A) of Pub. L. 116–283 executed to reflect the probable intent of Congress. of this title, all contractors awarded such contracts shall be provided a fair opportunity to be considered, pursuant to procedures set forth in the contracts, for each task or delivery order in excess of $2,500 that is to be issued under any of the contracts unless—
   - **(1)** the agency’s need for the services or property ordered is of such unusual urgency that providing such opportunity to all such contractors would result in unacceptable delays in fulfilling that need;
   - **(2)** only one such contractor is capable of providing the services or property required at the level of quality required because the services or property ordered are unique or highly specialized;
   - **(3)** the task or delivery order should be issued on a sole-source basis in the interest of economy and efficiency because it is a logical follow-on to a task or delivery order already issued on a competitive basis;
@@ -30,11 +30,8 @@ generated_at: "2026-03-29T20:03:09.757Z"
 - **(f)**
   - **(1)** A protest is not authorized in connection with the issuance or proposed issuance of a task or delivery order except for—
     - **(A)** a protest on the ground that the order increases the scope, period, or maximum value of the contract under which the order is issued; or
-    - **(B)** a protest of an order valued in excess of $35,000,000.
+    - **(B)** a protest of an order valued in excess of $25,000,000.
   - **(2)** Notwithstanding section 3556 of title 31 , the Comptroller General of the United States shall have exclusive jurisdiction of a protest authorized under paragraph (1)(B).
 - **(g)**
   - **(1)** Each head of an agency who awards multiple task or delivery order contracts pursuant to section 3403(d)(1)(B) or 3405(f) of this title shall appoint or designate a task and delivery order ombudsman who shall be responsible for reviewing complaints from the contractors on such contracts and ensuring that all of the contractors are afforded a fair opportunity to be considered for task or delivery orders when required under subsection (c).
   - **(2)** The task and delivery order ombudsman shall be a senior agency official who is independent of the contracting officer for the contracts and may be the agency’s competition advocate.
-- **(h)**
-  - **(1)** Task or delivery orders for architectural and engineering services issued under section 3403 or 3405 of this title shall be qualification-based selections executed in accordance with chapter 11 of title 40.
-  - **(2)** When issuing a task or delivery order for architectural and engineering services under a multiple award contract, the head of an agency may not routinely request additional information relating to qualifications from the contractor for such multiple award contract.

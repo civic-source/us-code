@@ -3,9 +3,9 @@ title: "Section 6513 - Prioritization"
 usc_title: 16
 usc_section: "6513"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 6513"
-generated_at: "2026-03-29T20:04:20.482Z"
+generated_at: "2026-03-29T20:32:45.498Z"
 ---
 
 # § 6513. Prioritization
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T20:04:20.482Z"
 - **(a)** In accordance with the Implementation Plan, the Secretary shall develop an annual program of work for Federal land that gives priority to authorized hazardous fuel reduction projects that provide for the protection of at-risk communities or watersheds or that implement community wildfire protection plans.
 - **(b)**
   - **(1)** The Secretary shall consider recommendations under subsection (a) that are made by at-risk communities that have developed community wildfire protection plans.
-  - **(2)** Chapter 10 of title 5 shall not apply to the planning process and recommendations concerning community wildfire protection plans.
+  - **(2)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the planning process and recommendations concerning community wildfire protection plans.
 - **(c)**
   - **(1)** Federal agency involvement in developing a community wildfire protection plan, or a recommendation made in a community wildfire protection plan, shall not be considered a Federal agency action under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).
   - **(2)** In implementing authorized hazardous fuel reduction projects on Federal land, the Secretary shall, in accordance with section 6514 of this title , comply with the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).

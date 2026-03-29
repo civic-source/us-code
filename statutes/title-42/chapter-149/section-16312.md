@@ -3,9 +3,9 @@ title: "Section 16312 - Fusion energy sciences program"
 usc_title: 42
 usc_section: "16312"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 16312"
-generated_at: "2026-03-29T20:07:44.911Z"
+generated_at: "2026-03-29T20:34:54.243Z"
 ---
 
 # § 16312. Fusion energy sciences program
@@ -28,9 +28,5 @@ generated_at: "2026-03-29T20:07:44.911Z"
   - **(1)** There is authorized United States participation in the construction and operations of the ITER project, as agreed to under the April 25, 2007 “Agreement on the Establishment of the ITER International Fusion Energy Organization for the Joint Implementation of the ITER Project”. The Director shall coordinate and carry out the responsibilities of the United States with respect to this Agreement.
   - **(2)** Not later than 1 year after the date of enactment of this section, the Secretary shall submit to Congress a report providing an assessment of the most recent schedule for ITER that has been approved by the ITER Council.
   - **(3)** Out of funds authorized to be appropriated under section 18645( o ) of this title, there shall be made available to the Secretary to carry out the construction of ITER—
-    - **(A)** $374,000,000 for fiscal year 2021;
-    - **(B)** $379,700,000 for fiscal year 2023;
-    - **(C)** $419,250,000 for fiscal year 2024;
-    - **(D)** $415,000,000 for fiscal year 2025;
-    - **(E)** $370,500,000 for fiscal year 2026; and
-    - **(F)** $411,078,000 for fiscal year 2027.
+    - **(A)** $374,000,000 for fiscal year 2021; and
+    - **(B)** $281,000,000 for each of fiscal years 2022 through 2025.

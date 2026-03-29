@@ -3,9 +3,9 @@ title: "Section 3750 - Proceeding costs not allowable"
 usc_title: 10
 usc_section: "3750"
 chapter: 273
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 3750"
-generated_at: "2026-03-29T20:03:09.764Z"
+generated_at: "2026-03-29T20:31:54.678Z"
 ---
 
 # § 3750. Proceeding costs not allowable
@@ -44,4 +44,4 @@ generated_at: "2026-03-29T20:03:09.764Z"
       - **(iii)** such other factors as may be appropriate.
   - **(3)** In the case of a proceeding referred to in paragraph (1), contractor or subcontractor, or personal services contractor costs otherwise allowable as reimbursable costs under this subsection are not allowable if—
     - **(A)** such proceeding involves the same contractor or subcontractor, or personal services contractor misconduct alleged as the basis of another criminal, civil, or administrative proceeding; and
-    - **(B)** the costs of such other proceeding are not allowable under subsection (b).
+    - **(B)** the costs of such other proceeding are not allowable under paragraph (1). 1 1 So in original. Probably should be “under subsection (b).”

@@ -3,9 +3,9 @@ title: "Section 2 - Report of civil rights complaints, resolutions, and actions"
 usc_title: 7
 usc_section: "2"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-29T20:02:52.657Z"
+generated_at: "2026-03-29T20:31:42.106Z"
 ---
 
 # § 2279–2. Report of civil rights complaints, resolutions, and actions

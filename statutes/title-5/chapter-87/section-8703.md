@@ -3,9 +3,9 @@ title: "Section 8703 - Benefit certificate"
 usc_title: 5
 usc_section: "8703"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "5 U.S.C. § 8703"
-generated_at: "2026-03-29T20:02:37.908Z"
+generated_at: "2026-03-29T20:31:26.947Z"
 ---
 
 # § 8703. Benefit certificate

@@ -3,9 +3,9 @@ title: "Section 3672 - Approval of courses"
 usc_title: 38
 usc_section: "3672"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "38 U.S.C. § 3672"
-generated_at: "2026-03-29T20:05:54.717Z"
+generated_at: "2026-03-29T20:34:04.948Z"
 ---
 
 # § 3672. Approval of courses
@@ -14,18 +14,15 @@ generated_at: "2026-03-29T20:05:54.717Z"
 - **(b)**
   - **(1)** The Secretary shall be responsible for the approval of courses of education offered by any agency of the Federal Government authorized under other laws to supervise such education. The Secretary may approve any course in any other educational institution in accordance with the provisions of this chapter and chapters 34 and 35 of this title.
   - **(2)**
-    - **(A)** Subject to sections 3675 paragraphs (1), (2), and (6) of section 3675(b), 3680A, 3684, and 3696 of this title, 1 1 So in original. Probably should read “Subject to paragraphs (1), (2), and (6) of section 3675(b) and sections 3680A, 3684, and 3696 of this title,”. a program of education is deemed to be approved for purposes of this chapter if a State approving agency, or the Secretary when acting in the role of a State approving agency, determines that the program is one of the following programs:
-      - **(i)** Except as provided in subparagraph (C) or (D), an accredited standard college degree program offered at a public or not-for-profit proprietary educational institution that—
-        - **(I)** is accredited by an agency or association recognized for that purpose by the Secretary of Education; and
-        - **(II)** is approved and participates in a program under title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1070 et seq.), unless the Secretary has waived the requirement to participate in a program under title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1070 et seq.).
+    - **(A)** Subject to sections 3675(b)(1) and (b)(2), 3680A, 3684, and 3696 of this title, a program of education is deemed to be approved for purposes of this chapter if a State approving agency, or the Secretary when acting in the role of a State approving agency, determines that the program is one of the following programs:
+      - **(i)** Except as provided in subparagraph (C), an accredited standard college degree program offered at a public or not-for-profit proprietary educational institution that is accredited by an agency or association recognized for that purpose by the Secretary of Education.
       - **(ii)** A flight training course approved by the Federal Aviation Administration that is offered by a certified pilot school that possesses a valid Federal Aviation Administration pilot school certificate.
       - **(iii)** An apprenticeship program registered with the Office of Apprenticeship (OA) of the Employment Training Administration of the Department of Labor or a State apprenticeship agency recognized by the Office of Apprenticeship pursuant to the Act of August 16, 1937 (popularly known as the “National Apprenticeship Act”; 29 U.S.C. 50 et seq.).
       - **(iv)** A program leading to a secondary school diploma offered by a secondary school approved in the State in which it is operating.
     - **(B)** A licensure test offered by a Federal, State, or local government is deemed to be approved for purposes of this chapter.
-    - **(C)** A course that is described in both subparagraph (A)(i) of this paragraph and in paragraph (15) or (16) of section 3676(c) of this title shall not be deemed to be approved for purposes of this chapter unless—
+    - **(C)** A course that is described in both subparagraph (A)(i) of this paragraph and in paragraph (14) or (15) of section 3676(c) of this title shall not be deemed to be approved for purposes of this chapter unless—
       - **(i)** a State approving agency, or the Secretary when acting in the role of a State approving agency, determines that the course meets the applicable criteria in such paragraphs; or
       - **(ii)** the Secretary issues a waiver for such course under section 3676(f)(1) of this title .
-    - **(D)** A program that is described in subparagraph (A)(i) of this paragraph and offered by an educational institution that is at risk of losing accreditation shall not be deemed to be approved for purposes of this chapter. For purposes of this subparagraph, an educational institution is at risk of losing accreditation if that educational institution has received from the relevant accrediting agency or association a notice described in section 3673(e)(2)(D) of this title .
 - **(c)**
   - **(1)**
     - **(A)** The State approving agency for a multi-State apprenticeship program is—

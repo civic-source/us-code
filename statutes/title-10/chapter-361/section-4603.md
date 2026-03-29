@@ -3,9 +3,9 @@ title: "Section 4603 - Advance notification of contract performance outside the 
 usc_title: 10
 usc_section: "4603"
 chapter: 361
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 4603"
-generated_at: "2026-03-29T20:03:09.792Z"
+generated_at: "2026-03-29T20:31:54.697Z"
 ---
 
 # § 4603. Advance notification of contract performance outside the United States
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T20:03:09.792Z"
 - **(b)** The firm shall transmit the notification—
   - **(1)** in the case of a contract of a military department, to such officer or employee of that military department as the Secretary of the military department may direct; and
   - **(2)** in the case of any other Department of Defense contract, to such officer or employee of the Department of Defense as the Secretary of Defense may direct.
-- **(c)** The Secretary of Defense shall ensure that the notifications (or copies) are maintained in compiled form for a period of 5 years after the date of submission and are available for use in the preparation of the national defense technology and industrial base assessment carried out under section 4816 of this title .
+- **(c)** The Secretary of Defense shall ensure that the notifications (or copies) are maintained in compiled form for a period of 5 years after the date of submission and are available for use in the preparation of the national defense technology and industrial base assessment carried out under section 4816 1 1 Reference reflects amendment made by section 1883(b)(2) of Pub. L. 116–283 . of this title.
 - **(d)** This section shall not apply to contracts for any of the following:
   - **(1)** Commercial products or commercial services (as defined in sections 103 and 103a, respectively, of title 41).
   - **(2)** Military construction.

@@ -3,9 +3,9 @@ title: "Section 5112 - Denominations, specifications, and design of coins"
 usc_title: 31
 usc_section: "5112"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "31 U.S.C. § 5112"
-generated_at: "2026-03-29T20:05:32.608Z"
+generated_at: "2026-03-29T20:33:31.790Z"
 ---
 
 # § 5112. Denominations, specifications, and design of coins
@@ -421,7 +421,7 @@ generated_at: "2026-03-29T20:05:32.608Z"
       - **(i)** Notwithstanding the 4th, 5th, and 6th sentences of subsection (d)(1), the Secretary may change the design on any of the coins authorized under this section and minted for issuance during the one-year period beginning January 1, 2026 , in celebration of the United States semiquincentennial.
       - **(ii)** Notwithstanding the 2nd and 3rd sentences of subsection (d)(1), the Secretary may place the required inscriptions on either the obverse or reverse sides of the coins authorized for redesign under this subsection.
     - **(B)** The Secretary may issue quarter dollars in 2026 with up to five different designs emblematic of the United States semiquincentennial. One of the quarter dollar designs must be emblematic of a woman’s or women’s contribution to the birth of the Nation or the Declaration of Independence or any other monumental moments in American History.
-    - **(C)** The Secretary may, in addition to the coins produced under subsections (r) and (w), mint for issuance during the one-year period beginning January 1, 2026 , $1 dollar [sic] coins with designs emblematic of the United States semiquincentennial.
+    - **(C)** The Secretary may, in addition to the coins produced under subsections (r) and (w), mint for issuance during the one-year period beginning January 1, 2026 , $1 dollar coins with designs emblematic of the United States semiquincentennial.
     - **(D)** Beginning in 2027, any coin redesigned under this subsection shall revert to the immediately previous designs, with the exception of the quarter dollar and the half dollar, which shall bear designs in accordance with subsection (z).
     - **(E)** A redesign authorized under this subsection shall not constitute a “change” for purposes of subsection (d)(2).
   - **(2)**

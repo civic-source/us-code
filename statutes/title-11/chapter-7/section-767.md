@@ -3,9 +3,9 @@ title: "Section 767 - Commodity broker liquidation and forward contract merchant
 usc_title: 11
 usc_section: "767"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "11 U.S.C. § 767"
-generated_at: "2026-03-29T20:03:14.802Z"
+generated_at: "2026-03-29T20:31:58.726Z"
 ---
 
 # § 767. Commodity broker liquidation and forward contract merchants, commodity brokers, stockbrokers, financial institutions, financial participants, securities clearing agencies, swap participants, repo participants, and master netting agreement participants

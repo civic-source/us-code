@@ -3,9 +3,9 @@ title: "Section 2484 - Commissary stores: merchandise that may be sold; uniform 
 usc_title: 10
 usc_section: "2484"
 chapter: 147
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2484"
-generated_at: "2026-03-29T20:03:09.685Z"
+generated_at: "2026-03-29T20:31:54.616Z"
 ---
 
 # § 2484. Commissary stores: merchandise that may be sold; uniform surcharges and pricing
@@ -35,7 +35,7 @@ generated_at: "2026-03-29T20:03:09.685Z"
   - **(3)** The sales price of merchandise and services sold in, at, or by commissary stores shall be adjusted to cover the following:
     - **(A)** The cost of first destination commercial transportation of the merchandise in the United States to the place of sale.
     - **(B)** The actual or estimated cost of shrinkage, spoilage, and pilferage of merchandise under the control of commissary stores.
-- **(f)** The Secretary of Defense may use the exception provided in section 3204(a)(5) of this title for the procurement of any commercial product (including brand-name and generic items) for resale in, at, or by commissary stores.
+- **(f)** The Secretary of Defense may use the exception provided in section 2304(c)(5) of this title for the procurement of any commercial product (including brand-name and generic items) for resale in, at, or by commissary stores.
 - **(g)**
   - **(1)** Notwithstanding the general requirement that merchandise sold in, at, or by commissary stores be commissary store inventory, the Secretary of Defense may authorize the sale of tobacco products as noncommissary store inventory. Except as provided in paragraph (2), subsections (d) and (e) shall not apply to the pricing of such merchandise items.
   - **(2)** When tobacco products are authorized for sale in a commissary store as noncommissary store inventory, any revenue above the cost of procuring the tobacco products shall be allocated as if the revenue were a uniform sales price surcharge described in subsection (d).
@@ -58,11 +58,6 @@ generated_at: "2026-03-29T20:03:09.685Z"
     - **(C)** License fees.
     - **(D)** Royalties.
     - **(E)** Fees paid by sources of products in order to obtain favorable display of the products for resale, known as business related management fees.
-    - **(F)** Amounts made available for any purpose set forth in paragraph (1) pursuant to an agreement with a host nation.
-    - **(G)** Amounts appropriated for repair or reconstruction of a commissary store in response to a disaster or emergency.
-  - **(6)** Revenues made available under paragraph (5) for the purposes set forth in paragraphs (1), (2), and (3) may be supplemented with additional funds derived from—
-    - **(A)** improved management practices implemented pursuant to sections 2481(c)(3), 2485(b), and 2487(c) of this title; and
-    - **(B)** the variable pricing program implemented pursuant to subsection (i).
 - **(i)**
   - **(1)** Notwithstanding subsection (e), and subject to subsection (k), the Secretary of Defense may establish a variable pricing program pursuant to which prices may be established in response to market conditions and customer demand, in accordance with the requirements of this subsection. Notwithstanding the amount of the uniform surcharge assessed in subsection (d), the Secretary may provide for an alternative surcharge of not more than five percent of sales proceeds under the variable pricing program to be made available for the purposes specified in subsection (h).
   - **(2)** Subject to subsection (k), before establishing a variable pricing program under this subsection, the Secretary shall establish the following:
@@ -84,6 +79,3 @@ generated_at: "2026-03-29T20:03:09.685Z"
     - **(A)** Establishing the representative market basket of goods pursuant to subsection (i)(2)(B).
     - **(B)** Establishing the variable pricing program under subsection (i)(1).
     - **(C)** Converting the defense commissary system to a nonappropriated fund entity or instrumentality under subsection (j)(1).
-- **(l)** The Secretary of Defense shall prohibit the sale at any commissary store of fresh or chilled garlic—
-  - **(1)** classified under subheading 0703.20.00 of the Harmonized Tariff Schedule of the United States; and
-  - **(2)** that originated from, or was processed in, the People’s Republic of China.

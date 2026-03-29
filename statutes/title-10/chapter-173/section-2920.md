@@ -3,9 +3,9 @@ title: "Section 2920 - Energy resilience and energy security measures on militar
 usc_title: 10
 usc_section: "2920"
 chapter: 173
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2920"
-generated_at: "2026-03-29T20:03:09.740Z"
+generated_at: "2026-03-29T20:31:54.661Z"
 ---
 
 # § 2920. Energy resilience and energy security measures on military installations
@@ -15,10 +15,6 @@ generated_at: "2026-03-29T20:03:09.740Z"
   - **(2)** The Secretary of Defense shall issue standards establishing levels of availability relative to specific critical missions, with such standards providing a range of not less than 99.9 percent availability per fiscal year and not more than 99.9999 percent availability per fiscal year, depending on the criticality of the mission.
   - **(3)** The Secretary may establish interim goals to take effect prior to fiscal year 2025 to ensure the requirements under this subsection are met.
   - **(4)** The Secretary of each military department and the head of each Defense Agency shall ensure that their organizations meet the requirements of this subsection.
-  - **(5)** The Secretary shall establish internal processes to support coordination with external regulatory and planning entities involved in grid reliability, transmission infrastructure, and long-term energy planning, in order to assess and mitigate risks to defense-critical installations, advance the energy security objectives of the Department, and comply with statutory mandates under this section.
-  - **(6)** Coordination under paragraph (5)—
-    - **(A)** shall include identification of mission-critical loads and infrastructure dependencies and load profiles at or near military installations; and
-    - **(B)** may include consultation with relevant Federal and non-Federal entities.
 - **(b)**
   - **(1)** The Secretary of Defense shall require the Secretary of each military department and the head of each Defense Agency to plan for the provision of energy resilience and energy security for installations.
   - **(2)** Planning under paragraph (1) shall—
@@ -42,7 +38,7 @@ generated_at: "2026-03-29T20:03:09.740Z"
     - **(B)** A black start exercise conducted under subparagraph (A) may exclude, if technically feasible, housing areas, commissaries, exchanges, and morale, welfare, and recreation facilities.
     - **(C)** The Secretary of Defense shall—
       - **(i)** provide uniform policy for the military departments and the Defense Agencies with respect to conducting black start exercises; and
-      - **(ii)** establish a schedule of black start exercises for the military departments and the Defense Agencies, with each military department and Defense Agency scheduled to conduct such an exercise on a number of installations each year sufficient to allow that military department or Defense Agency to meet the goals of this section, but in any event not fewer than five installations each year for each military department through fiscal year 2032.
+      - **(ii)** establish a schedule of black start exercises for the military departments and the Defense Agencies, with each military department and Defense Agency scheduled to conduct such an exercise on a number of installations each year sufficient to allow that military department or Defense Agency to meet the goals of this section, but in any event not fewer than five installations each year for each military department through fiscal year 2027.
     - **(D)**
       - **(i)** Except as provided in clause (ii), the Secretary of each military department shall, notwithstanding any other provision of law, conduct black start exercises in accordance with the schedule provided for in subparagraph (C)(ii), with any such exercise not to last longer than five days.
       - **(ii)** The Secretary of a military department may conduct more black start exercises than those identified in the schedule provided for in subparagraph (C)(ii).
@@ -50,7 +46,7 @@ generated_at: "2026-03-29T20:03:09.740Z"
   - **(1)** specify methods and processes to measure, manage, and verify compliance with subsection (a); and
   - **(2)** ensure that such contracts include requirements appropriate to ensure energy resilience and energy security, including requirements for metering to measure, manage, and verify energy consumption, availability, and reliability consistent with this section and the energy resilience metrics and standards under section 2911(b) of this title .
 - **(f)** This section does not apply to fuels used in aircraft, vessels, or motor vehicles.
-- **(g)** If by the end of fiscal year 2027, the Secretary determines that the Department will be unable to meet the requirements under subsection (a), not later than 90 days after the end of such fiscal year, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report detailing—
+- **(g)** If by the end of fiscal year 2029, the Secretary determines that the Department will be unable to meet the requirements under subsection (a), not later than 90 days after the end of such fiscal year, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report detailing—
   - **(1)** the projected shortfall;
   - **(2)** reasons for the projected shortfall;
   - **(3)** any statutory, technological, or monetary impediments to achieving such requirements;

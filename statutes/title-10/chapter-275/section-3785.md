@@ -3,15 +3,15 @@ title: "Section 3785 - Technical data: decision by contracting officer; claims; 
 usc_title: 10
 usc_section: "3785"
 chapter: 275
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 3785"
-generated_at: "2026-03-29T20:03:09.766Z"
+generated_at: "2026-03-29T20:31:54.680Z"
 ---
 
 # § 3785. Technical data: decision by contracting officer; claims; rights and liability upon final disposition
 
 - **(a)**
-  - **(1)** Upon failure by the contractor or subcontractor to submit any response under section 3782(c) of this title , the contracting officer shall issue a decision pertaining to the validity of the asserted restriction.
+  - **(1)** Upon failure 1 1 Amendment by section 1833( l )(2)(B) of Pub. L. 116–283 executed to reflect the probable intent of Congress. by the contractor or subcontractor to submit any response under section 3782(c) of this title , the contracting officer shall issue a decision pertaining to the validity of the asserted restriction.
   - **(2)** After review of any justification submitted in response to the notice provided pursuant to section 3782(c) of this title , the contracting officer shall, within 60 days of receipt of any justification submitted, issue a decision or notify the party asserting the restriction of the time within which a decision will be issued.
 - **(b)** If a claim pertaining to the validity of the asserted restriction is submitted in writing to a contracting officer by a contractor or subcontractor at any tier, such claim shall be considered a claim within the meaning of chapter 71 of title 41.
 - **(c)**

@@ -3,9 +3,9 @@ title: "Section 1900 - Interior Department programs"
 usc_title: 42
 usc_section: "1900"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 1900"
-generated_at: "2026-03-29T20:07:44.108Z"
+generated_at: "2026-03-29T20:34:53.451Z"
 ---
 
 # § 1900. Interior Department programs

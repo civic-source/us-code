@@ -3,9 +3,9 @@ title: "Section 619a - Eligibility for consideration for promotion: designation 
 usc_title: 10
 usc_section: "619a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 619a"
-generated_at: "2026-03-29T20:03:09.482Z"
+generated_at: "2026-03-29T20:31:54.429Z"
 ---
 
 # § 619a. Eligibility for consideration for promotion: designation as joint qualified officer required before promotion to general or flag grade; exceptions

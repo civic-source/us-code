@@ -3,9 +3,9 @@ title: "Section 2036 - Grants to support science, technology, engineering, and m
 usc_title: 10
 usc_section: "2036"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2036"
-generated_at: "2026-03-29T20:03:09.639Z"
+generated_at: "2026-03-29T20:31:54.551Z"
 ---
 
 # § 2036. Grants to support science, technology, engineering, and mathematics education
@@ -36,8 +36,7 @@ generated_at: "2026-03-29T20:03:09.639Z"
     - **(G)** artificial intelligence;
     - **(H)** machine learning;
     - **(I)** data science;
-    - **(J)** quantum information sciences;
-    - **(K)** cybersecurity;
-    - **(L)** robotics;
-    - **(M)** health sciences; and
-    - **(N)** other subjects determined by the Secretary of Defense to be related to science, technology, engineering, and mathematics.
+    - **(J)** cybersecurity;
+    - **(K)** robotics;
+    - **(L)** health sciences; and
+    - **(M)** other subjects determined by the Secretary of Defense to be related to science, technology, engineering, and mathematics.

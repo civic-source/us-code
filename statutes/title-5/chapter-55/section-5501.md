@@ -3,9 +3,9 @@ title: "Section 5501 - Disposition of money accruing from lapsed salaries or unu
 usc_title: 5
 usc_section: "5501"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "5 U.S.C. § 5501"
-generated_at: "2026-03-29T20:02:37.811Z"
+generated_at: "2026-03-29T20:31:26.773Z"
 ---
 
 # § 5501. Disposition of money accruing from lapsed salaries or unused appropriations for salaries

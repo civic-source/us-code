@@ -3,9 +3,9 @@ title: "Section 2514 - Career flexibility to enhance retention of members"
 usc_title: 14
 usc_section: "2514"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "14 U.S.C. § 2514"
-generated_at: "2026-03-29T20:03:17.305Z"
+generated_at: "2026-03-29T20:32:03.599Z"
 ---
 
 # § 2514. Career flexibility to enhance retention of members
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T20:03:17.305Z"
 - **(c)** Each member of the Coast Guard who participates in a program under this section shall enter into a written agreement with the Commandant under which that member shall agree as follows:
   - **(1)** To accept an appointment or enlist, as applicable, and serve in the Coast Guard Ready Reserve during the period of the inactivation of the member from active duty under the program.
   - **(2)** To undergo during the period of the inactivation of the member from active duty under the program such inactive service training as the Commandant shall require in order to ensure that the member retains proficiency, at a level determined by the Commandant to be sufficient, in the military skills, professional qualifications, and physical readiness of the member during the inactivation of the member from active duty.
-  - **(3)** Following completion of the period of the inactivation of the member from active duty under the program, to serve 30 days as a member of the Coast Guard on active duty for each month of the period of the inactivation of the member from active duty under the program.
+  - **(3)** Following completion of the period of the inactivation of the member from active duty under the program, to serve 2 months as a member of the Coast Guard on active duty for each month of the period of the inactivation of the member from active duty under the program.
 - **(d)** The Commandant shall prescribe regulations specifying the guidelines regarding the conditions of release that must be considered and addressed in the agreement required by subsection (c). At a minimum, the Commandant shall prescribe the procedures and standards to be used to instruct a member on the obligations to be assumed by the member under paragraph (2) of such subsection while the member is released from active duty.
 - **(e)** Under regulations prescribed by the Commandant, a member of the Coast Guard participating in a program under this section may, in the discretion of the Commandant, be required to terminate participation in the program and be ordered to active duty.
 - **(f)**
@@ -40,7 +40,7 @@ generated_at: "2026-03-29T20:03:17.305Z"
     - **(C)** A member who is ineligible for payment of a special or incentive pay or bonus otherwise covered by this paragraph by reason of subparagraph (B)(i)(II) shall be subject to the requirements for repayment of such pay or bonus in accordance with the terms of the applicable agreement of the member under chapter 5 of title 37.
     - **(D)** Any service required of a member under an agreement covered by this paragraph after the member returns to active duty as described in subparagraph (A) shall be in addition to any service required of the member under an agreement under subsection (c).
   - **(4)**
-    - **(A)** Subject to subparagraph (B), a member who participates in a program is entitled, while participating in the program, to the travel and transportation allowances authorized by section 474 1 1 See References in Text note below. of title 37 for—
+    - **(A)** Subject to subparagraph (B), a member who participates in a program is entitled, while participating in the program, to the travel and transportation allowances authorized by section 474 of title 37 for—
       - **(i)** travel performed from the residence of the member, at the time of release from active duty to participate in the program, to the location in the United States designated by the member as the member’s residence during the period of participation in the program; and
       - **(ii)** travel performed to the residence of the member upon return to active duty at the end of the participation of the member in the program.
     - **(B)** An allowance is payable under this paragraph only with respect to travel of a member to and from a single residence.
@@ -55,12 +55,5 @@ generated_at: "2026-03-29T20:03:17.305Z"
     - **(A)** begins on the date of the inactivation of the member from active duty under the program; and
     - **(B)** ends at such time after the return of the member to active duty under the program that the member is treatable as eligible for promotion by reason of time in grade and such other requirements as the Commandant shall prescribe in regulations for purposes of the program.
 - **(h)** A member participating in a program under this section shall, while participating in the program, be treated as a member of the Armed Forces on active duty for a period of more than 30 days for purposes of—
-  - **(1)** the entitlement of the member and of the dependents of the member to medical and dental care under the provisions of chapter 55 of title 10;
-  - **(2)** retirement or separation for physical disability under the provisions of chapter 61 of title 10 and chapters 21 and 23 of this title;
-  - **(3)** the entitlement of the member and of the survivors of the member to all death benefits under subchapter II of chapter 75 of title 10;
-  - **(4)** the provision of all travel and transportation allowances to family members of a deceased member to attend the repatriation, burial, or memorial ceremony of a deceased member as provided in section 453(f) of title 37 ;
-  - **(5)** the eligibility of the member for general benefits as provided in part II of title 38; and
-  - **(6)** in the case of a victim of an alleged sex-related offense (as such term is defined in section 1044e(h) of title 10 ) to the maximum extent practicable, maintaining access to—
-    - **(A)** Coast Guard behavioral health resources;
-    - **(B)** sexual assault prevention and response resources and programs of the Coast Guard; and
-    - **(C)** Coast Guard legal resources, including, to the extent practicable, special victims’ counsel.
+  - **(1)** the entitlement of the member and of the dependents of the member to medical and dental care under the provisions of chapter 55 of title 10; and
+  - **(2)** retirement or separation for physical disability under the provisions of chapter 61 of title 10 and chapters 21 and 23 of this title.

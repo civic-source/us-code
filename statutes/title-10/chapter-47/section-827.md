@@ -3,9 +3,9 @@ title: "Section 827 - Art. 27. Detail of trial counsel and defense counsel"
 usc_title: 10
 usc_section: "827"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 827"
-generated_at: "2026-03-29T20:03:09.504Z"
+generated_at: "2026-03-29T20:31:54.445Z"
 ---
 
 # § 827. Art. 27. Detail of trial counsel and defense counsel
@@ -14,12 +14,9 @@ generated_at: "2026-03-29T20:03:09.504Z"
   - **(1)** Trial counsel and defense counsel shall be detailed for each general and special court-martial. Assistant trial counsel and assistant and associate defense counsel may be detailed for each general and special court-martial. The Secretary concerned shall prescribe regulations providing for the manner in which counsel are detailed for such courts-martial and for the persons who are authorized to detail counsel for such courts-martial.
   - **(2)** No person who, with respect to a case, has served as a preliminary hearing officer, court member, military judge, military magistrate, or appellate judge, may later serve as trial counsel, assistant trial counsel, or, unless expressly requested by the accused, as defense counsel or assistant or associate defense counsel in the same case. No person who has acted for the prosecution may act later in the same case for the defense, nor may any person who has acted for the defense act later in the same case for the prosecution.
 - **(b)** Trial counsel, defense counsel, or assistant defense counsel detailed for a general court-martial—
-  - **(1)** must be a judge advocate who is qualified under section 806(a)(1) of this title (article 6(a)(1)); and
+  - **(1)** must be a judge advocate who is a graduate of an accredited law school or is a member of the bar of a Federal court or of the highest court of a State; or must be a member of the bar of a Federal court or of the highest court of a State; and
   - **(2)** must be certified as competent to perform such duties by the Judge Advocate General of the armed force of which he is a member.
 - **(c)**
   - **(1)** Defense counsel and assistant defense counsel detailed for a special court-martial shall have the qualifications set forth in subsection (b).
   - **(2)** Trial counsel and assistant trial counsel detailed for a special court-martial and assistant trial counsel detailed for a general court-martial must be determined to be competent to perform such duties by the Judge Advocate General, under such rules as the President may prescribe.
 - **(d)** To the greatest extent practicable, in any capital case, at least one defense counsel shall, as determined by the Judge Advocate General, be learned in the law applicable to such cases. If necessary, this counsel may be a civilian and, if so, may be compensated in accordance with regulations prescribed by the Secretary of Defense.
-- **(e)** For each general and special court-martial for which charges and specifications were referred by a special trial counsel—
-  - **(1)** a special trial counsel shall be detailed as trial counsel; and
-  - **(2)** a special trial counsel may detail other trial counsel as necessary who are judge advocates.

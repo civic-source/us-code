@@ -3,9 +3,9 @@ title: "Section 9009b - Targeted EIDL advance for small business continuity, ada
 usc_title: 15
 usc_section: "9009b"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 9009b"
-generated_at: "2026-03-29T20:03:27.710Z"
+generated_at: "2026-03-29T20:32:10.112Z"
 ---
 
 # § 9009b. Targeted EIDL advance for small business continuity, adaptation, and resiliency
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T20:03:27.710Z"
   - **(1)** The term “agricultural enterprise” has the meaning given the term in section 647(b) of this title .
   - **(2)** The term “covered entity”—
     - **(A)** means an eligible entity that—
-      - **(i)** applies for a loan under section 636(b)(2) of this title during the covered period, including before December 27, 2020 ;
+      - **(i)** applies for a loan under section 636(b)(2)of this title during the covered period, including before December 27, 2020 ;
       - **(ii)** is located in a low-income community;
       - **(iii)** has suffered an economic loss of greater than 30 percent; and
       - **(iv)** employs not more than 300 employees; and
@@ -51,4 +51,3 @@ generated_at: "2026-03-29T20:03:27.710Z"
 - **(h)** There are authorized to be appropriated to the Administrator $20,000,000,000 to carry out this section—
   - **(1)** which shall remain available through December 31, 2021 ; and
   - **(2)** of which $20,000,000 is authorized to be appropriated to the Inspector General of the Administration to prevent waste, fraud, and abuse with respect to funding provided under this section.
-- **(i)** Notwithstanding any other provision of law, any criminal charge or civil enforcement action alleging that a borrower engaged in fraud with respect to the use of any amount received pursuant to this section shall be filed not later than 10 years after the offense was committed.

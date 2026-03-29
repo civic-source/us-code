@@ -3,14 +3,16 @@ title: "Section 2851a - Supervision of military housing by Chief Housing Officer
 usc_title: 10
 usc_section: "2851a"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2851a"
-generated_at: "2026-03-29T20:03:09.728Z"
+generated_at: "2026-03-29T20:31:54.653Z"
 ---
 
 # § 2851a. Supervision of military housing by Chief Housing Officer
 
-- **(a)** The Assistant Secretary of Defense for Energy, Installations, and Environment shall serve as the Chief Housing Officer, who shall oversee family housing and military unaccompanied housing under the jurisdiction of the Department of Defense or acquired or constructed under subchapter IV of this chapter (in this section referred to as “covered housing units”).
+- **(a)**
+  - **(1)** The Secretary of Defense shall designate, from among officials of the Department of Defense who are appointed by the President with the advice and consent of the Senate, a Chief Housing Officer who shall oversee family housing and military unaccompanied housing under the jurisdiction of the Department of Defense or acquired or constructed under subchapter IV of this chapter (in this section referred to as “covered housing units”).
+  - **(2)** The official of the Department of Defense designated as Chief Housing Officer may be assigned duties in addition to the duties as Chief Housing Officer under subsection (b).
 - **(b)**
   - **(1)** The Chief Housing Officer shall oversee all aspects of the provision of covered housing units, including the following:
     - **(A)** Creation and standardization of policies and processes regarding covered housing units.

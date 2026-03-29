@@ -3,9 +3,9 @@ title: "Section 3319 - Authority to transfer unused education benefits to family
 usc_title: 38
 usc_section: "3319"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "38 U.S.C. § 3319"
-generated_at: "2026-03-29T20:05:54.708Z"
+generated_at: "2026-03-29T20:34:04.939Z"
 ---
 
 # § 3319. Authority to transfer unused education benefits to family members
@@ -21,8 +21,9 @@ generated_at: "2026-03-29T20:05:54.708Z"
   - **(2)** For purposes of this subsection, the term “eligible dependent” has the meaning given the term “dependent” under subparagraphs (A), (I), and (D) of section 1072(2) of title 10 .
 - **(d)** The total number of months of entitlement transferred by a individual under this section may not exceed 36 months. The Secretary of Defense may prescribe regulations that would limit the months of entitlement that may be transferred under this section to no less than 18 months.
 - **(e)** An individual transferring an entitlement to educational assistance under this section shall—
-  - **(1)** designate the dependent or dependents to whom such entitlement is being transferred; and
-  - **(2)** designate the number of months of such entitlement to be transferred to each such dependent.
+  - **(1)** designate the dependent or dependents to whom such entitlement is being transferred;
+  - **(2)** designate the number of months of such entitlement to be transferred to each such dependent; and
+  - **(3)** specify the period for which the transfer shall be effective for each dependent designated under paragraph (1).
 - **(f)**
   - **(1)** Subject to the time limitation for use of entitlement under section 3321, and except as provided in subsection (k) or ( l ), an individual approved to transfer entitlement to educational assistance under this section may transfer such entitlement only while serving as a member of the Armed Forces when the transfer is executed.
   - **(2)**
@@ -48,13 +49,9 @@ generated_at: "2026-03-29T20:05:54.708Z"
   - **(3)** The monthly rate of educational assistance payable to a dependent to whom entitlement referred to in paragraph (2) is transferred under this section shall be payable—
     - **(A)** in the case of a spouse, at the same rate as such entitlement would otherwise be payable under this chapter to the individual making the transfer; or
     - **(B)** in the case of a child, at the same rate as such entitlement would otherwise be payable under this chapter to the individual making the transfer as if the individual were not on active duty.
-  - **(4)**
-    - **(A)** The death of an individual transferring an entitlement under this section shall not affect the use of the entitlement by the dependent to whom the entitlement is transferred.
-    - **(B)**
-      - **(i)** In the case of an eligible individual whom the Secretary has approved to transfer the individual’s entitlement under this section who, at the time of death, is entitled to educational assistance under this chapter and has designated a transferee or transferees under subsection (e) but has not transferred all of such entitlement to such transferee or transferees, the Secretary shall transfer the entitlement of the individual under this section by evenly distributing the amount of such entitlement between all such transferees who would not be precluded from using some or all of the transferred benefits due to the expiration of time limitations found in paragraph (5) of this subsection or section 3321 of this title , notwithstanding the limitations under subsection (f).
-      - **(ii)** If a transferee cannot use all of the transferred benefits under clause (i) because of expiration of a time limitation, the unused benefits will be distributed among the other designated transferees who would not be precluded from using some or all of the transferred benefits due to expiration of time limitations found in paragraph (5) of this subsection or section 3321 of this title , unless or until there are no transferees who would not be precluded from using the transferred benefits because of expiration of a time limitation.
+  - **(4)** The death of an individual transferring an entitlement under this section shall not affect the use of the entitlement by the dependent to whom the entitlement is transferred.
   - **(5)**
-    - **(A)** A child to whom entitlement is transferred under this section may use the benefits transferred without regard to the 15-year delimiting date specified in section 3321, but may not, except as provided in subparagraph (B) or (C), use any benefits so transferred after attaining the age of 26 years.
+    - **(A)** A child to whom entitlement is transferred under this section may use the benefits transferred without regard to the 15-year delimiting date specified in section 3321, but may not, except as provided in subparagraph (B), 1 1 See Extension of Time Limitations for Use of Entitlement: Transfer Period note below. use any benefits so transferred after attaining the age of 26 years.
     - **(B)**
       - **(i)** Subject to clause (ii), in the case of a child who, before attaining the age of 26 years, is prevented from pursuing a chosen program of education by reason of acting as the primary provider of personal care services for a veteran or member of the Armed Forces under section 1720G(a), the child may use the benefits beginning on the date specified in clause (iii) for a period whose length is specified in clause (iv).
       - **(ii)** Clause (i) shall not apply with respect to the period of an individual as a primary provider of personal care services if the period concludes with the revocation of the individual’s designation as such a primary provider under section 1720G(a)(7)(D).
@@ -65,16 +62,15 @@ generated_at: "2026-03-29T20:05:54.708Z"
       - **(iv)** The length of the period specified in this clause for the use of benefits by a child under clause (i) is the length equal to the length of the period that—
         - **(I)** begins on the date on which the child begins acting as the primary provider of personal care services for the veteran or member concerned as described in clause (i); and
         - **(II)** ends on the later of—
-    - **(C)** In any case in which the Secretary determines that an individual to whom entitlement is transferred under this section has been prevented from pursuing the individual’s chosen program of education before the individual attains the age of 26 years because the educational institution or training establishment closed (temporarily or permanently) under an established policy based on an Executive order of the President or due to an emergency situation, the Secretary shall extend the period during which the individual may use such entitlement for a period equal to the number of months that the individual was so prevented from pursuing the program of education, as determined by the Secretary.
   - **(6)** The purposes for which a dependent to whom entitlement is transferred under this section may use such entitlement shall include the pursuit and completion of the requirements of a secondary school diploma (or equivalency certificate).
   - **(7)** The administrative provisions of this chapter shall apply to the use of entitlement transferred under this section, except that the dependent to whom the entitlement is transferred shall be treated as the eligible individual for purposes of such provisions.
 - **(i)**
-  - **(1)** Subject to paragraph (2), in the event of an overpayment of educational assistance with respect to a dependent to whom entitlement is transferred under this section, the dependent and the individual making the transfer shall be jointly and severally liable to the United States for the amount of the overpayment for purposes of section 3685 of this title .
+  - **(1)** In the event of an overpayment of educational assistance with respect to a dependent to whom entitlement is transferred under this section, the dependent and the individual making the transfer shall be jointly and severally liable to the United States for the amount of the overpayment for purposes of section 3685.
   - **(2)**
-    - **(A)** Except as provided in subparagraph (B), if an individual transferring entitlement under this section fails to complete the service agreed to by the individual under subsection (b)(1) in accordance with the terms of the agreement of the individual under that subsection, the amount of any transferred entitlement under this section that is used by a dependent of the individual as of the date of such failure shall be treated as an overpayment of educational assistance for which the individual shall be solely liable to the United States for the amount of the overpayment for purposes of section 3685 of this title .
-    - **(B)** Neither the individual nor the dependent shall be liable to the United States for the amount of the overpayment for purposes of section 3685 of this title in the case of an individual who fails to complete service agreed to by the individual—
+    - **(A)** Except as provided in subparagraph (B), if an individual transferring entitlement under this section fails to complete the service agreed to by the individual under subsection (b)(1) in accordance with the terms of the agreement of the individual under that subsection, the amount of any transferred entitlement under this section that is used by a dependent of the individual as of the date of such failure shall be treated as an overpayment of educational assistance under paragraph (1).
+    - **(B)** Subparagraph (A) shall not apply in the case of an individual who fails to complete service agreed to by the individual—
       - **(i)** by reason of the death of the individual; or
-      - **(ii)** for a reason referred to in section 3311(c)(4) of this title .
+      - **(ii)** for a reason referred to in section 3311(c)(4).
 - **(j)**
   - **(1)** The Secretary of Defense, in coordination with the Secretary of Veterans Affairs, shall prescribe regulations for purposes of this section.
   - **(2)** Such regulations shall specify—

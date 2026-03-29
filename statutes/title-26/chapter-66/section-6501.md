@@ -3,9 +3,9 @@ title: "Section 6501 - Limitations on assessment and collection"
 usc_title: 26
 usc_section: "6501"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 6501"
-generated_at: "2026-03-29T20:05:22.713Z"
+generated_at: "2026-03-29T20:33:27.337Z"
 ---
 
 # § 6501. Limitations on assessment and collection
@@ -74,14 +74,5 @@ generated_at: "2026-03-29T20:05:22.713Z"
   - **(1)** For purposes of any tax imposed by section 4912, by chapter 42 (other than section 4940), or by section 4975, the return referred to in this section shall be the return filed by the private foundation, plan, trust, or other organization (as the case may be) for the year in which the act (or failure to act) giving rise to liability for such tax occurred. For purposes of section 4940, such return is the return filed by the private foundation for the taxable year for which the tax is imposed.
   - **(2)** In the case of a deficiency of tax of a private foundation making a contribution in the manner provided in section 4942(g)(3) (relating to certain contributions to section 501(c)(3) organizations) attributable to the failure of a section 501(c)(3) organization to make the distribution prescribed by section 4942(g)(3), such deficiency may be assessed at any time before the expiration of one year after the expiration of the period within which a deficiency may be assessed for the taxable year with respect to which the contribution was made.
   - **(3)** In the case of a deficiency attributable to the failure of an amount set aside by a private foundation for a specific project to be treated as a qualifying distribution under the provisions of section 4942(g)(2)(B)(ii), such deficiency may be assessed at any time before the expiration of 2 years after the expiration of the period within which a deficiency may be assessed for the taxable year to which the amount set aside relates.
-  - **(4)**
-    - **(A)** For purposes of any tax imposed by section 4973 or 4974 in connection with an individual retirement plan, the return referred to in this section shall include the income tax return filed by the person on whom the tax under such section is imposed for the year in which the act (or failure to act) giving rise to the liability for such tax occurred.
-    - **(B)** In the case of a person who is not required to file an income tax return for such year—
-      - **(i)** the return referred to in this section shall be the income tax return that such person would have been required to file but for the fact that such person was not required to file such return, and
-      - **(ii)** the 3-year period referred to in subsection (a) with respect to the return shall be deemed to begin on the date by which the return would have been required to be filed (excluding any extension thereof).
-    - **(C)** In any case in which the return with respect to a tax imposed by section 4973 is the individual’s income tax return for purposes of this section, subsection (a) shall be applied by substituting a 6-year period in lieu of the 3-year period otherwise referred to in such subsection.
-    - **(D)** In the case of any tax imposed by section 4973 that is attributable to acquiring property for less than fair market value, subparagraph (A) shall not apply.
-- **(m)** The period for assessing a deficiency attributable to any election under section 30B(h)(9), 30C(e)(4), 30D(f)(6), 35(g)(11), 40(f), 43, 45B, 45C(d)(4), 45H(g), or 51(j) (or any revocation thereof) shall not expire before the date 1 year after the date on which the Secretary is notified of such election (or revocation).
-- **(n)** In the case of any assessable payment under section 4980H, the period for assessment shall expire at the end of the 6-year period beginning on the due date for filing the return under section 6056 (or, if later, the date such return was filed) for the calendar year with respect to which such payment is determined.
-- **(o)** In the case of a deficiency attributable to an error with respect to the determination under section 7701(a)(52) for any taxable year, such deficiency may be assessed at any time within 6 years after the return for such year was filed.
-- **(p)** For period of limitations for assessment and collection in the case of a joint income return filed after separate returns have been filed, see section 6013(b)(3) and (4).
+- **(m)** The period for assessing a deficiency attributable to any election under section 30B(h)(9), 30C(e)(4), 30D(e)(4), 35(g)(11), 40(f), 43, 45B, 45C(d)(4), 45H(g), or 51(j) (or any revocation thereof) shall not expire before the date 1 year after the date on which the Secretary is notified of such election (or revocation).
+- **(n)** For period of limitations for assessment and collection in the case of a joint income return filed after separate returns have been filed, see section 6013(b)(3) and (4).

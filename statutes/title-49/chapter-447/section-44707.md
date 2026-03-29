@@ -3,9 +3,9 @@ title: "Section 44707 - Examining and rating air agencies"
 usc_title: 49
 usc_section: "44707"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 44707"
-generated_at: "2026-03-29T20:07:58.602Z"
+generated_at: "2026-03-29T20:35:10.921Z"
 ---
 
 # § 44707. Examining and rating air agencies

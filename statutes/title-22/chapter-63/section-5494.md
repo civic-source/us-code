@@ -3,9 +3,9 @@ title: "Section 5494 - Relation of provisions of this chapter to certain provisi
 usc_title: 22
 usc_section: "5494"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 5494"
-generated_at: "2026-03-29T20:04:46.913Z"
+generated_at: "2026-03-29T20:33:00.095Z"
 ---
 
 # § 5494. Relation of provisions of this chapter to certain provisions of appropriations acts

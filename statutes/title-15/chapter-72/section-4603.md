@@ -3,9 +3,9 @@ title: "Section 4603 - Semiconductor Technology Council"
 usc_title: 15
 usc_section: "4603"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 4603"
-generated_at: "2026-03-29T20:03:27.598Z"
+generated_at: "2026-03-29T20:32:10.026Z"
 ---
 
 # § 4603. Semiconductor Technology Council
@@ -45,5 +45,5 @@ generated_at: "2026-03-29T20:03:27.598Z"
 - **(h)**
   - **(1)** Each member of the Council shall serve without compensation.
   - **(2)** While away from their homes or regular places of business in the performance of duties for the Council, members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under sections 5702 and 5703 of title 5.
-- **(i)** Section 1013 of title 5 shall not apply to the Council.
+- **(i)** Section 14 of the Federal Advisory Committee Act shall not apply to the Council.
 - **(j)** The Council shall use Federal funds made available to Sematech as needed for general and administrative support in accomplishing the Council’s purposes.

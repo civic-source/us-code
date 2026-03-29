@@ -3,9 +3,9 @@ title: "Section 510 - Enlistment incentives for pursuit of skills to facilitate 
 usc_title: 10
 usc_section: "510"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 510"
-generated_at: "2026-03-29T20:03:09.472Z"
+generated_at: "2026-03-29T20:31:54.419Z"
 ---
 
 # § 510. Enlistment incentives for pursuit of skills to facilitate national service
@@ -14,14 +14,13 @@ generated_at: "2026-03-29T20:03:09.472Z"
 - **(b)** In this section, the term “National Call to Service participant” means a person who has not previously served in the armed forces who enters into an original enlistment pursuant to a written agreement with the Secretary of a military department (in such form and manner as may be prescribed by that Secretary) under which the person agrees to perform a period of national service as specified in subsection (c).
 - **(c)** The total period of national service to which a National Call to Service participant is obligated under the agreement under this section shall be specified in the agreement. Under the agreement, the participant shall—
   - **(1)** upon completion of initial entry training (as prescribed by the Secretary of Defense), serve on active duty in a military occupational specialty designated by the Secretary of Defense under subsection (d) for a period of 15 months;
-  - **(2)** upon completion of the period of active duty specified in paragraph (1) and without a break in service, serve either (A) an additional period of active duty as determined by the Secretary of Defense, or (B) a period of 24 months in an active status in the Selected Reserve or the Space Force; and
+  - **(2)** upon completion of the period of active duty specified in paragraph (1) and without a break in service, serve either (A) an additional period of active duty as determined by the Secretary of Defense, or (B) a period of 24 months in an active status in the Selected Reserve; and
   - **(3)** upon completion of the period of service specified in paragraph (2), and without a break in service, serve the remaining period of obligated service specified in the agreement—
     - **(A)** on active duty in the armed forces;
     - **(B)** in the Selected Reserve;
     - **(C)** in the Individual Ready Reserve;
-    - **(D)** in the Space Force;
-    - **(E)** in Americorps or another domestic national service program jointly designated by the Secretary of Defense and the head of such program for purposes of this section; or
-    - **(F)** in any combination of service referred to in subparagraphs (A) through (E) that is approved by the Secretary of the military department concerned pursuant to regulations prescribed by the Secretary of Defense and specified in the agreement.
+    - **(D)** in Americorps or another domestic national service program jointly designated by the Secretary of Defense and the head of such program for purposes of this section; or
+    - **(E)** in any combination of service referred to in subparagraphs (A) through (D) that is approved by the Secretary of the military department concerned pursuant to regulations prescribed by the Secretary of Defense and specified in the agreement.
 - **(d)** The Secretary of Defense shall designate military occupational specialties for purposes of subsection (c)(1). Such military occupational specialties shall be military occupational specialties that, as determined by the Secretary, will facilitate pursuit of national service by National Call to Service participants and shall include military occupational specialties for enlistments for officer training and subsequent service as an officer, in cases in which the reason for the enlistment and entry into an agreement under subsection (b) is to enter an officer training program.
 - **(e)** The incentives specified in this subsection are as follows:
   - **(1)** Payment of a bonus in the amount of $5,000.
@@ -41,7 +40,7 @@ generated_at: "2026-03-29T20:03:09.472Z"
     - **(B)** If a National Call to Service participant meets all eligibility requirements specified in chapter 1606 of this title or chapter 30 of title 38 for entitlement to allowances for educational assistance under either such chapter, the participant may become eligible for allowances for educational assistance benefits under either such chapter up to the maximum allowance provided less the total amount of allowance paid under paragraph (3) or (4) of subsection (e).
   - **(2)**
     - **(A)** Educational assistance under paragraphs (3) or (4) of subsection (e) shall be provided through the Department of Veterans Affairs under an agreement to be entered into by the Secretary of Defense and the Secretary of Veterans Affairs. The agreements shall include administrative procedures to ensure the prompt and timely transfer of funds from the Secretary concerned to the Secretary of Veterans Affairs for the making of payments under this section.
-    - **(B)** Except as otherwise provided in this section, the provisions of sections 503, 511, 3470, 3471, 3474, 3476, 3482(g), 3483, and 3485 of title 38 and the provisions of subchapters II and III of chapter 36 of such title (with the exception of sections 3686(a), 3687, and 3692) shall be applicable to the provision of educational assistance under this chapter. The term “eligible veteran” and the term “person”, as used in those provisions, shall be deemed for the purpose of the application of those provisions to this section to refer to a person eligible for educational assistance under paragraph (3) or (4) of subsection (e).
+    - **(B)** Except as otherwise provided in this section, the provisions of sections 503, 511, 3470, 3471, 3474, 3476, 3482(g), 3483, and 3485 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 3686(a), 3687, and 3692) shall be applicable to the provision of educational assistance under this chapter. The term “eligible veteran” and the term “person”, as used in those provisions, shall be deemed for the purpose of the application of those provisions to this section to refer to a person eligible for educational assistance under paragraph (3) or (4) of subsection (e).
   - **(3)**
     - **(A)** Except as provided in paragraph (1), nothing in this section shall prohibit a National Call to Service participant who satisfies through service under subsection (c) the eligibility requirements for educational assistance under chapter 1606 of this title or basic educational assistance under chapter 30 of title 38 from an entitlement to such educational assistance under chapter 1606 of this title or basic educational assistance under chapter 30 of title 38, as the case may be.
     - **(B)**

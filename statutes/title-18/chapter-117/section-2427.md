@@ -3,12 +3,12 @@ title: "Section 2427 - Inclusion of offenses relating to child pornography in de
 usc_title: 18
 usc_section: "2427"
 chapter: 117
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "18 U.S.C. § 2427"
-generated_at: "2026-03-29T20:03:53.790Z"
+generated_at: "2026-03-29T20:32:21.414Z"
 ---
 
 # § 2427. Inclusion of offenses relating to child pornography in definition of sexual activity for which any person can be charged with a criminal offense
 
-In this chapter, the term “sexual activity for which any person can be charged with a criminal offense” does not require interpersonal physical contact, and includes the production of child pornography, as defined in section 2256(8).
+In this chapter, the term “sexual activity for which any person can be charged with a criminal offense” includes the production of child pornography, as defined in section 2256(8).
 

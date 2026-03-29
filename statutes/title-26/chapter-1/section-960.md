@@ -3,9 +3,9 @@ title: "Section 960 - Deemed paid credit for subpart F inclusions"
 usc_title: 26
 usc_section: "960"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 960"
-generated_at: "2026-03-29T20:05:22.469Z"
+generated_at: "2026-03-29T20:33:27.091Z"
 ---
 
 # § 960. Deemed paid credit for subpart F inclusions
@@ -35,13 +35,12 @@ generated_at: "2026-03-29T20:05:22.469Z"
     - **(B)** does not choose to have the benefits of subpart A of this part for the taxable year in which he receives a distribution or amount which is excluded from gross income under section 959(a) and which is attributable to earnings and profits of the controlled foreign corporation which was included in his gross income for the taxable year referred to in subparagraph (A),
   - **(5)** If an increase in the limitation under this subsection exceeds the tax imposed by this chapter for such year, the amount of such excess shall be deemed an overpayment of tax for such year.
 - **(d)**
-  - **(1)** For purposes of subpart A of this part, if any amount is includible in the gross income of a domestic corporation under section 951A, such domestic corporation shall be deemed to have paid foreign income taxes equal to 90 percent of the product of—
+  - **(1)** For purposes of subpart A of this part, if any amount is includible in the gross income of a domestic corporation under section 951A, such domestic corporation shall be deemed to have paid foreign income taxes equal to 80 percent of the product of—
     - **(A)** such domestic corporation’s inclusion percentage, multiplied by
     - **(B)** the aggregate tested foreign income taxes paid or accrued by controlled foreign corporations.
   - **(2)** For purposes of paragraph (1), the term “inclusion percentage” means, with respect to any domestic corporation, the ratio (expressed as a percentage) of—
-    - **(A)** such corporation’s net CFC tested income (as defined in section 951A(b)), divided by
-    - **(B)** the aggregate amount described in section 951A(b)(1)(A) with respect to such corporation.
+    - **(A)** such corporation’s global intangible low-taxed income (as defined in section 951A(b)), divided by
+    - **(B)** the aggregate amount described in section 951A(c)(1)(A) with respect to such corporation.
   - **(3)** For purposes of paragraph (1), the term “tested foreign income taxes” means, with respect to any domestic corporation which is a United States shareholder of a controlled foreign corporation, the foreign income taxes paid or accrued by such foreign corporation which are properly attributable to the tested income of such foreign corporation taken into account by such domestic corporation under section 951A.
-  - **(4)** No credit shall be allowed under section 901 for 10 percent of any foreign income taxes paid or accrued (or deemed paid under subsection (b)(1)) with respect to any amount excluded from gross income under section 959(a) by reason of an inclusion in gross income under section 951A(a).
 - **(e)** The term “foreign income taxes” means any income, war profits, or excess profits taxes paid or accrued to any foreign country or possession of the United States.
 - **(f)** The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the provisions of this section.

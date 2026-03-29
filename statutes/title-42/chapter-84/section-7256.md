@@ -3,9 +3,9 @@ title: "Section 7256 - Contracts, leases, etc., with public agencies and private
 usc_title: 42
 usc_section: "7256"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 7256"
-generated_at: "2026-03-29T20:07:44.481Z"
+generated_at: "2026-03-29T20:34:53.794Z"
 ---
 
 # § 7256. Contracts, leases, etc., with public agencies and private organizations and persons
@@ -24,8 +24,8 @@ generated_at: "2026-03-29T20:07:44.481Z"
   - **(2)** Before entering into a lease under subsection (c), the Secretary shall obtain the concurrence of the Administrator of the Environmental Protection Agency or the appropriate State official, as the case may be, in the determination required under paragraph (1). The Secretary may enter into a lease under subsection (c) without obtaining such concurrence if, within 60 days after the Secretary requests the concurrence, the Administrator or appropriate State official, as the case may be, fails to submit to the Secretary a notice of such individual’s concurrence with, or rejection of, the determination.
 - **(f)** To the extent provided in advance in appropriations Acts, the Secretary may retain and use money rentals received by the Secretary directly from a lease entered into under subsection (c) in any amount the Secretary considers necessary to cover the administrative expenses of the lease, the maintenance and repair of the leased property, or environmental restoration activities at the facility where the leased property is located. Amounts retained under this subsection shall be retained in a separate fund established in the Treasury for such purpose. The Secretary shall annually submit to the Congress a report on amounts retained and amounts used under this subsection.
 - **(g)**
-  - **(1)** In addition to authority granted to the Secretary under any other provision of law, the Secretary may exercise the same authority to enter into transactions (other than contracts, cooperative agreements, and grants), subject to the same terms and conditions as the Secretary of Defense under section 2371 1 1 See References in Text note below. of title 10 (other than subsections (b) and (f) of that section).
-  - **(2)** In applying section 2371 1 of title 10 to the Secretary under paragraph (1)—
+  - **(1)** In addition to authority granted to the Secretary under any other provision of law, the Secretary may exercise the same authority to enter into transactions (other than contracts, cooperative agreements, and grants), subject to the same terms and conditions as the Secretary of Defense under section 2371 of title 10 (other than subsections (b) and (f) of that section).
+  - **(2)** In applying section 2371 of title 10 to the Secretary under paragraph (1)—
     - **(A)** the term “basic” shall be replaced by the term “research”;
     - **(B)** the term “applied” shall be replaced by the term “development”; and
     - **(C)** the terms “advanced research projects” and “advanced research” shall be replaced by the term “demonstration projects”.
@@ -35,16 +35,12 @@ generated_at: "2026-03-29T20:07:44.481Z"
   - **(4)**
     - **(A)** The Secretary shall use such competitive, merit-based selection procedures in entering into transactions under paragraph (1), as the Secretary determines in writing to be practicable.
     - **(B)** A transaction under paragraph (1) shall relate to a research, development, or demonstration project only if the Secretary determines in writing that the use of a standard contract, grant, or cooperative agreement for the project is not feasible or appropriate.
-  - **(5)**
-    - **(A)** The Secretary may protect from disclosure any information developed pursuant to a transaction under paragraph (1) that would be protected from disclosure under section 552(b)(4) of title 5 , if obtained from a person other than a Federal agency—
-      - **(i)** for up to 5 years after the date on which the information is developed; or
-      - **(ii)** for up to 30 years after the date on which the information is developed, if the Secretary determines that the nature of the technology under the transaction, including nuclear technology, could reasonably require an extended period of protection from disclosure to reach commercialization.
-    - **(B)** The Secretary may extend the period of protection from disclosure during the term of any transaction described in subparagraph (A) in accordance with that subparagraph.
+  - **(5)** The Secretary may protect from disclosure, for up to 5 years after the date on which the information is developed, any information developed pursuant to a transaction under paragraph (1) that would be protected from disclosure under section 552(b)(4) of title 5 , if obtained from a person other than a Federal agency.
   - **(6)**
     - **(A)** Not later than 90 days after August 8, 2005 , the Secretary shall issue guidelines for transactions under paragraph (1).
     - **(B)** The guidelines shall be published in the Federal Register for public comment in accordance with rulemaking procedures of the Department.
     - **(C)** The Secretary shall not have authority to carry out transactions under paragraph (1) until the guidelines for transactions required under subparagraph (A) are final.
-  - **(7)** The annual report of the head of an executive agency under section 2371(h) 1 of title 10 shall be submitted to Congress.
+  - **(7)** The annual report of the head of an executive agency under section 2371(h) 1 1 See References in Text note below. of title 10 shall be submitted to Congress.
   - **(8)**
     - **(A)** In this paragraph, the term “nontraditional Government contractor” has the meaning given the term “nontraditional defense contractor” in section 845(f) 1 of the National Defense Authorization Act for Fiscal Year 1994 ( Public Law 103–160 ; 10 U.S.C. 2371 note).
     - **(B)** Not later than 1 year after the date on which the final guidelines are published under paragraph (6), the Comptroller General of the United States shall submit to Congress a report describing—

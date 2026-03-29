@@ -3,9 +3,9 @@ title: "Section 13218 - Reports"
 usc_title: 42
 usc_section: "13218"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 13218"
-generated_at: "2026-03-29T20:07:44.802Z"
+generated_at: "2026-03-29T20:34:54.155Z"
 ---
 
 # § 13218. Reports

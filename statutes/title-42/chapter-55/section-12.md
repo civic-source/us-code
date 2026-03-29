@@ -1,12 +1,14 @@
 ---
-title: "Section 12 - Repealed. Pub. L. 117–58, div. G, title VIII, § 70801(h) , Nov. 15, 2021 , 135 Stat. 1294"
+title: "Section 12 - Sunset"
 usc_title: 42
 usc_section: "12"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 12"
-generated_at: "2026-03-29T20:07:44.299Z"
+generated_at: "2026-03-29T20:34:53.619Z"
 ---
 
-# § 4370m–12. Repealed. Pub. L. 117–58, div. G, title VIII, § 70801(h) , Nov. 15, 2021 , 135 Stat. 1294
+# § 4370m–12. Sunset
+
+This subchapter shall terminate 7 years after December 4, 2015 .
 

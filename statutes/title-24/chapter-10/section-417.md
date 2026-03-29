@@ -3,9 +3,9 @@ title: "Section 417 - Administrators, Ombudsmen, and staff of facilities"
 usc_title: 24
 usc_section: "417"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "24 U.S.C. § 417"
-generated_at: "2026-03-29T20:04:36.936Z"
+generated_at: "2026-03-29T20:32:50.376Z"
 ---
 
 # § 417. Administrators, Ombudsmen, and staff of facilities

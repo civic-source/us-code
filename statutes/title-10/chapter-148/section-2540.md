@@ -1,12 +1,21 @@
 ---
-title: "Section 2540 - Renumbered § 4971]"
+title: "Section 2540 - Establishment of loan guarantee program"
 usc_title: 10
 usc_section: "2540"
 chapter: 148
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2540"
-generated_at: "2026-03-29T20:03:09.689Z"
+generated_at: "2026-03-29T20:31:54.624Z"
 ---
 
-# [§ 2540. Renumbered § 4971]
+# § 2540. Establishment of loan guarantee program
 
+- **(a)** In order to meet the national security objectives in section 2501(a) of this title , the Secretary of Defense shall establish a program under which the Secretary may issue guarantees assuring a lender against losses of principal or interest, or both principal and interest, arising out of the financing of the sale or long-term lease of defense articles, defense services, or design and construction services to a country referred to in subsection (b).
+- **(b)** The authority under subsection (a) applies with respect to the following countries:
+  - **(1)** A member nation of the North Atlantic Treaty Organization (NATO).
+  - **(2)** A country designated as of March 31, 1995 , as a major non-NATO ally pursuant to section 2350a(i)(3) of this title , as in effect on that date.
+  - **(3)** A country in Central Europe that, as determined by the Secretary of State—
+    - **(A)** has changed its form of national government from a nondemocratic form of government to a democratic form of government since October 1, 1989 ; or
+    - **(B)** is in the process of changing its form of national government from a nondemocratic form of government to a democratic form of government.
+  - **(4)** A noncommunist country that was a member nation of the Asia Pacific Economic Cooperation (APEC) as of October 31, 1993 .
+- **(c)** The Secretary may guarantee a loan under this subchapter only to such extent or in such amounts as may be provided in advance in appropriations Acts.

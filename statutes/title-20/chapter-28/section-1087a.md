@@ -3,9 +3,9 @@ title: "Section 1087a - Program authority"
 usc_title: 20
 usc_section: "1087a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "20 U.S.C. § 1087a"
-generated_at: "2026-03-29T20:04:32.862Z"
+generated_at: "2026-03-29T20:32:28.809Z"
 ---
 
 # § 1087a. Program authority
@@ -14,4 +14,3 @@ generated_at: "2026-03-29T20:04:32.862Z"
 - **(b)**
   - **(1)** The program established under this part shall be referred to as the “William D. Ford Federal Direct Loan Program”.
   - **(2)** Notwithstanding any other provision of this part, loans made to borrowers under this part that, except as otherwise specified in this part, have the same terms, conditions, and benefits as loans made to borrowers under section 1078 of this title , shall be known as “Federal Direct Stafford/Ford Loans”.
-- **(c)** The maximum dollar amount of financial assistance provided under this part to a student shall not exceed the cost of attendance for such student.

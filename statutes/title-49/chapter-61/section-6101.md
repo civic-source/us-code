@@ -3,9 +3,9 @@ title: "Section 6101 - Purposes"
 usc_title: 49
 usc_section: "6101"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 6101"
-generated_at: "2026-03-29T20:07:58.456Z"
+generated_at: "2026-03-29T20:35:10.784Z"
 ---
 
 # § 6101. Purposes

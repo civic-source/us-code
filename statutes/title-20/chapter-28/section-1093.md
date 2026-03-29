@@ -3,9 +3,9 @@ title: "Section 1093 - Distance education demonstration programs"
 usc_title: 20
 usc_section: "1093"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "20 U.S.C. § 1093"
-generated_at: "2026-03-29T20:04:32.897Z"
+generated_at: "2026-03-29T20:32:28.836Z"
 ---
 
 # § 1093. Distance education demonstration programs
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T20:04:32.897Z"
     - **(C)** the appropriate level of Federal assistance for students enrolled in distance education programs.
 - **(b)**
   - **(1)** In accordance with the provisions of subsection (d), the Secretary is authorized to select institutions of higher education, systems of such institutions, or consortia of such institutions for voluntary participation in a Distance Education Demonstration Program that provides participating institutions with the ability to offer distance education programs that do not meet all or a portion of the sections or regulations described in paragraph (2).
-  - **(2)** The Secretary is authorized to waive for any institution of higher education, system of institutions of higher education, or consortium participating in a Distance Education Demonstration Program, the requirements of section 1087 ll (5) 1 1 See References in Text note below. of this title as the section relates to computer costs, sections 1088(a) and 1088(b) of this title as such sections relate to requirements for a minimum number of weeks of instruction, sections 1002(a)(3)(A), 1002(a)(3)(B), and 1091( l )(1) of this title, or one or more of the regulations prescribed under this part or part F which inhibit the operation of quality distance education programs.
+  - **(2)** The Secretary is authorized to waive for any institution of higher education, system of institutions of higher education, or consortium participating in a Distance Education Demonstration Program, the requirements of section 1087 ll (5) of this title as the section relates to computer costs, sections 1088(a) and 1088(b) of this title as such sections relate to requirements for a minimum number of weeks of instruction, sections 1002(a)(3)(A), 1002(a)(3)(B), and 1091( l )(1) of this title, or one or more of the regulations prescribed under this part or part F which inhibit the operation of quality distance education programs.
   - **(3)**
     - **(A)** Except as provided in subparagraphs (B), (C), and (D), only an institution of higher education that is eligible to participate in programs under this subchapter shall be eligible to participate in the demonstration program authorized under this section.
     - **(B)** An institution of higher education described in section 1002(a)(1)(C) of this title shall not be eligible to participate in the demonstration program authorized under this section.

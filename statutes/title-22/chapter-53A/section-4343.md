@@ -3,9 +3,9 @@ title: "Section 4343 - Regulations"
 usc_title: 22
 usc_section: "4343"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 4343"
-generated_at: "2026-03-29T20:04:46.895Z"
+generated_at: "2026-03-29T20:33:00.078Z"
 ---
 
 # § 4343. Regulations

@@ -3,9 +3,9 @@ title: "Section 15304 - Administrative powers and expenses"
 usc_title: 40
 usc_section: "15304"
 chapter: 153
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "40 U.S.C. § 15304"
-generated_at: "2026-03-29T20:05:42.972Z"
+generated_at: "2026-03-29T20:33:44.493Z"
 ---
 
 # § 15304. Administrative powers and expenses
@@ -15,12 +15,11 @@ generated_at: "2026-03-29T20:05:42.972Z"
   - **(2)** authorize, through the Federal or State Cochairperson or any other member of the Commission designated by the Commission, the administration of oaths if the Commission determines that testimony should be taken or evidence received under oath;
   - **(3)** request from any Federal, State, or local agency such information as may be available to or procurable by the agency that may be of use to the Commission in carrying out the duties of the Commission;
   - **(4)** adopt, amend, and repeal bylaws and rules governing the conduct of business and the performance of duties by the Commission;
-  - **(5)** request the head of any Federal agency, State agency, or local government to detail to the Commission such personnel as the Commission requires to carry out its duties, each such detail to be without loss of seniority, pay, or other employee status, which may be done without a requirement for the Commission to reimburse the agency or local government;
+  - **(5)** request the head of any Federal agency, State agency, or local government to detail to the Commission such personnel as the Commission requires to carry out its duties, each such detail to be without loss of seniority, pay, or other employee status;
   - **(6)** provide for coverage of Commission employees in a suitable retirement and employee benefit system by making arrangements or entering into contracts with any participating State government or otherwise providing retirement and other employee coverage;
   - **(7)** accept, use, and dispose of gifts or donations or services or real, personal, tangible, or intangible property;
-  - **(8)** collect fees for services provided and retain and expend such fees;
-  - **(9)** enter into and perform such contracts, cooperative agreements, or other transactions as are necessary to carry out Commission duties, including any contracts or cooperative agreements with a department, agency, or instrumentality of the United States, a State (including a political subdivision, agency, or instrumentality of the State), or a person, firm, association, or corporation; and
-  - **(10)** establish and maintain a central office at such location in its region as the Commission may select.
+  - **(8)** enter into and perform such contracts, cooperative agreements, or other transactions as are necessary to carry out Commission duties, including any contracts or cooperative agreements with a department, agency, or instrumentality of the United States, a State (including a political subdivision, agency, or instrumentality of the State), or a person, firm, association, or corporation; and
+  - **(9)** maintain a government relations office in the District of Columbia and establish and maintain a central office at such location in its region as the Commission may select.
 - **(b)** A Federal agency shall—
   - **(1)** cooperate with a Commission; and
   - **(2)** provide, to the extent practicable, on request of the Federal Cochairperson, appropriate assistance in carrying out this subtitle, in accordance with applicable Federal laws (including regulations).

@@ -3,9 +3,9 @@ title: "Section 287 - Taking child to school in another State without written co
 usc_title: 25
 usc_section: "287"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "25 U.S.C. § 287"
-generated_at: "2026-03-29T20:04:54.319Z"
+generated_at: "2026-03-29T20:32:54.654Z"
 ---
 
 # § 287. Taking child to school in another State without written consent

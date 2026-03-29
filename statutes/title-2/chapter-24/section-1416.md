@@ -3,9 +3,9 @@ title: "Section 1416 - Confidentiality"
 usc_title: 2
 usc_section: "1416"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "2 U.S.C. § 1416"
-generated_at: "2026-03-29T20:02:11.302Z"
+generated_at: "2026-03-29T20:31:22.520Z"
 ---
 
 # § 1416. Confidentiality
@@ -34,6 +34,6 @@ generated_at: "2026-03-29T20:02:11.302Z"
     - **(B)** A final decision of a hearing officer under section 1405(g) of this title that is no longer subject to review by the Board under section 1406 of this title .
     - **(C)** A final decision of the Board under section 1406(e) of this title that is no longer subject to appeal to the United States Court of Appeals for the Federal Circuit under section 1407 of this title .
     - **(D)** A final decision in a civil action under section 1408 of this title that is no longer subject to appeal.
-  - **(7)** In this subsection, the term “senior staff” means any individual who, at the time a violation occurred, was required to file a report under title I of the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.). 1 1 See References in Text note below.
+  - **(7)** In this subsection, the term “senior staff” means any individual who, at the time a violation occurred, was required to file a report under title I of the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.).
 - **(e)** A final decision entered under section 1405(g) or 1406(e) of this title shall be made public if it is in favor of the complaining covered employee, or in favor of the charging party under section 1331 of this title , or if the decision reverses a decision of a hearing officer which had been in favor of the covered employee or charging party. The Board may make public any other decision at its discretion.
 - **(f)** Nothing in this section may be construed to prohibit a covered employee from disclosing the factual allegations underlying the covered employee’s claim, or to prohibit an employing office from disclosing the factual allegations underlying the employing office’s defense to the claim, in the course of any proceeding under this subchapter.

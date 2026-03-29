@@ -1,0 +1,23 @@
+---
+title: "Section 4355 - Selected acquisition reports: quarterly SAR report content"
+usc_title: 10
+usc_section: "4355"
+chapter: 324
+current_through: "PL 117-24"
+classification: "10 U.S.C. § 4355"
+generated_at: "2026-03-29T20:31:54.693Z"
+---
+
+# § 4355. Selected acquisition reports: quarterly SAR report content
+
+Information to be included under this subsection in a Quarterly Selected Acquisition Report with respect to a major defense acquisition program is as follows:
+
+  - **(1)** The quantity of items to be purchased under the program.
+  - **(2)** The program acquisition cost.
+  - **(3)** The program acquisition unit cost for the program (or for each designated major subprogram under the program).
+  - **(4)** The current procurement cost for the program.
+  - **(5)** The current procurement unit cost for the program (or for each designated major subprogram under the program).
+  - **(6)** The reasons for any change in program acquisition cost, program acquisition unit cost, procurement cost, or procurement unit cost or in program schedule from the previous Selected Acquisition Report.
+  - **(7)** The reasons for any significant changes (from the previous Selected Acquisition Report) in the total program cost for development and procurement of the software component of the program or subprogram, schedule milestones for the software component of the program or subprogram, or expected performance for the software component of the program or subprogram that are known, expected, or anticipated by the program manager.
+  - **(8)** The major contracts under the program and designated major subprograms under the program and the reasons for any cost or schedule variances under those contracts since the last Selected Acquisition Report.
+  - **(9)** Program highlights since the last Selected Acquisition Report.

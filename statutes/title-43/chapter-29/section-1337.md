@@ -3,23 +3,23 @@ title: "Section 1337 - Leases, easements, and rights-of-way on the outer Contine
 usc_title: 43
 usc_section: "1337"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "43 U.S.C. § 1337"
-generated_at: "2026-03-29T20:06:00.040Z"
+generated_at: "2026-03-29T20:34:16.740Z"
 ---
 
 # § 1337. Leases, easements, and rights-of-way on the outer Continental Shelf
 
 - **(a)**
   - **(1)** The Secretary is authorized to grant to the highest responsible qualified bidder or bidders by competitive bidding, under regulations promulgated in advance, any oil and gas lease on submerged lands of the outer Continental Shelf which are not covered by leases meeting the requirements of subsection (a) of section 1335 of this title . Such regulations may provide for the deposit of cash bids in an interest-bearing account until the Secretary announces his decision on whether to accept the bids, with the interest earned thereon to be paid to the Treasury as to bids that are accepted and to the unsuccessful bidders as to bids that are rejected. The bidding shall be by sealed bid and, at the discretion of the Secretary, on the basis of—
-    - **(A)** cash bonus bid with a royalty at not less than 12½ percent, but not more than 16⅔ percent, fixed by the Secretary in amount or value of the production saved, removed, or sold;
+    - **(A)** cash bonus bid with a royalty at not less than 12½ per centum fixed by the Secretary in amount or value of the production saved, removed, or sold;
     - **(B)** variable royalty bid based on a per centum in amount or value of the production saved, removed, or sold, with either a fixed work commitment based on dollar amount for exploration or a fixed cash bonus as determined by the Secretary, or both;
-    - **(C)** cash bonus bid, or work commitment bid based on a dollar amount for exploration with a fixed cash bonus, and a diminishing or sliding royalty based on such formulae as the Secretary shall determine as equitable to encourage continued production from the lease area as resources diminish, but not less than 12½ percent, but not more than 16⅔ percent, at the beginning of the lease period in amount or value of the production saved, removed, or sold;
+    - **(C)** cash bonus bid, or work commitment bid based on a dollar amount for exploration with a fixed cash bonus, and a diminishing or sliding royalty based on such formulae as the Secretary shall determine as equitable to encourage continued production from the lease area as resources diminish, but not less than 12½ per centum at the beginning of the lease period in amount or value of the production saved, removed, or sold;
     - **(D)** cash bonus bid with a fixed share of the net profits of no less than 30 per centum to be derived from the production of oil and gas from the lease area;
     - **(E)** fixed cash bonus with the net profit share reserved as the bid variable;
-    - **(F)** cash bonus bid with a royalty at not less than 12½ percent, but not more than 16⅔ percent, fixed by the Secretary in amount or value of the production saved, removed, or sold and a fixed per centum share of net profits of no less than 30 per centum to be derived from the production of oil and gas from the lease area;
+    - **(F)** cash bonus bid with a royalty at no less than 12½ per centum fixed by the Secretary in amount or value of the production saved, removed, or sold and a fixed per centum share of net profits of no less than 30 per centum to be derived from the production of oil and gas from the lease area;
     - **(G)** work commitment bid based on a dollar amount for exploration with a fixed cash bonus and a fixed royalty in amount or value of the production saved, removed, or sold;
-    - **(H)** cash bonus bid with royalty at not less than 12½ percent, but not more than 16⅔ percent, fixed by the Secretary in amount or value of production saved, removed, or sold, and with suspension of royalties for a period, volume, or value of production determined by the Secretary, which suspensions may vary based on the price of production from the lease; or
+    - **(H)** cash bonus bid with royalty at no less than 12 and ½ per centum fixed by the Secretary in amount or value of production saved, removed, or sold, and with suspension of royalties for a period, volume, or value of production determined by the Secretary, which suspensions may vary based on the price of production from the lease; or
     - **(I)** subject to the requirements of paragraph (4) of this subsection, any modification of bidding systems authorized in subparagraphs (A) through (G), or any other systems of bid variables, terms, and conditions which the Secretary determines to be useful to accomplish the purposes and policies of this subchapter, except that no such bidding system or modification shall have more than one bid variable.
   - **(2)** The Secretary may, in his discretion, defer any part of the payment of the cash bonus, as authorized in paragraph (1) of this subsection, according to a schedule announced at the time of the announcement of the lease sale, but such payment shall be made in total no later than five years after the date of the lease sale.
   - **(3)**
@@ -123,9 +123,8 @@ generated_at: "2026-03-29T20:06:00.040Z"
   - **(1)** The Secretary, in consultation with the Secretary of the Department in which the Coast Guard is operating and other relevant departments and agencies of the Federal Government, may grant a lease, easement, or right-of-way on the outer Continental Shelf for activities not otherwise authorized in this subchapter, the Deepwater Port Act of 1974 ( 33 U.S.C. 1501 et seq.), the Ocean Thermal Energy Conversion Act of 1980 ( 42 U.S.C. 9101 et seq.), or other applicable law, if those activities—
     - **(A)** support exploration, development, production, or storage of oil or natural gas, except that a lease, easement, or right-of-way shall not be granted in an area in which oil and gas preleasing, leasing, and related activities are prohibited by a moratorium;
     - **(B)** support transportation of oil or natural gas, excluding shipping activities;
-    - **(C)** produce or support production, transportation, storage, or transmission of energy from sources other than oil and gas;
-    - **(D)** use, for energy-related purposes or for other authorized marine-related purposes, facilities currently or previously used for activities authorized under this subchapter, except that any oil and gas energy-related uses shall not be authorized in areas in which oil and gas preleasing, leasing, and related activities are prohibited by a moratorium; or
-    - **(E)** provide for, support, or are directly related to the injection of a carbon dioxide stream into sub-seabed geologic formations for the purpose of long-term carbon sequestration.
+    - **(C)** produce or support production, transportation, or transmission of energy from sources other than oil and gas; or
+    - **(D)** use, for energy-related purposes or for other authorized marine-related purposes, facilities currently or previously used for activities authorized under this subchapter, except that any oil and gas energy-related uses shall not be authorized in areas in which oil and gas preleasing, leasing, and related activities are prohibited by a moratorium.
   - **(2)**
     - **(A)** The Secretary shall establish royalties, fees, rentals, bonuses, or other payments to ensure a fair return to the United States for any lease, easement, or right-of-way granted under this subsection.
     - **(B)** The Secretary shall provide for the payment of 27 percent of the revenues received by the Federal Government as a result of payments under this section from projects that are located wholly or partially within the area extending three nautical miles seaward of State submerged lands. Payments shall be made based on a formula established by the Secretary by rulemaking no later than 180 days after August 8, 2005 , that provides for equitable distribution, based on proximity to the project, among coastal states that have a coastline that is located within 15 miles of the geographic center of the project.

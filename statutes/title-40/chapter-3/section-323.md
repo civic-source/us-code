@@ -3,9 +3,9 @@ title: "Section 323 - Consumer Information Center Fund 1 1 So in original. Proba
 usc_title: 40
 usc_section: "323"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "40 U.S.C. § 323"
-generated_at: "2026-03-29T20:05:42.908Z"
+generated_at: "2026-03-29T20:33:44.462Z"
 ---
 
 # § 323. Consumer Information Center Fund 1 1 So in original. Probably should be “Federal Citizen Services Fund”.
@@ -19,15 +19,3 @@ generated_at: "2026-03-29T20:05:42.908Z"
 - **(c)** Money deposited into the Fund is available for expenditure for Center 2 activities in amounts specified in appropriation laws. The Fund shall assume all liabilities, obligations, and commitments of the Center 2 account.
 - **(d)** Any unobligated balances at the end of a fiscal year remain in the Fund and are available for authorization in appropriation laws for subsequent fiscal years.
 - **(e)** The Center 2 may accept and deposit to this account gifts for purposes of defraying the costs of printing, publishing, and distributing consumer information and educational materials and undertaking other consumer information activities. In addition to amounts appropriated or otherwise made available, the Center 2 may expend the gifts for these purposes and any balance remains available for expenditure.
-- **(f)** The Administrator may enter into agreements with federal agencies to provide services through the Fund on a fully reimbursable basis.
-- **(g)** Not later than September 30 of each year, the Administrator shall submit to the Committee on Oversight and Accountability of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that includes, at a minimum, a list of each program funded by expenditures during the previous fiscal year, or that have been funded by expenditures in the previous 5-year period, including the following:
-  - **(1)** An explanation of the program.
-  - **(2)** Information about how the program is funded, including the amount of expenditures the program received in the previous fiscal year and total amount.
-  - **(3)** The amount of reimbursements associated with or anticipated to be associated with the program from another source of funds or another agency, if applicable.
-  - **(4)** A description of projects or initiatives associated with the program, including—
-    - **(A)** information about when the projects or initiatives were initiated and completed; and
-    - **(B)** funding information, to the extent practicable.
-  - **(5)** Any additional information, data, or analysis used to determine the information estimated within the report, if applicable.
-- **(h)** In this section:
-  - **(1)** The term “Administrator” means the Administrator of General Services.
-  - **(2)** The term “expenditure” means any obligation of funds from the Fund.

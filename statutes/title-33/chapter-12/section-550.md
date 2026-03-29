@@ -3,9 +3,9 @@ title: "Section 550 - Report on water terminal and transfer facilities"
 usc_title: 33
 usc_section: "550"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "33 U.S.C. § 550"
-generated_at: "2026-03-29T20:05:35.662Z"
+generated_at: "2026-03-29T20:33:34.175Z"
 ---
 
 # § 550. Report on water terminal and transfer facilities

@@ -3,9 +3,9 @@ title: "Section 9509 - Oil Spill Liability Trust Fund"
 usc_title: 26
 usc_section: "9509"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 9509"
-generated_at: "2026-03-29T20:05:22.788Z"
+generated_at: "2026-03-29T20:33:27.409Z"
 ---
 
 # § 9509. Oil Spill Liability Trust Fund
@@ -30,8 +30,8 @@ generated_at: "2026-03-29T20:05:22.788Z"
     - **(F)** for the payment of liabilities incurred by the Offshore Oil Pollution Compensation Fund.
   - **(2)**
     - **(A)** The maximum amount which may be paid from the Oil Spill Liability Trust Fund with respect to—
-      - **(i)** any single incident shall not exceed $1,500,000,000, and
-      - **(ii)** natural resource damage assessments and claims in connection with any single incident shall not exceed $750,000,000.
+      - **(i)** any single incident shall not exceed $1,000,000,000, and
+      - **(ii)** natural resource damage assessments and claims in connection with any single incident shall not exceed $500,000,000.
     - **(B)** Except in the case of payments of removal costs, a payment may be made from such Trust Fund only if the amount in such Trust Fund after such payment will not be less than $30,000,000.
 - **(d)**
   - **(1)** There are authorized to be appropriated to the Oil Spill Liability Trust Fund, as repayable advances, such sums as may be necessary to carry out the purposes of such Trust Fund.

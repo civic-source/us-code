@@ -3,16 +3,16 @@ title: "Section 47 - Employment of Indian labor and purchase of products of Indi
 usc_title: 25
 usc_section: "47"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "25 U.S.C. § 47"
-generated_at: "2026-03-29T20:04:54.310Z"
+generated_at: "2026-03-29T20:32:54.644Z"
 ---
 
 # § 47. Employment of Indian labor and purchase of products of Indian industry; participation in Mentor-Protege Program
 
 - **(a)** In this section:
   - **(1)** The term “Indian economic enterprise” has the meaning given the term in section 1480.201 of title 48, Code of Federal Regulations (or successor regulations).
-  - **(2)** The terms “mentor firm” and “protege firm” have the meanings given those terms in section 4902(c) of title 10 .
+  - **(2)** The terms “mentor firm” and “protege firm” have the meanings given those terms in section 831(c) of the National Defense Authorization Act for Fiscal Year 1991 ( 10 U.S.C. 2302 note; Public Law 101–510 ).
   - **(3)** The term “Secretaries” means—
     - **(A)** the Secretary of the Interior; and
     - **(B)** the Secretary of Health and Human Services.

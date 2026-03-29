@@ -3,9 +3,9 @@ title: "Section 3129 - Appropriation to pay expenses"
 usc_title: 31
 usc_section: "3129"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "31 U.S.C. § 3129"
-generated_at: "2026-03-29T20:05:32.581Z"
+generated_at: "2026-03-29T20:33:31.766Z"
 ---
 
 # § 3129. Appropriation to pay expenses

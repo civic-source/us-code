@@ -3,9 +3,9 @@ title: "Section 674c - Boundary and division fences for White Horse Hill Nationa
 usc_title: 16
 usc_section: "674c"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 674c"
-generated_at: "2026-03-29T20:04:20.188Z"
+generated_at: "2026-03-29T20:32:45.254Z"
 ---
 
 # § 674c. Boundary and division fences for White Horse Hill National Game Preserve; buildings and improvements; supplies; employees

@@ -3,9 +3,9 @@ title: "Section 7253 - Composition"
 usc_title: 38
 usc_section: "7253"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "38 U.S.C. § 7253"
-generated_at: "2026-03-29T20:05:54.767Z"
+generated_at: "2026-03-29T20:34:04.989Z"
 ---
 
 # § 7253. Composition
@@ -50,7 +50,5 @@ generated_at: "2026-03-29T20:05:54.767Z"
   - **(4)** A judge of the Court as of December 27, 2001 , who was appointed to the Court before January 1, 1991 , may accept appointment as a judge of the Court under this subsection notwithstanding that the term of office of the judge on the Court has not yet expired under this section. The term of office of an incumbent judge who receives an appointment as described in the preceding sentence shall be 15 years, which includes any period remaining in the unexpired term of the judge. Any service following an appointment under this subsection shall be treated as though served as part of the original term of office of that judge on the Court.
   - **(5)** Notwithstanding paragraph (1), an appointment may not be made to the Court if the appointment would result in there being more than seven judges on the Court who were appointed after January 1, 1997 . For the purposes of this paragraph, a judge serving in recall status under section 7257 of this title shall be disregarded in counting the number of judges appointed to the Court after such date.
 - **(i)**
-  - **(1)**
-    - **(A)** Subject to paragraph (2), effective during the period beginning on December 31, 2009 , and ending on the date of the enactment of the Veterans Benefits Improvement Act of 2024, the authorized number of judges of the Court specified in subsection (a) is increased by two.
-    - **(B)** Subject to paragraph (2), effective as of the date of the enactment of the Veterans Benefits Improvement Act of 2024, the authorized number of judges of the Court specified in subsection (a) is increased by three.
-  - **(2)** Effective as of January 1, 2028 , an appointment may not be made to the Court if the appointment would result in there being more judges of the Court than the authorized number of judges of the Court specified in subsection (a).
+  - **(1)** Subject to paragraph (2), effective as of December 31, 2009 , the authorized number of judges of the Court specified in subsection (a) is increased by two.
+  - **(2)** Effective as of January 1, 2026 , an appointment may not be made to the Court if the appointment would result in there being more judges of the Court than the authorized number of judges of the Court specified in subsection (a).

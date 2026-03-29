@@ -3,9 +3,9 @@ title: "Section 9409 - Report on United States citizens detained by Iran"
 usc_title: 22
 usc_section: "9409"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 9409"
-generated_at: "2026-03-29T20:04:47.026Z"
+generated_at: "2026-03-29T20:33:00.203Z"
 ---
 
 # § 9409. Report on United States citizens detained by Iran

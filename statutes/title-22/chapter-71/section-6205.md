@@ -3,9 +3,9 @@ title: "Section 6205 - Establishment of the International Broadcasting Advisory 
 usc_title: 22
 usc_section: "6205"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 6205"
-generated_at: "2026-03-29T20:04:46.931Z"
+generated_at: "2026-03-29T20:33:00.111Z"
 ---
 
 # § 6205. Establishment of the International Broadcasting Advisory Board
@@ -53,15 +53,7 @@ generated_at: "2026-03-29T20:04:46.931Z"
     - **(B)** Except as provided in paragraph (2), decisions of the Advisory Board shall be made by majority vote, a quorum being present.
     - **(C)** The Advisory Board may meet in closed sessions in accordance with section 552b of title 5 .
 - **(f)**
-  - **(1)** Subject to paragraphs (2) and (3), a grantee may not be debarred or suspended without consultation with the Chief Executive Officer and a three-fourths majority vote of the Advisory Board in support of such action.
-  - **(2)**
-    - **(A)** A grantee may not be suspended unless the Advisory Board determines that the criteria described in section 513.405 of title 22, Code of Federal Regulations, have been met.
-    - **(B)** The Advisory Board shall collectively serve as the suspending official (as described in section 513.105 of title 22, Code of Federal Regulations).
-  - **(3)**
-    - **(A)** A grantee may not be debarred unless the Advisory Board determines that one or more of the causes described in section 513.305 of title 22, Code of Federal Regulations, has been established.
-    - **(B)** The Advisory Board shall collectively serve as the debarring official (as described in section 513.105 of title 22, Code of Federal Regulations).
-- **(g)**
   - **(1)** Members of the Advisory Board, while attending meetings of the Advisory Board or while engaged in duties relating to such meetings or in other activities of the Advisory Board under this section (including travel time) shall be entitled to receive compensation equal to the daily equivalent of the compensation prescribed for level IV of the Executive Schedule under section 5315 of title 5 .
   - **(2)** While away from their homes or regular places of business, members of the Board may be allowed travel expenses, including per diem in lieu of subsistence, as authorized under section 5703 of such title for persons in the Government service employed intermittently.
   - **(3)** The Secretary of State is not entitled to any compensation under this chapter, but may be allowed travel expenses in accordance with paragraph (2).
-- **(h)** The Chief Executive Officer shall, from within existing United States Agency for Global Media personnel, provide the Advisory Board with an Executive Secretary and such administrative staff and support as may be necessary to enable the Advisory Board to carry out subsections (d) and (e).
+- **(g)** The Chief Executive Officer shall, from within existing United States Agency for Global Media personnel, provide the Advisory Board with an Executive Secretary and such administrative staff and support as may be necessary to enable the Advisory Board to carry out subsections (d) and (e).

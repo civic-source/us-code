@@ -3,9 +3,9 @@ title: "Section 9032 - Loan rates for nonrecourse marketing assistance loans"
 usc_title: 7
 usc_section: "9032"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 9032"
-generated_at: "2026-03-29T20:02:52.873Z"
+generated_at: "2026-03-29T20:31:42.294Z"
 ---
 
 # § 9032. Loan rates for nonrecourse marketing assistance loans
@@ -40,7 +40,7 @@ generated_at: "2026-03-29T20:02:52.873Z"
   - **(18)** In the case of mohair, $4.20 per pound.
   - **(19)** In the case of honey, $0.69 per pound.
   - **(20)** In the case of peanuts, $355 per ton.
-- **(b)** For purposes of each of the 2019 through 2025 crop years, the loan rate for a marketing assistance loan under section 9031 of this title for a loan commodity shall be equal to the following:
+- **(b)** For purposes of each of the 2019 through 2023 crop years, the loan rate for a marketing assistance loan under section 9031 of this title for a loan commodity shall be equal to the following:
   - **(1)** In the case of wheat, $3.38 per bushel.
   - **(2)** In the case of corn, $2.20 per bushel.
   - **(3)** In the case of grain sorghum, $2.20 per bushel.
@@ -75,37 +75,7 @@ generated_at: "2026-03-29T20:02:52.873Z"
   - **(18)** In the case of mohair, $4.20 per pound.
   - **(19)** In the case of honey, $0.69 per pound.
   - **(20)** In the case of peanuts, $355 per ton.
-- **(c)** For purposes of each of the 2026 through 2031 crop years, the loan rate for a marketing assistance loan under section 9031 of this title for a loan commodity shall be equal to the following:
-  - **(1)** In the case of wheat, $3.72 per bushel.
-  - **(2)** In the case of corn, $2.42 per bushel.
-  - **(3)** In the case of grain sorghum, $2.42 per bushel.
-  - **(4)** In the case of barley, $2.75 per bushel.
-  - **(5)** In the case of oats, $2.20 per bushel.
-  - **(6)** In the case of upland cotton, $0.55 per pound.
-  - **(7)** In the case of extra long staple cotton, $1.00 per pound.
-  - **(8)** In the case of long grain rice, $7.70 per hundredweight.
-  - **(9)** In the case of medium grain rice, $7.70 per hundredweight.
-  - **(10)** In the case of soybeans, $6.82 per bushel.
-  - **(11)** In the case of other oilseeds, $11.10 per hundredweight for each of the following kinds of oilseeds:
-    - **(A)** Sunflower seed.
-    - **(B)** Rapeseed.
-    - **(C)** Canola.
-    - **(D)** Safflower.
-    - **(E)** Flaxseed.
-    - **(F)** Mustard seed.
-    - **(G)** Crambe.
-    - **(H)** Sesame seed.
-    - **(I)** Other oilseeds designated by the Secretary.
-  - **(12)** In the case of dry peas, $6.87 per hundredweight.
-  - **(13)** In the case of lentils, $14.30 per hundredweight.
-  - **(14)** In the case of small chickpeas, $11.00 per hundredweight.
-  - **(15)** In the case of large chickpeas, $15.40 per hundredweight.
-  - **(16)** In the case of graded wool, $1.60 per pound.
-  - **(17)** In the case of nongraded wool, $0.55 per pound.
-  - **(18)** In the case of mohair, $5.00 per pound.
-  - **(19)** In the case of honey, $1.50 per pound.
-  - **(20)** In the case of peanuts, $390 per ton.
-- **(d)** The Secretary shall establish a single loan rate in each county for each kind of other oilseeds described in subsections (a)(11), (b)(11), and (c)(11).
-- **(e)**
-  - **(1)** For purposes of section 9016 (b)(2) of this title and paragraphs (1)(B)(ii) and (2)(A)(ii)(II) of section 9017(b) of this title , the loan rate for seed cotton shall be deemed to be equal to $0.30 per pound.
+- **(c)** The Secretary shall establish a single loan rate in each county for each kind of other oilseeds described in subsections (a)(11) and (b)(11).
+- **(d)**
+  - **(1)** For purposes of section 9016 (b)(2) of this title and paragraphs (1)(B)(ii) and (2)(A)(ii)(II) of section 9017(b) of this title , the loan rate for seed cotton shall be deemed to be equal to $0.25 per pound.
   - **(2)** Nothing in this subsection authorizes any nonrecourse marketing assistance loan under this subchapter for seed cotton.

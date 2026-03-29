@@ -3,16 +3,14 @@ title: "Section 2815 - Military installation resilience projects"
 usc_title: 10
 usc_section: "2815"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2815"
-generated_at: "2026-03-29T20:03:09.724Z"
+generated_at: "2026-03-29T20:31:54.651Z"
 ---
 
 # § 2815. Military installation resilience projects
 
-- **(a)** The Secretary of Defense shall carry out military construction projects, including unspecified minor military construction projects not otherwise authorized by law, for military installation resilience, in accordance with—
-  - **(1)** section 2802 of this title (except as provided in subsection (e)); or
-  - **(2)** section 2805 of this title .
+- **(a)** The Secretary of Defense shall carry out military construction projects for military installation resilience, in accordance with section 2802 of this title (except as provided in subsections (d)(3) and (e)).
 - **(b)**
   - **(1)** When a decision is made to carry out a project under this section, the Secretary of Defense shall notify the congressional defense committees of that decision.
   - **(2)** The Secretary of Defense shall include in each notification submitted under paragraph (1) the rationale for how the project would—
@@ -34,7 +32,7 @@ generated_at: "2026-03-29T20:03:09.724Z"
     - **(B)** the source of funds for the project; and
     - **(C)** a certification that deferral of the project for inclusion in the next Military Construction Authorization Act would be inconsistent with national security or the protection of health, safety, or environmental quality, as the case may be.
   - **(2)** A project carried out under this section using amounts under paragraph (1) may be carried out only after the end of the 7-day period beginning on the date on which a copy of the notification described in paragraph (1) is provided in an electronic medium pursuant to section 480 of this title .
-  - **(3)** The maximum aggregate amount that the Secretary concerned may obligate from amounts available to the military department concerned for operation and maintenance in any fiscal year for projects under the authority of this subsection is $125,000,000.
+  - **(3)** The maximum aggregate amount that the Secretary concerned may obligate from amounts available to the military department concerned for operation and maintenance in any fiscal year for projects under the authority of this subsection is $100,000,000.
 - **(f)** Not later than 90 days after the end of each fiscal year until December 31, 2025 , the Secretary of Defense shall submit to the congressional defense committees a report on the status of the planned and active projects carried out under this section (including completed projects), and shall include in the report with respect to each such project the following information:
   - **(1)** The title, location, a brief description of the scope of work, the original project cost estimate, and the current working cost estimate.
   - **(2)** The information provided under subsection (b)(2).

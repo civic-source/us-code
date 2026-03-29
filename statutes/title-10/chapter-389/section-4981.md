@@ -3,14 +3,14 @@ title: "Section 4981 - Establishment of loan guarantee program"
 usc_title: 10
 usc_section: "4981"
 chapter: 389
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 4981"
-generated_at: "2026-03-29T20:03:09.807Z"
+generated_at: "2026-03-29T20:31:54.707Z"
 ---
 
 # § 4981. Establishment of loan guarantee program
 
-- **(a)** In order to meet the national security objectives in section 4811(a) of this title , the Secretary of Defense shall establish a program under which the Secretary may issue guarantees assuring lenders against losses of principal or interest, or both principal and interest, for loans made to qualified commercial firms to fund, in whole or in part, any of the following activities:
+- **(a)** In order to meet the national security objectives in section 4811(a) 1 1 Reference reflects amendment made by section 1883(b)(2) of Pub. L. 116–283 . of this title, the Secretary of Defense shall establish a program under which the Secretary may issue guarantees assuring lenders against losses of principal or interest, or both principal and interest, for loans made to qualified commercial firms to fund, in whole or in part, any of the following activities:
   - **(1)** The improvement of the protection of the critical infrastructure of the commercial firms.
   - **(2)** The refinancing of improvements previously made to the protection of the critical infrastructure of the commercial firms.
 - **(b)** For purposes of this section, a qualified commercial firm is a company or other business entity (including a consortium of such companies or other business entities, as determined by the Secretary) that the Secretary determines—

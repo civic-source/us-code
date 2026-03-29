@@ -3,9 +3,9 @@ title: "Section 249 - Hate crime acts"
 usc_title: 18
 usc_section: "249"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "18 U.S.C. § 249"
-generated_at: "2026-03-29T20:03:53.693Z"
+generated_at: "2026-03-29T20:32:21.335Z"
 ---
 
 # § 249. Hate crime acts
@@ -33,8 +33,6 @@ generated_at: "2026-03-29T20:03:53.693Z"
         - **(II)** otherwise affects interstate or foreign commerce.
   - **(3)** Whoever, within the special maritime or territorial jurisdiction of the United States, engages in conduct described in paragraph (1) or in paragraph (2)(A) (without regard to whether that conduct occurred in a circumstance described in paragraph (2)(B)) shall be subject to the same penalties as prescribed in those paragraphs.
   - **(4)** All prosecutions conducted by the United States under this section shall be undertaken pursuant to guidelines issued by the Attorney General, or the designee of the Attorney General, to be included in the United States Attorneys’ Manual that shall establish neutral and objective criteria for determining whether a crime was committed because of the actual or perceived status of any person.
-  - **(5)** Whoever conspires to commit any offense under paragraph (1), (2), or (3) shall, if death or serious bodily injury (as defined in section 2246 of this title ) results from the offense, be imprisoned for not more than 30 years, fined in accordance with this title, or both.
-  - **(6)** Whoever conspires to commit any offense under paragraph (1), (2), or (3) shall, if death or serious bodily injury (as defined in section 2246 of this title ) results from the offense, or if the offense includes kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill, be imprisoned for not more than 30 years, fined in accordance with this title, or both.
 - **(b)**
   - **(1)** No prosecution of any offense described in this subsection may be undertaken by the United States, except under the certification in writing of the Attorney General, or a designee, that—
     - **(A)** the State does not have jurisdiction;

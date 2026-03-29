@@ -1,14 +1,14 @@
 ---
-title: "Section 166 - Applicability of chapter 10 of title 5"
+title: "Section 166 - Applicability of Federal Advisory Committee Act"
 usc_title: 25
 usc_section: "166"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "25 U.S.C. § 166"
-generated_at: "2026-03-29T20:04:54.316Z"
+generated_at: "2026-03-29T20:32:54.651Z"
 ---
 
-# § 166. Applicability of chapter 10 of title 5
+# § 166. Applicability of Federal Advisory Committee Act
 
-The activities of the Department of the Interior associated with the Department’s consultation with Indian tribes and organizations related to the management of funds held in trust by the United States for Indian tribes shall be exempt from chapter 10 of title 5.
+The activities of the Department of the Interior associated with the Department’s consultation with Indian tribes and organizations related to the management of funds held in trust by the United States for Indian tribes shall be exempt from the Federal Advisory Committee Act (5 U.S.C. App.).
 

@@ -3,9 +3,9 @@ title: "Section 3319k - Agriculture Advanced Research and Development Authority 
 usc_title: 7
 usc_section: "3319k"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 3319k"
-generated_at: "2026-03-29T20:02:52.692Z"
+generated_at: "2026-03-29T20:31:42.140Z"
 ---
 
 # § 3319k. Agriculture Advanced Research and Development Authority pilot
@@ -71,7 +71,7 @@ generated_at: "2026-03-29T20:02:52.692Z"
     - **(A)** address critical research and development needs for technology for specialty crops; or
     - **(B)** prevent, protect, and prepare against intentional and unintentional threats to agriculture and food.
   - **(6)**
-    - **(A)** In carrying out the pilot program under this section, the Secretary shall have the authority to enter into other transactions in the same manner and subject to the same terms and conditions as transactions that the Secretary of Defense may enter into under section 4021 of title 10 .
+    - **(A)** In carrying out the pilot program under this section, the Secretary shall have the authority to enter into other transactions in the same manner and subject to the same terms and conditions as transactions that the Secretary of Defense may enter into under section 2371 of title 10 .
     - **(B)** The authority of the Secretary to enter into contracts, cooperative agreements, and other transactions under this subsection shall be in addition to the authorities under this chapter and title I of the Department of Agriculture and Related Agencies Appropriation Act, 1964 ( 7 U.S.C. 3318a ), to use contracts, cooperative agreements, and grants in carrying out the pilot program under this section.
     - **(C)** The Secretary shall establish guidelines regarding the use of the authority under subparagraph (A).
     - **(D)** In entering into other transactions, the Secretary may negotiate terms for technology transfer in the same manner as a Federal laboratory under paragraphs (1) through (4) of section 3710a(b) of title 15 .
@@ -110,7 +110,7 @@ generated_at: "2026-03-29T20:02:52.692Z"
 - **(d)**
   - **(1)** There is established in the Treasury the Agriculture Advanced Research and Development Fund, which shall be administered by the Secretary, acting through the Director—
     - **(A)** for the purpose of carrying out this section; and
-    - **(B)** in the same manner and subject to the same terms and conditions as are applicable to the Secretary of Defense under section 4021 of title 10 .
+    - **(B)** in the same manner and subject to the same terms and conditions as are applicable to the Secretary of Defense under section 2371 of title 10 .
   - **(2)**
     - **(A)** The Secretary, acting through the Director, may accept and deposit into the Fund monies received pursuant to cost recovery, contribution, or royalty payments under a contract, grant, cooperative agreement, or other transaction under this section.
     - **(B)** Amounts deposited into the fund shall remain available until expended, without further appropriation, and may be used to carry out the purposes of this section.

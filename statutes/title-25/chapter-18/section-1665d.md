@@ -3,9 +3,9 @@ title: "Section 1665d - Mental health technician program"
 usc_title: 25
 usc_section: "1665d"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "25 U.S.C. § 1665d"
-generated_at: "2026-03-29T20:04:54.374Z"
+generated_at: "2026-03-29T20:32:54.706Z"
 ---
 
 # § 1665d. Mental health technician program

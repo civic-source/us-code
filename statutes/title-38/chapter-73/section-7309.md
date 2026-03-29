@@ -3,9 +3,9 @@ title: "Section 7309 - Readjustment Counseling Service"
 usc_title: 38
 usc_section: "7309"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "38 U.S.C. § 7309"
-generated_at: "2026-03-29T20:05:54.772Z"
+generated_at: "2026-03-29T20:34:04.994Z"
 ---
 
 # § 7309. Readjustment Counseling Service
@@ -36,9 +36,6 @@ generated_at: "2026-03-29T20:05:54.772Z"
     - **(A)** A summary of the activities of the Readjustment Counseling Service, including Vet Centers.
     - **(B)** A description of the workload and additional treatment capacity of the Vet Centers, including, for each Vet Center, the ratio of the number of full-time equivalent employees at such Vet Center and the number of individuals who received services or assistance at such Vet Center.
     - **(C)** A detailed analysis of demand for and unmet need for readjustment counseling services and the Secretary’s plan for meeting such unmet need, including the resources required to meet such unmet need, such as additional staff, additional locations, additional infrastructure, infrastructure improvements, and additional mobile Vet Centers.
-    - **(D)** A description of actions taken by the Secretary to reduce—
-      - **(i)** vacancies in counselor positions in the Readjustment Counseling Service; and
-      - **(ii)** the time it takes to hire such counselors.
   - **(3)** For each even numbered year in which the report required by paragraph (1) is submitted, the Secretary shall include in such report a prediction of—
     - **(A)** trends in demand for care;
     - **(B)** long-term investments required with respect to the provision of care;

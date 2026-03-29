@@ -3,9 +3,9 @@ title: "Section 1567a - Mandatory notification of issuance of military protectiv
 usc_title: 10
 usc_section: "1567a"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 1567a"
-generated_at: "2026-03-29T20:03:09.615Z"
+generated_at: "2026-03-29T20:31:54.533Z"
 ---
 
 # § 1567a. Mandatory notification of issuance of military protective order to civilian law enforcement

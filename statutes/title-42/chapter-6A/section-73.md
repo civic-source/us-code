@@ -3,9 +3,9 @@ title: "Section 73 - Maintenance of the poison control center grant program"
 usc_title: 42
 usc_section: "73"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 73"
-generated_at: "2026-03-29T20:07:43.221Z"
+generated_at: "2026-03-29T20:34:52.734Z"
 ---
 
 # § 300d–73. Maintenance of the poison control center grant program
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T20:07:43.221Z"
     - **(B)** Notwithstanding any previous waivers, in the case of a poison control center whose accreditation is affected by a public health emergency declared pursuant to section 247d of this title , the Secretary may, as the circumstances of the emergency reasonably require, provide a waiver under paragraph (1) or a renewal under paragraph (2), not to exceed 2 years. The Secretary may require quarterly reports and other information related to such a waiver or renewal under this paragraph.
 - **(e)** Amounts made available to a poison control center under this section shall be used to supplement and not supplant other Federal, State or local funds provided for such center.
 - **(f)** With respect to activities for which a grant is awarded under this section, the Secretary may require that poison control centers agree to maintain the expenditures of the center for such activities at a level that is not less than the level of expenditures maintained by the center for the fiscal year preceding the fiscal year for which the grant is received.
-- **(g)** There is authorized to be appropriated to carry out this section, $28,600,000 for each of fiscal years 2025 through 2029. The Secretary may utilize an amount not to exceed 6 percent of the amount appropriated under this preceding sentence in each fiscal year for coordination, dissemination, technical assistance, program evaluation, data activities, and other program administration functions, which are determined by the Secretary to be appropriate for carrying out the program under this section.
+- **(g)** There is authorized to be appropriated to carry out this section, $28,600,000 for each of fiscal years 2020 through 2024. The Secretary may utilize an amount not to exceed 6 percent of the amount appropriated under this preceding sentence in each fiscal year for coordination, dissemination, technical assistance, program evaluation, data activities, and other program administration functions, which are determined by the Secretary to be appropriate for carrying out the program under this section.
 - **(h)** Not later than 2 years after December 20, 2019 , and every 2 years thereafter, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and Committee on Energy and Commerce of the House of Representatives a report concerning the operations of, and trends identified by, the Poison Control Network. Such report shall include—
   - **(1)** descriptions of the activities carried out pursuant to sections 300d–71, 300d–72, and 300d–73 of this title, and the alignment of such activities with the purposes provided under subsection (a);
   - **(2)** a description of trends in volume of contacts to poison control centers;

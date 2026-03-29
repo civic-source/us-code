@@ -3,9 +3,9 @@ title: "Section 78n - Proxies"
 usc_title: 15
 usc_section: "78n"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 78n"
-generated_at: "2026-03-29T20:03:27.142Z"
+generated_at: "2026-03-29T20:32:09.671Z"
 ---
 
 # § 78n. Proxies
@@ -96,6 +96,3 @@ generated_at: "2026-03-29T20:03:27.142Z"
 - **(j)** The Commission shall, by rule, require each issuer to disclose in any proxy or consent solicitation material for an annual meeting of the shareholders of the issuer whether any employee or member of the board of directors of the issuer, or any designee of such employee or member, is permitted to purchase financial instruments (including prepaid variable forward contracts, equity swaps, collars, and exchange funds) that are designed to hedge or offset any decrease in the market value of equity securities—
   - **(1)** granted to the employee or member of the board of directors by the issuer as part of the compensation of the employee or member of the board of directors; or
   - **(2)** held, directly or indirectly, by the employee or member of the board of directors.
-- **(k)**
-  - **(1)** The Commission shall, by rule, adopt data standards for all information contained in any proxy or consent solicitation material prepared by an issuer for an annual meeting of the shareholders of the issuer, except that the Commission may exempt exhibits, signatures, and certifications from those data standards.
-  - **(2)** The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of title 12 , including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.

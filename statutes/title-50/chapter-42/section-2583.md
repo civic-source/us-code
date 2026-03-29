@@ -1,12 +1,16 @@
 ---
-title: "Section 2583 - Repealed. Pub. L. 117–263, div. C, title XXXI, § 3132(a)(1)(B)(i) , Dec. 23, 2022 , 136 Stat. 3060"
+title: "Section 2583 - Integrated fissile materials management plan"
 usc_title: 50
 usc_section: "2583"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "50 U.S.C. § 2583"
-generated_at: "2026-03-29T20:08:11.183Z"
+generated_at: "2026-03-29T20:35:05.192Z"
 ---
 
-# § 2583. Repealed. Pub. L. 117–263, div. C, title XXXI, § 3132(a)(1)(B)(i) , Dec. 23, 2022 , 136 Stat. 3060
+# § 2583. Integrated fissile materials management plan
 
+- **(a)** The Secretary of Energy shall develop a long-term plan for the integrated management of fissile materials by the Department of Energy. The plan shall—
+  - **(1)** identify means of coordinating or integrating the responsibilities of the Office of Environmental Management, the Office of Nuclear Energy, and the Administration for the treatment, storage, and disposition of fissile materials, and for the waste streams containing fissile materials, in order to achieve budgetary and other efficiencies in the discharge of those responsibilities; and
+  - **(2)** identify any expenditures necessary at the sites that are anticipated to have an enduring mission for plutonium management in order to achieve the integrated management of fissile materials by the Department.
+- **(b)** The Secretary shall submit the plan required by subsection (a) to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives not later than March 31, 2014 .

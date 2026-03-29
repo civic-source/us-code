@@ -3,9 +3,9 @@ title: "Section 2284 - Explosive Ordnance Disposal Defense Program"
 usc_title: 10
 usc_section: "2284"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2284"
-generated_at: "2026-03-29T20:03:09.668Z"
+generated_at: "2026-03-29T20:31:54.573Z"
 ---
 
 # § 2284. Explosive Ordnance Disposal Defense Program
@@ -21,9 +21,20 @@ generated_at: "2026-03-29T20:03:09.668Z"
     - **(B)** the Under Secretary of Defense for Acquisition and Sustainment on explosive ordnance disposal research, development, acquisition, and sustainment;
     - **(C)** the Under Secretary of Defense for Research and Engineering on explosive ordnance disposal research, development, test, and evaluation;
     - **(D)** the Assistant Secretary of Defense for Homeland Security and Global Security on explosive ordnance disposal on defense support of civil authorities; and
-    - **(E)** the Assistant Secretary of Defense for Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs on explosive ordnance disposal for combating weapons of mass destruction;
+    - **(E)** the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense programs on explosive ordnance disposal for combating weapons of mass destruction;
   - **(4)** the Secretary of each military department shall assess the needs of the military department concerned with respect to explosive ordnance disposal and may carry out research, development, test, and evaluation activities, including other transactions and procurement activities to address military department unique needs; and
   - **(5)** the Secretary of the Army shall designate an Army explosive ordnance disposal-qualified general officer to serve as the co-chair of the Department of Defense explosive ordnance disposal defense program.
-- **(c)** In this section:
+- **(c)**
+  - **(1)** For fiscal year 2021 and each fiscal year thereafter, the Secretary of Defense shall submit to Congress with the defense budget materials a consolidated budget justification display, in classified and unclassified form, that includes all of activities of the Department of Defense relating to the Program.
+  - **(2)** The budget display under paragraph (1) for a fiscal year shall include a single program element for each of the following:
+    - **(A)** Civilian and military pay.
+    - **(B)** Research, development, test, and evaluation.
+    - **(C)** Procurement.
+    - **(D)** Other transaction agreements.
+    - **(E)** Military construction.
+  - **(3)** The budget display shall include funding data for each of the military department’s respective activities related to explosive ordnance disposal, including—
+    - **(A)** operation and maintenance; and
+    - **(B)** overseas contingency operations.
+- **(d)** In this section:
   - **(1)** The term “explosive ordnance” has the meaning given such term in section 283(d) of this title .
   - **(2)** The term “explosive ordnance disposal” means the detection, identification, on-site evaluation, rendering safe, exploitation, recovery, and final disposal of explosive ordnance.

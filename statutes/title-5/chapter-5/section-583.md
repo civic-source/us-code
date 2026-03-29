@@ -3,9 +3,9 @@ title: "Section 583 - Support services"
 usc_title: 5
 usc_section: "583"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "5 U.S.C. § 583"
-generated_at: "2026-03-29T20:02:37.752Z"
+generated_at: "2026-03-29T20:31:26.728Z"
 ---
 
 # § 583. Support services

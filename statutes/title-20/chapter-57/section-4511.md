@@ -3,9 +3,9 @@ title: "Section 4511 - Expenditures and audit"
 usc_title: 20
 usc_section: "4511"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "20 U.S.C. § 4511"
-generated_at: "2026-03-29T20:04:33.023Z"
+generated_at: "2026-03-29T20:32:28.937Z"
 ---
 
 # § 4511. Expenditures and audit

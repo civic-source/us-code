@@ -3,9 +3,9 @@ title: "Section 2504 - Competitive grants"
 usc_title: 29
 usc_section: "2504"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "29 U.S.C. § 2504"
-generated_at: "2026-03-29T20:05:03.779Z"
+generated_at: "2026-03-29T20:33:05.798Z"
 ---
 
 # § 2504. Competitive grants

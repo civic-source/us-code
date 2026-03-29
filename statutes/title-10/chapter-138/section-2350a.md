@@ -3,9 +3,9 @@ title: "Section 2350a - Cooperative research and development agreements: NATO or
 usc_title: 10
 usc_section: "2350a"
 chapter: 138
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2350a"
-generated_at: "2026-03-29T20:03:09.671Z"
+generated_at: "2026-03-29T20:31:54.590Z"
 ---
 
 # § 2350a. Cooperative research and development agreements: NATO organizations; allied and friendly foreign countries
@@ -18,7 +18,6 @@ generated_at: "2026-03-29T20:03:09.671Z"
     - **(C)** A member nation of the North Atlantic Treaty Organization.
     - **(D)** A major non-NATO ally.
     - **(E)** Any other friendly foreign country.
-    - **(F)** The European Union, including the European Defence Agency, the European Commission, and the Council of the European Union, and their suborganizations.
   - **(3)** If such a memorandum of understanding (or other formal agreement) is with a country referred to in subparagraph (E) of paragraph (2), such memorandum (or agreement) may go into effect only after the Secretary submits to the Committees on Armed Services and on Foreign Relations of the Senate and to the Committees on Armed Services and on International Relations of the House of Representatives a report with respect to the proposed memorandum (or agreement) and a period of 30 days has passed after the report has been submitted.
 - **(b)**
   - **(1)** The Secretary of Defense may not enter into a memorandum of understanding (or other formal agreement) to conduct a cooperative research and development project under this section unless the Secretary determines that the proposed project will improve, through the application of emerging technology, the conventional defense capabilities of the North Atlantic Treaty Organization or the common conventional defense capabilities of the United States and a country or organization referred to in subsection (a)(2).
@@ -43,7 +42,7 @@ generated_at: "2026-03-29T20:03:09.671Z"
     - **(A)** that the Secretary of Defense should test covered equipment, munitions, and technologies to determine the ability of such covered equipment, munitions, and technologies to satisfy United States military requirements or to correct operational deficiencies; and
     - **(B)** that while the testing of nondevelopmental items and items in the late state of the development process are preferred, the testing of such covered equipment, munitions, and technologies may be conducted to determine procurement alternatives.
   - **(2)** The Secretary of Defense may acquire covered equipment, munitions, and technologies for the purpose of conducting the testing described in that paragraph.
-  - **(3)** The use of side-by-side testing under this subsection may be considered to be the use of competitive procedures for purposes of chapter 137 1 1 See References in Text note below. of this title, when procuring items within 5 years after an initial determination that the items have been successfully tested and found to satisfy United States military requirements or to correct operational deficiencies.
+  - **(3)** The use of side-by-side testing under this subsection may be considered to be the use of competitive procedures for purposes of chapter 137 of this title, when procuring items within 5 years after an initial determination that the items have been successfully tested and found to satisfy United States military requirements or to correct operational deficiencies.
   - **(4)** In this subsection, the term “covered equipment, munitions, and technologies” means—
     - **(A)** conventional defense equipment, munitions, and technologies manufactured and developed by countries referred to in subsection (a)(2); and
     - **(B)** conventional defense equipment, munitions, and technologies manufactured and developed domestically.

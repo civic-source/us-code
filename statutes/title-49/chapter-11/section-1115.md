@@ -3,9 +3,9 @@ title: "Section 1115 - Training"
 usc_title: 49
 usc_section: "1115"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 1115"
-generated_at: "2026-03-29T20:07:58.416Z"
+generated_at: "2026-03-29T20:35:10.752Z"
 ---
 
 # § 1115. Training
@@ -19,4 +19,4 @@ generated_at: "2026-03-29T20:07:58.416Z"
     - **(A)** shall be credited to the appropriate appropriation (subject to the requirements of any annual appropriation); and
     - **(B)** is an offset against any annual reimbursement agreement between the Board and the Secretary to cover all reasonable costs of providing training under this subsection that the Secretary incurs in operating the Institute.
   - **(2)** The Board shall maintain an annual record of offsets under paragraph (1)(B) of this subsection.
-- **(d)** The Board may conduct training of its employees in those subjects necessary for the proper performance of accident investigation and in those subjects furthering the personnel and workforce development needs set forth in the strategic workforce plan of the Board as required under section 1113(h). The Board may also authorize attendance at courses given under this subsection by other government personnel, personnel of foreign governments, and personnel from industry or otherwise who have a requirement for accident investigation training. The Board may require non-Board personnel to reimburse some or all of the training costs, and amounts so reimbursed shall be credited to the appropriation of the Board as offsetting collections.
+- **(d)** The Board may conduct training of its employees in those subjects necessary for the proper performance of accident investigation. The Board may also authorize attendance at courses given under this subsection by other government personnel, personnel of foreign governments, and personnel from industry or otherwise who have a requirement for accident investigation training. The Board may require non-Board personnel to reimburse some or all of the training costs, and amounts so reimbursed shall be credited to the appropriation of the Board as offsetting collections.

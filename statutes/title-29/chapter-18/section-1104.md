@@ -3,9 +3,9 @@ title: "Section 1104 - Fiduciary duties"
 usc_title: 29
 usc_section: "1104"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "29 U.S.C. § 1104"
-generated_at: "2026-03-29T20:05:03.716Z"
+generated_at: "2026-03-29T20:33:05.739Z"
 ---
 
 # § 1104. Fiduciary duties
@@ -52,7 +52,6 @@ generated_at: "2026-03-29T20:05:03.716Z"
         - **(I)** receives, within a reasonable period of time before each plan year, a notice explaining the employee’s right under the plan to designate how contributions and earnings will be invested and explaining how, in the absence of any investment election by the participant or beneficiary, such contributions and earnings will be invested, and
         - **(II)** has a reasonable period of time after receipt of such notice and before the beginning of the plan year to make such designation.
       - **(ii)** The requirements of clauses (i) and (ii) of section 401(k)(12)(D) of title 26 shall apply with respect to the notices described in this subparagraph.
-  - **(6)** For purposes of paragraph (1), a participant in a pension-linked emergency savings account shall be treated as exercising control over the assets in the account with respect to the amount of contributions and earnings which are invested in accordance with section 1193(c)(1)(A)(iii) of this title .
 - **(d)**
   - **(1)** If, in connection with the termination of a pension plan which is a single-employer plan, there is an election to establish or maintain a qualified replacement plan, or to increase benefits, as provided under section 4980(d) of title 26 , a fiduciary shall discharge the fiduciary’s duties under this subchapter and subchapter III in accordance with the following requirements:
     - **(A)** In the case of a fiduciary of the terminated plan, any requirement—

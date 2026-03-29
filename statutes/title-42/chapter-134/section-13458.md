@@ -3,9 +3,9 @@ title: "Section 13458 - Energy efficient lighting and building centers"
 usc_title: 42
 usc_section: "13458"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 13458"
-generated_at: "2026-03-29T20:07:44.819Z"
+generated_at: "2026-03-29T20:34:54.171Z"
 ---
 
 # § 13458. Energy efficient lighting and building centers
@@ -49,6 +49,6 @@ generated_at: "2026-03-29T20:07:44.819Z"
   - **(4)** Members shall serve without pay. Each member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5.
   - **(5)** The Chairperson and Vice Chairperson of the task force shall be elected by the members.
   - **(6)** The task force shall meet biannually and at the call of the Chairperson.
-  - **(7)** Section 1013 of title 5 shall not apply to the task force.
+  - **(7)** Section 14 of the Federal Advisory Committee Act shall not apply to the task force.
 - **(i)**
 - **(j)** There is authorized to be appropriated for purposes of carrying out this section, to remain available until expended, not more than $10,000,000 for each of fiscal years 1994, 1995, and 1996.

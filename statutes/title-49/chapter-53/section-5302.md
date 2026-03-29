@@ -3,17 +3,16 @@ title: "Section 5302 - Definitions"
 usc_title: 49
 usc_section: "5302"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 5302"
-generated_at: "2026-03-29T20:07:58.427Z"
+generated_at: "2026-03-29T20:35:10.764Z"
 ---
 
 # § 5302. Definitions
 
 Except as otherwise specifically provided, in this chapter the following definitions apply:
 
-  - **(1)** The term “assault on a transit worker” means a circumstance in which an individual knowingly, without lawful authority or permission, and with intent to endanger the safety of any individual, or with a reckless disregard for the safety of human life, interferes with, disables, or incapacitates a transit worker while the transit worker is performing the duties of the transit worker.
-  - **(2)** The term “associated transit improvement” means, with respect to any project or an area to be served by a project, projects that are designed to enhance public transportation service or use and that are physically or functionally related to transit facilities. Eligible projects are—
+  - **(1)** The term “associated transit improvement” means, with respect to any project or an area to be served by a project, projects that are designed to enhance public transportation service or use and that are physically or functionally related to transit facilities. Eligible projects are—
     - **(A)** historic preservation, rehabilitation, and operation of historic public transportation buildings, structures, and facilities (including historic bus and railroad facilities) intended for use in public transportation service;
     - **(B)** bus shelters;
     - **(C)** functional landscaping and streetscaping, including benches, trash receptacles, and street lights;
@@ -21,14 +20,14 @@ Except as otherwise specifically provided, in this chapter the following definit
     - **(E)** bicycle access, including bicycle storage shelters and parking facilities and the installation of equipment for transporting bicycles on public transportation vehicles;
     - **(F)** signage; or
     - **(G)** enhanced access for persons with disabilities to public transportation.
-  - **(3)** The term “bus rapid transit system” means a bus transit system—
+  - **(2)** The term “bus rapid transit system” means a bus transit system—
     - **(A)** in which the majority of each line operates in a separated right-of-way dedicated for public transportation use during peak periods; and
     - **(B)** that includes features that emulate the services provided by rail fixed guideway public transportation systems, including—
       - **(i)** defined stations;
       - **(ii)** traffic signal priority for public transportation vehicles;
       - **(iii)** short headway bidirectional services for a substantial part of weekdays and weekend days; and
       - **(iv)** any other features the Secretary may determine are necessary to produce high-quality public transportation services that emulate the services provided by rail fixed guideway public transportation systems.
-  - **(4)** The term “capital project” means a project for—
+  - **(3)** The term “capital project” means a project for—
     - **(A)** acquiring, constructing, supervising, or inspecting equipment or a facility for use in public transportation, expenses incidental to the acquisition or construction (including designing, engineering, location surveying, mapping, and acquiring rights-of-way), payments for the capital portions of rail trackage rights agreements, transit-related intelligent transportation systems, relocation assistance, acquiring replacement housing sites, and acquiring, constructing, relocating, and rehabilitating replacement housing;
     - **(B)** rehabilitating a bus;
     - **(C)** remanufacturing a bus;
@@ -41,9 +40,8 @@ Except as otherwise specifically provided, in this chapter the following definit
         - **(I)** enhances the effectiveness of public transportation and is related physically or functionally to public transportation; or
         - **(II)** establishes new or enhanced coordination between public transportation and other transportation;
       - **(iii)** provides a fair share of revenue that will be used for public transportation;
-      - **(iv)** provides that if equipment to fuel privately owned zero-emission passenger vehicles is installed, the recipient of assistance under this chapter shall collect fees from users of the equipment in order to recover the costs of construction, maintenance, and operation of the equipment;
-      - **(v)** provides that a person making an agreement to occupy space in a facility constructed under this paragraph shall pay a fair share of the costs of the facility through rental payments and other means; and
-      - **(vi)** may include—
+      - **(iv)** provides that a person making an agreement to occupy space in a facility constructed under this paragraph shall pay a fair share of the costs of the facility through rental payments and other means; and
+      - **(v)** may include—
         - **(I)** property acquisition;
         - **(II)** demolition of existing structures;
         - **(III)** site preparation;
@@ -56,9 +54,8 @@ Except as otherwise specifically provided, in this chapter the following definit
         - **(X)** open space;
         - **(XI)** safety and security equipment and facilities (including lighting, surveillance, and related intelligent transportation system applications);
         - **(XII)** facilities that incorporate community services such as daycare or health care;
-        - **(XIII)** a capital project for, and improving, equipment or a facility for an intermodal transfer facility or transportation mall;
-        - **(XIV)** construction of space for commercial uses; and
-        - **(XV)** technology to fuel a zero-emission vehicle;
+        - **(XIII)** a capital project for, and improving, equipment or a facility for an intermodal transfer facility or transportation mall; and
+        - **(XIV)** construction of space for commercial uses;
     - **(H)** the introduction of new technology, through innovative and improved products, into public transportation;
     - **(I)** the provision of nonfixed route paratransit transportation services in accordance with section 223 of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12143 ), but only for grant recipients that are in compliance with applicable requirements of that Act, including both fixed route and demand responsive service, and only for amounts—
       - **(i)** not to exceed 10 percent of such recipient’s annual formula apportionment under sections 5307 and 5311; or
@@ -75,41 +72,41 @@ Except as otherwise specifically provided, in this chapter the following definit
       - **(ii)** reconstruction of equipment and material, each of which after reconstruction will have a fair market value of at least .5 percent of the current fair market value of rolling stock comparable to the rolling stock for which the equipment and material will be used;
     - **(M)** associated transit improvements; or
     - **(N)** technological changes or innovations to modify low or no emission vehicles (as defined in section 5339(c)) or facilities.
-  - **(5)** The term “designated recipient” means—
+  - **(4)** The term “designated recipient” means—
     - **(A)** an entity designated, in accordance with the planning process under sections 5303 and 5304, by the Governor of a State, responsible local officials, and publicly owned operators of public transportation, to receive and apportion amounts under section 5336 to urbanized areas of 200,000 or more in population; or
     - **(B)** a State or regional authority, if the authority is responsible under the laws of a State for a capital project and for financing and directly providing public transportation.
-  - **(6)** The term “disability” has the same meaning as in section 3(1) of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12102 ).
-  - **(7)** The term “emergency regulation” means a regulation—
+  - **(5)** The term “disability” has the same meaning as in section 3(1) of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12102 ).
+  - **(6)** The term “emergency regulation” means a regulation—
     - **(A)** that is effective temporarily before the expiration of the otherwise specified periods of time for public notice and comment under section 5334(c); and
     - **(B)** prescribed by the Secretary as the result of a finding that a delay in the effective date of the regulation—
       - **(i)** would injure seriously an important public interest;
       - **(ii)** would frustrate substantially legislative policy and intent; or
       - **(iii)** would damage seriously a person or class without serving an important public interest.
-  - **(8)** The term “fixed guideway” means a public transportation facility—
+  - **(7)** The term “fixed guideway” means a public transportation facility—
     - **(A)** using and occupying a separate right-of-way for the exclusive use of public transportation;
     - **(B)** using rail;
     - **(C)** using a fixed catenary system;
     - **(D)** for a passenger ferry system; or
     - **(E)** for a bus rapid transit system.
-  - **(9)** The term “Governor”—
+  - **(8)** The term “Governor”—
     - **(A)** means the Governor of a State, the mayor of the District of Columbia, and the chief executive officer of a territory of the United States; and
     - **(B)** includes the designee of the Governor.
-  - **(10)**
+  - **(9)**
     - **(A)** The term “job access and reverse commute project” means a transportation project to finance planning, capital, and operating costs that support the development and maintenance of transportation services designed to transport welfare recipients and eligible low-income individuals to and from jobs and activities related to their employment, including transportation projects that facilitate the provision of public transportation services from urbanized areas and rural areas to suburban employment locations.
     - **(B)** In this paragraph:
       - **(i)** The term “eligible low-income individual” means an individual whose family income is at or below 150 percent of the poverty line (as that term is defined in section 673(2) of the Community Service Block Grant Act ( 42 U.S.C. 9902(2) ), including any revision required by that section) for a family of the size involved.
       - **(ii)** The term “welfare recipient” means an individual who has received assistance under a State or tribal program funded under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.) at any time during the 3-year period before the date on which the applicant applies for a grant under section 5307 or 5311.
-  - **(11)** The term “local governmental authority” includes—
+  - **(10)** The term “local governmental authority” includes—
     - **(A)** a political subdivision of a State;
     - **(B)** an authority of at least 1 State or political subdivision of a State;
     - **(C)** an Indian tribe; and
     - **(D)** a public corporation, board, or commission established under the laws of a State.
-  - **(12)** The term “low-income individual” means an individual whose family income is at or below 150 percent of the poverty line, as that term is defined in section 673(2) of the Community Services Block Grant Act ( 42 U.S.C. 9902(2) ), including any revision required by that section, for a family of the size involved.
-  - **(13)** The term “net project cost” means the part of a project that reasonably cannot be financed from revenues.
-  - **(14)** The term “new bus model” means a bus model (including a model using alternative fuel)—
+  - **(11)** The term “low-income individual” means an individual whose family income is at or below 150 percent of the poverty line, as that term is defined in section 673(2) of the Community Services Block Grant Act ( 42 U.S.C. 9902(2) ), including any revision required by that section, for a family of the size involved.
+  - **(12)** The term “net project cost” means the part of a project that reasonably cannot be financed from revenues.
+  - **(13)** The term “new bus model” means a bus model (including a model using alternative fuel)—
     - **(A)** that has not been used in public transportation in the United States before the date of production of the model; or
     - **(B)** used in public transportation in the United States, but being produced with a major change in configuration or components.
-  - **(15)** The term “public transportation”—
+  - **(14)** The term “public transportation”—
     - **(A)** means regular, continuing shared-ride surface transportation services that are open to the general public or open to a segment of the general public defined by age, disability, or low income; and
     - **(B)** does not include—
       - **(i)** intercity passenger rail transportation provided by the entity described in chapter 243 (or a successor to such entity);
@@ -119,13 +116,13 @@ Except as otherwise specifically provided, in this chapter the following definit
       - **(v)** sightseeing service;
       - **(vi)** courtesy shuttle service for patrons of one or more specific establishments; or
       - **(vii)** intra-terminal or intra-facility shuttle services.
-  - **(16)** The term “regulation” means any part of a statement of general or particular applicability of the Secretary designed to carry out, interpret, or prescribe law or policy in carrying out this chapter.
-  - **(17)** The term “rural area” means an area encompassing a population of less than 50,000 people that has not been designated in the most recent decennial census as an “urbanized area” by the Secretary of Commerce.
-  - **(18)** The term “Secretary” means the Secretary of Transportation.
-  - **(19)** The term “senior” means an individual who is 65 years of age or older.
-  - **(20)** The term “State” means a State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the Virgin Islands.
-  - **(21)** The term “state of good repair” has the meaning given that term by the Secretary, by rule, under section 5326(b).
-  - **(22)** The term “transit” means public transportation.
-  - **(23)** The term “urban area” means an area that includes a municipality or other built-up place that the Secretary, after considering local patterns and trends of urban growth, decides is appropriate for a local public transportation system to serve individuals in the locality.
-  - **(24)** The term “urbanized area” means an area encompassing a population of not less than 50,000 people that has been defined and designated in the most recent decennial census as an “urbanized area” by the Secretary of Commerce.
-  - **(25)** The term “value capture” means recovering the increased property value to property located near public transportation resulting from investments in public transportation.
+  - **(15)** The term “regulation” means any part of a statement of general or particular applicability of the Secretary designed to carry out, interpret, or prescribe law or policy in carrying out this chapter.
+  - **(16)** The term “rural area” means an area encompassing a population of less than 50,000 people that has not been designated in the most recent decennial census as an “urbanized area” by the Secretary of Commerce.
+  - **(17)** The term “Secretary” means the Secretary of Transportation.
+  - **(18)** The term “senior” means an individual who is 65 years of age or older.
+  - **(19)** The term “State” means a State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the Virgin Islands.
+  - **(20)** The term “state of good repair” has the meaning given that term by the Secretary, by rule, under section 5326(b).
+  - **(21)** The term “transit” means public transportation.
+  - **(22)** The term “urban area” means an area that includes a municipality or other built-up place that the Secretary, after considering local patterns and trends of urban growth, decides is appropriate for a local public transportation system to serve individuals in the locality.
+  - **(23)** The term “urbanized area” means an area encompassing a population of not less than 50,000 people that has been defined and designated in the most recent decennial census as an “urbanized area” by the Secretary of Commerce.
+  - **(24)** The term “value capture” means recovering the increased property value to property located near public transportation resulting from investments in public transportation.

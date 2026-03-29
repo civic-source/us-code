@@ -3,21 +3,17 @@ title: "Section 105 - Subject matter of copyright: United States Government work
 usc_title: 17
 usc_section: "105"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "17 U.S.C. § 105"
-generated_at: "2026-03-29T20:04:03.100Z"
+generated_at: "2026-03-29T20:32:22.711Z"
 ---
 
 # § 105. Subject matter of copyright: United States Government works
 
 - **(a)** Copyright protection under this title is not available for any work of the United States Government, but the United States Government is not precluded from receiving and holding copyrights transferred to it by assignment, bequest, or otherwise.
-- **(b)** Subject to subsection (c), the covered author of a covered work owns the copyright to that covered work.
-- **(c)**
-  - **(1)** With respect to a covered author who produces a covered work in the course of employment at a covered institution described in subparagraphs (A) through (L) of subsection (d)(2) and subparagraph (M) of such subsection when the Coast Guard is operating as a service in the Navy, the Secretary of Defense may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, worldwide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
-  - **(2)** With respect to a covered author who produces a covered work in the course of employment at the covered institution described in subsection (d)(2)(M), the Secretary of the Department in which the Coast Guard is operating when it is not operating as a service in the Navy may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, worldwide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
-  - **(3)** With respect to a covered author who produces a covered work in the course of employment at the covered institution described in subsection (d)(2)(N), the Director of National Intelligence may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, worldwide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
-  - **(4)** With respect to a covered author who produces a covered work in the course of employment at the covered institution described in subsection (d)(2)(O), the Secretary of Transportation may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, worldwide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
-- **(d)** In this section:
+- **(b)** Subject to subsection (c), 2 2 So in original. There are two subsecs. designated (c). the covered author of a covered work owns the copyright to that covered work.
+- **(c)** The Secretary of Defense may direct the covered author of a covered work to provide the Federal Government with an irrevocable, royalty-free, world-wide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
+- **(c)** In this section:
   - **(1)** The term “covered author” means a civilian member of the faculty of a covered institution.
   - **(2)** The term “covered institution” means the following:
     - **(A)** National Defense University.
@@ -26,13 +22,10 @@ generated_at: "2026-03-29T20:04:03.100Z"
     - **(D)** United States Army Command and General Staff College.
     - **(E)** United States Naval Academy.
     - **(F)** Naval War College.
-    - **(G)** Naval Postgraduate School.
+    - **(G)** Naval Post Graduate School.
     - **(H)** Marine Corps University.
     - **(I)** United States Air Force Academy.
     - **(J)** Air University.
     - **(K)** Defense Language Institute.
-    - **(L)** Uniformed Services University of the Health Sciences.
-    - **(M)** United States Coast Guard Academy.
-    - **(N)** National Intelligence University.
-    - **(O)** United States Merchant Marine Academy.
+    - **(L)** United States Coast Guard Academy.
   - **(3)** The term “covered work” means a literary work produced by a covered author in the course of employment at a covered institution for publication by a scholarly press or journal.

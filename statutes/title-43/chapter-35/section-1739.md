@@ -3,14 +3,14 @@ title: "Section 1739 - Advisory councils"
 usc_title: 43
 usc_section: "1739"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "43 U.S.C. § 1739"
-generated_at: "2026-03-29T20:06:00.091Z"
+generated_at: "2026-03-29T20:34:16.792Z"
 ---
 
 # § 1739. Advisory councils
 
-- **(a)** The Secretary shall establish advisory councils of not less than ten and not more than fifteen members appointed by him from among persons who are representative of the various major citizens’ interests concerning the problems relating to land use planning or the management of the public lands located within the area for which an advisory council is established. At least one member of each council shall be an elected official of general purpose government serving the people of such area. To the extent practicable there shall be no overlap or duplication of such councils. Appointments shall be made in accordance with rules prescribed by the Secretary. The establishment and operation of an advisory council established under this section shall conform to the requirements of chapter 10 of title 5.
+- **(a)** The Secretary shall establish advisory councils of not less than ten and not more than fifteen members appointed by him from among persons who are representative of the various major citizens’ interests concerning the problems relating to land use planning or the management of the public lands located within the area for which an advisory council is established. At least one member of each council shall be an elected official of general purpose government serving the people of such area. To the extent practicable there shall be no overlap or duplication of such councils. Appointments shall be made in accordance with rules prescribed by the Secretary. The establishment and operation of an advisory council established under this section shall conform to the requirements of the Federal Advisory Committee Act ( 86 Stat. 770 ).
 - **(b)** Notwithstanding the provisions of subsection (a) of this section, each advisory council established by the Secretary under this section shall meet at least once a year with such meetings being called by the Secretary.
 - **(c)** Members of advisory councils shall serve without pay, except travel and per diem will be paid each member for meetings called by the Secretary.
 - **(d)** An advisory council may furnish advice to the Secretary with respect to the land use planning, classification, retention, management, and disposal of the public lands within the area for which the advisory council is established and such other matters as may be referred to it by the Secretary.

@@ -3,9 +3,9 @@ title: "Section 3511 - Certified professional employer organizations"
 usc_title: 26
 usc_section: "3511"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 3511"
-generated_at: "2026-03-29T20:05:22.580Z"
+generated_at: "2026-03-29T20:33:27.201Z"
 ---
 
 # § 3511. Certified professional employer organizations
@@ -32,10 +32,9 @@ generated_at: "2026-03-29T20:05:22.580Z"
     - **(C)** section 45B (credit for portion of employer social security taxes paid with respect to employee cash tips),
     - **(D)** section 45C (clinical testing expenses for certain drugs for rare diseases or conditions),
     - **(E)** section 45R (employee health insurance expenses of small employers),
-    - **(F)** section 45AA (military spouse retirement plan eligibility credit),
-    - **(G)** section 51 (work opportunity credit),
-    - **(H)** section 1396 (empowerment zone employment credit), and
-    - **(I)** any other section as provided by the Secretary.
+    - **(F)** section 51 (work opportunity credit),
+    - **(G)** section 1396 (empowerment zone employment credit), and
+    - **(H)** any other section as provided by the Secretary.
 - **(e)** This section shall not apply in the case of a customer which bears a relationship to a certified professional employer organization described in section 267(b) or 707(b). For purposes of the preceding sentence, such sections shall be applied by substituting “10 percent” for “50 percent”.
 - **(f)** For purposes of the taxes imposed under this subtitle, an individual with net earnings from self-employment derived from the customer’s trade or business (including a partner in a partnership that is a customer) is not a work site employee with respect to remuneration paid by a certified professional employer organization.
 - **(g)** The Secretary shall develop such reporting and recordkeeping rules, regulations, and procedures as the Secretary determines necessary or appropriate to ensure compliance with this title by certified professional employer organizations or persons that have been so certified. Such rules shall include—

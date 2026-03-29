@@ -3,9 +3,9 @@ title: "Section 1636 - Alaska land bank"
 usc_title: 43
 usc_section: "1636"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "43 U.S.C. § 1636"
-generated_at: "2026-03-29T20:06:00.082Z"
+generated_at: "2026-03-29T20:34:16.783Z"
 ---
 
 # § 1636. Alaska land bank
@@ -53,7 +53,7 @@ generated_at: "2026-03-29T20:06:00.082Z"
       - **(iii)** land subdivided by a State or local platting authority on the basis of a subdivision plat submitted by the holder of the land or its agent, shall be considered developed on the date an approved subdivision plat is recorded by such holder or agent unless the subdivided property is a remainder parcel; and
       - **(iv)** lands or interest in lands shall not be considered developed or leased or sold to a third party as a result of an exchange or conveyance of such land or interest in land between or among Native Corporations and trusts, partnerships, corporations, or joint ventures, whose beneficiaries, partners, shareholders, or joint venturers are Native Corporations.
   - **(3)**
-    - **(A)** Except as provided in this paragraph and in section 14(c)(3) 4 4 See References in Text note below. of the Alaska Native Claims Settlement Act no trustee, receiver, or custodian vested pursuant to applicable Federal or State law with a right, title, or interest of a Native individual or Native Corporation shall—
+    - **(A)** Except as provided in this paragraph and in section 14(c)(3) of the Alaska Native Claims Settlement Act [ 43 U.S.C. 1613(c)(3) ] no trustee, receiver, or custodian vested pursuant to applicable Federal or State law with a right, title, or interest of a Native individual or Native Corporation shall—
       - **(i)** assign or lease to a third party,
       - **(ii)** commence development or use of, or
       - **(iii)** convey to a third party,

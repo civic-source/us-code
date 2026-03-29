@@ -3,9 +3,9 @@ title: "Section 172 - Federal Mediation and Conciliation Service"
 usc_title: 29
 usc_section: "172"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "29 U.S.C. § 172"
-generated_at: "2026-03-29T20:05:03.622Z"
+generated_at: "2026-03-29T20:33:05.653Z"
 ---
 
 # § 172. Federal Mediation and Conciliation Service

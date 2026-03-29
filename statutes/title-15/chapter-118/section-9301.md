@@ -3,9 +3,9 @@ title: "Section 9301 - National coordinating entity for sustainable chemistry"
 usc_title: 15
 usc_section: "9301"
 chapter: 118
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 9301"
-generated_at: "2026-03-29T20:03:27.736Z"
+generated_at: "2026-03-29T20:32:10.135Z"
 ---
 
 # § 9301. National coordinating entity for sustainable chemistry

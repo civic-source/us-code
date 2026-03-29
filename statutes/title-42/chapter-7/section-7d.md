@@ -3,9 +3,9 @@ title: "Section 7d - Guidance regarding application of health care fraud and abu
 usc_title: 42
 usc_section: "7d"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 7d"
-generated_at: "2026-03-29T20:07:43.537Z"
+generated_at: "2026-03-29T20:34:52.990Z"
 ---
 
 # § 1320a–7d. Guidance regarding application of health care fraud and abuse sanctions
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T20:07:43.537Z"
       - **(iii)** advisory opinions to be issued pursuant to subsection (b); and
       - **(iv)** special fraud alerts to be issued pursuant to subsection (c).
     - **(B)** After considering the proposals described in clauses (i) and (ii) of subparagraph (A), the Secretary, in consultation with the Attorney General, shall publish in the Federal Register proposed modifications to existing safe harbors and proposed additional safe harbors, if appropriate, with a 60-day comment period. After considering any public comments received during this period, the Secretary shall issue final rules modifying the existing safe harbors and establishing new safe harbors, as appropriate.
-    - **(C)** The Inspector General of the Department of Health and Human Services (in this section referred to as the “Inspector General”) shall, in an annual report to Congress or as part of the year-end semiannual report required by section 405 of title 5 , describe the proposals received under clauses (i) and (ii) of subparagraph (A) and explain which proposals were included in the publication described in subparagraph (B), which proposals were not included in that publication, and the reasons for the rejection of the proposals that were not included.
+    - **(C)** The Inspector General of the Department of Health and Human Services (in this section referred to as the “Inspector General”) shall, in an annual report to Congress or as part of the year-end semiannual report required by section 5 of the Inspector General Act of 1978 (5 U.S.C. App.), describe the proposals received under clauses (i) and (ii) of subparagraph (A) and explain which proposals were included in the publication described in subparagraph (B), which proposals were not included in that publication, and the reasons for the rejection of the proposals that were not included.
   - **(2)** In modifying and establishing safe harbors under paragraph (1)(B), the Secretary may consider the extent to which providing a safe harbor for the specified payment practice may result in any of the following:
     - **(A)** An increase or decrease in access to health care services.
     - **(B)** An increase or decrease in the quality of health care services.
@@ -31,9 +31,6 @@ generated_at: "2026-03-29T20:07:43.537Z"
       - **(i)** whether to order a health care item or service; or
       - **(ii)** whether to arrange for a referral of health care items or services to a particular practitioner or provider.
     - **(I)** Any other factors the Secretary deems appropriate in the interest of preventing fraud and abuse in Federal health care programs (as so defined).
-  - **(3)**
-    - **(A)** Not later than one year after December 29, 2022 , the Inspector General shall conduct a review on whether to establish a safe harbor described in paragraph (1)(A)(ii) for evidence-based contingency management incentives and the parameters for such a safe harbor. In conducting the review under the previous sentence, the Inspector General shall consider the extent to which providing such a safe harbor for evidence-based contingency management incentives may result in any of the factors described in paragraph (2).
-    - **(B)** Not later than two years after December 29, 2022 , the Secretary and the Inspector General shall submit to Congress recommendations, including based on the review conducted under subparagraph (A), for improving access to evidence-based contingency management interventions while ensuring quality of care, ensuring fidelity to evidence-based practices, and including strong program integrity safeguards that prevent increased waste, fraud, and abuse and prevent medically unnecessary or inappropriate items or services reimbursed in whole or in part by a Federal health care program.
 - **(b)**
   - **(1)** The Secretary, in consultation with the Attorney General, shall issue written advisory opinions as provided in this subsection.
   - **(2)** The Secretary shall issue advisory opinions as to the following matters:

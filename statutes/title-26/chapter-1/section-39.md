@@ -3,9 +3,9 @@ title: "Section 39 - Carryback and carryforward of unused credits"
 usc_title: 26
 usc_section: "39"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 39"
-generated_at: "2026-03-29T20:05:22.124Z"
+generated_at: "2026-03-29T20:33:26.771Z"
 ---
 
 # § 39. Carryback and carryforward of unused credits
@@ -23,12 +23,6 @@ generated_at: "2026-03-29T20:05:22.124Z"
     - **(C)** paragraph (2) shall be applied—
       - **(i)** by substituting “25 taxable years” for “21 taxable years” in subparagraph (A) thereof, and
       - **(ii)** by substituting “24 taxable years” for “20 taxable years” in subparagraph (B) thereof.
-  - **(4)** Notwithstanding subsection (d), in the case of any applicable credit (as defined in section 6417(b))—
-    - **(A)** this section shall be applied separately from the business credit (other than the applicable credit),
-    - **(B)** paragraph (1) shall be applied by substituting “each of the 3 taxable years” for “the taxable year” in subparagraph (A) thereof, and
-    - **(C)** paragraph (2) shall be applied—
-      - **(i)** by substituting “23 taxable years” for “21 taxable years” in subparagraph (A) thereof, and
-      - **(ii)** by substituting “22 taxable years” for “20 taxable years” in subparagraph (B) thereof.
 - **(b)** The amount of the unused credit which may be taken into account under section 38(a)(3) for any preceding taxable year shall not exceed the amount by which the limitation imposed by section 38(c) for such taxable year exceeds the sum of—
   - **(1)** the amounts determined under paragraphs (1) and (2) of section 38(a) for such taxable year, plus
   - **(2)** the amounts which (by reason of this section) are carried back to such taxable year and are attributable to taxable years preceding the unused credit year.

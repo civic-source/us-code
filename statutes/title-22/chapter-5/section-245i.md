@@ -3,9 +3,9 @@ title: "Section 245i - Repealed. Joint Res. Nov. 4, 1939, ch. 2, § 19 , 54 Stat
 usc_title: 22
 usc_section: "245i"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 245i"
-generated_at: "2026-03-29T20:04:46.630Z"
+generated_at: "2026-03-29T20:32:59.843Z"
 ---
 
 # §§ 245a to 245i. Repealed. Joint Res. Nov. 4, 1939, ch. 2, § 19 , 54 Stat. 12

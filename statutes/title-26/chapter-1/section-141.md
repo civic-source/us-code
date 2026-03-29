@@ -3,9 +3,9 @@ title: "Section 141 - Private activity bond; qualified bond"
 usc_title: 26
 usc_section: "141"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 141"
-generated_at: "2026-03-29T20:05:22.210Z"
+generated_at: "2026-03-29T20:33:26.836Z"
 ---
 
 # § 141. Private activity bond; qualified bond
@@ -41,7 +41,6 @@ generated_at: "2026-03-29T20:05:22.210Z"
   - **(6)**
     - **(A)** For purposes of this subsection, the term “private business use” means use (directly or indirectly) in a trade or business carried on by any person other than a governmental unit. For purposes of the preceding sentence, use as a member of the general public shall not be taken into account.
     - **(B)** For purposes of the 1st sentence of subparagraph (A), any activity carried on by a person other than a natural person shall be treated as a trade or business.
-    - **(C)** For purposes of this subsection, the sale of carbon dioxide produced by a qualified carbon dioxide capture facility (as defined in section 142( o )) which is owned by a governmental unit shall not constitute private business use.
   - **(7)** The term “government use” means any use other than a private business use.
   - **(8)** For purposes of this subsection, the term “nonqualified amount” means, with respect to an issue, the lesser of—
     - **(A)** the proceeds of such issue which are to be used for any private business use, or

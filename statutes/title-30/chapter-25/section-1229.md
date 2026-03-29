@@ -3,9 +3,9 @@ title: "Section 1229 - Committee on Mining and Mineral Resources Research"
 usc_title: 30
 usc_section: "1229"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "30 U.S.C. § 1229"
-generated_at: "2026-03-29T20:05:08.732Z"
+generated_at: "2026-03-29T20:33:07.408Z"
 ---
 
 # § 1229. Committee on Mining and Mineral Resources Research
@@ -22,4 +22,4 @@ generated_at: "2026-03-29T20:05:08.732Z"
 - **(c)** Committee members, other than officers or employees of Federal, State, or local governments, shall be, for each day (including traveltime) during which they are performing Committee business, paid at a rate fixed by the Secretary but not 1 1 So in original. Probably should be followed by “in”. excess of the daily equivalent of the maximum rate of pay for grade GS–18 of the General Schedule under section 5332 of title 5 , and shall be fully reimbursed for travel, subsistence, and related expenses.
 - **(d)** The Committee shall be jointly chaired by the Assistant Secretary of the Interior responsible for minerals and mining and a person to be elected by the Committee from among the members referred to in paragraphs (5), (6), and (7) of subsection (a) of this section.
 - **(e)** The Committee shall develop a national plan for research in mining and mineral resources, considering ongoing efforts in the universities, the Federal Government, and the private sector, and shall formulate and recommend a program to implement the plan utilizing resources provided for under this subchapter. The Committee shall submit such plan to the Secretary, the President, and the Congress on or before March 1, 1986 , and shall submit an annual update of such plan by January 15 of each calendar year.
-- **(f)** Section 1009 of title 5 shall not apply to the Committee.
+- **(f)** Section 10 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Committee.

@@ -3,9 +3,9 @@ title: "Section 3302 - Committee on Levee Safety"
 usc_title: 33
 usc_section: "3302"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "33 U.S.C. § 3302"
-generated_at: "2026-03-29T20:05:35.872Z"
+generated_at: "2026-03-29T20:33:34.330Z"
 ---
 
 # § 3302. Committee on Levee Safety
@@ -44,4 +44,4 @@ generated_at: "2026-03-29T20:05:35.872Z"
     - **(B)** shall be allowed a per diem allowance for travel expenses, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, while away from the home or regular place of business of the member in the performance of the duties of the committee.
   - **(2)** To the extent amounts are made available to carry out this section in appropriations Acts, the Secretary shall provide to each member of the committee who is not an officer or employee of the United States a stipend and a per diem allowance for travel expenses, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, while away from the home or regular place of business of the member in performance of services for the committee.
   - **(3)** Each member of a standing committee shall serve in a voluntary capacity.
-- **(h)** Chapter 10 of title 5 shall not apply to the committee.
+- **(h)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the committee.

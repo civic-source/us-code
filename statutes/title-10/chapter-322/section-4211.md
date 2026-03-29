@@ -3,31 +3,36 @@ title: "Section 4211 - Acquisition strategy"
 usc_title: 10
 usc_section: "4211"
 chapter: 322
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 4211"
-generated_at: "2026-03-29T20:03:09.782Z"
+generated_at: "2026-03-29T20:31:54.690Z"
 ---
 
 # § 4211. Acquisition strategy
 
-- **(a)** There shall be an acquisition strategy for each major defense acquisition program and each major system approved by a decision authority.
-- **(b)** For each acquisition strategy required by subsection (a), the Under Secretary of Defense for Acquisition and Sustainment, or the decision authority, when the decision authority is the service acquisition executive of the military department that is managing the program, is responsible for issuing and maintaining the requirements for—
+- **(a)** There shall be an acquisition strategy for each major defense acquisition program, each major automated information system, and each major system approved by a milestone decision authority.
+- **(b)** For each acquisition strategy required by subsection (a), the Under Secretary of Defense for Acquisition and Sustainment, or the milestone decision authority, when the milestone decision authority is the service acquisition executive of the military department that is managing the program, is responsible for issuing and maintaining the requirements for—
   - **(1)** the content of the strategy; and
   - **(2)** the review and approval process for the strategy.
 - **(c)**
-  - **(1)** In issuing requirements for the content of an acquisition strategy for a major defense acquisition program or major system, the Under Secretary, or the decision authority, when the decision authority is the service acquisition executive of the military department that is managing the program, shall ensure that—
-    - **(A)** the strategy clearly describes the proposed business case and capability management approach for the program or system, and to the maximum extent practicable, describes how capability requirements will be met through delivery of such program or system;
-    - **(B)** the strategy contains a clear explanation of the resources, such as time, funding, and management capacity, necessary to meet capability requirements;
+  - **(1)** In issuing requirements for the content of an acquisition strategy for a major defense acquisition program, major automated information system, or major system, the Under Secretary, or the milestone decision authority, when the milestone decision authority is the service acquisition executive of the military department that is managing the program, shall ensure that—
+    - **(A)** the strategy clearly describes the proposed top-level business and technical management approach for the program or system, in sufficient detail to allow the milestone decision authority to assess the viability of the proposed approach, the method of implementing laws and policies, and program objectives;
+    - **(B)** the strategy contains a clear explanation of how the strategy is designed to be implemented with available resources, such as time, funding, and management capacity;
     - **(C)** the strategy is tailored to address program requirements and constraints; and
     - **(D)** the strategy considers the items listed in paragraph (2).
   - **(2)** Each strategy shall, where appropriate, consider the following:
-    - **(A)** An approach that delivers required capabilities in increments, each depending on available mature technology, and that recognizes up front the need for future capability improvements or transitions to alternative end items through use of continuous competition.
-    - **(B)** Requirements related to logistics, maintenance, and sustainment in accordance with sections 2464 and 2466 of this title, and the acquisition of technical data, computer software, and associated licenses, to enable such requirements in accordance with sections 3771 through 3775 of this title.
-    - **(C)** A process for collaborative interaction and market research with the science and technology community, including Department of Defense science and technology reinvention laboratories, government innovation cells, academia, small businesses, nontraditional defense contractors, and other contractors.
-    - **(D)** Identification of enterprise-wide designs and standards in support of an architecture that provides for an integrated suite of capabilities that focuses on simplicity of implementation and speed of delivery.
-    - **(E)** Overarching roadmaps that create integrated strategic schedules of legacy systems and new capabilities.
-    - **(F)** A contracting strategy that develops long-term partnerships with multiple companies to actively contribute to architectures, development, production, and sustainment across the capabilities to be developed by decomposing large systems into smaller sets of projects across time and technical component.
-    - **(G)** An assignment of roles and responsibilities of key personnel of the acquisition workforce, identification of external stakeholder dependencies, and the need for subject matter expert inputs at critical points in the program, including the need for special hiring authority or advisory and assistance services, in order to deliver the desired capabilities.
-    - **(H)** A process of testing and experimentation with the test community and end users to ensure continuous user feedback, acceptance, and development of concepts of operations.
-- **(d)** The decision authority shall review and approve, as appropriate, the acquisition strategy for a major defense acquisition program or major system prior to the acquisition decision memorandum and ensure that the strategy is updated at regular intervals to incorporate significant changes to program requirements, resourcing, or acquisition decisions.
-- **(e)** In this section, the term “decision authority”, with respect to a major defense acquisition program or major system, means the official within the Department of Defense designated with the overall responsibility and authority for acquisition decisions for the program or system, including authority to approve entry of the program or system into the next phase of the acquisition process.
+    - **(A)** An approach that delivers required capability in increments, each depending on available mature technology, and that recognizes up front the need for future capability improvements.
+    - **(B)** Acquisition approach, including industrial base considerations in accordance with paragraph (3).
+    - **(C)** Risk management, including such methods as competitive prototyping at the system, subsystem, or component level.
+    - **(D)** Business strategy, including measures to ensure competition at the system and subsystem level throughout the life-cycle of the program or system in accordance with section 4324 of this title .
+    - **(E)** Contracting strategy, including—
+      - **(i)** contract type and how the type selected relates to level of program risk in each acquisition phase;
+      - **(ii)** how the plans for the program or system to reduce risk enable the use of fixed-price elements in subsequent contracts and the timing of the use of those fixed price elements;
+      - **(iii)** market research; and
+      - **(iv)** consideration of small business participation.
+    - **(F)** Intellectual property strategy in accordance with sections 3771 through 3775 of this title.
+    - **(G)** International involvement, including foreign military sales and cooperative opportunities, in accordance with section 2350a of this title .
+    - **(H)** Multiyear procurement in accordance with sections 3501 through 3511 of this title.
+    - **(I)** Integration of current intelligence assessments into the acquisition process.
+    - **(J)** Requirements related to logistics, maintenance, and sustainment in accordance with sections 2464 and 2466 of this title.
+  - **(3)**

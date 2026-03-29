@@ -3,9 +3,9 @@ title: "Section 5506 - Water policy with respect to agrichemicals"
 usc_title: 7
 usc_section: "5506"
 chapter: 86
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 5506"
-generated_at: "2026-03-29T20:02:52.722Z"
+generated_at: "2026-03-29T20:31:42.166Z"
 ---
 
 # § 5506. Water policy with respect to agrichemicals

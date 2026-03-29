@@ -3,16 +3,16 @@ title: "Section 20109 - Employee protections"
 usc_title: 49
 usc_section: "20109"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 20109"
-generated_at: "2026-03-29T20:07:58.489Z"
+generated_at: "2026-03-29T20:35:10.812Z"
 ---
 
 # § 20109. Employee protections
 
 - **(a)** A railroad carrier engaged in interstate or foreign commerce, a contractor or a subcontractor of such a railroad carrier, or an officer or employee of such a railroad carrier, may not discharge, demote, suspend, reprimand, or in any other way discriminate against an employee if such discrimination is due, in whole or in part, to the employee’s lawful, good faith act done, or perceived by the employer to have been done or about to be done—
   - **(1)** to provide information, directly cause information to be provided, or otherwise directly assist in any investigation regarding any conduct which the employee reasonably believes constitutes a violation of any Federal law, rule, or regulation relating to railroad safety or security, or gross fraud, waste, or abuse of Federal grants or other public funds intended to be used for railroad safety or security, if the information or assistance is provided to or an investigation stemming from the provided information is conducted by—
-    - **(A)** a Federal, State, or local regulatory or law enforcement agency (including an office of the Inspector General under chapter 4 of title 5; 1 1 So in original. A closing parenthesis probably should precede the semicolon.
+    - **(A)** a Federal, State, or local regulatory or law enforcement agency (including an office of the Inspector General under the Inspector General Act of 1978 (5 U.S.C. App.; Public Law 95–452 );
     - **(B)** any Member of Congress, any committee of Congress, or the Government Accountability Office; or
     - **(C)** a person with supervisory authority over the employee or such other person who has the authority to investigate, discover, or terminate the misconduct;
   - **(2)** to refuse to violate or assist in the violation of any Federal law, rule, or regulation relating to railroad safety or security;
@@ -40,12 +40,12 @@ generated_at: "2026-03-29T20:07:58.489Z"
   - **(1)** An employee who alleges discharge, discipline, or other discrimination in violation of subsection (a), (b), or (c) of this section, may seek relief in accordance with the provisions of this section, with any petition or other request for relief under this section to be initiated by filing a complaint with the Secretary of Labor.
   - **(2)**
     - **(A)** Any action under paragraph (1) shall be governed under the rules and procedures set forth in section 42121(b), including:
-      - **(i)** Any action brought under (d)(1) 2 2 So in original. Probably should be preceded by “subsection”. shall be governed by the legal burdens of proof set forth in section 42121(b).
+      - **(i)** Any action brought under (d)(1) 1 1 So in original. Probably should be preceded by “subsection”. shall be governed by the legal burdens of proof set forth in section 42121(b).
       - **(ii)** An action under paragraph (1) shall be commenced not later than 180 days after the date on which the alleged violation of subsection (a), (b), or (c) of this section occurs.
-      - **(iii)** If a person fails to comply with an order issued by the Secretary of Labor pursuant to the procedures in section 42121(b), the Secretary of Labor may bring a civil action to enforce the order in the district court of the United States for the judicial district in which the violation occurred, as set forth in 42121. 3 3 So in original. Probably should be preceded by “section”.
+      - **(iii)** If a person fails to comply with an order issued by the Secretary of Labor pursuant to the procedures in section 42121(b), the Secretary of Labor may bring a civil action to enforce the order in the district court of the United States for the judicial district in which the violation occurred, as set forth in 42121. 2 2 So in original. Probably should be preceded by “section”.
     - **(B)** Notification made under section 42121(b)(1) shall be made to the person named in the complaint and the person’s employer.
   - **(3)** With respect to a complaint under paragraph (1), if the Secretary of Labor has not issued a final decision within 210 days after the filing of the complaint and if the delay is not due to the bad faith of the employee, the employee may bring an original action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the request of either party to such action, be tried by the court with a jury.
-  - **(4)** Any person adversely affected or aggrieved by an order issued pursuant to the procedures in section 42121(b), 4 4 So in original. The comma probably should not appear. may obtain review of the order in the United States court of appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation. The petition for review must be filed not later than 60 days after the date of the issuance of the final order of the Secretary of Labor. The review shall conform to chapter 7 of title 5. The commencement of proceedings under this paragraph shall not, unless ordered by the court, operate as a stay of the order.
+  - **(4)** Any person adversely affected or aggrieved by an order issued pursuant to the procedures in section 42121(b), 3 3 So in original. The comma probably should not appear. may obtain review of the order in the United States court of appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation. The petition for review must be filed not later than 60 days after the date of the issuance of the final order of the Secretary of Labor. The review shall conform to chapter 7 of title 5. The commencement of proceedings under this paragraph shall not, unless ordered by the court, operate as a stay of the order.
 - **(e)**
   - **(1)** An employee prevailing in any action under subsection (d) shall be entitled to all relief necessary to make the employee whole.
   - **(2)** Relief in an action under subsection (d) (including an action described in subsection (d)(3)) shall include—

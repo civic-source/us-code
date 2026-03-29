@@ -3,9 +3,9 @@ title: "Section 6571 - Federal regulations"
 usc_title: 20
 usc_section: "6571"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "20 U.S.C. § 6571"
-generated_at: "2026-03-29T20:04:33.065Z"
+generated_at: "2026-03-29T20:32:28.976Z"
 ---
 
 # § 6571. Federal regulations
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T20:04:33.065Z"
     - **(B)** select individuals to participate in such process from among individuals or groups that provided advice and recommendations, including representation from all geographic regions of the United States, in such numbers as will provide an equitable balance between representatives of parents and students and representatives of educators and education officials; and
     - **(C)** prepare a draft of proposed policy options that shall be provided to the individuals selected by the Secretary under subparagraph (B) not less than 15 days before the first meeting under such process.
   - **(4)** Such process—
-    - **(A)** shall not be subject to chapter 10 of title 5; and
+    - **(A)** shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.); and
     - **(B)** shall, unless otherwise provided as described in subsection (c), follow the provisions of subchapter III of chapter 5 of title V 1 1 So in original. Probably should be “5”. (commonly known as the “Negotiated Rulemaking Act of 1990”).
 - **(c)** If consensus, as defined in section 562 of title 5 , on any proposed regulation is not reached by the individuals selected under subsection (b)(3)(B) for the negotiated rulemaking process, or if the Secretary determines that a negotiated rulemaking process is unnecessary, the Secretary may propose a regulation in the following manner:
   - **(1)** Not less than 15 business days prior to issuing a notice of proposed rulemaking in the Federal Register, the Secretary shall provide to the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Education and the Workforce of the House of Representatives, and other relevant congressional committees, notice of the Secretary’s intent to issue a notice of proposed rulemaking that shall include—

@@ -3,9 +3,9 @@ title: "Section 1784a - Education and training opportunities for military spouse
 usc_title: 10
 usc_section: "1784a"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 1784a"
-generated_at: "2026-03-29T20:03:09.631Z"
+generated_at: "2026-03-29T20:31:54.546Z"
 ---
 
 # § 1784a. Education and training opportunities for military spouses to expand employment and portable career opportunities
@@ -21,8 +21,5 @@ generated_at: "2026-03-29T20:03:09.631Z"
 - **(c)** Subsection (b) does not include—
   - **(1)** a person who is married to, but legally separated from, a member of the armed forces under court order or statute of any State or territorial possession of the United States; and
   - **(2)** a spouse of a member of the armed forces who is also a member of the armed forces.
-- **(d)** In carrying out the programs authorized by subsection (a), the Secretary shall provide assistance to the spouse of a member of the armed forces described in subsection (b) with obtaining certification—
-  - **(1)** as a doula or International Board Certified Lactation Consultant; and
-  - **(2)** provided by an organization that receives reimbursement under the extramedical maternal health providers demonstration project required by section 746 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ( Public Law 116–283 ; 10 U.S.C. 1073 note).
-- **(e)** In this section, the term “portable career” includes an occupation identified by the Secretary of Defense, in consultation with the Secretary of Labor, as requiring education and training that results in a credential that is recognized nationwide by industry or specific businesses.
-- **(f)** The Secretary of Defense shall prescribe regulations to govern the availability and use of assistance under this section. The Secretary shall ensure that programs established under this section do not result in inequitable treatment for spouses of members of the armed forces who are also members, since they are excluded from participation in the programs under subsection (c)(2).
+- **(d)** In this section, the term “portable career” includes an occupation identified by the Secretary of Defense, in consultation with the Secretary of Labor, as requiring education and training that results in a credential that is recognized nationwide by industry or specific businesses.
+- **(e)** The Secretary of Defense shall prescribe regulations to govern the availability and use of assistance under this section. The Secretary shall ensure that programs established under this section do not result in inequitable treatment for spouses of members of the armed forces who are also members, since they are excluded from participation in the programs under subsection (c)(2).

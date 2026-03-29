@@ -3,9 +3,9 @@ title: "Section 1554a - Review of separation with disability rating of 20 percen
 usc_title: 10
 usc_section: "1554a"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 1554a"
-generated_at: "2026-03-29T20:03:09.611Z"
+generated_at: "2026-03-29T20:31:54.530Z"
 ---
 
 # § 1554a. Review of separation with disability rating of 20 percent disabled or less
@@ -36,5 +36,5 @@ generated_at: "2026-03-29T20:03:09.611Z"
   - **(3)** The regulations under paragraph (1) shall specify the effect of a determination or pending determination of a Physical Evaluation Board on considerations by boards for correction of military records under section 1552 of this title .
 - **(g)**
   - **(1)** On or after the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, the Secretary of Defense may sunset the Physical Disability Board of Review under this section.
-  - **(2)** If the Secretary sunsets the Physical Disability Board of Review under paragraph (1), the Secretary shall transfer any remaining requests for review pending at that time, and shall assign any new requests for review under this section, to a board for the correction of military records operated by the Secretary concerned under section 1552 of this title .
+  - **(2)** If the Secretary sunsets the Physical Disability Board of Review under paragraph (1), the Secretary shall transfer any remaining requests for review pending at that time, and shall assign any new requests for review under this section, to a board for the correction of military records operated by the Secretary concerned under section 1552 of this title .. 1 1 So in original. The second period probably should not appear.
   - **(3)** Subsection (c)(4) shall not apply with respect to any review conducted by a board for the correction of military records under paragraph (2).

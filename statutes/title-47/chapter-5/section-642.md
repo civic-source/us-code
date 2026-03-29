@@ -3,9 +3,9 @@ title: "Section 642 - Broadband maps"
 usc_title: 47
 usc_section: "642"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "47 U.S.C. § 642"
-generated_at: "2026-03-29T20:08:02.521Z"
+generated_at: "2026-03-29T20:35:00.371Z"
 ---
 
 # § 642. Broadband maps
@@ -47,7 +47,6 @@ generated_at: "2026-03-29T20:08:02.521Z"
       - **(iii)** be compatible with commonly used GIS software; and
       - **(iv)** at a minimum, be updated every 6 months by the Commission.
     - **(C)** The Commission shall prioritize implementing the Fabric for rural and insular areas of the United States.
-    - **(D)** The Secretary of Commerce shall submit to the Commission, for inclusion in the Fabric, a count of the aggregate number of housing units in each census block, as collected by the Bureau of the Census.
   - **(2)** The rules issued by the Commission under subsection (a)(1) shall include uniform standards for the reporting of broadband internet access service data that the Commission shall collect—
     - **(A)** from each provider of terrestrial fixed, fixed wireless, or satellite broadband internet access service, which shall include data that—
       - **(i)** documents the areas where the provider—
@@ -91,7 +90,7 @@ generated_at: "2026-03-29T20:08:02.521Z"
         - **(III)** makes challenge data available in both geographic information system and non-geographic information system formats; and
         - **(IV)** clearly identifies the areas in which broadband internet access service is available, and the upload and download speeds at which that service is available, as reported to the Commission under this section.
     - **(C)** The rules issued to establish the challenge process under subparagraph (A) shall include—
-      - **(i)** a process for the speedy resolution of challenges, which shall require that the Commission resolve a challenge not later than 90 days after the date on which a final response by a provider to a challenge to the accuracy of a map or information described in subparagraph (A) is complete; and
+      - **(i)** a process for the speedy resolution of challenges; and
       - **(ii)** a process for the regular and expeditious updating of the coverage maps and granular data disseminated by the Commission as challenges are resolved.
     - **(D)** Not earlier than 1 year, and not later than 18 months, after the date on which the rules issued under subsection (a)(1) take effect, the Commission shall, after an opportunity for notice and comment, submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that—
       - **(i)** evaluates the challenge process described in subparagraph (A); and
@@ -121,7 +120,7 @@ generated_at: "2026-03-29T20:08:02.521Z"
     - **(A)** the Secretary of Agriculture to enable the Secretary of Agriculture to consult the maps created under paragraph (1) when considering the awarding of funds for the deployment of broadband internet access service under any program administered by the Administrator of the Rural Utilities Service; and
     - **(B)** the National Telecommunications and Information Administration to enable the Administration to consult the maps created under paragraph (1) when considering the awarding of funds for the deployment of broadband internet access service under any future program administered by the Administration;
   - **(5)** make available to any Federal agency, upon request, the maps created under paragraph (1); and
-  - **(6)** make public, including on a publicly available website, at an appropriate level of granularity—
+  - **(6)** make public at an appropriate level of granularity—
     - **(A)** the maps created under paragraph (1); and
     - **(B)** the data collected by the Commission with respect to the availability of broadband internet access service and the quality of service with respect to broadband internet access service.
 - **(d)** Any requirement of a rule issued under subsection (a)(1) that relates to quality of service shall take effect not earlier than the date that is 180 days after the date on which the Commission issues that rule.

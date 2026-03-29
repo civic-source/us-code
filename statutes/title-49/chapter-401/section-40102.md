@@ -3,9 +3,9 @@ title: "Section 40102 - Definitions"
 usc_title: 49
 usc_section: "40102"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 40102"
-generated_at: "2026-03-29T20:07:58.567Z"
+generated_at: "2026-03-29T20:35:10.886Z"
 ---
 
 # § 40102. Definitions
@@ -103,7 +103,6 @@ generated_at: "2026-03-29T20:07:58.567Z"
   - **(47)** “air traffic control system” means the combination of elements used to safely and efficiently monitor, direct, control, and guide aircraft in the United States and United States-assigned airspace, including—
     - **(A)** allocated electromagnetic spectrum and physical, real, personal, and intellectual property assets making up facilities, equipment, and systems employed to detect, track, and guide aircraft movement;
     - **(B)** laws, regulations, orders, directives, agreements, and licenses;
-    - **(C)** published procedures that explain required actions, activities, and techniques used to ensure adequate aircraft separation;
-    - **(D)** trained personnel with specific technical capabilities to satisfy the operational, engineering, management, and planning requirements for air traffic control; and
-    - **(E)** systems, software, and hardware operated, owned, and maintained by third parties that support or directly provide air navigation information and air traffic management services with Administration approval.
+    - **(C)** published procedures that explain required actions, activities, and techniques used to ensure adequate aircraft separation; and
+    - **(D)** trained personnel with specific technical capabilities to satisfy the operational, engineering, management, and planning requirements for air traffic control.
 - **(b)** In subpart II of this part, “control” means control by any means.

@@ -3,9 +3,9 @@ title: "Section 560 - Contractual right to liquidate, terminate, or accelerate a
 usc_title: 11
 usc_section: "560"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "11 U.S.C. § 560"
-generated_at: "2026-03-29T20:03:14.796Z"
+generated_at: "2026-03-29T20:31:58.718Z"
 ---
 
 # § 560. Contractual right to liquidate, terminate, or accelerate a swap agreement

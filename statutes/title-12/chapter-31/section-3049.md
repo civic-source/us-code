@@ -3,9 +3,9 @@ title: "Section 3049 - Authorization of appropriations for administration; avail
 usc_title: 12
 usc_section: "3049"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "12 U.S.C. § 3049"
-generated_at: "2026-03-29T20:03:45.864Z"
+generated_at: "2026-03-29T20:32:15.123Z"
 ---
 
 # § 3049. Authorization of appropriations for administration; availability of amounts

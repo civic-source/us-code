@@ -3,9 +3,9 @@ title: "Section 1862n - Mathematics and science education partnerships"
 usc_title: 42
 usc_section: "1862n"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 1862n"
-generated_at: "2026-03-29T20:07:44.087Z"
+generated_at: "2026-03-29T20:34:53.438Z"
 ---
 
 # § 1862n. Mathematics and science education partnerships
@@ -34,9 +34,8 @@ generated_at: "2026-03-29T20:07:44.087Z"
     - **(J)** using mathematicians, scientists, and engineers employed by private businesses to help recruit and train mathematics and science teachers;
     - **(K)** developing science, technology, engineering, and mathematics educational programs and materials and conducting science, technology, engineering, and mathematics enrichment programs for students, including after-school programs and summer programs, with an emphasis on including and serving students described in subsection (b)(2)(G);
     - **(L)** providing research opportunities in business or academia for students and teachers;
-    - **(M)** bringing mathematicians, scientists, and engineers from business and academia into elementary school and secondary school classrooms;
-    - **(N)** developing science, technology, engineering, and mathematics educational curriculum that incorporates art and design to promote creativity and innovation; and
-    - **(O)** any other activities the Director determines will accomplish the goals of this subsection.
+    - **(M)** bringing mathematicians, scientists, and engineers from business and academia into elementary school and secondary school classrooms; and
+    - **(N)** any other activities the Director determines will accomplish the goals of this subsection.
   - **(4)** Activities carried out in accordance with paragraph (3)(E) shall—
     - **(A)** emphasize the training of master teachers who will improve the instruction of mathematics or science in kindergarten through grade 12;
     - **(B)** include training in both content and pedagogy; and

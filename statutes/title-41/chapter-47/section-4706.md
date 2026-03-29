@@ -3,9 +3,9 @@ title: "Section 4706 - Examination of facilities and records of contractor"
 usc_title: 41
 usc_section: "4706"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "41 U.S.C. § 4706"
-generated_at: "2026-03-29T20:05:58.288Z"
+generated_at: "2026-03-29T20:34:07.748Z"
 ---
 
 # § 4706. Examination of facilities and records of contractor
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T20:05:58.288Z"
     - **(C)** pricing of the contract or subcontract; or
     - **(D)** performance of the contract or subcontract.
 - **(c)**
-  - **(1)** The Inspector General of an executive agency appointed under section 403 or 415 of title 5 or, on request of the head of an executive agency, the Director of the Defense Contract Audit Agency (or any successor agency) of the Department of Defense or the Inspector General of the General Services Administration may require by subpoena the production of records of a contractor, access to which is provided for that executive agency by subsection (b).
+  - **(1)** The Inspector General of an executive agency appointed under section 3 or 8G of the Inspector General Act of 1978 (5 U.S.C. App.) or, on request of the head of an executive agency, the Director of the Defense Contract Audit Agency (or any successor agency) of the Department of Defense or the Inspector General of the General Services Administration may require by subpoena the production of records of a contractor, access to which is provided for that executive agency by subsection (b).
   - **(2)** A subpoena under paragraph (1), in the case of contumacy or refusal to obey, is enforceable by order of an appropriate United States district court.
   - **(3)** The authority provided by paragraph (1) may not be delegated.
   - **(4)** In the year following a year in which authority provided in paragraph (1) is exercised for an executive agency, the head of the executive agency shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives a report on the exercise of the authority during the preceding year and the reasons why the authority was exercised in any instance.

@@ -3,9 +3,9 @@ title: "Section 791 - Center for Audit Excellence"
 usc_title: 31
 usc_section: "791"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "31 U.S.C. § 791"
-generated_at: "2026-03-29T20:05:32.566Z"
+generated_at: "2026-03-29T20:33:31.752Z"
 ---
 
 # § 791. Center for Audit Excellence

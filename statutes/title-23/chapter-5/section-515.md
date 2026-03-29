@@ -3,9 +3,9 @@ title: "Section 515 - General authorities and requirements"
 usc_title: 23
 usc_section: "515"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "23 U.S.C. § 515"
-generated_at: "2026-03-29T20:04:52.031Z"
+generated_at: "2026-03-29T20:32:49.847Z"
 ---
 
 # § 515. General authorities and requirements
@@ -27,50 +27,31 @@ generated_at: "2026-03-29T20:04:52.031Z"
     - **(B)** If the Secretary enters into an agreement with an entity for the maintenance of the repository, the entity shall be eligible for Federal financial assistance under this section.
   - **(3)** Information in the repository shall not be subject to sections 552 and 555 of title 5, United States Code.
 - **(h)**
-  - **(1)** The Secretary shall establish an Advisory Committee (referred to in this subsection as the “Advisory Committee”) to advise the Secretary on carrying out sections 512 through 518.
-  - **(2)** The Advisory Committee shall have no more than 25 members, be balanced between metropolitan and rural interests, and include, at a minimum—
+  - **(1)** The Secretary shall establish an Advisory Committee to advise the Secretary on carrying out sections 512 through 518.
+  - **(2)** The Advisory Committee shall have no more than 20 members, be balanced between metropolitan and rural interests, and include, at a minimum—
     - **(A)** a representative from a State highway department;
     - **(B)** a representative from a local highway department who is not from a metropolitan planning organization;
     - **(C)** a representative from a State, local, or regional transit agency;
-    - **(D)** a representative from a State, local, or regional wildlife, land use, or resource management agency;
-    - **(E)** a representative from a metropolitan planning organization;
-    - **(F)** a representative of a national transit association;
-    - **(G)** a representative of a national, State, or local transportation agency or association;
-    - **(H)** a private sector user of intelligent transportation system technologies;
-    - **(I)** a private sector developer of intelligent transportation system technologies, which may include emerging vehicle technologies;
-    - **(J)** an academic researcher with expertise in computer science or another information science field related to intelligent transportation systems, and who is not an expert on transportation issues;
-    - **(K)** an academic researcher who is a civil engineer;
-    - **(L)** an academic researcher who is a social scientist with expertise in transportation issues;
-    - **(M)** an academic researcher who is a biological or ecological scientist with expertise in transportation issues;
-    - **(N)** a representative from a nonprofit group representing the intelligent transportation system industry;
-    - **(O)** a representative from a public interest group concerned with safety;
-    - **(P)** a representative of a labor organization;
-    - **(Q)** a representative of a mobility-providing entity;
-    - **(R)** an expert in traffic management;
-    - **(S)** a representative from a public interest group concerned with the impact of the transportation system on land use and residential patterns;
-    - **(T)** a representative from a public interest group concerned with the impact of the transportation system on terrestrial and aquatic species and the habitat of those species; and
-    - **(U)** members with expertise in planning, safety, telecommunications, and operations;
-    - **(V)** an expert in cybersecurity; and
-    - **(W)** an automobile manufacturer.
-  - **(3)**
-    - **(A)** The term of a member of the Advisory Committee shall be 3 years.
-    - **(B)** On expiration of the term of a member of the Advisory Committee, the member—
-      - **(i)** may be reappointed; or
-      - **(ii)** if the member is not reappointed under clause (i), may serve until a new member is appointed.
-  - **(4)** The Advisory Committee—
-    - **(A)** shall convene not less frequently than twice each year; and
-    - **(B)** may convene with the use of remote video conference technology.
-  - **(5)** The Advisory Committee shall, at a minimum, perform the following duties:
-    - **(A)** Provide input into the development of the intelligent transportation system aspects of the strategic plan under section 6503 of title 49 .
-    - **(B)** Review, at least annually, areas of intelligent transportation systems programs and research being considered for funding by the Department, to determine—
+    - **(D)** a representative from a metropolitan planning organization;
+    - **(E)** a private sector user of intelligent transportation system technologies;
+    - **(F)** an academic researcher with expertise in computer science or another information science field related to intelligent transportation systems, and who is not an expert on transportation issues;
+    - **(G)** an academic researcher who is a civil engineer;
+    - **(H)** an academic researcher who is a social scientist with expertise in transportation issues;
+    - **(I)** a representative from a nonprofit group representing the intelligent transportation system industry;
+    - **(J)** a representative from a public interest group concerned with safety;
+    - **(K)** a representative from a public interest group concerned with the impact of the transportation system on land use and residential patterns; and
+    - **(L)** members with expertise in planning, safety, telecommunications, utilities, and operations.
+  - **(3)** The Advisory Committee shall, at a minimum, perform the following duties:
+    - **(A)** Provide input into the development of the intelligent transportation system aspects of the strategic plan under section 508. 1 1 See References in Text note below.
+    - **(B)** Review, at least annually, areas of intelligent transportation systems research being considered for funding by the Department, to determine—
       - **(i)** whether these activities are likely to advance either the state-of-the-practice or state-of-the-art in intelligent transportation systems;
       - **(ii)** whether the intelligent transportation system technologies are likely to be deployed by users, and if not, to determine the barriers to deployment; and
-      - **(iii)** the appropriate roles for government and the private sector in investing in the programs, research, and technologies being considered.
-  - **(6)** Not later than May 1 of each year, the Secretary shall make available to the public on a Department of Transportation website a report that includes—
+      - **(iii)** the appropriate roles for government and the private sector in investing in the research and technologies being considered.
+  - **(4)** Not later than May 1 of each year, the Secretary shall make available to the public on a Department of Transportation website a report that includes—
     - **(A)** all recommendations made by the Advisory Committee during the preceding calendar year;
     - **(B)** an explanation of the manner in which the Secretary has implemented those recommendations; and
     - **(C)** for recommendations not implemented, the reasons for rejecting the recommendations.
-  - **(7)** The Advisory Committee shall be subject to chapter 10 of title 5, United States Code.
+  - **(5)** The Advisory Committee shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
 - **(i)**
   - **(1)**
     - **(A)** The Secretary shall issue guidelines and requirements for the reporting and evaluation of operational tests and deployment projects carried out under sections 512 through 518.

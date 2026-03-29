@@ -3,9 +3,9 @@ title: "Section 839h - Separability"
 usc_title: 16
 usc_section: "839h"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 839h"
-generated_at: "2026-03-29T20:04:20.254Z"
+generated_at: "2026-03-29T20:32:45.321Z"
 ---
 
 # § 839h. Separability

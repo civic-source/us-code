@@ -3,9 +3,9 @@ title: "Section 2005e - Definitions"
 usc_title: 42
 usc_section: "2005e"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 2005e"
-generated_at: "2026-03-29T20:07:44.139Z"
+generated_at: "2026-03-29T20:34:53.481Z"
 ---
 
 # § 2005e. Definitions

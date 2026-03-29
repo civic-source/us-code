@@ -3,9 +3,9 @@ title: "Section 453b - Requirement to buy certain items related to national secu
 usc_title: 6
 usc_section: "453b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "6 U.S.C. § 453b"
-generated_at: "2026-03-29T20:02:42.007Z"
+generated_at: "2026-03-29T20:31:30.636Z"
 ---
 
 # § 453b. Requirement to buy certain items related to national security interests from American sources; exceptions
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T20:02:42.007Z"
 - **(e)** Subsection (a) does not apply to the following:
   - **(1)** Procurements by vessels in foreign waters.
   - **(2)** Emergency procurements.
-- **(f)** Subsection (a) does not apply to purchases for amounts not greater than the simplified acquisition threshold referred to in section 3205 of title 10 .
+- **(f)** Subsection (a) does not apply to purchases for amounts not greater than the simplified acquisition threshold referred to in section 2304(g) of title 10 .
 - **(g)** This section is applicable to contracts and subcontracts for the procurement of commercial products notwithstanding section 1906 of title 41 , with the exception of commercial products listed under subsections (b)(1)(C) and (b)(1)(D) above. For the purposes of this section, “commercial product” shall be as defined in section 103 of title 41 .
 - **(h)** In this section, the term “United States” includes the possessions of the United States.
 - **(i)** In the case of any contract for the procurement of an item described in subsection (b)(1), if the Secretary of Homeland Security applies an exception set forth in subsection (c) with respect to that contract, the Secretary shall, not later than 7 days after the award of the contract, post a notification that the exception has been applied on the Internet site maintained by the General Services Administration known as FedBizOps.gov (or any successor site).

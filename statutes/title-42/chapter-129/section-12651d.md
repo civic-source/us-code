@@ -3,14 +3,14 @@ title: "Section 12651d - Authorities and duties of the Chief Executive Officer"
 usc_title: 42
 usc_section: "12651d"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 12651d"
-generated_at: "2026-03-29T20:07:44.771Z"
+generated_at: "2026-03-29T20:34:54.124Z"
 ---
 
 # § 12651d. Authorities and duties of the Chief Executive Officer
 
-- **(a)** The Chief Executive Officer shall be responsible for the exercise of the powers and the discharge of the duties of the Corporation that are not reserved to the Board, and shall have authority and control over all personnel of the Corporation, except as provided in section 414 of title 5 .
+- **(a)** The Chief Executive Officer shall be responsible for the exercise of the powers and the discharge of the duties of the Corporation that are not reserved to the Board, and shall have authority and control over all personnel of the Corporation, except as provided in section 8E 1 1 See References in Text note below. of the Inspector General Act of 1978.
 - **(b)** In addition to the duties conferred on the Chief Executive Officer under any other provision of the national service laws, the Chief Executive Officer, in collaboration with the State Commissions, shall—
   - **(1)** prepare and submit to the Board a strategic plan, including a plan for having 50 percent of all approved national service positions be full-time positions by 2012, every 3 years, and annual updates of the plan, for the Corporation with respect to the major functions and operations of the Corporation;
   - **(2)**
@@ -69,9 +69,9 @@ generated_at: "2026-03-29T20:07:44.771Z"
   - **(17)** identify and implement recruitment strategies and training programs for bilingual volunteers in the National Senior Service Corps under title II of the Domestic Volunteer Service Act of 1973 [ 42 U.S.C. 5000 et seq.];
   - **(18)** collaborate with organizations that have established volunteer recruitment programs to increase the recruitment capacity of the Corporation;
   - **(19)** where practicable, provide application materials in languages other than English for individuals with limited English proficiency who wish to participate in a national service program;
-  - **(20)** collaborate with the training and technical assistance programs described in division K with respect to the activities described in section 12657(b) of this title ); 1 1 So in original. The closing parenthesis probably should not appear.
+  - **(20)** collaborate with the training and technical assistance programs described in division K with respect to the activities described in section 12657(b) of this title ); 2 2 So in original. The closing parenthesis probably should not appear.
   - **(21)** coordinate the clearinghouses described in section 12653 o of this title;
-  - **(22)** coordinate with entities receiving funds under division C in establishing the National Service Reserve Corps under section 12653h of this title , through which alumni of the national service programs and veterans can serve in disasters and emergencies (as such terms are defined in section 12653h(a) of this title ); 2 2 See References in Text note below.
+  - **(22)** coordinate with entities receiving funds under division C in establishing the National Service Reserve Corps under section 12653h of this title , through which alumni of the national service programs and veterans can serve in disasters and emergencies (as such terms are defined in section 12653h(a) of this title ); 1
   - **(23)** identify and implement strategies to increase awareness among Indian tribes of the types and availability of assistance under the national service laws, increase Native American participation in programs under the national service laws, collect information on challenges facing Native American communities, and designate a Strategic Advisor for Native American Affairs to be responsible for the execution of those activities under the national service laws;
   - **(24)** conduct outreach to ensure the inclusion of economically disadvantaged individuals in national service programs and activities authorized under the national service laws; and
   - **(25)** ensure that outreach, awareness, and recruitment efforts are consistent with the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12101 et seq.) and section 794 of title 29 .

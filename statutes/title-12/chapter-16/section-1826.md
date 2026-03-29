@@ -3,9 +3,9 @@ title: "Section 1826 - Forms of obligations; preparation by Secretary of the Tre
 usc_title: 12
 usc_section: "1826"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "12 U.S.C. § 1826"
-generated_at: "2026-03-29T20:03:45.773Z"
+generated_at: "2026-03-29T20:32:15.037Z"
 ---
 
 # § 1826. Forms of obligations; preparation by Secretary of the Treasury

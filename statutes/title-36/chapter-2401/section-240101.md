@@ -3,9 +3,9 @@ title: "Section 240101 - Definition"
 usc_title: 36
 usc_section: "240101"
 chapter: 2401
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "36 U.S.C. § 240101"
-generated_at: "2026-03-29T20:05:40.615Z"
+generated_at: "2026-03-29T20:33:50.659Z"
 ---
 
 # § 240101. Definition

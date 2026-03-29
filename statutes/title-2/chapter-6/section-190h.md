@@ -3,9 +3,9 @@ title: "Section 190h - Repealed. S. Res. 9, § 2, Nov. 5, 1975"
 usc_title: 2
 usc_section: "190h"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "2 U.S.C. § 190h"
-generated_at: "2026-03-29T20:02:11.251Z"
+generated_at: "2026-03-29T20:31:22.467Z"
 ---
 
 # § 190h. Repealed. S. Res. 9, § 2, Nov. 5, 1975

@@ -3,9 +3,9 @@ title: "Section 2042 - Proceeds of life insurance"
 usc_title: 26
 usc_section: "2042"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 2042"
-generated_at: "2026-03-29T20:05:22.543Z"
+generated_at: "2026-03-29T20:33:27.162Z"
 ---
 
 # § 2042. Proceeds of life insurance

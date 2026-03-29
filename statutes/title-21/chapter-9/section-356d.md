@@ -3,9 +3,9 @@ title: "Section 356d - Coordination; task force and strategic plan"
 usc_title: 21
 usc_section: "356d"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "21 U.S.C. § 356d"
-generated_at: "2026-03-29T20:04:50.441Z"
+generated_at: "2026-03-29T20:32:52.501Z"
 ---
 
 # § 356d. Coordination; task force and strategic plan
@@ -34,7 +34,4 @@ generated_at: "2026-03-29T20:04:50.441Z"
 - **(e)** No determination, finding, action, or omission of the Secretary under this section shall—
   - **(1)** be subject to judicial review; or
   - **(2)** be construed to establish a defense to an enforcement action by the Secretary.
-- **(f)** Subsection (a) shall cease to be effective on the date that is 5 years after July 9, 2012 . Subsections (b), (c), and (e) shall not be in effect during the period beginning 5 years after July 9, 2012 , and ending on December 29, 2022 . Subsections (b), (c), and (e) shall be in effect beginning on December 29, 2022 .
-- **(g)** The Secretary shall ensure timely and effective internal coordination and alignment among the field investigators of the Food and Drug Administration and the staff of the Center for Drug Evaluation and Research’s Office of Compliance and Drug Shortage Program regarding—
-  - **(1)** the reviews of reports shared pursuant to section 374(b)(2) of this title ; and
-  - **(2)** any feedback or corrective or preventive actions in response to such reports.
+- **(f)** Subsections (a), (b), (c), and (e) shall cease to be effective on the date that is 5 years after July 9, 2012 .

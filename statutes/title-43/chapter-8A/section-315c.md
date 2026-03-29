@@ -3,9 +3,9 @@ title: "Section 315c - Fences, wells, reservoirs, and other improvements; constr
 usc_title: 43
 usc_section: "315c"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "43 U.S.C. § 315c"
-generated_at: "2026-03-29T20:05:59.967Z"
+generated_at: "2026-03-29T20:34:16.676Z"
 ---
 
 # § 315c. Fences, wells, reservoirs, and other improvements; construction; permits; partition fences

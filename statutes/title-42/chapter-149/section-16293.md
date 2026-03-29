@@ -3,9 +3,9 @@ title: "Section 16293 - Carbon storage validation and testing"
 usc_title: 42
 usc_section: "16293"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 16293"
-generated_at: "2026-03-29T20:07:44.907Z"
+generated_at: "2026-03-29T20:34:54.238Z"
 ---
 
 # § 16293. Carbon storage validation and testing
@@ -13,10 +13,10 @@ generated_at: "2026-03-29T20:07:44.907Z"
 - **(a)** In this section:
   - **(1)** The term “large-scale carbon sequestration” means a scale that—
     - **(A)** demonstrates the ability to inject into geologic formations and sequester carbon dioxide; and
-    - **(B)** has a goal of sequestering not less than 50 million metric tons of carbon dioxide.
+    - **(B)** has a goal of sequestering not less than 50 million metric tons of carbon dioxide over a 10-year period.
   - **(2)** The term “program” means the program established under subsection (b)(1).
 - **(b)**
-  - **(1)** The Secretary shall establish a program of research, development, demonstration, and commercialization for carbon storage.
+  - **(1)** The Secretary shall establish a program of research, development, and demonstration for carbon storage.
   - **(2)** Activities under the program shall include—
     - **(A)** in coordination with relevant Federal agencies, developing and maintaining mapping tools and resources that assess the capacity of geologic storage formation in the United States;
     - **(B)** developing monitoring tools, modeling of geologic formations, and analyses—
@@ -28,9 +28,8 @@ generated_at: "2026-03-29T20:07:44.907Z"
     - **(D)** evaluating the interactions of carbon dioxide with formation solids and fluids, including the propensity of injections to induce seismic activity;
     - **(E)** assessing and ensuring the safety of operations relating to geologic sequestration of carbon dioxide;
     - **(F)** determining the fate of carbon dioxide concurrent with and following injection into geologic formations;
-    - **(G)** supporting cost and business model assessments to examine the economic viability of technologies and systems developed under the program;
-    - **(H)** providing information to the Environmental Protection Agency, States, local governments, Tribal governments, and other appropriate entities, to ensure the protection of human health and the environment; and
-    - **(I)** evaluating the quantity, location, and timing of geologic carbon storage deployment that may be needed, and developing strategies and resources to enable the deployment.
+    - **(G)** supporting cost and business model assessments to examine the economic viability of technologies and systems developed under the program; and
+    - **(H)** providing information to the Environmental Protection Agency, States, local governments, Tribal governments, and other appropriate entities, to ensure the protection of human health and the environment.
   - **(3)** In carrying out research activities under this subsection, the Secretary shall consider a variety of candidate onshore and offshore geologic settings, including—
     - **(A)** operating oil and gas fields;
     - **(B)** depleted oil and gas fields;
@@ -57,18 +56,13 @@ generated_at: "2026-03-29T20:07:44.907Z"
     - **(A)** to identify geologic storage sites that are able to accept large volumes of carbon dioxide acceptable for commercial contracts;
     - **(B)** to understand the technical and commercial viability of carbon dioxide geologic storage sites; and
     - **(C)** to carry out any other activities necessary to transition the large-scale carbon sequestration demonstration projects under subsection (c) into integrated commercial storage complexes.
-- **(e)**
-  - **(1)** The Secretary shall establish a commercialization program under which the Secretary shall provide funding for the development of new or expanded commercial large-scale carbon sequestration projects and associated carbon dioxide transport infrastructure, including funding for the feasibility, site characterization, permitting, and construction stages of project development.
-  - **(2)**
-    - **(A)** To be eligible to enter into an agreement with the Secretary for funding under paragraph (1), an entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary determines to be appropriate.
-    - **(B)** The Secretary shall establish an application process that, to the maximum extent practicable—
-      - **(i)** is open to projects at any stage of development described in paragraph (1); and
-      - **(ii)** facilitates expeditious development of projects described in that paragraph.
-    - **(C)** In selecting projects for funding under paragraph (1), the Secretary shall give priority to—
-      - **(i)** projects with substantial carbon dioxide storage capacity; or
-      - **(ii)** projects that will store carbon dioxide from multiple carbon capture facilities.
-- **(f)** In making competitive awards under this section, subject to the requirements of section 16353 of this title , the Secretary shall—
-  - **(1)** with respect to the research, development, demonstration program components described in subsections (b) through (d) give preference to proposals from partnerships among industrial, academic, and government entities; and
+- **(e)** In making competitive awards under this section, subject to the requirements of section 16353 of this title , the Secretary shall—
+  - **(1)** give preference to proposals from partnerships among industrial, academic, and government entities; and
   - **(2)** require recipients to provide assurances that all laborers and mechanics employed by contractors and subcontractors in the construction, repair, or alteration of new or existing facilities performed in order to carry out a demonstration or commercial application activity authorized under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with subchapter IV of chapter 31 of title 40, and the Secretary of Labor shall, with respect to the labor standards in this paragraph, have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 Fed. Reg. 3176; 5 U.S.C. Appendix) and section 3145 of title 40 .
-- **(g)** Activities carried out under this section shall be subject to the cost-sharing requirements of section 16352 of this title .
-- **(h)** There is authorized to be appropriated to the Secretary to carry out this section $2,500,000,000 for the period of fiscal years 2022 through 2026.
+- **(f)** Activities carried out under this section shall be subject to the cost-sharing requirements of section 16352 of this title .
+- **(g)** There are authorized to be appropriated to the Secretary to carry out this section—
+  - **(1)** $200,000,000 for fiscal year 2021;
+  - **(2)** $200,000,000 for fiscal year 2022;
+  - **(3)** $150,000,000 for fiscal year 2023;
+  - **(4)** $150,000,000 for fiscal year 2024; and
+  - **(5)** $100,000,000 for fiscal year 2025.

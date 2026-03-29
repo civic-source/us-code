@@ -3,9 +3,9 @@ title: "Section 20123 - Grants for outreach and services to underserved populati
 usc_title: 34
 usc_section: "20123"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "34 U.S.C. § 20123"
-generated_at: "2026-03-29T20:05:30.416Z"
+generated_at: "2026-03-29T20:33:40.359Z"
 ---
 
 # § 20123. Grants for outreach and services to underserved populations
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T20:05:30.416Z"
 - **(b)** Eligible entities under this section are—
   - **(1)** population specific organizations that have demonstrated experience and expertise in providing population specific services in the relevant underserved communities, or population specific organizations working in partnership with a victim service provider or domestic violence or sexual assault coalition;
   - **(2)** victim service providers offering population specific services for a specific underserved population; or
-  - **(3)** victim service providers working in partnership with a national, State, tribal, Native Hawaiian, or local organization that has demonstrated experience and expertise in providing population specific services in the relevant underserved population.
+  - **(3)** victim service providers working in partnership with a national, State, tribal, or local organization that has demonstrated experience and expertise in providing population specific services in the relevant underserved population.
 - **(c)** The Attorney General may use up to 25 percent of funds available under this section to make one-time planning grants to eligible entities to support the planning and development of specially designed and targeted programs for adult and youth victims in one or more underserved populations, including—
   - **(1)** identifying, building and strengthening partnerships with potential collaborators within underserved populations, Federal, State, tribal, territorial or local government entities, and public and private organizations;
   - **(2)** conducting a needs assessment of the community and the targeted underserved population or populations to determine what the barriers are to service access and what factors contribute to those barriers, using input from the targeted underserved population or populations;
@@ -28,11 +28,9 @@ generated_at: "2026-03-29T20:05:30.416Z"
   - **(1)** working with Federal, State, tribal, territorial and local governments, agencies, and organizations to develop or enhance population specific services;
   - **(2)** strengthening the capacity of underserved populations to provide population specific services;
   - **(3)** strengthening the capacity of traditional victim service providers to provide population specific services;
-  - **(4)** strengthening the response of criminal and civil justice interventions by providing population-specific training for law enforcement, prosecutors, judges and other court personnel on domestic violence, dating violence, sexual assault, or stalking in underserved populations;
-  - **(5)** working in cooperation with an underserved population to develop and implement outreach, education, prevention, and intervention strategies that highlight available resources and the specific issues faced by victims of domestic violence, dating violence, sexual assault, or stalking from underserved populations;
-  - **(6)** developing, enlarging, or strengthening culturally specific programs and projects to provide culturally specific services regarding responses to, and prevention of, female genital mutilation and cutting; or
-  - **(7)** strengthening the response of social and human services by providing population-specific training for service providers on domestic violence, dating violence, sexual assault, or stalking in underserved populations.
+  - **(4)** strengthening the effectiveness of criminal and civil justice interventions by providing training for law enforcement, prosecutors, judges and other court personnel on domestic violence, dating violence, sexual assault, or stalking in underserved populations; or
+  - **(5)** working in cooperation with an underserved population to develop and implement outreach, education, prevention, and intervention strategies that highlight available resources and the specific issues faced by victims of domestic violence, dating violence, sexual assault, or stalking from underserved populations.
 - **(e)** An eligible entity desiring a grant under this section shall submit an application to the Director of the Office on Violence Against Women at such time, in such form, and in such manner as the Director may prescribe.
 - **(f)** Each eligible entity receiving a grant under this section shall submit to the Director of the Office on Violence Against Women a report that describes the activities carried out with grant funds.
-- **(g)** In addition to the funds identified in subsection (a)(1), there are authorized to be appropriated to carry out this section $6,000,000 for each of fiscal years 2023 through 2027.
+- **(g)** In addition to the funds identified in subsection (a)(1), there are authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2014 through 2018.
 - **(h)** In this section the definitions and grant conditions in section 12291 of this title shall apply.

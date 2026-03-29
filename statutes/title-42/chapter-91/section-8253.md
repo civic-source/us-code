@@ -3,9 +3,9 @@ title: "Section 8253 - Energy and water management requirements"
 usc_title: 42
 usc_section: "8253"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 8253"
-generated_at: "2026-03-29T20:07:44.591Z"
+generated_at: "2026-03-29T20:34:53.920Z"
 ---
 
 # § 8253. Energy and water management requirements
@@ -121,7 +121,9 @@ generated_at: "2026-03-29T20:07:44.591Z"
       - **(iv)** has been benchmarked with public disclosure under paragraph (8) during the preceding calendar year; and
       - **(v)**
         - **(I)** based on the benchmarking described in clause (iv), has achieved at a facility level the most recent cumulative energy savings target under subsection (a) compared to the earlier of—
-        - **(II)** has a long-term contract in place guaranteeing energy savings at least as great as the energy savings target under subclause (I).
+    - **(AA)** of the most recent commissioning, recommissioning, or retrocommissioning; or
+    - **(BB)** on which ongoing commissioning began; or
+    - **(II)** has a long-term contract in place guaranteeing energy savings at least as great as the energy savings target under subclause (I).
   - **(4)**
     - **(A)** Not later than 2 years after the date of completion of each evaluation under paragraph (3), each energy manager shall implement any energy- or water-saving measure that—
       - **(i)** the Federal agency identified in the evaluation; and
@@ -206,9 +208,8 @@ generated_at: "2026-03-29T20:07:44.591Z"
     - **(C)** The Director may require Federal agencies to submit any information required to be submitted under this subsection though reporting structures in use as of December 27, 2020 .
 - **(i)**
   - **(1)** The Secretary shall carry out a program, to be known as the “Federal Energy Management Program” (referred to in this subsection as the “Program”), to facilitate the implementation by the Federal Government of cost-effective energy and water management and energy-related investment practices—
-    - **(A)** to coordinate and strengthen Federal energy and water resilience;
-    - **(B)** to promote environmental stewardship; and
-    - **(C)** to reduce energy consumption during periods of unusually high electricity or natural gas demand.
+    - **(A)** to coordinate and strengthen Federal energy and water resilience; and
+    - **(B)** to promote environmental stewardship.
   - **(2)** The Secretary shall appoint an individual to serve as the director of the Program (referred to in this subsection as the “Federal Director”), which shall be a career position in the Senior Executive service, to administer the Program.
   - **(3)**
     - **(A)** In administering the Program, the Federal Director shall—
@@ -216,9 +217,8 @@ generated_at: "2026-03-29T20:07:44.591Z"
       - **(ii)** in coordination with the Administrator of the General Services Administration, establish appropriate procedures, methods, and best practices for use by agencies to select, monitor, and terminate contracts entered into pursuant to a utility incentive program under section 8256(c) of this title with utilities;
       - **(iii)** carry out the responsibilities of the Secretary under section 8287 of this title , as determined appropriate by the Secretary;
       - **(iv)** establish and maintain internet-based information resources and project tracking systems and tools for energy and water management;
-      - **(v)** coordinate comprehensive and strategic approaches to energy and water resilience planning for agencies;
-      - **(vi)** establish a recognition program for Federal achievement in energy and water management, energy-related investment practices, environmental stewardship, and other relevant areas, through events such as individual recognition award ceremonies and public announcements; and
-      - **(vii)** promote the installation of demand-response technology and the use of demand-response practices in Federal buildings.
+      - **(v)** coordinate comprehensive and strategic approaches to energy and water resilience planning for agencies; and
+      - **(vi)** establish a recognition program for Federal achievement in energy and water management, energy-related investment practices, environmental stewardship, and other relevant areas, through events such as individual recognition award ceremonies and public announcements.
     - **(B)** In administering the Program, the Federal Director shall—
       - **(i)** track and report on the progress of agencies in meeting the requirements of the agency under this section;
       - **(ii)** make publicly available agency performance data required under—

@@ -3,9 +3,9 @@ title: "Section 256b - Hunting and fishing; general rules and regulations; prote
 usc_title: 16
 usc_section: "256b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 256b"
-generated_at: "2026-03-29T20:04:19.934Z"
+generated_at: "2026-03-29T20:32:44.990Z"
 ---
 
 # § 256b. Hunting and fishing; general rules and regulations; protection of property; violation of statutes or rules; penalties

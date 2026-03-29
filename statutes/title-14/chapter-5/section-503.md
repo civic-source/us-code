@@ -1,12 +1,14 @@
 ---
-title: "Section 503 - Transferred]"
+title: "Section 503 - Regulations"
 usc_title: 14
 usc_section: "503"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "14 U.S.C. § 503"
-generated_at: "2026-03-29T20:03:17.278Z"
+generated_at: "2026-03-29T20:32:03.583Z"
 ---
 
-# [§ 503. Transferred]
+# § 503. Regulations
+
+In addition to the authority conferred by other provisions of this title the Secretary may promulgate such regulations and orders as he deems appropriate to carry out the provisions of this title or any other law applicable to the Coast Guard.
 

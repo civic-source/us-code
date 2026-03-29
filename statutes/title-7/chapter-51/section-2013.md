@@ -3,30 +3,14 @@ title: "Section 2013 - Establishment of supplemental nutrition assistance progra
 usc_title: 7
 usc_section: "2013"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 2013"
-generated_at: "2026-03-29T20:02:52.610Z"
+generated_at: "2026-03-29T20:31:42.065Z"
 ---
 
 # § 2013. Establishment of supplemental nutrition assistance program
 
-- **(a)**
-  - **(1)** Subject to the availability of funds appropriated under section 2027 of this title , the Secretary is authorized to formulate and administer a supplemental nutrition assistance program under which, at the request of the State agency, eligible households within the State shall be provided an opportunity to obtain a more nutritious diet through the issuance to them of an allotment, except that a State may not participate in the supplemental nutrition assistance program if the Secretary determines that State or local sales taxes are collected within that State on purchases of food made with benefits issued under this chapter. The benefits so received by such households shall be used only to purchase food from retail food stores which have been approved for participation in the supplemental nutrition assistance program. Benefits issued and used as provided in this chapter shall be redeemable at face value by the Secretary through the facilities of the Treasury of the United States.
-  - **(2)**
-    - **(A)** In this paragraph, the term “payment error rate” has the meaning given the term in section 2025(c)(2) of this title .
-    - **(B)**
-      - **(i)** Subject to clause (iii), beginning in fiscal year 2028, if the payment error rate of a State as determined under clause (ii) is—
-        - **(I)** less than 6 percent, the Federal share of the cost of the allotment described in paragraph (1) for that State in a fiscal year shall be 100 percent, and the State share shall be 0 percent;
-        - **(II)** equal to or greater than 6 percent but less than 8 percent, the Federal share of the cost of the allotment described in paragraph (1) for that State in a fiscal year shall be 95 percent, and the State share shall be 5 percent;
-        - **(III)** equal to or greater than 8 percent but less than 10 percent, the Federal share of the cost of the allotment described in paragraph (1) for that State in a fiscal year shall be 90 percent, and the State share shall be 10 percent; and
-        - **(IV)** equal to or greater than 10 percent, the Federal share of the cost of the allotment described in paragraph (1) for that State in a fiscal year shall be 85 percent, and the State share shall be 15 percent.
-      - **(ii)**
-        - **(I)** For fiscal year 2028, to calculate the applicable State share under clause (i), a State may elect to use the payment error rate of the State from fiscal year 2025 or 2026.
-        - **(II)** For fiscal year 2029 and each fiscal year thereafter, to calculate the applicable State share under clause (i), the Secretary shall use the payment error rate of the State for the third fiscal year preceding the fiscal year for which the State share is being calculated.
-      - **(iii)**
-        - **(I)** If, for fiscal year 2025, the payment error rate of a State multiplied by 1.5 is equal to or above 20 percent, the implementation date under clause (i) for that State shall be fiscal year 2029.
-        - **(II)** If, for fiscal year 2026, the payment error rate of a State multiplied by 1.5 is equal to or above 20 percent, the implementation date under clause (i) for that State shall be fiscal year 2030.
-  - **(3)** The Secretary may not pay towards the cost of an allotment described in paragraph (1) an amount that is greater than the applicable Federal share under paragraph (2).
+- **(a)** Subject to the availability of funds appropriated under section 2027 of this title , the Secretary is authorized to formulate and administer a supplemental nutrition assistance program under which, at the request of the State agency, eligible households within the State shall be provided an opportunity to obtain a more nutritious diet through the issuance to them of an allotment, except that a State may not participate in the supplemental nutrition assistance program if the Secretary determines that State or local sales taxes are collected within that State on purchases of food made with benefits issued under this chapter. The benefits so received by such households shall be used only to purchase food from retail food stores which have been approved for participation in the supplemental nutrition assistance program. Benefits issued and used as provided in this chapter shall be redeemable at face value by the Secretary through the facilities of the Treasury of the United States.
 - **(b)**
   - **(1)** Distribution of commodities, with or without the supplemental nutrition assistance program, shall be made whenever a request for concurrent or separate food program operations, respectively, is made by a tribal organization.
   - **(2)**

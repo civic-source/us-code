@@ -3,9 +3,9 @@ title: "Section 1245 - Gain from dispositions of certain depreciable property"
 usc_title: 26
 usc_section: "1245"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 1245"
-generated_at: "2026-03-29T20:05:22.498Z"
+generated_at: "2026-03-29T20:33:27.117Z"
 ---
 
 # § 1245. Gain from dispositions of certain depreciable property
@@ -28,9 +28,8 @@ generated_at: "2026-03-29T20:05:22.498Z"
       - **(iii)** constituted a facility used in connection with any of the activities referred to in clause (i) for the bulk storage of fungible commodities (including commodities in a liquid or gaseous state),
     - **(C)** so much of any real property (other than any property described in subparagraph (B)) which has an adjusted basis in which there are reflected adjustments for amortization under section 169, 179, 179B, 179C, 179D, 179E, 188 (as in effect before its repeal by the Revenue Reconciliation Act of 1990), 190, 193, or 194 1 1 So in original. Probably should be followed by a comma.
     - **(D)** a single purpose agricultural or horticultural structure (as defined in section 168(i)(13)),
-    - **(E)** a storage facility (not including a building or its structural components) used in connection with the distribution of petroleum or any primary product of petroleum,
-    - **(F)** any railroad grading or tunnel bore (as defined in section 168(e)(4)), or
-    - **(G)** any qualified production property (as defined in section 168(n)(2)).
+    - **(E)** a storage facility (not including a building or its structural components) used in connection with the distribution of petroleum or any primary product of petroleum, or
+    - **(F)** any railroad grading or tunnel bore (as defined in section 168(e)(4)).
 - **(b)**
   - **(1)** Subsection (a) shall not apply to a disposition by gift.
   - **(2)** Except as provided in section 691 (relating to income in respect of a decedent), subsection (a) shall not apply to a transfer at death.

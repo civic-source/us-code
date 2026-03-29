@@ -3,14 +3,14 @@ title: "Section 101122 - Authorization of appropriations; use of funds"
 usc_title: 54
 usc_section: "101122"
 chapter: 1011
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "54 U.S.C. § 101122"
-generated_at: "2026-03-29T20:08:14.614Z"
+generated_at: "2026-03-29T20:35:14.750Z"
 ---
 
 # § 101122. Authorization of appropriations; use of funds
 
-- **(a)** There are authorized to be appropriated to carry out this subchapter $15,000,000 for each of fiscal years 2017 through 2030.
+- **(a)** There are authorized to be appropriated to carry out this subchapter $5,000,000 for each of fiscal years 2017 through 2023.
 - **(b)** Funds made available under subsection (a)—
   - **(1)** may be advanced each fiscal year to the National Park Foundation in a lump sum without regard to when expenses are incurred;
   - **(2)** shall be provided to the National Park Foundation for use to match contributions (whether in currency, services, or property) made to the Foundation;

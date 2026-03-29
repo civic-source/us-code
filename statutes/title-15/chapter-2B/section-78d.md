@@ -3,9 +3,9 @@ title: "Section 78d - Securities and Exchange Commission"
 usc_title: 15
 usc_section: "78d"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 78d"
-generated_at: "2026-03-29T20:03:27.123Z"
+generated_at: "2026-03-29T20:32:09.658Z"
 ---
 
 # § 78d. Securities and Exchange Commission
@@ -71,6 +71,16 @@ generated_at: "2026-03-29T20:03:27.123Z"
     - **(A)** perform compliance inspections and examinations of entities under the jurisdiction of that Division; and
     - **(B)** report to the Director of that Division.
 - **(i)**
+  - **(1)** There is established in the Treasury of the United States a separate fund, to be known as the “Securities and Exchange Commission Reserve Fund” (referred to in this subsection as the “Reserve Fund”).
+  - **(2)**
+    - **(A)** Except as provided in subparagraph (B), any registration fees collected by the Commission under section 77f(b) of this title or section 80a–24(f) of this title shall be deposited into the Reserve Fund.
+    - **(B)** For any 1 fiscal year—
+      - **(i)** the amount deposited in the Fund may not exceed $50,000,000; and
+      - **(ii)** the balance in the Fund may not exceed $100,000,000.
+    - **(C)** Any amounts in excess of the limitations described in subparagraph (B) that the Commission collects from registration fees under section 77f(b) of this title or section 80a–24(f) of this title shall be deposited in the General Fund of the Treasury of the United States and shall not be available for obligation by the Commission.
+  - **(3)** The Commission may obligate amounts in the Reserve Fund, not to exceed a total of $100,000,000 in any 1 fiscal year, as the Commission determines is necessary to carry out the functions of the Commission. Any amounts in the reserve fund shall remain available until expended. Not later than 10 days after the date on which the Commission obligates amounts under this paragraph, the Commission shall notify Congress of the date, amount, and purpose of the obligation.
+  - **(4)** Amounts collected and deposited in the Reserve Fund shall not be construed to be Government funds or appropriated monies and shall not be subject to apportionment for the purpose of chapter 15 of title 31 or under any other authority.
+- **(j)**
   - **(1)** There is established within the Commission the Office of the Advocate for Small Business Capital Formation (hereafter in this subsection referred to as the “Office”).
   - **(2)**
     - **(A)** The head of the Office shall be the Advocate for Small Business Capital Formation, who shall—
@@ -108,8 +118,3 @@ generated_at: "2026-03-29T20:03:27.123Z"
   - **(7)** The Commission shall establish procedures requiring a formal response to all recommendations submitted to the Commission by the Advocate for Small Business Capital Formation, not later than 3 months after the date of such submission.
   - **(8)** The Advocate for Small Business Capital Formation shall be responsible for planning, organizing, and executing the annual Government-Business Forum on Small Business Capital Formation described in section 80c–1 of this title .
   - **(9)** Nothing in this subsection may be construed as replacing or reducing the responsibilities of the Investor Advocate with respect to small business investors.
-- **(j)** All public data assets published by the Commission under the securities laws and the Dodd-Frank Wall Street Reform and Consumer Protection Act ( Public Law 111–203 ; 124 Stat. 1376 ) shall be—
-  - **(1)** made available as an open Government data asset (as defined in section 3502 of title 44 );
-  - **(2)** freely available for download;
-  - **(3)** rendered in a human-readable format; and
-  - **(4)** accessible via application programming interface where appropriate.

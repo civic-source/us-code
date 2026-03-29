@@ -3,9 +3,9 @@ title: "Section 5471 - Report on initial steps taken by United States and on Pol
 usc_title: 22
 usc_section: "5471"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 5471"
-generated_at: "2026-03-29T20:04:46.913Z"
+generated_at: "2026-03-29T20:33:00.094Z"
 ---
 
 # § 5471. Report on initial steps taken by United States and on Poland’s requirement for agricultural assistance

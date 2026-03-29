@@ -3,9 +3,9 @@ title: "Section 3221 - Director of Cost Assessment and Program Evaluation"
 usc_title: 10
 usc_section: "3221"
 chapter: 222
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 3221"
-generated_at: "2026-03-29T20:03:09.753Z"
+generated_at: "2026-03-29T20:31:54.669Z"
 ---
 
 # § 3221. Director of Cost Assessment and Program Evaluation
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T20:03:09.753Z"
 - **(a)** The Director of Cost Assessment and Program Evaluation shall ensure that the cost estimation and cost analysis processes of the Department of Defense provide accurate information and realistic estimates of cost for the acquisition programs of the Department of Defense.
 - **(b)** In carrying out the responsibility of the Director under subsection (a), the Director shall—
   - **(1)** prescribe, by authority of the Secretary of Defense, policies and procedures for the conduct of cost estimation and cost analysis for the acquisition programs of the Department of Defense;
-  - **(2)** with respect to cost estimation in the Department of Defense in general and with respect to specific cost estimates and cost analyses to be conducted in connection with a major defense acquisition program or major subprogram under chapters 321, 324, and 325, subchapter I of chapter 322, and sections 3042, 4232, 4273, 4293, 4321, 4323, and 4328 of this title, provide guidance to and consult with—
+  - **(2)** with respect to cost estimation in the Department of Defense in general and with respect to specific cost estimates and cost analyses to be conducted in connection with a major defense acquisition program or major subprogram under chapter 144 of this title, provide guidance to and consult with—
     - **(A)** the Secretary of Defense;
     - **(B)** the Under Secretary of Defense for Acquisition and Sustainment;
     - **(C)** the Under Secretary of Defense (Comptroller);
@@ -24,11 +24,11 @@ generated_at: "2026-03-29T20:03:09.753Z"
   - **(5)** review all cost estimates and cost analyses conducted in connection with major defense acquisition programs and major subprograms;
   - **(6)** conduct or approve independent cost estimates and cost analyses for all major defense acquisition programs and major subprograms—
     - **(A)** in advance of—
-      - **(i)** any decision to grant milestone approval pursuant to section 4252 of this title ;
+      - **(i)** any decision to grant milestone approval pursuant to section 4251 or 4252 of this title;
       - **(ii)** any decision to enter into low-rate initial production or full-rate production;
       - **(iii)** any certification under section 4376 of this title ; and
-      - **(iv)** any decision to enter into a contract in connection with a military construction project of a value greater than $500,000,000; and
+      - **(iv)** any report under section 2445c(f) of this title ; and
     - **(B)** at any other time considered appropriate by the Director, upon the request of the Under Secretary of Defense for Acquisition and Sustainment, or upon the request of the milestone decision authority;
   - **(7)** periodically assess and update the cost indexes used by the Department to ensure that such indexes have a sound basis and meet the Department’s needs for realistic cost estimation; and
-  - **(8)** annually review the cost and associated information required to be included, by section 4351(c)(1) of this title , in the Selected Acquisition Reports required by that section.
-- **(c)** The Secretary of Defense shall ensure that the Director of Cost Assessment and Program Evaluation has sufficient professional staff of military and civilian personnel to enable the Director to carry out the duties and responsibilities of the Director under this chapter.
+  - **(8)** annually review the cost and associated information required to be included, by section 4353(a) of this title , in the Selected Acquisition Reports required by that section.
+- **(c)** The Secretary of Defense shall ensure that the Director of Cost Assessment and Program Evaluation has sufficient professional staff of military and civilian personnel to enable the Director to carry out the duties and responsibilities of the Director under this section.

@@ -3,9 +3,9 @@ title: "Section 136a - Registration of pesticides"
 usc_title: 7
 usc_section: "136a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 136a"
-generated_at: "2026-03-29T20:02:52.382Z"
+generated_at: "2026-03-29T20:31:41.858Z"
 ---
 
 # § 136a. Registration of pesticides
@@ -152,7 +152,7 @@ generated_at: "2026-03-29T20:02:52.382Z"
     - **(E)** In carrying out the duties under this paragraph, the working group shall, as appropriate—
       - **(i)** consult with, representatives of interested industry stakeholders and nongovernmental organizations; and
       - **(ii)** take into consideration factors, such as actual and potential differences in interest between, and the views of, those stakeholders and organizations.
-    - **(F)** Chapter 10 of title 5 shall not apply to the working group established under this paragraph.
+    - **(F)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the working group established under this paragraph.
     - **(G)** Nothing in this paragraph supersedes any provision of—
       - **(i)** this subchapter; or
       - **(ii)** the Endangered Species Act of 1973 ( 16 U.S.C. 1531 et seq.), including the requirements under section 7 of that Act ( 16 U.S.C. 1536 ).
@@ -173,34 +173,6 @@ generated_at: "2026-03-29T20:02:52.382Z"
   - **(4)** Any mixture or other combination of—
     - **(A)** 1 or more nitrogen stabilizers registered under this subchapter; and
     - **(B)** 1 or more fertilizer products,
-  - **(5)**
-    - **(A)**
-      - **(i)** Subject to clause (ii), not later than the applicable deadline described in subparagraph (B), each registered pesticide product released for shipment shall include—
-        - **(I)** the translation of the parts of the labeling contained in the Spanish Translation Guide described in subparagraph (G) on the product container; or
-        - **(II)** a link to such translation via scannable technology or other electronic methods readily accessible on the product label.
-      - **(ii)** Notwithstanding clause (i)—
-        - **(I)** an antimicrobial pesticide product may, in lieu of including a translation or a link under clause (i), provide a link to the safety data sheets in Spanish via scannable technology or other electronic methods readily accessible on the product label; or
-        - **(II)** a non-agricultural pesticide product that is not classified by the Administrator as restricted use under subsection (d)(1)(A) may, in lieu of including a translation or a link under clause (i), provide a link to the safety data sheets in Spanish via scannable technology or other electronic methods readily accessible on the product label.
-    - **(B)**
-      - **(i)** In the case of pesticide products classified by the Administrator as restricted use under subsection (d)(1)(A), the deadline specified in this subparagraph is the date that is 3 years following December 29, 2022 .
-      - **(ii)** In the case of pesticide products not classified by the Administrator as restricted use under subsection (d)(1)(A), the deadline specified in this subparagraph shall be as follows:
-        - **(I)**
-        - **(II)**
-        - **(III)** With respect to pesticide products not described in subclause (I) or (II), the date that is 8 years after December 29, 2022 .
-    - **(C)**
-      - **(i)**
-        - **(I)** In carrying out this paragraph, the Administrator shall allow translations of the parts of the label of a pesticide contained in the Spanish Translation Guide described in subparagraph (G) and scannable technology or other electronic methods to be added using non-notification procedures.
-        - **(II)** In this clause, the term “non-notification procedure” refers to a procedure under which a change may be made to a pesticide label without notifying the Administrator.
-      - **(ii)** In carrying out this paragraph, the Administrator shall cooperate and consult with State lead agencies for pesticide regulation for the purpose of implementing bilingual labeling as provided in this paragraph as expeditiously as possible.
-      - **(iii)** The labeling requirements of this paragraph shall apply to end use product labels.
-      - **(iv)** After initial translation deadlines provided in subparagraph (B), updates to the Spanish Translation Guide described in subparagraph (G) shall be incorporated into labeling on the earlier of—
-        - **(I)** in the case of agricultural use pesticide labels, as determined by the Administrator—
-        - **(II)** in the case of antimicrobial and non-agricultural use pesticide labels, as determined by the Administrator—
-      - **(v)** Not later than 10 days after updating the Spanish Translation Guide described in subparagraph (G), the Administrator shall notify registrants of the update to such guide.
-    - **(D)** Not later than 180 days after December 29, 2022 , to the maximum extent practicable, the Administrator shall seek stakeholder input on ways to make bilingual labeling required under this paragraph accessible to farm workers.
-    - **(E)** Not later than 3 years after December 29, 2022 , the Administrator shall implement a plan to ensure that farm workers have access to the bilingual labeling required under this paragraph.
-    - **(F)** Not later than 2 years after December 29, 2022 , the Administrator shall develop and implement, and make publicly available, a plan for tracking the adoption of the bilingual labeling required under this paragraph.
-    - **(G)** The Spanish Translation Guide described in this subparagraph is the Spanish Translation Guide for Pesticide Labeling issued in October 2019, as in effect on December 29, 2022 , and any successor guides or amendments to such guide.
 - **(g)**
   - **(1)**
     - **(A)**

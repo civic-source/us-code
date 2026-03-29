@@ -3,9 +3,9 @@ title: "Section 1395x - Definitions"
 usc_title: 42
 usc_section: "1395x"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 1395x"
-generated_at: "2026-03-29T20:07:43.738Z"
+generated_at: "2026-03-29T20:34:53.153Z"
 ---
 
 # § 1395x. Definitions
@@ -106,7 +106,7 @@ For purposes of this subchapter—
   - **(1)** physicians’ services;
   - **(2)**
     - **(A)** services and supplies (including drugs and biologicals which are not usually self-administered by the patient) furnished as an incident to a physician’s professional service, of kinds which are commonly furnished in physicians’ offices and are commonly either rendered without charge or included in the physicians’ bills (or would have been so included but for the application of section 1395w–3b of this title );
-    - **(B)** hospital services (including drugs and biologicals which are not usually self-administered by the patient) incident to physicians’ services rendered to outpatients and partial hospitalization services or intensive outpatient services incident to such services;
+    - **(B)** hospital services (including drugs and biologicals which are not usually self-administered by the patient) incident to physicians’ services rendered to outpatients and partial hospitalization services incident to such services;
     - **(C)** diagnostic services which are—
       - **(i)** furnished to an individual as an outpatient by a hospital or by others under arrangements with them made by a hospital, and
       - **(ii)** ordinarily furnished by such hospital (or by others under such arrangements) to its outpatients for the purpose of diagnostic study;
@@ -141,7 +141,7 @@ For purposes of this subchapter—
     - **(W)** an initial preventive physical examination (as defined in subsection (ww));
     - **(X)** cardiovascular screening blood tests (as defined in subsection (xx)(1));
     - **(Y)** diabetes screening tests (as defined in subsection (yy));
-    - **(Z)** intravenous immune globulin, and items and services furnished on or after January 1, 2024 , related to the administration of intravenous immune globulin, for the treatment of primary immune deficiency diseases in the home (as defined in subsection (zz));
+    - **(Z)** intravenous immune globulin for the treatment of primary immune deficiency diseases in the home (as defined in subsection (zz));
     - **(AA)** ultrasound screening for abdominal aortic aneurysm (as defined in subsection (bbb)) for an individual—
       - **(i)** who receives a referral for such an ultrasound screening as a result of an initial preventive physical examination (as defined in subsection (ww)(1));
       - **(ii)** who has not been previously furnished such an ultrasound screening under this subchapter; and
@@ -153,10 +153,8 @@ For purposes of this subchapter—
     - **(DD)** items and services furnished under an intensive cardiac rehabilitation program (as defined in subsection (eee)(4));
     - **(EE)** kidney disease education services (as defined in subsection (ggg));
     - **(FF)** personalized prevention plan services (as defined in subsection (hhh));
-    - **(GG)** home infusion therapy (as defined in subsection (iii)(1));
-    - **(HH)** opioid use disorder treatment services (as defined in subsection (jjj));
-    - **(II)** marriage and family therapist services (as defined in subsection ( lll )(1)) and mental health counselor services (as defined in subsection ( lll )(3)); and
-    - **(JJ)** lymphedema compression treatment items (as defined in subsection (mmm));
+    - **(GG)** home infusion therapy (as defined in subsection (iii)(1)); and
+    - **(HH)** opioid use disorder treatment services (as defined in subsection (jjj)).
   - **(3)** diagnostic X-ray tests (including tests under the supervision of a physician, furnished in a place of residence used as the patient’s home, if the performance of such tests meets such conditions relating to health and safety as the Secretary may find necessary and including diagnostic mammography if conducted by a facility that has a certificate (or provisional certificate) issued under section 354 of the Public Health Service Act [ 42 U.S.C. 263b ]), diagnostic laboratory tests, and other diagnostic tests;
   - **(4)** X-ray, radium, and radioactive isotope therapy, including materials and services of technicians;
   - **(5)** surgical dressings, and splints, casts, and other devices used for reduction of fractures and dislocations;
@@ -334,9 +332,8 @@ For purposes of this subchapter—
 - **(aa)**
   - **(1)** The term “rural health clinic services” means—
     - **(A)** physicians’ services and such services and supplies as are covered under subsection (s)(2)(A) if furnished as an incident to a physician’s professional service and items and services described in subsection (s)(10),
-    - **(B)** such services furnished by a physician assistant or a nurse practitioner (as defined in paragraph (5)), by a clinical psychologist (as defined by the Secretary), by a clinical social worker (as defined in subsection (hh)(1)), by a marriage and family therapist (as defined in subsection ( lll )(2)), or by a mental health counselor (as defined in subsection ( lll )(4)), and such services and supplies furnished as an incident to his service as would otherwise be covered if furnished by a physician or as an incident to a physician’s service,
-    - **(C)** in the case of a rural health clinic located in an area in which there exists a shortage of home health agencies, part-time or intermittent nursing care and related medical supplies (other than drugs and biologicals) furnished by a registered professional nurse or licensed practical nurse to a homebound individual under a written plan of treatment (i) established and periodically reviewed by a physician described in paragraph (2)(B), or (ii) established by a nurse practitioner or physician assistant and periodically reviewed and approved by a physician described in paragraph (2)(B), and
-    - **(D)** intensive outpatient services (as defined in section 1395x(ff)(4) of this title ),
+    - **(B)** such services furnished by a physician assistant or a nurse practitioner (as defined in paragraph (5)), by a clinical psychologist (as defined by the Secretary) or by a clinical social worker (as defined in subsection (hh)(1)), and such services and supplies furnished as an incident to his service as would otherwise be covered if furnished by a physician or as an incident to a physician’s service, and
+    - **(C)** in the case of a rural health clinic located in an area in which there exists a shortage of home health agencies, part-time or intermittent nursing care and related medical supplies (other than drugs and biologicals) furnished by a registered professional nurse or licensed practical nurse to a homebound individual under a written plan of treatment (i) established and periodically reviewed by a physician described in paragraph (2)(B), or (ii) established by a nurse practitioner or physician assistant and periodically reviewed and approved by a physician described in paragraph (2)(B),
   - **(2)** The term “rural health clinic” means a facility which—
     - **(A)** is primarily engaged in furnishing to outpatients services described in subparagraphs (A) and (B) of paragraph (1);
     - **(B)** in the case of a facility which is not a physician-directed clinic, has an arrangement (consistent with the provisions of State and local law relative to the practice, performance, and delivery of health services) with one or more physicians (as defined in subsection (r)(1)) under which provision is made for the periodic review by such physicians of covered services furnished by physician assistants and nurse practitioners, the supervision and guidance by such physicians of physician assistants and nurse practitioners, the preparation by such physicians of such medical orders for care and treatment of clinic patients as may be necessary, and the availability of such physicians for such referral of and consultation for patients as is necessary and for advice and assistance in the management of medical emergencies; and, in the case of a physician-directed clinic, has one or more of its staff physicians perform the activities accomplished through such an arrangement;
@@ -350,7 +347,7 @@ For purposes of this subchapter—
     - **(J)** has a nurse practitioner, a physician assistant, or a certified nurse-midwife (as defined in subsection (gg)) available to furnish patient care services not less than 50 percent of the time the clinic operates; and
     - **(K)** meets such other requirements as the Secretary may find necessary in the interest of the health and safety of the individuals who are furnished services by the clinic.
   - **(3)** The term “Federally qualified health center services” means—
-    - **(A)** services of the type described in subparagraphs (A) through (D) of paragraph (1) and preventive services (as defined in subsection (ddd)(3)); and
+    - **(A)** services of the type described in subparagraphs (A) through (C) of paragraph (1) and preventive services (as defined in subsection (ddd)(3)); and
     - **(B)** preventive primary health services that a center is required to provide under section 330 of the Public Health Service Act [ 42 U.S.C. 254b ],
   - **(4)** The term “Federally qualified health center” means an entity which—
     - **(A)**
@@ -417,7 +414,7 @@ For purposes of this subchapter—
       - **(i)** includes at least—
         - **(I)** one physician (as defined in subsection (r)(1)),
         - **(II)** one registered professional nurse, and
-        - **(III)** one social worker, marriage and family therapist, or mental health counselor,
+        - **(III)** one social worker,
       - **(ii)** provides (or supervises the provision of) the care and services described in paragraph (1), and
       - **(iii)** establishes the policies governing the provision of such care and services;
     - **(C)** maintains central clinical records on all patients;
@@ -460,7 +457,7 @@ For purposes of this subchapter—
     - **(A)** the discharge planning evaluation under paragraph (2)(D) is not required to include information on the availability of home health services through individuals and entities which do not have a contract with the organization; and
     - **(B)** notwithstanding subparagraph (H)(i) 9 9 So in original. Probably should be “paragraph (2)(H)(i)”. , the plan may specify or limit the provider (or providers) of post-hospital home health services or other post-hospital services under the plan.
 - **(ff)**
-  - **(1)** The term “partial hospitalization services” means the items and services described in paragraph (2) prescribed by a physician for an individual determined (not less frequently than monthly) by a physician to have a need for such services for a minimum of 20 hours per week and provided under a program described in paragraph (3) under the supervision of a physician pursuant to an individualized, written plan of treatment established and periodically reviewed by a physician (in consultation with appropriate staff participating in such program), which plan sets forth the physician’s diagnosis, the type, amount, frequency, and duration of the items and services provided under the plan, and the goals for treatment under the plan.
+  - **(1)** The term “partial hospitalization services” means the items and services described in paragraph (2) prescribed by a physician and provided under a program described in paragraph (3) under the supervision of a physician pursuant to an individualized, written plan of treatment established and periodically reviewed by a physician (in consultation with appropriate staff participating in such program), which plan sets forth the physician’s diagnosis, the type, amount, frequency, and duration of the items and services provided under the plan, and the goals for treatment under the plan.
   - **(2)** The items and services described in this paragraph are—
     - **(A)** individual and group therapy with physicians or psychologists (or other mental health professionals to the extent authorized under State law),
     - **(B)** occupational therapy requiring the skills of a qualified occupational therapist,
@@ -480,10 +477,6 @@ For purposes of this subchapter—
       - **(ii)** meets applicable licensing or certification requirements for community mental health centers in the State in which it is located;
       - **(iii)** provides at least 40 percent of its services to individuals who are not eligible for benefits under this subchapter; and
       - **(iv)** meets such additional conditions as the Secretary shall specify to ensure (I) the health and safety of individuals being furnished such services, (II) the effective and efficient furnishing of such services, and (III) the compliance of such entity with the criteria described in section 1931(c)(1) of the Public Health Service Act [ 42 U.S.C. 300x–31(c)(1) ].
-  - **(4)** The term “intensive outpatient services” has the meaning given the term “partial hospitalization services” in paragraph (1), except that—
-    - **(A)** section 1395n(a)(2)(F)(i) of this title shall not apply;
-    - **(B)** the reference in such paragraph to an individual “determined (not less frequently than monthly) by a physician to have a need for such services for a minimum of 20 hours per week” shall be treated as a reference to an individual “determined (not less frequently than once every other month) by a physician to have a need for such services for a minimum of 9 hours per week”; and
-    - **(C)** the reference to “a community mental health center (as defined in subparagraph (B))” in paragraph (3) shall be treated as a reference to “a community mental health center (as defined in subparagraph (B)), a Federally qualified health center, or a rural health clinic”.
 - **(gg)**
   - **(1)** The term “certified nurse-midwife services” means such services furnished by a certified nurse-midwife (as defined in paragraph (2)) and such services and supplies furnished as an incident to the nurse-midwife’s service which the certified nurse-midwife is legally authorized to perform under State law (or the State regulatory mechanism provided by State law) as would otherwise be covered if furnished by a physician or as an incident to a physicians’ service.
   - **(2)** The term “certified nurse-midwife” means a registered nurse who has successfully completed a program of study and clinical experience meeting guidelines prescribed by the Secretary, or has been certified by an organization recognized by the Secretary.
@@ -650,7 +643,7 @@ For purposes of this subchapter—
       - **(iii)** A history of gestational diabetes mellitus or delivery of a baby weighing greater than 9 pounds.
       - **(iv)** 65 years of age or older.
   - **(3)** The Secretary shall establish standards, in consultation with appropriate organizations, regarding the frequency of diabetes screening tests, except that such frequency may not be more often than twice within the 12-month period following the date of the most recent diabetes screening test of that individual.
-- **(zz)** The term “intravenous immune globulin” means an approved pooled plasma derivative for the treatment in the patient’s home of a patient with a diagnosed primary immune deficiency disease, but not including items or services furnished before January 1, 2024 , related to the administration of the derivative, if a physician determines administration of the derivative in the patient’s home is medically appropriate.
+- **(zz)** The term “intravenous immune globulin” means an approved pooled plasma derivative for the treatment in the patient’s home of a patient with a diagnosed primary immune deficiency disease, but not including items or services related to the administration of the derivative, if a physician determines administration of the derivative in the patient’s home is medically appropriate.
 - **(aaa)**
   - **(1)** The term “home health agency” also includes a religious nonmedical health care institution (as defined in subsection (ss)(1)), but only with respect to items and services ordinarily furnished by such an institution to individuals in their homes, and that are comparable to items and services furnished to individuals by a home health agency that is not religious nonmedical health care institution.
   - **(2)**
@@ -680,13 +673,13 @@ For purposes of this subchapter—
     - **(B)** An initial preventive physical examination (as defined in subsection (ww)).
     - **(C)** Personalized prevention plan services (as defined in subsection (hhh)(1)).
 - **(eee)**
-  - **(1)** The term “cardiac rehabilitation program” means a program (as described in paragraph (2)) that furnishes the items and services described in paragraph (3) under the supervision of a physician (as defined in subsection (r)(1)) or a physician assistant, nurse practitioner, or clinical nurse specialist (as those terms are defined in subsection (aa)(5)).
+  - **(1)** The term “cardiac rehabilitation program” means a physician-supervised program (as described in paragraph (2)) that furnishes the items and services described in paragraph (3).
   - **(2)** A program described in this paragraph is a program under which—
     - **(A)** items and services under the program are delivered—
       - **(i)** in a physician’s office;
       - **(ii)** in a hospital on an outpatient basis; or
-      - **(iii)** in other settings determined appropriate by the Secretary;
-    - **(B)** a physician (as defined in subsection (r)(1)) or a physician assistant, nurse practitioner, or clinical nurse specialist (as those terms are defined in subsection (aa)(5)) is immediately available and accessible for medical consultation and medical emergencies at all times items and services are being furnished under the program, except that, in the case of items and services furnished under such a program in a hospital, such availability shall be presumed; and
+      - **(iii)** in other settings determined appropriate by the Secretary.
+    - **(B)** a physician is immediately available and accessible for medical consultation and medical emergencies at all times items and services are being furnished under the program, except that, in the case of items and services furnished under such a program in a hospital, such availability shall be presumed; and
     - **(C)** individualized treatment is furnished under a written plan established, reviewed, and signed by a physician every 30 days that describes—
       - **(i)** the individual’s diagnosis;
       - **(ii)** the type, amount, frequency, and duration of the items and services furnished under the plan; and
@@ -701,7 +694,7 @@ For purposes of this subchapter—
       - **(ii)** reasonably expected to improve or maintain the individual’s condition and functional level; and
       - **(iii)** furnished under such guidelines relating to the frequency and duration of such items and services as the Secretary shall establish, taking into account accepted norms of medical practice and the reasonable expectation of improvement of the individual.
   - **(4)**
-    - **(A)** The term “intensive cardiac rehabilitation program” means a program (as described in paragraph (2)) that furnishes the items and services described in paragraph (3) under the supervision of a physician (as defined in subsection (r)(1)) or a physician assistant, nurse practitioner, or clinical nurse specialist (as those terms are defined in subsection (aa)(5)) and has shown, in peer-reviewed published research, that it accomplished—
+    - **(A)** The term “intensive cardiac rehabilitation program” means a physician-supervised program (as described in paragraph (2)) that furnishes the items and services described in paragraph (3) and has shown, in peer-reviewed published research, that it accomplished—
       - **(i)** one or more of the following:
         - **(I)** positively affected the progression of coronary heart disease; or
         - **(II)** reduced the need for coronary bypass surgery; or
@@ -727,7 +720,7 @@ For purposes of this subchapter—
     - **(A)** is responsible for such program; and
     - **(B)** in consultation with appropriate staff, is involved substantially in directing the progress of individual 1 in the program.
 - **(fff)**
-  - **(1)** The term “pulmonary rehabilitation program” means a program (as described in subsection (eee)(2) with respect to a program under this subsection) that furnishes the items and services described in paragraph (2) under the supervision of a physician (as defined in subsection (r)(1)) or a physician assistant, nurse practitioner, or clinical nurse specialist (as those terms are defined in subsection (aa)(5)).
+  - **(1)** The term “pulmonary rehabilitation program” means a physician-supervised program (as described in subsection (eee)(2) with respect to a program under this subsection) that furnishes the items and services described in paragraph (2).
   - **(2)** The items and services described in this paragraph are—
     - **(A)** physician-prescribed exercise;
     - **(B)** education or training (to the extent the education or training is closely and clearly related to the individual’s care and treatment and is tailored to such individual’s needs);
@@ -851,7 +844,7 @@ For purposes of this subchapter—
   - **(2)** The term “rural emergency hospital” means a facility described in paragraph (3) that—
     - **(A)** is enrolled under section 1395cc(j) of this title , submits the additional information described in paragraph (4)(A) for purposes of such enrollment, and makes the detailed transition plan described in clause (i) of such paragraph available to the public, in a form and manner determined appropriate by the Secretary;
     - **(B)** does not provide any acute care inpatient services, other than those described in paragraph (6)(A);
-    - **(C)** has in effect a transfer agreement with a level I or level II trauma center; 2
+    - **(C)** has in effect a transfer agreement with a level I or level II trauma center;
     - **(D)** meets—
       - **(i)** licensure requirements as described in paragraph (5);
       - **(ii)** the requirements of a staffed emergency department as described in paragraph (1)(B);
@@ -900,20 +893,3 @@ For purposes of this subchapter—
     - **(A)** The determination of whether a rural emergency hospital meets the requirements of this subsection.
     - **(B)** The establishment of requirements under this subsection by the Secretary, including requirements described in paragraphs (2)(D), (4), and (7).
     - **(C)** The determination of payment amounts under section 1395m(x) of this title , including the additional facility payment described in paragraph (2) of such section.
-- **(lll)**
-  - **(1)** The term “marriage and family therapist services” means services furnished by a marriage and family therapist (as defined in paragraph (2)) for the diagnosis and treatment of mental illnesses (other than services furnished to an inpatient of a hospital), which the marriage and family therapist is legally authorized to perform under State law (or the State regulatory mechanism provided by State law) of the State in which such services are furnished, as would otherwise be covered if furnished by a physician or as an incident to a physician’s professional service.
-  - **(2)** The term “marriage and family therapist” means an individual who—
-    - **(A)** possesses a master’s or doctor’s degree which qualifies for licensure or certification as a marriage and family therapist pursuant to State law of the State in which such individual furnishes the services described in paragraph (1);
-    - **(B)** is licensed or certified as a marriage and family therapist by the State in which such individual furnishes such services;
-    - **(C)** after obtaining such degree has performed at least 2 years of clinical supervised experience in marriage and family therapy; and
-    - **(D)** meets such other requirements as specified by the Secretary.
-  - **(3)** The term “mental health counselor services” means services furnished by a mental health counselor (as defined in paragraph (4)) for the diagnosis and treatment of mental illnesses (other than services furnished to an inpatient of a hospital), which the mental health counselor is legally authorized to perform under State law (or the State regulatory mechanism provided by the State law) of the State in which such services are furnished, as would otherwise be covered if furnished by a physician or as incident to a physician’s professional service.
-  - **(4)** The term “mental health counselor” means an individual who—
-    - **(A)** possesses a master’s or doctor’s degree which qualifies for licensure or certification as a mental health counselor, clinical professional counselor, or professional counselor under the State law of the State in which such individual furnishes the services described in paragraph (3);
-    - **(B)** is licensed or certified as a mental health counselor, clinical professional counselor, or professional counselor by the State in which the services are furnished;
-    - **(C)** after obtaining such a degree has performed at least 2 years of clinical supervised experience in mental health counseling; and
-    - **(D)** meets such other requirements as specified by the Secretary.
-- **(mmm)** The term “lymphedema compression treatment items” means standard and custom fitted gradient compression garments and other items determined by the Secretary that are—
-  - **(1)** furnished on or after January 1, 2024 , to an individual with a diagnosis of lymphedema for the treatment of such condition;
-  - **(2)** primarily and customarily used to serve a medical purpose and for the treatment of lymphedema, as determined by the Secretary; and
-  - **(3)** prescribed by a physician (or a physician assistant, nurse practitioner, or a clinical nurse specialist (as those terms are defined in section 1395x(aa)(5) of this title ) to the extent authorized under State law).

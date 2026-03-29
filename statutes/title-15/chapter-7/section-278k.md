@@ -3,9 +3,9 @@ title: "Section 278k - Hollings Manufacturing Extension Partnership"
 usc_title: 15
 usc_section: "278k"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 278k"
-generated_at: "2026-03-29T20:03:27.237Z"
+generated_at: "2026-03-29T20:32:09.744Z"
 ---
 
 # § 278k. Hollings Manufacturing Extension Partnership
@@ -19,28 +19,23 @@ generated_at: "2026-03-29T20:03:27.237Z"
     - **(A)** is created under subsection (b); and
     - **(B)** is affiliated with an eligible entity that applies for and is awarded financial support under subsection (e).
   - **(4)** The term “community college” means an institution of higher education (as defined under section 1001(a) of title 20 ) at which the highest degree that is predominately awarded to students is an associate’s degree.
-  - **(5)** The term “eligible entity” means a United States-based nonprofit institution, an institution of higher education, or a State, United States territory, local, or tribal government or a consortium thereof.
-  - **(6)** The term “historically Black college and university” has the meaning given the term “part B institution” in section 1061 of title 20 .
-  - **(7)** The term “institution of higher education” has the meaning given such term in section 1001 of title 20 .
-  - **(7)** The term “Hollings Manufacturing Extension Partnership” or “Program” means the program established under subsection (b).
-  - **(8)** The term “MEP Advisory Board” means the Manufacturing Extension Partnership Advisory Board established under subsection (n). 2 2 So in original. Probably should refer to subsec. (m).
-  - **(9)** The term “minority-serving institution” means a Hispanic-serving institution as defined in section 1101a(a) of title 20 ; an Alaska Native-serving institution or Native Hawaiian-serving institution as defined in section 1059d(b) of title 20 ; or a Predominantly Black institution, Asian American and Native American Pacific Islander-serving institution, or Native American-serving nontribal institution as defined in section 1067q(c) of title 20 .
-  - **(10)** The term “secondary school” has the meaning given such term in section 7801 of title 20 .
-  - **(11)** The term “Tribal College or University” has the meaning given the term “Tribal College or University” in section 1059c of title 20 .
+  - **(5)** The term “eligible entity” means a United States-based nonprofit institution, or consortium thereof, an institution of higher education, or a State, United States territory, local, or tribal government.
+  - **(6)** The term “Hollings Manufacturing Extension Partnership” or “Program” means the program established under subsection (b).
+  - **(7)** The term “MEP Advisory Board” means the Manufacturing Extension Partnership Advisory Board established under subsection (n). 1 1 So in original. Probably should refer to subsec. (m).
 - **(b)** The Secretary, acting through the Director and, if appropriate, through other Federal officials, shall establish a program to provide assistance for the creation and support of manufacturing extension centers for the transfer of manufacturing technology and best business practices.
 - **(c)** The objective of the Program shall be to enhance competitiveness, productivity, and technological performance in United States manufacturing through—
   - **(1)** the transfer of manufacturing technology and techniques developed at the Institute to Centers and, through them, to manufacturing companies throughout the United States;
   - **(2)** the participation of individuals from industry, institutions of higher education, State governments, other Federal agencies, and, when appropriate, the Institute in cooperative technology transfer activities;
   - **(3)** efforts to make new manufacturing technology and processes usable by United States-based small and medium-sized companies;
-  - **(4)** the active dissemination of scientific, engineering, technical, and management information about manufacturing to United States-based industrial firms, including small and medium-sized manufacturing companies;
+  - **(4)** the active dissemination of scientific, engineering, technical, and management information about manufacturing to industrial firms, including small and medium-sized manufacturing companies;
   - **(5)** the utilization, when appropriate, of the expertise and capability that exists in Federal agencies, other than the Institute, and federally-sponsored laboratories;
-  - **(6)** the provision to secondary schools, community colleges, and area career and technical education schools, including those in underserved and rural communities, of information about the job skills needed in manufacturing companies, including small and medium-sized manufacturing businesses in the regions they serve;
-  - **(7)** the promotion and expansion of certification systems offered through industry, associations, local secondary schools and local colleges, including historically Black colleges and universities, Tribal Colleges or Universities, minority-serving institutions, community colleges, and secondary schools and colleges in underserved and rural communities, when appropriate, including efforts such as facilitating training, supporting new or existing apprenticeships or other applied learning opportunities, and providing access to information and experts, to address workforce needs and skills gaps in order to assist small- and medium-sized manufacturing businesses; and
+  - **(6)** the provision to community colleges and area career and technical education schools of information about the job skills needed in manufacturing companies, including small and medium-sized manufacturing businesses in the regions they serve;
+  - **(7)** the promotion and expansion of certification systems offered through industry, associations, and local colleges when appropriate, including efforts such as facilitating training, supporting new or existing apprenticeships, and providing access to information and experts, to address workforce needs and skills gaps in order to assist small- and medium-sized manufacturing businesses; and
   - **(8)** the growth in employment and wages at United States-based small and medium-sized companies.
 - **(d)** The activities of a Center shall include—
-  - **(1)** the establishment of automated manufacturing systems and other advanced production technologies, at United States-based industrial facilities, including small and medium manufacturing companies based on Institute-supported research, for the purpose of demonstrations and technology transfer;
-  - **(2)** the active transfer and dissemination of research findings and Center expertise to a wide range of United States-based companies and enterprises, particularly small and medium-sized manufacturers; and
-  - **(3)** the facilitation of collaborations and partnerships between United States-based small and medium-sized manufacturing companies and local high schools, community colleges, and area career and technical education schools, including those in underserved and rural communities, to help those entities better understand the specific needs of manufacturers and to help manufacturers better understand the skill sets that students learn in the programs offered by such colleges and schools.
+  - **(1)** the establishment of automated manufacturing systems and other advanced production technologies, based on Institute-supported research, for the purpose of demonstrations and technology transfer;
+  - **(2)** the active transfer and dissemination of research findings and Center expertise to a wide range of companies and enterprises, particularly small and medium-sized manufacturers; and
+  - **(3)** the facilitation of collaborations and partnerships between small and medium-sized manufacturing companies, community colleges, and area career and technical education schools, to help those entities better understand the specific needs of manufacturers and to help manufacturers better understand the skill sets that students learn in the programs offered by such colleges and schools.
 - **(e)**
   - **(1)** Except as provided in paragraph (2), the Secretary may provide financial assistance for the creation and support of a Center through a cooperative agreement with an eligible entity.
   - **(2)** The Secretary may not provide more than 50 percent of the capital and annual operating and maintenance funds required to establish and support a Center.
@@ -52,8 +47,8 @@ generated_at: "2026-03-29T20:03:27.237Z"
     - **(A)** a description of the Program;
     - **(B)** the application procedures;
     - **(C)** performance metrics;
-    - **(D)** criteria for determining qualified applicants; and 3 3 So in original.
-    - **(E)** criteria for choosing recipients of financial assistance from among the qualified applicants. 3
+    - **(D)** criteria for determining qualified applicants; and 2 2 So in original.
+    - **(E)** criteria for choosing recipients of financial assistance from among the qualified applicants. 2
     - **(F)** procedures for determining allowable cost share contributions; and
     - **(G)** such other program policy objectives and operational procedures as the Secretary considers necessary.
   - **(3)**
@@ -66,7 +61,7 @@ generated_at: "2026-03-29T20:03:27.237Z"
   - **(5)**
     - **(A)** The Secretary shall subject each application to merit review.
     - **(B)** In making a decision whether to approve an application and provide financial assistance under subsection (e), the Secretary shall consider, at a minimum—
-      - **(i)** the merits of the application, particularly those portions of the application regarding technology transfer, training and education, and adaptation of manufacturing technologies to the needs of particular industrial sectors in the United States;
+      - **(i)** the merits of the application, particularly those portions of the application regarding technology transfer, training and education, and adaptation of manufacturing technologies to the needs of particular industrial sectors;
       - **(ii)** the quality of service to be provided;
       - **(iii)** the geographical diversity and extent of the service area; and
       - **(iv)** the type and percentage of funding and in-kind commitment from other sources under paragraph (3).
@@ -126,12 +121,7 @@ generated_at: "2026-03-29T20:03:27.237Z"
   - **(4)**
     - **(A)** Each board established under paragraph (1) shall adopt and submit to the Director bylaws to govern the operation of the board.
     - **(B)** Bylaws adopted under subparagraph (A) shall include policies to minimize conflicts of interest, including such policies relating to disclosure of relationships and recusal as may be necessary to minimize conflicts of interest.
-- **(l)**
-  - **(1)** To the extent provided in advance in appropriations Acts, other Federal departments and agencies may transfer amounts to the Institute, and the Secretary and Director may accept and make available cash donations from the private sector pursuant to section 272(c)(7) of this title , to be used for strengthening United States manufacturing under this section.
-  - **(2)** Funds accepted from other Federal departments and agencies and from the private sector under paragraph (1) shall be awarded competitively by the Secretary and Director to Centers, provided that the Secretary and Director may make noncompetitive 3 awards, pursuant to this section or section 278k–1 of this title , or as a non-competitive 3 contract, as appropriate, if the Secretary and Director determine that—
-    - **(A)** the manufacturing market or sector targeted is limited geographically or in scope;
-    - **(B)** the number of States (or territory, in the case of Puerto Rico) with Centers serving manufacturers of such market or sector is five or fewer; and
-    - **(C)** such Center has or Centers have received a positive evaluation in the most recent evaluation conducted pursuant to subsection (g).
+- **(l)** In addition to such sums as may be appropriated to the Secretary and Director to operate the Program, the Secretary and Director may also accept funds from other Federal departments and agencies and from the private sector under section 272(c)(7) of this title , to be available to the extent provided by appropriations Acts, for the purpose of strengthening United States manufacturing.
 - **(m)**
   - **(1)** There is established within the Institute a Manufacturing Extension Partnership Advisory Board.
   - **(2)**
@@ -152,14 +142,14 @@ generated_at: "2026-03-29T20:03:27.237Z"
       - **(ii)** assessments of the soundness of the plans and strategies of the Program; and
       - **(iii)** assessments of current performance against the plans of the Program.
   - **(4)**
-    - **(A)** In discharging its duties under this subsection, the MEP Advisory Board shall function solely in an advisory capacity, in accordance with chapter 10 of title 5.
-    - **(B)** Section 1013 of title 5 shall not apply to the MEP Advisory Board.
+    - **(A)** In discharging its duties under this subsection, the MEP Advisory Board shall function solely in an advisory capacity, in accordance with the Federal Advisory Committee Act (5 U.S.C. App.).
+    - **(B)** Section 14 of the Federal Advisory Committee Act shall not apply to the MEP Advisory Board.
   - **(5)**
     - **(A)** At a minimum, the MEP Advisory Board shall transmit an annual report to the Secretary for transmittal to Congress not later than 30 days after the submission to Congress of the President’s annual budget under section 1105 of title 31 .
-    - **(B)** The report shall address the status of the Program and describe the relevant sections of the programmatic planning document and updates thereto transmitted to Congress by the Director under subsections (c) and (d) of section 278i 4 4 See References in Text note below. of this title.
+    - **(B)** The report shall address the status of the Program and describe the relevant sections of the programmatic planning document and updates thereto transmitted to Congress by the Director under subsections (c) and (d) of section 278i 3 3 See References in Text note below. of this title.
 - **(n)**
   - **(1)** As part of the Program, the Director shall—
-    - **(A)** identify obstacles that prevent United States-based small manufacturers from effectively competing in the global market;
+    - **(A)** identify obstacles that prevent small manufacturers from effectively competing in the global market;
     - **(B)** implement a comprehensive plan to train the Centers to address the obstacles identified in paragraph (2); and
     - **(C)** facilitate improved communication between the Centers to assist such manufacturers in implementing appropriate, targeted solutions to the obstacles identified in paragraph (2).
   - **(2)** As part of the Program, the Secretary shall develop open access resources that address best practices related to inventory sourcing, supply chain management, manufacturing techniques, available Federal resources, and other topics to further the competitiveness and profitability of small manufacturers.

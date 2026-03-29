@@ -3,9 +3,9 @@ title: "Section 5601 - Representation of United States under Convention"
 usc_title: 16
 usc_section: "5601"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 5601"
-generated_at: "2026-03-29T20:04:20.469Z"
+generated_at: "2026-03-29T20:32:45.488Z"
 ---
 
 # § 5601. Representation of United States under Convention
@@ -45,4 +45,4 @@ generated_at: "2026-03-29T20:04:20.469Z"
   - **(1)** In carrying out their functions under the Convention, Commissioners, Alternate Commissioners, Representatives, and Alternate Representatives shall—
     - **(A)** coordinate with the appropriate Regional Fishery Management Councils established by section 1852 of this title ; and
     - **(B)** consult with the committee established under section 5607 of this title .
-  - **(2)** Chapter 10 of title 5 shall not apply to coordination and consultations under this subsection.
+  - **(2)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to coordination and consultations under this subsection.

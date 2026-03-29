@@ -1,12 +1,26 @@
 ---
-title: "Section 147 - Repealed. Pub. L. 119–60, div. A, title IX, § 901(b) , Dec. 18, 2025 , 139 Stat. 1007 ]"
+title: "Section 147 - Chief Diversity Officer"
 usc_title: 10
 usc_section: "147"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 147"
-generated_at: "2026-03-29T20:03:09.420Z"
+generated_at: "2026-03-29T20:31:54.386Z"
 ---
 
-# [§ 147. Repealed. Pub. L. 119–60, div. A, title IX, § 901(b) , Dec. 18, 2025 , 139 Stat. 1007 ]
+# § 147. Chief Diversity Officer
 
+- **(a)**
+  - **(1)** There is a Chief Diversity Officer of the Department of Defense, who shall be appointed by the Secretary of Defense.
+  - **(2)** The Chief Diversity Officer shall be appointed from among persons who have an extensive management or business background and experience with diversity and inclusion. A person may not be appointed as Chief Diversity Officer within three years after relief from active duty as a commissioned officer of a regular component of an armed force.
+  - **(3)** The Chief Diversity Officer shall report directly to the Secretary of Defense in the performance of the duties of the Chief Diversity Officer under this section.
+- **(b)** The Chief Diversity Officer—
+  - **(1)** is responsible for providing advice on policy, oversight, guidance, and coordination for all matters of the Department of Defense related to diversity and inclusion;
+  - **(2)** advises the Secretary of Defense, the Secretaries of the military departments, and the heads of all other elements of the Department with regard to matters of diversity and inclusion;
+  - **(3)** shall establish and maintain a Department of Defense strategic plan that publicly states a diversity definition, vision, and goals for the Department;
+  - **(4)** shall define a set of strategic metrics that are directly linked to key organizational priorities and goals, actionable, and actively used to implement the strategic plan under paragraph (3);
+  - **(5)** shall advise in the establishment of training in diversity dynamics and training in practices for leading diverse groups effectively;
+  - **(6)** shall advise in the establishment of a strategic plan for diverse participation by institutions of higher education (including historically black colleges and universities and minority-serving institutions), federally funded research and development centers, and individuals in defense-related research, development, test, and evaluation activities;
+  - **(7)** shall advise in the establishment of a strategic plan for outreach to, and recruiting from, untapped locations and underrepresented demographic groups;
+  - **(8)** shall coordinate with, and be supported by, the Office of People Analytics on studies, assessments, and related work relevant to diversity and inclusion; and
+  - **(9)** shall perform such additional duties and exercise such powers as the Secretary of Defense may prescribe.

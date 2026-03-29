@@ -3,9 +3,9 @@ title: "Section 4864 - Miscellaneous limitations on the procurement of goods oth
 usc_title: 10
 usc_section: "4864"
 chapter: 385
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 4864"
-generated_at: "2026-03-29T20:03:09.802Z"
+generated_at: "2026-03-29T20:31:54.705Z"
 ---
 
 # § 4864. Miscellaneous limitations on the procurement of goods other than United States goods
@@ -18,24 +18,21 @@ generated_at: "2026-03-29T20:03:09.802Z"
     - **(C)** Steering controls.
     - **(D)** Propulsion and machinery control systems.
     - **(E)** Totally enclosed lifeboats.
-    - **(F)** Welded shipboard anchor and mooring chain.
-  - **(3)** Subject to subsection (k), large medium-speed diesel engines.
-  - **(4)** The following components of T–AO 205 and T–ARC class vessels:
+  - **(3)** Subject to subsection (j), 1 1 So in original. Probably should refer to subsec. ( l ). large medium-speed diesel engines.
+  - **(4)** The following components of T–AO 205 class vessels:
     - **(A)** Auxiliary equipment, including pumps, for all shipboard services.
     - **(B)** Propulsion system components, including engines, reduction gears, and propellers.
     - **(C)** Shipboard cranes.
     - **(D)** Spreaders for shipboard cranes.
-  - **(5)** A star tracker used in a satellite weighing more than 400 pounds whose principal purpose is to support the national security, defense, or intelligence needs of the United States Government.
-- **(b)**
-  - **(1)** Except as provided in paragraph (2), a manufacturer meets the requirements of this subsection if the manufacturer is part of the national technology and industrial base.
-  - **(2)** A manufacturer of welded shipboard anchor and mooring chain for naval vessels meets the requirements of this subsection if the manufacturer is part of the national technology and industrial base.
+  - **(5)** A star tracker used in a satellite weighing more than 400 pounds whose principle purpose is to support the national security, defense, or intelligence needs of the United States Government.
+- **(b)** A manufacturer meets the requirements of this subsection if the manufacturer is part of the national technology and industrial base.
 - **(c)** Subsection (a) does not apply to a procurement of spare or repair parts needed to support components for naval vessels produced or manufactured outside the United States.
 - **(d)** The Secretary of Defense may waive the limitation in subsection (a) with respect to the procurement of an item listed in that subsection if the Secretary determines that any of the following apply:
   - **(1)** Application of the limitation would cause unreasonable costs or delays to be incurred.
   - **(2)** United States producers of the item would not be jeopardized by competition from a foreign country, and that country does not discriminate against defense items produced in the United States to a greater degree than the United States discriminates against defense items produced in that country.
   - **(3)** Application of the limitation would impede cooperative programs entered into between the Department of Defense and a foreign country, or would impede the reciprocal procurement of defense items under a memorandum of understanding providing for reciprocal procurement of defense items that is entered into under section 4851 of this title , and that country does not discriminate against defense items produced in the United States to a greater degree than the United States discriminates against defense items produced in that country.
-  - **(4)** Satisfactory quality items manufactured by an entity that is part of the national technology and industrial base (as defined in section 4801(1) of this title ) are not available.
-  - **(5)** Application of the limitation would result in the existence of only one source for the item that is an entity that is part of the national technology and industrial base (as defined in section 4801(1) of this title ).
+  - **(4)** Satisfactory quality items manufactured by an entity that is part of the national technology and industrial base (as defined in section 4801(1) 2 2 Reference reflects amendment made by section 1883(b)(2) of Pub. L. 116–283 . of this title) are not available.
+  - **(5)** Application of the limitation would result in the existence of only one source for the item that is an entity that is part of the national technology and industrial base (as defined in section 4801(1) 2 of this title).
   - **(6)** The procurement is for an amount less than the simplified acquisition threshold and simplified purchase procedures are being used.
   - **(7)** Application of the limitation is not in the national security interests of the United States.
   - **(8)** Application of the limitation would adversely affect a United States company.
@@ -81,19 +78,4 @@ generated_at: "2026-03-29T20:03:09.802Z"
       - **(iii)** not recommend inclusion under this section.
     - **(D)** The determination required under subparagraph (B) shall also include the rationale and justification for the determination.
   - **(4)** For applications recommended under subsection (3), the official designated pursuant to paragraph (2)(A) shall be responsible for preparing a legislative proposal for consideration by the Secretary.
-- **(k)**
-  - **(1)** Subsection (a)(3) applies only with respect to contracts awarded by the Secretary of a military department for new construction of an auxiliary ship after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 using funds available for National Defense Sealift Fund programs or Shipbuilding and Conversion, Navy.
-  - **(2)** For purposes of this subsection, the term “auxiliary ship”—
-    - **(A)** with respect to a contract entered into after December 20, 2019 , does not include an icebreaker or a special mission ship; and
-    - **(B)** with respect to a contract entered into on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2025, includes an icebreaker or a special mission ship, unless the Secretary of the Navy certifies to Congress that the forecasted sales over a four-year period of large medium-speed diesel engines manufactured in the national technology and industrial base will not fall below the minimum sustaining rate for plant operations of a diminishing manufacturing source.
-- **(l)**
-  - **(1)** Not later than November 1, 2024 , and every five years thereafter, the Under Secretary of Defense for Acquisition and Sustainment shall review each item described in subsections (a) and (e) of this section and submit to the congressional defense committees, in writing, one of the following recommendations:
-    - **(A)** Recommend continued inclusion of the item under this section.
-    - **(B)** Recommend continued inclusion of the item under this section with modifications.
-    - **(C)** Recommend discontinuing inclusion of the item under this section.
-  - **(2)** Each review required under paragraph (1) shall include, with respect to the five-year period preceding the date of submission of the written determination related to such a review, the following elements:
-    - **(A)** The criticality of the item reviewed to a military unit’s mission accomplishment or other national security objectives.
-    - **(B)** The extent to which such item is fielded in current programs of record.
-    - **(C)** The number of such items to be procured by current programs of record.
-    - **(D)** The extent to which cost and pricing data for such item has been deemed fair and reasonable.
-  - **(3)** The written determination required under paragraph (1) shall also include the findings of the applicable review conducted under such paragraph and any key justifications for the recommendation.
+- **(l)** Subsection (a)(3) applies only with respect to contracts awarded by the Secretary of a military department for new construction of an auxiliary ship after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 using funds available for National Defense Sealift Fund programs or Shipbuilding and Conversion, Navy. For purposes of this subsection, the term “auxiliary ship” does not include an icebreaker or a special mission ship.

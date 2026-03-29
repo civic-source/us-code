@@ -3,9 +3,9 @@ title: "Section 70132 - Credentialing standards, training, and certification for
 usc_title: 46
 usc_section: "70132"
 chapter: 701
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "46 U.S.C. § 70132"
-generated_at: "2026-03-29T20:08:05.400Z"
+generated_at: "2026-03-29T20:35:02.458Z"
 ---
 
 # § 70132. Credentialing standards, training, and certification for State and local support for the enforcement of security zones for the transportation of especially hazardous cargo

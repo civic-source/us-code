@@ -3,9 +3,9 @@ title: "Section 11360 - Definitions"
 usc_title: 42
 usc_section: "11360"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 11360"
-generated_at: "2026-03-29T20:07:44.720Z"
+generated_at: "2026-03-29T20:34:54.066Z"
 ---
 
 # § 11360. Definitions
@@ -40,7 +40,7 @@ For purposes of this subchapter:
   - **(6)** The term “eligible entity” means, with respect to a part, a public entity, a private entity, or an entity that is a combination of public and private entities, that is eligible to directly receive grant amounts under such part.
   - **(7)** The term “families with children and youth defined as homeless under other Federal statutes” means any children or youth that are defined as “homeless” under any Federal statute other than this part, but are not defined as homeless under section 11302 of this title , and shall also include the parent, parents, or guardian of such children or youth under part B of subchapter VI this 1 1 So in original. Probably should be “of this”. chapter ( 42 U.S.C. 11431 et seq.).
   - **(8)** The term “formula area” has the meaning given the term in section 1000.302 of title 24, Code of Federal Regulations, or any successor regulation.
-  - **(9)** The term “geographic area” means a State, metropolitan city, urban county, town, village, or other nonentitlement area, a formula area, or a combination or consortia of such, in the United States, as described in section 5306 of this title .
+  - **(9)** The term “geographic area” means a State, metropolitan city, urban county, town, village, or other nonentitlement area, a formula area,or a combination or consortia of such, in the United States, as described in section 5306 of this title .
   - **(10)**
     - **(A)** The term “homeless individual with a disability” means an individual who is homeless, as defined in section 11302 of this title , and has a disability that—
       - **(i)**

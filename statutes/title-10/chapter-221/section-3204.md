@@ -3,9 +3,9 @@ title: "Section 3204 - Use of procedures other than competitive procedures"
 usc_title: 10
 usc_section: "3204"
 chapter: 221
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 3204"
-generated_at: "2026-03-29T20:03:09.751Z"
+generated_at: "2026-03-29T20:31:54.668Z"
 ---
 
 # § 3204. Use of procedures other than competitive procedures
@@ -14,8 +14,8 @@ generated_at: "2026-03-29T20:03:09.751Z"
   - **(1)** the property or services needed by the agency are available from only one responsible source or only from a limited number of responsible sources and no other type of property or services will satisfy the needs of the agency;
   - **(2)** the agency’s need for the property or services is of such an unusual and compelling urgency that the United States would be seriously injured unless the agency is permitted to limit the number of sources from which it solicits bids or proposals;
   - **(3)** it is necessary to award the contract to a particular source or sources in order—
-    - **(A)** to maintain a facility, producer, manufacturer, or other supplier available for furnishing property or services in case of a national emergency or to achieve industrial mobilization;
-    - **(B)** to establish or maintain an essential engineering, research, or development capability to be provided by an educational or other nonprofit institution or a federally funded research and development center; or
+    - **(A)** to maintain a facility, producer, manufacturer, or other supplier available for furnishing property or services in case of a national emergency or to achieve industrial mobilization— 1 1 So in original. The dash probably should be a semicolon.
+    - **(B)** to establish or maintain an essential engineering, research, or development capability to be provided by an educational or other nonprofit institution or a federally funded research and development center— 2 2 So in original. The dash probably should be “; or”.
     - **(C)** to procure the services of an expert for use, in any litigation or dispute (including any reasonably foreseeable litigation or dispute) involving the Federal Government, in any trial, hearing, or proceeding before any court, administrative tribunal, or agency, or to procure the services of an expert or neutral for use in any part of an alternative dispute resolution or negotiated rulemaking process, whether or not the expert is expected to testify;
   - **(4)** the terms of an international agreement or a treaty between the United States and a foreign government or international organization, or the written directions of a foreign government reimbursing the agency for the cost of the procurement of the property or services for such government, have the effect of requiring the use of procedures other than competitive procedures;
   - **(5)** subject to section 3201(e) of this title , a statute expressly authorizes or requires that the procurement be made through another agency or from a specified source, or the agency’s need is for a brand-name commercial product for authorized resale;
@@ -37,14 +37,14 @@ generated_at: "2026-03-29T20:03:09.751Z"
       - **(ii)** for the agency to enter into another contract for the required goods or services through the use of competitive procedures; and
     - **(B)** may not exceed one year unless the head of the agency entering into such contract determines that exceptional circumstances apply.
   - **(2)** This subsection applies to any contract in an amount greater than the simplified acquisition threshold.
-- **(d)** The head of an agency using procedures other than competitive procedures to procure property or services by reason of the application of paragraph (2) or (6) of subsection (a) shall request offers from as many potential sources as is practicable under the circumstances.
+- **(d)** The head of 3 3 Amendment by section 1811(d)(5)(A) of Pub. L. 116–283 executed to reflect the probable intent of Congress. an agency using procedures other than competitive procedures to procure property or services by reason of the application of paragraph (2) or (6) of subsection (a) shall request offers from as many potential sources as is practicable under the circumstances.
 - **(e)**
-  - **(1)** Except as provided in paragraphs (3), (4), and (7), the head of an agency may not award a contract using procedures other than competitive procedures unless—
+  - **(1)** Except as provided in paragraphs (3), (4), and (7),, 4 4 So in original. the head of an agency may not award a contract using procedures other than competitive procedures unless—
     - **(A)** the contracting officer for the contract justifies the use of such procedures in writing and certifies the accuracy and completeness of the justification;
     - **(B)** the justification is approved—
-      - **(i)** in the case of a contract for an amount exceeding $10,000,000 (but equal to or less than $100,000,000), by the competition advocate for the procuring activity (without further delegation) or by an official referred to in clause (ii) or (iii);
-      - **(ii)** in the case of a contract for an amount exceeding $100,000,000 (but equal to or less than $500,000,000), by the head of the procuring activity (or the head of the procuring activity’s delegate designated pursuant to paragraph (5)(A)); or
-      - **(iii)** in the case of a contract for an amount exceeding $500,000,000, by the senior procurement executive of the agency designated pursuant to section 1702(c) of title 41 (without further delegation) or in the case of the Under Secretary of Defense for Acquisition and Sustainment, acting in his capacity as the senior procurement executive for the Department of Defense, the Under Secretary’s delegate designated pursuant to paragraph (5)(B); and
+      - **(i)** in the case of a contract for an amount exceeding $500,000 (but equal to or less than $10,000,000), by the competition advocate for the procuring activity (without further delegation) or by an official referred to in clause (ii) or (iii);
+      - **(ii)** in the case of a contract for an amount exceeding $10,000,000 (but equal to or less than $75,000,000), by the head of the procuring activity (or the head of the procuring activity’s delegate designated pursuant to paragraph (5)(A)); or
+      - **(iii)** in the case of a contract for an amount exceeding $75,000,000, by the senior procurement executive of the agency designated pursuant to section 1702(c) of title 41 (without further delegation) or in the case of the Under Secretary of Defense for Acquisition and Sustainment, acting in his capacity as the senior procurement executive for the Department of Defense, the Under Secretary’s delegate designated pursuant to paragraph (5)(B); and
     - **(C)** any required notice has been published with respect to such contract pursuant to section 1708 of title 41 and all bids or proposals received in response to that notice have been considered by the head of the agency.
   - **(2)** The justification required by paragraph (1)(A) shall include—
     - **(A)** a description of the agency’s needs;

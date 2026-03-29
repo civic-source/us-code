@@ -3,9 +3,9 @@ title: "Section 12113 - Fishery endorsement"
 usc_title: 46
 usc_section: "12113"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "46 U.S.C. § 12113"
-generated_at: "2026-03-29T20:08:05.326Z"
+generated_at: "2026-03-29T20:35:02.386Z"
 ---
 
 # § 12113. Fishery endorsement
@@ -53,6 +53,6 @@ generated_at: "2026-03-29T20:08:05.326Z"
     - **(B)** the control of persons not eligible to own a vessel with a fishery endorsement under subsection (c) or (d), over the management, sales, financing, or other operations of an entity; and
     - **(C)** contracts involving the purchase over extended periods of time of all, or substantially all, of the living marine resources harvested by a fishing vessel.
 - **(f)** The Secretary shall establish reasonable and necessary requirements to demonstrate compliance with subsections (c) and (d), with respect to vessels measuring less than 100 feet in registered length, and shall seek to minimize the administrative burden on individuals who own and operate those vessels.
-- **(g)** A vessel purchased by the Secretary of Commerce through a fishing capacity reduction program under the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1801 et seq.) or section 308 2 2 See References in Text note below. of the Interjurisdictional Fisheries Act of 1986 ( 16 U.S.C. 4107 ) is not eligible for a fishery endorsement, and any fishery endorsement issued for that vessel is invalid.
+- **(g)** A vessel purchased by the Secretary of Commerce through a fishing capacity reduction program under the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1801 et seq.) or section 308 of the Interjurisdictional Fisheries Act of 1986 ( 16 U.S.C. 4107 ) is not eligible for a fishery endorsement, and any fishery endorsement issued for that vessel is invalid.
 - **(h)** The Secretary shall revoke the fishery endorsement of any vessel subject to subsection (c) or (d) whose owner does not comply with those provisions.
 - **(i)** Regulations to implement subsections (c) and (d) and sections 12151(c) and 31322(b) of this title shall prohibit impermissible transfers of ownership or control, specify any transactions that require prior approval of an implementing agency, identify transactions that do not require prior agency approval, and to the extent practicable, minimize disruptions to the commercial fishing industry, to the traditional financing arrangements of that industry, and to the opportunity to form fishery cooperatives.

@@ -3,14 +3,14 @@ title: "Section 1705 - Department of Defense Acquisition Workforce Development A
 usc_title: 10
 usc_section: "1705"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 1705"
-generated_at: "2026-03-29T20:03:09.622Z"
+generated_at: "2026-03-29T20:31:54.541Z"
 ---
 
 # § 1705. Department of Defense Acquisition Workforce Development Account
 
-- **(a)** The Secretary of Defense shall establish an account to be known as the “Department of Defense Acquisition Workforce Development Account” (in this section referred to as the “Account”) to provide funds, in addition to other funds that may be available, for the recruitment, training, and retention of acquisition personnel of the Department of Defense.
+- **(a)** The Secretary of Defense shall establish a fund 1 1 So in original. Probably should be “an account”. to be known as the “Department of Defense Acquisition Workforce Development Account” (in this section referred to as the “Account”) to provide funds, in addition to other funds that may be available, for the recruitment, training, and retention of acquisition personnel of the Department of Defense.
 - **(b)** The purpose of the Account is to ensure that the Department of Defense acquisition workforce has the capacity, in both personnel and skills, needed to properly perform its mission, provide appropriate oversight of contractor performance, and ensure that the Department receives the best value for the expenditure of public resources.
 - **(c)** The Account shall be managed by a senior official of the Department of Defense designated by the Under Secretary of Defense for Acquisition and Sustainment for that purpose, from among persons with an extensive background in management relating to acquisition and personnel.
 - **(d)** The Account shall consist of amounts appropriated to the Account by law.

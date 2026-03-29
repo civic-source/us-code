@@ -3,9 +3,9 @@ title: "Section 2151o - Repealed. Pub. L. 103–149, § 4(a)(3)(B) , Nov. 23, 19
 usc_title: 22
 usc_section: "2151o"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 2151o"
-generated_at: "2026-03-29T20:04:46.740Z"
+generated_at: "2026-03-29T20:32:59.937Z"
 ---
 
 # § 2151o. Repealed. Pub. L. 103–149, § 4(a)(3)(B) , Nov. 23, 1993 , 107 Stat. 1505

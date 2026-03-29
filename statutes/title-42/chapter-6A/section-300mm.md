@@ -3,9 +3,9 @@ title: "Section 300mm - Establishment of World Trade Center Health Program"
 usc_title: 42
 usc_section: "300mm"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 300mm"
-generated_at: "2026-03-29T20:07:43.375Z"
+generated_at: "2026-03-29T20:34:52.852Z"
 ---
 
 # § 300mm. Establishment of World Trade Center Health Program
@@ -44,7 +44,7 @@ generated_at: "2026-03-29T20:07:43.375Z"
     - **(D)** Information on the administrative performance of the program, including—
       - **(i)** the performance of the program in providing timely evaluation of and treatment to eligible individuals; and
       - **(ii)** a list of the Clinical Centers of Excellence and other providers that are participating in the program.
-    - **(E)** A summary of the findings of any new scientific reports or studies on the health effects associated with exposure described in section 300mm–5(1) of this title , including the findings of research conducted under subsection (a) or (c) of section 300mm–51 of this title .
+    - **(E)** A summary of the findings of any new scientific reports or studies on the health effects associated with exposure described in section 300mm–5(1) of this title , including the findings of research conducted under section 300mm–51(a) of this title .
     - **(F)** A list of recommendations by the WTC Scientific/Technical Advisory Committee on additional WTC Program eligibility criteria and on additional WTC-related health conditions and the action of the WTC Program Administrator concerning each such recommendation.
   - **(3)** In paragraph (2), each of the following shall be treated as a separate clinical program of the WTC Program:
     - **(A)** The benefits provided for enrolled WTC responders described in section 300mm–21(a)(2)(A) of this title .

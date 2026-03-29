@@ -1,12 +1,14 @@
 ---
-title: "Section 474 - Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(1) , Dec. 23, 2022 , 136 Stat. 4165"
+title: "Section 474 - Anchorage and general regulations for St. Marys River"
 usc_title: 33
 usc_section: "474"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "33 U.S.C. § 474"
-generated_at: "2026-03-29T20:05:35.656Z"
+generated_at: "2026-03-29T20:33:34.169Z"
 ---
 
-# § 474. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(1) , Dec. 23, 2022 , 136 Stat. 4165
+# § 474. Anchorage and general regulations for St. Marys River
+
+The Commandant of the Coast Guard is authorized and directed to adopt and prescribe suitable rules and regulations governing the movements and anchorage of vessels and rafts in Saint Marys River from Point Iroquois, on Lake Superior, to Point Detour, on Lake Huron, and for the purpose of enforcing the observance of such regulations the Secretary of Transportation is authorized to detail one or more Coast Guard vessels for duty upon the request of the Commandant of the Coast Guard on said river. All officers of the Coast Guard who are directed to enforce the regulations prescribed by the above rules are empowered and directed, in case of necessity, or when a proper notice has been disregarded, to use the force at their command to remove from channels or stop any vessel found violating the prescribed rules. In the event of the violation of any such regulations or rules of the Commandant of the Coast Guard by the owners, master, or person in charge of such vessel, such owners, master, or person in charge shall be liable to a penalty not exceeding $200: Provided , That the Commandant of the Coast Guard may remit said fine on such terms as he may prescribe: Provided also , That nothing in this section shall be construed to amend or repeal chapter 4 1 1 See References in Text note below. of this title.
 

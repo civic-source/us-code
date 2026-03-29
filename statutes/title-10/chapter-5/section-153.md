@@ -3,9 +3,9 @@ title: "Section 153 - Chairman: functions"
 usc_title: 10
 usc_section: "153"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 153"
-generated_at: "2026-03-29T20:03:09.423Z"
+generated_at: "2026-03-29T20:31:54.386Z"
 ---
 
 # § 153. Chairman: functions
@@ -74,7 +74,6 @@ generated_at: "2026-03-29T20:03:09.423Z"
         - **(II)** for each category of risk, assess the extent to which current or future risk increases, decreases, or is stable as a result of budgetary priorities, tradeoffs, or fiscal constraints or limitations as currently estimated and applied in the current future-years defense program under section 221 of this title .
       - **(v)** Identify and assess risk associated with the assumptions or plans of the National Military Strategy (or update) about the contributions of external support, as appropriate.
       - **(vi)** Identify and assess the critical deficiencies and strengths in force capabilities (including manpower, logistics, intelligence, and mobility support) identified during the preparation and review of the contingency plans of each unified combatant command, and identify and assess the effect of such deficiencies and strengths for the National Military Strategy (or update).
-      - **(vii)** Identify and assess risk resulting from, or likely to result from, current or projected effects on military installation resilience.
   - **(3)**
     - **(A)** Not later than February 15 of each even-numbered year, the Chairman shall, through the Secretary of Defense, submit to the Committees on Armed Services of the Senate and the House of Representatives the National Military Strategy or update, if any, prepared under paragraph (1) in such year.
     - **(B)** Not later than February 15 each year, the Chairman shall, through the Secretary of Defense, submit to the Committees on Armed Services of the Senate and the House of Representatives the Risk Assessment prepared under paragraph (2) in such year.
@@ -91,9 +90,3 @@ generated_at: "2026-03-29T20:03:09.423Z"
     - **(B)** The Chairman’s views on the consolidated lists.
     - **(C)** A description of the extent to which the most recent future-years defense program (under section 221 of this title ) addresses the requirements on the consolidated lists.
     - **(D)** A description of the funding proposed in the President’s budget for the next fiscal year, and for the subsequent fiscal years covered by the most recent future-years defense program, to address each deficiency in readiness identified during the joint readiness review conducted under section 117 of this title for the first quarter of the current fiscal year.
-- **(d)**
-  - **(1)** Not later than 15 days after the submission of the risk assessment required under subsection (b)(2) or March 1 of each even-numbered year, whichever is earlier, the Chairman shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the activities of the Chairman under this section.
-  - **(2)** The briefing required under paragraph (1) shall include—
-    - **(A)** a detailed review of the risk assessment required under paragraph (2) of subsection (b), including how such risk assessment addresses the elements required in subparagraph (B) of such paragraph;
-    - **(B)** an analysis of how the risk assessment informs and supports other Joint Staff assessments, including joint capability development assessments, joint force development assessments, comprehensive joint readiness assessments, and global military integration assessments; and
-    - **(C)** if the risk assessment is not delivered at or before the time of the briefing, a timeline for when the risk assessment will be submitted to the Committees on Armed Services of the Senate and the House of Representatives.

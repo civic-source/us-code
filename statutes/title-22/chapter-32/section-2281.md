@@ -3,9 +3,9 @@ title: "Section 2281 - “Debt-for-nature exchange” defined"
 usc_title: 22
 usc_section: "2281"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 2281"
-generated_at: "2026-03-29T20:04:46.755Z"
+generated_at: "2026-03-29T20:32:59.951Z"
 ---
 
 # § 2281. “Debt-for-nature exchange” defined

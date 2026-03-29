@@ -3,9 +3,9 @@ title: "Section 3393 - Career appointments"
 usc_title: 5
 usc_section: "3393"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "5 U.S.C. § 3393"
-generated_at: "2026-03-29T20:02:37.786Z"
+generated_at: "2026-03-29T20:31:26.753Z"
 ---
 
 # § 3393. Career appointments
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T20:02:37.786Z"
     - **(A)** consideration of demonstrated executive experience;
     - **(B)** consideration of successful participation in a career executive development program which is approved by the Office; and
     - **(C)** sufficient flexibility to allow for the appointment of individuals who have special or unique qualities which indicate a likelihood of executive success and who would not otherwise be eligible for appointment.
-- **(d)** An individual’s initial appointment as a career appointee shall become final only after the individual has served a 1-year probationary period as a career appointee.
+- **(d)** An individual’s initial appointment as a career appointee shall become final only after the individual has served a 1-year probationary period as a career appointee. The preceding sentence shall not apply to any individual covered by section 1599e of title 10 .
 - **(e)** Each career appointee shall meet the executive qualifications of the position to which appointed, as determined in writing by the appointing authority.
 - **(f)** The title of each career reserved position shall be published in the Federal Register.
 - **(g)** A career appointee may not be removed from the Senior Executive Service or civil service except in accordance with the applicable provisions of sections 1215,, 1 1 So in original. 3592, 3595, 7532, or 7543 of this title.

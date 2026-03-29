@@ -3,9 +3,9 @@ title: "Section 101 - Definitions"
 usc_title: 38
 usc_section: "101"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "38 U.S.C. § 101"
-generated_at: "2026-03-29T20:05:54.611Z"
+generated_at: "2026-03-29T20:34:04.858Z"
 ---
 
 # § 101. Definitions
@@ -14,7 +14,7 @@ For the purposes of this title—
 
   - **(1)** The terms “Secretary” and “Department” mean the Secretary of Veterans Affairs and the Department of Veterans Affairs, respectively.
   - **(2)** The term “veteran” means a person who served in the active military, naval, air, or space service, and who was discharged or released therefrom under conditions other than dishonorable.
-  - **(3)** The term “surviving spouse” means (except for purposes of chapter 19 of this title) a person who was the spouse of a veteran at the time of the veteran’s death, and who lived with the veteran continuously from the date of marriage to the date of the veteran’s death (except where there was a separation which was due to the misconduct of, or procured by, the veteran without the fault of the spouse) and who has not remarried.
+  - **(3)** The term “surviving spouse” means (except for purposes of chapter 19 of this title) a person of the opposite sex who was the spouse of a veteran at the time of the veteran’s death, and who lived with the veteran continuously from the date of marriage to the date of the veteran’s death (except where there was a separation which was due to the misconduct of, or procured by, the veteran without the fault of the spouse) and who has not remarried or (in cases not involving remarriage) has not since the death of the veteran, and after September 19, 1962 , lived with another person and held himself or herself out openly to the public to be the spouse of such other person.
   - **(4)**
     - **(A)** The term “child” means (except for purposes of chapter 19 of this title (other than with respect to a child who is an insurable dependent under subparagraph (B) or (C) of section 1965(10) of such chapter) and section 8502(b) of this title ) a person who is unmarried and—
       - **(i)** who is under the age of eighteen years;
@@ -58,8 +58,8 @@ For the purposes of this title—
     - **(D)** duty performed by a member of a Senior Reserve Officers’ Training Corps program when ordered to such duty for the purpose of training or a practice cruise under chapter 103 of title 10 for a period of not less than four weeks and which must be completed by the member before the member is commissioned; and
     - **(E)** authorized travel to or from such duty.
   - **(23)** The term “inactive duty training” means—
-    - **(A)** duty (other than full-time duty) prescribed for Reserves (including commissioned officers of the Reserve Corps 1 of the Public Health Service), or for members of the Space Force in a space force active status (as defined in section 101(e)(1) of title 10 ), by the Secretary concerned under section 206 of title 37 or any other provision of law;
-    - **(B)** special additional duties authorized for Reserves (including commissioned officers of the Reserve Corps 1 of the Public Health Service), or for members of the Space Force in a space force active status (as defined in section 101(e)(1) of title 10 ), by an authority designated by the Secretary concerned and performed by them on a voluntary basis in connection with the prescribed training or maintenance activities of the units to which they are assigned; and
+    - **(A)** duty (other than full-time duty) prescribed for Reserves (including commissioned officers of the Reserve Corps 1 of the Public Health Service) by the Secretary concerned under section 206 of title 37 or any other provision of law;
+    - **(B)** special additional duties authorized for Reserves (including commissioned officers of the Reserve Corps of the Public Health Service) by an authority designated by the Secretary concerned and performed by them on a voluntary basis in connection with the prescribed training or maintenance activities of the units to which they are assigned; and
     - **(C)** training (other than active duty for training) by a member of, or applicant for membership (as defined in section 8140(g) of title 5 ) in, the Senior Reserve Officers’ Training Corps prescribed under chapter 103 of title 10.
   - **(24)** The term “active military, naval, air, or space service” includes—
     - **(A)** active duty;
@@ -80,9 +80,10 @@ For the purposes of this title—
     - **(B)** the Navy Reserve;
     - **(C)** the Marine Corps Reserve;
     - **(D)** the Air Force Reserve;
-    - **(E)** the Coast Guard Reserve;
-    - **(F)** the Army National Guard of the United States; and
-    - **(G)** the Air National Guard of the United States.
+    - **(E)** the Space Force Reserve;
+    - **(F)** the Coast Guard Reserve;
+    - **(G)** the Army National Guard of the United States; and
+    - **(H)** the Air National Guard of the United States.
   - **(28)** The term “nursing home care” means the accommodation of convalescents or other persons who are not acutely ill and not in need of hospital care, but who require nursing care and related medical services, if such nursing care and medical services are prescribed by, or are performed under the general direction of, persons duly licensed to provide such care. Such term includes services furnished in skilled nursing care facilities, in intermediate care facilities, and in combined facilities. It does not include domiciliary care.
   - **(29)** The term “Vietnam era” means the following:
     - **(A)** The period beginning on November 1, 1955 , and ending on May 7, 1975 , in the case of a veteran who served in the Republic of Vietnam during that period.
@@ -96,7 +97,3 @@ For the purposes of this title—
   - **(34)** The term “agency of original jurisdiction” means the activity which entered the original determination with regard to a claim for benefits under laws administered by the Secretary.
   - **(35)** The term “relevant evidence” means evidence that tends to prove or disprove a matter in issue.
   - **(36)** The term “supplemental claim” means a claim for benefits under laws administered by the Secretary filed by a claimant who had previously filed a claim for the same or similar benefits on the same or similar basis.
-  - **(37)** The term “toxic exposure” includes the following:
-    - **(A)** A toxic exposure risk activity, as defined in section 1710(e)(4) of this title .
-    - **(B)** An exposure to a substance, chemical, or airborne hazard identified in the list under section 1119(b)(2) of this title .
-  - **(38)** The term “toxic-exposed veteran” means any veteran described in section 1710(e)(1) of this title .

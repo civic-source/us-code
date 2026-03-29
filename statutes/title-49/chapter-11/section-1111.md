@@ -3,9 +3,9 @@ title: "Section 1111 - General organization"
 usc_title: 49
 usc_section: "1111"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 1111"
-generated_at: "2026-03-29T20:07:58.415Z"
+generated_at: "2026-03-29T20:35:10.751Z"
 ---
 
 # § 1111. General organization

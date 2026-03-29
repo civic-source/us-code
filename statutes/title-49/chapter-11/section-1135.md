@@ -3,9 +3,9 @@ title: "Section 1135 - Secretary of Transportation’s responses to safety recom
 usc_title: 49
 usc_section: "1135"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 1135"
-generated_at: "2026-03-29T20:07:58.418Z"
+generated_at: "2026-03-29T20:35:10.753Z"
 ---
 
 # § 1135. Secretary of Transportation’s responses to safety recommendations
@@ -15,9 +15,7 @@ generated_at: "2026-03-29T20:07:58.418Z"
   - **(2)** to carry out procedures to adopt a part of the recommendation; or
   - **(3)** to refuse to carry out procedures to adopt the recommendation.
 - **(b)** A response under subsection (a)(1) or (2) of this section shall include a copy of a proposed timetable for completing the procedures. A response under subsection (a)(2) of this section shall detail the reasons for the refusal to carry out procedures on the remainder of the recommendation. A response under subsection (a)(3) of this section shall detail the reasons for the refusal to carry out procedures.
-- **(c)** The Board shall make a copy of each recommendation and response available to the public—
-  - **(1)** in electronic form at no cost in a publicly accessible database on a website of the Board; and
-  - **(2)** if the electronic form required in paragraph (1) is not printable, in printed form upon a reasonable request at a reasonable cost.
+- **(c)** The Board shall make a copy of each recommendation and response available to the public at reasonable cost.
 - **(d)**
   - **(1)** The Secretary shall submit to Congress and the Board, on an annual basis, a report on the recommendations made by the Board to the Secretary regarding air carrier operations conducted under part 121 of title 14, Code of Federal Regulations.
   - **(2)** The report shall cover—
@@ -32,3 +30,7 @@ generated_at: "2026-03-29T20:07:58.418Z"
     - **(B)** For each recommendation of the Board described in paragraph (2)(B), the report shall contain—
       - **(i)** a description of the recommendation; and
       - **(ii)** a description of the reasons for the refusal to carry out all or part of the procedures to adopt the recommendation.
+- **(e)**
+  - **(1)** On February 1 of each year, the Secretary shall submit a report to Congress and the Board containing the regulatory status of each recommendation made by the Board to the Secretary (or to an Administration within the Department of Transportation) that is on the Board’s “most wanted list”. The Secretary shall continue to report on the regulatory status of each such recommendation in the report due on February 1 of subsequent years until final regulatory action is taken on that recommendation or the Secretary (or an Administration within the Department) determines and states in such a report that no action should be taken.
+  - **(2)** If on March 1 of each year the Board has not received the Secretary’s report required by this subsection, the Board shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the Secretary’s failure to submit the required report.
+  - **(3)** Within 90 days after the date on which the Secretary submits a report under this subsection, the Board shall review the Secretary’s report and transmit comments on the report to the Secretary, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives.

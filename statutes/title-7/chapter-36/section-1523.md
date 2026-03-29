@@ -3,9 +3,9 @@ title: "Section 1523 - Pilot programs"
 usc_title: 7
 usc_section: "1523"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 1523"
-generated_at: "2026-03-29T20:02:52.527Z"
+generated_at: "2026-03-29T20:31:41.994Z"
 ---
 
 # § 1523. Pilot programs
@@ -132,10 +132,3 @@ generated_at: "2026-03-29T20:02:52.527Z"
   - **(8)**
     - **(A)** Notwithstanding any other provision in this subsection, of the funds of the Corporation, the Corporation shall use to carry out this section not more than $12,500,000 for each of fiscal years 2015 through 2018, to remain available until expended.
     - **(B)** The amount of funds made available under this section shall be in addition to amounts made available under other provisions of this subchapter, including amounts made available under subsection (b).
-- **(j)**
-  - **(1)** Notwithstanding subsection (a)(2), the Corporation shall establish a pilot program under which contract poultry growers, including growers of broilers and laying hens, may elect to receive index-based insurance from extreme weather-related risk resulting in increased utility costs (including costs of natural gas, propane, electricity, water, and other appropriate costs, as determined by the Corporation) associated with poultry production.
-  - **(2)** The Corporation shall engage with poultry industry stakeholders in establishing the pilot program under paragraph (1).
-  - **(3)** The pilot program established under paragraph (1) shall be conducted in a sufficient number of counties to provide a comprehensive evaluation of the feasibility, effectiveness, and demand among producers in the top poultry producing States, as determined by the Corporation.
-  - **(4)** Notwithstanding section 1508( l ) of this title, the Board shall approve a policy or plan of insurance based on the pilot program under paragraph (1)—
-    - **(A)** in accordance with section 1508(h) of this title ; and
-    - **(B)** not later than 2 years after July 4, 2025 .

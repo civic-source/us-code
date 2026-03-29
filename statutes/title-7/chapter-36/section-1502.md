@@ -3,9 +3,9 @@ title: "Section 1502 - Purpose; definitions; protection of information; relation
 usc_title: 7
 usc_section: "1502"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 1502"
-generated_at: "2026-03-29T20:02:52.511Z"
+generated_at: "2026-03-29T20:31:41.981Z"
 ---
 
 # § 1502. Purpose; definitions; protection of information; relation to other laws
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T20:02:52.511Z"
 - **(b)** As used in this subchapter:
   - **(1)** The term “additional coverage” means a plan of crop insurance coverage providing a level of coverage greater than the level available under catastrophic risk protection.
   - **(2)** The term “approved insurance provider” means a private insurance provider that has been approved by the Corporation to provide insurance coverage to producers participating in the Federal crop insurance program established under this subchapter.
-  - **(3)** The term “beginning farmer or rancher” means a farmer or rancher who has not actively operated and managed a farm or ranch with a bona fide insurable interest in a crop or livestock as an owner-operator, landlord, tenant, or sharecropper for more than 10 crop years, as determined by the Secretary.
+  - **(3)** The term “beginning farmer or rancher” means a farmer or rancher who has not actively operated and managed a farm or ranch with a bona fide insurable interest in a crop or livestock as an owner-operator, landlord, tenant, or sharecropper for more than 5 crop years, as determined by the Secretary.
   - **(4)** The term “Board” means the Board of Directors of the Corporation established under section 1505(a) of this title .
   - **(5)** The term “Corporation” means the Federal Crop Insurance Corporation established under section 1503 of this title .
   - **(6)** The term “cover crop termination” means a practice that historically and under reasonable circumstances results in the termination of the growth of a cover crop.

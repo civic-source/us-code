@@ -3,9 +3,9 @@ title: "Section 9832 - Definitions"
 usc_title: 42
 usc_section: "9832"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 9832"
-generated_at: "2026-03-29T20:07:44.651Z"
+generated_at: "2026-03-29T20:34:53.991Z"
 ---
 
 # § 9832. Definitions
@@ -95,5 +95,5 @@ For purposes of this subchapter:
       - **(iv)** has been accepted by a peer-reviewed journal or approved by a panel of independent experts through a comparably rigorous, objective, and scientific review.
   - **(23)** The term “scientifically valid research” includes applied research, basic research, and field-initiated research in which the rationale, design, and interpretation are soundly developed in accordance with principles of scientific research.
   - **(24)** The term “Secretary” means the Secretary of Health and Human Services.
-  - **(25)** The term “State” means a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands. The term “State” includes the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.
+  - **(25)** The term “State” means a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands. The term includes the Republic of Palau for fiscal years 2008 and 2009, and (if the legislation described in section 9835(a)(2)(B)(v) of this title has not been enacted by September 30, 2009 ) for fiscal years 2010 through 2012.
   - **(26)** The term “unresolved area of noncompliance” means failure to correct a noncompliance item within 120 days, or within such additional time (if any) as is authorized by the Secretary, after receiving from the Secretary notice of such noncompliance item, pursuant to section 9836a(c) of this title .

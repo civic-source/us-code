@@ -3,9 +3,9 @@ title: "Section 7601 - Administration"
 usc_title: 42
 usc_section: "7601"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 7601"
-generated_at: "2026-03-29T20:07:44.550Z"
+generated_at: "2026-03-29T20:34:53.874Z"
 ---
 
 # § 7601. Administration

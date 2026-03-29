@@ -3,9 +3,9 @@ title: "Section 101 - Definitions"
 usc_title: 11
 usc_section: "101"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "11 U.S.C. § 101"
-generated_at: "2026-03-29T20:03:14.766Z"
+generated_at: "2026-03-29T20:31:58.693Z"
 ---
 
 # § 101. Definitions
@@ -56,8 +56,9 @@ In this title the following definitions shall apply:
       - **(ii)** excludes—
         - **(I)** benefits received under the Social Security Act ( 42 U.S.C. 301 et seq.);
         - **(II)** payments to victims of war crimes or crimes against humanity on account of their status as victims of such crimes;
-        - **(III)** payments to victims of international terrorism or domestic terrorism, as those terms are defined in section 2331 of title 18 , on account of their status as victims of such terrorism; and
-        - **(IV)** any monthly compensation, pension, pay, annuity, or allowance paid under title 10, 37, or 38 in connection with a disability, combat-related injury or disability, or death of a member of the uniformed services, except that any retired pay excluded under this subclause shall include retired pay paid under chapter 61 of title 10 only to the extent that such retired pay exceeds the amount of retired pay to which the debtor would otherwise be entitled if retired under any provision of title 10 other than chapter 61 of that title.
+        - **(III)** payments to victims of international terrorism or domestic terrorism, as those terms are defined in section 2331 of title 18 , on account of their status as victims of such terrorism;
+        - **(IV)** any monthly compensation, pension, pay, annuity, or allowance paid under title 10, 37, or 38 in connection with a disability, combat-related injury or disability, or death of a member of the uniformed services, except that any retired pay excluded under this subclause shall include retired pay paid under chapter 61 of title 10 only to the extent that such retired pay exceeds the amount of retired pay to which the debtor would otherwise be entitled if retired under any provision of title 10 other than chapter 61 of that title; and
+        - **(V)** Payments made under Federal law relating to the national emergency declared by the President under the National Emergencies Act ( 50 U.S.C. 1601 et seq.) with respect to the coronavirus disease 2019 (COVID–19).
   - **(11)** The term “custodian” means—
     - **(A)** receiver or trustee of any of the property of the debtor, appointed in a case or proceeding not under this title;
     - **(B)** assignee under a general assignment for the benefit of the debtor’s creditors; or
@@ -94,12 +95,12 @@ In this title the following definitions shall apply:
     - **(C)** warrant or right, other than a right to convert, to purchase, sell, or subscribe to a share, security, or interest of a kind specified in subparagraph (A) or (B) of this paragraph.
   - **(17)** The term “equity security holder” means holder of an equity security of the debtor.
   - **(18)** The term “family farmer” means—
-    - **(A)** individual or individual and spouse engaged in a farming operation whose aggregate debts do not exceed $10,000,000 1 and not less than 50 percent of whose aggregate noncontingent, liquidated debts (excluding a debt for the principal residence of such individual or such individual and spouse unless such debt arises out of a farming operation), on the date the case is filed, arise out of a farming operation owned or operated by such individual or such individual and spouse, and such individual or such individual and spouse receive from such farming operation more than 50 percent of such individual’s or such individual and spouse’s gross income for—
+    - **(A)** individual or individual and spouse engaged in a farming operation whose aggregate debts do not exceed $10,000,000 and not less than 50 percent of whose aggregate noncontingent, liquidated debts (excluding a debt for the principal residence of such individual or such individual and spouse unless such debt arises out of a farming operation), on the date the case is filed, arise out of a farming operation owned or operated by such individual or such individual and spouse, and such individual or such individual and spouse receive from such farming operation more than 50 percent of such individual’s or such individual and spouse’s gross income for—
       - **(i)** the taxable year preceding; or
       - **(ii)** each of the 2d and 3d taxable years preceding;
     - **(B)** corporation or partnership in which more than 50 percent of the outstanding stock or equity is held by one family, or by one family and the relatives of the members of such family, and such family or such relatives conduct the farming operation, and
       - **(i)** more than 80 percent of the value of its assets consists of assets related to the farming operation;
-      - **(ii)** its aggregate debts do not exceed $10,000,000 1 and not less than 50 percent of its aggregate noncontingent, liquidated debts (excluding a debt for one dwelling which is owned by such corporation or partnership and which a shareholder or partner maintains as a principal residence, unless such debt arises out of a farming operation), on the date the case is filed, arise out of the farming operation owned or operated by such corporation or such partnership; and
+      - **(ii)** its aggregate debts do not exceed $10,000,000 and not less than 50 percent of its aggregate noncontingent, liquidated debts (excluding a debt for one dwelling which is owned by such corporation or partnership and which a shareholder or partner maintains as a principal residence, unless such debt arises out of a farming operation), on the date the case is filed, arise out of the farming operation owned or operated by such corporation or such partnership; and
       - **(iii)** if such corporation issues stock, such stock is not publicly traded.
   - **(19)** The term “family farmer with regular annual income” means family farmer whose annual income is sufficiently stable and regular to enable such family farmer to make payments under a plan under chapter 12 of this title.
   - **(19A)** The term “family fisherman” means—
@@ -296,9 +297,9 @@ In this title the following definitions shall apply:
   - **(51D)** The term “small business debtor”—
     - **(A)** subject to subparagraph (B), means a person engaged in commercial or business activities (including any affiliate of such person that is also a debtor under this title and excluding a person whose primary activity is the business of owning single asset real estate) that has aggregate noncontingent liquidated secured and unsecured debts as of the date of the filing of the petition or the date of the order for relief in an amount not more than $2,000,000 1 (excluding debts owed to 1 or more affiliates or insiders) not less than 50 percent of which arose from the commercial or business activities of the debtor; and
     - **(B)** does not include—
-      - **(i)** any member of a group of affiliated debtors under this title that has aggregate noncontingent liquidated secured and unsecured debts in an amount greater than $2,000,000 1 (excluding debt owed to 1 or more affiliates or insiders);
+      - **(i)** any member of a group of affiliated debtors that has aggregate noncontingent liquidated secured and unsecured debts in an amount greater than $2,000,000 1 (excluding debt owed to 1 or more affiliates or insiders);
       - **(ii)** any debtor that is a corporation subject to the reporting requirements under section 13 or 15(d) of the Securities Exchange Act of 1934 ( 15 U.S.C. 78m , 78 o (d)); or
-      - **(iii)** any debtor that is an affiliate of a corporation described in clause (ii).
+      - **(iii)** any debtor that is an affiliate of an issuer (as defined in section 3 of the Securities Exchange Act of 1934 ( 15 U.S.C. 78c )).
   - **(52)** The term “State” includes the District of Columbia and Puerto Rico, except for the purpose of defining who may be a debtor under chapter 9 of this title.
   - **(53)** The term “statutory lien” means lien arising solely by force of a statute on specified circumstances or conditions, or lien of distress for rent, whether or not statutory, but does not include security interest or judicial lien, whether or not such interest or lien is provided by or is dependent on a statute and whether or not such interest or lien is made fully effective by statute.
   - **(53A)** The term “stockbroker” means person—

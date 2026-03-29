@@ -3,9 +3,9 @@ title: "Section 1147 - National Summit on Retirement Savings"
 usc_title: 29
 usc_section: "1147"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "29 U.S.C. § 1147"
-generated_at: "2026-03-29T20:05:03.726Z"
+generated_at: "2026-03-29T20:33:05.748Z"
 ---
 
 # § 1147. National Summit on Retirement Savings
@@ -62,7 +62,7 @@ generated_at: "2026-03-29T20:05:03.726Z"
     - **(A)** the National Summit shall be conducted in a manner that ensures broad participation of Federal, State, and local agencies and private organizations, professionals, and others involved in retirement income savings and provides a strong basis for assistance to be provided under paragraph (1)(B);
     - **(B)** the agenda prepared under paragraph (1)(C) for the National Summit is published in the Federal Register; and
     - **(C)** the personnel appointed under paragraph (1)(E) shall be fairly balanced in terms of points of views represented and shall be appointed without regard to political affiliation or previous partisan activities.
-  - **(3)** The provisions of chapter 10 of title 5 shall not apply to the National Summit.
+  - **(3)** The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the National Summit.
 - **(g)** The Secretary shall prepare a report describing the activities of the National Summit and shall submit the report to the President, the Speaker and Minority Leader of the House of Representatives, the Majority and Minority Leaders of the Senate, and the chief executive officers of the States not later than 90 days after the date on which the National Summit is adjourned.
 - **(h)** For purposes of this section, the term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, and any other territory or possession of the United States.
 - **(i)**

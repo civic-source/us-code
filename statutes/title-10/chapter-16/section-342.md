@@ -3,9 +3,9 @@ title: "Section 342 - Regional Centers for Security Studies"
 usc_title: 10
 usc_section: "342"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 342"
-generated_at: "2026-03-29T20:03:09.448Z"
+generated_at: "2026-03-29T20:31:54.406Z"
 ---
 
 # § 342. Regional Centers for Security Studies
@@ -21,7 +21,6 @@ generated_at: "2026-03-29T20:03:09.448Z"
     - **(C)** The William J. Perry Center for Hemispheric Defense Studies, established in 1997 and located in Washington, D.C.
     - **(D)** The Africa Center for Strategic Studies, established in 1999 and located in Washington, D.C.
     - **(E)** The Near East South Asia Center for Strategic Studies, established in 2000 and located in Washington, D.C.
-    - **(F)** The Ted Stevens Center for Arctic Security Studies, established in 2021 and located in Anchorage, Alaska.
   - **(3)** No institution or element of the Department of Defense may be designated as a Department of Defense Regional Center for Security Studies for purposes of this section, other than the institutions specified in paragraph (2).
 - **(c)** The administration of the Regional Centers under this section shall be carried out under regulations prescribed by the Secretary. The regulations shall prioritize within the respective areas of focus of each Regional Center the functional areas for engagement of territorial and maritime security, transnational and asymmetric threats, and defense sector governance.
 - **(d)** Participants in activities of the Regional Centers may include United States and foreign military, civilian, and nongovernmental personnel.
@@ -32,7 +31,7 @@ generated_at: "2026-03-29T20:03:09.448Z"
   - **(1)** Participation in activities of a Regional Center shall be on a reimbursable basis (or by payment in advance), except in a case in which reimbursement is waived in accordance with paragraph (3).
   - **(2)** For a foreign national participant, payment of costs may be made by the participant, the participant’s own government, by a Department or agency of the United States other than the Department of Defense, or by a gift or donation on behalf of one or more Regional Centers accepted under section 2611 of this title on behalf of the participant’s government.
   - **(3)**
-    - **(A)** The Secretary of Defense may waive reimbursement of the costs of activities of the Regional Centers for foreign military officers and foreign defense and security personnel if the Secretary determines that attendance of such personnel without reimbursement is in the national security interest of the United States. Costs for which reimbursement is waived pursuant to this paragraph shall be paid from appropriations available to the Regional Centers.
+    - **(A)** The Secretary of Defense may waive reimbursement of the costs of activities of the Regional Centers for foreign military officers and foreign defense and security personnel from a developing country if the Secretary determines that attendance of such personnel without reimbursement is in the national security interest of the United States. Costs for which reimbursement is waived pursuant to this paragraph shall be paid from appropriations available to the Regional Centers.
     - **(B)**
       - **(i)** The Secretary of Defense may, with the concurrence of the Secretary of State, waive reimbursement otherwise required under this subsection of the costs of activities of the Regional Centers for personnel of nongovernmental and international organizations who participate in activities of the Regional Centers that enhance cooperation of nongovernmental organizations and international organizations with United States forces if the Secretary of Defense determines that attendance of such personnel without reimbursement is in the national security interest of the United States.
       - **(ii)** The amount of reimbursement that may be waived under clause (i) in any fiscal year may not exceed $1,000,000.

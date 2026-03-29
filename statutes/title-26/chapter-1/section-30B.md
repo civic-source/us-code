@@ -3,9 +3,9 @@ title: "Section 30B - Alternative motor vehicle credit"
 usc_title: 26
 usc_section: "30B"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 30B"
-generated_at: "2026-03-29T20:05:22.113Z"
+generated_at: "2026-03-29T20:33:26.762Z"
 ---
 
 # § 30B. Alternative motor vehicle credit
@@ -158,12 +158,16 @@ generated_at: "2026-03-29T20:05:22.113Z"
     - **(B)** with respect to a vehicle described under subsection (b) or (c), shall be reduced by the amount of credit allowed under subsection (a) for such vehicle for the taxable year (determined without regard to subsection (g)).
   - **(6)** In the case of a vehicle whose use is described in paragraph (3) or (4) of section 50(b) and which is not subject to a lease, the person who sold such vehicle to the person or entity using such vehicle shall be treated as the taxpayer that placed such vehicle in service, but only if such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such vehicle (determined without regard to subsection (g)). For purposes of subsection (g), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.
   - **(7)** No credit shall be allowable under subsection (a) with respect to any property referred to in section 50(b)(1) or with respect to the portion of the cost of any property taken into account under section 179.
-  - **(8)** The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any property which ceases to be property eligible for such credit (including recapture in the case of a lease period of less than the economic life of a vehicle).
+  - **(8)** The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any property which ceases to be property eligible for such credit (including recapture in the case of a lease period of less than the economic life of a vehicle), except that no benefit shall be recaptured if such property ceases to be eligible for such credit by reason of conversion to a qualified plug-in electric drive motor vehicle.
   - **(9)** No credit shall be allowed under subsection (a) for any vehicle if the taxpayer elects to not have this section apply to such vehicle.
   - **(10)** Unless otherwise provided in this section, a motor vehicle shall not be considered eligible for a credit under this section unless such vehicle is in compliance with—
     - **(A)** the applicable provisions of the Clean Air Act for the applicable make and model year of the vehicle (or applicable air quality provisions of State law in the case of a State which has adopted such provision under a waiver under section 209(b) of the Clean Air Act), and
     - **(B)** the motor vehicle safety provisions of sections 30101 through 30169 of title 49, United States Code.
-- **[(i)**
+- **(i)**
+  - **(1)** For purposes of subsection (a), the plug-in conversion credit determined under this subsection with respect to any motor vehicle which is converted to a qualified plug-in electric drive motor vehicle is 10 percent of so much of the cost of the converting such vehicle as does not exceed $40,000.
+  - **(2)** For purposes of this subsection, the term “qualified plug-in electric drive motor vehicle” means any new qualified plug-in electric drive motor vehicle (as defined in section 30D, determined without regard to whether such vehicle is made by a manufacturer or whether the original use of such vehicle commences with the taxpayer).
+  - **(3)** The credit allowed under this subsection shall be allowed with respect to a motor vehicle notwithstanding whether a credit has been allowed with respect to such motor vehicle under this section (other than this subsection) in any preceding taxable year.
+  - **(4)** This subsection shall not apply to conversions made after December 31, 2011 .
 - **(j)**
   - **(1)** Except as provided in paragraph (2), the Secretary shall promulgate such regulations as necessary to carry out the provisions of this section.
   - **(2)** The Secretary of the Treasury, in coordination with the Secretary of Transportation and the Administrator of the Environmental Protection Agency, shall prescribe such regulations as necessary to determine whether a motor vehicle meets the requirements to be eligible for a credit under this section.

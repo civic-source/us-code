@@ -3,9 +3,9 @@ title: "Section 41101 - Requirement for a certificate"
 usc_title: 49
 usc_section: "41101"
 chapter: 411
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 41101"
-generated_at: "2026-03-29T20:07:58.576Z"
+generated_at: "2026-03-29T20:35:10.894Z"
 ---
 
 # § 41101. Requirement for a certificate

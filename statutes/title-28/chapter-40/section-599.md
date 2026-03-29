@@ -3,9 +3,9 @@ title: "Section 599 - Termination of effect of chapter"
 usc_title: 28
 usc_section: "599"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "28 U.S.C. § 599"
-generated_at: "2026-03-29T20:05:24.763Z"
+generated_at: "2026-03-29T20:33:11.468Z"
 ---
 
 # § 599. Termination of effect of chapter

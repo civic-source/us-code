@@ -3,9 +3,9 @@ title: "Section 8232 - Residential energy efficiency standards study"
 usc_title: 42
 usc_section: "8232"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 8232"
-generated_at: "2026-03-29T20:07:44.589Z"
+generated_at: "2026-03-29T20:34:53.919Z"
 ---
 
 # § 8232. Residential energy efficiency standards study

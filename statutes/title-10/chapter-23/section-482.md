@@ -3,30 +3,28 @@ title: "Section 482 - Readiness reports"
 usc_title: 10
 usc_section: "482"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 482"
-generated_at: "2026-03-29T20:03:09.462Z"
+generated_at: "2026-03-29T20:31:54.415Z"
 ---
 
 # § 482. Readiness reports
 
 - **(a)**
-  - **(1)** Not later than 30 days after the end of the second and fourth quarter of each calendar year, the Secretary of Defense shall submit to Congress a report regarding the military readiness of the active and reserve components and the Space Force. The Secretary of Defense shall submit each such report in writing and shall also submit a copy of each such report to the Chairman of the Joint Chiefs of Staff.
-  - **(2)** Not later than 30 days after the end of the first and third quarter of each calendar year, the Secretary of Defense shall provide to Congress a briefing regarding the military readiness of the active and reserve components and the Space Force.
+  - **(1)** Not later than 30 days after the end of the second and fourth quarter of each calendar year, the Secretary of Defense shall submit to Congress a report regarding the military readiness of the active and reserve components. The Secretary of Defense shall submit each such report in writing and shall also submit a copy of each such report to the Chairman of the Joint Chiefs of Staff.
+  - **(2)** Not later than 30 days after the end of the first and third quarter of each calendar year, the Secretary of Defense shall provide to Congress a briefing regarding the military readiness of the active and reserve components.
   - **(3)** Each report under this subsection shall contain the elements required by subsection (b) for the quarter covered by the report, and each briefing shall address any changes to the elements described in subsection (b) since the submittal of the most recently submitted report.
 - **(b)** The elements described in this subsection are each of the following:
   - **(1)** A description of each readiness problem or deficiency that affects the ground, sea, air, space, cyber, or special operations forces, and any other area determined appropriate by the Secretary of Defense.
   - **(2)** The key contributing factors, indicators, and other relevant information related to each identified problem or deficiency.
   - **(3)** The short-term mitigation strategy the Department will employ to address each readiness problem or deficiency until a resolution is in place, as well as the timeline, cost, and any legislative remedies required to support the resolution.
   - **(4)** A summary of combat readiness ratings for the key force elements assessed, including specific information on personnel, supply, equipment, and training problems or deficiencies that affect the combat readiness ratings for each force element.
-  - **(5)** The total number of upgrades and the total number of downgrades of the combat readiness of a unit that were issued by the commander of the unit, disaggregated by armed force.
+  - **(5)** A summary of each upgrade or downgrade of the combat readiness of a unit that was issued by the commander of the unit, together with the rationale of the commander for the issuance of such upgrade or downgrade.
   - **(6)** A summary of the readiness of supporting capabilities, including infrastructure, prepositioned equipment and supplies, and mobility assets, and other supporting logistics capabilities.
   - **(7)** A summary of the readiness of the combat support and related agencies, any readiness problem or deficiency affecting any mission essential tasks of any such agency, and actions recommended to address any such problem or deficiency.
-  - **(8)** A list of all Class A and Class B mishaps, and a summary count of all Class C mishaps, that occurred in operations related to combat support and training events involving aviation, ground, or naval platforms, weapons, space, or Government vehicles, as defined by Department of Defense Instruction 6055.07, or a successor instruction.
+  - **(8)** A list of all Class A, Class B, and Class C mishaps that occurred in operations related to combat support and training events involving aviation, ground, or naval platforms, weapons, space, or Government vehicles, as defined by Department of Defense Instruction 6055.07, or a successor instruction.
   - **(9)** Information on the extent to which units of the armed forces have removed serviceable parts, supplies, or equipment from one vehicle, vessel, or aircraft in order to render a different vehicle, vessel, or aircraft operational.
-  - **(10)** Information regarding the extent to which any member of the armed forces is assigned or detailed outside the member’s unit or away from training in order to perform any function that had previously been performed by civilian employees of the Federal Government.
-  - **(11)** A summary of the joint medical estimate under section 732(b)(1) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( Public Law 115–232 ; 132 Stat. 1817 ) prepared by the Joint Staff Surgeon, with a mitigation plan to correct any readiness problem or deficiency and the timeline, cost, and any legislative action required to correct any such problem or deficiency.
-  - **(12)** Such other information as determined necessary or appropriate by the Secretary of Defense.
+  - **(10)** Such other information as determined necessary or appropriate by the Secretary of Defense.
 - **(c)** The information required under subsection (b) to be included in the report for a quarter shall be based on readiness assessments that are provided during that quarter—
   - **(1)** to any council, committee, or other body of the Department of Defense—
     - **(A)** that has responsibility for readiness oversight; and

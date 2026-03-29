@@ -3,9 +3,9 @@ title: "Section 1874 - Public reporting by persons subject to orders"
 usc_title: 50
 usc_section: "1874"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "50 U.S.C. § 1874"
-generated_at: "2026-03-29T20:08:11.152Z"
+generated_at: "2026-03-29T20:35:05.149Z"
 ---
 
 # § 1874. Public reporting by persons subject to orders
@@ -19,8 +19,8 @@ generated_at: "2026-03-29T20:08:11.152Z"
     - **(E)** the number of orders received under this chapter for noncontents, reported in bands of 1000 starting with 0–999; and
     - **(F)** the number of customer selectors targeted under orders under this chapter for noncontents, reported in bands of 1000 starting with 0–999, pursuant to—
       - **(i)** subchapter III;
-      - **(ii)** subchapter IV with respect to applications described in section 1861(b)(2)(B) 1 1 See References in Text note below. of this title; and
-      - **(iii)** subchapter IV with respect to applications described in section 1861(b)(2)(C) 1 of this title.
+      - **(ii)** subchapter IV with respect to applications described in section 1861(b)(2)(B) of this title ; and
+      - **(iii)** subchapter IV with respect to applications described in section 1861(b)(2)(C) of this title .
   - **(2)** A semiannual report that aggregates the number of orders, directives, or national security letters with which the person was required to comply into separate categories of—
     - **(A)** the number of national security letters received, reported in bands of 500 starting with 0–499;
     - **(B)** the number of customer selectors targeted by national security letters, reported in bands of 500 starting with 0–499;

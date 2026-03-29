@@ -3,9 +3,9 @@ title: "Section 9008 - United States Treasury program management authority"
 usc_title: 15
 usc_section: "9008"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 9008"
-generated_at: "2026-03-29T20:03:27.707Z"
+generated_at: "2026-03-29T20:32:10.110Z"
 ---
 
 # § 9008. United States Treasury program management authority
@@ -30,10 +30,10 @@ generated_at: "2026-03-29T20:03:27.707Z"
       - **(v)** Subparagraph (M), pertaining to loan deferment.
     - **(C)** A guarantee percentage that, to the maximum extent practicable, is consistent with the guarantee percentage required under subparagraph (F) of section 7(a)(2) of the Small Business Act ( 15 U.S.C. 636(a)(2) ), as added by section 1102 of this Act.
     - **(D)** Loan forgiveness under terms and conditions that, to the maximum extent practicable, is consistent with the terms and conditions for loan forgiveness under section 7A of the Small Business Act [ 15 U.S.C. 636m ].
-- **(e)** The Secretary may issue regulations and guidance as necessary to carry out the purposes of this section, including to allow additional lenders to originate loans under this title 1 1 See References in Text note below. and to establish terms and conditions such as compensation, underwriting standards, interest rates, and maturity for under 2 2 So in original. this section.
+- **(e)** The Secretary may issue regulations and guidance as necessary to carry out the purposes of this section, including to allow additional lenders to originate loans under this title 1 1 See References in Text note below. and to establish terms and conditions such as compensation, underwriting standards, interest rates, and maturity for under this section.
 - **(f)** As a condition of receiving a loan under this section, a borrower shall certify under terms acceptable to the Secretary that the borrower—
   - **(1)** does not have an application pending for a loan under section 7(a) of the Small Business Act ( 15 U.S.C. 636(a) ) for the same purpose; and
   - **(2)** has not received such a loan during the period beginning on February 15, 2020 and ending on December 31, 2020 .
-- **(g)** Lenders qualified to participate as a lender under 7(a) 3 3 So in original. Probably should be preceded by “section”. of the Small Business Act ( 15 U.S.C. 636(a) ) may elect to participate in the paycheck protection program under the criteria, terms, and conditions established under this section. Such participation shall not preclude the lenders from continuing participation as a lender under section 7(a) of the Small Business Act ( 15 U.S.C. 636(a) ).
+- **(g)** Lenders qualified to participate as a lender under 7(a) 2 2 So in original. Probably should be preceded by “section”. of the Small Business Act ( 15 U.S.C. 636(a) ) may elect to participate in the paycheck protection program under the criteria, terms, and conditions established under this section. Such participation shall not preclude the lenders from continuing participation as a lender under section 7(a) of the Small Business Act ( 15 U.S.C. 636(a) ).
 - **(h)** With guidance from the Secretary, the Administrator shall administer the program established under this section, including the making and purchasing of guarantees on loans under the program, until the date on which the national emergency declared by the President under the National Emergencies Act ( 50 U.S.C. 1601 et seq.) with respect to the Coronavirus Disease 2019 (COVID–19) expires.
 - **(i)** A loan under this section shall be deemed to be a loan under the Small Business Act ( 15 U.S.C. 631 et seq.) for purposes of section 16 of such Act ( 15 U.S.C. 645 ).

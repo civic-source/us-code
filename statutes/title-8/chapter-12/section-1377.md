@@ -3,9 +3,9 @@ title: "Section 1377 - Collection of data on detained asylum seekers"
 usc_title: 8
 usc_section: "1377"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "8 U.S.C. § 1377"
-generated_at: "2026-03-29T20:02:46.258Z"
+generated_at: "2026-03-29T20:31:32.248Z"
 ---
 
 # § 1377. Collection of data on detained asylum seekers

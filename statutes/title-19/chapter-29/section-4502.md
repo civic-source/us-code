@@ -3,9 +3,9 @@ title: "Section 4502 - Definitions"
 usc_title: 19
 usc_section: "4502"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "19 U.S.C. § 4502"
-generated_at: "2026-03-29T20:04:27.464Z"
+generated_at: "2026-03-29T20:32:31.879Z"
 ---
 
 # § 4502. Definitions
@@ -17,7 +17,7 @@ In this Act:
   - **(3)** The term “identical goods” means goods that are the same in all respects relevant to the rule of origin that qualifies the goods as originating goods.
   - **(4)** The term “International Trade Commission” means the United States International Trade Commission.
   - **(5)** The term “Mexico” means the United Mexican States.
-  - **(6)** The term “NAFTA” means the North American Free Trade Agreement approved by Congress under section 101(a)(1) of the North American Free Trade Agreement Implementation Act ( 19 U.S.C. 3311(a)(1) ). 1 1 See References in Text note below.
+  - **(6)** The term “NAFTA” means the North American Free Trade Agreement approved by Congress under section 101(a)(1) of the North American Free Trade Agreement Implementation Act ( 19 U.S.C. 3311(a)(1) ). 1
   - **(7)** The term “preferential tariff treatment” means the customs duty rate that is applicable to an originating good (as defined in section 4531(a) of this title ) under the USMCA.
   - **(8)** The term “Trade Representative” means the United States Trade Representative.
   - **(9)** The term “USMCA” means the Agreement between the United States of America, the United Mexican States, and Canada, which is—

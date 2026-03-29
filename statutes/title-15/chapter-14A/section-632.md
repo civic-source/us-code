@@ -3,9 +3,9 @@ title: "Section 632 - Definitions"
 usc_title: 15
 usc_section: "632"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 632"
-generated_at: "2026-03-29T20:03:27.254Z"
+generated_at: "2026-03-29T20:32:09.757Z"
 ---
 
 # § 632. Definitions
@@ -13,12 +13,12 @@ generated_at: "2026-03-29T20:03:27.254Z"
 - **(a)**
   - **(1)** For the purposes of this chapter, a small-business concern, including but not limited to enterprises that are engaged in the business of production of food and fiber, ranching and raising of livestock, aquaculture, and all other farming and agricultural related industries, shall be deemed to be one which is independently owned and operated and which is not dominant in its field of operation.
   - **(2)**
-    - **(A)** In addition to the criteria specified in paragraph (1) and subject to the requirements specified under subparagraph (C), the Administrator may specify detailed definitions or standards by which a business concern may be determined to be a small business concern for the purposes of this chapter or any other Act.
+    - **(A)** In addition to the criteria specified in paragraph (1), the Administrator may specify detailed definitions or standards by which a business concern may be determined to be a small business concern for the purposes of this chapter or any other Act.
     - **(B)** The standards described in paragraph (1) may utilize number of employees, dollar volume of business, net worth, net income, a combination thereof, or other appropriate factors.
-    - **(C)** Unless specifically authorized by statute, no Federal department (including the Administration when acting pursuant to subparagraph (A)) or agency may prescribe a size standard for categorizing a business concern as a small business concern, unless such proposed size standard—
+    - **(C)** Unless specifically authorized by statute, no Federal department or agency may prescribe a size standard for categorizing a business concern as a small business concern, unless such proposed size standard—
       - **(i)** is proposed after an opportunity for public notice and comment;
       - **(ii)** provides for determining—
-        - **(I)** the size of a manufacturing concern as measured by the manufacturing concern’s average employment based upon employment during each of the manufacturing concern’s pay periods for the preceding 24 months;
+        - **(I)** the size of a manufacturing concern as measured by the manufacturing concern’s average employment based upon employment during each of the manufacturing concern’s pay periods for the preceding 12 months;
         - **(II)** the size of a business concern providing services on the basis of the annual average gross receipts of the business concern over a period of not less than 5 years;
         - **(III)** the size of other business concerns on the basis of data over a period of not less than 3 years; or
         - **(IV)** other appropriate factors; and
@@ -99,7 +99,7 @@ generated_at: "2026-03-29T20:03:27.254Z"
 - **(i)** For purposes of section 636 of this title , the term “homeowners” includes owners and lessees of residential property and also includes personal property.
 - **(j)** For the purposes of this chapter, the term “small agricultural cooperative” means an association (corporate or otherwise) acting pursuant to the provisions of the Agricultural Marketing Act ( 12 U.S.C. 1141j ), whose size does not exceed the size standard established by the Administration for other similar agricultural small business concerns. In determining such size, the Administration shall regard the association as a business concern and shall not include the income or employees of any member shareholder of such cooperative.
 - **(k)**
-  - **(1)** For the purposes of this chapter, the term “disaster” means a sudden event which causes severe damage including, but not limited to, floods, hurricanes, tornadoes, earthquakes, fires, explosions, volcanoes, windstorms, landslides or mudslides, tidal waves, commercial fishery failures or fishery resource disasters (as determined by the Secretary of Commerce under the Fishery Resource Disasters Improvement Act), ocean conditions resulting in the closure of customary fishing waters, riots, civil disorders or other catastrophes, except it does not include economic dislocations.
+  - **(1)** For the purposes of this chapter, the term “disaster” means a sudden event which causes severe damage including, but not limited to, floods, hurricanes, tornadoes, earthquakes, fires, explosions, volcanoes, windstorms, landslides or mudslides, tidal waves, commercial fishery failures or fishery resource disasters (as determined by the Secretary of Commerce under section 4107(b) of title 16 ), ocean conditions resulting in the closure of customary fishing waters, riots, civil disorders or other catastrophes, except it does not include economic dislocations.
   - **(2)** For purposes of section 636(b)(2) of this title , the term “disaster” includes—
     - **(A)** drought;
     - **(B)** below average water levels in the Great Lakes, or on any body of water in the United States that supports commerce by small business concerns; and
@@ -115,7 +115,7 @@ generated_at: "2026-03-29T20:03:27.254Z"
   - **(4)** The term “micro-purchase threshold” has the meaning given such term in section 1902 of title 41 .
   - **(5)** The term “total purchases and contracts for property and services” shall mean total number and total dollar amount of contracts and orders for property and services.
 - **(n)** For the purposes of this chapter, a small business concern is a small business concern owned and controlled by women if—
-  - **(1)** at least 51 percent of small 3 3 So in original. Probably should be preceded by “the”. business concern is owned by one or more women or, in the case of any publicly owned business, at least 51 percent of the stock of which is owned by one or more women; and
+  - **(1)** at least 51 percent of small business concern is owned by one or more women or, in the case of any publicly owned business, at least 51 percent of the stock of which is owned by one or more women; and
   - **(2)** the management and daily business operations of the business are controlled by one or more women.
 - **(o)** In this chapter:
   - **(1)** The term “bundled contract” means a contract that is entered into to meet requirements that are consolidated in a bundling of contract requirements.
@@ -139,7 +139,7 @@ generated_at: "2026-03-29T20:03:27.254Z"
       - **(i)** During the time period described in clause (ii), a small business concern that was a small business concern described in subparagraph (A) or (B) immediately prior to the death of a service-disabled veteran who was the owner of the concern, the death of whom causes the concern to be less than 51 percent owned by one or more service-disabled veterans, if—
         - **(I)** the surviving spouse of the deceased veteran acquires such veteran’s ownership interest in such concern;
         - **(II)** such veteran had a service-connected disability (as defined in section 101(16) of title 38 ); and
-        - **(III)** immediately prior to the death of such veteran, and during the period described in clause (ii), the small business concern is included in the database described in section 657f of this title .
+        - **(III)** immediately prior to the death of such veteran, and during the period described in clause (ii), the small business concern is included in the database described in section 8127(f) of title 38 .
       - **(ii)** The time period described in this clause is the time period beginning on the date of the veteran’s death and ending on the earlier of—
         - **(I)** the date on which the surviving spouse remarries;
         - **(II)** the date on which the surviving spouse relinquishes an ownership interest in the small business concern; or

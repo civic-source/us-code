@@ -3,9 +3,9 @@ title: "Section 4001 - Research and development projects"
 usc_title: 10
 usc_section: "4001"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 4001"
-generated_at: "2026-03-29T20:03:09.772Z"
+generated_at: "2026-03-29T20:31:54.683Z"
 ---
 
 # § 4001. Research and development projects
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T20:03:09.772Z"
   - **(2)** through one or more military departments;
   - **(3)** by using employees and consultants of the Department of Defense;
   - **(4)** by mutual agreement with the head of any other department or agency of the Federal Government;
-  - **(5)** by transactions (other than contracts, cooperative agreements, and grants) entered into pursuant to section 4021 or 4022 of this title; or
-  - **(6)** by purchases through procurement for experimental purposes pursuant to section 4023 of this title .
+  - **(5)** by transactions (other than contracts, cooperative agreements, and grants) entered into pursuant to sections 1 1 So in original. Probably should be “section”. 4002 or 4003 2 2 Amendment by section 1841(b)(2)(A)(i) of Pub. L. 116–283 executed to reflect the probable intent of Congress. of this title; or
+  - **(6)** by purchases through procurement for experimental purposes pursuant to sections 1 4004 of this title.
 - **(c)** Funds appropriated to the Department of Defense or to a military department may not be used to finance any research project or study unless the project or study is, in the opinion of the Secretary of Defense or the Secretary of that military department, respectively, of potential interest to the Department of Defense or to such military department, respectively.
-- **(d)** Additional authorities, conditions, and requirements relating to certain cooperative agreements authorized by this section are provided in sections 4021 and 4026 of this title.
+- **(d)** Additional authorities, conditions, and requirements relating to certain cooperative agreements authorized by this section are provided in sections 4002 and 4143 of this title.

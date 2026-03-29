@@ -3,9 +3,9 @@ title: "Section 7105 - Agency boards"
 usc_title: 41
 usc_section: "7105"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "41 U.S.C. § 7105"
-generated_at: "2026-03-29T20:05:58.294Z"
+generated_at: "2026-03-29T20:34:07.753Z"
 ---
 
 # § 7105. Agency boards
@@ -37,10 +37,7 @@ generated_at: "2026-03-29T20:05:58.294Z"
     - **(B)** The Civilian Board has jurisdiction to decide any appeal from a decision of a contracting officer of any executive agency (other than the Department of Defense, the Department of the Army, the Department of the Navy, the Department of the Air Force, the National Aeronautics and Space Administration, the United States Postal Service, the Postal Regulatory Commission, or the Tennessee Valley Authority) relative to a contract made by that agency.
     - **(C)** The Postal Service Board of Contract Appeals has jurisdiction to decide any appeal from a decision of a contracting officer of the United States Postal Service or the Postal Regulatory Commission relative to a contract made by either agency.
     - **(D)** Each other agency board has jurisdiction to decide any appeal from a decision of a contracting officer relative to a contract made by its agency.
-    - **(E)**
-      - **(i)** The boards described in subparagraphs (B), (C), and (D) shall have jurisdiction to hear any case referred to a board of contract appeals under section 3803(d) of title 31 .
-      - **(ii)** If the Chair of a board described in subparagraph (B), (C), or (D) determines that accepting a case under clause (i) would prevent adequate consideration of other cases being handled by the board, the Chair may decline to accept the referral.
-  - **(2)** In exercising this jurisdiction, an agency board may grant any relief that would be available to a litigant asserting a contract claim in the United States Court of Federal Claims or, in the event that a case is filed under chapter 38 of title 31, any relief that would be available to a litigant under that chapter.
+  - **(2)** In exercising this jurisdiction, an agency board may grant any relief that would be available to a litigant asserting a contract claim in the United States Court of Federal Claims.
 - **(f)** A member of an agency board of contract appeals may administer oaths to witnesses, authorize depositions and discovery proceedings, and require by subpoena the attendance of witnesses, and production of books and papers, for the taking of testimony or evidence by deposition or in the hearing of an appeal by the agency board. In case of contumacy or refusal to obey a subpoena by a person who resides, is found, or transacts business within the jurisdiction of a United States district court, the court, upon application of the agency board through the Attorney General, or upon application by the board of contract appeals of the Tennessee Valley Authority, shall have jurisdiction to issue the person an order requiring the person to appear before the agency board or a member of the agency board, to produce evidence or to give testimony, or both. Any failure of the person to obey the order of the court may be punished by the court as contempt of court.
 - **(g)** An agency board shall—
   - **(1)** to the fullest extent practicable provide informal, expeditious, and inexpensive resolution of disputes;

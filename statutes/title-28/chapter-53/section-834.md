@@ -3,9 +3,9 @@ title: "Section 834 - Repealed. Pub. L. 97–164, title I, § 122(a) , Apr. 2, 1
 usc_title: 28
 usc_section: "834"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "28 U.S.C. § 834"
-generated_at: "2026-03-29T20:05:24.771Z"
+generated_at: "2026-03-29T20:33:11.475Z"
 ---
 
 # [§§ 831 to 834. Repealed. Pub. L. 97–164, title I, § 122(a) , Apr. 2, 1982 , 96 Stat. 36 ]

@@ -3,9 +3,9 @@ title: "Section 17062 - Energy efficiency in Federal and other buildings"
 usc_title: 42
 usc_section: "17062"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 17062"
-generated_at: "2026-03-29T20:07:44.936Z"
+generated_at: "2026-03-29T20:34:54.264Z"
 ---
 
 # § 17062. Energy efficiency in Federal and other buildings

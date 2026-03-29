@@ -1,16 +1,46 @@
 ---
-title: "Section 2274 - Study by Secretary of Labor when International Trade Commission begins investigation"
+title: "Section 2274 - Study and notifications regarding certain affirmative determinations; industry notification of assistance"
 usc_title: 19
 usc_section: "2274"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "19 U.S.C. § 2274"
-generated_at: "2026-03-29T20:04:27.371Z"
+generated_at: "2026-03-29T20:32:31.790Z"
 ---
 
-# § 2274. Study by Secretary of Labor when International Trade Commission begins investigation
+# § 2274. Study and notifications regarding certain affirmative determinations; industry notification of assistance
 
 - **(a)** Whenever the International Trade Commission (hereafter referred to in this part as the “Commission”) begins an investigation under section 2252 of this title with respect to an industry, the Commission shall immediately notify the Secretary of such investigation, and the Secretary shall immediately begin a study of—
   - **(1)** the number of workers in the domestic industry producing the like or directly competitive article who have been or are likely to be certified as eligible for adjustment assistance, and
   - **(2)** the extent to which the adjustment of such workers to the import competition may be facilitated through the use of existing programs.
-- **(b)** The report of the Secretary of the study under subsection (a) of this section shall be made to the President not later than 15 days after the day on which the Commission makes its report under section 2252(f) of this title . Upon making his report to the President, the Secretary shall also promptly make it public (with the exception of information which the Secretary determines to be confidential) and shall have a summary of it published in the Federal Register.
+- **(b)** The report of the Secretary of the study under subsection (a) shall be made to the President not later than 15 days after the day on which the Commission makes its report under section 2252(f) of this title . Upon making his report to the President, the Secretary shall also promptly make it public (with the exception of information which the Secretary determines to be confidential) and shall have a summary of it published in the Federal Register and on the website of the Department of Labor.
+- **(c)** Upon making an affirmative determination under section 2252(b)(1) of this title , the Commission shall promptly notify the Secretary of Labor and the Secretary of Commerce and, in the case of a determination with respect to an agricultural commodity, the Secretary of Agriculture, of the determination.
+- **(d)**
+  - **(1)** Upon making an affirmative determination under section 2451(b)(1) of this title , the Commission shall promptly notify the Secretary of Labor and the Secretary of Commerce and, in the case of a determination with respect to an agricultural commodity, the Secretary of Agriculture, of the determination.
+  - **(2)** Upon making an affirmative determination in a proceeding initiated under an applicable safeguard provision (other than a provision described in paragraph (3)) that is enacted to implement a trade agreement to which the United States is a party, the Commission shall promptly notify the Secretary of Labor and the Secretary of Commerce and, in the case of a determination with respect to an agricultural commodity, the Secretary of Agriculture, of the determination.
+  - **(3)** Upon making an affirmative determination in a proceeding initiated under any safeguard provision relating to textile and apparel articles that is enacted to implement a trade agreement to which the United States is a party, the President shall promptly notify the Secretary of Labor and the Secretary of Commerce of the determination.
+- **(e)** Upon making an affirmative determination under section 705(b)(1)(A) or 735(b)(1)(A) of the Tariff Act of 1930 ( 19 U.S.C. 1671d(b)(1)(A) and 1673d(b)(1)(A)), the Commission shall promptly notify the Secretary of Labor and the Secretary of Commerce and, in the case of a determination with respect to an agricultural commodity, the Secretary of Agriculture, of the determination.
+- **(f)** Upon receiving a notification of a determination under subsection (c), (d), or (e) with respect to a domestic industry—
+  - **(1)** the Secretary of Labor shall—
+    - **(A)** notify the representatives of the domestic industry affected by the determination, firms publicly identified by name during the course of the proceeding relating to the determination, and any certified or recognized union or, to the extent practicable, other duly authorized representative of workers employed by such representatives of the domestic industry, of—
+      - **(i)** the allowances, training, employment services, and other benefits available under this part;
+      - **(ii)** the manner in which to file a petition and apply for such benefits; and
+      - **(iii)** the availability of assistance in filing such petitions;
+    - **(B)** notify the Governor of each State in which one or more firms in the industry described in subparagraph (A) are located of the Commission’s determination and the identity of the firms; and
+    - **(C)** upon request, provide any assistance that is necessary to file a petition under section 2271 of this title ;
+  - **(2)** the Secretary of Commerce shall—
+    - **(A)** notify the representatives of the domestic industry affected by the determination and any firms publicly identified by name during the course of the proceeding relating to the determination of—
+      - **(i)** the benefits available under part 3;
+      - **(ii)** the manner in which to file a petition and apply for such benefits; and
+      - **(iii)** the availability of assistance in filing such petitions; and
+    - **(B)** upon request, provide any assistance that is necessary to file a petition under section 2341 of this title ; and
+  - **(3)** in the case of an affirmative determination based upon imports of an agricultural commodity, the Secretary of Agriculture shall—
+    - **(A)** notify representatives of the domestic industry affected by the determination and any agricultural commodity producers publicly identified by name during the course of the proceeding relating to the determination of—
+      - **(i)** the benefits available under part 6;
+      - **(ii)** the manner in which to file a petition and apply for such benefits; and
+      - **(iii)** the availability of assistance in filing such petitions; and
+    - **(B)** upon request, provide any assistance that is necessary to file a petition under section 2401a of this title .
+- **(g)** For purposes of subsection (f), the term “representatives of the domestic industry” means the persons that petitioned for relief in connection with—
+  - **(1)** a proceeding under section 2252 or 2451 of this title;
+  - **(2)** a proceeding under section 702(b) or 732(b) of the Tariff Act of 1930 ( 19 U.S.C. 1671d(b) and 1673d(b) 1 1 So in original. Probably should be “1671a(b) and 1673a(b)”. ); or
+  - **(3)** any safeguard investigation described in subsection (d)(2) or (d)(3).

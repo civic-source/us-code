@@ -3,16 +3,16 @@ title: "Section 2326 - Regional sediment management"
 usc_title: 33
 usc_section: "2326"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "33 U.S.C. § 2326"
-generated_at: "2026-03-29T20:05:35.829Z"
+generated_at: "2026-03-29T20:33:34.298Z"
 ---
 
 # § 2326. Regional sediment management
 
 - **(a)**
   - **(1)**
-    - **(A)** For sediment obtained through or used in the construction, operation, or maintenance of an authorized Federal water resources project, including a project authorized for flood control, the Secretary shall develop, at Federal expense, regional sediment management plans and carry out projects at locations identified in plans developed under this section, or identified jointly by the non-Federal interest and the Secretary, for use in the construction, repair, modification, or rehabilitation of projects, including projects for the beneficial use of dredged materials described in section 1122 of the Water Resources Development Act of 2016 ( 33 U.S.C. 2326 note), 1 1 See References in Text note below. associated with Federal water resources projects for purposes listed in paragraph (3).
+    - **(A)** For sediment obtained through or used in the construction, operation, or maintenance of an authorized Federal water resources project, including a project authorized for flood control, the Secretary shall develop, at Federal expense, regional sediment management plans and carry out projects at locations identified in plans developed under this section, or identified jointly by the non-Federal interest and the Secretary, for use in the construction, repair, modification, or rehabilitation of projects associated with Federal water resources projects for purposes listed in paragraph (3).
     - **(B)** For purposes of projects carried out under this section, the Secretary may include sediment from other Federal sources and non-Federal sources, subject to the requirement that any sediment obtained from a non-Federal source shall not be obtained at Federal expense.
   - **(2)** The Secretary shall develop plans under this subsection in cooperation with the appropriate Federal, State, regional, and local agencies.
   - **(3)** The purposes of using sediment for the construction, repair, modification, or rehabilitation of Federal water resources projects are—
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T20:05:35.829Z"
     - **(B)**
       - **(i)** Except as provided in clause (ii), the non-Federal share of the construction cost of a project under this section shall be determined as provided in subsections (a) through (d) of section 2213 of this title .
       - **(ii)** Construction of a project under this section for one or more of the purposes of protection, restoration, or creation of aquatic and ecologically related habitat, the cost of which does not exceed $750,000 and which is located in a disadvantaged community as determined by the Secretary, may be carried out at Federal expense.
-    - **(C)** The total Federal costs associated with construction of a project under this section may not exceed $15,000,000.
+    - **(C)** The total Federal costs associated with construction of a project under this section may not exceed $10,000,000.
   - **(2)** Operation, maintenance, replacement, and rehabilitation costs associated with a project under this section are the responsibility of the non-Federal interest.
 - **(d)**
   - **(1)** At the request of the non-Federal interest for a water resources development project involving the disposal of dredged material, the Secretary, using funds appropriated for construction or operation and maintenance of the project, may select a disposal method that is not the least cost option if the Secretary determines that the incremental costs of the disposal method are reasonable in relation to—
@@ -40,7 +40,7 @@ generated_at: "2026-03-29T20:05:35.829Z"
   - **(4)** The Secretary may accept funds from a non-Federal interest to dispose of dredged material as provided under section 2213(d)(1) of this title .
   - **(5)** Activities carried out under this subsection—
     - **(A)** shall be carried out using amounts appropriated for construction or operation and maintenance of the project involving the disposal of the dredged material; and
-    - **(B)** shall not carried 2 2 So in original. Probably should be preceded by “be”. out using amounts made available under subsection (g).
+    - **(B)** shall not carried out using amounts made available under subsection (g).
 - **(e)** The Secretary may—
   - **(1)** cooperate with any State or group of States in the preparation of a comprehensive State or regional sediment management plan within the boundaries of the State or among States;
   - **(2)** encourage State participation in the implementation of the plan; and
@@ -57,5 +57,4 @@ generated_at: "2026-03-29T20:05:35.829Z"
   - **(9)** Toledo Harbor, Lucas County, Ohio.
   - **(10)** Galveston Bay, Texas.
   - **(11)** Benson Beach, Washington.
-  - **(12)** Osceola County, Florida.
 - **(g)** There is authorized to be appropriated to carry out this section $62,500,000 per fiscal year, of which not more than $5,000,000 per fiscal year may be used for the development of regional sediment management plans authorized by subsection (e) and of which not more than $3,000,000 per fiscal year may be used for construction of projects to which subsection (c)(1)(B)(ii) applies. Such funds shall remain available until expended.

@@ -3,9 +3,9 @@ title: "Section 8669b - Senior Technical Authority for each naval vessel class"
 usc_title: 10
 usc_section: "8669b"
 chapter: 863
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 8669b"
-generated_at: "2026-03-29T20:03:09.871Z"
+generated_at: "2026-03-29T20:31:54.739Z"
 ---
 
 # § 8669b. Senior Technical Authority for each naval vessel class
@@ -16,14 +16,12 @@ generated_at: "2026-03-29T20:03:09.871Z"
     - **(B)** In the case of any class of vessels which has not received any approval described in subparagraph (A) as of such date of enactment, at or before the first of such approvals.
   - **(2)** Each individual designated as a Senior Technical Authority under paragraph (1) shall be an employee of the Navy in the Senior Executive Service in an organization of the Navy that—
     - **(A)** possesses the technical expertise required to carry out the responsibilities specified in subsection (b); and
-    - **(B)** reports directly to the portfolio acquisition executive, established under section 1732 of this title .
+    - **(B)** operates independently of chains-of-command for acquisition program management.
   - **(3)** Each Senior Technical Authority shall be designated for a fixed term, not shorter than the time anticipated to establish demonstrated successful performance of the class of vessels concerned in accordance with its approved capabilities document, as determined by the Secretary at the time of designation.
   - **(4)** If an individual designated as a Senior Technical Authority voluntarily departs the position before demonstrated successful performance of the class of vessels concerned, the Secretary shall designate, in writing, a replacement, and shall notify, in writing, the congressional defense committees not later than 90 days after such departure.
   - **(5)** An individual may be removed involuntarily from designation as a Senior Technical Authority only by the Secretary. Not later than 15 days after the involuntary removal of an individual from such designation, the Secretary shall notify, in writing, the congressional defense committees of the removal, including the reasons for the removal. Not later than 90 days after the involuntary removal, the Secretary shall designate, in writing, a replacement, and shall notify, in writing, the congressional defense committees of such designation.
   - **(6)** Subject to paragraphs (4) and (5), the Secretary may reassign a Senior Technical Authority or remove an individual from designation as a Senior Technical Authority in furtherance of Department of the Navy mission needs.
-- **(b)**
-  - **(1)** Each Senior Technical Authority shall be responsible for, and have the authority to, establish, monitor, and approve technical standards, tools, and processes for the class of naval vessels for which designated under this section in conformance with applicable laws and Department of Defense and Department of the Navy policies, requirements, architectures, and standards.
-  - **(2)** Each Senior Technical Authority shall also be responsible for the determination that all design requirements for a vessel class are directly related to a key performance parameter or key system attribute established in the capability development document for such class. Any such requirement that the Senior Technical Authority determines is unnecessary to meet a key performance parameter or key system attribute shall not be approved.
+- **(b)** Each Senior Technical Authority shall be responsible for, and have the authority to, establish, monitor, and approve technical standards, tools, and processes for the class of naval vessels for which designated under this section in conformance with applicable laws and Department of Defense and Department of the Navy policies, requirements, architectures, and standards.
 - **(c)**
   - **(1)** On or after January 1, 2021 , funds authorized to be appropriated for Shipbuilding and Conversion, Navy or Other Procurement, Navy may not be obligated for the first time on the lead vessel in a class of naval vessels unless the Secretary of the Navy certifies as described in paragraph (2).
   - **(2)** The certification on a class of naval vessels described in this paragraph is a certification containing each of the following:
@@ -46,4 +44,4 @@ generated_at: "2026-03-29T20:03:09.871Z"
       - **(i)** a substantially new class of craft (including craft procured using “new start” procurement); and
       - **(ii)** a class of craft undergoing a significant incremental change in its existing class (such as a next “flight” of destroyers or next “block” of attack submarines).
   - **(2)** The term “future-years defense program” has the meaning given that term in section 221 of this title .
-  - **(3)** The term “Milestone A approval” means a decision to enter into technology maturation and risk reduction pursuant to guidance prescribed by the Secretary of Defense for the management of Department of Defense acquisition programs.
+  - **(3)** The term “Milestone A approval” has the meaning given that term in section 2431a of this title .

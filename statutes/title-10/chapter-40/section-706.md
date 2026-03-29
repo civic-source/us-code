@@ -3,9 +3,9 @@ title: "Section 706 - Administration of leave required to be taken"
 usc_title: 10
 usc_section: "706"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 706"
-generated_at: "2026-03-29T20:03:09.495Z"
+generated_at: "2026-03-29T20:31:54.437Z"
 ---
 
 # § 706. Administration of leave required to be taken

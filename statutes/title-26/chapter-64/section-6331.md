@@ -3,9 +3,9 @@ title: "Section 6331 - Levy and distraint"
 usc_title: 26
 usc_section: "6331"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 6331"
-generated_at: "2026-03-29T20:05:22.696Z"
+generated_at: "2026-03-29T20:33:27.320Z"
 ---
 
 # § 6331. Levy and distraint

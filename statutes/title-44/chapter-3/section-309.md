@@ -3,9 +3,9 @@ title: "Section 309 - Revolving fund for operation and maintenance of Government
 usc_title: 44
 usc_section: "309"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "44 U.S.C. § 309"
-generated_at: "2026-03-29T20:06:03.268Z"
+generated_at: "2026-03-29T20:34:08.924Z"
 ---
 
 # § 309. Revolving fund for operation and maintenance of Government Publishing Office: capitalization; reimbursements and credits; accounting and budgeting; reports

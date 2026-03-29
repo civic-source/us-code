@@ -3,9 +3,9 @@ title: "Section 2911 - Energy policy of the Department of Defense"
 usc_title: 10
 usc_section: "2911"
 chapter: 173
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2911"
-generated_at: "2026-03-29T20:03:09.738Z"
+generated_at: "2026-03-29T20:31:54.660Z"
 ---
 
 # § 2911. Energy policy of the Department of Defense
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T20:03:09.738Z"
 - **(c)**
   - **(1)** The Secretary of Defense shall submit to the congressional defense committees the energy performance goals for the Department of Defense regarding transportation systems, support systems, utilities, and infrastructure and facilities.
   - **(2)** The energy performance goals shall be submitted annually not later than the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31 and cover that fiscal year as well as the next five, l0, and 20 years. The Secretary shall identify changes to the energy performance goals since the previous submission.
-  - **(3)** The Secretary of Defense shall include the energy security and resilience goals of the Department of Defense in the report submitted under section 2925(a) of this title for fiscal year 2018 and every fiscal year thereafter. In the development of energy security and resilience goals, the Department of Defense shall conform with the definitions of energy security and resilience under this title. The report shall include the amount of critical energy load, together with the level of availability and reliability by fiscal year the Department of Defense deems necessary to achieve energy security and resilience.
+  - **(3)** The Secretary of Defense shall include the energy security and resilience goals of the Department of Defense in the installation energy report submitted under section 2925(a) of this title for fiscal year 2018 and every fiscal year thereafter. In the development of energy security and resilience goals, the Department of Defense shall conform with the definitions of energy security and resilience under this title. The report shall include the amount of critical energy load, together with the level of availability and reliability by fiscal year the Department of Defense deems necessary to achieve energy security and resilience.
 - **(d)**
   - **(1)** The Secretary of Defense shall develop a comprehensive master plan for the achievement of the energy performance goals of the Department of Defense, as set forth in laws, executive orders, and Department of Defense policies.
   - **(2)** The master plan shall include the following:
@@ -35,16 +35,16 @@ generated_at: "2026-03-29T20:03:09.738Z"
   - **(1)** Opportunities to reduce the current rate of consumption of energy, the future demand for energy, and the requirement for the use of energy.
   - **(2)** Opportunities to enhance energy resilience to ensure the Department of Defense has the ability to prepare for and recover from energy disruptions that affect mission assurance on military installations.
   - **(3)** Opportunities to implement conservation measures to improve the efficient use of energy.
-  - **(4)** Opportunities for the high-performance construction, lease, operation, and maintenance of buildings.
-  - **(5)** Cost effectiveness, cost savings, and net present value of alternatives.
-  - **(6)** The value of diversification of types and sources of energy used.
-  - **(7)** The value of economies-of-scale associated with fewer energy types used.
-  - **(8)** The value of the use of renewable energy sources.
-  - **(9)** The potential for an action to serve as an incentive for members of the armed forces and civilian personnel to reduce energy consumption or adopt an improved energy performance measure.
-  - **(10)** Opportunities for improving energy security for facility energy projects that will use renewable energy sources.
-  - **(11)** Opportunities to leverage financing provided by a non-Department entity to address installation energy needs.
-  - **(12)** The reliability and security of energy resources in the event of a military conflict.
-  - **(13)** The value of resourcing energy from partners and allies of the United States.
+  - **(4)** Opportunities to pursue alternative energy initiatives, including the use of alternative fuels and hybrid-electric drive in military vehicles and equipment.
+  - **(5)** Opportunities for the high-performance construction, lease, operation, and maintenance of buildings.
+  - **(6)** Cost effectiveness, cost savings, and net present value of alternatives.
+  - **(7)** The value of diversification of types and sources of energy used.
+  - **(8)** The value of economies-of-scale associated with fewer energy types used.
+  - **(9)** The value of the use of renewable energy sources.
+  - **(10)** The value of incorporating electric, hybrid-electric, and high efficiency vehicles into vehicle fleets.
+  - **(11)** The potential for an action to serve as an incentive for members of the armed forces and civilian personnel to reduce energy consumption or adopt an improved energy performance measure.
+  - **(12)** Opportunities for improving energy security for facility energy projects that will use renewable energy sources.
+  - **(13)** Opportunities to leverage financing provided by a non-Department entity to address installation energy needs.
 - **(f)** For the purpose of implementing the energy performance master plan, the Secretary of Defense shall provide that the selection of energy conservation measures, including energy efficient maintenance, shall be limited to those measures that—
   - **(1)** are readily available;
   - **(2)** demonstrate an economic return on the investment;
@@ -77,21 +77,3 @@ generated_at: "2026-03-29T20:03:09.738Z"
     - **(D)** At least two projects shall be designed to develop technology that demonstrates the ability to store sufficient electrical energy from an on-site energy generation facility that uses a renewable energy source to provide the electrical energy required to continue operation of installation facilities performing critical missions during nighttime operations.
     - **(E)** The authority of the Secretary of Defense to commence a project under this paragraph expires on September 30, 2025 .
   - **(3)** In this subsection, the term “microgrid” means an integrated energy system consisting of interconnected loads and energy resources that, if necessary, can be removed from the local utility grid and function as an integrated, stand-alone system.
-- **(i)**
-  - **(1)** Subject to the availability of appropriations, the Secretary of Defense shall develop and institute a process to ensure that the Department of Defense, when evaluating energy resilience measures, uses analytical tools that are accurate and effective in projecting the costs and performance of such measures.
-  - **(2)** Analytical tools used under paragraph (1) shall be—
-    - **(A)** designed to—
-      - **(i)** provide an accurate projection of the costs and performance of the energy resilience measure being analyzed;
-      - **(ii)** be used without specialized training; and
-      - **(iii)** produce resulting data that is understandable and usable by the typical source selection official;
-    - **(B)** consistent with standards and analytical tools commonly applied by the Department of Energy and by commercial industry;
-    - **(C)** adaptable to accommodate a rapidly changing technological environment;
-    - **(D)** peer reviewed for quality and precision and measured against the highest level of development for such tools; and
-    - **(E)** periodically reviewed and updated, but not less frequently than once every three years.
-- **(j)**
-  - **(1)** To the maximum extent practicable, the Secretary concerned shall take a holistic view of the energy project opportunities on installations under the jurisdiction of such Secretary and shall consider aggregate energy conservation measures, including energy conservation measures with quick payback, with energy resilience enhancement projects and other projects that may have a longer payback period.
-  - **(2)** In considering aggregate energy conservation measures under paragraph (1), the Secretary concerned shall incorporate all funding available to such Secretary for such measures, including—
-    - **(A)** appropriated funds, such as—
-      - **(i)** funds appropriated for the Energy Resilience and Conservation Investment Program of the Department; and
-      - **(ii)** funds appropriated for the Facilities Sustainment, Restoration, and Modernization program of the Department; and
-    - **(B)** funding available under performance contracts, such as energy savings performance contracts and utility energy service contracts.

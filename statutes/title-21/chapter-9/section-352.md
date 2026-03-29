@@ -3,9 +3,9 @@ title: "Section 352 - Misbranded drugs and devices"
 usc_title: 21
 usc_section: "352"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "21 U.S.C. § 352"
-generated_at: "2026-03-29T20:04:50.408Z"
+generated_at: "2026-03-29T20:32:52.475Z"
 ---
 
 # § 352. Misbranded drugs and devices
@@ -13,10 +13,10 @@ generated_at: "2026-03-29T20:04:50.408Z"
 A drug or device shall be deemed to be misbranded—
 
 - **(a)**
-  - **(1)** If its labeling is false or misleading in any particular. Health care economic information provided to a payor, formulary committee, or other similar entity with knowledge and expertise in the area of health care economic analysis, carrying out its responsibilities for the selection of drugs or devices for coverage or reimbursement, shall not be considered to be false or misleading under this paragraph if the health care economic information relates to an indication approved under section 355, 360(k), 360c(f)(2), or 360e of this title or section 262 of title 42 for such drug or device, is based on competent and reliable scientific evidence, and includes, where applicable, a conspicuous and prominent statement describing any material differences between the health care economic information and the labeling approved for the drug or device under section 355, 360(k), 360c(f)(2), or 360e of this title or section 262 of title 42 . The requirements set forth in section 355, 360(k), 360c(f)(2), or 360e of this title or section 262 of title 42 shall not apply to health care economic information provided to such a payor, committee, or entity in accordance with this paragraph. Information that is relevant to the substantiation of the health care economic information presented pursuant to this paragraph shall be made available to the Secretary upon request.
+  - **(1)** If its labeling is false or misleading in any particular. Health care economic information provided to a payor, formulary committee, or other similar entity with knowledge and expertise in the area of health care economic analysis, carrying out its responsibilities for the selection of drugs for coverage or reimbursement, shall not be considered to be false or misleading under this paragraph if the health care economic information relates to an indication approved under section 355 of this title or under section 262(a) of title 42 for such drug, is based on competent and reliable scientific evidence, and includes, where applicable, a conspicuous and prominent statement describing any material differences between the health care economic information and the labeling approved for the drug under section 355 of this title or under section 262 of title 42 . The requirements set forth in section 355(a) of this title or in subsections (a) and (k) of section 262 of title 42 shall not apply to health care economic information provided to such a payor, committee, or entity in accordance with this paragraph. Information that is relevant to the substantiation of the health care economic information presented pursuant to this paragraph shall be made available to the Secretary upon request.
   - **(2)**
-    - **(A)** For purposes of this paragraph, 1 1 So in original. The term “health care economic information” appears only in par. (1). the term “health care economic information” means any analysis (including the clinical data, inputs, clinical or other assumptions, methods, results, and other components underlying or comprising the analysis) that identifies, measures, or describes the economic consequences, which may be based on the separate or aggregated clinical consequences of the represented health outcomes, of the use of a drug or device. Such analysis may be comparative to the use of another drug or device, to another health care intervention, or to no intervention.
-    - **(B)** Such term does not include any analysis that relates only to an indication that is not approved under section 355, 360(k), 360c(f)(2), or 360e of this title or section 262 of title 42 for such drug or device.
+    - **(A)** For purposes of this paragraph, 1 1 So in original. The term “health care economic information” appears only in par. (1). the term “health care economic information” means any analysis (including the clinical data, inputs, clinical or other assumptions, methods, results, and other components underlying or comprising the analysis) that identifies, measures, or describes the economic consequences, which may be based on the separate or aggregated clinical consequences of the represented health outcomes, of the use of a drug. Such analysis may be comparative to the use of another drug, to another health care intervention, or to no intervention.
+    - **(B)** Such term does not include any analysis that relates only to an indication that is not approved under section 355 of this title or under section 262 of title 42 for such drug.
 - **(b)** If in package form unless it bears a label containing (1) the name and place of business of the manufacturer, packer, or distributor; and (2) an accurate statement of the quantity of the contents in terms of weight, measure, or numerical count: Provided , That under clause (2) of this paragraph reasonable variations shall be permitted, and exemptions as to small packages shall be established, by regulations prescribed by the Secretary.
 - **(c)** If any word, statement, or other information required by or under authority of this chapter to appear on the label or labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use.
 - **(d)**
@@ -62,31 +62,3 @@ A drug or device shall be deemed to be misbranded—
 - **(dd)** If it is an antimicrobial drug, as defined in section 360a–2(f) of this title , and its labeling fails to conform with the requirements under section 360a–2(d) of this title .
 - **(ee)** If it is a nonprescription drug that is subject to section 355h of this title , is not the subject of an application approved under section 355 of this title , and does not comply with the requirements under section 355h of this title .
 - **(ff)** If it is a drug and it was manufactured, prepared, propagated, compounded, or processed in a facility for which fees have not been paid as required by section 379j–72 of this title .
-- **(gg)**
-  - **(1)** Unless its labeling bears adequate directions for use in accordance with paragraph (f), except that (in addition to drugs or devices that conform with exemptions pursuant to such paragraph) no drug or device shall be deemed to be misbranded under such paragraph through the provision of truthful and not misleading product information to a payor, formulary committee, or other similar entity with knowledge and expertise in the area of health care economic analysis carrying out its responsibilities for the selection of drugs or devices for coverage or reimbursement if the product information relates to an investigational drug or device or investigational use of a drug or device that is approved, cleared, granted marketing authorization, or licensed under section 355, 360(k), 360c(f)(2), or 360e of this title or section 262 of title 42 (as applicable), provided—
-    - **(A)** the product information includes—
-      - **(i)** a clear statement that the investigational drug or device or investigational use of a drug or device has not been approved, cleared, granted marketing authorization, or licensed under section 355, 360(k), 360c(f)(2), or 360e of this title or section 262 of title 42 (as applicable) and that the safety and effectiveness of such drug or device for such use has not been established;
-      - **(ii)** information related to the stage of development of the drug or device involved, such as—
-        - **(I)** the status of any study or studies in which the investigational drug or device or investigational use is being investigated;
-        - **(II)** how the study or studies relate to the overall plan for the development of the drug or device; and
-        - **(III)** whether an application, premarket notification, or request for classification for the investigational drug or device or investigational use has been submitted to the Secretary and when such a submission is planned;
-      - **(iii)** in the case of information that includes factual presentations of results from studies, which shall not be selectively presented, a description of—
-        - **(I)** all material aspects of study design, methodology, and results; and
-        - **(II)** all material limitations related to the study design, methodology, and results;
-      - **(iv)** where applicable, a prominent statement disclosing the indication or indications for which the Secretary has approved, granted marketing authorization, cleared, or licensed the product pursuant to section 355, 360(k), 360c(f)(2), or 360e of this title or section 262 of title 42 , and a copy of the most current required labeling; and
-      - **(v)** updated information, if previously communicated information becomes materially outdated as a result of significant changes or as a result of new information regarding the product or its review status; and
-    - **(B)** the product information does not include—
-      - **(i)** information that represents that an unapproved product—
-        - **(I)** has been approved, cleared, granted marketing authorization, or licensed under section 355, 360(k), 360c(f)(2), or 360e of this title or section 262 of title 42 (as applicable); or
-        - **(II)** has otherwise been determined to be safe or effective for the purpose or purposes for which the drug or device is being studied; or
-      - **(ii)** information that represents that an unapproved use of a drug or device that has been so approved, granted marketing authorization, cleared, or licensed—
-        - **(I)** is so approved, granted marketing authorization, cleared, or licensed; or
-        - **(II)** that the product is safe or effective for the use or uses for which the drug or device is being studied.
-  - **(2)** For purposes of this paragraph, the term “product information” includes—
-    - **(A)** information describing the drug or device (such as drug class, device description, and features);
-    - **(B)** information about the indication or indications being investigated;
-    - **(C)** the anticipated timeline for a possible approval, clearance, marketing authorization, or licensure pursuant to section 355, 360(k), 360c, or 360e of this title or section 262 of title 42 ;
-    - **(D)** drug or device pricing information;
-    - **(E)** patient utilization projections;
-    - **(F)** product-related programs or services; and
-    - **(G)** factual presentations of results from studies that do not characterize or make conclusions regarding safety or efficacy.

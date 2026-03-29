@@ -3,9 +3,9 @@ title: "Section 1788a - Support programs: special operations forces personnel; i
 usc_title: 10
 usc_section: "1788a"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 1788a"
-generated_at: "2026-03-29T20:03:09.632Z"
+generated_at: "2026-03-29T20:31:54.546Z"
 ---
 
 # § 1788a. Support programs: special operations forces personnel; immediate family members
@@ -15,18 +15,20 @@ generated_at: "2026-03-29T20:03:09.632Z"
   - **(1)** identify family support services that have a direct and concrete impact on the readiness of special operations forces, but that are not being provided by the Secretary of a military department to covered individuals; and
   - **(2)** conduct a cost-benefit analysis of each family support service proposed to be included in a program.
 - **(c)** The Commander may expend up to $10,000,000 during each fiscal year, from funds available for Major Force Program 11, to carry out family support programs under this section.
-- **[(d)** Repealed. Pub. L. 116–92, div. A, title XVII, § 1702(c)(1) , Dec. 20, 2019 , 133 Stat. 1796 .]
+- **(d)**
+  - **(1)** Not later than March 1 each year, the Commander, in coordination with the Under Secretary of Defense for Personnel and Readiness, shall submit to the congressional defense committees a report describing the progress made in achieving the goals of the family support programs conducted under this section.
+  - **(2)** Each report under this subsection shall include the following:
+    - **(A)** A detailed description of the programs conducted under this section to address family support requirements for covered individuals.
+    - **(B)** An assessment of the impact of the programs on military readiness and on covered individuals.
+    - **(C)** A description of the special operations-peculiar aspects of the programs and a comparison and differentiation of these programs with other programs conducted by the Secretaries of the military departments to provide family support services to immediate family members of members of the armed forces.
+    - **(D)** Recommendations for incorporating lessons learned into other family support programs.
+    - **(E)** Any other matters the Commander considers appropriate regarding the programs.
 - **(e)** In this section:
   - **(1)** The term “Commander” means the Commander of the United States Special Operations Command.
   - **(2)** The term “immediate family members” has the meaning given that term in section 1789(c) of this title .
-  - **(3)** The term “special operations forces” means those forces of the armed forces identified as special operations forces under section 167(j) of this title .
-  - **(4)** The term “family support services” includes psychological support, spiritual support, and costs of transportation, food, lodging, child care, supplies, fees, and training materials for covered individuals while participating in programs under subsection (a).
-  - **(5)** The term “covered individuals” means—
+  - **(3)** The term “special operations forces” means those forces of the armed forces identified as special operations forces under section 167(i) 1 1 See References in Text note below. of this title.
+  - **(4)** The term “family support services” includes psychological support, spiritual support, and costs of transportation, food, lodging, child care, supplies, fees, and training materials for covered personnel while participating in programs under subsection (a).
+  - **(5)** The term “covered personnel” means—
     - **(A)** members of the Armed Forces (including the reserve components) assigned to special operations forces;
-    - **(B)** service personnel assigned to support special operations forces;
-    - **(C)** immediate family members of individuals described in subparagraphs (A) and (B); and
-    - **(D)** immediate family members of individuals described in subparagraphs (A) or (B) in a case in which such individual died—
-      - **(i)** as a direct result of armed conflict;
-      - **(ii)** while engaged in hazardous service;
-      - **(iii)** in the performance of duty under conditions simulating war; or
-      - **(iv)** through an instrumentality of war.
+    - **(B)** service personnel assigned to support special operations forces; and
+    - **(C)** immediate family members of individuals described in subparagraphs (A) and (B).

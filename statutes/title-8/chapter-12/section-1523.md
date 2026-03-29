@@ -3,9 +3,9 @@ title: "Section 1523 - Congressional reports"
 usc_title: 8
 usc_section: "1523"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "8 U.S.C. § 1523"
-generated_at: "2026-03-29T20:02:46.269Z"
+generated_at: "2026-03-29T20:31:32.259Z"
 ---
 
 # § 1523. Congressional reports

@@ -3,9 +3,9 @@ title: "Section 2112 - Establishment"
 usc_title: 10
 usc_section: "2112"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2112"
-generated_at: "2026-03-29T20:03:09.642Z"
+generated_at: "2026-03-29T20:31:54.553Z"
 ---
 
 # § 2112. Establishment

@@ -3,9 +3,9 @@ title: "Section 2241 - Availability of appropriations for certain purposes"
 usc_title: 10
 usc_section: "2241"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2241"
-generated_at: "2026-03-29T20:03:09.663Z"
+generated_at: "2026-03-29T20:31:54.569Z"
 ---
 
 # § 2241. Availability of appropriations for certain purposes
@@ -20,4 +20,3 @@ generated_at: "2026-03-29T20:03:09.663Z"
   - **(7)** Expenses for the Reserve Officers’ Training Corps and other units at educational institutions.
 - **(b)** Amounts appropriated to the Department of Defense may be used for all necessary expenses, at the seat of the Government or elsewhere, in connection with communication and other services and supplies that may be necessary for the national defense.
 - **(c)** Amounts appropriated for operation and maintenance may, under regulations prescribed by the Secretary of Defense, be used by the Secretary for official reception, representation, and advertising activities and materials of the National Committee for Employer Support of the Guard and Reserve to further employer commitments to their employees who are members of a reserve component.
-- **(d)** Amounts appropriated for operation and maintenance may be used by the Secretary of Defense for travel, transportation, and subsistence expenses for meetings and demonstrations hosted by the Department of Defense for the implementation of the Vienna Document 2011 on Confidence and Security-Building Measures.

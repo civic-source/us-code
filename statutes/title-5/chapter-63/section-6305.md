@@ -3,9 +3,9 @@ title: "Section 6305 - Home leave; leave for Chiefs of Missions; leave for crews
 usc_title: 5
 usc_section: "6305"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "5 U.S.C. § 6305"
-generated_at: "2026-03-29T20:02:37.837Z"
+generated_at: "2026-03-29T20:31:26.794Z"
 ---
 
 # § 6305. Home leave; leave for Chiefs of Missions; leave for crews of vessels
@@ -19,4 +19,3 @@ generated_at: "2026-03-29T20:02:37.837Z"
   - **(1)** accumulates for future use without regard to the limitation in section 6304(b) of this title ;
   - **(2)** may not be made the basis for a lump-sum payment, except that civil service mariners of the Military Sealift Command on temporary promotion aboard ship may be paid the difference between their temporary and permanent rates of pay for leave accrued under this section and section 6303 and not otherwise used during the temporary promotion upon the expiration or termination of the temporary promotion; and
   - **(3)** may not be made the basis for terminal leave except under such special or emergency circumstances as may be prescribed under the regulations of the Office.
-- **(d)** With respect to an officer, crewmember, or other employee of the Department of Defense serving aboard an oceangoing vessel on an extended voyage, the first sentence in the matter preceding paragraph (1) of subsection (c) of this section shall be applied by substituting “7 calendar days” for “30 calendar days”.

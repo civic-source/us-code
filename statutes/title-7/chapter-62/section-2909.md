@@ -3,9 +3,9 @@ title: "Section 2909 - Investigations by Secretary; oaths and affirmations; subp
 usc_title: 7
 usc_section: "2909"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 2909"
-generated_at: "2026-03-29T20:02:52.672Z"
+generated_at: "2026-03-29T20:31:42.122Z"
 ---
 
 # § 2909. Investigations by Secretary; oaths and affirmations; subpenas; judicial enforcement; contempt proceedings; service of process

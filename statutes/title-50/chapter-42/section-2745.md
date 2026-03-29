@@ -1,0 +1,20 @@
+---
+title: "Section 2745 - Fund transfer authority"
+usc_title: 50
+usc_section: "2745"
+chapter: 42
+current_through: "PL 117-24"
+classification: "50 U.S.C. § 2745"
+generated_at: "2026-03-29T20:35:05.198Z"
+---
+
+# § 2745. Fund transfer authority
+
+- **(a)** The Secretary of Energy may transfer funds authorized to be appropriated to the Department of Energy pursuant to a DOE national security authorization to other Federal agencies for the performance of work for which the funds were authorized. Funds so transferred may be merged with and be available for the same purposes and for the same time period as the authorizations of the Federal agency to which the amounts are transferred.
+- **(b)**
+  - **(1)** Subject to paragraph (2), the Secretary of Energy may transfer funds authorized to be appropriated to the Department of Energy pursuant to a DOE national security authorization to any other DOE national security authorization. Amounts of authorizations so transferred may be merged with and be available for the same purposes and for the same period as the authorization to which the amounts are transferred.
+  - **(2)** Not more than 5 percent of any such authorization may be transferred to another authorization under paragraph (1). No such authorization may be increased or decreased by more than 5 percent by a transfer under such paragraph.
+- **(c)** The authority provided by this subsection to transfer authorizations—
+  - **(1)** may be used only to provide funds for items relating to activities necessary for national security programs that have a higher priority than the items from which the funds are transferred; and
+  - **(2)** may not be used to provide funds for an item for which Congress has specifically denied funds.
+- **(d)** The Secretary of Energy shall promptly notify the congressional defense committees of any transfer of funds to or from any DOE national security authorization.

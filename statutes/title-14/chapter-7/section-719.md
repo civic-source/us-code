@@ -3,9 +3,9 @@ title: "Section 719 - Research projects; transactions other than contracts and g
 usc_title: 14
 usc_section: "719"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "14 U.S.C. § 719"
-generated_at: "2026-03-29T20:03:17.283Z"
+generated_at: "2026-03-29T20:32:03.587Z"
 ---
 
 # § 719. Research projects; transactions other than contracts and grants
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T20:03:17.283Z"
 - **(a)**
   - **(1)** The Commandant may enter into—
     - **(A)** transactions (other than contracts, cooperative agreements, and grants) in carrying out basic, applied, and advanced research projects; and
-    - **(B)** agreements with the Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense under section 2371b 1 1 See References in Text note below. of title 10 to participate in prototype projects and follow-on production contracts or transactions that are being carried out by such official and are directly relevant to the Coast Guard’s cyber capability and Command, Control, Communications, Computers, and intelligence initiatives.
+    - **(B)** agreements with the Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense under section 2371b of title 10 to participate in prototype projects and follow-on production contracts or transactions that are being carried out by such official and are directly relevant to the Coast Guard’s cyber capability and Command, Control, Communications, Computers, and intelligence initiatives.
   - **(2)** The authority under this subsection is in addition to the authority provided in section 717 to use contracts, cooperative agreements, and grants in carrying out such projects.
   - **(3)** In carrying out paragraph (1)(B), the Commandant may use funds made available to the extent provided in advance in appropriations Acts for—
     - **(A)** operations and support;
@@ -23,8 +23,8 @@ generated_at: "2026-03-29T20:03:17.283Z"
   - **(1)** Subject to subsection (d), a cooperative agreement for performance of basic, applied, or advanced research authorized by section 717, and a transaction authorized by subsection (a), may include a clause that requires a person or other entity to make payments to the Coast Guard or any other department or agency of the Federal Government as a condition for receiving support under the agreement or transaction, respectively.
   - **(2)** The amount of any payment received by the Federal Government pursuant to a requirement imposed under paragraph (1) shall be deposited in the general fund of the Treasury. Amounts so deposited shall be available for the purposes of carrying out this section, to the extent provided in advance in appropriations Acts.
 - **(c)**
-  - **(1)** The Commandant shall ensure that to the extent that the Commandant determines practicable, no cooperative agreement containing a clause described in subsection (c)(1), 2 2 So in original. Probably should be “subsection (b)(1)”. and no transaction entered into under subsection (a), provides for research that duplicates research being conducted under existing programs carried out by the Coast Guard.
-  - **(2)** A cooperative agreement containing a clause described in subsection (c)(1), 2 or under a transaction authorized by subsection (a), may be used for a research project only if the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.
+  - **(1)** The Commandant shall ensure that to the extent that the Commandant determines practicable, no cooperative agreement containing a clause described in subsection (c)(1), 1 1 So in original. Probably should be “subsection (b)(1)”. and no transaction entered into under subsection (a), provides for research that duplicates research being conducted under existing programs carried out by the Coast Guard.
+  - **(2)** A cooperative agreement containing a clause described in subsection (c)(1), 1 or under a transaction authorized by subsection (a), may be used for a research project only if the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.
 - **(d)** The Commandant shall—
   - **(1)** ensure that management, technical, and contracting personnel of the Coast Guard involved in the award or administration of transactions under this section or other innovative forms of contracting are afforded opportunities for adequate education and training; and
   - **(2)** establish minimum levels and requirements for continuous and experiential learning for such personnel, including levels and requirements for acquisition certification programs.

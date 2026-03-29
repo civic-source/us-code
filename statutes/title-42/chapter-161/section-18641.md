@@ -3,16 +3,14 @@ title: "Section 18641 - Basic energy sciences"
 usc_title: 42
 usc_section: "18641"
 chapter: 161
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 18641"
-generated_at: "2026-03-29T20:07:45.002Z"
+generated_at: "2026-03-29T20:34:54.319Z"
 ---
 
 # § 18641. Basic energy sciences
 
-- **(a)** As part of the activities authorized under section 7139 of this title , the Director shall carry out a research and development program in basic energy sciences, including materials sciences and engineering, chemical sciences, physical biosciences, geosciences, and other disciplines, to understand, model, and control matter and energy at the electronic, atomic, and molecular levels in order to provide the foundations for new energy technologies, address scientific grand challenges, and support the energy, environment, and national security missions of the Department.
-- **(b)** In carrying out chemistry-related research and development activities under this section, the Director shall prioritize research and development of sustainable chemistry to support clean, safe, and economic alternatives and methodologies to traditional chemical products and processes.
-- **(c)**
+- **(a)**
   - **(1)** The Director shall carry out a program to provide awards, on a competitive, merit-reviewed basis, to multi-institutional collaborations or other appropriate entities to conduct fundamental and use-inspired energy research to accelerate scientific breakthroughs.
   - **(2)** A collaboration receiving an award under this subsection may include multiple types of institutions and private sector entities.
   - **(3)**
@@ -21,122 +19,12 @@ generated_at: "2026-03-29T20:07:45.002Z"
     - **(C)** After the end of the period described in subparagraph (A) or (B), as applicable, a recipient of an award may reapply for selection on a competitive, merit-reviewed basis.
     - **(D)** Consistent with the existing authorities of the Department, the Director may terminate an underperforming center for cause during the performance period.
   - **(4)** No funding provided pursuant to this subsection may be used for the construction of new buildings or facilities.
-- **(d)**
+- **(b)**
   - **(1)** The Director shall carry out a program for the development, construction, operation, and maintenance of national user facilities.
   - **(2)** To the maximum extent practicable, the national user facilities developed, constructed, operated, or maintained under paragraph (1) shall serve the needs of the Department, industry, the academic community, and other relevant entities to create and examine materials and chemical processes for the purpose of improving the competitiveness of the United States.
   - **(3)** The national user facilities developed, constructed, operated, or maintained under paragraph (1) shall include—
     - **(A)** x-ray light sources;
     - **(B)** neutron sources;
-    - **(C)** nanoscale science research centers;
-    - **(D)** autonomous chemistry and materials synthesis and characterization facilities that leverage advances in artificial intelligence; and
-    - **(E)** such other facilities as the Director considers appropriate, consistent with section 7139 of this title .
-  - **(4)**
-    - **(A)** In this paragraph:
-      - **(i)** The term “flux” means the rate of flow of photons.
-      - **(ii)** The term “hard x-ray” means a photon with energy greater than 20 kiloelectron volts.
-    - **(B)** The Secretary shall provide for the upgrade to the Advanced Photon Source described in the publication approved by the Basic Energy Sciences Advisory Committee on June 9, 2016 , entitled “Report on Facility Upgrades”, including the development of a multibend achromat lattice to produce a high flux of coherent x-rays within the hard x-ray energy region and a suite of beamlines optimized for this source.
-    - **(C)** The Secretary shall, subject to the availability of appropriations, ensure that the start of full operations of the upgrade under this paragraph occurs before March 31, 2026 .
-    - **(D)** Out of funds authorized to be appropriated under subsection (j), there is authorized to be appropriated to the Secretary to carry out the upgrade under this paragraph $14,200,000 for fiscal year 2023.
-  - **(5)**
-    - **(A)** The Secretary shall provide for the proton power upgrade to the Spallation Neutron Source.
-    - **(B)** In this paragraph, the term “proton power upgrade” means the Spallation Neutron Source power upgrade described in—
-      - **(i)** the publication entitled “Facilities for the Future of Science: A Twenty-Year Outlook”, published by the Office of Science of the Department in December, 2003;
-      - **(ii)** the publication entitled “Four Years Later: An Interim Report on Facilities for the Future of Science: A Twenty-Year Outlook”, published by the Office of Science of the Department in August, 2007; and
-      - **(iii)** the publication approved by the Basic Energy Sciences Advisory Committee on June 9, 2016 , entitled “Report on Facility Upgrades”.
-    - **(C)** The Secretary shall, subject to the availability of appropriations, ensure that the start of full operations of the upgrade under this paragraph occurs before July 30, 2028 , with the option for early operation in 2025.
-    - **(D)** Out of funds authorized to be appropriated under subsection (j), there is authorized to be appropriated to the Secretary to carry out the upgrade under this paragraph—
-      - **(i)** $17,000,000 for fiscal year 2023;
-      - **(ii)** $14,202,000 for fiscal year 2024; and
-      - **(iii)** $1,567,000 for fiscal year 2025.
-  - **(6)**
-    - **(A)** The Secretary shall provide for a second target station for the Spallation Neutron Source.
-    - **(B)** In this paragraph, the term “second target station” means the Spallation Neutron Source second target station described in—
-      - **(i)** the publication entitled, “Facilities for the Future of Science: A Twenty-Year Outlook”, published by the Office of Science of the Department in December, 2003;
-      - **(ii)** the publication entitled, “Four Years Later: An Interim Report on Facilities for the Future of Science: A Twenty-Year Outlook”, published by the Office of Science of the Department in August, 2007; and
-      - **(iii)** the publication approved by the Basic Energy Sciences Advisory Committee on June 9, 2016 , entitled “Report on Facility Upgrades”.
-    - **(C)** The Secretary shall, subject to the availability of appropriations, ensure that the start of full operations of the second target station under this paragraph occurs before December 31, 2033 , with the option for early operation in 2029.
-    - **(D)** Out of funds authorized to be appropriated under subsection (j), there are authorized to be appropriated to the Secretary to carry out the activities under this paragraph, including construction—
-      - **(i)** $127,000,000 for fiscal year 2023;
-      - **(ii)** $205,000,000 for fiscal year 2024;
-      - **(iii)** $279,000,000 for fiscal year 2025;
-      - **(iv)** $300,000,000 for fiscal year 2026; and
-      - **(v)** $281,000,000 for fiscal year 2027.
-  - **(7)**
-    - **(A)** In this paragraph:
-      - **(i)** The term “flux” means the rate of flow of photons.
-      - **(ii)** The term “soft x-ray” means a photon with energy in the range from 50 to 2,000 electron volts.
-    - **(B)** The Secretary shall provide for the upgrade to the Advanced Light Source described in the publication approved by the Basic Energy Sciences Advisory Committee on June 9, 2016 , entitled “Report on Facility Upgrades”, including the development of a multibend achromat lattice to produce a high flux of coherent x-rays within the soft x-ray energy region.
-    - **(C)** The Secretary shall, subject to the availability of appropriations, ensure that the start of full operations of the upgrade under this paragraph occurs before September 30, 2029 .
-    - **(D)** Out of funds authorized to be appropriated under subsection (j), there are authorized to be appropriated to the Secretary to carry out the upgrade under this paragraph—
-      - **(i)** $135,000,000 for fiscal year 2023;
-      - **(ii)** $102,500,000 for fiscal year 2024;
-      - **(iii)** $50,000,000 for fiscal year 2025; and
-      - **(iv)** $1,400,000 for fiscal year 2026.
-  - **(8)**
-    - **(A)** In this paragraph:
-      - **(i)** The term “high energy”, with respect to an x-ray, means a photon with an energy in the 5 to 13 kiloelectron volt range.
-      - **(ii)** The term “high repetition rate” means the delivery of x-ray pulses up to 1,000,000 pulses per second.
-      - **(iii)** The term “ultra-short pulse”, with respect to an x-ray, means that the x-ray has bursts capable of durations of less than 100 femtoseconds.
-    - **(B)** The Secretary shall—
-      - **(i)** provide for the upgrade to the Linac Coherent Light Source II facility described in the publication approved by the Basic Energy Sciences Advisory Committee on June 9, 2016 , entitled “Report on Facility Upgrades”, including the development of experimental capabilities for high energy x-rays to reveal fundamental scientific discoveries; and
-      - **(ii)** ensure such upgrade enables the production and use of high energy, ultra-short pulse x-rays delivered at a high repetition rate.
-    - **(C)** The Secretary shall, subject to the availability of appropriations, ensure that the start of full operations of the upgrade under this paragraph occurs before December 31, 2026 .
-    - **(D)** Out of funds authorized to be appropriated under subsection (j), there are authorized to be appropriated to the Secretary to carry out the upgrade under this paragraph—
-      - **(i)** $100,000,000 for fiscal year 2023;
-      - **(ii)** $130,000,000 for fiscal year 2024;
-      - **(iii)** $135,000,000 for fiscal year 2025; and
-      - **(iv)** $99,343,000 for fiscal year 2026.
-  - **(9)**
-    - **(A)** The Secretary shall provide for the construction of a cryomodule repair and maintenance facility to service the Linac Coherent Light Source II and subsequent upgrades.
-    - **(B)** The Secretary shall consult with the private sector, institutions of higher education, National Laboratories, and relevant Federal agencies to ensure that the facility described in subparagraph (A) has the capability to maintain, repair, and test superconducting radio frequency accelerator components.
-    - **(C)** Out of funds authorized to be appropriated under subsection (j), there are authorized to be appropriated to the Secretary to carry out the activities under this paragraph—
-      - **(i)** $29,300,000 for fiscal year 2023;
-      - **(ii)** $24,000,000 for fiscal year 2024;
-      - **(iii)** $20,000,000 for fiscal year 2025; and
-      - **(iv)** $15,700,000 for fiscal year 2026.
-  - **(10)**
-    - **(A)** The Secretary shall provide for the recapitalization of the Nanoscale Science Research Centers, to include the upgrade of equipment at each Center supported by the Office of Science on August 9, 2022 , to accelerate advances in the various fields of science including nanoscience, materials, chemistry, biology, and quantum information science.
-    - **(B)** Out of funds authorized to be appropriated under subsection (j), there are authorized to be appropriated to the Secretary to carry out the recapitalization under this paragraph—
-      - **(i)** $25,000,000 for fiscal year 2023; and
-      - **(ii)** $25,000,000 for fiscal year 2024.
-  - **(11)**
-    - **(A)** The Secretary shall provide for the development and construction of experimental stations to provide significant additional beamline and instrument capacity, complement the existing portfolio of beamlines, and complete the buildout of the National Synchrotron Light Source II.
-    - **(B)** Subject to the availability of appropriations, the Secretary—
-      - **(i)** shall begin carrying out subparagraph (A) not later than September 30, 2036 ; and
-      - **(ii)** may begin carrying out subparagraph (A)—
-        - **(I)** in calendar year 2033; or
-        - **(II)** after the construction of individual beamlines is complete.
-- **(e)** The Director shall carry out research and development on advanced accelerator and storage ring technologies relevant to the development of basic energy sciences user facilities, in consultation with the High Energy Physics and Nuclear Physics programs of the Office of Science.
-- **(f)**
-- **(g)**
-- **(h)**
-  - **(1)** The Director shall support a program of research and development for the application of advanced computing practices to foundational and emerging research problems in chemistry and materials science. Research activities shall include—
-    - **(A)** chemical catalysis research and development;
-    - **(B)** the use of large data sets to model materials phenomena, including through advanced characterization of materials, materials synthesis, processing, and innovative use of experimental and theoretical data;
-    - **(C)** codesign of chemical system and chemistry modeling software with advanced computing systems and hardware technologies; and
-    - **(D)** modeling of chemical processes, assemblies, and reactions such as molecular dynamics and quantum chemistry, including through novel computing methods.
-  - **(2)**
-    - **(A)** In carrying out the activities authorized under paragraph (1), the Director shall select and establish up to 6 computational materials and chemical sciences centers to—
-      - **(i)** develop open-source, robust, and validated computational codes and user-friendly software, coupled with innovative use of experimental and theoretical data, to enable the design, discovery, and development of new materials and chemical systems; and
-      - **(ii)** focus on overcoming challenges and maximizing the benefits of exascale and other high performance computing underpinned by accelerated node technologies.
-    - **(B)** The Director shall select centers under subparagraph (A) on a competitive, merit-reviewed basis. The Director shall consider applications from the National Laboratories, institutions of higher education, multi-institutional collaborations, and other appropriate entities.
-    - **(C)**
-      - **(i)** A center selected under subparagraph (A) shall receive support for a period of not more than 5 years beginning on the date of establishment of that center, subject to the availability of appropriations.
-      - **(ii)** A center already in existence on August 9, 2022 , may continue to receive support for a period of not more than 5 years beginning on the date of establishment of that center.
-    - **(D)** Upon the expiration of any period of support of a center under this subsection, the Director may renew support for the center, on a merit-reviewed basis, for a period of not more than 5 years.
-- **(i)**
-  - **(1)** The Director shall support the development of a web-based platform to develop and provide access to a database of computed information on known and predicted materials properties and computational tools to accelerate breakthroughs in materials discovery and design.
-  - **(2)** In carrying out this subsection, the Director shall—
-    - **(A)** conduct cooperative research among National Laboratories, industry, academia, and other research institutions to advance understanding, prediction, and manipulation of materials and facilitate the design of novel materials;
-    - **(B)** develop and maintain data infrastructure at user facilities that generate data to collect, analyze, label, and otherwise prepare the data for inclusion in the database;
-    - **(C)** leverage existing high performance computing systems to conduct high throughput calculations, and develop computational and data mining algorithms for the prediction of material properties;
-    - **(D)** strengthen the foundation for new technologies and advanced manufacturing; and
-    - **(E)** drive the development of advanced materials for applications that span the Department’s missions in energy, environment, and national security.
-  - **(3)** In carrying out this subsection, the Director shall leverage programs and activities across the Department, including computational materials and chemical sciences centers established under subsection (h).
-  - **(4)** Out of funds authorized to be appropriated under subsection (j), there is authorized to be appropriated to the Secretary to carry out activities under this subsection $10,000,000 for each of fiscal years 2023 through 2027.
-- **(j)** Out of funds authorized to be appropriated to the Office of Science in a fiscal year, there are authorized to be appropriated to the Secretary to carry out the activities described in this section—
-  - **(1)** $2,685,414,000 for fiscal year 2023;
-  - **(2)** $2,866,890,840 for fiscal year 2024;
-  - **(3)** $2,987,727,170 for fiscal year 2025;
-  - **(4)** $3,062,732,781 for fiscal year 2026; and
-  - **(5)** $3,080,067,167 for fiscal year 2027.
+    - **(C)** nanoscale science research centers; and
+    - **(D)** such other facilities as the Director considers appropriate, consistent with section 7139 of this title .
+- **(c)** The Director shall carry out research and development on advanced accelerator and storage ring technologies relevant to the development of basic energy sciences user facilities, in consultation with the High Energy Physics and Nuclear Physics programs of the Office of Science.

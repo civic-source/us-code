@@ -3,9 +3,9 @@ title: "Section 9223 - Proliferation prevention sanctions"
 usc_title: 22
 usc_section: "9223"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 9223"
-generated_at: "2026-03-29T20:04:47.021Z"
+generated_at: "2026-03-29T20:33:00.198Z"
 ---
 
 # § 9223. Proliferation prevention sanctions

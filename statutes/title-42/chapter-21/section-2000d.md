@@ -3,9 +3,9 @@ title: "Section 2000d - Prohibition against exclusion from participation in, den
 usc_title: 42
 usc_section: "2000d"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 2000d"
-generated_at: "2026-03-29T20:07:44.123Z"
+generated_at: "2026-03-29T20:34:53.465Z"
 ---
 
 # § 2000d. Prohibition against exclusion from participation in, denial of benefits of, and discrimination under federally assisted programs on ground of race, color, or national origin

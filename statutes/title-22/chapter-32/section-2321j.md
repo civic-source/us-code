@@ -3,9 +3,9 @@ title: "Section 2321j - Authority to transfer excess defense articles"
 usc_title: 22
 usc_section: "2321j"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 2321j"
-generated_at: "2026-03-29T20:04:46.767Z"
+generated_at: "2026-03-29T20:32:59.961Z"
 ---
 
 # § 2321j. Authority to transfer excess defense articles
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T20:04:46.767Z"
   - **(2)** Accordingly, for the four-year period beginning on October 1, 1996 , and thereafter for the four-period 1 1 So in original. Probably should be “four-year period”. beginning on October 1, 2000 , the President shall ensure that excess defense articles offered to Greece and Turkey under this section will be made available consistent with the manner in which the President made available such excess defense articles during the four-year period that began on October 1, 1992 , pursuant to section 573(e) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990.
 - **(c)**
   - **(1)** Excess defense articles may be transferred under this section without cost to the recipient country.
-  - **(2)** Notwithstanding any other provision of law, the delivery of excess defense articles under this section to member countries of the North Atlantic Treaty Organization (NATO) on the southern and southeastern flank of NATO, to major non-NATO allies on such southern and southeastern flank, to Taiwan, and to the Philippines shall be given priority to the maximum extent feasible over the delivery of such excess defense articles to other countries.
+  - **(2)** Notwithstanding any other provision of law, the delivery of excess defense articles under this section to member countries of the North Atlantic Treaty Organization (NATO) on the southern and southeastern flank of NATO, to major non-NATO allies on such southern and southeastern flank, and to the Philippines shall be given priority to the maximum extent feasible over the delivery of such excess defense articles to other countries.
 - **(d)** Section 2392(d) of this title shall not apply with respect to transfers of excess defense articles (including transportation and related costs) under this section.
 - **(e)**
   - **(1)** Except as provided in paragraph (2), funds available to the Department of Defense may not be expended for crating, packing, handling, and transportation of excess defense articles transferred under the authority of this section.

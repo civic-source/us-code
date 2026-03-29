@@ -3,9 +3,9 @@ title: "Section 13 - Funding"
 usc_title: 42
 usc_section: "13"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 13"
-generated_at: "2026-03-29T20:07:43.937Z"
+generated_at: "2026-03-29T20:34:53.317Z"
 ---
 
 # § 1397n–13. Funding

@@ -3,9 +3,9 @@ title: "Section 290e - United States copyright and renewal rights"
 usc_title: 15
 usc_section: "290e"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 290e"
-generated_at: "2026-03-29T20:03:27.243Z"
+generated_at: "2026-03-29T20:32:09.748Z"
 ---
 
 # § 290e. United States copyright and renewal rights

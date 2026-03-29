@@ -3,9 +3,9 @@ title: "Section 7431 - Nondelegation"
 usc_title: 22
 usc_section: "7431"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 7431"
-generated_at: "2026-03-29T20:04:46.968Z"
+generated_at: "2026-03-29T20:33:00.147Z"
 ---
 
 # § 7431. Nondelegation

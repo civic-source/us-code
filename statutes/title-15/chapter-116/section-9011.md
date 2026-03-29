@@ -3,9 +3,9 @@ title: "Section 9011 - Subsidy for certain loan payments"
 usc_title: 15
 usc_section: "9011"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 9011"
-generated_at: "2026-03-29T20:03:27.711Z"
+generated_at: "2026-03-29T20:32:10.116Z"
 ---
 
 # § 9011. Subsidy for certain loan payments
@@ -72,7 +72,7 @@ generated_at: "2026-03-29T20:03:27.711Z"
     - **(A)** an overview of assistance provided under this section;
     - **(B)** the rights of the borrower to receive that assistance;
     - **(C)** how to seek recourse with the Administrator or the lender of the covered loan if the borrower has not received that assistance; and
-    - **(D)** the rights of the borrower to request a loan deferral from a lender, and guidance on how to do 1 1 So in original. The word “do” probably should not appear. successfully transition directly to a loan deferral once subsidy payments under this section are concluded.
+    - **(D)** the rights of the borrower to request a loan deferral from a lender, and guidance on how to do successfully transition directly to a loan deferral once subsidy payments under this section are concluded.
   - **(5)** Not later than the 15th of each month beginning after the date of enactment of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, the Administrator shall submit to Congress a report on assistance provided under this section, which shall include—
     - **(A)** monthly and cumulative data on payments made under this section as of the date of the report, including a breakdown by—
       - **(i)** the number of participating borrowers;

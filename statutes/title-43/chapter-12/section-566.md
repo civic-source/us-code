@@ -3,9 +3,9 @@ title: "Section 566 - Maintenance of public reservations and conveyance to munic
 usc_title: 43
 usc_section: "566"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "43 U.S.C. § 566"
-generated_at: "2026-03-29T20:06:00.003Z"
+generated_at: "2026-03-29T20:34:16.710Z"
 ---
 
 # § 566. Maintenance of public reservations and conveyance to municipality

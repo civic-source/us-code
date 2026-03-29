@@ -3,9 +3,9 @@ title: "Section 58c - Fees for certain customs services"
 usc_title: 19
 usc_section: "58c"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "19 U.S.C. § 58c"
-generated_at: "2026-03-29T20:04:27.268Z"
+generated_at: "2026-03-29T20:32:31.690Z"
 ---
 
 # § 58c. Fees for certain customs services
@@ -238,15 +238,15 @@ generated_at: "2026-03-29T20:04:27.268Z"
   - **(1)** Except as otherwise provided in this subsection, the provisions of this section, and the amendments and repeals made by this section, shall apply with respect to customs services rendered after the date that is 90 days after April 7, 1986 .
   - **(2)** Fees may be charged under subsection (a)(5) only with respect to customs services rendered in regard to arriving passengers using transportation for which documents or tickets were issued after the date that is 90 days after April 7, 1986 .
   - **(3)**
-    - **(A)** Fees may not be charged under paragraphs (9) and (10) of subsection (a) after September 30, 2031 .
+    - **(A)** Fees may not be charged under paragraphs (9) and (10) of subsection (a) after September 30, 2030 .
     - **(B)**
-      - **(i)** Subject to clause (ii), Fees 3 3 So in original. Probably should not be capitalized. may not be charged under paragraphs (1) through (8) of subsection (a) after September 30, 2031 .
+      - **(i)** Subject to clause (ii), Fees 3 3 So in original. Probably should not be capitalized. may not be charged under paragraphs (1) through (8) of subsection (a) after September 30, 2030 .
       - **(ii)** In fiscal year 2006 and in each succeeding fiscal year for which fees under paragraphs (1) through (8) of subsection (a) are authorized—
         - **(I)** the Secretary of the Treasury shall charge fees under each such paragraph in amounts that are reasonably related to the costs of providing customs services in connection with the activity or item for which the fee is charged under such paragraph, except that in no case may the fee charged under any such paragraph exceed by more than 10 percent the amount otherwise prescribed by such paragraph;
         - **(II)** the amount of fees collected under such paragraphs may not exceed, in the aggregate, the amounts paid in that fiscal year for the costs described in subsection (f)(3)(A) incurred in providing customs services in connection with the activity or item for which the fees are charged under such paragraphs;
         - **(III)** a fee may not be collected under any such paragraph except to the extent such fee will be expended to pay the costs described in subsection (f)(3)(A) incurred in providing customs services in connection with the activity or item for which the fee is charged under such paragraph; and
         - **(IV)** any fee collected under any such paragraph shall be available for expenditure only to pay the costs described in subsection (f)(3)(A) incurred in providing customs services in connection with the activity or item for which the fee is charged under such paragraph.
-- **(k)** The Commissioner of U.S. Customs and Border Protection shall establish an advisory committee whose membership shall consist of representatives from the airline, cruise ship, and other transportation industries who may be subject to fees under subsection (a). The advisory committee shall not be subject to termination under section 1013 of title 5 . The advisory committee shall meet on a periodic basis and shall advise the Commissioner on issues related to the performance of the inspectional services of the United States Customs Service. Such advice shall include, but not be limited to, such issues as the time periods during which such services should be performed, the proper number and deployment of inspection officers, the level of fees, and the appropriateness of any proposed fee. The Commissioner shall give consideration to the views of the advisory committee in the exercise of his or her duties.
+- **(k)** The Commissioner of U.S. Customs and Border Protection shall establish an advisory committee whose membership shall consist of representatives from the airline, cruise ship, and other transportation industries who may be subject to fees under subsection (a). The advisory committee shall not be subject to termination under section 14 of the Federal Advisory Committee Act. The advisory committee shall meet on a periodic basis and shall advise the Commissioner on issues related to the performance of the inspectional services of the United States Customs Service. Such advice shall include, but not be limited to, such issues as the time periods during which such services should be performed, the proper number and deployment of inspection officers, the level of fees, and the appropriateness of any proposed fee. The Commissioner shall give consideration to the views of the advisory committee in the exercise of his or her duties.
 - **(l)**
   - **(1)** The Secretary of the Treasury shall adjust the fees established under subsection (a), and the limitations on such fees under paragraphs (2), (3), (5), (6), (8), and (9) of subsection (b), on April 1, 2016 , and at the beginning of each fiscal year thereafter, to reflect the percentage (if any) of the increase in the average of the Consumer Price Index for the preceding 12-month period compared to the Consumer Price Index for fiscal year 2014.
   - **(2)** In adjusting under paragraph (1) the amount of the fees established under subsection (a), and the limitations on such fees under paragraphs (2), (3), (5), (6), (8), and (9) of subsection (b), the Secretary—

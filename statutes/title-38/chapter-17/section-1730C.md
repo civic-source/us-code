@@ -3,14 +3,14 @@ title: "Section 1730C - Licensure of health care professionals providing treatme
 usc_title: 38
 usc_section: "1730C"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "38 U.S.C. § 1730C"
-generated_at: "2026-03-29T20:05:54.664Z"
+generated_at: "2026-03-29T20:34:04.899Z"
 ---
 
 # § 1730C. Licensure of health care professionals providing treatment via telemedicine
 
-- **(a)** Notwithstanding any provision of law regarding the licensure of health care professionals, a covered health care professional may practice the health care profession of the health care professional at any location in any State or any of the Freely Associated States (as defined in section 1724(f) of this title ), regardless of where the covered health care professional or the patient is located, if the covered health care professional is using telemedicine to provide treatment to an individual under this chapter.
+- **(a)** Notwithstanding any provision of law regarding the licensure of health care professionals, a covered health care professional may practice the health care profession of the health care professional at any location in any State, regardless of where the covered health care professional or the patient is located, if the covered health care professional is using telemedicine to provide treatment to an individual under this chapter.
 - **(b)** For purposes of this section, a covered health care professional is any of the following individuals:
   - **(1)** A health care professional who—
     - **(A)** is an employee of the Department appointed under section 7306, 7401, 7405, 7406, or 7408 of this title or under title 5;

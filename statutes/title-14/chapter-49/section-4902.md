@@ -3,31 +3,31 @@ title: "Section 4902 - Authorizations of appropriations"
 usc_title: 14
 usc_section: "4902"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "14 U.S.C. § 4902"
-generated_at: "2026-03-29T20:03:17.327Z"
+generated_at: "2026-03-29T20:32:03.609Z"
 ---
 
 # § 4902. Authorizations of appropriations
 
-Funds are authorized to be appropriated for fiscal years 2026 and 2027 for necessary expenses of the Coast Guard as follows:
+Funds are authorized to be appropriated for fiscal years 2020 and 2021 for necessary expenses of the Coast Guard as follows:
 
   - **(1)**
     - **(A)** For the operation and maintenance of the Coast Guard, not otherwise provided for—
-      - **(i)** $11,851,875,000 for fiscal year 2026; and
-      - **(ii)** $13,500,000,000 for fiscal year 2027.
-    - **(B)** Of the amount authorized under subparagraph (A)(i), $25,570,000 shall be for environmental compliance and restoration.
-    - **(C)** Of the amount authorized under clause (ii) of subparagraph (A), $26,848,500 shall be for environmental compliance and restoration.
+      - **(i)** $8,151,620,850 for fiscal year 2020; and
+      - **(ii)** $8,396,169,475 for fiscal year 2021.
+    - **(B)** Of the amount authorized under subparagraph (A)(i), $17,035,000 shall be for environmental compliance and restoration.
+    - **(C)** Of the amount authorized under subparagraph, (A)(ii) 1 1 So in original. Probably should be “subparagraph (A)(ii),”. $17,376,000 shall be for environmental compliance and restoration.
   - **(2)**
     - **(A)** For the procurement, construction, renovation, and improvement of aids to navigation, shore facilities, vessels, aircraft, and systems, including equipment related thereto, and for maintenance, rehabilitation, lease, and operation of facilities and equipment—
-      - **(i)** $3,651,480,000 for fiscal year 2026; and
-      - **(ii)** $3,700,000,000 for fiscal year 2027.
+      - **(i)** $2,794,745,000 for fiscal year 2020; and
+      - **(ii)** $3,312,114,000 for fiscal year 2021.
     - **(B)** Of the amounts authorized under subparagraph (A), the following amounts shall be for the alteration of bridges:
-      - **(i)** $20,400,000 for fiscal year 2022; and
-      - **(ii)** $20,808,000 for fiscal year 2023.
+      - **(i)** $10,000,000 for fiscal year 2020; and
+      - **(ii)** $20,000,000 for fiscal year 2021.
   - **(3)** To the Commandant for research, development, test, and evaluation of technologies, materials, and human factors directly related to improving the performance of the Coast Guard’s mission with respect to search and rescue, aids to navigation, marine safety, marine environmental protection, enforcement of laws and treaties, ice operations, oceanographic research, and defense readiness, and for maintenance, rehabilitation, lease, and operation of facilities and equipment—
-    - **(A)** $67,701,000 for fiscal year 2026; and
-    - **(B)** $70,000,000 for fiscal year 2027.
-  - **(4)** For retired pay, including the payment of obligations otherwise chargeable to lapsed appropriations for purposes of retired pay, payments under the Retired Serviceman’s Family Protection and Survivor Benefits Plans, payment for career status bonuses, payment of continuation pay under section 356 of title 37 , concurrent receipts, combat-related special compensation, and payments for medical care of retired personnel and their dependents under chapter 55 of title 10—
-    - **(A)** $1,057,929,000 for fiscal year 2026; and
-    - **(B)** $1,215,000,000 for fiscal year 2027.
+    - **(A)** $13,834,000 for fiscal year 2020; and
+    - **(B)** $14,111,000 for fiscal year 2021.
+  - **(4)** For the Coast Guard’s Medicare-eligible retiree health care fund contribution to the Department of Defense—
+    - **(A)** $205,107,000 for fiscal year 2020; and
+    - **(B)** $209,209,000 for fiscal year 2021.

@@ -3,15 +3,15 @@ title: "Section 2701 - Environmental restoration program"
 usc_title: 10
 usc_section: "2701"
 chapter: 160
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2701"
-generated_at: "2026-03-29T20:03:09.711Z"
+generated_at: "2026-03-29T20:31:54.641Z"
 ---
 
 # § 2701. Environmental restoration program
 
 - **(a)**
-  - **(1)** The Secretary of Defense shall carry out a program of environmental restoration at facilities under the jurisdiction of the Secretary and at National Guard facilities. The program shall be known as the “Defense Environmental Restoration Program”.
+  - **(1)** The Secretary of Defense shall carry out a program of environmental restoration at facilities under the jurisdiction of the Secretary. The program shall be known as the “Defense Environmental Restoration Program”.
   - **(2)** Activities of the program described in subsection (b)(1) shall be carried out subject to, and in a manner consistent with, section 120 (relating to Federal facilities) of CERCLA ( 42 U.S.C. 9620 ).
   - **(3)** The program shall be carried out in consultation with the Administrator of the Environmental Protection Agency.
   - **(4)** The Secretary shall identify an office within the Office of the Secretary which shall have responsibility for carrying out the program.
@@ -24,11 +24,10 @@ generated_at: "2026-03-29T20:03:09.711Z"
     - **(A)** Each facility or site owned by, leased to, or otherwise possessed by the United States and under the jurisdiction of the Secretary.
     - **(B)** Each facility or site which was under the jurisdiction of the Secretary and owned by, leased to, or otherwise possessed by the United States at the time of actions leading to contamination by hazardous substances or pollutants or contaminants.
     - **(C)** Each vessel owned or operated by the Department of Defense.
-    - **(D)** Each National Guard facility being used for training the National Guard pursuant to chapter 5 of title 32 with funds provided by the Secretary of Defense or the Secretary of a military department at the time of actions leading to contamination by hazardous substances or pollutants or contaminants.
   - **(2)** Paragraph (1) shall not apply to a removal or remedial action if the Administrator has provided for response action by a potentially responsible person in accordance with section 122 (relating to settlements) of CERCLA ( 42 U.S.C. 9622 ).
   - **(3)** The Secretary shall pay fees and charges imposed by State authorities for permit services for the disposal of hazardous substances or pollutants or contaminants on lands which are under the jurisdiction of the Secretary to the same extent that nongovernmental entities are required to pay fees and charges imposed by State authorities for permit services. The preceding sentence shall not apply with respect to a payment that is the responsibility of a lessee, contractor, or other private person.
 - **(d)**
-  - **(1)** Subject to paragraph (3), the Secretary may enter into agreements on a reimbursable or other basis with any other Federal agency, any State or local government agency, any Indian tribe, any owner of covenant property, or any nonprofit conservation organization to obtain the services of the agency, Indian tribe, owner, or organization to assist the Secretary in carrying out any of the Secretary’s responsibilities under this section. Services which may be obtained under this subsection include the identification, investigation, and cleanup of any off-site contamination resulting from the release of a hazardous substance or waste at a facility under the Secretary’s jurisdiction or at a National Guard facility.
+  - **(1)** Subject to paragraph (3), the Secretary may enter into agreements on a reimbursable or other basis with any other Federal agency, any State or local government agency, any Indian tribe, any owner of covenant property, or any nonprofit conservation organization to obtain the services of the agency, Indian tribe, owner, or organization to assist the Secretary in carrying out any of the Secretary’s responsibilities under this section. Services which may be obtained under this subsection include the identification, investigation, and cleanup of any off-site contamination resulting from the release of a hazardous substance or waste at a facility under the Secretary’s jurisdiction.
   - **(2)** An agreement with an agency under paragraph (1) may be for a period that begins in one fiscal year and ends in another fiscal year so long as the period of the agreement does not exceed two years. This two-year limitation does not apply to an agreement funded using amounts in the Department of Defense Base Closure Account established by section 2906 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510 ; 10 U.S.C. 2687 note).
   - **(3)** An agreement with an agency under paragraph (1) may not provide for reimbursement of the agency for regulatory enforcement activities. An agreement under such paragraph with respect to a site also may not change the cleanup standards selected for the site pursuant to law.
   - **(4)** In this subsection:

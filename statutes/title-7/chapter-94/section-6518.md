@@ -3,14 +3,14 @@ title: "Section 6518 - National Organic Standards Board"
 usc_title: 7
 usc_section: "6518"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 6518"
-generated_at: "2026-03-29T20:02:52.759Z"
+generated_at: "2026-03-29T20:31:42.199Z"
 ---
 
 # § 6518. National Organic Standards Board
 
-- **(a)** The Secretary shall establish a National Organic Standards Board (hereafter referred to in this section as the “Board”) in accordance with chapter 10 of title 5 to assist in the development of standards for substances to be used in organic production and to advise the Secretary on any other aspects of the implementation of this chapter.
+- **(a)** The Secretary shall establish a National Organic Standards Board (in accordance with the Federal Advisory Committee Act) (hereafter referred to in this section as the “Board”) to assist in the development of standards for substances to be used in organic production and to advise the Secretary on any other aspects of the implementation of this chapter.
 - **(b)** The Board shall be composed of 15 members, of which—
   - **(1)** four shall be individuals who own or operate an organic farming operation, or employees of such individuals;
   - **(2)** two shall be individuals who own or operate an organic handling operation, or employees of such individuals;

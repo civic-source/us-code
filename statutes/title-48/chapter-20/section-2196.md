@@ -3,9 +3,9 @@ title: "Section 2196 - Congressional Task Force on Economic Growth in Puerto Ric
 usc_title: 48
 usc_section: "2196"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "48 U.S.C. § 2196"
-generated_at: "2026-03-29T20:08:00.048Z"
+generated_at: "2026-03-29T20:34:59.115Z"
 ---
 
 # § 2196. Congressional Task Force on Economic Growth in Puerto Rico

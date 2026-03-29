@@ -3,20 +3,17 @@ title: "Section 3503 - Establishment of John H. Chafee Coastal Barrier Resources
 usc_title: 16
 usc_section: "3503"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 3503"
-generated_at: "2026-03-29T20:04:20.411Z"
+generated_at: "2026-03-29T20:32:45.434Z"
 ---
 
 # § 3503. Establishment of John H. Chafee Coastal Barrier Resources System
 
-- **(a)** There is established the John H. Chafee Coastal Barrier Resources System, which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted as System units or Otherwise Protected Areas—
-  - **(1)** on the maps on file with the Secretary entitled “Coastal Barrier Resources System”, dated October 24, 1990 ;
-  - **(2)** on a map described in section 201(b) of the Bolstering Ecosystems Against Coastal Harm Act; or
-  - **(3)** on a map described in paragraph (1) or (2) as such map may be replaced, modified, revised, or corrected under—
-    - **(A)** subsection (f)(3);
-    - **(B)** section 4 of the Coastal Barrier Improvement Act of 1990 ( 16 U.S.C. 3503 note); or
-    - **(C)** any other provision of law enacted on or after November 16, 1990 , that specifically replaces or authorizes the modification, revision, or correction of such a map.
+- **(a)** There is established the John H. Chafee Coastal Barrier Resources System, which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled “Coastal Barrier Resources System”, dated October 24, 1990 , as those maps may be replaced, modified, revised, or corrected under—
+  - **(1)** subsection (f)(3);
+  - **(2)** section 4 of the Coastal Barrier Improvement Act of 1990 ( 16 U.S.C. 3503 note; Public Law 101–591 ); or
+  - **(3)** any other provision of law enacted on or after November 16, 1990 , that specifically replaces such a map or authorizes the modification, revision, or correction.
 - **(b)**
   - **(1)** The Secretary shall keep the maps referred to in subsection (a) on file and available for public inspection in the Office of the Director of the United States Fish and Wildlife Service, and in such other offices of that service as the Director considers appropriate.
   - **(2)**
@@ -28,13 +25,13 @@ generated_at: "2026-03-29T20:04:20.411Z"
   - **(1)** the owner of the parcel requests, in writing, that the Secretary add the parcel to the System; and
   - **(2)** the parcel is an undeveloped coastal barrier.
 - **(e)**
-  - **(1)** Prior to transfer or disposal of excess property under chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 that may be a coastal barrier, the Administrator of General Services shall consult with and obtain from the Secretary a determination as to whether and what portion of the property constitutes a coastal barrier. Not later than 180 days after the initiation of such consultation, the Secretary shall make and publish notice of such determination. Immediately upon issuance of a positive determination, the Secretary shall—
-    - **(A)** prepare a map depicting the coastal barrier portion of such property; and
+  - **(1)** Prior to transfer or disposal of excess property under chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 that may be an undeveloped coastal barrier, the Administrator of General Services shall consult with and obtain from the Secretary a determination as to whether and what portion of the property constitutes an undeveloped coastal barrier. Not later than 180 days after the initiation of such consultation, the Secretary shall make and publish notice of such determination. Immediately upon issuance of a positive determination, the Secretary shall—
+    - **(A)** prepare a map depicting the undeveloped coastal barrier portion of such property; and
     - **(B)** publish in the Federal Register notice of the addition of such property to the System.
   - **(2)** An area to be added to the System under this subsection shall be part of the System effective on the date on which the Secretary publishes notice in the Federal Register under paragraph (1)(B) with respect to that area.
 - **(f)** The Secretary shall—
   - **(1)** keep a map showing the location of each boundary modification made under subsection (c) and of each parcel of real property added to the System under subsection (d) or (e) on file and available for public inspection in the Office of the Director of the United States Fish and Wildlife Service and in such other offices of the Service as the Director considers appropriate;
-  - **(2)** provide a notification of the availability of the map to—
+  - **(2)** provide a copy of the map to—
     - **(A)** the State and unit of local government in which the property is located;
     - **(B)** the Committees; and
     - **(C)** the Federal Emergency Management Agency; and

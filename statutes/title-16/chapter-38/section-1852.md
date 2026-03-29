@@ -3,9 +3,9 @@ title: "Section 1852 - Regional Fishery Management Councils"
 usc_title: 16
 usc_section: "1852"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 1852"
-generated_at: "2026-03-29T20:04:20.349Z"
+generated_at: "2026-03-29T20:32:45.392Z"
 ---
 
 # § 1852. Regional Fishery Management Councils
@@ -115,7 +115,7 @@ generated_at: "2026-03-29T20:04:20.349Z"
   - **(8)** in addition to complying with the standards and requirements under paragraph (6), sections 1851(a), 1853(a)(15), and 1854(e) of this title, and other applicable provisions of this chapter, have the authority to use fishery management measures in a recreational fishery (or the recreational component of a mixed-use fishery) in developing a fishery management plan, plan amendment, or proposed regulations, such as extraction rates, fishing mortality targets, harvest control rules, or traditional or cultural practices of native communities in such fishery or fishery component; and
   - **(9)** conduct any other activities which are required by, or provided for in, this chapter or which are necessary and appropriate to the foregoing functions.
 - **(i)**
-  - **(1)** Chapter 10 of title 5 shall not apply to the Councils, the Council coordination committee established under subsection ( l ), or to the scientific and statistical committees or other committees or advisory panels established under subsection (g).
+  - **(1)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Councils, the Council coordination committee established under subsection ( l ), or to the scientific and statistical committees or other committees or advisory panels established under subsection (g).
   - **(2)** The following guidelines apply with respect to the conduct of business at meetings of a Council, of the Council coordination committee established under subsection ( l ), and of the scientific and statistical committees or other committees or advisory panels established under subsection (g):
     - **(A)** Unless closed in accordance with paragraph (3), each regular meeting and each emergency meeting shall be open to the public.
     - **(B)** Emergency meetings shall be held at the call of the chairman or equivalent presiding officer.

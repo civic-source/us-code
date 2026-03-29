@@ -3,9 +3,9 @@ title: "Section 2802 - Military construction projects"
 usc_title: 10
 usc_section: "2802"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2802"
-generated_at: "2026-03-29T20:03:09.719Z"
+generated_at: "2026-03-29T20:31:54.649Z"
 ---
 
 # § 2802. Military construction projects
@@ -15,9 +15,8 @@ generated_at: "2026-03-29T20:03:09.719Z"
   - **(1)** surveys and site preparation;
   - **(2)** acquisition, conversion, rehabilitation, and installation of facilities;
   - **(3)** acquisition and installation of equipment and appurtenances integral to the project;
-  - **(4)** acquisition and installation of supporting facilities (including utilities) and appurtenances incident to the project;
-  - **(5)** planning, supervision, administration, and overhead incident to the project; and
-  - **(6)** personnel and personal services contracts required to carry out paragraphs (1) through (5).
+  - **(4)** acquisition and installation of supporting facilities (including utilities) and appurtenances incident to the project; and
+  - **(5)** planning, supervision, administration, and overhead incident to the project.
 - **(c)** In determining the scope of a proposed military construction project, the Secretary concerned shall submit to the President such recommendations as the Secretary considers to be appropriate regarding the incorporation and inclusion of life-cycle cost-effective practices as an element in the project documents submitted to Congress in connection with the budget submitted pursuant to section 1105 of title 31 for the fiscal year in which a contract is proposed to be awarded for the project.
 - **[(d)** Repealed. Pub. L. 114–328, div. B, title XXVIII, § 2811(b) , Dec. 23, 2016 , 130 Stat. 2716 .]
 - **(e)**

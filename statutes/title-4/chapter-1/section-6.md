@@ -3,9 +3,9 @@ title: "Section 6 - Time and occasions for display"
 usc_title: 4
 usc_section: "6"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "4 U.S.C. § 6"
-generated_at: "2026-03-29T20:02:17.203Z"
+generated_at: "2026-03-29T20:31:19.604Z"
 ---
 
 # § 6. Time and occasions for display

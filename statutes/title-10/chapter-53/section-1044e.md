@@ -3,9 +3,9 @@ title: "Section 1044e - Special Victims’ Counsel for victims of sex-related of
 usc_title: 10
 usc_section: "1044e"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 1044e"
-generated_at: "2026-03-29T20:03:09.540Z"
+generated_at: "2026-03-29T20:31:54.473Z"
 ---
 
 # § 1044e. Special Victims’ Counsel for victims of sex-related offenses
@@ -74,7 +74,7 @@ generated_at: "2026-03-29T20:03:09.540Z"
   - **(4)**
     - **(A)** Subject to subparagraph (B), if a Special Victims’ Counsel is not available at a military installation for access by a member of the armed forces who requests access to a Special Victims’ Counsel, a Special Victims’ Counsel shall be made available at such installation for access by such member by not later than 72 hours after such request.
     - **(B)** If the Secretary concerned determines that, due to exigent circumstances related to military activities, a Special Victims’ Counsel cannot be made available to a member of the armed forces within the time period required by subparagraph (A), the Secretary concerned shall ensure that a Special Victims’ Counsel is made available to such member as soon as is practical under such circumstances.
-- **(g)** Commencing not later than four years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, each Secretary concerned shall ensure that the number of Special Victims’ Counsels serving in each military department (and with respect to the Coast Guard) is sufficient to ensure that the average caseload of a Special Victims’ Counsel does not exceed, to the extent practicable, 25 cases any given time.
+- **(g)** Commencing not later than four years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, each Secretary concerned shall ensure that the number of Special Victims’ Counsel 1 1 So in original. Probably should be “Counsels”. serving in each military department (and with respect to the Coast Guard) is sufficient to ensure that the average caseload of a Special Victims’ Counsel does not exceed, to the extent practicable, 25 cases any given time.
 - **(h)** In this section, the term “alleged sex-related offense” means any allegation of—
   - **(1)** a violation of section 920, 920b, 920c, or 930 of this title (article 120, 120b, 120c, or 130 of the Uniform Code of Military Justice); or
   - **(2)** an attempt to commit an offense specified in a paragraph (1) as punishable under section 880 of this title (article 80 of the Uniform Code of Military Justice).

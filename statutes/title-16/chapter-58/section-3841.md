@@ -3,41 +3,39 @@ title: "Section 3841 - Commodity Credit Corporation"
 usc_title: 16
 usc_section: "3841"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 3841"
-generated_at: "2026-03-29T20:04:20.437Z"
+generated_at: "2026-03-29T20:32:45.454Z"
 ---
 
 # § 3841. Commodity Credit Corporation
 
-- **(a)** For each of fiscal years 2014 through 2031, the Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out the following programs under this chapter (including the provision of technical assistance):
+- **(a)** For each of fiscal years 2014 through 2023, the Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out the following programs under this chapter (including the provision of technical assistance):
   - **(1)** The conservation reserve program under subpart B of part I of subchapter IV, including, to the maximum extent practicable—
     - **(A)** $12,000,000 for the period of fiscal years 2019 through 2023 to provide payments under section 3834(c) of this title ; and
     - **(B)** $50,000,000 for the period of fiscal years 2019 through 2023, including not more than $5,000,000 to provide outreach and technical assistance, to carry out section 3835(f) of this title to facilitate the transfer of land subject to contracts from contract holders to covered farmers or ranchers, as defined in section 3835(f)(1) of this title .
   - **(2)** The agricultural conservation easement program under subchapter VII using to the maximum extent practicable—
-    - **(A)** $625,000,000 for fiscal year 2026;
-    - **(B)** $650,000,000 for fiscal year 2027;
-    - **(C)** $675,000,000 for fiscal year 2028;
-    - **(D)** $700,000,000 for fiscal year 2029;
-    - **(E)** $700,000,000 for fiscal year 2030; and
-    - **(F)** $700,000,000 for fiscal year 2031.
+    - **(A)** $400,000,000 for fiscal year 2014;
+    - **(B)** $425,000,000 for fiscal year 2015;
+    - **(C)** $450,000,000 for fiscal year 2016;
+    - **(D)** $500,000,000 for fiscal year 2017;
+    - **(E)** $250,000,000 for fiscal year 2018; and
+    - **(F)** $450,000,000 for each of fiscal years 2019 through 2023.
   - **(3)** The programs under part IV of subchapter IV, using, to the maximum extent practicable—
     - **(A)** for the environmental quality incentives program under subpart A of part IV of subchapter IV—
-      - **(i)** $2,655,000,000 for fiscal year 2026;
-      - **(ii)** $2,855,000,000 for fiscal year 2027;
-      - **(iii)** $3,255,000,000 for fiscal year 2028;
-      - **(iv)** $3,255,000,000 for fiscal year 2029;
-      - **(v)** $3,255,000,000 for fiscal year 2030; and
-      - **(vi)** $3,255,000,000 for fiscal year 2031; and
+      - **(i)** $1,750,000,000 for fiscal year 2019;
+      - **(ii)** $1,750,000,000 for fiscal year 2020;
+      - **(iii)** $1,800,000,000 for fiscal year 2021;
+      - **(iv)** $1,850,000,000 for fiscal year 2022; and
+      - **(v)** $2,025,000,000 for fiscal year 2023; and
     - **(B)** for the conservation stewardship program under subpart B of part IV of subchapter IV—
-      - **(i)** $1,300,000,000 for fiscal year 2026;
-      - **(ii)** $1,325,000,000 for fiscal year 2027;
-      - **(iii)** $1,350,000,000 for fiscal year 2028;
-      - **(iv)** $1,375,000,000 for fiscal year 2029;
-      - **(v)** $1,375,000,000 for fiscal year 2030; and
-      - **(vi)** $1,375,000,000 for fiscal year 2031.
+      - **(i)** $700,000,000 for fiscal year 2019;
+      - **(ii)** $725,000,000 for fiscal year 2020;
+      - **(iii)** $750,000,000 for fiscal year 2021;
+      - **(iv)** $800,000,000 for fiscal year 2022; and
+      - **(v)** $1,000,000,000 for fiscal year 2023.
   - **(4)** The conservation stewardship program under subpart B of part II of subchapter IV (as in effect on the day before December 20, 2018 ), using such sums as are necessary to administer contracts entered into before December 20, 2018 .
-- **(b)** Amounts made available by subsection (a) for fiscal years 2014 through 2031 shall be used by the Secretary to carry out the programs specified in such subsection and shall remain available until expended.
+- **(b)** Amounts made available by subsection (a) for fiscal years 2014 through 2023 shall be used by the Secretary to carry out the programs specified in such subsection and shall remain available until expended.
 - **(c)**
   - **(1)** Commodity Credit Corporation funds made available for a fiscal year for each of the programs specified in subsection (a)—
     - **(A)** shall be available for the provision of technical assistance for the programs for which funds are made available as necessary to implement the programs effectively;
@@ -61,50 +59,8 @@ generated_at: "2026-03-29T20:04:20.437Z"
     - **(A)** ensure that during the first quarter of each fiscal year each State has the opportunity to establish that the State can use an aggregate allocation amount of at least 0.6 percent of the funds made available for those conservation programs; and
     - **(B)** for each State that can so establish, provide an aggregate amount of at least 0.6 percent of the funds made available for those conservation programs.
 - **(f)**
-  - **(1)** The Secretary shall establish the necessary accounts and process to accept contributions of private funds for the purposes of addressing the changing climate, sequestering carbon, improving wildlife habitat, protecting sources of drinking water, and addressing other natural resource priorities identified by the Secretary.
-  - **(2)** Contributions of non-Federal funds received for a covered program shall be deposited into the account established under this subsection for the program and shall be available to the Secretary, without further appropriation and until expended, to carry out the program.
-  - **(3)**
-    - **(A)** The Secretary may accept under this subsection contributions of such funds as the Secretary determines appropriate, taking into consideration—
-      - **(i)** the source of the funds to be contributed;
-      - **(ii)** the natural resource concerns to be addressed through the use of the funds;
-      - **(iii)** the amount of funds to be contributed;
-      - **(iv)** whether the activities proposed to be carried out using the funds are consistent with the priorities of the Secretary; and
-      - **(v)** any other factors the Secretary determines to be relevant.
-    - **(B)** A determination of whether to accept private funds under this subsection shall be at the sole discretion of the Secretary.
-  - **(4)**
-    - **(A)** Subject to subparagraph (B), the Secretary may provide matching Federal funds, and determine the level of such match, which shall not exceed 75 percent, for the private funds contributed under this subsection, subject to the availability of funding for the applicable covered program.
-    - **(B)** The Secretary may not provide any matching Federal funds pursuant to subparagraph (A) in a manner that would result in a substantial reduction in the historical distribution of Federal funding to any State for any covered program.
-    - **(C)** No funds made available pursuant to Public Law 117–169 may be used to provide matching Federal funds pursuant to subparagraph (A).
-  - **(5)** An entity contributing funds under this subsection may—
-    - **(A)** designate the covered program for which the contributed funds are intended to be used;
-    - **(B)** specify the geographic area in which the contributed funds are intended to be used;
-    - **(C)** identify a natural resource concern the contributed funds are intended to be used to address;
-    - **(D)** with respect to an activity funded pursuant to this subsection that may result in environmental services benefits to be sold through an environmental services market, subject to the approval of the Secretary, prescribe the terms for ownership of the entity’s share of such environmental services benefits resulting from such activity; and
-    - **(E)** work with the Secretary to promote the activities funded pursuant to this subsection.
-  - **(6)**
-    - **(A)** The Secretary shall establish a process to provide notice to producers—
-      - **(i)** of activities that may be carried out, through a covered program, pursuant to this section; and
-      - **(ii)** any 1 1 So in original. Probably should be preceded by “of”. terms prescribed by the contributing entity under paragraph (5)(D) with respect to such activities.
-    - **(B)** The Secretary shall not claim or impede any action of a producer with respect to the environmental services benefits they accrue through activities funded pursuant to this subsection.
-  - **(7)**
-    - **(A)** Except as provided in subparagraph (B), the Secretary shall ensure that the terms and conditions of activities carried out using funds contributed under this subsection are consistent with the requirements of the applicable covered program.
-    - **(B)**
-      - **(i)** The Secretary may, if the Secretary determines necessary, adjust a regulatory requirement of a covered program, or related guidance, as it applies to an activity carried out using funds contributed under this subsection—
-        - **(I)** to provide a simplified process; or
-        - **(II)** to better reflect unique local circumstances and to address a specific priority of the contributing entity.
-      - **(ii)** The Secretary shall not adjust the application of statutory requirements for a covered program, including requirements governing appeals, payment limits, and conservation compliance.
-  - **(8)** Not later than December 31, 2024 , and each year thereafter through December 31, 2031 , the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that contains—
-    - **(A)** the name and a description of each entity contributing private funds under this subsection that took an action under paragraph (5), and a description of each such action;
-    - **(B)** the name and a description of each entity contributing private funds under this subsection for which the Secretary has provided matching Federal funds, and the level of that match, including the amount of such matching Federal funds; and
-    - **(C)** the total amounts of—
-      - **(i)** private funds contributed under this subsection; and
-      - **(ii)** matching Federal funds provided by the Secretary under paragraph (4).
-  - **(9)** In this subsection, the term “covered program” means a program carried out by the Secretary under—
-    - **(A)** subchapter IV (except for subpart B of such subchapter), 2 2 See References in Text note below. subchapter VII, or subchapter VIII;
-    - **(B)** section 2203 of this title ;
-    - **(C)** title V of the Healthy Forests Restoration Act of 2003 ( 16 U.S.C. 6571 et seq.); or
-    - **(D)** the Watershed Protection and Flood Prevention Act ( 16 U.S.C. 1001 et seq.), except for any program established by the Secretary to carry out section 14 of such Act ( 16 U.S.C. 1012 ).
-  - **(10)** The authority of the Secretary under this subsection shall expire, with respect to each covered program, on the date on which the authority of the covered program expires.
+  - **(1)** Subject to paragraph (2), the Secretary may establish a sub-account for each conservation program administered by the Secretary under subchapter IV to accept contributions of non-Federal funds to support the purposes of the program.
+  - **(2)** Contributions of non-Federal funds received for a conservation program administered by the Secretary under subchapter IV shall be deposited into the sub-account established under this subsection for the program and shall be available to the Secretary, without further appropriation and until expended, to carry out the program.
 - **(g)**
   - **(1)** Not later than 1 year after December 20, 2018 , the Secretary, acting through the Chief of the Natural Resources Conservation Service and the Administrator of the Farm Service Agency, shall conduct a review of conservation programs and authorities under this chapter that utilize annual allocation formulas to determine the sufficiency of the formulas in accounting for relevant data on local natural resource concerns, resource inventories, evaluations and reports, recommendations from State technical committees established under section 3861(a) of this title , State-level economic factors, level of agricultural infrastructure, or related factors that affect conservation program costs.
   - **(2)** The Secretary shall improve conservation program allocation formulas as necessary to ensure that—
@@ -117,12 +73,12 @@ generated_at: "2026-03-29T20:04:20.437Z"
     - **(A)** Of the funds made available for each of fiscal years 2009 through 2018 to carry out the environmental quality incentives program and the acres made available for each of such fiscal years to carry out the conservation stewardship program, the Secretary shall use, to the maximum extent practicable—
       - **(i)** 5 percent to assist beginning farmers or ranchers; and
       - **(ii)** 5 percent to assist socially disadvantaged farmers or ranchers.
-    - **(B)** Of the funds made available for each of fiscal years 2019 through 2031 to carry out the environmental quality incentives program under subpart A of part IV of subchapter IV and the conservation stewardship program under subpart B of part IV of subchapter IV, the Secretary shall use, to the maximum extent practicable—
+    - **(B)** Of the funds made available for each of fiscal years 2019 through 2023 to carry out the environmental quality incentives program under subpart A of part IV of subchapter IV and the conservation stewardship program under subpart B of part IV of subchapter IV, the Secretary shall use, to the maximum extent practicable—
       - **(i)** 5 percent to assist beginning farmers or ranchers; and
       - **(ii)** 5 percent to assist socially disadvantaged farmers or ranchers.
-  - **(2)** In any fiscal year, amounts not obligated under paragraph (1) by a date determined by the Secretary shall be available for payments and technical assistance to all persons eligible for payments or technical assistance in that fiscal year under the environmental quality incentives program and, in the case of fiscal years 2019 through 2031, under the conservation stewardship program under subpart B of part IV of subchapter IV.
+  - **(2)** In any fiscal year, amounts not obligated under paragraph (1) by a date determined by the Secretary shall be available for payments and technical assistance to all persons eligible for payments or technical assistance in that fiscal year under the environmental quality incentives program and, in the case of fiscal years 2019 through 2023, under the conservation stewardship program under subpart B of part IV of subchapter IV.
   - **(3)** In any fiscal year through fiscal year 2018, acres not obligated under paragraph (1)(A) by a date determined by the Secretary shall be available for use in that fiscal year under the conservation stewardship program.
-  - **(4)** In providing assistance under paragraph (1), the Secretary shall give preference to a veteran farmer or rancher (as defined in section 2279(e) 2 of title 7) that qualifies under, as applicable, clause (i) or (ii) of paragraph (1)(A) or clause (i) or (ii) of paragraph (1)(B).
+  - **(4)** In providing assistance under paragraph (1), the Secretary shall give preference to a veteran farmer or rancher (as defined in section 2279(e) 1 1 See References in Text note below. of title 7) that qualifies under, as applicable, clause (i) or (ii) of paragraph (1)(A) or clause (i) or (ii) of paragraph (1)(B).
 - **(i)** Not later than December 15 of each of calendar years 2019 through 2023, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report containing statistics by State related to enrollments in conservation programs under this chapter, as follows:
   - **(1)** The annual and current cumulative activity reflecting active agreement and contract enrollment statistics.
   - **(2)** Secretarial exceptions, waivers, and significant payments, including—

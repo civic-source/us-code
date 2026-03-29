@@ -3,9 +3,9 @@ title: "Section 1861 - Rules and regulations"
 usc_title: 29
 usc_section: "1861"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "29 U.S.C. § 1861"
-generated_at: "2026-03-29T20:05:03.775Z"
+generated_at: "2026-03-29T20:33:05.793Z"
 ---
 
 # § 1861. Rules and regulations

@@ -3,9 +3,9 @@ title: "Section 6204 - Limitations on authority"
 usc_title: 15
 usc_section: "6204"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 6204"
-generated_at: "2026-03-29T20:03:27.624Z"
+generated_at: "2026-03-29T20:32:10.045Z"
 ---
 
 # § 6204. Limitations on authority

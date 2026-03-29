@@ -3,9 +3,9 @@ title: "Section 7002 - United States-China Economic and Security Review Commissi
 usc_title: 22
 usc_section: "7002"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 7002"
-generated_at: "2026-03-29T20:04:46.954Z"
+generated_at: "2026-03-29T20:33:00.133Z"
 ---
 
 # § 7002. United States-China Economic and Security Review Commission
@@ -70,5 +70,5 @@ generated_at: "2026-03-29T20:04:46.954Z"
 - **(f)**
   - **(1)** There is authorized to be appropriated to the Commission for fiscal year 2001, and for each fiscal year thereafter, such sums as may be necessary to enable the Commission to carry out its functions under this section.
   - **(2)** Amounts appropriated to the Commission shall remain available until expended.
-- **(g)** The provisions of chapter 10 of title 5 shall apply to the activities of the Commission.
+- **(g)** The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the activities of the Commission.
 - **(h)** This section shall take effect on the first day of the 107th Congress.

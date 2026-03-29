@@ -3,9 +3,9 @@ title: "Section 9344 - Higher grade after 30 years of service: warrant officers 
 usc_title: 10
 usc_section: "9344"
 chapter: 943
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 9344"
-generated_at: "2026-03-29T20:03:09.893Z"
+generated_at: "2026-03-29T20:31:54.754Z"
 ---
 
 # § 9344. Higher grade after 30 years of service: warrant officers and enlisted members
@@ -13,5 +13,5 @@ generated_at: "2026-03-29T20:03:09.893Z"
 - **(a)** Each retired member of the Air Force or the Space Force covered by subsection (b) who is retired with less than 30 years of active service is entitled, when his active service plus his service on the retired list totals 30 years, to be advanced on the retired list to the highest grade in which he served on active duty satisfactorily (or, in the case of a member of the National Guard, in which he served on full-time duty satisfactorily), as determined by the Secretary of the Air Force.
 - **(b)** This section applies to—
   - **(1)** warrant officers of the Air Force or the Space Force;
-  - **(2)** enlisted members of the Regular Air Force or the Space Force; and
+  - **(2)** enlisted members of the Regular Air Force or the Regular Space Force; and
   - **(3)** reserve enlisted members of the Air Force or the Space Force who, at the time of retirement, are serving on active duty (or, in the case of members of the National Guard, on full-time duty).

@@ -3,9 +3,9 @@ title: "Section 13255 - Voluntary supply commitments"
 usc_title: 42
 usc_section: "13255"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 13255"
-generated_at: "2026-03-29T20:07:44.805Z"
+generated_at: "2026-03-29T20:34:54.157Z"
 ---
 
 # § 13255. Voluntary supply commitments

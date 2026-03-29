@@ -3,9 +3,9 @@ title: "Section 30102 - Working capital fund"
 usc_title: 51
 usc_section: "30102"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "51 U.S.C. § 30102"
-generated_at: "2026-03-29T20:08:15.817Z"
+generated_at: "2026-03-29T20:35:13.934Z"
 ---
 
 # § 30102. Working capital fund
@@ -19,8 +19,7 @@ generated_at: "2026-03-29T20:08:15.817Z"
     - **(D)** to other public or private agencies; or
     - **(E)** to any person, firm, association, corporation, or educational institution on a reimbursable basis.
   - **(2)** The fund shall also be available for the purpose of funding capital repairs, renovations, rehabilitation, sustainment, demolition, or replacement of Administration real property, on a reimbursable basis within the Administration.
-  - **(3)** The fund shall also be available for the purpose of funding IT Modernization activities, as described in section 1077(b)(3)(A)–(E) of Public Law 115–91 , on a non-reimbursable basis.
-  - **(4)** Amounts in the fund are available without regard to fiscal year limitation.
+  - **(3)** Amounts in the fund are available without regard to fiscal year limitation.
 - **(c)** The capital of the fund consists of—
   - **(1)** amounts appropriated to the fund;
   - **(2)** the reasonable value of stocks of supplies, equipment, and other assets and inventories on order that the Administrator transfers to the fund, less the related liabilities and unpaid obligations;

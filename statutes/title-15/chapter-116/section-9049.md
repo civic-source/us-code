@@ -3,9 +3,9 @@ title: "Section 9049 - Temporary hiring flexibility"
 usc_title: 15
 usc_section: "9049"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 9049"
-generated_at: "2026-03-29T20:03:27.719Z"
+generated_at: "2026-03-29T20:32:10.124Z"
 ---
 
 # § 9049. Temporary hiring flexibility

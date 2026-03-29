@@ -3,9 +3,9 @@ title: "Section 16313 - Solar Fuels Research Initiative"
 usc_title: 42
 usc_section: "16313"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 16313"
-generated_at: "2026-03-29T20:07:44.911Z"
+generated_at: "2026-03-29T20:34:54.243Z"
 ---
 
 # § 16313. Solar Fuels Research Initiative
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T20:07:44.911Z"
       - **(ii)** the sustainable photoinduced reduction of carbon dioxide to fuel products including hydrocarbons, alcohols, carbon monoxide, and natural gas; and
     - **(B)** the Assistant Secretary for Energy Efficiency and Renewable Energy shall support translational research, development, and validation of physical concepts developed under the program.
   - **(3)** The Secretary shall review activities carried out under the program described in paragraph (1) to determine the achievement of technical milestones.
-  - **(4)** Of the funds authorized to be appropriated for basic energy sciences in a fiscal year, there is authorized to be appropriated to the Secretary to carry out activities under this subsection $50,000,000 for each of fiscal years 2023 through 2027.
+  - **(4)** No funds allocated to the program described in paragraph (1) may be obligated or expended for commercial application of energy technology.
 - **(c)**
   - **(1)** The Secretary shall carry out under the Initiative a program to support research needed to replicate natural photosynthetic processes by use of artificial photosynthetic components and materials.
   - **(2)** As part of the program described in paragraph (1)—
@@ -41,4 +41,4 @@ generated_at: "2026-03-29T20:07:44.911Z"
     - **(B)** the Associate Director of Biological and Environmental Research shall support systems biology and genomics approaches to understand genetic and physiological pathways connected to photosynthetic mechanisms; and
     - **(C)** the Assistant Secretary for Energy Efficiency and Renewable Energy shall support translational research, development, and validation of physical concepts developed under the program.
   - **(3)** The Secretary shall review activities carried out under the program described in paragraph (1) to determine the achievement of technical milestones.
-  - **(4)** Of the funds authorized to be appropriated for basic energy sciences in a fiscal year, there is authorized to be appropriated to the Secretary to carry out activities under this subsection $50,000,000 for each of fiscal years 2023 through 2027.
+  - **(4)** No funds allocated to the program described in paragraph (1) may be obligated or expended for commercial application of energy technology.

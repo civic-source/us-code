@@ -3,9 +3,9 @@ title: "Section 1973 - Support and maintenance expenditures during emergency dut
 usc_title: 2
 usc_section: "1973"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "2 U.S.C. § 1973"
-generated_at: "2026-03-29T20:02:11.322Z"
+generated_at: "2026-03-29T20:31:22.538Z"
 ---
 
 # § 1973. Support and maintenance expenditures during emergency duty

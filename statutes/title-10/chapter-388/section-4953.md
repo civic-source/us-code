@@ -1,14 +1,25 @@
 ---
-title: "Section 4953 - Regulations"
+title: "Section 4953 - Funding"
 usc_title: 10
 usc_section: "4953"
 chapter: 388
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 4953"
-generated_at: "2026-03-29T20:03:09.806Z"
+generated_at: "2026-03-29T20:31:54.706Z"
 ---
 
-# § 4953. Regulations
+# § 4953. Funding
 
-The Secretary of Defense shall prescribe regulations to carry out this chapter, and shall consult with an association recognized under section 4954(f) 1 1 See References in Text note below. regarding any revisions to such regulations.
-
+- **(a)** Except as provided in subsection (c), the value of the assistance furnished by the Secretary to any eligible entity to carry out a procurement technical assistance program under a cooperative agreement under this chapter during any fiscal year may not exceed—
+  - **(1)** in the case of a program operating on a Statewide basis, other than a program referred to in paragraph (3) or (4), $1,000,000;
+  - **(2)** in the case of a program operating on less than a Statewide basis, other than a program referred to in paragraph (3) or (4), $750,000;
+  - **(3)** in the case of a program operated wholly within one service area of the Bureau of Indian Affairs by an eligible entity referred to in section 4951(b)(1)(D) of this title , $450,000; or
+  - **(4)** in the case of a program operated wholly within more than one service area of the Bureau of Indian Affairs by an eligible entity referred to in section 4951(b)(1)(D) of this title , $1,000,000.
+- **(b)** A determination of whether a procurement technical assistance program is operating on a Statewide basis or on less than a Statewide basis or is operated wholly within one or more service areas of the Bureau of Indian Affairs by an eligible entity referred to in section 4951(b)(1)(D) of this title shall be made in accordance with regulations prescribed by the Secretary of Defense.
+- **(c)** The value of the assistance provided in accordance with section 4957(b) of this title is not subject to the limitations in subsection (a).
+- **(d)**
+  - **(1)** An eligible entity that earned income in a specified fiscal year from activities carried out pursuant to a procurement technical assistance program funded under this chapter may expend an amount of such income, not to exceed 25 percent of the cost of furnishing procurement technical assistance in such specified fiscal year, during the fiscal year following such specified fiscal year, to carry out a procurement technical assistance program funded under this chapter.
+  - **(2)** An eligible entity that does not enter into a cooperative agreement with the Secretary for a fiscal year—
+    - **(A)** shall notify the Secretary of the amount of any income the eligible entity carried over from the previous fiscal year; and
+    - **(B)** may retain an amount of such income equal to 10 percent of the value of assistance furnished by the Secretary under this section during the previous fiscal year.
+  - **(3)** In determining the value of assistance furnished by the Secretary under this section for any fiscal year, the Secretary shall account for the amount of any income the eligible entity carried over from the previous fiscal year.

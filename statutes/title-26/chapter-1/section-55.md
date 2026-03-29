@@ -3,31 +3,26 @@ title: "Section 55 - Alternative minimum tax imposed"
 usc_title: 26
 usc_section: "55"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 55"
-generated_at: "2026-03-29T20:05:22.174Z"
+generated_at: "2026-03-29T20:33:26.804Z"
 ---
 
 # § 55. Alternative minimum tax imposed
 
-- **(a)** There is hereby imposed (in addition to any other tax imposed by this subtitle) a tax equal to the excess (if any) of—
+- **(a)** In the case of a taxpayer other than a corporation, there is hereby imposed (in addition to any other tax imposed by this subtitle) a tax equal to the excess (if any) of—
   - **(1)** the tentative minimum tax for the taxable year, over
-  - **(2)** the regular tax for the taxable year plus, in the case of an applicable corporation, the tax imposed by section 59A.
+  - **(2)** the regular tax for the taxable year.
 - **(b)** For purposes of this part—
-  - **(1)** In the case of a taxpayer other than a corporation—
+  - **(1)**
     - **(A)** The tentative minimum tax for the taxable year is the sum of—
       - **(i)** 26 percent of so much of the taxable excess as does not exceed $175,000, plus
       - **(ii)** 28 percent of so much of the taxable excess as exceeds $175,000.
     - **(B)** For purposes of this subsection, the term “taxable excess” means so much of the alternative minimum taxable income for the taxable year as exceeds the exemption amount.
     - **(C)** In the case of a married individual filing a separate return, subparagraph (A) shall be applied by substituting 50 percent of the dollar amount otherwise applicable under clause (i) and clause (ii) thereof. For purposes of the preceding sentence, marital status shall be determined under section 7703.
-    - **(D)** The term “alternative minimum taxable income” means the taxable income of the taxpayer for the taxable year—
-      - **(i)** determined with the adjustments provided in section 56 and section 58, and
-      - **(ii)** increased by the amount of the items of tax preference described in section 57.
-  - **(2)**
-    - **(A)** In the case of an applicable corporation, the tentative minimum tax for the taxable year shall be the excess of—
-      - **(i)** 15 percent of the adjusted financial statement income for the taxable year (as determined under section 56A), over
-      - **(ii)** the corporate AMT foreign tax credit for the taxable year.
-    - **(B)** In the case of any corporation which is not an applicable corporation, the tentative minimum tax for the taxable year shall be zero.
+  - **(2)** The term “alternative minimum taxable income” means the taxable income of the taxpayer for the taxable year—
+    - **(A)** determined with the adjustments provided in section 56 and section 58, and
+    - **(B)** increased by the amount of the items of tax preference described in section 57.
   - **(3)** The amount determined under the first sentence of paragraph (1)(A) shall not exceed the sum of—
     - **(A)** the amount determined under such first sentence computed at the rates and in the same manner as if this paragraph had not been enacted on the taxable excess reduced by the lesser of—
       - **(i)** the net capital gain; or
@@ -68,20 +63,19 @@ generated_at: "2026-03-29T20:05:22.174Z"
       - **(iii)** each of the dollar amounts in subparagraphs (A) and (B) of paragraph (2).
     - **(C)** Any increased amount determined under subparagraph (A) shall be rounded to the nearest multiple of $100.
   - **(4)**
-    - **(A)** In the case of any taxable year beginning after December 31, 2017 —
+    - **(A)** In the case of any taxable year beginning after December 31, 2017 , and before January 1, 2026 —
       - **(i)** paragraph (1) shall be applied—
         - **(I)** by substituting “$109,400” for “$78,750” in subparagraph (A), and
         - **(II)** by substituting “$70,300” for “$50,600” in subparagraph (B),
       - **(ii)** paragraph (2) shall be applied—
         - **(I)** by substituting “$1,000,000” for “$150,000” in subparagraph (A),
-        - **(II)** by substituting “50 percent of the dollar amount applicable under subparagraph (A)” for “$112,500” in subparagraph (B),
+        - **(II)** by substituting “50 percent of the dollar amount applicable under subparagraph (A)” for “$112,500” in subparagraph (B), and
         - **(III)** in the case of a taxpayer described in paragraph (1)(D), without regard to the substitution under subclause (I), and
-        - **(IV)** by substituting “50 percent” for “25 percent”, and
       - **(iii)** subsection (j) of section 59 shall not apply.
     - **(B)**
-      - **(i)** In the case of any taxable year beginning in a calendar year after 2018 (2026, in the case of the $1,000,000 amount in subparagraph (A)(ii)(I)), the amounts described in clause (ii) shall each be increased by an amount equal to—
+      - **(i)** In the case of any taxable year beginning in a calendar year after 2018, the amounts described in clause (ii) shall each be increased by an amount equal to—
         - **(I)** such dollar amount, multiplied by
-        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting for “calendar year 2016” in subparagraph (A)(ii) thereof—
+        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2017” for “calendar year 2016” in subparagraph (A)(ii) thereof.
       - **(ii)** The amounts described in this clause are the $109,400 amount in subparagraph (A)(i)(I), the $70,300 amount in subparagraph (A)(i)(II), and the $1,000,000 amount in subparagraph (A)(ii)(I).
       - **(iii)** Any increased amount determined under clause (i) shall be rounded to the nearest multiple of $100.
       - **(iv)** In the case of any taxable year to which subparagraph (A) applies, no adjustment shall be made under paragraph (3) to any of the numbers which are substituted under subparagraph (A) and adjusted under this subparagraph.

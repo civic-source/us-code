@@ -3,9 +3,9 @@ title: "Section 6033 - Returns by exempt organizations"
 usc_title: 26
 usc_section: "6033"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 6033"
-generated_at: "2026-03-29T20:05:22.653Z"
+generated_at: "2026-03-29T20:33:27.273Z"
 ---
 
 # § 6033. Returns by exempt organizations
@@ -134,7 +134,4 @@ generated_at: "2026-03-29T20:05:22.653Z"
   - **(1)** The amount of the reserves required by each State in which the organization is licensed to issue qualified health plans.
   - **(2)** The amount of reserves on hand.
 - **(n)** Any organization required to file a return under this section shall file such return in electronic form.
-- **(o)** Each applicable educational institution described in section 4968(c) which is subject to the requirements of subsection (a) shall include on the return required under subsection (a)—
-  - **(1)** the number of tuition-paying students taken into account under section 4968(c), and
-  - **(2)** the number of students of such institution (determined under the rules of section 4968(e)).
-- **(p)** For provisions relating to statements, etc., regarding exempt status of organizations, see section 6001. For reporting requirements as to certain liquidations, dissolutions, terminations, and contractions, see section 6043(b). For provisions relating to penalties for failure to file a return required by this section, see section 6652(c). For provisions relating to information required in connection with certain plans of deferred compensation, see section 6058.
+- **(o)** For provisions relating to statements, etc., regarding exempt status of organizations, see section 6001. For reporting requirements as to certain liquidations, dissolutions, terminations, and contractions, see section 6043(b). For provisions relating to penalties for failure to file a return required by this section, see section 6652(c). For provisions relating to information required in connection with certain plans of deferred compensation, see section 6058.

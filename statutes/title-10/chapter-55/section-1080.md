@@ -3,9 +3,9 @@ title: "Section 1080 - Contracts for medical care for spouses and children: elec
 usc_title: 10
 usc_section: "1080"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 1080"
-generated_at: "2026-03-29T20:03:09.561Z"
+generated_at: "2026-03-29T20:31:54.488Z"
 ---
 
 # § 1080. Contracts for medical care for spouses and children: election of facilities

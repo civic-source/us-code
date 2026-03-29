@@ -3,9 +3,9 @@ title: "Section 6102 - Computations on returns or other documents"
 usc_title: 26
 usc_section: "6102"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 6102"
-generated_at: "2026-03-29T20:05:22.670Z"
+generated_at: "2026-03-29T20:33:27.291Z"
 ---
 
 # § 6102. Computations on returns or other documents

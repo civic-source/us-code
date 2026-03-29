@@ -3,9 +3,9 @@ title: "Section 1467a - Regulation of holding companies"
 usc_title: 12
 usc_section: "1467a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "12 U.S.C. § 1467a"
-generated_at: "2026-03-29T20:03:45.635Z"
+generated_at: "2026-03-29T20:32:14.898Z"
 ---
 
 # § 1467a. Regulation of holding companies
@@ -429,6 +429,3 @@ generated_at: "2026-03-29T20:03:45.635Z"
       - **(ii)** take effect before the end of the 120-day period beginning on December 19, 1991 .
   - **(5)** No provision of this section shall be construed to authorize a national bank or any subsidiary thereof to engage in any activity not otherwise authorized under the National Bank Act [ 12 U.S.C. 21 et seq.] or any other law governing the powers of a national bank.
 - **(t)** This section shall not apply to a bank holding company that is subject to the Bank Holding Company Act of 1956 [ 12 U.S.C. 1841 et seq.], or any company controlled by such bank holding company.
-- **(u)**
-  - **(1)** The Board shall adopt data standards for all information that, through a collection of information, is regularly filed with or submitted to the Board by any savings and loan holding company, or subsidiary of a savings and loan holding company, other than a depository institution, under this section.
-  - **(2)** The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of this title , including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.

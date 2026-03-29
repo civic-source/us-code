@@ -3,9 +3,9 @@ title: "Section 1761 - Management"
 usc_title: 12
 usc_section: "1761"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "12 U.S.C. § 1761"
-generated_at: "2026-03-29T20:03:45.722Z"
+generated_at: "2026-03-29T20:32:14.989Z"
 ---
 
 # § 1761. Management

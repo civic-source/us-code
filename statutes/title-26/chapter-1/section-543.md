@@ -3,9 +3,9 @@ title: "Section 543 - Personal holding company income"
 usc_title: 26
 usc_section: "543"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 543"
-generated_at: "2026-03-29T20:05:22.396Z"
+generated_at: "2026-03-29T20:33:27.020Z"
 ---
 
 # § 543. Personal holding company income
@@ -95,7 +95,7 @@ generated_at: "2026-03-29T20:05:22.396Z"
   - **(3)** The requirements of this paragraph are met if the royalties described in paragraph (1) constitute at least 50 percent of the ordinary gross income of the corporation for the taxable year.
   - **(4)**
     - **(A)** The requirements of this paragraph are met if—
-      - **(i)** the sum of the deductions allowable to the corporation under sections 162, 174, 174A, and 195 for the taxable year which are properly allocable to the trade or business described in paragraph (2) equals or exceeds 25 percent of the ordinary gross income of such corporation for such taxable year, or
+      - **(i)** the sum of the deductions allowable to the corporation under sections 162, 174, and 195 for the taxable year which are properly allocable to the trade or business described in paragraph (2) equals or exceeds 25 percent of the ordinary gross income of such corporation for such taxable year, or
       - **(ii)** the average of such deductions for the 5-taxable year period ending with such taxable year equals or exceeds 25 percent of the average ordinary gross income of such corporation for such period.
     - **(B)** For purposes of subparagraph (A), a deduction shall not be treated as allowable under section 162 if it is specifically allowable under another section.
     - **(C)** For purposes of subparagraph (A), no deduction shall be taken into account with respect to compensation for personal services rendered by the 5 individual shareholders holding the largest percentage (by value) of the outstanding stock of the corporation. For purposes of the preceding sentence—

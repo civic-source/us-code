@@ -3,9 +3,9 @@ title: "Section 254r - Grants to State Offices of Rural Health"
 usc_title: 42
 usc_section: "254r"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 254r"
-generated_at: "2026-03-29T20:07:43.001Z"
+generated_at: "2026-03-29T20:34:52.585Z"
 ---
 
 # § 254r. Grants to State Offices of Rural Health
@@ -44,5 +44,5 @@ generated_at: "2026-03-29T20:07:43.001Z"
 - **(g)** The Secretary may not make a grant under subsection (a) unless an application for the grant is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out such subsection.
 - **(h)** The Secretary may not make payments under subsection (a) to a State office of rural health for any fiscal year subsequent to the first fiscal year of such payments unless the Secretary determines that, for the immediately preceding fiscal year, the State office of rural health has complied with each of the agreements made by the State office of rural health under this section.
 - **(i)**
-  - **(1)** For the purpose of making grants under subsection (a), there are authorized to be appropriated $12,500,000 for each of fiscal years 2023 through 2027.
+  - **(1)** For the purpose of making grants under subsection (a), there are authorized to be appropriated $12,500,000 for each of fiscal years 2018 through 2022.
   - **(2)** Amounts appropriated under paragraph (1) shall remain available until expended.

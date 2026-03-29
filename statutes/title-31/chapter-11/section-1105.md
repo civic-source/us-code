@@ -3,9 +3,9 @@ title: "Section 1105 - Budget contents and submission to Congress"
 usc_title: 31
 usc_section: "1105"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "31 U.S.C. § 1105"
-generated_at: "2026-03-29T20:05:32.567Z"
+generated_at: "2026-03-29T20:33:31.753Z"
 ---
 
 # § 1105. Budget contents and submission to Congress
@@ -47,7 +47,7 @@ generated_at: "2026-03-29T20:05:32.567Z"
     - **(B)** the missions and basic programs.
   - **(23)** separate appropriation accounts for appropriations under the Occupational Safety and Health Act of 1970 ( 29 U.S.C. 651 et seq.) and the Federal Mine Safety and Health Act of 1977 ( 30 U.S.C. 801 et seq.).
   - **(24)** recommendations on the return of Government capital to the Treasury by a mixed-ownership corporation (as defined in section 9101(2) of this title ) that the President decides are desirable.
-  - **(25)** a separate appropriation account for appropriations for each Office of Inspector General of an establishment defined under section 401 of title 5 .
+  - **(25)** a separate appropriation account for appropriations for each Office of Inspector General of an establishment defined under section 11(2) 1 1 See References in Text note below. of the Inspector General Act of 1978.
   - **(26)** a separate statement of the amount of appropriations requested for the Office of National Drug Control Policy and each program of the National Drug Control Program.
   - **(27)** a separate statement of the amount of appropriations requested for the Office of Federal Financial Management.
   - **(28)** beginning with fiscal year 1999, a Federal Government performance plan for the overall budget as provided for under section 1115.
@@ -82,6 +82,7 @@ generated_at: "2026-03-29T20:05:32.567Z"
     - **(F)** Veterans Health Administration, Medical Facilities.
     - **(G)** Veterans Health Administration, Medical Community Care.
   - **(38)** a separate statement for the Crow Settlement Fund established under section 411 of the Crow Tribe Water Rights Settlement Act of 2010, which shall include the estimated amount of deposits into the Fund, obligations, and outlays from the Fund.
+  - **(39)** the list of plans and reports, as provided for under section 1125, that agencies identified for elimination or consolidation because the plans and reports are determined outdated or duplicative of other required plans and reports.
 - **(b)** Estimated expenditures and proposed appropriations for the legislative branch and the judicial branch to be included in each budget under subsection (a)(5) of this section shall be submitted to the President before October 16 of each year and included in the budget by the President without change.
 - **(c)** The President shall recommend in the budget appropriate action to meet an estimated deficiency when the estimated receipts for the fiscal year for which the budget is submitted (under laws in effect when the budget is submitted) and the estimated amounts in the Treasury at the end of the current fiscal year available for expenditure in the fiscal year for which the budget is submitted, are less than the estimated expenditures for that year. The President shall make recommendations required by the public interest when the estimated receipts and estimated amounts in the Treasury are more than the estimated expenditures.
 - **(d)** When the President submits a budget or supporting information about a budget, the President shall include a statement on all changes about the current fiscal year that were made before the budget or information was submitted.
@@ -129,16 +130,3 @@ generated_at: "2026-03-29T20:05:32.567Z"
 - **(h)**
   - **(1)** If there is a medicare funding warning under section 801(a)(2) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 made in a year, the President shall submit to Congress, within the 15-day period beginning on the date of the budget submission to Congress under subsection (a) for the succeeding year, proposed legislation to respond to such warning.
   - **(2)** Paragraph (1) does not apply if, during the year in which the warning is made, legislation is enacted which eliminates excess general revenue medicare funding (as defined in section 801(c) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003) for the 7-fiscal-year reporting period, as certified by the Board of Trustees of each medicare trust fund (as defined in section 801(c)(5) of such Act) not later than 30 days after the date of the enactment of such legislation.
-- **(i)**
-  - **(1)** The Director of the Office of Management and Budget shall make publicly available on a website, and continuously update, a tabular list for each fiscal year of each agency that submits budget justification materials, which shall include—
-    - **(A)** the name of the agency;
-    - **(B)** a unique identifier that identifies the agency;
-    - **(C)** to the extent practicable, the date on which the budget justification materials of the agency are first submitted to Congress;
-    - **(D)** the date on which the budget justification materials of the agency are posted online under section 3 of the Federal Funding Accountability and Transparency Act of 2006 ( 31 U.S.C. 6101 note);
-    - **(E)** the uniform resource locator where the budget justification materials are published on the website of the agency; and
-    - **(F)** a single data set that contains the information described in subparagraphs (A) through (E) with respect to the agency for all fiscal years for which budget justifications of the agency are made available under section 3 of the Federal Funding Accountability and Transparency Act of 2006 ( 31 U.S.C. 6101 note) in a structured data format.
-  - **(2)**
-    - **(A)** Each agency that submits budget justification materials shall make the materials available on the website of the agency, in accordance with the policies established by the Director of the Office of Management and Budget under subparagraph (B).
-    - **(B)** Not later than 1 year after the date of enactment of this subsection, the Director of the Office of Management and Budget, in consultation with the Secretary of the Treasury, shall establish policies and data standards for agencies relating to making available materials under subparagraph (A), which shall include guidelines for making budget justification materials available in a format aligned with the requirements of section 3(b)(2)(C) of the Federal Funding Accountability and Transparency Act of 2006 ( 31 U.S.C. 6101 note) and using a uniform resource locator that is in a consistent format across agencies and is descriptive, memorable, and pronounceable, such as the format of “agencyname.gov/budget”.
-    - **(C)** If the Director of the Office of Management and Budget maintains a public website that contains the budget of the United States Government submitted under subsection (a) and any related materials, such website shall also contain a link to the tabular list required under paragraph (1).
-  - **(3)** In this subsection, the term “budget justification materials” has the meaning given that term in section 3(b)(2) of the Federal Funding Accountability and Transparency Act of 2006 ( 31 U.S.C. 6101 note).

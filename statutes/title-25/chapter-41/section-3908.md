@@ -3,9 +3,9 @@ title: "Section 3908 - Disclaimers"
 usc_title: 25
 usc_section: "3908"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "25 U.S.C. § 3908"
-generated_at: "2026-03-29T20:04:54.447Z"
+generated_at: "2026-03-29T20:32:54.771Z"
 ---
 
 # § 3908. Disclaimers

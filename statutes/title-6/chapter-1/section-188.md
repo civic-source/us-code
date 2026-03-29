@@ -3,9 +3,9 @@ title: "Section 188 - Conduct of research, development, demonstration, testing a
 usc_title: 6
 usc_section: "188"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "6 U.S.C. § 188"
-generated_at: "2026-03-29T20:02:41.963Z"
+generated_at: "2026-03-29T20:31:30.601Z"
 ---
 
 # § 188. Conduct of research, development, demonstration, testing and evaluation
@@ -46,16 +46,3 @@ generated_at: "2026-03-29T20:02:41.963Z"
     - **(D)** Select a laboratory or site on the basis of the criteria.
     - **(E)** Report to the appropriate congressional committees on which laboratory was selected, how the selected laboratory meets the published criteria, and what duties the headquarters laboratory shall perform.
   - **(4)** No laboratory shall begin operating as the headquarters laboratory of the Department until at least 30 days after the transmittal of the report required by paragraph (3)(E).
-- **(d)**
-  - **(1)** In this subsection:
-    - **(A)** The term “country of concern” means a country that—
-      - **(i)** is a covered nation, as such term is defined in section 4872(d) of title 10 ; or
-      - **(ii)** the Secretary determines is engaged in conduct that is detrimental to the national security of the United States.
-    - **(B)** The terms “nonprofit organization”, “small business firm”, and “subject invention” have the meanings given such terms in section 201 of title 35 .
-    - **(C)** The term “manufactured substantially in the United States” means an item is a domestic end product.
-    - **(D)** The term “domestic end product” has the meaning given such term in section 25.003 of title 48, Code of Federal Regulations, or any successor thereto.
-  - **(3)**
-    - **(A)** Subject to subparagraph (B), in individual cases, the requirements under section 204 of title 35 may be waived by the Secretary upon a showing by the small business firm, nonprofit organization, or assignee that reasonable but unsuccessful efforts have been made to grant licenses on similar terms to potential licensees that would be likely to manufacture substantially in the United States or that under the circumstances domestic manufacture is not commercially feasible.
-    - **(B)**
-      - **(i)** Before granting a waiver under subparagraph (A), the Secretary shall comply with the procedures developed and implemented by the Department pursuant to section 70923(b)(2) of the Build America, Buy America Act (enacted as subtitle A of title IX of division G of Public Law 117–58 ).
-      - **(ii)** The Secretary may not grant a waiver under subparagraph (A) if, as a result of such waiver, products embodying the applicable subject invention, or produced through the use of the applicable subject invention, would be manufactured substantially in a country of concern.

@@ -3,9 +3,9 @@ title: "Section 1632b - Agriculture Innovation Center Demonstration Program"
 usc_title: 7
 usc_section: "1632b"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 1632b"
-generated_at: "2026-03-29T20:02:52.543Z"
+generated_at: "2026-03-29T20:31:42.007Z"
 ---
 
 # § 1632b. Agriculture Innovation Center Demonstration Program
@@ -48,7 +48,7 @@ generated_at: "2026-03-29T20:02:52.543Z"
   - **(4)**
     - **(A)** Subject to subparagraph (B), in the first 3 fiscal years of the Program, the Secretary shall not make a grant under the Program to more than 1 entity in any 1 State.
     - **(B)** Nothing in subparagraph (A) precludes a recipient of a grant under the Program from collaborating with any other institution with respect to activities conducted using the grant.
-- **(f)** An eligible entity to which a grant is made under the Program may use the grant only for the following purposes (but only to the extent that the use is not described in section 1627c(d)(5)(D) of this title 2 2 So in original. Probably should be followed by a closing parenthesis. :
+- **(f)** An eligible entity to which a grant is made under the Program may use the grant only for the following purposes (but only to the extent that the use is not described in section 1627c(d)(2) of this title 2 2 So in original. Probably should be followed by a closing parenthesis. :
   - **(1)** Applied research.
   - **(2)** Consulting services.
   - **(3)** Hiring of employees, at the discretion of the board of directors of the Agriculture Innovation Center of the eligible entity.

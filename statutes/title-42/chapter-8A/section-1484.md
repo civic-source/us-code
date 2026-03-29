@@ -3,9 +3,9 @@ title: "Section 1484 - Insurance of loans for housing and related facilities for
 usc_title: 42
 usc_section: "1484"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 1484"
-generated_at: "2026-03-29T20:07:44.012Z"
+generated_at: "2026-03-29T20:34:53.375Z"
 ---
 
 # § 1484. Insurance of loans for housing and related facilities for domestic farm labor
@@ -43,12 +43,3 @@ generated_at: "2026-03-29T20:07:44.012Z"
 - **(j)** Housing and related facilities constructed with loans under this section shall contain installed carbon monoxide alarms or detectors that meet or exceed—
   - **(1)** the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
   - **(2)** any other standards as may be adopted by the Secretary, in collaboration with the Secretary of Housing and Urban Development, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
-- **(k)**
-  - **(1)** Housing and related facilities constructed with loans under this section shall contain qualifying smoke alarms that are installed in accordance with applicable codes and standards published by the International Code Council or the National Fire Protection Association and the requirements of the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.
-  - **(2)** For purposes of this subsection, the following definitions shall apply:
-    - **(A)** The term “smoke alarm” has the meaning given the term “smoke detector” in section 2225(d) of title 15 .
-    - **(B)** The term “qualifying smoke alarm” means a smoke alarm that—
-      - **(i)** in the case of a dwelling unit built before December 29, 2022 , and not substantially rehabilitated after December 29, 2022 —
-        - **(I)**
-        - **(II)** provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or
-      - **(ii)** in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022 , is hardwired.

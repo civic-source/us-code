@@ -3,9 +3,9 @@ title: "Section 1491 - Funeral honors functions at funerals for veterans"
 usc_title: 10
 usc_section: "1491"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 1491"
-generated_at: "2026-03-29T20:03:09.603Z"
+generated_at: "2026-03-29T20:31:54.525Z"
 ---
 
 # § 1491. Funeral honors functions at funerals for veterans
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T20:03:09.603Z"
     - **(B)** For members of a veterans organization or other organization referred to in subsection (b)(2) and for members of the armed forces in a retired status, materiel, equipment, and training.
     - **(C)** For members of a veterans organization or other organization referred to in subsection (b)(2), articles of clothing that, as determined by the Secretary concerned, are appropriate as a civilian uniform for persons participating in a funeral honors detail.
   - **(2)** The Secretary of Defense shall prescribe annually a flat rate daily stipend for purposes of paragraph (1)(A). Such stipend shall be set at a rate so as to encompass typical costs for transportation and other miscellaneous expenses for persons participating in funeral honors details who are members of the armed forces in a retired status and other persons who are not members of the armed forces or employees of the United States.
-  - **(3)** A stipend paid under this subsection to a member of the armed forces in a retired status is in addition to any compensation to which the member is entitled under section 435(a)(2) of title 37 and any other compensation to which the member may be entitled.
+  - **(3)** A stipend paid under this subsection to a member of the armed forces in a retired status is in addition to any compensation to which the member is entitled under section 495(a)(2) of title 37 and any other compensation to which the member may be entitled.
 - **(e)**
   - **(1)** The Secretary of Defense may waive any requirement provided in or pursuant to this section when the Secretary considers it necessary to do so to meet the requirements of war, national emergency, or a contingency operation or other military requirements. The authority to make such a waiver may not be delegated to an official of a military department other than the Secretary of the military department and may not be delegated within the Office of the Secretary of Defense to an official at a level below Under Secretary of Defense.
   - **(2)** Before or promptly after granting a waiver under paragraph (1), the Secretary shall transmit a notification of the waiver to the Committees on Armed Services of the Senate and House of Representatives.
@@ -36,5 +36,5 @@ generated_at: "2026-03-29T20:03:09.603Z"
   - **(4)** Procedures for providing training and ensuring quality of performance.
 - **(g)** The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report not later than January 31 of each year beginning with 2001 and ending with 2005 on the experience of the Department of Defense under this section. Each such report shall provide data on the number of funerals supported under this section, the cost for that support, shown by manpower and other cost factors, and the number and costs of funerals supported by each participating organization. The data in the report shall be presented in a standard format, regardless of military department or other organization.
 - **(h)** In this section, the term “veteran” means a decedent who—
-  - **(1)** served in the active military, naval, air, or space service (as defined in section 101(24) of title 38 ) and who was discharged or released therefrom under conditions other than dishonorable; or
+  - **(1)** served in the active military, naval, or air service (as defined in section 101(24) of title 38 ) and who was discharged or released therefrom under conditions other than dishonorable; or
   - **(2)** was a member or former member of the Selected Reserve described in section 2301(f) of title 38 .

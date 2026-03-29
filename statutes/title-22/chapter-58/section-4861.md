@@ -3,14 +3,14 @@ title: "Section 4861 - Inspector General for Department of State"
 usc_title: 22
 usc_section: "4861"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 4861"
-generated_at: "2026-03-29T20:04:46.905Z"
+generated_at: "2026-03-29T20:33:00.087Z"
 ---
 
 # § 4861. Inspector General for Department of State
 
 - **(a)** The Congress directs the Secretary of State to proceed immediately to establish an Office of Inspector General of the Department of State not later than October 1, 1986 . Not later than January 31, 1987 , the Secretary of State shall submit a report to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives on the progress in establishing that office. Such report shall include an accounting of the obligation of funds for fiscal year 1987 for that office.
-- **(b)** The Inspector General of the Department of State (as established by the amendment made by section 150(a) of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987) is authorized to perform all duties and responsibilities, and to exercise the authorities, stated in section 3929 of this title and in chapter 4 of title 5.
+- **(b)** The Inspector General of the Department of State (as established by the amendment made by section 150(a) of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987) is authorized to perform all duties and responsibilities, and to exercise the authorities, stated in section 3929 of this title and in the Inspector General Act of 1978.
 - **(c)** Of the amounts made available for fiscal year 1987 for salaries and expenses under the heading “Administration of Foreign Affairs”, not less than $6,500,000 shall be used for the sole purpose of establishing and maintaining the Office of Inspector General of the Department of State.
 - **(d)** No career member of the Foreign Service, as defined by section 3903 of this title , may be appointed Inspector General of the Department of State.

@@ -3,9 +3,9 @@ title: "Section 643 - Certification and report to Congress"
 usc_title: 6
 usc_section: "643"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "6 U.S.C. § 643"
-generated_at: "2026-03-29T20:02:42.031Z"
+generated_at: "2026-03-29T20:31:30.663Z"
 ---
 
 # § 643. Certification and report to Congress

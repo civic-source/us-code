@@ -3,9 +3,9 @@ title: "Section 636 - Income tax treatment of mineral production payments"
 usc_title: 26
 usc_section: "636"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 636"
-generated_at: "2026-03-29T20:05:22.405Z"
+generated_at: "2026-03-29T20:33:27.028Z"
 ---
 
 # § 636. Income tax treatment of mineral production payments

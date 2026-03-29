@@ -3,9 +3,9 @@ title: "Section 1065 - Use of commissary stores and MWR facilities: certain vete
 usc_title: 10
 usc_section: "1065"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 1065"
-generated_at: "2026-03-29T20:03:09.544Z"
+generated_at: "2026-03-29T20:31:54.476Z"
 ---
 
 # § 1065. Use of commissary stores and MWR facilities: certain veterans, caregivers for veterans, and Foreign Service officers
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T20:03:09.544Z"
   - **(4)** Any fee under this subsection is in addition to the uniform surcharge under section 2484(d) of this title .
 - **(h)** In this section:
   - **(1)** The term “MWR facilities” includes—
-    - **(A)** MWR retail facilities, as that term is defined in section 1063(e) 1 1 See References in Text note below. of this title; and
+    - **(A)** MWR retail facilities, as that term is defined in section 1063(e) of this title ; and
     - **(B)** military lodging operated by the Department of Defense for the morale, welfare, and recreation of members of the armed forces.
   - **(2)** The term “Medal of Honor recipient” has the meaning given that term in section 1074h(c) of this title .
   - **(3)** The terms “veteran”, “former prisoner of war”, and “service-connected” have the meanings given those terms in section 101 of title 38 .

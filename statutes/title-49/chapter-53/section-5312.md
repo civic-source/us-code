@@ -3,9 +3,9 @@ title: "Section 5312 - Public transportation innovation"
 usc_title: 49
 usc_section: "5312"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 5312"
-generated_at: "2026-03-29T20:07:58.439Z"
+generated_at: "2026-03-29T20:35:10.772Z"
 ---
 
 # § 5312. Public transportation innovation
@@ -26,31 +26,6 @@ generated_at: "2026-03-29T20:07:58.439Z"
       - **(i)** a statement of purpose detailing the need being addressed;
       - **(ii)** the short- and long-term goals of the project, including opportunities for future innovation and development, the potential for deployment, and benefits to riders and public transportation; and
       - **(iii)** the short- and long-term funding requirements to complete the project and any future objectives of the project.
-  - **(4)**
-    - **(A)** The Secretary shall establish and implement a program under this subsection to promote, implement, deploy, demonstrate, showcase, support, and document the application of advanced digital construction management systems, practices, performance, and benefits.
-    - **(B)** The goals of the accelerated implementation and deployment of advanced digital construction management systems program established under subparagraph (A) shall include—
-      - **(i)** accelerated adoption of advanced digital systems applied throughout the lifecycle of transportation infrastructure (including through the planning, design and engineering, construction, operations, and maintenance phases) that—
-        - **(I)** maximize interoperability with other systems, products, tools, or applications;
-        - **(II)** boost productivity;
-        - **(III)** manage complexity;
-        - **(IV)** reduce project delays and cost overruns;
-        - **(V)** enhance safety and quality; and
-        - **(VI)** reduce total costs for the entire lifecycle of transportation infrastructure assets;
-      - **(ii)** more timely and productive information-sharing among stakeholders through reduced reliance on paper to manage construction processes and deliverables such as blueprints, design drawings, procurement and supply-chain orders, equipment logs, daily progress reports, and punch lists;
-      - **(iii)** deployment of digital management systems that enable and leverage the use of digital technologies on construction sites by contractors, such as state-of-the-art automated and connected machinery and optimized routing software that allows construction workers to perform tasks faster, safer, more accurately, and with minimal supervision;
-      - **(iv)** the development and deployment of best practices for use in digital construction management;
-      - **(v)** increased technology adoption and deployment by States, local governmental authorities, and designated recipients that enables project sponsors—
-        - **(I)** to integrate the adoption of digital management systems and technologies in contracts; and
-        - **(II)** to weigh the cost of digitization and technology in setting project budgets;
-      - **(vi)** technology training and workforce development to build the capabilities of project managers and sponsors that enables States, local governmental authorities, or designated recipients—
-        - **(I)** to better manage projects using advanced construction management technologies; and
-        - **(II)** to properly measure and reward technology adoption across projects;
-      - **(vii)** development of guidance to assist States, local governmental authorities, and designated recipients in updating regulations to allow project sponsors and contractors—
-        - **(I)** to report data relating to the project in digital formats; and
-        - **(II)** to fully capture the efficiencies and benefits of advanced digital construction management systems and related technologies;
-      - **(viii)** reduction in the environmental footprint of construction projects using advanced digital construction management systems resulting from elimination of congestion through more efficient projects; and
-      - **(ix)** enhanced worker and pedestrian safety resulting from increased transparency.
-    - **(C)** The reporting requirements for the accelerated implementation and deployment of advanced digital construction management systems program established under section 503(c)(5) of title 23 shall include data and analysis collected under this section.
 - **(c)**
   - **(1)** The Secretary may make a grant to or enter into a contract, cooperative agreement, or other agreement under this section with an entity described in subsection (b)(2) to carry out a public transportation research project that has as its ultimate goal the development and deployment of new and innovative ideas, practices, and approaches.
   - **(2)** A public transportation research project that receives assistance under paragraph (1) shall focus on—
@@ -102,15 +77,11 @@ generated_at: "2026-03-29T20:07:58.439Z"
       - **(i)** a passenger vehicle used to provide public transportation that the Secretary determines sufficiently reduces energy consumption or harmful emissions, including direct carbon emissions, when compared to a comparable standard vehicle; or
       - **(ii)** a zero emission vehicle used to provide public transportation; and
     - **(C)** the term “zero emission vehicle” means a low or no emission vehicle that produces no carbon or particulate matter.
-- **(f)**
-  - **(1)** Not later than the first Monday in February of each year, the Secretary shall make available to the public on the Web site of the Department of Transportation, a report that includes—
-    - **(A)** a description of each project that received assistance under this section during the preceding fiscal year;
-    - **(B)** an evaluation of each project described in paragraph (1), including any evaluation conducted under subsection (e)(4) for the preceding fiscal year; and
-    - **(C)** a strategic research roadmap proposal for allocations of amounts for assistance under this section for the current and subsequent fiscal year, including anticipated work areas, proposed demonstrations and strategic partnership opportunities;
-  - **(2)** Not less than every 3 months, the Secretary shall update on the Web site of the Department of Transportation the information described in paragraph (1)(C) to reflect any changes to the Secretary’s plans to make assistance available under this section.
-  - **(3)** The Secretary is encouraged to develop long-term research plans and shall identify in the annual report under paragraph (1) and in updates under paragraph (2) allocations of amounts for assistance and notices of funding opportunities to execute long-term strategic research roadmap plans.
+- **(g)** Not later than the first Monday in February of each year, the Secretary shall make available to the public on the Web site of the Department of Transportation, a report that includes—
+  - **(1)** a description of each project that received assistance under this section during the preceding fiscal year; and
+  - **(2)** an evaluation of each project described in paragraph (1), including any evaluation conducted under subsection (e)(4) for the preceding fiscal year.
 - **(g)**
-  - **(1)** The Government share of the cost of a project carried out under this section shall not exceed 80 percent, except that if there is substantial public interest or benefit, the Secretary may approve a greater Federal share.
+  - **(1)** The Government share of the cost of a project carried out under this section shall not exceed 80 percent.
   - **(2)** The non-Government share of the cost of a project carried out under this section may be derived from in-kind contributions.
   - **(3)** If the Secretary determines that there would be a clear and direct financial benefit to an entity under a grant, contract, cooperative agreement, or other agreement under this section, the Secretary shall establish a Government share of the costs of the project to be carried out under the grant, contract, cooperative agreement, or other agreement that is consistent with the benefit.
 - **(h)**
@@ -120,11 +91,9 @@ generated_at: "2026-03-29T20:07:58.439Z"
     - **(C)** the term “institution of higher education” has the meaning given the term in section 102 of the Higher Education Act of 1965 ( 20 U.S.C. 1002 ); and
     - **(D)** the term “low or no emission vehicle component” means an item that is separately installed in and removable from a low or no emission vehicle.
   - **(2)**
-    - **(A)** The Secretary shall competitively select at least 1 facility—
-      - **(i)** to conduct testing, evaluation, and analysis of low or no emission vehicle components intended for use in low or no emission vehicles; and
-      - **(ii)** to conduct directed technology research.
+    - **(A)** The Secretary shall competitively select at least one facility to conduct testing, evaluation, and analysis of low or no emission vehicle components intended for use in low or no emission vehicles.
     - **(B)**
-      - **(i)** The Secretary shall enter into a contract or cooperative agreement with, or make a grant to, at least 1 institution of higher education to operate and maintain a facility to conduct testing, evaluation, and analysis of low or no emission vehicle components, and new and emerging technology components, intended for use in low or no emission vehicles.
+      - **(i)** The Secretary shall enter into a contract or cooperative agreement with, or make a grant to, at least one institution of higher education to operate and maintain a facility selected under subparagraph (A).
       - **(ii)** An institution of higher education described in clause (i) shall have—
         - **(I)** capacity to carry out transportation-related advanced component and vehicle evaluation;
         - **(II)** laboratories capable of testing and evaluation; and
@@ -136,11 +105,7 @@ generated_at: "2026-03-29T20:07:58.439Z"
     - **(E)** A manufacturer of a low or no emission vehicle component is not required to assess the low or no emission vehicle component at a facility selected under subparagraph (A).
     - **(F)** Notwithstanding whether a low or no emission vehicle component is assessed at a facility selected under subparagraph (A), each new bus model shall comply with the requirements under section 5318.
     - **(G)** A facility selected under subparagraph (A) shall be separate and distinct from the facility operated and maintained under section 5318.
-    - **(H)** A facility operated and maintained under subparagraph (A) may use funds made available under this subsection for—
-      - **(i)** acquisition of equipment and capital projects related to testing low or no emission vehicle components; or
-      - **(ii)** research related to advanced vehicle technologies that provides advancements to the entire public transportation industry.
-    - **(I)** The cost share for activities described in subparagraph (H) shall be subject to the terms in subsection (g).
-  - **(3)** Not later than 2 years after the date of enactment of the Federal Public Transportation Act of 2015, and annually thereafter, the Secretary shall issue a report on low or no emission vehicle component assessments conducted at each facility selected under paragraph (2)(A), which shall include information related to the maintainability, reliability, performance, structural integrity, efficiency, and noise of those low or no emission vehicle components, as applicable.
+  - **(3)** Not later than 2 years after the date of enactment of the Federal Public Transportation Act of 2015, and annually thereafter, the Secretary shall issue a report on low or no emission vehicle component assessments conducted at each facility selected under paragraph (2)(A), which shall include information related to the maintainability, reliability, performance, structural integrity, efficiency, and noise of those low or no emission vehicle components.
   - **(4)** Each assessment conducted at a facility selected under paragraph (2)(A) shall be made publicly available, including to affected industries.
   - **(5)** Nothing in this subsection shall be construed to require—
     - **(A)** a low or no emission vehicle component to be tested at a facility selected under paragraph (2)(A); or
@@ -152,4 +117,4 @@ generated_at: "2026-03-29T20:07:58.439Z"
     - **(B)** The board shall recommend public transportation research, development, and technology transfer activities the Secretary considers appropriate.
   - **(3)** The Secretary may make grants to, and enter into cooperative agreements with, the National Academy of Sciences to carry out activities under this subsection that the Secretary considers appropriate.
   - **(4)** If there would be a clear and direct financial benefit to an entity under a grant or contract financed under this subsection, the Secretary shall establish a Government share consistent with that benefit.
-  - **(5)** Subsections (f) and (g) shall not apply to activities carried out under this subsection.
+  - **(5)** Subsections (f) 2 2 So in original. There is no subsec. designated subsec. (f). and (g) shall not apply to activities carried out under this subsection.

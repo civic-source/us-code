@@ -3,9 +3,9 @@ title: "Section 3007 - Omitted"
 usc_title: 16
 usc_section: "3007"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 3007"
-generated_at: "2026-03-29T20:04:20.393Z"
+generated_at: "2026-03-29T20:32:45.419Z"
 ---
 
 # §§ 3001 to 3007. Omitted

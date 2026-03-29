@@ -3,9 +3,9 @@ title: "Section 1872 - Use of expired funds for unemployment compensation paymen
 usc_title: 2
 usc_section: "1872"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "2 U.S.C. § 1872"
-generated_at: "2026-03-29T20:02:11.314Z"
+generated_at: "2026-03-29T20:31:22.531Z"
 ---
 
 # § 1872. Use of expired funds for unemployment compensation payments

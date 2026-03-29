@@ -3,9 +3,9 @@ title: "Section 542b - Administration, protection, and regulation of use"
 usc_title: 16
 usc_section: "542b"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 542b"
-generated_at: "2026-03-29T20:04:20.145Z"
+generated_at: "2026-03-29T20:32:45.210Z"
 ---
 
 # § 542b. Administration, protection, and regulation of use

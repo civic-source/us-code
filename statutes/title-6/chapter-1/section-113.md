@@ -3,9 +3,9 @@ title: "Section 113 - Other officers"
 usc_title: 6
 usc_section: "113"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "6 U.S.C. § 113"
-generated_at: "2026-03-29T20:02:41.952Z"
+generated_at: "2026-03-29T20:31:30.591Z"
 ---
 
 # § 113. Other officers
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T20:02:41.952Z"
     - **(J)** A General Counsel, who shall be the chief legal officer of the Department.
     - **(K)** An Under Secretary for Strategy, Policy, and Plans.
   - **(2)** If any of the Assistant Secretaries referred to under paragraph (1)(I) is designated to be the Assistant Secretary for Health Affairs, the Assistant Secretary for Legislative Affairs, or the Assistant Secretary for Public Affairs, that Assistant Secretary shall be appointed by the President without the advice and consent of the Senate.
-- **(b)** There shall be in the Department an Office of Inspector General and an Inspector General at the head of such office, as provided in chapter 4 of title 5.
+- **(b)** There shall be in the Department an Office of Inspector General and an Inspector General at the head of such office, as provided in the Inspector General Act of 1978 (5 U.S.C. App.).
 - **(c)** To assist the Secretary in the performance of the Secretary’s functions, there is a Commandant of the Coast Guard, who shall be appointed as provided in section 44 1 1 See References in Text note below. of title 14 and who shall report directly to the Secretary. In addition to such duties as may be provided in this chapter and as assigned to the Commandant by the Secretary, the duties of the Commandant shall include those required by section 2 1 of title 14.
 - **(d)** To assist the Secretary in the performance of the Secretary’s functions, there are the following officers, appointed by the President:
   - **(1)** A Director of the Secret Service.

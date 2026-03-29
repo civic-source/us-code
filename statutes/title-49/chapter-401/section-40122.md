@@ -3,9 +3,9 @@ title: "Section 40122 - Federal Aviation Administration personnel management sys
 usc_title: 49
 usc_section: "40122"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 40122"
-generated_at: "2026-03-29T20:07:58.573Z"
+generated_at: "2026-03-29T20:35:10.892Z"
 ---
 
 # § 40122. Federal Aviation Administration personnel management system
@@ -40,7 +40,7 @@ generated_at: "2026-03-29T20:07:58.573Z"
   - **(1)** In consultation with the employees of the Administration and such non-governmental experts in personnel management systems as he may employ, and notwithstanding the provisions of title 5 and other Federal personnel laws, the Administrator shall develop and implement, not later than January 1, 1996 , a personnel management system for the Administration that addresses the unique demands on the agency’s workforce. Such a new system shall, at a minimum, provide for greater flexibility in the hiring, training, compensation, and location of personnel.
   - **(2)** The provisions of title 5 shall not apply to the new personnel management system developed and implemented pursuant to paragraph (1), with the exception of—
     - **(A)** section 2302(b), relating to whistleblower protection, including the provisions for investigation and enforcement as provided in chapter 12 of title 5;
-    - **(B)** sections 3304(f), 1 1 See References in Text note below. to the extent consistent with the Federal Aviation Administration’s status as an excepted service agency, 3308–3320, 3330a, 3330b, 3330c, and 3330d, relating to veterans’ preference;
+    - **(B)** sections 3304(f), to the extent consistent with the Federal Aviation Administration’s status as an excepted service agency, 3308–3320, 3330a, 3330b, 3330c, and 3330d, relating to veterans’ preference;
     - **(C)** chapter 71, relating to labor-management relations;
     - **(D)** section 7204, relating to antidiscrimination;
     - **(E)** chapter 73, relating to suitability, security, and conduct;
@@ -60,9 +60,6 @@ generated_at: "2026-03-29T20:07:58.573Z"
   - **(4)** In order to verify that leave credited to an employee pursuant to paragraph (2)(J) is used for treating a service-connected disability, that employee shall, notwithstanding section 6329(c) of title 5 , submit to the Assistant Administrator for Human Resource Management of the Federal Aviation Administration certification, in such form and manner as the Administrator of the Federal Aviation Administration may prescribe, that the employee used that leave for purposes of being furnished treatment for that disability by a health care provider.
   - **(5)** The Administrator shall implement a paid parental leave benefit for employees of the Administration that is, at a minimum, consistent with the paid parental leave benefits provided under section 6382 of title 5 .
   - **(6)** This subsection shall take effect on April 1, 1996 .
-  - **(7)**
-    - **(A)** If the Administrator determines that a covered position has not been filled after multiple vacancy announcements and that there are unique circumstances affecting the ability of the Administrator to fill such position, the Administrator may consider, in consultation with the appropriate labor union, applicants for the covered position who apply under a vacancy announcement recruiting from the State or territory in which the position is based.
-    - **(B)** In this paragraph, the term “covered position” means a safety-critical position, to include personnel located at contract towers, based in Alaska, Hawaii, Puerto Rico, American Samoa, Guam, the Northern Mariana Islands, and the Virgin Islands.
 - **(h)** An employee of the Federal Aviation Administration who is the subject of a major adverse personnel action may contest the action either through any contractual grievance procedure that is applicable to the employee as a member of the collective bargaining unit or through the Administration’s internal process relating to review of major adverse personnel actions of the Administration, known as Guaranteed Fair Treatment, or under section 40122(g)(3).
 - **(i)** Where a major adverse personnel action may be contested through more than one of the indicated forums (such as the contractual grievance procedure, the Federal Aviation Administration’s internal process, or that of the Merit Systems Protection Board), an employee must elect the forum through which the matter will be contested. Nothing in this section is intended to allow an employee to contest an action through more than one forum unless otherwise allowed by law.
 - **(j)** In this section, the term “major adverse personnel action” means a suspension of more than 14 days, a reduction in pay or grade, a removal for conduct or performance, a nondisciplinary removal, a furlough of 30 days or less (but not including placement in a nonpay status as the result of a lapse of appropriations or an enactment by Congress), or a reduction in force action.

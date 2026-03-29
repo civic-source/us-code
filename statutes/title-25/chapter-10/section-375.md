@@ -3,9 +3,9 @@ title: "Section 375 - Determination of heirship of deceased members of Five Civi
 usc_title: 25
 usc_section: "375"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "25 U.S.C. § 375"
-generated_at: "2026-03-29T20:04:54.326Z"
+generated_at: "2026-03-29T20:32:54.662Z"
 ---
 
 # § 375. Determination of heirship of deceased members of Five Civilized Tribes

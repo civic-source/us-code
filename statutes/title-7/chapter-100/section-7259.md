@@ -3,9 +3,9 @@ title: "Section 7259 - Study and report regarding potential impact of Uruguay Ro
 usc_title: 7
 usc_section: "7259"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 7259"
-generated_at: "2026-03-29T20:02:52.791Z"
+generated_at: "2026-03-29T20:31:42.227Z"
 ---
 
 # § 7259. Study and report regarding potential impact of Uruguay Round on prices, income, and government purchases

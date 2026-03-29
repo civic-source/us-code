@@ -3,14 +3,14 @@ title: "Section 44303 - Coverage"
 usc_title: 49
 usc_section: "44303"
 chapter: 443
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 44303"
-generated_at: "2026-03-29T20:07:58.594Z"
+generated_at: "2026-03-29T20:35:10.913Z"
 ---
 
 # § 44303. Coverage
 
-- **(a)** The Secretary of Transportation may provide insurance and reinsurance, or reimburse insurance costs, as authorized under sections 44302 and 44302a of this title for the following:
+- **(a)** The Secretary of Transportation may provide insurance and reinsurance, or reimburse insurance costs, as authorized under section 44302 of this title for the following:
   - **(1)** an American aircraft or foreign-flag aircraft engaged in aircraft operations the President decides are necessary in the interest of air commerce or national security or to carry out the foreign policy of the United States Government.
   - **(2)** property transported or to be transported on aircraft referred to in clause (1) of this section, including—
     - **(A)** shipments by express or registered mail;

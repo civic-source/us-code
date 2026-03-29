@@ -3,9 +3,9 @@ title: "Section 6724 - Waiver; definitions and special rules"
 usc_title: 26
 usc_section: "6724"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 6724"
-generated_at: "2026-03-29T20:05:22.733Z"
+generated_at: "2026-03-29T20:33:27.355Z"
 ---
 
 # § 6724. Waiver; definitions and special rules
@@ -50,11 +50,8 @@ generated_at: "2026-03-29T20:05:22.733Z"
       - **(xxii)** section 6039(a) (relating to returns required with respect to certain options),
       - **(xxiii)** section 6050W (relating to returns to payments made in settlement of payment card transactions),
       - **(xxiv)** section 6055 (relating to returns relating to information regarding health insurance coverage),
-      - **(xxv)** section 6056 (relating to returns relating to certain employers required to report on health insurance coverage),
-      - **(xxvi)** section 6050Y (relating to returns relating to certain life insurance contract transactions),
-      - **(xxvii)** section 6045A(d) (relating to returns for certain digital assets),
-      - **(xxviii)** section 6050Z (relating to reports relating to long-term care premium statements), or
-      - **(xxix)** section 6050AA(a) (relating to returns relating to applicable passenger vehicle loan interest received in trade or business from individuals),
+      - **(xxv)** section 6056 (relating to returns relating to certain employers required to report on health insurance coverage), or
+      - **(xxvi)** section 6050Y (relating to returns relating to certain life insurance contract transactions), and 1 1 So in original. The word “and” probably should not appear.
     - **(C)** any statement of the amount of payments to another person required to be made to the Secretary under—
       - **(i)** section 408(i) (relating to reports with respect to individual retirement accounts or annuities), or
       - **(ii)** section 6047(d) (relating to reports by employers, plan administrators, etc.), and
@@ -94,27 +91,18 @@ generated_at: "2026-03-29T20:05:22.733Z"
     - **(FF)** section 6050W(f) (relating to returns relating to payments made in settlement of payment card transactions),
     - **(GG)** section 6055(c) (relating to statements relating to information regarding health insurance coverage),
     - **(HH)** section 6056(c) (relating to statements relating to certain employers required to report on health insurance coverage),
-    - **(II)** section 6035 (other than a statement described in paragraph (1)(D)),
-    - **(JJ)** section 6226(a)(2) (relating to statements relating to alternative to payment of imputed underpayment by partnership) or under any other provision of this title which provides for the application of rules similar to such section,
-    - **(KK)** subsection (a)(2), (b)(2), or (c)(2) of section 6050Y (relating to returns relating to certain life insurance contract transactions),
-    - **(LL)** section 6050Z (relating to reports relating to long-term care premium statements),
-    - **(MM)** section 6050AA(c) (relating to statements relating to applicable passenger vehicle loan interest received in trade or business from individuals),
-    - **(NN)** section 6039K(c) (relating to disposition of qualified opportunity fund investments), or
-    - **(OO)** section 6039L (relating to information required from certain qualified opportunity zone businesses and qualified rural opportunity zone businesses).
+    - **(II)** section 6035 (other than a statement described in paragraph (1)(D)), or
+    - **(JJ)** 2 2 So in original. Two subpars. (JJ) have been enacted. section 6226(a)(2) (relating to statements relating to alternative to payment of imputed underpayment by partnership) or under any other provision of this title which provides for the application of rules similar to such section.
+    - **(JJ)** 2 subsection (a)(2), (b)(2), or (c)(2) of section 6050Y (relating to returns relating to certain life insurance contract transactions).
   - **(3)** The term “specified information reporting requirement” means—
     - **(A)** the notice required by section 6050K(c)(1) (relating to requirement that transferor notify partnership of exchange),
     - **(B)** any requirement contained in the regulations prescribed under section 6109 that a person—
       - **(i)** include his TIN on any return, statement, or other document (other than an information return or payee statement),
       - **(ii)** furnish his TIN to another person, or
-      - **(iii)** include on any return, statement, or other document (other than an information return or payee statement) made with respect to another person the TIN of such person, 1 1 So in original. Probably should be followed by “and”.
+      - **(iii)** include on any return, statement, or other document (other than an information return or payee statement) made with respect to another person the TIN of such person, 3 3 So in original. Probably should be followed by “and”.
     - **(C)** any requirement under section 6109(h) that—
       - **(i)** a person include on his return the name, address, and TIN of another person, or
       - **(ii)** a person furnish his TIN to another person.
   - **(4)** The term “required filing date” means the date prescribed for filing an information return with the Secretary (determined with regard to any extension of time for filing).
 - **(e)** If any partnership return under section 6031(a) is required under section 6011(e) to be filed on magnetic media or in other machine-readable form, for purposes of this part, each schedule required to be included with such return with respect to each partner shall be treated as a separate information return.
 - **(f)** No penalty shall be imposed under section 6721 or 6722 solely by reason of failing to provide the TIN of an individual on a return or statement required by section 6050S(a)(1) if the eligible educational institution required to make such return contemporaneously makes a true and accurate certification under penalty of perjury (and in such form and manner as may be prescribed by the Secretary) that it has complied with standards promulgated by the Secretary for obtaining such individual’s TIN.
-- **(g)** No penalty shall be imposed under section 6721 or 6722 if—
-  - **(1)** a person makes a return or report under section 6047(d) or 408(i) with respect to any distribution,
-  - **(2)** such distribution is made following a rollover, transfer, or exchange described in section 72(t)(4)(C) or section 72(q)(3)(C),
-  - **(3)** in making such return or report the person relies upon a certification provided by the taxpayer that the distributions satisfy the requirements of section 72(t)(4)(C)(iii) or section 72(q)(3)(B)(iii), as applicable, and
-  - **(4)** such person does not have actual knowledge that the distributions do not satisfy such requirements.

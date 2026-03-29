@@ -3,9 +3,9 @@ title: "Section 418 - Clothing allowance: enlisted members"
 usc_title: 37
 usc_section: "418"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "37 U.S.C. § 418"
-generated_at: "2026-03-29T20:05:44.915Z"
+generated_at: "2026-03-29T20:33:48.640Z"
 ---
 
 # § 418. Clothing allowance: enlisted members
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T20:05:44.915Z"
 - **(d)**
   - **(1)** In the case of athletic footwear needed by members of the Army, Navy, Air Force, Marine Corps, or Space Force upon their initial entry into the armed forces, the Secretary of Defense shall furnish such footwear directly to the members instead of providing a cash allowance to the members for the purchase of such footwear.
   - **(2)** In procuring athletic footwear to comply with paragraph (1), the Secretary of Defense shall—
-    - **(A)** procure athletic footwear that complies with the requirements of section 4862 of title 10 , without regard to the applicability of any simplified acquisition threshold under chapter 137 legacy provisions (as such term is defined in section 3016 of title 10 ) (or any other provision of law); and
+    - **(A)** procure athletic footwear that complies with the requirements of section 2533a of title 10 , without regard to the applicability of any simplified acquisition threshold under chapter 137 of title 10 (or any other provision of law); and
     - **(B)** procure additional athletic footwear, for two years following the date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, that is necessary to provide a member described in paragraph (1) with sufficient choices in athletic shoes so as to minimize the incidence of athletic injuries and potential unnecessary harm and risk to the safety and well-being of members in initial entry training.
   - **(3)** This subsection does not prohibit the provision of a cash allowance to a member described in paragraph (1) for the purchase of athletic footwear if such footwear—
     - **(A)** is medically required to meet unique physiological needs of the member; and

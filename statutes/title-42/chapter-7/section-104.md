@@ -3,9 +3,9 @@ title: "Section 104 - Beneficiary protections for qualified prescription drug co
 usc_title: 42
 usc_section: "104"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 104"
-generated_at: "2026-03-29T20:07:43.713Z"
+generated_at: "2026-03-29T20:34:53.133Z"
 ---
 
 # § 1395w–104. Beneficiary protections for qualified prescription drug coverage
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T20:07:43.713Z"
   - **(4)** A PDP sponsor offering a prescription drug plan must furnish to each enrollee in a form easily understandable to such enrollees—
     - **(A)** an explanation of benefits (in accordance with section 1395b–7(a) of this title or in a comparable manner); and
     - **(B)** when prescription drug benefits are provided under this part, a notice of the benefits in relation to—
-      - **(i)** for a year preceding 2025, the initial coverage limit for the current year; and
+      - **(i)** the initial coverage limit for the current year; and
       - **(ii)** the annual out-of-pocket threshold for the current year.
 - **(b)**
   - **(1)**
@@ -83,9 +83,6 @@ generated_at: "2026-03-29T20:07:43.713Z"
     - **(H)** Notwithstanding any other provision of this part, each PDP sponsor of a prescription drug plan shall—
       - **(i)** use a single, uniform exceptions and appeals process (including, to the extent the Secretary determines feasible, a single, uniform model form for use under such process) with respect to the determination of prescription drug coverage for an enrollee under the plan; and
       - **(ii)** provide instant access to such process by enrollees through a toll-free telephone number and an Internet website.
-    - **(I)**
-      - **(i)** For 2026 and each subsequent year, the PDP sponsor offering a prescription drug plan shall include each covered part D drug that is a selected drug under section 1320f–1 of this title for which a maximum fair price (as defined in section 1320f(c)(3) of this title ) is in effect with respect to the year.
-      - **(ii)** Nothing in clause (i) shall be construed as prohibiting a PDP sponsor from removing such a selected drug from a formulary if such removal would be permitted under section 423.120(b)(5)(iv) of title 42, Code of Federal Regulations (or any successor regulation).
   - **(4)**
     - **(A)** During the emergency period described in section 1320b–5(g)(1)(B) of this title , subject to subparagraph (B), a prescription drug plan or MA–PD plan shall, notwithstanding any cost and utilization management, medication therapy management, or other such programs under this part, permit a part D eligible individual enrolled in such plan to obtain in a single fill or refill, at the option of such individual, the total day supply (not to exceed a 90-day supply) prescribed for such individual for a covered part D drug.
     - **(B)** A prescription drug plan or MA–PD plan may not permit a part D eligible individual to obtain a single fill or refill inconsistent with an applicable safety edit.

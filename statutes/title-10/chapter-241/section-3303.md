@@ -3,9 +3,9 @@ title: "Section 3303 - Competitive proposals"
 usc_title: 10
 usc_section: "3303"
 chapter: 241
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 3303"
-generated_at: "2026-03-29T20:03:09.755Z"
+generated_at: "2026-03-29T20:31:54.671Z"
 ---
 
 # § 3303. Competitive proposals
@@ -15,5 +15,4 @@ generated_at: "2026-03-29T20:03:09.755Z"
   - **(2)** based on the proposals received, without discussions with the offerors (other than discussions conducted for the purpose of minor clarification) provided that the solicitation included a statement that proposals are intended to be evaluated, and award made, without discussions, unless discussions are determined to be necessary.
 - **(b)** If the contracting officer determines that the number of offerors that would otherwise be included in the competitive range under subsection (a)(1) exceeds the number at which an efficient competition can be conducted, the contracting officer may limit the number of proposals in the competitive range, in accordance with the criteria specified in the solicitation, to the greatest number that will permit an efficient competition among the offerors rated most highly in accordance with such criteria.
 - **(c)** Except as provided in section 3301(b) of this title , the head of the agency shall award a contract with reasonable promptness to the responsible source whose proposal is most advantageous to the United States, considering only cost or price and the other factors included in the solicitation.
-- **(d)** The head of the agency shall award the contract by transmitting, in writing or by electronic means, notice of the award to such source and, within three days after the date of contract award, shall notify, in writing or by electronic means, all other offerors of the rejection of their proposals.
-- **(e)** Subsections (c) and (d) do not apply with respect to the award of a contract for the acquisition of perishable subsistence items.
+- **(d)** The head of the agency shall award the contract by transmitting, in writing or by electronic means, notice of the award to such source and, within three days after the date of contract award, shall notify, in writing or by electronic means, all other offerors of the rejection of their proposals. This subsection does not apply with respect to the award of a contract for the acquisition of perishable subsistence items.

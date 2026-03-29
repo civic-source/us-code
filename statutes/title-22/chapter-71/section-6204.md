@@ -3,15 +3,15 @@ title: "Section 6204 - Authorities of Chief Executive Officer"
 usc_title: 22
 usc_section: "6204"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 6204"
-generated_at: "2026-03-29T20:04:46.931Z"
+generated_at: "2026-03-29T20:33:00.111Z"
 ---
 
 # § 6204. Authorities of Chief Executive Officer
 
 - **(a)** The Chief Executive Officer shall have the following authorities:
-  - **(1)** To supervise all broadcasting activities conducted pursuant to this chapter, the Radio Broadcasting to Cuba Act [ 22 U.S.C. 1465 et seq.],, 1 1 So in original. the Television Broadcasting to Cuba Act [ 22 U.S.C. 1465aa et seq.], and Worldnet Television, except as provided in section 6205(b) of this title .
+  - **(1)** To direct and supervise all broadcasting activities conducted pursuant to this chapter, the Radio Broadcasting to Cuba Act [ 22 U.S.C. 1465 et seq.],, 1 1 So in original. the Television Broadcasting to Cuba Act [ 22 U.S.C. 1465aa et seq.], and Worldnet Television, except as provided in section 6205(b) of this title .
   - **(2)** To review and evaluate the mission and operation of, and to assess the quality, effectiveness, and professional integrity of, all such activities within the context of the broad foreign policy objectives of the United States.
   - **(3)** To ensure that United States international broadcasting is conducted in accordance with the standards and principles contained in section 6202 of this title .
   - **(4)** To review, evaluate, and determine, at least annually, after consultation with the Secretary of State, the addition or deletion of language services.
@@ -34,16 +34,15 @@ generated_at: "2026-03-29T20:04:46.931Z"
   - **(19)**
     - **(A)** To provide for the payment of primary and secondary school expenses for dependents of personnel stationed in the Commonwealth of the Northern Mariana Islands (CNMI) at a cost not to exceed expenses authorized by the Department of Defense for such schooling for dependents of members of the Armed Forces stationed in the Commonwealth, if the Chief Executive Officer determines that schools available in the Commonwealth are unable to provide adequately for the education of the dependents of such personnel.
     - **(B)** To provide transportation for dependents of such personnel between their places of residence and those schools for which expenses are provided under subparagraph (A), if the Chief Executive Officer determines that such schools are not accessible by public means of transportation.
-  - **(20)** To redirect or reprogram funds within the scope of any grant or cooperative agreement, or between grantees, as necessary (and not later than 15 days before any such redirection of funds between language services, to notify the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives and the Committee on Appropriations and the Committee on Foreign Relations of the Senate regarding such redirection),. 1
-  - **(21)** To change the name of the Agency pursuant to congressional notification 60 days prior to any such change.
-  - **(22)** To—
+  - **(20)** Notwithstanding any other provision of law, including section 6207(a) of this title , to condition, if appropriate, any grant or cooperative agreement to RFE/RL, Inc., Radio Free Asia, the Open Technology Fund, or the Middle East Broadcasting Networks, or any organization that is established through the consolidation of such entities, on authority to determine membership of their respective boards, and the consolidation of such grantee entities into a single grantee organization under terms and conditions established by the Agency in accordance with subsection (c).
+  - **(21)** To redirect or reprogram funds within the scope of any grant or cooperative agreement, or between grantees, as necessary (and not later than 15 days before any such redirection of funds between language services, to notify the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives and the Committee on Appropriations and the Committee on Foreign Relations of the Senate regarding such redirection), and to condition grants or cooperative agreements, if appropriate, on such grants or cooperative agreements or any similar amendments as authorized under section 6207(a) of this title , including authority to name and replace the board of any grantee authorized under this chapter, to meet the purposes of this chapter in accordance with subsection (c).
+  - **(22)** To change the name of the Agency pursuant to congressional notification 60 days prior to any such change.
+  - **(23)** To—
     - **(A)** require annual content reviews of each language service of Voice of America, The Office of Cuba Broadcasting, and each grantee network, consisting of a review of at least 10 percent of available unique weekly content from any selected week from the previous year, which shall be conducted, to the extent practicable, by fluent language speakers and experts without direct affiliation to the language service being reviewed, who are seeking any evidence of inappropriate or unprofessional content, which shall be submitted to the Office of Policy Research, the head and Board of the respective language service, and the Chief Executive Officer;
-    - **(B)** submit to the appropriate congressional committees a list of anomalous reports, including status updates on anomalous services during the 3-year period commencing on the date of receipt of the first report of biased, unprofessional, or otherwise problematic content.”; 3 3 So in original. The period and quotation marks preceding the semicolon probably should not appear. and
+    - **(B)** submit to the appropriate congressional committees a list of anomalous reports, including status updates on anomalous services during the 3-year period commencing on the date of receipt of the first report of biased, unprofessional, or otherwise problematic content.”; 2 2 So in original. The period and quotation marks preceding the semicolon probably should not appear. and
     - **(C)** launch a review, using external, native-language and regional experts, the results of which are to be reported to the appropriate congressional committees, if a widespread pattern of violations of the principles, standards, or journalistic code of ethics of a language service or grantee network has been identified.
 - **(b)** The Secretary of State and the Chief Executive Officer, in carrying out their functions, shall respect the professional independence and integrity of the Agency, its broadcasting services, and the grantees of the Agency.
 - **(c)**
   - **(1)** The Chief Executive Officer may not award any grant under subsection (a) to RFE/RL, Inc., Radio Free Asia, the Middle East Broadcasting Networks, the Open Technology Fund, or any other grantee authorized under this chapter (collectively referred to as “Agency Grantee Networks”) unless the incorporation documents of any such grantee require that the corporate leadership and Board of Directors of such grantee be selected in accordance with this chapter.
-  - **(2)**
-    - **(A)** The Chief Executive Officer may not serve on any of the corporate boards of any grantee under subsection (a).
-    - **(B)** A full-time employee of a Federal agency may not serve on a corporate board of any grantee under subsection (a).
+  - **(2)** The Chief Executive Officer may not serve on any of the corporate boards of any grantee under subsection (a).
   - **(3)** Individuals appointed under subsection (a) to the Board of Directors of any of the Agency Grantee Networks shall have requisite expertise in journalism, technology, broadcasting, or diplomacy, or appropriate language or cultural understanding relevant to the grantee’s mission.

@@ -3,9 +3,9 @@ title: "Section 806b - Art. 6b. Rights of the victim of an offense under this ch
 usc_title: 10
 usc_section: "806b"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 806b"
-generated_at: "2026-03-29T20:03:09.500Z"
+generated_at: "2026-03-29T20:31:54.443Z"
 ---
 
 # § 806b. Art. 6b. Rights of the victim of an offense under this chapter
@@ -27,8 +27,7 @@ generated_at: "2026-03-29T20:03:09.500Z"
   - **(5)** The reasonable right to confer with the counsel representing the Government at any proceeding described in paragraph (2).
   - **(6)** The right to receive restitution as provided in law.
   - **(7)** The right to proceedings free from unreasonable delay.
-  - **(8)** The right to be informed in a timely manner of any plea agreement, separation-in-lieu-of-trial agreement, or non-prosecution agreement relating to the offense, unless providing such information would jeopardize a law enforcement proceeding or would violate the privacy concerns of an individual other than the accused.
-  - **(9)** The right to be treated with fairness and with respect for the dignity and privacy of the victim of an offense under this chapter.
+  - **(8)** The right to be treated with fairness and with respect for the dignity and privacy of the victim of an offense under this chapter.
 - **(b)** In this section, the term “victim of an offense under this chapter” means an individual who has suffered direct physical, emotional, or pecuniary harm as a result of the commission of an offense under this chapter.
 - **(c)** In the case of a victim of an offense under this chapter who is under 18 years of age (but who is not a member of the armed forces), incompetent, incapacitated, or deceased, the legal guardians of the victim or the representatives of the victim’s estate, family members, or any other person designated as suitable by the military judge, may assume the rights of the victim under this section. However, in no event may the individual so designated be the accused.
 - **(d)** Nothing in this section (article) shall be construed—

@@ -3,9 +3,9 @@ title: "Section 4481 - Imposition of tax"
 usc_title: 26
 usc_section: "4481"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 4481"
-generated_at: "2026-03-29T20:05:22.594Z"
+generated_at: "2026-03-29T20:33:27.215Z"
 ---
 
 # § 4481. Imposition of tax
@@ -19,4 +19,4 @@ generated_at: "2026-03-29T20:05:22.594Z"
     - **(B)** For purposes of subparagraph (A), a highway motor vehicle is destroyed if such vehicle is damaged by reason of an accident or other casualty to such an extent that it is not economic to rebuild.
 - **(d)** To the extent that the tax imposed by this section is paid with respect to any highway motor vehicle for any taxable period, no further tax shall be imposed by this section for such taxable period with respect to such vehicle.
 - **(e)** Any taxpayer who files a return under this section with respect to 25 or more vehicles for any taxable period shall file such return electronically.
-- **(f)** The tax imposed by this section shall apply only to use before October 1, 2029 .
+- **(f)** The tax imposed by this section shall apply only to use before October 1, 2023 .

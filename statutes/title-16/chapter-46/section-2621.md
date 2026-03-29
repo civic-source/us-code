@@ -3,9 +3,9 @@ title: "Section 2621 - Consideration and determination respecting certain ratema
 usc_title: 16
 usc_section: "2621"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 2621"
-generated_at: "2026-03-29T20:04:20.384Z"
+generated_at: "2026-03-29T20:32:45.413Z"
 ---
 
 # § 2621. Consideration and determination respecting certain ratemaking standards
@@ -97,13 +97,3 @@ generated_at: "2026-03-29T20:04:20.384Z"
       - **(iii)** Updates of information on prices and usage shall be offered on not less than a daily basis, shall include hourly price and use information, where available, and shall include a day-ahead projection of such price information to the extent available.
       - **(iv)** Purchasers and other interested persons shall be provided annually with written information on the sources of the power provided by the utility, to the extent it can be determined, by type of generation, including greenhouse gas emissions associated with each type of generation, for intervals during which such information is available on a cost-effective basis.
     - **(C)** Purchasers shall be able to access their own information at any time through the Internet and on other means of communication elected by that utility for Smart Grid applications. Other interested persons shall be able to access information not specific to any purchaser through the Internet. Information specific to any purchaser shall be provided solely to that purchaser.
-  - **(20)**
-    - **(A)** Each electric utility shall promote the use of demand-response and demand flexibility practices by commercial, residential, and industrial consumers to reduce electricity consumption during periods of unusually high demand.
-    - **(B)**
-      - **(i)** Each State regulatory authority shall consider establishing rate mechanisms allowing an electric utility with respect to which the State regulatory authority has ratemaking authority to timely recover the costs of promoting demand-response and demand flexibility practices in accordance with subparagraph (A).
-      - **(ii)** A nonregulated electric utility may establish rate mechanisms for the timely recovery of the costs of promoting demand-response and demand flexibility practices in accordance with subparagraph (A).
-  - **(21)** Each State shall consider measures to promote greater electrification of the transportation sector, including the establishment of rates that—
-    - **(A)** promote affordable and equitable electric vehicle charging options for residential, commercial, and public electric vehicle charging infrastructure;
-    - **(B)** improve the customer experience associated with electric vehicle charging, including by reducing charging times for light-, medium-, and heavy-duty vehicles;
-    - **(C)** accelerate third-party investment in electric vehicle charging for light-, medium-, and heavy-duty vehicles; and
-    - **(D)** appropriately recover the marginal costs of delivering electricity to electric vehicles and electric vehicle charging infrastructure.

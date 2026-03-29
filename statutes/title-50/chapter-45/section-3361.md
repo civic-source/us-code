@@ -3,9 +3,9 @@ title: "Section 3361 - National Virtual Translation Center"
 usc_title: 50
 usc_section: "3361"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "50 U.S.C. § 3361"
-generated_at: "2026-03-29T20:08:11.230Z"
+generated_at: "2026-03-29T20:35:05.245Z"
 ---
 
 # § 3361. National Virtual Translation Center
@@ -21,5 +21,5 @@ generated_at: "2026-03-29T20:08:11.230Z"
   - **(2)** The element established under subsection (a) shall connect elements of the intelligence community utilizing the most current available information technology that is applicable to the function of the element.
   - **(3)** Personnel of the element established under subsection (a) may carry out the duties and functions of the element at any location that—
     - **(A)** has been certified as a secure facility by a department or agency of the United States Government; or
-    - **(B)** the Director has otherwise determined to be appropriate for such duties and functions.
+    - **(B)** the Director has otherwise determined to be appropriate for such duties and functions 1 1 So in original. Probably should be followed by a period.
 - **(e)** The element required by subsection (a) shall be established as soon as practicable after November 27, 2002 , but not later than 90 days after November 27, 2002 .

@@ -3,9 +3,9 @@ title: "Section 263A - Capitalization and inclusion in inventory costs of certai
 usc_title: 26
 usc_section: "263A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 263A"
-generated_at: "2026-03-29T20:05:22.268Z"
+generated_at: "2026-03-29T20:33:26.897Z"
 ---
 
 # § 263A. Capitalization and inclusion in inventory costs of certain expenses
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T20:05:22.268Z"
   - **(2)** Real or personal property described in section 1221(a)(1) which is acquired by the taxpayer for resale.
 - **(c)**
   - **(1)** This section shall not apply to any property produced by the taxpayer for use by the taxpayer other than in a trade or business or an activity conducted for profit.
-  - **(2)** This section shall not apply to any amount allowable as a deduction under section 174 or 174A.
+  - **(2)** This section shall not apply to any amount allowable as a deduction under section 174.
   - **(3)** This section shall not apply to any cost allowable as a deduction under section 167(h), 179B, 263(c), 263(i), 291(b)(2), 616, or 617.
   - **(4)** This section shall not apply to any property produced by the taxpayer pursuant to a long-term contract.
   - **(5)** This section shall not apply to—

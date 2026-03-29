@@ -3,9 +3,9 @@ title: "Section 3053 - Federal Trade Commission oversight"
 usc_title: 15
 usc_section: "3053"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 3053"
-generated_at: "2026-03-29T20:03:27.557Z"
+generated_at: "2026-03-29T20:32:09.996Z"
 ---
 
 # § 3053. Federal Trade Commission oversight
@@ -38,4 +38,6 @@ generated_at: "2026-03-29T20:03:27.557Z"
 - **(d)**
   - **(1)** The Authority shall submit to the Commission any proposed rule, standard, or procedure developed by the Authority to carry out the horseracing anti-doping and medication control program or the racetrack safety program.
   - **(2)** The Commission shall publish in the Federal Register any such proposed rule, standard, or procedure and provide an opportunity for public comment.
-- **(e)** The Commission, by rule in accordance with section 553 of title 5 , may abrogate, add to, and modify the rules of the Authority promulgated in accordance with this chapter as the Commission finds necessary or appropriate to ensure the fair administration of the Authority, to conform the rules of the Authority to requirements of this chapter and applicable rules approved by the Commission, or otherwise in furtherance of the purposes of this chapter.
+- **(e)** The Commission may adopt an interim final rule, to take effect immediately, under conditions specified in section 553(b)(B) of title 5 , if the Commission finds that such a rule is necessary to protect—
+  - **(1)** the health and safety of covered horses; or
+  - **(2)** the integrity of covered horseraces and wagering on those horseraces.

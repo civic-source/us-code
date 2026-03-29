@@ -3,9 +3,9 @@ title: "Section 163 - Interest"
 usc_title: 26
 usc_section: "163"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 163"
-generated_at: "2026-03-29T20:05:22.230Z"
+generated_at: "2026-03-29T20:33:26.856Z"
 ---
 
 # § 163. Interest
@@ -137,44 +137,17 @@ generated_at: "2026-03-29T20:05:22.230Z"
         - **(I)** paid or accrued after December 31, 2021 , or
         - **(II)** properly allocable to any period after such date.
     - **(F)**
-      - **(i)** In the case of taxable years beginning after December 31, 2017 —
+      - **(i)** In the case of taxable years beginning after December 31, 2017 , and before January 1, 2026 —
         - **(I)** Subparagraph (A)(ii) shall not apply.
         - **(II)** Subparagraph (B)(ii) shall be applied by substituting “$750,000 ($375,000” for “$1,000,000 ($500,000”.
-        - **(III)** Clause (iv) of subparagraph (E) shall not apply.
-        - **(IV)** Subclause (II) shall not apply to any indebtedness incurred on or before December 15, 2017 , and, in applying such subclause to any indebtedness incurred after such date, the limitation under such subclause shall be reduced (but not below zero) by the amount of any indebtedness incurred on or before December 15, 2017 , which is treated as acquisition indebtedness for purposes of this subsection for the taxable year.
-        - **(V)** In the case of a taxpayer who enters into a written binding contract before December 15, 2017 , to close on the purchase of a principal residence before January 1, 2018 , and who purchases such residence before April 1, 2018 , subclause (IV) shall be applied by substituting “ April 1, 2018 ” for “ December 15, 2017 ”.
-      - **(ii)**
+        - **(III)** Subclause (II) shall not apply to any indebtedness incurred on or before December 15, 2017 , and, in applying such subclause to any indebtedness incurred after such date, the limitation under such subclause shall be reduced (but not below zero) by the amount of any indebtedness incurred on or before December 15, 2017 , which is treated as acquisition indebtedness for purposes of this subsection for the taxable year.
+        - **(IV)** In the case of a taxpayer who enters into a written binding contract before December 15, 2017 , to close on the purchase of a principal residence before January 1, 2018 , and who purchases such residence before April 1, 2018 , subclause (III) shall be applied by substituting “ April 1, 2018 ” for “ December 15, 2017 ”.
+      - **(ii)** In the case of taxable years beginning after December 31, 2025 , the limitation under subparagraph (B)(ii) shall be applied to the aggregate amount of indebtedness of the taxpayer described in subparagraph (B)(i) without regard to the taxable year in which the indebtedness was incurred.
+      - **(iii)**
         - **(I)** In the case of any indebtedness which is incurred to refinance indebtedness, such refinanced indebtedness shall be treated for purposes of clause (i)(III) as incurred on the date that the original indebtedness was incurred to the extent the amount of the indebtedness resulting from such refinancing does not exceed the amount of the refinanced indebtedness.
         - **(II)** Subclause (I) shall not apply to any indebtedness after the expiration of the term of the original indebtedness or, if the principal of such original indebtedness is not amortized over its term, the expiration of the term of the 1st refinancing of such indebtedness (or if earlier, the date which is 30 years after the date of such 1st refinancing).
-      - **(iii)** Section 108(h)(2) shall be applied without regard to this subparagraph.
-  - **(4)**
-    - **(A)** In the case of taxable years beginning after December 31, 2024 , and before January 1, 2029 , for purposes of this subsection the term “personal interest” shall not include qualified passenger vehicle loan interest.
-    - **(B)**
-      - **(i)** For purposes of this paragraph, the term “qualified passenger vehicle loan interest” means any interest which is paid or accrued during the taxable year on indebtedness incurred by the taxpayer after December 31, 2024 , for the purchase of, and that is secured by a first lien on, an applicable passenger vehicle for personal use.
-      - **(ii)** Such term shall not include any amount paid or incurred on any of the following:
-        - **(I)** A loan to finance fleet sales.
-        - **(II)** A loan incurred for the purchase of a commercial vehicle that is not used for personal purposes.
-        - **(III)** Any lease financing.
-        - **(IV)** A loan to finance the purchase of a vehicle with a salvage title.
-        - **(V)** A loan to finance the purchase of a vehicle intended to be used for scrap or parts.
-      - **(iii)** Interest shall not be treated as qualified passenger vehicle loan interest under this paragraph unless the taxpayer includes the vehicle identification number of the applicable passenger vehicle described in clause (i) on the return of tax for the taxable year.
-    - **(C)**
-      - **(i)** The amount of interest taken into account by a taxpayer under subparagraph (B) for any taxable year shall not exceed $10,000.
-      - **(ii)**
-        - **(I)** The amount which is otherwise allowable as a deduction under subsection (a) as qualified passenger vehicle loan interest (determined without regard to this clause and after the application of clause (i)) shall be reduced (but not below zero) by $200 for each $1,000 (or portion thereof) by which the modified adjusted gross income of the taxpayer for the taxable year exceeds $100,000 ($200,000 in the case of a joint return).
-        - **(II)** For purposes of this clause, the term “modified adjusted gross income” means the adjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section 911, 931, or 933.
-    - **(D)** The term “applicable passenger vehicle” means any vehicle—
-      - **(i)** the original use of which commences with the taxpayer,
-      - **(ii)** which is manufactured primarily for use on public streets, roads, and highways (not including a vehicle operated exclusively on a rail or rails),
-      - **(iii)** which has at least 2 wheels,
-      - **(iv)** which is a car, minivan, van, sport utility vehicle, pickup truck, or motorcycle,
-      - **(v)** which is treated as a motor vehicle for purposes of title II of the Clean Air Act, and
-      - **(vi)** which has a gross vehicle weight rating of less than 14,000 pounds.
-    - **(E)** For purposes of this paragraph—
-      - **(i)** For purposes of subparagraph (D), the term “final assembly” means the process by which a manufacturer produces a vehicle at, or through the use of, a plant, factory, or other place from which the vehicle is delivered to a dealer with all component parts necessary for the mechanical operation of the vehicle included with the vehicle, whether or not the component parts are permanently installed in or on the vehicle.
-      - **(ii)** Indebtedness described in subparagraph (B) shall include indebtedness that results from refinancing any indebtedness described in such subparagraph, and that is secured by a first lien on the applicable passenger vehicle with respect to which the refinanced indebtedness was incurred, but only to the extent the amount of such resulting indebtedness does not exceed the amount of such refinanced indebtedness.
-      - **(iii)** Indebtedness described in subparagraph (B) shall not include any indebtedness owed to a person who is related (within the meaning of section 267(b) or 707(b)(1)) to the taxpayer.
-  - **(5)** For purposes of this subsection—
+      - **(iv)** Section 108(h)(2) shall be applied without regard to this subparagraph.
+  - **(4)** For purposes of this subsection—
     - **(A)**
       - **(i)** The term “qualified residence” means—
         - **(I)** the principal residence (within the meaning of section 121) of the taxpayer, and
@@ -238,7 +211,7 @@ generated_at: "2026-03-29T20:05:22.230Z"
         - **(II)** the amount (if any) by which the business interest of the partnership, reduced by the floor plan financing interest, exceeds the business interest income of the partnership, bears to
       - **(ii)** the amount determined for the partnership under paragraph (1)(B).
     - **(D)** Rules similar to the rules of subparagraphs (A) and (C) shall apply with respect to any S corporation and its shareholders.
-  - **(5)** For purposes of this subsection, the term “business interest” means any interest paid or accrued on indebtedness properly allocable to a trade or business. Such term shall not include investment interest (within the meaning of subsection (d)). Such term shall not include any interest which is capitalized under section 263(g) or 263A(f).
+  - **(5)** For purposes of this subsection, the term “business interest” means any interest paid or accrued on indebtedness properly allocable to a trade or business. Such term shall not include investment interest (within the meaning of subsection (d)).
   - **(6)** For purposes of this subsection, the term “business interest income” means the amount of interest includible in the gross income of the taxpayer for the taxable year which is properly allocable to a trade or business. Such term shall not include investment income (within the meaning of subsection (d)).
   - **(7)** For purposes of this subsection—
     - **(A)** The term “trade or business” shall not include—
@@ -258,9 +231,8 @@ generated_at: "2026-03-29T20:05:22.230Z"
       - **(i)** any item of income, gain, deduction, or loss which is not properly allocable to a trade or business,
       - **(ii)** any business interest or business interest income,
       - **(iii)** the amount of any net operating loss deduction under section 172,
-      - **(iv)** the amount of any deduction allowed under section 199A,
-      - **(v)** any deduction allowable for depreciation, amortization, or depletion, and
-      - **(vi)** the amounts included in gross income under sections 951(a), 951A(a), and 78 (and the portion of the deductions allowed under sections 245A(a) (by reason of section 964(e)(4)) and 250(a)(1)(B) by reason of such inclusions), and
+      - **(iv)** the amount of any deduction allowed under section 199A, and
+      - **(v)** in the case of taxable years beginning before January 1, 2022 , any deduction allowable for depreciation, amortization, or depletion, and
     - **(B)** computed with such other adjustments as provided by the Secretary.
   - **(9)** For purposes of this subsection—
     - **(A)** The term “floor plan financing interest” means interest paid or accrued on floor plan financing indebtedness.
@@ -272,18 +244,6 @@ generated_at: "2026-03-29T20:05:22.230Z"
       - **(ii)** A boat.
       - **(iii)** Farm machinery or equipment.
   - **(10)**
-    - **(A)** In applying this subsection—
-      - **(i)** the limitation under paragraph (1) shall apply to business interest without regard to whether the taxpayer would otherwise deduct such business interest or capitalize such business interest under an interest capitalization provision, and
-      - **(ii)** any reference in this subsection to a deduction for business interest shall be treated as including a reference to the capitalization of business interest.
-    - **(B)** The amount allowed after taking into account the limitation described in paragraph (1)—
-      - **(i)** shall be applied first to the aggregate amount of business interest which would otherwise be capitalized, and
-      - **(ii)** the remainder (if any) shall be applied to the aggregate amount of business interest which would be deducted.
-    - **(C)** No portion of any business interest carried forward under paragraph (2) from any taxable year to any succeeding taxable year shall, for purposes of this title (including any interest capitalization provision which previously applied to such portion) be treated as interest to which an interest capitalization provision applies.
-    - **(D)** For purposes of this section, the term “interest capitalization provision” means any provision of this subtitle under which interest—
-      - **(i)** is required to be charged to capital account, or
-      - **(ii)** may be deducted or charged to capital account.
-  - **(11)** The Secretary shall issue such regulations or guidance as may be necessary or appropriate to carry out the purposes of this subsection, including regulations or guidance to determine which business interest is taken into account under this subsection and section 59A(c)(3).
-  - **(12)**
     - **(A)**
       - **(i)** Except as provided in clause (ii) or (iii), in the case of any taxable year beginning in 2019 or 2020, paragraph (1)(B) shall be applied by substituting “50 percent” for “30 percent”.
       - **(ii)** In the case of a partnership—
@@ -293,7 +253,7 @@ generated_at: "2026-03-29T20:05:22.230Z"
     - **(B)**
       - **(i)** Subject to clause (ii), in the case of any taxable year beginning in 2020, the taxpayer may elect to apply this subsection by substituting the adjusted taxable income of the taxpayer for the last taxable year beginning in 2019 for the adjusted taxable income for such taxable year. In the case of a partnership, any such election shall be made by the partnership.
       - **(ii)** If an election is made under clause (i) for a taxable year which is a short taxable year, the adjusted taxable income for the taxpayer’s last taxable year beginning in 2019 which is substituted under clause (i) shall be equal to the amount which bears the same ratio to such adjusted taxable income determined without regard to this clause as the number of months in the short taxable year bears to 12 2 2 So in original. Probably should be followed by a period.
-  - **(13)**
+  - **(11)**
     - **(A)** For requirement that an electing real property trade or business use the alternative depreciation system, see section 168(g)(1)(F).
     - **(B)** For requirement that an electing farming business use the alternative depreciation system, see section 168(g)(1)(G).
 - **(k)** No deduction shall be allowed under this section for any interest payable under section 6601 on any unpaid portion of the tax imposed by section 2001 for the period during which an extension of time for payment of such tax is in effect under section 6166.

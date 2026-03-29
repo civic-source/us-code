@@ -3,9 +3,9 @@ title: "Section 2717 - Litigation, jurisdiction, and venue"
 usc_title: 33
 usc_section: "2717"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "33 U.S.C. § 2717"
-generated_at: "2026-03-29T20:05:35.853Z"
+generated_at: "2026-03-29T20:33:34.315Z"
 ---
 
 # § 2717. Litigation, jurisdiction, and venue
@@ -27,4 +27,3 @@ generated_at: "2026-03-29T20:05:35.853Z"
   - **(5)** The time limitations contained herein shall not begin to run—
     - **(A)** against a minor until the earlier of the date when such minor reaches 18 years of age or the date on which a legal representative is duly appointed for such minor, or
     - **(B)** against an incompetent person until the earlier of the date on which such incompetent’s incompetency ends or the date on which a legal representative is duly appointed for such incompetent.
-- **(g)** Before the date of completion of a removal action, no person may bring an action under this Act, section 1321 of this title , or chapter 7 of title 5 challenging any decision relating to such removal action that is made by an on-scene coordinator appointed under the National Contingency Plan.

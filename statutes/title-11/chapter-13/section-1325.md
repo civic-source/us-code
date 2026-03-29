@@ -3,9 +3,9 @@ title: "Section 1325 - Confirmation of plan"
 usc_title: 11
 usc_section: "1325"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "11 U.S.C. § 1325"
-generated_at: "2026-03-29T20:03:14.819Z"
+generated_at: "2026-03-29T20:31:58.737Z"
 ---
 
 # § 1325. Confirmation of plan
@@ -34,7 +34,7 @@ generated_at: "2026-03-29T20:03:14.819Z"
   - **(1)** If the trustee or the holder of an allowed unsecured claim objects to the confirmation of the plan, then the court may not approve the plan unless, as of the effective date of the plan—
     - **(A)** the value of the property to be distributed under the plan on account of such claim is not less than the amount of such claim; or
     - **(B)** the plan provides that all of the debtor’s projected disposable income to be received in the applicable commitment period beginning on the date that the first payment is due under the plan will be applied to make payments to unsecured creditors under the plan.
-  - **(2)** For purposes of this subsection, the term “disposable income” means current monthly income received by the debtor (other than child support payments, foster care payments, or disability payments for a dependent child made in accordance with applicable nonbankruptcy law to the extent reasonably necessary to be expended for such child) less amounts reasonably necessary to be expended—
+  - **(2)** For purposes of this subsection, the term “disposable income” means current monthly income received by the debtor (other than payments made under Federal law relating to the national emergency declared by the President under the National Emergencies Act ( 50 U.S.C. 1601 et seq.) with respect to the coronavirus disease 2019 (COVID–19), child support payments, foster care payments, or disability payments for a dependent child made in accordance with applicable nonbankruptcy law to the extent reasonably necessary to be expended for such child) less amounts reasonably necessary to be expended—
     - **(A)**
       - **(i)** for the maintenance or support of the debtor or a dependent of the debtor, or for a domestic support obligation, that first becomes payable after the date the petition is filed; and
       - **(ii)** for charitable contributions (that meet the definition of “charitable contribution” under section 548(d)(3)) to a qualified religious or charitable entity or organization (as defined in section 548(d)(4)) in an amount not to exceed 15 percent of gross income of the debtor for the year in which the contributions are made; and

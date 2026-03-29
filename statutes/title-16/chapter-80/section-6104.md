@@ -3,9 +3,9 @@ title: "Section 6104 - Financial assistance"
 usc_title: 16
 usc_section: "6104"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 6104"
-generated_at: "2026-03-29T20:04:20.472Z"
+generated_at: "2026-03-29T20:32:45.493Z"
 ---
 
 # § 6104. Financial assistance
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T20:04:20.472Z"
   - **(7)** provides any other information that the Secretary considers to be necessary for evaluating the proposal.
 - **(d)** Each recipient of assistance for a project under this chapter shall submit to the Secretary such periodic reports as the Secretary considers to be necessary. Each report shall include all information required by the Secretary for evaluating the progress and outcome of the project.
 - **(e)**
-  - **(1)** The Federal share of the cost of each project shall be not greater than 33.3 percent.
+  - **(1)** The Federal share of the cost of each project shall be not greater than 25 percent.
   - **(2)**
     - **(A)** The non-Federal share required to be paid for a project shall not be derived from any Federal grant program.
     - **(B)**

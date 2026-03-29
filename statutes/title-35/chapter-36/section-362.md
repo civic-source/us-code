@@ -3,9 +3,9 @@ title: "Section 362 - International Searching Authority and International Prelim
 usc_title: 35
 usc_section: "362"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "35 U.S.C. § 362"
-generated_at: "2026-03-29T20:05:28.317Z"
+generated_at: "2026-03-29T20:33:36.605Z"
 ---
 
 # § 362. International Searching Authority and International Preliminary Examining Authority

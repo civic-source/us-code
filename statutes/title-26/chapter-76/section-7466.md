@@ -3,9 +3,9 @@ title: "Section 7466 - Judicial conduct and disability procedures"
 usc_title: 26
 usc_section: "7466"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 7466"
-generated_at: "2026-03-29T20:05:22.750Z"
+generated_at: "2026-03-29T20:33:27.373Z"
 ---
 
 # § 7466. Judicial conduct and disability procedures

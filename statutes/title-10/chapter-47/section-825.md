@@ -3,9 +3,9 @@ title: "Section 825 - Art. 25. Who may serve on courts-martial"
 usc_title: 10
 usc_section: "825"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 825"
-generated_at: "2026-03-29T20:03:09.503Z"
+generated_at: "2026-03-29T20:31:54.445Z"
 ---
 
 # § 825. Art. 25. Who may serve on courts-martial
@@ -20,12 +20,11 @@ generated_at: "2026-03-29T20:03:09.503Z"
   - **(3)** Except as provided in paragraph (4), after such a request, the accused may not be tried by a general or special court-martial if the membership of the court-martial is inconsistent with the request.
   - **(4)** If, because of physical conditions or military exigencies, a sufficient number of eligible officers or enlisted members, as the case may be, is not available to carry out paragraph (2), the trial may nevertheless be held. In that event, the convening authority shall make a detailed written statement of the reasons for nonavailability. The statement shall be appended to the record.
 - **(d)**
-  - **(1)** Except as provided in paragraph (2) for capital offenses, the accused in a court-martial with a military judge and members shall be sentenced by the military judge.
-  - **(2)** In a capital case, if the accused is convicted of an offense for which the court-martial may sentence the accused to death, the accused shall be sentenced in accordance with section 853(c) of this title (article 53(c)).
+  - **(1)** Except as provided in paragraph (2) for capital offenses, the accused in a court-martial with a military judge and members may, after the findings are announced and before any matter is presented in the sentencing phase, request, orally on the record or in writing, sentencing by members.
+  - **(2)** In a capital case, the accused shall be sentenced by the members for all offenses for which the court-martial may sentence the accused to death in accordance with section 853(c) of this title (article 53(c)).
   - **(3)** In a capital case, if the accused is convicted of a non-capital offense, the accused shall be sentenced for such non-capital offense in accordance with section 853(b) of this title (article 53(b)), regardless of whether the accused is convicted of an offense for which the court-martial may sentence the accused to death.
 - **(e)**
-  - **(1)** When it can be avoided, no member of an armed force may be tried by a court-martial any member of which is junior to the member being tried in rank or grade.
-  - **(2)** When convening a court-martial, the convening authority shall detail as members thereof such members of the armed forces as, in the opinion of the convening authority, are best qualified for the duty by reason of age, education, training, experience, length of service, and judicial temperament. No member of an armed force is eligible to serve as a member of a general or special court-martial when the member is the accuser or a witness for the prosecution or has acted as preliminary hearing officer or as counsel in the same case.
+  - **(1)** When it can be avoided, no member of an armed force may be tried by a court-martial any member of which is junior to him in rank or grade.
+  - **(2)** When convening a court-martial, the convening authority shall detail as members thereof such members of the armed forces as, in his opinion, are best qualified for the duty by reason of age, education, training, experience, length of service, and judicial temperament. No member of an armed force is eligible to serve as a member of a general or special court-martial when he is the accuser or a witness for the prosecution or has acted as preliminary hearing officer or as counsel in the same case.
   - **(3)** The convening authority shall detail not less than the number of members necessary to impanel the court-martial under section 829 of this title (article 29).
-  - **(4)** When convening a court-martial, the convening authority shall detail as members thereof members of the armed forces under such regulations as the President may prescribe for the randomized selection of qualified personnel, to the maximum extent practicable.
-- **(f)** Before a court-martial is assembled for the trial of a case, the convening authority may excuse a member of the court from participating in the case. Under such regulations as the Secretary concerned may prescribe, the convening authority may delegate the authority of the convening authority under this subsection to the staff judge advocate or legal officer of the convening authority or to any other principal assistant.
+- **(f)** Before a court-martial is assembled for the trial of a case, the convening authority may excuse a member of the court from participating in the case. Under such regulations as the Secretary concerned may prescribe, the convening authority may delegate his authority under this subsection to his staff judge advocate or legal officer or to any other principal assistant.

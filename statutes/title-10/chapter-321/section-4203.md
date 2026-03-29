@@ -3,9 +3,9 @@ title: "Section 4203 - Major subprograms"
 usc_title: 10
 usc_section: "4203"
 chapter: 321
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 4203"
-generated_at: "2026-03-29T20:03:09.782Z"
+generated_at: "2026-03-29T20:31:54.689Z"
 ---
 
 # § 4203. Major subprograms
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T20:03:09.782Z"
     - **(B)** for each major subprogram of the major defense acquisition program so designated.
   - **(2)** For a major defense acquisition program for which a designation of a major subprogram has been made under subsection (a), unit costs under this subpart shall be submitted in accordance with the definitions in subsection (d).
 - **(c)** If a subprogram of a major defense acquisition program is designated as a major subprogram under subsection (a), all other elements of the major defense acquisition program shall be appropriately organized into one or more subprograms under the major defense acquisition program, each of which subprograms, as so organized, shall be treated as a major subprogram under subsection (a).
-- **(d)** Notwithstanding paragraphs (1) and (2) of section 4351(a) of this title , in the case of a major defense acquisition program for which the Secretary has designated one or more major subprograms under this section for the purposes of this subpart—
+- **(d)** Notwithstanding paragraphs (1) and (2) of section 4351 of this title , in the case of a major defense acquisition program for which the Secretary has designated one or more major subprograms under this section for the purposes of this subpart—
   - **(1)** the term “program acquisition unit cost” applies at the level of the subprogram and means the total cost for the development and procurement of, and specific military construction for, the major defense acquisition program that is reasonably allocable to each such major subprogram, divided by the relevant number of fully-configured end items to be produced under such major subprogram;
   - **(2)** the term “procurement unit cost” applies at the level of the subprogram and means the total of all funds programmed to be available for obligation for procurement for each such major subprogram, divided by the number of fully-configured end items to be procured under such major subprogram;
   - **(3)** the term “major contract”, with respect to a designated major subprogram, means each of the six largest prime, associate, or Government furnished equipment contracts under the subprogram that is in excess of $40,000,000 and that is not a firm-fixed price contract; and

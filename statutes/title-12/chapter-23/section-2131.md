@@ -3,9 +3,9 @@ title: "Section 2131 - Loans"
 usc_title: 12
 usc_section: "2131"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "12 U.S.C. § 2131"
-generated_at: "2026-03-29T20:03:45.819Z"
+generated_at: "2026-03-29T20:32:15.082Z"
 ---
 
 # § 2131. Loans

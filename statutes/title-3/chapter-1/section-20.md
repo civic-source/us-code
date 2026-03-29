@@ -3,9 +3,9 @@ title: "Section 20 - Resignation or refusal of office"
 usc_title: 3
 usc_section: "20"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "3 U.S.C. § 20"
-generated_at: "2026-03-29T20:02:12.937Z"
+generated_at: "2026-03-29T20:31:19.808Z"
 ---
 
 # § 20. Resignation or refusal of office

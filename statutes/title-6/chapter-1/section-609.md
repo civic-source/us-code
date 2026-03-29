@@ -3,9 +3,9 @@ title: "Section 609 - Use of funds"
 usc_title: 6
 usc_section: "609"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "6 U.S.C. § 609"
-generated_at: "2026-03-29T20:02:42.028Z"
+generated_at: "2026-03-29T20:31:30.658Z"
 ---
 
 # § 609. Use of funds
@@ -47,19 +47,9 @@ generated_at: "2026-03-29T20:02:42.028Z"
         - **(II)** any construction work occurs under terms and conditions consistent with the requirements under section 5196(j)(9) of title 42 ; and
         - **(III)** the amount allocated for purposes under clause (i) does not exceed the greater of $1,000,000 or 15 percent of the grant award.
   - **(5)** Grants awarded under this part may not be used for recreational or social purposes.
-- **(c)** Nothing in this part shall be construed to prohibit State, local, or tribal governments from using grant funds under sections 604, 605, and 609a of this title in a manner that enhances preparedness for disasters unrelated to acts of terrorism, if such use assists such governments in achieving target capabilities related to preventing, preparing for, protecting against, or responding to acts of terrorism.
+- **(c)** Nothing in this part shall be construed to prohibit State, local, or tribal governments from using grant funds under sections 604 and 605 of this title in a manner that enhances preparedness for disasters unrelated to acts of terrorism, if such use assists such governments in achieving target capabilities related to preventing, preparing for, protecting against, or responding to acts of terrorism.
 - **(d)**
   - **(1)** In addition to the activities described in subsection (a), a grant under section 604 or 605 of this title may be used to provide a reasonable stipend to paid-on-call or volunteer emergency response providers who are not otherwise compensated for travel to or participation in training or exercises related to the purposes of this part. Any such reimbursement shall not be considered compensation for purposes of rendering an emergency response provider an employee under the Fair Labor Standards Act of 1938 ( 29 U.S.C. 201 et seq.).
   - **(2)** An applicant for a grant under section 604 or 605 of this title may petition the Administrator to use the funds from its grants under those sections for the reimbursement of the cost of any activity relating to preventing, preparing for, protecting against, or responding to acts of terrorism that is a Federal duty and usually performed by a Federal agency, and that is being performed by a State or local government under agreement with a Federal agency.
-- **(e)** Upon request by the recipient of a grant under section 604, 605, or 609a of this title, the Administrator may authorize the grant recipient to transfer all or part of the grant funds from uses specified in the grant agreement to other uses authorized under this section, if the Administrator determines that such transfer is in the interests of homeland security.
-- **(f)**
-  - **(1)** If an applicant for a grant under section 604 or 605 of this title proposes to upgrade or purchase, with assistance provided under that grant, new equipment or systems that do not meet or exceed any applicable national voluntary consensus standards developed under section 747 of this title , the applicant shall include in its application an explanation of why such equipment or systems will serve the needs of the applicant better than equipment or systems that meet or exceed such standards.
-  - **(2)** The Administrator shall implement a uniform process for reviewing applications that, in accordance with paragraph (1), contain explanations to use grants provided under section 604 or 605 of this title to purchase equipment or systems that do not meet or exceed any applicable national voluntary consensus standards developed under section 747 of this title .
-  - **(3)** In carrying out the review process under paragraph (2), the Administrator shall consider the following:
-    - **(A)** Current or past use of proposed equipment or systems by Federal agencies or the Armed Forces.
-    - **(B)** The absence of a national voluntary consensus standard for such equipment or systems.
-    - **(C)** The existence of an international consensus standard for such equipment or systems, and whether such equipment or systems meets such standard.
-    - **(D)** The nature of the capability gap identified by the applicant and how such equipment or systems will address such gap.
-    - **(E)** The degree to which such equipment or systems will serve the needs of the applicant better than equipment or systems that meet or exceed existing consensus standards.
-    - **(F)** Any other factor determined appropriate by the Administrator.
-- **(g)** The Administrator shall implement a uniform process for reviewing applications to use grants provided under section 604 or 605 of this title to purchase equipment or systems not included on the Authorized Equipment List maintained by the Administrator.
+- **(e)** Upon request by the recipient of a grant under section 604 or 605 of this title, the Administrator may authorize the grant recipient to transfer all or part of the grant funds from uses specified in the grant agreement to other uses authorized under this section, if the Administrator determines that such transfer is in the interests of homeland security.
+- **(f)** If an applicant for a grant under section 604 or 605 of this title proposes to upgrade or purchase, with assistance provided under that grant, new equipment or systems that do not meet or exceed any applicable national voluntary consensus standards developed under section 747 of this title , the applicant shall include in its application an explanation of why such equipment or systems will serve the needs of the applicant better than equipment or systems that meet or exceed such standards.

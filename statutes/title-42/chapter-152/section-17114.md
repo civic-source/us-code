@@ -3,9 +3,9 @@ title: "Section 17114 - Industrial Technology Innovation Advisory Committee"
 usc_title: 42
 usc_section: "17114"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 17114"
-generated_at: "2026-03-29T20:07:44.943Z"
+generated_at: "2026-03-29T20:34:54.269Z"
 ---
 
 # § 17114. Industrial Technology Innovation Advisory Committee
@@ -24,8 +24,8 @@ generated_at: "2026-03-29T20:07:44.943Z"
     - **(C)** not less than 2 representatives of labor groups;
     - **(D)** not less than 3 representatives of the research community, which shall include academia and National Laboratories;
     - **(E)** not less than 2 representatives of nongovernmental organizations;
-    - **(F)** 1 1 So in original. There are two subpars. (F). not less than 6 representatives of small- and large-scale industry, the collective expertise of which shall cover every focus area described in section 17113(c) of this title ; and 2 2 So in original. The word “and” probably should not appear.
-    - **(F)** 1 not less than 1 representative of a State government; and
+    - **(F)** not less than 6 representatives of small- and large-scale industry, the collective expertise of which shall cover every focus area described in section 17113(c) of this title ; and
+    - **(F)** not less than 1 representative of a State government; and
     - **(G)** any other individuals the Secretary, in coordination with the Director, determines to be necessary to ensure that the Committee is comprised of a diverse group of representatives of industry, academia, independent researchers, and public and private entities.
   - **(3)** The Secretary shall designate a member of the Committee to serve as Chair.
 - **(d)**
@@ -65,4 +65,4 @@ generated_at: "2026-03-29T20:07:44.943Z"
     - **(J)** an assessment of the extent to which progress has been made under the program in developing commercial, cost-competitive technologies in each focus area described in section 17113(c) of this title ; and
     - **(K)** an assessment of the effectiveness of the program in coordinating efforts within the Department and with other Federal agencies to achieve the purposes of the program.
 - **(g)** Not later than 60 days after receiving a report from the Committee under subsection (f), the Secretary shall submit a copy of that report to the Committees on Appropriations and Science, Space, and Technology of the House of Representatives, the Committees on Appropriations and Energy and Natural Resources of the Senate, and any other relevant Committee of Congress.
-- **(h)** Except as otherwise provided in this section, the Federal Advisory Committee Act (5 U.S.C. App.) 3 3 See References in Text note below. shall apply to the Committee.
+- **(h)** Except as otherwise provided in this section, the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Committee.

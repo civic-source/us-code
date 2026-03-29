@@ -3,9 +3,9 @@ title: "Section 48 - Lands in Michigan, Wisconsin, and Minnesota; sale and dispo
 usc_title: 30
 usc_section: "48"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "30 U.S.C. § 48"
-generated_at: "2026-03-29T20:05:08.679Z"
+generated_at: "2026-03-29T20:33:07.324Z"
 ---
 
 # § 48. Lands in Michigan, Wisconsin, and Minnesota; sale and disposal as public lands

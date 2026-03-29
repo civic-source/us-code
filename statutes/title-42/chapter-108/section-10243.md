@@ -3,9 +3,9 @@ title: "Section 10243 - Duties of Negotiator"
 usc_title: 42
 usc_section: "10243"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 10243"
-generated_at: "2026-03-29T20:07:44.692Z"
+generated_at: "2026-03-29T20:34:54.036Z"
 ---
 
 # § 10243. Duties of Negotiator

@@ -3,9 +3,9 @@ title: "Section 1144 - Employment assistance, job training assistance, and other
 usc_title: 10
 usc_section: "1144"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 1144"
-generated_at: "2026-03-29T20:03:09.573Z"
+generated_at: "2026-03-29T20:31:54.496Z"
 ---
 
 # § 1144. Employment assistance, job training assistance, and other transitional services: Department of Labor
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T20:03:09.573Z"
   - **(2)** The Secretary of Defense, the Secretary of Homeland Security, and the Secretary of Veterans Affairs shall cooperate with the Secretary of Labor in establishing and maintaining the program under this section.
   - **(3)** The Secretaries referred to in paragraph (1) shall enter into a detailed agreement to carry out this section.
 - **(b)** In establishing and carrying out a program under this section, the Secretary of Labor shall do the following:
-  - **(1)** Provide information concerning employment and training assistance, including (A) labor market information, (B) civilian work place requirements and employment opportunities (including apprenticeship programs approved under chapters 30 through 36 of title 38), (C) instruction in resumé preparation, and (D) job analysis techniques, job search techniques, and job interview techniques.
+  - **(1)** Provide information concerning employment and training assistance, including (A) labor market information, (B) civilian work place requirements and employment opportunities, (C) instruction in resumé preparation, and (D) job analysis techniques, job search techniques, and job interview techniques.
   - **(2)** In providing information under paragraph (1), use experience obtained from implementation of the pilot program established under section 408 of Public Law 101–237 .
   - **(3)** Provide information concerning Federal, State, and local programs, and programs of military and veterans’ service organizations, that may be of assistance to such members after separation from the armed forces, including, as appropriate, the information and services to be provided under section 1142 of this title .
   - **(4)** Inform such members that the Department of Defense and the Department of Homeland Security are required under section 1143(a) of this title to provide proper certification or verification of job skills and experience acquired while on active duty that may have application to employment in the civilian sector for use in seeking civilian employment and in obtaining job search skills.

@@ -3,9 +3,9 @@ title: "Section 2206 - Regulations"
 usc_title: 44
 usc_section: "2206"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "44 U.S.C. § 2206"
-generated_at: "2026-03-29T20:06:03.286Z"
+generated_at: "2026-03-29T20:34:08.939Z"
 ---
 
 # § 2206. Regulations

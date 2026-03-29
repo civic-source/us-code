@@ -3,9 +3,9 @@ title: "Section 5703 - Certification of records of District of Columbia"
 usc_title: 38
 usc_section: "5703"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "38 U.S.C. § 5703"
-generated_at: "2026-03-29T20:05:54.758Z"
+generated_at: "2026-03-29T20:34:04.983Z"
 ---
 
 # § 5703. Certification of records of District of Columbia

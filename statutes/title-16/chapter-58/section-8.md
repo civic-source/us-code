@@ -3,9 +3,9 @@ title: "Section 8 - Conservation innovation grants and payments"
 usc_title: 16
 usc_section: "8"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 8"
-generated_at: "2026-03-29T20:04:20.433Z"
+generated_at: "2026-03-29T20:32:45.449Z"
 ---
 
 # § 3839aa–8. Conservation innovation grants and payments
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T20:04:20.433Z"
     - **(H)** facilitate pilot testing of new technologies or innovative conservation practices.
 - **(b)**
   - **(1)** The Secretary shall provide payments under this subsection to producers to implement practices to address air quality concerns from agricultural operations and to meet Federal, State, and local regulatory requirements. The funds shall be made available on the basis of air quality concerns in a State and shall be used to provide payments to producers that are cost effective and reflect innovative technologies.
-  - **(2)** Of the funds made available to carry out this subpart, the Secretary shall carry out this subsection using $37,500,000 for each of fiscal years 2019 through 2031.
+  - **(2)** Of the funds made available to carry out this subpart, the Secretary shall carry out this subsection using $37,500,000 for each of fiscal years 2019 through 2023.
 - **(c)**
   - **(1)** In this subsection:
     - **(A)** The term “eligible entity” means, as determined by the Secretary—
@@ -42,7 +42,7 @@ generated_at: "2026-03-29T20:04:20.433Z"
         - **(VI)** cover crops; and
         - **(VII)** irrigation systems; and
       - **(ii)** any other conservation approach approved by the Secretary as new or innovative.
-  - **(2)** Using $25,000,000 of the funds made available to carry out this subpart for each of fiscal years 2019 through 2031, the Secretary shall carry out on-farm conservation innovation trials, on eligible land of producers, to test new or innovative conservation approaches—
+  - **(2)** Using $25,000,000 of the funds made available to carry out this subpart for each of fiscal years 2019 through 2023, the Secretary shall carry out on-farm conservation innovation trials, on eligible land of producers, to test new or innovative conservation approaches—
     - **(A)** directly with producers; or
     - **(B)** through eligible entities.
   - **(3)**

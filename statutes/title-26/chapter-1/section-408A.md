@@ -3,9 +3,9 @@ title: "Section 408A - Roth IRAs"
 usc_title: 26
 usc_section: "408A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 408A"
-generated_at: "2026-03-29T20:05:22.317Z"
+generated_at: "2026-03-29T20:33:26.942Z"
 ---
 
 # § 408A. Roth IRAs
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T20:05:22.317Z"
 - **(c)**
   - **(1)** No deduction shall be allowed under section 219 for a contribution to a Roth IRA.
   - **(2)** The aggregate amount of contributions for any taxable year to all Roth IRAs maintained for the benefit of an individual shall not exceed the excess (if any) of—
-    - **(A)** the maximum amount allowable as a deduction under section 219 with respect to such individual for such taxable year (computed without regard to subsection (g) of such section), over
+    - **(A)** the maximum amount allowable as a deduction under section 219 with respect to such individual for such taxable year (computed without regard to subsection (d)(1) 1 1 See References in Text note below. or (g) of such section), over
     - **(B)** the aggregate amount of contributions for such taxable year to all other individual retirement plans (other than Roth IRAs) maintained for the benefit of the individual.
   - **(3)**
     - **(A)** The amount determined under paragraph (2) for any taxable year shall not exceed an amount equal to the amount determined under paragraph (2)(A) for such taxable year, reduced (but not below zero) by the amount which bears the same ratio to such amount as—
@@ -33,17 +33,12 @@ generated_at: "2026-03-29T20:05:22.317Z"
     - **(D)** In the case of any taxable year beginning in a calendar year after 2006, the dollar amounts in subclauses (I) and (II) of subparagraph (B)(ii) shall each be increased by an amount equal to—
       - **(i)** such dollar amount, multiplied by
       - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2005” for “calendar year 2016” in subparagraph (A)(ii) thereof.
-    - **(E)** The amount determined under subparagraph (A) shall be increased by the lesser of—
-      - **(i)** the amount of contributions described in section 529(c)(3)(E) for the taxable year, or
-      - **(ii)** the amount of the reduction determined under such subparagraph (determined without regard to this subparagraph).
   - **(4)** Notwithstanding subsections (a)(6) and (b)(3) of section 408 (relating to required distributions), the following provisions shall not apply to any Roth IRA:
     - **(A)** Section 401(a)(9)(A).
     - **(B)** The incidental death benefit requirements of section 401(a).
   - **(5)**
     - **(A)** No rollover contribution may be made to a Roth IRA unless it is a qualified rollover contribution.
-    - **(B)**
-      - **(i)** A qualified rollover contribution shall not be taken into account for purposes of paragraph (2).
-      - **(ii)** Clause (i) shall not apply to any qualified rollover contribution described in subsection (e)(1)(C).
+    - **(B)** A qualified rollover contribution shall not be taken into account for purposes of paragraph (2).
   - **(6)** For purposes of this section, the rule of section 219(f)(3) shall apply.
 - **(d)** For purposes of this title—
   - **(1)** Any qualified distribution from a Roth IRA shall not be includible in gross income.
@@ -53,7 +48,7 @@ generated_at: "2026-03-29T20:05:22.317Z"
       - **(ii)** made to a beneficiary (or to the estate of the individual) on or after the death of the individual,
       - **(iii)** attributable to the individual’s being disabled (within the meaning of section 72(m)(7)), or
       - **(iv)** which is a qualified special purpose distribution.
-    - **(B)** A payment or distribution from a Roth IRA shall not be treated as a qualified distribution under subparagraph (A) if such payment or distribution is made within the 5-taxable year period beginning with the first taxable year for which the individual made a contribution to a Roth IRA (or such individual’s spouse, or employer in the case of a simple retirement account (as defined in section 408(p)) or simplified employee pension (as defined in section 408(k)), made a contribution to a Roth IRA) established for such individual.
+    - **(B)** A payment or distribution from a Roth IRA shall not be treated as a qualified distribution under subparagraph (A) if such payment or distribution is made within the 5-taxable year period beginning with the first taxable year for which the individual made a contribution to a Roth IRA (or such individual’s spouse made a contribution to a Roth IRA) established for such individual.
     - **(C)** The term “qualified distribution” shall not include any distribution of any contribution described in section 408(d)(4) and any net income allocable to the contribution.
   - **(3)**
     - **(A)** Notwithstanding sections 402(c), 403(b)(8), 408(d)(3), and 457(e)(16), in the case of any distribution to which this paragraph applies—
@@ -95,12 +90,13 @@ generated_at: "2026-03-29T20:05:22.317Z"
     - **(A)** to a Roth IRA from another such account,
     - **(B)** from an eligible retirement plan, but only if—
       - **(i)** in the case of an individual retirement plan, such rollover contribution meets the requirements of section 408(d)(3), and
-      - **(ii)** in the case of any eligible retirement plan (as defined in section 402(c)(8)(B) other than clauses (i) and (ii) thereof), such rollover contribution meets the requirements of section 402(c), 403(b)(8), or 457(e)(16), as applicable, and
-    - **“(C)** from a qualified tuition program to the extent provided in section 529(c)(3)(E). For purposes of section 408(d)(3)(B), there shall be disregarded any qualified rollover contribution from an individual retirement plan (other than a Roth IRA) to a Roth IRA. The earnings and contributions of any qualified tuition program from which a qualified rollover contribution is made under subparagraph (C) shall be treated in the same manner as the earnings and contributions of a Roth IRA from which a qualified rollover contribution is made under subparagraph (A).
+      - **(ii)** in the case of any eligible retirement plan (as defined in section 402(c)(8)(B) other than clauses (i) and (ii) thereof), such rollover contribution meets the requirements of section 402(c), 403(b)(8), or 457(e)(16), as applicable.
   - **(2)**
     - **(A)** The term “qualified rollover contribution” includes a contribution to a Roth IRA maintained for the benefit of an individual made before the end of the 1-year period beginning on the date on which such individual receives an amount under section 1477 of title 10 , United States Code, or section 1967 of title 38 of such Code, with respect to a person, to the extent that such contribution does not exceed—
       - **(i)** the sum of the amounts received during such period by such individual under such sections with respect to such person, reduced by
       - **(ii)** the amounts so received which were contributed to a Coverdell education savings account under section 530(d)(9).
     - **(B)** Section 408(d)(3)(B) shall not apply with respect to amounts treated as a rollover by subparagraph (A).
     - **(C)** For purposes of applying section 72 in the case of a distribution which is not a qualified distribution, the amount treated as a rollover by reason of subparagraph (A) shall be treated as investment in the contract.
-  - **(3)** In the case of any payment or distribution out of a simple retirement account (as defined in section 408(p)) with respect to which an election has been made under section 408(p)(12) and to which 72(t)(6) applies, the term “qualified rollover contribution” shall not include any payment or distribution paid into an account other than another simple retirement account (as so defined).
+- **(f)** For purposes of this section—
+  - **(1)** a simplified employee pension or a simple retirement account may not be designated as a Roth IRA; and
+  - **(2)** contributions to any such pension or account shall not be taken into account for purposes of subsection (c)(2)(B).

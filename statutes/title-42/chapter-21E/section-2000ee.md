@@ -3,9 +3,9 @@ title: "Section 2000ee - Privacy and Civil Liberties Oversight Board"
 usc_title: 42
 usc_section: "2000ee"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 2000ee"
-generated_at: "2026-03-29T20:07:44.130Z"
+generated_at: "2026-03-29T20:34:53.472Z"
 ---
 
 # § 2000ee. Privacy and Civil Liberties Oversight Board
@@ -75,13 +75,11 @@ generated_at: "2026-03-29T20:07:44.130Z"
   - **(1)** The Board shall be composed of a full-time chairman and 4 additional members, who shall be appointed by the President, by and with the advice and consent of the Senate.
   - **(2)** Members of the Board shall be selected solely on the basis of their professional qualifications, achievements, public stature, expertise in civil liberties and privacy, and relevant experience, and without regard to political affiliation, but in no event shall more than 3 members of the Board be members of the same political party. The President shall, before appointing an individual who is not a member of the same political party as the President, consult with the leadership of that party, if any, in the Senate and House of Representatives.
   - **(3)** An individual appointed to the Board may not, while serving on the Board, be an elected official, officer, or employee of the Federal Government, other than in the capacity as a member of the Board.
-  - **(4)**
-    - **(A)** Each member of the Board shall serve a term of 6 years, commencing on the date of the appointment of the member to the Board.
-    - **(B)** A member may be reappointed to one or more additional terms.
-    - **(C)** A vacancy on the Board shall be filled in the manner in which the original appointment was made.
-    - **(D)** Upon the expiration of the term of office of a member, the member may continue to serve for up to one year after the date of expiration, at the election of the member—
-      - **(i)** during the period preceding the reappointment of the member pursuant to subparagraph (B); or
-      - **(ii)** until the member’s successor has been appointed and qualified.
+  - **(4)** Each member of the Board shall serve a term of 6 years, except that—
+    - **(A)** a member appointed to a term of office after the commencement of such term may serve under such appointment only for the remainder of such term; and
+    - **(B)** upon the expiration of the term of office of a member, the member shall continue to serve until the member’s successor has been appointed and qualified, except that no member may serve under this subparagraph—
+      - **(i)** for more than 60 days when Congress is in session unless a nomination to fill the vacancy shall have been submitted to the Senate; or
+      - **(ii)** after the adjournment sine die of the session of the Senate in which such nomination is submitted.
   - **(5)** The Board shall meet upon the call of the chairman or a majority of its members. Three members of the Board shall constitute a quorum.
 - **(i)**
   - **(1)**
@@ -98,7 +96,7 @@ generated_at: "2026-03-29T20:07:44.130Z"
   - **(2)** After consultation with the Secretary of Defense, the Attorney General, and the Director of National Intelligence, the Board shall adopt rules and procedures of the Board for physical, communications, computer, document, personnel, and other security relating to carrying out the functions of the Board.
 - **(l)** The Board—
   - **(1)** is an agency (as defined in section 551(1) of title 5 ); and
-  - **(2)** is not an advisory committee (as defined in section 1001(2) of title 5 ).
+  - **(2)** is not an advisory committee (as defined in section 3(2) of the Federal Advisory Committee Act (5 U.S.C. App.)).
 - **(m)** There are authorized to be appropriated to carry out this section amounts as follows:
   - **(1)** For fiscal year 2008, $5,000,000.
   - **(2)** For fiscal year 2009, $6,650,000.

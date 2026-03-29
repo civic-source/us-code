@@ -3,9 +3,9 @@ title: "Section 7636 - Exemption of educational assistance payments from taxatio
 usc_title: 38
 usc_section: "7636"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "38 U.S.C. § 7636"
-generated_at: "2026-03-29T20:05:54.793Z"
+generated_at: "2026-03-29T20:34:05.012Z"
 ---
 
 # § 7636. Exemption of educational assistance payments from taxation

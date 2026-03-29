@@ -3,9 +3,9 @@ title: "Section 8117 - Emergency preparedness"
 usc_title: 38
 usc_section: "8117"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "38 U.S.C. § 8117"
-generated_at: "2026-03-29T20:05:54.801Z"
+generated_at: "2026-03-29T20:34:05.020Z"
 ---
 
 # § 8117. Emergency preparedness
@@ -42,4 +42,4 @@ generated_at: "2026-03-29T20:05:54.801Z"
     - **(A)** Training and certification of providers of mental health counseling and assistance.
     - **(B)** Mechanisms for coordinating the provision of mental health counseling and assistance to emergency response providers referred to in paragraph (1).
   - **(3)** The Secretary shall develop and maintain the strategies under paragraph (1) in consultation with the Secretary of Health and Human Services, the American Red Cross, and the working group referred to in subsection (e)(2).
-- **(g)** There are authorized to be appropriated, $155,300,000 for each of fiscal years 2019 through 2028 to carry out this section.
+- **(g)** There are authorized to be appropriated, $155,300,000 for each of fiscal years 2019 through 2023 to carry out this section.

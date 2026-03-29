@@ -3,9 +3,9 @@ title: "Section 316k - Penalties"
 usc_title: 43
 usc_section: "316k"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "43 U.S.C. § 316k"
-generated_at: "2026-03-29T20:05:59.969Z"
+generated_at: "2026-03-29T20:34:16.678Z"
 ---
 
 # § 316k. Penalties

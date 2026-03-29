@@ -3,9 +3,9 @@ title: "Section 10369 - Research agreement authority"
 usc_title: 42
 usc_section: "10369"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 10369"
-generated_at: "2026-03-29T20:07:44.699Z"
+generated_at: "2026-03-29T20:34:54.043Z"
 ---
 
 # § 10369. Research agreement authority

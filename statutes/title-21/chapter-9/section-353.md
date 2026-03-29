@@ -3,9 +3,9 @@ title: "Section 353 - Exemptions and consideration for certain drugs, devices, a
 usc_title: 21
 usc_section: "353"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "21 U.S.C. § 353"
-generated_at: "2026-03-29T20:04:50.409Z"
+generated_at: "2026-03-29T20:32:52.476Z"
 ---
 
 # § 353. Exemptions and consideration for certain drugs, devices, and biological products
@@ -225,20 +225,3 @@ generated_at: "2026-03-29T20:04:50.409Z"
         - **(I)** the structured process for managing pre-submission interactions with sponsors developing combination products;
         - **(II)** the best practices for ensuring that the feedback in such pre-submission interactions represents the Agency’s best advice based on the information provided during such pre-submission interactions; 2 2 So in original. The word “and” probably should appear.
         - **(III)** the information that is required to be submitted with a meeting request under paragraph (2), how such meetings relate to other types of meetings in the Food and Drug Administration, and the form and content of any agreement reached through a meeting under such paragraph (2); 3 3 So in original. The semicolon probably should be a period.
-- **(h)**
-  - **(1)** Any contrast agent, radioactive drug, or OTC monograph drug shall be deemed to be a drug under section 321(g) of this title and not a device under section 321(h) of this title .
-  - **(2)** For purposes of this subsection:
-    - **(A)** The term “contrast agent” means an article that is intended for use in conjunction with a medical imaging device, and—
-      - **(i)** is a diagnostic radiopharmaceutical, as defined in sections 315.2 and 601.31 of title 21, Code of Federal Regulations (or any successor regulations); or
-      - **(ii)** is a diagnostic agent that improves the visualization of structure or function within the body by increasing the relative difference in signal intensity within the target tissue, structure, or fluid.
-    - **(B)** The term “radioactive drug” has the meaning given such term in section 310.3(n) of title 21, Code of Federal Regulations (or any successor regulations), except that such term does not include—
-      - **(i)** an implant or article similar to an implant;
-      - **(ii)** an article that applies radiation from outside of the body; or
-      - **(iii)** the radiation source of an article described in clause (i) or (ii).
-    - **(C)** The term “OTC monograph drug” has the meaning given such term in section 379j–71 of this title .
-  - **(3)** Nothing in this subsection shall be construed as allowing for the classification of a product as a drug (as defined in section 321(g) of this title ) if such product—
-    - **(A)** is not described in paragraph (1); and
-    - **(B)** meets the definition of a device under section 321(h) of this title ,
-  - **(4)** The Secretary shall waive the application fee under sections 379h and 379j–42 of this title for applications for drugs that are—
-    - **(A)** on September 30, 2022 , legally marketed as devices; and
-    - **(B)** deemed drugs pursuant to paragraph (1) 5 5 So in original. Probably should be followed by a period.

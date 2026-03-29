@@ -3,15 +3,15 @@ title: "Section 6371k - Coordination of energy retrofitting assistance for schoo
 usc_title: 42
 usc_section: "6371k"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 6371k"
-generated_at: "2026-03-29T20:07:44.425Z"
+generated_at: "2026-03-29T20:34:53.739Z"
 ---
 
 # § 6371k. Coordination of energy retrofitting assistance for schools
 
 - **(a)** In this section, the term “school” means—
-  - **(1)** an elementary school or secondary school (as defined in section 7801 of title 20 );
+  - **(1)** an elementary school or secondary school (as defined in section 8101 7801 of title 20);
   - **(2)** an institution of higher education (as defined in section 1001(a) of title 20 );
   - **(3)** a postsecondary vocational institution (as defined in section 1002(c) of title 20 );
   - **(4)** a school of the defense dependents’ education system under the Defense Dependents’ Education Act of 1978 ( 20 U.S.C. 921 et seq.) or established under section 2164 of title 10 ;

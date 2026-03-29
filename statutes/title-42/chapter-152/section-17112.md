@@ -3,9 +3,9 @@ title: "Section 17112 - Energy efficiency for data center buildings"
 usc_title: 42
 usc_section: "17112"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 17112"
-generated_at: "2026-03-29T20:07:44.941Z"
+generated_at: "2026-03-29T20:34:54.268Z"
 ---
 
 # § 17112. Energy efficiency for data center buildings
@@ -55,5 +55,5 @@ generated_at: "2026-03-29T20:07:44.941Z"
   - **(1)** The Secretary, in collaboration with key stakeholders and the Director of the Office of Management and Budget, shall establish an open data initiative relating to energy usage at federally owned and operated data centers, with the purpose of making the data available and accessible in a manner that encourages further data center innovation, optimization, and consolidation.
   - **(2)** In establishing the initiative under paragraph (1), the Secretary shall consider using the online Data Center Maturity Model.
 - **(h)** The Secretary, in collaboration with key stakeholders, shall actively participate in efforts to harmonize global specifications and metrics for data center energy and water efficiency.
-- **(i)** The Secretary, in collaboration with key stakeholders, shall facilitate in the development of an efficiency metric that measures the energy efficiency of a data center (including equipment and facilities).
+      - **(i)** The Secretary, in collaboration with key stakeholders, shall facilitate in the development of an efficiency metric that measures the energy efficiency of a data center (including equipment and facilities).
 - **(j)** The Secretary and the Administrator shall not disclose any proprietary information or trade secrets provided by any individual or company for the purposes of carrying out this section or the programs and initiatives established under this section.

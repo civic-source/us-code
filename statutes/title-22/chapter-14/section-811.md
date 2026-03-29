@@ -3,9 +3,9 @@ title: "Section 811 - Repealed. May 26, 1949, ch. 143, § 5 , 63 Stat. 111"
 usc_title: 22
 usc_section: "811"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 811"
-generated_at: "2026-03-29T20:04:46.696Z"
+generated_at: "2026-03-29T20:32:59.900Z"
 ---
 
 # § 811. Repealed. May 26, 1949, ch. 143, § 5 , 63 Stat. 111

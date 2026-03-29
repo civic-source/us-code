@@ -3,12 +3,12 @@ title: "Section 4703 - Penalty for unlawful abandonment of barge"
 usc_title: 46
 usc_section: "4703"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "46 U.S.C. § 4703"
-generated_at: "2026-03-29T20:08:05.306Z"
+generated_at: "2026-03-29T20:35:02.369Z"
 ---
 
 # § 4703. Penalty for unlawful abandonment of barge
 
-Thirty days after the notification procedures under section 4704(a)(1) are completed, the Secretary may assess a civil penalty of not more than $1,000 for each day of the violation against an owner or operator that violates section 4702. A vessel with respect to which a penalty is assessed under this subchapter is liable in rem for the penalty.
+Thirty days after the notification procedures under section 4704(a)(1) are completed, the Secretary may assess a civil penalty of not more than $1,000 for each day of the violation against an owner or operator that violates section 4702. A vessel with respect to which a penalty is assessed under this chapter is liable in rem for the penalty.
 

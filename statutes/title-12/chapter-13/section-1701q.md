@@ -3,9 +3,9 @@ title: "Section 1701q - Supportive housing for the elderly"
 usc_title: 12
 usc_section: "1701q"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "12 U.S.C. § 1701q"
-generated_at: "2026-03-29T20:03:45.645Z"
+generated_at: "2026-03-29T20:32:14.907Z"
 ---
 
 # § 1701q. Supportive housing for the elderly
@@ -103,16 +103,6 @@ generated_at: "2026-03-29T20:03:45.645Z"
   - **(6)** The Secretary shall authorize the owner of a project assisted under this section to use any residual receipts held for the project in excess of $500 per unit (or in excess of such other amount prescribed by the Secretary based on the needs of the project) for activities to retrofit and renovate the project described under section 8011(d)(3) of title 42 , to provide a service coordinator for the project as described in section 8011(d)(4) of title 42 , or to provide supportive services (as such term is defined in section 8011(k) of title 42 ) to residents of the project. Any owner that uses residual receipts under this paragraph shall submit to the Secretary a report, not less than annually, describing the uses of the residual receipts. In determining the amount of project rental assistance to be provided to a project under subsection (c)(2) of this section, the Secretary may take into consideration the residual receipts held for the project only if, and to the extent that, excess residual receipts are not used under this paragraph.
   - **(7)** Each owner shall operate housing assisted under this section in compliance with subtitle C of title VI of the Housing and Community Development Act of 1992 [ 42 U.S.C. 13601 et seq.] and any regulations issued under such subtitle.
   - **(8)** Amounts for project reserves for a project assisted under this section may be used for costs, subject to reasonable limitations as the Secretary determines appropriate, for reducing the number of dwelling units in the project. Such use shall be subject to the approval of the Secretary to ensure that the use is designed to retrofit units that are currently obsolete or unmarketable.
-  - **(9)** Each owner of a dwelling unit assisted under this section shall ensure that carbon monoxide alarms or detectors are installed in the dwelling unit in a manner that meets or exceeds—
-    - **(A)** the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
-    - **(B)** any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
-  - **(10)**
-    - **(A)** Each owner of a dwelling unit assisted under this section shall ensure that qualifying smoke alarms are installed in accordance with the requirements of applicable codes and standards and the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.
-    - **(B)** For purposes of this paragraph, the following definitions shall apply:
-      - **(i)** The term “smoke alarm” has the meaning given the term “smoke detector” in section 2225(d) of title 15 .
-      - **(ii)** The term “qualifying smoke alarm” means a smoke alarm that—
-        - **(I)** in the case of a dwelling unit built before December 29, 2022 , and not substantially rehabilitated after December 29, 2022 —
-        - **(II)** in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022 , is hardwired.
 - **(k)**
   - **(1)** The term “elderly person” means a household composed of one or more persons at least one of whom is 62 years of age or more at the time of initial occupancy.
   - **(2)** The term “frail elderly” means an elderly person who is unable to perform at least 3 activities of daily living adopted by the Secretary for purposes of this program. Owners may establish additional eligibility requirements (acceptable to the Secretary) based on the standards in local supportive services programs.

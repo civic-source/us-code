@@ -3,9 +3,9 @@ title: "Section 2884 - Reports"
 usc_title: 10
 usc_section: "2884"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2884"
-generated_at: "2026-03-29T20:03:09.734Z"
+generated_at: "2026-03-29T20:31:54.657Z"
 ---
 
 # § 2884. Reports
@@ -57,19 +57,3 @@ generated_at: "2026-03-29T20:03:09.734Z"
     - **(B)** A description of the reasons for the failure to inspect any housing unit that contains lead-based paint.
     - **(C)** A description of all abatement or mitigation efforts completed or underway in housing units containing lead-based paint.
     - **(D)** A certification as to whether military housing under the jurisdiction of the Secretary concerned complies with requirements relating to lead-based paint, lead-based paint activities, and lead-based paint hazards, as described in section 408 of the Toxic Substances Control Act ( 15 U.S.C. 2688 ).
-  - **(15)** An explanation of—
-    - **(A)** the housing data used by each Secretary concerned; and
-    - **(B)** the housing data each Secretary concerned requests from companies responsible for managing privatization projects.
-  - **(16)** An assessment of how each Secretary concerned uses such housing data to inform the on-base housing decisions for the military department under the jurisdiction of the Secretary.
-  - **(17)** An explanation of—
-    - **(A)** the limitations of any tenant satisfaction data collected by the Secretary concerned (including limitations with respect to the availability of such data);
-    - **(B)** the process of the Secretary concerned for determining tenant satisfaction; and
-    - **(C)** reasons for missing tenant satisfaction data, if any.
-  - **(18)** To the maximum extent practicable, a breakdown of the information described in paragraphs (1) through (17), disaggregated by—
-    - **(A)** military installation; and
-    - **(B)** military housing privatization project.
-- **(d)** Not later than February 1 of each year, each Secretary concerned shall provide to the Committees on Armed Services of the Senate and House of Representatives a briefing on military housing privatization projects under the jurisdiction of the Secretary. Such briefing shall include, for the 12-month period preceding the date of the briefing, each of the following:
-  - **(1)** The information described in paragraphs (1) through (18) of subsection (c) of subsection (c) with respect to all military housing privatization projects under the jurisdiction of the Secretary.
-  - **(2)** A review of any such project that is expected to require the restructuring of a loan, including any public or private loan.
-  - **(3)** For any such project expected to require restructuring, a timeline for when such restructuring is expected to occur.
-  - **(4)** Such other information as the Secretary determines appropriate.

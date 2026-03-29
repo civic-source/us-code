@@ -3,9 +3,9 @@ title: "Section 284m - Program for pediatric studies of drugs"
 usc_title: 42
 usc_section: "284m"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 284m"
-generated_at: "2026-03-29T20:07:43.075Z"
+generated_at: "2026-03-29T20:34:52.641Z"
 ---
 
 # § 284m. Program for pediatric studies of drugs
@@ -53,5 +53,5 @@ generated_at: "2026-03-29T20:07:43.075Z"
   - **(10)** If a holder of an approved application for a drug, within 30 days after receiving a request to make a labeling change under paragraph (9), does not agree to make a requested labeling change, the Commissioner of Food and Drugs may deem the drug to be misbranded under the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 301 et seq.].
   - **(11)** Nothing in this subsection limits the authority of the United States to bring an enforcement action under the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 301 et seq.] when a drug lacks appropriate pediatric labeling. Neither course of action (the Pediatric Advisory Committee process or an enforcement action referred to in the preceding sentence) shall preclude, delay, or serve as the basis to stay the other course of action.
 - **(d)**
-  - **(1)** There are authorized to be appropriated to carry out this section, $5,753,425 for the period beginning on October 1, 2022 and ending on December 23, 2022 . 1 1 See 2022 Amendment notes below.
+  - **(1)** There are authorized to be appropriated to carry out this section, $25,000,000 for each of fiscal years 2018 through 2022.
   - **(2)** Any amount appropriated under paragraph (1) shall remain available to carry out this section until expended.

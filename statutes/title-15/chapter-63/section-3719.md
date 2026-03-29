@@ -3,9 +3,9 @@ title: "Section 3719 - Prize competitions"
 usc_title: 15
 usc_section: "3719"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 3719"
-generated_at: "2026-03-29T20:03:27.578Z"
+generated_at: "2026-03-29T20:32:10.012Z"
 ---
 
 # § 3719. Prize competitions
@@ -55,7 +55,7 @@ generated_at: "2026-03-29T20:03:27.578Z"
     - **(A)** have personal or financial interests in, or be an employee, officer, director, or agent of any entity that is a registered participant in a prize competition; or
     - **(B)** have a familial or financial relationship with an individual who is a registered participant.
   - **(3)** The heads of agencies who carry out prize competitions under this section shall develop guidelines to ensure that the judges appointed for such prize competitions are fairly balanced and operate in a transparent manner.
-  - **(4)** Chapter 10 of title 5 shall not apply to any committee, board, commission, panel, task force, or similar entity, created solely for the purpose of judging prize competitions under this section.
+  - **(4)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to any committee, board, commission, panel, task force, or similar entity, created solely for the purpose of judging prize competitions under this section.
 - **(l)** The head of an agency may enter into a grant, contract, cooperative agreement, or other agreement with a private sector for-profit or nonprofit entity or State or local government agency to administer the prize competition, subject to the provisions of this section.
 - **(m)**
   - **(1)** Support for a prize competition under this section, including financial support for the design and administration of a prize competition or funds for a cash prize purse, may consist of Federal appropriated funds and funds provided by private sector for-profit and nonprofit entities. The head of an agency may request and accept funds from other Federal agencies, State, United States territory, local, or tribal government agencies, private sector for-profit entities, and nonprofit entities, to be available to the extent provided by appropriations Acts, to support such prize competitions. The head of an agency may not give any special consideration to any agency or entity in return for a donation.

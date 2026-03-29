@@ -3,9 +3,9 @@ title: "Section 1801 - Definitions"
 usc_title: 50
 usc_section: "1801"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "50 U.S.C. § 1801"
-generated_at: "2026-03-29T20:08:11.143Z"
+generated_at: "2026-03-29T20:35:05.136Z"
 ---
 
 # § 1801. Definitions
@@ -24,7 +24,7 @@ As used in this subchapter:
   - **(1)** any person other than a United States person, who—
     - **(A)** acts in the United States as an officer or employee of a foreign power, or as a member of a foreign power as defined in subsection (a)(4), irrespective of whether the person is inside the United States;
     - **(B)** acts for or on behalf of a foreign power which engages in clandestine intelligence activities in the United States contrary to the interests of the United States, when the circumstances indicate that such person may engage in such activities, or when such person knowingly aids or abets any person in the conduct of such activities or knowingly conspires with any person to engage in such activities;
-    - **(C)** Omitted
+    - **(C)** engages in international terrorism or activities in preparation therefore;
     - **(D)** engages in the international proliferation of weapons of mass destruction, or activities in preparation therefor; or
     - **(E)** engages in the international proliferation of weapons of mass destruction, or activities in preparation therefor, for or on behalf of a foreign power, or knowingly aids or abets any person in the conduct of such proliferation or activities in preparation therefor, or knowingly conspires with any person to engage in such proliferation or activities in preparation therefor; or
   - **(2)** any person who—
@@ -44,9 +44,8 @@ As used in this subchapter:
 - **(e)** “Foreign intelligence information” means—
   - **(1)** information that relates to, and if concerning a United States person is necessary to, the ability of the United States to protect against—
     - **(A)** actual or potential attack or other grave hostile acts of a foreign power or an agent of a foreign power;
-    - **(B)** sabotage, international terrorism, or the international proliferation of weapons of mass destruction by a foreign power or an agent of a foreign power;
+    - **(B)** sabotage, international terrorism, or the international proliferation of weapons of mass destruction by a foreign power or an agent of a foreign power; or
     - **(C)** clandestine intelligence activities by an intelligence service or network of a foreign power or by an agent of a foreign power; or
-    - **(D)** international production, distribution, or financing of illicit synthetic drugs, opioids, cocaine, or other drugs driving overdose deaths, or precursors of any aforementioned; or
   - **(2)** information with respect to a foreign power or foreign territory that relates to, and if concerning a United States person is necessary to—
     - **(A)** the national defense or the security of the United States; or
     - **(B)** the conduct of the foreign affairs of the United States.

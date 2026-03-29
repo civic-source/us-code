@@ -3,22 +3,22 @@ title: "Section 31 - Authority to collect and use fees"
 usc_title: 21
 usc_section: "31"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "21 U.S.C. § 31"
-generated_at: "2026-03-29T20:04:50.516Z"
+generated_at: "2026-03-29T20:32:52.563Z"
 ---
 
 # § 379j–31. Authority to collect and use fees
 
 - **(a)**
   - **(1)** For fiscal year 2010 and each subsequent fiscal year, the Secretary shall, in accordance with this section, assess and collect fees from—
-    - **(A)** the responsible party for each domestic facility (as defined in section 350d(b) 1 1 See References in Text note below. of this title) and the United States agent for each foreign facility subject to a reinspection in such fiscal year, to cover reinspection-related costs for such year;
-    - **(B)** the responsible party for a domestic facility (as defined in section 350d(b) 1 of this title) and an importer who does not comply with a recall order under section 350 l of this title or under section 350a(f) of this title in such fiscal year, to cover food recall activities associated with such order performed by the Secretary, including technical assistance, follow-up effectiveness checks, and public notifications, for such year;
+    - **(A)** the responsible party for each domestic facility (as defined in section 350d(b) of this title ) and the United States agent for each foreign facility subject to a reinspection in such fiscal year, to cover reinspection-related costs for such year;
+    - **(B)** the responsible party for a domestic facility (as defined in section 350d(b) of this title ) and an importer who does not comply with a recall order under section 350 l of this title or under section 350a(f) of this title in such fiscal year, to cover food recall activities associated with such order performed by the Secretary, including technical assistance, follow-up effectiveness checks, and public notifications, for such year;
     - **(C)** each importer participating in the voluntary qualified importer program under section 384b of this title in such year, to cover the administrative costs of such program for such year; and
     - **(D)** each importer subject to a reinspection in such fiscal year, to cover reinspection-related costs for such year.
   - **(2)** For purposes of this section—
     - **(A)** the term “reinspection” means—
-      - **(i)** with respect to domestic facilities (as defined in section 350d(b) 1 of this title), 1 or more inspections conducted under section 374 of this title subsequent to an inspection conducted under such provision which identified noncompliance materially related to a food safety requirement of this chapter, specifically to determine whether compliance has been achieved to the Secretary’s satisfaction; and
+      - **(i)** with respect to domestic facilities (as defined in section 350d(b) of this title ), 1 or more inspections conducted under section 374 of this title subsequent to an inspection conducted under such provision which identified noncompliance materially related to a food safety requirement of this chapter, specifically to determine whether compliance has been achieved to the Secretary’s satisfaction; and
       - **(ii)** with respect to importers, 1 or more examinations conducted under section 381 of this title subsequent to an examination conducted under such provision which identified noncompliance materially related to a food safety requirement of this chapter, specifically to determine whether compliance has been achieved to the Secretary’s satisfaction;
     - **(B)** the term “reinspection-related costs” means all expenses, including administrative expenses, incurred in connection with—
       - **(i)** arranging, conducting, and evaluating the results of reinspections; and
@@ -49,7 +49,7 @@ generated_at: "2026-03-29T20:04:50.516Z"
     - **(A)** Notwithstanding any other provision of this section and subject to subparagraph (B), the Secretary may not collect fees in a fiscal year such that the amount collected—
       - **(i)** under subparagraph (B) of subsection (a)(1) exceeds $20,000,000; and
       - **(ii)** under subparagraphs (A) and (D) of subsection (a)(1) exceeds $25,000,000 combined.
-    - **(B)** If a domestic facility (as defined in section 350d(b) 1 of this title) or an importer becomes subject to a fee described in subparagraph (A), (B), or (D) of subsection (a)(1) after the maximum amount of fees has been collected by the Secretary under subparagraph (A), the Secretary may collect a fee from such facility or importer.
+    - **(B)** If a domestic facility (as defined in section 350d(b) of this title ) or an importer becomes subject to a fee described in subparagraph (A), (B), or (D) of subsection (a)(1) after the maximum amount of fees has been collected by the Secretary under subparagraph (A), the Secretary may collect a fee from such facility or importer.
 - **(d)** Fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the purpose of paying the operating expenses of the Food and Drug Administration employees and contractors performing activities associated with these food safety fees.
 - **(e)**
   - **(1)** The Secretary shall specify in the Federal Register notice described in subsection (b)(1) the time and manner in which fees assessed under this section shall be collected.

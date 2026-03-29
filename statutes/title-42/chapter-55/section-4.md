@@ -3,29 +3,29 @@ title: "Section 4 - Coordination of required reviews"
 usc_title: 42
 usc_section: "4"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-29T20:07:44.297Z"
+generated_at: "2026-03-29T20:34:53.618Z"
 ---
 
 # § 4370m–4. Coordination of required reviews
 
 - **(a)** To integrate environmental reviews and authorizations, each agency shall, to the maximum extent practicable—
-  - **(1)** carry out the obligations of the agency with respect to a covered project under any other applicable law concurrently, and in conjunction with, other environmental reviews and authorizations being conducted by other cooperating or participating agencies, including environmental reviews and authorizations required under NEPA, unless the agency determines that doing so would impair the ability of the agency to carry out the statutory obligations of the agency;
-  - **(2)** formulate and implement administrative, policy, and procedural mechanisms to enable the agency to ensure completion of the environmental review process in a timely, coordinated, and environmentally responsible manner; and
-  - **(3)** where an environmental impact statement is required for a project, prepare a single, joint interagency environmental impact statement for the project unless the lead agency provides justification in the coordinated project plan that multiple environmental documents are more efficient for project review and authorization.
+  - **(1)** carry out the obligations of the agency with respect to a covered project under any other applicable law concurrently, and in conjunction with, other environmental reviews and authorizations being conducted by other cooperating or participating agencies, including environmental reviews and authorizations required under NEPA, unless the agency determines that doing so would impair the ability of the agency to carry out the statutory obligations of the agency; and
+  - **(2)** formulate and implement administrative, policy, and procedural mechanisms to enable the agency to ensure completion of the environmental review process in a timely, coordinated, and environmentally responsible manner.
 - **(b)**
   - **(1)**
-    - **(A)** On the request of a project sponsor, a lead agency shall consider and, as appropriate, adopt or incorporate by reference, the analysis and documentation that has been prepared for a covered project under the laws and procedures of a State or Indian Tribe (as defined in section 5130 of title 25 ) as the documentation, or part of the documentation, required to complete an environmental review for the covered project, if the analysis and documentation were, as determined by the lead agency in consultation with the Council on Environmental Quality, developed pursuant to laws and procedures of that State or Indian Tribe (as so defined) that are of equal or greater rigor to each applicable Federal law and procedure, and prepared under circumstances that allowed for opportunities for public participation and consideration of alternatives, environmental consequences, and other required analyses that are substantially equivalent to what would have been available had the documents and analysis been prepared by a Federal agency pursuant to NEPA.
-    - **(B)** The Council on Environmental Quality may issue guidance to carry out this subsection.
-  - **(2)** An environmental document adopted under paragraph (1) or a document that includes documentation incorporated under paragraph (1) may serve as the documentation required for an environmental review or a supplemental environmental review required to be prepared by a lead agency under NEPA.
-  - **(3)** If the lead agency adopts or incorporates analysis and documentation described in paragraph (1), the lead agency shall prepare and publish a supplemental document if the lead agency determines that during the period after preparation of the analysis and documentation and before the adoption or incorporation—
-    - **(A)** a significant change has been made to the covered project that is relevant for purposes of environmental review of the project; or
-    - **(B)** there has been a significant circumstance or new information has emerged that is relevant to the environmental review for the covered project.
-  - **(4)** If a lead agency prepares and publishes a supplemental document under paragraph (3), the lead agency shall solicit comments from other agencies and the public on the supplemental document for a period of not more than 45 days, beginning on the date on which the supplemental document is published, unless—
-    - **(A)** the lead agency, the project sponsor, and any cooperating agency agree to a longer deadline; or
-    - **(B)** the lead agency extends the deadline for good cause.
-  - **(5)** A lead agency shall issue a record of decision or finding of no significant impact, as appropriate, based on the document adopted under paragraph (1) and any supplemental document prepared under paragraph (3).
+    - **(A)**
+      - **(i)** On the request of a project sponsor, a lead agency shall consider and, as appropriate, adopt or incorporate by reference, the analysis and documentation that has been prepared for a covered project under State laws and procedures as the documentation, or part of the documentation, required to complete an environmental review for the covered project, if the analysis and documentation were, as determined by the lead agency in consultation with the Council on Environmental Quality, prepared under circumstances that allowed for opportunities for public participation and consideration of alternatives, environmental consequences, and other required analyses that are substantially equivalent to what would have been available had the documents and analysis been prepared by a Federal agency pursuant to NEPA.
+      - **(ii)** The Council on Environmental Quality may issue guidance to carry out this subsection.
+    - **(B)** An environmental document adopted under subparagraph (A) or a document that includes documentation incorporated under subparagraph (A) may serve as the documentation required for an environmental review or a supplemental environmental review required to be prepared by a lead agency under NEPA.
+    - **(C)** If the lead agency adopts or incorporates analysis and documentation described in subparagraph (A), the lead agency shall prepare and publish a supplemental document if the lead agency determines that during the period after preparation of the analysis and documentation and before the adoption or incorporation—
+      - **(i)** a significant change has been made to the covered project that is relevant for purposes of environmental review of the project; or
+      - **(ii)** there has been a significant circumstance or new information has emerged that is relevant to the environmental review for the covered project.
+    - **(D)** If a lead agency prepares and publishes a supplemental document under subparagraph (C), the lead agency shall solicit comments from other agencies and the public on the supplemental document for a period of not more than 45 days, beginning on the date on which the supplemental document is published, unless—
+      - **(i)** the lead agency, the project sponsor, and any cooperating agency agree to a longer deadline; or
+      - **(ii)** the lead agency extends the deadline for good cause.
+    - **(E)** A lead agency shall issue a record of decision or finding of no significant impact, as appropriate, based on the document adopted under subparagraph (A) and any supplemental document prepared under subparagraph (C).
 - **(c)**
   - **(1)**
     - **(A)** As early as practicable during the environmental review, but not later than the commencement of scoping for a project requiring the preparation of an environmental impact statement, the lead agency shall engage the cooperating agencies and the public to determine the range of reasonable alternatives to be considered for a covered project.
@@ -36,9 +36,9 @@ generated_at: "2026-03-29T20:07:44.297Z"
   - **(3)**
     - **(A)** The lead agency shall determine, in collaboration with each cooperating agency at appropriate times during the environmental review, the methodologies to be used and the level of detail required in the analysis of each alternative for a covered project.
     - **(B)** A cooperating agency shall use the methodologies referred to in subparagraph (A) when conducting any required environmental review, to the extent consistent with existing law.
-  - **(4)** With the concurrence of the cooperating agencies with jurisdiction under Federal law and at the discretion of the lead agency, the preferred alternative for a project, after being identified, may be developed to a higher level of detail than other alternatives to facilitate the development of mitigation measures or concurrent compliance with other applicable laws if the lead agency determines that—
-    - **(A)** the development of the higher level of detail will not prevent the lead agency from making an impartial decision as to whether to accept another alternative that is being considered in the environmental review; and
-    - **(B)** the preferred and other alternatives are developed in sufficient detail to enable the public to comment on the alternatives.
+  - **(4)** With the concurrence of the cooperating agencies with jurisdiction under Federal law and at the discretion of the lead agency, the preferred alternative for a project, after being identified, may be developed to a higher level of detail than other alternatives to facilitate the development of mitigation measures or concurrent compliance with other applicable laws if the lead agency determines that the development of the higher level of detail will not prevent—
+    - **(A)** the lead agency from making an impartial decision as to whether to accept another alternative that is being considered in the environmental review; and
+    - **(B)** the public from commenting on the preferred and other alternatives.
 - **(d)**
   - **(1)** For comments by an agency or the public on a draft environmental impact statement, the lead agency shall establish a comment period of not less than 45 days and not more than 60 days after the date on which a notice announcing availability of the environmental impact statement is published in the Federal Register, unless—
     - **(A)** the lead agency, the project sponsor, and any cooperating agency agree to a longer deadline; or
@@ -54,5 +54,4 @@ generated_at: "2026-03-29T20:07:44.297Z"
   - **(3)** Each cooperating and participating agency shall—
     - **(A)** identify, as early as practicable, any issues of concern regarding any potential environmental impacts of the covered project, including any issues that could substantially delay or prevent an agency from completing any environmental review or authorization required for the project; and
     - **(B)** communicate any issues described in subparagraph (A) to the project sponsor.
-- **(f)** When an environmental impact statement is prepared, Federal agencies must, to the maximum extent practicable, issue a record of decision not later than 90 days after the date on which the final environmental impact statement is issued.
-- **(g)** The authorities granted under this section may be exercised for an individual covered project or a category of covered projects.
+- **(f)** The authorities granted under this section may be exercised for an individual covered project or a category of covered projects.

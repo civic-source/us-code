@@ -3,9 +3,9 @@ title: "Section 18 - Organization defined"
 usc_title: 18
 usc_section: "18"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "18 U.S.C. § 18"
-generated_at: "2026-03-29T20:03:53.679Z"
+generated_at: "2026-03-29T20:32:21.322Z"
 ---
 
 # § 18. Organization defined

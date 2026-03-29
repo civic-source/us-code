@@ -3,9 +3,9 @@ title: "Section 6948 - Federal assistance"
 usc_title: 42
 usc_section: "6948"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 6948"
-generated_at: "2026-03-29T20:07:44.460Z"
+generated_at: "2026-03-29T20:34:53.773Z"
 ---
 
 # § 6948. Federal assistance

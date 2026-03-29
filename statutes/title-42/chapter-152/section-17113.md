@@ -3,9 +3,9 @@ title: "Section 17113 - Industrial emissions reduction technology development pr
 usc_title: 42
 usc_section: "17113"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 17113"
-generated_at: "2026-03-29T20:07:44.941Z"
+generated_at: "2026-03-29T20:34:54.269Z"
 ---
 
 # § 17113. Industrial emissions reduction technology development program
@@ -32,7 +32,7 @@ generated_at: "2026-03-29T20:07:44.941Z"
   - **(2)** In carrying out the program, the Secretary shall—
     - **(A)** coordinate with each relevant office in the Department and any other Federal agency;
     - **(B)** coordinate and collaborate with the Industrial Technology Innovation Advisory Committee established under section 17115 of this title ; and
-    - **(C)** coordinate and seek to avoid duplication with the Future of Industry 1 1 So in original. program established under section 17111 of this title .
+    - **(C)** coordinate and seek to avoid duplication with the energy-intensive industries program established under section 17111 of this title .
   - **(3)** In carrying out the program, the Secretary shall leverage, to the maximum extent practicable—
     - **(A)** existing resources and programs of the Department and other relevant Federal agencies; and
     - **(B)** public-private partnerships.

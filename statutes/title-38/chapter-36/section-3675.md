@@ -3,9 +3,9 @@ title: "Section 3675 - Approval of accredited courses"
 usc_title: 38
 usc_section: "3675"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "38 U.S.C. § 3675"
-generated_at: "2026-03-29T20:05:54.718Z"
+generated_at: "2026-03-29T20:34:04.949Z"
 ---
 
 # § 3675. Approval of accredited courses
@@ -28,15 +28,7 @@ generated_at: "2026-03-29T20:05:54.718Z"
 - **(b)** As a condition of approval under this section, the State approving agency, or the Secretary when acting in the role of a State approving agency, must find the following:
   - **(1)** The educational institution keeps adequate records, as prescribed by the State approving agency, or the Secretary when acting in the role of a State approving agency, to show the progress and grades of the eligible person or veteran and to show that satisfactory standards relating to progress and conduct are enforced.
   - **(2)** The educational institution maintains a written record of the previous education and training of the eligible person or veteran that clearly indicates that appropriate credit has been given by the educational institution for previous education and training, with the training period shortened proportionately.
-  - **(3)** The educational institution and its approved courses meet the criteria of paragraphs (1), (2), (3), (15), (16), and (18) of section 3676(c) of this title (or, with respect to such paragraphs (14) and (15), the requirements under such paragraphs are waived pursuant to subsection (f)(1) of section 3676 of this title ).
-  - **(4)** The educational institution—
-    - **(A)** is approved and participates in a program under title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1070 et seq.); or
-    - **(B)** does not participate in such a program and the Secretary has waived the requirement under this paragraph with respect to the educational institution, and submits to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives notice of such waiver, because the Secretary determines that the educational institution—
-      - **(i)** elects not to participate in such a program;
-      - **(ii)** cannot participate in such a program; or
-      - **(iii)** is in the process of making a good-faith effort to submit an initial application for approval to participate in such a program, except that a waiver under this clause may not be provided for a period of longer than 36 months.
-  - **(5)** The educational institution agrees to, not later than 30 days after any date on which such educational institution becomes subject to an action or event described in section 3673(e)(3) of this title , submit to the State approving agency, or the Secretary when acting in the role of a State approving agency, a notification of such action or event in such form and containing such information as the Secretary determines appropriate.
-  - **(6)** The educational institution makes available to each eligible person or veteran a copy of the person or veteran’s official transcript in a digital format.
+  - **(3)** The educational institution and its approved courses meet the criteria of paragraphs (1), (2), (3), (14), (15), and (16) of section 3676(c) of this title (or, with respect to such paragraphs (14) and (15), the requirements under such paragraphs are waived pursuant to subsection (f)(1) of section 3676 of this title ).
 - **(c)**
   - **(1)** A State approving agency may approve the entrepreneurship courses offered by a qualified provider of entrepreneurship courses.
   - **(2)** For purposes of this subsection, the term “entrepreneurship course” means a non-degree, non-credit course of business education that enables or assists a person to start or enhance a small business concern (as defined pursuant to section 3(a) of the Small Business Act ( 15 U.S.C. 632(a) )).
@@ -44,9 +36,3 @@ generated_at: "2026-03-29T20:05:54.718Z"
     - **(A)** an entrepreneurship course offered by a qualified provider of entrepreneurship courses; and
     - **(B)** a qualified provider of entrepreneurship courses by reason of such provider offering one or more entrepreneurship courses.
   - **(4)** Notwithstanding paragraph (3), a qualified provider of entrepreneurship courses shall maintain such records as the Secretary determines to be necessary to comply with reporting requirements that apply under section 3684(a)(1) of this title with respect to eligible persons and veterans enrolled in an entrepreneurship course offered by the provider.
-- **(d)**
-  - **(1)** The Secretary shall submit to Congress an annual report on any waivers issued pursuant to subsection (b)(4) or section 3672(b)(2)(A)(i) of this title .
-  - **(2)** Each report submitted under paragraph (1) shall include, for the year covered by the report, the following:
-    - **(A)** The name of each educational institution for which a waiver was issued.
-    - **(B)** The justification for each such waiver.
-    - **(C)** The total number of waivers issued.

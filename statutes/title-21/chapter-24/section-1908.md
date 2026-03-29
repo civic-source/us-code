@@ -3,9 +3,9 @@ title: "Section 1908 - Judicial Review Commission on Foreign Asset Control"
 usc_title: 21
 usc_section: "1908"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "21 U.S.C. § 1908"
-generated_at: "2026-03-29T20:04:50.612Z"
+generated_at: "2026-03-29T20:32:52.650Z"
 ---
 
 # § 1908. Judicial Review Commission on Foreign Asset Control
@@ -54,6 +54,6 @@ generated_at: "2026-03-29T20:04:50.612Z"
     - **(B)** The Permanent Select Committee on Intelligence and the Committees on International Relations and the Judiciary of the House of Representatives.
 - **(h)** The Commission shall terminate at the end of the 60-day period beginning on the date on which the report required by subsection (g) is submitted to the committees of Congress referred to in that subsection.
 - **(i)**
-  - **(1)** The provisions of chapter 10 of title 5 shall not apply to the activities of the Commission under this section.
+  - **(1)** The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the activities of the Commission under this section.
   - **(2)** The provisions of section 552 of title 5 (commonly referred to as the Freedom of Information Act) shall not apply to the activities, records, and proceedings of the Commission under this chapter.
 - **(j)** The Attorney General shall, from amounts authorized to be appropriated to the Attorney General by this Act, make available to the Commission $1,000,000 for purposes of the activities of the Commission under this section. Amounts made available to the Commission under the preceding sentence shall remain available until expended.

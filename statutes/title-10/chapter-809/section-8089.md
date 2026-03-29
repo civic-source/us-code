@@ -3,9 +3,9 @@ title: "Section 8089 - Office of the Judge Advocate General: Deputy Judge Advoca
 usc_title: 10
 usc_section: "8089"
 chapter: 809
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 8089"
-generated_at: "2026-03-29T20:03:09.855Z"
+generated_at: "2026-03-29T20:31:54.727Z"
 ---
 
 # § 8089. Office of the Judge Advocate General: Deputy Judge Advocate General; Assistant Judge Advocates General

@@ -1,12 +1,14 @@
 ---
-title: "Section 3171 - [Reserved]"
+title: "Section 3171 - Contracts for property or services in support of a contingency operation: competition and review"
 usc_title: 10
 usc_section: "3171"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 3171"
-generated_at: "2026-03-29T20:03:09.750Z"
+generated_at: "2026-03-29T20:31:54.668Z"
 ---
 
-# § 3171. [Reserved]
+# § 3171. Contracts for property or services in support of a contingency operation: competition and review
+
+[Reserved].
 

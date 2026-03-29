@@ -3,9 +3,9 @@ title: "Section 2108 - Specially adapted housing assistive technology grant prog
 usc_title: 38
 usc_section: "2108"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "38 U.S.C. § 2108"
-generated_at: "2026-03-29T20:05:54.688Z"
+generated_at: "2026-03-29T20:34:04.921Z"
 ---
 
 # § 2108. Specially adapted housing assistive technology grant program
@@ -21,4 +21,4 @@ generated_at: "2026-03-29T20:05:54.688Z"
   - **(2)** the amount of the grant; and
   - **(3)** the goal of the grant.
 - **(f)** From amounts appropriated to the Department for readjustment benefits for each fiscal year for which the Secretary is authorized to make a grant under this section, $1,000,000 shall be available for that fiscal year for the purposes of the program under this section.
-- **(g)** The authority to make a grant under this section shall begin on October 1, 2011 , and shall terminate on September 30, 2026 .
+- **(g)** The authority to make a grant under this section shall begin on October 1, 2011 , and shall terminate on September 30, 2022 .

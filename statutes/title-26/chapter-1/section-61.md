@@ -3,9 +3,9 @@ title: "Section 61 - Gross income defined"
 usc_title: 26
 usc_section: "61"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 61"
-generated_at: "2026-03-29T20:05:22.180Z"
+generated_at: "2026-03-29T20:33:26.808Z"
 ---
 
 # § 61. Gross income defined

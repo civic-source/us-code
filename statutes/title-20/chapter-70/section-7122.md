@@ -3,9 +3,9 @@ title: "Section 7122 - Authorization of appropriations"
 usc_title: 20
 usc_section: "7122"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "20 U.S.C. § 7122"
-generated_at: "2026-03-29T20:04:33.080Z"
+generated_at: "2026-03-29T20:32:28.991Z"
 ---
 
 # § 7122. Authorization of appropriations

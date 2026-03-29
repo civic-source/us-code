@@ -1,0 +1,18 @@
+---
+title: "Section 4216 - Report requirements; petition of Attorney General for equitable relief"
+usc_title: 33
+usc_section: "4216"
+chapter: 0
+current_through: "PL 117-24"
+classification: "33 U.S.C. § 4216"
+generated_at: "2026-03-29T20:33:34.345Z"
+---
+
+# § 4216. Report requirements; petition of Attorney General for equitable relief
+
+- **(a)** The Foundation shall, as soon as practicable after the end of each fiscal year, transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources, the Committee on Transportation and Infrastructure, and the Committee on Energy and Commerce of the House of Representatives a report—
+  - **(1)** describing the proceedings and activities of the Foundation during that fiscal year, including a full and complete statement of its receipts, expenditures, and investments; and
+  - **(2)** including a detailed statement of the recipient, amount, and purpose of each grant made by the Foundation in the fiscal year.
+- **(b)** If the Foundation—
+  - **(1)** engages in, or threatens to engage in, any act, practice, or policy that is inconsistent with its purposes set forth in section 4211(b) of this title ; or
+  - **(2)** refuses, fails, or neglects to discharge its obligations under this subchapter, or threatens to do so,

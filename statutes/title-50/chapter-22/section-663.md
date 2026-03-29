@@ -3,9 +3,9 @@ title: "Section 663 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641"
 usc_title: 50
 usc_section: "663"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "50 U.S.C. § 663"
-generated_at: "2026-03-29T20:08:11.130Z"
+generated_at: "2026-03-29T20:35:05.127Z"
 ---
 
 # §§ 646 to 663. Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641

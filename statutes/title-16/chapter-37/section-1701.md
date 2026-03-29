@@ -3,9 +3,9 @@ title: "Section 1701 - Congressional declaration of policy and purpose"
 usc_title: 16
 usc_section: "1701"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 1701"
-generated_at: "2026-03-29T20:04:20.338Z"
+generated_at: "2026-03-29T20:32:45.384Z"
 ---
 
 # § 1701. Congressional declaration of policy and purpose

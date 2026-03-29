@@ -3,9 +3,9 @@ title: "Section 111 - Payments or allowances for beneficiary travel"
 usc_title: 38
 usc_section: "111"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "38 U.S.C. § 111"
-generated_at: "2026-03-29T20:05:54.613Z"
+generated_at: "2026-03-29T20:34:04.860Z"
 ---
 
 # § 111. Payments or allowances for beneficiary travel
@@ -52,11 +52,3 @@ generated_at: "2026-03-29T20:05:54.613Z"
 - **(g)**
   - **(1)** Beginning one year after the date of the enactment of the Caregivers and Veterans Omnibus Health Services Act of 2010, the Secretary may adjust the mileage rate described in subsection (a) to be equal to the mileage reimbursement rate for the use of privately owned vehicles by Government employees on official business (when a Government vehicle is available), as prescribed by the Administrator of General Services under section 5707(b) of title 5 .
   - **(2)** If an adjustment in the mileage rate under paragraph (1) results in a lower mileage rate than the mileage rate otherwise specified in subsection (a), the Secretary shall, not later than 60 days before the date of the implementation of the mileage rate as so adjusted, submit to Congress a written report setting forth the adjustment in the mileage rate under this subsection, together with a justification for the decision to make the adjustment in the mileage rate under this subsection.
-- **(h)**
-  - **(1)** Notwithstanding any other provision of law, the Secretary may make payments to or for any person traveling in, to, or from the Freely Associated States for receipt of care or services authorized to be legally provided by the Secretary in the Freely Associated States under section 1724(f)(1) of this title .
-  - **(2)** A person who has received payment for travel in a country pursuant to this subsection shall remain eligible for payment for such travel in that country regardless of whether the country continues to qualify as a Freely Associated State for purposes of this subsection.
-  - **(3)** The Secretary shall prescribe regulations to carry out this subsection.
-  - **(4)** In this subsection, the term “Freely Associated States” means—
-    - **(A)** the Federated States of Micronesia, during such time as it is a party to the Compact of Free Association set forth in section 201 of the Compact of Free Association Act of 1985 ( Public Law 99–239 ; 48 U.S.C. 1901 note);
-    - **(B)** the Republic of the Marshall Islands, during such time as it is a party to the Compact of Free Association set forth in section 201 of the Compact of Free Association Act of 1985 ( Public Law 99–239 ; 48 U.S.C. 1901 note); and
-    - **(C)** the Republic of Palau, during such time as it is a party to the Compact of Free Association between the United States and the Government of Palau set forth in section 201 of Joint 1 1 So in original. Probably should be preceded by “the”. Resolution entitled “Joint Resolution to approve the ‘Compact of Free Association’ between the United States and the Government of Palau, and for other purposes” ( Public Law 99–658 ; 48 U.S.C. 1931 note).

@@ -3,9 +3,9 @@ title: "Section 8011 - Coordination with international organizations"
 usc_title: 16
 usc_section: "8011"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 8011"
-generated_at: "2026-03-29T20:04:20.514Z"
+generated_at: "2026-03-29T20:32:45.524Z"
 ---
 
 # § 8011. Coordination with international organizations

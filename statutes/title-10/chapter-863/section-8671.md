@@ -3,9 +3,9 @@ title: "Section 8671 - Determination of vessel delivery dates"
 usc_title: 10
 usc_section: "8671"
 chapter: 863
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 8671"
-generated_at: "2026-03-29T20:03:09.871Z"
+generated_at: "2026-03-29T20:31:54.740Z"
 ---
 
 # § 8671. Determination of vessel delivery dates
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T20:03:09.871Z"
   - **(2)** custody of the vessel and all systems contained in the vessel transfers to the Navy.
 - **(b)** The delivery dates of covered vessels shall be included—
   - **(1)** in the materials submitted to Congress by the Secretary of Defense in support of the budget of the President for each fiscal year (as submitted to Congress under section 1105(a) of title 31 , United States Code); and
-  - **(2)** in any relevant Selected Acquisition Report submitted to Congress under section 4351 of this title .
+  - **(2)** in any relevant Selected Acquisition Report submitted to Congress under section 2432 of this title .
 - **(c)** A covered vessel may not be listed in the Naval Vessel Register or other fleet inventory measures as a battle force ship until the delivery date specified in subsection (a).
 - **(d)** In this section:
   - **(1)** The term “covered vessel” means any vessel of the Navy that is under construction or constructed using amounts authorized to be appropriated for the Department of Defense for shipbuilding and conversion, Navy.

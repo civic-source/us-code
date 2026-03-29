@@ -1,12 +1,14 @@
 ---
-title: "Section 273 - Repealed. Pub. L. 117–317, § 2(8) , Dec. 27, 2022 , 136 Stat. 4419"
+title: "Section 273 - Detail of Army officer"
 usc_title: 25
 usc_section: "273"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "25 U.S.C. § 273"
-generated_at: "2026-03-29T20:04:54.319Z"
+generated_at: "2026-03-29T20:32:54.653Z"
 ---
 
-# § 273. Repealed. Pub. L. 117–317, § 2(8) , Dec. 27, 2022 , 136 Stat. 4419
+# § 273. Detail of Army officer
+
+The Secretary of the Army shall be authorized to detail an officer of the Army, not above the rank of captain, for special duty with reference to Indian education.
 

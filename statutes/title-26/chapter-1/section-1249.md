@@ -3,9 +3,9 @@ title: "Section 1249 - Gain from certain sales or exchanges of patents, etc., to
 usc_title: 26
 usc_section: "1249"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 1249"
-generated_at: "2026-03-29T20:05:22.499Z"
+generated_at: "2026-03-29T20:33:27.119Z"
 ---
 
 # § 1249. Gain from certain sales or exchanges of patents, etc., to foreign corporations

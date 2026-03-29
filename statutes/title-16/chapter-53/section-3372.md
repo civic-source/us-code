@@ -3,9 +3,9 @@ title: "Section 3372 - Prohibited acts"
 usc_title: 16
 usc_section: "3372"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 3372"
-generated_at: "2026-03-29T20:04:20.407Z"
+generated_at: "2026-03-29T20:32:45.430Z"
 ---
 
 # § 3372. Prohibited acts
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T20:04:20.407Z"
 - **(a)** It is unlawful for any person—
   - **(1)** to import, export, transport, sell, receive, acquire, or purchase any fish or wildlife or plant taken, possessed, transported, or sold in violation of any law, treaty, or regulation of the United States or in violation of any Indian tribal law;
   - **(2)** to import, export, transport, sell, receive, acquire, or purchase in interstate or foreign commerce—
-    - **(A)** any fish or wildlife taken, possessed, transported, or sold in violation of any law or regulation of any State or in violation of any foreign law; or
+    - **(A)** any fish or wildlife taken, possessed, transported, or sold in violation of any law or regulation of any State or in violation of any foreign law;
     - **(B)** any plant—
       - **(i)** taken, possessed, transported, or sold in violation of any law or regulation of any State, or any foreign law, that protects plants or that regulates—
         - **(I)** the theft of plants;
@@ -21,7 +21,8 @@ generated_at: "2026-03-29T20:04:20.407Z"
         - **(III)** the taking of plants from an officially designated area; or
         - **(IV)** the taking of plants without, or contrary to, required authorization;
       - **(ii)** taken, possessed, transported, or sold without the payment of appropriate royalties, taxes, or stumpage fees required for the plant by any law or regulation of any State or any foreign law; or
-      - **(iii)** taken, possessed, transported, or sold in violation of any limitation under any law or regulation of any State, or under any foreign law, governing the export or transshipment of plants;
+      - **(iii)** taken, possessed, transported, or sold in violation of any limitation under any law or regulation of any State, or under any foreign law, governing the export or transshipment of plants; or
+    - **(C)** any prohibited wildlife species (subject to subsection (e));
   - **(3)** within the special maritime and territorial jurisdiction of the United States (as defined in section 7 of title 18 )—
     - **(A)** to possess any fish or wildlife taken, possessed, transported, or sold in violation of any law or regulation of any State or in violation of any foreign law or Indian tribal law, or
     - **(B)** to possess any plant—
@@ -32,7 +33,7 @@ generated_at: "2026-03-29T20:04:20.407Z"
         - **(IV)** the taking of plants without, or contrary to, required authorization;
       - **(ii)** taken, possessed, transported, or sold without the payment of appropriate royalties, taxes, or stumpage fees required for the plant by any law or regulation of any State or any foreign law; or
       - **(iii)** taken, possessed, transported, or sold in violation of any limitation under any law or regulation of any State, or under any foreign law, governing the export or transshipment of plants; or
-  - **(4)** to attempt to commit any act described in paragraphs (1) through (3) or subsection (e).
+  - **(4)** to attempt to commit any act described in paragraphs (1) through (3).
 - **(b)** It is unlawful for any person to import, export, or transport in interstate commerce any container or package containing any fish or wildlife unless the container or package has previously been plainly marked, labeled, or tagged in accordance with the regulations issued pursuant to paragraph (2) of section 3376(a) of this title .
 - **(c)**
   - **(1)** It is deemed to be a sale of fish or wildlife in violation of this chapter for a person for money or other consideration to offer or provide—
@@ -45,28 +46,19 @@ generated_at: "2026-03-29T20:04:20.407Z"
   - **(1)** imported, exported, transported, sold, purchased, or received from any foreign country; or
   - **(2)** transported in interstate or foreign commerce.
 - **(e)**
-  - **(1)** Except as provided in paragraph (2), it is unlawful for any person to—
-    - **(A)** import, export, transport, sell, receive, acquire, or purchase in interstate or foreign commerce, or in a manner substantially affecting interstate or foreign commerce; or
-    - **(B)** breed or possess;
-  - **(2)** Paragraph (1) does not apply to—
-    - **(A)** an entity exhibiting animals to the public under a Class C license from the Department of Agriculture, or a Federal facility registered with the Department of Agriculture that exhibits animals, if such entity or facility holds such license or registration in good standing and if the entity or facility—
-      - **(i)** does not allow any individual to come into direct physical contact with a prohibited wildlife species, unless that individual is—
-        - **(I)** a trained professional employee or contractor of the entity or facility (or an accompanying employee receiving professional training);
-        - **(II)** a licensed veterinarian (or a veterinary student accompanying such a veterinarian); or
-        - **(III)** directly supporting conservation programs of the entity or facility, the contact is not in the course of commercial activity (which may be evidenced by advertisement or promotion of such activity or other relevant evidence), and the contact is incidental to humane husbandry conducted pursuant to a species-specific, publicly available, peer-edited population management and care plan that has been provided to the Secretary with justifications that the plan—
-      - **(ii)** ensures that during public exhibition of a lion (Panthera leo), tiger (Panthera tigris), leopard (Panthera pardus), snow leopard (Uncia uncia), jaguar (Panthera onca), cougar (Puma concolor), or any hybrid thereof, the animal is at least 15 feet from members of the public unless there is a permanent barrier sufficient to prevent public contact;
-    - **(B)** a State college, university, or agency, or a State-licensed veterinarian;
-    - **(C)** a wildlife sanctuary that cares for prohibited wildlife species, and—
+  - **(1)** Subsection (a)(2)(C) does not apply to importation, exportation, transportation, sale, receipt, acquisition, or purchase of an animal of a prohibited wildlife species, by a person that, under regulations prescribed under paragraph (3), is described in paragraph (2) with respect to that species.
+  - **(2)** A person is described in this paragraph, if the person—
+    - **(A)** is licensed or registered, and inspected, by the Animal and Plant Health Inspection Service or any other Federal agency with respect to that species;
+    - **(B)** is a State college, university, or agency, State-licensed wildlife rehabilitator, or State-licensed veterinarian;
+    - **(C)** is an accredited wildlife sanctuary that cares for prohibited wildlife species and—
       - **(i)** is a corporation that is exempt from taxation under section 501(a) of title 26 and described in sections 501(c)(3) and 170(b)(1)(A)(vi) of such title;
-      - **(ii)** does not commercially trade in any prohibited wildlife species, including offspring, parts, and byproducts of such animals;
-      - **(iii)** does not breed any prohibited wildlife species;
-      - **(iv)** does not allow direct contact between the public and any prohibited wildlife species; and
-      - **(v)** does not allow the transportation and display of any prohibited wildlife species off-site;
-    - **(D)** has custody of any prohibited wildlife species solely for the purpose of expeditiously transporting the prohibited wildlife species to a person described in this paragraph with respect to the species; or
-    - **(E)** an entity or individual that is in possession of any prohibited wildlife species that was born before December 20, 2022 , and—
-      - **(i)** not later than 180 days after December 20, 2022 , the entity or individual registers each individual animal of each prohibited wildlife species possessed by the entity or individual with the United States Fish and Wildlife Service;
-      - **(ii)** does not breed, acquire, or sell any prohibited wildlife species after December 20, 2022 ; and
-      - **(iii)** does not allow direct contact between the public and prohibited wildlife species.
+      - **(ii)** does not commercially trade in animals listed in section 3371(g) of this title , including offspring, parts, and byproducts of such animals;
+      - **(iii)** does not propagate animals listed in section 3371(g) of this title ; and
+      - **(iv)** does not allow direct contact between the public and animals; or
+    - **(D)** has custody of the animal solely for the purpose of expeditiously transporting the animal to a person described in this paragraph with respect to the species.
+  - **(3)** Not later than 180 days after December 19, 2003 , the Secretary, in cooperation with the Director of the Animal and Plant Health Inspection Service, shall promulgate regulations describing the persons described in paragraph (2).
+  - **(4)** Nothing in this subsection preempts or supersedes the authority of a State to regulate wildlife species within that State.
+  - **(5)** There is authorized to be appropriated to carry out subsection (a)(2)(C) $3,000,000 for each of fiscal years 2004 through 2008.
 - **(f)**
   - **(1)** Effective 180 days from the date of enactment of this subsection, and except as provided in paragraph (3), it shall be unlawful for any person to import any plant unless the person files upon importation a declaration that contains—
     - **(A)** the scientific name of any plant (including the genus and species of the plant) contained in the importation;

@@ -3,9 +3,9 @@ title: "Section 5354 - Rules and regulations"
 usc_title: 25
 usc_section: "5354"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "25 U.S.C. § 5354"
-generated_at: "2026-03-29T20:04:54.473Z"
+generated_at: "2026-03-29T20:32:54.795Z"
 ---
 
 # § 5354. Rules and regulations

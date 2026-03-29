@@ -3,9 +3,9 @@ title: "Section 326 - State assumption of responsibility for categorical exclusi
 usc_title: 23
 usc_section: "326"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "23 U.S.C. § 326"
-generated_at: "2026-03-29T20:04:52.016Z"
+generated_at: "2026-03-29T20:32:49.836Z"
 ---
 
 # § 326. State assumption of responsibility for categorical exclusions
@@ -25,9 +25,8 @@ generated_at: "2026-03-29T20:04:52.016Z"
     - **(B)** developing a memorandum of understanding under this subsection; or
     - **(C)** addressing a responsibility in need of corrective action under subsection (d)(1)(B).
   - **(3)** A memorandum of understanding—
-    - **(A)** except as provided under subparagraph (C), shall have a term of not more than 3 years;
-    - **(B)** shall be renewable; and
-    - **(C)** shall have a term of 5 years, in the case of a State that has assumed the responsibility for categorical exclusions under this section for not fewer than 10 years.
+    - **(A)** shall have a term of not more than 3 years; and
+    - **(B)** shall be renewable.
   - **(4)** In a memorandum of understanding, the State shall consent to accept the jurisdiction of the Federal courts for the compliance, discharge, and enforcement of any responsibility of the Secretary that the State assumes.
   - **(5)** The Secretary shall—
     - **(A)** monitor compliance by the State with the memorandum of understanding and the provision by the State of financial resources to carry out the memorandum of understanding; and

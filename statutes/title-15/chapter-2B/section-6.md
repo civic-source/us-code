@@ -3,9 +3,9 @@ title: "Section 6 - Securities whistleblower incentives and protection"
 usc_title: 15
 usc_section: "6"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 6"
-generated_at: "2026-03-29T20:03:27.173Z"
+generated_at: "2026-03-29T20:32:09.696Z"
 ---
 
 # § 78u–6. Securities whistleblower incentives and protection
@@ -56,7 +56,9 @@ generated_at: "2026-03-29T20:03:27.173Z"
 - **(f)** Any determination made under this section, including whether, to whom, or in what amount to make awards, shall be in the discretion of the Commission. Any such determination, except the determination of the amount of an award if the award was made in accordance with subsection (b), may be appealed to the appropriate court of appeals of the United States not more than 30 days after the determination is issued by the Commission. The court shall review the determination made by the Commission in accordance with section 706 of title 5 .
 - **(g)**
   - **(1)** There is established in the Treasury of the United States a fund to be known as the “Securities and Exchange Commission Investor Protection Fund”.
-- **(a)** The Fund shall be available to the Commission, without further appropriation or fiscal year limitation, for paying awards to whistleblowers as provided in subsection (b).
+  - **(2)** The Fund shall be available to the Commission, without further appropriation or fiscal year limitation, for—
+    - **(A)** paying awards to whistleblowers as provided in subsection (b); and
+    - **(B)** funding the activities of the Inspector General of the Commission under section 78d(i) of this title .
   - **(3)**
     - **(A)** There shall be deposited into or credited to the Fund an amount equal to—
       - **(i)** any monetary sanction collected by the Commission in any judicial or administrative action brought by the Commission under the securities laws that is not added to a disgorgement fund or other fund under section 308 of the Sarbanes-Oxley Act of 2002 ( 15 U.S.C. 7246 ) or otherwise distributed to victims of a violation of the securities laws, or the rules and regulations thereunder, underlying such action, unless the balance of the Fund at the time the monetary sanction is collected exceeds $300,000,000;

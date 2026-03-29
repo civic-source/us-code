@@ -3,9 +3,9 @@ title: "Section 1732 - Record made in regular course of business; photographic c
 usc_title: 28
 usc_section: "1732"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "28 U.S.C. § 1732"
-generated_at: "2026-03-29T20:05:24.784Z"
+generated_at: "2026-03-29T20:33:11.493Z"
 ---
 
 # § 1732. Record made in regular course of business; photographic copies

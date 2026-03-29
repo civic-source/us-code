@@ -3,9 +3,9 @@ title: "Section 501 - Establishment"
 usc_title: 39
 usc_section: "501"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "39 U.S.C. § 501"
-generated_at: "2026-03-29T20:05:38.506Z"
+generated_at: "2026-03-29T20:33:51.059Z"
 ---
 
 # § 501. Establishment

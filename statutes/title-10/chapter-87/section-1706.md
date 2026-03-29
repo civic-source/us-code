@@ -3,16 +3,16 @@ title: "Section 1706 - Government performance of certain acquisition functions"
 usc_title: 10
 usc_section: "1706"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 1706"
-generated_at: "2026-03-29T20:03:09.623Z"
+generated_at: "2026-03-29T20:31:54.541Z"
 ---
 
 # § 1706. Government performance of certain acquisition functions
 
-- **(a)** It shall be the goal of the Department of Defense and each of the military departments to ensure that, for each major defense acquisition program (as defined in section 4201 of this title ), each acquisition program that is estimated by the Secretary of Defense to require an eventual total expenditure greater than the amount described in section 4201(a)(2) of this title , and any other acquisition program identified by the Secretary, each of the following positions is performed by a properly qualified member of the armed forces or full-time employee of the Department of Defense:
-  - **(1)** Portfolio acquisition executive.
-  - **(2)** Deputy portfolio acquisition executive.
+- **(a)** It shall be the goal of the Department of Defense and each of the military departments to ensure that, for each major defense acquisition program (as defined in section 2430 of this title ), each acquisition program that is estimated by the Secretary of Defense to require an eventual total expenditure greater than the amount described in section 2430(a)(1)(B) of this title , and any other acquisition program identified by the Secretary, each of the following positions is performed by a properly qualified member of the armed forces or full-time employee of the Department of Defense:
+  - **(1)** Program executive officer.
+  - **(2)** Deputy program executive officer.
   - **(3)** Program manager.
   - **(4)** Deputy program manager.
   - **(5)** Senior contracting official.

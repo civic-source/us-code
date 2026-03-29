@@ -3,9 +3,9 @@ title: "Section 1307 - Water rights and replacement"
 usc_title: 30
 usc_section: "1307"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "30 U.S.C. § 1307"
-generated_at: "2026-03-29T20:05:08.751Z"
+generated_at: "2026-03-29T20:33:07.424Z"
 ---
 
 # § 1307. Water rights and replacement

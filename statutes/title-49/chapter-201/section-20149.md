@@ -3,9 +3,9 @@ title: "Section 20149 - Coordination with the Department of Labor"
 usc_title: 49
 usc_section: "20149"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 20149"
-generated_at: "2026-03-29T20:07:58.492Z"
+generated_at: "2026-03-29T20:35:10.817Z"
 ---
 
 # § 20149. Coordination with the Department of Labor

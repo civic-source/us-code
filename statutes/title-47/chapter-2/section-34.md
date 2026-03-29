@@ -3,9 +3,9 @@ title: "Section 34 - Licenses for landing or operating cables connecting United 
 usc_title: 47
 usc_section: "34"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "47 U.S.C. § 34"
-generated_at: "2026-03-29T20:08:02.442Z"
+generated_at: "2026-03-29T20:35:00.300Z"
 ---
 
 # § 34. Licenses for landing or operating cables connecting United States with foreign country; necessity for

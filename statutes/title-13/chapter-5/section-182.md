@@ -3,9 +3,9 @@ title: "Section 182 - Surveys"
 usc_title: 13
 usc_section: "182"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "13 U.S.C. § 182"
-generated_at: "2026-03-29T20:03:15.416Z"
+generated_at: "2026-03-29T20:31:59.113Z"
 ---
 
 # § 182. Surveys

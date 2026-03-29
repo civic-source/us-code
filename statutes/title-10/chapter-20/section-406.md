@@ -3,9 +3,9 @@ title: "Section 406 - Renumbered § 401(f)]"
 usc_title: 10
 usc_section: "406"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 406"
-generated_at: "2026-03-29T20:03:09.458Z"
+generated_at: "2026-03-29T20:31:54.411Z"
 ---
 
 # [§ 406. Renumbered § 401(f)]

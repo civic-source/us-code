@@ -3,9 +3,9 @@ title: "Section 1406 - Retired pay base for members who first became members bef
 usc_title: 10
 usc_section: "1406"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 1406"
-generated_at: "2026-03-29T20:03:09.588Z"
+generated_at: "2026-03-29T20:31:54.509Z"
 ---
 
 # § 1406. Retired pay base for members who first became members before September 8, 1980 : final basic pay
@@ -46,5 +46,5 @@ generated_at: "2026-03-29T20:03:09.588Z"
       - **(ii)** Master Chief Petty Officer of the Navy.
       - **(iii)** Chief Master Sergeant of the Air Force.
       - **(iv)** Sergeant Major of the Marine Corps.
-      - **(v)** Chief Master Sergeant of the Space Force.
+      - **(v)** The senior enlisted advisor of the Space Force.
       - **(vi)** Master Chief Petty Officer of the Coast Guard.

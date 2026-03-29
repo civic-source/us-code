@@ -3,14 +3,14 @@ title: "Section 8687 - Status of Government rights in the designs of vessels, bo
 usc_title: 10
 usc_section: "8687"
 chapter: 863
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 8687"
-generated_at: "2026-03-29T20:03:09.876Z"
+generated_at: "2026-03-29T20:31:54.742Z"
 ---
 
 # § 8687. Status of Government rights in the designs of vessels, boats, and craft, and components thereof
 
 - **(a)** Government rights in the design of a vessel, boat, or craft, and its components, including the hull, decks, superstructure, and all shipboard equipment and systems, shall be determined solely as follows:
-  - **(1)** In the case of a vessel, boat, craft, or component procured through a contract, in accordance with the provisions of subchapter I of chapter 275 of this title.
-  - **(2)** In the case of a vessel, boat, craft, or component procured through an instrument not governed by subchapter I of chapter 275 of this title, by the terms of the instrument (other than a contract) under which the design for such vessel, boat, craft, or component, as applicable, was developed for the Government.
+  - **(1)** In the case of a vessel, boat, craft, or component procured through a contract, in accordance with the provisions of section 2320 of this title .
+  - **(2)** In the case of a vessel, boat, craft, or component procured through an instrument not governed by section 2320 of this title , by the terms of the instrument (other than a contract) under which the design for such vessel, boat, craft, or component, as applicable, was developed for the Government.
 - **(b)** This section may be modified or superseded by a provision of statute only if such provision expressly refers to this section in modifying or superseding this section.

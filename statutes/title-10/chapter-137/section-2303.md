@@ -1,12 +1,20 @@
 ---
-title: "Section 2303 - Repealed. Pub. L. 116–283, div. A, title XVIII, § 1807(c)(4) , Jan. 1, 2021 , 134 Stat. 4157 ]"
+title: "Section 2303 - Applicability of chapter"
 usc_title: 10
 usc_section: "2303"
 chapter: 137
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2303"
-generated_at: "2026-03-29T20:03:09.669Z"
+generated_at: "2026-03-29T20:31:54.573Z"
 ---
 
-# [§ 2303. Repealed. Pub. L. 116–283, div. A, title XVIII, § 1807(c)(4) , Jan. 1, 2021 , 134 Stat. 4157 ]
+# § 2303. Applicability of chapter
 
+- **(a)** This chapter applies to the procurement by any of the following agencies, for its use or otherwise, of all property (other than land) and all services for which payment is to be made from appropriated funds:
+  - **(1)** The Department of Defense.
+  - **(2)** The Department of the Army.
+  - **(3)** The Department of the Navy.
+  - **(4)** The Department of the Air Force.
+  - **(5)** The Coast Guard.
+  - **(6)** The National Aeronautics and Space Administration.
+- **(b)** The provisions of this chapter that apply to the procurement of property apply also to contracts for its installation or alteration.

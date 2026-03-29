@@ -3,9 +3,9 @@ title: "Section 8308a - Animal disease prevention and management"
 usc_title: 7
 usc_section: "8308a"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 8308a"
-generated_at: "2026-03-29T20:02:52.851Z"
+generated_at: "2026-03-29T20:31:42.276Z"
 ---
 
 # § 8308a. Animal disease prevention and management
@@ -56,7 +56,7 @@ generated_at: "2026-03-29T20:02:52.851Z"
         - **(I)** the agricultural industries in the State or region;
         - **(II)** factors contributing to animal pest or disease in the State or region, such as the climate, natural resources, and geography of, and native and exotic wildlife species and other disease vectors in, the State or region; and
         - **(III)** the movement of animals in the State or region.
-  - **(5)** For purposes of setting priorities under this subsection, the Secretary shall consult with eligible entities specified in paragraph (3). The Federal Advisory Committee Act (5 U.S.C. App.) 1 1 See References in Text note below. shall not apply to consultation carried out under this paragraph.
+  - **(5)** For purposes of setting priorities under this subsection, the Secretary shall consult with eligible entities specified in paragraph (3). The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to consultation carried out under this paragraph.
   - **(6)**
     - **(A)** An eligible entity specified in paragraph (3) seeking to enter into an agreement under the Program shall submit to the Secretary an application containing such information as the Secretary may require.
     - **(B)** The Secretary shall notify each applicant of—
@@ -78,12 +78,7 @@ generated_at: "2026-03-29T20:02:52.851Z"
 - **(d)**
   - **(1)**
     - **(A)** Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $120,000,000 for the period of fiscal years 2019 through 2022, of which not less than $5,000,000 shall be made available for each of those fiscal years to carry out subsection (b).
-    - **(B)** Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $30,000,000 for each of fiscal years 2023 through 2025, of which not less than $18,000,000 shall be made available for each of those fiscal years to carry out subsection (b).
-    - **(C)** Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $233,000,000 for each of fiscal years 2026 through 2030, of which—
-      - **(i)** not less than $10,000,000 shall be made available for each such fiscal year to carry out subsection (a);
-      - **(ii)** not less than $70,000,000 shall be made available for each such fiscal year to carry out subsection (b); and
-      - **(iii)** not less than $153,000,000 shall be made available for each such fiscal year to carry out subsection (c).
-    - **(D)** Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $75,000,000 for fiscal year 2031 and each fiscal year thereafter, of which not less than $45,000,000 shall be made available for each of those fiscal years to carry out subsection (b).
+    - **(B)** Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $30,000,000 for fiscal year 2023 and each fiscal year thereafter, of which not less than $18,000,000 shall be made available for each of those fiscal years to carry out subsection (b).
   - **(2)**
     - **(A)** In addition to the funds made available under paragraph (1), there is authorized to be appropriated $30,000,000 for each of fiscal years 2019 through 2023 to carry out subsection (a).
     - **(B)** In addition to the funds made available under paragraph (1), there is authorized to be appropriated such sums as are necessary for each of fiscal years 2019 through 2023 to carry out subsections (b) and (c).

@@ -3,9 +3,9 @@ title: "Section 457 - Deferred compensation plans of State and local governments
 usc_title: 26
 usc_section: "457"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 457"
-generated_at: "2026-03-29T20:05:22.364Z"
+generated_at: "2026-03-29T20:33:26.990Z"
 ---
 
 # § 457. Deferred compensation plans of State and local governments and tax-exempt organizations
@@ -26,9 +26,7 @@ generated_at: "2026-03-29T20:05:22.364Z"
     - **(B)** the sum of—
       - **(i)** the plan ceiling established for purposes of paragraph (2) for the taxable year (determined without regard to this paragraph), plus
       - **(ii)** so much of the plan ceiling established for purposes of paragraph (2) for taxable years before the taxable year as has not previously been used under paragraph (2) or this paragraph,
-  - **(4)** which provides that compensation—
-    - **(A)** in the case of an eligible employer described in subsection (e)(1)(A), will be deferred only if an agreement providing for such deferral has been entered into before the compensation is currently available to the individual, and
-    - **(B)** in any other case, will be deferred for any calendar month only if an agreement providing for such deferral has been entered into before the beginning of such month,
+  - **(4)** which provides that compensation will be deferred for any calendar month only if an agreement providing for such deferral has been entered into before the beginning of such month,
   - **(5)** which meets the distribution requirements of subsection (d), and
   - **(6)** except as provided in subsection (g), which provides that—
     - **(A)** all amounts of compensation deferred under the plan,
@@ -40,17 +38,13 @@ generated_at: "2026-03-29T20:05:22.364Z"
     - **(A)** under the plan amounts will not be made available to participants or beneficiaries earlier than—
       - **(i)** the calendar year in which the participant attains age 70½ (in the case of a plan maintained by an employer described in subsection (e)(1)(A), age 59½),
       - **(ii)** when the participant has a severance from employment with the employer,
-      - **(iii)** when the participant is faced with an unforeseeable emergency (determined in the manner prescribed by the Secretary in regulations),
-      - **(iv)** except as may be otherwise provided by regulations, in the case of a plan maintained by an employer described in subsection (e)(1)(A), with respect to amounts invested in a lifetime income investment (as defined in section 401(a)(38)(B)(ii)), the date that is 90 days prior to the date that such lifetime income investment may no longer be held as an investment option under the plan, or
-      - **(v)** as provided in section 401(a)(39),
+      - **(iii)** when the participant is faced with an unforeseeable emergency (determined in the manner prescribed by the Secretary in regulations), or
+      - **(iv)** except as may be otherwise provided by regulations, in the case of a plan maintained by an employer described in subsection (e)(1)(A), with respect to amounts invested in a lifetime income investment (as defined in section 401(a)(38)(B)(ii)), the date that is 90 days prior to the date that such lifetime income investment may no longer be held as an investment option under the plan,
     - **(B)** the plan meets the minimum distribution requirements of paragraph (2),
     - **(C)** in the case of a plan maintained by an employer described in subsection (e)(1)(A), the plan meets requirements similar to the requirements of section 401(a)(31), and
     - **(D)** except as may be otherwise provided by regulations, in the case of amounts described in subparagraph (A)(iv), such amounts will be distributed only in the form of a qualified distribution (as defined in section 401(a)(38)(B)(i)) or a qualified plan distribution annuity contract (as defined in section 401(a)(38)(B)(iv)).
   - **(2)** A plan meets the minimum distribution requirements of this paragraph if such plan meets the requirements of section 401(a)(9).
   - **(3)** An eligible deferred compensation plan of an employer described in subsection (e)(1)(A) shall not be treated as failing to meet the requirements of this subsection solely by reason of making a distribution described in subsection (e)(9)(A).
-  - **(4)** In determining whether a distribution to a participant is made when the participant is faced with an unforeseeable emergency, the administrator of a plan maintained by an eligible employer described in subsection (e)(1)(A) may rely on a written certification by the participant that the distribution is—
-    - **(A)** made when the participant is faced with an unforeseeable emergency of a type which is described in regulations prescribed by the Secretary as an unforeseeable emergency, and
-    - **(B)** not in excess of the amount required to satisfy the emergency need, and
 - **(e)** For purposes of this section—
   - **(1)** The term “eligible employer” means—
     - **(A)** a State, political subdivision of a State, and any agency or instrumentality of a State or political subdivision of a State, and
@@ -112,7 +106,7 @@ generated_at: "2026-03-29T20:05:22.364Z"
   - **(18)** In the case of an individual who is an eligible participant (as defined by section 414(v)) and who is a participant in an eligible deferred compensation plan of an employer described in paragraph (1)(A), subsections (b)(3) and (c) shall be applied by substituting for the amount otherwise determined under the applicable subsection the greater of—
     - **(A)** the sum of—
       - **(i)** the plan ceiling established for purposes of subsection (b)(2) (without regard to subsection (b)(3)), plus
-      - **(ii)** the lesser of any designated Roth contributions made by the participant to the plan or the applicable dollar amount for the taxable year determined under section 414(v)(2)(B)(i), or
+      - **(ii)** the applicable dollar amount for the taxable year determined under section 414(v)(2)(B)(i), or
     - **(B)** the amount determined under the applicable subsection (without regard to this paragraph).
 - **(f)**
   - **(1)** In the case of a plan of an eligible employer providing for a deferral of compensation, if such plan is not an eligible deferred compensation plan, then—

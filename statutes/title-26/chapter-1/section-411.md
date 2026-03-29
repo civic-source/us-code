@@ -3,9 +3,9 @@ title: "Section 411 - Minimum vesting standards"
 usc_title: 26
 usc_section: "411"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 411"
-generated_at: "2026-03-29T20:05:22.321Z"
+generated_at: "2026-03-29T20:33:26.947Z"
 ---
 
 # § 411. Minimum vesting standards
@@ -107,7 +107,7 @@ generated_at: "2026-03-29T20:05:22.321Z"
     - **(A)** A plan amendment changing any vesting schedule under the plan shall be treated as not satisfying the requirements of paragraph (2) if the nonforfeitable percentage of the accrued benefit derived from employer contributions (determined as of the later of the date such amendment is adopted, or the date such amendment becomes effective) of any employee who is a participant in the plan is less than such nonforfeitable percentage computed under the plan without regard to such amendment.
     - **(B)** A plan amendment changing any vesting schedule under the plan shall be treated as not satisfying the requirements of paragraph (2) unless each participant having not less than 3 years of service is permitted to elect, within a reasonable period after the adoption of such amendment, to have his nonforfeitable percentage computed under the plan without regard to such amendment.
   - **(11)**
-    - **(A)** If the present value of any nonforfeitable accrued benefit exceeds $7,000, a plan meets the requirements of this paragraph only if such plan provides that such benefit may not be immediately distributed without the consent of the participant.
+    - **(A)** If the present value of any nonforfeitable accrued benefit exceeds $5,000, a plan meets the requirements of this paragraph only if such plan provides that such benefit may not be immediately distributed without the consent of the participant.
     - **(B)** For purposes of subparagraph (A), the present value shall be calculated in accordance with section 417(e)(3).
     - **(C)** This paragraph shall not apply to any distribution of dividends to which section 404(k) applies.
     - **(D)** A plan shall not fail to meet the requirements of this paragraph if, under the terms of the plan, the present value of the nonforfeitable accrued benefit is determined without regard to that portion of such benefit which is attributable to rollover contributions (and earnings allocable thereto). For purposes of this subparagraph, the term “rollover contributions” means any rollover contribution under sections 402(c), 403(a)(4), 403(b)(8), 408(d)(3)(A)(ii), and 457(e)(16).
@@ -194,7 +194,6 @@ generated_at: "2026-03-29T20:05:22.321Z"
       - **(iii)** For purposes of this subparagraph, the term “indexing” means, in connection with an accrued benefit, the periodic adjustment of the accrued benefit by means of the application of a recognized investment index or methodology.
     - **(F)** For purposes of this paragraph, the terms “early retirement benefit” and “retirement-type subsidy” have the meaning given such terms in subsection (d)(6)(B)(i).
     - **(G)** For purposes of this paragraph, any reference to the accrued benefit shall be a reference to such benefit accrued to date.
-  - **(6)** For purposes of subparagraphs (A), (B), and (C) of paragraph (1), in the case of an applicable defined benefit plan (as defined in subsection (a)(13)(C)) which provides variable interest crediting rates, the interest crediting rate which is treated as in effect and as the projected interest crediting rate shall be a reasonable projection of such variable interest crediting rate, not to exceed 6 percent.
 - **(c)**
   - **(1)** For purposes of this section, an employee’s accrued benefit derived from employer contributions as of any applicable date is the excess, if any, of the accrued benefit for such employee as of such applicable date over the accrued benefit derived from contributions made by such employee as of such date.
   - **(2)**

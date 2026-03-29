@@ -3,12 +3,13 @@ title: "Section 8662 - Naming"
 usc_title: 10
 usc_section: "8662"
 chapter: 863
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 8662"
-generated_at: "2026-03-29T20:03:09.870Z"
+generated_at: "2026-03-29T20:31:54.739Z"
 ---
 
 # § 8662. Naming
 
 - **(a)** Not more than one vessel of the Navy may have the same name.
-- **(b)** The Secretary of the Navy may change the name of any vessel bought for the Navy.
+- **(b)** Each battleship shall be named for a State. However, if the names of all the States are in use, a battleship may be named for a city, place, or person.
+- **(c)** The Secretary of the Navy may change the name of any vessel bought for the Navy.

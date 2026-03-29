@@ -3,9 +3,9 @@ title: "Section 2113a - Good neighbor authority"
 usc_title: 16
 usc_section: "2113a"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 2113a"
-generated_at: "2026-03-29T20:04:20.376Z"
+generated_at: "2026-03-29T20:32:45.409Z"
 ---
 
 # § 2113a. Good neighbor authority
@@ -20,9 +20,7 @@ generated_at: "2026-03-29T20:04:20.376Z"
   - **(3)**
     - **(A)** The term “Federal land” means land that is—
       - **(i)** National Forest System land; or
-      - **(ii)** public land (as defined in section 1702 of title 43 ); or
-      - **(iii)** National Park System land; or
-      - **(iv)** National Wildlife Refuge Land.
+      - **(ii)** public land (as defined in section 1702 of title 43 ).
     - **(B)** The term “Federal land” does not include—
       - **(i)** a component of the National Wilderness Preservation System;
       - **(ii)** Federal land on which the removal of vegetation is prohibited or restricted by Act of Congress or Presidential proclamation (including the applicable implementation plan); or
@@ -33,7 +31,7 @@ generated_at: "2026-03-29T20:04:20.376Z"
       - **(ii)** activities to reduce hazardous fuels; and
       - **(iii)** any other activities to restore or improve forest, rangeland, and watershed health, including fish and wildlife habitat.
     - **(B)** The term “forest, rangeland, and watershed restoration services” does not include—
-      - **(i)** construction, reconstruction, repair, or restoration of paved or permanent roads or parking areas, other than the reconstruction, repair, or restoration of a National Forest System, Bureau of Land Management, National Park Service, or National Wildlife Refuge managed road that is—
+      - **(i)** construction, reconstruction, repair, or restoration of paved or permanent roads or parking areas, other than the reconstruction, repair, or restoration of a National Forest System road that is—
         - **(I)** necessary to carry out authorized restoration services pursuant to a good neighbor agreement; and
         - **(II)** in the case of a National Forest System road that is determined to be unneeded in accordance with section 212.5(b)(2) of title 36, Code of Federal Regulations (as in effect on March 23, 2018 ), decommissioned in accordance with subparagraph (A)(iii)—
       - **(ii)** construction, alteration, repair or replacement of public buildings or works.
@@ -53,9 +51,9 @@ generated_at: "2026-03-29T20:04:20.376Z"
     - **(A)** Subsections (d) and (g) of section 472a of this title shall not apply to services performed under a good neighbor agreement.
     - **(B)** The Secretary shall provide or approve all silviculture prescriptions and marking guides to be applied on Federal land in all timber sale projects conducted under this section.
     - **(C)**
-      - **(i)** Funds received from the sale of timber by a Governor, Indian Tribe, or county under a good neighbor agreement shall be retained and used by the Governor, Indian Tribe, or county, as applicable—
-        - **(I)** to carry out authorized restoration services on 1 1 So in original. under the good neighbor agreement; and
-        - **(II)** if there are funds remaining after carrying out clause (i), 2 2 So in original. Probably should be “subclause (I)”. to carry out—
-      - **(ii)** The authority provided under this subparagraph terminates effective October 1, 2028 .
+      - **(i)** Funds received from the sale of timber by a Governor of a State under a good neighbor agreement shall be retained and used by the Governor—
+        - **(I)** to carry out authorized restoration services on Federal land under the good neighbor agreement; and
+        - **(II)** if there are funds remaining after carrying out subclause (I), to carry out authorized restoration services on Federal land within the State under other good neighbor agreements.
+      - **(ii)** The authority provided by this subparagraph terminates effective October 1, 2023 .
   - **(3)** Any decision required to be made under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) with respect to any authorized restoration services to be provided under this section on Federal land shall not be delegated to a Governor or county.
-  - **(4)** Notwithstanding any other provision of law, any payment made by a county to the Secretary under a project conducted under a good neighbor agreement shall not be considered to be monies received from National Forest System, Bureau of Land Management, National Park System, or U.S. Fish and Wildlife Service land, as applicable.
+  - **(4)** Notwithstanding any other provision of law, any payment made by a county to the Secretary under a project conducted under a good neighbor agreement shall not be considered to be monies received from National Forest System land or Bureau of Land Management land, as applicable.

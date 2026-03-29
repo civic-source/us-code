@@ -3,9 +3,9 @@ title: "Section 3901 - Contracts: prohibition on competition between Department 
 usc_title: 10
 usc_section: "3901"
 chapter: 287
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 3901"
-generated_at: "2026-03-29T20:03:09.772Z"
+generated_at: "2026-03-29T20:31:54.682Z"
 ---
 
 # § 3901. Contracts: prohibition on competition between Department of Defense and small businesses

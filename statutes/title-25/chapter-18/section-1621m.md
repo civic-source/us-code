@@ -3,9 +3,9 @@ title: "Section 1621m - Epidemiology centers"
 usc_title: 25
 usc_section: "1621m"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "25 U.S.C. § 1621m"
-generated_at: "2026-03-29T20:04:54.362Z"
+generated_at: "2026-03-29T20:32:54.696Z"
 ---
 
 # § 1621m. Epidemiology centers

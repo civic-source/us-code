@@ -3,9 +3,9 @@ title: "Section 1352 - Limitation on use of appropriated funds to influence cert
 usc_title: 31
 usc_section: "1352"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "31 U.S.C. § 1352"
-generated_at: "2026-03-29T20:05:32.575Z"
+generated_at: "2026-03-29T20:33:31.761Z"
 ---
 
 # § 1352. Limitation on use of appropriated funds to influence certain Federal contracting and financial transactions

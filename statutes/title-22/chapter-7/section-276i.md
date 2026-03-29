@@ -3,9 +3,9 @@ title: "Section 276i - Authorization of appropriations; disbursements"
 usc_title: 22
 usc_section: "276i"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 276i"
-generated_at: "2026-03-29T20:04:46.649Z"
+generated_at: "2026-03-29T20:32:59.858Z"
 ---
 
 # § 276i. Authorization of appropriations; disbursements

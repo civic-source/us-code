@@ -3,9 +3,9 @@ title: "Section 130e - Treatment under Freedom of Information Act of certain cri
 usc_title: 10
 usc_section: "130e"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 130e"
-generated_at: "2026-03-29T20:03:09.415Z"
+generated_at: "2026-03-29T20:31:54.380Z"
 ---
 
 # § 130e. Treatment under Freedom of Information Act of certain critical infrastructure security information
@@ -19,5 +19,6 @@ generated_at: "2026-03-29T20:03:09.415Z"
   - **(2)**
     - **(A)** A State or local law authorizing or requiring a State or local government to disclose Department of Defense critical infrastructure security information that is covered by a written determination under subsection (a) shall not apply to such information.
     - **(B)** If a person requests pursuant to a State or local law that a State or local government disclose information that is designated as Department of Defense critical infrastructure security information under subsection (b), the State or local government shall provide the Secretary an opportunity to carry out the determination process under subsection (a) to determine whether to exempt such information from disclosure pursuant to subparagraph (A).
-- **(d)** Each determination of the Secretary under subsection (a) shall be made in writing and accompanied by a statement of the basis for the determination. All such determinations and statements of basis shall be available to the public, upon request.
-- **(e)** In this section, the term “Department of Defense critical infrastructure security information” means sensitive but unclassified information that, if disclosed, would reveal vulnerabilities in Department of Defense critical infrastructure that, if exploited, would likely result in the significant disruption, destruction, or damage of or to Department of Defense operations, property, or facilities, including information regarding the securing and safeguarding of explosives, hazardous chemicals, or pipelines, related to critical infrastructure or protected systems owned or operated by or on behalf of the Department of Defense, including vulnerability assessments prepared by or on behalf of the Department of Defense, explosives safety information (including storage and handling), and other site-specific information on or relating to installation security.
+- **(d)** The Secretary of Defense may delegate the authority to make a determination under subsection (a) to the Director of Administration and Management.
+- **(e)** Each determination of the Secretary, or the Secretary’s designee, under subsection (a) shall be made in writing and accompanied by a statement of the basis for the determination. All such determinations and statements of basis shall be available to the public, upon request, through the Office of the Director of Administration and Management.
+- **(f)** In this section, the term “Department of Defense critical infrastructure security information” means sensitive but unclassified information that, if disclosed, would reveal vulnerabilities in Department of Defense critical infrastructure that, if exploited, would likely result in the significant disruption, destruction, or damage of or to Department of Defense operations, property, or facilities, including information regarding the securing and safeguarding of explosives, hazardous chemicals, or pipelines, related to critical infrastructure or protected systems owned or operated by or on behalf of the Department of Defense, including vulnerability assessments prepared by or on behalf of the Department of Defense, explosives safety information (including storage and handling), and other site-specific information on or relating to installation security.

@@ -3,9 +3,9 @@ title: "Section 865 - Art. 65. Transmittal and review of records"
 usc_title: 10
 usc_section: "865"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 865"
-generated_at: "2026-03-29T20:03:09.510Z"
+generated_at: "2026-03-29T20:31:54.451Z"
 ---
 
 # § 865. Art. 65. Transmittal and review of records
@@ -14,14 +14,14 @@ generated_at: "2026-03-29T20:03:09.510Z"
   - **(1)** If the judgment of a general or special court-martial entered under section 860c of this title (article 60c) includes a finding of guilty, the record shall be transmitted to the Judge Advocate General.
   - **(2)** In all other cases, records of trial by court-martial and related documents shall be transmitted and disposed of as the Secretary concerned may prescribe by regulation.
 - **(b)**
-  - **(1)** If the judgment includes a sentence of death, dismissal of a commissioned officer, cadet, or midshipman, dishonorable discharge or bad-conduct discharge, or confinement for 2 years or more, the Judge Advocate General shall forward—
-    - **(A)** the record of trial to the Court of Criminal Appeals for review under section 866(b)(3) of this title (article 66(b)(3)); and
-    - **(B)** a copy of the record of trial to an appellate defense counsel who shall be detailed to review the case and, upon request of the accused, to represent the accused before the Court of Criminal Appeals.
+  - **(1)** If the judgment includes a sentence of death, dismissal of a commissioned officer, cadet, or midshipman, dishonorable discharge or bad-conduct discharge, or confinement for 2 years or more, the Judge Advocate General shall forward the record of trial to the Court of Criminal Appeals for review under section 866(b)(3) of this title (article 66(b)(3)).
   - **(2)**
-    - **(A)** If the case is eligible for direct review under section 866(b)(1) of this title (article 66(b)(1)), the Judge Advocate General shall, upon written request of the accused—
-      - **(i)** forward a copy of the record of trial to an appellate defense counsel who shall be detailed to review the case and to represent the accused before the Court of Criminal Appeals; and
-      - **(ii)** forward a copy of the record of trial to civilian counsel provided by the accused.
-    - **(B)** Subparagraph (A) shall not apply if the accused waives the right to appeal under section 861 of this title (article 61).
+    - **(A)** If the case is eligible for direct review under section 866(b)(1) of this title (article 66(b)(1)), the Judge Advocate General shall—
+      - **(i)** forward a copy of the record of trial to an appellate defense counsel who shall be detailed to review the case and, upon request of the accused, to represent the accused before the Court of Criminal Appeals; and
+      - **(ii)** upon written request of the accused, forward a copy of the record of trial to civilian counsel provided by the accused.
+    - **(B)** Subparagraph (A) shall not apply if the accused—
+      - **(i)** waives the right to appeal under section 861 of this title (article 61); or
+      - **(ii)** declines in writing the detailing of appellate defense counsel under subparagraph (A)(i).
 - **(c)**
   - **(1)** The Judge Advocate General shall provide notice to the accused of the right to file an appeal under section 866(b)(1) of this title (article 66(b)(1)) by means of depositing in the United States mails for delivery by first class certified mail to the accused at an address provided by the accused or, if no such address has been provided by the accused, at the latest address listed for the accused in the official service record of the accused.
   - **(2)** Paragraph (1) shall not apply if the accused waives the right to appeal under section 861 of this title (article 61).
@@ -44,6 +44,4 @@ generated_at: "2026-03-29T20:03:09.510Z"
   - **(2)** In setting aside findings or sentence, the Judge Advocate General may order a rehearing, except that a rehearing may not be ordered in violation of section 844 of this title (article 44).
   - **(3)**
     - **(A)** If the Judge Advocate General sets aside findings and sentence and does not order a rehearing, the Judge Advocate General shall dismiss the charges.
-    - **(B)**
-      - **(i)** Subject to clause (ii), if the Judge Advocate General sets aside findings and orders a rehearing and the convening authority determines that a rehearing would be impractical, the convening authority shall dismiss the charges.
-      - **(ii)** If a case was referred to trial by a special trial counsel, a special trial counsel shall determine if a rehearing is impracticable and shall dismiss the charges if the special trial counsel so determines.
+    - **(B)** If the Judge Advocate General sets aside findings and orders a rehearing and the convening authority determines that a rehearing would be impractical, the convening authority shall dismiss the charges.

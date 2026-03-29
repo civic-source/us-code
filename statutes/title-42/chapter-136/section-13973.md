@@ -3,9 +3,9 @@ title: "Section 13973 - Repealed. Pub. L. 113–4, title V, § 501(b)(1) , Mar. 
 usc_title: 42
 usc_section: "13973"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 13973"
-generated_at: "2026-03-29T20:07:44.828Z"
+generated_at: "2026-03-29T20:34:54.180Z"
 ---
 
 # § 13973. Repealed. Pub. L. 113–4, title V, § 501(b)(1) , Mar. 7, 2013 , 127 Stat. 101

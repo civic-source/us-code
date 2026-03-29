@@ -3,9 +3,9 @@ title: "Section 885 - Repealed. Aug. 6, 1947, ch. 504, § 10(6) , 61 Stat. 788"
 usc_title: 33
 usc_section: "885"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "33 U.S.C. § 885"
-generated_at: "2026-03-29T20:05:35.695Z"
+generated_at: "2026-03-29T20:33:34.200Z"
 ---
 
 # § 885. Repealed. Aug. 6, 1947, ch. 504, § 10(6) , 61 Stat. 788

@@ -3,9 +3,9 @@ title: "Section 3603 - Integrated Coastal and Ocean Observing System"
 usc_title: 33
 usc_section: "3603"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "33 U.S.C. § 3603"
-generated_at: "2026-03-29T20:05:35.877Z"
+generated_at: "2026-03-29T20:33:34.334Z"
 ---
 
 # § 3603. Integrated Coastal and Ocean Observing System
@@ -96,7 +96,7 @@ generated_at: "2026-03-29T20:05:35.877Z"
       - **(vii)** complies with all financial oversight requirements established by the Administrator, including requirements relating to audits.
     - **(B)** For the purposes of this chapter, employees of Federal agencies are permitted to be members of the governing body for the regional coastal observing systems and may participate in the functions of the regional coastal observing systems.
 - **(d)**
-  - **(1)** The Administrator shall establish or designate a System advisory committee, which shall provide advice as may be requested by the Administrator or the Council under this chapter 1 1 So in original. Probably should be followed by a period.
+  - **(1)** The Administrator shall establish or designate a System advisory committee, which shall provide advice as may be requested by the Administrator or the Council under this chapter.
   - **(2)** The purpose of the System advisory committee is to advise the Administrator and the Interagency Ocean Observing Committee on—
     - **(A)** administration, operation, management, and maintenance of the System, including integration of Federal and non-Federal assets and data management, data sharing, and communication aspects of the System, and fulfillment of the purposes set forth in section 3601 of this title ;
     - **(B)** expansion and periodic modernization and upgrade of technology components of the System;
@@ -124,6 +124,6 @@ generated_at: "2026-03-29T20:05:35.877Z"
     - **(B)** The Administrator shall provide administrative support to the System advisory committee.
     - **(C)** The System advisory committee shall meet at least once each year, and at other times at the call of the Administrator, the Interagency Ocean Observation Committee, or the chairperson.
     - **(D)** Members of the System advisory committee shall not be compensated for service on that Committee, but may be allowed travel expenses, including per diem in lieu of subsistence, in accordance with subchapter I of chapter 57 of title 5.
-    - **(E)** Section 1013 of title 5 shall not apply to the System advisory committee.
+    - **(E)** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the System advisory committee.
 - **(e)** For purposes of determining liability arising from the dissemination and use of observation data gathered pursuant to this section, any non-Federal asset or regional coastal observing system incorporated into the System by a memorandum of agreement of certification under subsection (c)(3)(C)(iii) that is participating in the System shall be considered to be part of the National Oceanic and Atmospheric Administration. Any employee of such a non-Federal asset or regional coastal observing system, while operating within the scope of his or her employment in carrying out the purposes of this chapter, with respect to tort liability, is deemed to be an employee of the Federal Government.
 - **(f)** Nothing in this chapter shall be construed to invalidate existing certifications, contracts, or agreements between regional coastal observing systems and other elements of the System.

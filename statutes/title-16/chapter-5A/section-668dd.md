@@ -3,9 +3,9 @@ title: "Section 668dd - National Wildlife Refuge System"
 usc_title: 16
 usc_section: "668dd"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 668dd"
-generated_at: "2026-03-29T20:04:20.179Z"
+generated_at: "2026-03-29T20:32:45.247Z"
 ---
 
 # § 668dd. National Wildlife Refuge System
@@ -115,4 +115,4 @@ generated_at: "2026-03-29T20:04:20.179Z"
     - **(B)** affect any water right in existence on October 9, 1997 ; or
     - **(C)** affect any Federal or State law in existence on October 9, 1997 , regarding water quality or water quantity.
   - **(2)** Nothing in this Act shall diminish or affect the ability to join the United States in the adjudication of rights to the use of water pursuant to section 666 of title 43 .
-- **(o)** Coordination with State fish and wildlife agency personnel or with personnel of other affected State agencies pursuant to this Act shall not be subject to chapter 10 of title 5.
+- **(o)** Coordination with State fish and wildlife agency personnel or with personnel of other affected State agencies pursuant to this Act shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).

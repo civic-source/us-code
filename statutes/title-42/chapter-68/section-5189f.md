@@ -3,9 +3,9 @@ title: "Section 5189f - Public assistance program alternative procedures"
 usc_title: 42
 usc_section: "5189f"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 5189f"
-generated_at: "2026-03-29T20:07:44.354Z"
+generated_at: "2026-03-29T20:34:53.666Z"
 ---
 
 # § 5189f. Public assistance program alternative procedures

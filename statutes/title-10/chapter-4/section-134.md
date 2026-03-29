@@ -3,9 +3,9 @@ title: "Section 134 - Under Secretary of Defense for Policy"
 usc_title: 10
 usc_section: "134"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 134"
-generated_at: "2026-03-29T20:03:09.417Z"
+generated_at: "2026-03-29T20:31:54.383Z"
 ---
 
 # § 134. Under Secretary of Defense for Policy
@@ -17,9 +17,8 @@ generated_at: "2026-03-29T20:03:09.417Z"
     - **(A)** the development, implementation, and integration across the Department of Defense of the National Defense Strategy (as described by section 113 of this title ) and strategic policy guidance for the activities of the Department of Defense across all geographic regions and military functions and domains;
     - **(B)** the integration of the activities of the Department into the National Security Strategy of the United States;
     - **(C)** the development of policy guidance for the preparation of campaign and contingency plans by the combatant commands, and for the review of such plans;
-    - **(D)** the preparation of policy guidance for the development of the global force posture;
-    - **(E)** the development of the Defense Planning Guidance that guides the formulation of program and budget requests by the military departments and other elements of the Department; and
-    - **(F)** the development of strategic policy guidance for the Department of Defense to enable the achievement of Presidential objectives outlined within the nuclear weapons employment guidance of the United States, as described in section 491 of this title .
+    - **(D)** the preparation of policy guidance for the development of the global force posture; and
+    - **(E)** the development of the Defense Planning Guidance that guides the formulation of program and budget requests by the military departments and other elements of the Department.
   - **(3)** Subject to the authority, direction, and control of the Secretary of Defense, the Under Secretary shall have responsibility for supervising and directing activities of the Department of Defense relating to export controls.
   - **(4)** Subject to the authority, direction, and control of the Secretary of Defense, the Under Secretary of Defense for Policy shall have overall direction and supervision for policy, program planning and execution, and allocation and use of resources for the activities of the Department of Defense for combating terrorism.
   - **(5)** Subject to the authority, direction, and control of the Secretary of Defense, the Under Secretary shall coordinate with the Chairman of the Joint Chiefs of Staff and the Director of Cost Assessment and Program Evaluation to—

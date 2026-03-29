@@ -3,9 +3,9 @@ title: "Section 8633 - Auxiliary vessels: extended lease authority"
 usc_title: 10
 usc_section: "8633"
 chapter: 861
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 8633"
-generated_at: "2026-03-29T20:03:09.870Z"
+generated_at: "2026-03-29T20:31:54.738Z"
 ---
 
 # § 8633. Auxiliary vessels: extended lease authority
@@ -27,7 +27,7 @@ generated_at: "2026-03-29T20:03:09.870Z"
     - **(B)** the effect on the private sector manpower pool; and
     - **(C)** the operational requirements of the Department of the Navy.
 - **(g)**
-  - **(1)** The Secretary may waive the applicability of subsection (b)(2) of section 3672 and section 3675 of this title to a contract authorized by law as provided in subsection (b) if the Secretary makes the following findings with respect to that contract:
+  - **(1)** The Secretary may waive the applicability of subsections (e)(2) and (f) of section 2401 of this title to a contract authorized by law as provided in subsection (b) if the Secretary makes the following findings with respect to that contract:
     - **(A)** The need for the vessels or services to be provided under the contract is expected to remain substantially unchanged during the contemplated contract or option period.
     - **(B)** There is a reasonable expectation that throughout the contemplated contract or option period the Secretary of the Navy (or, if the contract is for services to be provided to, and funded by, another military department, the Secretary of that military department) will request funding for the contract at the level required to avoid contract cancellation.
     - **(C)** The timeliness of consideration of the contract by Congress is such that such a waiver is in the interest of the United States.

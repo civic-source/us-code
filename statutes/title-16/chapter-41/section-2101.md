@@ -3,9 +3,9 @@ title: "Section 2101 - Findings, purpose, and policy"
 usc_title: 16
 usc_section: "2101"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 2101"
-generated_at: "2026-03-29T20:04:20.366Z"
+generated_at: "2026-03-29T20:32:45.404Z"
 ---
 
 # § 2101. Findings, purpose, and policy

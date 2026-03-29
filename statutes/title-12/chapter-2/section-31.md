@@ -3,9 +3,9 @@ title: "Section 31 - Rights and liabilities as affected by change of name"
 usc_title: 12
 usc_section: "31"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "12 U.S.C. § 31"
-generated_at: "2026-03-29T20:03:45.560Z"
+generated_at: "2026-03-29T20:32:14.829Z"
 ---
 
 # § 31. Rights and liabilities as affected by change of name

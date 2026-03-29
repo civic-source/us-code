@@ -3,9 +3,9 @@ title: "Section 2734d - Recruitment and retention of individuals who have lived,
 usc_title: 22
 usc_section: "2734d"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 2734d"
-generated_at: "2026-03-29T20:04:46.822Z"
+generated_at: "2026-03-29T20:33:00.010Z"
 ---
 
 # § 2734d. Recruitment and retention of individuals who have lived, worked, or studied in predominantly Muslim countries or communities

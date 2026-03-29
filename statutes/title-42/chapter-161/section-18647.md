@@ -3,9 +3,9 @@ title: "Section 18647 - Science laboratories infrastructure program"
 usc_title: 42
 usc_section: "18647"
 chapter: 161
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 18647"
-generated_at: "2026-03-29T20:07:45.007Z"
+generated_at: "2026-03-29T20:34:54.323Z"
 ---
 
 # § 18647. Science laboratories infrastructure program
@@ -17,12 +17,3 @@ generated_at: "2026-03-29T20:07:45.007Z"
   - **(3)** to modernize utility systems to prevent failures and ensure efficiency;
   - **(4)** to remove excess facilities to allow safe and efficient operations; and
   - **(5)** to construct modern facilities to conduct advanced research in controlled environmental conditions.
-- **(c)** In carrying out the program under subsection (a), the Director shall use all available approaches and mechanisms, as the Secretary determines to be appropriate, including—
-  - **(1)** capital line items;
-  - **(2)** minor construction projects;
-  - **(3)** energy savings performance contracts;
-  - **(4)** utility energy service contracts;
-  - **(5)** alternative financing; and
-  - **(6)** expense funding.
-- **(d)** For each fiscal year through fiscal year 2027, at the same time as the annual budget submission of the President, the Secretary shall submit to the Committee on Appropriations and the Committee on Energy and Natural Resources of the Senate and the Committee on Appropriations and the Committee on Science, Space, and Technology of the House of Representatives a list of projects for which the Secretary will provide funding under this section, including a description of each project and the funding profile for the project.
-- **(e)** Out of funds authorized to be appropriated for the Office of Science in a fiscal year, there is authorized to be appropriated to the Secretary to carry out the activities described in this section $550,000,000 for each of fiscal years 2023 through 2027.

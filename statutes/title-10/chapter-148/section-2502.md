@@ -1,12 +1,25 @@
 ---
-title: "Section 2502 - Renumbered § 4812]"
+title: "Section 2502 - National Defense Technology and Industrial Base Council"
 usc_title: 10
 usc_section: "2502"
 chapter: 148
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2502"
-generated_at: "2026-03-29T20:03:09.688Z"
+generated_at: "2026-03-29T20:31:54.619Z"
 ---
 
-# [§ 2502. Renumbered § 4812]
+# § 2502. National Defense Technology and Industrial Base Council
 
+- **(a)** There is a National Defense Technology and Industrial Base Council.
+- **(b)** The Council is composed of the following members:
+  - **(1)** The Secretary of Defense, who shall serve as chairman.
+  - **(2)** The Secretary of Energy.
+  - **(3)** The Secretary of Commerce.
+  - **(4)** The Secretary of Labor.
+  - **(5)** Such other officials as may be determined by the President.
+- **(c)** The Council shall have the responsibility to ensure effective cooperation among departments and agencies of the Federal Government, and to provide advice and recommendations to the President, the Secretary of Defense, the Secretary of Energy, the Secretary of Commerce, and the Secretary of Labor, concerning—
+  - **(1)** the capabilities of the national technology and industrial base to meet the national security objectives set forth in section 2501(a) of this title ;
+  - **(2)** programs for achieving such national security objectives;
+  - **(3)** changes in acquisition policy that strengthen the national technology and industrial base; and
+  - **(4)** collaboration with government officials of member countries of the national technology and industrial base in order to strengthen the national technology and industrial base.
+- **(d)** Notwithstanding subsection (c), the President may assign the responsibilities of the Council to another interagency organization of the executive branch that includes among its members the officials specified in paragraphs (1) through (4) of subsection (b).

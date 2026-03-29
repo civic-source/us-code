@@ -3,9 +3,9 @@ title: "Section 2015 - Eligibility disqualifications"
 usc_title: 7
 usc_section: "2015"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 2015"
-generated_at: "2026-03-29T20:02:52.613Z"
+generated_at: "2026-03-29T20:31:42.068Z"
 ---
 
 # § 2015. Eligibility disqualifications
@@ -178,13 +178,7 @@ generated_at: "2026-03-29T20:02:52.613Z"
   - **(6)** is receiving benefits under a State program funded under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.);
   - **(7)** is so enrolled as a result of participation in the work incentive program under title IV of the Social Security Act [ 42 U.S.C. 601 et seq.] or its successor programs; or
   - **(8)** is enrolled full-time in an institution of higher education, as determined by the institution, and is a single parent with responsibility for the care of a dependent child under age 12.
-- **(f)** No individual who is a member of a household otherwise eligible to participate in the supplemental nutrition assistance program under this section shall be eligible to participate in the supplemental nutrition assistance program as a member of that or any other household unless he or she is—
-  - **(1)** a resident of the United States; and
-  - **(2)** either—
-    - **(A)** a citizen or national of the United States;
-    - **(B)** an alien lawfully admitted for permanent residence as an immigrant as defined by sections 1101(a)(15) and 1101(a)(20) of title 8, excluding, among others, alien visitors, tourists, diplomats, and students who enter the United States temporarily with no intention of abandoning their residence in a foreign country;
-    - **(C)** an alien who has been granted the status of Cuban and Haitian entrant, as defined in section 501(e) of the Refugee Education Assistance Act of 1980 ( Public Law 96–422 ); or
-    - **(D)** an individual who lawfully resides in the United States in accordance with a Compact of Free Association referred to in section 1612(b)(2)(G) of title 8 .
+- **(f)** No individual who is a member of a household otherwise eligible to participate in the supplemental nutrition assistance program under this section shall be eligible to participate in the supplemental nutrition assistance program as a member of that or any other household unless he or she is (1) a resident of the United States and (2) either (A) a citizen or (B) an alien lawfully admitted for permanent residence as an immigrant as defined by sections 1101(a)(15) and 1101(a)(20) of title 8, excluding, among others, alien visitors, tourists, diplomats, and students who enter the United States temporarily with no intention of abandoning their residence in a foreign country; or (C) an alien who entered the United States prior to June 30, 1948 , or such subsequent date as is enacted by law, has continuously maintained his or her residence in the United States since then, and is not ineligible for citizenship, but who is deemed to be lawfully admitted for permanent residence as a result of an exercise of discretion by the Attorney General pursuant to section 1259 of title 8 ; or (D) an alien who has qualified for conditional entry pursuant to sections 1157 and 1158 of title 8; or (E) an alien who is lawfully present in the United States as a result of an exercise of discretion by the Attorney General for emergent reasons or reasons deemed strictly in the public interest pursuant to section 1182(d)(5) of title 8 ; or (F) an alien within the United States as to whom the Attorney General has withheld deportation pursuant to section 1231(b)(3) of title 8 . No aliens other than the ones specifically described in clauses (B) through (F) of this subsection shall be eligible to participate in the supplemental nutrition assistance program as a member of any household. The income (less, at State option, a pro rata share) and financial resources of the individual rendered ineligible to participate in the supplemental nutrition assistance program under this subsection shall be considered in determining the eligibility and the value of the allotment of the household of which such individual is a member.
 - **(g)** No individual who receives supplemental security income benefits under title XVI of the Social Security Act [ 42 U.S.C. 1381 et seq.], State supplementary payments described in section 1616 of such Act [ 42 U.S.C. 1382e ], or payments of the type referred to in section 212(a) of Public Law 93–66 , as amended, shall be considered to be a member of a household for any month, if, for such month, such individual resides in a State which provides State supplementary payments (1) of the type described in section 1616(a) of the Social Security Act [ 42 U.S.C. 1382e(a) ] and section 212(a) of Public Law 93–66 , and (2) the level of which has been found by the Commissioner of Social Security to have been specifically increased so as to include the bonus value of food stamps.
 - **(h)** No household that knowingly transfers assets for the purpose of qualifying or attempting to qualify for the supplemental nutrition assistance program shall be eligible to participate in the program for a period of up to one year from the date of discovery of the transfer.
 - **(i)**
@@ -234,21 +228,16 @@ generated_at: "2026-03-29T20:02:52.613Z"
     - **(C)** participate in and comply with the requirements of a program under section 2029 of this title or a comparable program established by a State or political subdivision of a State; or
     - **(D)** receive benefits pursuant to paragraph (3), (4), (5), or (6).
   - **(3)** Paragraph (2) shall not apply to an individual if the individual is—
-    - **(A)** under 18, or over 65, years of age;
+    - **(A)** under 18 or over 50 years of age;
     - **(B)** medically certified as physically or mentally unfit for employment;
-    - **(C)** a parent or other member of a household with responsibility for a dependent child under 14 years of age;
-    - **(D)** otherwise exempt under subsection (d)(2);
-    - **(E)** a pregnant woman;
-    - **(F)** an Indian or an Urban Indian (as such terms are defined in paragraphs (13) and (28) of section 1603 of title 25 ); or
-    - **(G)** a California Indian described in section 1679(a) of title 25 .
+    - **(C)** a parent or other member of a household with responsibility for a dependent child;
+    - **(D)** otherwise exempt under subsection (d)(2); or
+    - **(E)** a pregnant woman.
   - **(4)**
     - **(A)** On the request of a State agency and with the support of the chief executive officer of the State, the Secretary may waive the applicability of paragraph (2) to any group of individuals in the State if the Secretary makes a determination that the area in which the individuals reside—
       - **(i)** has an unemployment rate of over 10 percent; or
-      - **(ii)** is in a noncontiguous State and has an unemployment rate that is at or above 1.5 times the national unemployment rate.
+      - **(ii)** does not have a sufficient number of jobs to provide employment for the individuals.
     - **(B)** The Secretary shall report the basis for a waiver under subparagraph (A) to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
-    - **(C)**
-      - **(i)** In this paragraph, the term “noncontiguous State” means a State that is not 1 of the contiguous 48 States or the District of Columbia.
-      - **(ii)** The term “noncontiguous State” does not include Guam or the Virgin Islands of the United States.
   - **(5)**
     - **(A)** An individual denied eligibility under paragraph (2) shall regain eligibility to participate in the supplemental nutrition assistance program if, during a 30-day period, the individual—
       - **(i)** works 80 or more hours;
@@ -267,36 +256,14 @@ generated_at: "2026-03-29T20:02:52.613Z"
         - **(III)** is not complying with subparagraph (A), (B), or (C) of paragraph (2);
         - **(IV)** is not receiving supplemental nutrition assistance program benefits during the 3 months of eligibility provided under paragraph (2); and
         - **(V)** is not receiving supplemental nutrition assistance program benefits under paragraph (5).
-    - **(B)** Subject to subparagraphs (C) through (I), a State agency may provide an exemption from the requirements of paragraph (2) for covered individuals.
-    - **(C)** Subject to subparagraphs (G) and (I), for fiscal year 1998, a State agency may provide a number of exemptions such that the average monthly number of the exemptions in effect during the fiscal year does not exceed 15 percent of the number of covered individuals in the State in fiscal year 1998, as estimated by the Secretary, based on the survey conducted to carry out section 2025(c) of this title for fiscal year 1996 and such other factors as the Secretary considers appropriate due to the timing and limitations of the survey.
-    - **(D)** Subject to subparagraphs (G) through (I), for fiscal year 1999 and each subsequent fiscal year through fiscal year 2019, a State agency may provide a number of exemptions such that the average monthly number of the exemptions in effect during the fiscal year does not exceed 15 percent of the number of covered individuals in the State, as estimated by the Secretary under subparagraph (C), adjusted by the Secretary to reflect changes in the State’s caseload and the Secretary’s estimate of changes in the proportion of members of households that receive supplemental nutrition assistance program benefits covered by waivers granted under paragraph (4).
-    - **(E)** Subject to subparagraphs (G) through (I), for fiscal year 2020 and each subsequent fiscal year through fiscal year 2023, a State agency may provide a number of exemptions such that the average monthly number of exemptions in effect during the fiscal year does not exceed 12 percent of the number of covered individuals in the State, as estimated by the Secretary under subparagraph (C), adjusted by the Secretary to reflect changes in the State’s caseload and the Secretary’s estimate of changes in the proportion of members of households that receive supplemental nutrition assistance program benefits covered by waivers granted under paragraph (4).
-    - **(F)** Subject to subparagraphs (G) through (I), for fiscal years 2024 and each subsequent fiscal year, a State agency may provide a number of exemptions such that the average monthly number of exemptions in effect during the fiscal year does not exceed 8 percent of the number of covered individuals in the State, as estimated by the Secretary under subparagraph (C), adjusted by the Secretary to reflect changes in the State’s caseload and the Secretary’s estimate of changes in the proportion of members of households that receive supplemental nutrition assistance program benefits covered by waivers granted under paragraph (4) 1 1 So in original. Probably should be followed by a period.
-    - **(G)** The Secretary shall adjust the number of individuals estimated for a State under subparagraph (C), (D),, 2 2 So in original. (E) or (F) during a fiscal year if the number of members of households that receive supplemental nutrition assistance program benefits in the State varies from the State’s caseload by more than 10 percent, as determined by the Secretary.
-    - **(H)** During fiscal year 1999 and each subsequent fiscal year, the Secretary shall increase or decrease the number of individuals who may be granted an exemption by a State agency under this paragraph to the extent that the average monthly number of exemptions in effect in the State for the preceding fiscal year under this paragraph is lesser or greater than the average monthly number of exemptions estimated for the State agency for such preceding fiscal year under this paragraph.
-    - **(I)** A State agency shall submit such reports to the Secretary as the Secretary determines are necessary to ensure compliance with this paragraph.
-    - **(J)** During fiscal year 2024 and each subsequent fiscal year, nothing in this paragraph shall be interpreted to allow a State agency to accumulate unused exemptions to be provided beyond the subsequent fiscal year.
-  - **(7)**
-    - **(A)**
-      - **(i)** In this paragraph, the term “noncontiguous State” means a State that is not 1 of the contiguous 48 States or the District of Columbia.
-      - **(ii)** In this paragraph, the term “noncontiguous State” does not include Guam or the Virgin Islands of the United States.
-    - **(B)** Subject to subparagraph (D), the Secretary may exempt individuals in a noncontiguous State from compliance with the requirements of paragraph (2) if—
-      - **(i)** the State agency submits to the Secretary a request for that exemption, made in such form and at such time as the Secretary may require, and including the information described in subparagraph (C); and
-      - **(ii)** the Secretary determines that based on that request, the State agency is demonstrating a good faith effort to comply with the requirements of paragraph (2).
-    - **(C)** In determining whether a State agency is demonstrating a good faith effort for purposes of subparagraph (B)(ii), the Secretary shall consider—
-      - **(i)** any actions taken by the State agency toward compliance with the requirements of paragraph (2);
-      - **(ii)** any significant barriers to or challenges in meeting those requirements, including barriers or challenges relating to funding, design, development, procurement, or installation of necessary systems or resources;
-      - **(iii)** the detailed plan and timeline of the State agency for achieving full compliance with those requirements, including any milestones (as defined by the Secretary); and
-      - **(iv)** any other criteria determined appropriate by the Secretary.
-    - **(D)**
-      - **(i)** An exemption granted under subparagraph (B) shall expire not later than December 31, 2028 , and may not be renewed beyond that date.
-      - **(ii)** The Secretary may terminate an exemption granted under subparagraph (B) prior to the expiration date of that exemption if the Secretary determines that the State agency—
-        - **(I)** has failed to comply with the reporting requirements described in subparagraph (E); or
-        - **(II)** based on the information provided pursuant to subparagraph (E), failed to make continued good faith efforts toward compliance with the requirements of this subsection.
-    - **(E)** A State agency granted an exemption under subparagraph (B) shall submit to the Secretary—
-      - **(i)** quarterly progress reports on the status of the State agency in achieving the milestones toward full compliance described in subparagraph (C)(iii); and
-      - **(ii)** information on specific risks or newly identified barriers or challenges to full compliance, including the plan of the State agency to mitigate those risks, barriers, or challenges.
-  - **(8)** Nothing in this subsection shall make an individual eligible for benefits under this chapter if the individual is not otherwise eligible for benefits under the other provisions of this chapter.
+    - **(B)** Subject to subparagraphs (C) through (H), a State agency may provide an exemption from the requirements of paragraph (2) for covered individuals.
+    - **(C)** Subject to subparagraphs (F) and (H), for fiscal year 1998, a State agency may provide a number of exemptions such that the average monthly number of the exemptions in effect during the fiscal year does not exceed 15 percent of the number of covered individuals in the State in fiscal year 1998, as estimated by the Secretary, based on the survey conducted to carry out section 2025(c) of this title for fiscal year 1996 and such other factors as the Secretary considers appropriate due to the timing and limitations of the survey.
+    - **(D)** Subject to subparagraphs (F) through (H), for fiscal year 1999 and each subsequent fiscal year through fiscal year 2019, a State agency may provide a number of exemptions such that the average monthly number of the exemptions in effect during the fiscal year does not exceed 15 percent of the number of covered individuals in the State, as estimated by the Secretary under subparagraph (C), adjusted by the Secretary to reflect changes in the State’s caseload and the Secretary’s estimate of changes in the proportion of members of households that receive supplemental nutrition assistance program benefits covered by waivers granted under paragraph (4).
+    - **(E)** Subject to subparagraphs (F) through (H), for fiscal year 2020 and each subsequent fiscal year, a State agency may provide a number of exemptions such that the average monthly number of exemptions in effect during the fiscal year does not exceed 12 percent of the number of covered individuals in the State, as estimated by the Secretary under subparagraph (C), adjusted by the Secretary to reflect changes in the State’s caseload and the Secretary’s estimate of changes in the proportion of members of households that receive supplemental nutrition assistance program benefits covered by waivers granted under paragraph (4).
+    - **(F)** The Secretary shall adjust the number of individuals estimated for a State under subparagraph (C), (D), or (E) during a fiscal year if the number of members of households that receive supplemental nutrition assistance program benefits in the State varies from the State’s caseload by more than 10 percent, as determined by the Secretary.
+    - **(G)** During fiscal year 1999 and each subsequent fiscal year, the Secretary shall increase or decrease the number of individuals who may be granted an exemption by a State agency under this paragraph to the extent that the average monthly number of exemptions in effect in the State for the preceding fiscal year under this paragraph is lesser or greater than the average monthly number of exemptions estimated for the State agency for such preceding fiscal year under this paragraph.
+    - **(H)** A State agency shall submit such reports to the Secretary as the Secretary determines are necessary to ensure compliance with this paragraph.
+  - **(7)** Nothing in this subsection shall make an individual eligible for benefits under this chapter if the individual is not otherwise eligible for benefits under the other provisions of this chapter.
 - **(p)** Subject to any requirements established by the Secretary, any person who has been found by a State or Federal court or administrative agency in a hearing under subsection (b) to have intentionally obtained cash by purchasing products with supplemental nutrition assistance program benefits that have containers that require return deposits, discarding the product, and returning the container for the deposit amount shall be ineligible for benefits under this chapter for such period of time as the Secretary shall prescribe by regulation.
 - **(q)** Subject to any requirements established by the Secretary, any person who has been found by a State or Federal court or administrative agency in a hearing under subsection (b) to have intentionally sold any food that was purchased using supplemental nutrition assistance program benefits shall be ineligible for benefits under this chapter for such period of time as the Secretary shall prescribe by regulation.
 - **(r)**
@@ -305,7 +272,7 @@ generated_at: "2026-03-29T20:02:52.613Z"
       - **(i)** aggravated sexual abuse under section 2241 of title 18 ;
       - **(ii)** murder under section 1111 of title 18 ;
       - **(iii)** an offense under chapter 110 of title 18;
-      - **(iv)** a Federal or State offense involving sexual assault, as defined in 13925(a) 3 3 So in original. Probably should be preceded by “section”. of title 42; or
+      - **(iv)** a Federal or State offense involving sexual assault, as defined in 13925(a) 1 1 So in original. Probably should be preceded by “section”. of title 42; or
       - **(v)** an offense under State law determined by the Attorney General to be substantially similar to an offense described in clause (i), (ii), or (iii); and
     - **(B)** the individual is not in compliance with the terms of the sentence of the individual or the restrictions under subsection (k).
   - **(2)** The amount of benefits otherwise required to be provided to an eligible household under this chapter shall be determined by considering the individual to whom paragraph (1) applies not to be a member of the household, except that the income and resources of the individual shall be considered to be income and resources of the household.

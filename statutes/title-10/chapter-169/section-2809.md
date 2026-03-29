@@ -3,9 +3,9 @@ title: "Section 2809 - Long-term facilities contracts for certain activities and
 usc_title: 10
 usc_section: "2809"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2809"
-generated_at: "2026-03-29T20:03:09.720Z"
+generated_at: "2026-03-29T20:31:54.650Z"
 ---
 
 # § 2809. Long-term facilities contracts for certain activities and services
@@ -26,6 +26,6 @@ generated_at: "2026-03-29T20:03:09.720Z"
   - **(1)** A statement that the obligation of the United States to make payments under the contract in any fiscal year is subject to appropriations being provided specifically for that fiscal year and specifically for that project.
   - **(2)** A commitment to obligate the necessary amount for each fiscal year covered by the contract when and to the extent that funds are appropriated for that project for that fiscal year.
   - **(3)** A statement that such a commitment given under the authority of this section does not constitute an obligation of the United States.
-- **(d)** Each contract entered into under this section shall be awarded through the use of competitive procedures as provided in chapter 137 1 1 See References in Text note below. of this title. In accordance with such procedures, the Secretary concerned shall solicit bids or proposals for a contract for each project that has been authorized by law.
+- **(d)** Each contract entered into under this section shall be awarded through the use of competitive procedures as provided in chapter 137 of this title. In accordance with such procedures, the Secretary concerned shall solicit bids or proposals for a contract for each project that has been authorized by law.
 - **(e)** A contract under this section may be for any period not in excess of 32 years, excluding the period for construction.
 - **(f)** The Secretary concerned may enter into a contract under this section only after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title , to the appropriate committees of Congress a justification of the need for the facility covered by the proposed contract, including an economic analysis (based upon accepted life cycle costing procedures) which demonstrates that the proposed contract is cost effective when compared with alternative means of furnishing the same facility.

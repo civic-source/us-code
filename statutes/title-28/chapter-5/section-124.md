@@ -3,9 +3,9 @@ title: "Section 124 - Texas"
 usc_title: 28
 usc_section: "124"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "28 U.S.C. § 124"
-generated_at: "2026-03-29T20:05:24.738Z"
+generated_at: "2026-03-29T20:33:11.444Z"
 ---
 
 # § 124. Texas
@@ -39,6 +39,6 @@ generated_at: "2026-03-29T20:05:24.738Z"
   - **(3)** The El Paso Division comprises the county of El Paso. Court for the El Paso Division shall be held at El Paso.
   - **(4)** The San Antonio Division comprises the counties of Atascosa, Bandera, Bexar, Comal, Dimmit, Frio, Gonzales, Guadalupe, Karnes, Kendall, Kerr, Medina, Real, and Wilson. Court for the San Antonio Division shall be held at San Antonio.
   - **(5)** The Del Rio Division comprises the counties of Edwards, Kinney, Maverick, Terrell, Uvalde, Val Verde, and Zavalla. Court for the Del Rio Division shall be held at Del Rio.
-  - **(6)** The Pecos Division comprises the counties of Brewster, Culberson, Jeff Davis, Hudspeth, Loving, Pecos, Presidio, Reeves, Ward, and Winkler. Court for the Pecos Division shall be held at Pecos and Alpine.
+  - **(6)** The Pecos Division comprises the counties of Brewster, Culberson, Jeff Davis, Hudspeth, Loving, Pecos, Presidio, Reeves, Ward, and Winkler. Court for the Pecos Division shall be held at Pecos.
   - **(7)** The Midland-Odessa Division comprises the counties of Andrews, Crane, Ector, Martin, Midland, and Upton. Court for the Midland-Odessa Division shall be held at Midland. Court may be held, in the discretion of the court, in Odessa, when courtroom facilities are made available at no expense to the Government.
 

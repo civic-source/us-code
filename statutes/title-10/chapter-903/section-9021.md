@@ -1,16 +1,16 @@
 ---
-title: "Section 9021 - Space Acquisition Council"
+title: "Section 9021 - Space Force Acquisition Council"
 usc_title: 10
 usc_section: "9021"
 chapter: 903
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 9021"
-generated_at: "2026-03-29T20:03:09.887Z"
+generated_at: "2026-03-29T20:31:54.750Z"
 ---
 
-# § 9021. Space Acquisition Council
+# § 9021. Space Force Acquisition Council
 
-- **(a)** There is in the Office of the Secretary of the Air Force a council to be known as the “Space Acquisition Council” (in this section referred to as the “Council”).
+- **(a)** There is in the Office of the Secretary of the Air Force a council to be known as the “Space Force Acquisition Council” (in this section referred to as the “Council”).
 - **(b)** The members of the Council are as follows:
   - **(1)** The Under Secretary of the Air Force.
   - **(2)** The Assistant Secretary of the Air Force for Space Acquisition and Integration, who shall act as chair of the Council.
@@ -18,18 +18,6 @@ generated_at: "2026-03-29T20:03:09.887Z"
   - **(4)** The Director of the National Reconnaissance Office.
   - **(5)** The Chief of Space Operations.
   - **(6)** The Commander of the United States Space Command.
-- **(c)**
-  - **(1)** The Council shall oversee, direct, and manage acquisition and integration space systems and programs of the armed forces in order to ensure integration across the national security space enterprise.
-  - **(2)**
-    - **(A)** The Council shall promptly—
-      - **(i)** review any determination made by the Assistant Secretary of the Air Force for Space Acquisition and Integration with respect to architecture for the space systems and programs of the armed forces under section 9016(b)(6)(B)(i) of this title , including the requirements for operating such space systems or programs; and
-      - **(ii)** either—
-        - **(I)** if the Council finds such a determination to be warranted, certify the determination; or
-        - **(II)** if the Council finds such a determination not to be warranted, decline to certify the determination.
-    - **(B)** Not later than 10 business days after the date on which the Council makes a finding with respect to a certification under subparagraph (A), the Council shall submit to the congressional defense committees a notification of the finding, including a detailed justification for the finding.
-    - **(C)** Except as provided in subparagraph (D), the Assistant Secretary of the Air Force for Space Acquisition and Integration may not take any action to implement a determination referred to in subparagraph (A)(i) until 30 days has elapsed following the date on which the Council submits the notification under subparagraph (B).
-    - **(D)**
-      - **(i)** The Secretary of Defense may waive subparagraph (C) in the event of an urgent national security requirement.
-      - **(ii)** The Secretary of Defense shall submit to the congressional defense committees a notification of any waiver granted under clause (i), including a justification for the waiver.
+- **(c)** The Council shall oversee, direct, and manage acquisition and integration of the Air Force for space systems and programs in order to ensure integration across the national security space enterprise.
 - **(d)** The Council shall meet not less frequently than monthly.
 - **(e)** Not later than 30 days after the end of each calendar year quarter through the first calendar year quarter of 2025, the Council shall submit to the congressional defense committees a report on the activities of the Council during the calendar year quarter preceding the calendar year quarter in which such report is submitted.

@@ -1,14 +1,14 @@
 ---
-title: "Section 6428 - 2020 recovery rebates for individuals"
+title: "Section 6428 - 2020 Recovery rebates for individuals"
 usc_title: 26
 usc_section: "6428"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 6428"
-generated_at: "2026-03-29T20:05:22.708Z"
+generated_at: "2026-03-29T20:33:27.334Z"
 ---
 
-# § 6428. 2020 recovery rebates for individuals
+# § 6428. 2020 Recovery rebates for individuals
 
 - **(a)** In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by subtitle A for the first taxable year beginning in 2020 an amount equal to the sum of—
   - **(1)** $1,200 ($2,400 in the case of eligible individuals filing a joint return), plus

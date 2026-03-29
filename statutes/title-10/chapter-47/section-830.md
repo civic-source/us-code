@@ -1,14 +1,14 @@
 ---
-title: "Section 830 - Art. 30. Charges and specifications"
+title: "Section 830 - Art 30. Charges and specifications"
 usc_title: 10
 usc_section: "830"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 830"
-generated_at: "2026-03-29T20:03:09.504Z"
+generated_at: "2026-03-29T20:31:54.445Z"
 ---
 
-# § 830. Art. 30. Charges and specifications
+# § 830. Art 30. Charges and specifications
 
 - **(a)** Charges and specifications—
   - **(1)** may be preferred only by a person subject to this chapter; and

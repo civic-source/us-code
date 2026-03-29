@@ -3,9 +3,9 @@ title: "Section 2261 - Cease and desist proceedings"
 usc_title: 12
 usc_section: "2261"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "12 U.S.C. § 2261"
-generated_at: "2026-03-29T20:03:45.828Z"
+generated_at: "2026-03-29T20:32:15.090Z"
 ---
 
 # § 2261. Cease and desist proceedings

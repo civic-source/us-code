@@ -3,9 +3,9 @@ title: "Section 777 - Wearing of insignia of higher grade before promotion (froc
 usc_title: 10
 usc_section: "777"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 777"
-generated_at: "2026-03-29T20:03:09.499Z"
+generated_at: "2026-03-29T20:31:54.442Z"
 ---
 
 # § 777. Wearing of insignia of higher grade before promotion (frocking): authority; restrictions
@@ -26,4 +26,4 @@ generated_at: "2026-03-29T20:03:09.499Z"
     - **(B)** Time of service in that grade.
 - **(d)**
   - **(1)** The total number of colonels, Navy captains, brigadier generals, and rear admirals (lower half) on the active-duty list who are authorized as described in subsection (a) to wear the insignia for the next higher grade may not exceed 85.
-  - **(2)** The number of officers of an armed force on the active-duty list, or for the Space Force, the Space Force officer list, who are authorized as described in subsection (a) to wear the insignia for a grade to which a limitation on total number applies under section 523(a) of this title for a fiscal year may not exceed 1 percent, or, for the grades of colonel and Navy captain, 2 percent, of the total number provided for the officers in that grade in that armed force in the administration of the limitation under that section for that fiscal year.
+  - **(2)** The number of officers of an armed force on the active-duty list who are authorized as described in subsection (a) to wear the insignia for a grade to which a limitation on total number applies under section 523(a) of this title for a fiscal year may not exceed 1 percent, or, for the grades of colonel and Navy captain, 2 percent, of the total number provided for the officers in that grade in that armed force in the administration of the limitation under that section for that fiscal year.

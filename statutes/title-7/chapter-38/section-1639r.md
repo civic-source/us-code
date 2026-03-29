@@ -3,9 +3,9 @@ title: "Section 1639r - Regulations and guidelines; effect on other law"
 usc_title: 7
 usc_section: "1639r"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 1639r"
-generated_at: "2026-03-29T20:02:52.552Z"
+generated_at: "2026-03-29T20:31:42.013Z"
 ---
 
 # § 1639r. Regulations and guidelines; effect on other law

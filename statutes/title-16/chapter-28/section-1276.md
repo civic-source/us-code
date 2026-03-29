@@ -3,9 +3,9 @@ title: "Section 1276 - Rivers constituting potential additions to national wild 
 usc_title: 16
 usc_section: "1276"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 1276"
-generated_at: "2026-03-29T20:04:20.289Z"
+generated_at: "2026-03-29T20:32:45.350Z"
 ---
 
 # § 1276. Rivers constituting potential additions to national wild and scenic rivers system
@@ -195,10 +195,6 @@ generated_at: "2026-03-29T20:04:20.289Z"
     - **(B)** The 10-mile segment of the Squannacook River from the headwaters at Ash Swamp downstream to the confluence with the Nashua River in the towns of Shirley and Ayer, Massachusetts.
     - **(C)** The 3.5-mile segment of the Nissitissit River from the Massachusetts-New Hampshire State line downstream to the confluence with the Nashua River in Pepperell, Massachusetts.
   - **(144)** The segment of the York River that flows 11.25 miles from the headwaters of the York River at York Pond to the mouth of the river at York Harbor, and any associated tributaries.
-  - **(145)** The approximately 50-mile segment beginning at the source in southeastern Hillsborough County, Florida, downstream to the point at which the river enters Tampa Bay, including appropriate tributaries, but shall not include—
-    - **(A)** those portions lying within Manatee County, Florida, and being more particularly described as Parcel ID 247800059, Parcel ID 248200008, and Parcel ID 248100000; and
-    - **(B)** South Fork.
-  - **(146)** The restored segment of the Kissimmee River, beginning approximately 16 miles downstream of Lake Kissimmee and ending approximately 15 miles upstream of Lake Okeechobee.
 - **(b)**
   - **(1)** The studies of rivers named in subparagraphs (28) through (55) of subsection (a) of this section shall be completed and reports thereon submitted by not later than October 2, 1979 : Provided , That with respect to the rivers named in subparagraphs (33), (50), and (51), the Secretaries shall not commence any studies until (i) the State legislature has acted with respect to such rivers or (ii) one year from January 3, 1975 , whichever is earlier. Studies of the river 3 3 So in original. Probably should be “rivers”. named in paragraphs (38), (55), (83), and (87) shall be completed and the reports transmitted to the Congress not later than January 1, 1987 .
   - **(2)** The study of the river named in subparagraph (56) of subsection (a) of this section shall be completed and the report thereon submitted by not later than January 3, 1976 .
@@ -247,12 +243,6 @@ generated_at: "2026-03-29T20:04:20.289Z"
         - **(I)** would authorize or require the Secretary of the Interior—
         - **(II)** the Secretary of the Interior may use to condemn property; and
       - **(iii)** identify any private property located in an area studied under paragraph (142), (143), or (144) of subsection (a).
-  - **(22)** Not later than 3 years after the date on which funds are made available to carry out this paragraph, the Secretary of the Interior shall—
-    - **(A)** complete the study of the Little Manatee River, Florida named in subsection (a)(145); and
-    - **(B)** submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report that describes the results of the study.
-  - **(23)** Not later than 3 years after the date on which funds are made available to carry out this paragraph, the Secretary of the Interior shall—
-    - **(A)** complete the study of the Kissimmee River, Florida named in paragraph (146) of subsection (a); and
-    - **(B)** submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report that describes the results of the study.
 - **(c)** The study of any of said rivers shall be pursued in as close cooperation with appropriate agencies of the affected State and its political subdivisions as possible, shall be carried on jointly with such agencies if request for such joint study is made by the State and shall include a determination of the degree to which the State or its political subdivisions might participate in the preservation and administration of the river should it be proposed for inclusion in the national wild and scenic rivers system.
 - **(d)**
   - **(1)** In all planning for the use and development of water and related land resources, consideration shall be given by all Federal agencies involved to potential national wild, scenic and recreational river areas, and all river basin and project plan reports submitted to the Congress shall consider and discuss any such potentials. The Secretary of the Interior and the Secretary of Agriculture shall make specific studies and investigations to determine which additional wild, scenic and recreational river areas within the United States shall be evaluated in planning reports by all Federal agencies as potential alternative uses of the water and related land resources involved.

@@ -1,14 +1,14 @@
 ---
-title: "Section 7104 - Jurisdiction of the Board; decisions; notice"
+title: "Section 7104 - Jurisdiction of the Board"
 usc_title: 38
 usc_section: "7104"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "38 U.S.C. § 7104"
-generated_at: "2026-03-29T20:05:54.765Z"
+generated_at: "2026-03-29T20:34:04.988Z"
 ---
 
-# § 7104. Jurisdiction of the Board; decisions; notice
+# § 7104. Jurisdiction of the Board
 
 - **(a)** All questions in a matter which under section 511(a) of this title is subject to decision by the Secretary shall be subject to one review on appeal to the Secretary. Final decisions on such appeals shall be made by the Board. Decisions of the Board shall be based on the entire record in the proceeding and upon consideration of all evidence and material of record and applicable provisions of law and regulation.
 - **(b)** Except as provided in section 5108 of this title , when a claim is disallowed by the Board, the claim may not thereafter be readjudicated and allowed and a claim based upon the same factual basis may not be considered.
@@ -19,10 +19,8 @@ generated_at: "2026-03-29T20:05:54.765Z"
     - **(A)** reflecting whether evidence was not considered in making the decision because the evidence was received at a time when not permitted under section 7113 of this title ; and
     - **(B)** noting such options as may be available for having the evidence considered by the Department; and
   - **(3)** an order granting appropriate relief or denying relief.
-- **(e)** After reaching a decision on an appeal, the Board shall promptly issue notice (as that term is defined in section 5100 of this title ) of such decision to the following:
-  - **(1)** The appellant.
-  - **(2)** Any other party with a right to notice of such decision.
-  - **(3)** Any authorized representative of the appellant or party described in paragraph (2).
-- **(f)**
-  - **(1)** The Secretary may provide notice under subsection (e) electronically if a claimant (or the claimant’s representative) elects to receive such notice electronically.
-  - **(2)** A claimant (or the claimant’s representative) may revoke such an election at any time, by means prescribed by the Secretary.
+- **(e)**
+  - **(1)** After reaching a decision on a case, the Board shall promptly mail a copy of its written decision to the claimant at the last known address of the claimant.
+  - **(2)** If the claimant has an authorized representative, the Board shall—
+    - **(A)** mail a copy of its written decision to the authorized representative at the last known address of the authorized representative; or
+    - **(B)** send a copy of its written decision to the authorized representative by any means reasonably likely to provide the authorized representative with a copy of the decision within the same time a copy would be expected to reach the authorized representative if sent by first-class mail.

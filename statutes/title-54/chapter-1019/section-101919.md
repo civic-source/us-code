@@ -3,9 +3,9 @@ title: "Section 101919 - National Park Service Concessions Management Advisory B
 usc_title: 54
 usc_section: "101919"
 chapter: 1019
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "54 U.S.C. § 101919"
-generated_at: "2026-03-29T20:08:14.618Z"
+generated_at: "2026-03-29T20:35:14.754Z"
 ---
 
 # § 101919. National Park Service Concessions Management Advisory Board
@@ -33,4 +33,4 @@ generated_at: "2026-03-29T20:08:14.618Z"
   - **(6)** one member shall be active in promotion of traditional arts and crafts; and
   - **(7)** one member shall be active in a nonprofit conservation organization involved in parks and recreation programs.
 - **(d)** Service of an individual as a member of the Advisory Board shall not be deemed to be service or employment bringing the individual within the provisions of any Federal law relating to conflicts of interest or otherwise imposing restrictions, requirements, or penalties in relation to the employment of individuals, the performance of services, or the payment or receipt of compensation in connection with claims, proceedings, or matters involving the United States. Service as a member of the Advisory Board shall not be deemed service in an appointive or elective position in the Federal Government for purposes of section 8344 of title 5 or other comparable provisions of Federal law.
-- **(e)** The Advisory Board shall continue to exist until December 31, 2009 . In all other respects, it shall be subject to chapter 10 of title 5.
+- **(e)** The Advisory Board shall continue to exist until December 31, 2009 . In all other respects, it shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.).

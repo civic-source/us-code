@@ -3,9 +3,9 @@ title: "Section 2265 - Suspension or removal of director or officer charged with
 usc_title: 12
 usc_section: "2265"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "12 U.S.C. § 2265"
-generated_at: "2026-03-29T20:03:45.829Z"
+generated_at: "2026-03-29T20:32:15.090Z"
 ---
 
 # § 2265. Suspension or removal of director or officer charged with felony

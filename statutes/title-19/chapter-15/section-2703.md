@@ -3,9 +3,9 @@ title: "Section 2703 - Eligible articles"
 usc_title: 19
 usc_section: "2703"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "19 U.S.C. § 2703"
-generated_at: "2026-03-29T20:04:27.402Z"
+generated_at: "2026-03-29T20:32:31.822Z"
 ---
 
 # § 2703. Eligible articles
@@ -168,7 +168,7 @@ generated_at: "2026-03-29T20:04:27.402Z"
   - **(4)** No proclamation which provides solely for a suspension referred to in paragraph (3) of this subsection with respect to any article shall be taken under section 203 of the Trade Act of 1974 [ 19 U.S.C. 2253 ] unless the United States International Trade Commission, in addition to making an affirmative determination with respect to such article under section 202(b) of the Trade Act of 1974 [ 19 U.S.C. 2252(b) ], determines in the course of its investigation under such section that the serious injury (or threat thereof) substantially caused by imports to the domestic industry producing a like or directly competitive article results from the duty-free treatment provided by this chapter.
   - **(5)**
     - **(A)** Any action taken under section 203 of the Trade Act of 1974 [ 19 U.S.C. 2253 ] that is in effect when duty-free treatment pursuant to section 2701 1 of this title is proclaimed shall remain in effect until modified or terminated.
-    - **(B)** If any article is subject to any such action at the time duty-free treatment is proclaimed pursuant to section 2701 of this title , the President may reduce or terminate the application of such action to the importation of such article from beneficiary countries prior to the otherwise scheduled date on which such reduction or termination would occur pursuant to the criteria and procedures of section 203 of the Trade Act of 1974 [ 19 U.S.C. 2253 ].
+    - **(B)** If any article is subject to any such action at the time duty-free treatment is proclaimed pursuant to section 2701 1 of this title, the President may reduce or terminate the application of such action to the importation of such article from beneficiary countries prior to the otherwise scheduled date on which such reduction or termination would occur pursuant to the criteria and procedures of section 203 of the Trade Act of 1974 [ 19 U.S.C. 2253 ].
 - **(f)**
   - **(1)** If a petition is filed with the International Trade Commission pursuant to the provisions of section 201 of the Trade Act of 1974 [ 19 U.S.C. 2251 ] regarding a perishable product and alleging injury from imports from beneficiary countries, then the petition may also be filed with the Secretary of Agriculture with a request that emergency relief be granted pursuant to paragraph (3) of this subsection with respect to such article.
   - **(2)** Within fourteen days after the filing of a petition under paragraph (1) of this subsection—

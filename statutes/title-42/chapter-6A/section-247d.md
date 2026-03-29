@@ -3,9 +3,9 @@ title: "Section 247d - Public health emergencies"
 usc_title: 42
 usc_section: "247d"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 247d"
-generated_at: "2026-03-29T20:07:42.954Z"
+generated_at: "2026-03-29T20:34:52.548Z"
 ---
 
 # § 247d. Public health emergencies
@@ -20,15 +20,10 @@ generated_at: "2026-03-29T20:07:42.954Z"
     - **(B)** make grants, provide for awards, enter into contracts, and conduct supportive investigations pertaining to a public health emergency or potential public health emergency, including further supporting programs under section 247d–3a, 247d–3b, or 247d–3c of this title;
     - **(C)** facilitate and accelerate, as applicable, advanced research and development of security countermeasures (as defined in section 247d–6b of this title ), qualified countermeasures (as defined in section 247d–6a of this title ), or qualified pandemic or epidemic products (as defined in section 247d–6d of this title ), that are applicable to the public health emergency or potential public health emergency under paragraph (1);
     - **(D)** strengthen biosurveillance capabilities and laboratory capacity to identify, collect, and analyze information regarding such public health emergency or potential public health emergency, including the systems under section 247d–4 of this title ;
-    - **(E)** support initial emergency operations and assets related to preparation and deployment of intermittent disaster response personnel under section 300hh–11 of this title and the Medical Reserve Corps under section 300hh–15 of this title ;
-    - **(F)** support the initial deployment and distribution of contents of the Strategic National Stockpile, as appropriate; and
-    - **(G)** carry out other activities, as the Secretary determines applicable and appropriate.
+    - **(E)** support initial emergency operations and assets related to preparation and deployment of intermittent disaster response personnel under section 300hh–11 of this title and the Medical Reserve Corps under section 300hh–15 of this title ; and
+    - **(F)** carry out other activities, as the Secretary determines applicable and appropriate.
   - **(3)** Not later than 90 days after the end of each fiscal year, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Commerce and the Committee on Appropriations of the House of Representatives a report describing—
-    - **(A)** the expenditures made from the Public Health Emergency Fund in such fiscal year, including—
-      - **(i)** the amount obligated;
-      - **(ii)** the recipient or recipients of such obligated funds;
-      - **(iii)** the specific response activities such obligated funds will support; and
-      - **(iv)** the declared or potential public health emergency for which such funds were obligated; and
+    - **(A)** the expenditures made from the Public Health Emergency Fund in such fiscal year; and
     - **(B)** each public health emergency for which the expenditures were made and the activities undertaken with respect to each emergency which was conducted or supported by expenditures from the Fund.
   - **(4)** Not later than 2 years after June 24, 2019 , the Secretary, in coordination with the Assistant Secretary for Preparedness and Response, shall conduct a review of the Fund under this section and provide recommendations to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives on policies to improve such Fund for the uses described in paragraph (2).
   - **(5)** Not later than 4 years after June 24, 2019 , the Comptroller General of the United States shall—
@@ -76,7 +71,7 @@ generated_at: "2026-03-29T20:07:42.954Z"
   - **(7)** In this subsection—
     - **(A)** the terms “Indian tribe” and “tribal organization” have the meanings given such terms in section 5304 of title 25 ; and
     - **(B)** the term “State” includes, in addition to the entities listed in the definition of such term in section 201 of this title , the Freely Associated States.
-  - **(8)** This subsection shall terminate on January 30, 2026 .
+  - **(8)** This subsection shall terminate on September 30, 2023 .
 - **(f)**
   - **(1)** If the Secretary determines, after consultation with such public health officials as may be necessary, that—
     - **(A)**
@@ -89,29 +84,3 @@ generated_at: "2026-03-29T20:07:42.954Z"
   - **(5)**
     - **(A)** The period of a waiver under paragraph (1) shall not exceed the period of time for the related public health emergency, including a public health emergency declared pursuant to subsection (a), and any immediate postresponse review regarding the public health emergency consistent with the requirements of this subsection.
     - **(B)** An initiative subject to a waiver under paragraph (1) that is ongoing after the date on which the waiver expires, shall be subject to the requirements of subchapter I of chapter 35 of title 44 and the Secretary shall ensure that compliance with such requirements occurs in as timely a manner as possible based on the applicable circumstances, but not to exceed 30 calendar days after the expiration of the applicable waiver.
-- **(g)**
-  - **(1)** In order to support the initial response to a public health emergency declared by the Secretary under this section, the Secretary may, subject to paragraph (2) and without regard to sections 3309 through 3318 of title 5, appoint individuals directly to positions in the Department of Health and Human Services for which the Secretary has provided public notice in order to—
-    - **(A)** address a critical hiring need directly related to responding to a public health emergency declared by the Secretary under this section; or
-    - **(B)** address a severe shortage of candidates that impacts the operational capacity of the Department of Health and Human Services to respond in the event of a public health emergency declared by the Secretary under this section.
-  - **(2)** Each fiscal year in which the Secretary makes a determination of a public health emergency under subsection (a) (not including a renewal), the Secretary may directly appoint not more than—
-    - **(A)** 400 individuals under paragraph (1)(A); and
-    - **(B)** 100 individuals under paragraph (1)(B).
-  - **(3)** The annual rate of basic pay of an individual appointed under this subsection shall be determined in accordance with chapter 51 and subchapter III of chapter 53 of title 5.
-  - **(4)** The Secretary shall establish and maintain records regarding the use of the authority under this subsection, including—
-    - **(A)** the number of positions filled through such authority;
-    - **(B)** the types of appointments of such positions;
-    - **(C)** the titles, occupational series, and grades of such positions;
-    - **(D)** the number of positions publicly noticed to be filled under such authority;
-    - **(E)** the number of qualified applicants who apply for such positions;
-    - **(F)** the qualification criteria for such positions; and
-    - **(G)** the demographic information of individuals appointed to such positions.
-  - **(5)** In the event the Secretary, within a single fiscal year, directly appoints more than 50 percent of the individuals allowable under either subparagraph (A) or (B) of paragraph (2), the Secretary shall, not later than 15 days after the date of such action, notify the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives. Such notification shall, in a manner that protects personal privacy, to the extent required by applicable Federal and State privacy law, at a minimum, include—
-    - **(A)** information on each such appointment within such fiscal year;
-    - **(B)** a description of how each such position relates to the requirements of subparagraph (A) or (B) of paragraph (1); and
-    - **(C)** the additional number of personnel, if any, the Secretary anticipates to be necessary to adequately support a response to a public health emergency declared under this section using the authorities described in paragraph (1) within such fiscal year.
-  - **(6)** Not later than September 30, 2023 , and annually thereafter for each fiscal year in which the authority under this subsection is used, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report describing the total number of appointments filled under this subsection within the fiscal year and a description of how the positions relate to the requirements of subparagraph (A) or (B) of paragraph (1).
-  - **(7)** The authority under this subsection shall expire on September 30, 2028 .
-- **(h)** The Secretary shall, not later than 30 days after the deployment of contents of the Strategic National Stockpile under section 247d–6b(a) of this title to respond to a public health emergency declared by the Secretary under this section or an emergency or major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act [ 42 U.S.C. 5121 et seq.], and every 30 days thereafter until the expiration or termination of such public health emergency, emergency, or major disaster, submit a report to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives on—
-  - **(1)** the deployment of the contents of the stockpile in response to State, local, and Tribal requests;
-  - **(2)** the amount of such products that remain within the stockpile following such deployment; and
-  - **(3)** plans to replenish such products, as appropriate, including related timeframes and any barriers or limitations to replenishment.

@@ -3,9 +3,9 @@ title: "Section 15301 - Establishment, membership, and employees"
 usc_title: 40
 usc_section: "15301"
 chapter: 153
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "40 U.S.C. § 15301"
-generated_at: "2026-03-29T20:05:42.971Z"
+generated_at: "2026-03-29T20:33:44.493Z"
 ---
 
 # § 15301. Establishment, membership, and employees
@@ -14,9 +14,6 @@ generated_at: "2026-03-29T20:05:42.971Z"
   - **(1)** The Southeast Crescent Regional Commission.
   - **(2)** The Southwest Border Regional Commission.
   - **(3)** The Northern Border Regional Commission.
-  - **(4)** The Great Lakes Authority.
-  - **(5)** The Mid-Atlantic Regional Commission.
-  - **(6)** The Southern New England Regional Commission.
 - **(b)**
   - **(1)** Each Commission shall be composed of the following members:
     - **(A)** A Federal Cochairperson, to be appointed by the President, by and with the advice and consent of the Senate.
@@ -24,9 +21,7 @@ generated_at: "2026-03-29T20:05:42.971Z"
   - **(2)**
     - **(A)** The President shall appoint an alternate Federal Cochairperson for each Commission. The alternate Federal Cochairperson, when not actively serving as an alternate for the Federal Cochairperson, shall perform such functions and duties as are delegated by the Federal Cochairperson.
     - **(B)** The State member of a participating State may have a single alternate, who shall be appointed by the Governor of the State from among the members of the Governor’s cabinet or personal staff.
-    - **(C)**
-      - **(i)** An alternate member shall vote in the case of the absence, death, disability, removal, or resignation of the Federal or State member for which the alternate member is an alternate.
-      - **(ii)** If the alternate State member is unable to vote in accordance with clause (i), the alternate State member may delegate voting authority to a designee, subject to the condition that the executive director shall be notified, in writing, of the designation not less than 1 week before the applicable vote is to take place.
+    - **(C)** An alternate member shall vote in the case of the absence, death, disability, removal, or resignation of the Federal or State member for which the alternate member is an alternate.
   - **(3)** A Commission shall be headed by—
     - **(A)** the Federal Cochairperson, who shall serve as a liaison between the Federal Government and the Commission; and
     - **(B)** a State Cochairperson, who shall be a Governor of a participating State in the region and shall be elected by the State members for a term of not less than 1 year.
@@ -39,4 +34,4 @@ generated_at: "2026-03-29T20:05:42.971Z"
   - **(1)** A Commission shall appoint and fix the compensation of an executive director and such other personnel as are necessary to enable the Commission to carry out its duties. Compensation under this paragraph may not exceed the maximum rate of basic pay established for the Senior Executive Service under section 5382 of title 5 , including any applicable locality-based comparability payment that may be authorized under section 5304(h)(2)(C) of that title.
   - **(2)** The executive director shall be responsible for carrying out the administrative duties of the Commission, directing the Commission staff, and such other duties as the Commission may assign.
 - **(e)** No member, alternate, officer, or employee of a Commission (other than the Federal Cochairperson, the alternate Federal Cochairperson, staff of the Federal Cochairperson, and any Federal employee detailed to the Commission) shall be considered to be a Federal employee for any purpose.
-- **(f)** Subject to the time limitations under section 3346 of title 5 , the Federal Cochairperson may designate an employee of the Commission to perform the functions and duties of the office of the Federal Cochairperson temporarily in an acting capacity if both the Federal Cochairperson and the alternate Federal Cochairperson die, resign, or otherwise are unable to perform the functions and duties of their offices.
+- **(f)** Subject to the time limitations under section 3346 of title 5 , the Federal Cochairperson may designate a Federal employee of the Commission to perform the functions and duties of the office of the Federal Cochairperson temporarily in an acting capacity if both the Federal Cochairperson and the alternate Federal Cochairperson die, resign, or otherwise are unable to perform the functions and duties of their offices.

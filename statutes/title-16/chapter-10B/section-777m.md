@@ -3,9 +3,9 @@ title: "Section 777m - Multistate conservation grant program"
 usc_title: 16
 usc_section: "777m"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 777m"
-generated_at: "2026-03-29T20:04:20.214Z"
+generated_at: "2026-03-29T20:32:45.278Z"
 ---
 
 # § 777m. Multistate conservation grant program
@@ -47,5 +47,4 @@ generated_at: "2026-03-29T20:04:20.214Z"
     - **(C)** the Pacific States Marine Fisheries Commission; and
     - **(D)** the Great Lakes Fisheries Commission.
   - **(2)** $400,000 shall be made available for the Sport Fishing and Boating Partnership Council established by the United States Fish and Wildlife Service.
-  - **(3)** A portion, as determined by the Sport Fishing and Boating Partnership Council, of funds disbursed for the purposes described in paragraph (2) but remaining unobligated as of October 1, 2021 , shall be used to study the impact of derelict vessels and identify recyclable solutions for recreational vessels.
-- **(f)** Chapter 10 of title 5 shall not apply to any activity carried out under this section.
+- **(f)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to any activity carried out under this section.

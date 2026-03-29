@@ -3,9 +3,9 @@ title: "Section 148 - Highway safety improvement program"
 usc_title: 23
 usc_section: "148"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "23 U.S.C. § 148"
-generated_at: "2026-03-29T20:04:51.991Z"
+generated_at: "2026-03-29T20:32:49.820Z"
 ---
 
 # § 148. Highway safety improvement program
@@ -19,14 +19,14 @@ generated_at: "2026-03-29T20:04:51.991Z"
       - **(i)** correct or improve a hazardous road location or feature; or
       - **(ii)** address a highway safety problem.
     - **(B)** The term “highway safety improvement project” only includes a project for 1 or more of the following:
-      - **(i)** An intersection safety improvement that provides for the safety of all road users, as appropriate, including a multimodal roundabout.
+      - **(i)** An intersection safety improvement.
       - **(ii)** Pavement and shoulder widening (including addition of a passing lane to remedy an unsafe condition).
       - **(iii)** Installation of rumble strips or another warning device, if the rumble strips or other warning devices do not adversely affect the safety or mobility of bicyclists and pedestrians, including persons with disabilities.
       - **(iv)** Installation of a skid-resistant surface at an intersection or other location with a high frequency of crashes.
       - **(v)** An improvement for pedestrian or bicyclist safety or safety of persons with disabilities.
-      - **(vi)** Construction and improvement of a railway-highway grade crossing safety feature, including installation of protective devices or a grade separation project.
+      - **(vi)** Construction and improvement of a railway-highway grade crossing safety feature, including installation of protective devices.
       - **(vii)** The conduct of a model traffic enforcement activity at a railway-highway crossing.
-      - **(viii)** Construction or installation of features, measures, and road designs to calm traffic and reduce vehicle speeds.
+      - **(viii)** Construction of a traffic calming feature.
       - **(ix)** Elimination of a roadside hazard.
       - **(x)** Installation, replacement, and other improvement of highway signage and pavement markings, or a project to maintain minimum levels of retroreflectivity, that addresses a highway safety problem consistent with a State strategic highway safety plan.
       - **(xi)** Installation of a priority control system for emergency vehicles at signalized intersections.
@@ -44,33 +44,18 @@ generated_at: "2026-03-29T20:04:51.991Z"
       - **(xxiii)** Truck parking facilities eligible for funding under section 1401 of the MAP–21.
       - **(xxiv)** Systemic safety improvements.
       - **(xxv)** Installation of vehicle-to-infrastructure communication equipment.
-      - **(xxvi)** Installation or upgrades of traffic control devices for pedestrians and bicyclists, including pedestrian hybrid beacons and the addition of bicycle movement phases to traffic signals.
-      - **(xxvii)** Roadway improvements that provide separation between pedestrians and motor vehicles or between bicyclists and motor vehicles, including medians, pedestrian crossing islands, protected bike lanes, and protected intersection features.
-      - **(xxviii)** A pedestrian security feature designed to slow or stop a motor vehicle.
-      - **(xxix)** A physical infrastructure safety project not described in clauses (i) through (xxviii).
+      - **(xxvi)** Pedestrian hybrid beacons.
+      - **(xxvii)** Roadway improvements that provide separation between pedestrians and motor vehicles, including medians and pedestrian crossing islands.
+      - **(xxviii)** A physical infrastructure safety project not described in clauses (i) through (xxvii).
   - **(5)** The term “model inventory of roadway elements” means the listing and standardized coding by the Federal Highway Administration of roadway and traffic data elements critical to safety management, analysis, and decisionmaking.
   - **(6)** The term “project to maintain minimum levels of retroreflectivity” means a project that is designed to maintain a highway sign or pavement marking retroreflectivity at or above the minimum levels prescribed in Federal or State regulations.
   - **(7)** The term “road safety audit” means a formal safety performance examination of an existing or future road or intersection by an independent multidisciplinary audit team.
   - **(8)** The term “road user” means a motorist, passenger, public transportation operator or user, truck driver, bicyclist, motorcyclist, or pedestrian, including a person with disabilities.
-  - **(9)** The term “safe system approach” means a roadway design—
-    - **(A)** that emphasizes minimizing the risk of injury or fatality to road users; and
-    - **(B)** that—
-      - **(i)** takes into consideration the possibility and likelihood of human error;
-      - **(ii)** accommodates human injury tolerance by taking into consideration likely accident types, resulting impact forces, and the ability of the human body to withstand impact forces; and
-      - **(iii)** takes into consideration vulnerable road users.
-  - **(10)**
+  - **(9)**
     - **(A)** The term “safety data” means crash, roadway, and traffic data on a public road.
     - **(B)** The term “safety data” includes, in the case of a railway-highway grade crossing, the characteristics of highway and train traffic, licensing, and vehicle data.
-  - **(11)**
-    - **(A)** The term “specified safety project” means a project carried out for the purpose of safety under any other section of this title that is consistent with the State strategic highway safety plan.
-    - **(B)** The term “specified safety project” includes a project that—
-      - **(i)** promotes public awareness and informs the public regarding highway safety matters (including safety for motorcyclists, bicyclists, pedestrians, individuals with disabilities, and other road users);
-      - **(ii)** facilitates enforcement of traffic safety laws;
-      - **(iii)** provides infrastructure and infrastructure-related equipment to support emergency services;
-      - **(iv)** conducts safety-related research to evaluate experimental safety countermeasures or equipment; or
-      - **(v)** supports safe routes to school noninfrastructure-related activities described in section 208(g)(2).
-  - **(12)** The term “State highway safety improvement program” means a program of highway safety improvement projects, activities, plans and reports carried out as part of the Statewide transportation improvement program under section 135(g).
-  - **(13)** The term “State strategic highway safety plan” means a comprehensive plan, based on safety data, developed by a State transportation department that—
+  - **(10)** The term “State highway safety improvement program” means a program of highway safety improvement projects, activities, plans and reports carried out as part of the Statewide transportation improvement program under section 135(g).
+  - **(11)** The term “State strategic highway safety plan” means a comprehensive plan, based on safety data, developed by a State transportation department that—
     - **(A)** is developed after consultation with—
       - **(i)** a highway safety representative of the Governor of the State;
       - **(ii)** regional transportation planning organizations and metropolitan planning organizations, if any;
@@ -87,21 +72,16 @@ generated_at: "2026-03-29T20:04:51.991Z"
     - **(D)** considers safety needs of, and high-fatality segments of, all public roads, including non-State-owned public roads and roads on tribal land;
     - **(E)** considers the results of State, regional, or local transportation and highway safety planning processes;
     - **(F)** describes a program of strategies to reduce or eliminate safety hazards;
-    - **(G)** includes a vulnerable road user safety assessment;
-    - **(H)** is approved by the Governor of the State or a responsible State agency;
-    - **(I)** is consistent with section 135(g); and
-    - **(J)** is updated and submitted to the Secretary for approval as required under subsection (d)(2).
-  - **(14)** The term “systemic safety improvement” means an improvement that is widely implemented based on high-risk roadway features that are correlated with particular crash types, rather than crash frequency.
-  - **(15)** The term “vulnerable road user” means a nonmotorist—
-    - **(A)** with a fatality analysis reporting system person attribute code that is included in the definition of the term “number of non-motorized fatalities” in section 490.205 of title 23, Code of Federal Regulations (or successor regulations); or
-    - **(B)** described in the term “number of non-motorized serious injuries” in that section.
-  - **(16)** The term “vulnerable road user safety assessment” means an assessment of the safety performance of the State with respect to vulnerable road users and the plan of the State to improve the safety of vulnerable road users as described in subsection ( l ).
+    - **(G)** is approved by the Governor of the State or a responsible State agency;
+    - **(H)** is consistent with section 135(g); and
+    - **(I)** is updated and submitted to the Secretary for approval as required under subsection (d)(2).
+  - **(12)** The term “systemic safety improvement” means an improvement that is widely implemented based on high-risk roadway features that are correlated with particular crash types, rather than crash frequency.
 - **(b)**
   - **(1)** The Secretary shall carry out a highway safety improvement program.
   - **(2)** The purpose of the highway safety improvement program shall be to achieve a significant reduction in traffic fatalities and serious injuries on all public roads, including non-State-owned public roads and roads on tribal land.
 - **(c)**
   - **(1)** To obligate funds apportioned under section 104(b)(3) to carry out this section, a State shall have in effect a State highway safety improvement program under which the State—
-    - **(A)** develops, implements, and updates a State strategic highway safety plan that identifies and analyzes highway safety problems and opportunities as provided in subsections (a)(13) and (d);
+    - **(A)** develops, implements, and updates a State strategic highway safety plan that identifies and analyzes highway safety problems and opportunities as provided in subsections (a)(11) and (d);
     - **(B)** produces a program of projects or strategies to reduce identified safety problems; and
     - **(C)** evaluates the strategic highway safety plan on a regularly recurring basis in accordance with subsection (d)(1) to ensure the accuracy of the data and priority of proposed strategies.
   - **(2)** As part of the State highway safety improvement program, a State shall—
@@ -111,9 +91,9 @@ generated_at: "2026-03-29T20:04:51.991Z"
       - **(iii)** to link State data systems, including traffic records, with other data systems within the State;
       - **(iv)** to improve the compatibility and interoperability of safety data with other State transportation-related data systems and the compatibility and interoperability of State safety data systems with data systems of other States and national data systems;
       - **(v)** to enhance the ability of the Secretary to observe and analyze national trends in crash occurrences, rates, outcomes, and circumstances; and
-      - **(vi)** to improve the collection of data on nonmotorized crashes and to differentiate the safety data for vulnerable road users, including bicyclists, motorcyclists, and pedestrians, from other road users;
+      - **(vi)** to improve the collection of data on nonmotorized crashes;
     - **(B)** based on the analysis required by subparagraph (A)—
-      - **(i)** identify hazardous locations, sections, and elements (including roadside obstacles, railway-highway crossing needs, and unmarked or poorly marked roads) that constitute a danger to motorists, vulnerable road users (including motorcyclists, bicyclists, pedestrians), and other highway users;
+      - **(i)** identify hazardous locations, sections, and elements (including roadside obstacles, railway-highway crossing needs, and unmarked or poorly marked roads) that constitute a danger to motorists (including motorcyclists), bicyclists, pedestrians, and other highway users;
       - **(ii)** using such criteria as the State determines to be appropriate, establish the relative severity of those locations, in terms of crashes (including crash rates), fatalities, serious injuries, traffic volume levels, and other relevant data;
       - **(iii)** identify the number of fatalities and serious injuries on all public roads by location in the State;
       - **(iv)** identify highway safety improvement projects on the basis of crash experience, crash potential, crash rate, or other data-supported means; and
@@ -126,9 +106,8 @@ generated_at: "2026-03-29T20:04:51.991Z"
       - **(i)** complements the State highway safety program under chapter 4 and the commercial vehicle safety plan under section 31102 of title 49 ;
       - **(ii)** includes all public roads, including public non-State-owned roads and roads on tribal land;
       - **(iii)** identifies hazardous locations, sections, and elements on all public roads that constitute a danger to motorists (including motorcyclists), bicyclists, pedestrians, persons with disabilities, and other highway users;
-      - **(iv)** includes a means of identifying the relative severity of hazardous locations described in clause (iii) in terms of crashes (including crash rate), serious injuries, fatalities, and traffic volume levels;
-      - **(v)** improves the ability of the State to identify the number of fatalities and serious injuries on all public roads in the State with a breakdown by functional classification and ownership in the State; and
-      - **(vi)** improves the ability of the State to differentiate the fatalities and serious injuries of vulnerable road users, including bicyclists, motorcyclists, and pedestrians, from other road users;
+      - **(iv)** includes a means of identifying the relative severity of hazardous locations described in clause (iii) in terms of crashes (including crash rate), serious injuries, fatalities, and traffic volume levels; and
+      - **(v)** improves the ability of the State to identify the number of fatalities and serious injuries on all public roads in the State with a breakdown by functional classification and ownership in the State;
     - **(E)**
       - **(i)** determine priorities for the correction of hazardous road locations, sections, and elements (including railway-highway crossing improvements), as identified through safety data analysis;
       - **(ii)** identify opportunities for preventing the development of such hazardous conditions; and
@@ -153,7 +132,7 @@ generated_at: "2026-03-29T20:04:51.991Z"
       - **(i)** update the strategic highway safety plans of the State in accordance with the requirements established by the Secretary under this subsection; and
       - **(ii)** submit the updated plans to the Secretary, along with a detailed description of the process used to update the plan.
     - **(B)** The Secretary shall not approve the process for an updated strategic highway safety plan unless—
-      - **(i)** the updated strategic highway safety plan is consistent with the requirements of this subsection and subsection (a)(13); and
+      - **(i)** the updated strategic highway safety plan is consistent with the requirements of this subsection and subsection (a)(11); and
       - **(ii)** the process used is consistent with the requirements of this subsection.
   - **(3)** If a State does not have an updated strategic highway safety plan with a process approved by the Secretary by August 1 of the fiscal year beginning after the date of establishment of the requirements under paragraph (1), the State shall not be eligible to receive any additional limitation pursuant to the redistribution of the limitation on obligations for Federal-aid highway and highway safety construction programs that occurs after August 1 for each succeeding fiscal year until the fiscal year during which the plan is approved.
 - **(e)**
@@ -164,12 +143,6 @@ generated_at: "2026-03-29T20:04:51.991Z"
   - **(2)**
     - **(A)** Nothing in this section prohibits the use of funds made available under other provisions of this title for highway safety improvement projects.
     - **(B)** States are encouraged to address the full scope of the safety needs and opportunities of the States by using funds made available under other provisions of this title (except a provision that specifically prohibits that use).
-  - **(3)**
-    - **(A)** To advance the implementation of a State strategic highway safety plan, a State may use not more than 10 percent of the amounts apportioned to the State under section 104(b)(3) for a fiscal year to carry out specified safety projects.
-    - **(B)** Nothing in this paragraph requires a State to revise any State process, plan, or program in effect on the date of enactment of this paragraph.
-    - **(C)**
-      - **(i)** A project carried out under this paragraph shall be subject to all requirements under this section that apply to a highway safety improvement project.
-      - **(ii)** Nothing in this paragraph prohibits the use of funds made available under other provisions of this title for a specified safety project that is a noninfrastructure project.
 - **(f)**
   - **(1)** In this subsection, the following definitions apply:
     - **(A)** The term “data improvement activities” means a project or activity to further the capacity of a State to make more informed and effective safety infrastructure investment decisions.
@@ -186,7 +159,6 @@ generated_at: "2026-03-29T20:04:51.991Z"
 - **(g)**
   - **(1)** If the fatality rate on rural roads in a State increases over the most recent 2-year period for which data are available, that State shall be required to obligate in the next fiscal year for projects on high risk rural roads an amount equal to at least 200 percent of the amount of funds the State received for fiscal year 2009 for high risk rural roads under subsection (f) of this section, as in effect on the day before the date of enactment of the MAP–21.
   - **(2)** If traffic fatalities and serious injuries per capita for drivers and pedestrians over the age of 65 in a State increases during the most recent 2-year period for which data are available, that State shall be required to include, in the subsequent Strategic Highway Safety Plan of the State, strategies to address the increases in those rates, taking into account the recommendations included in the publication of the Federal Highway Administration entitled “Highway Design Handbook for Older Drivers and Pedestrians” (FHWA–RD–01–103), and dated May 2001, or as subsequently revised and updated.
-  - **(3)** If the total annual fatalities of vulnerable road users in a State represents not less than 15 percent of the total annual crash fatalities in the State, that State shall be required to obligate not less than 15 percent of the amounts apportioned to the State under section 104(b)(3) for the following fiscal year for highway safety improvement projects to address the safety of vulnerable road users.
 - **(h)**
   - **(1)** A State shall submit to the Secretary a report that—
     - **(A)** describes progress being made to implement highway safety improvement projects under this section;
@@ -206,7 +178,7 @@ generated_at: "2026-03-29T20:04:51.991Z"
     - **(A)** identifies roadway features that constitute a hazard to road users;
     - **(B)** identifies highway safety improvement projects on the basis of crash experience, crash potential, or other data-supported means;
     - **(C)** describes how highway safety improvement program funds will be allocated, including projects, activities, and strategies to be implemented;
-    - **(D)** describes how the proposed projects, activities, and strategies funded under the State highway safety improvement program will allow the State to make progress toward achieving the safety performance targets of the State; and
+    - **(D)** describes how the proposed projects, activities, and strategies funded under the State highway safety improvement program will allow the State to make progress toward achieving the safety safety 1 1 So in original. performance targets of the State; and
     - **(E)** describes the actions the State will undertake to meet the safety performance targets of the State.
 - **(j)** Except as provided in sections 120 and 130, the Federal share of the cost of a highway safety improvement project carried out with funds apportioned to a State under section 104(b)(3) shall be 90 percent.
 - **(k)**
@@ -214,20 +186,3 @@ generated_at: "2026-03-29T20:04:51.991Z"
     - **(A)** the State does not use funds provided to carry out this section for a project on any such roads until the State completes a collection of the required model inventory of roadway elements for the applicable road segment; and
     - **(B)** the State demonstrates that the State consulted with affected Indian tribes before ceasing to collect data with respect to such roads that are included in the National Tribal Transportation Facility Inventory under section 202(b)(1) of this title .
   - **(2)** Nothing in this subsection may be construed to allow a State to cease data collection related to serious injuries or fatalities.
-- **(l)**
-  - **(1)** Not later than 2 years after the date of enactment of this subsection, each State shall complete a vulnerable road user safety assessment.
-  - **(2)** A vulnerable road user safety assessment under paragraph (1) shall include—
-    - **(A)** a quantitative analysis of vulnerable road user fatalities and serious injuries that—
-      - **(i)** includes data such as location, roadway functional classification, design speed, speed limit, and time of day;
-      - **(ii)** considers the demographics of the locations of fatalities and serious injuries, including race, ethnicity, income, and age; and
-      - **(iii)** based on the data, identifies areas as “high-risk” to vulnerable road users; and
-    - **(B)** a program of projects or strategies to reduce safety risks to vulnerable road users in areas identified as high-risk under subparagraph (A)(iii).
-  - **(3)** In carrying out a vulnerable road user safety assessment under paragraph (1), a State shall use data from the most recent 5-year period for which data is available.
-  - **(4)** In carrying out a vulnerable road user safety assessment under paragraph (1), a State shall—
-    - **(A)** take into consideration a safe system approach; and
-    - **(B)** consult with local governments, metropolitan planning organizations, and regional transportation planning organizations that represent a high-risk area identified under paragraph (2)(A)(iii).
-  - **(5)** A State shall update the vulnerable road user safety assessment of the State in accordance with the updates required to the State strategic highway safety plan under subsection (d).
-  - **(6)** The program of projects developed under paragraph (2)(B) may not degrade transportation system access for vulnerable road users.
-  - **(7)**
-    - **(A)** Not later than 1 year after the date of enactment of this subsection, the Secretary shall develop guidance for States to carry out this subsection.
-    - **(B)** In developing the guidance under this paragraph, the Secretary shall consult with the States and relevant safety stakeholders.

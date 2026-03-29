@@ -3,9 +3,9 @@ title: "Section 7702 - United States participation in the North Pacific Fisherie
 usc_title: 16
 usc_section: "7702"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 7702"
-generated_at: "2026-03-29T20:04:20.509Z"
+generated_at: "2026-03-29T20:32:45.520Z"
 ---
 
 # § 7702. United States participation in the North Pacific Fisheries Convention
@@ -46,7 +46,7 @@ generated_at: "2026-03-29T20:04:20.509Z"
       - **(i)** The Advisory Committee shall determine its organization and prescribe its practices and procedures for carrying out its functions under this chapter, the North Pacific Fisheries Convention, and the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1801 et seq.).
       - **(ii)** The Advisory Committee shall publish and make available to the public a statement of its organization, practices, and procedures.
       - **(iii)** A majority of the members of the Advisory Committee shall constitute a quorum to conduct business.
-      - **(iv)** Meetings of the Advisory Committee, except when in executive session, shall be open to the public. Prior notice of each non-executive meeting shall be made public in a timely fashion. The Advisory Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.). 1 1 See References in Text note below.
+      - **(iv)** Meetings of the Advisory Committee, except when in executive session, shall be open to the public. Prior notice of each non-executive meeting shall be made public in a timely fashion. The Advisory Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
       - **(v)** In order to reduce the cost of Advisory Committee meetings, the Advisory Committee shall, to the extent practicable, utilize teleconferences and webinars for that purpose.
     - **(D)** The Secretary and the Secretary of State shall furnish the Advisory Committee with relevant information concerning fisheries resources and international fishery agreements.
   - **(2)**

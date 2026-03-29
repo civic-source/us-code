@@ -3,12 +3,12 @@ title: "Section 4705 - Stipends"
 usc_title: 20
 usc_section: "4705"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "20 U.S.C. § 4705"
-generated_at: "2026-03-29T20:04:33.025Z"
+generated_at: "2026-03-29T20:32:28.938Z"
 ---
 
 # § 4705. Stipends
 
-Each person awarded a scholarship or fellowship under this chapter shall receive a stipend which shall not exceed the cost to such person for tuition, fees, books, room and board, or such lesser amount as may be prescribed by the Board. Each person awarded a research internship under this chapter shall receive a stipend as may be prescribed by the Board, which shall not exceed the maximum stipend amount awarded for a scholarship or fellowship.
+Each person awarded a scholarship or fellowship under this chapter shall receive a stipend which shall not exceed the cost to such person for tuition, fees, books, room and board, or such lesser amount as may be prescribed by the Board.
 

@@ -3,9 +3,9 @@ title: "Section 385a - Payments to school districts for education of dependents 
 usc_title: 43
 usc_section: "385a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "43 U.S.C. § 385a"
-generated_at: "2026-03-29T20:05:59.973Z"
+generated_at: "2026-03-29T20:34:16.682Z"
 ---
 
 # § 385a. Payments to school districts for education of dependents of construction personnel; cooperative arrangements; chargeable to project

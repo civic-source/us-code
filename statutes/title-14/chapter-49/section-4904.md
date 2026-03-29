@@ -3,16 +3,16 @@ title: "Section 4904 - Authorized levels of military strength and training"
 usc_title: 14
 usc_section: "4904"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "14 U.S.C. § 4904"
-generated_at: "2026-03-29T20:03:17.327Z"
+generated_at: "2026-03-29T20:32:03.610Z"
 ---
 
 # § 4904. Authorized levels of military strength and training
 
-- **(a)** The Coast Guard is authorized an end-of-year strength for active duty personnel of 50,000 for fiscal years 2026, and 55,000 for fiscal year 2027.
-- **(b)** The Coast Guard is authorized average military training student loads as follows:
-  - **(1)** For recruit and special training, 4,000 student years for each of fiscal years 2026 and 2027.
-  - **(2)** For flight training, 250 student years for each of fiscal years 2026 and 2027.
-  - **(3)** For professional training in military and civilian institutions, 700 student years for each of fiscal years 2026 and 2027.
-  - **(4)** For officer acquisition, 1,600 student years for each of fiscal years 2026 and 2027.
+- **(a)** The Coast Guard is authorized an end-of-year strength for active duty personnel of 44,500 for each of fiscal years 2020 and 2021.
+- **(b)** The Coast Guard is authorized average military training student loads for each of fiscal years 2020 and 2021 as follows:
+  - **(1)** For recruit and special training, 2,500 student years.
+  - **(2)** For flight training, 165 student years.
+  - **(3)** For professional training in military and civilian institutions, 350 student years.
+  - **(4)** For officer acquisition, 1,200 student years.

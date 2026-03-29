@@ -3,9 +3,9 @@ title: "Section 5939 - Foundation for Food and Agriculture Research"
 usc_title: 7
 usc_section: "5939"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 5939"
-generated_at: "2026-03-29T20:02:52.737Z"
+generated_at: "2026-03-29T20:31:42.180Z"
 ---
 
 # § 5939. Foundation for Food and Agriculture Research
@@ -134,7 +134,7 @@ generated_at: "2026-03-29T20:02:52.737Z"
     - **(A)** To ensure integrity in the operations of the Foundation, the Board shall develop and enforce procedures relating to standards of conduct, financial disclosure statements, conflicts of interest (including recusal and waiver rules), audits, and any other matters determined appropriate by the Board.
     - **(B)** Any individual who is an officer, employee, or member of the Board is prohibited from any participation in deliberations by the Foundation of a matter that would directly or predictably affect any financial interest of—
       - **(i)** the individual;
-      - **(ii)** a relative (as defined in section 13101 of title 5 ) of that individual; or
+      - **(ii)** a relative (as defined in section 109 of the Ethics in Government Act of 1978 (5 U.S.C. App.)) of that individual; or
       - **(iii)** a business organization or other entity in which the individual has an interest, including an organization or other entity with which the individual is negotiating employment.
   - **(5)** The Board shall adopt written standards to govern the ownership and licensing of any intellectual property rights derived from the collaborative efforts of the Foundation.
   - **(6)** The United States shall not be liable for any debts, defaults, acts, or omissions of the Foundation nor shall the full faith and credit of the United States extend to any obligations of the Foundation.
@@ -143,8 +143,6 @@ generated_at: "2026-03-29T20:02:52.737Z"
     - **(A)**
       - **(i)** On February 7, 2014 , of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Foundation to carry out this section $200,000,000, to remain available until expended under the conditions described in subparagraph (B).
       - **(ii)** On the date on which the strategic plan described in subsection (f)(3)(B)(iv) is submitted, of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Foundation to carry out this section $185,000,000, to remain available until expended.
-      - **(iii)** Not later than 30 days after November 17, 2023 , of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Foundation to carry out this section $37,000,000, to remain available until expended.
-      - **(iv)** Not later than 30 days after July 4, 2025 , of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Foundation to carry out this section $37,000,000, to remain available until expended.
     - **(B)**
       - **(i)** The Foundation may use the funds made available under subparagraph (A) to carry out the purposes, duties, and powers of the Foundation only to the extent that the Foundation secures an equal amount of matching funds from a non-Federal source, including an agricultural commodity promotion, research, and information program.
       - **(ii)** Nothing in this section requires the Foundation to require a matching contribution from an individual grantee as a condition of receiving a grant under this section.

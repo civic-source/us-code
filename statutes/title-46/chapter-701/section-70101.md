@@ -3,9 +3,9 @@ title: "Section 70101 - Definitions"
 usc_title: 46
 usc_section: "70101"
 chapter: 701
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "46 U.S.C. § 70101"
-generated_at: "2026-03-29T20:08:05.394Z"
+generated_at: "2026-03-29T20:35:02.450Z"
 ---
 
 # § 70101. Definitions
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T20:08:05.394Z"
 For the purpose of this chapter:
 
   - **(1)** The term “Area Maritime Transportation Security Plan” means an Area Maritime Transportation Security Plan prepared under section 70103(b).
-  - **(2)** The term “cybersecurity risk” has the meaning given the term in section 2200 of the Homeland Security Act of 2002.
+  - **(2)** The term “cybersecurity risk” has the meaning given the term in section 227 of the Homeland Security Act of 2002 ( 6 U.S.C. 148 ). 1 1 See References in Text note below.
   - **(3)** The term “facility” means any structure or facility of any kind located in, on, under, or adjacent to any waters subject to the jurisdiction of the United States.
   - **(4)** The term “National Maritime Transportation Security Plan” means the National Maritime Transportation Security Plan prepared and published under section 70103(a).
   - **(5)** The term “owner or operator” means—

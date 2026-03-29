@@ -3,9 +3,9 @@ title: "Section 16281 - Advanced nuclear fuel availability"
 usc_title: 42
 usc_section: "16281"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 16281"
-generated_at: "2026-03-29T20:07:44.898Z"
+generated_at: "2026-03-29T20:34:54.235Z"
 ---
 
 # § 16281. Advanced nuclear fuel availability
@@ -46,7 +46,7 @@ generated_at: "2026-03-29T20:07:44.898Z"
     - **(J)** shall seek to ensure that the activities carried out under this section do not cause any delay in the progress of any HA–LEU project between private industry and the Department that is underway as of December 27, 2020 .
   - **(3)**
     - **(A)** The requirements of section 3112 of the USEC Privatization Act ( 42 U.S.C. 2297h–10 ), except for the requirements of subparagraph (A) of section 3112(d)(2), shall not apply to the provision of enrichment services, or the sale or transfer of HA–LEU for commercial use by the Secretary to a member of the consortium under this subsection.
-    - **(B)** HA–LEU made available to members of the consortium established pursuant to paragraph (2)(F) for demonstration projects shall remain the property of and title will remain with the Department, which shall be responsible for the storage, use, and disposition of all radioactive waste and spent nuclear fuel created by the irradiation, processing, or purification of such uranium, and shall not be subject to the requirements of a sale or transfer of uranium under sections 3112, except for the requirements of subparagraph (A) of section 3112, and 3113 of the USEC Privatization Act ( 42 U.S.C. 2297h–10 ; 42 U.S.C. 2297h–11 ).
+    - **(B)** HA–LEU made available to members of the consortium established pursuant to paragraph (2)(F) for demonstration projects shall remain the property of and title will remain with the Department, which shall be responsible for the storage, use, and disposition of all radioactive waste and spent nuclear fuel created by the irradiation, processing, or purification of such uranium, and shall not be subject to the requirements of a sale or transfer of uranium under sections 3112, except for the requirements of subparagraph (A) of section 3112, and 3113of the USEC Privatization Act ( 42 U.S.C. 2297h–10 ; 42 U.S.C. 2297h–11 ).
   - **(4)** The Secretary shall only make available to a member of the consortium under this section for commercial or demonstration project use material that the President has determined is not necessary for national security needs, provided that this available material shall not include any material that the Secretary may determine to be necessary for the National Nuclear Security Administration or other critical Departmental missions.
   - **(5)** The Secretary may not make commitments under this section (including cooperative agreements (used in accordance with section 6305 of title 31 ), purchase agreements, guarantees, leases, service contracts, or any other type of commitment) for the purchase or other acquisition of HA–LEU unless—
     - **(A)** funds are specifically provided for such purposes in advance in subsequent appropriations Acts, and only to the extent that the full extent of anticipated costs stemming from such commitments is recorded as an obligation up front and in full at the time it is made; or

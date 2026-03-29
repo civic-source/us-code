@@ -3,9 +3,9 @@ title: "Section 59ii - Declaration of nonnavigability of a portion of the canal 
 usc_title: 33
 usc_section: "59ii"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "33 U.S.C. § 59ii"
-generated_at: "2026-03-29T20:05:35.639Z"
+generated_at: "2026-03-29T20:33:34.155Z"
 ---
 
 # § 59ii. Declaration of nonnavigability of a portion of the canal known as the James River and Kanawha Canal in Richmond, Virginia

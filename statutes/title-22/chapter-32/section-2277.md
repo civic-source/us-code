@@ -3,9 +3,9 @@ title: "Section 2277 - Strategy to advance prosperity, combat corruption, streng
 usc_title: 22
 usc_section: "2277"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 2277"
-generated_at: "2026-03-29T20:04:46.754Z"
+generated_at: "2026-03-29T20:32:59.950Z"
 ---
 
 # § 2277. Strategy to advance prosperity, combat corruption, strengthen democratic governance, and improve civilian security in El Salvador, Guatemala, and Honduras
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T20:04:46.754Z"
     - **(E)** identifying, as appropriate, a role for relevant United States agencies and the United States private sector in supporting efforts to increase private sector investment and advance economic prosperity; and
     - **(F)** improving domestic resource mobilization, including by strengthening tax collection and enforcement and legal arbitration mechanisms.
   - **(2)** Combating corruption, including by—
-    - **(A)** strengthening the capacity of national justice systems and attorneys generals 1 1 So in original. to identify and prosecute money laundering and other financial crimes and breaking up financial holdings of organized criminal syndicates, including illegally acquired lands and proceeds from illegal activities;
+    - **(A)** strengthening the capacity of national justice systems and attorneys generals to identify and prosecute money laundering and other financial crimes and breaking up financial holdings of organized criminal syndicates, including illegally acquired lands and proceeds from illegal activities;
     - **(B)** strengthening special prosecutorial offices and financial institutions to conduct asset forfeitures and criminal analysis, and to combat corruption, money laundering, financial crimes, extortion, and human rights crimes;
     - **(C)** implementing transparent, merit-based selection processes for prosecutors and judges and the development of professional and merit-based civil services;
     - **(D)** establishing or strengthening methods, procedures for internal and external control mechanisms for the security and police services and judiciary; and
@@ -39,7 +39,7 @@ generated_at: "2026-03-29T20:04:46.754Z"
 - **(c)** In developing the strategy required under this section, the Secretary of State may consult with civil society and the private sector in the United States, El Salvador, Guatemala, and Honduras.
 - **(d)** The strategy required under this section shall include annual benchmarks to track the strategy’s progress in curbing irregular migration from the region to the United States and improving conditions in El Salvador, Guatemala, and Honduras by measuring progress in key areas, including—
   - **(1)** reducing poverty and unemployment, increasing private sector investment, responding to immediate humanitarian needs, sustainably reintegrating returnees, supporting conservation and community resilience, and addressing forced displacement in accordance with the priorities outlined in subsection (b)(1);
-  - **(2)** strengthening national justice systems and attorneys generals, 1 supporting multilateral anticorruption mechanisms, identifying and prosecuting money laundering and other financial crimes, breaking up financial holdings of organized criminal syndicates, and advancing judicial integrity and investigative capacity of local authorities in accordance with the priorities outlined in subsection (b)(2);
+  - **(2)** strengthening national justice systems and attorneys generals, supporting multilateral anticorruption mechanisms, identifying and prosecuting money laundering and other financial crimes, breaking up financial holdings of organized criminal syndicates, and advancing judicial integrity and investigative capacity of local authorities in accordance with the priorities outlined in subsection (b)(2);
   - **(3)** strengthening government institutions at the local and national levels to provide services and respond to citizen needs through transparent, inclusive, and democratic processes, promoting human rights, building the capacity of independent media, developing the capacity of civil society to conduct oversight, affording legal protections for human rights defenders and members of civil society, and strengthening electoral institutions in accordance with priorities outlined in subsection (b)(3); and
   - **(4)** implementing the objectives stated under the Central America Regional Security Initiative and building the capacity of civilian security services in accordance with the priorities outlined in subsection (b)(4).
 - **(e)** The strategy required under this section shall include a public diplomacy strategy for educating citizens of the region about United States assistance and its benefits to them, and informing such citizens of the dangers of irregular migration to the United States.

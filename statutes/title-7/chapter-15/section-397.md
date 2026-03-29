@@ -3,9 +3,9 @@ title: "Section 397 - Omitted"
 usc_title: 7
 usc_section: "397"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 397"
-generated_at: "2026-03-29T20:02:52.438Z"
+generated_at: "2026-03-29T20:31:41.912Z"
 ---
 
 # § 397. Omitted

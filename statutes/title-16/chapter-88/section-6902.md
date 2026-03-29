@@ -3,9 +3,9 @@ title: "Section 6902 - Appointment of United States Commissioners"
 usc_title: 16
 usc_section: "6902"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 6902"
-generated_at: "2026-03-29T20:04:20.498Z"
+generated_at: "2026-03-29T20:32:45.510Z"
 ---
 
 # § 6902. Appointment of United States Commissioners
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T20:04:20.498Z"
       - **(ii)** the chair of the Western Pacific Fishery Management Council’s Advisory Committee or the chair’s designee; and
       - **(iii)** officials of the fisheries management authorities of American Samoa, Guam, and the Northern Mariana Islands (or their designees).
     - **(B)** Each member of the advisory committee appointed under subparagraph (A) shall serve for a term of 2 years and shall be eligible for reappointment. The advisory committee shall be invited to attend all non-executive meetings of the United States Commissioners and at such meetings shall be given opportunity to examine and to be heard on all proposed programs of investigation, reports, recommendations, and regulations of the Commission.
-    - **(C)** The advisory committee established by subparagraph (A) shall determine its organization, and prescribe its practices and procedures for carrying out its functions under this chapter, 1 1 See References in Text note below. the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1801 et seq.), and the WCPFC Convention. The advisory committee shall publish and make available to the public a statement of its organization, practices, and procedures. A majority of the members of the advisory committee shall constitute a quorum. Meetings of the advisory committee, except when in executive session, shall be open to the public, and prior notice of meetings shall be made public in a timely fashion. 2 2 So in original. The period probably should be a comma. and the advisory committee shall not be subject to chapter 10 of title 5.
+    - **(C)** The advisory committee established by subparagraph (A) shall determine its organization, and prescribe its practices and procedures for carrying out its functions under this chapter, 1 1 See References in Text note below. the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1801 et seq.), and the WCPFC Convention. The advisory committee shall publish and make available to the public a statement of its organization, practices, and procedures. A majority of the members of the advisory committee shall constitute a quorum. Meetings of the advisory committee, except when in executive session, shall be open to the public, and prior notice of meetings shall be made public in a timely fashion. 2 2 So in original. The period probably should be a comma. and the advisory committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
     - **(D)** The Secretary and the Secretary of State shall furnish the advisory committee with relevant information concerning fisheries and international fishery agreements.
     - **(E)** No later than 30 days before each annual meeting of the Commission, the Advisory Committee shall transmit to the United States Commissioners recommendations relating to the agenda of the annual meeting. The recommendations must be agreed to by a majority of the Advisory Committee members. The United States Commissioners shall consider such recommendations, along with additional views transmitted by Advisory Committee members, in the formulation of the United States position for the Commission meeting and during the negotiations at that meeting.
   - **(2)**

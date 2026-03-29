@@ -3,12 +3,12 @@ title: "Section 3401 - Purpose"
 usc_title: 33
 usc_section: "3401"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "33 U.S.C. § 3401"
-generated_at: "2026-03-29T20:05:35.875Z"
+generated_at: "2026-03-29T20:33:34.332Z"
 ---
 
 # § 3401. Purpose
 
-The purpose of this subchapter is to establish the national ocean exploration program within the National Oceanic and Atmospheric Administration.
+The purpose of this subchapter is to establish the national ocean exploration program and the national undersea research program within the National Oceanic and Atmospheric Administration.
 

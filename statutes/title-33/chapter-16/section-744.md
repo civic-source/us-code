@@ -1,12 +1,12 @@
 ---
-title: "Section 744 - Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(10) , Dec. 23, 2022 , 136 Stat. 4165"
+title: "Section 744 - Omitted"
 usc_title: 33
 usc_section: "744"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "33 U.S.C. § 744"
-generated_at: "2026-03-29T20:05:35.691Z"
+generated_at: "2026-03-29T20:33:34.197Z"
 ---
 
-# § 744. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(10) , Dec. 23, 2022 , 136 Stat. 4165
+# § 744. Omitted
 

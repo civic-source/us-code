@@ -1,14 +1,14 @@
 ---
-title: "Section 57102 - Disposition of vessels"
+title: "Section 57102 - Disposition of vessels not worth preserving"
 usc_title: 46
 usc_section: "57102"
 chapter: 571
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "46 U.S.C. § 57102"
-generated_at: "2026-03-29T20:08:05.383Z"
+generated_at: "2026-03-29T20:35:02.443Z"
 ---
 
-# § 57102. Disposition of vessels
+# § 57102. Disposition of vessels not worth preserving
 
-- **(a)** If the Secretary of Transportation determines that a vessel is an obsolete vessel, the Secretary may dispose of such vessel (by sale or by purchase of disposal services).
-- **(b)** The sale of a vessel under subsection (a) shall be made on a best value basis. The purchaser does not have to be a citizen of the United States. The purchaser shall provide a surety bond, with a surety approved by the Secretary, to ensure that the vessel will not be operated in the foreign trade of the United States at any time within 10 years after the sale, in competition with a vessel owned by a citizen of the United States and documented under the laws of the United States.
+- **(a)** If the Secretary of Transportation determines that a vessel owned by the Maritime Administration is of insufficient value for commercial or military operation to warrant its further preservation, the Secretary may scrap the vessel or sell the vessel for cash.
+- **(b)** The sale of a vessel under subsection (a) shall be made on the basis of competitive sealed bids, after an appraisal and due advertisement. The purchaser does not have to be a citizen of the United States. The purchaser shall provide a surety bond, with a surety approved by the Secretary, to ensure that the vessel will not be operated in the foreign trade of the United States at any time within 10 years after the sale, in competition with a vessel owned by a citizen of the United States and documented under the laws of the United States.

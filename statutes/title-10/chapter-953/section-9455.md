@@ -3,25 +3,21 @@ title: "Section 9455 - Board of Visitors"
 usc_title: 10
 usc_section: "9455"
 chapter: 953
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 9455"
-generated_at: "2026-03-29T20:03:09.899Z"
+generated_at: "2026-03-29T20:31:54.759Z"
 ---
 
 # § 9455. Board of Visitors
 
-- **(a)** A Board of Visitors to the Academy is constituted annually of—
-  - **(1)** the chair of the Committee on Armed Services of the Senate, or the designee of such chair;
-  - **(2)** the ranking member of the Committee on Armed Services of the Senate, or the designee of the ranking member;
-  - **(3)** two other members of the Senate designated by the Majority Leader of the Senate, one of whom is a member of the Committee on Appropriations of the Senate;
-  - **(4)** two other members of the Senate designated by the Minority Leader of the Senate, one of whom is a member of the Committee on Appropriations of the Senate;
-  - **(5)** the chair of the Committee on Armed Services of the House of Representatives, or the designee of such chair;
-  - **(6)** the ranking member of the Committee on Armed Services of the House of Representatives, or the designee of the ranking member;
-  - **(7)** two other members of the House of Representatives designated by the Speaker of the House of Representatives, one of whom is a member of the Committee on Appropriations of the House of Representatives;
-  - **(8)** two other members of the House of Representatives designated by the Minority Leader of the House of Representatives; and
-  - **(9)** six persons designated by the President.
+- **(a)** A Board of Visitors to the Academy is constituted annually. The Board consists of the following members:
+  - **(1)** Six persons designated by the President.
+  - **(2)** The chairman of the Committee on Armed Services of the House of Representatives, or his designee.
+  - **(3)** Four persons designated by the Speaker of the House of Representatives, three of whom shall be members of the House of Representatives and the fourth of whom may not be a member of the House of Representatives.
+  - **(4)** The chairman of the Committee on Armed Services of the Senate, or his designee.
+  - **(5)** Three other members of the Senate designated by the Vice President or the President pro tempore of the Senate, two of whom are members of the Committee on Appropriations of the Senate.
 - **(b)**
-  - **(1)** The persons designated by the President serve for three years each except that any member whose term of office has expired shall continue to serve until his successor is designated by the President. The President shall designate persons each year to succeed the members designated by the President whose terms expire that year.
+  - **(1)** The persons designated by the President serve for three years each except that any member whose term of office has expired shall continue to serve until his successor is designated. The President shall designate persons each year to succeed the members designated by the President whose terms expire that year.
   - **(2)** At least two of the members designated by the President shall be graduates of the Academy.
 - **(c)**
   - **(1)** If a member of the Board dies or resigns or is terminated as a member of the Board under paragraph (2), a successor shall be designated for the unexpired portion of the term by the official who designated the member.
@@ -39,8 +35,3 @@ generated_at: "2026-03-29T20:03:09.899Z"
 - **(f)** The Board shall prepare a semiannual report containing its views and recommendations pertaining to the Academy, based on its meeting since the last such report and any other considerations it determines relevant. Each such report shall be submitted concurrently to the Secretary of Defense, through the Secretary of the Air Force, and to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 - **(g)** Upon approval by the Secretary, the Board may call in advisers for consultation.
 - **(h)** While performing duties as a member of the Board, each member of the Board and each adviser shall be reimbursed under Government travel regulations for travel expenses.
-- **(i)**
-  - **(1)** A majority of the members of the Board may call an official meeting of the Board once per year.
-  - **(2)** A member may attend such meeting—
-    - **(A)** in person, at the Academy; or
-    - **(B)** remotely, at the election of such member.

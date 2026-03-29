@@ -3,9 +3,9 @@ title: "Section 1308 - Additional grants to Puerto Rico, Virgin Islands, Guam, a
 usc_title: 42
 usc_section: "1308"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 1308"
-generated_at: "2026-03-29T20:07:43.519Z"
+generated_at: "2026-03-29T20:34:52.977Z"
 ---
 
 # § 1308. Additional grants to Puerto Rico, Virgin Islands, Guam, and American Samoa; limitation on total payments
@@ -49,11 +49,10 @@ generated_at: "2026-03-29T20:07:43.519Z"
     - **(C)** For Guam, $750,000.
     - **(D)** For the Northern Mariana Islands, $500,000.
     - **(E)** For American Samoa, $500,000.
-  - **(2)** Notwithstanding subsection (f) and subject to section 18043(a)(2) of this title and paragraphs (3), (5), and (14), with respect to fiscal year 1999 and any fiscal year thereafter, the total amount certified by the Secretary under subchapter XIX for payment to—
+  - **(2)** Notwithstanding subsection (f) and subject to section 18043(a)(2) of this title and paragraphs (3) and (5), with respect to fiscal year 1999 and any fiscal year thereafter, the total amount certified by the Secretary under subchapter XIX for payment to—
     - **(A)** Puerto Rico shall not exceed—
-      - **(i)** except as provided in clause (ii) or (iii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase in the medical care component of the Consumer Price Index for all urban consumers (as published by the Bureau of Labor Statistics) for the 12-month period ending in March preceding the beginning of the fiscal year, rounded to the nearest $100,000;
-      - **(ii)** for each of fiscal years 2020 through 2021, the amount specified in paragraph (6) for each such fiscal year; and
-      - **(iii)** for fiscal year 2023 and each subsequent fiscal year, the amount specified in paragraph (11) for such fiscal year;
+      - **(i)** except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase in the medical care component of the Consumer Price Index for all urban consumers (as published by the Bureau of Labor Statistics) for the 12-month period ending in March preceding the beginning of the fiscal year, rounded to the nearest $100,000; and
+      - **(ii)** for each of fiscal years 2020 through 2021, the amount specified in paragraph (6) for each such fiscal year;
     - **(B)** the Virgin Islands shall not exceed—
       - **(i)** except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000;
       - **(ii)** for fiscal year 2020, $128,712,500; and
@@ -112,11 +111,6 @@ generated_at: "2026-03-29T20:07:43.519Z"
         - **(I)** metrics for evaluating the success of the plan; and
         - **(II)** a schedule for publicly releasing status reports on the plan.
       - **(iv)** Not later than 18 months after December 20, 2019 , Puerto Rico shall publish a plan, developed by Puerto Rico in coordination with the Administrator of the Centers for Medicare & Medicaid Services and approved by the Administrator, for how Puerto Rico will comply with the Medicaid eligibility quality control (MEQC) requirements of subpart P of part 431 of title 42, Code of Federal Regulations (or any successor regulation).
-      - **(v)**
-        - **(I)** Not later than 6 months after December 29, 2022 , the agency responsible for the administration of Puerto Rico’s Medicaid program under subchapter XIX shall designate an officer (other than the director of such agency) to serve as the Contracting and Procurement Oversight Lead to carry out the duties specified in subclause (II).
-        - **(II)** Not later than 60 days after the end of each fiscal quarter (beginning with the first fiscal quarter beginning on or after the date that is 1 year after December 29, 2022 ), the officer designated pursuant to subclause (I) shall, with respect to each contract described in clause (iii) with an annual value exceeding $150,000 entered into during such quarter, certify to the Secretary either—
-        - **(III)** The officer designated pursuant to subclause (I) shall make public each certification containing extenuating circumstances described in subclause (II)(bb) not later than 30 days after such certification is made, including a description of, and justification of, such extenuating circumstances.
-        - **(IV)** Not later than 2 years after December 29, 2022 , the Inspector General of the Department of Health and Human Services shall submit to Congress a report on the compliance of Puerto Rico with the provisions of this clause.
     - **(B)**
       - **(i)** For each fiscal quarter during the period beginning on January 1, 2020 , and ending on September 30, 2021 :
         - **(I)** For every clause under subparagraph (A) with respect to which Puerto Rico does not fully satisfy the requirements described in the clause (including requirements imposed under the terms of a plan described in the clause) in the fiscal quarter, the Federal medical assistance percentage applicable to Puerto Rico under section 1396d(ff) of this title shall be reduced by the number of percentage points determined for the clause and fiscal quarter under subclause (II).
@@ -131,7 +125,7 @@ generated_at: "2026-03-29T20:07:43.519Z"
       - **(ii)** the total number of fiscal quarters during the fiscal year in which the territory failed to satisfy such requirement.
     - **(C)** This paragraph shall apply to the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa.
   - **(9)**
-    - **(A)** Not later than the date that is 30 days after the end of each fiscal year (beginning with fiscal year 2020 and ending with fiscal year 2021) and for fiscal year 2023 and each subsequent fiscal year (or, in the case of Puerto Rico, and for fiscal year 2023 and each subsequent fiscal year before fiscal year 2028), in the case that a specified territory receives a Medicaid cap increase, or an increase in the Federal medical assistance percentage for such territory under section 1396d(ff) of this title , for such fiscal year, such territory shall submit to the Chair and Ranking Member of the Committee on Energy and Commerce of the House of Representatives and the Chair and Ranking Member of the Committee on Finance of the Senate a report, employing the most up-to-date information available, that describes how such territory has used such Medicaid cap increase, or such increase in the Federal medical assistance percentage, as applicable, to increase access to health care under the State Medicaid plan of such territory under subchapter XIX (or a waiver of such plan). Such report may include—
+    - **(A)** Not later than the date that is 30 days after the end of each fiscal year (beginning with fiscal year 2020 and ending with fiscal year 2021), in the case that a specified territory receives a Medicaid cap increase, or an increase in the Federal medical assistance percentage for such territory under section 1396d(ff) of this title , for such fiscal year, such territory shall submit to the Chair and Ranking Member of the Committee on Energy and Commerce of the House of Representatives and the Chair and Ranking Member of the Committee on Finance of the Senate a report, employing the most up-to-date information available, that describes how such territory has used such Medicaid cap increase, or such increase in the Federal medical assistance percentage, as applicable, to increase access to health care under the State Medicaid plan of such territory under subchapter XIX (or a waiver of such plan). Such report may include—
       - **(i)** the extent to which such territory has, with respect to such plan (or waiver)—
         - **(I)** increased payments to health care providers;
         - **(II)** increased covered benefits;
@@ -139,53 +133,6 @@ generated_at: "2026-03-29T20:07:43.519Z"
         - **(IV)** improved in any other manner the carrying out of such plan (or waiver); and
       - **(ii)** any other information as determined necessary by such territory.
     - **(B)** In this paragraph:
-      - **(i)** The term “Medicaid cap increase” means, with respect to a specified territory and fiscal year, any increase in the amounts otherwise determined under this subsection for such territory for such fiscal year by reason of the amendments made by section 202 of division N of the Further Consolidated Appropriations Act, 2020 or by reason of the amendments made by section 5101 of the Health Extenders, Improving Access to Medicare, Medicaid, and CHIP, and Strengthening Public Health Act of 2022.
+      - **(i)** The term “Medicaid cap increase” means, with respect to a specified territory and fiscal year, any increase in the amounts otherwise determined under this subsection for such territory for such fiscal year by reason of the amendments made by section 202 of division N of the Further Consolidated Appropriations Act, 2020.
       - **(ii)** The term “specified territory” means Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa.
-  - **(10)**
-    - **(A)** Notwithstanding the preceding provisions of this subsection, the total amount certified for Puerto Rico for fiscal year 2022 under this subsection shall be increased by $200,000,000 if the Secretary certifies that, with respect to such fiscal year, Puerto Rico’s State plan under subchapter XIX (or a waiver of such plan) establishes a reimbursement floor, implemented through a directed payment arrangement plan, for physician services that are covered under the Medicare part B fee schedule in the Puerto Rico locality established under section 1395w–4(b) of this title that is not less than 70 percent of the payment that would apply to such services if they were furnished under part B of subchapter XVIII during such fiscal year.
-    - **(B)** In certifying whether Puerto Rico has established a reimbursement floor under a directed payment arrangement plan that satisfies the requirements of subparagraph (A) for fiscal year 2022, the Secretary shall—
-      - **(i)** disregard payments made under sub-capitated arrangements for services such as primary care case management; and
-      - **(ii)** if the reimbursement floor for physician services applicable under a managed care contract satisfies the requirements of subparagraph (A) for the fiscal year in which the contract is entered into or renewed, such reimbursement floor shall be deemed to satisfy such requirements for the subsequent fiscal year.
-  - **(11)** For purposes of paragraph (2)(A)(iii), subject to paragraphs (12) and (13), the amounts specified in this paragraph are the following:
-    - **(A)** For fiscal year 2023, $3,275,000,000.
-    - **(B)** For fiscal year 2024, $3,325,000,000.
-    - **(C)** For fiscal year 2025, $3,475,000,000.
-    - **(D)** For fiscal year 2026, $3,645,000,000.
-    - **(E)** For fiscal year 2027, $3,825,000,000.
-    - **(F)** For fiscal year 2028, the sum of the amount that would have been provided under this subsection for Puerto Rico for such fiscal year in accordance with clause (i) of paragraph (2)(A) (without regard to clause (iii) of such paragraph) had the amount provided under this subsection for Puerto Rico for each of fiscal years 2020 through 2027 been equal to the following:
-      - **(i)** For fiscal year 2020, the sum of the amount provided under this subsection for Puerto Rico for fiscal year 2019, increased by the percentage increase in the medical care component of the Consumer Price Index for all urban consumers (as published by the Bureau of Labor Statistics) for the 12-month period ending in March preceding the beginning of the fiscal year, rounded to the nearest $100,000.
-      - **(ii)** For each of fiscal years 2021 through 2027, the sum of the amount provided under this subparagraph for the preceding fiscal year, increased in accordance with the percentage increase described in clause (i), rounded to the nearest $100,000.
-    - **(G)** For fiscal year 2029 and each subsequent fiscal year, the sum of the amount specified in this paragraph for the preceding fiscal year, increased by the percentage increase in the medical care component of the Consumer Price Index for all urban consumers (as published by the Bureau of Labor Statistics) for the 12-month period ending in March preceding the beginning of the fiscal year, rounded to the nearest $100,000.
-  - **(12)**
-    - **(A)** For fiscal year 2023 and each subsequent fiscal year through fiscal year 2027, the amount specified in paragraph (11) for the fiscal year shall be equal to the amount specified for such fiscal year under such paragraph increased by $300,000,000 if the Secretary certifies that, with respect to such fiscal year, Puerto Rico’s State plan under subchapter XIX (or waiver of such plan) establishes a reimbursement floor, implemented through a directed payment arrangement plan, for physician services that are covered under the Medicare part B fee schedule in the Puerto Rico locality established under section 1395w–4(b) of this title that is not less than 75 percent of the payment that would apply to such services if they were furnished under part B of subchapter XVIII during such fiscal year.
-    - **(B)** In certifying whether Puerto Rico has established a reimbursement floor under a directed payment arrangement plan that satisfies the requirements of subparagraph (A)—
-      - **(i)** for fiscal year 2023, the Secretary shall apply such requirements to payments for physician services under a managed care contract entered into or renewed after December 29, 2022 , and disregard payments for physician services under any managed care contract that was entered into prior to such date; and
-      - **(ii)** for each subsequent fiscal year through fiscal year 2027—
-        - **(I)** the Secretary shall disregard payments made under subcapitated arrangements for services such as primary care case management; and
-        - **(II)** if the reimbursement floor for physician services applicable under a managed care contract satisfies the requirements of subparagraph (A) for the fiscal year in which the contract is entered into or renewed, such reimbursement floor shall be deemed to satisfy such requirements for the subsequent fiscal year.
-    - **(C)** An increase under this paragraph for a fiscal year may not be taken into account in calculating the amount specified under paragraph (11) for the succeeding fiscal year.
-  - **(13)**
-    - **(A)** For each of fiscal years 2023 through 2027, the amount specified in paragraph (11) for the fiscal year shall be equal to the amount specified for such fiscal year under such paragraph (increased, if applicable, in accordance with paragraph (12)) and further increased—
-      - **(i)** in the case of each of fiscal years 2023 through 2025, by $75,000,000 if the Secretary determines that Puerto Rico fully satisfies the requirements described in paragraph (7)(A)(i) for such fiscal year; and
-      - **(ii)** in the case of each of fiscal years 2026 and 2027, by $75,000,000 if the Secretary determines that Puerto Rico fully satisfies the requirements described in—
-        - **(I)** paragraph (7)(A)(i) for such fiscal year; and
-        - **(II)** paragraph (7)(A)(v) for such fiscal year.
-    - **(B)** An increase under this paragraph for a fiscal year may not be taken into account in calculating the amount specified under paragraph (11) for the succeeding fiscal year.
-  - **(14)**
-    - **(A)** The Secretary shall increase the total amount otherwise determined under this subsection for the Northern Mariana Islands for the period beginning on October 1, 2022 , and ending on September 30, 2024 , by $27,100,000.
-    - **(B)** The increase described in subparagraph (A)—
-      - **(i)** shall apply to the total amount certified by the Secretary under subchapter XIX for payment to the Northern Mariana Islands for services attributable to fiscal year 2023 or 2024, notwithstanding that payments for any such services are made by the Northern Mariana Islands in fiscal year 2025; and
-      - **(ii)** shall be in addition to the amount calculated under paragraph (2) for the Northern Mariana Islands for fiscal years 2023 and 2024 and shall not be taken into account in calculating an amount under paragraph (2) for the Northern Mariana Islands for fiscal year 2025 or a subsequent fiscal year.
 - **(h)** Expenditures for medical assistance provided to an individual described in section 1641(b)(8) of title 8 shall not be taken into account for purposes of applying payment limits under subsections (f) and (g).
-- **(i)**
-  - **(1)** Subject to paragraphs (2) and (3), the Secretary shall pay to each eligible territory an amount equal to 100 percent of the qualifying data system improvement expenditures incurred by such territory on or after October 1, 2023 .
-  - **(2)**
-    - **(A)** Payments to eligible territories made under this paragraph shall be considered to have been made under, and are subject to the requirements of, section 1396b of this title .
-    - **(B)** No payment shall be made under subchapter XIX (other than as provided under paragraph (1)), subchapter XXI, or any other provision of law with respect to an expenditure for which payment is made under such paragraph.
-  - **(3)** The Secretary shall specify an allotment for each eligible territory for payments made under paragraph (1) in a manner such that—
-    - **(A)** the total amount of payments made under such paragraph for all eligible territories does not exceed $20,000,000; and
-    - **(B)** each eligible territory receives an equitable allotment of such payments.
-  - **(4)** A payment to an eligible territory under this subsection shall not be taken into account for purposes of applying the payment limits under subsections (f) and (g).
-  - **(5)** In this subsection:
-    - **(A)** The term “eligible territory” means American Samoa, Guam, the Northern Mariana Islands, and the Virgin Islands.
-    - **(B)** The term “qualifying data system improvement expenditure” means an expenditure by an eligible territory to improve, update, or enhance a data system that is used by the territory to carry out an administrative activity for which Federal financial participation is available under section 1396b(a) of this title .

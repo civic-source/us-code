@@ -3,9 +3,9 @@ title: "Section 9911 - Payments to Indian tribes"
 usc_title: 42
 usc_section: "9911"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 9911"
-generated_at: "2026-03-29T20:07:44.677Z"
+generated_at: "2026-03-29T20:34:54.018Z"
 ---
 
 # § 9911. Payments to Indian tribes

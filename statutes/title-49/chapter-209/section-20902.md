@@ -3,9 +3,9 @@ title: "Section 20902 - Investigations"
 usc_title: 49
 usc_section: "20902"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 20902"
-generated_at: "2026-03-29T20:07:58.500Z"
+generated_at: "2026-03-29T20:35:10.821Z"
 ---
 
 # § 20902. Investigations
@@ -13,14 +13,5 @@ generated_at: "2026-03-29T20:07:58.500Z"
 - **(a)** The Secretary of Transportation, or an impartial investigator authorized by the Secretary, may investigate—
   - **(1)** an accident or incident resulting in serious injury to an individual or to railroad property, occurring on the railroad line of a railroad carrier; and
   - **(2)** an accident or incident reported under section 20505 of this title .
-- **(b)** In carrying out an investigation, the Secretary or authorized investigator may subpoena witnesses, require the production of records, exhibits, and other evidence, administer oaths, and take testimony. If the accident or incident is investigated by a commission of the State in which it occurred, the Secretary, if convenient, shall carry out the investigation at the same time as, and in coordination with, the commission’s investigation. The railroad carrier on whose railroad line the accident or incident occurred shall provide reasonable facilities to the Secretary for the investigation.
+- **(b)** In carrying out an investigation, the Secretary or authorized investigator may subpena witnesses, require the production of records, exhibits, and other evidence, administer oaths, and take testimony. If the accident or incident is investigated by a commission of the State in which it occurred, the Secretary, if convenient, shall carry out the investigation at the same time as, and in coordination with, the commission’s investigation. The railroad carrier on whose railroad line the accident or incident occurred shall provide reasonable facilities to the Secretary for the investigation.
 - **(c)** When in the public interest, the Secretary shall make a report of the investigation, stating the cause of the accident or incident and making recommendations the Secretary considers appropriate. The Secretary shall publish the report in a way the Secretary considers appropriate.
-- **(d)**
-  - **(1)** The Secretary shall create a standard process for investigators to use during accident and incident investigations conducted under this section for determining when it is appropriate and the appropriate method for—
-    - **(A)** gathering information about an accident or incident under investigation from railroad carriers, contractors or employees of railroad carriers or representatives of employees of railroad carriers, and others, as determined relevant by the Secretary; and
-    - **(B)** consulting with railroad carriers, contractors or employees of railroad carriers or representatives of employees of railroad carriers, and others, as determined relevant by the Secretary, for technical expertise on the facts of the accident or incident under investigation.
-  - **(2)** In developing the process required under paragraph (1), the Secretary shall factor in ways to maintain the confidentiality of any entity identified under paragraph (1) if—
-    - **(A)** such entity requests confidentiality;
-    - **(B)** such entity was not involved in the accident or incident; and
-    - **(C)** maintaining such entity’s confidentiality does not adversely affect an investigation of the Federal Railroad Administration.
-  - **(3)** This subsection shall not apply to any investigation carried out by the National Transportation Safety Board.

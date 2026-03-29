@@ -3,16 +3,16 @@ title: "Section 856 - Art. 56. Sentencing"
 usc_title: 10
 usc_section: "856"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 856"
-generated_at: "2026-03-29T20:03:09.508Z"
+generated_at: "2026-03-29T20:31:54.449Z"
 ---
 
 # § 856. Art. 56. Sentencing
 
 - **(a)** The punishment which a court-martial may direct for an offense may not exceed such limits as the President may prescribe for that offense.
 - **(b)**
-  - **(1)** Except as provided in subsection (c) 1 1 See References in Text note below. of section 853a of this title (article 53a), punishment for any offense specified in paragraph (2) shall include dismissal or dishonorable discharge, as applicable.
+  - **(1)** Except as provided in subsection (d) of section 853a of this title (article 53a), punishment for any offense specified in paragraph (2) shall include dismissal or dishonorable discharge, as applicable.
   - **(2)** The offenses referred to in paragraph (1) are as follows:
     - **(A)** Rape under subsection (a) of section 920 of this title (article 120).
     - **(B)** Sexual assault under subsection (b) of such section (article).
@@ -33,26 +33,20 @@ generated_at: "2026-03-29T20:03:09.508Z"
       - **(iv)** to promote adequate deterrence of misconduct;
       - **(v)** to protect others from further crimes by the accused;
       - **(vi)** to rehabilitate the accused; and
-      - **(vii)** to provide, in appropriate cases, the opportunity for retraining and return to duty to meet the needs of the service;
-    - **(D)** the sentences available under this chapter; and
-    - **(E)** the applicable sentencing parameters or sentencing criteria set forth in regulations prescribed by the President pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022.
-  - **(2)**
-    - **(A)** Except as provided in subparagraph (B), in a general or special court-martial in which the accused is convicted of an offense for which the President has established a sentencing parameter pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, the military judge shall sentence the accused for that offense within the applicable parameter.
-    - **(B)** The military judge may impose a sentence outside a sentencing parameter upon finding specific facts that warrant such a sentence. If the military judge imposes a sentence outside a sentencing parameter under this subparagraph, the military judge shall include in the record a written statement of the factual basis for the sentence.
-  - **(3)** In a general or special court-martial in which the accused is convicted of an offense for which the President has established sentencing criteria pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, the military judge shall consider the applicable sentencing criteria in determining the sentence for that offense.
-  - **(4)** In announcing the sentence under section 853 of this title (article 53) in a general or special court-martial, the military judge shall, with respect to each offense of which the accused is found guilty, specify the term of confinement, if any, and the amount of the fine, if any. If the accused is sentenced to confinement for more than one offense, the military judge shall specify whether the terms of confinement are to run consecutively or concurrently.
-  - **(5)** Sentencing parameters and sentencing criteria shall not apply to a determination of whether an offense should be punished by death.
-  - **(6)**
+      - **(vii)** to provide, in appropriate cases, the opportunity for retraining and return to duty to meet the needs of the service; and
+    - **(D)** the sentences available under this chapter.
+  - **(2)** In announcing the sentence in a general or special court-martial in which the accused is sentenced by a military judge alone under section 853 of this title (article 53), the military judge shall, with respect to each offense of which the accused is found guilty, specify the term of confinement, if any, and the amount of the fine, if any. If the accused is sentenced to confinement for more than one offense, the military judge shall specify whether the terms of confinement are to run consecutively or concurrently.
+  - **(3)** In a general or special court-martial in which the accused has elected sentencing by members, the court-martial shall announce a single sentence for all of the offenses of which the accused was found guilty.
+  - **(4)**
     - **(A)** If an offense is subject to a sentence of confinement for life, a court-martial may impose a sentence of confinement for life without eligibility for parole.
     - **(B)** An accused who is sentenced to confinement for life without eligibility for parole shall be confined for the remainder of the accused’s life unless—
       - **(i)** the sentence is set aside or otherwise modified as a result of—
         - **(I)** action taken by the convening authority or the Secretary concerned; or
-        - **(II)** any other action taken during post-trial procedure or review under any other provision of subchapter IX of this chapter;
-      - **(ii)** the sentence is set aside or otherwise modified as a result of action taken by a court of competent jurisdiction; or
-      - **(iii)** the accused receives a pardon or another form of Executive clemency.
+        - **(II)** any other action taken during post-trial procedure and review under any other provision of subchapter IX of this chapter;
+      - **(ii)** the sentence is set aside or otherwise modified as a result of action taken by a Court of Criminal Appeals, the Court of Appeals for the Armed Forces, or the Supreme Court; or
+      - **(iii)** the accused is pardoned.
 - **(d)**
   - **(1)** With the approval of the Judge Advocate General concerned, and consistent with standards and procedures set forth in regulations prescribed by the President, the Government may appeal a sentence to the Court of Criminal Appeals, on the grounds that—
-    - **(A)** the sentence violates the law;
-    - **(B)** in the case of a sentence for an offense for which the President has established a sentencing parameter pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, the sentence is a result of an incorrect application of the parameter; or
-    - **(C)** the sentence is plainly unreasonable.
+    - **(A)** the sentence violates the law; or
+    - **(B)** the sentence is plainly unreasonable, as determined in accordance with standards and procedures prescribed by the President.
   - **(2)** An appeal under this subsection must be filed within 60 days after the date on which the judgment of a court-martial is entered into the record under section 860c of this title (article 60c).

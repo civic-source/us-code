@@ -3,9 +3,9 @@ title: "Section 3d - Implementation of coordinated disclosure of security vulner
 usc_title: 15
 usc_section: "3d"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 3d"
-generated_at: "2026-03-29T20:03:27.235Z"
+generated_at: "2026-03-29T20:32:09.743Z"
 ---
 
 # § 278g–3d. Implementation of coordinated disclosure of security vulnerabilities relating to agency information systems, including Internet of Things devices

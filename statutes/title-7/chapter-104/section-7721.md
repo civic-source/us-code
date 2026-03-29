@@ -3,9 +3,9 @@ title: "Section 7721 - Plant pest and disease management and disaster prevention
 usc_title: 7
 usc_section: "7721"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 7721"
-generated_at: "2026-03-29T20:02:52.821Z"
+generated_at: "2026-03-29T20:31:42.252Z"
 ---
 
 # § 7721. Plant pest and disease management and disaster prevention
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T20:02:52.821Z"
   - **(2)** In carrying out this subsection, the Secretary shall consult with—
     - **(A)** the National Plant Board; and
     - **(B)** other interested parties.
-  - **(3)** Chapter 10 of title 5 shall not apply to consultations under this subsection.
+  - **(3)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to consultations under this subsection.
   - **(4)**
     - **(A)** A State department of agriculture seeking to enter into a cooperative agreement under this subsection shall submit to the Secretary an application containing such information as the Secretary may require.
     - **(B)** The Secretary shall notify applicants of—
@@ -77,9 +77,8 @@ generated_at: "2026-03-29T20:02:52.821Z"
   - **(2)** $45,000,000 for fiscal year 2010;
   - **(3)** $50,000,000 for fiscal year 2011;
   - **(4)** $50,000,000 for fiscal year 2012;
-  - **(5)** $62,500,000 for each of fiscal years 2014 through 2017;
-  - **(6)** $75,000,000 for each of fiscal years 2018 through 2025; and
-  - **(7)** $90,000,000 for fiscal year 2026 and each fiscal year thereafter.
+  - **(5)** $62,500,000 for each of fiscal years 2014 through 2017; and
+  - **(6)** $75,000,000 for fiscal year 2018 and each fiscal year thereafter.
 - **(g)** Of the funds made available under subsection (f) to carry out this section for a fiscal year, not less than $5,000,000 shall be available to carry out the National Clean Plant Network under subsection (e).
 - **(h)** Indirect costs charged against a cooperative agreement under this section shall not exceed the lesser of—
   - **(1)** 15 percent of the total Federal funds provided under the cooperative agreement, as determined by the Secretary; and

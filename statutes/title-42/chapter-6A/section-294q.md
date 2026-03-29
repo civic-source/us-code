@@ -3,9 +3,9 @@ title: "Section 294q - National Health Care Workforce Commission"
 usc_title: 42
 usc_section: "294q"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 294q"
-generated_at: "2026-03-29T20:07:43.179Z"
+generated_at: "2026-03-29T20:34:52.707Z"
 ---
 
 # § 294q. National Health Care Workforce Commission
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T20:07:43.179Z"
   - **(5)** encourages innovations to address population needs, constant changes in technology, and other environmental factors.
 - **(b)** There is hereby established the National Health Care Workforce Commission (in this section referred to as the “Commission”).
 - **(c)**
-  - **(1)** The Commission shall be composed of 15 members to be appointed by the Comptroller General, without regard to section 1004 of title 5 .
+  - **(1)** The Commission shall be composed of 15 members to be appointed by the Comptroller General, without regard to section 5 of the Federal Advisory Committee Act (5 U.S.C. App.).
   - **(2)**
     - **(A)** The membership of the Commission shall include individuals—
       - **(i)** with national recognition for their expertise in health care labor market analysis, including health care workforce analysis; health care finance and economics; health care facility management; health care plans and integrated delivery systems; health care workforce education and training; health care philanthropy; providers of health care services; and other related fields; and
@@ -35,7 +35,7 @@ generated_at: "2026-03-29T20:07:43.179Z"
         - **(VIII)** educational institutions (which may include elementary and secondary institutions, institutions of higher education, including 2 and 4 year institutions, or registered apprenticeship programs).
       - **(ii)** The remaining membership may include additional representatives from clause (i) and other individuals as determined appropriate by the Comptroller General of the United States.
     - **(C)** Individuals who are directly involved in health professions education or practice shall not constitute a majority of the membership of the Commission.
-    - **(D)** The Comptroller General shall establish a system for public disclosure by members of the Commission of financial and other potential conflicts of interest relating to such members. Members of the Commission shall be treated as employees of Congress for purposes of applying subchapter I of chapter 131 of title 5. Members of the Commission shall not be treated as special government employees under title 18.
+    - **(D)** The Comptroller General shall establish a system for public disclosure by members of the Commission of financial and other potential conflicts of interest relating to such members. Members of the Commission shall be treated as employees of Congress for purposes of applying title I of the Ethics in Government Act of 1978 [5 U.S.C. App.]. Members of the Commission shall not be treated as special government employees under title 18.
   - **(3)**
     - **(A)** The terms of members of the Commission shall be for 3 years except that the Comptroller General shall designate staggered terms for the members first appointed.
     - **(B)** Any member appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member’s term until a successor has taken office. A vacancy in the Commission shall be filled in the manner in which the original appointment was made.

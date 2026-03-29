@@ -3,9 +3,9 @@ title: "Section 7484 - Required terms in orders"
 usc_title: 7
 usc_section: "7484"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 7484"
-generated_at: "2026-03-29T20:02:52.807Z"
+generated_at: "2026-03-29T20:31:42.240Z"
 ---
 
 # § 7484. Required terms in orders

@@ -3,12 +3,12 @@ title: "Section 411 - Cooperation with other Government agencies"
 usc_title: 39
 usc_section: "411"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "39 U.S.C. § 411"
-generated_at: "2026-03-29T20:05:38.506Z"
+generated_at: "2026-03-29T20:33:51.058Z"
 ---
 
 # § 411. Cooperation with other Government agencies
 
-Executive agencies within the meaning of section 105 of title 5 and the Government Publishing Office are authorized to furnish property, both real and personal, and personal and nonpersonal services to the Postal Service, and the Postal Service is authorized to furnish property and services to them. The furnishing of property and services under this section shall be under such terms and conditions, including reimbursability within the limitations of chapter 37, as the Postal Service and the head of the agency concerned shall deem appropriate.
+Executive agencies within the meaning of section 105 of title 5 and the Government Publishing Office are authorized to furnish property, both real and personal, and personal and nonpersonal services to the Postal Service, and the Postal Service is authorized to furnish property and services to them. The furnishing of property and services under this section shall be under such terms and conditions, including reimbursability, as the Postal Service and the head of the agency concerned shall deem appropriate.
 

@@ -3,9 +3,9 @@ title: "Section 74a - Permanent loan of funds by Board of Trustees to Treasury; 
 usc_title: 20
 usc_section: "74a"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "20 U.S.C. § 74a"
-generated_at: "2026-03-29T20:04:32.738Z"
+generated_at: "2026-03-29T20:32:28.710Z"
 ---
 
 # § 74a. Permanent loan of funds by Board of Trustees to Treasury; semiannual interest payments to Board

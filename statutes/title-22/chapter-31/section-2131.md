@@ -3,9 +3,9 @@ title: "Section 2131 - Travel Promotion Act of 2009"
 usc_title: 22
 usc_section: "2131"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 2131"
-generated_at: "2026-03-29T20:04:46.731Z"
+generated_at: "2026-03-29T20:32:59.929Z"
 ---
 
 # § 2131. Travel Promotion Act of 2009
@@ -89,7 +89,7 @@ generated_at: "2026-03-29T20:04:46.731Z"
   - **(1)** There is hereby established in the Treasury a fund which shall be known as the Travel Promotion Fund.
   - **(2)**
     - **(A)** The Secretary of the Treasury shall make available to the Corporation such sums as may be necessary, but not to exceed $10,000,000, from amounts deposited in the general fund of the Treasury from fees under section 1187(h)(3)(B)(i)(I) of title 8 to cover the Corporation’s initial expenses and activities under this section. Transfers shall be made at least monthly, immediately following the collection of fees under section 1187(h)(3)(B)(i)(I) of title 8 , on the basis of estimates by the Secretary, and proper adjustments shall be made in amounts subsequently transferred to the extent prior estimates were in excess or less than the amounts required to be transferred.
-    - **(B)** For each of fiscal years 2012 through 2027, from amounts deposited in the general fund of the Treasury during the preceding fiscal year from fees under section 1187(h)(3)(B)(i)(I) of title 8 , the Secretary of the Treasury shall transfer not more than $20,000,000 to the Fund, which shall be made available to the Corporation, subject to paragraph (3) of this subsection, to carry out its functions under this section. Transfers shall be made at least quarterly on the basis of estimates by the Secretary, and proper adjustments shall be made in amounts subsequently transferred to the extent prior estimates were in excess or less than the amounts required to be transferred.
+    - **(B)** For each of fiscal years 2012 through 2027, from amounts deposited in the general fund of the Treasury during the preceding fiscal year from fees under section 1187(h)(3)(B)(i)(I) of title 8 , the Secretary of the Treasury shall transfer not more than $100,000,000 to the Fund, which shall be made available to the Corporation, subject to paragraph (3) of this subsection, to carry out its functions under this section. Transfers shall be made at least quarterly on the basis of estimates by the Secretary, and proper adjustments shall be made in amounts subsequently transferred to the extent prior estimates were in excess or less than the amounts required to be transferred.
   - **(3)**
     - **(A)** No amounts may be made available to the Corporation under this subsection after fiscal year 2011, except to the extent that—
       - **(i)** for fiscal year 2012, the Corporation provides matching amounts from non-Federal sources equal in the aggregate to 50 percent or more of the amount transferred to the Fund under paragraph (2); and

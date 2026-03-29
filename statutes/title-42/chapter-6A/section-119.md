@@ -3,9 +3,9 @@ title: "Section 119 - Increasing transparency by removing gag clauses on price a
 usc_title: 42
 usc_section: "119"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 119"
-generated_at: "2026-03-29T20:07:43.351Z"
+generated_at: "2026-03-29T20:34:52.833Z"
 ---
 
 # § 300gg–119. Increasing transparency by removing gag clauses on price and quality information

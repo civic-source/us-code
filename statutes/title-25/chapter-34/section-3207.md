@@ -3,9 +3,9 @@ title: "Section 3207 - Character investigations"
 usc_title: 25
 usc_section: "3207"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "25 U.S.C. § 3207"
-generated_at: "2026-03-29T20:04:54.434Z"
+generated_at: "2026-03-29T20:32:54.756Z"
 ---
 
 # § 3207. Character investigations

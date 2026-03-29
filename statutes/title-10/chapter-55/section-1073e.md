@@ -3,9 +3,9 @@ title: "Section 1073e - Protection of armed forces from infectious diseases"
 usc_title: 10
 usc_section: "1073e"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 1073e"
-generated_at: "2026-03-29T20:03:09.547Z"
+generated_at: "2026-03-29T20:31:54.479Z"
 ---
 
 # § 1073e. Protection of armed forces from infectious diseases
@@ -19,5 +19,5 @@ generated_at: "2026-03-29T20:03:09.547Z"
     - **(A)** a 30-day supply of personal protective equipment in a quantity sufficient for each member of the armed forces, including the reserve components thereof; and
     - **(B)** the capability to rapidly resupply such equipment.
 - **(c)**
-  - **(1)** The Secretary shall include with the defense budget materials (as defined by section 231(f) 1 1 See References in Text note below. of this title) for a fiscal year a plan to research and develop vaccines, diagnostics, and therapeutics for infectious diseases.
+  - **(1)** The Secretary shall include with the defense budget materials (as defined by section 231(f) of this title ) for a fiscal year a plan to research and develop vaccines, diagnostics, and therapeutics for infectious diseases.
   - **(2)** The Secretary shall ensure that the medical laboratories of the Department of Defense are equipped with the technology needed to facilitate rapid research and development of vaccines, diagnostics, and therapeutics in the case of a pandemic.

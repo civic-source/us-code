@@ -3,15 +3,15 @@ title: "Section 8205 - Fish habitat conservation projects"
 usc_title: 16
 usc_section: "8205"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 8205"
-generated_at: "2026-03-29T20:04:20.517Z"
+generated_at: "2026-03-29T20:32:45.527Z"
 ---
 
 # § 8205. Fish habitat conservation projects
 
 - **(a)** Not later than March 31 of each year, each Partnership shall submit to the Board a list of priority fish habitat conservation projects recommended by the Partnership for annual funding under this chapter.
-- **(b)** Not later than July 1 of each year, the Board shall submit to the Secretary a priority list of fish habitat conservation projects that includes a description, including estimated costs, of each project that the Board recommends that the Secretary approve and fund under this chapter.
+- **(b)** Not later than July 1 of each year, the Board shall submit to the Secretary a priority list of fish habitat conservation projects that includes a description, including estimated costs, of each project that the Board recommends that the Secretary approve and fund under this chapter for the following fiscal year.
 - **(c)** The Board shall select each fish habitat conservation project recommended to the Secretary under subsection (b) after taking into consideration, at a minimum, the following information:
   - **(1)** A recommendation of the Partnership that is, or will be, participating actively in implementing the fish habitat conservation project.
   - **(2)** The capabilities and experience of project proponents to implement successfully the proposed project.
@@ -51,8 +51,8 @@ generated_at: "2026-03-29T20:04:20.517Z"
       - **(i)** the owner of the real property authorizes the State, local government, or other non-Federal entity to acquire the real property; and
       - **(ii)** the Secretary and the Board determine that the State, local government, or other non-Federal entity would benefit from undertaking the management of the real property being acquired because that is in accordance with the goals of a Partnership.
 - **(e)**
-  - **(1)** The non-Federal share of the total cost of all fish habitat conservation projects carried out by a Partnership each year shall be at least 50 percent.
-  - **(2)** The non-Federal share described in paragraph (1)—
+  - **(1)** Except as provided in paragraphs (2) and (4), no fish habitat conservation project may be recommended by the Board under subsection (b) or provided financial assistance under this chapter unless at least 50 percent of the cost of the fish habitat conservation project will be funded with non-Federal funds.
+  - **(2)** Such non-Federal share of the cost of a fish habitat conservation project—
     - **(A)** may not be derived from another Federal grant program; and
     - **(B)** may include in-kind contributions and cash.
   - **(3)** Notwithstanding paragraph (1) or any other provision of law, any funds made available to an Indian Tribe pursuant to this chapter may be considered to be non-Federal funds for the purpose of paragraph (1).

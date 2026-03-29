@@ -3,9 +3,9 @@ title: "Section 1806 - Use of information"
 usc_title: 50
 usc_section: "1806"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "50 U.S.C. § 1806"
-generated_at: "2026-03-29T20:08:11.145Z"
+generated_at: "2026-03-29T20:35:05.142Z"
 ---
 
 # § 1806. Use of information

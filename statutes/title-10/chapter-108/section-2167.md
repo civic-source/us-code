@@ -3,9 +3,9 @@ title: "Section 2167 - National Defense University: admission of private sector 
 usc_title: 10
 usc_section: "2167"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2167"
-generated_at: "2026-03-29T20:03:09.649Z"
+generated_at: "2026-03-29T20:31:54.559Z"
 ---
 
 # § 2167. National Defense University: admission of private sector civilians to professional military education program

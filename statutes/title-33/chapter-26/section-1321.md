@@ -3,9 +3,9 @@ title: "Section 1321 - Oil and hazardous substance liability"
 usc_title: 33
 usc_section: "1321"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "33 U.S.C. § 1321"
-generated_at: "2026-03-29T20:05:35.746Z"
+generated_at: "2026-03-29T20:33:34.241Z"
 ---
 
 # § 1321. Oil and hazardous substance liability
@@ -44,7 +44,7 @@ generated_at: "2026-03-29T20:05:35.746Z"
     - **(A)** is at least 400 gross tons as measured under section 14302 of title 46 or, for vessels not measured under that section, as measured under section 14502 of that title;
     - **(B)** is not a tank vessel;
     - **(C)** carries oil of any kind as fuel for main propulsion; and
-    - **(D)** operates on the navigable waters of the United States, as defined in section 2101 of that title;
+    - **(D)** operates on the navigable waters of the United States, as defined in section 2101(23) of that title;
   - **(27)** the term “best available science” means science that—
     - **(A)** maximizes the quality, objectivity, and integrity of information, including statistical information;
     - **(B)** uses peer-reviewed and publicly available data; and
@@ -127,7 +127,6 @@ generated_at: "2026-03-29T20:05:35.746Z"
   - **(3)**
     - **(A)** Each Federal agency, State, owner or operator, or other person participating in efforts under this subsection shall act in accordance with the National Contingency Plan or as directed by the President.
     - **(B)** An owner or operator participating in efforts under this subsection shall act in accordance with the National Contingency Plan and the applicable response plan required under subsection (j), or as directed by the President, except that the owner or operator may deviate from the applicable response plan if the President or the Federal On-Scene Coordinator determines that deviation from the response plan would provide for a more expeditious or effective response to the spill or mitigation of its environmental effects.
-    - **(C)** In any case in which the President or the Federal On-Scene Coordinator authorizes a deviation from the salvor as part of a deviation under subparagraph (B) from the applicable response plan required under subsection (j), the Commandant of the Coast Guard shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report describing the deviation and the reasons for such deviation not less than 3 days after such deviation is authorized.
   - **(4)**
     - **(A)** A person is not liable for removal costs or damages which result from actions taken or omitted to be taken in the course of rendering care, assistance, or advice consistent with the National Contingency Plan or as otherwise directed by the President relating to a discharge or a substantial threat of a discharge of oil or a hazardous substance.
     - **(B)** Subparagraph (A) does not apply—
@@ -258,59 +257,6 @@ generated_at: "2026-03-29T20:05:35.746Z"
     - **(B)** vessels operating on navigable waters and carrying oil or a hazardous substance in bulk as cargo, and nontank vessels carrying oil of any kind as fuel for main propulsion, to carry appropriate removal equipment that employs the best technology economically feasible and that is compatible with the safe operation of the vessel.
   - **(7)** The President shall periodically conduct drills of removal capability, without prior notice, in areas for which Area Contingency Plans are required under this subsection and under relevant tank vessel, nontank vessel, and facility response plans. The drills may include participation by Federal, State, and local agencies, the owners and operators of vessels and facilities in the area, and private industry. The President may publish annual reports on these drills, including assessments of the effectiveness of the plans and a list of amendments made to improve plans.
   - **(8)** The United States Government is not liable for any damages arising from its actions or omissions relating to any response plan required by this section.
-  - **(9)**
-    - **(A)** In this paragraph:
-      - **(i)** The term “alternative planning criteria” means criteria submitted under section 155.1065 or 155.5067 of title 33, Code of Federal Regulations (as in effect on December 23, 2022 ), for vessel response plans.
-      - **(ii)** The term “Prince William Sound Captain of the Port Zone” means the area described in section 3.85–15(b) of title 33, Code of Federal Regulations (or successor regulations).
-      - **(iii)** The term “Secretary” means the Secretary of the department in which the Coast Guard is operating.
-      - **(iv)** The term “vessel response plan” means a plan required to be submitted by the owner or operator of a tank vessel or a nontank vessel under regulations issued by the President under paragraph (5).
-      - **(v)** The term “Western Alaska Captain of the Port Zone” means the area described in section 3.85–15(a) of title 33, Code of Federal Regulations (as in effect on December 23, 2022 ).
-    - **(B)** Except as provided in subparagraph (I), for any part of the area of responsibility of the Western Alaska Captain of the Port Zone or the Prince William Sound Captain of the Port Zone for which the Secretary has determined that the national planning criteria established pursuant to this subsection are inappropriate for a vessel operating in such area, a vessel response plan with respect to a discharge of oil for such a vessel shall comply with the Western Alaska oil spill planning criteria established under subparagraph (D)(i).
-    - **(C)** The Western Alaska oil spill planning criteria established under subparagraph (D)(i) shall, with respect to a discharge of oil from a vessel described in subparagraph (B), apply in lieu of any alternative planning criteria accepted for vessels operating, prior to the date on which the Western Alaska oil spill planning criteria are established, in any part of the area of responsibility of the Western Alaska Captain of the Port Zone or the Prince William Sound Captain of the Port Zone for which the Secretary has determined that the national planning criteria established pursuant to this subsection are inappropriate for a vessel operating in such area.
-    - **(D)**
-      - **(i)** The President, acting through the Commandant, in consultation with the Western Alaska Oil Spill Criteria Program Manager selected under section 312 of title 14 , shall establish—
-        - **(I)** Western Alaska oil spill planning criteria for a worst case discharge of oil, and a substantial threat of such a discharge, within any part of the area of responsibility of the Western Alaska Captain of the Port Zone or Prince William Sound Captain of the Port Zone for which the Secretary has determined that the national planning criteria established pursuant to this subsection are inappropriate for a vessel operating in such area; and
-        - **(II)** standardized submission, review, approval, and compliance verification processes for the Western Alaska oil spill planning criteria established under this clause, including the quantity and frequency of drills and on-site verifications of vessel response plans approved pursuant to such planning criteria.
-      - **(ii)**
-        - **(I)** After establishing the Western Alaska oil spill planning criteria under clause (i), and if necessary to adequately reflect the needs and capabilities of various locations within the Western Alaska Captain of the Port Zone, the President, acting through the Commandant, and in consultation with the Western Alaska Oil Spill Criteria Program Manager selected under section 312 of title 14 , may develop subregions for which planning criteria may differ from planning criteria for other subregions in the Western Alaska Captain of the Port Zone.
-        - **(II)** Any planning criteria for a subregion developed under this clause may not be less stringent than the Western Alaska oil spill planning criteria established under clause (i).
-      - **(iii)**
-        - **(I)** Prior to developing a subregion, the President, acting through the Commandant, shall conduct an assessment on any potential impacts to the entire Western Alaska Captain of the Port Zone to include quantity and availability of response resources in the proposed subregion and in surrounding areas and any changes or impacts to surrounding areas resulting in the development of a subregion with different standards.
-        - **(II)** In conducting an assessment under this clause, the President, acting through the Commandant, shall consult with State and local governments, Tribes (as defined in section 312 of title 14 ), the owners and operators that would operate under the proposed subregions, oil spill removal organizations, Alaska Native organizations, and environmental nongovernmental organizations, and shall take into account any experience with the prior use of subregions within the State of Alaska.
-        - **(III)** The President, acting through the Commandant, shall submit the results of an assessment conducted under this clause to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
-    - **(E)**
-      - **(i)** The Western Alaska oil spill planning criteria established under subparagraph (D)(i) shall include planning criteria for the following:
-        - **(I)** Mechanical oil spill response resources that are required to be located within any part of the area of responsibility of the Western Alaska Captain of the Port Zone or the Prince William Sound Captain of the Port Zone for which the Secretary has determined that the national planning criteria established pursuant to this subsection are inappropriate for a vessel operating in such area.
-        - **(II)** Response times for mobilization of oil spill response resources and arrival on the scene of a worst case discharge of oil, or substantial threat of such a discharge, occurring within such part of such area.
-        - **(III)** Pre-identified vessels for oil spill response that are capable of operating in the ocean environment.
-        - **(IV)** Ensuring the availability of at least 1 oil spill removal organization that is classified by the Coast Guard and that—
-        - **(V)** With respect to tank barges carrying nonpersistent oil in bulk as cargo, oil spill response resources that are required to be carried on board.
-        - **(VI)** Specifying a minimum length of time that approval of a vessel response plan under this paragraph is valid.
-        - **(VII)** Managing wildlife protection and rehabilitation, including identified wildlife protection and rehabilitation resources in that area.
-      - **(ii)** The Western Alaska oil spill planning criteria established under subparagraph (D)(i) may include planning criteria for the following:
-        - **(I)** Vessel routing measures consistent with international routing measure deviation protocols.
-        - **(II)** Maintenance of real-time continuous vessel tracking, monitoring, and engagement protocols with the ability to detect and address vessel operation anomalies.
-    - **(F)** The President may approve a vessel response plan for a vessel under this paragraph only if the owner or operator of the vessel demonstrates the availability of the oil spill response resources required to be included in the vessel response plan under the Western Alaska oil spill planning criteria established under subparagraph (D)(i).
-    - **(G)** The Secretary shall conduct periodic audits to ensure compliance of vessel response plans and oil spill removal organizations within the Western Alaska Captain of the Port Zone and the Prince William Sound Captain of the Port Zone with the Western Alaska oil spill planning criteria established under subparagraph (D)(i).
-    - **(H)** Not less frequently than once every 5 years, the Secretary shall review each determination of the Secretary under subparagraph (B) that the national planning criteria established pursuant to this subsection are inappropriate for a vessel operating in the area of responsibility of the Western Alaska Captain of the Port Zone and the Prince William Sound Captain of the Port Zone.
-    - **(I)** Unless otherwise authorized by the Secretary, a vessel may only operate in Cook Inlet, Alaska, under a vessel response plan approved under paragraph (5) that meets the requirements of the national planning criteria established pursuant to this subsection.
-    - **(J)** Nothing in this paragraph affects—
-      - **(i)** the requirements under this subsection applicable to vessel response plans for vessels operating within the area of responsibility of the Western Alaska Captain of the Port Zone, within Cook Inlet, Alaska;
-      - **(ii)** the requirements under this subsection applicable to vessel response plans for vessels operating within the area of responsibility of the Prince William Sound Captain of the Port Zone that are subject to section 5005 of the Oil Pollution Act of 1990 ( 33 U.S.C. 2735 ); or
-      - **(iii)** the authority of a Federal On-Scene Coordinator to use any available resources when responding to an oil spill.
-  - **(10)**
-    - **(A)** The President, acting through the Secretary of the department in which the Coast Guard is operating unless otherwise delegated by the President, may require—
-      - **(i)** periodic inspection of vessels and salvage equipment, firefighting equipment, and other major marine casualty response equipment on or associated with vessels;
-      - **(ii)** periodic verification of capabilities to appropriately, and in a timely manner, respond to a marine casualty, including—
-        - **(I)** drills, with or without prior notice;
-        - **(II)** review of contracts and relevant third-party agreements;
-        - **(III)** testing of equipment;
-        - **(IV)** review of training; and
-        - **(V)** other evaluations of marine casualty response capabilities, as determined appropriate by the President; and
-      - **(iii)** carrying of appropriate response equipment for responding to a marine casualty that employs the best technology economically feasible and that is compatible with the safe operation of the vessel.
-    - **(B)** In this paragraph:
-      - **(i)** The term “marine casualty” means a marine casualty that is required to be reported pursuant to paragraph (3), (4), or (5) of section 6101 2 of title 46.
-      - **(ii)** The term “salvage equipment” means any equipment that is capable of being used to assist a vessel in potential or actual danger in order to prevent loss of life, damage or destruction of the vessel or its cargo, or release of its contents into the marine environment.
 - **(k)**
 - **(l)** The President is authorized to delegate the administration of this section to the heads of those Federal departments, agencies, and instrumentalities which he determines to be appropriate. Each such department, agency, and instrumentality, in order to avoid duplication of effort, shall, whenever appropriate, utilize the personnel, services, and facilities of other Federal departments, agencies, and instrumentalities.
 - **(m)**
@@ -439,7 +385,7 @@ generated_at: "2026-03-29T20:05:35.746Z"
         - **(V)** develop standard terms to include in contracts for projects and programs awarded pursuant to the Comprehensive Plan that provide a preference to individuals and companies that reside in, are headquartered in, or are principally engaged in business in a Gulf Coast State;
         - **(VI)** prepare an integrated financial plan and recommendations for coordinated budget requests for the amounts proposed to be expended by the Federal agencies represented on the Council for projects and programs in the Gulf Coast States; and
         - **(VII)** submit to Congress an annual report that—
-      - **(viii)** The Council, or any other advisory committee established under this subparagraph, shall not be considered an advisory committee under chapter 10 of title 5.
+      - **(viii)** The Council, or any other advisory committee established under this subparagraph, shall not be considered an advisory committee under the Federal Advisory Committee Act (5 U.S.C. App.).
       - **(ix)** The authority for the Council, and any other advisory committee established under this subparagraph, shall terminate on the date all funds in the Trust Fund have been expended.
     - **(D)**
       - **(i)**

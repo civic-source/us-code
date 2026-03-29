@@ -3,9 +3,9 @@ title: "Section 9361 - Computation of retired pay"
 usc_title: 10
 usc_section: "9361"
 chapter: 945
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 9361"
-generated_at: "2026-03-29T20:03:09.893Z"
+generated_at: "2026-03-29T20:31:54.754Z"
 ---
 
 # § 9361. Computation of retired pay
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T20:03:09.893Z"
   - **(1)** The monthly retired pay of a member entitled to such pay under this subtitle is computed by multiplying—
     - **(A)** the member’s retired pay base (as computed under section 1406(e) or 1407 of this title), by
     - **(B)** the retired pay multiplier prescribed in section 1409 of this title for the number of years credited to the member under section 1405 of this title .
-  - **(2)** If a member who is retired under section 9314 of this title has been credited by the Secretary of the Air Force with extraordinary heroism in the line of duty, the member’s retired pay shall be increased by 10 percent of the amount determined under paragraph (1) (but to not more than 75 percent of the retired pay base upon which the computation of such retired pay is based (except in the case of a member who served during the Vietnam era, as that term is defined in section 12731 of this title )). The Secretary’s determination as to extraordinary heroism is conclusive for all purposes.
+  - **(2)** If a member who is retired under section 9314 of this title has been credited by the Secretary of the Air Force with extraordinary heroism in the line of duty, the member’s retired pay shall be increased by 10 percent of the amount determined under paragraph (1) (but to not more than 75 percent of the retired pay base upon which the computation of such retired pay is based). The Secretary’s determination as to extraordinary heroism is conclusive for all purposes.
 - **(b)**
   - **(1)** If a person would otherwise be entitled to retired pay computed under more than one formula in subsection (a) or the table in section 1401 of this title , he is entitled to be paid under the applicable formula that is most favorable to him.
   - **(2)** The amount computed under subsection (a), if not a multiple of $1, shall be rounded to the next lower multiple of $1.

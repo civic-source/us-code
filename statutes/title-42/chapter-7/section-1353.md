@@ -3,9 +3,9 @@ title: "Section 1353 - Payments to States"
 usc_title: 42
 usc_section: "1353"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 1353"
-generated_at: "2026-03-29T20:07:43.578Z"
+generated_at: "2026-03-29T20:34:53.020Z"
 ---
 
 # § 1353. Payments to States

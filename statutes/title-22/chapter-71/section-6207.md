@@ -3,15 +3,15 @@ title: "Section 6207 - Limits on grants for Radio Free Europe and Radio Liberty"
 usc_title: 22
 usc_section: "6207"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 6207"
-generated_at: "2026-03-29T20:04:46.932Z"
+generated_at: "2026-03-29T20:33:00.112Z"
 ---
 
 # § 6207. Limits on grants for Radio Free Europe and Radio Liberty
 
 - **(a)** The Agency may not make any grant to RFE/RL, Incorporated, unless the certificate of incorporation of RFE/RL, Incorporated, has been amended to provide that—
-  - **(1)** the Board of Directors of RFE/RL, Incorporated, shall consist of the members authorized under section 6204(a)(20) 1 1 See References in Text note below. of this title; and
+  - **(1)** the Board of Directors of RFE/RL, Incorporated, shall consist of the members authorized under section 6204(a)(20) of this title ; and
   - **(2)** such Board of Directors shall make all major policy determinations governing the operation of RFE/RL, Incorporated, and shall appoint and fix the compensation of such managerial officers and employees of RFE/RL, Incorporated, as it considers necessary to carry out the purposes of the grant provided under this chapter.
 - **(b)**
   - **(1)** The Agency may not make any grant to RFE/RL, Incorporated unless the headquarters of RFE/RL, Incorporated and its senior administrative and managerial staff are in a location which ensures economy, operational effectiveness, and accountability to the Agency.
@@ -24,13 +24,19 @@ generated_at: "2026-03-29T20:04:46.932Z"
   - **(1)** that a grant be used only for activities which the Agency determines are consistent with the purposes of subsection (f);
   - **(2)** that RFE/RL, Incorporated, shall otherwise comply with the requirements of this section;
   - **(3)** that failure to comply with the requirements of this section may result in suspension or termination of a grant without further obligation by the Agency or the United States;
-  - **(4)** that duplication of language services and technical operations between RFE/RL, Incorporated and the 2 2 So in original. The word “the” probably should not appear. any other grantee of the Agency be reduced to the extent appropriate, as determined by the Chief Executive Officer; and
+  - **(4)** that duplication of language services and technical operations between RFE/RL, Incorporated and the 1 1 So in original. The word “the” probably should not appear. any other grantee of the Agency be reduced to the extent appropriate, as determined by the Chief Executive Officer; and
   - **(5)** that RFE/RL, Incorporated, justify in detail each proposed expenditure of grant funds, and that such funds may not be used for any other purpose unless the Agency gives its prior written approval.
 - **(h)** No grant funds provided under this section may be used for the following purposes:
-  - **(1)** For any activity for the purpose of influencing the passage or defeat of legislation being considered by Congress.
-  - **(2)** For first class travel for any employee of RFE/RL, Incorporated, or the relative of any employee.
+  - **(1)**
+    - **(A)** Except as provided in subparagraph (B) or (C), to pay any salary or other compensation, or enter into any contract providing for the payment of salary or compensation in excess of the rates established for comparable positions under title 5 or the foreign relations laws of the United States, except that no employee may be paid a salary or other compensation in excess of the rate of pay payable for level IV of the Executive Schedule under section 5315 of title 5 .
+    - **(B)** Salary and other compensation limitations under subparagraph (A) shall not apply prior to October 1, 1995 , with respect to any employee covered by a union agreement requiring a salary or other compensation in excess of such limitations.
+    - **(C)** Notwithstanding the limitations under subparagraph (A), grant funds provided under this section may be used by RFE/RL, Incorporated, to pay up to three employees employed in Washington, D.C., salary or other compensation not to exceed the rate of pay payable for level III of the Executive Schedule under section 5314 of title 5 .
+  - **(2)** For any activity for the purpose of influencing the passage or defeat of legislation being considered by Congress.
+  - **(3)** To enter into a contract or obligation to pay severance payments for voluntary separation for employees hired after December 1, 1990 , except as may be required by United States law or the laws of the country where the employee is stationed.
+  - **(4)** For first class travel for any employee of RFE/RL, Incorporated, or the relative of any employee.
+  - **(5)** To compensate freelance contractors without the approval of the Agency.
 - **(i)** Effective not later than March 31 and September 30 of each calendar year, the Inspector General of the Department of State and the Foreign Service shall submit to the Agency and the Congress a report on management practices of RFE/RL, Incorporated, under this section. The Inspector General of the Department of State and the Foreign Service shall establish a special unit within the Inspector General’s office to monitor and audit the activities of RFE/RL, Incorporated, and shall provide for on-site monitoring of such activities.
 - **(j)**
   - **(1)** Such financial transactions of RFE/RL, Incorporated, as relate to functions carried out under this section may be audited by the Government Accountability Office in accordance with such principles and procedures and under such rules and regulations as may be prescribed by the Comptroller General of the United States. Any such audit shall be conducted at the place or places where accounts of RFE/RL, Incorporated, are normally kept.
   - **(2)** Representatives of the Government Accountability Office shall have access to all books, accounts, records, reports, files, papers, and property belonging to or in use by RFE/RL, Incorporated pertaining to such financial transactions and necessary to facilitate an audit. Such representatives shall be afforded full facilities for verifying transactions with any assets held by depositories, fiscal agents, and custodians. All such books, accounts, records, reports, files, papers, and property of RFE/RL, Incorporated, shall remain in the possession and custody of RFE/RL, Incorporated.
-  - **(3)** Notwithstanding any other provision of law and upon repeal of the Board for International Broadcasting Act [ 22 U.S.C. 2871 et seq.], the Inspector General of the Department of State and the Foreign Service is authorized to exercise the authorities of chapter 4 of title 5 with respect to RFE/RL, Incorporated.
+  - **(3)** Notwithstanding any other provision of law and upon repeal of the Board for International Broadcasting Act [ 22 U.S.C. 2871 et seq.], the Inspector General of the Department of State and the Foreign Service is authorized to exercise the authorities of the Inspector General Act of 1978 with respect to RFE/RL, Incorporated.

@@ -3,14 +3,14 @@ title: "Section 733 - Training regarding whistleblower disclosures"
 usc_title: 38
 usc_section: "733"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "38 U.S.C. § 733"
-generated_at: "2026-03-29T20:05:54.629Z"
+generated_at: "2026-03-29T20:34:04.871Z"
 ---
 
 # § 733. Training regarding whistleblower disclosures
 
-- **(a)** Not less frequently than once every two years, the Secretary, in coordination with the Whistleblower Protection Ombudsman designated under section 3(d)(1)(C) of the Inspector General Act of 1978 (5 U.S.C. App.), 1 1 See References in Text note below. shall provide to each employee of the Department training regarding whistleblower disclosures, including—
+- **(a)** Not less frequently than once every two years, the Secretary, in coordination with the Whistleblower Protection Ombudsman designated under section 3(d)(1)(C) of the Inspector General Act of 1978 (5 U.S.C. App.), shall provide to each employee of the Department training regarding whistleblower disclosures, including—
   - **(1)** an explanation of each method established by law in which an employee may file a whistleblower disclosure;
   - **(2)** the right of the employee to petition Congress regarding a whistleblower disclosure in accordance with section 7211 of title 5 ;
   - **(3)** an explanation that the employee may not be prosecuted or reprised against for disclosing information to Congress, the Inspector General, or another investigatory agency in instances where such disclosure is permitted by law, including under sections 5701, 5705, and 7732 of this title, under section 552a of title 5 (commonly referred to as the Privacy Act), under chapter 93 of title 18, and pursuant to regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 ( Public Law 104–191 );

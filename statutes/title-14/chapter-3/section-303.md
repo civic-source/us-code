@@ -1,14 +1,18 @@
 ---
-title: "Section 303 - Vice Commandant; appointment"
+title: "Section 303 - Retirement of Commandant or Vice Commandant"
 usc_title: 14
 usc_section: "303"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "14 U.S.C. § 303"
-generated_at: "2026-03-29T20:03:17.274Z"
+generated_at: "2026-03-29T20:32:03.579Z"
 ---
 
-# § 303. Vice Commandant; appointment
+# § 303. Retirement of Commandant or Vice Commandant
 
-The President may appoint, by and with the advice and consent of the Senate, one Vice Commandant who shall rank next after the Commandant, shall perform such duties as the Commandant may prescribe and shall act as Commandant during the absence or disability of the Commandant or in the event that there is a vacancy in the office of Commandant. The Vice Commandant shall be selected from the officers on the active duty promotion list serving above the grade of captain. The Commandant shall make recommendation for such appointment. The Vice Commandant shall, while so serving, have the grade of admiral with pay and allowances of that grade. The appointment and grade of a Vice Commandant shall be effective on the date the officer assumes that duty, and shall terminate on the date the officer is detached from that duty, except as provided in section 306(d) of this title .
-
+- **(a)**
+  - **(1)** A Commandant who is not reappointed shall be retired with the grade of admiral at the expiration of the appointed term, except as provided in section 306(d) of this title .
+  - **(2)** A Vice Commandant who is not reappointed or appointed Commandant shall be retired with the grade of admiral at the expiration of the appointed term, except as provided in section 306(d).
+- **(b)** A Commandant or Vice Commandant who is retired for physical disability shall be placed on the retired list with the grade of admiral.
+- **(c)** An officer who is retired prior to the expiration of the officer’s term, while serving as Commandant or Vice Commandant, may, in the discretion of the President, be retired with the grade of admiral.
+- **(d)** Retirement under this section is subject to section 2501(a) of this title .

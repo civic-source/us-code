@@ -3,9 +3,9 @@ title: "Section 70112 - Maritime Security Advisory Committees"
 usc_title: 46
 usc_section: "70112"
 chapter: 701
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "46 U.S.C. § 70112"
-generated_at: "2026-03-29T20:08:05.398Z"
+generated_at: "2026-03-29T20:35:02.454Z"
 ---
 
 # § 70112. Maritime Security Advisory Committees
@@ -55,11 +55,11 @@ generated_at: "2026-03-29T20:08:05.398Z"
     - **(B)** The Vice Chairperson shall act as Chairperson in the absence or incapacity of the Chairperson, or in the event of a vacancy in the office of the Chairperson.
   - **(4)**
     - **(A)** The Secretary shall, and the head of any other interested Federal agency may, designate a representative to participate as an observer with a committee established under this subsection.
-    - **(B)** The Secretary’s designated representative to a committee established under this subsection shall act as the executive secretary of the committee and shall perform the duties set forth in section 1009(c) of title 5 .
+    - **(B)** The Secretary’s designated representative to a committee established under this subsection shall act as the executive secretary of the committee and shall perform the duties set forth in section 10(c) of the Federal Advisory Committee Act (5 U.S.C. App.).
   - **(5)** The Secretary shall consider the information, advice, and recommendations of each committee established under this subsection in formulating policy regarding matters affecting maritime security.
   - **(6)**
     - **(A)** A member of a committee established under this subsection, when attending meetings of the committee or when otherwise engaged in the business of the committee, is entitled to receive—
       - **(i)** compensation at a rate fixed by the Secretary, not exceeding the daily equivalent of the current rate of basic pay in effect for GS–15 of the General Schedule under section 5332 of title 5 including travel time; and
       - **(ii)** travel or transportation expenses under section 5703 of title 5 .
     - **(B)** A member of a committee established under this subsection shall not be considered to be an officer or employee of the United States for any purpose based on the receipt of any payment under this paragraph.
-  - **(7)** Chapter 10 of title 5 does not apply to a committee established under this subsection.
+  - **(7)** The Federal Advisory Committee Act (5 U.S.C. App.) does not apply to a committee established under this subsection.

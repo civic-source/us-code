@@ -3,9 +3,9 @@ title: "Section 669c - Allocation and apportionment of available amounts"
 usc_title: 16
 usc_section: "669c"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 669c"
-generated_at: "2026-03-29T20:04:20.181Z"
+generated_at: "2026-03-29T20:32:45.249Z"
 ---
 
 # § 669c. Allocation and apportionment of available amounts
@@ -14,17 +14,14 @@ generated_at: "2026-03-29T20:04:20.181Z"
   - **(1)**
     - **(A)** For fiscal year 2001 and each fiscal year thereafter, of the revenues (excluding interest accruing under section 669b(b) of this title ) covered into the fund for the fiscal year, the Secretary of the Interior may use not more than the available amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in implementation of this chapter, in accordance with this subsection and section 669h of this title .
     - **(B)** The available amount referred to in subparagraph (A) is—
-      - **(i)** for the fiscal year that includes November 15, 2021 , the product obtained by multiplying—
-        - **(I)** $12,786,434; and
-        - **(II)** the change, relative to the preceding fiscal year, in the Consumer Price Index for All Urban Consumers published by the Department of Labor; and
-      - **(ii)** for each fiscal year thereafter, the sum obtained by adding—
-        - **(I)** the available amount specified in this subparagraph for the preceding fiscal year; and
-        - **(II)** the product obtained by multiplying—
+      - **(i)** for each of fiscal years 2001 and 2002, $9,000,000;
+      - **(ii)** for fiscal year 2003, $8,212,000; and
+      - **(iii)** for fiscal year 2004 and each fiscal year thereafter, the sum of—
+        - **(I)** the available amount for the preceding fiscal year; and
+        - **(II)** the amount determined by multiplying—
   - **(2)**
-    - **(A)** For each fiscal year, the available amount under paragraph (1) shall remain available for obligation for use under that paragraph until the end of the subsequent fiscal year.
-    - **(B)**
-      - **(i)** Not later than 60 days after the end of a fiscal year, the Secretary of the Interior shall apportion among the States any of the available amount under paragraph (1) that remained available for obligation pursuant to subparagraph (A) during that fiscal year and remains unobligated at the end of that fiscal year.
-      - **(ii)** The available amount apportioned under clause (i) shall be apportioned on the same basis and in the same manner as other amounts made available under this chapter were apportioned among the States for the fiscal year in which the amount was originally made available.
+    - **(A)** For each fiscal year, the available amount under paragraph (1) shall remain available for obligation for use under that paragraph until the end of the fiscal year.
+    - **(B)** Not later than 60 days after the end of a fiscal year, the Secretary of the Interior shall apportion among the States any of the available amount under paragraph (1) that remains unobligated at the end of the fiscal year, on the same basis and in the same manner as other amounts made available under this chapter are apportioned among the States for the fiscal year.
 - **(b)** The Secretary of the Interior, after deducting the available amount under subsection (a), the amount apportioned under subsection (c), any amount apportioned under section 669g–1 of this title , and amounts provided as grants under sections 669h–1 and 669h–2 of this title, shall apportion the remainder of the revenue in said fund for each fiscal year among the several States in the following manner: One-half in the ratio which the area of each State bears to the total area of all the States, and one-half in the ratio which the number of paid hunting-license holders of each State in the second fiscal year preceding the fiscal year for which such apportionment is made, as certified to said Secretary by the State fish and game departments, bears to the total number of paid hunting-license holders of all the States. Such apportionments shall be adjusted equitably so that no State shall receive less than one-half of 1 per centum nor more than 5 per centum of the total amount apportioned. The term fiscal year as used in this chapter shall be a period of twelve consecutive months from October 1 through the succeeding September 30, except that the period for enumeration of paid hunting-license holders shall be a State’s fiscal or license year.
 - **(c)**
   - **(1)** Subject to paragraph (2), ½ of the revenues accruing to the fund under this chapter each fiscal year (beginning with the fiscal year 1975) from any tax imposed on pistols, revolvers, bows, and arrows shall be apportioned among the States in proportion to the ratio that the population of each State bears to the population of all the States.

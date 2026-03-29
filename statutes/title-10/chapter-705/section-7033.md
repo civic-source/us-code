@@ -3,9 +3,9 @@ title: "Section 7033 - Chief of Staff"
 usc_title: 10
 usc_section: "7033"
 chapter: 705
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 7033"
-generated_at: "2026-03-29T20:03:09.834Z"
+generated_at: "2026-03-29T20:31:54.709Z"
 ---
 
 # § 7033. Chief of Staff
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T20:03:09.834Z"
   - **(2)** transmit the plans and recommendations of the Army Staff to the Secretary and advise the Secretary with regard to such plans and recommendations;
   - **(3)** after approval of the plans or recommendations of the Army Staff by the Secretary, act as the agent of the Secretary in carrying them into effect;
   - **(4)** exercise supervision, consistent with the authority assigned to commanders of unified or specified combatant commands under chapter 6 of this title, over such of the members and organizations of the Army as the Secretary determines;
-  - **(5)** perform the duties prescribed for him by sections 171 and 3104 of this title and other provisions of law; and
+  - **(5)** perform the duties prescribed for him by sections 171 and 2547 of this title and other provisions of law; and
   - **(6)** perform such other military duties, not otherwise assigned by law, as are assigned to him by the President, the Secretary of Defense, or the Secretary of the Army.
 - **(e)**
   - **(1)** The Chief of Staff shall also perform the duties prescribed for him as a member of the Joint Chiefs of Staff under section 151 of this title .

@@ -3,9 +3,9 @@ title: "Section 6105 - Administration and applicability of chapter"
 usc_title: 15
 usc_section: "6105"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 6105"
-generated_at: "2026-03-29T20:03:27.623Z"
+generated_at: "2026-03-29T20:32:10.044Z"
 ---
 
 # § 6105. Administration and applicability of chapter

@@ -3,28 +3,15 @@ title: "Section 102 - Primary duties"
 usc_title: 14
 usc_section: "102"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "14 U.S.C. § 102"
-generated_at: "2026-03-29T20:03:17.273Z"
+generated_at: "2026-03-29T20:32:03.579Z"
 ---
 
 # § 102. Primary duties
 
-- **(a)** In this section:
-  - **(1)** The term “non-homeland security missions” means the following missions of the Coast Guard:
-    - **(A)** Marine safety.
-    - **(B)** Search and rescue.
-    - **(C)** Aids to navigation.
-    - **(D)** Living marine resources (fisheries law enforcement).
-    - **(E)** Marine environmental protection.
-    - **(F)** Ice operations.
-  - **(2)** The term “homeland security missions” means the following missions of the Coast Guard:
-    - **(A)** Ports, waterways and coastal security.
-    - **(B)** Drug interdiction.
-    - **(C)** Migrant interdiction.
-    - **(D)** Defense readiness.
-    - **(E)** Other law enforcement.
-- **(b)** The Coast Guard shall—
+The Coast Guard shall—
+
   - **(1)** enforce or assist in the enforcement of all applicable Federal laws on, under, and over the high seas and waters subject to the jurisdiction of the United States;
   - **(2)** engage in maritime air surveillance or interdiction to enforce or assist in the enforcement of the laws of the United States;
   - **(3)** administer laws and promulgate and enforce regulations for the promotion of safety of life and property on and under the high seas and waters subject to the jurisdiction of the United States, covering all matters not specifically delegated by law to some other executive department;

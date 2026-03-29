@@ -3,9 +3,9 @@ title: "Section 1267 - Chesapeake Bay"
 usc_title: 33
 usc_section: "1267"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "33 U.S.C. § 1267"
-generated_at: "2026-03-29T20:05:35.718Z"
+generated_at: "2026-03-29T20:33:34.220Z"
 ---
 
 # § 1267. Chesapeake Bay
@@ -92,6 +92,5 @@ generated_at: "2026-03-29T20:05:35.718Z"
   - **(1)** for fiscal year 2021, $90,000,000;
   - **(2)** for fiscal year 2022, $90,500,000;
   - **(3)** for fiscal year 2023, $91,000,000;
-  - **(4)** for fiscal year 2024, $91,500,000;
-  - **(5)** for fiscal year 2025, $92,000,000; and
-  - **(6)** for each of fiscal years 2026 through 2030, $92,000,000.
+  - **(4)** for fiscal year 2024, $91,500,000; and
+  - **(5)** for fiscal year 2025, $92,000,000.

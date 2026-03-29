@@ -3,9 +3,9 @@ title: "Section 5843 - Advisory council"
 usc_title: 7
 usc_section: "5843"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 5843"
-generated_at: "2026-03-29T20:02:52.729Z"
+generated_at: "2026-03-29T20:31:42.173Z"
 ---
 
 # § 5843. Advisory council
@@ -55,4 +55,4 @@ generated_at: "2026-03-29T20:02:52.729Z"
   - **(2)** comments on the progress of the program in meeting its objectives; and
   - **(3)** recommendations respecting the future directions, program, and policy emphasis of the program.
 - **(k)** The advisory council may prepare such reports as the advisory council determines to be appropriate.
-- **(l)** Section 1013(a) of title 5 relating to the termination of an advisory committee shall not apply to the advisory council established under this section.
+- **(l)** Section 14(a) of the Federal Advisory Committee Act (5 U.S.C. App.) relating to the termination of an advisory committee shall not apply to the advisory council established under this section.

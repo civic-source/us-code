@@ -3,9 +3,9 @@ title: "Section 9621 - National Assessment Governing Board"
 usc_title: 20
 usc_section: "9621"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "20 U.S.C. § 9621"
-generated_at: "2026-03-29T20:04:33.143Z"
+generated_at: "2026-03-29T20:32:29.055Z"
 ---
 
 # § 9621. National Assessment Governing Board
@@ -65,4 +65,4 @@ generated_at: "2026-03-29T20:04:33.143Z"
 - **(g)** The Commissioner for Education Statistics and the Assessment Board shall meet periodically—
   - **(1)** to ensure coordination of their duties and activities relating to the National Assessment; and
   - **(2)** for the Commissioner for Education Statistics to report to the Assessment Board on the Department’s actions to implement the decisions of the Assessment Board.
-- **(h)** Chapter 10 of title 5 shall not apply with respect to the Assessment Board, other than sections 1009, 1010, and 1011 of title 5.
+- **(h)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Assessment Board, other than sections 10, 11, and 12 of such Act.

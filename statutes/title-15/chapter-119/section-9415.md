@@ -3,9 +3,9 @@ title: "Section 9415 - National AI Research Resource Task Force"
 usc_title: 15
 usc_section: "9415"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 9415"
-generated_at: "2026-03-29T20:03:27.738Z"
+generated_at: "2026-03-29T20:32:10.139Z"
 ---
 
 # § 9415. National AI Research Resource Task Force
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T20:03:27.738Z"
     - **(B)** Not later than 120 days after enactment of this Act, the co-chairpersons of the Task Force shall appoint members to the Task Force pursuant to subparagraph (A).
     - **(C)** Members of the Task Force shall be appointed for the life of the Task Force.
     - **(D)** Any vacancy occurring in the membership of the Task Force shall be filled in the same manner in which the original appointment was made.
-    - **(E)** The Director of the Office of Science and Technology Policy and the Director of the National Sciences Foundation, 1 1 So in original. Probably should be “National Science Foundation,”. or their designees, shall be the co-chairpersons of the Task Force. If the role of the Director of the National Science Foundation is vacant, the Chair of the National Science Board shall act as a co-chairperson of the Task Force.
+    - **(E)** The Director of the Office of Science and Technology Policy and the Director of the National Sciences 1 1 So in original. Probably should be “National Science Foundation”. Foundation, or their designees, shall be the co-chairpersons of the Task Force. If the role of the Director of the National Science Foundation is vacant, the Chair of the National Science Board shall act as a co-chairperson of the Task Force.
     - **(F)**
       - **(i)** Except as provided in clause (ii), non-Federal Members of the Task Force shall not receive compensation for their participation on the Task Force.
       - **(ii)** Non-Federal Members of the Task Force shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the Task Force.
@@ -35,7 +35,7 @@ generated_at: "2026-03-29T20:03:27.738Z"
     - **(B)** A plan for ownership and administration of the National Artificial Intelligence Research Resource, including—
       - **(i)** an appropriate agency or organization responsible for the implementation, deployment, and administration of the Resource; and
       - **(ii)** a governance structure for the Resource, including oversight and decision-making authorities.
-    - **(C)** A model for governance and oversight to establish strategic direction, make programmatic decisions, and manage the allocation of resources; 2 2 So in original. The semicolon probably should be a period.
+    - **(C)** A model for governance and oversight to establish strategic direction, make programmatic decisions, and manage the allocation of resources;
     - **(D)** Capabilities required to create and maintain a shared computing infrastructure to facilitate access to computing resources for researchers across the country, including scalability, secured access control, resident data engineering and curation expertise, provision of curated data sets, compute resources, educational tools and services, and a user interface portal.
     - **(E)** An assessment of, and recommended solutions to, barriers to the dissemination and use of high-quality government data sets as part of the National Artificial Intelligence Research Resource.
     - **(F)** An assessment of security requirements associated with the National Artificial Intelligence Research Resource and its research and a recommendation for a framework for the management of access controls.

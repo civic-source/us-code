@@ -1,12 +1,14 @@
 ---
-title: "Section 2312 - Renumbered § 4752]"
+title: "Section 2312 - Remission of liquidated damages"
 usc_title: 10
 usc_section: "2312"
 chapter: 137
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2312"
-generated_at: "2026-03-29T20:03:09.669Z"
+generated_at: "2026-03-29T20:31:54.580Z"
 ---
 
-# [§ 2312. Renumbered § 4752]
+# § 2312. Remission of liquidated damages
+
+Upon the recommendation of the head of an agency, the Secretary of the Treasury may remit all or part, as he considers just and equitable, of any liquidated damages assessed for delay in performing a contract, made by that agency, that provides for such damages.
 

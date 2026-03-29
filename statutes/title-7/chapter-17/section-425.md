@@ -3,9 +3,9 @@ title: "Section 425 - Transferred"
 usc_title: 7
 usc_section: "425"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 425"
-generated_at: "2026-03-29T20:02:52.438Z"
+generated_at: "2026-03-29T20:31:41.913Z"
 ---
 
 # § 425. Transferred

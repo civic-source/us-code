@@ -3,9 +3,9 @@ title: "Section 1776 - State administrative expenses"
 usc_title: 42
 usc_section: "1776"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 1776"
-generated_at: "2026-03-29T20:07:44.070Z"
+generated_at: "2026-03-29T20:34:53.423Z"
 ---
 
 # § 1776. State administrative expenses
@@ -75,12 +75,11 @@ generated_at: "2026-03-29T20:07:44.070Z"
         - **(II)** the identification of reimbursable meals at the point of service.
       - **(ii)** In accordance with criteria established by the Secretary, local food service personnel shall complete annual training and receive annual certification—
         - **(I)** to ensure program compliance and integrity; and
-        - **(II)** to demonstrate competence in the training provided under clauses (i) and (iii).
+        - **(II)** to demonstrate competence in the training provided under clause (i).
       - **(iii)** In addition to the topics described in clause (i), a training program carried out under this subparagraph shall include training modules on—
         - **(I)** nutrition;
-        - **(II)** food allergies, including information on the best practices to prevent, recognize, and respond to food-related allergic reactions;
-        - **(III)** health and food safety standards and methodologies; and
-        - **(IV)** any other appropriate topics, as determined by the Secretary.
+        - **(II)** health and food safety standards and methodologies; and
+        - **(III)** any other appropriate topics, as determined by the Secretary.
   - **(3)**
     - **(A)** Out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary to carry out this subsection, to remain available until expended—
       - **(i)** on October 1, 2010 , $5,000,000; and

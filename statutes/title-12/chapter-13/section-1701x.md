@@ -3,9 +3,9 @@ title: "Section 1701x - Assistance with respect to housing for low- and moderate
 usc_title: 12
 usc_section: "1701x"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "12 U.S.C. § 1701x"
-generated_at: "2026-03-29T20:03:45.649Z"
+generated_at: "2026-03-29T20:32:14.911Z"
 ---
 
 # § 1701x. Assistance with respect to housing for low- and moderate-income families
@@ -197,7 +197,7 @@ generated_at: "2026-03-29T20:03:45.649Z"
         - **(I)** section 9(e) ( 42 U.S.C. 1437g(e) );
         - **(II)** section 8(y)(1)(D) ( 42 U.S.C. 1437f(y)(1)(D) );
         - **(III)** section 18(a)(4)(D) ( 42 U.S.C. 1437p(a)(4)(D) );
-        - **(IV)** section 23(c)(4) 1 1 See References in Text note below. ( 42 U.S.C. 1437u(c)(4) );
+        - **(IV)** section 23(c)(4) ( 42 U.S.C. 1437u(c)(4) );
         - **(V)** section 32(e)(4) ( 42 U.S.C. 1437z–4(e)(4) );
         - **(VI)** section 33(d)(2)(B) ( 42 U.S.C. 1437z–5(d)(2)(B) );
         - **(VII)** sections 302(b)(6) and 303(b)(7) ( 42 U.S.C. 1437aaa–1(b)(6) , 1437aaa–2(b)(7)); and
@@ -207,7 +207,7 @@ generated_at: "2026-03-29T20:03:45.649Z"
       - **(v)** this section and section 1701w of this title ;
       - **(vi)** section 4110(d)(2)(G) of this title ;
       - **(vii)** sections 12872(b)(6), 12873(b)(7), 12874(c)(4), 12892(b)(6), and 12893(b)(6) of title 42;
-      - **(viii)** section 11408(b)(1)(F)(iii) 1 of title 42;
+      - **(viii)** section 11408(b)(1)(F)(iii) 1 1 See References in Text note below. of title 42;
       - **(ix)** sections 202(3) 1 and 810(b)(2)(A) 1 of the Native American Housing and Self-Determination Act of 1996 ( 25 U.S.C. 4132(3) , 4229(b)(2)(A));
       - **(x)** in the National Housing Act [ 12 U.S.C. 1701 et seq.]—
         - **(I)** in section 203 ( 12 U.S.C. 1709 ), the penultimate undesignated paragraph of paragraph (2) of subsection (b), subsection (c)(2)(A), and subsection (r)(4);
@@ -221,7 +221,7 @@ generated_at: "2026-03-29T20:03:45.649Z"
       - **(ii)** in the United States Housing Act of 1937—
         - **(I)** section 9(e) ( 42 U.S.C. 1437g(e) );
         - **(II)** section 18(a)(4)(D) ( 42 U.S.C. 1437p(a)(4)(D) );
-        - **(III)** section 23(c)(4) 1 ( 42 U.S.C. 1437u(c)(4) );
+        - **(III)** section 23(c)(4) ( 42 U.S.C. 1437u(c)(4) );
         - **(IV)** section 32(e)(4) ( 42 U.S.C. 1437z–4(e)(4) );
         - **(V)** section 33(d)(2)(B) ( 42 U.S.C. 1437z–5(d)(2)(B) ); and
         - **(VI)** section 302(b)(6) ( 42 U.S.C. 1437aaa–1(b)(6) );

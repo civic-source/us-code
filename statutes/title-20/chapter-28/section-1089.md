@@ -3,9 +3,9 @@ title: "Section 1089 - Master calendar"
 usc_title: 20
 usc_section: "1089"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "20 U.S.C. § 1089"
-generated_at: "2026-03-29T20:04:32.882Z"
+generated_at: "2026-03-29T20:32:28.825Z"
 ---
 
 # § 1089. Master calendar
@@ -13,8 +13,8 @@ generated_at: "2026-03-29T20:04:32.882Z"
 - **(a)** To assure adequate notification and timely delivery of student aid funds under this subchapter, the Secretary shall adhere to the following calendar dates in the year preceding the award year:
   - **(1)** Development and distribution of Federal and multiple data entry forms—
     - **(A)** by February 1: first meeting of the technical committee on forms design of the Department;
-    - **(B)** by March 1: proposed modifications, updates, and notices pursuant to sections 1087rr and 1090(a)(5) 1 1 See References in Text note below. of this title published in the Federal Register;
-    - **(C)** by June 1: final modifications, updates, and notices pursuant to sections 1087rr and 1090(a)(5) 1 of this title published in the Federal Register;
+    - **(B)** by March 1: proposed modifications, updates, and notices pursuant to sections 1087rr and 1090(a)(5) of this title published in the Federal Register;
+    - **(C)** by June 1: final modifications, updates, and notices pursuant to sections 1087rr and 1090(a)(5) of this title published in the Federal Register;
     - **(D)** by August 15: application for Federal student assistance and multiple data entry data elements and instructions approved;
     - **(E)** by August 30: final approved forms delivered to servicers and printers;
     - **(F)** by October 1: Federal and multiple data entry forms and instructions printed; and

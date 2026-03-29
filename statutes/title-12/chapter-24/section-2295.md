@@ -3,9 +3,9 @@ title: "Section 2295 - Authority or responsibility under other provisions of law
 usc_title: 12
 usc_section: "2295"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "12 U.S.C. § 2295"
-generated_at: "2026-03-29T20:03:45.850Z"
+generated_at: "2026-03-29T20:32:15.109Z"
 ---
 
 # § 2295. Authority or responsibility under other provisions of law not to be affected or impaired

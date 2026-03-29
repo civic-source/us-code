@@ -3,9 +3,9 @@ title: "Section 2601a - Direct acceptance of gifts by members of the armed force
 usc_title: 10
 usc_section: "2601a"
 chapter: 155
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2601a"
-generated_at: "2026-03-29T20:03:09.694Z"
+generated_at: "2026-03-29T20:31:54.629Z"
 ---
 
 # § 2601a. Direct acceptance of gifts by members of the armed forces and Department of Defense and Coast Guard employees and their families
@@ -21,9 +21,8 @@ generated_at: "2026-03-29T20:03:09.694Z"
     - **(B)** require review and approval by a designated agency ethics official before acceptance of a gift to ensure that acceptance of the gift complies with the Joint Ethics Regulation.
 - **(b)** This section applies to a member of the armed forces who, while performing active duty, full-time National Guard duty, or inactive-duty training on or after September 11, 2001 , incurred an injury or illness—
   - **(1)** as described in section 1413a(e)(2) of this title ;
-  - **(2)** in an operation or area designated as a combat operation or a combat zone, respectively, by the Secretary of Defense in accordance with the regulations prescribed under subsection (a);
-  - **(3)** that results in enrollment in a Warriors in Transition program, as defined in section 738(e) of the National Defense Authorization Act for Fiscal Year 2013 ( Public Law 112–239 ; 10 U.S.C. 1071 note); or
-  - **(4)** under other circumstances determined by the Secretary concerned to warrant treatment analogous to members covered by paragraph (1).
-- **(c)** This section applies to a civilian employee of the Department of Defense or Coast Guard who, while an employee on or after September 11, 2001 , incurred an injury or illness under a circumstance described in subsection (b).
+  - **(2)** in an operation or area designated as a combat operation or a combat zone, respectively, by the Secretary of Defense in accordance with the regulations prescribed under subsection (a); or
+  - **(3)** under other circumstances determined by the Secretary concerned to warrant treatment analogous to members covered by paragraph (1).
+- **(c)** This section applies to a civilian employee of the Department of Defense or Coast Guard who, while an employee on or after September 11, 2001 , incurred an injury or illness under a circumstance described in paragraph (1), (2) or (3) of subsection (b).
 - **(d)** The regulations prescribed under subsection (a) may not authorize the acceptance of a gift from a foreign government or international organization or their agents.
 - **(e)** To the extent provided in the regulations issued under subsection (a) to implement subsection (b)(2), the regulations shall apply to the acceptance of gifts received after December 31, 2011 , for injuries or illnesses incurred on or after September 11, 2001 .

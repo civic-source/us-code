@@ -3,9 +3,9 @@ title: "Section 9 - Ownership limitations"
 usc_title: 42
 usc_section: "9"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-03-29T20:07:44.180Z"
+generated_at: "2026-03-29T20:34:53.522Z"
 ---
 
 # § 2297h–9. Ownership limitations

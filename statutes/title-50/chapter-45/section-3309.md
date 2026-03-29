@@ -3,9 +3,9 @@ title: "Section 3309 - Notification of establishment of advisory committee"
 usc_title: 50
 usc_section: "3309"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "50 U.S.C. § 3309"
-generated_at: "2026-03-29T20:08:11.219Z"
+generated_at: "2026-03-29T20:35:05.234Z"
 ---
 
 # § 3309. Notification of establishment of advisory committee
@@ -14,4 +14,4 @@ The Director of National Intelligence and the Director of the Central Intelligen
 
   - **(1)** a description of such advisory committee, including the subject matter of such committee;
   - **(2)** a list of members of such advisory committee; and
-  - **(3)** in the case of an advisory committee created by the Director of National Intelligence, the reasons for a determination by the Director under section 1003(b)(3) of title 5 that an advisory committee cannot comply with the requirements of chapter 10 of title 5.
+  - **(3)** in the case of an advisory committee created by the Director of National Intelligence, the reasons for a determination by the Director under section 4(b)(3) of the Federal Advisory Committee Act (5 U.S.C. App.) that an advisory committee cannot comply with the requirements of such Act.

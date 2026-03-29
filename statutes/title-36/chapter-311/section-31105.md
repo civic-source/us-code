@@ -3,9 +3,9 @@ title: "Section 31105 - Powers"
 usc_title: 36
 usc_section: "31105"
 chapter: 311
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "36 U.S.C. § 31105"
-generated_at: "2026-03-29T20:05:40.568Z"
+generated_at: "2026-03-29T20:33:50.623Z"
 ---
 
 # § 31105. Powers

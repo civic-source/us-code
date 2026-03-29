@@ -3,9 +3,9 @@ title: "Section 4713 - Authorities relating to mitigating supply chain risks in 
 usc_title: 41
 usc_section: "4713"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "41 U.S.C. § 4713"
-generated_at: "2026-03-29T20:05:58.289Z"
+generated_at: "2026-03-29T20:34:07.749Z"
 ---
 
 # § 4713. Authorities relating to mitigating supply chain risks in the procurement of covered articles
@@ -43,7 +43,7 @@ generated_at: "2026-03-29T20:05:58.289Z"
 - **(g)** The Federal Acquisition Regulatory Council shall prescribe such regulations as may be necessary to carry out this section.
 - **(h)** Not less frequently than annually, the head of each executive agency that exercised the authority provided in subsection (a) or (c) during the preceding 12-month period shall submit to the appropriate congressional committees and leadership a report summarizing the actions taken by the agency under this section during that 12-month period.
 - **(i)** Nothing in this section shall be construed to authorize the head of an executive agency to carry out a covered procurement action based solely on the fact of foreign ownership of a potential procurement source that is otherwise qualified to enter into procurement contracts with the Federal Government.
-- **(j)** The authority provided under subsection (a) shall terminate on December 31, 2033 .
+- **(j)** The authority provided under subsection (a) shall terminate on the date that is 5 years after the date of the enactment of the Federal Acquisition Supply Chain Security Act of 2018.
 - **(k)** In this section:
   - **(1)** The term “appropriate congressional committees and leadership” means—
     - **(A)** the Committee on Homeland Security and Governmental Affairs, the Committee on the Judiciary, the Committee on Appropriations, the Committee on Armed Services, the Committee on Commerce, Science, and Transportation, the Select Committee on Intelligence, and the majority and minority leader of the Senate; and

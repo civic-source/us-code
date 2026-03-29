@@ -3,9 +3,9 @@ title: "Section 410qqq - Coltsville National Historical Park"
 usc_title: 16
 usc_section: "410qqq"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 410qqq"
-generated_at: "2026-03-29T20:04:19.995Z"
+generated_at: "2026-03-29T20:32:45.061Z"
 ---
 
 # § 410qqq. Coltsville National Historical Park
@@ -105,7 +105,7 @@ generated_at: "2026-03-29T20:04:19.995Z"
     - **(B)**
       - **(i)** The Secretary shall provide the Commission with any staff members and technical assistance that the Secretary, after consultation with the Commission, determines to be appropriate to enable the Commission to carry out the duty of the Commission.
       - **(ii)** The Secretary may accept the services of personnel detailed from the State or any political subdivision of the State.
-  - **(9)** Section 1013(b) of title 5 shall not apply to the Commission.
+  - **(9)** Section 14(b) of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
   - **(10)**
     - **(A)** Unless extended under subparagraph (B), the Commission shall terminate on the date that is 10 years after December 19, 2014 .
     - **(B)**

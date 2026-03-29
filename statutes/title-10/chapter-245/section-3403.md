@@ -3,9 +3,9 @@ title: "Section 3403 - Task and delivery order contracts: general authority"
 usc_title: 10
 usc_section: "3403"
 chapter: 245
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 3403"
-generated_at: "2026-03-29T20:03:09.756Z"
+generated_at: "2026-03-29T20:31:54.672Z"
 ---
 
 # § 3403. Task and delivery order contracts: general authority
@@ -15,14 +15,13 @@ generated_at: "2026-03-29T20:03:09.756Z"
   - **(1)** The period of the contract, including the number of options to extend the contract and the period for which the contract may be extended under each option, if any.
   - **(2)** The maximum quantity or dollar value of the services or property to be procured under the contract.
   - **(3)** A statement of work, specifications, or other description that reasonably describes the general scope, nature, complexity, and purposes of the services or property to be procured under the contract.
-- **(c)** The head of an agency may use procedures other than competitive procedures to enter into a task or delivery order contract under this section only if—
+- **(c)** The head of an agency may use procedures other than competitive procedures to enter into a task or delivery order contract under this 1 1 So in original. Probably should be followed by “section”. only if—
   - **(1)** an exception in subsection (a) of section 3204 of this title applies to the contract; and
   - **(2)** the use of such procedures is approved in accordance with subsection (e) of such section.
 - **(d)**
   - **(1)** The head of an agency may exercise the authority provided in this section—
     - **(A)** to award a single task or delivery order contract; or
     - **(B)** if the solicitation states that the head of the agency has the option to do so, to award separate task or delivery order contracts for the same or similar services or property to two or more sources.
-  - **(2)** No determination under section 3203 of this title is required for award of multiple task or delivery order contracts under paragraph (1)(B).
   - **(3)**
     - **(A)** Except as provided under subparagraph (B), no task or delivery order contract in an amount estimated to exceed $100,000,000 (including all options) may be awarded to a single source unless the head of the agency determines in writing that—
       - **(i)** the task or delivery orders expected under the contract are so integrally related that only a single source can efficiently perform the work;

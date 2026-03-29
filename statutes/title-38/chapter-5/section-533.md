@@ -3,9 +3,9 @@ title: "Section 533 - Anti-harassment and anti-sexual assault policy"
 usc_title: 38
 usc_section: "533"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "38 U.S.C. § 533"
-generated_at: "2026-03-29T20:05:54.623Z"
+generated_at: "2026-03-29T20:34:04.867Z"
 ---
 
 # § 533. Anti-harassment and anti-sexual assault policy
@@ -48,7 +48,7 @@ generated_at: "2026-03-29T20:05:54.623Z"
     - **(A)** an action plan for addressing changes at the local level to reduce instances of harassment and sexual assault;
     - **(B)** standardized media for veterans service organizations and other persons to use in print and on the internet with respect to reducing harassment and sexual assault; and
     - **(C)** bystander intervention training for veterans.
-  - **(4)** The working group established under paragraph (1) shall not be subject to the requirements of the Federal Advisory Committee Act (5 U.S.C. App.). 1 1 See References in Text note below.
+  - **(4)** The working group established under paragraph (1) shall not be subject to the requirements of the Federal Advisory Committee Act (5 U.S.C. App.).
 - **(f)**
   - **(1)** The Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives an annual report on harassment and sexual assault described in subparagraphs (A) and (B) of subsection (a)(2) in facilities of the Department.
   - **(2)** Each report submitted under paragraph (1) shall include the following:

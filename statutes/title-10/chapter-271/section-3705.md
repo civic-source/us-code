@@ -3,9 +3,9 @@ title: "Section 3705 - Submission of other information"
 usc_title: 10
 usc_section: "3705"
 chapter: 271
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 3705"
-generated_at: "2026-03-29T20:03:09.763Z"
+generated_at: "2026-03-29T20:31:54.677Z"
 ---
 
 # § 3705. Submission of other information
@@ -21,12 +21,7 @@ generated_at: "2026-03-29T20:03:09.763Z"
     - **(F)** Risk to the Government if award is not made.
   - **(2)**
     - **(A)** Any new determination made by the head of the contracting activity under paragraph (1) shall be reported to the Principal Director, Defense Pricing and Contracting on a quarterly basis.
-    - **(B)** The Under Secretary of Defense for Acquisition and Sustainment, or a designee, shall produce an annual report identifying offerors that have denied multiple requests for submission of uncertified cost or pricing data over the preceding three-year period, but nevertheless received an award. The report shall identify products or services offered by such offerors that should undergo should-cost analysis. The Secretary of Defense may include a notation on such offerors in the system used by the Federal Government to monitor or record contractor past performance. The Under Secretary shall assess the extent to which these offerors are sole source providers within the defense industrial base and shall develop strategies to incentivize new entrants into the industrial base to increase the availability of other sources of supply for the product or service. The Under Secretary shall make appropriate portions of the report available to the leadership of the offerors named in such report.
-    - **(C)** The Under Secretary of Defense for Acquisition and Sustainment shall develop a framework for revising what constitutes a denial of uncertified cost or pricing data, including—
-      - **(i)** identifying situations under which such denials occur to exclude situations outside the control of the offeror or Federal Government;
-      - **(ii)** identifying whether such denial is from the prime contractor or subcontractor; and
-      - **(iii)** developing an appropriate timeframe for requiring submission of uncertified cost or pricing data before a request for such data is considered a denial, including a standardized determination of a starting point and conclusion for such requests.
-  - **(3)** If the head of contracting activity, or the designee of the head of contracting activity, determines it is in the best interest of the Government to make the award under subsection (b)(1), the head of the agency shall conduct an assessment of alternative offerors as a source of supply using authorities provided by sections 865 and 882 of the National Defense Authorization Act for Fiscal Year 2025 ( Public Law 118–159 ).
+    - **(B)** The Under Secretary of Defense for Acquisition and Sustainment, or a designee, shall produce an annual report identifying offerors that have denied multiple requests for submission of uncertified cost or pricing data over the preceding three-year period, but nevertheless received an award. The report shall identify products or services offered by such offerors that should undergo should-cost analysis. The Secretary of Defense may include a notation on such offerors in the system used by the Federal Government to monitor or record contractor past performance. The Under Secretary shall assess the extent to which these offerors are sole source providers within the defense industrial base and shall develop strategies to incentivize new entrants into the industrial base to increase the availability of other sources of supply for the product or service.
 - **(c)** The Federal Acquisition Regulation shall include the following provisions regarding the types of information that contracting officers may require under subsection (a):
   - **(1)** Reasonable limitations on requests for sales data relating to commercial products or commercial services.
   - **(2)** A requirement that a contracting officer limit, to the maximum extent practicable, the scope of any request for information relating to commercial products or commercial services from an offeror to only that information that is in the form regularly maintained by the offeror in commercial operations.

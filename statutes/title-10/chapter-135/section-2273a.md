@@ -3,14 +3,14 @@ title: "Section 2273a - Space Rapid Capabilities Office"
 usc_title: 10
 usc_section: "2273a"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2273a"
-generated_at: "2026-03-29T20:03:09.666Z"
+generated_at: "2026-03-29T20:31:54.571Z"
 ---
 
 # § 2273a. Space Rapid Capabilities Office
 
-- **(a)** There is within the Space Force a program office known as the Space Rapid Capabilities Office (in this section referred to as the “Office”). The facilities of the Office may not be co-located with the headquarters facilities of the Space Force Space Systems Command.
+- **(a)** There is within the Space Force a program office known as the Space Rapid Capabilities Office (in this section referred to as the “Office”). The facilities of the Office may not be co-located with the headquarters facilities of the Air Force Space and Missile Systems Center.
 - **(b)** The head of the Office shall be the designee of the Secretary of the Air Force. The head of the Office shall report to the Chief of Space Operations.
 - **(c)** The mission of the Office shall be—
   - **(1)** to contribute to the development of low-cost, rapid reaction payloads, busses, launch, and launch control capabilities in order to fulfill joint military operational requirements for on-demand space support and reconstitution;

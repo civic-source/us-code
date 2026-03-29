@@ -3,9 +3,9 @@ title: "Section 2431d - Reduction of debt owed to United States as result of con
 usc_title: 22
 usc_section: "2431d"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 2431d"
-generated_at: "2026-03-29T20:04:46.787Z"
+generated_at: "2026-03-29T20:32:59.982Z"
 ---
 
 # § 2431d. Reduction of debt owed to United States as result of concessional loans under this chapter
@@ -38,9 +38,4 @@ generated_at: "2026-03-29T20:04:46.787Z"
   - **(6)** $30,000,000 for fiscal year 2007.
   - **(7)** $20,000,000 for fiscal year 2019.
   - **(8)** $20,000,000 for fiscal year 2020.
-  - **(9)** $20,000,000 for fiscal year 2023.
-  - **(10)** $20,000,000 for fiscal year 2024.
-  - **(11)** $20,000,000 for fiscal year 2025.
-  - **(12)** $20,000,000 for fiscal year 2026.
-  - **(13)** $20,000,000 for fiscal year 2027.
 - **(e)** Of the amounts made available to carry out this subchapter for a fiscal year, $300,000 is authorized to be made available to carry out audits, evaluations, monitoring, and administration of programs under this subchapter, including personnel costs associated with such audits, evaluations, monitoring and administration.

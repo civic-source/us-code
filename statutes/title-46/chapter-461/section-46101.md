@@ -3,9 +3,9 @@ title: "Section 46101 - General organization"
 usc_title: 46
 usc_section: "46101"
 chapter: 461
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "46 U.S.C. § 46101"
-generated_at: "2026-03-29T20:08:05.349Z"
+generated_at: "2026-03-29T20:35:02.408Z"
 ---
 
 # § 46101. General organization
@@ -13,8 +13,8 @@ generated_at: "2026-03-29T20:08:05.349Z"
 - **(a)** The Federal Maritime Commission is an independent establishment of the United States Government.
 - **(b)**
   - **(1)** The Commission is composed of 5 Commissioners, appointed by the President by and with the advice and consent of the Senate. Not more than 3 Commissioners may be appointed from the same political party.
-  - **(2)** The term of each Commissioner is 5 years. When the term of a Commissioner ends, the Commissioner may continue to serve until a successor is appointed and qualified, but for a period not to exceed 2 years. Except as provided in paragraph (3), no individual may serve more than 3 terms.
-  - **(3)** A vacancy shall be filled in the same manner as the original appointment. An individual appointed to fill a vacancy is appointed only for the unexpired term to which such individual is appointed. An individual appointed to fill a vacancy may serve 3 terms in addition to the remainder of the term for which such individual was appointed.
+  - **(2)** The term of each Commissioner is 5 years. When the term of a Commissioner ends, the Commissioner may continue to serve until a successor is appointed and qualified, but for a period not to exceed one year. Except as provided in paragraph (3), no individual may serve more than 2 terms.
+  - **(3)** A vacancy shall be filled in the same manner as the original appointment. An individual appointed to fill a vacancy is appointed only for the unexpired term of the individual being succeeded. An individual appointed to fill a vacancy may serve 2 terms in addition to the remainder of the term for which the predecessor of that individual was appointed.
   - **(4)**
     - **(A)** A Commissioner may not have a pecuniary interest in, hold an official relation to, or own stocks or bonds of any entity the Commission regulates under chapter 401 of this title.
     - **(B)** A Commissioner may not engage in another business, vocation, or employment.

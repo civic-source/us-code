@@ -3,9 +3,9 @@ title: "Section 7492 - Visibility"
 usc_title: 42
 usc_section: "7492"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 7492"
-generated_at: "2026-03-29T20:07:44.520Z"
+generated_at: "2026-03-29T20:34:53.840Z"
 ---
 
 # § 7492. Visibility
@@ -27,7 +27,7 @@ generated_at: "2026-03-29T20:07:44.520Z"
     - **(B)** The 2 2 So in original. Probably should not be capitalized. Administrator or the Administrator’s designee; and
     - **(C)** A 2 representative of each Federal agency charged with the direct management of each class I area or areas within the Visibility Transport Region.
   - **(3)** All representatives of the Federal Government shall be ex officio members.
-  - **(4)** The visibility transport commissions shall be exempt from the requirements of chapter 10 of title 5.
+  - **(4)** The visibility transport commissions shall be exempt from the requirements of the Federal Advisory Committee Act [5 U.S.C. App.].
 - **(d)** A Visibility Transport Commission—
   - **(1)** shall assess the scientific and technical data, studies, and other currently available information, including studies conducted pursuant to subsection (a)(1), pertaining to adverse impacts on visibility from potential or projected growth in emissions from sources located in the Visibility Transport Region; and
   - **(2)** shall, within 4 years of establishment, issue a report to the Administrator recommending what measures, if any, should be taken under this chapter to remedy such adverse impacts. The report required by this subsection shall address at least the following measures:

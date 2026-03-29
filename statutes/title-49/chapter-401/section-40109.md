@@ -3,9 +3,9 @@ title: "Section 40109 - Authority to exempt"
 usc_title: 49
 usc_section: "40109"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 40109"
-generated_at: "2026-03-29T20:07:58.570Z"
+generated_at: "2026-03-29T20:35:10.888Z"
 ---
 
 # § 40109. Authority to exempt
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T20:07:58.570Z"
     - **(A)** an air carrier not engaged directly in operating aircraft in air transportation; or
     - **(B)** a foreign air carrier not engaged directly in operating aircraft in foreign air transportation.
   - **(2)** The exemption is effective to the extent and for periods that the Secretary decides are in the public interest.
-- **(b)** The Administrator of the Federal Aviation Administration may grant an exemption from a regulation prescribed in carrying out paragraphs (1) and (2) of section 40103(b) when the Administrator decides the exemption is in the public interest.
+- **(b)** The Administrator of the Federal Aviation Administration may grant an exemption from a regulation prescribed in carrying out sections 1 1 So in original. Probably should be “section”. 40103(b)(1) and (2) of this title when the Administrator decides the exemption is in the public interest.
 - **(c)** Except as provided in this section, the Secretary may exempt to the extent the Secretary considers necessary a person or class of persons from a provision of chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II of chapter 421, and sections 44909(a), 44909(b), and 46301(b) of this title, or a regulation or term prescribed under any of those provisions, when the Secretary decides that the exemption is consistent with the public interest.
 - **(d)** The Secretary may not exempt an air carrier from section 42112 of this title . However, the Secretary may exempt from section 42112(b)(1) and (2) an air carrier not providing scheduled air transportation, and the operations conducted during daylight hours by an air carrier providing scheduled air transportation, when the Secretary decides that—
   - **(1)** because of the limited extent of, or unusual circumstances affecting, the operation of the air carrier, the enforcement of section 42112(b)(1) and (2) of this title is or would be an unreasonable burden on the air carrier that would obstruct its development and prevent it from beginning or continuing operations; and

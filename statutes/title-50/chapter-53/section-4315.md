@@ -3,9 +3,9 @@ title: "Section 4315 - Offenses; punishment; forfeitures of property"
 usc_title: 50
 usc_section: "4315"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "50 U.S.C. § 4315"
-generated_at: "2026-03-29T20:08:11.280Z"
+generated_at: "2026-03-29T20:35:05.290Z"
 ---
 
 # § 4315. Offenses; punishment; forfeitures of property
@@ -17,8 +17,3 @@ generated_at: "2026-03-29T20:08:11.280Z"
   - **(3)** The penalties provided under this subsection may be imposed only on the record after opportunity for an agency hearing in accordance with sections 554 through 557 of title 5, with the right to prehearing discovery.
   - **(4)** Judicial review of any penalty imposed under this subsection may be had to the extent provided in section 702 of title 5 .
 - **(c)** Upon conviction, any property, funds, securities, papers, or other articles or documents, or any vessel, together with tackle, apparel, furniture, and equipment, concerned in any violation of subsection (a) may be forfeited to the United States.
-- **(d)**
-  - **(1)**
-    - **(A)** An action, suit, or proceeding for the enforcement of any civil fine, penalty, or forfeiture, pecuniary or otherwise, under this section shall not be entertained unless commenced within 10 years after the latest date of the violation upon which the civil fine, penalty, or forfeiture is based.
-    - **(B)** For purposes of this paragraph, the commencement of an action, suit, or proceeding includes the issuance of a pre-penalty notice or finding of violation.
-  - **(2)** No person shall be prosecuted, tried, or punished for any offense under subsection (a) unless the indictment is found or the information is instituted within 10 years after the latest date of the violation upon which the indictment or information is based.

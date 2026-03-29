@@ -3,9 +3,9 @@ title: "Section 1636f - Publication of information on retail purchase prices for
 usc_title: 7
 usc_section: "1636f"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 1636f"
-generated_at: "2026-03-29T20:02:52.548Z"
+generated_at: "2026-03-29T20:31:42.010Z"
 ---
 
 # § 1636f. Publication of information on retail purchase prices for representative meat products

@@ -3,9 +3,9 @@ title: "Section 1881c - Other acquisitions targeting United States persons outsi
 usc_title: 50
 usc_section: "1881c"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "50 U.S.C. § 1881c"
-generated_at: "2026-03-29T20:08:11.159Z"
+generated_at: "2026-03-29T20:35:05.153Z"
 ---
 
 # § 1881c. Other acquisitions targeting United States persons outside the United States
@@ -20,19 +20,15 @@ generated_at: "2026-03-29T20:08:11.159Z"
 - **(b)** Each application for an order under this section shall be made by a Federal officer in writing upon oath or affirmation to a judge having jurisdiction under subsection (a)(1). Each application shall require the approval of the Attorney General based upon the Attorney General’s finding that it satisfies the criteria and requirements of such application as set forth in this section and shall include—
   - **(1)** the identity of the Federal officer making the application;
   - **(2)** the identity, if known, or a description of the specific United States person who is the target of the acquisition;
-  - **(3)** a sworn statement of the facts and circumstances relied upon to justify the applicant’s belief that the United States person who is the target of the acquisition is—
+  - **(3)** a statement of the facts and circumstances relied upon to justify the applicant’s belief that the United States person who is the target of the acquisition is—
     - **(A)** a person reasonably believed to be located outside the United States; and
     - **(B)** a foreign power, an agent of a foreign power, or an officer or employee of a foreign power;
   - **(4)** a statement of proposed minimization procedures that meet the definition of minimization procedures under section 1801(h) or 1821(4) of this title, as appropriate;
   - **(5)** a certification made by the Attorney General, an official specified in section 1804(a)(6) of this title , or the head of an element of the intelligence community that—
     - **(A)** the certifying official deems the information sought to be foreign intelligence information; and
     - **(B)** a significant purpose of the acquisition is to obtain foreign intelligence information;
-  - **(6)** a statement of the facts concerning any previous applications that have been made to any judge of the Foreign Intelligence Surveillance Court involving the United States person specified in the application and the action taken on each previous application;
-  - **(7)** a statement of the period of time for which the acquisition is required to be maintained, provided that such period of time shall not exceed 90 days per application;
-  - **(8)** a certification by the applicant that, to the best knowledge of the applicant, the Attorney General or a designated attorney for the Government has been apprised of all information that might reasonably—
-    - **(A)** call into question the accuracy of the application or the reasonableness of any assessment in the application conducted by the department or agency on whose behalf the application is made; or
-    - **(B)** otherwise raise doubts with respect to the findings required under subsection (c); and
-  - **(9)** non-cumulative information known to the applicant or declarant that is potentially exculpatory regarding the requested legal findings or any assessment in the application.
+  - **(6)** a statement of the facts concerning any previous applications that have been made to any judge of the Foreign Intelligence Surveillance Court involving the United States person specified in the application and the action taken on each previous application; and
+  - **(7)** a statement of the period of time for which the acquisition is required to be maintained, provided that such period of time shall not exceed 90 days per application.
 - **(c)**
   - **(1)** Upon an application made pursuant to subsection (b), the Foreign Intelligence Surveillance Court shall enter an ex parte order as requested or as modified by the Court if the Court finds that—
     - **(A)** the application has been made by a Federal officer and approved by the Attorney General;

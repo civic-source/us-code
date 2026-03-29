@@ -3,9 +3,9 @@ title: "Section 40728B - Recovery of excess rifles, ammunition, and parts grante
 usc_title: 36
 usc_section: "40728B"
 chapter: 407
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "36 U.S.C. § 40728B"
-generated_at: "2026-03-29T20:05:40.571Z"
+generated_at: "2026-03-29T20:33:50.626Z"
 ---
 
 # § 40728B. Recovery of excess rifles, ammunition, and parts granted to foreign countries and transfer to certain persons
@@ -21,6 +21,6 @@ generated_at: "2026-03-29T20:05:40.571Z"
   - **(1)** is licensed as a manufacturer, importer, or dealer pursuant to section 923(a) of title 18 ; and
   - **(2)** uses an ammunition depot of the Army that is an eligible facility for receipt of any rifles, ammunition, repair parts, or supplies under this paragraph.
 - **(d)** The Secretary of the Army may only transfer an item under subsection (c) if the Secretary receives fair market value for the item.
-- **(e)** Notwithstanding section 3201(e) of title 10 , the Secretary may enter into such contracts or cooperative agreements on a sole source basis pursuant to paragraphs (4) and (5) of section 3204(a) 1 1 So in original. Probably means section 3204(a) of title 10 . to carry out this section.
+- **(e)** Notwithstanding subsection (k) of section 2304 of title 10 , the Secretary may enter into such contracts or cooperative agreements on a sole source basis pursuant to paragraphs (4) and (5) of subsection (c) of such section to carry out this section.
 - **(f)** Transfers authorized under this section may only be made in accordance with applicable provisions of the Arms Export Control Act ( 22 U.S.C. 2778 ).
 - **(g)** In this section, the term “rifle” has the meaning given such term in section 921 of title 18 .

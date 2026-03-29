@@ -3,9 +3,9 @@ title: "Section 629d - Payments to States"
 usc_title: 42
 usc_section: "629d"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 629d"
-generated_at: "2026-03-29T20:07:43.453Z"
+generated_at: "2026-03-29T20:34:52.920Z"
 ---
 
 # § 629d. Payments to States
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T20:07:43.453Z"
     - **(A)** 75 percent of the total expenditures by the State for activities under the plan during the fiscal year or the immediately succeeding fiscal year; or
     - **(B)** the allotment of the State under subsection (a), (b), or (c) of section 629c of this title , whichever is applicable, for the fiscal year; and
   - **(2)** the lesser of—
-    - **(A)** 75 percent of the total expenditures by the State in accordance with section 629f(b)(3)(B) of this title during the fiscal year or the immediately succeeding fiscal year; or
+    - **(A)** 75 percent of the total expenditures by the State in accordance with section 629f(b)(4)(B) of this title during the fiscal year or the immediately succeeding fiscal year; or
     - **(B)** the allotment of the State under section 629c(e) of this title for the fiscal year.
 - **(b)**
   - **(1)** Each State receiving an amount paid under subsection (a) may not expend any Federal funds to meet the costs of services under the State plan under section 629b of this title not covered by the amount so paid.

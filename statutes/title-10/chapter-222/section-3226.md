@@ -3,9 +3,9 @@ title: "Section 3226 - Estimates for program baseline and analyses and targets f
 usc_title: 10
 usc_section: "3226"
 chapter: 222
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 3226"
-generated_at: "2026-03-29T20:03:09.753Z"
+generated_at: "2026-03-29T20:31:54.670Z"
 ---
 
 # § 3226. Estimates for program baseline and analyses and targets for contract negotiation purposes
@@ -15,7 +15,9 @@ generated_at: "2026-03-29T20:03:09.753Z"
 - **(c)** The program manager and contracting officer for each major defense acquisition program and major subprogram shall ensure that cost analyses and targets developed for the purpose of contract negotiations and the obligation of funds are carried out in accordance with the requirements of subsection (a) and the policies, procedures, and guidance issued by the Under Secretary of Defense for Acquisition and Sustainment under subsection (b).
 - **(d)**
   - **(1)** Funds that are made available for a major defense acquisition program or major subprogram in accordance with a cost estimate conducted pursuant to section 3221(b)(6) of this title , but are excess to a cost analysis or target developed pursuant to subsection (b), shall remain available for obligation in accordance with the terms of applicable authorization and appropriations Acts.
-  - **(2)** Funds described in paragraph (1) may be used—
-    - **(A)** to cover any increased program costs identified by a revised cost analysis or target developed pursuant to subsection (b);
-    - **(B)** to acquire additional end items in accordance with section 3069 of this title ; or
-    - **(C)** to cover the cost of risk reduction and process improvements.
+  - **(2)** Funds described in paragraph (1)—
+    - **(A)** may be used—
+      - **(i)** to cover any increased program costs identified by a revised cost analysis or target developed pursuant to subsection (b);
+      - **(ii)** to acquire additional end items in accordance with the requirements of section 3069 of this title ; or
+      - **(iii)** to cover the cost of risk reduction and process improvements; and
+    - **(B)** may be reprogrammed, in accordance with established procedures, only if determined to be excess to program needs on the basis of a cost estimate developed with the concurrence of the Director of Cost Assessment and Program Evaluation.

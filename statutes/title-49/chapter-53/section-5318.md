@@ -3,9 +3,9 @@ title: "Section 5318 - Bus testing facility"
 usc_title: 49
 usc_section: "5318"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 5318"
-generated_at: "2026-03-29T20:07:58.441Z"
+generated_at: "2026-03-29T20:35:10.773Z"
 ---
 
 # § 5318. Bus testing facility
@@ -21,4 +21,3 @@ generated_at: "2026-03-29T20:07:58.441Z"
       - **(i)** performance standards for maintainability, reliability, performance (including braking performance), structural integrity, fuel economy, emissions, and noise, as established by the Secretary by rule; and
       - **(ii)** the minimum safety performance standards established by the Secretary pursuant to section 5329(b).
   - **(2)** Not later than 2 years after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall issue a final rule under subparagraph (B)(i). The final rule issued under paragraph 1 1 So in original. Probably should be “subparagraph”. (B)(i) shall include a bus model scoring system that results in a weighted, aggregate score that uses the testing categories under subsection (a) and considers the relative importance of each such testing category. The final rule issued under subparagraph (B)(i) shall establish a “pass/fail” standard that uses the aggregate score described in the preceding sentence. Amounts appropriated or otherwise made available under this chapter may be obligated or expended to acquire a new bus model only if the new bus model has received a passing aggregate test score. The Secretary shall work with the bus testing facility, bus manufacturers, and transit agencies to develop the bus model scoring system under this paragraph. A passing aggregate test score under the rule issued under subparagraph (B)(i) indicates only that amounts appropriated or made available under this chapter may be obligated or expended to acquire a new bus model and shall not be interpreted as a warranty or guarantee that the new bus model will meet a purchaser’s specific requirements.
-- **(f)** A facility operated and maintained under this section may use funds made available under this section for the acquisition of equipment and capital projects related to testing new bus models.

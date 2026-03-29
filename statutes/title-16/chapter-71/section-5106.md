@@ -3,9 +3,9 @@ title: "Section 5106 - Secretarial action"
 usc_title: 16
 usc_section: "5106"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 5106"
-generated_at: "2026-03-29T20:04:20.465Z"
+generated_at: "2026-03-29T20:32:45.483Z"
 ---
 
 # § 5106. Secretarial action

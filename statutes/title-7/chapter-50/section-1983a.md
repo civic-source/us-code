@@ -3,9 +3,9 @@ title: "Section 1983a - Prompt approval of loans and loan guarantees"
 usc_title: 7
 usc_section: "1983a"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 1983a"
-generated_at: "2026-03-29T20:02:52.586Z"
+generated_at: "2026-03-29T20:31:42.044Z"
 ---
 
 # § 1983a. Prompt approval of loans and loan guarantees
@@ -39,7 +39,7 @@ generated_at: "2026-03-29T20:02:52.586Z"
     - **(B)** the employment procedures used in connection with the emergency loan program established under subchapter III.
 - **(f)**
   - **(1)** As used in this subsection:
-    - **(A)** The term “approved lender” means a lender approved prior to October 28, 1992 , by the Secretary under the approved lender program established by exhibit A to subpart B of part 1980 of title 7, Code of Federal Regulations (as in effect on January 1, 1991 ), or a lender certified under section 1989 of this title .
+    - **(A)** The term “approved lender” means a lender approved prior to October 28, 1992 , by the Secretary under the approved lender program established by exhibit A to subpart B of part 1980 of title 7, Code of Federal Regulations (as in effect on January 1, 1991 ), or a lender certified under section 1989 1 1 See References in Text note below. of this title.
     - **(B)** The term “seasoned direct loan borrower” means a borrower receiving a direct loan under this chapter who has been classified as “commercial” or “standard” under subpart W of part 2006 of the Instruction Manual (as in effect on January 1, 1991 ).
   - **(2)** The Secretary, or a contracting third party, shall annually review under section 2006b of this title the loans of each seasoned loan borrower. If, based on the review, it is determined that a borrower would be able to obtain a loan, guaranteed by the Secretary, from a commercial or cooperative lender at reasonable rates and terms for loans for similar purposes and periods of time, the Secretary shall assist the borrower in applying for the commercial or cooperative loan.
   - **(3)** In accordance with section 2006d of this title , the Secretary shall prepare a prospectus on each seasoned direct loan borrower determined eligible to obtain a guaranteed loan. The prospectus shall contain a description of the amounts of loan guarantee and interest assistance that the Secretary will provide to the seasoned direct loan borrower to enable the seasoned direct loan borrower to carry out a financially viable farming plan if a guaranteed loan is made.

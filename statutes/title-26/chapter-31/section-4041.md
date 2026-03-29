@@ -3,9 +3,9 @@ title: "Section 4041 - Imposition of tax"
 usc_title: 26
 usc_section: "4041"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 4041"
-generated_at: "2026-03-29T20:05:22.580Z"
+generated_at: "2026-03-29T20:33:27.202Z"
 ---
 
 # § 4041. Imposition of tax
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T20:05:22.580Z"
         - **(II)** 2.3 cents per gallon after June 30, 2005 , and before January 1, 2007 , and
         - **(III)** 0 after December 31, 2006 .
       - **(iii)**
-        - **(I)** Except as provided in subclause (II), in the case of fuel sold for use or used in a use described in section 6427(b)(1) (after the application of section 6427(b)(3)), the rate of tax imposed by this paragraph shall be 7.3 cents per gallon (4.3 cents per gallon after September 30, 2028 ).
+        - **(I)** Except as provided in subclause (II), in the case of fuel sold for use or used in a use described in section 6427(b)(1) (after the application of section 6427(b)(3)), the rate of tax imposed by this paragraph shall be 7.3 cents per gallon (4.3 cents per gallon after September 30, 2022 ).
         - **(II)** No tax shall be imposed by this paragraph on any sale for use, or use, described in subparagraph (B) or (C) of section 6427(b)(2).
   - **(2)**
     - **(A)** There is hereby imposed a tax on any liquid (other than gas oil, fuel oil, or any product taxable under section 4081 (other than such tax at the Leaking Underground Storage Tank Trust Fund financing rate))—
@@ -95,10 +95,10 @@ generated_at: "2026-03-29T20:05:22.580Z"
 - **(l)** No tax shall be imposed under this section on any liquid sold for use in, or used in, a helicopter or a fixed-wing aircraft for purposes of providing transportation with respect to which the requirements of subsection (f) or (g) of section 4261 are met.
 - **(m)**
   - **(1)** In the case of the sale or use of any partially exempt methanol or ethanol fuel the rate of the tax imposed by subsection (a)(2) shall be—
-    - **(A)** after September 30, 1997 , and before October 1, 2028 —
+    - **(A)** after September 30, 1997 , and before October 1, 2022 —
       - **(i)** in the case of fuel none of the alcohol in which consists of ethanol, 9.15 cents per gallon, and
       - **(ii)** in any other case, 11.3 cents per gallon, and
-    - **(B)** after September 30, 2028 —
+    - **(B)** after September 30, 2022 —
       - **(i)** in the case of fuel none of the alcohol in which consists of ethanol, 2.15 cents per gallon, and
       - **(ii)** in any other case, 4.3 cents per gallon.
   - **(2)** The term “partially exempt methanol or ethanol fuel” means any liquid at least 85 percent of which consists of methanol, ethanol, or other alcohol produced from natural gas.

@@ -3,9 +3,9 @@ title: "Section 2018 - Regional meetings and negotiated rulemaking"
 usc_title: 25
 usc_section: "2018"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "25 U.S.C. § 2018"
-generated_at: "2026-03-29T20:04:54.400Z"
+generated_at: "2026-03-29T20:32:54.728Z"
 ---
 
 # § 2018. Regional meetings and negotiated rulemaking
@@ -19,8 +19,8 @@ generated_at: "2026-03-29T20:04:54.400Z"
     - **(B)** ensure that the membership of the committee includes only representatives of the Federal Government and of tribes served by Bureau-funded schools;
     - **(C)** select the tribal representatives of the committee from among individuals nominated by the representatives of the tribal and tribally operated schools;
     - **(D)** ensure, to the maximum extent possible, that the tribal representative membership on the committee reflects the proportionate share of students from tribes served by the Bureau-funded school system; and
-    - **(E)** comply with chapter 10 of title 5.
-  - **(4)** The Secretary shall carry out this section using the general administrative funds of the Department of the Interior. In accordance with subchapter III of chapter 5 of title 5 and section 1006(d) of title 5 , payment of costs associated with negotiated rulemaking shall include the reasonable expenses of committee members.
+    - **(E)** comply with the Federal Advisory Committee Act (5 U.S.C. App.).
+  - **(4)** The Secretary shall carry out this section using the general administrative funds of the Department of the Interior. In accordance with subchapter III of chapter 5 of title 5 and section 7(d) of the Federal Advisory Committee Act, payment of costs associated with negotiated rulemaking shall include the reasonable expenses of committee members.
 - **(c)**
   - **(1)** The provisions of this section shall supersede any conflicting regulations in effect on the day before the date of enactment of this chapter, and the Secretary may repeal any regulation that is inconsistent with the provisions of this chapter.
   - **(2)** The Secretary may modify regulations promulgated under this section or the Tribally Controlled Schools Act of 1988 [ 25 U.S.C. 2501 et seq.], only in accordance with this section.

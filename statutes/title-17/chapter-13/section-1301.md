@@ -3,9 +3,9 @@ title: "Section 1301 - Designs protected"
 usc_title: 17
 usc_section: "1301"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "17 U.S.C. § 1301"
-generated_at: "2026-03-29T20:04:03.131Z"
+generated_at: "2026-03-29T20:32:22.742Z"
 ---
 
 # § 1301. Designs protected
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T20:04:03.131Z"
 - **(a)**
   - **(1)** The designer or other owner of an original design of a useful article which makes the article attractive or distinctive in appearance to the purchasing or using public may secure the protection provided by this chapter upon complying with and subject to this chapter.
   - **(2)** The design of a vessel hull, deck, or combination of a hull and deck, including a plug or mold, is subject to protection under this chapter, notwithstanding section 1302(4).
-  - **(3)** Department of Defense rights in a registered design under this chapter, including the right to build to such registered design, shall be determined solely by operation of subchapter I of chapter 275 of title 10 or by the instrument under which the design was developed for the United States Government.
+  - **(3)** Department of Defense rights in a registered design under this chapter, including the right to build to such registered design, shall be determined solely by operation of section 2320 of title 10 or by the instrument under which the design was developed for the United States Government.
 - **(b)** For the purpose of this chapter, the following terms have the following meanings:
   - **(1)** A design is “original” if it is the result of the designer’s creative endeavor that provides a distinguishable variation over prior work pertaining to similar articles which is more than merely trivial and has not been copied from another source.
   - **(2)** A “useful article” is a vessel hull or deck, including a plug or mold, which in normal use has an intrinsic utilitarian function that is not merely to portray the appearance of the article or to convey information. An article which normally is part of a useful article shall be deemed to be a useful article.

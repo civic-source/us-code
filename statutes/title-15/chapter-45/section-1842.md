@@ -3,9 +3,9 @@ title: "Section 1842 - Authority for loan guarantees; terms and conditions"
 usc_title: 15
 usc_section: "1842"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 1842"
-generated_at: "2026-03-29T20:03:27.478Z"
+generated_at: "2026-03-29T20:32:09.932Z"
 ---
 
 # § 1842. Authority for loan guarantees; terms and conditions

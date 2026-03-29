@@ -3,9 +3,9 @@ title: "Section 1202 - Railroad security-sensitive material tracking"
 usc_title: 6
 usc_section: "1202"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "6 U.S.C. § 1202"
-generated_at: "2026-03-29T20:02:42.082Z"
+generated_at: "2026-03-29T20:31:30.698Z"
 ---
 
 # § 1202. Railroad security-sensitive material tracking
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T20:02:42.082Z"
   - **(2)** In developing the program required by paragraph (1), the Secretary shall—
     - **(A)** consult with the Secretary of Transportation to coordinate the program with any ongoing or planned efforts for railroad car tracking at the Department of Transportation; and
     - **(B)** ensure that the program is consistent with recommendations and findings of the Department of Homeland Security’s hazardous material railroad tank car tracking pilot programs.
-- **(b)** From the amounts appropriated pursuant to 1 1 So in original. Probably should be followed by “section”. 114(w) 2 2 See References in Text note below. of title 49, there shall be made available to the Secretary to carry out this section—
+- **(b)** From the amounts appropriated pursuant to 114(w) of title 49, there shall be made available to the Secretary to carry out this section—
   - **(1)** $3,000,000 for fiscal year 2008;
   - **(2)** $3,000,000 for fiscal year 2009; and
   - **(3)** $3,000,000 for fiscal year 2010.

@@ -3,9 +3,9 @@ title: "Section 802 - Definitions"
 usc_title: 21
 usc_section: "802"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "21 U.S.C. § 802"
-generated_at: "2026-03-29T20:04:50.563Z"
+generated_at: "2026-03-29T20:32:52.608Z"
 ---
 
 # § 802. Definitions
@@ -34,8 +34,8 @@ As used in this subchapter:
   - **(14)** The term “isomer” means the optical isomer, except as used in schedule I(c) and schedule II(a)(4). As used in schedule I(c), the term “isomer” means any optical, positional, or geometric isomer. As used in schedule II(a)(4), the term “isomer” means any optical or geometric isomer.
   - **(15)** The term “manufacture” means the production, preparation, propagation, compounding, or processing of a drug or other substance, either directly or indirectly or by extraction from substances of natural origin, or independently by means of chemical synthesis or by a combination of extraction and chemical synthesis, and includes any packaging or repackaging of such substance or labeling or relabeling of its container; except that such term does not include the preparation, compounding, packaging, or labeling of a drug or other substance in conformity with applicable State or local law by a practitioner as an incident to his administration or dispensing of such drug or substance in the course of his professional practice. The term “manufacturer” means a person who manufactures a drug or other substance.
   - **(16)**
-    - **(A)** Subject to subparagraph (B), the terms “marihuana” and “marijuana” mean all parts of the plant Cannabis sativa L., whether growing or not; the seeds thereof; the resin extracted from any part of such plant; and every compound, manufacture, salt, derivative, mixture, or preparation of such plant, its seeds or resin.
-    - **(B)** The terms “marihuana” and “marijuana” do not include—
+    - **(A)** Subject to subparagraph (B), the term “marihuana” means all parts of the plant Cannabis sativa L., whether growing or not; the seeds thereof; the resin extracted from any part of such plant; and every compound, manufacture, salt, derivative, mixture, or preparation of such plant, its seeds or resin.
+    - **(B)** The term “marihuana” does not include—
       - **(i)** hemp, as defined in section 1639 o of title 7; or
       - **(ii)** the mature stalks of such plant, fiber produced from such stalks, oil or cake made from the seeds of such plant, any other compound, manufacture, salt, derivative, mixture, or preparation of such mature stalks (except the resin extracted therefrom), fiber, oil, or cake, or the sterilized seed of such plant which is incapable of germination.
   - **(17)** The term “narcotic drug” means any of the following whether produced directly or indirectly by extraction from substances of vegetable origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis:
@@ -258,29 +258,29 @@ As used in this subchapter:
   - **(52)** The term “online pharmacy”—
     - **(A)** means a person, entity, or Internet site, whether in the United States or abroad, that knowingly or intentionally delivers, distributes, or dispenses, or offers or attempts to deliver, distribute, or dispense, a controlled substance by means of the Internet; and
     - **(B)** does not include—
-      - **(i)** manufacturers or distributors registered under subsection (a), (b), (e), or (f) of section 823 of this title who do not dispense controlled substances to an unregistered individual or entity;
-      - **(ii)** nonpharmacy practitioners who are registered under section 823(g) of this title and whose activities are authorized by that registration;
-      - **(iii)** any hospital or other medical facility that is operated by an agency of the United States (including the Armed Forces), provided such hospital or other facility is registered under section 823(g) of this title ;
+      - **(i)** manufacturers or distributors registered under subsection (a), (b), (d), or (e) of section 823 of this title who do not dispense controlled substances to an unregistered individual or entity;
+      - **(ii)** nonpharmacy practitioners who are registered under section 823(f) of this title and whose activities are authorized by that registration;
+      - **(iii)** any hospital or other medical facility that is operated by an agency of the United States (including the Armed Forces), provided such hospital or other facility is registered under section 823(f) of this title ;
       - **(iv)** a health care facility owned or operated by an Indian tribe or tribal organization, only to the extent such facility is carrying out a contract or compact under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.];
       - **(v)** any agent or employee of any hospital or facility referred to in clause (iii) or (iv), provided such agent or employee is lawfully acting in the usual course of business or employment, and within the scope of the official duties of such agent or employee, with such hospital or facility, and, with respect to agents or employees of health care facilities specified in clause (iv), only to the extent such individuals are furnishing services pursuant to the contracts or compacts described in such clause;
       - **(vi)** mere advertisements that do not attempt to facilitate an actual transaction involving a controlled substance;
       - **(vii)** a person, entity, or Internet site that is not in the United States and does not facilitate the delivery, distribution, or dispensing of a controlled substance by means of the Internet to any person in the United States;
-      - **(viii)** a pharmacy registered under section 823(g) of this title whose dispensing of controlled substances via the Internet consists solely of—
+      - **(viii)** a pharmacy registered under section 823(f) of this title whose dispensing of controlled substances via the Internet consists solely of—
         - **(I)** refilling prescriptions for controlled substances in schedule III, IV, or V, as defined in paragraph (55); or
         - **(II)** filling new prescriptions for controlled substances in schedule III, IV, or V, as defined in paragraph (56); or
       - **(ix)** any other persons for whom the Attorney General and the Secretary have jointly, by regulation, found it to be consistent with effective controls against diversion and otherwise consistent with the public health and safety to exempt from the definition of an “online pharmacy”.
   - **(53)** The term “homepage” means the opening or main page or screen of the website of an online pharmacy that is viewable on the Internet.
   - **(54)** The term “practice of telemedicine” means, for purposes of this subchapter, the practice of medicine in accordance with applicable Federal and State laws by a practitioner (other than a pharmacist) who is at a location remote from the patient and is communicating with the patient, or health care professional who is treating the patient, using a telecommunications system referred to in section 1395m(m) of title 42 , which practice—
     - **(A)** is being conducted—
-      - **(i)** while the patient is being treated by, and physically located in, a hospital or clinic registered under section 823(g) of this title ; and
+      - **(i)** while the patient is being treated by, and physically located in, a hospital or clinic registered under section 823(f) of this title ; and
       - **(ii)** by a practitioner—
         - **(I)** acting in the usual course of professional practice;
         - **(II)** acting in accordance with applicable State law; and
-        - **(III)** registered under section 823(g) of this title in the State in which the patient is located, unless the practitioner—
+        - **(III)** registered under section 823(f) of this title in the State in which the patient is located, unless the practitioner—
     - **(B)** is being conducted while the patient is being treated by, and in the physical presence of, a practitioner—
       - **(i)** acting in the usual course of professional practice;
       - **(ii)** acting in accordance with applicable State law; and
-      - **(iii)** registered under section 823(g) of this title in the State in which the patient is located, unless the practitioner—
+      - **(iii)** registered under section 823(f) of this title in the State in which the patient is located, unless the practitioner—
         - **(I)** is exempted from such registration in all States under section 822(d) of this title ; or
         - **(II)** is—
     - **(C)** is being conducted by a practitioner—
@@ -293,13 +293,13 @@ As used in this subchapter:
     - **(E)** is being conducted by a practitioner who has obtained from the Attorney General a special registration under section 831(h) of this title ;
     - **(F)** is being conducted—
       - **(i)** in a medical emergency situation—
-        - **(I)** that prevents the patient from being in the physical presence of a practitioner registered under section 823(g) of this title who is an employee or contractor of the Veterans Health Administration acting in the usual course of business and employment and within the scope of the official duties or contract of that employee or contractor;
-        - **(II)** that prevents the patient from being physically present at a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(g) of this title ;
+        - **(I)** that prevents the patient from being in the physical presence of a practitioner registered under section 823(f) of this title who is an employee or contractor of the Veterans Health Administration acting in the usual course of business and employment and within the scope of the official duties or contract of that employee or contractor;
+        - **(II)** that prevents the patient from being physically present at a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(f) of this title ;
         - **(III)** during which the primary care practitioner of the patient or a practitioner otherwise practicing telemedicine within the meaning of this paragraph is unable to provide care or consultation; and
         - **(IV)** that requires immediate intervention by a health care practitioner using controlled substances to prevent what the practitioner reasonably believes in good faith will be imminent and serious clinical consequences, such as further injury or death; and
       - **(ii)** by a practitioner that—
         - **(I)** is an employee or contractor of the Veterans Health Administration acting within the scope of that employment or contract;
-        - **(II)** is registered under section 823(g) of this title in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(g) of this title ; and
+        - **(II)** is registered under section 823(f) of this title in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(f) of this title ; and
         - **(III)** issues a controlled substance prescription in this emergency context that is limited to a maximum of a 5-day supply which may not be extended or refilled; or
     - **(G)** is being conducted under any other circumstances that the Attorney General and the Secretary have jointly, by regulation, determined to be consistent with effective controls against diversion and otherwise consistent with the public health and safety.
   - **(55)** The term “refilling prescriptions for controlled substances in schedule III, IV, or V”—
@@ -309,14 +309,13 @@ As used in this subchapter:
     - **(A)** the pharmacy dispensing that prescription has previously dispensed to the patient a controlled substance other than by means of the Internet and pursuant to the valid prescription of a practitioner that meets the applicable requirements of subsections (b) and (c) of section 829 of this title (in this paragraph referred to as the “original prescription”);
     - **(B)** the pharmacy contacts the practitioner who issued the original prescription at the request of that individual to determine whether the practitioner will authorize the issuance of a new prescription for that individual for the controlled substance described in subparagraph (A); and
     - **(C)** the practitioner, acting in the usual course of professional practice, determines there is a legitimate medical purpose for the issuance of the new prescription.
-  - **(57)** The term “suspicious order” may include, but is not limited to—
+  - **(57)** 1 1 So in original. Two pars. (57) have been enacted. The term “suspicious order” may include, but is not limited to—
     - **(A)** an order of a controlled substance of unusual size;
     - **(B)** an order of a controlled substance deviating substantially from a normal pattern; and
     - **(C)** orders of controlled substances of unusual frequency.
-  - **(58)** The term “serious drug felony” means an offense described in section 924(e)(2) of title 18 for which—
+  - **(57)** 1 The term “serious drug felony” means an offense described in section 924(e)(2) of title 18 for which—
     - **(A)** the offender served a term of imprisonment of more than 12 months; and
     - **(B)** the offender’s release from any term of imprisonment was within 15 years of the commencement of the instant offense.
-  - **(59)** The term “serious violent felony” means—
+  - **(58)** The term “serious violent felony” means—
     - **(A)** an offense described in section 3559(c)(2) of title 18 for which the offender served a term of imprisonment of more than 12 months; and
     - **(B)** any offense that would be a felony violation of section 113 of title 18 , if the offense were committed in the special maritime and territorial jurisdiction of the United States, for which the offender served a term of imprisonment of more than 12 months.
-  - **(60)** The term “fentanyl-related substance” has the meaning given the term in subsection (e)(2) of schedule I of section 812(c) of this title .

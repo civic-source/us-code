@@ -3,9 +3,9 @@ title: "Section 9802 - Statement of policy"
 usc_title: 22
 usc_section: "9802"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 9802"
-generated_at: "2026-03-29T20:04:47.043Z"
+generated_at: "2026-03-29T20:33:00.217Z"
 ---
 
 # § 9802. Statement of policy

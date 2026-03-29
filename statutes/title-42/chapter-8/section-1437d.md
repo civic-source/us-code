@@ -3,9 +3,9 @@ title: "Section 1437d - Contract provisions and requirements; loans and annual c
 usc_title: 42
 usc_section: "1437d"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 1437d"
-generated_at: "2026-03-29T20:07:43.965Z"
+generated_at: "2026-03-29T20:34:53.339Z"
 ---
 
 # § 1437d. Contract provisions and requirements; loans and annual contributions
@@ -176,7 +176,7 @@ generated_at: "2026-03-29T20:07:43.965Z"
     - **(B)** not misused or improperly disseminated; and
     - **(C)** destroyed, once the purpose for which the record was requested has been accomplished.
   - **(5)** A public housing agency receiving information under this subsection may use such information only for the purposes provided in this subsection and such information may not be disclosed to any person who is not an officer, employee, or authorized representative of the agency and who has a job-related need to have access to the information in connection with admission of applicants, eviction of tenants, or termination of assistance. For judicial eviction proceedings, disclosures may be made to the extent necessary. The Secretary shall, by regulation, establish procedures necessary to ensure that information provided under this subsection to a public housing agency is used, and confidentiality of such information is maintained, as required under this subsection. The Secretary shall establish standards for confidentiality of information obtained under this subsection by public housing agencies on behalf of owners.
-  - **(6)** Any person who knowingly and willfully requests or obtains any information concerning an applicant for, or tenant of, covered housing assistance pursuant to the authority under this subsection under false pretenses, or any person who knowingly and willfully discloses any such information in any manner to any individual not entitled under any law to receive it, shall be guilty of a misdemeanor and fined not more than $5,000. The term “person” as used in this paragraph include 10 10 So in original. Probably should be “includes”. an officer, employee, or authorized representative of any public housing agency.
+  - **(6)** Any person who knowingly and willfully requests or obtains any information concerning an applicant for, or tenant of, covered housing assistance pursuant to the authority under this subsection under false pretenses, or any person who knowingly and willfully discloses any such information in any manner to any individual not entitled under any law to receive it, shall be guilty of a misdemeanor and fined not more than $5,000. The term “person” as used in this paragraph include 11 11 So in original. Probably should be “includes”. an officer, employee, or authorized representative of any public housing agency.
   - **(7)** Any applicant for, or tenant of, covered housing assistance affected by (A) a negligent or knowing disclosure of information referred to in this subsection about such person by an officer, employee, or authorized representative of any public housing agency, which disclosure is not authorized by this subsection, or (B) any other negligent or knowing action that is inconsistent with this subsection, may bring a civil action for damages and such other relief as may be appropriate against any public housing agency responsible for such unauthorized action. The district court of the United States in the district in which the affected applicant or tenant resides, in which such unauthorized action occurred, or in which the officer, employee, or representative alleged to be responsible for any such unauthorized action resides, shall have jurisdiction in such matters. Appropriate relief that may be ordered by such district courts shall include reasonable attorney’s fees and other litigation costs.
   - **(8)** For purposes of this subsection, the following definitions shall apply:
     - **(A)** The term “adult” means a person who is 18 years of age or older, or who has been convicted of a crime as an adult under any Federal, State, or tribal law.

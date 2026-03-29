@@ -1,0 +1,45 @@
+---
+title: "Section 2772 - Reports on financial balances for atomic energy defense activities"
+usc_title: 50
+usc_section: "2772"
+chapter: 42
+current_through: "PL 117-24"
+classification: "50 U.S.C. § 2772"
+generated_at: "2026-03-29T20:35:05.200Z"
+---
+
+# § 2772. Reports on financial balances for atomic energy defense activities
+
+- **(a)**
+  - **(1)** Concurrent with the submission of the budget justification materials submitted to Congress in support of the budget of the President for a fiscal year (submitted to Congress pursuant to section 1105(a) of title 31 ), the Secretary of Energy shall submit to the congressional defense committees a report on the financial balances for each atomic energy defense program.
+  - **(2)** In each report required by paragraph (1), the Secretary shall—
+    - **(A)** present information on the financial balances for each atomic energy defense program at the budget control levels used in the report accompanying the most current Act appropriating funds for energy and water development; and
+    - **(B)** present financial balances in connection with funding under recurring DOE national security authorizations (as defined in section 2741 of this title ) separately from balances in connection with funding under any other provision of law.
+- **(b)**
+  - **(1)** Each report required by subsection (a) shall—
+    - **(A)** be divided into two parts, as specified in paragraphs (2) and (3); and
+    - **(B)** set forth the information required by those paragraphs in summary form and by fiscal year.
+  - **(2)** The first part of the report required by subsection (a) shall set forth, for each atomic energy defense program, the following information, as of the end of the most recently completed fiscal year:
+    - **(A)** The balance of any unobligated funds and an explanation for why those funds are unobligated.
+    - **(B)** The total funds available to cost.
+    - **(C)** The total balance of costed funds.
+    - **(D)** The total balance of uncosted funds.
+    - **(E)** The threshold for the balance of uncosted funds, stated in dollars.
+    - **(F)** The amount of any balance of uncosted funds that is over or under that threshold and, in the case of a balance over that threshold, an explanation for why the balance is over that threshold.
+    - **(G)** The total balance of committed, uncosted funds.
+    - **(H)** The total balance of uncommitted, uncosted funds.
+    - **(I)** The amount of any balance of uncommitted, uncosted funds that is over or under the threshold described in subparagraph (E) and, in the case of a balance over that threshold, an explanation for why the balance is over that threshold.
+  - **(3)** The second part of the report required by subsection (a) shall set forth, for each atomic energy defense program, the following information:
+    - **(A)** The balance of any unobligated funds, as of the end of the first quarter of the current fiscal year.
+    - **(B)** The total balance of uncosted funds, as of the end of the first quarter of the current fiscal year.
+    - **(C)** Unalloted budget authority.
+- **(c)** In this section:
+  - **(1)** The term “committed”, with respect to funds, means the funds are associated with a legally enforceable agreement, such as a purchase order or contract, that has been entered into.
+  - **(2)** The term “costed”, with respect to funds, means the funds have been obligated to a contract and goods or services have been received by the contractor in exchange for the funds.
+  - **(3)** The term “uncommitted”, with respect to funds, means the funds are not committed.
+  - **(4)** The term “uncosted”, with respect to funds, means the funds have been obligated to a contract and goods or services have not been received by the contractor in exchange for the funds.
+  - **(5)** The term “threshold” means a benchmark over which a balance carried over at the end of a fiscal year should be given greater scrutiny by Congress.
+  - **(6)** The term “total funds available to cost” means the sum of—
+    - **(A)** total uncosted obligations from prior fiscal years;
+    - **(B)** current fiscal year obligations; and
+    - **(C)** current fiscal year deobligations.

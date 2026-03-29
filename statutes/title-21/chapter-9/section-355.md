@@ -3,9 +3,9 @@ title: "Section 355 - New drugs"
 usc_title: 21
 usc_section: "355"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "21 U.S.C. § 355"
-generated_at: "2026-03-29T20:04:50.416Z"
+generated_at: "2026-03-29T20:32:52.480Z"
 ---
 
 # § 355. New drugs
@@ -61,24 +61,6 @@ generated_at: "2026-03-29T20:04:50.416Z"
     - **(F)** No action by the reviewing division may be delayed because of the unavailability of information from or action by field personnel unless the reviewing division determines that a delay is necessary to assure the marketing of a safe and effective drug.
     - **(G)** For purposes of this paragraph, the reviewing division is the division responsible for the review of an application for approval of a drug under this subsection or section 262 of title 42 (including all scientific and medical matters, chemistry, manufacturing, and controls).
   - **(6)** An application submitted under this subsection shall be accompanied by the certification required under section 282(j)(5)(B) of title 42 . Such certification shall not be considered an element of such application.
-  - **(7)**
-    - **(A)** Any person planning to submit an application for an Rx-to-nonprescription switch may submit to the Secretary a written request for a meeting, for purposes of developing a plan for such application that addresses the potential risks to public health of such switch and the evidence necessary to support such application, including the design of any necessary studies, and the format and content of the planned application. The Secretary may grant such a meeting, as appropriate, consistent with established procedures for granting meetings with, and providing written responses to, applications under this section. Each such meeting shall be documented in meeting minutes.
-    - **(B)**
-      - **(i)** Not later than 18 months after November 12, 2025 , the Secretary shall issue guidance to increase the clarity and predictability of the process and standards for approval of applications for nonprescription drugs under this section, including in the case of applications for an Rx-to-nonprescription switch, especially with respect to prescription drugs with well-established safety profiles for which an applicant may seek approval for nonprescription use.
-      - **(ii)** The guidance under clause (i) shall—
-        - **(I)** describe how published reports in medical literature, any previous finding of safety or effectiveness for the drug under this section, the results of significant human experience with the drug, unpublished studies and other data, and other sources of information may be used to support an application for a nonprescription drug, including in the context of an application for an Rx-to-nonprescription switch;
-        - **(II)** set forth procedures for sponsors to request meetings described in subparagraph (A) and document the recommendations made in such meetings;
-        - **(III)** describe evidentiary expectations to support approval of an application for a nonprescription drug, including in the context of an application for an Rx-to-nonprescription switch, including how sponsors can demonstrate that consumers can appropriately self-select and use the drug and comprehend the nonprescription drug label; and
-        - **(IV)** provide recommendations for how mechanisms, in addition to the required Drug Facts Label, such as mobile applications and decisions aids, can be incorporated into the information submitted in support of an application for an Rx-to-nonprescription switch.
-    - **(C)** Not later than 1 year after November 12, 2025 , the Secretary shall develop and make publicly available on the website of the Food and Drug Administration a plan to engage stakeholders on steps and factors for application holders and other stakeholders to consider in identifying approved prescription drugs that may be promising candidates for applications for an Rx-to-nonprescription switch.
-    - **(D)** For purposes of this paragraph, the term “Rx-to-nonprescription switch” means the approval of an application, or supplemental application, as applicable, submitted under this section by the holder of an approved application for a prescription drug seeking approval to market such drug as a nonprescription drug, including for—
-      - **(i)** a full Rx-to-nonprescription switch, under which a drug previously approved for prescription use only is—
-        - **(I)** approved for nonprescription use under the same conditions as applied to the drug when approved for prescription use; or
-        - **(II)** approved for nonprescription use subject to one or more additional conditions for nonprescription use; and
-      - **(ii)** a partial Rx-to-nonprescription switch, under which the drug is approved for nonprescription use only under certain conditions described in the approved labeling, while the drug otherwise remains approved for prescription use only.
-    - **(E)** Nothing in this paragraph shall be construed to—
-      - **(i)** supersede or modify the authority of the Secretary under section 355h of this title with respect to the regulation of OTC monograph drugs; or
-      - **(ii)** authorize the disclosure by the Secretary of confidential commercial information or trade secrets.
 - **(c)**
   - **(1)** Within one hundred and eighty days after the filing of an application under subsection (b), or such additional period as may be agreed upon by the Secretary and the applicant, the Secretary shall either—
     - **(A)** approve the application if he then finds that none of the grounds for denying approval specified in subsection (d) applies, or
@@ -132,13 +114,13 @@ generated_at: "2026-03-29T20:04:50.416Z"
 - **(h)** An appeal may be taken by the applicant from an order of the Secretary refusing or withdrawing approval of an application under this section. Such appeal shall be taken by filing in the United States court of appeals for the circuit wherein such applicant resides or has his principal place of business, or in the United States Court of Appeals for the District of Columbia Circuit, within sixty days after the entry of such order, a written petition praying that the order of the Secretary be set aside. A copy of such petition shall be forthwith transmitted by the clerk of the court to the Secretary, or any officer designated by him for that purpose, and thereupon the Secretary shall certify and file in the court the record upon which the order complained of was entered, as provided in section 2112 of title 28 . Upon the filing of such petition such court shall have exclusive jurisdiction to affirm or set aside such order, except that until the filing of the record the Secretary may modify or set aside his order. No objection to the order of the Secretary shall be considered by the court unless such objection shall have been urged before the Secretary or unless there were reasonable grounds for failure so to do. The finding of the Secretary as to the facts, if supported by substantial evidence, shall be conclusive. If any person shall apply to the court for leave to adduce additional evidence, and shall show to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for failure to adduce such evidence in the proceeding before the Secretary, the court may order such additional evidence to be taken before the Secretary and to be adduced upon the hearing in such manner and upon such terms and conditions as to the court may seem proper. The Secretary may modify his findings as to the facts by reason of the additional evidence so taken, and he shall file with the court such modified findings which, if supported by substantial evidence, shall be conclusive, and his recommendation, if any, for the setting aside of the original order. The judgment of the court affirming or setting aside any such order of the Secretary shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28 . The commencement of proceedings under this subsection shall not, unless specifically ordered by the court to the contrary, operate as a stay of the Secretary’s order.
 - **(i)**
   - **(1)** The Secretary shall promulgate regulations for exempting from the operation of the foregoing subsections of this section drugs intended solely for investigational use by experts qualified by scientific training and experience to investigate the safety and effectiveness of drugs. Such regulations may, within the discretion of the Secretary, among other conditions relating to the protection of the public health, provide for conditioning such exemption upon—
-    - **(A)** the submission to the Secretary, before any clinical testing of a new drug is undertaken, of reports, by the manufacturer or the sponsor of the investigation of such drug, of nonclinical tests of such drug adequate to justify the proposed clinical testing;
+    - **(A)** the submission to the Secretary, before any clinical testing of a new drug is undertaken, of reports, by the manufacturer or the sponsor of the investigation of such drug, of preclinical tests (including tests on animals) of such drug adequate to justify the proposed clinical testing;
     - **(B)** the manufacturer or the sponsor of the investigation of a new drug proposed to be distributed to investigators for clinical testing obtaining a signed agreement from each of such investigators that patients to whom the drug is administered will be under his personal supervision, or under the supervision of investigators responsible to him, and that he will not supply such drug to any other investigator, or to clinics, for administration to human beings;
     - **(C)** the establishment and maintenance of such records, and the making of such reports to the Secretary, by the manufacturer or the sponsor of the investigation of such drug, of data (including but not limited to analytical reports by investigators) obtained as the result of such investigational use of such drug, as the Secretary finds will enable him to evaluate the safety and effectiveness of such drug in the event of the filing of an application pursuant to subsection (b); and
     - **(D)** the submission to the Secretary by the manufacturer or the sponsor of the investigation of a new drug of a statement of intent regarding whether the manufacturer or sponsor has plans for assessing pediatric safety and efficacy.
   - **(2)** Subject to paragraph (3), a clinical investigation of a new drug may begin 30 days after the Secretary has received from the manufacturer or sponsor of the investigation a submission containing such information about the drug and the clinical investigation, including—
     - **(A)** information on design of the investigation and adequate reports of basic information, certified by the applicant to be accurate reports, necessary to assess the safety of the drug for use in clinical investigation; and
-    - **(B)** adequate information on the chemistry and manufacturing of the drug, controls available for the drug, and primary data tabulations from nonclinical tests or human studies.
+    - **(B)** adequate information on the chemistry and manufacturing of the drug, controls available for the drug, and primary data tabulations from animal or human studies.
   - **(3)**
     - **(A)** At any time, the Secretary may prohibit the sponsor of an investigation from conducting the investigation (referred to in this paragraph as a “clinical hold”) if the Secretary makes a determination described in subparagraph (B). The Secretary shall specify the basis for the clinical hold, including the specific information available to the Secretary which served as the basis for such clinical hold, and confirm such determination in writing.
     - **(B)** For purposes of subparagraph (A), a determination described in this subparagraph with respect to a clinical hold is that—
@@ -277,9 +259,6 @@ generated_at: "2026-03-29T20:04:50.416Z"
         - **(V)** section 355f of this title ;
         - **(VI)** section 360cc(a) of this title ; or
         - **(VII)** subsection (u).
-      - **(v)**
-        - **(I)** With respect to an application submitted pursuant to subsection (b)(2) for a drug that is subject to section 353(b) of this title for which the sole difference from a listed drug relied upon in the application is a difference in inactive ingredients not permitted under clause (iii) or (iv) of section 314.94(a)(9) of title 21, Code of Federal Regulations (or any successor regulations), the Secretary shall make an evaluation with respect to whether such drug is a therapeutic equivalent (as defined in section 314.3 of title 21, Code of Federal Regulations (or any successor regulations)) to another approved drug product in the prescription drug product section of the list under this paragraph as follows:
-        - **(II)** When the Secretary makes an evaluation under subclause (I), the Secretary shall, in revisions made to the list pursuant to clause (ii), include such information for such drug.
     - **(B)** A drug approved for safety and effectiveness under subsection (c) or approved under this subsection shall, for purposes of this subsection, be considered to have been published under subparagraph (A) on the date of its approval or September 24, 1984 , which­ever is later.
     - **(C)** If the approval of a drug was withdrawn or suspended for grounds described in the first sentence of subsection (e) or was withdrawn or suspended under paragraph (6) or if the Secretary determines that a drug has been withdrawn from sale for safety or effectiveness reasons, it may not be published in the list under subparagraph (A) or, if the withdrawal or suspension occurred after its publication in such list, it shall be immediately removed from such list—
       - **(i)** for the same period as the withdrawal or suspension under subsection (e) or paragraph (6), or
@@ -303,9 +282,9 @@ generated_at: "2026-03-29T20:04:50.416Z"
     - **(D)** the name of each person to whom the bioequivalence review for such application was assigned and the date of such assignment.
   - **(10)**
     - **(A)** If the proposed labeling of a drug that is the subject of an application under this subsection differs from the listed drug due to a labeling revision described under clause (i), the drug that is the subject of such application shall, notwithstanding any other provision of this chapter, be eligible for approval and shall not be considered misbranded under section 352 of this title if—
-      - **(i)** a revision to the labeling of the listed drug has been approved by the Secretary within 90 days of when the application is otherwise eligible for approval under this subsection;
-      - **(ii)** the sponsor of the application agrees to submit revised labeling for the drug that is the subject of the application not later than 60 days after approval under this subsection of the application;
-      - **(iii)** the labeling revision described under clause (i) does not include a change to the “Warnings” section of the labeling; and
+      - **(i)** the application is otherwise eligible for approval under this subsection but for expiration of patent, an exclusivity period, or of a delay in approval described in paragraph (5)(B)(iii), and a revision to the labeling of the listed drug has been approved by the Secretary within 60 days of such expiration;
+      - **(ii)** the labeling revision described under clause (i) does not include a change to the “Warnings” section of the labeling;
+      - **(iii)** the sponsor of the application under this subsection agrees to submit revised labeling of the drug that is the subject of such application not later than 60 days after the notification of any changes to such labeling required by the Secretary; and
       - **(iv)** such application otherwise meets the applicable requirements for approval under this subsection.
     - **(B)** If, after a labeling revision described in subparagraph (A)(i), the Secretary determines that the continued presence in interstate commerce of the labeling of the listed drug (as in effect before the revision described in subparagraph (A)(i)) adversely impacts the safe use of the drug, no application under this subsection shall be eligible for approval with such labeling.
   - **(11)**
@@ -562,7 +541,7 @@ generated_at: "2026-03-29T20:04:50.416Z"
       - **(i)** the single enantiomer has not been previously approved except in the approved racemic drug; and
       - **(ii)** the application submitted under subsection (b) for such non-racemic drug—
         - **(I)** includes full reports of new clinical investigations (other than bioavailability studies)—
-        - **(II)** does not rely on any clinical investigations (other than bioavailability studies) that are part of an application submitted under subsection (b) for approval of the approved racemic drug; and
+        - **(II)** does not rely on any clinical investigations that are part of an application submitted under subsection (b) for approval of the approved racemic drug; and
     - **(B)** the application submitted under subsection (b) for such non-racemic drug is not submitted for approval of a condition of use—
       - **(i)** in a therapeutic category in which the approved racemic drug has been approved; or
       - **(ii)** for which any other enantiomer of the racemic drug has been approved.
@@ -572,7 +551,7 @@ generated_at: "2026-03-29T20:04:50.416Z"
   - **(3)**
     - **(A)** For purposes of this subsection, the term “therapeutic category” means a therapeutic category identified in the list developed by the United States Pharmacopeia pursuant to section 1395w–104(b)(3)(C)(ii) of title 42 and as in effect on September 27, 2007 .
     - **(B)** The Secretary shall publish the list described in subparagraph (A) and may amend such list by regulation.
-  - **(4)** The election referred to in paragraph (1) may be made only in an application that is submitted to the Secretary after September 27, 2007 , and before October 1, 2027 .
+  - **(4)** The election referred to in paragraph (1) may be made only in an application that is submitted to the Secretary after September 27, 2007 , and before October 1, 2022 .
 - **(v)**
   - **(1)**
     - **(A)** Notwithstanding any provision of the Food and Drug Administration Modernization Act of 1997 or any other provision of law, a sponsor of a drug that is the subject of an application described in subparagraph (B)(i) shall be eligible for, with respect to the drug, the 3-year exclusivity period referred to under clauses (iii) and (iv) of subsection (c)(3)(E) and under clauses (iii) and (iv) of subsection (j)(5)(F), subject to the requirements of such clauses, as applicable.
@@ -606,20 +585,3 @@ generated_at: "2026-03-29T20:04:50.416Z"
   - **(3)** For purposes of this subsection—
     - **(A)** the term “new use” means a use of a contrast agent that is described in the approved labeling of an applicable medical imaging device described in section 360j(p) of this title , but that is not described in the approved labeling of the contrast agent; and
     - **(B)** the terms “applicable medical imaging device” and “contrast agent” have the meanings given such terms in section 360j(p) of this title .
-- **(z)** For purposes of this section, the term “nonclinical test” means a test conducted in vitro, in silico, or in chemico, or a nonhuman in vivo test, that occurs before or during the clinical trial phase of the investigation of the safety and effectiveness of a drug. Such test may include the following:
-  - **(1)** Cell-based assays.
-  - **(2)** Organ chips and microphysiological systems.
-  - **(3)** Computer modeling.
-  - **(4)** Other nonhuman or human biology-based test methods, such as bioprinting.
-  - **(5)** Animal tests.
-- **(z)**
-  - **(1)** With respect to a clinical investigation of a new drug that is a phase 3 study, as defined in section 312.21(c) of title 21, Code of Federal Regulations (or successor regulations), or, as appropriate, another pivotal study of a new drug (other than bioavailability or bioequivalence studies), the sponsor of such drug shall submit to the Secretary a diversity action plan.
-  - **(2)** Such diversity action plan shall include—
-    - **(A)** the sponsor’s goals for enrollment in such clinical study;
-    - **(B)** the sponsor’s rationale for such goals; and
-    - **(C)** an explanation of how the sponsor intends to meet such goals.
-  - **(3)** The sponsor shall submit to the Secretary such diversity action plan, in the form and manner specified by the Secretary in guidance, as soon as practicable but not later than the date on which the sponsor submits the protocol to the Secretary for such a phase 3 study or other pivotal study of the drug. The sponsor may submit modifications to the diversity action plan. Any such modifications shall be in the form and manner specified by the Secretary in guidance.
-  - **(4)**
-    - **(A)** On the initiative of the Secretary or at the request of a sponsor, the Secretary may waive any requirement in paragraph (1), (2), or (3) if the Secretary determines that a waiver is necessary based on what is known or what can be determined about the prevalence or incidence of the disease or condition for which the new drug is under investigation (including in terms of the patient population that may use the drug), if conducting a clinical investigation in accordance with a diversity action plan would otherwise be impracticable, or if such waiver is necessary to protect public health during a public health emergency.
-    - **(B)** The Secretary shall issue a written response granting or denying a request from a sponsor for a waiver within 60 days of receiving such request.
-  - **(5)** No diversity action plan shall be required for a submission described in section 360bbb of this title .

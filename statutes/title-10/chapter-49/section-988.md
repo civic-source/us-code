@@ -3,9 +3,9 @@ title: "Section 988 - Prohibition on ownership or trading of stocks in certain c
 usc_title: 10
 usc_section: "988"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 988"
-generated_at: "2026-03-29T20:03:09.533Z"
+generated_at: "2026-03-29T20:31:54.469Z"
 ---
 
 # § 988. Prohibition on ownership or trading of stocks in certain companies by certain officials of the Department of Defense
@@ -20,4 +20,4 @@ generated_at: "2026-03-29T20:03:09.533Z"
     - **(B)** If serving in a key acquisition position (as designated by the Secretary of Defense or the Secretary concerned for purposes of this section), the following:
       - **(i)** A member of the armed forces in a grade above O–6.
       - **(ii)** A civilian officer or employee in a Senior Executive Service, Senior-Level, or Scientific or Professional position.
-  - **(2)** The term “Excepted Investment Fund” means a widely-held investment fund described in section 102(f)(8) of the Ethics in Government Act of 1978 (5 U.S.C. App.). 1 1 See References in Text note below.
+  - **(2)** The term “Excepted Investment Fund” means a widely-held investment fund described in section 102(f)(8) of the Ethics in Government Act of 1978 (5 U.S.C. App.).

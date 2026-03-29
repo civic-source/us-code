@@ -3,9 +3,9 @@ title: "Section 2905 - Certification of organizations to nominate"
 usc_title: 7
 usc_section: "2905"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 2905"
-generated_at: "2026-03-29T20:02:52.672Z"
+generated_at: "2026-03-29T20:31:42.121Z"
 ---
 
 # § 2905. Certification of organizations to nominate

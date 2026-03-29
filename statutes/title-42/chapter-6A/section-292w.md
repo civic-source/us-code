@@ -3,9 +3,9 @@ title: "Section 292w - Procedures for appeal of termination of agreements"
 usc_title: 42
 usc_section: "292w"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 292w"
-generated_at: "2026-03-29T20:07:43.168Z"
+generated_at: "2026-03-29T20:34:52.698Z"
 ---
 
 # § 292w. Procedures for appeal of termination of agreements

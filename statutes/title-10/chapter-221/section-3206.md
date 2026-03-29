@@ -3,9 +3,9 @@ title: "Section 3206 - Planning and solicitation requirements"
 usc_title: 10
 usc_section: "3206"
 chapter: 221
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 3206"
-generated_at: "2026-03-29T20:03:09.752Z"
+generated_at: "2026-03-29T20:31:54.669Z"
 ---
 
 # § 3206. Planning and solicitation requirements
@@ -14,14 +14,14 @@ generated_at: "2026-03-29T20:03:09.752Z"
   - **(1)** In preparing for the procurement of property or services, the head of an agency shall—
     - **(A)** specify the agency’s needs and solicit bids or proposals in a manner designed to achieve full and open competition for the procurement;
     - **(B)** use advance procurement planning and market research; and
-    - **(C)** develop specifications in such manner as is necessary to obtain full and open competition with due regard to the nature of the property or services to be acquired.
+    - **(C)** 1 1 Amendment by section 1811(e)(3)(E)(ii) executed to reflect the probable intent of Congress. develop specifications in such manner as is necessary to obtain full and open competition with due regard to the nature of the property or services to be acquired.
   - **(2)** Each solicitation under chapter 137 legacy provisions shall include specifications which—
     - **(A)** consistent with the provisions of chapter 137 legacy provisions, permit full and open competition; and
     - **(B)** include restrictive provisions or conditions only to the extent necessary to satisfy the needs of the agency or as authorized by law.
-  - **(3)** For the purposes of paragraphs (1) and (2), the type of specification included in a solicitation shall depend on the nature of the needs of the agency and the market available to satisfy such needs. Subject to such needs, specifications may be stated in terms of—
+  - **(3)** For the purposes of subparagraphs (A) and (B), the type of specification included in a solicitation shall depend on the nature of the needs of the agency and the market available to satisfy such needs. Subject to such needs, specifications may be stated in terms of—
     - **(A)** function, so that a variety of products or services may qualify;
     - **(B)** performance, including specifications of the range of acceptable characteristics or of the minimum acceptable standards; or
-    - **(C)** design requirements.
+    - **(C)** 2 2 Amendment by section 1811(e)(3)(C)(ii) executed to reflect the probable intent of Congress. design requirements.
 - **(b)** In addition to the specifications described in subsection (a), a solicitation for sealed bids or competitive proposals (other than for a procurement for commercial products or commercial services using special simplified procedures or a purchase for an amount not greater than the simplified acquisition threshold) shall at a minimum include—
   - **(1)** a statement of—
     - **(A)** all significant factors and significant subfactors which the head of the agency reasonably expects to consider in evaluating sealed bids (including price) or competitive proposals (including cost or price, cost-related or price-related factors and subfactors, and noncost-related or nonprice-related factors and subfactors); and

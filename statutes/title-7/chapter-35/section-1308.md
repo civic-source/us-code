@@ -3,9 +3,9 @@ title: "Section 1308 - Payment limitations"
 usc_title: 7
 usc_section: "1308"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 1308"
-generated_at: "2026-03-29T20:02:52.478Z"
+generated_at: "2026-03-29T20:31:41.953Z"
 ---
 
 # § 1308. Payment limitations
@@ -17,15 +17,10 @@ generated_at: "2026-03-29T20:02:52.478Z"
     - **(A)** owns land or an agricultural commodity; or
     - **(B)** produces an agricultural commodity.
   - **(4)** The term “person” means a natural person, and does not include a legal entity.
-  - **(5)** The term “qualified pass-through entity” means—
-    - **(A)** a partnership (within the meaning of subchapter K of chapter 1 of the Internal Revenue Code of 1986 [ 26 U.S.C. 701 et seq.]);
-    - **(B)** an S corporation (as defined in section 1361 of that Code);
-    - **(C)** a limited liability company that does not affirmatively elect to be treated as a corporation; and
-    - **(D)** a joint venture or general partnership.
-  - **(6)** The term “Secretary” means the Secretary of Agriculture.
-- **(b)** Subject to subsection (i), the total amount of payments received, directly or indirectly, by a person or legal entity (except a qualified pass-through entity) for any crop year under sections 1116 and 1117 of the Agricultural Act of 2014 ( 7 U.S.C. 9016 , 9017) (other than for peanuts) may not exceed $155,000.
-- **(c)** Subject to subsection (i), the total amount of payments received, directly or indirectly, by a person or legal entity (except a qualified pass-through entity) for any crop year under sections 1116 and 1117 of the Agricultural Act of 2014 ( 7 U.S.C. 9016 , 9017) for peanuts may not exceed $155,000.
-- **(d)** Nothing in this section authorizes any limitation on any benefit associated with the forfeiture of a commodity pledged as collateral for a loan made available under title I of the Agricultural Act of 2014 [ 7 U.S.C. 9001 et seq.].
+  - **(5)** The term “Secretary” means the Secretary of Agriculture.
+- **(b)** The total amount of payments received, directly or indirectly, by a person or legal entity (except a joint venture or general partnership) for any crop year under sections 1116 and 1117 of the Agricultural Act of 2014 ( 7 U.S.C. 9016 , 9017) (other than for peanuts) may not exceed $125,000.
+- **(c)** The total amount of payments received, directly or indirectly, by a person or legal entity (except a joint venture or general partnership) for any crop year under sections 1116 and 1117 of the Agricultural Act of 2014 ( 7 U.S.C. 9016 , 9017) for peanuts may not exceed $125,000.
+- **(d)** Nothing in this section authorizes any limitation on any benefit associated with the forfeiture of a commodity pledged as collateral for a loan made available under subtitle B of title I of the Agricultural Act of 2014 [ 7 U.S.C. 9031 et seq.] or title I of the Agricultural Act of 2014 [ 7 U.S.C. 9001 et seq.].
 - **(e)**
   - **(1)** In implementing subsections (b) and (c) and a program described in paragraphs (1)(C) and (2)(B) of section 1308–3a(b) 1 1 See References in Text note below. of this title, the Secretary shall issue such regulations as are necessary to ensure that the total amount of payments are attributed to a person by taking into account the direct and indirect ownership interests of the person in a legal entity that is eligible to receive the payments.
   - **(2)** Each payment made directly to a person shall be combined with the pro rata interest of the person in payments received by a legal entity in which the person has a direct or indirect ownership interest unless the payments of the legal entity have been reduced by the pro rata share of the person.
@@ -33,7 +28,7 @@ generated_at: "2026-03-29T20:02:52.478Z"
     - **(A)** Each payment made to a legal entity shall be attributed to those persons who have a direct or indirect ownership interest in the legal entity unless the payment to the legal entity has been reduced by the pro rata share of the person.
     - **(B)**
       - **(i)** Except as provided in clause (ii), payments made to a legal entity shall not exceed the amounts specified in subsections (b) and (c).
-      - **(ii)** Payments made to a qualified pass-through entity shall not exceed, for each payment specified in subsections (b) and (c), the amount determined by multiplying the maximum payment amount specified in subsections (b) and (c) by the number of persons and legal entities (other than qualified pass-through entities) that comprise the ownership of the qualified pass-through entity.
+      - **(ii)** Payments made to a joint venture or a general partnership shall not exceed, for each payment specified in subsections (b) and (c), the amount determined by multiplying the maximum payment amount specified in subsections (b) and (c) by the number of persons and legal entities (other than joint ventures and general partnerships) that comprise the ownership of the joint venture or general partnership.
       - **(iii)** Payments made to a legal entity shall be reduced proportionately by an amount that represents the direct or indirect ownership in the legal entity by any person or legal entity that has otherwise exceeded the applicable maximum payment limitation.
   - **(4)**
     - **(A)** Attribution of payments made to legal entities shall be traced through 4 levels of ownership in legal entities.
@@ -84,4 +79,3 @@ generated_at: "2026-03-29T20:02:52.478Z"
     - **(A)** For each State, the total amount of payments described in subsections (b) and (c) that are received collectively by the State and local government and all political subdivisions or agencies of those governments shall not exceed $500,000.
     - **(B)** The limitation in subparagraph (A) shall not apply to States with a population of less than 1,500,000.
 - **(h)** Regulations of the Secretary shall establish time limits for the various steps involved with notice, hearing, decision, and the appeals procedure in order to ensure expeditious handling and settlement of payment limitation disputes. Notwithstanding any other provision of law, actions taken by an individual or other entity in good faith on action or advice of an authorized representative of the Secretary may be accepted as meeting the requirement under this section or section 1308–1 of this title , to the extent the Secretary deems it desirable in order to provide fair and equitable treatment.
-- **(i)** For the 2025 crop year and each crop year thereafter, the Secretary shall annually adjust the amounts described in subsections (b) and (c) for inflation based on the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.

@@ -3,9 +3,9 @@ title: "Section 18031 - Affordable choices of health benefit plans"
 usc_title: 42
 usc_section: "18031"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 18031"
-generated_at: "2026-03-29T20:07:44.981Z"
+generated_at: "2026-03-29T20:34:54.302Z"
 ---
 
 # § 18031. Affordable choices of health benefit plans
@@ -110,7 +110,7 @@ generated_at: "2026-03-29T20:07:44.981Z"
       - **(i)** on the basis that such plan is a fee-for-service plan;
       - **(ii)** through the imposition of premium price controls; or
       - **(iii)** on the basis that the plan provides treatments necessary to prevent patients’ deaths in circumstances the Exchange determines are inappropriate or too costly.
-  - **(2)** The Exchange shall require health plans seeking certification as qualified health plans to submit a justification for any premium increase prior to implementation of the increase. Such plans shall prominently post such information on their websites. The Exchange shall take this information, and the information and the recommendations provided to the Exchange by the State under section 2794(b)(1) of the Public Health Service Act [ 42 U.S.C. 300gg–94(b)(1) ] (relating to patterns or practices of excessive or unjustified premium increases), into consideration when determining whether to make such health plan available through the Exchange. The Exchange shall take into account any excess of premium growth outside the Exchange as compared to the rate of such growth inside the Exchange, including information reported by the States.
+  - **(2)** The Exchange shall require health plans seeking certification as qualified health plans to submit a justification for any premium increase prior to implementation of the increase. Such plans shall prominently post such information on their websites. The Exchange shall take this information, and the information and the recommendations provided to the Exchange by the State under section 2794(b)(1) 1 of the Public Health Service Act [ 42 U.S.C. 300gg–94(b)(1) ] (relating to patterns or practices of excessive or unjustified premium increases), into consideration when determining whether to make such health plan available through the Exchange. The Exchange shall take into account any excess of premium growth outside the Exchange as compared to the rate of such growth inside the Exchange, including information reported by the States.
   - **(3)**
     - **(A)** The Exchange shall require health plans seeking certification as qualified health plans to submit to the Exchange, the Secretary, the State insurance commissioner, and make available to the public, accurate and timely disclosure of the following information:
       - **(i)** Claims payment policies and practices.

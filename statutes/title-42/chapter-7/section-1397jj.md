@@ -3,9 +3,9 @@ title: "Section 1397jj - Definitions"
 usc_title: 42
 usc_section: "1397jj"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 1397jj"
-generated_at: "2026-03-29T20:07:43.954Z"
+generated_at: "2026-03-29T20:34:53.330Z"
 ---
 
 # § 1397jj. Definitions
@@ -53,7 +53,7 @@ generated_at: "2026-03-29T20:07:43.954Z"
         - **(III)** who resides in a State that does not have a medicaid applicable income level (as defined in paragraph (4)); and
     - **(C)** who is not found to be eligible for medical assistance under subchapter XIX or, subject to paragraph (5), covered under a group health plan or under health insurance coverage (as such terms are defined in section 300gg–91 of this title ).
   - **(2)** Such term does not include—
-    - **(A)** except as provided in paragraph (7), a child who is an inmate of a public institution or a patient in an institution for mental diseases; or
+    - **(A)** a child who is an inmate of a public institution or a patient in an institution for mental diseases; or
     - **(B)** except as provided in paragraph (6), a child who is a member of a family that is eligible for health benefits coverage under a State health benefits plan on the basis of a family member’s employment with a public agency in the State.
   - **(3)** A child shall not be considered to be described in paragraph (1)(C) notwithstanding that the child is covered under a health insurance coverage program that has been in operation since before July 1, 1997 , and that is offered by a State which receives no Federal funds for the program’s operation.
   - **(4)** The term “medicaid applicable income level” means, with respect to a child, the effective income level (expressed as a percent of the poverty line) that has been specified under the State plan under subchapter XIX (including under a waiver authorized by the Secretary or under section 1396a(r)(2) of this title ), as of March 31, 1997 , for the child to be eligible for medical assistance under section 1396a( l )(2) or 1396d(n)(2) of this title (as selected by a State) for the age of such child.
@@ -74,7 +74,6 @@ generated_at: "2026-03-29T20:07:43.954Z"
       - **(ii)** subparagraph (C) applies to such child.
     - **(B)** For purposes of subparagraph (A)(i), a public agency satisfies this subparagraph if the amount of annual agency expenditures made on behalf of employees enrolled in health coverage paid for by the agency that includes dependent coverage for the most recent State fiscal year is not less than the amount of such expenditures made by the agency for the 1997 State fiscal year, increased by the percentage increase in the medical care expenditure category of the Consumer Price Index for All-Urban Consumers (all items: U.S. City Average) for such preceding fiscal year.
     - **(C)** For purposes of subparagraph (A)(ii), this subparagraph applies to a child if the State determines that the annual aggregate amount of premiums and cost-sharing imposed for coverage of the family of the child would exceed 5 percent of such family’s income for the year involved.
-  - **(7)** In the case of a child who is an inmate of a public institution, during the 30 days prior to the release of the child from such institution the child shall not be considered to be described in paragraph (2)(A) with respect to the screenings, diagnostic services, referrals, and case management services otherwise covered under the State child health plan (or waiver of such plan) that the State is required to provide under section 1397bb(d)(2) of this title . At the option of the State, a child who is an inmate of a public institution shall not be considered to be described in paragraph (2)(A) during the period that the child is an inmate of such institution pending disposition of charges.
 - **(c)** For purposes of this subchapter:
   - **(1)** The term “child” means an individual under 19 years of age.
   - **(2)** The term “creditable health coverage” has the meaning given the term “creditable coverage” under section 2701(c) 2 2 See References in Text note below. of the Public Health Service Act ( 42 U.S.C. 300gg(c) ) and includes coverage that meets the requirements of section 1397cc of this title provided to a targeted low-income child under this subchapter or under a waiver approved under section 1397ee(c)(2)(B) of this title (relating to a direct service waiver).

@@ -3,9 +3,9 @@ title: "Section 100901 - Authority of Secretary to carry out certain activities"
 usc_title: 54
 usc_section: "100901"
 chapter: 1009
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "54 U.S.C. § 100901"
-generated_at: "2026-03-29T20:08:14.608Z"
+generated_at: "2026-03-29T20:35:14.749Z"
 ---
 
 # § 100901. Authority of Secretary to carry out certain activities

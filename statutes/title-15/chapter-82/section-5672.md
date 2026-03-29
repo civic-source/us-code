@@ -3,9 +3,9 @@ title: "Section 5672 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 S
 usc_title: 15
 usc_section: "5672"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 5672"
-generated_at: "2026-03-29T20:03:27.619Z"
+generated_at: "2026-03-29T20:32:10.042Z"
 ---
 
 # §§ 5671, 5672. Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 Stat. 3444

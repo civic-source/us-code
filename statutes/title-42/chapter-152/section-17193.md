@@ -3,9 +3,9 @@ title: "Section 17193 - General geothermal systems research and development"
 usc_title: 42
 usc_section: "17193"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 17193"
-generated_at: "2026-03-29T20:07:44.950Z"
+generated_at: "2026-03-29T20:34:54.273Z"
 ---
 
 # § 17193. General geothermal systems research and development
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T20:07:44.950Z"
   - **(1)** support a program of research, development, demonstration, and commercial application of technologies and practices designed to mitigate or preclude potential adverse environmental impacts of geothermal energy development, production or use;
   - **(2)** support a research program to identify potential environmental impacts, including induced seismicity, and environmental benefits of geothermal energy development, production, and use, and ensure that the program described in paragraph (1) addresses such impacts, including water use and effects on groundwater and local hydrology;
   - **(3)** support a program of research to compare the potential environmental impacts and environmental benefits identified as part of the development, production, and use of geothermal energy with the potential emission reductions of greenhouse gases gained by geothermal energy development, production, and use; and
-  - **(4)** in carrying out this section, the Secretary shall, 1 1 So in original. The words “The Secretary shall” appear in introductory provisions. to the maximum extent practicable, consult with relevant federal agencies, including the Environmental Protection Agency.
+  - **(4)** in carrying out this section, the Secretary shall, 1 1 So in original. to the maximum extent practicable, consult with relevant federal agencies, including the Environmental Protection Agency.
 - **(c)** The Secretary shall support a program of research, development, and demonstration of reservoir thermal energy storage, emphasizing cost-effective improvements through deep direct use engineering, design, and systems research.
 - **(d)**
   - **(1)** The Secretary shall support an initiative among the Office of Fossil Energy, the Office of Energy Efficiency and Renewable Energy, and the private sector to research, develop, and demonstrate relevant advanced technologies and operation techniques used in the oil and gas sector for use in geothermal energy development.

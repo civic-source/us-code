@@ -3,9 +3,9 @@ title: "Section 5545 - House Services Revolving Fund"
 usc_title: 2
 usc_section: "5545"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "2 U.S.C. § 5545"
-generated_at: "2026-03-29T20:02:11.355Z"
+generated_at: "2026-03-29T20:31:22.567Z"
 ---
 
 # § 5545. House Services Revolving Fund
@@ -18,9 +18,7 @@ generated_at: "2026-03-29T20:02:11.355Z"
   - **(5)** The payment of fees for the use of the exercise facility described in section 103(a). 1 1 See References in Text note below.
   - **(6)** The collection of promotional rebates and incentives on credit card purchases, balances, and payments.
   - **(7)** The collection of a service fee from vendors of the Master Web Services Agreement or the Technology Services Contract for failure to abide by and maintain House of Representatives security policies.
-  - **(8)** The operation of the House Dry Cleaning and Laundry Service.
-  - **(9)** Other activities related to the operation of services offered by the House of Representatives, as approved by the Committee on Appropriations of the House of Representatives.
-- **(b)** Amounts in the Revolving Funds 2 2 So in original. Probably should be “Fund”. shall be used for any purpose designated by the Chief Administrative Officer, including purposes relating to energy and water conservation and environmental activities carried out in buildings, facilities, and grounds under the Chief Administrative Officer’s jurisdiction, upon notification provided by the Chief Administrative Officer to the Committee on Appropriations of the House of Representatives.
+- **(b)** Amounts in the Revolving Funds 2 2 So in original. Probably should be “Fund”. shall be used for any purpose designated by the Chief Administrative Officer, including purposes relating to energy and water conservation and environmental activities carried out in buildings, facilities, and grounds under the Chief Administrative Officer’s jurisdiction, which is approved by the Committee on Appropriations of the House of Representatives.
 - **(c)** The Revolving Fund shall be treated as a category of allowances and expenses for purposes of section 5507(a) of this title .
 - **(d)**
   - **(1)** Each fund and account specified in paragraph (2) is hereby terminated, and the balance of each such fund and account is hereby transferred to the Revolving Fund.

@@ -3,9 +3,9 @@ title: "Section 5138 - Title in trust to United States"
 usc_title: 25
 usc_section: "5138"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "25 U.S.C. § 5138"
-generated_at: "2026-03-29T20:04:54.466Z"
+generated_at: "2026-03-29T20:32:54.788Z"
 ---
 
 # § 5138. Title in trust to United States

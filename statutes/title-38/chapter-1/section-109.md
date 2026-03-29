@@ -3,9 +3,9 @@ title: "Section 109 - Benefits for discharged members of allied forces"
 usc_title: 38
 usc_section: "109"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "38 U.S.C. § 109"
-generated_at: "2026-03-29T20:05:54.613Z"
+generated_at: "2026-03-29T20:34:04.860Z"
 ---
 
 # § 109. Benefits for discharged members of allied forces
@@ -18,6 +18,3 @@ generated_at: "2026-03-29T20:05:54.613Z"
 - **(c)**
   - **(1)** Any person who served during World War I or World War II as a member of any armed force of the Government of Czechoslovakia or Poland and participated while so serving in armed conflict with an enemy of the United States and has been a citizen of the United States for at least ten years shall, by virtue of such service, and upon satisfactory evidence thereof, be entitled to hospital and domiciliary care and medical services within the United States under chapter 17 of this title to the same extent as if such service had been performed in the Armed Forces of the United States unless such person is entitled to, or would, upon application thereof, be entitled to, payment for equivalent care and services under a program established by the foreign government concerned for persons who served in its armed forces in World War I or World War II.
   - **(2)** In order to assist the Secretary in making a determination of proper service eligibility under this subsection, each applicant for the benefits thereof shall furnish an authenticated certification from the French Ministry of Defense or the British War Office as to records in either such Office which clearly indicate military service of the applicant in the Czechoslovakian or Polish armed forces and subsequent service in or with the armed forces of France or Great Britain during the period of World War I or World War II.
-- **(d)**
-  - **(1)** Any person described in paragraph (2) is eligible for the benefits specified in subsection (a) to the same extent and under the same conditions (including with respect to applicable reciprocity requirements) as a discharged member of the armed forces of a government specified in such subsection who is eligible for such benefits under such subsection.
-  - **(2)** A person described in this paragraph is a person whom the Secretary determines served in Vietnam as a member of the armed forces of the Republic of Korea at any time during the period beginning on January 9, 1962 , and ending on May 7, 1975 , or such other period as determined appropriate by the Secretary for purposes of this subsection.

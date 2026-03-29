@@ -3,9 +3,9 @@ title: "Section 332 - Friendly foreign countries; international and regional org
 usc_title: 10
 usc_section: "332"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 332"
-generated_at: "2026-03-29T20:03:09.446Z"
+generated_at: "2026-03-29T20:31:54.405Z"
 ---
 
 # § 332. Friendly foreign countries; international and regional organizations: defense institution capacity building
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T20:03:09.446Z"
       - **(iii)** assessing organizational weaknesses and establishing a roadmap for addressing shortfalls; and
       - **(iv)** enhancing ministerial, general or joint staff, or service level core management competencies; and
     - **(B)** for such other purposes as the Secretary considers appropriate, consistent with the authority in subsection (a).
-  - **(2)** Not later than February 1 of each year, the Secretary of Defense shall submit to the appropriate committees of Congress a report on activities under the program under paragraph (1) during the preceding fiscal year. Each report shall include, for the fiscal year covered by such report, the following:
+  - **(2)** Each fiscal year quarter, the Secretary of Defense shall submit to the appropriate committees of Congress a report on activities under the program under paragraph (1) during the preceding fiscal year quarter. Each report shall include, for the fiscal year quarter covered by such report, the following:
     - **(A)** A list of activities under the program.
     - **(B)** A list of any organization described in paragraph (1) to which the Secretary provided advisors or trainers under the program, including the number of such advisors or trainers so provided, the duration of each provision of such an advisor or trainer, a brief description of the activities of each advisor or trainer so provided, and a statement of the cost of each provision of such an advisor or trainer.
     - **(C)** A comprehensive justification of any activities conducted pursuant to paragraph (1)(B).

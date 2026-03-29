@@ -3,9 +3,9 @@ title: "Section 8355 - Losses of livestock due to depredation by federally prote
 usc_title: 7
 usc_section: "8355"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 8355"
-generated_at: "2026-03-29T20:02:52.854Z"
+generated_at: "2026-03-29T20:31:42.278Z"
 ---
 
 # § 8355. Losses of livestock due to depredation by federally protected species
@@ -61,6 +61,6 @@ generated_at: "2026-03-29T20:02:52.854Z"
 - **(c)** It is the sense of Congress that—
   - **(1)** no State or Indian Tribe is required to participate in the program; and
   - **(2)** the program supplements, and does not replace or supplant, any State compensation programs for depredation.
-- **(d)** There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2021 through 2030, of which—
+- **(d)** There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2021 through 2025, of which—
   - **(1)** $5,000,000 shall be used to provide grants for the purposes described in subsection (b)(1)(A); and
   - **(2)** $10,000,000 shall be used to provide grants for the purpose described in subsection (b)(1)(B).

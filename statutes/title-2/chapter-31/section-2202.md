@@ -3,9 +3,9 @@ title: "Section 2202 - Designation and naming within the Capitol Visitor Center"
 usc_title: 2
 usc_section: "2202"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "2 U.S.C. § 2202"
-generated_at: "2026-03-29T20:02:11.332Z"
+generated_at: "2026-03-29T20:31:22.548Z"
 ---
 
 # § 2202. Designation and naming within the Capitol Visitor Center

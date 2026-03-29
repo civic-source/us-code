@@ -1,14 +1,16 @@
 ---
-title: "Section 26 - Sixteenth replenishment"
+title: "Section 26 - Lower Colorado River emergency flood control works; agreements with Mexico for joint construction, operation and maintenance"
 usc_title: 22
 usc_section: "26"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 26"
-generated_at: "2026-03-29T20:04:46.681Z"
+generated_at: "2026-03-29T20:32:59.862Z"
 ---
 
-# § 290g–26. Sixteenth replenishment
+# § 277d–26. Lower Colorado River emergency flood control works; agreements with Mexico for joint construction, operation and maintenance
 
-- **(a)** The United States Governor of the Fund is authorized to contribute on behalf of the United States $591,000,000 to the sixteenth replenishment of the resources of the Fund, subject to obtaining the necessary appropriations.
-- **(b)** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $591,000,000 for payment by the Secretary of the Treasury.
+- **(a)** for the joint clearing and maintaining free of trees and brush the bed and banks of the channel; for removing sediment deposits from the river channel; and
+- **(b)** for corrective actions to guard against sedimentation and consequent aggradation of the river channel incident to desilting operations at diversion dams in the two countries: Provided , That, prior approval of the Secretary of the Interior is required of any proposed agreement with Mexico under clause
+- **(b)** of this section which would involve construction and/or operation of works on the Colorado River in the United States under the jurisdiction of the Secretary. The measures contemplated herein are for the purpose of controlling floods on the lower Colorado River in accordance with article 13 of the 1944 Water Treaty with Mexico, and accomplishment thereof by the International Boundary and Water Commission, United States Section, would be in accord with the Memorandum of Understanding “as to Functions and Jurisdiction of Agencies of the United States in Relation to the Colorado and Tijuana Rivers and the Rio Grande Below Fort Quitman, Texas, Under Water Treaty Signed at Washington, February 3, 1944 ,” between the Department of State and the United States Section, International Boundary and Water Commission and the Department of the Interior dated February 14, 1945 .
+

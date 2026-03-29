@@ -3,9 +3,9 @@ title: "Section 7102 - Definitions"
 usc_title: 16
 usc_section: "7102"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 7102"
-generated_at: "2026-03-29T20:04:20.500Z"
+generated_at: "2026-03-29T20:32:45.512Z"
 ---
 
 # § 7102. Definitions
@@ -50,9 +50,8 @@ In this chapter:
     - **(A)** $500,000,000 for fiscal year 2008;
     - **(B)** for each of fiscal years 2009 through 2011, the amount that is equal to 90 percent of the full funding amount for the preceding fiscal year;
     - **(C)** for fiscal year 2012 through fiscal year 2015, the amount that is equal to 95 percent of the full funding amount for the preceding fiscal year;
-    - **(D)** for fiscal year 2017, the amount that is equal to 95 percent of the full funding amount for fiscal year 2015;
-    - **(E)** for each of fiscal years 2018 through 2020, the amount that is equal to 95 percent of the full funding amount for the preceding fiscal year; and
-    - **(F)** for fiscal year 2021 and each fiscal year thereafter, the amount that is equal to the full funding amount for fiscal year 2017.
+    - **(D)** for fiscal year 2017, the amount that is equal to 95 percent of the full funding amount for fiscal year 2015; and
+    - **(E)** for fiscal year 2018 and each fiscal year thereafter, the amount that is equal to 95 percent of the full funding amount for the preceding fiscal year.
   - **(12)** The term “income adjustment” means the square of the quotient obtained by dividing—
     - **(A)** the per capita personal income for each eligible county; by
     - **(B)** the median per capita personal income of all eligible counties.

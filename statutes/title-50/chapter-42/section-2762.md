@@ -1,12 +1,16 @@
 ---
-title: "Section 2762 - Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1) , Dec. 18, 2025 , 139 Stat. 1458"
+title: "Section 2762 - Restriction on use of funds to pay penalties under Clean Air Act"
 usc_title: 50
 usc_section: "2762"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "50 U.S.C. § 2762"
-generated_at: "2026-03-29T20:08:11.183Z"
+generated_at: "2026-03-29T20:35:05.200Z"
 ---
 
-# §§ 2761, 2762. Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1) , Dec. 18, 2025 , 139 Stat. 1458
+# § 2762. Restriction on use of funds to pay penalties under Clean Air Act
 
+None of the funds authorized to be appropriated by the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981 ( Public Law 96–540 ; 94 Stat. 3197 ) or any other Act may be used to pay any penalty, fine, forfeiture, or settlement resulting from a failure to comply with the Clean Air Act ( 42 U.S.C. 7401 et seq.) with respect to any defense activity of the Department of Energy if—
+
+  - **(1)** the Secretary finds that compliance is physically impossible within the time prescribed for compliance; or
+  - **(2)** the President has specifically requested appropriations for compliance and Congress has failed to appropriate funds for such purpose.

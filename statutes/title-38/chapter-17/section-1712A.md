@@ -3,9 +3,9 @@ title: "Section 1712A - Eligibility for readjustment counseling and related ment
 usc_title: 38
 usc_section: "1712A"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "38 U.S.C. § 1712A"
-generated_at: "2026-03-29T20:05:54.653Z"
+generated_at: "2026-03-29T20:34:04.890Z"
 ---
 
 # § 1712A. Eligibility for readjustment counseling and related mental health services
@@ -13,15 +13,14 @@ generated_at: "2026-03-29T20:05:54.653Z"
 - **(a)**
   - **(1)**
     - **(A)** Upon the request of any individual referred to in subparagraph (C), the Secretary shall furnish counseling, including by furnishing counseling through a Vet Center, to the individual—
-      - **(i)** in the case of an individual referred to in clauses (i) through (vii) of subparagraph (C), to assist the individual in readjusting to civilian life; and
-      - **(ii)** in the case of an individual referred to in clause (viii) of such subparagraph who is a family member of a veteran or member described in such clause—
-        - **(I)** in the case of a member who is deployed in a theater of combat operations or an area at a time during which hostilities are occurring in that area, during such deployment to assist such individual in coping with such deployment;
-        - **(II)** in the case of a veteran or member who is readjusting to civilian life, to the degree that counseling furnished to such individual is found to aid in the readjustment of such veteran or member to civilian life; and
-        - **(III)** in the case of a veteran or member who died by suicide, to the degree that counseling furnished to such individual is found to aid in coping with the effects of such suicide.
+      - **(i)** in the case of an individual referred to in clauses (i) through (vi) of subparagraph (C), to assist the individual in readjusting to civilian life; and
+      - **(ii)** in the case of an individual referred to in clause (vii) of such subparagraph who is a family member of a veteran or member described in such clause—
+        - **(I)** in the case of a member who is deployed in a theater of combat operations or an area at a time during which hostilities are occurring in that area, during such deployment to assist such individual in coping with such deployment; and
+        - **(II)** in the case of a veteran or member who is readjusting to civilian life, to the degree that counseling furnished to such individual is found to aid in the readjustment of such veteran or member to civilian life.
     - **(B)**
       - **(i)** Counseling furnished to an individual under subparagraph (A) may include a comprehensive individual assessment of the individual’s psychological, social, and other characteristics to ascertain whether—
-        - **(I)** in the case of an individual referred to in clauses (i) through (vii) of subparagraph (C), such individual has difficulties associated with readjusting to civilian life; and
-        - **(II)** in the case of an individual referred to in clause (viii) of such subparagraph, such individual has difficulties associated with—
+        - **(I)** in the case of an individual referred to in clauses (i) through (vi) of subparagraph (C), such individual has difficulties associated with readjusting to civilian life; and
+        - **(II)** in the case of an individual referred to in clause (vii) of such subparagraph, such individual has difficulties associated with—
       - **(ii)**
         - **(I)** Except as provided in subclauses (IV) and (V), counseling furnished to an individual under subparagraph (A) may include reintegration and readjustment services described in subclause (II) furnished in group retreat settings.
         - **(II)** Reintegration and readjustment services described in this subclause are the following:
@@ -37,20 +36,15 @@ generated_at: "2026-03-29T20:05:54.653Z"
         - **(II)** in the National Guard of a State under orders of the chief executive of that State in response to a disaster or civil disorder in such State.
       - **(v)** Any individual who participated in a drug interdiction operation as a member of the Coast Guard, regardless of the location of that operation.
       - **(vi)** Any individual who received counseling under this section before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013.
-      - **(vii)** Any veteran or member of the Armed Forces pursuing a course of education using covered educational assistance benefits.
-      - **(viii)** Any individual who is a family member of any—
-        - **(I)** member of the Armed Forces, including a member of a reserve component of the Armed Forces, who is serving on active duty in a theater of combat operations or in an area at a time during which hostilities are occurring in that area;
-        - **(II)** veteran or member of the Armed Forces described in this subparagraph; or
-        - **(III)** veteran or member of the Armed Forces who died by suicide.
-    - **(D)**
-      - **(i)** The Secretary, in consultation with the Secretary of Defense, may furnish to any member of the reserve components of the Armed Forces who has a behavioral health condition or psychological trauma, counseling under subparagraph (A)(i), which may include a comprehensive individual assessment under subparagraph (B)(i).
-      - **(ii)** A member of the reserve components of the Armed Forces described in clause (i) shall not be required to obtain a referral before being furnished counseling or an assessment under this subparagraph.
+      - **(vii)** Any individual who is a family member of any—
+        - **(I)** member of the Armed Forces, including a member of a reserve component of the Armed Forces, who is serving on active duty in a theater of combat operations or in an area at a time during which hostilities are occurring in that area; or
+        - **(II)** veteran or member of the Armed Forces described in this subparagraph.
   - **(2)**
     - **(A)** Upon request of an individual described in paragraph (1)(C), the Secretary shall provide the individual a comprehensive individual assessment as described in paragraph (1)(B)(i) as soon as practicable after receiving the request, but not later than 30 days after receiving the request.
     - **(B)** Upon the request of an individual described in paragraph (1)(C), the Secretary shall furnish the individual reintegration and readjustment services in group retreat settings under paragraph (1)(B)(ii) if the Secretary determines the experience will be therapeutically appropriate.
 - **(b)**
-  - **(1)** If, on the basis of the assessment furnished to an individual under subsection (a) of this section, a licensed or certified mental health care provider employed by the Department (or, in areas where no such licensed or certified mental health care provider is available, a licensed or certified mental health care provider carrying out such function under a contract or fee arrangement with the Secretary) determines that the provision of mental health services to such individual is necessary to facilitate the successful readjustment of the individual to civilian life, such individual shall, within the limits of Department facilities, be furnished such services on an outpatient basis. For the purposes of furnishing such mental health services, the counseling furnished under subsection (a) of this section shall be considered to have been furnished by the Department as a part of hospital care. Any hospital care and other medical services considered necessary on the basis of the assessment furnished under subsection (a) of this section shall be furnished only in accordance with the eligibility criteria otherwise set forth in this chapter (including the eligibility criteria set forth in section 1784 of this title ).
-  - **(2)** Mental health services furnished under paragraph (1) of this subsection may, if determined to be essential to the effective treatment and readjustment of the individual, include such consultation, counseling, training, services, and expenses as are described in sections 1782 and 1783 of this title.
+  - **(1)** If, on the basis of the assessment furnished under subsection (a) of this section, a licensed or certified mental health care provider employed by the Department (or, in areas where no such licensed or certified mental health care provider is available, a licensed or certified mental health care provider carrying out such function under a contract or fee arrangement with the Secretary) determines that the provision of mental health services to such veteran is necessary to facilitate the successful readjustment of the veteran to civilian life, such veteran shall, within the limits of Department facilities, be furnished such services on an outpatient basis. For the purposes of furnishing such mental health services, the counseling furnished under subsection (a) of this section shall be considered to have been furnished by the Department as a part of hospital care. Any hospital care and other medical services considered necessary on the basis of the assessment furnished under subsection (a) of this section shall be furnished only in accordance with the eligibility criteria otherwise set forth in this chapter (including the eligibility criteria set forth in section 1784 of this title ).
+  - **(2)** Mental health services furnished under paragraph (1) of this subsection may, if determined to be essential to the effective treatment and readjustment of the veteran, include such consultation, counseling, training, services, and expenses as are described in sections 1782 and 1783 of this title.
 - **(c)** Upon receipt of a request for counseling under this section from any individual who has been discharged or released from active military, naval, air, or space service but who is not otherwise eligible for such counseling, the Secretary shall—
   - **(1)** provide referral services to assist such individual, to the maximum extent practicable, in obtaining mental health care and services from sources outside the Department; and
   - **(2)** if pertinent, advise such individual of such individual’s rights to apply to the appropriate military, naval, air, or space service, and to the Department, for review of such individual’s discharge or release from such service.
@@ -74,10 +68,5 @@ generated_at: "2026-03-29T20:05:54.653Z"
       - **(iv)** a step-family member; and
       - **(v)** an extended family member; or
     - **(B)** lives with the veteran or member but is not a member of the family of the veteran or member.
-  - **(4)** The term “active service” has the meaning given that term in section 101 of title 10 .
-  - **(5)** The term “civil disorder” has the meaning given that term in section 232 of title 18 .
-  - **(6)** The term “covered educational assistance benefits” means educational assistance benefits provided pursuant to—
-    - **(A)** chapter 30, 31, 32, or 33 of this title;
-    - **(B)** chapter 1606 or 1607 of title 10;
-    - **(C)** section 116 of the Harry W. Colmery Veterans Educational Assistance Act of 2017 ( Public Law 115–48 ; 38 U.S.C. 3001 note); or
-    - **(D)** section 8006 of the American Rescue Plan Act of 2021 ( Public Law 117–2 ; 38 U.S.C. 3001 note prec.).
+  - **“(4)** The term “‘active service”’ has the meaning given that term in section 101 of title 10 .
+  - **“(5)** The term “‘civil disorder”’ has the meaning given that term in section 232 of title 18 .”

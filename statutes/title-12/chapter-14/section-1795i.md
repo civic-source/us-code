@@ -3,9 +3,9 @@ title: "Section 1795i - Annual report"
 usc_title: 12
 usc_section: "1795i"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "12 U.S.C. § 1795i"
-generated_at: "2026-03-29T20:03:45.744Z"
+generated_at: "2026-03-29T20:32:15.009Z"
 ---
 
 # § 1795i. Annual report

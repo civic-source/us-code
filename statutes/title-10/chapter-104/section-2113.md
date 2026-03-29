@@ -3,9 +3,9 @@ title: "Section 2113 - Administration of University"
 usc_title: 10
 usc_section: "2113"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2113"
-generated_at: "2026-03-29T20:03:09.642Z"
+generated_at: "2026-03-29T20:31:54.554Z"
 ---
 
 # § 2113. Administration of University
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T20:03:09.642Z"
     - **(D)** to accept, hold, administer, invest, and spend any gift, devise, or bequest of personal property made to the University, including any gift, devise, or bequest for the support of an academic chair, teaching, research, or demonstration project;
     - **(E)** to enter into agreements with the Henry M. Jackson Foundation for the Advancement of Military Medicine, or with any other nonprofit entity, under which scientists or other personnel of the Foundation or other entity may be utilized by the University for the purpose of enhancing the activities of the University in education, research, and technological applications of knowledge;
     - **(F)** to accept the voluntary services of guest scholars and other persons; and
-    - **(G)** notwithstanding sections 2304, 1 1 See References in Text note below. 4141, and 4024 of this title, to enter into contracts and cooperative agreements with, accept grants from, and make grants to, nonprofit entities (on a sole-source basis) for the purpose specified in subparagraph (A) or for any other purpose the Secretary determines to be consistent with the mission of the University.
+    - **(G)** notwithstanding sections 2304, 2361, and 2374 of this title, to enter into contracts and cooperative agreements with, accept grants from, and make grants to, nonprofit entities (on a sole-source basis) for the purpose specified in subparagraph (A) or for any other purpose the Secretary determines to be consistent with the mission of the University.
   - **(2)** The Secretary may not enter into any contract with the Henry M. Jackson Foundation for the Advancement of Military Medicine, or with any other entity, if the contract would obligate the University to make outlays in advance of the enactment of budget authority for such outlays.
   - **(3)** Scientists or other medical personnel utilized by the University under an agreement described in clause (E) of paragraph (1) may be appointed to any position within the University and may be permitted to perform such duties within the University as the Secretary may approve.
   - **(4)** A person who provides voluntary services under the authority of clause (F) of paragraph (1) shall be considered to be an employee of the Federal Government for the purposes of chapter 81 of title 5, relating to compensation for work-related injuries, and to be an employee of the Federal Government for the purposes of chapter 171 of title 28, relating to tort claims. Such a person who is not otherwise employed by the Federal Government shall not be considered to be a Federal employee for any other purpose by reason of the provision of such services.

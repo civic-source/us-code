@@ -3,9 +3,9 @@ title: "Section 522 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 
 usc_title: 45
 usc_section: "522"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "45 U.S.C. § 522"
-generated_at: "2026-03-29T20:06:01.735Z"
+generated_at: "2026-03-29T20:34:11.668Z"
 ---
 
 # §§ 521, 522. Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 Stat. 1379

@@ -3,9 +3,9 @@ title: "Section 6408 - Permissive terms"
 usc_title: 7
 usc_section: "6408"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "7 U.S.C. § 6408"
-generated_at: "2026-03-29T20:02:52.753Z"
+generated_at: "2026-03-29T20:31:42.195Z"
 ---
 
 # § 6408. Permissive terms

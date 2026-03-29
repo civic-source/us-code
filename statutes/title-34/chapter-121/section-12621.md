@@ -3,9 +3,9 @@ title: "Section 12621 - Missing Americans Alert Program"
 usc_title: 34
 usc_section: "12621"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "34 U.S.C. § 12621"
-generated_at: "2026-03-29T20:05:30.409Z"
+generated_at: "2026-03-29T20:33:40.354Z"
 ---
 
 # § 12621. Missing Americans Alert Program
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T20:05:30.409Z"
   - **(2)** shall award grants to health care agencies, State and local law enforcement agencies, or public safety agencies to assist such agencies in designing, establishing, and operating locative tracking technology programs for individuals with forms of dementia, such as Alzheimer’s Disease, or children with developmental disabilities, such as autism, who have wandered from safe environments.
 - **(b)** To be eligible to receive a competitive grant under subsection (a), an agency or organization shall submit an application to the Attorney General at such time, in such manner, and containing such information as the Attorney General may require, including, at a minimum, an assurance that the agency or organization will obtain and use assistance from private nonprofit organizations to support the program. The Attorney General shall periodically solicit applications for grants under this section by publishing a request for applications in the Federal Register and by posting such a request on the website of the Department of Justice.
 - **(c)** In awarding grants under subsection (a)(1), the Attorney General shall give preference to law enforcement or public safety agencies that partner with nonprofit organizations that appropriately use person-centered plans minimizing restrictive interventions and that have a direct link to individuals, and families of individuals, with forms of dementia, such as Alzheimer’s Disease, or developmental disabilities, such as autism.
-- **(d)** There are authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2023 through 2027.
+- **(d)** There are authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2018 through 2022.
 - **(e)** All grants awarded by the Attorney General under this section shall be subject to the following accountability provisions:
   - **(1)**
     - **(A)** In this paragraph, the term “unresolved audit finding” means a finding in the final audit report of the Inspector General of the Department of Justice that the audited grantee has utilized grant funds for an unauthorized expenditure or otherwise unallowable cost that is not closed or resolved within 12 months from the date when the final audit report is issued.

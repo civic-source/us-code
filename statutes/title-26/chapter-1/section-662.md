@@ -3,9 +3,9 @@ title: "Section 662 - Inclusion of amounts in gross income of beneficiaries of e
 usc_title: 26
 usc_section: "662"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 662"
-generated_at: "2026-03-29T20:05:22.408Z"
+generated_at: "2026-03-29T20:33:27.032Z"
 ---
 
 # § 662. Inclusion of amounts in gross income of beneficiaries of estates and trusts accumulating income or distributing corpus

@@ -3,14 +3,14 @@ title: "Section 741 - Rank: commissioned officers of the armed forces"
 usc_title: 10
 usc_section: "741"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 741"
-generated_at: "2026-03-29T20:03:09.497Z"
+generated_at: "2026-03-29T20:31:54.439Z"
 ---
 
 # § 741. Rank: commissioned officers of the armed forces
 
-- **(a)** Among the grades listed below, the grades of general and admiral are equivalent and are senior to other grades and the grades of second lieutenant and ensign are equivalent and are junior to other grades. Intermediate grades rank in the order listed as follows: Army, Air Force, Marine Corps, and Space Force Navy and Coast Guard General Admiral. Lieutenant general Vice admiral. Major general Rear admiral. Brigadier general Rear admiral (lower half). Colonel Captain. Lieutenant colonel Commander. Major Lieutenant commander. Captain Lieutenant. First lieutenant Lieutenant (junior grade). Second lieutenant Ensign.
+- **(a)** Among the grades listed below, the grades of general and admiral are equivalent and are senior to other grades and the grades of second lieutenant and ensign are equivalent and are junior to other grades. Intermediate grades rank in the order listed as follows: Army, Air Force, and Marine Corps Navy and Coast Guard General Admiral. Lieutenant general Vice admiral. Major general Rear admiral. Brigadier general Rear admiral (lower half). Colonel Captain. Lieutenant colonel Commander. Major Lieutenant commander. Captain Lieutenant. First lieutenant Lieutenant (junior grade). Second lieutenant Ensign.
 - **(b)** Rank among officers of the same grade or of equivalent grades is determined by comparing dates of rank. An officer whose date of rank is earlier than the date of rank of another officer of the same or equivalent grade is senior to that officer.
 - **(c)** Rank among officers of the Army, Navy, Air Force, Marine Corps, and Space Force of the same grade or of equivalent grades who have the same date of rank is determined by regulations prescribed by the Secretary of Defense which shall apply uniformly among the Army, Navy, Air Force, Marine Corps, and Space Force.
 - **(d)**

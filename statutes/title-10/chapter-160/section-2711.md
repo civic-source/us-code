@@ -3,33 +3,34 @@ title: "Section 2711 - Annual report on defense environmental programs"
 usc_title: 10
 usc_section: "2711"
 chapter: 160
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2711"
-generated_at: "2026-03-29T20:03:09.713Z"
+generated_at: "2026-03-29T20:31:54.643Z"
 ---
 
 # § 2711. Annual report on defense environmental programs
 
-- **(a)** Not later than March 31 of each year, the Secretary of Defense shall submit to Congress a report on progress made by environmental programs of the Department of Defense during the preceding fiscal year.
-- **(b)** Each report under subsection (a) shall include, for the year covered by the report, the following:
-  - **(1)** With respect to environmental restoration activities of the Department of Defense, and for each of the military departments, information on the Defense Environmental Restoration Program under section 2701 of this title , including—
-    - **(A)** the total number of sites at which such program was carried out;
-    - **(B)** the progress of remediation for sites that have not yet completed cleanup;
-    - **(C)** the remaining cost to complete cleanup of known sites, including information on the costs associated with investigating and remediating releases of per- and polyfluoroalkyl substances, including—
-      - **(i)** detailed information regarding the total potential cost to the Department of investigating and remediating such releases at all locations where investigation and remediation is expected to be funded by the Department; and
-      - **(ii)** the cost-to-complete analysis required under subsection (d); and
-    - **(D)** an assessment by the Secretary of Defense of the overall progress of such program.
-  - **(2)** An assessment by the Secretary of achievements for environmental conservation and planning by the Department.
-  - **(3)** An assessment by the Secretary of achievements for environmental compliance by the Department.
-  - **(4)** An assessment by the Secretary of achievements for climate resiliency by the Department.
-  - **(5)** An assessment by the Secretary of the progress made by the Department in achieving the objectives and goals of the Environmental Technology Program of the Department.
-- **(c)** The Secretary of Defense may consolidate, attach with, or otherwise include in any report required under subsection (a) any annual report or other requirement that is aligned or associated with, or would be better understood if presented as part of a consolidated report addressing environmental restoration, compliance, and resilience.
-- **(d)** The Secretary shall carry out an annual cost-to-complete analysis with respect to the most important contributors to the costs to the Department of investigating and remediating per- and polyfluoroalkyl substances releases that—
-  - **(1)** includes—
-    - **(A)** an assessment of any changes in regulatory standards, treatment technologies, and site prioritization that could affect the cost to complete;
-    - **(B)** examples of how modifying assumptions about contamination extent, remediation timelines, or emerging disposal methods could affect the cost to complete; and
-    - **(C)** an identification of any funding shortfalls or other constraints that could affect the investigation and remediation of such contamination; and
-  - **(2)** incorporates a risk and uncertainty analysis with respect to the effects of potential changes in the most important contributors to the costs to the Department to complete the known per- and polyfluoroalkyl substances sites, including—
-    - **(A)** variability in the extent of such contamination based on ongoing site assessments, inspections, and investigations;
-    - **(B)** shifts in regulatory requirements that could alter investigation and remediation strategies; and
-    - **(C)** advances in technologies for the treatment and disposal such contamination that could reduce or increase long-term costs.
+- **(a)** The Secretary of Defense shall submit to Congress each year, not later than 45 days after the date on which the President submits to Congress the budget for a fiscal year, a report on defense environmental programs. Each report shall include:
+  - **(1)** With respect to environmental restoration activities of the Department of Defense, and for each of the military departments, the following elements:
+    - **(A)** Information on the Environmental Restoration Program, including the following:
+      - **(i)** The total number of sites in the Environmental Restoration Program.
+      - **(ii)** The number of sites in the Environmental Restoration Program that have reached the Remedy in Place Stage and the Response Complete Stage, and the change in such numbers in the preceding fiscal year.
+      - **(iii)** A statement of the amount of funds allocated by the Secretary for, and the anticipated progress in implementing, the Environmental Restoration Program during the fiscal year for which the budget is submitted.
+      - **(iv)** The Secretary’s assessment of the overall progress of the Environmental Restoration Program.
+    - **(B)** Information on the Military Munitions Restoration Program (MMRP), including the following:
+      - **(i)** The total number of sites in the MMRP.
+      - **(ii)** The number of sites that have reached the Remedy in Place Stage and the Response Complete Stage, and the change in such numbers in the preceding fiscal year.
+      - **(iii)** A statement of the amount of funds allocated by the Secretary for, and the anticipated progress in implementing, the MMRP during the fiscal year for which the budget is submitted.
+      - **(iv)** The Secretary’s assessment of the overall progress of the MMRP.
+  - **(2)** With respect to each of the major activities under the environmental quality program of the Department of Defense and for each of the military departments—
+    - **(A)** a statement of the amount expended, or proposed to be expended, during the period consisting of the four fiscal years preceding the fiscal year in which the report is submitted, the current fiscal year, the fiscal year for which the budget is submitted, and the fiscal year following the fiscal year for which the budget is submitted; and
+    - **(B)** an explanation for any significant change in such amounts during the period covered.
+  - **(3)** With respect to the environmental technology program of the Department of Defense—
+    - **(A)** a report on the progress made in achieving the objectives and goals of its environmental technology program during the preceding fiscal year and an overall trend analysis for the program covering the previous four fiscal years; and
+    - **(B)** a statement of the amount expended, or proposed to be expended, during the period consisting of the four fiscal years preceding the fiscal year in which the report is submitted, the fiscal year for which the budget is submitted, and the fiscal year following the fiscal year for which the budget is submitted.
+- **(b)** For purposes of this section—
+  - **(1)** the term “environmental quality program” means a program of activities relating to environmental compliance, conservation, pollution prevention, and other activities relating to environmental quality as the Secretary may designate; and
+  - **(2)** the term “major activities” with respect to an environmental program means—
+    - **(A)** environmental compliance activities;
+    - **(B)** conservation activities; and
+    - **(C)** pollution prevention activities.

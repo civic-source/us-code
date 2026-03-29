@@ -3,9 +3,9 @@ title: "Section 189 - Communications Security Review and Advisory Board"
 usc_title: 10
 usc_section: "189"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 189"
-generated_at: "2026-03-29T20:03:09.432Z"
+generated_at: "2026-03-29T20:31:54.394Z"
 ---
 
 # § 189. Communications Security Review and Advisory Board
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T20:03:09.432Z"
   - **(2)** The Chief Information Officer of the Department of Defense shall serve as chairman of the Board.
   - **(3)** The Secretary shall appoint officers in the grade of general or admiral and civilian employees of the Department of Defense in the Senior Executive Service to serve as members of the Board.
 - **(c)** The Board shall—
-  - **(1)** monitor the overall communications security, cryptographic modernization, and key management efforts of the Department, including activities under major defense acquisition programs (as defined in section 4201 of this title ), by—
+  - **(1)** monitor the overall communications security, cryptographic modernization, and key management efforts of the Department, including activities under major defense acquisition programs (as defined in section 2430(a) of this title ), by—
     - **(A)** requiring each Chief Information Officer of each military department to report the communications security activities of the military department to the Board;
     - **(B)** tracking compliance of each military department with respect to communications security modernization efforts;
     - **(C)** validating lifecycle communications security modernization plans for major defense acquisition programs;

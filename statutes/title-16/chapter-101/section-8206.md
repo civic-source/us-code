@@ -3,14 +3,14 @@ title: "Section 8206 - Technical and scientific assistance"
 usc_title: 16
 usc_section: "8206"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 8206"
-generated_at: "2026-03-29T20:04:20.518Z"
+generated_at: "2026-03-29T20:32:45.527Z"
 ---
 
 # § 8206. Technical and scientific assistance
 
-- **(a)** The Director, the National Oceanic and Atmospheric Administration Assistant Administrator, the Environmental Protection Agency Assistant Administrator, and the Director of the United States Geological Survey, in coordination with the Forest Service, the Bureau of Land Management, and other appropriate Federal departments and agencies, may provide scientific and technical assistance to Partnerships, participants in fish habitat conservation projects, and the Board.
+- **(a)** The Director, the National Oceanic and Atmospheric Administration Assistant Administrator, the Environmental Protection Agency Assistant Administrator, and the Director of the United States Geological Survey, in coordination with the Forest Service and other appropriate Federal departments and agencies, may provide scientific and technical assistance to Partnerships, participants in fish habitat conservation projects, and the Board.
 - **(b)** Scientific and technical assistance provided under subsection (a) may include—
   - **(1)** providing technical and scientific assistance to States, Indian Tribes, regions, local communities, and nongovernmental organizations in the development and implementation of Partnerships;
   - **(2)** providing technical and scientific assistance to Partnerships for habitat assessment, strategic planning, and prioritization;

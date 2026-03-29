@@ -3,9 +3,9 @@ title: "Section 9058a - Emergency rental assistance"
 usc_title: 15
 usc_section: "9058a"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "15 U.S.C. § 9058a"
-generated_at: "2026-03-29T20:03:27.722Z"
+generated_at: "2026-03-29T20:32:10.126Z"
 ---
 
 # § 9058a. Emergency rental assistance
@@ -23,12 +23,12 @@ generated_at: "2026-03-29T20:03:27.722Z"
       - **(ii)** the amount referred to in paragraph (3) of section 801(c) of such title shall be deemed to be the amount appropriated under paragraph (1) of subsection (a) of this Act 1 1 So in original. Probably should be “this section”. that remains after the application of paragraph (2) of such subsection;
       - **(iii)** section 801(c) of title 42 shall be applied—
         - **(I)** by substituting “1 of the 50 States or the District of Columbia” for “1 of the 50 States” each place it appears;
-        - **(II)** in paragraph (2)(A), by substituting “$200,000,000” for “$1,250,000,000”;
+        - **(II)** in paragraph (2)(A), by substituting “ $200,000,000” for “ $1,250,000,000”;
         - **(III)** in paragraph (2)(B), by substituting “each of the 50 States and District of Columbia” for “each of the 50 States”;
         - **(IV)** in paragraph (4), by substituting “excluding the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa” for “excluding the District of Columbia and territories specified in subsection (a)(2)(A)”; and
         - **(V)** without regard to paragraph (6);
       - **(iv)** section 801(d) of such title shall not apply to such payments; and
-      - **(v)** section 801(e) of such title 2 2 See Codification note below. shall be applied—
+      - **(v)** section 801(e) of such title 2 2 See Codification note below. shall be applied —
         - **(I)** by substituting “under section 9058a of title 15 ” for “under this section”; and
         - **(II)** by substituting “local government elects to receive funds from the Secretary under section 9058a of title 15 and will use the funds in a manner consistent with such section” for “local government’s proposed uses of the funds are consistent with subsection (d)”.
     - **(B)** The eligible grantees described in this subparagraph are the following:
@@ -59,7 +59,7 @@ generated_at: "2026-03-29T20:03:27.722Z"
       - **(ii)** rental arrears;
       - **(iii)** utilities and home energy costs;
       - **(iv)** utilities and home energy costs arrears; and
-      - **(v)** other expenses related to housing incurred due, directly or indirectly, to the novel coronavirus disease (COVID–19) outbreak, as defined by the Secretary.
+      - **(v)** other expenses related to housing incurred due, directly or indirectly, to the novel coronavirus disease (COVID-19) outbreak, as defined by the Secretary.
     - **(B)**
       - **(i)** Subject to the exception in clause (ii), an eligible grantee shall not provide an eligible household with financial assistance for prospective rent payments for more than 3 months based on any application by or on behalf of the household.
       - **(ii)** For any eligible household described in clause (i), such household may receive financial assistance for prospective rent payments for additional months:
@@ -71,12 +71,12 @@ generated_at: "2026-03-29T20:03:27.722Z"
         - **(I)** With respect to financial assistance for rent and rental arrears and utilities and home energy costs and utility and home energy costs arrears provided to an eligible household from a payment made under this section, an eligible grantee shall make payments to a lessor or utility provider on behalf of the eligible household, except that, if the lessor or utility provider does not agree to accept such payment from the grantee after outreach to the lessor or utility provider by the grantee, the grantee may make such payments directly to the eligible household for the purpose of making payments to the lessor or utility provider.
         - **(II)** Nothing in this section shall be construed to invalidate any otherwise legitimate grounds for eviction.
       - **(ii)** For any payments made by an eligible grantee to a lessor or utility provider on behalf of an eligible household, the eligible grantee shall provide documentation of such payments to such household.
-  - **(3)** Not more than 10 percent of funds received by an eligible grantee from a payment made under this section may be used to provide eligible households with case management and other services related to the novel coronavirus disease (COVID–19) outbreak, as defined by the Secretary, intended to help keep households stably housed.
+  - **(3)** Not more than 10 percent of funds received by an eligible grantee from a payment made under this section may be used to provide eligible households with case management and other services related to the novel coronavirus disease (COVID-19) outbreak, as defined by the Secretary, intended to help keep households stably housed.
   - **(4)**
     - **(A)** In reviewing applications for financial assistance and housing stability services to eligible households from a payment made under this section, an eligible grantee shall prioritize consideration of the applications of an eligible household that satisfies any of the following conditions:
       - **(i)** The income of the household does not exceed 50 percent of the area median income for the household.
       - **(ii)** 1 or more individuals within the household are unemployed as of the date of the application for assistance and have not been employed for the 90-day period preceding such date.
-    - **(B)** Nothing in this section shall be construed to prohibit an eligible grantee from providing a process for the further prioritizing of applications for financial assistance and housing stability services from a payment made under this section, including to eligible households in which 1 or more individuals within the household were unable to reach their place of employment or their place of employment was closed because of a public health order imposed as a direct result of the COVID–19 public health emergency.
+    - **(B)** Nothing in this section shall be construed to prohibit an eligible grantee from providing a process for the further prioritizing of applications for financial assistance and housing stability services from a payment made under this section, including to eligible households in which 1 or more individuals within the household were unable to reach their place of employment or their place of employment was closed because of a public health order imposed as a direct result of the COVID-19 public health emergency.
   - **(5)**
     - **(A)** Not more than 10 percent of the amount paid to an eligible grantee under this section may be used for administrative costs attributable to providing financial assistance and housing stability services under paragraphs (2) and (3), respectively, including for data collection and reporting requirements related to such funds.
     - **(B)** Amounts paid under this section shall not be used for any administrative costs other than to the extent allowed under subparagraph (A).
@@ -121,7 +121,7 @@ generated_at: "2026-03-29T20:03:27.722Z"
   - **(1)** The Inspector General of the Department of the Treasury shall conduct monitoring and oversight of the receipt, disbursement, and use of funds made available under this section.
   - **(2)** If the Inspector General of the Department of the Treasury determines that a State, Tribal government, or unit of local government has failed to comply with subsection (c), the amount equal to the amount of funds used in violation of such subsection shall be booked as a debt of such entity owed to the Federal Government. Amounts recovered under this subsection shall be deposited into the general fund of the Treasury.
   - **(3)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated to the Office of the Inspector General of the Department of the Treasury, $6,500,000 to carry out oversight and recoupment activities under this subsection. Amounts appropriated under the preceding sentence shall remain available until expended.
-  - **(4)** Nothing in this subsection shall be construed to diminish the authority of any Inspector General, including such authority as provided in the Inspector General Act of 1978 (5 U.S.C. App.) 3 3 So in original. Probably should be followed by a period. See References in Text note below.
+  - **(4)** Nothing in this subsection shall be construed to diminish the authority of any Inspector General, including such authority as provided in the Inspector General Act of 1978 (5 U.S.C. App.)
 - **(j)** Assistance provided to a household from a payment made under this section shall not be regarded as income and shall not be regarded as a resource for purposes of determining the eligibility of the household or any member of the household for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds.
 - **(k)** In this section:
   - **(1)** The term “area median income” means, with respect to a household, the median income for the area in which the household is located, as determined by the Secretary of Housing and Urban Development.
@@ -132,7 +132,7 @@ generated_at: "2026-03-29T20:03:27.722Z"
     - **(D)** The Department of Hawaiian Homelands.
   - **(3)**
     - **(A)** The term “eligible household” means a household of 1 or more individuals who are obligated to pay rent on a residential dwelling and with respect to which the eligible grantee involved determines—
-      - **(i)** that 1 or more individuals within the household has 4 4 So in original. Probably should be followed by a dash.
+      - **(i)** that 1 or more individuals within the household has
         - **(I)** qualified for unemployment benefits or
         - **(II)** experienced a reduction in household income, incurred significant costs, or experienced other financial hardship due, directly or indirectly, to the novel coronavirus disease (COVID–19) outbreak, which the applicant shall attest in writing;
       - **(ii)** that 1 or more individuals within the household can demonstrate a risk of experiencing homelessness or housing instability, which may include—

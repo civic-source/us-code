@@ -3,9 +3,9 @@ title: "Section 405 - Evidence, procedure, and certification for payments"
 usc_title: 42
 usc_section: "405"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 405"
-generated_at: "2026-03-29T20:07:43.396Z"
+generated_at: "2026-03-29T20:34:52.871Z"
 ---
 
 # § 405. Evidence, procedure, and certification for payments
@@ -345,7 +345,7 @@ generated_at: "2026-03-29T20:07:43.396Z"
     - **(B)** inform the individual of the source of the incorrect death data.
   - **(8)** The Commissioner of Social Security shall include information on the status of the program established under this section and impediments to the effective implementation of the program in the 1984 report required under section 904 of this title .
   - **(9)**
-    - **(A)** The Commissioner of Social Security shall, upon the request of the official responsible for a State driver’s license agency pursuant to the Help America Vote Act of 2002 [ 52 U.S.C. 20901 et seq.]—
+    - **(A)** The Commissioner of Social Security shall, upon the request of the official responsible for a State driver’s license agency pursuant to the Help America Vote Act of 2002—
       - **(i)** enter into an agreement with such official for the purpose of verifying applicable information, so long as the requirements of subparagraphs (A) and (B) of paragraph (3) are met; and
       - **(ii)** include in such agreement safeguards to assure the maintenance of the confidentiality of any applicable information disclosed and procedures to permit such agency to use the applicable information for the purpose of maintaining its records.
     - **(B)** Information provided pursuant to an agreement under this paragraph shall be provided at such time, in such place, and in such manner as the Commissioner determines appropriate.
@@ -362,7 +362,6 @@ generated_at: "2026-03-29T20:07:43.396Z"
       - **(i)** enter into an agreement with the Secretary or such Inspector General for the purpose of matching data in the system of records of the Social Security Administration and the system of records of the Department of Health and Human Services, provided that the requirements of subparagraphs (A) and (B) of paragraph (3) are met with respect to such agreement; and
       - **(ii)** include in such agreement safeguards to assure the maintenance of the confidentiality of any information disclosed.
     - **(B)** For purposes of this paragraph, the term “system of records” has the meaning given such term in section 552a(a)(5) of title 5 .
-  - **(11)** During the 3-year period that begins on the effective date of this paragraph, the Commissioner of Social Security shall, to the extent feasible, provide information furnished to the Commissioner under paragraph (1) to the agency operating the Do Not Pay working system described in section 3354(c) of title 31 to prevent improper payments to deceased individuals through a cooperative arrangement with such agency, provided that the requirements of subparagraphs (A) and (B) of paragraph (3) are met with respect to such arrangement with such agency.
 - **(s)** The Commissioner of Social Security shall take such actions as are necessary to ensure that any notice to one or more individuals issued pursuant to this subchapter by the Commissioner of Social Security or by a State agency—
   - **(1)** is written in simple and clear language, and
   - **(2)** includes the address and telephone number of the local office of the Social Security Administration which serves the recipient.

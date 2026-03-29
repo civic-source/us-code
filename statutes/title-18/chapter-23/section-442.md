@@ -3,9 +3,9 @@ title: "Section 442 - Government Publishing Office"
 usc_title: 18
 usc_section: "442"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "18 U.S.C. § 442"
-generated_at: "2026-03-29T20:03:53.696Z"
+generated_at: "2026-03-29T20:32:21.338Z"
 ---
 
 # § 442. Government Publishing Office
@@ -19,5 +19,5 @@ generated_at: "2026-03-29T20:03:53.696Z"
 - **(b)**
   - **(1)** Except as provided in paragraph (2), the Director of the Government Publishing Office, Deputy Director of the Government Publishing Office, nor 1 1 So in original. any of their assistants as determined by the Director of the Government Publishing Office shall not, 1 during his or her continuance in office, have any printing-related interest.
   - **(2)** It shall not be a violation of paragraph (1) for an individual who is described in such paragraph to have an interest in a diversified mutual fund, diversified unit investment trust, employee benefit plan, investment fund under the Thrift Savings Plan under subchapter III of chapter 84 of title 5, or pension plan established or maintained by a State government or any political subdivision of a State government for its employees that has 1 or more holdings that are printing-related interests if the fund, trust, or plan does not exhibit a practice of concentrating in printing-related interests.
-  - **(3)** The supervising ethics office for the Government Publishing Office under the Ethics in Government Act of 1978 (5 U.S.C. App.) 2 2 See References in Text note below. shall have the authority to issue rules and promulgate regulations governing the implementation of this subsection.
+  - **(3)** The supervising ethics office for the Government Publishing Office under the Ethics in Government Act of 1978 (5 U.S.C. App.) shall have the authority to issue rules and promulgate regulations governing the implementation of this subsection.
 - **(c)** Whoever violates subsection (b)(1) shall be fined under this title, imprisoned for not more than 1 year, or both.

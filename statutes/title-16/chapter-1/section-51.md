@@ -3,9 +3,9 @@ title: "Section 51 - Establishment of advisory council"
 usc_title: 16
 usc_section: "51"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 51"
-generated_at: "2026-03-29T20:04:20.103Z"
+generated_at: "2026-03-29T20:32:45.167Z"
 ---
 
 # § 460nnn–51. Establishment of advisory council
@@ -31,4 +31,4 @@ generated_at: "2026-03-29T20:04:20.103Z"
 - **(e)** Members of the advisory council shall serve without pay, but the Secretary shall reimburse members for reasonable expenses incurred in carrying out official duties as a member of the council.
 - **(f)** The Secretary shall provide the advisory council with necessary administrative support and shall designate an appropriate officer of the Bureau of Land Management to serve as the Secretary’s liaison to the council.
 - **(g)** The Secretary shall appoint one person, nominated by the Governor of Oregon, to serve as the State government liaison to the advisory council.
-- **(h)** The advisory committee 2 2 So in original. Probably should be “advisory council”. shall be subject to the Federal Land Policy and Management Act of 1976 ( 43 U.S.C. 1701 et seq.) and chapter 10 of title 5.
+- **(h)** The advisory committee 2 2 So in original. Probably should be “advisory council”. shall be subject to the Federal Land Policy and Management Act of 1976 ( 43 U.S.C. 1701 et seq.) and the Federal Advisory Committee Act (5 U.S.C. App.).

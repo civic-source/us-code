@@ -3,9 +3,9 @@ title: "Section 2642 - Transportation services provided to certain non-Departmen
 usc_title: 10
 usc_section: "2642"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2642"
-generated_at: "2026-03-29T20:03:09.698Z"
+generated_at: "2026-03-29T20:31:54.633Z"
 ---
 
 # § 2642. Transportation services provided to certain non-Department of Defense agencies and entities: use of Department of Defense reimbursement rate
@@ -17,5 +17,5 @@ generated_at: "2026-03-29T20:03:09.698Z"
   - **(4)** For military transportation services provided in support of foreign military sales.
   - **(5)** For military transportation services provided to a State, local, or tribal agency (including any organization composed of State, local, or tribal agencies).
   - **(6)** For military transportation services provided to a Department of Defense contractor when transporting supplies that are for, or destined for, a Department of Defense entity.
-- **(b)** The provisions of paragraphs (3), (4), (5), and (6) of subsection (a) shall apply only to military transportation services provided before October 1, 2026 .
+- **(b)** The provisions of paragraphs (3), (4), (5), and (6) of subsection (a) shall apply only to military transportation services provided before October 1, 2024 .
 - **(c)** In this section, the term “Department of Defense reimbursement rate” means the amount charged a component of the Department of Defense by another component of the Department of Defense.

@@ -3,9 +3,9 @@ title: "Section 7303 - Collaborative Forest Landscape Restoration Program"
 usc_title: 16
 usc_section: "7303"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 7303"
-generated_at: "2026-03-29T20:04:20.504Z"
+generated_at: "2026-03-29T20:32:45.516Z"
 ---
 
 # § 7303. Collaborative Forest Landscape Restoration Program

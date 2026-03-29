@@ -3,9 +3,9 @@ title: "Section 7105 - Protection and assistance for victims of trafficking"
 usc_title: 22
 usc_section: "7105"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 7105"
-generated_at: "2026-03-29T20:04:46.960Z"
+generated_at: "2026-03-29T20:33:00.139Z"
 ---
 
 # § 7105. Protection and assistance for victims of trafficking
@@ -26,10 +26,7 @@ generated_at: "2026-03-29T20:04:46.960Z"
     - **(A)** Notwithstanding title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 [ 8 U.S.C. 1601 et seq.], an alien who is a victim of a severe form of trafficking in persons, or an alien classified as a nonimmigrant under section 1101(a)(15)(T)(ii) of title 8 , shall be eligible for benefits and services under any Federal or State program or activity funded or administered by any official or agency described in subparagraph (B) to the same extent as an alien who is admitted to the United States as a refugee under section 1157 of title 8 .
     - **(B)**
       - **(i)** Subject to subparagraph (C) and, in the case of nonentitlement programs, to the availability of appropriations, the Secretary of Health and Human Services, the Secretary of Labor, the Board of Directors of the Legal Services Corporation, and the heads of other Federal agencies shall expand benefits and services to victims of severe forms of trafficking in persons in the United States, and aliens classified as a nonimmigrant under section 1101(a)(15)(T)(ii) of title 8 , without regard to the immigration status of such victims. In the case of nonentitlement programs funded by the Secretary of Health and Human Services, such benefits and services may include services to assist potential victims of trafficking in achieving certification and to assist minor dependent children of victims of severe forms of trafficking in persons or potential victims of trafficking.
-      - **(ii)** Beginning in fiscal year 2017, and in each fiscal year thereafter, the Secretary of Health and Human Services shall make grants for a national communication system to assist victims of severe forms of trafficking in persons in communicating with service providers. The Secretary shall give priority to grant applicants that have experience in providing telephone services to victims of severe forms of trafficking in persons. The contact information of the national human trafficking hotline (including options to reach out to the hotline such as through phone, text, or TTY) shall be posted as follows:
-        - **(I)** In a visible place in all Federal buildings.
-        - **(II)** The Secretary of Transportation, in consultation with the Secretary of Health and Human Services, shall seek to coordinate with the owners and operators of aircraft, airports, over-the road buses, bus stations, passenger trains, and passenger railroad stations to place the contact information of the national human trafficking hotline in the restrooms of each such aircraft, airport, over the-road bus, bus station, passenger train, and passenger railroad station operating within the United States.
-        - **(III)** The Secretary of Homeland Security, in consultation with the Secretary of Health and Human Services and in coordination with the heads of such other Federal agencies as may be appropriate, shall place the contact information of the national human trafficking hotline at each port of entry.
+      - **(ii)** Beginning in fiscal year 2017, and in each fiscal year thereafter, the Secretary of Health and Human Services shall make grants for a national communication system to assist victims of severe forms of trafficking in persons in communicating with service providers. The Secretary shall give priority to grant applicants that have experience in providing telephone services to victims of severe forms of trafficking in persons. The number of the national human trafficking hotline described in this clause shall be posted in a visible place in all Federal buildings.
     - **(C)** For the purposes of this paragraph, the term “victim of a severe form of trafficking in persons” means only a person—
       - **(i)** who has been subjected to an act or practice described in section 7102(8) of this title as in effect on October 28, 2000 ; and
       - **(ii)**
@@ -68,7 +65,7 @@ generated_at: "2026-03-29T20:04:46.960Z"
       - **(i)** three percent for research, evaluation, and statistics;
       - **(ii)** 5 percent for training and technical assistance, including increasing capacity and expertise on security for and protection of service providers from intimidation or retaliation for their activities; and
       - **(iii)** one percent for management and administration.
-    - **(C)** The Federal share of a grant made under this paragraph may not exceed 75 percent of the total project cost. In general, this project match requirement may be satisfied by contributions or expenditures committed to improve victim support services that promote victim recovery and reintegration into society, provided that these contributions and expenditures are consistent with applicable grant requirements and approved project scope.
+    - **(C)** The Federal share of a grant made under this paragraph may not exceed 75 percent of the total costs of the projects described in the application submitted.
     - **(D)** In selecting recipients of grants under this paragraph that are only available for law enforcement operations or task forces, the Attorney General may give priority to any applicant that files an attestation with the Attorney General stating that—
       - **(i)** the grant funds awarded under this paragraph—
         - **(I)** will be used to assist in the prevention of severe forms of trafficking in persons;
@@ -95,7 +92,7 @@ generated_at: "2026-03-29T20:04:46.960Z"
       - **(i)** develop materials to assist State and local law enforcement officials in working with Federal law enforcement to obtain continued presence for victims of a severe form of trafficking in cases investigated or prosecuted at the State or local level; and
       - **(ii)** distribute the materials developed under clause (i) to State and local law enforcement officials.
   - **(4)**
-    - **(A)** Appropriate personnel of the Department of State, including members of the Service (as such term is defined in section 3903 of this title ), the Department of Homeland Security, the Department of Health and Human Services, the Department of Labor, the Equal Employment Opportunity Commission, and the Department of Justice shall be trained in identifying victims of severe forms of trafficking and providing for the protection of such victims, including juvenile victims. The Attorney General and the Secretary of Health and Human Services, in consultation with the Secretary of Labor, shall provide training to State and local officials to improve the identification and protection of such victims in order to fulfill the purposes described in section 20708 2 2 See References in Text note below. of title 34.
+    - **(A)** Appropriate personnel of the Department of State, including members of the Service (as such term is defined in section 3903 of this title ), the Department of Homeland Security, the Department of Health and Human Services, the Department of Labor, the Equal Employment Opportunity Commission, and the Department of Justice shall be trained in identifying victims of severe forms of trafficking and providing for the protection of such victims, including juvenile victims. The Attorney General and the Secretary of Health and Human Services, in consultation with the Secretary of Labor, shall provide training to State and local officials to improve the identification and protection of such victims.
     - **(B)** Training under this paragraph shall include—
       - **(i)** a distance learning course on trafficking-in-persons issues and the Department of State’s obligations under this Act, which shall be designed for embassy reporting officers, regional bureaus’ trafficking-in-persons coordinators, and their superiors;
       - **(ii)** specific trafficking-in-persons briefings for all ambassadors and deputy chiefs of mission before such individuals depart for their posts;

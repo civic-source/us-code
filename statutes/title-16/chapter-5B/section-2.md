@@ -3,9 +3,9 @@ title: "Section 2 - Multistate conservation grant program"
 usc_title: 16
 usc_section: "2"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-29T20:04:20.184Z"
+generated_at: "2026-03-29T20:32:45.250Z"
 ---
 
 # § 669h–2. Multistate conservation grant program
@@ -42,4 +42,4 @@ generated_at: "2026-03-29T20:04:20.184Z"
       - **(ii)** will use the grant funds in compliance with subsection (d).
     - **(B)** Any nongovernmental organization that is found to use grant funds in violation of subparagraph (A) shall return all funds received under this section and be subject to any other applicable penalties under law.
 - **(d)** A grant under this section shall not be used, in whole or in part, for an activity, project, or program that promotes or encourages opposition to the regulated hunting or trapping of wildlife or to recreational shooting activities.
-- **(e)** Chapter 10 of title 5 shall not apply to any activity carried out under this section.
+- **(e)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to any activity carried out under this section.

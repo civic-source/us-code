@@ -3,9 +3,9 @@ title: "Section 1328 - Discharge"
 usc_title: 11
 usc_section: "1328"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "11 U.S.C. § 1328"
-generated_at: "2026-03-29T20:03:14.819Z"
+generated_at: "2026-03-29T20:31:58.738Z"
 ---
 
 # § 1328. Discharge
@@ -36,3 +36,8 @@ generated_at: "2026-03-29T20:03:14.819Z"
 - **(h)** The court may not grant a discharge under this chapter unless the court after notice and a hearing held not more than 10 days before the date of the entry of the order granting the discharge finds that there is no reasonable cause to believe that—
   - **(1)** section 522(q)(1) may be applicable to the debtor; and
   - **(2)** there is pending any proceeding in which the debtor may be found guilty of a felony of the kind described in section 522(q)(1)(A) or liable for a debt of the kind described in section 522(q)(1)(B).
+- **(i)** Subject to subsection (d), after notice and a hearing, the court may grant a discharge of debts dischargeable under subsection (a) to a debtor who has not completed payments to the trustee or a creditor holding a security interest in the principal residence of the debtor if—
+  - **(1)** the debtor defaults on not more than 3 monthly payments due on a residential mortgage under section 1322(b)(5) on or after March 13, 2020 , to the trustee or creditor caused by a material financial hardship due, directly or indirectly, by the coronavirus disease 2019 (COVID–19) pandemic; or
+  - **(2)**
+    - **(A)** the plan provides for the curing of a default and maintenance of payments on a residential mortgage under section 1322(b)(5); and
+    - **(B)** the debtor has entered into a forbearance agreement or loan modification agreement with the holder or servicer (as defined in section 6(i) of the Real Estate Settlement Procedures Act of 1974 ( 12 U.S.C. 2605(i) ) of the mortgage described in subparagraph (A).

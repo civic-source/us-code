@@ -3,9 +3,9 @@ title: "Section 7330A - Epilepsy centers of excellence"
 usc_title: 38
 usc_section: "7330A"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "38 U.S.C. § 7330A"
-generated_at: "2026-03-29T20:05:54.778Z"
+generated_at: "2026-03-29T20:34:05.000Z"
 ---
 
 # § 7330A. Epilepsy centers of excellence
@@ -27,7 +27,7 @@ generated_at: "2026-03-29T20:05:54.778Z"
     - **(C)** Of the members first appointed to the panel, one half shall be appointed for a period of three years and one half shall be appointed for a period of two years, as designated by the Under Secretary at the time of appointment.
   - **(3)** The peer review panel shall review each proposal submitted to the panel by the Under Secretary for Health and shall submit its views on the relative scientific and clinical merit of each such proposal to the Under Secretary.
   - **(4)** The peer review panel shall, in conjunction with the national coordinator designated under subsection (e), conduct regular evaluations of each epilepsy center of excellence established and operated under subsection (a) to ensure compliance with the requirements of this section.
-  - **(5)** The peer review panel shall not be subject to chapter 10 of title 5.
+  - **(5)** The peer review panel shall not be subject to the Federal Advisory Committee Act.
 - **(d)** In this section, the term “epilepsy center of excellence” means a health care facility that has (or in the foreseeable future can develop) the necessary capacity to function as a center of excellence in research, education, and clinical care activities in the diagnosis and treatment of epilepsy and has (or may reasonably be anticipated to develop) each of the following:
   - **(1)** An affiliation with an accredited medical school that provides education and training in neurology, including an arrangement with such school under which medical residents receive education and training in the diagnosis and treatment of epilepsy (including neurosurgery).
   - **(2)** The ability to attract the participation of scientists who are capable of ingenuity and creativity in health care research efforts.

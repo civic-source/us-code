@@ -3,14 +3,14 @@ title: "Section 15704 - Inspector General; records"
 usc_title: 40
 usc_section: "15704"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "40 U.S.C. § 15704"
-generated_at: "2026-03-29T20:05:42.974Z"
+generated_at: "2026-03-29T20:33:44.494Z"
 ---
 
 # § 15704. Inspector General; records
 
-- **(a)** There shall be an Inspector General for the Commissions appointed in accordance with section 403(a) of title 5 . All of the Commissions shall be subject to a single Inspector General.
+- **(a)** There shall be an Inspector General for the Commissions appointed in accordance with section 3(a) of the Inspector General Act of 1978 (5 U.S.C. App.). All of the Commissions shall be subject to a single Inspector General.
 - **(b)**
   - **(1)** A Commission shall maintain accurate and complete records of all its transactions and activities.
   - **(2)** All records of a Commission shall be available for audit and examination by the Inspector General (including authorized representatives of the Inspector General).

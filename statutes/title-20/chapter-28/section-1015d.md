@@ -1,19 +1,16 @@
 ---
-title: "Section 1015d - In-State tuition rates for members of qualifying Federal service"
+title: "Section 1015d - In-State tuition rates for members of the armed forces on active duty, spouses, and dependent children"
 usc_title: 20
 usc_section: "1015d"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "20 U.S.C. § 1015d"
-generated_at: "2026-03-29T20:04:32.782Z"
+generated_at: "2026-03-29T20:32:28.746Z"
 ---
 
-# § 1015d. In-State tuition rates for members of qualifying Federal service
+# § 1015d. In-State tuition rates for members of the armed forces on active duty, spouses, and dependent children
 
-- **(a)** In the case of a member of a qualifying Federal service whose domicile or permanent duty station is in a State that receives assistance under this chapter, such State shall not charge such member (or the spouse or dependent child of such member) tuition for attendance at a public institution of higher education in the State at a rate that is greater than the rate charged for residents of the State.
-- **(b)** If a member of a qualifying Federal service (or the spouse or dependent child of a member) pays tuition at a public institution of higher education in a State at a rate determined by subsection (a), the provisions of subsection (a) shall continue to apply to such member, spouse, or dependent while continuously enrolled at that institution, notwithstanding a subsequent change in the permanent duty station of the member to a location outside the State.
+- **(a)** In the case of a member of the armed forces who is on active duty for a period of more than 30 days and whose domicile or permanent duty station is in a State that receives assistance under this chapter, such State shall not charge such member (or the spouse or dependent child of such member) tuition for attendance at a public institution of higher education in the State at a rate that is greater than the rate charged for residents of the State.
+- **(b)** If a member of the armed forces (or the spouse or dependent child of a member) pays tuition at a public institution of higher education in a State at a rate determined by subsection (a), the provisions of subsection (a) shall continue to apply to such member, spouse, or dependent while continuously enrolled at that institution, notwithstanding a subsequent change in the permanent duty station of the member to a location outside the State.
 - **(c)** This section shall take effect at each public institution of higher education in a State that receives assistance under this chapter for the first period of enrollment at such institution that begins after July 1, 2009 .
-- **(d)** In this section, the term “member of a qualifying Federal service” means—
-  - **(1)** a member of the armed forces (as defined in section 101 of title 10 ) who is on active duty for a period of more than 30 days (as defined in section 101 of title 10 );
-  - **(2)** a member of the Foreign Service (as defined in section 3903 of title 22 ) who is on active duty for a period of more than 30 days; or
-  - **(3)** an officer or employee of an element of the intelligence community (as such term is defined in section 3003 of title 50 ) who serves in a position of employment in such element for a period of more than 30 days.
+- **(d)** In this section, the terms “armed forces” and “active duty for a period of more than 30 days” have the meanings given those terms in section 101 of title 10 .

@@ -3,9 +3,9 @@ title: "Section 1098h - Procedure and requirements for requesting tax return inf
 usc_title: 20
 usc_section: "1098h"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "20 U.S.C. § 1098h"
-generated_at: "2026-03-29T20:04:32.904Z"
+generated_at: "2026-03-29T20:32:28.841Z"
 ---
 
 # § 1098h. Procedure and requirements for requesting tax return information from the Internal Revenue Service
@@ -16,9 +16,8 @@ generated_at: "2026-03-29T20:04:32.904Z"
       - **(i)** if such individuals provide approval under subparagraph (B)—
         - **(I)** the Secretary will have the authority to request that the Secretary of the Treasury disclose return information of such individuals to authorized persons (as defined in section 6103( l )(13) of title 26) for the relevant purposes described in such section; and
         - **(II)** the return information of such individuals may be redisclosed pursuant to clauses (iii), (iv), (v), and (vi) of section 6103( l )(13)(D) of the Internal Revenue Code of 1986, for the relevant purposes described in such section; and
-      - **(ii)** the failure to provide such approval for the disclosures described in subclauses (I) and (II) of clause (i) will result in the Secretary being unable to calculate eligibility for such aid to such individual;
-    - **(B)** require, as a condition of eligibility for such aid, that such individuals affirmatively approve the disclosures described in subclauses (I) and (II) of subparagraph (A)(i); and
-    - **(C)** if an individual is pursuing provisional independent student status due to an unusual circumstance, as described in section 1087tt of this title and provided for in section 1087uu–2 of this title , require such individual to provide an affirmative approval under subparagraph (B), but not require a parent of such individual to provide an affirmative approval under subparagraph (B).
+      - **(ii)** the failure to provide such approval for the disclosures described in subclauses (I) and (II) of clause (i) will result in the Secretary being unable to calculate eligibility for such aid to such individual; and
+    - **(B)** require, as a condition of eligibility for such aid, that such individuals affirmatively approve the disclosures described in subclauses (I) and (II) of subparagraph (A)(i).
   - **(2)**
     - **(A)** In the case of any written or electronic application by an individual for an income-contingent or income-based repayment plan for a loan under part D, the Secretary, with respect to such individual and any spouse of such individual, shall—
       - **(i)** provide to such individuals the notification described in paragraph (1)(A)(i);
@@ -35,12 +34,12 @@ generated_at: "2026-03-29T20:04:32.904Z"
       - **(ii)** provide such information as the Secretary may require to confirm the eligibility of such individual for such discharge.
 - **(b)** The Secretary shall only have authority to request that the Secretary of the Treasury disclose return information under section 6103( l )(13) of title 26 with respect to an individual if the Secretary of Education has obtained approval under subsection (a) for such disclosure.
 - **(c)**
-  - **(1)** The information in a complete, unredacted Student Aid Report (including any return information disclosed under section 6103( l )(13) of title 26) with respect to an application described in subsection (a)(1) of an applicant for Federal student financial aid—
+  - **(1)** The information in a complete, unredacted Student Aid Report (including any return information disclosed under section 6103( l )(13) of title 26 with respect to an application described in subsection (a)(1) of an applicant for Federal student financial aid—
     - **(A)** upon request for such information by such applicant, shall be provided to such applicant by—
       - **(i)** the Secretary; or
       - **(ii)** in a case in which the Secretary has requested that institutions of higher education carry out the requirements of this subparagraph, an institution of higher education that has received such information; and
-    - **(B)** with the written consent by the applicant to an institution of higher education, may be provided by such institution of higher education as is necessary to a scholarship granting organization (including a tribal organization (defined in section 5304 of title 25 )), or to an organization assisting the applicant in applying for and receiving Federal, State, local, or tribal assistance, that is designated by the applicant to assist the applicant in applying for and receiving financial assistance for any component of the applicant’s cost of attendance (defined in section 1087 ll of this title) at that institution.
-  - **(2)** A discussion of the information in an application described in subsection (a)(1) (including any return information disclosed under section 6103( l )(13) of title 26) of an applicant between an institution of higher education and the applicant may, with the written consent of the applicant, include an individual selected by the applicant (such as an advisor) to participate in such discussion.
+    - **(B)** with the written consent by the applicant to an institution of higher education, may be provided by such institution of higher education as is necessary to a scholarship granting organization (including a tribal organization (defined in section 5304 of title 25 , or to an organization assisting the applicant in applying for and receiving Federal, State, local, or tribal assistance, that is designated by the applicant to assist the applicant in applying for and receiving financial assistance for any component of the applicant’s cost of attendance (defined in section 1087 ll of this title) at that institution.
+  - **(2)** A discussion of the information in an application described in subsection (a)(1) (including any return information disclosed under section 6103( l )(13) of title 26 of an applicant between an institution of higher education and the applicant may, with the written consent of the applicant, include an individual selected by the applicant (such as an advisor) to participate in such discussion.
   - **(3)** A person receiving information under paragraph (1)(B) or (2) with respect to an applicant shall not use the information for any purpose other than the express purpose for which consent was granted by the applicant and shall not disclose such information to any other person without the express permission of, or request by, the applicant.
   - **(4)** In this subsection:
     - **(A)** The term “Student Aid Report” has the meaning given the term in section 668.2 of title 34, Code of Federal Regulations (or successor regulations).

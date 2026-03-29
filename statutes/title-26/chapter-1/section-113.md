@@ -3,9 +3,9 @@ title: "Section 113 - Repealed. Pub. L. 101–508, title XI, § 11801(a)(7) , No
 usc_title: 26
 usc_section: "113"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "26 U.S.C. § 113"
-generated_at: "2026-03-29T20:05:22.200Z"
+generated_at: "2026-03-29T20:33:26.827Z"
 ---
 
 # [§ 113. Repealed. Pub. L. 101–508, title XI, § 11801(a)(7) , Nov. 5, 1990 , 104 Stat. 1388–520 ]

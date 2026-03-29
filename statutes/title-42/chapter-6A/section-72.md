@@ -3,9 +3,9 @@ title: "Section 72 - Promoting poison control center utilization"
 usc_title: 42
 usc_section: "72"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 72"
-generated_at: "2026-03-29T20:07:43.221Z"
+generated_at: "2026-03-29T20:34:52.734Z"
 ---
 
 # § 300d–72. Promoting poison control center utilization
@@ -15,4 +15,4 @@ generated_at: "2026-03-29T20:07:43.221Z"
   - **(1)** the development and distribution of poisoning and toxic exposure prevention awareness materials, applicable public health emergency preparedness and response information, and poison control center awareness materials;
   - **(2)** television, radio, Internet, and newspaper public service announcements; and
   - **(3)** other activities to provide for public and professional awareness and education.
-- **(c)** There is authorized to be appropriated to carry out this section, $800,000 for each of fiscal years 2025 through 2029.
+- **(c)** There is authorized to be appropriated to carry out this section, $800,000 for each of fiscal years 2020 through 2024.

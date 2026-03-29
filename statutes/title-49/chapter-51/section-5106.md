@@ -3,9 +3,9 @@ title: "Section 5106 - Handling criteria"
 usc_title: 49
 usc_section: "5106"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "49 U.S.C. § 5106"
-generated_at: "2026-03-29T20:07:58.422Z"
+generated_at: "2026-03-29T20:35:10.760Z"
 ---
 
 # § 5106. Handling criteria

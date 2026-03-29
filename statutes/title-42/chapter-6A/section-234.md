@@ -3,9 +3,9 @@ title: "Section 234 - Health care professionals assisting during a public health
 usc_title: 42
 usc_section: "234"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 234"
-generated_at: "2026-03-29T20:07:42.919Z"
+generated_at: "2026-03-29T20:34:52.524Z"
 ---
 
 # § 234. Health care professionals assisting during a public health emergency

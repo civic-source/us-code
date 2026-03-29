@@ -3,33 +3,22 @@ title: "Section 16512 - Terms and conditions"
 usc_title: 42
 usc_section: "16512"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 16512"
-generated_at: "2026-03-29T20:07:44.926Z"
+generated_at: "2026-03-29T20:34:54.253Z"
 ---
 
 # § 16512. Terms and conditions
 
-- **(a)** Except for division C of Public Law 108–324 [ 15 U.S.C. 720 et seq.], the Secretary shall make guarantees under this or any other Act for projects, including projects receiving financial support or credit enhancements from a State energy financing institution, on such terms and conditions as the Secretary determines, after consultation with the Secretary of the Treasury, only in accordance with this section.
+- **(a)** Except for division C of Public Law 108–324 [ 15 U.S.C. 720 et seq.], the Secretary shall make guarantees under this or any other Act for projects on such terms and conditions as the Secretary determines, after consultation with the Secretary of the Treasury, only in accordance with this section.
 - **(b)**
   - **(1)** Except as provided in paragraph (2), the cost of a guarantee shall be paid by the Secretary using an appropriation made for the cost of the guarantee, subject to the availability of such an appropriation.
   - **(2)** If sufficient appropriated funds to pay the cost of a guarantee are not available, then the guarantee shall not be made unless—
     - **(A)** the Secretary has received from the borrower a payment in full for the cost of the guarantee and deposited the payment into the Treasury; or
     - **(B)** a combination of one or more appropriations and one or more payments from the borrower under this subsection has been made that is sufficient to cover the cost of the guarantee.
-  - **(3)** The source of a payment received from a borrower under subparagraph (A) or (B) of paragraph (2) may not be a loan or other debt obligation that is made or guaranteed by the Federal Government.
 - **(c)** Unless otherwise provided by law, a guarantee by the Secretary shall not exceed an amount equal to 80 percent of the project cost of the facility that is the subject of the guarantee, as estimated at the time at which the guarantee is issued.
 - **(d)**
-  - **(1)**
-    - **(A)** No guarantee, including a guarantee for a project receiving financial support or credit enhancements from a State energy financing institution, shall be made unless the Secretary determines that there is reasonable prospect of repayment of the principal and interest on the obligation by the borrower.
-    - **(B)** The Secretary shall base a determination of whether there is reasonable prospect of repayment under subparagraph (A) on a comprehensive evaluation of whether the borrower has a reasonable prospect of repaying the guaranteed obligation for the eligible project, including, as applicable, an evaluation of—
-      - **(i)** the strength of the contractual terms of the eligible project (if commercially reasonably available);
-      - **(ii)** the forecast of noncontractual cash flows supported by market projections from reputable sources, as determined by the Secretary;
-      - **(iii)** cash sweeps and other structure enhancements;
-      - **(iv)** the projected financial strength of the borrower—
-        - **(I)** at the time of loan close; and
-        - **(II)** throughout the loan term after the project is completed;
-      - **(v)** the financial strength of the investors and strategic partners of the borrower, if applicable; and
-      - **(vi)** other financial metrics and analyses that are relied on by the private lending community and nationally recognized credit rating agencies, as determined appropriate by the Secretary.
+  - **(1)** No guarantee shall be made unless the Secretary determines that there is reasonable prospect of repayment of the principal and interest on the obligation by the borrower.
   - **(2)** No guarantee shall be made unless the Secretary determines that the amount of the obligation (when combined with amounts available to the borrower from other sources) will be sufficient to carry out the project.
   - **(3)** The obligation shall be subject to the condition that the obligation, including any reorganization, restructuring, or termination thereof, shall not at any time be subordinate to other financing.
 - **(e)** An obligation shall bear interest at a rate that does not exceed a level that the Secretary determines appropriate, taking into account the prevailing rate of interest in the private sector for similar loans and risks.
@@ -86,7 +75,7 @@ generated_at: "2026-03-29T20:07:44.926Z"
 - **(o)** In carrying out this subchapter, the Secretary shall—
   - **(1)** provide assistance with the completion of applications for a guarantee under this subchapter;
   - **(2)** conduct outreach, including through conferences and online programs, to disseminate information to potential applicants;
-  - **(3)** conduct outreach to encourage participation of supporting finance institutions and private lenders in eligible projects and projects described in section 16517(a) of this title .
+  - **(3)** conduct outreach to encourage participation of supporting finance institutions and private lenders in eligible projects.
 - **(p)** In carrying out this subchapter, the Secretary shall coordinate activities under this subchapter with activities of other relevant offices with the Department.
 - **(q)** Not later than 2 years after December 27, 2020 , and every 3 years thereafter, the Secretary shall submit to Congress a report on the status of applications for, and projects receiving, guarantees under this title, including—
   - **(1)** a list of such projects, including the guarantee amount, construction status, and financing partners of each such project;
@@ -100,9 +89,3 @@ generated_at: "2026-03-29T20:07:44.926Z"
   - **(7)** the number of outreach engagements conducted with potential applicants;
   - **(8)** the number of applications received and currently pending for each open solicitation; and
   - **(9)** any other metrics the Secretary finds appropriate.
-- **(r)** For each project selected for a guarantee under this subchapter, the Secretary shall certify that political influence did not impact the selection of the project.
-- **(r)**
-  - **(1)** To be eligible for a guarantee under this subchapter, a project receiving financial support or credit enhancements from a State energy financing institution—
-    - **(A)** shall meet the requirements of section 16513(a)(1) of this title ; and
-    - **(B)** shall not be required to meet the requirements of section 16513(a)(2) of this title .
-  - **(2)** In carrying out a project receiving a loan guarantee under this subchapter, State energy financing institutions may enter into partnerships with private entities, Tribal entities, and Alaska Native corporations.

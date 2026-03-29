@@ -3,9 +3,9 @@ title: "Section 8090 - Staff corps of the Navy"
 usc_title: 10
 usc_section: "8090"
 chapter: 809
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 8090"
-generated_at: "2026-03-29T20:03:09.856Z"
+generated_at: "2026-03-29T20:31:54.727Z"
 ---
 
 # § 8090. Staff corps of the Navy
@@ -14,12 +14,8 @@ generated_at: "2026-03-29T20:03:09.856Z"
   - **(1)** the Medical Corps;
   - **(2)** the Dental Corps;
   - **(3)** the Judge Advocate General’s Corps;
-  - **(4)** the Chaplain Corps;
-  - **(5)** the Supply Corps;
-  - **(6)** the Civil Engineer Corps;
-  - **(7)** the Nurse Corps;
-  - **(8)** the Medical Service Corps; and
-  - **(9)** such other staff corps as may be established by the Secretary of the Navy under subsection (b).
+  - **(4)** the Chaplain Corps; and
+  - **(5)** such other staff corps as may be established by the Secretary of the Navy under subsection (b).
 - **(b)**
-  - **(1)** The Secretary of the Navy may establish staff corps of the Navy in addition to the staff corps specified in subsection (a). The Secretary may designate commissioned officers in, and may assign members to, any such staff corps.
+  - **(1)** The Secretary of the Navy may establish staff corps of the Navy in addition to the Medical Corps, the Dental Corps, the Judge Advocate General’s Corps, and the Chaplain Corps. The Secretary may designate commissioned officers in, and may assign members to, any such staff corps.
   - **(2)** The Secretary of the Navy may provide for the appointment of the chief of any staff corps established under this subsection.

@@ -3,9 +3,9 @@ title: "Section 3955 - Termination of residential or motor vehicle leases"
 usc_title: 50
 usc_section: "3955"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "50 U.S.C. § 3955"
-generated_at: "2026-03-29T20:08:11.264Z"
+generated_at: "2026-03-29T20:35:05.271Z"
 ---
 
 # § 3955. Termination of residential or motor vehicle leases
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T20:08:11.264Z"
       - **(ii)** in the case of a lessee who lacks the mental capacity to contract or to manage his or her own affairs (including disbursement of funds without limitation) due to such injury or illness, the spouse or dependent of the lessee may terminate the lease.
     - **(B)** In this paragraph:
       - **(i)** The term “catastrophic injury or illness” has the meaning given that term in section 439(g) of title 37 .
-      - **(ii)** The term “covered service” means full-time National Guard duty, active Guard and Reserve duty, or inactive-duty training (as such terms are defined in section 101(d) of title 10 ).
+      - **(ii)** The term “covered service” means full-time National Guard duty, active Guard and Reserve duty, or inactive-duty training (as such terms are defined in section 101(d) of title 10 .
 - **(b)** This section applies to the following leases:
   - **(1)** A lease of premises occupied, or intended to be occupied, by a servicemember or a servicemember’s dependents for a residential, professional, business, agricultural, or similar purpose if—
     - **(A)** the lease is executed by or on behalf of a person who thereafter and during the term of the lease enters military service;

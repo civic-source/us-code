@@ -3,9 +3,9 @@ title: "Section 294d - Quentin N. Burdick program for rural interdisciplinary tr
 usc_title: 42
 usc_section: "294d"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "42 U.S.C. § 294d"
-generated_at: "2026-03-29T20:07:43.175Z"
+generated_at: "2026-03-29T20:34:52.703Z"
 ---
 
 # § 294d. Quentin N. Burdick program for rural interdisciplinary training

@@ -1,14 +1,14 @@
 ---
-title: "Section 2354 - Study by Secretary of Commerce when International Trade Commission begins investigation; action where there is affirmative finding"
+title: "Section 2354 - Study by Secretary of Commerce when International Trade Commission begins investigation"
 usc_title: 19
 usc_section: "2354"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "19 U.S.C. § 2354"
-generated_at: "2026-03-29T20:04:27.377Z"
+generated_at: "2026-03-29T20:32:31.798Z"
 ---
 
-# § 2354. Study by Secretary of Commerce when International Trade Commission begins investigation; action where there is affirmative finding
+# § 2354. Study by Secretary of Commerce when International Trade Commission begins investigation
 
 - **(a)** Whenever the Commission begins an investigation under section 2252 of this title with respect to an industry, the Commission shall immediately notify the Secretary of such investigation, and the Secretary shall immediately begin a study of—
   - **(1)** the number of firms in the domestic industry producing the like or directly competitive article which have been or are likely to be certified as eligible for adjustment assistance, and

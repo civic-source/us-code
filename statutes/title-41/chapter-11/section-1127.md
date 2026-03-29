@@ -3,9 +3,9 @@ title: "Section 1127 - Determining benchmark compensation amount"
 usc_title: 41
 usc_section: "1127"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "41 U.S.C. § 1127"
-generated_at: "2026-03-29T20:05:58.260Z"
+generated_at: "2026-03-29T20:34:07.726Z"
 ---
 
 # § 1127. Determining benchmark compensation amount
@@ -19,4 +19,4 @@ generated_at: "2026-03-29T20:05:58.260Z"
     - **(A)** organized under the laws of a State of the United States, the District of Columbia, Puerto Rico, or a possession of the United States; and
     - **(B)** whose voting stock is publicly traded.
   - **(6)** The term “senior executives”, with respect to a contractor, means the 5 most highly compensated employees in management positions at each home office and each segment of the contractor.
-- **(b)** For purposes of section 4304(a)(16) of this title and section 3744(a)(16) of title 10 , the Administrator shall review commercially available surveys of executive compensation and, on the basis of the results of the review, determine a benchmark compensation amount to apply for each fiscal year. In making determinations under this subsection, the Administrator shall consult with the Director of the Defense Contract Audit Agency and other officials of executive agencies as the Administrator considers appropriate.
+- **(b)** For purposes of section 4304(a)(16) of this title and section 2324(e)(1)(P) of title 10 , the Administrator shall review commercially available surveys of executive compensation and, on the basis of the results of the review, determine a benchmark compensation amount to apply for each fiscal year. In making determinations under this subsection, the Administrator shall consult with the Director of the Defense Contract Audit Agency and other officials of executive agencies as the Administrator considers appropriate.

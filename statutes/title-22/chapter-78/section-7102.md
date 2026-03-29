@@ -3,9 +3,9 @@ title: "Section 7102 - Definitions"
 usc_title: 22
 usc_section: "7102"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "22 U.S.C. § 7102"
-generated_at: "2026-03-29T20:04:46.955Z"
+generated_at: "2026-03-29T20:33:00.134Z"
 ---
 
 # § 7102. Definitions
@@ -64,6 +64,6 @@ In this chapter:
   - **(13)** The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and territories and possessions of the United States.
   - **(14)** The term “Task Force” means the Interagency Task Force to Monitor and Combat Trafficking established under section 7103 of this title .
   - **(15)** The term “United States” means the fifty States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the territories and possessions of the United States.
-  - **(16)** The term “victim of a severe form of trafficking” means a person subject to an act or practice described in paragraph (11).
-  - **(17)** The term “victim of trafficking” means a person subjected to an act or practice described in paragraph (11) or (12).
+  - **(16)** The term “victim of a severe form of trafficking” means a person subject to an act or practice described in paragraph (9) 2 .
+  - **(17)** The term “victim of trafficking” means a person subjected to an act or practice described in paragraph (9) or (10) 2 .
   - **(18)** The term “grounds related to human trafficking” means grounds related to the criteria for inadmissibility to the United States described in subsection (a)(2)(H) of section 1182 of title 8 .

@@ -3,12 +3,12 @@ title: "Section 9321 - Mandatory retirement: Superintendent of the United States
 usc_title: 10
 usc_section: "9321"
 chapter: 941
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 9321"
-generated_at: "2026-03-29T20:03:09.893Z"
+generated_at: "2026-03-29T20:31:54.754Z"
 ---
 
 # § 9321. Mandatory retirement: Superintendent of the United States Air Force Academy; waiver authority
 
 - **(a)** Upon the termination of the detail of an officer to the position of Superintendent of the United States Air Force Academy, the Secretary of the Air Force shall retire the officer under any provision of this chapter under which the officer is eligible to retire.
-- **(b)** The Secretary of Defense may waive the requirement in subsection (a) for good cause. In each case in which such a waiver is granted for an officer, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a written notification of the waiver, with a statement of the reasons supporting the decision that the officer not retire, and a written notification of the intent of the President to nominate the officer for reassignment. In the event a waiver under this subsection is granted, the subsequent nomination and appointment of such officer having served as Superintendent of the Academy to a further assignment in lieu of retirement shall be subject to the advice and consent of the Senate.
+- **(b)** The Secretary of Defense may waive the requirement in subsection (a) for good cause. In each case in which such a waiver is granted for an officer, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a written notification of the waiver, with a statement of the reasons supporting the decision that the officer not retire, and a written notification of the intent of the President to nominate the officer for reassignment.

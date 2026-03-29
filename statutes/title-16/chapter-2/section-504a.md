@@ -3,9 +3,9 @@ title: "Section 504a - Sale of forest-tree seed and nursery stock to States and 
 usc_title: 16
 usc_section: "504a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "16 U.S.C. § 504a"
-generated_at: "2026-03-29T20:04:20.130Z"
+generated_at: "2026-03-29T20:32:45.194Z"
 ---
 
 # § 504a. Sale of forest-tree seed and nursery stock to States and political subdivisions; disposition of moneys; exchanges; limitation

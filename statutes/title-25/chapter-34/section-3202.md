@@ -3,9 +3,9 @@ title: "Section 3202 - Definitions"
 usc_title: 25
 usc_section: "3202"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "25 U.S.C. § 3202"
-generated_at: "2026-03-29T20:04:54.433Z"
+generated_at: "2026-03-29T20:32:54.755Z"
 ---
 
 # § 3202. Definitions
@@ -17,11 +17,9 @@ For the purposes of this chapter, the term—
     - **(A)** is not married, and
     - **(B)** has not attained 18 years of age;
   - **(3)** “child abuse” includes but is not limited to—
-    - **(A)** in any case in which—
-      - **(i)**
-        - **(I)** a child is dead or exhibits evidence of skin bruising, bleeding, malnutrition, failure to thrive, burns, fracture of any bone, subdural hematoma, soft tissue swelling; and
-        - **(II)** such condition is not justifiably explained or may not be the product of an accidental occurrence; or
-      - **(ii)** a child is subjected to sexual assault, sexual molestation, sexual exploitation, sexual contact, or prostitution; and
+    - **(A)** any case in which—
+      - **(i)** a child is dead or exhibits evidence of skin bruising, bleeding, malnutrition, failure to thrive, burns, fracture of any bone, subdural hematoma, soft tissue swelling, and
+      - **(ii)** such condition is not justifiably explained or may not be the product of an accidental occurrence; and
     - **(B)** any case in which a child is subjected to sexual assault, sexual molestation, sexual exploitation, sexual contact, or prostitution;
   - **(4)** “child neglect” includes but is not limited to, negligent treatment or maltreatment of a child by a person, including a person responsible for the child’s welfare, under circumstances which indicate that the child’s health or welfare is harmed or threatened thereby;
   - **(5)** “family violence” means any act, or threatened act, of violence, including any forceful detention of an individual, which—

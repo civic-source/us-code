@@ -3,9 +3,9 @@ title: "Section 1083a - Consumer education information"
 usc_title: 20
 usc_section: "1083a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "20 U.S.C. § 1083a"
-generated_at: "2026-03-29T20:04:32.846Z"
+generated_at: "2026-03-29T20:32:28.798Z"
 ---
 
 # § 1083a. Consumer education information

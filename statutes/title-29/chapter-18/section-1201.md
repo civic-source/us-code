@@ -3,9 +3,9 @@ title: "Section 1201 - Procedures in connection with the issuance of certain det
 usc_title: 29
 usc_section: "1201"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "29 U.S.C. § 1201"
-generated_at: "2026-03-29T20:05:03.744Z"
+generated_at: "2026-03-29T20:33:05.763Z"
 ---
 
 # § 1201. Procedures in connection with the issuance of certain determination letters by the Secretary of the Treasury covering qualifications under Internal Revenue Code

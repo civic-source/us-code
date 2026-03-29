@@ -1,12 +1,26 @@
 ---
-title: "Section 2922h - Repealed. Pub. L. 118–159, div. A, title III, § 315(a) , Dec. 23, 2024 , 138 Stat. 1851 ]"
+title: "Section 2922h - Limitation on procurement of drop-in fuels"
 usc_title: 10
 usc_section: "2922h"
 chapter: 173
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "10 U.S.C. § 2922h"
-generated_at: "2026-03-29T20:03:09.742Z"
+generated_at: "2026-03-29T20:31:54.662Z"
 ---
 
-# [§ 2922h. Repealed. Pub. L. 118–159, div. A, title III, § 315(a) , Dec. 23, 2024 , 138 Stat. 1851 ]
+# § 2922h. Limitation on procurement of drop-in fuels
 
+- **(a)** Except as provided in subsection (b), the Secretary of Defense may not make a bulk purchase of a drop-in fuel for operational purposes unless the fully burdened cost of that drop-in fuel is cost-competitive with the fully burdened cost of a traditional fuel available for the same purpose.
+- **(b)**
+  - **(1)** Subject to the requirements of paragraph (2), the Secretary of Defense may waive the limitation under subsection (a) with respect to a purchase.
+  - **(2)** Not later than 30 days after issuing a waiver under this subsection, the Secretary shall submit to the congressional defense committees notice of the waiver. Any such notice shall include each of the following:
+    - **(A)** The rationale of the Secretary for issuing the waiver.
+    - **(B)** A certification that the waiver is in the national security interest of the United States.
+    - **(C)** The expected fully burdened cost of the purchase for which the waiver is issued.
+- **(c)** In this section:
+  - **(1)** The term “drop-in fuel” means a neat or blended liquid hydrocarbon fuel designed as a direct replacement for a traditional fuel with comparable performance characteristics and compatible with existing infrastructure and equipment.
+  - **(2)** The term “traditional fuel” means a liquid hydrocarbon fuel derived or refined from petroleum.
+  - **(3)** The term “operational purposes”—
+    - **(A)** means for the purposes of conducting military operations, including training, exercises, large scale demonstrations, and moving and sustaining military forces and military platforms; and
+    - **(B)** does not include research, development, testing, evaluation, fuel certification, or other demonstrations.
+  - **(4)** The term “fully burdened cost” means the commodity price of the fuel plus the total cost of all personnel and assets required to move and, when necessary, protect the fuel from the point at which the fuel is received from the commercial supplier to the point of use.

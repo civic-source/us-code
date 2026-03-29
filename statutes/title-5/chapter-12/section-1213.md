@@ -3,9 +3,9 @@ title: "Section 1213 - Provisions relating to disclosures of violations of law, 
 usc_title: 5
 usc_section: "1213"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 117-24"
 classification: "5 U.S.C. § 1213"
-generated_at: "2026-03-29T20:02:37.764Z"
+generated_at: "2026-03-29T20:31:26.736Z"
 ---
 
 # § 1213. Provisions relating to disclosures of violations of law, gross mismanagement, and certain other matters
