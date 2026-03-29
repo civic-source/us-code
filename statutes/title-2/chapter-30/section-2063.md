@@ -3,16 +3,16 @@ title: "Section 2063 - Senate Employee Child Care Center"
 usc_title: 2
 usc_section: "2063"
 chapter: 30
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "2 U.S.C. § 2063"
-generated_at: "2026-03-29T18:03:21.819Z"
+generated_at: "2026-03-29T18:23:14.137Z"
 ---
 
 # § 2063. Senate Employee Child Care Center
 
 - **(a)** The provisions of this section shall apply to any individual who is employed by the Senate day care center (known as the “Senate Employee Child Care Center” and hereafter in this section referred to as the “Center”) established pursuant to Senate Resolution 269, Ninety-eighth Congress, and section 2061 of this title .
-- **(b)** Any individual described under subsection (a) of this section who is employed by the Center on or after August 14, 1991 , shall be deemed an employee under section 8901(1) of title 5 for purposes of health insurance coverage under chapter 89 of such title. An individual described under subsection (a) of this section who is an employee of the Center on August 14, 1991 , may elect coverage under this subsection during the 31-day period beginning on August 14, 1991 , and during such periods as determined by the Office of Personnel Management for employees of the Center employed after August 14, 1991 .
-- **(c)** The Center shall make such deductions and withholdings from the pay of an individual described under subsection (a) of this section who is an employee of the Center in accordance with subsection (d) of this section.
+- **(b)** Any individual described under subsection (a) who is employed by the Center on or after August 14, 1991 , shall be deemed an employee under section 8901(1) of title 5 for purposes of health insurance coverage under chapter 89 of such title. An individual described under subsection (a) who is an employee of the Center on August 14, 1991 , may elect coverage under this subsection during the 31-day period beginning on August 14, 1991 , and during such periods as determined by the Office of Personnel Management for employees of the Center employed after August 14, 1991 .
+- **(c)** The Center shall make such deductions and withholdings from the pay of an individual described under subsection (a) who is an employee of the Center in accordance with subsection (d) of this section.
 - **(d)** The Center shall—
   - **(1)** maintain records on all employees covered under this section in such manner as the Secretary of the Senate may require for administrative purposes; and
   - **(2)** after consultation with the Secretary of the Senate—

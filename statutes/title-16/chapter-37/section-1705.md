@@ -1,12 +1,12 @@
 ---
-title: "Section 1705 - Repealed. Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(N) , Nov. 12, 1996 , 110 Stat. 4196"
+title: "Section 1705 - Repealed. Pub. L. 104–333, div. I, title VIII , § 814(d)(1)(N), Nov. 12, 1996 , 110 Stat. 4196"
 usc_title: 16
 usc_section: "1705"
 chapter: 37
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 1705"
-generated_at: "2026-03-29T18:05:06.966Z"
+generated_at: "2026-03-29T18:24:22.823Z"
 ---
 
-# § 1705. Repealed. Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(N) , Nov. 12, 1996 , 110 Stat. 4196
+# § 1705. Repealed. Pub. L. 104–333, div. I, title VIII , § 814(d)(1)(N), Nov. 12, 1996 , 110 Stat. 4196
 

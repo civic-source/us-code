@@ -3,9 +3,9 @@ title: "Section 5197 - Administrative authority"
 usc_title: 42
 usc_section: "5197"
 chapter: 68
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 5197"
-generated_at: "2026-03-29T18:07:14.665Z"
+generated_at: "2026-03-29T18:27:03.628Z"
 ---
 
 # § 5197. Administrative authority
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T18:07:14.665Z"
   - **(3)** use such voluntary and uncompensated services by individuals or organizations as may from time to time be needed.
 - **(d)** Notwithstanding any other provision of law, the Administrator may accept gifts of supplies, equipment, and facilities and may use or distribute such gifts for emergency preparedness purposes in accordance with the provisions of this subchapter.
 - **(e)** The Administrator may reimburse any Federal agency for any of its expenditures or for compensation of its personnel and use or consumption of its materials and facilities under this subchapter to the extent funds are available.
-- **(f)** The Administrator may purchase such printing, binding, and blank-book work from public, commercial, or private printing establishments or binderies as the Administrator considers necessary upon orders placed by the Public Printer or upon waivers issued in accordance with section 504 of title 44 .
+- **(f)** The Administrator may purchase such printing, binding, and blank-book work from public, commercial, or private printing establishments or binderies as the Administrator considers necessary upon orders placed by the Director of the Government Publishing Office or upon waivers issued in accordance with section 504 of title 44 .
 - **(g)** The Administrator may prescribe such rules and regulations as may be necessary and proper to carry out any of the provisions of this subchapter and perform any of the powers and duties provided by this subchapter. The Administrator may perform any of the powers and duties provided by this subchapter through or with the aid of such officials of the Federal Emergency Management Agency as the Administrator may designate.
 - **(h)**
   - **(1)** When, after reasonable notice and opportunity for hearing to the State or other person involved, the Administrator finds that there is a failure to expend funds in accordance with the regulations, terms, and conditions established under this subchapter for approved emergency preparedness plans, programs, or projects, the Administrator may notify such State or person that further payments will not be made to the State or person from appropriations under this subchapter (or from funds otherwise available for the purposes of this subchapter for any approved plan, program, or project with respect to which there is such failure to comply) until the Administrator is satisfied that there will no longer be any such failure.

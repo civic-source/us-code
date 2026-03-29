@@ -3,9 +3,9 @@ title: "Section 11 - Arbitral awards; enforcement; full faith and credit; Federa
 usc_title: 22
 usc_section: "11"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 11"
-generated_at: "2026-03-29T18:05:21.753Z"
+generated_at: "2026-03-29T18:24:54.135Z"
 ---
 
 # § 290k–11. Arbitral awards; enforcement; full faith and credit; Federal Arbitration Act inapplicable; exclusiveness of district court jurisdiction

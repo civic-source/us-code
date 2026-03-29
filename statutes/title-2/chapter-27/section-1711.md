@@ -3,15 +3,15 @@ title: "Section 1711 - Establishment of program by Librarian of Congress"
 usc_title: 2
 usc_section: "1711"
 chapter: 27
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "2 U.S.C. § 1711"
-generated_at: "2026-03-29T18:03:21.800Z"
+generated_at: "2026-03-29T18:23:14.121Z"
 ---
 
 # § 1711. Establishment of program by Librarian of Congress
 
-- **(a)** The Librarian shall, after consultation with the National Recording Preservation Board established under subchapter III of this chapter, implement a comprehensive national sound recording preservation program, in conjunction with other sound recording archivists, educators and historians, copyright owners, recording industry representatives, and others involved in activities related to sound recording preservation, and taking into account studies conducted by the Board.
-- **(b)** The program established under subsection (a) of this section shall—
+- **(a)** The Librarian shall, after consultation with the National Recording Preservation Board established under subchapter III, implement a comprehensive national sound recording preservation program, in conjunction with other sound recording archivists, educators and historians, copyright owners, recording industry representatives, and others involved in activities related to sound recording preservation, and taking into account studies conducted by the Board.
+- **(b)** The program established under subsection (a) shall—
   - **(1)** coordinate activities to assure that efforts of archivists and copyright owners, and others in the public and private sector, are effective and complementary;
   - **(2)** generate public awareness of and support for these activities;
   - **(3)** increase accessibility of sound recordings for educational purposes;

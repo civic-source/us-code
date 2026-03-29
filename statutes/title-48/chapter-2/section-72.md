@@ -1,12 +1,12 @@
 ---
-title: "Section 72 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 642"
+title: "Section 72 - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 Stat. 642"
 usc_title: 48
 usc_section: "72"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "48 U.S.C. § 72"
-generated_at: "2026-03-29T02:16:00.796Z"
+generated_at: "2026-03-29T18:27:11.635Z"
 ---
 
-# §§ 67 to 72. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 642
+# §§ 67 to 72. Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 Stat. 642
 

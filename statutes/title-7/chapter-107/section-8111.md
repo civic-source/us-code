@@ -3,9 +3,9 @@ title: "Section 8111 - Biomass Crop Assistance Program"
 usc_title: 7
 usc_section: "8111"
 chapter: 107
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 8111"
-generated_at: "2026-03-29T18:04:05.160Z"
+generated_at: "2026-03-29T18:23:43.556Z"
 ---
 
 # § 8111. Biomass Crop Assistance Program
@@ -102,7 +102,7 @@ generated_at: "2026-03-29T18:04:05.160Z"
         - **(I)** a conservation plan;
         - **(II)** a forest stewardship plan; or
         - **(III)** a plan that is equivalent to a conservation or forest stewardship plan; and
-      - **(iv)** any additional requirements that Secretary determines to be necessary.
+      - **(iv)** any additional requirements that Secretary 1 1 So in original. Probably should be preceded by “the”. determines to be necessary.
     - **(C)** A contract under this subsection shall have a term of not more than—
       - **(i)** 5 years for annual and perennial crops; or
       - **(ii)** 15 years for woody biomass.

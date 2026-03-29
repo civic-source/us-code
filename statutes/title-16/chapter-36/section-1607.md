@@ -3,9 +3,9 @@ title: "Section 1607 - National Forest System renewable resources; development a
 usc_title: 16
 usc_section: "1607"
 chapter: 36
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 1607"
-generated_at: "2026-03-29T18:05:06.961Z"
+generated_at: "2026-03-29T18:24:22.819Z"
 ---
 
 # § 1607. National Forest System renewable resources; development and administration by Secretary of Agriculture in accordance with multiple use and sustained yield concepts for products and services; target year for operational posture of resources; budget requests

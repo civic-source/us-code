@@ -3,9 +3,9 @@ title: "Section 460 - Special rules for long-term contracts"
 usc_title: 26
 usc_section: "460"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 460"
-generated_at: "2026-03-29T18:05:44.641Z"
+generated_at: "2026-03-29T18:25:53.591Z"
 ---
 
 # § 460. Special rules for long-term contracts
@@ -93,7 +93,7 @@ generated_at: "2026-03-29T18:05:44.641Z"
     - **(A)** Solely for purposes of determining the percentage of completion under subsection (b)(1)(A), the cost of qualified property shall be taken into account as a cost allocated to the contract as if subsection (k) of section 168 had not been enacted.
     - **(B)** For purposes of this paragraph, the term “qualified property” means property described in section 168(k)(2) which—
       - **(i)** has a recovery period of 7 years or less, and
-      - **(ii)** is placed in service after December 31, 2009 , and before January 1, 2011 ( January 1, 2012 , in the case of property described in section 168(k)(2)(B)), or after December 31, 2012 , and before January 1, 2014 ( January 1, 2015 , in the case of property described in section 168(k)(2)(B)).
+      - **(ii)** is placed in service before January 1, 2020 ( January 1, 2021 in the case of property described in section 168(k)(2)(B)).
 - **(d)** For purposes of this section—
   - **(1)** The term “Federal long-term contract” means any long-term contract—
     - **(A)** to which the United States (or any agency or instrumentality thereof) is a party, or

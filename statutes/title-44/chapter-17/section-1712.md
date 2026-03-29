@@ -1,14 +1,14 @@
 ---
-title: "Section 1712 - Documents for use of the Public Printer"
+title: "Section 1712 - Documents for use of the Director of the Government Publishing Office"
 usc_title: 44
 usc_section: "1712"
 chapter: 17
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "44 U.S.C. § 1712"
-generated_at: "2026-03-29T18:06:33.619Z"
+generated_at: "2026-03-29T18:26:16.113Z"
 ---
 
-# § 1712. Documents for use of the Public Printer
+# § 1712. Documents for use of the Director of the Government Publishing Office
 
-The Public Printer may retain out of all documents, bills, and resolutions printed the number of copies absolutely needful for the official use of the Government Printing Office, not exceeding five of each.
+The Director of the Government Publishing Office may retain out of all documents, bills, and resolutions printed the number of copies absolutely needful for the official use of the Government Publishing Office, not exceeding five of each.
 

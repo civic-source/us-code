@@ -1,16 +1,12 @@
 ---
-title: "Section 1113 - Miami Indians of Indiana; membership roll; preparation; eligibility for enrollment"
+title: "Section 1113 - Omitted"
 usc_title: 25
 usc_section: "1113"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1113"
-generated_at: "2026-03-29T18:05:17.119Z"
+generated_at: "2026-03-29T18:25:23.709Z"
 ---
 
-# § 1113. Miami Indians of Indiana; membership roll; preparation; eligibility for enrollment
+# § 1113. Omitted
 
-For the purpose of determining entitlement to the judgment awarded in Indian Claims Commission docket numbered 124–A to the Miami Indians of Indiana and appropriated by the Act of September 30, 1961 ( 75 Stat. 747 ), the Secretary shall prepare a roll of all persons of Miami Indian ancestry who meet the following requirements for eligibility:
-
-- **(a)** They were born on or prior to, and living on, October 14, 1966 ; and
-- **(b)** Their name or the name of an ancestor from whom they claim eligibility appears on the roll of Miami Indians of Indiana of June 12, 1895 , or the roll of “Miami Indians of Indiana, now living in Kansas, Quapaw Agency, I.T., and Oklahoma Territory,” prepared and completed pursuant to the Act of March 2, 1895 ( 28 Stat. 903 ), or the roll of the Eel River Miami Tribe of Indians of May 27, 1889 , prepared and completed pursuant to the Act of June 29, 1888 ( 25 Stat. 223 ). No person whose name appears on the current tribal roll of the Miami Tribe of Oklahoma shall be eligible to be enrolled under this section.

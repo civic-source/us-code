@@ -3,15 +3,15 @@ title: "Section 3125b - National Rural Information Center Clearinghouse"
 usc_title: 7
 usc_section: "3125b"
 chapter: 64
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 3125b"
-generated_at: "2026-03-29T18:04:05.006Z"
+generated_at: "2026-03-29T18:23:43.411Z"
 ---
 
 # § 3125b. National Rural Information Center Clearinghouse
 
-- **(a)** The Secretary shall establish, within the National Agricultural Library, in coordination with the National Institute of Food and Agriculture, a National Rural Information Center Clearinghouse (in this section referred to as the “Clearinghouse”) to perform the functions specified in subsection (b) of this section.
+- **(a)** The Secretary shall establish, within the National Agricultural Library, in coordination with the National Institute of Food and Agriculture, a National Rural Information Center Clearinghouse (in this section referred to as the “Clearinghouse”) to perform the functions specified in subsection (b).
 - **(b)** The Clearinghouse shall provide and distribute information and data to any industry, organization, or Federal, State, or local government entity, on request, about programs and services provided by Federal, State, and local agencies and private nonprofit organizations and institutions under which individuals residing in, or organizations and State and local government entities operating in, a rural area may be eligible for any kind of assistance, including job training, education, health care, and economic development assistance, and emotional and financial counseling. To the extent possible, the National Agricultural Library shall use telecommunications technology to disseminate information to rural areas.
-- **(c)** On request of the Secretary, the head of a Federal agency shall provide to the Clearinghouse such information as the Secretary may request to enable the Clearinghouse to carry out subsection (b) of this section.
+- **(c)** On request of the Secretary, the head of a Federal agency shall provide to the Clearinghouse such information as the Secretary may request to enable the Clearinghouse to carry out subsection (b).
 - **(d)** The Secretary shall request State and local governments and private nonprofit organizations and institutions to provide to the Clearinghouse such information as such agencies and organizations may have about any program or service of such agencies, organizations, and institutions under which individuals residing in a rural area may be eligible for any kind of assistance, including job training, educational, health care, and economic development assistance, and emotional and financial counseling.
 - **(e)** To carry out this section, there are authorized to be appropriated $500,000 for each of the fiscal years 1991 through 2018.

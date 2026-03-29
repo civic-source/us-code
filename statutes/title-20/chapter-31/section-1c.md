@@ -1,12 +1,12 @@
 ---
-title: "Section 1c - Repealed. Pub. L. 103–382, title II, § 212(a)(1) , Oct. 20, 1994 , 108 Stat. 3913"
+title: "Section 1c - Repealed. Pub. L. 103–382, title II , § 212(a)(1), Oct. 20, 1994 , 108 Stat. 3913"
 usc_title: 20
 usc_section: "1c"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1c"
-generated_at: "2026-03-29T02:12:17.333Z"
+generated_at: "2026-03-29T18:24:41.032Z"
 ---
 
-# §§ 1221e–1 to 1221e–1c. Repealed. Pub. L. 103–382, title II, § 212(a)(1) , Oct. 20, 1994 , 108 Stat. 3913
+# §§ 1221e–1 to 1221e–1c. Repealed. Pub. L. 103–382, title II , § 212(a)(1), Oct. 20, 1994 , 108 Stat. 3913
 

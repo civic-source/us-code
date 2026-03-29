@@ -1,19 +1,12 @@
 ---
-title: "Section 941b - Restoration of Federal trust relationship"
+title: "Section 941b - Omitted"
 usc_title: 25
 usc_section: "941b"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 941b"
-generated_at: "2026-03-29T18:05:17.110Z"
+generated_at: "2026-03-29T18:25:23.704Z"
 ---
 
-# § 941b. Restoration of Federal trust relationship
+# § 941b. Omitted
 
-- **(a)** On the effective date of this subchapter—
-  - **(1)** the trust relationship between the Tribe and the United States is restored; and
-  - **(2)** the Settlement Agreement and the State Act are approved, ratified, and confirmed by the United States to effectuate the purposes of this subchapter, and shall be complied with in the same manner and to the same extent as if they had been enacted into Federal law.
-- **(b)** Notwithstanding any other provision of law, on the effective date of this subchapter, the Tribe and the Members shall be eligible for all benefits and services furnished to federally recognized Indian tribes and their members because of their status as Indians. On the effective date of this subchapter, the Secretary shall enter the Tribe on the list of federally recognized bands and tribes maintained by the Department of the Interior; and its members shall be eligible to special services, educational benefits, medical care, and welfare assistance provided by the United States to Indians because of their status as Indians, and the Tribe shall be eligible to the special services performed by the United States for tribes because of their status as Indian tribes. For the purpose of eligibility for Federal services made available to members of federally recognized Indian tribes because of their status as Indian tribal members, Members of the Tribe in the Tribe’s service area shall be deemed to be residing on or near a reservation.
-- **(c)** The Termination Act is repealed.
-- **(d)** Except as otherwise specifically provided in this subchapter, this subchapter shall not affect any property right or obligation or any contractual right or obligation in existence before the effective date of this subchapter, or any obligation for taxes levied before that date.
-- **(e)** This subchapter shall not be construed to empower the Tribe with special jurisdiction or to deprive the State of jurisdiction other than as expressly provided by this subchapter or by the State Act. The jurisdiction and governmental powers of the Tribe shall be solely those set forth in this subchapter and the State Act.

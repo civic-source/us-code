@@ -3,15 +3,15 @@ title: "Section 496 - Consideration of expansion of nuclear forces of other coun
 usc_title: 10
 usc_section: "496"
 chapter: 24
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 496"
-generated_at: "2026-03-29T18:04:12.986Z"
+generated_at: "2026-03-29T18:23:51.742Z"
 ---
 
 # § 496. Consideration of expansion of nuclear forces of other countries
 
 - **(a)** Not later than 60 days before the President recommends any reductions to the nuclear forces of the United States—
-  - **(1)** the President shall transmit to the appropriate congressional committees a report detailing, for each country with nuclear weapons, the high-, medium-, and low- confidence assessment of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ( 50 U.S.C. 401a(4) )) with respect to—
+  - **(1)** the President shall transmit to the appropriate congressional committees a report detailing, for each country with nuclear weapons, the high-, medium-, and low- confidence assessment of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ( 50 U.S.C. 3003(4) )) with respect to—
     - **(A)** the number of each type of nuclear weapons possessed by such country;
     - **(B)** the modernization plans for such weapons of such country;
     - **(C)** the production capacity of nuclear warheads and strategic delivery systems (as defined in section 495(e)(2) of this title ) of such country;

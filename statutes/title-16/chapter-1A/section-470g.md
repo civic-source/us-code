@@ -1,14 +1,12 @@
 ---
-title: "Section 470g - White House, United States Supreme Court building, and United States Capitol not included in program for preservation of historical properties"
+title: "Section 470g - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "470g"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 470g"
-generated_at: "2026-03-29T18:05:06.723Z"
+generated_at: "2026-03-29T18:24:22.618Z"
 ---
 
-# § 470g. White House, United States Supreme Court building, and United States Capitol not included in program for preservation of historical properties
-
-Nothing in this subchapter shall be construed to be applicable to the White House and its grounds, the Supreme Court building and its grounds, or the United States Capitol and its related buildings and grounds.
+# § 470g. Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272
 

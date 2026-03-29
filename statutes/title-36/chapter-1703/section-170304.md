@@ -3,9 +3,9 @@ title: "Section 170304 - Membership"
 usc_title: 36
 usc_section: "170304"
 chapter: 1703
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "36 U.S.C. § 170304"
-generated_at: "2026-03-29T18:06:24.330Z"
+generated_at: "2026-03-29T18:26:09.303Z"
 ---
 
 # § 170304. Membership

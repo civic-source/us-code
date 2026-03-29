@@ -1,14 +1,12 @@
 ---
-title: "Section 1145 - Disposition of apportioned shares"
+title: "Section 1145 - Omitted"
 usc_title: 25
 usc_section: "1145"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1145"
-generated_at: "2026-03-29T18:05:17.122Z"
+generated_at: "2026-03-29T18:25:23.709Z"
 ---
 
-# § 1145. Disposition of apportioned shares
-
-The funds apportioned to the Oneida Tribe of Indians of Wisconsin and the Stockbridge-Munsee Indian Community of Wisconsin shall be placed to their credit and may be used, advanced, expended, deposited, invested, or reinvested for any purposes that are authorized by the tribal governing bodies thereof and approved by the Secretary of the Interior. The funds apportioned to the group mentioned in section 1142(c) of this title shall be available for distribution in equal shares to the enrollees or their heirs or legatees. Payment may be made directly to each enrollee except that a share payable to a person under twenty-one years of age or to a person under legal disability shall be paid in accordance with such procedures as the Secretary determines will adequately protect the best interests of such persons.
+# § 1145. Omitted
 

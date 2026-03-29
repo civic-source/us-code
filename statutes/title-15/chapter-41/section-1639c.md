@@ -3,9 +3,9 @@ title: "Section 1639c - Minimum standards for residential mortgage loans"
 usc_title: 15
 usc_section: "1639c"
 chapter: 41
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 1639c"
-generated_at: "2026-03-29T18:04:29.590Z"
+generated_at: "2026-03-29T18:24:08.470Z"
 ---
 
 # § 1639c. Minimum standards for residential mortgage loans
@@ -69,7 +69,7 @@ generated_at: "2026-03-29T18:04:29.590Z"
       - **(ii)** for which the creditor makes a determination that the consumer is able to make all scheduled payments, except the balloon payment, out of income or assets other than the collateral;
       - **(iii)** for which the underwriting is based on a payment schedule that fully amortizes the loan over a period of not more than 30 years and takes into account all applicable taxes, insurance, and assessments; and
       - **(iv)** that is extended by a creditor that—
-        - **(I)** operates predominantly in rural or underserved areas;
+        - **(I)** operates in rural or underserved areas;
         - **(II)** together with all affiliates, has total annual residential mortgage loan originations that do not exceed a limit set by the Bureau;
         - **(III)** retains the balloon loans in portfolio; and
         - **(IV)** meets any asset size threshold and any other criteria as the Bureau may establish, consistent with the purposes of this part.

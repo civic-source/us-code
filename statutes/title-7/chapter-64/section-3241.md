@@ -3,9 +3,9 @@ title: "Section 3241 - Education grants programs for Hispanic-serving institutio
 usc_title: 7
 usc_section: "3241"
 chapter: 64
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 3241"
-generated_at: "2026-03-29T18:04:05.015Z"
+generated_at: "2026-03-29T18:23:43.419Z"
 ---
 
 # § 3241. Education grants programs for Hispanic-serving institutions

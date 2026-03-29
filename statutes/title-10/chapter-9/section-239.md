@@ -3,16 +3,16 @@ title: "Section 239 - National security space programs: major force program and 
 usc_title: 10
 usc_section: "239"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 239"
-generated_at: "2026-03-29T02:10:44.846Z"
+generated_at: "2026-03-29T18:23:51.733Z"
 ---
 
 # § 239. National security space programs: major force program and budget assessment
 
 - **(a)** The Secretary of Defense shall establish a unified major force program for national security space programs pursuant to section 222(b) of this title to prioritize national security space activities in accordance with the requirements of the Department of Defense and national security.
 - **(b)**
-  - **(1)** Not later than 30 days after the date on which the President submits to Congress the budget for each of fiscal years 2017 through 2021, the Secretary of Defense shall submit to the congressional defense committees a report on the budget for national security space programs of the Department of Defense. The Secretary may include the report in the defense budget materials if the Secretary submits such materials to Congress by such date.
+  - **(1)** The Secretary shall include with the defense budget materials for each of fiscal years 2017 through 2020 a report on the budget for national security space programs of the Department of Defense.
   - **(2)** Each report on the budget for national security space programs of the Department of Defense under paragraph (1) shall include the following:
     - **(A)** An overview of the budget, including—
       - **(i)** a comparison between that budget, the previous budget, the most recent and prior future-years defense program submitted to Congress under section 221 of this title , and the amounts appropriated for such programs during the previous fiscal year; and

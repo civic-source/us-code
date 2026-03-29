@@ -3,16 +3,16 @@ title: "Section 1636 - Grant program for construction, expansion, and modernizat
 usc_title: 25
 usc_section: "1636"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1636"
-generated_at: "2026-03-29T18:05:17.155Z"
+generated_at: "2026-03-29T18:25:23.732Z"
 ---
 
 # § 1636. Grant program for construction, expansion, and modernization of small ambulatory care facilities
 
 - **(a)**
-  - **(1)** The Secretary, acting through the Service, shall make grants to tribes and tribal organizations for the construction, expansion, or modernization of facilities for the provision of ambulatory care services to eligible Indians (and noneligible persons as provided in subsection (c)(1)(C) of this section). A grant made under this section may cover up to 100 percent of the costs of such construction, expansion, or modernization. For the purposes of this section, the term “construction” includes the replacement of an existing facility.
-  - **(2)** A grant under paragraph (1) may only be made to a tribe or tribal organization operating an Indian health facility (other than a facility owned or constructed by the Service, including a facility originally owned or constructed by the Service and transferred to a tribe or tribal organization) pursuant to a contract entered into under the Indian Self-Determination Act [ 25 U.S.C. 450f et seq.].
+  - **(1)** The Secretary, acting through the Service, shall make grants to tribes and tribal organizations for the construction, expansion, or modernization of facilities for the provision of ambulatory care services to eligible Indians (and noneligible persons as provided in subsection (c)(1)(C)). A grant made under this section may cover up to 100 percent of the costs of such construction, expansion, or modernization. For the purposes of this section, the term “construction” includes the replacement of an existing facility.
+  - **(2)** A grant under paragraph (1) may only be made to a tribe or tribal organization operating an Indian health facility (other than a facility owned or constructed by the Service, including a facility originally owned or constructed by the Service and transferred to a tribe or tribal organization) pursuant to a contract entered into under the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.].
 - **(b)**
   - **(1)** A grant provided under this section may be used only for the construction, expansion, or modernization (including the planning and design of such construction, expansion, or modernization) of an ambulatory care facility—
     - **(A)** located apart from a hospital;
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T18:05:17.155Z"
     - **(C)** which, upon completion of such construction, expansion, or modernization will—
       - **(i)** have a total capacity appropriate to its projected service population;
       - **(ii)** serve no less than 500 eligible Indians annually; and
-      - **(iii)** provide ambulatory care in a service area (specified in the contract entered into under the Indian Self-Determination Act [ 25 U.S.C. 450f et seq.]) with a population of not less than 2,000 eligible Indians.
+      - **(iii)** provide ambulatory care in a service area (specified in the contract entered into under the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.]) with a population of not less than 2,000 eligible Indians.
   - **(2)** The requirements of clauses (ii) and (iii) of paragraph (1)(C) shall not apply to a tribe or tribal organization applying for a grant under this section whose tribal government offices are located on an island.
 - **(c)**
   - **(1)** No grant may be made under this section unless an application for such a grant has been submitted to and approved by the Secretary. An application for a grant under this section shall be submitted in such form and manner as the Secretary shall by regulation prescribe and shall set forth reasonable assurance by the applicant that, at all times after the construction, expansion, or modernization of a facility carried out pursuant to a grant received under this section—

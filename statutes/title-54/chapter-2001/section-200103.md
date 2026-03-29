@@ -3,9 +3,9 @@ title: "Section 200103 - Authority of Secretary to carry out certain functions a
 usc_title: 54
 usc_section: "200103"
 chapter: 2001
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "54 U.S.C. § 200103"
-generated_at: "2026-03-29T02:16:35.469Z"
+generated_at: "2026-03-29T18:27:38.920Z"
 ---
 
 # § 200103. Authority of Secretary to carry out certain functions and activities
@@ -13,15 +13,16 @@ generated_at: "2026-03-29T02:16:35.469Z"
 - **(a)** To carry out this chapter, the Secretary may perform the functions and activities described in this section.
 - **(b)** The Secretary may prepare and maintain a continuing inventory and evaluation of outdoor recreation needs and resources of the United States.
 - **(c)** The Secretary may prepare a system for classification of outdoor recreation resources to assist in the effective and beneficial use and management of such resources.
-- **(d)** The Secretary may provide technical assistance and advice to and cooperate with States, political subdivisions, and private interests, including nonprofit organizations, with respect to outdoor recreation.
-- **(e)** The Secretary may encourage interstate and regional cooperation in the planning, acquisition, and development of outdoor recreation resources.
-- **(f)** The Secretary may—
+- **(d)** The Secretary may formulate and maintain a comprehensive nationwide outdoor recreation plan, taking into consideration the plans of the various Federal agencies, States, and their political subdivisions. The plan shall set forth the needs and demands of the public for outdoor recreation and the current and foreseeable availability in the future of outdoor recreation resources to meet those needs. The plan shall identify critical outdoor recreation problems, recommend solutions, and recommend desirable actions to be taken at each level of government and by private interests. The Secretary shall submit the plan to the President for transmittal to Congress. Revisions of the plan shall be similarly transmitted at succeeding 5-year intervals. When a plan or revision is transmitted to the Congress, the Secretary shall transmit copies to the chief executive officials of the States.
+- **(e)** The Secretary may provide technical assistance and advice to and cooperate with States, political subdivisions, and private interests, including nonprofit organizations, with respect to outdoor recreation.
+- **(f)** The Secretary may encourage interstate and regional cooperation in the planning, acquisition, and development of outdoor recreation resources.
+- **(g)** The Secretary may—
   - **(1)** sponsor, engage in, and assist in research relating to outdoor recreation, directly or by contract or cooperative agreements, and make payments for such purposes without regard to the limitations of section 3324(a) and (b) of title 31 concerning advances of funds when the Secretary considers such action to be in the public interest;
   - **(2)** undertake studies and assemble information concerning outdoor recreation, directly or by contract or cooperative agreement, and disseminate the information without regard to section 3204 of title 39 ; and
   - **(3)** cooperate with educational institutions and others to assist in establishing education programs and activities and to encourage public use and benefits from outdoor recreation.
-- **(g)**
+- **(h)**
   - **(1)** The Secretary may—
     - **(A)** cooperate with and provide technical assistance to Federal agencies and obtain from them information, data, reports, advice, and assistance that are needed and can reasonably be furnished in carrying out the purposes of this chapter; and
     - **(B)** promote coordination of Federal plans and activities generally relating to outdoor recreation.
   - **(2)** An agency furnishing advice or assistance under this paragraph may expend its own funds for those purposes, with or without reimbursement, as may be agreed to by that agency.
-- **(h)** The Secretary may accept and use donations of money, property, personal services, or facilities for the purposes of this chapter.
+- **(i)** The Secretary may accept and use donations of money, property, personal services, or facilities for the purposes of this chapter.

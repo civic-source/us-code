@@ -1,46 +1,14 @@
 ---
-title: "Section 2 - Acquisition of lands"
+title: "Section 2 - Establishment of Tallgrass Prairie National Preserve"
 usc_title: 16
 usc_section: "2"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-29T18:05:06.808Z"
+generated_at: "2026-03-29T18:24:22.692Z"
 ---
 
-# § 698v–2. Acquisition of lands
+# § 698u–2. Establishment of Tallgrass Prairie National Preserve
 
-- **(a)**
-  - **(1)** In compliance with section 471a of this title , the Secretary is authorized to acquire all or part of the rights, title, and interests in and to approximately 94,761 acres of the Baca ranch, comprising the lands, facilities, and structures referred to as the Baca Location No. 1, and generally depicted on a plat entitled “Independent Resurvey of the Baca Location No. 1”, made by L.A. Osterhoudt, W.V. Hall, and Charles W. Devendorf, U.S. Cadastral Engineers, June 30, 1920 – August 24, 1921 , under special instructions for Group No. 107 dated February 12, 1920 , in New Mexico.
-  - **(2)** The acquisition under paragraph (1) may be made by purchase through appropriated or donated funds, by exchange, by contribution, or by donation of land. Funds appropriated to the Secretary from the Land and Water Conservation Fund shall be available for this purpose.
-  - **(3)** The acquisition under paragraph (1) shall be based on an appraisal done in conformity with the Uniform Appraisal Standards for Federal Land Acquisitions and—
-    - **(A)** in the case of purchase, such purchase shall be on a willing seller basis for no more than the fair market value of the land or interests therein acquired; and
-    - **(B)** in the case of exchange, such exchange shall be for lands, or interests therein, of equal value, in conformity with the existing exchange authorities of the Secretary.
-  - **(4)** The conveyance of the offered lands to the United States under this subsection shall be by general warranty or other deed acceptable to the Secretary and in conformity with applicable title standards of the Attorney General.
-- **(b)** Upon acquisition of the Baca ranch under subsection (a) of this section, the Secretary of the Interior shall assume administrative jurisdiction over those lands within the boundaries of the Bandelier National Monument as modified under section 3 of Public Law 105–376 ( 112 Stat. 3389 ).
-- **(c)**
-  - **(1)** In case of any conflict between a plat or a map and acreages, the plat or map shall prevail.
-  - **(2)** The Secretary and the Secretary of the Interior may make minor corrections in the boundaries of the Upper Alamo watershed as depicted on the map referred to in section 3 of Public Law 105–376 ( 112 Stat. 3389 ).
-  - **(3)** Upon the conveyance of any lands to any entity other than the Secretary, the boundary of the Preserve shall be modified to exclude such lands.
-  - **(4)** Within 180 days of the date of acquisition of the Baca ranch under subsection (a) of this section, the Secretary and the Secretary of the Interior shall submit to the Committees of Congress a final map of the Preserve and a final map of Bandelier National Monument, respectively.
-  - **(5)** The plat and maps referred to in the 1 1 So in original. Probably should be “this”. subsection shall be kept and made available for public inspection in the offices of the Chief, Forest Service, and Director, National Park Service, in Washington, D.C., and Supervisor, Santa Fe National Forest, and Superintendent, Bandelier National Monument, in the State of New Mexico.
-- **(d)** The Secretary, acting through the Forest Service, in cooperation with the Secretary of the Interior, acting through the National Park Service, shall—
-  - **(1)** prepare a report of management alternatives which may—
-    - **(A)** provide more coordinated land management within the area known as the upper watersheds of Alamo, Capulin, Medio, and Sanchez Canyons, including the areas known as the Dome Diversity Unit and the Dome Wilderness;
-    - **(B)** allow for improved management of elk and other wildlife populations ranging between the Santa Fe National Forest and the Bandelier National Monument; and
-    - **(C)** include proposed boundary adjustments between the Santa Fe National Forest and the Bandelier National Monument to facilitate the objectives under subparagraphs (A) and (B); and
-  - **(2)** submit the report to the Committees of Congress within 120 days of July 25, 2000 .
-- **(e)**
-  - **(1)** The acquisition of the Baca ranch by the Secretary shall be subject to all outstanding valid existing mineral interests.
-  - **(2)** The Secretary is authorized and directed to negotiate with the owners of any fractional interest in the subsurface estate for the acquisition of such fractional interest for not to exceed its fair market value, as determined by appraisal done in conformity with the Uniform Appraisal Standards for Federal Land Acquisitions.
-  - **(3)** Any such interests acquired within the boundaries of the Upper Alamo watershed, as referred to in subsection (b) of this section, shall be administered by the Secretary of the Interior as part of Bandelier National Monument.
-  - **(4)** Any such interests shall be acquired with available funds.
-  - **(5)**
-    - **(A)** If negotiations to acquire the interests are unsuccessful by the date that is 60 days after Dec. 20, 2005 , the Secretary shall acquire the interests pursuant to section 3114 of title 40 .
-    - **(B)** Any difference between the sum of money estimated to be just compensation by the Secretary and the amount awarded shall be paid from the permanent judgment appropriation under section 1304 of title 31 .
-- **(f)** For purposes of section 460 l –9 of this title, the boundaries of the Baca ranch shall be treated as if they were National Forest boundaries existing as of January 1, 1965 .
-- **(g)**
-  - **(1)** The Secretary may assign to the Pueblo of Santa Clara rights to acquire for fair market value portions of the Baca ranch. The portion that may be assigned shall be determined by mutual agreement between the Pueblo and the Secretary based on optimal management considerations for the Preserve including manageable land line locations, public access, and retention of scenic and natural values. All appraisals shall be done in conformity with the Uniform Appraisal Standards for Federal Land Acquisition.
-  - **(2)** As of the date of acquisition, the fee title lands, and any mineral estate underlying such lands, acquired under this subsection by the Pueblo of Santa Clara are deemed transferred into trust in the name of the United States for the benefit of the Pueblo of Santa Clara and such lands and mineral estate are declared to be part of the existing Santa Clara Indian Reservation.
-  - **(3)** Any mineral estate acquired by the United States pursuant to subsection (e) of this section underlying fee title lands acquired by the Pueblo of Santa Clara shall not be developed without the consent of the Secretary of the Interior and the Pueblo of Santa Clara.
-  - **(4)** Any reservations, easements, and covenants contained in an assignment agreement entered into under paragraph (1) shall not be affected by the acquisition of the Baca ranch by the United States, the assumption of management by the Valles Caldera Trust, or the lands acquired by the Pueblo being taken into trust.
+- **(a)** In order to provide for the preservation, restoration, and interpretation of the Spring Hill Ranch area of the Flint Hills of Kansas, for the benefit and enjoyment of present and future generations, there is established the Tallgrass Prairie National Preserve.
+- **(b)** The Preserve shall consist of the lands and interests in land, including approximately 10,894 acres, generally depicted on the map entitled “Boundary Map, Flint Hills Prairie National Monument” numbered NM–TGP 80,000 and dated June 1994, more particularly described in the deed filed at 8:22 a.m. on June 3, 1994 , with the Office of the Register of Deeds in Chase County, Kansas, and recorded in Book L–106 at pages 328 through 339, inclusive. In the case of any difference between the map and the legal description, the legal description shall govern, except that if, as a result of a survey, the Secretary determines that there is a discrepancy with respect to the boundary of the Preserve that may be corrected by making minor changes to the map, the Secretary shall make changes to the map as appropriate, and the boundaries of the Preserve shall be adjusted accordingly. The map shall be on file and available for public inspection in the appropriate offices of the National Park Service of the Department of the Interior.

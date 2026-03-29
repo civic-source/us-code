@@ -3,9 +3,9 @@ title: "Section 2249b - Display of State, District of Columbia, commonwealth, an
 usc_title: 10
 usc_section: "2249b"
 chapter: 134
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2249b"
-generated_at: "2026-03-29T18:04:13.134Z"
+generated_at: "2026-03-29T18:23:51.894Z"
 ---
 
 # § 2249b. Display of State, District of Columbia, commonwealth, and territorial flags by the armed forces

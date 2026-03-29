@@ -3,9 +3,9 @@ title: "Section 7104 - Required terms in orders"
 usc_title: 7
 usc_section: "7104"
 chapter: 99
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 7104"
-generated_at: "2026-03-29T18:04:05.099Z"
+generated_at: "2026-03-29T18:23:43.497Z"
 ---
 
 # § 7104. Required terms in orders
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T18:04:05.099Z"
     - **(C)** Importers shall be represented on the Board by 25 members.
     - **(D)** The order shall provide that a unit represented by only 1 member may have an alternate member appointed to ensure representation at meetings of the Board.
   - **(2)**
-    - **(A)** The Secretary shall appoint producers to represent units established under paragraph (1)(A) from nominations submitted by eligible organizations certified under subsection (c)(3) of this section. An eligible organization may submit only nominations from the membership of the organization for the unit in which the organization is located. To be represented on the Board, each eligible organization shall submit to the Secretary at least 1.5 nominations for each appointment to the Board for which the unit is entitled to representation, as determined under paragraph (1)(A). If a unit is entitled to 1 appointment on the Board, the unit shall submit at least 2 nominations for the appointment.
+    - **(A)** The Secretary shall appoint producers to represent units established under paragraph (1)(A) from nominations submitted by eligible organizations certified under subsection (c)(3). An eligible organization may submit only nominations from the membership of the organization for the unit in which the organization is located. To be represented on the Board, each eligible organization shall submit to the Secretary at least 1.5 nominations for each appointment to the Board for which the unit is entitled to representation, as determined under paragraph (1)(A). If a unit is entitled to 1 appointment on the Board, the unit shall submit at least 2 nominations for the appointment.
     - **(B)** The Secretary shall appoint representatives of the feeder sheep industry to seats established under paragraph (1)(B) from nominations submitted by qualified national organizations that represent the feeder sheep industry. To be represented on the Board, the industry shall provide at least 1.5 nominations for each appointment to the Board for which the feeder sheep industry is entitled to representation, as determined under paragraph (1)(B).
     - **(C)** The Secretary shall appoint importers to seats established under paragraph (1)(C) from nominations submitted by qualified organizations that represent importers, as determined by the Secretary. To be represented on the Board, importers shall provide at least 1.5 nominations for each appointment to the Board for which importers are entitled to representation, as determined under paragraph (1)(C).
 - **(c)**
@@ -62,7 +62,7 @@ generated_at: "2026-03-29T18:04:05.099Z"
   - **(12)** to provide, not less than annually, a report to producers, feeders, and importers accounting for funds expended by the Board and describing programs carried out under this chapter, and to make the report available to the public on request;
   - **(13)** to establish 7 regions that, to the extent practicable, contain geographically contiguous States and approximately equal numbers of producers and sheep production;
   - **(14)** to employ or retain necessary staff; and
-  - **(15)** to invest funds in accordance with subsection (k) of this section.
+  - **(15)** to invest funds in accordance with subsection (k).
 - **(f)**
   - **(1)** The order shall provide that the Board shall review budgets submitted by the Executive Committee, on a fiscal year basis, of anticipated expenses and disbursements by the Board, including probable costs of administration and promotion, research, consumer information, education, industry information, and producer information projects. On approval by the Board, the Board shall submit the budget to the Secretary for the approval of the Secretary.
   - **(2)** No expenditure of funds may be made by the Board unless the expenditure is authorized under a budget or budget amendment approved by the Secretary.
@@ -82,7 +82,7 @@ generated_at: "2026-03-29T18:04:05.099Z"
   - **(6)** A quorum of the Executive Committee shall consist of 8 members.
 - **(h)**
   - **(1)** The order shall provide that the Board shall be responsible for all expenses of the Board and the Executive Committee.
-  - **(2)** A contract or agreement entered into by the Board under subsection (e)(7) of this section shall provide that—
+  - **(2)** A contract or agreement entered into by the Board under subsection (e)(7) shall provide that—
     - **(A)** the contracting party shall develop and submit to the Board a plan or project, together with a budget or budgets that provides estimated costs to be incurred for the plan or project;
     - **(B)** the plan or project, and the contract or agreement, shall not become effective until the plan or project has been approved by the Secretary; and
     - **(C)** the contracting party shall—

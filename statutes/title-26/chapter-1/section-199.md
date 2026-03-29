@@ -3,18 +3,16 @@ title: "Section 199 - Income attributable to domestic production activities"
 usc_title: 26
 usc_section: "199"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 199"
-generated_at: "2026-03-29T18:05:44.537Z"
+generated_at: "2026-03-29T18:25:53.484Z"
 ---
 
 # § 199. Income attributable to domestic production activities
 
-- **(a)**
-  - **(1)** There shall be allowed as a deduction an amount equal to 9 percent of the lesser of—
-    - **(A)** the qualified production activities income of the taxpayer for the taxable year, or
-    - **(B)** taxable income (determined without regard to this section) for the taxable year.
-  - **(2)** In the case of any taxable year beginning after 2004 and before 2010, paragraph (1) shall be applied by substituting for the percentage contained therein the transition percentage determined under the following table: For taxable years The transition beginning in: percentage is: 2005 or 2006 3 2007, 2008, or 2009 6.
+- **(a)** (a) 1 1 So in original. Allowance of deduction
+  - **(1)** the qualified production activities income of the taxpayer for the taxable year, or
+  - **(2)** taxable income (determined without regard to this section) for the taxable year.
 - **(b)**
   - **(1)** The amount of the deduction allowable under subsection (a) for any taxable year shall not exceed 50 percent of the W–2 wages of the taxpayer for the taxable year.
   - **(2)** For purposes of this section—
@@ -22,7 +20,7 @@ generated_at: "2026-03-29T18:05:44.537Z"
     - **(B)** Such term shall not include any amount which is not properly allocable to domestic production gross receipts for purposes of subsection (c)(1).
     - **(C)** Such term shall not include any amount which is not properly included in a return filed with the Social Security Administration on or before the 60th day after the due date (including extensions) for such return.
     - **(D)** In the case of a qualified film, such term shall include compensation for services performed in the United States by actors, production personnel, directors, and producers.
-  - **(3)** The Secretary shall provide for the application of this subsection in cases where the taxpayer acquires, or disposes of, the major portion of a trade or business or the major portion of a separate unit of a trade or business during the taxable year.
+  - **(3)** The Secretary shall provide for the application of this subsection in cases of a short taxable year or where the taxpayer acquires, or disposes of, the major portion of a trade or business or the major portion of a separate unit of a trade or business during the taxable year.
 - **(c)** For purposes of this section—
   - **(1)** The term “qualified production activities income” for any taxable year means an amount equal to the excess (if any) of—
     - **(A)** the taxpayer’s domestic production gross receipts for such taxable year, over
@@ -33,6 +31,9 @@ generated_at: "2026-03-29T18:05:44.537Z"
   - **(3)**
     - **(A)** For purposes of determining costs under clause (i) of paragraph (1)(B), any item or service brought into the United States shall be treated as acquired by purchase, and its cost shall be treated as not less than its value immediately after it entered the United States. A similar rule shall apply in determining the adjusted basis of leased or rented property where the lease or rental gives rise to domestic production gross receipts.
     - **(B)** In the case of any property described in subparagraph (A) that had been exported by the taxpayer for further manufacture, the increase in cost or adjusted basis under subparagraph (A) shall not exceed the difference between the value of the property when exported and the value of the property when brought back into the United States after the further manufacture.
+    - **(C)**
+      - **(i)** In the case of any taxpayer who is in the trade or business of refining crude oil and who is not a major integrated oil company (as defined in section 167(h)(5)(B), determined without regard to clause (iii) thereof) for the taxable year, in computing oil related qualified production activities income under subsection (d)(9)(B), the amount allocated to domestic production gross receipts under paragraph (1)(B) for costs related to the transportation of oil shall be 25 percent of the amount properly allocable under such paragraph (determined without regard to this subparagraph).
+      - **(ii)** Clause (i) shall not apply to any taxable year beginning after December 31, 2021 .
   - **(4)**
     - **(A)** The term “domestic production gross receipts” means the gross receipts of the taxpayer which are derived from—
       - **(i)** any lease, rental, license, sale, exchange, or other disposition of—
@@ -70,7 +71,7 @@ generated_at: "2026-03-29T18:05:44.537Z"
       - **(i)** the items referred to in subparagraph (A)(ii) (as determined therein) and the W–2 wages of the trust or estate for the taxable year, shall be apportioned between the beneficiaries and the fiduciary (and among the beneficiaries) under regulations prescribed by the Secretary, and
       - **(ii)** for purposes of paragraph (2), adjusted gross income of the trust or estate shall be determined as provided in section 67(e) with the adjustments described in such paragraph.
     - **(C)** The Secretary may prescribe rules requiring or restricting the allocation of items and wages under this paragraph and may prescribe such reporting requirements as the Secretary determines appropriate.
-  - **(2)** In the case of an individual, subsections (a)(1)(B) and (d)(9)(A)(iii) shall be applied by substituting “adjusted gross income” for “taxable income”. For purposes of the preceding sentence, adjusted gross income shall be determined—
+  - **(2)** In the case of an individual, subsections (a)(2) and (d)(9)(A)(iii) shall be applied by substituting “adjusted gross income” for “taxable income”. For purposes of the preceding sentence, adjusted gross income shall be determined—
     - **(A)** after application of sections 86, 135, 137, 219, 221, 222, and 469, and
     - **(B)** without regard to this section.
   - **(3)**
@@ -96,12 +97,12 @@ generated_at: "2026-03-29T18:05:44.537Z"
   - **(5)** This section shall be applied by only taking into account items which are attributable to the actual conduct of a trade or business.
   - **(6)** For purposes of determining alternative minimum taxable income under section 55—
     - **(A)** qualified production activities income shall be determined without regard to any adjustments under sections 56 through 59, and
-    - **(B)** in the case of a corporation, subsection (a)(1)(B) shall be applied by substituting “alternative minimum taxable income” for “taxable income”.
+    - **(B)** in the case of a corporation, subsection (a)(2) shall be applied by substituting “alternative minimum taxable income” for “taxable income”.
   - **(7)** For purposes of determining the tax imposed by section 511, subsection (a)(1)(B) shall be applied by substituting “unrelated business taxable income” for “taxable income”.
   - **(8)**
     - **(A)** In the case of any taxpayer with gross receipts for any taxable year from sources within the Commonwealth of Puerto Rico, if all of such receipts are taxable under section 1 or 11 for such taxable year, then for purposes of determining the domestic production gross receipts of such taxpayer for such taxable year under subsection (c)(4), the term “United States” shall include the Commonwealth of Puerto Rico.
     - **(B)** In the case of any taxpayer described in subparagraph (A), for purposes of applying the limitation under subsection (b) for any taxable year, the determination of W–2 wages of such taxpayer shall be made without regard to any exclusion under section 3401(a)(8) for remuneration paid for services performed in Puerto Rico.
-    - **(C)** This paragraph shall apply only with respect to the first 8 taxable years of the taxpayer beginning after December 31, 2005 , and before January 1, 2014 .
+    - **(C)** This paragraph shall apply only with respect to the first 11 taxable years of the taxpayer beginning after December 31, 2005 , and before January 1, 2017 .
   - **(9)**
     - **(A)** If a taxpayer has oil related qualified production activities income for any taxable year beginning after 2009, the amount otherwise allowable as a deduction under subsection (a) shall be reduced by 3 percent of the least of—
       - **(i)** the oil related qualified production activities income of the taxpayer for the taxable year,

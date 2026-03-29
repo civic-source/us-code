@@ -3,9 +3,9 @@ title: "Section 6305 - Registration"
 usc_title: 15
 usc_section: "6305"
 chapter: 89
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 6305"
-generated_at: "2026-03-29T18:04:29.938Z"
+generated_at: "2026-03-29T18:24:08.624Z"
 ---
 
 # § 6305. Registration
@@ -14,10 +14,10 @@ generated_at: "2026-03-29T18:04:29.938Z"
   - **(1)** the boxing commission of the State in which such boxer resides; or
   - **(2)** in the case of a boxer who is a resident of a foreign country, or a State in which there is no boxing commission, the boxing commission of any State that has such a commission.
 - **(b)**
-  - **(1)** A boxing commission shall issue to each professional boxer who registers in accordance with subsection (a) of this section, an identification card that contains each of the following:
+  - **(1)** A boxing commission shall issue to each professional boxer who registers in accordance with subsection (a), an identification card that contains each of the following:
     - **(A)** A recent photograph of the boxer.
     - **(B)** The social security number of the boxer (or, in the case of a foreign boxer, any similar citizen identification number or professional boxer number from the country of residence of the boxer).
     - **(C)** A personal identification number assigned to the boxer by a boxing registry.
   - **(2)** Each professional boxer shall renew his or her identification card at least once every 4 years.
   - **(3)** Each professional boxer shall present his or her identification card to the appropriate boxing commission not later than the time of the weigh-in for a professional boxing match.
-- **(c)** It is the sense of the Congress that a boxing commission should, upon issuing an identification card to a boxer under subsection (b)(1) of this section, make a health and safety disclosure to that boxer as that commission considers appropriate. The health and safety disclosure should include the health and safety risks associated with boxing, and, in particular, the risk and frequency of brain injury and the advisability that a boxer periodically undergo medical procedures designed to detect brain injury.
+- **(c)** It is the sense of the Congress that a boxing commission should, upon issuing an identification card to a boxer under subsection (b)(1), make a health and safety disclosure to that boxer as that commission considers appropriate. The health and safety disclosure should include the health and safety risks associated with boxing, and, in particular, the risk and frequency of brain injury and the advisability that a boxer periodically undergo medical procedures designed to detect brain injury.

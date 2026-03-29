@@ -3,9 +3,9 @@ title: "Section 206 - Carriers’ liability for damages"
 usc_title: 47
 usc_section: "206"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "47 U.S.C. § 206"
-generated_at: "2026-03-29T18:07:40.811Z"
+generated_at: "2026-03-29T18:27:09.528Z"
 ---
 
 # § 206. Carriers’ liability for damages

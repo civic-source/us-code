@@ -3,9 +3,9 @@ title: "Section 1084 - Participation by Federal credit unions in Federal, State,
 usc_title: 20
 usc_section: "1084"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1084"
-generated_at: "2026-03-29T18:05:00.107Z"
+generated_at: "2026-03-29T18:24:40.946Z"
 ---
 
 # § 1084. Participation by Federal credit unions in Federal, State, and private student loan insurance programs

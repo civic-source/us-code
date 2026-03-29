@@ -1,14 +1,12 @@
 ---
-title: "Section 1183 - Equal share distribution"
+title: "Section 1183 - Omitted"
 usc_title: 25
 usc_section: "1183"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1183"
-generated_at: "2026-03-29T18:05:17.123Z"
+generated_at: "2026-03-29T18:25:23.709Z"
 ---
 
-# § 1183. Equal share distribution
-
-After the deduction of attorney fees and expenses, litigation expenses, all costs incident to the provisions of this subchapter, and to making the payments authorized by this subchapter, including the cost of roll preparation, which shall be paid by appropriate withdrawals from the judgment fund, the unexpended balance of the funds on deposit in the Treasury shall be distributed in equal shares to those persons whose names appear on the roll prepared in accordance with section 1181 of this title . No person shall be entitled to more than one per capita share of the funds.
+# § 1183. Omitted
 

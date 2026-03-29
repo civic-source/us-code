@@ -3,9 +3,9 @@ title: "Section 2623 - Employment effects"
 usc_title: 15
 usc_section: "2623"
 chapter: 53
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 2623"
-generated_at: "2026-03-29T18:04:29.864Z"
+generated_at: "2026-03-29T18:24:08.554Z"
 ---
 
 # § 2623. Employment effects
@@ -20,8 +20,7 @@ generated_at: "2026-03-29T18:04:29.864Z"
   - **(2)**
     - **(A)** Upon receipt of a request made in accordance with paragraph (1) the Administrator shall (i) conduct the investigation requested, and (ii) if requested by any interested person, hold public hearings on any matter involved in the investigation unless the Administrator, by order issued within 45 days of the date such hearings are requested, denies the request for the hearings because the Administrator determines there are no reasonable grounds for holding such hearings. If the Administrator makes such a determination, the Administrator shall notify in writing the person requesting the hearing of the determination and the reasons therefor and shall publish the determination and the reasons therefor in the Federal Register.
     - **(B)** If public hearings are to be held on any matter involved in an investigation conducted under this subsection—
-      - **(i)** at least five days’ notice shall be provided the person making the request for the investigation and any person identified in such request,
-      - **(ii)** such hearings shall be held in accordance with section 2605(c)(3) of this title , and
-      - **(iii)** each employee who made or for whom was made a request for such hearings and the employer of such employee shall be required to present information respecting the applicable matter referred to in paragraph (1)(A) or (1)(B) together with the basis for such information.
+      - **(i)** at least five days’ notice shall be provided the person making the request for the investigation and any person identified in such request, and
+      - **(ii)** each employee who made or for whom was made a request for such hearings and the employer of such employee shall be required to present information respecting the applicable matter referred to in paragraph (1)(A) or (1)(B) together with the basis for such information.
   - **(3)** Upon completion of an investigation under paragraph (2), the Administrator shall make findings of fact, shall make such recommendations as the Administrator deems appropriate, and shall make available to the public such findings and recommendations.
   - **(4)** This section shall not be construed to require the Administrator to amend or repeal any rule or order in effect under this chapter.

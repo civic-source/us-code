@@ -3,15 +3,15 @@ title: "Section 10174a - Report"
 usc_title: 42
 usc_section: "10174a"
 chapter: 108
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 10174a"
-generated_at: "2026-03-29T18:07:15.133Z"
+generated_at: "2026-03-29T18:27:03.977Z"
 ---
 
 # § 10174a. Report
 
 - **(a)** Within one year of December 22, 1987 , the Secretary shall report to Congress on the potential impacts of locating a repository at the Yucca Mountain site, including the recommendations of the Secretary for mitigation of such impacts and a statement of which impacts should be dealt with by the Federal Government, which should be dealt with by the State with State resources, including the benefits payments under section 10173a of this title , and which should be a joint Federal-State responsibility. The report under this subsection shall include the analysis of the Secretary of the authorities available to mitigate these impacts and the appropriate sources of funds for such mitigation.
-- **(b)** Potential impacts to be addressed in the report under this 1 1 So in original. The word “this” probably should not appear. subsection (a) of this section shall include impacts on—
+- **(b)** Potential impacts to be addressed in the report under this 1 1 So in original. The word “this” probably should not appear. subsection (a) shall include impacts on—
   - **(1)** education, including facilities and personnel for elementary and secondary schools, community colleges, vocational and technical schools and universities;
   - **(2)** public health, including the facilities and personnel for treatment and distribution of water, the treatment of sewage, the control of pests and the disposal of solid waste;
   - **(3)** law enforcement, including facilities and personnel for the courts, police and sheriff’s departments, district attorneys and public defenders and prisons;

@@ -3,9 +3,9 @@ title: "Section 1441b - Resolution Funding Corporation established"
 usc_title: 12
 usc_section: "1441b"
 chapter: 11
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 1441b"
-generated_at: "2026-03-29T18:04:43.432Z"
+generated_at: "2026-03-29T18:24:02.779Z"
 ---
 
 # § 1441b. Resolution Funding Corporation established
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T18:04:43.432Z"
   - **(7)**
     - **(A)** All administrative expenses of the Funding Corporation, including custodian fees, shall be paid by the Federal Home Loan Banks.
     - **(B)** The amount each Federal Home Loan Bank shall pay under subparagraph (A) shall be determined by the Thrift Depositor Protection Oversight Board by multiplying the total administrative expenses for any period by the percentage arrived at by dividing—
-      - **(i)** the aggregate amount the Thrift Depositor Protection Oversight Board required such bank to invest in the Funding Corporation (as of the time of such determination) under paragraphs (4) and (5) of subsection (e) of this section (computed without regard to paragraphs (3) or (6) of such subsection); by
+      - **(i)** the aggregate amount the Thrift Depositor Protection Oversight Board required such bank to invest in the Funding Corporation (as of the time of such determination) under paragraphs (4) and (5) of subsection (e) (computed without regard to paragraphs (3) or (6) of such subsection); by
       - **(ii)** the aggregate amount the Thrift Depositor Protection Oversight Board required all Federal Home Loan Banks to invest (as of the time of such determination) under such paragraphs.
   - **(8)** The Directorate of the Funding Corporation shall be subject to such regulations, orders, and directions as the Thrift Depositor Protection Oversight Board may prescribe.
   - **(9)** Members of the Directorate of the Funding Corporation shall receive no pay, allowance, or benefit from the Funding Corporation for serving on the Directorate.
@@ -36,7 +36,7 @@ generated_at: "2026-03-29T18:04:43.432Z"
   - **(1)** To issue nonvoting capital stock to the Federal Home Loan Banks.
   - **(2)** To purchase capital certificates issued by the Resolution Trust Corporation under section 1441a of this title , and to transfer amounts to the Resolution Trust Corporation pursuant to subsection (e)(8) of this section.
   - **(3)** To issue debentures, bonds, or other obligations, and to borrow, to give security for any amount borrowed, and to pay interest on (and any redemption premium with respect to) any such obligation or amount.
-  - **(4)** To impose assessments in accordance with subsection (e)(7) of this section.
+  - **(4)** To impose assessments in accordance with subsection (e)(7).
   - **(5)** To adopt, alter, and use a corporate seal.
   - **(6)** To have succession until dissolved.
   - **(7)** To enter into contracts.
@@ -117,11 +117,11 @@ generated_at: "2026-03-29T18:04:43.432Z"
   - **(10)** Obligations of the Funding Corporation shall not be obligations of, or guaranteed as to principal by, the Federal Home Loan Bank System, the Federal Home Loan Banks, the United States, or the Resolution Trust Corporation and the obligations shall so plainly state. The Secretary shall pay interest on such obligations as required pursuant to this subsection.
 - **(g)**
   - **(1)** Subject to regulations, restrictions, and limitations prescribed by the Thrift Depositor Protection Oversight Board, assets of the Funding Corporation which are not required to be invested in capital certificates issued by the Resolution Trust Corporation under section 1441a of this title and are not needed for current interest payments shall be invested in direct obligations of the United States issued by the Secretary.
-  - **(2)** Except as provided in subsection (e)(8) of this section, the Funding Corporation shall invest amounts received pursuant to subsection (e) of this section in, and hold in a separate account to be known as the Funding Corporation Principal Fund, noninterest bearing instruments—
+  - **(2)** Except as provided in subsection (e)(8), the Funding Corporation shall invest amounts received pursuant to subsection (e) in, and hold in a separate account to be known as the Funding Corporation Principal Fund, noninterest bearing instruments—
     - **(A)** which are direct obligations of the United States issued by the Secretary; and
     - **(B)** the total of the face amounts (the amount of principal payable at maturity) of which is approximately equal to the aggregate amount of principal on the obligations of the Funding Corporation.
 - **(h)**
-  - **(1)** Except as provided in subsection (f)(7)(B) of this section, the Funding Corporation shall be treated as a Federal Home Loan Bank for purposes of section 1433 of this title (to the extent such section relates to State, municipal, and local taxation) and section 1443 of this title .
+  - **(1)** Except as provided in subsection (f)(7)(B), the Funding Corporation shall be treated as a Federal Home Loan Bank for purposes of section 1433 of this title (to the extent such section relates to State, municipal, and local taxation) and section 1443 of this title .
   - **(2)** The Federal Reserve banks are authorized to act as depositaries for or fiscal agents or custodians of the Funding Corporation.
   - **(3)** The Funding Corporation shall be treated, for purposes of sections 9105, 1 1 See References in Text note below. 9107, and 9108 of title 31, as a mixed-ownership Government corporation which has capital of the Government.
   - **(4)**
@@ -142,14 +142,14 @@ generated_at: "2026-03-29T18:04:43.432Z"
     - **(A)** any interest on, or any redemption premium with respect to, any obligation of the Funding Corporation; or
     - **(B)** issuance costs.
   - **(2)** The term “custodian fee” means—
-    - **(A)** any fee incurred by the Funding Corporation in connection with the transfer of any security to, or the maintenance of any security in, the segregated account established under subsection (g) of this section; and
+    - **(A)** any fee incurred by the Funding Corporation in connection with the transfer of any security to, or the maintenance of any security in, the segregated account established under subsection (g); and
     - **(B)** any other expense incurred by the Funding Corporation in connection with the establishment or maintenance of such account.
-  - **(3)** The term “Funding Corporation” means the Resolution Funding Corporation established in subsection (b) of this section.
-  - **(4)** The term “Funding Corporation Principal Fund” means the separate account established under subsection (g)(2) of this section.
+  - **(3)** The term “Funding Corporation” means the Resolution Funding Corporation established in subsection (b).
+  - **(4)** The term “Funding Corporation Principal Fund” means the separate account established under subsection (g)(2).
   - **(5)** The term “issuance costs”—
     - **(A)** means issuance fees and commissions incurred by the Funding Corporation in connection with the issuance or servicing of any obligation of the Funding Corporation; and
     - **(B)** includes legal and accounting expenses, trustee and fiscal and paying agent charges, costs incurred in connection with preparing and printing offering materials, and advertising expenses, to the extent that any such cost or expense is incurred by the Funding Corporation in connection with issuing any obligation.
-  - **(6)** The term “net earnings” means net earnings without reduction for chargeoffs or expenses incurred by a Federal Home Loan Bank for the purchase of capital stock of the Financing Corporation or payments relating to the Funding Corporation required by the Thrift Depositor Protection Oversight Board under subsections (e) and (f) of this section.
+  - **(6)** The term “net earnings” means net earnings without reduction for chargeoffs or expenses incurred by a Federal Home Loan Bank for the purchase of capital stock of the Financing Corporation or payments relating to the Funding Corporation required by the Thrift Depositor Protection Oversight Board under subsections (e) and (f).
   - **(7)** The term “Thrift Depositor Protection Oversight Board” means—
     - **(A)** the Thrift Depositor Protection Oversight Board of the Resolution Trust Corporation under section 1441a of this title ; and
     - **(B)** after the termination of the Resolution Trust Corporation—

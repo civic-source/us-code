@@ -1,14 +1,12 @@
 ---
-title: "Section 1032 - Absentee and Eastern Bands; authorization for use of funds by tribal governing bodies; approval of Secretary of the Interior"
+title: "Section 1032 - Omitted"
 usc_title: 25
 usc_section: "1032"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1032"
-generated_at: "2026-03-29T18:05:17.117Z"
+generated_at: "2026-03-29T18:25:23.705Z"
 ---
 
-# § 1032. Absentee and Eastern Bands; authorization for use of funds by tribal governing bodies; approval of Secretary of the Interior
-
-The funds placed to the credit of the Absentee and the Eastern Bands of Shawnee Indians in the United States Treasury, and the interest thereon may be advanced or expended for any purpose and in such manner as the respective tribal governing bodies authorize and the Secretary of the Interior approves.
+# § 1032. Omitted
 

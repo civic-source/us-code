@@ -1,12 +1,12 @@
 ---
-title: "Section 381 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 639"
+title: "Section 381 - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 Stat. 639"
 usc_title: 43
 usc_section: "381"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 381"
-generated_at: "2026-03-29T18:06:28.263Z"
+generated_at: "2026-03-29T18:26:14.787Z"
 ---
 
-# § 381. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 639
+# § 381. Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 Stat. 639
 

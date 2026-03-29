@@ -3,16 +3,16 @@ title: "Section 5504 - Responsibilities of Secretary"
 usc_title: 16
 usc_section: "5504"
 chapter: 75
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 5504"
-generated_at: "2026-03-29T18:05:07.082Z"
+generated_at: "2026-03-29T18:24:22.921Z"
 ---
 
 # § 5504. Responsibilities of Secretary
 
 - **(a)** The Secretary shall maintain an automated file or record of high seas fishing vessels issued permits under section 5503 of this title , including all information submitted under section 5503(c)(2) of this title .
 - **(b)** The Secretary, in cooperation with the Secretary of State and the Secretary of the department in which the Coast Guard is operating, shall—
-  - **(1)** make available to FAO information contained in the record maintained under subsection (a) of this section;
+  - **(1)** make available to FAO information contained in the record maintained under subsection (a);
   - **(2)** promptly notify FAO of changes in such information;
   - **(3)** promptly notify FAO of additions to or deletions from the record, and the reason for any deletion;
   - **(4)** convey to FAO information relating to any permit granted under section 5503(b)(3) of this title , including the vessel’s identity, owner or operator, and factors relevant to the Secretary’s determination to issue the permit;

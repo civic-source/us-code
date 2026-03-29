@@ -3,9 +3,9 @@ title: "Section 209d - Appointment of osteopaths as commissioned officers"
 usc_title: 42
 usc_section: "209d"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 209d"
-generated_at: "2026-03-29T18:07:13.262Z"
+generated_at: "2026-03-29T18:27:02.519Z"
 ---
 
 # § 209d. Appointment of osteopaths as commissioned officers

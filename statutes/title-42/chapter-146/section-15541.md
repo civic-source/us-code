@@ -1,14 +1,12 @@
 ---
-title: "Section 15541 - State defined"
+title: "Section 15541 - Transferred"
 usc_title: 42
 usc_section: "15541"
 chapter: 146
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 15541"
-generated_at: "2026-03-29T18:07:15.418Z"
+generated_at: "2026-03-29T18:27:04.191Z"
 ---
 
-# § 15541. State defined
-
-In this chapter, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, and the United States Virgin Islands.
+# § 15541. Transferred
 

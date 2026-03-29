@@ -3,9 +3,9 @@ title: "Section 481 - Adjustments required by changes in method of accounting"
 usc_title: 26
 usc_section: "481"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 481"
-generated_at: "2026-03-29T18:05:44.652Z"
+generated_at: "2026-03-29T18:25:53.601Z"
 ---
 
 # § 481. Adjustments required by changes in method of accounting
@@ -23,5 +23,4 @@ generated_at: "2026-03-29T18:05:44.652Z"
   - **(3)** For purposes of this subsection—
     - **(A)** There shall be taken into account the increase or decrease in tax for any taxable year preceding the year of the change to which no adjustment is allocated under paragraph (1) or (2) but which is affected by a net operating loss (as defined in section 172) or by a capital loss carryback or carryover (as defined in section 1212), determined with reference to taxable years with respect to which adjustments under paragraph (1) or (2) are allocated.
     - **(B)** The increase or decrease in the tax for any taxable year for which an assessment of any deficiency, or a credit or refund of any overpayment, is prevented by any law or rule of law, shall be determined by reference to the tax previously determined (within the meaning of section 1314(a)) for such year.
-    - **(C)** In applying section 7807(b)(1), the provisions of chapter 1 (other than subchapter E, relating to self-employment income) and chapter 2 of the Internal Revenue Code of 1939 shall be treated as the corresponding provisions of the Internal Revenue Code of 1939.
 - **(c)** In the case of any change described in subsection (a), the taxpayer may, in such manner and subject to such conditions as the Secretary may by regulations prescribe, take the adjustments required by subsection (a)(2) into account in computing the tax imposed by this chapter for the taxable year or years permitted under such regulations.

@@ -3,9 +3,9 @@ title: "Section 4503b - Hawaii Experimental Tropical Forest"
 usc_title: 16
 usc_section: "4503b"
 chapter: 65
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 4503b"
-generated_at: "2026-03-29T18:05:07.068Z"
+generated_at: "2026-03-29T18:24:22.910Z"
 ---
 
 # § 4503b. Hawaii Experimental Tropical Forest
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T18:05:07.068Z"
     - **(B)** to make grants and enter into contracts and cooperative agreements with the Federal Government, the government of the State, local governments, corporations, nonprofit organizations and individuals;
     - **(C)** to exercise existing authority with respect to cooperative forestry and research for Forest purposes; and
     - **(D)** to issue necessary rules and regulations or apply existing rules and regulations applicable to areas administered by the Forest Service that are necessary or desirable to administer the Forest—
-      - **(i)** for the purposes described in subsection (b) of this section;
+      - **(i)** for the purposes described in subsection (b);
       - **(ii)** to protect persons within the Forest; and
       - **(iii)** to preserve and protect the resources in the Forest.
   - **(2)** The authority in section 1643 of this title shall be available to the Secretary to carry out this section.

@@ -3,9 +3,9 @@ title: "Section 3057e - Applications"
 usc_title: 42
 usc_section: "3057e"
 chapter: 35
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 3057e"
-generated_at: "2026-03-29T18:07:14.497Z"
+generated_at: "2026-03-29T18:27:03.498Z"
 ---
 
 # § 3057e. Applications
@@ -18,10 +18,10 @@ generated_at: "2026-03-29T18:07:14.497Z"
   - **(5)** establish objectives consistent with the purposes of this part toward which activities under the application will be directed, identify obstacles to the attainment of such objectives, and indicate the manner in which the tribal organization proposes to overcome such obstacles;
   - **(6)** provide for establishing and maintaining information and assistance services to assure that older individuals who are Indians to be served by the assistance made available under this part will have reasonably convenient access to such services;
   - **(7)** provide a preference for older individuals who are Indians for full or part-time staff positions wherever feasible;
-  - **(8)** provide assurances that either directly or by way of grant or contract with appropriate entities nutrition services will be delivered to older individuals who are Indians represented by the tribal organization substantially in compliance with the provisions of part C of subchapter III of this chapter, except that in any case in which the need for nutritional services for older individuals who are Indians represented by the tribal organization is already met from other sources, the tribal organization may use the funds otherwise required to be expended under this paragraph for supportive services;
-  - **(9)** provide that any legal or ombudsman services made available to older individuals who are Indians represented by the tribal organization will be substantially in compliance with the provisions of subchapter III of this chapter relating to the furnishing of similar services;
+  - **(8)** provide assurances that either directly or by way of grant or contract with appropriate entities nutrition services will be delivered to older individuals who are Indians represented by the tribal organization substantially in compliance with the provisions of part C of subchapter III, except that in any case in which the need for nutritional services for older individuals who are Indians represented by the tribal organization is already met from other sources, the tribal organization may use the funds otherwise required to be expended under this paragraph for supportive services;
+  - **(9)** provide that any legal or ombudsman services made available to older individuals who are Indians represented by the tribal organization will be substantially in compliance with the provisions of subchapter III relating to the furnishing of similar services;
   - **(10)** provide satisfactory assurance that fiscal control and fund accounting procedures will be adopted as may be necessary to assure proper disbursement of, and accounting for, Federal funds paid under this part to the tribal organization, including any funds paid by the tribal organization to a recipient of a grant or contract; and
-  - **(11)** contain assurances that the tribal organization will coordinate services provided under this part with services provided under subchapter III of this chapter in the same geographical area.
+  - **(11)** contain assurances that the tribal organization will coordinate services provided under this part with services provided under subchapter III in the same geographical area.
 - **(b)** For the purpose of any application submitted under this part, the tribal organization may develop its own population statistics, with approval from the Bureau of Indian Affairs, in order to establish eligibility.
 - **(c)**
   - **(1)** The Assistant Secretary shall approve any application which complies with the provisions of subsection (a) of this section.

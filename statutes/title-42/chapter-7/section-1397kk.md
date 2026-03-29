@@ -3,9 +3,9 @@ title: "Section 1397kk - Phase-out of coverage for nonpregnant childless adults;
 usc_title: 42
 usc_section: "1397kk"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1397kk"
-generated_at: "2026-03-29T18:07:14.201Z"
+generated_at: "2026-03-29T18:27:03.281Z"
 ---
 
 # § 1397kk. Phase-out of coverage for nonpregnant childless adults; conditions for coverage of parents
@@ -34,7 +34,7 @@ generated_at: "2026-03-29T18:07:14.201Z"
   - **(2)**
     - **(A)** Any State that provides child health assistance or health benefits coverage under an applicable existing waiver for a parent of a targeted low-income child may elect to continue to provide such assistance or coverage through fiscal year 2012 or 2013, subject to the same terms and conditions that applied under the applicable existing waiver, unless otherwise modified in subparagraph (B).
     - **(B)**
-      - **(i)** If the State makes an election under subparagraph (A), the Secretary shall set aside for the State for each such fiscal year an amount equal to the Federal share of 110 percent of the State’s projected expenditures under the applicable existing waiver for providing child health assistance or health benefits coverage to all parents of targeted low-income children enrolled under such waiver for the fiscal year (as certified by the State and submitted to the Secretary by not later than August 31 of the preceding fiscal year). In the case of fiscal year 2013, the set aside for any State shall be computed separately for each period described in subparagraphs (A) and (B) of section 1397dd(a)(16) of this title and any reduction in the allotment for either such period under section 1397dd(m)(4) of this title shall be allocated on a pro rata basis to such set aside.
+      - **(i)** If the State makes an election under subparagraph (A), the Secretary shall set aside for the State for each such fiscal year an amount equal to the Federal share of 110 percent of the State’s projected expenditures under the applicable existing waiver for providing child health assistance or health benefits coverage to all parents of targeted low-income children enrolled under such waiver for the fiscal year (as certified by the State and submitted to the Secretary by not later than August 31 of the preceding fiscal year). In the case of fiscal year 2013, the set aside for any State shall be computed separately for each period described in subparagraphs (A) and (B) of section 1397dd(a)(16) of this title and any reduction in the allotment for either such period under section 1397dd(m)(5) of this title shall be allocated on a pro rata basis to such set aside.
       - **(ii)** The Secretary shall pay the State from the amount set aside under clause (i) for the fiscal year, an amount for each quarter of such fiscal year equal to the applicable percentage determined under clause (iii) or (iv) for expenditures in the quarter for providing child health assistance or other health benefits coverage to a parent of a targeted low-income child.
       - **(iii)** For purposes of clause (ii), the applicable percentage for any quarter of fiscal year 2012 is equal to—
         - **(I)** the enhanced FMAP determined under section 1397ee(b) of this title in the case of a State that meets the outreach or coverage benchmarks described in any of subparagraph (A), (B), or (C) of paragraph (3) for fiscal year 2011; or

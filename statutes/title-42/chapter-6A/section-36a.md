@@ -3,15 +3,15 @@ title: "Section 36a - Suicide prevention for youth"
 usc_title: 42
 usc_section: "36a"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 36a"
-generated_at: "2026-03-29T18:07:13.449Z"
+generated_at: "2026-03-29T18:27:02.671Z"
 ---
 
 # § 290bb–36a. Suicide prevention for youth
 
 - **(a)** The Secretary shall award grants or cooperative agreements to public organizations, private nonprofit organizations, political subdivisions, consortia of political subdivisions, consortia of States, or Federally recognized Indian tribes or tribal organizations to design early intervention and prevention strategies that will complement the State-sponsored statewide or tribal youth suicide early intervention and prevention strategies developed pursuant to section 290bb–36 of this title .
-- **(b)** In carrying out subsection (a) of this section, the Secretary shall ensure that activities under this section are coordinated with the relevant Department of Health and Human Services agencies and suicide working groups.
+- **(b)** In carrying out subsection (a), the Secretary shall ensure that activities under this section are coordinated with the relevant Department of Health and Human Services agencies and suicide working groups.
 - **(c)** A public organization, private nonprofit organization, political subdivision, consortium of political subdivisions, consortium of States, or federally recognized Indian tribe or tribal organization desiring a grant, contract, or cooperative agreement under this section shall demonstrate that the suicide prevention program such entity proposes will—
   - **(1)**
     - **(A)** comply with the State-sponsored statewide early intervention and prevention strategy as developed under section 290bb–36 of this title ; and
@@ -26,11 +26,11 @@ generated_at: "2026-03-29T18:07:13.449Z"
   - **(9)** conduct annual self-evaluations of outcomes and activities, including consulting with interested families and advocacy organizations; 1 1 So in original. Probably should be followed by “and”.
   - **(10)** ensure that staff used in the program are trained in suicide prevention and that professionals involved in the system of care have received training in identifying persons at risk of suicide.
 - **(d)** Amounts provided under a grant or cooperative agreement under this section shall be used to supplement, and not supplant, Federal and non-Federal funds available for carrying out the activities described in this section. Applicants shall provide financial information to demonstrate compliance with this section.
-- **(e)** An applicant for a grant or cooperative agreement under subsection (a) of this section shall demonstrate to the Secretary that the application complies with the State-sponsored statewide early intervention and prevention strategy as developed under section 290bb–36 of this title and the applicant has the support of the local community and relevant public health officials.
-- **(f)** In awarding grants and cooperative agreements under subsection (a) of this section, the Secretary shall ensure that such awards are made in a manner that will focus on the needs of communities or groups that experience high or rapidly rising rates of suicide.
-- **(g)** A public organization, private nonprofit organization, political subdivision, consortium of political subdivisions, consortium of States, or Federally recognized Indian tribe or tribal organization receiving a grant or cooperative agreement under subsection (a) of this section shall prepare and submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require. Such application shall include a plan for the rigorous evaluation of activities funded under the grant or cooperative agreement, including a process and outcome evaluation.
-- **(h)** In awarding grants and cooperative agreements under subsection (a) of this section, the Secretary shall ensure that such awards are distributed among the geographical regions of the United States and between urban and rural settings.
-- **(i)** A public organization, private nonprofit organization, political subdivision, consortium of political subdivisions, consortium of States, or Federally recognized Indian tribe or tribal organization receiving a grant or cooperative agreement under subsection (a) of this section shall prepare and submit to the Secretary at the end of the program period, an evaluation of all activities funded under this section.
+- **(e)** An applicant for a grant or cooperative agreement under subsection (a) shall demonstrate to the Secretary that the application complies with the State-sponsored statewide early intervention and prevention strategy as developed under section 290bb–36 of this title and the applicant has the support of the local community and relevant public health officials.
+- **(f)** In awarding grants and cooperative agreements under subsection (a), the Secretary shall ensure that such awards are made in a manner that will focus on the needs of communities or groups that experience high or rapidly rising rates of suicide.
+- **(g)** A public organization, private nonprofit organization, political subdivision, consortium of political subdivisions, consortium of States, or Federally recognized Indian tribe or tribal organization receiving a grant or cooperative agreement under subsection (a) shall prepare and submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require. Such application shall include a plan for the rigorous evaluation of activities funded under the grant or cooperative agreement, including a process and outcome evaluation.
+- **(h)** In awarding grants and cooperative agreements under subsection (a), the Secretary shall ensure that such awards are distributed among the geographical regions of the United States and between urban and rural settings.
+- **(i)** A public organization, private nonprofit organization, political subdivision, consortium of political subdivisions, consortium of States, or Federally recognized Indian tribe or tribal organization receiving a grant or cooperative agreement under subsection (a) shall prepare and submit to the Secretary at the end of the program period, an evaluation of all activities funded under this section.
 - **(j)** The Secretary shall ensure that findings derived from activities carried out under this section are disseminated to State, county and local governmental agencies and public and private nonprofit organizations active in promoting suicide prevention and family support activities.
 - **(k)** With respect to a grant, contract, or cooperative agreement awarded under this section, the period during which payments under such award may be made to the recipient may not exceed 3 years.
 - **(l)** Within 1 year after October 17, 2000 , the Secretary shall, directly or by grant or contract, initiate a study to assemble and analyze data to identify—

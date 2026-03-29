@@ -3,9 +3,9 @@ title: "Section 1522 - Research and development"
 usc_title: 7
 usc_section: "1522"
 chapter: 36
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 1522"
-generated_at: "2026-03-29T18:04:04.860Z"
+generated_at: "2026-03-29T18:23:43.279Z"
 ---
 
 # § 1522. Research and development
@@ -172,7 +172,7 @@ generated_at: "2026-03-29T18:04:04.860Z"
       - **(iii)** assess the feasibility of a policy or plan of insurance offered under this subchapter to insure against a portion of losses due to business interruption or to the bankruptcy of an business integrator; and
       - **(iv)** analyze the costs to the Federal Government of a Federal business interruption insurance program for poultry growers or producers.
     - **(D)** Not later than 180 days after February 7, 2014 , the Corporation shall offer to enter into the contract or cooperative agreement required by subparagraph (B).
-    - **(E)** Not later than 1 year after February 7, 2014 , the Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the research and development conducted pursuant to the contract or cooperative agreement entered into under subparagraph (B).]
+    - **(E)** Not later than 1 year after February 7, 2014 , the Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the research and development conducted pursuant to the contract or cooperative agreement entered into under subparagraph (B).] 2 2 So in original. The closing bracket probably should not appear.
   - **(22)**
     - **(A)** The Corporation shall offer to enter into a contract with 1 or more qualified entities to conduct a study to determine whether offering policies that provide coverage for specialty crops from food safety and contamination issues would benefit agricultural producers.
     - **(B)** The study described in subparagraph (A) shall evaluate policies and plans of insurance coverage that provide protection for production or revenue impacted by food safety concerns including, at a minimum, government, retail, or national consumer group announcements of a health advisory, removal, or recall related to a contamination concern.
@@ -198,10 +198,10 @@ generated_at: "2026-03-29T18:04:04.860Z"
     - **(G)** to improve analysis tools and technology regarding compliance or identifying and using innovative compliance strategies; and
     - **(H)** to develop other risk management tools to further increase economic and production stability.
 - **(e)**
-  - **(1)** Of the amounts made available from the insurance fund established under section 1516(c) of this title , the Corporation may use to provide reimbursements under subsection (b) of this section not more than $7,500,000 for fiscal year 2008 and each subsequent fiscal year.
+  - **(1)** Of the amounts made available from the insurance fund established under section 1516(c) of this title , the Corporation may use to provide reimbursements under subsection (b) not more than $7,500,000 for fiscal year 2008 and each subsequent fiscal year.
   - **(2)**
-    - **(A)** Of the amounts made available from the insurance fund established under section 1516(c) of this title , the Corporation may use to conduct research and development and carry out contracting and partnerships under subsections (c) and (d) of this section not more than $12,500,000 for fiscal year 2008 and each subsequent fiscal year.
-    - **(B)** Of the amount made available under subparagraph (A) for a fiscal year, the Corporation shall use not more than $5,000,000 for the fiscal year to conduct research and development and carry out contracting for research and development to carry out the purpose described in subsection (c)(1)(A) of this section.
+    - **(A)** Of the amounts made available from the insurance fund established under section 1516(c) of this title , the Corporation may use to conduct research and development and carry out contracting and partnerships under subsections (c) and (d) not more than $12,500,000 for fiscal year 2008 and each subsequent fiscal year.
+    - **(B)** Of the amount made available under subparagraph (A) for a fiscal year, the Corporation shall use not more than $5,000,000 for the fiscal year to conduct research and development and carry out contracting for research and development to carry out the purpose described in subsection (c)(1)(A).
   - **(3)** If the Corporation determines that the amount available under this section for a fiscal year is not needed for such purposes, the Corporation may use—
     - **(A)** not more than $5,000,000 for each fiscal year to improve program integrity, including by—
       - **(i)** increasing compliance-related training;

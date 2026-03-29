@@ -3,12 +3,19 @@ title: "Section 1407a - Retired pay base: officers retired in general or flag of
 usc_title: 10
 usc_section: "1407a"
 chapter: 71
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 1407a"
-generated_at: "2026-03-29T18:04:13.077Z"
+generated_at: "2026-03-29T18:23:51.815Z"
 ---
 
 # § 1407a. Retired pay base: officers retired in general or flag officer grades
 
-- **(a)** In a case in which the determination under section 1406 or 1407 of this title of the retired pay base applicable to the computation of the retired pay of a covered general or flag officer involves a rate of basic pay payable to that officer for any period that was subject to a reduction under section 203(a)(2) of title 37 for such period, such retired-pay-base determination shall be made using the rate of basic pay for such period provided by law, rather than such rate as so reduced.
-- **(b)** In this section, the term “covered general or flag officer” means a member or former member who after September 30, 2006 , is retired in a general officer grade or flag officer grade.
+- **(a)** Except as otherwise provided in this section, in a case in which the determination under section 1406 or 1407 of this title of the retired pay base applicable to the computation of the retired pay of a covered general or flag officer involves a rate of basic pay payable to that officer for any period between October 1, 2006 , and December 31, 2014 , that was subject to a reduction under section 203(a)(2) of title 37 for such period, such retired-pay-base determination shall be made using the rate of basic pay for such period provided by law, without regard to the reduction under section 203(a)(2) of title 37 .
+- **(b)**
+  - **(1)** In the case of a covered general or flag officer who first became a member of a uniformed service before September 8, 1980 , and who is retired after December 31, 2014 , under any provision of law other than chapter 1223 of this title or is transferred to the Retired Reserve after December 31, 2014 , the retired pay base applicable to the computation of the retired pay of that officer shall be determined as provided in paragraph (2) if determination of such retired pay base as provided in that paragraph results in a higher retired pay base than determination of such retired pay base as otherwise provided by law (including the application of section 203(a)(2) of title 37 ).
+  - **(2)** For a determination in accordance with this paragraph, the amount of an officer’s retired pay base shall be determined by using the rate of basic pay provided as of December 31, 2014 , for that officer’s grade as of that date for purposes of basic pay, with that officer’s years of service creditable as of that date for purposes of basic pay, and without regard to any reduction under section 203(a)(2) of title 37 .
+  - **(3)** In a case in which the retired grade of the officer is lower than the grade in which the officer was serving on December 31, 2014 , paragraph (2) shall be applied as if the officer was serving on that date in the officer’s retired grade.
+- **(c)** In the case of a covered general or flag officer who is transferred to the Retired Reserve between October 1, 2006 , and December 31, 2014 , and who becomes entitled to receive retired pay under section 12731 of this title after December 31, 2014 , the retired pay base applicable to the computation of the retired pay of that officer shall be determined using the rates of basic pay provided by law without regard to any reduction in rates of basic pay under section 203(a)(2) of title 37 .
+- **(d)** In this section, the term “covered general or flag officer” means a member or former member of a uniformed service who after September 30, 2006 —
+  - **(1)** is retired in a general officer grade or flag officer grade (or an equivalent grade, in the case of an officer of the commissioned corps of the Public Health Service or the National Oceanic and Atmospheric Administration); or
+  - **(2)** is transferred to the Retired Reserve in a general officer grade or flag officer grade.

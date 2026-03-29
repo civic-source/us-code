@@ -3,14 +3,14 @@ title: "Section 1401 - Miscellaneous"
 usc_title: 19
 usc_section: "1401"
 chapter: 4
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 1401"
-generated_at: "2026-03-29T18:04:55.006Z"
+generated_at: "2026-03-29T18:24:16.080Z"
 ---
 
 # § 1401. Miscellaneous
 
-When used in this subtitle or in part I of subtitle II of this chapter—
+When used in this subtitle or in part I of subtitle II—
 
 - **(a)** The word “vessel” includes every description of water craft or other contrivance used, or capable of being used, as a means of transportation in water, but does not include aircraft.
 - **(b)** The word “vehicle” includes every description of carriage or other contrivance used, or capable of being used, as a means of transportation on land, but does not include aircraft.
@@ -33,7 +33,7 @@ When used in this subtitle or in part I of subtitle II of this chapter—
 - **(o)** The term “electronic entry” means the electronic transmission to the Customs Service of—
   - **(1)** entry information required for the entry of merchandise, and
   - **(2)** entry summary information required for the classification and appraisement of the merchandise, the verification of statistical information, and the determination of compliance with applicable law.
-- **(p)** The term “electronic data interchange system” means any established mechanism approved by the Commissioner of Customs through which information can be transferred electronically.
+- **(p)** The term “electronic data interchange system” means any established mechanism approved by the Commissioner of U.S. Customs and Border Protection through which information can be transferred electronically.
 - **(q)** The term “National Customs Automation Program” means the program established under section 1411 of this title .
 - **(r)** The term “import activity summary statement” refers to data or information transmitted electronically to the Customs Service, in accordance with such regulations as the Secretary prescribes, at the end of a specified period of time which enables the Customs Service to assess properly the duties, taxes and fees on merchandise imported during that period, collect accurate statistics and determine whether any other applicable requirement of law (other than a requirement relating to release from customs custody) is met.
 - **(s)** The term “reconciliation” means an electronic process, initiated at the request of an importer, under which the elements of an entry (other than those elements related to the admissibility of the merchandise) that are undetermined at the time the importer files or transmits the documentation or information required by section 1484(a)(1)(B) of this title , or the import activity summary statement, are provided to the Customs Service at a later time. A reconciliation is treated as an entry for purposes of liquidation, reliquidation, recordkeeping, and protest.

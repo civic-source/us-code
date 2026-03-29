@@ -1,14 +1,12 @@
 ---
-title: "Section 576 - Purchase of lands; reimbursement of expenditures"
+title: "Section 576 - Omitted"
 usc_title: 25
 usc_section: "576"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 576"
-generated_at: "2026-03-29T18:05:17.074Z"
+generated_at: "2026-03-29T18:25:23.697Z"
 ---
 
-# § 576. Purchase of lands; reimbursement of expenditures
-
-The sum of $1,000,000 authorized in section 573 of this title for use in carrying out the land purchase and consolidation program hereinbefore authorized shall remain available until expended and any amount expended shall be reimbursed with interest at 4 per centum per annum to the Shoshone Tribe of Indians of the Wind River Reservation from joint funds to the credit of the Shoshone and Arapaho Tribes of the Wind River Reservation or from future accruals to said joint fund, as and when said funds accrue. Title to all land purchases made hereunder shall be taken in the name of the United States in trust for the Shoshone and Arapaho Tribes of Indians of the Wind River Reservation, Wyoming. All purchases of lands or interests therein made pursuant to this section shall receive the approval of the Shoshone and Arapaho Tribal Councils or of the business committees thereof.
+# § 576. Omitted
 

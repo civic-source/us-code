@@ -3,9 +3,9 @@ title: "Section 1831t - Depository institutions lacking Federal deposit insuranc
 usc_title: 12
 usc_section: "1831t"
 chapter: 16
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 1831t"
-generated_at: "2026-03-29T18:04:43.599Z"
+generated_at: "2026-03-29T18:24:02.933Z"
 ---
 
 # § 1831t. Depository institutions lacking Federal deposit insurance
@@ -14,8 +14,9 @@ generated_at: "2026-03-29T18:04:43.599Z"
   - **(1)** Any private deposit insurer shall obtain an annual audit from an independent auditor using generally accepted auditing standards. The audit shall include a determination of whether the private deposit insurer follows generally accepted accounting principles and has set aside sufficient reserves for losses.
   - **(2)**
     - **(A)** The private deposit insurer shall provide a copy of the audit report—
-      - **(i)** to each depository institution the deposits of which are insured by the private deposit insurer, not later than 14 days after the audit is completed; and
-      - **(ii)** to the appropriate supervisory agency of each State in which such an institution receives deposits, not later than 7 days after the audit is completed.
+      - **(i)** to each depository institution the deposits of which are insured by the private deposit insurer, not later than 14 days after the audit is completed;
+      - **(ii)** to the appropriate supervisory agency of each State in which such an institution receives deposits, not later than 7 days after the audit is completed; and
+      - **(iii)** in the case of depository institutions described in subsection (e)(2)(A) the deposits of which are insured by the private insurer which are members of a Federal home loan bank, to the Federal Housing Finance Agency, not later than 7 days after the audit is completed.
     - **(B)** Any depository institution the deposits of which are insured by the private deposit insurer shall provide a copy of the audit report, upon request, to any current or prospective customer of the institution.
   - **(3)** Any appropriate State supervisor of a private deposit insurer, and any appropriate State supervisor of a depository institution which receives deposits that are insured by a private deposit insurer, may examine and enforce compliance with this subsection under the applicable regulatory authority of such supervisor.
 - **(b)** Any depository institution lacking Federal deposit insurance shall, within the United States, do the following:
@@ -47,7 +48,7 @@ generated_at: "2026-03-29T18:04:43.599Z"
         - **(I)** Make the transmission described in clause (i) via mail not later than three months after October 13, 2006 .
         - **(II)** Make a second transmission described in clause (i) via mail not less than 30 days and not more than three months after a transmission to the depositor in accordance with subclause (I), if the institution has not, by the date of such mailing, received from the depositor a card referred to in clause (i) which has been signed by the depositor.
 - **(c)** To ensure that current and prospective customers understand the risks involved in foregoing Federal deposit insurance, the Bureau, by regulation or order, shall prescribe the manner and content of disclosure required under this section, which shall be presented in such format and in such type size and manner as to be simple and easy to understand.
-- **(d)** The Bureau may, by regulation or order, make exceptions to subsection (b) of this section for any depository institution that, within the United States, does not receive initial deposits of less than an amount equal to the standard maximum deposit insurance amount from individuals who are citizens or residents of the United States, other than money received in connection with any draft or similar instrument issued to transmit money.
+- **(d)** The Bureau may, by regulation or order, make exceptions to subsection (b) for any depository institution that, within the United States, does not receive initial deposits of less than an amount equal to the standard maximum deposit insurance amount from individuals who are citizens or residents of the United States, other than money received in connection with any draft or similar instrument issued to transmit money.
 - **(e)** For purposes of this section:
   - **(1)** The “appropriate supervisor” of a depository institution means the agency primarily responsible for supervising the institution.
   - **(2)** The term “depository institution” includes—

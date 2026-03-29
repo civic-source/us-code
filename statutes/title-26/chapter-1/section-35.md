@@ -3,9 +3,9 @@ title: "Section 35 - Health insurance costs of eligible individuals"
 usc_title: 26
 usc_section: "35"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 35"
-generated_at: "2026-03-29T18:05:44.416Z"
+generated_at: "2026-03-29T18:25:53.366Z"
 ---
 
 # § 35. Health insurance costs of eligible individuals
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T18:05:44.416Z"
       - **(ii)** is covered by qualified health insurance, the premium for which is paid by the taxpayer,
       - **(iii)** does not have other specified coverage, and
       - **(iv)** is not imprisoned under Federal, State, or local authority, and
-    - **(B)** such month begins more than 90 days after the date of the enactment of the Trade Act of 2002, and before January 1, 2014 .
+    - **(B)** such month begins more than 90 days after the date of the enactment of the Trade Act of 2002, and before January 1, 2020 .
   - **(2)** In the case of a joint return, the requirements of paragraph (1)(A) shall be treated as met with respect to any month if at least 1 spouse satisfies such requirements.
 - **(c)** For purposes of this section—
   - **(1)** The term “eligible individual” means—
@@ -57,10 +57,7 @@ generated_at: "2026-03-29T18:05:44.416Z"
     - **(G)** Coverage offered through a State arrangement with a private sector health care coverage purchasing pool.
     - **(H)** Coverage under a State-operated health plan that does not receive any Federal financial participation.
     - **(I)** Coverage under a group health plan that is available through the employment of the eligible individual’s spouse.
-    - **(J)** In the case of any eligible individual and such individual’s qualifying family members, coverage under individual health insurance if the eligible individual was covered under individual health insurance during the entire 30-day period that ends on the date that such individual became separated from the employment which qualified such individual for—
-      - **(i)** in the case of an eligible TAA recipient, the allowance described in subsection (c)(2),
-      - **(ii)** in the case of an eligible alternative TAA recipient, the benefit described in subsection (c)(3)(B), or
-      - **(iii)** in the case of any eligible PBGC pension recipient, the benefit described in subsection (c)(4)(B).
+    - **(J)** In the case of any eligible individual and such individual’s qualifying family members, coverage under individual health insurance (other than coverage enrolled in through an Exchange established under the Patient Protection and Affordable Care Act). For purposes of this subparagraph, the term “individual health insurance” means any insurance which constitutes medical care offered to individuals other than in connection with a group health plan and does not include Federal- or State-based health insurance coverage.
     - **(K)** Coverage under an employee benefit plan funded by a voluntary employees’ beneficiary association (as defined in section 501(c)(9)) established pursuant to an order of a bankruptcy court, or by agreement with an authorized representative, as provided in section 1114 of title 11 , United States Code.
   - **(2)**
     - **(A)** The term “qualified health insurance” does not include any coverage described in subparagraphs (B) through (H) of paragraph (1) unless the State involved has elected to have such coverage treated as qualified health insurance under this section and such coverage meets the following requirements:
@@ -101,11 +98,23 @@ generated_at: "2026-03-29T18:05:44.416Z"
   - **(8)** For purposes of this section—
     - **(A)** Payments made by the Secretary on behalf of any individual under section 7527 (relating to advance payment of credit for health insurance costs of eligible individuals) shall be treated as having been made by the taxpayer on the first day of the month for which such payment was made.
     - **(B)** Payments made by the taxpayer for eligible coverage months shall be treated as having been made by the taxpayer on the first day of the month for which such payment was made.
-  - **(9)**
+  - **(9)** In the case of an assistance eligible individual who receives premium reduction for COBRA continuation coverage under section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009 for any month during the taxable year, such individual shall not be treated as an eligible individual, a certified individual, or a qualifying family member for purposes of this section or section 7527 with respect to such month.
+  - **(10)**
     - **(A)** In the case of any month which would be an eligible coverage month with respect to an eligible individual but for subsection (f)(2)(A), such month shall be treated as an eligible coverage month with respect to such eligible individual solely for purposes of determining the amount of the credit under this section with respect to any qualifying family members of such individual (and any advance payment of such credit under section 7527). This subparagraph shall only apply with respect to the first 24 months after such eligible individual is first entitled to the benefits described in subsection (f)(2)(A).
     - **(B)** In the case of the finalization of a divorce between an eligible individual and such individual’s spouse, such spouse shall be treated as an eligible individual for purposes of this section and section 7527 for a period of 24 months beginning with the date of such finalization, except that the only qualifying family members who may be taken into account with respect to such spouse are those individuals who were qualifying family members immediately before such finalization.
     - **(C)** In the case of the death of an eligible individual—
       - **(i)** any spouse of such individual (determined at the time of such death) shall be treated as an eligible individual for purposes of this section and section 7527 for a period of 24 months beginning with the date of such death, except that the only qualifying family members who may be taken into account with respect to such spouse are those individuals who were qualifying family members immediately before such death, and
       - **(ii)** any individual who was a qualifying family member of the decedent immediately before such death (or, in the case of an individual to whom paragraph (4) applies, the taxpayer to whom the deduction under section 151 is allowable) shall be treated as an eligible individual for purposes of this section and section 7527 for a period of 24 months beginning with the date of such death, except that in determining the amount of such credit only such qualifying family member may be taken into account.
-  - **(9)** In the case of an assistance eligible individual who receives premium reduction for COBRA continuation coverage under section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009 for any month during the taxable year, such individual shall not be treated as an eligible individual, a certified individual, or a qualifying family member for purposes of this section or section 7527 with respect to such month.
-  - **(10)** The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, section 6050T, and section 7527.
+  - **(11)**
+    - **(A)** This section shall not apply to any taxpayer for any eligible coverage month unless such taxpayer elects the application of this section for such month.
+    - **(B)** Except as the Secretary may provide—
+      - **(i)** an election to have this section apply for any eligible coverage month in a taxable year shall be made not later than the due date (including extensions) for the return of tax for the taxable year; and
+      - **(ii)** any election for this section to apply for an eligible coverage month shall apply for all subsequent eligible coverage months in the taxable year and, once made, shall be irrevocable with respect to such months.
+  - **(12)**
+    - **(A)** An eligible coverage month to which the election under paragraph (11) applies shall not be treated as a coverage month (as defined in section 36B(c)(2)) for purposes of section 36B with respect to the taxpayer.
+    - **(B)** In the case of a taxpayer who makes the election under paragraph (11) with respect to any eligible coverage month in a taxable year or on behalf of whom any advance payment is made under section 7527 with respect to any month in such taxable year—
+      - **(i)** the tax imposed by this chapter for the taxable year shall be increased by the excess, if any, of—
+        - **(I)** the sum of any advance payments made on behalf of the taxpayer under section 1412 of the Patient Protection and Affordable Care Act and section 7527 for months during such taxable year, over
+        - **(II)** the sum of the credits allowed under this section (determined without regard to paragraph (1)) and section 36B (determined without regard to subsection (f)(1) thereof) for such taxable year; and
+      - **(ii)** section 36B(f)(2) shall not apply with respect to such taxpayer for such taxable year, except that if such taxpayer received any advance payments under section 7527 for any month in such taxable year and is later allowed a credit under section 36B for such taxable year, then section 36B(f)(2)(B) shall be applied by substituting the amount determined under clause (i) for the amount determined under section 36B(f)(2)(A).
+  - **(13)** The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, section 6050T, and section 7527.

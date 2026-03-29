@@ -3,9 +3,9 @@ title: "Section 678 - Rule of construction"
 usc_title: 42
 usc_section: "678"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 678"
-generated_at: "2026-03-29T18:07:13.770Z"
+generated_at: "2026-03-29T18:27:02.939Z"
 ---
 
 # § 678. Rule of construction

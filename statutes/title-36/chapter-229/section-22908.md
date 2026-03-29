@@ -3,9 +3,9 @@ title: "Section 22908 - Duty to maintain corporate and tax-exempt status"
 usc_title: 36
 usc_section: "22908"
 chapter: 229
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "36 U.S.C. § 22908"
-generated_at: "2026-03-29T18:06:24.300Z"
+generated_at: "2026-03-29T18:26:09.273Z"
 ---
 
 # § 22908. Duty to maintain corporate and tax-exempt status

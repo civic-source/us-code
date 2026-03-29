@@ -1,12 +1,12 @@
 ---
-title: "Section 4741 - Repealed. Pub. L. 108–375, div. A, title X, § 1072(c) , Oct. 28, 2004 , 118 Stat. 2058 ]"
+title: "Section 4741 - Repealed. Pub. L. 108–375, div. A, title X , § 1072(c), Oct. 28, 2004 , 118 Stat. 2058 ]"
 usc_title: 10
 usc_section: "4741"
 chapter: 447
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 4741"
-generated_at: "2026-03-29T18:04:13.246Z"
+generated_at: "2026-03-29T18:23:52.037Z"
 ---
 
-# [§ 4741. Repealed. Pub. L. 108–375, div. A, title X, § 1072(c) , Oct. 28, 2004 , 118 Stat. 2058 ]
+# [§ 4741. Repealed. Pub. L. 108–375, div. A, title X , § 1072(c), Oct. 28, 2004 , 118 Stat. 2058 ]
 

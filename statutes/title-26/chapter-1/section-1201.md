@@ -3,9 +3,9 @@ title: "Section 1201 - Alternative tax for corporations"
 usc_title: 26
 usc_section: "1201"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 1201"
-generated_at: "2026-03-29T18:05:44.774Z"
+generated_at: "2026-03-29T18:25:53.715Z"
 ---
 
 # § 1201. Alternative tax for corporations
@@ -14,10 +14,10 @@ generated_at: "2026-03-29T18:05:44.774Z"
   - **(1)** a tax computed on the taxable income reduced by the amount of the net capital gain, at the rates and in the manner as if this subsection had not been enacted, plus
   - **(2)** a tax of 35 percent of the net capital gain (or, if less, taxable income).
 - **(b)**
-  - **(1)** If, for any taxable year ending after the date of the enactment of the Food, Conservation, and Energy Act of 2008 and beginning on or before the date which is 1 year after such date, a corporation has both a net capital gain and qualified timber gain—
+  - **(1)** If, for any taxable year beginning in 2016, a corporation has both a net capital gain and qualified timber gain—
     - **(A)** subsection (a) shall apply to such corporation for the taxable year without regard to whether the applicable tax rate exceeds 35 percent, and
     - **(B)** the tax computed under subsection (a)(2) shall be equal to the sum of—
-      - **(i)** 15 percent of the least of—
+      - **(i)** 23.8 percent of the least of—
         - **(I)** qualified timber gain,
         - **(II)** net capital gain, or
         - **(III)** taxable income, plus
@@ -25,9 +25,6 @@ generated_at: "2026-03-29T18:05:44.774Z"
   - **(2)** For purposes of this section, the term “qualified timber gain” means, with respect to any taxpayer for any taxable year, the excess (if any) of—
     - **(A)** the sum of the taxpayer’s gains described in subsections (a) and (b) of section 631 for such year, over
     - **(B)** the sum of the taxpayer’s losses described in such subsections for such year.
-  - **(3)** In the case of any taxable year which includes either of the dates set forth in paragraph (1), the qualified timber gain for such year shall not exceed the qualified timber gain properly taken into account for—
-    - **(A)** in the case of the taxable year including the date of the enactment of the Food, Conservation, and Energy Act of 2008, the portion of the year after such date, and
-    - **(B)** in the case of the taxable year including the date which is 1 year after such date of enactment, the portion of the year on or before such later date.
 - **(c)** For computation of the alternative tax—
   - **(1)** in the case of life insurance companies, see section 801(a)(2),
   - **(2)** in the case of regulated investment companies and their shareholders, see section 852(b)(3)(A) and (D), and

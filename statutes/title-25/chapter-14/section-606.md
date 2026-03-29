@@ -1,14 +1,12 @@
 ---
-title: "Section 606 - Back pay and annuities on enrollment of new members"
+title: "Section 606 - Omitted"
 usc_title: 25
 usc_section: "606"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 606"
-generated_at: "2026-03-29T18:05:17.075Z"
+generated_at: "2026-03-29T18:25:23.697Z"
 ---
 
-# § 606. Back pay and annuities on enrollment of new members
-
-No person whose name shall after August 9, 1946 , be placed on the roll of the Yakima Tribes shall be entitled to any back annuities or per capita payments made to the members of the tribes out of tribal funds which were authorized to be paid to the members of the tribes before such person’s name shall have been placed upon such roll.
+# § 606. Omitted
 

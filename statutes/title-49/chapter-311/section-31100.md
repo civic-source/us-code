@@ -3,9 +3,9 @@ title: "Section 31100 - Purpose"
 usc_title: 49
 usc_section: "31100"
 chapter: 311
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 31100"
-generated_at: "2026-03-29T18:07:51.442Z"
+generated_at: "2026-03-29T18:27:16.541Z"
 ---
 
 # § 31100. Purpose

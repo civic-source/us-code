@@ -3,9 +3,9 @@ title: "Section 445 - Omitted"
 usc_title: 43
 usc_section: "445"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 445"
-generated_at: "2026-03-29T02:15:47.546Z"
+generated_at: "2026-03-29T18:26:14.804Z"
 ---
 
 # §§ 444, 445. Omitted

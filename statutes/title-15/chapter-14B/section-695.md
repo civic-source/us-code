@@ -3,9 +3,9 @@ title: "Section 695 - State development companies"
 usc_title: 15
 usc_section: "695"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 695"
-generated_at: "2026-03-29T18:04:29.499Z"
+generated_at: "2026-03-29T18:24:08.400Z"
 ---
 
 # § 695. State development companies
@@ -30,8 +30,8 @@ generated_at: "2026-03-29T18:04:29.499Z"
     - **(K)** plant, equipment and process upgrades of renewable energy sources such as the small-scale production of energy for individual buildings or communities consumption, commonly known as micropower, or renewable fuels producers including biodiesel and ethanol producers, or
     - **(L)** reduction of rates of unemployment in labor surplus areas, as such areas are determined by the Secretary of Labor.
 - **(e)**
-  - **(1)** A project meets the objective set forth in subsection (d)(1) of this section if the project creates or retains one job for every $65,000 guaranteed by the Administration, except that the amount is $100,000 in the case of a project of a small manufacturer.
-  - **(2)** Paragraph (1) does not apply to a project for which eligibility is based on the objectives set forth in paragraph (2) or (3) of subsection (d) of this section, if the development company’s portfolio of outstanding debentures creates or retains one job for every $65,000 guaranteed by the Administration.
+  - **(1)** A project meets the objective set forth in subsection (d)(1) if the project creates or retains one job for every $65,000 guaranteed by the Administration, except that the amount is $100,000 in the case of a project of a small manufacturer.
+  - **(2)** Paragraph (1) does not apply to a project for which eligibility is based on the objectives set forth in paragraph (2) or (3) of subsection (d), if the development company’s portfolio of outstanding debentures creates or retains one job for every $65,000 guaranteed by the Administration.
   - **(3)** For projects in Alaska, Hawaii, State-designated enterprise zones, empowerment zones and enterprise communities, labor surplus areas, as determined by the Secretary of Labor, and for other areas designated by the Administrator, the development company’s portfolio may average not more than $75,000 per job created or retained.
   - **(4)** Loans for projects of small manufacturers shall be excluded from calculations under paragraph (2) or (3).
   - **(5)** Under regulations prescribed by the Administrator, the Administrator may waive, on a case-by-case basis or by regulation, any requirement of this subsection (other than paragraph (4)). With respect to any waiver the Administrator is prohibited from adopting a dollar amount that is lower than the amounts set forth in paragraphs (1), (2), and (3).

@@ -3,9 +3,9 @@ title: "Section 3373 - Effect of certain natural gas prices on indefinite price 
 usc_title: 15
 usc_section: "3373"
 chapter: 60
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 3373"
-generated_at: "2026-03-29T18:04:29.889Z"
+generated_at: "2026-03-29T18:24:08.580Z"
 ---
 
 # § 3373. Effect of certain natural gas prices on indefinite price escalator clauses

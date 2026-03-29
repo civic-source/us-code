@@ -3,9 +3,9 @@ title: "Section 12 - Loan repayment for civil legal assistance attorneys"
 usc_title: 20
 usc_section: "12"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 12"
-generated_at: "2026-03-29T18:05:00.101Z"
+generated_at: "2026-03-29T18:24:40.942Z"
 ---
 
 # § 1078–12. Loan repayment for civil legal assistance attorneys
@@ -22,16 +22,16 @@ generated_at: "2026-03-29T18:05:00.101Z"
         - **(IV)** section 3004 of title 29 ;
         - **(V)** section 1320b–21 of title 42 ;
         - **(VI)** section 300d–53 of title 42 ; or
-        - **(VII)** section 15461 of title 42 ;
+        - **(VII)** section 21061 of title 52 ;
     - **(B)** as such employee, provides civil legal assistance as described in subparagraph (A) on a full-time basis; and
     - **(C)** is continually licensed to practice law.
   - **(2)**
     - **(A)** Except as provided in subparagraph (B), the term “student loan” means—
-      - **(i)** subject to clause (ii), a loan made, insured, or guaranteed under this part, part C, or part D; and
+      - **(i)** subject to clause (ii), a loan made, insured, or guaranteed under this part, part D, or part E; and
       - **(ii)** a loan made under section 1078–3 or 1087e(g) of this title, to the extent that such loan was used to repay—
         - **(I)** a Federal Direct Stafford Loan, a Federal Direct Unsubsidized Stafford Loan, or a Federal Direct PLUS Loan;
         - **(II)** a loan made under section 1078, 1078–2, or 1078–8 of this title; or
-        - **(III)** a loan made under part D.
+        - **(III)** a loan made under part E.
     - **(B)** The term “student loan” does not include any of the following loans:
       - **(i)** A loan made to the parents of a dependent student under section 1078–2 of this title .
       - **(ii)** A Federal Direct PLUS Loan made to the parents of a dependent student.

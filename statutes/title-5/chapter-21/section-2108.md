@@ -3,9 +3,9 @@ title: "Section 2108 - Veteran; disabled veteran; preference eligible"
 usc_title: 5
 usc_section: "2108"
 chapter: 21
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 2108"
-generated_at: "2026-03-29T18:03:29.841Z"
+generated_at: "2026-03-29T18:23:29.868Z"
 ---
 
 # § 2108. Veteran; disabled veteran; preference eligible
@@ -24,14 +24,12 @@ For the purpose of this title—
     - **(C)** a disabled veteran;
     - **(D)** the unmarried widow or widower of a veteran as defined by paragraph (1)(A) of this section;
     - **(E)** the wife or husband of a service-connected disabled veteran if the veteran has been unable to qualify for any appointment in the civil service or in the government of the District of Columbia;
-    - **(F)** the mother of an individual who lost his life under honorable conditions while serving in the armed forces during a period named by paragraph (1)(A) of this section, if—
-      - **(i)** her husband is totally and permanently disabled;
-      - **(ii)** she is widowed, divorced, or separated from the father and has not remarried; or
-      - **(iii)** she has remarried but is widowed, divorced, or legally separated from her husband when preference is claimed;
-    - **(G)** the mother of a service-connected permanently and totally disabled veteran, if—
-      - **(i)** her husband is totally and permanently disabled;
-      - **(ii)** she is widowed, divorced, or separated from the father and has not remarried; or
-      - **(iii)** she has remarried but is widowed, divorced, or legally separated from her husband when preference is claimed; and
+    - **(F)** the parent of an individual who lost his or her life under honorable conditions while serving in the armed forces during a period named by paragraph (1)(A) of this section, if—
+      - **(i)** the spouse of that parent is totally and permanently disabled; or
+      - **(ii)** that parent, when preference is claimed, is unmarried or, if married, legally separated from his or her spouse;
+    - **(G)** the parent of a service-connected permanently and totally disabled veteran, if—
+      - **(i)** the spouse of that parent is totally and permanently disabled; or
+      - **(ii)** that parent, when preference is claimed, is unmarried or, if married, legally separated from his or her spouse; and
     - **(H)** a veteran who was discharged or released from a period of active duty by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10 );
   - **(4)** except for the purposes of chapters 43 and 75 of this title, “preference eligible” does not include a retired member of the armed forces unless—
     - **(A)** the individual is a disabled veteran; or

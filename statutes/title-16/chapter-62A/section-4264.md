@@ -3,9 +3,9 @@ title: "Section 4264 - Asian elephant conservation assistance"
 usc_title: 16
 usc_section: "4264"
 chapter: 62
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 4264"
-generated_at: "2026-03-29T18:05:07.065Z"
+generated_at: "2026-03-29T18:24:22.906Z"
 ---
 
 # § 4264. Asian elephant conservation assistance
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T18:05:07.065Z"
   - **(6)** Information regarding the source and amount of matching funding available to the applicant.
   - **(7)** Any other information the Secretary considers to be necessary for evaluating the eligibility of the project for funding under this chapter.
 - **(c)**
-  - **(1)** Within 30 days after receiving a final project proposal, the Secretary shall provide a copy of the proposal to the Administrator. The Secretary shall review each final project proposal to determine if it meets the criteria set forth in subsection (d) of this section.
+  - **(1)** Within 30 days after receiving a final project proposal, the Secretary shall provide a copy of the proposal to the Administrator. The Secretary shall review each final project proposal to determine if it meets the criteria set forth in subsection (d).
   - **(2)** Not later than 6 months after receiving a final project proposal, and subject to the availability of funds, the Secretary, after consulting with the Administrator, shall—
     - **(A)** request written comments on the proposal from each country within which the project is to be conducted;
     - **(B)** after requesting those comments, approve or disapprove the proposal; and

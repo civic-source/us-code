@@ -3,9 +3,9 @@ title: "Section 991 - Taxation of a domestic international sales corporation"
 usc_title: 26
 usc_section: "991"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 991"
-generated_at: "2026-03-29T18:05:44.758Z"
+generated_at: "2026-03-29T18:25:53.701Z"
 ---
 
 # § 991. Taxation of a domestic international sales corporation

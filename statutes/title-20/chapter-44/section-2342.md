@@ -3,9 +3,9 @@ title: "Section 2342 - State plan"
 usc_title: 20
 usc_section: "2342"
 chapter: 44
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 2342"
-generated_at: "2026-03-29T18:05:00.245Z"
+generated_at: "2026-03-29T18:24:41.074Z"
 ---
 
 # § 2342. State plan
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T18:05:00.245Z"
       - **(v)** parents and students;
       - **(vi)** institutions of higher education;
       - **(vii)** the State tech prep coordinator and representatives of tech prep consortia (if applicable);
-      - **(viii)** entities participating in activities described in section 2821 of title 29 ;
+      - **(viii)** entities participating in activities described in section 3111 of title 29 ;
       - **(ix)** interested community members (including parent and community organizations);
       - **(x)** representatives of special populations;
       - **(xi)** representatives of business and industry (including representatives of small business); and
@@ -51,7 +51,7 @@ generated_at: "2026-03-29T18:05:00.245Z"
     - **(G)** how programs at the secondary level will prepare career and technical education students, including special populations, to graduate from secondary school with a diploma;
     - **(H)** how such programs will prepare career and technical education students, including special populations, academically and technically for opportunities in postsecondary education or entry into high skill, high wage, or high demand occupations in current or emerging occupations, and how participating students will be made aware of such opportunities;
     - **(I)** how funds will be used to improve or develop new career and technical education courses—
-      - **(i)** at the secondary level that are aligned with rigorous and challenging academic content standards and student academic achievement standards adopted by the State under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6311(b)(1) ];
+      - **(i)** at the secondary level that are aligned with challenging State academic standards adopted by the State under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6311(b)(1) ];
       - **(ii)** at the postsecondary level that are relevant and challenging; and
       - **(iii)** that lead to employment in high skill, high wage, or high demand occupations;
     - **(J)** how the eligible agency will facilitate and coordinate communication on best practices among successful recipients of tech prep program grants under subchapter II and eligible recipients to improve program quality and student achievement;
@@ -75,7 +75,7 @@ generated_at: "2026-03-29T18:05:00.245Z"
     - **(B)** among any consortia that will be formed among secondary schools and eligible institutions, and how funds will be allocated among the members of the consortia, including the rationale for such allocation;
   - **(7)** describes how the eligible agency will—
     - **(A)** improve the academic and technical skills of students participating in career and technical education programs, including strengthening the academic and career and technical components of career and technical education programs through the integration of academics with career and technical education to ensure learning in—
-      - **(i)** the core academic subjects (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 7801 ]); and
+      - **(i)** a well-rounded education (as defined in section 8101 of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 7801 ]); and
       - **(ii)** career and technical education subjects;
     - **(B)** provide students with strong experience in, and understanding of, all aspects of an industry; and
     - **(C)** ensure that students who participate in such career and technical education programs are taught to the same challenging academic proficiencies as are taught to all other students;
@@ -96,10 +96,10 @@ generated_at: "2026-03-29T18:05:00.245Z"
   - **(17)** describes the methods proposed for the joint planning and coordination of programs carried out under this subchapter with other Federal education programs;
   - **(18)** describes how funds will be used to promote preparation for high skill, high wage, or high demand occupations and non-traditional fields;
   - **(19)** describes how funds will be used to serve individuals in State correctional institutions; and
-  - **(20)** contains the description and information specified in sections 2822(b)(8) and 2841(c) of title 29 concerning the provision of services only for postsecondary students and school dropouts.
+  - **(20)** contains the description and information specified in subparagraphs (B) and (C)(iii) of section 3112(b)(2), and, as appropriate, section 3113(b)(3)(A), and section 3151(c), of title 29 concerning the provision of services only for postsecondary students and school dropouts.
 - **(d)**
   - **(1)** An eligible agency not choosing to consolidate funds under section 2372 of this title shall fulfill the plan or application submission requirements of this section, and section 2371(c) of this title , by submitting a single State plan. In such plan, the eligible agency may allow recipients to fulfill the plan or application submission requirements of section 2354 of this title and subsections (a) and (b) of section 2374 of this title by submitting a single local plan.
-  - **(2)** The eligible agency may submit the plan required under this section as part of the plan submitted under section 501 of Public Law 105–220 [ 20 U.S.C. 9271 ], if the plan submitted pursuant to the requirement of this section meets the requirements of this chapter.
+  - **(2)** The eligible agency may submit the plan required under this section as part of the plan submitted under section 3113 of title 29 , if the plan submitted pursuant to the requirement of this section meets the requirements of this chapter.
 - **(e)**
   - **(1)** The Secretary shall approve a State plan, or a revision to an approved State plan, unless the Secretary determines that—
     - **(A)** the State plan, or revision, respectively, does not meet the requirements of this chapter; or

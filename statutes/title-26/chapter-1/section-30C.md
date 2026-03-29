@@ -3,9 +3,9 @@ title: "Section 30C - Alternative fuel vehicle refueling property credit"
 usc_title: 26
 usc_section: "30C"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 30C"
-generated_at: "2026-03-29T18:05:44.412Z"
+generated_at: "2026-03-29T18:25:53.364Z"
 ---
 
 # § 30C. Alternative fuel vehicle refueling property credit
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T18:05:44.412Z"
     - **(A)** the regular tax liability (as defined in section 26(b)) reduced by the sum of the credits allowable under subpart A and section 27, over
     - **(B)** the tentative minimum tax for the taxable year.
 - **(e)** For purposes of this section—
-  - **(1)** The basis of any property shall be reduced by the portion of the cost of such property taken into account under subsection (a).
+  - **(1)** For purposes of this subtitle, the basis of any property for which a credit is allowable under subsection (a) shall be reduced by the amount of such credit so allowed (determined without regard to subsection (d)).
   - **(2)** In the case of any qualified alternative fuel vehicle refueling property the use of which is described in paragraph (3) or (4) of section 50(b) and which is not subject to a lease, the person who sold such property to the person or entity using such property shall be treated as the taxpayer that placed such property in service, but only if such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such property (determined without regard to subsection (d)). For purposes of subsection (d), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.
   - **(3)** No credit shall be allowable under subsection (a) with respect to any property referred to in section 50(b)(1) or with respect to the portion of the cost of any property taken into account under section 179.
   - **(4)** No credit shall be allowed under subsection (a) for any property if the taxpayer elects not to have this section apply to such property.
@@ -39,7 +39,6 @@ generated_at: "2026-03-29T18:05:44.412Z"
       - **(ii)** subsection (b)(1) shall be applied by substituting “$50,000” for “$30,000”, and
       - **(iii)** subsection (b)(2) shall be applied by substituting “$2,000” for “$1,000”, and
     - **(B)** in the case of any such property which relates to hydrogen, subsection (b)(1) shall be applied by substituting “$200,000” for “$30,000”.
+  - **(7)** For purposes of this section, any reference to section 179A shall be treated as a reference to such section as in effect immediately before its repeal.
 - **(f)** The Secretary shall prescribe such regulations as necessary to carry out the provisions of this section.
-- **(g)** This section shall not apply to any property placed in service—
-  - **(1)** in the case of property relating to hydrogen, after December 31, 2014 , and
-  - **(2)** in the case of any other property, after December 31, 2013 .
+- **(g)** This section shall not apply to any property placed in service after December 31, 2016 .

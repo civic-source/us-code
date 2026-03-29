@@ -3,15 +3,15 @@ title: "Section 7284 - Personal liability of producers for deficiencies"
 usc_title: 7
 usc_section: "7284"
 chapter: 100
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 7284"
-generated_at: "2026-03-29T18:04:05.109Z"
+generated_at: "2026-03-29T18:23:43.507Z"
 ---
 
 # § 7284. Personal liability of producers for deficiencies
 
-- **(a)** Except as provided in subsection (b) of this section, no producer shall be personally liable for any deficiency arising from the sale of the collateral securing any nonrecourse loan made under this chapter 1 1 So in original. Probably should be followed by a comma. title I of the Farm Security and Rural Investment Act of 2002 [ 7 U.S.C. 7901 et seq.], title I of the Food, Conservation, and Energy Act of 2008 [ 7 U.S.C. 8701 et seq.], and title I of the Agricultural Act of 2014 [ 7 U.S.C. 9001 et seq.] unless the loan was obtained through a fraudulent representation by the producer.
-- **(b)** Subsection (a) of this section shall not prevent the Commodity Credit Corporation or the Secretary from requiring a producer to assume liability for—
+- **(a)** Except as provided in subsection (b), no producer shall be personally liable for any deficiency arising from the sale of the collateral securing any nonrecourse loan made under this chapter 1 1 So in original. Probably should be followed by a comma. title I of the Farm Security and Rural Investment Act of 2002 [ 7 U.S.C. 7901 et seq.], title I of the Food, Conservation, and Energy Act of 2008 [ 7 U.S.C. 8701 et seq.], and title I of the Agricultural Act of 2014 [ 7 U.S.C. 9001 et seq.] unless the loan was obtained through a fraudulent representation by the producer.
+- **(b)** Subsection (a) shall not prevent the Commodity Credit Corporation or the Secretary from requiring a producer to assume liability for—
   - **(1)** a deficiency in the grade, quality, or quantity of a commodity stored on a farm or delivered by the producer;
   - **(2)** a failure to properly care for and preserve a commodity; or
   - **(3)** a failure or refusal to deliver a commodity in accordance with a program established under this chapter 1 title I of the Farm Security and Rural Investment Act of 2002 [ 7 U.S.C. 7901 et seq.], title I of the Food, Conservation, and Energy Act of 2008 [ 7 U.S.C. 8701 et seq.], and title I of the Agricultural Act of 2014 [ 7 U.S.C. 9001 et seq.].

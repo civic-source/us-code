@@ -3,9 +3,9 @@ title: "Section 2433 - Emergency shelters"
 usc_title: 25
 usc_section: "2433"
 chapter: 26
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 2433"
-generated_at: "2026-03-29T18:05:17.220Z"
+generated_at: "2026-03-29T18:25:23.783Z"
 ---
 
 # § 2433. Emergency shelters
@@ -15,16 +15,16 @@ generated_at: "2026-03-29T18:05:17.220Z"
   - **(1)** In any case where an Indian youth is arrested or detained by the Bureau of Indian Affairs or tribal law enforcement personnel for an offense relating to alcohol or substance abuse, other than for a status offense as defined by the Juvenile Justice and Delinquency Prevention Act of 1974 [ 42 U.S.C. 5601 et seq.], under circumstances where such youth may not be immediately restored to the custody of his parents or guardians and where there is space available in an appropriately licensed and supervised emergency shelter or half-way house, such youth shall be referred to such facility in lieu of incarceration in a secured facility unless such youth is deemed a danger to himself or to other persons.
   - **(2)** In any case where there is a space available in an appropriately licensed and supervised emergency shelter or half-way house, the Bureau of Indian Affairs and tribal courts are encouraged to refer Indian youth convicted of offenses directly or indirectly related to alcohol and substance abuse to such facilities in lieu of sentencing to incarceration in a secured juvenile facility.
 - **(c)** In the case of any State that exercises criminal jurisdiction over any part of Indian country under section 1162 of title 18 or section 1321 of this title , such State is urged to require its law enforcement officers to—
-  - **(1)** place any Indian youth arrested for any offense related to alcohol or substance abuse in a temporary emergency shelter described in subsection (d) of this section or a community-based alcohol or substance abuse treatment facility in lieu of incarceration to the extent such facilities are available, and
-  - **(2)** observe the standards promulgated under subsection (d) of this section.
-- **(d)** The Assistant Secretary of Indian Affairs shall, as part of the development of the Memorandum of Agreement set out in section 2411 of this title , promulgate standards by which the emergency shelters established under a program pursuant to subsection (a) of this section shall be established and operated.
+  - **(1)** place any Indian youth arrested for any offense related to alcohol or substance abuse in a temporary emergency shelter described in subsection (d) or a community-based alcohol or substance abuse treatment facility in lieu of incarceration to the extent such facilities are available, and
+  - **(2)** observe the standards promulgated under subsection (d).
+- **(d)** The Assistant Secretary of Indian Affairs shall, as part of the development of the Memorandum of Agreement set out in section 2411 of this title , promulgate standards by which the emergency shelters established under a program pursuant to subsection (a) shall be established and operated.
 - **(e)**
   - **(1)** For the planning and design, construction, and renovation of, or purchase or lease of land or facilities for, emergency shelters and half-way houses to provide emergency care for Indian youth, there are authorized to be appropriated $10,000,000 for each of fiscal years 2011 through 2015.
   - **(2)** For the staffing and operation of emergency shelters and half-way houses, there are authorized to be appropriated $5,000,000 for fiscal year 1993 and $7,000,000 for each of fiscal years 2011 through 2015.
-  - **(3)** The Secretary of the Interior shall allocate funds appropriated pursuant to this subsection on the basis of priority of need of the various Indian tribes and such funds, when allocated, shall be subject to contracting or available for grants pursuant to the Indian Self-Determination Act [ 25 U.S.C. 450f et seq.].
+  - **(3)** The Secretary of the Interior shall allocate funds appropriated pursuant to this subsection on the basis of priority of need of the various Indian tribes and such funds, when allocated, shall be subject to contracting or available for grants pursuant to the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.].
   - **(4)** Funds appropriated under the authority of this subsection may be used by any Indian tribe or tribal organization to purchase or lease any land or facilities if—
-    - **(A)** the Secretary of the Interior determines that no Federal land or facilities are rea­sonably available for emergency shelters or halfway 1 1 So in original. Probably should be “half-way”. houses described in subsection (a) of this section to serve the needs of that Indian tribe or tribal organization, and
-    - **(B)** the Indian tribe or tribal organization enters into an agreement with the Secretary of the Interior that requires the Indian tribe or tribal organization to use the land or facilities for emergency shelters or half-way houses described in subsection (a) of this section.
+    - **(A)** the Secretary of the Interior determines that no Federal land or facilities are rea­sonably available for emergency shelters or halfway 1 1 So in original. Probably should be “half-way”. houses described in subsection (a) to serve the needs of that Indian tribe or tribal organization, and
+    - **(B)** the Indian tribe or tribal organization enters into an agreement with the Secretary of the Interior that requires the Indian tribe or tribal organization to use the land or facilities for emergency shelters or half-way houses described in subsection (a).
   - **(5)** Nothing in this Act may be construed—
-    - **(A)** to limit the authority for contracts with, or grants to, Indian tribes or tribal organizations under the Indian Self-Determination Act [ 25 U.S.C. 450f et seq.] for the construction, improvement, renovation, operation, repair, land acquisition, or maintenance of tribal juvenile detention facilities, emergency shelters, or half-way houses, or
+    - **(A)** to limit the authority for contracts with, or grants to, Indian tribes or tribal organizations under the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.] for the construction, improvement, renovation, operation, repair, land acquisition, or maintenance of tribal juvenile detention facilities, emergency shelters, or half-way houses, or
     - **(B)** to require a lease of tribal facilities to the United States to qualify for financial assistance for the facilities under this chapter or any other Act.

@@ -3,9 +3,9 @@ title: "Section 5325 - Contract requirements"
 usc_title: 49
 usc_section: "5325"
 chapter: 53
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 5325"
-generated_at: "2026-03-29T18:07:51.357Z"
+generated_at: "2026-03-29T18:27:16.461Z"
 ---
 
 # § 5325. Contract requirements
@@ -28,14 +28,14 @@ generated_at: "2026-03-29T18:07:51.357Z"
   - **(1)** A recipient procuring rolling stock with Government financial assistance under this chapter may make a multiyear contract to buy the rolling stock and replacement parts under which the recipient has an option to buy additional rolling stock or replacement parts for—
     - **(A)** not more than 5 years after the date of the original contract for bus procurements; and
     - **(B)** not more than 7 years after the date of the original contract for rail procurements, provided that such option does not allow for significant changes or alterations to the rolling stock.
-  - **(2)** The Secretary shall allow at least two recipients to act on a cooperative basis to procure rolling stock in compliance with this subsection and other Government procurement requirements.
+  - **(2)** The Secretary shall allow recipients to act on a cooperative basis to procure rolling stock in compliance with this subsection and other Government procurement requirements.
 - **(f)** A recipient of financial assistance under this chapter may enter into a contract to expend that assistance to acquire rolling stock—
   - **(1)** based on—
     - **(A)** initial capital costs; or
     - **(B)** performance, standardization, life cycle costs, and other factors; or
   - **(2)** with a party selected through a competitive procurement process.
 - **(g)** Upon request, the Secretary and the Comptroller General, or any of their representatives, shall have access to and the right to examine and inspect all records, documents, and papers, including contracts, related to a project for which a grant is made under this chapter.
-- **(h)** A grant awarded under this chapter or the Federal Public Transportation Act of 2012 may not be used to support a procurement that uses an exclusionary or discriminatory specification.
+- **(h)** A grant awarded under this chapter or the Federal Public Transportation Act of 2015 may not be used to support a procurement that uses an exclusionary or discriminatory specification.
 - **(i)** No State law requiring buses to be purchased through in-State dealers shall apply to vehicles purchased with a grant under this chapter.
 - **(j)**
   - **(1)** Federal financial assistance under this chapter may be provided for contracts only if a recipient awards such contracts to responsible contractors possessing the ability to successfully perform under the terms and conditions of a proposed procurement.

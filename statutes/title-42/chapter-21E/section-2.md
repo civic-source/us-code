@@ -3,9 +3,9 @@ title: "Section 2 - Privacy and data protection policies and procedures"
 usc_title: 42
 usc_section: "2"
 chapter: 21
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-29T18:07:14.382Z"
+generated_at: "2026-03-29T18:27:03.417Z"
 ---
 
 # § 2000ee–2. Privacy and data protection policies and procedures
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T18:07:14.382Z"
 - **(b)**
   - **(1)** Within 12 months of December 8, 2004 , each agency shall establish and implement comprehensive privacy and data protection procedures governing the agency’s collection, use, sharing, disclosure, transfer, storage and security of information in an identifiable form relating to the agency employees and the public. Such procedures shall be consistent with legal and regulatory guidance, including OMB regulations, the Privacy Act of 1974 [ 5 U.S.C. 552a ], and section 208 of the E-Government Act of 2002.
 - **(c)** Each agency shall prepare a written report of its use of information in an identifiable form, along with its privacy and data protection policies and procedures and record it with the Inspector General of the agency to serve as a benchmark for the agency. Each report shall be signed by the agency privacy officer to verify that the agency intends to comply with the procedures in the report. By signing the report the privacy officer also verifies that the agency is only using information in identifiable form as detailed in the report.
-- **(d)** The Inspector General of each agency shall periodically conduct a review of the agency’s implementation of this section and shall report the results of its review to the Committees on Appropriations of the House of Representatives and the Senate, the House Committee on Oversight and Government Reform, and the Senate Committee on Homeland Security and Governmental Affairs. The report required by this review may be incorporated into a related report to Congress otherwise required by law including, but not limited to, section 3545 of title 44 , the Federal Information Security Management Act of 2002. The Inspector General may contract with an independent, third party organization to conduct the review.
+- **(d)** The Inspector General of each agency shall periodically conduct a review of the agency’s implementation of this section and shall report the results of its review to the Committees on Appropriations of the House of Representatives and the Senate, the House Committee on Oversight and Government Reform, and the Senate Committee on Homeland Security and Governmental Affairs. The report required by this review may be incorporated into a related report to Congress otherwise required by law including, but not limited to, section 3545 4 4 See References in Text note below. of title 44, the Federal Information Security Management Act of 2002. The Inspector General may contract with an independent, third party organization to conduct the review.
 - **(e)**
   - **(1)** Upon completion of a review, the Inspector General of an agency shall submit to the head of that agency a detailed report on the review, including recommendations for improvements or enhancements to management of information in identifiable form, and the privacy and data protection procedures of the agency.
   - **(2)** Each agency shall make each independent third party review, and each report of the Inspector General relating to that review available to the public.

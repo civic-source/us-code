@@ -3,9 +3,9 @@ title: "Section 2401f - Fraud and recovery of overpayments"
 usc_title: 19
 usc_section: "2401f"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 2401f"
-generated_at: "2026-03-29T18:04:55.091Z"
+generated_at: "2026-03-29T18:24:16.163Z"
 ---
 
 # § 2401f. Fraud and recovery of overpayments
@@ -20,6 +20,6 @@ generated_at: "2026-03-29T18:04:55.091Z"
     - **(A)** knowingly has made, or caused another to make, a false statement or representation of a material fact; or
     - **(B)** knowingly has failed, or caused another to fail, to disclose a material fact; and
   - **(2)** as a result of such false statement or representation, or of such nondisclosure, such person has received any payment under this part to which the person was not entitled.
-- **(c)** Except for overpayments determined by a court of competent jurisdiction, no repayment may be required, and no deduction may be made, under this section until a determination under subsection (a)(1) of this section by the Secretary has been made, notice of the determination and an opportunity for a fair hearing thereon has been given to the person concerned, and the determination has become final.
+- **(c)** Except for overpayments determined by a court of competent jurisdiction, no repayment may be required, and no deduction may be made, under this section until a determination under subsection (a)(1) by the Secretary has been made, notice of the determination and an opportunity for a fair hearing thereon has been given to the person concerned, and the determination has become final.
 - **(d)** Any amount recovered under this section shall be returned to the Treasury of the United States.
 - **(e)** Whoever makes a false statement of a material fact knowing it to be false, or knowingly fails to disclose a material fact, for the purpose of obtaining or increasing for himself or for any other person any payment authorized to be furnished under this part shall be fined not more than $10,000 or imprisoned for not more than 1 year, or both.

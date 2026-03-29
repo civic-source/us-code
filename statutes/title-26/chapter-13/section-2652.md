@@ -3,9 +3,9 @@ title: "Section 2652 - Other definitions"
 usc_title: 26
 usc_section: "2652"
 chapter: 13
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 2652"
-generated_at: "2026-03-29T18:05:44.854Z"
+generated_at: "2026-03-29T18:25:53.787Z"
 ---
 
 # § 2652. Other definitions

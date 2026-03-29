@@ -3,9 +3,9 @@ title: "Section 1125 - Postpetition disclosure and solicitation"
 usc_title: 11
 usc_section: "1125"
 chapter: 11
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "11 U.S.C. § 1125"
-generated_at: "2026-03-29T18:04:18.539Z"
+generated_at: "2026-03-29T18:23:58.119Z"
 ---
 
 # § 1125. Postpetition disclosure and solicitation

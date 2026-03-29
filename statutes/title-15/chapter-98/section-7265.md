@@ -3,15 +3,15 @@ title: "Section 7265 - Disclosure of audit committee financial expert"
 usc_title: 15
 usc_section: "7265"
 chapter: 98
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 7265"
-generated_at: "2026-03-29T18:04:29.964Z"
+generated_at: "2026-03-29T18:24:08.653Z"
 ---
 
 # § 7265. Disclosure of audit committee financial expert
 
 - **(a)** The Commission shall issue rules, as necessary or appropriate in the public interest and consistent with the protection of investors, to require each issuer, together with periodic reports required pursuant to sections 78m(a) and 78 o (d) of this title, to disclose whether or not, and if not, the reasons therefor, the audit committee of that issuer is comprised of at least 1 member who is a financial expert, as such term is defined by the Commission.
-- **(b)** In defining the term “financial expert” for purposes of subsection (a) of this section, the Commission shall consider whether a person has, through education and experience as a public accountant or auditor or a principal financial officer, comptroller, or principal accounting officer of an issuer, or from a position involving the performance of similar functions—
+- **(b)** In defining the term “financial expert” for purposes of subsection (a), the Commission shall consider whether a person has, through education and experience as a public accountant or auditor or a principal financial officer, comptroller, or principal accounting officer of an issuer, or from a position involving the performance of similar functions—
   - **(1)** an understanding of generally accepted accounting principles and financial statements;
   - **(2)** experience in—
     - **(A)** the preparation or auditing of financial statements of generally comparable issuers; and

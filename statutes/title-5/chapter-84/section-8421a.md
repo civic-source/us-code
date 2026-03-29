@@ -3,14 +3,14 @@ title: "Section 8421a - Reductions on account of earnings from work performed wh
 usc_title: 5
 usc_section: "8421a"
 chapter: 84
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 8421a"
-generated_at: "2026-03-29T18:03:29.951Z"
+generated_at: "2026-03-29T18:23:29.957Z"
 ---
 
 # § 8421a. Reductions on account of earnings from work performed while entitled to an annuity supplement
 
-- **(a)** The amount of the annuity supplement to which an individual is entitled under section 8421 for any month (determined without regard to subsection (c) of such section) shall be reduced by the amount of any excess earnings of such individual which are required to be charged to such supplement for such month, as determined under subsection (b).
+- **(a)** Except as provided in subsection (c), the amount of the annuity supplement to which an individual is entitled under section 8421 for any month (determined without regard to subsection (c) of such section) shall be reduced by the amount of any excess earnings of such individual which are required to be charged to such supplement for such month, as determined under subsection (b).
 - **(b)** The amount of an individual’s excess earnings shall be charged to months as follows:
   - **(1)**
     - **(A)** There shall be charged to each month of a year under subsection (a) an amount equal to the individual’s excess earnings (as determined under paragraph (2) with respect to such year), divided by the number of the individual’s supplement entitlement months for such year (as determined under paragraph (3)).
@@ -27,4 +27,5 @@ generated_at: "2026-03-29T18:03:29.951Z"
       - **(i)** in determining the excess earnings of any individual, only earnings attributable to periods during which such individual was entitled to an annuity supplement under section 8421 shall be considered; and
       - **(ii)** any earnings attributable to a period before attaining the applicable retirement age under section 8412(h) shall not be considered in determining the excess earnings of an individual who retires under section 8412(d) or (e), or section 8414(c).
   - **(5)** Notwithstanding paragraphs (1) through (4), the reduction required by subsection (a) shall be effective with respect to the annuity supplement payable for each month in the 12-month period beginning on the first day of the seventh month after the end of the calendar year in which the excess earnings were earned.
-- **(c)** The Office shall prescribe regulations under which this section shall be applied in the case of a reemployed annuitant.
+- **(c)** This section shall not apply to an individual described in section 8412(e) during any period in which the individual, after separating from the service as described in that section, is employed full-time as an air traffic control instructor under contract with the Federal Aviation Administration, including an instructor working at an on-site facility (such as an airport).
+- **(d)** The Office shall prescribe regulations under which this section shall be applied in the case of a reemployed annuitant.

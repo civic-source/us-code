@@ -3,9 +3,9 @@ title: "Section 1343 - Charter amendment"
 usc_title: 45
 usc_section: "1343"
 chapter: 22
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "45 U.S.C. § 1343"
-generated_at: "2026-03-29T18:06:35.986Z"
+generated_at: "2026-03-29T18:26:13.329Z"
 ---
 
 # § 1343. Charter amendment

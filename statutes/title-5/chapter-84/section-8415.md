@@ -3,9 +3,9 @@ title: "Section 8415 - Computation of basic annuity"
 usc_title: 5
 usc_section: "8415"
 chapter: 84
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 8415"
-generated_at: "2026-03-29T18:03:29.950Z"
+generated_at: "2026-03-29T18:23:29.955Z"
 ---
 
 # § 8415. Computation of basic annuity
@@ -17,7 +17,10 @@ generated_at: "2026-03-29T18:03:29.950Z"
 - **(e)** The annuity of an employee retiring under subsection (d) or (e) of section 8412 or under subsection (a), (b), or (c) of section 8425 is—
   - **(1)** 1 7 ⁄ 10 percent of that individual’s average pay multiplied by so much of such individual’s total service as does not exceed 20 years; plus
   - **(2)** 1 percent of that individual’s average pay multiplied by so much of such individual’s total service as exceeds 20 years.
-- **(f)** The annuity of an air traffic controller or former air traffic controller retiring under section 8412(a) is computed under subsection (a), except that if the individual has had at least 5 years of service as an air traffic controller as defined by section 2109(1)(A)(i), so much of the annuity as is computed with respect to such type of service shall be computed by multiplying 1 7 ⁄ 10 percent of the individual’s average pay by the years of such service.
+- **(f)** The annuity of an air traffic controller or former air traffic controller retiring under section 8412(a) is computed under subsection (a), except that if the individual has at least 5 years of service in any combination as—
+  - **(1)** an air traffic controller as defined by section 2109(1)(A)(i);
+  - **(2)** a first level supervisor of an air traffic controller as defined by section 2109(1)(A)(i); or
+  - **(3)** a second level supervisor of an air traffic controller as defined by section 2109(1)(A)(i);
 - **(g)**
   - **(1)** In computing an annuity under this subchapter for an employee whose service includes service performed on a part-time basis—
     - **(A)** the average pay of the employee, to the extent that it includes pay for service performed in any position on a part-time basis, shall be determined by using the annual rate of basic pay that would be payable for full-time service in the position; and
@@ -37,7 +40,7 @@ generated_at: "2026-03-29T18:03:29.950Z"
 - **(k)**
   - **(1)** For purposes of this subsection, the term “physicians comparability allowance” refers to an amount described in section 8331(3)(H).
   - **(2)** Except as otherwise provided in this subsection, no part of a physicians comparability allowance shall be treated as basic pay for purposes of any computation under this section unless, before the date of the separation on which entitlement to annuity is based, the separating individual has completed at least 15 years of service as a Government physician (whether performed before, on, or after the date of the enactment of this subsection).
-  - **(3)** If the condition under paragraph (2) is met, then, any amounts received by the individual in the form of a physicians comparability allowance shall (for the purposes referred to in paragraph (2)) be treated as basic pay, but only to the extent that such amounts are attributable to service performed on or after the date of the enactment of this subsection, and only to the extent of the percentage allowable, which shall be determined as follows: If the total amount of service performed, on or after the date of Then, the percent- the enactment of this subsection, age allowable is: as a Government physician is: Less than 2 years 0 At least 2 but less than 4 years 25 At least 4 but less than 6 years 50 At least 6 but less than 8 years 75 At least 8 years 100.
+  - **(3)** If the condition under paragraph (2) is met, then, any amounts received by the individual in the form of a physicians comparability allowance shall (for the purposes referred to in paragraph (2)) be treated as basic pay, but only to the extent that such amounts are attributable to service performed on or after the date of the enactment of this subsection, and only to the extent of the percentage allowable, which shall be determined as follows: If the total amount of service performed, on or after the date of the enactment of this subsection, as a Government physician is: Then, the percentage allowable is: Less than 2 years 0 At least 2 but less than 4 years 25 At least 4 but less than 6 years 50 At least 6 but less than 8 years 75 At least 8 years 100.
   - **(4)** Notwithstanding any other provision of this subsection, 100 percent of all amounts received as a physicians comparability allowance shall, to the extent attributable to service performed on or after the date of the enactment of this subsection, be treated as basic pay (without regard to any of the preceding provisions of this subsection) for purposes of computing—
     - **(A)** an annuity under section 8452; and
     - **(B)** a survivor annuity under subchapter IV, if based on the service of an individual who dies before separating from service.

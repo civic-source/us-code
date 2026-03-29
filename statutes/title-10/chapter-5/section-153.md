@@ -3,9 +3,9 @@ title: "Section 153 - Chairman: functions"
 usc_title: 10
 usc_section: "153"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 153"
-generated_at: "2026-03-29T18:04:12.964Z"
+generated_at: "2026-03-29T18:23:51.725Z"
 ---
 
 # § 153. Chairman: functions
@@ -33,8 +33,11 @@ generated_at: "2026-03-29T18:04:12.964Z"
     - **(G)** Recommending to the Secretary appropriate trade-offs among life-cycle cost, schedule, and performance objectives, and procurement quantity objectives, to ensure that such trade-offs are made in the acquisition of materiel and equipment to support the strategic and contingency plans required by this subsection in the most effective and efficient manner.
   - **(5)**
     - **(A)** Developing doctrine for the joint employment of the armed forces.
-    - **(B)** Formulating policies for the joint training of the armed forces.
-    - **(C)** Formulating policies for coordinating the military education and training of members of the armed forces.
+    - **(B)** Formulating policies and technical standards, and executing actions, for the joint training of the armed forces.
+    - **(C)** Formulating policies for coordinating the military education of members of the armed forces.
+    - **(D)** Formulating policies for concept development and experimentation for the joint employment of the armed forces.
+    - **(E)** Formulating policies for gathering, developing, and disseminating joint lessons learned for the armed forces.
+    - **(F)** Advising the Secretary on development of joint command, control, communications, and cyber capability, including integration and interoperability of such capability, through requirements, integrated architectures, data standards, and assessments.
   - **(6)**
     - **(A)** Providing for representation of the United States on the Military Staff Committee of the United Nations in accordance with the Charter of the United Nations.
     - **(B)** Performing such other duties as may be prescribed by law or by the President or the Secretary of Defense.
@@ -43,7 +46,7 @@ generated_at: "2026-03-29T18:04:12.964Z"
     - **(A)** The Chairman shall determine each even-numbered year whether to prepare a new National Military Strategy in accordance with this subparagraph or to update a strategy previously prepared in accordance with this subsection. The Chairman shall complete preparation of the National Military Strategy or update in time for transmittal to Congress pursuant to paragraph (3), including in time for inclusion of the report of the Secretary of Defense, if any, under paragraph (4).
     - **(B)** Each National Military Strategy (or update) under this paragraph shall be based on a comprehensive review conducted by the Chairman in conjunction with the other members of the Joint Chiefs of Staff and the commanders of the unified and specified combatant commands.
     - **(C)** Each National Military Strategy (or update) submitted under this paragraph shall describe how the military will achieve the objectives of the United States as articulated in—
-      - **(i)** the most recent National Security Strategy prescribed by the President pursuant to section 108 of the National Security Act of 1947 ( 50 U.S.C. 404a ); 1 1 See References in Text note below.
+      - **(i)** the most recent National Security Strategy prescribed by the President pursuant to section 108 of the National Security Act of 1947 ( 50 U.S.C. 3043 );
       - **(ii)** the most recent annual report of the Secretary of Defense submitted to the President and Congress pursuant to section 113 of this title ;
       - **(iii)** the most recent Quadrennial Defense Review conducted by the Secretary of Defense pursuant to section 118 of this title ; and
       - **(iv)** any other national security or defense strategic guidance issued by the President or the Secretary of Defense.

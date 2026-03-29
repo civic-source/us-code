@@ -3,9 +3,9 @@ title: "Section 106b - Amendments to Constitution"
 usc_title: 1
 usc_section: "106b"
 chapter: 2
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "1 U.S.C. § 106b"
-generated_at: "2026-03-29T18:03:12.501Z"
+generated_at: "2026-03-29T18:23:11.730Z"
 ---
 
 # § 106b. Amendments to Constitution

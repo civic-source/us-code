@@ -1,14 +1,12 @@
 ---
-title: "Section 1041e - Tribal land"
+title: "Section 1041e - Omitted"
 usc_title: 25
 usc_section: "1041e"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1041e"
-generated_at: "2026-03-29T18:05:17.118Z"
+generated_at: "2026-03-29T18:25:23.705Z"
 ---
 
-# § 1041e. Tribal land
+# § 1041e. Omitted
 
-- **(a)** The Tribe shall be eligible to have land acquired in trust for its benefit pursuant to section 465 of this title and section 501 of this title .
-- **(b)** No land recognized by the Secretary to be within the Cherokee Nation or any other Indian tribe may be taken into trust for the benefit of the Tribe under this section without the consent of the Cherokee Nation or such other tribe, respectively.

@@ -3,9 +3,9 @@ title: "Section 2264 - Deauthorization of studies"
 usc_title: 33
 usc_section: "2264"
 chapter: 36
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 2264"
-generated_at: "2026-03-29T18:06:10.590Z"
+generated_at: "2026-03-29T18:26:01.288Z"
 ---
 
 # § 2264. Deauthorization of studies
@@ -16,4 +16,4 @@ generated_at: "2026-03-29T18:06:10.590Z"
   - **(3)** a description of funding that has been made available for the study;
   - **(4)** a description of any work that has been performed in carrying out the study and the results and conclusions, if any, of such work; and
   - **(5)** a description of any work that remains to be done in carrying out the study and the time necessary for and estimated cost of completing such work.
-- **(b)** Each study included in a list under subsection (a) of this section is not authorized on and after the 90th day following the submission to Congress of such list if no funds have been appropriated for such study after the list is submitted and before such 90th day.
+- **(b)** Each study included in a list under subsection (a) is not authorized on and after the 90th day following the submission to Congress of such list if no funds have been appropriated for such study after the list is submitted and before such 90th day.

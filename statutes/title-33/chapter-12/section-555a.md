@@ -3,14 +3,14 @@ title: "Section 555a - Petroleum product information"
 usc_title: 33
 usc_section: "555a"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 555a"
-generated_at: "2026-03-29T18:06:10.486Z"
+generated_at: "2026-03-29T18:26:01.176Z"
 ---
 
 # § 555a. Petroleum product information
 
-- **(a)** The Secretary shall disclose petroleum product information to any State taxing agency making a request under subsection (b) of this section. Such information shall be disclosed for the purpose of, and only to the extent necessary in, the administration of State tax laws.
+- **(a)** The Secretary shall disclose petroleum product information to any State taxing agency making a request under subsection (b). Such information shall be disclosed for the purpose of, and only to the extent necessary in, the administration of State tax laws.
 - **(b)** Disclosure of information under this section shall be permitted only upon written request by the head of the State taxing agency and only to the representatives of such agency designated in such written request as the individuals who are to inspect or to receive the information on behalf of such agency. Any such representative shall be an employee or legal representative of such agency.
 - **(c)**
   - **(1)** Requests for the disclosure of information under this section, and such disclosure, shall be made in such manner and at such time and place as shall be prescribed by the Secretary.

@@ -3,17 +3,17 @@ title: "Section 1087bb - Allocation of funds"
 usc_title: 20
 usc_section: "1087bb"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1087bb"
-generated_at: "2026-03-29T18:05:00.123Z"
+generated_at: "2026-03-29T18:24:40.961Z"
 ---
 
 # § 1087bb. Allocation of funds
 
 - **(a)**
-  - **(1)** From the amount appropriated pursuant to section 1087aa(b) of this title for each fiscal year, the Secretary shall first allocate to each eligible institution an amount equal to—
+  - **(1)** From the amount appropriated pursuant to section 1087aa(b) 1 1 See References in Text note below. of this title for each fiscal year, the Secretary shall first allocate to each eligible institution an amount equal to—
     - **(A)** 100 percent of the amount received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year), multiplied by
-    - **(B)** the institution’s default penalty, as determined under subsection (e) of this section,
+    - **(B)** the institution’s default penalty, as determined under subsection (e),
   - **(2)**
     - **(A)** From the amount so appropriated, the Secretary shall next allocate to each eligible institution that began participation in the program under this part after fiscal year 1999 but is not a first or second time participant, an amount equal to the greater of—
       - **(i)** $5,000; or
@@ -27,7 +27,7 @@ generated_at: "2026-03-29T18:05:00.123Z"
       - **(ii)** received a larger amount under this subsection in the second year of participation,
     - **(D)** For any fiscal year after a fiscal year in which an institution receives an allocation under subparagraph (A), (B), or (C), the Secretary shall allocate to such institution an amount equal to the product of—
       - **(i)** the amount determined under subparagraph (A), (B), or (C), multiplied by
-      - **(ii)** the institution’s default penalty, as determined under subsection (e) of this section,
+      - **(ii)** the institution’s default penalty, as determined under subsection (e),
   - **(3)**
     - **(A)** If the amount appropriated for any fiscal year is less than the amount required to be allocated to all institutions under paragraph (1) of this subsection, then the amount of the allocation to each such institution shall be ratably reduced.
     - **(B)** If the amount appropriated for any fiscal year is more than the amount required to be allocated to all institutions under paragraph (1) but less than the amount required to be allocated to all institutions under paragraph (2), then—
@@ -35,20 +35,20 @@ generated_at: "2026-03-29T18:05:00.123Z"
       - **(ii)** the amount of the allocation to each institution under paragraph (2) shall be ratably reduced.
     - **(C)** If additional amounts are appropriated for any such fiscal year, such reduced amounts shall be increased on the same basis as they were reduced (until the amount allocated equals the amount required to be allocated under paragraphs (1) and (2) of this subsection).
 - **(b)**
-  - **(1)** From the remainder of the amount appropriated pursuant to section 1087aa(b) of this title after making the allocations required by subsection (a) of this section, the Secretary shall allocate to each eligible institution which has an excess eligible amount an amount which bears the same ratio to such remainder as such excess eligible amount bears to the sum of the excess eligible amounts of all such eligible institutions (having such excess eligible amounts).
+  - **(1)** From the remainder of the amount appropriated pursuant to section 1087aa(b) 1 of this title after making the allocations required by subsection (a) of this section, the Secretary shall allocate to each eligible institution which has an excess eligible amount an amount which bears the same ratio to such remainder as such excess eligible amount bears to the sum of the excess eligible amounts of all such eligible institutions (having such excess eligible amounts).
   - **(2)** For any eligible institution, the excess eligible amount is the amount, if any, by which—
     - **(A)**
-      - **(i)** that institution’s eligible amount (as determined under paragraph (3)), divided by (ii) the sum of the eligible amounts of all institutions (as so determined), multiplied by (iii) the amount appropriated pursuant to section 1087aa(b) of this title for the fiscal year; exceeds
-    - **(B)** the amount required to be allocated to that institution under subsection (a) of this section,
+      - **(i)** that institution’s eligible amount (as determined under paragraph (3)), divided by (ii) the sum of the eligible amounts of all institutions (as so determined), multiplied by (iii) the amount appropriated pursuant to section 1087aa(b) 1 of this title for the fiscal year; exceeds
+    - **(B)** the amount required to be allocated to that institution under subsection (a),
   - **(3)** For any eligible institution, the eligible amount of that institution is equal to—
-    - **(A)** the amount of the institution’s self-help need, as determined under subsection (c) of this section; minus
+    - **(A)** the amount of the institution’s self-help need, as determined under subsection (c); minus
     - **(B)** the institution’s anticipated collections; multiplied by
-    - **(C)** the institution’s default penalty, as determined under subsection (e) of this section;
+    - **(C)** the institution’s default penalty, as determined under subsection (e);
 - **(c)**
   - **(1)** The amount of an institution’s self-help need is equal to the sum of the self-help need of the institution’s eligible undergraduate students and the self-help need of the institution’s eligible graduate and professional students.
   - **(2)** To determine the self-help need of an institution’s eligible undergraduate students, the Secretary shall—
     - **(A)** establish various income categories for dependent and independent undergraduate students;
-    - **(B)** establish an expected family contribution for each income category of dependent and independent undergraduate students, determined on the basis of the average expected family contribution (computed in accordance with part E of this subchapter) of a representative sample within each income category for the second preceding fiscal year;
+    - **(B)** establish an expected family contribution for each income category of dependent and independent undergraduate students, determined on the basis of the average expected family contribution (computed in accordance with part F of this subchapter) of a representative sample within each income category for the second preceding fiscal year;
     - **(C)** compute 25 percent of the average cost of attendance for all undergraduate students;
     - **(D)** multiply the number of eligible dependent students in each income category by the lesser of—
       - **(i)** 25 percent of the average cost of attendance for all undergraduate students determined under subparagraph (C); or
@@ -61,7 +61,7 @@ generated_at: "2026-03-29T18:05:00.123Z"
     - **(H)** add the amounts determined under subparagraphs (E) and (G).
   - **(3)** To determine the self-help need of an institution’s eligible graduate and professional students, the Secretary shall—
     - **(A)** establish various income categories for graduate and professional students;
-    - **(B)** establish an expected family contribution for each income category of graduate and professional students, determined on the basis of the average expected family contribution (computed in accordance with part E of this subchapter) of a representative sample within each income category for the second preceding fiscal year;
+    - **(B)** establish an expected family contribution for each income category of graduate and professional students, determined on the basis of the average expected family contribution (computed in accordance with part F of this subchapter) of a representative sample within each income category for the second preceding fiscal year;
     - **(C)** determine the average cost of attendance for all graduate and professional students;
     - **(D)** subtract from the average cost of attendance for all graduate and professional students (determined under subparagraph (C)), the expected family contribution (determined under subparagraph (B)) for each income category, except that the amount computed by such subtraction for any income category shall not be less than zero;
     - **(E)** multiply the amounts determined under subparagraph (D) by the number of eligible students in each category;
@@ -80,16 +80,16 @@ generated_at: "2026-03-29T18:05:00.123Z"
     - **(B)** equals or exceeds 20 percent, but is less than 25 percent, shall have a default penalty of 0.9;
     - **(C)** equals or exceeds 25 percent, but is less than 30 percent, shall have a default penalty of 0.7; and
     - **(D)** equals or exceeds 30 percent shall have a default penalty of zero.
-  - **(2)** For fiscal year 2000 and any succeeding fiscal year, any institution with a cohort default rate (as defined under subsection (g) of this section) that equals or exceeds 25 percent shall have a default penalty of zero.
+  - **(2)** For fiscal year 2000 and any succeeding fiscal year, any institution with a cohort default rate (as defined under subsection (g)) that equals or exceeds 25 percent shall have a default penalty of zero.
   - **(3)**
-    - **(A)** For fiscal year 2000 and any succeeding fiscal year, any institution with a cohort default rate (as defined in subsection (g) of this section) that equals or exceeds 50 percent for each of the 3 most recent years for which data are available shall not be eligible to participate in a program under this part for the fiscal year for which the determination is made and the 2 succeeding fiscal years, unless, within 30 days of receiving notification from the Secretary of the loss of eligibility under this paragraph, the institution appeals the loss of eligibility to the Secretary. The Secretary shall issue a decision on any such appeal within 45 days after the submission of the appeal. Such decision may permit the institution to continue to participate in a program under this part if—
+    - **(A)** For fiscal year 2000 and any succeeding fiscal year, any institution with a cohort default rate (as defined in subsection (g)) that equals or exceeds 50 percent for each of the 3 most recent years for which data are available shall not be eligible to participate in a program under this part for the fiscal year for which the determination is made and the 2 succeeding fiscal years, unless, within 30 days of receiving notification from the Secretary of the loss of eligibility under this paragraph, the institution appeals the loss of eligibility to the Secretary. The Secretary shall issue a decision on any such appeal within 45 days after the submission of the appeal. Such decision may permit the institution to continue to participate in a program under this part if—
       - **(i)** the institution demonstrates to the satisfaction of the Secretary that the calculation of the institution’s cohort default rate is not accurate, and that recalculation would reduce the institution’s cohort default rate for any of the 3 fiscal years below 50 percent; or
       - **(ii)** there are, in the judgment of the Secretary, such a small number of borrowers entering repayment that the application of this subparagraph would be inequitable.
     - **(B)** During an appeal under subparagraph (A), the Secretary may permit the institution to continue to participate in a program under this part.
     - **(C)** Within 90 days after the date of any termination pursuant to subparagraph (A), or the conclusion of any appeal pursuant to subparagraph (B), whichever is later, the balance of the student loan fund established under this part by the institution that is the subject of the termination shall be distributed as follows:
       - **(i)** The Secretary shall first be paid an amount which bears the same ratio to such balance (as of the date of such distribution) as the total amount of Federal capital contributions to such fund by the Secretary under this part bears to the sum of such Federal capital contributions and the capital contributions to such fund made by the institution.
       - **(ii)** The remainder of such student loan fund shall be paid to the institution.
-    - **(D)** Any funds returned to the Secretary under this paragraph shall be reallocated to institutions of higher education pursuant to subsection (i) of this section.
+    - **(D)** Any funds returned to the Secretary under this paragraph shall be reallocated to institutions of higher education pursuant to subsection (i).
     - **(E)** For the purposes of subparagraph (A), the term “loss of eligibility” shall be defined as the mandatory liquidation of an institution’s student loan fund, and assignment of the institution’s outstanding loan portfolio to the Secretary.
 - **(f)**
   - **(1)** For award years prior to award year 2000, the applicable maximum cohort default rate is 30 percent.
@@ -118,10 +118,10 @@ generated_at: "2026-03-29T18:05:00.123Z"
     - **(A)** If an institution of higher education returns to the Secretary any portion of the sums allocated to such institution under this section for any fiscal year, the Secretary shall reallocate 80 percent of such returned portions to participating institutions in an amount not to exceed such participating institution’s excess eligible amounts as determined under paragraph (2).
     - **(B)** For the purpose of this subsection, the term “participating institution” means an institution of higher education that—
       - **(i)** was a participant in the program assisted under this part in fiscal year 1999; and
-      - **(ii)** did not receive an allocation under subsection (a) of this section in the fiscal year for which the reallocation determination is made.
+      - **(ii)** did not receive an allocation under subsection (a) in the fiscal year for which the reallocation determination is made.
   - **(2)** For any participating institution, the excess eligible amount is the amount, if any, by which—
     - **(A)**
-      - **(i)** that institution’s eligible amount (as determined under subsection (b)(3) of this section), divided by (ii) the sum of the eligible amounts of all participating institutions (as determined under paragraph (3)), multiplied by (iii) the amount of funds available for reallocation under this subsection; exceeds
-    - **(B)** the amount required to be allocated to that institution under subsection (b) of this section.
+      - **(i)** that institution’s eligible amount (as determined under subsection (b)(3)), divided by (ii) the sum of the eligible amounts of all participating institutions (as determined under paragraph (3)), multiplied by (iii) the amount of funds available for reallocation under this subsection; exceeds
+    - **(B)** the amount required to be allocated to that institution under subsection (b).
   - **(3)** The Secretary shall reallocate the remainder of such returned portions in accordance with regulations of the Secretary.
   - **(4)** If under paragraph (1) of this subsection an institution returns more than 10 percent of its allocation, the institution’s allocation for the next fiscal year shall be reduced by the amount returned. The Secretary may waive this paragraph for a specific institution if the Secretary finds that enforcing it is contrary to the interest of the program.

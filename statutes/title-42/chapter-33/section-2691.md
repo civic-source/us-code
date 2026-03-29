@@ -1,12 +1,12 @@
 ---
-title: "Section 2691 - Repealed. Pub. L. 94–103, title III, § 302(c) , Oct. 4, 1975 , 89 Stat. 507"
+title: "Section 2691 - Repealed. Pub. L. 94–103, title III , § 302(c), Oct. 4, 1975 , 89 Stat. 507"
 usc_title: 42
 usc_section: "2691"
 chapter: 33
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 2691"
-generated_at: "2026-03-29T18:07:14.454Z"
+generated_at: "2026-03-29T18:27:03.468Z"
 ---
 
-# § 2691. Repealed. Pub. L. 94–103, title III, § 302(c) , Oct. 4, 1975 , 89 Stat. 507
+# § 2691. Repealed. Pub. L. 94–103, title III , § 302(c), Oct. 4, 1975 , 89 Stat. 507
 

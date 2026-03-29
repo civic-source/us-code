@@ -3,9 +3,9 @@ title: "Section 3319 - Alternative ranking and selection procedures"
 usc_title: 5
 usc_section: "3319"
 chapter: 33
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 3319"
-generated_at: "2026-03-29T18:03:29.850Z"
+generated_at: "2026-03-29T18:23:29.874Z"
 ---
 
 # § 3319. Alternative ranking and selection procedures
@@ -14,7 +14,19 @@ generated_at: "2026-03-29T18:03:29.850Z"
 - **(b)** Within each quality category established under subsection (a), preference-eligibles shall be listed ahead of individuals who are not preference eligibles. For other than scientific and professional positions at GS–9 of the General Schedule (equivalent or higher), qualified preference-eligibles who have a compensable service-connected disability of 10 percent or more shall be listed in the highest quality category.
 - **(c)**
   - **(1)** An appointing official may select any applicant in the highest quality category or, if fewer than 3 candidates have been assigned to the highest quality category, in a merged category consisting of the highest and the second highest quality categories.
-  - **(2)** Notwithstanding paragraph (1), the appointing official may not pass over a preference-eligible in the same category from which selection is made, unless the requirements of section 3317(b) or 3318(b), as applicable, are satisfied.
+  - **(2)** Under regulations prescribed by the Office of Personnel Management, appointing officials other than the appointing official described in paragraph (1) (in this subsection referred to as the “other appointing official”) may select an applicant for an appointment to a position that is—
+    - **(A)** in the same occupational series as the position for which the certification of eligibles was issued (in this subsection referred to as the “original position”); and
+    - **(B)** at a similar grade level as the original position.
+  - **(3)** An appointing authority requesting a certificate of eligibles may share the certificate with another appointing authority only if the announcement of the original position provided notice that the resulting list of eligible candidates may be used by another appointing authority.
+  - **(4)** The selection of an individual under paragraph (2)—
+    - **(A)** shall be made in accordance with this subsection; and
+    - **(B)** subject to paragraph (5), may be made without any additional posting under section 3327.
+  - **(5)** Before selecting an individual under paragraph (2), and subject to the requirements of any collective bargaining obligation of the other appointing authority (within the meaning given that term in section 3318(b)(1)), the other appointing official shall—
+    - **(A)** provide notice of the available position to employees of the appointing authority employing the other appointing official;
+    - **(B)** provide up to 10 business days for employees of the other appointing authority to apply for the position; and
+    - **(C)** review the qualifications of employees submitting an application.
+  - **(6)** Nothing in this subsection limits any collective bargaining obligation of an agency under chapter 71.
+  - **(7)** Notwithstanding paragraphs (1) and (2), an appointing official may not pass over a preference eligible in the same category from which selection is made, unless the requirements of section 3317(b) and 3318(c), as applicable, are satisfied.
 - **(d)** Each agency that establishes a category rating system under this section shall submit in each of the 3 years following that establishment, a report to Congress on that system including information on—
   - **(1)** the number of employees hired under that system;
   - **(2)** the impact that system has had on the hiring of veterans and minorities, including those who are American Indian or Alaska Natives, Asian, Black or African American, and native Hawaiian or other Pacific Islanders; and

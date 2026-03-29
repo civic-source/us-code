@@ -3,9 +3,9 @@ title: "Section 1055 - Members of Advisory Board"
 usc_title: 16
 usc_section: "1055"
 chapter: 20
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 1055"
-generated_at: "2026-03-29T18:05:06.893Z"
+generated_at: "2026-03-29T18:24:22.758Z"
 ---
 
 # § 1055. Members of Advisory Board
@@ -15,5 +15,5 @@ generated_at: "2026-03-29T18:05:06.893Z"
   - **(2)** two Members of the House of Representatives, appointed by the Speaker of the House of Representatives;
   - **(3)** two individuals appointed by the Secretary, one of whom shall be engaged in or closely associated with, sport fishing, and one of whom shall be engaged in, or closely associated with, commercial fishing; and
   - **(4)** two individuals appointed by the Secretary from the public at large.
-- **(b)** Each class of two members of the Advisory Board referred to in subsection (a) of this section shall be appointed for terms of four years, except that, of each such class of two members initially appointed, one shall be appointed for a term of two years. Any person appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term. Of each class of two members of such Board referred to in paragraphs (1) and (2) of subsection (a) of this section, not more than one shall be from the same political party, and not more than one shall be from the same State. Any member of such Board referred to in such paragraphs (1) and (2) who shall cease to be a Member of Congress during the term of his appointment under this section shall cease to be a member of such Board.
+- **(b)** Each class of two members of the Advisory Board referred to in subsection (a) shall be appointed for terms of four years, except that, of each such class of two members initially appointed, one shall be appointed for a term of two years. Any person appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term. Of each class of two members of such Board referred to in paragraphs (1) and (2) of subsection (a), not more than one shall be from the same political party, and not more than one shall be from the same State. Any member of such Board referred to in such paragraphs (1) and (2) who shall cease to be a Member of Congress during the term of his appointment under this section shall cease to be a member of such Board.
 - **(c)** Any vacancy in the Advisory Board shall be filled in the same manner as in the case of the original appointment.

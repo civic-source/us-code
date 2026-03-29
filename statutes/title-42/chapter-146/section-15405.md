@@ -1,14 +1,12 @@
 ---
-title: "Section 15405 - Process for development and filing of plan; publication by Commission"
+title: "Section 15405 - Transferred"
 usc_title: 42
 usc_section: "15405"
 chapter: 146
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 15405"
-generated_at: "2026-03-29T18:07:15.414Z"
+generated_at: "2026-03-29T18:27:04.190Z"
 ---
 
-# § 15405. Process for development and filing of plan; publication by Commission
+# § 15405. Transferred
 
-- **(a)** The chief State election official shall develop the State plan under this part through a committee of appropriate individuals, including the chief election officials of the two most populous jurisdictions within the States, other local election officials, stake holders (including representatives of groups of individuals with disabilities), and other citizens, appointed for such purpose by the chief State election official.
-- **(b)** After receiving the State plan of a State under this part, the Commission shall cause to have the plan posted on the Commission’s website with a notice published in the Federal Register.

@@ -3,9 +3,9 @@ title: "Section 1350 - Failure of corporate officers to certify financial report
 usc_title: 18
 usc_section: "1350"
 chapter: 63
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "18 U.S.C. § 1350"
-generated_at: "2026-03-29T18:04:50.918Z"
+generated_at: "2026-03-29T18:24:43.812Z"
 ---
 
 # § 1350. Failure of corporate officers to certify financial reports

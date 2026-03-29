@@ -3,9 +3,9 @@ title: "Section 203 - Definitions"
 usc_title: 29
 usc_section: "203"
 chapter: 8
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 203"
-generated_at: "2026-03-29T18:05:31.668Z"
+generated_at: "2026-03-29T18:25:43.009Z"
 ---
 
 # § 203. Definitions
@@ -25,7 +25,7 @@ As used in this chapter—
       - **(iii)** in any unit of the judicial branch of the Government which has positions in the competitive service,
       - **(iv)** in a nonappropriated fund instrumentality under the jurisdiction of the Armed Forces,
       - **(v)** in the Library of Congress, or
-      - **(vi)** the 1 1 So in original. Probably should be preceded by “in”. Government Printing Office;
+      - **(vi)** the 1 1 So in original. Probably should be preceded by “in”. Government Publishing Office;
     - **(B)** any individual employed by the United States Postal Service or the Postal Regulatory Commission; and
     - **(C)** any individual employed by a State, political subdivision of a State, or an interstate governmental agency, other than such an individual—
       - **(i)** who is not subject to the civil service laws of the State, political subdivision, or agency which employs him; and
@@ -35,7 +35,7 @@ As used in this chapter—
         - **(III)** is appointed by such an officeholder to serve on a policymaking level,
         - **(IV)** is an immediate adviser to such an officeholder with respect to the constitutional or legal powers of his office, or
         - **(V)** is an employee in the legislative branch or legislative body of that State, political subdivision, or agency and is not employed by the legislative library of such State, political subdivision, or agency.
-  - **(3)** For purposes of subsection (u) of this section, such term does not include any individual employed by an employer engaged in agriculture if such individual is the parent, spouse, child, or other member of the employer’s immediate family.
+  - **(3)** For purposes of subsection (u), such term does not include any individual employed by an employer engaged in agriculture if such individual is the parent, spouse, child, or other member of the employer’s immediate family.
   - **(4)**
     - **(A)** The term “employee” does not include any individual who volunteers to perform services for a public agency which is a State, a political subdivision of a State, or an interstate governmental agency, if—
       - **(i)** the individual receives no compensation or is paid expenses, reasonable benefits, or a nominal fee to perform the services for which the individual volunteered; and

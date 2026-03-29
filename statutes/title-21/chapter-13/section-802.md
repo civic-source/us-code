@@ -3,9 +3,9 @@ title: "Section 802 - Definitions"
 usc_title: 21
 usc_section: "802"
 chapter: 13
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 802"
-generated_at: "2026-03-29T18:05:14.880Z"
+generated_at: "2026-03-29T18:25:04.210Z"
 ---
 
 # § 802. Definitions
@@ -41,7 +41,7 @@ As used in this subchapter:
     - **(D)** Cocaine, its salts, optical and geometric isomers, and salts of isomers.
     - **(E)** Ecgonine, its derivatives, their salts, isomers, and salts of isomers.
     - **(F)** Any compound, mixture, or preparation which contains any quantity of any of the substances referred to in subparagraphs (A) through (E).
-  - **(18)** The term “opiate” means any drug or other substance having an addiction-forming or addiction-sustaining liability similar to morphine or being capable of conversion into a drug having such addiction-forming or addiction-sustaining liability.
+  - **(18)** The term “opiate” or “opioid” means any drug or other substance having an addiction-forming or addiction-sustaining liability similar to morphine or being capable of conversion into a drug having such addiction-forming or addiction-sustaining liability.
   - **(19)** The term “opium poppy” means the plant of the species Papaver somniferum L., except the seed thereof.
   - **(20)** The term “poppy straw” means all parts, except the seeds, of the opium poppy, after mowing.
   - **(21)** The term “practitioner” means a physician, dentist, veterinarian, scientific investigator, pharmacy, hospital, or other person licensed, registered, or otherwise permitted, by the United States or the jurisdiction in which he practices or does research, to distribute, dispense, conduct research with respect to, administer, or use in teaching or chemical analysis, a controlled substance in the course of professional practice or research.
@@ -104,7 +104,7 @@ As used in this subchapter:
     - **(B)** Acetone.
     - **(C)** Benzyl chloride.
     - **(D)** Ethyl ether.
-    - **(E)** Repealed. Pub. L. 101–647, title XXIII, § 2301(b) , Nov. 29, 1990 , 104 Stat. 4858 .
+    - **(E)** Repealed. Pub. L. 101–647, title XXIII , § 2301(b), Nov. 29, 1990 , 104 Stat. 4858 .
     - **(F)** Potassium permanganate.
     - **(G)** 2-Butanone (or Methyl Ethyl Ketone).
     - **(H)** Toluene.
@@ -117,12 +117,12 @@ As used in this subchapter:
     - **(A)** a distribution, receipt, sale, importation, or exportation of, or an international transaction involving shipment of, a listed chemical, or if the Attorney General establishes a threshold amount for a specific listed chemical, a threshold amount, including a cumulative threshold amount for multiple transactions (as determined by the Attorney General, in consultation with the chemical industry and taking into consideration the quantities normally used for lawful purposes), of a listed chemical, except that such term does not include—
       - **(i)** a domestic lawful distribution in the usual course of business between agents or employees of a single regulated person;
       - **(ii)** a delivery of a listed chemical to or by a common or contract carrier for carriage in the lawful and usual course of the business of the common or contract carrier, or to or by a warehouseman for storage in the lawful and usual course of the business of the warehouseman, except that if the carriage or storage is in connection with the distribution, importation, or exportation of a listed chemical to a third person, this clause does not relieve a distributor, importer, or exporter from compliance with section 830 of this title ;
-      - **(iii)** any category of transaction or any category of transaction for a specific listed chemical or chemicals specified by regulation of the Attorney General as excluded from this definition as unnecessary for enforcement of this subchapter or subchapter II of this chapter;
+      - **(iii)** any category of transaction or any category of transaction for a specific listed chemical or chemicals specified by regulation of the Attorney General as excluded from this definition as unnecessary for enforcement of this subchapter or subchapter II;
       - **(iv)** any transaction in a listed chemical that is contained in a drug that may be marketed or distributed lawfully in the United States under the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 301 et seq.], subject to clause (v), unless—
         - **(I)** the Attorney General has determined under section 814 of this title that the drug or group of drugs is being diverted to obtain the listed chemical for use in the illicit production of a controlled substance; and
         - **(II)** the quantity of the listed chemical contained in the drug included in the transaction or multiple transactions equals or exceeds the threshold established for that chemical by the Attorney General;
       - **(v)** any transaction in a scheduled listed chemical product that is a sale at retail by a regulated seller or a distributor required to submit reports under section 830(b)(3) of this title ; or
-      - **(vi)** any transaction in a chemical mixture which the Attorney General has by regulation designated as exempt from the application of this subchapter and subchapter II of this chapter based on a finding that the mixture is formulated in such a way that it cannot be easily used in the illicit production of a controlled substance and that the listed chemical or chemicals contained in the mixture cannot be readily recovered; and
+      - **(vi)** any transaction in a chemical mixture which the Attorney General has by regulation designated as exempt from the application of this subchapter and subchapter II based on a finding that the mixture is formulated in such a way that it cannot be easily used in the illicit production of a controlled substance and that the listed chemical or chemicals contained in the mixture cannot be readily recovered; and
     - **(B)** a distribution, importation, or exportation of a tableting machine or encapsulating machine.
   - **(40)** The term “chemical mixture” means a combination of two or more chemical substances, at least one of which is not a list I chemical or a list II chemical, except that such term does not include any combination of a list I chemical or a list II chemical with another chemical that is present solely as an impurity.
   - **(41)**
@@ -190,10 +190,45 @@ As used in this subchapter:
       - **(xlvi)** testolactone (13-hydroxy-3-oxo-13,17-secoandrosta-1,4-dien-17-oic acid lactone);
       - **(xlvii)** testosterone (17β-hydroxyandrost-4-en-3-one);
       - **(xlviii)** tetrahydrogestrinone (13β,17α-diethyl-17β-hydroxygon-4,9,11-trien-3-one);
-      - **(xlix)** trenbolone (17β-hydroxyestr-4,9,11-trien-3-one); and (xlx) 1 1 So in original. Probably should be “(l)”. any salt, ester, or ether of a drug or substance described in this paragraph.
+      - **(xlix)** trenbolone (17β-hydroxyestr-4,9,11-trien-3-one);
+      - **(l)** 5α-Androstan-3,6,17-trione;
+      - **(li)** 6-bromo-androstan-3,17-dione;
+      - **(lii)** 6-bromo-androsta-1,4-diene-3,17-dione;
+      - **(liii)** 4-chloro-17α-methyl-androsta-1,4-diene-3,17β-diol;
+      - **(liv)** 4-chloro-17α-methyl-androst-4-ene-3β,17β-diol;
+      - **(lv)** 4-chloro-17α-methyl-17β-hydroxy-androst-4-en-3-one;
+      - **(lvi)** 4-chloro-17α-methyl-17β-hydroxy-androst-4-ene-3,11-dione;
+      - **(lvii)** 4-chloro-17α-methyl-androsta-1,4-diene-3,17β-diol;
+      - **(lviii)** 2α,17α-dimethyl-17β-hydroxy-5α-androstan-3-one;
+      - **(lix)** 2α,17α-dimethyl-17β-hydroxy-5β-androstan-3-one;
+      - **(lx)** 2α,3α-epithio-17α-methyl-5α-androstan-17β-ol;
+      - **(lxi)** [3,2-c]-furazan-5α-androstan-17β-ol;
+      - **(lxii)** 3β-hydroxy-estra-4,9,11-trien-17-one;
+      - **(lxiii)** 17α-methyl-androst-2-ene-3,17β-diol;
+      - **(lxiv)** 17α-methyl-androsta-1,4-diene-3,17β-diol;
+      - **(lxv)** Estra-4,9,11-triene-3,17-dione;
+      - **(lxvi)** 18a-Homo-3-hydroxy-estra-2,5(10)-dien-17-one;
+      - **(lxvii)** 6α-Methyl-androst-4-ene-3,17-dione;
+      - **(lxviii)** 17α-Methyl-androstan-3-hydroxyimine-17β-ol;
+      - **(lxix)** 17α-Methyl-5α-androstan-17β-ol;
+      - **(lxx)** 17β-Hydroxy-androstano[2,3-d]isoxazole;
+      - **(lxxi)** 17β-Hydroxy-androstano[3,2-c]isoxazole;
+      - **(lxxii)** 4-Hydroxy-androst-4-ene-3,17-dione[3,2-c]pyrazole-5α-androstan-17β-ol;
+      - **(lxxiii)** [3,2-c]pyrazole-androst-4-en-17β-ol;
+      - **(lxxiv)** [3,2-c]pyrazole-5α-androstan-17β-ol; and
+      - **(lxxv)** any salt, ester, or ether of a drug or substance described in this paragraph.
     - **(B)**
       - **(i)** Except as provided in clause (ii), such term does not include an anabolic steroid which is expressly intended for administration through implants to cattle or other nonhuman species and which has been approved by the Secretary of Health and Human Services for such administration.
       - **(ii)** If any person prescribes, dispenses, or distributes such steroid for human use, such person shall be considered to have prescribed, dispensed, or distributed an anabolic steroid within the meaning of subparagraph (A).
+    - **(C)**
+      - **(i)** Subject to clause (ii), a drug or hormonal substance (other than estrogens, progestins, corticosteroids, and dehydroepiandrosterone) that is not listed in subparagraph (A) and is derived from, or has a chemical structure substantially similar to, 1 or more anabolic steroids listed in subparagraph (A) shall be considered to be an anabolic steroid for purposes of this chapter if—
+        - **(I)** the drug or substance has been created or manufactured with the intent of producing a drug or other substance that either—
+        - **(II)** the drug or substance has been, or is intended to be, marketed or otherwise promoted in any manner suggesting that consuming it will promote muscle growth or any other pharmacological effect similar to that of testosterone.
+      - **(ii)** A substance shall not be considered to be a drug or hormonal substance for purposes of this subparagraph if it—
+        - **(I)** is—
+        - **(II)** is a dietary ingredient for purposes of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 301 et seq.); and
+        - **(III)** is not anabolic or androgenic.
+      - **(iii)** In accordance with section 885(a) of this title , any person claiming the benefit of an exemption or exception under clause (ii) shall bear the burden of going forward with the evidence with respect to such exemption or exception.
   - **(42)** The term “international transaction” means a transaction involving the shipment of a listed chemical across an international border (other than a United States border) in which a broker or trader located in the United States participates.
   - **(43)** The terms “broker” and “trader” mean a person that assists in arranging an international transaction in a listed chemical by—
     - **(A)** negotiating contracts;
@@ -222,7 +257,7 @@ As used in this subchapter:
       - **(i)** manufacturers or distributors registered under subsection (a), (b), (d), or (e) of section 823 of this title who do not dispense controlled substances to an unregistered individual or entity;
       - **(ii)** nonpharmacy practitioners who are registered under section 823(f) of this title and whose activities are authorized by that registration;
       - **(iii)** any hospital or other medical facility that is operated by an agency of the United States (including the Armed Forces), provided such hospital or other facility is registered under section 823(f) of this title ;
-      - **(iv)** a health care facility owned or operated by an Indian tribe or tribal organization, only to the extent such facility is carrying out a contract or compact under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 450 et seq.];
+      - **(iv)** a health care facility owned or operated by an Indian tribe or tribal organization, only to the extent such facility is carrying out a contract or compact under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.];
       - **(v)** any agent or employee of any hospital or facility referred to in clause (iii) or (iv), provided such agent or employee is lawfully acting in the usual course of business or employment, and within the scope of the official duties of such agent or employee, with such hospital or facility, and, with respect to agents or employees of health care facilities specified in clause (iv), only to the extent such individuals are furnishing services pursuant to the contracts or compacts described in such clause;
       - **(vi)** mere advertisements that do not attempt to facilitate an actual transaction involving a controlled substance;
       - **(vii)** a person, entity, or Internet site that is not in the United States and does not facilitate the delivery, distribution, or dispensing of a controlled substance by means of the Internet to any person in the United States;
@@ -245,7 +280,7 @@ As used in this subchapter:
         - **(I)** is exempted from such registration in all States under section 822(d) of this title ; or
         - **(II)** is—
     - **(C)** is being conducted by a practitioner—
-      - **(i)** who is an employee or contractor of the Indian Health Service, or is working for an Indian tribe or tribal organization under its contract or compact with the Indian Health Service under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 450 et seq.];
+      - **(i)** who is an employee or contractor of the Indian Health Service, or is working for an Indian tribe or tribal organization under its contract or compact with the Indian Health Service under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.];
       - **(ii)** acting within the scope of the employment, contract, or compact described in clause (i); and
       - **(iii)** who is designated as an Internet Eligible Controlled Substances Provider by the Secretary under section 831(g)(2) of this title ;
     - **(D)**

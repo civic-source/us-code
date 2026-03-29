@@ -3,9 +3,9 @@ title: "Section 841 - Prohibited acts A"
 usc_title: 21
 usc_section: "841"
 chapter: 13
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 841"
-generated_at: "2026-03-29T18:05:14.889Z"
+generated_at: "2026-03-29T18:25:04.218Z"
 ---
 
 # § 841. Prohibited acts A
@@ -55,12 +55,12 @@ generated_at: "2026-03-29T18:05:14.889Z"
     - **(B)** the amount authorized in accordance with the provisions of title 18;
     - **(C)** $500,000 if the defendant is an individual; or
     - **(D)** $1,000,000 if the defendant is other than an individual;
-  - **(6)** Any person who violates subsection (a) of this section, or attempts to do so, and knowingly or intentionally uses a poison, chemical, or other hazardous substance on Federal land, and, by such use—
+  - **(6)** Any person who violates subsection (a), or attempts to do so, and knowingly or intentionally uses a poison, chemical, or other hazardous substance on Federal land, and, by such use—
     - **(A)** creates a serious hazard to humans, wildlife, or domestic animals,
     - **(B)** degrades or harms the environment or natural resources, or
     - **(C)** pollutes an aquifer, spring, stream, river, or body of water,
   - **(7)**
-    - **(A)** Whoever, with intent to commit a crime of violence, as defined in section 16 of title 18 (including rape), against an individual, violates subsection (a) of this section by distributing a controlled substance or controlled substance analogue to that individual without that individual’s knowledge, shall be imprisoned not more than 20 years and fined in accordance with title 18.
+    - **(A)** Whoever, with intent to commit a crime of violence, as defined in section 16 of title 18 (including rape), against an individual, violates subsection (a) by distributing a controlled substance or controlled substance analogue to that individual without that individual’s knowledge, shall be imprisoned not more than 20 years and fined in accordance with title 18.
     - **(B)** For purposes of this paragraph, the term “without that individual’s knowledge” means that the individual is unaware that a substance with the ability to alter that individual’s ability to appraise conduct or to decline participation in or communicate unwillingness to participate in conduct is administered to the individual.
 - **(c)** Any person who knowingly or intentionally—
   - **(1)** possesses a listed chemical with intent to manufacture a controlled substance except as authorized by this subchapter;

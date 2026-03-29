@@ -3,14 +3,14 @@ title: "Section 1022e - Teacher development"
 usc_title: 20
 usc_section: "1022e"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1022e"
-generated_at: "2026-03-29T18:05:00.054Z"
+generated_at: "2026-03-29T18:24:40.905Z"
 ---
 
 # § 1022e. Teacher development
 
-- **(a)** Each institution of higher education that conducts a traditional teacher preparation program (including programs that offer any ongoing professional development programs) or alternative routes to State certification or licensure program, and that enrolls students receiving Federal assistance under this chapter and part C of subchapter I of chapter 34 of title 42, shall set annual quantifiable goals for increasing the number of prospective teachers trained in teacher shortage areas designated by the Secretary or by the State educational agency, including mathematics, science, special education, and instruction of limited English proficient students.
+- **(a)** Each institution of higher education that conducts a traditional teacher preparation program (including programs that offer any ongoing professional development programs) or alternative routes to State certification or licensure program, and that enrolls students receiving Federal assistance under this chapter, shall set annual quantifiable goals for increasing the number of prospective teachers trained in teacher shortage areas designated by the Secretary or by the State educational agency, including mathematics, science, special education, and instruction of limited English proficient students.
 - **(b)** Each institution described in subsection (a) shall provide assurances to the Secretary that—
   - **(1)** training provided to prospective teachers responds to the identified needs of the local educational agencies or States where the institution’s graduates are likely to teach, based on past hiring and recruitment trends;
   - **(2)** training provided to prospective teachers is closely linked with the needs of schools and the instructional decisions new teachers face in the classroom;

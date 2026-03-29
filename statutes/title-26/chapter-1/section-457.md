@@ -3,9 +3,9 @@ title: "Section 457 - Deferred compensation plans of State and local governments
 usc_title: 26
 usc_section: "457"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 457"
-generated_at: "2026-03-29T18:05:44.639Z"
+generated_at: "2026-03-29T18:25:53.589Z"
 ---
 
 # § 457. Deferred compensation plans of State and local governments and tax-exempt organizations
@@ -79,7 +79,7 @@ generated_at: "2026-03-29T18:05:44.639Z"
         - **(I)** makes payments or supplements as an early retirement benefit, a retirement-type subsidy, or a benefit described in the last sentence of section 411(a)(9), and
         - **(II)** such payments or supplements are made in coordination with a defined benefit plan which is described in section 401(a) and includes a trust exempt from tax under section 501(a) and which is maintained by an eligible employer described in paragraph (1)(A) or by an education association described in clause (ii)(II),
       - **(ii)** For purposes of this subparagraph, the term “applicable voluntary early retirement incentive plan” means a voluntary early retirement incentive plan maintained by—
-        - **(I)** a local educational agency (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7801 )), or
+        - **(I)** a local educational agency (as defined in section 8101 of the Elementary and Secondary Education Act of 1965), or
         - **(II)** an education association which principally represents employees of 1 or more agencies described in subclause (I) and which is described in section 501(c)(5) or (6) and exempt from tax under section 501(a).
   - **(12)**
     - **(A)** This section shall not apply to nonelective deferred compensation attributable to services not performed as an employee.
@@ -87,7 +87,7 @@ generated_at: "2026-03-29T18:05:44.639Z"
   - **(13)** The term “eligible employer” shall not include a church (as defined in section 3121(w)(3)(A)) or qualified church-controlled organization (as defined in section 3121(w)(3)(B)).
   - **(14)** Subsections (b)(2) and (c)(1) shall not apply to any qualified governmental excess benefit arrangement (as defined in section 415(m)(3)), and benefits provided under such an arrangement shall not be taken into account in determining whether any other plan is an eligible deferred compensation plan.
   - **(15)**
-    - **(A)** The applicable dollar amount shall be the amount determined in accordance with the following table: For taxable years The applicable beginning in dollar amount: calendar year: 2002 $11,000 2003 $12,000 2004 $13,000 2005 $14,000 2006 or thereafter $15,000.
+    - **(A)** The applicable dollar amount is $15,000.
     - **(B)** In the case of taxable years beginning after December 31, 2006 , the Secretary shall adjust the $15,000 amount under subparagraph (A) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2005 , and any increase under this paragraph which is not a multiple of $500 shall be rounded to the next lowest multiple of $500.
   - **(16)**
     - **(A)** In the case of an eligible deferred compensation plan established and maintained by an employer described in subsection (e)(1)(A), if—
@@ -124,7 +124,7 @@ generated_at: "2026-03-29T18:05:44.639Z"
       - **(i)** Paragraph (2)(F) shall only apply to the portion of the plan described in subparagraph (A) for years preceding the year in which such portion is paid or otherwise made available to the participant.
       - **(ii)** A plan shall not be treated for purposes of this title as providing for the deferral of compensation for any year with respect to the portion of the plan described in subparagraph (A).
     - **(C)** The term “applicable employment retention plan” means an employment retention plan maintained by—
-      - **(i)** a local educational agency (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7801 ), 1 1 So in original. A second closing parenthesis probably should precede the comma. or
+      - **(i)** a local educational agency (as defined in section 9101 1 1 See References in Text note below. of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7801 ), 2 2 So in original. A second closing parenthesis probably should precede the comma. or
       - **(ii)** an education association which principally represents employees of 1 or more agencies described in clause (i) and which is described in section 501(c)(5) or (6) and exempt from taxation under section 501(a).
     - **(D)** The term “employment retention plan” means a plan to pay, upon termination of employment, compensation to an employee of a local educational agency or education association described in subparagraph (C) for purposes of—
       - **(i)** retaining the services of the employee, or

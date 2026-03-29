@@ -3,9 +3,9 @@ title: "Section 1653 - Contracts and grants for provision of health care and ref
 usc_title: 25
 usc_section: "1653"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1653"
-generated_at: "2026-03-29T18:05:17.159Z"
+generated_at: "2026-03-29T18:25:23.738Z"
 ---
 
 # § 1653. Contracts and grants for provision of health care and referral services
@@ -27,16 +27,16 @@ generated_at: "2026-03-29T18:05:17.159Z"
   - **(1)** the extent of unmet health care needs of urban Indians in the urban center involved;
   - **(2)** the size of the urban Indian population in the urban center involved;
   - **(3)** the accessibility to, and utilization of, health care services (other than services provided under this subchapter) by urban Indians in the urban center involved;
-  - **(4)** the extent, if any, to which the activities set forth in subsection (a) of this section would duplicate—
+  - **(4)** the extent, if any, to which the activities set forth in subsection (a) would duplicate—
     - **(A)** any previous or current public or private health services project in an urban center that was or is funded in a manner other than pursuant to this subchapter; or
     - **(B)** any project funded under this subchapter;
-  - **(5)** the capability of an urban Indian organization to perform the activities set forth in subsection (a) of this section and to enter into a contract with the Secretary or to meet the requirements for receiving a grant under this section;
+  - **(5)** the capability of an urban Indian organization to perform the activities set forth in subsection (a) and to enter into a contract with the Secretary or to meet the requirements for receiving a grant under this section;
   - **(6)** the satisfactory performance and successful completion by an urban Indian organization of other contracts with the Secretary under this subchapter;
-  - **(7)** the appropriateness and likely effectiveness of conducting the activities set forth in subsection (a) of this section in an urban center; and
-  - **(8)** the extent of existing or likely future participation in the activities set forth in subsection (a) of this section by appropriate health and health-related Federal, State, local, and other agencies.
-- **(c)** The Secretary, acting through the Service, shall facilitate access to, or provide, health promotion and disease prevention services for urban Indians through grants made to urban Indian organizations administering contracts entered into pursuant to this section or receiving grants under subsection (a) of this section.
+  - **(7)** the appropriateness and likely effectiveness of conducting the activities set forth in subsection (a) in an urban center; and
+  - **(8)** the extent of existing or likely future participation in the activities set forth in subsection (a) by appropriate health and health-related Federal, State, local, and other agencies.
+- **(c)** The Secretary, acting through the Service, shall facilitate access to, or provide, health promotion and disease prevention services for urban Indians through grants made to urban Indian organizations administering contracts entered into pursuant to this section or receiving grants under subsection (a).
 - **(d)**
-  - **(1)** The Secretary, acting through the Service, shall facilitate access to, or provide, immunization services for urban Indians through grants made to urban Indian organizations administering contracts entered into pursuant to this section or receiving grants under subsection (a) of this section.
+  - **(1)** The Secretary, acting through the Service, shall facilitate access to, or provide, immunization services for urban Indians through grants made to urban Indian organizations administering contracts entered into pursuant to this section or receiving grants under subsection (a).
   - **(2)** In making any grant to carry out this subsection, the Secretary shall take into consideration—
     - **(A)** the size of the urban Indian population to be served;
     - **(B)** the immunization levels of the urban Indian population, particularly the immunization levels of infants, children, and the elderly;
@@ -44,7 +44,7 @@ generated_at: "2026-03-29T18:05:17.159Z"
     - **(D)** the capability of the urban Indian organization to carry out services pursuant to this subsection.
   - **(3)** For purposes of this subsection, the term “immunization services” means services to provide without charge immunizations against vaccine-preventable diseases.
 - **(e)**
-  - **(1)** The Secretary, acting through the Service, shall facilitate access to, or provide, mental health services for urban Indians through grants made to urban Indian organizations administering contracts entered into pursuant to this section or receiving grants under subsection (a) of this section.
+  - **(1)** The Secretary, acting through the Service, shall facilitate access to, or provide, mental health services for urban Indians through grants made to urban Indian organizations administering contracts entered into pursuant to this section or receiving grants under subsection (a).
   - **(2)** A grant may not be made under this subsection to an urban Indian organization until that organization has prepared, and the Service has approved, an assessment of the mental health needs of the urban Indian population concerned, the mental health services and other related resources available to that population, the barriers to obtaining those services and resources, and the needs that are unmet by such services and resources.
   - **(3)** Grants may be made under this subsection—
     - **(A)** to prepare assessments required under paragraph (2);
@@ -52,7 +52,7 @@ generated_at: "2026-03-29T18:05:17.159Z"
     - **(C)** to provide outpatient mental health services to urban Indians, including the identification and assessment of illness, therapeutic treatments, case management, support groups, family treatment, and other treatment; and
     - **(D)** to develop innovative mental health service delivery models which incorporate Indian cultural support systems and resources.
 - **(f)**
-  - **(1)** The Secretary, acting through the Service, shall facilitate access to, or provide, services for urban Indians through grants to urban Indian organizations administering contracts entered into pursuant to this section or receiving grants under subsection (a) of this section to prevent and treat child abuse (including sexual abuse) among urban Indians.
+  - **(1)** The Secretary, acting through the Service, shall facilitate access to, or provide, services for urban Indians through grants to urban Indian organizations administering contracts entered into pursuant to this section or receiving grants under subsection (a) to prevent and treat child abuse (including sexual abuse) among urban Indians.
   - **(2)** A grant may not be made under this subsection to an urban Indian organization until that organization has prepared, and the Service has approved, an assessment that documents the prevalence of child abuse in the urban Indian population concerned and specifies the services and programs (which may not duplicate existing services and programs) for which the grant is requested.
   - **(3)** Grants may be made under this subsection—
     - **(A)** to prepare assessments required under paragraph (2);

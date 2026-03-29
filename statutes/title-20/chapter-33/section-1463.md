@@ -3,9 +3,9 @@ title: "Section 1463 - Technical assistance, demonstration projects, disseminati
 usc_title: 20
 usc_section: "1463"
 chapter: 33
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1463"
-generated_at: "2026-03-29T18:05:00.229Z"
+generated_at: "2026-03-29T18:24:41.060Z"
 ---
 
 # § 1463. Technical assistance, demonstration projects, dissemination of information, and implementation of scientifically based research
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T18:05:00.229Z"
 - **(a)** The Secretary shall make competitive grants to, or enter into contracts or cooperative agreements with, eligible entities to provide technical assistance, support model demonstration projects, disseminate useful information, and implement activities that are supported by scientifically based research.
 - **(b)** Funds received under this section shall be used to support activities to improve services provided under this chapter, including the practices of professionals and others involved in providing such services to children with disabilities, that promote academic achievement and improve results for children with disabilities through—
   - **(1)** implementing effective strategies for addressing inappropriate behavior of students with disabilities in schools, including strategies to prevent children with emotional and behavioral problems from developing emotional disturbances that require the provision of special education and related services;
-  - **(2)** improving the alignment, compatibility, and development of valid and reliable assessments and alternate assessments for assessing adequate yearly progress, as described under section 6311(b)(2)(B) of this title ;
+  - **(2)** improving the alignment, compatibility, and development of valid and reliable assessments and alternate assessments for assessing student academic achievement, as described under section 6311(b)(2) of this title ;
   - **(3)** providing training for both regular education teachers and special education teachers to address the needs of students with different learning styles;
   - **(4)** disseminating information about innovative, effective, and efficient curricula designs, instructional approaches, and strategies, and identifying positive academic and social learning opportunities, that—
     - **(A)** provide effective transitions between educational settings or from school to post school settings; and

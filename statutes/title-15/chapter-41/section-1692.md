@@ -3,9 +3,9 @@ title: "Section 1692 - Congressional findings and declaration of purpose"
 usc_title: 15
 usc_section: "1692"
 chapter: 41
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 1692"
-generated_at: "2026-03-29T18:04:29.648Z"
+generated_at: "2026-03-29T18:24:08.498Z"
 ---
 
 # § 1692. Congressional findings and declaration of purpose

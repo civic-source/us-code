@@ -3,9 +3,9 @@ title: "Section 101 - Definitions"
 usc_title: 6
 usc_section: "101"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "6 U.S.C. § 101"
-generated_at: "2026-03-29T18:03:43.226Z"
+generated_at: "2026-03-29T18:23:35.723Z"
 ---
 
 # § 101. Definitions

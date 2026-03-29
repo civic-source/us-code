@@ -3,9 +3,9 @@ title: "Section 656 - Use of certain appropriated funds"
 usc_title: 14
 usc_section: "656"
 chapter: 17
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "14 U.S.C. § 656"
-generated_at: "2026-03-29T18:04:21.494Z"
+generated_at: "2026-03-29T18:23:55.780Z"
 ---
 
 # § 656. Use of certain appropriated funds
@@ -15,4 +15,4 @@ generated_at: "2026-03-29T18:04:21.494Z"
 - **(c)** The Secretary may use any funds appropriated to or for the use of the Coast Guard for other construction purposes to acquire, construct, convert, extend, and install at Coast Guard installations and facilities, needed permanent or temporary public works, including the preparation of sites and the furnishing of appurtenances, utilities, and equipment, but excluding the construction of family quarters, costing not more than $200,000 for any one project.
 - **(d)**
   - **(1)** Subject to the reporting requirements set forth in paragraph (2), each fiscal year the Secretary may expend from amounts made available for the operating expenses of the Coast Guard not more than $1,500,000 for minor construction and improvement projects at any location.
-  - **(2)** Not later than 90 days after the end of each fiscal year, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on each project undertaken during the course of the preceding fiscal year for which the amount expended under paragraph (1) exceeded $500,000.
+  - **(2)** Not later than the date on which the President submits to Congress a budget under section 1105 of title 31 each year, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report describing each project carried out under paragraph (1), in the most recently concluded fiscal year, for which the amount expended under such paragraph for such project was more than $1,000,000. If no such project was carried out during a fiscal year, no report under this paragraph shall be required with respect to that fiscal year.

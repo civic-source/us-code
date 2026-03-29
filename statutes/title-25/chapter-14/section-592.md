@@ -1,14 +1,12 @@
 ---
-title: "Section 592 - Withdrawal of tribal funds to reimburse United States; consent of Minnesota Chippewa Tribe; disposition of receipts"
+title: "Section 592 - Omitted"
 usc_title: 25
 usc_section: "592"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 592"
-generated_at: "2026-03-29T18:05:17.075Z"
+generated_at: "2026-03-29T18:25:23.697Z"
 ---
 
-# § 592. Withdrawal of tribal funds to reimburse United States; consent of Minnesota Chippewa Tribe; disposition of receipts
-
-The Secretary of the Interior is hereby authorized to withdraw from the Minnesota Chippewa tribal fund now held in trust in the Treasury of the United States a sufficient sum to reimburse the United States for the land and timber thereon, the value of the land to be calculated at $1.25 per acre, and the value of the timber to be ascertained by the Secretary of Agriculture after the same has been examined and appraised under his supervision: Provided, however , That the transaction contemplated in this section and section 591 of this title shall be effected only with the consent of the Minnesota Chippewa Tribe expressed through the body authorized to represent it: And provided further , That all money received by the United States under the authority of this subchapter shall be deposited in the Treasury of the United States, and the same is hereby appropriated for the acquisition of forest land within the Chippewa National Forest under the provisions of the Act approved March 1, 1911 , as amended (U.S.C., title 16 secs. 513, 519, 521).
+# § 592. Omitted
 

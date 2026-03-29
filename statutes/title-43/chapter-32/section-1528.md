@@ -3,9 +3,9 @@ title: "Section 1528 - Authorization of appropriations"
 usc_title: 43
 usc_section: "1528"
 chapter: 32
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 1528"
-generated_at: "2026-03-29T18:06:28.343Z"
+generated_at: "2026-03-29T18:26:14.866Z"
 ---
 
 # § 1528. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 945 - Board of directors"
 usc_title: 7
 usc_section: "945"
 chapter: 31
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 945"
-generated_at: "2026-03-29T18:04:04.804Z"
+generated_at: "2026-03-29T18:23:43.229Z"
 ---
 
 # § 945. Board of directors
@@ -18,12 +18,12 @@ generated_at: "2026-03-29T18:04:04.804Z"
   - **(2)** The cooperative-type entities, and organizations controlled by such entities, that hold class B or class C stock shall elect three individuals to serve on the Telephone Bank Board for a term of two years, by a plurality vote of the stockholders voting in the election.
   - **(3)** The commercial-type entities, and the organizations controlled by such entities, that hold class B or class C stock shall elect three individuals to serve on the Telephone Bank Board for a term of two years, by a plurality vote of the stockholders voting in the election.
 - **(c)**
-  - **(1)** An election under paragraph (2) or (3) of subsection (b) of this section shall not be considered valid unless a majority of the stockholders eligible to vote in the election have voted in the election.
-  - **(2)** Balloting in an election under paragraph (2) or (3) of subsection (b) of this section shall be conducted by mail pursuant to the procedures authorized in the bylaws of the telephone bank.
-  - **(3)** Cumulative voting shall not be permitted in any election under paragraph (2) or (3) of subsection (b) of this section.
+  - **(1)** An election under paragraph (2) or (3) of subsection (b) shall not be considered valid unless a majority of the stockholders eligible to vote in the election have voted in the election.
+  - **(2)** Balloting in an election under paragraph (2) or (3) of subsection (b) shall be conducted by mail pursuant to the procedures authorized in the bylaws of the telephone bank.
+  - **(3)** Cumulative voting shall not be permitted in any election under paragraph (2) or (3) of subsection (b).
 - **(d)**
   - **(1)** Except as provided in paragraph (2), each member of the Telephone Bank Board shall receive $100 per day for each day or part thereof, not to exceed fifty days per year, spent in the performance of their official duties, and shall be reimbursed for travel and other expenses in such manner and subject to such limitations as the Telephone Bank Board may prescribe.
-  - **(2)** The five members of the Telephone Bank Board appointed under subsection (b)(1)(A) of this section shall not receive compensation by reason of their service on the Telephone Bank Board.
+  - **(2)** The five members of the Telephone Bank Board appointed under subsection (b)(1)(A) shall not receive compensation by reason of their service on the Telephone Bank Board.
 - **(e)** A member of the Telephone Bank Board may serve after the expiration of the term of office of such member until the successor for such member has taken office.
 - **(f)** The members of the Telephone Bank Board shall elect one of such members to be the Chairperson of the Board, in accordance with the bylaws of the telephone bank. The Chairperson shall preside at all meetings of the Board and may vote on a matter before the Board unless the vote would result in a tie vote on the matter.
 - **(g)** The Telephone Bank Board shall prescribe bylaws, not inconsistent with law, regulating the manner in which the telephone bank’s business shall be conducted, its directors and officers elected, its stock issued, held, and disposed of, its property transferred, its bylaws amended, and the powers and privileges granted to it by law exercised and enjoyed.

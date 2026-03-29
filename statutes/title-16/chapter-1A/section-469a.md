@@ -1,14 +1,12 @@
 ---
-title: "Section 469a - Notice of dam construction to be given Secretary of the Interior by United States agencies"
+title: "Section 469a - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "469a"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 469a"
-generated_at: "2026-03-29T18:05:06.714Z"
+generated_at: "2026-03-29T18:24:22.614Z"
 ---
 
-# § 469a. Notice of dam construction to be given Secretary of the Interior by United States agencies
-
-Before any agency of the United States shall undertake the construction of a dam, or issue a license to any private individual or corporation for the construction of a dam, it shall give written notice to the Secretary of the Interior (hereafter referred to as the Secretary) setting forth the site of the proposed dam and the approximate area to be flooded and otherwise changed if such construction is undertaken: Provided , That with respect to any flood water retarding dam which provides less than five thousand acre-feet of detention capacity and with respect to any other type of dam which creates a reservoir of less than forty surface acres the provisions of this section shall apply only when the constructing agency, in its preliminary surveys, finds, or is presented with evidence that historical or archeological materials exist or may be present in the proposed reservoir area.
+# § 469a. Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272
 

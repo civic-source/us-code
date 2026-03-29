@@ -3,9 +3,9 @@ title: "Section 13105 - Availability of allocations"
 usc_title: 46
 usc_section: "13105"
 chapter: 131
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "46 U.S.C. § 13105"
-generated_at: "2026-03-29T18:07:34.370Z"
+generated_at: "2026-03-29T18:27:18.895Z"
 ---
 
 # § 13105. Availability of allocations

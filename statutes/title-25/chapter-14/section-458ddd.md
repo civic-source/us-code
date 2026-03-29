@@ -1,47 +1,12 @@
 ---
-title: "Section 458ddd - National Fund for Excellence in American Indian Education"
+title: "Section 458ddd - Transferred"
 usc_title: 25
 usc_section: "458ddd"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 458ddd"
-generated_at: "2026-03-29T18:05:17.062Z"
+generated_at: "2026-03-29T18:25:23.694Z"
 ---
 
-# § 458ddd. National Fund for Excellence in American Indian Education
+# § 458ddd. Transferred
 
-- **(a)** As soon as practicable after December 27, 2000 , the Secretary of the Interior shall establish, under the laws of the District of Columbia and in accordance with this part, a foundation to be known as the “National Fund for Excellence in American Indian Education” (hereinafter referred to as the “Foundation”).
-- **(b)** Except as otherwise provided, the Foundation shall have perpetual existence.
-- **(c)** The Foundation shall be a charitable and nonprofit federally chartered corporation and shall not be an agency or instrumentality of the United States.
-- **(d)** The Foundation shall be incorporated and domiciled in the District of Columbia.
-- **(e)** The purposes of the Foundation shall be—
-  - **(1)** to encourage, accept, and administer private gifts of real and personal property or any income therefrom or other interest therein for the benefit of, or in support of, the mission of the Office of Indian Education Programs of the Bureau of Indian Affairs (or its successor office);
-  - **(2)** to undertake and conduct such other activities as will further the educational opportunities of American Indians who attend a Bureau funded school; and
-  - **(3)** to participate with, and otherwise assist, Federal, State, and tribal governments, agencies, entities, and individuals in undertaking and conducting activities that will further the educational opportunities of American Indians attending Bureau funded schools.
-- **(f)**
-  - **(1)** The Board of Directors shall be the governing body of the Foundation. The Board may exercise, or provide for the exercise of, the powers of the Foundation.
-  - **(2)** The number of members of the Board, the manner of their selection (including the filling of vacancies), and their terms of office shall be as provided in the constitution and bylaws of the Foundation. However, the Board shall have at least 11 members, two of whom shall be the Secretary and the Assistant Secretary of the Interior for Indian Affairs, who shall serve as ex officio nonvoting members, and the initial voting members of the Board shall be appointed by the Secretary not later than 6 months after the date that the Foundation is established and shall have staggered terms (as determined by the Secretary).
-  - **(3)** The members of the Board shall be United States citizens who are knowledgeable or experienced in American Indian education and shall, to the extent practicable, represent diverse points of view relating to the education of American Indians.
-  - **(4)** Members of the Board shall not receive compensation for their services as members, but shall be reimbursed for actual and necessary travel and subsistence expenses incurred by them in the performance of the duties of the Foundation.
-- **(g)**
-  - **(1)** The officers of the Foundation shall be a secretary, elected from among the members of the Board, and any other officers provided for in the constitution and bylaws of the Foundation.
-  - **(2)** The secretary shall serve, at the direction of the Board, as its chief operating officer and shall be knowledgeable and experienced in matters relating to education in general and education of American Indians in particular.
-  - **(3)** The manner of election, term of office, and duties of the officers shall be as provided in the constitution and bylaws of the Foundation.
-- **(h)** The Foundation—
-  - **(1)** shall adopt a constitution and bylaws for the management of its property and the regulation of its affairs, which may be amended;
-  - **(2)** may adopt and alter a corporate seal;
-  - **(3)** may make contracts, subject to the limitations of this subchapter;
-  - **(4)** may acquire (through a gift or otherwise), own, lease, encumber, and transfer real or personal property as necessary or convenient to carry out the purposes of the Foundation;
-  - **(5)** may sue and be sued; and
-  - **(6)** may perform any other act necessary and proper to carry out the purposes of the Foundation.
-- **(i)** The principal office of the Foundation shall be in the District of Columbia. However, the activities of the Foundation may be conducted, and offices may be maintained, throughout the United States in accordance with the constitution and bylaws of the Foundation.
-- **(j)** The Foundation shall comply with the law on service of process of each State in which it is incorporated and of each State in which the Foundation carries on activities.
-- **(k)** The Foundation shall be liable for the acts of its officers and agents acting within the scope of their authority. Members of the Board are personally liable only for gross negligence in the performance of their duties.
-- **(l)**
-  - **(1)** Beginning with the fiscal year following the first full fiscal year during which the Foundation is in operation, the administrative costs of the Foundation may not exceed 10 percent of the sum of—
-    - **(A)** the amounts transferred to the Foundation under subsection (m) of this section during the preceding fiscal year; and
-    - **(B)** donations received from private sources during the preceding fiscal year.
-  - **(2)** The appointment of officers and employees of the Foundation shall be subject to the availability of funds.
-  - **(3)** Members of the Board, and the officers, employees, and agents of the Foundation are not, by reason of their association with the Foundation, officers, employees, or agents of the United States.
-- **(m)** The Secretary may transfer to the Foundation funds held by the Department of the Interior under section 451 of this title , if the transfer or use of such funds is not prohibited by any term under which the funds were donated.
-- **(n)** The Foundation shall comply with the audit requirements set forth in section 10101 of title 36 , as if it were a corporation in part B of subtitle II of that title.

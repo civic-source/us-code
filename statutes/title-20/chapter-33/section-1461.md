@@ -3,9 +3,9 @@ title: "Section 1461 - Purpose; definition of eligible entity"
 usc_title: 20
 usc_section: "1461"
 chapter: 33
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1461"
-generated_at: "2026-03-29T18:05:00.228Z"
+generated_at: "2026-03-29T18:24:41.060Z"
 ---
 
 # § 1461. Purpose; definition of eligible entity
@@ -22,6 +22,6 @@ generated_at: "2026-03-29T18:05:00.228Z"
     - **(E)** a public agency not described in subparagraphs (A) through (D);
     - **(F)** a private nonprofit organization;
     - **(G)** an outlying area;
-    - **(H)** an Indian tribe or a tribal organization (as defined under section 450b of title 25 ); or
+    - **(H)** an Indian tribe or a tribal organization (as defined under section 5304 of title 25 ); or
     - **(I)** a for-profit organization, if the Secretary finds it appropriate in light of the purposes of a particular competition for a grant, contract, or cooperative agreement under this part.
   - **(2)** The Secretary may limit which eligible entities described in paragraph (1) are eligible for a grant, contract, or cooperative agreement under this part to 1 or more of the categories of eligible entities described in paragraph (1).

@@ -3,9 +3,9 @@ title: "Section 7112 - Expiration date"
 usc_title: 31
 usc_section: "7112"
 chapter: 71
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "31 U.S.C. § 7112"
-generated_at: "2026-03-29T18:06:08.522Z"
+generated_at: "2026-03-29T18:25:59.214Z"
 ---
 
 # § 7112. Expiration date

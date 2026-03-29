@@ -1,14 +1,12 @@
 ---
-title: "Section 2512 - Authorization of appropriations"
+title: "Section 2512 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "2512"
 chapter: 45
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 2512"
-generated_at: "2026-03-29T18:05:07.003Z"
+generated_at: "2026-03-29T18:24:22.856Z"
 ---
 
-# § 2512. Authorization of appropriations
+# § 2512. Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272
 
-- **(a)** There are hereby authorized to be appropriated for the purposes of this chapter, not to exceed $150,000,000 for each of the fiscal years 1979 through 1982, and $125,000,000 in fiscal year 1983, such sums to remain available until expended. Not more than 3 per centum of the funds authorized in any fiscal year may be used for grants for the development of local park and recreation recovery action programs pursuant to sections 2506(a) and 2506(c) of this title, and not more than 10 per centum may be used for innovation grants pursuant to section 2505 of this title . Grants made under this chapter for projects in any one State shall not exceed in the aggregate 15 per centum of the aggregate amount of funds authorized to be appropriated in any fiscal year. For the authorizations made in this section, any amounts authorized but not appropriated in any fiscal year shall remain available for appropriation in succeeding fiscal years. Notwithstanding any other provision of this Act, or any other law, or regulation, there is further authorized to be appropriated $250,000 for each of the fiscal years 1979 through 1983, such sums to remain available until expended, to each of the insular areas. Such sums will not be subject to the matching provisions of this section, 1 1 So in original. Probably should be “this chapter,”. and may only be subject to such conditions, reports, plans, and agreements, if any, as determined by the Secretary.
-- **(b)** Not more than 25 percent of the amounts made available under this chapter to any local government may be used for program support.

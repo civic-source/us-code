@@ -3,9 +3,9 @@ title: "Section 5612 - Quota allocation practice"
 usc_title: 16
 usc_section: "5612"
 chapter: 76
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 5612"
-generated_at: "2026-03-29T18:05:07.084Z"
+generated_at: "2026-03-29T18:24:22.923Z"
 ---
 
 # § 5612. Quota allocation practice
@@ -14,8 +14,8 @@ generated_at: "2026-03-29T18:05:07.084Z"
   - **(1)** is predictable and transparent;
   - **(2)** provides fishing opportunities for all members of the Organization; and
   - **(3)** is consistent with the Straddling Fish Stocks Agreement.
-- **(b)** The Secretary of Commerce shall include in annual reports under section 5611 of this title —
-  - **(1)** a description of the results of negotiations held pursuant to subsection (a) of this section;
+- **(b)** The Secretary of Commerce shall include in annual reports under section 5611 1 1 See References in Text note below. of this title—
+  - **(1)** a description of the results of negotiations held pursuant to subsection (a);
   - **(2)** an identification of barriers to achieving such a new allocation practice; and
   - **(3)** recommendations for any further legislation that is necessary to achieve such a new practice.
 - **(c)** In this section the term “Straddling Fish Stocks Agreement” means the United Nations Agreement for the Implementation of the Provisions of the United Nations Convention on the Law of the Sea of 10 December 1982 Relating to the Conservation and Management of Straddling Fish Stocks and Highly Migratory Fish Stocks.

@@ -1,19 +1,12 @@
 ---
-title: "Section 450 - Congressional statement of findings"
+title: "Section 450 - Transferred"
 usc_title: 25
 usc_section: "450"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 450"
-generated_at: "2026-03-29T18:05:17.052Z"
+generated_at: "2026-03-29T18:25:23.693Z"
 ---
 
-# § 450. Congressional statement of findings
+# § 450. Transferred
 
-- **(a)** The Congress, after careful review of the Federal Government’s historical and special legal relationship with, and resulting responsibilities to, American Indian people, finds that—
-  - **(1)** the prolonged Federal domination of Indian service programs has served to retard rather than enhance the progress of Indian people and their communities by depriving Indians of the full opportunity to develop leadership skills crucial to the realization of self-government, and has denied to the Indian people an effective voice in the planning and implementation of programs for the benefit of Indians which are responsive to the true needs of Indian communities; and
-  - **(2)** the Indian people will never surrender their desire to control their relationships both among themselves and with non-Indian governments, organizations, and persons.
-- **(b)** The Congress further finds that—
-  - **(1)** true self-determination in any society of people is dependent upon an educational process which will insure the development of qualified people to fulfill meaningful leadership roles;
-  - **(2)** the Federal responsibility for and assistance to education of Indian children has not effected the desired level of educational achievement or created the diverse opportunities and personal satisfaction which education can and should provide; and
-  - **(3)** parental and community control of the educational process is of crucial importance to the Indian people.

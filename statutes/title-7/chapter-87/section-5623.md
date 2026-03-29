@@ -3,9 +3,9 @@ title: "Section 5623 - Market access program"
 usc_title: 7
 usc_section: "5623"
 chapter: 87
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 5623"
-generated_at: "2026-03-29T18:04:05.050Z"
+generated_at: "2026-03-29T18:23:43.450Z"
 ---
 
 # § 5623. Market access program
@@ -48,5 +48,5 @@ generated_at: "2026-03-29T18:04:05.050Z"
     - **(C)** may be used by a United States trade association, cooperative, or small business for individual branded promotional activity related to a United States branded product, if the beneficiaries of the activity have provided funds for the activity in an amount that is at least equivalent to the amount of assistance provided under this section.
 - **(g)**
   - **(1)** The Secretary shall justify in writing the level of assistance provided to an eligible trade organization under the program under this section and the level of cost-sharing required of such organization.
-  - **(2)** Assistance provided under this section for activities described in subsection (e)(4) of this section shall not exceed 50 percent of the cost of implementing the marketing plan, except that the Secretary may determine not to apply such limitation in the case of agricultural commodities with respect to which there has been a favorable decision by the United States Trade Representative under section 2411 of title 19 . Criteria for determining that the limitation shall not apply shall be consistent and documented.
+  - **(2)** Assistance provided under this section for activities described in subsection (e)(4) shall not exceed 50 percent of the cost of implementing the marketing plan, except that the Secretary may determine not to apply such limitation in the case of agricultural commodities with respect to which there has been a favorable decision by the United States Trade Representative under section 2411 of title 19 . Criteria for determining that the limitation shall not apply shall be consistent and documented.
   - **(3)** In the case of participants that received assistance under section 1736s of this title prior to November 28, 1990 , and with respect to which assistance under this section would be limited under paragraph (2), any such reduction in assistance shall be phased down in equal increments over a 5-year period.

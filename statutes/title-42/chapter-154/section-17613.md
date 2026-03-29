@@ -3,9 +3,9 @@ title: "Section 17613 - Purpose of ICAC task forces"
 usc_title: 42
 usc_section: "17613"
 chapter: 154
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 17613"
-generated_at: "2026-03-29T18:07:15.531Z"
+generated_at: "2026-03-29T18:27:04.275Z"
 ---
 
 # § 17613. Purpose of ICAC task forces

@@ -1,12 +1,12 @@
 ---
-title: "Section 1323j - Repealed. Pub. L. 87–845, § 26(b) , Oct. 18, 1962 , 76A Stat. 701"
+title: "Section 1323j - Repealed. Pub. L. 87–845 , § 26(b), Oct. 18, 1962 , 76A Stat. 701"
 usc_title: 48
 usc_section: "1323j"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "48 U.S.C. § 1323j"
-generated_at: "2026-03-29T18:07:36.840Z"
+generated_at: "2026-03-29T18:27:11.648Z"
 ---
 
-# § 1323j. Repealed. Pub. L. 87–845, § 26(b) , Oct. 18, 1962 , 76A Stat. 701
+# § 1323j. Repealed. Pub. L. 87–845 , § 26(b), Oct. 18, 1962 , 76A Stat. 701
 

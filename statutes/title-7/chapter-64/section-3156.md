@@ -3,9 +3,9 @@ title: "Section 3156 - Education grants to Alaska Native serving institutions an
 usc_title: 7
 usc_section: "3156"
 chapter: 64
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 3156"
-generated_at: "2026-03-29T18:04:05.008Z"
+generated_at: "2026-03-29T18:23:43.414Z"
 ---
 
 # § 3156. Education grants to Alaska Native serving institutions and Native Hawaiian serving institutions

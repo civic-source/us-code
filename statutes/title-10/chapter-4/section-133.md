@@ -3,9 +3,9 @@ title: "Section 133 - Under Secretary of Defense for Acquisition, Technology, an
 usc_title: 10
 usc_section: "133"
 chapter: 4
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 133"
-generated_at: "2026-03-29T18:04:12.961Z"
+generated_at: "2026-03-29T18:23:51.722Z"
 ---
 
 # § 133. Under Secretary of Defense for Acquisition, Technology, and Logistics
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T18:04:12.961Z"
   - **(2)** establishing policies for acquisition (including procurement of goods and services, research and development, developmental testing, and contract administration) for all elements of the Department of Defense;
   - **(3)** establishing policies for logistics, maintenance, and sustainment support for all elements of the Department of Defense;
   - **(4)** establishing policies of the Department of Defense for maintenance of the defense industrial base of the United States; and
-  - **(5)** the authority to direct the Secretaries of the military departments and the heads of all other elements of the Department of Defense with regard to matters for which the Under Secretary has responsibility.
+  - **(5)** the authority to direct the Secretaries of the military departments and the heads of all other elements of the Department of Defense with regard to matters for which the Under Secretary has responsibility, except that the Under Secretary shall exercise advisory authority, subject to the authority, direction, and control of the Secretary of Defense, over service acquisition programs for which the service acquisition executive is the milestone decision authority.
 - **(c)** The Under Secretary—
   - **(1)** is the senior procurement executive for the Department of Defense for the purposes of section 1702(c) of title 41 ;
   - **(2)** is the Defense Acquisition Executive for purposes of regulations and procedures of the Department providing for a Defense Acquisition Executive; and

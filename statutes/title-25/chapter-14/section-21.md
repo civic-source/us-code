@@ -1,20 +1,12 @@
 ---
-title: "Section 21 - Definitions"
+title: "Section 21 - Omitted"
 usc_title: 25
 usc_section: "21"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 21"
-generated_at: "2026-03-29T18:05:17.128Z"
+generated_at: "2026-03-29T18:25:23.711Z"
 ---
 
-# § 1300d–21. Definitions
+# § 1300d–21. Omitted
 
-In this part:
-
-  - **(1)** The term “covered Indian tribe” means an Indian tribe listed in section 1300d–23(a) of this title .
-  - **(2)** The term “Fund Account” means the consolidated account for tribal trust funds in the Treasury of the United States that is managed by the Secretary—
-    - **(A)** through the Office of Trust Fund Management of the Department of the Interior; and
-    - **(B)** in accordance with the American Indian Trust Fund Management Reform Act of 1994 ( 25 U.S.C. 4001 et seq.).
-  - **(3)** The term “Secretary” means the Secretary of the Interior.
-  - **(4)** The term “tribal governing body” means the duly elected governing body of a covered Indian tribe.

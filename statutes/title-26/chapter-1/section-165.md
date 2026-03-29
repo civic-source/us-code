@@ -3,9 +3,9 @@ title: "Section 165 - Losses"
 usc_title: 26
 usc_section: "165"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 165"
-generated_at: "2026-03-29T18:05:44.510Z"
+generated_at: "2026-03-29T18:25:53.458Z"
 ---
 
 # § 165. Losses
@@ -37,32 +37,23 @@ generated_at: "2026-03-29T18:05:44.510Z"
     - **(B)** If the personal casualty gains for any taxable year exceed the personal casualty losses for such taxable year—
       - **(i)** all such gains shall be treated as gains from sales or exchanges of capital assets, and
       - **(ii)** all such losses shall be treated as losses from sales or exchanges of capital assets.
-  - **(3)**
-    - **(A)** If an individual has a net disaster loss for any taxable year, the amount determined under paragraph (2)(A)(ii) shall be the sum of—
-      - **(i)** such net disaster loss, and
-      - **(ii)** so much of the excess referred to in the matter preceding clause (i) of paragraph (2)(A) (reduced by the amount in clause (i) of this subparagraph) as exceeds 10 percent of the adjusted gross income of the individual.
-    - **(B)** For purposes of subparagraph (A), the term “net disaster loss” means the excess of—
-      - **(i)** the personal casualty losses—
-        - **(I)** attributable to a federally declared disaster occurring before January 1, 2010 , and
-        - **(II)** occurring in a disaster area, over
-      - **(ii)** personal casualty gains.
-    - **(C)** For purposes of this paragraph—
-      - **(i)** The term “federally declared disaster” means any disaster subsequently determined by the President of the United States to warrant assistance by the Federal Government under the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
-      - **(ii)** The term “disaster area” means the area so determined to warrant such assistance.
-  - **(4)** For purposes of this subsection—
+  - **(3)** For purposes of this subsection—
     - **(A)** The term “personal casualty gain” means the recognized gain from any involuntary conversion of property which is described in subsection (c)(3) arising from fire, storm, shipwreck, or other casualty, or from theft.
-    - **(B)** The term “personal casualty loss” means any loss described in subsection (c)(3). For purposes of paragraphs (2) and (3), the amount of any personal casualty loss shall be determined after the application of paragraph (1).
-  - **(5)**
+    - **(B)** The term “personal casualty loss” means any loss described in subsection (c)(3). For purposes of paragraph (2), the amount of any personal casualty loss shall be determined after the application of paragraph (1).
+  - **(4)**
     - **(A)** In any case to which paragraph (2)(A) applies, the deduction for personal casualty losses for any taxable year shall be treated as a deduction allowable in computing adjusted gross income to the extent such losses do not exceed the personal casualty gains for the taxable year.
     - **(B)** For purposes of this subsection, a husband and wife making a joint return for the taxable year shall be treated as 1 individual.
     - **(C)** For purposes of paragraph (2), the adjusted gross income of an estate or trust shall be computed in the same manner as in the case of an individual, except that the deductions for costs paid or incurred in connection with the administration of the estate or trust shall be treated as allowable in arriving at adjusted gross income.
     - **(D)** No loss described in subsection (c)(3) shall be allowed if, at the time of filing the return, such loss has been claimed for estate tax purposes in the estate tax return.
     - **(E)** Any loss of an individual described in subsection (c)(3) to the extent covered by insurance shall be taken into account under this section only if the individual files a timely insurance claim with respect to such loss.
 - **(i)**
-  - **(1)** Notwithstanding the provisions of subsection (a), any loss occurring in a disaster area (as defined by clause (ii) of subsection (h)(3)(C)) and attributable to a federally declared disaster (as defined by clause (i) of such subsection) may, at the election of the taxpayer, be taken into account for the taxable year immediately preceding the taxable year in which the disaster occurred.
+  - **(1)** Notwithstanding the provisions of subsection (a), any loss occurring in a disaster area and attributable to a federally declared disaster may, at the election of the taxpayer, be taken into account for the taxable year immediately preceding the taxable year in which the disaster occurred.
   - **(2)** If an election is made under this subsection, the casualty resulting in the loss shall be treated for purposes of this title as having occurred in the taxable year for which the deduction is claimed.
   - **(3)** The amount of the loss taken into account in the preceding taxable year by reason of paragraph (1) shall not exceed the uncompensated amount determined on the basis of the facts existing at the date the taxpayer claims the loss.
-  - **(4)** Nothing in this title shall be construed to prohibit the Secretary from prescribing regulations or other guidance under which an appraisal for the purpose of obtaining a loan of Federal funds or a loan guarantee from the Federal Government as a result of a federally declared disaster (as defined by subsection (h)(3)(C)(i) 1 1 So in original. Probably should be followed by a second closing parenthesis. may be used to establish the amount of any loss described in paragraph (1) or (2).
+  - **(4)** Nothing in this title shall be construed to prohibit the Secretary from prescribing regulations or other guidance under which an appraisal for the purpose of obtaining a loan of Federal funds or a loan guarantee from the Federal Government as a result of a federally declared disaster may be used to establish the amount of any loss described in paragraph (1) or (2).
+  - **(5)** For purposes of this subsection—
+    - **(A)** The term “Federally 1 1 So in original. Probably should not be capitalized. declared disaster” means any disaster subsequently determined by the President of the United States to warrant assistance by the Federal Government under the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
+    - **(B)** The term “disaster area” means the area so determined to warrant such assistance.
 - **(j)**
   - **(1)** Nothing in subsection (a) or in any other provision of law shall be construed to provide a deduction for any loss sustained on any registration-required obligation unless such obligation is in registered form (or the issuance of such obligation was subject to tax under section 4701).
   - **(2)** For purposes of this subsection—

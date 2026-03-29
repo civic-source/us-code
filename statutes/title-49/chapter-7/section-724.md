@@ -1,14 +1,12 @@
 ---
-title: "Section 724 - Service of process in court proceedings"
+title: "Section 724 - Renumbered §§ 1321 to 1324]"
 usc_title: 49
 usc_section: "724"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 724"
-generated_at: "2026-03-29T18:07:51.328Z"
+generated_at: "2026-03-29T18:27:16.432Z"
 ---
 
-# § 724. Service of process in court proceedings
+# [§§ 721 to 724. Renumbered §§ 1321 to 1324]
 
-- **(a)** A carrier providing transportation subject to the jurisdiction of the Board under subtitle IV shall designate an agent in the District of Columbia on whom service of process in an action before a district court may be made. Except as otherwise provided, process in an action before a district court shall be served on the designated agent of that carrier at the office or usual place of residence in the District of Columbia of that agent. If the carrier does not have a designated agent, service may be made by posting the notice in the office of the Board.
-- **(b)** A designation under this section may be changed at any time in the same manner as originally made.

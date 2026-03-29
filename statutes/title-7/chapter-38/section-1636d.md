@@ -3,17 +3,17 @@ title: "Section 1636d - Recordkeeping"
 usc_title: 7
 usc_section: "1636d"
 chapter: 38
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 1636d"
-generated_at: "2026-03-29T18:04:04.880Z"
+generated_at: "2026-03-29T18:23:43.296Z"
 ---
 
 # § 1636d. Recordkeeping
 
-- **(a)** Subject to subsection (b) of this section, each packer required to report information to the Secretary under this subchapter shall maintain, and make available to the Secretary on request, for 2 years—
+- **(a)** Subject to subsection (b), each packer required to report information to the Secretary under this subchapter shall maintain, and make available to the Secretary on request, for 2 years—
   - **(1)** the original contracts, agreements, receipts and other records associated with any transaction relating to the purchase, sale, pricing, transportation, delivery, weighing, slaughter, or carcass characteristics of all livestock; and
   - **(2)** such records or other information as is necessary or appropriate to verify the accuracy of the information required to be reported under this subchapter.
-- **(b)** Under subsection (a)(2) of this section, the Secretary may not require a packer to provide new or additional information if—
+- **(b)** Under subsection (a)(2), the Secretary may not require a packer to provide new or additional information if—
   - **(1)** the information is not generally available or maintained by packers; or
   - **(2)** the provision of the information would be unduly burdensome.
 - **(c)** A record of a purchase of a lot of cattle or a lot of swine by a packer shall evidence whether the purchase occurred—

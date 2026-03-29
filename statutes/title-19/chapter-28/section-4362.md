@@ -3,12 +3,12 @@ title: "Section 4362 - Application to Canada and Mexico"
 usc_title: 19
 usc_section: "4362"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 4362"
-generated_at: "2026-03-29T02:12:08.767Z"
+generated_at: "2026-03-29T18:24:16.245Z"
 ---
 
 # § 4362. Application to Canada and Mexico
 
-Pursuant to article 10.10 of the USMCA (as defined in section 4502 of this title ) and section 4588 of this title , this subchapter and the amendments made by this title 1 1 See References in Text note below. shall apply with respect to goods from Canada and Mexico.
+Pursuant to article 1902 of the North American Free Trade Agreement and section 3438 of this title , this subchapter and the amendments made by this subchapter shall apply with respect to goods from Canada and Mexico.
 

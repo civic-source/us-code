@@ -3,12 +3,12 @@ title: "Section 2484 - Applicability of preexisting laws and regulations"
 usc_title: 50
 usc_section: "2484"
 chapter: 41
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 2484"
-generated_at: "2026-03-29T18:07:43.075Z"
+generated_at: "2026-03-29T18:27:35.644Z"
 ---
 
 # § 2484. Applicability of preexisting laws and regulations
 
-With respect to any facility, mission, or function of the Department of Energy that the Secretary of Energy transfers to the Administrator under section 3291, unless otherwise provided in this chapter, all provisions of law and regulations in effect immediately before the date of the transfer that are applicable to such facility, mission, or function shall continue to apply to the corresponding functions of the Administration.
+With respect to any facility, mission, or function of the Department of Energy that the Secretary of Energy transfers to the Administrator under section 2481 of this title , unless otherwise provided in this chapter, all provisions of law and regulations in effect immediately before the date of the transfer that are applicable to such facility, mission, or function shall continue to apply to the corresponding functions of the Administration.
 

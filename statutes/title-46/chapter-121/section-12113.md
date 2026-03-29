@@ -3,9 +3,9 @@ title: "Section 12113 - Fishery endorsement"
 usc_title: 46
 usc_section: "12113"
 chapter: 121
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "46 U.S.C. § 12113"
-generated_at: "2026-03-29T18:07:34.365Z"
+generated_at: "2026-03-29T18:27:18.891Z"
 ---
 
 # § 12113. Fishery endorsement
@@ -43,7 +43,7 @@ generated_at: "2026-03-29T18:07:34.365Z"
     - **(C)** the vessel—
       - **(i)** is either a rebuilt vessel or replacement vessel under section 208(g) of the American Fisheries Act (title II of division C of Public Law 105–277 ; 112 Stat. 2681–627 );
       - **(ii)** is eligible for a fishery endorsement under this section; and
-      - **(iii)** in the case of a vessel listed in paragraphs (1) through (20) of section 208(e) of the American Fisheries Act (title II of division C of Public Law 105–277 ; 112 Stat. 2681–625 et seq.), is neither participating in nor eligible to participate in the non-AFA trawl catcher processor subsector (as that term is defined under section 219(a)(7) of the Department of Commerce and Related Agencies Appropriations Act, 2005 ( Public Law 108–447 ; 118 Stat. 2887 ); or
+      - **(iii)** in the case of a vessel listed in paragraphs (1) through (20) of section 208(e) of the American Fisheries Act (title II of division C of Public Law 105–277 ; 112 Stat. 2681–625 et seq.), is neither participating in nor eligible to participate in the non-AFA trawl catcher processor subsector (as that term is defined under section 219(a)(7) of the Department of Commerce and Related Agencies Appropriations Act, 2005 ( Public Law 108–447 ; 118 Stat. 2887 ); 2 2 So in original. The semicolon probably should be preceded by another closing parenthesis. or
     - **(D)** the vessel is a fish tender vessel that is not engaged in the harvesting or processing of fish.
 - **(e)**
   - **(1)** The Administrator of the Maritime Administration shall administer subsections (c) and (d) with respect to vessels 100 feet or greater in registered length. The owner of each such vessel shall file a statement of citizenship setting forth all relevant facts regarding vessel ownership and control with the Administrator on an annual basis to demonstrate compliance with those provisions.

@@ -3,9 +3,9 @@ title: "Section 1105 - Termination of trustee’s appointment"
 usc_title: 11
 usc_section: "1105"
 chapter: 11
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "11 U.S.C. § 1105"
-generated_at: "2026-03-29T18:04:18.537Z"
+generated_at: "2026-03-29T18:23:58.117Z"
 ---
 
 # § 1105. Termination of trustee’s appointment

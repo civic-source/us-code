@@ -3,9 +3,9 @@ title: "Section 8 - Consultation with external experts on rare diseases, targete
 usc_title: 21
 usc_section: "8"
 chapter: 9
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 8"
-generated_at: "2026-03-29T18:05:14.808Z"
+generated_at: "2026-03-29T18:25:04.150Z"
 ---
 
 # § 360bbb–8. Consultation with external experts on rare diseases, targeted therapies, and genetic targeting of treatments

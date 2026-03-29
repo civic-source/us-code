@@ -3,9 +3,9 @@ title: "Section 82 - Omitted"
 usc_title: 8
 usc_section: "82"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "8 U.S.C. § 82"
-generated_at: "2026-03-29T02:10:21.381Z"
+generated_at: "2026-03-29T18:23:33.913Z"
 ---
 
 # §§ 79 to 82. Omitted

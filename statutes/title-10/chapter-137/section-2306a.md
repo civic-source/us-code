@@ -3,9 +3,9 @@ title: "Section 2306a - Cost or pricing data: truth in negotiations"
 usc_title: 10
 usc_section: "2306a"
 chapter: 137
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2306a"
-generated_at: "2026-03-29T18:04:13.141Z"
+generated_at: "2026-03-29T18:23:51.907Z"
 ---
 
 # § 2306a. Cost or pricing data: truth in negotiations
@@ -39,23 +39,33 @@ generated_at: "2026-03-29T18:04:13.141Z"
     - **(A)** for which the price agreed upon is based on—
       - **(i)** adequate price competition; or
       - **(ii)** prices set by law or regulation;
-    - **(B)** for the acquisition of a commercial item; or
-    - **(C)** in an exceptional case when the head of the procuring activity, without delegation, determines that the requirements of this section may be waived and justifies in writing the reasons for such determination.
+    - **(B)** for the acquisition of a commercial item;
+    - **(C)** in an exceptional case when the head of the procuring activity, without delegation, determines that the requirements of this section may be waived and justifies in writing the reasons for such determination; or
+    - **(D)** to the extent such data—
+      - **(i)** relates to an offset agreement in connection with a contract for the sale of a weapon system or defense-related item to a foreign country or foreign firm; and
+      - **(ii)** does not relate to a contract or subcontract under the offset agreement for work performed in such foreign country or by such foreign firm that is directly related to the weapon system or defense-related item being purchased under the contract.
   - **(2)** In the case of a modification of a contract or subcontract for a commercial item that is not covered by the exception to the submission of certified cost or pricing data in paragraph (1)(A) or (1)(B), submission of certified cost or pricing data shall not be required under subsection (a) if—
     - **(A)** the contract or subcontract being modified is a contract or subcontract for which submission of certified cost or pricing data may not be required by reason of paragraph (1)(A) or (1)(B); and
     - **(B)** the modification would not change the contract or subcontract, as the case may be, from a contract or subcontract for the acquisition of a commercial item to a contract or subcontract for the acquisition of an item other than a commercial item.
   - **(3)**
     - **(A)** The exception in paragraph (1)(B) does not apply to cost or pricing data on noncommercial modifications of a commercial item that are expected to cost, in the aggregate, more than the amount specified in subsection (a)(1)(A)(i), as adjusted from time to time under subsection (a)(7), or 5 percent of the total price of the contract (at the time of contract award), whichever is greater.
-    - **(B)** In this paragraph, the term “noncommercial modification”, with respect to a commercial item, means a modification of such item that is not a modification described in section 4(12)(C)(i) 1 1 See References in Text note below. of the Office of Federal Procurement Policy Act ( 41 U.S.C. 403(12)(C)(i) ).
+    - **(B)** In this paragraph, the term “noncommercial modification”, with respect to a commercial item, means a modification of such item that is not a modification described in section 103(3)(A) of title 41 .
     - **(C)** Nothing in subparagraph (A) shall be construed—
       - **(i)** to limit the applicability of the exception in subparagraph (A) or (C) of paragraph (1) to cost or pricing data on a noncommercial modification of a commercial item; or
       - **(ii)** to require the submission of cost or pricing data on any aspect of an acquisition of a commercial item other than the cost and pricing of noncommercial modifications of such item.
+  - **(4)**
+    - **(A)** For purposes of applying the commercial item exception under paragraph (1)(B) to the required submission of certified cost or pricing data, the contracting officer may presume that a prior commercial item determination made by a military department, a Defense Agency, or another component of the Department of Defense shall serve as a determination for subsequent procurements of such item.
+    - **(B)** If the contracting officer does not make the presumption described in subparagraph (A) and instead chooses to proceed with a procurement of an item previously determined to be a commercial item using procedures other than the procedures authorized for the procurement of a commercial item, the contracting officer shall request a review of the commercial item determination by the head of the contracting activity.
+    - **(C)** Not later than 30 days after receiving a request for review of a commercial item determination under subparagraph (B), the head of a contracting activity shall—
+      - **(i)** confirm that the prior determination was appropriate and still applicable; or
+      - **(ii)** issue a revised determination with a written explanation of the basis for the revision.
+  - **(5)** A contracting officer shall consider evidence provided by an offeror of recent purchase prices paid by the Government for the same or similar commercial items in establishing price reasonableness on a subsequent purchase if the contracting officer is satisfied that the prices previously paid remain a valid reference for comparison after considering the totality of other relevant factors such as the time elapsed since the prior purchase and any differences in the quantities purchased or applicable terms and conditions.
 - **(c)**
   - **(1)** Subject to paragraph (2), when certified cost or pricing data are not required to be submitted by subsection (a) for a contract, subcontract, or modification of a contract or subcontract, such data may nevertheless be required to be submitted by the head of the procuring activity, but only if the head of the procuring activity determines that such data are necessary for the evaluation by the agency of the reasonableness of the price of the contract, subcontract, or modification of a contract or subcontract. In any case in which the head of the procuring activity requires such data to be submitted under this subsection, the head of the procuring activity shall justify in writing the reason for such requirement.
   - **(2)** The head of the procuring activity may not require certified cost or pricing data to be submitted under this paragraph for any contract or subcontract, or modification of a contract or subcontract, covered by the exceptions in subparagraph (A) or (B) of subsection (b)(1).
   - **(3)** The head of a procuring activity may not delegate functions under this paragraph.
 - **(d)**
-  - **(1)** When certified cost or pricing data are not required to be submitted under this section for a contract, subcontract, or modification of a contract or subcontract, the contracting officer shall require submission of data other than certified cost or pricing data to the extent necessary to determine the reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract. Except in the case of a contract or subcontract covered by the exceptions in subsection (b)(1)(A), the contracting officer shall require that the data submitted include, at a minimum, appropriate information on the prices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price for the procurement.
+  - **(1)** When certified cost or pricing data are not required to be submitted under this section for a contract, subcontract, or modification of a contract or subcontract, the contracting officer shall require submission of data other than certified cost or pricing data to the extent necessary to determine the reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract. Except in the case of a contract or subcontract covered by the exceptions in subsection (b)(1)(A), the contracting officer shall require that the data submitted include, at a minimum, appropriate information on the prices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price for the procurement. If the contracting officer determines that the offeror does not have access to and cannot provide sufficient information on prices for the same or similar items to determine the reasonableness of price, the contracting officer shall require the submission of information on prices for similar levels of work or effort on related products or services, prices for alternative solutions or approaches, and other information that is relevant to the determination of a fair and reasonable price.
   - **(2)** The Federal Acquisition Regulation shall include the following provisions regarding the types of information that contracting officers may require under paragraph (1):
     - **(A)** Reasonable limitations on requests for sales data relating to commercial items.
     - **(B)** A requirement that a contracting officer limit, to the maximum extent practicable, the scope of any request for information relating to commercial items from an offeror to only that information that is in the form regularly maintained by the offeror in commercial operations.

@@ -3,9 +3,9 @@ title: "Section 2021 - Contributions to fund"
 usc_title: 50
 usc_section: "2021"
 chapter: 38
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 2021"
-generated_at: "2026-03-29T18:07:43.051Z"
+generated_at: "2026-03-29T18:27:35.624Z"
 ---
 
 # § 2021. Contributions to fund
@@ -38,5 +38,5 @@ generated_at: "2026-03-29T18:07:43.051Z"
     - **(A)** is employment for the purposes of title II of the Social Security Act [ 42 U.S.C. 401 et seq.] and chapter 21 of title 26, and
     - **(B)** is not creditable service for any purpose under subchapter III of this chapter or chapter 84 of title 5,
   - **(2)** The amount deducted and withheld from the basic pay of a participant during any pay period pursuant to paragraph (1) shall be the excess of—
-    - **(A)** the amount determined by multiplying the percent applicable to the participant under subsection (a) of this section by the basic pay payable to the participant for that pay period, over
+    - **(A)** the amount determined by multiplying the percent applicable to the participant under subsection (a) by the basic pay payable to the participant for that pay period, over
     - **(B)** the amount of the taxes deducted and withheld from such basic pay under section 3101(a) of title 26 (relating to old-age, survivors, and disability insurance) for that pay period.

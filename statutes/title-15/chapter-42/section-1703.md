@@ -3,9 +3,9 @@ title: "Section 1703 - Requirements respecting sale or lease of lots"
 usc_title: 15
 usc_section: "1703"
 chapter: 42
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 1703"
-generated_at: "2026-03-29T18:04:29.663Z"
+generated_at: "2026-03-29T18:24:08.508Z"
 ---
 
 # § 1703. Requirements respecting sale or lease of lots
@@ -27,4 +27,4 @@ generated_at: "2026-03-29T18:04:29.663Z"
   - **(1)** a description of the lot which makes such lot clearly identifiable and which is in a form acceptable for recording by the appropriate public official responsible for maintaining land records in the jurisdiction in which the lot is located;
   - **(2)** that, in the event of a default or breach of the contract or agreement by the purchaser or lessee, the seller or lessor (or successor thereof) will provide the purchaser or lessee with written notice of such default or breach and of the opportunity, which shall be given such purchaser or lessee, to remedy such default or breach within twenty days after the date of the receipt of such notice; and
   - **(3)** that, if the purchaser or lessee loses rights and interest in the lot as a result of a default or breach of the contract or agreement which occurs after the purchaser or lessee has paid 15 per centum of the purchase price of the lot, excluding any interest owed under the contract or agreement, the seller or lessor (or successor thereof) shall refund to such purchaser or lessee any amount which remains after subtracting (A) 15 per centum of the purchase price of the lot, excluding any interest owed under the contract or agreement, or the amount of damages incurred by the seller or lessor (or successor thereof) as a result of such breach, whichever is greater, from (B) the amount paid by the purchaser or lessee with respect to the purchase price of the lot, excluding any interest paid under the contract or agreement,
-- **(e)** If a contract or agreement is revoked pursuant to subsection (b), (c), or (d) of this section, if the purchaser or lessee tenders to the seller or lessor (or successor thereof) an instrument conveying his or her rights and interests in the lot, and if the rights and interests and the lot are in a condition which is substantially similar to the condition in which they were conveyed or purported to be conveyed to the purchaser or lessee, such purchaser or lessee shall be entitled to all money paid by him or her under such contract or agreement.
+- **(e)** If a contract or agreement is revoked pursuant to subsection (b), (c), or (d), if the purchaser or lessee tenders to the seller or lessor (or successor thereof) an instrument conveying his or her rights and interests in the lot, and if the rights and interests and the lot are in a condition which is substantially similar to the condition in which they were conveyed or purported to be conveyed to the purchaser or lessee, such purchaser or lessee shall be entitled to all money paid by him or her under such contract or agreement.

@@ -3,9 +3,9 @@ title: "Section 1685 - Regulations"
 usc_title: 16
 usc_section: "1685"
 chapter: 36
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 1685"
-generated_at: "2026-03-29T18:05:06.965Z"
+generated_at: "2026-03-29T18:24:22.823Z"
 ---
 
 # § 1685. Regulations

@@ -3,14 +3,14 @@ title: "Section 3712 - Panama Canal Revolving Fund"
 usc_title: 22
 usc_section: "3712"
 chapter: 51
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 3712"
-generated_at: "2026-03-29T18:05:21.916Z"
+generated_at: "2026-03-29T18:24:54.288Z"
 ---
 
 # § 3712. Panama Canal Revolving Fund
 
-- **(a)** There is established in the Treasury of the United States a revolving fund to be known as “Panama Canal Revolving Fund”. The Panama Canal Revolving Fund shall, subject to subsection (b) of this section, be available to the Commission to carry out the purposes, functions, and powers authorized by this chapter, including for the following purposes:
+- **(a)** There is established in the Treasury of the United States a revolving fund to be known as “Panama Canal Revolving Fund”. The Panama Canal Revolving Fund shall, subject to subsection (b), be available to the Commission to carry out the purposes, functions, and powers authorized by this chapter, including for the following purposes:
   - **(1)** The hire of passenger motor vehicles and aircraft.
   - **(2)** Uniforms or allowances therefor.
   - **(3)** Official receptions and representation expenses of the Board, the Secretary of the Commission, and the Administrator.

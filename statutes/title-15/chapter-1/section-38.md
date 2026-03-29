@@ -3,9 +3,9 @@ title: "Section 38 - Association of marine insurance companies; application of a
 usc_title: 15
 usc_section: "38"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 38"
-generated_at: "2026-03-29T18:04:29.286Z"
+generated_at: "2026-03-29T18:24:08.199Z"
 ---
 
 # § 38. Association of marine insurance companies; application of antitrust laws

@@ -3,9 +3,9 @@ title: "Section 4503 - Deposit of remainder of excess amount into Treasury as in
 usc_title: 15
 usc_section: "4503"
 chapter: 71
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 4503"
-generated_at: "2026-03-29T18:04:29.914Z"
+generated_at: "2026-03-29T18:24:08.602Z"
 ---
 
 # § 4503. Deposit of remainder of excess amount into Treasury as indirect restitution

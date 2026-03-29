@@ -3,9 +3,9 @@ title: "Section 54A - Credit to holders of qualified tax credit bonds"
 usc_title: 26
 usc_section: "54A"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 54A"
-generated_at: "2026-03-29T18:05:44.451Z"
+generated_at: "2026-03-29T18:25:53.403Z"
 ---
 
 # § 54A. Credit to holders of qualified tax credit bonds
@@ -32,7 +32,7 @@ generated_at: "2026-03-29T18:05:44.451Z"
     - **(E)** a qualified school construction bond,
   - **(2)**
     - **(A)** An issue shall be treated as meeting the requirements of this paragraph if, as of the date of issuance, the issuer reasonably expects—
-      - **(i)** 100 percent or more of the available project proceeds to be spent for 1 or more qualified purposes within the 3-year period beginning on such date of issuance, and
+      - **(i)** 100 percent of the available project proceeds to be spent for 1 or more qualified purposes within the 3-year period beginning on such date of issuance, and
       - **(ii)** a binding commitment with a third party to spend at least 10 percent of such available project proceeds will be incurred within the 6-month period beginning on such date of issuance.
     - **(B)**
       - **(i)** To the extent that less than 100 percent of the available project proceeds of the issue are expended by the close of the expenditure period for 1 or more qualified purposes, the issuer shall redeem all of the nonqualified bonds within 90 days after the end of such period. For purposes of this paragraph, the amount of the nonqualified bonds required to be redeemed shall be determined in the same manner as under section 142.

@@ -3,9 +3,9 @@ title: "Section 2385a - Unified personnel system"
 usc_title: 22
 usc_section: "2385a"
 chapter: 32
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 2385a"
-generated_at: "2026-03-29T18:05:21.846Z"
+generated_at: "2026-03-29T18:24:54.217Z"
 ---
 
 # § 2385a. Unified personnel system

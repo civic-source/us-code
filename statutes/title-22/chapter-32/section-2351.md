@@ -3,9 +3,9 @@ title: "Section 2351 - Encouragement of free enterprise and private participatio
 usc_title: 22
 usc_section: "2351"
 chapter: 32
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 2351"
-generated_at: "2026-03-29T18:05:21.838Z"
+generated_at: "2026-03-29T18:24:54.209Z"
 ---
 
 # § 2351. Encouragement of free enterprise and private participation
@@ -28,4 +28,4 @@ generated_at: "2026-03-29T18:05:21.838Z"
 - **(d)** It is the sense of Congress that the Agency for International Development should continue to encourage, to the maximum extent consistent with the national interest, the utilization of engineering and professional services of United States firms (including, but not limited to, any corporation, company, partnership, or other association) or by an affiliate of such United States firms in connection with capital projects financed by funds authorized under this chapter.
 - **(e)**
   - **(1)** The Congress finds that significantly greater effort must be made in carrying out programs under subchapter I of this chapter to award contracts on the basis of competitive selection procedures. All such contracts should be let on the basis of competitive selection procedures except in those limited cases in which the procurement regulations governing the agency primarily responsible for administering subchapter I of this chapter allow noncompetitive procedures to be used.
-  - **(2)** Repealed. Pub. L. 97–113, title VII, § 734(a)(1) , Dec. 29, 1981 , 95 Stat. 1560 .
+  - **(2)** Repealed. Pub. L. 97–113, title VII , § 734(a)(1), Dec. 29, 1981 , 95 Stat. 1560 .

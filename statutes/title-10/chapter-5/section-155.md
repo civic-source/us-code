@@ -3,9 +3,9 @@ title: "Section 155 - Joint Staff"
 usc_title: 10
 usc_section: "155"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 155"
-generated_at: "2026-03-29T18:04:12.965Z"
+generated_at: "2026-03-29T18:23:51.725Z"
 ---
 
 # § 155. Joint Staff
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T18:04:12.965Z"
   - **(3)** Selection of officers of an armed force to serve on the Joint Staff shall be made by the Chairman from a list of officers submitted by the Secretary of the military department having jurisdiction over that armed force. Each officer whose name is submitted shall be among those officers considered to be the most outstanding officers of that armed force. The Chairman may specify the number of officers to be included on any such list.
 - **(b)** The Chairman of the Joint Chiefs of Staff, after consultation with the other members of the Joint Chiefs of Staff and with the approval of the Secretary of Defense, may select an officer to serve as Director of the Joint Staff.
 - **(c)** The Chairman of the Joint Chiefs of Staff manages the Joint Staff and the Director of the Joint Staff. The Joint Staff shall perform such duties as the Chairman prescribes and shall perform such duties under such procedures as the Chairman prescribes.
-- **(d)** The Secretary of Defense shall ensure that the Joint Staff is independently organized and operated so that the Joint Staff supports the Chairman of the Joint Chiefs of Staff in meeting the congressional purpose set forth in the last clause of section 2 of the National Security Act of 1947 ( 50 U.S.C. 401 ) 1 1 See References in Text note below. to provide—
+- **(d)** The Secretary of Defense shall ensure that the Joint Staff is independently organized and operated so that the Joint Staff supports the Chairman of the Joint Chiefs of Staff in meeting the congressional purpose set forth in the last clause of section 2 of the National Security Act of 1947 ( 50 U.S.C. 3002 ) to provide—
   - **(1)** for the unified strategic direction of the combatant forces;
   - **(2)** for their operation under unified command; and
   - **(3)** for their integration into an efficient team of land, naval, and air forces.

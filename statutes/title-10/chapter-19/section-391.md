@@ -3,9 +3,9 @@ title: "Section 391 - Reporting on cyber incidents with respect to networks and 
 usc_title: 10
 usc_section: "391"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 391"
-generated_at: "2026-03-29T02:10:44.862Z"
+generated_at: "2026-03-29T18:23:51.737Z"
 ---
 
 # § 391. Reporting on cyber incidents with respect to networks and information systems of operationally critical contractors and certain other contractors
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T02:10:44.862Z"
     - **(C)** that conduct counterintelligence or law enforcement investigations; or
     - **(D)** for national security purposes, including cyber situational awareness and defense purposes.
 - **(d)**
-  - **(1)** No cause of action shall lie or be maintained in any court against any operationally critical contractor, and such action shall be promptly dismissed, for compliance with this section and contract requirements established pursuant to Defense Federal Acquisition Regulation Supplement clause 252.204-7012, Safeguarding Covered Defense Information and Cyber Incident Reporting, that is conducted in accordance with procedures established pursuant to subsection (b) and such contract requirements.
+  - **(1)** No cause of action shall lie or be maintained in any court against any operationally critical contractor, and such action shall be promptly dismissed, for compliance with this section that is conducted in accordance with procedures established pursuant to subsection (b).
   - **(2)**
     - **(A)** Nothing in this section shall be construed—
       - **(i)** to require dismissal of a cause of action against an operationally critical contractor that has engaged in willful misconduct in the course of complying with the procedures established pursuant to subsection (b); or

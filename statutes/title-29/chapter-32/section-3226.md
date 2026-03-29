@@ -3,9 +3,9 @@ title: "Section 3226 - YouthBuild program"
 usc_title: 29
 usc_section: "3226"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 3226"
-generated_at: "2026-03-29T02:14:09.528Z"
+generated_at: "2026-03-29T18:25:43.164Z"
 ---
 
 # § 3226. YouthBuild program
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T02:14:09.528Z"
     - **(G)** a community development corporation;
     - **(H)** a State or local youth service or conservation corps; and
     - **(I)** any other entity eligible to provide education or employment training under a Federal program (other than the program carried out under this section).
-  - **(4)** The term “homeless individual” means a homeless individual (as defined in section 12473(6) of title 34 ) or a homeless child or youth (as defined in section 11434a(2) of title 42 ).
+  - **(4)** The term “homeless individual” means a homeless individual (as defined in section 14043e–2(6) of title 42 ) or a homeless child or youth (as defined in section 11434a(2) of title 42 ).
   - **(5)** The term “housing development agency” means any agency of a State or local government, or any private nonprofit organization, that is engaged in providing housing for homeless individuals or low-income families.
   - **(6)** The term “income” has the meaning given the term in section 1437a(b) of title 42 .
   - **(7)** The terms “Indian” and “Indian tribe” have the meanings given such terms in section 5304 of title 25 .
@@ -40,7 +40,7 @@ generated_at: "2026-03-29T02:14:09.528Z"
   - **(10)** The term “registered apprenticeship program” means an apprenticeship program—
     - **(A)** registered under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; 50 Stat. 664 , chapter 663; 29 U.S.C. 50 et seq.); and
     - **(B)** that meets such other criteria as may be established by the Secretary under this section.
-  - **(11)** The term “transitional housing” has the meaning given the term in section 11360(29) 1 1 See References in Text note below. of title 42.
+  - **(11)** The term “transitional housing” has the meaning given the term in section 11360(29) of title 42 .
   - **(12)** The term “YouthBuild program” means any program that receives assistance under this section and provides disadvantaged youth with opportunities for employment, education, leadership development, and training through the rehabilitation (which, for purposes of this section, shall include energy efficiency enhancements) or construction of housing for homeless individuals and low-income families, and of public facilities.
 - **(c)**
   - **(1)** The Secretary is authorized to make grants to applicants for the purpose of carrying out YouthBuild programs approved under this section.

@@ -1,12 +1,12 @@
 ---
-title: "Section 1748a - Repealed. Pub. L. 89–117, title XI, § 1108(aa) , Aug. 10, 1965 , 79 Stat. 507"
+title: "Section 1748a - Repealed. Pub. L. 89–117, title XI , § 1108(aa), Aug. 10, 1965 , 79 Stat. 507"
 usc_title: 12
 usc_section: "1748a"
 chapter: 13
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 1748a"
-generated_at: "2026-03-29T18:04:43.525Z"
+generated_at: "2026-03-29T18:24:02.863Z"
 ---
 
-# § 1748a. Repealed. Pub. L. 89–117, title XI, § 1108(aa) , Aug. 10, 1965 , 79 Stat. 507
+# § 1748a. Repealed. Pub. L. 89–117, title XI , § 1108(aa), Aug. 10, 1965 , 79 Stat. 507
 

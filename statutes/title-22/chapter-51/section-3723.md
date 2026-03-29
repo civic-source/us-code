@@ -3,14 +3,14 @@ title: "Section 3723 - Audits"
 usc_title: 22
 usc_section: "3723"
 chapter: 51
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 3723"
-generated_at: "2026-03-29T18:05:21.917Z"
+generated_at: "2026-03-29T18:24:54.289Z"
 ---
 
 # § 3723. Audits
 
-- **(a)** Notwithstanding any other provision of law, and subject to subsection (c) of this section, financial transactions of the Commission shall be audited by the Comptroller General of the United States (hereinafter in this chapter referred to as the “Comptroller General”). In conducting any such audit, the appropriate representatives of the Comptroller General shall have access to all books, accounts, financial records, reports, files, and other papers, items, or property in use by the Commission and necessary to facilitate such audit, and such representatives shall be afforded full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians. Any such audit shall first be conducted with respect to the fiscal year in which this chapter becomes effective. An audit performed under this section is subject to the requirements of paragraphs (2), (3), and (5) of section 9105(a) of title 31 .
+- **(a)** Notwithstanding any other provision of law, and subject to subsection (c), financial transactions of the Commission shall be audited by the Comptroller General of the United States (hereinafter in this chapter referred to as the “Comptroller General”). In conducting any such audit, the appropriate representatives of the Comptroller General shall have access to all books, accounts, financial records, reports, files, and other papers, items, or property in use by the Commission and necessary to facilitate such audit, and such representatives shall be afforded full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians. Any such audit shall first be conducted with respect to the fiscal year in which this chapter becomes effective. An audit performed under this section is subject to the requirements of paragraphs (2), (3), and (5) of section 9105(a) of title 31 .
 - **(b)**
-- **(c)** At the discretion of the Board provided for in section 3612 of this title , the Commission may hire independent auditors to perform, in lieu of the Comptroller General, the audit and reporting functions prescribed in subsections (a) and (b) of this section.
-- **(d)** In addition to auditing the financial statements of the Commission, the Comptroller General (or the independent auditor if one is employed pursuant to subsection (c) of this section) shall, in accordance with standards for an examination of a financial forecast established by the American Institute of Certified Public Accountants, examine and report on the Commission’s financial forecast that it will be in a position to meet its financial liabilities on December 31, 1999 .
+- **(c)** At the discretion of the Board provided for in section 3612 of this title , the Commission may hire independent auditors to perform, in lieu of the Comptroller General, the audit and reporting functions prescribed in subsections (a) and (b).
+- **(d)** In addition to auditing the financial statements of the Commission, the Comptroller General (or the independent auditor if one is employed pursuant to subsection (c)) shall, in accordance with standards for an examination of a financial forecast established by the American Institute of Certified Public Accountants, examine and report on the Commission’s financial forecast that it will be in a position to meet its financial liabilities on December 31, 1999 .

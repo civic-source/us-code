@@ -3,9 +3,9 @@ title: "Section 1313 - Water quality standards and implementation plans"
 usc_title: 33
 usc_section: "1313"
 chapter: 26
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 1313"
-generated_at: "2026-03-29T18:06:10.546Z"
+generated_at: "2026-03-29T18:26:01.240Z"
 ---
 
 # § 1313. Water quality standards and implementation plans
@@ -63,5 +63,5 @@ generated_at: "2026-03-29T18:06:10.546Z"
     - **(B)** Not later than 36 months after the date of publication by the Administrator of new or revised water quality criteria under section 1314(a)(9) of this title , each State having coastal recreation waters shall adopt and submit to the Administrator new or revised water quality standards for the coastal recreation waters of the State for all pathogens and pathogen indicators to which the new or revised water quality criteria are applicable.
   - **(2)**
     - **(A)** If a State fails to adopt water quality criteria and standards in accordance with paragraph (1)(A) that are as protective of human health as the criteria for pathogens and pathogen indicators for coastal recreation waters published by the Administrator, the Administrator shall promptly propose regulations for the State setting forth revised or new water quality standards for pathogens and pathogen indicators described in paragraph (1)(A) for coastal recreation waters of the State.
-    - **(B)** If the Administrator proposes regulations for a State described in subparagraph (A) under subsection (c)(4)(B) of this section, the Administrator shall publish any revised or new standard under this subsection not later than 42 months after October 10, 2000 .
-  - **(3)** Except as expressly provided by this subsection, the requirements and procedures of subsection (c) of this section apply to this subsection, including the requirement in subsection (c)(2)(A) of this section that the criteria protect public health and welfare.
+    - **(B)** If the Administrator proposes regulations for a State described in subparagraph (A) under subsection (c)(4)(B), the Administrator shall publish any revised or new standard under this subsection not later than 42 months after October 10, 2000 .
+  - **(3)** Except as expressly provided by this subsection, the requirements and procedures of subsection (c) apply to this subsection, including the requirement in subsection (c)(2)(A) that the criteria protect public health and welfare.

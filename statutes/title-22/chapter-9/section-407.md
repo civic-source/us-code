@@ -1,12 +1,12 @@
 ---
-title: "Section 407 - Repealed. Aug. 13, 1953, ch. 434, § 2 , 67 Stat. 577"
+title: "Section 407 - Repealed. Aug. 13, 1953, ch. 434 , § 2, 67 Stat. 577"
 usc_title: 22
 usc_section: "407"
 chapter: 9
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 407"
-generated_at: "2026-03-29T18:05:21.757Z"
+generated_at: "2026-03-29T18:24:54.139Z"
 ---
 
-# § 407. Repealed. Aug. 13, 1953, ch. 434, § 2 , 67 Stat. 577
+# § 407. Repealed. Aug. 13, 1953, ch. 434 , § 2, 67 Stat. 577
 

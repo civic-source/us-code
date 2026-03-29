@@ -1,14 +1,14 @@
 ---
-title: "Section 502 - Procurement of printing, binding, and blank-book work by Public Printer"
+title: "Section 502 - Procurement of printing, binding, and blank-book work by Director of the Government Publishing Office"
 usc_title: 44
 usc_section: "502"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "44 U.S.C. § 502"
-generated_at: "2026-03-29T18:06:33.609Z"
+generated_at: "2026-03-29T18:26:16.104Z"
 ---
 
-# § 502. Procurement of printing, binding, and blank-book work by Public Printer
+# § 502. Procurement of printing, binding, and blank-book work by Director of the Government Publishing Office
 
-Printing, binding, and blank-book work authorized by law, which the Public Printer is not able or equipped to do at the Government Printing Office, may be produced elsewhere under contracts made by him with the approval of the Joint Committee on Printing.
+Printing, binding, and blank-book work authorized by law, which the Director of the Government Publishing Office is not able or equipped to do at the Government Publishing Office, may be produced elsewhere under contracts made by him with the approval of the Joint Committee on Printing.
 

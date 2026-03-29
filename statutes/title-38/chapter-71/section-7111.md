@@ -3,9 +3,9 @@ title: "Section 7111 - Revision of decisions on grounds of clear and unmistakabl
 usc_title: 38
 usc_section: "7111"
 chapter: 71
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "38 U.S.C. § 7111"
-generated_at: "2026-03-29T18:06:22.836Z"
+generated_at: "2026-03-29T18:26:07.648Z"
 ---
 
 # § 7111. Revision of decisions on grounds of clear and unmistakable error

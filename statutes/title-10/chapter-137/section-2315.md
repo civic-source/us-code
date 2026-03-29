@@ -3,12 +3,12 @@ title: "Section 2315 - Law inapplicable to the procurement of automatic data pro
 usc_title: 10
 usc_section: "2315"
 chapter: 137
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2315"
-generated_at: "2026-03-29T18:04:13.144Z"
+generated_at: "2026-03-29T18:23:51.912Z"
 ---
 
 # § 2315. Law inapplicable to the procurement of automatic data processing equipment and services for certain defense purposes
 
-For purposes of subtitle III of title 40, the term “national security system”, with respect to a telecommunications and information system operated by the Department of Defense, has the meaning given that term by section 3542(b)(2) of title 44 .
+For purposes of subtitle III of title 40, the term “national security system”, with respect to a telecommunications and information system operated by the Department of Defense, has the meaning given that term by section 3552(b)(6) of title 44 .
 

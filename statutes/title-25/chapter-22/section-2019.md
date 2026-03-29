@@ -3,16 +3,16 @@ title: "Section 2019 - Early childhood development program"
 usc_title: 25
 usc_section: "2019"
 chapter: 22
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 2019"
-generated_at: "2026-03-29T18:05:17.207Z"
+generated_at: "2026-03-29T18:25:23.769Z"
 ---
 
 # § 2019. Early childhood development program
 
 - **(a)** The Secretary shall provide grants to tribes, tribal organizations, and consortia of tribes and tribal organizations to fund early childhood development programs that are operated by such tribes, organizations, or consortia.
 - **(b)**
-  - **(1)** The total amount of the grants provided under subsection (a) of this section with respect to each tribe, tribal organization, or consortium of tribes or tribal organizations for each fiscal year shall be equal to the amount which bears the same relationship to the total amount appropriated under the authority of subsection (g) of this section for such fiscal year (less amounts provided under subsection (f) of this section) as—
+  - **(1)** The total amount of the grants provided under subsection (a) with respect to each tribe, tribal organization, or consortium of tribes or tribal organizations for each fiscal year shall be equal to the amount which bears the same relationship to the total amount appropriated under the authority of subsection (g) for such fiscal year (less amounts provided under subsection (f)) as—
     - **(A)** the total number of children under 6 years of age who are members of—
       - **(i)** such tribe;
       - **(ii)** the tribe that authorized such tribal organization; or
@@ -20,19 +20,19 @@ generated_at: "2026-03-29T18:05:17.207Z"
         - **(I)** is a member of such consortium; or
         - **(II)** authorizes any tribal organization that is a member of such consortium; bears to
     - **(B)** the total number of all children under 6 years of age who are members of any tribe that—
-      - **(i)** is eligible to receive funds under subsection (a) of this section;
+      - **(i)** is eligible to receive funds under subsection (a);
       - **(ii)** is a member of a consortium that is eligible to receive such funds; or
       - **(iii)** authorizes a tribal organization that is eligible to receive such funds.
-  - **(2)** No grant may be provided under subsection (a) of this section—
+  - **(2)** No grant may be provided under subsection (a)—
     - **(A)** to any tribe that has less than 500 members;
     - **(B)** to any tribal organization which is authorized—
       - **(i)** by only one tribe that has less than 500 members; or
       - **(ii)** by one or more tribes that have a combined total membership of less than 500 members; or
     - **(C)** to any consortium composed of tribes, or tribal organizations authorized by tribes, that have a combined total tribal membership of less than 500 members.
 - **(c)**
-  - **(1)** A grant may be provided under subsection (a) of this section to a tribe, tribal organization, or consortium of tribes and tribal organizations only if the tribe, organization, or consortium submits to the Secretary an application for the grant at such time and in such form as the Secretary shall prescribe.
+  - **(1)** A grant may be provided under subsection (a) to a tribe, tribal organization, or consortium of tribes and tribal organizations only if the tribe, organization, or consortium submits to the Secretary an application for the grant at such time and in such form as the Secretary shall prescribe.
   - **(2)** Applications submitted under paragraph (1) shall set forth the early childhood development program that the applicant desires to operate.
-- **(d)** The early childhood development programs that are funded by grants provided under subsection (a) of this section—
+- **(d)** The early childhood development programs that are funded by grants provided under subsection (a)—
   - **(1)** shall coordinate existing programs and may provide services that meet identified needs of parents and children under 6 years of age which are not being met by existing programs, including—
     - **(A)** prenatal care;
     - **(B)** nutrition education;
@@ -42,6 +42,6 @@ generated_at: "2026-03-29T18:05:17.207Z"
     - **(F)** other educational services;
   - **(2)** may include instruction in the language, art, and culture of the tribe; and
   - **(3)** shall provide for periodic assessment of the program.
-- **(e)** Family literacy programs operated under this section and other family literacy programs operated by the Bureau of Indian Affairs shall be coordinated with family literacy programs for Indian children under part B of title I of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6361 et seq.] in order to avoid duplication and to encourage the dissemination of information on quality family literacy programs serving Indians.
-- **(f)** The Secretary shall, out of funds appropriated under subsection (g) of this section, include in the grants provided under subsection (a) of this section amounts for administrative costs incurred by the tribe, tribal organization, or consortium of tribes in establishing and maintaining the early childhood development program.
+- **(e)** Family literacy programs operated under this section and other family literacy programs operated by the Bureau of Indian Affairs shall be coordinated with family literacy programs for Indian children under subpart 2 of part B of title II of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6641 et seq.] in order to avoid duplication and to encourage the dissemination of information on quality family literacy programs serving Indians.
+- **(f)** The Secretary shall, out of funds appropriated under subsection (g), include in the grants provided under subsection (a) amounts for administrative costs incurred by the tribe, tribal organization, or consortium of tribes in establishing and maintaining the early childhood development program.
 - **(g)** There are authorized to be appropriated to carry out this section such sums as may be necessary.

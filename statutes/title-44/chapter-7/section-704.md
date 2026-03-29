@@ -3,12 +3,12 @@ title: "Section 704 - Reprinting bills, laws, and reports from committees not ex
 usc_title: 44
 usc_section: "704"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "44 U.S.C. § 704"
-generated_at: "2026-03-29T18:06:33.610Z"
+generated_at: "2026-03-29T18:26:16.105Z"
 ---
 
 # § 704. Reprinting bills, laws, and reports from committees not exceeding fifty pages
 
-When the supply is exhausted, the Secretary of the Senate and the Clerk of the House of Representatives may order the reprinting of not more than one thousand copies of a pending bill, resolution, or public law, not exceeding fifty pages, or a report from a committee or congressional commission on pending legislation not accompanied by testimony or exhibits or other appendices and not exceeding fifty pages. The Public Printer shall require each requisition for reprinting to cite the specific authority of law for its execution.
+When the supply is exhausted, the Secretary of the Senate and the Clerk of the House of Representatives may order the reprinting of not more than one thousand copies of a pending bill, resolution, or public law, not exceeding fifty pages, or a report from a committee or congressional commission on pending legislation not accompanied by testimony or exhibits or other appendices and not exceeding fifty pages. The Director of the Government Publishing Office shall require each requisition for reprinting to cite the specific authority of law for its execution.
 

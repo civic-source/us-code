@@ -3,9 +3,9 @@ title: "Section 7309 - Readjustment Counseling Service"
 usc_title: 38
 usc_section: "7309"
 chapter: 73
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "38 U.S.C. § 7309"
-generated_at: "2026-03-29T18:06:22.841Z"
+generated_at: "2026-03-29T18:26:07.654Z"
 ---
 
 # § 7309. Readjustment Counseling Service
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T18:06:22.841Z"
     - **(D)** meet the quality standards and requirements of the Department; and
     - **(E)** are veterans who served in combat as members of the Armed Forces.
 - **(c)**
-  - **(1)** The Readjustment Counseling Service is a distinct organizational element within Veterans 1 1 So in original. Probably should be preceded by “the”. Health Administration.
+  - **(1)** The Readjustment Counseling Service is a distinct organizational element within the Veterans Health Administration.
   - **(2)** The Readjustment Counseling Service shall provide counseling and services as described in subsection (a).
   - **(3)** The Chief Officer shall have direct authority over all Readjustment Counseling Service staff and assets, including Vet Centers.
 - **(d)**

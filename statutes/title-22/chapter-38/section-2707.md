@@ -3,14 +3,14 @@ title: "Section 2707 - International communications and information policy; duti
 usc_title: 22
 usc_section: "2707"
 chapter: 38
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 2707"
-generated_at: "2026-03-29T18:05:21.880Z"
+generated_at: "2026-03-29T18:24:54.250Z"
 ---
 
 # § 2707. International communications and information policy; duties of Secretary of State
 
-- **(a)** Repealed. Pub. L. 103–236, title I, § 162(k)(1)(A) , Apr. 30, 1994 , 108 Stat. 408 .
+- **(a)** Repealed. Pub. L. 103–236, title I , § 162(k)(1)(A), Apr. 30, 1994 , 108 Stat. 408 .
 - **(b)** The Secretary of State shall be responsible for formulation, coordination, and oversight of foreign policy related to international communications and information policy. The Secretary of State shall—
   - **(1)** exercise primary authority for the conduct of foreign policy with respect to such telecommunications functions, including the determination of United States positions and the conduct of United States participation in negotiations with foreign governments and international bodies. In exercising this responsibility, the Secretary shall coordinate with other agencies as appropriate, and, in particular, shall give full consideration to the authority vested by law or Executive order in the Federal Communications Commission, the Department of Commerce and the Office of the United States Trade Representative in this area;
   - **(2)** maintain continuing liaison with other executive branch agencies concerned with international communications and information policy and with the Federal Communications Commission, as appropriate;

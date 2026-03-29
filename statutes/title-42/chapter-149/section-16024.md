@@ -3,9 +3,9 @@ title: "Section 16024 - Nuclear Regulatory Commission"
 usc_title: 42
 usc_section: "16024"
 chapter: 149
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 16024"
-generated_at: "2026-03-29T18:07:15.446Z"
+generated_at: "2026-03-29T18:27:04.207Z"
 ---
 
 # § 16024. Nuclear Regulatory Commission

@@ -3,9 +3,9 @@ title: "Section 1223a - Electronic charts"
 usc_title: 33
 usc_section: "1223a"
 chapter: 25
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 1223a"
-generated_at: "2026-03-29T18:06:10.527Z"
+generated_at: "2026-03-29T18:26:01.220Z"
 ---
 
 # § 1223a. Electronic charts
@@ -19,4 +19,4 @@ generated_at: "2026-03-29T18:06:10.527Z"
   - **(2)** The Secretary may—
     - **(A)** exempt a vessel from paragraph (1), if the Secretary finds that electronic charts are not necessary for the safe navigation of the vessel on the waters on which the vessel operates; and
     - **(B)** waive the application of paragraph (1) with respect to operation of vessels on navigable waters of the United States specified by the Secretary, if the Secretary finds that electronic charts are not needed for safe navigation on those waters.
-- **(b)** The Secretary of the department in which the Coast Guard is operating shall prescribe regulations implementing subsection (a) of this section before January 1, 2007 , including requirements for the operation and maintenance of the electronic charts required under subsection (a) of this section.
+- **(b)** The Secretary of the department in which the Coast Guard is operating shall prescribe regulations implementing subsection (a) before January 1, 2007 , including requirements for the operation and maintenance of the electronic charts required under subsection (a).

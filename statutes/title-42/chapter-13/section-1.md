@@ -3,15 +3,15 @@ title: "Section 1 - Training, technical assistance, and food service management 
 usc_title: 42
 usc_section: "1"
 chapter: 13
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-29T18:07:14.306Z"
+generated_at: "2026-03-29T18:27:03.362Z"
 ---
 
 # § 1769b–1. Training, technical assistance, and food service management institute
 
 - **(a)** The Secretary—
-  - **(1)** subject to the availability of, and from, amounts appropriated pursuant to subsection (e)(1) of this section, shall conduct training activities and provide—
+  - **(1)** subject to the availability of, and from, amounts appropriated pursuant to subsection (e)(1), shall conduct training activities and provide—
     - **(A)** training and technical assistance to improve the skills of individuals employed in—
       - **(i)** food service programs carried out with assistance under this chapter and, to the maximum extent practicable, using individuals who administer exemplary local food service programs in the State;
       - **(ii)** school breakfast programs carried out with assistance under section 1773 of this title ; and
@@ -25,13 +25,13 @@ generated_at: "2026-03-29T18:07:14.306Z"
     - **(C)** assistance, on a competitive basis, to State agencies with low proportions of schools or students that—
       - **(i)** participate in the school breakfast program under section 1773 of this title ; and
       - **(ii)** demonstrate the greatest need, for the purpose of aiding schools in meeting costs associated with initiating or expanding a school breakfast program under section 1773 of this title , including outreach and informational activities; and
-  - **(2)** from amounts appropriated pursuant to subsection (e)(2) of this section, is authorized to provide financial and other assistance to the University of Mississippi, in cooperation with the University of Southern Mississippi, to establish and maintain a food service management institute.
-- **(b)** The activities conducted and assistance provided as required by subsection (a)(1) of this section shall at least include activities and assistance with respect to—
+  - **(2)** from amounts appropriated pursuant to subsection (e)(2), is authorized to provide financial and other assistance to the University of Mississippi, in cooperation with the University of Southern Mississippi, to establish and maintain a food service management institute.
+- **(b)** The activities conducted and assistance provided as required by subsection (a)(1) shall at least include activities and assistance with respect to—
   - **(1)** menu planning;
   - **(2)** implementation of regulations and appropriate guidelines; and
   - **(3)** compliance with program requirements and accountability for program operations.
 - **(c)**
-  - **(1)** Any food service management institute established as authorized by subsection (a)(2) of this section shall carry out activities to improve the general operation and quality of—
+  - **(1)** Any food service management institute established as authorized by subsection (a)(2) shall carry out activities to improve the general operation and quality of—
     - **(A)** food service programs assisted under this chapter;
     - **(B)** school breakfast programs assisted under section 1773 of this title ; and
     - **(C)** as appropriate, other federally assisted feeding programs.
@@ -54,14 +54,14 @@ generated_at: "2026-03-29T18:07:14.306Z"
     - **(G)** preparing informational materials, such as video instruction tapes and menu planners, to promote healthier food preparation; and
     - **(H)** assisting State educational agencies in providing additional nutrition and health instructions and instructors, including training personnel to comply with the nutrition guidance and objectives established by the Secretary.
 - **(d)**
-  - **(1)** The Secretary shall coordinate activities carried out and assistance provided as required by subsection (b) of this section with activities carried out by any food service management institute established as authorized by subsection (a)(2) of this section.
-  - **(2)** The Secretary shall use any food service management institute established under subsection (a)(2) of this section to assist in carrying out dietary and nutrition activities of the Secretary.
+  - **(1)** The Secretary shall coordinate activities carried out and assistance provided as required by subsection (b) with activities carried out by any food service management institute established as authorized by subsection (a)(2).
+  - **(2)** The Secretary shall use any food service management institute established under subsection (a)(2) to assist in carrying out dietary and nutrition activities of the Secretary.
 - **(e)**
   - **(1)**
     - **(A)** In addition to any amounts otherwise made available for fiscal year 2011, on October 1, 2010 , and each October 1 thereafter, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary to carry out subsection (a)(2) $5,000,000, to remain available until expended.
     - **(B)** The Secretary shall be entitled to receive, shall accept, and shall use to carry out subsection (a)(2) the funds transferred under subparagraph (A), without further appropriation.
-  - **(2)** In addition to amounts made available under paragraph (1), there are authorized to be appropriated to carry out subsection (a)(2) of this section such sums as are necessary for fiscal year 1995 and each subsequent fiscal year. The Secretary shall carry out activities under subsection (a)(2) of this section, in addition to the activities funded under paragraph (1), to the extent provided for, and in such amounts as are provided for, in advance in appropriations Acts.
-  - **(3)** In addition to amounts made available under paragraphs (1) and (2), from amounts otherwise appropriated to the Secretary in discretionary appropriations, the Secretary may provide funds to any food service management institute established under subsection (a)(2) of this section for projects specified by the Secretary that will contribute to implementing dietary or nutrition initiatives. Any additional funding under this subparagraph shall be provided noncompetitively in a separate cooperative agreement.
+  - **(2)** In addition to amounts made available under paragraph (1), there are authorized to be appropriated to carry out subsection (a)(2) such sums as are necessary for fiscal year 1995 and each subsequent fiscal year. The Secretary shall carry out activities under subsection (a)(2), in addition to the activities funded under paragraph (1), to the extent provided for, and in such amounts as are provided for, in advance in appropriations Acts.
+  - **(3)** In addition to amounts made available under paragraphs (1) and (2), from amounts otherwise appropriated to the Secretary in discretionary appropriations, the Secretary may provide funds to any food service management institute established under subsection (a)(2) for projects specified by the Secretary that will contribute to implementing dietary or nutrition initiatives. Any additional funding under this subparagraph shall be provided noncompetitively in a separate cooperative agreement.
 - **(f)** In collaboration with State educational agencies, local educational agencies, and school food authorities of varying sizes, the Secretary shall develop and distribute training and technical assistance material relating to the administration of school meals programs that are representative of the best management and administrative practices.
 - **(g)**
   - **(1)**

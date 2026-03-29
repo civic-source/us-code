@@ -1,12 +1,12 @@
 ---
-title: "Section 2030 - Repealed. Pub. L. 110–234, title IV, § 4115(b)(14) , May 22, 2008 , 122 Stat. 1108 , and Pub. L. 110–246, § 4(a) , title IV, § 4115(b)(14), June 18, 2008 , 122 Stat. 1664 , 1870"
+title: "Section 2030 - Repealed. Pub. L. 110–234, title IV , § 4115(b)(14), May 22, 2008 , 122 Stat. 1108 , and Pub. L. 110–246 , § 4(a), title IV, § 4115(b)(14), June 18, 2008 , 122 Stat. 1664 , 1870"
 usc_title: 7
 usc_section: "2030"
 chapter: 51
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 2030"
-generated_at: "2026-03-29T18:04:04.967Z"
+generated_at: "2026-03-29T18:23:43.375Z"
 ---
 
-# § 2030. Repealed. Pub. L. 110–234, title IV, § 4115(b)(14) , May 22, 2008 , 122 Stat. 1108 , and Pub. L. 110–246, § 4(a) , title IV, § 4115(b)(14), June 18, 2008 , 122 Stat. 1664 , 1870
+# § 2030. Repealed. Pub. L. 110–234, title IV , § 4115(b)(14), May 22, 2008 , 122 Stat. 1108 , and Pub. L. 110–246 , § 4(a), title IV, § 4115(b)(14), June 18, 2008 , 122 Stat. 1664 , 1870
 

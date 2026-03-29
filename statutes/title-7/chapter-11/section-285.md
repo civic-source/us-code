@@ -3,9 +3,9 @@ title: "Section 285 - Uses of funds"
 usc_title: 7
 usc_section: "285"
 chapter: 11
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 285"
-generated_at: "2026-03-29T18:04:04.761Z"
+generated_at: "2026-03-29T18:23:43.190Z"
 ---
 
 # § 285. Uses of funds

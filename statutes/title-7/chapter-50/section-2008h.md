@@ -3,14 +3,14 @@ title: "Section 2008h - Loan and loan servicing limitations"
 usc_title: 7
 usc_section: "2008h"
 chapter: 50
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 2008h"
-generated_at: "2026-03-29T18:04:04.924Z"
+generated_at: "2026-03-29T18:23:43.337Z"
 ---
 
 # § 2008h. Loan and loan servicing limitations
 
-- **(a)** The Secretary may not make a direct operating loan under subchapter II of this chapter to a borrower who is delinquent on any loan made or guaranteed under this chapter.
+- **(a)** The Secretary may not make a direct operating loan under subchapter II to a borrower who is delinquent on any loan made or guaranteed under this chapter.
 - **(b)**
   - **(1)** Except as provided in paragraph (2)—
     - **(A)** the Secretary may not make a loan under this chapter to a borrower that has received debt forgiveness on a loan made or guaranteed under this chapter; and

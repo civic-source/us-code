@@ -3,9 +3,9 @@ title: "Section 7701 - Definitions"
 usc_title: 26
 usc_section: "7701"
 chapter: 79
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 7701"
-generated_at: "2026-03-29T18:05:45.066Z"
+generated_at: "2026-03-29T18:25:53.984Z"
 ---
 
 # § 7701. Definitions
@@ -50,7 +50,7 @@ generated_at: "2026-03-29T18:05:45.066Z"
       - **(ix)** loans made for the payment of expenses of college or university education or vocational training, in accordance with such regulations as may be prescribed by the Secretary,
       - **(x)** property used by the association in the conduct of the business described in subparagraph (B), and
       - **(xi)** any regular or residual interest in a REMIC, but only in the proportion which the assets of such REMIC consist of property described in any of the preceding clauses of this subparagraph; except that if 95 percent or more of the assets of such REMIC are assets described in clauses (i) through (x), the entire interest in the REMIC shall qualify.
-  - **(20)** For the purpose of applying the provisions of section 79 with respect to group-term life insurance purchased for employees, for the purpose of applying the provisions of sections 104, 105, and 106 with respect to accident and health insurance or accident and health plans, and for the purpose of applying the provisions of subtitle A with respect to contributions to or under a stock bonus, pension, profit-sharing, or annuity plan, and with respect to distributions under such a plan, or by a trust forming part of such a plan, and for purposes of applying section 125 with respect to cafeteria plans, the term “employee” shall include a full-time life insurance salesman who is considered an employee for the purpose of chapter 21, or in the case of services performed before January 1, 1951 , who would be considered an employee if his services were performed during 1951.
+  - **(20)** For the purpose of applying the provisions of section 79 with respect to group-term life insurance purchased for employees, for the purpose of applying the provisions of sections 104, 105, and 106 with respect to accident and health insurance or accident and health plans, and for the purpose of applying the provisions of subtitle A with respect to contributions to or under a stock bonus, pension, profit-sharing, or annuity plan, and with respect to distributions under such a plan, or by a trust forming part of such a plan, and for purposes of applying section 125 with respect to cafeteria plans, the term “employee” shall include a full-time life insurance salesman who is considered an employee for the purpose of chapter 21.
   - **(21)** The term “levy” includes the power of distraint and seizure by any means.
   - **(22)** The term “Attorney General” means the Attorney General of the United States.
   - **(23)** The term “taxable year” means the calendar year, or the fiscal year ending during such calendar year, upon the basis of which the taxable income is computed under subtitle A. “Taxable year” means, in the case of a return made for a fractional part of a year under the provisions of subtitle A or under regulations prescribed by the Secretary, the period for which such return is made.
@@ -153,7 +153,7 @@ generated_at: "2026-03-29T18:05:45.066Z"
   - **(3)**
     - **(A)** Except as otherwise provided in this paragraph, an individual meets the substantial presence test of this paragraph with respect to any calendar year (hereinafter in this subsection referred to as the “current year”) if—
       - **(i)** such individual was present in the United States on at least 31 days during the calendar year, and
-      - **(ii)** the sum of the number of days on which such individual was present in the United States during the current year and the 2 preceding calendar years (when multiplied by the applicable multiplier determined under the following table) equals or exceeds 183 days: The applicable In the case of days in: multiplier is: Current year 1 1st preceding year ⅓ 2nd preceding year ⅙
+      - **(ii)** the sum of the number of days on which such individual was present in the United States during the current year and the 2 preceding calendar years (when multiplied by the applicable multiplier determined under the following table) equals or exceeds 183 days: In the case of days in: The applicable multiplier is: Current year 1 1st preceding year ⅓ 2nd preceding year ⅙
     - **(B)** An individual shall not be treated as meeting the substantial presence test of this paragraph with respect to any current year if—
       - **(i)** such individual is present in the United States on fewer than 183 days during the current year, and
       - **(ii)** it is established that for the current year such individual has a tax home (as defined in section 911(d)(3) without regard to the second sentence thereof) in a foreign country and has a closer connection to such foreign country than to the United States.

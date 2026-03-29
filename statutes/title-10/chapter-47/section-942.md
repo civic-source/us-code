@@ -3,9 +3,9 @@ title: "Section 942 - Art. 142. Judges"
 usc_title: 10
 usc_section: "942"
 chapter: 47
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 942"
-generated_at: "2026-03-29T18:04:13.024Z"
+generated_at: "2026-03-29T18:23:51.771Z"
 ---
 
 # § 942. Art. 142. Judges
@@ -14,10 +14,10 @@ generated_at: "2026-03-29T18:04:13.024Z"
 - **(b)**
   - **(1)** Each judge of the court shall be appointed from civilian life by the President, by and with the advice and consent of the Senate, for a specified term determined under paragraph (2). A judge may serve as a senior judge as provided in subsection (e).
   - **(2)** The term of a judge shall expire as follows:
-    - **(A)** In the case of a judge who is appointed after March 31 and before October 1 of any year, the term shall expire on September 30 of the year in which the fifteenth anniversary of the appointment occurs.
-    - **(B)** In the case of a judge who is appointed after September 30 of any year and before April 1 of the following year, the term shall expire fifteen years after such September 30.
+    - **(A)** In the case of a judge who is appointed after January 31 and before July 31 of any year, the term shall expire on July 31 of the year in which the fifteenth anniversary of the appointment occurs.
+    - **(B)** In the case of a judge who is appointed after July 31 of any year and before February 1 of the following year, the term shall expire fifteen years after such July 31.
   - **(3)** Not more than three of the judges of the court may be appointed from the same political party, and no person may be appointed to be a judge of the court unless the person is a member of the bar of a Federal court or the highest court of a State.
-  - **(4)** For purposes of appointment of judges to the court, a person retired from the armed forces after 20 or more years of active service (whether or not such person is on the retired list) shall not be considered to be in civilian life.
+  - **(4)** A person may not be appointed as a judge of the court within seven years after retirement from active duty as a commissioned officer of a regular component of an armed force.
 - **(c)** Judges of the court may be removed from office by the President, upon notice and hearing, for—
   - **(1)** neglect of duty;
   - **(2)** misconduct; or

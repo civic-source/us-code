@@ -3,9 +3,9 @@ title: "Section 402 - Transportation of humanitarian relief supplies to foreign 
 usc_title: 10
 usc_section: "402"
 chapter: 20
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 402"
-generated_at: "2026-03-29T18:04:12.980Z"
+generated_at: "2026-03-29T18:23:51.738Z"
 ---
 
 # § 402. Transportation of humanitarian relief supplies to foreign countries

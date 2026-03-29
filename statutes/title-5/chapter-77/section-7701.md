@@ -3,9 +3,9 @@ title: "Section 7701 - Appellate procedures"
 usc_title: 5
 usc_section: "7701"
 chapter: 77
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 7701"
-generated_at: "2026-03-29T18:03:29.919Z"
+generated_at: "2026-03-29T18:23:29.930Z"
 ---
 
 # § 7701. Appellate procedures

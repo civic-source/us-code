@@ -3,9 +3,9 @@ title: "Section 25 - Organizational and financial requirements for Medicare+Choi
 usc_title: 42
 usc_section: "25"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 25"
-generated_at: "2026-03-29T18:07:13.971Z"
+generated_at: "2026-03-29T18:27:03.105Z"
 ---
 
 # § 1395w–25. Organizational and financial requirements for Medicare+Choice organizations; provider-sponsored organizations
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T18:07:13.971Z"
       - **(ii)** the State requires the organization, as a condition of licensure, to offer any product or plan other than a Medicare+ÐChoice plan.
     - **(D)** With respect to waiver applications filed on or after the date of publication of solvency standards under section 1395w–26(a) of this title , the ground for approval of such a waiver application described in this subparagraph is that the State has denied such a licensing application based (in whole or in part) on the organization’s failure to meet applicable solvency requirements and—
       - **(i)** such requirements are not the same as the solvency standards established under section 1395w–26(a) of this title ; or
-      - **(ii)** the State has imposed as a condition of approval of the license documentation or information requirements relating to solvency or other material requirements, procedures, or standards relating to solvency that are different from the requirements, procedures, and standards applied by the Secretary under subsection (d)(2) of this section.
+      - **(ii)** the State has imposed as a condition of approval of the license documentation or information requirements relating to solvency or other material requirements, procedures, or standards relating to solvency that are different from the requirements, procedures, and standards applied by the Secretary under subsection (d)(2).
     - **(E)** In the case of a waiver granted under this paragraph for a provider-sponsored organization with respect to a State—
       - **(i)** The waiver shall be effective only with respect to that State and does not apply to any other State.
       - **(ii)** The waiver shall be effective only for a 36-month period and may not be renewed.
@@ -44,7 +44,7 @@ generated_at: "2026-03-29T18:07:13.971Z"
   - **(3)** may obtain insurance or make other arrangements for not more than 90 percent of the amount by which its costs for any of its fiscal years exceed 115 percent of its income for such fiscal year, and
   - **(4)** may make arrangements with physicians or other health care professionals, health care institutions, or any combination of such individuals or institutions to assume all or part of the financial risk on a prospective basis for the provision of basic health services by the physicians or other health professionals or through the institutions.
 - **(c)**
-  - **(1)** Each Medicare+Choice organization that is a provider-sponsored organization, that is not licensed by a State under subsection (a) of this section, and for which a waiver application has been approved under subsection (a)(2) of this section, shall meet standards established under section 1395w–26(a) of this title relating to the financial solvency and capital adequacy of the organization.
+  - **(1)** Each Medicare+Choice organization that is a provider-sponsored organization, that is not licensed by a State under subsection (a), and for which a waiver application has been approved under subsection (a)(2), shall meet standards established under section 1395w–26(a) of this title relating to the financial solvency and capital adequacy of the organization.
   - **(2)** The Secretary shall establish a process for the receipt and approval of applications of a provider-sponsored organization described in paragraph (1) for certification (and periodic recertification) of the organization as meeting such solvency standards. Under such process, the Secretary shall act upon such a certification application not later than 60 days after the date the application has been received.
 - **(d)**
   - **(1)** In this part, the term “provider-sponsored organization” means a public or private entity—

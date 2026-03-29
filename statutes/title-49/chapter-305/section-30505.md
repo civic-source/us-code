@@ -3,9 +3,9 @@ title: "Section 30505 - Penalties and enforcement"
 usc_title: 49
 usc_section: "30505"
 chapter: 305
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 30505"
-generated_at: "2026-03-29T18:07:51.442Z"
+generated_at: "2026-03-29T18:27:16.541Z"
 ---
 
 # § 30505. Penalties and enforcement

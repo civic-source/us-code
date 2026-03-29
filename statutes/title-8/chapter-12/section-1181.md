@@ -3,13 +3,13 @@ title: "Section 1181 - Admission of immigrants into the United States"
 usc_title: 8
 usc_section: "1181"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "8 U.S.C. § 1181"
-generated_at: "2026-03-29T18:03:34.026Z"
+generated_at: "2026-03-29T18:23:33.926Z"
 ---
 
 # § 1181. Admission of immigrants into the United States
 
-- **(a)** Except as provided in subsection (b) and subsection (c) of this section no immigrant shall be admitted into the United States unless at the time of application for admission he (1) has a valid unexpired immigrant visa or was born subsequent to the issuance of such visa of the accompanying parent, and (2) presents a valid unexpired passport or other suitable travel document, or document of identity and nationality, if such document is required under the regulations issued by the Attorney General. With respect to immigrants to be admitted under quotas of quota areas prior to June 30, 1968 , no immigrant visa shall be deemed valid unless the immigrant is properly chargeable to the quota area under the quota of which the visa is issued.
+- **(a)** Except as provided in subsection (b) and subsection (c) no immigrant shall be admitted into the United States unless at the time of application for admission he (1) has a valid unexpired immigrant visa or was born subsequent to the issuance of such visa of the accompanying parent, and (2) presents a valid unexpired passport or other suitable travel document, or document of identity and nationality, if such document is required under the regulations issued by the Attorney General. With respect to immigrants to be admitted under quotas of quota areas prior to June 30, 1968 , no immigrant visa shall be deemed valid unless the immigrant is properly chargeable to the quota area under the quota of which the visa is issued.
 - **(b)** Notwithstanding the provisions of section 1182(a)(7)(A) of this title in such cases or in such classes of cases and under such conditions as may be by regulations prescribed, returning resident immigrants, defined in section 1101(a)(27)(A) of this title , who are otherwise admissible may be readmitted to the United States by the Attorney General in his discretion without being required to obtain a passport, immigrant visa, reentry permit or other documentation.
-- **(c)** The provisions of subsection (a) of this section shall not apply to an alien whom the Attorney General admits to the United States under section 1157 of this title .
+- **(c)** The provisions of subsection (a) shall not apply to an alien whom the Attorney General admits to the United States under section 1157 of this title .

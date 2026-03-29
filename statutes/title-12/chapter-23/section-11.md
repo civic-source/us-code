@@ -3,9 +3,9 @@ title: "Section 11 - Supervision, examination, and report of condition"
 usc_title: 12
 usc_section: "11"
 chapter: 23
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 11"
-generated_at: "2026-03-29T18:04:43.653Z"
+generated_at: "2026-03-29T18:24:02.979Z"
 ---
 
 # § 2279aa–11. Supervision, examination, and report of condition
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T18:04:43.653Z"
   - **(1)** Notwithstanding any other provision of this chapter, the Farm Credit Administration shall have the authority to provide, acting through the Office of Secondary Market Oversight—
     - **(A)** for the examination of the Corporation and its affiliates; and
     - **(B)** for the general supervision of the safe and sound performance of the powers, functions, and duties vested in the Corporation and its affiliates by this subchapter, including through the use of the authorities granted to the Farm Credit Administration under—
-      - **(i)** part C of subchapter V of this chapter; and
+      - **(i)** part C of subchapter V; and
       - **(ii)** beginning 6 months after December 13, 1991 , section 2252(a)(9) of this title .
   - **(2)** In exercising its authority pursuant to this section, the Farm Credit Administration shall consider—
     - **(A)** the purposes for which the Corporation was created;

@@ -3,9 +3,9 @@ title: "Section 5597 - Separation pay"
 usc_title: 5
 usc_section: "5597"
 chapter: 55
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 5597"
-generated_at: "2026-03-29T18:03:29.889Z"
+generated_at: "2026-03-29T18:23:29.908Z"
 ---
 
 # § 5597. Separation pay

@@ -3,15 +3,15 @@ title: "Section 6965 - Reports to Congress"
 usc_title: 22
 usc_section: "6965"
 chapter: 77
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 6965"
-generated_at: "2026-03-29T18:05:22.016Z"
+generated_at: "2026-03-29T18:24:54.367Z"
 ---
 
 # § 6965. Reports to Congress
 
 - **(a)** Not later than the date that is 1 year after October 10, 2000 , and not later than the end of each 1-year period thereafter, the Task Force shall submit to the Congress a report on the work of the Task Force during the preceding 1-year period.
-- **(b)** Each report under subsection (a) of this section shall set forth, at a minimum—
+- **(b)** Each report under subsection (a) shall set forth, at a minimum—
   - **(1)** the number of allegations of violations of section 1307 of title 19 with respect to products of the Peoples’ 1 1 So in original. Probably should be “People’s”. Republic of China that were investigated during the preceding 1-year period;
   - **(2)** the number of actual violations of section 1307 of title 19 with respect to the products of the People’s Republic of China that were discovered during the preceding 1-year period;
   - **(3)** in the case of each attempted entry of products of the People’s Republic of China in violation of such section 1307 of title 19 discovered during the preceding 1-year period—

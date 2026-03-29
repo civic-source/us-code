@@ -3,9 +3,9 @@ title: "Section 6304 - National Transportation Library"
 usc_title: 49
 usc_section: "6304"
 chapter: 63
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 6304"
-generated_at: "2026-03-29T18:07:51.367Z"
+generated_at: "2026-03-29T18:27:16.476Z"
 ---
 
 # § 6304. National Transportation Library
@@ -32,4 +32,4 @@ generated_at: "2026-03-29T18:07:51.367Z"
     - **(C)** business; or
     - **(D)** individual.
   - **(2)** The Library may initiate and support specific information and data management, access, and exchange activities in connection with matters relating to the Department’s strategic goals, knowledge networking, and national and international cooperation, by entering into contracts or other agreements or awarding grants for the conduct of such activities.
-  - **(3)** Any amounts received by the Library as payment for library products and services or other activities shall be made available to the Director to carry out this section, deposited in the Research and Innovative Technology Administration’s general fund account, and remain available until expended.
+  - **(3)** Any amounts received by the Library as payment for library products and services or other activities shall be made available to the Director to carry out this section, deposited in the Office of the Assistant Secretary for Research and Technology of the Department of Transportation’s general fund account, and remain available until expended.

@@ -3,9 +3,9 @@ title: "Section 2101 - General definitions"
 usc_title: 46
 usc_section: "2101"
 chapter: 21
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "46 U.S.C. § 2101"
-generated_at: "2026-03-29T18:07:34.324Z"
+generated_at: "2026-03-29T18:27:18.856Z"
 ---
 
 # § 2101. General definitions
@@ -17,20 +17,20 @@ In this subtitle—
       - **(i)** a system, accessory, component, or appurtenance of a recreational vessel; or
       - **(ii)** a marine safety article intended for use on board a recreational vessel; but
     - **(B)** with the exception of emergency locator beacons for recreational vessels operating beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured or beyond 3 nautical miles from the coastline of the Great Lakes, does not include radio equipment.
-  - **[(2)** to (3a) Repealed. Pub. L. 109–304, § 15(2)(A) , Oct. 6, 2006 , 120 Stat. 1702 .]
+  - **[(2)** to (3a) Repealed. Pub. L. 109–304 , § 15(2)(A), Oct. 6, 2006 , 120 Stat. 1702 .]
   - **(4)** “Coast Guard” means the organization established and continued under section 1 of title 14 .
   - **(5)** “commercial service” includes any type of trade or business involving the transportation of goods or individuals, except service performed by a combatant vessel. (5a) “consideration” means an economic benefit, inducement, right, or profit including pecuniary payment accruing to an individual, person, or entity, but not including a voluntary sharing of the actual expenses of the voyage, by monetary contribution or donation of fuel, food, beverage, or other supplies.
-  - **[(6)** Repealed. Pub. L. 109–304, § 15(2)(A) , Oct. 6, 2006 , 120 Stat. 1702 .]
+  - **[(6)** Repealed. Pub. L. 109–304 , § 15(2)(A), Oct. 6, 2006 , 120 Stat. 1702 .]
   - **(7)** “crude oil” means a liquid hydrocarbon mixture occurring naturally in the earth, whether or not treated to render it suitable for transportation, and includes crude oil from which certain distillate fractions may have been removed, and crude oil to which certain distillate fractions may have been added.
   - **(8)** “crude oil tanker” means a tanker engaged in the trade of carrying crude oil. (8a) “dangerous drug” means a narcotic drug, a controlled substance, or a controlled substance analog (as defined in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ( 21 U.S.C. 802 )).
   - **(9)** “discharge”, when referring to a substance discharged from a vessel, includes spilling, leaking, pumping, pouring, emitting, emptying, or dumping, however caused.
-  - **[(10)** , (10a) Repealed. Pub. L. 109–304, § 15(2)(A) , Oct. 6, 2006 , 120 Stat. 1702 .]
+  - **[(10)** , (10a) Repealed. Pub. L. 109–304 , § 15(2)(A), Oct. 6, 2006 , 120 Stat. 1702 .]
     - **(A)** to provide transportation only between places that are not more than 300 miles apart; and
     - **(B)** to transport only—
       - **(i)** passengers; or
       - **(ii)** vehicles, or railroad cars, that are being used, or have been used, in transporting passengers or goods.
   - **(11)** “fish” means finfish, mollusks, crustaceans, and all other forms of marine animal and plant life, except marine mammals and birds. (11a) “fishing vessel” means a vessel that commercially engages in the catching, taking, or harvesting of fish or an activity that can reasonably be expected to result in the catching, taking, or harvesting of fish. (11b) “fish processing vessel” means a vessel that commercially prepares fish or fish products other than by gutting, decapitating, gilling, skinning, shucking, icing, freezing, or brine chilling. (11c) “fish tender vessel” means a vessel that commercially supplies, stores, refrigerates, or transports fish, fish products, or materials directly related to fishing or the preparation of fish to or from a fishing, fish processing, or fish tender vessel or a fish processing facility.
-  - **[(12)** Repealed. Pub. L. 109–304, § 15(2)(A) , Oct. 6, 2006 , 120 Stat. 1702 .]
+  - **[(12)** Repealed. Pub. L. 109–304 , § 15(2)(A), Oct. 6, 2006 , 120 Stat. 1702 .]
   - **(13)** “freight vessel” means a motor vessel of more than 15 gross tons as measured under section 14502 of this title , or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that carries freight for hire, except an oceanographic research vessel or an offshore supply vessel. (13a) “Great Lakes barge” means a non-self-propelled vessel of at least 3,500 gross tons as measured under section 14502 of this title , or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title operating on the Great Lakes.
   - **(14)** “hazardous material” means a liquid material or substance that is—
     - **(A)** flammable or combustible;
@@ -46,7 +46,7 @@ In this subtitle—
     - **(C)** the seabed and subsoil of the outer Continental Shelf of the United States, the resources of the Shelf, and the waters superjacent to the Shelf; and
     - **(D)** the recreational, economic, and scenic values of the waters and resources referred to in subclauses (A)–(C) of this clause. (15a) “mobile offshore drilling unit” means a vessel capable of engaging in drilling operations for the exploration or exploitation of subsea resources.
   - **(16)** “motor vessel” means a vessel propelled by machinery other than steam.
-  - **(17)** “nautical school vessel” means a vessel operated by or in connection with a nautical school or an educational institution under section 558 of title 40 . (17a) “navigable waters of the United States” includes all waters of the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988 . [(17b) Repealed. Pub. L. 109–304, § 15(2)(A) , Oct. 6, 2006 , 120 Stat. 1702 .]
+  - **(17)** “nautical school vessel” means a vessel operated by or in connection with a nautical school or an educational institution under section 558 of title 40 . (17a) “navigable waters of the United States” includes all waters of the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988 . [(17b) Repealed. Pub. L. 109–304 , § 15(2)(A), Oct. 6, 2006 , 120 Stat. 1702 .]
   - **(18)** “oceanographic research vessel” means a vessel that the Secretary finds is being employed only in instruction in oceanography or limnology, or both, or only in oceanographic or limnological research, including studies about the sea such as seismic, gravity meter, and magnetic exploration and other marine geophysical or geological surveys, atmospheric research, and biological research.
   - **(19)** “offshore supply vessel” means a motor vessel that regularly carries goods, supplies, individuals in addition to the crew, or equipment in support of exploration, exploitation, or production of offshore mineral or energy resources.
   - **(20)** “oil” includes oil of any type or in any form, including petroleum, fuel oil, sludge, oil refuse, and oil mixed with wastes except dredged spoil.
@@ -115,7 +115,7 @@ In this subtitle—
     - **(C)** that is chartered with no crew provided or specified by the owner or the owner’s representative and carrying more than 12 passengers;
     - **(D)** that is a submersible vessel carrying at least one passenger for hire; or
     - **(E)** that is a ferry carrying more than 6 passengers.
-  - **[(36)** Repealed. Pub. L. 109–304, § 15(2)(A) , Oct. 6, 2006 , 120 Stat. 1702 .]
+  - **[(36)** Repealed. Pub. L. 109–304 , § 15(2)(A), Oct. 6, 2006 , 120 Stat. 1702 .]
   - **(37)** “steam vessel” means a vessel propelled in whole or in part by steam, except a recreational vessel of not more than 40 feet in length. (37a) “submersible vessel” means a vessel that is capable of operating below the surface of the water.
   - **(38)** “tanker” means a self-propelled tank vessel constructed or adapted primarily to carry oil or hazardous material in bulk in the cargo spaces.
   - **(39)** “tank vessel” means a vessel that is constructed or adapted to carry, or that carries, oil or hazardous material in bulk as cargo or cargo residue, and that—
@@ -123,7 +123,7 @@ In this subtitle—
     - **(B)** operates on the navigable waters of the United States; or
     - **(C)** transfers oil or hazardous material in a port or place subject to the jurisdiction of the United States.
   - **(40)** “towing vessel” means a commercial vessel engaged in or intending to engage in the service of pulling, pushing, or hauling along side, or any combination of pulling, pushing, or hauling along side.
-  - **[(41)** Repealed. Pub. L. 109–304, § 15(2)(A) , Oct. 6, 2006 , 120 Stat. 1702 .]
+  - **[(41)** Repealed. Pub. L. 109–304 , § 15(2)(A), Oct. 6, 2006 , 120 Stat. 1702 .]
   - **(42)** “uninspected passenger vessel” means an uninspected vessel—
     - **(A)** of at least 100 gross tons as measured under section 14502 of this title , or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title —
       - **(i)** carrying not more than 12 passengers, including at least one passenger for hire; or
@@ -132,7 +132,7 @@ In this subtitle—
       - **(i)** carrying not more than 6 passengers, including at least one passenger for hire; or
       - **(ii)** that is chartered with the crew provided or specified by the owner or the owner’s representative and carrying not more than 6 passengers.
   - **(43)** “uninspected vessel” means a vessel not subject to inspection under section 3301 of this title that is not a recreational vessel.
-  - **[(44)** to (46) Repealed. Pub. L. 109–304, § 15(2)(A) , Oct. 6, 2006 , 120 Stat. 1702 .]
+  - **[(44)** to (46) Repealed. Pub. L. 109–304 , § 15(2)(A), Oct. 6, 2006 , 120 Stat. 1702 .]
   - **(47)** “vessel of war” means a vessel—
     - **(A)** belonging to the armed forces of a country;
     - **(B)** bearing the external marks distinguishing vessels of war of that country;

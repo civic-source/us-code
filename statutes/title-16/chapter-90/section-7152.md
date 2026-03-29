@@ -3,12 +3,12 @@ title: "Section 7152 - Authorization of appropriations"
 usc_title: 16
 usc_section: "7152"
 chapter: 90
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 7152"
-generated_at: "2026-03-29T18:05:07.110Z"
+generated_at: "2026-03-29T18:24:22.946Z"
 ---
 
 # § 7152. Authorization of appropriations
 
-There are authorized to be appropriated such sums as are necessary to carry out this chapter for each of fiscal years 2008 through 2013.
+There are authorized to be appropriated such sums as are necessary to carry out this chapter.
 

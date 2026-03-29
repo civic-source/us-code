@@ -3,12 +3,12 @@ title: "Section 90c - Administration"
 usc_title: 16
 usc_section: "90c"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 90c"
-generated_at: "2026-03-29T18:05:06.396Z"
+generated_at: "2026-03-29T18:24:22.417Z"
 ---
 
 # § 90c. Administration
 
-The Secretary shall administer the park in accordance with sections 1, 2, 3, and 4 of this title, as amended and supplemented.
+The Secretary shall administer the park in accordance with the Act of August 25, 1916 ( 39 Stat. 535 ; 16 U.S.C. 1–4 ), 1 1 See References in Text note below. as amended and supplemented.
 

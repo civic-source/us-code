@@ -3,14 +3,14 @@ title: "Section 1622 - State authority to limit eligibility of qualified aliens 
 usc_title: 8
 usc_section: "1622"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "8 U.S.C. § 1622"
-generated_at: "2026-03-29T18:03:34.106Z"
+generated_at: "2026-03-29T18:23:33.993Z"
 ---
 
 # § 1622. State authority to limit eligibility of qualified aliens for State public benefits
 
-- **(a)** Notwithstanding any other provision of law and except as provided in subsection (b) of this section, a State is authorized to determine the eligibility for any State public benefits of an alien who is a qualified alien (as defined in section 1641 of this title ), a nonimmigrant under the Immigration and Nationality Act [ 8 U.S.C. 1101 et seq.], or an alien who is paroled into the United States under section 212(d)(5) of such Act [ 8 U.S.C. 1182(d)(5) ] for less than one year.
+- **(a)** Notwithstanding any other provision of law and except as provided in subsection (b), a State is authorized to determine the eligibility for any State public benefits of an alien who is a qualified alien (as defined in section 1641 of this title ), a nonimmigrant under the Immigration and Nationality Act [ 8 U.S.C. 1101 et seq.], or an alien who is paroled into the United States under section 212(d)(5) of such Act [ 8 U.S.C. 1182(d)(5) ] for less than one year.
 - **(b)** Qualified aliens under this subsection shall be eligible for any State public benefits.
   - **(1)**
     - **(A)** An alien who is admitted to the United States as a refugee under section 207 of the Immigration and Nationality Act [ 8 U.S.C. 1157 ] until 5 years after the date of an alien’s entry into the United States.

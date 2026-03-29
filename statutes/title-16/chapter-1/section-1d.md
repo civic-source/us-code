@@ -1,14 +1,12 @@
 ---
-title: "Section 1d - Appropriations"
+title: "Section 1d - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "1d"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 1d"
-generated_at: "2026-03-29T18:05:06.374Z"
+generated_at: "2026-03-29T18:24:22.402Z"
 ---
 
-# § 1d. Appropriations
-
-On and after August 8, 1953 , applicable appropriations of the National Park Service shall be available for the objects and purposes specified in section 17j–2 of this title .
+# § 1d. Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272
 

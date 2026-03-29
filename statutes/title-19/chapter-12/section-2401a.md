@@ -3,15 +3,15 @@ title: "Section 2401a - Petitions; group eligibility"
 usc_title: 19
 usc_section: "2401a"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 2401a"
-generated_at: "2026-03-29T18:04:55.090Z"
+generated_at: "2026-03-29T18:24:16.162Z"
 ---
 
 # § 2401a. Petitions; group eligibility
 
 - **(a)** A petition for a certification of eligibility to apply for adjustment assistance under this part may be filed with the Secretary by a group of agricultural commodity producers or by their duly authorized representative. Upon receipt of the petition, the Secretary shall promptly publish notice in the Federal Register that the Secretary has received the petition and initiated an investigation.
-- **(b)** If the petitioner, or any other person found by the Secretary to have a substantial interest in the proceedings, submits not later than 10 days after the date of the Secretary’s publication under subsection (a) of this section a request for a hearing, the Secretary shall provide for a public hearing and afford such interested person an opportunity to be present, to produce evidence, and to be heard.
+- **(b)** If the petitioner, or any other person found by the Secretary to have a substantial interest in the proceedings, submits not later than 10 days after the date of the Secretary’s publication under subsection (a) a request for a hearing, the Secretary shall provide for a public hearing and afford such interested person an opportunity to be present, to produce evidence, and to be heard.
 - **(c)** The Secretary shall certify a group of agricultural commodity producers as eligible to apply for adjustment assistance under this part if the Secretary determines that—
   - **(1)**
     - **(A)** the national average price of the agricultural commodity produced by the group during the most recent marketing year for which data are available is less than 85 percent of the average of the national average price for the commodity in the 3 marketing years preceding such marketing year;

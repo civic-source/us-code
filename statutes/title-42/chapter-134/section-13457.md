@@ -3,9 +3,9 @@ title: "Section 13457 - Energy efficient environmental program"
 usc_title: 42
 usc_section: "13457"
 chapter: 134
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 13457"
-generated_at: "2026-03-29T18:07:15.323Z"
+generated_at: "2026-03-29T18:27:04.121Z"
 ---
 
 # § 13457. Energy efficient environmental program
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T18:07:15.323Z"
   - **(1)** apply a systems approach to minimizing adverse environmental effects of industrial production in the most cost effective and energy efficient manner; and
   - **(2)** incorporate consideration of the entire materials and energy cycle with the goal of minimizing adverse environmental impacts.
 - **(b)** Within 9 months after October 24, 1992 , the Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall identify opportunities for the demonstration of energy efficient pollution prevention technologies and processes.
-- **(c)** Within 1 year after October 24, 1992 , the Secretary shall submit a report to Congress evaluating the opportunities identified under subsection (b) of this section. Such report shall include—
+- **(c)** Within 1 year after October 24, 1992 , the Secretary shall submit a report to Congress evaluating the opportunities identified under subsection (b). Such report shall include—
   - **(1)** an assessment of the technologies available to increase productivity and simultaneously reduce the consumption of energy and material resources and the production of wastes;
   - **(2)** an assessment of the current use of such technologies by industry in the United States;
   - **(3)** the status of any such technologies currently being developed, together with projected schedules of their commercial availability;

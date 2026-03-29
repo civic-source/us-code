@@ -1,15 +1,12 @@
 ---
-title: "Section 10 - Special considerations"
+title: "Section 10 - Omitted"
 usc_title: 25
 usc_section: "10"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 10"
-generated_at: "2026-03-29T18:05:17.133Z"
+generated_at: "2026-03-29T18:25:23.712Z"
 ---
 
-# § 1300i–10. Special considerations
+# § 1300i–10. Omitted
 
-- **(a)** The 20 acre land assignment on the Hoopa Valley Reservation made by the Hoopa Area Field Office of the Bureau of Indian Affairs on August 25, 1947 , to the Smokers family shall continue in effect and may pass by descent or devise to any blood relative or relatives of one-fourth or more Indian blood of those family members domiciled on the assignment on October 31, 1988 .
-- **(b)** If a majority of the adult members of any of the following Rancherias at Resighini, Trinidad, or Big Lagoon, vote to merge with the Yurok Tribe in an election which shall be conducted by the Secretary within ninety days after October 31, 1988 , the tribes and reservations of those rancherias so voting shall be extinguished and the lands and members of such reservations shall be part of the Yurok Reservation with the unallotted trust land therein held in trust by the United States for the Yurok Tribe: Provided, however , That the existing governing documents and the elected governing bodies of any rancherias voting to merge shall continue in effect until the election of the Interim Council pursuant to section 1300i–8 of this title . The Secretary shall publish in the Federal Register a notice of the effective date of the merger.
-- **(c)** Real property on any rancheria that merges with the Yurok Reservation pursuant to subsection (b) of this section that is, on October 31, 1988 , held by any individual under a lease shall continue to be governed by the terms of the lease, and any land assignment existing on October 31, 1988 , shall continue in effect and may pass by descent or devise to any blood relative or relatives of Indian blood of the assignee.

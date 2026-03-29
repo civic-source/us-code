@@ -3,9 +3,9 @@ title: "Section 9134 - State plans"
 usc_title: 20
 usc_section: "9134"
 chapter: 72
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 9134"
-generated_at: "2026-03-29T18:05:00.404Z"
+generated_at: "2026-03-29T18:24:41.177Z"
 ---
 
 # § 9134. State plans
@@ -21,18 +21,18 @@ generated_at: "2026-03-29T18:05:00.404Z"
   - **(4)** describe the methodology that such agency will use to evaluate the success of the activities established under paragraph (2) in achieving the goals and meeting the priorities described in paragraph (1);
   - **(5)** describe the procedures that such agency will use to involve libraries and library users throughout the State in policy decisions regarding implementation of this subchapter;
   - **(6)** describe how the State library administrative agency will work with other State agencies and offices where appropriate to coordinate resources, programs, and activities and leverage, but not replace, the Federal and State investment in—
-    - **(A)** elementary and secondary education, including coordination with the activities within the State that are supported by a grant under section 6383 of this title ;
+    - **(A)** elementary and secondary education, including coordination with the activities within the State that are supported by a grant under section 6646 of this title ;
     - **(B)** early childhood education, including coordination with—
       - **(i)** the State’s activities carried out under subsections (b)(4) and (e)(1) of section 9837 of title 42 ; and
       - **(ii)** the activities described in the State’s strategic plan in accordance with section 9837b(a)(4)(B)(i) of title 42 ;
     - **(C)** workforce development, including coordination with—
-      - **(i)** the activities carried out by the State workforce investment board under section 2821(d) of title 29 ; and
-      - **(ii)** the State’s one-stop delivery system established under section 2864(c) of title 29 ; and
+      - **(i)** the activities carried out by the State workforce development board under section 3111 of title 29 ; and
+      - **(ii)** the State’s one-stop delivery system established under section 3151(e) of title 29 ; and
     - **(D)** other Federal programs and activities that relate to library services, including economic and community development and health information;
-  - **(7)** provide assurances that the State will comply with subsection (f) of this section; and
+  - **(7)** provide assurances that the State will comply with subsection (f); and
   - **(8)** provide assurances satisfactory to the Director that such agency will make such reports, in such form and containing such information, as the Director may reasonably require to carry out this subchapter and to determine the extent to which funds provided under this subchapter have been effective in carrying out the purposes of this subchapter.
 - **(c)** Each State library administrative agency receiving a grant under this subchapter shall independently evaluate, and report to the Director regarding, the activities assisted under this subchapter, prior to the end of the 5-year plan.
-- **(d)** Each library receiving assistance under this subchapter shall submit to the State library administrative agency such information as such agency may require to meet the requirements of subsection (c) of this section.
+- **(d)** Each library receiving assistance under this subchapter shall submit to the State library administrative agency such information as such agency may require to meet the requirements of subsection (c).
 - **(e)**
   - **(1)** The Director shall approve any State plan under this subchapter that meets the requirements of this subchapter and provides satisfactory assurances that the provisions of such plan will be carried out.
   - **(2)** Each State library administrative agency receiving a grant under this subchapter shall make the State plan available to the public, including through electronic means.

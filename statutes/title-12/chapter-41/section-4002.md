@@ -3,15 +3,15 @@ title: "Section 4002 - Expedited funds availability schedules"
 usc_title: 12
 usc_section: "4002"
 chapter: 41
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 4002"
-generated_at: "2026-03-29T18:04:43.693Z"
+generated_at: "2026-03-29T18:24:03.014Z"
 ---
 
 # § 4002. Expedited funds availability schedules
 
 - **(a)**
-  - **(1)** Except as provided in subsection (e) of this section and in section 4003 of this title , in any case in which—
+  - **(1)** Except as provided in subsection (e) and in section 4003 of this title , in any case in which—
     - **(A)** any cash is deposited in an account at a receiving depository institution staffed by individuals employed by such institution, or
     - **(B)** funds are received by a depository institution by wire transfer for deposit in an account at such institution,
   - **(2)** Funds deposited in an account at a depository institution by check shall be available for withdrawal not later than the business day after the business day on which such funds are deposited in the case of—
@@ -38,22 +38,22 @@ generated_at: "2026-03-29T18:04:43.693Z"
   - **(1)** Subject to paragraph (3) of this subsection, subsections (a)(2), (d), and (e) of this section, and section 4003 of this title , not more than 1 business day shall intervene between the business day on which funds are deposited in an account at a depository institution by a check drawn on a local originating depository institution and the business day on which the funds involved are available for withdrawal.
   - **(2)** Subject to paragraph (3) of this subsection, subsections (a)(2), (d), and (e) of this section, and section 4003 of this title , not more than 4 business days shall intervene between the business day on which funds are deposited in an account at a depository institution by a check drawn on a nonlocal originating depository institution and the business day on which such funds are available for withdrawal.
   - **(3)**
-    - **(A)** Except as provided in subparagraph (B), funds deposited in an account in a depository institution by check (other than a check described in subsection (a)(2) of this section) shall be available for cash withdrawal not later than the business day after the business day on which such funds otherwise are available under paragraph (1) or (2).
+    - **(A)** Except as provided in subparagraph (B), funds deposited in an account in a depository institution by check (other than a check described in subsection (a)(2)) shall be available for cash withdrawal not later than the business day after the business day on which such funds otherwise are available under paragraph (1) or (2).
     - **(B)** Not more than $400 (or the maximum amount allowable in the case of a withdrawal from an automated teller machine but not more than $400) of funds deposited by one or more checks to which this paragraph applies shall be available for cash withdrawal not later than 5 o’clock post meridian of the business day on which such funds are available under paragraph (1) or (2). If funds deposited by checks described in both paragraph (1) and paragraph (2) become available for cash withdrawal under this paragraph on the same business day, the limitation contained in this subparagraph shall apply to the aggregate amount of such funds.
-    - **(C)** Any amount available for withdrawal under this paragraph shall be in addition to the amount available under subsection (a)(2)(D) of this section.
+    - **(C)** Any amount available for withdrawal under this paragraph shall be in addition to the amount available under subsection (a)(2)(D).
   - **(4)** This subsection shall apply with respect to funds deposited by check in an account at a depository institution on or after September 1, 1990 , except that the Board may, by regulation, make this subsection or any part of this subsection applicable earlier than September 1, 1990 .
 - **(c)**
   - **(1)**
     - **(A)** Subject to subparagraph (B) of this paragraph, subsections (a)(2), (d), and (e) of this section, and section 4003 of this title , not more than 2 business days shall intervene between the business day on which funds are deposited in an account at a depository institution by a check drawn on a local originating depository institution and the business day on which such funds are available for withdrawal.
     - **(B)**
-      - **(i)** Except as provided in clause (ii), funds deposited in an account in a depository institution by check drawn on a local depository institution that is not a participant in the same check clearinghouse association as the receiving depository institution (other than a check described in subsection (a)(2) of this section) shall be available for cash withdrawal not later than the business day after the business day on which such funds otherwise are available under subparagraph (A).
+      - **(i)** Except as provided in clause (ii), funds deposited in an account in a depository institution by check drawn on a local depository institution that is not a participant in the same check clearinghouse association as the receiving depository institution (other than a check described in subsection (a)(2)) shall be available for cash withdrawal not later than the business day after the business day on which such funds otherwise are available under subparagraph (A).
       - **(ii)** Not more than $400 (or the maximum amount allowable in the case of a withdrawal from an automated teller machine but not more than $400) of funds deposited by one or more checks to which this subparagraph applies shall be available for cash withdrawal not later than 5 o’clock post meridian of the business day on which such funds are available under subparagraph (A).
-      - **(iii)** Any amount available for withdrawal under this subparagraph shall be in addition to the amount available under subsection (a)(2)(D) of this section.
+      - **(iii)** Any amount available for withdrawal under this subparagraph shall be in addition to the amount available under subsection (a)(2)(D).
   - **(2)** Subject to subsections (a)(2), (d), and (e) of this section and section 4003 of this title , not more than 6 business days shall intervene between the business day on which funds are deposited in an account at a depository institution by a check drawn on a nonlocal originating depository institution and the business day on which such funds are available for withdrawal.
-  - **(3)** This subsection shall apply with respect to funds deposited by check in an account at a depository institution after August 31, 1988 , and before September 1, 1990 , except as may be otherwise provided under subsection (b)(4) of this section.
+  - **(3)** This subsection shall apply with respect to funds deposited by check in an account at a depository institution after August 31, 1988 , and before September 1, 1990 , except as may be otherwise provided under subsection (b)(4).
 - **(d)**
-  - **(1)** Notwithstanding any other provision of law, the Board, jointly with the Director of the Bureau of Consumer Financial Protection, shall, by regulation, reduce the time periods established under subsections (b), (c), and (e) of this section to as short a time as possible and equal to the period of time achievable under the improved check clearing system for a receiving depository institution to reasonably expect to learn of the nonpayment of most items for each category of checks.
-  - **(2)** Notwithstanding any other provision of law, any time period established under subsection (b), (c), or (e) of this section shall be extended by 1 business day in the case of any deposit which is both—
+  - **(1)** Notwithstanding any other provision of law, the Board, jointly with the Director of the Bureau of Consumer Financial Protection, shall, by regulation, reduce the time periods established under subsections (b), (c), and (e) to as short a time as possible and equal to the period of time achievable under the improved check clearing system for a receiving depository institution to reasonably expect to learn of the nonpayment of most items for each category of checks.
+  - **(2)** Notwithstanding any other provision of law, any time period established under subsection (b), (c), or (e) shall be extended by 1 business day in the case of any deposit which is both—
     - **(A)** deposited in an account at a depository institution which is located in Alaska, Hawaii, Puerto Rico, or the Virgin Islands; and
     - **(B)** deposited by a check drawn on an originating depository institution which is not located in the same State, commonwealth, or territory as the receiving depository institution.
 - **(e)**
@@ -61,11 +61,11 @@ generated_at: "2026-03-29T18:04:43.693Z"
     - **(A)** Not more than 4 business days shall intervene between the business day a deposit described in subparagraph (B) is made at a nonproprietary automated teller machine (for deposit in an account at a depository institution) and the business day on which funds from such deposit are available for withdrawal.
     - **(B)** A deposit is described in this subparagraph if it is—
       - **(i)** a cash deposit;
-      - **(ii)** a deposit made by a check described in subsection (a)(2) of this section;
-      - **(iii)** a deposit made by a check drawn on a local originating depository institution (other than a check described in subsection (a)(2) of this section); or
-      - **(iv)** a deposit made by a check drawn on a nonlocal originating depository institution (other than a check described in subsection (a)(2) of this section).
-  - **(2)** The provisions of subsections (a), (b), and (c) of this section shall apply with respect to any funds deposited at a proprietary automated teller machine for deposit in an account at a depository institution.
+      - **(ii)** a deposit made by a check described in subsection (a)(2);
+      - **(iii)** a deposit made by a check drawn on a local originating depository institution (other than a check described in subsection (a)(2)); or
+      - **(iv)** a deposit made by a check drawn on a nonlocal originating depository institution (other than a check described in subsection (a)(2)).
+  - **(2)** The provisions of subsections (a), (b), and (c) shall apply with respect to any funds deposited at a proprietary automated teller machine for deposit in an account at a depository institution.
   - **(3)** The Board shall, either directly or through the Consumer Advisory Council, establish and maintain a dialogue with depository institutions and their suppliers on the computer software and hardware available for use by automated teller machines, and shall, not later than September 1 of each of the first 3 calendar years beginning after August 10, 1987 , report to the Congress regarding such software and hardware and regarding the potential for improving the processing of automated teller machine deposits.
 - **(f)** No provision of this section shall be construed as requiring that, with respect to all checks deposited in a receiving depository institution—
   - **(1)** such checks be physically returned to such depository institution; or
-  - **(2)** any notice of nonpayment of any such check be given to such depository institution within the times set forth in subsection (a), (b), (c), or (e) of this section or in the regulations issued under any such subsection.
+  - **(2)** any notice of nonpayment of any such check be given to such depository institution within the times set forth in subsection (a), (b), (c), or (e) or in the regulations issued under any such subsection.

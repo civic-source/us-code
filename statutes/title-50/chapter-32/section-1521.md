@@ -3,9 +3,9 @@ title: "Section 1521 - Destruction of existing stockpile of lethal chemical agen
 usc_title: 50
 usc_section: "1521"
 chapter: 32
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 1521"
-generated_at: "2026-03-29T18:07:43.023Z"
+generated_at: "2026-03-29T18:27:35.599Z"
 ---
 
 # § 1521. Destruction of existing stockpile of lethal chemical agents and munitions
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T18:07:43.023Z"
 - **(b)**
   - **(1)** The destruction of such stockpile shall be completed by the stockpile elimination deadline.
   - **(2)** If the Secretary of Defense determines at any time that there will be a delay in meeting the requirement in paragraph (1) for the completion of the destruction of chemical weapons by the stockpile elimination deadline, the Secretary shall immediately notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of that projected delay.
-  - **(3)** For purposes of this section, the term “stockpile elimination deadline” means the deadline established by the Chemical Weapons Convention, but not later than December 31, 2017 .
+  - **(3)** For purposes of this section, the term “stockpile elimination deadline” means the deadline established by the Chemical Weapons Convention, but not later than December 31, 2023 .
 - **(c)** The Secretary of Defense may not initiate destruction of the chemical munitions stockpile stored at a site until the following support measures are in place:
   - **(1)** Support measures that are required by Department of Defense and Army chemical surety and security program regulations.
   - **(2)** Support measures that are required by the general and site chemical munitions demilitarization plans specific to that installation.
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T18:07:43.023Z"
   - **(1)**
     - **(A)** In order to carry out subsection (d)(1)(A), the Secretary of Defense may make grants to State and local governments and to tribal organizations (either directly or through the Federal Emergency Management Agency) to assist those governments and tribal organizations in carrying out functions relating to emergency preparedness and response in connection with the disposal of the lethal chemical agents and munitions referred to in subsection (a). Funds available to the Department of Defense for the purpose of carrying out this section may be used for such grants.
     - **(B)** Additionally, the Secretary may provide funds through cooperative agreements with State and local governments, and with tribal organizations, for the purpose of assisting them in processing, approving, and overseeing permits and licenses necessary for the construction and operation of facilities to carry out this section. The Secretary shall ensure that funds provided through such a cooperative agreement are used only for the purpose set forth in the preceding sentence.
-    - **(C)** In this paragraph, the term “tribal organization” has the meaning given that term in section 450b(l) of title 25 .
+    - **(C)** In this paragraph, the term “tribal organization” has the meaning given that term in section 5304( l ) of title 25.
   - **(2)**
     - **(A)** In coordination with the Secretary of the Army and in accordance with agreements between the Secretary of the Army and the Administrator of the Federal Emergency Management Agency, the Administrator shall carry out a program to provide assistance to State and local governments in developing capabilities to respond to emergencies involving risks to the public health or safety within their jurisdictions that are identified by the Secretary as being risks resulting from—
       - **(i)** the storage of lethal chemical agents and munitions referred to in subsection (a) at military installations in the continental United States; or

@@ -3,9 +3,9 @@ title: "Section 14614 - Effect on other laws"
 usc_title: 42
 usc_section: "14614"
 chapter: 140
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 14614"
-generated_at: "2026-03-29T18:07:15.384Z"
+generated_at: "2026-03-29T18:27:04.171Z"
 ---
 
 # § 14614. Effect on other laws

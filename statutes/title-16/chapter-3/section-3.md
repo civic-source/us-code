@@ -1,15 +1,32 @@
 ---
-title: "Section 3 - Administrative services and support"
+title: "Section 3 - Priority trail maintenance program"
 usc_title: 16
 usc_section: "3"
 chapter: 3
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-29T18:05:06.776Z"
+generated_at: "2026-03-29T18:24:22.667Z"
 ---
 
-# § 583j–3. Administrative services and support
+# § 583k–3. Priority trail maintenance program
 
-- **(a)** For purposes of assisting the Foundation in establishing an office and meeting initial administrative, project, and other startup expenses, the Secretary is authorized to provide to the Foundation $500,000, from funds appropriated pursuant to section 583j–8(a) of this title , per year for the two years beginning October 1, 1992 . Such funds shall remain available to the Foundation until they are expended for authorized purposes.
-- **(b)** In addition to the startup funds provided under subsection (a) of this section, for a period of five years beginning October 1, 1992 , the Secretary is authorized to provide matching funds for administrative and project expenses incurred by the Foundation as authorized by section 583j–8(b) of this title including reimbursement of expenses under section 583j–1 of this title , not to exceed then current Federal Government per diem rates.
-- **(c)** At any time, the Secretary may provide the Foundation use of Department of Agriculture personnel, facilities, and equipment, with partial or no reimbursement, with such limitations and on such terms and conditions as the Secretary shall establish.
+- **(a)** In accordance with subsections (b) and (c), not later than 6 months after November 28, 2016 , the Secretary of Agriculture shall select no fewer than 9 and no more than 15 priority areas for increased trail maintenance accomplishments.
+- **(b)** Priority areas shall include a well-defined region on National Forest System land where the lack of trail maintenance has—
+  - **(1)** reduced access to public land;
+  - **(2)** led to an increase, or risk of increase, in harm to natural resources;
+  - **(3)** jeopardized public safety;
+  - **(4)** resulted in trails being impassible by the intended managed users; or
+  - **(5)** increased future deferred trail maintenance costs.
+- **(c)** In selecting priority areas, the Secretary shall—
+  - **(1)** consider any public input on priority areas received within 3 months of November 28, 2016 ;
+  - **(2)** consider the range of trail users (including motorized and non-motorized trail users); and
+  - **(3)** include at least one priority area in each region of the United States Forest Service.
+- **(d)**
+  - **(1)** Within 6 months of the selection of priority areas under subsection (a), and in accordance with paragraph (2), the Secretary shall develop an approach to substantially increase trail maintenance accomplishments within each priority area.
+  - **(2)** In developing the approach under paragraph (1), the Secretary shall—
+    - **(A)** consider any public input on trail maintenance priorities and needs within any priority area;
+    - **(B)** consider the costs and benefits of increased trail maintenance within each priority area; and
+    - **(C)** incorporate partners and volunteers in the trail maintenance.
+  - **(3)** Utilizing the approach developed under paragraph (1), the Secretary shall substantially increase trail maintenance within each priority area.
+- **(e)** The regional volunteer and partnership coordinators may be responsible for assisting partner organizations in developing and implementing volunteer and partnership projects to increase trail maintenance within priority areas.
+- **(f)** The Secretary shall periodically review the priority areas to determine whether revisions are necessary and may revise the priority areas, including the selection of new priority areas or removal of existing priority areas, at his sole discretion.

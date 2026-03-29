@@ -3,9 +3,9 @@ title: "Section 30B - Alternative motor vehicle credit"
 usc_title: 26
 usc_section: "30B"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 30B"
-generated_at: "2026-03-29T18:05:44.410Z"
+generated_at: "2026-03-29T18:25:53.362Z"
 ---
 
 # § 30B. Alternative motor vehicle credit
@@ -32,8 +32,8 @@ generated_at: "2026-03-29T18:05:44.410Z"
       - **(vi)** $3,500, if such vehicle achieves at least 275 percent but less than 300 percent of the 2002 model year city fuel economy, and
       - **(vii)** $4,000, if such vehicle achieves at least 300 percent of the 2002 model year city fuel economy.
     - **(B)** For purposes of subparagraph (A), the 2002 model year city fuel economy with respect to a vehicle shall be determined in accordance with the following tables:
-      - **(i)** In the case of a passenger automobile: The 2002 model year city If vehicle inertia weight class is: fuel economy is: 1,500 or 1,750 lbs 45.2 mpg 2,000 lbs 39.6 mpg 2,250 lbs 35.2 mpg 2,500 lbs 31.7 mpg 2,750 lbs 28.8 mpg 3,000 lbs 26.4 mpg 3,500 lbs 22.6 mpg 4,000 lbs 19.8 mpg 4,500 lbs 17.6 mpg 5,000 lbs 15.9 mpg 5,500 lbs 14.4 mpg 6,000 lbs 13.2 mpg 6,500 lbs 12.2 mpg 7,000 to 8,500 lbs 11.3 mpg.
-      - **(ii)** In the case of a light truck: The 2002 model year city If vehicle inertia weight class is: fuel economy is: 1,500 or 1,750 lbs 39.4 mpg 2,000 lbs 35.2 mpg 2,250 lbs 31.8 mpg 2,500 lbs 29.0 mpg 2,750 lbs 26.8 mpg 3,000 lbs 24.9 mpg 3,500 lbs 21.8 mpg 4,000 lbs 19.4 mpg 4,500 lbs 17.6 mpg 5,000 lbs 16.1 mpg 5,500 lbs 14.8 mpg 6,000 lbs 13.7 mpg 6,500 lbs 12.8 mpg 7,000 to 8,500 lbs 12.1 mpg.
+      - **(i)** In the case of a passenger automobile: If vehicle inertia weight class is: The 2002 model year city fuel economy is: 1,500 or 1,750 lbs 45.2 mpg 2,000 lbs 39.6 mpg 2,250 lbs 35.2 mpg 2,500 lbs 31.7 mpg 2,750 lbs 28.8 mpg 3,000 lbs 26.4 mpg 3,500 lbs 22.6 mpg 4,000 lbs 19.8 mpg 4,500 lbs 17.6 mpg 5,000 lbs 15.9 mpg 5,500 lbs 14.4 mpg 6,000 lbs 13.2 mpg 6,500 lbs 12.2 mpg 7,000 to 8,500 lbs 11.3 mpg.
+      - **(ii)** In the case of a light truck: If vehicle inertia weight class is: The 2002 model year city fuel economy is: 1,500 or 1,750 lbs 39.4 mpg 2,000 lbs 35.2 mpg 2,250 lbs 31.8 mpg 2,500 lbs 29.0 mpg 2,750 lbs 26.8 mpg 3,000 lbs 24.9 mpg 3,500 lbs 21.8 mpg 4,000 lbs 19.4 mpg 4,500 lbs 17.6 mpg 5,000 lbs 16.1 mpg 5,500 lbs 14.8 mpg 6,000 lbs 13.7 mpg 6,500 lbs 12.8 mpg 7,000 to 8,500 lbs 12.1 mpg.
     - **(C)** For purposes of subparagraph (B), the term “vehicle inertia weight class” has the same meaning as when defined in regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act ( 42 U.S.C. 7521 et seq.).
   - **(3)** For purposes of this subsection, the term “new qualified fuel cell motor vehicle” means a motor vehicle—
     - **(A)** which is propelled by power derived from 1 or more cells which convert chemical energy directly into electricity by combining oxygen with hydrogen fuel which is stored on board the vehicle in any form and may or may not require reformation prior to use,
@@ -155,10 +155,10 @@ generated_at: "2026-03-29T18:05:44.410Z"
   - **(4)** For purposes of this subtitle, the basis of any property for which a credit is allowable under subsection (a) shall be reduced by the amount of such credit so allowed (determined without regard to subsection (g)).
   - **(5)** The amount of any deduction or other credit allowable under this chapter—
     - **(A)** for any incremental cost taken into account in computing the amount of the credit determined under subsection (e) shall be reduced by the amount of such credit attributable to such cost, and
-    - **(B)** with respect to a vehicle described under subsection (b) or (c), shall be reduced by the amount of credit allowed under subsection (a) for such vehicle for the taxable year.
+    - **(B)** with respect to a vehicle described under subsection (b) or (c), shall be reduced by the amount of credit allowed under subsection (a) for such vehicle for the taxable year (determined without regard to subsection (g)).
   - **(6)** In the case of a vehicle whose use is described in paragraph (3) or (4) of section 50(b) and which is not subject to a lease, the person who sold such vehicle to the person or entity using such vehicle shall be treated as the taxpayer that placed such vehicle in service, but only if such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such vehicle (determined without regard to subsection (g)). For purposes of subsection (g), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.
   - **(7)** No credit shall be allowable under subsection (a) with respect to any property referred to in section 50(b)(1) or with respect to the portion of the cost of any property taken into account under section 179.
-  - **(8)** The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any property which ceases to be property eligible for such credit (including recapture in the case of a lease period of less than the economic life of a vehicle)., 1 1 So in original. except that no benefit shall be recaptured if such property ceases to be eligible for such credit by reason of conversion to a qualified plug-in electric drive motor vehicle.
+  - **(8)** The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any property which ceases to be property eligible for such credit (including recapture in the case of a lease period of less than the economic life of a vehicle), except that no benefit shall be recaptured if such property ceases to be eligible for such credit by reason of conversion to a qualified plug-in electric drive motor vehicle.
   - **(9)** No credit shall be allowed under subsection (a) for any vehicle if the taxpayer elects to not have this section apply to such vehicle.
   - **(10)** Unless otherwise provided in this section, a motor vehicle shall not be considered eligible for a credit under this section unless such vehicle is in compliance with—
     - **(A)** the applicable provisions of the Clean Air Act for the applicable make and model year of the vehicle (or applicable air quality provisions of State law in the case of a State which has adopted such provision under a waiver under section 209(b) of the Clean Air Act), and
@@ -172,7 +172,7 @@ generated_at: "2026-03-29T18:05:44.410Z"
   - **(1)** Except as provided in paragraph (2), the Secretary shall promulgate such regulations as necessary to carry out the provisions of this section.
   - **(2)** The Secretary of the Treasury, in coordination with the Secretary of Transportation and the Administrator of the Environmental Protection Agency, shall prescribe such regulations as necessary to determine whether a motor vehicle meets the requirements to be eligible for a credit under this section.
 - **(k)** This section shall not apply to any property purchased after—
-  - **(1)** in the case of a new qualified fuel cell motor vehicle (as described in subsection (b)), December 31, 2014 ,
+  - **(1)** in the case of a new qualified fuel cell motor vehicle (as described in subsection (b)), December 31, 2016 ,
   - **(2)** in the case of a new advanced lean burn technology motor vehicle (as described in subsection (c)) or a new qualified hybrid motor vehicle (as described in subsection (d)(2)(A)), December 31, 2010 ,
   - **(3)** in the case of a new qualified hybrid motor vehicle (as described in subsection (d)(2)(B)), December 31, 2009 , and
   - **(4)** in the case of a new qualified alternative fuel vehicle (as described in subsection (e)), December 31, 2010 .

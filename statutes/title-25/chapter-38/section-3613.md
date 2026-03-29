@@ -3,14 +3,14 @@ title: "Section 3613 - Base support funding for tribal justice systems"
 usc_title: 25
 usc_section: "3613"
 chapter: 38
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 3613"
-generated_at: "2026-03-29T18:05:17.247Z"
+generated_at: "2026-03-29T18:25:23.809Z"
 ---
 
 # § 3613. Base support funding for tribal justice systems
 
-- **(a)** Pursuant to the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 450 et seq.], the Secretary is authorized (to the extent provided in advance in appropriations Acts) to enter into contracts, grants, or agreements with Indian tribes for the performance of any function of the Office and for the development, enhancement, and continuing operation of tribal justice systems and traditional tribal judicial practices by Indian tribal governments.
+- **(a)** Pursuant to the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.], the Secretary is authorized (to the extent provided in advance in appropriations Acts) to enter into contracts, grants, or agreements with Indian tribes for the performance of any function of the Office and for the development, enhancement, and continuing operation of tribal justice systems and traditional tribal judicial practices by Indian tribal governments.
 - **(b)** Financial assistance provided through contracts, grants, or agreements entered into pursuant to this section may be used for—
   - **(1)** planning for the development, enhancement, and operation of tribal justice systems;
   - **(2)** the employment of tribal court personnel, including tribal court judges, prosecutors, public defenders, appointed defense counsel, guardians ad litem, and court-appointed special advocates for children and juveniles;

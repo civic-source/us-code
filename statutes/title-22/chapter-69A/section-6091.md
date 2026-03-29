@@ -3,9 +3,9 @@ title: "Section 6091 - Exclusion from United States of aliens who have confiscat
 usc_title: 22
 usc_section: "6091"
 chapter: 69
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 6091"
-generated_at: "2026-03-29T18:05:21.994Z"
+generated_at: "2026-03-29T18:24:54.346Z"
 ---
 
 # § 6091. Exclusion from United States of aliens who have confiscated property of United States nationals or who traffic in such property
@@ -37,7 +37,7 @@ generated_at: "2026-03-29T18:05:21.994Z"
       - **(ii)** the trading or holding of securities publicly traded or held, unless the trading is with or by a person determined by the Secretary of the Treasury to be a specially designated national;
       - **(iii)** transactions and uses of property incident to lawful travel to Cuba, to the extent that such transactions and uses of property are necessary to the conduct of such travel; or
       - **(iv)** transactions and uses of property by a person who is both a citizen of Cuba and a resident of Cuba, and who is not an official of the Cuban Government or the ruling political party in Cuba.
-- **(c)** This section shall not apply where the Secretary of State finds, on a case by case basis, that the entry into the United States of the person who would otherwise be excluded under this section is necessary for medical reasons or for purposes of litigation of an action under subchapter III of this chapter.
+- **(c)** This section shall not apply where the Secretary of State finds, on a case by case basis, that the entry into the United States of the person who would otherwise be excluded under this section is necessary for medical reasons or for purposes of litigation of an action under subchapter III.
 - **(d)**
   - **(1)** This section applies to aliens seeking to enter the United States on or after March 12, 1996 .
   - **(2)** This section applies only with respect to acts within the meaning of “traffics” that occur on or after March 12, 1996 .

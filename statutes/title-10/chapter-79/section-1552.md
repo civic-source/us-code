@@ -3,9 +3,9 @@ title: "Section 1552 - Correction of military records: claims incident thereto"
 usc_title: 10
 usc_section: "1552"
 chapter: 79
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 1552"
-generated_at: "2026-03-29T18:04:13.095Z"
+generated_at: "2026-03-29T18:23:51.844Z"
 ---
 
 # § 1552. Correction of military records: claims incident thereto
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T18:04:13.095Z"
   - **(2)** The Secretary concerned is not required to act through a board in the case of the correction of a military record announcing a decision that a person is not eligible to enlist (or reenlist) or is not accepted for enlistment (or reenlistment) or announcing the promotion and appointment of an enlisted member to an initial or higher grade or the decision not to promote an enlisted member to a higher grade. Such a correction may be made only if the correction is favorable to the person concerned.
   - **(3)** Corrections under this section shall be made under procedures established by the Secretary concerned. In the case of the Secretary of a military department, those procedures must be approved by the Secretary of Defense.
   - **(4)** Except when procured by fraud, a correction under this section is final and conclusive on all officers of the United States.
-- **(b)** No correction may be made under subsection (a)(1) unless the claimant or his heir or legal representative files a request for the correction within three years after he discovers the error or injustice. However, a board established under subsection (a)(1) may excuse a failure to file within three years after discovery if it finds it to be in the interest of justice.
+- **(b)** No correction may be made under subsection (a)(1) unless the claimant (or the claimant’s heir or legal representative) or the Secretary concerned files a request for the correction within three years after discovering the error or injustice. The Secretary concerned may file a request for correction of a military record only if the request is made on behalf of a group of members or former members of the armed forces who were similarly harmed by the same error or injustice. A board established under subsection (a)(1) may excuse a failure to file within three years after discovery if it finds it to be in the interest of justice.
 - **(c)**
   - **(1)** The Secretary concerned may pay, from applicable current appropriations, a claim for the loss of pay, allowances, compensation, emoluments, or other pecuniary benefits, or for the repayment of a fine or forfeiture, if, as a result of correcting a record under this section, the amount is found to be due the claimant on account of his or another’s service in the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be, or on account of his or another’s service as a civilian employee.
   - **(2)** If the claimant is dead, the money shall be paid, upon demand, to his legal representative. However, if no demand for payment is made by a legal representative, the money shall be paid—
@@ -29,4 +29,5 @@ generated_at: "2026-03-29T18:04:13.095Z"
 - **(f)** With respect to records of courts-martial and related administrative records pertaining to court-martial cases tried or reviewed under chapter 47 of this title (or under the Uniform Code of Military Justice (Public Law 506 of the 81st Congress)), action under subsection (a) may extend only to—
   - **(1)** correction of a record to reflect actions taken by reviewing authorities under chapter 47 of this title (or under the Uniform Code of Military Justice (Public Law 506 of the 81st Congress)); or
   - **(2)** action on the sentence of a court-martial for purposes of clemency.
-- **(g)** In this section, the term “military record” means a document or other record that pertains to (1) an individual member or former member of the armed forces, or (2) at the discretion of the Secretary of the military department concerned, any other military matter affecting a member or former member of the armed forces, an employee or former employee of that military department, or a dependent or current or former spouse of any such person. Such term does not include records pertaining to civilian employment matters (such as matters covered by title 5 and chapters 81, 83, 87, 108, 373, 605, 607, 643, and 873 of this title).
+- **(g)** Any medical advisory opinion issued to a board established under subsection (a)(1) with respect to a member or former member of the armed forces who was diagnosed while serving in the armed forces as experiencing a mental health disorder shall include the opinion of a clinical psychologist or psychiatrist if the request for correction of records concerned relates to a mental health disorder.
+- **(h)** In this section, the term “military record” means a document or other record that pertains to (1) an individual member or former member of the armed forces, or (2) at the discretion of the Secretary of the military department concerned, any other military matter affecting a member or former member of the armed forces, an employee or former employee of that military department, or a dependent or current or former spouse of any such person. Such term does not include records pertaining to civilian employment matters (such as matters covered by title 5 and chapters 81, 83, 87, 108, 373, 605, 607, 643, and 873 of this title).

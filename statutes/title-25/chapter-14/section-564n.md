@@ -1,14 +1,12 @@
 ---
-title: "Section 564n - Protection of minors, persons non compos mentis, and other members needing assistance; guardians; other adequate means; trusts; annuities; assistance factors; contests"
+title: "Section 564n - Omitted"
 usc_title: 25
 usc_section: "564n"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 564n"
-generated_at: "2026-03-29T18:05:17.071Z"
+generated_at: "2026-03-29T18:25:23.696Z"
 ---
 
-# § 564n. Protection of minors, persons non compos mentis, and other members needing assistance; guardians; other adequate means; trusts; annuities; assistance factors; contests
-
-Prior to the transfer of title to, or the removal of restrictions from, property in accordance with the provisions of this subchapter, the Secretary shall protect the rights of members of the tribe who are minors, non compos mentis, or in the opinion of the Secretary in need of assistance in conducting their affairs, by causing the appointment of guardians for such members in courts of competent jurisdiction, or by such other means as he may deem adequate, without application from the member, including but not limited to the creation of a trust of such member’s property with a trustee selected by the Secretary, or the purchase by the Secretary of an annuity for such member: Provided, however , That no member shall be declared to be in need of assistance in conducting his affairs unless the Secretary determines that such member does not have sufficient ability, knowledge, experience, and judgment to enable him to manage his business affairs, including the administration, use, investment, and disposition of any property turned over to such member and the income and proceeds therefrom, with such reasonable degree of prudence and wisdom as will be apt to prevent him from losing such property or the benefits thereof: Provided further , That any member determined by the Secretary to be in need of assistance in conducting his affairs may, within one hundred and twenty days after receipt of written notice of such secretarial determination, contest the secretarial determination in any naturalization court for the area in which said member resides by filing therein a petition having that purpose; the burden shall thereupon devolve upon the Secretary to show cause why such member should not conduct his own affairs, and the decision of such court shall be final and conclusive with respect to the affected member’s conduct of his affairs.
+# § 564n. Omitted
 

@@ -3,9 +3,9 @@ title: "Section 8513 - Mandatory sanctions with respect to financial institution
 usc_title: 22
 usc_section: "8513"
 chapter: 92
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 8513"
-generated_at: "2026-03-29T18:05:22.056Z"
+generated_at: "2026-03-29T18:24:54.405Z"
 ---
 
 # § 8513. Mandatory sanctions with respect to financial institutions that engage in certain transactions

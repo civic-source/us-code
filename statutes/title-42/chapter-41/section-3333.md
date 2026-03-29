@@ -3,9 +3,9 @@ title: "Section 3333 - Metropolitan expediters"
 usc_title: 42
 usc_section: "3333"
 chapter: 41
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 3333"
-generated_at: "2026-03-29T18:07:14.509Z"
+generated_at: "2026-03-29T18:27:03.508Z"
 ---
 
 # § 3333. Metropolitan expediters

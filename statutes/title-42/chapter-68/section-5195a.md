@@ -3,9 +3,9 @@ title: "Section 5195a - Definitions"
 usc_title: 42
 usc_section: "5195a"
 chapter: 68
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 5195a"
-generated_at: "2026-03-29T18:07:14.661Z"
+generated_at: "2026-03-29T18:27:03.627Z"
 ---
 
 # § 5195a. Definitions
@@ -26,4 +26,4 @@ generated_at: "2026-03-29T18:07:14.661Z"
   - **(8)** The term “neighboring countries” includes Canada and Mexico.
   - **(9)** The terms “United States” and “States” includes 1 1 So in original. Probably should be “include”. the several States, the District of Columbia, and territories and possessions of the United States.
   - **(10)** The term “State” includes interstate emergency preparedness authorities established under section 5196(h) of this title .
-- **(b)** The terms “national defense” and “defense”, as used in the Defense Production Act of 1950 (50 U.S.C. App. 2061 et seq.), includes 1 emergency preparedness activities conducted pursuant to this subchapter.
+- **(b)** The terms “national defense” and “defense”, as used in the Defense Production Act of 1950 (50 U.S.C. App. 2061 et seq.), 1 1 See References in Text note below. includes 2 2 So in original. Probably should be “include”. emergency preparedness activities conducted pursuant to this subchapter.

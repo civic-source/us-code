@@ -1,12 +1,12 @@
 ---
-title: "Section 581i - Repealed. Pub. L. 95–307, § 8(a) , June 30, 1978 , 92 Stat. 356"
+title: "Section 581i - Repealed. Pub. L. 95–307 , § 8(a), June 30, 1978 , 92 Stat. 356"
 usc_title: 16
 usc_section: "581i"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 581i"
-generated_at: "2026-03-29T02:11:53.612Z"
+generated_at: "2026-03-29T18:24:22.664Z"
 ---
 
-# §§ 581b to 581i. Repealed. Pub. L. 95–307, § 8(a) , June 30, 1978 , 92 Stat. 356
+# §§ 581b to 581i. Repealed. Pub. L. 95–307 , § 8(a), June 30, 1978 , 92 Stat. 356
 

@@ -3,9 +3,9 @@ title: "Section 5773 - Duties and functions of the Administrator"
 usc_title: 42
 usc_section: "5773"
 chapter: 72
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 5773"
-generated_at: "2026-03-29T18:07:14.712Z"
+generated_at: "2026-03-29T18:27:03.658Z"
 ---
 
 # § 5773. Duties and functions of the Administrator
@@ -58,7 +58,7 @@ generated_at: "2026-03-29T18:07:14.712Z"
     - **(P)** operate a cyber tipline to provide online users and electronic service providers an effective means of reporting Internet-related child sexual exploitation in the areas of—
       - **(i)** possession, manufacture, and distribution of child pornography;
       - **(ii)** online enticement of children for sexual acts;
-      - **(iii)** child prostitution;
+      - **(iii)** child sex trafficking, including child prostitution;
       - **(iv)** sex tourism involving children;
       - **(v)** extrafamilial child sexual molestation;
       - **(vi)** unsolicited obscene material sent to a child;

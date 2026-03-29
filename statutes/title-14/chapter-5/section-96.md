@@ -3,9 +3,9 @@ title: "Section 96 - Prohibition on overhaul, repair, and maintenance of Coast G
 usc_title: 14
 usc_section: "96"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "14 U.S.C. § 96"
-generated_at: "2026-03-29T18:04:21.484Z"
+generated_at: "2026-03-29T18:23:55.767Z"
 ---
 
 # § 96. Prohibition on overhaul, repair, and maintenance of Coast Guard vessels in foreign shipyards

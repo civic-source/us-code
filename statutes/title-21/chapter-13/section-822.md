@@ -3,9 +3,9 @@ title: "Section 822 - Persons required to register"
 usc_title: 21
 usc_section: "822"
 chapter: 13
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 822"
-generated_at: "2026-03-29T18:05:14.885Z"
+generated_at: "2026-03-29T18:25:04.214Z"
 ---
 
 # § 822. Persons required to register
@@ -19,7 +19,9 @@ generated_at: "2026-03-29T18:05:14.885Z"
   - **(2)** A common or contract carrier or warehouseman, or an employee thereof, whose possession of the controlled substance or list I chemical is in the usual course of his business or employment.
   - **(3)** An ultimate user who possesses such substance for a purpose specified in section 802(25) 1 1 See References in Text note below. of this title.
 - **(d)** The Attorney General may, by regulation, waive the requirement for registration of certain manufacturers, distributors, or dispensers if he finds it consistent with the public health and safety.
-- **(e)** A separate registration shall be required at each principal place of business or professional practice where the applicant manufactures, distributes, or dispenses controlled substances or list I chemicals.
+- **(e)**
+  - **(1)** A separate registration shall be required at each principal place of business or professional practice where the applicant manufactures, distributes, or dispenses controlled substances or list I chemicals.
+  - **(2)** Notwithstanding paragraph (1), a registrant who is a veterinarian shall not be required to have a separate registration in order to transport and dispense controlled substances in the usual course of veterinary practice at a site other than the registrant’s registered principal place of business or professional practice, so long as the site of transporting and dispensing is located in a State where the veterinarian is licensed to practice veterinary medicine and is not a principal place of business or professional practice.
 - **(f)** The Attorney General is authorized to inspect the establishment of a registrant or applicant for registration in accordance with the rules and regulations promulgated by him.
 - **(g)**
   - **(1)** An ultimate user who has lawfully obtained a controlled substance in accordance with this subchapter may, without being registered, deliver the controlled substance to another person for the purpose of disposal of the controlled substance if—

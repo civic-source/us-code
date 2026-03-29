@@ -3,15 +3,15 @@ title: "Section 2034 - Survivor annuity for certain other former spouses"
 usc_title: 50
 usc_section: "2034"
 chapter: 38
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 2034"
-generated_at: "2026-03-29T18:07:43.057Z"
+generated_at: "2026-03-29T18:27:35.626Z"
 ---
 
 # § 2034. Survivor annuity for certain other former spouses
 
 - **(a)**
-  - **(1)** An individual who was a former spouse of a participant or retired participant on November 15, 1982 , shall be entitled, except to the extent such former spouse is disqualified under subsection (b) of this section, to a survivor annuity equal to 55 percent of the greater of—
+  - **(1)** An individual who was a former spouse of a participant or retired participant on November 15, 1982 , shall be entitled, except to the extent such former spouse is disqualified under subsection (b), to a survivor annuity equal to 55 percent of the greater of—
     - **(A)** the unreduced amount of the participant’s or retired participant’s annuity, as computed under section 2031(a) of this title ; or
     - **(B)** the unreduced amount of what such annuity as so computed would be if the participant, former participant, or retired participant had not elected payment of the lump-sum credit under section 2143 of this title .
   - **(2)** A survivor annuity payable under this section shall be reduced by an amount equal to any survivor annuity payments made to the former spouse under section 2033 of this title .
@@ -31,4 +31,4 @@ generated_at: "2026-03-29T18:07:43.057Z"
 - **(d)**
   - **(1)** A survivor annuity under this section shall not be payable unless appropriate written application is provided to the Director, complete with any supporting documentation which the Director may by regulation require. Any such application shall be submitted not later than April 1, 1989 . The Director may waive the application deadline under the preceding sentence in any case in which the Director determines that the circumstances warrant such a waiver.
   - **(2)** Upon approval of an application provided under paragraph (1), the appropriate survivor annuity shall be payable to the former spouse with respect to all periods before such approval during which the former spouse was entitled to such annuity under this section, but in no event shall a survivor annuity be payable under this section with respect to any period before October 1, 1986 .
-- **(e)** Notwithstanding subsection (d)(1) of this section, the deadline by which an application for a survivor annuity must be submitted shall not apply in cases in which a former spouse’s entitlement to such a survivor annuity is restored under subsection (b)(1) or (c)(2) of this section.
+- **(e)** Notwithstanding subsection (d)(1), the deadline by which an application for a survivor annuity must be submitted shall not apply in cases in which a former spouse’s entitlement to such a survivor annuity is restored under subsection (b)(1) or (c)(2).

@@ -3,14 +3,14 @@ title: "Section 7916 - Planting flexibility"
 usc_title: 7
 usc_section: "7916"
 chapter: 106
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 7916"
-generated_at: "2026-03-29T18:04:05.146Z"
+generated_at: "2026-03-29T18:23:43.541Z"
 ---
 
 # § 7916. Planting flexibility
 
-- **(a)** Subject to subsection (b) of this section, any commodity or crop may be planted on base acres on a farm.
+- **(a)** Subject to subsection (b), any commodity or crop may be planted on base acres on a farm.
 - **(b)**
   - **(1)** The planting of an agricultural commodity specified in paragraph (3) shall be prohibited on base acres unless the commodity, if planted, is destroyed before harvest.
   - **(2)** The planting of an agricultural commodity specified in paragraph (3) that is produced on a tree or other perennial plant shall be prohibited on base acres.
@@ -18,10 +18,10 @@ generated_at: "2026-03-29T18:04:05.146Z"
     - **(A)** Fruits.
     - **(B)** Vegetables (other than lentils, mung beans, and dry peas).
     - **(C)** Wild rice.
-- **(c)** Paragraphs (1) and (2) of subsection (b) of this section shall not limit the planting of an agricultural commodity specified in paragraph (3) of that subsection—
-  - **(1)** in any region in which there is a history of double-cropping of covered commodities with agricultural commodities specified in subsection (b)(3) of this section, as determined by the Secretary, in which case the double-cropping shall be permitted;
-  - **(2)** on a farm that the Secretary determines has a history of planting agricultural commodities specified in subsection (b)(3) of this section on base acres, except that direct payments and counter-cyclical payments shall be reduced by an acre for each acre planted to such an agricultural commodity; or
-  - **(3)** by the producers on a farm that the Secretary determines has an established planting history of a specific agricultural commodity specified in subsection (b)(3) of this section, except that—
+- **(c)** Paragraphs (1) and (2) of subsection (b) shall not limit the planting of an agricultural commodity specified in paragraph (3) of that subsection—
+  - **(1)** in any region in which there is a history of double-cropping of covered commodities with agricultural commodities specified in subsection (b)(3), as determined by the Secretary, in which case the double-cropping shall be permitted;
+  - **(2)** on a farm that the Secretary determines has a history of planting agricultural commodities specified in subsection (b)(3) on base acres, except that direct payments and counter-cyclical payments shall be reduced by an acre for each acre planted to such an agricultural commodity; or
+  - **(3)** by the producers on a farm that the Secretary determines has an established planting history of a specific agricultural commodity specified in subsection (b)(3), except that—
     - **(A)** the quantity planted may not exceed the average annual planting history of such agricultural commodity by the producers on the farm in the 1991 through 1995 or 1998 through 2001 crop years (excluding any crop year in which no plantings were made), as determined by the Secretary; and
     - **(B)** direct payments and counter-cyclical payments shall be reduced by an acre for each acre planted to such agricultural commodity.
-- **(d)** For the 2002 crop year only, if the calculation of base acres under section 7911(a) of this title results in total base acres for a farm in excess of the contract acreage (as defined in section 7202 of this title ) for the farm used to calculate the fiscal year 2002 payment authorized under section 7214 of this title , paragraphs (1) and (2) of subsection (b) of this section shall not limit the harvesting of an agricultural commodity specified in paragraph (3) of that subsection on the excess base acres, except that direct payments and counter-cyclical payments for the 2002 crop year shall be reduced by an acre for each acre of the excess base acres planted to such an agricultural commodity.
+- **(d)** For the 2002 crop year only, if the calculation of base acres under section 7911(a) of this title results in total base acres for a farm in excess of the contract acreage (as defined in section 7202 of this title ) for the farm used to calculate the fiscal year 2002 payment authorized under section 7214 of this title , paragraphs (1) and (2) of subsection (b) shall not limit the harvesting of an agricultural commodity specified in paragraph (3) of that subsection on the excess base acres, except that direct payments and counter-cyclical payments for the 2002 crop year shall be reduced by an acre for each acre of the excess base acres planted to such an agricultural commodity.

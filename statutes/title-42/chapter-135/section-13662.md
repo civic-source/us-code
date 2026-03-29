@@ -3,9 +3,9 @@ title: "Section 13662 - Termination of tenancy and assistance for illegal drug u
 usc_title: 42
 usc_section: "13662"
 chapter: 135
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 13662"
-generated_at: "2026-03-29T18:07:15.335Z"
+generated_at: "2026-03-29T18:27:04.130Z"
 ---
 
 # § 13662. Termination of tenancy and assistance for illegal drug users and alcohol abusers in federally assisted housing
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T18:07:15.335Z"
 - **(a)** Notwithstanding any other provision of law, a public housing agency or an owner of federally assisted housing (as applicable), shall establish standards or lease provisions for continued assistance or occupancy in federally assisted housing that allow the agency or owner (as applicable) to terminate the tenancy or assistance for any household with a member—
   - **(1)** who the public housing agency or owner determines is illegally using a controlled substance; or
   - **(2)** whose illegal use (or pattern of illegal use) of a controlled substance, or whose abuse (or pattern of abuse) of alcohol, is determined by the public housing agency or owner to interfere with the health, safety, or right to peaceful enjoyment of the premises by other residents.
-- **(b)** In determining whether, pursuant to subsection (a)(2) of this section, to terminate tenancy or assistance to any household based on a pattern of illegal use of a controlled substance or a pattern of abuse of alcohol by a household member, a public housing agency or an owner may consider whether such household member—
+- **(b)** In determining whether, pursuant to subsection (a)(2), to terminate tenancy or assistance to any household based on a pattern of illegal use of a controlled substance or a pattern of abuse of alcohol by a household member, a public housing agency or an owner may consider whether such household member—
   - **(1)** has successfully completed a supervised drug or alcohol rehabilitation program (as applicable) and is no longer engaging in the illegal use of a controlled substance or abuse of alcohol (as applicable);
   - **(2)** has otherwise been rehabilitated successfully and is no longer engaging in the illegal use of a controlled substance or abuse of alcohol (as applicable); or
   - **(3)** is participating in a supervised drug or alcohol rehabilitation program (as applicable) and is no longer engaging in the illegal use of a controlled substance or abuse of alcohol (as applicable).

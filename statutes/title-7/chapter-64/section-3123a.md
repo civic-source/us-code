@@ -3,9 +3,9 @@ title: "Section 3123a - Specialty crop committee"
 usc_title: 7
 usc_section: "3123a"
 chapter: 64
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 3123a"
-generated_at: "2026-03-29T18:04:05.004Z"
+generated_at: "2026-03-29T18:23:43.410Z"
 ---
 
 # § 3123a. Specialty crop committee
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T18:04:05.004Z"
   - **(1)** Individuals who are not members of the Advisory Board may be appointed as members of the specialty crops committee.
   - **(2)** Members of the specialty crops committee shall serve at the discretion of the executive committee.
   - **(3)** Membership of the specialty crops committee shall reflect diversity in the specialty crops represented.
-- **(c)** Not later than 180 days after the establishment of the specialty crops committee, and annually thereafter, the specialty crops committee shall submit to the Advisory Board a report containing the findings of its study under subsection (a) of this section. The specialty crops committee shall include in each report recommendations regarding the following:
+- **(c)** Not later than 180 days after the establishment of the specialty crops committee, and annually thereafter, the specialty crops committee shall submit to the Advisory Board a report containing the findings of its study under subsection (a). The specialty crops committee shall include in each report recommendations regarding the following:
   - **(1)** Programs designed to improve the efficiency, productivity, and profitability of specialty crop production in the United States.
   - **(2)** Research, extension, and teaching programs designed to improve competitiveness in the specialty crop industry, including programs that would—
     - **(A)** enhance the quality and shelf-life of fresh fruits and vegetables, including their taste and appearance;
@@ -41,7 +41,7 @@ generated_at: "2026-03-29T18:04:05.004Z"
   - **(5)** Analysis of the alignment of specialty crops committee recommendations with grants awarded through the specialty crop research initiative established under section 7632 of this title .
 - **(d)** In studying the scope and effectiveness of programs under subsection (a), the specialty crops committee shall consult on an ongoing basis with diverse sectors of the specialty crop industry.
 - **(e)** In preparing the annual budget recommendations for the Department of Agriculture, the Secretary shall take into consideration those findings and recommendations contained in the most-recent report of the specialty crops committee that are adopted by the Advisory Board.
-- **(f)** In the budget material submitted to Congress by the Secretary in connection with the budget submitted pursuant to section 1105 of title 31 for a fiscal year, the Secretary shall include a report describing how the Secretary addressed each recommendation of the specialty crops committee described in subsection (e) of this section.
+- **(f)** In the budget material submitted to Congress by the Secretary in connection with the budget submitted pursuant to section 1105 of title 31 for a fiscal year, the Secretary shall include a report describing how the Secretary addressed each recommendation of the specialty crops committee described in subsection (e).
 - **(g)** For the purposes of subsection (j) of section 7632 of this title , the citrus disease subcommittee shall—
   - **(1)** advise the Secretary on citrus research, extension, and development needs;
   - **(2)** propose, by a favorable vote of two-thirds of the members of the subcommittee, a research and extension agenda and annual budgets for the funds made available to carry out such subsection;

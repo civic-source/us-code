@@ -3,9 +3,9 @@ title: "Section 772 - Death of employee due to non-service-connected causes afte
 usc_title: 33
 usc_section: "772"
 chapter: 16
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 772"
-generated_at: "2026-03-29T18:06:10.508Z"
+generated_at: "2026-03-29T18:26:01.200Z"
 ---
 
 # § 772. Death of employee due to non-service-connected causes after 15 years’ service; amount of payment

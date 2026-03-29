@@ -3,9 +3,9 @@ title: "Section 8921 - Mandatory retirement: Superintendent of the United States
 usc_title: 10
 usc_section: "8921"
 chapter: 867
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 8921"
-generated_at: "2026-03-29T18:04:13.294Z"
+generated_at: "2026-03-29T18:23:52.088Z"
 ---
 
 # § 8921. Mandatory retirement: Superintendent of the United States Air Force Academy; waiver authority

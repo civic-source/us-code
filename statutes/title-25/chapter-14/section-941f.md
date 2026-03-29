@@ -1,22 +1,12 @@
 ---
-title: "Section 941f - Transitional and provisional government"
+title: "Section 941f - Omitted"
 usc_title: 25
 usc_section: "941f"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 941f"
-generated_at: "2026-03-29T18:05:17.111Z"
+generated_at: "2026-03-29T18:25:23.704Z"
 ---
 
-# § 941f. Transitional and provisional government
+# § 941f. Omitted
 
-- **(a)** The Tribe shall adopt a new constitution within 24 months after the effective date of this subchapter.
-- **(b)**
-  - **(1)** Until the Tribe has adopted a constitution, the existing tribal constitution shall remain in effect and the Executive Committee is recognized as the provisional and transitional governing body of the Tribe. Until an election of tribal officers under the new constitution, the Executive Committee shall—
-    - **(A)** represent the Tribe and its Members in the implementation of this subchapter; and
-    - **(B)** during such period—
-      - **(i)** have full authority to enter into contracts, grant agreements and other arrangements with any Federal department or agency; and
-      - **(ii)** have full authority to administer or operate any program under such contracts or agreements.
-  - **(2)** Until the initial election of tribal officers under a new constitution and bylaws, the Executive Committee shall—
-    - **(A)** determine tribal membership in accordance with the provisions of section 941e of this title ; and
-    - **(B)** oversee and implement the revision and proposal to the Tribe of a new constitution and conduct such tribal meetings and elections as are required by this subchapter.

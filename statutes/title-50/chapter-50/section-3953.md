@@ -3,9 +3,9 @@ title: "Section 3953 - Mortgages and trust deeds"
 usc_title: 50
 usc_section: "3953"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 3953"
-generated_at: "2026-03-29T02:16:14.822Z"
+generated_at: "2026-03-29T18:27:35.716Z"
 ---
 
 # § 3953. Mortgages and trust deeds

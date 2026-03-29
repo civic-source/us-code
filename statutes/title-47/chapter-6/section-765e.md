@@ -3,15 +3,15 @@ title: "Section 765e - Reports to Congress"
 usc_title: 47
 usc_section: "765e"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "47 U.S.C. § 765e"
-generated_at: "2026-03-29T18:07:40.897Z"
+generated_at: "2026-03-29T18:27:09.596Z"
 ---
 
 # § 765e. Reports to Congress
 
 - **(a)** The President and the Commission shall report to the Committees on Commerce and International Relations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Foreign Relations of the Senate within 90 calendar days of March 17, 2000 , and not less than annually thereafter, on the progress made to achieve the objectives and carry out the purposes and provisions of this subchapter. Such reports shall be made available immediately to the public.
-- **(b)** The reports submitted pursuant to subsection (a) of this section shall include the following:
+- **(b)** The reports submitted pursuant to subsection (a) shall include the following:
   - **(1)** Progress with respect to each objective since the most recent preceding report.
   - **(2)** Views of the Parties with respect to privatization.
   - **(3)** Views of industry and consumers on privatization.

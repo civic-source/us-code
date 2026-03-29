@@ -3,9 +3,9 @@ title: "Section 4807 - Selection of Delegate Body"
 usc_title: 7
 usc_section: "4807"
 chapter: 79
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 4807"
-generated_at: "2026-03-29T18:04:05.040Z"
+generated_at: "2026-03-29T18:23:43.441Z"
 ---
 
 # § 4807. Selection of Delegate Body
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T18:04:05.040Z"
   - **(3)**
     - **(A)** 1 1 So in original. No subpar. (B) has been enacted. Additional producers who are residents of a State may be nominated as candidates of such State by written petition signed by 100 producers or 5 percent of the pork producers in such State, whichever is less. The Secretary shall establish and publicize the procedures governing the time and place for filing petitions.
 - **(b)**
-  - **(1)** After the Secretary has received the nominations required under subsection (a) of this section and not later than 45 days after the effective date of the order, the Secretary shall call for an election within each State of persons for appointment as producer members of the initial Delegate Body.
+  - **(1)** After the Secretary has received the nominations required under subsection (a) and not later than 45 days after the effective date of the order, the Secretary shall call for an election within each State of persons for appointment as producer members of the initial Delegate Body.
   - **(2)** To be eligible to vote in an election held in a State, a person must be a producer who is a resident of such State.
   - **(3)**
     - **(A)** Notice of each such election shall be given by the Secretary—
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T18:04:05.040Z"
   - **(4)** Each State shall nominate to the Delegate Body the number of producer members required under section 4806(b)(2)(B) of this title .
   - **(5)** The producers who receive the highest number of votes in each State shall be nominated for appointment as members of the Delegate Body from such State.
 - **(c)**
-  - **(1)** Except as provided in paragraph (3), after the election of the producer members of the initial Delegate Body, the Board shall administer all subsequent nominations and elections of the producer members to be nominated for appointment as members of the Delegate Body, with the assistance of the Secretary and in accordance with subsections (a)(3) and (b) of this section.
+  - **(1)** Except as provided in paragraph (3), after the election of the producer members of the initial Delegate Body, the Board shall administer all subsequent nominations and elections of the producer members to be nominated for appointment as members of the Delegate Body, with the assistance of the Secretary and in accordance with subsections (a)(3) and (b).
   - **(2)** The Board shall determine the timing of an election referred to in paragraph (1).
   - **(3)** To be eligible to vote in such an election in a State, a person must—
     - **(A)** be a producer who is a resident of such State;
@@ -35,4 +35,4 @@ generated_at: "2026-03-29T18:04:05.040Z"
 - **(d)**
   - **(1)** Prior to the expiration of the term of any producer member of the Delegate Body, the Board shall appoint a nominating committee of producers who are residents of the State represented by such member.
   - **(2)** Such committee shall nominate producers of such State as candidates to fill the position for which an election is to be held.
-  - **(3)** Additional producers who are residents of a State may be nominated to fill such positions in accordance with subsection (a)(3) of this section.
+  - **(3)** Additional producers who are residents of a State may be nominated to fill such positions in accordance with subsection (a)(3).

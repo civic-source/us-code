@@ -1,14 +1,12 @@
 ---
-title: "Section 443a - Conveyance to Indian tribes of federally owned buildings, improvements, or facilities; disposition of property by Indians; forfeiture; “Indian” defined"
+title: "Section 443a - Transferred"
 usc_title: 25
 usc_section: "443a"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 443a"
-generated_at: "2026-03-29T18:05:17.051Z"
+generated_at: "2026-03-29T18:25:23.693Z"
 ---
 
-# § 443a. Conveyance to Indian tribes of federally owned buildings, improvements, or facilities; disposition of property by Indians; forfeiture; “Indian” defined
-
-The Secretary of the Interior at the request of any Indian tribe, band, or group is authorized to convey to such Indian tribe, band, or group, by such means as he may deem appropriate, title to any federally owned buildings, improvements, or facilities (including any personal property used in connection with such buildings, improvements, or facilities) that are situated on lands of such tribe, band, or group or on lands reserved for the administration of its affairs, and that are no longer required by the Secretary for the administration of Indian affairs. Any tribe, band, or group to which property is conveyed pursuant to this section may dispose of such property whenever its governing body determines that the property is no longer needed for its use. If, at any time while property conveyed pursuant to this section remains in the ownership of any Indian tribe, band, or group, the Secretary of the Interior determines that such property is not being adequately maintained or properly utilized by such tribe, band, or group or that the property creates a health or safety hazard or other undesirable condition, he may declare a forfeiture of the conveyance and the title to such property shall thereupon revert to the United States. Such determination by the Secretary shall be final. For the purpose of this section, the term “Indian” shall include Eskimos and Aleuts.
+# § 443a. Transferred
 

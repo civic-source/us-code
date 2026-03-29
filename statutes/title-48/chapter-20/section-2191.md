@@ -3,9 +3,9 @@ title: "Section 2191 - Rules of construction"
 usc_title: 48
 usc_section: "2191"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "48 U.S.C. § 2191"
-generated_at: "2026-03-29T02:16:00.854Z"
+generated_at: "2026-03-29T18:27:11.705Z"
 ---
 
 # § 2191. Rules of construction

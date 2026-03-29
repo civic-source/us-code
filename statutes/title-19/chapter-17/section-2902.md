@@ -3,9 +3,9 @@ title: "Section 2902 - Trade agreement negotiating authority"
 usc_title: 19
 usc_section: "2902"
 chapter: 17
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 2902"
-generated_at: "2026-03-29T18:04:55.123Z"
+generated_at: "2026-03-29T18:24:16.190Z"
 ---
 
 # § 2902. Trade agreement negotiating authority
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T18:04:55.123Z"
       - **(i)** such modification or continuance of any existing duty,
       - **(ii)** such continuance of existing duty-free or excise treatment, or
       - **(iii)** such additional duties;
-  - **(2)** No proclamation may be made under subsection (a) of this section that—
+  - **(2)** No proclamation may be made under subsection (a) that—
     - **(A)** reduces any rate of duty (other than a rate of duty that does not exceed 5 percent ad valorem on August 23, 1988 ) to a rate which is less than 50 percent of the rate of such duty that applies on August 23, 1988 ; or
     - **(B)** increases any rate of duty above the rate that applies on August 23, 1988 .
   - **(3)**
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T18:04:55.123Z"
   - **(4)** If the President determines that such action will simplify the computation of reductions under paragraph (3), the President may round an annual reduction by the lesser of—
     - **(A)** the difference between the reduction without regard to this paragraph and the next lower whole number; or
     - **(B)** one-half of 1 percent ad valorem.
-  - **(5)** No reduction in a rate of duty under a trade agreement entered into under subsection (a) of this section on any article may take effect more than 10 years after the effective date of the first reduction under paragraph (1) that is proclaimed to carry out the trade agreement with respect to such article.
+  - **(5)** No reduction in a rate of duty under a trade agreement entered into under subsection (a) on any article may take effect more than 10 years after the effective date of the first reduction under paragraph (1) that is proclaimed to carry out the trade agreement with respect to such article.
   - **(6)** A rate of duty reduction or increase that may not be proclaimed by reason of paragraph (2) may take effect only if a provision authorizing such reduction or increase is included within an implementing bill provided for under section 2903 of this title and that bill is enacted into law.
 - **(b)**
   - **(1)** Whenever the President determines that any barrier to, or other distortion of, international trade—
@@ -47,7 +47,7 @@ generated_at: "2026-03-29T18:04:55.123Z"
   - **(4)** The 60-day period of time described in paragraph (3)(C) shall be computed in accordance with section 2903(e) of this title .
   - **(5)** In any case in which there is an inconsistency between any provision of this Act and any bilateral free trade area agreement that entered into force and effect with respect to the United States before January 1, 1987 , the provision shall not apply with respect to the foreign country that is party to that agreement.
 - **(d)**
-  - **(1)** Before the President enters into any trade agreement under subsection (b) or (c) of this section, the President shall consult with—
+  - **(1)** Before the President enters into any trade agreement under subsection (b) or (c), the President shall consult with—
     - **(A)** the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate; and
     - **(B)** each other committee of the House and the Senate, and each joint committee of the Congress, which has jurisdiction over legislation involving subject matters which would be affected by the trade agreement.
   - **(2)** The consultation under paragraph (1) shall include—
@@ -56,9 +56,9 @@ generated_at: "2026-03-29T18:04:55.123Z"
     - **(C)** all matters relating to the implementation of the agreement under section 2903 of this title .
   - **(3)** If it is proposed to implement two or more trade agreements in a single implementing bill under section 2903 of this title , the consultation under paragraph (1) shall include the desirability and feasibility of such proposed implementation.
 - **(e)**
-  - **(1)** Notwithstanding the time limitations in subsections (a) and (b) of this section, if the Uruguay Round of multilateral trade negotiations under the auspices of the General Agreement on Tariffs and Trade has not resulted in trade agreements by May 31, 1993 , the President may, during the period after May 31, 1993 , and before April 16, 1994 , enter into, under subsections (a) and (b) of this section, trade agreements resulting from such negotiations.
-  - **(2)** No proclamation under subsection (a) of this section to carry out the provisions regarding tariff barriers of a trade agreement that is entered into pursuant to paragraph (1) may take effect before the effective date of a bill that implements the provisions regarding nontariff barriers of a trade agreement that is entered into under such paragraph.
-  - **(3)** Section 2903 of this title applies to any trade agreement negotiated under subsection (b) of this section pursuant to paragraph (1), except that—
+  - **(1)** Notwithstanding the time limitations in subsections (a) and (b), if the Uruguay Round of multilateral trade negotiations under the auspices of the General Agreement on Tariffs and Trade has not resulted in trade agreements by May 31, 1993 , the President may, during the period after May 31, 1993 , and before April 16, 1994 , enter into, under subsections (a) and (b) of this section, trade agreements resulting from such negotiations.
+  - **(2)** No proclamation under subsection (a) to carry out the provisions regarding tariff barriers of a trade agreement that is entered into pursuant to paragraph (1) may take effect before the effective date of a bill that implements the provisions regarding nontariff barriers of a trade agreement that is entered into under such paragraph.
+  - **(3)** Section 2903 of this title applies to any trade agreement negotiated under subsection (b) pursuant to paragraph (1), except that—
     - **(A)** in applying subsection (a)(1)(A) of section 2903 of this title to any such agreement, the phrase “at least 120 calendar days before the day on which he enters into the trade agreement (but not later than December 15, 1993 ),” shall be substituted for the phrase “at least 90 calendar days before the day on which he enters into the trade agreement,”; and
     - **(B)** no provision of subsection (b) of section 2903 of this title other than paragraph (1)(A) applies to any such agreement and in applying such paragraph, “ April 16, 1994 ;” shall be substituted for “ June 1, 1991 ;”.
   - **(4)** The report required under section 2155(e)(1) of this title regarding any trade agreement provided for under paragraph (1) shall be provided to the President, the Congress, and the United States Trade Representative not later than 30 days after the date on which the President notifies the Congress under section 2903(a)(1)(A) of this title of his intention to enter into the agreement (but before January 15, 1994 ).

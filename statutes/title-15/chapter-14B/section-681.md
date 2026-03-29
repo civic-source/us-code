@@ -3,9 +3,9 @@ title: "Section 681 - Organization"
 usc_title: 15
 usc_section: "681"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 681"
-generated_at: "2026-03-29T18:04:29.489Z"
+generated_at: "2026-03-29T18:24:08.388Z"
 ---
 
 # § 681. Organization

@@ -1,30 +1,12 @@
 ---
-title: "Section 15512 - Establishment of State-based administrative complaint procedures to remedy grievances"
+title: "Section 15512 - Transferred"
 usc_title: 42
 usc_section: "15512"
 chapter: 146
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 15512"
-generated_at: "2026-03-29T18:07:15.417Z"
+generated_at: "2026-03-29T18:27:04.190Z"
 ---
 
-# § 15512. Establishment of State-based administrative complaint procedures to remedy grievances
+# § 15512. Transferred
 
-- **(a)**
-  - **(1)** If a State receives any payment under a program under this chapter, the State shall be required to establish and maintain State-based administrative complaint procedures which meet the requirements of paragraph (2).
-  - **(2)** The requirements of this paragraph are as follows:
-    - **(A)** The procedures shall be uniform and nondiscriminatory.
-    - **(B)** Under the procedures, any person who believes that there is a violation of any provision of subchapter III of this chapter (including a violation which has occurred, is occurring, or is about to occur) may file a complaint.
-    - **(C)** Any complaint filed under the procedures shall be in writing and notarized, and signed and sworn by the person filing the complaint.
-    - **(D)** The State may consolidate complaints filed under subparagraph (B).
-    - **(E)** At the request of the complainant, there shall be a hearing on the record.
-    - **(F)** If, under the procedures, the State determines that there is a violation of any provision of subchapter III of this chapter, the State shall provide the appropriate remedy.
-    - **(G)** If, under the procedures, the State determines that there is no violation, the State shall dismiss the complaint and publish the results of the procedures.
-    - **(H)** The State shall make a final determination with respect to a complaint prior to the expiration of the 90-day period which begins on the date the complaint is filed, unless the complainant consents to a longer period for making such a determination.
-    - **(I)** If the State fails to meet the deadline applicable under subparagraph (H), the complaint shall be resolved within 60 days under alternative dispute resolution procedures established for purposes of this section. The record and other materials from any proceedings conducted under the complaint procedures established under this section shall be made available for use under the alternative dispute resolution procedures.
-- **(b)**
-  - **(1)** Not later than January 1, 2004 , each nonparticipating State shall elect—
-    - **(A)** to certify to the Commission that the State meets the requirements of subsection (a) of this section in the same manner as a State receiving a payment under this chapter; or
-    - **(B)** to submit a compliance plan to the Attorney General which provides detailed information on the steps the State will take to ensure that it meets the requirements of subchapter III of this chapter.
-  - **(2)** A nonparticipating State (other than a State which makes the election described in paragraph (1)(A)) shall be deemed to not meet the requirements of subchapter III of this chapter if the Attorney General has not approved a compliance plan submitted by the State under this subsection.
-  - **(3)** In this section, a “nonparticipating State” is a State which, during 2003, does not notify any office which is responsible for making payments to States under any program under this chapter of its intent to participate in, and receive funds under, the program.

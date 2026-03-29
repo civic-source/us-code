@@ -3,9 +3,9 @@ title: "Section 2227 - Fire safety systems in federally assisted buildings"
 usc_title: 15
 usc_section: "2227"
 chapter: 49
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 2227"
-generated_at: "2026-03-29T18:04:29.844Z"
+generated_at: "2026-03-29T18:24:08.533Z"
 ---
 
 # § 2227. Fire safety systems in federally assisted buildings
@@ -72,7 +72,7 @@ generated_at: "2026-03-29T18:04:29.844Z"
 - **(f)** The head of any Federal agency that owns, leases, or operates a building or housing unit with Federal funds shall invite the local agency or voluntary organization having responsibility for fire protection in the jurisdiction where the building or housing unit is located to prepare, and biennially review, a prefire plan for the building or housing unit.
 - **(g)**
   - **(1)** Within 3 years after October 26, 1992 , and every 3 years thereafter, the Administrator of General Services shall transmit to Congress a report on the level of fire safety in Federal employee office buildings subject to fire safety requirements under this section. Such report shall contain a description of such buildings for each Federal agency.
-  - **(2)** Within 10 years after October 26, 1992 , each Federal agency providing housing to Federal employees or housing assistance shall submit a report to Congress on the progress of that agency in implementing subsection (c) of this section and on plans for continuing such implementation.
+  - **(2)** Within 10 years after October 26, 1992 , each Federal agency providing housing to Federal employees or housing assistance shall submit a report to Congress on the progress of that agency in implementing subsection (c) and on plans for continuing such implementation.
   - **(3)**
     - **(A)** The National Institute of Standards and Technology shall conduct a study and submit a report to Congress on the use, in combination, of fire detection systems, fire suppression systems, and compartmentation. Such study shall—
       - **(i)** quantify performance and reliability for fire detection systems, fire suppression systems, and compartmentation, including a field assessment of performance and determination of conditions under which a reduction or elimination of 1 or more of those systems would result in an unacceptable risk of fire loss; and

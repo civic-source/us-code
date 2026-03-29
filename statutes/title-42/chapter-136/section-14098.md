@@ -3,9 +3,9 @@ title: "Section 14098 - Service obligation"
 usc_title: 42
 usc_section: "14098"
 chapter: 136
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 14098"
-generated_at: "2026-03-29T18:07:15.366Z"
+generated_at: "2026-03-29T18:27:04.157Z"
 ---
 
 # § 14098. Service obligation

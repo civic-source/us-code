@@ -3,9 +3,9 @@ title: "Section 6389 - Navy Reserve and Marine Corps Reserve; officers: eliminat
 usc_title: 10
 usc_section: "6389"
 chapter: 573
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 6389"
-generated_at: "2026-03-29T18:04:13.262Z"
+generated_at: "2026-03-29T18:23:52.056Z"
 ---
 
 # § 6389. Navy Reserve and Marine Corps Reserve; officers: elimination from active status; computation of total commissioned service

@@ -3,9 +3,9 @@ title: "Section 825d - Officials dealing in securities"
 usc_title: 16
 usc_section: "825d"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 825d"
-generated_at: "2026-03-29T18:05:06.850Z"
+generated_at: "2026-03-29T18:24:22.724Z"
 ---
 
 # § 825d. Officials dealing in securities
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T18:05:06.850Z"
     - **(B)** any company, firm, or organization which is authorized by law to underwrite or participate in the marketing of securities of a public utility;
     - **(C)** any company, firm, or organization which produces or supplies electrical equipment or coal, natural gas, oil, nuclear fuel, or other fuel, for the use of any public utility;
     - **(D)** any company, firm, or organization which during any one of the 3 calendar years immediately preceding the filing date was one of the 20 purchasers of electric energy which purchased (for purposes other than for resale) one of the 20 largest annual amounts of electric energy sold by such public utility (or by any public utility which is part of the same holding company system) during any one of such three calendar years;
-    - **(E)** any entity referred to in subsection (b) of this section; and
+    - **(E)** any entity referred to in subsection (b); and
     - **(F)** any company, firm, or organization which is controlled by any company, firm, or organization referred to in this paragraph.
   - **(3)** For purposes of this subsection—
     - **(A)** The term “public utility” includes any company which is a part of a holding company system which includes a registered holding company, unless no company in such system is an electric utility.

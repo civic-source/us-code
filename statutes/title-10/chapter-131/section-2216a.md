@@ -3,9 +3,9 @@ title: "Section 2216a - Rapidly meeting urgent needs: Joint Urgent Operational N
 usc_title: 10
 usc_section: "2216a"
 chapter: 131
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2216a"
-generated_at: "2026-03-29T18:04:13.128Z"
+generated_at: "2026-03-29T18:23:51.889Z"
 ---
 
 # § 2216a. Rapidly meeting urgent needs: Joint Urgent Operational Needs Fund
@@ -27,4 +27,4 @@ generated_at: "2026-03-29T18:04:13.128Z"
   - **(2)** Upon determination by the Secretary that all or part of the amounts transferred from the Fund under paragraph (1) are not necessary for the purpose for which transferred, such amounts may be transferred back to the Fund.
   - **(3)** The transfer of an amount to an account under the authority in paragraph (1) shall be deemed to increase the amount authorized for such account by an amount equal to the amount so transferred.
   - **(4)** The transfer authority provided by paragraphs (1) and (2) is in addition to any other transfer authority available to the Department of Defense by law.
-- **(e)** The authority to make expenditures or transfers from the Fund shall expire on September 30, 2015 .
+- **(e)** The authority to make expenditures or transfers from the Fund shall expire on September 30, 2018 .

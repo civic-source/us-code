@@ -3,9 +3,9 @@ title: "Section 25e - Prevention of methamphetamine and inhalant abuse and addic
 usc_title: 42
 usc_section: "25e"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 25e"
-generated_at: "2026-03-29T18:07:13.445Z"
+generated_at: "2026-03-29T18:27:02.668Z"
 ---
 
 # § 290bb–25e. Prevention of methamphetamine and inhalant abuse and addiction
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T18:07:13.445Z"
 - **(a)** The Director of the Center for Substance Abuse Prevention (referred to in this section as the “Director”) may make grants to and enter into contracts and cooperative agreements with public and nonprofit private entities to enable such entities—
   - **(1)** to carry out school-based programs concerning the dangers of methamphetamine or inhalant abuse and addiction, using methods that are effective and evidence-based, including initiatives that give students the responsibility to create their own anti-drug abuse education programs for their schools; and
   - **(2)** to carry out community-based methamphetamine or inhalant abuse and addiction prevention programs that are effective and evidence-based.
-- **(b)** Amounts made available under a grant, contract or cooperative agreement under subsection (a) of this section shall be used for planning, establishing, or administering methamphetamine or inhalant prevention programs in accordance with subsection (c) of this section.
+- **(b)** Amounts made available under a grant, contract or cooperative agreement under subsection (a) shall be used for planning, establishing, or administering methamphetamine or inhalant prevention programs in accordance with subsection (c).
 - **(c)**
   - **(1)** Amounts provided under this section may be used—
     - **(A)** to carry out school-based programs that are focused on those districts with high or increasing rates of methamphetamine or inhalant abuse and addiction and targeted at populations which are most at risk to start methamphetamine or inhalant abuse;
@@ -27,4 +27,4 @@ generated_at: "2026-03-29T18:07:13.445Z"
 - **(d)**
   - **(1)** Up to $500,000 of the amount available in each fiscal year to carry out this section shall be made available to the Director, acting in consultation with other Federal agencies, to support and conduct periodic analyses and evaluations of effective prevention programs for methamphetamine or inhalant abuse and addiction and the development of appropriate strategies for disseminating information about and implementing these programs.
   - **(2)** The Director shall submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Commerce and Committee on Appropriations of the House of Representatives, an annual report with the results of the analyses and evaluation under paragraph (1).
-- **(e)** There is authorized to be appropriated to carry out subsection (a) of this section, $10,000,000 for fiscal year 2001, and such sums as may be necessary for each of fiscal years 2002 and 2003.
+- **(e)** There is authorized to be appropriated to carry out subsection (a), $10,000,000 for fiscal year 2001, and such sums as may be necessary for each of fiscal years 2002 and 2003.

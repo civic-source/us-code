@@ -3,9 +3,9 @@ title: "Section 3a - State and Federal responsibilities"
 usc_title: 15
 usc_section: "3a"
 chapter: 2
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 3a"
-generated_at: "2026-03-29T18:04:29.407Z"
+generated_at: "2026-03-29T18:24:08.317Z"
 ---
 
 # § 80b–3a. State and Federal responsibilities
@@ -24,8 +24,9 @@ generated_at: "2026-03-29T18:04:29.407Z"
   - **(3)** For purposes of this subsection, the term “assets under management” means the securities portfolios with respect to which an investment adviser provides continuous and regular supervisory or management services.
 - **(b)**
   - **(1)** No law of any State or political subdivision thereof requiring the registration, licensing, or qualification as an investment adviser or supervised person of an investment adviser shall apply to any person—
-    - **(A)** that is registered under section 80b–3 of this title as an investment adviser, or that is a supervised person of such person, except that a State may license, register, or otherwise qualify any investment adviser representative who has a place of business located within that State; or
-    - **(B)** that is not registered under section 80b–3 of this title because that person is excepted from the definition of an investment adviser under section 80b–2(a)(11) of this title .
+    - **(A)** that is registered under section 80b–3 of this title as an investment adviser, or that is a supervised person of such person, except that a State may license, register, or otherwise qualify any investment adviser representative who has a place of business located within that State;
+    - **(B)** that is not registered under section 80b–3 of this title because that person is excepted from the definition of an investment adviser under section 80b–2(a)(11) of this title ; or
+    - **(C)** that is not registered under section 80b–3 of this title because that person is exempt from registration as provided in subsection (b)(7) of such section, or is a supervised person of such person.
   - **(2)** Nothing in this subsection shall prohibit the securities commission (or any agency or office performing like functions) of any State from investigating and bringing enforcement actions with respect to fraud or deceit against an investment adviser or person associated with an investment adviser.
-- **(c)** Notwithstanding subsection (a) of this section, the Commission, by rule or regulation upon its own motion, or by order upon application, may permit the registration with the Commission of any person or class of persons to which the application of subsection (a) of this section would be unfair, a burden on interstate commerce, or otherwise inconsistent with the purposes of this section.
+- **(c)** Notwithstanding subsection (a), the Commission, by rule or regulation upon its own motion, or by order upon application, may permit the registration with the Commission of any person or class of persons to which the application of subsection (a) would be unfair, a burden on interstate commerce, or otherwise inconsistent with the purposes of this section.
 - **(d)** Upon request of the securities commissioner (or any agency or officer performing like functions) of any State, the Commission may provide such training, technical assistance, or other reasonable assistance in connection with the regulation of investment advisers by the State.

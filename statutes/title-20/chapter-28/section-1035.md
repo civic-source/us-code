@@ -3,9 +3,9 @@ title: "Section 1035 - Adjunct teacher corps"
 usc_title: 20
 usc_section: "1035"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1035"
-generated_at: "2026-03-29T18:05:00.056Z"
+generated_at: "2026-03-29T18:24:40.906Z"
 ---
 
 # § 1035. Adjunct teacher corps
@@ -38,6 +38,6 @@ generated_at: "2026-03-29T18:05:00.056Z"
 - **(i)** Each eligible entity receiving a grant under this section shall prepare and submit to the Secretary a final report on the results of the activities supported by such grant, which shall contain such information as the Secretary may require, including any improvements in student academic achievement as a result of the use of adjunct content specialists.
 - **(j)** The Secretary shall evaluate the activities supported by grants under this section, including the impact of such activities on student academic achievement, and shall report the results of such evaluation to the authorizing committees.
 - **(k)** In this section, the term “adjunct content specialist” means an individual who—
-  - **(1)** meets the requirements of section 7801(23)(B)(ii) of this title ;
+  - **(1)** meets the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title ;
   - **(2)** has demonstrated expertise in mathematics, science, or a critical foreign language, as determined by the local educational agency; and
-  - **(3)** is not the primary provider of instructional services to a student, unless the adjunct content specialist is under the direct supervision of a teacher who meets the requirements of section 7801(23) of this title .
+  - **(3)** is not the primary provider of instructional services to a student, unless the adjunct content specialist is under the direct supervision of a teacher who meets the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title .

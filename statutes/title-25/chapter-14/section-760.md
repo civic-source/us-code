@@ -1,14 +1,12 @@
 ---
-title: "Section 760 - Education and training program; purposes; subjects; transportation; subsistence; contracts; other education programs"
+title: "Section 760 - Omitted"
 usc_title: 25
 usc_section: "760"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 760"
-generated_at: "2026-03-29T18:05:17.103Z"
+generated_at: "2026-03-29T18:25:23.701Z"
 ---
 
-# § 760. Education and training program; purposes; subjects; transportation; subsistence; contracts; other education programs
-
-Prior to the issuance of a proclamation in accordance with the provisions of section 757 of this title , the Secretary is authorized to undertake, within the limits of available appropriations, a special program of education and training designed to help the members of the tribe to earn a livelihood, to conduct their own affairs, and to assume their responsibilities as citizens without special services because of their status as Indians. Such program may include language training, orientation in non-Indian community customs and living standards, vocational training and related subjects, transportation to the place of training or instruction, and subsistence during the course of training or instruction. For the purposes of such program the Secretary is authorized to enter into contracts or agreements with any Federal, State, or local governmental agency, corporation, association, or person. Nothing in this section shall preclude any Federal agency from undertaking any other program for the education and training of Indians with funds appropriated to it.
+# § 760. Omitted
 

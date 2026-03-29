@@ -3,9 +3,9 @@ title: "Section 1650 - Appointments of representatives and panel members under C
 usc_title: 22
 usc_section: "1650"
 chapter: 21
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 1650"
-generated_at: "2026-03-29T18:05:21.787Z"
+generated_at: "2026-03-29T18:24:54.163Z"
 ---
 
 # § 1650. Appointments of representatives and panel members under Convention on the Settlement of Investment Disputes

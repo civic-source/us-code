@@ -3,9 +3,9 @@ title: "Section 17541 - Federal prisoner reentry initiative"
 usc_title: 42
 usc_section: "17541"
 chapter: 153
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 17541"
-generated_at: "2026-03-29T18:07:15.525Z"
+generated_at: "2026-03-29T18:27:04.273Z"
 ---
 
 # § 17541. Federal prisoner reentry initiative
@@ -51,7 +51,7 @@ generated_at: "2026-03-29T18:07:15.525Z"
         - **(II)** a 10-year goal to increase, at a minimum, the baseline relative reduction rate of recidivism by 5 percent within 10 fiscal years.
   - **(4)** Any written information that the Bureau of Prisons provides to inmates for reentry planning purposes shall use common terminology and language.
   - **(5)** The Bureau of Prisons shall provide the United States Probation and Pretrial Services System with relevant information on the medical care needs and the mental health treatment needs of inmates scheduled for release from custody. The United States Probation and Pretrial Services System shall take this information into account when developing supervision plans in an effort to address the medical care and mental health care needs of such individuals. The Bureau of Prisons shall provide inmates with a sufficient amount of all necessary medications (which will normally consist of, at a minimum, a 2-week supply of such medications) upon release from custody.
-- **(e)** The Attorney General, in consultation with the Secretary of Labor, shall take such steps as are necessary to educate employers and the one-stop partners and one-stop operators (as such terms are defined in section 2801 of title 29 ) that provide services at any center operated under a one-stop delivery system established under section 2864(c) of title 29 regarding incentives (including the Federal bonding program of the Department of Labor and tax credits) for hiring former Federal, State, or local prisoners.
+- **(e)** The Attorney General, in consultation with the Secretary of Labor, shall take such steps as are necessary to educate employers and the one-stop partners and one-stop operators (as such terms are defined in section 3102 of title 29 ) that provide services at any center operated under a one-stop delivery system established under section 3151(e) of title 29 regarding incentives (including the Federal bonding program of the Department of Labor and tax credits) for hiring former Federal, State, or local prisoners.
 - **(f)**
 - **(g)**
   - **(1)**

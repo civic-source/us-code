@@ -3,9 +3,9 @@ title: "Section 13707 - Payment of rates"
 usc_title: 49
 usc_section: "13707"
 chapter: 137
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 13707"
-generated_at: "2026-03-29T18:07:51.383Z"
+generated_at: "2026-03-29T18:27:16.489Z"
 ---
 
 # § 13707. Payment of rates

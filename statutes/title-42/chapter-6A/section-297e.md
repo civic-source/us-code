@@ -3,9 +3,9 @@ title: "Section 297e - Distribution of assets from loan funds"
 usc_title: 42
 usc_section: "297e"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 297e"
-generated_at: "2026-03-29T18:07:13.492Z"
+generated_at: "2026-03-29T18:27:02.707Z"
 ---
 
 # § 297e. Distribution of assets from loan funds
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T18:07:13.492Z"
 - **(a)** If a school terminates a loan fund established under an agreement pursuant to section 297a(b) of this title , or if the Secretary for good cause terminates the agreement with the school, there shall be a capital distribution as follows:
   - **(1)** The Secretary shall first be paid an amount which bears the same ratio to such balance in such fund on the date of termination of the fund as the total amount of the Federal capital contributions to such fund by the Secretary pursuant to section 297a(b)(2)(A) of this title bears to the total amount in such fund derived from such Federal capital contributions and from funds deposited therein pursuant to section 297a(b)(2)(B) of this title .
   - **(2)** The remainder of such balance shall be paid to the school.
-- **(b)** If a capital distribution is made under subsection (a) of this section, the school involved shall, after such capital distribution, pay to the Secretary, not less often than quarterly, the same proportionate share of amounts received by the school in payment of principal or interest on loans made from the loan fund established under section 297a(b) of this title as determined by the Secretary under subsection (a) of this section.
+- **(b)** If a capital distribution is made under subsection (a), the school involved shall, after such capital distribution, pay to the Secretary, not less often than quarterly, the same proportionate share of amounts received by the school in payment of principal or interest on loans made from the loan fund established under section 297a(b) of this title as determined by the Secretary under subsection (a).
 - **(c)**
   - **(1)** Within 90 days after the termination of any agreement with a school under section 297a of this title or the termination in any other manner of a school’s participation in the loan program under this part, 1 1 See References in Text note below. such school shall pay to the Secretary from the balance of the loan fund of such school established under section 297a of this title , an amount which bears the same ratio to the balance in such fund on the date of such termination as the total amount of the Federal capital contributions to such fund by the Secretary pursuant to section 297a(b)(2)(A) of this title bears to the total amount in such fund on such date derived from such Federal capital contributions and from funds deposited in the fund pursuant to section 297a(b)(2)(B) of this title . The remainder of such balance shall be paid to the school.
   - **(2)** A school to which paragraph (1) applies shall pay to the Secretary after the date on which payment is made under such paragraph and not less than quarterly, the same proportionate share of amounts received by the school after the date of termination referred to in paragraph (1) in payment of principal or interest on loans made from the loan fund as was determined for the Secretary under such paragraph.

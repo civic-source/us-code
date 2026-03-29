@@ -3,9 +3,9 @@ title: "Section 1445 - Application for naturalization; declaration of intention"
 usc_title: 8
 usc_section: "1445"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "8 U.S.C. § 1445"
-generated_at: "2026-03-29T18:03:34.093Z"
+generated_at: "2026-03-29T18:23:33.982Z"
 ---
 
 # § 1445. Application for naturalization; declaration of intention
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T18:03:34.093Z"
 - **(a)** An applicant for naturalization shall make and file with the Attorney General a sworn application in writing, signed by the applicant in the applicant’s own handwriting if physically able to write, which application shall be on a form prescribed by the Attorney General and shall include averments of all facts which in the opinion of the Attorney General may be material to the applicant’s naturalization, and required to be proved under this subchapter. In the case of an applicant subject to a requirement of continuous residence under section 1427(a) or 1430(a) of this title, the application for naturalization may be filed up to 3 months before the date the applicant would first otherwise meet such continuous residence requirement.
 - **(b)** No person shall file a valid application for naturalization unless he shall have attained the age of eighteen years. An application for naturalization by an alien shall contain an averment of lawful admission for permanent residence.
 - **(c)** Hearings under section 1447(a) of this title on applications for naturalization shall be held at regular intervals specified by the Attorney General.
-- **(d)** Except as provided in subsection (e) of this section, an application for naturalization shall be filed in the office of the Attorney General.
+- **(d)** Except as provided in subsection (e), an application for naturalization shall be filed in the office of the Attorney General.
 - **(e)** A person may file an application for naturalization other than in the office of the Attorney General, and an oath of allegiance administered other than in a public ceremony before the Attorney General or a court, if the Attorney General determines that the person has an illness or other disability which—
   - **(1)** is of a permanent nature and is sufficiently serious to prevent the person’s personal appearance, or
   - **(2)** is of a nature which so incapacitates the person as to prevent him from personally appearing.

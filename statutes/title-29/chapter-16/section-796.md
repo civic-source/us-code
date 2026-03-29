@@ -3,9 +3,9 @@ title: "Section 796 - Purpose"
 usc_title: 29
 usc_section: "796"
 chapter: 16
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 796"
-generated_at: "2026-03-29T18:05:31.717Z"
+generated_at: "2026-03-29T18:25:43.052Z"
 ---
 
 # § 796. Purpose
@@ -14,4 +14,4 @@ The purpose of this part is to promote a philosophy of independent living, inclu
 
   - **(1)** providing financial assistance to States for providing, expanding, and improving the provision of independent living services;
   - **(2)** providing financial assistance to develop and support statewide networks of centers for independent living; and
-  - **(3)** providing financial assistance to States for improving working relationships among State independent living rehabilitation service programs, centers for independent living, Statewide Independent Living Councils established under section 796d of this title , State vocational rehabilitation programs receiving assistance under subchapter I of this chapter, State programs of supported employment services receiving assistance under part B of subchapter VI of this chapter, client assistance programs receiving assistance under section 732 of this title , programs funded under other subchapters of this chapter, programs funded under other Federal law, and programs funded through non-Federal sources.
+  - **(3)** providing financial assistance to States for improving working relationships among State independent living rehabilitation service programs, centers for independent living, Statewide Independent Living Councils established under section 796d of this title , State vocational rehabilitation programs receiving assistance under subchapter I, State programs of supported employment services receiving assistance under subchapter VI, client assistance programs receiving assistance under section 732 of this title , programs funded under other subchapters of this chapter, programs funded under other Federal law, and programs funded through non-Federal sources, with the goal of improving the independence of individuals with disabilities.

@@ -3,15 +3,15 @@ title: "Section 3028 - Positions of importance and responsibility"
 usc_title: 33
 usc_section: "3028"
 chapter: 43
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 3028"
-generated_at: "2026-03-29T18:06:10.619Z"
+generated_at: "2026-03-29T18:26:01.321Z"
 ---
 
 # § 3028. Positions of importance and responsibility
 
 - **(a)** The Secretary may designate positions in the Administration as being positions of importance and responsibility for which it is appropriate that officers of the Administration, if serving in those positions, serve in the grade of vice admiral, rear admiral, or rear admiral (lower half), as designated by the Secretary for each position.
-- **(b)** The Secretary may assign officers to positions designated under subsection (a) of this section.
+- **(b)** The Secretary may assign officers to positions designated under subsection (a).
 - **(c)** The Secretary shall designate one position under this section as responsible for oversight of the vessel and aircraft fleets and for the administration of the commissioned officer corps. That position shall be filled by an officer on the lineal list serving in or above the grade of rear admiral (lower half). For the specific purpose of administering the commissioned officer corps, that position shall carry the title of Director of the National Oceanic and Atmospheric Administration Commissioned Officer Corps. For the specific purpose of administering the vessel and aircraft fleets, that position shall carry the title of Director of the Office of Marine and Aviation Operations.
 - **(d)**
   - **(1)** An officer assigned to a position under this section while so serving has the grade designated for that position, if appointed to that grade by the President.

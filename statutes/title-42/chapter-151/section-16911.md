@@ -3,9 +3,9 @@ title: "Section 16911 - Relevant definitions, including Amie Zyla expansion of s
 usc_title: 42
 usc_section: "16911"
 chapter: 151
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 16911"
-generated_at: "2026-03-29T18:07:15.488Z"
+generated_at: "2026-03-29T18:27:04.237Z"
 ---
 
 # § 16911. Relevant definitions, including Amie Zyla expansion of sex offender definition and expanded inclusion of child predators

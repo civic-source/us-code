@@ -3,9 +3,9 @@ title: "Section 2251 - Sexual exploitation of children"
 usc_title: 18
 usc_section: "2251"
 chapter: 110
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "18 U.S.C. § 2251"
-generated_at: "2026-03-29T18:04:50.943Z"
+generated_at: "2026-03-29T18:24:43.835Z"
 ---
 
 # § 2251. Sexual exploitation of children

@@ -3,12 +3,12 @@ title: "Section 7473 - Disposition of fees"
 usc_title: 26
 usc_section: "7473"
 chapter: 76
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 7473"
-generated_at: "2026-03-29T18:05:45.055Z"
+generated_at: "2026-03-29T18:25:53.974Z"
 ---
 
 # § 7473. Disposition of fees
 
-Except as provided in section 7475, all fees received by the Tax Court shall be covered into the Treasury as miscellaneous receipts.
+Except as provided in sections 7470A and 7475, all fees received by the Tax Court pursuant to this title shall be deposited into a special fund of the Treasury to be available to offset funds appropriated for the operation and maintenance of the Tax Court.
 

@@ -3,19 +3,17 @@ title: "Section 12642 - Partnerships with schools"
 usc_title: 42
 usc_section: "12642"
 chapter: 129
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 12642"
-generated_at: "2026-03-29T18:07:15.256Z"
+generated_at: "2026-03-29T18:27:04.072Z"
 ---
 
 # § 12642. Partnerships with schools
 
-- **(a)** The head of each Federal agency and department shall design and implement a comprehensive strategy to involve employees of such agencies and departments in partnership programs with elementary schools and secondary schools. Such strategy shall include—
+The head of each Federal agency and department shall design and implement a comprehensive strategy to involve employees of such agencies and departments in partnership programs with elementary schools and secondary schools. Such strategy shall include—
+
   - **(1)** a review of existing programs to identify and expand the opportunities for such employees to be adult volunteers in schools and for students and out-of-school youth;
   - **(2)** the designation of a senior official in each such agency and department who will be responsible for establishing partnership and youth service programs in each such agency and department and for developing partnership and youth service programs;
   - **(3)** the encouragement of employees of such agencies and departments to participate in partnership programs and other service projects;
   - **(4)** the annual recognition of outstanding service programs operated by Federal agencies; and
   - **(5)** the encouragement of businesses and professional firms to include community service among the factors considered in making hiring, compensation, and promotion decisions.
-- **(b)**
-  - **(1)** The head of each Federal agency and department shall prepare and submit to the Corporation a report concerning the implementation of this section, including an evaluation of the agency or department’s performance on performance goals and benchmarks for each partnership program of the agency or department.
-  - **(2)** The Corporation shall prepare and submit to the authorizing committees a compilation of the information received under paragraph (1).

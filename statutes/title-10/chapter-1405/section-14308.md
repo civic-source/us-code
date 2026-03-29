@@ -3,9 +3,9 @@ title: "Section 14308 - Promotions: how made"
 usc_title: 10
 usc_section: "14308"
 chapter: 1405
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 14308"
-generated_at: "2026-03-29T18:04:13.329Z"
+generated_at: "2026-03-29T18:23:52.121Z"
 ---
 
 # § 14308. Promotions: how made
@@ -22,6 +22,7 @@ generated_at: "2026-03-29T18:04:13.329Z"
     - **(D)** For purposes of this paragraph, an all-fully-qualified-officers list is a list of all officers on the reserve active-status list in a grade who the Secretary of the military department concerned determines—
       - **(i)** are fully qualified for promotion to the next higher grade; and
       - **(ii)** would be eligible for consideration for promotion to the next higher grade by a selection board convened under section 14101(a) of this title upon the convening of such a board.
+    - **(E)** If the Secretary of the military department concerned determines that one or more officers or former officers were not placed on an all-fully-qualified-list under this paragraph because of administrative error, the Secretary may prepare a supplemental all-fully-qualified-officers list containing the names of any such officers for approval in accordance with this paragraph.
 - **(c)**
   - **(1)** The date of rank of an officer appointed to a higher grade under this section is determined under section 741(d)(2) of this title .
   - **(2)** The date of rank of an officer appointed to a higher grade under this section may be adjusted in the same manner as an adjustment may be made under section 741(d)(4) of this title in the date of rank of an officer appointed to a higher grade under section 624(a) of this title . In any use of the authority under the preceding sentence, subparagraph (C)(ii) of such section shall be applied by substituting “reserve active-status list” for “active-duty list”.

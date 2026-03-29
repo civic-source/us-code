@@ -3,16 +3,16 @@ title: "Section 4729 - Report on export policy"
 usc_title: 15
 usc_section: "4729"
 chapter: 73
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 4729"
-generated_at: "2026-03-29T18:04:29.919Z"
+generated_at: "2026-03-29T18:24:08.610Z"
 ---
 
 # § 4729. Report on export policy
 
 - **(a)** Not later than May 31 of each year, the Secretary of Commerce shall submit to the Congress a report on the international economic position of the United States and, not later than June 30 of each year, shall appear before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Foreign Affairs of the House of Representatives to testify on issues addressed in that report.
 - **(b)**
-  - **(1)** Each report required under subsection (a) of this section shall address—
+  - **(1)** Each report required under subsection (a) shall address—
     - **(A)** the state of United States international economic competitiveness, focusing, in particular, on the efforts of the Department of Commerce—
       - **(i)** to encourage research and development of technologies and products deemed critical for industrial leadership;
       - **(ii)** to promote investment in and improved manufacturing processes for such technologies and products; and

@@ -3,9 +3,9 @@ title: "Section 105 - Amounts received under accident and health plans"
 usc_title: 26
 usc_section: "105"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 105"
-generated_at: "2026-03-29T18:05:44.471Z"
+generated_at: "2026-03-29T18:25:53.422Z"
 ---
 
 # § 105. Amounts received under accident and health plans
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T18:05:44.471Z"
 - **(e)** For purposes of this section and section 104—
   - **(1)** amounts received under an accident or health plan for employees, and
   - **(2)** amounts received from a sickness and disability fund for employees maintained under the law of a State or the District of Columbia,
-- **(f)** For purposes of section 213(a) (relating to medical, dental, etc., expenses) amounts excluded from gross income under subsection (c) or (d) shall not be considered as compensation (by insurance or otherwise) for expenses paid for medical care.
+- **(f)** For purposes of section 213(a) (relating to medical, dental, etc., expenses) amounts excluded from gross income under subsection (c) shall not be considered as compensation (by insurance or otherwise) for expenses paid for medical care.
 - **(g)** For purposes of this section, the term “employee” does not include an individual who is an employee within the meaning of section 401(c)(1) (relating to self-employed individuals).
 - **(h)**
   - **(1)** In the case of amounts paid to a highly compensated individual under a self-insured medical reimbursement plan which does not satisfy the requirements of paragraph (2) for a plan year, subsection (b) shall not apply to such amounts to the extent they constitute an excess reimbursement of such highly compensated individual.
@@ -52,7 +52,10 @@ generated_at: "2026-03-29T18:05:44.471Z"
   - **(10)** Any amount paid for a plan year that is included in income by reason of this subsection shall be treated as received or accrued in the taxable year of the participant in which the plan year ends.
 - **(i)** Notwithstanding any other provision of law, gross income includes benefits paid under section 2(a) of the Railroad Unemployment Insurance Act for days of sickness; except to the extent such sickness (as determined in accordance with standards prescribed by the Railroad Retirement Board) is the result of on-the-job injury.
 - **(j)**
-  - **(1)** For purposes of subsection (b), amounts paid (directly or indirectly) to the taxpayer from an accident or health plan described in paragraph (2) shall not fail to be excluded from gross income solely because such plan, on or before January 1, 2008 , provides for reimbursements of health care expenses of a deceased plan participant’s beneficiary.
-  - **(2)** An accident or health plan is described in this paragraph if such plan is funded by a medical trust that is established in connection with a public retirement system and that—
+  - **(1)** For purposes of subsection (b), amounts paid (directly or indirectly) to a qualified taxpayer from an accident or health plan described in paragraph (2) shall not fail to be excluded from gross income solely because such plan, on or before January 1, 2008 , provides for reimbursements of health care expenses of a deceased employee’s beneficiary (other than an individual described in paragraph (3)(B)).
+  - **(2)** An accident or health plan is described in this paragraph if such plan is funded by a medical trust that is established in connection with a public retirement system or established by or on behalf of a State or political subdivision thereof and that—
     - **(A)** has been authorized by a State legislature, or
-    - **(B)** has received a favorable ruling from the Internal Revenue Service that the trust’s income is not includible in gross income under section 115.
+    - **(B)** has received a favorable ruling from the Internal Revenue Service that the trust’s income is not includible in gross income under section 115 or 501(c)(9).
+  - **(3)** For purposes of paragraph (1), with respect to an accident or health plan described in paragraph (2), the term “qualified taxpayer” means a taxpayer who is—
+    - **(A)** an employee, or
+    - **(B)** the spouse, dependent (as defined for purposes of subsection (b)), or child (as defined for purposes of such subsection) of an employee.

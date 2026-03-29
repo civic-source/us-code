@@ -3,9 +3,9 @@ title: "Section 637 - Additional powers"
 usc_title: 15
 usc_section: "637"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 637"
-generated_at: "2026-03-29T18:04:29.455Z"
+generated_at: "2026-03-29T18:24:08.360Z"
 ---
 
 # § 637. Additional powers
@@ -117,7 +117,7 @@ generated_at: "2026-03-29T18:04:29.455Z"
       - **(iii)** the award of the contract would not result in the Program Participant exceeding the requirements established by section 636(j)(10)(I) of this title .
     - **(B)** To the maximum extent practicable, the Administration shall promote the equitable geographic distribution of sole source contracts awarded pursuant to this subsection.
   - **(17)**
-    - **(A)** An otherwise responsible business concern that is in compliance with the requirements of subparagraph (B) shall not be denied the opportunity to submit and have considered its offer for any procurement contract for the supply of a product to be let pursuant to this subsection or subsection (a) of section 644 of this title solely because such concern is other than the actual manufacturer or processor of the product to be supplied under the contract.
+    - **(A)** An otherwise responsible business concern that is in compliance with the requirements of subparagraph (B) shall not be denied the opportunity to submit and have considered its offer for any procurement contract, which contract has as its principal purpose the supply of a product to be let pursuant to this subsection, subsection (m), section 644(a) of this title , section 657a of this title , or section 657f of this title , solely because such concern is other than the actual manufacturer or processor of the product to be supplied under the contract.
     - **(B)** To be in compliance with the requirements referred to in subparagraph (A), such a business concern shall—
       - **(i)** be primarily engaged in the wholesale or retail trade;
       - **(ii)** be a small business concern under the numerical size standard for the Standard Industrial Classification Code assigned to the contract solicitation on which the offer is being made;
@@ -125,6 +125,7 @@ generated_at: "2026-03-29T18:04:29.455Z"
       - **(iv)** represent that it will supply the product of a domestic small business manufacturer or processor, unless a waiver of such requirement is granted—
         - **(I)** by the Administrator, after reviewing a determination by the contracting officer that no small business manufacturer or processor can reasonably be expected to offer a product meeting the specifications (including period for performance) required of an offeror by the solicitation; or
         - **(II)** by the Administrator for a product (or class of products), after determining that no small business manufacturer or processor is available to participate in the Federal procurement market.
+    - **(C)** This paragraph shall not apply to a contract that has as its principal purpose the acquisition of services or construction.
   - **(18)**
     - **(A)** No person within the employ of the Administration shall, during the term of such employment and for a period of two years after such employment has been terminated, engage in any activity or transaction specified in subparagraph (B) with respect to any Program Participant during such person’s term of employment, if such person participated personally (either directly or indirectly) in decision-making responsibilities relating to such Program Participant or with respect to the administration of any assistance provided to Program Participants generally under this subsection, section 636(j)(10) of this title , or section 636(a)(20) of this title .
     - **(B)** The activities and transactions prohibited by subparagraph (A) include—
@@ -157,7 +158,7 @@ generated_at: "2026-03-29T18:04:29.455Z"
     - **(B)** The Administrator may, on a nondelegable basis, waive the requirements of subparagraph (A) only if one of the following conditions exist:
       - **(i)** When it is necessary for the owners of the concern to surrender partial control of such concern on a temporary basis in order to obtain equity financing.
       - **(ii)** The head of the contracting agency for which the contract is being performed certifies that termination of the contract would severely impair attainment of the agency’s program objectives or missions;
-      - **(iii)** Ownership and control of the concern that is performing the contract will pass to another small business concern that is a program participant, but only if the acquiring firm would otherwise be eligible to receive the award directly pursuant to subsection (a) of this section;
+      - **(iii)** Ownership and control of the concern that is performing the contract will pass to another small business concern that is a program participant, but only if the acquiring firm would otherwise be eligible to receive the award directly pursuant to subsection (a);
       - **(iv)** The individuals upon whom eligibility was based are no longer able to exercise control of the concern due to incapacity or death; or
       - **(v)** When, in order to raise equity capital, it is necessary for the disadvantaged owners of the concern to relinquish ownership of a majority of the voting stock of such concern, but only if—
         - **(I)** such concern has exited the Capital Ownership Development Program;
@@ -259,10 +260,19 @@ generated_at: "2026-03-29T18:04:29.455Z"
     - **(A)** percentage goals for the utilization as subcontractors of small business concerns, small business concerns owned and controlled by veterans, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women;
     - **(B)** the name of an individual within the employ of the offeror or bidder who will administer the subcontracting program of the offeror or bidder and a description of the duties of such individual;
     - **(C)** a description of the efforts the offeror or bidder will take to assure that small business concerns, small business concerns owned and controlled by veterans, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women will have an equitable opportunity to compete for subcontracts;
-    - **(D)** assurances that the offeror or bidder will include the clause required by paragraph (2) of this subsection in all subcontracts which offer further subcontracting opportunities, and that the offeror or bidder will require all subcontractors (except small business concerns) who receive subcontracts in excess of $1,000,000 in the case of a contract for the construction of any public facility, or in excess of $500,000 in the case of all other contracts, to adopt a plan similar to the plan required under paragraph (4) or (5);
+    - **(D)** assurances that the offeror or bidder will include the clause required by paragraph (2) of this subsection in all subcontracts which offer further subcontracting opportunities, and that the offeror or bidder will require all subcontractors (except small business concerns) who receive subcontracts in excess of $1,000,000 in the case of a contract for the construction of any public facility, or in excess of $500,000 in the case of all other contracts, to adopt a plan similar to the plan required under paragraph (4) or (5), and assurances at a minimum that the offeror or bidder, and all subcontractors required to maintain subcontracting plans pursuant to this paragraph, will—
+      - **(i)** review and approve subcontracting plans submitted by their subcontractors;
+      - **(ii)** monitor subcontractor compliance with their approved subcontracting plans;
+      - **(iii)** ensure that subcontracting reports are submitted by their subcontractors when required;
+      - **(iv)** acknowledge receipt of their subcontractors’ reports;
+      - **(v)** compare the performance of their subcontractors to subcontracting plans and goals; and
+      - **(vi)** discuss performance with subcontractors when necessary to ensure their subcontractors make a good faith effort to comply with their subcontracting plans;
     - **(E)** assurances that the offeror or bidder will submit such periodic reports and cooperate in any studies or surveys as may be required by the Federal agency or the Administration in order to determine the extent of compliance by the offeror or bidder with the subcontracting plan;
-    - **(F)** a recitation of the types of records the successful offeror or bidder will maintain to demonstrate procedures which have been adopted to comply with the requirements and goals set forth in this plan, including the establishment of source lists of small business concerns, small business concerns owned and controlled by veterans, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women; and efforts to identify and award subcontracts to such small business concerns; and
-    - **(G)** a representation that the offeror or bidder will—
+    - **(F)** a recitation of the types of records the successful offeror or bidder will maintain to demonstrate procedures which have been adopted to comply with the requirements and goals set forth in this plan, including the establishment of source lists of small business concerns, small business concerns owned and controlled by veterans, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women; and efforts to identify and award subcontracts to such small business concerns;
+    - **(G)** a recitation of the types of records the successful offeror or bidder will maintain to demonstrate procedures which have been adopted to ensure subcontractors at all tiers comply with the requirements and goals set forth in the plan established in accordance with subparagraph (D) of this paragraph, including—
+      - **(i)** the establishment of source lists of small business concerns, small business concerns owned and controlled by veterans, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women; and
+      - **(ii)** efforts to identify and award subcontracts to such small business concerns; and
+    - **(H)** a representation that the offeror or bidder will—
       - **(i)** make a good faith effort to acquire articles, equipment, supplies, services, or materials, or obtain the performance of construction work from the small business concerns used in preparing and submitting to the contracting agency the bid or proposal, in the same amount and quality used in preparing and submitting the bid or proposal; and
       - **(ii)** provide to the contracting officer a written explanation if the offeror or bidder fails to acquire articles, equipment, supplies, services, or materials or obtain the performance of construction work as described in clause (i).
   - **(7)** The head of the contracting agency shall ensure that—
@@ -291,12 +301,17 @@ generated_at: "2026-03-29T18:04:29.455Z"
       - **(iii)** require the identity of a contractor described in clause (i) to be incorporated in, and made publicly available through, the Federal Awardee Performance and Integrity Information System, or any successor thereto.
   - **(14)** An offeror for a covered contract that intends to identify a small business concern as a potential subcontractor in a bid or proposal for the contract, or in a plan submitted pursuant to this subsection in connection with the contract, shall notify the small business concern prior to making such identification.
   - **(15)** The Administrator shall establish a reporting mechanism that allows a subcontractor or potential subcontractor to report fraudulent activity or bad faith by a contractor with respect to a subcontracting plan submitted pursuant to this subsection.
+  - **(16)**
+    - **(A)** For purposes of determining whether or not a prime contractor has attained the percentage goals specified in paragraph (6)—
+      - **(i)** if the subcontracting goals pertain only to a single contract with the executive agency, the prime contractor shall receive credit for small business concerns performing as first tier subcontractors or subcontractors at any tier pursuant to the subcontracting plans required under paragraph (6)(D) in an amount equal to the dollar value of work awarded to such small business concerns; and
+      - **(ii)** if the subcontracting goals pertain to more than one contract with one or more executive agencies, or to one contract with more than one executive agency, the prime contractor may only count first tier subcontractors that are small business concerns.
+    - **(B)** Nothing in this paragraph shall abrogate the responsibility of a prime contractor to make a good-faith effort to achieve the first tier small business subcontracting goals negotiated under paragraph (6)(A), or the requirement for subcontractors with further opportunities for subcontracting to make a good-faith effort to achieve the goals established under paragraph (6)(D).
 - **(e)**
-  - **(1)** Except as provided in subsection (g) of this section—
+  - **(1)** Except as provided in subsection (g)—
     - **(A)** an executive agency intending to—
       - **(i)** solicit bids or proposals for a contract for property or services for a price expected to exceed $25,000; or
       - **(ii)** place an order, expected to exceed $25,000, under a basic agreement, basic ordering agreement, or similar arrangement,
-    - **(B)** an executive agency intending to solicit bids or proposals for a contract for property or services shall post, for a period of not less than ten days, in a public place at the contracting office issuing the solicitation a notice of solicitation described in subsection (f) of this section—
+    - **(B)** an executive agency intending to solicit bids or proposals for a contract for property or services shall post, for a period of not less than ten days, in a public place at the contracting office issuing the solicitation a notice of solicitation described in subsection (f)—
       - **(i)** in the case of an executive agency other than the Department of Defense, if the contract is for a price expected to exceed $10,000, but not to exceed $25,000; and
       - **(ii)** in the case of the Department of Defense, if the contract is for a price expected to exceed $5,000, but not to exceed $25,000;
     - **(C)** an executive agency awarding a contract for property or services for a price exceeding $100,000, or placing an order referred to in clause (A)(ii) exceeding $100,000, shall furnish for publication by the Secretary of Commerce a notice announcing the award or order if there is likely to be any subcontract under such contract or order.
@@ -311,7 +326,7 @@ generated_at: "2026-03-29T18:04:29.455Z"
       - **(i)** in the case of an order under a basic agreement, basic ordering agreement, or similar arrangement, is earlier than the date 30 days after the date the notice required by paragraph (1)(A)(ii) is published;
       - **(ii)** in the case of a solicitation for research and development, is earlier than the date 45 days after the date the notice required by paragraph (1)(A)(i) is published; or
       - **(iii)** in any other case, is earlier than the date 30 days after the date the solicitation is issued.
-- **(f)** Each notice of solicitation required by subparagraph (A) or (B) of subsection (e)(1) of this section shall include—
+- **(f)** Each notice of solicitation required by subparagraph (A) or (B) of subsection (e)(1) shall include—
   - **(1)** an accurate description of the property or services to be contracted for, which description (A) shall not be unnecessarily restrictive of competition, and (B) shall include, as appropriate, the agency nomenclature, National Stock Number or other part number, and a brief description of the item’s form, fit, or function, physical dimensions, predominant material of manufacture, or similar information that will assist a prospective contractor to make an informed business judgment as to whether a copy of the solicitation should be requested;
   - **(2)** provisions that—
     - **(A)** state whether the technical data required to respond to the solicitation will not be furnished as part of such solicitation, and identify the source in the Government, if any, from which the technical data may be obtained; and
@@ -323,7 +338,7 @@ generated_at: "2026-03-29T18:04:29.455Z"
     - **(A)** a description of the procedures to be used in awarding the contract; and
     - **(B)** a statement specifying the periods for prospective offerors and the contracting officer to take the necessary preaward and award actions.
 - **(g)**
-  - **(1)** A notice is not required under subsection (e)(1) of this section if—
+  - **(1)** A notice is not required under subsection (e)(1) if—
     - **(A)** the proposed procurement is for an amount not greater than the simplified acquisition threshold and is to be conducted by—
       - **(i)** using widespread electronic public notice of the solicitation in a form that allows convenient and universal user access through a single, Government-wide point of entry; and
       - **(ii)** permitting the public to respond to the solicitation electronically.
@@ -335,8 +350,8 @@ generated_at: "2026-03-29T18:04:29.455Z"
     - **(E)** the procurement is made for perishable subsistence supplies;
     - **(F)** the procurement is for utility services, other than telecommunication services, and only one source is available; or
     - **(G)** the procurement is for the services of an expert for use in any litigation or dispute (including preparation for any foreseeable litigation or dispute) that involves or could involve the Federal Government in any trial, hearing, or proceeding before any court, administrative tribunal, or agency, or in any part of an alternative dispute resolution process, whether or not the expert is expected to testify.
-  - **(2)** The requirements of subsection (a)(1)(A) of this section do not apply to any procurement under conditions described in paragraph (2), (3), (4), (5), or (7) of section 3304(a) of title 41 or paragraph (2), (3), (4), (5), or (7) of section 2304(c) of title 10 .
-  - **(3)** The requirements of subsection (a)(1)(A) of this section shall not apply in the case of any procurement for which the head of the executive agency makes a determination in writing, after consultation with the Administrator for Federal Procurement Policy and the Administrator of the Small Business Administration, that it is not appropriate or reasonable to publish a notice before issuing a solicitation.
+  - **(2)** The requirements of subsection (a)(1)(A) do not apply to any procurement under conditions described in paragraph (2), (3), (4), (5), or (7) of section 3304(a) of title 41 or paragraph (2), (3), (4), (5), or (7) of section 2304(c) of title 10 .
+  - **(3)** The requirements of subsection (a)(1)(A) shall not apply in the case of any procurement for which the head of the executive agency makes a determination in writing, after consultation with the Administrator for Federal Procurement Policy and the Administrator of the Small Business Administration, that it is not appropriate or reasonable to publish a notice before issuing a solicitation.
 - **(h)**
   - **(1)** An executive agency may not award a contract using procedures other than competitive procedures unless—
     - **(A)** except as provided in paragraph (2), a written justification for the use of such procedures has been approved—
@@ -345,14 +360,14 @@ generated_at: "2026-03-29T18:04:29.455Z"
       - **(iii)** in the case of a contract for an amount exceeding $10,000,000, by the senior procurement executive of the agency designated pursuant to section 414(3) of title 41 5 5 See References in Text note below. (without further delegation); and
     - **(B)** all other requirements applicable to the use of such procedures under division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 or chapter 137 of title 10, as appropriate, have been satisfied.
   - **(2)** The same exceptions as are provided in paragraphs (3) and (4) of section 3304(e) of title 41 or section 2304(f)(2) of title 10 shall apply with respect to the requirements of paragraph (1)(A) of this subsection in the same manner as such exceptions apply to the requirements of section 3304(e)(1) of title 41 or section 2304(f)(1) of title 10 , as appropriate.
-- **(i)** An executive agency shall make available to any business concern, or the authorized representative of such concern, the complete solicitation package for any on-going procurement announced pursuant to a notice under subsection (e) of this section. An executive agency may require the payment of a fee, not exceeding the actual cost of duplication, for a copy of such package.
+- **(i)** An executive agency shall make available to any business concern, or the authorized representative of such concern, the complete solicitation package for any on-going procurement announced pursuant to a notice under subsection (e). An executive agency may require the payment of a fee, not exceeding the actual cost of duplication, for a copy of such package.
 - **(j)** For purposes of this section, the term “executive agency” has the meaning provided such term in section 133 of title 41 .
 - **(k)**
   - **(1)** Notices of subcontracting opportunities may be submitted for publication on the appropriate Federal Web site (as determined by the Administrator) by—
-    - **(A)** a business concern awarded a contract by an executive agency subject to subsection (e)(1)(C) of this section; and
+    - **(A)** a business concern awarded a contract by an executive agency subject to subsection (e)(1)(C); and
     - **(B)** a business concern that is a subcontractor or supplier (at any tier) to such contractor having a subcontracting opportunity in excess of $10,000.
   - **(2)** The notice of a subcontracting opportunity shall include—
-    - **(A)** a description of the business opportunity that is comparable to the description specified in paragraphs (1), (2), (3), and (4) of subsection (f) of this section; and
+    - **(A)** a description of the business opportunity that is comparable to the description specified in paragraphs (1), (2), (3), and (4) of subsection (f); and
     - **(B)** the due date for receipt of offers.
 - **(l)** The Administration shall utilize, as appropriate, its entrepreneurial development and management assistance programs, including programs involving State or private sector partners, to provide business counseling and training to any small business concern adversely affected by the deployment of units of the Armed Forces of the United States in support of a period of military conflict (as defined in section 636(n)(1) of this title ).
 - **(m)**
@@ -364,20 +379,30 @@ generated_at: "2026-03-29T18:04:29.455Z"
     - **(B)** the contracting officer has a reasonable expectation that two or more small business concerns owned and controlled by women will submit offers for the contract;
     - **(C)** the contract is for the procurement of goods or services with respect to an industry identified by the Administrator pursuant to paragraph (3);
     - **(D)** in the estimation of the contracting officer, the contract award can be made at a fair and reasonable price; and
-    - **(E)** each of the concerns—
-      - **(i)** is certified by a Federal agency, a State government, or a national certifying entity approved by the Administrator, as a small business concern owned and controlled by women; or
-      - **(ii)** certifies to the contracting officer that it is a small business concern owned and controlled by women and provides adequate documentation, in accordance with standards established by the Administration, to support such certification.
+    - **(E)** each of the concerns is certified by a Federal agency, a State government, the Administrator, or a national certifying entity approved by the Administrator as a small business concern owned and controlled by women.
   - **(3)** With respect to a small business concern owned and controlled by women, the Administrator may waive subparagraph (2)(A) if the Administrator determines that the concern is in an industry in which small business concerns owned and controlled by women are substantially underrepresented.
   - **(4)** The Administrator shall conduct a study to identify industries in which small business concerns owned and controlled by women are underrepresented with respect to Federal procurement contracting.
   - **(5)**
     - **(A)** In carrying out this subsection, the Administrator shall establish procedures relating to—
-      - **(i)** the filing, investigation, and disposition by the Administration of any challenge to the eligibility of a small business concern to receive assistance under this subsection (including a challenge, filed by an interested party, relating to the veracity of a certification made or information provided to the Administration by a small business concern under paragraph (2)(F)); and
-      - **(ii)** verification by the Administrator of the accuracy of any certification made or information provided to the Administration by a small business concern under paragraph (2)(F).
-    - **(B)** The procedures established under subparagraph (A) may provide for program examinations (including random program examinations) by the Administrator of any small business concern making a certification or providing information to the Administrator under paragraph (2)(F).
+      - **(i)** the filing, investigation, and disposition by the Administration of any challenge to the eligibility of a small business concern to receive assistance under this subsection (including a challenge, filed by an interested party, relating to the veracity of a certification made or information provided to the Administration by a small business concern under paragraph (2)(E)); and
+      - **(ii)** verification by the Administrator of the accuracy of any certification made or information provided to the Administration by a small business concern under paragraph (2)(E).
+    - **(B)** The procedures established under subparagraph (A) may provide for program examinations (including random program examinations) by the Administrator of any small business concern making a certification or providing information to the Administrator under paragraph (2)(E).
     - **(C)** In addition to the penalties described in section 645(d) of this title , any small business concern that is determined by the Administrator to have misrepresented the status of that concern as a small business concern owned and controlled by women for purposes of this subsection, shall be subject to—
       - **(i)** section 1001 of title 18 ; and
       - **(ii)** sections 3729 through 3733 of title 31.
   - **(6)** Upon the request of the Administrator, the head of any Federal department or agency shall promptly provide to the Administrator such information as the Administrator determines to be necessary to carry out this subsection.
+  - **(7)** A contracting officer may award a sole source contract under this subsection to any small business concern owned and controlled by women described in paragraph (2)(A) and certified under paragraph (2)(E) if—
+    - **(A)** such concern is determined to be a responsible contractor with respect to performance of the contract opportunity and the contracting officer does not have a reasonable expectation that 2 or more businesses described in paragraph (2)(A) will submit offers;
+    - **(B)** the anticipated award price of the contract (including options) will not exceed—
+      - **(i)** $6,500,000, in the case of a contract opportunity assigned a standard industrial classification code for manufacturing; or
+      - **(ii)** $4,000,000, in the case of any other contract opportunity; and
+    - **(C)** in the estimation of the contracting officer, the contract award can be made at a fair and reasonable price.
+  - **(8)** A contracting officer may award a sole source contract under this subsection to any small business concern owned and controlled by women certified under paragraph (2)(E) that is in an industry in which small business concerns owned and controlled by women are substantially underrepresented (as determined by the Administrator under paragraph (3)) if—
+    - **(A)** such concern is determined to be a responsible contractor with respect to performance of the contract opportunity and the contracting officer does not have a reasonable expectation that 2 or more businesses in an industry that has received a waiver under paragraph (3) will submit offers;
+    - **(B)** the anticipated award price of the contract (including options) will not exceed—
+      - **(i)** $6,500,000, in the case of a contract opportunity assigned a standard industrial classification code for manufacturing; or
+      - **(ii)** $4,000,000, in the case of any other contract opportunity; and
+    - **(C)** in the estimation of the contracting officer, the contract award can be made at a fair and reasonable price.
 - **(n)**
   - **(1)** In accordance with this subsection, the Administrator may make grants to and enter into cooperative agreements with any coalition of private entities, public entities, or any combination of private and public entities—
     - **(A)** to expand business-to-business relationships between large and small businesses; and

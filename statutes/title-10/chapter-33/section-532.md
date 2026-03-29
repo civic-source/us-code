@@ -3,9 +3,9 @@ title: "Section 532 - Qualifications for original appointment as a commissioned 
 usc_title: 10
 usc_section: "532"
 chapter: 33
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 532"
-generated_at: "2026-03-29T18:04:12.991Z"
+generated_at: "2026-03-29T18:23:51.746Z"
 ---
 
 # § 532. Qualifications for original appointment as a commissioned officer
@@ -27,5 +27,5 @@ generated_at: "2026-03-29T18:04:12.991Z"
 - **(d)**
   - **(1)** A person receiving an original appointment as a medical or dental officer, as a chaplain, or as an officer designated for limited duty in the Regular Navy or Regular Marine Corps is not subject to clause (2) of subsection (a).
   - **(2)** A commissioned officer appointed in a medical skill other than as a medical officer or dental officer (as defined in regulations prescribed by the Secretary of Defense) is not subject to clause (2) of subsection (a).
-- **[(e)** Repealed. Pub. L. 108–375, div. A, title V, § 501(a)(1) , Oct. 28, 2004 , 118 Stat. 1872 .]
+- **[(e)** Repealed. Pub. L. 108–375, div. A, title V , § 501(a)(1), Oct. 28, 2004 , 118 Stat. 1872 .]
 - **(f)** The Secretary of Defense may waive the requirement of paragraph (1) of subsection (a) with respect to a person who has been lawfully admitted to the United States for permanent residence, or for a United States national otherwise eligible for appointment as a cadet or midshipman under section 2107(a) of this title or as a cadet under section 2107a of this title , when the Secretary determines that the national security so requires, but only for an original appointment in a grade below the grade of major or lieutenant commander.

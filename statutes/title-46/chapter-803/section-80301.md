@@ -3,9 +3,9 @@ title: "Section 80301 - International agreements"
 usc_title: 46
 usc_section: "80301"
 chapter: 803
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "46 U.S.C. § 80301"
-generated_at: "2026-03-29T18:07:34.429Z"
+generated_at: "2026-03-29T18:27:18.945Z"
 ---
 
 # § 80301. International agreements
@@ -17,3 +17,4 @@ generated_at: "2026-03-29T18:07:34.429Z"
 - **(b)** The President may include in an agreement under subsection (a) a provision for—
   - **(1)** payment to the United States Government by other countries for their proportionate share of the expense of maintaining the services; or
   - **(2)** contribution by the Government for its proportionate share if the agreement provides for another country to maintain the services.
+- **(c)** Payments received pursuant to subsection (b)(1) shall be credited to the appropriation for operating expenses of the Coast Guard.

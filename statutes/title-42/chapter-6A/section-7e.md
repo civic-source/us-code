@@ -3,9 +3,9 @@ title: "Section 7e - Biomedical Advanced Research and Development Authority"
 usc_title: 42
 usc_section: "7e"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 7e"
-generated_at: "2026-03-29T18:07:13.307Z"
+generated_at: "2026-03-29T18:27:02.560Z"
 ---
 
 # § 247d–7e. Biomedical Advanced Research and Development Authority
@@ -70,7 +70,7 @@ generated_at: "2026-03-29T18:07:13.307Z"
     - **(A)**
       - **(i)** The Secretary shall have the authority to enter into other transactions under this subsection in the same manner as the Secretary of Defense enters into such transactions under section 2371 of title 10 .
       - **(ii)**
-        - **(I)** Subsections (b), (c), and (h) of section 845 of the National Defense Authorization Act for Fiscal Year 1994 ( 10 U.S.C. 2371 note) shall apply to other transactions under this subparagraph as if such transactions were for prototype projects described by subsection (a) of such section 845.
+        - **(I)** Subsections (b), (c), and (h) of section 845 1 1 See References in Text note below. of the National Defense Authorization Act for Fiscal Year 1994 ( 10 U.S.C. 2371 note) shall apply to other transactions under this subparagraph as if such transactions were for prototype projects described by subsection (a) of such section 845.
         - **(II)** The authority of this subparagraph may be exercised for a project that is expected to cost the Department of Health and Human Services in excess of $20,000,000 only upon a written determination by the senior procurement executive for the Department (as designated for purpose of section 1702(c) of title 41 ), that the use of such authority is essential to promoting the success of the project. The authority of the senior procurement executive under this subclause may not be delegated.
       - **(iii)** The Secretary shall establish guidelines regarding the use of the authority under clause (i). Such guidelines shall include auditing requirements.
     - **(B)**

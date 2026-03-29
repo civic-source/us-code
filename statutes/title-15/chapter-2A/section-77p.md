@@ -3,21 +3,21 @@ title: "Section 77p - Additional remedies; limitation on remedies"
 usc_title: 15
 usc_section: "77p"
 chapter: 2
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 77p"
-generated_at: "2026-03-29T18:04:29.309Z"
+generated_at: "2026-03-29T18:24:08.220Z"
 ---
 
 # § 77p. Additional remedies; limitation on remedies
 
-- **(a)** Except as provided in subsection (b) of this section, the rights and remedies provided by this subchapter shall be in addition to any and all other rights and remedies that may exist at law or in equity.
+- **(a)** Except as provided in subsection (b), the rights and remedies provided by this subchapter shall be in addition to any and all other rights and remedies that may exist at law or in equity.
 - **(b)** No covered class action based upon the statutory or common law of any State or subdivision thereof may be maintained in any State or Federal court by any private party alleging—
   - **(1)** an untrue statement or omission of a material fact in connection with the purchase or sale of a covered security; or
   - **(2)** that the defendant used or employed any manipulative or deceptive device or contrivance in connection with the purchase or sale of a covered security.
-- **(c)** Any covered class action brought in any State court involving a covered security, as set forth in subsection (b) of this section, shall be removable to the Federal district court for the district in which the action is pending, and shall be subject to subsection (b) of this section.
+- **(c)** Any covered class action brought in any State court involving a covered security, as set forth in subsection (b), shall be removable to the Federal district court for the district in which the action is pending, and shall be subject to subsection (b).
 - **(d)**
   - **(1)**
-    - **(A)** Notwithstanding subsection (b) or (c) of this section, a covered class action described in subparagraph (B) of this paragraph that is based upon the statutory or common law of the State in which the issuer is incorporated (in the case of a corporation) or organized (in the case of any other entity) may be maintained in a State or Federal court by a private party.
+    - **(A)** Notwithstanding subsection (b) or (c), a covered class action described in subparagraph (B) of this paragraph that is based upon the statutory or common law of the State in which the issuer is incorporated (in the case of a corporation) or organized (in the case of any other entity) may be maintained in a State or Federal court by a private party.
     - **(B)** A covered class action is described in this subparagraph if it involves—
       - **(i)** the purchase or sale of securities by the issuer or an affiliate of the issuer exclusively from or to holders of equity securities of the issuer; or
       - **(ii)** any recommendation, position, or other communication with respect to the sale of securities of the issuer that—
@@ -26,8 +26,8 @@ generated_at: "2026-03-29T18:04:29.309Z"
   - **(2)**
     - **(A)** Notwithstanding any other provision of this section, nothing in this section may be construed to preclude a State or political subdivision thereof or a State pension plan from bringing an action involving a covered security on its own behalf, or as a member of a class comprised solely of other States, political subdivisions, or State pension plans that are named plaintiffs, and that have authorized participation, in such action.
     - **(B)** For purposes of this paragraph, the term “State pension plan” means a pension plan established and maintained for its employees by the government of the State or political subdivision thereof, or by any agency or instrumentality thereof.
-  - **(3)** Notwithstanding subsection (b) or (c) of this section, a covered class action that seeks to enforce a contractual agreement between an issuer and an indenture trustee may be maintained in a State or Federal court by a party to the agreement or a successor to such party.
-  - **(4)** In an action that has been removed from a State court pursuant to subsection (c) of this section, if the Federal court determines that the action may be maintained in State court pursuant to this subsection, the Federal court shall remand such action to such State court.
+  - **(3)** Notwithstanding subsection (b) or (c), a covered class action that seeks to enforce a contractual agreement between an issuer and an indenture trustee may be maintained in a State or Federal court by a party to the agreement or a successor to such party.
+  - **(4)** In an action that has been removed from a State court pursuant to subsection (c), if the Federal court determines that the action may be maintained in State court pursuant to this subsection, the Federal court shall remand such action to such State court.
 - **(e)** The securities commission (or any agency or office performing like functions) of any State shall retain jurisdiction under the laws of such State to investigate and bring enforcement actions.
 - **(f)** For purposes of this section, the following definitions shall apply:
   - **(1)** The term “affiliate of the issuer” means a person that directly or indirectly, through one or more intermediaries, controls or is controlled by or is under common control with, the issuer.

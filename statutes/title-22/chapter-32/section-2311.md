@@ -3,9 +3,9 @@ title: "Section 2311 - General authority"
 usc_title: 22
 usc_section: "2311"
 chapter: 32
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 2311"
-generated_at: "2026-03-29T18:05:21.832Z"
+generated_at: "2026-03-29T18:24:54.204Z"
 ---
 
 # § 2311. General authority
@@ -14,11 +14,11 @@ generated_at: "2026-03-29T18:05:21.832Z"
   - **(1)** acquiring for any source and providing (by loan or grant) any defense article or defense service;
   - **(2)** assigning or detailing members of the Armed Forces of the United States and other personnel of the Department of Defense to perform duties of a noncombatant nature; or
   - **(3)** transferring such of the funds appropriated or otherwise made available under this part as the President may determine for assistance to a recipient country, to the account in which funds for the procurement of defense articles and defense services under section 21 and section 22 of the Arms Export Control Act [ 22 U.S.C. 2761 and 2762] have been deposited for such recipient, to be merged with such deposited funds, and to be used solely to meet obligations of the recipient for payment for sales under that Act [ 22 U.S.C. 2751 et seq.].
-- **(b)** In addition to such other terms and conditions as the President may determine pursuant to subsection (a) of this section, defense articles may be loaned thereunder only if—
+- **(b)** In addition to such other terms and conditions as the President may determine pursuant to subsection (a), defense articles may be loaned thereunder only if—
   - **(1)** there is a bona fide reason, other than the shortage of funds, for providing such articles on a loan basis rather than on a grant basis;
   - **(2)** there is a reasonable expectation that such articles will be returned to the agency making the loan at the end of the loan period, unless the loan is then renewed;
   - **(3)** the loan period is of fixed duration not exceeding five years, during which such article may be recalled for any reason by the United States;
-  - **(4)** the agency making the loan is reimbursed for the loan based on the amount charged to the appropriation for military assistance under subsection (c) of this section; and
+  - **(4)** the agency making the loan is reimbursed for the loan based on the amount charged to the appropriation for military assistance under subsection (c); and
   - **(5)** the loan agreement provides that (A) if the defense article is damaged while on loan, the country or international organization to which it was loaned will reimburse the United States for the cost of restoring or replacing the defense article, and (B) if the defense article is lost or destroyed while on loan, the country or international organization to which it was loaned will pay to the United States an amount equal to the replacement cost (less any depreciation in the value) of the defense article.
 - **(c)**
   - **(1)** In the case of any loan of a defense article or defense service made under this section, there shall be a charge to the appropriation for military assistance for any fiscal year while the article or service is on loan in an amount based on—

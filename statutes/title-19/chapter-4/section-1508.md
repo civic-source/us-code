@@ -3,9 +3,9 @@ title: "Section 1508 - Recordkeeping"
 usc_title: 19
 usc_section: "1508"
 chapter: 4
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 1508"
-generated_at: "2026-03-29T18:04:55.017Z"
+generated_at: "2026-03-29T18:24:16.090Z"
 ---
 
 # § 1508. Recordkeeping
@@ -37,18 +37,18 @@ generated_at: "2026-03-29T18:04:55.017Z"
         - **(II)** learns of the existence of such a Certificate for the article;
       - **(iii)** If the Customs Service determines that a NAFTA Certificate of Origin has been prepared with respect to an article for which a claim described in clause (i) is made, the Customs Service may make such adjustments regarding the previous customs treatment of the article as may be warranted.
   - **(3)** Any person who exports, or who knowingly causes to be exported, any merchandise to Canada during such time as the United States-Canada Free-Trade Agreement is in force with respect to, and the United States applies that Agreement to, Canada shall make, keep, and render for examination and inspection such records (including certifications of origin or copies thereof) which pertain to the exportations.
-- **(c)** The records required by subsections (a) and (b) of this section shall be kept for such periods of time as the Secretary shall prescribe; except that—
-  - **(1)** no period of time for the retention of the records required under subsection (a) or (b)(3) of this section may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate;
+- **(c)** The records required by subsections (a) and (b) shall be kept for such periods of time as the Secretary shall prescribe; except that—
+  - **(1)** no period of time for the retention of the records required under subsection (a) or (b)(3) may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate;
   - **(2)** the period of time for the retention of the records required under subsection (b)(2) of this section shall be at least 5 years from the date of signature of the NAFTA Certificate of Origin; and
-  - **(3)** records for any drawback claim shall be kept until the 3rd anniversary of the date of payment of the claim.
+  - **(3)** records for any drawback claim shall be kept until the 3rd anniversary of the date of liquidation of the claim.
 - **(d)** For the purposes of this section and section 1509 of this title , a person ordering merchandise from an importer in a domestic transaction does not knowingly cause merchandise to be imported unless—
   - **(1)** the terms and conditions of the importation are controlled by the person placing the order; or
   - **(2)** technical data, molds, equipment, other production assistance, material, components, or parts are furnished by the person placing the order with knowledge that they will be used in the manufacture or production of the imported merchandise.
 - **(e)**
-  - **(1)** Any person who fails to retain records required by paragraph (2) of subsection (b) of this section or the regulations issued to implement that paragraph shall be liable for—
+  - **(1)** Any person who fails to retain records required by paragraph (2) of subsection (b) or the regulations issued to implement that paragraph shall be liable for—
     - **(A)** a civil penalty not to exceed $10,000; or
     - **(B)** the general recordkeeping penalty that applies under the customs laws;
-  - **(2)** Any person who fails to retain the records required by paragraph (3) of subsection (b) of this section or the regulations issued to implement that paragraph shall be liable for a civil penalty not to exceed $10,000.
+  - **(2)** Any person who fails to retain the records required by paragraph (3) of subsection (b) or the regulations issued to implement that paragraph shall be liable for a civil penalty not to exceed $10,000.
 - **(f)**
   - **(1)** In this subsection:
     - **(A)** The term “records and supporting documents” means, with respect to an exported good under paragraph (2), records and documents related to the origin of the good, including—
@@ -103,6 +103,6 @@ generated_at: "2026-03-29T18:04:55.017Z"
     - **(B)** The term “Panama TPA certification of origin” means the certification established under article 4.15 of the United States–Panama Trade Promotion Agreement that a good qualifies as an originating good under such Agreement.
   - **(2)** Any person who completes and issues a Panama TPA certification of origin for a good exported from the United States shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the certification or copies thereof).
   - **(3)** The person who issues a Panama TPA certification of origin shall keep the records and supporting documents relating to that certification of origin for a period of at least 5 years after the date on which the certification is issued.
-- **(l)** Any person who fails to retain records and supporting documents required by subsection (f), (g), (h), (i), (j), or (k) of this section or the regulations issued to implement any such subsection shall be liable for the greater of—
+- **(l)** Any person who fails to retain records and supporting documents required by subsection (f), (g), (h), (i), (j), or (k) or the regulations issued to implement any such subsection shall be liable for the greater of—
   - **(1)** a civil penalty not to exceed $10,000; or
   - **(2)** the general record keeping penalty that applies under the customs laws of the United States.

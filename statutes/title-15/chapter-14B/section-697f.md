@@ -3,15 +3,15 @@ title: "Section 697f - Prepayment of development company debentures"
 usc_title: 15
 usc_section: "697f"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 697f"
-generated_at: "2026-03-29T18:04:29.502Z"
+generated_at: "2026-03-29T18:24:08.403Z"
 ---
 
 # § 697f. Prepayment of development company debentures
 
 - **(a)**
-  - **(1)** Subject to the requirements set forth in subsection (b) of this section, an issuer of a debenture purchased by the Federal Financing Bank and guaranteed by the Administration under this chapter may, at the election of the borrower (in the case of a loan under section 697 of this title ) or the issuer (in the case of a small business investment company) and with the approval of the Administration, prepay such debenture in accordance with the provisions of this section.
+  - **(1)** Subject to the requirements set forth in subsection (b), an issuer of a debenture purchased by the Federal Financing Bank and guaranteed by the Administration under this chapter may, at the election of the borrower (in the case of a loan under section 697 of this title ) or the issuer (in the case of a small business investment company) and with the approval of the Administration, prepay such debenture in accordance with the provisions of this section.
   - **(2)**
     - **(A)** In making a prepayment under paragraph (1)—
       - **(i)** the borrower (in the case of a loan under section 697 of this title ) or the issuer (in the case of a small business investment company) shall pay to the Federal Financing Bank an amount that is equal to the sum of the unpaid principal balance due on the debenture as of the date of the prepayment (plus accrued interest at the coupon rate on the debenture) and the amount of the repurchase premium described in subparagraph (B); and
@@ -26,18 +26,18 @@ generated_at: "2026-03-29T18:04:29.502Z"
         - **(III)** with respect to a 20-year term loan, 10.5 percent; and
         - **(IV)** with respect to a 25-year term loan, 11.5 percent.
       - **(iii)** The percentage rates described in clause (ii) shall be increased or decreased by the Administration by a factor not to exceed one-third, if the same factor is applied in each case and if the Administration determines that an adjustment is necessary, based on the number of borrowers having given notice of their intent to participate, in order to make the program (including the amounts appropriated for this purpose under Public Law 103–317 ) result in no substantial net gain or loss of revenue to the Federal Financing Bank or to the Administration. Amounts collected in excess of the amount necessary to ensure revenue neutrality shall be refunded to the borrowers.
-- **(b)** For purposes of subsection (a) of this section, the requirements of this subsection are that—
+- **(b)** For purposes of subsection (a), the requirements of this subsection are that—
   - **(1)** the debenture is outstanding and neither the loan that secures the debenture, if any, nor the debenture is in default on the date on which the prepayment is made;
-  - **(2)** State, local, or personal funds, or the proceeds of a refinancing in accordance with subsection (d) of this section under the programs authorized by this subchapter, are used to prepay or roll over the debenture; and
+  - **(2)** State, local, or personal funds, or the proceeds of a refinancing in accordance with subsection (d) under the programs authorized by this subchapter, are used to prepay or roll over the debenture; and
   - **(3)** with respect to a debenture issued under section 697 of this title , the issuer certifies that the benefits, net of fees and expenses authorized herein, associated with prepayment of the debenture are entirely passed through to the borrower.
 - **(c)** No fees or penalties other than those specified in this section may be imposed on the issuer, the borrower, the Administration, or any fund or account administered by the Administration as the result of a prepayment under this section.
 - **(d)**
-  - **(1)** The refinancing of a debenture under sections 697a and 697b of this title, in accordance with subsection (b)(2) of this section—
+  - **(1)** The refinancing of a debenture under sections 697a and 697b of this title, in accordance with subsection (b)(2)—
     - **(A)** shall not exceed the amount necessary to prepay existing debentures, including all costs associated with the refinancing and any applicable prepayment penalty or repurchase premium; and
     - **(B)** except as provided in paragraphs (2) and (3), shall be subject to the provisions of sections 697a and 697b of this title and the rules and regulations promulgated thereunder, including rules and regulations governing payment of authorized expenses, commissions, fees, and discounts to brokers and dealers in trust certificates issued pursuant to section 697b of this title .
   - **(2)** An applicant for refinancing under section 697a of this title of a loan made pursuant to section 697 of this title shall not be required to demonstrate that a requisite number of jobs will be created with the proceeds of a refinancing.
-  - **(3)** To cover the cost of loan packaging, processing, and other administrative functions, a development company that provides refinancing under subsection (b)(2) of this section may impose a one-time loan processing fee, not to exceed 0.5 percent of the principal amount of the loan.
-  - **(4)** Issuers of debentures under subchapter III of this chapter may issue new debentures in accordance with such subchapter in order to prepay existing debentures as authorized in this section.
+  - **(3)** To cover the cost of loan packaging, processing, and other administrative functions, a development company that provides refinancing under subsection (b)(2) may impose a one-time loan processing fee, not to exceed 0.5 percent of the principal amount of the loan.
+  - **(4)** Issuers of debentures under subchapter III may issue new debentures in accordance with such subchapter in order to prepay existing debentures as authorized in this section.
   - **(5)**
     - **(A)** The Administration shall use certified mail and other reasonable means to notify each eligible borrower of the prepayment program provided in this subchapter. Each preliminary notice shall specify the range and dollar amount of repurchase premiums which could be required of that borrower in order to participate in the program. In carrying out this program, the Administration shall provide a period of not less than 45 days following the receipt of such notice by the borrower during which the borrower must notify the Administration of the borrower’s intent to participate in the program. The Administration shall require that a borrower who gives notice of its intent to participate to make an earnest money deposit of $1,000 which shall not be refundable but which shall be credited toward the final repurchase premium.
     - **(B)** For purposes of this paragraph, the term “borrower”, in the case of a small business investment company or a specialized small business investment company, means “issuer”.

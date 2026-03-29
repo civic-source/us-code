@@ -3,9 +3,9 @@ title: "Section 4010 - Acquisition of additional land"
 usc_title: 18
 usc_section: "4010"
 chapter: 301
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "18 U.S.C. § 4010"
-generated_at: "2026-03-29T18:04:51.002Z"
+generated_at: "2026-03-29T18:24:43.889Z"
 ---
 
 # § 4010. Acquisition of additional land

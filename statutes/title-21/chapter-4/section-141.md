@@ -3,9 +3,9 @@ title: "Section 141 - Prohibition of importation without permit"
 usc_title: 21
 usc_section: "141"
 chapter: 4
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 141"
-generated_at: "2026-03-29T18:05:14.729Z"
+generated_at: "2026-03-29T18:25:04.083Z"
 ---
 
 # § 141. Prohibition of importation without permit

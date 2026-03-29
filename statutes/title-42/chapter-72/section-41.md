@@ -3,12 +3,12 @@ title: "Section 41 - Authority to make grants"
 usc_title: 42
 usc_section: "41"
 chapter: 72
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 41"
-generated_at: "2026-03-29T18:07:14.710Z"
+generated_at: "2026-03-29T18:27:03.657Z"
 ---
 
 # § 5714–41. Authority to make grants
 
-- **(a)** The Secretary may make grants to nonprofit private agencies for the purpose of providing street-based services to runaway and homeless, and street youth, who have been subjected to, or are at risk of being subjected to, sexual abuse, prostitution, or sexual exploitation.
+- **(a)** The Secretary may make grants to nonprofit private agencies for the purpose of providing street-based services to runaway and homeless, and street youth, who have been subjected to, or are at risk of being subjected to, sexual abuse, prostitution, sexual exploitation, severe forms of trafficking in persons (as defined in section 7102(9) of title 22 ), or sex trafficking (as defined in section 7102(10) of title 22 ).
 - **(b)** In selecting applicants to receive grants under subsection (a) of this section, the Secretary shall give priority to public and nonprofit private agencies that have experience in providing services to runaway and homeless, and street youth.

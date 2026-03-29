@@ -3,9 +3,9 @@ title: "Section 631 - Delegation of powers by the Secretary"
 usc_title: 14
 usc_section: "631"
 chapter: 17
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "14 U.S.C. § 631"
-generated_at: "2026-03-29T18:04:21.492Z"
+generated_at: "2026-03-29T18:23:55.776Z"
 ---
 
 # § 631. Delegation of powers by the Secretary

@@ -3,9 +3,9 @@ title: "Section 1621n - Comprehensive school health education programs"
 usc_title: 25
 usc_section: "1621n"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1621n"
-generated_at: "2026-03-29T18:05:17.152Z"
+generated_at: "2026-03-29T18:25:23.729Z"
 ---
 
 # § 1621n. Comprehensive school health education programs

@@ -3,9 +3,9 @@ title: "Section 812 - Public-service licensee; regulations by State or by commis
 usc_title: 16
 usc_section: "812"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 812"
-generated_at: "2026-03-29T18:05:06.836Z"
+generated_at: "2026-03-29T18:24:22.713Z"
 ---
 
 # § 812. Public-service licensee; regulations by State or by commission as to service, rates, charges, etc.

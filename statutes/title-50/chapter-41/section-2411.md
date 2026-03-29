@@ -1,14 +1,14 @@
 ---
-title: "Section 2411 - Director for cost estimating and program evaluation"
+title: "Section 2411 - Director for Cost Estimating and Program Evaluation"
 usc_title: 50
 usc_section: "2411"
 chapter: 41
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 2411"
-generated_at: "2026-03-29T18:07:43.072Z"
+generated_at: "2026-03-29T18:27:35.640Z"
 ---
 
-# § 2411. Director for cost estimating and program evaluation
+# § 2411. Director for Cost Estimating and Program Evaluation
 
 - **(a)**
   - **(1)** There is in the Administration a Director for Cost Estimating and Program Evaluation (in this section referred to as the “Director”).
@@ -43,9 +43,10 @@ generated_at: "2026-03-29T18:07:43.072Z"
   - **(1)** A description of activities conducted by the Director during the calendar year preceding the submission of the report that are related to the duties and activities described in this section.
   - **(2)** A list of all major atomic energy defense acquisition programs and a concise description of the status of each such program and project in meeting cost and critical schedule milestones.
 - **(h)** In this section:
-  - **(1)**
+  - **(1)** The term “Administration”, with respect to any authority, duty, or responsibility provided by this section, does not include the Office of Naval Reactors.
+  - **(2)**
     - **(A)** Except as provided in subparagraph (B), the term “major atomic energy defense acquisition program” means an atomic energy defense acquisition program of the Administration—
       - **(i)** the total project cost of which is more than $500,000,000; or
       - **(ii)** the total lifetime cost of which is more than $1,000,000,000.
     - **(B)** The term “major atomic energy defense acquisition program” does not include a project covered by Department of Energy Order 413.3 (or a successor order) for the acquisition of capital assets for atomic energy defense activities.
-  - **(2)** The term “performance baseline”, with respect to a major atomic energy defense acquisition program, means the key parameters with respect to performance, scope, cost, and schedule for the project budget of the program.
+  - **(3)** The term “performance baseline”, with respect to a major atomic energy defense acquisition program, means the key parameters with respect to performance, scope, cost, and schedule for the project budget of the program.

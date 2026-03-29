@@ -3,9 +3,9 @@ title: "Section 2000ee - Privacy and Civil Liberties Oversight Board"
 usc_title: 42
 usc_section: "2000ee"
 chapter: 21
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 2000ee"
-generated_at: "2026-03-29T18:07:14.380Z"
+generated_at: "2026-03-29T18:27:03.416Z"
 ---
 
 # § 2000ee. Privacy and Civil Liberties Oversight Board
@@ -70,6 +70,7 @@ generated_at: "2026-03-29T18:07:14.380Z"
     - **(B)** If a subpoena request is modified or denied under subparagraph (A)(ii), the Attorney General shall, not later than 30 days after the date of that modification or denial, notify the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.
   - **(3)** In the case of contumacy or failure to obey a subpoena issued pursuant to paragraph (1)(D), the United States district court for the judicial district in which the subpoenaed person resides, is served, or may be found may issue an order requiring such person to produce the evidence required by such subpoena.
   - **(4)** Whenever information or assistance requested under subparagraph (A) or (B) of paragraph (1) is, in the judgment of the Board, unreasonably refused or not provided, the Board shall report the circumstances to the head of the department, agency, or element concerned without delay. The head of the department, agency, or element concerned shall ensure that the Board is given access to the information, assistance, material, or personnel the Board determines to be necessary to carry out its functions.
+  - **(5)** Nothing in this section shall be construed to authorize the Board, or any agent thereof, to gain access to information regarding an activity covered by section 3093(a) of title 50 .
 - **(h)**
   - **(1)** The Board shall be composed of a full-time chairman and 4 additional members, who shall be appointed by the President, by and with the advice and consent of the Senate.
   - **(2)** Members of the Board shall be selected solely on the basis of their professional qualifications, achievements, public stature, expertise in civil liberties and privacy, and relevant experience, and without regard to political affiliation, but in no event shall more than 3 members of the Board be members of the same political party. The President shall, before appointing an individual who is not a member of the same political party as the President, consult with the leadership of that party, if any, in the Senate and House of Representatives.

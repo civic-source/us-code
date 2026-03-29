@@ -3,9 +3,9 @@ title: "Section 6868 - Approval of application or amendment for financial assist
 usc_title: 42
 usc_section: "6868"
 chapter: 81
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 6868"
-generated_at: "2026-03-29T18:07:14.795Z"
+generated_at: "2026-03-29T18:27:03.728Z"
 ---
 
 # § 6868. Approval of application or amendment for financial assistance; administrative procedures applicable

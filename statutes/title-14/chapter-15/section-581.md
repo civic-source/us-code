@@ -3,9 +3,9 @@ title: "Section 581 - Definitions"
 usc_title: 14
 usc_section: "581"
 chapter: 15
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "14 U.S.C. § 581"
-generated_at: "2026-03-29T18:04:21.492Z"
+generated_at: "2026-03-29T18:23:55.776Z"
 ---
 
 # § 581. Definitions
@@ -28,7 +28,7 @@ In this chapter:
       - **(ii)** because such acquisition is a joint acquisition.
   - **(5)** The term “Level 2 acquisition” means an acquisition by the Coast Guard—
     - **(A)** the estimated life-cycle costs of which are equal to or less than $1,000,000,000, but greater than $300,000,000; or
-    - **(B)** the estimated total acquisition costs of which are equal to or less than $300,000,0000, 1 1 So in original. but greater than $100,000,000.
+    - **(B)** the estimated total acquisition costs of which are equal to or less than $300,000,000, but greater than $100,000,000.
   - **(6)** The term “life-cycle cost” means all costs for development, procurement, construction, and operations and support for a particular capability or asset, without regard to funding source or management control.
   - **(7)** The term “project or program manager” means an individual designated—
     - **(A)** to develop, produce, and deploy a new asset to meet identified operational requirements; and

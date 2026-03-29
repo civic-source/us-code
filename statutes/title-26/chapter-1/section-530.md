@@ -3,9 +3,9 @@ title: "Section 530 - Coverdell education savings accounts"
 usc_title: 26
 usc_section: "530"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 530"
-generated_at: "2026-03-29T18:05:44.666Z"
+generated_at: "2026-03-29T18:25:53.615Z"
 ---
 
 # § 530. Coverdell education savings accounts
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T18:05:44.666Z"
     - **(A)** The term “qualified elementary and secondary education expenses” means—
       - **(i)** expenses for tuition, fees, academic tutoring, special needs services in the case of a special needs beneficiary, books, supplies, and other equipment which are incurred in connection with the enrollment or attendance of the designated beneficiary of the trust as an elementary or secondary school student at a public, private, or religious school,
       - **(ii)** expenses for room and board, uniforms, transportation, and supplementary items and services (including extended day programs) which are required or provided by a public, private, or religious school in connection with such enrollment or attendance, and
-      - **(iii)** expenses for the purchase of any computer technology or equipment (as defined in section 170(e)(6)(F)(i)) or Internet access and related services, if such technology, equipment, or services are to be used by the beneficiary and the beneficiary’s family during any of the years the beneficiary is in school.
+      - **(iii)** expenses for the purchase of any computer technology or equipment (as defined in section 170(e)(6)(F)(i)) 1 1 See References in Text note below. or Internet access and related services, if such technology, equipment, or services are to be used by the beneficiary and the beneficiary’s family during any of the years the beneficiary is in school.
     - **(B)** The term “school” means any school which provides elementary education or secondary education (kindergarten through grade 12), as determined under State law.
   - **(4)** An individual shall be deemed to have made a contribution to an education individual retirement account on the last day of the preceding taxable year if the contribution is made on account of such taxable year and is made not later than the time prescribed by law for filing the return for such taxable year (not including extensions thereof).
 - **(c)**

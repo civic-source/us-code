@@ -3,9 +3,9 @@ title: "Section 1386 - Audits, reports, and fiscal controls; intended use plan"
 usc_title: 33
 usc_section: "1386"
 chapter: 26
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 1386"
-generated_at: "2026-03-29T18:06:10.569Z"
+generated_at: "2026-03-29T18:26:01.264Z"
 ---
 
 # § 1386. Audits, reports, and fiscal controls; intended use plan
@@ -21,6 +21,6 @@ generated_at: "2026-03-29T18:06:10.569Z"
   - **(3)** information on the activities to be supported, including a description of project categories, discharge requirements under subchapters III and IV of this chapter, terms of financial assistance, and communities served;
   - **(4)** assurances and specific proposals for meeting the requirements of paragraphs (3), (4), (5), and (6) of section 1382(b) of this title ; and
   - **(5)** the criteria and method established for the distribution of funds.
-- **(d)** Beginning the first fiscal year after the receipt of payments under this subchapter, the State shall provide an annual report to the Administrator describing how the State has met the goals and objectives for the previous fiscal year as identified in the plan prepared for the previous fiscal year pursuant to subsection (c) of this section, including identification of loan recipients, loan amounts, and loan terms and similar details on other forms of financial assistance provided from the water pollution control revolving fund.
-- **(e)** The Administrator shall conduct an annual oversight review of each State plan prepared under subsection (c) of this section, each State report prepared under subsection (d) of this section, and other such materials as are considered necessary and appropriate in carrying out the purposes of this subchapter. After reasonable notice by the Administrator to the State or the recipient of a loan from a water pollution control revolving fund, the State or loan recipient shall make available to the Administrator such records as the Administrator reasonably requires to review and determine compliance with this subchapter.
-- **(f)** Except to the extent provided in this subchapter, the provisions of subchapter II of this chapter shall not apply to grants under this subchapter.
+- **(d)** Beginning the first fiscal year after the receipt of payments under this subchapter, the State shall provide an annual report to the Administrator describing how the State has met the goals and objectives for the previous fiscal year as identified in the plan prepared for the previous fiscal year pursuant to subsection (c), including identification of loan recipients, loan amounts, and loan terms and similar details on other forms of financial assistance provided from the water pollution control revolving fund.
+- **(e)** The Administrator shall conduct an annual oversight review of each State plan prepared under subsection (c), each State report prepared under subsection (d), and other such materials as are considered necessary and appropriate in carrying out the purposes of this subchapter. After reasonable notice by the Administrator to the State or the recipient of a loan from a water pollution control revolving fund, the State or loan recipient shall make available to the Administrator such records as the Administrator reasonably requires to review and determine compliance with this subchapter.
+- **(f)** Except to the extent provided in this subchapter, the provisions of subchapter II shall not apply to grants under this subchapter.

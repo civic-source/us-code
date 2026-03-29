@@ -3,9 +3,9 @@ title: "Section 5603 - Establishment of Morris K. Udall and Stewart L. Udall Fou
 usc_title: 20
 usc_section: "5603"
 chapter: 66
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 5603"
-generated_at: "2026-03-29T18:05:00.281Z"
+generated_at: "2026-03-29T18:24:41.102Z"
 ---
 
 # § 5603. Establishment of Morris K. Udall and Stewart L. Udall Foundation
@@ -24,9 +24,9 @@ generated_at: "2026-03-29T18:05:00.281Z"
 - **(c)**
   - **(1)** The term of office of each member of the Board shall be six years, except that—
     - **(A)** in the case of the Trustees first taking offices—
-      - **(i)** as designated by the President, one Trustee appointed pursuant to subsection (b)(2) of this section and two trustees appointed pursuant to subsection (b)(3) of this section shall each serve two years; and
-      - **(ii)** as designated by the President, one Trustee appointed pursuant to subsection (b)(1) of this section and two Trustees appointed pursuant to subsection (b)(3) of this section shall each serve four years; and
-      - **(iii)** as designated by the President, one Trustee appointed pursuant to subsection (b)(1) of this section, one Trustee appointed pursuant to subsection (b)(2) of this section, and one Trustee appointed pursuant to subsection (b)(3) of this section shall each serve six years;
+      - **(i)** as designated by the President, one Trustee appointed pursuant to subsection (b)(2) and two trustees appointed pursuant to subsection (b)(3) shall each serve two years; and
+      - **(ii)** as designated by the President, one Trustee appointed pursuant to subsection (b)(1) and two Trustees appointed pursuant to subsection (b)(3) shall each serve four years; and
+      - **(iii)** as designated by the President, one Trustee appointed pursuant to subsection (b)(1), one Trustee appointed pursuant to subsection (b)(2), and one Trustee appointed pursuant to subsection (b)(3) shall each serve six years;
     - **(B)** a Trustee appointed to fill a vacancy shall serve for the remainder of the term for which the Trustee’s predecessor was appointed and shall be appointed in the same manner as the original appointment for that vacancy was made; and
     - **(C)** a Trustee may serve after the expiration of the Trustee’s term until a successor has been chosen.
 - **(d)** Trustees shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties as members of the Board.

@@ -3,9 +3,9 @@ title: "Section 13023 - Specialized technical assistance and training programs"
 usc_title: 42
 usc_section: "13023"
 chapter: 132
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 13023"
-generated_at: "2026-03-29T18:07:15.298Z"
+generated_at: "2026-03-29T18:27:04.102Z"
 ---
 
 # § 13023. Specialized technical assistance and training programs
@@ -20,5 +20,5 @@ generated_at: "2026-03-29T18:07:15.298Z"
   - **(2)** The criteria established for the making of grants pursuant to paragraph (1) shall give priority to programs that improve—
     - **(A)** procedures for determining whether child service agencies have made reasonable efforts to prevent placement of children in foster care;
     - **(B)** procedures for determining whether child service agencies have, after placement of children in foster care, made reasonable efforts to reunite the family; and
-    - **(C)** procedures for coordinating information and services among health professionals, social workers, law enforcement professionals, prosecutors, defense attorneys, and juvenile and family court personnel, consistent with subchapter I of this chapter.
-- **(c)** The Administrator shall make grants under subsections (a) and (b) of this section consistent with sections 5666, 5673, and 5676 of this title.
+    - **(C)** procedures for coordinating information and services among health professionals, social workers, law enforcement professionals, prosecutors, defense attorneys, and juvenile and family court personnel, consistent with subchapter I.
+- **(c)** The Administrator shall make grants under subsections (a) and (b) consistent with sections 5666, 5673, and 5676 of this title.

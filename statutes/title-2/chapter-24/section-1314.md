@@ -3,9 +3,9 @@ title: "Section 1314 - Rights and protections under Employee Polygraph Protectio
 usc_title: 2
 usc_section: "1314"
 chapter: 24
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "2 U.S.C. § 1314"
-generated_at: "2026-03-29T18:03:21.785Z"
+generated_at: "2026-03-29T18:23:14.106Z"
 ---
 
 # § 1314. Rights and protections under Employee Polygraph Protection Act of 1988
@@ -13,11 +13,11 @@ generated_at: "2026-03-29T18:03:21.785Z"
 - **(a)**
   - **(1)** No employing office, irrespective of whether a covered employee works in that employing office, may require a covered employee to take a lie detector test where such a test would be prohibited if required by an employer under paragraph (1), (2), or (3) of section 3 of the Employee Polygraph Protection Act of 1988 ( 29 U.S.C. 2002(1) , (2), or (3)). In addition, the waiver provisions of section 6(d) of such Act ( 29 U.S.C. 2005(d) ) shall apply to covered employees.
   - **(2)** For purposes of this section, the term “covered employee” shall include employees of the Government Accountability Office and the Library of Congress and the term “employing office” shall include the Government Accountability Office and the Library of Congress.
-  - **(3)** Nothing in this section shall preclude the Capitol Police from using lie detector tests in accordance with regulations under subsection (c) of this section.
-- **(b)** The remedy for a violation of subsection (a) of this section shall be such remedy as would be appropriate if awarded under section 6(c)(1) of the Employee Polygraph Protection Act of 1988 ( 29 U.S.C. 2005(c)(1) ).
+  - **(3)** Nothing in this section shall preclude the Capitol Police from using lie detector tests in accordance with regulations under subsection (c).
+- **(b)** The remedy for a violation of subsection (a) shall be such remedy as would be appropriate if awarded under section 6(c)(1) of the Employee Polygraph Protection Act of 1988 ( 29 U.S.C. 2005(c)(1) ).
 - **(c)**
   - **(1)** The Board shall, pursuant to section 1384 of this title , issue regulations to implement this section.
-  - **(2)** The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsections (a) and (b) of this section except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+  - **(2)** The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsections (a) and (b) except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 - **(d)**
-  - **(1)** Except as provided in paragraph (2), subsections (a) and (b) of this section shall be effective 1 year after January 23, 1995 .
+  - **(1)** Except as provided in paragraph (2), subsections (a) and (b) shall be effective 1 year after January 23, 1995 .
   - **(2)** This section shall be effective with respect to the Government Accountability Office and the Library of Congress 1 year after transmission to the Congress of the study under section 1371 of this title .

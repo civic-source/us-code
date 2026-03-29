@@ -3,9 +3,9 @@ title: "Section 1395mm - Payments to health maintenance organizations and compet
 usc_title: 42
 usc_section: "1395mm"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1395mm"
-generated_at: "2026-03-29T18:07:14.037Z"
+generated_at: "2026-03-29T18:27:03.152Z"
 ---
 
 # § 1395mm. Payments to health maintenance organizations and competitive medical plans
@@ -128,7 +128,7 @@ generated_at: "2026-03-29T18:07:14.037Z"
   - **(3)** The additional benefits referred to in paragraph (2) are—
     - **(A)** the reduction of the premium rate or other charges made with respect to services furnished by the organization to members enrolled under this section, or
     - **(B)** the provision of additional health benefits,
-  - **(4)** Repealed. Pub. L. 100–203, title IV, § 4012(b) , Dec. 22, 1987 , 101 Stat. 1330–61 .
+  - **(4)** Repealed. Pub. L. 100–203, title IV , § 4012(b), Dec. 22, 1987 , 101 Stat. 1330–61 .
   - **(5)** An organization having a risk-sharing contract under this section may (with the approval of the Secretary) provide that a part of the value of additional benefits otherwise required to be provided by reason of paragraph (2) be withheld and reserved in the Federal Hospital Insurance Trust Fund and in the Federal Supplementary Medical Insurance Trust Fund (in such proportions as the Secretary determines to be appropriate) by the Secretary for subsequent annual contract periods, to the extent required to stabilize and prevent undue fluctuations in the additional benefits offered in those subsequent periods by the organization in accordance with paragraph (3). Any of such value of additional benefits which is not provided to members of the organization in accordance with paragraph (3) prior to the end of such period, shall revert for the use of such trust funds.
   - **(6)**
     - **(A)** A risk-sharing contract under this section shall require the eligible organization to provide prompt payment (consistent with the provisions of sections 1395h(c)(2) and 1395u(c)(2) of this title) of claims submitted for services and supplies furnished to individuals pursuant to such contract, if the services or supplies are not furnished under a contract between the organization and the provider or supplier.
@@ -153,12 +153,22 @@ generated_at: "2026-03-29T18:07:14.037Z"
       - **(ii)** the Secretary determines that the organization with the contract continues to meet the requirements applicable to such organizations and contracts under this section.
     - **(C)**
       - **(i)** Subject to clause (ii), a reasonable cost reimbursement contract under this subsection may be extended or renewed indefinitely.
-      - **(ii)** For any period beginning on or after January 1, 2016 , a reasonable cost reimbursement contract under this subsection may not be extended or renewed for a service area insofar as such area during the entire previous year was within the service area of—
+      - **(ii)** Subject to clause (iv), for any period beginning on or after January 1, 2016 , a reasonable cost reimbursement contract under this subsection may not be extended or renewed for a service area insofar as such area during the entire previous year was within the service area of—
         - **(I)** 2 or more MA regional plans described in clause (iii), provided that all such plans are not offered by the same Medicare Advantage organization; or
         - **(II)** 2 or more MA local plans described in clause (iii), provided that all such plans are not offered by the same Medicare Advantage organization.
       - **(iii)** A plan described in this clause for a year for a service area is a plan described in section 1395w–21(a)(2)(A)(i) of this title if the service area for the year meets the following minimum enrollment requirements:
-        - **(I)** With respect to any portion of the area involved that is within a Metropolitan Statistical Area with a population of more than 250,000 and counties contiguous to such Metropolitan Statistical Area that are not in another Metropolitan Statistical Area with a population of more than 250,000, 5,000 individuals. If the service area includes a portion in more than 1 Metropolitan Statistical Area with a population of more than 250,000, the minimum enrollment determination under the preceding sentence shall be made with respect to each such Metropolitan Statistical Area (and such applicable contiguous counties to such Metropolitan Statistical Area).
-        - **(II)** With respect to any other portion of such area, 1,500 individuals.
+        - **(I)** With respect to any portion of the cost plan service area involved that is within a Metropolitan Statistical Area with a population of more than 250,000 and counties contiguous to such Metropolitan Statistical Area that are not in another Metropolitan Statistical Area with a population of more than 250,000, 5,000 individuals. If the service area includes a portion in more than 1 Metropolitan Statistical Area with a population of more than 250,000, the minimum enrollment determination under the preceding sentence shall be made with respect to each such Metropolitan Statistical Area (and such applicable contiguous counties to such Metropolitan Statistical Area).
+        - **(II)** With respect to any other portion of such cost plan service area, 1,500 individuals.
+      - **(iv)** In the case of an eligible organization that is offering a reasonable cost reimbursement contract that may no longer be extended or renewed because of the application of clause (ii), or where such contract has been extended or renewed but the eligible organization has informed the Secretary in writing not later than a date determined appropriate by the Secretary that such organization voluntarily plans not to seek renewal of the reasonable cost reimbursement contract, the following shall apply:
+        - **(I)** Notwithstanding such clause, such contract may be extended or renewed for the two years subsequent to 2016. The final year in which such contract is extended or renewed is referred to in this subsection as the “last reasonable cost reimbursement contract year for the contract”.
+        - **(II)** The organization may not enroll a new enrollee under such contract during the last reasonable cost reimbursement contract year for the contract (but may continue to enroll new enrollees through the end of the year immediately preceding such year) unless such enrollee is any of the following:
+        - **(III)** Not later than a date determined appropriate by the Secretary prior to the beginning of the last reasonable cost reimbursement contract year for the contract, the organization shall provide notice to the Secretary as to whether the organization will apply to have the contract converted over, in whole or in part, and offered as a Medicare Advantage plan under part C for the year following the last reasonable cost reimbursement contract year for the contract.
+        - **(IV)** If the organization provides the notice described in subclause (III) that the contract will be converted, in whole or in part, the organization shall, not later than a date determined appropriate by the Secretary, provide the Secretary with such information as the Secretary determines appropriate in order to carry out section 1395w–21(c)(4) of this title and to carry out section 1395w–24(a)(5) of this title , including subparagraph (C)(ii) of such section.
+        - **(V)** In the case that the organization enrolls a new enrollee under such contract during the last reasonable cost reimbursement contract year for the contract, the organization shall provide the individual with a notification that such year is the last year for such contract.
+      - **(v)** If an eligible organization that is offering a reasonable cost reimbursement contract that is extended or renewed pursuant to clause (iv) provides the notice described in clause (iv)(III) that the contract will be converted, in whole or in part, the following shall apply:
+        - **(I)** The deemed enrollment under section 1395w–21(c)(4) of this title .
+        - **(II)** The special rule for quality increase under section 1395w–23( o )(4)(C) of this title.
+        - **(III)** During the last reasonable cost reimbursement contract year for the contract and the year immediately preceding such year, the eligible organization, or the corporate parent organization of the eligible organization, shall be permitted to offer an MA plan in the area that such contract is being offered and enroll Medicare Advantage eligible individuals in such MA plan and such cost plan.
 - **(i)**
   - **(1)** Each contract under this section shall be for a term of at least one year, as determined by the Secretary, and may be made automatically renewable from term to term in the absence of notice by either party of intention to terminate at the end of the current term; except that in accordance with procedures established under paragraph (9), the Secretary may at any time terminate any such contract or may impose the intermediate sanctions described in paragraph (6)(B) or (6)(C) (whichever is applicable) on the eligible organization if the Secretary determines that the organization—
     - **(A)** has failed substantially to carry out the contract;

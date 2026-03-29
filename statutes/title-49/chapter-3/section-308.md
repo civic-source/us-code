@@ -3,9 +3,9 @@ title: "Section 308 - Reports"
 usc_title: 49
 usc_section: "308"
 chapter: 3
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 308"
-generated_at: "2026-03-29T18:07:51.322Z"
+generated_at: "2026-03-29T18:27:16.424Z"
 ---
 
 # § 308. Reports
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T18:07:51.322Z"
   - **(1)** economic and technological development of the ports;
   - **(2)** extent to which the ports contribute to the national welfare and security; and
   - **(3)** factors that may impede the continued development of the ports.
-- **[(d)** Repealed. Pub. L. 104–66, title I, § 1121(h) , Dec. 21, 1995 , 109 Stat. 724 .]
+- **[(d)** Repealed. Pub. L. 104–66, title I , § 1121(h), Dec. 21, 1995 , 109 Stat. 724 .]
 - **(e)**
   - **(1)** The Secretary shall submit to Congress in March 1998, and in March of each even-numbered year thereafter, a report of estimates by the Secretary on the current performance and condition of public mass transportation systems with recommendations for necessary administrative or legislative changes.
   - **(2)** In reporting to Congress under this subsection, the Secretary shall prepare a complete assessment of public transportation facilities in the United States. The Secretary also shall assess future needs for those facilities and estimate future capital requirements and operation and maintenance requirements for one-year, 5-year, and 10-year periods at specified levels of service.

@@ -3,9 +3,9 @@ title: "Section 1802 - Definitions"
 usc_title: 29
 usc_section: "1802"
 chapter: 20
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 1802"
-generated_at: "2026-03-29T18:05:31.800Z"
+generated_at: "2026-03-29T18:25:43.122Z"
 ---
 
 # § 1802. Definitions

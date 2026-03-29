@@ -3,14 +3,14 @@ title: "Section 3293 - Agricultural fellowship program for middle income countri
 usc_title: 7
 usc_section: "3293"
 chapter: 64
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 3293"
-generated_at: "2026-03-29T18:04:05.016Z"
+generated_at: "2026-03-29T18:23:43.420Z"
 ---
 
 # § 3293. Agricultural fellowship program for middle income countries, emerging democracies, and emerging markets
 
-- **(a)** The Secretary of Agriculture shall establish a fellowship program for, 1 1 So in original. The word “for” probably should not appear. to be known as the “Cochran Fellowship Program”, to provide fellowships to individuals from eligible countries (as determined under subsection (b) of this section) who specialize in agriculture for study in the United States.
+- **(a)** The Secretary of Agriculture shall establish a fellowship program for, 1 1 So in original. The word “for” probably should not appear. to be known as the “Cochran Fellowship Program”, to provide fellowships to individuals from eligible countries (as determined under subsection (b)) who specialize in agriculture for study in the United States.
 - **(b)** Countries described in any of the following paragraphs shall be eligible to participate in the program established under this section:
   - **(1)** A country that has developed economically to the point where it no longer qualifies for bilateral foreign aid assistance from the United States because its per capita income level exceeds the eligibility requirements of such assistance programs (hereafter referred to in this section as a “middle-income” country).
   - **(2)** A middle-income country that has never qualified for bilateral foreign aid assistance from the United States, but with respect to which an ongoing relationship with the United States, including technical assistance and training, would provide mutual benefits to such country and the United States.
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T18:04:05.016Z"
 - **(d)** The Secretary shall utilize the expertise of United States agricultural counselors, trade officers, and commodity trade promotion groups working in participating countries to help identify program candidates for fellowships under this section from both the public and private sectors of those countries. The Secretary may provide fellowships under the program authorized by this section to private agricultural producers from eligible countries.
 - **(e)** The Secretary shall consult with other United States Government agencies, United States universities, and the private agribusiness sector, as appropriate, to design and administer training programs to accomplish the objectives of the program established under this section.
 - **(f)** There are authorized to be appropriated without fiscal year limitation such sums as may be necessary to carry out the program established under this section, except that the amount of such funds in any fiscal year shall not exceed—
-  - **(1)** for eligible countries that meet the requirements of subsection (b)(1) of this section, $3,000,000;
-  - **(2)** for eligible countries that meet the requirements of subsection (b)(2) of this section, $2,000,000; and
-  - **(3)** for eligible countries that meet the requirements of subsection (b)(3) of this section, $5,000,000.
+  - **(1)** for eligible countries that meet the requirements of subsection (b)(1), $3,000,000;
+  - **(2)** for eligible countries that meet the requirements of subsection (b)(2), $2,000,000; and
+  - **(3)** for eligible countries that meet the requirements of subsection (b)(3), $5,000,000.
 - **(g)** If the Secretary of Agriculture determines that it is advisable in furtherance of the purposes of the program established under this section, the Secretary may accept money, funds, property, and services of every kind by gift, devise, bequest, grant, or otherwise, and may, in any manner, dispose of all such holdings and use the receipts generated from such disposition as general program funds under this section. All funds so designated for the program established under this section shall remain available until expended.

@@ -3,9 +3,9 @@ title: "Section 30147 - Responsibility for defects and noncompliance"
 usc_title: 49
 usc_section: "30147"
 chapter: 301
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 30147"
-generated_at: "2026-03-29T18:07:51.436Z"
+generated_at: "2026-03-29T18:27:16.533Z"
 ---
 
 # § 30147. Responsibility for defects and noncompliance

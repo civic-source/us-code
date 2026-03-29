@@ -3,9 +3,9 @@ title: "Section 2510 - Use of electric and hybrid vehicles by Federal agencies"
 usc_title: 15
 usc_section: "2510"
 chapter: 52
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 2510"
-generated_at: "2026-03-29T18:04:29.854Z"
+generated_at: "2026-03-29T18:24:08.541Z"
 ---
 
 # § 2510. Use of electric and hybrid vehicles by Federal agencies

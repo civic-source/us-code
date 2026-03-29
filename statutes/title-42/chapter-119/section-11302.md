@@ -3,9 +3,9 @@ title: "Section 11302 - General definition of homeless individual"
 usc_title: 42
 usc_section: "11302"
 chapter: 119
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 11302"
-generated_at: "2026-03-29T18:07:15.174Z"
+generated_at: "2026-03-29T18:27:04.015Z"
 ---
 
 # § 11302. General definition of homeless individual
@@ -29,6 +29,6 @@ generated_at: "2026-03-29T18:07:15.174Z"
 - **(b)** Notwithstanding any other provision of this section, the Secretary shall consider to be homeless any individual or family who is fleeing, or is attempting to flee, domestic violence, dating violence, sexual assault, stalking, or other dangerous or life-threatening conditions in the individual’s or family’s current housing situation, including where the health and safety of children are jeopardized, and who have no other residence and lack the resources or support networks to obtain other permanent housing.
 - **(c)**
   - **(1)** A homeless individual shall be eligible for assistance under any program provided by this chapter, only if the individual complies with the income eligibility requirements otherwise applicable to such program.
-  - **(2)** Notwithstanding paragraph (1), a homeless individual shall be eligible for assistance under title I of the Workforce Investment Act of 1998 [ 29 U.S.C. 2801 et seq.].
+  - **(2)** Notwithstanding paragraph (1), a homeless individual shall be eligible for assistance under title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 et seq.].
 - **(d)** For purposes of this chapter, the term “homeless” or “homeless individual” does not include any individual imprisoned or otherwise detained pursuant to an Act of the Congress or a State law.
 - **(e)** Any references in this chapter to homeless individuals (including homeless persons) or homeless groups (including homeless persons) shall be considered to include, and to refer to, individuals experiencing homelessness or groups experiencing homelessness, respectively.

@@ -3,9 +3,9 @@ title: "Section 31106 - Information systems"
 usc_title: 49
 usc_section: "31106"
 chapter: 311
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 31106"
-generated_at: "2026-03-29T18:07:51.444Z"
+generated_at: "2026-03-29T18:27:16.543Z"
 ---
 
 # § 31106. Information systems
@@ -37,7 +37,6 @@ generated_at: "2026-03-29T18:07:51.444Z"
     - **(C)** establish and implement a process—
       - **(i)** to cancel the motor vehicle registration and seize the registration plates of a vehicle when an employer is found liable under section 31310(i)(2)(C) for knowingly allowing or requiring an employee to operate such a commercial motor vehicle in violation of an out-of-service order; and
       - **(ii)** to reinstate the vehicle registration or return the registration plates of the commercial motor vehicle, subject to sanctions under clause (i), if the Secretary permits such carrier to resume operations after the date of issuance of such order.
-  - **(4)** From the funds authorized by section 31104(i), the Secretary may make a grant in a fiscal year to a State to implement the performance and registration information system management requirements of this subsection.
 - **(c)**
   - **(1)** In coordination with the information system under section 31309, the Secretary is authorized to establish a program to improve commercial motor vehicle driver safety. The objectives of the program shall include—
     - **(A)** enhancing the exchange of driver licensing information among the States, the Federal Government, and foreign countries;

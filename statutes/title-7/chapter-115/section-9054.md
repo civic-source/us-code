@@ -3,9 +3,9 @@ title: "Section 9054 - Participation of dairy operations in margin protection pr
 usc_title: 7
 usc_section: "9054"
 chapter: 115
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 9054"
-generated_at: "2026-03-29T18:04:05.187Z"
+generated_at: "2026-03-29T18:23:43.580Z"
 ---
 
 # § 9054. Participation of dairy operations in margin protection program

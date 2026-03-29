@@ -3,9 +3,9 @@ title: "Section 1673 - State programs"
 usc_title: 16
 usc_section: "1673"
 chapter: 36
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 1673"
-generated_at: "2026-03-29T18:05:06.964Z"
+generated_at: "2026-03-29T18:24:22.822Z"
 ---
 
 # § 1673. State programs

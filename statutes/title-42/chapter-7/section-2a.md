@@ -3,9 +3,9 @@ title: "Section 2a - Hospital insurance benefits for disabled individuals who ha
 usc_title: 42
 usc_section: "2a"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 2a"
-generated_at: "2026-03-29T18:07:13.877Z"
+generated_at: "2026-03-29T18:27:03.035Z"
 ---
 
 # § 1395i–2a. Hospital insurance benefits for disabled individuals who have exhausted other entitlement
@@ -24,13 +24,13 @@ generated_at: "2026-03-29T18:07:13.877Z"
   - **(3)** There shall be a general enrollment period during the period beginning on January 1 and ending on March 31 of each year (beginning with 1990).
 - **(c)**
   - **(1)** The period (in this subsection referred to as a “coverage period”) during which an individual is entitled to benefits under the insurance program under this part shall begin on whichever of the following is the latest:
-    - **(A)** In the case of an individual who enrolls under subsection (b)(2) of this section before the month in which the individual first satisfies subsection (a) of this section, the first day of such month.
-    - **(B)** In the case of an individual who enrolls under subsection (b)(2) of this section in the month in which the individual first satisfies subsection (a) of this section, the first day of the month following the month in which the individual so enrolls.
-    - **(C)** In the case of an individual who enrolls under subsection (b)(2) of this section in the month following the month in which the individual first satisfies subsection (a) of this section, the first day of the second month following the month in which the individual so enrolls.
-    - **(D)** In the case of an individual who enrolls under subsection (b)(2) of this section more than one month following the month in which the individual first satisfies subsection (a) of this section, the first day of the third month following the month in which the individual so enrolls.
-    - **(E)** In the case of an individual who enrolls under subsection (b)(3) of this section, the July 1 following the month in which the individual so enrolls.
+    - **(A)** In the case of an individual who enrolls under subsection (b)(2) before the month in which the individual first satisfies subsection (a), the first day of such month.
+    - **(B)** In the case of an individual who enrolls under subsection (b)(2) in the month in which the individual first satisfies subsection (a), the first day of the month following the month in which the individual so enrolls.
+    - **(C)** In the case of an individual who enrolls under subsection (b)(2) in the month following the month in which the individual first satisfies subsection (a), the first day of the second month following the month in which the individual so enrolls.
+    - **(D)** In the case of an individual who enrolls under subsection (b)(2) more than one month following the month in which the individual first satisfies subsection (a), the first day of the third month following the month in which the individual so enrolls.
+    - **(E)** In the case of an individual who enrolls under subsection (b)(3), the July 1 following the month in which the individual so enrolls.
   - **(2)** An individual’s coverage period under this section shall continue until the individual’s enrollment is terminated as follows:
-    - **(A)** As of the month following the month in which the Secretary provides notice to the individual that the individual no longer meets the condition described in subsection (a)(2)(B) of this section.
+    - **(A)** As of the month following the month in which the Secretary provides notice to the individual that the individual no longer meets the condition described in subsection (a)(2)(B).
     - **(B)** As of the month following the month in which the individual files notice that the individual no longer wishes to participate in the insurance program established by this part.
     - **(C)** As of the month before the first month in which the individual becomes eligible for hospital insurance benefits under section 426(a) or 426–1 of this title.
     - **(D)** As of a date, determined under regulations of the Secretary, for nonpayment of premiums.

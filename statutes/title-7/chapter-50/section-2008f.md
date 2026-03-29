@@ -3,15 +3,15 @@ title: "Section 2008f - Crop insurance requirement"
 usc_title: 7
 usc_section: "2008f"
 chapter: 50
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 2008f"
-generated_at: "2026-03-29T18:04:04.924Z"
+generated_at: "2026-03-29T18:23:43.337Z"
 ---
 
 # § 2008f. Crop insurance requirement
 
-- **(a)** As a condition of obtaining any benefit (including a direct loan, loan guarantee, or payment) described in subsection (b) of this section, a borrower must obtain at least catastrophic risk protection insurance coverage under section 1508 of this title for the crop and crop year for which the benefit is sought, if the coverage is offered by the Corporation.
-- **(b)** Subsection (a) of this section shall apply to—
+- **(a)** As a condition of obtaining any benefit (including a direct loan, loan guarantee, or payment) described in subsection (b), a borrower must obtain at least catastrophic risk protection insurance coverage under section 1508 of this title for the crop and crop year for which the benefit is sought, if the coverage is offered by the Corporation.
+- **(b)** Subsection (a) shall apply to—
   - **(1)** a farm ownership loan (FO) under section 1923 of this title ;
   - **(2)** an operating loan (OL) under section 1942 of this title ; and
   - **(3)** an emergency loan (EM) under section 1961 of this title .

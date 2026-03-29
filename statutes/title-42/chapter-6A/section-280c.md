@@ -3,9 +3,9 @@ title: "Section 280c - Establishment of program"
 usc_title: 42
 usc_section: "280c"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 280c"
-generated_at: "2026-03-29T18:07:13.360Z"
+generated_at: "2026-03-29T18:27:02.607Z"
 ---
 
 # § 280c. Establishment of program
@@ -14,9 +14,9 @@ generated_at: "2026-03-29T18:07:13.360Z"
   - **(1)** to identify low-income individuals who can avoid institutionalization or prolonged hospitalization if skilled medical services, skilled nursing care services, homemaker or home health aide services, or personal care services are provided in the homes of the individuals;
   - **(2)** to pay the costs of the provision of such services in the homes of such individuals; and
   - **(3)** to coordinate the provision by public and private entities of such services, and other long-term care services, in the homes of such individuals.
-- **(b)** The Secretary may not make a grant under subsection (a) of this section to a State unless the State agrees to ensure that—
+- **(b)** The Secretary may not make a grant under subsection (a) to a State unless the State agrees to ensure that—
   - **(1)** not less than 25 percent of the grant is expended to provide services under such subsection to individuals who are not less than 65 years of age; and
   - **(2)** of the portion of the grant reserved by the State for purposes of complying with paragraph (1), not less than 10 percent is expended to provide such services to individuals who are not less than 85 years of age.
-- **(c)** A State may not make payments from a grant under subsection (a) of this section for any item or service to the extent that payment has been made, or can reasonably be expected to be made, with respect to such item or service—
+- **(c)** A State may not make payments from a grant under subsection (a) for any item or service to the extent that payment has been made, or can reasonably be expected to be made, with respect to such item or service—
   - **(1)** under any State compensation program, under an insurance policy, or under any Federal or State health benefits program; or
   - **(2)** by an entity that provides health services on a prepaid basis.

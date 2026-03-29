@@ -1,14 +1,12 @@
 ---
-title: "Section 1253 - Payments to minors"
+title: "Section 1253 - Omitted"
 usc_title: 25
 usc_section: "1253"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1253"
-generated_at: "2026-03-29T18:05:17.125Z"
+generated_at: "2026-03-29T18:25:23.710Z"
 ---
 
-# § 1253. Payments to minors
-
-Sums payable under this subchapter to enrollees or their heirs or legatees who are less than eighteen years of age or who are under a legal disability shall be paid in accordance with such procedures, including the establishment of trusts, as the Secretary of the Interior determines appropriate to protect the best interests of such persons.
+# § 1253. Omitted
 

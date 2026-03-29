@@ -3,9 +3,9 @@ title: "Section 390h - Program to investigate reclamation and reuse of wastewate
 usc_title: 43
 usc_section: "390h"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 390h"
-generated_at: "2026-03-29T18:06:28.266Z"
+generated_at: "2026-03-29T18:26:14.790Z"
 ---
 
 # § 390h. Program to investigate reclamation and reuse of wastewater and groundwater; general authority

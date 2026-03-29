@@ -3,9 +3,9 @@ title: "Section 864 - Art. 64. Review by a judge advocate"
 usc_title: 10
 usc_section: "864"
 chapter: 47
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 864"
-generated_at: "2026-03-29T18:04:13.015Z"
+generated_at: "2026-03-29T18:23:51.765Z"
 ---
 
 # § 864. Art. 64. Review by a judge advocate

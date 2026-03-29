@@ -3,15 +3,15 @@ title: "Section 14045d - Consultation"
 usc_title: 42
 usc_section: "14045d"
 chapter: 136
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 14045d"
-generated_at: "2026-03-29T18:07:15.364Z"
+generated_at: "2026-03-29T18:27:04.155Z"
 ---
 
 # § 14045d. Consultation
 
 - **(a)** The Attorney General shall conduct annual consultations with Indian tribal governments concerning the Federal administration of tribal funds and programs established under this Act, the Violence Against Women Act of 1994 (title IV of Public Law 103–322 ; 108 Stat. 1902 ), the Violence Against Women Act of 2000 (division B of Public Law 106–386 ; 114 Stat. 1491 ), and the Violence Against Women Reauthorization Act of 2013.
-- **(b)** During consultations under subsection (a) of this section, the Secretary of Health and Human Services, the Secretary of the Interior, and the Attorney General shall solicit recommendations from Indian tribes concerning—
+- **(b)** During consultations under subsection (a), the Secretary of Health and Human Services, the Secretary of the Interior, and the Attorney General shall solicit recommendations from Indian tribes concerning—
   - **(1)** administering tribal funds and programs;
   - **(2)** enhancing the safety of Indian women from domestic violence, dating violence, sexual assault, stalking, and sex trafficking; and
   - **(3)** strengthening the Federal response to such violent crimes.

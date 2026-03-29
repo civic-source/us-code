@@ -3,9 +3,9 @@ title: "Section 70911 - Records and inspection"
 usc_title: 36
 usc_section: "70911"
 chapter: 709
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "36 U.S.C. § 70911"
-generated_at: "2026-03-29T18:06:24.309Z"
+generated_at: "2026-03-29T18:26:09.284Z"
 ---
 
 # § 70911. Records and inspection

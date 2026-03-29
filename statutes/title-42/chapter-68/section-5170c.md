@@ -3,9 +3,9 @@ title: "Section 5170c - Hazard mitigation"
 usc_title: 42
 usc_section: "5170c"
 chapter: 68
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 5170c"
-generated_at: "2026-03-29T18:07:14.652Z"
+generated_at: "2026-03-29T18:27:03.620Z"
 ---
 
 # § 5170c. Hazard mitigation
@@ -36,7 +36,7 @@ generated_at: "2026-03-29T18:07:14.652Z"
   - **(5)** The President shall provide for periodic audits of the hazard mitigation grant programs administered by States under this subsection.
 - **(d)**
   - **(1)** For the purpose of providing assistance under this section, the President shall ensure that—
-    - **(A)** adequate resources are devoted to ensure that applicable environmental reviews under the National Environmental Policy Act of 1969 [ 42 U.S.C. 4321 et seq.] and historic preservation reviews under the National Historic Preservation Act [ 16 U.S.C. 470 et seq.] are completed on an expeditious basis; and
-    - **(B)** the shortest existing applicable process under the National Environmental Policy Act of 1969 [ 42 U.S.C. 4321 et seq.] and the National Historic Preservation Act [ 16 U.S.C. 470 et seq.] is utilized.
+    - **(A)** adequate resources are devoted to ensure that applicable environmental reviews under the National Environmental Policy Act of 1969 [ 42 U.S.C. 4321 et seq.] and historic preservation reviews under the National Historic Preservation Act 1 1 See References in Text note below. are completed on an expeditious basis; and
+    - **(B)** the shortest existing applicable process under the National Environmental Policy Act of 1969 [ 42 U.S.C. 4321 et seq.] and the National Historic Preservation Act 1 is utilized.
   - **(2)** The President may utilize expedited procedures in addition to those required under paragraph (1) for the purpose of providing assistance under this section, such as procedures under the Prototype Programmatic Agreement of the Federal Emergency Management Agency, for the consideration of multiple structures as a group and for an analysis of the cost-effectiveness and fulfillment of cost-share requirements for proposed hazard mitigation measures.
 - **(e)** The President may provide not more than 25 percent of the amount of the estimated cost of hazard mitigation measures to a State grantee eligible for a grant under this section before eligible costs are incurred.

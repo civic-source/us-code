@@ -3,9 +3,9 @@ title: "Section 917c - Negotiations with Mexico and Canada"
 usc_title: 16
 usc_section: "917c"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 917c"
-generated_at: "2026-03-29T18:05:06.879Z"
+generated_at: "2026-03-29T18:24:22.748Z"
 ---
 
 # § 917c. Negotiations with Mexico and Canada

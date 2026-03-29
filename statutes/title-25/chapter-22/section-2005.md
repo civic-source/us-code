@@ -3,9 +3,9 @@ title: "Section 2005 - Facilities construction"
 usc_title: 25
 usc_section: "2005"
 chapter: 22
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 2005"
-generated_at: "2026-03-29T18:05:17.200Z"
+generated_at: "2026-03-29T18:25:23.762Z"
 ---
 
 # § 2005. Facilities construction
@@ -46,13 +46,13 @@ generated_at: "2026-03-29T18:05:17.200Z"
   - **(2)** Nothing in this subsection requires termination of the operations of any facility that—
     - **(A)** does not comply with the provisions and standards described in paragraph (1); and
     - **(B)** is in use on January 8, 2002 .
-- **(c)** At the time that the annual budget request for Bureau educational services is presented, the Secretary shall submit to the appropriate committees of Congress a detailed plan to bring all facilities covered under subsection (a) of this section into compliance with the standards referred to in that subsection that includes—
+- **(c)** At the time that the annual budget request for Bureau educational services is presented, the Secretary shall submit to the appropriate committees of Congress a detailed plan to bring all facilities covered under subsection (a) into compliance with the standards referred to in that subsection that includes—
   - **(1)** detailed information on the status of each facility’s compliance with such standards;
   - **(2)** specific cost estimates for meeting such standards at each school; and
   - **(3)** specific timelines for bringing each school into compliance with such standards.
 - **(d)**
   - **(1)** On an annual basis, the Secretary shall submit to the appropriate committees of Congress and cause to be published in the Federal Register, the system used to establish priorities for replacement and construction projects for Bureau-funded schools and home-living schools, including boarding schools and dormitories. At the time any budget request for education is presented, the Secretary shall publish in the Federal Register and submit with the budget request the current list of all Bureau-funded school construction priorities.
-  - **(2)** In addition to the plan submitted under subsection (c) of this section, the Secretary shall—
+  - **(2)** In addition to the plan submitted under subsection (c), the Secretary shall—
     - **(A)** not later than 18 months after January 8, 2002 , establish a long-term construction and replacement list for all Bureau-funded schools;
     - **(B)** using the list prepared under subparagraph (A), propose a list for the orderly replacement of all Bureau-funded education-related facilities over a period of 40 years to enable planning and scheduling of budget requests;
     - **(C)** cause the list prepared under subparagraph (B) to be published in the Federal Register and allow a period of not less than 120 days for public comment;

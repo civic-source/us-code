@@ -1,14 +1,12 @@
 ---
-title: "Section 1300n - Findings"
+title: "Section 1300n - Omitted"
 usc_title: 25
 usc_section: "1300n"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1300n"
-generated_at: "2026-03-29T18:05:17.136Z"
+generated_at: "2026-03-29T18:25:23.712Z"
 ---
 
-# § 1300n. Findings
-
-The Congress finds that in their 1997 Report to Congress, the Advisory Council on California Indian Policy specifically recommended the immediate legislative restoration of the Graton Rancheria.
+# § 1300n. Omitted
 

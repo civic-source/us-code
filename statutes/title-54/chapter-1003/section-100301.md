@@ -3,9 +3,9 @@ title: "Section 100301 - Establishment"
 usc_title: 54
 usc_section: "100301"
 chapter: 1003
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "54 U.S.C. § 100301"
-generated_at: "2026-03-29T02:16:35.441Z"
+generated_at: "2026-03-29T18:27:38.908Z"
 ---
 
 # § 100301. Establishment

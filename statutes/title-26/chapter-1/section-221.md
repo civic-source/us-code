@@ -3,16 +3,16 @@ title: "Section 221 - Interest on education loans"
 usc_title: 26
 usc_section: "221"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 221"
-generated_at: "2026-03-29T18:05:44.543Z"
+generated_at: "2026-03-29T18:25:53.490Z"
 ---
 
 # § 221. Interest on education loans
 
 - **(a)** In the case of an individual, there shall be allowed as a deduction for the taxable year an amount equal to the interest paid by the taxpayer during the taxable year on any qualified education loan.
 - **(b)**
-  - **(1)** Except as provided in paragraph (2), the deduction allowed by subsection (a) for the taxable year shall not exceed the amount determined in accordance with the following table: In the case of taxable years The dollar beginning in: amount is: 1998 $1,000 1999 $1,500 2000 $2,000 2001 or thereafter $2,500.
+  - **(1)** Except as provided in paragraph (2), the deduction allowed by subsection (a) for the taxable year shall not exceed $2,500.
   - **(2)**
     - **(A)** The amount which would (but for this paragraph) be allowable as a deduction under this section shall be reduced (but not below zero) by the amount determined under subparagraph (B).
     - **(B)** The amount determined under this subparagraph is the amount which bears the same ratio to the amount which would be so taken into account as—

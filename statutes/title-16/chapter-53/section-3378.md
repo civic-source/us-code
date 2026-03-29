@@ -3,9 +3,9 @@ title: "Section 3378 - Miscellaneous provisions"
 usc_title: 16
 usc_section: "3378"
 chapter: 53
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 3378"
-generated_at: "2026-03-29T18:05:07.032Z"
+generated_at: "2026-03-29T18:24:22.876Z"
 ---
 
 # § 3378. Miscellaneous provisions
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T18:05:07.032Z"
   - **(2)** Section 667e of this title and sections 43 and 44 of title 18 (commonly known as provisions of the Lacey Act).
   - **(3)** Sections 3054 and 3112 of title 18.
 - **(c)** Nothing in this chapter shall be construed as—
-  - **(1)** repealing, superseding, or modifying any provision of Federal law other than those specified in subsection (b) of this section;
+  - **(1)** repealing, superseding, or modifying any provision of Federal law other than those specified in subsection (b);
   - **(2)** repealing, superseding, or modifying any right, privilege, or immunity granted, reserved, or established pursuant to treaty, statute, or executive order pertaining to any Indian tribe, band, or community; or
   - **(3)** enlarging or diminishing the authority of any State or Indian tribe to regulate the activities of persons within Indian reservations.
 - **(d)** The Secretary of the Interior is authorized to pay from agency appropriations the travel expense of newly appointed special agents of the United States Fish and Wildlife Service and the transportation expense of household goods and personal effects from place of residence at time of selection to first duty station to the extent authorized by section 5724 of title 5 for all such special agents appointed after January 1, 1977 .

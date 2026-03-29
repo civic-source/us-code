@@ -3,9 +3,9 @@ title: "Section 1606 - Determination of annual percentage rate"
 usc_title: 15
 usc_section: "1606"
 chapter: 41
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 1606"
-generated_at: "2026-03-29T18:04:29.570Z"
+generated_at: "2026-03-29T18:24:08.458Z"
 ---
 
 # § 1606. Determination of annual percentage rate
@@ -17,5 +17,5 @@ generated_at: "2026-03-29T18:04:29.570Z"
   - **(2)** in the case of any extension of credit under an open end credit plan, as the quotient (expressed as a percentage) of the total finance charge for the period to which it relates divided by the amount upon which the finance charge for that period is based, multiplied by the number of such periods in a year.
 - **(b)** Where a creditor imposes the same finance charge for balances within a specified range, the annual percentage rate shall be computed on the median balance within the range, except that if the Bureau determines that a rate so computed would not be meaningful, or would be materially misleading, the annual percentage rate shall be computed on such other basis as the Bureau may be regulation require.
 - **(c)** The disclosure of an annual percentage rate is accurate for the purpose of this subchapter if the rate disclosed is within a tolerance not greater than one-eighth of 1 per centum more or less than the actual rate or rounded to the nearest one-fourth of 1 per centum. The Bureau may allow a greater tolerance to simplify compliance where irregular payments are involved.
-- **(d)** The Bureau may authorize the use of rate tables or charts which may provide for the disclosure of annual percentage rates which vary from the rate determined in accordance with subsection (a)(1)(A) of this section by not more than such tolerances as the Bureau may allow. The Bureau may not allow a tolerance greater than 8 per centum of that rate except to simplify compliance where irregular payments are involved.
-- **(e)** In the case of creditors determining the annual percentage rate in a manner other than as described in subsection (d) of this section, the Bureau may authorize other reasonable tolerances.
+- **(d)** The Bureau may authorize the use of rate tables or charts which may provide for the disclosure of annual percentage rates which vary from the rate determined in accordance with subsection (a)(1)(A) by not more than such tolerances as the Bureau may allow. The Bureau may not allow a tolerance greater than 8 per centum of that rate except to simplify compliance where irregular payments are involved.
+- **(e)** In the case of creditors determining the annual percentage rate in a manner other than as described in subsection (d), the Bureau may authorize other reasonable tolerances.

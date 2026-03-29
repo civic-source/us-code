@@ -3,9 +3,9 @@ title: "Section 262 - Regulation of biological products"
 usc_title: 42
 usc_section: "262"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 262"
-generated_at: "2026-03-29T18:07:13.342Z"
+generated_at: "2026-03-29T18:27:02.589Z"
 ---
 
 # § 262. Regulation of biological products
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T18:07:13.342Z"
       - **(i)** on the basis of a demonstration that—
         - **(I)** the biological product that is the subject of the application is safe, pure, and potent; and
         - **(II)** the facility in which the biological product is manufactured, processed, packed, or held meets standards designed to assure that the biological product continues to be safe, pure, and potent; and
-      - **(ii)** if the applicant (or other appropriate person) consents to the inspection of the facility that is the subject of the application, in accordance with subsection (c) of this section.
+      - **(ii)** if the applicant (or other appropriate person) consents to the inspection of the facility that is the subject of the application, in accordance with subsection (c).
     - **(D)** A person that submits an application for a license under this paragraph is subject to sections 505( o ), 505(p), and 505–1 of the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 355 ( o ), (p), 355–1].
   - **(3)** The Secretary shall prescribe requirements under which a biological product undergoing investigation shall be exempt from the requirements of paragraph (1).
 - **(b)** No person shall falsely label or mark any package or container of any biological product or alter any label or mark on the package or container of the biological product so as to falsify the label or mark.
@@ -178,3 +178,8 @@ generated_at: "2026-03-29T18:07:13.342Z"
     - **(A)** the periods for such biological product referred to in subsection (k)(7) are deemed to be 4 years and 6 months rather than 4 years and 12 years and 6 months rather than 12 years; and
     - **(B)** if the biological product is designated under section 526 1 [ 21 U.S.C. 360bb ] for a rare disease or condition, the period for such biological product referred to in section 527(a) 1 [ 21 U.S.C. 360cc(a) ] is deemed to be 7 years and 6 months rather than 7 years.
   - **(4)** The Secretary shall not extend a period referred to in paragraph (2)(A), (2)(B), (3)(A), or (3)(B) if the determination under section 505A(d)(3) 1 [ 21 U.S.C. 355a(d)(3) ] is made later than 9 months prior to the expiration of such period.
+- **(n)**
+  - **(1)** In the case of an application under subsection (a) with respect to a biological product for which the Secretary provides notice to the sponsor that the Secretary intends to issue a scientific and medical evaluation and recommend controls under the Controlled Substances Act [ 21 U.S.C. 801 et seq.], approval of such application shall not take effect until the interim final rule controlling the biological product is issued in accordance with section 201(j) of the Controlled Substances Act [ 21 U.S.C. 811(j) ].
+  - **(2)** For purposes of this section, with respect to an application described in paragraph (1), references to the date of approval of such application, or licensure of the product subject to such application, shall mean the later of—
+    - **(A)** the date an application is approved under subsection (a); or
+    - **(B)** the date of issuance of the interim final rule controlling the biological product.

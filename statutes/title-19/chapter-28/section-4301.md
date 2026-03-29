@@ -3,9 +3,9 @@ title: "Section 4301 - Definitions"
 usc_title: 19
 usc_section: "4301"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 4301"
-generated_at: "2026-03-29T02:12:08.762Z"
+generated_at: "2026-03-29T18:24:16.241Z"
 ---
 
 # § 4301. Definitions
@@ -41,7 +41,7 @@ In this chapter:
     - **(I)** Section 198 of this title .
     - **(J)** The Trade Act of 1974 ( 19 U.S.C. 2101 et seq.).
     - **(K)** The Trade Agreements Act of 1979 ( 19 U.S.C. 2501 et seq.).
-    - **(L)** The North American Free Trade Agreement Implementation Act ( 19 U.S.C. 3301 et seq.). 1 1 See References in Text note below.
+    - **(L)** The North American Free Trade Agreement Implementation Act ( 19 U.S.C. 3301 et seq.).
     - **(M)** The Uruguay Round Agreements Act ( 19 U.S.C. 3501 et seq.).
     - **(N)** The Caribbean Basin Economic Recovery Act ( 19 U.S.C. 2701 et seq.).
     - **(O)** The Andean Trade Preference Act ( 19 U.S.C. 3201 et seq.).

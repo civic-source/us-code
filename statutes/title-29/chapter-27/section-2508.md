@@ -3,9 +3,9 @@ title: "Section 2508 - Definitions"
 usc_title: 29
 usc_section: "2508"
 chapter: 27
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 2508"
-generated_at: "2026-03-29T18:05:31.808Z"
+generated_at: "2026-03-29T18:25:43.129Z"
 ---
 
 # § 2508. Definitions

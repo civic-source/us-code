@@ -3,9 +3,9 @@ title: "Section 1161g - Patsy T. Mink fellowship program"
 usc_title: 20
 usc_section: "1161g"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1161g"
-generated_at: "2026-03-29T18:05:00.183Z"
+generated_at: "2026-03-29T18:24:41.020Z"
 ---
 
 # § 1161g. Patsy T. Mink fellowship program
@@ -53,7 +53,7 @@ generated_at: "2026-03-29T18:05:00.183Z"
     - **(B)** sign an agreement with the Secretary agreeing—
       - **(i)** to begin employment at an institution described in subparagraph (A) not later than three years after receiving the doctoral degree or highest possible degree available, which three-year period may be extended by the Secretary for extraordinary circumstances; and
       - **(ii)** to be employed by such institution for one year for each year of fellowship assistance received under this section.
-  - **(2)** In the event that any recipient of a fellowship under this section fails or refuses to comply with the agreement signed pursuant to paragraph (1)(B), the sum of the amounts of any fellowship received by such recipient shall, upon a determination of such a failure or refusal to comply, be treated as a Federal Direct Unsubsidized Stafford Loan under part C of subchapter IV, and shall be subject to repayment, together with interest thereon accruing from the date of the grant award, in accordance with terms and conditions specified by the Secretary in regulations under this section.
+  - **(2)** In the event that any recipient of a fellowship under this section fails or refuses to comply with the agreement signed pursuant to paragraph (1)(B), the sum of the amounts of any fellowship received by such recipient shall, upon a determination of such a failure or refusal to comply, be treated as a Federal Direct Unsubsidized Stafford Loan under part D of subchapter IV, and shall be subject to repayment, together with interest thereon accruing from the date of the grant award, in accordance with terms and conditions specified by the Secretary in regulations under this section.
   - **(3)**
     - **(A)** The Secretary shall promulgate regulations setting forth criteria to be considered in granting a waiver for the service requirement under paragraph (1)(B).
     - **(B)** The criteria under subparagraph (A) shall include whether compliance with the service requirement by the fellowship recipient would be—

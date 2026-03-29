@@ -3,9 +3,9 @@ title: "Section 1473 - Conventional packages, marketing"
 usc_title: 15
 usc_section: "1473"
 chapter: 39
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 1473"
-generated_at: "2026-03-29T18:04:29.558Z"
+generated_at: "2026-03-29T18:24:08.452Z"
 ---
 
 # § 1473. Conventional packages, marketing
@@ -14,4 +14,4 @@ generated_at: "2026-03-29T18:04:29.558Z"
   - **(1)** the manufacturer (or packer) also supplies such substance in packages which comply with such standard; and
   - **(2)** the packages of such substance which do not meet such standard bear conspicuous labeling stating: “This package for households without young children”; except that the Commission may by regulation prescribe a substitute statement to the same effect for packaging too small to accommodate such labeling.
 - **(b)** In the case of a household substance which is subject to such a standard and which is dispensed pursuant to an order of physician, dentist, or other licensed medical practitioner authorized to prescribe, such substance may be dispensed in noncomplying packages only when directed in such order or when requested by the purchaser.
-- **(c)** In the case of a household substance subject to such a standard which is packaged under subsection (a) of this section in a noncomplying package, if the Commission determines that such substance is not also being supplied by a manufacturer (or packer) in popular size packages which comply with such standard, it may, after giving the manufacturer (or packer) an opportunity to comply with the purposes of this Act, by order require such substance to be packaged by such manufacturer (or packer) exclusively in special packaging complying with such standard if it finds, after opportunity for hearing, that such exclusive use of special packaging is necessary to accomplish the purposes of this Act.
+- **(c)** In the case of a household substance subject to such a standard which is packaged under subsection (a) in a noncomplying package, if the Commission determines that such substance is not also being supplied by a manufacturer (or packer) in popular size packages which comply with such standard, it may, after giving the manufacturer (or packer) an opportunity to comply with the purposes of this Act, by order require such substance to be packaged by such manufacturer (or packer) exclusively in special packaging complying with such standard if it finds, after opportunity for hearing, that such exclusive use of special packaging is necessary to accomplish the purposes of this Act.

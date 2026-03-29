@@ -3,9 +3,9 @@ title: "Section 1200d - Effect of condemnation of Sioux lands for dam purposes o
 usc_title: 43
 usc_section: "1200d"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 1200d"
-generated_at: "2026-03-29T18:06:28.324Z"
+generated_at: "2026-03-29T18:26:14.849Z"
 ---
 
 # § 1200d. Effect of condemnation of Sioux lands for dam purposes on construction of Fort Randall Dam

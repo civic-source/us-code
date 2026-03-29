@@ -3,9 +3,9 @@ title: "Section 20147 - Recovery and disposition authority"
 usc_title: 51
 usc_section: "20147"
 chapter: 201
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "51 U.S.C. § 20147"
-generated_at: "2026-03-29T18:07:59.492Z"
+generated_at: "2026-03-29T18:27:39.389Z"
 ---
 
 # § 20147. Recovery and disposition authority

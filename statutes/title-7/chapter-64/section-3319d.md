@@ -3,9 +3,9 @@ title: "Section 3319d - Supplemental and alternative crops"
 usc_title: 7
 usc_section: "3319d"
 chapter: 64
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 3319d"
-generated_at: "2026-03-29T18:04:05.018Z"
+generated_at: "2026-03-29T18:23:43.422Z"
 ---
 
 # § 3319d. Supplemental and alternative crops
@@ -28,6 +28,6 @@ generated_at: "2026-03-29T18:04:05.018Z"
     - **(E)** to conduct fundamental and applied research related to the development of new commercial products derived from natural plant material for industrial, medical, and agricultural applications; and
     - **(F)** to participate with colleges and universities, other Federal agencies, and private sector entities in conducting research described in subparagraph (E).
 - **(d)** The Secretary shall use the expertise and resources of the Agricultural Research Service, the National Institute of Food and Agriculture, and the land-grant colleges and universities for the purpose of carrying out this section.
-- **(e)**
+- **(e)** There are authorized to be appropriated to carry out this section—
   - **(1)** such sums as are necessary for fiscal year 2013; and
   - **(2)** $1,000,000 for each of fiscal years 2014 through 2018.

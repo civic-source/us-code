@@ -3,9 +3,9 @@ title: "Section 13793 - Authorization of appropriations"
 usc_title: 42
 usc_section: "13793"
 chapter: 136
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 13793"
-generated_at: "2026-03-29T18:07:15.341Z"
+generated_at: "2026-03-29T18:27:04.135Z"
 ---
 
 # § 13793. Authorization of appropriations
@@ -17,6 +17,6 @@ generated_at: "2026-03-29T18:07:15.341Z"
   - **(4)** $153,000,000 for fiscal year 1998;
   - **(5)** $193,500,000 for fiscal year 1999; and
   - **(6)** $201,500,000 for fiscal year 2000.
-- **(b)** Of the amounts appropriated under subsection (a) of this section for any fiscal year—
+- **(b)** Of the amounts appropriated under subsection (a) for any fiscal year—
   - **(1)** 70 percent shall be made available to carry out section 13791 of this title ; and
   - **(2)** 30 percent shall be made available to carry out section 13792 1 1 See References in Text note below. of this title.

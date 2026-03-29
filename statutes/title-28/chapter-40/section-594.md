@@ -3,9 +3,9 @@ title: "Section 594 - Authority and duties of an independent counsel"
 usc_title: 28
 usc_section: "594"
 chapter: 40
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "28 U.S.C. § 594"
-generated_at: "2026-03-29T18:06:03.340Z"
+generated_at: "2026-03-29T18:25:32.916Z"
 ---
 
 # § 594. Authority and duties of an independent counsel
@@ -45,7 +45,7 @@ generated_at: "2026-03-29T18:06:03.340Z"
     - **(A)** file with the division of the court, with respect to the 6-month period beginning on the date of his or her appointment, and with respect to each 6-month period thereafter until the office of that independent counsel terminates, a report which identifies and explains major expenses, and summarizes all other expenses, incurred by that office during the 6-month period with respect to which the report is filed, and estimates future expenses of that office; and
     - **(B)** before the termination of the independent counsel’s office under section 596(b), file a final report with the division of the court, setting forth fully and completely a description of the work of the independent counsel, including the disposition of all cases brought.
   - **(2)** The division of the court may release to the Congress, the public, or any appropriate person, such portions of a report made under this subsection as the division of the court considers appropriate. The division of the court shall make such orders as are appropriate to protect the rights of any individual named in such report and to prevent undue interference with any pending prosecution. The division of the court may make any portion of a final report filed under paragraph (1)(B) available to any individual named in such report for the purposes of receiving within a time limit set by the division of the court any comments or factual information that such individual may submit. Such comments and factual information, in whole or in part, may, in the discretion of the division of the court, be included as an appendix to such final report.
-  - **(3)** At the request of an independent counsel, the Public Printer shall cause to be printed any report previously released to the public under paragraph (2). The independent counsel shall certify the number of copies necessary for the public, and the Public Printer shall place the cost of the required number to the debit of such independent counsel. Additional copies shall be made available to the public through the depository library program and Superintendent of Documents sales program pursuant to sections 1702 and 1903 of title 44.
+  - **(3)** At the request of an independent counsel, the Director of the Government Publishing Office shall cause to be printed any report previously released to the public under paragraph (2). The independent counsel shall certify the number of copies necessary for the public, and the Director of the Government Publishing Office shall place the cost of the required number to the debit of such independent counsel. Additional copies shall be made available to the public through the depository library program and Superintendent of Documents sales program pursuant to sections 1702 and 1903 of title 44.
 - **(i)** Each independent counsel appointed under this chapter, and the persons appointed by that independent counsel under subsection (c), are separate from and independent of the Department of Justice for purposes of sections 202 through 209 of title 18.
 - **(j)**
   - **(1)**

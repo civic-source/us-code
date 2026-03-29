@@ -3,14 +3,14 @@ title: "Section 156 - Authorization of appropriations"
 usc_title: 47
 usc_section: "156"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "47 U.S.C. § 156"
-generated_at: "2026-03-29T18:07:40.804Z"
+generated_at: "2026-03-29T18:27:09.522Z"
 ---
 
 # § 156. Authorization of appropriations
 
 - **(a)** There are authorized to be appropriated for the administration of this chapter by the Commission $109,831,000 for fiscal year 1990 and $119,831,000 for fiscal year 1991, together with such sums as may be necessary for increases resulting from adjustments in salary, pay, retirement, other employee benefits required by law, and other nondiscretionary costs, for each of the fiscal years 1990 and 1991.
 - **(b)** In addition to the amounts authorized to be appropriated under this section, not more than 4 percent of the amount of any fees or other charges payable to the United States which are collected by the Commission during fiscal year 1990 are authorized to be made available to the Commission until expended to defray the fully distributed costs of such fees collection.
-- **(c)** Of the amounts appropriated pursuant to subsection (a) of this section for fiscal year 1991, such sums as may be necessary not to exceed $2,000,000 shall be expended for upgrading and modernizing equipment at the Commission’s electronic emissions test laboratory located in Laurel, Maryland.
+- **(c)** Of the amounts appropriated pursuant to subsection (a) for fiscal year 1991, such sums as may be necessary not to exceed $2,000,000 shall be expended for upgrading and modernizing equipment at the Commission’s electronic emissions test laboratory located in Laurel, Maryland.
 - **(d)** Of the sum appropriated in any fiscal year under this section, a portion, in an amount determined under section 159(b) of this title , shall be derived from fees authorized by section 159 of this title .

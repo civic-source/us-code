@@ -3,15 +3,15 @@ title: "Section 3210 - Indian Child Protection and Family Violence Prevention Pr
 usc_title: 25
 usc_section: "3210"
 chapter: 34
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 3210"
-generated_at: "2026-03-29T18:05:17.241Z"
+generated_at: "2026-03-29T18:25:23.803Z"
 ---
 
 # § 3210. Indian Child Protection and Family Violence Prevention Program
 
 - **(a)** The Secretary shall establish within the Bureau an Indian Child Protection and Family Violence Prevention Program to provide financial assistance to any Indian tribe, tribal organization, or inter-tribal consortium for the development of an Indian Child Protection and Family Violence Prevention program.
-- **(b)** The Secretary is authorized to enter into agreements with Indian tribes, tribal organizations, or inter-tribal consortia pursuant to the Indian Self-Determination Act [ 25 U.S.C. 450f et seq.] for the establishment of Indian Child Protection and Family Violence Prevention programs on Indian reservations.
+- **(b)** The Secretary is authorized to enter into agreements with Indian tribes, tribal organizations, or inter-tribal consortia pursuant to the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.] for the establishment of Indian Child Protection and Family Violence Prevention programs on Indian reservations.
 - **(c)** An Indian tribe operating an Indian Child Protection and Family Violence Prevention program established under this section shall designate the agency or officials which shall be responsible—
   - **(1)** for the investigation of reported cases of child abuse and child neglect; and
   - **(2)** for the treatment and prevention of incidents of family violence; and
@@ -60,7 +60,7 @@ generated_at: "2026-03-29T18:05:17.241Z"
   - **(2)** social services and case management;
   - **(3)** training available to Indian tribes, tribal agencies, and Indian organizations regarding the identification, investigation, prevention, and treatment of family violence, child abuse, and child neglect; and
   - **(4)** law enforcement services, including investigations and prosecutions.
-- **(h)** Each recipient of funds awarded pursuant to subsection (a) of this section shall—
+- **(h)** Each recipient of funds awarded pursuant to subsection (a) shall—
   - **(1)** furnish the Secretary with such information as the Secretary may require to—
     - **(A)** evaluate the program for which the award is made, and
     - **(B)** ensure that funds are expended for the purposes for which the award was made; and

@@ -1,12 +1,12 @@
 ---
-title: "Section 6020 - Repealed. Pub. L. 87–123, § 5(23) , Aug. 3, 1961 , 75 Stat. 266 ]"
+title: "Section 6020 - Repealed. Pub. L. 87–123 , § 5(23), Aug. 3, 1961 , 75 Stat. 266 ]"
 usc_title: 10
 usc_section: "6020"
 chapter: 555
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 6020"
-generated_at: "2026-03-29T18:04:13.256Z"
+generated_at: "2026-03-29T18:23:52.050Z"
 ---
 
-# [§ 6020. Repealed. Pub. L. 87–123, § 5(23) , Aug. 3, 1961 , 75 Stat. 266 ]
+# [§ 6020. Repealed. Pub. L. 87–123 , § 5(23), Aug. 3, 1961 , 75 Stat. 266 ]
 

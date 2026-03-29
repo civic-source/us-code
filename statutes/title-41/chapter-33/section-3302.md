@@ -3,9 +3,9 @@ title: "Section 3302 - Requirements for purchase of property and services pursua
 usc_title: 41
 usc_section: "3302"
 chapter: 33
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "41 U.S.C. § 3302"
-generated_at: "2026-03-29T18:06:34.753Z"
+generated_at: "2026-03-29T18:26:25.278Z"
 ---
 
 # § 3302. Requirements for purchase of property and services pursuant to multiple award contracts

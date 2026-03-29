@@ -3,9 +3,9 @@ title: "Section 1315a - Center for Medicare and Medicaid Innovation"
 usc_title: 42
 usc_section: "1315a"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1315a"
-generated_at: "2026-03-29T18:07:13.803Z"
+generated_at: "2026-03-29T18:27:02.963Z"
 ---
 
 # § 1315a. Center for Medicare and Medicaid Innovation
@@ -53,6 +53,10 @@ generated_at: "2026-03-29T18:07:13.803Z"
         - **(I)** in treating behavioral health issues (such as post-traumatic stress disorder) and stroke; and
         - **(II)** to improve the capacity of non-medical providers and non-specialized medical providers to provide health services for patients with chronic complex conditions.
       - **(xx)** Utilizing a diverse network of providers of services and suppliers to improve care coordination for applicable individuals described in subsection (a)(4)(A)(i) with 2 or more chronic conditions and a history of prior-year hospitalization through interventions developed under the Medicare Coordinated Care Demonstration Project under section 4016 of the Balanced Budget Act of 1997 ( 42 U.S.C. 1395b–1 note).
+      - **(xxi)** Focusing primarily on physicians’ services (as defined in section 1395w–4(j)(3) of this title ) furnished by physicians who are not primary care practitioners.
+      - **(xxii)** Focusing on practices of 15 or fewer professionals.
+      - **(xxiii)** Focusing on risk-based models for small physician practices which may involve two-sided risk and prospective patient assignment, and which examine risk-adjusted decreases in mortality rates, hospital readmissions rates, and other relevant and appropriate clinical measures.
+      - **(xxiv)** Focusing primarily on subchapter XIX, working in conjunction with the Center for Medicaid and CHIP Services.
     - **(C)** In selecting models for testing under subparagraph (A), the CMI may consider the following additional factors:
       - **(i)** Whether the model includes a regular process for monitoring and updating patient care plans in a manner that is consistent with the needs and preferences of applicable individuals.
       - **(ii)** Whether the model places the applicable individual, including family members and other informal caregivers of the applicable individual, at the center of the care team of the applicable individual.
@@ -61,7 +65,7 @@ generated_at: "2026-03-29T18:07:13.803Z"
       - **(v)** Whether the model provides for the maintenance of a close relationship between care coordinators, primary care practitioners, specialist physicians, community-based organizations, and other providers of services and suppliers.
       - **(vi)** Whether the model relies on a team-based approach to interventions, such as comprehensive care assessments, care planning, and self-management coaching.
       - **(vii)** Whether, under the model, providers of services and suppliers are able to share information with patients, caregivers, and other providers of services and suppliers on a real time basis.
-      - **(viii)** Whether the model demonstrates effective linkage with other public sector or private sector payers.
+      - **(viii)** Whether the model demonstrates effective linkage with other public sector payers, private sector payers, or statewide payment models.
   - **(3)**
     - **(A)** The Secretary shall not require, as a condition for testing a model under paragraph (1), that the design of such model ensure that such model is budget neutral initially with respect to expenditures under the applicable subchapter.
     - **(B)** The Secretary shall terminate or modify the design and implementation of a model unless the Secretary determines (and the Chief Actuary of the Centers for Medicare & Medicaid Services, with respect to program spending under the applicable subchapter, certifies), after testing has begun, that the model is expected to—
@@ -81,7 +85,7 @@ generated_at: "2026-03-29T18:07:13.803Z"
   - **(2)** the Chief Actuary of the Centers for Medicare & Medicaid Services certifies that such expansion would reduce (or would not result in any increase in) net program spending under applicable subchapters; and
   - **(3)** the Secretary determines that such expansion would not deny or limit the coverage or provision of benefits under the applicable subchapter for applicable individuals.
 - **(d)**
-  - **(1)** The Secretary may waive such requirements of subchapters XI and XVIII and of sections 1396a(a)(1), 1396a(a)(13), and 1396b(m)(2)(A)(iii) of this title as may be necessary solely for purposes of carrying out this section with respect to testing models described in subsection (b).
+  - **(1)** The Secretary may waive such requirements of subchapters XI and XVIII and of sections 1396a(a)(1), 1396a(a)(13), 1396b(m)(2)(A)(iii), and 1396u–4 (other than subsections (b)(1)(A) and (c)(5) of such section) of this title as may be necessary solely for purposes of carrying out this section with respect to testing models described in subsection (b).
   - **(2)** There shall be no administrative or judicial review under section 1395ff of this title , section 1395 oo of this title, or otherwise of—
     - **(A)** the selection of models for testing or expansion under this section;
     - **(B)** the selection of organizations, sites, or participants to test those models selected;

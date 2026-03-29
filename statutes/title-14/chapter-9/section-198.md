@@ -1,12 +1,12 @@
 ---
-title: "Section 198 - Repealed. Pub. L. 112–213, title II, § 216(f) , Dec. 20, 2012 , 126 Stat. 1555 ]"
+title: "Section 198 - Repealed. Pub. L. 112–213, title II , § 216(f), Dec. 20, 2012 , 126 Stat. 1555 ]"
 usc_title: 14
 usc_section: "198"
 chapter: 9
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "14 U.S.C. § 198"
-generated_at: "2026-03-29T18:04:21.486Z"
+generated_at: "2026-03-29T18:23:55.770Z"
 ---
 
-# [§ 198. Repealed. Pub. L. 112–213, title II, § 216(f) , Dec. 20, 2012 , 126 Stat. 1555 ]
+# [§ 198. Repealed. Pub. L. 112–213, title II , § 216(f), Dec. 20, 2012 , 126 Stat. 1555 ]
 

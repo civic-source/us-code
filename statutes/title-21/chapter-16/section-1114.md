@@ -1,12 +1,12 @@
 ---
-title: "Section 1114 - Repealed. Pub. L. 100–690, title I, § 1007(c)(1) , Nov. 18, 1988 , 102 Stat. 4187"
+title: "Section 1114 - Repealed. Pub. L. 100–690, title I , § 1007(c)(1), Nov. 18, 1988 , 102 Stat. 4187"
 usc_title: 21
 usc_section: "1114"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 1114"
-generated_at: "2026-03-29T02:12:28.169Z"
+generated_at: "2026-03-29T18:25:04.234Z"
 ---
 
-# §§ 1111 to 1114. Repealed. Pub. L. 100–690, title I, § 1007(c)(1) , Nov. 18, 1988 , 102 Stat. 4187
+# §§ 1111 to 1114. Repealed. Pub. L. 100–690, title I , § 1007(c)(1), Nov. 18, 1988 , 102 Stat. 4187
 

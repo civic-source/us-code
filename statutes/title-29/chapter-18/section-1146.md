@@ -3,16 +3,16 @@ title: "Section 1146 - Outreach to promote retirement income savings"
 usc_title: 29
 usc_section: "1146"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 1146"
-generated_at: "2026-03-29T18:05:31.763Z"
+generated_at: "2026-03-29T18:25:43.094Z"
 ---
 
 # § 1146. Outreach to promote retirement income savings
 
 - **(a)** The Secretary shall maintain an ongoing program of outreach to the public designed to effectively promote retirement income savings by the public.
-- **(b)** The Secretary shall carry out the requirements of subsection (a) of this section by means which shall ensure effective communication to the public, including publication of public service announcements, public meetings, creation of educational materials, and establishment of a site on the Internet.
-- **(c)** The information to be made available by the Secretary as part of the program of outreach required under subsection (a) of this section shall include the following:
+- **(b)** The Secretary shall carry out the requirements of subsection (a) by means which shall ensure effective communication to the public, including publication of public service announcements, public meetings, creation of educational materials, and establishment of a site on the Internet.
+- **(c)** The information to be made available by the Secretary as part of the program of outreach required under subsection (a) shall include the following:
   - **(1)** a description of the vehicles currently available to individuals and employers for creating and maintaining retirement income savings, specifically including information explaining to employers, in simple terms, the characteristics and operation of the different retirement savings vehicles, including the steps to establish each such vehicle; and
   - **(2)** information regarding matters relevant to establishing retirement income savings, such as—
     - **(A)** the forms of retirement income savings;

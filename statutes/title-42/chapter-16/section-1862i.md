@@ -3,9 +3,9 @@ title: "Section 1862i - Scientific and technical education"
 usc_title: 42
 usc_section: "1862i"
 chapter: 16
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1862i"
-generated_at: "2026-03-29T18:07:14.328Z"
+generated_at: "2026-03-29T18:27:03.379Z"
 ---
 
 # § 1862i. Scientific and technical education
@@ -38,12 +38,12 @@ generated_at: "2026-03-29T18:07:14.328Z"
   - **(3)** The Director shall—
     - **(A)** establish a program to encourage and make grants available to institutions of higher education that award associate degrees to recruit and train individuals from the fields of science, technology, engineering, and mathematics to mentor students who are described in section 1885a or 1885b of this title in order to assist those students in identifying, qualifying for, and entering higher-paying technical jobs in those fields; and
     - **(B)** make grants available to associate-degree-granting colleges to carry out the program identified in subsection 2 2 So in original. Probably should be “subparagraph”. (A).
-- **(d)** In carrying out this section, the Director shall consult, cooperate, and coordinate, to enhance program effectiveness and to avoid duplication, with the programs and policies of other relevant Federal agencies. In carrying out subsection (c) of this section, the Director shall coordinate activities with programs receiving assistance under part B of title I of the Higher Education Act of 1965 [ 20 U.S.C. 1011 et seq.].
+- **(d)** In carrying out this section, the Director shall consult, cooperate, and coordinate, to enhance program effectiveness and to avoid duplication, with the programs and policies of other relevant Federal agencies. In carrying out subsection (c), the Director shall coordinate activities with programs receiving assistance under part B of title I of the Higher Education Act of 1965 [ 20 U.S.C. 1011 et seq.].
 - **(e)** To qualify for a grant under this section, an associate-degree-granting college, or consortium thereof, shall provide assurances adequate to the Director that it will not decrease its level of spending of funds from non-Federal sources on advanced scientific and technical education and training programs.
 - **(f)** In carrying out sections 1862h to 1862j of this title, the Director shall—
   - **(1)** award grants on a competitive, merit basis;
   - **(2)** ensure an equitable geographic distribution of grant awards;
-  - **(3)** ensure that an applicant for a grant awarded under subsection (a), (b), or (c)(1) of this section will make an in-cash or in-kind contribution in an amount equal to at least 25 percent of the cost of the program, and for a grant awarded under subsection (c)(2) of this section will make an in-cash or in-kind contribution in an amount at least equal to the amount of the grant award;
+  - **(3)** ensure that an applicant for a grant awarded under subsection (a), (b), or (c)(1) will make an in-cash or in-kind contribution in an amount equal to at least 25 percent of the cost of the program, and for a grant awarded under subsection (c)(2) will make an in-cash or in-kind contribution in an amount at least equal to the amount of the grant award;
   - **(4)** establish and maintain a readily accessible inventory of the programs assisted under sections 1862h to 1862j of this title; and
   - **(5)** designate an officer of the National Science Foundation to serve as a liaison with associate-degree-granting institutions for the purpose of enhancing the role of such institutions in the activities of the Foundation.
 - **(g)** As used in this section—

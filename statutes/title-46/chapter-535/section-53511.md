@@ -3,9 +3,9 @@ title: "Section 53511 - Tax treatment of nonqualified withdrawals"
 usc_title: 46
 usc_section: "53511"
 chapter: 535
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "46 U.S.C. § 53511"
-generated_at: "2026-03-29T18:07:34.399Z"
+generated_at: "2026-03-29T18:27:18.918Z"
 ---
 
 # § 53511. Tax treatment of nonqualified withdrawals
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T18:07:34.399Z"
   - **(1)** the money rates and investment yields for the calendar year immediately before the beginning of the taxable year; and
   - **(2)** the money rates and investment yields for the calendar year 1970.
 - **(e)**
-  - **(1)** The following applicable percentage of any amount that remains in a capital construction fund at the close of the following specified taxable year following the taxable year for which the amount was deposited shall be treated as a nonqualified withdrawal: If the amount remains in the fund at The applicable the close of the— percentage is— 26th taxable year 20 percent 27th taxable year 40 percent 28th taxable year 60 percent 29th taxable year 80 percent 30th taxable year 100 percent.
+  - **(1)** The following applicable percentage of any amount that remains in a capital construction fund at the close of the following specified taxable year following the taxable year for which the amount was deposited shall be treated as a nonqualified withdrawal: If the amount remains in the fund at the close of the— The applicable percentage is— 26th taxable year 20 percent 27th taxable year 40 percent 28th taxable year 60 percent 29th taxable year 80 percent 30th taxable year 100 percent.
   - **(2)** The earnings of a capital construction fund for any taxable year (except net gains) shall be treated under this subsection as an amount deposited for the taxable year.
   - **(3)** Under paragraph (1), an amount shall not be treated as remaining in a capital construction fund at the close of a taxable year to the extent there is a binding contract at the close of the taxable year for a qualified withdrawal of the amount for an identified item for which the withdrawal may be made.
   - **(4)** If the Secretary determines that the balance in a capital construction fund exceeds the amount appropriate to meet the vessel construction program objectives of the person that established the fund, the amount of the excess shall be treated as a nonqualified withdrawal under paragraph (1) unless the person develops appropriate program objectives within 3 years to dissipate the excess.

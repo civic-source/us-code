@@ -3,19 +3,19 @@ title: "Section 3511 - Approval and entry into force of Uruguay Round Agreements
 usc_title: 19
 usc_section: "3511"
 chapter: 22
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 3511"
-generated_at: "2026-03-29T18:04:55.143Z"
+generated_at: "2026-03-29T18:24:16.209Z"
 ---
 
 # § 3511. Approval and entry into force of Uruguay Round Agreements
 
 - **(a)** Pursuant to section 2903 of this title and section 2191 of this title , the Congress approves—
-  - **(1)** the trade agreements described in subsection (d) of this section resulting from the Uruguay Round of multilateral trade negotiations under the auspices of the General Agreement on Tariffs and Trade, entered into on April 15, 1994 , and submitted to the Congress on September 27, 1994 ; and
+  - **(1)** the trade agreements described in subsection (d) resulting from the Uruguay Round of multilateral trade negotiations under the auspices of the General Agreement on Tariffs and Trade, entered into on April 15, 1994 , and submitted to the Congress on September 27, 1994 ; and
   - **(2)** the statement of administrative action proposed to implement the agreements that was submitted to the Congress on September 27, 1994 .
 - **(b)** At such time as the President determines that a sufficient number of foreign countries are accepting the obligations of the Uruguay Round Agreements, in accordance with article XIV of the WTO Agreement, to ensure the effective operation of, and adequate benefits for the United States under, those Agreements, the President may accept the Uruguay Round Agreements and implement article VIII of the WTO Agreement.
 - **(c)** There are authorized to be appropriated annually such sums as may be necessary for the payment by the United States of its share of the expenses of the WTO.
-- **(d)** Subsection (a) of this section applies to the WTO Agreement and to the following agreements annexed to that Agreement:
+- **(d)** Subsection (a) applies to the WTO Agreement and to the following agreements annexed to that Agreement:
   - **(1)** The General Agreement on Tariffs and Trade 1994.
   - **(2)** The Agreement on Agriculture.
   - **(3)** The Agreement on the Application of Sanitary and Phytosanitary Measures.

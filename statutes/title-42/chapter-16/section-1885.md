@@ -3,9 +3,9 @@ title: "Section 1885 - Congressional statement of findings and declaration of po
 usc_title: 42
 usc_section: "1885"
 chapter: 16
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1885"
-generated_at: "2026-03-29T18:07:14.344Z"
+generated_at: "2026-03-29T18:27:03.391Z"
 ---
 
 # § 1885. Congressional statement of findings and declaration of policy respecting equal opportunities in science and engineering

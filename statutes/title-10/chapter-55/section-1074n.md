@@ -3,14 +3,14 @@ title: "Section 1074n - Annual mental health assessments for members of the arme
 usc_title: 10
 usc_section: "1074n"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 1074n"
-generated_at: "2026-03-29T02:10:44.962Z"
+generated_at: "2026-03-29T18:23:51.789Z"
 ---
 
 # § 1074n. Annual mental health assessments for members of the armed forces
 
-- **(a)** Subject to subsection (c), not less frequently than once each calendar year (and before separation from active duty pursuant to section 1145(a)(5)(A) of this title ), the Secretary of Defense shall provide a person-to-person mental health assessment for—
+- **(a)** Subject to subsection (c), not less frequently than once each calendar year, the Secretary of Defense shall provide a person-to-person mental health assessment for—
   - **(1)** each member of a regular component of the armed forces; and
   - **(2)** each member of the Selected Reserve of an armed force.
 - **(b)** The mental health assessments provided pursuant to this section shall—

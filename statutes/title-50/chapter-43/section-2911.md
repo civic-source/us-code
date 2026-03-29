@@ -3,9 +3,9 @@ title: "Section 2911 - Proliferation Security Initiative improvements and author
 usc_title: 50
 usc_section: "2911"
 chapter: 43
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 2911"
-generated_at: "2026-03-29T18:07:43.094Z"
+generated_at: "2026-03-29T18:27:35.665Z"
 ---
 
 # § 2911. Proliferation Security Initiative improvements and authorities
@@ -20,17 +20,7 @@ generated_at: "2026-03-29T18:07:43.094Z"
     - **(A)** The Department of Defense and the Department of State should establish clear PSI roles and responsibilities, policies and procedures, interagency communication mechanisms, documentation requirements, and indicators to measure program results.
     - **(B)** The Department of Defense and the Department of State should develop a strategy to work with PSI-participating countries to resolve issues that are impediments to conducting successful PSI interdictions.
   - **(4)** Establishing a multilateral mechanism to increase coordination, cooperation, and compliance among PSI-participating countries.
-- **(b)**
-  - **(1)** Each fiscal year in which activities are planned to be carried out under the PSI, the President shall include in the budget request for each participating United States Government agency or department for that fiscal year, a description of the funding and the activities for which the funding is requested for each such agency or department.
-  - **(2)** Not later than the first Monday in February of each even-numbered year in which the President submits a budget request described in paragraph (1), the Secretary of Defense and the Secretary of State shall submit to Congress a comprehensive joint report setting forth the following:
-    - **(A)** A 3-year plan, beginning with the fiscal year for the budget request, that specifies the amount of funding and other resources to be provided by the United States for PSI-related activities over the term of the plan, including the purposes for which such funding and resources will be used.
-    - **(B)** For the report submitted in 2008, a description of the PSI-related activities carried out during the 3 fiscal years preceding the year of the report, and for the report submitted in 2009 and each year thereafter, a description of the PSI-related activities carried out during the fiscal year preceding the year of the report. The description shall include, for each fiscal year covered by the report—
-      - **(i)** the amounts obligated and expended for such activities and the purposes for which such amounts were obligated and expended;
-      - **(ii)** a description of the participation of each department or agency of the United States Government in such activities;
-      - **(iii)** a description of the participation of each foreign country or entity in such activities;
-      - **(iv)** a description of any assistance provided to a foreign country or entity participating in such activities in order to secure such participation, in response to such participation, or in order to improve the quality of such participation; and
-      - **(v)** such other information as the Secretary of Defense and the Secretary of State determine should be included to keep Congress fully informed of the operation and activities of the PSI.
-  - **(3)** The report required by paragraph (2) shall be in an unclassified form but may include a classified annex as necessary.
+- **(b)** Each fiscal year in which activities are planned to be carried out under the PSI, the President shall include in the budget request for each participating United States Government agency or department for that fiscal year, a description of the funding and the activities for which the funding is requested for each such agency or department.
 - **(c)** Not later than 180 days after August 3, 2007 , the President shall transmit to the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives and the Committee on Armed Services and the Committee on Foreign Relations of the Senate a report on the implementation of this section. The report shall include—
   - **(1)** the steps taken to implement the recommendations described in paragraph (3) of subsection (a); and
   - **(2)** the progress made toward implementing the matters described in paragraphs (1), (2), and (4) of subsection (a).

@@ -3,9 +3,9 @@ title: "Section 2884 - Reports"
 usc_title: 10
 usc_section: "2884"
 chapter: 169
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2884"
-generated_at: "2026-03-29T18:04:13.221Z"
+generated_at: "2026-03-29T18:23:52.011Z"
 ---
 
 # § 2884. Reports
@@ -38,10 +38,10 @@ generated_at: "2026-03-29T18:04:13.221Z"
     - **(A)** during the fiscal year for which the budget is submitted; and
     - **(B)** during the period covered by the then-current future-years defense plan under section 221 of this title .
   - **(4)** A report identifying each family housing unit acquired or constructed under this subchapter that is used, or intended to be used, as quarters for a general officer or flag officer and for which the total operation, maintenance, and repair costs for the unit exceeded $50,000. For each housing unit so identified, the report shall also include the total of such operation, maintenance, and repair costs.
-- **(c)** The Secretary of Defense shall submit to the congressional defense committees a semi-annual report containing on 1 1 So in original. Probably should be “an”. evaluation of the status of oversight and accountability measures under section 2885 of this title for military housing privatization projects. To the extent each Secretary concerned has the right to attain the information described in this subsection, each report shall include, at a minimum, the following:
+- **(c)** The Secretary of Defense shall submit to the congressional defense committees a semi-annual report containing an evaluation of the status of oversight and accountability measures under section 2885 of this title for military housing privatization projects. To the extent each Secretary concerned has the right to attain the information described in this subsection, each report shall include, at a minimum, the following:
   - **(1)** An assessment of the backlog of maintenance and repair at each military housing privatization project where a significant backlog exists, including an estimation of the cost of eliminating the maintenance and repair backlog.
   - **(2)** If the debt associated with a privatization project exceeds net operating income or the occupancy rates for the housing units are below 75 percent for more than one year, the plan developed to mitigate the financial risk of the project.
-  - **(3)** An assessment of any significant project variances between the actual and pro forma deposits in the recapitalization account.
+  - **(3)** An assessment of any significant project variances between the actual and pro forma deposits in the recapitalization account, to specifically include any unique variances associated with litigation costs.
   - **(4)** The details of any significant withdrawals from a recapitalization account, including the purpose and rationale of the withdrawal and, if the withdrawal occurs before the normal recapitalization period, the impact of the early withdrawal on the financial health of the project.
   - **(5)** An assessment of the extent to which the information required to comply with paragraphs (1) through (4) has been requested by the Secretaries, but has not been made available.
   - **(6)** An assessment of cost assessed to members of the armed forces for utilities compared to utility rates in the local area.

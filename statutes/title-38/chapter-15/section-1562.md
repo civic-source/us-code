@@ -3,14 +3,14 @@ title: "Section 1562 - Special provisions relating to pension"
 usc_title: 38
 usc_section: "1562"
 chapter: 15
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "38 U.S.C. § 1562"
-generated_at: "2026-03-29T18:06:22.747Z"
+generated_at: "2026-03-29T18:26:07.553Z"
 ---
 
 # § 1562. Special provisions relating to pension
 
-- **(a)** The Secretary shall pay monthly to each person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor roll, and a copy of whose certificate has been delivered to the Secretary under subsection (c) of section 1561 of this title , a special pension at the rate of $1,000, as adjusted from time to time under subsection (e), beginning as of the date of application therefor under section 1560 of this title .
+- **(a)** The Secretary shall pay monthly to each living person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll, and a copy of whose certificate has been delivered to the Secretary under subsection (d) of section 1134a of title 10 , a special pension at the rate of $1,000, as adjusted from time to time under subsection (e), beginning as of the date on which the person’s name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll under subsection (b) of such section.
 - **(b)** The receipt of special pension shall not deprive any person of any other pension or other benefit, right, or privilege to which such person is or may hereafter be entitled under any existing or subsequent law. Special pension shall be paid in addition to all other payments under laws of the United States.
 - **(c)** Special pension shall not be subject to any attachment, execution, levy, tax lien, or detention under any process whatever.
 - **(d)** If any person has been awarded more than one medal of honor, such person shall not receive more than one special pension.
@@ -18,3 +18,6 @@ generated_at: "2026-03-29T18:06:22.747Z"
 - **(f)**
   - **(1)** The Secretary shall pay, in a lump sum, to each person who is in receipt of special pension payable under this section an amount equal to the total amount of special pension that the person would have received during the period beginning on the first day of the first month beginning after the date of the act for which the person was awarded the Medal of Honor and ending on the last day of the month preceding the month in which the person’s special pension in fact commenced.
   - **(2)** For each month of a period referred to in paragraph (1), the amount of special pension payable to a person shall be determined using the rate of special pension that was in effect for such month, and shall be payable only if the person would have been entitled to payment of special pension for such month under laws for eligibility for special pension (with the exception of the eligibility law requiring a person to have been awarded a Medal of Honor) in effect at the beginning of such month.
+- **(g)**
+  - **(1)** A person who is entitled to special pension under subsection (a) may elect not to receive special pension by notifying the Secretary of such election in writing.
+  - **(2)** Upon receipt of an election made by a person under paragraph (1) not to receive special pension, the Secretary shall cease payments of special pension to the person.

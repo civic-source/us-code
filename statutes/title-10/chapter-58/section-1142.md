@@ -3,9 +3,9 @@ title: "Section 1142 - Preseparation counseling; transmittal of medical records 
 usc_title: 10
 usc_section: "1142"
 chapter: 58
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 1142"
-generated_at: "2026-03-29T18:04:13.061Z"
+generated_at: "2026-03-29T18:23:51.800Z"
 ---
 
 # § 1142. Preseparation counseling; transmittal of medical records to Department of Veterans Affairs
@@ -17,8 +17,11 @@ generated_at: "2026-03-29T18:04:13.061Z"
     - **(A)** In the case of an anticipated retirement, preseparation counseling shall commence as soon as possible during the 24-month period preceding the anticipated retirement date. In the case of a separation other than a retirement, preseparation counseling shall commence as soon as possible during the 12-month period preceding the anticipated date. Except as provided in subparagraph (B), in no event shall preseparation counseling commence later than 90 days before the date of discharge or release.
     - **(B)** In the event that a retirement or other separation is unanticipated until there are 90 or fewer days before the anticipated retirement or separation date, or in the event a member of a reserve component is being demobilized under circumstances in which (as determined by the Secretary concerned) operational requirements make the 90-day requirement under subparagraph (A) unfeasible, preseparation counseling shall begin as soon as possible within the remaining period of service.
   - **(4)**
-    - **(A)** Subject to subparagraph (B), the Secretary concerned shall not provide preseparation counseling to a member who is being discharged or released before the completion of that member’s first 180 days of active duty.
+    - **(A)** Subject to subparagraph (B), the Secretary concerned shall not provide preseparation counseling to a member who is being discharged or released before the completion of the first 180 continuous days of active duty of the member.
     - **(B)** Subparagraph (A) shall not apply in the case of a member who is being retired or separated for disability.
+    - **(C)** For purposes of calculating the days of active duty of a member under subparagraph (A), the Secretary concerned shall exclude any day on which—
+      - **(i)** the member performed full-time training duty or annual training duty; and
+      - **(ii)** the member attended, while in the active military service, a school designated as a service school by law or by the Secretary concerned.
 - **(b)** Counseling under this section shall include the following:
   - **(1)** A discussion of the educational assistance benefits to which the member is entitled under the Montgomery GI Bill and other educational assistance programs because of the member’s service in the armed forces.
   - **(2)** A description (to be developed with the assistance of the Secretary of Veterans Affairs) of the compensation and vocational rehabilitation benefits to which the member may be entitled under laws administered by the Secretary of Veterans Affairs, if the member is being medically separated or is being retired under chapter 61 of this title.

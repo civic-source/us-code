@@ -1,14 +1,12 @@
 ---
-title: "Section 14b - Credits of receipts for meals and quarters furnished Government employees in the field"
+title: "Section 14b - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "14b"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 14b"
-generated_at: "2026-03-29T18:05:06.376Z"
+generated_at: "2026-03-29T18:24:22.403Z"
 ---
 
-# § 14b. Credits of receipts for meals and quarters furnished Government employees in the field
-
-Cash collections and pay-roll deductions made for meals and quarters furnished by the National Park Service to employees of the Government in the field and to cooperating agencies may be credited as a reimbursement to the current appropriation for the administration of the park or monument in which the accommodations are furnished.
+# § 14b. Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272
 

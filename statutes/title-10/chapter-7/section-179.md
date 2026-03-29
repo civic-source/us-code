@@ -3,9 +3,9 @@ title: "Section 179 - Nuclear Weapons Council"
 usc_title: 10
 usc_section: "179"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 179"
-generated_at: "2026-03-29T18:04:12.969Z"
+generated_at: "2026-03-29T18:23:51.729Z"
 ---
 
 # § 179. Nuclear Weapons Council
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T18:04:12.969Z"
   - **(2)** The Vice Chairman of the Joint Chiefs of Staff.
   - **(3)** The Under Secretary for Nuclear Security of the Department of Energy.
   - **(4)** The Under Secretary of Defense for Policy.
-  - **(5)** The commander of the United States Strategic Command.
+  - **(5)** The Commander of the United States Strategic Command.
 - **(b)**
   - **(1)** Except as provided in paragraph (2), the Chairman of the Council shall be the member designated under subsection (a)(1).
   - **(2)** A meeting of the Council shall be chaired by the Under Secretary for Nuclear Security of the Department of Energy whenever the matter under consideration is within the primary responsibility or concern of the Department of Energy, as determined by majority vote of the Council.
@@ -36,21 +36,34 @@ generated_at: "2026-03-29T18:04:12.969Z"
   - **(7)** Providing specific guidance regarding priorities for research on nuclear weapons and priorities among activities, including production, surveillance, research, construction, and any other programs within the National Nuclear Security Administration.
   - **(8)** Coordinating and approving activities conducted by the Department of Energy for the study, development, production, and retirement of nuclear warheads, including concept definition studies, feasibility studies, engineering development, hardware component fabrication, warhead production, and warhead retirement.
   - **(9)** Preparing comments on annual proposals for budget levels for research on nuclear weapons and transmitting those comments to the Secretary of Defense and the Secretary of Energy before the preparation of the annual budget requests by the Secretaries of those departments.
-  - **(10)** Coordinating and providing guidance and oversight on nuclear command, control, and communications systems.
-  - **(11)** Coordinating and approving the annual budget proposals of the National Nuclear Security Administration.
-  - **(12)** Providing—
+  - **(10)** Coordinating and approving the annual budget proposals of the National Nuclear Security Administration.
+  - **(11)** Providing—
     - **(A)** broad guidance regarding priorities for research on improved conventional weapons, and
     - **(B)** comments on annual proposals for budget levels for research on improved conventional weapons,
 - **(e)** The Council shall submit to Congress a report on any analysis conducted by the Council with respect to difficulties at nuclear weapons laboratories or nuclear weapons production plants that have significant bearing on confidence in the safety or reliability of nuclear weapons or nuclear weapon types.
 - **(f)**
   - **(1)** The Council shall submit to Congress each year, at the same time the budget of the President for the fiscal year beginning in such year is submitted to Congress pursuant to section 1105(a) of title 31 , a certification whether or not the amounts requested for the National Nuclear Security Administration in such budget, and anticipated over the four fiscal years following such budget, meets nuclear stockpile and stockpile stewardship program requirements for such fiscal year and over such four fiscal years. If a member of the Council does not concur in a certification, the certification shall include the reasons for the member’s non-concurrence.
   - **(2)** If a House of Congress adopts a bill authorizing or appropriating funds for the National Nuclear Security Administration for nuclear stockpile and stockpile stewardship program activities or other activities that, as determined by the Council, provides insufficient funds for such activities for the period covered by such bill, the Council shall notify the congressional defense committees of the determination.
-- **(g)** Each fiscal year, at the same time the President submits the budget pursuant to section 1105 of title 31 , the Chairman of the Council, through the Secretary of Energy, shall submit to the congressional defense committees a report, in classified form, on the following:
-  - **(1)** The effectiveness and efficiency of the Council, and of the deliberative and decisionmaking processes used by the Council, in carrying out the responsibilities described in subsection (d).
-  - **(2)** A description of all activities conducted by the Department of Energy during that fiscal year, or planned to be conducted by the Department of Energy during the next fiscal year, for the study, development, production, and retirement of nuclear warheads and that have been approved by the Council, including a description of—
-    - **(A)** the concept definition activities and feasibility studies conducted or planned to be conducted by the Department of Energy;
-    - **(B)** the schedule for completion of each such activity or study; and
-    - **(C)** the degree to which each such activity or study is consistent with United States policy for new nuclear warhead development or warhead modification and with established or projected military requirements.
-  - **(3)** A description of the activities of the Council during the 12-month period ending on the date of the report together with any assessments or studies conducted by the Council during that period.
-  - **(4)** A description of the highest priority requirements of the Department of Defense with respect to the Department of Energy stockpile stewardship and management program as of that date.
-  - **(5)** An assessment of the extent to which the requirements referred to in paragraph (4) are being addressed by the Department of Energy as of that date.
+  - **(3)**
+    - **(A)** With respect to the preparation of a budget for a fiscal year to be submitted by the President to Congress under section 1105(a) of title 31 , the Secretary of Defense may not agree to a proposed transfer of estimated nuclear budget request authority unless the Secretary of Defense submits to the congressional defense committees a report described in subparagraph (B).
+    - **(B)** A report described in this subparagraph is a report that includes the following:
+      - **(i)** Except as provided by subparagraph (C), certification that, during the fiscal year prior to the fiscal year covered by the budget for which the report is submitted, the Secretary of Energy obligated or expended any amounts covered by a proposed transfer of estimated nuclear budget request authority made for such prior fiscal year in a manner consistent with a memorandum of agreement that was developed by the Nuclear Weapons Council and entered into by the Secretary of Defense and the Secretary of Energy.
+      - **(ii)** A detailed assessment by the Nuclear Weapons Council regarding how the Administrator for Nuclear Security implemented any agreements and decisions of the Council made during such prior fiscal year.
+      - **(iii)** An assessment from each of the Chairman of the Joints 1 1 So in original. Chiefs of Staff and the Commander of the United States Strategic Command regarding any effects to the military during such prior fiscal year that were caused by the delay or failure of the Administrator to implement any agreements or decisions described in clause (ii).
+    - **(C)** With respect to a report described in subparagraph (B), the Secretary may waive the requirement to include the certification described in clause (i) of such subparagraph if the Secretary—
+      - **(i)** determines that such waiver is in the national security interests of the United States; and
+      - **(ii)** instead of the certification described in such clause (i), includes as part of such report—
+        - **(I)** a copy of the agreement that the Secretary has entered into with the Secretary of Energy regarding the manner and the purpose for which the Secretary of Energy will obligate or expend any amounts covered by a proposed transfer of estimated nuclear budget request authority for the fiscal year covered by the budget for which such report is submitted; and
+        - **(II)** an explanation for why the Secretary did not include such certification in such report.
+  - **(4)** The Secretary of Defense shall include with the defense budget materials for a fiscal year the memorandum of agreement described in subparagraph (B)(i) of paragraph (3), or the agreement described in subparagraph (C) of such paragraph, as the case may be, that covers such fiscal year.
+  - **(5)**
+    - **(A)** Not later than 30 days after the President submits to Congress the budget for a fiscal year under section 1105(a) of title 31 , the Commander of the United States Strategic Command shall submit to the Chairman of the Joint Chiefs of Staff an assessment of—
+      - **(i)** whether such budget allows the Federal Government to meet the nuclear stockpile and stockpile stewardship program requirements during the fiscal year covered by the budget and the four subsequent fiscal years; and
+      - **(ii)** if the Commander determines that such budget does not allow the Federal Government to meet such requirements, a description of the steps being taken to meet such requirements.
+    - **(B)** Not later than 30 days after the date on which the Chairman of the Joint Chiefs of Staff receives the assessment of the Commander of the United States Strategic Command under subparagraph (A), the Chairman shall submit to the congressional defense committees—
+      - **(i)** such assessment as it was submitted to the Chairman; and
+      - **(ii)** any comments of the Chairman.
+  - **(6)** In this subsection:
+    - **(A)** The term “budget” has the meaning given that term in section 231(f) of this title .
+    - **(B)** The term “defense budget materials” has the meaning given that term in section 231(f) of this title .
+    - **(C)** The term “proposed transfer of estimated nuclear budget request authority” means, in preparing a budget, a request for the Secretary of Defense to transfer an estimated amount of the proposed budget authority of the Secretary to the Secretary of Energy for purposes relating to nuclear weapons.

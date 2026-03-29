@@ -3,9 +3,9 @@ title: "Section 121 - Exclusion of gain from sale of principal residence"
 usc_title: 26
 usc_section: "121"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 121"
-generated_at: "2026-03-29T18:05:44.477Z"
+generated_at: "2026-03-29T18:25:53.426Z"
 ---
 
 # § 121. Exclusion of gain from sale of principal residence
@@ -19,11 +19,9 @@ generated_at: "2026-03-29T18:05:44.477Z"
       - **(ii)** both spouses meet the use requirements of subsection (a) with respect to such property; and
       - **(iii)** neither spouse is ineligible for the benefits of subsection (a) with respect to such property by reason of paragraph (3).
     - **(B)** If such spouses do not meet the requirements of subparagraph (A), the limitation under paragraph (1) shall be the sum of the limitations under paragraph (1) to which each spouse would be entitled if such spouses had not been married. For purposes of the preceding sentence, each spouse shall be treated as owning the property during the period that either spouse owned the property.
-  - **(3)**
-    - **(A)** Subsection (a) shall not apply to any sale or exchange by the taxpayer if, during the 2-year period ending on the date of such sale or exchange, there was any other sale or exchange by the taxpayer to which subsection (a) applied.
-    - **(B)** Subparagraph (A) shall be applied without regard to any sale or exchange before May 7, 1997 .
+  - **(3)** Subsection (a) shall not apply to any sale or exchange by the taxpayer if, during the 2-year period ending on the date of such sale or exchange, there was any other sale or exchange by the taxpayer to which subsection (a) applied.
   - **(4)** In the case of a sale or exchange of property by an unmarried individual whose spouse is deceased on the date of such sale, paragraph (1) shall be applied by substituting “$500,000” for “$250,000” if such sale occurs not later than 2 years after the date of death of such spouse and the requirements of paragraph (2)(A) were met immediately before such date of death.
-  - **(4)**
+  - **(5)**
     - **(A)** Subsection (a) shall not apply to so much of the gain from the sale or exchange of property as is allocated to periods of nonqualified use.
     - **(B)** For purposes of subparagraph (A), gain shall be allocated to periods of nonqualified use based on the ratio which—
       - **(i)** the aggregate periods of nonqualified use during the period such property was owned by the taxpayer, bears to
@@ -101,7 +99,7 @@ generated_at: "2026-03-29T18:05:44.477Z"
     - **(A)** At the election of an individual with respect to a property, the running of the 5-year period described in subsections (a) and (c)(1)(B) and paragraph (7) of this subsection with respect to such property shall be suspended during any period that such individual or such individual’s spouse is serving outside the United States—
       - **(i)** on qualified official extended duty (as defined in paragraph (9)(C)) as an employee of the Peace Corps, or
       - **(ii)** as an enrolled volunteer or volunteer leader under section 5 or 6 (as the case may be) of the Peace Corps Act ( 22 U.S.C. 2504 , 2505).
-    - **(B)** For purposes of subparagraph (A), rules similar to the rules of subparagraphs (B) and (D) 2 2 So in original. shall apply.
+    - **(B)** For purposes of subparagraph (A), rules similar to the rules of subparagraphs (B) and (D) of paragraph (9) shall apply.
 - **(e)** This section shall not apply to any sale or exchange by an individual if the treatment provided by section 877(a)(1) applies to such individual.
 - **(f)** This section shall not apply to any sale or exchange with respect to which the taxpayer elects not to have this section apply.
-- **(g)** For purposes of this section, in the case of property the acquisition of which by the taxpayer resulted under section 1034 3 3 See References in Text note below. (as in effect on the day before the date of the enactment of this section) in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, in determining the period for which the taxpayer has owned and used such property as the taxpayer’s principal residence, there shall be included the aggregate periods for which such other residence (and each prior residence taken into account under section 1223(6) in determining the holding period of such property) had been so owned and used.
+- **(g)** For purposes of this section, in the case of property the acquisition of which by the taxpayer resulted under section 1034 1 1 See References in Text note below. (as in effect on the day before the date of the enactment of this section) in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, in determining the period for which the taxpayer has owned and used such property as the taxpayer’s principal residence, there shall be included the aggregate periods for which such other residence (and each prior residence taken into account under section 1223(6) 1 in determining the holding period of such property) had been so owned and used.

@@ -3,9 +3,9 @@ title: "Section 547 - Conditions of sale"
 usc_title: 47
 usc_section: "547"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "47 U.S.C. § 547"
-generated_at: "2026-03-29T18:07:40.877Z"
+generated_at: "2026-03-29T18:27:09.584Z"
 ---
 
 # § 547. Conditions of sale

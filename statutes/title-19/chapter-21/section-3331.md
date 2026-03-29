@@ -3,9 +3,9 @@ title: "Section 3331 - Tariff modifications"
 usc_title: 19
 usc_section: "3331"
 chapter: 21
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 3331"
-generated_at: "2026-03-29T18:04:55.132Z"
+generated_at: "2026-03-29T18:24:16.201Z"
 ---
 
 # § 3331. Tariff modifications
@@ -23,4 +23,4 @@ generated_at: "2026-03-29T18:04:55.132Z"
     - **(C)** such continuation of duty-free or excise treatment, or
     - **(D)** such additional duties,
   - **(2)** The President may not consider a request to accelerate the staging of duty reductions for an article for which the United States tariff phaseout period is more than 10 years if a request for acceleration with respect to such article has been denied in the preceding 3 calendar years.
-- **(c)** For purposes of subsections (a) and (b) of this section, with respect to an article covered by Annex 300–B of the Agreement imported from Mexico for which the base rate in the Schedule of the United States in Annex 300–B is a specific or compound rate of duty, the President may substitute for the base rate an ad valorem rate that the President determines to be equivalent to the base rate.
+- **(c)** For purposes of subsections (a) and (b), with respect to an article covered by Annex 300–B of the Agreement imported from Mexico for which the base rate in the Schedule of the United States in Annex 300–B is a specific or compound rate of duty, the President may substitute for the base rate an ad valorem rate that the President determines to be equivalent to the base rate.

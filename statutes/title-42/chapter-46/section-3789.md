@@ -3,9 +3,9 @@ title: "Section 3789 - Title to personal property"
 usc_title: 42
 usc_section: "3789"
 chapter: 46
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 3789"
-generated_at: "2026-03-29T18:07:14.548Z"
+generated_at: "2026-03-29T18:27:03.532Z"
 ---
 
 # § 3789. Title to personal property

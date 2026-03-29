@@ -3,9 +3,9 @@ title: "Section 16351 - Availability of funds"
 usc_title: 42
 usc_section: "16351"
 chapter: 149
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 16351"
-generated_at: "2026-03-29T18:07:15.470Z"
+generated_at: "2026-03-29T18:27:04.223Z"
 ---
 
 # § 16351. Availability of funds

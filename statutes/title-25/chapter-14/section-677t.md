@@ -1,14 +1,12 @@
 ---
-title: "Section 677t - Water rights"
+title: "Section 677t - Omitted"
 usc_title: 25
 usc_section: "677t"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 677t"
-generated_at: "2026-03-29T18:05:17.091Z"
+generated_at: "2026-03-29T18:25:23.699Z"
 ---
 
-# § 677t. Water rights
-
-Nothing in this subchapter shall abrogate any water rights of the tribe or its members.
+# § 677t. Omitted
 

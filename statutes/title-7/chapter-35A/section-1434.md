@@ -3,9 +3,9 @@ title: "Section 1434 - Encouragement of production of crops of which United Stat
 usc_title: 7
 usc_section: "1434"
 chapter: 35
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 1434"
-generated_at: "2026-03-29T18:04:04.839Z"
+generated_at: "2026-03-29T18:23:43.260Z"
 ---
 
 # § 1434. Encouragement of production of crops of which United States is a net importer and for which price support programs are not in effect; authority to plant on set-aside acreage with no reduction in payment rate

@@ -1,14 +1,12 @@
 ---
-title: "Section 1112 - Advances or expenditures from funds of Miami Tribe of Oklahoma; persons entitled"
+title: "Section 1112 - Omitted"
 usc_title: 25
 usc_section: "1112"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1112"
-generated_at: "2026-03-29T18:05:17.119Z"
+generated_at: "2026-03-29T18:25:23.709Z"
 ---
 
-# § 1112. Advances or expenditures from funds of Miami Tribe of Oklahoma; persons entitled
-
-The funds on deposit in the Treasury of the United States to the credit of the Miami Tribe of Oklahoma that were appropriated by the Act of September 30, 1961 ( 75 Stat. 747 ), to pay a judgment by the Indian Claims Commission in docket numbered 251, together with the interest thereon, after payment of attorney fees and expenses, shall be advanced or expended in accordance with plans adopted by the governing body of the Miami Tribe of Oklahoma and approved by the Secretary of the Interior. The persons entitled to share in any per capita payment authorized by the governing body and approved by the Secretary shall be all individuals who are enrolled members of the Miami Tribe of Oklahoma, as organized under the Oklahoma Welfare Act ( 49 Stat. 1967 ) [ 25 U.S.C. 501 et seq.].
+# § 1112. Omitted
 

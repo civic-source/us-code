@@ -3,9 +3,9 @@ title: "Section 1361 - Action to compel an officer of the United States to perfo
 usc_title: 28
 usc_section: "1361"
 chapter: 85
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "28 U.S.C. § 1361"
-generated_at: "2026-03-29T18:06:03.362Z"
+generated_at: "2026-03-29T18:25:32.932Z"
 ---
 
 # § 1361. Action to compel an officer of the United States to perform his duty

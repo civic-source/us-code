@@ -3,14 +3,14 @@ title: "Section 1003 - Coverage"
 usc_title: 29
 usc_section: "1003"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 1003"
-generated_at: "2026-03-29T18:05:31.726Z"
+generated_at: "2026-03-29T18:25:43.059Z"
 ---
 
 # § 1003. Coverage
 
-- **(a)** Except as provided in subsection (b) or (c) of this section and in sections 1051, 1081, and 1101 of this title, this subchapter shall apply to any employee benefit plan if it is established or maintained—
+- **(a)** Except as provided in subsection (b) or (c) and in sections 1051, 1081, and 1101 of this title, this subchapter shall apply to any employee benefit plan if it is established or maintained—
   - **(1)** by any employer engaged in commerce or in any industry or activity affecting commerce; or
   - **(2)** by any employee organization or organizations representing employees engaged in commerce or in any industry or activity affecting commerce; or
   - **(3)** by both.

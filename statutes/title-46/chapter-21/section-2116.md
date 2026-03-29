@@ -3,9 +3,9 @@ title: "Section 2116 - Marine safety strategy, goals, and performance assessment
 usc_title: 46
 usc_section: "2116"
 chapter: 21
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "46 U.S.C. § 2116"
-generated_at: "2026-03-29T18:07:34.327Z"
+generated_at: "2026-03-29T18:27:18.858Z"
 ---
 
 # § 2116. Marine safety strategy, goals, and performance assessments
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T18:07:34.327Z"
     - **(A)** To increase the number of safety examinations on all high-risk vessels.
     - **(B)** To eliminate the backlog of marine safety-related rulemakings.
     - **(C)** To improve the quality and effectiveness of marine safety information databases by ensuring that all Coast Guard personnel accurately and effectively report all safety, casualty, and injury information.
-    - **(D)** To provide for a sufficient number of Coast Guard marine safety personnel, and provide adequate facilities and equipment to carry out the functions referred to in section 93(c). 1 1 See References in Text note below.
+    - **(D)** To provide for a sufficient number of Coast Guard marine safety personnel, and provide adequate facilities and equipment to carry out the functions referred to in section 93(c) of title 14 .
   - **(2)** The strategy and annual plans shall include estimates of—
     - **(A)** the funds and staff resources needed to accomplish each activity included in the strategy and plans; and
     - **(B)** the staff skills and training needed for timely and effective accomplishment of each goal.
@@ -29,5 +29,7 @@ generated_at: "2026-03-29T18:07:34.327Z"
   - **(1)** No less frequently than semiannually, the Coast Guard Commandant shall assess the progress of the Coast Guard toward achieving the goals set forth in subsection (b). The Commandant shall convey the Commandant’s assessment to the employees of the marine safety workforce and shall identify any deficiencies that should be remedied before the next progress assessment.
   - **(2)** The Secretary shall report annually to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate—
     - **(A)** on the performance of the marine safety program in achieving the goals of the marine safety strategy and annual plan under subsection (a) for the year covered by the report;
-    - **(B)** on the program’s mission performance in achieving numerical measurable goals established under subsection (b); and
+    - **(B)** on the program’s mission performance in achieving numerical measurable goals established under subsection (b), including—
+      - **(i)** the number of civilian and military Coast Guard personnel assigned to marine safety positions; and
+      - **(ii)** an identification of marine safety positions that are understaffed to meet the workload required to accomplish each activity included in the strategy and plans under subsection (a); and
     - **(C)** recommendations on how to improve performance of the program.

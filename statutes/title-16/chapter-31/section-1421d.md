@@ -3,14 +3,14 @@ title: "Section 1421d - Unusual mortality event activity funding"
 usc_title: 16
 usc_section: "1421d"
 chapter: 31
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 1421d"
-generated_at: "2026-03-29T18:05:06.936Z"
+generated_at: "2026-03-29T18:24:22.796Z"
 ---
 
 # § 1421d. Unusual mortality event activity funding
 
-- **(a)** There is established in the Treasury an interest bearing fund to be known as the “Marine Mammal Unusual Mortality Event Fund”, which shall consist of amounts deposited into the Fund under subsection (c) of this section.
+- **(a)** There is established in the Treasury an interest bearing fund to be known as the “Marine Mammal Unusual Mortality Event Fund”, which shall consist of amounts deposited into the Fund under subsection (c).
 - **(b)**
   - **(1)** Amounts in the Fund—
     - **(A)** shall be available only for use by the Secretary, in consultation with the Secretary of the Interior—
@@ -22,5 +22,5 @@ generated_at: "2026-03-29T18:05:06.936Z"
 - **(c)** There shall be deposited into the Fund—
   - **(1)** amounts appropriated to the Fund;
   - **(2)** other amounts appropriated to the Secretary for use with respect to unusual mortality events; and
-  - **(3)** amounts received by the United States in the form of gifts, devises, and bequests under subsection (d) of this section.
+  - **(3)** amounts received by the United States in the form of gifts, devises, and bequests under subsection (d).
 - **(d)** For purposes of carrying out this subchapter and section 1374(c)(2)(D) of this title , the Secretary may accept, solicit, and use the services of volunteers, and may accept, solicit, receive, hold, administer, and use gifts, devises, and bequests.

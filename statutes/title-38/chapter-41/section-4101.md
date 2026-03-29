@@ -3,9 +3,9 @@ title: "Section 4101 - Definitions"
 usc_title: 38
 usc_section: "4101"
 chapter: 41
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "38 U.S.C. § 4101"
-generated_at: "2026-03-29T18:06:22.816Z"
+generated_at: "2026-03-29T18:26:07.626Z"
 ---
 
 # § 4101. Definitions
@@ -23,4 +23,4 @@ For the purposes of this chapter—
   - **(6)** The term “State” means each of the several States of the United States, the District of Columbia, and the Commonwealth of Puerto Rico, and may include, to the extent determined necessary and feasible, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Marianas Islands, and the Trust Territory of the Pacific Islands.
   - **(7)** The term “employment service delivery system” means a service delivery system at which or through which labor exchange services, including employment, training, and placement services, are offered in accordance with the Wagner-Peyser Act.
   - **(8)** The term “Secretary” means the Secretary of Labor.
-  - **(9)** The term “intensive services” means local employment and training services of the type described in section 134(d)(3) of the Workforce Investment Act of 1998.
+  - **(9)** The term “career services” means local employment and training services of the type described in section 134(c)(2) of the Workforce Innovation and Opportunity Act.

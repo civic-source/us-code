@@ -3,15 +3,15 @@ title: "Section 113 - Secretary of Defense"
 usc_title: 10
 usc_section: "113"
 chapter: 2
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 113"
-generated_at: "2026-03-29T18:04:12.949Z"
+generated_at: "2026-03-29T18:23:51.712Z"
 ---
 
 # § 113. Secretary of Defense
 
 - **(a)** There is a Secretary of Defense, who is the head of the Department of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate. A person may not be appointed as Secretary of Defense within seven years after relief from active duty as a commissioned officer of a regular component of an armed force.
-- **(b)** The Secretary is the principal assistant to the President in all matters relating to the Department of Defense. Subject to the direction of the President and to this title and section 2 of the National Security Act of 1947 ( 50 U.S.C. 401 ), 1 1 See References in Text note below. he has authority, direction, and control over the Department of Defense.
+- **(b)** The Secretary is the principal assistant to the President in all matters relating to the Department of Defense. Subject to the direction of the President and to this title and section 2 of the National Security Act of 1947 ( 50 U.S.C. 3002 ) he has authority, direction, and control over the Department of Defense.
 - **(c)**
   - **(1)** The Secretary shall report annually in writing to the President and the Congress on the expenditures, work, and accomplishments of the Department of Defense during the period covered by the report, together with—
     - **(A)** a report from each military department on the expenditures, work, and accomplishments of that department;
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T18:04:12.949Z"
     - **(A)** a description of the major military missions and of the military force structure of the United States for the next fiscal year;
     - **(B)** an explanation of the relationship of those military missions to that force structure; and
     - **(C)** the justification for those military missions and that force structure.
-  - **(2)** In preparing the matter referred to in paragraph (1), the Secretary shall take into consideration the content of the annual national security strategy report of the President under section 108 of the National Security Act of 1947 ( 50 U.S.C. 404a ) 1 for the fiscal year concerned.
+  - **(2)** In preparing the matter referred to in paragraph (1), the Secretary shall take into consideration the content of the annual national security strategy report of the President under section 108 of the National Security Act of 1947 ( 50 U.S.C. 3043 ) for the fiscal year concerned.
 - **(f)** When a vacancy occurs in an office within the Department of Defense and the office is to be filled by a person appointed from civilian life by the President, by and with the advice and consent of the Senate, the Secretary of Defense shall inform the President of the qualifications needed by a person serving in that office to carry out effectively the duties and responsibilities of that office.
 - **(g)**
   - **(1)** The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall provide annually to the heads of Department of Defense components written policy guidance for the preparation and review of the program recommendations and budget proposals of their respective components. Such guidance shall include guidance on—
@@ -32,6 +32,7 @@ generated_at: "2026-03-29T18:04:12.949Z"
     - **(B)** the priorities of military missions; and
     - **(C)** the resource levels projected to be available for the period of time for which such recommendations and proposals are to be effective.
   - **(2)** The Secretary of Defense, with the approval of the President and after consultation with the Chairman of the Joint Chiefs of Staff, shall provide to the Chairman written policy guidance for the preparation and review of contingency plans, including plans for providing support to civil authorities in an incident of national significance or a catastrophic incident, for homeland defense, and for military support to civil authorities. Such guidance shall be provided every two years or more frequently as needed and shall include guidance on the specific force levels and specific supporting resource levels projected to be available for the period of time for which such plans are to be effective.
+  - **(3)** At the time of the budget submission by the President for a fiscal year, the Secretary of Defense shall include in the budget materials submitted to Congress for that year summaries of the guidance developed under paragraphs (1) and (2), as well as summaries of any plans developed in accordance with the guidance developed under paragraph (2). Such summaries shall be sufficient to allow the congressional defense committees to evaluate fully the requirements for military forces, acquisition programs, and operation and maintenance funding in the President’s annual budget request for the Department of Defense.
 - **(h)** The Secretary of Defense shall keep the Secretaries of the military departments informed with respect to military operations and activities of the Department of Defense that directly affect their respective responsibilities.
 - **(i)**
   - **(1)** The Secretary of Defense shall transmit to Congress each year a report that contains a comprehensive net assessment of the defense capabilities and programs of the armed forces of the United States and its allies as compared with those of their potential adversaries.

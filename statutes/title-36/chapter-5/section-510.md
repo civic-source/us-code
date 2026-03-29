@@ -3,9 +3,9 @@ title: "Section 510 - Disclosure of and prohibition on certain donations"
 usc_title: 36
 usc_section: "510"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "36 U.S.C. § 510"
-generated_at: "2026-03-29T18:06:24.288Z"
+generated_at: "2026-03-29T18:26:09.265Z"
 ---
 
 # § 510. Disclosure of and prohibition on certain donations
@@ -17,4 +17,4 @@ generated_at: "2026-03-29T18:06:24.288Z"
     - **(A)** the amount of the donation;
     - **(B)** the date the donation is received; and
     - **(C)** the name and address of the person making the donation.
-- **(c)** The committee shall not accept any donation from a foreign national (as defined in section 319(b) of the Federal Election Campaign Act of 1971 ( 2 U.S.C. 441e(b) )).
+- **(c)** The committee shall not accept any donation from a foreign national (as defined in section 319(b) of the Federal Election Campaign Act of 1971 ( 2 U.S.C. 441e(b) )). 1 1 See References in Text note below.

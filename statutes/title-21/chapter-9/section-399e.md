@@ -3,9 +3,9 @@ title: "Section 399e - Nanotechnology"
 usc_title: 21
 usc_section: "399e"
 chapter: 9
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 399e"
-generated_at: "2026-03-29T18:05:14.865Z"
+generated_at: "2026-03-29T18:25:04.197Z"
 ---
 
 # § 399e. Nanotechnology

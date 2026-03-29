@@ -3,9 +3,9 @@ title: "Section 806 - Powers, functions, and limitations"
 usc_title: 2
 usc_section: "806"
 chapter: 19
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "2 U.S.C. § 806"
-generated_at: "2026-03-29T18:03:21.767Z"
+generated_at: "2026-03-29T18:23:14.090Z"
 ---
 
 # § 806. Powers, functions, and limitations
@@ -27,7 +27,7 @@ generated_at: "2026-03-29T18:03:21.767Z"
     - **(G)** consideration of implementation of the provisions of this chapter relating to scholarships; and
     - **(H)** carrying out of duties relating to management of the national office of the Congressional Award Program, including supervision of office personnel and of the office budget.
 - **(c)**
-  - **(1)** In carrying out its functions with respect to Statewide Congressional Award Councils (hereinafter in this subsection referred to as Statewide Councils) under subsection (b) of this section, the Board shall develop guidelines, criteria, and standards for the formation of Statewide Councils. In order to create a Statewide Council, Members of Congress and Senators from each respective State are encouraged to work jointly with the Board.
+  - **(1)** In carrying out its functions with respect to Statewide Congressional Award Councils (hereinafter in this subsection referred to as Statewide Councils) under subsection (b), the Board shall develop guidelines, criteria, and standards for the formation of Statewide Councils. In order to create a Statewide Council, Members of Congress and Senators from each respective State are encouraged to work jointly with the Board.
   - **(2)** The establishment of Statewide Councils is intended to—
     - **(A)** facilitate expanded public participation and involvement in the program; and
     - **(B)** promote greater opportunities for involvement by members of the State congressional delegation.

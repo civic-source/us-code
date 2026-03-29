@@ -3,9 +3,9 @@ title: "Section 4302 - Definitions"
 usc_title: 16
 usc_section: "4302"
 chapter: 63
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 4302"
-generated_at: "2026-03-29T18:05:07.066Z"
+generated_at: "2026-03-29T18:24:22.906Z"
 ---
 
 # § 4302. Definitions

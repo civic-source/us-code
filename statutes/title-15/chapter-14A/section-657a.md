@@ -3,9 +3,9 @@ title: "Section 657a - HUBZone program"
 usc_title: 15
 usc_section: "657a"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 657a"
-generated_at: "2026-03-29T18:04:29.481Z"
+generated_at: "2026-03-29T18:24:08.383Z"
 ---
 
 # § 657a. HUBZone program
@@ -38,7 +38,7 @@ generated_at: "2026-03-29T18:04:29.481Z"
     - **(A)** the filing, investigation, and disposition by the Administration of any challenge to the eligibility of a small business concern to receive assistance under this section (including a challenge, filed by an interested party, relating to the veracity of a certification made or information provided to the Administration by a small business concern under section 632(p)(5) of this title ); and
     - **(B)** verification by the Administrator of the accuracy of any certification made or information provided to the Administration by a small business concern under section 632(p)(5) of this title .
   - **(2)** The procedures established under paragraph (1) may provide for program examinations (including random program examinations) by the Administrator of any small business concern making a certification or providing information to the Administrator under section 632(p)(5) of this title .
-  - **(3)** Upon the request of the Administrator, the Secretary of Labor, the Secretary of Housing and Urban Development, and the Secretary of the Interior (or the Assistant Secretary for Indian Affairs), shall promptly provide to the Administrator such information as the Administrator determines to be necessary to carry out this subsection.
+  - **(3)** Upon the request of the Administrator, the Secretary of Labor, the Administrator of the Federal Emergency Management Agency, the Secretary of Housing and Urban Development, and the Secretary of the Interior (or the Assistant Secretary for Indian Affairs), shall promptly provide to the Administrator such information as the Administrator determines to be necessary to carry out this subsection.
   - **(4)** In addition to the penalties described in section 645(d) of this title , any small business concern that is determined by the Administrator to have misrepresented the status of that concern as a “HUBZone small business concern” for purposes of this section, shall be subject to—
     - **(A)** section 1001 of title 18 ; and
     - **(B)** sections 3729 through 3733 of title 31.

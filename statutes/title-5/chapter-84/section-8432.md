@@ -3,16 +3,16 @@ title: "Section 8432 - Contributions"
 usc_title: 5
 usc_section: "8432"
 chapter: 84
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 8432"
-generated_at: "2026-03-29T18:03:29.953Z"
+generated_at: "2026-03-29T18:23:29.960Z"
 ---
 
 # § 8432. Contributions
 
 - **(a)**
   - **(1)** An employee or Member may contribute to the Thrift Savings Fund in any pay period, pursuant to an election under subsection (b), an amount not to exceed the maximum percentage of such employee’s or Member’s basic pay for such pay period allowable under paragraph (2). Contributions under this subsection pursuant to such an election shall, with respect to each pay period for which such election remains in effect, be made in accordance with a program of regular contributions provided in regulations prescribed by the Executive Director.
-  - **(2)** The maximum percentage allowable under this paragraph shall be determined in accordance with the following table: In the case of a pay period The maximum percent- beginning in fiscal year: age allowable is: 2001 11 2002 12 2003 13 2004 14 2005 15 2006 or thereafter 100.
+  - **(2)** The maximum percentage allowable under this paragraph shall be determined in accordance with the following table: In the case of a pay period beginning in fiscal year: The maximum percentage allowable is: 2001 11 2002 12 2003 13 2004 14 2005 15 2006 or thereafter 100.
   - **(3)** Notwithstanding any limitation under this subsection, an eligible participant (as defined by section 414(v) of the Internal Revenue Code of 1986) may make such additional contributions to the Thrift Savings Fund as are permitted by such section 414(v) and regulations of the Executive Director consistent therewith.
 - **(b)**
   - **(1)**

@@ -1,12 +1,12 @@
 ---
-title: "Section 1d - Repealed. Pub. L. 102–325, title IV, § 402(a)(1) , July 23, 1992 , 106 Stat. 482"
+title: "Section 1d - Repealed. Pub. L. 102–325, title IV , § 402(a)(1), July 23, 1992 , 106 Stat. 482"
 usc_title: 20
 usc_section: "1d"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1d"
-generated_at: "2026-03-29T02:12:17.212Z"
+generated_at: "2026-03-29T18:24:40.925Z"
 ---
 
-# §§ 1070d to 1070d–1d. Repealed. Pub. L. 102–325, title IV, § 402(a)(1) , July 23, 1992 , 106 Stat. 482
+# §§ 1070d to 1070d–1d. Repealed. Pub. L. 102–325, title IV , § 402(a)(1), July 23, 1992 , 106 Stat. 482
 

@@ -3,9 +3,9 @@ title: "Section 7212 - Registration with the Board"
 usc_title: 15
 usc_section: "7212"
 chapter: 98
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 7212"
-generated_at: "2026-03-29T18:04:29.959Z"
+generated_at: "2026-03-29T18:24:08.646Z"
 ---
 
 # § 7212. Registration with the Board
@@ -28,6 +28,6 @@ generated_at: "2026-03-29T18:04:29.959Z"
 - **(c)**
   - **(1)** The Board shall approve a completed application for registration not later than 45 days after the date of receipt of the application, in accordance with the rules of the Board, unless the Board, prior to such date, issues a written notice of disapproval to, or requests more information from, the prospective registrant.
   - **(2)** A written notice of disapproval of a completed application under paragraph (1) for registration shall be treated as a disciplinary sanction for purposes of sections 7215(d) and 7217(c) of this title.
-- **(d)** Each registered public accounting firm shall submit an annual report to the Board, and may be required to report more frequently, as necessary to update the information contained in its application for registration under this section, and to provide to the Board such additional information as the Board or the Commission may specify, in accordance with subsection (b)(2) of this section.
+- **(d)** Each registered public accounting firm shall submit an annual report to the Board, and may be required to report more frequently, as necessary to update the information contained in its application for registration under this section, and to provide to the Board such additional information as the Board or the Commission may specify, in accordance with subsection (b)(2).
 - **(e)** Registration applications and annual reports required by this subsection, or such portions of such applications or reports as may be designated under rules of the Board, shall be made available for public inspection, subject to rules of the Board or the Commission, and to applicable laws relating to the confidentiality of proprietary, personal, or other information contained in such applications or reports, provided that, in all events, the Board shall protect from public disclosure information reasonably identified by the subject accounting firm as proprietary information.
 - **(f)** The Board shall assess and collect a registration fee and an annual fee from each registered public accounting firm, in amounts that are sufficient to recover the costs of processing and reviewing applications and annual reports.

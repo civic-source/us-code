@@ -3,9 +3,9 @@ title: "Section 203 - Schedules of charges"
 usc_title: 47
 usc_section: "203"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "47 U.S.C. § 203"
-generated_at: "2026-03-29T18:07:40.810Z"
+generated_at: "2026-03-29T18:27:09.528Z"
 ---
 
 # § 203. Schedules of charges

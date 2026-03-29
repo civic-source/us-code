@@ -3,17 +3,17 @@ title: "Section 2365 - Global Research Watch Program"
 usc_title: 10
 usc_section: "2365"
 chapter: 139
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2365"
-generated_at: "2026-03-29T18:04:13.158Z"
+generated_at: "2026-03-29T18:23:51.934Z"
 ---
 
 # § 2365. Global Research Watch Program
 
 - **(a)** The Assistant Secretary of Defense for Research and Engineering shall carry out a Global Research Watch program in accordance with this section.
 - **(b)** The goals of the program are as follows:
-  - **(1)** To monitor and analyze the basic and applied research activities and capabilities of foreign nations in areas of military interest, including allies and competitors.
-  - **(2)** To provide standards for comparison and comparative analysis of research capabilities of foreign nations in relation to the research capabilities of the United States.
+  - **(1)** To monitor and analyze the basic and applied research activities and capabilities of foreign nations and private sector persons in areas of military interest, including allies and competitors.
+  - **(2)** To provide standards for comparison and comparative analysis of research capabilities of foreign nations and private sector persons in relation to the research capabilities of the United States.
   - **(3)** To assist Congress and Department of Defense officials in making investment decisions for research in technical areas where the United States may not be the global leader.
   - **(4)** To identify areas where significant opportunities for cooperative research may exist.
   - **(5)** To coordinate and promote the international cooperative research and analysis activities of each of the armed forces and Defense Agencies.
@@ -26,4 +26,4 @@ generated_at: "2026-03-29T18:04:13.158Z"
     - **(A)** Funds available to a military department for a fiscal year for monitoring or analyzing the research activities and capabilities of foreign nations may not be obligated or expended until the Assistant Secretary certifies to the Under Secretary of Defense for Acquisition, Technology, and Logistics that the Secretary of such military department has provided the assistance required under paragraph (2).
     - **(B)** The limitation in subparagraph (A) shall not be construed to alter or effect the availability to a military department of funds for intelligence activities.
 - **(e)** Information in electronic databases of the Global Research Watch program shall be maintained in unclassified form and, as determined necessary by the Assistant Secretary, in classified form in such databases.
-- **(f)** The requirement to carry out the program under this section shall terminate on September 30, 2015 .
+- **(f)** The requirement to carry out the program under this section shall terminate on September 30, 2025 .

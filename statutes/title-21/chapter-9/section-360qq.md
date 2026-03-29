@@ -1,12 +1,12 @@
 ---
-title: "Section 360qq - Repealed. Pub. L. 105–362, title VI, § 601(a)(2)(A) , Nov. 10, 1998 , 112 Stat. 3285"
+title: "Section 360qq - Repealed. Pub. L. 105–362, title VI , § 601(a)(2)(A), Nov. 10, 1998 , 112 Stat. 3285"
 usc_title: 21
 usc_section: "360qq"
 chapter: 9
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 360qq"
-generated_at: "2026-03-29T18:05:14.804Z"
+generated_at: "2026-03-29T18:25:04.146Z"
 ---
 
-# § 360qq. Repealed. Pub. L. 105–362, title VI, § 601(a)(2)(A) , Nov. 10, 1998 , 112 Stat. 3285
+# § 360qq. Repealed. Pub. L. 105–362, title VI , § 601(a)(2)(A), Nov. 10, 1998 , 112 Stat. 3285
 

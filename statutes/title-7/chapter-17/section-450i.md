@@ -3,9 +3,9 @@ title: "Section 450i - Competitive, special, and facilities research grants"
 usc_title: 7
 usc_section: "450i"
 chapter: 17
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 450i"
-generated_at: "2026-03-29T18:04:04.770Z"
+generated_at: "2026-03-29T18:23:43.199Z"
 ---
 
 # § 450i. Competitive, special, and facilities research grants
@@ -125,7 +125,7 @@ generated_at: "2026-03-29T18:04:04.770Z"
       - **(iii)** promote the research partnership between the Department of Agriculture, colleges and universities, research foundations, and State agricultural experiment stations for regional research efforts; and
       - **(iv)** facilitate coordination and cooperation of research, extension, or education among States through regional grants.
   - **(2)** The Secretary may not make a grant under this subsection—
-    - **(A)** for any purpose for which a grant may be made under subsection (d) of this section; or
+    - **(A)** for any purpose for which a grant may be made under subsection (d); or
     - **(B)** for the planning, repair, rehabilitation, acquisition, or construction of a building or facility.
   - **(3)** Grants made under this subsection shall be made without regard to matching funds.
   - **(4)** Of amounts appropriated for a fiscal year to carry out this subsection—
@@ -165,7 +165,7 @@ generated_at: "2026-03-29T18:04:04.770Z"
   - **(7)** There are authorized to be appropriated $25,000,000 for fiscal year 1991, and such sums as are necessary for subsequent fiscal years to carry out this subsection.
 - **(f)** Each recipient of assistance under this section shall keep such records as the Secretary of Agriculture shall, by regulation, prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grants, the total cost of the project or undertaking in connection with which such funds are given or used, and the amount of that portion of the costs of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit. The Secretary of Agriculture and the Comptroller General of the United States or any of their duly authorized representatives shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipients that are pertinent to the grants received under this section.
 - **(g)** The Secretary of Agriculture shall limit allowable overhead costs, with respect to grants awarded under this section, to those necessary to carry out the purposes of the grants.
-- **(h)** Except as otherwise provided in subsections (b) and (e) of this section, there are hereby authorized to be appropriated such sums as are necessary to carry out this section.
+- **(h)** Except as otherwise provided in subsections (b) and (e), there are hereby authorized to be appropriated such sums as are necessary to carry out this section.
 - **(i)** The Secretary of Agriculture may issue such rules and regulations as the Secretary deems necessary to carry out this section.
 - **(j)** The Federal Advisory Committee Act and title XVIII of the Food and Agriculture Act of 1977 ( 7 U.S.C. 2281 et seq.) shall not apply to a panel or board created for the purpose of reviewing applications or proposals submitted under this section.
-- **(k)** The Secretary of Agriculture shall ensure that grants made under subsections (b) and (c) of this section are, where appropriate, consistent with the development of systems of sustainable agriculture. For purposes of this section, the term “sustainable agriculture” has the meaning given that term in section 3103 of this title .
+- **(k)** The Secretary of Agriculture shall ensure that grants made under subsections (b) and (c) are, where appropriate, consistent with the development of systems of sustainable agriculture. For purposes of this section, the term “sustainable agriculture” has the meaning given that term in section 3103 of this title .

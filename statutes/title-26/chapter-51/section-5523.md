@@ -1,12 +1,12 @@
 ---
-title: "Section 5523 - Repealed. Pub. L. 96–39, title VIII, § 807(a)(50) , July 26, 1979 , 93 Stat. 288 ]"
+title: "Section 5523 - Repealed. Pub. L. 96–39, title VIII , § 807(a)(50), July 26, 1979 , 93 Stat. 288 ]"
 usc_title: 26
 usc_section: "5523"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 5523"
-generated_at: "2026-03-29T02:14:01.266Z"
+generated_at: "2026-03-29T18:25:53.872Z"
 ---
 
-# [§§ 5521 to 5523. Repealed. Pub. L. 96–39, title VIII, § 807(a)(50) , July 26, 1979 , 93 Stat. 288 ]
+# [§§ 5521 to 5523. Repealed. Pub. L. 96–39, title VIII , § 807(a)(50), July 26, 1979 , 93 Stat. 288 ]
 

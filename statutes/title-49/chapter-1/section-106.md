@@ -3,9 +3,9 @@ title: "Section 106 - Federal Aviation Administration"
 usc_title: 49
 usc_section: "106"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 106"
-generated_at: "2026-03-29T18:07:51.315Z"
+generated_at: "2026-03-29T18:27:16.417Z"
 ---
 
 # § 106. Federal Aviation Administration
@@ -63,13 +63,14 @@ generated_at: "2026-03-29T18:07:51.315Z"
   - **(1)** There is authorized to be appropriated to the Secretary of Transportation for salaries, operations, and maintenance of the Administration—
     - **(A)** $9,653,000,000 for fiscal year 2012;
     - **(B)** $9,539,000,000 for fiscal year 2013;
-    - **(C)** $9,596,000,000 for fiscal year 2014; and
-    - **(D)** $9,653,000,000 for fiscal year 2015.
+    - **(C)** $9,596,000,000 for fiscal year 2014;
+    - **(D)** $9,653,000,000 for fiscal year 2015; and
+    - **(E)** $9,909,724,000 for each of fiscal years 2016 and 2017.
   - **(2)** Out of amounts appropriated under paragraph (1), the following expenditures are authorized:
     - **(A)** Such sums as may be necessary for fiscal years 2012 through 2015 to carry out and expand the Air Traffic Control Collegiate Training Initiative.
     - **(B)** Such sums as may be necessary for fiscal years 2012 through 2015 for the completion of the Alaska aviation safety project with respect to the 3 dimensional mapping of Alaska’s main aviation corridors.
     - **(C)** Such sums as may be necessary for fiscal years 2012 through 2015 to carry out the Aviation Safety Reporting System and the development and maintenance of helicopter approach procedures.
-  - **(3)** Notwithstanding any other provision of law, in each of fiscal years 2012 through 2015, if the Secretary determines that the funds appropriated under paragraph (1) are insufficient to meet the salary, operations, and maintenance expenses of the Federal Aviation Administration, as authorized by this section, the Secretary shall reduce nonsafety-related activities of the Administration as necessary to reduce such expenses to a level that can be met by the funding available under paragraph (1).
+  - **(3)** Notwithstanding any other provision of law, in each of fiscal years 2012 through 2017, if the Secretary determines that the funds appropriated under paragraph (1) are insufficient to meet the salary, operations, and maintenance expenses of the Federal Aviation Administration, as authorized by this section, the Secretary shall reduce nonsafety-related activities of the Administration as necessary to reduce such expenses to a level that can be met by the funding available under paragraph (1).
 - **(l)**
   - **(1)** Except as provided in subsections (a) and (g) of section 40122, the Administrator is authorized, in the performance of the functions of the Administrator, to appoint, transfer, and fix the compensation of such officers and employees, including attorneys, as may be necessary to carry out the functions of the Administrator and the Administration. In fixing compensation and benefits of officers and employees, the Administrator shall not engage in any type of bargaining, except to the extent provided for in section 40122(a), nor shall the Administrator be bound by any requirement to establish such compensation or benefits at particular levels.
   - **(2)** The Administrator is authorized to obtain the services of experts and consultants in accordance with section 3109 of title 5 .
@@ -184,12 +185,7 @@ generated_at: "2026-03-29T18:07:51.315Z"
         - **(IV)** developing rules for the conduct of business.
       - **(ii)** The Committee shall meet at least quarterly and at such other times as the chairperson determines appropriate.
       - **(iii)** Three members of the Committee shall constitute a quorum. A majority of members present and voting shall be required for the Committee to take action.
-    - **(H)**
-      - **(i)** The Committee shall each year report with respect to the conduct of its responsibilities under this title to the Secretary, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
-      - **(ii)** If a determination by the Committee under subparagraph (D)(i) that the organization and operation of the air traffic control system are not allowing the Administration to carry out its mission, the Committee shall report such determination to the Secretary, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
-      - **(iii)** Not later than 60 days after the date of a report of the Committee under this subparagraph, the Administrator shall take action with respect to such report. If the Administrator overturns a recommendation of the Committee, the Administrator shall report such action to the President, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
-      - **(iv)** Not later than April 30, 2003 , the Comptroller General of the United States shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the success of the Committee in improving the performance of the air traffic control system.
-    - **(I)** There are authorized to be appropriated to the Committee such sums as may be necessary for the Committee to carry out its activities.
+    - **(H)** There are authorized to be appropriated to the Committee such sums as may be necessary for the Committee to carry out its activities.
   - **(8)** In this section, the term “air traffic control system” has the meaning such term has under section 40102(a).
 - **(q)**
   - **(1)** There shall be in the Administration an Aircraft Noise Ombudsman.

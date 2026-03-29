@@ -3,16 +3,16 @@ title: "Section 410mm - Establishment"
 usc_title: 16
 usc_section: "410mm"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 410mm"
-generated_at: "2026-03-29T18:05:06.558Z"
+generated_at: "2026-03-29T18:24:22.479Z"
 ---
 
 # § 410mm. Establishment
 
 - **(a)** In order to preserve for the benefit and inspiration of the people a representative segment of the Great Basin of the Western United States possessing outstanding resources and significant geological and scenic values, there is hereby established the Great Basin National Park (hereinafter in this subchapter referred to as the “park”).
 - **(b)** The park shall consist of approximately seventy-six thousand acres, as depicted on the map entitled “Boundary Map, Great Basin National Park, Nevada,” numbered NA–GB 20,017, and dated October 1986. The map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, and the Office of the Superintendent, Great Basin National Park, Nevada.
-- **(c)** Within 6 months after October 27, 1986 , the Secretary of the Interior (hereinafter in this subchapter referred to as the “Secretary”) shall file a legal description of the park designated under this section with the Committee on Interior and Insular Affairs of the United States House of Representatives and with the Committee on Energy and Natural Resources of the United States Senate. Such legal description shall have the same force and effect as if included in this subchapter, except that the Secretary may correct clerical and typographical errors in such legal description and in the map referred to in subsection (a) of this section. The legal description shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior.
+- **(c)** Within 6 months after October 27, 1986 , the Secretary of the Interior (hereinafter in this subchapter referred to as the “Secretary”) shall file a legal description of the park designated under this section with the Committee on Interior and Insular Affairs of the United States House of Representatives and with the Committee on Energy and Natural Resources of the United States Senate. Such legal description shall have the same force and effect as if included in this subchapter, except that the Secretary may correct clerical and typographical errors in such legal description and in the map referred to in subsection (a). The legal description shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior.
 - **(d)**
-  - **(1)** The Lehman Caves National Monument, designated on January 24, 1922 , by Presidential proclamation under the authority contained in the Act of June 8, 1906 ( 34 Stat. 225 ) [ 16 U.S.C. 431 , 432, 433] is hereby abolished and the lands incorporated within the Great Basin National Park. Any reference in any law, map, regulation, document, record, or other paper of the United States to such national monument shall be deemed to be a reference to Great Basin National Park.
+  - **(1)** The Lehman Caves National Monument, designated on January 24, 1922 , by Presidential proclamation under the authority contained in the Act of June 8, 1906 ( 34 Stat. 225 ) 1 1 See References in Text note below. is hereby abolished and the lands incorporated within the Great Basin National Park. Any reference in any law, map, regulation, document, record, or other paper of the United States to such national monument shall be deemed to be a reference to Great Basin National Park.
   - **(2)** Any funds available for purposes of the national monument shall be available for purposes of the park.

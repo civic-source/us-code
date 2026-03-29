@@ -3,9 +3,9 @@ title: "Section 3183 - Bristol Bay Cooperative Region"
 usc_title: 16
 usc_section: "3183"
 chapter: 51
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 3183"
-generated_at: "2026-03-29T18:05:07.022Z"
+generated_at: "2026-03-29T18:24:22.868Z"
 ---
 
 # § 3183. Bristol Bay Cooperative Region
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T18:05:07.022Z"
   - **(4)** to identify any further lands within the region which are appropriate for selections by the State under section 6 of the Alaska Statehood Act and this Act; and
   - **(5)** to identify any further lands within the region which may be appropriate for congressional designation as national conservation system units.
 - **(c)**
-  - **(1)** If within three months after December 2, 1980 , the Governor notifies the Secretary that the State wishes to participate in the preparation of the plan, and that the Governor will, to the extent of his authority, manage State lands within the region to conserve fish and wildlife during such preparation, the Secretary and the Governor shall undertake to prepare the plan which shall contain such provisions as are necessary and appropriate to achieve the purposes set forth in subsection (b) of this section, including but not limited to—
+  - **(1)** If within three months after December 2, 1980 , the Governor notifies the Secretary that the State wishes to participate in the preparation of the plan, and that the Governor will, to the extent of his authority, manage State lands within the region to conserve fish and wildlife during such preparation, the Secretary and the Governor shall undertake to prepare the plan which shall contain such provisions as are necessary and appropriate to achieve the purposes set forth in subsection (b), including but not limited to—
     - **(A)** the identification of the significant resources of the region;
     - **(B)** the identification of present and potential uses of land within the region;
     - **(C)** the identification of areas within the region according to their significant resources and the present or potential uses within each such area;
@@ -32,9 +32,9 @@ generated_at: "2026-03-29T18:05:07.022Z"
       - **(ii)** may not modify without such prior approval; and
     - **(B)** include a description of the procedures which will be used to make modifications to which paragraph (A)(i) applies.
 - **(d)** If—
-  - **(1)** the Secretary does not receive notification under subsection (c) of this section that the State will participate in the preparation of the plan; or
+  - **(1)** the Secretary does not receive notification under subsection (c) that the State will participate in the preparation of the plan; or
   - **(2)** after the State agrees to so participate, the Governor submits to the Secretary written notification that the State is terminating its participation;
 - **(e)**
-  - **(1)** If within three years after December 2, 1980 , a plan has been prepared under subsection (c) of this section which is agreed to by the Secretary and the Governor, the plan shall take effect with respect to the United States and the State.
+  - **(1)** If within three years after December 2, 1980 , a plan has been prepared under subsection (c) which is agreed to by the Secretary and the Governor, the plan shall take effect with respect to the United States and the State.
   - **(2)** If the plan prepared pursuant to this section is agreed to by the Secretary and the Governor includes any recommendations regarding (i) the exchange of State lands, (ii) the management of Federal lands within any conservation system unit, or (iii) any other actions which require the approval of either the Congress or the Alaska State Legislature, then the Secretary and the Governor shall submit to the Congress and the State Legislature as appropriate, their proposals for legislation necessary to carry out the recommendations contained in the plan.
 - **(f)** On December 2, 1980 , and for a period of three years thereafter, all Federal land within the region (except that land conveyed by title IX of this Act to the State of Alaska and Federal lands located within the boundaries of conservation system units) shall be withdrawn from all forms of appropriation under the public land laws, including selections by the State, and from location and entry under the mining laws and from leasing under the Mineral Leasing Act [ 30 U.S.C. 181 et seq.], and shall be managed by the Bureau of Land Management under its existing statutory authority and consistent with provisions of this section.

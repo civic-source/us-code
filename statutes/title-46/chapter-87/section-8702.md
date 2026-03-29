@@ -3,9 +3,9 @@ title: "Section 8702 - Certain crew requirements"
 usc_title: 46
 usc_section: "8702"
 chapter: 87
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "46 U.S.C. § 8702"
-generated_at: "2026-03-29T18:07:34.352Z"
+generated_at: "2026-03-29T18:27:18.880Z"
 ---
 
 # § 8702. Certain crew requirements

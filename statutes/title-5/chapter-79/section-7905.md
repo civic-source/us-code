@@ -3,9 +3,9 @@ title: "Section 7905 - Programs to encourage commuting by means other than singl
 usc_title: 5
 usc_section: "7905"
 chapter: 79
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 7905"
-generated_at: "2026-03-29T18:03:29.920Z"
+generated_at: "2026-03-29T18:23:29.931Z"
 ---
 
 # § 7905. Programs to encourage commuting by means other than single-occupancy motor vehicles
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T18:03:29.920Z"
     - **(A)** an Executive agency;
     - **(B)** an entity of the legislative branch; and
     - **(C)** the judicial branch;
-  - **(3)** the term “entity of the legislative branch” means the House of Representatives, the Senate, the Office of the Architect of the Capitol (including the Botanic Garden), the Capitol Police, the Congressional Budget Office, the Copyright Royalty Tribunal, the Government Printing Office, the Library of Congress, and the Office of Technology Assessment; and
+  - **(3)** the term “entity of the legislative branch” means the House of Representatives, the Senate, the Office of the Architect of the Capitol (including the Botanic Garden), the Capitol Police, the Congressional Budget Office, the Copyright Royalty Tribunal, the Government Publishing Office, the Library of Congress, and the Office of Technology Assessment; and
   - **(4)** the term “transit pass” means a transit pass as defined by section 132(f)(5) of the Internal Revenue Code of 1986.
 - **(b)**
   - **(1)** The head of each agency may establish a program to encourage employees of such agency to use means other than single-occupancy motor vehicles to commute to or from work.

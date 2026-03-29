@@ -3,9 +3,9 @@ title: "Section 965 - Temporary dividends received deduction"
 usc_title: 26
 usc_section: "965"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 965"
-generated_at: "2026-03-29T18:05:44.755Z"
+generated_at: "2026-03-29T18:25:53.698Z"
 ---
 
 # § 965. Temporary dividends received deduction

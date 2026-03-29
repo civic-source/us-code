@@ -3,9 +3,9 @@ title: "Section 521c - Definitions"
 usc_title: 16
 usc_section: "521c"
 chapter: 2
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 521c"
-generated_at: "2026-03-29T18:05:06.741Z"
+generated_at: "2026-03-29T18:24:22.631Z"
 ---
 
 # § 521c. Definitions

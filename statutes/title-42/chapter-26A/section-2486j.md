@@ -1,12 +1,12 @@
 ---
-title: "Section 2486j - Repealed. Pub. L. 105–362, title XI, § 1101(a) , Nov. 10, 1998 , 112 Stat. 3292"
+title: "Section 2486j - Repealed. Pub. L. 105–362, title XI , § 1101(a), Nov. 10, 1998 , 112 Stat. 3292"
 usc_title: 42
 usc_section: "2486j"
 chapter: 26
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 2486j"
-generated_at: "2026-03-29T18:07:14.452Z"
+generated_at: "2026-03-29T18:27:03.466Z"
 ---
 
-# § 2486j. Repealed. Pub. L. 105–362, title XI, § 1101(a) , Nov. 10, 1998 , 112 Stat. 3292
+# § 2486j. Repealed. Pub. L. 105–362, title XI , § 1101(a), Nov. 10, 1998 , 112 Stat. 3292
 

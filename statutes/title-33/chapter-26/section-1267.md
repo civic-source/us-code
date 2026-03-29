@@ -3,9 +3,9 @@ title: "Section 1267 - Chesapeake Bay"
 usc_title: 33
 usc_section: "1267"
 chapter: 26
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 1267"
-generated_at: "2026-03-29T18:06:10.533Z"
+generated_at: "2026-03-29T18:26:01.225Z"
 ---
 
 # § 1267. Chesapeake Bay
@@ -34,7 +34,7 @@ generated_at: "2026-03-29T18:06:10.533Z"
   - **(1)** In cooperation with the Chesapeake Executive Council, the Administrator may provide technical assistance, and assistance grants, to nonprofit organizations, State and local governments, colleges, universities, and interstate agencies to carry out this section, subject to such terms and conditions as the Administrator considers appropriate.
   - **(2)**
     - **(A)** Except as provided in subparagraph (B), the Federal share of an assistance grant provided under paragraph (1) shall be determined by the Administrator in accordance with guidance issued by the Administrator.
-    - **(B)** The Federal share of an assistance grant provided under paragraph (1) to carry out an implementing activity under subsection (g)(2) of this section shall not exceed 75 percent of eligible project costs, as determined by the Administrator.
+    - **(B)** The Federal share of an assistance grant provided under paragraph (1) to carry out an implementing activity under subsection (g)(2) shall not exceed 75 percent of eligible project costs, as determined by the Administrator.
   - **(3)** An assistance grant under paragraph (1) shall be provided on the condition that non-Federal sources provide the remainder of eligible project costs, as determined by the Administrator.
   - **(4)** Administrative costs shall not exceed 10 percent of the annual grant award.
 - **(e)**
@@ -69,7 +69,7 @@ generated_at: "2026-03-29T18:06:10.533Z"
     - **(E)** the restoration, protection, creation, and enhancement goals established by the Chesapeake Bay Agreement signatories for living resources associated with the Chesapeake Bay ecosystem.
   - **(2)** The Administrator, in cooperation with the Chesapeake Executive Council, shall—
     - **(A)** establish a small watershed grants program as part of the Chesapeake Bay Program; and
-    - **(B)** offer technical assistance and assistance grants under subsection (d) of this section to local governments and nonprofit organizations and individuals in the Chesapeake Bay region to implement—
+    - **(B)** offer technical assistance and assistance grants under subsection (d) to local governments and nonprofit organizations and individuals in the Chesapeake Bay region to implement—
       - **(i)** cooperative tributary basin strategies that address the water quality and living resource needs in the Chesapeake Bay ecosystem; and
       - **(ii)** locally based protection and restoration programs or projects within a watershed that complement the tributary basin strategies, including the creation, restoration, protection, or enhancement of habitat associated with the Chesapeake Bay ecosystem.
 - **(h)**

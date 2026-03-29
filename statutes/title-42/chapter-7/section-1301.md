@@ -3,15 +3,15 @@ title: "Section 1301 - Definitions"
 usc_title: 42
 usc_section: "1301"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1301"
-generated_at: "2026-03-29T18:07:13.798Z"
+generated_at: "2026-03-29T18:27:02.956Z"
 ---
 
 # § 1301. Definitions
 
 - **(a)** When used in this chapter—
-  - **(1)** The term “State”, except where otherwise provided, includes the District of Columbia and the Commonwealth of Puerto Rico, and when used in subchapters IV, V, VII, XI, XIX, and XXI of this chapter includes the Virgin Islands and Guam. Such term when used in subchapters III, IX, and XII of this chapter also includes the Virgin Islands. Such term when used in subchapter V and in part B of this subchapter of this chapter also includes American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. Such term when used in subchapters XIX and XXI of this chapter also includes the Northern Mariana Islands and American Samoa. In the case of Puerto Rico, the Virgin Islands, and Guam, subchapters I, X, and XIV, and subchapter XVI of this chapter (as in effect without regard to the amendment made by section 301 of the Social Security Amendments of 1972) shall continue to apply, and the term “State” when used in such subchapters (but not in subchapter XVI of this chapter as in effect pursuant to such amendment after December 31, 1973 ) includes Puerto Rico, the Virgin Islands, and Guam. Such term when used in subchapter XX of this chapter also includes the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands. Such term when used in subchapter IV of this chapter also includes American Samoa.
+  - **(1)** The term “State”, except where otherwise provided, includes the District of Columbia and the Commonwealth of Puerto Rico, and when used in subchapters IV, V, VII, XI, XIX, and XXI includes the Virgin Islands and Guam. Such term when used in subchapters III, IX, and XII also includes the Virgin Islands. Such term when used in subchapter V and in part B of this subchapter also includes American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. Such term when used in subchapters XIX and XXI also includes the Northern Mariana Islands and American Samoa. In the case of Puerto Rico, the Virgin Islands, and Guam, subchapters I, X, and XIV, and subchapter XVI (as in effect without regard to the amendment made by section 301 of the Social Security Amendments of 1972) shall continue to apply, and the term “State” when used in such subchapters (but not in subchapter XVI as in effect pursuant to such amendment after December 31, 1973 ) includes Puerto Rico, the Virgin Islands, and Guam. Such term when used in subchapter XX also includes the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands. Such term when used in subchapter IV also includes American Samoa.
   - **(2)** The term “United States” when used in a geographical sense means, except where otherwise provided, the States.
   - **(3)** The term “person” means an individual, a trust or estate, a partnership, or a corporation.
   - **(4)** The term “corporation” includes associations, joint-stock companies, and insurance companies.
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T18:07:13.798Z"
     - **(C)** such practitioners have a person (who may himself be a practitioner)—
       - **(i)** who is in charge of, controls, manages, or supervises substantial aspects of the arrangement or operation for the delivery of health or medical services at such common physical location, other than the direct furnishing of professional health care services by the practitioners to their patients; or
       - **(ii)** who makes available to such practitioners the services of supporting staff who are not employees of such practitioners;
-    - **(D)** at least one of such practitioners received payments on a fee-for-service basis under subchapters XVIII and XIX of this chapter in an amount exceeding $5,000 for any one month during the preceding 12 months or in an aggregate amount exceeding $40,000 during the preceding 12 months;
+    - **(D)** at least one of such practitioners received payments on a fee-for-service basis under subchapters XVIII and XIX in an amount exceeding $5,000 for any one month during the preceding 12 months or in an aggregate amount exceeding $40,000 during the preceding 12 months;
   - **(10)** The term “Administration” means the Social Security Administration, except where the context requires otherwise.
 - **(b)** The terms “includes” and “including” when used in a definition contained in this chapter shall not be deemed to exclude other things otherwise within the meaning of the term defined.
 - **(c)** Whenever under this chapter or any Act of Congress, or under the law of any State, an employer is required or permitted to deduct any amount from the remuneration of an employee and to pay the amount deducted to the United States, a State, or any political subdivision thereof, then for the purposes of this chapter the amount so deducted shall be considered to have been paid to the employee at the time of such deduction.

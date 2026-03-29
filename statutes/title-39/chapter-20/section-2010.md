@@ -3,9 +3,9 @@ title: "Section 2010 - Restrictions on agreements"
 usc_title: 39
 usc_section: "2010"
 chapter: 20
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "39 U.S.C. § 2010"
-generated_at: "2026-03-29T18:06:14.481Z"
+generated_at: "2026-03-29T18:26:03.560Z"
 ---
 
 # § 2010. Restrictions on agreements

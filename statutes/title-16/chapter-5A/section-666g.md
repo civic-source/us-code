@@ -3,9 +3,9 @@ title: "Section 666g - Classification of lands; industrial leases; moneys subjec
 usc_title: 16
 usc_section: "666g"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 666g"
-generated_at: "2026-03-29T18:05:06.787Z"
+generated_at: "2026-03-29T18:24:22.677Z"
 ---
 
 # § 666g. Classification of lands; industrial leases; moneys subject to section 715s of this title ; administration; jurisdiction of Federal agencies

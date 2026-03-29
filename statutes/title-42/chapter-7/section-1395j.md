@@ -3,9 +3,9 @@ title: "Section 1395j - Establishment of supplementary medical insurance program
 usc_title: 42
 usc_section: "1395j"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1395j"
-generated_at: "2026-03-29T18:07:13.887Z"
+generated_at: "2026-03-29T18:27:03.043Z"
 ---
 
 # § 1395j. Establishment of supplementary medical insurance program for aged and disabled

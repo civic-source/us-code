@@ -3,9 +3,9 @@ title: "Section 3032g - Native American programs"
 usc_title: 42
 usc_section: "3032g"
 chapter: 35
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 3032g"
-generated_at: "2026-03-29T18:07:14.488Z"
+generated_at: "2026-03-29T18:27:03.490Z"
 ---
 
 # § 3032g. Native American programs
@@ -27,4 +27,4 @@ generated_at: "2026-03-29T18:07:14.488Z"
   - **(4)** In determining the type of information to be sought from, and activities to be performed by, Resource Centers, the Assistant Secretary shall consult with the Director of the Office for American Indian, Alaskan Native, and Native Hawaiian Aging and with national organizations with special expertise in serving Native Americans who are older individuals.
   - **(5)** To be eligible to receive a grant or enter into a contract under paragraph (1), an entity shall be an institution of higher education with experience conducting research and assessment on the needs of older individuals.
   - **(6)** The Assistant Secretary, with assistance from each Resource Center, shall prepare and submit to the Speaker of the House of Representatives and the President pro tempore of the Senate an annual report on the status and needs, including the priority areas of concern, of Native Americans who are older individuals.
-- **(b)** The Assistant Secretary shall make grants and enter into contracts to provide in-service training opportunities and courses of instruction on aging to Indian tribes through public or nonprofit Indian aging organizations and to provide annually a national meeting to train directors of programs under this subchapter.
+- **(b)** The Assistant Secretary shall make grants and enter into contracts to provide in-service training opportunities and courses of instruction on aging to Indian tribes through public or nonprofit Indian aging organizations and to provide annually national trainings for directors of programs under this subchapter.

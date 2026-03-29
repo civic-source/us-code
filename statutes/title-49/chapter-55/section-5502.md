@@ -3,9 +3,9 @@ title: "Section 5502 - Intermodal Transportation Advisory Board"
 usc_title: 49
 usc_section: "5502"
 chapter: 55
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 5502"
-generated_at: "2026-03-29T18:07:51.363Z"
+generated_at: "2026-03-29T18:27:16.469Z"
 ---
 
 # § 5502. Intermodal Transportation Advisory Board

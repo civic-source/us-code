@@ -3,9 +3,9 @@ title: "Section 296j - Advanced education nursing grants"
 usc_title: 42
 usc_section: "296j"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 296j"
-generated_at: "2026-03-29T18:07:13.489Z"
+generated_at: "2026-03-29T18:27:02.705Z"
 ---
 
 # § 296j. Advanced education nursing grants
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T18:07:13.489Z"
   - **(2)** are accredited by the Council on Accreditation of Nurse Anesthesia Educational Programs.
 - **(f)** The Secretary shall prescribe guidelines as appropriate for other advanced nurse education programs eligible for support under this section.
 - **(g)**
-  - **(1)** The Secretary may not award a grant to an applicant under subsection (a) of this section unless the applicant involved agrees that traineeships provided with the grant will only pay all or part of the costs of—
+  - **(1)** The Secretary may not award a grant to an applicant under subsection (a) unless the applicant involved agrees that traineeships provided with the grant will only pay all or part of the costs of—
     - **(A)** the tuition, books, and fees of the program of advanced nurse education with respect to which the traineeship is provided; and
     - **(B)** the reasonable living expenses of the individual during the period for which the traineeship is provided.
-  - **(2)** In making awards of grants and contracts under subsection (a)(2) of this section, the Secretary shall give special consideration to an eligible entity that agrees to expend the award to train advanced education nurses who will practice in health professional shortage areas designated under section 254e of this title .
+  - **(2)** In making awards of grants and contracts under subsection (a)(2), the Secretary shall give special consideration to an eligible entity that agrees to expend the award to train advanced education nurses who will practice in health professional shortage areas designated under section 254e of this title .

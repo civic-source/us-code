@@ -1,12 +1,12 @@
 ---
-title: "Section 19a - Repealed. Aug. 23, 1935, ch. 614, § 329 , 49 Stat. 717"
+title: "Section 19a - Repealed. Aug. 23, 1935, ch. 614 , § 329, 49 Stat. 717"
 usc_title: 15
 usc_section: "19a"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 19a"
-generated_at: "2026-03-29T18:04:29.283Z"
+generated_at: "2026-03-29T18:24:08.197Z"
 ---
 
-# § 19a. Repealed. Aug. 23, 1935, ch. 614, § 329 , 49 Stat. 717
+# § 19a. Repealed. Aug. 23, 1935, ch. 614 , § 329, 49 Stat. 717
 

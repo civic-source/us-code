@@ -3,9 +3,9 @@ title: "Section 7572 - Quarters: accommodations in place for members on sea duty
 usc_title: 10
 usc_section: "7572"
 chapter: 649
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 7572"
-generated_at: "2026-03-29T18:04:13.280Z"
+generated_at: "2026-03-29T18:23:52.074Z"
 ---
 
 # § 7572. Quarters: accommodations in place for members on sea duty or assigned to duty in connection with commissioning or fitting out of a ship
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T18:04:13.280Z"
   - **(1)** member of the naval service;
   - **(2)** member of the Coast Guard when it is operating as a service in the Navy; or
   - **(3)** member of the National Oceanic and Atmospheric Administration serving with the Navy;
-- **[(b)** Repealed. Pub. L. 105–261, div. A, title X, § 1069(a)(7) , Oct. 17, 1998 , 112 Stat. 2136 .]
+- **[(b)** Repealed. Pub. L. 105–261, div. A, title X , § 1069(a)(7), Oct. 17, 1998 , 112 Stat. 2136 .]
 - **(c)** The Secretary, to the extent he considers proper, may delegate the authority conferred by subsection (a) to any person in the Department of the Navy, with or without the authority to make successive redelegations.
 - **(d)**
   - **(1)** A member of the naval service on sea duty who is deprived of quarters on board ship because of repairs or because of other conditions that make the member’s quarters uninhabitable may be reimbursed for expenses incurred in obtaining housing if it is impracticable to furnish the member with accommodations under subsection (a).

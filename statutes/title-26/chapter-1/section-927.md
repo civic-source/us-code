@@ -1,12 +1,12 @@
 ---
-title: "Section 927 - Repealed. Pub. L. 106–519, § 2 , Nov. 15, 2000 , 114 Stat. 2423 ]"
+title: "Section 927 - Repealed. Pub. L. 106–519 , § 2, Nov. 15, 2000 , 114 Stat. 2423 ]"
 usc_title: 26
 usc_section: "927"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 927"
-generated_at: "2026-03-29T02:14:01.081Z"
+generated_at: "2026-03-29T18:25:53.688Z"
 ---
 
-# [§§ 921 to 927. Repealed. Pub. L. 106–519, § 2 , Nov. 15, 2000 , 114 Stat. 2423 ]
+# [§§ 921 to 927. Repealed. Pub. L. 106–519 , § 2, Nov. 15, 2000 , 114 Stat. 2423 ]
 

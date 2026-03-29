@@ -3,9 +3,9 @@ title: "Section 53 - Benton Harbor Canal, Michigan"
 usc_title: 33
 usc_section: "53"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 53"
-generated_at: "2026-03-29T18:06:10.463Z"
+generated_at: "2026-03-29T18:26:01.153Z"
 ---
 
 # § 53. Benton Harbor Canal, Michigan

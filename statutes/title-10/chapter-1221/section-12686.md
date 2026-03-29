@@ -3,9 +3,9 @@ title: "Section 12686 - Reserves on active duty within two years of retirement e
 usc_title: 10
 usc_section: "12686"
 chapter: 1221
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 12686"
-generated_at: "2026-03-29T18:04:13.325Z"
+generated_at: "2026-03-29T18:23:52.117Z"
 ---
 
 # § 12686. Reserves on active duty within two years of retirement eligibility: limitation on release from active duty

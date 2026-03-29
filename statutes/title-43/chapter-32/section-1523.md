@@ -3,9 +3,9 @@ title: "Section 1523 - Power requirements of Central Arizona Project and augment
 usc_title: 43
 usc_section: "1523"
 chapter: 32
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 1523"
-generated_at: "2026-03-29T18:06:28.342Z"
+generated_at: "2026-03-29T18:26:14.866Z"
 ---
 
 # § 1523. Power requirements of Central Arizona Project and augmentation of Lower Colorado River Basin Development Fund

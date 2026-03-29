@@ -3,9 +3,9 @@ title: "Section 12621 - Contract and grant authority"
 usc_title: 42
 usc_section: "12621"
 chapter: 129
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 12621"
-generated_at: "2026-03-29T18:07:15.251Z"
+generated_at: "2026-03-29T18:27:04.068Z"
 ---
 
 # § 12621. Contract and grant authority

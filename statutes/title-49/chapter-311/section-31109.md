@@ -1,14 +1,12 @@
 ---
-title: "Section 31109 - Performance and registration information system management"
+title: "Section 31109 - Repealed. Pub. L. 114–94, div. A, title V , § 5101(e)(4), Dec. 4, 2015 , 129 Stat. 1525 ]"
 usc_title: 49
 usc_section: "31109"
 chapter: 311
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 31109"
-generated_at: "2026-03-29T18:07:51.444Z"
+generated_at: "2026-03-29T18:27:16.544Z"
 ---
 
-# § 31109. Performance and registration information system management
-
-The Secretary of Transportation may make a grant to a State to implement the performance and registration information system management requirements of section 31106(b).
+# [§ 31109. Repealed. Pub. L. 114–94, div. A, title V , § 5101(e)(4), Dec. 4, 2015 , 129 Stat. 1525 ]
 

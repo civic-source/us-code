@@ -3,9 +3,9 @@ title: "Section 2142 - Board of directors provisions"
 usc_title: 12
 usc_section: "2142"
 chapter: 23
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 2142"
-generated_at: "2026-03-29T18:04:43.629Z"
+generated_at: "2026-03-29T18:24:02.957Z"
 ---
 
 # § 2142. Board of directors provisions
@@ -26,6 +26,6 @@ generated_at: "2026-03-29T18:04:43.629Z"
     - **(C)** The nomination and election of the third member from each district shall be carried out in accordance with procedures prescribed in the bylaws of the consolidated bank.
   - **(3)**
     - **(A)** The members of the board of directors of the consolidated bank shall serve for a term of 3 years.
-    - **(B)** Procedures for electing members of the board of directors of the consolidated bank under this subsection shall ensure that the beginning of the terms of such members coincide with the expiration of the terms of members of the interim board of directors of the bank under subsection (a) of this section.
+    - **(B)** Procedures for electing members of the board of directors of the consolidated bank under this subsection shall ensure that the beginning of the terms of such members coincide with the expiration of the terms of members of the interim board of directors of the bank under subsection (a).
   - **(4)** The nomination and election of the members of the board of directors of the consolidated bank under this subsection shall be carried out in accordance with regulations issued by the Farm Credit Administration.
-- **(c)** The provisions of subsection (b) of this section relating to the board of directors of the consolidated bank, other than the provisions relating to the initial composition, nomination, and election of the members of the board, may be modified on an affirmative vote of at least two-thirds of the voting stockholders of the bank, with each such stockholder to have, for such purposes, only one vote. Any proposals for modifying such provisions shall be submitted for a vote by such stockholders in accordance with procedures prescribed by the Farm Credit Administration.
+- **(c)** The provisions of subsection (b) relating to the board of directors of the consolidated bank, other than the provisions relating to the initial composition, nomination, and election of the members of the board, may be modified on an affirmative vote of at least two-thirds of the voting stockholders of the bank, with each such stockholder to have, for such purposes, only one vote. Any proposals for modifying such provisions shall be submitted for a vote by such stockholders in accordance with procedures prescribed by the Farm Credit Administration.

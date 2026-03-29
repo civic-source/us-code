@@ -3,9 +3,9 @@ title: "Section 1057 - Program purpose"
 usc_title: 20
 usc_section: "1057"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1057"
-generated_at: "2026-03-29T18:05:00.057Z"
+generated_at: "2026-03-29T18:24:40.907Z"
 ---
 
 # § 1057. Program purpose
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T18:05:00.057Z"
 - **(b)**
   - **(1)** From the sums available for this part under section 1068h(a)(1) of this title , the Secretary may award grants to any eligible institution with an application approved under section 1068 of this title in order to assist such an institution to plan, develop, or implement activities that promise to strengthen the institution.
   - **(2)** Special consideration shall be given to any eligible institution—
-    - **(A)** which has endowment funds (other than any endowment fund built under section 1065 of this title as in effect on September 30, 1986 , and under part B of this subchapter) the market value of which, per full-time equivalent student, is less than the average current market value of the endowment funds, per full-time equivalent student (other than any endowment fund built under section 1065 of this title as in effect on September 30, 1986 , and under part B of this subchapter) at similar institutions; or
+    - **(A)** which has endowment funds (other than any endowment fund built under section 1065 of this title as in effect on September 30, 1986 , and under part B) the market value of which, per full-time equivalent student, is less than the average current market value of the endowment funds, per full-time equivalent student (other than any endowment fund built under section 1065 of this title as in effect on September 30, 1986 , and under part B) at similar institutions; or
     - **(B)** which has expenditures per full-time equivalent student for library materials which is less than the average of the expenditures for library materials per full-time equivalent student by other similarly situated institutions.
   - **(3)** Special consideration shall be given to applications which propose, pursuant to the institution’s plan, to engage in—
     - **(A)** faculty development;
@@ -42,4 +42,4 @@ generated_at: "2026-03-29T18:05:00.057Z"
 - **(d)**
   - **(1)** An eligible institution may use not more than 20 percent of the grant funds provided under this part to establish or increase an endowment fund at such institution.
   - **(2)** In order to be eligible to use grant funds in accordance with paragraph (1), the eligible institution shall provide matching funds from non-Federal sources, in an amount equal to or greater than the Federal funds used in accordance with paragraph (1), for the establishment or increase of the endowment fund.
-  - **(3)** The provisions of part C of this subchapter, regarding the establishment or increase of an endowment fund, that the Secretary determines are not inconsistent with this subsection, shall apply to funds used under paragraph (1).
+  - **(3)** The provisions of part C, regarding the establishment or increase of an endowment fund, that the Secretary determines are not inconsistent with this subsection, shall apply to funds used under paragraph (1).

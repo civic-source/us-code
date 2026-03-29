@@ -3,15 +3,15 @@ title: "Section 182c - Revolving fund for FEDLINK program and Federal Research p
 usc_title: 2
 usc_section: "182c"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "2 U.S.C. § 182c"
-generated_at: "2026-03-29T18:03:21.724Z"
+generated_at: "2026-03-29T18:23:14.057Z"
 ---
 
 # § 182c. Revolving fund for FEDLINK program and Federal Research program
 
-- **(a)** There is hereby established in the Treasury a revolving fund for the Federal Library and Information Network program (hereafter in sections 182a to 182d of this title referred to as the “FEDLINK program”) of the Library of Congress (as described in subsection (f)(1) of this section) and the Federal Research program of the Library of Congress (as described in subsection (f)(2) of this section).
-- **(b)** A separate account shall be maintained in the revolving fund under this section with respect to the programs described in subsection (a) of this section.
+- **(a)** There is hereby established in the Treasury a revolving fund for the Federal Library and Information Network program (hereafter in sections 182a to 182d of this title referred to as the “FEDLINK program”) of the Library of Congress (as described in subsection (f)(1)) and the Federal Research program of the Library of Congress (as described in subsection (f)(2)).
+- **(b)** A separate account shall be maintained in the revolving fund under this section with respect to the programs described in subsection (a).
 - **(c)**
   - **(1)** The Librarian may charge a fee for services under the FEDLINK program and the Federal Research program, and shall deposit any such fees charged into the account of the revolving fund under this section for such program.
   - **(2)** Participants in the FEDLINK program and the Federal Research program shall pay for products and services of the program by advance of funds—
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T18:03:21.724Z"
     - **(B)** upon agreement between participants and the Librarian.
 - **(d)**
   - **(1)** Each account of the revolving fund under this section shall consist of the following amounts:
-    - **(A)** Amounts deposited by the Librarian under subsection (c) of this section.
+    - **(A)** Amounts deposited by the Librarian under subsection (c).
     - **(B)** Any other amounts received by the Librarian which are attributable to the program covered by such account.
     - **(C)** Amounts deposited by the Librarian under paragraph (2).
     - **(D)** Such other amounts as may be appropriated under law.

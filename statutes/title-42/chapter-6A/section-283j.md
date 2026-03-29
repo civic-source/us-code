@@ -3,9 +3,9 @@ title: "Section 283j - Review of centers of excellence"
 usc_title: 42
 usc_section: "283j"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 283j"
-generated_at: "2026-03-29T18:07:13.391Z"
+generated_at: "2026-03-29T18:27:02.629Z"
 ---
 
 # § 283j. Review of centers of excellence

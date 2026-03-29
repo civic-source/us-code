@@ -3,14 +3,14 @@ title: "Section 360cc - Protection for drugs for rare diseases or conditions"
 usc_title: 21
 usc_section: "360cc"
 chapter: 9
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 360cc"
-generated_at: "2026-03-29T18:05:14.800Z"
+generated_at: "2026-03-29T18:25:04.143Z"
 ---
 
 # § 360cc. Protection for drugs for rare diseases or conditions
 
-- **(a)** Except as provided in subsection (b) of this section, if the Secretary—
+- **(a)** Except as provided in subsection (b), if the Secretary—
   - **(1)** approves an application filed pursuant to section 355 of this title , or
   - **(2)** issues a license under section 262 of title 42
 - **(b)** If an application filed pursuant to section 355 of this title is approved for a drug designated under section 360bb of this title for a rare disease or condition or if a license is issued under section 262 of title 42 for such a drug, the Secretary may, during the seven-year period beginning on the date of the application approval or of the issuance of the license, approve another application under section 355 of this title or issue a license under section 262 of title 42 , for such drug for such disease or condition for a person who is not the holder of such approved application or of such license if—

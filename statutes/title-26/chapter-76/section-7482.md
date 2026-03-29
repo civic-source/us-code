@@ -3,9 +3,9 @@ title: "Section 7482 - Courts of review"
 usc_title: 26
 usc_section: "7482"
 chapter: 76
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 7482"
-generated_at: "2026-03-29T18:05:45.056Z"
+generated_at: "2026-03-29T18:25:53.975Z"
 ---
 
 # § 7482. Courts of review
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T18:05:45.056Z"
     - **(C)** in the case of a person seeking a declaratory decision under section 7476, the principal place of business, or principal office or agency of the employer,
     - **(D)** in the case of an organization seeking a declaratory decision under section 7428, the principal office or agency of the organization,
     - **(E)** in the case of a petition under section 6226, 6228(a), 6247, or 6252, the principal place of business of the partnership, or
-    - **(F)** in the case of a petition under section 6234(c)—
+    - **(F)** 1 1 See Amendment of Subsection (b)(1) notes below. in the case of a petition under section 6234(c)—
       - **(i)** the legal residence of the petitioner if the petitioner is not a corporation, and
       - **(ii)** the place or office applicable under subparagraph (B) if the petitioner is a corporation.
   - **(2)** Notwithstanding the provisions of paragraph (1), such decisions may be reviewed by any United States Court of Appeals which may be designated by the Secretary and the taxpayer by stipulation in writing.

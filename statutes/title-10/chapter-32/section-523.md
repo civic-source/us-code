@@ -3,9 +3,9 @@ title: "Section 523 - Authorized strengths: commissioned officers on active duty
 usc_title: 10
 usc_section: "523"
 chapter: 32
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 523"
-generated_at: "2026-03-29T18:04:12.989Z"
+generated_at: "2026-03-29T18:23:51.744Z"
 ---
 
 # § 523. Authorized strengths: commissioned officers on active duty in grades of major, lieutenant colonel, and colonel and Navy grades of lieutenant commander, commander, and captain
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T18:04:12.989Z"
   - **(4)** Dental officers.
   - **(5)** Warrant officers.
   - **(6)** Retired officers on active duty under a call or order to active duty for 180 days or less.
-  - **(7)** Retired officers on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) for the administration of the Selective Service System.
+  - **(7)** Retired officers on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) 1 1 See References in Text note below. for the administration of the Selective Service System.
   - **(8)** Permanent professors of the United States Military Academy and the United States Air Force Academy and professors of the United States Naval Academy who are career military professors (as defined in regulations prescribed by the Secretary of the Navy), but not to exceed 50 from any such academy.
 - **(c)** Whenever the number of officers serving in any grade is less than the number authorized for that grade under this section, the difference between the two numbers may be applied to increase the number authorized under this section for any lower grade.
 - **(d)** An officer may not be reduced in grade, or have his pay or allowances reduced, because of a reduction in the number of commissioned officers authorized for his grade under this section.

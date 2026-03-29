@@ -3,9 +3,9 @@ title: "Section 1 - Kentucky fish hatchery; authorization of appropriations"
 usc_title: 16
 usc_section: "1"
 chapter: 9
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-29T18:05:06.824Z"
+generated_at: "2026-03-29T18:24:22.704Z"
 ---
 
 # § 760–1. Kentucky fish hatchery; authorization of appropriations

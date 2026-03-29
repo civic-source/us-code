@@ -3,9 +3,9 @@ title: "Section 3489 - General extension of authorizations"
 usc_title: 20
 usc_section: "3489"
 chapter: 48
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 3489"
-generated_at: "2026-03-29T18:05:00.258Z"
+generated_at: "2026-03-29T18:24:41.085Z"
 ---
 
 # § 3489. General extension of authorizations
@@ -23,6 +23,6 @@ Subject to the limitations contained in subtitle A of this title, there are auth
   - **(9)** the Joint Resolution of October 19, 1972 ( 86 Stat. 907 );
   - **(10)** the Vocational Education Act of 1963; 1
   - **(11)** title IV of the Civil Rights Act of 1964 [ 42 U.S.C. 2000c et seq.];
-  - **(12)** the Navajo Community College Act [ 25 U.S.C. 640a et seq.] and the Tribally Controlled Colleges and Universities Assistance Act of 1978 [ 25 U.S.C. 1801 et seq.];
+  - **(12)** the Navajo Community College Act and the Tribally Controlled Colleges and Universities Assistance Act of 1978 [ 25 U.S.C. 1801 et seq.];
   - **(13)** part C of title IX of the Elementary and Secondary Education Act of 1965, 1 relating to Women’s Educational Equity; and
   - **(14)** title VII of the Elementary and Secondary Education Act of 1965. 1

@@ -3,14 +3,14 @@ title: "Section 398 - Federal interference or control"
 usc_title: 47
 usc_section: "398"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "47 U.S.C. § 398"
-generated_at: "2026-03-29T18:07:40.865Z"
+generated_at: "2026-03-29T18:27:09.571Z"
 ---
 
 # § 398. Federal interference or control
 
-- **(a)** Nothing contained in this part shall be deemed (1) to amend any other provision of, or requirement under, this chapter; or (2) except to the extent authorized in subsection (b) of this section, to authorize any department, agency, officer, or employee of the United States to exercise any direction, supervision, or control over public telecommunications, or over the Corporation or any of its grantees or contractors, or over the charter or bylaws of the Corporation, or over the curriculum, program of instruction, or personnel of any educational institution, school system, or public telecommunications entity.
+- **(a)** Nothing contained in this part shall be deemed (1) to amend any other provision of, or requirement under, this chapter; or (2) except to the extent authorized in subsection (b), to authorize any department, agency, officer, or employee of the United States to exercise any direction, supervision, or control over public telecommunications, or over the Corporation or any of its grantees or contractors, or over the charter or bylaws of the Corporation, or over the curriculum, program of instruction, or personnel of any educational institution, school system, or public telecommunications entity.
 - **(b)**
   - **(1)** Equal opportunity in employment shall be afforded to all persons by the Public Broadcasting Service and National Public Radio (or any successor organization) and by all public telecommunications entities receiving funds pursuant to subpart C 1 1 See References in Text note below. (hereinafter in this subsection referred to as “recipients”), in accordance with the equal employment opportunity regulations of the Commission, and no person shall be subjected to discrimination in employment by any recipient on the grounds of race, color, religion, national origin, or sex.
   - **(2)**

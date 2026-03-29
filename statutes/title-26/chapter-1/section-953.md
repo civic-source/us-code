@@ -3,9 +3,9 @@ title: "Section 953 - Insurance income"
 usc_title: 26
 usc_section: "953"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 953"
-generated_at: "2026-03-29T18:05:44.748Z"
+generated_at: "2026-03-29T18:25:53.692Z"
 ---
 
 # § 953. Insurance income
@@ -143,5 +143,4 @@ generated_at: "2026-03-29T18:05:44.748Z"
     - **(F)** premiums from a contract shall not be taken into account for purposes of paragraph (2)(B) or (3) if such contract reinsures a contract issued or reinsured by a related person (as defined in section 954(d)(3)).
   - **(8)** In determining insurance income for purposes of subsection (c), exempt insurance income shall not include income derived from exempt contracts which cover risks other than applicable home country risks.
   - **(9)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection and section 954(i).
-  - **(10)** This subsection and section 954(i) shall apply only to taxable years of a foreign corporation beginning after December 31, 1998 , and before January 1, 2014 , and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends. If this subsection does not apply to a taxable year of a foreign corporation beginning after December 31, 2013 (and taxable years of United States shareholders ending with or within such taxable year), then, notwithstanding the preceding sentence, subsection (a) shall be applied to such taxable years in the same manner as it would if the taxable year of the foreign corporation began in 1998.
-  - **(11)** For income exempt from foreign personal holding company income, see section 954(i).
+  - **(10)** For income exempt from foreign personal holding company income, see section 954(i).

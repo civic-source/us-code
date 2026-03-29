@@ -3,9 +3,9 @@ title: "Section 2581 - Auction of import licenses"
 usc_title: 19
 usc_section: "2581"
 chapter: 13
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 2581"
-generated_at: "2026-03-29T18:04:55.111Z"
+generated_at: "2026-03-29T18:24:16.180Z"
 ---
 
 # § 2581. Auction of import licenses
@@ -15,6 +15,6 @@ generated_at: "2026-03-29T18:04:55.111Z"
   - **(1)** section 125, 203, 301, or 406 of the Trade Act of 1974 ( 19 U.S.C. 2135 , 2253, 2411, or 2436),
   - **(2)** the International Emergency Economic Powers Act ( 50 U.S.C. 1701–170 6),
   - **(3)** authority under the notes of the Harmonized Tariff Schedule of the United States, but not including any quantitative restriction imposed under section 22 of the Agricultural Adjustment Act of 1934 ( 7 U.S.C. 624 ),
-  - **(4)** the Trading With the Enemy Act (50 U.S.C. App. 1–44),
+  - **(4)** the Trading With the Enemy Act (50 U.S.C. App. 1–44), 1 1 See References in Text note below.
   - **(5)** section 204 of the Agricultural Act of 1956 ( 7 U.S.C. 1854 ) other than for meat or meat products, or
   - **(6)** any Act enacted explicitly for the purpose of implementing an international agreement to which the United States is a party, including such agreements relating to commodities, but not including any agreement relating to cheese or dairy products.

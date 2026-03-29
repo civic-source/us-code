@@ -1,12 +1,12 @@
 ---
-title: "Section 4195 - Repealed. Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 234(a)], Nov. 29, 1999 , 113 Stat. 1536 , 1501A–426"
+title: "Section 4195 - Repealed. Pub. L. 106–113, div. B , § 1000(a)(7) [div. A, title II, § 234(a)], Nov. 29, 1999 , 113 Stat. 1536 , 1501A–426"
 usc_title: 22
 usc_section: "4195"
 chapter: 52
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 4195"
-generated_at: "2026-03-29T18:05:21.953Z"
+generated_at: "2026-03-29T18:24:54.314Z"
 ---
 
-# § 4195. Repealed. Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 234(a)], Nov. 29, 1999 , 113 Stat. 1536 , 1501A–426
+# § 4195. Repealed. Pub. L. 106–113, div. B , § 1000(a)(7) [div. A, title II, § 234(a)], Nov. 29, 1999 , 113 Stat. 1536 , 1501A–426
 

@@ -3,9 +3,9 @@ title: "Section 321c - Department and Agency officials"
 usc_title: 6
 usc_section: "321c"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "6 U.S.C. § 321c"
-generated_at: "2026-03-29T18:03:43.252Z"
+generated_at: "2026-03-29T18:23:35.746Z"
 ---
 
 # § 321c. Department and Agency officials

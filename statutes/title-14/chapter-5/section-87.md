@@ -1,12 +1,14 @@
 ---
-title: "Section 87 - Repealed. Pub. L. 94–546, § 1(6) , (7), Oct. 18, 1976 , 90 Stat. 2519 ]"
+title: "Section 87 - Icebreaking in polar regions"
 usc_title: 14
 usc_section: "87"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "14 U.S.C. § 87"
-generated_at: "2026-03-29T18:04:21.479Z"
+generated_at: "2026-03-29T18:23:55.766Z"
 ---
 
-# [§ 87. Repealed. Pub. L. 94–546, § 1(6) , (7), Oct. 18, 1976 , 90 Stat. 2519 ]
+# § 87. Icebreaking in polar regions
+
+The President shall facilitate planning for the design, procurement, maintenance, deployment, and operation of icebreakers as needed to support the statutory missions of the Coast Guard in the polar regions by allocating all funds to support icebreaking operations in such regions, except for recurring incremental costs associated with specific projects, to the Coast Guard.
 

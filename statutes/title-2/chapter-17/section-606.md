@@ -3,12 +3,12 @@ title: "Section 606 - Disposition of surplus or obsolete property"
 usc_title: 2
 usc_section: "606"
 chapter: 17
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "2 U.S.C. § 606"
-generated_at: "2026-03-29T18:03:21.755Z"
+generated_at: "2026-03-29T18:23:14.078Z"
 ---
 
 # § 606. Disposition of surplus or obsolete property
 
 - **(a)** The Director of the Congressional Budget Office shall have the authority, within the limits of available appropriations, to dispose of surplus or obsolete personal property by inter-agency transfer, donation, sale, trade-in, or discarding. Amounts received for the sale or trade-in of personal property shall be credited to funds available for the operations of the Congressional Budget Office and be available for the costs of acquiring the same or similar property. Such funds shall be available for such purposes during the fiscal year in which received and the following fiscal year.
-- **(b)** Subsection (a) of this section shall apply with respect to fiscal years beginning after September 30, 1996 .
+- **(b)** Subsection (a) shall apply with respect to fiscal years beginning after September 30, 1996 .

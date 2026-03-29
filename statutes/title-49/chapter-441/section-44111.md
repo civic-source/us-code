@@ -3,9 +3,9 @@ title: "Section 44111 - Modifications in registration and recordation system for
 usc_title: 49
 usc_section: "44111"
 chapter: 441
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 44111"
-generated_at: "2026-03-29T18:07:51.500Z"
+generated_at: "2026-03-29T18:27:16.593Z"
 ---
 
 # § 44111. Modifications in registration and recordation system for aircraft not providing air transportation
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T18:07:51.500Z"
     - **(J)** the lack of a system to ensure timely and adequate notice of the transfer of ownership of aircraft.
     - **(K)** the practice of allowing temporary operation and navigation of aircraft without the issuance of a certificate of registration.
 - **(d)**
-  - **(1)** The Administrator of the Federal Aviation Administration shall prescribe regulations to carry out this section and provide a written explanation of how the regulations address each of the deficiencies and abuses described in subsection (c) of this section. In prescribing the regulations, the Administrator of the Federal Aviation Administration shall consult with the Administrator of Drug Enforcement, the Commissioner of Customs, other law enforcement officials of the United States Government, representatives of State and local law enforcement officials, representatives of the general aviation aircraft industry, representatives of users of general aviation aircraft, and other interested persons.
+  - **(1)** The Administrator of the Federal Aviation Administration shall prescribe regulations to carry out this section and provide a written explanation of how the regulations address each of the deficiencies and abuses described in subsection (c) of this section. In prescribing the regulations, the Administrator of the Federal Aviation Administration shall consult with the Administrator of Drug Enforcement, the Commissioner of U.S. Customs and Border Protection, other law enforcement officials of the United States Government, representatives of State and local law enforcement officials, representatives of the general aviation aircraft industry, representatives of users of general aviation aircraft, and other interested persons.
   - **(2)** Regulations prescribed under this subsection shall require that—
     - **(A)** each individual listed in an application for registration of an aircraft provide with the application the individual’s driver’s license number; and
     - **(B)** each person (not an individual) listed in an application for registration of an aircraft provide with the application the person’s taxpayer identifying number.

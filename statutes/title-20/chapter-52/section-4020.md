@@ -3,9 +3,9 @@ title: "Section 4020 - Definitions"
 usc_title: 20
 usc_section: "4020"
 chapter: 52
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 4020"
-generated_at: "2026-03-29T18:05:00.267Z"
+generated_at: "2026-03-29T18:24:41.090Z"
 ---
 
 # § 4020. Definitions
@@ -21,7 +21,7 @@ For purposes of this subchapter:
     - **(A)** any local educational agency as defined in section 7801 of this title ; and
     - **(B)** the governing authority of any nonprofit elementary or secondary school.
   - **(5)** The term “nonprofit elementary or secondary school” means—
-    - **(A)** any elementary or secondary school as defined in section 7801 of this title owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual; and
+    - **(A)** any elementary school or secondary school as defined in section 7801 of this title owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual; and
     - **(B)** any school of any agency of the United States.
   - **(6)** The term “school buildings” means—
     - **(A)** structures suitable for use as classrooms, laboratories, libraries, school eating facilities, or facilities used for the preparation of food;

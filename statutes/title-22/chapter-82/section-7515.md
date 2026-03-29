@@ -3,9 +3,9 @@ title: "Section 7515 - Sense of Congress regarding promoting cooperation in opiu
 usc_title: 22
 usc_section: "7515"
 chapter: 82
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 7515"
-generated_at: "2026-03-29T18:05:22.030Z"
+generated_at: "2026-03-29T18:24:54.381Z"
 ---
 
 # § 7515. Sense of Congress regarding promoting cooperation in opium producing areas

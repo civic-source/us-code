@@ -3,9 +3,9 @@ title: "Section 2706 - Reprograming of funds; notice requirements"
 usc_title: 22
 usc_section: "2706"
 chapter: 38
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 2706"
-generated_at: "2026-03-29T18:05:21.879Z"
+generated_at: "2026-03-29T18:24:54.250Z"
 ---
 
 # § 2706. Reprograming of funds; notice requirements
@@ -18,5 +18,5 @@ generated_at: "2026-03-29T18:05:21.879Z"
   - **(5)** which reorganizes offices, programs, or activities;
   - **(6)** which involves contracting out functions which had been performed by Federal employees; or
   - **(7)** which involves a reprograming in excess of $1,000,000 or 10 per centum, whichever is less, and which (A) augments existing programs, projects, or activities, (B) reduces by 10 per centum or more the funding for any existing program, project, activity, or personnel approved by the Congress, or (C) results from any general savings from a reduction in personnel which would result in a change in existing programs, activities, or projects approved by the Congress.
-- **(b)** Funds appropriated for the Department of State may not be available for obligation or expenditure through any reprogramming described in subsection (a) of this section during the period which is the last 15 days in which such funds are available unless notice of such reprogramming is made before such period.
-- **(c)** The Secretary of State may waive the notification requirement of subsection (a) of this section, if the Secretary determines that failure to do so would pose a substantial risk to human health or welfare. In the case of any waiver under this subsection, notification to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations and the Committee on Appropriations of the House of Representatives shall be provided as soon as practicable, but not later than 3 days after taking the action to which the notification requirement was applicable, and shall contain an explanation of the emergency circumstances.
+- **(b)** Funds appropriated for the Department of State may not be available for obligation or expenditure through any reprogramming described in subsection (a) during the period which is the last 15 days in which such funds are available unless notice of such reprogramming is made before such period.
+- **(c)** The Secretary of State may waive the notification requirement of subsection (a), if the Secretary determines that failure to do so would pose a substantial risk to human health or welfare. In the case of any waiver under this subsection, notification to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations and the Committee on Appropriations of the House of Representatives shall be provided as soon as practicable, but not later than 3 days after taking the action to which the notification requirement was applicable, and shall contain an explanation of the emergency circumstances.

@@ -3,16 +3,16 @@ title: "Section 2008n - Rural telework"
 usc_title: 7
 usc_section: "2008n"
 chapter: 50
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 2008n"
-generated_at: "2026-03-29T18:04:04.925Z"
+generated_at: "2026-03-29T18:23:43.338Z"
 ---
 
 # § 2008n. Rural telework
 
 - **(a)** In this section:
-  - **(1)** The term “eligible organization” means a nonprofit entity, an educational institution, an Indian tribe (as defined in section 450b of title 25 ), or any other organization, in a rural area (except for the institute), that meets the requirements of this section and such other requirements as are established by the Secretary.
-  - **(2)** The term “institute” means a rural telework institute established using a grant under subsection (b) of this section.
+  - **(1)** The term “eligible organization” means a nonprofit entity, an educational institution, an Indian tribe (as defined in section 5304 of title 25 ), or any other organization, in a rural area (except for the institute), that meets the requirements of this section and such other requirements as are established by the Secretary.
+  - **(2)** The term “institute” means a rural telework institute established using a grant under subsection (b).
   - **(3)** The term “telework” means the use of telecommunications to perform work functions at a rural work center located outside the place of business of an employer.
 - **(b)**
   - **(1)** The Secretary shall make 1 or more grants to an eligible organization to pay the Federal share of the cost of establishing and operating a national rural telework institute to carry out projects described in paragraph (2).
@@ -46,4 +46,4 @@ generated_at: "2026-03-29T18:04:04.925Z"
   - **(5)** The amount of a grant provided to an eligible organization under this subsection shall be not less than $1,000,000 and not more than $2,000,000.
 - **(d)** An eligible organization that receives funds under this section shall be subject to the provisions of Federal law (including regulations) administered by the Secretary of Labor or the Equal Employment Opportunity Commission that govern the responsibilities of employers to employees.
 - **(e)** Not later than 180 days after May 13, 2002 , the Secretary shall promulgate regulations to carry out this section.
-- **(f)** There is authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2002 through 2007, of which $5,000,000 shall be provided to establish and support an institute under subsection (b) of this section.
+- **(f)** There is authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2002 through 2007, of which $5,000,000 shall be provided to establish and support an institute under subsection (b).

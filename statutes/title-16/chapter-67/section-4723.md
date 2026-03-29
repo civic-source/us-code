@@ -3,9 +3,9 @@ title: "Section 4723 - Regional coordination"
 usc_title: 16
 usc_section: "4723"
 chapter: 67
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 4723"
-generated_at: "2026-03-29T18:05:07.071Z"
+generated_at: "2026-03-29T18:24:22.914Z"
 ---
 
 # § 4723. Regional coordination
@@ -28,5 +28,5 @@ generated_at: "2026-03-29T18:05:07.071Z"
   - **(5)** provide advice to public and private individuals and entities concerning methods of preventing and controlling aquatic nuisance species infestations; and
   - **(6)** submit annually a report to the Task Force describing activities within the Western region related to aquatic nuisance species prevention, research, and control.
 - **(c)** The Task Force shall—
-  - **(1)** encourage the development and use of regional panels and other similar entities in regions in addition to the Great Lakes and Western regions (including providing financial assistance for the development and use of such entities) to carry out, with respect to those regions, activities that are similar to the activities described in subsections (a) and (b) of this section; and
+  - **(1)** encourage the development and use of regional panels and other similar entities in regions in addition to the Great Lakes and Western regions (including providing financial assistance for the development and use of such entities) to carry out, with respect to those regions, activities that are similar to the activities described in subsections (a) and (b); and
   - **(2)** cooperate with regional panels and similar entities that carry out the activities described in paragraph (1).

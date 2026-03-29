@@ -1,22 +1,12 @@
 ---
-title: "Section 2 - Establishment of National Center"
+title: "Section 2 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "2"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-29T18:05:06.727Z"
+generated_at: "2026-03-29T18:24:22.618Z"
 ---
 
-# § 470x–2. Establishment of National Center
+# § 470x–2. Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272
 
-- **(a)** There is hereby established within the Department of the Interior a National Center for Preservation Technology and Training. The Center shall be located at Northwestern State University of Louisiana in Natchitoches, Louisiana.
-- **(b)** The purposes of the Center shall be to—
-  - **(1)** develop and distribute preservation and conservation skills and technologies for the identification, evaluation, conservation, and interpretation of prehistoric and historic resources;
-  - **(2)** develop and facilitate training for Federal, State and local resource preservation professionals, cultural resource managers, maintenance personnel, and others working in the preservation field;
-  - **(3)** take steps to apply preservation technology benefits from ongoing research by other agencies and institutions;
-  - **(4)** facilitate the transfer of preservation technology among Federal agencies, State and local governments, universities, international organizations, and the private sector; and
-  - **(5)** cooperate with related international organizations including, but not limited to the International Council on Monuments and Sites, the International Center for the Study of Preservation and Restoration of Cultural Property, and the International Council on Museums.
-- **(c)** Such purposes shall be carried out through research, professional training, technical assistance, and programs for public awareness, and through a program of grants established under section 470x–4 of this title .
-- **(d)** The Center shall be headed by an Executive Director with demonstrated expertise in historic preservation appointed by the Secretary with advice of the Board.
-- **(e)** The Secretary shall provide the Center assistance in obtaining such personnel, equipment, and facilities as may be needed by the Center to carry out its activities.

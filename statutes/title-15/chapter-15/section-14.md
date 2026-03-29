@@ -1,33 +1,12 @@
 ---
-title: "Section 14 - Dairy export incentive program"
+title: "Section 14 - Repealed. Pub. L. 113–79, title I , § 1423(a), Feb. 7, 2014 , 128 Stat. 695"
 usc_title: 15
 usc_section: "14"
 chapter: 15
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 14"
-generated_at: "2026-03-29T18:04:29.504Z"
+generated_at: "2026-03-29T18:24:08.405Z"
 ---
 
-# § 713a–14. Dairy export incentive program
+# § 713a–14. Repealed. Pub. L. 113–79, title I , § 1423(a), Feb. 7, 2014 , 128 Stat. 695
 
-- **(a)** During the period beginning 60 days after December 23, 1985 , and ending on December 31, 2012 , the Commodity Credit Corporation shall establish and operate an export incentive program as described in this section for dairy products under section 714c of this title .
-- **(b)** The program established under subsection (a) of this section shall provide for the Corporation to make payments, on a bid basis, to an entity that sells for export United States dairy products. The Secretary shall have sole discretion to accept or reject bids under such criteria as the Secretary deems appropriate.
-- **(c)** The program shall be operated under such rules and regulations issued by the Secretary as the Secretary deems necessary to ensure, among other things, that—
-  - **(1)** payments may be made under the program only on the quantity of dairy products sold by an entity for export in any year that is in addition to, and not in place of, any export sales of dairy products that the entity would otherwise make in the absence of the program;
-  - **(2)** to the extent practicable, dairy products sold for export under the program will not displace commercial export sales of United States dairy products by other exporters;
-  - **(3)** the maximum volume of dairy product exports allowable consistent with the obligations of the United States under the Uruguay Round Agreements approved under section 3511 of title 19 is exported under the program each year (minus the volume sold under section 1163 of this Act during that year), except to the extent that the export of such a volume under the program would, in the judgment of the Secretary, exceed the limitations on the value permitted under subsection (f); and
-  - **(4)** payments may be made under the program for exports to any destination in the world for the purpose of market development, except a destination in a country with respect to which shipments from the United States are otherwise restricted by law.
-- **(d)**
-  - **(1)** The regulations issued by the Secretary may provide for payments under the program to be made in cash or in commodities of equal value that are available in Commodity Credit Corporation stock.
-  - **(2)** If payments in commodities are authorized, such payments shall be made through the issuance of generic certificates redeemable in commodities.
-  - **(3)** If generic certificates issued in accordance with the program provided for by this section are exchanged for dairy products owned by the Commodity Credit Corporation, the regulations issued by the Secretary shall ensure that—
-    - **(A)** such dairy products, or an equal quantity of other dairy products, will be sold for export by the entity; and
-    - **(B)** any such export sales by the entity—
-      - **(i)** will be in addition to, and not in place of, export sales of dairy products that the entity would otherwise make under the program or in the absence of the program; and
-      - **(ii)** to the extent practicable, will not displace commercial export sales of United States dairy products by other exporters.
-- **(e)**
-  - **(1)** The payments made under the program shall be made at a rate or rates established or approved by the Secretary, taking into consideration, among other things the type of product to be exported, the domestic price of dairy products, the world price of the dairy products, and any additional amount that may be required to assist in the development of world markets for United States dairy products.
-  - **(2)** Any such rate established or approved by the Secretary shall be published in the Federal Register or publicly announced through other appropriate means, and shall be at a level or levels as will encourage the exportation of United States dairy products by entities.
-- **(f)**
-  - **(1)** Except as provided in paragraph (2), the Commodity Credit Corporation shall in each year use money and commodities for the program under this section in the maximum amount consistent with the obligations of the United States under the Uruguay Round Agreements approved under section 3511 of title 19 , minus the amount expended under section 1163 of this Act during that year.
-  - **(2)** The Commodity Credit Corporation may not exceed the limitations specified in subsection (c)(3) of this section on the volume of allowable dairy product exports.

@@ -3,18 +3,18 @@ title: "Section 256d - Breast and cervical cancer information"
 usc_title: 42
 usc_section: "256d"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 256d"
-generated_at: "2026-03-29T18:07:13.336Z"
+generated_at: "2026-03-29T18:27:02.585Z"
 ---
 
 # § 256d. Breast and cervical cancer information
 
-- **(a)** As a condition of receiving grants, cooperative agreements, or contracts under this chapter, each of the entities specified in subsection (c) of this section shall, to the extent determined to be appropriate by the Secretary, make available information concerning breast and cervical cancer.
-- **(b)** In carrying out subsection (a) of this section, an entity specified in subsection (c) of this section—
+- **(a)** As a condition of receiving grants, cooperative agreements, or contracts under this chapter, each of the entities specified in subsection (c) shall, to the extent determined to be appropriate by the Secretary, make available information concerning breast and cervical cancer.
+- **(b)** In carrying out subsection (a), an entity specified in subsection (c)—
   - **(1)** may make the information involved available to such individuals as the entity determines appropriate;
-  - **(2)** may, as appropriate, provide information under subsection (a) of this section on the need for self-examination of the breasts and on the skills for such self-examinations;
-  - **(3)** shall provide information under subsection (a) of this section in the language and cultural context most appropriate to the individuals to whom the information is provided; and
+  - **(2)** may, as appropriate, provide information under subsection (a) on the need for self-examination of the breasts and on the skills for such self-examinations;
+  - **(3)** shall provide information under subsection (a) in the language and cultural context most appropriate to the individuals to whom the information is provided; and
   - **(4)** shall refer such clients as the entities determine appropriate for breast and cervical cancer screening, treatment, or other appropriate services.
 - **(c)** The entities specified in this subsection are the following:
   - **(1)** Entities receiving assistance under section 247b–7 1 1 See References in Text note below. of this title (relating to tuberculosis).
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T18:07:13.336Z"
   - **(4)** Community health centers receiving assistance under section 254c 1 of this title.
   - **(5)** Entities receiving assistance under section 254b(h) of this title (relating to homeless individuals).
   - **(6)** Entities receiving assistance under section 256a 1 of this title (relating to health services for residents of public housing).
-  - **(7)** Entities providing services with assistance under subchapter III–A of this chapter or subchapter XVII of this chapter.
+  - **(7)** Entities providing services with assistance under subchapter III–A or subchapter XVII.
   - **(8)** Entities receiving assistance under section 300 of this title (relating to family planning).
-  - **(9)** Entities receiving assistance under subchapter XXIV of this chapter (relating to services with respect to acquired immune deficiency syndrome).
-  - **(10)** Non-Federal entities authorized under the Indian Self-Determination Act [ 25 U.S.C. 450f et seq.].
+  - **(9)** Entities receiving assistance under subchapter XXIV (relating to services with respect to acquired immune deficiency syndrome).
+  - **(10)** Non-Federal entities authorized under the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.].

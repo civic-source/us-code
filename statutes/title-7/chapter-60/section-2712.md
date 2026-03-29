@@ -3,14 +3,14 @@ title: "Section 2712 - Refund of assessment from Egg Board"
 usc_title: 7
 usc_section: "2712"
 chapter: 60
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 2712"
-generated_at: "2026-03-29T18:04:04.999Z"
+generated_at: "2026-03-29T18:23:43.405Z"
 ---
 
 # § 2712. Refund of assessment from Egg Board
 
-- **(a)** Notwithstanding any other provisions of this chapter except as provided in subsection (b) of this section, any egg producer against whose commercial eggs any assessment is made and collected from him under authority of this chapter and who is not in favor of supporting the programs as provided for herein shall have the right to demand and receive from the Egg Board a refund of such assessment: Provided , That such demand shall be made personally by such producer in accordance with regulations and on a form and within a time period prescribed by the Board and approved by the Secretary but in no event more than ninety days after the end of the month in which the assessments are due and collectable, and upon submission of proof satisfactory to the Board that the producer paid the assessment for which refund is sought, and any such refund shall be made within sixty days after demand is received therefor.
+- **(a)** Notwithstanding any other provisions of this chapter except as provided in subsection (b), any egg producer against whose commercial eggs any assessment is made and collected from him under authority of this chapter and who is not in favor of supporting the programs as provided for herein shall have the right to demand and receive from the Egg Board a refund of such assessment: Provided , That such demand shall be made personally by such producer in accordance with regulations and on a form and within a time period prescribed by the Board and approved by the Secretary but in no event more than ninety days after the end of the month in which the assessments are due and collectable, and upon submission of proof satisfactory to the Board that the producer paid the assessment for which refund is sought, and any such refund shall be made within sixty days after demand is received therefor.
 - **(b)**
   - **(1)** With regard to each order issued under this chapter that provides for a producer refund, the Secretary shall amend such order to eliminate such refund.
   - **(2)** Notwithstanding sections 2708 and 2710 of this title, an amendment made by the Secretary pursuant to paragraph (1)—

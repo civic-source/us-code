@@ -1,12 +1,12 @@
 ---
-title: "Section 3688 - Repealed. Pub. L. 85–861, § 36B(10) , Sept. 2, 1958 , 72 Stat. 1570 ]"
+title: "Section 3688 - Repealed. Pub. L. 85–861 , § 36B(10), Sept. 2, 1958 , 72 Stat. 1570 ]"
 usc_title: 10
 usc_section: "3688"
 chapter: 353
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 3688"
-generated_at: "2026-03-29T18:04:13.231Z"
+generated_at: "2026-03-29T18:23:52.023Z"
 ---
 
-# [§ 3688. Repealed. Pub. L. 85–861, § 36B(10) , Sept. 2, 1958 , 72 Stat. 1570 ]
+# [§ 3688. Repealed. Pub. L. 85–861 , § 36B(10), Sept. 2, 1958 , 72 Stat. 1570 ]
 

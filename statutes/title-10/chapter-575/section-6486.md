@@ -3,9 +3,9 @@ title: "Section 6486 - Members of the Fleet Reserve and Fleet Marine Corps Reser
 usc_title: 10
 usc_section: "6486"
 chapter: 575
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 6486"
-generated_at: "2026-03-29T18:04:13.266Z"
+generated_at: "2026-03-29T18:23:52.057Z"
 ---
 
 # § 6486. Members of the Fleet Reserve and Fleet Marine Corps Reserve: release from active duty

@@ -3,16 +3,16 @@ title: "Section 1054 - Benefit accrual requirements"
 usc_title: 29
 usc_section: "1054"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 1054"
-generated_at: "2026-03-29T18:05:31.733Z"
+generated_at: "2026-03-29T18:25:43.065Z"
 ---
 
 # § 1054. Benefit accrual requirements
 
-- **(a)** Each pension plan shall satisfy the requirements of subsection (b)(3) of this section, and—
-  - **(1)** in the case of a defined benefit plan, shall satisfy the requirements of subsection (b)(1) of this section; and
-  - **(2)** in the case of a defined contribution plan, shall satisfy the requirements of subsection (b)(2) of this section.
+- **(a)** Each pension plan shall satisfy the requirements of subsection (b)(3), and—
+  - **(1)** in the case of a defined benefit plan, shall satisfy the requirements of subsection (b)(1); and
+  - **(2)** in the case of a defined contribution plan, shall satisfy the requirements of subsection (b)(2).
 - **(b)**
   - **(1)**
     - **(A)** A defined benefit plan satisfies the requirements of this paragraph if the accrued benefit to which each participant is entitled upon his separation from the service is not less than—
@@ -99,7 +99,7 @@ generated_at: "2026-03-29T18:05:31.733Z"
       - **(i)** all mandatory contributions made by the employee,
       - **(ii)** interest (if any) under the plan to the end of the last plan year to which section 1053(a)(2) of this title does not apply (by reason of the applicable effective date), and
       - **(iii)** interest on the sum of the amounts determined under clauses (i) and (ii) compounded annually—
-        - **(I)** at the rate of 120 percent of the Federal mid-term rate (as in effect under section 1274 of title 26 for the 1st month of a plan year for the period beginning with the 1st plan year to which subsection (a)(2) of this section applies by reason of the applicable effective date) and ending with the date on which the determination is being made, and
+        - **(I)** at the rate of 120 percent of the Federal mid-term rate (as in effect under section 1274 of title 26 for the 1st month of a plan year for the period beginning with the 1st plan year to which subsection (a)(2) applies by reason of the applicable effective date) and ending with the date on which the determination is being made, and
         - **(II)** at the interest rate which would be used under the plan under section 1055(g)(3) of this title (as of the determination date) for the period beginning with the determination date and ending on the date on which the employee attains normal retirement age.
     - **(D)** The Secretary of the Treasury is authorized to adjust by regulation the conversion factor described in subparagraph (B) from time to time as he may deem necessary. No such adjustment shall be effective for a plan year beginning before the expiration of 1 year after such adjustment is determined and published.
   - **(3)** For purposes of this section, in the case of any defined benefit plan, if an employee’s accrued benefit is to be determined as an amount other than an annual benefit commencing at normal retirement age, or if the accrued benefit derived from contributions made by an employee is to be determined with respect to a benefit other than an annual benefit in the form of a single life annuity (without ancillary benefits) commencing at normal retirement age, the employee’s accrued benefit, or the accrued benefits derived from contributions made by an employee, as the case may be, shall be the actuarial equivalent of such benefit or amount determined under paragraph (1) or (2).
@@ -107,10 +107,10 @@ generated_at: "2026-03-29T18:05:31.733Z"
 - **(d)** Notwithstanding section 1053(b)(1) of this title , for purposes of determining the employee’s accrued benefit under the plan, the plan may disregard service performed by the employee with respect to which he has received—
   - **(1)** a distribution of the present value of his entire nonforfeitable benefit if such distribution was in an amount (not more than the dollar limit under section 1053(e)(1) of this title ) permitted under regulations prescribed by the Secretary of the Treasury, or
   - **(2)** a distribution of the present value of his nonforfeitable benefit attributable to such service which he elected to receive.
-- **(e)** For purposes of determining the employee’s accrued benefit, the plan shall not disregard service as provided in subsection (d) of this section unless the plan provides an opportunity for the participant to repay the full amount of a distribution described in subsection (d) of this section with, in the case of a defined benefit plan, interest at the rate determined for purposes of subsection (c)(2)(C) of this section and provides that upon such repayment the employee’s accrued benefit shall be recomputed by taking into account service so disregarded. This subsection shall apply only in the case of a participant who—
+- **(e)** For purposes of determining the employee’s accrued benefit, the plan shall not disregard service as provided in subsection (d) unless the plan provides an opportunity for the participant to repay the full amount of a distribution described in subsection (d) with, in the case of a defined benefit plan, interest at the rate determined for purposes of subsection (c)(2)(C) and provides that upon such repayment the employee’s accrued benefit shall be recomputed by taking into account service so disregarded. This subsection shall apply only in the case of a participant who—
   - **(1)** received such a distribution in any plan year to which this section applies which distribution was less than the present value of his accrued benefit,
   - **(2)** resumes employment covered under the plan, and
-  - **(3)** repays the full amount of such distribution with, in the case of a defined benefit plan, interest at the rate determined for purposes of subsection (c)(2)(C) of this section.
+  - **(3)** repays the full amount of such distribution with, in the case of a defined benefit plan, interest at the rate determined for purposes of subsection (c)(2)(C).
 - **(f)** For the purposes of this part, an employer shall be treated as maintaining a plan if any employee of such employer accrues benefits under such plan by reason of service with such employer.
 - **(g)**
   - **(1)** The accrued benefit of a participant under a plan may not be decreased by an amendment of the plan, other than an amendment described in section 1082(d)(2) or 1441 of this title.
@@ -155,7 +155,7 @@ generated_at: "2026-03-29T18:05:31.733Z"
     - **(B)** The term “applicable pension plan” means—
       - **(i)** any defined benefit plan; or
       - **(ii)** an individual account plan which is subject to the funding standards of section 412 of title 26 .
-  - **(9)** For purposes of this subsection, a plan amendment which eliminates or reduces any early retirement benefit or retirement-type subsidy (within the meaning of subsection (g)(2)(A) of this section) shall be treated as having the effect of reducing the rate of future benefit accrual.
+  - **(9)** For purposes of this subsection, a plan amendment which eliminates or reduces any early retirement benefit or retirement-type subsidy (within the meaning of subsection (g)(2)(A)) shall be treated as having the effect of reducing the rate of future benefit accrual.
 - **(i)**
   - **(1)** In the case of a plan described in paragraph (3) which is maintained by an employer that is a debtor in a case under title 11 or similar Federal or State law, no amendment of the plan which increases the liabilities of the plan by reason of—
     - **(A)** any increase in benefits,
@@ -207,5 +207,15 @@ generated_at: "2026-03-29T18:05:31.733Z"
     - **(A)**
       - **(i)** In the case of the portion of an account to which paragraph (3) applies and which consists of employer securities acquired in a plan year beginning before January 1, 2007 , paragraph (3) shall only apply to the applicable percentage of such securities. This subparagraph shall be applied separately with respect to each class of securities.
       - **(ii)** Clause (i) shall not apply to an applicable individual who is a participant who has attained age 55 and completed at least 3 years of service before the first plan year beginning after December 31, 2005 .
-    - **(B)** For purposes of subparagraph (A), the applicable percentage shall be determined as follows: Plan year to which The applicable paragraph (3) applies: percentage is: 1st 33 2d 66 3d 100.
-- **(k)** For special rules relating to plan provisions adopted to preclude discrimination, see section 1053(c)(2) of this title .
+    - **(B)** For purposes of subparagraph (A), the applicable percentage shall be determined as follows: Plan year to which paragraph (3) applies: The applicable percentage is: 1st 33 2d 66 3d 100.
+- **(k)**
+  - **(1)** Notwithstanding section 1002(24) of this title , an applicable plan shall not be treated as failing to meet any requirement of this subchapter, or as failing to have a uniform normal retirement age for purposes of this subchapter, solely because the plan provides for a normal retirement age described in paragraph (2).
+  - **(2)** For purposes of this subsection—
+    - **(A)** The term “applicable plan” means a defined benefit plan the terms of which, on or before December 8, 2014 , provided for a normal retirement age which is the earlier of—
+      - **(i)** an age otherwise permitted under section 1002(24) of this title , or
+      - **(ii)** the age at which a participant completes the number of years (not less than 30 years) of benefit accrual service specified by the plan.
+    - **(B)** Subject to subparagraph (C), if, after December 8, 2014 , an applicable plan is amended to expand the application of the normal retirement age described in subparagraph (A) to additional participants or to employees of additional employers maintaining the plan, such plan shall also be treated as an applicable plan with respect to such participants or employees.
+    - **(C)** A defined benefit plan shall be an applicable plan only with respect to an individual who—
+      - **(i)** is a participant in the plan on or before January 1, 2017 , or
+      - **(ii)** is an employee at any time on or before January 1, 2017 , of any employer maintaining the plan, and who becomes a participant in such plan after such date.
+- **(l)** For special rules relating to plan provisions adopted to preclude discrimination, see section 1053(c)(2) of this title .

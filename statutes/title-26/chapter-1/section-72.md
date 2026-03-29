@@ -3,9 +3,9 @@ title: "Section 72 - Annuities; certain proceeds of endowment and life insurance
 usc_title: 26
 usc_section: "72"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 72"
-generated_at: "2026-03-29T18:05:44.462Z"
+generated_at: "2026-03-29T18:25:53.414Z"
 ---
 
 # § 72. Annuities; certain proceeds of endowment and life insurance contracts
@@ -39,7 +39,7 @@ generated_at: "2026-03-29T18:05:44.462Z"
   - **(3)** For purposes of subsection (b), the expected return under the contract shall be determined as follows:
     - **(A)** If the expected return under the contract, for the period on and after the annuity starting date, depends in whole or in part on the life expectancy of one or more individuals, the expected return shall be computed with reference to actuarial tables prescribed by the Secretary.
     - **(B)** If subparagraph (A) does not apply, the expected return is the aggregate of the amounts receivable under the contract as an annuity.
-  - **(4)** For purposes of this section, the annuity starting date in the case of any contract is the first day of the first period for which an amount is received as an annuity under the contract; except that if such date was before January 1, 1954 , then the annuity starting date is January 1, 1954 .
+  - **(4)** For purposes of this section, the annuity starting date in the case of any contract is the first day of the first period for which an amount is received as an annuity under the contract.
 - **(d)**
   - **(1)**
     - **(A)** In the case of any amount received as an annuity under a qualified employer retirement plan—
@@ -50,7 +50,7 @@ generated_at: "2026-03-29T18:05:44.462Z"
         - **(I)** the investment in the contract (as of the annuity starting date), by
         - **(II)** the number of anticipated payments determined under the table contained in clause (iii) (or, in the case of a contract to which subsection (c)(3)(B) applies, the number of monthly annuity payments under such contract).
       - **(ii)** Rules similar to the rules of paragraphs (2) and (3) of subsection (b) shall apply for purposes of this paragraph.
-      - **(iii)** If the annuity is payable over the life of a single individual, the number of anticipated payments shall be determined as follows: If the age of the annuitant on The number the annuity starting of anticipated date is: payments is: Not more than 55 360 More than 55 but not more than 60 310 More than 60 but not more than 65 260 More than 65 but not more than 70 210 More than 70 160.
+      - **(iii)** If the annuity is payable over the life of a single individual, the number of anticipated payments shall be determined as follows: If the age of the annuitant on the annuity starting date is: The number of anticipated payments is: Not more than 55 360 More than 55 but not more than 60 310 More than 60 but not more than 65 260 More than 65 but not more than 70 210 More than 70 160.
       - **(iv)** If the annuity is payable over the lives of more than 1 individual, the number of anticipated payments shall be determined as follows: If the combined ages of annuitants are: The number is: Not more than 110 410 More than 110 but not more than 120 360 More than 120 but not more than 130 310 More than 130 but not more than 140 260 More than 140 210.
     - **(C)** For purposes of this paragraph, investment in the contract shall be determined under subsection (c)(1) without regard to subsection (c)(2).
     - **(D)** If, in connection with the commencement of annuity payments under any qualified employer retirement plan, the taxpayer receives a lump-sum payment—
@@ -133,7 +133,7 @@ generated_at: "2026-03-29T18:05:44.462Z"
 - **(g)** Where any contract (or any interest therein) is transferred (by assignment or otherwise) for a valuable consideration, to the extent that the contract (or interest therein) does not, in the hands of the transferee, have a basis which is determined by reference to the basis in the hands of the transferor, then—
   - **(1)** for purposes of this section, only the actual value of such consideration, plus the amount of the premiums and other consideration paid by the transferee after the transfer, shall be taken into account in computing the aggregate amount of the premiums or other consideration paid for the contract;
   - **(2)** for purposes of subsection (c)(1)(B), there shall be taken into account only the aggregate amount received under the contract by the transferee before the annuity starting date, to the extent that such amount was excludable from gross income under this subtitle or prior income tax laws; and
-  - **(3)** the annuity starting date is January 1, 1954 , or the first day of the first period for which the transferee received an amount under the contract as an annuity, whichever is the later.
+  - **(3)** the annuity starting date is the first day of the first period for which the transferee received an amount under the contract as an annuity.
 - **(h)** If—
   - **(1)** a contract provides for payment of a lump sum in full discharge of an obligation under the contract, subject to an option to receive an annuity in lieu of such lump sum;
   - **(2)** the option is exercised within 60 days after the day on which such lump sum first became payable; and
@@ -305,7 +305,7 @@ generated_at: "2026-03-29T18:05:44.462Z"
   - **(4)**
     - **(A)** If—
       - **(i)** paragraph (1) does not apply to a distribution by reason of paragraph (2)(A)(iv), and
-      - **(ii)** the series of payments under such paragraph are subsequently modified (other than by reason of death or disability)—
+      - **(ii)** the series of payments under such paragraph are subsequently modified (other than by reason of death or disability or a distribution to which paragraph (10) applies)—
         - **(I)** before the close of the 5-year period beginning with the date of the first payment and after the employee attains age 59½, or
         - **(II)** before the employee attains age 59½,
     - **(B)** For purposes of this paragraph, the term “deferral period” means the period beginning with the taxable year in which (without regard to paragraph (2)(A)(iv)) the distribution would have been includible in gross income and ending with the taxable year in which the modification described in subparagraph (A) occurs.
@@ -336,8 +336,10 @@ generated_at: "2026-03-29T18:05:44.462Z"
       - **(ii)** such amount shall not be taken into account in determining whether section 408(d)(3)(B) applies to any other amount.
   - **(9)** For purposes of this subsection, a distribution from an eligible deferred compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A) shall be treated as a distribution from a qualified retirement plan described in 4974(c)(1) to the extent that such distribution is attributable to an amount transferred to an eligible deferred compensation plan from a qualified retirement plan (as defined in section 4974(c)).
   - **(10)**
-    - **(A)** In the case of a distribution to a qualified public safety employee from a governmental plan (within the meaning of section 414(d)) which is a defined benefit plan, paragraph (2)(A)(v) shall be applied by substituting “age 50” for “age 55”.
-    - **(B)** For purposes of this paragraph, the term “qualified public safety employee” means any employee of a State or political subdivision of a State who provides police protection, firefighting services, or emergency medical services for any area within the jurisdiction of such State or political subdivision.
+    - **(A)** In the case of a distribution to a qualified public safety employee from a governmental plan (within the meaning of section 414(d)), paragraph (2)(A)(v) shall be applied by substituting “age 50” for “age 55”.
+    - **(B)** For purposes of this paragraph, the term “qualified public safety employee” means—
+      - **(i)** any employee of a State or political subdivision of a State who provides police protection, firefighting services, or emergency medical services for any area within the jurisdiction of such State or political subdivision, or
+      - **(ii)** any Federal law enforcement officer described in section 8331(20) or 8401(17) of title 5, United States Code, any Federal customs and border protection officer described in section 8331(31) or 8401(36) of such title, any Federal firefighter described in section 8331(21) or 8401(14) of such title, any air traffic controller described in 8331(30) or 8401(35) of such title, any nuclear materials courier described in section 8331(27) or 8401(33) of such title, any member of the United States Capitol Police, any member of the Supreme Court Police, or any diplomatic security special agent of the Department of State.
 - **(u)**
   - **(1)** If any annuity contract is held by a person who is not a natural person—
     - **(A)** such contract shall not be treated as an annuity contract for purposes of this subtitle (other than subchapter L), and

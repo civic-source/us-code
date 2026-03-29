@@ -3,9 +3,9 @@ title: "Section 2387 - Procurement of table and kitchen equipment for officers�
 usc_title: 10
 usc_section: "2387"
 chapter: 141
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2387"
-generated_at: "2026-03-29T18:04:13.162Z"
+generated_at: "2026-03-29T18:23:51.941Z"
 ---
 
 # § 2387. Procurement of table and kitchen equipment for officers’ quarters: limitation on

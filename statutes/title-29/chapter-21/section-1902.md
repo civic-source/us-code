@@ -3,14 +3,14 @@ title: "Section 1902 - Continued operation of Center"
 usc_title: 29
 usc_section: "1902"
 chapter: 21
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 1902"
-generated_at: "2026-03-29T18:05:31.803Z"
+generated_at: "2026-03-29T18:25:43.126Z"
 ---
 
 # § 1902. Continued operation of Center
 
-- **(a)** The Secretary of Education shall continue to administer and support the Helen Keller National Center for Youths and Adults who are Deaf-Blind in the same manner as such Center was administered prior to February 22, 1984 , to the extent such manner of administration is not inconsistent with any purpose described in subsection (b) of this section or any other requirement of this chapter.
+- **(a)** The Secretary of Education shall continue to administer and support the Helen Keller National Center for Youths and Adults who are Deaf-Blind in the same manner as such Center was administered prior to February 22, 1984 , to the extent such manner of administration is not inconsistent with any purpose described in subsection (b) or any other requirement of this chapter.
 - **(b)** The purposes of the Center are to—
   - **(1)** provide specialized intensive services, or any other services, at the Center or anywhere else in the United States, which are necessary to encourage the maximum personal development of any individual who is deaf-blind;
   - **(2)** train family members of individuals who are deaf-blind at the Center or anywhere else in the United States, in order to assist family members in providing and obtaining appropriate services for the individual who is deaf-blind;

@@ -3,9 +3,9 @@ title: "Section 657 - Distribution of collected support"
 usc_title: 42
 usc_section: "657"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 657"
-generated_at: "2026-03-29T18:07:13.750Z"
+generated_at: "2026-03-29T18:27:02.922Z"
 ---
 
 # § 657. Distribution of collected support
@@ -42,9 +42,9 @@ generated_at: "2026-03-29T18:07:13.750Z"
   - **(2)**
     - **(A)** Any rights to support obligations accruing before the date on which a family first receives assistance under part A that are assigned to a State under that part and in effect before the implementation date of this section may remain assigned after such date.
     - **(B)** If a State chooses to discontinue the assignment of a support obligation described in subparagraph (A), the State may treat amounts collected pursuant to the assignment as if the amounts had never been assigned and may distribute the amounts to the family in accordance with subsection (a)(4).
-- **(c)** As used in subsection (a) of this section:
+- **(c)** As used in subsection (a):
   - **(1)** The term “assistance from the State” means—
-    - **(A)** assistance under the State program funded under part A of this subchapter or under the State plan approved under part A of this subchapter (as in effect on the day before August 22, 1996 ); and
+    - **(A)** assistance under the State program funded under part A or under the State plan approved under part A of this subchapter (as in effect on the day before August 22, 1996 ); and
     - **(B)** foster care maintenance payments under the State plan approved under part E of this subchapter.
   - **(2)** The term “Federal share” means that portion of the amount collected resulting from the application of the Federal medical assistance percentage in effect for the fiscal year in which the amount is distributed.
   - **(3)** The term “Federal medical assistance percentage” means—
@@ -56,4 +56,4 @@ generated_at: "2026-03-29T18:07:13.750Z"
 - **(e)** Notwithstanding the preceding provisions of this section, amounts collected by a State as child support for months in any period on behalf of a child for whom a public agency is making foster care maintenance payments under part E of this subchapter—
   - **(1)** shall be retained by the State to the extent necessary to reimburse it for the foster care maintenance payments made with respect to the child during such period (with appropriate reimbursement of the Federal Government to the extent of its participation in the financing);
   - **(2)** shall be paid to the public agency responsible for supervising the placement of the child to the extent that the amounts collected exceed the foster care maintenance payments made with respect to the child during such period but not the amounts required by a court or administrative order to be paid as support on behalf of the child during such period; and the responsible agency may use the payments in the manner it determines will serve the best interests of the child, including setting such payments aside for the child’s future needs or making all or a part thereof available to the person responsible for meeting the child’s day-to-day needs; and
-  - **(3)** shall be retained by the State, if any portion of the amounts collected remains after making the payments required under paragraphs (1) and (2), to the extent that such portion is necessary to reimburse the State (with appropriate reimbursement to the Federal Government to the extent of its participation in the financing) for any past foster care maintenance payments (or payments of assistance under the State program funded under part A of this subchapter) which were made with respect to the child (and with respect to which past collections have not previously been retained);
+  - **(3)** shall be retained by the State, if any portion of the amounts collected remains after making the payments required under paragraphs (1) and (2), to the extent that such portion is necessary to reimburse the State (with appropriate reimbursement to the Federal Government to the extent of its participation in the financing) for any past foster care maintenance payments (or payments of assistance under the State program funded under part A) which were made with respect to the child (and with respect to which past collections have not previously been retained);

@@ -3,9 +3,9 @@ title: "Section 75 - Legal holiday, annual meeting on; proceedings where no elec
 usc_title: 12
 usc_section: "75"
 chapter: 2
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 75"
-generated_at: "2026-03-29T18:04:43.377Z"
+generated_at: "2026-03-29T18:24:02.729Z"
 ---
 
 # § 75. Legal holiday, annual meeting on; proceedings where no election held on proper day

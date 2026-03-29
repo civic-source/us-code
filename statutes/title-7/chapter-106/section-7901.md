@@ -3,14 +3,14 @@ title: "Section 7901 - Definitions"
 usc_title: 7
 usc_section: "7901"
 chapter: 106
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 7901"
-generated_at: "2026-03-29T18:04:05.142Z"
+generated_at: "2026-03-29T18:23:43.539Z"
 ---
 
 # § 7901. Definitions
 
-In this chapter (other than subchapter III of this chapter):
+In this chapter (other than subchapter III):
 
   - **(1)** The term “Agricultural Act of 1949” means the Agricultural Act of 1949 ( 7 U.S.C. 1421 et seq.), as in effect prior to the suspensions under section 7301 of this title .
   - **(2)** The term “base acres”, with respect to a covered commodity on a farm, means the number of acres established under section 7911 of this title with respect to the covered commodity on the election made by the owner of the farm under subsection (a) of such section.

@@ -1,12 +1,12 @@
 ---
-title: "Section 715 - Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(5) , (6), Dec. 23, 2022 , 136 Stat. 4165"
+title: "Section 715 - Omitted"
 usc_title: 33
 usc_section: "715"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 715"
-generated_at: "2026-03-29T02:14:18.518Z"
+generated_at: "2026-03-29T18:26:01.199Z"
 ---
 
-# §§ 714, 715. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(5) , (6), Dec. 23, 2022 , 136 Stat. 4165
+# §§ 711 to 715. Omitted
 

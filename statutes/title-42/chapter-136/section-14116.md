@@ -3,15 +3,15 @@ title: "Section 14116 - State application"
 usc_title: 42
 usc_section: "14116"
 chapter: 136
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 14116"
-generated_at: "2026-03-29T18:07:15.367Z"
+generated_at: "2026-03-29T18:27:04.157Z"
 ---
 
 # § 14116. State application
 
 - **(a)** Each State desiring an allotment under section 14112 of this title shall submit an application to the Director at such time, in such manner, and accompanied by such information as the Director may reasonably require.
-- **(b)** An application under subsection (a) of this section shall—
+- **(b)** An application under subsection (a) shall—
   - **(1)** describe the scholarship program and the student employment program for which assistance under this part is sought;
   - **(2)** contain assurances that the lead agency will work in cooperation with the local law enforcement liaisons, representatives of police labor organizations and police management organizations, and other appropriate State and local agencies to develop and implement interagency agreements designed to carry out this part;
   - **(3)** contain assurances that the State will advertise the scholarship assistance and student employment it will provide under this part and that the State will use such programs to enhance recruitment efforts;

@@ -3,9 +3,9 @@ title: "Section 549 - Donation of personal property through state agencies"
 usc_title: 40
 usc_section: "549"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "40 U.S.C. § 549"
-generated_at: "2026-03-29T18:06:19.948Z"
+generated_at: "2026-03-29T18:26:04.554Z"
 ---
 
 # § 549. Donation of personal property through state agencies
@@ -40,7 +40,7 @@ generated_at: "2026-03-29T18:06:19.948Z"
       - **(vi)** a radio or television station licensed by the Federal Communications Commission as an educational radio or educational television station;
       - **(vii)** a museum attended by the public;
       - **(viii)** a library serving free all residents of a community, district, State, or region; or
-      - **(ix)** a historic light station as defined under section 308(e)(2) of the National Historic Preservation Act ( 16 U.S.C. 470w–7(e)(2) ), including a historic light station conveyed under subsection (b) of that section, notwithstanding the number of hours that the historic light station is open to the public; or
+      - **(ix)** a historic light station as defined under section 305101(4) of title 54 , including a historic light station conveyed under section 305103 of title 54 , notwithstanding the number of hours that the historic light station is open to the public; or
     - **(C)** for purposes of providing services to veterans (as defined in section 101 of title 38 ), to an organization whose—
       - **(i)** membership comprises substantially veterans; and
       - **(ii)** representatives are recognized by the Secretary of Veterans Affairs under section 5902 of title 38 .

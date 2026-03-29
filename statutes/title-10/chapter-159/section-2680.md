@@ -1,12 +1,12 @@
 ---
-title: "Section 2680 - Repealed. Pub. L. 111–383, div. B, title XXVIII, § 2814(a) , Jan. 7, 2011 , 124 Stat. 4464 ]"
+title: "Section 2680 - Repealed. Pub. L. 111–383, div. B, title XXVIII , § 2814(a), Jan. 7, 2011 , 124 Stat. 4464 ]"
 usc_title: 10
 usc_section: "2680"
 chapter: 159
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2680"
-generated_at: "2026-03-29T18:04:13.201Z"
+generated_at: "2026-03-29T18:23:51.990Z"
 ---
 
-# [§ 2680. Repealed. Pub. L. 111–383, div. B, title XXVIII, § 2814(a) , Jan. 7, 2011 , 124 Stat. 4464 ]
+# [§ 2680. Repealed. Pub. L. 111–383, div. B, title XXVIII , § 2814(a), Jan. 7, 2011 , 124 Stat. 4464 ]
 

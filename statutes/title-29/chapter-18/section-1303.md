@@ -3,9 +3,9 @@ title: "Section 1303 - Operation of corporation"
 usc_title: 29
 usc_section: "1303"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 1303"
-generated_at: "2026-03-29T18:05:31.776Z"
+generated_at: "2026-03-29T18:25:43.104Z"
 ---
 
 # § 1303. Operation of corporation
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T18:05:31.776Z"
   - **(1)** Civil actions may be brought by the corporation for appropriate relief, legal or equitable or both, to enforce (A) the provisions of this subchapter, and (B) in the case of a plan which is covered under this subchapter (other than a multiemployer plan) and for which the conditions for imposition of a lien described in section 1083(k)(1)(A) and (B) or 1085a(g)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) or 433(g)(1)(A) and (B) of title 26 have been met, section 1082 of this title and section 412 of title 26 .
   - **(2)** Except as otherwise provided in this subchapter, where such an action is brought in a district court of the United States, it may be brought in the district where the plan is administered, where the violation took place, or where a defendant resides or may be found, and process may be served in any other district where a defendant resides or may be found.
   - **(3)** The district courts of the United States shall have jurisdiction of actions brought by the corporation under this subchapter without regard to the amount in controversy in any such action.
-  - **(4)** Repealed. Pub. L. 98–620, title IV, § 402(33) , Nov. 8, 1984 , 98 Stat. 3360 .
+  - **(4)** Repealed. Pub. L. 98–620, title IV , § 402(33), Nov. 8, 1984 , 98 Stat. 3360 .
   - **(5)** In any action brought under this subchapter, whether to collect premiums, penalties, and interest under section 1307 of this title or for any other purpose, the court may award to the corporation all or a portion of the costs of litigation incurred by the corporation in connection with such action.
   - **(6)**
     - **(A)** Except as provided in subparagraph (C), an action under this subsection may not be brought after the later of—
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T18:05:31.776Z"
       - **(ii)** If the corporation brings the action as a trustee, the applicable date specified in this subparagraph is the date on which the corporation became a trustee with respect to the plan if such date is later than the date described in clause (i).
     - **(C)** In the case of fraud or concealment, the period described in subparagraph (A)(ii) shall be extended to 6 years after the applicable date specified in subparagraph (B).
 - **(f)**
-  - **(1)** Except with respect to withdrawal liability disputes under part 1 of subtitle E of this subchapter, any person who is a fiduciary, employer, contributing sponsor, member of a contributing sponsor’s controlled group, participant, or beneficiary, and is adversely affected by any action of the corporation with respect to a plan in which such person has an interest, or who is an employee organization representing such a participant or beneficiary so adversely affected for purposes of collective bargaining with respect to such plan, may bring an action against the corporation for appropriate equitable relief in the appropriate court.
+  - **(1)** Except with respect to withdrawal liability disputes under part 1 of subtitle E, any person who is a plan sponsor, fiduciary, employer, contributing sponsor, member of a contributing sponsor’s controlled group, participant, or beneficiary, and is adversely affected by any action of the corporation with respect to a plan in which such person has an interest, or who is an employee organization representing such a participant or beneficiary so adversely affected for purposes of collective bargaining with respect to such plan, may bring an action against the corporation for appropriate equitable relief in the appropriate court.
   - **(2)** For purposes of this subsection, the term “appropriate court” means—
     - **(A)** the United States district court before which proceedings under section 1341 or 1342 of this title are being conducted,
     - **(B)** if no such proceedings are being conducted, the United States district court for the judicial district in which the plan has its principal office, or

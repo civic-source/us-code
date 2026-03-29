@@ -3,9 +3,9 @@ title: "Section 2334 - Independent cost estimation and cost analysis"
 usc_title: 10
 usc_section: "2334"
 chapter: 137
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2334"
-generated_at: "2026-03-29T18:04:13.150Z"
+generated_at: "2026-03-29T18:23:51.925Z"
 ---
 
 # § 2334. Independent cost estimation and cost analysis
@@ -18,12 +18,13 @@ generated_at: "2026-03-29T18:04:13.150Z"
   - **(5)** review all cost estimates and cost analyses conducted in connection with major defense acquisition programs and major automated information system programs;
   - **(6)** conduct independent cost estimates and cost analyses for major defense acquisition programs and major automated information system programs for which the Under Secretary of Defense for Acquisition, Technology, and Logistics is the Milestone Decision Authority—
     - **(A)** in advance of—
-      - **(i)** any certification under section 2366a or 2366b of this title;
+      - **(i)** any decision to grant milestone approval pursuant to section 2366a or 2366b of this title;
       - **(ii)** any decision to enter into low-rate initial production or full-rate production;
       - **(iii)** any certification under section 2433a of this title ; and
       - **(iv)** any report under section 2445c(f) of this title ; and
-    - **(B)** at any other time considered appropriate by the Director or upon the request of the Under Secretary of Defense for Acquisition, Technology, and Logistics; and
-  - **(7)** periodically assess and update the cost indexes used by the Department to ensure that such indexes have a sound basis and meet the Department’s needs for realistic cost estimation.
+    - **(B)** at any other time considered appropriate by the Director or upon the request of the Under Secretary of Defense for Acquisition, Technology, and Logistics;
+  - **(7)** periodically assess and update the cost indexes used by the Department to ensure that such indexes have a sound basis and meet the Department’s needs for realistic cost estimation; and
+  - **(8)** annually review the cost and associated information required to be included, by section 2432(c)(1) of this title , in the Selected Acquisition Reports required by that section.
 - **(b)** The Secretary of Defense shall ensure that the Director of Cost Assessment and Program Evaluation—
   - **(1)** promptly receives the results of all cost estimates and cost analyses conducted by the military departments and Defense Agencies, and all studies conducted by the military departments and Defense Agencies in connection with such cost estimates and cost analyses, for major defense acquisition programs and major automated information system programs of the military departments and Defense Agencies; and
   - **(2)** has timely access to any records and data in the Department of Defense (including the records and data of each military department and Defense Agency and including classified and proprietary information) that the Director considers necessary to review in order to carry out any duties under this section.
@@ -49,15 +50,4 @@ generated_at: "2026-03-29T18:04:13.150Z"
       - **(ii)** to acquire additional end items in accordance with the requirements of section 2308 of this title ; or
       - **(iii)** to cover the cost of risk reduction and process improvements; and
     - **(B)** may be reprogrammed, in accordance with established procedures, only if determined to be excess to program needs on the basis of a cost estimate developed with the concurrence of the Director of Cost Assessment and Program Evaluation.
-- **(f)**
-  - **(1)** The Director of Cost Assessment and Program Evaluation shall prepare an annual report summarizing the cost estimation and cost analysis activities of the Department of Defense during the previous year and assessing the progress of the Department in improving the accuracy of its cost estimates and analyses. Each report shall include, for the year covered by such report, an assessment of—
-    - **(A)** the extent to which each of the military departments and Defense Agencies have complied with policies, procedures, and guidance issued by the Director with regard to the preparation of cost estimates for major defense acquisition programs and major automated information systems;
-    - **(B)** the overall quality of cost estimates prepared by each of the military departments and Defense Agencies for major defense acquisition programs and major automated information system programs; and
-    - **(C)** any consistent differences in methodology or approach among the cost estimates prepared by the military departments, the Defense Agencies, and the Director.
-  - **(2)** Each report under this subsection shall be submitted concurrently to the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Under Secretary of Defense (Comptroller), and the congressional defense committees not later than 10 days after the transmittal to Congress of the budget of the President for the next fiscal year (as submitted pursuant to section 1105 of title 31 ).
-  - **(3)**
-    - **(A)** Each report submitted to the congressional defense committees under this subsection shall be submitted in unclassified form, but may include a classified annex.
-    - **(B)** The Director shall ensure that a report submitted under this subsection does not include any information, such as proprietary or source selection sensitive information, that could undermine the integrity of the acquisition process.
-    - **(C)** The unclassified version of each report submitted to the congressional defense committees under this subsection shall be posted on an Internet website of the Department of Defense that is available to the public.
-  - **(4)** The Secretary of Defense may comment on any report of the Director to the congressional defense committees under this subsection.
-- **(g)** The Secretary of Defense shall ensure that the Director of Cost Assessment and Program Evaluation has sufficient professional staff of military and civilian personnel to enable the Director to carry out the duties and responsibilities of the Director under this section.
+- **(f)** The Secretary of Defense shall ensure that the Director of Cost Assessment and Program Evaluation has sufficient professional staff of military and civilian personnel to enable the Director to carry out the duties and responsibilities of the Director under this section.

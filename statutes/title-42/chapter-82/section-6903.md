@@ -3,9 +3,9 @@ title: "Section 6903 - Definitions"
 usc_title: 42
 usc_section: "6903"
 chapter: 82
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 6903"
-generated_at: "2026-03-29T18:07:14.797Z"
+generated_at: "2026-03-29T18:27:03.729Z"
 ---
 
 # § 6903. Definitions
@@ -15,7 +15,7 @@ As used in this chapter:
   - **(1)** The term “Administrator” means the Administrator of the Environmental Protection Agency.
   - **(2)** The term “construction,” with respect to any project of construction under this chapter, means (A) the erection or building of new structures and acquisition of lands or interests therein, or the acquisition, replacement, expansion, remodeling, alteration, modernization, or extension of existing structures, and (B) the acquisition and installation of initial equipment of, or required in connection with, new or newly acquired structures or the expanded, remodeled, altered, modernized or extended part of existing structures (including trucks and other motor vehicles, and tractors, cranes, and other machinery) necessary for the proper utilization and operation of the facility after completion of the project; and includes preliminary planning to determine the economic and engineering feasibility and the public health and safety aspects of the project, the engineering, architectural, legal, fiscal, and economic investigations and studies, and any surveys, designs, plans, working drawings, specifications, and other action necessary for the carrying out of the project, and (C) the inspection and supervision of the process of carrying out the project to completion. (2A) The term “demonstration” means the initial exhibition of a new technology process or practice or a significantly new combination or use of technologies, processes or practices, subsequent to the development stage, for the purpose of proving technological feasibility and cost effectiveness.
   - **(3)** The term “disposal” means the discharge, deposit, injection, dumping, spilling, leaking, or placing of any solid waste or hazardous waste into or on any land or water so that such solid waste or hazardous waste or any constituent thereof may enter the environment or be emitted into the air or discharged into any waters, including ground waters.
-  - **(4)** The term “Federal agency” means any department, agency, or other instrumentality of the Federal Government, any independent agency or establishment of the Federal Government including any Government corporation, and the Government Printing Office.
+  - **(4)** The term “Federal agency” means any department, agency, or other instrumentality of the Federal Government, any independent agency or establishment of the Federal Government including any Government corporation, and the Government Publishing Office.
   - **(5)** The term “hazardous waste” means a solid waste, or combination of solid wastes, which because of its quantity, concentration, or physical, chemical, or infectious characteristics may—
     - **(A)** cause, or significantly contribute to an increase in mortality or an increase in serious irreversible, or incapacitating reversible, illness; or
     - **(B)** pose a substantial present or potential hazard to human health or the environment when improperly treated, stored, transported, or disposed of, or otherwise managed.
@@ -59,5 +59,5 @@ As used in this chapter:
   - **(37)** The term “recycled oil” means any used oil which is reused, following its original use, for any purpose (including the purpose for which the oil was originally used). Such term includes oil which is re-refined, reclaimed, burned, or reprocessed.
   - **(38)** The term “lubricating oil” means the fraction of crude oil which is sold for purposes of reducing friction in any industrial or mechanical device. Such term includes re-refined oil.
   - **(39)** The term “re-refined oil” means used oil from which the physical and chemical contaminants acquired through previous use have been removed through a refining process.
-  - **(40)** Except as otherwise provided in this paragraph, the term “medical waste” means any solid waste which is generated in the diagnosis, treatment, or immunization of human beings or animals, in research pertaining thereto, or in the production or testing of biologicals. Such term does not include any hazardous waste identified or listed under subchapter III of this chapter or any household waste as defined in regulations under subchapter III of this chapter.
+  - **(40)** Except as otherwise provided in this paragraph, the term “medical waste” means any solid waste which is generated in the diagnosis, treatment, or immunization of human beings or animals, in research pertaining thereto, or in the production or testing of biologicals. Such term does not include any hazardous waste identified or listed under subchapter III or any household waste as defined in regulations under subchapter III.
   - **(41)** The term “mixed waste” means waste that contains both hazardous waste and source, special nuclear, or by-product material subject to the Atomic Energy Act of 1954 ( 42 U.S.C. 2011 et seq.).

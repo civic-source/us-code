@@ -3,9 +3,9 @@ title: "Section 3110 - Tribal forestry programs"
 usc_title: 25
 usc_section: "3110"
 chapter: 33
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 3110"
-generated_at: "2026-03-29T18:05:17.238Z"
+generated_at: "2026-03-29T18:25:23.799Z"
 ---
 
 # § 3110. Tribal forestry programs
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T18:05:17.238Z"
   - **(1)** The Secretary, with the participation of Indian tribes with Indian forest lands, shall establish, and promulgate by regulations, a formula—
     - **(A)** for the determination of Indian tribes eligible for such support,
     - **(B)** for the provision of levels of assistance for the forestry programs of such tribes, and
-    - **(C)** the allocation of base support funds to such tribes under the program established pursuant to subsection (a) of this section.
+    - **(C)** the allocation of base support funds to such tribes under the program established pursuant to subsection (a).
   - **(2)** The formula established pursuant to this subsection shall provide funding necessary to support—
     - **(A)** one professional forester, including fringe benefits and support costs, for each eligible tribe, and
     - **(B)** one additional professional forester or forest technician, including fringe benefits and support costs, for each level of assistance for which an eligible Indian tribe qualifies.

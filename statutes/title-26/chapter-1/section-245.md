@@ -3,9 +3,9 @@ title: "Section 245 - Dividends received from certain foreign corporations"
 usc_title: 26
 usc_section: "245"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 245"
-generated_at: "2026-03-29T18:05:44.547Z"
+generated_at: "2026-03-29T18:25:53.492Z"
 ---
 
 # § 245. Dividends received from certain foreign corporations
@@ -29,6 +29,7 @@ generated_at: "2026-03-29T18:05:44.547Z"
     - **(B)** under a treaty obligation of the United States (applied without regard to this subsection), such portion would be treated as arising from sources outside the United States, and
     - **(C)** the taxpayer chooses the benefits of this paragraph,
   - **(11)** For purposes of this subsection, the term “dividend” does not include any amount treated as a dividend under section 1248.
+  - **(12)** Regulated investment companies and real estate investment trusts shall not be treated as domestic corporations for purposes of paragraph (5)(B).
 - **(b)**
   - **(1)** In the case of dividends described in paragraph (2) received from a foreign corporation by a domestic corporation which, for its taxable year in which such dividends are received, owns (directly or indirectly) all of the outstanding stock of such foreign corporation, there shall be allowed as a deduction (in lieu of the deduction provided by subsection (a)) an amount equal to 100 percent of such dividends.
   - **(2)** Paragraph (1) shall apply only to dividends which are paid out of the earnings and profits of a foreign corporation for a taxable year during which—

@@ -3,9 +3,9 @@ title: "Section 657f - Procurement program for small business concerns owned and
 usc_title: 15
 usc_section: "657f"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 657f"
-generated_at: "2026-03-29T18:04:29.483Z"
+generated_at: "2026-03-29T18:24:08.385Z"
 ---
 
 # § 657f. Procurement program for small business concerns owned and controlled by service-disabled veterans
@@ -17,6 +17,6 @@ generated_at: "2026-03-29T18:04:29.483Z"
     - **(B)** $3,000,000, in the case of any other contract opportunity; and
   - **(3)** in the estimation of the contracting officer, the contract award can be made at a fair and reasonable price.
 - **(b)** In accordance with this section, a contracting officer may award contracts on the basis of competition restricted to small business concerns owned and controlled by service-disabled veterans if the contracting officer has a reasonable expectation that not less than 2 small business concerns owned and controlled by service-disabled veterans will submit offers and that the award can be made at a fair market price.
-- **(c)** A procurement may not be made from a source on the basis of a preference provided under subsection (a) or (b) of this section if the procurement would otherwise be made from a different source under section 4124 or 4125 of title 18 or chapter 85 of title 41.
+- **(c)** A procurement may not be made from a source on the basis of a preference provided under subsection (a) or (b) if the procurement would otherwise be made from a different source under section 4124 or 4125 of title 18 or chapter 85 of title 41.
 - **(d)** Rules similar to the rules of paragraphs (5) and (6) of section 637(m) of this title shall apply for purposes of this section.
 - **(e)** For purposes of this section, the term “contracting officer” has the meaning given such term in section 2101(1) of title 41 .

@@ -3,9 +3,9 @@ title: "Section 50302 - Port development"
 usc_title: 46
 usc_section: "50302"
 chapter: 503
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "46 U.S.C. § 50302"
-generated_at: "2026-03-29T18:07:34.385Z"
+generated_at: "2026-03-29T18:27:18.910Z"
 ---
 
 # § 50302. Port development
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T18:07:34.385Z"
     - **(A)** receive funds provided for the project from Federal, non-Federal, and private entities that have a specific agreement or contract with the Administrator to further the purposes of this subsection;
     - **(B)** coordinate with other Federal agencies to expedite the process established under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) for the improvement of port facilities to improve the efficiency of the transportation system, to increase port security, or to provide greater access to port facilities;
     - **(C)** seek to coordinate all reviews or requirements with appropriate local, State, and Federal agencies; and
-    - **(D)** provide such technical assistance to port authorities or commissions or their subdivisions and agents as needed for project planning, design, and construction.
+    - **(D)** provide such technical assistance and financial assistance, including grants, to port authorities or commissions or their subdivisions and agents as needed for project planning, design, and construction.
   - **(3)**
     - **(A)** There is a Port Infrastructure Development Fund for use by the Administrator in carrying out projects under the port infrastructure development program. The Fund shall be available to the Administrator—
       - **(i)** to administer and carry out projects under the program;

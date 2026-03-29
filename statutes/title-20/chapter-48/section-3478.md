@@ -3,9 +3,9 @@ title: "Section 3478 - Facilities at remote locations"
 usc_title: 20
 usc_section: "3478"
 chapter: 48
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 3478"
-generated_at: "2026-03-29T18:05:00.258Z"
+generated_at: "2026-03-29T18:24:41.084Z"
 ---
 
 # § 3478. Facilities at remote locations
@@ -18,5 +18,5 @@ generated_at: "2026-03-29T18:05:00.258Z"
   - **(5)** reimbursement for food, clothing, medicine, and other supplies furnished by such employees in emergencies for the temporary relief of distressed persons;
   - **(6)** living and working quarters and facilities; and
   - **(7)** transportation for dependents of employees of the Department to the nearest appropriate educational facilities.
-- **(b)** The furnishing of medical treatment under paragraph (1) of subsection (a) of this section and the furnishing of services and supplies under paragraphs (2), (3), and (4) of subsection (a) of this section shall be at prices reflecting reasonable value as determined by the Secretary.
+- **(b)** The furnishing of medical treatment under paragraph (1) of subsection (a) and the furnishing of services and supplies under paragraphs (2), (3), and (4) of subsection (a) shall be at prices reflecting reasonable value as determined by the Secretary.
 - **(c)** Proceeds from reimbursements under this section may be credited to the appropriation of funds that bear or will bear all or part of the cost of such work or services or used to refund excess sums when necessary.

@@ -3,9 +3,9 @@ title: "Section 14045b - Grants to combat violent crimes on campuses"
 usc_title: 42
 usc_section: "14045b"
 chapter: 136
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 14045b"
-generated_at: "2026-03-29T18:07:15.364Z"
+generated_at: "2026-03-29T18:27:04.154Z"
 ---
 
 # § 14045b. Grants to combat violent crimes on campuses
@@ -31,19 +31,19 @@ generated_at: "2026-03-29T18:07:15.364Z"
 - **(c)**
   - **(1)** In order to be eligible to be awarded a grant under this section for any fiscal year, an institution of higher education shall submit an application to the Attorney General at such time and in such manner as the Attorney General shall prescribe.
   - **(2)** Each application submitted under paragraph (1) shall—
-    - **(A)** describe the need for grant funds and the plan for implementation for any of the purposes described in subsection (b) of this section;
+    - **(A)** describe the need for grant funds and the plan for implementation for any of the purposes described in subsection (b);
     - **(B)** include proof that the institution of higher education collaborated with victim service providers, including domestic violence, dating violence, sexual assault, and stalking victim services programs in the community in which the institution is located;
     - **(C)** describe the characteristics of the population being served, including type of campus, demographics of the population, and number of students;
     - **(D)** describe how underserved populations in the campus community will be adequately served, including the provision of relevant population specific services;
     - **(E)** provide measurable goals and expected results from the use of the grant funds;
-    - **(F)** provide assurances that the Federal funds made available under this section shall be used to supplement and, to the extent practical, increase the level of funds that would, in the absence of Federal funds, be made available by the institution for the purposes described in subsection (b) of this section; and
+    - **(F)** provide assurances that the Federal funds made available under this section shall be used to supplement and, to the extent practical, increase the level of funds that would, in the absence of Federal funds, be made available by the institution for the purposes described in subsection (b); and
     - **(G)** include such other information and assurances as the Attorney General reasonably determines to be necessary.
   - **(3)** No institution of higher education shall be eligible for a grant under this section unless such institution is in compliance with the requirements of section 1092(f) of title 20 . Up to $200,000 of the total amount of grant funds appropriated under this section for fiscal years 2014 through 2018 may be used to provide technical assistance in complying with the mandatory reporting requirements of section 1092(f) of title 20 .
 - **(d)**
   - **(1)** In addition to the assistance provided under this section, the Attorney General may request any Federal agency to use the agency’s authorities and the resources granted to the agency under Federal law (including personnel, equipment, supplies, facilities, and managerial, technical, and advisory services) in support of campus security, and investigation and victim service efforts.
   - **(2)**
     - **(A)** Each institution of higher education receiving a grant under this section shall submit a performance report to the Attorney General. The Attorney General shall suspend funding under this section for an institution of higher education if the institution fails to submit such a report.
-    - **(B)** Upon completion of the grant period under this section, the institution shall file a performance report with the Attorney General and the Secretary of Education explaining the activities carried out under this section together with an assessment of the effectiveness of those activities in achieving the purposes described in subsection (b) of this section.
+    - **(B)** Upon completion of the grant period under this section, the institution shall file a performance report with the Attorney General and the Secretary of Education explaining the activities carried out under this section together with an assessment of the effectiveness of those activities in achieving the purposes described in subsection (b).
   - **(3)** Each grantee shall comply with the following minimum requirements during the grant period:
     - **(A)** The grantee shall create a coordinated community response including both organizations external to the institution and relevant divisions of the institution.
     - **(B)** The grantee shall establish a mandatory prevention and education program on domestic violence, dating violence, sexual assault, and stalking for all incoming students.

@@ -3,9 +3,9 @@ title: "Section 7507 - Funding"
 usc_title: 16
 usc_section: "7507"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 7507"
-generated_at: "2026-03-29T02:11:53.999Z"
+generated_at: "2026-03-29T18:24:22.948Z"
 ---
 
 # § 7507. Funding

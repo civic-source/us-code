@@ -3,16 +3,16 @@ title: "Section 1391 - Methods for computing withdrawal liability"
 usc_title: 29
 usc_section: "1391"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 1391"
-generated_at: "2026-03-29T18:05:31.791Z"
+generated_at: "2026-03-29T18:25:43.116Z"
 ---
 
 # § 1391. Methods for computing withdrawal liability
 
 - **(a)** The amount of the unfunded vested benefits allocable to an employer that withdraws from a plan shall be determined in accordance with subsection (b), (c), or (d) of this section.
 - **(b)**
-  - **(1)** Except as provided in subsections (c) and (d) of this section, the amount of unfunded vested benefits allocable to an employer that withdraws is the sum of—
+  - **(1)** Except as provided in subsections (c) and (d), the amount of unfunded vested benefits allocable to an employer that withdraws is the sum of—
     - **(A)** the employer’s proportional share of the unamortized amount of the change in the plan’s unfunded vested benefits for plan years ending after September 25, 1980 , as determined under paragraph (2),
     - **(B)** the employer’s proportional share, if any, of the unamortized amount of the plan’s unfunded vested benefits at the end of the plan year ending before September 26, 1980 , as determined under paragraph (3); and
     - **(C)** the employer’s proportional share of the unamortized amounts of the reallocated unfunded vested benefits (if any) as determined under paragraph (4).
@@ -50,7 +50,7 @@ generated_at: "2026-03-29T18:05:31.791Z"
       - **(i)** the unamortized amount of the reallocated unfunded vested benefits (as of the end of the plan year preceding the plan year in which the employer withdraws); multiplied by
       - **(ii)** the fraction defined in paragraph (2)(E)(ii).
 - **(c)**
-  - **(1)** A multiemployer plan, other than a plan which primarily covers employees in the building and construction industry, may be amended to provide that the amount of unfunded vested benefits allocable to an employer that withdraws from the plan is an amount determined under paragraph (2), (3), (4), or (5) of this subsection, rather than under subsection (b) or (d) of this section. A plan described in section 1383(b)(1)(B)(i) of this title (relating to the building and construction industry) may be amended, to the extent provided in regulations prescribed by the corporation, to provide that the amount of the unfunded vested benefits allocable to an employer not described in section 1383(b)(1)(A) of this title shall be determined in a manner different from that provided in subsection (b) of this section.
+  - **(1)** A multiemployer plan, other than a plan which primarily covers employees in the building and construction industry, may be amended to provide that the amount of unfunded vested benefits allocable to an employer that withdraws from the plan is an amount determined under paragraph (2), (3), (4), or (5) of this subsection, rather than under subsection (b) or (d). A plan described in section 1383(b)(1)(B)(i) of this title (relating to the building and construction industry) may be amended, to the extent provided in regulations prescribed by the corporation, to provide that the amount of the unfunded vested benefits allocable to an employer not described in section 1383(b)(1)(A) of this title shall be determined in a manner different from that provided in subsection (b).
   - **(2)**
     - **(A)** The amount of the unfunded vested benefits allocable to any employer under this paragraph is the sum of the amounts determined under subparagraphs (B) and (C).
     - **(B)** The amount determined under this subparagraph is the product of—
@@ -108,7 +108,7 @@ generated_at: "2026-03-29T18:05:31.791Z"
     - **(D)** The corporation may by regulation permit adjustments in any denominator under this section, consistent with the purposes of this subchapter, where such adjustment would be appropriate to ease administrative burdens of plan sponsors in calculating such denominators.
     - **(E)** Notwithstanding paragraph (1), a plan may be amended to provide that the withdrawal liability method described in subsection (b) shall be applied by substituting the plan year which is specified in the amendment and for which the plan has no unfunded vested benefits for the plan year ending before September 26, 1980 .
 - **(d)**
-  - **(1)** The method of calculating an employer’s allocable share of unfunded vested benefits set forth in subsection (c)(3) of this section shall be the method for calculating an employer’s allocable share of unfunded vested benefits under a plan to which section 404(c) of title 26 , or a continuation of such a plan, applies, unless the plan is amended to adopt another method authorized under subsection (b) or (c) of this section.
+  - **(1)** The method of calculating an employer’s allocable share of unfunded vested benefits set forth in subsection (c)(3) shall be the method for calculating an employer’s allocable share of unfunded vested benefits under a plan to which section 404(c) of title 26 , or a continuation of such a plan, applies, unless the plan is amended to adopt another method authorized under subsection (b) or (c).
   - **(2)** Sections 1384, 1389, 1399(c)(1)(B), and 1405 of this title shall not apply with respect to the withdrawal of an employer from a plan described in paragraph (1) unless the plan is amended to provide that any of such sections apply.
 - **(e)** In the case of a transfer of liabilities to another plan incident to an employer’s withdrawal or partial withdrawal, the withdrawn employer’s liability under this part shall be reduced in an amount equal to the value, as of the end of the last plan year ending on or before the date of the withdrawal, of the transferred unfunded vested benefits.
-- **(f)** In the case of a withdrawal following a merger of multiemployer plans, subsection (b), (c), or (d) of this section shall be applied in accordance with regulations prescribed by the corporation; except that, if a withdrawal occurs in the first plan year beginning after a merger of multiemployer plans, the determination under this section shall be made as if each of the multiemployer plans had remained separate plans.
+- **(f)** In the case of a withdrawal following a merger of multiemployer plans, subsection (b), (c), or (d) shall be applied in accordance with regulations prescribed by the corporation; except that, if a withdrawal occurs in the first plan year beginning after a merger of multiemployer plans, the determination under this section shall be made as if each of the multiemployer plans had remained separate plans.

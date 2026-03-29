@@ -3,9 +3,9 @@ title: "Section 18445 - Information security"
 usc_title: 42
 usc_section: "18445"
 chapter: 159
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 18445"
-generated_at: "2026-03-29T18:07:15.565Z"
+generated_at: "2026-03-29T18:27:04.301Z"
 ---
 
 # § 18445. Information security
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T18:07:15.565Z"
     - **(A)** an update on efforts to implement a system to provide dynamic, comprehensive, real-time information regarding risk of unauthorized remote, proximity, and insider use or access, for all information infrastructure under the responsibility of the chief information officer, and mission-related networks, including contractor networks;
     - **(B)** an assessment of whether the system has demonstrably and quantifiably reduced network risk compared to alternative methods of measuring security; and
     - **(C)** an assessment of the progress that each center and facility has made toward implementing the system.
-  - **(2)** The assessments required of the Inspector General under section 3545 of title 44 shall evaluate the effectiveness of the system described in this subsection.
+  - **(2)** The assessments required of the Inspector General under section 3545 1 1 See References in Text note below. of title 44 shall evaluate the effectiveness of the system described in this subsection.
 - **(b)**
   - **(1)** In consultation with the Department of Education, other national security agencies, and other agency directorates, the chief information officer shall institute an information security awareness and education program for all operators and users of NASA information infrastructure, with the goal of reducing unauthorized remote, proximity, and insider use or access.
   - **(2)**

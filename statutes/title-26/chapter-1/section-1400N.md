@@ -3,9 +3,9 @@ title: "Section 1400N - Tax benefits for Gulf Opportunity Zone"
 usc_title: 26
 usc_section: "1400N"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 1400N"
-generated_at: "2026-03-29T18:05:44.818Z"
+generated_at: "2026-03-29T18:25:53.754Z"
 ---
 
 # § 1400N. Tax benefits for Gulf Opportunity Zone
@@ -77,7 +77,7 @@ generated_at: "2026-03-29T18:05:44.818Z"
   - **(2)** For purposes of section 42, in the case of calendar year 2006, the State housing credit ceiling of Texas and Florida shall each be increased by $3,500,000.
   - **(3)**
     - **(A)** For purposes of section 42, in the case of property placed in service during the period beginning on January 1, 2006 , and ending on December 31, 2010 , the Gulf Opportunity Zone, the Rita GO Zone, and the Wilma GO Zone—
-      - **(i)** shall be treated as difficult development areas designated under subclause (I) of section 42(d)(5)(C)(iii), 1 1 See References in Text note below. and
+      - **(i)** shall be treated as difficult development areas designated under subclause (I) of section 42(d)(5)(B)(iii), and
       - **(ii)** shall not be taken into account for purposes of applying the limitation under subclause (II) of such section.
     - **(B)** Subparagraph (A) shall apply only to—
       - **(i)** housing credit dollar amounts allocated during the period beginning on January 1, 2006 , and ending on December 31, 2008 , and
@@ -85,7 +85,7 @@ generated_at: "2026-03-29T18:05:44.818Z"
   - **(4)** In the case of property placed in service—
     - **(A)** during 2006, 2007, or 2008,
     - **(B)** in the Gulf Opportunity Zone, and
-    - **(C)** in a nonmetropolitan area (as defined in section 42(d)(5)(C)(iv)(IV)), 1
+    - **(C)** in a nonmetropolitan area (as defined in section 42(d)(5)(C)(iv)(IV)), 1 1 See References in text note below.
   - **(5)** Section 42(h)(1)(B) shall not apply to an allocation of housing credit dollar amount to a building located in the Gulf Opportunity Zone, the Rita GO Zone, or the Wilma GO Zone, if such allocation is made in 2006, 2007, or 2008, and such building is placed in service before January 1, 2012 .
   - **(6)** For purpose of applying section 42(i)(2)(D) 1 to any building which is placed in service in the Gulf Opportunity Zone, the Rita GO Zone, or the Wilma GO Zone during the period beginning on January 1, 2006 , and ending on December 31, 2010 , a loan shall not be treated as a below market Federal loan solely by reason of any assistance provided under section 106, 107, or 108 of the Housing and Community Development Act of 1974 by reason of section 122 of such Act or any provision of the Department of Defense Appropriations Act, 2006, or the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Hurricane Recovery, 2006.
   - **(7)** Any term used in this subsection which is also used in section 42 shall have the same meaning as when used in such section.
@@ -103,13 +103,13 @@ generated_at: "2026-03-29T18:05:44.818Z"
       - **(iv)** which is acquired by the taxpayer by purchase (as defined in section 179(d)) on or after August 28, 2005 , but only if no written binding contract for the acquisition was in effect before August 28, 2005 , and
       - **(v)** which is placed in service by the taxpayer on or before December 31, 2007 ( December 31, 2008 , in the case of nonresidential real property and residential rental property).
     - **(B)**
-      - **(i)** Such term shall not include any property described in section 168(k)(2)(D)(i).
+      - **(i)** Such term shall not include any property described in section 168(k)(2)(D)(i). 1 1 See References in Text note below.
       - **(ii)** Such term shall not include any property any portion of which is financed with the proceeds of any obligation the interest on which is exempt from tax under section 103.
       - **(iii)** Such term shall not include any qualified revitalization building with respect to which the taxpayer has elected the application of paragraph (1) or (2) of section 1400I(a).
       - **(iv)** If a taxpayer makes an election under this clause with respect to any class of property for any taxable year, this subsection shall not apply to all property in such class placed in service during such taxable year.
   - **(3)** For purposes of this subsection, rules similar to the rules of subparagraph (E) of section 168(k)(2) shall apply, except that such subparagraph shall be applied—
     - **(A)** by substituting “ August 27, 2005 ” for “ December 31, 2007 ” each place it appears therein,
-    - **(B)** without regard to “and before January 1, 2014 ” in clause (i) thereof, and
+    - **(B)** without regard to “and before January 1, 2015 ” in clause (i) thereof, and
     - **(C)** by substituting “qualified Gulf Opportunity Zone property” for “qualified property” in clause (iv) thereof.
   - **(4)** For purposes of this subsection, rules similar to the rules of section 168(k)(2)(G) shall apply.
   - **(5)** For purposes of this subsection, rules similar to the rules under section 179(d)(10) shall apply with respect to any qualified Gulf Opportunity Zone property which ceases to be qualified Gulf Opportunity Zone property.
@@ -153,7 +153,7 @@ generated_at: "2026-03-29T18:05:44.818Z"
   - **(1)** In the case of qualified timber property any portion of which is located in the Gulf Opportunity Zone, in that portion of the Rita GO Zone which is not part of the Gulf Opportunity Zone, or in the Wilma GO Zone, the limitation under subparagraph (B) of section 194(b)(1) shall be increased by the lesser of—
     - **(A)** the limitation which would (but for this subsection) apply under such subparagraph, or
     - **(B)** the amount of reforestation expenditures (as defined in section 194(c)(3)) paid or incurred by the taxpayer with respect to such qualified timber property during the specified portion of the taxable year.
-  - **(2)** For purposes of determining any farming loss under section 172(i), income and deductions which are allocable to the specified portion of the taxable year and which are attributable to qualified timber property any portion of which is located in the Gulf Opportunity Zone, in that portion of the Rita GO Zone which is not part of the Gulf Opportunity Zone, or in the Wilma GO Zone shall be treated as attributable to farming businesses.
+  - **(2)** For purposes of determining any farming loss under section 172(i), 1 income and deductions which are allocable to the specified portion of the taxable year and which are attributable to qualified timber property any portion of which is located in the Gulf Opportunity Zone, in that portion of the Rita GO Zone which is not part of the Gulf Opportunity Zone, or in the Wilma GO Zone shall be treated as attributable to farming businesses.
   - **(3)** Paragraphs (1) and (2) shall not apply to any taxpayer which—
     - **(A)** is a corporation the stock of which is publicly traded on an established securities market, or
     - **(B)** is a real estate investment trust.
@@ -209,7 +209,7 @@ generated_at: "2026-03-29T18:05:44.818Z"
       - **(ii)** such loss is by reason of Hurricane Katrina.
     - **(B)** The amount of qualified Gulf Opportunity Zone casualty loss which would (but for this subparagraph) be taken into account under subparagraph (A) for any taxable year shall be reduced by the amount of any gain recognized by the taxpayer for such year from the involuntary conversion by reason of Hurricane Katrina of property located in the Gulf Opportunity Zone.
     - **(C)** Section 165(i) shall not apply to any qualified Gulf Opportunity Zone casualty loss to the extent such loss is taken into account under this subsection.
-  - **(4)** For purposes of paragraph (1), rules similar to the rules of paragraphs (2) and (3) of section 172(i) shall apply with respect to such portion.
+  - **(4)** For purposes of paragraph (1), rules similar to the rules of paragraphs (2) and (3) of section 172(i) 1 shall apply with respect to such portion.
 - **(l)**
   - **(1)** If a taxpayer holds a Gulf tax credit bond on one or more credit allowance dates of the bond occurring during any taxable year, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the credits determined under paragraph (2) with respect to such dates.
   - **(2)**

@@ -3,9 +3,9 @@ title: "Section 3241 - Requirements and restrictions"
 usc_title: 29
 usc_section: "3241"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 3241"
-generated_at: "2026-03-29T02:14:09.531Z"
+generated_at: "2026-03-29T18:25:43.166Z"
 ---
 
 # § 3241. Requirements and restrictions

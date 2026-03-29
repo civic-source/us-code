@@ -3,9 +3,9 @@ title: "Section 2431 - Review of programs"
 usc_title: 25
 usc_section: "2431"
 chapter: 26
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 2431"
-generated_at: "2026-03-29T18:05:17.220Z"
+generated_at: "2026-03-29T18:25:23.783Z"
 ---
 
 # § 2431. Review of programs
@@ -16,4 +16,4 @@ generated_at: "2026-03-29T18:05:17.220Z"
   - **(3)** Federal programs providing family and social services and benefits for Indian families and children,
   - **(4)** Federal programs relating to youth employment, recreation, cultural, and community activities, and
   - **(5)** tribal, State, local, and private resources for programs similar to those cited in paragraphs (3) and (4),
-- **(b)** The results of the review conducted under subsection (a) of this section shall be provided to each Indian tribe as soon as possible for their consideration and use in the development or modification of a Tribal Action Plan under section 2412 of this title .
+- **(b)** The results of the review conducted under subsection (a) shall be provided to each Indian tribe as soon as possible for their consideration and use in the development or modification of a Tribal Action Plan under section 2412 of this title .

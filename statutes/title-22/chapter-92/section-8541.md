@@ -3,9 +3,9 @@ title: "Section 8541 - Definitions"
 usc_title: 22
 usc_section: "8541"
 chapter: 92
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 8541"
-generated_at: "2026-03-29T18:05:22.064Z"
+generated_at: "2026-03-29T18:24:54.408Z"
 ---
 
 # § 8541. Definitions
@@ -27,7 +27,7 @@ In this subchapter:
   - **(11)** The term “Iranian end-user” means an end-user that is the Government of Iran or a person in, or an agency or instrumentality of, Iran.
   - **(12)** The term “Iranian intermediary” means an intermediary that is the Government of Iran or a person in, or an agency or instrumentality of, Iran.
   - **(13)** The term “state sponsor of terrorism” means any country the government of which the Secretary of State has determined has repeatedly provided support for acts of international terrorism pursuant to—
-    - **(A)** section 2405(j)(1)(A) of the Appendix to title 50 (or any successor thereto);
+    - **(A)** section 4605(j)(1)(A) of title 50 (or any successor thereto);
     - **(B)** section 2780(d) of this title ; or
     - **(C)** section 2371(a) of this title .
   - **(14)** The term “United States Munitions List” means the list maintained pursuant to part 121 of the International Traffic in Arms Regulations (or any corresponding similar regulation or ruling).

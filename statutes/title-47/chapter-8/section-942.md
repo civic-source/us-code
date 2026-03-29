@@ -3,9 +3,9 @@ title: "Section 942 - Coordination of 9–1–1, E9–1–1, and Next Generation
 usc_title: 47
 usc_section: "942"
 chapter: 8
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "47 U.S.C. § 942"
-generated_at: "2026-03-29T18:07:40.906Z"
+generated_at: "2026-03-29T18:27:09.604Z"
 ---
 
 # § 942. Coordination of 9–1–1, E9–1–1, and Next Generation 9–1–1 implementation
@@ -57,7 +57,7 @@ generated_at: "2026-03-29T18:07:40.906Z"
   - **(1)** The term “9–1–1 services” includes both E9–1–1 services and Next Generation 9–1–1 services.
   - **(2)** The term “E9–1–1 services” means both phase I and phase II enhanced 9–1–1 services, as described in section 20.18 of the Commission’s regulations (47 C.F.R. 20.18), as in effect on February 22, 2012 , or as subsequently revised by the Commission.
   - **(3)**
-    - **(A)** The term “eligible entity” means a State or local government or a tribal organization (as defined in section 450b( l ) of title 25).
+    - **(A)** The term “eligible entity” means a State or local government or a tribal organization (as defined in section 5304( l ) of title 25).
     - **(B)** The term “eligible entity” includes public authorities, boards, commissions, and similar bodies created by one or more eligible entities described in subparagraph (A) to provide 9–1–1 services, E9–1–1 services, or Next Generation 9–1–1 services.
     - **(C)** The term “eligible entity” does not include any entity that has failed to submit the most recently required certification under subsection (c) within 30 days after the date on which such certification is due.
   - **(4)** The term “emergency call” refers to any real-time communication with a public safety answering point or other emergency management or response agency, including—

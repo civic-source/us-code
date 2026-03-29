@@ -1,14 +1,14 @@
 ---
-title: "Section 1423 - Public Safety Interoperability Board"
+title: "Section 1423 - Public safety Interoperability Board"
 usc_title: 47
 usc_section: "1423"
 chapter: 13
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "47 U.S.C. § 1423"
-generated_at: "2026-03-29T18:07:40.922Z"
+generated_at: "2026-03-29T18:27:09.611Z"
 ---
 
-# § 1423. Public Safety Interoperability Board
+# § 1423. Public safety Interoperability Board
 
 - **(a)** There is established within the Commission an advisory board to be known as the “Technical Advisory Board for First Responder Interoperability”.
 - **(b)**

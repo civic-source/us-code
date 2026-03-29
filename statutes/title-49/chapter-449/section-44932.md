@@ -1,14 +1,12 @@
 ---
-title: "Section 44932 - Administrative"
+title: "Section 44932 - Repealed. Pub. L. 107–71, title I , § 101(f)(6), Nov. 19, 2001 , 115 Stat. 603 ]"
 usc_title: 49
 usc_section: "44932"
 chapter: 449
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 44932"
-generated_at: "2026-03-29T02:16:09.048Z"
+generated_at: "2026-03-29T18:27:16.612Z"
 ---
 
-# § 44932. Administrative
+# [§§ 44931, 44932. Repealed. Pub. L. 107–71, title I , § 101(f)(6), Nov. 19, 2001 , 115 Stat. 603 ]
 
-- **(a)** The Secretary of Homeland Security or the Administrator of the Transportation Security Administration may take action the Secretary or the Administrator considers necessary to carry out this chapter and chapters 461, 463, and 465 of this title, including conducting investigations, prescribing regulations, standards, and procedures, and issuing orders.
-- **(b)** The Administrator of the Transportation Security Administration may indemnify an officer or employee of the Transportation Security Administration against a claim or judgment arising out of an act that the Administrator decides was committed within the scope of the official duties of the officer or employee.

@@ -3,9 +3,9 @@ title: "Section 14912 - Responsibilities of the Secretary of State"
 usc_title: 42
 usc_section: "14912"
 chapter: 143
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 14912"
-generated_at: "2026-03-29T18:07:15.387Z"
+generated_at: "2026-03-29T18:27:04.174Z"
 ---
 
 # § 14912. Responsibilities of the Secretary of State
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T18:07:15.387Z"
   - **(4)** ensuring the provision of a background report (home study) on prospective adoptive parent or parents (pursuant to the requirements of section 14923(b)(1)(A)(ii) of this title ), through the central authority of each child’s country of origin, to the court having jurisdiction over the adoption (or, in the case of a child emigrating to the United States for the purpose of adoption, to the competent authority in the child’s country of origin with responsibility for approving the child’s emigration) in adequate time to be considered prior to the granting of such adoption or approval;
   - **(5)** providing Federal agencies, State courts, and accredited agencies and approved persons with an identification of Convention countries and persons authorized to perform functions under the Convention in each such country; and
   - **(6)** facilitating the transmittal of other appropriate information to, and among, central authorities, Federal and State agencies (including State courts), and accredited agencies and approved persons.
-- **(c)** The Secretary shall carry out the functions prescribed by the Convention with respect to the accreditation of agencies and the approval of persons to provide adoption services in the United States in cases subject to the Convention as provided in subchapter II of this chapter. Such functions may not be delegated to any other Federal agency.
+- **(c)** The Secretary shall carry out the functions prescribed by the Convention with respect to the accreditation of agencies and the approval of persons to provide adoption services in the United States in cases subject to the Convention as provided in subchapter II. Such functions may not be delegated to any other Federal agency.
 - **(d)** The Secretary—
   - **(1)** shall monitor individual Convention adoption cases involving United States citizens; and
   - **(2)** may facilitate interactions between such citizens and officials of other Convention countries on matters relating to the Convention in any case in which an accredited agency or approved person is unwilling or unable to provide such facilitation.

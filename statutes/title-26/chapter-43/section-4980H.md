@@ -3,9 +3,9 @@ title: "Section 4980H - Shared responsibility for employers regarding health cov
 usc_title: 26
 usc_section: "4980H"
 chapter: 43
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 4980H"
-generated_at: "2026-03-29T18:05:44.920Z"
+generated_at: "2026-03-29T18:25:53.853Z"
 ---
 
 # § 4980H. Shared responsibility for employers regarding health coverage
@@ -37,6 +37,9 @@ generated_at: "2026-03-29T18:05:44.920Z"
         - **(II)** the overall limitation under subsection (b)(2).
       - **(ii)** In the case of persons treated as 1 employer under subparagraph (C)(i), only 1 reduction under subclause (I) or (II) 1 1 So in original. Probably means subclause (I) or (II) of clause (i). shall be allowed with respect to such persons and such reduction shall be allocated among such persons ratably on the basis of the number of full-time employees employed by each such person.
     - **(E)** Solely for purposes of determining whether an employer is an applicable large employer under this paragraph, an employer shall, in addition to the number of full-time employees for any month otherwise determined, include for such month a number of full-time employees determined by dividing the aggregate number of hours of service of employees who are not full-time employees for the month by 120.
+    - **(F)** Solely for purposes of determining whether an employer is an applicable large employer under this paragraph for any month, an individual shall not be taken into account as an employee for such month if such individual has medical coverage for such month under—
+      - **(i)** chapter 55 of title 10, United States Code, including coverage under the TRICARE program, or
+      - **(ii)** under a health care program under chapter 17 or 18 of title 38, United States Code, as determined by the Secretary of Veterans Affairs, in coordination with the Secretary of Health and Human Services and the Secretary.
   - **(3)** The term “applicable premium tax credit and cost-sharing reduction” means—
     - **(A)** any premium tax credit allowed under section 36B,
     - **(B)** any cost-sharing reduction under section 1402 of the Patient Protection and Affordable Care Act, and

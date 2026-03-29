@@ -3,9 +3,9 @@ title: "Section 9507 - Hazardous Substance Superfund"
 usc_title: 26
 usc_section: "9507"
 chapter: 98
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 9507"
-generated_at: "2026-03-29T18:05:45.086Z"
+generated_at: "2026-03-29T18:25:54.004Z"
 ---
 
 # § 9507. Hazardous Substance Superfund
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T18:05:45.086Z"
   - **(2)** appropriated to the Superfund pursuant to section 517(b) of the Superfund Revenue Act of 1986, or
   - **(3)** credited to the Superfund as provided in section 9602(b).
 - **(b)** There are hereby appropriated to the Superfund amounts equivalent to—
-  - **(1)** the taxes received in the Treasury under section 59A, 4611, 4661, or 4671 (relating to environmental taxes),
+  - **(1)** the taxes received in the Treasury under section 4611, 4661, or 4671 (relating to environmental taxes),
   - **(2)** amounts recovered on behalf of the Superfund under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (hereinafter in this section referred to as “CERCLA”),
   - **(3)** all moneys recovered or collected under section 311(b)(6)(B) of the Clean Water Act, 1 1 See References in Text note below.
   - **(4)** penalties assessed under title I of CERCLA, and

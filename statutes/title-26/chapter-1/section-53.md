@@ -3,9 +3,9 @@ title: "Section 53 - Credit for prior year minimum tax liability"
 usc_title: 26
 usc_section: "53"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 53"
-generated_at: "2026-03-29T18:05:44.450Z"
+generated_at: "2026-03-29T18:25:53.402Z"
 ---
 
 # § 53. Credit for prior year minimum tax liability
@@ -31,15 +31,3 @@ generated_at: "2026-03-29T18:05:44.450Z"
         - **(I)** the preceding provisions of this subparagraph shall not apply, and
         - **(II)** the adjusted net minimum tax for any taxable year is the amount of the net minimum tax for such year.
   - **(2)** The term “tentative minimum tax” has the meaning given to such term by section 55(b).
-- **(e)**
-  - **(1)** If an individual has a long-term unused minimum tax credit for any taxable year beginning before January 1, 2013 , the amount determined under subsection (c) for such taxable year shall not be less than the AMT refundable credit amount for such taxable year.
-  - **(2)** For purposes of paragraph (1), the term “AMT refundable credit amount” means, with respect to any taxable year, the amount (not in excess of the long-term unused minimum tax credit for such taxable year) equal to the greater of—
-    - **(A)** 50 percent of the long-term unused minimum tax credit for such taxable year, or
-    - **(B)** the amount (if any) of the AMT refundable credit amount determined under this paragraph for the taxpayer’s preceding taxable year (determined without regard to subsection (f)(2)).
-  - **(3)**
-    - **(A)** For purposes of this subsection, the term “long-term unused minimum tax credit” means, with respect to any taxable year, the portion of the minimum tax credit determined under subsection (b) attributable to the adjusted net minimum tax for taxable years before the 3rd taxable year immediately preceding such taxable year.
-    - **(B)** For purposes of subparagraph (A), credits shall be treated as allowed under subsection (a) on a first-in, first-out basis.
-  - **(4)** For purposes of this title (other than this section), the credit allowed by reason of this subsection shall be treated as if it were allowed under subpart C.
-- **(f)**
-  - **(1)** Any underpayment of tax outstanding on the date of the enactment of this subsection which is attributable to the application of section 56(b)(3) for any taxable year ending before January 1, 2008 , and any interest or penalty with respect to such underpayment which is outstanding on such date of enactment, is hereby abated. The amount determined under subsection (b)(1) shall not include any tax abated under the preceding sentence.
-  - **(2)** The AMT refundable credit amount, and the minimum tax credit determined under subsection (b), for the taxpayer’s first 2 taxable years beginning after December 31, 2007 , shall each be increased by 50 percent of the aggregate amount of the interest and penalties which were paid by the taxpayer before the date of the enactment of this subsection and which would (but for such payment) have been abated under paragraph (1).

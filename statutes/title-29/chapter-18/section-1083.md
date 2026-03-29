@@ -3,9 +3,9 @@ title: "Section 1083 - Minimum funding standards for single-employer defined ben
 usc_title: 29
 usc_section: "1083"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 1083"
-generated_at: "2026-03-29T18:05:31.741Z"
+generated_at: "2026-03-29T18:25:43.074Z"
 ---
 
 # § 1083. Minimum funding standards for single-employer defined benefit pension plans
@@ -52,14 +52,7 @@ generated_at: "2026-03-29T18:05:31.741Z"
   - **(4)** For purposes of this section, the funding shortfall of a plan for any plan year is the excess (if any) of—
     - **(A)** the funding target of the plan for the plan year, over
     - **(B)** the value of plan assets of the plan (as reduced under subsection (f)(4)(B)) for the plan year which are held by the plan on the valuation date.
-  - **(5)**
-    - **(A)** In any case in which the value of plan assets of the plan (as reduced under subsection (f)(4)(A)) is equal to or greater than the funding target of the plan for the plan year, the shortfall amortization base of the plan for such plan year shall be zero.
-    - **(B)**
-      - **(i)** Except as provided in clause (iii), in the case of plan years beginning after 2007 and before 2011, only the applicable percentage of the funding target shall be taken into account under paragraph (3)(A) in determining the funding shortfall for purposes of paragraph (3)(A) and subparagraph (A).
-      - **(ii)** For purposes of subparagraph (A), the applicable percentage shall be determined in accordance with the following table: In the case of a plan year The applicable beginning in calendar year: percentage is 2008 92 2009 94 2010 96.
-      - **(iii)** Clause (i) shall not apply to a plan—
-        - **(I)** which was not in effect for a plan year beginning in 2007, or
-        - **(II)** which was in effect for a plan year beginning in 2007 and which was subject to section 1082(d) of this title (as in effect for plan years beginning in 2007) for such year, determined after the application of paragraphs (6) and (9) thereof.
+  - **(5)** In any case in which the value of plan assets of the plan (as reduced under subsection (f)(4)(A)) is equal to or greater than the funding target of the plan for the plan year, the shortfall amortization base of the plan for such plan year shall be zero.
   - **(6)** In any case in which the funding shortfall of a plan for a plan year is zero, for purposes of determining the shortfall amortization charge for such plan year and succeeding plan years, the shortfall amortization bases for all preceding plan years (and all shortfall amortization installments determined with respect to such bases) shall be reduced to zero.
   - **(7)**
     - **(A)** If there is an installment acceleration amount with respect to a plan for any plan year in the restriction period with respect to an election year under paragraph (2)(D), then the shortfall amortization installment otherwise determined and payable under such paragraph for such plan year shall, subject to the limitation under subparagraph (B), be increased by such amount.
@@ -206,7 +199,7 @@ generated_at: "2026-03-29T18:05:31.741Z"
   - **(2)**
     - **(A)** For purposes of this section, the term “effective interest rate” means, with respect to any plan for any plan year, the single rate of interest which, if used to determine the present value of the plan’s accrued or earned benefits referred to in subsection (d)(1), would result in an amount equal to the funding target of the plan for such plan year.
     - **(B)** For purposes of determining the funding target and normal cost of a plan for any plan year, the interest rate used in determining the present value of the benefits of the plan shall be—
-      - **(i)** in the case of benefits reasonably determined to be payable during the 5-year period beginning on the first day of the plan year, the first segment rate with respect to the applicable month,
+      - **(i)** in the case of benefits reasonably determined to be payable during the 5-year period beginning on the valuation date for the plan year, the first segment rate with respect to the applicable month,
       - **(ii)** in the case of benefits reasonably determined to be payable during the 15-year period beginning at the end of the period described in clause (i), the second segment rate with respect to the applicable month, and
       - **(iii)** in the case of benefits reasonably determined to be payable after the period described in clause (ii), the third segment rate with respect to the applicable month.
     - **(C)** For purposes of this paragraph—
@@ -215,19 +208,12 @@ generated_at: "2026-03-29T18:05:31.741Z"
       - **(iii)** The term “third segment rate” means, with respect to any month, the single rate of interest which shall be determined by the Secretary of the Treasury for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based on bonds maturing during periods beginning after the period described in clause (ii).
       - **(iv)**
         - **(I)** If a segment rate described in clause (i), (ii), or (iii) with respect to any applicable month (determined without regard to this clause) is less than the applicable minimum percentage, or more than the applicable maximum percentage, of the average of the segment rates described in such clause for years in the 25-year period ending with September 30 of the calendar year preceding the calendar year in which the plan year begins, then the segment rate described in such clause with respect to the applicable month shall be equal to the applicable minimum percentage or the applicable maximum percentage of such average, whichever is closest. The Secretary of the Treasury shall determine such average on an annual basis and may prescribe equivalent rates for years in any such 25-year period for which the rates described in any such clause are not available.
-        - **(II)** For purposes of subclause (I), the applicable minimum percentage and the applicable maximum percentage for a plan year beginning in a calendar year shall be determined in accordance with the following table: If the calendar year is: The applicable minimum percentage is: The applicable maximum percentage is: 2012 90% 110% 2013 85% 115% 2014 80% 120% 2015 75% 125% After 2015 70% 130%.
+        - **(II)** For purposes of subclause (I), the applicable minimum percentage and the applicable maximum percentage for a plan year beginning in a calendar year shall be determined in accordance with the following table: If the calendar year is: The applicable minimum percentage is: The applicable maximum percentage is: 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, or 2020 90% 110% 2021 85% 115% 2022 80% 120% 2023 75% 125% After 2023 70% 130%
     - **(D)** For purposes of this paragraph—
       - **(i)** The term “corporate bond yield curve” means, with respect to any month, a yield curve which is prescribed by the Secretary of the Treasury for such month and which reflects the average, for the 24-month period ending with the month preceding such month, of monthly yields on investment grade corporate bonds with varying maturities and that are in the top 3 quality levels available.
       - **(ii)** Solely for purposes of determining the minimum required contribution under this section, the plan sponsor may, in lieu of the segment rates determined under subparagraph (C), elect to use interest rates under the corporate bond yield curve. For purposes of the preceding sentence such curve shall be determined without regard to the 24-month averaging described in clause (i). Such election, once made, may be revoked only with the consent of the Secretary of the Treasury.
     - **(E)** For purposes of this paragraph, the term “applicable month” means, with respect to any plan for any plan year, the month which includes the valuation date of such plan for such plan year or, at the election of the plan sponsor, any of the 4 months which precede such month. Any election made under this subparagraph shall apply to the plan year for which the election is made and all succeeding plan years, unless the election is revoked with the consent of the Secretary of the Treasury.
-    - **(F)** The Secretary of the Treasury shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in section 1055(g)(3)(B)(iii)(I) of this title for such month) and each of the rates determined under subparagraph (C) and the averages determined under subparagraph (C)(iv) for such month. The Secretary of the Treasury shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan’s projection of future interest rates.
-    - **(G)**
-      - **(i)** Notwithstanding the preceding provisions of this paragraph, for plan years beginning in 2008 or 2009, the first, second, or third segment rate for a plan with respect to any month shall be equal to the sum of—
-        - **(I)** the product of such rate for such month determined without regard to this subparagraph, multiplied by the applicable percentage, and
-        - **(II)** the product of the rate determined under the rules of section 1082(b)(5)(B)(ii)(II) of this title (as in effect for plan years beginning in 2007), multiplied by a percentage equal to 100 percent minus the applicable percentage.
-      - **(ii)** For purposes of clause (i), the applicable percentage is 33⅓ percent for plan years beginning in 2008 and 66⅔ percent for plan years beginning in 2009.
-      - **(iii)** Clause (i) shall not apply to any plan if the first plan year of the plan begins after December 31, 2007 .
-      - **(iv)** The plan sponsor may elect not to have this subparagraph apply. Such election, once made, may be revoked only with the consent of the Secretary of the Treasury.
+    - **(F)** The Secretary of the Treasury shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in section 1055(g)(3)(B)(iii)(I) 2 2 See References in Text note below. of this title for such month) and each of the rates determined under subparagraph (C) and the averages determined under subparagraph (C)(iv) for such month. The Secretary of the Treasury shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan’s projection of future interest rates.
   - **(3)**
     - **(A)** Except as provided in subparagraph (C) or (D), the Secretary of the Treasury shall by regulation prescribe mortality tables to be used in determining any present value or making any computation under this section. Such tables shall be based on the actual experience of pension plans and projected trends in such experience. In prescribing such tables, the Secretary of the Treasury shall take into account results of available independent studies of mortality of individuals covered by pension plans.
     - **(B)** The Secretary of the Treasury shall (at least every 10 years) make revisions in any table in effect under subparagraph (A) to reflect the actual experience of pension plans and projected trends in such experience.
@@ -300,7 +286,7 @@ generated_at: "2026-03-29T18:05:31.741Z"
     - **(A)** In any case in which a plan which is in at-risk status for a plan year has been in such status for a consecutive period of fewer than 5 plan years, the applicable amount of the funding target and of the target normal cost shall be, in lieu of the amount determined without regard to this paragraph, the sum of—
       - **(i)** the amount determined under this section without regard to this subsection, plus
       - **(ii)** the transition percentage for such plan year of the excess of the amount determined under this subsection (without regard to this paragraph) over the amount determined under this section without regard to this subsection.
-    - **(B)** For purposes of subparagraph (A), the transition percentage shall be determined in accordance with the following table: If the consecutive number of The years (including the plan year) transition the plan is in at-risk status is— percentage is— 1 20 2 40 3 60 4 80.
+    - **(B)** For purposes of subparagraph (A), the transition percentage shall be determined in accordance with the following table: If the consecutive number of years (including the plan year) the plan is in at-risk status is— The transition percentage is— 1 20 2 40 3 60 4 80.
     - **(C)** For purposes of this paragraph, plan years beginning before 2008 shall not be taken into account.
   - **(6)** If, on each day during the preceding plan year, a plan had 500 or fewer participants, the plan shall not be treated as in at-risk status for the plan year. For purposes of this paragraph, all defined benefit plans (other than multiemployer plans) maintained by the same employer (or any member of such employer’s controlled group) shall be treated as 1 plan, but only participants with respect to such employer or member shall be taken into account and the rules of subsection (g)(2)(C) shall apply.
 - **(j)**

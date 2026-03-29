@@ -3,9 +3,9 @@ title: "Section 922 - Loans for rural telephone service"
 usc_title: 7
 usc_section: "922"
 chapter: 31
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 922"
-generated_at: "2026-03-29T18:04:04.797Z"
+generated_at: "2026-03-29T18:23:43.223Z"
 ---
 
 # § 922. Loans for rural telephone service

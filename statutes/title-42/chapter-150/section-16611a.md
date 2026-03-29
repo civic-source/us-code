@@ -3,9 +3,9 @@ title: "Section 16611a - Repealed or Omitted"
 usc_title: 42
 usc_section: "16611a"
 chapter: 150
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 16611a"
-generated_at: "2026-03-29T02:15:37.374Z"
+generated_at: "2026-03-29T18:27:04.236Z"
 ---
 
 # §§ 16611, 16611a. Repealed or Omitted

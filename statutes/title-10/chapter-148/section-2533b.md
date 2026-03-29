@@ -3,9 +3,9 @@ title: "Section 2533b - Requirement to buy strategic materials critical to natio
 usc_title: 10
 usc_section: "2533b"
 chapter: 148
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2533b"
-generated_at: "2026-03-29T18:04:13.183Z"
+generated_at: "2026-03-29T18:23:51.971Z"
 ---
 
 # § 2533b. Requirement to buy strategic materials critical to national security from American sources; exceptions
@@ -28,8 +28,8 @@ generated_at: "2026-03-29T18:04:13.183Z"
 - **(f)** Subsection (a) does not apply to acquisitions in amounts not greater than the simplified acquisition threshold referred to in section 2304(g) of this title .
 - **(g)** Subsection (a) does not apply to acquisitions of electronic components, unless the Secretary of Defense, upon the recommendation of the Strategic Materials Protection Board pursuant to section 187 of this title , determines that the domestic availability of a particular electronic component is critical to national security.
 - **(h)**
-  - **(1)** Except as provided in paragraphs (2) and (3), this section applies to acquisitions of commercial items, notwithstanding sections 34 and 35 1 1 See References in Text note below. of the Office of Federal Procurement Policy Act ( 41 U.S.C. 430 and 431).
-  - **(2)** This section does not apply to contracts or subcontracts for the acquisition of commercially available off-the-shelf items, as defined in section 35(c) 1 of the Office of Federal Procurement Policy Act ( 41 U.S.C. 431(c) ), other than—
+  - **(1)** Except as provided in paragraphs (2) and (3), this section applies to acquisitions of commercial items, notwithstanding sections 1906 and 1907 of title 41.
+  - **(2)** This section does not apply to contracts or subcontracts for the acquisition of commercially available off-the-shelf items, as defined in section 104 of title 41 , other than—
     - **(A)** contracts or subcontracts for the acquisition of specialty metals, including mill products, such as bar, billet, slab, wire, plate and sheet, that have not been incorporated into end items, subsystems, assemblies, or components;
     - **(B)** contracts or subcontracts for the acquisition of forgings or castings of specialty metals, unless such forgings or castings are incorporated into commercially available off-the-shelf end items, subsystems, or assemblies;
     - **(C)** contracts or subcontracts for commercially available high performance magnets unless such high performance magnets are incorporated into commercially available off-the-shelf-end items or subsystems; and
@@ -68,12 +68,12 @@ generated_at: "2026-03-29T18:04:13.183Z"
   - **(4)** Zirconium and zirconium base alloys.
 - **(m)** In this section:
   - **(1)** The term “United States” includes possessions of the United States.
-  - **(2)** The term “component” has the meaning provided in section 4 1 of the Office of Federal Procurement Policy Act ( 41 U.S.C. 403 ).
-  - **(3)** The term “acquisition” has the meaning provided in section 4 1 of the Office of Federal Procurement Policy Act ( 41 U.S.C. 403 ).
+  - **(2)** The term “component” has the meaning provided in section 105 of title 41 .
+  - **(3)** The term “acquisition” has the meaning provided in section 131 of title 41 .
   - **(4)** The term “required form” shall not apply to end items or to their components at any tier. The term “required form” means in the form of mill product, such as bar, billet, wire, slab, plate or sheet, and in the grade appropriate for the production of—
     - **(A)** a finished end item delivered to the Department of Defense; or
     - **(B)** a finished component assembled into an end item delivered to the Department of Defense.
-  - **(5)** The term “commercially available off-the-shelf”, has the meaning provided in section 35(c) 1 of the Office of Federal Procurement Policy Act ( 41 U.S.C. 431(c) ).
+  - **(5)** The term “commercially available off-the-shelf”, has the meaning provided in section 104 of title 41 .
   - **(6)** The term “assemblies” means items forming a portion of a system or subsystem that can be provisioned and replaced as an entity and which incorporates multiple, replaceable parts.
   - **(7)** The term “commercial derivative military article” means an item procured by the Department of Defense that is or will be produced using the same production facilities, a common supply chain, and the same or similar production processes that are used for the production of articles predominantly used by the general public or by nongovernmental entities for purposes other than governmental purposes.
   - **(8)** The term “subsystem” means a functional grouping of items that combine to perform a major function within an end item, such as electrical power, attitude control, and propulsion.

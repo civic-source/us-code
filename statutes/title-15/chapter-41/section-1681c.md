@@ -3,14 +3,14 @@ title: "Section 1681c - Requirements relating to information contained in consum
 usc_title: 15
 usc_section: "1681c"
 chapter: 41
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 1681c"
-generated_at: "2026-03-29T18:04:29.620Z"
+generated_at: "2026-03-29T18:24:08.486Z"
 ---
 
 # § 1681c. Requirements relating to information contained in consumer reports
 
-- **(a)** Except as authorized under subsection (b) of this section, no consumer reporting agency may make any consumer report containing any of the following items of information:
+- **(a)** Except as authorized under subsection (b), no consumer reporting agency may make any consumer report containing any of the following items of information:
   - **(1)** Cases under title 11 or under the Bankruptcy Act that, from the date of entry of the order for relief or the date of adjudication, as the case may be, antedate the report by more than 10 years.
   - **(2)** Civil suits, civil judgments, and records of arrest that, from date of entry, antedate the report by more than seven years or until the governing statute of limitations has expired, whichever is the longer period.
   - **(3)** Paid tax liens which, from date of payment, antedate the report by more than seven years.
@@ -19,12 +19,12 @@ generated_at: "2026-03-29T18:04:29.620Z"
   - **(6)** The name, address, and telephone number of any medical information furnisher that has notified the agency of its status, unless—
     - **(A)** such name, address, and telephone number are restricted or reported using codes that do not identify, or provide information sufficient to infer, the specific provider or the nature of such services, products, or devices to a person other than the consumer; or
     - **(B)** the report is being provided to an insurance company for a purpose relating to engaging in the business of insurance other than property and casualty insurance.
-- **(b)** The provisions of paragraphs (1) through (5) of subsection (a) of this section are not applicable in the case of any consumer credit report to be used in connection with—
+- **(b)** The provisions of paragraphs (1) through (5) of subsection (a) are not applicable in the case of any consumer credit report to be used in connection with—
   - **(1)** a credit transaction involving, or which may reasonably be expected to involve, a principal amount of $150,000 or more;
   - **(2)** the underwriting of life insurance involving, or which may reasonably be expected to involve, a face amount of $150,000 or more; or
   - **(3)** the employment of any individual at an annual salary which equals, or which may reasonably be expected to equal $75,000, or more.
 - **(c)**
-  - **(1)** The 7-year period referred to in paragraphs (4) and (6) of subsection (a) of this section shall begin, with respect to any delinquent account that is placed for collection (internally or by referral to a third party, whichever is earlier), charged to profit and loss, or subjected to any similar action, upon the expiration of the 180-day period beginning on the date of the commencement of the delinquency which immediately preceded the collection activity, charge to profit and loss, or similar action.
+  - **(1)** The 7-year period referred to in paragraphs (4) and (6) of subsection (a) shall begin, with respect to any delinquent account that is placed for collection (internally or by referral to a third party, whichever is earlier), charged to profit and loss, or subjected to any similar action, upon the expiration of the 180-day period beginning on the date of the commencement of the delinquency which immediately preceded the collection activity, charge to profit and loss, or similar action.
   - **(2)** Paragraph (1) shall apply only to items of information added to the file of a consumer on or after the date that is 455 days after September 30, 1996 .
 - **(d)**
   - **(1)** Any consumer reporting agency that furnishes a consumer report that contains information regarding any case involving the consumer that arises under title 11 shall include in the report an identification of the chapter of such title 11 under which such case arises if provided by the source of the information. If any case arising or filed under title 11 is withdrawn by the consumer before a final judgment, the consumer reporting agency shall include in the report that such case or filing was withdrawn upon receipt of documentation certifying such withdrawal.

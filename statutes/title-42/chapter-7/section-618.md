@@ -3,9 +3,9 @@ title: "Section 618 - Funding for child care"
 usc_title: 42
 usc_section: "618"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 618"
-generated_at: "2026-03-29T18:07:13.729Z"
+generated_at: "2026-03-29T18:27:02.905Z"
 ---
 
 # § 618. Funding for child care
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T18:07:13.729Z"
   - **(4)** The Secretary shall reserve not less than 1 percent, and not more than 2 percent, of the aggregate amount appropriated to carry out this section in each fiscal year for payments to Indian tribes and tribal organizations.
   - **(5)** In making the determinations concerning expenditures required under paragraphs (1) and (2)(C), the Secretary shall use information that was reported by the State on ACF Form 231 and available as of the applicable dates specified in clauses (i)(I), (ii), and (iii)(III) of section 603(a)(1)(D) 1 1 See References in Text note below. of this title.
 - **(b)**
-  - **(1)** Amounts received by a State under this section shall only be used to provide child care assistance. Amounts received by a State under a grant under subsection (a)(1) of this section shall be available for use by the State without fiscal year limitation.
+  - **(1)** Amounts received by a State under this section shall only be used to provide child care assistance. Amounts received by a State under a grant under subsection (a)(1) shall be available for use by the State without fiscal year limitation.
   - **(2)** A State shall ensure that not less than 70 percent of the total amount of funds received by the State in a fiscal year under this section are used to provide child care assistance to families who are receiving assistance under a State program under this part, families who are attempting through work activities to transition off of such assistance program, and families who are at risk of becoming dependent on such assistance program.
-- **(c)** Notwithstanding any other provision of law, amounts provided to a State under this section shall be transferred to the lead agency under the Child Care and Development Block Grant Act of 1990 [ 42 U.S.C. 9858 et seq.], integrated by the State into the programs established by the State under such Act, and be subject to requirements and limitations of such Act.
+- **(c)** Notwithstanding any other provision of law, amounts provided to a State under this section shall be transferred to the lead agency under the Child Care and Development Block Grant Act of 1990 [ 42 U.S.C. 9857 et seq.], integrated by the State into the programs established by the State under such Act, and be subject to requirements and limitations of such Act.
 - **(d)** As used in this section, the term “State” means each of the 50 States and the District of Columbia.

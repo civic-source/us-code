@@ -3,9 +3,9 @@ title: "Section 3187 - Provisional arrest and detention within extra­territoria
 usc_title: 18
 usc_section: "3187"
 chapter: 209
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "18 U.S.C. § 3187"
-generated_at: "2026-03-29T18:04:50.977Z"
+generated_at: "2026-03-29T18:24:43.866Z"
 ---
 
 # § 3187. Provisional arrest and detention within extra­territorial jurisdiction

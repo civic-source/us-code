@@ -3,9 +3,9 @@ title: "Section 2566 - Disposition of weapons-usable plutonium at Savannah River
 usc_title: 50
 usc_section: "2566"
 chapter: 42
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 2566"
-generated_at: "2026-03-29T18:07:43.079Z"
+generated_at: "2026-03-29T18:27:35.648Z"
 ---
 
 # § 2566. Disposition of weapons-usable plutonium at Savannah River Site
@@ -35,10 +35,10 @@ generated_at: "2026-03-29T18:07:43.079Z"
   - **(6)**
     - **(A)** Upon making a determination under paragraph (4) or (5), the Secretary shall submit to Congress a report on the options for removing from the State of South Carolina an amount of defense plutonium or defense plutonium materials equal to the amount of defense plutonium or defense plutonium materials transferred to the State of South Carolina after April 15, 2002 .
     - **(B)** Each report under subparagraph (A) shall include an analysis of each option set forth in the report, including the cost and schedule for implementation of such option, and any requirements under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) relating to consideration or selection of such option.
-    - **(C)** Upon submittal of a report under paragraph (A), the Secretary shall commence any analysis that may be required under the National Environmental Policy Act of 1969 in order to select among the options set forth in the report.
+    - **(C)** Upon submittal of a report under subparagraph (A), the Secretary shall commence any analysis that may be required under the National Environmental Policy Act of 1969 in order to select among the options set forth in the report.
 - **(c)** If the MOX production objective is not achieved as of January 1, 2014 , the Secretary shall, consistent with the National Environmental Policy Act of 1969 [ 42 U.S.C. 4321 et seq.] and other applicable laws, remove from the State of South Carolina, for storage or disposal elsewhere—
   - **(1)** not later than January 1, 2016 , not less than 1 metric ton of defense plutonium or defense plutonium materials; and
-  - **(2)** not later than January 1, 2022 , an amount of defense plutonium or defense plutonium materials equal to the amount of defense plutonium or defense plutonium materials transferred to the Savannah River Site between April 15, 2002 and January 1, 2022 , but not processed by the MOX facility.
+  - **(2)** not later than January 1, 2022 , an amount of defense plutonium or defense plutonium materials equal to the amount of defense plutonium or defense plutonium materials transferred to the Savannah River Site between April 15, 2002 , and January 1, 2022 , but not processed by the MOX facility.
 - **(d)**
   - **(1)** If the MOX production objective is not achieved as of January 1, 2016 , the Secretary shall, subject to the availability of appropriations, pay to the State of South Carolina each year beginning on or after that date through 2021 for economic and impact assistance an amount equal to $1,000,000 per day, not to exceed $100,000,000 per year, until the later of—
     - **(A)** the date on which the MOX production objective is achieved in such year; or
@@ -48,7 +48,7 @@ generated_at: "2026-03-29T18:07:43.079Z"
       - **(i)** one metric ton, in each of any two consecutive calendar years; and
       - **(ii)** three metric tons total,
     - **(B)** Nothing in this paragraph may be construed to terminate, supersede, or otherwise affect any other requirements of this section.
-  - **(3)** If the State of South Carolina obtains an injunction that prohibits the Department from taking any action necessary for the Department to meet any deadline specified by this subsection, that deadline shall be extended for a period of time equal to the period of time during which the injunction is in effect.
+  - **(3)** If the State of South Carolina obtains an injunction that prohibits the Department of Energy from taking any action necessary for the Department to meet any deadline specified by this subsection, that deadline shall be extended for a period of time equal to the period of time during which the injunction is in effect.
 - **(e)** If on July 1 each year beginning in 2025 and continuing for as long as the MOX facility is in use, less than 34 metric tons of defense plutonium or defense plutonium materials have been processed by the MOX facility, the Secretary shall submit to Congress a plan for—
   - **(1)** completing the processing of 34 metric tons of defense plutonium and defense plutonium material by the MOX facility; or
   - **(2)** removing from the State of South Carolina an amount of defense plutonium or defense plutonium materials equal to the amount of defense plutonium or defense plutonium materials transferred to the Savannah River Site after April 15, 2002 , but not processed by the MOX facility.

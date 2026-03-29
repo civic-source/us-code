@@ -1,14 +1,12 @@
 ---
-title: "Section 1085 - Tribal organizational document: development and adoption"
+title: "Section 1085 - Omitted"
 usc_title: 25
 usc_section: "1085"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1085"
-generated_at: "2026-03-29T18:05:17.119Z"
+generated_at: "2026-03-29T18:25:23.705Z"
 ---
 
-# § 1085. Tribal organizational document: development and adoption
-
-Upon completion of a Hoh base roll in accordance with section 1084 of this title , the Secretary shall assist the Hoh Indians in developing a tribal organizational document and shall call an election for the purpose of voting on the adoption of such document.
+# § 1085. Omitted
 

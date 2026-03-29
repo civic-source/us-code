@@ -3,9 +3,9 @@ title: "Section 2017 - Value of allotment"
 usc_title: 7
 usc_section: "2017"
 chapter: 51
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 2017"
-generated_at: "2026-03-29T18:04:04.952Z"
+generated_at: "2026-03-29T18:23:43.361Z"
 ---
 
 # § 2017. Value of allotment
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T18:04:04.952Z"
 - **(f)**
   - **(1)**
     - **(A)**
-      - **(i)** Subject to clause (ii), at the option of the State agency, allotments for residents of any facility described in subparagraph (B), (C), (D), or (E) of section 2012(n)(5) 1 of this title (referred to in this subsection as a “covered facility”) may be determined and issued under this paragraph in lieu of subsection (a) of this section.
+      - **(i)** Subject to clause (ii), at the option of the State agency, allotments for residents of any facility described in subparagraph (B), (C), (D), or (E) of section 2012(n)(5) 1 of this title (referred to in this subsection as a “covered facility”) may be determined and issued under this paragraph in lieu of subsection (a).
       - **(ii)** Unless the Secretary authorizes implementation of this paragraph in all States under paragraph (3), clause (i) shall apply only to residents of covered facilities participating in a pilot project under paragraph (2).
     - **(B)** The allotment for each eligible resident described in subparagraph (A) shall be calculated in accordance with standardized procedures established by the Secretary that take into account the allotments typically received by residents of covered facilities.
     - **(C)**
@@ -45,7 +45,7 @@ generated_at: "2026-03-29T18:04:04.952Z"
       - **(iii)** The State agency may elect not to issue an allotment under clause (ii)(I) if the State agency lacks sufficient information on the location of the departed resident to provide the allotment.
       - **(iv)** If the departed resident reapplies to participate in the supplemental nutrition assistance program, the allotment of the departed resident shall be determined without regard to this paragraph.
   - **(2)**
-    - **(A)** Before the Secretary authorizes implementation of paragraph (1) in all States, the Secretary shall carry out, at the request of 1 or more State agencies and in 1 or more areas of the United States, such number of pilot projects as the Secretary determines to be sufficient to test the feasibility of determining and issuing allotments to residents of covered facilities under paragraph (1) in lieu of subsection (a) of this section.
+    - **(A)** Before the Secretary authorizes implementation of paragraph (1) in all States, the Secretary shall carry out, at the request of 1 or more State agencies and in 1 or more areas of the United States, such number of pilot projects as the Secretary determines to be sufficient to test the feasibility of determining and issuing allotments to residents of covered facilities under paragraph (1) in lieu of subsection (a).
     - **(B)** To be eligible to participate in a pilot project under subparagraph (A), a State agency shall submit to the Secretary for approval a project plan that includes—
       - **(i)** a specification of the covered facilities in the State that will participate in the pilot project;
       - **(ii)** a schedule for reports to be submitted to the Secretary on the pilot project;

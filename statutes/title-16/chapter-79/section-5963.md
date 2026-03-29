@@ -1,14 +1,12 @@
 ---
-title: "Section 5963 - Recordkeeping requirements"
+title: "Section 5963 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "5963"
 chapter: 79
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 5963"
-generated_at: "2026-03-29T18:05:07.088Z"
+generated_at: "2026-03-29T18:24:22.926Z"
 ---
 
-# § 5963. Recordkeeping requirements
+# § 5963. Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272
 
-- **(a)** Each concessioner shall keep such records as the Secretary may prescribe to enable the Secretary to determine that all terms of the concessions contract have been and are being faithfully performed, and the Secretary and any duly authorized representative of the Secretary shall, for the purpose of audit and examination, have access to such records and to other books, documents, and papers of the concessioner pertinent to the contract and all terms and conditions thereof.
-- **(b)** The Comptroller General or any duly authorized representative of the Comptroller General shall, until the expiration of 5 calendar years after the close of the business year of each concessioner or subconcessioner, have access to and the right to examine any pertinent books, papers, documents and records of the concessioner or subconcessioner related to the contract or contracts involved.

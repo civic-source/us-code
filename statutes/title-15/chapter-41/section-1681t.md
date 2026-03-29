@@ -3,14 +3,14 @@ title: "Section 1681t - Relation to State laws"
 usc_title: 15
 usc_section: "1681t"
 chapter: 41
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 1681t"
-generated_at: "2026-03-29T18:04:29.638Z"
+generated_at: "2026-03-29T18:24:08.494Z"
 ---
 
 # § 1681t. Relation to State laws
 
-- **(a)** Except as provided in subsections (b) and (c) of this section, this subchapter does not annul, alter, affect, or exempt any person subject to the provisions of this subchapter from complying with the laws of any State with respect to the collection, distribution, or use of any information on consumers, or for the prevention or mitigation of identity theft, except to the extent that those laws are inconsistent with any provision of this subchapter, and then only to the extent of the inconsistency.
+- **(a)** Except as provided in subsections (b) and (c), this subchapter does not annul, alter, affect, or exempt any person subject to the provisions of this subchapter from complying with the laws of any State with respect to the collection, distribution, or use of any information on consumers, or for the prevention or mitigation of identity theft, except to the extent that those laws are inconsistent with any provision of this subchapter, and then only to the extent of the inconsistency.
 - **(b)** No requirement or prohibition may be imposed under the laws of any State—
   - **(1)** with respect to any subject matter regulated under—
     - **(A)** subsection (c) or (e) of section 1681b of this title , relating to the prescreening of consumer reports;
@@ -48,4 +48,4 @@ generated_at: "2026-03-29T18:04:29.638Z"
     - **(H)** section 1681s–2(a)(6) of this title ; or
     - **(I)** section 1681w of this title .
 - **(c)** Notwithstanding any definition of the term “firm offer of credit or insurance” (or any equivalent term) under the laws of any State, the definition of that term contained in section 1681a( l ) of this title shall be construed to apply in the enforcement and interpretation of the laws of any State governing consumer reports.
-- **(d)** Subsections (b) and (c) of this section do not affect any settlement, agreement, or consent judgment between any State Attorney General and any consumer reporting agency in effect on September 30, 1996 .
+- **(d)** Subsections (b) and (c) do not affect any settlement, agreement, or consent judgment between any State Attorney General and any consumer reporting agency in effect on September 30, 1996 .

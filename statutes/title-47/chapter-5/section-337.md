@@ -3,9 +3,9 @@ title: "Section 337 - Allocation and assignment of new public safety services li
 usc_title: 47
 usc_section: "337"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "47 U.S.C. § 337"
-generated_at: "2026-03-29T18:07:40.851Z"
+generated_at: "2026-03-29T18:27:09.562Z"
 ---
 
 # § 337. Allocation and assignment of new public safety services licenses and commercial licenses
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T18:07:40.851Z"
 - **(a)** Not later than January 1, 1998 , the Commission shall allocate the electromagnetic spectrum between 746 megahertz and 806 megahertz, inclusive, as follows:
   - **(1)** 34 megahertz of that spectrum for public safety services according to the terms and conditions established by the Commission, in consultation with the Secretary of Commerce and the Attorney General; and
   - **(2)** 26 megahertz of that spectrum for commercial use to be assigned by competitive bidding pursuant to section 309(j) of this title .
-- **(b)** The Commission shall commence assignment of licenses for public safety services created pursuant to subsection (a) of this section no later than September 30, 1998 .
+- **(b)** The Commission shall commence assignment of licenses for public safety services created pursuant to subsection (a) no later than September 30, 1998 .
 - **(c)**
   - **(1)** Upon application by an entity seeking to provide public safety services, the Commission shall waive any requirement of this chapter or its regulations implementing this chapter (other than its regulations regarding harmful interference) to the extent necessary to permit the use of unassigned frequencies for the provision of public safety services by such entity. An application shall be granted under this subsection if the Commission finds that—
     - **(A)** no other spectrum allocated to public safety services is immediately available to satisfy the requested public safety service use;
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T18:07:40.851Z"
   - **(3)** may permit public safety services licensees and commercial licensees—
     - **(A)** to aggregate multiple licenses to create larger spectrum blocks and service areas; and
     - **(B)** to disaggregate or partition licenses to create smaller spectrum blocks or service areas; and
-  - **(4)** shall establish rules insuring that public safety services licensees using spectrum reallocated pursuant to subsection (a)(1) of this section shall not be subject to harmful interference from television broadcast licensees.
+  - **(4)** shall establish rules insuring that public safety services licensees using spectrum reallocated pursuant to subsection (a)(1) shall not be subject to harmful interference from television broadcast licensees.
 - **(e)**
   - **(1)** Any full-power television station licensee that holds a television broadcast license to operate between 698 and 806 megahertz may not operate at that frequency after June 12, 2009 .
   - **(2)** After making any allocation or assignment under this section, the Commission shall seek to assure, consistent with the Commission’s plan for allotments for digital television service, that each qualifying low-power television station is assigned a frequency below 698 megahertz to permit the continued operation of such station.

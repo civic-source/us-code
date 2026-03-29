@@ -3,9 +3,9 @@ title: "Section 3303 - Conditions of additional credit allowance"
 usc_title: 26
 usc_section: "3303"
 chapter: 23
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 3303"
-generated_at: "2026-03-29T18:05:44.866Z"
+generated_at: "2026-03-29T18:25:53.799Z"
 ---
 
 # § 3303. Conditions of additional credit allowance
@@ -20,7 +20,8 @@ generated_at: "2026-03-29T18:05:44.866Z"
     - **(A)** compensation has been payable from such account throughout the year preceding the computation date, and
     - **(B)** the balance of such account amounts to not less than five times the largest amount of compensation paid from such account within any 1 of the 3 years preceding such date, and
     - **(C)** the balance of such account amounts to not less than 2½ percent of that part of the payroll or payrolls for the 3 years preceding such date by which contributions to such account were measured, and
-    - **(D)** such contributions were payable to such account with respect to the 3 years preceding the computation date.
+    - **(D)** such contributions were payable to such account with respect to the 3 years preceding the computation date; and
+  - **(4)** if the taxpayer is a certified professional employer organization (as defined in section 7705) that is treated as the employer under section 3511, such certified professional employer organization is permitted to collect and remit, in accordance with paragraphs (1), (2), and (3), contributions during the taxable year to the State unemployment fund with respect to a work site employee.
 - **(b)**
   - **(1)** On October 31 of each calendar year, the Secretary of Labor shall certify to the Secretary of the Treasury the law of each State (certified by the Secretary of Labor as provided in section 3304 for the 12-month period ending on such October 31), with respect to which he finds that reduced rates of contributions were allowable with respect to such 12-month period only in accordance with the provisions of subsection (a).
   - **(2)** If the Secretary of Labor finds that under the law of a single State (certified by the Secretary of Labor as provided in section 3304) more than one type of fund or account is maintained, and reduced rates of contributions to more than one type of fund or account were allowable with respect to any 12-month period ending on October 31, and one or more of such reduced rates were allowable under conditions not fulfilling the requirements of subsection (a), the Secretary of Labor shall, on such October 31, certify to the Secretary of the Treasury only those provisions of the State law pursuant to which reduced rates of contributions were allowable with respect to such 12-month period under conditions fulfilling the requirements of subsection (a), and shall, in connection therewith, designate the kind of fund or account, as defined in subsection (c), established by the provisions so certified. If the Secretary of Labor finds that a part of any reduced rate of contributions payable under such law or under such provisions is required to be paid into one fund or account and a part into another fund or account, the Secretary of Labor shall make such certification pursuant to this paragraph as he finds will assure the allowance of additional credits only with respect to that part of the reduced rate of contributions which is allowed under provisions which do fulfill the requirements of subsection (a).

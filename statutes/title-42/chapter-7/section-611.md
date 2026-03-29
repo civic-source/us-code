@@ -3,9 +3,9 @@ title: "Section 611 - Data collection and reporting"
 usc_title: 42
 usc_section: "611"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 611"
-generated_at: "2026-03-29T18:07:13.725Z"
+generated_at: "2026-03-29T18:27:02.902Z"
 ---
 
 # § 611. Data collection and reporting
@@ -17,16 +17,16 @@ generated_at: "2026-03-29T18:07:13.725Z"
       - **(ii)** Whether a child receiving such assistance or an adult in the family is receiving—
         - **(I)** Federal disability insurance benefits;
         - **(II)** benefits based on Federal disability status;
-        - **(III)** aid under a State plan approved under subchapter XIV of this chapter (as in effect without regard to the amendment made by section 301 of the Social Security Amendments of 1972);
-        - **(IV)** aid or assistance under a State plan approved under subchapter XVI of this chapter (as in effect without regard to such amendment) by reason of being permanently and totally disabled; or
-        - **(V)** supplemental security income benefits under subchapter XVI of this chapter (as in effect pursuant to such amendment) by reason of disability.
+        - **(III)** aid under a State plan approved under subchapter XIV (as in effect without regard to the amendment made by section 301 of the Social Security Amendments of 1972);
+        - **(IV)** aid or assistance under a State plan approved under subchapter XVI (as in effect without regard to such amendment) by reason of being permanently and totally disabled; or
+        - **(V)** supplemental security income benefits under subchapter XVI (as in effect pursuant to such amendment) by reason of disability.
       - **(iii)** The ages of the members of such families.
       - **(iv)** The number of individuals in the family, and the relation of each family member to the head of the family.
       - **(v)** The employment status and earnings of the employed adult in the family.
       - **(vi)** The marital status of the adults in the family, including whether such adults have never married, are widowed, or are divorced.
       - **(vii)** The race and educational level of each adult in the family.
       - **(viii)** The race and educational level of each child in the family.
-      - **(ix)** Whether the family received subsidized housing, medical assistance under the State plan approved under subchapter XIX of this chapter, supplemental nutrition assistance program benefits, or subsidized child care, and if the latter 2, the amount received.
+      - **(ix)** Whether the family received subsidized housing, medical assistance under the State plan approved under subchapter XIX, supplemental nutrition assistance program benefits, or subsidized child care, and if the latter 2, the amount received.
       - **(x)** The number of months that the family has received each type of assistance under the program.
       - **(xi)** If the adults participated in, and the number of hours per week of participation in, the following activities:
         - **(I)** Education.

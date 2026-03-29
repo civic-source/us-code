@@ -3,9 +3,9 @@ title: "Section 45Q - Credit for carbon dioxide sequestration"
 usc_title: 26
 usc_section: "45Q"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 45Q"
-generated_at: "2026-03-29T18:05:44.441Z"
+generated_at: "2026-03-29T18:25:53.394Z"
 ---
 
 # § 45Q. Credit for carbon dioxide sequestration
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T18:05:44.441Z"
   - **(1)** The credit under this section shall apply only with respect to qualified carbon dioxide the capture and disposal or use of which is within—
     - **(A)** the United States (within the meaning of section 638(1)), or
     - **(B)** a possession of the United States (within the meaning of section 638(2)).
-  - **(2)** The Secretary, in consultation with the Administrator of the Environmental Protection Agency 1 1 So in original. A comma probably should appear. the Secretary of Energy, and the Secretary of the Interior,, 2 2 So in original. shall establish regulations for determining adequate security measures for the geological storage of carbon dioxide under paragraph (1)(B) or (2)(C) of subsection (a) such that the carbon dioxide does not escape into the atmosphere. Such term shall include storage at deep saline formations, oil and gas reservoirs, and unminable coal seams under such conditions as the Secretary may determine under such regulations.
+  - **(2)** The Secretary, in consultation with the Administrator of the Environmental Protection Agency, the Secretary of Energy, and the Secretary of the Interior, shall establish regulations for determining adequate security measures for the geological storage of carbon dioxide under paragraph (1)(B) or (2)(C) of subsection (a) such that the carbon dioxide does not escape into the atmosphere. Such term shall include storage at deep saline formations, oil and gas reservoirs, and unminable coal seams under such conditions as the Secretary may determine under such regulations.
   - **(3)** The term “tertiary injectant” has the same meaning as when used within section 193(b)(1).
   - **(4)** The term “qualified enhanced oil or natural gas recovery project” has the meaning given the term “qualified enhanced oil recovery project” by section 43(c)(2), by substituting “crude oil or natural gas” for “crude oil” in subparagraph (A)(i) thereof.
   - **(5)** Any credit under this section shall be attributable to the person that captures and physically or contractually ensures the disposal of or the use as a tertiary injectant of the qualified carbon dioxide, except to the extent provided in regulations prescribed by the Secretary.

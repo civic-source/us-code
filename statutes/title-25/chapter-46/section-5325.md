@@ -3,9 +3,9 @@ title: "Section 5325 - Contract funding and indirect costs"
 usc_title: 25
 usc_section: "5325"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 5325"
-generated_at: "2026-03-29T02:13:21.007Z"
+generated_at: "2026-03-29T18:25:23.836Z"
 ---
 
 # § 5325. Contract funding and indirect costs
@@ -17,10 +17,9 @@ generated_at: "2026-03-29T02:13:21.007Z"
     - **(B)** are provided by the Secretary in support of the contracted program from resources other than those under contract.
   - **(3)**
     - **(A)** The contract support costs that are eligible costs for the purposes of receiving funding under this chapter shall include the costs of reimbursing each tribal contractor for reasonable and allowable costs of—
-      - **(i)** direct program expenses for the operation of the Federal program that is the subject of the contract; and
-      - **(ii)** any additional administrative or other expense incurred by the governing body of the Indian Tribe or Tribal organization and any overhead expense incurred by the tribal contractor in connection with the operation of the Federal program, function, service, or activity pursuant to the contract,
-    - **(B)** In calculating the reimbursement rate for expenses described in subparagraph (A)(ii), not less than 50 percent of the expenses described in subparagraph (A)(ii) that are incurred by the governing body of an Indian Tribe or Tribal organization relating to a Federal program, function, service, or activity carried out pursuant to the contract shall be considered to be reasonable and allowable.
-    - **(C)** On an annual basis, during such period as a tribe or tribal organization operates a Federal program, function, service, or activity pursuant to a contract entered into under this chapter, the tribe or tribal organization shall have the option to negotiate with the Secretary the amount of funds that the tribe or tribal organization is entitled to receive under such contract pursuant to this paragraph.
+      - **(i)** direct program expenses for the operation of the Federal program that is the subject of the contract, and
+      - **(ii)** any additional administrative or other expense related to the overhead incurred by the tribal contractor in connection with the operation of the Federal program, function, service, or activity pursuant to the contract,
+    - **(B)** On an annual basis, during such period as a tribe or tribal organization operates a Federal program, function, service, or activity pursuant to a contract entered into under this chapter, the tribe or tribal organization shall have the option to negotiate with the Secretary the amount of funds that the tribe or tribal organization is entitled to receive under such contract pursuant to this paragraph.
   - **(4)** For each fiscal year during which a self-determination contract is in effect, any savings attributable to the operation of a Federal program, function, service, or activity under a self-determination contract by a tribe or tribal organization (including a cost reimbursement construction contract) shall—
     - **(A)** be used to provide additional services or benefits under the contract; or
     - **(B)** be expended by the tribe or tribal organization in the succeeding fiscal year, as provided in section 13a of this title .

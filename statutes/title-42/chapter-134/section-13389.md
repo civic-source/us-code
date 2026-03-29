@@ -3,17 +3,17 @@ title: "Section 13389 - Greenhouse gas intensity reducing strategies"
 usc_title: 42
 usc_section: "13389"
 chapter: 134
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 13389"
-generated_at: "2026-03-29T18:07:15.320Z"
+generated_at: "2026-03-29T18:27:04.118Z"
 ---
 
 # § 13389. Greenhouse gas intensity reducing strategies
 
 - **(a)** In this section:
-  - **(1)** The term “Advisory Committee” means the Climate Change Technology Advisory Committee established under subsection (f)(1) of this section.
+  - **(1)** The term “Advisory Committee” means the Climate Change Technology Advisory Committee established under subsection (f)(1).
   - **(2)** The term “carbon sequestration” means the capture of carbon dioxide through terrestrial, geological, biological, or other means, which prevents the release of carbon dioxide into the atmosphere.
-  - **(3)** The term “Committee” means the Committee on Climate Change Technology established under subsection (b)(1) of this section.
+  - **(3)** The term “Committee” means the Committee on Climate Change Technology established under subsection (b)(1).
   - **(4)** The term “developing country” has the meaning given the term in section 13387(m) of this title .
   - **(5)** The term “greenhouse gas” means—
     - **(A)** carbon dioxide;
@@ -27,7 +27,7 @@ generated_at: "2026-03-29T18:07:15.320Z"
 - **(b)**
   - **(1)** Not later than 180 days after August 8, 2005 , the President shall establish a Committee on Climate Change Technology to—
     - **(A)** integrate current Federal climate reports; and
-    - **(B)** coordinate Federal climate change technology activities and programs carried out in furtherance of the strategy developed under subsection (c)(1) of this section.
+    - **(B)** coordinate Federal climate change technology activities and programs carried out in furtherance of the strategy developed under subsection (c)(1).
   - **(2)** The Committee shall be composed of at least 7 members, including—
     - **(A)** the Secretary, who shall chair the Committee;
     - **(B)** the Secretary of Commerce;
@@ -43,7 +43,7 @@ generated_at: "2026-03-29T18:07:15.320Z"
   - **(2)** The Committee shall—
     - **(A)** at the time of submission of the strategy to the President under paragraph (1), also make the strategy available to the public; and
     - **(B)** update the strategy every 5 years, or more frequently as the Committee determines to be necessary.
-- **(d)** Not later than 180 days after the date on which the Committee is established under subsection (b)(1) of this section, the Secretary, in consultation with the Committee, shall establish within the Department of Energy the Climate Change Technology Program to—
+- **(d)** Not later than 180 days after the date on which the Committee is established under subsection (b)(1), the Secretary, in consultation with the Committee, shall establish within the Department of Energy the Climate Change Technology Program to—
   - **(1)** assist the Committee in the interagency coordination of climate change technology research, development, demonstration, and deployment to reduce greenhouse gas intensity; and
   - **(2)** carry out the programs authorized under this section.
 - **(e)**
@@ -66,7 +66,7 @@ generated_at: "2026-03-29T18:07:15.320Z"
     - **(A)** the findings of the Advisory Committee; and
     - **(B)** any recommendations of the Advisory Committee for the removal or reduction of barriers to commercialization, deployment, and increasing the use of greenhouse gas intensity reducing technologies and practices.
 - **(g)**
-  - **(1)** Based on the strategy developed under subsection (c)(1) of this section, the technology inventory conducted under subsection (e)(1) of this section, the greenhouse gas intensity reducing technology study report submitted under subsection (e)(2) of this section, and reports under subsection (f)(3) of this section, if any, the Committee shall develop recommendations that would provide for the removal of domestic barriers to the commercialization and deployment of greenhouse gas intensity reducing technologies and practices.
+  - **(1)** Based on the strategy developed under subsection (c)(1), the technology inventory conducted under subsection (e)(1), the greenhouse gas intensity reducing technology study report submitted under subsection (e)(2), and reports under subsection (f)(3), if any, the Committee shall develop recommendations that would provide for the removal of domestic barriers to the commercialization and deployment of greenhouse gas intensity reducing technologies and practices.
   - **(2)** In developing the recommendations under paragraph (1), the Committee shall consider in the aggregate—
     - **(A)** the cost-effectiveness of the technology;
     - **(B)** fiscal and regulatory barriers;
@@ -74,7 +74,7 @@ generated_at: "2026-03-29T18:07:15.320Z"
     - **(D)** intellectual property issues.
   - **(3)** In developing recommendations under paragraph (1), the Committee may identify the need for climate change technology demonstration projects.
   - **(4)** Not later than 18 months after August 8, 2005 , the Committee shall submit to the President and Congress a report that—
-    - **(A)** identifies, based on the report submitted under subsection (f)(3) of this section, any barriers to, and commercial risks associated with, the deployment of greenhouse gas intensity reducing technologies; and
+    - **(A)** identifies, based on the report submitted under subsection (f)(3), any barriers to, and commercial risks associated with, the deployment of greenhouse gas intensity reducing technologies; and
     - **(B)** includes a plan for carrying out demonstration projects.
   - **(5)** The Committee shall—
     - **(A)** at the time of submission of the report to Congress under paragraph (4), also make the report available to the public; and

@@ -3,9 +3,9 @@ title: "Section 12756 - Monitoring of compliance"
 usc_title: 42
 usc_section: "12756"
 chapter: 130
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 12756"
-generated_at: "2026-03-29T18:07:15.280Z"
+generated_at: "2026-03-29T18:27:04.091Z"
 ---
 
 # § 12756. Monitoring of compliance

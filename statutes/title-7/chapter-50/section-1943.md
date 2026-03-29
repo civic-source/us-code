@@ -3,9 +3,9 @@ title: "Section 1943 - Limitations on amount of operating loans"
 usc_title: 7
 usc_section: "1943"
 chapter: 50
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 1943"
-generated_at: "2026-03-29T18:04:04.910Z"
+generated_at: "2026-03-29T18:23:43.323Z"
 ---
 
 # § 1943. Limitations on amount of operating loans

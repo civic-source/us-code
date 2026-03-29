@@ -3,9 +3,9 @@ title: "Section 167 - Unified combatant command for special operations forces"
 usc_title: 10
 usc_section: "167"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 167"
-generated_at: "2026-03-29T18:04:12.967Z"
+generated_at: "2026-03-29T18:23:51.727Z"
 ---
 
 # § 167. Unified combatant command for special operations forces
@@ -45,12 +45,12 @@ generated_at: "2026-03-29T18:04:12.967Z"
         - **(II)** supervise the acquisition of equipment, material, supplies, and services described in subparagraph (A), regardless of whether such acquisition is carried out by the command, or by a military department pursuant to a delegation of authority by the command;
         - **(III)** represent the command in discussions with the military departments regarding acquisition programs for which the command is a customer; and
         - **(IV)** work with the military departments to ensure that the command is appropriately represented in any joint working group or integrated product team regarding acquisition programs for which the command is a customer.
-      - **(ii)** The command acquisition executive of the special operations command shall be included on the distribution list for acquisition directives and instructions of the Department of Defense.
+      - **(ii)** The command acquisition executive of the special operations command shall be responsible to the commander for rapidly delivering acquisition solutions to meet validated special operations-peculiar requirements, subordinate to the Defense Acquisition Executive in matters of acquisition, subject to the same oversight as the service acquisition executives, and included on the distribution list for acquisition directives and instructions of the Department of Defense.
     - **(D)** The staff of the commander shall include an inspector general who shall conduct internal audits and inspections of purchasing and contracting actions through the special operations command and such other inspector general functions as may be assigned.
 - **(f)** In addition to the activities of a combatant command for which funding may be requested under section 166(b) of this title , the budget proposal of the special operations command shall include requests for funding for—
   - **(1)** development and acquisition of special operations-peculiar equipment; and
   - **(2)** acquisition of other material, supplies, or services that are peculiar to special operations activities.
-- **(g)** This section does not constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives under title V of the National Security Act of 1947 ( 50 U.S.C. 413 et seq.). 1 1 See References in Text note below.
+- **(g)** This section does not constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives under title V of the National Security Act of 1947 ( 50 U.S.C. 3091 et seq.).
 - **(h)** The Secretary of Defense shall prescribe regulations for the activities of the special operations command. Such regulations shall include authorization for the commander of such command to provide for operational security of special operations forces and activities.
 - **(i)**
   - **(1)** Subject to paragraph (2), for the purposes of this section special operations forces are those forces of the armed forces that—

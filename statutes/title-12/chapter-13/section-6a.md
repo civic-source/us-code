@@ -3,9 +3,9 @@ title: "Section 6a - Omitted"
 usc_title: 12
 usc_section: "6a"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 6a"
-generated_at: "2026-03-29T02:11:20.998Z"
+generated_at: "2026-03-29T18:24:02.869Z"
 ---
 
 # §§ 1749bbb–3 to 1749bbb–6a. Omitted

@@ -3,9 +3,9 @@ title: "Section 5622 - Export credit guarantee program"
 usc_title: 7
 usc_section: "5622"
 chapter: 87
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 5622"
-generated_at: "2026-03-29T18:04:05.049Z"
+generated_at: "2026-03-29T18:23:43.450Z"
 ---
 
 # § 5622. Export credit guarantee program
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T18:04:05.049Z"
   - **(1)** A financial institution shall be ineligible to receive an assignment of a credit guarantee issued by the Commodity Credit Corporation under this section if it is determined by the Corporation, at the time of the assignment, that such financial institution—
     - **(A)** is the financial institution issuing the letter of credit or a subsidiary of such institution; or
     - **(B)** is owned or controlled by an entity that owns or controls that financial institution issuing the letter of credit.
-  - **(2)** The Commodity Credit Corporation may guarantee under subsection (a) of this section the repayment of credit made available to finance an export sale irrespective of whether the obligor is located in the country to which the export sale is destined.
+  - **(2)** The Commodity Credit Corporation may guarantee under subsection (a) the repayment of credit made available to finance an export sale irrespective of whether the obligor is located in the country to which the export sale is destined.
 - **(h)** In making available any guarantees of credit under this section in connection with sales of fish and processed fish products, the Secretary shall make such guarantees available under terms and conditions that are comparable to the terms and conditions that apply to guarantees provided with respect to sales of other agricultural commodities under this section.
 - **(i)** The Secretary and the United States Trade Representative shall consult on a regular basis with the Committee on Agriculture, and the Committee on International Relations, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the status of multilateral negotiations regarding agricultural export credit programs.
 - **(j)**

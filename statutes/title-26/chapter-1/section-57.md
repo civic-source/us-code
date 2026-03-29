@@ -3,15 +3,15 @@ title: "Section 57 - Items of tax preference"
 usc_title: 26
 usc_section: "57"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 57"
-generated_at: "2026-03-29T18:05:44.457Z"
+generated_at: "2026-03-29T18:25:53.408Z"
 ---
 
 # § 57. Items of tax preference
 
 - **(a)** For purposes of this part, the items of tax preference determined under this section are—
-  - **(1)** With respect to each property (as defined in section 614), the excess of the deduction for depletion allowable under section 611 for the taxable year over the adjusted basis of the property at the end of the taxable year (determined without regard to the depletion deduction for the taxable year). Effective with respect to taxable years beginning after December 31, 1992 , this paragraph shall not apply to any deduction for depletion computed in accordance with section 613A(c).
+  - **(1)** With respect to each property (as defined in section 614), the excess of the deduction for depletion allowable under section 611 for the taxable year over the adjusted basis of the property at the end of the taxable year (determined without regard to the depletion deduction for the taxable year). This paragraph shall not apply to any deduction for depletion computed in accordance with section 613A(c).
   - **(2)**
     - **(A)** With respect to all oil, gas, and geothermal properties of the taxpayer, the amount (if any) by which the amount of the excess intangible drilling costs arising in the taxable year is greater than 65 percent of the net income of the taxpayer from oil, gas, and geothermal properties for the taxable year.
     - **(B)** For purposes of subparagraph (A), the amount of the excess intangible drilling costs arising in the taxable year is the excess of—
@@ -24,8 +24,8 @@ generated_at: "2026-03-29T18:05:44.457Z"
       - **(i)** all oil and gas properties which are not described in clause (ii), and
       - **(ii)** all properties which are geothermal deposits (as defined in section 613(e)(2)).
     - **(E)** In the case of any oil or gas well—
-      - **(i)** In the case of any taxable year beginning after December 31, 1992 , this paragraph shall not apply to any taxpayer which is not an integrated oil company (as defined in section 291(b)(4)).
-      - **(ii)** The reduction in alternative minimum taxable income by reason of clause (i) for any taxable year shall not exceed 40 percent (30 percent in case of taxable years beginning in 1993) of the alternative minimum taxable income for such year determined without regard to clause (i) and the alternative tax net operating loss deduction under section 56(a)(4).
+      - **(i)** This paragraph shall not apply to any taxpayer which is not an integrated oil company (as defined in section 291(b)(4)).
+      - **(ii)** The reduction in alternative minimum taxable income by reason of clause (i) for any taxable year shall not exceed 40 percent of the alternative minimum taxable income for such year determined without regard to clause (i) and the alternative tax net operating loss deduction under section 56(a)(4).
   - **[(3)**
   - **[(4)**
   - **(5)**

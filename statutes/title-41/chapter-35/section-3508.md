@@ -3,9 +3,9 @@ title: "Section 3508 - Right to examine contractor records"
 usc_title: 41
 usc_section: "3508"
 chapter: 35
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "41 U.S.C. § 3508"
-generated_at: "2026-03-29T18:06:34.763Z"
+generated_at: "2026-03-29T18:26:25.281Z"
 ---
 
 # § 3508. Right to examine contractor records

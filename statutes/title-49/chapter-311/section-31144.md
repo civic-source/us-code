@@ -3,9 +3,9 @@ title: "Section 31144 - Safety fitness of owners and operators"
 usc_title: 49
 usc_section: "31144"
 chapter: 311
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 31144"
-generated_at: "2026-03-29T18:07:51.449Z"
+generated_at: "2026-03-29T18:27:16.548Z"
 ---
 
 # § 31144. Safety fitness of owners and operators
@@ -34,14 +34,16 @@ generated_at: "2026-03-29T18:07:51.449Z"
   - **(3)** Not later than 30 days after an unfit owner or operator of commercial motor vehicles designed or used to transport hazardous material for which placarding of a motor vehicle is required under regulations prescribed under chapter 51, the Secretary shall review such owner’s or operator’s compliance with those requirements with which the owner or operator failed to comply and resulted in the Secretary determining that the owner or operator was not fit.
 - **(f)** A department, agency, or instrumentality of the United States Government may not use to provide any transportation service an owner or operator who the Secretary has determined is not fit until the Secretary determines such owner or operator is fit.
 - **(g)**
-  - **(1)** The Secretary shall require, by regulation, each owner and each operator granted new operating authority, after the date on which section 31148(b) is first implemented, to undergo a safety review within the first 18 months after the owner or operator, as the case may be, begins operations under such authority.
+  - **(1)**
+    - **(A)** Except as provided under subparagraph (B), the Secretary shall require, by regulation, each owner and each operator granted new registration under section 13902 or 31134 to undergo a safety review not later than 12 months after the owner or operator, as the case may be, begins operations under such registration.
+    - **(B)** The Secretary shall require, by regulation, each owner and each operator granted new registration to transport passengers under section 13902 or 31134 to undergo a safety review not later than 120 days after the owner or operator, as the case may be, begins operations under such registration.
   - **(2)** In the regulations issued pursuant to paragraph (1), the Secretary shall establish the elements of the safety review, including basic safety management controls. In establishing such elements, the Secretary shall consider their effects on small businesses and shall consider establishing alternate locations where such reviews may be conducted for the convenience of small businesses.
   - **(3)** The Secretary shall phase in the requirements of paragraph (1) in a manner that takes into account the availability of certified motor carrier safety auditors.
   - **(4)** Notwithstanding any other provision of this title, any new operating authority granted after the date on which section 31148(b) is first implemented shall be designated as new entrant authority until the safety review required by paragraph (1) is completed.
-  - **(5)**
-    - **(A)** The Secretary may make grants to States and local governments for new entrant motor carrier audits under this subsection without requiring a matching contribution from such States and local governments.
-    - **(B)** The Secretary shall set aside from amounts made available by section 31104(a) up to $32,000,000 per fiscal year for audits of new entrant motor carriers conducted pursuant to this paragraph.
-    - **(C)** If the Secretary determines that a State or local government is not able to use government employees to conduct new entrant motor carrier audits, the Secretary may use the funds set aside under this paragraph to conduct audits for such States or local governments.
+  - **[(5)** Repealed. Pub. L. 114–94, div. A, title V , § 5101(e)(1), Dec. 4, 2015 , 129 Stat. 1525 .]
+  - **(6)**
+    - **(A)** In addition to the requirements of this subsection, the Secretary shall require, by regulation, each registered household goods motor carrier to undergo a consumer protection standards review not later than 18 months after the household goods motor carrier begins operations under such authority.
+    - **(B)** In the regulations issued pursuant to subparagraph (A), the Secretary shall establish the elements of the consumer protections standards review, including basic management controls. In establishing the elements, the Secretary shall consider the effects on small businesses and shall consider establishing alternate locations where such reviews may be conducted for the convenience of small businesses.
 - **(h)**
   - **(1)** If an authorized agency of the Canadian federal government or a Canadian Territorial or Provincial government determines, by applying the procedure and standards prescribed by the Secretary under subsection (b) or pursuant to an agreement under paragraph (2), that a Canadian employer is unfit and prohibits the employer from operating a commercial motor vehicle in Canada or any Canadian Province, the Secretary may prohibit the employer from operating such vehicle in interstate and foreign commerce until the authorized Canadian agency determines that the employer is fit.
   - **(2)** The Secretary may consult and participate in negotiations with authorized officials of the Canadian federal government or a Canadian Territorial or Provincial government, as necessary, to provide reciprocal recognition of each country’s motor carrier safety fitness determinations. An agreement shall provide, to the maximum extent practicable, that each country will follow the procedure and standards prescribed by the Secretary under subsection (b) in making motor carrier safety fitness determinations.

@@ -3,19 +3,19 @@ title: "Section 1816 - Construction contracts"
 usc_title: 2
 usc_section: "1816"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "2 U.S.C. § 1816"
-generated_at: "2026-03-29T18:03:21.802Z"
+generated_at: "2026-03-29T18:23:14.123Z"
 ---
 
 # § 1816. Construction contracts
 
-- **(a)** The Architect of the Capitol may not enter into or administer any construction contract with a value greater than $50,000 unless the contract includes a provision requiring the payment of liquidated damages in the amount determined under subsection (b) of this section in the event that completion of the project is delayed because of the contractor.
-- **(b)** The amount of payment required under a liquidated damages provision described in subsection (a) of this section shall be equal to the product of—
+- **(a)** The Architect of the Capitol may not enter into or administer any construction contract with a value greater than $50,000 unless the contract includes a provision requiring the payment of liquidated damages in the amount determined under subsection (b) in the event that completion of the project is delayed because of the contractor.
+- **(b)** The amount of payment required under a liquidated damages provision described in subsection (a) shall be equal to the product of—
   - **(1)** the daily liquidated damage payment rate; and
   - **(2)** the number of days by which the completion of the project is delayed.
 - **(c)**
-  - **(1)** In subsection (b) of this section, the “daily liquidated damage payment rate” means—
+  - **(1)** In subsection (b), the “daily liquidated damage payment rate” means—
     - **(A)** $140, in the case of a contract with a value greater than $50,000 and less than $100,000;
     - **(B)** $200, in the case of a contract with a value equal to or greater than $100,000 and equal to or less than $500,000; and
     - **(C)** the sum of $200 plus $50 for each $100,000 increment by which the value of the contract exceeds $500,000, in the case of a contract with a value greater than $500,000.

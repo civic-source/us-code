@@ -1,14 +1,12 @@
 ---
-title: "Section 1034 - Cherokee Band; per capita distribution"
+title: "Section 1034 - Omitted"
 usc_title: 25
 usc_section: "1034"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1034"
-generated_at: "2026-03-29T18:05:17.117Z"
+generated_at: "2026-03-29T18:25:23.705Z"
 ---
 
-# § 1034. Cherokee Band; per capita distribution
-
-When the roll prepared pursuant to section 1033 of this title has been completed and finally approved, the Secretary shall withdraw from the Treasury the funds placed to the credit of the Cherokee Band of Shawnee Indians in accordance with section 1031 of this title , together with the interest accumulated thereon, and shall distribute them in equal per capita shares to persons whose names appear on the roll: Provided , That no person who receives a per capita payment from funds credited to the Cherokee Band of Shawnee Indians shall be permitted to share in any per capita distribution of the funds credited to the Absentee and Eastern Bands of Shawnee Indians.
+# § 1034. Omitted
 

@@ -3,16 +3,16 @@ title: "Section 6724 - Procedures for inspections"
 usc_title: 22
 usc_section: "6724"
 chapter: 75
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 6724"
-generated_at: "2026-03-29T18:05:22.011Z"
+generated_at: "2026-03-29T18:24:54.362Z"
 ---
 
 # § 6724. Procedures for inspections
 
 - **(a)** Each inspection of a plant, plant site, or other facility or location in the United States under the Convention shall be conducted in accordance with this section and section 6725 of this title , except where other procedures are provided in a facility agreement entered into under section 6722 of this title .
 - **(b)**
-  - **(1)** An inspection referred to in subsection (a) of this section may be made only upon issuance of an actual written notice by the United States National Authority to the owner and to the operator, occupant, or agent in charge of the premises to be inspected.
+  - **(1)** An inspection referred to in subsection (a) may be made only upon issuance of an actual written notice by the United States National Authority to the owner and to the operator, occupant, or agent in charge of the premises to be inspected.
   - **(2)** The notice for a routine inspection shall be submitted to the owner and to the operator, occupant, or agent in charge within six hours of receiving the notification of the inspection from the Technical Secretariat or as soon as possible thereafter. Notice for a challenge inspection shall be provided at any appropriate time determined by the United States National Authority. Notices may be posted prominently at the plant, plant site, or other facility or location if the United States is unable to provide actual written notice to the owner, operator, or agent in charge of the premises.
   - **(3)**
     - **(A)** The notice under paragraph (1) shall include all appropriate information supplied by the Technical Secretariat to the United States National Authority concerning—

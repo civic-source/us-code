@@ -3,9 +3,9 @@ title: "Section 481k - Travel and transportation allowances: non-medical attenda
 usc_title: 37
 usc_section: "481k"
 chapter: 8
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "37 U.S.C. § 481k"
-generated_at: "2026-03-29T18:06:17.231Z"
+generated_at: "2026-03-29T18:26:10.152Z"
 ---
 
 # § 481k. Travel and transportation allowances: non-medical attendants for members who are determined to be very seriously or seriously wounded, ill, or injured

@@ -3,9 +3,9 @@ title: "Section 6021 - Aviation duties: number of personnel assigned"
 usc_title: 10
 usc_section: "6021"
 chapter: 555
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 6021"
-generated_at: "2026-03-29T18:04:13.256Z"
+generated_at: "2026-03-29T18:23:52.050Z"
 ---
 
 # § 6021. Aviation duties: number of personnel assigned

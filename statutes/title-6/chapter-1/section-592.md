@@ -3,9 +3,9 @@ title: "Section 592 - Mission of Office"
 usc_title: 6
 usc_section: "592"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "6 U.S.C. § 592"
-generated_at: "2026-03-29T18:03:43.273Z"
+generated_at: "2026-03-29T18:23:35.765Z"
 ---
 
 # § 592. Mission of Office
@@ -51,7 +51,7 @@ generated_at: "2026-03-29T18:03:43.273Z"
 - **(b)** In this section:
   - **(1)** The term “Alaska Native-serving institution” has the meaning given the term in section 1059d of title 20 .
   - **(2)** The term “Asian American and Native American Pacific Islander-serving institution” has the meaning given the term in section 1059g of title 20 .
-  - **(3)** The term “Hawaiian native-serving institution” has the meaning given the term in section 1059d of title 20 .
+  - **(3)** The term “Hawaiian native-serving institution” 1 1 So in original. Section 1059d of title 20 defines “Native Hawaiian-serving institution”. has the meaning given the term in section 1059d of title 20 .
   - **(4)** The term “Hispanic-serving institution” has the meaning given that term in section 1101a of title 20 .
   - **(5)** The term “historically Black college or university” has the meaning given the term “part B institution” in section 1061(2) of title 20 .
   - **(6)** The term “Tribal College or University” has the meaning given that term in section 1059c(b) of title 20 .

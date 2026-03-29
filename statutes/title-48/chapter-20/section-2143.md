@@ -1,14 +1,14 @@
 ---
-title: "Section 2143 - Effect of finding of noncompliance with Budget"
+title: "Section 2143 - Effect of finding of noncompliance with budget"
 usc_title: 48
 usc_section: "2143"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "48 U.S.C. § 2143"
-generated_at: "2026-03-29T02:16:00.850Z"
+generated_at: "2026-03-29T18:27:11.697Z"
 ---
 
-# § 2143. Effect of finding of noncompliance with Budget
+# § 2143. Effect of finding of noncompliance with budget
 
 - **(a)** Not later than 15 days after the last day of each quarter of a fiscal year (beginning with the fiscal year determined by the Oversight Board), the Governor shall submit to the Oversight Board a report, in such form as the Oversight Board may require, describing—
   - **(1)** the actual cash revenues, cash expenditures, and cash flows of the territorial government for the preceding quarter, as compared to the projected revenues, expenditures, and cash flows contained in the certified Budget for such preceding quarter; and

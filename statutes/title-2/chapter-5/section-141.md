@@ -3,9 +3,9 @@ title: "Section 141 - Allocation of responsibilities for Library buildings and g
 usc_title: 2
 usc_section: "141"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "2 U.S.C. § 141"
-generated_at: "2026-03-29T18:03:21.711Z"
+generated_at: "2026-03-29T18:23:14.047Z"
 ---
 
 # § 141. Allocation of responsibilities for Library buildings and grounds
@@ -19,5 +19,5 @@ generated_at: "2026-03-29T18:03:21.711Z"
     - **(E)** the care and maintenance of Library grounds; and
     - **(F)** purchase of all equipment necessary to fulfill the responsibilities set forth under this paragraph.
   - **(2)** The employees required for the performance of the duties under paragraph (1) shall be appointed by the Architect of the Capitol.
-- **(b)** The Librarian of Congress shall have charge of all work (other than work under subsection (a) of this section) at the Library of Congress buildings and grounds.
+- **(b)** The Librarian of Congress shall have charge of all work (other than work under subsection (a)) at the Library of Congress buildings and grounds.
 - **(c)** The Architect of the Capitol and the Librarian of Congress may enter into agreements with each other to perform work under this section, and, subject to the approval of the Committees on Appropriations of the House of Representatives and the Senate and the Joint Committee on the Library, may transfer between themselves appropriations or other available funds to pay the costs therefor.

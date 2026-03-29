@@ -3,15 +3,15 @@ title: "Section 395 - Assistance for demonstration projects"
 usc_title: 47
 usc_section: "395"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "47 U.S.C. § 395"
-generated_at: "2026-03-29T18:07:40.861Z"
+generated_at: "2026-03-29T18:27:09.569Z"
 ---
 
 # § 395. Assistance for demonstration projects
 
 - **(a)** It is the purpose of this subpart to promote the development of nonbroadcast telecommunications facilities and services for the transmission, distribution, and delivery of health, education, and public or social service information. The Secretary is authorized, upon receipt of an application in such form and containing such information as he may by regulation require, to make grants to, and enter into contracts with, public and private nonprofit agencies, organizations, and institutions for the purpose of carrying out telecommunications demonstrations.
-- **(b)** The Secretary may approve an application submitted under subsection (a) of this section if he determines that—
+- **(b)** The Secretary may approve an application submitted under subsection (a) if he determines that—
   - **(1)** the project for which application is made will demonstrate innovative methods or techniques of utilizing nonbroadcast telecommunications equipment or facilities to satisfy the purpose of this subpart;
   - **(2)** demonstrations and related activities assisted under this subpart will remain under the administration and control of the applicant;
   - **(3)** the applicant has the managerial and technical capability to carry out the project for which the application is made; and

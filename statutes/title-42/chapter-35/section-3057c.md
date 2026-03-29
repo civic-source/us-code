@@ -3,9 +3,9 @@ title: "Section 3057c - Eligibility"
 usc_title: 42
 usc_section: "3057c"
 chapter: 35
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 3057c"
-generated_at: "2026-03-29T18:07:14.497Z"
+generated_at: "2026-03-29T18:27:03.498Z"
 ---
 
 # § 3057c. Eligibility
@@ -14,4 +14,4 @@ generated_at: "2026-03-29T18:07:14.497Z"
   - **(1)** the tribal organization represents at least 50 individuals who are 60 years of age or older; and
   - **(2)** the tribal organization demonstrates the ability to deliver supportive services, including nutritional services.
 - **(b)** An Indian tribe represented by an organization specified in subsection (a) of this section shall be eligible for only one grant under this part for any fiscal year. Nothing in this subsection shall preclude an Indian tribe represented by an organization specified in subsection (a) of this section from receiving a grant under section 3057k–11 of this title .
-- **(c)** For the purposes of this part the terms “Indian tribe” and “tribal organization” have the same meaning as in section 450b of title 25 .
+- **(c)** For the purposes of this part the terms “Indian tribe” and “tribal organization” have the same meaning as in section 5304 of title 25 .

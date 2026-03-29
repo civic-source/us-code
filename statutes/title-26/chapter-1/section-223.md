@@ -3,9 +3,9 @@ title: "Section 223 - Health savings accounts"
 usc_title: 26
 usc_section: "223"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 223"
-generated_at: "2026-03-29T18:05:44.544Z"
+generated_at: "2026-03-29T18:25:53.490Z"
 ---
 
 # § 223. Health savings accounts
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T18:05:44.544Z"
     - **(B)** in the case of an eligible individual who has family coverage under a high deductible health plan as of the first day of such month, $4,500.
   - **(3)**
     - **(A)** In the case of an individual who has attained age 55 before the close of the taxable year, the applicable limitation under subparagraphs (A) and (B) of paragraph (2) shall be increased by the additional contribution amount.
-    - **(B)** For purposes of this section, the additional contribution amount is the amount determined in accordance with the following table: For taxable years The additional beginning in: contribution amount is: 2004 $500 2005 $600 2006 $700 2007 $800 2008 $900 2009 and thereafter $1,000.
+    - **(B)** For purposes of this section, the additional contribution amount is the amount determined in accordance with the following table: For taxable years beginning in: The additional contribution amount is: 2004 $500 2005 $600 2006 $700 2007 $800 2008 $900 2009 and thereafter $1,000.
   - **(4)** The limitation which would (but for this paragraph) apply under this subsection to an individual for any taxable year shall be reduced (but not below zero) by the sum of—
     - **(A)** the aggregate amount paid for such taxable year to Archer MSAs of such individual,
     - **(B)** the aggregate amount contributed to health savings accounts of such individual which is excludable from the taxpayer’s gross income for such taxable year under section 106(d) (and such amount shall not be allowed as a deduction under subsection (a)), and
@@ -53,6 +53,7 @@ generated_at: "2026-03-29T18:05:44.544Z"
       - **(iii)** for taxable years beginning after December 31, 2006 , coverage under a health flexible spending arrangement during any period immediately following the end of a plan year of such arrangement during which unused benefits or contributions remaining at the end of such plan year may be paid or reimbursed to plan participants for qualified benefit expenses incurred during such period if—
         - **(I)** the balance in such arrangement at the end of such plan year is zero, or
         - **(II)** the individual is making a qualified HSA distribution (as defined in section 106(e)) in an amount equal to the remaining balance in such arrangement as of the end of such plan year, in accordance with rules prescribed by the Secretary.
+    - **(C)** An individual shall not fail to be treated as an eligible individual for any period merely because the individual receives hospital care or medical services under any law administered by the Secretary of Veterans Affairs for a service-connected disability (within the meaning of section 101(16) of title 38 , United States Code).
   - **(2)**
     - **(A)** The term “high deductible health plan” means a health plan—
       - **(i)** which has an annual deductible which is not less than—

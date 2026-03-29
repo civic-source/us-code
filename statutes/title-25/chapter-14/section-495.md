@@ -1,14 +1,12 @@
 ---
-title: "Section 495 - Annette Islands reserved for Metlakahtla Indians"
+title: "Section 495 - Omitted"
 usc_title: 25
 usc_section: "495"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 495"
-generated_at: "2026-03-29T18:05:17.067Z"
+generated_at: "2026-03-29T18:25:23.695Z"
 ---
 
-# § 495. Annette Islands reserved for Metlakahtla Indians
-
-Until otherwise provided by law the body of lands known as Annette Islands, situated in Alexander Archipelago in southeastern Alaska on the north side of Dixon’s entrance, is set apart as a reservation for the use of the Metlakahtla Indians, and those people known as Metlakahtlans who, on March 3, 1891 , had recently emigrated from British Columbia to Alaska, and such other Alaskan natives as may join them, to be held and used by them in common, under such rules and regulations, and subject to such restrictions, as may be prescribed from time to time by the Secretary of the Interior.
+# § 495. Omitted
 

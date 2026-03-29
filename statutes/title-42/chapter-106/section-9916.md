@@ -3,9 +3,9 @@ title: "Section 9916 - Fiscal controls, audits, and withholding"
 usc_title: 42
 usc_section: "9916"
 chapter: 106
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 9916"
-generated_at: "2026-03-29T18:07:15.117Z"
+generated_at: "2026-03-29T18:27:03.965Z"
 ---
 
 # § 9916. Fiscal controls, audits, and withholding
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T18:07:15.117Z"
     - **(C)** subject to paragraph (2), prepare, at least every year, an audit of the expenditures of the State of amounts received under this chapter and amounts transferred to carry out the purposes of this chapter; and
     - **(D)** make appropriate books, documents, papers, and records available to the Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, for examination, copying, or mechanical reproduction on or off the premises of the appropriate entity upon a reasonable request for the items.
   - **(2)**
-    - **(A)** Subject to subparagraph (B), each audit required by subsection (a)(1)(C) of this section shall be conducted by an entity independent of any agency administering activities or services carried out under this chapter and shall be conducted in accordance with generally accepted accounting principles.
+    - **(A)** Subject to subparagraph (B), each audit required by subsection (a)(1)(C) shall be conducted by an entity independent of any agency administering activities or services carried out under this chapter and shall be conducted in accordance with generally accepted accounting principles.
     - **(B)** Audits shall be conducted under this paragraph in the manner and to the extent provided in chapter 75 of title 31 (commonly known as the “Single Audit Act Amendments of 1996”).
     - **(C)** Within 30 days after the completion of each such audit in a State, the chief executive officer of the State shall submit a copy of such audit to any eligible entity that was the subject of the audit at no charge, to the legislature of the State, and to the Secretary.
   - **(3)** The State shall repay to the United States amounts found not to have been expended in accordance with this chapter or the Secretary may offset such amounts against any other amount to which the State is or may become entitled under this chapter.

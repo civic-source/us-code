@@ -1,14 +1,12 @@
 ---
-title: "Section 1245 - Use of funds apportioned; approval by Secretary on receipt of recommendations from certain tribal organizations"
+title: "Section 1245 - Omitted"
 usc_title: 25
 usc_section: "1245"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1245"
-generated_at: "2026-03-29T18:05:17.124Z"
+generated_at: "2026-03-29T18:25:23.710Z"
 ---
 
-# § 1245. Use of funds apportioned; approval by Secretary on receipt of recommendations from certain tribal organizations
-
-The funds apportioned to the Minnesota Chippewa Tribe, the Turtle Mountain Band, and the Chippewa-Cree Tribe may be advanced, expended, invested, or reinvested for any purpose authorized by the respective tribal governing bodies and approved by the Secretary of the Interior: Provided , That the governing body of the Minnesota Chippewa Tribe shall act in concert with the General Council of the Pembina Band of Chippewa Indians of the White Earth Reservation for the purpose of making recommendations to the Secretary; And provided further , That the Pembina descendants within the Turtle Mountain Band shall be authorized to establish pursuant to regulations set by the Secretary the Pembina Descendants Committee and that the tribal governing body shall be required to work in concert with such committee for the purpose of making recommendations to the Secretary and only those members of the three cited tribes who are enrolled as Pembina descendants under the provisions of this subchapter shall be permitted to share in any per capita distribution of the funds accruing to the tribes.
+# § 1245. Omitted
 

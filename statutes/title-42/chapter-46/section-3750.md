@@ -3,9 +3,9 @@ title: "Section 3750 - Name of program"
 usc_title: 42
 usc_section: "3750"
 chapter: 46
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 3750"
-generated_at: "2026-03-29T18:07:14.541Z"
+generated_at: "2026-03-29T18:27:03.529Z"
 ---
 
 # § 3750. Name of program

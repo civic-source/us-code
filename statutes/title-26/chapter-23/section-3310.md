@@ -3,9 +3,9 @@ title: "Section 3310 - Judicial review"
 usc_title: 26
 usc_section: "3310"
 chapter: 23
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 3310"
-generated_at: "2026-03-29T18:05:44.870Z"
+generated_at: "2026-03-29T18:25:53.804Z"
 ---
 
 # § 3310. Judicial review

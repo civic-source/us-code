@@ -3,9 +3,9 @@ title: "Section 832d - Contracts for sale of electricity"
 usc_title: 16
 usc_section: "832d"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 832d"
-generated_at: "2026-03-29T18:05:06.861Z"
+generated_at: "2026-03-29T18:24:22.733Z"
 ---
 
 # § 832d. Contracts for sale of electricity

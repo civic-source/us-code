@@ -3,9 +3,9 @@ title: "Section 1087c - Selection of institutions for participation and originat
 usc_title: 20
 usc_section: "1087c"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1087c"
-generated_at: "2026-03-29T18:05:00.117Z"
+generated_at: "2026-03-29T18:24:40.957Z"
 ---
 
 # § 1087c. Selection of institutions for participation and origination
@@ -20,11 +20,11 @@ generated_at: "2026-03-29T18:05:00.117Z"
     - **(B)** desires to originate loans under this part; and
     - **(C)** meets the criteria described in paragraph (2).
   - **(2)** The Secretary may approve an institution to originate loans only if such institution—
-    - **(A)** is not on the reimbursement system of payment for any of the programs under subpart 1 or 3 of part A of this subchapter, part C of subchapter I of chapter 34 of title 42, or part D of this subchapter;
+    - **(A)** is not on the reimbursement system of payment for any of the programs under subpart 1 or 3 of part A, part C, or part E of this subchapter;
     - **(B)** is not overdue on program or financial reports or audits required under this subchapter;
     - **(C)** is not subject to an emergency action, or a limitation, suspension, or termination under section 1078(b)(1)(T), 1082(h), or 1094(c) of this title;
     - **(D)** in the opinion of the Secretary, has not had severe performance deficiencies for any of the programs under this subchapter, including such deficiencies demonstrated by audits or program reviews submitted or conducted during the 5 calendar years immediately preceding the date of application;
     - **(E)** provides an assurance that such institution has no delinquent outstanding debts to the Federal Government, unless such debts are being repaid under or in accordance with a repayment arrangement satisfactory to the Federal Government, or the Secretary in the Secretary’s discretion determines that the existence or amount of such debts has not been finally determined by the cognizant Federal agency; and
     - **(F)** meets such other criteria as the Secretary may establish to protect the financial interest of the United States and to promote the purposes of this part.
 - **(d)** The Secretary may not select an institution of higher education for participation under this section unless such institution is an eligible institution under section 1085(a) of this title .
-- **(e)** Subject to such requirements as the Secretary may prescribe, eligible institutions of higher education (as determined under subsection (d) of this section) with agreements under section 1087d(a) of this title may apply to the Secretary as consortia to originate loans under this part for students in attendance at such institutions. Each such institution shall be required to meet the requirements of subsection (c) of this section with respect to loan origination.
+- **(e)** Subject to such requirements as the Secretary may prescribe, eligible institutions of higher education (as determined under subsection (d)) with agreements under section 1087d(a) of this title may apply to the Secretary as consortia to originate loans under this part for students in attendance at such institutions. Each such institution shall be required to meet the requirements of subsection (c) with respect to loan origination.

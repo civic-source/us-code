@@ -3,9 +3,9 @@ title: "Section 103 - National Highway System"
 usc_title: 23
 usc_section: "103"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "23 U.S.C. § 103"
-generated_at: "2026-03-29T18:05:12.190Z"
+generated_at: "2026-03-29T18:25:00.166Z"
 ---
 
 # § 103. National Highway System
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T18:05:12.190Z"
     - **(B)** meet national defense requirements; and
     - **(C)** serve interstate and interregional travel and commerce.
   - **(2)** The National Highway System described in paragraph (1) consists of the following:
-    - **(A)** The National Highway System depicted on the map submitted by the Secretary of Transportation to Congress with the report entitled ‘Pulling Together: The National Highway System and its Connections to Major Intermodal Terminals’ and dated May 24, 1996 , and modifications approved by the Secretary before the date of enactment of the MAP–21.
+    - **(A)** The National Highway System depicted on the map submitted by the Secretary of Transportation to Congress with the report entitled “Pulling Together: The National Highway System and its Connections to Major Intermodal Terminals” and dated May 24, 1996 , and modifications approved by the Secretary before the date of enactment of the MAP–21.
     - **(B)** Other urban and rural principal arterial routes, and border crossings on those routes, that were not included on the National Highway System before the date of enactment of the MAP–21.
     - **(C)** Other connector highways (including toll facilities) that were not included in the National Highway System before the date of enactment of the MAP–21 but that provide motor vehicle access between arterial routes on the National Highway System and a major intermodal transportation facility.
     - **(D)** A strategic highway network that—
@@ -28,9 +28,11 @@ generated_at: "2026-03-29T18:05:12.190Z"
       - **(i)** consist of highways that provide motor vehicle access between major military installations and highways that are part of the strategic highway network but were not included on the National Highway System before the date of enactment of the MAP–21; and
       - **(ii)** shall be designated by the Secretary, in consultation with appropriate Federal agencies and the States.
   - **(3)**
-    - **(A)** The Secretary may make any modification, including any modification consisting of a connector to a major intermodal terminal, to the National Highway System that is proposed by a State if the Secretary determines that the modification—
+    - **(A)** The Secretary may make any modification to the National Highway System, including any modification consisting of a connector to a major intermodal terminal or the withdrawal of a road from that system, that is proposed by a State if the Secretary determines that the modification—
       - **(i)** meets the criteria established for the National Highway System under this title after the date of enactment of the MAP–21; and
-      - **(ii)** enhances the national transportation characteristics of the National Highway System.
+      - **(ii)**
+        - **(I)** enhances the national transportation characteristics of the National Highway System; or
+        - **(II)** in the case of the withdrawal of a road, is reasonable and appropriate.
     - **(B)**
       - **(i)** In proposing a modification under this paragraph, a State shall cooperate with local and regional officials.
       - **(ii)** In an urbanized area, the local officials shall act through the metropolitan planning organization designated for the area under section 134.
@@ -62,6 +64,6 @@ generated_at: "2026-03-29T18:05:12.190Z"
   - **(5)**
     - **(A)** Except as provided in subparagraph (B), the Interstate System shall not be considered to be a historic site under section 303 of title 49 or section 138 of this title , regardless of whether the Interstate System or portions or elements of the Interstate System are listed on, or eligible for listing on, the National Register of Historic Places.
     - **(B)** Subject to subparagraph (C)—
-      - **(i)** the Secretary shall determine, through the administrative process established for exempting the Interstate System from section 106 of the National Historic Preservation Act ( 16 U.S.C. 470f ), those individual elements of the Interstate System that possess national or exceptional historic significance (such as a historic bridge or a highly significant engineering feature); and
+      - **(i)** the Secretary shall determine, through the administrative process established for exempting the Interstate System from section 306108 of title 54 , those individual elements of the Interstate System that possess national or exceptional historic significance (such as a historic bridge or a highly significant engineering feature); and
       - **(ii)** those elements shall be considered to be historic sites under section 303 of title 49 or section 138 of this title , as applicable.
-    - **(C)** Subparagraph (B) does not prohibit a State from carrying out construction, maintenance, preservation, restoration, or rehabilitation activities for a portion of the Interstate System referred to in subparagraph (B) upon compliance with section 303 of title 49 or section 138 of this title , as applicable, and section 106 of the National Historic Preservation Act ( 16 U.S.C. 470f ).
+    - **(C)** Subparagraph (B) does not prohibit a State from carrying out construction, maintenance, preservation, restoration, or rehabilitation activities for a portion of the Interstate System referred to in subparagraph (B) upon compliance with section 303 of title 49 or section 138 of this title , as applicable, and section 306108 of title 54 .

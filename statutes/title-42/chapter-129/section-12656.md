@@ -3,9 +3,9 @@ title: "Section 12656 - Urban Youth Corps"
 usc_title: 42
 usc_section: "12656"
 chapter: 129
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 12656"
-generated_at: "2026-03-29T18:07:15.271Z"
+generated_at: "2026-03-29T18:27:04.081Z"
 ---
 
 # § 12656. Urban Youth Corps
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T18:07:15.271Z"
   - **(5)** to stimulate interest among young people in the United States in lifelong service to their communities and the United States.
 - **(c)** For purposes of this section:
   - **(1)** The term “appropriate service project” means any project for the rehabilitation, reclamation, or beautification of urban public housing and public works and transportation resources or facilities.
-  - **(2)** The term “Corps” and “Urban Youth Corps” mean the Urban Youth Corps established under subsection (d)(1) of this section.
+  - **(2)** The term “Corps” and “Urban Youth Corps” mean the Urban Youth Corps established under subsection (d)(1).
   - **(3)** The term “qualified urban youth corps” means any program established by a State or local government or by a nonprofit organization that—
     - **(A)** is capable of offering meaningful, full-time, productive work for individuals between the ages of 16 and 25, inclusive, in an urban or public works or transportation setting;
     - **(B)** gives participants a mix of work experience, basic and life skills, education, training, and support services; and

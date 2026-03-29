@@ -1,14 +1,12 @@
 ---
-title: "Section 1052 - Distribution of funds; pro rata basis"
+title: "Section 1052 - Omitted"
 usc_title: 25
 usc_section: "1052"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1052"
-generated_at: "2026-03-29T18:05:17.118Z"
+generated_at: "2026-03-29T18:25:23.705Z"
 ---
 
-# § 1052. Distribution of funds; pro rata basis
-
-The Secretary is authorized and directed to withdraw the funds on deposit in the Treasury of the United States to the credit of the Nehalem and Tillamook Bands of Indians that were appropriated by the Act of May 17, 1963 ( 77 Stat. 43 ), in satisfaction of a judgment obtained by the bands in the Indian Claims Commission against the United States in Docket Numbered 240 together with the interest accrued thereon and to pro rate such funds among those persons whose names appear on the roll prepared pursuant to section 1051 of this title . The Secretary shall distribute shares payable to living persons enrolled pursuant to section 1051 of this title and shares payable to the heirs and legatees of deceased persons enrolled pursuant to section 1051 of this title according to such rules and regulations as he may prescribe.
+# § 1052. Omitted
 

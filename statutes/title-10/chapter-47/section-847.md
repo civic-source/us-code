@@ -3,15 +3,15 @@ title: "Section 847 - Art. 47. Refusal to appear or testify"
 usc_title: 10
 usc_section: "847"
 chapter: 47
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 847"
-generated_at: "2026-03-29T18:04:13.013Z"
+generated_at: "2026-03-29T18:23:51.763Z"
 ---
 
 # § 847. Art. 47. Refusal to appear or testify
 
 - **(a)** Any person not subject to this chapter who—
-  - **(1)** has been duly subpoenaed to appear as a witness before a court-martial, military commission, court of inquiry, or any other military court or board, or before any military or civil officer designated to take a deposition to be read in evidence before such a court, commission, or board, or has been duly issued a subpoena duces tecum for an investigation pursuant to section 832(b) of this title (article 32(b));
+  - **(1)** has been duly subpoenaed to appear as a witness before a court-martial, military commission, court of inquiry, or any other military court or board, or before any military or civil officer designated to take a deposition to be read in evidence before such a court, commission, or board, or has been duly issued a subpoena duces tecum for a preliminary hearing pursuant to section 832 of this title (article 32);
   - **(2)** has been provided a means for reimbursement from the Government for fees and mileage at the rates allowed to witnesses attending the courts of the United States or, in the case of extraordinary hardship, is advanced such fees and mileage; and
   - **(3)** willfully neglects or refuses to appear, or refuses to qualify as a witness or to testify or to produce any evidence which that person may have been legally subpoenaed to produce;
 - **(b)** Any person who commits an offense named in subsection (a) shall be tried on indictment or information in a United States district court or in a court of original criminal jurisdiction in any of the Commonwealths or possessions of the United States, and jurisdiction is conferred upon those courts for that purpose. Upon conviction, such a person shall be fined or imprisoned, or both, at the court’s discretion.

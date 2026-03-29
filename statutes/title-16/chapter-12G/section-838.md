@@ -3,9 +3,9 @@ title: "Section 838 - Congressional findings; authority and duties of Secretary 
 usc_title: 16
 usc_section: "838"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 838"
-generated_at: "2026-03-29T18:05:06.868Z"
+generated_at: "2026-03-29T18:24:22.738Z"
 ---
 
 # § 838. Congressional findings; authority and duties of Secretary of Energy relating to Federal Columbia River Power System unaffected

@@ -3,9 +3,9 @@ title: "Section 11825 - Review of applications"
 usc_title: 42
 usc_section: "11825"
 chapter: 123
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 11825"
-generated_at: "2026-03-29T18:07:15.205Z"
+generated_at: "2026-03-29T18:27:04.036Z"
 ---
 
 # § 11825. Review of applications
@@ -22,5 +22,5 @@ generated_at: "2026-03-29T18:07:15.205Z"
     - **(A)** announcing the availability of funds to carry out this subchapter,
     - **(B)** stating the general criteria applicable to the selection of applicants to receive such funds, and
     - **(C)** describing the procedures applicable to submitting and reviewing applications for such funds.
-  - **(2)** As part of such process, each application referred to in subsection (a) of this section shall be subject to peer review by individuals (excluding officers and employees of the Department of Justice and the Department of Health and Human Services) who have expertise in the subject matter related to the project or activity proposed in such application.
-- **(c)** The appropriate Federal officer shall expedite the consideration of an application referred to in subsection (a) of this section if the applicant demonstrates, to the satisfaction of the 1 1 So in original. The word “the” probably should not appear. such officer, that the failure to expedite such consideration would prevent the effective implementation of the project or activity set forth in such application.
+  - **(2)** As part of such process, each application referred to in subsection (a) shall be subject to peer review by individuals (excluding officers and employees of the Department of Justice and the Department of Health and Human Services) who have expertise in the subject matter related to the project or activity proposed in such application.
+- **(c)** The appropriate Federal officer shall expedite the consideration of an application referred to in subsection (a) if the applicant demonstrates, to the satisfaction of the 1 1 So in original. The word “the” probably should not appear. such officer, that the failure to expedite such consideration would prevent the effective implementation of the project or activity set forth in such application.

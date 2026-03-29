@@ -3,9 +3,9 @@ title: "Section 2313 - Database for Federal agency contract and grant officers a
 usc_title: 41
 usc_section: "2313"
 chapter: 23
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "41 U.S.C. § 2313"
-generated_at: "2026-03-29T18:06:34.752Z"
+generated_at: "2026-03-29T18:26:25.277Z"
 ---
 
 # § 2313. Database for Federal agency contract and grant officers and suspension and debarment officials
@@ -31,6 +31,12 @@ generated_at: "2026-03-29T18:06:34.752Z"
   - **(5)** Each final finding by a Federal official in the period that the person has been determined not to be a responsible source under paragraph (3) or (4) of section 113 of this title .
   - **(6)** Other information that shall be provided for purposes of this section in the Federal Acquisition Regulation.
   - **(7)** To the maximum extent practicable, information similar to the information covered by paragraphs (1) to (4) in connection with the award or performance of a contract or grant with a State government.
+  - **(8)** Whether the person is included on any of the following lists maintained by the Office of Foreign Assets Control of the Department of the Treasury:
+    - **(A)** The specially designated nationals and blocked persons list (commonly known as the “SDN list”).
+    - **(B)** The sectoral sanctions identification list.
+    - **(C)** The foreign sanctions evaders list.
+    - **(D)** The list of persons sanctioned under the Iran Sanctions Act of 1996 ( Public Law 104–172 ; 50 U.S.C. 1701 note) that do not appear on the SDN list (commonly known as the “Non-SDN Iranian Sanctions Act list”).
+    - **(E)** The list of foreign financial institutions subject to part 561 of title 31, Code of Federal Regulations.
 - **(d)**
   - **(1)** The Administrator of General Services shall design and maintain the database in a manner that allows the appropriate Federal agency officials to directly input and update information in the database relating to actions that the officials have taken with regard to contractors or grant recipients.
   - **(2)** The Administrator of General Services shall develop policies to require—

@@ -3,9 +3,9 @@ title: "Section 632 - Definitions"
 usc_title: 15
 usc_section: "632"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 632"
-generated_at: "2026-03-29T18:04:29.436Z"
+generated_at: "2026-03-29T18:24:08.344Z"
 ---
 
 # § 632. Definitions
@@ -45,6 +45,11 @@ generated_at: "2026-03-29T18:04:29.436Z"
     - **(D)** the anticipated effect of the proposed rulemaking on the industry, including the number of concerns not currently considered small that would be considered small under the proposed rule making and the number of concerns currently considered small that would be deemed other than small under the proposed rulemaking.
   - **(7)** In carrying out this subsection, the Administrator may establish or approve a single size standard for a grouping of 4-digit North American Industry Classification System codes only if the Administrator makes publicly available, not later than the date on which such size standard is established or approved, a justification demonstrating that such size standard is appropriate for each individual industry classification included in the grouping.
   - **(8)** The Administrator shall not limit the number of size standards established pursuant to paragraph (2), and shall assign the appropriate size standard to each North American Industry Classification System Code.
+  - **(9)**
+    - **(A)** A person may file a petition for reconsideration with the Office of Hearings and Appeals (as established under section 634(i) of this title ) of a size standard revised, modified, or established by the Administrator pursuant to this subsection.
+    - **(B)** A person filing a petition for reconsideration described in subparagraph (A) shall file such petition not later than 30 days after the publication in the Federal Register of the notice of final rule to revise, modify, or establish size standards described in paragraph (6).
+    - **(C)** The Office of Hearings and Appeals shall use the same process it uses to decide challenges to the size of a small business concern to decide a petition for review pursuant to this paragraph.
+    - **(D)** The publication of a final rule in the Federal Register described in subparagraph (B) shall be considered final agency action for purposes of seeking judicial review. Filing a petition for reconsideration under subparagraph (A) shall not be a condition precedent to judicial review of any such size standard.
 - **(b)** For purposes of this chapter, any reference to an agency or department of the United States, and the term “Federal agency”, shall have the meaning given the term “agency” by section 551(1) of title 5 , but does not include the United States Postal Service or the Government Accountability Office.
 - **(c)**
   - **(1)** For purposes of this chapter, a qualified employee trust shall be eligible for any loan guarantee under section 636(a) of this title with respect to a small business concern on the same basis as if such trust were the same legal entity as such concern.
@@ -65,7 +70,7 @@ generated_at: "2026-03-29T18:04:29.436Z"
       - **(iii)** which provides that each participant who is entitled to distribution from the plan has a right, in the case of qualifying employer securities which are not readily tradeable on an established market, to require that the concern repurchase such securities under a fair valuation formula, and
       - **(iv)** which meets such other requirements (similar to requirements applicable to employee stock ownership plans as defined in section 4975(e)(7) of title 26 ) as the Administrator may prescribe, and
     - **(C)** in the case of a loan guarantee under section 636(a) of this title , such organization enters into an agreement with the Administration which is described in paragraph (2)(B).
-- **(d)** For purposes of section 636 of this title , the term “qualified Indian tribe” means an Indian tribe as defined in section 450b(e) of title 25 , which owns and controls 100 per centum of a small business concern.
+- **(d)** For purposes of section 636 of this title , the term “qualified Indian tribe” means an Indian tribe as defined in section 5304(a) 1 1 So in original. Probably should be a reference to subsec. “(e)” of section 5304, which defines Indian tribe. of title 25, which owns and controls 100 per centum of a small business concern.
 - **(e)** For purposes of section 636 of this title , the term “public or private organization for the handicapped” means one—
   - **(1)** which is organized under the laws of the United States or of any State, operated in the interest of handicapped individuals, the net income of which does not inure in whole or in part to the benefit of any shareholder or other individuals;
   - **(2)** which complies with any applicable occupational health and safety standard prescribed by the Secretary of Labor; and
@@ -92,7 +97,7 @@ generated_at: "2026-03-29T18:04:29.436Z"
     - **(B)** below average water levels in the Great Lakes, or on any body of water in the United States that supports commerce by small business concerns; and
     - **(C)** ice storms and blizzards.
 - **(l)** For purposes of this chapter—
-  - **(1)** 1 1 So in original. No par. (2) has been enacted. the term “computer crime” means—
+  - **(1)** 2 2 So in original. No par. (2) has been enacted. the term “computer crime” means—
     - **(A)** any crime committed against a small business concern by means of the use of a computer; and
     - **(B)** any crime involving the illegal use of, or tampering with, a computer owned or utilized by a small business concern.
 - **(m)** For purposes of this chapter, the term “simplified acquisition threshold” has the meaning given such term in section 134 of title 41 .
@@ -112,8 +117,9 @@ generated_at: "2026-03-29T18:04:29.436Z"
     - **(A)** qualified census tracts;
     - **(B)** qualified nonmetropolitan counties;
     - **(C)** lands within the external boundaries of an Indian reservation;
-    - **(D)** redesignated areas; or
-    - **(E)** base closure areas.
+    - **(D)** redesignated areas;
+    - **(E)** base closure areas; or
+    - **(F)** qualified disaster areas.
   - **(2)** The term “HUBZone” means a historically underutilized business zone.
   - **(3)** The term “HUBZone small business concern” means—
     - **(A)** a small business concern that is at least 51 percent owned and controlled by United States citizens;
@@ -123,29 +129,48 @@ generated_at: "2026-03-29T18:04:29.436Z"
     - **(C)** a small business concern—
       - **(i)** that is wholly owned by one or more Indian tribal governments, or by a corporation that is wholly owned by one or more Indian tribal governments; or
       - **(ii)** that is owned in part by one or more Indian tribal governments, or by a corporation that is wholly owned by one or more Indian tribal governments, if all other owners are either United States citizens or small business concerns;
-    - **(D)** a small business concern that is—
+    - **(D)** a small business concern—
+      - **(i)** that is wholly owned by one or more Native Hawaiian Organizations (as defined in section 637(a)(15) of this title ), or by a corporation that is wholly owned by one or more Native Hawaiian Organizations; or
+      - **(ii)** that is owned in part by one or more Native Hawaiian Organizations, or by a corporation that is wholly owned by one or more Native Hawaiian Organizations, if all other owners are either United States citizens or small business concerns;
+    - **(E)** a small business concern that is—
       - **(i)** wholly owned by a community development corporation that has received financial assistance under part 1 of subchapter A of the Community Economic Development Act of 1981 ( 42 U.S.C. 9805 et seq.); or
       - **(ii)** owned in part by one or more community development corporations, if all other owners are either United States citizens or small business concerns; or
-    - **(E)** a small business concern that is—
+    - **(F)** a small business concern that is—
       - **(i)** a small agricultural cooperative organized or incorporated in the United States;
       - **(ii)** wholly owned by 1 or more small agricultural cooperatives organized or incorporated in the United States; or
       - **(iii)** owned in part by 1 or more small agricultural cooperatives organized or incorporated in the United States, if all owners are small business concerns or United States citizens.
   - **(4)**
-    - **(A)** The term “qualified census tract” has the meaning given that term in section 42(d)(5)(C)(ii) 2 2 See References in Text note below. of title 26.
+    - **(A)**
+      - **(i)** The term “qualified census tract” has the meaning given that term in section 42(d)(5)(B)(ii) of title 26 .
+      - **(ii)** For any metropolitan statistical area in the Commonwealth of Puerto Rico, the term “qualified census tract” has the meaning given that term in section 42(d)(5)(B)(ii) of title 26 as applied without regard to subclause (II) of such section, except that this clause shall only apply—
+        - **(I)** 10 years after the date that the Administrator implements this clause, or
+        - **(II)** the date on which the Financial Oversight and Management Board for the Commonwealth of Puerto Rico created by the Puerto Rico Oversight, Management, and Economic Stability Act ceases to exist,
     - **(B)** The term “qualified nonmetropolitan county” means any county—
-      - **(i)** that was not located in a metropolitan statistical area (as defined in section 143(k)(2)(B) of title 26 ) at the time of the most recent census taken for purposes of selecting qualified census tracts under section 42(d)(5)(C)(ii) 2 of title 26; and
+      - **(i)** that was not located in a metropolitan statistical area (as defined in section 143(k)(2)(B) of title 26 ) at the time of the most recent census taken for purposes of selecting qualified census tracts under section 42(d)(5)(C)(ii) 3 of title 26; and
       - **(ii)** in which—
         - **(I)** the median household income is less than 80 percent of the nonmetropolitan State median household income, based on the most recent data available from the Bureau of the Census of the Department of Commerce;
         - **(II)** the unemployment rate is not less than 140 percent of the average unemployment rate for the United States or for the State in which such county is located, whichever is less, based on the most recent data available from the Secretary of Labor; or
-        - **(III)** there is located a difficult development area, as designated by the Secretary of Housing and Urban Development in accordance with section 42(d)(5)(C)(iii) 2 of title 26, within Alaska, Hawaii, or any territory or possession of the United States outside the 48 contiguous States.
+        - **(III)** there is located a difficult development area, as designated by the Secretary of Housing and Urban Development in accordance with section 42(d)(5)(C)(iii) 3 of title 26, within Alaska, Hawaii, or any territory or possession of the United States outside the 48 contiguous States.
     - **(C)** The term “redesignated area” means any census tract that ceases to be qualified under subparagraph (A) and any nonmetropolitan county that ceases to be qualified under subparagraph (B), except that a census tract or a nonmetropolitan county may be a “redesignated area” only until the later of—
       - **(i)** the date on which the Census Bureau publicly releases the first results from the 2010 decennial census; or
       - **(ii)** 3 years after the date on which the census tract or nonmetropolitan county ceased to be so qualified.
-    - **(D)** The term “base closure area” means lands within the external boundaries of a military installation that were closed through a privatization process under the authority of—
-      - **(i)** the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of division B of Public Law 101–510 ; 10 U.S.C. 2687 note);
-      - **(ii)** title II of the Defense Authorization Amendments and Base Closure and Realignment Act ( Public Law 100–526 ; 10 U.S.C. 2687 note);
-      - **(iii)** section 2687 of title 10 ; or
-      - **(iv)** any other provision of law authorizing or directing the Secretary of Defense or the Secretary of a military department to dispose of real property at the military installation for purposes relating to base closures of redevelopment, while retaining the authority to enter into a leaseback of all or a portion of the property for military use.
+    - **(D)**
+      - **(i)** Subject to clause (ii), the term “base closure area” means—
+        - **(I)** lands within the external boundaries of a military installation that were closed through a privatization process under the authority of—
+        - **(II)** the census tract or nonmetropolitan county in which the lands described in subclause (I) are wholly contained;
+        - **(III)** a census tract or nonmetropolitan county the boundaries of which intersect the area described in subclause (I); and
+        - **(IV)** a census tract or nonmetropolitan county the boundaries of which are contiguous to the area described in subclause (II) or subclause (III).
+      - **(ii)** A base closure area shall be treated as a HUBZone—
+        - **(I)** with respect to a census tract or nonmetropolitan county described in clause (i), for a period of not less than 8 years, beginning on the date the military installation undergoes final closure and ending on the date the Administrator makes a final determination as to whether or not to implement the applicable designation described in subparagraph (A) or (B) in accordance with the results of the decennial census conducted after the area was initially designated as a base closure area; and
+        - **(II)** if such area was treated as a HUBZone at any time after 2010, until such time as the Administrator makes a final determination as to whether or not to implement the applicable designation described in subparagraph (A) or (B), after the 2020 decennial census.
+      - **(iii)** In this subparagraph:
+        - **(I)** The term “census tract” means a census tract delineated by the United States Bureau of the Census in the most recent decennial census that is not located in a nonmetropolitan county and does not otherwise qualify as a qualified census tract.
+        - **(II)** The term “nonmetropolitan county” means a county that was not located in a metropolitan statistical area (as defined in section 143(k)(2)(B) of title 26 ) at the time of the most recent census taken for purposes of selecting qualified census tracts and does not otherwise qualify as a qualified nonmetropolitan county.
+    - **(E)**
+      - **(i)** Subject to clause (ii), the term “qualified disaster area” means any census tract or nonmetropolitan county located in an area for which the President has declared a major disaster under section 5170 of title 42 or located in an area in which a catastrophic incident has occurred if such census tract or nonmetropolitan county ceased to be qualified under subparagraph (A) or (B), as applicable, during the period beginning 5 years before the date on which the President declared the major disaster or the catastrophic incident occurred and ending 2 years after such date, except that such census tract or nonmetropolitan county may be a “qualified disaster area” only—
+        - **(I)** in the case of a major disaster declared by the President, during the 5-year period beginning on the date on which the President declared the major disaster for the area in which the census tract or nonmetropolitan county, as applicable, is located; and
+        - **(II)** in the case of a catastrophic incident, during the 10-year period beginning on the date on which the catastrophic incident occurred in the area in which the census tract or nonmetropolitan county, as applicable, is located.
+      - **(ii)** A qualified disaster area described in clause (i) shall be treated as a HUBZone for a period of not less than 8 years, beginning on the date the Administrator makes a final determination as to whether or not to implement the designations described in subparagraphs (A) and (B) in accordance with the results of the decennial census conducted after the area was initially designated as a qualified disaster area.
   - **(5)**
     - **(A)** A HUBZone small business concern is “qualified”, if—
       - **(i)** the small business concern has certified in writing to the Administrator (or the Administrator otherwise determines, based on information submitted to the Administrator by the small business concern, or based on certification procedures, which shall be established by the Administration by regulation) that—
@@ -219,3 +244,7 @@ generated_at: "2026-03-29T18:04:29.436Z"
 - **(aa)** In this chapter, the term “venture capital operating company” means an entity described in clause (i), (v), or (vi) of section 121.103(b)(5) of title 13, Code of Federal Regulations (or any successor thereto).
 - **(bb)** In this chapter, the term “hedge fund” has the meaning given that term in section 1851(h)(2) of title 12 .
 - **(cc)** In this chapter, the term “private equity firm” has the meaning given the term “private equity fund” in section 1851(h)(2) of title 12 .
+- **(dd)** In this chapter:
+  - **(1)** The term “subcontract” means a legally binding agreement between a contractor that is already under contract to another party to perform work, and a third party, hereinafter referred to as the subcontractor, for the subcontractor to perform a part, or all, of the work that the contractor has undertaken.
+  - **(2)** The term “first tier subcontractor” means a subcontractor who has a subcontract directly with the prime contractor.
+  - **(3)** The term “at any tier” means any subcontractor other than a subcontractor who is a first tier subcontractor.

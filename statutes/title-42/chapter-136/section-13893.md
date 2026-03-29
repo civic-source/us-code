@@ -3,15 +3,15 @@ title: "Section 13893 - Report"
 usc_title: 42
 usc_section: "13893"
 chapter: 136
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 13893"
-generated_at: "2026-03-29T18:07:15.348Z"
+generated_at: "2026-03-29T18:27:04.138Z"
 ---
 
 # § 13893. Report
 
 - **(a)** A State that receives a grant under this subpart 1 1 See References in Text note below. shall, not later than 90 days after the 1-year period in which the grant is required to be expended, submit a report to the Attorney General regarding the family unity demonstration project for which the grant was expended.
-- **(b)** A report under subsection (a) of this section shall—
+- **(b)** A report under subsection (a) shall—
   - **(1)** state the number of prisoners who submitted applications to participate in the project and the number of prisoners who were placed in community correctional facilities;
   - **(2)** state, with respect to prisoners placed in the project, the number of prisoners who are returned to that jurisdiction and custody and the reasons for such return;
   - **(3)** describe the nature and scope of educational and training activities provided to prisoners participating in the project;

@@ -3,9 +3,9 @@ title: "Section 2533 - Reports on critical difficulties at national security lab
 usc_title: 50
 usc_section: "2533"
 chapter: 42
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 2533"
-generated_at: "2026-03-29T18:07:43.078Z"
+generated_at: "2026-03-29T18:27:35.647Z"
 ---
 
 # § 2533. Reports on critical difficulties at national security laboratories and nuclear weapons production facilities

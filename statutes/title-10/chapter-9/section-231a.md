@@ -3,14 +3,14 @@ title: "Section 231a - Budgeting for life-cycle cost of aircraft for the Navy, A
 usc_title: 10
 usc_section: "231a"
 chapter: 9
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 231a"
-generated_at: "2026-03-29T18:04:12.977Z"
+generated_at: "2026-03-29T18:23:51.733Z"
 ---
 
 # § 231a. Budgeting for life-cycle cost of aircraft for the Navy, Army, and Air Force: annual plan and certification
 
-- **(a)** Not later than 45 days after the date on which the President submits to Congress the budget for a fiscal year of 1 1 So in original. Probably should be preceded by “, the Secretary”. Defense shall submit to the congressional defense committees—
+- **(a)** Not later than 45 days after the date on which the President submits to Congress the budget for a fiscal year, the Secretary of Defense shall submit to the congressional defense committees—
   - **(1)** a plan for the procurement of the aircraft specified in subsection (b) for the Department of the Navy, the Department of the Army, and the Department of the Air Force developed in accordance with this section; and
   - **(2)** a certification by the Secretary that both the budget for such fiscal year and the future-years defense program submitted to Congress in relation to such budget under section 221 of this title provide for funding of the procurement of aircraft at a level that is sufficient for the procurement of the aircraft provided for in the plan under paragraph (1) on the schedule provided in the plan.
 - **(b)** The aircraft specified in this subsection are the aircraft as follows:
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T18:04:12.977Z"
   - **(10)** Operational support and executive lift aircraft.
   - **(11)** Any other major support aircraft designated by the Secretary of Defense for purposes of this section.
 - **(c)**
-  - **(1)** The annual aircraft procurement plan developed for a fiscal year for purposes of subsection (a)(1) should be designed so that the aviation force provided for under the plan is capable of supporting the national military strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of 1947 ( 50 U.S.C. 404a ), 2 2 See References in Text note below. except that, if at the time the plan is submitted with the defense budget materials for that fiscal year, a national security strategy report required under such section 108 has not been submitted to Congress as required by paragraph (2) or paragraph (3), if applicable, of subsection (a) of such section, then the plan should be designed so that the aviation force provided for under the plan is capable of supporting the aviation force structure recommended in the report of the most recent Quadrennial Defense Review.
+  - **(1)** The annual aircraft procurement plan developed for a fiscal year for purposes of subsection (a)(1) should be designed so that the aviation force provided for under the plan is capable of supporting the national military strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of 1947 ( 50 U.S.C. 3043 ), except that, if at the time the plan is submitted with the defense budget materials for that fiscal year, a national security strategy report required under such section 108 has not been submitted to Congress as required by paragraph (2) or paragraph (3), if applicable, of subsection (a) of such section, then the plan should be designed so that the aviation force provided for under the plan is capable of supporting the aviation force structure recommended in the report of the most recent Quadrennial Defense Review.
   - **(2)** Each annual aircraft procurement plan shall include the following:
     - **(A)** A detailed program for the procurement of the aircraft specified in subsection (b) for each of the Department of the Navy, the Department of the Army, and the Department of the Air Force over the next 30 fiscal years.
     - **(B)** A description of the necessary aviation force structure to meet the requirements of the national military strategy of the United States or the most recent Quadrennial Defense Review, whichever is applicable under paragraph (1).

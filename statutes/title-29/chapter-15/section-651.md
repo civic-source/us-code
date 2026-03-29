@@ -3,9 +3,9 @@ title: "Section 651 - Congressional statement of findings and declaration of pur
 usc_title: 29
 usc_section: "651"
 chapter: 15
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 651"
-generated_at: "2026-03-29T18:05:31.689Z"
+generated_at: "2026-03-29T18:25:43.025Z"
 ---
 
 # § 651. Congressional statement of findings and declaration of purpose and policy

@@ -3,9 +3,9 @@ title: "Section 1056 - Form and payment of benefits"
 usc_title: 29
 usc_section: "1056"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 1056"
-generated_at: "2026-03-29T18:05:31.736Z"
+generated_at: "2026-03-29T18:25:43.069Z"
 ---
 
 # § 1056. Form and payment of benefits
@@ -124,7 +124,7 @@ generated_at: "2026-03-29T18:05:31.736Z"
     - **(C)** Subparagraph (A) shall not apply to any amendment which provides for an increase in benefits under a formula which is not based on a participant’s compensation, but only if the rate of such increase is not in excess of the contemporaneous rate of increase in average wages of participants covered by the amendment.
   - **(3)**
     - **(A)** A defined benefit plan which is a single-employer plan shall provide that, in any case in which the plan’s adjusted funding target attainment percentage for a plan year is less than 60 percent, the plan may not pay any prohibited payment after the valuation date for the plan year.
-    - **(B)** A defined benefit plan which is a single-employer plan shall provide that, during any period in which the plan sponsor is a debtor in a case under title 11 or similar Federal or State law, the plan may not pay any prohibited payment. The preceding sentence shall not apply on or after the date on which the enrolled actuary of the plan certifies that the adjusted funding target attainment percentage of such plan is not less than 100 percent.
+    - **(B)** A defined benefit plan which is a single-employer plan shall provide that, during any period in which the plan sponsor is a debtor in a case under title 11 or similar Federal or State law, the plan may not pay any prohibited payment. The preceding sentence shall not apply on or after the date on which the enrolled actuary of the plan certifies that the adjusted funding target attainment percentage of such plan (determined by not taking into account any adjustment of segment rates under section 1083(h)(2)(C)(iv) of this title ) is not less than 100 percent.
     - **(C)**
       - **(i)** A defined benefit plan which is a single-employer plan shall provide that, in any case in which the plan’s adjusted funding target attainment percentage for a plan year is 60 percent or greater but less than 80 percent, the plan may not pay any prohibited payment after the valuation date for the plan year to the extent the amount of the payment exceeds the lesser of—
         - **(I)** 50 percent of the amount of the payment which could be made without regard to this subsection, or
@@ -170,20 +170,7 @@ generated_at: "2026-03-29T18:05:31.736Z"
   - **(9)** For purposes of this subsection—
     - **(A)** The term “funding target attainment percentage” has the same meaning given such term by section 1083(d)(2) of this title .
     - **(B)** The term “adjusted funding target attainment percentage” means the funding target attainment percentage which is determined under subparagraph (A) by increasing each of the amounts under subparagraphs (A) and (B) of section 1083(d)(2) of this title by the aggregate amount of purchases of annuities for employees other than highly compensated employees (as defined in section 414(q) of title 26 ) which were made by the plan during the preceding 2 plan years.
-    - **(C)**
-      - **(i)** In the case of a plan for any plan year, if the funding target attainment percentage is 100 percent or more (determined without regard to the reduction in the value of assets under section 1083(f)(4) of this title ), the funding target attainment percentage for purposes of subparagraphs (A) and (B) shall be determined without regard to such reduction.
-      - **(ii)** Clause (i) shall be applied to plan years beginning after 2007 and before 2011 by substituting for “100 percent” the applicable percentage determined in accordance with the following table: In the case of a plan year The applicable beginning in calendar year: percentage is 2008 92 2009 94 2010 96.
-      - **(iii)** Clause (ii) shall not apply with respect to any plan year beginning after 2008 unless the funding target attainment percentage (determined without regard to the reduction in the value of assets under section 1083(f)(4) of this title ) of the plan for each preceding plan year beginning after 2007 was not less than the applicable percentage with respect to such preceding plan year determined under clause (ii).
-    - **(D)** Solely for purposes of any applicable provision—
-      - **(i)** For plan years beginning on or after October 1, 2008 , and before October 1, 2010 , the adjusted funding target attainment percentage of a plan shall be the greater of—
-        - **(I)** such percentage, as determined without regard to this subparagraph, or
-        - **(II)** the adjusted funding target attainment percentage for such plan for the plan year beginning after October 1, 2007 , and before October 1, 2008 , as determined under rules prescribed by the Secretary of the Treasury.
-      - **(ii)** In the case of a plan for which the valuation date is not the first day of the plan year—
-        - **(I)** clause (i) shall apply to plan years beginning after December 31, 2007 , and before January 1, 2010 , and
-        - **(II)** clause (i)(II) shall apply based on the last plan year beginning before November 1, 2007 , as determined under rules prescribed by the Secretary of the Treasury.
-      - **(iii)** For purposes of this subparagraph, the term “applicable provision” means—
-        - **(I)** paragraph (3), but only for purposes of applying such paragraph to a payment which, as determined under rules prescribed by the Secretary of the Treasury, is a payment under a social security leveling option which accelerates payments under the plan before, and reduces payments after, a participant starts receiving social security benefits in order to provide substantially similar aggregate payments both before and after such benefits are received, and
-        - **(II)** paragraph (4).
+    - **(C)** In the case of a plan for any plan year, if the funding target attainment percentage is 100 percent or more (determined without regard to the reduction in the value of assets under section 1083(f)(4) of this title ), the funding target attainment percentage for purposes of subparagraphs (A) and (B) shall be determined without regard to such reduction.
   - **(10)** In the case of a plan which has designated a valuation date other than the first day of the plan year, the Secretary of the Treasury may prescribe rules for the application of this subsection which are necessary to reflect the alternate valuation date.
-  - **(11)** For purposes of this subsection, in the case of plan years beginning in 2008, the funding target attainment percentage for the preceding plan year may be determined using such methods of estimation as the Secretary of the Treasury may provide.
+  - **[(11)**
   - **(12)** This subsection shall not apply to a CSEC plan (as defined in section 1060(f) of this title ).

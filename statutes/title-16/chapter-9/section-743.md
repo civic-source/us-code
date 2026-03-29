@@ -1,12 +1,12 @@
 ---
-title: "Section 743 - Repealed. Pub. L. 93–280, § 1(2) , May 10, 1974 , 88 Stat. 123"
+title: "Section 743 - Repealed. Pub. L. 93–280 , § 1(2), May 10, 1974 , 88 Stat. 123"
 usc_title: 16
 usc_section: "743"
 chapter: 9
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 743"
-generated_at: "2026-03-29T18:05:06.821Z"
+generated_at: "2026-03-29T18:24:22.702Z"
 ---
 
-# § 743. Repealed. Pub. L. 93–280, § 1(2) , May 10, 1974 , 88 Stat. 123
+# § 743. Repealed. Pub. L. 93–280 , § 1(2), May 10, 1974 , 88 Stat. 123
 

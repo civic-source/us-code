@@ -3,9 +3,9 @@ title: "Section 1360 - Definitions"
 usc_title: 22
 usc_section: "1360"
 chapter: 15
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 1360"
-generated_at: "2026-03-29T18:05:21.767Z"
+generated_at: "2026-03-29T18:24:54.146Z"
 ---
 
 # § 1360. Definitions

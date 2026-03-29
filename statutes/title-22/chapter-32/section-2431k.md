@@ -3,9 +3,9 @@ title: "Section 2431k - Annual reports to Congress"
 usc_title: 22
 usc_section: "2431k"
 chapter: 32
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 2431k"
-generated_at: "2026-03-29T18:05:21.858Z"
+generated_at: "2026-03-29T18:24:54.228Z"
 ---
 
 # § 2431k. Annual reports to Congress
@@ -15,4 +15,4 @@ generated_at: "2026-03-29T18:05:21.858Z"
   - **(2)** a description of any Agreement entered into under this subchapter;
   - **(3)** a report on any Funds that have been established under this subchapter and on the operations of such Funds; and
   - **(4)** a description of any grants that have been provided by administering bodies pursuant to Agreements under this subchapter.
-- **(b)** Not later than December 15 of each year, each member of the Board shall be entitled to receive a copy of the report required under subsection (a) of this section. Each member of the Board may prepare and submit supplemental views to the President on the implementation of this subchapter by December 31 for inclusion in the annual report when it is transmitted to Congress pursuant to this section.
+- **(b)** Not later than December 15 of each year, each member of the Board shall be entitled to receive a copy of the report required under subsection (a). Each member of the Board may prepare and submit supplemental views to the President on the implementation of this subchapter by December 31 for inclusion in the annual report when it is transmitted to Congress pursuant to this section.

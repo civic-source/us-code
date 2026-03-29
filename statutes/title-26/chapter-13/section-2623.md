@@ -3,9 +3,9 @@ title: "Section 2623 - Taxable amount in case of direct skip"
 usc_title: 26
 usc_section: "2623"
 chapter: 13
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 2623"
-generated_at: "2026-03-29T18:05:44.851Z"
+generated_at: "2026-03-29T18:25:53.784Z"
 ---
 
 # § 2623. Taxable amount in case of direct skip

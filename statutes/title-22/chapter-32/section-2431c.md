@@ -3,9 +3,9 @@ title: "Section 2431c - Eligibility for benefits"
 usc_title: 22
 usc_section: "2431c"
 chapter: 32
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 2431c"
-generated_at: "2026-03-29T18:05:21.856Z"
+generated_at: "2026-03-29T18:24:54.227Z"
 ---
 
 # § 2431c. Eligibility for benefits
@@ -14,5 +14,5 @@ generated_at: "2026-03-29T18:05:21.856Z"
   - **(1)** whose government meets the requirements applicable to Latin American or Caribbean countries under paragraphs (1) through (5) and (7) of section 2430b(a) of this title ; and
   - **(2)** that has put in place investment reforms, as evidenced by the conclusion of a bilateral investment treaty with the United States, implementation of an investment sector loan with the Inter-American Development Bank, World Bank-supported investment reforms, or other measures, as appropriate.
 - **(b)**
-  - **(1)** Consistent with subsection (a) of this section, the President shall determine whether a country is eligible to receive benefits under this subchapter.
+  - **(1)** Consistent with subsection (a), the President shall determine whether a country is eligible to receive benefits under this subchapter.
   - **(2)** The President shall notify the appropriate congressional committees of his intention to designate a country as an eligible country at least 15 days in advance of any formal determination.

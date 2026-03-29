@@ -3,9 +3,9 @@ title: "Section 207 - Tribal transportation self-governance program"
 usc_title: 23
 usc_section: "207"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "23 U.S.C. § 207"
-generated_at: "2026-03-29T02:13:00.956Z"
+generated_at: "2026-03-29T18:25:00.193Z"
 ---
 
 # § 207. Tribal transportation self-governance program
@@ -89,7 +89,7 @@ generated_at: "2026-03-29T02:13:00.956Z"
         - **(II)** the jeopardy arises out of a failure to carry out the compact or funding agreement.
       - **(ii)** If the Secretary terminates a compact or funding agreement (or portion thereof) under clause (i), the Secretary shall provide the Indian tribe subject to the compact or agreement with a hearing on the record not later than 10 days after the date of such termination.
     - **(E)** In any hearing or appeal involving a decision to terminate a compact or funding agreement (or portion thereof) under this paragraph, the Secretary shall have the burden of proof in demonstrating by clear and convincing evidence the validity of the grounds for the termination.
-- **(g)** In administering funds received under this section, an Indian tribe shall apply cost principles under the applicable Office of Management and Budget circular, except as modified by section 106 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5325 ), other provisions of law, or by any exemptions to applicable Office of Management and Budget circulars subsequently granted by the Office of Management and Budget. No other audit or accounting standards shall be required by the Secretary. Any claim by the Federal Government against the Indian tribe relating to funds received under a funding agreement based on any audit conducted pursuant to this subsection shall be subject to the provisions of section 106(f) of that Act ( 25 U.S.C. 5325(f) ).
+- **(g)** In administering funds received under this section, an Indian tribe shall apply cost principles under the applicable Office of Management and Budget circular, except as modified by section 106 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450j–1 ), 1 1 See References in Text note below. other provisions of law, or by any exemptions to applicable Office of Management and Budget circulars subsequently granted by the Office of Management and Budget. No other audit or accounting standards shall be required by the Secretary. Any claim by the Federal Government against the Indian tribe relating to funds received under a funding agreement based on any audit conducted pursuant to this subsection shall be subject to the provisions of section 106(f) of that Act ( 25 U.S.C. 450j–1(f) ). 1
 - **(h)** The Secretary shall provide funds to an Indian tribe under a funding agreement in an amount equal to—
   - **(1)** the sum of the funding that the Indian tribe would otherwise receive for the program, function, service, or activity in accordance with a funding formula or other allocation method established under this title or chapter 53 of title 49; and
   - **(2)** such additional amounts as the Secretary determines equal the amounts that would have been withheld for the costs of the Bureau of Indian Affairs for administration of the program or project.
@@ -114,15 +114,15 @@ generated_at: "2026-03-29T02:13:00.956Z"
     - **(B)** enter into new agreements under the authority of section 202(b)(7).
   - **(2)** Nothing in this section may be construed to impair or diminish the authority of the Secretary under section 202(b)(7).
 - **(l)** Except to the extent in conflict with this section (as determined by the Secretary), the following provisions of the Indian Self-Determination and Education Assistance Act shall apply to compact and funding agreements (except that any reference to the Secretary of the Interior or the Secretary of Health and Human Services in such provisions shall be treated as a reference to the Secretary of Transportation):
-  - **(1)** Subsections (a), (b), (d), (g), and (h) of section 506 of such Act ( 25 U.S.C. 5386 ), relating to general provisions.
-  - **(2)** Subsections (b) through (e) and (g) of section 507 of such Act ( 25 U.S.C. 5387 ), relating to provisions relating to the Secretary of Health and Human Services.
-  - **(3)** Subsections (a), (b), (d), (e), (g), (h), (i), and (k) of section 508 of such Act ( 25 U.S.C. 5388 ), relating to transfer of funds.
-  - **(4)** Section 510 of such Act ( 25 U.S.C. 5390 ), relating to Federal procurement laws and regulations.
-  - **(5)** Section 511 of such Act ( 25 U.S.C. 5391 ), relating to civil actions.
-  - **(6)** Subsections (a)(1), (a)(2), and (c) through (f) of section 512 of such Act ( 25 U.S.C. 5392 ), relating to facilitation, except that subsection (c)(1) of that section shall be applied by substituting “transportation facilities and other facilities” for “school buildings, hospitals, and other facilities”.
-  - **(7)** Subsections (a) and (b) of section 515 of such Act ( 25 U.S.C. 5395 ), relating to disclaimers.
-  - **(8)** Subsections (a) and (b) of section 516 of such Act ( 25 U.S.C. 5396 ), relating to application of title I provisions.
-  - **(9)** Section 518 of such Act ( 25 U.S.C. 5398 ), relating to appeals.
+  - **(1)** Subsections (a), (b), (d), (g), and (h) of section 506 of such Act ( 25 U.S.C. 458aaa–5 ), 1 relating to general provisions.
+  - **(2)** Subsections (b) through (e) and (g) of section 507 of such Act ( 25 U.S.C. 458aaa–6 ), 1 relating to provisions relating to the Secretary of Health and Human Services.
+  - **(3)** Subsections (a), (b), (d), (e), (g), (h), (i), and (k) of section 508 of such Act ( 25 U.S.C. 458aaa–7 ), 1 relating to transfer of funds.
+  - **(4)** Section 510 of such Act ( 25 U.S.C. 458aaa–9 ), 1 relating to Federal procurement laws and regulations.
+  - **(5)** Section 511 of such Act ( 25 U.S.C. 458aaa–10 ), 1 relating to civil actions.
+  - **(6)** Subsections (a)(1), (a)(2), and (c) through (f) of section 512 of such Act ( 25 U.S.C. 458aaa–11 ), 1 relating to facilitation, except that subsection (c)(1) of that section shall be applied by substituting “transportation facilities and other facilities” for “school buildings, hospitals, and other facilities”.
+  - **(7)** Subsections (a) and (b) of section 515 of such Act ( 25 U.S.C. 458aaa–14 ), 1 relating to disclaimers.
+  - **(8)** Subsections (a) and (b) of section 516 of such Act ( 25 U.S.C. 458aaa–15 ), 1 relating to application of title I provisions.
+  - **(9)** Section 518 of such Act ( 25 U.S.C. 458aaa–17 ), 1 relating to appeals.
 - **(m)**
   - **(1)** In this section, the following definitions apply (except as otherwise expressly provided):
     - **(A)** The term “compact” means a compact between the Secretary and an Indian tribe entered into under subsection (c).
@@ -133,12 +133,12 @@ generated_at: "2026-03-29T02:13:00.956Z"
     - **(F)** The term “program” means the tribal transportation self-governance program established under this section.
     - **(G)** The term “Secretary” means the Secretary of Transportation.
     - **(H)** The term “transportation programs” means all programs administered or financed by the Department under this title and chapter 53 of title 49.
-  - **(2)** In this section, the definitions set forth in sections 4 and 501 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304 ; 5381) apply, except as otherwise expressly provided in this section.
+  - **(2)** In this section, the definitions set forth in sections 4 and 505 1 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450b ; 458aaa) 1 apply, except as otherwise expressly provided in this section.
 - **(n)**
   - **(1)**
     - **(A)** Not later than 90 days after the date of enactment of the FAST Act, the Secretary shall initiate procedures under subchapter III of chapter 5 of title 5 to negotiate and promulgate such regulations as are necessary to carry out this section.
-    - **(B)** Proposed regulations to implement this section shall be published in the Federal Register by the Secretary not later than 42 months after such date of enactment.
-    - **(C)** The authority to promulgate regulations under subparagraph (A) shall expire 48 months after such date of enactment.
+    - **(B)** Proposed regulations to implement this section shall be published in the Federal Register by the Secretary not later than 21 months after such date of enactment.
+    - **(C)** The authority to promulgate regulations under subparagraph (A) shall expire 30 months after such date of enactment.
     - **(D)** A deadline set forth in subparagraph (B) or (C) may be extended up to 180 days if the negotiated rulemaking committee referred to in paragraph (2) concludes that the committee cannot meet the deadline and the Secretary so notifies the appropriate committees of Congress.
   - **(2)**
     - **(A)** A negotiated rulemaking committee established pursuant to section 565 of title 5 to carry out this subsection shall have as its members only Federal and tribal government representatives, a majority of whom shall be nominated by and be representatives of Indian tribes with funding agreements under this title.

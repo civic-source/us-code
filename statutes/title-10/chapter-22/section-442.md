@@ -3,9 +3,9 @@ title: "Section 442 - Missions"
 usc_title: 10
 usc_section: "442"
 chapter: 22
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 442"
-generated_at: "2026-03-29T18:04:12.982Z"
+generated_at: "2026-03-29T18:23:51.740Z"
 ---
 
 # § 442. Missions
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T18:04:12.982Z"
   - **(3)** Geospatial intelligence provided in carrying out paragraphs (1) and (2) shall be timely, relevant, and accurate.
 - **(b)** The National Geospatial-Intelligence Agency shall improve means of navigating vessels of the Navy and the merchant marine by providing, under the authority of the Secretary of Defense, accurate and inexpensive nautical charts, sailing directions, books on navigation, and manuals of instructions for the use of all vessels of the United States and of navigators generally.
 - **(c)** The National Geospatial-Intelligence Agency shall prepare and distribute maps, charts, books, and geodetic products as authorized under subchapter II of this chapter.
-- **(d)** The National Geospatial-Intelligence Agency also has national missions as specified in section 110(a) of the National Security Act of 1947 ( 50 U.S.C. 404e(a) ). 1 1 See References in Text note below.
+- **(d)** The National Geospatial-Intelligence Agency also has national missions as specified in section 110(a) of the National Security Act of 1947 ( 50 U.S.C. 3045(a) ).
 - **(e)** The National Geospatial-Intelligence Agency may, in furtherance of a mission of the Agency, design, develop, deploy, operate, and maintain systems related to the processing and dissemination of imagery intelligence and geospatial information that may be transferred to, accepted or used by, or used on behalf of—
   - **(1)** the armed forces, including any combatant command, component of a combatant command, joint task force, or tactical unit; or
   - **(2)** any other department or agency of the United States.

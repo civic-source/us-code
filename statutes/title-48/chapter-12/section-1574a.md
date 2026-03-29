@@ -3,13 +3,13 @@ title: "Section 1574a - Revenue bonds or other obligations"
 usc_title: 48
 usc_section: "1574a"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "48 U.S.C. § 1574a"
-generated_at: "2026-03-29T18:07:36.855Z"
+generated_at: "2026-03-29T18:27:11.664Z"
 ---
 
 # § 1574a. Revenue bonds or other obligations
 
 - **(a)** In addition to the authority conferred by section 1574(b) of this title , the legislature of the government of the Virgin Islands is authorized to cause to be issued bonds or other obligations of such government in anticipation of revenues to be received under section 7652(b)(3) of title 26 . The proceeds of such bonds or other obligations may be used for any purpose authorized by an act of the legislature. The legislature of the government of the Virgin Islands may initiate, by majority vote of the members, a binding referendum vote to approve or disapprove the amount of any such bond or other obligation and/or any purpose for which such bond or other obligation is authorized.
-- **(b)** The legislature of the government of the Virgin Islands may provide, in connection with any issue of bonds or other obligations authorized to be issued under subsection (a) of this section the proceeds of which are to be used for public works or other capital projects, that a guarantee of such bonds or obligations by the United States should be applied for under section 1574b of this title .
-- **(c)** Except to the extent inconsistent with the provisions of this Act, the provisions of section 1574(b)(ii) of this title (other than the limitation contained in the proviso to the first sentence of subparagraph (A)) shall apply to bonds and other obligations authorized to be issued under subsection (a) of this section.
+- **(b)** The legislature of the government of the Virgin Islands may provide, in connection with any issue of bonds or other obligations authorized to be issued under subsection (a) the proceeds of which are to be used for public works or other capital projects, that a guarantee of such bonds or obligations by the United States should be applied for under section 1574b of this title .
+- **(c)** Except to the extent inconsistent with the provisions of this Act, the provisions of section 1574(b)(ii) of this title (other than the limitation contained in the proviso to the first sentence of subparagraph (A)) shall apply to bonds and other obligations authorized to be issued under subsection (a).

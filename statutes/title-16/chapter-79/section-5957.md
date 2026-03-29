@@ -1,18 +1,12 @@
 ---
-title: "Section 5957 - Transfer of concessions contracts"
+title: "Section 5957 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "5957"
 chapter: 79
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 5957"
-generated_at: "2026-03-29T18:05:07.088Z"
+generated_at: "2026-03-29T18:24:22.926Z"
 ---
 
-# § 5957. Transfer of concessions contracts
+# § 5957. Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272
 
-- **(a)** No concessions contract or leasehold surrender interest may be transferred, assigned, sold, or otherwise conveyed or pledged by a concessioner without prior written notification to, and approval by, the Secretary.
-- **(b)** The Secretary shall approve a transfer or conveyance described in subsection (a) of this section unless the Secretary finds that—
-  - **(1)** the individual, corporation or entity seeking to acquire a concessions contract is not qualified or able to satisfy the terms and conditions of the concessions contract;
-  - **(2)** such transfer or conveyance would have an adverse impact on (A) the protection, conservation, or preservation of the resources of the unit of the National Park System or (B) the provision of necessary and appropriate facilities and services to visitors at reasonable rates and charges; and
-  - **(3)** the terms of such transfer or conveyance are likely, directly or indirectly, to reduce the concessioner’s opportunity for a reasonable profit over the remaining term of the contract, adversely affect the quality of facilities and services provided by the concessioner, or result in a need for increased rates and charges to the public to maintain the quality of such facilities and services.
-- **(c)** The terms and conditions of any contract under this section shall not be subject to modification or open to renegotiation by the Secretary because of a transfer or conveyance described in subsection (a) of this section, unless such transfer or conveyance would have an adverse impact as described in paragraph (2) of subsection (b) of this section.

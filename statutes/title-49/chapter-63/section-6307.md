@@ -3,9 +3,9 @@ title: "Section 6307 - Furnishing of information, data, or reports by Federal ag
 usc_title: 49
 usc_section: "6307"
 chapter: 63
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 6307"
-generated_at: "2026-03-29T18:07:51.368Z"
+generated_at: "2026-03-29T18:27:16.477Z"
 ---
 
 # § 6307. Furnishing of information, data, or reports by Federal agencies
@@ -13,11 +13,11 @@ generated_at: "2026-03-29T18:07:51.368Z"
 - **(a)** Except as provided in subsection (b), a Federal agency requested to furnish information, data, or reports by the Director under section 6302(b)(3)(B) shall provide the information to the Director.
 - **(b)**
   - **(1)** An officer, employee, or contractor of the Bureau may not—
-    - **(A)** make any disclosure in which the data provided by an individual or organization under section 6302(b)(3)(B) can be identified;
-    - **(B)** use the information provided under section 6302(b)(3)(B) for a nonstatistical purpose; or
-    - **(C)** permit anyone other than an individual authorized by the Director to examine any individual report provided under section 6302(b)(3)(B).
+    - **(A)** make any disclosure in which the data provided by an individual or organization under section 6302(b)(3)(B) or section 6314(b) can be identified;
+    - **(B)** use the information provided under section 6302(b)(3)(B) or section 6314(b) for a nonstatistical purpose; or
+    - **(C)** permit anyone other than an individual authorized by the Director to examine any individual report provided under section 6302(b)(3)(B) or section 6314(b).
   - **(2)**
-    - **(A)** No department, bureau, agency, officer, or employee of the United States (except the Director in carrying out this chapter) may require, for any reason, a copy of any report that has been filed under section 6302(b)(3)(B) with the Bureau or retained by an individual respondent.
+    - **(A)** No department, bureau, agency, officer, or employee of the United States (except the Director in carrying out this chapter) may require, for any reason, a copy of any report that has been filed under section 6302(b)(3)(B) or section 6314(b) with the Bureau or retained by an individual respondent.
     - **(B)** A copy of a report described in subparagraph (A) that has been retained by an individual respondent or filed with the Bureau or any of the employees, contractors, or agents of the Bureau—
       - **(i)** shall be immune from legal process; and
       - **(ii)** shall not, without the consent of the individual concerned, be admitted as evidence or used for any purpose in any action, suit, or other judicial or administrative proceedings.

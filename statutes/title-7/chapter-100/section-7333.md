@@ -3,9 +3,9 @@ title: "Section 7333 - Administration and operation of noninsured crop assistanc
 usc_title: 7
 usc_section: "7333"
 chapter: 100
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 7333"
-generated_at: "2026-03-29T18:04:05.111Z"
+generated_at: "2026-03-29T18:23:43.509Z"
 ---
 
 # § 7333. Administration and operation of noninsured crop assistance program
@@ -33,16 +33,16 @@ generated_at: "2026-03-29T18:04:05.111Z"
       - **(ii)** The Secretary shall exempt areas of 5 acres or less from clause (i).
       - **(iii)** For purposes of the reduction in benefits for the acreage described in clause (i)—
         - **(I)** the approved yield shall be determined by using a yield equal to 65 percent of the transitional yield of the producer; and
-        - **(II)** the service fees or premiums for crops planted on native sod shall be equal to 200 percent of the amount determined in subsections ( l )(2) or (k), as applicable, but in no case shall exceed the amount determined in subsection ( l )(2)(B)(ii).
+        - **(II)** the service fees or premiums for crops planted on native sod shall be equal to 200 percent of the amount determined in subsections 1 1 So in original. Probably should be “subsection”. ( l )(2) or (k), as applicable, but in no case shall exceed the amount determined in subsection ( l )(2)(B)(ii).
     - **(C)** This paragraph shall only apply to native sod acreage in the States of Minnesota, Iowa, North Dakota, South Dakota, Montana, and Nebraska.
 - **(b)**
   - **(1)** To be eligible for assistance under this section, a producer shall submit an application for noninsured crop disaster assistance at a local office of the Department. The application shall be in such form, contain such information, and be submitted not later than 30 days before the beginning of the coverage period, as determined by the Secretary.
   - **(2)** To be eligible for assistance under this section, a producer shall provide annually to the Secretary records of crop acreage, acreage yields, and production for each crop, as required by the Secretary.
   - **(3)** A producer shall provide annual reports on acreage planted or prevented from being planted, as required by the Secretary, by the designated acreage reporting date for the crop and location as established by the Secretary.
 - **(c)**
-  - **(1)** To be eligible for assistance under this section, a producer of an eligible crop shall have suffered a loss of a noninsured commodity as the result of a cause described in subsection (a)(3) of this section.
+  - **(1)** To be eligible for assistance under this section, a producer of an eligible crop shall have suffered a loss of a noninsured commodity as the result of a cause described in subsection (a)(3).
   - **(2)**
-    - **(A)** On making a determination described in subsection (a)(3) of this section, the Secretary shall provide assistance under this section to producers of an eligible crop that have suffered a loss as a result of the cause described in subsection (a)(3) of this section.
+    - **(A)** On making a determination described in subsection (a)(3), the Secretary shall provide assistance under this section to producers of an eligible crop that have suffered a loss as a result of the cause described in subsection (a)(3).
     - **(B)** On making a determination described in subsection (a)(3) for aquaculture producers, the Secretary shall provide assistance under this section to aquaculture producers from all losses related to drought.
   - **(3)** Subject to paragraph (1), the Secretary shall make a prevented planting noninsured crop disaster assistance payment if the producer is prevented from planting more than 35 percent of the acreage intended for the eligible crop because of drought, flood, or other natural disaster, as determined by the Secretary.
   - **(4)** The Secretary shall provide assistance to individual producers without any requirement of an area loss.
@@ -84,13 +84,13 @@ generated_at: "2026-03-29T18:04:05.111Z"
   - **(3)**
     - **(A)** Except as provided in subparagraph (B), if a producer who is eligible to receive benefits under this section is also eligible to receive assistance for the same loss under any other program administered by the Secretary, the producer shall be required to elect whether to receive benefits under this section or under the other program, but not both.
     - **(B)** Subparagraph (A) shall not apply to emergency loans under subtitle C of the Consolidated Farm and Rural Development Act ( 7 U.S.C. 1961 et seq.).
-  - **(4)** A person or legal entity that has an average adjusted gross income in excess of the average adjusted gross income limitation applicable under section 1308–3a(b)(1)(A) 1 1 See References in Text note below. of this title, or a successor provision, shall not be eligible to receive noninsured crop disaster assistance under this section.
+  - **(4)** A person or legal entity that has an average adjusted gross income in excess of the average adjusted gross income limitation applicable under section 1308–3a(b)(1)(A) 2 2 See References in Text note below. of this title, or a successor provision, shall not be eligible to receive noninsured crop disaster assistance under this section.
   - **(5)** The Secretary shall issue regulations prescribing such rules as the Secretary determines necessary—
     - **(A)** to ensure a fair and equitable application of section 1308 of this title , the general payment limitation regulations of the Secretary, and the limitations established under this subsection; and
     - **(B)** to ensure that payments under this section are attributed to a person or legal entity (excluding a joint venture or general partnership) in accordance with the terms and conditions of sections 1308 through 1308–3a of this title, as determined by the Secretary.
 - **(j)**
 - **(k)**
-  - **(1)** To be eligible to receive assistance for an eligible crop for a crop year under this section, a producer shall pay to the Secretary (at the time at which the producer submits the application under subsection (b)(1) of this section) a service fee for the eligible crop in an amount that is equal to the lesser of—
+  - **(1)** To be eligible to receive assistance for an eligible crop for a crop year under this section, a producer shall pay to the Secretary (at the time at which the producer submits the application under subsection (b)(1)) a service fee for the eligible crop in an amount that is equal to the lesser of—
     - **(A)** $250 per crop per county; or
     - **(B)** $750 per producer per county, but not to exceed a total of $1,875 per producer.
   - **(2)** The Secretary shall waive the service fee required under paragraph (1) in the case of a limited resource, beginning, or socially disadvantaged farmer, as defined by the Secretary.

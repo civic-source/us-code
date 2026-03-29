@@ -3,9 +3,9 @@ title: "Section 2 - Establishment and administration of Rural Collaborative Inve
 usc_title: 7
 usc_section: "2"
 chapter: 50
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-29T18:04:04.937Z"
+generated_at: "2026-03-29T18:23:43.349Z"
 ---
 
 # § 2009dd–2. Establishment and administration of Rural Collaborative Investment Program
@@ -28,11 +28,8 @@ generated_at: "2026-03-29T18:04:04.937Z"
   - **(6)** provide technical assistance to Regional Boards on issues, best practices, and emerging trends relating to rural development, in cooperation with the National Rural Investment Board; and
   - **(7)** provide analytic and programmatic support for regional rural competitiveness through the National Institute, including—
     - **(A)** programs to assist Regional Boards in determining the challenges and opportunities that must be addressed to receive the greatest regional competitive advantage;
-    - **(B)** support for best practices development by the regional investment boards;
-    - **(C)** programs to support the development of appropriate governance and leadership skills in the region; and
-    - **(D)** a review and evaluation of the performance of the Regional Boards (including progress in achieving benchmarks established in a regional investment strategy) in an annual report submitted to—
-      - **(i)** the Committee on Agriculture of the House of Representatives; and
-      - **(ii)** the Committee on Agriculture, Nutrition, and Forestry of the Senate.
+    - **(B)** support for best practices development by the regional investment boards; and
+    - **(C)** programs to support the development of appropriate governance and leadership skills in the region.
 - **(c)** The Secretary shall establish within the Department of Agriculture a board to be known as the “National Rural Investment Board”.
 - **(d)** The National Board shall—
   - **(1)** not later than 180 days after the date of establishment of the National Board, develop rules relating to the operation of the National Board; and

@@ -3,9 +3,9 @@ title: "Section 3505 - Exceptions to limitations on expenditures"
 usc_title: 16
 usc_section: "3505"
 chapter: 55
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 3505"
-generated_at: "2026-03-29T18:05:07.034Z"
+generated_at: "2026-03-29T18:24:22.878Z"
 ---
 
 # § 3505. Exceptions to limitations on expenditures
@@ -19,13 +19,13 @@ generated_at: "2026-03-29T18:05:07.034Z"
   - **(6)** Any of the following actions or projects, if a particular expenditure or the making available of particular assistance for the action or project is consistent with the purposes of this chapter:
     - **(A)** Projects for the study, management, protection, and enhancement of fish and wildlife resources and habitats, including acquisition of fish and wildlife habitats and related lands, stabilization projects for fish and wildlife habitats, and recreational projects.
     - **(B)** Establishment, operation, and maintenance of air and water navigation aids and devices, and for access thereto.
-    - **(C)** Projects under the Land and Water Conservation Fund Act of 1965 ( 16 U.S.C. 460 l –4 through 11) and the Coastal Zone Management Act of 1972 ( 16 U.S.C. 1451 et seq.).
+    - **(C)** Projects under chapter 2003 of title 54 and the Coastal Zone Management Act of 1972 ( 16 U.S.C. 1451 et seq.).
     - **(D)** Scientific research, including aeronautical, atmospheric, space, geologic, marine, fish and wildlife, and other research, development, and applications.
     - **(E)** Assistance for emergency actions essential to the saving of lives and the protection of property and the public health and safety, if such actions are performed pursuant to sections 5170a, 5170b, and 5192 of title 42 and section 1362 1 1 See References in Text note below. of the National Flood Insurance Act of 1968 ( 42 U.S.C. 4103 ) and are limited to actions that are necessary to alleviate the emergency.
     - **(F)** Maintenance, replacement, reconstruction, or repair, but not the expansion (except with respect to United States route 1 in the Florida Keys), of publicly owned or publicly operated roads, structures, and facilities.
     - **(G)** Nonstructural projects for shoreline stabilization that are designed to mimic, enhance, or restore a natural stabilization system.
-- **(b)** For purposes of subsection (a)(2) of this section, a Federal navigation channel or a related structure is an existing channel or structure, respectively, if it was authorized before the date on which the relevant System unit or portion of the System unit was included within the System.
-- **(c)** The limitations on the use of Federal expenditures or financial assistance within the System under subsection (a)(3) of this section shall not apply to a highway—
+- **(b)** For purposes of subsection (a)(2), a Federal navigation channel or a related structure is an existing channel or structure, respectively, if it was authorized before the date on which the relevant System unit or portion of the System unit was included within the System.
+- **(c)** The limitations on the use of Federal expenditures or financial assistance within the System under subsection (a)(3) shall not apply to a highway—
   - **(1)** located in a unit of the System in Michigan; and
   - **(2)** in existence on November 16, 1990 .
 - **(d)**

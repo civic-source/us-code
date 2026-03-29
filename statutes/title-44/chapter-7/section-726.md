@@ -3,9 +3,9 @@ title: "Section 726 - Printing for committees of Congress"
 usc_title: 44
 usc_section: "726"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "44 U.S.C. § 726"
-generated_at: "2026-03-29T18:06:33.611Z"
+generated_at: "2026-03-29T18:26:16.106Z"
 ---
 
 # § 726. Printing for committees of Congress

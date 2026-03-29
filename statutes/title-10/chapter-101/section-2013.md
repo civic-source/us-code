@@ -3,15 +3,15 @@ title: "Section 2013 - Training at non-Government facilities"
 usc_title: 10
 usc_section: "2013"
 chapter: 101
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2013"
-generated_at: "2026-03-29T18:04:13.113Z"
+generated_at: "2026-03-29T18:23:51.870Z"
 ---
 
 # § 2013. Training at non-Government facilities
 
 - **(a)**
-  - **(1)** The Secretary concerned, without regard to section 6101(b)–(d) of title 41, may make agreements or other arrangements for the training of members of the uniformed services under the jurisdiction of that Secretary by, in, or through non-Government facilities.
+  - **(1)** The Secretary concerned, without regard to section 6101 of title 41 , may make agreements or other arrangements for the training of members of the uniformed services under the jurisdiction of that Secretary by, in, or through non-Government facilities.
   - **(2)** In this section, the term “non-Government facility” means any of the following:
     - **(A)** The government of a State or of a territory or possession of the United States, including the Commonwealth of Puerto Rico, an interstate governmental organization, and a unit, subdivision, or instrumentality of any of the foregoing.
     - **(B)** A foreign government or international organization, or instrumentality of either, which is designated by the President as eligible to provide training under this section.

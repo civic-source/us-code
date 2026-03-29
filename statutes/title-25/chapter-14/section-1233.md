@@ -1,14 +1,12 @@
 ---
-title: "Section 1233 - Payments to enrollees; per capita shares to heirs or legatees; trusts and other procedures for protection of minors and persons under legal disability"
+title: "Section 1233 - Omitted"
 usc_title: 25
 usc_section: "1233"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1233"
-generated_at: "2026-03-29T18:05:17.124Z"
+generated_at: "2026-03-29T18:25:23.710Z"
 ---
 
-# § 1233. Payments to enrollees; per capita shares to heirs or legatees; trusts and other procedures for protection of minors and persons under legal disability
-
-The Secretary shall distribute a share payable to a living enrollee directly to such enrollee. The Secretary shall distribute the per capita share of a deceased enrollee to his heirs or legatees upon proof of death and inheritance satisfactory to the Secretary. Sums payable to enrollees or their heirs or legatees who are less than twenty-one years of age or who are under a legal disability shall be paid in accordance with such procedures, including the establishment of trusts, as the Secretary determines to be appropriate to protect their best interests.
+# § 1233. Omitted
 

@@ -1,12 +1,12 @@
 ---
-title: "Section 9633 - Repealed. Pub. L. 99–499, title V, § 517(c)(1) , Oct. 17, 1986 , 100 Stat. 1774"
+title: "Section 9633 - Repealed. Pub. L. 99–499, title V , § 517(c)(1), Oct. 17, 1986 , 100 Stat. 1774"
 usc_title: 42
 usc_section: "9633"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 9633"
-generated_at: "2026-03-29T02:15:37.069Z"
+generated_at: "2026-03-29T18:27:03.930Z"
 ---
 
-# §§ 9631 to 9633. Repealed. Pub. L. 99–499, title V, § 517(c)(1) , Oct. 17, 1986 , 100 Stat. 1774
+# §§ 9631 to 9633. Repealed. Pub. L. 99–499, title V , § 517(c)(1), Oct. 17, 1986 , 100 Stat. 1774
 

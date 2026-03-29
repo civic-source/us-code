@@ -3,9 +3,9 @@ title: "Section 5304 - Rhinoceros and tiger conservation assistance"
 usc_title: 16
 usc_section: "5304"
 chapter: 73
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 5304"
-generated_at: "2026-03-29T18:05:07.078Z"
+generated_at: "2026-03-29T18:24:22.920Z"
 ---
 
 # § 5304. Rhinoceros and tiger conservation assistance
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T18:05:07.078Z"
   - **(4)** estimate the funds and time required to complete the project;
   - **(5)** provide evidence of support of the project by appropriate governmental entities of countries in which the project will be conducted, if the Secretary determines that the support is required for the success of the project; and
   - **(6)** provide any other information the Secretary considers to be necessary for evaluating the eligibility of the project for funding under this chapter.
-- **(c)** Within 30 days of receiving a final project proposal, the Secretary shall provide a copy of the proposal to the Administrator. The Secretary shall review each final project proposal to determine if it meets the criteria set forth in subsection (d) of this section. Not later than 6 months after receiving a final project proposal, and subject to the availability of funds, the Secretary, after consulting with the Administrator, shall approve or disapprove the proposal and provide written notification to the person who submitted the proposal and to the Administrator.
+- **(c)** Within 30 days of receiving a final project proposal, the Secretary shall provide a copy of the proposal to the Administrator. The Secretary shall review each final project proposal to determine if it meets the criteria set forth in subsection (d). Not later than 6 months after receiving a final project proposal, and subject to the availability of funds, the Secretary, after consulting with the Administrator, shall approve or disapprove the proposal and provide written notification to the person who submitted the proposal and to the Administrator.
 - **(d)** The Secretary may approve a project under this section if the project will enhance programs for conservation of rhinoceros or tigers by assisting efforts to—
   - **(1)** implement conservation programs;
   - **(2)** enhance compliance with provisions of CITES and laws of the United States or a foreign country that prohibit or regulate the taking or trade of rhinoceros or tigers or the use of rhinoceros or tiger habitat; or

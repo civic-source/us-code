@@ -3,9 +3,9 @@ title: "Section 1769c - Compliance and accountability"
 usc_title: 42
 usc_section: "1769c"
 chapter: 13
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1769c"
-generated_at: "2026-03-29T18:07:14.307Z"
+generated_at: "2026-03-29T18:27:03.362Z"
 ---
 
 # § 1769c. Compliance and accountability
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T18:07:14.307Z"
     - **(A)** the nutritional requirements of section 1758(f) of this title for school lunches; and
     - **(B)** as applicable, the nutritional requirements for school breakfasts under section 4(e)(1) of the Child Nutrition Act of 1966 ( 42 U.S.C. 1773(e)(1) ).
 - **(b)**
-  - **(1)** Under the system described in subsection (a) of this section, each State educational agency shall—
+  - **(1)** Under the system described in subsection (a), each State educational agency shall—
     - **(A)** require that local food service authorities comply with the nutritional requirements described in subparagraphs (A) and (B) of paragraph (1); 2 2 So in original. Probably means subpars. (A) and (B) of par. (1) of subsec. (a).
     - **(B)** to the maximum extent practicable, ensure compliance through reasonable audits and supervisory assistance reviews;
     - **(C)** in conducting audits and reviews for the purpose of determining compliance with this chapter, including the nutritional requirements of section 1758(f) of this title —
@@ -27,14 +27,14 @@ generated_at: "2026-03-29T18:07:14.307Z"
   - **(2)** Each State educational agency shall coordinate the compliance and accountability activities described in paragraph (1) in a manner that minimizes the imposition of additional duties on local food service authorities.
   - **(3)**
     - **(A)** In this paragraph, the term “selected local educational agency” means a local educational agency that has a demonstrated high level of, or a high risk for, administrative error, as determined by the Secretary.
-    - **(B)** In addition to any review required by subsection (a) of this section or paragraph (1), each State educational agency shall conduct an administrative review of each selected local educational agency during the review cycle established under subsection (a) of this section.
+    - **(B)** In addition to any review required by subsection (a) or paragraph (1), each State educational agency shall conduct an administrative review of each selected local educational agency during the review cycle established under subsection (a).
     - **(C)** In carrying out a review under subparagraph (B), a State educational agency shall only review the administrative processes of a selected local educational agency, including application, certification, verification, meal counting, and meal claiming procedures.
     - **(D)** If the State educational agency determines (on the basis of a review conducted under subparagraph (B)) that a selected local educational agency fails to meet performance criteria established by the Secretary, the State educational agency shall—
       - **(i)** require the selected local educational agency to develop and carry out an approved plan of corrective action;
       - **(ii)** except to the extent technical assistance is provided directly by the Secretary, provide technical assistance to assist the selected local educational agency in carrying out the corrective action plan; and
       - **(iii)** conduct a followup review of the selected local educational agency under standards established by the Secretary.
   - **(4)**
-    - **(A)** Subject to subparagraphs (B) and (C), if the local educational agency fails to meet administrative performance criteria established by the Secretary in both an initial review and a followup review under paragraph (1) or (3) or subsection (a) of this section, the Secretary may require the State educational agency to retain funds that would otherwise be paid to the local educational agency for school meals programs under procedures prescribed by the Secretary.
+    - **(A)** Subject to subparagraphs (B) and (C), if the local educational agency fails to meet administrative performance criteria established by the Secretary in both an initial review and a followup review under paragraph (1) or (3) or subsection (a), the Secretary may require the State educational agency to retain funds that would otherwise be paid to the local educational agency for school meals programs under procedures prescribed by the Secretary.
     - **(B)** The amount of funds retained under subparagraph (A) shall equal the value of any overpayment made to the local educational agency or school food authority as a result of an erroneous claim during the time period described in subparagraph (C).
     - **(C)** The period for determining the value of any overpayment under subparagraph (B) shall be the period—
       - **(i)** beginning on the date the erroneous claim was made; and
@@ -71,7 +71,7 @@ generated_at: "2026-03-29T18:07:14.307Z"
 - **(c)** In carrying out this section, the Secretary shall—
   - **(1)** assist the State educational agency in the monitoring of programs conducted by local food service authorities; and
   - **(2)** through management evaluations, review the compliance of the State educational agency and the local school food service authorities with regulations issued under this chapter.
-- **(d)** There is authorized to be appropriated for purposes of carrying out the compliance and accountability activities referred to in subsection (c) of this section $10,000,000 for each of fiscal years 2011 through 2015.
+- **(d)** There is authorized to be appropriated for purposes of carrying out the compliance and accountability activities referred to in subsection (c) $10,000,000 for each of fiscal years 2011 through 2015.
 - **(e)**
   - **(1)**
     - **(A)** The Secretary shall establish criteria by which the Secretary or a State agency may impose a fine against any school food authority or school administering a program authorized under this chapter or the Child Nutrition Act of 1966 ( 42 U.S.C. 1771 et seq.) if the Secretary or the State agency determines that the school food authority or school has—

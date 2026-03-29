@@ -3,9 +3,9 @@ title: "Section 1405 - Limitation on withdrawal liability"
 usc_title: 29
 usc_section: "1405"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 1405"
-generated_at: "2026-03-29T18:05:31.794Z"
+generated_at: "2026-03-29T18:25:43.119Z"
 ---
 
 # § 1405. Limitation on withdrawal liability
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T18:05:31.794Z"
     - **(B)** after reducing the liquidation or dissolution value of the employer by the amount determined under paragraph (1).
 - **(c)** To the extent that the withdrawal liability of an employer is attributable to his obligation to contribute to or under a plan as an individual (whether as a sole proprietor or as a member of a partnership), property which may be exempt from the estate under section 522 of title 11 or under similar provisions of law, shall not be subject to enforcement of such liability.
 - **(d)** For purposes of this section—
-  - **(1)** an employer is insolvent if the liabilities of the employer, including withdrawal liability under the plan (determined without regard to subsection (b) of this section), exceed the assets of the employer (determined as of the commencement of the liquidation or dissolution), and
+  - **(1)** an employer is insolvent if the liabilities of the employer, including withdrawal liability under the plan (determined without regard to subsection (b)), exceed the assets of the employer (determined as of the commencement of the liquidation or dissolution), and
   - **(2)** the liquidation or dissolution value of the employer shall be determined without regard to such withdrawal liability.
 - **(e)** In the case of one or more withdrawals of an employer attributable to the same sale, liquidation, or dissolution, under regulations prescribed by the corporation—
   - **(1)** all such withdrawals shall be treated as a single withdrawal for the purpose of applying this section, and

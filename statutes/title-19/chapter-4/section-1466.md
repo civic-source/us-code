@@ -3,9 +3,9 @@ title: "Section 1466 - Equipment and repairs of vessels"
 usc_title: 19
 usc_section: "1466"
 chapter: 4
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 1466"
-generated_at: "2026-03-29T18:04:55.013Z"
+generated_at: "2026-03-29T18:24:16.086Z"
 ---
 
 # § 1466. Equipment and repairs of vessels
@@ -17,18 +17,18 @@ generated_at: "2026-03-29T18:04:55.013Z"
   - **(3)** disclose all the material facts which establish the alleged violation;
   - **(4)** state the estimated loss of lawful duties, if any, and taking into account all of the circumstances, the amount of the proposed penalty; and
   - **(5)** inform such person that he shall have a reasonable opportunity to make representations, both oral and written, as to why such penalty claim should not be issued.
-- **(c)** After considering representations, if any, made by the person concerned pursuant to the notice issued under subsection (b) of this section, the appropriate customs officer shall determine whether any violation of subsection (a) of this section, as alleged in the notice, has occurred. If such officer determines that there was no violation, he shall promptly notify, in writing, the person to whom the notice was sent. If such officer determines that there was a violation, he shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under paragraphs (1) through (4) of subsection (b) of this section.
+- **(c)** After considering representations, if any, made by the person concerned pursuant to the notice issued under subsection (b), the appropriate customs officer shall determine whether any violation of subsection (a), as alleged in the notice, has occurred. If such officer determines that there was no violation, he shall promptly notify, in writing, the person to whom the notice was sent. If such officer determines that there was a violation, he shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under paragraphs (1) through (4) of subsection (b).
 - **(d)** If the owner or master of such vessel furnishes good and sufficient evidence that—
   - **(1)** such vessel, while in the regular course of her voyage, was compelled, by stress of weather or other casualty, to put into such foreign port and purchase such equipments, or make such repairs, to secure the safety and seaworthiness of the vessel to enable her to reach her port of destination;
   - **(2)** such equipments or parts thereof or repair parts or materials, were manufactured or produced in the United States, and the labor necessary to install such equipments or to make such repairs was performed by residents of the United States, or by members of the regular crew of such vessel; or
   - **(3)** such equipments, or parts thereof, or materials, or labor, were used as dunnage for cargo, or for the packing or shoring thereof, or in the erection of temporary bulkheads or other similar devices for the control of bulk cargo, or in the preparation (without permanent repair or alteration) of tanks for the carriage of liquid cargo;
 - **(e)**
-  - **(1)** In the case of any vessel referred to in subsection (a) of this section that arrives in a port of the United States two years or more after its last departure from a port in the United States, the duties imposed by this section shall apply only with respect to—
+  - **(1)** In the case of any vessel referred to in subsection (a) that arrives in a port of the United States two years or more after its last departure from a port in the United States, the duties imposed by this section shall apply only with respect to—
     - **(A)** fish nets and netting, and
     - **(B)** other equipments and parts thereof, repair parts and materials purchased, or repairs made, during the first six months after the last departure of such vessel from a port of the United States.
   - **(2)** If such vessel is designed and used primarily for transporting passengers or property, paragraph (1) shall not apply if the vessel departed from the United States for the sole purpose of obtaining such equipments, parts, materials, or repairs.
-- **(f)** The duty imposed under subsection (a) of this section shall not apply to the cost of equipments, or any part thereof, purchased, of repair parts or materials used, or of repairs made in a foreign country with respect to a United States civil aircraft, within the meaning of general note 3(c)(iv) of the Harmonized Tariff Schedule of the United States.
-- **(g)** The duty imposed by subsection (a) of this section shall not apply to entries on and after October 1, 1979 , and before January 1, 1982 , of—
+- **(f)** The duty imposed under subsection (a) shall not apply to the cost of equipments, or any part thereof, purchased, of repair parts or materials used, or of repairs made in a foreign country with respect to a United States civil aircraft, within the meaning of general note 3(c)(iv) of the Harmonized Tariff Schedule of the United States.
+- **(g)** The duty imposed by subsection (a) shall not apply to entries on and after October 1, 1979 , and before January 1, 1982 , of—
   - **(1)** tuna purse seine nets and netting which are equipments or parts thereof,
   - **(2)** repair parts for such nets and netting, or materials used in repairing such nets and netting, or
   - **(3)** the expenses of repairs of such nets and netting,

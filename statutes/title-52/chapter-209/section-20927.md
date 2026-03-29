@@ -3,9 +3,9 @@ title: "Section 20927 - Annual report"
 usc_title: 52
 usc_section: "20927"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "52 U.S.C. § 20927"
-generated_at: "2026-03-29T02:16:22.020Z"
+generated_at: "2026-03-29T18:27:39.892Z"
 ---
 
 # § 20927. Annual report

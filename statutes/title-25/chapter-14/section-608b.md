@@ -1,14 +1,12 @@
 ---
-title: "Section 608b - Rights of lessee"
+title: "Section 608b - Omitted"
 usc_title: 25
 usc_section: "608b"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 608b"
-generated_at: "2026-03-29T18:05:17.076Z"
+generated_at: "2026-03-29T18:25:23.697Z"
 ---
 
-# § 608b. Rights of lessee
+# § 608b. Omitted
 
-- **(a)** No transaction entered into under sections 608 to 608c of this title shall affect, without the consent of the lessee, any lease of lands, interests, improvements, or rights involved in such transaction, or any right of the lessee with respect to extension or renewal of such lease, which is in existence at the time such transaction is entered into.
-- **(b)** Repealed, Pub. L. 88–540, § 3 , Aug. 31, 1964 , 78 Stat. 748 .

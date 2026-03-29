@@ -3,9 +3,9 @@ title: "Section 1456a - Coastal Zone Management Fund"
 usc_title: 16
 usc_section: "1456a"
 chapter: 33
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 1456a"
-generated_at: "2026-03-29T18:05:06.948Z"
+generated_at: "2026-03-29T18:24:22.808Z"
 ---
 
 # § 1456a. Coastal Zone Management Fund
@@ -15,9 +15,9 @@ generated_at: "2026-03-29T18:05:06.948Z"
     - **(A)** Modify the terms and conditions of such loan.
     - **(B)** Refinance the loan.
     - **(C)** Recommend to the Congress that legislation be enacted to forgive the loan.
-  - **(2)** Loan repayments made pursuant to this subsection shall be retained by the Secretary as offsetting collections, and shall be deposited into the Coastal Zone Management Fund established under subsection (b) of this section.
+  - **(2)** Loan repayments made pursuant to this subsection shall be retained by the Secretary as offsetting collections, and shall be deposited into the Coastal Zone Management Fund established under subsection (b).
 - **(b)**
-  - **(1)** The Secretary shall establish and maintain a fund, to be known as the “Coastal Zone Management Fund”, which shall consist of amounts retained and deposited into the Fund under subsection (a) of this section and fees deposited into the Fund under section 1456(i)(3) of this title .
+  - **(1)** The Secretary shall establish and maintain a fund, to be known as the “Coastal Zone Management Fund”, which shall consist of amounts retained and deposited into the Fund under subsection (a) and fees deposited into the Fund under section 1456(i)(3) of this title .
   - **(2)** Subject to amounts provided in appropriation Acts, amounts in the Fund shall be available to the Secretary for use for the following:
     - **(A)** Expenses incident to the administration of this chapter, in an amount not to exceed for each of fiscal years 1997, 1998, and 1999 the higher of—
       - **(i)** $4,000,000; or

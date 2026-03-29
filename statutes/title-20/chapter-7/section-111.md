@@ -3,9 +3,9 @@ title: "Section 111 - Study in certain schools of effect of alcoholic drinks and
 usc_title: 20
 usc_section: "111"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 111"
-generated_at: "2026-03-29T18:05:00.018Z"
+generated_at: "2026-03-29T18:24:40.875Z"
 ---
 
 # § 111. Study in certain schools of effect of alcoholic drinks and narcotics

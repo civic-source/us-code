@@ -3,9 +3,9 @@ title: "Section 3021 - National Security Council"
 usc_title: 50
 usc_section: "3021"
 chapter: 44
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 3021"
-generated_at: "2026-03-29T18:07:43.096Z"
+generated_at: "2026-03-29T18:27:35.666Z"
 ---
 
 # § 3021. National Security Council
@@ -15,10 +15,8 @@ generated_at: "2026-03-29T18:07:43.096Z"
   - **(2)** the Vice President;
   - **(3)** the Secretary of State;
   - **(4)** the Secretary of Defense;
-  - **(5)** the Secretary of Energy;
-  - **(6)** the Director for Mutual Security;
-  - **(7)** the Chairman of the National Security Resources Board; and
-  - **(8)** the Secretaries and Under Secretaries of other executive departments and of the military departments, the Chairman of the Munitions Board, and the Chairman of the Research and Development Board, when appointed by the President by and with the advice and consent of the Senate, to serve at his pleasure.
+  - **(5)** the Secretary of Energy; and
+  - **(6)** the Secretaries and Under Secretaries of other executive departments and of the military departments, when appointed by the President by and with the advice and consent of the Senate, to serve at his pleasure.
 - **(b)** In addition to performing such other functions as the President may direct, for the purpose of more effectively coordinating the policies and functions of the departments and agencies of the Government relating to the national security, it shall, subject to the direction of the President, be the duty of the Council—
   - **(1)** to assess and appraise the objectives, commitments, and risks of the United States in relation to our actual and potential military power, in the interest of national security, for the purpose of making recommendations to the President in connection therewith; and
   - **(2)** to consider policies on matters of common interest to the departments and agencies of the Government concerned with the national security, and to make recommendations to the President in connection therewith.

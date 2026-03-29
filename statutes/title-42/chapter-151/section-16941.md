@@ -3,9 +3,9 @@ title: "Section 16941 - Federal assistance with respect to violations of registr
 usc_title: 42
 usc_section: "16941"
 chapter: 151
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 16941"
-generated_at: "2026-03-29T18:07:15.491Z"
+generated_at: "2026-03-29T18:27:04.242Z"
 ---
 
 # § 16941. Federal assistance with respect to violations of registration requirements

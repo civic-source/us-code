@@ -3,9 +3,9 @@ title: "Section 524 - Availability of appropriations"
 usc_title: 28
 usc_section: "524"
 chapter: 31
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "28 U.S.C. § 524"
-generated_at: "2026-03-29T18:06:03.334Z"
+generated_at: "2026-03-29T18:25:32.861Z"
 ---
 
 # § 524. Availability of appropriations
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T18:06:03.334Z"
         - **(III)** printing;
         - **(IV)** the storage, protection, and destruction of controlled substances; and
         - **(V)** contracting for services directly related to the identification of forfeitable assets, and the processing of and accounting for forfeitures;
-    - **(B)** the payment of awards for information or assistance directly relating to violations of the criminal drug laws of the United States or of sections 1956 and 1957 of title 18, sections 5313 and 5324 of title 31, and section 6050I of the Internal Revenue Code of 1986;
+    - **(B)** the payment of awards for information or assistance directly relating to violations of the criminal drug laws of the United States or of chapter 77 of title 18, sections 1956 and 1957 of title 18, sections 5313 and 5324 of title 31, and section 6050I of the Internal Revenue Code of 1986;
     - **(C)** at the discretion of the Attorney General, the payment of awards for information or assistance leading to a civil or criminal forfeiture involving any Federal agency participating in the Fund;
     - **(D)** the compromise and payment of valid liens and mortgages against property that has been forfeited pursuant to any law enforced or administered by the Department of Justice, subject to the discretion of the Attorney General to determine the validity of any such lien or mortgage and the amount of payment to be made, and the employment of attorneys and other personnel skilled in State real estate law as necessary;
     - **(E)**
@@ -49,7 +49,7 @@ generated_at: "2026-03-29T18:06:03.334Z"
   - **(4)** There shall be deposited in the Fund—
     - **(A)** all amounts from the forfeiture of property under any law enforced or administered by the Department of Justice, except all proceeds of forfeitures available for use by the Secretary of the Treasury or the Secretary of the Interior pursuant to section 11(d) of the Endangered Species Act ( 16 U.S.C. 1540(d) ) or section 6(d) of the Lacey Act Amendments of 1981 ( 16 U.S.C. 3375(d) ), or the Postmaster General of the United States pursuant to 39 U.S.C. 2003(b)(7) ;
     - **(B)** all amounts representing the Federal equitable share from the forfeiture of property under any Federal, State, local or foreign law, for any Federal agency participating in the Fund;
-    - **(C)** all amounts transferred by the Secretary of the Treasury pursuant to section 9703(g)(4)(A)(ii) 1 1 See References in Text note below. of title 31; and
+    - **(C)** all amounts transferred by the Secretary of the Treasury pursuant to section 9705(g)(4)(A) of title 31 ; and
     - **(D)** all amounts collected—
       - **(i)** by the United States pursuant to a reimbursement order under paragraph (2) of section 413(q) of the Controlled Substances Act ( 21 U.S.C. 853(q) ); and
       - **(ii)** pursuant to a restitution order under paragraph (1) or (3) of section 413(q) of the Controlled Substances Act for injuries to the United States.
@@ -78,8 +78,8 @@ generated_at: "2026-03-29T18:06:03.334Z"
   - **(9)**
     - **(A)** Following the completion of procedures for the forfeiture of property pursuant to any law enforced or administered by the Department, the Attorney General is authorized, in her discretion, to warrant clear title to any subsequent purchaser or transferee of such property.
     - **(B)** For fiscal years 2002 and 2003, the Attorney General is authorized to transfer, under such terms and conditions as the Attorney General shall specify, real or personal property of limited or marginal value, to a State or local government agency, or its designated contractor or transferee, for use to support drug abuse treatment, drug and crime prevention and education, housing, job skills, and other community-based public health and safety programs. Each such transfer shall be subject to satisfaction by the recipient involved of any outstanding lien against the property transferred, but no such transfer shall create or confer any private right of action in any person against the United States.
-  - **(10)** The Attorney General shall transfer from the Fund to the Secretary of the Treasury for deposit in the Department of the Treasury Forfeiture Fund amounts appropriate to reflect the degree of participation of the Department of the Treasury law enforcement organizations (described in section 9703(p) 1 of title 31) in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by the Department of Justice.
-  - **(11)** For purposes of this subsection and notwithstanding section 9703 1 of title 31 or any other law, property is forfeited pursuant to a law enforced or administered by the Department of Justice if it is forfeited pursuant to—
+  - **(10)** The Attorney General shall transfer from the Fund to the Secretary of the Treasury for deposit in the Department of the Treasury Forfeiture Fund amounts appropriate to reflect the degree of participation of the Department of the Treasury law enforcement organizations (described in section 9705( o ) of title 31) in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by the Department of Justice.
+  - **(11)** For purposes of this subsection and notwithstanding section 9705 of title 31 or any other law, property is forfeited pursuant to a law enforced or administered by the Department of Justice if it is forfeited pursuant to—
     - **(A)** a judicial forfeiture proceeding when the underlying seizure was made by an officer of a Federal law enforcement agency participating in the Department of Justice Assets Forfeiture Fund or the property was maintained by the United States Marshals Service; or
     - **(B)** a civil administrative forfeiture proceeding conducted by a Department of Justice law enforcement component or pursuant to the authority of the Secretary of Commerce.
 - **(d)**
@@ -89,4 +89,4 @@ generated_at: "2026-03-29T18:06:03.334Z"
     - **(B)** are hereby appropriated, without fiscal year limitation, and shall be disbursed on order of the Attorney General.
   - **(3)** Upon request of the Attorney General, the Secretary of the Treasury may invest and reinvest the fund described herein in public debt securities with maturities suitable for the needs of the fund and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States or comparable maturities.
   - **(4)** Evidences of any intangible personal property (other than money) accepted hereunder shall be deposited with the Secretary of the Treasury, who may hold or liquidate them, except that they shall be liquidated upon the request of the Attorney General.
-  - **(5)** For purposes of federal 2 2 So in original. Probably should be capitalized. income, estate, and gift taxes, property accepted hereunder shall be considered a gift, devise, or bequest to, or for the use of, the United States.
+  - **(5)** For purposes of federal 1 1 So in original. Probably should be capitalized. income, estate, and gift taxes, property accepted hereunder shall be considered a gift, devise, or bequest to, or for the use of, the United States.

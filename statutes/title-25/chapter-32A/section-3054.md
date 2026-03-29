@@ -3,9 +3,9 @@ title: "Section 3054 - Temporary closure for traditional and cultural purposes"
 usc_title: 25
 usc_section: "3054"
 chapter: 32
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 3054"
-generated_at: "2026-03-29T18:05:17.236Z"
+generated_at: "2026-03-29T18:25:23.797Z"
 ---
 
 # § 3054. Temporary closure for traditional and cultural purposes

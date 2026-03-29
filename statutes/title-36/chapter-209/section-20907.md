@@ -3,9 +3,9 @@ title: "Section 20907 - Exclusive right to name and emblem"
 usc_title: 36
 usc_section: "20907"
 chapter: 209
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "36 U.S.C. § 20907"
-generated_at: "2026-03-29T18:06:24.295Z"
+generated_at: "2026-03-29T18:26:09.269Z"
 ---
 
 # § 20907. Exclusive right to name and emblem

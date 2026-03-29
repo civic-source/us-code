@@ -3,17 +3,19 @@ title: "Section 2003 - Authorization of appropriations"
 usc_title: 21
 usc_section: "2003"
 chapter: 25
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 2003"
-generated_at: "2026-03-29T18:05:14.934Z"
+generated_at: "2026-03-29T18:25:04.248Z"
 ---
 
 # § 2003. Authorization of appropriations
 
 There are authorized to be appropriated to the United States Anti-Doping Agency—
 
-  - **(1)** for fiscal year 2007, $9,700,000;
-  - **(2)** for fiscal year 2008, $10,300,000;
-  - **(3)** for fiscal year 2009, $10,600,000;
-  - **(4)** for fiscal year 2010, $11,000,000; and
-  - **(5)** for fiscal year 2011, $11,500,000.
+  - **(1)** for fiscal year 2014, $11,300,000;
+  - **(2)** for fiscal year 2015, $11,700,000;
+  - **(3)** for fiscal year 2016, $12,300,000;
+  - **(4)** for fiscal year 2017, $12,900,000;
+  - **(5)** for fiscal year 2018, $13,500,000;
+  - **(6)** for fiscal year 2019, $14,100,000; and
+  - **(7)** for fiscal year 2020, $14,800,000.

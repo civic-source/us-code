@@ -3,9 +3,9 @@ title: "Section 718b - Sales; fund disposition; unsold stamps"
 usc_title: 16
 usc_section: "718b"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 718b"
-generated_at: "2026-03-29T18:05:06.815Z"
+generated_at: "2026-03-29T18:24:22.696Z"
 ---
 
 # § 718b. Sales; fund disposition; unsold stamps
@@ -30,6 +30,7 @@ generated_at: "2026-03-29T18:05:06.815Z"
   - **(6)** The Postal Service shall not—
     - **(A)** sell on consignment any stamps issued under this subchapter to any individual, business, or organization; or
     - **(B)** redeem stamps issued under this subchapter that are sold on consignment by the Secretary (or any agent of the Secretary).
-- **(b)** The Postal Service shall collect $10.00 for each stamp sold under the provisions of this section for hunting years 1987 and 1988, $12.50 for hunting years 1989 and 1990, and $15.00 for each hunting year thereafter, if the Secretary determines, at any time before February 1 of the calendar year in which such hunting year begins, that all sums in the Migratory Bird Conservation Fund available for obligation and attributable to—
+- **(b)** The Postal Service shall collect $10.00 for each stamp sold under the provisions of this section for hunting years 1987 and 1988, $12.50 for hunting years 1989 and 1990, $15.00 for hunting years 1991 through 2013, and $25 for each hunting year thereafter, if the Secretary determines, at any time before February 1 of the calendar year in which such hunting year begins, that all sums in the Migratory Bird Conservation Fund available for obligation and attributable to—
   - **(1)** amounts appropriated pursuant to this subchapter for the fiscal year ending in the immediately preceding calendar year; and
   - **(2)** the sale of stamps under this section during such fiscal year
+- **(c)** The Secretary may reduce the price of each stamp sold under the provisions of this section for a hunting year if the Secretary determines that the increase in the price of the stamp after hunting year 2013 resulted in a reduction in revenues deposited into the fund.

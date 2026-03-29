@@ -1,14 +1,12 @@
 ---
-title: "Section 470k - Cooperation between Council and instrumentalities of executive branch of Federal Government"
+title: "Section 470k - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "470k"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 470k"
-generated_at: "2026-03-29T18:05:06.724Z"
+generated_at: "2026-03-29T18:24:22.618Z"
 ---
 
-# § 470k. Cooperation between Council and instrumentalities of executive branch of Federal Government
-
-The Council is authorized to secure directly from any department, bureau, agency, board, commission, office, independent establishment or instrumentality of the executive branch of the Federal Government information, suggestions, estimates, and statistics for the purpose of this part; and each such department, bureau, agency, board, commission, office, independent establishment or instrumentality is authorized to furnish such information, suggestions, estimates, and statistics to the extent permitted by law and within available funds.
+# § 470k. Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272
 

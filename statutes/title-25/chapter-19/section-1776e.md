@@ -1,14 +1,12 @@
 ---
-title: "Section 1776e - Eligibility for other Federal services"
+title: "Section 1776e - Omitted"
 usc_title: 25
 usc_section: "1776e"
 chapter: 19
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1776e"
-generated_at: "2026-03-29T18:05:17.185Z"
+generated_at: "2026-03-29T18:25:23.752Z"
 ---
 
-# § 1776e. Eligibility for other Federal services
-
-No payments made or benefits conferred pursuant to this subchapter shall result in the reduction or denial of any Federal services or programs to any tribe or to any member of a tribe to which the tribe or member of the tribe is entitled or eligible because of the status of the tribe as a federally recognized Indian tribe or the status of a member of such tribe as a member.
+# § 1776e. Omitted
 

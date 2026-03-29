@@ -3,9 +3,9 @@ title: "Section 60108 - Inspection and maintenance"
 usc_title: 49
 usc_section: "60108"
 chapter: 601
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 60108"
-generated_at: "2026-03-29T18:07:51.567Z"
+generated_at: "2026-03-29T18:27:16.646Z"
 ---
 
 # § 60108. Inspection and maintenance
@@ -67,3 +67,6 @@ generated_at: "2026-03-29T18:07:51.567Z"
   - **(2)** Chapter 35 of title 44 does not apply to the conduct of the survey.
   - **(3)** This subsection does not prevent the Secretary from developing Government guidelines or standards for cast iron gas pipelines as the Secretary considers appropriate.
   - **(4)** Not later than December 31, 2012 , and every 2 years thereafter, the Secretary shall conduct a follow-up survey to measure the progress that owners and operators of pipeline facilities have made in adopting and implementing their plans for the safe management and replacement of cast iron gas pipelines.
+- **(e)** After the completion of a Pipeline and Hazardous Materials Safety Administration pipeline safety inspection, the Administrator of such Administration, or the State authority certified under section 60105 of title 49 , United States Code, to conduct such inspection, shall—
+  - **(1)** within 30 days, conduct a post-inspection briefing with the owner or operator of the gas or hazardous liquid pipeline facility inspected outlining any concerns; and
+  - **(2)** within 90 days, to the extent practicable, provide the owner or operator with written preliminary findings of the inspection.

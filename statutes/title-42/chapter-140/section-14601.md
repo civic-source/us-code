@@ -3,9 +3,9 @@ title: "Section 14601 - State grant program for criminal justice identification,
 usc_title: 42
 usc_section: "14601"
 chapter: 140
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 14601"
-generated_at: "2026-03-29T18:07:15.383Z"
+generated_at: "2026-03-29T18:27:04.170Z"
 ---
 
 # § 14601. State grant program for criminal justice identification, information, and communication
@@ -40,7 +40,7 @@ generated_at: "2026-03-29T18:07:15.383Z"
   - **(15)** criminal justice information systems with a capacity to provide statistical and research products including incident-based reporting systems that are compatible with the National Incident-Based Reporting System (NIBRS) and uniform crime reports;
   - **(16)** multiagency, multijurisdictional communications systems among the States to share routine and emergency information among Federal, State, and local law enforcement agencies;
   - **(17)** the capability of the criminal justice system to deliver timely, accurate, and complete criminal history record information to child welfare agencies, organizations, and programs that are engaged in the assessment of risk and other activities related to the protection of children, including protection against child sexual abuse, and placement of children in foster care; and
-  - **(18)** notwithstanding subsection (c) of this section, antiterrorism purposes as they relate to any other uses under this section or for other antiterrorism programs.
+  - **(18)** notwithstanding subsection (c), antiterrorism purposes as they relate to any other uses under this section or for other antiterrorism programs.
 - **(c)**
   - **(1)** To be eligible to receive a grant under this section, a State shall provide assurances to the Attorney General that the State has the capability to contribute pertinent information to the national instant criminal background check system established under section 103(b) of the Brady Handgun Violence Prevention Act ( 18 U.S.C. 922 note).
   - **(2)** Such assurances shall include a provision that ensures that a statewide strategy for information sharing systems is underway, or will be initiated, to improve the functioning of the criminal justice system, with an emphasis on integration of all criminal justice components, law enforcement, courts, prosecution, corrections, and probation and parole. The strategy shall be prepared after consultation with State and local officials with emphasis on the recommendation of officials whose duty it is to oversee, plan, and implement integrated information technology systems, and shall contain—

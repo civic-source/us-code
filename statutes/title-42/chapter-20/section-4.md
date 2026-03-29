@@ -1,26 +1,12 @@
 ---
-title: "Section 4 - Mail registration"
+title: "Section 4 - Transferred"
 usc_title: 42
 usc_section: "4"
 chapter: 20
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-29T18:07:14.361Z"
+generated_at: "2026-03-29T18:27:03.399Z"
 ---
 
-# § 1973gg–4. Mail registration
+# § 1973gg–4. Transferred
 
-- **(a)**
-  - **(1)** Each State shall accept and use the mail voter registration application form prescribed by the Federal Election Commission pursuant to section 1973gg–7(a)(2) of this title for the registration of voters in elections for Federal office.
-  - **(2)** In addition to accepting and using the form described in paragraph (1), a State may develop and use a mail voter registration form that meets all of the criteria stated in section 1973gg–7(b) of this title for the registration of voters in elections for Federal office.
-  - **(3)** A form described in paragraph (1) or (2) shall be accepted and used for notification of a registrant’s change of address.
-- **(b)** The chief State election official of a State shall make the forms described in subsection (a) of this section available for distribution through governmental and private entities, with particular emphasis on making them available for organized voter registration programs.
-- **(c)**
-  - **(1)** Subject to paragraph (2), a State may by law require a person to vote in person if—
-    - **(A)** the person was registered to vote in a jurisdiction by mail; and
-    - **(B)** the person has not previously voted in that jurisdiction.
-  - **(2)** Paragraph (1) does not apply in the case of a person—
-    - **(A)** who is entitled to vote by absentee ballot under the Uniformed and Overseas Citizens Absentee Voting Act [ 42 U.S.C. 1973ff et seq.];
-    - **(B)** who is provided the right to vote otherwise than in person under section 1973ee–1(b)(2)(B)(ii) of this title ; or
-    - **(C)** who is entitled to vote otherwise than in person under any other Federal law.
-- **(d)** If a notice of the disposition of a mail voter registration application under section 1973gg–6(a)(2) of this title is sent by nonforwardable mail and is returned undelivered, the registrar may proceed in accordance with section 1973gg–6(d) of this title .

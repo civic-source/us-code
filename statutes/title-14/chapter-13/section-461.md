@@ -1,14 +1,16 @@
 ---
-title: "Section 461 - Remission of indebtedness of enlisted members upon discharge"
+title: "Section 461 - Remission of indebtedness"
 usc_title: 14
 usc_section: "461"
 chapter: 13
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "14 U.S.C. § 461"
-generated_at: "2026-03-29T18:04:21.486Z"
+generated_at: "2026-03-29T18:23:55.770Z"
 ---
 
-# § 461. Remission of indebtedness of enlisted members upon discharge
+# § 461. Remission of indebtedness
 
-If he considers it in the best interest of the United States, the Secretary may have remitted or canceled any part of an enlisted member’s indebtedness to the United States or any of its instrumentalities remaining unpaid before or at the time of, that member’s honorable discharge.
+The Secretary may have remitted or cancelled any part of a person’s indebtedness to the United States or any instrumentality of the United States if—
 
+  - **(1)** the indebtedness was incurred while the person served on active duty as a member of the Coast Guard; and
+  - **(2)** the Secretary determines that remitting or cancelling the indebtedness is in the best interest of the United States.

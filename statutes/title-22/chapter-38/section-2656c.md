@@ -3,9 +3,9 @@ title: "Section 2656c - Responsibilities of President"
 usc_title: 22
 usc_section: "2656c"
 chapter: 38
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 2656c"
-generated_at: "2026-03-29T18:05:21.872Z"
+generated_at: "2026-03-29T18:24:54.243Z"
 ---
 
 # § 2656c. Responsibilities of President
@@ -18,5 +18,5 @@ generated_at: "2026-03-29T18:05:21.872Z"
 - **(b)**
 - **(c)** Except as otherwise provided by law, nothing in this section shall be construed as requiring the public disclosure of sensitive information relating to intelligence sources or methods or to persons engaged in monitoring scientific or technological developments for intelligence purposes.
 - **(d)**
-  - **(1)** The information and recommendations developed under subsection (b)(3) of this section shall be made available to the United States Trade Representative for use in his consultations with Federal agencies pursuant to Executive orders pertaining to the transfer of science and technology.
+  - **(1)** The information and recommendations developed under subsection (b)(3) shall be made available to the United States Trade Representative for use in his consultations with Federal agencies pursuant to Executive orders pertaining to the transfer of science and technology.
   - **(2)** In providing such information and recommendations, the President shall utilize information developed by any Federal departments, agencies, or interagency committees as he may consider necessary.

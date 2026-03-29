@@ -3,9 +3,9 @@ title: "Section 2445b - Cost, schedule, and performance information"
 usc_title: 10
 usc_section: "2445b"
 chapter: 144
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2445b"
-generated_at: "2026-03-29T18:04:13.171Z"
+generated_at: "2026-03-29T18:23:51.958Z"
 ---
 
 # § 2445b. Cost, schedule, and performance information
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T18:04:13.171Z"
 - **(b)** The documents submitted under subsection (a) with respect to a major automated information system program shall include detailed and summarized information with respect to the automated information system to be acquired under the program, and shall specifically include each of the following:
   - **(1)** The development schedule, including major milestones.
   - **(2)** The implementation schedule, including estimates of milestone dates, full deployment decision, and full deployment.
-  - **(3)** Estimates of development costs and full life-cycle costs.
+  - **(3)** Estimates of total acquisition costs and full life-cycle costs.
   - **(4)** A summary of key performance parameters.
   - **(5)** For each major automated information system program for which such information has not been provided in a previous annual report—
     - **(A)** a description of the business case analysis (if any) that has been prepared for the program and key functional requirements for the program;
@@ -28,4 +28,5 @@ generated_at: "2026-03-29T18:04:13.171Z"
   - **(1)** For purposes of this chapter, the initial submittal to Congress of the documents required by subsection (a) with respect to a major automated information system program shall constitute the original estimate or information originally submitted on such program for purposes of the reports and determinations on program changes in section 2445c of this title .
   - **(2)** An adjustment or revision of the original estimate or information originally submitted on a program may be treated as the original estimate or information originally submitted on the program if the adjustment or revision is the result of a critical change in the program covered by section 2445c(d) of this title .
   - **(3)** In the event of an adjustment or revision to the original estimate or information originally submitted on a program under paragraph (2), the Secretary of Defense shall include in the next budget justification documents submitted under subsection (a) after such adjustment or revision a notification to the congressional defense committees of such adjustment or revision, together with the reasons for such adjustment or revision.
-- **(d)** With respect to each other major information technology investment program, the information required by subsection (a) may be provided in the format that is most appropriate to the current status of the program.
+- **(d)** If an adjustment or revision under subsection (c) for a major automated information system that is not a national security system provides for a period in excess of five years from the time of program initiation to the time of a full deployment decision, the documents submitted under subsection (a) shall include a written determination by the senior Department of Defense official responsible for the program justifying the need for the longer period.
+- **(e)** With respect to each other major information technology investment program, the information required by subsection (a) may be provided in the format that is most appropriate to the current status of the program.

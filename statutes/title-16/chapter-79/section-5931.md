@@ -1,19 +1,12 @@
 ---
-title: "Section 5931 - Purposes"
+title: "Section 5931 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "5931"
 chapter: 79
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 5931"
-generated_at: "2026-03-29T18:05:07.086Z"
+generated_at: "2026-03-29T18:24:22.926Z"
 ---
 
-# § 5931. Purposes
+# § 5931. Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272
 
-The purposes of this subchapter are—
-
-  - **(1)** to more effectively achieve the mission of the National Park Service;
-  - **(2)** to enhance management and protection of national park resources by providing clear authority and direction for the conduct of scientific study in the National Park System and to use the information gathered for management purposes;
-  - **(3)** to ensure appropriate documentation of resource conditions in the National Park System;
-  - **(4)** to encourage others to use the National Park System for study to the benefit of park management as well as broader scientific value, where such study is consistent with sections 1, 2, 3, and 4 of this title; and
-  - **(5)** to encourage the publication and dissemination of information derived from studies in the National Park System.

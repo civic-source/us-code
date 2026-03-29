@@ -3,9 +3,9 @@ title: "Section 6441 - Presidential actions in response to violations of religio
 usc_title: 22
 usc_section: "6441"
 chapter: 73
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 6441"
-generated_at: "2026-03-29T18:05:22.003Z"
+generated_at: "2026-03-29T18:24:54.355Z"
 ---
 
 # § 6441. Presidential actions in response to violations of religious freedom
@@ -14,11 +14,11 @@ generated_at: "2026-03-29T18:05:22.003Z"
   - **(1)**
     - **(A)** It shall be the policy of the United States—
       - **(i)** to oppose violations of religious freedom that are or have been engaged in or tolerated by the governments of foreign countries; and
-      - **(ii)** to promote the right to freedom of religion in those countries through the actions described in subsection (b) of this section.
-    - **(B)** For each foreign country the government of which engages in or tolerates violations of religious freedom, the President shall oppose such violations and promote the right to freedom of religion in that country through the actions described in subsection (b) of this section.
+      - **(ii)** to promote the right to freedom of religion in those countries through the actions described in subsection (b).
+    - **(B)** For each foreign country the government of which engages in or tolerates violations of religious freedom, the President shall oppose such violations and promote the right to freedom of religion in that country through the actions described in subsection (b).
   - **(2)** Each action taken under paragraph (1)(B) shall be based upon information regarding violations of religious freedom, as described in the latest Country Reports on Human Rights Practices, the Annual Report and Executive Summary, and on any other evidence available, and shall take into account any findings or recommendations by the Commission with respect to the foreign country.
 - **(b)**
-  - **(1)** Subject to paragraphs (2) and (3), the President, in consultation with the Secretary of State, the Ambassador at Large, the Special Adviser, and the Commission, shall, as expeditiously as practicable in response to the violations described in subsection (a) of this section by the government of a foreign country—
+  - **(1)** Subject to paragraphs (2) and (3), the President, in consultation with the Secretary of State, the Ambassador at Large, the Special Adviser, and the Commission, shall, as expeditiously as practicable in response to the violations described in subsection (a) by the government of a foreign country—
     - **(A)** take one or more of the actions described in paragraphs (1) through (15) of section 6445(a) of this title (or commensurate action in substitution thereto) with respect to such country; or
     - **(B)** negotiate and enter into a binding agreement with the government of such country, as described in section 6445(c) of this title .
   - **(2)** Not later than September 1 of each year, the President shall take action under any of paragraphs (1) through (15) of section 6445(a) of this title (or commensurate action in substitution thereto) with respect to each foreign country the government of which has engaged in or tolerated violations of religious freedom at any time since September 1 of the preceding year, except that in the case of action under any of paragraphs (9) through (15) of section 6445(a) of this title (or commensurate action in substitution thereto)—
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T18:05:22.003Z"
     - **(B)** the September 1 limitation shall not apply.
   - **(3)** The President may delay action under paragraph (2) described in any of paragraphs (9) through (15) of section 6445(a) of this title (or commensurate action in substitution thereto) if he determines and certifies to Congress that a single, additional period of time, not to exceed 90 days, is necessary pursuant to the same provisions applying to countries of particular concern for religious freedom under section 6442(c)(3) of this title .
 - **(c)**
-  - **(1)** In carrying out subsection (b) of this section, the President shall—
+  - **(1)** In carrying out subsection (b), the President shall—
     - **(A)** take the action or actions that most appropriately respond to the nature and severity of the violations of religious freedom;
     - **(B)** seek to the fullest extent possible to target action as narrowly as practicable with respect to the agency or instrumentality of the foreign government, or specific officials thereof, that are responsible for such violations; and
     - **(C)** when appropriate, make every reasonable effort to conclude a binding agreement concerning the cessation of such violations in countries with which the United States has diplomatic relations.

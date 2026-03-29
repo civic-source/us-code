@@ -3,9 +3,9 @@ title: "Section 805 - General deductions"
 usc_title: 26
 usc_section: "805"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 805"
-generated_at: "2026-03-29T18:05:44.696Z"
+generated_at: "2026-03-29T18:25:53.644Z"
 ---
 
 # § 805. General deductions
@@ -15,16 +15,16 @@ generated_at: "2026-03-29T18:05:44.696Z"
   - **(2)** The net increase in reserves which is required by section 807(b) to be taken into account under this paragraph.
   - **(3)** The deduction for policyholder dividends (determined under section 808(c)).
   - **(4)**
-    - **(A)** The deductions provided by sections 243, 244, and 245 (as modified by subparagraph (B))—
+    - **(A)** The deductions provided by sections 243 and 245 (as modified by subparagraph (B))—
       - **(i)** for 100 percent dividends received, and
       - **(ii)** for the life insurance company’s share of the dividends (other than 100 percent dividends) received.
-    - **(B)** In applying section 246(b) (relating to limitation on aggregate amount of deductions for dividends received) for purposes of subparagraph (A), the limit on the aggregate amount of the deductions allowed by sections 243(a)(1), 244(a), and 245 shall be the percentage determined under section 246(b)(3) of the life insurance company taxable income (and such limitation shall be applied as provided in section 246(b)(3)), computed without regard to—
+    - **(B)** In applying section 246(b) (relating to limitation on aggregate amount of deductions for dividends received) for purposes of subparagraph (A), the limit on the aggregate amount of the deductions allowed by sections 243(a)(1) and 245 shall be the percentage determined under section 246(b)(3) of the life insurance company taxable income (and such limitation shall be applied as provided in section 246(b)(3)), computed without regard to—
       - **(i)** the small life insurance company deduction,
       - **(ii)** the operations loss deduction provided by section 810,
-      - **(iii)** the deductions allowed by sections 243(a)(1), 244(a), and 245, and
+      - **(iii)** the deductions allowed by sections 243(a)(1) and 245, and
       - **(iv)** any capital loss carryback to the taxable year under section 1212(a)(1),
     - **(C)** For purposes of subparagraph (A)—
-      - **(i)** Except as provided in clause (ii), the term “100 percent dividend” means any dividend if the percentage used for purposes of determining the deduction allowable under section 243, 244, or 245(b) is 100 percent.
+      - **(i)** Except as provided in clause (ii), the term “100 percent dividend” means any dividend if the percentage used for purposes of determining the deduction allowable under section 243 or 245(b) is 100 percent.
       - **(ii)** The term “100 percent dividend” does not include any distribution by a corporation which is not an insurance company to the extent such distribution is out of tax-exempt interest, or out of the increase for the taxable year in policy cash values (within the meaning of subparagraph (F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies, or out of dividends which are not 100 percent dividends (determined with the application of this clause as if it applies to distributions by all corporations including insurance companies).
     - **(D)**
       - **(i)** In the case of any 100 percent dividend paid to any life insurance company out of the earnings and profits for any taxable year beginning after December 31, 1983 , of another life insurance company if—
@@ -66,4 +66,4 @@ generated_at: "2026-03-29T18:05:44.696Z"
     - **(A)** Section 171 shall not apply.
     - **(B)** For rules relating to amortizable bond premium, see section 811(b).
   - **(4)** Except as provided by section 844, the deduction for net operating losses provided in section 172 shall not be allowed.
-  - **(5)** Except as provided in subsection (a)(4), the deductions for dividends received provided by sections 243, 244, and 245 shall not be allowed.
+  - **(5)** Except as provided in subsection (a)(4), the deductions for dividends received provided by sections 243 and 245 shall not be allowed.

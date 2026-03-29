@@ -3,9 +3,9 @@ title: "Section 2617 - Enforcement"
 usc_title: 29
 usc_section: "2617"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 2617"
-generated_at: "2026-03-29T18:05:31.810Z"
+generated_at: "2026-03-29T18:25:43.131Z"
 ---
 
 # § 2617. Enforcement
@@ -24,11 +24,11 @@ generated_at: "2026-03-29T18:05:31.810Z"
     - **(B)** the employees and other employees similarly situated.
   - **(3)** The court in such an action shall, in addition to any judgment awarded to the plaintiff, allow a reasonable attorney’s fee, reasonable expert witness fees, and other costs of the action to be paid by the defendant.
   - **(4)** The right provided by paragraph (2) to bring an action by or on behalf of any employee shall terminate—
-    - **(A)** on the filing of a complaint by the Secretary in an action under subsection (d) of this section in which restraint is sought of any further delay in the payment of the amount described in paragraph (1)(A) to such employee by an employer responsible under paragraph (1) for the payment; or
-    - **(B)** on the filing of a complaint by the Secretary in an action under subsection (b) of this section in which a recovery is sought of the damages described in paragraph (1)(A) owing to an eligible employee by an employer liable under paragraph (1),
+    - **(A)** on the filing of a complaint by the Secretary in an action under subsection (d) in which restraint is sought of any further delay in the payment of the amount described in paragraph (1)(A) to such employee by an employer responsible under paragraph (1) for the payment; or
+    - **(B)** on the filing of a complaint by the Secretary in an action under subsection (b) in which a recovery is sought of the damages described in paragraph (1)(A) owing to an eligible employee by an employer liable under paragraph (1),
 - **(b)**
   - **(1)** The Secretary shall receive, investigate, and attempt to resolve complaints of violations of section 2615 of this title in the same manner that the Secretary receives, investigates, and attempts to resolve complaints of violations of sections 206 and 207 of this title.
-  - **(2)** The Secretary may bring an action in any court of competent jurisdiction to recover the damages described in subsection (a)(1)(A) of this section.
+  - **(2)** The Secretary may bring an action in any court of competent jurisdiction to recover the damages described in subsection (a)(1)(A).
   - **(3)** Any sums recovered by the Secretary pursuant to paragraph (2) shall be held in a special deposit account and shall be paid, on order of the Secretary, directly to each employee affected. Any such sums not paid to an employee because of inability to do so within a period of 3 years shall be deposited into the Treasury of the United States as miscellaneous receipts.
 - **(c)**
   - **(1)** Except as provided in paragraph (2), an action may be brought under this section not later than 2 years after the date of the last event constituting the alleged violation for which the action is brought.

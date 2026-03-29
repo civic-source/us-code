@@ -3,9 +3,9 @@ title: "Section 9105a - National Museum and Library Services Board"
 usc_title: 20
 usc_section: "9105a"
 chapter: 72
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 9105a"
-generated_at: "2026-03-29T18:05:00.403Z"
+generated_at: "2026-03-29T18:24:41.176Z"
 ---
 
 # § 9105a. National Museum and Library Services Board
@@ -32,7 +32,7 @@ generated_at: "2026-03-29T18:05:00.403Z"
   - **(3)** Members of the Museum and Library Services Board shall be appointed to reflect persons from various geographic regions of the United States. The Museum and Library Services Board may not include, at any time, more than three appointive members from a single State. In making such appointments, the President shall give due regard to equitable representation of women, minorities, and persons with disabilities who are involved with museums and libraries.
   - **(4)** The Director, the Deputy Director of the Office of Library Services, and the Deputy Director of the Office of Museum Services shall be nonvoting members of the Museum and Library Services Board.
 - **(c)**
-  - **(1)** Each member of the Museum and Library Services Board appointed under subparagraph (D) or (E) of subsection (b)(1) of this section shall serve for a term of 5 years.
+  - **(1)** Each member of the Museum and Library Services Board appointed under subparagraph (D) or (E) of subsection (b)(1) shall serve for a term of 5 years.
   - **(2)** The terms of the members appointed to the Museum and Library Service Board shall be adjusted by the President as necessary to ensure that the terms of not more than four members expire in the same year. Such adjustments shall be carried out through designation of the adjusted term at the time of appointment.
   - **(3)** Any member appointed to fill a vacancy shall serve for the remainder of the term for which the predecessor of the member was appointed.
   - **(4)** No appointive member of the Museum and Library Services Board who has been a member for more than 7 consecutive years shall be eligible for reappointment.

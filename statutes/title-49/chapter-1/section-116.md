@@ -3,9 +3,9 @@ title: "Section 116 - National Surface Transportation and Innovative Finance Bur
 usc_title: 49
 usc_section: "116"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 116"
-generated_at: "2026-03-29T02:16:08.845Z"
+generated_at: "2026-03-29T18:27:16.421Z"
 ---
 
 # § 116. National Surface Transportation and Innovative Finance Bureau
@@ -27,9 +27,9 @@ generated_at: "2026-03-29T02:16:08.845Z"
 - **(d)**
   - **(1)** The Bureau shall administer the application processes for the following programs:
     - **(A)** The infrastructure finance programs authorized under chapter 6 of title 23.
-    - **(B)** The railroad rehabilitation and improvement financing program authorized under sections 22401 through 22403.
+    - **(B)** The railroad rehabilitation and improvement financing program authorized under sections 501 through 503 of the Railroad Revitalization and Regulatory Reform Act of 1976 ( 45 U.S.C. 821–823 ).
     - **(C)** Amount allocations authorized under section 142(m) of the Internal Revenue Code of 1986.
-    - **(D)** The Rural and Tribal Assistance Pilot Program established under section 21205(b)(1) of the Surface Transportation Investment Act of 2021.
+    - **(D)** The nationally significant freight and highway projects program under section 117 of title 23 .
   - **(2)** The Executive Director shall ensure that the congressional notification requirements for each program referred to in paragraph (1) are followed in accordance with the statutory provisions applicable to the program.
   - **(3)** The Executive Director shall ensure that the reporting requirements for each program referred to in paragraph (1) are followed in accordance with the statutory provisions applicable to the program.
   - **(4)** In administering the application processes for the programs referred to in paragraph (1), the Executive Director shall coordinate with appropriate officials in the Department and its modal administrations responsible for administering such programs.
@@ -71,9 +71,10 @@ generated_at: "2026-03-29T02:16:08.845Z"
 - **(f)**
   - **(1)** The Bureau shall take actions that are appropriate and consistent with the Department’s goals and policies to improve the delivery timelines for projects carried out under the programs referred to in subsection (d)(1).
   - **(2)** The Bureau shall carry out paragraph (1)—
-    - **(A)** by coordinating efforts to improve the efficiency and effectiveness of the environmental review and permitting process;
-    - **(B)** by providing technical assistance and training to field and headquarters staff of Federal agencies on policy changes and innovative approaches to the delivery of projects; and
-    - **(C)** by identifying, developing, and tracking metrics for permit reviews and decisions by Federal agencies for projects under the National Environmental Policy Act of 1969.
+    - **(A)** by serving as the Department’s liaison to the Council on Environmental Quality;
+    - **(B)** by coordinating efforts to improve the efficiency and effectiveness of the environmental review and permitting process;
+    - **(C)** by providing technical assistance and training to field and headquarters staff of Federal agencies on policy changes and innovative approaches to the delivery of projects; and
+    - **(D)** by identifying, developing, and tracking metrics for permit reviews and decisions by Federal agencies for projects under the National Environmental Policy Act of 1969.
   - **(3)** At the request of an eligible entity that is carrying out a project under a program referred to in subsection (d)(1), the Bureau, in coordination with the appropriate modal administrations within the Department, shall provide technical assistance with regard to the compliance of the project with the requirements of the National Environmental Policy Act 1969 and relevant Federal environmental permits.
 - **(g)**
   - **(1)** The Bureau shall promote best practices in procurement for a project receiving assistance under a program referred to in subsection (d)(1) by developing, in coordination with modal administrations within the Department as appropriate, procurement benchmarks in order to ensure accountable expenditure of Federal assistance over the life cycle of the project.
@@ -94,8 +95,8 @@ generated_at: "2026-03-29T02:16:08.845Z"
     - **(B)** The Secretary may transfer to the Bureau a position within the Department from any office that is eliminated or consolidated under this subsection if the Secretary determines that the position is necessary to carry out the purposes of the Bureau.
     - **(C)** If the Secretary transfers a position to the Bureau under subparagraph (B), the Secretary, in coordination with the appropriate modal administration, shall ensure that the transfer of the position does not adversely affect the obligations of the modal administration under any Federal law.
     - **(D)**
-      - **(i)** The Secretary may transfer to the Bureau funds allocated to any office or office function that is eliminated or consolidated under this subsection to carry out the purposes of the Bureau. Any such funds or limitation of obligations or portions thereof transferred to the Bureau may be transferred back to and merged with the original account.
-      - **(ii)** The Secretary may transfer to the Bureau funds allocated to the administrative costs of processing applications for the programs referred to in subsection (d)(1). Any such funds or limitation of obligations or portions thereof transferred to the Bureau may be transferred back to and merged with the original account.
+      - **(i)** During the 2-year period beginning on the date of enactment of this section, the Secretary may transfer to the Bureau funds allocated to any office or office function that is eliminated or consolidated under this subsection to carry out the purposes of the Bureau.
+      - **(ii)** During the 2-year period beginning on the date of enactment of this section, the Secretary may transfer to the Bureau funds allocated to the administrative costs of processing applications for the programs referred to in subsection (d)(1).
   - **(4)** Not later than 90 days after the date of enactment of this section, and every 90 days thereafter, the Secretary shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works, the Committee on Banking, Housing, and Urban Affairs, and the Committee on Commerce, Science, and Transportation of the Senate of—
     - **(A)** the offices eliminated under paragraph (1) and the rationale for elimination of the offices;
     - **(B)** the offices and office functions consolidated under paragraph (2) and the rationale for consolidation of the offices and office functions;

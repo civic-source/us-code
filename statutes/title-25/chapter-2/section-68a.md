@@ -1,12 +1,12 @@
 ---
-title: "Section 68a - Repealed. Pub. L. 96–277, § 2 , June 17, 1980 , 94 Stat. 545"
+title: "Section 68a - Repealed. Pub. L. 96–277 , § 2, June 17, 1980 , 94 Stat. 545"
 usc_title: 25
 usc_section: "68a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 68a"
-generated_at: "2026-03-29T02:13:20.835Z"
+generated_at: "2026-03-29T18:25:23.659Z"
 ---
 
-# §§ 68, 68a. Repealed. Pub. L. 96–277, § 2 , June 17, 1980 , 94 Stat. 545
+# §§ 68, 68a. Repealed. Pub. L. 96–277 , § 2, June 17, 1980 , 94 Stat. 545
 

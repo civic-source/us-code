@@ -3,17 +3,18 @@ title: "Section 467 - Definitions"
 usc_title: 33
 usc_section: "467"
 chapter: 9
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 467"
-generated_at: "2026-03-29T18:06:10.479Z"
+generated_at: "2026-03-29T18:26:01.169Z"
 ---
 
 # § 467. Definitions
 
 In this subchapter, the following definitions apply:
 
-  - **(1)** The term “Board” means a National Dam Safety Review Board established under section 467f(f) of this title .
-  - **(2)** The term “dam”—
+  - **(1)** The term “Administrator” means the Administrator of the Federal Emergency Management Agency.
+  - **(2)** The term “Board” means a National Dam Safety Review Board established under section 467f(f) of this title .
+  - **(3)** The term “dam”—
     - **(A)** means any artificial barrier that has the ability to impound water, wastewater, or any liquid-borne material, for the purpose of storage or control of water, that—
       - **(i)** is 25 feet or more in height from—
         - **(I)** the natural bed of the stream channel or watercourse measured at the downstream toe of the barrier; or
@@ -24,7 +25,6 @@ In this subchapter, the following definitions apply:
       - **(ii)** a barrier described in subparagraph (A) that—
         - **(I)** is 6 feet or less in height regardless of storage capacity; or
         - **(II)** has a storage capacity at the maximum water storage elevation that is 15 acre-feet or less regardless of height;
-  - **(3)** The term “Director” means the Administrator of FEMA.
   - **(4)** The term “Federal agency” means a Federal agency that designs, finances, constructs, owns, operates, maintains, or regulates the construction, operation, or maintenance of a dam.
   - **(5)** The term “Federal Guidelines for Dam Safety” means the FEMA publication, numbered 93 and dated June 1979, that defines management practices for dam safety at all Federal agencies.
   - **(6)** The term “FEMA” means the Federal Emergency Management Agency.

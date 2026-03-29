@@ -3,16 +3,16 @@ title: "Section 178g - Powers of Secretary of Agriculture"
 usc_title: 7
 usc_section: "178g"
 chapter: 8
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 178g"
-generated_at: "2026-03-29T18:04:04.752Z"
+generated_at: "2026-03-29T18:23:43.180Z"
 ---
 
 # § 178g. Powers of Secretary of Agriculture
 
 In carrying out the provisions of this subchapter, the Secretary of Agriculture is authorized to—
 
-- **(a)** make grants to States, education institutions, scientific organizations, and Indian tribes as defined in the Indian Self-Determination and Education Assistance Act ( Public Law 93–638 , 25 U.S.C. 450 ), and enter into contracts with such institutions and organizations and with industrial or engineering firms;
+- **(a)** make grants to States, education institutions, scientific organizations, and Indian tribes as defined in the Indian Self-Determination and Education Assistance Act ( Public Law 93–638 , 25 U.S.C. 450 ), 1 1 See References in Text note below. and enter into contracts with such institutions and organizations and with industrial or engineering firms;
 - **(b)** acquire the services of biologists, agronomists, foresters, geneticists, chemists, engineers, economists, and other personnel by contract or otherwise;
 - **(c)** utilize the facilities of Federal and State scientific laboratories;
 - **(d)** establish and operate necessary facilities and plantations to carry out the continuous research, testing, development, and programing necessary to effectuate the purposes of this subchapter;

@@ -3,9 +3,9 @@ title: "Section 1692m - Reports to Congress by the Bureau; views of other Federa
 usc_title: 15
 usc_section: "1692m"
 chapter: 41
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 1692m"
-generated_at: "2026-03-29T18:04:29.651Z"
+generated_at: "2026-03-29T18:24:08.500Z"
 ---
 
 # § 1692m. Reports to Congress by the Bureau; views of other Federal agencies

@@ -3,28 +3,28 @@ title: "Section 1395p - Enrollment periods"
 usc_title: 42
 usc_section: "1395p"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1395p"
-generated_at: "2026-03-29T18:07:13.913Z"
+generated_at: "2026-03-29T18:27:03.063Z"
 ---
 
 # § 1395p. Enrollment periods
 
 - **(a)** An individual may enroll in the insurance program established by this part only in such manner and form as may be prescribed by regulations, and only during an enrollment period prescribed in or under this section.
 - **(b)**
-- **(c)** In the case of individuals who first satisfy paragraph (1) or (2) of section 1395 o of this title before March 1, 1966 , the initial general enrollment period shall begin on the first day of the second month which begins after July 30, 1965 , and shall end on May 31, 1966 . For purposes of this subsection and subsection (d) of this section, an individual who has attained age 65 and who satisfies paragraph (1) of section 1395 o of this title but not paragraph (2) of such section shall be treated as satisfying such paragraph (1) on the first day on which he is (or on filing application would have been) entitled to hospital insurance benefits under part A.
+- **(c)** In the case of individuals who first satisfy paragraph (1) or (2) of section 1395 o of this title before March 1, 1966 , the initial general enrollment period shall begin on the first day of the second month which begins after July 30, 1965 , and shall end on May 31, 1966 . For purposes of this subsection and subsection (d), an individual who has attained age 65 and who satisfies paragraph (1) of section 1395 o of this title but not paragraph (2) of such section shall be treated as satisfying such paragraph (1) on the first day on which he is (or on filing application would have been) entitled to hospital insurance benefits under part A.
 - **(d)** In the case of an individual who first satisfies paragraph (1) or (2) of section 1395 o of this title on or after March 1, 1966 , his initial enrollment period shall begin on the first day of the third month before the month in which he first satisfies such paragraphs and shall end seven months later. Where the Secretary finds that an individual who has attained age 65 failed to enroll under this part during his initial enrollment period (based on a determination by the Secretary of the month in which such individual attained age 65), because such individual (relying on documentary evidence) was mistaken as to his correct date of birth, the Secretary shall establish for such individual an initial enrollment period based on his attaining age 65 at the time shown in such documentary evidence (with a coverage period determined under section 1395q of this title as though he had attained such age at that time).
 - **(e)** There shall be a general enrollment period during the period beginning on January 1 and ending on March 31 of each year.
 - **(f)** Any individual—
   - **(1)** who is eligible under section 1395 o of this title to enroll in the medical insurance program by reason of entitlement to hospital insurance benefits as described in paragraph (1) of such section, and
-  - **(2)** whose initial enrollment period under subsection (d) of this section begins after March 31, 1973 , and
+  - **(2)** whose initial enrollment period under subsection (d) begins after March 31, 1973 , and
   - **(3)** who is residing in the United States, exclusive of Puerto Rico,
-- **(g)** All of the provisions of this section shall apply to individuals satisfying subsection (f) of this section, except that—
-  - **(1)** in the case of an individual who satisfies subsection (f) of this section by reason of entitlement to disability insurance benefits described in section 426(b) of this title , his initial enrollment period shall begin on the first day of the later of (A) April 1973 or (B) the third month before the 25th month of such entitlement, and shall reoccur with each continuous period of eligibility (as defined in section 1395r(d) of this title ) and upon attainment of age 65;
+- **(g)** All of the provisions of this section shall apply to individuals satisfying subsection (f), except that—
+  - **(1)** in the case of an individual who satisfies subsection (f) by reason of entitlement to disability insurance benefits described in section 426(b) of this title , his initial enrollment period shall begin on the first day of the later of (A) April 1973 or (B) the third month before the 25th month of such entitlement, and shall reoccur with each continuous period of eligibility (as defined in section 1395r(d) of this title ) and upon attainment of age 65;
   - **(2)**
     - **(A)** in the case of an individual who is entitled to monthly benefits under section 402 or 423 of this title on the first day of his initial enrollment period or becomes entitled to monthly benefits under section 402 of this title during the first 3 months of such period, his enrollment shall be deemed to have occurred in the third month of his initial enrollment period, and
     - **(B)** in the case of an individual who is not entitled to benefits under section 402 of this title on the first day of his initial enrollment period and does not become so entitled during the first 3 months of such period, his enrollment shall be deemed to have occurred in the month in which he files the application establishing his entitlement to hospital insurance benefits provided such filing occurs during the last 4 months of his initial enrollment period; and
-  - **(3)** in the case of an individual who would otherwise satisfy subsection (f) of this section but does not establish his entitlement to hospital insurance benefits until after the last day of his initial enrollment period (as defined in subsection (d) of this section), his enrollment shall be deemed to have occurred on the first day of the earlier of the then current or immediately succeeding general enrollment period (as defined in subsection (e) of this section).
+  - **(3)** in the case of an individual who would otherwise satisfy subsection (f) but does not establish his entitlement to hospital insurance benefits until after the last day of his initial enrollment period (as defined in subsection (d) of this section), his enrollment shall be deemed to have occurred on the first day of the earlier of the then current or immediately succeeding general enrollment period (as defined in subsection (e) of this section).
 - **(h)** In any case where the Secretary finds that an individual’s enrollment or nonenrollment in the insurance program established by this part or part A pursuant to section 1395i–2 of this title is unintentional, inadvertent, or erroneous and is the result of the error, misrepresentation, or inaction of an officer, employee, or agent of the Federal Government, or its instrumentalities, the Secretary may take such action (including the designation for such individual of a special initial or subsequent enrollment period, with a coverage period determined on the basis thereof and with appropriate adjustments of premiums) as may be necessary to correct or eliminate the effects of such error, misrepresentation, or inaction.
 - **(i)**
   - **(1)** In the case of an individual who—
@@ -46,8 +46,8 @@ generated_at: "2026-03-29T18:07:13.913Z"
       - **(ii)** whose continuous enrollment under such group health plan is involuntarily terminated at a time when the enrollment under the plan is not by reason of the individual’s current employment or by reason of the current employment of a member of the individual’s family,
     - **(B)** The special enrollment period referred to in subparagraph (A) is the 6-month period beginning on the first day of the month which includes the date of the enrollment termination described in subparagraph (A)(ii).
 - **(j)** In applying this section in the case of an individual who is entitled to benefits under part A pursuant to the operation of section 426(h) of this title , the following special rules apply:
-  - **(1)** The initial enrollment period under subsection (d) of this section shall begin on the first day of the first month in which the individual satisfies the requirement of section 1395 o (1) of this title.
-  - **(2)** In applying subsection (g)(1) of this section, the initial enrollment period shall begin on the first day of the first month of entitlement to disability insurance benefits referred to in such subsection.
+  - **(1)** The initial enrollment period under subsection (d) shall begin on the first day of the first month in which the individual satisfies the requirement of section 1395 o (1) of this title.
+  - **(2)** In applying subsection (g)(1), the initial enrollment period shall begin on the first day of the first month of entitlement to disability insurance benefits referred to in such subsection.
 - **(k)**
   - **(1)** In the case of an individual who—
     - **(A)** at the time the individual first satisfies paragraph (1) or (2) of section 1395 o of this title, is described in paragraph (3), and has elected not to enroll (or to be deemed enrolled) under this section during the individual’s initial enrollment period; or

@@ -3,12 +3,12 @@ title: "Section 2749 - Availability of funds"
 usc_title: 50
 usc_section: "2749"
 chapter: 42
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 2749"
-generated_at: "2026-03-29T18:07:43.091Z"
+generated_at: "2026-03-29T18:27:35.658Z"
 ---
 
 # § 2749. Availability of funds
 
 - **(a)** Except as provided in subsection (b), amounts appropriated pursuant to a DOE national security authorization for operation and maintenance or for plant projects may, when so specified in an appropriations Act, remain available until expended.
-- **(b)** Amounts appropriated for program direction pursuant to a DOE national security athorization 1 1 So in original. Probably should be “authorization”. for a fiscal year shall remain available to be obligated only until the end of that fiscal year.
+- **(b)** Amounts appropriated for program direction pursuant to a DOE national security authorization for a fiscal year shall remain available to be obligated only until the end of that fiscal year.

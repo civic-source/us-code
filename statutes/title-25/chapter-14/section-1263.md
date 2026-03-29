@@ -1,14 +1,12 @@
 ---
-title: "Section 1263 - Use of funds; authorization and approval"
+title: "Section 1263 - Omitted"
 usc_title: 25
 usc_section: "1263"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1263"
-generated_at: "2026-03-29T18:05:17.125Z"
+generated_at: "2026-03-29T18:25:23.710Z"
 ---
 
-# § 1263. Use of funds; authorization and approval
-
-The balance of each tribe’s share of the funds may be advanced, expended, invested, or reinvested for any purposes that are authorized by the respective tribal governing bodies and approved by the Secretary of the Interior.
+# § 1263. Omitted
 

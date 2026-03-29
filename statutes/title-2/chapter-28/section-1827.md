@@ -3,9 +3,9 @@ title: "Section 1827 - Support and maintenance during emergencies"
 usc_title: 2
 usc_section: "1827"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "2 U.S.C. § 1827"
-generated_at: "2026-03-29T18:03:21.805Z"
+generated_at: "2026-03-29T18:23:14.124Z"
 ---
 
 # § 1827. Support and maintenance during emergencies

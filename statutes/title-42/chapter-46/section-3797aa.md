@@ -3,9 +3,9 @@ title: "Section 3797aa - Adult and juvenile collaboration programs"
 usc_title: 42
 usc_section: "3797aa"
 chapter: 46
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 3797aa"
-generated_at: "2026-03-29T18:07:14.579Z"
+generated_at: "2026-03-29T18:27:03.552Z"
 ---
 
 # § 3797aa. Adult and juvenile collaboration programs
@@ -132,6 +132,27 @@ generated_at: "2026-03-29T18:07:14.579Z"
   - **(2)** For purposes of paragraph (1)(A), the Director of the Bureau of Justice Assistance shall develop training models for training law enforcement personnel in procedures to identify and respond appropriately to incidents in which the unique needs of individuals with mental illnesses are involved, including suicide prevention.
   - **(3)** The Federal share of funds for a program funded by a grant received under this subsection may not exceed 50 percent of the costs of the program. The non-Federal share of payments made for such a program may be made in cash or in-kind fairly evaluated, including planned equipment or services.
 - **(i)**
+  - **(1)** In this subsection:
+    - **(A)** The term “peer-to-peer services or programs” means services or programs that connect qualified veterans with other veterans for the purpose of providing support and mentorship to assist qualified veterans in obtaining treatment, recovery, stabilization, or rehabilitation.
+    - **(B)** The term “qualified veteran” means a preliminarily qualified offender who—
+      - **(i)** served on active duty in any branch of the Armed Forces, including the National Guard or Reserves; and
+      - **(ii)** was discharged or released from such service under conditions other than dishonorable, unless the reason for the dishonorable discharge was attributable to a substance abuse disorder.
+    - **(C)** The term “veterans treatment court program” means a court program involving collaboration among criminal justice, veterans, and mental health and substance abuse agencies that provides qualified veterans with—
+      - **(i)** intensive judicial supervision and case management, which may include random and frequent drug testing where appropriate;
+      - **(ii)** a full continuum of treatment services, including mental health services, substance abuse services, medical services, and services to address trauma;
+      - **(iii)** alternatives to incarceration; or
+      - **(iv)** other appropriate services, including housing, transportation, mentoring, employment, job training, education, or assistance in applying for and obtaining available benefits.
+  - **(2)**
+    - **(A)** The Attorney General, in consultation with the Secretary of Veterans Affairs, may award grants under this subsection to applicants to establish or expand—
+      - **(i)** veterans treatment court programs;
+      - **(ii)** peer-to-peer services or programs for qualified veterans;
+      - **(iii)** practices that identify and provide treatment, rehabilitation, legal, transitional, and other appropriate services to qualified veterans who have been incarcerated; or
+      - **(iv)** training programs to teach criminal justice, law enforcement, corrections, mental health, and substance abuse personnel how to identify and appropriately respond to incidents involving qualified veterans.
+    - **(B)** In awarding grants under this subsection, the Attorney General shall give priority to applications that—
+      - **(i)** demonstrate collaboration between and joint investments by criminal justice, mental health, substance abuse, and veterans service agencies;
+      - **(ii)** promote effective strategies to identify and reduce the risk of harm to qualified veterans and public safety; and
+      - **(iii)** propose interventions with empirical support to improve outcomes for qualified veterans.
+- **(j)**
   - **(1)** There are authorized to be appropriated to the Department of Justice to carry out this section—
     - **(A)** $50,000,000 for fiscal year 2005;
     - **(B)** such sums as may be necessary for each of the fiscal years 2006 and 2007; and

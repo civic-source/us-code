@@ -3,9 +3,9 @@ title: "Section 15 - Obligation or other security of foreign government defined"
 usc_title: 18
 usc_section: "15"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "18 U.S.C. § 15"
-generated_at: "2026-03-29T18:04:50.852Z"
+generated_at: "2026-03-29T18:24:43.761Z"
 ---
 
 # § 15. Obligation or other security of foreign government defined

@@ -1,14 +1,12 @@
 ---
-title: "Section 459c - Existing rights of possession, contract, interest, etc."
+title: "Section 459c - Transferred"
 usc_title: 25
 usc_section: "459c"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 459c"
-generated_at: "2026-03-29T18:05:17.064Z"
+generated_at: "2026-03-29T18:25:23.694Z"
 ---
 
-# § 459c. Existing rights of possession, contract, interest, etc.
+# § 459c. Transferred
 
-- **(a)** Nothing in this subchapter shall deprive any person of any existing valid right of possession, contract right, interest, or title he may have in the land involved, or of any existing right of access to public domain lands over and across the land involved, as determined by the Secretary of the Interior. All existing mineral leases, including oil and gas leases, which may have been issued or approved pursuant to section 5 of the Mineral Leasing Act for Acquired Lands of August 7, 1947 ( 61 Stat. 913 , 915) [ 30 U.S.C. 354 ], or the Mineral Leasing Act of 1920 ( 41 Stat. 437 ) [ 30 U.S.C. 181 et seq.], as amended prior to October 17, 1975 , shall remain in force and effect in accordance with the provisions thereof. All applications for mineral leases, including oil and gas leases, pursuant to such Acts, pending on October 17, 1975 , and covering any of the minerals conveyed by sections 459 and 459b of this title shall be rejected and the advance rental payments returned to the applicants.
-- **(b)** Subject to the provisions of subsection (a) of this section, the property conveyed by this subchapter shall hereafter be administered in accordance with the laws and regulations applicable to property held in trust by the United States for Indian tribes, including but not limited to sections 396a to 396g of this title.

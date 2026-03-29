@@ -3,9 +3,9 @@ title: "Section 9919 - Drug and child support services and referrals"
 usc_title: 42
 usc_section: "9919"
 chapter: 106
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 9919"
-generated_at: "2026-03-29T18:07:15.118Z"
+generated_at: "2026-03-29T18:27:03.966Z"
 ---
 
 # § 9919. Drug and child support services and referrals

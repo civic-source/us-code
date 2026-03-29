@@ -3,9 +3,9 @@ title: "Section 7258 - Standby authority to indicate entity best suited to provi
 usc_title: 7
 usc_section: "7258"
 chapter: 100
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 7258"
-generated_at: "2026-03-29T18:04:05.108Z"
+generated_at: "2026-03-29T18:23:43.506Z"
 ---
 
 # § 7258. Standby authority to indicate entity best suited to provide international market development and export services
@@ -13,5 +13,5 @@ generated_at: "2026-03-29T18:04:05.108Z"
 - **(a)** The Secretary of Agriculture shall indicate which entity or entities autonomous of the Government of the United States, which seeks such a designation, is best suited to facilitate the international market development for and exportation of United States dairy products, if the Secretary determines that—
   - **(1)** the United States dairy industry has not established an export trading company under the Export Trading Company Act of 1982 ( 15 U.S.C. 4001 et seq.) for the purpose of facilitating the international market development for an exportation of dairy products produced in the United States on or before June 30, 1997 ; or
   - **(2)** the quantity of exports of United States dairy products during the 12-month period preceding July 1, 1998 does not exceed the quantity of exports of United States dairy products during the 12-month period preceding July 1, 1997 by 1.5 billion pounds (milk equivalent, total solids basis).
-- **(b)** The Secretary shall assist the entity or entities identified under subsection (a) of this section in identifying sources of funding for the activities specified in subsection (a) of this section from within the dairy industry and elsewhere.
+- **(b)** The Secretary shall assist the entity or entities identified under subsection (a) in identifying sources of funding for the activities specified in subsection (a) from within the dairy industry and elsewhere.
 - **(c)** This section shall apply only during the period beginning on July 1, 1997 and ending on September 30, 2000 .

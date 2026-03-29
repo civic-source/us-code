@@ -3,9 +3,9 @@ title: "Section 3553 - Authority and functions of the Director and the Secretary
 usc_title: 44
 usc_section: "3553"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "44 U.S.C. § 3553"
-generated_at: "2026-03-29T02:15:49.340Z"
+generated_at: "2026-03-29T18:26:16.127Z"
 ---
 
 # § 3553. Authority and functions of the Director and the Secretary
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T02:15:49.340Z"
     - **(B)** information systems used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency;
   - **(3)** ensuring that the Secretary carries out the authorities and functions under subsection (b);
   - **(4)** coordinating the development of standards and guidelines under section 20 of the National Institute of Standards and Technology Act ( 15 U.S.C. 278g–3 ) with agencies and offices operating or exercising control of national security systems (including the National Security Agency) to assure, to the maximum extent feasible, that such standards and guidelines are complementary with standards and guidelines developed for national security systems;
-  - **(5)** overseeing agency compliance with the requirements of this subchapter and section 1326 of title 41 , including through any authorized action under section 11303 of title 40 , to enforce accountability for compliance with such requirements; and
+  - **(5)** overseeing agency compliance with the requirements of this subchapter, including through any authorized action under section 11303 of title 40 , to enforce accountability for compliance with such requirements; and
   - **(6)** coordinating information security policies and procedures with related information resources management policies and procedures.
 - **(b)** The Secretary, in consultation with the Director, shall administer the implementation of agency information security policies and practices for information systems, except for national security systems and information systems described in paragraph (2) or (3) of subsection (e), including—
   - **(1)** assisting the Director in carrying out the authorities and functions under paragraphs (1), (2), (3), (5), and (6) of subsection (a);
@@ -33,12 +33,8 @@ generated_at: "2026-03-29T02:15:49.340Z"
     - **(A)** operating the Federal information security incident center established under section 3556;
     - **(B)** upon request by an agency, deploying, operating, and maintaining technology to assist the agency to continuously diagnose and mitigate against cyber threats and vulnerabilities, with or without reimbursement;
     - **(C)** compiling and analyzing data on agency information security; and
-    - **(D)** developing and conducting targeted operational evaluations, including threat and vulnerability assessments, on the information systems;
-  - **(7)** hunting for and identifying, with or without advance notice to or authorization from agencies, threats and vulnerabilities within Federal information systems;
-  - **(8)** upon request by an agency, and at the Secretary’s discretion, with or without reimbursement—
-    - **(A)** providing services, functions, and capabilities, including operation of the agency’s information security program, to assist the agency with meeting the requirements set forth in section 3554(b); and
-    - **(B)** deploying, operating, and maintaining secure technology platforms and tools, including networks and common business applications, for use by the agency to perform agency functions, including collecting, maintaining, storing, processing, disseminating, and analyzing information; and
-  - **(9)** other actions as the Director or the Secretary, in consultation with the Director, may determine necessary to carry out this subsection.
+    - **(D)** developing and conducting targeted operational evaluations, including threat and vulnerability assessments, on the information systems; and
+  - **(7)** other actions as the Director or the Secretary, in consultation with the Director, may determine necessary to carry out this subsection.
 - **(c)** Not later than March 1 of each year, the Director, in consultation with the Secretary, shall submit to Congress a report on the effectiveness of information security policies and practices during the preceding year, including—
   - **(1)** a summary of the incidents described in the annual reports required to be submitted under section 3554(c)(1), including a summary of the information required under section 3554(c)(1)(A)(iii);
   - **(2)** a description of the threshold for reporting major information security incidents;
@@ -76,7 +72,7 @@ generated_at: "2026-03-29T02:15:49.340Z"
     - **(G)** consider any applicable standards or guidelines developed by the National Institute of Standards and Technology issued by the Secretary of Commerce under section 11331 of title 40 ; and
     - **(H)** not later than February 1 of each year, submit to the appropriate congressional committees a report regarding the specific actions the Secretary has taken pursuant to paragraph (1)(A).
   - **(3)**
-    - **(A)** Notwithstanding section 3554, the Secretary may authorize the use under this subsection of the intrusion detection and prevention capabilities established under section 230(b)(1) 1 1 See References in Text note below. of the Homeland Security Act of 2002 for the purpose of ensuring the security of agency information systems, if—
+    - **(A)** Notwithstanding section 3554, the Secretary may authorize the use under this subsection of the intrusion detection and prevention capabilities established under section 230(b)(1) of the Homeland Security Act of 2002 for the purpose of ensuring the security of agency information systems, if—
       - **(i)** the Secretary determines there is an imminent threat to agency information systems;
       - **(ii)** the Secretary determines a directive under subsection (b)(2)(C) or paragraph (1)(A) is not reasonably likely to result in a timely response to the threat;
       - **(iii)** the Secretary determines the risk posed by the imminent threat outweighs any adverse consequences reasonably expected to result from the use of the intrusion detection and prevention capabilities under the control of the Secretary;
@@ -93,10 +89,6 @@ generated_at: "2026-03-29T02:15:49.340Z"
       - **(i)** information collected or maintained by or on behalf of an agency; or
       - **(ii)** that portion of an information system used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency.
 - **(i)** Not later than February 1 of each year, the Director and the Secretary shall submit to the appropriate congressional committees a report regarding the specific actions the Director and the Secretary have taken pursuant to subsection (a)(5), including any actions taken pursuant to section 11303(b)(5) of title 40 .
-- **(j)** Nothing in this section shall be construed to require the Secretary to provide notice to any private entity before the Secretary issues a binding operational directive under subsection (b)(2).
-- **(k)** In this section, the term “appropriate congressional committees” means—
+- **(j)** In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Appropriations and the Committee on Homeland Security and Governmental Affairs of the Senate; and
   - **(2)** the Committee on Appropriations, the Committee on Homeland Security, the Committee on Oversight and Government Reform, and the Committee on Science, Space, and Technology of the House of Representatives.
-- **(l)**
-  - **(1)** Notwithstanding any other provision of law, including any provision of law that would otherwise restrict or prevent the head of an agency from disclosing information to the Secretary, the Secretary in carrying out this section and title XXII of the Homeland Security Act of 2002 ( 6 U.S.C. 651 et seq.) may access, use, retain, and disclose, and the head of an agency may disclose to the Secretary, information, for the purpose of protecting information and information systems from cybersecurity risks.
-  - **(2)** Paragraph (1) shall not apply to national security systems or to information systems described in paragraph (2) or (3) of subsection (e).

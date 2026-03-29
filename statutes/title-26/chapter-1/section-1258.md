@@ -3,9 +3,9 @@ title: "Section 1258 - Recharacterization of gain from certain financial transac
 usc_title: 26
 usc_section: "1258"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 1258"
-generated_at: "2026-03-29T18:05:44.787Z"
+generated_at: "2026-03-29T18:25:53.727Z"
 ---
 
 # § 1258. Recharacterization of gain from certain financial transactions
@@ -41,7 +41,7 @@ generated_at: "2026-03-29T18:05:44.787Z"
     - **(B)** For purposes of this paragraph—
       - **(i)** The term “options dealer” has the meaning given such term by section 1256(g)(8).
       - **(ii)** The term “commodities trader” means any person who is a member (or, except as otherwise provided in regulations, is entitled to trade as a member) of a domestic board of trade which is designated as a contract market by the Commodity Futures Trading Commission.
-    - **(C)** In the case of any gain from a transaction recognized by an entity which is allocable to a limited partner or limited entrepreneur (within the meaning of section 464(e)(2)), subparagraph (A) shall not apply if—
+    - **(C)** In the case of any gain from a transaction recognized by an entity which is allocable to a limited partner or limited entrepreneur (within the meaning of section 464(e)(2)), 1 1 See References in Text note below. subparagraph (A) shall not apply if—
       - **(i)** substantially all of the limited partner’s (or limited entrepreneur’s) expected return from the entity is attributable to the time value of the partner’s (or entrepreneur’s) net investment in such entity,
       - **(ii)** the transaction (or the interest in the entity) was marketed or sold as producing capital gains treatment from a transaction described in subsection (c)(1), or
       - **(iii)** the transaction (or the interest in the entity) is a transaction (or interest) specified in regulations prescribed by the Secretary.

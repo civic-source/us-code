@@ -1,14 +1,12 @@
 ---
-title: "Section 614 - Study by Census Bureau"
+title: "Section 614 - Repealed. Pub. L. 113–235, div. G, title II , § 228(f), Dec. 16, 2014 , 128 Stat. 2492"
 usc_title: 42
 usc_section: "614"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 614"
-generated_at: "2026-03-29T18:07:13.729Z"
+generated_at: "2026-03-29T18:27:02.905Z"
 ---
 
-# § 614. Study by Census Bureau
+# § 614. Repealed. Pub. L. 113–235, div. G, title II , § 228(f), Dec. 16, 2014 , 128 Stat. 2492
 
-- **(a)** The Bureau of the Census shall continue to collect data on the 1992 and 1993 panels of the Survey of Income and Program Participation as necessary to obtain such information as will enable interested persons to evaluate the impact of the amendments made by title I of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 on a random national sample of recipients of assistance under State programs funded under this part and (as appropriate) other low-income families, and in doing so, shall pay particular attention to the issues of out-of-wedlock birth, welfare dependency, the beginning and end of welfare spells, and the causes of repeat welfare spells, and shall obtain information about the status of children participating in such panels.
-- **(b)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $10,000,000 for fiscal year 2012 for payment to the Bureau of the Census to carry out subsection (a) of this section.

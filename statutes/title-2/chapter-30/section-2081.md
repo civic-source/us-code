@@ -3,9 +3,9 @@ title: "Section 2081 - United States Capitol Preservation Commission"
 usc_title: 2
 usc_section: "2081"
 chapter: 30
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "2 U.S.C. § 2081"
-generated_at: "2026-03-29T18:03:21.820Z"
+generated_at: "2026-03-29T18:23:14.139Z"
 ---
 
 # § 2081. United States Capitol Preservation Commission
@@ -23,6 +23,6 @@ generated_at: "2026-03-29T18:03:21.820Z"
   - **(6)** The Chairman of the Commission on the Bicentennial of the United States Senate and the Chairman of the Commission of the House of Representatives Bicentenary, to be succeeded upon expiration of such commissions, by a Senator or Member of the House of Representatives, as appropriate, appointed by the Senate or House of Representatives co-chairman of the Commission, respectively.
   - **(7)** One Senator appointed by the President pro tempore of the Senate and one Senator appointed by the minority leader of the Senate.
   - **(8)** One Member of the House of Representatives appointed by the Speaker of the House of Representatives and one Member of the House of Representatives appointed by the minority leader of the House of Representatives.
-- **(c)** Each member of the Commission specified under subsection (b) of this section (other than a member under paragraph (7) or (8) of such subsection) may designate a Senator or Member of the House of Representatives, as the case may be, to serve as a member of the Commission in place of the member so specified.
-- **(d)** In addition to the members under subsection (b) of this section, the Architect of the Capitol shall participate in the activities of the Commission, ex officio, and without the right to vote.
+- **(c)** Each member of the Commission specified under subsection (b) (other than a member under paragraph (7) or (8) of such subsection) may designate a Senator or Member of the House of Representatives, as the case may be, to serve as a member of the Commission in place of the member so specified.
+- **(d)** In addition to the members under subsection (b), the Architect of the Capitol shall participate in the activities of the Commission, ex officio, and without the right to vote.
 - **(e)** The Senate Commission on Art, the House of Representatives Fine Arts Board, and the Architect of the Capitol shall provide to the Commission such staff support and assistance as the Commission may request.

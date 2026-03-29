@@ -3,9 +3,9 @@ title: "Section 629i - Grants for programs for mentoring children of prisoners"
 usc_title: 42
 usc_section: "629i"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 629i"
-generated_at: "2026-03-29T18:07:13.736Z"
+generated_at: "2026-03-29T18:27:02.911Z"
 ---
 
 # § 629i. Grants for programs for mentoring children of prisoners
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T18:07:13.736Z"
   - **(1)** The term “children of prisoners” means children one or both of whose parents are incarcerated in a Federal, State, or local correctional facility. The term is deemed to include children who are in an ongoing mentoring relationship in a program under this section at the time of their parents’ release from prison, for purposes of continued participation in the program.
   - **(2)** The term “mentoring” means a structured, managed program in which children are appropriately matched with screened and trained adult volunteers for one-on-one relationships, involving meetings and activities on a regular basis, intended to meet, in part, the child’s need for involvement with a caring and supportive adult who provides a positive role model.
   - **(3)** The term “mentoring services” means those services and activities that support a structured, managed program of mentoring, including the management by trained personnel of outreach to, and screening of, eligible children; outreach to, education and training of, and liaison with sponsoring local organizations; screening and training of adult volunteers; matching of children with suitable adult volunteer mentors; support and oversight of the mentoring relationship; and establishment of goals and evaluation of outcomes for mentored children.
-- **(c)** From the amounts appropriated under subsection (i) of this section for a fiscal year that remain after applying subsection (i)(2) of this section, the Secretary shall make grants under this section for each of fiscal years 2007 through 2011 to State or local governments, tribal governments or tribal consortia, faith-based organizations, and community-based organizations in areas that have significant numbers of children of prisoners and that submit applications meeting the requirements of this section, in amounts that do not exceed $5,000,000 per grant.
+- **(c)** From the amounts appropriated under subsection (i) for a fiscal year that remain after applying subsection (i)(2), the Secretary shall make grants under this section for each of fiscal years 2007 through 2011 to State or local governments, tribal governments or tribal consortia, faith-based organizations, and community-based organizations in areas that have significant numbers of children of prisoners and that submit applications meeting the requirements of this section, in amounts that do not exceed $5,000,000 per grant.
 - **(d)** In order to be eligible for a grant under this section, the chief executive officer of the applicant must submit to the Secretary an application containing the following:
   - **(1)** A description of the proposed program, including—
     - **(A)** a list of local public and private organizations and entities that will participate in the mentoring network;

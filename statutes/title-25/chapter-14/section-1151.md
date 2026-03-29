@@ -1,15 +1,12 @@
 ---
-title: "Section 1151 - Membership roll; preparation; eligibility for enrollment; applications; finality of determination"
+title: "Section 1151 - Omitted"
 usc_title: 25
 usc_section: "1151"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1151"
-generated_at: "2026-03-29T18:05:17.122Z"
+generated_at: "2026-03-29T18:25:23.709Z"
 ---
 
-# § 1151. Membership roll; preparation; eligibility for enrollment; applications; finality of determination
-
-- **(a)** They were alive on October 24, 1967 , and
-- **(b)** they are descendants of members of the Upper and Lower Chehalis Tribes as they existed in 1855. Applications for enrollment must be filed with the Superintendent, Western Washington Agency, Everett, Washington, on forms prescribed for that purpose. The determination of the Secretary regarding the utilization of available rolls or records and the eligibility for enrollment of an applicant shall be final.
+# § 1151. Omitted
 

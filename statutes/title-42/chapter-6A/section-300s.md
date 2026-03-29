@@ -3,9 +3,9 @@ title: "Section 300s - General regulations"
 usc_title: 42
 usc_section: "300s"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 300s"
-generated_at: "2026-03-29T18:07:13.555Z"
+generated_at: "2026-03-29T18:27:02.759Z"
 ---
 
 # § 300s. General regulations
@@ -19,4 +19,4 @@ The Secretary shall by regulation—
     - **(D)** to projects designed to (i) eliminate or prevent imminent safety hazards as defined by Federal, State, or local fire, building, or life safety codes or regulations, or (ii) avoid noncompliance with State or voluntary licensure or accreditation standards, and
     - **(E)** to projects for medical facilities which, alone or in conjunction with other facilities, will provide comprehensive health care, including outpatient and preventive care as well as hospitalization;
   - **(2)** prescribe for medical facilities projects assisted under part A or B general standards of construction, modernization, and equipment, which standards may vary on the basis of the class of facilities and their location; and
-  - **(3)** prescribe the general manner in which each entity which receives financial assistance under part A or B or has received financial assistance under part A or B or subchapter IV of this chapter shall be required to comply with the assurances required to be made at the time such assistance was received and the means by which such entity shall be required to demonstrate compliance with such assurances.
+  - **(3)** prescribe the general manner in which each entity which receives financial assistance under part A or B or has received financial assistance under part A or B or subchapter IV shall be required to comply with the assurances required to be made at the time such assistance was received and the means by which such entity shall be required to demonstrate compliance with such assurances.

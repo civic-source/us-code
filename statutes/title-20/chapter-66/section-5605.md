@@ -3,9 +3,9 @@ title: "Section 5605 - Authority of Foundation"
 usc_title: 20
 usc_section: "5605"
 chapter: 66
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 5605"
-generated_at: "2026-03-29T18:05:00.281Z"
+generated_at: "2026-03-29T18:24:41.103Z"
 ---
 
 # § 5605. Authority of Foundation
@@ -39,4 +39,4 @@ generated_at: "2026-03-29T18:05:00.281Z"
   - **(6)** The Foundation shall provide direct or indirect assistance from the proceeds of the Trust Fund to the Center to maintain the current site of the repository for Morris K. Udall’s papers and other such public papers as may be appropriate and assure such papers’ availability to the public.
   - **(7)** The Foundation shall assist in the development and implementation of a Program for Environmental Policy Research and Environmental Conflict Resolution and Training to be located at the Center.
 - **(b)** Recipients of scholarships, fellowships, and internships under this chapter shall be known as “Udall Scholars”, “Udall Fellows”, and “Udall Interns”, respectively.
-- **(c)** The Foundation shall determine the priority of the programs to be carried out under this chapter and the amount of funds to be allocated for such programs. However, not less than 50 percent shall be utilized for the programs set forth in section 5604(a)(2) of this title , section 5604(a)(3) of this title , and section 5604(a)(4) of this title , not more than 15 percent shall be used for salaries and other administrative purposes, and not less than 20 percent shall be appropriated to the Center for section 5604(a)(5) of this title , section 5604(a)(6) of this title , and section 5604(a)(7) of this title conditioned on a 25-percent match from other sources and further conditioned on adequate space at the Center being made available for the Executive Director and other appropriate staff of the Foundation by the Center.
+- **(c)** The Foundation shall determine the priority of the programs to be carried out under this chapter and the amount of funds to be allocated for such programs. However, not less than 50 percent shall be utilized for the programs set forth in section 5604(a)(2) 1 1 See References in Text note below. of this title, section 5604(a)(3) 1 of this title, and section 5604(a)(4) 1 of this title, not more than 15 percent shall be used for salaries and other administrative purposes, and not less than 20 percent shall be appropriated to the Center for section 5604(a)(5) 1 of this title, section 5604(a)(6) 1 of this title, and section 5604(a)(7) 1 of this title conditioned on a 25-percent match from other sources and further conditioned on adequate space at the Center being made available for the Executive Director and other appropriate staff of the Foundation by the Center.

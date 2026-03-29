@@ -1,14 +1,12 @@
 ---
-title: "Section 9204 - Authorization of appropriations"
+title: "Section 9204 - Repealed. Pub. L. 113–128, title V , § 511(a), July 22, 2014 , 128 Stat. 1705"
 usc_title: 20
 usc_section: "9204"
 chapter: 73
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 9204"
-generated_at: "2026-03-29T18:05:00.407Z"
+generated_at: "2026-03-29T18:24:41.179Z"
 ---
 
-# § 9204. Authorization of appropriations
-
-There is authorized to be appropriated to carry out this subchapter such sums as may be necessary for each of the fiscal years 1999 through 2003.
+# §§ 9201 to 9204. Repealed. Pub. L. 113–128, title V , § 511(a), July 22, 2014 , 128 Stat. 1705
 

@@ -3,9 +3,9 @@ title: "Section 1612 - Limited eligibility of qualified aliens for certain Feder
 usc_title: 8
 usc_section: "1612"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "8 U.S.C. § 1612"
-generated_at: "2026-03-29T18:03:34.103Z"
+generated_at: "2026-03-29T18:23:33.991Z"
 ---
 
 # § 1612. Limited eligibility of qualified aliens for certain Federal programs
@@ -45,7 +45,7 @@ generated_at: "2026-03-29T18:03:34.103Z"
       - **(ii)** in the case of the specified Federal program described in paragraph (3)(B), is receiving benefits or assistance for blindness or disability (within the meaning of section 3(j) of the Food Stamp Act of 1977 1 ( 7 U.S.C. 2012(r) )). 2 2 So in original. Probably should be “2012(j))).”.
     - **(G)** With respect to eligibility for benefits for the specified Federal programs described in paragraph (3), section 1611(a) of this title and paragraph (1) shall not apply to any individual—
       - **(i)** who is an American Indian born in Canada to whom the provisions of section 289 of the Immigration and Nationality Act ( 8 U.S.C. 1359 ) apply; or
-      - **(ii)** who is a member of an Indian tribe (as defined in section 450b(e) of title 25 ).
+      - **(ii)** who is a member of an Indian tribe (as defined in section 5304(e) of title 25 ).
     - **(H)** With respect to eligibility for benefits for the program defined in paragraph (3)(A) (relating to the supplemental security income program), paragraph (1) shall not apply to any individual—
       - **(i)** who is receiving benefits under such program for months after July 1996 on the basis of an application filed before January 1, 1979 ; and
       - **(ii)** with respect to whom the Commissioner of Social Security lacks clear and convincing evidence that such individual is an alien ineligible for such benefits as a result of the application of this section.
@@ -70,7 +70,7 @@ generated_at: "2026-03-29T18:03:34.103Z"
       - **(ii)** With respect to eligibility for benefits for the specified program described in paragraph (3)(A), paragraph (1) shall not apply during fiscal years 2009 through 2011 to an alien described in one of clauses (i) through (v) of subparagraph (A) or a victim of trafficking in persons (as defined in section 7105(b)(1)(C) of title 22 or as granted status under section 101(a)(15)(T)(ii) of the Immigration and Nationality Act [ 8 U.S.C. 1101(a)(15)(T)(ii) ]), if such alien or victim (including any such alien or victim rendered ineligible for the specified Federal program described in paragraph (3)(A) during the period beginning on August 22, 1996 , and ending on September 30, 2008 , solely by reason of the termination of the 7-year period described in subparagraph (A)) has filed an application for naturalization that is pending before the Secretary of Homeland Security or a United States district court based on section 336(b) of the Immigration and Nationality Act [ 8 U.S.C. 1447(b) ], or has been approved for naturalization but not yet sworn in as a United States citizen, and the Commissioner of Social Security has verified, through procedures established in consultation with the Secretary of Homeland Security, that such application is pending or has been approved.
   - **(3)** For purposes of this chapter, the term “specified Federal program” means any of the following:
     - **(A)** The supplemental security income program under title XVI of the Social Security Act [ 42 U.S.C. 1381 et seq.], including supplementary payments pursuant to an agreement for Federal administration under section 1616(a) of the Social Security Act [ 42 U.S.C. 1382e(a) ] and payments pursuant to an agreement entered into under section 212(b) of Public Law 93–66 .
-    - **(B)** The food stamp program as defined in section 3( l ) of the Food Stamp Act of 1977 1 [now 7 U.S.C. 2012(t) ].
+    - **(B)** The food stamp program as defined in section 3( l ) of the Food Stamp Act of 1977. 1
 - **(b)**
   - **(1)** Notwithstanding any other provision of law and except as provided in section 1613 of this title and paragraph (2), a State is authorized to determine the eligibility of an alien who is a qualified alien (as defined in section 1641 of this title ) for any designated Federal program (as defined in paragraph (3)).
   - **(2)** Qualified aliens under this paragraph shall be eligible for any designated Federal program.
@@ -80,13 +80,13 @@ generated_at: "2026-03-29T18:03:34.103Z"
         - **(II)** an alien is granted asylum under section 208 of such Act [ 8 U.S.C. 1158 ];
         - **(III)** an alien’s deportation is withheld under section 243(h) of such Act [ 8 U.S.C. 1253 ] (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208 ) or section 241(b)(3) of such Act [ 8 U.S.C. 1231(b)(3) ] (as amended by section 305(a) of division C of Public Law 104–208 );
         - **(IV)** an alien is granted status as a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980); or
-        - **(V)** an alien 3 3 So in original. Probably should be “alien is”. admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) 1 of this section until 5 years after the date of such alien’s entry into the United States.
+        - **(V)** an alien 3 3 So in original. Probably should be “alien is”. admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) 1 until 5 years after the date of such alien’s entry into the United States.
       - **(ii)** With respect to the designated Federal programs under paragraph (3) (other than subparagraph (C)), paragraph (1) shall not apply to an alien until 5 years after the date—
         - **(I)** an alien is admitted to the United States as a refugee under section 207 of the Immigration and Nationality Act [ 8 U.S.C. 1157 ];
         - **(II)** an alien is granted asylum under section 208 of such Act [ 8 U.S.C. 1158 ];
         - **(III)** an alien’s deportation is withheld under section 243(h) of such Act [ 8 U.S.C. 1253 ] (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208 ) or section 241(b)(3) of such Act [ 8 U.S.C. 1231(b)(3) ] (as amended by section 305(a) of division C of Public Law 104–208 );
         - **(IV)** an alien is granted status as a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980); or
-        - **(V)** an alien 3 admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) 1 of this section until 5 years after the date of such alien’s entry into the United States.
+        - **(V)** an alien 3 admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) 1 until 5 years after the date of such alien’s entry into the United States.
     - **(B)** An alien who—
       - **(i)** is lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act [ 8 U.S.C. 1101 et seq.]; and
       - **(ii)**
@@ -96,8 +96,8 @@ generated_at: "2026-03-29T18:03:34.103Z"
       - **(ii)** on active duty (other than active duty for training) in the Armed Forces of the United States, or
       - **(iii)** the spouse or unmarried dependent child of an individual described in clause (i) or (ii) or the unremarried surviving spouse of an individual described in clause (i) or (ii) who is deceased if the marriage fulfills the requirements of section 1304 of title 38 .
     - **(D)** An alien who on August 22, 1996 , is lawfully residing in any State and is receiving benefits under such program on August 22, 1996 , shall continue to be eligible to receive such benefits until January 1, 1997 .
-    - **(E)** With respect to eligibility for benefits for the program defined in paragraph (3)(C) (relating to the medicaid program), section 1611(a) of this title and paragraph (1) shall not apply to any individual described in subsection (a)(2)(G) of this section.
-    - **(F)** An alien who is receiving benefits under the program defined in subsection (a)(3)(A) of this section (relating to the supplemental security income program) shall be eligible for medical assistance under a State plan under title XIX of the Social Security Act ( 42 U.S.C. 1396 et seq.) under the same terms and conditions that apply to other recipients of benefits under the program defined in such subsection.
+    - **(E)** With respect to eligibility for benefits for the program defined in paragraph (3)(C) (relating to the medicaid program), section 1611(a) of this title and paragraph (1) shall not apply to any individual described in subsection (a)(2)(G).
+    - **(F)** An alien who is receiving benefits under the program defined in subsection (a)(3)(A) (relating to the supplemental security income program) shall be eligible for medical assistance under a State plan under title XIX of the Social Security Act ( 42 U.S.C. 1396 et seq.) under the same terms and conditions that apply to other recipients of benefits under the program defined in such subsection.
   - **(3)** For purposes of this chapter, the term “designated Federal program” means any of the following:
     - **(A)** The program of block grants to States for temporary assistance for needy families under part A of title IV of the Social Security Act [ 42 U.S.C. 601 et seq.].
     - **(B)** The program of block grants to States for social services under title XX of the Social Security Act [ 42 U.S.C. 1397 et seq.].

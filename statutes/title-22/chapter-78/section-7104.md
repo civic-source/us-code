@@ -3,9 +3,9 @@ title: "Section 7104 - Prevention of trafficking"
 usc_title: 22
 usc_section: "7104"
 chapter: 78
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 7104"
-generated_at: "2026-03-29T18:05:22.020Z"
+generated_at: "2026-03-29T18:24:54.370Z"
 ---
 
 # § 7104. Prevention of trafficking
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T18:05:22.020Z"
   - **(1)** The President, pursuant to such regulations as may be prescribed, shall ensure that materials are developed and disseminated to alert travelers that sex tourism (as described in subsections (b) through (f) of section 2423 of title 18 ) is illegal, will be prosecuted, and presents dangers to those involved. Such materials shall be disseminated to individuals traveling to foreign destinations where the President determines that sex tourism is significant.
   - **(2)** The President shall monitor compliance with the requirements of paragraph (1).
   - **(3)** Not later than 180 days after December 19, 2003 , the President shall transmit to the Committee on International Relations of the House of Representatives and the Committee on Foreign Affairs of the Senate a report that describes the feasibility of such United States Government materials being disseminated through public-private partnerships to individuals traveling to foreign destinations.
-- **(f)** The President shall consult with appropriate nongovernmental organizations with respect to the establishment and conduct of initiatives and programs described in subsections (a) through (e) of this section.
+- **(f)** The President shall consult with appropriate nongovernmental organizations with respect to the establishment and conduct of initiatives and programs described in subsections (a) through (e).
 - **(g)** The President shall ensure that any grant, contract, or cooperative agreement provided or entered into by a Federal department or agency under which funds are to be provided to a private entity, in whole or in part, shall include a condition that authorizes the department or agency to terminate the grant, contract, or cooperative agreement, or take any of the other remedial actions authorized under section 7104b(c) of this title , without penalty, if the grantee or any subgrantee, or the contractor or any subcontractor, engages in, or uses labor recruiters, brokers, or other agents who engage in—
       - **(i)** severe forms of trafficking in persons;
       - **(ii)** the procurement of a commercial sex act during the period of time that the grant, contract, or cooperative agreement is in effect;

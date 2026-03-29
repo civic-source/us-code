@@ -1,14 +1,12 @@
 ---
-title: "Section 556 - Reversion of interest in property on death without heirs or devisees"
+title: "Section 556 - Omitted"
 usc_title: 25
 usc_section: "556"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 556"
-generated_at: "2026-03-29T18:05:17.070Z"
+generated_at: "2026-03-29T18:25:23.696Z"
 ---
 
-# § 556. Reversion of interest in property on death without heirs or devisees
-
-If any enrolled member of the Klamath Tribe dies without lawful heirs or devises, 1 1 So in original. Probably should be “devisees,”. all interest which such member has in any restricted or trust property within the Klamath Reservation shall revert to and become part of the common tribal property.
+# § 556. Omitted
 

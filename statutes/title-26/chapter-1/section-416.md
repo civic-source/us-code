@@ -3,9 +3,9 @@ title: "Section 416 - Special rules for top-heavy plans"
 usc_title: 26
 usc_section: "416"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 416"
-generated_at: "2026-03-29T18:05:44.611Z"
+generated_at: "2026-03-29T18:25:53.562Z"
 ---
 
 # § 416. Special rules for top-heavy plans
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T18:05:44.611Z"
 - **(b)**
   - **(1)** A plan satisfies the requirements of this subsection if it satisfies the requirements of either of the following subparagraphs:
     - **(A)** A plan satisfies the requirements of this subparagraph if an employee who has completed at least 3 years of service with the employer or employers maintaining the plan has a nonforfeitable right to 100 percent of his accrued benefit derived from employer contributions.
-    - **(B)** A plan satisfies the requirements of this subparagraph if an employee has a nonforfeitable right to a percentage of his accrued benefit derived from employer contributions determined under the following table: The nonforfeitable Years of service percentage is: 2 20 3 40 4 60 5 80 6 or more 100
+    - **(B)** A plan satisfies the requirements of this subparagraph if an employee has a nonforfeitable right to a percentage of his accrued benefit derived from employer contributions determined under the following table: Years of service The nonforfeitable percentage is: 2 20 3 40 4 60 5 80 6 or more 100
   - **(2)** Except to the extent inconsistent with the provisions of this subsection, the rules of section 411 shall apply for purposes of this subsection.
 - **(c)**
   - **(1)**

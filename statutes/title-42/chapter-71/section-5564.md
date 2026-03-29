@@ -3,9 +3,9 @@ title: "Section 5564 - Comprehensive program definition; preparation; utilizatio
 usc_title: 42
 usc_section: "5564"
 chapter: 71
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 5564"
-generated_at: "2026-03-29T18:07:14.698Z"
+generated_at: "2026-03-29T18:27:03.648Z"
 ---
 
 # § 5564. Comprehensive program definition; preparation; utilization of and consultation with other agencies; transmittal to the President and Congress; time of transmittal

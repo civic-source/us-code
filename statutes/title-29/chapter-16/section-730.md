@@ -3,20 +3,20 @@ title: "Section 730 - State allotments"
 usc_title: 29
 usc_section: "730"
 chapter: 16
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 730"
-generated_at: "2026-03-29T18:05:31.704Z"
+generated_at: "2026-03-29T18:25:43.039Z"
 ---
 
 # § 730. State allotments
 
 - **(a)**
-  - **(1)** Subject to the provisions of subsection (c) of this section, for each fiscal year beginning before October 1, 1978 , each State shall be entitled to an allotment of an amount bearing the same ratio to the amount authorized to be appropriated under section 720(b)(1) of this title for allotment under this section as the product of—
+  - **(1)** Subject to the provisions of subsections (c) and (d),, 1 1 So in original. for each fiscal year beginning before October 1, 1978 , each State shall be entitled to an allotment of an amount bearing the same ratio to the amount authorized to be appropriated under section 720(b)(1) of this title for allotment under this section as the product of—
     - **(A)** the population of the State; and
     - **(B)** the square of its allotment percentage,
   - **(2)**
     - **(A)** For each fiscal year beginning on or after October 1, 1978 , each State shall be entitled to an allotment in an amount equal to the amount such State received under paragraph (1) for the fiscal year ending September 30, 1978 , and an additional amount determined pursuant to subparagraph (B) of this paragraph.
-    - **(B)** For each fiscal year beginning on or after October 1, 1978 , each State shall be entitled to an allotment, from any amount authorized to be appropriated for such fiscal year under section 720(b)(1) of this title for allotment under this section in excess of the amount appropriated under section 720(b)(1)(A) 1 1 See References in Text note below. of this title for the fiscal year ending September 30, 1978 , in an amount equal to the sum of—
+    - **(B)** For each fiscal year beginning on or after October 1, 1978 , each State shall be entitled to an allotment, from any amount authorized to be appropriated for such fiscal year under section 720(b)(1) of this title for allotment under this section in excess of the amount appropriated under section 720(b)(1)(A) 2 2 See References in Text note below. of this title for the fiscal year ending September 30, 1978 , in an amount equal to the sum of—
       - **(i)** an amount bearing the same ratio to 50 percent of such excess amount as the product of the population of the State and the square of its allotment percentage bears to the sum of the corresponding products for all the States; and
       - **(ii)** an amount bearing the same ratio to 50 percent of such excess amount as the product of the population of the State and its allotment percentage bears to the sum of the corresponding products for all the States.
   - **(3)** The sum of the payment to any State (other than Guam, American Samoa, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands) under this subsection for any fiscal year which is less than ⅓ of 1 percent of the amount appropriated under section 720(b)(1) of this title , or $3,000,000, whichever is greater, shall be increased to that amount, the total of the increases thereby required being derived by proportionately reducing the allotment to each of the remaining such States under this subsection, but with such adjustments as may be necessary to prevent the sum of the allotments made under this subsection to any such remaining State from being thereby reduced to less than that amount.
@@ -25,7 +25,8 @@ generated_at: "2026-03-29T18:05:31.704Z"
   - **(2)** As soon as practicable but not later than the end of the fiscal year, the Commissioner shall make such amount available for carrying out the purposes of this subchapter to one or more other States to the extent the Commissioner determines such other State will be able to use such additional amount during that fiscal year or the subsequent fiscal year for carrying out such purposes. The Commissioner shall make such amount available only if such other State will be able to make sufficient payments from non-Federal sources to pay for the non-Federal share of the cost of vocational rehabilitation services under the State plan for the fiscal year for which the amount was appropriated.
   - **(3)** For the purposes of this part, any amount made available to a State for any fiscal year pursuant to this subsection shall be regarded as an increase of such State’s allotment (as determined under the preceding provisions of this section) for such year.
 - **(c)**
-  - **(1)** For fiscal year 1987 and for each subsequent fiscal year, the Commissioner shall reserve from the amount appropriated under section 720(b)(1) of this title for allotment under this section a sum, determined under paragraph (2), to carry out the purposes of part C of this subchapter.
-  - **(2)** The sum referred to in paragraph (1) shall be, as determined by the Secretary—
-    - **(A)** not less than three-quarters of 1 percent and not more than 1.5 percent of the amount referred to in paragraph (1), for fiscal year 1999; and
-    - **(B)** not less than 1 percent and not more than 1.5 percent of the amount referred to in paragraph (1), for each of fiscal years 2000 through 2003.
+  - **(1)** For fiscal year 2015 and for each subsequent fiscal year, the Commissioner shall reserve from the amount appropriated under section 720(b)(1) of this title for allotment under this section a sum, determined under paragraph (2), to carry out the purposes of part C.
+  - **(2)** The sum referred to in paragraph (1) shall be, as determined by the Secretary, not less than 1 percent and not more than 1.5 percent of the amount referred to in paragraph (1), for each of fiscal years 2015 through 2020.
+- **(d)**
+  - **(1)** From any State allotment under subsection (a) for a fiscal year, the State shall reserve not less than 15 percent of the allotted funds for the provision of pre-employment transition services.
+  - **(2)** Such reserved funds shall not be used to pay for the administrative costs of providing pre-employment transition services.

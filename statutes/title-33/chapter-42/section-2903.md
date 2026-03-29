@@ -3,9 +3,9 @@ title: "Section 2903 - Estuary habitat restoration program"
 usc_title: 33
 usc_section: "2903"
 chapter: 42
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 2903"
-generated_at: "2026-03-29T18:06:10.617Z"
+generated_at: "2026-03-29T18:26:01.319Z"
 ---
 
 # § 2903. Estuary habitat restoration program
@@ -33,13 +33,13 @@ generated_at: "2026-03-29T18:06:10.617Z"
     - **(B)** the project includes pilot testing of or a demonstration of an innovative technology or approach having the potential for improved cost-effectiveness in estuary habitat restoration.
 - **(d)**
   - **(1)**
-    - **(A)** Except as provided in paragraph (2) and subsection (e)(2) of this section, the Federal share of the cost of an estuary habitat restoration project (other than the cost of operation and maintenance of the project) carried out under this chapter shall not exceed 65 percent of such cost.
+    - **(A)** Except as provided in paragraph (2) and subsection (e)(2), the Federal share of the cost of an estuary habitat restoration project (other than the cost of operation and maintenance of the project) carried out under this chapter shall not exceed 65 percent of such cost.
     - **(B)**
       - **(i)** The costs of monitoring an estuary habitat restoration project funded under this chapter may be included in the total cost of the estuary habitat restoration project.
       - **(ii)** The goals of the monitoring shall be—
         - **(I)** to measure the effectiveness of the restoration project; and
         - **(II)** to allow adaptive management to ensure project success.
-  - **(2)** The Federal share of the incremental additional cost of including in a project pilot testing of or a demonstration of an innovative technology or approach described in subsection (c)(4)(B) of this section shall be 85 percent.
+  - **(2)** The Federal share of the incremental additional cost of including in a project pilot testing of or a demonstration of an innovative technology or approach described in subsection (c)(4)(B) shall be 85 percent.
   - **(3)** The non-Federal share of the cost of an estuary habitat restoration project carried out under this chapter shall include lands, easements, rights-of-way, and relocations and may include services (including monitoring), or any other form of in-kind contribution determined by the Secretary to be an appropriate contribution equivalent to the monetary amount required for the non-Federal share of the activity.
   - **(4)** The non-Federal interests shall be responsible for all costs associated with operating, maintaining, replacing, repairing, and rehabilitating all projects carried out under this section.
 - **(e)**
@@ -47,7 +47,7 @@ generated_at: "2026-03-29T18:06:10.617Z"
   - **(2)** The Federal share of the cost of an estuary habitat restoration activity before the completion of the estuary habitat restoration strategy shall not exceed 25 percent of such cost.
 - **(f)**
   - **(1)** The Secretary may not carry out an estuary habitat restoration project until a non-Federal interest has entered into a written agreement with the Secretary in which the non-Federal interest agrees to—
-    - **(A)** provide all lands, easements, rights-of-way, and relocations and any other elements the Secretary determines appropriate under subsection (d)(3) of this section; and
+    - **(A)** provide all lands, easements, rights-of-way, and relocations and any other elements the Secretary determines appropriate under subsection (d)(3); and
     - **(B)** provide for long-term maintenance and monitoring of the project.
   - **(2)** Notwithstanding section 1962d–5b(b) of title 42 , for any project to be undertaken under this chapter, the Secretary, in consultation and coordination with appropriate State and local governmental agencies and Indian tribes, may allow a nongovernmental organization to serve as the non-Federal interest for the project.
 - **(g)**

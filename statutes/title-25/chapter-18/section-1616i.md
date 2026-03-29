@@ -3,14 +3,14 @@ title: "Section 1616i - Additional incentives for health professionals"
 usc_title: 25
 usc_section: "1616i"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1616i"
-generated_at: "2026-03-29T18:05:17.147Z"
+generated_at: "2026-03-29T18:25:23.723Z"
 ---
 
 # § 1616i. Additional incentives for health professionals
 
-- **(a)** The Secretary may provide the incentive special pay authorized under section 302(b) of title 37 to civilian medical officers of the Indian Health Service who are assigned to, and serving in, positions included in the list established under subsection (b)(1) of this section for which recruitment or retention of personnel is difficult.
+- **(a)** The Secretary may provide the incentive special pay authorized under section 302(b) of title 37 to civilian medical officers of the Indian Health Service who are assigned to, and serving in, positions included in the list established under subsection (b)(1) for which recruitment or retention of personnel is difficult.
 - **(b)**
   - **(1)** The Secretary shall establish and update on an annual basis a list of positions of health care professionals employed by, or assigned to, the Service for which recruitment or retention is difficult.
   - **(2)**

@@ -3,9 +3,9 @@ title: "Section 382 - Limitation on net operating loss carryforwards and certain
 usc_title: 26
 usc_section: "382"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 382"
-generated_at: "2026-03-29T18:05:44.574Z"
+generated_at: "2026-03-29T18:25:53.523Z"
 ---
 
 # § 382. Limitation on net operating loss carryforwards and certain built-in losses following ownership change
@@ -193,19 +193,8 @@ generated_at: "2026-03-29T18:05:44.574Z"
     - **(E)** For purposes of subparagraph (A)(ii), stock transferred to a creditor shall be taken into account only to the extent such stock is transferred in satisfaction of indebtedness and only if such indebtedness—
       - **(i)** was held by the creditor at least 18 months before the date of the filing of the title 11 or similar case, or
       - **(ii)** arose in the ordinary course of the trade or business of the old loss corporation and is held by the person who at all times held the beneficial interest in such indebtedness.
-    - **(F)**
-      - **(i)** In the case of any ownership change to which this subparagraph applies, this paragraph shall be applied—
-        - **(I)** by substituting “1504(a)(2)(B)” for “1504(a)(2)” and “20 percent” for “50 percent” in subparagraph (A)(ii), and
-        - **(II)** without regard to subparagraphs (B) and (C).
-      - **(ii)** For purposes of applying this paragraph to an ownership change to which this subparagraph applies—
-        - **(I)** a depositor in the old loss corporation shall be treated as a stockholder in such loss corporation immediately before the change,
-        - **(II)** deposits which, after the change, become deposits of the new loss corporation shall be treated as stock of the new loss corporation, and
-        - **(III)** the fair market value of the outstanding stock of the new loss corporation shall include the amount of deposits in the new loss corporation immediately after the change.
-      - **(iii)** This subparagraph shall apply to—
-        - **(I)** an equity structure shift which is a reorganization described in section 368(a)(3)(D)(ii) 1 1 See References in Text note below. (as modified by section 368(a)(3)(D)(iv)), 1 or
-        - **(II)** any other equity structure shift (or transaction to which section 351 applies) which occurs as an integral part of a transaction involving a change to which subclause (I) applies.
-    - **(G)** For purposes of this paragraph, the term “title 11 or similar case” has the meaning given such term by section 368(a)(3)(A).
-    - **(H)** A new loss corporation may elect, subject to such terms and conditions as the Secretary may prescribe, not to have the provisions of this paragraph apply.
+    - **(F)** For purposes of this paragraph, the term “title 11 or similar case” has the meaning given such term by section 368(a)(3)(A).
+    - **(G)** A new loss corporation may elect, subject to such terms and conditions as the Secretary may prescribe, not to have the provisions of this paragraph apply.
   - **(6)** If paragraph (5) does not apply to any reorganization described in subparagraph (G) of section 368(a)(1) or any exchange of debt for stock in a title 11 or similar case (as defined in section 368(a)(3)(A)), the value under subsection (e) shall reflect the increase (if any) in value of the old loss corporation resulting from any surrender or cancellation of creditors’ claims in the transaction.
   - **(7)** The Secretary shall by regulation provide for the application of this section to the alternative tax net operating loss deduction under section 56(d).
   - **(8)** Except as provided in regulations, any entity and any predecessor or successor entities of such entity shall be treated as 1 entity.

@@ -3,9 +3,9 @@ title: "Section 131 - Application to Medicare Advantage program and related mana
 usc_title: 42
 usc_section: "131"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 131"
-generated_at: "2026-03-29T18:07:13.994Z"
+generated_at: "2026-03-29T18:27:03.122Z"
 ---
 
 # § 1395w–131. Application to Medicare Advantage program and related managed care programs
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T18:07:13.994Z"
 - **(a)**
   - **(1)** An MA organization on and after January 1, 2006 —
     - **(A)** may not offer an MA plan described in section 1395w–21(a)(2)(A) of this title in an area unless either that plan (or another MA plan offered by the organization in that same service area) includes required prescription drug coverage (as defined in paragraph (2)); and
-    - **(B)** may not offer prescription drug coverage (other than that required under parts A and B of this subchapter) to an enrollee—
+    - **(B)** may not offer prescription drug coverage (other than that required under parts A and B) to an enrollee—
       - **(i)** under an MSA plan; or
       - **(ii)** under another MA plan unless such drug coverage under such other plan provides qualified prescription drug coverage and unless the requirements of this section with respect to such coverage are met.
   - **(2)** For purposes of paragraph (1)(A), the term “required coverage” means with respect to an MA–PD plan—
@@ -29,8 +29,8 @@ generated_at: "2026-03-29T18:07:13.994Z"
       - **(i)** the individual is deemed to have elected the original medicare fee-for-service program option, unless the individual affirmatively elects to enroll in an MA–PD plan; and
       - **(ii)** in the case of such a deemed election, the disenrollment shall be treated as an involuntary termination of the MA plan described in subparagraph (B)(ii) of section 1395ss(s)(3) of this title for purposes of applying such section.
 - **(c)** With respect to the offering of qualified prescription drug coverage by an MA organization under this part on and after January 1, 2006 —
-  - **(1)** Except as otherwise provided, the provisions of this part shall apply under part C of this subchapter with respect to prescription drug coverage provided under MA–PD plans in lieu of the other provisions of part C of this subchapter that would apply to such coverage under such plans.
-  - **(2)** The Secretary shall waive the provisions referred to in paragraph (1) to the extent the Secretary determines that such provisions duplicate, or are in conflict with, provisions otherwise applicable to the organization or plan under part C of this subchapter or as may be necessary in order to improve coordination of this part with the benefits under this part.
+  - **(1)** Except as otherwise provided, the provisions of this part shall apply under part C with respect to prescription drug coverage provided under MA–PD plans in lieu of the other provisions of part C that would apply to such coverage under such plans.
+  - **(2)** The Secretary shall waive the provisions referred to in paragraph (1) to the extent the Secretary determines that such provisions duplicate, or are in conflict with, provisions otherwise applicable to the organization or plan under part C or as may be necessary in order to improve coordination of this part with the benefits under this part.
   - **(3)** The Secretary may waive the requirement of section 1395w–104(b)(1)(C) of this title in the case of an MA–PD plan that provides access (other than mail order) to qualified prescription drug coverage through pharmacies owned and operated by the MA organization, if the Secretary determines that the organization’s pharmacy network is sufficient to provide comparable access for enrollees under the plan.
 - **(d)** With respect to an MA plan described in section 1395w–21(a)(2)(C) of this title that offers qualified prescription drug coverage, on and after January 1, 2006 , the following rules apply:
   - **(1)** Subsections (a)(1) and (d)(1) of section 1395w–102 of this title and section 1395w–104(b)(2)(A) of this title shall not be construed to require the plan to provide negotiated prices (described in subsection (d)(1)(B) of such section), but shall apply to the extent the plan does so.
@@ -43,10 +43,10 @@ generated_at: "2026-03-29T18:07:13.994Z"
   - **(6)** Subsections (d) and (e)(2)(C) of section 1395w–111 of this title shall not apply and the provisions of section 1395w–24(a)(5)(B) of this title prohibiting the review, approval, or disapproval of amounts described in such section shall apply to the proposed bid and terms and conditions described in section 1395w–111(d) of this title .
   - **(7)** The exclusion of costs incurred for covered part D drugs which are not included (or treated as being included) in a plan’s formulary under section 1395w–102(b)(4)(B)(i) of this title shall not apply insofar as the plan does not utilize a formulary.
 - **(e)**
-  - **(1)** Subject to paragraphs (2) and (3) and rules established by the Secretary, in the case of an organization that is providing benefits under a reasonable cost reimbursement contract under section 1395mm(h) of this title and that elects to provide qualified prescription drug coverage to a part D eligible individual who is enrolled under such a contract, the provisions of this part (and related provisions of part C of this subchapter) shall apply to the provision of such coverage to such enrollee in the same manner as such provisions apply to the provision of such coverage under an MA–PD local plan described in section 1395–21(a)(2)(A)(i) of this title and coverage under such a contract that so provides qualified prescription drug coverage shall be deemed to be an MA–PD local plan.
+  - **(1)** Subject to paragraphs (2) and (3) and rules established by the Secretary, in the case of an organization that is providing benefits under a reasonable cost reimbursement contract under section 1395mm(h) of this title and that elects to provide qualified prescription drug coverage to a part D eligible individual who is enrolled under such a contract, the provisions of this part (and related provisions of part C) shall apply to the provision of such coverage to such enrollee in the same manner as such provisions apply to the provision of such coverage under an MA–PD local plan described in section 1395–21(a)(2)(A)(i) of this title and coverage under such a contract that so provides qualified prescription drug coverage shall be deemed to be an MA–PD local plan.
   - **(2)** In applying paragraph (1), the organization may not enroll part D eligible individuals who are not enrolled under the reasonable cost reimbursement contract involved.
   - **(3)** The bid of an organization offering prescription drug coverage under this subsection shall not be taken into account in computing the national average monthly bid amount and low-income benchmark premium amount under this part.
 - **(f)**
-  - **(1)** Subject to paragraphs (2) and (3) and rules established by the Secretary, in the case of a PACE program under section 1395eee of this title that elects to provide qualified prescription drug coverage to a part D eligible individual who is enrolled under such program, the provisions of this part (and related provisions of part C of this subchapter) shall apply to the provision of such coverage to such enrollee in a manner that is similar to the manner in which such provisions apply to the provision of such coverage under an MA–PD local plan described in section 1395w–21(a)(2)(A)(ii) of this title and a PACE program that so provides such coverage may be deemed to be an MA–PD local plan.
+  - **(1)** Subject to paragraphs (2) and (3) and rules established by the Secretary, in the case of a PACE program under section 1395eee of this title that elects to provide qualified prescription drug coverage to a part D eligible individual who is enrolled under such program, the provisions of this part (and related provisions of part C) shall apply to the provision of such coverage to such enrollee in a manner that is similar to the manner in which such provisions apply to the provision of such coverage under an MA–PD local plan described in section 1395w–21(a)(2)(A)(ii) of this title and a PACE program that so provides such coverage may be deemed to be an MA–PD local plan.
   - **(2)** In applying paragraph (1), the organization may not enroll part D eligible individuals who are not enrolled under the PACE program involved.
   - **(3)** The bid of an organization offering prescription drug coverage under this subsection is not be taken into account in computing any average benchmark bid amount and low-income benchmark premium amount under this part.

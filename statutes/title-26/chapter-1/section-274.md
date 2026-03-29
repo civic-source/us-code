@@ -3,9 +3,9 @@ title: "Section 274 - Disallowance of certain entertainment, etc., expenses"
 usc_title: 26
 usc_section: "274"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 274"
-generated_at: "2026-03-29T18:05:44.554Z"
+generated_at: "2026-03-29T18:25:53.501Z"
 ---
 
 # § 274. Disallowance of certain entertainment, etc., expenses
@@ -161,7 +161,5 @@ generated_at: "2026-03-29T18:05:44.554Z"
         - **(II)** which is of a kind which would be required by Federal law to provide food and beverages to crew members if it were operated at sea,
       - **(iii)** provided on an oil or gas platform or drilling rig if the platform or rig is located offshore, or
       - **(iv)** provided on an oil or gas platform or drilling rig, or at a support camp which is in proximity and integral to such platform or rig, if the platform or rig is located in the United States north of 54 degrees north latitude.
-  - **(3)**
-    - **(A)** In the case of any expenses for food or beverages consumed while away from home (within the meaning of section 162(a)(2)) by an individual during, or incident to, the period of duty subject to the hours of service limitations of the Department of Transportation, paragraph (1) shall be applied by substituting “the applicable percentage” for “50 percent”.
-    - **(B)** For purposes of this paragraph, the term “applicable percentage” means the percentage determined under the following table: For taxable years beginning The applicable in calendar year— percentage is— 1998 or 1999 55 2000 or 2001 60 2002 or 2003 65 2004 or 2005 70 2006 or 2007 75 2008 or thereafter 80.
+  - **(3)** In the case of any expenses for food or beverages consumed while away from home (within the meaning of section 162(a)(2)) by an individual during, or incident to, the period of duty subject to the hours of service limitations of the Department of Transportation, paragraph (1) shall be applied by substituting “80 percent” for “50 percent”.
 - **(o)** The Secretary shall prescribe such regulations as he may deem necessary to carry out the purposes of this section, including regulations prescribing whether subsection (a) or subsection (b) applies in cases where both such subsections would otherwise apply.

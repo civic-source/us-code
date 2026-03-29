@@ -3,9 +3,9 @@ title: "Section 871 - Tax on nonresident alien individuals"
 usc_title: 26
 usc_section: "871"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 871"
-generated_at: "2026-03-29T18:05:44.724Z"
+generated_at: "2026-03-29T18:25:53.670Z"
 ---
 
 # § 871. Tax on nonresident alien individuals
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T18:05:44.724Z"
 - **(a)**
   - **(1)** Except as provided in subsection (h), there is hereby imposed for each taxable year a tax of 30 percent of the amount received from sources within the United States by a nonresident alien individual as—
     - **(A)** interest (other than original issue discount as defined in section 1273), dividends, rents, salaries, wages, premiums, annuities, compensations, remunerations, emoluments, and other fixed or determinable annual or periodical gains, profits, and income,
-    - **(B)** gains described in section 631(b) or (c), and gains on transfers described in section 1235 made on or before October 4, 1966 ,
+    - **(B)** gains described in subsection (b) or (c) of section 631,
     - **(C)** in the case of—
       - **(i)** a sale or exchange of an original issue discount obligation, the amount of the original issue discount accruing while such obligation was held by the nonresident alien individual (to the extent such discount was not theretofore taken into account under clause (ii)), and
       - **(ii)** a payment on an original issue discount obligation, an amount equal to the original issue discount accruing while such obligation was held by the nonresident alien individual (except that such original issue discount shall be taken into account under this clause only to the extent such discount was not theretofore taken into account under this clause and only to the extent that the tax thereon does not exceed the payment less the tax imposed by subparagraph (A) thereon), and
@@ -136,7 +136,6 @@ generated_at: "2026-03-29T18:05:44.724Z"
         - **(II)** The term “excess reported amount” means the excess of the aggregate reported amount over the qualified net interest income of the company for the taxable year.
         - **(III)** The term “aggregate reported amount” means the aggregate amount of dividends reported by the company under clause (i) as interest related dividends for the taxable year (including interest related dividends paid after the close of the taxable year described in section 855).
         - **(IV)** The term “post-December reported amount” means the aggregate reported amount determined by taking into account only dividends paid after December 31 of the taxable year.
-      - **(v)** The term “interest related dividend” shall not include any dividend with respect to any taxable year of the company beginning after December 31, 2013 .
     - **(D)** For purposes of subparagraph (C), the term “qualified net interest income” means the qualified interest income of the regulated investment company reduced by the deductions properly allocable to such income.
     - **(E)** For purposes of subparagraph (D), the term “qualified interest income” means the sum of the following amounts derived by the regulated investment company from sources within the United States:
       - **(i)** Any amount includible in gross income as original issue discount (within the meaning of section 1273) on an obligation payable 183 days or less from the date of original issue (without regard to the period held by the company).
@@ -162,7 +161,6 @@ generated_at: "2026-03-29T18:05:44.724Z"
         - **(II)** The term “excess reported amount” means the excess of the aggregate reported amount over the qualified short-term gain of the company for the taxable year.
         - **(III)** The term “aggregate reported amount” means the aggregate amount of dividends reported by the company under clause (i) as short-term capital gain dividends for the taxable year (including short-term capital gain dividends paid after the close of the taxable year described in section 855).
         - **(IV)** The term “post-December reported amount” means the aggregate reported amount determined by taking into account only dividends paid after December 31 of the taxable year.
-      - **(v)** The term “short-term capital gain dividend” shall not include any dividend with respect to any taxable year of the company beginning after December 31, 2013 .
     - **(D)** For purposes of subparagraph (C), the term “qualified short-term gain” means the excess of the net short-term capital gain of the regulated investment company for the taxable year over the net long-term capital loss (if any) of such company for such taxable year. For purposes of this subparagraph, the net short-term capital gain of the regulated investment company shall be computed by treating any short-term capital gain dividend includible in gross income with respect to stock of another regulated investment company as a short-term capital gain.
     - **(E)** In the case of a distribution to which section 897 does not apply by reason of the second sentence of section 897(h)(1), the amount which would be treated as a short-term capital gain dividend to the shareholder (without regard to this subparagraph)—
       - **(i)** shall not be treated as a short-term capital gain dividend, and

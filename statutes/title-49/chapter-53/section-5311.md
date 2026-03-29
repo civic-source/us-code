@@ -3,9 +3,9 @@ title: "Section 5311 - Formula grants for rural areas"
 usc_title: 49
 usc_section: "5311"
 chapter: 53
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 5311"
-generated_at: "2026-03-29T18:07:51.351Z"
+generated_at: "2026-03-29T18:27:16.455Z"
 ---
 
 # § 5311. Formula grants for rural areas
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T18:07:51.351Z"
       - **(ii)** the program provides the maximum feasible coordination of public transportation service assisted under this section with transportation service assisted by other Federal sources.
   - **(3)**
     - **(A)** The Secretary shall carry out a rural transportation assistance program in rural areas.
-    - **(B)** In carrying out this paragraph, the Secretary may use not more than 2 percent of the amount made available under section 5338(a)(2)(E) to make grants and contracts for transportation research, technical assistance, training, and related support services in rural areas.
+    - **(B)** In carrying out this paragraph, the Secretary may use not more than 2 percent of the amount made available under section 5338(a)(2)(F) to make grants and contracts for transportation research, technical assistance, training, and related support services in rural areas.
     - **(C)** Not more than 15 percent of the amounts available under subparagraph (B) may be used by the Secretary to carry out competitively selected projects of a national scope, with the remaining balance provided to the States.
   - **(4)** Each recipient under this section shall submit an annual report to the Secretary containing information on capital investment, operations, and service provided with funds received under this section, including—
     - **(A)** total annual revenue;
@@ -39,20 +39,20 @@ generated_at: "2026-03-29T18:07:51.351Z"
     - **(F)** vehicle revenue miles; and
     - **(G)** ridership.
 - **(c)**
-  - **(1)** Of the amounts made available or appropriated for each fiscal year pursuant to section 5338(a)(2)(E) to carry out this paragraph, the following amounts shall be apportioned each fiscal year for grants to Indian tribes for any purpose eligible under this section, under such terms and conditions as may be established by the Secretary:
-    - **(A)** $5,000,000 shall be distributed on a competitive basis by the Secretary.
-    - **(B)** $25,000,000 shall be apportioned as formula grants, as provided in subsection (j).
+  - **(1)** Of the amounts made available or appropriated for each fiscal year pursuant to section 5338(a)(2)(F) to carry out this paragraph, the following amounts shall be apportioned each fiscal year for grants to Indian tribes for any purpose eligible under this section, under such terms and conditions as may be established by the Secretary:
+    - **(A)** $5,000,000 for each fiscal year shall be distributed on a competitive basis by the Secretary.
+    - **(B)** $30,000,000 for each fiscal year shall be apportioned as formula grants, as provided in subsection (j).
   - **(2)**
     - **(A)** In this paragraph—
       - **(i)** the term “Appalachian region” has the same meaning as in section 14102 of title 40 ; and
       - **(ii)** the term “eligible recipient” means a State that participates in a program established under subtitle IV of title 40.
     - **(B)** The Secretary shall carry out a public transportation assistance program in the Appalachian region.
-    - **(C)** Of amounts made available or appropriated for each fiscal year under section 5338(a)(2)(E) to carry out this paragraph, the Secretary shall apportion funds to eligible recipients for any purpose eligible under this section, based on the guidelines established under section 9.5(b) of the Appalachian Regional Commission Code.
+    - **(C)** Of amounts made available or appropriated for each fiscal year under section 5338(a)(2)(F) to carry out this paragraph, the Secretary shall apportion funds to eligible recipients for any purpose eligible under this section, based on the guidelines established under section 9.5(b) of the Appalachian Regional Commission Code.
     - **(D)** An eligible recipient may use amounts that cannot be used for operating expenses under this paragraph for a highway project if—
       - **(i)** that use is approved, in writing, by the eligible recipient after appropriate notice and an opportunity for comment and appeal are provided to affected public transportation providers; and
       - **(ii)** the eligible recipient, in approving the use of amounts under this subparagraph, determines that the local transit needs are being addressed.
   - **(3)**
-    - **(A)** The amounts made available or appropriated for each fiscal year pursuant to section 5338(a)(2)(E) that are not apportioned under paragraph (1) or (2) shall be apportioned in accordance with this paragraph.
+    - **(A)** The amounts made available or appropriated for each fiscal year pursuant to section 5338(a)(2)(F) that are not apportioned under paragraph (1) or (2) shall be apportioned in accordance with this paragraph.
     - **(B)**
       - **(i)** 83.15 percent of the amount described in subparagraph (A) shall be apportioned to the States in accordance with this subparagraph.
       - **(ii)**
@@ -85,10 +85,12 @@ generated_at: "2026-03-29T18:07:51.351Z"
     - **(A)** Except as provided by subparagraph (B), a grant made under this section for operating assistance may not exceed 50 percent of the net operating costs of the project, as determined by the Secretary.
     - **(B)** A State described in section 120(b) of title 23 shall receive a Government share of the net operating costs equal to 62.5 percent of the Government share provided for under paragraph (1)(B).
   - **(3)** The remainder of net project costs—
-    - **(A)** may be provided from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, a service agreement with a State or local social service agency or a private social service organization, or new capital;
-    - **(B)** may be derived from amounts appropriated or otherwise made available to a department or agency of the Government (other than the Department of Transportation) that are eligible to be expended for transportation;
-    - **(C)** notwithstanding subparagraph (B), may be derived from amounts made available to carry out the Federal lands highway program established by section 204 1 1 See References in Text note below. of title 23; and
-    - **(D)** in the case of an intercity bus project that includes both feeder service and an unsubsidized segment of intercity bus service to which the feeder service connects, may be derived from the costs of a private operator for the unsubsidized segment of intercity bus service as an in-kind match for the operating costs of connecting rural intercity bus feeder service funded under subsection (f), if the private operator agrees in writing to the use of the costs of the private operator for the unsubsidized segment of intercity bus service as an in-kind match.
+    - **(A)** may be provided in cash from non-Government sources;
+    - **(B)** may be provided from revenues from the sale of advertising and concessions;
+    - **(C)** may be provided from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, a service agreement with a State or local social service agency or a private social service organization, or new capital;
+    - **(D)** may be derived from amounts appropriated or otherwise made available to a department or agency of the Government (other than the Department of Transportation) that are eligible to be expended for transportation;
+    - **(E)** notwithstanding subparagraph (B), may be derived from amounts made available to carry out the Federal lands highway program established by section 204 1 1 See References in Text note below. of title 23; and
+    - **(F)** in the case of an intercity bus project that includes both feeder service and an unsubsidized segment of intercity bus service to which the feeder service connects, may be derived from the costs of a private operator for the unsubsidized segment of intercity bus service, including all operating and capital costs of such service whether or not offset by revenue from such service, as an in-kind match for the operating costs of connecting rural intercity bus feeder service funded under subsection (f), if the private operator agrees in writing to the use of the costs of the private operator for the unsubsidized segment of intercity bus service as an in-kind match.
   - **(4)** For purposes of paragraph (3)(B), the prohibitions on the use of funds for matching requirements under section 403(a)(5)(C)(vii) of the Social Security Act ( 42 U.S.C. 603(a)(5)(C)(vii) ) shall not apply to Federal or State funds to be used for transportation purposes.
   - **(5)** A State carrying out a program of operating assistance under this section may not limit the level or extent of use of the Government grant for the payment of operating expenses.
 - **(h)** With the consent of the recipient currently having a facility or equipment acquired with assistance under this section, a State may transfer the facility or equipment to any recipient eligible to receive assistance under this chapter if the facility or equipment will continue to be used as required under this section.
@@ -100,8 +102,9 @@ generated_at: "2026-03-29T18:07:51.351Z"
     - **(A)** Of the amounts described in subsection (c)(1)(B)—
       - **(i)** 50 percent of the total amount shall be apportioned so that each Indian tribe providing public transportation service shall receive an amount equal to the total amount apportioned under this clause multiplied by the ratio of the number of vehicle revenue miles provided by an Indian tribe divided by the total number of vehicle revenue miles provided by all Indian tribes, as reported to the Secretary;
       - **(ii)** 25 percent of the total amount shall be apportioned equally among each Indian tribe providing at least 200,000 vehicle revenue miles of public transportation service annually, as reported to the Secretary; and
-      - **(iii)** 25 percent of the total amount shall be apportioned among each Indian tribe providing public transportation on tribal lands (as defined by the Bureau of the Census) on which more than 1,000 low-income individuals reside (as determined by the Bureau of the Census) so that each Indian tribe shall receive an amount equal to the total amount apportioned under this clause multiplied by the ratio of the number of low-income individuals residing on an Indian tribe’s lands divided by the total number of low-income individuals on tribal lands on which more than 1,000 low-income individuals reside.
+      - **(iii)** 25 percent of the total amount shall be apportioned among each Indian tribe providing public transportation on tribal lands (American Indian Areas, Alaska Native Areas, and Hawaiian Home Lands, as defined by the Bureau of the Census) on which more than 1,000 low-income individuals reside (as determined by the Bureau of the Census) so that each Indian tribe shall receive an amount equal to the total amount apportioned under this clause multiplied by the ratio of the number of low-income individuals residing on an Indian tribe’s lands divided by the total number of low-income individuals on tribal lands on which more than 1,000 low-income individuals reside.
     - **(B)** No recipient shall receive more than $300,000 of the amounts apportioned under subparagraph (A)(iii) in a fiscal year.
     - **(C)** Of the amounts made available under subparagraph (A)(iii), any amounts not apportioned under that subparagraph shall be allocated among Indian tribes receiving less than $300,000 in a fiscal year according to the formula specified in that clause.
     - **(D)** For purposes of subparagraph (A)(iii), the term “low-income individual” means an individual whose family income is at or below 100 percent of the poverty line, as that term is defined in section 673(2) of the Community Services Block Grant Act ( 42 U.S.C. 9902(2) ), including any revision required by that section, for a family of the size involved.
+    - **(E)** If more than 1 Indian tribe provides public transportation service on tribal lands in a single Tribal Statistical Area, and the Indian tribes do not determine how to allocate the funds apportioned under clause (iii) of subparagraph (A) between the Indian tribes, the Secretary shall allocate the funds so that each Indian tribe shall receive an amount equal to the total amount apportioned under such clause (iii) multiplied by the ratio of the number of annual unlinked passenger trips provided by each Indian tribe, as reported to the National Transit Database, to the total unlinked passenger trips provided by all Indian tribes in the Tribal Statistical Area.
   - **(2)** A recipient that is an Indian tribe may use funds apportioned under this subsection to finance public transportation services provided by a non-tribal provider of public transportation that connects residents of tribal lands with surrounding communities, improves access to employment or healthcare, or otherwise addresses the mobility needs of tribal members.

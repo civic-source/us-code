@@ -3,16 +3,16 @@ title: "Section 473 - Cyber Crimes Center, Child Exploitation Investigations Uni
 usc_title: 6
 usc_section: "473"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "6 U.S.C. § 473"
-generated_at: "2026-03-29T02:10:05.012Z"
+generated_at: "2026-03-29T18:23:35.758Z"
 ---
 
 # § 473. Cyber Crimes Center, Child Exploitation Investigations Unit, Computer Forensics Unit, and Cyber Crimes Unit
 
 - **(a)**
-  - **(1)** The Secretary shall operate, within United States Immigration and Customs Enforcement, Homeland Security Investigations, a Cyber Crimes Center (referred to in this section as the “Center”).
-  - **(2)** The Center shall provide investigative assistance, training, and equipment to support domestic and international investigations of cyber-related crimes by the Department.
+  - **(1)** The Secretary shall operate, within United States Immigration and Customs Enforcement, a Cyber Crimes Center (referred to in this section as the “Center”).
+  - **(2)** The purpose of the Center shall be to provide investigative assistance, training, and equipment to support United States Immigration and Customs Enforcement’s domestic and international investigations of cyber-related crimes.
 - **(b)**
   - **(1)** The Secretary shall operate, within the Center, a Child Exploitation Investigations Unit (referred to in this subsection as the “CEIU”).
   - **(2)** The CEIU—
@@ -27,17 +27,17 @@ generated_at: "2026-03-29T02:10:05.012Z"
       - **(ii)** investigative capacity building;
       - **(iii)** enforcement operations; and
       - **(iv)** training for Federal, State, local, tribal, and foreign law enforcement agency personnel, upon request;
-    - **(C)** shall provide training, technical expertise, support, or coordination of child exploitation investigations, as needed, to cooperating law enforcement agencies and personnel, which shall include participating in training for Homeland Security Investigations personnel conducted by Internet Crimes Against Children Task Forces;
+    - **(C)** shall provide training, technical expertise, support, or coordination of child exploitation investigations, as needed, to cooperating law enforcement agencies and personnel;
     - **(D)** shall provide psychological support and counseling services for United States Immigration and Customs Enforcement personnel engaged in child exploitation prevention initiatives, including making available other existing services to assist employees who are exposed to child exploitation material during investigations;
-    - **(E)** is authorized to collaborate with the Department of Defense and the National Association to Protect Children for the purpose of the recruiting, training, equipping and hiring of wounded, ill, and injured veterans and transitioning service members, through the Human Exploitation Rescue Operative (HERO) Child Rescue Corps program 1 1 So in original. Probably should be “Program”. ; and
+    - **(E)** is authorized to collaborate with the Department of Defense and the National Association to Protect Children for the purpose of the recruiting, training, equipping and hiring of wounded, ill, and injured veterans and transitioning service members, through the Human Exploitation Rescue Operative (HERO) Child Rescue Corps program; and
     - **(F)** shall collaborate with other governmental, nongovernmental, and nonprofit entities approved by the Secretary for the sponsorship of, and participation in, outreach and training activities.
   - **(3)** The CEIU shall collect and maintain data concerning—
     - **(A)** the total number of suspects identified by United States Immigration and Customs Enforcement;
-    - **(B)** the number of arrests by United States Immigration and Customs Enforcement in child exploitation investigations, disaggregated by type, including—
-      - **(i)** the number of child victims identified through investigations carried out by United States Immigration and Customs Enforcement; and
+    - **(B)** the number of arrests by United States Immigration and Customs Enforcement, disaggregated by type, including—
+      - **(i)** the number of victims identified through investigations carried out by United States Immigration and Customs Enforcement; and
       - **(ii)** the number of suspects arrested who were in positions of trust or authority over children;
-    - **(C)** the number of child exploitation cases opened for investigation by United States Immigration and Customs Enforcement; and
-    - **(D)** the number of child exploitation cases resulting in a Federal, State, foreign, or military prosecution.
+    - **(C)** the number of cases opened for investigation by United States Immigration and Customs Enforcement; and
+    - **(D)** the number of cases resulting in a Federal, State, foreign, or military prosecution.
   - **(4)** In addition to submitting the reports required under paragraph (7), the CEIU shall make the data collected and maintained under paragraph (3) available to the committees of Congress described in paragraph (7).
   - **(5)** The CEIU is authorized to enter into cooperative agreements to accomplish the functions set forth in paragraphs (2) and (3).
   - **(6)**
@@ -55,12 +55,12 @@ generated_at: "2026-03-29T02:10:05.012Z"
 - **(c)**
   - **(1)** The Secretary shall operate, within the Center, a Computer Forensics Unit (referred to in this subsection as the “CFU”).
   - **(2)** The CFU—
-    - **(A)** shall provide training and technical support in digital forensics and administer the Digital Forensics and Document and Media Exploitation program to—
+    - **(A)** shall provide training and technical support in digital forensics to—
       - **(i)** United States Immigration and Customs Enforcement personnel; and
       - **(ii)** Federal, State, local, tribal, military, and foreign law enforcement agency personnel engaged in the investigation of crimes within their respective jurisdictions, upon request and subject to the availability of funds;
     - **(B)** shall provide computer hardware, software, and forensic licenses for all computer forensics personnel within United States Immigration and Customs Enforcement;
-    - **(C)** shall participate in research and development in the area of digital forensics and emerging technologies, in coordination with appropriate components of the Department; and
-    - **(D)** is authorized to collaborate with the Department of Defense, the National Association to Protect Children, and other governmental entities for the purpose of recruiting, training, equipping, and hiring wounded, ill, and injured veterans and transitioning service members, through the Human Exploitation Rescue Operative (HERO) Child Rescue Corps program 1 .
+    - **(C)** shall participate in research and development in the area of digital forensics, in coordination with appropriate components of the Department; and
+    - **(D)** is authorized to collaborate with the Department of Defense and the National Association to Protect Children for the purpose of recruiting, training, equipping, and hiring wounded, ill, and injured veterans and transitioning service members, through the Human Exploitation Rescue Operative (HERO) Child Rescue Corps program.
   - **(3)** The CFU is authorized to enter into cooperative agreements to accomplish the functions set forth in paragraph (2).
   - **(4)**
     - **(A)** The Secretary is authorized to accept monies and in-kind donations from the Virtual Global Task Force, national laboratories, Federal agencies, not-for-profit organizations, and educational institutions to create and expand public awareness campaigns in support of the functions of the CFU.
@@ -79,34 +79,6 @@ generated_at: "2026-03-29T02:10:05.012Z"
       - **(i)** United States Immigration and Customs Enforcement personnel; and
       - **(ii)** Federal, State, local, tribal, military, and foreign law enforcement agency personnel engaged in the investigation of crimes within their respective jurisdictions, upon request and subject to the availability of funds;
     - **(D)** shall participate in research and development in the area of cyber investigations, in coordination with appropriate components of the Department; and
-    - **(E)** is authorized to recruit participants of the Human Exploitation Rescue Operative (HERO) Child Rescue Corps program 1 for investigative and forensic positions in support of the functions of the CCU.
+    - **(E)** is authorized to recruit participants of the Human Exploitation Rescue Operative (HERO) Child Rescue Corps program for investigative and forensic positions in support of the functions of the CCU.
   - **(3)** The CCU is authorized to enter into cooperative agreements to accomplish the functions set forth in paragraph (2).
-- **(e)**
-  - **(1)**
-    - **(A)** There is established within the Center a Human Exploitation Rescue Operation 3 3 So in original. Probably should be “Operative”. Child-Rescue Corps Program (referred to in this section as the “HERO Child-Rescue Corps Program”), which shall be a Department-wide program, in collaboration with the Department of Defense and the National Association to Protect Children.
-    - **(B)** As part of the HERO Child-Rescue Corps Program, the National Association to Protect Children shall provide logistical support for program participants.
-  - **(2)** The purpose of the HERO Child-Rescue Corps Program shall be to recruit, train, equip, and employ members of the Armed Forces on active duty and wounded, ill, and injured veterans to combat and prevent child exploitation, including in investigative, intelligence, analyst, inspection, and forensic positions or any other positions determined appropriate by the employing agency.
-  - **(3)** The HERO Child-Rescue Program shall—
-    - **(A)** provide, recruit, train, and equip participants of the Program in the areas of digital forensics, investigation, analysis, intelligence, and victim identification, as determined by the Center and the needs of the Department; and
-    - **(B)** ensure that during the internship period, participants of the Program are assigned to investigate and analyze—
-      - **(i)** child exploitation;
-      - **(ii)** child pornography;
-      - **(iii)** unidentified child victims;
-      - **(iv)** human trafficking;
-      - **(v)** traveling child sex offenders; and
-      - **(vi)** forced child labor, including the sexual exploitation of minors.
-- **(f)**
-  - **(1)** The Secretary shall establish a paid internship and hiring program for the purpose of placing participants of the HERO Child-Rescue Corps Program (in this subsection referred to as “participants”) into paid internship positions, for the subsequent appointment of the participants to permanent positions, as described in the guidelines promulgated under paragraph (3).
-  - **(2)** Under the paid internship and hiring program required to be established under paragraph (1), the Secretary shall assign or detail participants to positions within United States Immigration and Customs Enforcement or any other Federal agency in accordance with the guidelines promulgated under paragraph (3).
-  - **(3)**
-    - **(A)** The Secretary shall promulgate guidelines for assigning or detailing participants to positions within United States Immigration and Customs Enforcement and other Federal agencies, which shall include requirements for internship duties and agreements regarding the subsequent appointment of the participants to permanent positions.
-    - **(B)** The Secretary shall give a preference to Homeland Security Investigations in assignments or details under the guidelines promulgated under subparagraph (A).
-  - **(4)** An appointment to an internship position under this subsection shall be for a term not to exceed 12 months.
-  - **(5)** After completion of initial group training and upon beginning work at an assigned office, a participant appointed to an internship position under this subsection who is not receiving monthly basic pay as a member of the Armed Forces on active duty shall receive compensation at a rate that is—
-    - **(A)** not less than the minimum rate of basic pay payable for a position at level GS–5 of the General Schedule; and
-    - **(B)** not more than the maximum rate of basic pay payable for a position at level GS–7 of the General Schedule.
-  - **(6)** In establishing the paid internship and hiring program required under paragraph (1), the Secretary shall ensure that the eligibility requirements for participation in the internship program are the same as the eligibility requirements for participation in the HERO Child-Rescue Corps Program.
-  - **(7)** The Secretary shall establish within Homeland Security Investigations positions, which shall be in addition to any positions in existence on December 21, 2019 , for the hiring and permanent employment of graduates of the paid internship program required to be established under paragraph (1).
-- **(g)**
-  - **(1)** There are authorized to be appropriated to the Secretary such sums as are necessary to carry out this section.
-  - **(2)** Of the amount made available pursuant to paragraph (1) in each of fiscal years 2022 through 2027, not more than $10,000,000 shall be used to carry out subsection (e) and not less than $2,000,000 shall be used to carry out subsection (f).
+- **(e)** There are authorized to be appropriated to the Secretary such sums as are necessary to carry out this section.

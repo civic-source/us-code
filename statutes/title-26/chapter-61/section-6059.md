@@ -3,9 +3,9 @@ title: "Section 6059 - Periodic report of actuary"
 usc_title: 26
 usc_section: "6059"
 chapter: 61
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 6059"
-generated_at: "2026-03-29T18:05:44.971Z"
+generated_at: "2026-03-29T18:25:53.897Z"
 ---
 
 # § 6059. Periodic report of actuary
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T18:05:44.971Z"
   - **(2)** a certification of the contribution necessary to reduce the minimum required contribution determined under section 430, the accumulated funding deficiency under section 433, or the accumulated funding deficiency determined under section 431, to zero,
   - **(3)** a statement—
     - **(A)** that to the best of his knowledge the report is complete and accurate, and
-    - **(B)** the requirements for reasonable actuarial assumptions under section 430(h)(1), 431(c)(3), or 433(c)(3), whichever are applicable, have been complied with. 1 1 So in original. The period probably should be a comma.
+    - **(B)** the 1 1 So in original. Probably should be preceded by “that”. requirements for reasonable actuarial assumptions under section 430(h)(1), 431(c)(3), or 433(c)(3), whichever are applicable, have been complied with. 2 2 So in original. The period probably should be a comma.
   - **(4)** such other information as may be necessary to fully and fairly disclose the actuarial position of the plan, and
   - **(5)** such other information regarding the plan as the Secretary may by regulations require.
 - **(c)** The actuarial report and statement required by this section shall be filed at the time and in the manner provided by regulations prescribed by the Secretary.

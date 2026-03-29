@@ -3,9 +3,9 @@ title: "Section 123 - Persons locating lands subsequently withdrawn or classifie
 usc_title: 30
 usc_section: "123"
 chapter: 3
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "30 U.S.C. § 123"
-generated_at: "2026-03-29T18:05:26.138Z"
+generated_at: "2026-03-29T18:25:30.846Z"
 ---
 
 # § 123. Persons locating lands subsequently withdrawn or classified; patents to

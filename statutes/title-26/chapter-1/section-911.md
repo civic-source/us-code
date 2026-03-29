@@ -3,9 +3,9 @@ title: "Section 911 - Citizens or residents of the United States living abroad"
 usc_title: 26
 usc_section: "911"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 911"
-generated_at: "2026-03-29T18:05:44.742Z"
+generated_at: "2026-03-29T18:25:53.687Z"
 ---
 
 # § 911. Citizens or residents of the United States living abroad
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T18:05:44.742Z"
     - **(B)** For purposes of applying subparagraph (A), amounts received shall be considered received in the taxable year in which the services to which the amounts are attributable are performed.
     - **(C)** In applying subparagraph (A) with respect to amounts received from services performed by a husband or wife which are community income under community property laws applicable to such income, the aggregate amount which may be excludable from the gross income of such husband and wife under subsection (a)(1) for any taxable year shall equal the amount which would be so excludable if such amounts did not constitute community income.
     - **(D)**
-      - **(i)** The exclusion amount for any calendar year is the exclusion amount determined in accordance with the following table (as adjusted by clause (ii)): For calendar year— The exclusion amount is— 1998 $72,000 1999 74,000 2000 76,000 2001 78,000 2002 and thereafter 80,000.
+      - **(i)** The exclusion amount for any calendar year is $80,000.
       - **(ii)** In the case of any taxable year beginning in a calendar year after 2005, the $80,000 amount in clause (i) shall be increased by an amount equal to the product of—
         - **(I)** such dollar amount, and
         - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “2004” for “1992” in subparagraph (B) thereof.
@@ -87,7 +87,7 @@ generated_at: "2026-03-29T18:05:44.742Z"
       - **(ii)** the term “housing expenses” shall not include any expenses allocable to such period for housing in such country or for housing of the spouse or dependents of the taxpayer in another country while the taxpayer is present in such country, and
       - **(iii)** an individual shall not be treated as a bona fide resident of, or as present in, a foreign country for any day during which such individual was present in such country during such period.
     - **(B)** For purposes of this paragraph, regulations are described in this subparagraph if such regulations—
-      - **(i)** have been adopted pursuant to the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.), or the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.), and
+      - **(i)** have been adopted pursuant to the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.), 1 1 See References in Text note below. or the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.), and
       - **(ii)** include provisions generally prohibiting citizens and residents of the United States from engaging in transactions related to travel to, from, or within a foreign country.
     - **(C)** Subparagraph (A) shall not apply to any individual during any period in which such individual’s activities are not in violation of the regulations described in subparagraph (B).
   - **(9)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations providing rules—
@@ -111,6 +111,6 @@ generated_at: "2026-03-29T18:05:44.742Z"
       - **(iii)** adjusted net capital gain, unrecaptured section 1250 gain, and 28-percent rate gain shall each be determined after increasing the amount described in section 1(h)(4)(B) by such capital gain excess.
     - **(B)** In applying section 55(b)(3) for purposes of determining the tax under paragraph (1)(B)(i) for any taxable year in which, without regard to this subsection, the taxpayer’s net capital gain exceeds the taxable excess (as defined in section 55(b)(1)(A)(ii))—
       - **(i)** the rules of subparagraph (A) shall apply, except that such subparagraph shall be applied by substituting “the taxable excess (as defined in section 55(b)(1)(A)(ii))” for “taxable income”, and
-      - **(ii)** the reference in section 55(b)(3)(B) to the excess described in section 1(h)(1)(B) shall be treated as a reference to such excess as determined under the rules of subparagraph (A) for purposes of determining the tax under paragraph (1)(A)(i).
+      - **(ii)** the reference in section 55(b)(3)(B) to the excess described in section 1(h)(1)(B), and the reference in section 55(b)(3)(C)(ii) to the excess described in section 1(h)(1)(C)(ii), shall each be treated as a reference to each such excess as determined under the rules of subparagraph (A) for purposes of determining the tax under paragraph (1)(A)(i).
     - **(C)** Terms used in this paragraph which are also used in section 1(h) shall have the respective meanings given such terms by section 1(h), except that in applying subparagraph (B) the adjustments under part VI of subchapter A shall be taken into account.
 - **(g)** For administrative and penal provisions relating to the exclusions provided for in this section, see sections 6001, 6011, 6012(c), and the other provisions of subtitle F.

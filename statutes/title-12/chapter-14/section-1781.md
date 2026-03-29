@@ -3,9 +3,9 @@ title: "Section 1781 - Insurance of member accounts"
 usc_title: 12
 usc_section: "1781"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 1781"
-generated_at: "2026-03-29T18:04:43.534Z"
+generated_at: "2026-03-29T18:24:02.876Z"
 ---
 
 # § 1781. Insurance of member accounts
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T18:04:43.534Z"
     - **(D)** the convenience and needs of the members to be served by the applicant; and
     - **(E)** whether the applicant is a cooperative association organized for the purpose of promoting thrift among its members and creating a source of credit for provident or productive purposes.
   - **(2)** The Board shall disapprove the application of any credit union for insurance of its member accounts if it finds that its reserves are inadequate, that its financial condition and policies are unsafe or unsound, that its management is unfit, that insurance of its member accounts would otherwise involve undue risk to the fund, or that its powers and purposes are inconsistent with the promotion of thrift among its members and the creation of a source of credit for provident or productive purposes.
-  - **(3)** Repealed. Pub. L. 95–22, title III, § 301 , Apr. 19, 1977 , 91 Stat. 49 .
+  - **(3)** Repealed. Pub. L. 95–22, title III , § 301, Apr. 19, 1977 , 91 Stat. 49 .
 - **(d)** Upon the approval of any application for insurance, the Board shall notify the applicant and shall issue to it a certificate evidencing the fact that it is, as of the date of issuance of the certificate, an insured credit union under the provisions of this subchapter.
 - **(e)**
   - **(1)** No insured credit union may be sponsored by or accept financial support, directly or indirectly, from any Government-sponsored enterprise, if the credit union includes the customers of the Government-sponsored enterprise in the field of membership of the credit union.

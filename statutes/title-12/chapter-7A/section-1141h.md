@@ -3,9 +3,9 @@ title: "Section 1141h - Avoidance of duplication; cooperation with other governm
 usc_title: 12
 usc_section: "1141h"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 1141h"
-generated_at: "2026-03-29T18:04:43.421Z"
+generated_at: "2026-03-29T18:24:02.770Z"
 ---
 
 # § 1141h. Avoidance of duplication; cooperation with other governmental establishments; obtaining information and data; cooperation with States, Territories, and agencies or subdivisions thereof; indicating research problems; transfer of offices, functions, etc.

@@ -3,14 +3,14 @@ title: "Section 431 - Authority to engage in commercial activities as security f
 usc_title: 10
 usc_section: "431"
 chapter: 21
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 431"
-generated_at: "2026-03-29T18:04:12.982Z"
+generated_at: "2026-03-29T18:23:51.739Z"
 ---
 
 # § 431. Authority to engage in commercial activities as security for intelligence collection activities
 
-- **(a)** The Secretary of Defense, subject to the provisions of this subchapter, may authorize the conduct of those commercial activities necessary to provide security for authorized intelligence collection activities abroad undertaken by the Department of Defense. No commercial activity may be initiated pursuant to this subchapter after December 31, 2015 .
+- **(a)** The Secretary of Defense, subject to the provisions of this subchapter, may authorize the conduct of those commercial activities necessary to provide security for authorized intelligence collection activities abroad undertaken by the Department of Defense. No commercial activity may be initiated pursuant to this subchapter after December 31, 2017 .
 - **(b)** Any such activity shall—
   - **(1)** be coordinated with, and (where appropriate) be supported by, the Director of the Central Intelligence Agency; and
   - **(2)** to the extent the activity takes place within the United States, be coordinated with, and (where appropriate) be supported by, the Director of the Federal Bureau of Investigation.

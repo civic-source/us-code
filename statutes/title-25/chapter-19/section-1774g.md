@@ -1,14 +1,12 @@
 ---
-title: "Section 1774g - Limitation of action"
+title: "Section 1774g - Omitted"
 usc_title: 25
 usc_section: "1774g"
 chapter: 19
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1774g"
-generated_at: "2026-03-29T18:05:17.182Z"
+generated_at: "2026-03-29T18:25:23.751Z"
 ---
 
-# § 1774g. Limitation of action
-
-Notwithstanding any other provision of law, any action to contest the constitutionality or validity under law of this subchapter shall be barred unless the action is filed on or before the date which is 180 days after November 3, 1990 . Exclusive jurisdiction over any such action is hereby vested in the United States District Court for the Western District of New York.
+# § 1774g. Omitted
 

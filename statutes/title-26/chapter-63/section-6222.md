@@ -3,9 +3,9 @@ title: "Section 6222 - Partner’s return must be consistent with partnership re
 usc_title: 26
 usc_section: "6222"
 chapter: 63
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 6222"
-generated_at: "2026-03-29T18:05:44.992Z"
+generated_at: "2026-03-29T18:25:53.914Z"
 ---
 
 # § 6222. Partner’s return must be consistent with partnership return or Secretary notified of inconsistency

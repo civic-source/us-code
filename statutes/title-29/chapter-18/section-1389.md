@@ -3,20 +3,20 @@ title: "Section 1389 - De minimis rule"
 usc_title: 29
 usc_section: "1389"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 1389"
-generated_at: "2026-03-29T18:05:31.790Z"
+generated_at: "2026-03-29T18:25:43.116Z"
 ---
 
 # § 1389. De minimis rule
 
-- **(a)** Except in the case of a plan amended under subsection (b) of this section, the amount of the unfunded vested benefits allocable under section 1391 of this title to an employer who withdraws from a plan shall be reduced by the smaller of—
+- **(a)** Except in the case of a plan amended under subsection (b), the amount of the unfunded vested benefits allocable under section 1391 of this title to an employer who withdraws from a plan shall be reduced by the smaller of—
   - **(1)** ¾ of 1 percent of the plan’s unfunded vested obligations (determined as of the end of the plan year ending before the date of withdrawal), or
   - **(2)** $50,000,
 - **(b)** A plan may be amended to provide for the reduction of the amount determined under section 1391 of this title by not more than the greater of—
-  - **(1)** the amount determined under subsection (a) of this section, or
+  - **(1)** the amount determined under subsection (a), or
   - **(2)** the lesser of—
-    - **(A)** the amount determined under subsection (a)(1) of this section, or
+    - **(A)** the amount determined under subsection (a)(1), or
     - **(B)** $100,000,
 - **(c)** This section does not apply—
   - **(1)** to an employer who withdraws in a plan year in which substantially all employers withdraw from the plan, or

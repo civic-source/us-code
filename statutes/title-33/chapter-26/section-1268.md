@@ -3,9 +3,9 @@ title: "Section 1268 - Great Lakes"
 usc_title: 33
 usc_section: "1268"
 chapter: 26
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 1268"
-generated_at: "2026-03-29T18:06:10.533Z"
+generated_at: "2026-03-29T18:26:01.226Z"
 ---
 
 # § 1268. Great Lakes
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T18:06:10.533Z"
     - **(B)** “Great Lakes” means Lake Ontario, Lake Erie, Lake Huron (including Lake St. Clair), Lake Michigan, and Lake Superior, and the connecting channels (Saint Mary’s River, Saint Clair River, Detroit River, Niagara River, and Saint Lawrence River to the Canadian Border);
     - **(C)** “Great Lakes System” means all the streams, rivers, lakes, and other bodies of water within the drainage basin of the Great Lakes;
     - **(D)** “Program Office” means the Great Lakes National Program Office established by this section;
-    - **(E)** “Research Office” means the Great Lakes Research Office established by subsection (d) of this section;
+    - **(E)** “Research Office” means the Great Lakes Research Office established by subsection (d);
     - **(F)** “area of concern” means a geographic area located within the Great Lakes, in which beneficial uses are impaired and which has been officially designated as such under Annex 2 of the Great Lakes Water Quality Agreement;
     - **(G)** “Great Lakes States” means the States of Illinois, Indiana, Michigan, Minnesota, New York, Ohio, Pennsylvania, and Wisconsin;
     - **(H)** “Great Lakes Water Quality Agreement” means the bilateral agreement, between the United States and Canada which was signed in 1978 and amended by the Protocol of 1987;
@@ -59,26 +59,44 @@ generated_at: "2026-03-29T18:06:10.533Z"
   - **(5)** The Program Office, in consultation with the Coast Guard, shall identify areas within the Great Lakes which are likely to experience numerous or voluminous spills of oil or other hazardous materials from land based facilities, vessels, or other sources and, in consultation with the Great Lakes States, shall identify weaknesses in Federal and State programs and systems to prevent and respond to such spills. This information shall be included on at least a biennial basis in the report required by this section.
   - **(6)** The Program Office shall develop, in consultation with the States, a five-year plan and program for reducing the amount of nutrients introduced into the Great Lakes. Such program shall incorporate any management program for reducing nutrient runoff from nonpoint sources established under section 1329 of this title and shall include a program for monitoring nutrient runoff into, and ambient levels in, the Great Lakes.
   - **(7)**
-    - **(A)** The Program Office shall carry out a five-year study and demonstration projects relating to the control and removal of toxic pollutants in the Great Lakes, with emphasis on the removal of toxic pollutants from bottom sediments. In selecting locations for conducting demonstration projects under this paragraph, priority consideration shall be given to projects at the following locations: Saginaw Bay, Michigan; Sheboygan Harbor, Wisconsin; Grand Calumet River, Indiana; Ashtabula River, Ohio; and Buffalo River, New York.
-    - **(B)** The Program Office shall—
-      - **(i)** by December 31, 1990 , complete chemical, physical, and biological assessments of the contaminated sediments at the locations selected for the study and demonstration projects;
-      - **(ii)** by December 31, 1990 , announce the technologies that will be demonstrated at each location and the numerical standard of protection intended to be achieved at each location;
-      - **(iii)** by December 31, 1992 , complete full or pilot scale demonstration projects on site at each location of promising technologies to remedy contaminated sediments; and
-      - **(iv)** by December 31, 1993 , issue a final report to Congress on its findings.
-    - **(C)** The Administrator, after providing for public review and comment, shall publish information concerning the public health and environmental consequences of contaminants in Great Lakes sediment. Information published pursuant to this subparagraph shall include specific numerical limits to protect health, aquatic life, and wildlife from the bioaccumulation of toxins. The Administrator shall, at a minimum, publish information pursuant to this subparagraph within 2 years of November 16, 1990 .
+    - **(A)** There is established in the Agency a Great Lakes Restoration Initiative (referred to in this paragraph as the “Initiative”) to carry out programs and projects for Great Lakes protection and restoration.
+    - **(B)** The Initiative shall prioritize programs and projects carried out in coordination with non-Federal partners and programs and projects that address priority areas each fiscal year, including—
+      - **(i)** the remediation of toxic substances and areas of concern;
+      - **(ii)** the prevention and control of invasive species and the impacts of invasive species;
+      - **(iii)** the protection and restoration of nearshore health and the prevention and mitigation of nonpoint source pollution;
+      - **(iv)** habitat and wildlife protection and restoration, including wetlands restoration and preservation; and
+      - **(v)** accountability, monitoring, evaluation, communication, and partnership activities.
+    - **(C)** Under the Initiative, the Agency shall collaborate with Federal partners, including the Great Lakes Interagency Task Force, to select the best combination of programs and projects for Great Lakes protection and restoration using appropriate principles and criteria, including whether a program or project provides—
+      - **(i)** the ability to achieve strategic and measurable environmental outcomes that implement the Great Lakes Action Plan and the Great Lakes Water Quality Agreement;
+      - **(ii)** the feasibility of—
+        - **(I)** prompt implementation;
+        - **(II)** timely achievement of results; and
+        - **(III)** resource leveraging; and
+      - **(iii)** the opportunity to improve interagency and inter-organizational coordination and collaboration to reduce duplication and streamline efforts.
+    - **(D)**
+      - **(i)** Subject to subparagraph (G)(ii), funds made available to carry out the Initiative shall be used to strategically implement—
+        - **(I)** Federal projects; and
+        - **(II)** projects carried out in coordination with States, Indian tribes, municipalities, institutions of higher education, and other organizations.
+      - **(ii)** With amounts made available for the Initiative each fiscal year, the Administrator may—
+        - **(I)** transfer not more than the total amount appropriated under subparagraph (G)(i) for the fiscal year to the head of any Federal department or agency, with the concurrence of the department or agency head, to carry out activities to support the Initiative and the Great Lakes Water Quality Agreement; and
+        - **(II)** enter into an interagency agreement with the head of any Federal department or agency to carry out activities described in subclause (I).
+    - **(E)**
+      - **(i)** Projects shall be carried out under the Initiative on multiple levels, including—
+        - **(I)** Great Lakes-wide; and
+        - **(II)** Great Lakes basin-wide.
+      - **(ii)** No funds made available to carry out the Initiative may be used for any water infrastructure activity (other than a green infrastructure project that improves habitat and other ecosystem functions in the Great Lakes) for which amounts are made available from—
+        - **(I)** a State water pollution control revolving fund established under subchapter VI; or
+        - **(II)** a State drinking water revolving loan fund established under section 300j–12 of title 42 .
+    - **(F)** Each relevant Federal department or agency shall, to the maximum extent practicable—
+      - **(i)** maintain the base level of funding for the Great Lakes activities of that department or agency without regard to funding under the Initiative; and
+      - **(ii)** identify new activities and projects to support the environmental goals of the Initiative.
+    - **(G)** There are authorized to be appropriated to carry out this paragraph for fiscal year 2016, $300,000,000.
   - **(8)** The Administrator shall ensure that the Program Office enters into agreements with the various organizational elements of the Agency involved in Great Lakes activities and the appropriate State agencies specifically delineating—
     - **(A)** the duties and responsibilities of each such element in the Agency with respect to the Great Lakes;
     - **(B)** the time periods for carrying out such duties and responsibilities; and
     - **(C)** the resources to be committed to such duties and responsibilities.
   - **(9)** The Administrator shall, in the Agency’s annual budget submission to Congress, include a funding request for the Program Office as a separate budget line item.
-  - **(10)** Within 90 days after the end of each fiscal year, the Administrator shall submit to Congress a comprehensive report which—
-    - **(A)** describes the achievements in the preceding fiscal year in implementing the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments, and shows by categories (including judicial enforcement, research, State cooperative efforts, and general administration) the amounts expended on Great Lakes water quality initiatives in such preceding fiscal year;
-    - **(B)** describes the progress made in such preceding fiscal year in implementing the system of surveillance of the water quality in the Great Lakes System, including the monitoring of groundwater and sediment, with particular reference to toxic pollutants;
-    - **(C)** describes the long-term prospects for improving the condition of the Great Lakes; and
-    - **(D)** provides a comprehensive assessment of the planned efforts to be pursued in the succeeding fiscal year for implementing the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,, 1 which assessment shall—
-      - **(i)** show by categories (including judicial enforcement, research, State cooperative efforts, and general administration) the amount anticipated to be expended on Great Lakes water quality initiatives in the fiscal year to which the assessment relates; and
-      - **(ii)** include a report of current programs administered by other Federal agencies which make available resources to the Great Lakes water quality management efforts.
-  - **(11)**
+  - **(10)**
     - **(A)** The Administrator, in consultation with the Assistant Secretary of the Army for Civil Works, shall develop and implement, within one year of November 16, 1990 , management plans for every Great Lakes confined disposal facility.
     - **(B)** The plan shall provide for monitoring of such facilities, including—
       - **(i)** water quality at the site and in the area of the site;
@@ -87,7 +105,7 @@ generated_at: "2026-03-29T18:06:10.533Z"
       - **(iv)** such other conditions as the Administrator deems appropriate.
     - **(C)** The plan shall identify the anticipated use and management of the site over the following twenty-year period including the expected termination of dumping at the site, the anticipated need for site management, including pollution control, following the termination of the use of the site.
     - **(D)** The plan shall identify a schedule for review and revision of the plan which shall not be less frequent than five years after adoption of the plan and every five years thereafter.
-  - **(12)**
+  - **(11)**
     - **(A)** In accordance with this paragraph, the Administrator, acting through the Program Office, may carry out projects that meet the requirements of subparagraph (B).
     - **(B)** A project meets the requirements of this subparagraph if the project is to be carried out in an area of concern located wholly or partially in the United States and the project—
       - **(i)** monitors or evaluates contaminated sediment;
@@ -126,7 +144,7 @@ generated_at: "2026-03-29T18:06:10.533Z"
       - **(i)** In addition to other amounts authorized under this section, there is authorized to be appropriated to carry out this paragraph $50,000,000 for each of fiscal years 2004 through 2010.
       - **(ii)** Funds made available under clause (i) shall remain available until expended.
       - **(iii)** Not more than 20 percent of the funds appropriated pursuant to clause (i) for a fiscal year may be used to carry out subparagraph (F).
-  - **(13)**
+  - **(12)**
     - **(A)** The Administrator, acting through the Program Office and in coordination with States, Indian tribes, local governments, and other entities, may carry out a public information program to provide information relating to the remediation of contaminated sediment to the public in areas of concern that are located wholly or partially in the United States.
     - **(B)** There is authorized to be appropriated to carry out this paragraph $1,000,000 for each of fiscal years 2004 through 2010.
 - **(d)**

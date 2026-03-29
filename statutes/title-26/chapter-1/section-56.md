@@ -3,9 +3,9 @@ title: "Section 56 - Adjustments in computing alternative minimum taxable income
 usc_title: 26
 usc_section: "56"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 56"
-generated_at: "2026-03-29T18:05:44.454Z"
+generated_at: "2026-03-29T18:25:53.406Z"
 ---
 
 # § 56. Adjustments in computing alternative minimum taxable income
@@ -40,12 +40,11 @@ generated_at: "2026-03-29T18:05:44.454Z"
     - **(B)** In determining the amount allowable as a deduction under section 213, subsection (a) of section 213 shall be applied without regard to subsection (f) of such section.
     - **(C)** In determining the amount allowable as a deduction for interest, subsections (d) and (h) of section 163 shall apply, except that—
       - **(i)** in lieu of the exception under section 163(h)(2)(D), the term “personal interest” shall not include any qualified housing interest (as defined in subsection (e)),
-      - **(ii)** sections 163(d)(6) and 163(h)(5) (relating to phase-ins) shall not apply,
-      - **(iii)** interest on any specified private activity bond (and any amount treated as interest on a specified private activity bond under section 57(a)(5)(B)), and any deduction referred to in section 57(a)(5)(A), shall be treated as includible in gross income (or as deductible) for purposes of applying section 163(d),
-      - **(iv)** in lieu of the exception under section 163(d)(3)(B)(i), the term “investment interest” shall not include any qualified housing interest (as defined in subsection (e)), and
-      - **(v)** the adjustments of this section and sections 57 and 58 shall apply in determining net investment income under section 163(d).
+      - **(ii)** interest on any specified private activity bond (and any amount treated as interest on a specified private activity bond under section 57(a)(5)(B)), and any deduction referred to in section 57(a)(5)(A), shall be treated as includible in gross income (or as deductible) for purposes of applying section 163(d),
+      - **(iii)** in lieu of the exception under section 163(d)(3)(B)(i), the term “investment interest” shall not include any qualified housing interest (as defined in subsection (e)), and
+      - **(iv)** the adjustments of this section and sections 57 and 58 shall apply in determining net investment income under section 163(d).
     - **(D)** No recovery of any tax to which subparagraph (A)(ii) applied shall be included in gross income for purposes of determining alternative minimum taxable income.
-    - **(E)** The standard deduction under section 63(c), the deduction for personal exemptions under section 151, and the deduction under section 642(b) shall not be allowed. The preceding sentence shall not apply to so much of the standard deduction as is determined under subparagraphs (D) and (E) of section 63(c)(1).
+    - **(E)** The standard deduction under section 63(c), the deduction for personal exemptions under section 151, and the deduction under section 642(b) shall not be allowed. The preceding sentence shall not apply to so much of the standard deduction as is determined under subparagraphs (D) and (E) 1 1 See References in Text note below. of section 63(c)(1).
     - **(F)** Section 68 shall not apply.
   - **(2)**
     - **(A)** The amount allowable as a deduction under section 173 or 174(a) in computing the regular tax for amounts paid or incurred after December 31, 1986 , shall be capitalized and—
@@ -72,7 +71,7 @@ generated_at: "2026-03-29T18:05:44.454Z"
         - **(I)** the amount of such deduction attributable to net operating losses (other than the deduction described in clause (ii)(I)), or
         - **(II)** 90 percent of alternative minimum taxable income determined without regard to such deduction and the deduction under section 199, plus
       - **(ii)** the lesser of—
-        - **(I)** the amount of such deduction attributable to an applicable net operating loss with respect to which an election is made under section 172(b)(1)(H), or
+        - **(I)** the amount of such deduction attributable to an applicable net operating loss with respect to which an election is made under section 172(b)(1)(H), 1 or
         - **(II)** alternative minimum taxable income determined without regard to such deduction and the deduction under section 199 reduced by the amount determined under clause (i), and
     - **(B)** in determining the amount of such deduction—
       - **(i)** the net operating loss (within the meaning of section 172(c)) for any loss year shall be adjusted as provided in paragraph (2), and
@@ -82,7 +81,6 @@ generated_at: "2026-03-29T18:05:44.454Z"
       - **(i)** be determined with the adjustments provided in this section and section 58, and
       - **(ii)** be reduced by the items of tax preference determined under section 57 for such year.
     - **(B)** In the case of loss years beginning before January 1, 1987 , the amount of the net operating loss which may be carried over to taxable years beginning after December 31, 1986 , for purposes of paragraph (2), shall be equal to the amount which may be carried from the loss year to the first taxable year of the taxpayer beginning after December 31, 1986 .
-  - **(3)** In the case of a taxpayer which has a qualified disaster loss (as defined by section 172(b)(1)(J)) for the taxable year, paragraph (1) shall be applied by increasing the amount determined under subparagraph (A)(ii)(I) thereof by the sum of the carrybacks and carryovers of such loss.
 - **(e)** For purposes of this part—
   - **(1)** The term “qualified housing interest” means interest which is qualified residence interest (as defined in section 163(h)(3)) and is paid or accrued during the taxable year on indebtedness which is incurred in acquiring, constructing, or substantially improving any property which—
     - **(A)** is the principal residence (within the meaning of section 121) of the taxpayer at the time such interest accrues, or
@@ -158,7 +156,7 @@ generated_at: "2026-03-29T18:05:44.454Z"
     - **(E)** No loss shall be recognized on the exchange of any pool of debt obligations for another pool of debt obligations having substantially the same effective interest rates and maturities.
     - **(F)**
       - **(i)** The allowance for depletion with respect to any property placed in service in a taxable year beginning after December 31, 1989 , shall be cost depletion determined under section 611.
-      - **(ii)** In the case of any taxable year beginning after December 31, 1992 , clause (i) (and subparagraph (C)(i)) shall not apply to any deduction for depletion computed in accordance with section 613A(c).
+      - **(ii)** Clause (i) (and subparagraph (C)(i)) shall not apply to any deduction for depletion computed in accordance with section 613A(c).
     - **(G)** If—
       - **(i)** there is an ownership change (within the meaning of section 382) in a taxable year beginning after 1989 with respect to any corporation, and
       - **(ii)** there is a net unrealized built-in loss (within the meaning of section 382(h)) with respect to such corporation,

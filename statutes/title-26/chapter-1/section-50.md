@@ -3,9 +3,9 @@ title: "Section 50 - Other special rules"
 usc_title: 26
 usc_section: "50"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 50"
-generated_at: "2026-03-29T18:05:44.447Z"
+generated_at: "2026-03-29T18:25:53.399Z"
 ---
 
 # § 50. Other special rules
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T18:05:44.447Z"
     - **(B)** Any amount which would have been applied as a reduction under paragraph (2) of section 47(b) but for the fact that a reduction under such paragraph cannot reduce the amount taken into account under section 47(b)(1) below zero shall be treated as an amount required to be recaptured under subparagraph (A) for the taxable year during which the building is placed in service.
     - **(C)** Under regulations prescribed by the Secretary, a sale by, and leaseback to, a taxpayer who, when the property is placed in service, will be a lessee to whom the rules referred to in subsection (d)(5) apply shall not be treated as a cessation described in subparagraph (A) to the extent that the amount which will be passed through to the lessee under such rules with respect to such property is not less than the qualified rehabilitation expenditures properly taken into account by the lessee under section 47(d) with respect to such property.
     - **(D)** If, after property is placed in service, there is a disposition or other cessation described in paragraph (1), then paragraph (1) shall be applied as if any credit which was allowable by reason of section 47(d) and which has not been required to be recaptured before such disposition, cessation, or change in use were allowable for the taxable year the property was placed in service.
-    - **(E)** Rules similar to the rules of this paragraph shall apply in cases where qualified progress expenditures were taken into account under the rules referred to in section 48(b).
+    - **(E)** Rules similar to the rules of this paragraph shall apply in cases where qualified progress expenditures were taken into account under the rules referred to in section 48(b), 48A(b)(3), 48B(b)(3), 48C(b)(2), or 48D(b)(4).
   - **(3)** In the case of any cessation described in paragraph (1) or (2), the carrybacks and carryovers under section 39 shall be adjusted by reason of such cessation.
   - **(4)** Paragraphs (1) and (2) shall not apply to—
     - **(A)** a transfer by reason of death, or

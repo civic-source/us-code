@@ -3,9 +3,9 @@ title: "Section 2704 - International Trade Commission reports on impact of Carib
 usc_title: 19
 usc_section: "2704"
 chapter: 15
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 2704"
-generated_at: "2026-03-29T18:04:55.121Z"
+generated_at: "2026-03-29T18:24:16.189Z"
 ---
 
 # § 2704. International Trade Commission reports on impact of Caribbean Basin Economic Recovery Program
@@ -15,12 +15,12 @@ generated_at: "2026-03-29T18:04:55.121Z"
   - **(2)** The first report shall be submitted not later than September 30, 2001 .
   - **(3)** For purposes of this section, industries in the Commonwealth of Puerto Rico and the insular possessions of the United States are considered to be United States industries.
 - **(b)**
-  - **(1)** Each report required under subsection (a) of this section shall include, but not be limited to, an assessment by the Commission regarding—
+  - **(1)** Each report required under subsection (a) shall include, but not be limited to, an assessment by the Commission regarding—
     - **(A)** the actual effect, during the period covered by the report, of this Act on the United States economy generally as well as on those specific domestic industries which produce articles that are like, or directly competitive with, articles being imported into the United States from beneficiary countries; and
     - **(B)** the probable future effect which this Act will have on the United States economy generally, as well as on such domestic industries, before the provisions of this Act terminate.
   - **(2)** In preparing the assessments required under paragraph (1), the Commission shall, to the extent practicable—
     - **(A)** analyze the production, trade and consumption of United States products affected by this Act, taking into consideration employment, profit levels, and use of productive facilities with respect to the domestic industries concerned, and such other economic factors in such industries as it considers relevant, including prices, wages, sales, inventories, patterns of demand, capital investment, obsolescence of equipment, and diversification of production; and
     - **(B)** describe the nature and extent of any significant change in employment, profit levels, and use of productive facilities, and such other conditions as it deems relevant in the domestic industries concerned, which it believes are attributable to this Act.
 - **(c)**
-  - **(1)** Each report required under subsection (a) of this section shall be submitted to the Congress and to the President before the close of the nine-month period beginning on the day after the last day of the period covered by the report.
+  - **(1)** Each report required under subsection (a) shall be submitted to the Congress and to the President before the close of the nine-month period beginning on the day after the last day of the period covered by the report.
   - **(2)** The Commission shall provide opportunity for the submission by the public, either orally or in writing, or both, of information relating to matters that will be addressed in the reports.

@@ -3,9 +3,9 @@ title: "Section 5301 - Congressional statement of findings"
 usc_title: 25
 usc_section: "5301"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 5301"
-generated_at: "2026-03-29T02:13:21.003Z"
+generated_at: "2026-03-29T18:25:23.833Z"
 ---
 
 # § 5301. Congressional statement of findings

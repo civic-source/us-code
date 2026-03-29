@@ -1,12 +1,12 @@
 ---
-title: "Section 8814 - Repealed. Pub. L. 96–513, title II, § 214 , Dec. 12, 1980 , 94 Stat. 2885 ]"
+title: "Section 8814 - Repealed. Pub. L. 96–513, title II , § 214, Dec. 12, 1980 , 94 Stat. 2885 ]"
 usc_title: 10
 usc_section: "8814"
 chapter: 861
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 8814"
-generated_at: "2026-03-29T18:04:13.293Z"
+generated_at: "2026-03-29T18:23:52.088Z"
 ---
 
-# [§ 8814. Repealed. Pub. L. 96–513, title II, § 214 , Dec. 12, 1980 , 94 Stat. 2885 ]
+# [§ 8814. Repealed. Pub. L. 96–513, title II , § 214, Dec. 12, 1980 , 94 Stat. 2885 ]
 

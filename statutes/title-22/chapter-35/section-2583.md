@@ -3,9 +3,9 @@ title: "Section 2583 - Repealed. Pub. L. 105–277, div. G , subdiv. A, title XI
 usc_title: 22
 usc_section: "2583"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 2583"
-generated_at: "2026-03-29T02:12:40.100Z"
+generated_at: "2026-03-29T18:24:54.239Z"
 ---
 
 # §§ 2582, 2583. Repealed. Pub. L. 105–277, div. G , subdiv. A, title XII, § 1222, Oct. 21, 1998 , 112 Stat. 2681–768

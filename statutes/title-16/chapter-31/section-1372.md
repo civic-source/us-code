@@ -3,14 +3,14 @@ title: "Section 1372 - Prohibitions"
 usc_title: 16
 usc_section: "1372"
 chapter: 31
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 1372"
-generated_at: "2026-03-29T18:05:06.923Z"
+generated_at: "2026-03-29T18:24:22.786Z"
 ---
 
 # § 1372. Prohibitions
 
-- **(a)** Except as provided in sections 1371, 1373, 1374, 1379, 1381, 1383, 1383a, and 1387 of this title and subchapter V of this chapter, it is unlawful—
+- **(a)** Except as provided in sections 1371, 1373, 1374, 1379, 1381, 1383, 1383a, and 1387 of this title and subchapter V, it is unlawful—
   - **(1)** for any person subject to the jurisdiction of the United States or any vessel or other conveyance subject to the jurisdiction of the United States to take any marine mammal on the high seas;
   - **(2)** except as expressly provided for by an international treaty, convention, or agreement to which the United States is a party and which was entered into before the effective date of this subchapter or by any statute implementing any such treaty, convention, or agreement—
     - **(A)** for any person or vessel or other conveyance to take any marine mammal in waters or on lands under the jurisdiction of the United States; or

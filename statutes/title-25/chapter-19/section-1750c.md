@@ -1,24 +1,12 @@
 ---
-title: "Section 1750c - Authority of Secretary"
+title: "Section 1750c - Omitted"
 usc_title: 25
 usc_section: "1750c"
 chapter: 19
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1750c"
-generated_at: "2026-03-29T18:05:17.177Z"
+generated_at: "2026-03-29T18:25:23.751Z"
 ---
 
-# § 1750c. Authority of Secretary
+# § 1750c. Omitted
 
-As Trustee for the Miccosukee Tribe, the Secretary shall—
-
-  - **(1)**
-    - **(A)** aid and assist in the fulfillment of the Settlement Agreement at all times and in a reasonable manner; and
-    - **(B)** to accomplish the fulfillment of the Settlement Agreement in accordance with subparagraph (A), cooperate with and assist the Miccosukee Tribe;
-  - **(2)** upon finding that the Settlement Agreement is legally sufficient and that the State of Florida has the necessary authority to fulfill the Agreement—
-    - **(A)** sign the Settlement Agreement on behalf of the United States; and
-    - **(B)** ensure that an individual other than the Secretary who is a representative of the Bureau of Indian Affairs also signs the Settlement Agreement;
-  - **(3)** upon finding that all necessary conditions precedent to the transfer of Miccosukee land to the Florida Department of Transportation as provided in the Settlement Agreement have been or will be met so that the Agreement has been or will be fulfilled, but for the execution of that land transfer and related land transfers—
-    - **(A)** transfer ownership of the Miccosukee land to the Florida Department of Transportation in accordance with the Settlement Agreement, including in the transfer solely and exclusively that Miccosukee land identified in the Settlement Agreement for transfer to the Florida Department of Transportation; and
-    - **(B)** in conjunction with the land transfer referred to in subparagraph (A), transfer no land other than the land referred to in that subparagraph to the Florida Department of Transportation; and
-  - **(4)** upon finding that all necessary conditions precedent to the transfer of Florida lands from the State of Florida to the United States have been or will be met so that the Agreement has been or will be fulfilled but for the execution of that land transfer and related land transfers, receive and accept in trust for the use and benefit of the Miccosukee Tribe ownership of all land identified in the Settlement Agreement for transfer to the United States.

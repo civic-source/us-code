@@ -3,9 +3,9 @@ title: "Section 9812 - Definitions"
 usc_title: 20
 usc_section: "9812"
 chapter: 78
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 9812"
-generated_at: "2026-03-29T18:05:00.430Z"
+generated_at: "2026-03-29T18:24:41.192Z"
 ---
 
 # § 9812. Definitions
@@ -22,7 +22,7 @@ In this part:
     - **(B)**
       - **(i)** for which there is a high percentage of teachers providing instruction in academic subject areas or grade levels for which the teachers are not highly qualified; or
       - **(ii)** for which there is a high teacher turnover rate or a high percentage of teachers with emergency, provisional, or temporary certification or licensure.
-  - **(4)** The term “highly qualified” has the meaning given such term in section 7801 of this title and, with respect to special education teachers, in section 1401 of this title .
+  - **(4)** The term “highly qualified” has the meaning given such term in section 9101 1 1 See References in Text note below. of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7801 ) and, with respect to special education teachers, in section 1401 1 of this title.
   - **(5)** The term “partnership” means a partnership that—
     - **(A)** shall include—
       - **(i)** an eligible recipient;

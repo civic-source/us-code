@@ -3,9 +3,9 @@ title: "Section 2305 - Federal Land Disposal Account"
 usc_title: 43
 usc_section: "2305"
 chapter: 41
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 2305"
-generated_at: "2026-03-29T18:06:28.392Z"
+generated_at: "2026-03-29T18:26:14.911Z"
 ---
 
 # § 2305. Federal Land Disposal Account
@@ -33,7 +33,7 @@ generated_at: "2026-03-29T18:06:28.392Z"
 - **(d)** Funds in the Federal Land Disposal Account shall not be used to purchase land or an interest in land that, as determined by the Secretary or the Secretary of Agriculture—
   - **(1)** contains a hazardous substance or is otherwise contaminated; or
   - **(2)** because of the location or other characteristics of the land, would be difficult or uneconomic to manage as Federal land.
-- **(e)** Funds made available under this section shall be supplemental to any funds appropriated under the Land and Water Conservation Fund Act ( 16 U.S.C. 460l–4 et seq.).
+- **(e)** Funds made available under this section shall be supplemental to any funds appropriated under chapter 2003 of title 54.
 - **(f)** On termination of activities under section 2304 of this title —
   - **(1)** the Federal Land Disposal Account shall be terminated; and
-  - **(2)** any remaining balance in the account shall become available for appropriation under section 3 of the Land and Water Conservation Fund Act ( 16 U.S.C. 460l–6 ).
+  - **(2)** any remaining balance in the account shall become available for appropriation under section 200303 of title 54 .

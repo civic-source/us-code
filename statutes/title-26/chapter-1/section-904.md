@@ -3,9 +3,9 @@ title: "Section 904 - Limitation on credit"
 usc_title: 26
 usc_section: "904"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 904"
-generated_at: "2026-03-29T18:05:44.736Z"
+generated_at: "2026-03-29T18:25:53.682Z"
 ---
 
 # § 904. Limitation on credit
@@ -92,13 +92,7 @@ generated_at: "2026-03-29T18:05:44.736Z"
         - **(I)** In the case of taxes paid or accrued in taxable years beginning after December 31, 2004 , and before January 1, 2007 , a taxpayer may elect to treat tax imposed under the law of a foreign country or possession of the United States on an amount which does not constitute income under United States tax principles as tax imposed on income described in subparagraph (C) or (I) of paragraph (1).
         - **(II)** Any such election shall apply to the taxable year for which made and all subsequent taxable years described in subclause (I) unless revoked with the consent of the Secretary.
     - **(I)** For purposes of this paragraph, the term “related person” has the meaning given such term by section 954(d)(3), except that such section shall be applied by substituting “the person with respect to whom the determination is being made” for “controlled foreign corporation” each place it appears.
-    - **(J)** For purposes of paragraph (1)—
-      - **(i)** taxes paid or accrued in a taxable year beginning before January 1, 1987 , with respect to income which was described in subparagraph (A) of paragraph (1) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) shall be treated as taxes paid or accrued with respect to income described in subparagraph (A) of paragraph (1) (as in effect after such date),
-      - **(ii)** taxes paid or accrued in a taxable year beginning before January 1, 1987 , with respect to income which was described in subparagraph (E) of paragraph (1) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) shall be treated as taxes paid or accrued with respect to income described in subparagraph (I) of paragraph (1) (as in effect after such date) except that—
-        - **(I)** such taxes shall be treated as paid or accrued with respect to shipping income to the extent the taxpayer establishes to the satisfaction of the Secretary that such taxes were paid or accrued with respect to such income,
-        - **(II)** in the case of a person described in subparagraph (C)(i), such taxes shall be treated as paid or accrued with respect to financial services income to the extent the taxpayer establishes to the satisfaction of the Secretary that such taxes were paid or accrued with respect to such income, and
-        - **(III)** such taxes shall be treated as paid or accrued with respect to high withholding tax interest to the extent the taxpayer establishes to the satisfaction of the Secretary that such taxes were paid or accrued with respect to such income, and
-      - **(iii)** taxes paid or accrued in a taxable year beginning before January 1, 1987 , with respect to income described in any other subparagraph of paragraph (1) (as so in effect before such date) shall be treated as taxes paid or accrued with respect to income described in the corresponding subparagraph of paragraph (1) (as so in effect after such date).
+    - **[(J)**
     - **(K)** For purposes of paragraph (1)—
       - **(i)** taxes carried from any taxable year beginning before January 1, 2007 , to any taxable year beginning on or after such date, with respect to any item of income, shall be treated as described in the subparagraph of paragraph (1) in which such income would be described were such taxes paid or accrued in a taxable year beginning on or after such date, and
       - **(ii)** the Secretary may by regulations provide for the allocation of any carryback of taxes with respect to income from a taxable year beginning on or after January 1, 2007 , to a taxable year beginning before such date for purposes of allocating such income among the separate categories in effect for the taxable year to which carried.
@@ -223,7 +217,7 @@ generated_at: "2026-03-29T18:05:44.736Z"
   - **(6)** For purposes of this subsection, the term “United States-owned foreign corporation” means any foreign corporation if 50 percent or more of—
     - **(A)** the total combined voting power of all classes of stock of such corporation entitled to vote, or
     - **(B)** the total value of the stock of such corporation,
-  - **(7)** For purposes of this subsection, the term “dividend” includes any gain treated as ordinary income under section 1246 3 3 See References in Text note below. or as a dividend under section 1248.
+  - **(7)** For purposes of this subsection, the term “dividend” includes any gain treated as a dividend under section 1248.
   - **(8)** This subsection shall be applied before subsection (f).
   - **(9)** In the case of any dividend treated as not from sources within the United States under section 861(a)(2)(A), the corporation paying such dividend shall be treated for purposes of this subsection as a United States-owned foreign corporation.
   - **(10)**

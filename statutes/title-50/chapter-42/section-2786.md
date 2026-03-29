@@ -3,9 +3,9 @@ title: "Section 2786 - Enhanced procurement authority to manage supply chain ris
 usc_title: 50
 usc_section: "2786"
 chapter: 42
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 2786"
-generated_at: "2026-03-29T18:07:43.092Z"
+generated_at: "2026-03-29T18:27:35.663Z"
 ---
 
 # § 2786. Enhanced procurement authority to manage supply chain risk
@@ -53,14 +53,14 @@ generated_at: "2026-03-29T18:07:43.092Z"
     - **(B)** The exclusion of a source that fails to achieve an acceptable rating with regard to an evaluation factor providing for the consideration of supply chain risk in the evaluation of proposals for the award of a contract or the issuance of a task or delivery order.
     - **(C)** The withholding of consent for a contractor to subcontract with a particular source or the direction to a contractor for a covered system to exclude a particular source from consideration for a subcontract under the contract.
   - **(5)** The term “covered system” means the following:
-    - **(A)** National security systems (as defined in section 3542(b) of title 44 ) and components of such systems.
+    - **(A)** National security systems (as defined in section 3542(b) 1 1 See References in Text note below. of title 44) and components of such systems.
     - **(B)** Nuclear weapons and components of nuclear weapons.
     - **(C)** Items associated with the design, development, production, and maintenance of nuclear weapons or components of nuclear weapons.
     - **(D)** Items associated with the surveillance of the nuclear weapon stockpile.
     - **(E)** Items associated with the design and development of nonproliferation and counterproliferation programs and systems.
   - **(6)** The term “supply chain risk” means the risk that an adversary may sabotage, maliciously introduce unwanted function, or otherwise subvert the design, integrity, manufacturing, production, distribution, installation, operation, or maintenance of a covered system or covered item of supply so as to surveil, deny, disrupt, or otherwise degrade the function, use, or operation of the system or item of supply.
 - **(g)**
-  - **(1)** This section shall take effect on the date that is 180 days after December 26, 2013 .
+  - **(1)** This section shall take effect on June 24, 2014 .
   - **(2)** The authority under subsection (a) shall apply to—
     - **(A)** contracts awarded on or after the effective date specified in paragraph (1); and
     - **(B)** task and delivery orders issued on or after that effective date pursuant to contracts awarded before, on, or after that effective date.

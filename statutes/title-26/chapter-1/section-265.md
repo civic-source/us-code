@@ -3,9 +3,9 @@ title: "Section 265 - Expenses and interest relating to tax-exempt income"
 usc_title: 26
 usc_section: "265"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 265"
-generated_at: "2026-03-29T18:05:44.551Z"
+generated_at: "2026-03-29T18:25:53.498Z"
 ---
 
 # § 265. Expenses and interest relating to tax-exempt income

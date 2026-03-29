@@ -3,9 +3,9 @@ title: "Section 1427 - Requirements of naturalization"
 usc_title: 8
 usc_section: "1427"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "8 U.S.C. § 1427"
-generated_at: "2026-03-29T18:03:34.090Z"
+generated_at: "2026-03-29T18:23:33.976Z"
 ---
 
 # § 1427. Requirements of naturalization
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T18:03:34.090Z"
 - **(b)** Absence from the United States of more than six months but less than one year during the period for which continuous residence is required for admission to citizenship, immediately preceding the date of filing the application for naturalization, or during the period between the date of filing the application and the date of any hearing under section 1447(a) of this title , shall break the continuity of such residence, unless the applicant shall establish to the satisfaction of the Attorney General that he did not in fact abandon his residence in the United States during such period.
   - **(1)** prior to the beginning of such period of employment (whether such period begins before or after his departure from the United States), but prior to the expiration of one year of continuous absence from the United States, the person has established to the satisfaction of the Attorney General that his absence from the United States for such period is to be on behalf of such Government, or for the purpose of carrying on scientific research on behalf of such institution, or to be engaged in the development of such foreign trade and commerce or whose residence abroad is necessary to the protection of the property rights in such countries in such firm or corporation, or to be employed by a public international organization of which the United States is a member by treaty or statute and by which the alien was not employed until after being lawfully admitted for permanent residence; and
   - **(2)** such person proves to the satisfaction of the Attorney General that his absence from the United States for such period has been for such purpose.
-- **(c)** The granting of the benefits of subsection (b) of this section shall not relieve the applicant from the requirement of physical presence within the United States for the period specified in subsection (a) of this section, except in the case of those persons who are employed by, or under contract with, the Government of the United States. In the case of a person employed by or under contract with Central Intelligence Agency, the requirement in subsection (b) of this section of an uninterrupted period of at least one year of physical presence in the United States may be complied with by such person at any time prior to filing an application for naturalization.
+- **(c)** The granting of the benefits of subsection (b) of this section shall not relieve the applicant from the requirement of physical presence within the United States for the period specified in subsection (a) of this section, except in the case of those persons who are employed by, or under contract with, the Government of the United States. In the case of a person employed by or under contract with Central Intelligence Agency, the requirement in subsection (b) of an uninterrupted period of at least one year of physical presence in the United States may be complied with by such person at any time prior to filing an application for naturalization.
 - **(d)** No finding by the Attorney General that the applicant is not deportable shall be accepted as conclusive evidence of good moral character.
 - **(e)** In determining whether the applicant has sustained the burden of establishing good moral character and the other qualifications for citizenship specified in subsection (a) of this section, the Attorney General shall not be limited to the applicant’s conduct during the five years preceding the filing of the application, but may take into consideration as a basis for such determination the applicant’s conduct and acts at any time prior to that period.
 - **(f)**

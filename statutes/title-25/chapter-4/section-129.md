@@ -3,9 +3,9 @@ title: "Section 129 - Moneys due Indians holding captives other than Indians wit
 usc_title: 25
 usc_section: "129"
 chapter: 4
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 129"
-generated_at: "2026-03-29T18:05:17.026Z"
+generated_at: "2026-03-29T18:25:23.663Z"
 ---
 
 # § 129. Moneys due Indians holding captives other than Indians withheld

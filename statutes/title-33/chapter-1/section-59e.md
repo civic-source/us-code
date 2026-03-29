@@ -3,9 +3,9 @@ title: "Section 59e - Bayou Lafourche, Louisiana"
 usc_title: 33
 usc_section: "59e"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 59e"
-generated_at: "2026-03-29T18:06:10.464Z"
+generated_at: "2026-03-29T18:26:01.154Z"
 ---
 
 # § 59e. Bayou Lafourche, Louisiana

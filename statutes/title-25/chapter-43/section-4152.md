@@ -3,9 +3,9 @@ title: "Section 4152 - Allocation formula"
 usc_title: 25
 usc_section: "4152"
 chapter: 43
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 4152"
-generated_at: "2026-03-29T18:05:17.258Z"
+generated_at: "2026-03-29T18:25:23.820Z"
 ---
 
 # § 4152. Allocation formula
@@ -34,7 +34,7 @@ generated_at: "2026-03-29T18:05:17.258Z"
   - **(3)** Other objectively measurable conditions as the Secretary and the Indian tribes may specify.
 - **(c)** In establishing the formula, the Secretary shall consider—
   - **(1)** the relative administrative capacities and other challenges faced by the recipient, including, but not limited to geographic distribution within the Indian area and technical capacity; and
-  - **(2)** the extent to which terminations of assistance under subchapter V of this chapter will affect funding available to State recognized tribes.
+  - **(2)** the extent to which terminations of assistance under subchapter V will affect funding available to State recognized tribes.
 - **(d)**
   - **(1)**
     - **(A)** Except with respect to an Indian tribe described in subparagraph (B), the formula shall provide that, if, in any fiscal year, the total amount made available for assistance under this chapter is equal to or greater than the total amount made available for fiscal year 1996 for assistance for the operation and modernization of public housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority pursuant to the United States Housing Act of 1937 [ 42 U.S.C. 1437 et seq.], the amount provided for such fiscal year for each Indian tribe for which such operating or modernization assistance was provided for fiscal year 1996 shall not be less than the total amount of such operating and modernization assistance provided for fiscal year 1996 for such tribe.

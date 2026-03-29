@@ -1,14 +1,12 @@
 ---
-title: "Section 17b - Services or other accommodations for public; contracts; rates"
+title: "Section 17b - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "17b"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 17b"
-generated_at: "2026-03-29T18:05:06.377Z"
+generated_at: "2026-03-29T18:24:22.403Z"
 ---
 
-# § 17b. Services or other accommodations for public; contracts; rates
-
-The Secretary of the Interior is authorized to contract for services or other accommodations provided in the national parks and national monuments for the public under contract with the Department of the Interior, as may be required in the administration of the National Park Service, at rates approved by him for the furnishing of such services or accommodations to the Government and without compliance with the provisions of section 6101 of title 41 .
+# § 17b. Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272
 

@@ -3,9 +3,9 @@ title: "Section 3104 - Insurance of deposits"
 usc_title: 12
 usc_section: "3104"
 chapter: 32
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 3104"
-generated_at: "2026-03-29T18:04:43.673Z"
+generated_at: "2026-03-29T18:24:02.996Z"
 ---
 
 # § 3104. Insurance of deposits
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T18:04:43.673Z"
   - **(2)** Notwithstanding the previous paragraph, a branch of a foreign bank in operation on September 17, 1978 , which has applied for Federal deposit insurance pursuant to section 5 of the Federal Deposit Insurance Act [ 12 U.S.C. 1815 ] by September 17, 1979 , and has not had such application denied, may continue to accept domestic retail deposits until January 31, 1980 .
 - **(d)**
   - **(1)** After December 19, 1991 , notwithstanding any other provision of this chapter or any provision of the Federal Deposit Insurance Act [ 12 U.S.C. 1811 et seq.], in order to accept or maintain domestic retail deposit accounts having balances of less than an amount equal to the standard maximum deposit insurance amount, and requiring deposit insurance protection, a foreign bank shall—
-    - **(A)** establish 1 or more banking subsidies in the United States for that purpose; and
+    - **(A)** establish 1 or more banking subsidiaries in the United States for that purpose; and
     - **(B)** obtain Federal deposit insurance for any such subsidiary in accordance with the Federal Deposit Insurance Act.
   - **(2)** Domestic retail deposit accounts with balances of less than an amount equal to the standard maximum deposit insurance amount that require deposit insurance protection may be accepted or maintained in a branch of a foreign bank only if such branch was an insured branch on December 19, 1991 .
   - **(3)** For purposes of this subsection, the term “foreign bank” does not include any bank organized under the laws of any territory of the United States, Puerto Rico, Guam, American Samoa, or the Virgin Islands the deposits of which are insured by the Federal Deposit Insurance Corporation pursuant to the Federal Deposit Insurance Act [ 12 U.S.C. 1811 et seq.].

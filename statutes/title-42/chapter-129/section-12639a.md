@@ -3,9 +3,9 @@ title: "Section 12639a - Civic Health Assessment and volunteering research and e
 usc_title: 42
 usc_section: "12639a"
 chapter: 129
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 12639a"
-generated_at: "2026-03-29T18:07:15.256Z"
+generated_at: "2026-03-29T18:27:04.071Z"
 ---
 
 # § 12639a. Civic Health Assessment and volunteering research and evaluation

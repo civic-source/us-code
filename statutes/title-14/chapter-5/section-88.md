@@ -3,9 +3,9 @@ title: "Section 88 - Saving life and property"
 usc_title: 14
 usc_section: "88"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "14 U.S.C. § 88"
-generated_at: "2026-03-29T18:04:21.479Z"
+generated_at: "2026-03-29T18:23:55.766Z"
 ---
 
 # § 88. Saving life and property
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T18:04:21.479Z"
   - **(2)** The Commandant shall make full use of all available and qualified resources, including the Coast Guard Auxiliary and individuals licensed by the Secretary pursuant to section 8904(b) of title 46 , United States Code, in rendering aid under this subsection in nonemergency cases.
 - **(c)** An individual who knowingly and willfully communicates a false distress message to the Coast Guard or causes the Coast Guard to attempt to save lives and property when no help is needed is—
   - **(1)** guilty of a class D felony;
-  - **(2)** subject to a civil penalty of not more than $5,000; and
+  - **(2)** subject to a civil penalty of not more than $10,000; and
   - **(3)** liable for all costs the Coast Guard incurs as a result of the individual’s action.
 - **(d)** The Secretary shall establish a helicopter rescue swimming program for the purpose of training selected Coast Guard personnel in rescue swimming skills, which may include rescue diver training.
 - **(e)** An individual who knowingly and willfully operates a device with the intention of interfering with the broadcast or reception of a radio, microwave, or other signal (including a signal from a global positioning system) transmitted, retransmitted, or augmented by the Coast Guard for the purpose of maritime safety is—

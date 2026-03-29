@@ -3,9 +3,9 @@ title: "Section 3732 - Bureau of Justice Statistics"
 usc_title: 42
 usc_section: "3732"
 chapter: 46
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 3732"
-generated_at: "2026-03-29T18:07:14.540Z"
+generated_at: "2026-03-29T18:27:03.528Z"
 ---
 
 # § 3732. Bureau of Justice Statistics
@@ -35,7 +35,7 @@ generated_at: "2026-03-29T18:07:14.540Z"
   - **(20)** maintain liaison with State, tribal, and local governments and governments of other nations concerning justice statistics;
   - **(21)** cooperate in and participate with national and international organizations in the development of uniform justice statistics;
   - **(22)** ensure conformance with security and privacy requirement of section 3789g of this title and identify, analyze, and participate in the development and implementation of privacy, security and information policies which impact on Federal, tribal, and State criminal justice operations and related statistical activities; and
-  - **(23)** exercise the powers and functions set out in subchapter VIII of this chapter.
+  - **(23)** exercise the powers and functions set out in subchapter VIII.
 - **(d)**
   - **(1)** To ensure that all justice statistical collection, analysis, and dissemination is carried out in a coordinated manner, the Director is authorized to—
     - **(A)** utilize, with their consent, the services, equipment, records, personnel, information, and facilities of other Federal, State, local, and private agencies and instrumentalities with or without reimbursement therefor, and to enter into agreements with such agencies and instrumentalities for purposes of data collection and analysis;

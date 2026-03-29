@@ -1,15 +1,12 @@
 ---
-title: "Section 737 - Gaming activities"
+title: "Section 737 - Omitted"
 usc_title: 25
 usc_section: "737"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 737"
-generated_at: "2026-03-29T18:05:17.101Z"
+generated_at: "2026-03-29T18:25:23.701Z"
 ---
 
-# § 737. Gaming activities
+# § 737. Omitted
 
-- **(a)** All gaming activities which are prohibited by the laws of the State of Texas are hereby prohibited on the reservation and on lands of the tribe. Any violation of the prohibition provided in this subsection shall be subject to the same civil and criminal penalties that are provided by the laws of the State of Texas. The provisions of this subsection are enacted in accordance with the tribe’s request in Tribal Resolution No. T.C.–86–07 which was approved and certified on March 10, 1986 .
-- **(b)** Nothing in this section shall be construed as a grant of civil or criminal regulatory jurisdiction to the State of Texas.
-- **(c)** Notwithstanding section 736(f) of this title , the courts of the United States shall have exclusive jurisdiction over any offense in violation of subsection (a) of this section that is committed by the tribe, or by any member of the tribe, on the reservation or on lands of the tribe. However, nothing in this section shall be construed as precluding the State of Texas from bringing an action in the courts of the United States to enjoin violations of the provisions of this section.

@@ -3,9 +3,9 @@ title: "Section 1981 - Farmers Home Administration"
 usc_title: 7
 usc_section: "1981"
 chapter: 50
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 1981"
-generated_at: "2026-03-29T18:04:04.912Z"
+generated_at: "2026-03-29T18:23:43.325Z"
 ---
 
 # § 1981. Farmers Home Administration
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T18:04:04.912Z"
   - **(7)** obtain fidelity bonds protecting the Government against fraud and dishonesty of officers and employees of the Farmers Home Administration in lieu of faithful performance of duties bonds under section 14 1 1 See References in Text note below. of title 6, and regulations issued pursuant thereto, but otherwise in accordance with the provisions thereof;
   - **(8)** consent to (A) long-term leases of facilities financed under this subchapter notwithstanding the failure of the lessee to meet any of the requirements of this subchapter if such long-term leases are necessary to ensure the continuation of services for which financing was extended to the lessor, and (B) the transfer of property securing any loan or financed by any loan or grant made, insured, or held by the Secretary under this chapter, or the provisions of any other law administered by the Rural Development Administration under this chapter or by the Farmers Home Administration, upon such terms as he deems necessary to carry out the purpose of the loan or grant or to protect the financial interest of the Government, and shall document the consent of the Secretary for the transfer of the property of a borrower in the file of the borrower; and
   - **(9)** notwithstanding that an area ceases, or has ceased, to be “rural”, in a “rural area”, or an eligible area, make loans and grants, and approve transfers and assumptions, under this chapter on the same basis as though the area still was rural in connection with property securing any loan made, insured, or held by the Secretary under this chapter or in connection with any property held by the Secretary under this chapter.
-- **(c)** The Secretary may use for the prosecution or defense of any claim or obligation described in subsection (b)(5) of this section the Attorney General, the General Counsel of the Department of Agriculture, or a private attorney who has entered into a contract with the Secretary.
+- **(c)** The Secretary may use for the prosecution or defense of any claim or obligation described in subsection (b)(5) the Attorney General, the General Counsel of the Department of Agriculture, or a private attorney who has entered into a contract with the Secretary.
 - **(d)**
   - **(1)** The Secretary shall develop a coordinated strategy across the relevant programs within the Rural Development mission areas to serve the specific, local needs of rural communities when making investments in rural community colleges and technical colleges through other authorities in effect on February 7, 2014 .
   - **(2)** In developing a coordinated strategy, the Secretary shall consult with groups representing rural-serving community colleges and technical colleges to coordinate critical investments in rural community colleges and technical colleges involved in workforce training.

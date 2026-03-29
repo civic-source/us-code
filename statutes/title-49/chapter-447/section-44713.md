@@ -3,9 +3,9 @@ title: "Section 44713 - Inspection and maintenance"
 usc_title: 49
 usc_section: "44713"
 chapter: 447
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 44713"
-generated_at: "2026-03-29T18:07:51.509Z"
+generated_at: "2026-03-29T18:27:16.603Z"
 ---
 
 # § 44713. Inspection and maintenance
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T18:07:51.509Z"
     - **(B)** the excessive period of time required to receive the forms at the Airmen and Aircraft Registry of the Administration.
     - **(C)** the backlog of forms waiting for processing at the Registry.
     - **(D)** the lack of ready access by law enforcement officials to information contained on the forms.
-  - **(2)** The Administrator of the Federal Aviation Administration shall prescribe regulations to carry out paragraph (1) of this subsection and provide a written explanation of how the regulations address each of the deficiencies and abuses described in paragraph (1). In prescribing the regulations, the Administrator of the Federal Aviation Administration shall consult with the Administrator of Drug Enforcement, the Commissioner of Customs, other law enforcement officials of the United States Government, representatives of State and local law enforcement officials, representatives of the general aviation aircraft industry, representatives of users of general aviation aircraft, and other interested persons.
+  - **(2)** The Administrator of the Federal Aviation Administration shall prescribe regulations to carry out paragraph (1) of this subsection and provide a written explanation of how the regulations address each of the deficiencies and abuses described in paragraph (1). In prescribing the regulations, the Administrator of the Federal Aviation Administration shall consult with the Administrator of Drug Enforcement, the Commissioner of U.S. Customs and Border Protection, other law enforcement officials of the United States Government, representatives of State and local law enforcement officials, representatives of the general aviation aircraft industry, representatives of users of general aviation aircraft, and other interested persons.
 - **(e)**
   - **(1)** The Administrator shall give high priority to developing and deploying a fully enhanced safety performance analysis system that includes automated surveillance to assist the Administrator in prioritizing and targeting surveillance and inspection activities of the Federal Aviation Administration.
   - **(2)**

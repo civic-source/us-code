@@ -3,9 +3,9 @@ title: "Section 375 - Definitions"
 usc_title: 15
 usc_section: "375"
 chapter: 10
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 375"
-generated_at: "2026-03-29T18:04:29.431Z"
+generated_at: "2026-03-29T18:24:08.340Z"
 ---
 
 # § 375. Definitions
@@ -29,7 +29,7 @@ As used in this chapter, the following definitions apply:
   - **(7)** The term “Indian country”—
     - **(A)** has the meaning given that term in section 1151 of title 18 , except that within the State of Alaska that term applies only to the Metlakatla Indian Community, Annette Island Reserve; and
     - **(B)** includes any other land held by the United States in trust or restricted status for one or more Indian tribes.
-  - **(8)** The term “Indian tribe”, “tribe”, or “tribal” refers to an Indian tribe as defined in section 450b(e) of title 25 or as listed pursuant to section 479a–1 of title 25 .
+  - **(8)** The term “Indian tribe”, “tribe”, or “tribal” refers to an Indian tribe as defined in section 5304(e) of title 25 or as listed pursuant to section 5131 of title 25 .
   - **(9)**
     - **(A)** The term “interstate commerce” means commerce between a State and any place outside the State, commerce between a State and any Indian country in the State, or commerce between points in the same State but through any place outside the State or through any Indian country.
     - **(B)** A sale, shipment, or transfer of cigarettes or smokeless tobacco that is made in interstate commerce, as defined in this paragraph, shall be deemed to have been made into the State, place, or locality in which such cigarettes or smokeless tobacco are delivered.

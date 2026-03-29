@@ -3,9 +3,9 @@ title: "Section 92 - Lists furnished with deposits"
 usc_title: 43
 usc_section: "92"
 chapter: 4
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 92"
-generated_at: "2026-03-29T18:06:28.249Z"
+generated_at: "2026-03-29T18:26:14.775Z"
 ---
 
 # § 92. Lists furnished with deposits

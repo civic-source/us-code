@@ -3,9 +3,9 @@ title: "Section 7606 - Subsistence and other supplies: members of armed forces; 
 usc_title: 10
 usc_section: "7606"
 chapter: 651
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 7606"
-generated_at: "2026-03-29T18:04:13.281Z"
+generated_at: "2026-03-29T18:23:52.075Z"
 ---
 
 # § 7606. Subsistence and other supplies: members of armed forces; veterans; executive or military departments and employees; prices

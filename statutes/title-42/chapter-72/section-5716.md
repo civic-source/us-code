@@ -3,9 +3,9 @@ title: "Section 5716 - Federal and non-Federal share; methods of payment"
 usc_title: 42
 usc_section: "5716"
 chapter: 72
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 5716"
-generated_at: "2026-03-29T18:07:14.710Z"
+generated_at: "2026-03-29T18:27:03.657Z"
 ---
 
 # § 5716. Federal and non-Federal share; methods of payment

@@ -3,9 +3,9 @@ title: "Section 136a - Collection of fees for inspection services"
 usc_title: 21
 usc_section: "136a"
 chapter: 4
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 136a"
-generated_at: "2026-03-29T18:05:14.729Z"
+generated_at: "2026-03-29T18:25:04.082Z"
 ---
 
 # § 136a. Collection of fees for inspection services
@@ -44,7 +44,7 @@ generated_at: "2026-03-29T18:05:14.729Z"
     - **(B)** section 9 of the Act of August 30, 1890 ( 21 U.S.C. 101 );
     - **(C)** the Animal Health Protection Act [ 7 U.S.C. 8301 et seq.]; or
     - **(D)** any other Act administered by the Secretary relating to plant or animal diseases or pests.
-  - **(2)** For the purposes of subsection (a) of this section, the term “customs territory of the United States” means the 50 States, the District of Columbia, and Puerto Rico.
+  - **(2)** For the purposes of subsection (a), the term “customs territory of the United States” means the 50 States, the District of Columbia, and Puerto Rico.
   - **(3)** For the purposes of this section, the term “person” means an individual, corporation, partnership, trust, association, or any other public or private entity, or any officer, employee, or agent thereof.
-  - **(4)** For the purposes of subsection (b) of this section, the term “United States” means the several States of the United States, the District of Columbia, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, and all other territories and possessions of the United States.
-  - **(5)** For the purposes of subsection (a) of this section, the term “vessel” does not include any ferry.
+  - **(4)** For the purposes of subsection (b), the term “United States” means the several States of the United States, the District of Columbia, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, and all other territories and possessions of the United States.
+  - **(5)** For the purposes of subsection (a), the term “vessel” does not include any ferry.

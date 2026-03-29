@@ -3,9 +3,9 @@ title: "Section 215 - Prohibited acts; prima facie evidence"
 usc_title: 29
 usc_section: "215"
 chapter: 8
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 215"
-generated_at: "2026-03-29T18:05:31.677Z"
+generated_at: "2026-03-29T18:25:43.015Z"
 ---
 
 # § 215. Prohibited acts; prima facie evidence
@@ -16,4 +16,4 @@ generated_at: "2026-03-29T18:05:31.677Z"
   - **(3)** to discharge or in any other manner discriminate against any employee because such employee has filed any complaint or instituted or caused to be instituted any proceeding under or related to this chapter, or has testified or is about to testify in any such proceeding, or has served or is about to serve on an industry committee;
   - **(4)** to violate any of the provisions of section 212 of this title ;
   - **(5)** to violate any of the provisions of section 211(c) of this title , or any regulation or order made or continued in effect under the provisions of section 211(d) of this title , or to make any statement, report, or record filed or kept pursuant to the provisions of such section or of any regulation or order thereunder, knowing such statement, report, or record to be false in a material respect.
-- **(b)** For the purposes of subsection (a)(1) of this section proof that any employee was employed in any place of employment where goods shipped or sold in commerce were produced, within ninety days prior to the removal of the goods from such place of employment, shall be prima facie evidence that such employee was engaged in the production of such goods.
+- **(b)** For the purposes of subsection (a)(1) proof that any employee was employed in any place of employment where goods shipped or sold in commerce were produced, within ninety days prior to the removal of the goods from such place of employment, shall be prima facie evidence that such employee was engaged in the production of such goods.

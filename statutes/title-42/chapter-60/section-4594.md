@@ -3,9 +3,9 @@ title: "Section 4594 - Contract authority in appropriation Acts"
 usc_title: 42
 usc_section: "4594"
 chapter: 60
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 4594"
-generated_at: "2026-03-29T18:07:14.611Z"
+generated_at: "2026-03-29T18:27:03.584Z"
 ---
 
 # § 4594. Contract authority in appropriation Acts

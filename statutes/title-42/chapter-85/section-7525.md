@@ -3,9 +3,9 @@ title: "Section 7525 - Motor vehicle and motor vehicle engine compliance testing
 usc_title: 42
 usc_section: "7525"
 chapter: 85
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 7525"
-generated_at: "2026-03-29T18:07:14.914Z"
+generated_at: "2026-03-29T18:27:03.818Z"
 ---
 
 # § 7525. Motor vehicle and motor vehicle engine compliance testing and certification
@@ -19,6 +19,32 @@ generated_at: "2026-03-29T18:07:14.914Z"
   - **(4)**
     - **(A)** Not later than 12 months after November 15, 1990 , the Administrator shall revise the regulations promulgated under this subsection to add test procedures capable of determining whether model year 1994 and later model year light-duty vehicles and light-duty trucks, when properly maintained and used, will pass the inspection methods and procedures established under section 7541(b) of this title for that model year, under conditions reasonably likely to be encountered in the conduct of inspection and maintenance programs, but which those programs cannot reasonably influence or control. The conditions shall include fuel characteristics, ambient temperature, and short (30 minutes or less) waiting periods before tests are conducted. The Administrator shall not grant a certificate of conformity under this subsection for any 1994 or later model year vehicle or engine that the Administrator concludes cannot pass the test procedures established under this paragraph.
     - **(B)** From time to time, the Administrator may revise the regulations promulgated under subparagraph (A), as the Administrator deems appropriate.
+  - **(5)**
+    - **(A)** A motor vehicle engine (including all engine emission controls) may be installed in an exempted specially produced motor vehicle if the motor vehicle engine is from a motor vehicle that is covered by a certificate of conformity issued by the Administrator for the model year in which the exempted specially produced motor vehicle is produced, or the motor vehicle engine is covered by an Executive order subject to regulations promulgated by the California Air Resources Board for the model year in which the exempted specially produced motor vehicle is produced, and—
+      - **(i)** the manufacturer of the engine supplies written instructions to the Administrator and the manufacturer of the exempted specially produced motor vehicle explaining how to install the engine and maintain functionality of the engine’s emission control system and the on-board diagnostic system (commonly known as “OBD”), except with respect to evaporative emissions;
+      - **(ii)** the manufacturer of the exempted specially produced motor vehicle installs the engine in accordance with such instructions and certifies such installation in accordance with subparagraph (E);
+      - **(iii)** the installation instructions include emission control warranty information from the engine manufacturer in compliance with section 7541 of this title , including where warranty repairs can be made, emission control labels to be affixed to the vehicle, and the certificate of conformity number for the applicable vehicle in which the engine was originally intended or the applicable Executive order number for the engine; and
+      - **(iv)** the manufacturer of the exempted specially produced motor vehicle does not produce more than 325 such vehicles in the calendar year in which the vehicle is produced.
+    - **(B)** A motor vehicle containing an engine compliant with the requirements of subparagraph (A) shall be treated as meeting the requirements of section 7521 of this title applicable to new vehicles produced or imported in the model year in which the exempted specially produced motor vehicle is produced or imported.
+    - **(C)** Engine installations that are not performed in accordance with installation instructions provided by the manufacturer and alterations to the engine not in accordance with the installation instructions shall—
+      - **(i)** be treated as prohibited acts by the installer under section 7522 of this title and any applicable regulations; and
+      - **(ii)** subject to civil penalties under section 7524(a) of this title , civil actions under section 7524(b) of this title , and administrative assessment of penalties under section 7524(c) of this title .
+    - **(D)** The manufacturer of an exempted specially produced motor vehicle that has an engine compliant with the requirements of subparagraph (A) shall provide to the purchaser of such vehicle all information received by the manufacturer from the engine manufacturer, including information regarding emissions warranties from the engine manufacturer and all emissions-related recalls by the engine manufacturer.
+    - **(E)** To qualify to install an engine under this paragraph, and sell, offer for sale, introduce into commerce, deliver for introduction into commerce or import an exempted specially produced motor vehicle, a manufacturer of exempted specially produced motor vehicles shall register with the Administrator at such time and in such manner as the Administrator determines appropriate. The manufacturer shall submit an annual report to the Administrator that includes—
+      - **(i)** a description of the exempted specially produced motor vehicles and engines installed in such vehicles;
+      - **(ii)** the certificate of conformity number issued to the motor vehicle in which the engine was originally intended or the applicable Executive order number for the engine; and
+      - **(iii)** a certification that it produced all exempted specially produced motor vehicles according to the written instructions from the engine manufacturer, and otherwise that the engine conforms in all material respects to the description in the application for the applicable certificate of conformity or Executive order.
+    - **(F)** Exempted specially produced motor vehicles compliant with this paragraph shall be exempted from—
+      - **(i)** motor vehicle certification testing under this section; and
+      - **(ii)** vehicle emission control inspection and maintenance programs required under section 7410 of this title .
+    - **(G)**
+      - **(i)** Except as provided in subparagraphs (A) through (F), a person engaged in the manufacturing or assembling of exempted specially produced motor vehicles shall be considered a manufacturer for purposes of this chapter.
+      - **(ii)** Nothing in this paragraph shall be construed to exempt any person from the prohibitions in section 7522(a)(3) of this title or the requirements in sections 7542, 7525(c), or 7521(m)(5) of this title.
+    - **(H)** In this paragraph:
+      - **(i)** The term “exempted specially produced motor vehicle” means a light-duty vehicle or light-duty truck produced by a low-volume manufacturer and that—
+        - **(I)** is intended to resemble the body of another motor vehicle that was manufactured not less than 25 years before the manufacture of the exempted specially produced motor vehicle; and
+        - **(II)** is manufactured under a license for the product configuration, trade dress, trademark, or patent, for the motor vehicle that is intended to be replicated from the original manufacturer, its successors or assignees, or current owner of such product configuration, trade dress, trademark, or patent rights.
+      - **(ii)** The term “low-volume manufacturer” means a motor vehicle manufacturer, other than a person who is registered as an importer under section 30141 of title 49 , whose annual worldwide production, including by a parent or subsidiary of the manufacturer, if applicable, is not more than 5,000 motor vehicles.
 - **(b)**
   - **(1)** In order to determine whether new motor vehicles or new motor vehicle engines being manufactured by a manufacturer do in fact conform with the regulations with respect to which the certificate of conformity was issued, the Administrator is authorized to test such vehicles or engines. Such tests may be conducted by the Administrator directly or, in accordance with conditions specified by the Administrator, by the manufacturer.
   - **(2)**

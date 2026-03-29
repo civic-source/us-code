@@ -3,9 +3,9 @@ title: "Section 1053 - Minimum vesting standards"
 usc_title: 29
 usc_section: "1053"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 1053"
-generated_at: "2026-03-29T18:05:31.732Z"
+generated_at: "2026-03-29T18:25:43.064Z"
 ---
 
 # § 1053. Minimum vesting standards
@@ -16,11 +16,11 @@ generated_at: "2026-03-29T18:05:31.732Z"
     - **(A)**
       - **(i)** In the case of a defined benefit plan, a plan satisfies the requirements of this paragraph if it satisfies the requirements of clause (ii) or (iii).
       - **(ii)** A plan satisfies the requirements of this clause if an employee who has completed at least 5 years of service has a nonforfeitable right to 100 percent of the employee’s accrued benefit derived from employer contributions.
-      - **(iii)** A plan satisfies the requirements of this clause if an employee has a nonforfeitable right to a percentage of the employee’s accrued benefit derived from employer contributions determined under the following table: The nonforfeitable Years of service: percentage is: 3 20 4 40 5 60 6 80 7 or more 100.
+      - **(iii)** A plan satisfies the requirements of this clause if an employee has a nonforfeitable right to a percentage of the employee’s accrued benefit derived from employer contributions determined under the following table: Years of service: The nonforfeitable percentage is: 3 20 4 40 5 60 6 80 7 or more 100.
     - **(B)**
       - **(i)** In the case of an individual account plan, a plan satisfies the requirements of this paragraph if it satisfies the requirements of clause (ii) or (iii).
       - **(ii)** A plan satisfies the requirements of this clause if an employee who has completed at least 3 years of service has a nonforfeitable right to 100 percent of the employee’s accrued benefit derived from employer contributions.
-      - **(iii)** A plan satisfies the requirements of this clause if an employee has a nonforfeitable right to a percentage of the employee’s accrued benefit derived from employer contributions determined under the following table: The nonforfeitable Years of service: percentage is: 2 20 3 40 4 60 5 80 6 or more 100.
+      - **(iii)** A plan satisfies the requirements of this clause if an employee has a nonforfeitable right to a percentage of the employee’s accrued benefit derived from employer contributions determined under the following table: Years of service: The nonforfeitable percentage is: 2 20 3 40 4 60 5 80 6 or more 100.
   - **(3)**
     - **(A)** A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that it is not payable if the participant dies (except in the case of a survivor annuity which is payable as provided in section 1055 of this title ).
     - **(B)** A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that the payment of benefits is suspended for such period as the employee is employed, subsequent to the commencement of payment of such benefits—
@@ -36,13 +36,13 @@ generated_at: "2026-03-29T18:05:31.732Z"
     - **(E)**
       - **(i)** A right to an accrued benefit derived from employer contributions under a multiemployer plan shall not be treated as forfeitable solely because the plan provides that benefits accrued as a result of service with the participant’s employer before the employer had an obligation to contribute under the plan may not be payable if the employer ceases contributions to the multiemployer plan.
       - **(ii)** A participant’s right to an accrued benefit derived from employer contributions under a multiemployer plan shall not be treated as forfeitable solely because—
-        - **(I)** the plan is amended to reduce benefits under section 1425 or 1441 of this title, or
+        - **(I)** the plan is amended to reduce benefits under section 1425 1 1 See References in Text note below. or 1441 of this title, or
         - **(II)** benefit payments under the plan may be suspended under section 1426 or 1441 of this title.
     - **(F)** A matching contribution (within the meaning of section 401(m) of title 26 ) shall not be treated as forfeitable merely because such contribution is forfeitable if the contribution to which the matching contribution relates is treated as an excess contribution under section 401(k)(8)(B) of title 26 , an excess deferral under section 402(g)(2)(A) of title 26 , an erroneous automatic contribution under section 414(w) of title 26 , or an excess aggregate contribution under section 401(m)(6)(B) of title 26 .
 - **(b)**
-  - **(1)** In computing the period of service under the plan for purposes of determining the nonforfeitable percentage under subsection (a)(2) of this section, all of an employee’s years of service with the employer or employers maintaining the plan shall be taken into account, except that the following may be disregarded:
-    - **(A)** years of service before age 18, 1 1 So in original. The comma probably should be a semicolon.
-    - **(B)** years of service during a period for which the employee declined to contribute to a plan requiring employee contributions, 1
+  - **(1)** In computing the period of service under the plan for purposes of determining the nonforfeitable percentage under subsection (a)(2), all of an employee’s years of service with the employer or employers maintaining the plan shall be taken into account, except that the following may be disregarded:
+    - **(A)** years of service before age 18, 2 2 So in original. The comma probably should be a semicolon.
+    - **(B)** years of service during a period for which the employee declined to contribute to a plan requiring employee contributions, 2
     - **(C)** years of service with an employer during any period for which the employer did not maintain the plan or a predecessor plan, defined by the Secretary of the Treasury;
     - **(D)** service not required to be taken into account under paragraph (3);
     - **(E)** years of service before January 1, 1971 , unless the employee has had at least 3 years of service after December 31, 1970 ;
@@ -88,9 +88,9 @@ generated_at: "2026-03-29T18:05:31.732Z"
     - **(B)** For effect of certain cash out distributions, see section 1054(d)(1) of this title .
 - **(c)**
   - **(1)**
-    - **(A)** A plan amendment changing any vesting schedule under the plan shall be treated as not satisfying the requirements of subsection (a)(2) of this section if the nonforfeitable percentage of the accrued benefit derived from employer contributions (determined as of the later of the date such amendment is adopted, or the date such amendment becomes effective) of any employee who is a participant in the plan is less than such nonforfeitable percentage computed under the plan without regard to such amendment.
-    - **(B)** A plan amendment changing any vesting schedule under the plan shall be treated as not satisfying the requirements of subsection (a)(2) of this section unless each participant having not less than 3 years of service is permitted to elect, within a reasonable period after adoption of such amendment, to have his nonforfeitable percentage computed under the plan without regard to such amendment.
-  - **(2)** Subsection (a) of this section shall not apply to benefits which may not be provided for designated employees in the event of early termination of the plan under provisions of the plan adopted pursuant to regulations prescribed by the Secretary of the Treasury to preclude the discrimination prohibited by section 401(a)(4) of title 26 .
+    - **(A)** A plan amendment changing any vesting schedule under the plan shall be treated as not satisfying the requirements of subsection (a)(2) if the nonforfeitable percentage of the accrued benefit derived from employer contributions (determined as of the later of the date such amendment is adopted, or the date such amendment becomes effective) of any employee who is a participant in the plan is less than such nonforfeitable percentage computed under the plan without regard to such amendment.
+    - **(B)** A plan amendment changing any vesting schedule under the plan shall be treated as not satisfying the requirements of subsection (a)(2) unless each participant having not less than 3 years of service is permitted to elect, within a reasonable period after adoption of such amendment, to have his nonforfeitable percentage computed under the plan without regard to such amendment.
+  - **(2)** Subsection (a) shall not apply to benefits which may not be provided for designated employees in the event of early termination of the plan under provisions of the plan adopted pursuant to regulations prescribed by the Secretary of the Treasury to preclude the discrimination prohibited by section 401(a)(4) of title 26 .
 - **(d)** A pension plan may allow for nonforfeitable benefits after a lesser period and in greater amounts than are required by this part.
 - **(e)**
   - **(1)** If the present value of any nonforfeitable benefit with respect to a participant in a plan exceeds $5,000, the plan shall provide that such benefit may not be immediately distributed without the consent of the participant.

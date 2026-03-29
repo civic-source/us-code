@@ -3,15 +3,15 @@ title: "Section 2339B - Providing material support or resources to designated fo
 usc_title: 18
 usc_section: "2339B"
 chapter: 113
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "18 U.S.C. § 2339B"
-generated_at: "2026-03-29T18:04:50.955Z"
+generated_at: "2026-03-29T18:24:43.848Z"
 ---
 
 # § 2339B. Providing material support or resources to designated foreign terrorist organizations
 
 - **(a)**
-  - **(1)** Whoever knowingly provides material support or resources to a foreign terrorist organization, or attempts or conspires to do so, shall be fined under this title or imprisoned not more than 15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life. To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).
+  - **(1)** Whoever knowingly provides material support or resources to a foreign terrorist organization, or attempts or conspires to do so, shall be fined under this title or imprisoned not more than 20 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life. To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).
   - **(2)** Except as authorized by the Secretary, any financial institution that becomes aware that it has possession of, or control over, any funds in which a foreign terrorist organization, or its agent, has an interest, shall—
     - **(A)** retain possession of, or maintain control over, such funds; and
     - **(B)** report to the Secretary the existence of such funds in accordance with regulations issued by the Secretary.

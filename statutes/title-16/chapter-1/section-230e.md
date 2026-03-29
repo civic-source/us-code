@@ -3,12 +3,12 @@ title: "Section 230e - Establishment; notice in Federal Register; administration
 usc_title: 16
 usc_section: "230e"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 230e"
-generated_at: "2026-03-29T18:05:06.418Z"
+generated_at: "2026-03-29T18:24:22.437Z"
 ---
 
 # § 230e. Establishment; notice in Federal Register; administration
 
-The Secretary shall administer the park in accordance with the provisions of this part, sections 1, 2, 3, and 4 of this title, sections 461 to 467 of this title, and any other statutory authorities available to him for the conservation and management of natural, historical, and cultural resources.
+The Secretary shall administer the park in accordance with the provisions of this part, the Act of August 25, 1916 ( 39 Stat. 535 ), 1 1 See References in Text note below. the Act of August 21, 1935 ( 49 Stat. 666 ), 1 and any other statutory authorities available to him for the conservation and management of natural, historical, and cultural resources.
 

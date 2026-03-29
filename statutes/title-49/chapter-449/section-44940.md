@@ -3,9 +3,9 @@ title: "Section 44940 - Security service fee"
 usc_title: 49
 usc_section: "44940"
 chapter: 449
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 44940"
-generated_at: "2026-03-29T18:07:51.522Z"
+generated_at: "2026-03-29T18:27:16.614Z"
 ---
 
 # § 44940. Security service fee
@@ -21,19 +21,14 @@ generated_at: "2026-03-29T18:07:51.522Z"
     - **(G)** The costs of deploying Federal law enforcement personnel pursuant to section 44903(h).
     - **(H)** The costs of security-related capital improvements at airports.
     - **(I)** The costs of training pilots and flight attendants under sections 44918 and 44921.
-  - **(2)**
-    - **(A)** In addition to the fee imposed pursuant to paragraph (1), and only to the extent that the Under Secretary estimates that such fee will be insufficient to pay for the costs of providing civil aviation security services described in paragraph (1), the Under Secretary may impose a fee on air carriers and foreign air carriers engaged in air transportation and intrastate air transportation to pay for the difference between any such costs and the amount collected from such fee, as estimated by the Under Secretary at the beginning of each fiscal year. The estimates of the Under Secretary under this subparagraph are not subject to judicial review except for estimates and additional collections made pursuant to the appropriation for Aviation Security in Public Law 108–334 : Provided, That such judicial review shall be pursuant to section 46110 of title 49 , United States Code: Provided further, That such judicial review shall be limited only to additional amounts collected by the Secretary before October 1, 2007 .
-    - **(B)**
-      - **(i)** The amounts of fees collected under this paragraph for each fiscal year may not exceed, in the aggregate, the amounts paid in calendar year 2000 by carriers described in subparagraph (A) for screening passengers and property, as determined by the Under Secretary.
-      - **(ii)** The amount of fees collected under this paragraph from an air carrier described in subparagraph (A) for each of fiscal years 2002, 2003, and 2004 may not exceed the amount paid in calendar year 2000 by that carrier for screening passengers and property, as determined by the Under Secretary.
-      - **(iii)** For fiscal year 2005 and subsequent fiscal years, the per-carrier limitation under clause (ii) may be determined by the Under Secretary on the basis of market share or any other appropriate measure in lieu of actual screening costs in calendar year 2000.
-      - **(iv)** Determinations of the Under Secretary under this subparagraph are not subject to judicial review except for estimates and additional collections made pursuant to the appropriation for Aviation Security in Public Law 108–334 : Provided, That such judicial review shall be pursuant to section 46110 of title 49 , United States Code: Provided further, That such judicial review shall be limited only to additional amounts collected by the Secretary before October 1, 2007 .
-    - **(C)** The amount of fees collected under this paragraph from any carrier for fiscal year 2002 may not exceed the amounts paid by that carrier for screening passengers and property for a period of time in calendar year 2000 proportionate to the period of time in fiscal year 2002 during which fees are collected under this paragraph.
+  - **[(2)** Repealed. Pub. L. 113–67, div. A, title VI , § 601(a)(1), Dec. 26, 2013 , 127 Stat. 1187 .]
 - **(b)** In imposing fees under subsection (a), the Under Secretary shall ensure that the fees are reasonably related to the Transportation Security Administration’s costs of providing services rendered.
-- **(c)** Fees imposed under subsection (a)(1) shall be $5.60 per one-way trip in air transportation or intrastate air transportation that originates at an airport in the United States.
+- **(c)**
+  - **(1)** Fees imposed under subsection (a)(1) shall be $5.60 per one-way trip in air transportation or intrastate air transportation that originates at an airport in the United States, except that the fee imposed per round trip shall not exceed $11.20.
+  - **(2)** In this subsection, the term “round trip” means a trip on an air travel itinerary that terminates or has a stopover at the origin point (or co-terminal).
 - **(d)**
-  - **(1)** Notwithstanding section 9701 of title 31 and the procedural requirements of section 553 of title 5 , the Under Secretary shall impose the fee under subsection (a)(1), and may impose a fee under subsection (a)(2), through the publication of notice of such fee in the Federal Register and begin collection of the fee within 60 days of the date of enactment of this Act, or as soon as possible thereafter.
-  - **(2)** A fee imposed under subsection (a)(1) through the procedures under subsection (d) shall apply only to tickets sold after the date on which such fee is imposed. If a fee imposed under subsection (a)(1) through the procedures under subsection (d) on transportation of a passenger of a carrier described in subsection (a)(1) is not collected from the passenger, the amount of the fee shall be paid by the carrier.
+  - **(1)** Notwithstanding section 9701 of title 31 and the procedural requirements of section 553 of title 5 , the Under Secretary shall impose the fee under subsection (a)(1) through the publication of notice of such fee in the Federal Register and begin collection of the fee within 60 days of the date of enactment of this Act, or as soon as possible thereafter.
+  - **(2)** A fee imposed under subsection (a)(1) through the procedures under subsection (d) 1 1 So in original. Probably should be “paragraph (1)”. shall apply only to tickets sold after the date on which such fee is imposed. If a fee imposed under subsection (a)(1) through the procedures under subsection (d) on transportation of a passenger of a carrier described in subsection (a)(1) is not collected from the passenger, the amount of the fee shall be paid by the carrier.
   - **(3)** After imposing a fee in accordance with paragraph (1), the Under Secretary may modify, from time to time through publication of notice in the Federal Register, the imposition or collection of such fee, or both.
   - **(4)** No fee may be collected under this section, other than subsection (i), except to the extent that the expenditure of the fee to pay the costs of activities and services for which the fee is imposed is provided for in advance in an appropriations Act or in section 44923.
 - **(e)**
@@ -64,3 +59,5 @@ generated_at: "2026-03-29T18:07:51.522Z"
     - **(H)** $1,440,000,000 for fiscal year 2021.
     - **(I)** $1,480,000,000 for fiscal year 2022.
     - **(J)** $1,520,000,000 for fiscal year 2023.
+    - **(K)** $1,560,000,000 for fiscal year 2024.
+    - **(L)** $1,600,000,000 for fiscal year 2025.

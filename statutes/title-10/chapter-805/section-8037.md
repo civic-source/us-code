@@ -3,9 +3,9 @@ title: "Section 8037 - Judge Advocate General, Deputy Judge Advocate General: ap
 usc_title: 10
 usc_section: "8037"
 chapter: 805
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 8037"
-generated_at: "2026-03-29T18:04:13.286Z"
+generated_at: "2026-03-29T18:23:52.082Z"
 ---
 
 # § 8037. Judge Advocate General, Deputy Judge Advocate General: appointment; duties

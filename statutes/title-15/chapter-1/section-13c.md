@@ -3,9 +3,9 @@ title: "Section 13c - Exemption of non-profit institutions from price discrimina
 usc_title: 15
 usc_section: "13c"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 13c"
-generated_at: "2026-03-29T18:04:29.280Z"
+generated_at: "2026-03-29T18:24:08.194Z"
 ---
 
 # § 13c. Exemption of non-profit institutions from price discrimination provisions

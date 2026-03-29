@@ -3,9 +3,9 @@ title: "Section 2324 - Allowable costs under defense contracts"
 usc_title: 10
 usc_section: "2324"
 chapter: 137
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2324"
-generated_at: "2026-03-29T18:04:13.147Z"
+generated_at: "2026-03-29T18:23:51.919Z"
 ---
 
 # § 2324. Allowable costs under defense contracts
@@ -44,7 +44,9 @@ generated_at: "2026-03-29T18:04:13.147Z"
     - **(M)** Costs of severance pay paid by the contractor to foreign nationals employed by the contractor under a service contract performed outside the United States, to the extent that the amount of severance pay paid in any case exceeds the amount paid in the industry involved under the customary or prevailing practice for firms in that industry providing similar services in the United States, as determined under the Federal Acquisition Regulation.
     - **(N)** Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performed in a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a United States military facility in that country at the request of the government of that country.
     - **(O)** Costs incurred by a contractor in connection with any criminal, civil, or administrative proceeding commenced by the United States or a State, to the extent provided in subsection (k).
-    - **(P)** Costs of compensation of any contractor employee for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds the benchmark compensation amount determined applicable for the fiscal year by the Administrator for Federal Procurement Policy under section 1127 of title 41 , except that the Secretary of Defense may establish one or more narrowly targeted exceptions for scientists and engineers upon a determination that such exceptions are needed to ensure that the Department of Defense has continued access to needed skills and capabilities.
+    - **(P)** 1 1 So in original. Two subpars. (P) have been enacted. Costs of compensation of any contractor employee for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $625,000 adjusted annually for the U.S. Bureau of Labor Statistics Employment Cost Index for total compensation for private industry workers, by occupational and industry group not seasonally adjusted, except that the Secretary of Defense may establish exceptions for positions in the science, technology, engineering, mathematics, medical, and cybersecurity fields and other fields requiring unique areas of expertise upon a determination that such exceptions are needed to ensure that the Department of Defense has continued access to needed skills and capabilities.
+    - **(P)** 1 Costs of compensation of contractor and subcontractor employees for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $487,000 per year, adjusted annually to reflect the change in the Employment Cost Index for all workers, as calculated by the Bureau of Labor Statistics, except that the head of an executive agency may establish one or more narrowly targeted exceptions for scientists, engineers, or other specialists upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.
+    - **(Q)** Costs incurred by a contractor in connection with a congressional investigation or inquiry into an issue that is the subject matter of a proceeding resulting in a disposition as described in subsection (k)(2).
   - **(2)**
     - **(A)** The Secretary of Defense may provide in a military banking contract that the provisions of paragraphs (1)(M) and (1)(N) shall not apply to costs incurred under the contract by the contractor for payment of mandated foreign national severance pay. The Secretary may include such a provision in a military banking contract only if the Secretary determines, with respect to that contract, that the contractor has taken (or has established plans to take) appropriate actions within the contractor’s control to minimize the amount and number of incidents of the payment of severance pay by the contractor to employees under the contract who are foreign nationals.
     - **(B)** In subparagraph (A):
@@ -129,5 +131,5 @@ generated_at: "2026-03-29T18:04:13.147Z"
   - **(2)** The term “head of the agency” or “agency head” does not include the Secretary of a military department.
   - **(3)** The term “agency” means the Department of Defense, the Coast Guard, and the National Aeronautics and Space Administration.
   - **(4)** The term “compensation”, for a year, means the total amount of wages, salary, bonuses and deferred compensation for the year, whether paid, earned, or otherwise accruing, as recorded in an employer’s cost accounting records for the year.
-  - **[(5)** Repealed. Pub. L. 112–81, div. A, title VIII, § 803(b) , Dec. 31, 2011 , 125 Stat. 1485 .]
+  - **[(5)** Repealed. Pub. L. 112–81, div. A, title VIII , § 803(b), Dec. 31, 2011 , 125 Stat. 1485 .]
   - **(6)** The term “fiscal year” means a fiscal year established by a contractor for accounting purposes.

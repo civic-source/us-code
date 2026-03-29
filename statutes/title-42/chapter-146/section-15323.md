@@ -1,32 +1,12 @@
 ---
-title: "Section 15323 - Membership and appointment"
+title: "Section 15323 - Transferred"
 usc_title: 42
 usc_section: "15323"
 chapter: 146
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 15323"
-generated_at: "2026-03-29T18:07:15.408Z"
+generated_at: "2026-03-29T18:27:04.190Z"
 ---
 
-# § 15323. Membership and appointment
+# § 15323. Transferred
 
-- **(a)**
-  - **(1)** The Commission shall have four members appointed by the President, by and with the advice and consent of the Senate.
-  - **(2)** Before the initial appointment of the members of the Commission and before the appointment of any individual to fill a vacancy on the Commission, the Majority Leader of the Senate, the Speaker of the House of Representatives, the Minority Leader of the Senate, and the Minority Leader of the House of Representatives shall each submit to the President a candidate recommendation with respect to each vacancy on the Commission affiliated with the political party of the Member of Congress involved.
-  - **(3)** Each member of the Commission shall have experience with or expertise in election administration or the study of elections.
-  - **(4)** The appointments of the members of the Commission shall be made not later than 120 days after October 29, 2002 .
-- **(b)**
-  - **(1)** Except as provided in paragraphs (2) and (3), members shall serve for a term of 4 years and may be reappointed for not more than one additional term.
-  - **(2)** As designated by the President at the time of nomination, of the members first appointed—
-    - **(A)** two of the members (not more than one of whom may be affiliated with the same political party) shall be appointed for a term of 2 years; and
-    - **(B)** two of the members (not more than one of whom may be affiliated with the same political party) shall be appointed for a term of 4 years.
-  - **(3)**
-    - **(A)** A vacancy on the Commission shall be filled in the manner in which the original appointment was made and shall be subject to any conditions which applied with respect to the original appointment.
-    - **(B)** A member of the Commission shall serve on the Commission after the expiration of the member’s term until the successor of such member has taken office as a member of the Commission.
-    - **(C)** An individual appointed to fill a vacancy shall be appointed for the unexpired term of the member replaced.
-- **(c)**
-  - **(1)** The Commission shall select a chair and vice chair from among its members for a term of 1 year, except that the chair and vice chair may not be affiliated with the same political party.
-  - **(2)** A member of the Commission may serve as the chairperson and vice chairperson for only 1 term each during the term of office to which such member is appointed.
-- **(d)**
-  - **(1)** Each member of the Commission shall be compensated at the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5 .
-  - **(2)** No member appointed to the Commission under subsection (a) of this section may engage in any other business, vocation, or employment while serving as a member of the Commission and shall terminate or liquidate such business, vocation, or employment before sitting as a member of the Commission.

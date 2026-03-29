@@ -3,9 +3,9 @@ title: "Section 9628 - State response programs"
 usc_title: 42
 usc_section: "9628"
 chapter: 103
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 9628"
-generated_at: "2026-03-29T18:07:15.074Z"
+generated_at: "2026-03-29T18:27:03.929Z"
 ---
 
 # § 9628. State response programs
@@ -47,7 +47,7 @@ generated_at: "2026-03-29T18:07:15.074Z"
         - **(I)** a release or threatened release may present an imminent and substantial endangerment to public health or welfare or the environment; and
         - **(II)** additional response actions are likely to be necessary to address, prevent, limit, or mitigate the release or threatened release; or
       - **(iv)** the Administrator, after consultation with the State, determines that information, that on the earlier of the date on which cleanup was approved or completed, was not known by the State, as recorded in documents prepared or relied on in selecting or conducting the cleanup, has been discovered regarding the contamination or conditions at a facility such that the contamination or conditions at the facility present a threat requiring further remediation to protect public health or welfare or the environment. Consultation with the State shall not limit the ability of the Administrator to make this determination.
-    - **(C)** The limitations on the authority of the President under subparagraph (A) apply only at sites in States that maintain, update not less than annually, and make available to the public a record of sites, by name and location, at which response actions have been completed in the previous year and are planned to be addressed under the State program that specifically governs response actions for the protection of public health and the environment in the upcoming year. The public record shall identify whether or not the site, on completion of the response action, will be suitable for unrestricted use and, if not, shall identify the institutional controls relied on in the remedy. Each State and tribe receiving financial assistance under subsection (a) of this section shall maintain and make available to the public a record of sites as provided in this paragraph.
+    - **(C)** The limitations on the authority of the President under subparagraph (A) apply only at sites in States that maintain, update not less than annually, and make available to the public a record of sites, by name and location, at which response actions have been completed in the previous year and are planned to be addressed under the State program that specifically governs response actions for the protection of public health and the environment in the upcoming year. The public record shall identify whether or not the site, on completion of the response action, will be suitable for unrestricted use and, if not, shall identify the institutional controls relied on in the remedy. Each State and tribe receiving financial assistance under subsection (a) shall maintain and make available to the public a record of sites as provided in this paragraph.
     - **(D)**
       - **(i)** In the case of an eligible response site at which there is a release or threatened release of a hazardous substance, pollutant, or contaminant and for which the Administrator intends to carry out an action that may be barred under subparagraph (A), the Administrator shall—
         - **(I)** notify the State of the action the Administrator intends to take; and
@@ -64,7 +64,7 @@ generated_at: "2026-03-29T18:07:15.074Z"
       - **(ii)** limits the discretionary authority of the President to enter into or modify an agreement with a State, an Indian tribe, or any other person relating to the implementation by the President of statutory authorities.
   - **(3)** This subsection applies only to response actions conducted after February 15, 2001 .
 - **(c)** Nothing in this section affects any liability or response authority under any Federal law, including—
-  - **(1)** this chapter, except as provided in subsection (b) of this section;
+  - **(1)** this chapter, except as provided in subsection (b);
   - **(2)** the Solid Waste Disposal Act ( 42 U.S.C. 6901 et seq.);
   - **(3)** the Federal Water Pollution Control Act ( 33 U.S.C. 1251 et seq.);
   - **(4)** the Toxic Substances Control Act ( 15 U.S.C. 2601 et seq.); and

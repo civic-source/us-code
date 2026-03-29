@@ -3,9 +3,9 @@ title: "Section 6713 - Civil liability of United States"
 usc_title: 22
 usc_section: "6713"
 chapter: 75
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 6713"
-generated_at: "2026-03-29T18:05:22.010Z"
+generated_at: "2026-03-29T18:24:54.360Z"
 ---
 
 # § 6713. Civil liability of United States
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T18:05:22.010Z"
     - **(D)** the significance of proprietary information; and
     - **(E)** the emergence of technology elsewhere a reasonable time after the inspection.
 - **(b)** The district courts of the United States shall have exclusive jurisdiction of civil actions for money damages for any tort under the Constitution or any Federal or State law arising from the acts or omissions of any officer or employee of the United States or the Organization, including any member of an inspection team of the Technical Secretariat, taken pursuant to or under color of the Convention or this chapter.
-- **(c)** In any action under subsection (a) or (b) of this section, the United States may not raise sovereign immunity as a defense.
+- **(c)** In any action under subsection (a) or (b), the United States may not raise sovereign immunity as a defense.
 - **(d)**
   - **(1)** Notwithstanding any other law, the Attorney General of the United States is authorized to bring an action in the United States District Court for the District of Columbia against any foreign nation for money damages resulting from that nation’s refusal to provide indemnification to the United States for any liability imposed on the United States by virtue of the actions of an inspector of the Technical Secretariat who is a national of that foreign nation acting at the direction or the behest of that foreign nation.
   - **(2)** The Attorney General is authorized to seek any and all available redress in any international tribunal for indemnification to the United States for any liability imposed on the United States by virtue of the actions of an inspector of the Technical Secretariat, and to seek such redress in the courts of the foreign nation from which the inspector is a national.
@@ -36,7 +36,7 @@ generated_at: "2026-03-29T18:05:22.010Z"
       - **(ii)** any foreign person or business entity organized and operating under the laws of a foreign nation which knowingly assisted, encouraged or induced, in any way, a foreign person described in clause (i) to publish, divulge, disclose, or make known in any manner or to any extent not authorized by the Convention any United States confidential business information.
     - **(B)**
       - **(i)** The United States Government shall not sell to a person described in subparagraph (A) any item on the United States Munitions List and shall terminate sales of any defense articles, defense services, or design and construction services to a person described in subparagraph (A) under the Arms Export Control Act [ 22 U.S.C. 2751 et seq.].
-      - **(ii)** The authorities under section 6 of the Export Administration Act of 1979 [50 U.S.C. App. 2405] shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) of that Act [50 U.S.C. App. 2404(c)(1)] to a person described in subparagraph (A).
+      - **(ii)** The authorities under section 6 of the Export Administration Act of 1979 [ 50 U.S.C. 4605 ] shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) of that Act [ 50 U.S.C. 4604(c)(1) ] to a person described in subparagraph (A).
       - **(iii)** The United States shall oppose any loan or financial or technical assistance by international financial institutions in accordance with section 262d of this title to a person described in subparagraph (A).
       - **(iv)** The United States shall not give approval to guarantee, insure, or extend credit, or to participate in the extension of credit to a person described in subparagraph (A) through the Export-Import Bank of the United States.
       - **(v)** Regulations shall be issued to prohibit any United States bank from making any loan or providing any credit to a person described in subparagraph (A).
@@ -48,7 +48,7 @@ generated_at: "2026-03-29T18:05:22.010Z"
       - **(i)** The United States Government shall not sell a country described in subparagraph (A) any item on the United States Munitions List, shall terminate sales of any defense articles, defense services, or design and construction services to that country under the Arms Export Control Act [ 22 U.S.C. 2751 et seq.], and shall terminate all foreign military financing for that country under the Arms Export Control Act.
       - **(ii)** Licenses shall not be issued for the export to the sanctioned country of any item on the United States Munitions List or commercial satellites.
       - **(iii)** No appropriated funds may be used for the purpose of providing economic assistance, providing military assistance or grant military education and training, or extending military credits or making guarantees to a country described in subparagraph (A).
-      - **(iv)** The authorities of section 6 of the Export Administration Act of 1979 [50 U.S.C. App. 2405] shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) of that Act [50 U.S.C. App. 2404(c)(1)] to a country described in subparagraph (A).
+      - **(iv)** The authorities of section 6 of the Export Administration Act of 1979 [ 50 U.S.C. 4605 ] shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) of that Act [ 50 U.S.C. 4604(c)(1) ] to a country described in subparagraph (A).
       - **(v)** The United States shall oppose any loan or financial or technical assistance by international financial institutions in accordance with section 262d of this title to a country described in subparagraph (A).
       - **(vi)** The United States shall terminate all assistance to a country described in subparagraph (A) under the Foreign Assistance Act of 1961 [ 22 U.S.C. 2151 et seq.], except for urgent humanitarian assistance.
       - **(vii)** The United States shall not give approval to guarantee, insure, or extend credit, or participate in the extension of credit through the Export-Import Bank of the United States to a country described in subparagraph (A).

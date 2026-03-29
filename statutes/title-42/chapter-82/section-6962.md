@@ -3,9 +3,9 @@ title: "Section 6962 - Federal procurement"
 usc_title: 42
 usc_section: "6962"
 chapter: 82
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 6962"
-generated_at: "2026-03-29T18:07:14.819Z"
+generated_at: "2026-03-29T18:27:03.744Z"
 ---
 
 # § 6962. Federal procurement
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T18:07:14.819Z"
     - **(A)** any exclusion of recovered materials and
     - **(B)** any requirement that items be manufactured from virgin materials; and
   - **(2)** within one year after the date of publication of applicable guidelines under subsection (e) of this section, or as otherwise specified in such guidelines, assure that such specifications require the use of recovered materials to the maximum extent possible without jeopardizing the intended end use of the item.
-- **(e)** The Administrator, after consultation with the Administrator of General Services, the Secretary of Commerce (acting through the National Institute of Standards and Technology), and the Public Printer, shall prepare, and from time to time revise, guidelines for the use of procuring agencies in complying with the requirements of this section. Such guidelines shall—
+- **(e)** The Administrator, after consultation with the Administrator of General Services, the Secretary of Commerce (acting through the National Institute of Standards and Technology), and the Director of the Government Publishing Office, shall prepare, and from time to time revise, guidelines for the use of procuring agencies in complying with the requirements of this section. Such guidelines shall—
   - **(1)** designate those items which are or can be produced with recovered materials and whose procurement by procuring agencies will carry out the objectives of this section, and in the case of paper, provide for maximizing the use of post consumer recovered materials referred to in subsection (h)(1) of this section; and
   - **(2)** set forth recommended practices with respect to the procurement of recovered materials and items containing such materials and with respect to certification by vendors of the percentage of recovered materials used,
     - **(A)** the availability of such items;

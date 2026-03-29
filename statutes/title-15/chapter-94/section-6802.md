@@ -3,9 +3,9 @@ title: "Section 6802 - Obligations with respect to disclosures of personal infor
 usc_title: 15
 usc_section: "6802"
 chapter: 94
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 6802"
-generated_at: "2026-03-29T18:04:29.951Z"
+generated_at: "2026-03-29T18:24:08.639Z"
 ---
 
 # § 6802. Obligations with respect to disclosures of personal information
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T18:04:29.951Z"
   - **(2)** This subsection shall not prevent a financial institution from providing nonpublic personal information to a nonaffiliated third party to perform services for or functions on behalf of the financial institution, including marketing of the financial institution’s own products or services, or financial products or services offered pursuant to joint agreements between two or more financial institutions that comply with the requirements imposed by the regulations prescribed under section 6804 of this title , if the financial institution fully discloses the providing of such information and enters into a contractual agreement with the third party that requires the third party to maintain the confidentiality of such information.
 - **(c)** Except as otherwise provided in this subchapter, a nonaffiliated third party that receives from a financial institution nonpublic personal information under this section shall not, directly or through an affiliate of such receiving third party, disclose such information to any other person that is a nonaffiliated third party of both the financial institution and such receiving third party, unless such disclosure would be lawful if made directly to such other person by the financial institution.
 - **(d)** A financial institution shall not disclose, other than to a consumer reporting agency, an account number or similar form of access number or access code for a credit card account, deposit account, or transaction account of a consumer to any nonaffiliated third party for use in telemarketing, direct mail marketing, or other marketing through electronic mail to the consumer.
-- **(e)** Subsections (a) and (b) of this section shall not prohibit the disclosure of nonpublic personal information—
+- **(e)** Subsections (a) and (b) shall not prohibit the disclosure of nonpublic personal information—
   - **(1)** as necessary to effect, administer, or enforce a transaction requested or authorized by the consumer, or in connection with—
     - **(A)** servicing or processing a financial product or service requested or authorized by the consumer;
     - **(B)** maintaining or servicing the consumer’s account with the financial institution, or with another entity as part of a private label credit card program or other extension of credit on behalf of such entity; or

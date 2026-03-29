@@ -1,14 +1,12 @@
 ---
-title: "Section 677v - Termination of Federal trust; publication; termination of Federal services; application of Federal and State laws"
+title: "Section 677v - Omitted"
 usc_title: 25
 usc_section: "677v"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 677v"
-generated_at: "2026-03-29T18:05:17.091Z"
+generated_at: "2026-03-29T18:25:23.699Z"
 ---
 
-# § 677v. Termination of Federal trust; publication; termination of Federal services; application of Federal and State laws
-
-Upon removal of Federal restrictions on the property of each individual mixed-blood member of the tribe, the Secretary shall publish in the Federal Register a proclamation declaring that the Federal trust relationship to such individual is terminated. Thereafter, such individual shall not be entitled to any of the services performed for Indians because of his status as an Indian. All statutes of the United States which affect Indians because of their status as Indians shall no longer be applicable to such member over which supervision has been terminated, and the laws of the several States shall apply to such member in the same manner as they apply to other citizens within their jurisdiction.
+# § 677v. Omitted
 

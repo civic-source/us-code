@@ -3,9 +3,9 @@ title: "Section 2872a - Utilities and services"
 usc_title: 10
 usc_section: "2872a"
 chapter: 169
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2872a"
-generated_at: "2026-03-29T18:04:13.219Z"
+generated_at: "2026-03-29T18:23:52.010Z"
 ---
 
 # § 2872a. Utilities and services
@@ -26,4 +26,7 @@ generated_at: "2026-03-29T18:04:13.219Z"
   - **(12)** Police protection services.
 - **(c)**
   - **(1)** The Secretary concerned shall be reimbursed for any utilities or services furnished under subsection (a).
-  - **(2)** The amount of any cash payment received under paragraph (1) shall be credited to the appropriation or working capital account from which the cost of furnishing the utilities or services concerned was paid. Amounts so credited to an appropriation or account shall be merged with funds in such appropriation or account, and shall be available to the same extent, and subject to the same terms and conditions, as such funds.
+  - **(2)** The amount of any cash payment received under paragraph (1) as reimbursement for the cost of furnishing utilities or services shall—
+    - **(A)** in the case of a cost paid using funds appropriated or otherwise made available before October 1, 2014 , be credited to the appropriation or working capital account from which the cost of furnishing utilities or services concerned was paid; or
+    - **(B)** in the case of a cost paid using funds appropriated or otherwise made available on or after October 1, 2014 , be credited to the appropriation or working capital account currently available for the purpose of furnishing utilities or services under subsection (a).
+  - **(3)** Amounts credited under paragraph (2) to an appropriation or account shall be merged with funds in such appropriation or account, and shall be available to the same extent, and subject to the same terms and conditions, as such funds.

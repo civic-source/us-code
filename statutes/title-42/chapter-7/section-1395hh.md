@@ -3,9 +3,9 @@ title: "Section 1395hh - Regulations"
 usc_title: 42
 usc_section: "1395hh"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1395hh"
-generated_at: "2026-03-29T18:07:14.033Z"
+generated_at: "2026-03-29T18:27:03.149Z"
 ---
 
 # § 1395hh. Regulations
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T18:07:14.033Z"
     - **(D)** The Secretary shall annually submit to Congress a report that describes the instances in which the Secretary failed to publish a final regulation within the applicable regular timeline under this paragraph and that provides an explanation for such failures.
   - **(4)** If the Secretary publishes a final regulation that includes a provision that is not a logical outgrowth of a previously published notice of proposed rulemaking or interim final rule, such provision shall be treated as a proposed regulation and shall not take effect until there is the further opportunity for public comment and a publication of the provision again as a final regulation.
 - **(b)**
-  - **(1)** Except as provided in paragraph (2), before issuing in final form any regulation under subsection (a) of this section, the Secretary shall provide for notice of the proposed regulation in the Federal Register and a period of not less than 60 days for public comment thereon.
+  - **(1)** Except as provided in paragraph (2), before issuing in final form any regulation under subsection (a), the Secretary shall provide for notice of the proposed regulation in the Federal Register and a period of not less than 60 days for public comment thereon.
   - **(2)** Paragraph (1) shall not apply where—
     - **(A)** a statute specifically permits a regulation to be issued in interim final form or otherwise with a shorter period for public comment,
     - **(B)** a statute establishes a specific deadline for the implementation of a provision and the deadline is less than 150 days after the date of the enactment of the statute in which the deadline is contained, or
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T18:07:14.033Z"
 - **(c)**
   - **(1)** The Secretary shall publish in the Federal Register, not less frequently than every 3 months, a list of all manual instructions, interpretative rules, statements of policy, and guidelines of general applicability which—
     - **(A)** are promulgated to carry out this subchapter, but
-    - **(B)** are not published pursuant to subsection (a)(1) of this section and have not been previously published in a list under this subsection.
+    - **(B)** are not published pursuant to subsection (a)(1) and have not been previously published in a list under this subsection.
   - **(2)** Effective June 1, 1988 , each fiscal intermediary and carrier administering claims for extended care, post-hospital extended care, home health care, and durable medical equipment benefits under this subchapter shall make available to the public all interpretative materials, guidelines, and clarifications of policies which relate to payments for such benefits.
   - **(3)** The Secretary shall to the extent feasible make such changes in automated data collection and retrieval by the Secretary and fiscal intermediaries with agreements under section 1395h of this title as are necessary to make easily accessible for the Secretary and other appropriate parties a data base which fairly and accurately reflects the provision of extended care, post-hospital extended care and home health care benefits pursuant to this subchapter, including such categories as benefit denials, results of appeals, and other relevant factors, and selectable by such categories and by fiscal intermediary, service provider, and region.
 - **(e)**
@@ -49,6 +49,6 @@ generated_at: "2026-03-29T18:07:14.033Z"
 - **(f)**
   - **(1)** Not later than 2 years after December 8, 2003 , and every 3 years thereafter, the Secretary shall submit to Congress a report with respect to the administration of this subchapter and areas of inconsistency or conflict among the various provisions under law and regulation.
   - **(2)** In preparing a report under paragraph (1), the Secretary shall collect—
-    - **(A)** information from individuals entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, providers of services, and suppliers and from the Medicare Beneficiary Ombudsman with respect to such areas of inconsistency and conflict; and
+    - **(A)** information from individuals entitled to benefits under part A or enrolled under part B, or both, providers of services, and suppliers and from the Medicare Beneficiary Ombudsman with respect to such areas of inconsistency and conflict; and
     - **(B)** information from medicare contractors that tracks the nature of written and telephone inquiries.
   - **(3)** A report under paragraph (1) shall include a description of efforts by the Secretary to reduce such inconsistency or conflicts, and recommendations for legislation or administrative action that the Secretary determines appropriate to further reduce such inconsistency or conflicts.

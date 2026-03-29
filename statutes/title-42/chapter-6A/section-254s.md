@@ -3,18 +3,18 @@ title: "Section 254s - Native Hawaiian Health Scholarships"
 usc_title: 42
 usc_section: "254s"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 254s"
-generated_at: "2026-03-29T18:07:13.332Z"
+generated_at: "2026-03-29T18:27:02.581Z"
 ---
 
 # § 254s. Native Hawaiian Health Scholarships
 
-- **(a)** Subject to the availability of funds appropriated under the authority of subsection (d) of this section, the Secretary shall provide funds to Papa Ola Lokahi for the purpose of providing scholarship assistance to students who—
+- **(a)** Subject to the availability of funds appropriated under the authority of subsection (d), the Secretary shall provide funds to Papa Ola Lokahi for the purpose of providing scholarship assistance to students who—
   - **(1)** meet the requirements of section 254 l (b) of this title, and
   - **(2)** are Native Hawaiians.
 - **(b)**
-  - **(1)** The scholarship assistance provided under subsection (a) of this section shall be provided under the same terms and subject to the same conditions, regulations, and rules that apply to scholarship assistance provided under section 254 l of this title.
+  - **(1)** The scholarship assistance provided under subsection (a) shall be provided under the same terms and subject to the same conditions, regulations, and rules that apply to scholarship assistance provided under section 254 l of this title.
   - **(2)** The Native Hawaiian Health Scholarship program shall not be administered by or through the Indian Health Service.
 - **(c)** For purposes of this section, the term “Native Hawaiian” means any individual who is—
   - **(1)** a citizen of the United States,
@@ -23,4 +23,4 @@ generated_at: "2026-03-29T18:07:13.332Z"
     - **(A)** genealogical records,
     - **(B)** Kupuna (elders) or Kama’aina (long-term community residents) verification, or
     - **(C)** birth records of the State of Hawaii.
-- **(d)** There are authorized to be appropriated $1,800,000 for each of the fiscal years 1990, 1991, and 1992 for the purpose of funding the scholarship assistance provided under subsection (a) of this section.
+- **(d)** There are authorized to be appropriated $1,800,000 for each of the fiscal years 1990, 1991, and 1992 for the purpose of funding the scholarship assistance provided under subsection (a).

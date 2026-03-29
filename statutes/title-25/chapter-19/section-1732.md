@@ -1,14 +1,12 @@
 ---
-title: "Section 1732 - Limitation of actions"
+title: "Section 1732 - Omitted"
 usc_title: 25
 usc_section: "1732"
 chapter: 19
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1732"
-generated_at: "2026-03-29T18:05:17.175Z"
+generated_at: "2026-03-29T18:25:23.750Z"
 ---
 
-# § 1732. Limitation of actions
-
-Except as provided in this subchapter, no provision of this subchapter shall be construed to constitute a jurisdictional act, to confer jurisdiction to sue, or to grant implied consent to any Indian, Indian nation, or tribe or band of Indians to sue the United States or any of its officers with respect to the claims extinguished by the operation of this subchapter.
+# § 1732. Omitted
 

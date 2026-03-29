@@ -1,0 +1,24 @@
+---
+title: "Section 4049 - Officers and employees of the Bureau of Prisons authorized to carry oleoresin capsicum spray"
+usc_title: 18
+usc_section: "4049"
+chapter: 303
+current_through: "PL 114-254"
+classification: "18 U.S.C. § 4049"
+generated_at: "2026-03-29T18:24:43.890Z"
+---
+
+# § 4049. Officers and employees of the Bureau of Prisons authorized to carry oleoresin capsicum spray
+
+- **(a)** The Director of the Bureau of Prisons shall issue, on a routine basis, oleoresin capsicum spray to—
+  - **(1)** any officer or employee of the Bureau of Prisons who—
+    - **(A)** is employed in a prison that is not a minimum or low security prison; and
+    - **(B)** may respond to an emergency situation in such a prison; and
+  - **(2)** to such additional officers and employees of prisons as the Director determines appropriate, in accordance with this section.
+- **(b)**
+  - **(1)** In order for an officer or employee of the Bureau of Prisons, including a correctional officer, to be eligible to receive and carry oleoresin capsicum spray pursuant to this section, the officer or employee shall complete a training course before being issued such spray, and annually thereafter, on the use of oleoresin capsicum spray.
+  - **(2)** An officer or employee of the Bureau of Prisons who completes a training course pursuant to paragraph (1) and subsequently transfers to employment at a different prison, shall not be required to complete an additional training course solely due such transfer.
+  - **(3)** An officer or employee of the Bureau of Prisons who completes a training course required under paragraph (1) shall do so during the course of that officer or employee’s regular employment, and shall be compensated at the same rate that the officer or employee would be compensated for conducting the officer or employee’s regular duties.
+- **(c)** Officers and employees of the Bureau of Prisons issued oleoresin capsicum spray pursuant to subsection (a) may use such spray to reduce acts of violence—
+  - **(1)** committed by prisoners against themselves, other prisoners, prison visitors, and officers and employees of the Bureau of Prisons; and
+  - **(2)** committed by prison visitors against themselves, prisoners, other visitors, and officers and employees of the Bureau of Prisons.

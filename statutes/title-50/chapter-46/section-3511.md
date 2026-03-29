@@ -3,9 +3,9 @@ title: "Section 3511 - Authority to pay death gratuities"
 usc_title: 50
 usc_section: "3511"
 chapter: 46
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 3511"
-generated_at: "2026-03-29T18:07:43.139Z"
+generated_at: "2026-03-29T18:27:35.699Z"
 ---
 
 # § 3511. Authority to pay death gratuities
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T18:07:43.139Z"
     - **(A)** resulted from hostile or terrorist activities; or
     - **(B)** occurred in connection with an intelligence activity having a substantial element of risk.
   - **(2)** The provisions of this subsection shall apply with respect to deaths occurring after June 30, 1974 .
-- **(b)** Any payment under subsection (a) of this section—
+- **(b)** Any payment under subsection (a)—
   - **(1)** shall be in an amount equal to the amount of the annual salary of the officer or employee concerned at the time of death;
   - **(2)** shall be considered a gift and shall be in lieu of payment of any lesser death gratuity authorized by any other Federal law; and
   - **(3)** shall be made under the same conditions as apply to payments authorized by section 3973 of title 22 .

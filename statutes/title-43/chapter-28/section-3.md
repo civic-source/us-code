@@ -3,9 +3,9 @@ title: "Section 3 - Additional sum from surplus for meeting payments due from in
 usc_title: 43
 usc_section: "3"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 3"
-generated_at: "2026-03-29T18:06:28.322Z"
+generated_at: "2026-03-29T18:26:14.848Z"
 ---
 
 # § 1181f–3. Additional sum from surplus for meeting payments due from insufficient annual receipts; maximum aggregate of decennial payments; covering of excess receipts into general fund of Treasury

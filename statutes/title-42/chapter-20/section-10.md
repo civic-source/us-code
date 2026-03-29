@@ -1,21 +1,12 @@
 ---
-title: "Section 10 - Criminal penalties"
+title: "Section 10 - Transferred"
 usc_title: 42
 usc_section: "10"
 chapter: 20
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-29T18:07:14.362Z"
+generated_at: "2026-03-29T18:27:03.399Z"
 ---
 
-# § 1973gg–10. Criminal penalties
+# § 1973gg–10. Transferred
 
-A person, including an election official, who in any election for Federal office—
-
-  - **(1)** knowingly and willfully intimidates, threatens, or coerces, or attempts to intimidate, threaten, or coerce, any person for—
-    - **(A)** registering to vote, or voting, or attempting to register or vote;
-    - **(B)** urging or aiding any person to register to vote, to vote, or to attempt to register or vote; or
-    - **(C)** exercising any right under this subchapter; or
-  - **(2)** knowingly and willfully deprives, defrauds, or attempts to deprive or defraud the residents of a State of a fair and impartially conducted election process, by—
-    - **(A)** the procurement or submission of voter registration applications that are known by the person to be materially false, fictitious, or fraudulent under the laws of the State in which the election is held; or
-    - **(B)** the procurement, casting, or tabulation of ballots that are known by the person to be materially false, fictitious, or fraudulent under the laws of the State in which the election is held,

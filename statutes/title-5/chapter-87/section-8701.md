@@ -3,9 +3,9 @@ title: "Section 8701 - Definitions"
 usc_title: 5
 usc_section: "8701"
 chapter: 87
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 8701"
-generated_at: "2026-03-29T18:03:29.970Z"
+generated_at: "2026-03-29T18:23:29.971Z"
 ---
 
 # § 8701. Definitions
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T18:03:29.970Z"
   - **(7)** an individual employed by Gallaudet College; 1 1 See Change of Name note below.
   - **(8)** an individual employed by a county committee established under section 590h(b) of title 16 ;
   - **(9)** an individual appointed to a position on the office staff of a former President under section 1(b) of the Act of August 25, 1958 ( 72 Stat. 838 ); and
-  - **(10)** an individual appointed to a position on the office staff of a former President, or a former Vice President under section 4 of the Presidential Transition Act of 1963, as amended ( 78 Stat. 153 ), who immediately before the date of such appointment was an employee as defined under any other paragraph of this subsection;
+  - **(10)** an individual appointed to a position on the office staff of a former President, or a former Vice President under section 5 of the Presidential Transition Act of 1963, as amended ( 78 Stat. 153 ), who immediately before the date of such appointment was an employee as defined under any other paragraph of this subsection;
     - **(A)** an employee of a corporation supervised by the Farm Credit Administration if private interests elect or appoint a member of the board of directors;
     - **(B)** an individual who is not a citizen or national of the United States and whose permanent duty station is outside the United States, unless the individual was an employee for the purpose of this chapter on September 30, 1979 , by reason of service in an Executive agency, the United States Postal Service, or the Smithsonian Institution in the area which was then known as the Canal Zone; or
     - **(C)** an employee excluded by regulation of the Office of Personnel Management under section 8716(b) of this title .

@@ -3,9 +3,9 @@ title: "Section 291 - Removal of Government property at schools"
 usc_title: 25
 usc_section: "291"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 291"
-generated_at: "2026-03-29T18:05:17.033Z"
+generated_at: "2026-03-29T18:25:23.672Z"
 ---
 
 # § 291. Removal of Government property at schools

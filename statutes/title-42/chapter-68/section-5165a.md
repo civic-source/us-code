@@ -3,9 +3,9 @@ title: "Section 5165a - Minimum standards for public and private structures"
 usc_title: 42
 usc_section: "5165a"
 chapter: 68
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 5165a"
-generated_at: "2026-03-29T18:07:14.651Z"
+generated_at: "2026-03-29T18:27:03.619Z"
 ---
 
 # § 5165a. Minimum standards for public and private structures

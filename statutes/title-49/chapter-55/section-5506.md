@@ -1,12 +1,12 @@
 ---
-title: "Section 5506 - Repealed. Pub. L. 112–141, div. E, title II, § 52010(a) , July 6, 2012 , 126 Stat. 887 ]"
+title: "Section 5506 - Repealed. Pub. L. 112–141, div. E, title II , § 52010(a), July 6, 2012 , 126 Stat. 887 ]"
 usc_title: 49
 usc_section: "5506"
 chapter: 55
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 5506"
-generated_at: "2026-03-29T18:07:51.364Z"
+generated_at: "2026-03-29T18:27:16.470Z"
 ---
 
-# [§ 5506. Repealed. Pub. L. 112–141, div. E, title II, § 52010(a) , July 6, 2012 , 126 Stat. 887 ]
+# [§ 5506. Repealed. Pub. L. 112–141, div. E, title II , § 52010(a), July 6, 2012 , 126 Stat. 887 ]
 

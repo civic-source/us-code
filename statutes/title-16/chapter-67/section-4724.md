@@ -3,9 +3,9 @@ title: "Section 4724 - State aquatic nuisance species management plans"
 usc_title: 16
 usc_section: "4724"
 chapter: 67
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 4724"
-generated_at: "2026-03-29T18:05:07.072Z"
+generated_at: "2026-03-29T18:24:22.914Z"
 ---
 
 # § 4724. State aquatic nuisance species management plans
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T18:05:07.072Z"
     - **(B)** Upon the request of a State or the appropriate official of an interstate organization, the Task Force or the Assistant Secretary, as appropriate under paragraph (1), may provide technical assistance in developing and implementing a management plan.
   - **(4)** Within 90 days after the submission of a management plan, the Task Force or the Assistant Secretary in consultation with the Task Force, as appropriate under paragraph (1), shall review the proposed plan and approve it if it meets the requirements of this subsection or return the plan to the Governor or the interstate organization with recommended modifications.
 - **(b)**
-  - **(1)** The Director may, at the recommendation of the Task Force, make grants to States with management plans approved under subsection (a) of this section for the implementation of those plans.
+  - **(1)** The Director may, at the recommendation of the Task Force, make grants to States with management plans approved under subsection (a) for the implementation of those plans.
   - **(2)** An application for a grant under this subsection shall include an identification and description of the best management practices and measures which the State proposes to utilize in implementing an approved management plan with any Federal assistance to be provided under the grant.
   - **(3)**
     - **(A)** The Federal share of the cost of each comprehensive management plan implemented with Federal assistance under this section in any fiscal year shall not exceed 75 percent of the cost incurred by the State in implementing such management program and the non-Federal share of such costs shall be provided from non-Federal sources.

@@ -3,71 +3,53 @@ title: "Section 1873 - Annual reports"
 usc_title: 50
 usc_section: "1873"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 1873"
-generated_at: "2026-03-29T02:16:14.720Z"
+generated_at: "2026-03-29T18:27:35.612Z"
 ---
 
 # § 1873. Annual reports
 
 - **(a)**
   - **(1)** The Director of the Administrative Office of the United States Courts shall annually submit to the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives and the Select Committee on Intelligence and the Committee on the Judiciary of the Senate, subject to a declassification review by the Attorney General and the Director of National Intelligence, a report that includes—
-    - **(A)** the number of applications or certifications for orders submitted under each of sections 1805, 1824, 1842, 1861, 1 1 See References in Text note below. 1881a, 1881b, and 1881c of this title;
+    - **(A)** the number of applications or certifications for orders submitted under each of sections 1805, 1824, 1842, 1861, 1881a, 1881b, and 1881c of this title;
     - **(B)** the number of such orders granted under each of those sections;
     - **(C)** the number of orders modified under each of those sections;
     - **(D)** the number of applications or certifications denied under each of those sections;
-    - **(E)** the number of appointments of an individual to serve as amicus curiae under section 1803 of this title , including the name of each individual appointed to serve as amicus curiae;
-    - **(F)** the number of findings issued under section 1803(i) of this title that such appointment is not appropriate and the text of any such findings; and
-    - **(G)** the number of times the Foreign Intelligence Surveillance Court and the Foreign Intelligence Surveillance Court of Review exercised authority under chapter 21 of title 18 and a description of each use of such authority.
+    - **(E)** the number of appointments of an individual to serve as amicus curiae under section 1803 of this title , including the name of each individual appointed to serve as amicus curiae; and
+    - **(F)** the number of findings issued under section 1803(i) of this title that such appointment is not appropriate and the text of any such findings.
   - **(2)** The Director shall make the report required under paragraph (1) publicly available on an Internet Web site, except that the Director shall not make publicly available on an Internet Web site the findings described in subparagraph (F) of paragraph (1).
 - **(b)** Except as provided in subsection (d), the Director of National Intelligence shall annually make publicly available on an Internet Web site a report that identifies, for the preceding 12-month period—
-  - **(1)** the total number of orders issued pursuant to subchapters I and II and sections 1881b and 1881c of this title and a good faith estimate of—
-    - **(A)** the number of targets of such orders;
-    - **(B)** the number of targets of such orders who are known to not be United States persons; and
-    - **(C)** the number of targets of such orders who are known to be United States persons;
-  - **(2)** the total number of orders issued pursuant to section 1881a of this title , including pursuant to subsection (f)(2) of such section, and a good faith estimate of—
-    - **(A)** the number of targets of such orders;
-    - **(B)** the number of search terms concerning a known United States person used to retrieve the unminimized contents (or combined unminimized contents and noncontents information) of electronic communications or wire communications obtained through acquisitions authorized under such section, excluding the number of search terms used to prevent the return of information concerning a United States person;
-    - **(C)** the number of queries concerning a known United States person of unminimized noncontents information relating to electronic communications or wire communications obtained through acquisitions authorized under such section, excluding the number of queries containing information used to prevent the return of information concerning a United States person; 2 2 So in original. Probably should be followed by “and”.
-    - **(D)** the number of instances in which the Federal Bureau of Investigation opened, under the Criminal Investigative Division or any successor division, an investigation of a United States person (who is not considered a threat to national security) based wholly or in part on an acquisition authorized under such section;
+  - **(1)** the total number of orders issued pursuant to subchapters I and II and sections 1881b and 1881c of this title and a good faith estimate of the number of targets of such orders;
+  - **(2)** the total number of orders issued pursuant to section 1881a of this title and a good faith estimate of—
+    - **(A)** the number of search terms concerning a known United States person used to retrieve the unminimized contents of electronic communications or wire communications obtained through acquisitions authorized under such section, excluding the number of search terms used to prevent the return of information concerning a United States person; and
+    - **(B)** the number of queries concerning a known United States person of unminimized noncontents information relating to electronic communications or wire communications obtained through acquisitions authorized under such section, excluding the number of queries containing information used to prevent the return of information concerning a United States person;
   - **(3)** the total number of orders issued pursuant to subchapter III and a good faith estimate of—
-    - **(A)** the number of targets of such orders, including—
-      - **(i)** the number of targets of such orders who are known to not be United States persons; and
-      - **(ii)** the number of targets of such orders who are known to be United States persons; and
-    - **(B)** the number of unique identifiers used to communicate information collected pursuant to such orders;
-  - **(4)** the number of criminal proceedings in which the United States or a State or political subdivision thereof provided notice pursuant to subsection (c) or (d) of section 1806 of this title (including with respect to information acquired from an acquisition conducted under section 1881a of this title ) or subsection (d) or (e) of section 1825 of this title of the intent of the government to enter into evidence or otherwise use or disclose any information obtained or derived from electronic surveillance, physical search, or an acquisition conducted pursuant to this chapter;
-  - **(5)** the total number of orders issued pursuant to applications made under section 1861(b)(2)(B) 1 of this title and a good faith estimate of—
     - **(A)** the number of targets of such orders; and
     - **(B)** the number of unique identifiers used to communicate information collected pursuant to such orders;
-  - **(6)** the total number of orders issued pursuant to applications made under section 1861(b)(2)(C) 1 of this title and a good faith estimate of—
+  - **(4)** the total number of orders issued pursuant to applications made under section 1861(b)(2)(B) of this title and a good faith estimate of—
+    - **(A)** the number of targets of such orders; and
+    - **(B)** the number of unique identifiers used to communicate information collected pursuant to such orders;
+  - **(5)** the total number of orders issued pursuant to applications made under section 1861(b)(2)(C) of this title and a good faith estimate of—
     - **(A)** the number of targets of such orders;
     - **(B)** the number of unique identifiers used to communicate information collected pursuant to such orders; and
     - **(C)** the number of search terms that included information concerning a United States person that were used to query any database of call detail records obtained through the use of such orders; and
-  - **(7)** the total number of national security letters issued and the number of requests for information contained within such national security letters.
+  - **(6)** the total number of national security letters issued and the number of requests for information contained within such national security letters.
 - **(c)** The annual reports required by subsections (a) and (b) shall be made publicly available during April of each year and include information relating to the previous calendar year.
 - **(d)**
-  - **(1)** If a good faith estimate required to be reported under subparagraph (B) of any of paragraphs (3), (5), or (6) of subsection (b) is fewer than 500, it shall be expressed as a numerical range of “fewer than 500” and shall not be expressed as an individual number.
-  - **(2)** Paragraph (3)(B) of subsection (b) shall not apply to orders resulting in the acquisition of information by the Federal Bureau of Investigation that does not include electronic mail addresses or telephone numbers.
+  - **(1)** If a good faith estimate required to be reported under subparagraph (B) of any of paragraphs (3), (4), or (5) of subsection (b) is fewer than 500, it shall be expressed as a numerical range of “fewer than 500” and shall not be expressed as an individual number.
+  - **(2)**
+    - **(A)** Paragraphs (2)(A), (2)(B), and (5)(C) of subsection (b) shall not apply to information or records held by, or queries conducted by, the Federal Bureau of Investigation.
+    - **(B)** Paragraph (3)(B) of subsection (b) shall not apply to orders resulting in the acquisition of information by the Federal Bureau of Investigation that does not include electronic mail addresses or telephone numbers.
   - **(3)**
-    - **(A)** If the Director of National Intelligence concludes that a good faith estimate required to be reported under subsection (b)(2)(C) cannot be determined accurately because some but not all of the relevant elements of the intelligence community are able to provide such good faith estimate, the Director shall—
+    - **(A)** If the Director of National Intelligence concludes that a good faith estimate required to be reported under subsection (b)(2)(B) cannot be determined accurately because some but not all of the relevant elements of the intelligence community are able to provide such good faith estimate, the Director shall—
       - **(i)** certify that conclusion in writing to the Select Committee on Intelligence and the Committee on the Judiciary of the Senate and the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives;
       - **(ii)** report the good faith estimate for those relevant elements able to provide such good faith estimate;
       - **(iii)** explain when it is reasonably anticipated that such an estimate will be able to be determined fully and accurately; and
       - **(iv)** make such certification publicly available on an Internet Web site.
     - **(B)** A certification described in subparagraph (A) shall be prepared in unclassified form, but may contain a classified annex.
     - **(C)** If the Director of National Intelligence continues to conclude that the good faith estimates described in this paragraph cannot be determined accurately, the Director shall annually submit a certification in accordance with this paragraph.
-- **(e)** The Director of the Federal Bureau of Investigation shall annually submit to the Permanent Select Committee on Intelligence and the Committee on Judiciary of the House of Representatives and the Select Committee on Intelligence and the Committee on the Judiciary of the Senate, a report describing the accountability actions taken by the Federal Bureau of Investigation in the preceding 12-month period for noncompliant querying of information acquired under section 1881a of this title and any such actions taken pursuant to section 1803(m) of this title , to include the number of ongoing personnel investigations, the outcome of any completed personnel investigations and any related adverse personnel actions taken.
-- **(f)**
-  - **(1)** The Director of the Federal Bureau of Investigation shall annually submit to the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives and the Select Committee on Intelligence and the Committee on the Judiciary of the Senate a report that includes—
-    - **(A)** the number of United States person queries by the Federal Bureau of Investigation of unminimized contents or noncontents acquired pursuant to section 1881a(a) of this title ;
-    - **(B)** the number of approved queries using the Federal Bureau of Investigation’s batch job technology, or successor tool;
-    - **(C)** the number of queries using the Federal Bureau of Investigation’s batch job technology, or successor tool, conducted by the Federal Bureau of Investigation against information acquired pursuant to section 1881a(a) of this title for which pre-approval was not obtained due to emergency circumstances;
-    - **(D)** the number of United States person queries conducted by the Federal Bureau of Investigation of unminimized contents or noncontents acquired pursuant to section 1881a(a) of this title solely to retrieve evidence of a crime;
-    - **(E)** a good faith estimate of the number of United States person query terms used by the Federal Bureau of Investigation to conduct queries of unminimized contents or noncontents acquired pursuant to section 1881a(a) of this title primarily to protect the United States person who is the subject of the query; and
-    - **(F)** a good faith estimate of the number of United States person query terms used by the Federal Bureau of Investigation to conduct queries of unminimized contents or noncontents acquired pursuant to section 1881a(a) of this title where the United States person who is the subject of the query is a target or subject of an investigation by the Federal Bureau of Investigation.
-  - **(2)** Subject to declassification review by the Attorney General and the Director of National Intelligence, each annual report submitted pursuant to paragraph (1) shall be available to the public during the first April following the calendar year covered by the report.
-  - **(3)** Beginning on the date that is not later than 1 year after the effective date of this paragraph, the Director of the Federal Bureau of Investigation shall submit a quarterly report to the congressional intelligence committees and to the Committees on the Judiciary of the House of Representatives and of the Senate that includes the number of U.S. person queries conducted during that quarter.
-- **(g)** In this section:
+- **(e)** In this section:
   - **(1)** The term “contents” has the meaning given that term under section 2510 of title 18 .
   - **(2)** The term “electronic communication” has the meaning given that term under section 2510 of title 18 .
   - **(3)** The term “national security letter” means a request for a report, records, or other information under—

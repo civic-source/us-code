@@ -3,9 +3,9 @@ title: "Section 126 - Vermont"
 usc_title: 28
 usc_section: "126"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "28 U.S.C. § 126"
-generated_at: "2026-03-29T18:06:03.317Z"
+generated_at: "2026-03-29T18:25:32.841Z"
 ---
 
 # § 126. Vermont

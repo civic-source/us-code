@@ -1,14 +1,12 @@
 ---
-title: "Section 589 - Tax exemption"
+title: "Section 589 - Omitted"
 usc_title: 25
 usc_section: "589"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 589"
-generated_at: "2026-03-29T18:05:17.074Z"
+generated_at: "2026-03-29T18:25:23.697Z"
 ---
 
-# § 589. Tax exemption
-
-Any funds distributed per capita under provisions of sections 581 to 590 of this title shall not be subject to Federal or State income tax.
+# § 589. Omitted
 

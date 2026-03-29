@@ -3,14 +3,14 @@ title: "Section 1980b - Sanctions for imposition of conditions on U.S. fishing v
 usc_title: 22
 usc_section: "1980b"
 chapter: 25
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 1980b"
-generated_at: "2026-03-29T18:05:21.793Z"
+generated_at: "2026-03-29T18:24:54.167Z"
 ---
 
 # § 1980b. Sanctions for imposition of conditions on U.S. fishing vessel found inconsistent with international law
 
 - **(a)** If the Secretary of State finds that the government of any nation imposes conditions on the operation or transit of United States fishing vessels which the United States regards as being inconsistent with international law or an international agreement, the Secretary of State shall certify that fact to the President.
-- **(b)** Upon receipt of a certification under subsection (a) of this section, the President shall direct the heads of Federal agencies to impose similar conditions on the operation or transit of fishing vessels registered under the laws of the nation which has imposed conditions on United States fishing vessels.
+- **(b)** Upon receipt of a certification under subsection (a), the President shall direct the heads of Federal agencies to impose similar conditions on the operation or transit of fishing vessels registered under the laws of the nation which has imposed conditions on United States fishing vessels.
 - **(c)** For the purposes of this section, the term “fishing vessel” has the meaning given that term in section 2101(11a) of title 46.
-- **(d)** It is the sense of the Congress that any action taken by any Federal agency under subsection (b) of this section should be commensurate with any conditions certified by the Secretary of State under subsection (a) of this section.
+- **(d)** It is the sense of the Congress that any action taken by any Federal agency under subsection (b) should be commensurate with any conditions certified by the Secretary of State under subsection (a).

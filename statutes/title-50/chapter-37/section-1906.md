@@ -3,9 +3,9 @@ title: "Section 1906 - Annual report"
 usc_title: 50
 usc_section: "1906"
 chapter: 37
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 1906"
-generated_at: "2026-03-29T18:07:43.049Z"
+generated_at: "2026-03-29T18:27:35.622Z"
 ---
 
 # § 1906. Annual report
@@ -26,4 +26,4 @@ generated_at: "2026-03-29T18:07:43.049Z"
   - **(6)** the current list of agencies and offices of the Federal Government required to be developed by section 1902(g) of this title ; and
   - **(7)** any legislative changes recommended by the Secretary to facilitate the administration of the program or otherwise to enhance its objectives.
 - **(c)** The first report under this section shall be submitted at the time the budget for fiscal year 1994 is submitted to Congress.
-- **(d)** During the preparation of each report required by subsection (a) of this section, the Secretary shall consult with the members of the Board specified in paragraphs (1) through (7) of section 1903(b) 1 1 See References in Text note below. of this title. Each such member shall submit to the Secretary an assessment of their hiring needs in the areas of language and area studies and a projection of the deficiencies in such areas. The Secretary shall include all assessments in the report required by subsection (a) of this section.
+- **(d)** During the preparation of each report required by subsection (a), the Secretary shall consult with the members of the Board specified in paragraphs (1) through (7) of section 1903(b) 1 1 See References in Text note below. of this title. Each such member shall submit to the Secretary an assessment of their hiring needs in the areas of language and area studies and a projection of the deficiencies in such areas. The Secretary shall include all assessments in the report required by subsection (a).

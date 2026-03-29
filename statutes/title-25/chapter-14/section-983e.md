@@ -1,22 +1,12 @@
 ---
-title: "Section 983e - Membership roll"
+title: "Section 983e - Omitted"
 usc_title: 25
 usc_section: "983e"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 983e"
-generated_at: "2026-03-29T18:05:17.116Z"
+generated_at: "2026-03-29T18:25:23.705Z"
 ---
 
-# § 983e. Membership roll
+# § 983e. Omitted
 
-- **(a)** Until a tribal constitution is adopted in accordance with section 983f of this title , the Interim Council shall take such measures as will insure the continuing accuracy of the membership roll of the Tribe.
-- **(b)**
-  - **(1)** Until a tribal constitution is adopted in accordance with section 983f of this title , an individual shall be eligible for membership in the Tribe, and the name of the individual shall be placed on the membership roll of the Tribe, if—
-    - **(A)** the individual is living and is not an enrolled member of another Indian tribe that is recognized by the Federal Government, and
-    - **(B)** the individual—
-      - **(i)** was listed on the tribal membership roll of June 18, 1965 , that was compiled by the Bureau of Indian Affairs,
-      - **(ii)** notwithstanding the application or appeal deadline dates, was entitled to be listed on the membership roll of June 18, 1965 , that was compiled by the Bureau of Indian Affairs, but was not listed, or
-      - **(iii)** is a lineal descendant of an individual, living or deceased, who is described in clause (i) or (ii).
-  - **(2)** Any individual who is excluded from the membership roll of the Tribe by the Interim Council may appeal to the Secretary for a determination of the eligibility of the individual for membership in the Tribe. Such determination by the Secretary shall be final. The Interim Council shall include on the membership roll any such individual that the Secretary determines in such an appeal to be eligible for membership in the Tribe.
-- **(c)** After adoption of a tribal constitution in accordance with section 983f of this title , the constitution of the Tribe shall govern membership in the Tribe.

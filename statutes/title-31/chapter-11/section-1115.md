@@ -3,9 +3,9 @@ title: "Section 1115 - Federal Government and agency performance plans"
 usc_title: 31
 usc_section: "1115"
 chapter: 11
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "31 U.S.C. § 1115"
-generated_at: "2026-03-29T18:06:08.461Z"
+generated_at: "2026-03-29T18:25:59.152Z"
 ---
 
 # § 1115. Federal Government and agency performance plans
@@ -58,7 +58,7 @@ generated_at: "2026-03-29T18:06:08.461Z"
   - **(2)** is properly classified pursuant to such Executive order.
 - **(f)** The functions and activities of this section shall be considered to be inherently governmental functions. The drafting of performance plans under this section shall be performed only by Federal employees.
 - **(g)** With respect to each agency with a Chief Human Capital Officer, the Chief Human Capital Officer shall prepare that portion of the annual performance plan described under subsection (b)(5)(A).
-- **(h)** For purposes of this section and sections 1116 through 1125, and sections 9703 1 1 See References in Text note below. and 9704, the term—
+- **(h)** For purposes of this section and sections 1116 through 1125, and sections 9703 and 9704, the term—
   - **(1)** “agency” has the same meaning as such term is defined under section 306(f) of title 5 ;
   - **(2)** “crosscutting” means across organizational (such as agency) boundaries;
   - **(3)** “customer service measure” means an assessment of service delivery to a customer, client, citizen, or other recipient, which can include an assessment of quality, timeliness, and satisfaction among other factors;

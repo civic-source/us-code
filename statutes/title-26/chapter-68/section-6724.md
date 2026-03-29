@@ -3,9 +3,9 @@ title: "Section 6724 - Waiver; definitions and special rules"
 usc_title: 26
 usc_section: "6724"
 chapter: 68
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 6724"
-generated_at: "2026-03-29T18:05:45.037Z"
+generated_at: "2026-03-29T18:25:53.956Z"
 ---
 
 # § 6724. Waiver; definitions and special rules
@@ -50,10 +50,11 @@ generated_at: "2026-03-29T18:05:45.037Z"
       - **(xxii)** section 6039(a) (relating to returns required with respect to certain options),
       - **(xxiii)** section 6050W (relating to returns to payments made in settlement of payment card transactions),
       - **(xxiv)** section 6055 (relating to returns relating to information regarding health insurance coverage), or
-      - **(xxv)** section 6056 (relating to returns relating to certain employers required to report on health insurance coverage), and
+      - **(xxv)** section 6056 (relating to returns relating to certain employers required to report on health insurance coverage),
     - **(C)** any statement of the amount of payments to another person required to be made to the Secretary under—
       - **(i)** section 408(i) (relating to reports with respect to individual retirement accounts or annuities), or
-      - **(ii)** section 6047(d) (relating to reports by employers, plan administrators, etc.).
+      - **(ii)** section 6047(d) (relating to reports by employers, plan administrators, etc.), and
+    - **(D)** any statement required to be filed with the Secretary under section 6035. Such term also includes any form, statement, or schedule required to be filed with the Secretary under chapter 4 or with respect to any amount from which tax was required to be deducted and withheld under chapter 3 (or from which tax would be required to be so deducted and withheld but for an exemption under this title or any treaty obligation of the United States). 3 3 So in original. Provision probably should be set flush with par. (1).
   - **(2)** The term “payee statement” means any statement required to be furnished under—
     - **(A)** section 6031(b) or (c), 6034A, or 6037(b) (relating to statements furnished by certain pass-thru entities),
     - **(B)** section 6039(b) (relating to information required in connection with certain options),
@@ -86,9 +87,10 @@ generated_at: "2026-03-29T18:05:45.037Z"
     - **(CC)** section 264(f)(5)(A)(iv) (relating to reporting with respect to certain life insurance and annuity contracts),
     - **(DD)** section 6050T (relating to returns relating to credit for health insurance costs of eligible individuals) 6 6 So in original. A comma probably should appear.
     - **(EE)** section 6050U (relating to charges or payments for qualified long-term care insurance contracts under combined arrangements),
-    - **(FF)** section 6050W(c) (relating to returns relating to payments made in settlement of payment card transactions),
-    - **(GG)** section 6055(c) (relating to statements relating to information regarding health insurance coverage), or
-    - **(HH)** section 6056(c) (relating to statements relating to certain employers required to report on health insurance coverage).
+    - **(FF)** section 6050W(f) (relating to returns relating to payments made in settlement of payment card transactions),
+    - **(GG)** section 6055(c) (relating to statements relating to information regarding health insurance coverage),
+    - **(HH)** section 6056(c) (relating to statements relating to certain employers required to report on health insurance coverage), or
+    - **(II)** section 6035 (other than a statement described in paragraph (1)(D)).
   - **(3)** The term “specified information reporting requirement” means—
     - **(A)** the notice required by section 6050K(c)(1) (relating to requirement that transferor notify partnership of exchange),
     - **(B)** any requirement contained in the regulations prescribed under section 6109 that a person—
@@ -103,3 +105,4 @@ generated_at: "2026-03-29T18:05:45.037Z"
       - **(ii)** a person furnish his TIN to another person.
   - **(4)** The term “required filing date” means the date prescribed for filing an information return with the Secretary (determined with regard to any extension of time for filing).
 - **(e)** If any partnership return under section 6031(a) is required under section 6011(e) to be filed on magnetic media or in other machine-readable form, for purposes of this part, each schedule required to be included with such return with respect to each partner shall be treated as a separate information return.
+- **(f)** No penalty shall be imposed under section 6721 or 6722 solely by reason of failing to provide the TIN of an individual on a return or statement required by section 6050S(a)(1) if the eligible educational institution required to make such return contemporaneously makes a true and accurate certification under penalty of perjury (and in such form and manner as may be prescribed by the Secretary) that it has complied with standards promulgated by the Secretary for obtaining such individual’s TIN.

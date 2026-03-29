@@ -3,9 +3,9 @@ title: "Section 286cc - Sustaining economic growth"
 usc_title: 22
 usc_section: "286cc"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 286cc"
-generated_at: "2026-03-29T18:05:21.735Z"
+generated_at: "2026-03-29T18:24:54.124Z"
 ---
 
 # § 286cc. Sustaining economic growth
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T18:05:21.735Z"
     - **(A)** the economic adjustment program converts high interest rate, short-term bank debt into long-term debt at significantly narrower interest rate spreads than the average interest rate spreads prevailing on bank debt reschedulings negotiated between August 1982 and August 1983 for countries receiving assistance from the Fund for economic adjustment programs in order to minimize the burdens of adjustment on the debtor nation, provided that such interest rate spreads are consistent with that nation’s need to obtain adequate external private financing;
     - **(B)** the annual external debt service required of the country involved is a manageable and prudent percentage of the projected annual export earnings of such country; and
     - **(C)** the economic adjustment program will not have an adverse impact on international economic growth, world trade, exports, and employment of other member countries, and the long-term solvency of banks.
-- **(c)** The provisions of subsection (b)(2) of this section shall not apply in any case in which the Secretary of the Treasury first determines and provides written documentation to the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives that—
+- **(c)** The provisions of subsection (b)(2) shall not apply in any case in which the Secretary of the Treasury first determines and provides written documentation to the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives that—
   - **(1)** an emergency exists in a nation that has applied to the Fund for assistance that requires an immediate short-term loan to avoid disrupting orderly financial markets;
   - **(2)** a sudden decrease in export earnings in the country applying to the Fund for assistance has increased the ratio of annual external debt service to annual export earnings, to greater than 85 per centum for a period projected to be no more than one year; or
-  - **(3)** other extraordinary circumstances exist which warrant waiving the provisions of subsection (b)(2) of this section.
+  - **(3)** other extraordinary circumstances exist which warrant waiving the provisions of subsection (b)(2).

@@ -3,9 +3,9 @@ title: "Section 600c - Nonreimbursable costs"
 usc_title: 43
 usc_section: "600c"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 600c"
-generated_at: "2026-03-29T18:06:28.292Z"
+generated_at: "2026-03-29T18:26:14.816Z"
 ---
 
 # § 600c. Nonreimbursable costs

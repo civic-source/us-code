@@ -3,9 +3,9 @@ title: "Section 9621 - National Assessment Governing Board"
 usc_title: 20
 usc_section: "9621"
 chapter: 76
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 9621"
-generated_at: "2026-03-29T18:05:00.425Z"
+generated_at: "2026-03-29T18:24:41.189Z"
 ---
 
 # § 9621. National Assessment Governing Board
@@ -32,13 +32,13 @@ generated_at: "2026-03-29T18:05:00.425Z"
 - **(c)**
   - **(1)** Terms of service of members of the Assessment Board shall be staggered and may not exceed a period of 4 years, as determined by the Secretary.
   - **(2)** Members of the Assessment Board may serve not more than two terms.
-  - **(3)** A member of the Assessment Board who changes status under subsection (b) of this section during the term of the appointment of the member may continue to serve as a member until the expiration of such term.
+  - **(3)** A member of the Assessment Board who changes status under subsection (b) during the term of the appointment of the member may continue to serve as a member until the expiration of such term.
   - **(4)** Members of the Assessment Board previously granted 3 year terms, whose terms are in effect on December 21, 2000 , shall have their terms extended by 1 year.
 - **(d)**
   - **(1)**
-    - **(A)** The Secretary shall appoint new members to fill vacancies on the Assessment Board from among individuals who are nominated by organizations representing the type of individuals described in subsection (b)(1) of this section with respect to which the vacancy exists.
+    - **(A)** The Secretary shall appoint new members to fill vacancies on the Assessment Board from among individuals who are nominated by organizations representing the type of individuals described in subsection (b)(1) with respect to which the vacancy exists.
     - **(B)** Each organization submitting nominations to the Secretary with respect to a particular vacancy shall nominate for such vacancy six individuals who are qualified by experience or training to fill the particular Assessment Board vacancy.
-    - **(C)** The Secretary’s appointments shall maintain the composition, diversity, and balance of the Assessment Board required under subsection (b) of this section.
+    - **(C)** The Secretary’s appointments shall maintain the composition, diversity, and balance of the Assessment Board required under subsection (b).
   - **(2)** The Secretary may request that each organization described in paragraph (1)(A) submit additional nominations if the Secretary determines that none of the individuals nominated by such organization have appropriate knowledge or expertise.
 - **(e)**
   - **(1)** In carrying out its functions under this section the Assessment Board shall—

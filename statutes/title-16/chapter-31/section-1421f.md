@@ -3,9 +3,9 @@ title: "Section 1421f - National Marine Mammal Tissue Bank and tissue analysis"
 usc_title: 16
 usc_section: "1421f"
 chapter: 31
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 1421f"
-generated_at: "2026-03-29T18:05:06.937Z"
+generated_at: "2026-03-29T18:24:22.797Z"
 ---
 
 # § 1421f. National Marine Mammal Tissue Bank and tissue analysis
@@ -30,5 +30,5 @@ generated_at: "2026-03-29T18:05:06.937Z"
     - **(B)** data on species of marine mammals that are subject to unusual mortality events.
 - **(d)** The Secretary shall, in consultation with the Secretary of the Interior, establish criteria, after an opportunity for public review and comment, for access to—
   - **(1)** marine mammal tissues in the Tissue Bank;
-  - **(2)** analyses conducted pursuant to subsection (b) of this section; and
-  - **(3)** marine mammal data in the data base maintained under subsection (c) of this section;
+  - **(2)** analyses conducted pursuant to subsection (b); and
+  - **(3)** marine mammal data in the data base maintained under subsection (c);

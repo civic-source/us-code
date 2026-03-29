@@ -3,9 +3,9 @@ title: "Section 9101 - Definitions"
 usc_title: 31
 usc_section: "9101"
 chapter: 91
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "31 U.S.C. § 9101"
-generated_at: "2026-03-29T18:06:08.523Z"
+generated_at: "2026-03-29T18:25:59.215Z"
 ---
 
 # § 9101. Definitions
@@ -40,7 +40,7 @@ In this chapter—
     - **(L)** the Saint Lawrence Seaway Development Corporation.
     - **(M)** the Secretary of Housing and Urban Development when carrying out duties and powers related to the Federal Housing Administration Fund.
     - **(N)** the Tennessee Valley Authority.
-    - **[(O)** Repealed. Pub. L. 104–134, title III, § 3117(a) , Apr. 26, 1996 , 110 Stat. 1321–350 .]
+    - **[(O)** Repealed. Pub. L. 104–134, title III , § 3117(a), Apr. 26, 1996 , 110 Stat. 1321–350 .]
     - **(P)** the Panama Canal Commission.
     - **(Q)** the Millennium Challenge Corporation.
     - **(R)** the International Clean Energy Foundation.

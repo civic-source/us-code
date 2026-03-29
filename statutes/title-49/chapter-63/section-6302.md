@@ -3,14 +3,14 @@ title: "Section 6302 - Bureau of Transportation Statistics"
 usc_title: 49
 usc_section: "6302"
 chapter: 63
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 6302"
-generated_at: "2026-03-29T18:07:51.367Z"
+generated_at: "2026-03-29T18:27:16.472Z"
 ---
 
 # § 6302. Bureau of Transportation Statistics
 
-- **(a)** There is established in the Research and Innovative Technology Administration the Bureau of Transportation Statistics.
+- **(a)** There shall be within the Department of Transportation the Bureau of Transportation Statistics.
 - **(b)**
   - **(1)** The Bureau shall be headed by a Director, who shall be appointed in the competitive service by the Secretary.
   - **(2)** The Director shall be appointed from among individuals who are qualified to serve as the Director by virtue of their training and experience in the collection, analysis, and use of transportation statistics.
@@ -42,7 +42,7 @@ generated_at: "2026-03-29T18:07:51.367Z"
       - **(vi)** collect, compile, analyze, and publish a comprehensive set of transportation statistics on the performance and impacts of the national transportation system, including statistics on—
         - **(I)** transportation safety across all modes and intermodally;
         - **(II)** the state of good repair of United States transportation infrastructure;
-        - **(III)** the extent, connectivity, and condition of the transportation system, building on the national transportation atlas database developed under section 6310; 1 1 So in original. Probably should be “section 6309;”.
+        - **(III)** the extent, connectivity, and condition of the transportation system, building on the national transportation atlas database developed under section 6309;
         - **(IV)** economic efficiency across the entire transportation sector;
         - **(V)** the effects of the transportation system on global and domestic economic competitiveness;
         - **(VI)** demographic, economic, and other variables influencing travel behavior, including choice of transportation mode and goods movement;
@@ -58,3 +58,12 @@ generated_at: "2026-03-29T18:07:51.367Z"
         - **(II)** at the request of the Secretary, any other data collected or statistical information published by the heads of the operating administrations of the Department; and
       - **(x)** ensure that the statistics published under this section are readily accessible to the public, consistent with applicable security constraints and confidentiality interests.
 - **(c)** In carrying out subsection (b)(3)(B)(ii), the Director shall be given access to all safety data that the Director determines necessary to carry out that subsection that is held by the Department or any other Federal agency upon written request and subject to any statutory or regulatory restrictions.
+- **(d)**
+  - **(1)** The Director shall not be required—
+    - **(A)** to obtain the approval of any other officer or employee of the Department with respect to the collection or analysis of any information; or
+    - **(B)** prior to publication, to obtain the approval of any other officer or employee of the United States Government with respect to the substance of any statistical technical reports or press releases lawfully prepared by the Director.
+  - **(2)** The Director shall have a significant role in the disposition and allocation of the authorized budget of the Bureau, including—
+    - **(A)** all hiring, grants, cooperative agreements, and contracts awarded by the Bureau to carry out this section; and
+    - **(B)** the disposition and allocation of amounts paid to the Bureau for cost-reimbursable projects.
+  - **(3)** The Secretary shall direct external support functions, such as the coordination of activities involving multiple modal administrations.
+  - **(4)** The Department Chief Information Officer shall consult with the Director to ensure decisions related to information technology guarantee the protection of the confidentiality of information provided solely for statistical purposes, in accordance with the Confidential Information Protection and Statistical Efficiency Act of 2002 ( 44 U.S.C. 3501 note; Public Law 107–347 ).

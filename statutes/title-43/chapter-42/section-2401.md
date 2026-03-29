@@ -3,9 +3,9 @@ title: "Section 2401 - Definitions"
 usc_title: 43
 usc_section: "2401"
 chapter: 42
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 2401"
-generated_at: "2026-03-29T18:06:28.393Z"
+generated_at: "2026-03-29T18:26:14.911Z"
 ---
 
 # § 2401. Definitions
@@ -15,7 +15,7 @@ In this subchapter:
   - **(1)** The term “construction” means the installation of infrastructure and the upgrading of existing facilities in locations in which the infrastructure or facilities are associated with the new infrastructure of a rural water project recommended by the Secretary pursuant to this subchapter.
   - **(2)** The term “Federal reclamation law” means the Act of June 17, 1902 ( 32 Stat. 388 , chapter 1093), and Acts supplemental to and amendatory of that Act ( 43 U.S.C. 371 et seq.).
   - **(3)** The term “Indian” means an individual who is a member of an Indian tribe.
-  - **(4)** The term “Indian tribe” has the meaning given the term in section 450b of title 25 .
+  - **(4)** The term “Indian tribe” has the meaning given the term in section 5304 of title 25 .
   - **(5)** The term “non-Federal project entity” means a State, regional, or local authority, Indian tribe or tribal organization, or other qualifying entity, such as a water conservation district, water conservancy district, or rural water district or association.
   - **(6)**
     - **(A)** The term “operations, maintenance, and replacement costs” means all costs for the operation of a rural water supply project that are necessary for the safe, efficient, and continued functioning of the project to produce the benefits described in a feasibility study.

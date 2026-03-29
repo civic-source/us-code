@@ -1,0 +1,14 @@
+---
+title: "Section 9517 - Level of readiness of Civil Reserve Air Fleet carriers"
+usc_title: 10
+usc_section: "9517"
+chapter: 931
+current_through: "PL 114-254"
+classification: "10 U.S.C. § 9517"
+generated_at: "2026-03-29T18:23:52.098Z"
+---
+
+# § 9517. Level of readiness of Civil Reserve Air Fleet carriers
+
+The Civil Reserve Air Fleet program is an important component of the military airlift system in support of United States defense and foreign policies, and it is the policy of the United States to maintain the readiness and interoperability of Civil Reserve Air Fleet carriers by providing appropriate levels of peacetime airlift augmentation to maintain networks and infrastructure, exercise the system, and interface effectively within the military airlift system.
+

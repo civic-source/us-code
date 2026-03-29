@@ -3,9 +3,9 @@ title: "Section 1394 - Tax-exempt enterprise zone facility bonds"
 usc_title: 26
 usc_section: "1394"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 1394"
-generated_at: "2026-03-29T18:05:44.811Z"
+generated_at: "2026-03-29T18:25:53.747Z"
 ---
 
 # § 1394. Tax-exempt enterprise zone facility bonds
@@ -19,17 +19,29 @@ generated_at: "2026-03-29T18:05:44.811Z"
   - **(3)**
     - **(A)** Except as modified in this paragraph, the term “enterprise zone business” has the meaning given such term by section 1397C.
     - **(B)** In applying section 1397C for purposes of this section—
-      - **(i)** References in section 1397C to empowerment zones shall be treated as including references to enterprise communities.
+      - **(i)**
+        - **(I)** Except as provided in subclause (II), references in section 1397C to empowerment zones shall be treated as including references to enterprise communities.
+        - **(II)** For purposes of subsection 1 1 So in original. Probably should be “subsections”. (b)(6) and (c)(5) of section 1397C, an employee shall be treated as a resident of an empowerment zone if such employee is a resident of an empowerment zone, an enterprise community, or a qualified low-income community within an applicable nominating jurisdiction.
       - **(ii)** A business shall not fail to be treated as an enterprise zone business during the startup period if—
         - **(I)** as of the beginning of the startup period, it is reasonably expected that such business will be an enterprise zone business (as defined in section 1397C as modified by this paragraph) at the end of such period, and
         - **(II)** such business makes bona fide efforts to be such a business.
-      - **(iii)** A business shall not fail to be treated as an enterprise zone business for any taxable year beginning after the testing period by reason of failing to meet any requirement of subsection (b) or (c) of section 1397C if at least 35 percent of the employees of such business for such year are residents of an empowerment zone or an enterprise community. The preceding sentence shall not apply to any business which is not a qualified business by reason of paragraph (1), (4), or (5) of section 1397C(d).
+      - **(iii)** A business shall not fail to be treated as an enterprise zone business for any taxable year beginning after the testing period by reason of failing to meet any requirement of subsection (b) or (c) of section 1397C if at least 35 percent of the employees of such business for such year are residents of an empowerment zone, an enterprise community, or a qualified low-income community within an applicable nominating jurisdiction. The preceding sentence shall not apply to any business which is not a qualified business by reason of paragraph (1), (4), or (5) of section 1397C(d).
     - **(C)** For purposes of subparagraph (B)—
+      - **(i)** The term “qualified low-income community” means any population census tract if—
+        - **(I)** the poverty rate for such tract is at least 20 percent, or
+        - **(II)** the median family income for such tract does not exceed 80 percent of statewide median family income (or, in the case of a tract located within a metropolitan area, metropolitan area median family income if greater).
+      - **(ii)** The Secretary shall prescribe regulations under which 1 or more targeted populations (within the meaning of section 103(20) of the Riegle Community Development and Regulatory Improvement Act of 1994) may be treated as qualified low-income communities.
+      - **(iii)** In the case of an area which is not tracted for population census tracts, the equivalent county divisions (as defined by the Bureau of the Census for purposes of defining poverty areas) shall be used for purposes of determining poverty rates and median family income.
+      - **(iv)**
+        - **(I)** In the case of a population census tract located within a high migration rural county, clause (i)(II) shall be applied to areas not located within a metropolitan area by substituting “85 percent” for “80 percent”.
+        - **(II)** For purposes of this clause, the term “high migration rural county” means any county which, during the 20-year period ending with the year in which the most recent census was conducted, has a net out-migration of inhabitants from the county of at least 10 percent of the population of the county at the beginning of such period.
+    - **(D)** For purposes of subparagraph (B)—
       - **(i)** The term “startup period” means, with respect to any property being provided for any business, the period before the first taxable year beginning more than 2 years after the later of—
         - **(I)** the date of issuance of the issue providing such property, or
         - **(II)** the date such property is first placed in service after such issuance (or, if earlier, the date which is 3 years after the date described in subclause (I)).
       - **(ii)** The term “testing period” means the first 3 taxable years beginning after the startup period.
-    - **(D)** The term “enterprise zone business” includes any trades or businesses which would qualify as an enterprise zone business (determined after the modifications of subparagraph (B)) if such trades or businesses were separately incorporated.
+      - **(iii)** The term “applicable nominating jurisdiction” means, with respect to any empowerment zone or enterprise community, any local government that nominated such community for designation under section 1391.
+    - **(E)** The term “enterprise zone business” includes any trades or businesses which would qualify as an enterprise zone business (determined after the modifications of subparagraph (B)) if such trades or businesses were separately incorporated.
 - **(c)**
   - **(1)** Subsection (a) shall not apply to any issue if the aggregate amount of outstanding enterprise zone facility bonds allocable to any person (taking into account such issue) exceeds—
     - **(A)** $3,000,000 with respect to any 1 empowerment zone or enterprise community, or
@@ -46,11 +58,11 @@ generated_at: "2026-03-29T18:05:44.811Z"
   - **(3)** Paragraphs (1) and (2) shall not apply solely by reason of the termination or revocation of a designation as an empowerment zone or an enterprise community.
   - **(4)** Paragraphs (1) and (2) shall not apply to any cessation resulting from bankruptcy.
 - **(f)**
-  - **(1)** In the case of a new empowerment zone facility bond—
+  - **(1)** In the case of an empowerment zone facility bond—
     - **(A)** such bond shall not be treated as a private activity bond for purposes of section 146, and
     - **(B)** subsection (c) of this section shall not apply.
   - **(2)**
-    - **(A)** Paragraph (1) shall apply to a new empowerment zone facility bond only if such bond is designated for purposes of this subsection by the local government which nominated the area to which such bond relates.
+    - **(A)** Paragraph (1) shall apply to an empowerment zone facility bond only if such bond is designated for purposes of this subsection by the local government which nominated the area to which such bond relates.
     - **(B)** The aggregate face amount of bonds which may be designated under subparagraph (A) with respect to any empowerment zone shall not exceed—
       - **(i)** $60,000,000 if such zone is in a rural area,
       - **(ii)** $130,000,000 if such zone is in an urban area and the zone has a population of less than 100,000, and

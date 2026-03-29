@@ -3,12 +3,12 @@ title: "Section 428o - Administration, protection, and development"
 usc_title: 16
 usc_section: "428o"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 428o"
-generated_at: "2026-03-29T18:05:06.595Z"
+generated_at: "2026-03-29T18:24:22.512Z"
 ---
 
 # § 428o. Administration, protection, and development
 
-The administration, protection, and development of the Fort Donelson National Battlefield shall be exercised by the Secretary of the Interior in accordance with the provisions of sections 1, 2, 3, and 4 of this title, as amended.
+The administration, protection, and development of the Fort Donelson National Battlefield shall be exercised by the Secretary of the Interior in accordance with the provisions of the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 ( 39 Stat. 535 ), 1 1 See References in Text note below. as amended.
 

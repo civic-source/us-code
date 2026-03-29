@@ -3,9 +3,9 @@ title: "Section 10247 - Environmental impact statement"
 usc_title: 42
 usc_section: "10247"
 chapter: 108
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 10247"
-generated_at: "2026-03-29T18:07:15.138Z"
+generated_at: "2026-03-29T18:27:03.982Z"
 ---
 
 # § 10247. Environmental impact statement

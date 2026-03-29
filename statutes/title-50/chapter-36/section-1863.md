@@ -1,12 +1,12 @@
 ---
-title: "Section 1863 - Repealed. Pub. L. 107–56, title II, § 215 , Oct. 26, 2001 , 115 Stat. 287"
+title: "Section 1863 - Repealed. Pub. L. 107–56, title II , § 215, Oct. 26, 2001 , 115 Stat. 287"
 usc_title: 50
 usc_section: "1863"
 chapter: 36
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 1863"
-generated_at: "2026-03-29T18:07:43.041Z"
+generated_at: "2026-03-29T18:27:35.611Z"
 ---
 
-# § 1863. Repealed. Pub. L. 107–56, title II, § 215 , Oct. 26, 2001 , 115 Stat. 287
+# § 1863. Repealed. Pub. L. 107–56, title II , § 215, Oct. 26, 2001 , 115 Stat. 287
 

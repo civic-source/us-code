@@ -3,9 +3,9 @@ title: "Section 7703b - Assistance to local educational agencies that benefit de
 usc_title: 20
 usc_section: "7703b"
 chapter: 70
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 7703b"
-generated_at: "2026-03-29T18:05:00.388Z"
+generated_at: "2026-03-29T18:24:41.160Z"
 ---
 
 # § 7703b. Assistance to local educational agencies that benefit dependents of members of the Armed Forces and Department of Defense civilian employees
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T18:05:00.388Z"
     - **(A)** not less than five percent in the average daily attendance of military dependent students in the schools of the local educational agency; or
     - **(B)** not less than 250 military dependent students in average daily attendance in the schools of the local educational agency.
   - **(2)** A local educational agency is eligible for assistance under this subsection for a fiscal year if—
-    - **(A)** the local educational agency is eligible for assistance under subsection (a) of this section for the same fiscal year, or would have been eligible for such assistance if not for the reduction in military dependent students in schools of the local educational agency; and
+    - **(A)** the local educational agency is eligible for assistance under subsection (a) for the same fiscal year, or would have been eligible for such assistance if not for the reduction in military dependent students in schools of the local educational agency; and
     - **(B)** the overall increase or reduction in military dependent students in schools of the local educational agency is the result of one or more of the following:
       - **(i)** The global rebasing plan of the Department of Defense.
       - **(ii)** The official creation or activation of one or more new military units.
@@ -34,9 +34,9 @@ generated_at: "2026-03-29T18:05:00.388Z"
     - **(C)** A local educational agency may not receive more than $1,000,000 in assistance under this subsection for any fiscal year.
   - **(4)** Assistance may not be provided under this subsection after September 30, 2014 .
 - **(c)** Not later than June 30, 2006 , and June 30 of each fiscal year thereafter for which funds are made available to carry out this section, the Secretary of Defense shall notify each local educational agency that is eligible for assistance under this section for that fiscal year of—
-  - **(1)** the eligibility of the local educational agency for the assistance, including whether the agency is eligible for assistance under either subsection (a) or (b) of this section or both subsections; and
+  - **(1)** the eligibility of the local educational agency for the assistance, including whether the agency is eligible for assistance under either subsection (a) or (b) or both subsections; and
   - **(2)** the amount of the assistance for which the local educational agency is eligible.
-- **(d)** The Secretary of Defense shall disburse assistance made available under this section for a fiscal year not later than 30 days after the date on which notification to the eligible local educational agencies is provided pursuant to subsection (c) of this section for that fiscal year.
+- **(d)** The Secretary of Defense shall disburse assistance made available under this section for a fiscal year not later than 30 days after the date on which notification to the eligible local educational agencies is provided pursuant to subsection (c) for that fiscal year.
 - **(e)** In this section:
   - **(1)** The term “base closure process” means the 2005 base closure and realignment process authorized by Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510 ; 10 U.S.C. 2687 note) or any base closure and realignment process conducted after January 6, 2006 , under section 2687 of title 10 or any other similar law enacted after January 6, 2006 .
   - **(2)** The term “local educational agency” has the meaning given that term in section 7713(9) of this title .

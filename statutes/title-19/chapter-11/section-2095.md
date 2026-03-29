@@ -3,9 +3,9 @@ title: "Section 2095 - Definitions"
 usc_title: 19
 usc_section: "2095"
 chapter: 11
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 2095"
-generated_at: "2026-03-29T18:04:55.066Z"
+generated_at: "2026-03-29T18:24:16.141Z"
 ---
 
 # § 2095. Definitions

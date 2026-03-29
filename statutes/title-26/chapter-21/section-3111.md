@@ -3,21 +3,15 @@ title: "Section 3111 - Rate of tax"
 usc_title: 26
 usc_section: "3111"
 chapter: 21
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 3111"
-generated_at: "2026-03-29T18:05:44.857Z"
+generated_at: "2026-03-29T18:25:53.790Z"
 ---
 
 # § 3111. Rate of tax
 
-- **(a)** In addition to other taxes, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to the following percentages of the wages (as defined in section 3121(a)) paid by him with respect to employment (as defined in section 3121(b))— In cases of wages paid during: The rate shall be: 1984, 1985, 1986, or 1987 5.7 percent 1988 or 1989 6.06 percent 1990 or thereafter 6.2 percent.
-- **(b)** In addition to the tax imposed by the preceding subsection, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to the following percentages of the wages (as defined in section 3121(a)) paid by him with respect to employment (as defined in section 3121(b))—
-  - **(1)** with respect to wages paid during the calendar years 1974 through 1977, the rate shall be 0.90 percent;
-  - **(2)** with respect to wages paid during the calendar year 1978, the rate shall be 1.00 percent;
-  - **(3)** with respect to wages paid during the calendar years 1979 and 1980, the rate shall be 1.05 percent;
-  - **(4)** with respect to wages paid during the calendar years 1981 through 1984, the rate shall be 1.30 percent;
-  - **(5)** with respect to wages paid during the calendar year 1985, the rate shall be 1.35 percent; and
-  - **(6)** with respect to wages paid after December 31, 1985 , the rate shall be 1.45 percent.
+- **(a)** In addition to other taxes, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to 6.2 percent of the wages (as defined in section 3121(a)) paid by the employer with respect to employment (as defined in section 3121(b)).
+- **(b)** In addition to the tax imposed by the preceding subsection, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to 1.45 percent of the wages (as defined in section 3121(a)) paid by the employer with respect to employment (as defined in section 3121(b)).
 - **(c)** During any period in which there is in effect an agreement entered into pursuant to section 233 of the Social Security Act with any foreign country, wages received by or paid to an individual shall be exempt from the taxes imposed by this section to the extent that such wages are subject under such agreement exclusively to the laws applicable to the social security system of such foreign country.
 - **(d)**
   - **(1)** Subsection (a) shall not apply to wages paid by a qualified employer with respect to employment during the period beginning on the day after the date of the enactment of this subsection and ending on December 31, 2010 , of any qualified individual for services performed—
@@ -46,3 +40,8 @@ generated_at: "2026-03-29T18:05:44.857Z"
   - **(5)** For purposes of this subsection—
     - **(A)** the term “qualified tax-exempt organization” means an employer that is an organization described in section 501(c) and exempt from taxation under section 501(a), and
     - **(B)** the term “qualified veteran” has meaning 1 1 So in original. Probably should be preceded by “the”. given such term by section 51(d)(3).
+- **(f)**
+  - **(1)** In the case of a taxpayer who has made an election under section 41(h) for a taxable year, there shall be allowed as a credit against the tax imposed by subsection (a) for the first calendar quarter which begins after the date on which the taxpayer files the return specified in section 41(h)(4)(A)(ii) an amount equal to the payroll tax credit portion determined under section 41(h)(2).
+  - **(2)** The credit allowed by paragraph (1) shall not exceed the tax imposed by subsection (a) for any calendar quarter on the wages paid with respect to the employment of all individuals in the employ of the employer.
+  - **(3)** If the amount of the credit under paragraph (1) exceeds the limitation of paragraph (2) for any calendar quarter, such excess shall be carried to the succeeding calendar quarter and allowed as a credit under paragraph (1) for such quarter.
+  - **(4)** The credit allowed under paragraph (1) shall not be taken into account for purposes of determining the amount of any deduction allowed under chapter 1 for taxes imposed under subsection (a).

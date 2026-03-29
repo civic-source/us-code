@@ -1,14 +1,12 @@
 ---
-title: "Section 602 - Application to Tribal Council on exclusion from roll; minors and incompetent persons"
+title: "Section 602 - Omitted"
 usc_title: 25
 usc_section: "602"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 602"
-generated_at: "2026-03-29T18:05:17.075Z"
+generated_at: "2026-03-29T18:25:23.697Z"
 ---
 
-# § 602. Application to Tribal Council on exclusion from roll; minors and incompetent persons
-
-Any person of one-fourth or more of the blood of the Yakima Tribes who may be excluded from enrollment under the provisions of section 601 of this title may apply for membership at any time and be enrolled upon the approval of the application by a two-thirds vote of the Yakima Tribal Council. Applications for enrollment under this section on behalf of minors and persons mentally incompetent may be filed by any enrolled member of the Yakima Tribes.
+# § 602. Omitted
 

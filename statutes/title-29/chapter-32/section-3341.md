@@ -3,9 +3,9 @@ title: "Section 3341 - Privacy"
 usc_title: 29
 usc_section: "3341"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 3341"
-generated_at: "2026-03-29T02:14:09.538Z"
+generated_at: "2026-03-29T18:25:43.174Z"
 ---
 
 # § 3341. Privacy

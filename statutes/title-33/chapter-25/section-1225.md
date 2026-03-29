@@ -3,9 +3,9 @@ title: "Section 1225 - Waterfront safety"
 usc_title: 33
 usc_section: "1225"
 chapter: 25
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 1225"
-generated_at: "2026-03-29T18:06:10.528Z"
+generated_at: "2026-03-29T18:26:01.220Z"
 ---
 
 # § 1225. Waterfront safety

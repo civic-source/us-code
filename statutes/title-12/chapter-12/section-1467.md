@@ -3,9 +3,9 @@ title: "Section 1467 - Examination fees"
 usc_title: 12
 usc_section: "1467"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 1467"
-generated_at: "2026-03-29T18:04:43.446Z"
+generated_at: "2026-03-29T18:24:02.792Z"
 ---
 
 # § 1467. Examination fees
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T18:04:43.446Z"
 - **(b)** The cost of conducting examinations of affiliates of savings associations pursuant to this chapter may be assessed by the Comptroller or Corporation, as appropriate 1 1 So in original. Probably should be followed by a comma. against each affiliate that is examined as the Comptroller or Corporation, as appropriate 1 deems necessary or appropriate.
 - **(c)**
   - **(1)** Subject to paragraph (2), if any affiliate of any savings association—
-    - **(A)** refuses to pay any assessment under subsection (b) of this section; or
+    - **(A)** refuses to pay any assessment under subsection (b); or
     - **(B)** fails to pay any such assessment before the end of the 60-day period beginning on the date of the assessment,
   - **(2)** If any affiliate referred to in paragraph (1) is an affiliate of more than 1 savings association, the assessment with respect to the affiliate against, and collected from, any affiliated savings association in such proportions as the appropriate Federal banking agency may prescribe.
 - **(d)**
@@ -29,11 +29,11 @@ generated_at: "2026-03-29T18:04:43.446Z"
   - **(2)** the collection and use of such assessments and any fees under this section.
 - **(f)**
 - **(g)**
-  - **(1)** In addition to any assessment imposed pursuant to subsection (a) of this section, the cost of conducting examinations of fiduciary activities of savings associations which exercise fiduciary powers (including savings associations or similar institutions in the District of Columbia) shall be assessed by the appropriate Federal banking agency against such savings associations (or similar institutions).
-  - **(2)** If any savings association or affiliate of a savings association is examined by the appropriate Federal banking agency for the savings association more than 2 times in any calendar year, the cost of conducting such additional examinations shall be assessed, in addition to any assessment imposed pursuant to subsection (a) of this section, by the appropriate Federal banking agency or the Corporation, as the case may be, against such savings association or affiliate.
+  - **(1)** In addition to any assessment imposed pursuant to subsection (a), the cost of conducting examinations of fiduciary activities of savings associations which exercise fiduciary powers (including savings associations or similar institutions in the District of Columbia) shall be assessed by the appropriate Federal banking agency against such savings associations (or similar institutions).
+  - **(2)** If any savings association or affiliate of a savings association is examined by the appropriate Federal banking agency for the savings association more than 2 times in any calendar year, the cost of conducting such additional examinations shall be assessed, in addition to any assessment imposed pursuant to subsection (a), by the appropriate Federal banking agency or the Corporation, as the case may be, against such savings association or affiliate.
 - **(h)** Any savings association and any affiliate of any savings association shall provide the appropriate Federal banking agency with access to any information or report with respect to any examination made by any public regulatory authority and furnish any additional information with respect thereto as the appropriate Federal banking agency may require.
 - **(i)**
-  - **(1)** Amounts received by the appropriate Federal banking agency from assessments under this section (other than an assessment under subsection (d)(2) of this section) or section 1467a(b)(4) of this title may be deposited in the manner provided in section 5234 of the Revised Statutes [ 12 U.S.C. 192 ] with respect to assessments by the Comptroller of the Currency.
+  - **(1)** Amounts received by the appropriate Federal banking agency from assessments under this section (other than an assessment under subsection (d)(2)) or section 1467a(b)(4) of this title may be deposited in the manner provided in section 5234 of the Revised Statutes [ 12 U.S.C. 192 ] with respect to assessments by the Comptroller of the Currency.
   - **(2)** The amounts received by the appropriate Federal banking agency from any assessment under this section shall not be construed to be Government or public funds or appropriated money.
   - **(3)** Notwithstanding any other provision of law, the amounts received by the appropriate Federal banking agency from any assessment under this section shall not be subject to apportionment for the purpose of chapter 15 of title 31 or under any other authority.
 - **(j)** The appropriate Federal banking agency may, in the sole discretion of the appropriate Federal banking agency, assess against any person that submits to the appropriate Federal banking agency an application, filing, notice, or request a fee to cover the cost of processing such submission.

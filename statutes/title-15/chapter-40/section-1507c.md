@@ -3,9 +3,9 @@ title: "Section 1507c - Assistant Secretary of Commerce for Oceans and Atmospher
 usc_title: 15
 usc_section: "1507c"
 chapter: 40
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 1507c"
-generated_at: "2026-03-29T18:04:29.560Z"
+generated_at: "2026-03-29T18:24:08.453Z"
 ---
 
 # § 1507c. Assistant Secretary of Commerce for Oceans and Atmosphere; duties; appointment; compensation

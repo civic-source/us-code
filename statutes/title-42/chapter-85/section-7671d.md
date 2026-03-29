@@ -3,9 +3,9 @@ title: "Section 7671d - Phase-out of production and consumption of class II subs
 usc_title: 42
 usc_section: "7671d"
 chapter: 85
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 7671d"
-generated_at: "2026-03-29T18:07:14.964Z"
+generated_at: "2026-03-29T18:27:03.853Z"
 ---
 
 # § 7671d. Phase-out of production and consumption of class II substances

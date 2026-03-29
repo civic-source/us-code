@@ -3,9 +3,9 @@ title: "Section 831 - Additional requirements relating to online pharmacies and 
 usc_title: 21
 usc_section: "831"
 chapter: 13
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 831"
-generated_at: "2026-03-29T18:05:14.889Z"
+generated_at: "2026-03-29T18:25:04.218Z"
 ---
 
 # § 831. Additional requirements relating to online pharmacies and telemedicine
@@ -30,10 +30,10 @@ generated_at: "2026-03-29T18:05:14.889Z"
 - **(e)** On and after the date on which it makes the notification under subsection (d), each online pharmacy shall display on the homepage of its Internet site, in such form as the Attorney General shall by regulation require, a declaration that it has made such notification to the Attorney General.
 - **(f)** Any statement, declaration, notification, or disclosure required under this section shall be considered a report required to be kept under this part.
 - **(g)**
-  - **(1)** For purposes of sections 802(52) and 882(c)(6)(B) of this title, the Secretary shall notify the Attorney General, at such times and in such manner as the Secretary and the Attorney General determine appropriate, of the Indian tribes or tribal organizations with which the Secretary has contracted or compacted under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 450 et seq.] for the tribes or tribal organizations to provide pharmacy services.
+  - **(1)** For purposes of sections 802(52) and 882(c)(6)(B) of this title, the Secretary shall notify the Attorney General, at such times and in such manner as the Secretary and the Attorney General determine appropriate, of the Indian tribes or tribal organizations with which the Secretary has contracted or compacted under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.] for the tribes or tribal organizations to provide pharmacy services.
   - **(2)**
     - **(A)** The Secretary may designate a practitioner described in subparagraph (B) as an Internet Eligible Controlled Substances Provider. Such designations shall be made only in cases where the Secretary has found that there is a legitimate need for the practitioner to be so designated because the population served by the practitioner is in a sufficiently remote location that access to medical services is limited.
-    - **(B)** A practitioner described in this subparagraph is a practitioner who is an employee or contractor of the Indian Health Service, or is working for an Indian tribe or tribal organization under its contract or compact under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 450 et seq.] with the Indian Health Service.
+    - **(B)** A practitioner described in this subparagraph is a practitioner who is an employee or contractor of the Indian Health Service, or is working for an Indian tribe or tribal organization under its contract or compact under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.] with the Indian Health Service.
 - **(h)**
   - **(1)** The Attorney General may issue to a practitioner a special registration to engage in the practice of telemedicine for purposes of section 802(54)(E) of this title if the practitioner, upon application for such special registration—
     - **(A)** demonstrates a legitimate need for the special registration; and

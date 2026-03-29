@@ -3,9 +3,9 @@ title: "Section 5206 - Report to Congress"
 usc_title: 20
 usc_section: "5206"
 chapter: 63
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 5206"
-generated_at: "2026-03-29T18:05:00.277Z"
+generated_at: "2026-03-29T18:24:41.100Z"
 ---
 
 # § 5206. Report to Congress

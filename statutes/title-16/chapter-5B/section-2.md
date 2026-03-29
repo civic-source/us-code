@@ -3,9 +3,9 @@ title: "Section 2 - Multistate conservation grant program"
 usc_title: 16
 usc_section: "2"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-29T18:05:06.794Z"
+generated_at: "2026-03-29T18:24:22.681Z"
 ---
 
 # § 669h–2. Multistate conservation grant program
@@ -37,7 +37,7 @@ generated_at: "2026-03-29T18:05:06.794Z"
   - **(2)**
     - **(A)** Any nongovernmental organization that applies for a grant under this section shall submit with the application to the International Association of Fish and Wildlife Agencies a certification that the organization—
       - **(i)** will not use the grant funds to fund, in whole or in part, any activity of the organization that promotes or encourages opposition to the regulated hunting or trapping of wildlife; and
-      - **(ii)** will use the grant funds in compliance with subsection (d) of this section.
+      - **(ii)** will use the grant funds in compliance with subsection (d).
     - **(B)** Any nongovernmental organization that is found to use grant funds in violation of subparagraph (A) shall return all funds received under this section and be subject to any other applicable penalties under law.
 - **(d)** A grant under this section shall not be used, in whole or in part, for an activity, project, or program that promotes or encourages opposition to the regulated hunting or trapping of wildlife.
 - **(e)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to any activity carried out under this section.

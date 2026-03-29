@@ -3,9 +3,9 @@ title: "Section 6484 - Promotion of retired members to higher enlisted grades: r
 usc_title: 10
 usc_section: "6484"
 chapter: 575
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 6484"
-generated_at: "2026-03-29T18:04:13.263Z"
+generated_at: "2026-03-29T18:23:52.057Z"
 ---
 
 # § 6484. Promotion of retired members to higher enlisted grades: retention of grade upon release from active duty

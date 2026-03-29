@@ -3,9 +3,9 @@ title: "Section 1365 - Institution of proceeding for court review of committee f
 usc_title: 7
 usc_section: "1365"
 chapter: 35
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 1365"
-generated_at: "2026-03-29T18:04:04.831Z"
+generated_at: "2026-03-29T18:23:43.252Z"
 ---
 
 # § 1365. Institution of proceeding for court review of committee findings

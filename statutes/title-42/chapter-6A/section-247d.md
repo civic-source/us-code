@@ -3,9 +3,9 @@ title: "Section 247d - Public health emergencies"
 usc_title: 42
 usc_section: "247d"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 247d"
-generated_at: "2026-03-29T18:07:13.295Z"
+generated_at: "2026-03-29T18:27:02.547Z"
 ---
 
 # § 247d. Public health emergencies
@@ -14,12 +14,12 @@ generated_at: "2026-03-29T18:07:13.295Z"
   - **(1)** a disease or disorder presents a public health emergency; or
   - **(2)** a public health emergency, including significant outbreaks of infectious diseases or bioterrorist attacks, otherwise exists,
 - **(b)**
-  - **(1)** There is established in the Treasury a fund to be designated as the “Public Health Emergency Fund” to be made available to the Secretary without fiscal year limitation to carry out subsection (a) of this section only if a public health emergency has been declared by the Secretary under such subsection. There is authorized to be appropriated to the Fund such sums as may be necessary.
+  - **(1)** There is established in the Treasury a fund to be designated as the “Public Health Emergency Fund” to be made available to the Secretary without fiscal year limitation to carry out subsection (a) only if a public health emergency has been declared by the Secretary under such subsection. There is authorized to be appropriated to the Fund such sums as may be necessary.
   - **(2)** Not later than 90 days after the end of each fiscal year, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Commerce and the Committee on Appropriations of the House of Representatives a report describing—
     - **(A)** the expenditures made from the Public Health Emergency Fund in such fiscal year; and
     - **(B)** each public health emergency for which the expenditures were made and the activities undertaken with respect to each emergency which was conducted or supported by expenditures from the Fund.
 - **(c)** Funds appropriated under this section shall be used to supplement and not supplant other Federal, State, and local public funds provided for activities under this section.
-- **(d)** In any case in which the Secretary determines that, wholly or partially as a result of a public health emergency that has been determined pursuant to subsection (a) of this section, individuals or public or private entities are unable to comply with deadlines for the submission to the Secretary of data or reports required under any law administered by the Secretary, the Secretary may, notwithstanding any other provision of law, grant such extensions of such deadlines as the circumstances reasonably require, and may waive, wholly or partially, any sanctions otherwise applicable to such failure to comply. Before or promptly after granting such an extension or waiver, the Secretary shall notify the Congress of such action and publish in the Federal Register a notice of the extension or waiver.
+- **(d)** In any case in which the Secretary determines that, wholly or partially as a result of a public health emergency that has been determined pursuant to subsection (a), individuals or public or private entities are unable to comply with deadlines for the submission to the Secretary of data or reports required under any law administered by the Secretary, the Secretary may, notwithstanding any other provision of law, grant such extensions of such deadlines as the circumstances reasonably require, and may waive, wholly or partially, any sanctions otherwise applicable to such failure to comply. Before or promptly after granting such an extension or waiver, the Secretary shall notify the Congress of such action and publish in the Federal Register a notice of the extension or waiver.
 - **(e)**
   - **(1)** Notwithstanding any other provision of law, and subject to paragraph (2), upon request by the Governor of a State or a tribal organization or such Governor or tribal organization’s designee, the Secretary may authorize the requesting State or Indian tribe to temporarily reassign, for purposes of immediately addressing a public health emergency in the State or Indian tribe, State and local public health department or agency personnel funded in whole or in part through programs authorized under this chapter, as appropriate.
   - **(2)**
@@ -58,6 +58,6 @@ generated_at: "2026-03-29T18:07:13.295Z"
     - **(D)** an analysis of the extent to which, if any, Federal programs from which personnel have been temporarily reassigned have been adversely affected by the reassignment; and
     - **(E)** recommendations on how medical surge capacity could be improved in responding to public health emergencies and the impact of the reassignment flexibility under this section on such surge capacity.
   - **(7)** In this subsection—
-    - **(A)** the terms “Indian tribe” and “tribal organization” have the meanings given such terms in section 450b of title 25 ; and
+    - **(A)** the terms “Indian tribe” and “tribal organization” have the meanings given such terms in section 5304 of title 25 ; and
     - **(B)** the term “State” includes, in addition to the entities listed in the definition of such term in section 201 of this title , the Freely Associated States.
   - **(8)** This subsection shall terminate on September 30, 2018 .

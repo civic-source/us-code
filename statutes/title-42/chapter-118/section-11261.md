@@ -3,15 +3,15 @@ title: "Section 11261 - Research program"
 usc_title: 42
 usc_section: "11261"
 chapter: 118
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 11261"
-generated_at: "2026-03-29T18:07:15.173Z"
+generated_at: "2026-03-29T18:27:04.014Z"
 ---
 
 # § 11261. Research program
 
 - **(a)** The Director of the Agency for Healthcare Research and Quality shall conduct, or make grants for the conduct of, research relevant to appropriate services for individuals with Alzheimer’s disease and related dementias and for their families.
-- **(b)** The Director of the Agency for Healthcare Research and Quality shall ensure that research conducted under subsection (a) of this section shall include research—
+- **(b)** The Director of the Agency for Healthcare Research and Quality shall ensure that research conducted under subsection (a) shall include research—
   - **(1)** concerning improving the organization, delivery, and financing of services for individuals with Alzheimer’s disease and related dementias and for their families, including research on—
     - **(A)** the design, staffing, and operation of special care units for the individuals in institutional settings, as well as individuals in institutional settings, 1 1 So in original. The words “as well as individuals in institutional settings,” probably should not appear. as well as individuals in home care, day care, and respite care; and
     - **(B)** the exploration and enhancement of services such as home care, day care, and respite care, that provide alternatives to institutional care;

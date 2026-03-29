@@ -3,9 +3,9 @@ title: "Section 1067q - Investment in historically Black colleges and universiti
 usc_title: 20
 usc_section: "1067q"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1067q"
-generated_at: "2026-03-29T18:05:00.066Z"
+generated_at: "2026-03-29T18:24:40.914Z"
 ---
 
 # § 1067q. Investment in historically Black colleges and universities and other minority-serving institutions
@@ -60,7 +60,7 @@ generated_at: "2026-03-29T18:05:00.066Z"
       - **(ii)** which for the purpose of this paragraph and for that year was determined by the Secretary (pursuant to regulations and after consultation with the State educational agency of the State in which the school is located) to be a school in which the enrollment of children counted under a measure of poverty described in section 1113(a)(5) of such Act [ 20 U.S.C. 6313(a)(5) ] exceeds 30 percent of the total enrollment of such school; or
     - **(D)** are first-generation college students (as that term is defined in section 1070a–11(h) of this title ), and a majority of such first-generation college students are low-income individuals.
   - **(4)** The term “low-income individual” has the meaning given such term in section 1070a–11(h) of this title .
-  - **(5)** The term “means-tested Federal benefit program” means a program of the Federal Government, other than a program under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, in which eligibility for the programs’ benefits or the amount of such benefits are determined on the basis of income or resources of the individual or family seeking the benefit.
+  - **(5)** The term “means-tested Federal benefit program” means a program of the Federal Government, other than a program under subchapter IV, in which eligibility for the programs’ benefits or the amount of such benefits are determined on the basis of income or resources of the individual or family seeking the benefit.
   - **(6)** The term “Native American” means an individual who is of a tribe, people, or culture that is indigenous to the United States.
   - **(7)** The term “Native American Pacific Islander” means any descendant of the aboriginal people of any island in the Pacific Ocean that is a territory or possession of the United States.
   - **(8)** The term “Native American-serving nontribal institution” means an institution of higher education that—

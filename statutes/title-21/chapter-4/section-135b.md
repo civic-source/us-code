@@ -1,12 +1,12 @@
 ---
-title: "Section 135b - Repealed. Pub. L. 107–171, title X, § 10418(a)(17) , (18), May 13, 2002 , 116 Stat. 508"
+title: "Section 135b - Repealed. Pub. L. 107–171, title X , § 10418(a)(17), (18), May 13, 2002 , 116 Stat. 508"
 usc_title: 21
 usc_section: "135b"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 135b"
-generated_at: "2026-03-29T02:12:27.941Z"
+generated_at: "2026-03-29T18:25:04.082Z"
 ---
 
-# §§ 134 to 135b. Repealed. Pub. L. 107–171, title X, § 10418(a)(17) , (18), May 13, 2002 , 116 Stat. 508
+# §§ 134 to 135b. Repealed. Pub. L. 107–171, title X , § 10418(a)(17), (18), May 13, 2002 , 116 Stat. 508
 

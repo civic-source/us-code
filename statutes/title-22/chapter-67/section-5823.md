@@ -3,15 +3,15 @@ title: "Section 5823 - Funding for export promotion activities and capital proje
 usc_title: 22
 usc_section: "5823"
 chapter: 67
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 5823"
-generated_at: "2026-03-29T18:05:21.980Z"
+generated_at: "2026-03-29T18:24:54.338Z"
 ---
 
 # § 5823. Funding for export promotion activities and capital projects
 
 - **(a)** The President is encouraged to use a portion of the funds made available for the independent states of the former Soviet Union under chapter 11 of part I of the Foreign Assistance Act of 1961 [ 22 U.S.C. 2295 et seq.]—
-  - **(1)** to fund the export promotion, finance, and related activities carried out pursuant to subsection (b)(1) of this section, including activities relating to the export of intermediary goods; and
+  - **(1)** to fund the export promotion, finance, and related activities carried out pursuant to subsection (b)(1), including activities relating to the export of intermediary goods; and
   - **(2)** to fund capital projects, including projects for telecommunications, environmental cleanup, power production, and energy related projects.
 - **(b)** The Secretary of Commerce, as Chair of the Trade Promotion Coordination Committee, should, in conjunction with other members of that committee, design and implement programs to provide adequate commercial and technical assistance to United States businesses seeking markets in the independent states of the former Soviet Union, including the following:
   - **(1)** Increasing the United States and Foreign Commercial Service presence in the independent states, in particular in the Russian Far Eastern cities of Vladivostok and Khabarovsk.

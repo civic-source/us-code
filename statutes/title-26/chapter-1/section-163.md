@@ -3,9 +3,9 @@ title: "Section 163 - Interest"
 usc_title: 26
 usc_section: "163"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 163"
-generated_at: "2026-03-29T18:05:44.506Z"
+generated_at: "2026-03-29T18:25:53.454Z"
 ---
 
 # § 163. Interest
@@ -38,7 +38,7 @@ generated_at: "2026-03-29T18:05:44.506Z"
       - **(iii)** so much of the net capital gain referred to in clause (ii)(II) (or, if lesser, the net gain referred to in clause (ii)(I)) as the taxpayer elects to take into account under this clause.
     - **(C)** The term “investment expenses” means the deductions allowed under this chapter (other than for interest) which are directly connected with the production of investment income.
     - **(D)** Investment income and investment expenses shall not include any income or expenses taken into account under section 469 in computing income or loss from a passive activity.
-    - **(E)** Investment income of the taxpayer for any taxable year shall be reduced by the amount of the passive activity loss to which section 469(a) does not apply for such taxable year by reason of section 469(m). The preceding sentence shall not apply to any portion of such passive activity loss which is attributable to a rental real estate activity with respect to which the taxpayer actively participates (within the meaning of section 469(i)(6)) during such taxable year.
+    - **(E)** Investment income of the taxpayer for any taxable year shall be reduced by the amount of the passive activity loss to which section 469(a) does not apply for such taxable year by reason of section 469(m). 1 1 See References in Text note below. The preceding sentence shall not apply to any portion of such passive activity loss which is attributable to a rental real estate activity with respect to which the taxpayer actively participates (within the meaning of section 469(i)(6)) during such taxable year.
   - **(5)** For purposes of this subsection—
     - **(A)** The term “property held for investment” shall include—
       - **(i)** any property which produces income of a type described in section 469(e)(1), and
@@ -47,19 +47,6 @@ generated_at: "2026-03-29T18:05:44.506Z"
         - **(II)** with respect to which the taxpayer does not materially participate.
     - **(B)** In the case of property described in subparagraph (A)(i), expenses shall be allocated to such property in the same manner as under section 469.
     - **(C)** For purposes of this paragraph, the terms “activity”, “passive activity”, and “materially participate” have the meanings given such terms by section 469.
-  - **(6)** In the case of any taxable year beginning in calendar years 1987 through 1990—
-    - **(A)** The amount of interest paid or accrued during any such taxable year which is disallowed under this subsection shall not exceed the sum of—
-      - **(i)** the amount which would be disallowed under this subsection if—
-        - **(I)** paragraph (1) were applied by substituting “the sum of the ceiling amount and the net investment income” for “the net investment income”, and
-        - **(II)** paragraphs (4)(E) and (5)(A)(ii) did not apply, and
-      - **(ii)** the applicable percentage of the excess of—
-        - **(I)** the amount which (without regard to this paragraph) is not allowable as a deduction under this subsection for the taxable year, over
-        - **(II)** the amount described in clause (i).
-    - **(B)** For purposes of this paragraph, the applicable percentage shall be determined in accordance with the following table: In the case of taxable years beginning in: The applicable percentage is: 1987 35 1988 60 1989 80 1990 90.
-    - **(C)** For purposes of this paragraph, the term “ceiling amount” means—
-      - **(i)** $10,000 in the case of a taxpayer not described in clause (ii) or (iii),
-      - **(ii)** $5,000 in the case of a married individual filing a separate return, and
-      - **(iii)** zero in the case of a trust.
 - **(e)**
   - **(1)** In the case of any debt instrument issued after July 1, 1982 , the portion of the original issue discount with respect to such debt instrument which is allowable as a deduction to the issuer for any taxable year shall be equal to the aggregate daily portions of the original issue discount for days during such taxable year.
   - **(2)** For purposes of this subsection—
@@ -90,7 +77,7 @@ generated_at: "2026-03-29T18:05:44.506Z"
       - **(i)** For purposes of this paragraph, the disqualified portion of the original issue discount on any applicable high yield discount obligation is the lesser of—
         - **(I)** the amount of such original issue discount, or
         - **(II)** the portion of the total return on such obligation which bears the same ratio to such total return as the disqualified yield on such obligation bears to the yield to maturity on such obligation.
-      - **(ii)** For purposes of clause (i), the term “disqualified yield” means the excess of the yield to maturity on the obligation over the sum referred to 1 1 So in original. Probably should be followed by “in”. subsection (i)(1)(B) plus 1 percentage point, and the term “total return” is the amount which would have been the original issue discount on the obligation if interest described in the parenthetical in section 1273(a)(2) were included in the stated redemption price at maturity.
+      - **(ii)** For purposes of clause (i), the term “disqualified yield” means the excess of the yield to maturity on the obligation over the sum referred to 2 2 So in original. Probably should be followed by “in”. subsection (i)(1)(B) plus 1 percentage point, and the term “total return” is the amount which would have been the original issue discount on the obligation if interest described in the parenthetical in section 1273(a)(2) were included in the stated redemption price at maturity.
     - **(D)** This paragraph shall not apply to any obligation issued by any corporation for any period for which such corporation is an S corporation.
     - **(E)** This paragraph shall not apply for purposes of determining earnings and profits; except that, for purposes of determining the dividend equivalent portion of any amount includible in gross income under section 1272(a) in respect of an applicable high yield discount obligation, no reduction shall be made for any amount attributable to the disqualified portion of any original issue discount on such obligation.
     - **(F)**
@@ -150,7 +137,7 @@ generated_at: "2026-03-29T18:05:44.506Z"
       - **(ii)** The amount otherwise treated as interest under clause (i) shall be reduced (but not below zero) by 10 percent of such amount for each $1,000 ($500 in the case of a married individual filing a separate return) (or fraction thereof) that the taxpayer’s adjusted gross income for the taxable year exceeds $100,000 ($50,000 in the case of a married individual filing a separate return).
       - **(iii)** Clause (i) shall not apply with respect to any mortgage insurance contracts issued before January 1, 2007 .
       - **(iv)** Clause (i) shall not apply to amounts—
-        - **(I)** paid or accrued after December 31, 2013 , or
+        - **(I)** paid or accrued after December 31, 2016 , or
         - **(II)** properly allocable to any period after such date.
   - **(4)** For purposes of this subsection—
     - **(A)**
@@ -167,8 +154,7 @@ generated_at: "2026-03-29T18:05:44.506Z"
     - **(E)** The term “qualified mortgage insurance” means—
       - **(i)** mortgage insurance provided by the Department of Veterans Affairs, the Federal Housing Administration, or the Rural Housing Service, and
       - **(ii)** private mortgage insurance (as defined by section 2 of the Homeowners Protection Act of 1998 ( 12 U.S.C. 4901 ), as in effect on the date of the enactment of this subparagraph).
-    - **(F)** Any amount paid by the taxpayer for qualified mortgage insurance that is properly allocable to any mortgage the payment of which extends to periods that are after the close of the taxable year in which such amount is paid shall be chargeable to capital account and shall be treated as paid in such periods to which so allocated. No deduction shall be allowed for the unamortized balance of such account if such mortgage is satisfied before the end of its term. The preceding sentences shall not apply to amounts paid for qualified mortgage insurance provided by the Veterans Administration or the Rural Housing Administration.
-  - **(5)** In the case of any taxable year beginning in calendar years 1987 through 1990, the amount of interest with respect to which a deduction is disallowed under this subsection shall be equal to the applicable percentage (within the meaning of subsection (d)(6)(B)) of the amount which (but for this paragraph) would have been so disallowed.
+    - **(F)** Any amount paid by the taxpayer for qualified mortgage insurance that is properly allocable to any mortgage the payment of which extends to periods that are after the close of the taxable year in which such amount is paid shall be chargeable to capital account and shall be treated as paid in such periods to which so allocated. No deduction shall be allowed for the unamortized balance of such account if such mortgage is satisfied before the end of its term. The preceding sentences shall not apply to amounts paid for qualified mortgage insurance provided by the Department of Veterans Affairs or the Rural Housing Service.
 - **(i)**
   - **(1)** For purposes of this section, the term “applicable high yield discount obligation” means any debt instrument if—
     - **(A)** the maturity date of such instrument is more than 5 years from the date of issue,
@@ -269,7 +255,7 @@ generated_at: "2026-03-29T18:05:44.506Z"
   - **(5)** For purposes of this subsection, the term “disqualified debt instrument” does not include indebtedness issued by a dealer in securities (or a related party) which is payable in, or by reference to, equity (other than equity of the issuer or a related party) held by such dealer in its capacity as a dealer in securities. For purposes of this paragraph, the term “dealer in securities” has the meaning given such term by section 475.
   - **(6)** For purposes of this subsection, a person is a related party with respect to another person if such person bears a relationship to such other person described in section 267(b) or 707(b).
   - **(7)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection, including regulations preventing avoidance of this subsection through the use of an issuer other than a corporation.
-- **(m)** No deduction shall be allowed under this chapter for any interest paid or accrued under section 6601 on any underpayment of tax which is attributable to the portion of any reportable transaction understatement (as defined in section 6662A(b)) with respect to which the requirement of section 6664(d)(2)(A) 2 2 See References in Text note below. is not met.
+- **(m)** No deduction shall be allowed under this chapter for any interest paid or accrued under section 6601 on any underpayment of tax which is attributable to the portion of any reportable transaction understatement (as defined in section 6662A(b)) with respect to which the requirement of section 6664(d)(2)(A) 1 is not met.
 - **(n)**
   - **(1)** For disallowance of certain amounts paid in connection with insurance, endowment, or annuity contracts, see section 264.
   - **(2)** For disallowance of deduction for interest relating to tax-exempt income, see section 265(a)(2).

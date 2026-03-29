@@ -3,9 +3,9 @@ title: "Section 901 - Enforcing discretionary spending limits"
 usc_title: 2
 usc_section: "901"
 chapter: 20
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "2 U.S.C. § 901"
-generated_at: "2026-03-29T18:03:21.768Z"
+generated_at: "2026-03-29T18:23:14.093Z"
 ---
 
 # § 901. Enforcing discretionary spending limits
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T18:03:21.768Z"
   - **(6)** If an appropriation for a fiscal year in progress is enacted (after Congress adjourns to end the session for that budget year and before July 1 of that fiscal year) that causes a breach within a category for that year (after taking into account any prior sequestration of amounts within that category), 15 days later there shall be a sequestration to eliminate that breach within that category following the procedures set forth in paragraphs (2) through (4).
   - **(7)**
     - **(A)** As soon as practicable after Congress completes action on any discretionary appropriation, CBO, after consultation with the Committees on the Budget of the House of Representatives and the Senate, shall provide OMB with an estimate of the amount of discretionary new budget authority and outlays for the current year, if any, and the budget year provided by that legislation.
-    - **(B)** Not later than 7 calendar days (excluding Saturdays, Sundays, and legal holidays) after the date of enactment of any discretionary appropriation, OMB shall transmit a report to the House of Representatives and to the Senate containing the CBO estimate of that legislation, an OMB estimate of the amount of discretionary new budget authority and outlays for the current year, if any, and the budget year provided by that legislation, and an explanation of any difference between the 2 estimates. If during the preparation of the report OMB determines that there is a significant difference between OMB and CBO, OMB shall consult with the Committees on the Budget of the House of Representatives and the Senate regarding that difference and that consultation shall include, to the extent practicable, written communication to those committees that affords such committees the opportunity to comment before the issuance of the report.
+    - **(B)** Not later than 7 calendar days (excluding Saturdays, Sundays, and legal holidays) after the date of enactment of any discretionary appropriation, OMB shall transmit a report to the House of Representatives and to the Senate containing both the CBO and OMB estimates of the amount of discretionary new budget authority for the current year, if any, and the budget year provided by that legislation, and an explanation of any difference between the 2 estimates. If during the preparation of the report OMB determines that there is a significant difference between OMB and CBO, OMB shall consult with the Committees on the Budget of the House of Representatives and the Senate regarding that difference and that consultation shall include, to the extent practicable, written communication to those committees that affords such committees the opportunity to comment before the issuance of the report.
     - **(C)** OMB estimates under this paragraph shall be made using current economic and technical assumptions. OMB shall use the OMB estimates transmitted to the Congress under this paragraph. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the Committees on the Budget of the House of Representatives and the Senate, CBO, and OMB.
     - **(D)** For purposes of this paragraph, amounts provided by annual appropriations shall include any discretionary appropriations for the current year, if any, and the budget year in accounts for which funding is provided in that legislation that result from previously enacted legislation.
 - **(b)**
@@ -31,21 +31,21 @@ generated_at: "2026-03-29T18:03:21.768Z"
       - **(i)** the Congress designates as emergency requirements in statute on an account by account basis and the President subsequently so designates, or
       - **(ii)** the Congress designates for Overseas Contingency Operations/Global War on Terrorism in statute on an account by account basis and the President subsequently so designates,
     - **(B)**
-      - **(i)** If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for continuing disability reviews under titles II and XVI of the Social Security Act [ 42 U.S.C. 401 et seq., 1381 et seq.] and for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, then the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such expenses for that fiscal year, but shall not exceed—
+      - **(i)** If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for continuing disability reviews under titles II and XVI of the Social Security Act [ 42 U.S.C. 401 et seq., 1381 et seq.], for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, for the cost of co-operative disability investigation units, and for the cost associated with the prosecution of fraud in the programs and operations of the Social Security Administration by Special Assistant United States Attorneys, then the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such expenses for that fiscal year, but shall not exceed—
         - **(I)** for fiscal year 2012, $623,000,000 in additional new budget authority;
         - **(II)** for fiscal year 2013, $751,000,000 in additional new budget authority;
         - **(III)** for fiscal year 2014, $924,000,000 in additional new budget authority;
         - **(IV)** for fiscal year 2015, $1,123,000,000 in additional new budget authority;
         - **(V)** for fiscal year 2016, $1,166,000,000 in additional new budget authority;
-        - **(VI)** for fiscal year 2017, $1,309,000,000 in additional new budget authority;
-        - **(VII)** for fiscal year 2018, $1,309,000,000 in additional new budget authority;
-        - **(VIII)** for fiscal year 2019, $1,309,000,000 in additional new budget authority;
+        - **(VI)** for fiscal year 2017, $1,546,000,000 in additional new budget authority;
+        - **(VII)** for fiscal year 2018, $1,462,000,000 in additional new budget authority;
+        - **(VIII)** for fiscal year 2019, $1,410,000,000 in additional new budget authority;
         - **(IX)** for fiscal year 2020, $1,309,000,000 in additional new budget authority; and
-        - **(X)** for fiscal year 2021, $1,309,000,000 in additional new budget authority.
+        - **(X)** for fiscal year 2021, $1,302,000,000 in additional new budget authority.
       - **(ii)** As used in this subparagraph—
-        - **(I)** the term “continuing disability reviews” means continuing disability reviews under sections 221(i) and 1614(a)(4) of the Social Security Act [ 42 U.S.C. 421(i) , 1382c(a)(4)];
+        - **(I)** the term “continuing disability reviews” means continuing disability reviews under sections 221(i) and 1614(a)(4) of the Social Security Act [ 42 U.S.C. 421(i) , 1382c(a)(4)], including work-related continuing disability reviews to determine whether earnings derived from services demonstrate an individual’s ability to engage in substantial gainful activity;
         - **(II)** the term “redetermination” means redetermination of eligibility under sections 1611(c)(1) and 1614(a)(3)(H) of the Social Security Act [ 42 U.S.C. 1382(c)(1) , 1382c(a)(3)(H)]; and
-        - **(III)** the term “additional new budget authority” means the amount provided for a fiscal year, in excess of $273,000,000, in an appropriation Act and specified to pay for the costs of continuing disability reviews and redeterminations under the heading “Limitation on Administrative Expenses” for the Social Security Administration.
+        - **(III)** the term “additional new budget authority” means the amount provided for a fiscal year, in excess of $273,000,000, in an appropriation Act and specified to pay for the costs of continuing disability reviews, redeterminations, co-operative disability investigation units, and fraud prosecutions under the heading “Limitation on Administrative Expenses” for the Social Security Administration.
     - **(C)**
       - **(i)** If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for the health care fraud abuse control program at the Department of Health and Human Services (75–8393–0–7–571), then the adjustments for that fiscal year shall be the amount of additional new budget authority provided in that Act for such program for that fiscal year, but shall not exceed—
         - **(I)** for fiscal year 2012, $270,000,000 in additional new budget authority;
@@ -74,11 +74,11 @@ generated_at: "2026-03-29T18:03:21.768Z"
     - **(A)** for the revised security category, $521,272,000,000 in new budget authority; and
     - **(B)** for the revised nonsecurity category, $492,356,000,000 in new budget authority;
   - **(3)** for fiscal year 2016—
-    - **(A)** for the revised security category, $577,000,000,000 in new budget authority; and
-    - **(B)** for the revised nonsecurity category, $530,000,000,000 in new budget authority;
+    - **(A)** for the revised security category, $548,091,000,000 in new budget authority; and
+    - **(B)** for the revised nonsecurity category $518,491,000,000 in new budget authority;
   - **(4)** for fiscal year 2017—
-    - **(A)** for the revised security category, $590,000,000,000 in new budget authority; and
-    - **(B)** for the revised nonsecurity category, $541,000,000,000 in new budget authority;
+    - **(A)** for the revised security category, $551,068,000,000 in new budget authority; and
+    - **(B)** for the revised nonsecurity category, $518,531,000,000 in new budget authority;
   - **(5)** for fiscal year 2018—
     - **(A)** for the revised security category, $603,000,000,000 in new budget authority; and
     - **(B)** for the revised nonsecurity category, $553,000,000,000 in new budget authority;

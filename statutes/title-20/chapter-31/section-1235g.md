@@ -1,12 +1,12 @@
 ---
-title: "Section 1235g - Repealed. Pub. L. 107–110, title X, § 1011(3) , Jan. 8, 2002 , 115 Stat. 1986"
+title: "Section 1235g - Repealed. Pub. L. 107–110, title X , § 1011(3), Jan. 8, 2002 , 115 Stat. 1986"
 usc_title: 20
 usc_section: "1235g"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1235g"
-generated_at: "2026-03-29T02:12:17.341Z"
+generated_at: "2026-03-29T18:24:41.039Z"
 ---
 
-# §§ 1235 to 1235g. Repealed. Pub. L. 107–110, title X, § 1011(3) , Jan. 8, 2002 , 115 Stat. 1986
+# §§ 1235 to 1235g. Repealed. Pub. L. 107–110, title X , § 1011(3), Jan. 8, 2002 , 115 Stat. 1986
 

@@ -1,14 +1,12 @@
 ---
-title: "Section 640a - Diné College; purpose"
+title: "Section 640a - Omitted"
 usc_title: 25
 usc_section: "640a"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 640a"
-generated_at: "2026-03-29T18:05:17.078Z"
+generated_at: "2026-03-29T18:25:23.698Z"
 ---
 
-# § 640a. Diné College; purpose
-
-It is the purpose of sections 640a to 640c–3 of this title to assist the Navajo Nation in providing education to the members of the tribe and other qualified applicants through a community college, established by that tribe, known as Diné College.
+# § 640a. Omitted
 

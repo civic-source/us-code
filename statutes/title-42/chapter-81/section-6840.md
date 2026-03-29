@@ -1,12 +1,12 @@
 ---
-title: "Section 6840 - Repealed. Pub. L. 102–486, title I, § 101(a)(2) , Oct. 24, 1992 , 106 Stat. 2783"
+title: "Section 6840 - Repealed. Pub. L. 102–486, title I , § 101(a)(2), Oct. 24, 1992 , 106 Stat. 2783"
 usc_title: 42
 usc_section: "6840"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 6840"
-generated_at: "2026-03-29T02:15:36.843Z"
+generated_at: "2026-03-29T18:27:03.724Z"
 ---
 
-# §§ 6839, 6840. Repealed. Pub. L. 102–486, title I, § 101(a)(2) , Oct. 24, 1992 , 106 Stat. 2783
+# §§ 6838 to 6840. Repealed. Pub. L. 102–486, title I , § 101(a)(2), Oct. 24, 1992 , 106 Stat. 2783
 

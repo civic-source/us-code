@@ -3,9 +3,9 @@ title: "Section 7507 - Effective date"
 usc_title: 31
 usc_section: "7507"
 chapter: 75
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "31 U.S.C. § 7507"
-generated_at: "2026-03-29T18:06:08.523Z"
+generated_at: "2026-03-29T18:25:59.215Z"
 ---
 
 # § 7507. Effective date

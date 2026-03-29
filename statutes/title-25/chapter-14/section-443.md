@@ -1,14 +1,12 @@
 ---
-title: "Section 443 - Disposition of cash settlements"
+title: "Section 443 - Transferred"
 usc_title: 25
 usc_section: "443"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 443"
-generated_at: "2026-03-29T18:05:17.051Z"
+generated_at: "2026-03-29T18:25:23.693Z"
 ---
 
-# § 443. Disposition of cash settlements
-
-Any moneys received on and after May 24, 1950 , in settlement of such debts or from the sale of livestock so repaid to the United States shall be deposited in the revolving fund established pursuant to the Acts of June 18, 1934 ( 48 Stat. 984 ) [ 25 U.S.C. 461 et seq.], and June 26, 1936 ( 49 Stat. 1967 ) [ 25 U.S.C. 501 et seq.], as amended and supplemented.
+# § 443. Transferred
 

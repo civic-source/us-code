@@ -3,9 +3,9 @@ title: "Section 410aa - Establishment"
 usc_title: 16
 usc_section: "410aa"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 410aa"
-generated_at: "2026-03-29T18:05:06.548Z"
+generated_at: "2026-03-29T18:24:22.471Z"
 ---
 
 # § 410aa. Establishment

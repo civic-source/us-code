@@ -1,16 +1,26 @@
 ---
-title: "Section 3105a - Classified intelligence budget justification materials"
+title: "Section 3105a - Annual assessment of intelligence community performance by function"
 usc_title: 50
 usc_section: "3105a"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 3105a"
-generated_at: "2026-03-29T02:16:14.772Z"
+generated_at: "2026-03-29T18:27:35.684Z"
 ---
 
-# § 3105a. Classified intelligence budget justification materials
+# § 3105a. Annual assessment of intelligence community performance by function
 
-- **(a)** In this section:
-  - **(1)** The term “budget” has the meaning given the term “budget of the President” in section 3097 of this title .
-  - **(2)** The term “classified intelligence budget justification materials” means, with respect to a fiscal year, the materials submitted to Congress by the Director of National Intelligence in support of the budget for that fiscal year that are classified or otherwise protected from public disclosure.
-- **(b)** Not later than 5 days after the date on which the President submits to Congress the budget for each fiscal year pursuant to section 1105(a) of title 31 , the Director of National Intelligence shall submit to the congressional intelligence committees and the Committees on Appropriations of the Senate and the House of Representatives the classified intelligence budget justification materials for the element for that budget.
+- **(a)** Not later than April 1, 2016 , and each year thereafter, the Director of National Intelligence shall, in consultation with the Functional Managers, submit to the congressional intelligence committees a report on covered intelligence functions during the preceding year.
+- **(b)** Each report under subsection (a) shall include for each covered intelligence function for the year covered by such report the following:
+  - **(1)** An identification of the capabilities, programs, and activities of such intelligence function, regardless of the element of the intelligence community that carried out such capabilities, programs, and activities.
+  - **(2)** A description of the investment and allocation of resources for such intelligence function, including an analysis of the allocation of resources within the context of the National Intelligence Strategy, priorities for recipients of resources, and areas of risk.
+  - **(3)** A description and assessment of the performance of such intelligence function.
+  - **(4)** An identification of any issues related to the application of technical interoperability standards in the capabilities, programs, and activities of such intelligence function.
+  - **(5)** An identification of the operational overlap or need for de-confliction, if any, within such intelligence function.
+  - **(6)** A description of any efforts to integrate such intelligence function with other intelligence disciplines as part of an integrated intelligence enterprise.
+  - **(7)** A description of any efforts to establish consistency in tradecraft and training within such intelligence function.
+  - **(8)** A description and assessment of developments in technology that bear on the future of such intelligence function.
+  - **(9)** Such other matters relating to such intelligence function as the Director may specify for purposes of this section.
+- **(c)** In this section:
+  - **(1)** The term “covered intelligence functions” means each intelligence function for which a Functional Manager has been established under section 3034a of this title during the year covered by a report under this section.
+  - **(2)** The term “Functional Manager” means the manager of an intelligence function established under section 3034a of this title .

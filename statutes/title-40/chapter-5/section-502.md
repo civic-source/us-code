@@ -3,9 +3,9 @@ title: "Section 502 - Services for other entities"
 usc_title: 40
 usc_section: "502"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "40 U.S.C. § 502"
-generated_at: "2026-03-29T18:06:19.946Z"
+generated_at: "2026-03-29T18:26:04.552Z"
 ---
 
 # § 502. Services for other entities
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T18:06:19.946Z"
     - **(B)** The term “tribal government” means—
       - **(i)** the governing body of any Indian tribe, band, nation, or other organized group or community located in the continental United States (excluding the State of Alaska) that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians, and
       - **(ii)** any Alaska Native regional or village corporation established pursuant to the Alaska Native Claims Settlement Act ( 43 U.S.C. 1601 et seq.).
-    - **(C)** The term “local educational agency” has the meaning given that term in section 8013 of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7713 ).
+    - **(C)** The term “local educational agency” has the meaning given that term in section 7013 of the Elementary and Secondary Education Act of 1965.
     - **(D)** The term “institution of higher education” has the meaning given that term in section 101(a) of the Higher Education Act of 1965 ( 20 U.S.C. 1001(a) ).
 - **(d)**
   - **(1)** The Administrator may provide for the use by State or local governments of Federal supply schedules of the General Services Administration for goods or services that are to be used to facilitate recovery from a major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.), to facilitate disaster preparedness or response, or to facilitate recovery from terrorism or nuclear, biological, chemical, or radiological attack.

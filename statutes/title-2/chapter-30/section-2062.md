@@ -3,9 +3,9 @@ title: "Section 2062 - House of Representatives Child Care Center"
 usc_title: 2
 usc_section: "2062"
 chapter: 30
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "2 U.S.C. § 2062"
-generated_at: "2026-03-29T18:03:21.819Z"
+generated_at: "2026-03-29T18:23:14.137Z"
 ---
 
 # § 2062. House of Representatives Child Care Center
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T18:03:21.819Z"
     - **(B)** The director of the center shall serve as an additional member of the board, ex officio and without the right to vote.
   - **(2)** A vacancy on the board shall be filled in the manner in which the original appointment is made.
   - **(3)** The chairman of the board shall be elected by the members of the board.
-- **(c)** In carrying out subsection (a) of this section, the Chief Administrative Officer is authorized—
+- **(c)** In carrying out subsection (a), the Chief Administrative Officer is authorized—
   - **(1)** to collect fees for child care services;
   - **(2)** to accept such gifts of money and property as may be approved by the Chairman and the ranking minority party member of the Committee on House Oversight of the House of Representatives, acting jointly; and
   - **(3)** to employ a director and other employees for the center.
@@ -38,5 +38,5 @@ generated_at: "2026-03-29T18:03:21.819Z"
 - **(e)** The Fund shall be treated as a category of allowances and expenses for purposes of section 5507(a) of this title .
 - **(f)** As used in this section—
   - **(1)** the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress;
-  - **(2)** the term “agency of the legislative branch” means the Office of the Architect of the Capitol, the Botanic Garden, the Government Accountability Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, and the Copyright Royalty Tribunal; and
+  - **(2)** the term “agency of the legislative branch” means the Office of the Architect of the Capitol, the Botanic Garden, the Government Accountability Office, the Government Publishing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, and the Copyright Royalty Tribunal; and
   - **(3)** the term “support personnel” means, with respect to the House of Representatives, any employee of a credit union or of the Architect of the Capitol, whose principal duties are to support the functions of the House of Representatives.

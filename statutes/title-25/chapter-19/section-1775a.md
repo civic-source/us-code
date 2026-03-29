@@ -1,21 +1,12 @@
 ---
-title: "Section 1775a - Definitions"
+title: "Section 1775a - Omitted"
 usc_title: 25
 usc_section: "1775a"
 chapter: 19
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1775a"
-generated_at: "2026-03-29T18:05:17.182Z"
+generated_at: "2026-03-29T18:25:23.751Z"
 ---
 
-# § 1775a. Definitions
+# § 1775a. Omitted
 
-As used in this subchapter:
-
-  - **(1)** The term “lands or natural resources” means any real property or natural resources, or any interest in or right involving any real property or natural resources, including any right or interest in minerals, timber, or water, and any hunting or fishing rights.
-  - **(2)** The term “Mohegan Tribe” means the Mohegan Tribe of Indians of Connecticut, a tribe of American Indians recognized by the United States pursuant to part 83 of title 25, Code of Federal Regulations, and the State of Connecticut pursuant to section 47–59a(b) of the Connecticut General Statutes.
-  - **(3)** The term “Secretary” means the Secretary of the Interior.
-  - **(4)** The term “State” means the State of Connecticut.
-  - **(5)** The term “State Agreement” means the Agreement between the Mohegan Tribe and the State of Connecticut, executed on May 17, 1994 , by the Governor of the State of Connecticut and the Chief of the Mohegan Tribe, that was filed with the Secretary of State of the State of Connecticut.
-  - **(6)** The term “Town Agreement” means the agreement executed on June 16, 1994 , by the Mayor of the town of Montville and the Chief of the Mohegan Tribe.
-  - **(7)** The term “transfer” includes any sale, grant, lease, allotment, partition, or conveyance, any transaction the purpose of which is to effect a sale, grant, lease, allotment, partition, or conveyance, or any event that results in a change of possession or control of land or natural resources.

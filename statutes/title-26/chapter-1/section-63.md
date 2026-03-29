@@ -3,9 +3,9 @@ title: "Section 63 - Taxable income defined"
 usc_title: 26
 usc_section: "63"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 63"
-generated_at: "2026-03-29T18:05:44.460Z"
+generated_at: "2026-03-29T18:25:53.412Z"
 ---
 
 # § 63. Taxable income defined
@@ -16,11 +16,8 @@ generated_at: "2026-03-29T18:05:44.460Z"
   - **(2)** the deduction for personal exemptions provided in section 151.
 - **(c)** For purposes of this subtitle—
   - **(1)** Except as otherwise provided in this subsection, the term “standard deduction” means the sum of—
-    - **(A)** the basic standard deduction,
-    - **(B)** the additional standard deduction,
-    - **(C)** in the case of any taxable year beginning in 2008 or 2009, the real property tax deduction,
-    - **(D)** the disaster loss deduction, and
-    - **(E)** the motor vehicle sales tax deduction.
+    - **(A)** the basic standard deduction, and
+    - **(B)** the additional standard deduction.
   - **(2)** For purposes of paragraph (1), the basic standard deduction is—
     - **(A)** 200 percent of the dollar amount in effect under subparagraph (C) for the taxable year in the case of—
       - **(i)** a joint return, or
@@ -41,11 +38,6 @@ generated_at: "2026-03-29T18:05:44.460Z"
     - **(B)** a nonresident alien individual,
     - **(C)** an individual making a return under section 443(a)(1) for a period of less than 12 months on account of a change in his annual accounting period, or
     - **(D)** an estate or trust, common trust fund, or partnership,
-  - **(7)** For purposes of paragraph (1), the real property tax deduction is the lesser of—
-    - **(A)** the amount allowable as a deduction under this chapter for State and local taxes described in section 164(a)(1), or
-    - **(B)** $500 ($1,000 in the case of a joint return).
-  - **(8)** For the purposes of paragraph (1), the term “disaster loss deduction” means the net disaster loss (as defined in section 165(h)(3)(B)).
-  - **(9)** For purposes of paragraph (1), the term “motor vehicle sales tax deduction” means the amount allowable as a deduction under section 164(a)(6). Such term shall not include any amount taken into account under section 62(a).
 - **(d)** For purposes of this subtitle, the term “itemized deductions” means the deductions allowable under this chapter other than—
   - **(1)** the deductions allowable in arriving at adjusted gross income, and
   - **(2)** the deduction for personal exemptions provided by section 151.

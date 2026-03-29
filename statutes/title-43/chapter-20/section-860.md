@@ -1,12 +1,12 @@
 ---
-title: "Section 860 - Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029"
+title: "Section 860 - Repealed. Dec. 16, 1930, ch. 14 , § 1, 46 Stat. 1029"
 usc_title: 43
 usc_section: "860"
 chapter: 20
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 860"
-generated_at: "2026-03-29T18:06:28.306Z"
+generated_at: "2026-03-29T18:26:14.832Z"
 ---
 
-# § 860. Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029
+# § 860. Repealed. Dec. 16, 1930, ch. 14 , § 1, 46 Stat. 1029
 

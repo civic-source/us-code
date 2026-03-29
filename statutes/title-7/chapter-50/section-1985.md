@@ -3,17 +3,17 @@ title: "Section 1985 - Security servicing"
 usc_title: 7
 usc_section: "1985"
 chapter: 50
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 1985"
-generated_at: "2026-03-29T18:04:04.915Z"
+generated_at: "2026-03-29T18:23:43.328Z"
 ---
 
 # § 1985. Security servicing
 
 - **(a)** The Secretary is authorized and empowered to make advances, without regard to any loan or total indebtedness limitation, to preserve and protect the security for or the lien or priority of the lien securing any loan or other indebtedness owing to, insured by, or acquired by the Secretary under this chapter or under any other programs administered by the Farmers Home Administration or the Rural Development Administration; to bid for and purchase at any execution, foreclosure, or other sale or otherwise to acquire property upon which the United States has a lien by reason of a judgment or execution arising from, or which is pledged, mortgaged, conveyed, attached, or levied upon to secure the payment of, any such indebtedness whether or not such property is subject to other liens, to accept title to any property so purchased or acquired; and to sell, manage, or otherwise dispose of such property as hereinafter provided.
-- **(b)** Except as provided in subsections (c) and (e) of this section, real property administered under the provisions of this chapter may be operated or leased by the Secretary for such period or periods as the Secretary may deem necessary to protect the Government’s investment therein.
+- **(b)** Except as provided in subsections (c) and (e), real property administered under the provisions of this chapter may be operated or leased by the Secretary for such period or periods as the Secretary may deem necessary to protect the Government’s investment therein.
 - **(c)**
-  - **(1)** Subject to this subsection and subsection (e)(1)(A) of this section, the Secretary shall offer to sell real property that is acquired by the Secretary under this chapter using the following order and method of sale:
+  - **(1)** Subject to this subsection and subsection (e)(1)(A), the Secretary shall offer to sell real property that is acquired by the Secretary under this chapter using the following order and method of sale:
     - **(A)** Not later than 15 days after acquiring real property, the Secretary shall publicly advertise the property for sale.
     - **(B)**
       - **(i)** Not later than 135 days after acquiring real property, the Secretary shall offer to sell the property to a qualified beginning farmer or rancher or a socially disadvantaged farmer or rancher at current market value based on a current appraisal.
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T18:04:04.915Z"
   - **(5)**
     - **(A)** Subject to subparagraph (B), the Secretary may not lease any real property acquired under this chapter.
     - **(B)**
-      - **(i)** The Secretary may lease or contract to sell to a beginning farmer or rancher or a socially disadvantaged farmer or rancher a farm or ranch acquired by the Secretary under this chapter if the beginning farmer or rancher or the socially disadvantaged farmer or rancher qualifies for a credit sale or direct farm ownership loan under subchapter I of this chapter but credit sale authority for loans or direct farm ownership loan funds, respectively, are not available.
+      - **(i)** The Secretary may lease or contract to sell to a beginning farmer or rancher or a socially disadvantaged farmer or rancher a farm or ranch acquired by the Secretary under this chapter if the beginning farmer or rancher or the socially disadvantaged farmer or rancher qualifies for a credit sale or direct farm ownership loan under subchapter I but credit sale authority for loans or direct farm ownership loan funds, respectively, are not available.
       - **(ii)** The term of a lease or contract to sell to a beginning farmer or rancher or a socially disadvantaged farmer or rancher under clause (i) shall be until the earlier of—
         - **(I)** the date that is 18 months after the date of the lease or sale; or
         - **(II)** the date that direct farm ownership loan funds or credit sale authority for loans becomes available to the beginning farmer or rancher or the socially disadvantaged farmer or rancher.
@@ -83,7 +83,7 @@ generated_at: "2026-03-29T18:04:04.915Z"
         - **(I)** the right of the borrower-owner to voluntarily convey the real property to the Secretary; and
         - **(II)** the fact that real property so conveyed will be placed in the inventory of the Secretary.
       - **(iii)** The Secretary shall provide the borrower-owner of the real property with written notice of the rights and protections provided under this chapter to the borrower-owner, and the Indian tribe that has jurisdiction over the reservation in which the real property is located, from foreclosure or liquidation of the real property, including written notice of—
-        - **(I)** the provisions of subparagraph (A), this subparagraph, and subsection (g)(6) 1 1 See References in Text note below. of this section;
+        - **(I)** the provisions of subparagraph (A), this subparagraph, and subsection (g)(6); 1 1 See References in Text note below.
         - **(II)** if the borrower-owner does not voluntarily convey the real property to the Secretary, that—
         - **(III)** the opportunity of the borrower-owner to consult with the Indian tribe that has jurisdiction over the reservation in which the real property is located or counsel to determine if State or tribal law provides rights and protections that are more beneficial than those provided the borrower-owner under this chapter.
       - **(iv)**

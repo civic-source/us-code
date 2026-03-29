@@ -3,9 +3,9 @@ title: "Section 13791 - Community schools youth services and supervision grant p
 usc_title: 42
 usc_section: "13791"
 chapter: 136
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 13791"
-generated_at: "2026-03-29T18:07:15.340Z"
+generated_at: "2026-03-29T18:27:04.134Z"
 ---
 
 # § 13791. Community schools youth services and supervision grant program
@@ -57,7 +57,7 @@ generated_at: "2026-03-29T18:07:15.340Z"
     - **(D)** set forth measurable goals and outcomes for the program that—
       - **(i)** will—
         - **(I)** where appropriate, make a public school the focal point of the eligible community; or
-        - **(II)** make a local facility described in subsection (d)(1)(B) of this section such a focal point; and
+        - **(II)** make a local facility described in subsection (d)(1)(B) such a focal point; and
       - **(ii)** may include reducing the percentage of children in the eligible community that enter the juvenile justice system, increasing the graduation rates, school attendance, and academic success of children in the eligible community, and improving the skills of program participants;
     - **(E)** provide evidence of support for accomplishing such goals and outcomes from—
       - **(i)** community leaders;
@@ -67,9 +67,9 @@ generated_at: "2026-03-29T18:07:15.340Z"
       - **(v)** State officials;
       - **(vi)** Indian tribal government officials; and
       - **(vii)** other organizations that the community-based organization determines to be appropriate;
-    - **(F)** contain an assurance that the community-based organization will use grant funds received under this section to provide children in the eligible community with activities and services that shall include supervised sports programs, and extracurricular and academic programs, in accordance with subparagraphs (A) and (B) of subsection (d)(2) of this section;
+    - **(F)** contain an assurance that the community-based organization will use grant funds received under this section to provide children in the eligible community with activities and services that shall include supervised sports programs, and extracurricular and academic programs, in accordance with subparagraphs (A) and (B) of subsection (d)(2);
     - **(G)** contain a list of the activities and services that will be offered through the program for which the grant is sought and sponsored by private nonprofit organizations, individuals, and groups serving the eligible community, including—
-      - **(i)** extracurricular and academic programs, such as programs described in subsection (d)(2)(B) of this section; and
+      - **(i)** extracurricular and academic programs, such as programs described in subsection (d)(2)(B); and
       - **(ii)** activities that address specific needs in the community;
     - **(H)** demonstrate the manner in which the community-based organization will make use of the resources, expertise, and commitment of private entities in carrying out the program for which the grant is sought;
     - **(I)** include an estimate of the number of children in the eligible community expected to be served pursuant to the program;
@@ -77,7 +77,7 @@ generated_at: "2026-03-29T18:07:15.340Z"
     - **(K)** contain an assurance that the community-based organization will use competitive procedures when purchasing, contracting, or otherwise providing for goods, activities, or services to carry out programs under this section;
     - **(L)** contain an assurance that the program will maintain a staff-to-participant ratio (including volunteers) that is appropriate to the activity or services provided by the program;
     - **(M)** contain an assurance that the program will maintain an average attendance rate of not less than 75 percent of the participants enrolled in the program, or will enroll additional participants in the program;
-    - **(N)** contain an assurance that the community-based organization will comply with any evaluation under subsection (m) 4 4 So in original. Probably should be subsection “(k)”. of this section, any research effort authorized under Federal law, and any investigation by the Secretary;
+    - **(N)** contain an assurance that the community-based organization will comply with any evaluation under subsection (m), 4 4 So in original. Probably should be subsection “(k)”. any research effort authorized under Federal law, and any investigation by the Secretary;
     - **(O)** contain an assurance that the community-based organization shall prepare and submit to the Secretary an annual report regarding any program conducted under this section;
     - **(P)** contain an assurance that the program for which the grant is sought will, to the maximum extent possible, incorporate services that are provided solely through non-Federal private or nonprofit sources; and
     - **(Q)** contain an assurance that the community-based organization will maintain separate accounting records for the program.
@@ -95,18 +95,18 @@ generated_at: "2026-03-29T18:07:15.340Z"
     - **(D)** The private sector.
     - **(E)** A charitable organization.
     - **(F)** A representative of the United States Olympic Committee, at the option of the Secretary.
-  - **(3)** A peer review panel shall conduct the initial review of all grant applications received by the Secretary under subsection (f) of this section, make recommendations to the Secretary regarding—
+  - **(3)** A peer review panel shall conduct the initial review of all grant applications received by the Secretary under subsection (f), make recommendations to the Secretary regarding—
     - **(A)** grant funding under this section; and
     - **(B)** a design for the evaluation of programs assisted under this section.
 - **(i)** The Secretary may conduct such investigations and inspections as may be necessary to ensure compliance with the provisions of this section.
 - **(j)**
-  - **(1)** The Secretary shall, subject to the availability of appropriations, pay to each community-based organization having an application approved under subsection (f) of this section the Federal share of the costs of developing and carrying out programs described in subsection (c) of this section.
+  - **(1)** The Secretary shall, subject to the availability of appropriations, pay to each community-based organization having an application approved under subsection (f) the Federal share of the costs of developing and carrying out programs described in subsection (c).
   - **(2)** The Federal share of such costs shall be no more than—
     - **(A)** 75 percent for each of fiscal years 1995 and 1996;
     - **(B)** 70 percent for fiscal year 1997; and
     - **(C)** 60 percent for fiscal year 1998 and thereafter.
   - **(3)**
-    - **(A)** The non-Federal share of such costs may be in cash or in kind, fairly evaluated, including plant, equipment, and services (including the services described in subsection (f)(2)(P) of this section), and funds appropriated by the Congress for the activity of any agency of an Indian tribal government or the Bureau of Indian Affairs on any Indian lands may be used to provide the non-Federal share of the costs of programs or projects funded under this part.
+    - **(A)** The non-Federal share of such costs may be in cash or in kind, fairly evaluated, including plant, equipment, and services (including the services described in subsection (f)(2)(P)), and funds appropriated by the Congress for the activity of any agency of an Indian tribal government or the Bureau of Indian Affairs on any Indian lands may be used to provide the non-Federal share of the costs of programs or projects funded under this part.
     - **(B)** At least 15 percent of the non-Federal share of such costs shall be provided from private or nonprofit sources.
 - **(k)** The Secretary shall conduct a thorough evaluation of the programs assisted under this section, which shall include an assessment of—
   - **(1)** the number of children participating in each program assisted under this section;

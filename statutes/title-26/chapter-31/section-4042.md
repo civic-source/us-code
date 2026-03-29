@@ -3,9 +3,9 @@ title: "Section 4042 - Tax on fuel used in commercial transportation on inland w
 usc_title: 26
 usc_section: "4042"
 chapter: 31
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 4042"
-generated_at: "2026-03-29T18:05:44.881Z"
+generated_at: "2026-03-29T18:25:53.814Z"
 ---
 
 # § 4042. Tax on fuel used in commercial transportation on inland waterways
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T18:05:44.881Z"
     - **(B)** the Leaking Underground Storage Tank Trust Fund financing rate, and
     - **(C)** the deficit reduction rate.
   - **(2)** For purposes of paragraph (1)—
-    - **(A)** The Inland Waterways Trust Fund financing rate is the rate determined in accordance with the following table: If the use occurs: The tax per gallon is: Before 1990 10 cents During 1990 11 cents During 1991 13 cents During 1992 15 cents During 1993 17 cents During 1994 19 cents After 1994 20 cents.
+    - **(A)** The Inland Waterways Trust Fund financing rate is 29 cents per gallon.
     - **(B)** The Leaking Underground Storage Tank Trust Fund financing rate is 0.1 cent per gallon.
     - **(C)** The deficit reduction rate is—
       - **(i)** 3.3 cents per gallon after December 31, 2004 , and before July 1, 2005 ,

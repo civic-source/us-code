@@ -3,9 +3,9 @@ title: "Section 6065 - Assessments"
 usc_title: 20
 usc_section: "6065"
 chapter: 68
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 6065"
-generated_at: "2026-03-29T18:05:00.289Z"
+generated_at: "2026-03-29T18:24:41.108Z"
 ---
 
 # § 6065. Assessments

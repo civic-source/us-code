@@ -3,9 +3,9 @@ title: "Section 6972 - Citizen suits"
 usc_title: 42
 usc_section: "6972"
 chapter: 82
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 6972"
-generated_at: "2026-03-29T18:07:14.821Z"
+generated_at: "2026-03-29T18:27:03.748Z"
 ---
 
 # § 6972. Citizen suits
@@ -39,7 +39,7 @@ generated_at: "2026-03-29T18:07:14.821Z"
     - **(D)** No action may be commenced under subsection (a)(1)(B) of this section by any person (other than a State or local government) with respect to the siting of a hazardous waste treatment, storage, or a disposal facility, nor to restrain or enjoin the issuance of a permit for such facility.
     - **(E)** In any action under subsection (a)(1)(B) of this section in a court of the United States, any person may intervene as a matter of right when the applicant claims an interest relating to the subject of the action and he is so situated that the disposition of the action may, as a practical matter, impair or impede his ability to protect that interest, unless the Administrator or the State shows that the applicant’s interest is adequately represented by existing parties.
     - **(F)** Whenever any action is brought under subsection (a)(1)(B) of this section in a court of the United States, the plaintiff shall serve a copy of the complaint on the Attorney General of the United States and with the Administrator.
-- **(c)** No action may be commenced under paragraph (a)(2) of this section prior to sixty days after the plaintiff has given notice to the Administrator that he will commence such action, except that such action may be brought immediately after such notification in the case of an action under this section respecting a violation of subchapter III of this chapter. Notice under this subsection shall be given in such manner as the Administrator shall prescribe by regulation. Any action respecting a violation under this chapter may be brought under this section only in the judicial district in which such alleged violation occurs.
+- **(c)** No action may be commenced under paragraph (a)(2) of this section prior to sixty days after the plaintiff has given notice to the Administrator that he will commence such action, except that such action may be brought immediately after such notification in the case of an action under this section respecting a violation of subchapter III. Notice under this subsection shall be given in such manner as the Administrator shall prescribe by regulation. Any action respecting a violation under this chapter may be brought under this section only in the judicial district in which such alleged violation occurs.
 - **(d)** In any action under this section the Administrator, if not a party, may intervene as a matter of right.
 - **(e)** The court, in issuing any final order in any action brought pursuant to this section or section 6976 of this title , may award costs of litigation (including reasonable attorney and expert witness fees) to the prevailing or substantially prevailing party, whenever the court determines such an award is appropriate. The court may, if a temporary restraining order or preliminary injunction is sought, require the filing of a bond or equivalent security in accordance with the Federal Rules of Civil Procedure.
 - **(f)** Nothing in this section shall restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement of any standard or requirement relating to the management of solid waste or hazardous waste, or to seek any other relief (including relief against the Administrator or a State agency).

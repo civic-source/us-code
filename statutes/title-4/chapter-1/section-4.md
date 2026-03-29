@@ -3,12 +3,12 @@ title: "Section 4 - Pledge of allegiance to the flag; manner of delivery"
 usc_title: 4
 usc_section: "4"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "4 U.S.C. § 4"
-generated_at: "2026-03-29T18:03:13.809Z"
+generated_at: "2026-03-29T18:23:16.543Z"
 ---
 
 # § 4. Pledge of allegiance to the flag; manner of delivery
 
-The Pledge of Allegiance to the Flag: “I pledge allegiance to the Flag of the United States of America, and to the Republic for which it stands, one Nation under God, indivisible, with liberty and justice for all.”, should be rendered by standing at attention facing the flag with the right hand over the heart. When not in uniform men should remove any non-religious headdress with their right hand and hold it at the left shoulder, the hand being over the heart. Persons in uniform should remain silent, face the flag, and render the military salute.
+The Pledge of Allegiance to the Flag: “I pledge allegiance to the Flag of the United States of America, and to the Republic for which it stands, one Nation under God, indivisible, with liberty and justice for all.”, should be rendered by standing at attention facing the flag with the right hand over the heart. When not in uniform men should remove any non-religious headdress with their right hand and hold it at the left shoulder, the hand being over the heart. Persons in uniform should remain silent, face the flag, and render the military salute. Members of the Armed Forces not in uniform and veterans may render the military salute in the manner provided for persons in uniform.
 

@@ -3,9 +3,9 @@ title: "Section 1103 - Eligibility; applications"
 usc_title: 20
 usc_section: "1103"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1103"
-generated_at: "2026-03-29T18:05:00.161Z"
+generated_at: "2026-03-29T18:24:41.000Z"
 ---
 
 # § 1103. Eligibility; applications
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T18:05:00.161Z"
 - **(a)** Each Hispanic-serving institution desiring to receive assistance under this subchapter shall submit to the Secretary such enrollment data as may be necessary to demonstrate that the institution is a Hispanic-serving institution as defined in section 1101a of this title , along with such other data and information as the Secretary may by regulation require.
 - **(b)**
   - **(1)** Any institution which is eligible for assistance under this subchapter shall submit to the Secretary an application for assistance at such time, in such form, and containing such information, as may be necessary to enable the Secretary to evaluate the institution’s need for assistance. Subject to the availability of appropriations to carry out this subchapter, the Secretary may approve an application for a grant under this subchapter only if the Secretary determines that—
-    - **(A)** the application meets the requirements of subsection (c) of this section; and
+    - **(A)** the application meets the requirements of subsection (c); and
     - **(B)** the institution is eligible for assistance in accordance with the provisions of this subchapter under which the assistance is sought.
   - **(2)** In carrying out paragraph (1), the Secretary may develop a preliminary application for use by Hispanic-serving institutions applying under this subchapter prior to the submission of the principal application.
 - **(c)** A Hispanic-serving institution, in the institution’s application for a grant, shall—
@@ -32,4 +32,4 @@ generated_at: "2026-03-29T18:05:00.161Z"
   - **(8)** provide for making reports, in such form and containing such information, as the Secretary may require to carry out the Secretary’s functions under this subchapter, including not less than one report annually setting forth the institution’s progress toward achieving the objectives for which the funds were awarded and for keeping such records and affording such access to such records, as the Secretary may find necessary to assure the correctness and verification of such reports; and
   - **(9)** include such other information as the Secretary may prescribe.
 - **(d)** With respect to applications for assistance under this section, the Secretary shall give priority to an application that contains satisfactory evidence that the Hispanic-serving institution has entered into or will enter into a collaborative arrangement with at least one local educational agency or community-based organization to provide such agency or organization with assistance (from funds other than funds provided under this subchapter) in reducing dropout rates for Hispanic students, improving rates of academic achievement for Hispanic students, and increasing the rates at which Hispanic secondary school graduates enroll in higher education.
-- **(e)** The Secretary shall use the most recent and relevant data concerning the number and percentage of students receiving need-based assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 in making eligibility determinations and shall advance the base-year for the determinations forward following each annual grant cycle.
+- **(e)** The Secretary shall use the most recent and relevant data concerning the number and percentage of students receiving need-based assistance under subchapter IV in making eligibility determinations and shall advance the base-year for the determinations forward following each annual grant cycle.

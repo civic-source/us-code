@@ -3,15 +3,15 @@ title: "Section 492 - Biennial assessment and report on the delivery platforms f
 usc_title: 10
 usc_section: "492"
 chapter: 24
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 492"
-generated_at: "2026-03-29T18:04:12.985Z"
+generated_at: "2026-03-29T18:23:51.741Z"
 ---
 
 # § 492. Biennial assessment and report on the delivery platforms for nuclear weapons and the nuclear command and control system
 
 - **(a)**
-  - **(1)** For each even-numbered year, each covered official shall assess the safety, security, reliability, sustainability, performance, and military effectiveness of the systems described in paragraph (2) for which such official has responsibility.
+  - **(1)** For each even-numbered year, each covered official shall assess the safety, security, reliability, sustainability, performance, and military effectiveness of, and the ability to meet operational availability requirements for, the systems described in paragraph (2) for which such official has responsibility.
   - **(2)** The systems described in this paragraph are the following:
     - **(A)** Each type of delivery platform for nuclear weapons.
     - **(B)** The nuclear command and control system.

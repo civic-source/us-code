@@ -3,9 +3,9 @@ title: "Section 7331 - Options pilot program"
 usc_title: 7
 usc_section: "7331"
 chapter: 100
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 7331"
-generated_at: "2026-03-29T18:04:05.111Z"
+generated_at: "2026-03-29T18:23:43.508Z"
 ---
 
 # § 7331. Options pilot program
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T18:04:05.111Z"
 - **(d)** The Secretary shall provide notice to each producer participating in the pilot program that—
   - **(1)** the participation of the producer is voluntary; and
   - **(2)** neither the United States, the Commodity Credit Corporation, the Federal Crop Insurance Corporation, the Department of Agriculture, nor any other Federal agency is authorized to guarantee that participants in the pilot program will be better or worse off financially as a result of participation in the pilot program than the producer would have been if the producer had not participated in the pilot program.
-- **(e)** The Secretary shall set forth in each contract under the pilot program the terms and conditions for participation in the pilot program and the notice required by subsection (d) of this section.
+- **(e)** The Secretary shall set forth in each contract under the pilot program the terms and conditions for participation in the pilot program and the notice required by subsection (d).
 - **(f)** Trades for futures and options contracts under the pilot program shall be carried out on commodity futures and options markets designated as contract markets under the Commodity Exchange Act ( 7 U.S.C. 1 et seq.).
 - **(g)** A producer participating in the pilot program shall compile, maintain, and submit (or authorize the compilation, maintenance, and submission) of such documentation as the regulations governing the pilot program require.
 - **(h)** The Secretary shall fund and operate the pilot program through the Commodity Credit Corporation, except that the amount of Commodity Credit Corporation funds used to carry out this section shall not exceed, to the maximum extent practicable, $9,000,000 for fiscal year 2001, $15,000,000 for fiscal year 2002, and $2,000,000 for fiscal year 2003. To the maximum extent practicable, the Secretary shall operate the pilot program in a budget neutral manner.

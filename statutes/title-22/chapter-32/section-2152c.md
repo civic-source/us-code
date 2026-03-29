@@ -3,9 +3,9 @@ title: "Section 2152c - Programs to encourage good governance"
 usc_title: 22
 usc_section: "2152c"
 chapter: 32
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 2152c"
-generated_at: "2026-03-29T18:05:21.809Z"
+generated_at: "2026-03-29T18:24:54.181Z"
 ---
 
 # § 2152c. Programs to encourage good governance
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T18:05:21.809Z"
     - **(B)** Subparagraph (A) does not apply with respect to—
       - **(i)** section 2371 of this title or any comparable provision of law prohibiting assistance to countries that support international terrorism; or
       - **(ii)** section 907 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992.
-- **(b)** The programs established pursuant to subsection (a) of this section shall include, to the extent appropriate, projects and activities that—
+- **(b)** The programs established pursuant to subsection (a) shall include, to the extent appropriate, projects and activities that—
   - **(1)** support responsible independent media to promote oversight of public and private institutions;
   - **(2)** implement financial disclosure among public officials, political parties, and candidates for public office, open budgeting processes, and transparent financial management systems;
   - **(3)** support the establishment of audit offices, inspectors general offices, third party monitoring of government procurement processes, and anti-corruption agencies;
@@ -29,6 +29,6 @@ generated_at: "2026-03-29T18:05:21.809Z"
   - **(7)** promote free and fair national, state, and local elections;
   - **(8)** foster public participation in the legislative process and public access to government information; and
   - **(9)** engage civil society in the fight against corruption.
-- **(c)** Projects and activities under the programs established pursuant to subsection (a) of this section may include, among other things, training and technical assistance (including drafting of anti-corruption, privatization, and competitive statutory and administrative codes), drafting of anti-corruption, privatization, and competitive statutory and administrative codes, support for independent media and publications, financing of the program and operating costs of nongovernmental organizations that carry out such projects or activities, and assistance for travel of individuals to the United States and other countries for such projects and activities.
+- **(c)** Projects and activities under the programs established pursuant to subsection (a) may include, among other things, training and technical assistance (including drafting of anti-corruption, privatization, and competitive statutory and administrative codes), drafting of anti-corruption, privatization, and competitive statutory and administrative codes, support for independent media and publications, financing of the program and operating costs of nongovernmental organizations that carry out such projects or activities, and assistance for travel of individuals to the United States and other countries for such projects and activities.
 - **(d)**
 - **(e)** Amounts made available to carry out the other provisions of subchapter I of this chapter (including part IV of subchapter II of this chapter) and the Support for East European Democracy (SEED) Act of 1989 [ 22 U.S.C. 5401 et seq.] shall be made available to carry out this section.

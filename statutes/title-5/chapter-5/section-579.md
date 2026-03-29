@@ -3,9 +3,9 @@ title: "Section 579 - Arbitration proceedings"
 usc_title: 5
 usc_section: "579"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 579"
-generated_at: "2026-03-29T18:03:29.830Z"
+generated_at: "2026-03-29T18:23:29.856Z"
 ---
 
 # § 579. Arbitration proceedings

@@ -3,12 +3,12 @@ title: "Section 2209 - Compensation of bank directors"
 usc_title: 12
 usc_section: "2209"
 chapter: 23
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 2209"
-generated_at: "2026-03-29T18:04:43.634Z"
+generated_at: "2026-03-29T18:24:02.961Z"
 ---
 
 # § 2209. Compensation of bank directors
 
 - **(a)** The Farm Credit Administration shall monitor the compensation of members of the board of directors of a System bank received as compensation for serving as a director of the bank to ensure that the amount of the compensation does not exceed a level of $20,000 per year, as adjusted to reflect changes in the Consumer Price Index for all urban consumers published by the Bureau of Labor Statistics, unless the Farm Credit Administration determines that such level adversely affects the safety and soundness of the bank.
-- **(b)** The Farm Credit Administration may waive the limitation prescribed in subsection (a) of this section under exceptional circumstances, as determined in accordance with regulations promulgated by the Farm Credit Administration.
+- **(b)** The Farm Credit Administration may waive the limitation prescribed in subsection (a) under exceptional circumstances, as determined in accordance with regulations promulgated by the Farm Credit Administration.

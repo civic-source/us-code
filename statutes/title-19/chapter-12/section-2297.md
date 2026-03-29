@@ -3,9 +3,9 @@ title: "Section 2297 - Job search allowances"
 usc_title: 19
 usc_section: "2297"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 2297"
-generated_at: "2026-03-29T18:04:55.084Z"
+generated_at: "2026-03-29T18:24:16.154Z"
 ---
 
 # § 2297. Job search allowances
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T18:04:55.084Z"
         - **(II)** the 365th day after the date of the worker’s last total separation; or
       - **(ii)** the date that is the 182d day after the date on which the worker concluded training.
 - **(b)**
-  - **(1)** Any allowance granted under subsection (a) of this section shall provide reimbursement to the worker of not more than 90 percent of the necessary job search expenses of the worker as prescribed by the Secretary in regulations.
+  - **(1)** Any allowance granted under subsection (a) shall provide reimbursement to the worker of not more than 90 percent of the necessary job search expenses of the worker as prescribed by the Secretary in regulations.
   - **(2)** Reimbursement under this subsection may not exceed $1,250 for any worker.
   - **(3)** Reimbursement under this subsection may not be made for subsistence and transportation expenses at levels exceeding those allowable under section 2296(b) (1) and (2) of this title.
-- **(c)** Notwithstanding subsection (b) of this section, a State may reimburse any adversely affected worker for necessary expenses incurred by the worker in participating in a job search program approved by the Secretary.
+- **(c)** Notwithstanding subsection (b), a State may reimburse any adversely affected worker for necessary expenses incurred by the worker in participating in a job search program approved by the Secretary.

@@ -3,9 +3,9 @@ title: "Section 1776 - State administrative expenses"
 usc_title: 42
 usc_section: "1776"
 chapter: 13
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1776"
-generated_at: "2026-03-29T18:07:14.311Z"
+generated_at: "2026-03-29T18:27:03.368Z"
 ---
 
 # § 1776. State administrative expenses
@@ -45,7 +45,7 @@ generated_at: "2026-03-29T18:07:14.311Z"
       - **(i)** monitoring the nutrient content of meals served;
       - **(ii)** training local educational agencies, school food authorities, and schools in how to use technology and information management systems (including verifying eligibility for free or reduced price meals using program participation or income data gathered by State or local agencies); and
       - **(iii)** using electronic data to establish benchmarks to compare and monitor program integrity, program participation, and financial data.
-  - **(3)** Each State shall submit to the Secretary for approval a plan describing the manner in which the State intends to implement subsection (g) of this section and section 22(b)(3) of the Richard B. Russell National School Lunch Act [ 42 U.S.C. 1769c(b)(3) ].
+  - **(3)** Each State shall submit to the Secretary for approval a plan describing the manner in which the State intends to implement subsection (g) and section 22(b)(3) of the Richard B. Russell National School Lunch Act [ 42 U.S.C. 1769c(b)(3) ].
 - **(f)** Payments of funds under this section shall be made only to States that agree to maintain a level of funding out of State revenues, for administrative costs in connection with programs under this chapter (except section 1786 of this title ) and the Richard B. Russell National School Lunch Act [ 42 U.S.C. 1751 et seq.] (except section 13 of that Act [ 42 U.S.C. 1761 ]), not less than the amount expended or obligated in fiscal year 1977, and that agree to participate fully in any studies authorized by the Secretary.
 - **(g)**
   - **(1)**
@@ -90,12 +90,12 @@ generated_at: "2026-03-29T18:07:14.311Z"
     - **(A)** On October 1, 2004 , and on each October 1 thereafter, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary of Agriculture to carry out this subsection $4,000,000, to remain available until expended.
     - **(B)** The Secretary shall be entitled to receive, shall accept, and shall use to carry out this subsection the funds transferred under subparagraph (A), without further appropriation.
   - **(2)**
-    - **(A)** Except as provided in subparagraph (B), the Secretary shall use funds provided under this subsection to assist States in carrying out subsection (g) of this section and administrative reviews of selected local educational agencies carried out under section 22 of the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1769c ).
+    - **(A)** Except as provided in subparagraph (B), the Secretary shall use funds provided under this subsection to assist States in carrying out subsection (g) and administrative reviews of selected local educational agencies carried out under section 22 of the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1769c ).
     - **(B)** The Secretary may retain a portion of the amount provided to cover costs of activities carried out by the Secretary in lieu of the State.
   - **(3)** The Secretary shall allocate funds provided under this subsection to States based on the number of local educational agencies that have demonstrated a high level of, or a high risk for, administrative error, as determined by the Secretary, taking into account the requirements established by the Child Nutrition and WIC Reauthorization Act of 2004 and the amendments made by that Act.
   - **(4)** The Secretary may reallocate, to carry out this section, any amounts made available to carry out this subsection that are not obligated or expended, as determined by the Secretary.
 - **(i)**
-  - **(1)** Each State shall submit to the Secretary, for approval by the Secretary, an amendment to the plan required by subsection (e) of this section that describes the manner in which funds provided under this section will be used for technology and information management systems.
+  - **(1)** Each State shall submit to the Secretary, for approval by the Secretary, an amendment to the plan required by subsection (e) that describes the manner in which funds provided under this section will be used for technology and information management systems.
   - **(2)** The amendment shall, at a minimum, describe the manner in which the State will improve program integrity by—
     - **(A)** monitoring the nutrient content of meals served;
     - **(B)** providing training to local educational agencies, school food authorities, and schools on the use of technology and information management systems for activities including—

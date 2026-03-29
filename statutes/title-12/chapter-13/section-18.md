@@ -3,14 +3,14 @@ title: "Section 18 - Information regarding early defaults and foreclosures on in
 usc_title: 12
 usc_section: "18"
 chapter: 13
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 18"
-generated_at: "2026-03-29T18:04:43.519Z"
+generated_at: "2026-03-29T18:24:02.858Z"
 ---
 
 # § 1735f–18. Information regarding early defaults and foreclosures on insured mortgages
 
-- **(a)** The Secretary of Housing and Urban Development shall collect and maintain information regarding early defaults on mortgages as provided under this section. The Secretary shall make such information available for public inspection upon request. Information shall be collected quarterly with respect to each applicable collection period (as such term is defined in subsection (c) of this section) and shall be available for inspection not more than 30 days after the conclusion of the calendar quarter relating to each such period. Information shall first be made available under this section for the applicable collection period relating to the first calendar quarter ending more than 180 days after November 28, 1990 .
+- **(a)** The Secretary of Housing and Urban Development shall collect and maintain information regarding early defaults on mortgages as provided under this section. The Secretary shall make such information available for public inspection upon request. Information shall be collected quarterly with respect to each applicable collection period (as such term is defined in subsection (c)) and shall be available for inspection not more than 30 days after the conclusion of the calendar quarter relating to each such period. Information shall first be made available under this section for the applicable collection period relating to the first calendar quarter ending more than 180 days after November 28, 1990 .
 - **(b)**
   - **(1)** Information collected under this section shall include, for each lender originating mortgages during the applicable collection period that are insured pursuant to section 1709 of this title and secured by property in a designated census tract, the following information with respect to such mortgages:
     - **(A)** The name of the lender and the number of each designated census tract in which the lender originated 1 or more such mortgages during the applicable collection period.
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T18:04:43.519Z"
   - **(2)** Information collected under this section shall also include the following:
     - **(A)** For each lender referred to under paragraph (1), the total number of insured mortgages originated by the lender secured by properties not located in a designated census tract, the total number of defaults and foreclosures on such mortgages, and the percentage of such mortgages originated on which defaults or foreclosures occurred during the applicable collection period.
     - **(B)** For each designated census tract, the total number of mortgages originated during the applicable collection period that are insured pursuant to section 1709 of this title , the number of defaults and foreclosures occurring on such mortgages during such period, and the percentage of the total insured mortgage originations during the period on which defaults or foreclosures occurred.
-- **(c)** The Secretary shall submit to the Congress annually a report containing the information collected and maintained under subsection (b) of this section for the relevant year.
+- **(c)** The Secretary shall submit to the Congress annually a report containing the information collected and maintained under subsection (b) for the relevant year.
 - **(d)** For purposes of this section:
   - **(1)** The term “applicable collection period” means the 5-year period ending on the last day of the calendar quarter for which information under this section is collected.
   - **(2)** The term “designated census tract” means a census tract located within a metropolitan statistical area, as defined pursuant to regulations issued by the Secretary of Commerce.

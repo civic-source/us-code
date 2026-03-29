@@ -3,9 +3,9 @@ title: "Section 220508 - Headquarters, principal office, and meetings"
 usc_title: 36
 usc_section: "220508"
 chapter: 2205
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "36 U.S.C. § 220508"
-generated_at: "2026-03-29T18:06:24.337Z"
+generated_at: "2026-03-29T18:26:09.308Z"
 ---
 
 # § 220508. Headquarters, principal office, and meetings

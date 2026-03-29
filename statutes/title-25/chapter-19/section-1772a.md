@@ -1,24 +1,12 @@
 ---
-title: "Section 1772a - Definitions"
+title: "Section 1772a - Omitted"
 usc_title: 25
 usc_section: "1772a"
 chapter: 19
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1772a"
-generated_at: "2026-03-29T18:05:17.179Z"
+generated_at: "2026-03-29T18:25:23.751Z"
 ---
 
-# § 1772a. Definitions
+# § 1772a. Omitted
 
-For purposes of this subchapter—
-
-  - **(1)** The term “tribe” means the Seminole Tribe of Indians of Florida or Seminole Tribe of Florida, a tribe of American Indians recognized by the United States and organized under section 476 of this title and recognized by the State of Florida pursuant to chapter 285, Florida Statutes, and its successors.
-  - **(2)** The term “State” means the State of Florida and its agencies, political subdivisions, constitutional officers, officials of its agencies and subdivisions and their successors.
-  - **(3)** The term “district” means the South Florida Water Management District, the agency of the State of Florida created by chapter 25270, laws of Florida (1949) to operate pursuant to chapter 373 Florida Statutes, and its successors.
-  - **(4)** The term “Secretary” means the Secretary of the Interior.
-  - **(5)** The term “lands or natural resources” means any real property or natural resources, or any interest in or right involving any real property or natural resources, including minerals and mineral rights, timber and timber rights, water and water rights, and rights to hunt and fish.
-  - **(6)** The term “Settlement Agreement” means the instrument—
-    - **(A)** executed by the Seminole Tribe, the State of Florida, and the South Florida Water Management District; and
-    - **(B)** which will be presented for approval by all three parties to the United States District Court for the southern district of Florida for the purpose of terminating the lawsuit entitled Seminole Tribe of Indians of Florida, 1 1 So in original. The comma probably should not appear. v. State of Florida, et al., (Docket No. 78–6116–CIV), and for the extinguishment of rights to all potential or unsettled claims which the tribe may have to lands or natural resources in the State and the purchase of certain tribal interests in real property.
-  - **(7)** The term “settlement funds” means those funds which the State of Florida and the South Florida Water Management District have agreed to pay to the tribe under the Settlement Agreement.
-  - **(8)** The term “compact” means the Compact incorporated in the Settlement Agreement between the tribe, the State, and the district, which specifically defines the nature and extent of Seminole water rights and the manner of their use within the confines of the area of the district.

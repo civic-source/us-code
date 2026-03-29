@@ -1,14 +1,12 @@
 ---
-title: "Section 876 - Advances or expenditures from tribal funds; tax exemption"
+title: "Section 876 - Omitted"
 usc_title: 25
 usc_section: "876"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 876"
-generated_at: "2026-03-29T18:05:17.107Z"
+generated_at: "2026-03-29T18:25:23.703Z"
 ---
 
-# § 876. Advances or expenditures from tribal funds; tax exemption
-
-The unexpended balance of funds on deposit in the Treasury of the United States to the credit of the Otoe and Missouria Tribe of Indians that were appropriated by the Act of June 9, 1964 , to pay a judgment by the Indian Claims Commission in docket numbered 11–A, and the interest thereon, less payment of attorney fees and expenses, may be advanced or expended for any purpose that is authorized by the tribal governing body and approved by the Secretary of the Interior. Any part of such funds that may be distributed to the members of the tribe shall not be subject to Federal or State income taxes. The sum of $150,000, and any accrued interest thereon, shall be held in the United States Treasury pending final determination of the Yankton Sioux claim in docket numbered 332–A. Any portion of such sum that is determined to belong to the Otoe and Missouria Tribe shall thereupon become subject to the foregoing provisions of this section.
+# § 876. Omitted
 

@@ -3,9 +3,9 @@ title: "Section 1322a - Multiemployer plan benefits guaranteed"
 usc_title: 29
 usc_section: "1322a"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 1322a"
-generated_at: "2026-03-29T18:05:31.781Z"
+generated_at: "2026-03-29T18:25:43.108Z"
 ---
 
 # § 1322a. Multiemployer plan benefits guaranteed
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T18:05:31.781Z"
 - **(b)**
   - **(1)**
     - **(A)** For purposes of this section, a benefit or benefit increase which has been in effect under a plan for less than 60 months is not eligible for the corporation’s guarantee. For purposes of this paragraph, any month of any plan year during which the plan was insolvent or terminated (within the meaning of section 1341a(a)(2) of this title ) shall not be taken into account.
-    - **(B)** For purposes of this section, a benefit or benefit increase which has been in effect under a plan for less than 60 months before the first day of the plan year for which an amendment reducing the benefit or the benefit increase is taken into account under section 1425(a)(2) of this title in determining the minimum contribution requirement for the plan year under section 1423(b) of this title is not eligible for the corporation’s guarantee.
+    - **(B)** For purposes of this section, a benefit or benefit increase which has been in effect under a plan for less than 60 months before the first day of the plan year for which an amendment reducing the benefit or the benefit increase is taken into account under section 1425(a)(2) 1 1 See References in Text note below. of this title in determining the minimum contribution requirement for the plan year under section 1423(b) 1 of this title is not eligible for the corporation’s guarantee.
   - **(2)** For purposes of this section—
     - **(A)** the date on which a benefit or a benefit increase under a plan is first in effect is the later of—
       - **(i)** the date on which the documents establishing or increasing the benefit were executed, or
@@ -24,13 +24,13 @@ generated_at: "2026-03-29T18:05:31.781Z"
     - **(B)** the period of time for which a benefit or a benefit increase has been in effect under a successor plan includes the period of time for which the benefit or benefit increase was in effect under a previously established plan; and
     - **(C)** in the case of a plan to which section 1321 of this title did not apply on September 3, 1974 , the time periods referred to in this section are computed beginning on the date on which section 1321 of this title first applies to the plan.
 - **(c)**
-  - **(1)** Except as provided in subsection (g) of this section, the monthly benefit of a participant or a beneficiary which is guaranteed under this section by the corporation with respect to a plan is the product of—
+  - **(1)** Except as provided in subsection (g), the monthly benefit of a participant or a beneficiary which is guaranteed under this section by the corporation with respect to a plan is the product of—
     - **(A)** 100 percent of the accrual rate up to $11, plus 75 percent of the lesser of—
       - **(i)** $33, or
       - **(ii)** the accrual rate, if any, in excess of $11, and
     - **(B)** the number of the participant’s years of credited service.
   - **(2)** For purposes of this section, the accrual rate is—
-    - **(A)** the monthly benefit of the participant or beneficiary which is described in subsection (a) of this section and which is eligible for the corporation’s guarantee under subsection (b) of this section, except that such benefit shall be—
+    - **(A)** the monthly benefit of the participant or beneficiary which is described in subsection (a) and which is eligible for the corporation’s guarantee under subsection (b), except that such benefit shall be—
       - **(i)** no greater than the monthly benefit which would be payable under the plan at normal retirement age in the form of a single life annuity, and
       - **(ii)** determined without regard to any reduction under section 411(a)(3)(E) of title 26 ; divided by
     - **(B)** the participant’s years of credited service.
@@ -40,14 +40,15 @@ generated_at: "2026-03-29T18:05:31.781Z"
       - **(ii)** any period of service before participation which is credited for purposes of benefit accrual as the equivalent of a full year of participation;
     - **(B)** any year for which the participant is credited for purposes of benefit accrual with a fraction of the equivalent of a full year of participation shall be counted as such a fraction of a year of credited service; and
     - **(C)** years of credited service shall be determined by including service which may otherwise be disregarded by the plan under section 411(a)(3)(E) of title 26 .
+  - **(4)** For purposes of subsection (a), in the case of a qualified preretirement survivor annuity (as defined in section 1055(e)(1) of this title ) payable to the surviving spouse of a participant under a multiemployer plan which becomes insolvent under section 1426(b) of this title or 1441(d)(2) of this title or is terminated, such annuity shall not be treated as forfeitable solely because the participant has not died as of the date on which the plan became so insolvent or the termination date.
 - **(d)** In the case of a benefit which has been reduced under section 411(a)(3)(E) of title 26 , the corporation shall guarantee the lesser of—
   - **(1)** the reduced benefit, or
-  - **(2)** the amount determined under subsection (c) of this section.
+  - **(2)** the amount determined under subsection (c).
 - **(e)** The corporation shall not guarantee benefits under a multiemployer plan which, under section 1322(b)(6) of this title , would not be guaranteed under a single-employer plan.
 - **(f)**
   - **(1)** No later than 5 years after September 26, 1980 , and at least every fifth year thereafter, the corporation shall—
     - **(A)** conduct a study to determine—
-      - **(i)** the premiums needed to maintain the basic-benefit guarantee levels for multiemployer plans described in subsection (c) of this section, and
+      - **(i)** the premiums needed to maintain the basic-benefit guarantee levels for multiemployer plans described in subsection (c), and
       - **(ii)** whether the basic-benefit guarantee levels for multiemployer plans may be increased without increasing the basic-benefit premiums for multiemployer plans under this subchapter; and
     - **(B)** report such determinations to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate.
   - **(2)**
@@ -69,7 +70,7 @@ generated_at: "2026-03-29T18:05:31.781Z"
 - **(g)**
   - **(1)** The corporation may guarantee the payment of such other classes of benefits under multiemployer plans, and establish the terms and conditions under which those other classes of benefits are guaranteed, as it determines to be appropriate.
   - **(2)**
-    - **(A)** The corporation shall prescribe regulations to establish a supplemental program to guarantee benefits under multiemployer plans which would be guaranteed under this section but for the limitations in subsection (c) of this section. Such regulations shall be proposed by the corporation no later than the end of the 18th calendar month following September 26, 1980 . The regulations shall make coverage under the supplemental program available no later than January 1, 1983 . Any election to participate in the supplemental program shall be on a voluntary basis, and a plan electing such coverage shall continue to pay the premiums required under section 1306(a)(2)(B) of this title to the revolving fund used pursuant to section 1305 of this title in connection with benefits otherwise guaranteed under this section. Any such election shall be irrevocable, except to the extent otherwise provided by regulations prescribed by the corporation.
+    - **(A)** The corporation shall prescribe regulations to establish a supplemental program to guarantee benefits under multiemployer plans which would be guaranteed under this section but for the limitations in subsection (c). Such regulations shall be proposed by the corporation no later than the end of the 18th calendar month following September 26, 1980 . The regulations shall make coverage under the supplemental program available no later than January 1, 1983 . Any election to participate in the supplemental program shall be on a voluntary basis, and a plan electing such coverage shall continue to pay the premiums required under section 1306(a)(2)(B) of this title to the revolving fund used pursuant to section 1305 of this title in connection with benefits otherwise guaranteed under this section. Any such election shall be irrevocable, except to the extent otherwise provided by regulations prescribed by the corporation.
     - **(B)** The regulations prescribed under this paragraph shall provide—
       - **(i)** that a plan must elect coverage under the supplemental program within the time permitted by the regulations;
       - **(ii)** unless the corporation determines otherwise, that a plan may not elect supplemental coverage unless the value of the assets of the plan as of the end of the plan year preceding the plan year in which the election must be made is an amount equal to 15 times the total amount of the benefit payments made under the plan for that year; and
@@ -84,7 +85,7 @@ generated_at: "2026-03-29T18:05:31.781Z"
     - **(D)** The procedure for disposition of a joint resolution described in subparagraph (B) shall be the procedure described in paragraphs (4) through (7) of section 1306(b) of this title .
   - **(5)** Regulations prescribed by the corporation to carry out the provisions of this subsection, may, to the extent provided therein, supersede the requirements of sections 1426, 1431, and 1441 of this title, and the requirements of section 418E of title 26 , but only with respect to benefits guaranteed under this subsection.
 - **(h)**
-  - **(1)** Except as provided in paragraph (3), subsections (b) and (c) of this section shall not apply with respect to the nonforfeitable benefits accrued as of July 29, 1980 , with respect to a participant or beneficiary under a multiemployer plan—
+  - **(1)** Except as provided in paragraph (3), subsections (b) and (c) shall not apply with respect to the nonforfeitable benefits accrued as of July 29, 1980 , with respect to a participant or beneficiary under a multiemployer plan—
   - **(1)** who is in pay status on July 29, 1980 , or
   - **(2)** who is within 36 months of the normal retirement age and has a nonforfeitable right to a pension as of that date.
   - **(2)** The benefits described in paragraph (1) shall be guaranteed by the corporation in the same manner and to the same extent as benefits are guaranteed by the corporation under section 1322 of this title (without regard to this section).

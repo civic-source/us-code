@@ -3,9 +3,9 @@ title: "Section 2505 - Duration of eligibility determination"
 usc_title: 25
 usc_section: "2505"
 chapter: 27
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 2505"
-generated_at: "2026-03-29T18:05:17.223Z"
+generated_at: "2026-03-29T18:25:23.786Z"
 ---
 
 # § 2505. Duration of eligibility determination
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T18:05:17.223Z"
     - **(B)** an annual financial audit conducted pursuant to the standards of the Single Audit Act of 1984 [ 31 U.S.C. 7501 et seq.];
     - **(C)** a biennial compliance audit of the procurement of personal property during the period for which the report is being prepared that shall be in compliance with written procurement standards that are developed by the local school board;
     - **(D)** an annual submission to the Secretary of the number of students served and a brief description of programs offered under the grant; and
-    - **(E)** a program evaluation conducted by an impartial evaluation review team, to be based on the standards established for purposes of subsection (c)(1)(A)(ii) 1 1 So in original. Probably should be subsection “(c)(1)(B)(ii)”. of this section.
+    - **(E)** a program evaluation conducted by an impartial evaluation review team, to be based on the standards established for purposes of subsection (c)(1)(A)(ii). 1 1 So in original. Probably should be subsection “(c)(1)(B)(ii).”
   - **(2)** Where appropriate, other tribally controlled schools and representatives of tribally controlled community colleges shall make up members of the evaluation review teams.
   - **(3)** In the case of a school which is accredited, evaluations will be conducted at intervals under the terms of accreditation.
   - **(4)**
@@ -25,13 +25,13 @@ generated_at: "2026-03-29T18:05:17.223Z"
     - **(B)** Not later than 30 days after receiving written confirmation that the tribal governing body has received the report sent pursuant to subparagraph (A), the recipient of the grant shall send a copy of the report to the Secretary.
 - **(c)**
   - **(1)** The Secretary shall not revoke a determination that a school is eligible for assistance under this chapter if—
-    - **(A)** the Indian tribe or tribal organization submits the reports required under subsection (b) of this section with respect to the school; and
+    - **(A)** the Indian tribe or tribal organization submits the reports required under subsection (b) with respect to the school; and
     - **(B)** at least one of the following clauses applies with respect to the school:
       - **(i)** The school is certified or accredited by a State or regional accrediting association or is a candidate in good standing for such accreditation under the rules of the State or regional accrediting association, showing that credits achieved by the students within the education programs are, or will be, accepted at grade level by a State certified or regionally accredited institution.
       - **(ii)** The Secretary determines that there is a reasonable expectation that the certification or accreditation described in clause (i), or candidacy in good standing for such certification or accreditation, will be achieved by the school within 3 years. The school seeking accreditation shall remain under the standards of the Bureau in effect on January 8, 2002 , until such time as the school is accredited, except that if the Bureau standards are in conflict with the standards of the accrediting agency, the standards of such agency shall apply in such case.
       - **(iii)** The school is accredited by a tribal department of education if such accreditation is accepted by a generally recognized regional or State accreditation agency.
       - **(iv)**
-        - **(I)** With respect to a school that lacks accreditation, or that is not a candidate for accreditation, based on circumstances that are not beyond the control of the school board, every 3 years an impartial evaluator agreed upon by the Secretary and the grant recipient conducts evaluations of the school, and the school receives a positive assessment under such evaluations. The evaluations are conducted under standards adopted by a contractor under a contract for the school entered into under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 450 et seq.] (or revisions of such standards agreed to by the Secretary and the grant recipient) prior to January 8, 2002 .
+        - **(I)** With respect to a school that lacks accreditation, or that is not a candidate for accreditation, based on circumstances that are not beyond the control of the school board, every 3 years an impartial evaluator agreed upon by the Secretary and the grant recipient conducts evaluations of the school, and the school receives a positive assessment under such evaluations. The evaluations are conducted under standards adopted by a contractor under a contract for the school entered into under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.] (or revisions of such standards agreed to by the Secretary and the grant recipient) prior to January 8, 2002 .
         - **(II)** If the Secretary and a grant recipient other than a tribal governing body fail to agree on such an evaluator, the tribal governing body shall choose the evaluator or perform the evaluation. If the Secretary and a grant recipient that is a tribal governing body fail to agree on such an evaluator, subclause (I) shall not apply.
         - **(III)** A positive assessment by an impartial evaluator under this clause shall not affect the revocation of a determination of eligibility by the Secretary where such revocation is based on circumstances that were within the control of the school board.
   - **(2)** The Secretary shall not revoke a determination that a school is eligible for assistance under this chapter, or reassume control of a school that was a Bureau school prior to approval of an application submitted under section 2505(b)(1)(A) 2 2 So in original. Probably should be section “2504(b)(1)(A)”. of this title until the Secretary—

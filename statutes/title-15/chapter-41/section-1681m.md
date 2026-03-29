@@ -3,9 +3,9 @@ title: "Section 1681m - Requirements on users of consumer reports"
 usc_title: 15
 usc_section: "1681m"
 chapter: 41
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 1681m"
-generated_at: "2026-03-29T18:04:29.631Z"
+generated_at: "2026-03-29T18:24:08.491Z"
 ---
 
 # § 1681m. Requirements on users of consumer reports
@@ -74,7 +74,7 @@ generated_at: "2026-03-29T18:04:29.631Z"
     - **(A)** the repurchase of a debt in any case in which the assignee of the debt requires such repurchase because the debt has resulted from identity theft;
     - **(B)** the securitization of a debt or the pledging of a portfolio of debt as collateral in connection with a borrowing; or
     - **(C)** the transfer of debt as a result of a merger, acquisition, purchase and assumption transaction, or transfer of substantially all of the assets of an entity.
-- **(g)** If a person acting as a debt collector (as that term is defined in subchapter V of this chapter) on behalf of a third party that is a creditor or other user of a consumer report is notified that any information relating to a debt that the person is attempting to collect may be fraudulent or may be the result of identity theft, that person shall—
+- **(g)** If a person acting as a debt collector (as that term is defined in subchapter V) on behalf of a third party that is a creditor or other user of a consumer report is notified that any information relating to a debt that the person is attempting to collect may be fraudulent or may be the result of identity theft, that person shall—
   - **(1)** notify the third party that the information may be fraudulent or may be the result of identity theft; and
   - **(2)** upon request of the consumer to whom the debt purportedly relates, provide to the consumer all information to which the consumer would otherwise be entitled if the consumer were not a victim of identity theft, but wished to dispute the debt under provisions of law applicable to that person.
 - **(h)**
@@ -82,8 +82,8 @@ generated_at: "2026-03-29T18:04:29.631Z"
   - **(2)** The notice required under paragraph (1) may be provided at the time of an application for, or a grant, extension, or other provision of, credit or the time of communication of an approval of an application for, or grant, extension, or other provision of, credit, except as provided in the regulations prescribed under paragraph (6).
   - **(3)** No notice shall be required from a person under this subsection if—
     - **(A)** the consumer applied for specific material terms and was granted those terms, unless those terms were initially specified by the person after the transaction was initiated by the consumer and after the person obtained a consumer report; or
-    - **(B)** the person has provided or will provide a notice to the consumer under subsection (a) of this section in connection with the transaction.
-  - **(4)** A person that is required to provide a notice under subsection (a) of this section cannot meet that requirement by providing a notice under this subsection.
+    - **(B)** the person has provided or will provide a notice to the consumer under subsection (a) in connection with the transaction.
+  - **(4)** A person that is required to provide a notice under subsection (a) cannot meet that requirement by providing a notice under this subsection.
   - **(5)** A notice under this subsection shall, at a minimum—
     - **(A)** include a statement informing the consumer that the terms offered to the consumer are set based on information from a consumer report;
     - **(B)** identify the consumer reporting agency furnishing the report;

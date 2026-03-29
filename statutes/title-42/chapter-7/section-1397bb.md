@@ -3,9 +3,9 @@ title: "Section 1397bb - General contents of State child health plan; eligibilit
 usc_title: 42
 usc_section: "1397bb"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1397bb"
-generated_at: "2026-03-29T18:07:14.189Z"
+generated_at: "2026-03-29T18:27:03.271Z"
 ---
 
 # § 1397bb. General contents of State child health plan; eligibility; outreach
@@ -18,8 +18,9 @@ generated_at: "2026-03-29T18:07:14.189Z"
   - **(5)** eligibility standards consistent with subsection (b) of this section;
   - **(6)** outreach activities consistent with subsection (c) of this section; and
   - **(7)** methods (including monitoring) used—
-    - **(A)** to assure the quality and appropriateness of care, particularly with respect to well-baby care, well-child care, and immunizations provided under the plan, and
-    - **(B)** to assure access to covered services, including emergency services and services described in section 1397cc(c)(5) of this title .
+    - **(A)** to assure the quality and appropriateness of care, particularly with respect to well-baby care, well-child care, and immunizations provided under the plan;
+    - **(B)** to assure access to covered services, including emergency services and services described in section 1397cc(c)(5) of this title ; and
+    - **(C)** to ensure that the State agency involved is in compliance with subparagraphs (A), (B), and (C) of section 1320a–7n(b)(2) of this title .
 - **(b)**
   - **(1)**
     - **(A)** The plan shall include a description of the standards used to determine the eligibility of targeted low-income children for child health assistance under the plan. Such standards may include (to the extent consistent with this subchapter) those relating to the geographic areas to be served by the plan, age, income and resources (including any standards relating to spenddowns and disposition of resources), residency, disability status (so long as any standard relating to such status does not restrict eligibility), access to or coverage under other health coverage, and duration of eligibility. Such standards may not discriminate on the basis of diagnosis.

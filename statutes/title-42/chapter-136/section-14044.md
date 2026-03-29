@@ -3,9 +3,9 @@ title: "Section 14044 - Prevention of domestic trafficking in persons"
 usc_title: 42
 usc_section: "14044"
 chapter: 136
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 14044"
-generated_at: "2026-03-29T18:07:15.361Z"
+generated_at: "2026-03-29T18:27:04.151Z"
 ---
 
 # § 14044. Prevention of domestic trafficking in persons
@@ -38,5 +38,5 @@ generated_at: "2026-03-29T18:07:15.361Z"
     - **(C)** The Attorney General and the Secretary of Health and Human Services shall prepare and post on the respective Internet Web sites of the Department of Justice and the Department of Health and Human Services reports on the findings and best practices identified and disseminated at the conference described in this paragraph.
 - **(b)**
 - **(c)** There are authorized to be appropriated—
-  - **(1)** $1,500,000 for each of the fiscal years 2008 through 2011 to carry out the activities described in subsection (a)(1)(B)(i) of this section and $1,500,000 for each of the fiscal years 2008 through 2011 to carry out the activities described in subsection (a)(1)(B)(ii) of this section; and
-  - **(2)** $250,000 for each of the fiscal years 2014 through 2017 to carry out the activities described in subsection (a)(2) of this section.
+  - **(1)** $1,500,000 for each of the fiscal years 2008 through 2011 to carry out the activities described in subsection (a)(1)(B)(i) and $1,500,000 for each of the fiscal years 2008 through 2011 to carry out the activities described in subsection (a)(1)(B)(ii); and
+  - **(2)** $250,000 for each of the fiscal years 2014 through 2017 to carry out the activities described in subsection (a)(2).

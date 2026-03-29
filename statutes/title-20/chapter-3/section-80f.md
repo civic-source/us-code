@@ -3,9 +3,9 @@ title: "Section 80f - Woodrow Wilson International Center for Scholars; Board of
 usc_title: 20
 usc_section: "80f"
 chapter: 3
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 80f"
-generated_at: "2026-03-29T18:05:00.008Z"
+generated_at: "2026-03-29T18:24:40.869Z"
 ---
 
 # § 80f. Woodrow Wilson International Center for Scholars; Board of Trustees of the Center
@@ -21,6 +21,6 @@ generated_at: "2026-03-29T18:05:00.008Z"
   - **(7)** the Archivist of the United States;
   - **(8)** one member appointed by the President from time to time from within the Federal Government; and
   - **(9)** 9 members appointed by the President from private life.
-- **(c)** Each member of the Board of Trustees specified in paragraphs (1) through (8) of subsection (b) of this section may designate another official to serve on the Board of Trustees in his stead.
-- **(d)** Each member of the Board of Trustees appointed under paragraph (10) of subsection (b) of this section shall serve for a term of six years from the expiration of his predecessor’s term; except that (1) any trustee appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term, and (2) the terms of office of the trustees first taking office shall begin on October 24, 1968 , and shall expire as designated at the time of appointment, two at the end of two years, three at the end of four years, and three at the end of six years. No trustee of the Board chosen from private life shall be eligible to serve in excess of two consecutive terms, except that a trustee whose term has expired may serve until his successor has qualified.
+- **(c)** Each member of the Board of Trustees specified in paragraphs (1) through (8) of subsection (b) may designate another official to serve on the Board of Trustees in his stead.
+- **(d)** Each member of the Board of Trustees appointed under paragraph (10) of subsection (b) shall serve for a term of six years from the expiration of his predecessor’s term; except that (1) any trustee appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term, and (2) the terms of office of the trustees first taking office shall begin on October 24, 1968 , and shall expire as designated at the time of appointment, two at the end of two years, three at the end of four years, and three at the end of six years. No trustee of the Board chosen from private life shall be eligible to serve in excess of two consecutive terms, except that a trustee whose term has expired may serve until his successor has qualified.
 - **(e)** The President shall designate a Chairman and a Vice Chairman from among the members of the Board chosen from private life.

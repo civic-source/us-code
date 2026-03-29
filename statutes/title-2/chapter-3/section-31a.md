@@ -1,12 +1,12 @@
 ---
-title: "Section 31a - Repealed. Mar. 2, 1955, ch. 9, § 4(b) , 69 Stat. 11 , eff. Mar. 1, 1955"
+title: "Section 31a - Repealed. Mar. 2, 1955, ch. 9 , § 4(b), 69 Stat. 11 , eff. Mar. 1, 1955"
 usc_title: 2
 usc_section: "31a"
 chapter: 3
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "2 U.S.C. § 31a"
-generated_at: "2026-03-29T18:03:21.695Z"
+generated_at: "2026-03-29T18:23:14.021Z"
 ---
 
-# § 31a. Repealed. Mar. 2, 1955, ch. 9, § 4(b) , 69 Stat. 11 , eff. Mar. 1, 1955
+# § 31a. Repealed. Mar. 2, 1955, ch. 9 , § 4(b), 69 Stat. 11 , eff. Mar. 1, 1955
 

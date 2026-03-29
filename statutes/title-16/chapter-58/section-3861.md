@@ -3,15 +3,15 @@ title: "Section 3861 - Establishment of State technical committees"
 usc_title: 16
 usc_section: "3861"
 chapter: 58
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 3861"
-generated_at: "2026-03-29T18:05:07.057Z"
+generated_at: "2026-03-29T18:24:22.896Z"
 ---
 
 # § 3861. Establishment of State technical committees
 
 - **(a)** The Secretary shall establish a technical committee in each State to assist the Secretary in the considerations relating to implementation and technical aspects of the conservation programs under this chapter.
-- **(b)** Not later than 180 days after the date of enactment of the Food, Conservation, and Energy Act of 2008, the Secretary shall develop—
+- **(b)** The Secretary shall review and update as necessary—
   - **(1)** standard operating procedures to standardize the operations of State technical committees; and
   - **(2)** standards to be used by State technical committees in the development of technical guidelines under section 3862(b) 1 1 See References in Text note below. of this title for the implementation of the conservation provisions of this chapter.
 - **(c)** Each State technical committee shall be composed of agricultural producers and other professionals that represent a variety of disciplines in the soil, water, wetland, and wildlife sciences. The technical committee for a State shall include representatives from among the following:

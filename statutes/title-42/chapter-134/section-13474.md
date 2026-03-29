@@ -3,15 +3,15 @@ title: "Section 13474 - Fusion energy"
 usc_title: 42
 usc_section: "13474"
 chapter: 134
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 13474"
-generated_at: "2026-03-29T18:07:15.325Z"
+generated_at: "2026-03-29T18:27:04.122Z"
 ---
 
 # § 13474. Fusion energy
 
 - **(a)** The Secretary shall conduct a fusion energy 5-year program, in accordance with sections 13541 and 13542 of this title, that by the year 2010 will result in a technology demonstration which verifies the practicability of commercial electric power production.
-- **(b)** The goals of the program established under subsection (a) of this section shall include—
+- **(b)** The goals of the program established under subsection (a) shall include—
   - **(1)** a broad based fusion energy program;
   - **(2)** United States participation in the Engineering Design Activity of the International Thermonuclear Experimental Reactor (ITER) program and in the related research and technology development efforts;
   - **(3)** the development of technology for fusion power and industrial participation in the development of such technology;

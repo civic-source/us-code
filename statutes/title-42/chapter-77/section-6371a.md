@@ -3,9 +3,9 @@ title: "Section 6371a - Guidelines"
 usc_title: 42
 usc_section: "6371a"
 chapter: 77
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 6371a"
-generated_at: "2026-03-29T18:07:14.773Z"
+generated_at: "2026-03-29T18:27:03.709Z"
 ---
 
 # § 6371a. Guidelines

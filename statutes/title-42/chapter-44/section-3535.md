@@ -3,9 +3,9 @@ title: "Section 3535 - Administrative provisions"
 usc_title: 42
 usc_section: "3535"
 chapter: 44
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 3535"
-generated_at: "2026-03-29T18:07:14.519Z"
+generated_at: "2026-03-29T18:27:03.515Z"
 ---
 
 # § 3535. Administrative provisions
@@ -40,7 +40,7 @@ generated_at: "2026-03-29T18:07:14.519Z"
     - **(B)** Any rule or regulation which has not been published for comment before October 31, 1978 , and which does not appear on an agenda submitted under paragraph (1) shall be submitted to both such Committees at least 15 calendar days prior to its being published for comment.
   - **(3)** No rule or regulation may become effective until after the expiration of the 30-calendar day period beginning on the day after the day on which such rule or regulation is published as final. Any regulation implementing any provision of the Department of Housing and Urban Development Reform Act of 1989 that authorizes the imposition of a civil money penalty may not become effective until after the expiration of a public comment period of not less than 60 days.
   - **(4)** The provisions of paragraphs (2) and (3) may be waived upon the written request of the Secretary, if agreed to by the Chairmen and Ranking Minority Members of both Committees.
-  - **(5)** , (6) Repealed. Pub. L. 101–235, title I, § 123(4) , Dec. 15, 1989 , 103 Stat. 2021 .
+  - **(5)** , (6) Repealed. Pub. L. 101–235, title I , § 123(4), Dec. 15, 1989 , 103 Stat. 2021 .
   - **(7)** The Secretary shall include with each rule or regulation required to be transmitted to the Committees under this subsection a detailed summary of all changes required by the Office of Management and Budget that prohibit, modify, postpone, or disapprove such rule or regulation in whole or part.
 - **(p)** A plan for the reorganization of any regional, area, insuring, or other field office of the Department of Housing and Urban Development may take effect only upon the expiration of 90 days after publication in the Federal Register of a cost-benefit analysis of the effect of the plan on each office involved. Such cost-benefit analysis shall include, but not be limited to—
   - **(1)** an estimate of cost savings supported by background information detailing the source and substantiating the amount of the savings;

@@ -3,15 +3,15 @@ title: "Section 2626 - Reports respecting standards"
 usc_title: 16
 usc_section: "2626"
 chapter: 46
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 2626"
-generated_at: "2026-03-29T18:05:07.007Z"
+generated_at: "2026-03-29T18:24:22.858Z"
 ---
 
 # § 2626. Reports respecting standards
 
 - **(a)** Not later than one year after November 9, 1978 , and annually thereafter for ten years, each State regulatory authority (with respect to each State regulated electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall report to the Secretary, in such manner as the Secretary shall prescribe, respecting its consideration of the standards established by sections 2621(d) and 2623(b) of this title. Such report shall include a summary of the determinations made and actions taken with respect to each such standard on a utility-by-utility basis.
 - **(b)** Not later than eighteen months after November 9, 1978 , and annually thereafter for ten years, the Secretary shall submit a report to the President and the Congress containing—
-  - **(1)** a summary of the reports submitted under subsection (a) of this section,
+  - **(1)** a summary of the reports submitted under subsection (a),
   - **(2)** his analysis of such reports, and
   - **(3)** his actions under this chapter, and his recommendations for such further Federal actions, including any legislation, regarding retail electric utility rates (and other practices) as may be necessary to carry out the purposes of this chapter.

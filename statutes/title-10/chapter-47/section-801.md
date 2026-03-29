@@ -3,9 +3,9 @@ title: "Section 801 - Article 1. Definitions"
 usc_title: 10
 usc_section: "801"
 chapter: 47
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 801"
-generated_at: "2026-03-29T18:04:13.009Z"
+generated_at: "2026-03-29T18:23:51.759Z"
 ---
 
 # § 801. Article 1. Definitions
@@ -22,7 +22,7 @@ In this chapter:
   - **(8)** The term “military” refers to any or all of the armed forces.
   - **(9)** The term “accuser” means a person who signs and swears to charges, any person who directs that charges nominally be signed and sworn to by another, and any other person who has an interest other than an official interest in the prosecution of the accused.
   - **(10)** The term “military judge” means an official of a general or special court-martial detailed in accordance with section 826 of this title (article 26).
-  - **[(11)** Repealed. Pub. L. 109–241, title II, § 218(a)(1) , July 11, 2006 , 120 Stat. 526 .]
+  - **[(11)** Repealed. Pub. L. 109–241, title II , § 218(a)(1), July 11, 2006 , 120 Stat. 526 .]
   - **(12)** The term “legal officer” means any commissioned officer of the Navy, Marine Corps, or Coast Guard designated to perform legal duties for a command.
   - **(13)** The term “judge advocate” means—
     - **(A)** an officer of the Judge Advocate General’s Corps of the Army or the Navy;

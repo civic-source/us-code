@@ -3,14 +3,14 @@ title: "Section 6822 - Administrative enforcement"
 usc_title: 15
 usc_section: "6822"
 chapter: 94
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 6822"
-generated_at: "2026-03-29T18:04:29.953Z"
+generated_at: "2026-03-29T18:24:08.641Z"
 ---
 
 # § 6822. Administrative enforcement
 
-- **(a)** Except as provided in subsection (b) of this section, compliance with this subchapter shall be enforced by the Federal Trade Commission in the same manner and with the same power and authority as the Commission has under the Fair Debt Collection Practices Act [ 15 U.S.C. 1692 et seq.] to enforce compliance with such Act.
+- **(a)** Except as provided in subsection (b), compliance with this subchapter shall be enforced by the Federal Trade Commission in the same manner and with the same power and authority as the Commission has under the Fair Debt Collection Practices Act [ 15 U.S.C. 1692 et seq.] to enforce compliance with such Act.
 - **(b)**
   - **(1)** Compliance with this subchapter shall be enforced under—
     - **(A)** section 8 of the Federal Deposit Insurance Act [ 12 U.S.C. 1818 ], in the case of—

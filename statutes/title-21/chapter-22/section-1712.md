@@ -3,12 +3,12 @@ title: "Section 1712 - Termination of Office of National Drug Control Policy"
 usc_title: 21
 usc_section: "1712"
 chapter: 22
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 1712"
-generated_at: "2026-03-29T18:05:14.931Z"
+generated_at: "2026-03-29T18:25:04.246Z"
 ---
 
 # § 1712. Termination of Office of National Drug Control Policy
 
-- **(a)** Except as provided in subsection (b) of this section, effective on September 30, 2010 , this chapter and the amendments made to this chapter are repealed.
-- **(b)** Subsection (a) of this section does not apply to section 713 or the amendments made by that section.
+- **(a)** Except as provided in subsection (b), effective on September 30, 2010 , this chapter and the amendments made to this chapter are repealed.
+- **(b)** Subsection (a) does not apply to section 713 or the amendments made by that section.

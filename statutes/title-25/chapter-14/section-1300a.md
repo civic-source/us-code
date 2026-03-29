@@ -1,14 +1,12 @@
 ---
-title: "Section 1300a - Percentage of funds for Payson Indian Band"
+title: "Section 1300a - Omitted"
 usc_title: 25
 usc_section: "1300a"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1300a"
-generated_at: "2026-03-29T18:05:17.126Z"
+generated_at: "2026-03-29T18:25:23.710Z"
 ---
 
-# § 1300a. Percentage of funds for Payson Indian Band
-
-The Secretary of the Interior shall set aside for the benefit of the Payson Indian Band, at Payson, Arizona, 3.5 per centum of the net judgment funds described in section 1300 of this title , which shall be disposed of pursuant to section 1300a–2 of this title .
+# § 1300a. Omitted
 

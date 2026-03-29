@@ -3,9 +3,9 @@ title: "Section 6151 - Higher retired grade and pay for members who serve satisf
 usc_title: 10
 usc_section: "6151"
 chapter: 561
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 6151"
-generated_at: "2026-03-29T18:04:13.257Z"
+generated_at: "2026-03-29T18:23:52.051Z"
 ---
 
 # § 6151. Higher retired grade and pay for members who serve satisfactorily under temporary appointments

@@ -3,16 +3,16 @@ title: "Section 3109 - Indian forest land assistance account"
 usc_title: 25
 usc_section: "3109"
 chapter: 33
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 3109"
-generated_at: "2026-03-29T18:05:17.238Z"
+generated_at: "2026-03-29T18:25:23.799Z"
 ---
 
 # § 3109. Indian forest land assistance account
 
 - **(a)** At the request of an Indian tribe, the Secretary may establish a special Indian forest land assistance account within the tribe’s trust fund account to fund the Indian forest land management activities of such tribe.
 - **(b)**
-  - **(1)** The Secretary may deposit into the Indian forest land assistance account established pursuant to subsection (a) of this section any funds received by the Secretary or in the Secretary’s possession from—
+  - **(1)** The Secretary may deposit into the Indian forest land assistance account established pursuant to subsection (a) any funds received by the Secretary or in the Secretary’s possession from—
     - **(A)** non-Federal sources, if such funds are related to activities on or for the Indian forest lands of such tribe’s reservation,
     - **(B)** donations and contributions,
     - **(C)** unobligated forestry appropriations for the benefit of such Indian tribe, and

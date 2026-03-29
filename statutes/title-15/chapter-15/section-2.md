@@ -1,14 +1,14 @@
 ---
-title: "Section 2 - Purchase and distribution of surplus fishery products"
+title: "Section 2 - Food and conservation program; appropriations; administrative expenses"
 usc_title: 15
 usc_section: "2"
 chapter: 15
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-29T18:04:29.504Z"
+generated_at: "2026-03-29T18:24:08.406Z"
 ---
 
-# § 713c–2. Purchase and distribution of surplus fishery products
+# § 713d–2. Food and conservation program; appropriations; administrative expenses
 
-Any part of the funds not to exceed $1,500,000 per year, created under and to carry out the provisions of section 612c of title 7 , may also be used by the Secretary of Agriculture for the purpose of diverting surplus fishery products (including fish, shellfish, mollusks, and crustacea) from the normal channels of trade and commerce by acquiring them and providing for their distribution through Federal, State, and private relief channels: Provided , That none of the funds made available to the Secretary of Agriculture under this section and section 713c–3 of this title shall be used to purchase any of the commodities designated in this section and section 713c–3 of this title which may have been produced in any foreign country. The provisions of law relating to the acquisition of materials or supplies for the United States shall not apply to the acquisition of commodities under this section and section 713c–3 of this title .
-
+- **(a)** In order to alleviate shortages in foods and feeds, and to assist in stabilizing prices, the President shall carry out a program for the conservation of food and feed. In carrying out such program, the President is authorized, through the dissemination of information, educational and other campaigns, the furnishing of assistance, and such other voluntary and cooperative measures as he deems necessary or appropriate, to encourage and promote the efficient utilization, care, and preservation of food and feed, the elimination of practices which waste food and feed, the control and eradication of insects and rodents, the consumption of less of these foods and feeds which are in short supply and more of those foods and feeds which are in abundant supply, and other conservation practices. The authority herein conferred may be exercised by the President through such departments, agencies, independent establishments, and officials of the Federal Government and such State, local, and private agencies as he may determine.
+- **(b)** There is hereby authorized to be appropriated to the President such sums as may be necessary to carry out this section. To enable the President to carry out this section for the remainder of the fiscal year ending June 30, 1948 , there is made available not to exceed $1,000,000 from any funds made available by the Congress for carrying out Public Law 84, Eightieth Congress, or from any funds made available by the Congress for interim foreign aid. Funds made available for the purpose of this section may be used for necessary administrative expenses, including personal services in the District of Columbia and elsewhere, purchase or hire of motor vehicles, temporary or intermittent services of experts or consultants or organizations thereof, including stenographic reporting services, by contract, without regard to the civil service and classification laws (the compensation of any such individual not to exceed $50 per day). Funds made available for the purposes of this section may be allotted for any of the purposes of this section to any department, agency, or independent establishment of the Government, or transferred to any other agency requested to assist in carrying out this section. Funds allotted to any department, agency, or independent establishment of the Government shall be available for obligation and expenditure in accordance with the laws governing obligations and expenditures of the department, agency, or independent establishment, or organizational unit thereof concerned, and without regard to section 6101 of title 41 and section 3324(a) and (b) of title 31.

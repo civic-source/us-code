@@ -3,9 +3,9 @@ title: "Section 1016 - Adjustments to basis"
 usc_title: 26
 usc_section: "1016"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 1016"
-generated_at: "2026-03-29T18:05:44.765Z"
+generated_at: "2026-03-29T18:25:53.707Z"
 ---
 
 # § 1016. Adjustments to basis
@@ -28,10 +28,10 @@ generated_at: "2026-03-29T18:05:44.765Z"
   - **(7)** in the case of a residence the acquisition of which resulted, under section 1034 (as in effect on the day before the date of the enactment of the Taxpayer Relief Act of 1997), in the nonrecognition of any part of the gain realized on the sale, exchange, or involuntary conversion of another residence, to the extent provided in section 1034(e) (as so in effect);
   - **(8)** in the case of property pledged to the Commodity Credit Corporation, to the extent of the amount received as a loan from the Commodity Credit Corporation and treated by the taxpayer as income for the year in which received pursuant to section 77, and to the extent of any deficiency on such loan with respect to which the taxpayer has been relieved from liability;
   - **(9)** for amounts allowed as deductions as deferred expenses under section 616(b) (relating to certain expenditures in the development of mines) and resulting in a reduction of the taxpayer’s taxes under this subtitle, but not less than the amounts allowable under such section for the taxable year and prior years;
-  - **[(10)** Repealed. Pub. L. 94–455, title XIX, § 1901(b)(21)(G) , Oct. 4, 1976 , 90 Stat. 1798 ]
+  - **[(10)** Repealed. Pub. L. 94–455, title XIX , § 1901(b)(21)(G), Oct. 4, 1976 , 90 Stat. 1798 ]
   - **(11)** for deductions to the extent disallowed under section 268 (relating to sale of land with unharvested crops), notwithstanding the provisions of any other paragraph of this subsection;
-  - **(12)** to the extent provided in section 28(h) of the Internal Revenue Code of 1939 in the case of amounts specified in a shareholder’s consent made under section 28 of such code;
-  - **[(13)** Repealed. Pub. L. 108–357, title IV, § 413(c)(19) , Oct. 22, 2004 , 118 Stat. 1509 ]
+  - **[(12)** Repealed. Pub. L. 113–295, div. A, title II , § 221(a)(75), Dec. 19, 2014 , 128 Stat. 4049 ]
+  - **[(13)** Repealed. Pub. L. 108–357, title IV , § 413(c)(19), Oct. 22, 2004 , 118 Stat. 1509 ]
   - **(14)** for amounts allowed as deductions as deferred expenses under section 174(b)(1) (relating to research and experimental expenditures) and resulting in a reduction of the taxpayers’ taxes under this subtitle, but not less than the amounts allowable under such section for the taxable year and prior years;
   - **(15)** for deductions to the extent disallowed under section 272 (relating to disposal of coal or domestic iron ore), notwithstanding the provisions of any other paragraph of this subsection;
   - **(16)** in the case of any evidence of indebtedness referred to in section 811(b) (relating to amortization of premium and accrual of discount in the case of life insurance companies), to the extent of the adjustments required under section 811(b) (or the corresponding provisions of prior income tax laws) for the taxable year and all prior taxable years;
@@ -42,8 +42,8 @@ generated_at: "2026-03-29T18:05:44.765Z"
   - **(21)** to the extent provided in section 1059 (relating to reduction in basis for extraordinary dividends);
   - **(22)** in the case of qualified replacement property the acquisition of which resulted under section 1042 in the nonrecognition of any part of the gain realized on the sale or exchange of any property, to the extent provided in section 1042(d), 2 2 So in original. The comma probably should be a semicolon.
   - **(23)** in the case of property the acquisition of which resulted under section 1043, 1044, 1045, or 1397B in the nonrecognition of any part of the gain realized on the sale of other property, to the extent provided in section 1043(c), 1044(d), 1045(b)(3), or 1397B(b)(4), as the case may be, 2
-  - **(24)** to the extent provided in section 179A(e)(6)(A), 2
-  - **(25)** to the extent provided in section 30(e)(1), 2
+  - **[(24)** Repealed. Pub. L. 113–295, div. A, title II , § 221(a)(34)(G), Dec. 19, 2014 , 128 Stat. 4042 ]
+  - **[(25)** Repealed. Pub. L. 113–295, div. A, title II , § 221(a)(2)(D), Dec. 19, 2014 , 128 Stat. 4037 ]
   - **(26)** to the extent provided in sections 23(g) and 137(e), 2
   - **(27)** in the case of a residence with respect to which a credit was allowed under section 1400C, to the extent provided in section 1400C(h), 2
   - **(28)** in the case of a facility with respect to which a credit was allowed under section 45F, to the extent provided in section 45F(f)(1), 2

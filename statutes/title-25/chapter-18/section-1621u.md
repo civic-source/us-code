@@ -3,9 +3,9 @@ title: "Section 1621u - Liability for payment"
 usc_title: 25
 usc_section: "1621u"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1621u"
-generated_at: "2026-03-29T18:05:17.153Z"
+generated_at: "2026-03-29T18:25:23.730Z"
 ---
 
 # § 1621u. Liability for payment

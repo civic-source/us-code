@@ -1,12 +1,12 @@
 ---
-title: "Section 2291k - Repealed. Pub. L. 104–66, title I, § 1112(b) , Dec. 21, 1995 , 109 Stat. 724"
+title: "Section 2291k - Repealed. Pub. L. 104–66, title I , § 1112(b), Dec. 21, 1995 , 109 Stat. 724"
 usc_title: 22
 usc_section: "2291k"
 chapter: 32
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 2291k"
-generated_at: "2026-03-29T18:05:21.827Z"
+generated_at: "2026-03-29T18:24:54.199Z"
 ---
 
-# § 2291k. Repealed. Pub. L. 104–66, title I, § 1112(b) , Dec. 21, 1995 , 109 Stat. 724
+# § 2291k. Repealed. Pub. L. 104–66, title I , § 1112(b), Dec. 21, 1995 , 109 Stat. 724
 

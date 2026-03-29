@@ -3,9 +3,9 @@ title: "Section 3025 - Designation of State agencies"
 usc_title: 42
 usc_section: "3025"
 chapter: 35
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 3025"
-generated_at: "2026-03-29T18:07:14.476Z"
+generated_at: "2026-03-29T18:27:03.483Z"
 ---
 
 # § 3025. Designation of State agencies
@@ -53,7 +53,7 @@ generated_at: "2026-03-29T18:07:14.476Z"
       - **(i)** A State agency shall establish and follow appropriate procedures to provide due process to affected parties, if the State agency initiates an action or proceeding to—
         - **(I)** revoke the designation of the area agency on aging under subsection (a) of this section;
         - **(II)** designate an additional planning and service area in a State;
-        - **(III)** divide the State into different planning and services 1 1 So in original. Probably should be “service”. areas; or
+        - **(III)** divide the State into different planning and service areas; or
         - **(IV)** otherwise affect the boundaries of the planning and service areas in the State.
       - **(ii)** The procedures described in clause (i) shall include procedures for—
         - **(I)** providing notice of an action or proceeding described in clause (i);

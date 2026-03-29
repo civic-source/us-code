@@ -1,20 +1,14 @@
 ---
-title: "Section 959 - Enforcement of chapter"
+title: "Section 959 - Enforcement"
 usc_title: 16
 usc_section: "959"
 chapter: 16
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 959"
-generated_at: "2026-03-29T18:05:06.882Z"
+generated_at: "2026-03-29T18:24:22.751Z"
 ---
 
-# § 959. Enforcement of chapter
+# § 959. Enforcement
 
-- **(a)** The judges of the United States district courts and United States magistrate judges may, within their respective jurisdictions, upon proper oath or affirmation showing probable cause, issue such warrants or other process as may be required for enforcement of this chapter and the regulations issued pursuant thereto.
-- **(b)** Enforcement of the provisions of this chapter and the regulations issued pursuant thereto shall be the joint responsibility of the United States Coast Guard, the United States Department of Commerce, and the United States Customs Service. In addition, the Secretary of Commerce may designate officers and employees of the States of the United States, of the Commonwealth of Puerto Rico, and of American Samoa to carry out enforcement activities hereunder. When so designated, such officers and employees are authorized to function as Federal law enforcement agents for these purposes.
-- **(c)** Any person authorized to carry out enforcement activities hereunder shall have the power to execute any warrant or process issued by any officer or court of competent jurisdiction for the enforcement of this chapter.
-- **(d)** Such person so authorized shall have the power—
-  - **(1)** with or without a warrant or other process, to arrest any persons subject to the jurisdiction of the United States at any place within the jurisdiction of the United States committing in his presence or view a violation of this chapter or the regulations issued thereunder;
-  - **(2)** with or without a warrant or other process, to search any vessel subject to the jurisdiction of the United States, and, if as a result of such search he has reasonable cause to believe that such vessel or any person on board is engaging in operations in violation of the provisions of this chapter or the regulations issued thereunder, then to arrest such person.
-- **(e)** Such person so authorized may seize, whenever and wherever lawfully found, all fish taken or retained in violation of the provisions of this chapter or the regulations issued pursuant thereto. Any fish so seized may be disposed of pursuant to the order of a court of competent jurisdiction, pursuant to the provisions of subsection (f) of this section or, if perishable, in a manner prescribed by regulations of the Secretary of Commerce.
-- **(f)** Notwithstanding the provisions of section 2464 of title 28 , when a warrant of arrest or other process in rem is issued in any cause under this section, the marshal or other officer shall stay the execution of such process, or discharge any fish seized if the process has been levied, on receiving from the claimant of the fish a bond or stipulation for the value of the property with sufficient surety to be approved by a judge of the district court having jurisdiction of the offense, conditioned to deliver the fish seized, if condemned, without impairment in value or, in the discretion of the court, to pay its equivalent value in money or otherwise to answer the decree of the court in such cause. Such bond or stipulation shall be returned to the court and judgment thereon against both the principal and sureties may be recovered in event of any breach of the conditions thereof as determined by the court. In the discretion of the accused, and subject to the direction of the court, the fish may be sold for not less than its reasonable market value and the proceeds of such sale placed in the registry of the court pending judgment in the case.
+For enforcement of this chapter, see section 1826g of this title .
+

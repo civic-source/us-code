@@ -3,9 +3,9 @@ title: "Section 1513 - Impact on local governments"
 usc_title: 2
 usc_section: "1513"
 chapter: 25
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "2 U.S.C. § 1513"
-generated_at: "2026-03-29T18:03:21.795Z"
+generated_at: "2026-03-29T18:23:14.117Z"
 ---
 
 # § 1513. Impact on local governments

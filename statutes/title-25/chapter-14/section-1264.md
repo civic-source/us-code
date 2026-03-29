@@ -1,14 +1,12 @@
 ---
-title: "Section 1264 - Tax exemption; Social Security eligibility"
+title: "Section 1264 - Omitted"
 usc_title: 25
 usc_section: "1264"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1264"
-generated_at: "2026-03-29T18:05:17.125Z"
+generated_at: "2026-03-29T18:25:23.710Z"
 ---
 
-# § 1264. Tax exemption; Social Security eligibility
-
-None of the funds distributed per capita under the provisions of this subchapter shall be subject to Federal or State income taxes, and the per capita payments shall not be considered as income or resources when determining the extent of eligibility for assistance under the Social Security Act [ 42 U.S.C. 301 et seq.]. The provision of this section regarding eligibility for assistance under the Social Security Act is enacted in recognition of unique circumstances applicable to the tribes involved, and shall not be regarded as a precedent or as a general policy for application to other tribes.
+# § 1264. Omitted
 

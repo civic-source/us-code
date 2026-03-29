@@ -3,9 +3,9 @@ title: "Section 47115 - Discretionary fund"
 usc_title: 49
 usc_section: "47115"
 chapter: 471
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 47115"
-generated_at: "2026-03-29T18:07:51.541Z"
+generated_at: "2026-03-29T18:27:16.629Z"
 ---
 
 # § 47115. Discretionary fund
@@ -40,4 +40,4 @@ generated_at: "2026-03-29T18:07:51.541Z"
   - **(3)** For a fiscal year, the total amount available to make a reduction to carry out paragraph (2) is the total of the amounts determined under sections 47114(c)(1)(A), 47114(c)(2), 47114(d), and 47117(e) of this title. Each amount shall be reduced by an equal percentage to achieve the reduction.
 - **(h)** In making grants in a fiscal year with funds made available under this section, the Secretary shall fulfill intentions to obligate under section 47110(e).
 - **(i)** In order to assure that funding under this subchapter is provided to the greatest needs, the Secretary, in selecting a project described in section 47102(3)(J) 1 1 See References in Text note below. for a grant, shall consider the non-federal 2 2 So in original. Probably should be “non-Federal”. resources available to sponsor, the use of such non-federal 2 resources, and the degree to which the sponsor is providing increased funding for the project.
-- **(j)** For fiscal years 2012 through 2015, the sponsors of airports located in the Republic of the Marshall Islands, Federated States of Micronesia, and Republic of Palau shall be eligible for grants under this section and section 47116.
+- **(j)** For fiscal years 2012 through 2017, the sponsors of airports located in the Republic of the Marshall Islands, Federated States of Micronesia, and Republic of Palau shall be eligible for grants under this section and section 47116.

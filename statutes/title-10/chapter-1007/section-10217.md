@@ -3,9 +3,9 @@ title: "Section 10217 - Non-dual status technicians"
 usc_title: 10
 usc_section: "10217"
 chapter: 1007
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 10217"
-generated_at: "2026-03-29T18:04:13.309Z"
+generated_at: "2026-03-29T18:23:52.105Z"
 ---
 
 # § 10217. Non-dual status technicians
@@ -30,3 +30,9 @@ generated_at: "2026-03-29T18:04:13.309Z"
     - **(A)** The period of mobilization of the military technician (dual status) whose vacancy is being filled by the temporary employee.
     - **(B)** Two years.
   - **(3)** No person may be hired under the authority of this subsection after January 6, 2013 .
+- **(e)**
+  - **(1)** No individual may be newly hired or employed, or rehired or reemployed, as a non-dual status technician for the purposes of this section after December 31, 2016 .
+  - **(2)** Commencing January 1, 2017 , the maximum number of non-dual status technicians employable by the Army Reserve and by the Air Force Reserve shall be reduced from the number otherwise provided by subsection (c)(1) by one for each individual who retires, is separated from, or otherwise ceases service as a non-dual status technician of the Army Reserve or the Air Force Reserve, as the case may be, after such date until the maximum number of non-dual status technicians employable by the Army Reserve or the Air Force Reserve, as the case may be, is zero.
+  - **(3)** Commencing January 1, 2017 , the maximum number of non-dual status technicians employable by the National Guard shall be reduced from the number otherwise provided by subsection (c)(2) by one for each individual who retires, is separated from, or otherwise ceases service as a non-dual status technician of the National Guard after such date until the maximum number of non-dual status technicians employable by the National Guard is zero.
+  - **(4)** Any individual newly hired or employed, or rehired or employed, to a position required to be filled by reason of the amendment made by paragraph (1) shall be an individual employed in such position under section 3101 of title 5 , and may not be a military technician.
+  - **(5)** Nothing in this subsection shall be construed to terminate the status as a non-dual status technician under this section after December 31, 2016 , of any individual who is a non-dual status technician for the purposes of this section on that date.

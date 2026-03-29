@@ -1,12 +1,12 @@
 ---
-title: "Section 687a - Repealed. Pub. L. 111–281, title II, § 221(a)(7) , Oct. 15, 2010 , 124 Stat. 2920 ]"
+title: "Section 687a - Repealed. Pub. L. 111–281, title II , § 221(a)(7), Oct. 15, 2010 , 124 Stat. 2920 ]"
 usc_title: 14
 usc_section: "687a"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "14 U.S.C. § 687a"
-generated_at: "2026-03-29T18:04:21.496Z"
+generated_at: "2026-03-29T18:23:55.782Z"
 ---
 
-# [§ 687a. Repealed. Pub. L. 111–281, title II, § 221(a)(7) , Oct. 15, 2010 , 124 Stat. 2920 ]
+# [§ 687a. Repealed. Pub. L. 111–281, title II , § 221(a)(7), Oct. 15, 2010 , 124 Stat. 2920 ]
 

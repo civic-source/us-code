@@ -3,16 +3,19 @@ title: "Section 9501 - Definitions"
 usc_title: 20
 usc_section: "9501"
 chapter: 76
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 9501"
-generated_at: "2026-03-29T18:05:00.413Z"
+generated_at: "2026-03-29T18:24:41.181Z"
 ---
 
 # § 9501. Definitions
 
 In this subchapter:
 
-  - **(1)** The terms “elementary school”, “secondary school”, “local educational agency”, and “State educational agency” have the meanings given those terms in section 7801 of this title and the terms “freely associated states” and “outlying area” have the meanings given those terms in section 6331(c) of this title .
+  - **(1)**
+    - **(A)** The terms “elementary school”, “secondary school”, “local educational agency”, and “State educational agency” have the meanings given those terms in section 7801 of this title .
+    - **(B)** The term “outlying areas” has the meaning given such term in section 6331(c) of this title .
+    - **(C)** The term “freely associated states” means the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
   - **(2)** The term “applied research” means research—
     - **(A)** to gain knowledge or understanding necessary for determining the means by which a recognized and specific need may be met; and
     - **(B)** that is specifically directed to the advancement of practice in the field of education.

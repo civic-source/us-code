@@ -3,9 +3,9 @@ title: "Section 8477 - Fiduciary responsibilities; liability and penalties"
 usc_title: 5
 usc_section: "8477"
 chapter: 84
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 8477"
-generated_at: "2026-03-29T18:03:29.966Z"
+generated_at: "2026-03-29T18:23:29.969Z"
 ---
 
 # § 8477. Fiduciary responsibilities; liability and penalties
@@ -77,8 +77,8 @@ generated_at: "2026-03-29T18:03:29.966Z"
       - **(i)** A fiduciary shall not be liable under subparagraph (A) with respect to a breach of fiduciary duty under subsection (b) committed before becoming a fiduciary or after ceasing to be a fiduciary.
       - **(ii)** A fiduciary shall not be liable under subparagraph (A), and no civil action may be brought against a fiduciary—
         - **(I)** for providing for the automatic enrollment of a participant in accordance with section 8432(b)(2)(A);
-        - **(II)** for enrolling a participant in a default investment fund in accordance with section 8438(c)(2); or
-        - **(III)** for allowing a participant to invest through the mutual fund window or for establishing restrictions applicable to participants’ ability to invest through the mutual fund window.
+        - **(II)** for enrolling a participant or beneficiary in a default investment fund or option in accordance with section 8438(c)(2); or
+        - **(III)** for allowing a participant or beneficiary to invest through the mutual fund window or for establishing restrictions applicable to participants’ or beneficiaries’ ability to invest through the mutual fund window.
     - **(D)** A fiduciary shall be jointly and severally liable under subparagraph (A) for a breach of fiduciary duty under subsection (b) by another fiduciary only if—
       - **(i)** the fiduciary participates knowingly in, or knowingly undertakes to conceal, an act or omission of such other fiduciary, knowing such act or omission is such a breach;
       - **(ii)** by the fiduciary’s failure to comply with subsection (b) in the administration of the fiduciary’s specific responsibilities which give rise to the fiduciary status, the fiduciary has enabled such other fiduciary to commit such a breach; or

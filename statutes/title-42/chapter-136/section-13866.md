@@ -3,9 +3,9 @@ title: "Section 13866 - Reports"
 usc_title: 42
 usc_section: "13866"
 chapter: 136
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 13866"
-generated_at: "2026-03-29T18:07:15.347Z"
+generated_at: "2026-03-29T18:27:04.137Z"
 ---
 
 # § 13866. Reports

@@ -3,9 +3,9 @@ title: "Section 10157 - Transportation"
 usc_title: 42
 usc_section: "10157"
 chapter: 108
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 10157"
-generated_at: "2026-03-29T18:07:15.130Z"
+generated_at: "2026-03-29T18:27:03.974Z"
 ---
 
 # § 10157. Transportation

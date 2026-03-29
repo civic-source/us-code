@@ -3,9 +3,9 @@ title: "Section 577a - Conserving shore line beauty for recreational use of publ
 usc_title: 16
 usc_section: "577a"
 chapter: 3
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 577a"
-generated_at: "2026-03-29T18:05:06.770Z"
+generated_at: "2026-03-29T18:24:22.661Z"
 ---
 
 # § 577a. Conserving shore line beauty for recreational use of public lands in northern Minnesota; regulation of logging

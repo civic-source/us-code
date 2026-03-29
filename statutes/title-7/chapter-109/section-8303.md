@@ -3,9 +3,9 @@ title: "Section 8303 - Restriction on importation or entry"
 usc_title: 7
 usc_section: "8303"
 chapter: 109
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 8303"
-generated_at: "2026-03-29T18:04:05.163Z"
+generated_at: "2026-03-29T18:23:43.558Z"
 ---
 
 # § 8303. Restriction on importation or entry
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T18:04:05.163Z"
   - **(2)** the further movement of any animal that has strayed into the United States if the Secretary determines that the prohibition or restriction is necessary to prevent the introduction into or dissemination within the United States of any pest or disease of livestock; and
   - **(3)** the use of any means of conveyance in connection with the importation or entry of livestock if the Secretary determines that the prohibition or restriction is necessary because the means of conveyance has not been maintained in a clean and sanitary condition or does not have accommodations for the safe and proper movement of livestock.
 - **(b)**
-  - **(1)** The Secretary may issue such orders and promulgate such regulations as are necessary to carry out subsection (a) of this section.
+  - **(1)** The Secretary may issue such orders and promulgate such regulations as are necessary to carry out subsection (a).
   - **(2)** The Secretary may promulgate regulations requiring that any animal imported or entered be raised or handled under post-importation quarantine conditions by or under the supervision of the Secretary for the purpose of determining whether the animal is or may be affected by any pest or disease of livestock.
 - **(c)**
   - **(1)** The Secretary may order the destruction or removal from the United States of—

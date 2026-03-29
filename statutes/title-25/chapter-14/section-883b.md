@@ -1,14 +1,12 @@
 ---
-title: "Section 883b - Per capita shares; filing claims; reversion of unclaimed shares"
+title: "Section 883b - Omitted"
 usc_title: 25
 usc_section: "883b"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 883b"
-generated_at: "2026-03-29T18:05:17.108Z"
+generated_at: "2026-03-29T18:25:23.703Z"
 ---
 
-# § 883b. Per capita shares; filing claims; reversion of unclaimed shares
-
-All claims for per capita shares by heirs of Osage Indian blood shall be filed with the Superintendent, Osage Agency, Pawhuska, Oklahoma, not later than eighteen months from October 27, 1972 . Thereafter, all claims and the right to file same shall be forever barred and the unclaimed shares shall revert to the Osage Tribe. Unclaimed shares of distributees shall revert to the Osage Tribe six months after determination by the Secretary of the Interior of their right to share.
+# § 883b. Omitted
 

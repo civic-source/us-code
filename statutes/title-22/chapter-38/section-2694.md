@@ -3,9 +3,9 @@ title: "Section 2694 - Limitation on purchase of gifts for foreign individuals; 
 usc_title: 22
 usc_section: "2694"
 chapter: 38
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 2694"
-generated_at: "2026-03-29T18:05:21.878Z"
+generated_at: "2026-03-29T18:24:54.248Z"
 ---
 
 # § 2694. Limitation on purchase of gifts for foreign individuals; report to Speaker of the House and chairman of the Committee on Foreign Relations of the Senate

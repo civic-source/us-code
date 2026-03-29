@@ -3,9 +3,9 @@ title: "Section 822a - Prescription drug take back expansion"
 usc_title: 21
 usc_section: "822a"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 822a"
-generated_at: "2026-03-29T02:12:28.143Z"
+generated_at: "2026-03-29T18:25:04.214Z"
 ---
 
 # § 822a. Prescription drug take back expansion

@@ -1,14 +1,12 @@
 ---
-title: "Section 1780p - Authorization of appropriations"
+title: "Section 1780p - Omitted"
 usc_title: 25
 usc_section: "1780p"
 chapter: 19
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1780p"
-generated_at: "2026-03-29T18:05:17.192Z"
+generated_at: "2026-03-29T18:25:23.752Z"
 ---
 
-# § 1780p. Authorization of appropriations
-
-There are authorized to be appropriated such funds as are necessary to carry out this subchapter.
+# § 1780p. Omitted
 

@@ -3,9 +3,9 @@ title: "Section 3117 - Exclusion of certain property by stipulation of Attorney 
 usc_title: 40
 usc_section: "3117"
 chapter: 31
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "40 U.S.C. § 3117"
-generated_at: "2026-03-29T18:06:19.957Z"
+generated_at: "2026-03-29T18:26:04.563Z"
 ---
 
 # § 3117. Exclusion of certain property by stipulation of Attorney General

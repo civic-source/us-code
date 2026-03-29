@@ -3,33 +3,38 @@ title: "Section 602 - Determination of eligibility and project selection"
 usc_title: 23
 usc_section: "602"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "23 U.S.C. § 602"
-generated_at: "2026-03-29T18:05:12.249Z"
+generated_at: "2026-03-29T18:25:00.211Z"
 ---
 
 # § 602. Determination of eligibility and project selection
 
 - **(a)**
-  - **(1)** A project shall be eligible to receive credit assistance under this chapter if—
+  - **(1)** A project shall be eligible to receive credit assistance under the TIFIA program if—
     - **(A)** the entity proposing to carry out the project submits a letter of interest prior to submission of a formal application for the project; and
     - **(B)** the project meets the criteria described in this subsection.
   - **(2)**
-    - **(A)** To be eligible for assistance under this chapter, a project shall satisfy applicable creditworthiness standards, which, at a minimum, shall include—
+    - **(A)** To be eligible for assistance under the TIFIA program, a project shall satisfy applicable creditworthiness standards, which, at a minimum, shall include—
       - **(i)** a rate covenant, if applicable;
       - **(ii)** adequate coverage requirements to ensure repayment;
       - **(iii)** an investment grade rating from at least 2 rating agencies on debt senior to the Federal credit instrument; and
       - **(iv)** a rating from at least 2 rating agencies on the Federal credit instrument, subject to the condition that, with respect to clause (iii), if the total amount of the senior debt and the Federal credit instrument is less than $75,000,000, 1 rating agency opinion for each of the senior debt and Federal credit instrument shall be sufficient.
     - **(B)** Notwithstanding subparagraph (A), in a case in which the Federal credit instrument is the senior debt, the Federal credit instrument shall be required to receive an investment grade rating from at least 2 rating agencies, unless the credit instrument is for an amount less than $75,000,000, in which case 1 rating agency opinion shall be sufficient.
-  - **(3)** A project shall satisfy the applicable planning and programming requirements of sections 134 and 135 at such time as an agreement to make available a Federal credit instrument is entered into under this chapter.
+  - **(3)** A project shall satisfy the applicable planning and programming requirements of sections 134 and 135 at such time as an agreement to make available a Federal credit instrument is entered into under the TIFIA program.
   - **(4)** A State, local government, public authority, public-private partnership, or any other legal entity undertaking the project and authorized by the Secretary shall submit a project application that is acceptable to the Secretary.
   - **(5)**
-    - **(A)** Except as provided in subparagraph (B), to be eligible for assistance under this chapter, a project shall have eligible project costs that are reasonably anticipated to equal or exceed the lesser of—
-      - **(i)**
-        - **(I)** $50,000,000; or
-        - **(II)** in the case of a rural infrastructure project, $25,000,000; and
-      - **(ii)** 33⅓ percent of the amount of Federal highway assistance funds apportioned for the most recently completed fiscal year to the State in which the project is located.
-    - **(B)** In the case of a project principally involving the installation of an intelligent transportation system, eligible project costs shall be reasonably anticipated to equal or exceed $15,000,000.
+    - **(A)** Except as provided in subparagraph (B), a project under the TIFIA program shall have eligible project costs that are reasonably anticipated to equal or exceed the lesser of—
+      - **(i)** $50,000,000; and
+      - **(ii)** 33⅓ percent of the amount of Federal highway funds apportioned for the most recently completed fiscal year to the State in which the project is located.
+    - **(B)**
+      - **(i)** In the case of a project principally involving the installation of an intelligent transportation system, eligible project costs shall be reasonably anticipated to equal or exceed $15,000,000.
+      - **(ii)** In the case of a project described in section 601(a)(12)(E), eligible project costs shall be reasonably anticipated to equal or exceed $10,000,000.
+      - **(iii)** In the case of a rural infrastructure project or a project capitalizing a rural projects fund, eligible project costs shall be reasonably anticipated to equal or exceed $10,000,000, but not to exceed $100,000,000.
+      - **(iv)** Eligible project costs shall be reasonably anticipated to equal or exceed $10,000,000 in the case of a project or program of projects—
+        - **(I)** in which the applicant is a local government, public authority, or instrumentality of local government;
+        - **(II)** located on a facility owned by a local government; or
+        - **(III)** for which the Secretary determines that a local government is substantially involved in the development of the project.
   - **(6)** The applicable Federal credit instrument shall be repayable, in whole or in part, from—
     - **(A)** tolls;
     - **(B)** user fees;
@@ -39,21 +44,23 @@ generated_at: "2026-03-29T18:05:12.249Z"
   - **(8)** A State, local government, agency or instrumentality of a State or local government, or public authority may submit to the Secretary an application under paragraph (4), under which a private party to a public-private partnership will be—
     - **(A)** the obligor; and
     - **(B)** identified later through completion of a procurement and selection of the private party.
-  - **(9)** The Secretary shall determine that financial assistance for the project under this chapter will—
+  - **(9)** The Secretary shall determine that financial assistance for the project under the TIFIA program will—
     - **(A)** foster, if appropriate, partnerships that attract public and private investment for the project;
     - **(B)** enable the project to proceed at an earlier date than the project would otherwise be able to proceed or reduce the lifecycle costs (including debt service costs) of the project; and
     - **(C)** reduce the contribution of Federal grant assistance for the project.
-  - **(10)** To be eligible for assistance under this chapter, the applicant shall demonstrate a reasonable expectation that the contracting process for construction of the project can commence by not later than 90 days after the date on which a Federal credit instrument is obligated for the project under this chapter.
+  - **(10)**
+    - **(A)** Except as provided in subparagraph (B), to be eligible for assistance under the TIFIA program, the applicant shall demonstrate a reasonable expectation that the contracting process for construction of the project can commence by no later than 90 days after the date on which a Federal credit instrument is obligated for the project under the TIFIA program.
+    - **(B)** In the case of a project capitalizing a rural projects fund, the State infrastructure bank shall demonstrate, not later than 2 years after the date on which a secured loan is obligated for the project under the TIFIA program, that the bank has executed a loan agreement with a borrower for a rural infrastructure project in accordance with section 610. After the demonstration is made, the bank may draw upon the secured loan. At the end of the 2-year period, to the extent the bank has not used the loan commitment, the Secretary may extend the term of the loan or withdraw the loan commitment.
 - **(b)**
   - **(1)** The Secretary shall establish a rolling application process under which projects that are eligible to receive credit assistance under subsection (a) shall receive credit assistance on terms acceptable to the Secretary, if adequate funds are available to cover the subsidy costs associated with the Federal credit instrument.
-  - **(2)** If the Secretary fully obligates funding to eligible projects in a fiscal year, and adequate funding is not available to fund a credit instrument, a project sponsor of an eligible project may elect to enter into a master credit agreement and wait until the earlier of—
-    - **(A)** the following fiscal year; and
-    - **(B)** the fiscal year during which additional funds are available to receive credit assistance.
+  - **(2)**
+    - **(A)** The Secretary may enter into a master credit agreement for a program of related projects secured by a common security pledge on terms acceptable to the Secretary.
+    - **(B)** If the Secretary fully obligates funding to eligible projects for a fiscal year and adequate funding is not available to fund a credit instrument, a project sponsor of an eligible project may elect to enter into a master credit agreement and wait to execute a credit instrument until the fiscal year for which additional funds are available to receive credit assistance.
   - **(3)** The Secretary shall require each project applicant to provide a preliminary rating opinion letter from at least 1 rating agency—
     - **(A)** indicating that the senior obligations of the project, which may be the Federal credit instrument, have the potential to achieve an investment-grade rating; and
     - **(B)** including a preliminary rating opinion on the Federal credit instrument.
 - **(c)**
-  - **(1)** In addition to the requirements of this title for highway projects, the requirements of chapter 53 of title 49 for transit projects, and the requirements of section 5333(a) of title 49 for rail projects, the following provisions of law shall apply to funds made available under this chapter and projects assisted with those funds:
+  - **(1)** In addition to the requirements of this title for highway projects, the requirements of chapter 53 of title 49 for transit projects, and the requirements of section 5333(a) of title 49 for rail projects, the following provisions of law shall apply to funds made available under the TIFIA program and projects assisted with those funds:
     - **(A)** Title VI of the Civil Rights Act of 1964 ( 42 U.S.C. 2000d et seq.).
     - **(B)** The National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).
     - **(C)** The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 ( 42 U.S.C. 4601 et seq.).
@@ -63,4 +70,4 @@ generated_at: "2026-03-29T18:05:12.249Z"
     - **(A)** the application is complete; or
     - **(B)** additional information or materials are needed to complete the application.
   - **(2)** Not later than 60 days after the date of issuance of the written notice under paragraph (1), the Secretary shall provide to the applicant a written notice informing the applicant whether the Secretary has approved or disapproved the application.
-- **(e)** Any credit instrument secured under this chapter may be used to finance up to 100 percent of the cost of development phase activities as described in section 601(a)(1)(A).
+- **(e)** Any credit instrument secured under the TIFIA program may be used to finance up to 100 percent of the cost of development phase activities as described in section 601(a)(1)(A).

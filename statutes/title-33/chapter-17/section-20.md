@@ -3,9 +3,9 @@ title: "Section 20 - Coordination"
 usc_title: 33
 usc_section: "20"
 chapter: 17
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 20"
-generated_at: "2026-03-29T18:06:10.510Z"
+generated_at: "2026-03-29T18:26:01.201Z"
 ---
 
 # § 857–20. Coordination

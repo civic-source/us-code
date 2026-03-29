@@ -1,12 +1,12 @@
 ---
-title: "Section 2382 - Repealed. Pub. L. 112–239, div. A, title XVI, § 1671(c)(1) , Jan. 2, 2013 , 126 Stat. 2084 ]"
+title: "Section 2382 - Repealed. Pub. L. 112–239, div. A, title XVI , § 1671(c)(1), Jan. 2, 2013 , 126 Stat. 2084 ]"
 usc_title: 10
 usc_section: "2382"
 chapter: 141
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2382"
-generated_at: "2026-03-29T18:04:13.161Z"
+generated_at: "2026-03-29T18:23:51.941Z"
 ---
 
-# [§ 2382. Repealed. Pub. L. 112–239, div. A, title XVI, § 1671(c)(1) , Jan. 2, 2013 , 126 Stat. 2084 ]
+# [§ 2382. Repealed. Pub. L. 112–239, div. A, title XVI , § 1671(c)(1), Jan. 2, 2013 , 126 Stat. 2084 ]
 

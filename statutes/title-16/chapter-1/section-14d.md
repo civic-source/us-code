@@ -1,14 +1,12 @@
 ---
-title: "Section 14d - Use of funds for law enforcement and emergencies"
+title: "Section 14d - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "14d"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 14d"
-generated_at: "2026-03-29T18:05:06.376Z"
+generated_at: "2026-03-29T18:24:22.403Z"
 ---
 
-# § 14d. Use of funds for law enforcement and emergencies
-
-On and after October 5, 1992 , any funds, not to exceed $250,000 per incident, available to the National Park Service may be used, with the approval of the Secretary, to maintain law and order in emergency and other unforeseen law enforcement situations and conduct emergency search and rescue operations in the National Park System: Provided further , That any exercise of this authority must be replenished by a supplemental appropriation which must be requested as promptly as possible.
+# § 14d. Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272
 

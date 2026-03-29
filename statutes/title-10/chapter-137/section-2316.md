@@ -3,9 +3,9 @@ title: "Section 2316 - Disclosure of identity of contractor"
 usc_title: 10
 usc_section: "2316"
 chapter: 137
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2316"
-generated_at: "2026-03-29T18:04:13.144Z"
+generated_at: "2026-03-29T18:23:51.912Z"
 ---
 
 # § 2316. Disclosure of identity of contractor

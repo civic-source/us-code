@@ -3,9 +3,9 @@ title: "Section 940d - Limitations on authorization of appropriations"
 usc_title: 7
 usc_section: "940d"
 chapter: 31
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 940d"
-generated_at: "2026-03-29T18:04:04.803Z"
+generated_at: "2026-03-29T18:23:43.228Z"
 ---
 
 # § 940d. Limitations on authorization of appropriations
@@ -26,5 +26,5 @@ generated_at: "2026-03-29T18:04:04.803Z"
   - **(4)** For loans under section 935(d)(2) of this title —
     - **(A)** for fiscal year 1994, $198,000,000; and
     - **(B)** for each of fiscal years 1995 through 1998, $198,000,000, increased by the adjustment percentage for the fiscal year.
-- **(c)** The Secretary shall make insured loans under this subchapter for the purposes, in the amounts, and for the periods of time specified in subsection (b) of this section, as provided in advance in appropriations Acts.
+- **(c)** The Secretary shall make insured loans under this subchapter for the purposes, in the amounts, and for the periods of time specified in subsection (b), as provided in advance in appropriations Acts.
 - **(d)** Amounts made available for loans under section 935 of this title are authorized to remain available until expended.

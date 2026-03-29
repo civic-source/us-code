@@ -3,9 +3,9 @@ title: "Section 230107 - Annual report"
 usc_title: 36
 usc_section: "230107"
 chapter: 2301
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "36 U.S.C. § 230107"
-generated_at: "2026-03-29T18:06:24.339Z"
+generated_at: "2026-03-29T18:26:09.310Z"
 ---
 
 # § 230107. Annual report

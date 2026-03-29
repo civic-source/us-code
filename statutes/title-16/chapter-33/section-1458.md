@@ -3,9 +3,9 @@ title: "Section 1458 - Review of performance"
 usc_title: 16
 usc_section: "1458"
 chapter: 33
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 1458"
-generated_at: "2026-03-29T18:05:06.949Z"
+generated_at: "2026-03-29T18:24:22.809Z"
 ---
 
 # § 1458. Review of performance
@@ -18,5 +18,5 @@ generated_at: "2026-03-29T18:05:06.949Z"
     - **(A)** written specifications and a schedule for the actions that should be taken by the State in order that such suspension of financial assistance may be withdrawn; and
     - **(B)** written specifications stating how those funds from the suspended financial assistance shall be expended by the coastal state to take the actions referred to in subparagraph (A).
   - **(3)** The suspension of financial assistance may not last for less than 6 months or more than 36 months after the date of suspension.
-- **(d)** The Secretary shall withdraw approval of the management program of any coastal state and shall withdraw financial assistance available to that State under this chapter as well as any unexpended portion of such assistance, if the Secretary determines that the coastal state has failed to take the actions referred to in subsection (c)(2)(A) of this section.
-- **(e)** Management program approval and financial assistance may not be withdrawn under subsection (d) of this section, unless the Secretary gives the coastal state notice of the proposed withdrawal and an opportunity for a public hearing on the proposed action. Upon the withdrawal of management program approval under this subsection (d) of this section, the Secretary shall provide the coastal state with written specifications of the actions that should be taken, or not engaged in, by the state in order that such withdrawal may be canceled by the Secretary.
+- **(d)** The Secretary shall withdraw approval of the management program of any coastal state and shall withdraw financial assistance available to that State under this chapter as well as any unexpended portion of such assistance, if the Secretary determines that the coastal state has failed to take the actions referred to in subsection (c)(2)(A).
+- **(e)** Management program approval and financial assistance may not be withdrawn under subsection (d), unless the Secretary gives the coastal state notice of the proposed withdrawal and an opportunity for a public hearing on the proposed action. Upon the withdrawal of management program approval under this subsection (d), the Secretary shall provide the coastal state with written specifications of the actions that should be taken, or not engaged in, by the state in order that such withdrawal may be canceled by the Secretary.

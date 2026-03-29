@@ -3,9 +3,9 @@ title: "Section 2728 - Crimes committed by diplomats"
 usc_title: 22
 usc_section: "2728"
 chapter: 38
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 2728"
-generated_at: "2026-03-29T18:05:21.885Z"
+generated_at: "2026-03-29T18:24:54.256Z"
 ---
 
 # § 2728. Crimes committed by diplomats
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T18:05:21.885Z"
     - **(C)** Each case described in subparagraph (B) in which the Secretary of State has certified that a person enjoys full immunity from the criminal jurisdiction of the United States under laws extending diplomatic privileges and immunities.
     - **(D)** The number of United States citizens who are residing in a receiving state and who enjoy full immunity from the criminal jurisdiction of such state under laws extending diplomatic privileges and immunities.
     - **(E)** Each case involving a United States citizen under subparagraph (D) in which the United States has been requested by the government of a receiving state to waive the immunity from criminal jurisdiction of the United States citizen.
-    - **(F)** Whether the Secretary has made the notifications referred to in subsection (c) of this section during the period covered by the report.
+    - **(F)** Whether the Secretary has made the notifications referred to in subsection (c) during the period covered by the report.
   - **(3)** For the purposes of this section, the term “serious criminal offense” means—
     - **(A)** any felony under Federal, State, or local law;
     - **(B)** any Federal, State, or local offense punishable by a term of imprisonment of more than 1 year;

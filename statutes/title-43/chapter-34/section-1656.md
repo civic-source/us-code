@@ -3,14 +3,14 @@ title: "Section 1656 - Civil penalties"
 usc_title: 43
 usc_section: "1656"
 chapter: 34
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 1656"
-generated_at: "2026-03-29T18:06:28.371Z"
+generated_at: "2026-03-29T18:26:14.892Z"
 ---
 
 # § 1656. Civil penalties
 
-- **(a)** Except as provided in subsection (c)(4) of this section, the Secretary of the Interior may assess and collect a civil penalty under this section with respect to any discharge of oil—
+- **(a)** Except as provided in subsection (c)(4), the Secretary of the Interior may assess and collect a civil penalty under this section with respect to any discharge of oil—
   - **(1)** in transit from fields or reservoirs supplying oil to the trans-Alaska pipeline; or
   - **(2)** during transportation through the trans-Alaska pipeline or handling at the terminal facilities, that causes damage to, or threatens to damage, natural resources or public or private property.
 - **(b)** In addition to the person causing or permitting the discharge, the owner or owners of the oil at the time the discharge occurs shall be jointly, severally, and strictly liable for the full amount of penalties assessed pursuant to this section, except that the United States and the several States, and political subdivisions thereof, shall not be liable under this section.

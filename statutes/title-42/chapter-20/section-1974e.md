@@ -1,14 +1,12 @@
 ---
-title: "Section 1974e - “Officer of election” defined"
+title: "Section 1974e - Transferred"
 usc_title: 42
 usc_section: "1974e"
 chapter: 20
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1974e"
-generated_at: "2026-03-29T18:07:14.363Z"
+generated_at: "2026-03-29T18:27:03.399Z"
 ---
 
-# § 1974e. “Officer of election” defined
-
-As used in this subchapter, the term “officer of election” means any person who, under color of any Federal, State, Commonwealth, or local law, statute, ordinance, regulation, authority, custom, or usage, performs or is authorized to perform any function, duty, or task in connection with any application, registration, payment of poll tax, or other act requisite to voting in any general, special, or primary election at which votes are cast for candidates for the office of President, Vice President, presidential elector, Member of the Senate, Member of the House of Representatives, or Resident Commissioner from the Commonwealth of Puerto Rico.
+# § 1974e. Transferred
 

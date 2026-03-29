@@ -3,14 +3,14 @@ title: "Section 3057n - Authorization of appropriations"
 usc_title: 42
 usc_section: "3057n"
 chapter: 35
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 3057n"
-generated_at: "2026-03-29T18:07:14.498Z"
+generated_at: "2026-03-29T18:27:03.499Z"
 ---
 
 # § 3057n. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this subchapter—
 
-  - **(1)** for parts A and B of this subchapter, such sums as may be necessary for fiscal year 2007, and such sums as may be necessary for subsequent fiscal years; and
-  - **(2)** for part C of this subchapter, $6,500,000 for fiscal year 2007, $6,800,000 for fiscal year 2008, $7,200,000 for fiscal year 2009, $7,500,000 for fiscal year 2010, and $7,900,000 for fiscal year 2011.
+  - **(1)** for parts A and B, $31,934,018 for fiscal year 2017, $32,601,843 for fiscal year 2018, and $33,269,670 for fiscal year 2019; and
+  - **(2)** for part C, $7,718,566 for fiscal year 2017, $7,879,982 for fiscal year 2018, and $8,041,398 for fiscal year 2019.

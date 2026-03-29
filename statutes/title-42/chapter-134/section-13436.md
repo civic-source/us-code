@@ -1,12 +1,12 @@
 ---
-title: "Section 13436 - Repealed. Pub. L. 104–271, title I, § 103(b)(2) , Oct. 9, 1996 , 110 Stat. 3306"
+title: "Section 13436 - Repealed. Pub. L. 104–271, title I , § 103(b)(2), Oct. 9, 1996 , 110 Stat. 3306"
 usc_title: 42
 usc_section: "13436"
 chapter: 134
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 13436"
-generated_at: "2026-03-29T18:07:15.322Z"
+generated_at: "2026-03-29T18:27:04.121Z"
 ---
 
-# § 13436. Repealed. Pub. L. 104–271, title I, § 103(b)(2) , Oct. 9, 1996 , 110 Stat. 3306
+# § 13436. Repealed. Pub. L. 104–271, title I , § 103(b)(2), Oct. 9, 1996 , 110 Stat. 3306
 

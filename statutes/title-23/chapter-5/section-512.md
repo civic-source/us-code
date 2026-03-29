@@ -3,9 +3,9 @@ title: "Section 512 - National ITS program plan"
 usc_title: 23
 usc_section: "512"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "23 U.S.C. § 512"
-generated_at: "2026-03-29T18:05:12.247Z"
+generated_at: "2026-03-29T18:25:00.209Z"
 ---
 
 # § 512. National ITS program plan
@@ -22,4 +22,4 @@ generated_at: "2026-03-29T18:05:12.247Z"
     - **(D)** establish a cooperative process with State and local governments for—
       - **(i)** determining desired surface transportation system performance levels; and
       - **(ii)** developing plans for accelerating the incorporation of specific intelligent transportation system capabilities into surface transportation systems.
-- **(b)** The National ITS program plan shall be submitted and biennially updated as part of the transportation research and development strategic plan developed under section 508.
+- **(b)** The National ITS program plan shall be submitted and biennially updated.

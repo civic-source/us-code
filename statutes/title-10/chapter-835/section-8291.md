@@ -1,12 +1,12 @@
 ---
-title: "Section 8291 - Repealed. Pub. L. 85–155, title IV, § 401(1) , Aug. 21, 1957 , 71 Stat. 390 ]"
+title: "Section 8291 - Repealed. Pub. L. 85–155, title IV , § 401(1), Aug. 21, 1957 , 71 Stat. 390 ]"
 usc_title: 10
 usc_section: "8291"
 chapter: 835
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 8291"
-generated_at: "2026-03-29T18:04:13.290Z"
+generated_at: "2026-03-29T18:23:52.084Z"
 ---
 
-# [§ 8291. Repealed. Pub. L. 85–155, title IV, § 401(1) , Aug. 21, 1957 , 71 Stat. 390 ]
+# [§ 8291. Repealed. Pub. L. 85–155, title IV , § 401(1), Aug. 21, 1957 , 71 Stat. 390 ]
 

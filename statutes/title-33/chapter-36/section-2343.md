@@ -3,9 +3,9 @@ title: "Section 2343 - Independent peer review"
 usc_title: 33
 usc_section: "2343"
 chapter: 36
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 2343"
-generated_at: "2026-03-29T18:06:10.602Z"
+generated_at: "2026-03-29T18:26:01.302Z"
 ---
 
 # § 2343. Independent peer review
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T18:06:10.602Z"
   - **(2)** The peer review may include a review of the economic and environmental assumptions and projections, project evaluation data, economic analyses, environmental analyses, engineering analyses, formulation of alternative plans, methods for integrating risk and uncertainty, models used in evaluation of economic or environmental impacts of proposed projects, and any biological opinions of the project study.
   - **(3)**
     - **(A)** A project study shall be subject to peer review under paragraph (1) if—
-      - **(i)** the project has an estimated total cost of more than $45,000,000, including mitigation costs, and is not determined by the Chief of Engineers to be exempt from peer review under paragraph (6);
+      - **(i)** the project has an estimated total cost of more than $200,000,000, including mitigation costs, and is not determined by the Chief of Engineers to be exempt from peer review under paragraph (6);
       - **(ii)** the Governor of an affected State requests a peer review by an independent panel of experts; or
       - **(iii)** the Chief of Engineers determines that the project study is controversial considering the factors set forth in paragraph (4).
     - **(B)**
@@ -44,12 +44,22 @@ generated_at: "2026-03-29T18:06:10.602Z"
     - **(A)** the without-project conditions are identified;
     - **(B)** the array of alternatives to be considered are identified; and
     - **(C)** the preferred alternative is identified.
-  - **(3)** Nothing in this subsection shall be construed to require the Chief of Engineers to conduct multiple peer reviews for a project study.
+  - **(3)** If the Chief of Engineers does not initiate a peer review for a project study at a time described in paragraph (2), the Chief shall—
+    - **(A)** not later than 7 days after the date on which the Chief of Engineers determines not to initiate a peer review—
+      - **(i)** notify the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of that decision; and
+      - **(ii)** make publicly available, including on the Internet, the reasons for not conducting the review; and
+    - **(B)** include the reasons for not conducting the review in the decision document for the project study.
+  - **(4)** Nothing in this subsection shall be construed to require the Chief of Engineers to conduct multiple peer reviews for a project study.
 - **(c)**
   - **(1)** For each project study subject to peer review under subsection (a), as soon as practicable after the Chief of Engineers determines that a project study will be subject to peer review, the Chief of Engineers shall contract with the National Academy of Sciences or a similar independent scientific and technical advisory organization or an eligible organization to establish a panel of experts to conduct a peer review for the project study.
   - **(2)** A panel of experts established for a project study under this section shall be composed of independent experts who represent a balance of areas of expertise suitable for the review being conducted.
   - **(3)** The National Academy of Sciences or any other organization the Chief of Engineers contracts with under paragraph (1) to establish a panel of experts shall apply the National Academy of Science’s policy for selecting committee members to ensure that members selected for the panel of experts have no conflict with the project being reviewed.
-  - **(4)** Upon identification of a project study for peer review under this section, but prior to initiation of the review, the Chief of Engineers shall notify the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of the review.
+  - **(4)** Following the identification of a project study for peer review under this section, but prior to initiation of the review by the panel of experts, the Chief of Engineers shall, not later than 7 days after the date on which the Chief of Engineers determines to conduct a review—
+    - **(A)** notify the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of the review conducted under this section; and
+    - **(B)** make publicly available, including on the Internet, information on—
+      - **(i)** the dates scheduled for beginning and ending the review;
+      - **(ii)** the entity that has the contract for the review; and
+      - **(iii)** the names and qualifications of the panel of experts.
 - **(d)** A panel of experts established for a peer review for a project study under this section shall—
   - **(1)** conduct the peer review for the project study;
   - **(2)** assess the adequacy and acceptability of the economic, engineering, and environmental methods, models, and analyses used by the Chief of Engineers;
@@ -63,9 +73,10 @@ generated_at: "2026-03-29T18:06:10.602Z"
   - **(2)** If a panel of experts does not complete its peer review of a project study under this section and submit a report to the Chief of Engineers under subsection (d)(5) on or before the deadline established by paragraph (1) for the peer review, the Chief of Engineers shall complete the project study without delay.
 - **(f)**
   - **(1)** After receiving a report on a project study from a panel of experts under this section and before entering a final record of decision for the project, the Chief of Engineers shall consider any recommendations contained in the report and prepare a written response for any recommendations adopted or not adopted.
-  - **(2)** After receiving a report on a project study from a panel of experts under this section, the Chief of Engineers shall—
-    - **(A)** make a copy of the report and any written response of the Chief of Engineers on recommendations contained in the report available to the public by electronic means, including the Internet; and
-    - **(B)** transmit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a copy of the report, together with any such written response, on the date of a final report of the Chief of Engineers or other final decision document for the project study.
+  - **(2)** After receiving a report on a project study from a panel of experts under this section, the Chief of Engineers shall make available to the public, including on the Internet, and submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives—
+    - **(A)** a copy of the report not later than 7 days after the date on which the report is delivered to the Chief of Engineers; and
+    - **(B)** a copy of any written response of the Chief of Engineers on recommendations contained in the report not later than 3 days after the date on which the response is delivered to the Chief of Engineers.
+  - **(3)** A report on a project study from a panel of experts under this section and the written response of the Chief of Engineers shall be included in the final decision document for the project study.
 - **(g)**
   - **(1)** The costs of a panel of experts established for a peer review under this section—
     - **(A)** shall be a Federal expense; and
@@ -73,7 +84,7 @@ generated_at: "2026-03-29T18:06:10.602Z"
   - **(2)** The Chief of Engineers may waive the $500,000 limitation contained in paragraph (1)(B) in cases that the Chief of Engineers determines appropriate.
 - **(h)** This section shall apply to—
   - **(1)** project studies initiated during the 2-year period preceding November 8, 2007 , and for which the array of alternatives to be considered has not been identified; and
-  - **(2)** project studies initiated during the period beginning on November 8, 2007 , and ending 7 years after November 8, 2007 .
+  - **(2)** project studies initiated during the period beginning on November 8, 2007 , and ending 12 years after November 8, 2007 .
 - **(i)**
   - **(1)** Not later than 3 years after November 8, 2007 , the Chief of Engineers shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the implementation of this section.
   - **(2)** Not later than 6 years after November 8, 2007 , the Chief of Engineers shall update the report under paragraph (1) taking into account any further information on implementation of this section and submit such updated report to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.

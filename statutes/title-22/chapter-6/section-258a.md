@@ -3,9 +3,9 @@ title: "Section 258a - Enforcement of awards of foreign consuls"
 usc_title: 22
 usc_section: "258a"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 258a"
-generated_at: "2026-03-29T18:05:21.700Z"
+generated_at: "2026-03-29T18:24:54.094Z"
 ---
 
 # § 258a. Enforcement of awards of foreign consuls

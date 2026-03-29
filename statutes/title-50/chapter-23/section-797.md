@@ -3,9 +3,9 @@ title: "Section 797 - Penalty for violation of security regulations and orders"
 usc_title: 50
 usc_section: "797"
 chapter: 23
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 797"
-generated_at: "2026-03-29T18:07:43.019Z"
+generated_at: "2026-03-29T18:27:35.596Z"
 ---
 
 # § 797. Penalty for violation of security regulations and orders
@@ -23,4 +23,4 @@ generated_at: "2026-03-29T18:07:43.019Z"
     - **(B)** The term “NASA property” means covered property subject to the jurisdiction, administration, or in the custody of the National Aeronautics and Space Administration or any officer or employee thereof.
     - **(C)** The term “covered property” means aircraft, airports, airport facilities, vessels, harbors, ports, piers, water-front facilities, bases, forts, posts, laboratories, stations, vehicles, equipment, explosives, or other property or places.
     - **(D)** The term “regulation” includes an order.
-- **(b)** Any regulation or order covered by subsection (a) of this section shall be posted in conspicuous and appropriate places.
+- **(b)** Any regulation or order covered by subsection (a) shall be posted in conspicuous and appropriate places.

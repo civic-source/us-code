@@ -3,14 +3,14 @@ title: "Section 9926 - Projects to expand the number of job opportunities availa
 usc_title: 42
 usc_section: "9926"
 chapter: 106
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 9926"
-generated_at: "2026-03-29T18:07:15.120Z"
+generated_at: "2026-03-29T18:27:03.967Z"
 ---
 
 # § 9926. Projects to expand the number of job opportunities available to certain low-income individuals
 
-- **(a)** The Secretary of Health and Human Services (in this section referred to as the “Secretary”) shall enter into agreements with nonprofit organizations (including community development corporations) submitting applications under this section for the purpose of conducting projects in accordance with subsection (b) of this section to create employment opportunities for certain low-income individuals.
+- **(a)** The Secretary of Health and Human Services (in this section referred to as the “Secretary”) shall enter into agreements with nonprofit organizations (including community development corporations) submitting applications under this section for the purpose of conducting projects in accordance with subsection (b) to create employment opportunities for certain low-income individuals.
 - **(b)**
   - **(1)** Each nonprofit organization conducting a project under this section shall provide technical and financial assistance to private employers in the community to assist them in creating employment and business opportunities for those individuals eligible to participate in the projects as described in this subsection.
   - **(2)** For purposes of this section, a nonprofit organization is any organization (including a community development corporation) exempt from taxation under section 501(a) of title 26 by reason of paragraph (3) or (4) of section 501(c) of such title.
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T18:07:15.120Z"
   - **(1)** Each nonprofit organization submitting an application under this section shall, as part of such application, describe—
     - **(A)** the technical and financial assistance that will be made available under the project conducted under this section;
     - **(B)** the geographic area to be served by the project;
-    - **(C)** the percentage of low-income individuals (as described in subsection (b) of this section) and individuals receiving assistance under a State program funded under part A of title IV of the Social Security Act [ 42 U.S.C. 601 et seq.] in the area to be served by the project; and
+    - **(C)** the percentage of low-income individuals (as described in subsection (b)) and individuals receiving assistance under a State program funded under part A of title IV of the Social Security Act [ 42 U.S.C. 601 et seq.] in the area to be served by the project; and
     - **(D)** unemployment rates in the geographic areas to be served and (to the extent practicable) the jobs available and skills necessary to fill those vacancies in such areas.
   - **(2)** In approving applications under this section, the Secretary shall give priority to applications proposing to serve those areas containing the highest percentage of individuals receiving assistance under a State program funded under part A of title IV of the Social Security Act [ 42 U.S.C. 601 et seq.].
 - **(d)** Each nonprofit organization participating in a project conducted under this section shall provide assurances in its agreement with the Secretary that it has or will have a cooperative relationship with the agency responsible for administering the the 2 2 So in original. State program funded under part A of title IV of the Social Security Act [ 42 U.S.C. 601 et seq.] in the area served by the project.

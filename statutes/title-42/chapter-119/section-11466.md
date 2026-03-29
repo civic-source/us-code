@@ -1,12 +1,12 @@
 ---
-title: "Section 11466 - Repealed. Pub. L. 105–220, title I, § 199(b)(1) , Aug. 7, 1998 , 112 Stat. 1059"
+title: "Section 11466 - Repealed. Pub. L. 105–220, title I , § 199(b)(1), Aug. 7, 1998 , 112 Stat. 1059"
 usc_title: 42
 usc_section: "11466"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 11466"
-generated_at: "2026-03-29T02:15:37.170Z"
+generated_at: "2026-03-29T18:27:04.031Z"
 ---
 
-# §§ 11461 to 11466. Repealed. Pub. L. 105–220, title I, § 199(b)(1) , Aug. 7, 1998 , 112 Stat. 1059
+# §§ 11461 to 11466. Repealed. Pub. L. 105–220, title I , § 199(b)(1), Aug. 7, 1998 , 112 Stat. 1059
 

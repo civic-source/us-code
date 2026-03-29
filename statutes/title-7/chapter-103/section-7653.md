@@ -3,9 +3,9 @@ title: "Section 7653 - Office of Pest Management Policy"
 usc_title: 7
 usc_section: "7653"
 chapter: 103
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 7653"
-generated_at: "2026-03-29T18:04:05.132Z"
+generated_at: "2026-03-29T18:23:43.528Z"
 ---
 
 # § 7653. Office of Pest Management Policy
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T18:04:05.132Z"
   - **(2)** the coordination of activities and services of the Department, including research, extension, and education activities, regarding the development, availability, and use of economically and environmentally sound pest management tools and practices;
   - **(3)** assisting other agencies of the Department in fulfilling their responsibilities related to pest management or pesticides under the Food Quality Protection Act of 1996 ( Public Law 104–170 ; 110 Stat. 1489 ), the Federal Insecticide, Fungicide, and Rodenticide Act ( 7 U.S.C. 136 et seq.), the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 301 et seq.), and other applicable laws; and
   - **(4)** performing such other functions as may be required by law or prescribed by the Secretary.
-- **(c)** In support of its responsibilities under subsection (b) of this section, the Office of Pest Management Policy shall provide leadership to ensure coordination of interagency activities with the Environmental Protection Agency, the Food and Drug Administration, and other Federal and State agencies.
+- **(c)** In support of its responsibilities under subsection (b), the Office of Pest Management Policy shall provide leadership to ensure coordination of interagency activities with the Environmental Protection Agency, the Food and Drug Administration, and other Federal and State agencies.
 - **(d)** The Office of Pest Management Policy shall consult with agricultural producers that may be affected by pest management or pesticide-related activities or actions of the Department or other agencies as necessary in carrying out the Office’s responsibilities under this section.
 - **(e)** The Office of Pest Management Policy shall be under the direction of a Director appointed by the Secretary, who shall report directly to the Secretary or a designee of the Secretary.
 - **(f)** There are authorized to be appropriated to carry out this section—

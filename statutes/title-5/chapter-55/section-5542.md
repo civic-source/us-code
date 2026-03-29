@@ -3,9 +3,9 @@ title: "Section 5542 - Overtime rates; computation"
 usc_title: 5
 usc_section: "5542"
 chapter: 55
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 5542"
-generated_at: "2026-03-29T18:03:29.883Z"
+generated_at: "2026-03-29T18:23:29.901Z"
 ---
 
 # § 5542. Overtime rates; computation
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T18:03:29.883Z"
   - **(5)** Notwithstanding paragraphs (1) and (2), for an employee of the Department of the Interior or the United States Forest Service in the Department of Agriculture engaged in emergency wildland fire suppression activities, the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay of the employee, and all that amount is premium pay.
   - **(6)**
     - **(A)** Notwithstanding paragraphs (1) and (2), for an employee of the Department of the Navy who is assigned to temporary duty to perform work aboard, or dockside in direct support of, the nuclear aircraft carrier that is forward deployed in Japan and who would be nonexempt under the Fair Labor Standards Act but for the application of the foreign area exemption in section 13(f) of that Act ( 29 U.S.C. 213(f) ), the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay of the employee, and all that amount is premium pay.
-    - **(B)** Subparagraph (A) shall expire on September 30, 2014 .
+    - **(B)** Subparagraph (A) shall expire on September 30, 2017 .
 - **(b)** For the purpose of this subchapter—
   - **(1)** unscheduled overtime work performed by an employee on a day when work was not scheduled for him, or for which he is required to return to his place of employment, is deemed at least 2 hours in duration; and
   - **(2)** time spent in a travel status away from the official-duty station of an employee is not hours of employment unless—
@@ -39,3 +39,29 @@ generated_at: "2026-03-29T18:03:29.883Z"
 - **(f)** In applying subsection (a) of this section with respect to a firefighter who is subject to section 5545b—
   - **(1)** such subsection shall be deemed to apply to hours of work officially ordered or approved in excess of 106 hours in a biweekly pay period, or, if the agency establishes a weekly basis for overtime pay computation, in excess of 53 hours in an administrative workweek; and
   - **(2)** the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay under section 5545b(b)(1)(A) or (c)(1)(B), as applicable, and such overtime hourly rate of pay may not be less than such hourly rate of basic pay in applying the limitation on the overtime rate provided in paragraph (2) of such subsection (a).
+- **(g)** In applying subsection (a) with respect to a border patrol agent covered by section 5550, the following rules apply:
+  - **(1)** Notwithstanding the matter preceding paragraph (1) in subsection (a), for a border patrol agent who is assigned to the level 1 border patrol rate of pay under section 5550—
+    - **(A)** hours of work in excess of 100 hours during a 14-day biweekly pay period shall be overtime work; and
+    - **(B)** the border patrol agent—
+      - **(i)** shall receive pay at the overtime hourly rate of pay (as determined in accordance with paragraphs (1) and (2) of subsection (a)) for hours of overtime work that are officially ordered or approved in advance of the workweek; and
+      - **(ii)** except as provided in paragraphs (4) and (5), shall receive compensatory time off for an equal amount of time spent performing overtime work that is not overtime work described in clause (i).
+  - **(2)** Notwithstanding the matter preceding paragraph (1) in subsection (a), for a border patrol agent who is assigned to the level 2 border patrol rate of pay under section 5550—
+    - **(A)** hours of work in excess of 90 hours during a 14-day biweekly pay period shall be overtime work; and
+    - **(B)** the border patrol agent—
+      - **(i)** shall receive pay at the overtime hourly rate of pay (as determined in accordance with paragraphs (1) and (2) of subsection (a)) for hours of overtime work that are officially ordered or approved in advance of the workweek; and
+      - **(ii)** except as provided in paragraphs (4) and (5), shall receive compensatory time off for an equal amount of time spent performing overtime work that is not overtime work described in clause (i).
+  - **(3)** Notwithstanding the matter preceding paragraph (1) in subsection (a), for a border patrol agent who is assigned to the basic border patrol rate of pay under section 5550—
+    - **(A)** hours of work in excess of 80 hours during a 14-day biweekly pay period shall be overtime work; and
+    - **(B)** the border patrol agent—
+      - **(i)** shall receive pay at the overtime hourly rate of pay (as determined in accordance with paragraphs (1) and (2) of subsection (a)) for hours of overtime work that are officially ordered or approved in advance of the workweek; and
+      - **(ii)** except as provided in paragraphs (4) and (5), shall receive compensatory time off for an equal amount of time spent performing overtime work that is not overtime work described in clause (i).
+  - **(4)**
+    - **(A)** Except as provided in subparagraph (B), during a 14-day biweekly pay period, a border patrol agent may not earn compensatory time off for more than 10 hours of overtime work.
+    - **(B)** U.S. Customs and Border Protection may, as it determines appropriate, waive the limitation under subparagraph (A) for an individual border patrol agent for hours of irregular or occasional overtime work, but such waiver must be approved in writing in advance of the performance of any such work for which compensatory time off is earned under paragraph (1)(B)(ii), (2)(B)(ii), or (3)(B)(ii). If a waiver request by a border patrol agent is denied, the border patrol agent may not be ordered to perform the associated overtime work.
+  - **(5)** A border patrol agent—
+    - **(A)** may not earn more than 240 hours of compensatory time off during a leave year;
+    - **(B)** shall use any hours of compensatory time off not later than the end of the 26th pay period after the pay period during which the compensatory time off was earned;
+    - **(C)** shall be required to use 1 hour of compensatory time off for each hour of regular time not worked for which the border patrol agent is not on paid leave or other paid time off or does not substitute time in accordance with section 5550(f);
+    - **(D)** shall forfeit any compensatory time off not used in accordance with this paragraph and, regardless of circumstances, shall not be entitled to any cash value for compensatory time earned under section 5550;
+    - **(E)** shall not receive credit towards the computation of the annuity of the border patrol agent for compensatory time, whether used or not; and
+    - **(F)** shall not be credited with compensatory time off if the value of such time off would cause the aggregate premium pay of the border patrol agent to exceed the limitation established under section 5547 in the period in which it was earned.

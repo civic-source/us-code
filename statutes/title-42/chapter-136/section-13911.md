@@ -3,15 +3,15 @@ title: "Section 13911 - Prevention, diagnosis, and treatment of tuberculosis in 
 usc_title: 42
 usc_section: "13911"
 chapter: 136
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 13911"
-generated_at: "2026-03-29T18:07:15.348Z"
+generated_at: "2026-03-29T18:27:04.138Z"
 ---
 
 # § 13911. Prevention, diagnosis, and treatment of tuberculosis in correctional institutions
 
 - **(a)** The Attorney General, in consultation with the Secretary of Health and Human Services and the Director of the National Institute of Corrections, shall develop and disseminate to appropriate entities, including State, Indian tribal, and local correctional institutions and the Immigration and Naturalization Service, guidelines for the prevention, diagnosis, treatment, and followup care of tuberculosis among inmates of correctional institutions and persons held in holding facilities operated by or under contract with the Immigration and Naturalization Service.
-- **(b)** The Attorney General shall ensure that prisons in the Federal prison system and holding facilities operated by or under contract with the Immigration and Naturalization Service comply with the guidelines described in subsection (a) of this section.
+- **(b)** The Attorney General shall ensure that prisons in the Federal prison system and holding facilities operated by or under contract with the Immigration and Naturalization Service comply with the guidelines described in subsection (a).
 - **(c)**
   - **(1)** The Attorney General shall make grants to State, Indian tribal, and local correction authorities and public health authorities to assist in establishing and operating programs for the prevention, diagnosis, treatment, and followup care of tuberculosis among inmates of correctional institutions.
   - **(2)** The Federal share of funding of a program funded with a grant under paragraph (1) shall not exceed 50 percent.

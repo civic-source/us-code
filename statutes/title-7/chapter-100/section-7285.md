@@ -3,15 +3,15 @@ title: "Section 7285 - Commodity Credit Corporation sales price restrictions"
 usc_title: 7
 usc_section: "7285"
 chapter: 100
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 7285"
-generated_at: "2026-03-29T18:04:05.109Z"
+generated_at: "2026-03-29T18:23:43.507Z"
 ---
 
 # § 7285. Commodity Credit Corporation sales price restrictions
 
 - **(a)** The Commodity Credit Corporation may sell any commodity owned or controlled by the Corporation at any price that the Secretary determines will maximize returns to the Corporation.
-- **(b)** Subsection (a) of this section shall not apply to—
+- **(b)** Subsection (a) shall not apply to—
   - **(1)** a sale for a new or byproduct use;
   - **(2)** a sale of peanuts or oilseeds for the extraction of oil;
   - **(3)** a sale for seed or feed if the sale will not substantially impair any loan program;
@@ -20,10 +20,10 @@ generated_at: "2026-03-29T18:04:05.109Z"
   - **(6)** a sale for export, as determined by the Corporation; and
   - **(7)** a sale for other than a primary use.
 - **(c)**
-  - **(1)** Notwithstanding subsection (a) of this section, on such terms and conditions as the Secretary may consider in the public interest, the Corporation may make available any commodity or product owned or controlled by the Corporation for use in relieving distress—
+  - **(1)** Notwithstanding subsection (a), on such terms and conditions as the Secretary may consider in the public interest, the Corporation may make available any commodity or product owned or controlled by the Corporation for use in relieving distress—
     - **(A)** in any area in the United States (including the Virgin Islands) declared by the President to be an acute distress area because of unemployment or other economic cause, if the President finds that the use will not displace or interfere with normal marketing of agricultural commodities; and
     - **(B)** in connection with any major disaster determined by the President to warrant assistance by the Federal Government under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.).
   - **(2)** Except on a reimbursable basis, the Corporation shall not bear any costs in connection with making a commodity available under paragraph (1) beyond the cost of the commodity to the Corporation incurred in—
     - **(A)** the storage of the commodity; and
     - **(B)** the handling and transportation costs in making delivery of the commodity to designated agencies at 1 or more central locations in each State or other area.
-- **(d)** Subsection (a) of this section shall not apply to the sale of a commodity the disposition of which is desirable in the interest of the effective and efficient conduct of the operations of the Corporation because of the small quantity of the commodity involved, or because of the age, location, or questionable continued storability of the commodity.
+- **(d)** Subsection (a) shall not apply to the sale of a commodity the disposition of which is desirable in the interest of the effective and efficient conduct of the operations of the Corporation because of the small quantity of the commodity involved, or because of the age, location, or questionable continued storability of the commodity.

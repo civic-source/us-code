@@ -1,14 +1,12 @@
 ---
-title: "Section 15328 - Requiring majority approval for actions"
+title: "Section 15328 - Transferred"
 usc_title: 42
 usc_section: "15328"
 chapter: 146
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 15328"
-generated_at: "2026-03-29T18:07:15.409Z"
+generated_at: "2026-03-29T18:27:04.190Z"
 ---
 
-# § 15328. Requiring majority approval for actions
-
-Any action which the Commission is authorized to carry out under this chapter may be carried out only with the approval of at least three of its members.
+# § 15328. Transferred
 

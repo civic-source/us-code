@@ -3,9 +3,9 @@ title: "Section 1619 - Award of compensation to informers"
 usc_title: 19
 usc_section: "1619"
 chapter: 4
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 1619"
-generated_at: "2026-03-29T18:04:55.032Z"
+generated_at: "2026-03-29T18:24:16.108Z"
 ---
 
 # § 1619. Award of compensation to informers
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T18:04:55.032Z"
   - **(1)** any vessel, vehicle, aircraft, merchandise, or baggage is forfeited to the United States and is thereafter, in lieu of sale—
     - **(A)** destroyed under the customs or navigation laws, or
     - **(B)** delivered to any governmental agency for official use, and
-  - **(2)** any person would be eligible to receive an award under subsection (a) of this section but for the lack of sale of such forfeited property,
+  - **(2)** any person would be eligible to receive an award under subsection (a) but for the lack of sale of such forfeited property,
 - **(c)** The amount awarded and paid to any person under this section may not exceed $250,000 for any case.
 - **(d)** Unless otherwise provided by law, any amount paid under this section shall be paid out of appropriations available for the collection of the customs revenue.
 - **(e)** For purposes of this section, an amount recovered under a bail bond shall be deemed a recovery of a fine incurred.

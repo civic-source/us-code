@@ -3,9 +3,9 @@ title: "Section 1507 - Construction and preemption"
 usc_title: 6
 usc_section: "1507"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "6 U.S.C. § 1507"
-generated_at: "2026-03-29T02:10:05.097Z"
+generated_at: "2026-03-29T18:23:35.795Z"
 ---
 
 # § 1507. Construction and preemption
@@ -41,5 +41,5 @@ generated_at: "2026-03-29T02:10:05.097Z"
   - **(1)** to authorize the promulgation of any regulations not specifically authorized to be issued under this subchapter;
   - **(2)** to establish or limit any regulatory authority not specifically established or limited under this subchapter; or
   - **(3)** to authorize regulatory actions that would duplicate or conflict with regulatory requirements, mandatory standards, or related processes under another provision of Federal law.
-- **(m)** Nothing in this subchapter shall be construed to limit the authority of the Secretary of Defense under section 394 of title 10 .
+- **(m)** Nothing in this subchapter shall be construed to limit the authority of the Secretary of Defense under section 130g of title 10 .
 - **(n)** Nothing in this subchapter shall be construed to prevent the disclosure of a cyber threat indicator or defensive measure shared under this subchapter in a case of criminal prosecution, when an applicable provision of Federal, State, tribal, or local law requires disclosure in such case.

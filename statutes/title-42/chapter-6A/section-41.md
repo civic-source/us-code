@@ -3,9 +3,9 @@ title: "Section 41 - Payment of claims"
 usc_title: 42
 usc_section: "41"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 41"
-generated_at: "2026-03-29T18:07:13.665Z"
+generated_at: "2026-03-29T18:27:02.850Z"
 ---
 
 # § 300mm–41. Payment of claims
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T18:07:13.665Z"
 - **(d)**
   - **(1)**
     - **(A)** No funds may be disbursed from the World Trade Center Health Program Fund under section 300mm–61 of this title unless New York City has entered into a contract with the WTC Program Administrator under which New York City agrees, in a form and manner specified by the Administrator, to pay the full contribution described in subparagraph (B) in accordance with this subsection on a timely basis, plus any interest owed pursuant to subparagraph (E)(i). Such contract shall specify the terms under which New York City shall be considered to have made the full payment required for a quarter for purposes of subsection (b)(2).
-    - **(B)** Under such contract, with respect to the last calendar quarter of fiscal year 2011 and each calendar quarter in fiscal years 2012 through 2015 the full contribution amount under this subparagraph shall be equal to 10 percent of the expenditures in carrying out this subchapter for the respective quarter and with respect to calendar quarters in fiscal year 2016, such full contribution amount shall be equal to ⅑ of the Federal expenditures in carrying out this subchapter for the respective quarter.
+    - **(B)** Under such contract, with respect to each calendar quarter of fiscal year 2016 and of each subsequent fiscal year through fiscal year 2090, the full contribution amount under this subparagraph shall be equal to 10 percent of the expenditures in carrying out this subchapter for the respective quarter.
     - **(C)** The payment obligation under such contract may not be satisfied through any of the following:
       - **(i)** An amount derived from Federal sources.
       - **(ii)** An amount paid before January 2, 2011 .

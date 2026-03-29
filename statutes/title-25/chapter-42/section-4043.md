@@ -3,9 +3,9 @@ title: "Section 4043 - Authorities and functions of Special Trustee"
 usc_title: 25
 usc_section: "4043"
 chapter: 42
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 4043"
-generated_at: "2026-03-29T18:05:17.252Z"
+generated_at: "2026-03-29T18:25:23.815Z"
 ---
 
 # § 4043. Authorities and functions of Special Trustee
@@ -48,4 +48,4 @@ generated_at: "2026-03-29T18:05:17.252Z"
     - **(E)** No program manager shall submit, and no official of the Department of the Interior may approve or otherwise authorize, a reprogramming or transfer request with respect to any funds appropriated for trust management which is included in the Trust Management Program Budget unless such request has been approved by the Special Trustee.
 - **(d)** The Special Trustee shall provide such guidance as necessary to assist Department personnel in identifying problems and options for resolving problems, and in implementing reforms to Department, Bureau, Bureau of Land Management, and Minerals Management Service policies, procedures, systems and practices.
 - **(e)** The Special Trustee, and his staff, shall have access to all records, reports, audits, reviews, documents, papers, recommendations, files and other material, as well as to any officer and employee, of the Department and any office or bureau thereof, as the Special Trustee deems necessary for the accomplishment of his duties under this chapter.
-- **(f)** The Special Trustee shall report to the Secretary and the Committee on Natural Resources of the House of Representatives and the Committee on Indian Affairs of the Senate each year on the progress of the Department, the Bureau, the Bureau of Land Management, and the Minerals Management Service in implementing the reforms identified in the comprehensive strategic plan under subsection (a)(1) of this section and in meeting the timetable established in the strategic plan under subsection (a)(2)(C) of this section.
+- **(f)** The Special Trustee shall report to the Secretary and the Committee on Natural Resources of the House of Representatives and the Committee on Indian Affairs of the Senate each year on the progress of the Department, the Bureau, the Bureau of Land Management, and the Minerals Management Service in implementing the reforms identified in the comprehensive strategic plan under subsection (a)(1) and in meeting the timetable established in the strategic plan under subsection (a)(2)(C).

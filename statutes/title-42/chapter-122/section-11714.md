@@ -3,9 +3,9 @@ title: "Section 11714 - Severability"
 usc_title: 42
 usc_section: "11714"
 chapter: 122
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 11714"
-generated_at: "2026-03-29T18:07:15.204Z"
+generated_at: "2026-03-29T18:27:04.035Z"
 ---
 
 # § 11714. Severability

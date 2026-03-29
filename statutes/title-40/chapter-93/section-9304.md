@@ -3,9 +3,9 @@ title: "Section 9304 - Source of appropriations"
 usc_title: 40
 usc_section: "9304"
 chapter: 93
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "40 U.S.C. § 9304"
-generated_at: "2026-03-29T18:06:19.975Z"
+generated_at: "2026-03-29T18:26:04.581Z"
 ---
 
 # § 9304. Source of appropriations

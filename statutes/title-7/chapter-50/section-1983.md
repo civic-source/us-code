@@ -3,9 +3,9 @@ title: "Section 1983 - Special conditions and limitations on loans"
 usc_title: 7
 usc_section: "1983"
 chapter: 50
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 1983"
-generated_at: "2026-03-29T18:04:04.913Z"
+generated_at: "2026-03-29T18:23:43.326Z"
 ---
 
 # § 1983. Special conditions and limitations on loans
@@ -18,7 +18,7 @@ In connection with loans made or insured under this chapter, the Secretary shall
     - **(B)** an annual review of the continued eligibility of the borrower for the loan;
   - **(3)** except for guaranteed loans, require an agreement by the borrower that if at any time it shall appear to the Secretary that the borrower may be able to obtain a loan from a production credit association, a Federal land bank, or other responsible cooperative or private credit source (or, in the case of a borrower under section 1934 of this title , the borrower may be able to obtain a loan under section 1922 of this title ), at reasonable rates and terms for loans for similar purposes and periods of time, the borrower will, upon request by the Secretary, apply for and accept such loan in sufficient amount to repay the Secretary or the insured lender, or both, and to pay for any stock necessary to be purchased in a cooperative lending agency in connection with such loan;
   - **(4)** require such provision for supervision of the borrower’s operations as the Secretary shall deem necessary to achieve the objectives of the loan and protect the interests of the United States;
-  - **(5)** require the application of a person who is a veteran of any war, as defined in section 101(12) of title 38 , for a loan under subchapter I or II of this chapter to be given preference over a similar application from a person who is not a veteran of any war, if the applications are on file in a county or area office at the same time; and
+  - **(5)** require the application of a person who is a veteran of any war, as defined in section 101(12) of title 38 , for a loan under subchapter I or II to be given preference over a similar application from a person who is not a veteran of any war, if the applications are on file in a county or area office at the same time; and
   - **(6)** in the case of water and waste disposal direct and guaranteed loans provided under section 1926 of this title , encourage, to the maximum extent practicable, private or cooperative lenders to finance rural water and waste disposal facilities by—
     - **(A)** maximizing the use of loan guarantees to finance eligible projects in rural communities in which the population exceeds 5,500;
     - **(B)** maximizing the use of direct loans to finance eligible projects in rural communities if the impact on ratepayers will be material when compared to financing with a loan guarantee;

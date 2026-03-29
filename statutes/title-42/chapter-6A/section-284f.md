@@ -3,16 +3,16 @@ title: "Section 284f - Parkinson’s disease"
 usc_title: 42
 usc_section: "284f"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 284f"
-generated_at: "2026-03-29T18:07:13.395Z"
+generated_at: "2026-03-29T18:27:02.632Z"
 ---
 
 # § 284f. Parkinson’s disease
 
 - **(a)** The Director of NIH shall establish a program for the conduct and support of research and training with respect to Parkinson’s disease (subject to the extent of amounts appropriated to carry out this section).
 - **(b)**
-  - **(1)** The Director of NIH shall provide for the coordination of the program established under subsection (a) of this section among all of the national research institutes conducting Parkinson’s disease research.
+  - **(1)** The Director of NIH shall provide for the coordination of the program established under subsection (a) among all of the national research institutes conducting Parkinson’s disease research.
   - **(2)** Coordination under paragraph (1) shall include the convening of a research planning conference not less frequently than once every 2 years. Each such conference shall prepare and submit to the Committee on Appropriations and the Committee on Labor and Human Resources of the Senate and the Committee on Appropriations and the Committee on Commerce of the House of Representatives a report concerning the conference.
 - **(c)**
   - **(1)** The Director of NIH is authorized to award Core Center Grants to encourage the development of innovative multidisciplinary research and provide training concerning Parkinson’s disease. The Director is authorized to award not more than 10 Core Center Grants and designate each center funded under such grants as a Morris K. Udall Center for Research on Parkinson’s Disease.

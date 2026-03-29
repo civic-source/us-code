@@ -3,9 +3,9 @@ title: "Section 4685 - Obsolete ordnance: loan to educational institutions and S
 usc_title: 10
 usc_section: "4685"
 chapter: 443
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 4685"
-generated_at: "2026-03-29T18:04:13.245Z"
+generated_at: "2026-03-29T18:23:52.036Z"
 ---
 
 # § 4685. Obsolete ordnance: loan to educational institutions and State soldiers and sailors’ orphans’ homes

@@ -3,9 +3,9 @@ title: "Section 111 - Recovery of tax benefit items"
 usc_title: 26
 usc_section: "111"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 111"
-generated_at: "2026-03-29T18:05:44.475Z"
+generated_at: "2026-03-29T18:25:53.425Z"
 ---
 
 # § 111. Recovery of tax benefit items

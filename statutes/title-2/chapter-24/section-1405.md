@@ -3,9 +3,9 @@ title: "Section 1405 - Complaint and hearing"
 usc_title: 2
 usc_section: "1405"
 chapter: 24
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "2 U.S.C. § 1405"
-generated_at: "2026-03-29T18:03:21.791Z"
+generated_at: "2026-03-29T18:23:14.112Z"
 ---
 
 # § 1405. Complaint and hearing
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T18:03:21.791Z"
     - **(B)** individuals expert in technical matters relating to accessibility and usability by persons with disabilities or technical matters relating to occupational safety and health.
 - **(d)** Unless a complaint is dismissed before a hearing, a hearing shall be—
   - **(1)** conducted in closed session on the record by the hearing officer;
-  - **(2)** commenced no later than 60 days after filing of the complaint under subsection (a) of this section, except that the Office may, for good cause, extend up to an additional 30 days the time for commencing a hearing; and
+  - **(2)** commenced no later than 60 days after filing of the complaint under subsection (a), except that the Office may, for good cause, extend up to an additional 30 days the time for commencing a hearing; and
   - **(3)** conducted, except as specifically provided in this chapter and to the greatest extent practicable, in accordance with the principles and procedures set forth in sections 554 through 557 of title 5.
 - **(e)** Reasonable prehearing discovery may be permitted at the discretion of the hearing officer.
 - **(f)**
@@ -30,5 +30,5 @@ generated_at: "2026-03-29T18:03:21.791Z"
   - **(3)**
     - **(A)** If a person fails to comply with a subpoena, the Board may authorize the General Counsel to apply, in the name of the Office, to an appropriate United States district court for an order requiring that person to appear before the hearing officer to give testimony or produce records. The application may be made within the judicial district where the hearing is conducted or where that person is found, resides, or transacts business. Any failure to obey a lawful order of the district court issued pursuant to this section may be held by such court to be a civil contempt thereof.
     - **(B)** Process in an action or contempt proceeding pursuant to subparagraph (A) may be served in any judicial district in which the person refusing or failing to comply, or threatening to refuse or not to comply, resides, transacts business, or may be found, and subpoenas for witnesses who are required to attend such proceedings may run into any other district.
-- **(g)** The hearing officer shall issue a written decision as expeditiously as possible, but in no case more than 90 days after the conclusion of the hearing. The written decision shall be transmitted by the Office to the parties. The decision shall state the issues raised in the complaint, describe the evidence in the record, contain findings of fact and conclusions of law, contain a determination of whether a violation has occurred, and order such remedies as are appropriate pursuant to subchapter II of this chapter. The decision shall be entered in the records of the Office. If a decision is not appealed under section 1406 of this title to the Board, the decision shall be considered the final decision of the Office.
+- **(g)** The hearing officer shall issue a written decision as expeditiously as possible, but in no case more than 90 days after the conclusion of the hearing. The written decision shall be transmitted by the Office to the parties. The decision shall state the issues raised in the complaint, describe the evidence in the record, contain findings of fact and conclusions of law, contain a determination of whether a violation has occurred, and order such remedies as are appropriate pursuant to subchapter II. The decision shall be entered in the records of the Office. If a decision is not appealed under section 1406 of this title to the Board, the decision shall be considered the final decision of the Office.
 - **(h)** A hearing officer who conducts a hearing under this section shall be guided by judicial decisions under the laws made applicable by section 1302 of this title and by Board decisions under this chapter.

@@ -3,9 +3,9 @@ title: "Section 10362 - Definitions"
 usc_title: 42
 usc_section: "10362"
 chapter: 109
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 10362"
-generated_at: "2026-03-29T18:07:15.140Z"
+generated_at: "2026-03-29T18:27:03.985Z"
 ---
 
 # § 10362. Definitions
@@ -27,7 +27,7 @@ In this section: 1 1 So in original. Probably should be a reference to this chap
     - **(C)** the Southwestern Power Administration; and
     - **(D)** the Western Area Power Administration.
   - **(9)** The term “hydrologic accounting unit” means 1 of the 352 river basin hydrologic accounting units used by the United States Geological Survey.
-  - **(10)** The term “Indian tribe” has the meaning given the term in section 450b of title 25 .
+  - **(10)** The term “Indian tribe” has the meaning given the term in section 5304 of title 25 .
   - **(11)** The term “major aquifer system” means a groundwater system that is—
     - **(A)** identified as a significant groundwater system by the Director; and
     - **(B)** included in the Groundwater Atlas of the United States, published by the United States Geological Survey.

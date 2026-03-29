@@ -3,9 +3,9 @@ title: "Section 70105 - Transportation security cards"
 usc_title: 46
 usc_section: "70105"
 chapter: 701
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "46 U.S.C. § 70105"
-generated_at: "2026-03-29T18:07:34.420Z"
+generated_at: "2026-03-29T18:27:18.939Z"
 ---
 
 # § 70105. Transportation security cards
@@ -61,7 +61,7 @@ generated_at: "2026-03-29T18:07:34.420Z"
       - **(xii)** Robbery.
       - **(xiii)** Conspiracy or attempt to commit any of the crimes listed in this subparagraph.
       - **(xiv)** Fraudulent entry into a seaport in violation of section 1036 of title 18 , or a comparable State law.
-      - **(xv)** A violation of the chapter 96 of title 18, popularly known as the Racketeer Influenced and Corrupt Organizations Act 1 1 So in original. Probably should be followed by a comma. or a comparable State law, other than any of the violations listed in subparagraph (A)(x).
+      - **(xv)** A violation of the chapter 96 of title 18 (popularly known as the Racketeer Influenced and Corrupt Organizations Act) or a comparable State law, other than any of the violations listed in subparagraph (A)(x).
     - **(C)** An applicant who is wanted, or under indictment, in any civilian or military jurisdiction for a felony listed in paragraph (1)(A), is disqualified from being issued a biometric transportation security card under subsection (b) until the want or warrant is released or the indictment is dismissed.
     - **(D)** Except as provided under subparagraphs (A) through (C), an individual may not be denied a transportation security card under subsection (b) unless the Secretary determines that individual—
       - **(i)** has been convicted within the preceding 7-year period of a felony or found not guilty by reason of insanity of a felony—
@@ -71,7 +71,7 @@ generated_at: "2026-03-29T18:07:34.420Z"
       - **(iii)** may be denied admission to the United States or removed from the United States under the Immigration and Nationality Act ( 8 U.S.C. 1101 et seq.); or
       - **(iv)** otherwise poses a terrorism security risk to the United States.
     - **(E)** The Secretary may, by rulemaking, add to or modify the list of disqualifying crimes described in paragraph (1)(B).
-  - **(2)** The Secretary shall prescribe regulations that establish a waiver process for issuing a transportation security card to an individual found to be otherwise ineligible for such a card under subparagraph (A), (B), or (D) 2 2 So in original. Probably should be followed by “of”. paragraph (1). In deciding to issue a card to such an individual, the Secretary shall—
+  - **(2)** The Secretary shall prescribe regulations that establish a waiver process for issuing a transportation security card to an individual found to be otherwise ineligible for such a card under subparagraph (A), (B), or (D) of paragraph (1). In deciding to issue a card to such an individual, the Secretary shall—
     - **(A)** give consideration to the circumstances of any disqualifying act or offense, restitution made by the individual, Federal and State mitigation remedies, and other factors from which it may be concluded that the individual does not pose a terrorism risk warranting denial of the card; and
     - **(B)** issue a waiver to an individual without regard to whether that individual would otherwise be disqualified if the individual’s employer establishes alternate security arrangements acceptable to the Secretary.
   - **(3)**

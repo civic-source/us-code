@@ -3,9 +3,9 @@ title: "Section 36b - Mental and behavioral health services on campus"
 usc_title: 42
 usc_section: "36b"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 36b"
-generated_at: "2026-03-29T18:07:13.449Z"
+generated_at: "2026-03-29T18:27:02.671Z"
 ---
 
 # § 290bb–36b. Mental and behavioral health services on campus
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T18:07:13.449Z"
   - **(4)** A plan to evaluate program outcomes, including a description of the proposed use of funds, the program objectives, and how the objectives will be met.
   - **(5)** An assurance that the institution will submit a report to the Secretary each fiscal year on the activities carried out with the grant and the results achieved through those activities.
 - **(e)**
-  - **(1)** The Secretary may make a grant under this section to an institution of higher education only if the institution agrees to make available (directly or through donations from public or private entities) non-Federal contributions in an amount that is not less than $1 for each $1 of Federal funds provided in the grant, toward the costs of activities carried out with the grant (as described in subsection (b) of this section) and other activities by the institution to reduce student mental and behavioral health problems.
+  - **(1)** The Secretary may make a grant under this section to an institution of higher education only if the institution agrees to make available (directly or through donations from public or private entities) non-Federal contributions in an amount that is not less than $1 for each $1 of Federal funds provided in the grant, toward the costs of activities carried out with the grant (as described in subsection (b)) and other activities by the institution to reduce student mental and behavioral health problems.
   - **(2)** Non-Federal contributions required under paragraph (1) may be in cash or in kind. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
   - **(3)** The Secretary may waive the requirement established in paragraph (1) with respect to an institution of higher education if the Secretary determines that extraordinary need at the institution justifies the waiver.
 - **(f)** For each fiscal year that grants are awarded under this section, the Secretary shall conduct a study on the results of the grants and submit to the Congress a report on such results that includes the following:

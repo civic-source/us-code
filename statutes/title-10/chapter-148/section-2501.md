@@ -3,16 +3,16 @@ title: "Section 2501 - National security strategy for national technology and in
 usc_title: 10
 usc_section: "2501"
 chapter: 148
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2501"
-generated_at: "2026-03-29T18:04:13.180Z"
+generated_at: "2026-03-29T18:23:51.968Z"
 ---
 
 # § 2501. National security strategy for national technology and industrial base
 
 - **(a)** The Secretary of Defense shall develop a national security strategy for the national technology and industrial base. Such strategy shall be based on a prioritized assessment of risks and challenges to the defense supply chain and shall ensure that the national technology and industrial base is capable of achieving the following national security objectives:
   - **(1)** Supplying, equipping, and supporting the force structure of the armed forces that is necessary to achieve—
-    - **(A)** the objectives set forth in the national security strategy report submitted to Congress by the President pursuant to section 108 of the National Security Act of 1947 ( 50 U.S.C. 404a ); 1 1 See References in Text note below.
+    - **(A)** the objectives set forth in the national security strategy report submitted to Congress by the President pursuant to section 108 of the National Security Act of 1947 ( 50 U.S.C. 3043 );
     - **(B)** the policy guidance of the Secretary of Defense provided pursuant to section 113(g) of this title ; and
     - **(C)** the future-years defense program submitted to Congress by the Secretary of Defense pursuant to section 221 of this title .
   - **(2)** Sustaining production, maintenance, repair, logistics, and other activities in support of military operations of various durations and intensity.

@@ -3,9 +3,9 @@ title: "Section 401 - Humanitarian and civic assistance provided in conjunction 
 usc_title: 10
 usc_section: "401"
 chapter: 20
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 401"
-generated_at: "2026-03-29T18:04:12.980Z"
+generated_at: "2026-03-29T18:23:51.737Z"
 ---
 
 # § 401. Humanitarian and civic assistance provided in conjunction with military operations
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T18:04:12.980Z"
 - **(b)** Humanitarian and civic assistance may not be provided under this section to any foreign country unless the Secretary of State specifically approves the provision of such assistance.
 - **(c)**
   - **(1)** Expenses incurred as a direct result of providing humanitarian and civic assistance under this section to a foreign country shall be paid for out of funds specifically appropriated for such purpose.
-  - **[(2)** , (3) Repealed. Pub. L. 109–364, div. A, title XII, § 1203(a)(3) , Oct. 17, 2006 , 120 Stat. 2413 .]
+  - **[(2)** , (3) Repealed. Pub. L. 109–364, div. A, title XII , § 1203(a)(3), Oct. 17, 2006 , 120 Stat. 2413 .]
   - **(4)** Nothing in this section may be interpreted to preclude the incurring of minimal expenditures by the Department of Defense for purposes of humanitarian and civic assistance out of funds other than funds appropriated pursuant to paragraph (1), except that funds appropriated to the Department of Defense for operation and maintenance (other than funds appropriated pursuant to such paragraph) may be obligated for humanitarian and civic assistance under this section only for incidental costs of carrying out such assistance.
 - **(d)** The Secretary of Defense shall submit to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives a report, not later than March 1 of each year, on activities carried out under this section during the preceding fiscal year. The Secretary shall include in each such report—
   - **(1)** a list of the countries in which humanitarian and civic assistance activities were carried out during the preceding fiscal year;

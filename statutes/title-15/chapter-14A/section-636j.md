@@ -3,9 +3,9 @@ title: "Section 636j - Expedited disaster assistance loan program"
 usc_title: 15
 usc_section: "636j"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 636j"
-generated_at: "2026-03-29T18:04:29.454Z"
+generated_at: "2026-03-29T18:24:08.360Z"
 ---
 
 # § 636j. Expedited disaster assistance loan program

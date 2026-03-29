@@ -3,9 +3,9 @@ title: "Section 907a - Suspension in event of war or low growth"
 usc_title: 2
 usc_section: "907a"
 chapter: 20
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "2 U.S.C. § 907a"
-generated_at: "2026-03-29T18:03:21.774Z"
+generated_at: "2026-03-29T18:23:14.098Z"
 ---
 
 # § 907a. Suspension in event of war or low growth
@@ -26,10 +26,10 @@ generated_at: "2026-03-29T18:03:21.774Z"
       - **(iii)** Debate in the Senate on any debatable motion or appeal in connection with a joint resolution under this paragraph shall be limited to not more than one hour, to be equally divided between, and controlled by, the mover and the manager of the joint resolution, except that in the event the manager of the joint resolution is in favor of any such motion or appeal, the time in opposition thereto shall be controlled by the minority leader or his designee.
       - **(iv)** A motion in the Senate to further limit debate on a joint resolution under this paragraph is not debatable. A motion to table or to recommit a joint resolution under this paragraph is not in order.
     - **(C)** No amendment to a joint resolution considered under this paragraph shall be in order in the Senate.
-- **(b)** Upon the enactment of a declaration of war or a joint resolution described in subsection (a) of this section—
+- **(b)** Upon the enactment of a declaration of war or a joint resolution described in subsection (a)—
   - **(1)** the subsequent issuance of any sequestration report or any sequestration order is precluded;
   - **(2)** sections 302(f), 310(d), 311(a), and title VI 1 of the Congressional Budget Act of 1974 [ 2 U.S.C. 633(f) , 641(d), 642(a)] are suspended; and
   - **(3)** section 1103 of title 31 is suspended.
 - **(c)**
-  - **(1)** In the event of a suspension of sequestration procedures due to a declaration of war, then, effective with the first fiscal year that begins in the session after the state of war is concluded by Senate ratification of the necessary treaties, the provisions of subsection (b) of this section triggered by that declaration of war are no longer effective.
-  - **(2)** In the event of a suspension of sequestration procedures due to the enactment of a joint resolution described in subsection (a) of this section, then, effective with regard to the first fiscal year beginning at least 12 months after the enactment of that resolution, the provisions of subsection (b) of this section triggered by that resolution are no longer effective.
+  - **(1)** In the event of a suspension of sequestration procedures due to a declaration of war, then, effective with the first fiscal year that begins in the session after the state of war is concluded by Senate ratification of the necessary treaties, the provisions of subsection (b) triggered by that declaration of war are no longer effective.
+  - **(2)** In the event of a suspension of sequestration procedures due to the enactment of a joint resolution described in subsection (a), then, effective with regard to the first fiscal year beginning at least 12 months after the enactment of that resolution, the provisions of subsection (b) triggered by that resolution are no longer effective.

@@ -1,14 +1,12 @@
 ---
-title: "Section 1746 - Scope of rights or interests granted to Miccosukee Tribe; scope of civil and criminal jurisdiction of State of Florida"
+title: "Section 1746 - Omitted"
 usc_title: 25
 usc_section: "1746"
 chapter: 19
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1746"
-generated_at: "2026-03-29T18:05:17.176Z"
+generated_at: "2026-03-29T18:25:23.751Z"
 ---
 
-# § 1746. Scope of rights or interests granted to Miccosukee Tribe; scope of civil and criminal jurisdiction of State of Florida
-
-Nothing in this part shall grant to the Miccosukee Tribe any greater rights or interests in the leased area other than those expressly set forth in the Lease Agreement, and, notwithstanding any other provision of this part, nothing in this part shall diminish, modify, or otherwise affect the extent of the civil and criminal jurisdiction of the State of Florida in the leased area.
+# § 1746. Omitted
 

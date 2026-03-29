@@ -3,9 +3,9 @@ title: "Section 3057b - Findings"
 usc_title: 42
 usc_section: "3057b"
 chapter: 35
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 3057b"
-generated_at: "2026-03-29T18:07:14.496Z"
+generated_at: "2026-03-29T18:27:03.498Z"
 ---
 
 # § 3057b. Findings
@@ -20,4 +20,4 @@ generated_at: "2026-03-29T18:07:14.496Z"
   - **(7)** frequently live in substandard and over-crowded housing;
   - **(8)** receive less than adequate health care;
   - **(9)** are served under this subchapter at a rate of less than 19 percent of the total national population of older individuals who are Indians living on Indian reservations; and
-  - **(10)** are served under subchapter III of this chapter at a rate of less than 1 percent of the total participants under that subchapter.
+  - **(10)** are served under subchapter III at a rate of less than 1 percent of the total participants under that subchapter.

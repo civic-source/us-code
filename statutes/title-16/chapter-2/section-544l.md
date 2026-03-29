@@ -3,9 +3,9 @@ title: "Section 544l - Implementation measures"
 usc_title: 16
 usc_section: "544l"
 chapter: 2
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 544l"
-generated_at: "2026-03-29T18:05:06.758Z"
+generated_at: "2026-03-29T18:24:22.650Z"
 ---
 
 # § 544l. Implementation measures
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T18:05:06.758Z"
     - **(A)** not less than 50 per centum shall be expended for the benefit of the public schools of the county which has adopted implementation measures pursuant to sections 544 to 544p of this title; and
     - **(B)** the remainder shall be expended for the benefit of public roads or any public purposes of any county which has adopted implementation measures pursuant to sections 544 to 544p of this title.
   - **(2)** Paragraph (1) of this subsection shall not apply—
-    - **(A)** to any amount paid by the Secretary of the Treasury under the provisions of law referred to in subsection (b)(1) of this section at the end of any fiscal year ending before November 17, 1986 ; or
+    - **(A)** to any amount paid by the Secretary of the Treasury under the provisions of law referred to in subsection (b)(1) at the end of any fiscal year ending before November 17, 1986 ; or
     - **(B)** for a particular county, if the county does not have in effect a land use ordinance which has been found consistent by the Commission and concurred on by the Secretary pursuant to section 544f of this title .
 - **(c)**
   - **(1)** Subject to section 544n(b) of this title , in the case of any land or interest therein acquired by the Secretary pursuant to section 544g of this title , which was subject to local real property taxes within the five years preceding such acquisition and which is located in a county which has in effect a land use ordinance which has been found consistent by the Commission and concurred on by the Secretary pursuant to section 544f of this title , the Secretary is authorized and directed to make annual payments to the county in which such lands are located in an amount equal to 1 per centum of the fair market value of such land or interest therein on the date of acquisition by the Secretary.
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T18:05:06.758Z"
   - **(3)**
     - **(A)** Except as provided in subparagraph (B), no payment shall be made under this subsection with respect to any land or interest therein after the eighth full fiscal year beginning after the first fiscal year in which such a payment was made with respect to such land or interest therein.
     - **(B)** For any land or interest in land for which the Secretary is making a payment in fiscal year 2000, such payment shall be continued for a total of eight fiscal years.
-- **(d)** Except as otherwise provided in subsection (e) of this section or in section 544 o of this title, Federal agencies having responsibilities within the scenic area shall exercise such responsibilities consistent with the provisions of sections 544 to 544p of this title as determined by the Secretary.
+- **(d)** Except as otherwise provided in subsection (e) or in section 544 o of this title, Federal agencies having responsibilities within the scenic area shall exercise such responsibilities consistent with the provisions of sections 544 to 544p of this title as determined by the Secretary.
 - **(e)**
   - **(1)** Except as provided in paragraph (3), if the Commission has not been established pursuant to section 544c of this title within fifteen months after November 17, 1986 , or is otherwise disestablished for any reason, no new expenditures or new financial assistance may be made available, and no new license or new permit, or exemption from a license or permit requirement, shall be issued, under authority of any Federal law for any activity within the scenic area, excluding urban areas, which the Secretary, 1 1 So in original. The comma probably should not appear. determines is inconsistent with any implementation measure pursuant to, the standards established in section 544d(b) of this title , or the purposes of sections 544 to 544p of this title.
   - **(2)**
@@ -41,7 +41,7 @@ generated_at: "2026-03-29T18:05:06.758Z"
     - **(D)** Any of the following actions or projects, but only if the making available of expenditures or assistance therefor is consistent with the standards in section 544d(b) of this title and the purposes of sections 544 to 544p of this title:
       - **(i)** Projects for the study, management, protection and enhancement of fish and wildlife resources and habitats, including, but not limited to, acquisition of fish and wildlife habitats and related lands, stabilization projects for fish and wildlife habitats, and recreational projects.
       - **(ii)** The establishment, operation, and maintenance of air and water navigation aids and devices, and for access thereto.
-      - **(iii)** Projects under the Land and Water Conservation Fund Act of 1965 ( 16 U.S.C. 460 l –4 through 11) and the Coastal Zone Management Act of 1972 ( 16 U.S.C. 1451 et seq.).
+      - **(iii)** Projects under chapter 2003 of title 54 and the Coastal Zone Management Act of 1972 ( 16 U.S.C. 1451 et seq.).
       - **(iv)** Scientific research, including but not limited to aeronautical, atmospheric, space, geologic, marine, fish and wildlife, and other research, development, and applications.
       - **(v)** Assistance for emergency actions essential to the saving of lives and the protection of property and the public health and safety, if such actions are performed pursuant to sections 305 and 306 of the Disaster Relief Act of 1974 ( 42 U.S.C. 5145 and 5146) 2 2 See References in Text note below. and section 1362 of the National Flood Insurance Act of 1968 ( 42 U.S.C. 4103 ) 2 and are limited to actions that are necessary to alleviate the emergency.
       - **(vi)** The maintenance, replacement, reconstruction, or repair, but not the expansion, of publicly owned or publicly operated roads, structures, or facilities. This clause shall not apply to roads, structures, or facilities referred to in paragraph (3)(B).

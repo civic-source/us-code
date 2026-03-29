@@ -3,9 +3,9 @@ title: "Section 664 - Charitable remainder trusts"
 usc_title: 26
 usc_section: "664"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 664"
-generated_at: "2026-03-29T18:05:44.682Z"
+generated_at: "2026-03-29T18:25:53.631Z"
 ---
 
 # § 664. Charitable remainder trusts
@@ -39,7 +39,7 @@ generated_at: "2026-03-29T18:05:44.682Z"
   - **(4)** If—
     - **(A)** any contribution is made to a trust which before the contribution is a charitable remainder unitrust, and
     - **(B)** such contribution would (but for this paragraph) result in such trust ceasing to be a charitable unitrust by reason of paragraph (2)(D),
-- **(e)** For purposes of determining the amount of any charitable contribution, the remainder interest of a charitable remainder annuity trust or charitable remainder unitrust shall be computed on the basis that an amount equal to 5 percent of the net fair market value of its assets (or a greater amount, if required under the terms of the trust instrument) is to be distributed each year.
+- **(e)** For purposes of determining the amount of any charitable contribution, the remainder interest of a charitable remainder annuity trust or charitable remainder unitrust shall be computed on the basis that an amount equal to 5 percent of the net fair market value of its assets (or a greater amount, if required under the terms of the trust instrument) is to be distributed each year. In the case of the early termination of a trust which is a charitable remainder unitrust by reason of subsection (d)(3), the valuation of interests in such trust for purposes of this section shall be made under rules similar to the rules of the preceding sentence.
 - **(f)**
   - **(1)** If a trust would, but for a qualified contingency, meet the requirements of paragraph (1)(A) or (2)(A) of subsection (d), such trust shall be treated as meeting such requirements.
   - **(2)** For purposes of determining the amount of any charitable contribution (or the actuarial value of any interest), a qualified contingency shall not be taken into account.

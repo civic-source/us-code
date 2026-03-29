@@ -3,9 +3,9 @@ title: "Section 1701 - Definitions"
 usc_title: 8
 usc_section: "1701"
 chapter: 15
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "8 U.S.C. § 1701"
-generated_at: "2026-03-29T18:03:34.108Z"
+generated_at: "2026-03-29T18:23:33.994Z"
 ---
 
 # § 1701. Definitions
@@ -31,5 +31,5 @@ In this chapter:
     - **(K)** The United States Customs Service.
     - **(L)** The National Park Service.
   - **(5)** The term “intelligence community” has the meaning given that term in section 3003(4) of title 50 .
-  - **(6)** The term “President” means the President of the United States, acting through the Assistant to the President for Homeland Security, in coordination with the Secretary of State, the Commissioner of Immigration and Naturalization, the Attorney General, the Director of Central Intelligence, the Director of the Federal Bureau of Investigation, the Secretary of Transportation, the Commissioner of Customs, and the Secretary of the Treasury.
+  - **(6)** The term “President” means the President of the United States, acting through the Assistant to the President for Homeland Security, in coordination with the Secretary of State, the Commissioner of Immigration and Naturalization, the Attorney General, the Director of Central Intelligence, the Director of the Federal Bureau of Investigation, the Secretary of Transportation, the Commissioner of U.S. Customs and Border Protection, and the Secretary of the Treasury.
   - **(7)** The term “USA PATRIOT Act” means the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001 ( Public Law 107–56 ).

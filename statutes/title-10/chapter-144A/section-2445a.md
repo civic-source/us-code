@@ -3,9 +3,9 @@ title: "Section 2445a - Definitions"
 usc_title: 10
 usc_section: "2445a"
 chapter: 144
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2445a"
-generated_at: "2026-03-29T18:04:13.170Z"
+generated_at: "2026-03-29T18:23:51.958Z"
 ---
 
 # § 2445a. Definitions
@@ -23,3 +23,4 @@ generated_at: "2026-03-29T18:04:13.170Z"
   - **(2)** Any other investment in automated information system products or services that is expected to exceed the thresholds established in subsection (a), as adjusted under subsection (b), but is not considered to be a major automated information system program because a formal acquisition decision has not yet been made with respect to such investment.
 - **(e)** In this chapter, the term “full deployment decision” means, with respect to a major automated information system program, the final decision made by the Milestone Decision Authority authorizing an increment of the program to deploy software for operational use.
 - **(f)** In this chapter, the term “full deployment” means, with respect to a major automated information system program, the fielding of an increment of the program in accordance with the terms of a full deployment decision.
+- **(g)** In this chapter, the term “extension of a program” means, with respect to a major automated information system program or other major information technology investment program, the further deployment or planned deployment to additional users of the system which has already been found operationally effective and suitable by an independent test agency or the Director of Operational Test and Evaluation, beyond the scope planned in the original estimate or information originally submitted on the program.

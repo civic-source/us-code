@@ -3,9 +3,9 @@ title: "Section 297a - Student loan fund"
 usc_title: 42
 usc_section: "297a"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 297a"
-generated_at: "2026-03-29T18:07:13.491Z"
+generated_at: "2026-03-29T18:27:02.706Z"
 ---
 
 # § 297a. Student loan fund

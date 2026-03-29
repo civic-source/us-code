@@ -1,14 +1,12 @@
 ---
-title: "Section 1281 - Disposition of funds"
+title: "Section 1281 - Omitted"
 usc_title: 25
 usc_section: "1281"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1281"
-generated_at: "2026-03-29T18:05:17.125Z"
+generated_at: "2026-03-29T18:25:23.710Z"
 ---
 
-# § 1281. Disposition of funds
-
-The funds appropriated by the Act of December 26, 1969 ( 83 Stat. 447 ), to pay a judgment to the Havasupai Tribe in Indian Claims Commission docket numbered 91, together with interest thereon, after payment of attorney fees and litigation expenses, may be advanced, expended, invested, or reinvested for any purpose that is authorized by the tribal governing body and approved by the Secretary of the Interior.
+# § 1281. Omitted
 

@@ -3,9 +3,9 @@ title: "Section 4653 - Expenses incidental to transfer of title to United States
 usc_title: 42
 usc_section: "4653"
 chapter: 61
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 4653"
-generated_at: "2026-03-29T18:07:14.614Z"
+generated_at: "2026-03-29T18:27:03.587Z"
 ---
 
 # § 4653. Expenses incidental to transfer of title to United States

@@ -3,9 +3,9 @@ title: "Section 1094 - Provisions of chapter applicable to registrations on supp
 usc_title: 15
 usc_section: "1094"
 chapter: 22
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 1094"
-generated_at: "2026-03-29T18:04:29.531Z"
+generated_at: "2026-03-29T18:24:08.430Z"
 ---
 
 # § 1094. Provisions of chapter applicable to registrations on supplemental register

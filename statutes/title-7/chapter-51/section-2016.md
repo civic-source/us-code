@@ -3,9 +3,9 @@ title: "Section 2016 - Issuance and use of program benefits"
 usc_title: 7
 usc_section: "2016"
 chapter: 51
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 2016"
-generated_at: "2026-03-29T18:04:04.950Z"
+generated_at: "2026-03-29T18:23:43.359Z"
 ---
 
 # § 2016. Issuance and use of program benefits
@@ -144,7 +144,7 @@ generated_at: "2026-03-29T18:04:04.950Z"
   - **(7)** Section 2025(c) of this title shall not apply to benefits issued under this subsection.
 - **(j)**
   - **(1)** In this subsection:
-    - **(A)** The term “electronic benefit transfer card” means a card that provides benefits under this chapter through an electronic benefit transfer service (as defined in subsection (h)(11)(A) of this section).
+    - **(A)** The term “electronic benefit transfer card” means a card that provides benefits under this chapter through an electronic benefit transfer service (as defined in subsection (h)(11)(A)).
     - **(B)** The term “electronic benefit transfer contract” means a contract that provides for the issuance, use, or redemption of program benefits in the form of electronic benefit transfer cards.
     - **(C)** The term “interoperability” means a system that enables program benefits in the form of an electronic benefit transfer card to be redeemed in any State.
     - **(D)** The term “interstate transaction” means a transaction that is initiated in 1 State by the use of an electronic benefit transfer card that is issued in another State.

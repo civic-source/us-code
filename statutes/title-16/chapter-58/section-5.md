@@ -3,9 +3,9 @@ title: "Section 5 - Voluntary public access and habitat incentive program"
 usc_title: 16
 usc_section: "5"
 chapter: 58
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-29T18:05:07.055Z"
+generated_at: "2026-03-29T18:24:22.893Z"
 ---
 
 # § 3839bb–5. Voluntary public access and habitat incentive program
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T18:05:07.055Z"
 - **(c)** In approving applications and awarding grants under the program, the Secretary shall give priority to States and tribal governments that propose—
   - **(1)** to maximize participation by offering a program the terms of which are likely to meet with widespread acceptance among landowners;
   - **(2)** to ensure that land enrolled under the State or tribal government program has appropriate wildlife habitat;
-  - **(3)** to strengthen wildlife habitat improvement efforts on land enrolled in a special conservation reserve enhancement program described in section 3834(f)(4) of this title by providing incentives to increase public hunting and other recreational access on that land;
+  - **(3)** to strengthen wildlife habitat improvement efforts on land enrolled in a special conservation reserve enhancement program described in section 3834(f)(4) 1 1 See References in Text note below. of this title by providing incentives to increase public hunting and other recreational access on that land;
   - **(4)** to use additional Federal, State, tribal government, or private resources in carrying out the program; and
   - **(5)** to make available to the public the location of land enrolled.
 - **(d)**
@@ -27,5 +27,5 @@ generated_at: "2026-03-29T18:05:07.055Z"
   - **(2)** The Secretary shall reduce by 25 percent the amount of a grant otherwise determined for a State under the program if the opening dates for migratory bird hunting in the State are not consistent for residents and non-residents.
 - **(e)** The Secretary shall promulgate such regulations as are necessary to carry out this section.
 - **(f)**
-  - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section, to the maximum extent practicable, $50,000,000 for the period of fiscal years 2009 through 2012.
+  - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section, to the maximum extent practicable, $50,000,000 for the period of fiscal years 2009 through 2012 and $40,000,000 for the period of fiscal years 2014 through 2018.
   - **(2)** There is authorized to be appropriated to carry out this section $10,000,000 for fiscal year 2013.

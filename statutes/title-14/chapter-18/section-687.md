@@ -3,9 +3,9 @@ title: "Section 687 - Coast Guard Housing Fund"
 usc_title: 14
 usc_section: "687"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "14 U.S.C. § 687"
-generated_at: "2026-03-29T18:04:21.496Z"
+generated_at: "2026-03-29T18:23:55.782Z"
 ---
 
 # § 687. Coast Guard Housing Fund
@@ -15,6 +15,8 @@ generated_at: "2026-03-29T18:04:21.496Z"
   - **(1)** Amounts authorized for and appropriated to that Fund.
   - **(2)** Subject to subsection (e), any amounts that the Secretary transfers, in such amounts as provided in appropriation Acts, to that Fund from amounts authorized and appropriated to the Department of Homeland Security or Coast Guard for the acquisition or construction of military family housing or military unaccompanied housing.
   - **(3)** Proceeds from the conveyance of property under section 685 of this title for the purpose of carrying out activities under this chapter with respect to military family housing and military unaccompanied housing.
+  - **(4)** Monies received under section 93(a)(13).
+  - **(5)** Amounts received under section 672a(b).
 - **(c)**
   - **(1)** In such amounts as provided in appropriations Acts, and except as provided in subsection (d), the Secretary may use amounts in the Coast Guard Housing Fund to carry out activities under this chapter with respect to military family housing and military unaccompanied housing, including—
     - **(A)** the planning, execution, and administration of the conveyance of real property;

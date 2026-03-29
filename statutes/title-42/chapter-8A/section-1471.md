@@ -3,9 +3,9 @@ title: "Section 1471 - Financial assistance by Secretary of Agriculture"
 usc_title: 42
 usc_section: "1471"
 chapter: 8
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1471"
-generated_at: "2026-03-29T18:07:14.250Z"
+generated_at: "2026-03-29T18:27:03.316Z"
 ---
 
 # § 1471. Financial assistance by Secretary of Agriculture
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T18:07:14.250Z"
   - **(5)**
     - **(A)** For the purpose of this subchapter, the terms “income” and “adjusted income” have the meanings given by sections 3(b)(4) and 3(b)(5), respectively, of the United States Housing Act of 1937 [ 42 U.S.C. 1437a(b)(4) , (5)].
     - **(B)** For purposes of this subchapter, the term “income” does not include dividends received from the Alaska Permanent Fund by a person who was under the age of 18 years when that person qualified for the dividend.
-  - **(6)** For the purposes of this subchapter, the term “Indian tribe” means any Indian tribe, band, group, and nation, including Alaska Indians, Aleuts, and Eskimos, and any Alaskan Native Village, of the United States, which is considered an eligible recipient under the Indian Self-Determination and Education Assistance Act ( Public Law 93–638 ) [ 25 U.S.C. 450 et seq.] or was considered an eligible recipient under chapter 67 of title 31 prior to the repeal of such chapter.
+  - **(6)** For the purposes of this subchapter, the term “Indian tribe” means any Indian tribe, band, group, and nation, including Alaska Indians, Aleuts, and Eskimos, and any Alaskan Native Village, of the United States, which is considered an eligible recipient under the Indian Self-Determination and Education Assistance Act ( Public Law 93–638 ) [ 25 U.S.C. 5301 et seq.] or was considered an eligible recipient under chapter 67 of title 31 prior to the repeal of such chapter.
   - **(7)** For the purposes of this subchapter, the term “rural resident” shall include a family or a person who is a renter of a dwelling unit in a rural area.
   - **(8)** For the purposes of this subchapter, the term “adequate dwelling” means a decent, safe, and sanitary dwelling unit.
 - **(c)** In order to be eligible for the assistance authorized by subsection (a) of this section, the applicant must show (1) that he is the owner of a farm which is without a decent, safe, and sanitary dwelling for himself and his family and necessary resident farm labor, or for the family of the operating tenant, lessee, or sharecropper, or without other farm buildings adequate for the type of farming in which he engages or desires to engage, or that he is the owner of other real estate in a rural area or a rural resident without an adequate dwelling or related facilities for his own use or buildings adequate for his farming operations, or that the applicant is an elderly or handicapped person or family in a rural area without an adequate dwelling or related facility for its own use, or that he is the owner of a farm or other real estate in a rural area who needs refinancing of indebtedness described in clause (4) of subsection (a) of this section; (2) that he is without sufficient resources to provide the necessary housing and buildings on his own account; and (3) that he is unable to secure the credit necessary for such housing and buildings from other sources upon terms and conditions which he could reasonably be expected to fulfill. If an applicant is a State or local public agency or Indian tribe—

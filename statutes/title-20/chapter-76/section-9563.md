@@ -3,9 +3,9 @@ title: "Section 9563 - Evaluations"
 usc_title: 20
 usc_section: "9563"
 chapter: 76
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 9563"
-generated_at: "2026-03-29T18:05:00.418Z"
+generated_at: "2026-03-29T18:24:41.184Z"
 ---
 
 # § 9563. Evaluations
@@ -22,4 +22,4 @@ generated_at: "2026-03-29T18:05:00.418Z"
   - **(2)** Each evaluation conducted by the National Center for Education Evaluation and Regional Assistance pursuant to paragraph (1) shall—
     - **(A)** adhere to the highest possible standards of quality for conducting scientifically valid education evaluation; and
     - **(B)** be subject to rigorous peer-review.
-- **(b)** The Evaluation and Regional Assistance Commissioner, consistent with the mission of the National Center for Education Evaluation and Regional Assistance under section 9561(b) of this title , shall administer all operations and contracts associated with evaluations authorized by part E of title I of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 6491 et seq.) and administered by the Department as of November 5, 2002 .
+- **(b)** The Evaluation and Regional Assistance Commissioner, consistent with the mission of the National Center for Education Evaluation and Regional Assistance under section 9561(b) of this title , shall administer all operations and contracts associated with evaluations authorized by section 8601 of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 7981 ] and administered by the Department as of November 5, 2002 .

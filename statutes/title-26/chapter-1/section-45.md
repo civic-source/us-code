@@ -3,9 +3,9 @@ title: "Section 45 - Electricity produced from certain renewable resources, etc.
 usc_title: 26
 usc_section: "45"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 45"
-generated_at: "2026-03-29T18:05:44.430Z"
+generated_at: "2026-03-29T18:25:53.384Z"
 ---
 
 # § 45. Electricity produced from certain renewable resources, etc.
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T18:05:44.430Z"
   - **(1)** The amount of the credit determined under subsection (a) shall be reduced by an amount which bears the same ratio to the amount of the credit (determined without regard to this paragraph) as—
     - **(A)** the amount by which the reference price for the calendar year in which the sale occurs exceeds 8 cents, bears to
     - **(B)** 3 cents.
-  - **(2)** The 1.5 cent amount in subsection (a), the 8 cent amount in paragraph (1), the $4.375 amount in subsection (e)(8)(A), the $3 amount in subsection (e)(8)(D)(ii)(I), and in subsection (e)(8)(B)(i) the reference price of fuel used as a feedstock (within the meaning of subsection (c)(7)(A)) in 2002 shall each be adjusted by multiplying such amount by the inflation adjustment factor for the calendar year in which the sale occurs. If any amount as increased under the preceding sentence is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.
+  - **(2)** The 1.5 cent amount in subsection (a), the 8 cent amount in paragraph (1), the $4.375 amount in subsection (e)(8)(A), the $2 amount in subsection (e)(8)(D)(ii)(I), and in subsection (e)(8)(B)(i) the reference price of fuel used as a feedstock (within the meaning of subsection (c)(7)(A)) in 2002 shall each be adjusted by multiplying such amount by the inflation adjustment factor for the calendar year in which the sale occurs. If any amount as increased under the preceding sentence is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.
   - **(3)** The amount of the credit determined under subsection (a) with respect to any project for any taxable year (determined after the application of paragraphs (1) and (2)) shall be reduced by the amount which is the product of the amount so determined for such year and the lesser of ½ or a fraction—
     - **(A)** the numerator of which is the sum, for the taxable year and all prior taxable years, of—
       - **(i)** grants provided by the United States, a State, or a political subdivision of a State for use in connection with the project,
@@ -35,6 +35,10 @@ generated_at: "2026-03-29T18:05:44.430Z"
       - **(i)** Except as provided in clause (ii) or clause (iii), in the case of any facility described in paragraph (3), (4), (5), (6), or (7) of subsection (d), the 5-year period beginning on the date the facility was originally placed in service shall be substituted for the 10-year period in subsection (a)(2)(A)(ii).
       - **(ii)** In the case of any facility described in subsection (d)(3)(A)(ii) placed in service before the date of the enactment of this paragraph, the 5-year period beginning on January 1, 2005 , shall be substituted for the 10-year period in subsection (a)(2)(A)(ii).
       - **(iii)** Clause (i) shall not apply to any facility placed in service after the date of the enactment of this clause.
+  - **(5)** In the case of any facility using wind to produce electricity, the amount of the credit determined under subsection (a) (determined after the application of paragraphs (1), (2), and (3) and without regard to this paragraph) shall be reduced by—
+    - **(A)** in the case of any facility the construction of which begins after December 31, 2016 , and before January 1, 2018 , 20 percent,
+    - **(B)** in the case of any facility the construction of which begins after December 31, 2017 , and before January 1, 2019 , 40 percent, and
+    - **(C)** in the case of any facility the construction of which begins after December 31, 2018 , and before January 1, 2020 , 60 percent.
 - **(c)** For purposes of this section:
   - **(1)** The term “qualified energy resources” means—
     - **(A)** wind,
@@ -99,11 +103,11 @@ generated_at: "2026-03-29T18:05:44.430Z"
       - **(iv)** differentials in ocean temperature (ocean thermal energy conversion).
     - **(B)** Such term shall not include any energy which is derived from any source which utilizes a dam, diversionary structure (except as provided in subparagraph (A)(iii)), or impoundment for electric power production purposes.
 - **(d)** For purposes of this section:
-  - **(1)** In the case of a facility using wind to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after December 31, 1993 , and the construction of which begins before January 1, 2014 . Such term shall not include any facility with respect to which any qualified small wind energy property expenditure (as defined in subsection (d)(4) of section 25D) is taken into account in determining the credit under such section.
+  - **(1)** In the case of a facility using wind to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after December 31, 1993 , and the construction of which begins before January 1, 2020 . Such term shall not include any facility with respect to which any qualified small wind energy property expenditure (as defined in subsection (d)(4) of section 25D) is taken into account in determining the credit under such section.
   - **(2)**
     - **(A)** In the case of a facility using closed-loop biomass to produce electricity, the term “qualified facility” means any facility—
-      - **(i)** owned by the taxpayer which is originally placed in service after December 31, 1992 , and the construction of which begins before January 1, 2014 , or
-      - **(ii)** owned by the taxpayer which before January 1, 2014 , is originally placed in service and modified to use closed-loop biomass to co-fire with coal, with other biomass, or with both, but only if the modification is approved under the Biomass Power for Rural Development Programs or is part of a pilot project of the Commodity Credit Corporation as described in 65 Fed. Reg. 63052.
+      - **(i)** owned by the taxpayer which is originally placed in service after December 31, 1992 , and the construction of which begins before January 1, 2017 , or
+      - **(ii)** owned by the taxpayer which before January 1, 2017 , is originally placed in service and modified to use closed-loop biomass to co-fire with coal, with other biomass, or with both, but only if the modification is approved under the Biomass Power for Rural Development Programs or is part of a pilot project of the Commodity Credit Corporation as described in 65 Fed. Reg. 63052.
     - **(B)** Such term shall include a new unit placed in service after the date of the enactment of this subparagraph in connection with a facility described in subparagraph (A)(i), but only to the extent of the increased amount of electricity produced at the facility by reason of such new unit.
     - **(C)** In the case of a qualified facility described in subparagraph (A)(ii)—
       - **(i)** the 10-year period referred to in subsection (a) shall be treated as beginning no earlier than the date of the enactment of this clause, and
@@ -111,30 +115,30 @@ generated_at: "2026-03-29T18:05:44.430Z"
   - **(3)**
     - **(A)** In the case of a facility using open-loop biomass to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which—
       - **(i)** in the case of a facility using agricultural livestock waste nutrients—
-        - **(I)** is originally placed in service after the date of the enactment of this subclause and the construction of which begins before January 1, 2014 , and
+        - **(I)** is originally placed in service after the date of the enactment of this subclause and the construction of which begins before January 1, 2017 , and
         - **(II)** the nameplate capacity rating of which is not less than 150 kilowatts, and
-      - **(ii)** in the case of any other facility, the construction of which begins before January 1, 2014 .
+      - **(ii)** in the case of any other facility, the construction of which begins before January 1, 2017 .
     - **(B)** Such term shall include a new unit placed in service after the date of the enactment of this subparagraph in connection with a facility described in subparagraph (A), but only to the extent of the increased amount of electricity produced at the facility by reason of such new unit.
     - **(C)** In the case of any facility described in subparagraph (A), if the owner of such facility is not the producer of the electricity, the person eligible for the credit allowable under subsection (a) shall be the lessee or the operator of such facility.
   - **(4)** In the case of a facility using geothermal or solar energy to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and which—
     - **(A)** in the case of a facility using solar energy, is placed in service before January 1, 2006 , or
-    - **(B)** in the case of a facility using geothermal energy, the construction of which begins before January 1, 2014 .
+    - **(B)** in the case of a facility using geothermal energy, the construction of which begins before January 1, 2017 .
   - **(5)** In the case of a facility using small irrigation power to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and before October 3, 2008 .
-  - **(6)** In the case of a facility producing electricity from gas derived from the biodegradation of municipal solid waste, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2014 .
-  - **(7)** In the case of a facility (other than a facility described in paragraph (6)) which uses municipal solid waste to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2014 . Such term shall include a new unit placed in service in connection with a facility placed in service on or before the date of the enactment of this paragraph, but only to the extent of the increased amount of electricity produced at the facility by reason of such new unit.
+  - **(6)** In the case of a facility producing electricity from gas derived from the biodegradation of municipal solid waste, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2017 .
+  - **(7)** In the case of a facility (other than a facility described in paragraph (6)) which uses municipal solid waste to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2017 . Such term shall include a new unit placed in service in connection with a facility placed in service on or before the date of the enactment of this paragraph, but only to the extent of the increased amount of electricity produced at the facility by reason of such new unit.
   - **(8)** In the case of a facility that produces refined coal, the term “refined coal production facility” means—
     - **(A)** with respect to a facility producing steel industry fuel, any facility (or any modification to a facility) which is placed in service before January 1, 2010 , and
     - **(B)** with respect to any other facility producing refined coal, any facility placed in service after the date of the enactment of the American Jobs Creation Act of 2004 and before January 1, 2012 .
   - **(9)**
     - **(A)** In the case of a facility producing qualified hydroelectric production described in subsection (c)(8), the term “qualified facility” means—
-      - **(i)** in the case of any facility producing incremental hydropower production, such facility but only to the extent of its incremental hydropower production attributable to efficiency improvements or additions to capacity described in subsection (c)(8)(B) placed in service after the date of the enactment of this paragraph and before January 1, 2014 , and
-      - **(ii)** any other facility placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2014 .
+      - **(i)** in the case of any facility producing incremental hydropower production, such facility but only to the extent of its incremental hydropower production attributable to efficiency improvements or additions to capacity described in subsection (c)(8)(B) placed in service after the date of the enactment of this paragraph and before January 1, 2017 , and
+      - **(ii)** any other facility placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2017 .
     - **(B)** In the case of a qualified facility described in subparagraph (A), the 10-year period referred to in subsection (a) shall be treated as beginning on the date the efficiency improvements or additions to capacity are placed in service.
-    - **(C)** For purposes of subparagraph (A)(i), an efficiency improvement or addition to capacity shall be treated as placed in service before January 1, 2014 , if the construction of such improvement or addition begins before such date.
-  - **(10)** In the case of a facility that produces Indian coal, the term “Indian coal production facility” means a facility which is placed in service before January 1, 2009 .
+    - **(C)** For purposes of subparagraph (A)(i), an efficiency improvement or addition to capacity shall be treated as placed in service before January 1, 2017 , if the construction of such improvement or addition begins before such date.
+  - **(10)** The term “Indian coal production facility” means a facility that produces Indian coal.
   - **(11)** In the case of a facility producing electricity from marine and hydrokinetic renewable energy, the term “qualified facility” means any facility owned by the taxpayer—
     - **(A)** which has a nameplate capacity rating of at least 150 kilowatts, and
-    - **(B)** which is originally placed in service on or after the date of the enactment of this paragraph and the construction of which begins before January 1, 2014 .
+    - **(B)** which is originally placed in service on or after the date of the enactment of this paragraph and the construction of which begins before January 1, 2017 .
 - **(e)** For purposes of this section—
   - **(1)** Sales shall be taken into account under this section only with respect to electricity the production of which is within—
     - **(A)** the United States (within the meaning of section 638(1)), or
@@ -186,17 +190,16 @@ generated_at: "2026-03-29T18:05:44.430Z"
       - **(ii)** In the case of a facility producing steel industry fuel, clause (i) shall not apply to so much of the refined coal produced at such facility as is steel industry fuel.
   - **(10)**
     - **(A)** In the case of a producer of Indian coal, the credit determined under this section (without regard to this paragraph) for any taxable year shall be increased by an amount equal to the applicable dollar amount per ton of Indian coal—
-      - **(i)** produced by the taxpayer at an Indian coal production facility during the 8-year period beginning on January 1, 2006 , and
+      - **(i)** produced by the taxpayer at an Indian coal production facility during the 11-year period beginning on January 1, 2006 , and
       - **(ii)** sold by the taxpayer—
-        - **(I)** to an unrelated person, and
-        - **(II)** during such 8-year period and such taxable year.
+        - **(I)** to an unrelated person (either directly by the taxpayer or after sale or transfer to one or more related persons), and
+        - **(II)** during such 11-year period and such taxable year.
     - **(B)**
       - **(i)** The term “applicable dollar amount” for any taxable year beginning in a calendar year means—
         - **(I)** $1.50 in the case of calendar years 2006 through 2009, and
         - **(II)** $2.00 in the case of calendar years beginning after 2009.
       - **(ii)** In the case of any calendar year after 2006, each of the dollar amounts under clause (i) shall be equal to the product of such dollar amount and the inflation adjustment factor determined under paragraph (2)(B) for the calendar year, except that such paragraph shall be applied by substituting “2005” for “1992”.
     - **(C)** Rules similar to the rules of the subsection (b)(3) and paragraphs (1), (3), (4), and (5) of this subsection shall apply for purposes of determining the amount of any increase under this paragraph.
-    - **(D)** The increase in the credit determined under subsection (a) by reason of this paragraph with respect to any facility shall be treated as a specified credit for purposes of section 38(c)(4)(A) during the 4-year period beginning on the later of January 1, 2006 , or the date on which such facility is placed in service by the taxpayer.
   - **(11)**
     - **(A)**
       - **(i)** In the case of an eligible cooperative organization, any portion of the credit determined under subsection (a) for the taxable year may, at the election of the organization, be apportioned among patrons of the organization on the basis of the amount of business done by the patrons during the taxable year.

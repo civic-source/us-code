@@ -3,9 +3,9 @@ title: "Section 2044 - Financial assistance for supportive services for very low
 usc_title: 38
 usc_section: "2044"
 chapter: 20
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "38 U.S.C. § 2044"
-generated_at: "2026-03-29T18:06:22.773Z"
+generated_at: "2026-03-29T18:26:07.582Z"
 ---
 
 # § 2044. Financial assistance for supportive services for very low-income veteran families in permanent housing
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T18:06:22.773Z"
     - **(A)** outreach services;
     - **(B)** case management services;
     - **(C)** assistance in obtaining any benefits from the Department which the veteran may be eligible to receive, including, but not limited to, vocational and rehabilitation counseling, employment and training service, educational assistance, and health care services; and
-    - **(D)** assistance in obtaining and coordinating the provision of other public benefits provided in federal, 1 1 So in original. Probably should be capitalized. State, or local agencies, or any organization defined in subsection (f), including—
+    - **(D)** assistance in obtaining and coordinating the provision of other public benefits provided in Federal, State, or local agencies, or any organization defined in subsection (f), including—
       - **(i)** health care services (including obtaining health insurance);
       - **(ii)** daily living services;
       - **(iii)** personal financial planning;
@@ -61,7 +61,7 @@ generated_at: "2026-03-29T18:06:22.773Z"
     - **(B)** $20,000,000 for fiscal year 2010.
     - **(C)** $25,000,000 for fiscal year 2011.
     - **(D)** $100,000,000 for fiscal year 2012.
-    - **(E)** $300,000,000 for each of fiscal years 2013 and 2014.
+    - **(E)** $320,000,000 for each of fiscal years 2015 through 2017.
   - **(2)** Not more than $750,000 may be available under paragraph (1) in any fiscal year to provide technical assistance under subsection (d).
   - **(3)** There is authorized to be appropriated $1,000,000 for each of the fiscal years 2009 through 2012 to carry out the provisions of subsection (d).
 - **(f)** In this section:

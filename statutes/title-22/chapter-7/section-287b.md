@@ -3,16 +3,16 @@ title: "Section 287b - Reports to Congress by President"
 usc_title: 22
 usc_section: "287b"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 287b"
-generated_at: "2026-03-29T18:05:21.740Z"
+generated_at: "2026-03-29T18:24:54.126Z"
 ---
 
 # § 287b. Reports to Congress by President
 
 - **(a)** The President shall, from time to time as occasion may require, but not less than once each year, make reports to the Congress of the activities of the United Nations and of the participation of the United States therein.
 - **(b)** Not later than July 1 of each year, the Secretary of State shall submit a report to the designated congressional committees on the extent and disposition of all financial contributions made by the United States during the preceding year to international organizations in which the United States participates as a member.
-- **(c)** In addition to the report required by subsection (a) of this section, the President, at the time of submission of the annual budget request to the Congress, shall submit to the designated congressional committees a report that includes the following:
+- **(c)** In addition to the report required by subsection (a), the President, at the time of submission of the annual budget request to the Congress, shall submit to the designated congressional committees a report that includes the following:
   - **(1)**
     - **(A)** In accordance with section 407(a)(5)(B) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995, 1 1 See References in Text note below. a description of all assistance provided by the United States to the United Nations to support peacekeeping operations during the previous calendar quarter and during the previous year.
     - **(B)** With respect to United Nations peacekeeping operations—

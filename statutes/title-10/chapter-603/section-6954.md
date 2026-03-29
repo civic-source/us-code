@@ -3,9 +3,9 @@ title: "Section 6954 - Midshipmen: number"
 usc_title: 10
 usc_section: "6954"
 chapter: 603
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 6954"
-generated_at: "2026-03-29T18:04:13.267Z"
+generated_at: "2026-03-29T18:23:52.058Z"
 ---
 
 # § 6954. Midshipmen: number
@@ -16,11 +16,11 @@ generated_at: "2026-03-29T18:04:13.267Z"
   - **(3)** Ten from each State, five of whom are nominated by each Senator from that State.
   - **(4)** Five nominated by each Representative in Congress.
   - **(5)** Five from the District of Columbia, nominated by the Delegate to the House of Representatives from the District of Columbia.
-  - **(6)** Three from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands.
+  - **(6)** Four from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands.
   - **(7)** Six from Puerto Rico, five of whom are nominated by the Resident Commissioner from Puerto Rico and one who is a native of Puerto Rico nominated by the Governor of Puerto Rico.
-  - **(8)** Three from Guam, nominated by the Delegate in Congress from Guam.
-  - **(9)** Two from American Samoa, nominated by the Delegate in Congress from American Samoa.
-  - **(10)** Two from the Commonwealth of the Northern Mariana Islands, nominated by the Delegate in Congress from the commonwealth.
+  - **(8)** Four from Guam, nominated by the Delegate in Congress from Guam.
+  - **(9)** Three from American Samoa, nominated by the Delegate in Congress from American Samoa.
+  - **(10)** Three from the Commonwealth of the Northern Mariana Islands, nominated by the Delegate in Congress from the commonwealth.
 - **(b)** In addition there may be appointed each year at the Academy midshipmen as follows:
   - **(1)** one hundred selected by the President from the children of members of an armed force who—
     - **(A)** are on active duty (other than for training) and who have served continuously on active duty for at least eight years;

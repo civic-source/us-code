@@ -1,14 +1,12 @@
 ---
-title: "Section 473a - Application to Alaska"
+title: "Section 473a - Transferred"
 usc_title: 25
 usc_section: "473a"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 473a"
-generated_at: "2026-03-29T18:05:17.065Z"
+generated_at: "2026-03-29T18:25:23.695Z"
 ---
 
-# § 473a. Application to Alaska
-
-Sections 461, 465, 467, 468, 475, 477, and 479 of this title shall after May 1, 1936 , apply to the Territory of Alaska: Provided , That groups of Indians in Alaska not recognized prior to May 1, 1936 , as bands or tribes, but having a common bond of occupation, or association, or residence within a well-defined neighborhood, community, or rural district, may organize to adopt constitutions and bylaws and to receive charters of incorporation and Federal loans under sections 470, 476, and 477 of this title.
+# § 473a. Transferred
 

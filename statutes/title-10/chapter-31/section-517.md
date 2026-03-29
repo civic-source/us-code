@@ -3,9 +3,9 @@ title: "Section 517 - Authorized daily average: members in pay grades E–8 and 
 usc_title: 10
 usc_section: "517"
 chapter: 31
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 517"
-generated_at: "2026-03-29T18:04:12.988Z"
+generated_at: "2026-03-29T18:23:51.744Z"
 ---
 
 # § 517. Authorized daily average: members in pay grades E–8 and E–9

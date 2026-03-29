@@ -3,9 +3,9 @@ title: "Section 101 - Definitions and declaration of policy"
 usc_title: 23
 usc_section: "101"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "23 U.S.C. § 101"
-generated_at: "2026-03-29T18:05:12.189Z"
+generated_at: "2026-03-29T18:25:00.165Z"
 ---
 
 # § 101. Definitions and declaration of policy
@@ -36,35 +36,23 @@ generated_at: "2026-03-29T18:05:12.189Z"
   - **(12)** The term “Interstate System” means the Dwight D. Eisenhower National System of Interstate and Defense Highways described in section 103(c).
   - **(13)** The term “maintenance” means the preservation of the entire highway, including surface, shoulders, roadsides, structures, and such traffic-control devices as are necessary for safe and efficient utilization of the highway.
   - **(14)** The term “maintenance area” means an area that was designated as an air quality nonattainment area, but was later redesignated by the Administrator of the Environmental Protection Agency as an air quality attainment area, under section 107(d) of the Clean Air Act ( 42 U.S.C. 7407(d) ).
-  - **(15)** The term “National Highway System” means the Federal-aid highway system described in section 103(b).
-  - **(16)** The term “operating costs for traffic monitoring, management, and control” includes labor costs, administrative costs, costs of utilities and rent, and other costs associated with the continuous operation of traffic control, such as integrated traffic control systems, incident management programs, and traffic control centers.
-  - **(17)** The term “operational improvement”—
+  - **(15)** The term “National Highway Freight Network” means the National Highway Freight Network established under section 167.
+  - **(16)** The term “National Highway System” means the Federal-aid highway system described in section 103(b).
+  - **(17)** The term “operating costs for traffic monitoring, management, and control” includes labor costs, administrative costs, costs of utilities and rent, and other costs associated with the continuous operation of traffic control, such as integrated traffic control systems, incident management programs, and traffic control centers.
+  - **(18)** The term “operational improvement”—
     - **(A)** means (i) a capital improvement for installation of traffic surveillance and control equipment, computerized signal systems, motorist information systems, integrated traffic control systems, incident management programs, and transportation demand management facilities, strategies, and programs, and (ii) such other capital improvements to public roads as the Secretary may designate, by regulation; and
     - **(B)** does not include resurfacing, restoring, or rehabilitating improvements, construction of additional lanes, interchanges, and grade separations, and construction of a new facility on a new location.
-  - **(18)** The term “project” means any undertaking eligible for assistance under this title.
-  - **(19)** The term “project agreement” means the formal instrument to be executed by the Secretary and the recipient as required by section 106.
-  - **(20)** The term “public authority” means a Federal, State, county, town, or township, Indian tribe, municipal or other local government or instrumentality with authority to finance, build, operate, or maintain toll or toll-free facilities.
-  - **(21)** The term “public road” means any road or street under the jurisdiction of and maintained by a public authority and open to public travel.
-  - **(22)** The term “rural areas” means all areas of a State not included in urban areas.
-  - **(23)** The term “safety improvement project” means a strategy, activity, or project on a public road that is consistent with the State strategic highway safety plan and corrects or improves a roadway feature that constitutes a hazard to road users or addresses a highway safety problem.
-  - **(24)** The term “Secretary” means Secretary of Transportation.
-  - **(25)** The term “State” means any of the 50 States, the District of Columbia, or Puerto Rico.
-  - **(26)** The term “State funds” includes funds raised under the authority of the State or any political or other subdivision thereof, and made available for expenditure under the direct control of the State transportation department.
-  - **(27)** The term “State strategic highway safety plan” has the same meaning given such term in section 148(a).
-  - **(28)** The term “State transportation department” means that department, commission, board, or official of any State charged by its laws with the responsibility for highway construction.
-  - **(29)** The term “transportation alternatives” means any of the following activities when carried out as part of any program or project authorized or funded under this title, or as an independent program or project related to surface transportation:
-    - **(A)** Construction, planning, and design of on-road and off-road trail facilities for pedestrians, bicyclists, and other nonmotorized forms of transportation, including sidewalks, bicycle infrastructure, pedestrian and bicycle signals, traffic calming techniques, lighting and other safety-related infrastructure, and transportation projects to achieve compliance with the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12101 et seq.).
-    - **(B)** Construction, planning, and design of infrastructure-related projects and systems that will provide safe routes for non-drivers, including children, older adults, and individuals with disabilities to access daily needs.
-    - **(C)** Conversion and use of abandoned railroad corridors for trails for pedestrians, bicyclists, or other nonmotorized transportation users.
-    - **(D)** Construction of turnouts, overlooks, and viewing areas.
-    - **(E)** Community improvement activities, including—
-      - **(i)** inventory, control, or removal of outdoor advertising;
-      - **(ii)** historic preservation and rehabilitation of historic transportation facilities;
-      - **(iii)** vegetation management practices in transportation rights-of-way to improve roadway safety, prevent against invasive species, and provide erosion control; and
-      - **(iv)** archaeological activities relating to impacts from implementation of a transportation project eligible under this title.
-    - **(F)** Any environmental mitigation activity, including pollution prevention and pollution abatement activities and mitigation to—
-      - **(i)** address stormwater management, control, and water pollution prevention or abatement related to highway construction or due to highway runoff, including activities described in sections 133(b)(11), 328(a), and 329; or
-      - **(ii)** reduce vehicle-caused wildlife mortality or to restore and maintain connectivity among terrestrial or aquatic habitats.
+  - **(19)** The term “project” means any undertaking eligible for assistance under this title.
+  - **(20)** The term “project agreement” means the formal instrument to be executed by the Secretary and the recipient as required by section 106.
+  - **(21)** The term “public authority” means a Federal, State, county, town, or township, Indian tribe, municipal or other local government or instrumentality with authority to finance, build, operate, or maintain toll or toll-free facilities.
+  - **(22)** The term “public road” means any road or street under the jurisdiction of and maintained by a public authority and open to public travel.
+  - **(23)** The term “rural areas” means all areas of a State not included in urban areas.
+  - **(24)** The term “safety improvement project” means a strategy, activity, or project on a public road that is consistent with the State strategic highway safety plan and corrects or improves a roadway feature that constitutes a hazard to road users or addresses a highway safety problem.
+  - **(25)** The term “Secretary” means Secretary of Transportation.
+  - **(26)** The term “State” means any of the 50 States, the District of Columbia, or Puerto Rico.
+  - **(27)** The term “State funds” includes funds raised under the authority of the State or any political or other subdivision thereof, and made available for expenditure under the direct control of the State transportation department.
+  - **(28)** The term “State strategic highway safety plan” has the same meaning given such term in section 148(a).
+  - **(29)** The term “State transportation department” means that department, commission, board, or official of any State charged by its laws with the responsibility for highway construction.
   - **(30)**
     - **(A)** The term “transportation systems management and operations” means integrated strategies to optimize the performance of existing infrastructure through the implementation of multimodal and intermodal, cross-jurisdictional systems, services, and projects designed to preserve capacity and improve security, safety, and reliability of the transportation system.
     - **(B)** The term “transportation systems management and operations” includes—

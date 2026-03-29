@@ -3,26 +3,26 @@ title: "Section 7703a - Impact aid for children with severe disabilities"
 usc_title: 20
 usc_section: "7703a"
 chapter: 70
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 7703a"
-generated_at: "2026-03-29T18:05:00.388Z"
+generated_at: "2026-03-29T18:24:41.160Z"
 ---
 
 # § 7703a. Impact aid for children with severe disabilities
 
-- **(a)** Subject to subsection (f) of this section, the Secretary of Defense shall make a payment for fiscal years after fiscal year 2001, to each local educational agency eligible to receive a payment for a child described in subparagraph (A)(ii), (B), (D)(i) or (D)(ii) of section 7703(a)(1) of this title that serves two or more such children with severe disabilities, for costs incurred in providing a free appropriate public education to each such child.
-- **(b)** The amount of the payment under subsection (a) of this section to a local educational agency for a fiscal year for each child referred to in such subsection with a severe disability shall be—
+- **(a)** Subject to subsection (f), the Secretary of Defense shall make a payment for fiscal years after fiscal year 2001, to each local educational agency eligible to receive a payment for a child described in subparagraph (A)(ii) or (B), or clause (i) or (ii) of subparagraph (D), of section 7703(a)(1) 1 1 See References in Text note below. of this title that serves two or more such children with severe disabilities, for costs incurred in providing a free appropriate public education to each such child.
+- **(b)** The amount of the payment under subsection (a) to a local educational agency for a fiscal year for each child referred to in such subsection with a severe disability shall be—
   - **(1)** the payment made on behalf of the child with a severe disability that is in excess of the average per pupil expenditure in the State in which the local educational agency is located; less
   - **(2)** the sum of the funds received by the local educational agency—
     - **(A)** from the State in which the child resides to defray the educational and related services for such child;
     - **(B)** under the Individuals with Disabilities Education Act ( 20 U.S.C. 1400 et seq.) to defray the educational and related services for such child; and
     - **(C)** from any other source to defray the costs of providing educational and related services to the child which are received due to the presence of a severe disabling condition of such child.
-- **(c)** No payment shall be made under subsection (a) of this section on behalf of a child with a severe disability whose individual cost of educational and related services does not exceed—
+- **(c)** No payment shall be made under subsection (a) on behalf of a child with a severe disability whose individual cost of educational and related services does not exceed—
   - **(1)** five times the national or State average per pupil expenditure (whichever is lower), for a child who is provided educational and related services under a program that is located outside the boundaries of the school district of the local educational agency that pays for the free appropriate public education of the student; or
   - **(2)** three times the State average per pupil expenditure, for a child who is provided educational and related services under a program offered by the local educational agency, or within the boundaries of the school district served by the local educational agency.
-- **(d)** If the amount available for a fiscal year for payments under subsection (a) of this section is insufficient to pay the full amount all local educational agencies are eligible to receive under such subsection, the Secretary of Defense shall ratably reduce the amounts of the payments made under such subsection to all local educational agencies by an equal percentage.
-- **(e)** Each local educational agency desiring a payment under subsection (a) of this section shall report to the Secretary of Defense—
+- **(d)** If the amount available for a fiscal year for payments under subsection (a) is insufficient to pay the full amount all local educational agencies are eligible to receive under such subsection, the Secretary of Defense shall ratably reduce the amounts of the payments made under such subsection to all local educational agencies by an equal percentage.
+- **(e)** Each local educational agency desiring a payment under subsection (a) shall report to the Secretary of Defense—
   - **(1)** the number of severely disabled children for which a payment may be made under this section; and
   - **(2)** a breakdown of the average cost, by placement (inside or outside the boundaries of the school district of the local educational agency), of providing education and related services to such children.
 - **(f)** Payments shall be made for any period in a fiscal year under this section only to the extent that funds are appropriated specifically for making such payments for that fiscal year.
-- **(g)** In this section, the term “local educational agency” has the meaning given that term in section 7713(9) of this title .
+- **(g)** In this section, the term “local educational agency” has the meaning given that term in section 7713 of this title .

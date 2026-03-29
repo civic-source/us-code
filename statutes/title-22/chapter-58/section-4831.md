@@ -3,9 +3,9 @@ title: "Section 4831 - Accountability Review Boards"
 usc_title: 22
 usc_section: "4831"
 chapter: 58
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 4831"
-generated_at: "2026-03-29T18:05:21.965Z"
+generated_at: "2026-03-29T18:24:54.325Z"
 ---
 
 # § 4831. Accountability Review Boards
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T18:05:21.965Z"
       - **(ii)** conduct an inquiry of the incident; and
       - **(iii)** upon completion of the inquiry required by clause (ii), submit to each such Committee a report on the findings and recommendations related to such inquiry and the actions taken with respect to such recommendations.
 - **(b)**
-  - **(1)** Except as provided in paragraph (2), the Secretary of State shall convene a Board not later than 60 days after the occurrence of an incident described in subsection (a)(1) of this section, except that such 60-day period may be extended for one additional 60-day period if the Secretary determines that the additional period is necessary for the convening of the Board.
+  - **(1)** Except as provided in paragraph (2), the Secretary of State shall convene a Board not later than 60 days after the occurrence of an incident described in subsection (a)(1), except that such 60-day period may be extended for one additional 60-day period if the Secretary determines that the additional period is necessary for the convening of the Board.
   - **(2)** With respect to breaches of security involving intelligence activities, the Secretary of State may delay the establishment of a Board if, after consultation with the chairman of the Select Committee on Intelligence of the Senate and the chairman of the Permanent Select Committee on Intelligence of the House of Representatives, the Secretary determines that the establishment of a Board would compromise intelligence sources or methods. The Secretary shall promptly advise the chairmen of such committees of each determination pursuant to this paragraph to delay the establishment of a Board.
 - **(c)** Whenever the Secretary of State convenes a Board, the Secretary shall promptly inform the chairman of the Committee on Foreign Relations of the Senate and the Speaker of the House of Representatives—
   - **(1)** that a Board has been convened;

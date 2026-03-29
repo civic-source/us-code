@@ -3,9 +3,9 @@ title: "Section 1734 - Career development"
 usc_title: 10
 usc_section: "1734"
 chapter: 87
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 1734"
-generated_at: "2026-03-29T18:04:13.105Z"
+generated_at: "2026-03-29T18:23:51.862Z"
 ---
 
 # § 1734. Career development

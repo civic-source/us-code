@@ -3,9 +3,9 @@ title: "Section 31113 - Width limitations"
 usc_title: 49
 usc_section: "31113"
 chapter: 311
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 31113"
-generated_at: "2026-03-29T18:07:51.445Z"
+generated_at: "2026-03-29T18:27:16.545Z"
 ---
 
 # § 31113. Width limitations

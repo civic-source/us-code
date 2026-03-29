@@ -3,9 +3,9 @@ title: "Section 5507 - Recovery and disposition of remains and personal effects"
 usc_title: 22
 usc_section: "5507"
 chapter: 64
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 5507"
-generated_at: "2026-03-29T18:05:21.977Z"
+generated_at: "2026-03-29T18:24:54.334Z"
 ---
 
 # § 5507. Recovery and disposition of remains and personal effects

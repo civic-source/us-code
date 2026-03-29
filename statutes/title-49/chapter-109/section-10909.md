@@ -3,9 +3,9 @@ title: "Section 10909 - Solid waste rail transfer facility land-use exemption"
 usc_title: 49
 usc_section: "10909"
 chapter: 109
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 10909"
-generated_at: "2026-03-29T18:07:51.373Z"
+generated_at: "2026-03-29T18:27:16.482Z"
 ---
 
 # § 10909. Solid waste rail transfer facility land-use exemption
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T18:07:51.373Z"
 - **(a)** The Board may issue a land-use exemption for a solid waste rail transfer facility that is or is proposed to be operated by or on behalf of a rail carrier if—
   - **(1)** the Board finds that a State, local, or municipal law, regulation, order, or other requirement affecting the siting of such facility unreasonably burdens the interstate transportation of solid waste by railroad, discriminates against the railroad transportation of solid waste and a solid waste rail transfer facility, or a rail carrier that owns or operates such a facility petitions the Board for such an exemption; or
   - **(2)** the Governor of a State in which a facility that is operating as of the date of enactment of the Clean Railroads Act of 2008 is located, or his or her designee, petitions the Board to initiate a permit proceeding for that particular facility.
-- **(b)** Not later than 90 days after the date of enactment of the Clean Railroad 1 1 So in original. Probably should be “Railroads”. Act of 2008, the Board shall publish procedures governing the submission and review of applications for solid waste rail transfer facility land-use exemptions. At a minimum, the procedures shall address—
+- **(b)** Not later than 90 days after the date of enactment of the Clean Railroads Act of 2008, the Board shall publish procedures governing the submission and review of applications for solid waste rail transfer facility land-use exemptions. At a minimum, the procedures shall address—
   - **(1)** the information that each application should contain to explain how the solid waste rail transfer facility will not pose an unreasonable risk to public health, safety, or the environment;
   - **(2)** the opportunity for public notice and comment including notification of the municipality, the State, and any relevant Federal or State regional planning entity in the jurisdiction of which the solid waste rail transfer facility is proposed to be located;
   - **(3)** the timeline for Board review, including a requirement that the Board approve or deny an exemption within 90 days after the full record for the application is developed;
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T18:07:51.373Z"
   - **(5)** any Federal and State environmental protection laws or regulations applicable to the site;
   - **(6)** any unreasonable burdens imposed on the interstate transportation of solid waste by railroad, or the potential for discrimination against the railroad transportation of solid waste, a solid waste rail transfer facility, or a rail carrier that owns or operates such a facility; and
   - **(7)** any other relevant factors, as determined by the Board.
-- **(e)** Upon the granting of 2 2 So in original. Probably should be followed by “a”. petition from the State in which a solid waste rail transfer facility is operating as of the date of enactment of the Clean Railroads Act of 2008 by the Board, the facility shall submit a complete application for a siting permit to the Board pursuant to the procedures issued pursuant to subsection (b). No State may enforce a law, regulation, order, or other requirement affecting the siting of a facility that is operating as of the date of enactment of the Clean Railroads Act of 2008 until the Board has approved or denied a permit pursuant to subsection (c).
+- **(e)** Upon the granting of a petition from the State in which a solid waste rail transfer facility is operating as of the date of enactment of the Clean Railroads Act of 2008 by the Board, the facility shall submit a complete application for a siting permit to the Board pursuant to the procedures issued pursuant to subsection (b). No State may enforce a law, regulation, order, or other requirement affecting the siting of a facility that is operating as of the date of enactment of the Clean Railroads Act of 2008 until the Board has approved or denied a permit pursuant to subsection (c).
 - **(f)** If the Board grants a land-use exemption to a solid waste rail transfer facility, all State laws, regulations, orders, or other requirements affecting the siting of a facility are preempted with regard to that facility. An exemption may require compliance with such State laws, regulations, orders, or other requirements.
 - **(g)** Nothing in this section precludes a person from seeking an injunction to enjoin a solid waste rail transfer facility from being constructed or operated by or on behalf of a rail carrier if that facility has materially violated, or will materially violate, its land-use exemption or if it failed to receive a valid land-use exemption under this section.
 - **(h)** The Board may charge permit applicants reasonable fees to implement this section, including the costs of third-party consultants.

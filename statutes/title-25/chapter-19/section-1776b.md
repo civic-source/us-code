@@ -1,20 +1,12 @@
 ---
-title: "Section 1776b - Settlement Agreement"
+title: "Section 1776b - Omitted"
 usc_title: 25
 usc_section: "1776b"
 chapter: 19
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1776b"
-generated_at: "2026-03-29T18:05:17.184Z"
+generated_at: "2026-03-29T18:25:23.751Z"
 ---
 
-# § 1776b. Settlement Agreement
+# § 1776b. Omitted
 
-- **(a)** Subject to the terms and conditions of this subchapter, the Secretary shall enter into the Settlement Agreement with the Crow Tribe.
-- **(b)** Subject to the conditions set forth in section 1776g(a) of this title , the United States hereby approves, ratifies, and confirms the Settlement Agreement, to the extent that such Settlement Agreement does not conflict with this subchapter.
-- **(c)** The terms and conditions of the Settlement Agreement may be modified by mutual agreement of the Crow Tribe and the Secretary if such modification—
-  - **(1)** is not inconsistent with this subchapter; and
-  - **(2)** does not diminish or impair any right or benefit secured to the Northern Cheyenne Tribe, the Northern Cheyenne allottees, or their successors in interest by or pursuant to any provision of this subchapter.
-- **(d)**
-  - **(1)** Except as provided in paragraph (2), the Settlement Agreement shall be subject to the enforcement provisions under chapter 7 of title 5.
-  - **(2)** If, with respect to the enforcement of the Settlement Agreement, the remedies available under the provisions referred to in paragraph (1) do not provide adequate or complete relief, the Settlement Agreement shall be subject to the enforcement provisions under section 1505 of title 28 .

@@ -1,14 +1,12 @@
 ---
-title: "Section 10d - Review and report; submittal to Congressional committees; contents"
+title: "Section 10d - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "10d"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 10d"
-generated_at: "2026-03-29T18:05:06.636Z"
+generated_at: "2026-03-29T18:24:22.546Z"
 ---
 
-# § 460l–10d. Review and report; submittal to Congressional committees; contents
-
-Within one year of September 28, 1976 , the Secretary is authorized and directed to submit to the Committees on Interior and Insular Affairs of the Senate and House of Representatives a comprehensive review and report on the needs, problems, and opportunities associated with urban recreation in highly populated regions, including the resources potentially available for meeting such needs. The report shall include site specific analyses and alternatives, in a selection of geographic environments representative of the Nation as a whole, including, but not limited to, information on needs, local capabilities for action, major site opportunities, trends, and a full range of options and alternatives as to possible solutions and courses of action designed to preserve remaining open space, ameliorate recreational deficiency, and enhance recreational opportunity for urban populations, together with an analysis of the capability of the Federal Government to provide urban-oriented environmental education programs (including, but not limited to, cultural programs in the arts and crafts) within such options. The Secretary shall consult with, and request the views of, the affected cities, counties, and States on the alternatives and courses of action identified.
+# § 460l–10d. Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272
 

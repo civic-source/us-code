@@ -3,15 +3,15 @@ title: "Section 6038 - Reports on commerce with, and assistance to, Cuba from ot
 usc_title: 22
 usc_section: "6038"
 chapter: 69
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 6038"
-generated_at: "2026-03-29T18:05:21.989Z"
+generated_at: "2026-03-29T18:24:54.343Z"
 ---
 
 # § 6038. Reports on commerce with, and assistance to, Cuba from other foreign countries
 
 - **(a)** Not later than 90 days after March 12, 1996 , and by January 1 of each year thereafter until the President submits a determination under section 6063(c)(1) of this title , the President shall submit a report to the appropriate congressional committees on commerce with, and assistance to, Cuba from other foreign countries during the preceding 12-month period.
-- **(b)** Each report required by subsection (a) of this section shall, for the period covered by the report, contain the following, to the extent such information is available:
+- **(b)** Each report required by subsection (a) shall, for the period covered by the report, contain the following, to the extent such information is available:
   - **(1)** A description of all bilateral assistance provided to Cuba by other foreign countries, including humanitarian assistance.
   - **(2)** A description of Cuba’s commerce with foreign countries, including an identification of Cuba’s trading partners and the extent of such trade.
   - **(3)** A description of the joint ventures completed, or under consideration, by foreign nationals and business firms involving facilities in Cuba, including an identification of the location of the facilities involved and a description of the terms of agreement of the joint ventures and the names of the parties that are involved.

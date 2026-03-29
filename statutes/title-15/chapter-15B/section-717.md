@@ -3,9 +3,9 @@ title: "Section 717 - Regulation of natural gas companies"
 usc_title: 15
 usc_section: "717"
 chapter: 15
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 717"
-generated_at: "2026-03-29T18:04:29.507Z"
+generated_at: "2026-03-29T18:24:08.408Z"
 ---
 
 # § 717. Regulation of natural gas companies

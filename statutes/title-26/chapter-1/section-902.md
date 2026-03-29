@@ -3,9 +3,9 @@ title: "Section 902 - Deemed paid credit where domestic corporation owns 10 perc
 usc_title: 26
 usc_section: "902"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 902"
-generated_at: "2026-03-29T18:05:44.735Z"
+generated_at: "2026-03-29T18:25:53.680Z"
 ---
 
 # § 902. Deemed paid credit where domestic corporation owns 10 percent or more of voting stock of foreign corporation

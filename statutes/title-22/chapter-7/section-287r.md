@@ -3,9 +3,9 @@ title: "Section 287r - Authorization of appropriations; payment of expenses"
 usc_title: 22
 usc_section: "287r"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 287r"
-generated_at: "2026-03-29T18:05:21.744Z"
+generated_at: "2026-03-29T18:24:54.129Z"
 ---
 
 # § 287r. Authorization of appropriations; payment of expenses

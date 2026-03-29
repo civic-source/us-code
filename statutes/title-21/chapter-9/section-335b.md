@@ -3,9 +3,9 @@ title: "Section 335b - Civil penalties"
 usc_title: 21
 usc_section: "335b"
 chapter: 9
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 335b"
-generated_at: "2026-03-29T18:05:14.739Z"
+generated_at: "2026-03-29T18:25:04.094Z"
 ---
 
 # § 335b. Civil penalties
@@ -22,14 +22,14 @@ generated_at: "2026-03-29T18:05:14.739Z"
   - **(7)** is an individual debarred under section 335a of this title and, during the period of debarment, provided services in any capacity to a person that had an approved or pending drug product application,
 - **(b)**
   - **(1)**
-    - **(A)** A civil penalty under subsection (a) of this section shall be assessed by the Secretary on a person by an order made on the record after an opportunity for an agency hearing on disputed issues of material fact and the amount of the penalty. In the course of any investigation or hearing under this subparagraph, the Secretary may administer oaths and affirmations, examine witnesses, receive evidence, and issue subpoenas requiring the attendance and testimony of witnesses and the production of evidence that relates to the matter under investigation.
-    - **(B)** In lieu of a proceeding under subparagraph (A), the Attorney General may, upon request of the Secretary, institute a civil action to recover a civil money penalty in the amount and for any of the acts set forth in subsection (a) of this section. Such an action may be instituted separately from or in connection with any other claim, civil or criminal, initiated by the Attorney General under this chapter.
+    - **(A)** A civil penalty under subsection (a) shall be assessed by the Secretary on a person by an order made on the record after an opportunity for an agency hearing on disputed issues of material fact and the amount of the penalty. In the course of any investigation or hearing under this subparagraph, the Secretary may administer oaths and affirmations, examine witnesses, receive evidence, and issue subpoenas requiring the attendance and testimony of witnesses and the production of evidence that relates to the matter under investigation.
+    - **(B)** In lieu of a proceeding under subparagraph (A), the Attorney General may, upon request of the Secretary, institute a civil action to recover a civil money penalty in the amount and for any of the acts set forth in subsection (a). Such an action may be instituted separately from or in connection with any other claim, civil or criminal, initiated by the Attorney General under this chapter.
   - **(2)** In determining the amount of a civil penalty under paragraph (1), the Secretary or the court shall take into account the nature, circumstances, extent, and gravity of the act subject to penalty, the person’s ability to pay, the effect on the person’s ability to continue to do business, any history of prior, similar acts, and such other matters as justice may require.
   - **(3)** No action may be initiated under this section—
-    - **(A)** with respect to any act described in subsection (a) of this section that occurred before May 13, 1992 , or
+    - **(A)** with respect to any act described in subsection (a) that occurred before May 13, 1992 , or
     - **(B)** more than 6 years after the date when facts material to the act are known or reasonably should have been known by the Secretary but in no event more than 10 years after the date the act took place.
-- **(c)** Any person that is the subject of an adverse decision under subsection (b)(1)(A) of this section may obtain a review of such decision by the United States Court of Appeals for the District of Columbia or for the circuit in which the person resides, by filing in such court (within 60 days following the date the person is notified of the Secretary’s decision) a petition requesting that the decision be modified or set aside.
-- **(d)** The Attorney General may recover any civil penalty (plus interest at the currently prevailing rates from the date the penalty became final) assessed under subsection (b)(1)(A) of this section in an action brought in the name of the United States. The amount of such penalty may be deducted, when the penalty has become final, from any sums then or later owing by the United States to the person against whom the penalty has been assessed. In an action brought under this subsection, the validity, amount, and appropriateness of the penalty shall not be subject to judicial review.
-- **(e)** The Secretary may award to any individual (other than an officer or employee of the Federal Government or a person who materially participated in any conduct described in subsection (a) of this section) who provides information leading to the imposition of a civil penalty under this section an amount not to exceed—
+- **(c)** Any person that is the subject of an adverse decision under subsection (b)(1)(A) may obtain a review of such decision by the United States Court of Appeals for the District of Columbia or for the circuit in which the person resides, by filing in such court (within 60 days following the date the person is notified of the Secretary’s decision) a petition requesting that the decision be modified or set aside.
+- **(d)** The Attorney General may recover any civil penalty (plus interest at the currently prevailing rates from the date the penalty became final) assessed under subsection (b)(1)(A) in an action brought in the name of the United States. The amount of such penalty may be deducted, when the penalty has become final, from any sums then or later owing by the United States to the person against whom the penalty has been assessed. In an action brought under this subsection, the validity, amount, and appropriateness of the penalty shall not be subject to judicial review.
+- **(e)** The Secretary may award to any individual (other than an officer or employee of the Federal Government or a person who materially participated in any conduct described in subsection (a)) who provides information leading to the imposition of a civil penalty under this section an amount not to exceed—
   - **(1)** $250,000, or
   - **(2)** one-half of the penalty so imposed and collected,

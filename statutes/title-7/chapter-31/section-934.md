@@ -3,9 +3,9 @@ title: "Section 934 - Authorized financial transactions; interim notes; purchase
 usc_title: 7
 usc_section: "934"
 chapter: 31
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 934"
-generated_at: "2026-03-29T18:04:04.798Z"
+generated_at: "2026-03-29T18:23:43.224Z"
 ---
 
 # § 934. Authorized financial transactions; interim notes; purchase of obligations for resale; sale of notes and certificates; liens

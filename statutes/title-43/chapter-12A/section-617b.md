@@ -3,9 +3,9 @@ title: "Section 617b - Authorization of appropriations"
 usc_title: 43
 usc_section: "617b"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 617b"
-generated_at: "2026-03-29T18:06:28.293Z"
+generated_at: "2026-03-29T18:26:14.819Z"
 ---
 
 # § 617b. Authorization of appropriations

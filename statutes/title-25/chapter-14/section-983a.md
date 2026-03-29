@@ -1,14 +1,12 @@
 ---
-title: "Section 983a - Federal recognition"
+title: "Section 983a - Omitted"
 usc_title: 25
 usc_section: "983a"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 983a"
-generated_at: "2026-03-29T18:05:17.116Z"
+generated_at: "2026-03-29T18:25:23.705Z"
 ---
 
-# § 983a. Federal recognition
-
-Federal recognition is hereby extended to the Ponca Tribe of Nebraska. All Federal laws of general application to Indians and Indian tribes (including the Act of June 18, 1934 ( 48 Stat. 984 ; 25 U.S.C. 461 , et seq.), popularly known as the Indian Reorganization Act) shall apply with respect to the Tribe and to the members.
+# § 983a. Omitted
 

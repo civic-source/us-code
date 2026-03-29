@@ -3,9 +3,9 @@ title: "Section 2 - Recovery zone economic development bonds"
 usc_title: 26
 usc_section: "2"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 2"
-generated_at: "2026-03-29T18:05:44.824Z"
+generated_at: "2026-03-29T18:25:53.759Z"
 ---
 
 # § 1400U–2. Recovery zone economic development bonds

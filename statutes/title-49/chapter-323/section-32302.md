@@ -3,9 +3,9 @@ title: "Section 32302 - Passenger motor vehicle information"
 usc_title: 49
 usc_section: "32302"
 chapter: 323
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 32302"
-generated_at: "2026-03-29T18:07:51.459Z"
+generated_at: "2026-03-29T18:27:16.556Z"
 ---
 
 # § 32302. Passenger motor vehicle information
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T18:07:51.459Z"
   - **(2)** crashworthiness, crash avoidance, and any other areas the Secretary determines will improve the safety of passenger motor vehicles.
   - **(3)** the degree of difficulty of diagnosis and repair of damage to, or failure of, mechanical and electrical systems.
 - **(b)** To assist a consumer in buying a passenger motor vehicle, the Secretary shall provide to the public information developed under subsection (a) of this section. The information shall be in a simple and understandable form that allows comparison of the characteristics referred to in subsection (a)(1)–(3) of this section among the makes and models of passenger motor vehicles. The Secretary may require passenger motor vehicle dealers to distribute the information to prospective buyers. The Secretary, after providing an opportunity for public comment, shall study and report to Congress the most useful data, format, and method for providing simple and understandable damage susceptibility information to consumers.
-- **[(c)** Repealed. Pub. L. 112–252, § 1 , Jan. 10, 2013 , 126 Stat. 2406 .]
+- **(c)** Not later than 1 year after the date of enactment of the Safety Through Informed Consumers Act of 2015, the Secretary shall promulgate a rule to ensure that crash avoidance information is indicated next to crashworthiness information on stickers placed on motor vehicles by their manufacturers.
 - **(d)**
   - **(1)** Not later than 1 year after the date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012, the Secretary shall prescribe regulations that require passenger motor vehicle manufacturers—
     - **(A)** to affix, in the glove compartment or in another readily accessible location on the vehicle, a sticker, decal, or other device that provides, in simple and understandable language, information about how to submit a safety-related motor vehicle defect complaint to the National Highway Traffic Safety Administration;

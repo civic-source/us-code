@@ -3,9 +3,9 @@ title: "Section 281 - Organization of National Institutes of Health"
 usc_title: 42
 usc_section: "281"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 281"
-generated_at: "2026-03-29T18:07:13.381Z"
+generated_at: "2026-03-29T18:27:02.623Z"
 ---
 
 # § 281. Organization of National Institutes of Health
@@ -34,7 +34,7 @@ generated_at: "2026-03-29T18:07:13.381Z"
   - **(20)** The National Library of Medicine.
   - **(21)** The National Center for Advancing Translational Sciences.
   - **(22)** The John E. Fogarty International Center for Advanced Study in the Health Sciences.
-  - **(23)** The National Center for Complementary and Alternative Medicine.
+  - **(23)** The National Center for Complementary and Integrative Health.
   - **(24)** The National Institute on Minority Health and Health Disparities.
   - **(25)** Any other national center that, as an agency separate from any national research institute, was established within the National Institutes of Health as of the day before January 15, 2007 .
 - **(c)**

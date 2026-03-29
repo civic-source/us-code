@@ -3,9 +3,9 @@ title: "Section 9097 - Implementation"
 usc_title: 7
 usc_section: "9097"
 chapter: 115
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 9097"
-generated_at: "2026-03-29T18:04:05.191Z"
+generated_at: "2026-03-29T18:23:43.585Z"
 ---
 
 # § 9097. Implementation
@@ -30,5 +30,5 @@ generated_at: "2026-03-29T18:04:05.191Z"
         - **(I)** obligate the funds made available under clause (i) within 30 days after February 7, 2014 ; and
         - **(II)** require the products described in clause (i) to be made available to producers on the internet within a reasonable period of time, as determined by the Secretary, after the implementation of the first rule implementing programs required under subchapter I of this chapter.
 - **(d)**
-  - **(1)** In any crop year in which an order is issued pursuant 1 1 So in original. Probably should be followed by “to”. section 901(a) of title 2 , the Secretary shall use such sums as necessary of the funds of the Commodity Credit Corporation for such crop year to fully restore the support, loan, or assistance that is otherwise required under subtitles B or C of this title or under the amendments made by subtitles B or C, except with respect to the assistance provided under sections 9037(c) and 9038 of this title.
-  - **(2)** In carrying out this subsection, the Secretary shall ensure that when a producer repays a loan at a rate equal to the loan rate plus interest in accordance with the repayment provisions of subtitles B or C that the repayment amount shall include the portion of the loan amount provided under paragraph (1), except that this paragraph shall not affect or reduce marketing loan gains, loan deficiency payments, or forfeiture benefits provided for under subtitles B or C and as supplemented in accordance with paragraph (1).
+  - **(1)** In any crop year in which an order is issued pursuant 1 1 So in original. Probably should be followed by “to”. section 901(a) of title 2 , the Secretary shall use such sums as necessary of the funds of the Commodity Credit Corporation for such crop year to fully restore the support, loan, or assistance that is otherwise required under subtitles 2 2 So in original. Probably should be “subtitle”. B or C of this title or under the amendments made by subtitles 2 B or C, except with respect to the assistance provided under sections 9037(c) and 9038 of this title.
+  - **(2)** In carrying out this subsection, the Secretary shall ensure that when a producer repays a loan at a rate equal to the loan rate plus interest in accordance with the repayment provisions of subtitles 2 B or C that the repayment amount shall include the portion of the loan amount provided under paragraph (1), except that this paragraph shall not affect or reduce marketing loan gains, loan deficiency payments, or forfeiture benefits provided for under subtitles 2 B or C and as supplemented in accordance with paragraph (1).

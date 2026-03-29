@@ -3,9 +3,9 @@ title: "Section 698h - Right of use and occupancy of improved property on Big Cy
 usc_title: 16
 usc_section: "698h"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 698h"
-generated_at: "2026-03-29T18:05:06.804Z"
+generated_at: "2026-03-29T18:24:22.690Z"
 ---
 
 # § 698h. Right of use and occupancy of improved property on Big Cypress Preserve and Addition

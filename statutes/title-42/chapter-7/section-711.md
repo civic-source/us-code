@@ -3,9 +3,9 @@ title: "Section 711 - Maternal, infant, and early childhood home visiting progra
 usc_title: 42
 usc_section: "711"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 711"
-generated_at: "2026-03-29T18:07:13.779Z"
+generated_at: "2026-03-29T18:27:02.943Z"
 ---
 
 # § 711. Maternal, infant, and early childhood home visiting programs
@@ -154,8 +154,10 @@ generated_at: "2026-03-29T18:07:13.779Z"
     - **(B)** $250,000,000 for fiscal year 2011;
     - **(C)** $350,000,000 for fiscal year 2012;
     - **(D)** $400,000,000 for fiscal year 2013;
-    - **(E)** $400,000,000 for fiscal year 2014; and
-    - **(F)** for the period beginning on October 1, 2014 , and ending on March 31, 2015 , an amount equal to the amount provided in subparagraph (E).
+    - **(E)** $400,000,000 for fiscal year 2014;
+    - **(F)** for fiscal year 2015, $400,000,000;
+    - **(G)** for fiscal year 2016, $400,000,000; and
+    - **(H)** for fiscal year 2017, $400,000,000.
   - **(2)** Of the amount appropriated under this subsection for a fiscal year (or portion of a fiscal year), the Secretary shall reserve—
     - **(A)** 3 percent of such amount for purposes of making grants to eligible entities that are Indian Tribes (or a consortium of Indian Tribes), Tribal Organizations, or Urban Indian Organizations; and
     - **(B)** 3 percent of such amount for purposes of carrying out subsections (d)(1)(B)(iii), (g), and (h)(3).

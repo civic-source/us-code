@@ -3,9 +3,9 @@ title: "Section 1638b - Applicability of Buy American requirement"
 usc_title: 25
 usc_section: "1638b"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1638b"
-generated_at: "2026-03-29T18:05:17.156Z"
+generated_at: "2026-03-29T18:25:23.733Z"
 ---
 
 # § 1638b. Applicability of Buy American requirement

@@ -3,9 +3,9 @@ title: "Section 453 - Allowable travel and transportation: specific authorities"
 usc_title: 37
 usc_section: "453"
 chapter: 8
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "37 U.S.C. § 453"
-generated_at: "2026-03-29T18:06:17.226Z"
+generated_at: "2026-03-29T18:26:10.146Z"
 ---
 
 # § 453. Allowable travel and transportation: specific authorities
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T18:06:17.226Z"
 - **(c)**
   - **(1)** A member of a uniformed service may be allowed moving expenses and transportation allowances for self and dependents associated with the movement of personal property and household goods, including such expenses when associated with a self-move.
   - **(2)** The authority in paragraph (1) includes the movement and temporary and non-temporary storage of personal property, household goods, and privately owned vehicles (but not to exceed one privately owned vehicle per member household) in connection with the temporary or permanent move between authorized locations.
-  - **(3)** For movement of household goods, the administering Secretaries shall prescribe weight allowances in regulations under section 464 of this title . The prescribed weight allowances may not exceed 18,000 pounds (including packing, crating, and household goods in temporary storage), except that the administering Secretary may, on a case-by-case basis, authorize additional weight allowances as necessary.
+  - **(3)** For movement of household goods, the administering Secretaries shall prescribe weight allowances in regulations under section 464 of this title . The prescribed weight allowances may not exceed 18,000 pounds (including household goods in temporary storage, but excluding packing and crating), except that the administering Secretary may, on a case-by-case basis, authorize additional weight allowances as necessary.
   - **(4)** The administering Secretary may prescribe the terms, rates, and conditions that authorize a member of the uniformed services to ship or store a privately owned vehicle.
   - **(5)** No carrier, port agent, warehouseman, freight forwarder, or other person involved in the transportation of property may have any lien on, or hold, impound, or otherwise interfere with, the movement of baggage and household goods being transported under this section.
 - **(d)** An authorized traveler may be provided travel and transportation allowances under this section for unusual, extraordinary, hardship, or emergency circumstances, including circumstances warranting evacuation from a permanent duty assignment location.
@@ -24,3 +24,4 @@ generated_at: "2026-03-29T18:06:17.226Z"
   - **(2)** A member who is retired with pay under any other law or who, immediately following at least eight years of continuous active duty with no single break therein of more than 90 days, is discharged with separation pay or is involuntarily released from active duty with separation pay or readjustment pay.
   - **(3)** A member who is discharged under section 1173 of title 10 .
 - **(f)** A family member or member of the uniformed services who attends a deceased member’s repatriation, burial, or memorial ceremony or service may be provided travel and transportation allowances to the extent provided in regulations prescribed under section 464 of this title .
+- **(g)** A member may be reimbursed as specified in regulations prescribed under section 464 of this title for travel and related expenses incurred by the member as a result of the cancellation of previously approved leave when the leave is cancelled in conjunction with the member’s participation in a contingency operation and the cancellation occurs within 48 hours of the time the leave would have commenced. The settlement for reimbursement under this subsection is final and conclusive.

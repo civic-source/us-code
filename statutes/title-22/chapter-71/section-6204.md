@@ -3,9 +3,9 @@ title: "Section 6204 - Authorities of Board"
 usc_title: 22
 usc_section: "6204"
 chapter: 71
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 6204"
-generated_at: "2026-03-29T18:05:21.996Z"
+generated_at: "2026-03-29T18:24:54.348Z"
 ---
 
 # § 6204. Authorities of Board
@@ -34,6 +34,6 @@ generated_at: "2026-03-29T18:05:21.996Z"
   - **(19)**
     - **(A)** To provide for the payment of primary and secondary school expenses for dependents of personnel stationed in the Commonwealth of the Northern Mariana Islands (CNMI) at a cost not to exceed expenses authorized by the Department of Defense for such schooling for dependents of members of the Armed Forces stationed in the Commonwealth, if the Board determines that schools available in the Commonwealth are unable to provide adequately for the education of the dependents of such personnel.
     - **(B)** To provide transportation for dependents of such personnel between their places of residence and those schools for which expenses are provided under subparagraph (A), if the Board determines that such schools are not accessible by public means of transportation.
-- **(b)** The Board may delegate to the Director of the International Broadcasting Bureau, or any other officer or employee of the United States, to the extent the Board determines to be appropriate, the authorities provided in this section, except those authorities provided in paragraph (1), (2), (3), (4), (5), (6), (9), or (11) of subsection (a) of this section.
+- **(b)** The Board may delegate to the Director of the International Broadcasting Bureau, or any other officer or employee of the United States, to the extent the Board determines to be appropriate, the authorities provided in this section, except those authorities provided in paragraph (1), (2), (3), (4), (5), (6), (9), or (11) of subsection (a).
 - **(c)** The Director of the Bureau and the grantees identified in sections 6207 and 6208 of this title shall submit proposed budgets to the Board. The Board shall forward its recommendations concerning the proposed budget for the Board and broadcasting activities under this chapter, the Radio Broadcasting to Cuba Act [ 22 U.S.C. 1465 et seq.], and the Television Broadcasting to Cuba Act [ 22 U.S.C. 1465aa et seq.] to the Office of Management and Budget.
 - **(d)** The Secretary of State and the Board, in carrying out their functions, shall respect the professional independence and integrity of the International Broadcasting Bureau, its broadcasting services, and the grantees of the Board.

@@ -3,9 +3,9 @@ title: "Section 3 - Authority to award competitive grants to address methampheta
 usc_title: 42
 usc_section: "3"
 chapter: 46
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-29T18:07:14.581Z"
+generated_at: "2026-03-29T18:27:03.554Z"
 ---
 
 # § 3797cc–3. Authority to award competitive grants to address methamphetamine use by pregnant and parenting women offenders

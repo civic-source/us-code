@@ -3,9 +3,9 @@ title: "Section 18024 - Related definitions"
 usc_title: 42
 usc_section: "18024"
 chapter: 157
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 18024"
-generated_at: "2026-03-29T18:07:15.542Z"
+generated_at: "2026-03-29T18:27:04.283Z"
 ---
 
 # § 18024. Related definitions
@@ -15,9 +15,9 @@ generated_at: "2026-03-29T18:07:15.542Z"
   - **(2)** The term “individual market” means the market for health insurance coverage offered to individuals other than in connection with a group health plan.
   - **(3)** The terms “large group market” and “small group market” mean the health insurance market under which individuals obtain health insurance coverage (directly or through any arrangement) on behalf of themselves (and their dependents) through a group health plan maintained by a large employer (as defined in subsection (b)(1)) or by a small employer (as defined in subsection (b)(2)), respectively.
 - **(b)** In this title: 1
-  - **(1)** The term “large employer” means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 101 employees on business days during the preceding calendar year and who employs at least 1 employee on the first day of the plan year.
-  - **(2)** The term “small employer” means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 1 but not more than 100 employees on business days during the preceding calendar year and who employs at least 1 employee on the first day of the plan year.
-  - **(3)** In the case of plan years beginning before January 1, 2016 , a State may elect to apply this subsection by substituting “51 employees” for “101 employees” in paragraph (1) and by substituting “50 employees” for “100 employees” in paragraph (2).
+  - **(1)** The term “large employer” means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 51 employees on business days during the preceding calendar year and who employs at least 1 employee on the first day of the plan year.
+  - **(2)** The term “small employer” means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 1 but not more than 50 employees on business days during the preceding calendar year and who employs at least 1 employee on the first day of the plan year.
+  - **(3)** Notwithstanding paragraphs (1) and (2), nothing in this section shall prevent a State from applying this subsection by treating as a small employer, with respect to a calendar year and a plan year, an employer who employed an average of at least 1 but not more than 100 employees on business days during the preceding calendar year and who employs at least 1 employee on the first day of the plan year.
   - **(4)** For purposes of this subsection—
     - **(A)** All persons treated as a single employer under subsection (b), (c), (m), or ( o ) of section 414 of title 26 shall be treated as 1 employer.
     - **(B)** In the case of an employer which was not in existence throughout the preceding calendar year, the determination of whether such employer is a small or large employer shall be based on the average number of employees that it is reasonably expected such employer will employ on business days in the current calendar year.

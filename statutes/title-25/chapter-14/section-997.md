@@ -1,14 +1,12 @@
 ---
-title: "Section 997 - Costs"
+title: "Section 997 - Omitted"
 usc_title: 25
 usc_section: "997"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 997"
-generated_at: "2026-03-29T18:05:17.117Z"
+generated_at: "2026-03-29T18:25:23.705Z"
 ---
 
-# § 997. Costs
-
-All costs incident to making the payments authorized by this subchapter shall be paid by appropriate withdrawals from the judgment fund and interest on the judgment fund, using the interest fund first.
+# § 997. Omitted
 

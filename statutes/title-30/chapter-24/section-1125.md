@@ -3,9 +3,9 @@ title: "Section 1125 - Geothermal demonstration plants and projects"
 usc_title: 30
 usc_section: "1125"
 chapter: 24
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "30 U.S.C. § 1125"
-generated_at: "2026-03-29T18:05:26.190Z"
+generated_at: "2026-03-29T18:25:30.892Z"
 ---
 
 # § 1125. Geothermal demonstration plants and projects
@@ -24,8 +24,8 @@ generated_at: "2026-03-29T18:05:26.190Z"
   - **(2)** cooperative agreements with other Federal agencies for the construction and operation of facilities to produce energy for direct Federal consumption.
 - **(d)** The responsible Federal agency is authorized to investigate the feasibility of, construct, and operate, demonstration projects without entering into cooperative agreements with respect to such projects, if the Chairman finds that—
   - **(1)** the nature of the resource, the geographical location, the scale and engineering design of the facilities, the techniques of production, or any other significant factor of the proposal offers opportunities to make important contributions to the general knowledge of geothermal resources, the techniques of its development, or public confidence in the technology; and
-  - **(2)** there is no opportunity for cooperative agreements with any utility or non-Federal governmental entity willing and able to cooperate in the demonstration project under subsection (c)(1) of this section, and there is no opportunity for cooperative agreements with other Federal agencies under subsection (c)(2) of this section.
-- **(e)** Before favorably considering proposals under subsection (c) of this section, the responsible Federal agency must find that—
+  - **(2)** there is no opportunity for cooperative agreements with any utility or non-Federal governmental entity willing and able to cooperate in the demonstration project under subsection (c)(1), and there is no opportunity for cooperative agreements with other Federal agencies under subsection (c)(2).
+- **(e)** Before favorably considering proposals under subsection (c), the responsible Federal agency must find that—
   - **(1)** the nature of the resource, the geographical location, the scale and engineering design of the facilities, the techniques of production, or any other significant factor of the proposal offers opportunities to make important contributions to the general knowledge of geothermal resources, the techniques of its development, or public confidence in the technology;
   - **(2)** the development of the practical benefits as set forth in paragraph (1) of this subsection are unlikely to be accomplished without such cooperative development; and
   - **(3)** where non-Federal participants are involved, the proposal is not eligible for adequate Federal assistance under the loan guaranty provisions of subchapter II of this chapter or such assistance would not be adequate to satisfy the goals and requirements of the demonstration program under this section.

@@ -3,9 +3,9 @@ title: "Section 7106 - Duties of the Council"
 usc_title: 15
 usc_section: "7106"
 chapter: 97
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 7106"
-generated_at: "2026-03-29T18:04:29.957Z"
+generated_at: "2026-03-29T18:24:08.644Z"
 ---
 
 # § 7106. Duties of the Council
@@ -23,4 +23,4 @@ generated_at: "2026-03-29T18:04:29.957Z"
     - **(A)** a detailed description of the activities of the council, 2 2 So in original. Probably should be capitalized. including a status report on the Council’s progress toward meeting its duties outlined in subsections (a) and (d) of this section;
     - **(B)** the findings, conclusions, and recommendations of the Council; and
     - **(C)** the Council’s recommendations for such legislation and administrative actions as the Council considers appropriate to promote the development of small business concerns owned and controlled by women.
-- **(e)** The information included in each report under subsection (d) of this section that is described in subparagraphs (A) through (C) of subsection (d)(6) of this section, shall be reported verbatim, together with any separate additional, concurring, or dissenting views of the Administrator.
+- **(e)** The information included in each report under subsection (d) that is described in subparagraphs (A) through (C) of subsection (d)(6), shall be reported verbatim, together with any separate additional, concurring, or dissenting views of the Administrator.

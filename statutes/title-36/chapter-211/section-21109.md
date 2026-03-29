@@ -3,9 +3,9 @@ title: "Section 21109 - Records and inspection"
 usc_title: 36
 usc_section: "21109"
 chapter: 211
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "36 U.S.C. § 21109"
-generated_at: "2026-03-29T18:06:24.296Z"
+generated_at: "2026-03-29T18:26:09.270Z"
 ---
 
 # § 21109. Records and inspection

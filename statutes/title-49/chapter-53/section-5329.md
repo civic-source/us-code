@@ -3,9 +3,9 @@ title: "Section 5329 - Public transportation safety program"
 usc_title: 49
 usc_section: "5329"
 chapter: 53
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 5329"
-generated_at: "2026-03-29T18:07:51.358Z"
+generated_at: "2026-03-29T18:27:16.462Z"
 ---
 
 # § 5329. Public transportation safety program
@@ -20,8 +20,16 @@ generated_at: "2026-03-29T18:07:51.358Z"
       - **(i)** do not apply to rolling stock otherwise regulated by the Secretary or any other Federal agency; and
       - **(ii)** to the extent practicable, take into consideration—
         - **(I)** relevant recommendations of the National Transportation Safety Board; and
-        - **(II)** recommendations of, and best practices standards developed by, the public transportation industry; and
-    - **(D)** a public transportation safety certification training program, as described in subsection (c).
+        - **(II)** recommendations of, and best practices standards developed by, the public transportation industry;
+    - **(D)** minimum safety standards to ensure the safe operation of public transportation systems that—
+      - **(i)** are not related to performance standards for public transportation vehicles developed under subparagraph (C); and
+      - **(ii)** to the extent practicable, take into consideration—
+        - **(I)** relevant recommendations of the National Transportation Safety Board;
+        - **(II)** best practices standards developed by the public transportation industry;
+        - **(III)** any minimum safety standards or performance criteria being implemented across the public transportation industry;
+        - **(IV)** relevant recommendations from the report under section 3020 of the Federal Public Transportation Act of 2015; and
+        - **(V)** any additional information that the Secretary determines necessary and appropriate; and
+    - **(E)** a public transportation safety certification training program, as described in subsection (c).
 - **(c)**
   - **(1)** The Secretary shall establish a public transportation safety certification training program for Federal and State employees, or other designated personnel, who conduct safety audits and examinations of public transportation systems and employees of public transportation agencies directly responsible for safety oversight.
   - **(2)** Not later than 90 days after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall establish interim provisions for the certification and training of the personnel described in paragraph (1), which shall be in effect until the effective date of the final rule issued by the Secretary to implement this subsection.
@@ -93,16 +101,26 @@ generated_at: "2026-03-29T18:07:51.358Z"
         - **(I)** withhold funds available under paragraph (6) in an amount determined by the Secretary;
         - **(II)** withhold not more than 5 percent of the amount required to be appropriated for use in a State or urbanized area in the State under section 5307 of this title , until the State safety oversight program has been certified; or
         - **(III)** require fixed guideway public transportation systems under such State safety oversight program to provide up to 100 percent of Federal assistance made available under this chapter only for safety-related improvements on such systems, until the State safety oversight program has been certified.
-  - **(8)** The Secretary shall continually evaluate the implementation of a State safety oversight program by a State safety oversight agency, and shall submit on or before July 1 of each year to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on—
+  - **(8)**
+    - **(A)** If the Secretary determines that a State safety oversight program is not being carried out in accordance with this section, has become inadequate to ensure the enforcement of Federal safety regulation, or is incapable of providing adequate safety oversight consistent with the prevention of substantial risk of death, or personal injury, the Secretary shall administer the State safety oversight program until the eligible State develops a State safety oversight program certified by the Secretary in accordance with this subsection.
+    - **(B)** In making a determination under subparagraph (A), the Secretary shall—
+      - **(i)** transmit to the eligible State and affected recipient or recipients, a written explanation of the determination or subsequent finding, including any intention to withhold funding under this section, the amount of funds proposed to be withheld, and if applicable, a formal notice of a withdrawal of State safety oversight program approval; and
+      - **(ii)** require the State to submit a State safety oversight program or modification for certification by the Secretary that meets the requirements of this subsection.
+    - **(C)** If the Secretary determines in accordance with subparagraph (A), that a State safety oversight program or modification required pursuant to subparagraph (B)(ii), submitted by a State is not sufficient, the Secretary may—
+      - **(i)** withhold funds available under paragraph (6) in an amount determined by the Secretary;
+      - **(ii)** beginning 1 year after the date of the determination, withhold not more than 5 percent of the amount required to be appropriated for use in a State or an urbanized area in the State under section 5307, until the State safety oversight program or modification has been certified; and
+      - **(iii)** use any other authorities authorized under this chapter considered necessary and appropriate.
+    - **(D)** To carry out administrative and oversight activities authorized by this paragraph, the Secretary may use grant funds apportioned to an eligible State, under paragraph (6), to develop or carry out a State safety oversight program.
+  - **(9)** The Secretary shall continually evaluate the implementation of a State safety oversight program by a State safety oversight agency, and shall submit on or before July 1 of each year to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on—
     - **(A)** the amount of funds apportioned to each eligible State; and
     - **(B)** the certification status of each State safety oversight program, including what steps a State program that has been denied certification must take in order to be certified.
-  - **(9)** The Secretary shall—
+  - **(10)** The Secretary shall—
     - **(A)** oversee the implementation of each State safety oversight program under this subsection;
     - **(B)** audit the operations of each State safety oversight agency at least once triennially; and
     - **(C)** issue rules to carry out this subsection.
 - **(f)** In carrying out this section, the Secretary may—
   - **(1)** conduct inspections, investigations, audits, examinations, and testing of the equipment, facilities, rolling stock, and operations of the public transportation system of a recipient;
-  - **(2)** make reports and issue directives with respect to the safety of the public transportation system of a recipient;
+  - **(2)** make reports and issue directives with respect to the safety of the public transportation system of a recipient or the public transportation industry generally;
   - **(3)** in conjunction with an accident investigation or an investigation into a pattern or practice of conduct that negatively affects public safety, issue a subpoena to, and take the deposition of, any employee of a recipient or a State safety oversight agency, if—
     - **(A)** before the issuance of the subpoena, the Secretary requests a determination by the Attorney General of the United States as to whether the subpoena will interfere with an ongoing criminal investigation; and
     - **(B)** the Attorney General—
@@ -113,19 +131,21 @@ generated_at: "2026-03-29T18:07:51.358Z"
   - **(6)** at reasonable times and in a reasonable manner, enter and inspect equipment, facilities, rolling stock, operations, and relevant records of the public transportation system of a recipient; and
   - **(7)** issue rules to carry out this section.
 - **(g)**
-  - **(1)** The Secretary may take enforcement action against an eligible State, as defined in subsection (e), that does not comply with Federal law with respect to the safety of the public transportation system, including—
+  - **(1)** The Secretary may take enforcement action against a recipient that does not comply with Federal law with respect to the safety of the public transportation system, including—
     - **(A)** issuing directives;
     - **(B)** requiring more frequent oversight of the recipient by a State safety oversight agency or the Secretary;
-    - **(C)** imposing more frequent reporting requirements; and
-    - **(D)** requiring that any Federal financial assistance provided under this chapter be spent on correcting safety deficiencies identified by the Secretary or the State safety oversight agency before such funds are spent on other projects.
+    - **(C)** imposing more frequent reporting requirements;
+    - **(D)** requiring that any Federal financial assistance provided under this chapter be spent on correcting safety deficiencies identified by the Secretary or the State safety oversight agency before such funds are spent on other projects; and
+    - **(E)** withholding not more than 25 percent of financial assistance under section 5307.
   - **(2)**
-    - **(A)** The Secretary may require the use of funds in accordance with paragraph (1)(D) only if the Secretary finds that a recipient is engaged in a pattern or practice of serious safety violations or has otherwise refused to comply with Federal law relating to the safety of the public transportation system.
+    - **(A)** The Secretary may require the use of funds or withhold funds in accordance with paragraph (1)(D) or (1)(E) only if the Secretary finds that a recipient is engaged in a pattern or practice of serious safety violations or has otherwise refused to comply with Federal law relating to the safety of the public transportation system.
     - **(B)** Before withholding funds from a recipient, the Secretary shall provide to the recipient—
       - **(i)** written notice of a violation and the amount proposed to be withheld; and
       - **(ii)** a reasonable period of time within which the recipient may address the violation or propose and initiate an alternative means of compliance that the Secretary determines is acceptable.
 - **(h)**
-  - **(1)** In carrying out this section, the Secretary shall take into consideration the costs and benefits of each action the Secretary proposes to take under this section.
-  - **(2)** The Secretary may waive the requirement under this subsection if the Secretary determines that such a waiver is in the public interest.
+  - **(1)** The Secretary shall issue restrictions and prohibitions by whatever means are determined necessary and appropriate, without regard to section 5334(c), if, through testing, inspection, investigation, audit, or research carried out under this chapter, the Secretary determines that an unsafe condition or practice, or a combination of unsafe conditions and practices, exist such that there is a substantial risk of death or personal injury.
+  - **(2)** The notice of restriction or prohibition shall describe the condition or practice, the subsequent risk and the standards and procedures required to address the restriction or prohibition.
+  - **(3)** Nothing in this subsection shall be construed as limiting the Secretary’s authority to maintain a restriction or prohibition for as long as is necessary to ensure that the risk has been substantially addressed.
 - **(i)** The Secretary of Homeland Security shall consult with the Secretary of Transportation before the Secretary of Homeland Security issues a rule or order that the Secretary of Transportation determines affects the safety of public transportation design, construction, or operations.
 - **(j)**
   - **(1)** Nothing in this section shall be construed to preempt an action under State law seeking damages for personal injury, death, or property damage alleging that a party has failed to comply with—

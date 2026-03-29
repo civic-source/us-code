@@ -3,9 +3,9 @@ title: "Section 245 - Public access defibrillation demonstration projects"
 usc_title: 42
 usc_section: "245"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 245"
-generated_at: "2026-03-29T18:07:13.279Z"
+generated_at: "2026-03-29T18:27:02.537Z"
 ---
 
 # § 245. Public access defibrillation demonstration projects
@@ -14,14 +14,14 @@ generated_at: "2026-03-29T18:07:13.279Z"
   - **(1)** provide cardiopulmonary resuscitation and automated external defibrillation to cardiac arrest victims in unique settings;
   - **(2)** provide training to community members in cardiopulmonary resuscitation and automated external defibrillation; and
   - **(3)** maximize community access to automated external defibrillators.
-- **(b)** A recipient of a grant under subsection (a) of this section shall use the funds provided through the grant to—
+- **(b)** A recipient of a grant under subsection (a) shall use the funds provided through the grant to—
   - **(1)** purchase automated external defibrillators that have been approved, or cleared for marketing, by the Food and Drug Administration;
   - **(2)** provide basic life training in automated external defibrillator usage through nationally recognized courses;
   - **(3)** provide information to community members about the public access defibrillation demonstration project to be funded with the grant;
   - **(4)** provide information to the local emergency medical services system regarding the placement of automated external defibrillators in the unique settings; and
   - **(5)** further develop strategies to improve access to automated external defibrillators in public places.
 - **(c)**
-  - **(1)** To be eligible to receive a grant under subsection (a) of this section, a political subdivision of a State, Indian tribe, or tribal organization shall prepare and submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.
+  - **(1)** To be eligible to receive a grant under subsection (a), a political subdivision of a State, Indian tribe, or tribal organization shall prepare and submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.
   - **(2)** An application submitted under paragraph (1) may—
     - **(A)** describe the innovative, comprehensive, community-based public access defibrillation demonstration project to be funded with the grant;
     - **(B)** explain how such public access defibrillation demonstration project represents innovation in providing public access to automated external defibrillation; and

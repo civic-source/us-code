@@ -3,9 +3,9 @@ title: "Section 53106 - Payments"
 usc_title: 46
 usc_section: "53106"
 chapter: 531
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "46 U.S.C. § 53106"
-generated_at: "2026-03-29T18:07:34.395Z"
+generated_at: "2026-03-29T18:27:18.916Z"
 ---
 
 # § 53106. Payments
@@ -13,10 +13,12 @@ generated_at: "2026-03-29T18:07:34.395Z"
 - **(a)**
   - **(1)** The Secretary, subject to the availability of appropriations and the other provisions of this section, shall pay to the contractor for an operating agreement, for each vessel that is covered by the operating agreement, an amount equal to—
     - **(A)** $2,600,000 for each of fiscal years 2006, 2007, and 2008;
-    - **(B)** $2,900,000, for each of fiscal years 2009, 2010, and 2011;
-    - **(C)** $3,100,000 for each of fiscal years 2012, 2013, 2014, 2015, 2016, 2017, and 2018;
-    - **(D)** $3,500,000 for each of fiscal years 2019, 2020, and 2021; and
-    - **(E)** $3,700,000 for each of fiscal years 2022, 2023, 2024, and 2025.
+    - **(B)** $2,900,000 for each of fiscal years 2009, 2010, and 2011;
+    - **(C)** $3,100,000 for each of fiscal years 2012, 2013, 2014, and 2015;
+    - **(D)** $4,999,950 for fiscal year 2017;
+    - **(E)** $5,000,000 for each of fiscal years 2018, 2019, and 2020;
+    - **(F)** $5,233,463 for fiscal year 2021; and
+    - **(G)** $3,700,000 for each of fiscal years 2022, 2023, 2024, and 2025.
   - **(2)** The amount shall be paid in equal monthly installments at the end of each month. The amount shall not be reduced except as provided by this section.
 - **(b)** As a condition of receiving payment under this section for a fiscal year for a vessel, the contractor for the vessel shall certify, in accordance with regulations issued by the Secretary, that the vessel has been and will be operated in accordance with section 53105(a)(1) for at least 320 days in the fiscal year. Days during which the vessel is drydocked, surveyed, inspected, or repaired shall be considered days of operation for purposes of this subsection.
 - **(c)** The Secretary of Transportation shall not make any payment under this chapter for a vessel with respect to any days for which the vessel is—
@@ -25,7 +27,7 @@ generated_at: "2026-03-29T18:07:34.395Z"
   - **(3)** more than—
     - **(A)** 25 years of age, except as provided in subparagraph (B) or (C);
     - **(B)** 20 years of age, in the case of a tank vessel; or
-    - **(C)** 30 years of age, in the case of a LASH vessel.
+    - **(C)** 30 years of age, in the case of a lighter aboard ship vessel.
 - **(d)** With respect to payments under this chapter for a vessel covered by an operating agreement, the Secretary—
   - **(1)** except as provided in paragraph (2), shall not reduce any payment for the operation of the vessel to carry military or other preference cargoes under section 55302(a), 55304, 55305, or 55314 of this title, section 2631 of title 10 , or any other cargo preference law of the United States;
   - **(2)** shall not make any payment for any day that the vessel is engaged in transporting more than 7,500 tons of civilian bulk preference cargoes pursuant to section 55302(a), 55305, or 55314 of this title that is bulk cargo; and

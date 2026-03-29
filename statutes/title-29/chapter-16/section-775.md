@@ -1,32 +1,12 @@
 ---
-title: "Section 775 - Recreational programs"
+title: "Section 775 - Repealed. Pub. L. 113–128, title IV , § 443(1), July 22, 2014 , 128 Stat. 1674"
 usc_title: 29
 usc_section: "775"
 chapter: 16
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 775"
-generated_at: "2026-03-29T18:05:31.711Z"
+generated_at: "2026-03-29T18:25:43.045Z"
 ---
 
-# § 775. Recreational programs
+# §§ 774, 775. Repealed. Pub. L. 113–128, title IV , § 443(1), July 22, 2014 , 128 Stat. 1674
 
-- **(a)**
-  - **(1)**
-    - **(A)** The Commissioner, subject to the provisions of section 776 of this title , shall make grants to States, public agencies, and nonprofit private organizations to pay the Federal share of the cost of the establishment and operation of recreation programs to provide individuals with disabilities with recreational activities and related experiences to aid in the employment, mobility, socialization, independence, and community integration of such individuals.
-    - **(B)** The recreation programs that may be funded using assistance provided under a grant under this section may include vocational skills development, leisure education, leisure networking, leisure resource development, physical education and sports, scouting and camping, 4–H activities, construction of facilities for aquatic rehabilitation therapy, music, dancing, handicrafts, art, and homemaking. When possible and appropriate, such programs and activities should be provided in settings with peers who are not individuals with disabilities.
-    - **(C)** Programs and activities carried out under this section shall be designed to demonstrate ways in which such programs assist in maximizing the independence and integration of individuals with disabilities.
-  - **(2)** A grant under this section shall be made for a period of not more than 3 years.
-  - **(3)**
-    - **(A)** A grant may not be made to an applicant under this section unless the applicant provides assurances that, with respect to costs of the recreation program to be carried out under the grant, the applicant, to the maximum extent practicable, will make available non-Federal resources (in cash or in-kind) to pay the non-Federal share of such costs.
-    - **(B)** The Federal share of the costs of the recreation programs carried out under this section shall be—
-      - **(i)** with respect to the first year in which assistance is provided under a grant under this section, 100 percent;
-      - **(ii)** with respect to the second year in which assistance is provided under a grant under this section, 75 percent; and
-      - **(iii)** with respect to the third year in which assistance is provided under a grant under this section, 50 percent.
-  - **(4)** To be eligible to receive a grant under this section, a State, agency, or organization shall submit an application to the Commissioner at such time, in such manner, and containing such information as the Commissioner may require, including a description of—
-    - **(A)** the manner in which the findings and results of the project to be funded under the grant, particularly information that facilitates the replication of the results of such projects, will be made generally available; and
-    - **(B)** the manner in which the service program funded under the grant will be continued after Federal assistance ends.
-  - **(5)** Recreation programs funded under this section shall maintain, at a minimum, the same level of services over a 3-year project period.
-  - **(6)**
-    - **(A)** The Commissioner shall require that each recipient of a grant under this section annually prepare and submit to the Commissioner a report concerning the results of the activities funded under the grant.
-    - **(B)** The Commissioner may not make financial assistance available to a grant recipient for a subsequent year until the Commissioner has received and evaluated the annual report of the recipient under subparagraph (A) for the current year.
-- **(b)** There are authorized to be appropriated to carry out this section, such sums as may be necessary for each of the fiscal years 1999 through 2003.

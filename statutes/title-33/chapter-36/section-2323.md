@@ -3,9 +3,9 @@ title: "Section 2323 - Technical assistance to private entities"
 usc_title: 33
 usc_section: "2323"
 chapter: 36
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 2323"
-generated_at: "2026-03-29T18:06:10.598Z"
+generated_at: "2026-03-29T18:26:01.298Z"
 ---
 
 # § 2323. Technical assistance to private entities
@@ -15,5 +15,5 @@ generated_at: "2026-03-29T18:06:10.598Z"
   - **(2)** if the Secretary determines that the research and development assistance to be provided is within the mission of the Corps of Engineers and is in the public interest;
   - **(3)** if the entity has certified to the Secretary that provision of such research and development assistance is not otherwise reasonably and expeditiously obtainable from the private sector; and
   - **(4)** if the entity has agreed to hold and save the United States free from any damages due to any such research and development assistance.
-- **(b)** The Secretary may provide research and development assistance under subsection (a) of this section, or any part thereof, by contract.
+- **(b)** The Secretary may provide research and development assistance under subsection (a), or any part thereof, by contract.
 - **(c)**

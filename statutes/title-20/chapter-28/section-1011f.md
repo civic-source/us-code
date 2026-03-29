@@ -3,9 +3,9 @@ title: "Section 1011f - Disclosures of foreign gifts"
 usc_title: 20
 usc_section: "1011f"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1011f"
-generated_at: "2026-03-29T18:05:00.040Z"
+generated_at: "2026-03-29T18:24:40.892Z"
 ---
 
 # § 1011f. Disclosures of foreign gifts
@@ -15,12 +15,12 @@ generated_at: "2026-03-29T18:05:00.040Z"
   - **(1)** For gifts received from or contracts entered into with a foreign source other than a foreign government, the aggregate dollar amount of such gifts and contracts attributable to a particular country. The country to which a gift is attributable is the country of citizenship, or if unknown, the principal residence for a foreign source who is a natural person, and the country of incorporation, or if unknown, the principal place of business, for a foreign source which is a legal entity.
   - **(2)** For gifts received from or contracts entered into with a foreign government, the aggregate amount of such gifts and contracts received from each foreign government.
   - **(3)** In the case of an institution which is owned or controlled by a foreign source, the identity of the foreign source, the date on which the foreign source assumed ownership or control, and any changes in program or structure resulting from the change in ownership or control.
-- **(c)** Notwithstanding the provisions of subsection (b) of this section, whenever any institution receives a restricted or conditional gift or contract from a foreign source, the institution shall disclose the following:
+- **(c)** Notwithstanding the provisions of subsection (b), whenever any institution receives a restricted or conditional gift or contract from a foreign source, the institution shall disclose the following:
   - **(1)** For such gifts received from or contracts entered into with a foreign source other than a foreign government, the amount, the date, and a description of such conditions or restrictions. The report shall also disclose the country of citizenship, or if unknown, the principal residence for a foreign source which is a natural person, and the country of incorporation, or if unknown, the principal place of business for a foreign source which is a legal entity.
   - **(2)** For gifts received from or contracts entered into with a foreign government, the amount, the date, a description of such conditions or restrictions, and the name of the foreign government.
 - **(d)**
-  - **(1)** If an institution described under subsection (a) of this section is within a State which has enacted requirements for public disclosure of gifts from or contracts with a foreign source that are substantially similar to the requirements of this section, a copy of the disclosure report filed with the State may be filed with the Secretary in lieu of a report required under subsection (a) of this section. The State in which the institution is located shall provide to the Secretary such assurances as the Secretary may require to establish that the institution has met the requirements for public disclosure under State law if the State report is filed.
-  - **(2)** If an institution receives a gift from, or enters into a contract with, a foreign source, where any other department, agency, or bureau of the executive branch requires a report containing requirements substantially similar to those required under this section, a copy of the report may be filed with the Secretary in lieu of a report required under subsection (a) of this section.
+  - **(1)** If an institution described under subsection (a) is within a State which has enacted requirements for public disclosure of gifts from or contracts with a foreign source that are substantially similar to the requirements of this section, a copy of the disclosure report filed with the State may be filed with the Secretary in lieu of a report required under subsection (a). The State in which the institution is located shall provide to the Secretary such assurances as the Secretary may require to establish that the institution has met the requirements for public disclosure under State law if the State report is filed.
+  - **(2)** If an institution receives a gift from, or enters into a contract with, a foreign source, where any other department, agency, or bureau of the executive branch requires a report containing requirements substantially similar to those required under this section, a copy of the report may be filed with the Secretary in lieu of a report required under subsection (a).
 - **(e)** All disclosure reports required by this section shall be public records open to inspection and copying during business hours.
 - **(f)**
   - **(1)** Whenever it appears that an institution has failed to comply with the requirements of this section, including any rule or regulation promulgated under this section, a civil action may be brought by the Attorney General, at the request of the Secretary, in an appropriate district court of the United States, or the appropriate United States court of any territory or other place subject to the jurisdiction of the United States, to request such court to compel compliance with the requirements of this section.

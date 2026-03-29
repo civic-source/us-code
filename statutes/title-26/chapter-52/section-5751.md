@@ -3,9 +3,9 @@ title: "Section 5751 - Purchase, receipt, possession, or sale of tobacco product
 usc_title: 26
 usc_section: "5751"
 chapter: 52
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 5751"
-generated_at: "2026-03-29T18:05:44.948Z"
+generated_at: "2026-03-29T18:25:53.877Z"
 ---
 
 # § 5751. Purchase, receipt, possession, or sale of tobacco products and cigarette papers and tubes, after removal

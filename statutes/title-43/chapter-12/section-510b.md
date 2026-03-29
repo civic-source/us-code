@@ -3,9 +3,9 @@ title: "Section 510b - Extraordinary operation and maintenance work performed by
 usc_title: 43
 usc_section: "510b"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 510b"
-generated_at: "2026-03-29T18:06:28.288Z"
+generated_at: "2026-03-29T18:26:14.812Z"
 ---
 
 # § 510b. Extraordinary operation and maintenance work performed by the Secretary

@@ -1,14 +1,12 @@
 ---
-title: "Section 2883b - Transfer of administration of Job Corps program to Employment and Training Administration"
+title: "Section 2883b - Transferred"
 usc_title: 29
 usc_section: "2883b"
 chapter: 30
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 2883b"
-generated_at: "2026-03-29T18:05:31.826Z"
+generated_at: "2026-03-29T18:25:43.133Z"
 ---
 
-# § 2883b. Transfer of administration of Job Corps program to Employment and Training Administration
-
-The Secretary of Labor shall submit to the Committees on Appropriations of the House of Representatives and the Senate a plan for the transfer of the administration of the Job Corps program authorized under title I–C of the Workforce Investment Act of 1998 from the Office of the Secretary to the Employment and Training Administration. As of the date that is 30 days after the date of submission of such plan, the Secretary may transfer the administration and appropriated funds of the program from the Office of the Secretary and the provisions of section 2883a of this title shall no longer be applicable.
+# § 2883b. Transferred
 

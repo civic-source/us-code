@@ -3,9 +3,9 @@ title: "Section 670m - Indian rights; State or Federal jurisdiction regulating I
 usc_title: 16
 usc_section: "670m"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 670m"
-generated_at: "2026-03-29T18:05:06.797Z"
+generated_at: "2026-03-29T18:24:22.684Z"
 ---
 
 # § 670m. Indian rights; State or Federal jurisdiction regulating Indian rights

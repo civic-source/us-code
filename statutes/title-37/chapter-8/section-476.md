@@ -3,9 +3,9 @@ title: "Section 476 - Travel and transportation allowances: dependents; baggage 
 usc_title: 37
 usc_section: "476"
 chapter: 8
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "37 U.S.C. § 476"
-generated_at: "2026-03-29T18:06:17.227Z"
+generated_at: "2026-03-29T18:26:10.148Z"
 ---
 
 # § 476. Travel and transportation allowances: dependents; baggage and household effects
@@ -27,7 +27,7 @@ generated_at: "2026-03-29T18:06:17.227Z"
 - **(b)**
   - **(1)**
     - **(A)** Except as provided in paragraph (2), in connection with a change of temporary or permanent station, a member is entitled to transportation (including packing, crating, drayage, temporary storage, and unpacking) of baggage and household effects within the weight allowances listed in subparagraph (C), without regard to the comparative costs of the various modes of transportation. Temporary storage in excess of 180 days may be authorized. Alternatively, the member may be paid reimbursement or a monetary allowance under subparagraph (F).
-    - **(B)** Subject to uniform regulations prescribed by the Secretaries concerned, in the case of a permanent change of station in which the Secretary concerned has authorized transportation of a motor vehicle under section 2634 of title 10 (except when such transportation is authorized from the old duty station to the new duty station), the member is entitled to a monetary allowance for transportation of that motor vehicle—
+    - **(B)** Subject to uniform regulations prescribed by the Secretaries concerned, in the case of a permanent change of station in which the Secretary concerned has authorized transportation of a motor vehicle under section 2634 1 1 See References in Text note below. of title 10 (except when such transportation is authorized from the old duty station to the new duty station), the member is entitled to a monetary allowance for transportation of that motor vehicle—
       - **(i)** from the old duty station to—
         - **(I)** the customary port of embarkation which is nearest the old duty station if delivery of the motor vehicle to the port of embarkation is not made in conjunction with the member’s travel to the member’s port of embarkation; or
         - **(II)** the customary port of embarkation which is nearest to the member’s port of embarkation if delivery of the motor vehicle to the port of embarkation is made in conjunction with the member’s travel to the member’s port of embarkation;
@@ -69,7 +69,7 @@ generated_at: "2026-03-29T18:06:17.227Z"
 - **(h)**
   - **(1)** If the Secretary concerned determines that it is in the best interests of a member described in paragraph (2) or the member’s dependents and the United States, the Secretary may, when orders directing a change of permanent station for the member concerned have not been issued, or when they have been issued but cannot be used as authority for the transportation of the member’s dependents, baggage, and household effects—
     - **(A)** authorize the movement of the member’s dependents, baggage, and household effects at the station to an appropriate location in the United States or its possessions or, if the dependents are foreign nationals, to the country of the dependents’ origin and prescribe transportation in kind, reimbursement therefor, or a monetary allowance in place thereof, as the case may be, plus a per diem, as authorized under subsection (a) or (b); and
-    - **(B)** in the case of a member described in paragraph (2)(A), authorize the transportation of one motor vehicle, which is owned or leased by the member (or a dependent of the member) and is for the personal use of a dependent of the member, to that location by means of transportation authorized under section 2634 of title 10 or authorize the storage of the motor vehicle pursuant to subsection (b) of such section.
+    - **(B)** in the case of a member described in paragraph (2)(A), authorize the transportation of one motor vehicle, which is owned or leased by the member (or a dependent of the member) and is for the personal use of a dependent of the member, to that location by means of transportation authorized under section 2634 1 of title 10 or authorize the storage of the motor vehicle pursuant to subsection (b) of such section.
   - **(2)** A member referred to in paragraph (1) is a member who—
     - **(A)** is serving at a station outside the United States or in Hawaii or Alaska;
     - **(B)** receives an administrative discharge under other than honorable conditions; or

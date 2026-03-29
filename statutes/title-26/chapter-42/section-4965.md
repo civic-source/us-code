@@ -3,9 +3,9 @@ title: "Section 4965 - Excise tax on certain tax-exempt entities entering into p
 usc_title: 26
 usc_section: "4965"
 chapter: 42
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 4965"
-generated_at: "2026-03-29T18:05:44.908Z"
+generated_at: "2026-03-29T18:25:53.840Z"
 ---
 
 # § 4965. Excise tax on certain tax-exempt entities entering into prohibited tax shelter transactions
@@ -34,8 +34,9 @@ generated_at: "2026-03-29T18:05:44.908Z"
   - **(3)** an Indian tribal government (within the meaning of section 7701(a)(40)),
   - **(4)** described in paragraph (1), (2), or (3) of section 4979(e),
   - **(5)** a program described in section 529,
-  - **(6)** an eligible deferred compensation plan described in section 457(b) which is maintained by an employer described in section 457(e)(1)(A), or
-  - **(7)** an arrangement described in section 4973(a).
+  - **(6)** an eligible deferred compensation plan described in section 457(b) which is maintained by an employer described in section 457(e)(1)(A),
+  - **(7)** an arrangement described in section 4973(a), or
+  - **(8)** a program described in section 529A.
 - **(d)** For purposes of this section, the term “entity manager” means—
   - **(1)** in the case of an entity described in paragraph (1), (2), or (3) of subsection (c)—
     - **(A)** the person with authority or responsibility similar to that exercised by an officer, director, or trustee of an organization, and

@@ -3,9 +3,9 @@ title: "Section 104 - Compensation for injuries or sickness"
 usc_title: 26
 usc_section: "104"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 104"
-generated_at: "2026-03-29T18:05:44.471Z"
+generated_at: "2026-03-29T18:25:53.421Z"
 ---
 
 # § 104. Compensation for injuries or sickness
@@ -14,8 +14,11 @@ generated_at: "2026-03-29T18:05:44.471Z"
   - **(1)** amounts received under workmen’s compensation acts as compensation for personal injuries or sickness;
   - **(2)** the amount of any damages (other than punitive damages) received (whether by suit or agreement and whether as lump sums or as periodic payments) on account of personal physical injuries or physical sickness;
   - **(3)** amounts received through accident or health insurance (or through an arrangement having the effect of accident or health insurance) for personal injuries or sickness (other than amounts received by an employee, to the extent such amounts (A) are attributable to contributions by the employer which were not includible in the gross income of the employee, or (B) are paid by the employer);
-  - **(4)** amounts received as a pension, annuity, or similar allowance for personal injuries or sickness resulting from active service in the armed forces of any country or in the Coast and Geodetic Survey or the Public Health Service, or as a disability annuity payable under the provisions of section 808 of the Foreign Service Act of 1980; and
-  - **(5)** amounts received by an individual as disability income attributable to injuries incurred as a direct result of a terroristic or military action (as defined in section 692(c)(2)).
+  - **(4)** amounts received as a pension, annuity, or similar allowance for personal injuries or sickness resulting from active service in the armed forces of any country or in the Coast and Geodetic Survey or the Public Health Service, or as a disability annuity payable under the provisions of section 808 of the Foreign Service Act of 1980;
+  - **(5)** amounts received by an individual as disability income attributable to injuries incurred as a direct result of a terroristic or military action (as defined in section 692(c)(2)); and
+  - **(6)** amounts received pursuant to—
+    - **(A)** section 1201 of the Omnibus Crime Control and Safe Streets Act of 1968 ( 42 U.S.C. 3796 ); or
+    - **(B)** a program established under the laws of any State which provides monetary compensation for surviving dependents of a public safety officer who has died as the direct and proximate result of a personal injury sustained in the line of duty,
 - **(b)**
   - **(1)** Subsection (a)(4) shall not apply in the case of any individual who is not described in paragraph (2).
   - **(2)** An individual is described in this paragraph if—

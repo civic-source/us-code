@@ -3,9 +3,9 @@ title: "Section 497a - Occupancy and use under permit of lands in Alaska for var
 usc_title: 16
 usc_section: "497a"
 chapter: 2
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 497a"
-generated_at: "2026-03-29T18:05:06.737Z"
+generated_at: "2026-03-29T18:24:22.628Z"
 ---
 
 # § 497a. Occupancy and use under permit of lands in Alaska for various purposes; period of permit; size of allotment; prohibitions; termination

@@ -1,12 +1,12 @@
 ---
-title: "Section 155 - Repealed. May 25, 1948, ch. 335, § 3(c) , 62 Stat. 267"
+title: "Section 155 - Repealed. May 25, 1948, ch. 335 , § 3(c), 62 Stat. 267"
 usc_title: 50
 usc_section: "155"
 chapter: 9
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 155"
-generated_at: "2026-03-29T18:07:43.008Z"
+generated_at: "2026-03-29T18:27:35.585Z"
 ---
 
-# § 155. Repealed. May 25, 1948, ch. 335, § 3(c) , 62 Stat. 267
+# § 155. Repealed. May 25, 1948, ch. 335 , § 3(c), 62 Stat. 267
 

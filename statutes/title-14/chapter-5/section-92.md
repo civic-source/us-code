@@ -3,9 +3,9 @@ title: "Section 92 - Secretary; general powers"
 usc_title: 14
 usc_section: "92"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "14 U.S.C. § 92"
-generated_at: "2026-03-29T18:04:21.479Z"
+generated_at: "2026-03-29T18:23:55.766Z"
 ---
 
 # § 92. Secretary; general powers
@@ -16,7 +16,7 @@ For the purpose of executing the duties and functions of the Coast Guard the Sec
 - **(b)** arrange with the Secretaries of the Army, Navy and Air Force to assign members of the Coast Guard to any school maintained by the Army, Navy, and Air Force, for instruction and training, including aviation schools;
 - **(c)** construct, or cause to be constructed, Coast Guard shore establishments;
 - **(d)** design or cause to be designed, cause to be constructed, accept as gift, or otherwise acquire vessels, and subject to applicable regulations under subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 dispose of them;
-- **[(e)** Repealed. Oct. 31, 1951, ch. 654, § 1(32) , 65 Stat. 702 .]
+- **[(e)** Repealed. Oct. 31, 1951, ch. 654 , § 1(32), 65 Stat. 702 .]
 - **(f)** acquire land or interests in land, including acceptance of gifts thereof, where required for the purpose of carrying out any project or purpose for which an appropriation has been made;
 - **(g)** exchange land or interests in land in part or in full payment for such other land or interests in land as may be necessary or desirable, the balance of such part payment to be defrayable in accordance with other provisions of this section;
 - **(h)** exercise any of the powers vested by this title in the Commandant in any case in which the Secretary deems it appropriate; and

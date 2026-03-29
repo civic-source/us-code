@@ -3,9 +3,9 @@ title: "Section 6303 - Great ape conservation assistance"
 usc_title: 16
 usc_section: "6303"
 chapter: 82
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 6303"
-generated_at: "2026-03-29T18:05:07.092Z"
+generated_at: "2026-03-29T18:24:22.930Z"
 ---
 
 # § 6303. Great ape conservation assistance
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T18:05:07.092Z"
 - **(c)**
   - **(1)** The Secretary shall—
     - **(A)** not later than 30 days after receiving a project proposal, provide a copy of the proposal to other appropriate Federal officials; and
-    - **(B)** review each project proposal in a timely manner to determine if the proposal meets the criteria specified in subsection (d) of this section.
+    - **(B)** review each project proposal in a timely manner to determine if the proposal meets the criteria specified in subsection (d).
   - **(2)** Not later than 180 days after receiving a project proposal, and subject to the availability of funds, the Secretary, after consulting with other appropriate Federal officials, shall—
     - **(A)** consult on the proposal with the government of each country in which the project is to be conducted;
     - **(B)** after taking into consideration any comments resulting from the consultation, approve or disapprove the proposal; and

@@ -3,9 +3,9 @@ title: "Section 962 - Eligible entities"
 usc_title: 6
 usc_section: "962"
 chapter: 3
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "6 U.S.C. § 962"
-generated_at: "2026-03-29T18:03:43.289Z"
+generated_at: "2026-03-29T18:23:35.779Z"
 ---
 
 # § 962. Eligible entities

@@ -3,9 +3,9 @@ title: "Section 1059 - Corporate shareholder’s basis in stock reduced by nonta
 usc_title: 26
 usc_section: "1059"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 1059"
-generated_at: "2026-03-29T18:05:44.771Z"
+generated_at: "2026-03-29T18:25:53.713Z"
 ---
 
 # § 1059. Corporate shareholder’s basis in stock reduced by nontaxed portion of extraordinary dividends
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T18:05:44.771Z"
     - **(B)** the taxable portion of such dividend.
   - **(2)** The taxable portion of any dividend is—
     - **(A)** the portion of such dividend includible in gross income, reduced by
-    - **(B)** the amount of any deduction allowable with respect to such dividend under section 243, 244, or 245.
+    - **(B)** the amount of any deduction allowable with respect to such dividend under section 243 or 245.
 - **(c)** For purposes of this section—
   - **(1)** The term “extraordinary dividend” means any dividend with respect to a share of stock if the amount of such dividend equals or exceeds the threshold percentage of the taxpayer’s adjusted basis in such share of stock.
   - **(2)** The term “threshold percentage” means—

@@ -3,9 +3,9 @@ title: "Section 2293 - Bar to prosecution"
 usc_title: 18
 usc_section: "2293"
 chapter: 111
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "18 U.S.C. § 2293"
-generated_at: "2026-03-29T18:04:50.950Z"
+generated_at: "2026-03-29T18:24:43.843Z"
 ---
 
 # § 2293. Bar to prosecution

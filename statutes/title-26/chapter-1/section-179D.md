@@ -3,9 +3,9 @@ title: "Section 179D - Energy efficient commercial buildings deduction"
 usc_title: 26
 usc_section: "179D"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 179D"
-generated_at: "2026-03-29T18:05:44.533Z"
+generated_at: "2026-03-29T18:25:53.479Z"
 ---
 
 # § 179D. Energy efficient commercial buildings deduction
@@ -21,13 +21,13 @@ generated_at: "2026-03-29T18:05:44.533Z"
     - **(A)** with respect to which depreciation (or amortization in lieu of depreciation) is allowable,
     - **(B)** which is installed on or in any building which is—
       - **(i)** located in the United States, and
-      - **(ii)** within the scope of Standard 90.1–2001,
+      - **(ii)** within the scope of Standard 90.1–2007,
     - **(C)** which is installed as part of—
       - **(i)** the interior lighting systems,
       - **(ii)** the heating, cooling, ventilation, and hot water systems, or
       - **(iii)** the building envelope, and
-    - **(D)** which is certified in accordance with subsection (d)(6) as being installed as part of a plan designed to reduce the total annual energy and power costs with respect to the interior lighting systems, heating, cooling, ventilation, and hot water systems of the building by 50 percent or more in comparison to a reference building which meets the minimum requirements of Standard 90.1–2001 using methods of calculation under subsection (d)(2).
-  - **(2)** The term “Standard 90.1–2001” means Standard 90.1–2001 of the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America (as in effect on April 2, 2003 ).
+    - **(D)** which is certified in accordance with subsection (d)(6) as being installed as part of a plan designed to reduce the total annual energy and power costs with respect to the interior lighting systems, heating, cooling, ventilation, and hot water systems of the building by 50 percent or more in comparison to a reference building which meets the minimum requirements of Standard 90.1–2007 using methods of calculation under subsection (d)(2).
+  - **(2)** The term “Standard 90.1–2007” means Standard 90.1–2007 of the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America (as in effect on the day before the date of the adoption of Standard 90.1–2010 of such Societies).
 - **(d)**
   - **(1)**
     - **(A)** Except as provided in subsection (f), if—
@@ -49,16 +49,16 @@ generated_at: "2026-03-29T18:05:44.533Z"
     - **(C)** Individuals qualified to determine compliance shall be only those individuals who are recognized by an organization certified by the Secretary for such purposes.
 - **(e)** For purposes of this subtitle, if a deduction is allowed under this section with respect to any energy efficient commercial building property, the basis of such property shall be reduced by the amount of the deduction so allowed.
 - **(f)** Until such time as the Secretary issues final regulations under subsection (d)(1)(B) with respect to property which is part of a lighting system—
-  - **(1)** The lighting system target under subsection (d)(1)(A)(ii) shall be a reduction in lighting power density of 25 percent (50 percent in the case of a warehouse) of the minimum requirements in Table 9.3.1.1 or Table 9.3.1.2 (not including additional interior lighting power allowances) of Standard 90.1–2001.
+  - **(1)** The lighting system target under subsection (d)(1)(A)(ii) shall be a reduction in lighting power density of 25 percent (50 percent in the case of a warehouse) of the minimum requirements in Table 9.5.1 or Table 9.6.1 (not including additional interior lighting power allowances) of Standard 90.1–2007.
   - **(2)**
     - **(A)** If, with respect to the lighting system of any building other than a warehouse, the reduction in lighting power density of the lighting system is not at least 40 percent, only the applicable percentage of the amount of deduction otherwise allowable under this section with respect to such property shall be allowed.
     - **(B)** For purposes of subparagraph (A), the applicable percentage is the number of percentage points (not greater than 100) equal to the sum of—
       - **(i)** 50, and
       - **(ii)** the amount which bears the same ratio to 50 as the excess of the reduction of lighting power density of the lighting system over 25 percentage points bears to 15.
     - **(C)** This subsection shall not apply to any system—
-      - **(i)** the controls and circuiting of which do not comply fully with the mandatory and prescriptive requirements of Standard 90.1–2001 and which do not include provision for bilevel switching in all occupancies except hotel and motel guest rooms, store rooms, restrooms, and public lobbies, or
+      - **(i)** the controls and circuiting of which do not comply fully with the mandatory and prescriptive requirements of Standard 90.1–2007 and which do not include provision for bilevel switching in all occupancies except hotel and motel guest rooms, store rooms, restrooms, and public lobbies, or
       - **(ii)** which does not meet the minimum requirements for calculated lighting levels as set forth in the Illuminating Engineering Society of North America Lighting Handbook, Performance and Application, Ninth Edition, 2000.
 - **(g)** The Secretary shall promulgate such regulations as necessary—
   - **(1)** to take into account new technologies regarding energy efficiency and renewable energy for purposes of determining energy efficiency and savings under this section, and
   - **(2)** to provide for a recapture of the deduction allowed under this section if the plan described in subsection (c)(1)(D) or (d)(1)(A) is not fully implemented.
-- **(h)** This section shall not apply with respect to property placed in service after December 31, 2013 .
+- **(h)** This section shall not apply with respect to property placed in service after December 31, 2016 .

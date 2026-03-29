@@ -3,9 +3,9 @@ title: "Section 22 - Treatment of enrolled WTC responders for WTC-related health
 usc_title: 42
 usc_section: "22"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 22"
-generated_at: "2026-03-29T18:07:13.658Z"
+generated_at: "2026-03-29T18:27:02.848Z"
 ---
 
 # § 300mm–22. Treatment of enrolled WTC responders for WTC-related health conditions
@@ -65,16 +65,22 @@ generated_at: "2026-03-29T18:07:13.658Z"
     - **(D)** In the case that the WTC Program Administrator determines under subparagraph (B) or (C) that cancer or a certain type of cancer should not be added to such list of WTC-related health conditions, the WTC Program Administrator shall publish an explanation for such determination in the Federal Register. Any such determination to not make such an addition shall not preclude the addition of cancer or the certain type of cancer to such list at a later date.
   - **(6)**
     - **(A)** Whenever the WTC Program Administrator determines that a proposed rule should be promulgated to add a health condition to the list of health conditions in paragraph (3), the Administrator may request a recommendation of the Advisory Committee or may publish such a proposed rule in the Federal Register in accordance with subparagraph (D).
-    - **(B)** In the case that the WTC Program Administrator receives a written petition by an interested party to add a health condition to the list of health conditions in paragraph (3), not later than 60 days after the date of receipt of such petition the Administrator shall—
+    - **(B)** In the case that the WTC Program Administrator receives a written petition by an interested party to add a health condition to the list of health conditions in paragraph (3), not later than 90 days after the date of receipt of such petition the Administrator shall—
       - **(i)** request a recommendation of the Advisory Committee;
       - **(ii)** publish a proposed rule in the Federal Register to add such health condition, in accordance with subparagraph (D);
       - **(iii)** publish in the Federal Register the Administrator’s determination not to publish such a proposed rule and the basis for such determination; or
       - **(iv)** publish in the Federal Register a determination that insufficient evidence exists to take action under clauses (i) through (iii).
-    - **(C)** In the case that the Administrator requests a recommendation of the Advisory Committee under this paragraph, with respect to adding a health condition to the list in paragraph (3), the Advisory Committee shall submit to the Administrator such recommendation not later than 60 days after the date of such request or by such date (not to exceed 180 days after such date of request) as specified by the Administrator. Not later than 60 days after the date of receipt of such recommendation, the Administrator shall, in accordance with subparagraph (D), publish in the Federal Register a proposed rule with respect to such recommendation or a determination not to propose such a proposed rule and the basis for such determination.
+    - **(C)** In the case that the Administrator requests a recommendation of the Advisory Committee under this paragraph, with respect to adding a health condition to the list in paragraph (3), the Advisory Committee shall submit to the Administrator such recommendation not later than 90 days after the date of such request or by such date (not to exceed 180 days after such date of request) as specified by the Administrator. Not later than 90 days after the date of receipt of such recommendation, the Administrator shall, in accordance with subparagraph (D), publish in the Federal Register a proposed rule with respect to such recommendation or a determination not to propose such a proposed rule and the basis for such determination.
     - **(D)** The WTC Program Administrator shall, with respect to any proposed rule under this paragraph—
       - **(i)** publish such proposed rule in accordance with section 553 of title 5 ; and
       - **(ii)** provide interested parties a period of 30 days after such publication to submit written comments on the proposed rule.
     - **(E)** For purposes of this paragraph, the term “interested party” includes a representative of any organization representing WTC responders, a nationally recognized medical association, a Clinical or Data Center, a State or political subdivision, or any other interested person.
+    - **(F)** Prior to issuing a final rule to add a health condition to the list in paragraph (3), the WTC Program Administrator shall provide for an independent peer review of the scientific and technical evidence that would be the basis for issuing such final rule.
+    - **(G)**
+      - **(i)**
+        - **(I)** Not later than 1 year after December 18, 2015 , the WTC Program Administrator shall request the Advisory Committee to review and evaluate the policies and procedures, in effect at the time of the review and evaluation, that are used to determine whether sufficient evidence exists to support adding a health condition to the list in paragraph (3).
+        - **(II)** Prior to establishing any substantive new policy or procedure used to make the determination described in subclause (I) or prior to making any substantive amendment to any policy or procedure described in such subclause, the WTC Program Administrator shall request the Advisory Committee to review and evaluate such substantive policy, procedure, or amendment.
+      - **(ii)** Not later than 1 year after December 18, 2015 , and not less than every 2 years thereafter, the WTC Program Administrator shall seek recommendations from the Advisory Committee regarding the identification of individuals to conduct the independent peer reviews under subparagraph (F).
 - **(b)**
   - **(1)**
     - **(A)** If a physician at a Clinical Center of Excellence that is providing monitoring benefits under section 300mm–21 of this title for an enrolled WTC responder makes a determination that the responder has a WTC-related health condition that is in the list in subsection (a)(3) and that exposure to airborne toxins, other hazards, or adverse conditions resulting from the September 1, 2001 , terrorist attacks is substantially likely to be a significant factor in aggravating, contributing to, or causing the condition—

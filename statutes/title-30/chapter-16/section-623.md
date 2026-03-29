@@ -3,9 +3,9 @@ title: "Section 623 - Recording and reporting of unpatented claims; time"
 usc_title: 30
 usc_section: "623"
 chapter: 16
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "30 U.S.C. § 623"
-generated_at: "2026-03-29T18:05:26.162Z"
+generated_at: "2026-03-29T18:25:30.868Z"
 ---
 
 # § 623. Recording and reporting of unpatented claims; time

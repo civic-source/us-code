@@ -3,13 +3,13 @@ title: "Section 1421f - Title to property transferred"
 usc_title: 48
 usc_section: "1421f"
 chapter: 8
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "48 U.S.C. § 1421f"
-generated_at: "2026-03-29T18:07:36.844Z"
+generated_at: "2026-03-29T18:27:11.652Z"
 ---
 
 # § 1421f. Title to property transferred
 
 - **(a)** The title to all property, real and personal, owned by the United States and employed by the naval government of Guam in the administration of the civil affairs of the inhabitants of Guam, including automotive and other equipment, tools and machinery, water and sewerage facilities, bus lines and other utilities, hospitals, schools, and other buildings, shall be transferred to the government of Guam within ninety days after August 1, 1950 .
 - **(b)** All other property, real and personal, owned by the United States in Guam, not reserved by the President of the United States within ninety days after August 1, 1950 , is placed under the control of the government of Guam, to be administered for the benefit of the people of Guam, and the legislature shall have authority, subject to such limitations as may be imposed upon its acts by this chapter or subsequent Act of the Congress, to legislate with respect to such property, real and personal, in such manner as it may deem desirable.
-- **(c)** All property owned by the United States in Guam, the title to which is not transferred to the government of Guam by subsection (a) of this section, or which is not placed under the control of the government of Guam by subsection (b) of this section, is transferred to the administrative supervision of the Secretary of the Interior, except as the President may from time to time otherwise prescribe: Provided , That the Secretary of the Interior shall be authorized to lease or to sell, on such terms as he may deem in the public interest, any property, real and personal, of the United States under his administrative supervision in Guam not needed for public purposes.
+- **(c)** All property owned by the United States in Guam, the title to which is not transferred to the government of Guam by subsection (a) hereof, or which is not placed under the control of the government of Guam by subsection (b) hereof, is transferred to the administrative supervision of the Secretary of the Interior, except as the President may from time to time otherwise prescribe: Provided , That the Secretary of the Interior shall be authorized to lease or to sell, on such terms as he may deem in the public interest, any property, real and personal, of the United States under his administrative supervision in Guam not needed for public purposes.

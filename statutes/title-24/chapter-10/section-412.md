@@ -3,14 +3,14 @@ title: "Section 412 - Residents of Retirement Home"
 usc_title: 24
 usc_section: "412"
 chapter: 10
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "24 U.S.C. § 412"
-generated_at: "2026-03-29T18:05:10.892Z"
+generated_at: "2026-03-29T18:25:00.385Z"
 ---
 
 # § 412. Residents of Retirement Home
 
-- **(a)** Except as provided in subsection (b) of this section, the following persons who served as members of the Armed Forces, at least one-half of whose service was not active commissioned service (other than as a warrant officer or limited-duty officer), are eligible to become residents of the Retirement Home:
+- **(a)** Except as provided in subsection (b), the following persons who served as members of the Armed Forces, at least one-half of whose service was not active commissioned service (other than as a warrant officer or limited-duty officer), are eligible to become residents of the Retirement Home:
   - **(1)** Persons who—
     - **(A)** are 60 years of age or over; and
     - **(B)** were discharged or released from service in the Armed Forces under honorable conditions after 20 or more years of active service.
@@ -22,6 +22,6 @@ generated_at: "2026-03-29T18:05:10.892Z"
   - **(4)** Persons who—
     - **(A)** served in a women’s component of the Armed Forces before June 12, 1948 ; and
     - **(B)** are determined under rules prescribed by the Chief Operating Officer to be eligible for admission because of compelling personal circumstances.
-- **(b)** A person described in subsection (a) of this section who has been convicted of a felony or is not free of drug, alcohol, or psychiatric problems shall be ineligible to become a resident of the Retirement Home.
+- **(b)** A person described in subsection (a) who has been convicted of a felony or is not free of drug, alcohol, or psychiatric problems shall be ineligible to become a resident of the Retirement Home.
 - **(c)** To apply for acceptance as a resident of a facility of the Retirement Home, a person eligible to be a resident shall submit to the Administrator of that facility an application in such form and containing such information as the Chief Operating Officer may require.
 - **(d)** The Chief Operating Officer shall establish a system of priorities for the acceptance of residents so that the most deserving applicants will be accepted whenever the number of eligible applicants is greater than the Retirement Home can accommodate.

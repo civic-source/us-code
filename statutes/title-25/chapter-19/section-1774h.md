@@ -1,14 +1,12 @@
 ---
-title: "Section 1774h - Authorization of appropriations"
+title: "Section 1774h - Omitted"
 usc_title: 25
 usc_section: "1774h"
 chapter: 19
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1774h"
-generated_at: "2026-03-29T18:05:17.182Z"
+generated_at: "2026-03-29T18:25:23.751Z"
 ---
 
-# § 1774h. Authorization of appropriations
-
-There is authorized to be appropriated such sums as may be necessary to carry out this subchapter.
+# § 1774h. Omitted
 

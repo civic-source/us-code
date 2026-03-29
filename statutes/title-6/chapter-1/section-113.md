@@ -3,9 +3,9 @@ title: "Section 113 - Other officers"
 usc_title: 6
 usc_section: "113"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "6 U.S.C. § 113"
-generated_at: "2026-03-29T18:03:43.227Z"
+generated_at: "2026-03-29T18:23:35.723Z"
 ---
 
 # § 113. Other officers
@@ -14,11 +14,11 @@ generated_at: "2026-03-29T18:03:43.227Z"
   - **(1)** Except as provided under paragraph (2), there are the following officers, appointed by the President, by and with the advice and consent of the Senate:
     - **(A)** A Deputy Secretary of Homeland Security, who shall be the Secretary’s first assistant for purposes of subchapter III of chapter 33 of title 5.
     - **(B)** An Under Secretary for Science and Technology.
-    - **(C)** An Under Secretary for Border and Transportation Security.
+    - **(C)** A Commissioner of U.S. Customs and Border Protection.
     - **(D)** An Administrator of the Federal Emergency Management Agency.
     - **(E)** A Director of the Bureau of Citizenship and Immigration Services.
     - **(F)** An Under Secretary for Management.
-    - **(G)** A Director of the Office of Counternarcotics Enforcement.
+    - **(G)** A Director of U.S. Immigration and Customs Enforcement.
     - **(H)** An Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and other related programs of the Department.
     - **(I)** Not more than 12 Assistant Secretaries.
     - **(J)** A General Counsel, who shall be the chief legal officer of the Department.

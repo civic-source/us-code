@@ -3,9 +3,9 @@ title: "Section 4481 - Imposition of tax"
 usc_title: 26
 usc_section: "4481"
 chapter: 36
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 4481"
-generated_at: "2026-03-29T18:05:44.894Z"
+generated_at: "2026-03-29T18:25:53.826Z"
 ---
 
 # § 4481. Imposition of tax
@@ -21,4 +21,4 @@ generated_at: "2026-03-29T18:05:44.894Z"
   - **(1)** To the extent that the tax imposed by this section is paid with respect to any highway motor vehicle for any taxable period, no further tax shall be imposed by this section for such taxable period with respect to such vehicle.
   - **(2)** For privilege of paying tax imposed by this section in installments, see section 6156. 1 1 See References in Text note below.
 - **(e)** Any taxpayer who files a return under this section with respect to 25 or more vehicles for any taxable period shall file such return electronically.
-- **(f)** The tax imposed by this section shall apply only to use before October 1, 2017 .
+- **(f)** The tax imposed by this section shall apply only to use before October 1, 2023 .

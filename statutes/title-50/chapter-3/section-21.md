@@ -3,12 +3,12 @@ title: "Section 21 - Restraint, regulation, and removal"
 usc_title: 50
 usc_section: "21"
 chapter: 3
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 21"
-generated_at: "2026-03-29T18:07:43.004Z"
+generated_at: "2026-03-29T18:27:35.581Z"
 ---
 
 # § 21. Restraint, regulation, and removal
 
-Whenever there is a declared war between the United States and any foreign nation or government, or any invasion or predatory incursion is perpetrated, attempted or threatened against the territory of the United States by any foreign nation or government, and the President makes public proclamation of the event, all natives, citizens, denizens, or subjects of the hostile nation or government, being of the age of fourteen years and upward, who shall be within the United States and not actually naturalized, shall be liable to be apprehended, restrained, secured, and removed as alien enemies. The President is authorized in any such event, by his proclamation thereof, or other public act, to direct the conduct to be observed on the part of the United States, toward the aliens who become so liable; the manner and degree of the restraint to which they shall be subject and in what cases, and upon what security their residence shall be permitted, and to provide for the removal of those who, not being permitted to reside within the United States, refuse or neglect to depart therefrom; and to establish any other regulations which are found necessary in the premises and for the public safety.
+Whenever there is a declared war between the United States and any foreign nation or government, or any invasion or predatory incursion is perpetrated, attempted, or threatened against the territory of the United States by any foreign nation or government, and the President makes public proclamation of the event, all natives, citizens, denizens, or subjects of the hostile nation or government, being of the age of fourteen years and upward, who shall be within the United States and not actually naturalized, shall be liable to be apprehended, restrained, secured, and removed as alien enemies. The President is authorized in any such event, by his proclamation thereof, or other public act, to direct the conduct to be observed on the part of the United States, toward the aliens who become so liable; the manner and degree of the restraint to which they shall be subject and in what cases, and upon what security their residence shall be permitted, and to provide for the removal of those who, not being permitted to reside within the United States, refuse or neglect to depart therefrom; and to establish any other regulations which are found necessary in the premises and for the public safety.
 

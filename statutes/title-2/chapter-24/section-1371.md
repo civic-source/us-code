@@ -1,18 +1,18 @@
 ---
-title: "Section 1371 - Study and recommendations regarding Government Accountability Office, Government Printing Office, and Library of Congress"
+title: "Section 1371 - Study and recommendations regarding General Accounting Office, Government Printing Office, and Library of Congress"
 usc_title: 2
 usc_section: "1371"
 chapter: 24
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "2 U.S.C. § 1371"
-generated_at: "2026-03-29T18:03:21.788Z"
+generated_at: "2026-03-29T18:23:14.109Z"
 ---
 
-# § 1371. Study and recommendations regarding Government Accountability Office, Government Printing Office, and Library of Congress
+# § 1371. Study and recommendations regarding General Accounting Office, Government Printing Office, and Library of Congress
 
 - **(a)** The Board shall undertake a study of—
-  - **(1)** the application of the laws listed in subsection (b) of this section to—
-    - **(A)** the Government Accountability Office;
+  - **(1)** the application of the laws listed in subsection (b) to—
+    - **(A)** the General Accounting Office;
     - **(B)** the Government Printing Office; and
     - **(C)** the Library of Congress; and
   - **(2)** the regulations and procedures used by the entities referred to in paragraph (1) to apply and enforce such laws to themselves and their employees.
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T18:03:21.788Z"
   - **(10)** The Employee Polygraph Protection Act of 1988 ( 29 U.S.C. 2001 et seq.).
   - **(11)** The Worker Adjustment and Retraining Notification Act ( 29 U.S.C. 2101 et seq.).
   - **(12)** Chapter 43 (relating to veterans’ employment and reemployment) of title 38.
-- **(c)** The study under this section shall evaluate whether the rights, protections, and procedures, including administrative and judicial relief, applicable to the entities listed in paragraph (1) of subsection (a) of this section and their employees are comprehensive and effective and shall include recommendations for any improvements in regulations or legislation, including proposed regulatory or legislative language.
+- **(c)** The study under this section shall evaluate whether the rights, protections, and procedures, including administrative and judicial relief, applicable to the entities listed in paragraph (1) of subsection (a) and their employees are comprehensive and effective and shall include recommendations for any improvements in regulations or legislation, including proposed regulatory or legislative language.
 - **(d)** Not later than December 31, 1996 —
   - **(1)** the Board shall prepare and complete the study and recommendations required under this section; and
   - **(2)** the Board shall transmit such study and recommendations (with the Board’s comments) to the head of each entity considered in the study, and to the Congress by delivery to the Speaker of the House of Representatives and President pro tempore of the Senate for referral to the appropriate committees of the House of Representatives and of the Senate.

@@ -3,9 +3,9 @@ title: "Section 774 - Reports and recommendations"
 usc_title: 15
 usc_section: "774"
 chapter: 16
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 774"
-generated_at: "2026-03-29T18:04:29.522Z"
+generated_at: "2026-03-29T18:24:08.421Z"
 ---
 
 # § 774. Reports and recommendations
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T18:04:29.522Z"
   - **(6)** an analysis of the energy needs of the United States and the methods by which such needs can be met, including both tax and nontax proposals and energy conservation strategies.
 - **(c)** Not later than thirty days after the effective date of this chapter, the Administrator shall issue preliminary summer guidelines for citizen fuel use.
 - **(d)** The Administrator shall provide interim reports to the Congress from time to time and when requested by committees of Congress.
-- **(e)** The analysis referred to in subsection (b)(6) of this section shall include, for each of the next five fiscal years following the year in which the annual report is submitted and for the tenth fiscal year following such year—
+- **(e)** The analysis referred to in subsection (b)(6) shall include, for each of the next five fiscal years following the year in which the annual report is submitted and for the tenth fiscal year following such year—
   - **(1)** the effect of various conservation programs on such energy needs;
   - **(2)** the alternate methods of meeting the energy needs identified in such annual report and of—
     - **(A)** the relative capital and other economic costs of each such method;

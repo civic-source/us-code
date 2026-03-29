@@ -3,17 +3,17 @@ title: "Section 1679d - Credit repair organizations contracts"
 usc_title: 15
 usc_section: "1679d"
 chapter: 41
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 1679d"
-generated_at: "2026-03-29T18:04:29.613Z"
+generated_at: "2026-03-29T18:24:08.480Z"
 ---
 
 # § 1679d. Credit repair organizations contracts
 
 - **(a)** No services may be provided by any credit repair organization for any consumer—
-  - **(1)** unless a written and dated contract (for the purchase of such services) which meets the requirements of subsection (b) of this section has been signed by the consumer; or
+  - **(1)** unless a written and dated contract (for the purchase of such services) which meets the requirements of subsection (b) has been signed by the consumer; or
   - **(2)** before the end of the 3-business-day period beginning on the date the contract is signed.
-- **(b)** No contract referred to in subsection (a) of this section meets the requirements of this subsection unless such contract includes (in writing)—
+- **(b)** No contract referred to in subsection (a) meets the requirements of this subsection unless such contract includes (in writing)—
   - **(1)** the terms and conditions of payment, including the total amount of all payments to be made by the consumer to the credit repair organization or to any other person;
   - **(2)** a full and detailed description of the services to be performed by the credit repair organization for the consumer, including—
     - **(A)** all guarantees of performance; and

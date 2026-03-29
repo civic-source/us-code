@@ -3,9 +3,9 @@ title: "Section 10402 - Definitions"
 usc_title: 42
 usc_section: "10402"
 chapter: 110
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 10402"
-generated_at: "2026-03-29T18:07:15.144Z"
+generated_at: "2026-03-29T18:27:03.988Z"
 ---
 
 # § 10402. Definitions
@@ -21,7 +21,7 @@ In this chapter:
       - **(i)** is related by blood;
       - **(ii)** is or was related by marriage or is or was otherwise legally related; or
       - **(iii)** is or was lawfully residing.
-  - **(5)** The terms “Indian”, “Indian tribe”, and “tribal organization” have the meanings given such terms in section 450b of title 25 .
+  - **(5)** The terms “Indian”, “Indian tribe”, and “tribal organization” have the meanings given such terms in section 5304 of title 25 .
   - **(6)** The term “Native Hawaiian” has the meaning given the term in section 7517 of title 20 .
   - **(7)** The term “personally identifying information” has the meaning given the term in section 13925(a) of this title .
   - **(8)** The term “Secretary” means the Secretary of Health and Human Services.

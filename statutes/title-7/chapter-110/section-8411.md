@@ -3,9 +3,9 @@ title: "Section 8411 - Interagency coordination"
 usc_title: 7
 usc_section: "8411"
 chapter: 110
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 8411"
-generated_at: "2026-03-29T18:04:05.169Z"
+generated_at: "2026-03-29T18:23:43.563Z"
 ---
 
 # § 8411. Interagency coordination
@@ -39,4 +39,4 @@ generated_at: "2026-03-29T18:04:05.169Z"
     - **(C)** A procedure through which the agencies administering such programs concur in determinations that access to overlap agents and toxins will be granted.
   - **(4)** The memorandum of understanding under paragraph (1) shall provide for the development and implementation of procedures under which Federal personnel under the section 351A program and the section 212 program may share responsibilities for inspections and enforcement activities under such programs regarding overlap agents and toxins. Activities carried out under such procedures by one of such programs on behalf of the other may be carried out with or without reimbursement by the agency that administers the other program.
   - **(5)** The memorandum of understanding under paragraph (1) shall be implemented not later than 180 days after June 12, 2002 . Until the single system of registration under paragraph (2) is implemented, persons who possess, use, or transfer overlap agents or toxins shall register under both the section 351A program and the section 212 program.
-- **(d)** Not later than 18 months after the date on which the single system of registration under subsection (c)(2) of this section is implemented, the Secretary of Health and Human Services and the Secretary of Agriculture shall jointly issue regulations for the possession, use, and transfer of overlap agents and toxins that meet the requirements of both the section 351A program and the section 212 program.
+- **(d)** Not later than 18 months after the date on which the single system of registration under subsection (c)(2) is implemented, the Secretary of Health and Human Services and the Secretary of Agriculture shall jointly issue regulations for the possession, use, and transfer of overlap agents and toxins that meet the requirements of both the section 351A program and the section 212 program.

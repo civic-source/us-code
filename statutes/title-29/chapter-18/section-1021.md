@@ -3,9 +3,9 @@ title: "Section 1021 - Duty of disclosure and reporting"
 usc_title: 29
 usc_section: "1021"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 1021"
-generated_at: "2026-03-29T18:05:31.726Z"
+generated_at: "2026-03-29T18:25:43.059Z"
 ---
 
 # § 1021. Duty of disclosure and reporting
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T18:05:31.726Z"
     - **(A)** Not later than 60 days before the date of any qualified transfer by an employee pension benefit plan of excess pension assets to a health benefits account or applicable life insurance account, the employer maintaining the plan from which the transfer is made shall provide the Secretary, the Secretary of the Treasury, the administrator, and each employee organization representing participants in the plan a written notice of such transfer. A copy of any such notice shall be available for inspection in the principal office of the administrator.
     - **(B)** Such notice shall identify the plan from which the transfer is made, the amount of the transfer, a detailed accounting of assets projected to be held by the plan immediately before and immediately after the transfer, and the current liabilities under the plan at the time of the transfer.
     - **(C)** The Secretary may prescribe such additional reporting requirements as may be necessary to carry out the purposes of this section.
-  - **(3)** For purposes of paragraph (1), any term used in such paragraph which is also used in section 420 of title 26 (as in effect on July 6, 2012 ) shall have the same meaning as when used in such section.
+  - **(3)** For purposes of paragraph (1), any term used in such paragraph which is also used in section 420 of title 26 (as in effect on July 31, 2015 ) shall have the same meaning as when used in such section.
 - **(f)**
   - **(1)** The administrator of a defined benefit plan to which subchapter III applies shall for each plan year provide a plan funding notice to the Pension Benefit Guaranty Corporation, to each plan participant and beneficiary, to each labor organization representing such participants or beneficiaries, and, in the case of a multiemployer plan, to each employer that has an obligation to contribute to the plan.
   - **(2)**
@@ -38,10 +38,10 @@ generated_at: "2026-03-29T18:05:31.726Z"
     - **(B)** A plan funding notice under paragraph (1) shall include—
       - **(i)**
         - **(I)** in the case of a single-employer plan, a statement as to whether the plan’s funding target attainment percentage (as defined in section 1083(d)(2) of this title ) for the plan year to which the notice relates, and for the 2 preceding plan years, is at least 100 percent (and, if not, the actual percentages), or
-        - **(II)** in the case of a multiemployer plan, a statement as to whether the plan’s funded percentage (as defined in section 1085(i) of this title ) for the plan year to which the notice relates, and for the 2 preceding plan years, is at least 100 percent (and, if not, the actual percentages),
+        - **(II)** in the case of a multiemployer plan, a statement as to whether the plan’s funded percentage (as defined in section 1085(i) 1 of this title) for the plan year to which the notice relates, and for the 2 preceding plan years, is at least 100 percent (and, if not, the actual percentages),
       - **(ii)**
         - **(I)** in the case of a single-employer plan, a statement of—
-        - **(II)** in the case of a multiemployer plan, a statement, for the plan year to which the notice relates and the preceding 2 plan years, of the value of the plan assets (determined both in the same manner as under section 1084 of this title and under the rules of subclause (I)(bb)) and the value of the plan liabilities (determined in the same manner as under section 1084 of this title except that the method specified in section 1085(i)(8) of this title shall be used),
+        - **(II)** in the case of a multiemployer plan, a statement, for the plan year to which the notice relates and the preceding 2 plan years, of the value of the plan assets (determined both in the same manner as under section 1084 of this title and under the rules of subclause (I)(bb)) and the value of the plan liabilities (determined in the same manner as under section 1084 of this title except that the method specified in section 1085(i)(8) 1 of this title shall be used),
       - **(iii)** a statement of the number of participants who are—
         - **(I)** retired or separated from service and are receiving benefits,
         - **(II)** retired or separated participants entitled to future benefits, and
@@ -50,22 +50,26 @@ generated_at: "2026-03-29T18:05:31.726Z"
       - **(v)** in the case of a multiemployer plan, whether the plan was in critical or endangered status under section 1085 of this title for such plan year and, if so—
         - **(I)** a statement describing how a person may obtain a copy of the plan’s funding improvement or rehabilitation plan, as appropriate, adopted under section 1085 of this title and the actuarial and financial data that demonstrate any action taken by the plan toward fiscal improvement, and
         - **(II)** a summary of any funding improvement plan, rehabilitation plan, or modification thereof adopted under section 1085 of this title during the plan year to which the notice relates,
-      - **(vi)** in the case of any plan amendment, scheduled benefit increase or reduction, or other known event taking effect in the current plan year and having a material effect on plan liabilities or assets for the year (as defined in regulations by the Secretary), an explanation of the amendment, schedule increase or reduction, or event, and a projection to the end of such plan year of the effect of the amendment, scheduled increase or reduction, or event on plan liabilities,
-      - **(vii)**
+      - **(vi)** in the case of a multiemployer plan, whether the plan was in critical and declining status under section 1085 of this title for such plan year and, if so—
+        - **(I)** the projected date of insolvency;
+        - **(II)** a clear statement that such insolvency may result in benefit reductions; and
+        - **(III)** a statement describing whether the plan sponsor has taken legally permitted actions to prevent insolvency.
+      - **(vii)** in the case of any plan amendment, scheduled benefit increase or reduction, or other known event taking effect in the current plan year and having a material effect on plan liabilities or assets for the year (as defined in regulations by the Secretary), an explanation of the amendment, schedule increase or reduction, or event, and a projection to the end of such plan year of the effect of the amendment, scheduled increase or reduction, or event on plan liabilities,
+      - **(viii)**
         - **(I)** in the case of a single-employer plan, a summary of the rules governing termination of single-employer plans under subtitle C of subchapter III, or
         - **(II)** in the case of a multiemployer plan, a summary of the rules governing reorganization or insolvency, including the limitations on benefit payments,
-      - **(viii)** a general description of the benefits under the plan which are eligible to be guaranteed by the Pension Benefit Guaranty Corporation, along with an explanation of the limitations on the guarantee and the circumstances under which such limitations apply,
-      - **(ix)** a statement that a person may obtain a copy of the annual report of the plan filed under section 1024(a) of this title upon request, through the Internet website of the Department of Labor, or through an Intranet website maintained by the applicable plan sponsor (or plan administrator on behalf of the plan sponsor), and
-      - **(x)** if applicable, a statement that each contributing sponsor, and each member of the contributing sponsor’s controlled group, of the single-employer plan was required to provide the information under section 1310 of this title for the plan year to which the notice relates.
+      - **(ix)** a general description of the benefits under the plan which are eligible to be guaranteed by the Pension Benefit Guaranty Corporation, along with an explanation of the limitations on the guarantee and the circumstances under which such limitations apply,
+      - **(x)** a statement that a person may obtain a copy of the annual report of the plan filed under section 1024(a) of this title upon request, through the Internet website of the Department of Labor, or through an Intranet website maintained by the applicable plan sponsor (or plan administrator on behalf of the plan sponsor), and
+      - **(xi)** if applicable, a statement that each contributing sponsor, and each member of the contributing sponsor’s controlled group, of the single-employer plan was required to provide the information under section 1310 of this title for the plan year to which the notice relates.
     - **(C)** Each notice under paragraph (1) shall include—
       - **(i)** in the case of a multiemployer plan, a statement that the plan administrator shall provide, upon written request, to any labor organization representing plan participants and beneficiaries and any employer that has an obligation to contribute to the plan, a copy of the annual report filed with the Secretary under section 1024(a) of this title , and
       - **(ii)** any additional information which the plan administrator elects to include to the extent not inconsistent with regulations prescribed by the Secretary.
     - **(D)**
       - **(i)** In the case of a single-employer plan for an applicable plan year, each notice under paragraph (1) shall include—
-        - **(I)** a statement that the MAP-21 modified the method for determining the interest rates used to determine the actuarial value of benefits earned under the plan, providing for a 25-year average of interest rates to be taken into account in addition to a 2-year average,
-        - **(II)** a statement that, as a result of the MAP-21, the plan sponsor may contribute less money to the plan when interest rates are at historical lows, and
+        - **(I)** a statement that the MAP-21, the Highway and Transportation Funding Act of 2014, and the Bipartisan Budget Act of 2015 modified the method for determining the interest rates used to determine the actuarial value of benefits earned under the plan, providing for a 25-year average of interest rates to be taken into account in addition to a 2-year average,
+        - **(II)** a statement that, as a result of the MAP-21, the Highway and Transportation Funding Act of 2014, and the Bipartisan Budget Act of 2015, the plan sponsor may contribute less money to the plan when interest rates are at historical lows, and
         - **(III)** a table which shows (determined both with and without regard to section 1083(h)(2)(C)(iv) of this title ) the funding target attainment percentage (as defined in section 1083(d)(2) of this title ), the funding shortfall (as defined in section 1083(c)(4) of this title ), and the minimum required contribution (as determined under section 1083 of this title ), for the applicable plan year and each of the 2 preceding plan years.
-      - **(ii)** For purposes of this subparagraph, the term “applicable plan year” means any plan year beginning after December 31, 2011 , and before January 1, 2015 , for which—
+      - **(ii)** For purposes of this subparagraph, the term “applicable plan year” means any plan year beginning after December 31, 2011 , and before January 1, 2023 , for which—
         - **(I)** the funding target (as defined in section 1083(d)(2) of this title ) is less than 95 percent of such funding target determined without regard to section 1083(h)(2)(C)(iv) of this title ,
         - **(II)** the plan has a funding shortfall (as defined in section 1083(c)(4) of this title and determined without regard to section 1083(h)(2)(C)(iv) of this title ) greater than $500,000, and
         - **(III)** the plan had 50 or more participants on any day during the preceding plan year.
@@ -126,17 +130,25 @@ generated_at: "2026-03-29T18:05:31.726Z"
   - **(2)** in the case of a plan to which section 1056(g)(4) of this title applies, after the valuation date for the plan year described in section 1056(g)(4)(A) of this title for which the plan’s adjusted funding target attainment percentage for the plan year is less than 60 percent (or, if earlier, the date such percentage is deemed to be less than 60 percent under section 1056(g)(7) of this title ), and
   - **(3)** at such other time as may be determined by the Secretary of the Treasury.
 - **(k)**
-  - **(1)** Each administrator of a multiemployer plan shall, upon written request, furnish to any plan participant or beneficiary, employee representative, or any employer that has an obligation to contribute to the plan—
-    - **(A)** a copy of any periodic actuarial report (including any sensitivity testing) received by the plan for any plan year which has been in the plan’s possession for at least 30 days,
-    - **(B)** a copy of any quarterly, semi-annual, or annual financial report prepared for the plan by any plan investment manager or advisor or other fiduciary which has been in the plan’s possession for at least 30 days, and
-    - **(C)** a copy of any application filed with the Secretary of the Treasury requesting an extension under section 1084 of this title or section 431(d) of title 26 and the determination of such Secretary pursuant to such application.
+  - **(1)** Each administrator of a defined benefit plan that is a multiemployer plan shall, upon written request, furnish to any plan participant or beneficiary, employee representative, or any employer that has an obligation to contribute to the plan a copy of—
+    - **(A)** the current plan document (including any amendments thereto),
+    - **(B)** the latest summary plan description of the plan,
+    - **(C)** the current trust agreement (including any amendments thereto), or any other instrument or agreement under which the plan is established or operated,
+    - **(D)** in the case of a request by an employer, any participation agreement with respect to the plan for such employer that relates to the employer’s plan participation during the current or any of the 5 immediately preceding plan years,
+    - **(E)** the annual report filed under section 1024 of this title for any plan year,
+    - **(F)** the plan funding notice provided under subsection (f) for any plan year,
+    - **(G)** any periodic actuarial report (including any sensitivity testing) received by the plan for any plan year which has been in the plan’s possession for at least 30 days,
+    - **(H)** any quarterly, semi-annual, or annual financial report prepared for the plan by any plan investment manager or advisor or other fiduciary which has been in the plan’s possession for at least 30 days,
+    - **(I)** audited financial statements of the plan for any plan year,
+    - **(J)** any application filed with the Secretary of the Treasury requesting an extension under section 1084(d) of this title or section 431(d) of title 26 and the determination of such Secretary pursuant to such application, and
+    - **(K)** in the case of a plan which was in critical or endangered status under section 1085 of this title for a plan year, the latest funding improvement or rehabilitation plan, and the contribution schedules applicable with respect to such funding improvement or rehabilitation plan (other than a contribution schedule applicable to a specific employer).
   - **(2)** Information required to be provided under paragraph (1)—
     - **(A)** shall be provided to the requesting participant, beneficiary, or employer within 30 days after the request in a form and manner prescribed in regulations of the Secretary,
     - **(B)** may be provided in written, electronic, or other appropriate form to the extent such form is reasonably accessible to persons to whom the information is required to be provided, and
     - **(C)** shall not—
       - **(i)** include any individually identifiable information regarding any plan participant, beneficiary, employee, fiduciary, or contributing employer, or
       - **(ii)** reveal any proprietary information regarding the plan, any contributing employer, or entity providing services to the plan.
-  - **(3)** In no case shall a participant, beneficiary, or employer be entitled under this subsection to receive more than one copy of any report or application described in paragraph (1) during any one 12-month period. The administrator may make a reasonable charge to cover copying, mailing, and other costs of furnishing copies of information pursuant to paragraph (1). The Secretary may by regulations prescribe the maximum amount which will constitute a reasonable charge under the preceding sentence.
+  - **(3)** In no case shall a participant, beneficiary, employee representative, or employer be entitled under this subsection to receive more than one copy of any document described in paragraph (1) during any one 12-month period, or, in the case of any document described in subparagraph (E), (F), (G), (H) or (I) of paragraph (1), a copy of any such document that as of the date on which the request is received by the administrator, has been in the administrator’s possession for 6 years or more. If the administrator provides a copy of a document described in paragraph (1) to any person upon request, the administrator shall be considered as having met any obligation the administrator may have under any other provision of this subchapter to furnish a copy of the same document to such person upon request. The administrator may make a reasonable charge to cover copying, mailing, and other costs of furnishing copies of information pursuant to paragraph (1). The Secretary may by regulations prescribe the maximum amount which will constitute a reasonable charge under the preceding sentence.
 - **(l)**
   - **(1)** The plan sponsor or administrator of a multiemployer plan shall, upon written request, furnish to any employer who has an obligation to contribute to the plan a notice of—
     - **(A)** the estimated amount which would be the amount of such employer’s withdrawal liability under part 1 of subtitle E of subchapter III if such employer withdrew on the last day of the plan year preceding the date of the request, and

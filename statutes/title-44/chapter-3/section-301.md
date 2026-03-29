@@ -1,14 +1,14 @@
 ---
-title: "Section 301 - Public Printer: appointment"
+title: "Section 301 - Director of the Government Publishing Office: appointment"
 usc_title: 44
 usc_section: "301"
 chapter: 3
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "44 U.S.C. § 301"
-generated_at: "2026-03-29T18:06:33.608Z"
+generated_at: "2026-03-29T18:26:16.103Z"
 ---
 
-# § 301. Public Printer: appointment
+# § 301. Director of the Government Publishing Office: appointment
 
-The President of the United States shall nominate and, by and with the advice and consent of the Senate, appoint a suitable person, who must be a practical printer and versed in the art of bookbinding, to take charge of and manage the Government Printing Office. His title shall be Public Printer.
+The President of the United States shall nominate and, by and with the advice and consent of the Senate, appoint a suitable person to take charge of and manage the Government Publishing Office. The title shall be Director of the Government Publishing Office.
 

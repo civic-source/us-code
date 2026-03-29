@@ -3,9 +3,9 @@ title: "Section 1230a - Strategic Resources Generic Mineral Technology Center"
 usc_title: 30
 usc_section: "1230a"
 chapter: 25
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "30 U.S.C. § 1230a"
-generated_at: "2026-03-29T18:05:26.194Z"
+generated_at: "2026-03-29T18:25:30.896Z"
 ---
 
 # § 1230a. Strategic Resources Generic Mineral Technology Center
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T18:05:26.194Z"
   - **(1)** provide for studies and technology development in the areas of mineral extraction and refining processes, product substitution and conservation of mineral resources through recycling and advanced processing and fabrication methods;
   - **(2)** identify new deposits of strategic and critical mineral resources; and
   - **(3)** facilitate the transfer of information, studies, and technologies developed by the center to the private sector.
-- **(c)** The Secretary shall establish the center referred to in subsection (a) of this section at a university that—
+- **(c)** The Secretary shall establish the center referred to in subsection (a) at a university that—
   - **(1)** does not currently host a generic mineral technology center;
   - **(2)** has established advanced degree programs in geology and geological engineering, and metallurgical and mining engineering;
   - **(3)** has expertise in materials and advanced processing research; and

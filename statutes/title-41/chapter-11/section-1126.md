@@ -3,9 +3,9 @@ title: "Section 1126 - Policy regarding consideration of contractor past perform
 usc_title: 41
 usc_section: "1126"
 chapter: 11
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "41 U.S.C. § 1126"
-generated_at: "2026-03-29T18:06:34.742Z"
+generated_at: "2026-03-29T18:26:25.268Z"
 ---
 
 # § 1126. Policy regarding consideration of contractor past performance

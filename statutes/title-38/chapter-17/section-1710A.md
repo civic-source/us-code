@@ -3,9 +3,9 @@ title: "Section 1710A - Required nursing home care"
 usc_title: 38
 usc_section: "1710A"
 chapter: 17
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "38 U.S.C. § 1710A"
-generated_at: "2026-03-29T18:06:22.750Z"
+generated_at: "2026-03-29T18:26:07.558Z"
 ---
 
 # § 1710A. Required nursing home care
@@ -15,4 +15,4 @@ generated_at: "2026-03-29T18:06:22.750Z"
   - **(1)** The Secretary shall ensure that a veteran described in subsection (a) who continues to need nursing home care is not, after placement in a Department nursing home, transferred from the facility without the consent of the veteran, or, in the event the veteran cannot provide informed consent, the representative of the veteran.
   - **(2)** Nothing in subsection (a) may be construed as authorizing or requiring that a veteran who is receiving nursing home care in a Department nursing home on the date of the enactment of this section be displaced, transferred, or discharged from the facility.
 - **(c)** The Secretary shall ensure that nursing home care provided under subsection (a) is provided in an age-appropriate manner.
-- **(d)** The provisions of subsection (a) shall terminate on December 31, 2014 .
+- **(d)** The provisions of subsection (a) shall terminate on December 31, 2017 .

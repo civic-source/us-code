@@ -3,9 +3,9 @@ title: "Section 1087ss - Simplified needs test"
 usc_title: 20
 usc_section: "1087ss"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1087ss"
-generated_at: "2026-03-29T18:05:00.134Z"
+generated_at: "2026-03-29T18:24:40.970Z"
 ---
 
 # § 1087ss. Simplified needs test
@@ -13,8 +13,8 @@ generated_at: "2026-03-29T18:05:00.134Z"
 - **(a)**
   - **(1)** The Secretary shall develop and use an easily identifiable simplified application section as part of the common financial reporting form prescribed under section 1090(a) of this title for families described in subsections (b) and (c) of this section.
   - **(2)** The simplified application form shall—
-    - **(A)** in the case of a family meeting the requirements of subsection (b)(1) of this section, permit such family to submit only the data elements required under subsection (b)(2) of this section for the purposes of establishing eligibility for student financial aid under this part; and
-    - **(B)** in the case of a family meeting the requirements of subsection (c) of this section, permit such family to be treated as having an expected family contribution equal to zero for purposes of establishing such eligibility and to submit only the data elements required to make a determination under subsection (c) of this section.
+    - **(A)** in the case of a family meeting the requirements of subsection (b)(1), permit such family to submit only the data elements required under subsection (b)(2) for the purposes of establishing eligibility for student financial aid under this part; and
+    - **(B)** in the case of a family meeting the requirements of subsection (c), permit such family to be treated as having an expected family contribution equal to zero for purposes of establishing such eligibility and to submit only the data elements required to make a determination under subsection (c).
 - **(b)**
   - **(1)** An applicant is eligible to file a simplified form containing the elements required by paragraph (2) if—
     - **(A)** in the case of an applicant who is a dependent student—
@@ -58,8 +58,8 @@ generated_at: "2026-03-29T18:05:00.134Z"
       - **(iv)** received benefits at some time during the previous 24-month period under a means-tested Federal benefit program as defined under subsection (d); and
     - **(B)** the sum of the adjusted gross income of the student and spouse (if appropriate) is less than or equal to $23,000.
 - **(d)** In this section:
-  - **(1)** The term “dislocated worker” has the meaning given the term in section 2801 of title 29 .
-  - **(2)** The term “means-tested Federal benefit program” means a mandatory spending program of the Federal Government, other than a program under this subchapter and part C of subchapter I of chapter 34 of title 42, in which eligibility for the program’s benefits, or the amount of such benefits, are determined on the basis of income or resources of the individual or family seeking the benefit, and may include such programs as—
+  - **(1)** The term “dislocated worker” has the meaning given the term in section 3102 of title 29 .
+  - **(2)** The term “means-tested Federal benefit program” means a mandatory spending program of the Federal Government, other than a program under this subchapter, in which eligibility for the program’s benefits, or the amount of such benefits, are determined on the basis of income or resources of the individual or family seeking the benefit, and may include such programs as—
     - **(A)** the supplemental security income program under title XVI of the Social Security Act ( 42 U.S.C. 1381 et seq.);
     - **(B)** the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 ( 7 U.S.C. 2011 et seq.);
     - **(C)** the free and reduced price school lunch program established under the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1751 et seq.);

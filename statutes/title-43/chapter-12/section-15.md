@@ -3,9 +3,9 @@ title: "Section 15 - Authorization of appropriations"
 usc_title: 43
 usc_section: "15"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 15"
-generated_at: "2026-03-29T18:06:28.268Z"
+generated_at: "2026-03-29T18:26:14.794Z"
 ---
 
 # § 390h–15. Authorization of appropriations

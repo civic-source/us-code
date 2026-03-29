@@ -3,9 +3,9 @@ title: "Section 2688 - Utility systems: conveyance authority"
 usc_title: 10
 usc_section: "2688"
 chapter: 159
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2688"
-generated_at: "2026-03-29T18:04:13.203Z"
+generated_at: "2026-03-29T18:23:51.992Z"
 ---
 
 # § 2688. Utility systems: conveyance authority
@@ -22,14 +22,14 @@ generated_at: "2026-03-29T18:04:13.203Z"
   - **(2)** If the utility services proposed to be provided as consideration under paragraph (1) are subject to regulation by a Federal or State agency, any reduction in the rate charged for the utility services shall be subject to establishment or approval by that agency.
 - **(d)**
   - **(1)** Except as provided in paragraph (2), a contract for the receipt of utility services as consideration under subsection (c), or any other contract for utility services entered into by the Secretary concerned in connection with the conveyance of a utility system under this section, may be for a period not to exceed 10 years.
-  - **(2)** The Secretary of Defense, or the designee of the Secretary, may authorize a contract for utility services described in paragraph (1) to have a term in excess of 10 years, but not to exceed 50 years, if the Secretary determines that a contract for a longer term will be cost effective.
+  - **(2)** The Secretary of Defense, or the designee of the Secretary, may authorize a contract for utility services described in paragraph (1) to have a term in excess of 10 years, but not to exceed 50 years, if the Secretary determines that a contract for a longer term will be cost effective. The determination of cost effectiveness shall be made using a business case analysis that includes an independent estimate of the level of investment that should be required to maintain adequate operation of the utility system over the proposed term of the contract.
 - **(e)**
   - **(1)** A lump sum payment received under subsection (c) shall be credited, at the election of the Secretary concerned—
     - **(A)** to an appropriation of the military department concerned available for the procurement of the same utility services as are provided by the utility system conveyed under this section;
     - **(B)** to an appropriation of the military department available for carrying out energy savings projects or water conservation projects; or
     - **(C)** to an appropriation of the military department available for improvements to other utility systems.
   - **(2)** Amounts so credited shall be merged with funds in the appropriation to which credited and shall be available for the same purposes, and subject to the same conditions and limitations, as the appropriation with which merged.
-- **[(f)** Repealed. Pub. L. 112–81, div. A, title X, § 1061(21)(C) , Dec. 31, 2011 , 125 Stat. 1584 .]
+- **[(f)** Repealed. Pub. L. 112–81, div. A, title X , § 1061(21)(C), Dec. 31, 2011 , 125 Stat. 1584 .]
 - **(g)**
   - **(1)** The Secretary concerned may require such additional terms and conditions in connection with a conveyance under subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
   - **(2)** The Secretary concerned shall require in any contract for the conveyance of a utility system (or part of a utility system) under subsection (a) that the conveyee manage and operate the utility system in a manner consistent with applicable Federal and State regulations pertaining to health, safety, fire, and environmental requirements.
@@ -47,9 +47,7 @@ generated_at: "2026-03-29T18:04:13.203Z"
     - **(B)** Real property, easements, and rights-of-way associated with a system referred to in that paragraph.
 - **(j)**
   - **(1)** Upon conveyance of a utility system, the Secretary of a military department may convey additional utility infrastructure under the jurisdiction of the Secretary on a military installation to a utility or entity to which a utility system for the installation has been conveyed under subsection (a) if the Secretary determines that—
-    - **(A)** the additional utility infrastructure was constructed or installed after the date of the conveyance of the utility system;
-    - **(B)** the additional utility infrastructure cannot operate without being a part of the conveyed utility system;
-    - **(C)** the additional utility infrastructure was planned and coordinated with the entity operating the conveyed utility system; and
-    - **(D)** the military department receives as consideration an amount equal to the fair market value of the utility infrastructure determined in the same manner as the consideration the Secretary could require under subsection (c) for a conveyance under subsection (a).
+    - **(A)** the additional utility infrastructure cannot operate without being a part of the conveyed utility system or operation of the additional utility infrastructure by the utility or entity would be in the best interest of the Government; and
+    - **(B)** the military department receives as consideration an amount for the utility infrastructure determined in the same manner as the consideration the Secretary could require under subsection (c) for a conveyance under subsection (a).
   - **(2)** The conveyance under this paragraph may consist of all right, title, and interest of the United States or such lesser estate as the Secretary considers appropriate to serve the interests of the United States.
 - **(k)** This section shall not apply to projects constructed or operated by the Army Corps of Engineers under its civil works authorities.

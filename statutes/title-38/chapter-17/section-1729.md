@@ -3,9 +3,9 @@ title: "Section 1729 - Recovery by the United States of the cost of certain care
 usc_title: 38
 usc_section: "1729"
 chapter: 17
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "38 U.S.C. § 1729"
-generated_at: "2026-03-29T18:06:22.756Z"
+generated_at: "2026-03-29T18:26:07.564Z"
 ---
 
 # § 1729. Recovery by the United States of the cost of certain care and services
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T18:06:22.756Z"
     - **(D)** that is incurred by a veteran—
       - **(i)** who does not have a service-connected disability; and
       - **(ii)** who is entitled to care (or payment of the expenses of care) under a health-plan contract; or
-    - **(E)** for which care and services are furnished before October 1, 2014 , under this chapter to a veteran who—
+    - **(E)** for which care and services are furnished before October 1, 2017 , under this chapter to a veteran who—
       - **(i)** has a service-connected disability; and
       - **(ii)** is entitled to care (or payment of the expenses of care) under a health-plan contract.
   - **(3)** In the case of a health-plan contract that contains a requirement for payment of a deductible or copayment by the veteran—
@@ -45,7 +45,7 @@ generated_at: "2026-03-29T18:06:22.756Z"
   - **(1)** may not be denied such care or services by reason of this section; and
   - **(2)** may not be required by reason of this section to make any copayment or deductible payment in order to receive such care.
 - **(f)** No law of any State or of any political subdivision of a State, and no provision of any contract or other agreement, shall operate to prevent recovery or collection by the United States under this section or with respect to care or services furnished under section 1784 of this title .
-- **[(g)** Repealed. Pub. L. 105–33, title VIII, § 8023(b)(4) , Aug. 5, 1997 , 111 Stat. 667 .]
+- **[(g)** Repealed. Pub. L. 105–33, title VIII , § 8023(b)(4), Aug. 5, 1997 , 111 Stat. 667 .]
 - **(h)**
   - **(1)** Subject to paragraph (3) of this subsection, the Secretary shall make available medical records of a veteran described in paragraph (2) of this subsection for inspection and review by representatives of the third party concerned for the sole purposes of permitting the third party to verify—
     - **(A)** that the care or services for which recovery or collection is sought were furnished to the veteran; and

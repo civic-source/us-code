@@ -3,9 +3,9 @@ title: "Section 27 - Contracts with Medicare+Choice organizations"
 usc_title: 42
 usc_section: "27"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 27"
-generated_at: "2026-03-29T18:07:13.973Z"
+generated_at: "2026-03-29T18:27:03.106Z"
 ---
 
 # § 1395w–27. Contracts with Medicare+Choice organizations
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T18:07:13.973Z"
   - **(3)** The Secretary may waive the requirement of paragraph (1) during the first 3 contract years with respect to an organization.
 - **(c)**
   - **(1)** Each contract under this section shall be for a term of at least 1 year, as determined by the Secretary, and may be made automatically renewable from term to term in the absence of notice by either party of intention to terminate at the end of the current term.
-  - **(2)** In accordance with procedures established under subsection (h) of this section, the Secretary may at any time terminate any such contract if the Secretary determines that the organization—
+  - **(2)** In accordance with procedures established under subsection (h), the Secretary may at any time terminate any such contract if the Secretary determines that the organization—
     - **(A)** has failed substantially to carry out the contract;
     - **(B)** is carrying out the contract in a manner inconsistent with the efficient and effective administration of this part; or
     - **(C)** no longer substantially meets the applicable conditions of this part.
@@ -57,8 +57,8 @@ generated_at: "2026-03-29T18:07:13.973Z"
 - **(e)**
   - **(1)** The contract shall contain such other terms and conditions not inconsistent with this part (including requiring the organization to provide the Secretary with such information) as the Secretary may find necessary and appropriate.
   - **(2)**
-    - **(A)** A Medicare+Choice organization and a PDP sponsor under part D of this subchapter shall pay the fee established by the Secretary under subparagraph (B).
-    - **(B)** The Secretary is authorized to charge a fee to each Medicare+Choice organization with a contract under this part and each PDP sponsor with a contract under part D of this subchapter that is equal to the organization’s or sponsor’s pro rata share (as determined by the Secretary) of the aggregate amount of fees which the Secretary is directed to collect in a fiscal year. Any amounts collected shall be available without further appropriation to the Secretary for the purpose of carrying out section 1395w–21 of this title (relating to enrollment and dissemination of information), section 1395w–101(c) of this title , and section 1395b–4 of this title (relating to the health insurance counseling and assistance program).
+    - **(A)** A Medicare+Choice organization and a PDP sponsor under part D shall pay the fee established by the Secretary under subparagraph (B).
+    - **(B)** The Secretary is authorized to charge a fee to each Medicare+Choice organization with a contract under this part and each PDP sponsor with a contract under part D that is equal to the organization’s or sponsor’s pro rata share (as determined by the Secretary) of the aggregate amount of fees which the Secretary is directed to collect in a fiscal year. Any amounts collected shall be available without further appropriation to the Secretary for the purpose of carrying out section 1395w–21 of this title (relating to enrollment and dissemination of information), section 1395w–101(c) of this title , and section 1395b–4 of this title (relating to the health insurance counseling and assistance program).
     - **(C)** There are authorized to be appropriated for the purposes described in subparagraph (B) for each fiscal year beginning with fiscal year 2001 and ending with fiscal year 2005 an amount equal to $100,000,000, and for each fiscal year beginning with fiscal year 2006 an amount equal to $200,000,000, reduced by the amount of fees authorized to be collected under this paragraph and section 1395w–112(b)(3)(D) of this title for the fiscal year.
     - **(D)** In any fiscal year the fees collected by the Secretary under subparagraph (B) shall not exceed the lesser of—
       - **(i)** the estimated costs to be incurred by the Secretary in the fiscal year in carrying out the activities described in section 1395w–21 of this title and section 1395w–101(c) of this title and section 1395b–4 of this title ; or
@@ -70,10 +70,10 @@ generated_at: "2026-03-29T18:07:13.973Z"
         - **(V)** the applicable portion (as defined in subparagraph (F)) of $200,000,000 in fiscal year 2006 and each succeeding fiscal year.
     - **(E)** In this paragraph, the term “Medicare+Choice portion” means, for a fiscal year, the ratio, as estimated by the Secretary, of—
       - **(i)** the average number of individuals enrolled in Medicare+Choice plans during the fiscal year, to
-      - **(ii)** the average number of individuals entitled to benefits under part A of this subchapter, and enrolled under part B of this subchapter, during the fiscal year.
+      - **(ii)** the average number of individuals entitled to benefits under part A, and enrolled under part B, during the fiscal year.
     - **(F)** In this paragraph, the term “applicable portion” means, for a fiscal year—
-      - **(i)** with respect to MA organizations, the Secretary’s estimate of the total proportion of expenditures under this subchapter that are attributable to expenditures made under this part (including payments under part D of this subchapter that are made to such organizations); or
-      - **(ii)** with respect to PDP sponsors, the Secretary’s estimate of the total proportion of expenditures under this subchapter that are attributable to expenditures made to such sponsors under part D of this subchapter.
+      - **(i)** with respect to MA organizations, the Secretary’s estimate of the total proportion of expenditures under this subchapter that are attributable to expenditures made under this part (including payments under part D that are made to such organizations); or
+      - **(ii)** with respect to PDP sponsors, the Secretary’s estimate of the total proportion of expenditures under this subchapter that are attributable to expenditures made to such sponsors under part D.
   - **(3)**
     - **(A)** A contract under this section with an MA organization shall require the organization to provide, in any written agreement described in section 1395w–23(a)(4) of this title between the organization and a federally qualified health center, for a level and amount of payment to the federally qualified health center for services provided by such health center that is not less than the level and amount of payment that the plan would make for such services if the services had been furnished by a entity providing similar services that was not a federally qualified health center.
     - **(B)** Under the written agreement referred to in subparagraph (A), a federally qualified health center must accept the payment amount referred to in such subparagraph plus the Federal payment provided for in section 1395 l (a)(3)(B) of this title as payment in full for services covered by the agreement, except that such a health center may collect any amount of cost-sharing permitted under the contract under this section, so long as the amounts of any deductible, coinsurance, or copayment comply with the requirements under section 1395w–24(e) of this title .
@@ -109,15 +109,15 @@ generated_at: "2026-03-29T18:07:13.973Z"
     - **(A)** civil money penalties of not more than $25,000 for each determination under paragraph (1) or, with respect to a determination under subparagraph (D) or (E)(i) of such paragraph, of not more than $100,000 for each such determination, except with respect to a determination under subparagraph (E), 1 1 So in original. Probably means subpar. (E) of par. (1). an assessment of not more than the amount claimed by such plan or plan sponsor based upon the misrepresentation or falsified information involved, plus, with respect to a determination under paragraph (1)(B), double the excess amount charged in violation of such paragraph (and the excess amount charged shall be deducted from the penalty and returned to the individual concerned), and plus, with respect to a determination under paragraph (1)(D), $15,000 for each individual not enrolled as a result of the practice involved,
     - **(B)** suspension of enrollment of individuals under this part after the date the Secretary notifies the organization of a determination under paragraph (1) and until the Secretary is satisfied that the basis for such determination has been corrected and is not likely to recur, or
     - **(C)** suspension of payment to the organization under this part for individuals enrolled after the date the Secretary notifies the organization of a determination under paragraph (1) and until the Secretary is satisfied that the basis for such determination has been corrected and is not likely to recur.
-  - **(3)** In the case of a Medicare+Choice organization for which the Secretary makes a determination under subsection (c)(2) of this section the basis of which is not described in paragraph (1), the Secretary may apply the following intermediate sanctions:
-    - **(A)** Civil money penalties of not more than $25,000 for each determination under subsection (c)(2) of this section if the deficiency that is the basis of the determination has directly adversely affected (or has the substantial likelihood of adversely affecting) an individual covered under the organization’s contract.
-    - **(B)** Civil money penalties of not more than $10,000 for each week beginning after the initiation of civil money penalty procedures by the Secretary during which the deficiency that is the basis of a determination under subsection (c)(2) of this section exists.
-    - **(C)** Suspension of enrollment of individuals under this part after the date the Secretary notifies the organization of a determination under subsection (c)(2) of this section and until the Secretary is satisfied that the deficiency that is the basis for the determination has been corrected and is not likely to recur.
-    - **(D)** Civil monetary penalties of not more than $100,000, or such higher amount as the Secretary may establish by regulation, where the finding under subsection (c)(2)(A) of this section is based on the organization’s termination of its contract under this section other than at a time and in a manner provided for under subsection (a) of this section.
+  - **(3)** In the case of a Medicare+Choice organization for which the Secretary makes a determination under subsection (c)(2) the basis of which is not described in paragraph (1), the Secretary may apply the following intermediate sanctions:
+    - **(A)** Civil money penalties of not more than $25,000 for each determination under subsection (c)(2) if the deficiency that is the basis of the determination has directly adversely affected (or has the substantial likelihood of adversely affecting) an individual covered under the organization’s contract.
+    - **(B)** Civil money penalties of not more than $10,000 for each week beginning after the initiation of civil money penalty procedures by the Secretary during which the deficiency that is the basis of a determination under subsection (c)(2) exists.
+    - **(C)** Suspension of enrollment of individuals under this part after the date the Secretary notifies the organization of a determination under subsection (c)(2) and until the Secretary is satisfied that the deficiency that is the basis for the determination has been corrected and is not likely to recur.
+    - **(D)** Civil monetary penalties of not more than $100,000, or such higher amount as the Secretary may establish by regulation, where the finding under subsection (c)(2)(A) is based on the organization’s termination of its contract under this section other than at a time and in a manner provided for under subsection (a).
   - **(4)** The provisions of section 1320a–7a (other than subsections (a) and (b)) of this title shall apply to a civil money penalty under paragraph (2) or (3) in the same manner as they apply to a civil money penalty or proceeding under section 1320a–7a(a) of this title .
 - **(h)**
   - **(1)** The Secretary may terminate a contract with a Medicare+Choice organization under this section in accordance with formal investigation and compliance procedures established by the Secretary under which—
-    - **(A)** the Secretary provides the organization with the reasonable opportunity to develop and implement a corrective action plan to correct the deficiencies that were the basis of the Secretary’s determination under subsection (c)(2) of this section; and
+    - **(A)** the Secretary provides the organization with the reasonable opportunity to develop and implement a corrective action plan to correct the deficiencies that were the basis of the Secretary’s determination under subsection (c)(2); and
     - **(B)** the Secretary provides the organization with reasonable notice and opportunity for hearing (including the right to appeal an initial decision) before terminating the contract.
   - **(2)** Paragraph (1) shall not apply if the Secretary determines that a delay in termination, resulting from compliance with the procedures specified in such paragraph prior to termination, would pose an imminent and serious risk to the health of individuals enrolled under this part with the organization.
 - **(i)**

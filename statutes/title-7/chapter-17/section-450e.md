@@ -3,9 +3,9 @@ title: "Section 450e - Authority of designated employees; retroactive revocation
 usc_title: 7
 usc_section: "450e"
 chapter: 17
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 450e"
-generated_at: "2026-03-29T18:04:04.770Z"
+generated_at: "2026-03-29T18:23:43.199Z"
 ---
 
 # § 450e. Authority of designated employees; retroactive revocation of delegation

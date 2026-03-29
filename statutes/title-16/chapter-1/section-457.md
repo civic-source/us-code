@@ -1,14 +1,12 @@
 ---
-title: "Section 457 - Action for death or personal injury within national park or other place under jurisdiction of United States; application of State laws"
+title: "Section 457 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "457"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 457"
-generated_at: "2026-03-29T18:05:06.616Z"
+generated_at: "2026-03-29T18:24:22.532Z"
 ---
 
-# § 457. Action for death or personal injury within national park or other place under jurisdiction of United States; application of State laws
-
-In the case of the death of any person by the neglect or wrongful act of another within a national park or other place subject to the exclusive jurisdiction of the United States, within the exterior boundaries of any State, such right of action shall exist as though the place were under the jurisdiction of the State within whose exterior boundaries such place may be; and in any action brought to recover on account of injuries sustained in any such place the rights of the parties shall be governed by the laws of the State within the exterior boundaries of which it may be.
+# § 457. Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272
 

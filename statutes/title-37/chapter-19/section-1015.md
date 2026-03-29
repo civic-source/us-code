@@ -1,12 +1,14 @@
 ---
-title: "Section 1015 - Repealed. Pub. L. 109–364, div. A, title X, § 1046(b)(1) , Oct. 17, 2006 , 120 Stat. 2393 ]"
+title: "Section 1015 - Recordation of installment payment obligations for incentive pays and similar benefits"
 usc_title: 37
 usc_section: "1015"
 chapter: 19
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "37 U.S.C. § 1015"
-generated_at: "2026-03-29T18:06:17.236Z"
+generated_at: "2026-03-29T18:26:10.157Z"
 ---
 
-# [§ 1015. Repealed. Pub. L. 109–364, div. A, title X, § 1046(b)(1) , Oct. 17, 2006 , 120 Stat. 2393 ]
+# § 1015. Recordation of installment payment obligations for incentive pays and similar benefits
 
+- **(a)** In the case of any pay, allowance, bonus, or other benefit described in subsection (b) that is paid to a member of the uniformed services on an installment basis, each installment payment shall be charged to appropriations that are available for obligation at the time such payment is payable.
+- **(b)** Subsection (a) applies to any incentive pay, special pay, or bonus, or similar periodic payment of pay or allowances, or of educational benefits or stipends, that is paid to a member of the uniformed services under this title or title 10.

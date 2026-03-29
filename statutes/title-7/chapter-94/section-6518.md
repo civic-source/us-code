@@ -3,9 +3,9 @@ title: "Section 6518 - National Organic Standards Board"
 usc_title: 7
 usc_section: "6518"
 chapter: 94
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 6518"
-generated_at: "2026-03-29T18:04:05.082Z"
+generated_at: "2026-03-29T18:23:43.481Z"
 ---
 
 # § 6518. National Organic Standards Board
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T18:04:05.082Z"
   - **(5)** three shall be individuals who represent public interest or consumer interest groups;
   - **(6)** one shall be an individual with expertise in the fields of toxicology, ecology, or biochemistry; and
   - **(7)** one shall be an individual who is a certifying agent as identified under section 6515 of this title .
-- **(c)** Not later than 180 days after November 28, 1990 , the Secretary shall appoint the members of the Board under paragraph (1) through (6) of subsection (b) of this section (and under subsection (b)(7) of this section at an appropriate date after the certification of individuals as certifying agents under section 6515 of this title ) from nominations received from organic certifying organizations, States, and other interested persons and organizations.
+- **(c)** Not later than 180 days after November 28, 1990 , the Secretary shall appoint the members of the Board under paragraph (1) through (6) of subsection (b) (and under subsection (b)(7) at an appropriate date after the certification of individuals as certifying agents under section 6515 of this title ) from nominations received from organic certifying organizations, States, and other interested persons and organizations.
 - **(d)** A member of the Board shall serve for a term of 5 years, except that the Secretary shall appoint the original members of the Board for staggered terms. A member cannot serve consecutive terms unless such member served an original term that was less than 5 years.
 - **(e)** The Secretary shall convene a meeting of the Board not later than 60 days after the appointment of its members and shall convene subsequent meetings on a periodic basis.
 - **(f)** A member of the Board shall serve without compensation. While away from their homes or regular places of business on the business of the Board, members of the Board may be allowed travel expenses, including per diem in lieu of subsistence, as is authorized under section 5703 of title 5 for persons employed intermittently in the Government service.

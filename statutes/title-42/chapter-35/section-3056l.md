@@ -3,9 +3,9 @@ title: "Section 3056l - Competitive requirements relating to grant awards"
 usc_title: 42
 usc_section: "3056l"
 chapter: 35
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 3056l"
-generated_at: "2026-03-29T18:07:14.495Z"
+generated_at: "2026-03-29T18:27:03.497Z"
 ---
 
 # § 3056l. Competitive requirements relating to grant awards
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T18:07:14.495Z"
   - **(1)** The applicant’s ability to administer a project that serves the greatest number of eligible individuals, giving particular consideration to individuals with greatest economic need, individuals with greatest social need, and individuals described in subsection (a)(3)(B)(ii) or (b)(2) of section 3056p of this title .
   - **(2)** The applicant’s ability to administer a project that provides employment for eligible individuals in the communities in which such individuals reside, or in nearby communities, that will contribute to the general welfare of the communities involved.
   - **(3)** The applicant’s ability to administer a project that moves eligible individuals into unsubsidized employment.
-  - **(4)** The applicant’s prior performance, if any, in meeting core measures of performance and addressing additional indicators of performance under this subchapter and the applicant’s ability to address core indicators of performance and additional indicators of performance under this subchapter and under other Federal or State programs in the case of an applicant that has not previously received a grant under this subchapter.
+  - **(4)** The applicant’s prior performance, if any, in meeting core measures of performance under this subchapter and the applicant’s ability to address core indicators of performance under this subchapter and under other Federal or State programs in the case of an applicant that has not previously received a grant under this subchapter.
   - **(5)** The applicant’s ability to move individuals with multiple barriers to employment, including individuals described in subsection (a)(3)(B)(ii) or (b)(2) of section 3056p of this title , into unsubsidized employment.
   - **(6)** The applicant’s ability to coordinate activities with other organizations at the State and local level.
   - **(7)** The applicant’s plan for fiscal management of the project to be administered with funds received in accordance with this section.

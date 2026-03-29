@@ -3,9 +3,9 @@ title: "Section 10102 - Purpose of reserve components"
 usc_title: 10
 usc_section: "10102"
 chapter: 1003
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 10102"
-generated_at: "2026-03-29T18:04:13.306Z"
+generated_at: "2026-03-29T18:23:52.102Z"
 ---
 
 # § 10102. Purpose of reserve components

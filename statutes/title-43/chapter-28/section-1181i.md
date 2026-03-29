@@ -3,9 +3,9 @@ title: "Section 1181i - Designation of national-forest areas within counties; di
 usc_title: 43
 usc_section: "1181i"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 1181i"
-generated_at: "2026-03-29T18:06:28.323Z"
+generated_at: "2026-03-29T18:26:14.848Z"
 ---
 
 # § 1181i. Designation of national-forest areas within counties; disposition of revenues; approval by court

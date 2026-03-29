@@ -1,14 +1,14 @@
 ---
-title: "Section 6107 - Authorization of appropriations"
+title: "Section 6107 - Funding"
 usc_title: 49
 usc_section: "6107"
 chapter: 61
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 6107"
-generated_at: "2026-03-29T18:07:51.367Z"
+generated_at: "2026-03-29T18:27:16.472Z"
 ---
 
-# § 6107. Authorization of appropriations
+# § 6107. Funding
 
-- **(a)** There are authorized to be appropriated to the Secretary to provide grants to States under section 6106 $1,000,000 for each of fiscal years 2012 through 2015. Such funds shall remain available until expended.
-- **(b)** There are authorized to be appropriated to the Secretary such sums as may be necessary to carry out sections 6103, 6104, and 6105 for fiscal years 2012 through 2015.
+Of the amounts made available under section 60125(a)(1), the Secretary shall expend $1,058,000 for each of fiscal years 2016 through 2019 to carry out section 6106.
+

@@ -3,9 +3,9 @@ title: "Section 1126 - Sea grant colleges and sea grant institutes"
 usc_title: 33
 usc_section: "1126"
 chapter: 22
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 1126"
-generated_at: "2026-03-29T18:06:10.525Z"
+generated_at: "2026-03-29T18:26:01.218Z"
 ---
 
 # § 1126. Sea grant colleges and sea grant institutes
@@ -24,14 +24,8 @@ generated_at: "2026-03-29T18:06:10.525Z"
   - **(3)** The Secretary may designate an institution, or an association or alliance of two or more such institutions, as a sea grant institute if the institution, association, or alliance—
     - **(A)** meets the qualifications in paragraph (1); and
     - **(B)** maintains a program which includes, at a minimum, research and extension services.
-- **(b)** Any institution, or association or alliance of two or more such institutions, designated as a sea grant college or awarded institutional program status by the Director prior to March 6, 1998 , shall not have to reapply for designation as a sea grant college or sea grant institute, respectively, after March 6, 1998 , if the Director determines that the institution, or association or alliance of institutions, meets the qualifications in subsection (a) of this section.
-- **(c)** The Secretary may, for cause and after an opportunity for hearing, suspend or terminate any designation under subsection (a) of this section.
+- **(b)** Any institution, or association or alliance of two or more such institutions, designated as a sea grant college or awarded institutional program status by the Director prior to March 6, 1998 , shall not have to reapply for designation as a sea grant college or sea grant institute, respectively, after March 6, 1998 , if the Director determines that the institution, or association or alliance of institutions, meets the qualifications in subsection (a).
+- **(c)** The Secretary may, for cause and after an opportunity for hearing, suspend or terminate any designation under subsection (a).
 - **(d)** Subject to any regulations prescribed or guidelines established by the Secretary, it shall be the responsibility of each sea grant college and sea grant institute—
   - **(1)** to develop and implement, in consultation with the Secretary and the Board, a program that is consistent with the guidelines and priorities established under section 1123(c) of this title ; and
   - **(2)** to conduct a merit review of all proposals for grants and contracts to be awarded under section 1124 of this title .
-- **(e)**
-  - **(1)** The Secretary shall report annually to the Committee on Resources and the Committee on Science of the House of Representatives, and to the Committee on Commerce, Science, and Transportation of the Senate, on efforts and progress made by colleges, universities, institutions, associations, and alliances to become designated under this section as sea grant colleges or sea grant institutes, including efforts and progress made by sea grant institutes in being designated as sea grant colleges.
-  - **(2)** The report shall include description of—
-    - **(A)** efforts made by colleges, universities, associations, institutions, and alliances in United States territories and freely associated States to develop the expertise necessary to be designated as a sea grant institute or sea grant college;
-    - **(B)** the administrative, technical, and financial assistance provided by the Secretary to those entities seeking to be designated; and
-    - **(C)** the additional actions or activities necessary for those entities to meet the qualifications for such designation under subsection (a)(1) of this section.

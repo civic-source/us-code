@@ -3,14 +3,14 @@ title: "Section 2 - Minimum capital level"
 usc_title: 12
 usc_section: "2"
 chapter: 23
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 2"
-generated_at: "2026-03-29T18:04:43.654Z"
+generated_at: "2026-03-29T18:24:02.980Z"
 ---
 
 # § 2279bb–2. Minimum capital level
 
-- **(a)** Except as provided in subsection (b) of this section, for purposes of this part, the minimum capital level for the Corporation shall be an amount of core capital equal to the sum of
+- **(a)** Except as provided in subsection (b), for purposes of this part, the minimum capital level for the Corporation shall be an amount of core capital equal to the sum of
   - **(1)** 2.75 percent of the aggregate on-balance sheet assets of the Corporation, as determined in accordance with generally accepted accounting principles; and
   - **(2)** 0.75 percent of the aggregate off-balance sheet obligations of the Corporation, which, for the purposes of this part, shall include
     - **(A)** the unpaid principal balance of outstanding securities that are guaranteed by the Corporation and backed by pools of qualified loans;
@@ -31,8 +31,8 @@ generated_at: "2026-03-29T18:04:43.654Z"
         - **(I)** 0.65 percent of aggregate off-balance sheet obligations of the Corporation;
         - **(II)** 1.95 percent of designated on-balance sheet assets of the Corporation, as determined under paragraph (2); and
         - **(III)** 2.65 percent of on-balance sheet assets of the Corporation other than assets designated under paragraph (2); or
-      - **(ii)** if the Corporation’s core capital is less than $25,000,000 on January 1, 1998 , the amount determined under subsection (a) of this section; and
-    - **(D)** on and after January 1, 1999 , shall be the amount determined under subsection (a) of this section.
+      - **(ii)** if the Corporation’s core capital is less than $25,000,000 on January 1, 1998 , the amount determined under subsection (a); and
+    - **(D)** on and after January 1, 1999 , shall be the amount determined under subsection (a).
   - **(2)** For purposes of this subsection, the designated on-balance sheet assets of the Corporation shall be—
     - **(A)** the aggregate on-balance sheet assets of the Corporation acquired under section 2279aa–6(e) of this title ; and
     - **(B)** the aggregate amount of qualified loans purchased and held by the Corporation under section 2279aa–3(c)(13) of this title .

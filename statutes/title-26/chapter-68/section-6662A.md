@@ -3,9 +3,9 @@ title: "Section 6662A - Imposition of accuracy-related penalty on understatement
 usc_title: 26
 usc_section: "6662A"
 chapter: 68
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 6662A"
-generated_at: "2026-03-29T18:05:45.029Z"
+generated_at: "2026-03-29T18:25:53.949Z"
 ---
 
 # § 6662A. Imposition of accuracy-related penalty on understatements with respect to reportable transactions
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T18:05:45.029Z"
   - **(2)** This section shall apply to any item which is attributable to—
     - **(A)** any listed transaction, and
     - **(B)** any reportable transaction (other than a listed transaction) if a significant purpose of such transaction is the avoidance or evasion of Federal income tax.
-- **(c)** Subsection (a) shall be applied by substituting “30 percent” for “20 percent” with respect to the portion of any reportable transaction understatement with respect to which the requirement of section 6664(d)(2)(A) 1 1 See References in Text note below. is not met.
+- **(c)** Subsection (a) shall be applied by substituting “30 percent” for “20 percent” with respect to the portion of any reportable transaction understatement with respect to which the requirement of section 6664(d)(3)(A) is not met.
 - **(d)** For purposes of this section, the terms “reportable transaction” and “listed transaction” have the respective meanings given to such terms by section 6707A(c).
 - **(e)**
   - **(1)** In the case of an understatement (as defined in section 6662(d)(2))—

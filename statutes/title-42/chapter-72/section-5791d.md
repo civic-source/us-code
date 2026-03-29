@@ -3,9 +3,9 @@ title: "Section 5791d - Limitation on liability"
 usc_title: 42
 usc_section: "5791d"
 chapter: 72
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 5791d"
-generated_at: "2026-03-29T18:07:14.716Z"
+generated_at: "2026-03-29T18:27:03.661Z"
 ---
 
 # § 5791d. Limitation on liability

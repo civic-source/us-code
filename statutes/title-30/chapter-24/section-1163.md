@@ -3,9 +3,9 @@ title: "Section 1163 - Transfer of functions"
 usc_title: 30
 usc_section: "1163"
 chapter: 24
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "30 U.S.C. § 1163"
-generated_at: "2026-03-29T18:05:26.192Z"
+generated_at: "2026-03-29T18:25:30.894Z"
 ---
 
 # § 1163. Transfer of functions

@@ -1,14 +1,12 @@
 ---
-title: "Section 8d - National-monument approach roads"
+title: "Section 8d - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "8d"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 8d"
-generated_at: "2026-03-29T18:05:06.376Z"
+generated_at: "2026-03-29T18:24:22.403Z"
 ---
 
-# § 8d. National-monument approach roads
-
-Approach roads to national monuments shall be included within the provisions of sections 8 and 8a to 8c of this title under the same conditions as approach roads to national parks, and the limitation therein on the amount of annual allocation of funds to national park approach roads shall be inclusive of such national monument approaches.
+# § 8d. Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272
 

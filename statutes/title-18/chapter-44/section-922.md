@@ -3,9 +3,9 @@ title: "Section 922 - Unlawful acts"
 usc_title: 18
 usc_section: "922"
 chapter: 44
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "18 U.S.C. § 922"
-generated_at: "2026-03-29T18:04:50.892Z"
+generated_at: "2026-03-29T18:24:43.792Z"
 ---
 
 # § 922. Unlawful acts
@@ -224,7 +224,7 @@ generated_at: "2026-03-29T18:04:50.892Z"
     - **(A)** for failure to prevent the sale or transfer of a firearm to a person whose receipt or possession of the firearm is unlawful under this section; or
     - **(B)** for preventing such a sale or transfer to a person who may lawfully receive or possess a firearm.
 - **(u)** It shall be unlawful for a person to steal or unlawfully take or carry away from the person or the premises of a person who is licensed to engage in the business of importing, manufacturing, or dealing in firearms, any firearm in the licensee’s business inventory that has been shipped or transported in interstate or foreign commerce.
-- **[(v)** , (w) Repealed. Pub. L. 103–322, title XI, § 110105(2) , Sept. 13, 1994 , 108 Stat. 2000 .]
+- **[(v)** , (w) Repealed. Pub. L. 103–322, title XI , § 110105(2), Sept. 13, 1994 , 108 Stat. 2000 .]
 - **(x)**
   - **(1)** It shall be unlawful for a person to sell, deliver, or otherwise transfer to a person who the transferor knows or has reasonable cause to believe is a juvenile—
     - **(A)** a handgun; or
@@ -276,7 +276,7 @@ generated_at: "2026-03-29T18:04:50.892Z"
     - **(A)**
       - **(i)** the manufacture for, transfer to, or possession by, the United States, a department or agency of the United States, a State, or a department, agency, or political subdivision of a State, of a handgun; or
       - **(ii)** the transfer to, or possession by, a law enforcement officer employed by an entity referred to in clause (i) of a handgun for law enforcement purposes (whether on or off duty); or
-    - **(B)** the transfer to, or possession by, a rail police officer employed by a rail carrier and certified or commissioned as a police officer under the laws of a State of a handgun for purposes of law enforcement (whether on or off duty);
+    - **(B)** the transfer to, or possession by, a rail police officer directly employed by or contracted by a rail carrier and certified or commissioned as a police officer under the laws of a State of a handgun for purposes of law enforcement (whether on or off duty);
     - **(C)** the transfer to any person of a handgun listed as a curio or relic by the Secretary pursuant to section 921(a)(13); or
     - **(D)** the transfer to any person of a handgun for which a secure gun storage or safety device is temporarily unavailable for the reasons described in the exceptions stated in section 923(e), if the licensed manufacturer, licensed importer, or licensed dealer delivers to the transferee within 10 calendar days from the date of the delivery of the handgun to the transferee a secure gun storage or safety device for the handgun.
   - **(3)**

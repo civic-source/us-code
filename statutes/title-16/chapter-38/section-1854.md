@@ -3,9 +3,9 @@ title: "Section 1854 - Action by Secretary"
 usc_title: 16
 usc_section: "1854"
 chapter: 38
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 1854"
-generated_at: "2026-03-29T18:05:06.978Z"
+generated_at: "2026-03-29T18:24:22.835Z"
 ---
 
 # § 1854. Action by Secretary
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T18:05:06.978Z"
     - **(B)** the nature of such inconsistencies; and
     - **(C)** recommendations concerning the actions that could be taken by the Council to conform such plan or amendment to the requirements of applicable law.
   - **(4)** If the Secretary disapproves or partially approves a plan or amendment, the Council may submit a revised plan or amendment to the Secretary for review under this subsection.
-  - **(5)** For purposes of this subsection and subsection (b) of this section, the term “immediately” means on or before the 5th day after the day on which a Council transmits to the Secretary a fishery management plan, plan amendment, or proposed regulation that the Council characterizes as final.
+  - **(5)** For purposes of this subsection and subsection (b), the term “immediately” means on or before the 5th day after the day on which a Council transmits to the Secretary a fishery management plan, plan amendment, or proposed regulation that the Council characterizes as final.
 - **(b)**
   - **(1)** Upon transmittal by the Council to the Secretary of proposed regulations prepared under section 1853(c) of this title , the Secretary shall immediately initiate an evaluation of the proposed regulations to determine whether they are consistent with the fishery management plan, plan amendment, this chapter and other applicable law. Within 15 days of initiating such evaluation the Secretary shall make a determination and—
     - **(A)** if that determination is affirmative, the Secretary shall publish such regulations in the Federal Register, with such technical changes as may be necessary for clarity and an explanation of those changes, for a public comment period of 15 to 60 days; or
@@ -67,7 +67,7 @@ generated_at: "2026-03-29T18:05:06.978Z"
       - **(ii)** not exceed 10 years, except in cases where the biology of the stock of fish, other environmental conditions, or management measures under an international agreement in which the United States participates dictate otherwise;
     - **(B)** allocate both overfishing restrictions and recovery benefits fairly and equitably among sectors of the fishery; and
     - **(C)** for fisheries managed under an international agreement, reflect traditional participation in the fishery, relative to other nations, by fishermen of the United States.
-  - **(5)** If, within the 2-year period beginning on the date of identification or notification that a fishery is overfished, the Council does not submit to the Secretary a fishery management plan, plan amendment, or proposed regulations required by paragraph (3)(A), the Secretary shall prepare a fishery management plan or plan amendment and any accompanying regulations to stop overfishing and rebuild affected stocks of fish within 9 months under subsection (c) of this section.
+  - **(5)** If, within the 2-year period beginning on the date of identification or notification that a fishery is overfished, the Council does not submit to the Secretary a fishery management plan, plan amendment, or proposed regulations required by paragraph (3)(A), the Secretary shall prepare a fishery management plan or plan amendment and any accompanying regulations to stop overfishing and rebuild affected stocks of fish within 9 months under subsection (c).
   - **(6)** During the development of a fishery management plan, a plan amendment, or proposed regulations required by this subsection, the Council may request the Secretary to implement interim measures to reduce overfishing under section 1855(c) of this title until such measures can be replaced by such plan, amendment, or regulations. Such measures, if otherwise in compliance with the provisions of this chapter, may be implemented even though they are not sufficient by themselves to stop overfishing of a fishery.
   - **(7)** The Secretary shall review any fishery management plan, plan amendment, or regulations required by this subsection at routine intervals that may not exceed two years. If the Secretary finds as a result of the review that such plan, amendment, or regulations have not resulted in adequate progress toward ending overfishing and rebuilding affected fish stocks, the Secretary shall—
     - **(A)** in the case of a fishery to which section 1852(a)(3) of this title applies, immediately make revisions necessary to achieve adequate progress; or
@@ -78,7 +78,7 @@ generated_at: "2026-03-29T18:05:06.978Z"
     - **(B)** may require that the plan and amendment be prepared jointly by the Councils concerned.
   - **(2)** The Secretary shall establish the boundaries between the geographical areas of authority of adjacent Councils.
 - **(g)**
-  - **(1)** The Secretary shall prepare a fishery management plan or plan amendment under subsection (c) of this section with respect to any highly migratory species fishery to which section 1852(a)(3) of this title applies. In preparing and implementing any such plan or amendment, the Secretary shall—
+  - **(1)** The Secretary shall prepare a fishery management plan or plan amendment under subsection (c) with respect to any highly migratory species fishery to which section 1852(a)(3) of this title applies. In preparing and implementing any such plan or amendment, the Secretary shall—
     - **(A)** consult with and consider the comments and views of affected Councils, commissioners and advisory groups appointed under Acts implementing relevant international fishery agreements pertaining to highly migratory species, and the advisory panel established under section 1852(g) of this title ;
     - **(B)** establish an advisory panel under section 1852(g) of this title for each fishery management plan to be prepared under this paragraph;
     - **(C)** evaluate the likely effects, if any, of conservation and management measures on participants in the affected fisheries and minimize, to the extent practicable, any disadvantage to United States fishermen in relation to foreign competitors;

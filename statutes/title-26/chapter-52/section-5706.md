@@ -3,9 +3,9 @@ title: "Section 5706 - Drawback of tax"
 usc_title: 26
 usc_section: "5706"
 chapter: 52
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 5706"
-generated_at: "2026-03-29T18:05:44.947Z"
+generated_at: "2026-03-29T18:25:53.876Z"
 ---
 
 # § 5706. Drawback of tax

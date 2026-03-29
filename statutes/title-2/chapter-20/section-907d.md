@@ -3,9 +3,9 @@ title: "Section 907d - Special reconciliation process"
 usc_title: 2
 usc_section: "907d"
 chapter: 20
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "2 U.S.C. § 907d"
-generated_at: "2026-03-29T18:03:21.776Z"
+generated_at: "2026-03-29T18:23:14.100Z"
 ---
 
 # § 907d. Special reconciliation process
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T18:03:21.776Z"
   - **(7)** For purposes of paragraphs (1), (2), and (3), the term “day” shall mean any calendar day on which the Senate is in session.
 - **(b)**
   - **(1)** Except as provided in paragraph (2), in the Senate the provisions of sections 636 and 641 of this title for the consideration of concurrent resolutions on the budget and conference reports thereon shall also apply to the consideration of resolutions, and reconciliation bills and reconciliation resolutions reported under this paragraph and conference reports thereon.
-  - **(2)** Debate in the Senate on any resolution reported pursuant to subsection (a)(2) of this section, and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to 10 hours.
+  - **(2)** Debate in the Senate on any resolution reported pursuant to subsection (a)(2), and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to 10 hours.
   - **(3)** Section 641(d)(2) of this title shall apply to reconciliation bills and reconciliation resolutions reported under this subsection.
   - **(4)** Any bill or resolution received in the Senate from the House, which is a companion to a reconciliation bill or reconciliation resolution of the Senate for the purposes of this subsection, shall be considered in the Senate pursuant to the provisions of this subsection.
   - **(5)** For purposes of this subsection, the term “resolution” means a simple, joint, or concurrent resolution.

@@ -3,14 +3,14 @@ title: "Section 1475e - Use of English-teaching program fees"
 usc_title: 22
 usc_section: "1475e"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 1475e"
-generated_at: "2026-03-29T18:05:21.775Z"
+generated_at: "2026-03-29T18:24:54.153Z"
 ---
 
 # § 1475e. Use of English-teaching program fees
 
-- **(a)** Notwithstanding section 3302 of title 31 or any other law or limitation of authority, fees and receipts described in subsection (b) of this section are authorized to be credited each fiscal year for authorized purposes to the appropriate appropriations of the United States Information Agency to such extent as may be provided in advance in appropriations acts.
+- **(a)** Notwithstanding section 3302 of title 31 or any other law or limitation of authority, fees and receipts described in subsection (b) are authorized to be credited each fiscal year for authorized purposes to the appropriate appropriations of the United States Information Agency to such extent as may be provided in advance in appropriations acts.
 - **(b)** The fees and receipts described in this subsection are fees and payments received by or for the use of the United States Information Agency from or in connection with—
   - **(1)** English-teaching and library services,
   - **(2)** educational advising and counseling,

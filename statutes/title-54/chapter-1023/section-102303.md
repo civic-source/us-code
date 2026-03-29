@@ -3,9 +3,9 @@ title: "Section 102303 - National Park System Advisory Board"
 usc_title: 54
 usc_section: "102303"
 chapter: 1023
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "54 U.S.C. § 102303"
-generated_at: "2026-03-29T02:16:35.465Z"
+generated_at: "2026-03-29T18:27:38.918Z"
 ---
 
 # § 102303. National Park System Advisory Board
@@ -36,5 +36,5 @@ generated_at: "2026-03-29T02:16:35.465Z"
 - **(g)**
   - **(1)** The Board may secure directly from any office, department, agency, establishment, or instrumentality of the Federal Government such information as the Board may require for the purpose of this section, and each office, department, agency, establishment, or instrumentality shall furnish, to the extent permitted by law, the information, suggestions, estimates, and statistics directly to the Board, on request made by a member of the Board.
   - **(2)** On request of the Board, the head of any Federal department, agency, or instrumentality may make any of the facilities and services of the department, agency, or instrumentality available to the Board, on a nonreimbursable basis, to assist the Board in carrying out its duties under this section.
-- **(h)** Chapter 10 of title 5, with the exception of section 1013(b), applies to the Board.
+- **(h)** The Federal Advisory Committee Act (5 U.S.C. App.), with the exception of section 14(b), applies to the Board.
 - **(i)** The Board continues to exist until January 1, 2010 .

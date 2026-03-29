@@ -1,14 +1,12 @@
 ---
-title: "Section 565c - Disposition of funds remaining after distribution"
+title: "Section 565c - Omitted"
 usc_title: 25
 usc_section: "565c"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 565c"
-generated_at: "2026-03-29T18:05:17.072Z"
+generated_at: "2026-03-29T18:25:23.697Z"
 ---
 
-# § 565c. Disposition of funds remaining after distribution
-
-Funds remaining in the United States Treasury to the credit of the said Klamath Tribe, or any of its constituent parts or groups, after the distribution of funds resulting from Indian Claims Commission docket numbered 100 as provided by sections 565a and 565b of this title, together with any other funds which may be deposited in the United States Treasury, including without limitation funds accruing from other judgments against the United States ( 1 1 So in original. No closing parenthesis was enacted. after payment of expenses, including attorney fees, payments for rights-of-way, trespass damages, or other revenues, together with any interest accrued thereon, shall, after deduction of the estimated cost of distribution, be distributed from time to time as determined by the Secretary to the members of the Klamath Tribe or to the members of any of its constituent parts or groups in the same manner as provided in sections 565a and 565b of this title.
+# § 565c. Omitted
 

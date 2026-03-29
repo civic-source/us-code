@@ -3,9 +3,9 @@ title: "Section 40103 - Administrative exemptions"
 usc_title: 46
 usc_section: "40103"
 chapter: 401
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "46 U.S.C. § 40103"
-generated_at: "2026-03-29T18:07:34.379Z"
+generated_at: "2026-03-29T18:27:18.902Z"
 ---
 
 # § 40103. Administrative exemptions

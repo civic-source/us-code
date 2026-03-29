@@ -3,9 +3,9 @@ title: "Section 2652c - Assistant Secretary of State for Verification and Compli
 usc_title: 22
 usc_section: "2652c"
 chapter: 38
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 2652c"
-generated_at: "2026-03-29T18:05:21.871Z"
+generated_at: "2026-03-29T18:24:54.242Z"
 ---
 
 # § 2652c. Assistant Secretary of State for Verification and Compliance

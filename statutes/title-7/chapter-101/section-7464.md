@@ -3,9 +3,9 @@ title: "Section 7464 - National Kiwifruit Board"
 usc_title: 7
 usc_section: "7464"
 chapter: 101
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 7464"
-generated_at: "2026-03-29T18:04:05.120Z"
+generated_at: "2026-03-29T18:23:43.517Z"
 ---
 
 # § 7464. National Kiwifruit Board
@@ -16,13 +16,13 @@ generated_at: "2026-03-29T18:04:05.120Z"
 - **(b)** Subject to the 11-member limit, the Secretary may adjust membership on the Board to accommodate changes in production and import levels of kiwifruit.
 - **(c)**
   - **(1)** The Secretary shall appoint the members of the Board from nominations submitted in accordance with this subsection.
-  - **(2)** The members who are producers referred to in subsection (a)(1) of this section shall be appointed from individuals nominated by producers.
-  - **(3)** The members who are importers or exporters referred to in subsection (a)(1) of this section shall be appointed from individuals nominated by importers or exporters.
+  - **(2)** The members who are producers referred to in subsection (a)(1) shall be appointed from individuals nominated by producers.
+  - **(3)** The members who are importers or exporters referred to in subsection (a)(1) shall be appointed from individuals nominated by importers or exporters.
   - **(4)** The public representative shall be appointed from nominations submitted by other members of the Board.
   - **(5)** If producers, importers, and exporters fail to nominate individuals for appointment, the Secretary may appoint members and alternates on a basis provided for in the order. If the Board fails to nominate a public representative, the member and alternate may be appointed by the Secretary without a nomination.
 - **(d)** The Secretary shall appoint an alternate for each member of the Board. An alternate shall—
   - **(1)** be appointed in the same manner as the member for whom the individual is an alternate; and
-  - **(2)** serve on the Board if the member is absent from a meeting or is disqualified under subsection (f) of this section.
+  - **(2)** serve on the Board if the member is absent from a meeting or is disqualified under subsection (f).
 - **(e)** A member of the Board shall be appointed for a term of 3 years. No member may serve more than 2 consecutive 3-year terms, except that of the members first appointed—
   - **(1)** 5 members shall be appointed for a term of 2 years; and
   - **(2)** 6 members shall be appointed for a term of 3 years.

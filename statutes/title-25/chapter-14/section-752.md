@@ -1,14 +1,12 @@
 ---
-title: "Section 752 - Water rights"
+title: "Section 752 - Omitted"
 usc_title: 25
 usc_section: "752"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 752"
-generated_at: "2026-03-29T18:05:17.102Z"
+generated_at: "2026-03-29T18:25:23.701Z"
 ---
 
-# § 752. Water rights
-
-Nothing in this subchapter shall abrogate any water rights of a tribe or its members.
+# § 752. Omitted
 

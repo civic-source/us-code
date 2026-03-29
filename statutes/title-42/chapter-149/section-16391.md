@@ -3,9 +3,9 @@ title: "Section 16391 - Improved technology transfer of energy technologies"
 usc_title: 42
 usc_section: "16391"
 chapter: 149
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 16391"
-generated_at: "2026-03-29T18:07:15.472Z"
+generated_at: "2026-03-29T18:27:04.226Z"
 ---
 
 # § 16391. Improved technology transfer of energy technologies
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T18:07:15.472Z"
   - **(1)** coordinate technology transfer activities occurring at National Laboratories and single-purpose research facilities;
   - **(2)** exchange information about technology transfer practices, including alternative approaches to resolution of disputes involving intellectual property rights and other technology transfer matters; and
   - **(3)** develop and disseminate to the public and prospective technology partners information about opportunities and procedures for technology transfer with the Department, including opportunities and procedures related to alternative approaches to resolution of disputes involving intellectual property rights and other technology transfer matters.
-- **(e)** The Secretary shall establish an Energy Technology Commercialization Fund, using 0.9 percent of the amount made available to the Department for applied energy research, development, demonstration, and commercial application for each fiscal year, to be used to provide matching funds with private partners to promote promising energy technologies for commercial purposes.
+- **(e)** The Secretary shall establish an Energy Technology Commercialization Fund, using 0.9 percent of the amount made available to the Department for applied energy research, development, demonstration, and commercial application for each fiscal year based on future planned activities and the amount of the appropriations for the fiscal year, to be used to provide matching funds with private partners to promote promising energy technologies for commercial purposes.
 - **(f)** Nothing in this section affects the technology transfer responsibilities of Federal employees under the Stevenson-Wydler Technology Innovation Act of 1980 ( 15 U.S.C. 3701 et seq.).
 - **(g)**
   - **(1)** Not later than 180 days after August 8, 2005 , the Secretary shall submit to Congress a technology transfer execution plan.

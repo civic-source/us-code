@@ -3,9 +3,9 @@ title: "Section 289b - Office of Research Integrity"
 usc_title: 42
 usc_section: "289b"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 289b"
-generated_at: "2026-03-29T18:07:13.428Z"
+generated_at: "2026-03-29T18:27:02.657Z"
 ---
 
 # § 289b. Office of Research Integrity
@@ -27,7 +27,7 @@ generated_at: "2026-03-29T18:07:13.428Z"
   - **(4)** taking of other actions, including appropriate remedies, with respect to such misconduct.
 - **(d)** The Secretary shall by regulation establish procedures for the Director to monitor administrative processes and investigations that have been established or carried out under this section.
 - **(e)**
-  - **(1)** In the case of any entity required to establish administrative processes under subsection (b) of this section, the Secretary shall by regulation establish standards for preventing, and for responding to the occurrence of retaliation by such entity, its officials or agents, against an employee in the terms and conditions of employment in response to the employee having in good faith—
+  - **(1)** In the case of any entity required to establish administrative processes under subsection (b), the Secretary shall by regulation establish standards for preventing, and for responding to the occurrence of retaliation by such entity, its officials or agents, against an employee in the terms and conditions of employment in response to the employee having in good faith—
     - **(A)** made an allegation that the entity, its officials or agents, has engaged in or failed to adequately respond to an allegation of research misconduct; or
     - **(B)** cooperated with an investigation of such an allegation.
   - **(2)** The Secretary shall by regulation establish procedures for the Director to monitor the implementation of the standards established by an entity under paragraph (1) for the purpose of determining whether the procedures have been established, and are being utilized, in accordance with the standards established under such paragraph.

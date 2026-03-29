@@ -3,9 +3,9 @@ title: "Section 24 - Grants for home- and community-based care"
 usc_title: 42
 usc_section: "24"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 24"
-generated_at: "2026-03-29T18:07:13.605Z"
+generated_at: "2026-03-29T18:27:02.804Z"
 ---
 
 # § 300ff–24. Grants for home- and community-based care
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T18:07:13.605Z"
   - **(1)** provide home- and community-based health services for individuals with HIV/AIDS pursuant to written plans of care prepared by a case management team, that shall include appropriate health care professionals, in such State for providing such services to such individuals;
   - **(2)** provide outreach services to individuals with HIV/AIDS, including those individuals in rural areas; and
   - **(3)** provide for the coordination of the provision of services under this section with the provision of HIV-related health services, including specialty care and vaccinations for hepatitis co-infection, provided by public and private entities.
-- **(b)** In awarding grants under subsection (a) of this section, a State shall give priority to entities that provide assurances to the State that—
+- **(b)** In awarding grants under subsection (a), a State shall give priority to entities that provide assurances to the State that—
   - **(1)** such entities will participate in HIV care consortia if such consortia exist within the State; and
   - **(2)** such entities will utilize amounts provided under such grants for the provision of home- and community-based services to low-income individuals with HIV/AIDS.
 - **(c)** As used in section 300ff–21 of this title , the term “home- and community-based health services”—

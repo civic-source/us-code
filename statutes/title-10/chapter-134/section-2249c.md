@@ -3,9 +3,9 @@ title: "Section 2249c - Regional Defense Combating Terrorism Fellowship Program:
 usc_title: 10
 usc_section: "2249c"
 chapter: 134
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2249c"
-generated_at: "2026-03-29T18:04:13.134Z"
+generated_at: "2026-03-29T18:23:51.894Z"
 ---
 
 # § 2249c. Regional Defense Combating Terrorism Fellowship Program: authority to use appropriated funds for costs associated with education and training of foreign officials
@@ -17,5 +17,6 @@ generated_at: "2026-03-29T18:04:13.134Z"
     - **(A)** the countries of the foreign officers and officials for whom costs were paid; and
     - **(B)** for each such country, the total amount of the costs paid.
   - **(2)** The training courses attended by the foreign officers and officials, including a specification of which, if any, courses were conducted in foreign countries.
-  - **(3)** An assessment of the effectiveness of the program referred to in subsection (a) in increasing the cooperation of the governments of foreign countries with the United States in the global war on terrorism.
-  - **(4)** A discussion of any actions being taken to improve the program.
+  - **(3)** An assessment of the effectiveness of the program referred to in subsection (a), including engagement activities for program alumni, in increasing the cooperation of the governments of foreign countries with the United States in the global war on terrorism.
+  - **(4)** A discussion of any actions being taken to improve the program, including a list of any unfunded or unmet training requirements and requests.
+  - **(5)** A discussion and justification of how the program fits within the theater security priorities of each of the commanders of the geographic combatant commands.

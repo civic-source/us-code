@@ -3,9 +3,9 @@ title: "Section 1a - Delegation of powers and duties by Secretary of the Interio
 usc_title: 25
 usc_section: "1a"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1a"
-generated_at: "2026-03-29T18:05:17.016Z"
+generated_at: "2026-03-29T18:25:23.655Z"
 ---
 
 # § 1a. Delegation of powers and duties by Secretary of the Interior and Commissioner of Indian Affairs

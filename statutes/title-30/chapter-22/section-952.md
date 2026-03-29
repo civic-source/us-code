@@ -3,9 +3,9 @@ title: "Section 952 - Training and education"
 usc_title: 30
 usc_section: "952"
 chapter: 22
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "30 U.S.C. § 952"
-generated_at: "2026-03-29T18:05:26.183Z"
+generated_at: "2026-03-29T18:25:30.885Z"
 ---
 
 # § 952. Training and education
@@ -16,5 +16,5 @@ generated_at: "2026-03-29T18:05:26.183Z"
 - **(b)** The Secretary shall, to the greatest extent possible, provide technical assistance to operators in meeting the requirements of this chapter and in further improving the health and safety conditions and practices in coal or other mines.
 - **(c)**
   - **(1)** The National Mine Health and Safety Academy shall be maintained as an agency of the Department of Labor. The Academy shall be responsible for the training of mine safety and health inspectors under section 954 of this title , and in training of technical support personnel of the Mine Safety and Health Administration established under section 557a of title 29 ; and for any other training programs for mine inspectors, mining personnel, or other persons as the Secretary of Labor shall designate. In performing this function, the Academy shall have the authority to enter into cooperative educational and training agreements with educational institutions, State governments, labor organizations, and mine operators and related industries. Such training shall be conducted by the Academy in accordance with curriculum needs and assignment of instructional personnel established by the user.
-  - **(2)** Repealed. Pub. L. 96–38, title I, § 100 , July 25, 1979 , 93 Stat. 111 .
+  - **(2)** Repealed. Pub. L. 96–38, title I , § 100, July 25, 1979 , 93 Stat. 111 .
   - **(3)** The Secretary of the Interior shall conduct his safety research responsibilities under section 951 of this title in coordination with the Secretary of Labor, and the Secretaries of Labor and the Interior are authorized to enter into contractual or other agreements for the performance of such safety related research.

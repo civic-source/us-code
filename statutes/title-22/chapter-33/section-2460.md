@@ -3,9 +3,9 @@ title: "Section 2460 - Bureau of Educational and Cultural Affairs"
 usc_title: 22
 usc_section: "2460"
 chapter: 33
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 2460"
-generated_at: "2026-03-29T18:05:21.861Z"
+generated_at: "2026-03-29T18:24:54.230Z"
 ---
 
 # § 2460. Bureau of Educational and Cultural Affairs
@@ -32,7 +32,7 @@ generated_at: "2026-03-29T18:05:21.861Z"
   - **(1)** The President shall ensure that all exchange programs conducted by the United States Government, its departments and agencies, directly or through agreements with other parties, are reported at a time and in a format prescribed by the Director. The President shall ensure that such exchanges are consistent with United States foreign policy and avoid duplication of effort.
   - **(2)** Not later than 90 days after April 30, 1994 , and annually thereafter, the President shall submit to the Speaker of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate a report pursuant to paragraph (1). Such report shall include information for each exchange program supported by the United States on the objectives of such exchange, the number of exchange participants supported, the types of exchange activities conducted, the total amount of Federal expenditures for such exchanges, and the extent to which such exchanges are duplicative.
 - **(g)**
-  - **(1)** In order to carry out the purposes of subsection (f) of this section and to improve the coordination, efficiency, and effectiveness of United States Government-sponsored international exchanges and training, there is established within the Department of State a senior-level interagency working group to be known as the Working Group on United States Government-Sponsored International Exchanges and Training (in this section referred to as the “Working Group”).
+  - **(1)** In order to carry out the purposes of subsection (f) and to improve the coordination, efficiency, and effectiveness of United States Government-sponsored international exchanges and training, there is established within the Department of State a senior-level interagency working group to be known as the Working Group on United States Government-Sponsored International Exchanges and Training (in this section referred to as the “Working Group”).
   - **(2)** For purposes of this subsection, the term “Government-sponsored international exchanges and training” means the movement of people between countries to promote the sharing of ideas, to develop skills, and to foster mutual understanding and cooperation, financed wholly or in part, directly or indirectly, with United States Government funds.
   - **(3)** The Working Group shall be composed as follows:
     - **(A)** The Assistant Secretary of State for Educational and Cultural Affairs, who shall act as Chair.

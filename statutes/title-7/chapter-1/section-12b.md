@@ -3,9 +3,9 @@ title: "Section 12b - Trading ban violations; prohibition"
 usc_title: 7
 usc_section: "12b"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 12b"
-generated_at: "2026-03-29T18:04:04.699Z"
+generated_at: "2026-03-29T18:23:43.124Z"
 ---
 
 # § 12b. Trading ban violations; prohibition

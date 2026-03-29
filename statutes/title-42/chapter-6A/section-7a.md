@@ -3,16 +3,16 @@ title: "Section 7a - Heart attack, stroke, and other cardiovascular diseases in 
 usc_title: 42
 usc_section: "7a"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 7a"
-generated_at: "2026-03-29T18:07:13.404Z"
+generated_at: "2026-03-29T18:27:02.639Z"
 ---
 
 # § 285b–7a. Heart attack, stroke, and other cardiovascular diseases in women
 
 - **(a)** The Director of the Institute shall expand, intensify, and coordinate research and related activities of the Institute with respect to heart attack, stroke, and other cardiovascular diseases in women.
-- **(b)** The Director of the Institute shall coordinate activities under subsection (a) of this section with similar activities conducted by the other national research institutes and agencies of the National Institutes of Health to the extent that such Institutes and agencies have responsibilities that are related to heart attack, stroke, and other cardiovascular diseases in women.
-- **(c)** In carrying out subsection (a) of this section, the Director of the Institute shall conduct or support research to expand the understanding of the causes of, and to develop methods for preventing, cardiovascular diseases in women. Activities under such subsection shall include conducting and supporting the following:
+- **(b)** The Director of the Institute shall coordinate activities under subsection (a) with similar activities conducted by the other national research institutes and agencies of the National Institutes of Health to the extent that such Institutes and agencies have responsibilities that are related to heart attack, stroke, and other cardiovascular diseases in women.
+- **(c)** In carrying out subsection (a), the Director of the Institute shall conduct or support research to expand the understanding of the causes of, and to develop methods for preventing, cardiovascular diseases in women. Activities under such subsection shall include conducting and supporting the following:
   - **(1)** Research to determine the reasons underlying the prevalence of heart attack, stroke, and other cardiovascular diseases in women, including African-American women and other women who are members of racial or ethnic minority groups.
   - **(2)** Basic research concerning the etiology and causes of cardiovascular diseases in women.
   - **(3)** Epidemiological studies to address the frequency and natural history of such diseases and the differences among men and women, and among racial and ethnic groups, with respect to such diseases.

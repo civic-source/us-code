@@ -3,9 +3,9 @@ title: "Section 985 - Persons convicted of capital crimes; certain other persons
 usc_title: 10
 usc_section: "985"
 chapter: 49
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 985"
-generated_at: "2026-03-29T18:04:13.033Z"
+generated_at: "2026-03-29T18:23:51.778Z"
 ---
 
 # § 985. Persons convicted of capital crimes; certain other persons: denial of specified burial-related benefits

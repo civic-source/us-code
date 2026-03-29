@@ -3,14 +3,14 @@ title: "Section 2533 - Determinations of public interest under chapter 83 of tit
 usc_title: 10
 usc_section: "2533"
 chapter: 148
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2533"
-generated_at: "2026-03-29T18:04:13.183Z"
+generated_at: "2026-03-29T18:23:51.970Z"
 ---
 
 # § 2533. Determinations of public interest under chapter 83 of title 41
 
-- **(a)** In determining under section 8302 of title 41 whether application of such Act is inconsistent with the public interest, the Secretary of Defense shall consider the following:
+- **(a)** In determining under section 8302 of title 41 whether application of chapter 83 of such title is inconsistent with the public interest, the Secretary of Defense shall consider the following:
   - **(1)** The bids or proposals of small business firms in the United States which have offered to furnish American goods.
   - **(2)** The bids or proposals of all other firms in the United States which have offered to furnish American goods.
   - **(3)** The United States balance of payments.

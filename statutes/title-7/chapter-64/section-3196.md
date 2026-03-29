@@ -3,9 +3,9 @@ title: "Section 3196 - Research on national and regional animal health or diseas
 usc_title: 7
 usc_section: "3196"
 chapter: 64
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 3196"
-generated_at: "2026-03-29T18:04:05.012Z"
+generated_at: "2026-03-29T18:23:43.416Z"
 ---
 
 # § 3196. Research on national and regional animal health or disease problems
@@ -18,6 +18,6 @@ generated_at: "2026-03-29T18:04:05.012Z"
   - **(3)** issues of animal well-being related to production methods that will improve the housing and management of animals to improve the well-being of livestock production species;
   - **(4)** whether current scientific knowledge necessary to prevent, cure, or abate such a health or disease problem is adequate; and
   - **(5)** whether the status of scientific research is such that accomplishments may be anticipated through the application of scientific effort to such health or disease problem.
-- **(d)** Without regard to any consultation under subsection (c) of this section, the Secretary shall, to the extent feasible, award grants on the basis of the priorities assigned through a peer review system. Grantees shall be selected on a competitive basis in accordance with such procedures as the Secretary may establish.
+- **(d)** Without regard to any consultation under subsection (c), the Secretary shall, to the extent feasible, award grants on the basis of the priorities assigned through a peer review system. Grantees shall be selected on a competitive basis in accordance with such procedures as the Secretary may establish.
 - **(e)** In the case of multiyear grants, the Secretary shall distribute funds to grant recipients on a schedule which is reasonably related to the timetable required for the orderly conduct of the research project involved.
 - **(f)** The Federal Advisory Committee Act (5 U.S.C. App.) and title XVIII of this Act [ 7 U.S.C. 2281 et seq.] shall not apply to a panel or board created solely for the purpose of reviewing applications or proposals submitted under this subchapter.

@@ -3,9 +3,9 @@ title: "Section 637 - Stopping vessels; indemnity for firing at or into vessel"
 usc_title: 14
 usc_section: "637"
 chapter: 17
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "14 U.S.C. § 637"
-generated_at: "2026-03-29T18:04:21.492Z"
+generated_at: "2026-03-29T18:23:55.778Z"
 ---
 
 # § 637. Stopping vessels; indemnity for firing at or into vessel
@@ -17,6 +17,6 @@ generated_at: "2026-03-29T18:04:21.492Z"
 - **(c)** A vessel or aircraft is an authorized vessel or authorized aircraft for purposes of this section if—
   - **(1)** it is a Coast Guard vessel or aircraft;
   - **(2)** it is a surface naval vessel or military aircraft on which one or more members of the Coast Guard are assigned pursuant to section 379 of title 10 ; or
-  - **(3)** any 1 1 So in original. Probably should be preceded by “it is”. other vessel or aircraft on government noncommercial service when—
+  - **(3)** it is any other vessel or aircraft on government noncommercial service when—
     - **(A)** the vessel or aircraft is under the tactical control of the Coast Guard; and
     - **(B)** at least one member of the Coast Guard is assigned and conducting a Coast Guard mission on the vessel or aircraft.

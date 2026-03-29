@@ -3,9 +3,9 @@ title: "Section 50901 - Findings and purposes"
 usc_title: 51
 usc_section: "50901"
 chapter: 509
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "51 U.S.C. § 50901"
-generated_at: "2026-03-29T18:07:59.505Z"
+generated_at: "2026-03-29T18:27:39.397Z"
 ---
 
 # § 50901. Findings and purposes
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T18:07:59.505Z"
   - **(12)** space transportation is inherently risky, and the future of the commercial human space flight industry will depend on its ability to continually improve its safety performance;
   - **(13)** a critical area of responsibility for the Department of Transportation is to regulate the operations and safety of the emerging commercial human space flight industry;
   - **(14)** the public interest is served by creating a clear legal, regulatory, and safety regime for commercial human space flight; and
-  - **(15)** the regulatory standards governing human space flight must evolve as the industry matures so that regulations neither stifle technology development nor expose crew or space flight participants to avoidable risks as the public comes to expect greater safety for crew and space flight participants from the industry.
+  - **(15)** the regulatory standards governing human space flight must evolve as the industry matures so that regulations neither stifle technology development nor expose crew, government astronauts, or space flight participants to avoidable risks as the public comes to expect greater safety for crew, government astronauts, and space flight participants from the industry.
 - **(b)** The purposes of this chapter are—
   - **(1)** to promote economic growth and entrepreneurial activity through use of the space environment for peaceful purposes;
   - **(2)** to encourage the United States private sector to provide launch vehicles, reentry vehicles, and associated services by—

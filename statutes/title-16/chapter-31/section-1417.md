@@ -3,9 +3,9 @@ title: "Section 1417 - Prohibitions"
 usc_title: 16
 usc_section: "1417"
 chapter: 31
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 1417"
-generated_at: "2026-03-29T18:05:06.934Z"
+generated_at: "2026-03-29T18:24:22.796Z"
 ---
 
 # § 1417. Prohibitions
@@ -18,6 +18,6 @@ generated_at: "2026-03-29T18:05:06.934Z"
   - **(5)** for any person to refuse to permit any duly authorized officer to board a vessel subject to that person’s control for purposes of conducting any search or inspection in connection with the enforcement of this subchapter; and
   - **(6)** for any person to assault, resist, oppose, impede, intimidate, or interfere with any such authorized officer in the conduct of any search or inspection described in paragraph (5).
 - **(b)**
-  - **(1)** A person that knowingly and willfully violates subsection (a)(1), (2), (3), (4), or (5) of this section shall be subject to a civil penalty under section 1375(a) of this title .
-  - **(2)** A person that knowingly and willfully violates subsection (a)(5) or (a)(6) of this section shall be subject to a criminal penalty under section 1375(b) of this title .
+  - **(1)** A person that knowingly and willfully violates subsection (a)(1), (2), (3), (4), or (5) shall be subject to a civil penalty under section 1375(a) of this title .
+  - **(2)** A person that knowingly and willfully violates subsection (a)(5) or (a)(6) shall be subject to a criminal penalty under section 1375(b) of this title .
 - **(c)** Any vessel (including its fishing gear, appurtenances, stores, and cargo) used, and any fish (or its fair market value) taken or retained, in any manner, in connection with or as a result of the commission of any act prohibited by this section shall be subject to forfeiture to the United States in the manner provided in section 1860 of this title .

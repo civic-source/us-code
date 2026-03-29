@@ -3,9 +3,9 @@ title: "Section 7326 - Disposal of forfeited or abandoned property in special ca
 usc_title: 26
 usc_section: "7326"
 chapter: 75
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 7326"
-generated_at: "2026-03-29T18:05:45.045Z"
+generated_at: "2026-03-29T18:25:53.963Z"
 ---
 
 # § 7326. Disposal of forfeited or abandoned property in special cases

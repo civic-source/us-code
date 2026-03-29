@@ -3,9 +3,9 @@ title: "Section 1395pp - Limitation on liability where claims are disallowed"
 usc_title: 42
 usc_section: "1395pp"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1395pp"
-generated_at: "2026-03-29T18:07:14.048Z"
+generated_at: "2026-03-29T18:27:03.158Z"
 ---
 
 # § 1395pp. Limitation on liability where claims are disallowed
@@ -39,3 +39,4 @@ generated_at: "2026-03-29T18:07:14.048Z"
   - **(1)** furnishes an item or service to a beneficiary for which no payment may be made by reason of section 1395m(j)(1) of this title ;
   - **(2)** furnishes an item or service to a beneficiary for which payment is denied in advance under section 1395m(a)(15) of this title ; or
   - **(3)** furnishes an item or service to a beneficiary for which no payment may be made by reason of section 1395m(a)(17)(B) of this title ,
+- **(i)** The provisions of this section shall apply with respect to a denial of a payment under this subchapter by reason of section 1395f(a)(7)(E) of this title in the same manner as such provisions apply with respect to a denial of a payment under this subchapter by reason of section 1395y(a)(1) of this title .

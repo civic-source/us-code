@@ -3,14 +3,14 @@ title: "Section 606 - State and local permits"
 usc_title: 23
 usc_section: "606"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "23 U.S.C. § 606"
-generated_at: "2026-03-29T18:05:12.250Z"
+generated_at: "2026-03-29T18:25:00.212Z"
 ---
 
 # § 606. State and local permits
 
-The provision of credit assistance under this chapter with respect to a project shall not—
+The provision of credit assistance under the TIFIA program with respect to a project shall not—
 
   - **(1)** relieve any recipient of the assistance of any obligation to obtain any required State or local permit or approval with respect to the project;
   - **(2)** limit the right of any unit of State or local government to approve or regulate any rate of return on private equity invested in the project; or

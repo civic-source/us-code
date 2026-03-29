@@ -3,9 +3,9 @@ title: "Section 1475 - Death gratuity: death of members on active duty or inacti
 usc_title: 10
 usc_section: "1475"
 chapter: 75
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 1475"
-generated_at: "2026-03-29T18:04:13.087Z"
+generated_at: "2026-03-29T18:23:51.836Z"
 ---
 
 # § 1475. Death gratuity: death of members on active duty or inactive duty training and of certain other persons
@@ -17,5 +17,5 @@ generated_at: "2026-03-29T18:04:13.087Z"
   - **(4)** any member of a reserve officers’ training corps who dies while performing annual training duty under orders for a period of more than 13 days, or while performing authorized travel to or from that annual training duty; or any applicant for membership in a reserve officers’ training corps who dies while attending field training or a practice cruise under section 2104(b)(6)(B) of this title or while performing authorized travel to or from the place where the training or cruise is conducted; or
   - **(5)** a person who dies while traveling to or from or while at a place for final acceptance, or for entry upon active duty (other than for training), in an armed force, who has been ordered or directed to go to that place, and who—
     - **(A)** has been provisionally accepted for that duty; or
-    - **(B)** has been selected, under the Military Selective Service Act (50 U.S.C. App. 451 et seq.), for service in that armed force.
+    - **(B)** has been selected, under the Military Selective Service Act (50 U.S.C. App. 451 et seq.), 1 1 See References in Text note below. for service in that armed force.
 - **(b)** This section does not apply to the survivors of persons who were temporary members of the Coast Guard Reserve at the time of their death.

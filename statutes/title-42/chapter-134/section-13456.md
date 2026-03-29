@@ -3,9 +3,9 @@ title: "Section 13456 - Improving efficiency in energy-intensive industries"
 usc_title: 42
 usc_section: "13456"
 chapter: 134
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 13456"
-generated_at: "2026-03-29T18:07:15.323Z"
+generated_at: "2026-03-29T18:27:04.121Z"
 ---
 
 # § 13456. Improving efficiency in energy-intensive industries
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T18:07:15.323Z"
   - **(2)** undertake joint ventures to encourage the commercialization of technologies developed under paragraph (1).
 - **(b)**
   - **(1)** The Secretary shall—
-    - **(A)** conduct a competitive solicitation for proposals from private firms and investors for such joint ventures under subsection (a)(2) of this section; and
+    - **(A)** conduct a competitive solicitation for proposals from private firms and investors for such joint ventures under subsection (a)(2); and
     - **(B)** provide financial assistance to at least five such joint ventures.
   - **(2)** The purpose of the joint ventures shall be to design, test, and demonstrate changes to industrial processes that will result in improved energy efficiency and productivity. The joint ventures may also demonstrate other improvements of benefit to such industries so long as demonstration of energy efficiency improvements is the principal objective of the joint venture.
   - **(3)** In evaluating proposals for financial assistance and joint ventures under this section, the Secretary shall consider—

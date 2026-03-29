@@ -3,9 +3,9 @@ title: "Section 10709 - Contracts"
 usc_title: 49
 usc_section: "10709"
 chapter: 107
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 10709"
-generated_at: "2026-03-29T18:07:51.370Z"
+generated_at: "2026-03-29T18:27:16.480Z"
 ---
 
 # § 10709. Contracts
@@ -33,9 +33,3 @@ generated_at: "2026-03-29T18:07:51.370Z"
   - **(3)**
     - **(A)** Within 30 days after the date a proceeding is commenced under paragraph (1) of this subsection, or within such shorter time period after such date as the Board may establish, the Board shall determine whether the contract that is the subject of such proceeding is in violation of this section.
     - **(B)** If the Board determines, on the basis of a complaint filed under paragraph (2)(B)(i) of this subsection, that the grounds for a complaint described in such paragraph have been established with respect to a rail carrier, the Board shall, subject to the provisions of this section, order such rail carrier to provide rates and service substantially similar to the contract at issue with such differentials in terms and conditions as are justified by the evidence.
-- **(h)**
-  - **(1)** Any rail carrier may, in accordance with the terms of this section, enter into contracts for the transportation of agricultural commodities (including forest products, but not including wood pulp, wood chips, pulpwood or paper) involving the utilization of carrier owned or leased equipment not in excess of 40 percent of the capacity of such carrier’s owned or leased equipment by major car type (plain boxcars, covered hopper cars, gondolas and open top hoppers, coal cars, bulkhead flatcars, pulpwood rackcars, and flatbed equipment, including TOFC/COFC).
-  - **(2)** The Board may, on request of a rail carrier or other party or on its own initiative, grant such relief from the limitations of paragraph (1) of this subsection as the Board considers appropriate, if it appears that additional equipment may be made available without impairing the rail carrier’s ability to meet its common carrier obligations under section 11101 of this title .
-  - **(3)**
-    - **(A)** This subsection shall cease to be effective after September 30, 1998 .
-    - **(B)** Before October 1, 1997 , the National Grain Car Council and the Railroad-Shipper Transportation Advisory Council shall make recommendations to Congress on whether to extend the effectiveness of or otherwise modify this subsection.

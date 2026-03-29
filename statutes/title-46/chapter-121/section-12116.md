@@ -3,9 +3,9 @@ title: "Section 12116 - Limited endorsements for Guam, American Samoa, and North
 usc_title: 46
 usc_section: "12116"
 chapter: 121
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "46 U.S.C. § 12116"
-generated_at: "2026-03-29T18:07:34.366Z"
+generated_at: "2026-03-29T18:27:18.892Z"
 ---
 
 # § 12116. Limited endorsements for Guam, American Samoa, and Northern Mariana Islands

@@ -3,9 +3,9 @@ title: "Section 8782 - Suspension of permanent price support authority"
 usc_title: 7
 usc_section: "8782"
 chapter: 113
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 8782"
-generated_at: "2026-03-29T18:04:05.178Z"
+generated_at: "2026-03-29T18:23:43.572Z"
 ---
 
 # § 8782. Suspension of permanent price support authority

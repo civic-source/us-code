@@ -3,9 +3,9 @@ title: "Section 8336 - Immediate retirement"
 usc_title: 5
 usc_section: "8336"
 chapter: 83
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 8336"
-generated_at: "2026-03-29T18:03:29.935Z"
+generated_at: "2026-03-29T18:23:29.944Z"
 ---
 
 # § 8336. Immediate retirement
@@ -75,7 +75,7 @@ generated_at: "2026-03-29T18:03:29.935Z"
       - **(ii)** the Secretary finds that such postponement is necessary for the continued effective operation of the agency.
   - **(4)** For the purpose of this subsection—
     - **(A)** “Bureau of Indian Affairs” means (i) the Bureau of Indian Affairs and (ii) all other organizational units in the Department of the Interior directly and primarily related to providing services to Indians and in which positions are filled in accordance with the Indian preference laws.
-    - **(B)** “Indian preference laws” means section 12 of the Act of June 18, 1934 ( 25 U.S.C. 472 ; 48 Stat. 986 ), or any other provision of law granting a preference to Indians in promotions or other Federal personnel actions.
+    - **(B)** “Indian preference laws” means section 12 of the Act of June 18, 1934 ( 25 U.S.C. 472 ; 48 Stat. 986 ), 3 or any other provision of law granting a preference to Indians in promotions or other Federal personnel actions.
 - **(k)** A bankruptcy judge, United States magistrate judge, or Court of Federal Claims judge who is separated from service, except by removal, after becoming 62 years of age and completing 5 years of civilian service, or after becoming 60 years of age and completing 10 years of service as a bankruptcy judge, United States magistrate judge, or Court of Federal Claims judge, is entitled to an annuity.
 - **(l)** A judge of the United States Court of Appeals for the Armed Forces who is separated from the service after becoming 62 years of age and completing 5 years of civilian service or after completing the term of service for which he was appointed as a judge of such court is entitled to an annuity. A judge who is separated from the service before becoming 60 years of age is entitled to a reduced annuity.
 - **(m)** A member of the Capitol Police who is separated from the service after becoming 50 years of age and completing 20 years of service as a member of the Capitol Police as a law enforcement officer, or as a customs and border protection officer, or any combination of such service totaling at least 20 years, is entitled to an annuity.

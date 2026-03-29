@@ -3,9 +3,9 @@ title: "Section 5105 - Transporting certain highly radioactive material"
 usc_title: 49
 usc_section: "5105"
 chapter: 51
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 5105"
-generated_at: "2026-03-29T18:07:51.336Z"
+generated_at: "2026-03-29T18:27:16.438Z"
 ---
 
 # § 5105. Transporting certain highly radioactive material

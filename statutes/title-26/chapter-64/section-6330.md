@@ -3,9 +3,9 @@ title: "Section 6330 - Notice and opportunity for hearing before levy"
 usc_title: 26
 usc_section: "6330"
 chapter: 64
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 6330"
-generated_at: "2026-03-29T18:05:45.004Z"
+generated_at: "2026-03-29T18:25:53.924Z"
 ---
 
 # § 6330. Notice and opportunity for hearing before levy
@@ -47,8 +47,9 @@ generated_at: "2026-03-29T18:05:45.004Z"
       - **(ii)** the person seeking to raise the issue participated meaningfully in such hearing or proceeding; or
     - **(B)** the issue meets the requirement of clause (i) or (ii) of section 6702(b)(2)(A).
 - **(d)**
-  - **(1)** The person may, within 30 days of a determination under this section, appeal such determination to the Tax Court (and the Tax Court shall have jurisdiction with respect to such matter).
-  - **(2)** The Internal Revenue Service Office of Appeals shall retain jurisdiction with respect to any determination made under this section, including subsequent hearings requested by the person who requested the original hearing on issues regarding—
+  - **(1)** The person may, within 30 days of a determination under this section, petition the Tax Court for review of such determination (and the Tax Court shall have jurisdiction with respect to such matter).
+  - **(2)** In the case of a person who is prohibited by reason of a case under title 11, United States Code, from filing a petition under paragraph (1) with respect to a determination under this section, the running of the period prescribed by such subsection for filing such a petition with respect to such determination shall be suspended for the period during which the person is so prohibited from filing such a petition, and for 30 days thereafter, and 1 1 So in original.
+  - **(3)** The Internal Revenue Service Office of Appeals shall retain jurisdiction with respect to any determination made under this section, including subsequent hearings requested by the person who requested the original hearing on issues regarding—
     - **(A)** collection actions taken or proposed with respect to such determination; and
     - **(B)** after the person has exhausted all administrative remedies, a change in circumstances with respect to such person which affects such determination.
 - **(e)**

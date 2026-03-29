@@ -3,9 +3,9 @@ title: "Section 1379b - Wheat marketing allocation; amount; national allocation 
 usc_title: 7
 usc_section: "1379b"
 chapter: 35
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 1379b"
-generated_at: "2026-03-29T18:04:04.832Z"
+generated_at: "2026-03-29T18:23:43.254Z"
 ---
 
 # § 1379b. Wheat marketing allocation; amount; national allocation percentage; commercial and noncommercial wheat-producing areas

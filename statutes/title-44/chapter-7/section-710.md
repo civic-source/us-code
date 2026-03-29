@@ -1,14 +1,14 @@
 ---
-title: "Section 710 - Copies of Acts furnished to Public Printer"
+title: "Section 710 - Copies of Acts furnished to Director of the Government Publishing Office"
 usc_title: 44
 usc_section: "710"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "44 U.S.C. § 710"
-generated_at: "2026-03-29T18:06:33.610Z"
+generated_at: "2026-03-29T18:26:16.106Z"
 ---
 
-# § 710. Copies of Acts furnished to Public Printer
+# § 710. Copies of Acts furnished to Director of the Government Publishing Office
 
-The Archivist of the United States shall furnish to the Public Printer a copy of every Act and joint resolution, as soon as possible after its approval by the President, or after it has become a law under the Constitution without his approval.
+The Archivist of the United States shall furnish to the Director of the Government Publishing Office a copy of every Act and joint resolution, as soon as possible after its approval by the President, or after it has become a law under the Constitution without his approval.
 

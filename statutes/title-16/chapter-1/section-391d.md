@@ -3,9 +3,9 @@ title: "Section 391d - Change in name of part of Hawaii National Park"
 usc_title: 16
 usc_section: "391d"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 391d"
-generated_at: "2026-03-29T18:05:06.435Z"
+generated_at: "2026-03-29T18:24:22.453Z"
 ---
 
 # § 391d. Change in name of part of Hawaii National Park

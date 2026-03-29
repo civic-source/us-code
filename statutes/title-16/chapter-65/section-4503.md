@@ -3,15 +3,15 @@ title: "Section 4503 - Institute of Tropical Forestry in Puerto Rico"
 usc_title: 16
 usc_section: "4503"
 chapter: 65
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 4503"
-generated_at: "2026-03-29T18:05:07.068Z"
+generated_at: "2026-03-29T18:24:22.910Z"
 ---
 
 # § 4503. Institute of Tropical Forestry in Puerto Rico
 
 - **(a)** The Secretary shall expand the capabilities of and construct additional facilities at the Caribbean National Forest and Institute of Tropical Forestry in Puerto Rico, as the Secretary determines necessary to support the purpose of this chapter, and as funds are appropriated for such expansion and construction.
-- **(b)** Not later than 1 year after November 5, 1990 , the Secretary shall prepare and submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Committee on Agriculture of the House of Representatives, and to the Committees on Appropriations of the Senate and House of Representatives, a tropical forestry plan for the expansion and construction of additional facilities under subsection (a) of this section. Such plan shall include provisions for—
+- **(b)** Not later than 1 year after November 5, 1990 , the Secretary shall prepare and submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Committee on Agriculture of the House of Representatives, and to the Committees on Appropriations of the Senate and House of Representatives, a tropical forestry plan for the expansion and construction of additional facilities under subsection (a). Such plan shall include provisions for—
   - **(1)** the construction or acquisition of a major center for education, interpretation, and appreciation of the benefits and methods of the intelligent management of tropical forests;
   - **(2)** the acquisition or construction of facilities for housing and classroom instruction near the Caribbean National Forest/Luguillo Experimental Forest; and
   - **(3)** the acquisition or construction of facilities for the study and recovery of endangered tropical wildlife, fish and plant species.

@@ -3,9 +3,9 @@ title: "Section 31137 - Electronic logging devices and brake maintenance regulat
 usc_title: 49
 usc_section: "31137"
 chapter: 311
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 31137"
-generated_at: "2026-03-29T18:07:51.447Z"
+generated_at: "2026-03-29T18:27:16.546Z"
 ---
 
 # § 31137. Electronic logging devices and brake maintenance regulations
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T18:07:51.447Z"
       - **(iii)** to be tamper resistant; and
       - **(iv)** to be synchronized to the operation of the vehicle engine or be capable of recognizing when the vehicle is being operated;
     - **(B)** allow law enforcement to access the data contained in the device during a roadside inspection; and
-    - **(C)** apply to a commercial motor vehicle beginning on the date that is 2 years after the date that the regulations are published as a final rule.
+    - **(C)** except as provided in paragraph (3), apply to a commercial motor vehicle beginning on the date that is 2 years after the date that the regulations are published as a final rule.
   - **(2)** The regulations prescribed under subsection (a) shall establish performance standards—
     - **(A)** defining a standardized user interface to aid vehicle operator compliance and law enforcement review;
     - **(B)** establishing a secure process for standardized—
@@ -32,6 +32,9 @@ generated_at: "2026-03-29T18:07:51.447Z"
       - **(v)** data transfer and transportability for law enforcement officials;
     - **(C)** establishing a standard security level for an electronic logging device and related components to be tamper resistant by using a methodology endorsed by a nationally recognized standards organization; and
     - **(D)** identifying each driver subject to the hours of service and record of duty status requirements under part 395 of title 49, Code of Federal Regulations.
+  - **(3)** A motor carrier, when transporting a motor home or recreation vehicle trailer within the definition of the term “driveaway-towaway operation” (as defined in section 390.5 of title 49, Code of Federal Regulations), may comply with the hours of service requirements by requiring each driver to use—
+    - **(A)** a paper record of duty status form; or
+    - **(B)** an electronic logging device.
 - **(c)**
   - **(1)** The regulations prescribed by the Secretary under this section shall establish the criteria and a process for the certification of electronic logging devices to ensure that the device meets the performance requirements under this section.
   - **(2)** Electronic logging devices that are not certified in accordance with the certification process referred to in paragraph (1) shall not be acceptable evidence of hours of service and record of duty status requirements under part 395 of title 49, Code of Federal Regulations.

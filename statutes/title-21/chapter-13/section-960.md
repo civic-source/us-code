@@ -3,15 +3,15 @@ title: "Section 960 - Prohibited acts A"
 usc_title: 21
 usc_section: "960"
 chapter: 13
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 960"
-generated_at: "2026-03-29T18:05:14.903Z"
+generated_at: "2026-03-29T18:25:04.229Z"
 ---
 
 # § 960. Prohibited acts A
 
 - **(a)** Any person who—
-  - **(1)** contrary to section 952, 953, or 957 of this title, knowingly or intentionally imports or exports a controlled substance,
+  - **(1)** contrary to section 825, 952, 953, or 957 of this title, knowingly or intentionally imports or exports a controlled substance,
   - **(2)** contrary to section 955 of this title , knowingly or intentionally brings or possesses on board a vessel, aircraft, or vehicle a controlled substance, or
   - **(3)** contrary to section 959 of this title , manufactures, possesses with intent to distribute, or distributes a controlled substance,
 - **(b)**
@@ -42,15 +42,15 @@ generated_at: "2026-03-29T18:05:14.903Z"
     - **(G)** 100 kilograms or more of a mixture or substance containing a detectable amount of marihuana; or
     - **(H)** 5 grams or more of methamphetamine, its salts, isomers, and salts of its isomers or 50 grams or more of a mixture or substance containing a detectable amount of methamphetamine, its salts, isomers, or salts of its isomers. 1
   - **(3)** In the case of a violation under subsection (a) of this section involving a controlled substance in schedule I or II, gamma hydroxybutyric acid (including when scheduled as an approved drug product for purposes of section 3(a)(1)(B) of the Hillory J. Farias and Samantha Reid Date-Rape Drug Prohibition Act of 2000), or flunitrazepam, the person committing such violation shall, except as provided in paragraphs (1), (2), and (4), be sentenced to a term of imprisonment of not more than 20 years and if death or serious bodily injury results from the use of such substance shall be sentenced to a term of imprisonment of not less than twenty years and not more than life, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $1,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual, or both. If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment of not more than 30 years and if death or serious bodily injury results from the use of such substance shall be sentenced to life imprisonment, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $2,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual, or both. Notwithstanding section 3583 of title 18 , any sentence imposing a term of imprisonment under this paragraph shall, in the absence of such a prior conviction, impose a term of supervised release of at least 3 years in addition to such term of imprisonment and shall, if there was such a prior conviction, impose a term of supervised release of at least 6 years in addition to such term of imprisonment. Notwithstanding the prior sentence, and notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person sentenced under the provisions of this paragraph which provide for a mandatory term of imprisonment if death or serious bodily injury results.
-  - **(4)** In the case of a violation under subsection (a) of this section with respect to less than 50 kilograms of marihuana, except in the case of 100 or more marihuana plants regardless of weight, less than 10 kilograms of hashish, or less than one kilogram of hashish oil, the person committing such violation shall be sentenced in accordance with section 841(b)(1)(D) of this title .
+  - **(4)** In the case of a violation under subsection (a) with respect to less than 50 kilograms of marihuana, except in the case of 100 or more marihuana plants regardless of weight, less than 10 kilograms of hashish, or less than one kilogram of hashish oil, the person committing such violation shall be sentenced in accordance with section 841(b)(1)(D) of this title .
   - **(5)** In the case of a violation of subsection (a) involving a controlled substance in schedule III, such person shall be sentenced in accordance with section 841(b)(1) of this title .
   - **(6)** In the case of a violation of subsection (a) involving a controlled substance in schedule IV, such person shall be sentenced in accordance with section 841(b)(2) of this title .
   - **(7)** In the case of a violation of subsection (a) involving a controlled substance in schedule V, such person shall be sentenced in accordance with section 841(b)(3) of this title .
 - **(c)**
 - **(d)** A person who knowingly or intentionally—
-  - **(1)** imports or exports a listed chemical with intent to manufacture a controlled substance in violation of this subchapter or subchapter I of this chapter;
+  - **(1)** imports or exports a listed chemical with intent to manufacture a controlled substance in violation of this subchapter or subchapter I;
   - **(2)** exports a listed chemical in violation of the laws of the country to which the chemical is exported or serves as a broker or trader for an international transaction involving a listed chemical, if the transaction is in violation of the laws of the country to which the chemical is exported;
-  - **(3)** imports or exports a listed chemical knowing, or having reasonable cause to believe, that the chemical will be used to manufacture a controlled substance in violation of this subchapter or subchapter I of this chapter;
+  - **(3)** imports or exports a listed chemical knowing, or having reasonable cause to believe, that the chemical will be used to manufacture a controlled substance in violation of this subchapter or subchapter I;
   - **(4)** exports a listed chemical, or serves as a broker or trader for an international transaction involving a listed chemical, knowing, or having reasonable cause to believe, that the chemical will be used to manufacture a controlled substance in violation of the laws of the country to which the chemical is exported;
   - **(5)** imports or exports a listed chemical, with the intent to evade the reporting or recordkeeping requirements of section 971 of this title applicable to such importation or exportation by falsely representing to the Attorney General that the importation or exportation qualifies for a waiver of the 15-day notification requirement granted pursuant to paragraph (2) or (3) of section 971(f) of this title by misrepresenting the actual country of final destination of the listed chemical or the actual listed chemical being imported or exported;
   - **(6)** imports a listed chemical in violation of section 952 of this title , imports or exports such a chemical in violation of section 957 or 971 of this title, or transfers such a chemical in violation of section 971(d) of this title ; or

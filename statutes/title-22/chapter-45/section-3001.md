@@ -3,9 +3,9 @@ title: "Section 3001 - Commission on Security and Cooperation in Europe; establi
 usc_title: 22
 usc_section: "3001"
 chapter: 45
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 3001"
-generated_at: "2026-03-29T18:05:21.900Z"
+generated_at: "2026-03-29T18:24:54.273Z"
 ---
 
 # § 3001. Commission on Security and Cooperation in Europe; establishment

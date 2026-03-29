@@ -3,9 +3,9 @@ title: "Section 541 - General franchise requirements"
 usc_title: 47
 usc_section: "541"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "47 U.S.C. § 541"
-generated_at: "2026-03-29T18:07:40.873Z"
+generated_at: "2026-03-29T18:27:09.581Z"
 ---
 
 # § 541. General franchise requirements
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T18:07:40.873Z"
     - **(B)** may require adequate assurance that the cable operator will provide adequate public, educational, and governmental access channel capacity, facilities, or financial support; and
     - **(C)** may require adequate assurance that the cable operator has the financial, technical, or legal qualifications to provide cable service.
 - **(b)**
-  - **(1)** Except to the extent provided in paragraph (2) and subsection (f) of this section, a cable operator may not provide cable service without a franchise.
+  - **(1)** Except to the extent provided in paragraph (2) and subsection (f), a cable operator may not provide cable service without a franchise.
   - **(2)** Paragraph (1) shall not require any person lawfully providing cable service without a franchise on July 1, 1984 , to obtain a franchise unless the franchising authority so requires.
   - **(3)**
     - **(A)** If a cable operator or affiliate thereof is engaged in the provision of telecommunications services—

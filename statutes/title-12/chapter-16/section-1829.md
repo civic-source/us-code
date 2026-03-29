@@ -3,9 +3,9 @@ title: "Section 1829 - Penalty for unauthorized participation by convicted indiv
 usc_title: 12
 usc_section: "1829"
 chapter: 16
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 1829"
-generated_at: "2026-03-29T18:04:43.585Z"
+generated_at: "2026-03-29T18:24:02.922Z"
 ---
 
 # § 1829. Penalty for unauthorized participation by convicted individual
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T18:04:43.585Z"
     - **(B)**
       - **(i)** On motion of the Corporation, the court in which the conviction or the agreement of a person referred to in subparagraph (A) has been entered may grant an exception to the application of paragraph (1) to such person if granting the exception is in the interest of justice.
       - **(ii)** A motion may be filed under clause (i) at any time during the 10-year period described in subparagraph (A) with regard to the person on whose behalf such motion is made.
-- **(b)** Whoever knowingly violates subsection (a) of this section shall be fined not more than $1,000,000 for each day such prohibition is violated or imprisoned for not more than 5 years, or both.
+- **(b)** Whoever knowingly violates subsection (a) shall be fined not more than $1,000,000 for each day such prohibition is violated or imprisoned for not more than 5 years, or both.
 - **(d)**
   - **(1)** Subsections (a) and (b) shall apply to any company (other than a foreign bank) that is a bank holding company and any organization organized and operated under section 25A of the Federal Reserve Act [ 12 U.S.C. 611 et seq.] or operating under section 25 of the Federal Reserve Act [ 12 U.S.C. 601 et seq.], as if such bank holding company or organization were an insured depository institution, except that such subsections shall be applied for purposes of this subsection by substituting “Board of Governors of the Federal Reserve System” for “Corporation” each place that term appears in such subsections.
   - **(2)** The Board of Governors of the Federal Reserve System may provide exemptions, by regulation or order, from the application of paragraph (1) if the exemption is consistent with the purposes of this subsection.

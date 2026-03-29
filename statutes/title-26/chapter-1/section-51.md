@@ -3,9 +3,9 @@ title: "Section 51 - Amount of credit"
 usc_title: 26
 usc_section: "51"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 51"
-generated_at: "2026-03-29T18:05:44.448Z"
+generated_at: "2026-03-29T18:25:53.400Z"
 ---
 
 # § 51. Amount of credit
@@ -23,9 +23,7 @@ generated_at: "2026-03-29T18:05:44.448Z"
   - **(3)** If—
     - **(A)** the principal place of employment of an individual with the employer is at a plant or facility, and
     - **(B)** there is a strike or lockout involving employees at such plant or facility,
-  - **(4)** The term “wages” shall not include any amount paid or incurred to an individual who begins work for the employer—
-    - **(A)** after December 31, 1994 , and before October 1, 1996 , or
-    - **(B)** after December 31, 2013 2 2 So in original. Probably should be followed by a period.
+  - **(4)** The term “wages” shall not include any amount paid or incurred to an individual who begins work for the employer after December 31, 2019 2 2 So in original. Probably should be followed by a period.
   - **(5)** The term “wages” shall not include any amount paid or incurred to a qualified individual (as defined in section 3111(d)(3)) during the 1-year period beginning on the hiring date of such individual by a qualified employer (as defined in section 3111(d)) unless such qualified employer makes an election not to have section 3111(d) apply.
 - **(d)** For purposes of this subpart—
   - **(1)** An individual is a member of a targeted group if such individual is—
@@ -36,8 +34,9 @@ generated_at: "2026-03-29T18:05:44.448Z"
     - **(E)** a vocational rehabilitation referral,
     - **(F)** a qualified summer youth employee,
     - **(G)** a qualified supplemental nutrition assistance program benefits recipient,
-    - **(H)** a qualified SSI recipient, or
-    - **(I)** a long-term family assistance recipient.
+    - **(H)** a qualified SSI recipient,
+    - **(I)** a long-term family assistance recipient, or
+    - **(J)** a qualified long-term unemployment recipient.
   - **(2)**
     - **(A)** The term “qualified IV–A recipient” means any individual who is certified by the designated local agency as being a member of a family receiving assistance under a IV–A program for any 9 months during the 18-month period ending on the hiring date.
     - **(B)** For purposes of this paragraph, the term “IV–A program” means any program providing assistance under a State program funded under part A of title IV of the Social Security Act and any successor of such program.
@@ -126,6 +125,9 @@ generated_at: "2026-03-29T18:05:44.448Z"
         - **(II)** as not regularly attending any secondary, technical, or post-secondary school during the 6-month period preceding the hiring date,
         - **(III)** as not regularly employed during such 6-month period, and
         - **(IV)** as not readily employable by reason of lacking a sufficient number of basic skills.
+  - **(15)** The term “qualified long-term unemployment recipient” means any individual who is certified by the designated local agency as being in a period of unemployment which—
+    - **(A)** is not less than 27 consecutive weeks, and
+    - **(B)** includes a period in which the individual was receiving unemployment compensation under State or Federal law.
 - **(e)**
   - **(1)** With respect to the employment of a long-term family assistance recipient—
     - **(A)** the amount of the work opportunity credit determined under this section for the taxable year shall include 50 percent of the qualified second-year wages for such year, and

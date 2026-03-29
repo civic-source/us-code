@@ -3,9 +3,9 @@ title: "Section 1231 - Property used in the trade or business and involuntary co
 usc_title: 26
 usc_section: "1231"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 1231"
-generated_at: "2026-03-29T18:05:44.777Z"
+generated_at: "2026-03-29T18:25:53.718Z"
 ---
 
 # § 1231. Property used in the trade or business and involuntary conversions
@@ -48,7 +48,7 @@ generated_at: "2026-03-29T18:05:44.777Z"
 - **(c)**
   - **(1)** The net section 1231 gain for any taxable year shall be treated as ordinary income to the extent such gain does not exceed the non-recaptured net section 1231 losses.
   - **(2)** For purposes of this subsection, the term “non-recaptured net section 1231 losses” means the excess of—
-    - **(A)** the aggregate amount of the net section 1231 losses for the 5 most recent preceding taxable years beginning after December 31, 1981 , over
+    - **(A)** the aggregate amount of the net section 1231 losses for the 5 most recent preceding taxable years, over
     - **(B)** the portion of such losses taken into account under paragraph (1) for such preceding taxable years.
   - **(3)** For purposes of this subsection, the term “net section 1231 gain” means the excess of—
     - **(A)** the section 1231 gains, over

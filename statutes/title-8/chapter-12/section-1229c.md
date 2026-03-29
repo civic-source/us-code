@@ -3,9 +3,9 @@ title: "Section 1229c - Voluntary departure"
 usc_title: 8
 usc_section: "1229c"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "8 U.S.C. § 1229c"
-generated_at: "2026-03-29T18:03:34.058Z"
+generated_at: "2026-03-29T18:23:33.950Z"
 ---
 
 # § 1229c. Voluntary departure
@@ -49,4 +49,4 @@ generated_at: "2026-03-29T18:03:34.058Z"
   - **(2)** The restrictions on relief under paragraph (1) shall not apply to relief under section 1229b or 1255 of this title on the basis of a petition filed by a VAWA self-petitioner, or a petition filed under section 1229b(b)(2) of this title , or under section 1254(a)(3) of this title (as in effect prior to March 31, 1997 ), if the extreme cruelty or battery was at least one central reason for the alien’s overstaying the grant of voluntary departure.
   - **(3)** The order permitting an alien to depart voluntarily shall inform the alien of the penalties under this subsection.
 - **(e)** The Attorney General may by regulation limit eligibility for voluntary departure under this section for any class or classes of aliens. No court may review any regulation issued under this subsection.
-- **(f)** No court shall have jurisdiction over an appeal from denial of a request for an order of voluntary departure under subsection (b) of this section, nor shall any court order a stay of an alien’s removal pending consideration of any claim with respect to voluntary departure.
+- **(f)** No court shall have jurisdiction over an appeal from denial of a request for an order of voluntary departure under subsection (b), nor shall any court order a stay of an alien’s removal pending consideration of any claim with respect to voluntary departure.

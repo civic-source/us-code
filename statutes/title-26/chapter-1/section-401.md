@@ -3,9 +3,9 @@ title: "Section 401 - Qualified pension, profit-sharing, and stock bonus plans"
 usc_title: 26
 usc_section: "401"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 401"
-generated_at: "2026-03-29T18:05:44.577Z"
+generated_at: "2026-03-29T18:25:53.526Z"
 ---
 
 # § 401. Qualified pension, profit-sharing, and stock bonus plans
@@ -65,14 +65,6 @@ generated_at: "2026-03-29T18:05:44.577Z"
     - **(E)** For purposes of this paragraph, the term “designated beneficiary” means any individual designated as a beneficiary by the employee.
     - **(F)** Under regulations prescribed by the Secretary, for purposes of this paragraph, any amount paid to a child shall be treated as if it had been paid to the surviving spouse if such amount will become payable to the surviving spouse upon such child reaching majority (or other designated event permitted under regulations).
     - **(G)** For purposes of this title, any distribution required under the incidental death benefit requirements of this subsection shall be treated as a distribution required under this paragraph.
-    - **(H)**
-      - **(i)** The requirements of this paragraph shall not apply for calendar year 2009 to—
-        - **(I)** a defined contribution plan which is described in this subsection or in section 403(a) or 403(b),
-        - **(II)** a defined contribution plan which is an eligible deferred compensation plan described in section 457(b) but only if such plan is maintained by an employer described in section 457(e)(1)(A), or
-        - **(III)** an individual retirement plan.
-      - **(ii)** For purposes of this paragraph—
-        - **(I)** the required beginning date with respect to any individual shall be determined without regard to this subparagraph for purposes of applying this paragraph for calendar years after 2009, and
-        - **(II)** if clause (ii) of subparagraph (B) applies, the 5-year period described in such clause shall be determined without regard to calendar year 2009.
   - **(10)**
     - **(A)** In the case of any plan which provides contributions or benefits for employees some or all of whom are owner-employees (as defined in subsection (c)(3)), a trust forming part of such plan shall constitute a qualified trust under this section only if the requirements of subsection (d) are also met.
     - **(B)**
@@ -135,10 +127,10 @@ generated_at: "2026-03-29T18:05:44.577Z"
   - **(17)**
     - **(A)** A trust shall not constitute a qualified trust under this section unless, under the plan of which such trust is a part, the annual compensation of each employee taken into account under the plan for any year does not exceed $200,000.
     - **(B)** The Secretary shall adjust annually the $200,000 amount in subparagraph (A) for increases in the cost-of-living at the same time and in the same manner as adjustments under section 415(d); except that the base period shall be the calendar quarter beginning July 1, 2001 , and any increase which is not a multiple of $5,000 shall be rounded to the next lowest multiple of $5,000.
-  - **[(18)** Repealed. Pub. L. 97–248, title II, § 237(b) , Sept. 3, 1982 , 96 Stat. 511 .]
+  - **[(18)** Repealed. Pub. L. 97–248, title II , § 237(b), Sept. 3, 1982 , 96 Stat. 511 .]
   - **(19)** A trust shall not constitute a qualified trust under this section if under the plan of which such trust is a part any part of a participant’s accrued benefit derived from employer contributions (whether or not otherwise nonforfeitable), is forfeitable solely because of withdrawal by such participant of any amount attributable to the benefit derived from contributions made by such participant. The preceding sentence shall not apply to the accrued benefit of any participant unless, at the time of such withdrawal, such participant has a nonforfeitable right to at least 50 percent of such accrued benefit (as determined under section 411). The first sentence of this paragraph shall not apply to the extent that an accrued benefit is permitted to be forfeited in accordance with section 411(a)(3)(D)(iii) (relating to proportional forfeitures of benefits accrued before September 2, 1974 , in the event of withdrawal of certain mandatory contributions).
   - **(20)** A trust forming part of a pension plan shall not be treated as failing to constitute a qualified trust under this section merely because the pension plan of which such trust is a part makes 1 or more distributions within 1 taxable year to a distributee on account of a termination of the plan of which the trust is a part, or in the case of a profit-sharing or stock bonus plan, a complete discontinuance of contributions under such plan. This paragraph shall not apply to a defined benefit plan unless the employer maintaining such plan files a notice with the Pension Benefit Guaranty Corporation (at the time and in the manner prescribed by the Pension Benefit Guaranty Corporation) notifying the Corporation of such payment or distribution and the Corporation has approved such payment or distribution or, within 90 days after the date on which such notice was filed, has failed to disapprove such payment or distribution. For purposes of this paragraph, rules similar to the rules of section 402(a)(6)(B) (as in effect before its repeal by section 521 of the Unemployment Compensation Amendments of 1992) shall apply.
-  - **[(21)** Repealed. Pub. L. 99–514, title XI, § 1171(b)(5) , Oct. 22, 1986 , 100 Stat. 2513 .]
+  - **[(21)** Repealed. Pub. L. 99–514, title XI , § 1171(b)(5), Oct. 22, 1986 , 100 Stat. 2513 .]
   - **(22)** If a defined contribution plan (other than a profit-sharing plan)—
     - **(A)** is established by an employer whose stock is not readily tradable on an established market, and
     - **(B)** after acquiring securities of the employer, more than 10 percent of the total assets of the plan are securities of the employer,
@@ -257,7 +249,7 @@ generated_at: "2026-03-29T18:05:44.577Z"
       - **(i)**
         - **(I)** In the case of the portion of an account to which subparagraph (C) applies and which consists of employer securities acquired in a plan year beginning before January 1, 2007 , subparagraph (C) shall only apply to the applicable percentage of such securities. This subparagraph shall be applied separately with respect to each class of securities.
         - **(II)** Subclause (I) shall not apply to an applicable individual who is a participant who has attained age 55 and completed at least 3 years of service before the first plan year beginning after December 31, 2005 .
-      - **(ii)** For purposes of clause (i), the applicable percentage shall be determined as follows: Plan year to which The applicable subparagraph (C) applies: percentage is: 1st 33 2d 66 3d and following 100.
+      - **(ii)** For purposes of clause (i), the applicable percentage shall be determined as follows: Plan year to which subparagraph (C) applies: The applicable percentage is: 1st 33 2d 66 3d and following 100.
   - **(36)** A trust forming part of a pension plan shall not be treated as failing to constitute a qualified trust under this section solely because the plan provides that a distribution may be made from such trust to an employee who has attained age 62 and who is not separated from employment at the time of such distribution.
   - **(37)** A trust shall not constitute a qualified trust unless the plan provides that, in the case of a participant who dies while performing qualified military service (as defined in section 414(u)), the survivors of the participant are entitled to any additional benefits (other than benefit accruals relating to the period of qualified military service) provided under the plan had the participant resumed and then terminated employment on account of death.
 - **(b)** A stock bonus, pension, profit-sharing, or annuity plan shall be considered as satisfying the requirements of subsection (a) for the period beginning with the date on which it was put into effect, or for the period beginning with the earlier of the date on which there was adopted or put into effect any amendment which caused the plan to fail to satisfy such requirements, and ending with the time prescribed by law for filing the return of the employer for his taxable year in which such plan or amendment was adopted (including extensions thereof) or such later time as the Secretary may designate, if all provisions of the plan which are necessary to satisfy such requirements are in effect by the end of such period and have been made effective for all purposes for the whole of such period.
@@ -362,7 +354,7 @@ generated_at: "2026-03-29T18:05:44.577Z"
       - **(iv)** any organization which—
         - **(I)** is a mutual irrigation or ditch company described in section 501(c)(12) (without regard to the 85 percent requirement thereof), or
         - **(II)** is a district organized under the laws of a State as a municipal corporation for the purpose of irrigation, water conservation, or drainage, and
-      - **(v)** an organization which is a national association of organizations described in clause (i), (ii),, 5 5 So in original. (iii), or (iv).
+      - **(v)** an organization which is a national association of organizations described in clause (i), (ii),, 3 (iii), or (iv).
     - **(C)** A rural cooperative plan which includes a qualified cash or deferred arrangement shall not be treated as violating the requirements of section 401(a) or of paragraph (2) merely by reason of a hardship distribution or a distribution to a participant after attainment of age 59½. For purposes of this section, the term “hardship distribution” means a distribution described in paragraph (2)(B)(i)(IV) (without regard to the limitation of its application to profit-sharing or stock bonus plans).
   - **(8)**
     - **(A)** A cash or deferred arrangement shall not be treated as failing to meet the requirements of clause (ii) of paragraph (3)(A) for any plan year if, before the close of the following plan year—

@@ -3,9 +3,9 @@ title: "Section 2352 - Funding to process permits"
 usc_title: 33
 usc_section: "2352"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 2352"
-generated_at: "2026-03-29T02:14:18.634Z"
+generated_at: "2026-03-29T18:26:01.306Z"
 ---
 
 # § 2352. Funding to process permits
@@ -14,16 +14,10 @@ generated_at: "2026-03-29T02:14:18.634Z"
   - **(1)** In this subsection:
     - **(A)** The term “natural gas company” has the meaning given the term in section 16451 of title 42 , except that the term also includes a person engaged in the transportation of natural gas in intrastate commerce.
     - **(B)** The term “public-utility company” has the meaning given the term in section 16451 of title 42 .
-    - **(C)** The term “railroad carrier” has the meaning given the term in section 20102 of title 49 .
-    - **(D)** The term “Indian Tribe” means—
-      - **(i)** an Indian Tribe, as such term is defined in section 5304 of title 25 ; and
-      - **(ii)** any entity formed under the authority of one or more Indian Tribes, as so defined.
-  - **(2)**
-    - **(A)** The Secretary, after public notice, may accept and expend funds contributed by a non-Federal public entity or a public-utility company, Indian Tribe, natural gas company, or railroad carrier to expedite the evaluation of a permit of that entity, company, or carrier related to a project or activity for a public purpose under the jurisdiction of the Department of the Army, including an aquatic ecosystem restoration project.
-    - **(B)** An activity carried out by the Secretary to expedite evaluation of a permit described in subparagraph (A) may include the evaluation of an instrument for a mitigation bank if—
-      - **(i)** the non-Federal public entity, public-utility company, Indian Tribe, natural gas company, or railroad carrier applying for the permit described in that subparagraph is the sponsor of the mitigation bank; and
-      - **(ii)** expediting evaluation of the instrument is necessary to expedite evaluation of the permit described in that subparagraph.
-  - **(3)** To the maximum extent practicable, the Secretary shall ensure that expediting the evaluation of a permit through the use of funds accepted and expended under this section does not adversely affect the timeline for evaluation (in the Corps district in which the project or activity is located) of permits under the jurisdiction of the Department of the Army of other entities that have not contributed funds under this section.
+  - **(2)** The Secretary, after public notice, may accept and expend funds contributed by a non-Federal public entity or a public-utility company or natural gas company to expedite the evaluation of a permit of that entity or company related to a project or activity for a public purpose under the jurisdiction of the Department of the Army.
+  - **(3)** The authority provided under paragraph (2) to a public-utility company or natural gas company shall expire on the date that is 7 years after June 10, 2014 .
+  - **(4)** To the maximum extent practicable, the Secretary shall ensure that expediting the evaluation of a permit through the use of funds accepted and expended under this section does not adversely affect the timeline for evaluation (in the Corps district in which the project or activity is located) of permits under the jurisdiction of the Department of the Army of other entities that have not contributed funds under this section.
+  - **(5)** Not later than 4 years after June 10, 2014 , the Comptroller General of the United States shall carry out a study of the implementation by the Secretary of the authority provided under paragraph (2) to public-utility companies and natural gas companies.
 - **(b)**
   - **(1)** In carrying out this section, the Secretary shall ensure that the use of funds accepted under subsection (a) will not impact impartial decisionmaking with respect to permits, either substantively or procedurally.
   - **(2)** In carrying out this section, the Secretary shall ensure that the evaluation of permits carried out using funds accepted under this section shall—

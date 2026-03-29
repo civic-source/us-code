@@ -3,9 +3,9 @@ title: "Section 802 - Art. 2. Persons subject to this chapter"
 usc_title: 10
 usc_section: "802"
 chapter: 47
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 802"
-generated_at: "2026-03-29T18:04:13.009Z"
+generated_at: "2026-03-29T18:23:51.760Z"
 ---
 
 # § 802. Art. 2. Persons subject to this chapter
@@ -32,7 +32,7 @@ generated_at: "2026-03-29T18:04:13.009Z"
   - **(4)** performed military duties;
 - **(d)**
   - **(1)** A member of a reserve component who is not on active duty and who is made the subject of proceedings under section 815 (article 15) or section 830 (article 30) with respect to an offense against this chapter may be ordered to active duty involuntarily for the purpose of—
-    - **(A)** investigation under section 832 of this title (article 32);
+    - **(A)** a preliminary hearing under section 832 of this title (article 32);
     - **(B)** trial by court-martial; or
     - **(C)** nonjudicial punishment under section 815 of this title (article 15).
   - **(2)** A member of a reserve component may not be ordered to active duty under paragraph (1) except with respect to an offense committed while the member was—

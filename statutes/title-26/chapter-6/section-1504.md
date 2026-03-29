@@ -3,9 +3,9 @@ title: "Section 1504 - Definitions"
 usc_title: 26
 usc_section: "1504"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 1504"
-generated_at: "2026-03-29T18:05:44.832Z"
+generated_at: "2026-03-29T18:25:53.767Z"
 ---
 
 # § 1504. Definitions
@@ -21,8 +21,8 @@ generated_at: "2026-03-29T18:05:44.832Z"
     - **(B)** has a value equal to at least 80 percent of the total value of the stock of such corporation.
   - **(3)**
     - **(A)** If—
-      - **(i)** a corporation is included (or required to be included) in a consolidated return filed by an affiliated group for a taxable year which includes any period after December 31, 1984 , and
-      - **(ii)** such corporation ceases to be a member of such group in a taxable year beginning after December 31, 1984 ,
+      - **(i)** a corporation is included (or required to be included) in a consolidated return filed by an affiliated group, and
+      - **(ii)** such corporation ceases to be a member of such group,
     - **(B)** The Secretary may waive the application of subparagraph (A) to any corporation for any period subject to such conditions as the Secretary may prescribe.
   - **(4)** For purposes of this subsection, the term “stock” does not include any stock which—
     - **(A)** is not entitled to vote,
@@ -41,7 +41,7 @@ generated_at: "2026-03-29T18:05:44.832Z"
   - **(2)** Insurance companies subject to taxation under section 801.
   - **(3)** Foreign corporations.
   - **(4)** Corporations with respect to which an election under section 936 (relating to possession tax credit) is in effect for the taxable year.
-  - **[(5)** Repealed. Pub. L. 94–455, title X, § 1053(d)(2) , Oct. 4, 1976 , 90 Stat. 1649 .]
+  - **[(5)** Repealed. Pub. L. 94–455, title X , § 1053(d)(2), Oct. 4, 1976 , 90 Stat. 1649 .]
   - **(6)** Regulated investment companies and real estate investment trusts subject to tax under subchapter M of chapter 1.
   - **(7)** A DISC (as defined in section 992(a)(1)).
   - **(8)** An S corporation.

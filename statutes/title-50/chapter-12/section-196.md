@@ -3,9 +3,9 @@ title: "Section 196 - Emergency foreign vessel acquisition; purchase or requisit
 usc_title: 50
 usc_section: "196"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 196"
-generated_at: "2026-03-29T18:07:43.013Z"
+generated_at: "2026-03-29T18:27:35.588Z"
 ---
 
 # § 196. Emergency foreign vessel acquisition; purchase or requisition of vessels lying idle in United States waters

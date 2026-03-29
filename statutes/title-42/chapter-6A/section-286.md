@@ -3,15 +3,15 @@ title: "Section 286 - National Library of Medicine"
 usc_title: 42
 usc_section: "286"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 286"
-generated_at: "2026-03-29T18:07:13.419Z"
+generated_at: "2026-03-29T18:27:02.649Z"
 ---
 
 # § 286. National Library of Medicine
 
 - **(a)** In order to assist the advancement of medical and related sciences and to aid the dissemination and exchange of scientific and other information important to the progress of medicine and to the public health, there is established the National Library of Medicine (hereafter in this part referred to as the “Library”).
-- **(b)** The Secretary, through the Library and subject to subsection (d) of this section, shall—
+- **(b)** The Secretary, through the Library and subject to subsection (d), shall—
   - **(1)** acquire and preserve books, periodicals, prints, films, recordings, and other library materials pertinent to medicine;
   - **(2)** organize the materials specified in paragraph (1) by appropriate cataloging, indexing, and bibliographical listings;
   - **(3)** publish and disseminate the catalogs, indexes, and bibliographies referred to in paragraph (2);

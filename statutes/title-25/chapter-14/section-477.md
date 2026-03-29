@@ -1,14 +1,12 @@
 ---
-title: "Section 477 - Incorporation of Indian tribes; charter; ratification by election"
+title: "Section 477 - Transferred"
 usc_title: 25
 usc_section: "477"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 477"
-generated_at: "2026-03-29T18:05:17.066Z"
+generated_at: "2026-03-29T18:25:23.695Z"
 ---
 
-# § 477. Incorporation of Indian tribes; charter; ratification by election
-
-The Secretary of the Interior may, upon petition by any tribe, issue a charter of incorporation to such tribe: Provided , That such charter shall not become operative until ratified by the governing body of such tribe. Such charter may convey to the incorporated tribe the power to purchase, take by gift, or bequest, or otherwise, own, hold, manage, operate, and dispose of property of every description, real and personal, including the power to purchase restricted Indian lands and to issue in exchange therefor interests in corporate property, and such further powers as may be incidental to the conduct of corporate business, not inconsistent with law; but no authority shall be granted to sell, mortgage, or lease for a period exceeding twenty-five years any trust or restricted lands included in the limits of the reservation. Any charter so issued shall not be revoked or surrendered except by Act of Congress.
+# § 477. Transferred
 

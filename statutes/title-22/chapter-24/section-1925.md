@@ -3,9 +3,9 @@ title: "Section 1925 - Repealed"
 usc_title: 22
 usc_section: "1925"
 chapter: 24
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 1925"
-generated_at: "2026-03-29T18:05:21.789Z"
+generated_at: "2026-03-29T18:24:54.164Z"
 ---
 
 # § 1925. Repealed

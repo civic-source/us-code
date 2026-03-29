@@ -3,9 +3,9 @@ title: "Section 848 - Capitalization of certain policy acquisition expenses"
 usc_title: 26
 usc_section: "848"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 848"
-generated_at: "2026-03-29T18:05:44.706Z"
+generated_at: "2026-03-29T18:25:53.653Z"
 ---
 
 # § 848. Capitalization of certain policy acquisition expenses
@@ -66,4 +66,3 @@ generated_at: "2026-03-29T18:05:44.706Z"
   - **(1)** Except as provided in paragraph (2), the Secretary may provide that a type of insurance contract will be treated as a separate category for purposes of this section (and prescribe a percentage applicable to such category) if the Secretary determines that the deferral of acquisition expenses for such type of contract which would otherwise result under this section is substantially greater than the deferral of acquisition expenses which would have resulted if actual acquisition expenses (including indirect expenses) and the actual useful life for such type of contract had been used.
   - **(2)** If the Secretary exercises his authority with respect to any type of contract under paragraph (1), the Secretary shall adjust the percentage which would otherwise have applied under subsection (c)(1) to the category which includes such type of contract so that the exercise of such authority does not result in a decrease in the amount of revenue received under this chapter by reason of this section for any fiscal year.
 - **(i)** For purposes of determining adjusted current earnings under section 56(g), acquisition expenses with respect to contracts described in clause (iii) of subsection (e)(1)(B) shall be capitalized and amortized in accordance with the treatment generally required under generally accepted accounting principles as if this subsection applied to such contracts for all taxable years.
-- **(j)** In the case of any taxable year which includes September 30, 1990 , the amount taken into account as the net premiums (or negative capitalization amount) with respect to any category of specified insurance contracts shall be the amount which bears the same ratio to the amount which (but for this subsection) would be so taken into account as the number of days in such taxable year on or after September 30, 1990 , bears to the total number of days in such taxable year.

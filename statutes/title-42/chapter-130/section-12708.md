@@ -3,9 +3,9 @@ title: "Section 12708 - Compliance"
 usc_title: 42
 usc_section: "12708"
 chapter: 130
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 12708"
-generated_at: "2026-03-29T18:07:15.275Z"
+generated_at: "2026-03-29T18:27:04.085Z"
 ---
 
 # § 12708. Compliance
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T18:07:15.275Z"
   - **(1)** The Secretary shall ensure that activities of each jurisdiction required to submit a housing strategy under section 12705 of this title are reviewed not less frequently than annually. Such review shall include, insofar as practicable, on-site visits by employees of the Department of Housing and Urban Development and shall include an assessment of the jurisdiction’s—
     - **(A)** management of funds made available under programs administered by the Secretary;
     - **(B)** compliance with its housing strategy;
-    - **(C)** accuracy in the preparation of performance reports under subsection (a) of this section; and
+    - **(C)** accuracy in the preparation of performance reports under subsection (a); and
     - **(D)** efforts to ensure that housing assisted under programs administered by the Secretary are in compliance with contractual agreements and the requirements of law.
   - **(2)** The Secretary shall report on the performance review in writing. The Secretary shall give the jurisdiction not less than 30 days to review and comment on the report. After taking into consideration the comments of the jurisdiction, the Secretary may revise the report and shall make the jurisdiction’s comments and the report, with any revisions, readily available to the public within 30 days after receipt of the jurisdiction’s comments.
 - **(c)** The adequacy of information submitted under section 12705(b)(4) of this title shall not be reviewable by any Federal, State, or other court. Review of a housing strategy by any Federal, State, or other court shall be limited to determining whether the process of development and the content of the strategy are in substantial compliance with the requirements of this Act. During the pendency of any action challenging the adequacy of a housing strategy or the action of the Secretary in approving a strategy, the court shall not have the authority to enjoin activities taken by the jurisdiction to implement an approved housing strategy. Any housing assisted during the pendency of such action shall not be subject to any order of the court resulting from such action.

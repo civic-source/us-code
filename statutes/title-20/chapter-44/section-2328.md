@@ -3,9 +3,9 @@ title: "Section 2328 - Occupational and employment information"
 usc_title: 20
 usc_section: "2328"
 chapter: 44
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 2328"
-generated_at: "2026-03-29T18:05:00.244Z"
+generated_at: "2026-03-29T18:24:41.073Z"
 ---
 
 # § 2328. Occupational and employment information
@@ -32,7 +32,7 @@ generated_at: "2026-03-29T18:05:00.244Z"
     - **(C)** other information provided pursuant to section 15 of the Wagner-Peyser Act [ 29 U.S.C. 49 l –2] as the jointly designated State entity considers relevant.
 - **(d)**
   - **(1)** The jointly designated State entity described under subsection (c) may use funds provided under subsection (a)(2) to supplement activities under section 15 of the Wagner-Peyser Act [ 29 U.S.C. 49 l –2] to the extent such activities do not duplicate activities assisted under such section.
-  - **(2)** None of the functions and activities assisted under this section shall duplicate the functions and activities carried out under Public Law 105–220 .
+  - **(2)** None of the functions and activities assisted under this section shall duplicate the functions and activities carried out under the Workforce Innovation and Opportunity Act.
 - **(e)** Of the amounts appropriated to carry out this section, the Federal entity designated under subsection (a) shall use—
   - **(1)** not less than 85 percent to carry out subsection (c); and
   - **(2)** not more than 15 percent to carry out subsection (a).

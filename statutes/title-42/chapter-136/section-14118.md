@@ -3,16 +3,16 @@ title: "Section 14118 - Scholarship agreement"
 usc_title: 42
 usc_section: "14118"
 chapter: 136
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 14118"
-generated_at: "2026-03-29T18:07:15.368Z"
+generated_at: "2026-03-29T18:27:04.158Z"
 ---
 
 # § 14118. Scholarship agreement
 
 - **(a)** A person who receives a scholarship under this part shall enter into an agreement with the Director.
-- **(b)** An agreement described in subsection (a) of this section shall—
-  - **(1)** provide assurances that the scholarship recipient will work in a law enforcement position in the State that awarded the scholarship in accordance with the service obligation described in subsection (c) of this section after completion of the scholarship recipient’s academic courses leading to an associate, bachelor, or graduate degree;
+- **(b)** An agreement described in subsection (a) shall—
+  - **(1)** provide assurances that the scholarship recipient will work in a law enforcement position in the State that awarded the scholarship in accordance with the service obligation described in subsection (c) after completion of the scholarship recipient’s academic courses leading to an associate, bachelor, or graduate degree;
   - **(2)** provide assurances that the scholarship recipient will repay the entire scholarship in accordance with such terms and conditions as the Director shall prescribe if the requirements of the agreement are not complied with, unless the scholarship recipient—
     - **(A)** dies;
     - **(B)** becomes physically or emotionally disabled, as established by the sworn affidavit of a qualified physician; or

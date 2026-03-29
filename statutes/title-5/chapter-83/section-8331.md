@@ -3,9 +3,9 @@ title: "Section 8331 - Definitions"
 usc_title: 5
 usc_section: "8331"
 chapter: 83
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 8331"
-generated_at: "2026-03-29T18:03:29.929Z"
+generated_at: "2026-03-29T18:23:29.938Z"
 ---
 
 # § 8331. Definitions
@@ -23,7 +23,7 @@ For the purpose of this subchapter—
     - **(H)** an individual employed by Gallaudet College;
     - **(I)** an individual appointed to a position on the office staff of a former President under section 1(b) of the Act of August 25, 1958 ( 72 Stat. 838 );
     - **(J)** an alien (i) who was previously employed by the Government, (ii) who is employed full time by a foreign government for the purpose of protecting or furthering the interests of the United States during an interruption of diplomatic or consular relations, and (iii) for whose services reimbursement is made to the foreign government by the United States;
-    - **(K)** an individual appointed to a position on the office staff of a former President, or a former Vice President under section 4 of the Presidential Transition Act of 1963, as amended ( 78 Stat. 153 ), who immediately before the date of such appointment was an employee as defined under any other subparagraph of this paragraph; and
+    - **(K)** an individual appointed to a position on the office staff of a former President, or a former Vice President under section 5 of the Presidential Transition Act of 1963, as amended ( 78 Stat. 153 ), who immediately before the date of such appointment was an employee as defined under any other subparagraph of this paragraph; and
     - **(L)** an employee described in section 2105(c) who has made an election under section 8347(q)(1) to remain covered under this subchapter;
       - **(i)** a justice or judge of the United States as defined by section 451 of title 28 ;
       - **(ii)** an employee subject to another retirement system for Government employees (besides any employee excluded by clause (x), but including any employee who has made an election under section 8347(q)(2) to remain covered by a retirement system established for employees described in section 2105(c));
@@ -49,11 +49,12 @@ For the purpose of this subchapter—
       - **(i)** received by a criminal investigator under section 5545a of this title ; or
       - **(ii)** received after September 11, 2001 , by a Federal air marshal of the Department of Transportation, subject to all restrictions and earning limitations imposed on criminal investigators under section 5545a;
     - **(F)** pay as provided in section 5545b(b)(2) and (c)(2);
-    - **(G)** with respect to a customs officer (referred to in subsection (e)(1) of section 5 of the Act of February 13, 1911 ), compensation for overtime inspectional services provided for under subsection (a) of such section 5, but not to exceed 50 percent of any statutory maximum in overtime pay for customs officers which is in effect for the year involved; and
-    - **(H)** any amount received under section 5948 (relating to physicians comparability allowances);
+    - **(G)** with respect to a customs officer (referred to in subsection (e)(1) of section 5 of the Act of February 13, 1911 ), compensation for overtime inspectional services provided for under subsection (a) of such section 5, but not to exceed 50 percent of any statutory maximum in overtime pay for customs officers which is in effect for the year involved;
+    - **(H)** any amount received under section 5948 (relating to physicians comparability allowances); and
+    - **(I)** with respect to a border patrol agent, the amount of supplemental pay received through application of the level 1 border patrol rate of pay or the level 2 border patrol rate of pay for scheduled overtime within the regular tour of duty of the border patrol agent as provided in section 5550;
   - **(4)** “average pay” means the largest annual rate resulting from averaging an employee’s or Member’s rates of basic pay in effect over any 3 consecutive years of creditable service or, in the case of an annuity under subsection (d) or (e)(1) of section 8341 of this title based on service of less than 3 years, over the total service, with each rate weighted by the time it was in effect;
   - **(5)** “Fund” means the Civil Service Retirement and Disability Fund;
-  - **[(6)** Repealed. Pub. L. 96–499, title IV, § 403(b) , Dec. 5, 1980 , 94 Stat. 2606 ;]
+  - **[(6)** Repealed. Pub. L. 96–499, title IV , § 403(b), Dec. 5, 1980 , 94 Stat. 2606 ;]
   - **(7)** “Government” means the Government of the United States, the government of the District of Columbia, Gallaudet University, and, in the case of an employee described in paragraph (1)(L), a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard described in section 2105(c);
   - **(8)** “lump-sum credit” means the unrefunded amount consisting of—
     - **(A)** retirement deductions made from the basic pay of an employee or Member;

@@ -3,13 +3,13 @@ title: "Section 416a - Lease provisions"
 usc_title: 25
 usc_section: "416a"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 416a"
-generated_at: "2026-03-29T18:05:17.051Z"
+generated_at: "2026-03-29T18:25:23.692Z"
 ---
 
 # § 416a. Lease provisions
 
 - **(a)** Every lease entered into under section 416 of this title shall contain a covenant on the part of the lessee that he will not commit or permit on the leased land any act which causes waste or a nuisance or which creates a hazard to health of persons or to property, wherever such persons or property may be.
-- **(b)** The State of Arizona, or any political subdivision thereof contiguous with the San Xavier or Salt River Pima-Maricopa Indian Reservation, may bring suit, without regard to the amount in controversy, in the United States District Court for the District of Arizona to abate or enjoin any violation of the covenant required under subsection (a) of this section: Provided , That if, by reason of the citizenship of the parties and the law applicable to the cause of action, the District Court finds it lacks jurisdiction to hear and determine such suit, it may be brought in any court of competent jurisdiction of the State of Arizona.
+- **(b)** The State of Arizona, or any political subdivision thereof contiguous with the San Xavier or Salt River Pima-Maricopa Indian Reservation, may bring suit, without regard to the amount in controversy, in the United States District Court for the District of Arizona to abate or enjoin any violation of the covenant required under subsection (a): Provided , That if, by reason of the citizenship of the parties and the law applicable to the cause of action, the District Court finds it lacks jurisdiction to hear and determine such suit, it may be brought in any court of competent jurisdiction of the State of Arizona.
 - **(c)** Any contract, including a lease, affecting land within the Salt River Pima-Maricopa Indian Reservation may contain a provision for the binding arbitration of disputes arising out of such contract. Such contracts shall be considered within the meaning of “commerce” as defined and subject to the provisions of section 1 of title 9 . Any refusal to submit to arbitration pursuant to a binding agreement for arbitration or the exercise of any right conferred by title 9 to abide by the outcome of arbitration pursuant to the provisions of chapter 1 of title 9, sections 1 through 14, shall be deemed to be a civil action arising under the Constitution, laws or treaties of the United States within the meaning of section 1331 of title 28 .

@@ -1,14 +1,12 @@
 ---
-title: "Section 743 - Membership roll; preparation and initial publication; appeal from inclusion or omission from roll; finality of determination; final publication"
+title: "Section 743 - Omitted"
 usc_title: 25
 usc_section: "743"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 743"
-generated_at: "2026-03-29T18:05:17.101Z"
+generated_at: "2026-03-29T18:25:23.701Z"
 ---
 
-# § 743. Membership roll; preparation and initial publication; appeal from inclusion or omission from roll; finality of determination; final publication
-
-Each tribe shall have a period of six months from September 1, 1954 , in which to prepare and submit to the Secretary a proposed roll of the members of the tribe living on September 1, 1954 , which shall be published in the Federal Register. If a tribe fails to submit such roll within the time specified in this section, the Secretary shall prepare a proposed role 1 1 So in original. Probably should be “roll”. for the tribe, which shall be published in the Federal Register. Any person claiming membership rights in the tribe or an interest in its assets, or a representative of the Secretary on behalf of any such person, may, within sixty days from the date of publication of the proposed roll, file an appeal with the Secretary contesting the inclusion or omission of the name of any person on or from such roll. The Secretary shall review such appeals and his decisions thereon shall be final and conclusive. After disposition of all such appeals by the Secretary, the roll of the tribe shall be published in the Federal Register, and such roll shall be final for the purposes of this subchapter.
+# § 743. Omitted
 

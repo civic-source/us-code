@@ -3,9 +3,9 @@ title: "Section 2431 - Findings and purposes"
 usc_title: 22
 usc_section: "2431"
 chapter: 32
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 2431"
-generated_at: "2026-03-29T18:05:21.856Z"
+generated_at: "2026-03-29T18:24:54.226Z"
 ---
 
 # § 2431. Findings and purposes

@@ -3,9 +3,9 @@ title: "Section 663 - Use of Federal Parent Locator Service in connection with e
 usc_title: 42
 usc_section: "663"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 663"
-generated_at: "2026-03-29T18:07:13.754Z"
+generated_at: "2026-03-29T18:27:02.926Z"
 ---
 
 # § 663. Use of Federal Parent Locator Service in connection with enforcement or determination of child custody in cases of parental kidnaping of child
@@ -13,17 +13,17 @@ generated_at: "2026-03-29T18:07:13.754Z"
 - **(a)** The Secretary shall enter into an agreement with every State under which the services of the Federal Parent Locator Service established under section 653 of this title shall be made available to each State for the purpose of determining the whereabouts of any parent or child when such information is to be used to locate such parent or child for the purpose of—
   - **(1)** enforcing any State or Federal law with respect to the unlawful taking or restraint of a child; or
   - **(2)** making or enforcing a child custody or visitation determination.
-- **(b)** An agreement entered into under subsection (a) of this section shall provide that the State agency described in section 654 of this title will, under procedures prescribed by the Secretary in regulations, receive and transmit to the Secretary requests from authorized persons for information as to (or useful in determining) the whereabouts of any parent or child when such information is to be used to locate such parent or child for the purpose of—
+- **(b)** An agreement entered into under subsection (a) shall provide that the State agency described in section 654 of this title will, under procedures prescribed by the Secretary in regulations, receive and transmit to the Secretary requests from authorized persons for information as to (or useful in determining) the whereabouts of any parent or child when such information is to be used to locate such parent or child for the purpose of—
   - **(1)** enforcing any State or Federal law with respect to the unlawful taking or restraint of a child; or
   - **(2)** making or enforcing a child custody or visitation determination.
-- **(c)** Information authorized to be provided by the Secretary under subsection (a), (b), (e), or (f) of this section shall be subject to the same conditions with respect to disclosure as information authorized to be provided under section 653 of this title , and a request for information by the Secretary under this section shall be considered to be a request for information under section 653 of this title which is authorized to be provided under such section. Only information as to the most recent address and place of employment of any parent or child shall be provided under this section.
+- **(c)** Information authorized to be provided by the Secretary under subsection (a), (b), (e), or (f) shall be subject to the same conditions with respect to disclosure as information authorized to be provided under section 653 of this title , and a request for information by the Secretary under this section shall be considered to be a request for information under section 653 of this title which is authorized to be provided under such section. Only information as to the most recent address and place of employment of any parent or child shall be provided under this section.
 - **(d)** For purposes of this section—
   - **(1)** the term “custody or visitation determination” means a judgment, decree, or other order of a court providing for the custody or visitation of a child, and includes permanent and temporary orders, and initial orders and modification;
   - **(2)** the term “authorized person” means—
     - **(A)** any agent or attorney of any State having an agreement under this section, who has the duty or authority under the law of such State to enforce a child custody or visitation determination;
     - **(B)** any court having jurisdiction to make or enforce such a child custody or visitation determination, or any agent of such court; and
     - **(C)** any agent or attorney of the United States, or of a State having an agreement under this section, who has the duty or authority to investigate, enforce, or bring a prosecution with respect to the unlawful taking or restraint of a child.
-- **(e)** The Secretary shall enter into an agreement with the Central Authority designated by the President in accordance with section 11606 of this title , under which the services of the Federal Parent Locator Service established under section 653 of this title shall be made available to such Central Authority upon its request for the purpose of locating any parent or child on behalf of an applicant to such Central Authority within the meaning of section 11602(1) of this title . The Federal Parent Locator Service shall charge no fees for services requested pursuant to this subsection.
+- **(e)** The Secretary shall enter into an agreement with the Central Authority designated by the President in accordance with section 9006 of title 22 , under which the services of the Federal Parent Locator Service established under section 653 of this title shall be made available to such Central Authority upon its request for the purpose of locating any parent or child on behalf of an applicant to such Central Authority within the meaning of section 9002(1) of title 22 . The Federal Parent Locator Service shall charge no fees for services requested pursuant to this subsection.
 - **(f)** The Secretary shall enter into an agreement with the Attorney General of the United States, under which the services of the Federal Parent Locator Service established under section 653 of this title shall be made available to the Office of Juvenile Justice and Delinquency Prevention upon its request to locate any parent or child on behalf of such Office for the purpose of—
   - **(1)** enforcing any State or Federal law with respect to the unlawful taking or restraint of a child, or
   - **(2)** making or enforcing a child custody or visitation determination.

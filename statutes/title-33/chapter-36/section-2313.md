@@ -3,9 +3,9 @@ title: "Section 2313 - Collaborative research and development"
 usc_title: 33
 usc_section: "2313"
 chapter: 36
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 2313"
-generated_at: "2026-03-29T18:06:10.596Z"
+generated_at: "2026-03-29T18:26:01.296Z"
 ---
 
 # § 2313. Collaborative research and development
@@ -15,6 +15,6 @@ generated_at: "2026-03-29T18:06:10.596Z"
   - **(1)** If the Secretary determines that information developed as a result of research and development activities conducted by the Corps of Engineers is likely to be subject to a cooperative research and development agreement within 2 years of its development and that such information would be a trade secret or commercial or financial information that would be privileged or confidential if the information had been obtained from a non-Federal party participating in a cooperative research and development agreement under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ( 15 U.S.C. 3710a ), the Secretary may provide appropriate protection against the dissemination of such information, including exemption from subchapter II of chapter 5 of title 5, until the earlier of the date the Secretary enters into such an agreement with respect to such technology or the last day of the 2-year period beginning on the date of such determination.
   - **(2)** Any technology covered by this section that becomes the subject of a cooperative research and development agreement shall be accorded the protection provided under section 12(c)(7)(B) of such Act ( 15 U.S.C. 3710a(c)(7)(B) ) as if such technology had been developed under a cooperative research and development agreement.
 - **(c)** In carrying out this section, the Secretary may consider the recommendations of a non-Federal entity in identifying appropriate research or development projects and may enter into a cooperative research and development agreement, as defined in section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ( 15 U.S.C. 3710a ); except that in such agreement, the Secretary may agree to provide not more than 50 percent of the cost of any research or development project selected by the Secretary under this section. Not less than 5 percent of the non-Federal entity’s share of the cost of any such project shall be paid in cash.
-- **(d)** The research, development, or utilization of any technology pursuant to an agreement under subsection (c) of this section, including the terms under which such technology may be licensed and the resulting royalties may be distributed, shall be subject to the provisions of the Stevenson-Wydler Technology Innovation Act of 1980 ( 15 U.S.C. 3701–371 4).
+- **(d)** The research, development, or utilization of any technology pursuant to an agreement under subsection (c), including the terms under which such technology may be licensed and the resulting royalties may be distributed, shall be subject to the provisions of the Stevenson-Wydler Technology Innovation Act of 1980 ( 15 U.S.C. 3701–371 4).
 - **(e)** To carry out the purposes of this section, there is authorized to be appropriated to the Secretary of the Army civil works funds $3,000,000 for fiscal year 1989, $4,000,000 for fiscal year 1990, $5,000,000 for fiscal year 1991, and $6,000,000 for each fiscal year thereafter.
 - **(f)** The Secretary may accept and expend additional funds from other Federal programs, including other Department of Defense programs, to carry out this section.

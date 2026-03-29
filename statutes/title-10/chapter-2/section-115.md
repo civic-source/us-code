@@ -3,9 +3,9 @@ title: "Section 115 - Personnel strengths: requirement for annual authorization"
 usc_title: 10
 usc_section: "115"
 chapter: 2
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 115"
-generated_at: "2026-03-29T18:04:12.953Z"
+generated_at: "2026-03-29T18:23:51.713Z"
 ---
 
 # § 115. Personnel strengths: requirement for annual authorization
@@ -62,8 +62,8 @@ generated_at: "2026-03-29T18:04:12.953Z"
   - **(6)** Members of the militia called into Federal service under chapter 15 of this title.
   - **(7)** Members of the National Guard on full-time National Guard duty under section 502(f)(1) of title 32 .
   - **(8)** Members of reserve components on active duty for training or full-time National Guard duty for training.
-  - **(9)** Members of the Selected Reserve of the Ready Reserve on active duty to support programs described in section 1203(b) of the Cooperative Threat Reduction Act of 1993 ( 22 U.S.C. 5952(b) ).
+  - **(9)** Members of the Selected Reserve of the Ready Reserve on active duty to support programs described in section 1203(b) of the Cooperative Threat Reduction Act of 1993 ( 22 U.S.C. 5952(b) ). 1 1 See References in Text note below.
   - **(10)** Members of the National Guard on active duty or full-time National Guard duty for the purpose of carrying out drug interdiction and counter-drug activities under section 112 of title 32 .
-  - **(11)** Members of a reserve component on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) for the administration of the Selective Service System.
+  - **(11)** Members of a reserve component on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) 1 for the administration of the Selective Service System.
   - **(12)** Members of the National Guard on full-time National Guard duty for the purpose of providing command, administrative, training, or support services for the National Guard Challenge Program authorized by section 509 of title 32 .
   - **(13)** Members of the National Guard on full-time National Guard duty involuntarily and performing homeland defense activities under chapter 9 of title 32.

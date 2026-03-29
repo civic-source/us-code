@@ -3,14 +3,14 @@ title: "Section 2153 - Special rules for other employees for service abroad"
 usc_title: 50
 usc_section: "2153"
 chapter: 38
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 2153"
-generated_at: "2026-03-29T18:07:43.064Z"
+generated_at: "2026-03-29T18:27:35.631Z"
 ---
 
 # § 2153. Special rules for other employees for service abroad
 
-- **(a)** Notwithstanding any provision of chapter 84 of title 5, the annuity under subchapter II of such chapter of a retired employee of the Agency who is not designated under section 2152(a) of this title and who has served abroad as an employee of the Agency after December 31, 1986 , shall be computed as provided in subsection (b) of this section.
+- **(a)** Notwithstanding any provision of chapter 84 of title 5, the annuity under subchapter II of such chapter of a retired employee of the Agency who is not designated under section 2152(a) of this title and who has served abroad as an employee of the Agency after December 31, 1986 , shall be computed as provided in subsection (b).
 - **(b)**
   - **(1)** The portion of the annuity relating to such service abroad shall be computed as provided in section 8415(e) of title 5 .
   - **(2)** The portions of the annuity relating to other creditable service shall be computed as provided in section 8415 of such title that is applicable to such service under the conditions prescribed in chapter 84 of such title.

@@ -3,9 +3,9 @@ title: "Section 6977 - Grants for faculty research for scientific, literary, and
 usc_title: 10
 usc_section: "6977"
 chapter: 603
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 6977"
-generated_at: "2026-03-29T18:04:13.269Z"
+generated_at: "2026-03-29T18:23:52.060Z"
 ---
 
 # § 6977. Grants for faculty research for scientific, literary, and educational purposes: acceptance; authorized grantees

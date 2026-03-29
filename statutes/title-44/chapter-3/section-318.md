@@ -3,15 +3,15 @@ title: "Section 318 - Transfer of surplus property; acceptance of voluntary serv
 usc_title: 44
 usc_section: "318"
 chapter: 3
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "44 U.S.C. § 318"
-generated_at: "2026-03-29T18:06:33.609Z"
+generated_at: "2026-03-29T18:26:16.104Z"
 ---
 
 # § 318. Transfer of surplus property; acceptance of voluntary services
 
-- **(a)** The Public Printer may—
-  - **(1)** transfer or donate surplus Government publications and condemned Government Printing Office machinery, material, equipment, and supplies to—
+- **(a)** The Director of the Government Publishing Office may—
+  - **(1)** transfer or donate surplus Government publications and condemned Government Publishing Office machinery, material, equipment, and supplies to—
     - **(A)** other Federal entities;
     - **(B)** any organization described under section 501(c)(3) or (4) of the Internal Revenue Code of 1986 and exempt from taxation under 501(a) of such Code; or
     - **(C)** State or local governments; and

@@ -3,9 +3,9 @@ title: "Section 2204c - Water management for rural areas"
 usc_title: 7
 usc_section: "2204c"
 chapter: 55
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 2204c"
-generated_at: "2026-03-29T18:04:04.978Z"
+generated_at: "2026-03-29T18:23:43.384Z"
 ---
 
 # § 2204c. Water management for rural areas
@@ -25,8 +25,8 @@ generated_at: "2026-03-29T18:04:04.978Z"
 - **(d)**
   - **(1)** The Secretary shall issue regulations to carry out this section.
   - **(2)** Such regulations shall—
-    - **(A)** specify the terms and conditions that the entities described in subsections (a) and (c) of this section must meet in order to participate in programs carried out under this section;
-    - **(B)** establish a procedure under which entities described in subsections (a) and (c) of this section may apply for assistance under this section; and
+    - **(A)** specify the terms and conditions that the entities described in subsections (a) and (c) must meet in order to participate in programs carried out under this section;
+    - **(B)** establish a procedure under which entities described in subsections (a) and (c) may apply for assistance under this section; and
     - **(C)** foster cooperation between such entities and other Federal, State, or local agencies for the purposes of carrying out the provisions of this section.
 - **(e)** As used in this section, the term “university” means—
   - **(1)** a land grant university established under the Act of July 2, 1862 (known as the “First Morrill Act”; 12 Stat. 503 , chapter 130; 7 U.S.C. 301 et seq.);

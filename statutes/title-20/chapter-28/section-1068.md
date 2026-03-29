@@ -3,21 +3,21 @@ title: "Section 1068 - Applications for assistance"
 usc_title: 20
 usc_section: "1068"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1068"
-generated_at: "2026-03-29T18:05:00.067Z"
+generated_at: "2026-03-29T18:24:40.914Z"
 ---
 
 # § 1068. Applications for assistance
 
 - **(a)**
   - **(1)** Any institution which is eligible for assistance under this subchapter shall submit to the Secretary an application for assistance at such time, in such form, and containing such information, as may be necessary to enable the Secretary to evaluate the institution’s need for the assistance. Subject to the availability of appropriations to carry out this subchapter, the Secretary may approve an application for assistance under this subchapter only if the Secretary determines that—
-    - **(A)** the application meets the requirements of subsection (b) of this section;
+    - **(A)** the application meets the requirements of subsection (b);
     - **(B)** the applicant is eligible for assistance in accordance with the part of this subchapter under which the assistance is sought; and
     - **(C)** the applicant’s performance goals are sufficiently rigorous as to meet the purposes of this subchapter and the performance objectives and indicators for this subchapter established by the Secretary pursuant to the Government Performance and Results Act of 1993 and the amendments made by such Act.
-  - **(2)** In carrying out paragraph (1), the Secretary may develop a preliminary application for use by eligible institutions applying under part A of this subchapter prior to the submission of the principal application.
+  - **(2)** In carrying out paragraph (1), the Secretary may develop a preliminary application for use by eligible institutions applying under part A prior to the submission of the principal application.
 - **(b)** An institution, in its application for a grant, shall—
-  - **(1)** set forth, or describe how the institution (other than an institution applying under part C, D or E of this subchapter) will develop, a comprehensive development plan to strengthen the institution’s academic quality and institutional management, and otherwise provide for institutional self-sufficiency and growth (including measurable objectives for the institution and the Secretary to use in monitoring the effectiveness of activities under this subchapter);
+  - **(1)** set forth, or describe how the institution (other than an institution applying under part C, D or E) will develop, a comprehensive development plan to strengthen the institution’s academic quality and institutional management, and otherwise provide for institutional self-sufficiency and growth (including measurable objectives for the institution and the Secretary to use in monitoring the effectiveness of activities under this subchapter);
   - **(2)** set forth policies and procedures to ensure that Federal funds made available under this subchapter for any fiscal year will be used to supplement and, to the extent practical, increase the funds that would otherwise be made available for the purposes of section 1057(b) or 1062 of this title, and in no case supplant those funds;
   - **(3)** set forth policies and procedures for evaluating the effectiveness in accomplishing the purpose of the activities for which a grant is sought under this subchapter;
   - **(4)** provide for such fiscal control and fund accounting procedures as may be necessary to ensure proper disbursement of and accounting for funds made available to the applicant under this subchapter;
@@ -30,6 +30,6 @@ generated_at: "2026-03-29T18:05:00.067Z"
     - **(D)** a detailed budget showing the manner in which funds for any proposed project would be spent by the applicant; and
     - **(E)** a detailed description of any activity which involves the expenditure of more than $25,000, as identified in the budget referred to in subparagraph (D); and
   - **(8)** include such other information as the Secretary may prescribe.
-- **(c)** The Secretary shall publish in the Federal Register, pursuant to chapter 5 of title 5, all policies and procedures required to exercise the authority set forth in subsection (a) of this section. No other criteria, policies, or procedures shall apply.
-- **(d)** The Secretary shall use the most recent and relevant data concerning the number and percentage of students receiving need-based assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 in making eligibility determinations under section 1058 of this title and shall advance the base-year forward following each annual grant cycle.
+- **(c)** The Secretary shall publish in the Federal Register, pursuant to chapter 5 of title 5, all policies and procedures required to exercise the authority set forth in subsection (a). No other criteria, policies, or procedures shall apply.
+- **(d)** The Secretary shall use the most recent and relevant data concerning the number and percentage of students receiving need-based assistance under subchapter IV of this chapter in making eligibility determinations under section 1058 of this title and shall advance the base-year forward following each annual grant cycle.
 - **(e)** The Secretary, directly or by grant or contract, may provide technical assistance to eligible institutions to prepare the institutions to qualify, apply for, and maintain a grant, under this subchapter.

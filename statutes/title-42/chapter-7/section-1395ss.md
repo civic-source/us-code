@@ -3,9 +3,9 @@ title: "Section 1395ss - Certification of medicare supplemental health insurance
 usc_title: 42
 usc_section: "1395ss"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1395ss"
-generated_at: "2026-03-29T18:07:14.053Z"
+generated_at: "2026-03-29T18:27:03.164Z"
 ---
 
 # § 1395ss. Certification of medicare supplemental health insurance policies
@@ -468,3 +468,11 @@ generated_at: "2026-03-29T18:07:14.053Z"
 - **(y)**
   - **(1)** The Secretary shall request the National Association of Insurance Commissioners to review and revise the standards for benefit packages described in paragraph (2) under subsection (p)(1), to otherwise update standards to include requirements for nominal cost sharing to encourage the use of appropriate physicians’ services under part B. Such revisions shall be based on evidence published in peer-reviewed journals or current examples used by integrated delivery systems and made consistent with the rules applicable under subsection (p)(1)(E) with the reference to the “1991 NAIC Model Regulation” deemed a reference to the NAIC Model Regulation as published in the Federal Register on December 4, 1998 , and as subsequently updated by the National Association of Insurance Commissioners to reflect previous changes in law and the reference to “date of enactment of this subsection” deemed a reference to March 23, 2010 . To the extent practicable, such revision shall provide for the implementation of revised standards for benefit packages as of January 1, 2015 .
   - **(2)** The benefit packages described in this paragraph are benefit packages classified as “C” and “F”.
+- **(z)**
+  - **(1)** Notwithstanding any other provision of this section, on or after January 1, 2020 , a medicare supplemental policy that provides coverage of the part B deductible, including any such policy (or rider to such a policy) issued under a waiver granted under subsection (p)(6), may not be sold or issued to a newly eligible Medicare beneficiary.
+  - **(2)** In this subsection, the term “newly eligible Medicare beneficiary” means an individual who is neither of the following:
+    - **(A)** An individual who has attained age 65 before January 1, 2020 .
+    - **(B)** An individual who was entitled to benefits under part A pursuant to section 426(b) or 426–1 of this title, or deemed to be eligible for benefits under section 426(a) of this title , before January 1, 2020 .
+  - **(3)** In the case of a State described in subsection (p)(6), nothing in this section shall be construed as preventing the State from modifying its alternative simplification program under such subsection so as to eliminate the coverage of the part B deductible for any medical supplemental policy sold or issued under such program to a newly eligible Medicare beneficiary on or after January 1, 2020 .
+  - **(4)** In the case of a newly eligible Medicare beneficiary, except as the Secretary may otherwise provide, any reference in this section to a medicare supplemental policy which has a benefit package classified as “C” or “F” shall be deemed, as of January 1, 2020 , to be a reference to a medicare supplemental policy which has a benefit package classified as “D” or “G”, respectively.
+  - **(5)** The penalties described in clause (ii) of subsection (d)(3)(A) shall apply with respect to a violation of paragraph (1) in the same manner as it applies to a violation of clause (i) of such subsection.

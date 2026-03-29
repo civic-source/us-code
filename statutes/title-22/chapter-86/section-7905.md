@@ -3,9 +3,9 @@ title: "Section 7905 - Greenhouse Gas Intensity Reducing Technology Export Initi
 usc_title: 22
 usc_section: "7905"
 chapter: 86
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 7905"
-generated_at: "2026-03-29T18:05:22.045Z"
+generated_at: "2026-03-29T18:24:54.394Z"
 ---
 
 # § 7905. Greenhouse Gas Intensity Reducing Technology Export Initiative

@@ -3,9 +3,9 @@ title: "Section 783 - Staff of National Council"
 usc_title: 29
 usc_section: "783"
 chapter: 16
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 783"
-generated_at: "2026-03-29T18:05:31.712Z"
+generated_at: "2026-03-29T18:25:43.046Z"
 ---
 
 # § 783. Staff of National Council
@@ -22,5 +22,5 @@ generated_at: "2026-03-29T18:05:31.712Z"
   - **(3)** Not more than 10 per centum of the total amounts available to the National Council in each fiscal year may be used for official representation and reception.
 - **(c)** The Administrator of General Services shall provide to the National Council on a reimbursable basis such administrative support services as the Council may request.
 - **(d)**
-  - **(1)** It shall be the duty of the Secretary of the Treasury to invest such portion of the amounts made available under subsection (a)(2)(B) 1 1 So in original. Probably should be subsection “(b)(2)(B)”. of this section as is not, in the Secretary’s judgment, required to meet current withdrawals. Such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.
+  - **(1)** It shall be the duty of the Secretary of the Treasury to invest such portion of the amounts made available under subsection (a)(2)(B) 1 1 So in original. Probably should be subsection “(b)(2)(B)”. as is not, in the Secretary’s judgment, required to meet current withdrawals. Such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.
   - **(2)** The amounts described in paragraph (1), and the interest on, and the proceeds from the sale or redemption of, the obligations described in paragraph (1) shall be available to the National Council to carry out this subchapter.

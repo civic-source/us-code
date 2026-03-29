@@ -3,9 +3,9 @@ title: "Section 634 - General powers"
 usc_title: 15
 usc_section: "634"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 634"
-generated_at: "2026-03-29T18:04:29.442Z"
+generated_at: "2026-03-29T18:24:08.347Z"
 ---
 
 # § 634. General powers
@@ -59,7 +59,7 @@ generated_at: "2026-03-29T18:04:29.442Z"
   - **(2)** The Administration is authorized, upon such terms and conditions as are deemed appropriate, to guarantee the timely payment of the principal of and interest on trust certificates issued by the Administration or its agent for purposes of this subsection. Such guarantee shall be limited to the extent of principal and interest on the guaranteed portions of loans which compose the trust or pool. In the event that a loan in such trust or pool is prepaid, either voluntarily or in the event of default, the guarantee of timely payment of principal and interest on the trust certificates shall be reduced in proportion to the amount of principal and interest such prepaid loan represents in the trust or pool. Interest on prepaid or defaulted loans shall accrue and be guaranteed by the Administration only through the date of payment on the guarantee. During the term of the trust certificate, it may be called for redemption due to prepayment or default of all loans constituting the pool.
   - **(3)** The full faith and credit of the United States is pledged to the payment of all amounts which may be required to be paid under any guarantee of such trust certificates issued by the Administration or its agent pursuant to this subsection.
   - **(4)**
-    - **(A)** The Administration may collect a fee for any loan guarantee sold into the secondary market under subsection (f) of this section in an amount equal to not more than 50 percent of the portion of the sale price that exceeds 110 percent of the outstanding principal amount of the portion of the loan guaranteed by the Administration. Any such fee imposed by the Administration shall be collected by the Administration or by the agent which carries out on behalf of the Administration the central registration functions required by subsection (h) of this section and shall be paid to the Administration and used solely to reduce the subsidy on loans guaranteed under section 636(a) of this title : Provided , That such fee shall not be charged to the borrower whose loan is guaranteed: and, Provided further , That nothing herein shall preclude any agent of the Administration from collecting a fee approved by the Administration for the functions described in subsection (h)(2) 1 1 See References in Text note below. of this section.
+    - **(A)** The Administration may collect a fee for any loan guarantee sold into the secondary market under subsection (f) in an amount equal to not more than 50 percent of the portion of the sale price that exceeds 110 percent of the outstanding principal amount of the portion of the loan guaranteed by the Administration. Any such fee imposed by the Administration shall be collected by the Administration or by the agent which carries out on behalf of the Administration the central registration functions required by subsection (h) of this section and shall be paid to the Administration and used solely to reduce the subsidy on loans guaranteed under section 636(a) of this title : Provided , That such fee shall not be charged to the borrower whose loan is guaranteed: and, Provided further , That nothing herein shall preclude any agent of the Administration from collecting a fee approved by the Administration for the functions described in subsection (h)(2). 1 1 See References in Text note below.
     - **(B)** The Administration is authorized to impose and collect, either directly or through a fiscal and transfer agent, a reasonable penalty on late payments of the fee authorized under subparagraph (A) in an amount not to exceed 5 percent of such fee per month plus interest.
     - **(C)** The Administration may contract with an agent to carry out, on behalf of the Administration, the assessment and collection of the annual fee established under section 636(a)(23) of this title . The agent may receive, as compensation for services, any interest earned on the fee while in the control of the agent before the time at which the agent is contractually required to remit the fee to the Administration.
   - **(5)**
@@ -70,7 +70,33 @@ generated_at: "2026-03-29T18:04:29.442Z"
   - **(1)** Upon the adoption of final rules and regulations, the Administration shall—
     - **(A)** provide for a central registration of all loans and trust certificates sold pursuant to subsections (f) and (g) of this section;
     - **(B)** contract with an agent to carry out on behalf of the Administration the central registration functions of this section and the issuance of trust certificates to facilitate pooling. Such agent shall provide a fidelity bond or insurance in such amounts as the Administration determines to be necessary to fully protect the interest of the Government;
-    - **(C)** prior to any sale, require the seller to disclose to a purchaser of the guaranteed portion of a loan guaranteed under this chapter and to the purchaser of a trust certificate issued pursuant to subsection (g) of this section, information on the terms, conditions, and yield of such instrument. As used in this paragraph, if the instrument being sold is a loan, the term “seller” does not include (A) an entity which made the loan or (B) any individual or entity which sells three or fewer guaranteed loans per year; and
+    - **(C)** prior to any sale, require the seller to disclose to a purchaser of the guaranteed portion of a loan guaranteed under this chapter and to the purchaser of a trust certificate issued pursuant to subsection (g), information on the terms, conditions, and yield of such instrument. As used in this paragraph, if the instrument being sold is a loan, the term “seller” does not include (A) an entity which made the loan or (B) any individual or entity which sells three or fewer guaranteed loans per year; and
     - **(D)** have the authority to regulate brokers and dealers in guaranteed loans and trust certificates sold pursuant to subsections (f) and (g) of this section.
   - **(2)** The agent described in paragraph (1)(B) may be compensated through any of the fees assessed under this section and any interest earned on any funds collected by the agent while such funds are in the control of the agent and before the time at which the agent is contractually required to transfer such funds to the Administration or to the holders of the trust certificates, as appropriate.
   - **(3)** Nothing in this subsection shall prohibit the utilization of a book-entry or other electronic form of registration for trust certificates. The Administration may, with the consent of the Secretary of the Treasury, use the book-entry system of the Federal Reserve System.
+- **(i)**
+  - **(1)**
+    - **(A)** There is established in the Administration an Office of Hearings and Appeals—
+      - **(i)** to impartially decide matters relating to program decisions of the Administrator—
+        - **(I)** for which Congress requires a hearing on the record; or
+        - **(II)** that the Administrator designates for hearing by regulation; and
+      - **(ii)** which shall contain the office of the Administration that handles requests submitted pursuant to sections 552 of title 5 (commonly referred to as the “Freedom of Information Act”) and maintains records pursuant to section 552a of title 5 (commonly referred to as the “Privacy Act of 1974”).
+    - **(B)** The Office of Hearings and Appeals shall only hear appeals of matters as described in this chapter, the Small Business Investment Act of 1958 ( 15 U.S.C. 661 et seq.), and title 13 of the Code of Federal Regulations.
+    - **(C)** The head of the Office of Hearings and Appeals shall be the Chief Hearing Officer appointed under section 633(b)(1) of this title , who shall be responsible to the Administrator.
+  - **(2)**
+    - **(A)** The Chief Hearing Officer shall—
+      - **(i)** be a career appointee in the Senior Executive Service and an attorney licensed by a State, commonwealth, territory or possession of the United States, or the District of Columbia; and
+      - **(ii)** be responsible for the operation and management of the Office of Hearings and Appeals.
+    - **(B)** The Chief Hearing Officer may assign a matter for mediation or other means of alternative dispute resolution.
+  - **(3)**
+    - **(A)** The Office of Hearings and Appeals shall appoint Hearing Officers to carry out the duties described in paragraph (1)(A)(i).
+    - **(B)** A Hearing Officer appointed under this paragraph—
+      - **(i)** shall serve in the excepted service as an employee of the Administration under section 2103 of title 5 and under the supervision of the Chief Hearing Officer;
+      - **(ii)** shall be classified at a position to which section 5376 of title 5 applies; and
+      - **(iii)** shall be compensated at a rate not exceeding the maximum rate payable under such section.
+    - **(C)** Notwithstanding section 556(b) of title 5 —
+      - **(i)** a Hearing Officer may hear cases arising under section 554 of such title;
+      - **(ii)** a Hearing Officer shall have the powers described in section 556(c) of such title; and
+      - **(iii)** the relevant provisions of subchapter II of chapter 5 of such title (except for section 556(b) of such title) shall apply to such Hearing Officer.
+    - **(D)** An individual serving as a Judge in the Office of Hearings and Appeals (as that position and office are designated in section 134.101 of title 13, Code of Federal Regulations) on the effective date of this subsection shall be considered as qualified to be, and redesignated as, a Hearing Officer.
+  - **(4)** In this subsection, the term “Hearing Officer” means an individual appointed or redesignated under this subsection who is an attorney licensed by a State, commonwealth, territory or possession of the United States, or the District of Columbia.

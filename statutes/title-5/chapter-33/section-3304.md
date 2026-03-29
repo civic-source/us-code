@@ -3,9 +3,9 @@ title: "Section 3304 - Competitive service; examinations"
 usc_title: 5
 usc_section: "3304"
 chapter: 33
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 3304"
-generated_at: "2026-03-29T18:03:29.849Z"
+generated_at: "2026-03-29T18:23:29.873Z"
 ---
 
 # § 3304. Competitive service; examinations

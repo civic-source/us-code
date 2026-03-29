@@ -3,9 +3,9 @@ title: "Section 652 - Upper Mississippi River Management"
 usc_title: 33
 usc_section: "652"
 chapter: 13
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 652"
-generated_at: "2026-03-29T18:06:10.494Z"
+generated_at: "2026-03-29T18:26:01.183Z"
 ---
 
 # § 652. Upper Mississippi River Management
@@ -52,10 +52,10 @@ generated_at: "2026-03-29T18:06:10.494Z"
 - **(h)**
   - **(1)** The Secretary, in consultation with any agency established under subsection (d)(1) of this section, shall monitor traffic movements on the system for the purpose of verifying lock capacity, updating traffic projections, and refining the economic evaluation so as to verify the need for future capacity expansion of the system.
   - **(2)**
-    - **(A)** The Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, shall determine the need for river rehabilitation and environmental enhancement and protection based on the condition of the environment, project developments, and projected environmental impacts from implementing any proposals resulting from recommendations made under subsection (g) of this section and paragraph (1) of this subsection.
+    - **(A)** The Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, shall determine the need for river rehabilitation and environmental enhancement and protection based on the condition of the environment, project developments, and projected environmental impacts from implementing any proposals resulting from recommendations made under subsection (g) and paragraph (1) of this subsection.
     - **(B)** The Secretary shall—
       - **(i)** complete the ongoing habitat needs assessment conducted under this paragraph not later than September 30, 2000 ; and
-      - **(ii)** include in each report under subsection (e)(2) of this section the most recent habitat needs assessment conducted under this paragraph.
+      - **(ii)** include in each report under subsection (e)(2) the most recent habitat needs assessment conducted under this paragraph.
   - **(3)** There is authorized to be appropriated to the Secretary such sums as may be necessary to carry out this subsection.
 - **(i)**
   - **(1)** The Secretary shall, as he determines feasible, dispose of dredged material from the system pursuant to the recommendations of the GREAT I, GREAT II, and GRRM studies.

@@ -3,9 +3,9 @@ title: "Section 5014 - Office of the Secretary of the Navy"
 usc_title: 10
 usc_section: "5014"
 chapter: 503
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 5014"
-generated_at: "2026-03-29T18:04:13.248Z"
+generated_at: "2026-03-29T18:23:52.039Z"
 ---
 
 # § 5014. Office of the Secretary of the Navy

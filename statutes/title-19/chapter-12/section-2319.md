@@ -3,9 +3,9 @@ title: "Section 2319 - Definitions"
 usc_title: 19
 usc_section: "2319"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 2319"
-generated_at: "2026-03-29T18:04:55.086Z"
+generated_at: "2026-03-29T18:24:16.155Z"
 ---
 
 # § 2319. Definitions
@@ -42,3 +42,4 @@ For purposes of this part—
     - **(A)** is a member of a group of workers who have been certified as eligible to apply for adjustment assistance under subpart A;
     - **(B)** has not been totally or partially separated from adversely affected employment; and
     - **(C)** the Secretary determines, on an individual basis, is threatened with total or partial separation.
+  - **(19)** The term “recognized postsecondary credential” means a credential consisting of an industry-recognized certificate or certification, a certificate of completion of an apprenticeship, a license recognized by a State or the Federal Government, or an associate or baccalaureate degree.

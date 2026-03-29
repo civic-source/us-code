@@ -1,14 +1,14 @@
 ---
-title: "Section 1111 - Annual reports: time for furnishing manuscript and proofs to Public Printer"
+title: "Section 1111 - Annual reports: time for furnishing manuscript and proofs to Director of the Government Publishing Office"
 usc_title: 44
 usc_section: "1111"
 chapter: 11
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "44 U.S.C. § 1111"
-generated_at: "2026-03-29T18:06:33.613Z"
+generated_at: "2026-03-29T18:26:16.109Z"
 ---
 
-# § 1111. Annual reports: time for furnishing manuscript and proofs to Public Printer
+# § 1111. Annual reports: time for furnishing manuscript and proofs to Director of the Government Publishing Office
 
-The appropriations made for printing and binding may not be used for an annual report or the accompanying documents unless the manuscript and proof is furnished to the Public Printer in the following manner: manuscript of the documents accompanying annual reports on or before February 1, each year; manuscript of the annual report on or before February 15, each year; complete revised proofs of the accompanying documents on March 1, each year, and of the annual reports on March 10, each year. Annual reports and accompanying documents shall be printed, made public, and available for distribution not later than within the first five days after the assembling of each regular session of Congress. This section does not apply to the annual reports of the Smithsonian Institution, the Comptroller of the Currency, or the Secretary of the Treasury.
+The appropriations made for printing and binding may not be used for an annual report or the accompanying documents unless the manuscript and proof is furnished to the Director of the Government Publishing Office in the following manner: manuscript of the documents accompanying annual reports on or before February 1, each year; manuscript of the annual report on or before February 15, each year; complete revised proofs of the accompanying documents on March 1, each year, and of the annual reports on March 10, each year. Annual reports and accompanying documents shall be printed, made public, and available for distribution not later than within the first five days after the assembling of each regular session of Congress. This section does not apply to the annual reports of the Smithsonian Institution, the Comptroller of the Currency, or the Secretary of the Treasury.
 

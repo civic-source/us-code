@@ -3,15 +3,15 @@ title: "Section 300x - Formula grants to States"
 usc_title: 42
 usc_section: "300x"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 300x"
-generated_at: "2026-03-29T18:07:13.566Z"
+generated_at: "2026-03-29T18:27:02.769Z"
 ---
 
 # § 300x. Formula grants to States
 
-- **(a)** For the purpose described in subsection (b) of this section, the Secretary, acting through the Director of the Center for Mental Health Services, shall make an allotment each fiscal year for each State in an amount determined in accordance with section 300x–7 of this title . The Secretary shall make a grant to the State of the allotment made for the State for the fiscal year if the State submits to the Secretary an application in accordance with section 300x–6 of this title .
-- **(b)** A funding agreement for a grant under subsection (a) of this section is that, subject to section 300x–5 of this title , the State involved will expend the grant only for the purpose of—
+- **(a)** For the purpose described in subsection (b), the Secretary, acting through the Director of the Center for Mental Health Services, shall make an allotment each fiscal year for each State in an amount determined in accordance with section 300x–7 of this title . The Secretary shall make a grant to the State of the allotment made for the State for the fiscal year if the State submits to the Secretary an application in accordance with section 300x–6 of this title .
+- **(b)** A funding agreement for a grant under subsection (a) is that, subject to section 300x–5 of this title , the State involved will expend the grant only for the purpose of—
   - **(1)** carrying out the plan submitted under section 300x–1(a) of this title by the State for the fiscal year involved;
   - **(2)** evaluating programs and services carried out under the plan; and
   - **(3)** planning, administration, and educational activities related to providing services under the plan.

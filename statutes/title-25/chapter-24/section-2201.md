@@ -3,9 +3,9 @@ title: "Section 2201 - Definitions"
 usc_title: 25
 usc_section: "2201"
 chapter: 24
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 2201"
-generated_at: "2026-03-29T18:05:17.210Z"
+generated_at: "2026-03-29T18:25:23.771Z"
 ---
 
 # § 2201. Definitions
@@ -15,12 +15,12 @@ For the purpose of this chapter—
   - **(1)** “Indian tribe” or “tribe” means any Indian tribe, band, group, pueblo, or community for which, or for the members of which, the United States holds lands in trust;
   - **(2)** “Indian” means—
     - **(A)** any person who is a member of any Indian tribe, is eligible to become a member of any Indian tribe, or is an owner (as of October 27, 2004 ) of a trust or restricted interest in land;
-    - **(B)** any person meeting the definition of Indian under the Indian Reorganization Act ( 25 U.S.C. 479 ) and the regulations promulgated thereunder; and
-    - **(C)** with respect to the inheritance and ownership of trust or restricted land in the State of California pursuant to section 2206 of this title , any person described in subparagraph (A) or (B) or any person who owns a trust or restricted interest in a parcel of such land in that State. 1 1 So in original. The period probably should be a semicolon.
+    - **(B)** any person meeting the definition of Indian under the Indian Reorganization Act ( 25 U.S.C. 479 ) 1 1 See References in Text note below. and the regulations promulgated thereunder; and
+    - **(C)** with respect to the inheritance and ownership of trust or restricted land in the State of California pursuant to section 2206 of this title , any person described in subparagraph (A) or (B) or any person who owns a trust or restricted interest in a parcel of such land in that State. 2 2 So in original. The period probably should be a semicolon.
   - **(3)** “Secretary” means the Secretary of the Interior;
   - **(4)**
-      - **(i)** “trust or restricted lands” means lands, title to which is held by the United States in trust for an Indian tribe or individual, or which is held by an Indian tribe or individual subject to a restriction by the United States against alienation; and (ii) “trust or restricted interest in land” or “trust or restricted interest in a parcel of land” means an interest in land, the title to which interest is held in trust by the United States for an Indian tribe or individual, or which is held by an Indian tribe or individual subject to a restriction by the United States against alienation. 1
-  - **(5)** “heirs of the first or second degree” means parents, children, grandchildren, grandparents, brothers and sisters of a decedent. 1
+      - **(i)** “trust or restricted lands” means lands, title to which is held by the United States in trust for an Indian tribe or individual, or which is held by an Indian tribe or individual subject to a restriction by the United States against alienation; and (ii) “trust or restricted interest in land” or “trust or restricted interest in a parcel of land” means an interest in land, the title to which interest is held in trust by the United States for an Indian tribe or individual, or which is held by an Indian tribe or individual subject to a restriction by the United States against alienation. 2
+  - **(5)** “heirs of the first or second degree” means parents, children, grandchildren, grandparents, brothers and sisters of a decedent. 2
   - **(6)** “parcel of highly fractionated Indian land” means a parcel of land that the Secretary, pursuant to authority under a provision of this chapter, determines to have, as evidenced by the Secretary’s records at the time of the determination—
     - **(A)** 50 or more but less than 100 co-owners of undivided trust or restricted interests, and no 1 of such co-owners holds a total undivided trust or restricted interest in the parcel that is greater than 10 percent of the entire undivided ownership of the parcel; or
     - **(B)** 100 or more co-owners of undivided trust or restricted interests;

@@ -3,9 +3,9 @@ title: "Section 1881b - Certain acquisitions inside the United States targeting 
 usc_title: 50
 usc_section: "1881b"
 chapter: 36
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 1881b"
-generated_at: "2026-03-29T18:07:43.044Z"
+generated_at: "2026-03-29T18:27:35.617Z"
 ---
 
 # § 1881b. Certain acquisitions inside the United States targeting United States persons outside the United States

@@ -3,9 +3,9 @@ title: "Section 408a - Expediting approval of modifications and alterations of p
 usc_title: 33
 usc_section: "408a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 408a"
-generated_at: "2026-03-29T02:14:18.478Z"
+generated_at: "2026-03-29T18:26:01.161Z"
 ---
 
 # § 408a. Expediting approval of modifications and alterations of projects by non-Federal interests
@@ -36,7 +36,3 @@ generated_at: "2026-03-29T02:14:18.478Z"
   - **(2)** The Secretary shall maintain a publicly available database, including on the Internet, on—
     - **(A)** all section 14 applications received by the Secretary; and
     - **(B)** the current status of such applications.
-- **(f)**
-  - **(1)** Not later than 120 days after December 16, 2016 , the Secretary shall issue guidance on the implementation of this section.
-  - **(2)** In issuing guidance under paragraph (1), or any other regulation, guidance, or engineering circular related to activities covered under section 408 of this title , the Secretary shall incorporate the requirements under this section.
-- **(g)** The Secretary shall prioritize and complete the activities required of the Secretary under this section.

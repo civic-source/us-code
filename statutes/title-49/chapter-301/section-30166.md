@@ -3,9 +3,9 @@ title: "Section 30166 - Inspections, investigations, and records"
 usc_title: 49
 usc_section: "30166"
 chapter: 301
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 30166"
-generated_at: "2026-03-29T18:07:51.437Z"
+generated_at: "2026-03-29T18:27:16.537Z"
 ---
 
 # § 30166. Inspections, investigations, and records
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T18:07:51.437Z"
   - **(2)** The Secretary of Transportation shall cooperate with State and local officials to the greatest extent possible in an inspection or investigation under paragraph (1)(B) of this subsection.
 - **(c)** In carrying out this chapter, an officer or employee designated by the Secretary of Transportation—
   - **(1)** at reasonable times, may inspect and copy any record related to this chapter;
-  - **(2)** on request, may inspect records of a manufacturer, distributor, or dealer to decide whether the manufacturer, distributor, or dealer has complied or is complying with this chapter or a regulation prescribed or order issued under this chapter;
+  - **(2)** on request, may inspect records of a manufacturer, distributor, dealer, or rental company to decide whether the manufacturer, distributor, dealer, or rental company has complied or is complying with this chapter or a regulation prescribed or order issued under this chapter;
   - **(3)** at reasonable times, in a reasonable way, and on display of proper credentials and written notice to an owner, operator, or agent in charge, may—
     - **(A)** enter and inspect with reasonable promptness premises in which a motor vehicle or motor vehicle equipment is manufactured, held for introduction in interstate commerce (including at United States ports of entry), or held for sale after introduction in interstate commerce;
     - **(B)** enter and inspect with reasonable promptness premises at which a vehicle or equipment involved in a motor vehicle accident is located;
@@ -26,9 +26,9 @@ generated_at: "2026-03-29T18:07:51.437Z"
     - **(D)** impound for not more than 72 hours a vehicle or equipment involved in a motor vehicle accident;
   - **(4)** shall enter into a memorandum of understanding with the Secretary of Homeland Security for inspections and sampling of motor vehicle equipment being offered for import to determine compliance with this chapter or a regulation or order issued under this chapter.
 - **(d)** When a motor vehicle (except a vehicle subject to subchapter I of chapter 135 of this title) or motor vehicle equipment is inspected or temporarily impounded under subsection (c)(3) of this section, the Secretary of Transportation shall pay reasonable compensation to the owner of the vehicle if the inspection or impoundment results in denial of use, or reduction in value, of the vehicle.
-- **(e)** The Secretary of Transportation reasonably may require a manufacturer of a motor vehicle or motor vehicle equipment to keep records, and a manufacturer, distributor, or dealer to make reports, to enable the Secretary to decide whether the manufacturer, distributor, or dealer has complied or is complying with this chapter or a regulation prescribed or order issued under this chapter. This subsection does not impose a recordkeeping requirement on a distributor or dealer in addition to those imposed under subsection (f) of this section and section 30117(b) of this title or a regulation prescribed or order issued under subsection (f) or section 30117(b).
+- **(e)** The Secretary of Transportation reasonably may require a manufacturer of a motor vehicle or motor vehicle equipment to keep records, and a manufacturer, distributor, dealer, or rental company to make reports, to enable the Secretary to decide whether the manufacturer, distributor, dealer, or rental company has complied or is complying with this chapter or a regulation prescribed or order issued under this chapter. This subsection does not impose a recordkeeping requirement on a distributor dealer, or rental company in addition to those imposed under subsection (f) of this section and section 30117(b) of this title or a regulation prescribed or order issued under subsection (f) or section 30117(b).
 - **(f)**
-  - **(1)** A manufacturer shall give the Secretary of Transportation, and the Secretary shall make available on a publicly accessible Internet website, a true or representative copy of each communication to the manufacturer’s dealers or to owners or purchasers of a motor vehicle or replacement equipment produced by the manufacturer about a defect or noncompliance with a motor vehicle safety standard prescribed under this chapter in a vehicle or equipment that is sold or serviced.
+  - **(1)** A manufacturer shall give the Secretary of Transportation, and the Secretary shall make available on a publicly accessible Internet website, a true or representative copy of each communication to the manufacturer’s dealers, rental companies, or other owners or purchasers of a motor vehicle or replacement equipment produced by the manufacturer about a defect or noncompliance with a motor vehicle safety standard prescribed under this chapter in a vehicle or equipment that is sold or serviced.
   - **(2)** Communications required to be submitted to the Secretary under this subsection shall be accompanied by an index to each communication, that—
     - **(A)** identifies the make, model, and model year of the affected vehicles;
     - **(B)** includes a concise summary of the subject matter of the communication; and
@@ -70,9 +70,10 @@ generated_at: "2026-03-29T18:07:51.437Z"
     - **(A)** the defect or noncompliance of the tire is remedied as required by section 30120; or
     - **(B)** notification of the defect or noncompliance is required under section 30118(b) but enforcement of the order is restrained or the order is set aside in a civil action to which section 30121(d) applies.
 - **(o)**
-  - **(1)** The Secretary may promulgate rules requiring a senior official responsible for safety in any company submitting information to the Secretary in response to a request for information in a safety defect or compliance investigation under this chapter to certify that—
+  - **(1)** The Secretary shall promulgate rules requiring a senior official responsible for safety in any company submitting information to the Secretary in response to a request for information in a safety defect or compliance investigation under this chapter to certify that—
     - **(A)** the signing official has reviewed the submission; and
     - **(B)** based on the official’s knowledge, the submission does not—
       - **(i)** contain any untrue statement of a material fact; or
       - **(ii)** omit to state a material fact necessary in order to make the statements made not misleading, in light of the circumstances under which such statements were made.
   - **(2)** The certification requirements of this section shall be clearly stated on any request for information under paragraph (1).
+  - **(3)** Not later than 1 year after the date of enactment of the Comprehensive Transportation and Consumer Protection Act of 2015, the Secretary shall issue a final rule under paragraph (1).

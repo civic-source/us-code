@@ -1,12 +1,12 @@
 ---
-title: "Section 3615 - Repealed. Pub. L. 103–359, title VIII, § 806(b)(2) , Oct. 14, 1994 , 108 Stat. 3442"
+title: "Section 3615 - Repealed. Pub. L. 103–359, title VIII , § 806(b)(2), Oct. 14, 1994 , 108 Stat. 3442"
 usc_title: 50
 usc_section: "3615"
 chapter: 47
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 3615"
-generated_at: "2026-03-29T18:07:43.148Z"
+generated_at: "2026-03-29T18:27:35.707Z"
 ---
 
-# § 3615. Repealed. Pub. L. 103–359, title VIII, § 806(b)(2) , Oct. 14, 1994 , 108 Stat. 3442
+# § 3615. Repealed. Pub. L. 103–359, title VIII , § 806(b)(2), Oct. 14, 1994 , 108 Stat. 3442
 

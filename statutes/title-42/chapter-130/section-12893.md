@@ -3,9 +3,9 @@ title: "Section 12893 - Implementation grants"
 usc_title: 42
 usc_section: "12893"
 chapter: 130
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 12893"
-generated_at: "2026-03-29T18:07:15.292Z"
+generated_at: "2026-03-29T18:27:04.097Z"
 ---
 
 # § 12893. Implementation grants
@@ -38,7 +38,7 @@ generated_at: "2026-03-29T18:07:15.292Z"
     - **(B)** a description of the qualifications and experience of the applicant in providing low-income housing;
     - **(C)** a description of the proposed homeownership program, consistent with section 12894 of this title and the other requirements of this part specifying the activities proposed to be carried out and their estimated costs, identifying reasonable schedules for carrying it out, and demonstrating that the program will comply with the affordability requirements under section 12894(b) of this title ;
     - **(D)** an identification and description of the properties to be acquired under the homeownership program and a description of the composition of potential eligible families, including family size and income;
-    - **(E)** a description of and commitment for the resources that are expected to be made available to provide the matching funding required under subsection (c) of this section and of other resources that are expected to be made available in support of the homeownership program;
+    - **(E)** a description of and commitment for the resources that are expected to be made available to provide the matching funding required under subsection (c) and of other resources that are expected to be made available in support of the homeownership program;
     - **(F)** identification and description of the financing proposed for any (i) rehabilitation and (ii) acquisition (I) of the project, where applicable, by an entity for transfer to eligible families, and (II) by eligible families of ownership interests in, or shares representing, units in the project;
     - **(G)** the proposed sales prices for the properties, the basis for such price determinations, and terms to an entity, if any, that will purchase that property for resale to eligible families;
     - **(H)** the proposed sales prices, if any, and terms to eligible families;

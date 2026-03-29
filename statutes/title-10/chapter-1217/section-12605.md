@@ -3,9 +3,9 @@ title: "Section 12605 - Presentation of United States flag: members transferred 
 usc_title: 10
 usc_section: "12605"
 chapter: 1217
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 12605"
-generated_at: "2026-03-29T18:04:13.324Z"
+generated_at: "2026-03-29T18:23:52.116Z"
 ---
 
 # § 12605. Presentation of United States flag: members transferred from an active status or discharged after completion of eligibility for retired pay

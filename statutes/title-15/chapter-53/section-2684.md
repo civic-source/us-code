@@ -3,15 +3,15 @@ title: "Section 2684 - Authorized State programs"
 usc_title: 15
 usc_section: "2684"
 chapter: 53
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 2684"
-generated_at: "2026-03-29T18:04:29.872Z"
+generated_at: "2026-03-29T18:24:08.562Z"
 ---
 
 # § 2684. Authorized State programs
 
-- **(a)** Any State which seeks to administer and enforce the standards, regulations, or other requirements established under section 2682 or 2686 of this title, or both, may, after notice and opportunity for public hearing, develop and submit to the Administrator an application, in such form as the Administrator shall require, for authorization of such a State program. Any such State may also certify to the Administrator at the time of submitting such program that the State program meets the requirements of paragraphs (1) and (2) of subsection (b) of this section. Upon submission of such certification, the State program shall be deemed to be authorized under this section, and shall apply in such State in lieu of the corresponding Federal program under section 2682 or 2686 of this title, or both, as the case may be, until such time as the Administrator disapproves the program or withdraws the authorization.
-- **(b)** Within 180 days following submission of an application under subsection (a) of this section, the Administrator shall approve or disapprove the application. The Administrator may approve the application only if, after notice and after opportunity for public hearing, the Administrator finds that—
+- **(a)** Any State which seeks to administer and enforce the standards, regulations, or other requirements established under section 2682 or 2686 of this title, or both, may, after notice and opportunity for public hearing, develop and submit to the Administrator an application, in such form as the Administrator shall require, for authorization of such a State program. Any such State may also certify to the Administrator at the time of submitting such program that the State program meets the requirements of paragraphs (1) and (2) of subsection (b). Upon submission of such certification, the State program shall be deemed to be authorized under this section, and shall apply in such State in lieu of the corresponding Federal program under section 2682 or 2686 of this title, or both, as the case may be, until such time as the Administrator disapproves the program or withdraws the authorization.
+- **(b)** Within 180 days following submission of an application under subsection (a), the Administrator shall approve or disapprove the application. The Administrator may approve the application only if, after notice and after opportunity for public hearing, the Administrator finds that—
   - **(1)** the State program is at least as protective of human health and the environment as the Federal program under section 2682 or 2686 of this title, or both, as the case may be, and
   - **(2)** such State program provides adequate enforcement.
 - **(c)** If a State is not administering and enforcing a program authorized under this section in compliance with standards, regulations, and other requirements of this subchapter, the Administrator shall so notify the State and, if corrective action is not completed within a reasonable time, not to exceed 180 days, the Administrator shall withdraw authorization of such program and establish a Federal program pursuant to this subchapter.

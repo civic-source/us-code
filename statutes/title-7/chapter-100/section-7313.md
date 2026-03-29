@@ -3,9 +3,9 @@ title: "Section 7313 - Comprehensive review of past and future of production agr
 usc_title: 7
 usc_section: "7313"
 chapter: 100
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 7313"
-generated_at: "2026-03-29T18:04:05.110Z"
+generated_at: "2026-03-29T18:23:43.508Z"
 ---
 
 # § 7313. Comprehensive review of past and future of production agriculture
@@ -20,8 +20,8 @@ generated_at: "2026-03-29T18:04:05.110Z"
   - **(7)** An assessment of the effect of any Federal Government interference in agricultural export markets, such as the imposition of trade embargoes, and the degree of implementation and success of international trade agreements and United States export programs.
   - **(8)** An assessment of the likely effect of the sale, lease, or transfer of farm poundage quota for peanuts across State lines.
 - **(b)** The Commission shall conduct a comprehensive review of the future of production agriculture in the United States and the appropriate role of the Federal Government in support of production agriculture. The review shall include the following:
-  - **(1)** An assessment of changes in the condition of production agriculture in the United States since the initial review conducted under subsection (a) of this section.
+  - **(1)** An assessment of changes in the condition of production agriculture in the United States since the initial review conducted under subsection (a).
   - **(2)** Identification of the appropriate future relationship of the Federal Government with production agriculture after 2002.
   - **(3)** An assessment of the personnel and infrastructure requirements of the Department of Agriculture necessary to support the future relationship of the Federal Government with production agriculture.
   - **(4)** An assessment of economic risks to farms delineated by size of farm operation (such as small, medium, or large farms) and region of production.
-- **(c)** In carrying out the subsequent review under subsection (b) of this section, the Commission shall develop specific recommendations for legislation to achieve the appropriate future relationship of the Federal Government with production agriculture identified under subsection (a)(2) of this section.
+- **(c)** In carrying out the subsequent review under subsection (b), the Commission shall develop specific recommendations for legislation to achieve the appropriate future relationship of the Federal Government with production agriculture identified under subsection (a)(2).

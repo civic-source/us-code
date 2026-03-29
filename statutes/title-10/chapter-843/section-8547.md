@@ -3,9 +3,9 @@ title: "Section 8547 - Duties: chaplains; assistance required of commanding offi
 usc_title: 10
 usc_section: "8547"
 chapter: 843
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 8547"
-generated_at: "2026-03-29T18:04:13.291Z"
+generated_at: "2026-03-29T18:23:52.085Z"
 ---
 
 # § 8547. Duties: chaplains; assistance required of commanding officers

@@ -3,9 +3,9 @@ title: "Section 772 - Training"
 usc_title: 29
 usc_section: "772"
 chapter: 16
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 772"
-generated_at: "2026-03-29T18:05:31.708Z"
+generated_at: "2026-03-29T18:25:43.043Z"
 ---
 
 # § 772. Training
@@ -16,20 +16,21 @@ generated_at: "2026-03-29T18:05:31.708Z"
     - **(B)** personnel specifically trained to identify, assess, and meet the individual rehabilitation needs of individuals with disabilities, including needs for rehabilitation technology;
     - **(C)** personnel specifically trained to deliver services to individuals who may benefit from receiving independent living services;
     - **(D)** personnel specifically trained to deliver services in the client assistance programs;
-    - **(E)** personnel specifically trained to deliver services, through supported employment programs, to individuals with a most significant disability; and
-    - **(F)** personnel specifically trained to deliver services to individuals with disabilities pursuing self-employment, business ownership, and telecommuting; and
-    - **(G)** personnel trained in performing other functions necessary to the provision of vocational, medical, social, and psychological rehabilitation services, and other services provided under this chapter.
+    - **(E)** personnel specifically trained to deliver supported employment services and customized employment services to individuals with the most significant disabilities;
+    - **(F)** personnel specifically trained to deliver services to individuals with disabilities pursuing self-employment, business ownership, and telecommuting;
+    - **(G)** personnel trained in performing other functions necessary to the provision of vocational, medical, social, and psychological rehabilitation services, and other services provided under this chapter; and
+    - **(H)** personnel trained in providing assistive technology services.
   - **(2)** Grants and contracts under paragraph (1) may be expended for scholarships and may include necessary stipends and allowances.
   - **(3)** In carrying out this subsection, the Commissioner may make grants to and enter into contracts with States and public or nonprofit agencies and organizations, including institutions of higher education, to furnish training regarding provisions of Federal statutes, including section 794 of this title , title I of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12111 et seq.), and the provisions of titles II and XVI of the Social Security Act ( 42 U.S.C. 401 et seq. and 1381 et seq.), that are related to work incentives for individuals with disabilities.
-  - **(4)** The Commissioner may make grants to and enter into contracts under this subsection with States and public or nonprofit agencies and organizations, including institutions of higher education, to furnish training to personnel providing services to individuals with disabilities under title I of the Workforce Investment Act of 1998 [ 29 U.S.C. 2801 et seq.]. Under this paragraph, personnel may be trained—
-    - **(A)** in evaluative skills to determine whether an individual with a disability may be served by the State vocational rehabilitation program or another component of a statewide workforce investment system; or
-    - **(B)** to assist individuals with disabilities seeking assistance through one-stop delivery systems described in section 134(c) of the Workforce Investment Act of 1998 [ 29 U.S.C. 2864(c) ].
-  - **(5)** Training and other activities provided under paragraph (4) for personnel may be jointly funded with the Department of Labor, using funds made available under title I of the Workforce Investment Act of 1998 [ 29 U.S.C. 2801 et seq.].
+  - **(4)** The Commissioner may make grants to and enter into contracts under this subsection with States and public or nonprofit agencies and organizations, including institutions of higher education, to furnish training to personnel providing services to individuals with disabilities under subtitle B of title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3151 et seq.]. Under this paragraph, personnel may be trained—
+    - **(A)** in evaluative skills to determine whether an individual with a disability may be served by the State vocational rehabilitation program or another component of a statewide workforce development system; or
+    - **(B)** to assist individuals with disabilities seeking assistance through one-stop delivery systems described in section 121(e) of the Workforce Innovation and Opportunity Act [ 28 U.S.C. 3151(e) ].
+  - **(5)** Training and other activities provided under paragraph (4) for personnel may be jointly funded with the Department of Labor, using funds made available under subtitle B of title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3151 et seq.].
 - **(b)**
   - **(1)**
-    - **(A)** The Commissioner may make grants to, and enter into contracts with, States and public or nonprofit agencies and organizations (including institutions of higher education) to pay part of the costs of academic training projects to provide training that leads to an academic degree or academic certificate. In making such grants or entering into such contracts, the Commissioner shall target funds to areas determined under subsection (e) of this section to have shortages of qualified personnel.
+    - **(A)** The Commissioner may make grants to, and enter into contracts with, States and public or nonprofit agencies and organizations (including institutions of higher education) to pay part of the costs of academic training projects to provide training that leads to an academic degree or academic certificate. In making such grants or entering into such contracts, the Commissioner shall target funds to areas determined under subsection (e) to have shortages of qualified personnel.
     - **(B)** Academic training projects described in this subsection may include—
-      - **(i)** projects to train personnel in the areas of assisting and supporting individuals with disabilities pursuing self-employment, business ownership, and telecommuting, and of vocational rehabilitation counseling, rehabilitation technology, rehabilitation medicine, rehabilitation nursing, rehabilitation social work, rehabilitation psychiatry, rehabilitation psychology, rehabilitation dentistry, physical therapy, occupational therapy, speech pathology and audiology, physical education, therapeutic recreation, community rehabilitation programs, or prosthetics and orthotics;
+      - **(i)** projects to train personnel in the areas of assisting and supporting individuals with disabilities pursuing self-employment, business ownership, and telecommuting, and of vocational rehabilitation counseling, rehabilitation technology, rehabilitation medicine, rehabilitation nursing, rehabilitation social work, rehabilitation psychiatry, rehabilitation psychology, rehabilitation dentistry, physical therapy, occupational therapy, speech pathology and audiology, physical education, therapeutic recreation, community rehabilitation programs, prosthetics and orthotics, vision rehabilitation therapy, orientation and mobility instruction, or low vision therapy;
       - **(ii)** projects to train personnel to provide—
         - **(I)** services to individuals with specific disabilities or individuals with disabilities who have specific impediments to rehabilitation, including individuals who are members of populations that are unserved or underserved by programs under this chapter;
         - **(II)** job development and job placement services to individuals with disabilities;
@@ -73,14 +74,7 @@ generated_at: "2026-03-29T18:05:31.708Z"
     - **(C)** assurances that any interpreter trained or retrained under a program funded under the grant will meet such minimum standards of competency as the Commissioner may establish for purposes of this subsection; and
     - **(D)** such other information as the Commissioner may require.
 - **(g)**
-  - **(1)** The Commissioner is authorized to provide technical assistance to State designated agencies and community rehabilitation programs, directly or through contracts with State designated agencies or nonprofit organizations.
+  - **(1)** The Commissioner is authorized to provide technical assistance to State designated agencies and community rehabilitation programs, directly or through contracts with State designated agencies or nonprofit organizations. Any technical assistance provided to community rehabilitation programs shall be focused on the employment outcome of competitive integrated employment for individuals with disabilities.
   - **(2)** An expert or consultant appointed or serving under contract pursuant to this section shall be compensated at a rate, subject to approval of the Commissioner, that shall not exceed the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382 of title 5 . Such an expert or consultant may be allowed travel and transportation expenses in accordance with section 5703 of title 5 .
-  - **(3)**
-    - **(A)** Subject to subparagraph (B), at least 15 percent of the sums appropriated to carry out this section shall be allocated to designated State agencies to be used, directly or indirectly, for projects for in-service training for rehabilitation personnel, consistent with the needs identified through the comprehensive system for personnel development required by section 721(a)(7) of this title , including projects designed—
-      - **(i)** to address recruitment and retention of qualified rehabilitation professionals;
-      - **(ii)** to provide for succession planning;
-      - **(iii)** to provide for leadership development and capacity building; and
-      - **(iv)** for fiscal years 1999 and 2000, to provide training regarding the Workforce Investment Act of 1998 and the amendments to this chapter made by the Rehabilitation Act Amendments of 1998.
-    - **(B)** If the allocation to designated State agencies required by subparagraph (A) would result in a lower level of funding for projects being carried out on August 7, 1998 , by other recipients of funds under this section, the Commissioner may allocate less than 15 percent of the sums described in subparagraph (A) to designated State agencies for such in-service training.
 - **(h)** The Commissioner, subject to the provisions of section 776 of this title , may require that recipients of grants or contracts under this section provide information, including data, with regard to the impact of activities funded under this section.
-- **(i)** There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 1999 through 2003.
+- **(i)** There are authorized to be appropriated to carry out this section $33,657,000 for fiscal year 2015, $36,257,000 for fiscal year 2016, $37,009,000 for fiscal year 2017, $37,830,000 for fiscal year 2018, $38,719,000 for fiscal year 2019, and $39,540,000 for fiscal year 2020.

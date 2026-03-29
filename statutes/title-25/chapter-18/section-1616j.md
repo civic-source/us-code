@@ -3,9 +3,9 @@ title: "Section 1616j - Retention bonus"
 usc_title: 25
 usc_section: "1616j"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1616j"
-generated_at: "2026-03-29T18:05:17.147Z"
+generated_at: "2026-03-29T18:25:23.723Z"
 ---
 
 # § 1616j. Retention bonus
@@ -19,10 +19,10 @@ generated_at: "2026-03-29T18:05:17.147Z"
       - **(i)** any Federal scholarship program, or
       - **(ii)** any Federal education loan repayment program, and
   - **(4)** enters into an agreement with the Service for continued employment for a period of not less than 1 year.
-- **(b)** Beginning with fiscal year 1993, not less than 25 percent of the retention bonuses awarded each year under subsection (a) of this section shall be awarded to nurses.
-- **(c)** The Secretary may establish rates for the retention bonus which shall provide for a higher annual rate for multiyear agreements than for single year agreements referred to in subsection (a)(4) of this section, but in no event shall the annual rate be more than $25,000 per annum.
-- **(d)** The retention bonus for the entire period covered by the agreement described in subsection (a)(4) of this section shall be paid at the beginning of the agreed upon term of service.
+- **(b)** Beginning with fiscal year 1993, not less than 25 percent of the retention bonuses awarded each year under subsection (a) shall be awarded to nurses.
+- **(c)** The Secretary may establish rates for the retention bonus which shall provide for a higher annual rate for multiyear agreements than for single year agreements referred to in subsection (a)(4), but in no event shall the annual rate be more than $25,000 per annum.
+- **(d)** The retention bonus for the entire period covered by the agreement described in subsection (a)(4) shall be paid at the beginning of the agreed upon term of service.
 - **(e)** Any physician or nurse failing to complete the agreed upon term of service, except where such failure is through no fault of the individual, shall be obligated to refund to the Government the full amount of the retention bonus for the period covered by the agreement, plus interest as determined by the Secretary in accordance with section 1616a( l )(2)(B) of this title.
-- **(f)** The Secretary may pay a retention bonus to any physician or nurse employed by an organization providing health care services to Indians pursuant to a contract under the Indian Self-Determination Act [ 25 U.S.C. 450f et seq.] if such physician or nurse is serving in a position which the Secretary determines is—
+- **(f)** The Secretary may pay a retention bonus to any physician or nurse employed by an organization providing health care services to Indians pursuant to a contract under the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.] if such physician or nurse is serving in a position which the Secretary determines is—
   - **(1)** a position for which recruitment or retention is difficult; and
   - **(2)** necessary for providing health care services to Indians.

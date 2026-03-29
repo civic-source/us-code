@@ -1,14 +1,12 @@
 ---
-title: "Section 646 - Exempted securities"
+title: "Section 646 - Omitted"
 usc_title: 25
 usc_section: "646"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 646"
-generated_at: "2026-03-29T18:05:17.083Z"
+generated_at: "2026-03-29T18:25:23.699Z"
 ---
 
-# § 646. Exempted securities
-
-Any securities issued by the Hopi Tribal Council (including any guarantee by such council), and any securities guaranteed by the council as to both principal and interest, shall be deemed to be exempted securities within the meaning of sections 77c(a)(2) and 78e(a)(12) of title 15, and shall be exempt from all registration requirements of Acts of May 27, 1933 , and June 6, 1934 .
+# § 646. Omitted
 

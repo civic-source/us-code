@@ -1,12 +1,12 @@
 ---
-title: "Section 3307 - Repealed. Pub. L. 91–287, § 2(c) , June 23, 1970 , 84 Stat. 321 ]"
+title: "Section 3307 - Repealed. Pub. L. 91–287 , § 2(c), June 23, 1970 , 84 Stat. 321 ]"
 usc_title: 44
 usc_section: "3307"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "44 U.S.C. § 3307"
-generated_at: "2026-03-29T02:15:49.335Z"
+generated_at: "2026-03-29T18:26:16.122Z"
 ---
 
-# [§§ 3304 to 3307. Repealed. Pub. L. 91–287, § 2(c) , June 23, 1970 , 84 Stat. 321 ]
+# [§§ 3304 to 3307. Repealed. Pub. L. 91–287 , § 2(c), June 23, 1970 , 84 Stat. 321 ]
 

@@ -3,15 +3,15 @@ title: "Section 3209 - Reports respecting standards"
 usc_title: 15
 usc_section: "3209"
 chapter: 59
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 3209"
-generated_at: "2026-03-29T18:04:29.886Z"
+generated_at: "2026-03-29T18:24:08.578Z"
 ---
 
 # § 3209. Reports respecting standards
 
 - **(a)** Not later than 1 year after November 9, 1978 , and annually thereafter for 10 years, each State regulatory authority (with respect to each gas utility for which it has ratemaking authority), and each nonregulated gas utility, shall report to the Secretary, in such manner as the Secretary shall prescribe, respecting its consideration of the standards established by this chapter. Such report shall include a summary of the determinations made and actions taken with respect to each of such standards on a utility-by-utility basis.
 - **(b)** Not later than 18 months after November 9, 1978 , and annually thereafter for 10 years, the Secretary shall submit a report to the President and the Congress containing—
-  - **(1)** a summary of the reports submitted under subsection (a) of this section,
+  - **(1)** a summary of the reports submitted under subsection (a),
   - **(2)** his analysis of such reports, and
   - **(3)** his actions under this chapter, and his recommendations for such further Federal actions, including any legislation, regarding retail gas utility rates (and other practices) as may be necessary to carry out the purposes of this chapter.

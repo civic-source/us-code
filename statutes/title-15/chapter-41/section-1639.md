@@ -3,9 +3,9 @@ title: "Section 1639 - Requirements for certain mortgages"
 usc_title: 15
 usc_section: "1639"
 chapter: 41
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 1639"
-generated_at: "2026-03-29T18:04:29.587Z"
+generated_at: "2026-03-29T18:24:08.468Z"
 ---
 
 # § 1639. Requirements for certain mortgages
@@ -55,7 +55,7 @@ generated_at: "2026-03-29T18:04:29.587Z"
 - **(n)** Any mortgage that contains a provision prohibited by this section shall be deemed a failure to deliver the material disclosures required under this subchapter, for the purpose of section 1635 of this title .
 - **(o)** For purposes of this section, the term “affiliate” has the same meaning as in section 1841(k) of title 12 .
 - **(p)**
-  - **(1)** The Bureau may, by regulation or order, exempt specific mortgage products or categories of mortgages from any or all of the prohibitions specified in subsections (c) through (i) of this section, if the Bureau finds that the exemption—
+  - **(1)** The Bureau may, by regulation or order, exempt specific mortgage products or categories of mortgages from any or all of the prohibitions specified in subsections (c) through (i), if the Bureau finds that the exemption—
     - **(A)** is in the interest of the borrowing public; and
     - **(B)** will apply only to products that maintain and strengthen home ownership and equity protection.
   - **(2)** The Bureau, by regulation or order, shall prohibit acts or practices in connection with—

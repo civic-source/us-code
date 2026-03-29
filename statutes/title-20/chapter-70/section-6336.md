@@ -1,23 +1,14 @@
 ---
-title: "Section 6336 - Adequacy of funding of targeted grants to local educational agencies in fiscal years after fiscal year 2001"
+title: "Section 6336 - Adequacy of funding to local educational agencies in fiscal years after fiscal year 2001"
 usc_title: 20
 usc_section: "6336"
 chapter: 70
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 6336"
-generated_at: "2026-03-29T18:05:00.307Z"
+generated_at: "2026-03-29T18:24:41.120Z"
 ---
 
-# § 6336. Adequacy of funding of targeted grants to local educational agencies in fiscal years after fiscal year 2001
+# § 6336. Adequacy of funding to local educational agencies in fiscal years after fiscal year 2001
 
-- **(a)** Congress makes the following findings:
-  - **(1)** The current Basic Grant Formula for the distribution of funds under this part often does not provide funds for the economically disadvantaged students for which such funds are targeted.
-  - **(2)** Any school district in which more than 2 percent of the students live below the poverty level qualifies for funding under the Basic Grant Formula. As a result, 9 out of every 10 school districts in the country receive some form of aid under the Formula.
-  - **(3)** Fifty-eight percent of all schools receive at least some funding under this part, including many suburban schools with predominantly well-off students.
-  - **(4)** One out of every 5 schools with concentrations of poor students between 50 and 75 percent receive no funding at all under this part.
-  - **(5)** In passing the Improving America’s Schools Act in 1994, Congress declared that grants under this part would more sharply target high poverty schools by using the Targeted Grant Formula, but annual appropriation Acts have prevented the use of that Formula.
-  - **(6)** The advantage of the Targeted Grant Formula over other funding formulas under this part is that the Targeted Grant Formula provides increased grants per poor child as the percentage of economically disadvantaged children in a school district increases.
-  - **(7)** Studies have found that the poverty of a child’s family is much more likely to be associated with educational disadvantage if the family lives in an area with large concentrations of poor families.
-  - **(8)** States with large populations of high poverty students would receive significantly more funding if more funds under this part were allocated through the Targeted Grant Formula.
-  - **(9)** Congress has an obligation to allocate funds under this part so that such funds will positively affect the largest number of economically disadvantaged students.
-- **(b)** Pursuant to section 6332 of this title , the total amount allocated in any fiscal year after fiscal year 2001 for programs and activities under this part shall not exceed the amount allocated in fiscal year 2001 for such programs and activities unless the amount available for targeted grants to local educational agencies under section 6335 of this title in the applicable fiscal year meets the requirements of section 6332(a) of this title .
+Pursuant to section 6332 of this title , the total amount allocated in any fiscal year after fiscal year 2001 for programs and activities under this part shall not exceed the amount allocated in fiscal year 2001 for such programs and activities unless the amount available for targeted grants to local educational agencies under section 6335 of this title in the applicable fiscal year meets the requirements of section 6332(a) of this title .
+

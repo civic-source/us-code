@@ -3,9 +3,9 @@ title: "Section 292s - Medical schools and primary health care"
 usc_title: 42
 usc_section: "292s"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 292s"
-generated_at: "2026-03-29T18:07:13.468Z"
+generated_at: "2026-03-29T18:27:02.689Z"
 ---
 
 # § 292s. Medical schools and primary health care
@@ -53,8 +53,8 @@ generated_at: "2026-03-29T18:07:13.468Z"
   - **(6)** Each agreement under section 292q of this title with a school of medicine or osteopathic medicine shall provide that the school will submit to the Secretary a report for each 1-year period under paragraph (1) that provides such information as the Secretary determines to be necessary for carrying out this subsection. Each such report shall include statistics concerning the current training or practice status of all graduates of such school whose date of graduation from the school occurred approximately 4 years before the end of the 1-year period involved.
 - **(c)** For purposes of this section:
   - **(1)** The term “exempt contributions” means exempt Federal capital contributions and exempt school contributions.
-  - **(2)** The term “exempt Federal capital contribution” means a Federal capital contribution described in subclause (I) of subsection (a)(2)(A)(ii) of this section.
-  - **(3)** The term “exempt school contribution” means a school contribution described in subclause (II) of subsection (a)(2)(A)(ii) of this section.
+  - **(2)** The term “exempt Federal capital contribution” means a Federal capital contribution described in subclause (I) of subsection (a)(2)(A)(ii).
+  - **(3)** The term “exempt school contribution” means a school contribution described in subclause (II) of subsection (a)(2)(A)(ii).
   - **(4)** The term “income”, with respect to a student fund under section 292q of this title , means payments of principal and interest on any loan made from the fund, and any other earnings of the fund.
   - **(5)** The term “primary health care” means family medicine, general internal medicine, general pediatrics, preventive medicine, or osteopathic general practice.
 - **(d)** It is the sense of Congress that funds repaid under the loan program under this section should not be transferred to the Treasury of the United States or otherwise used for any other purpose other than to carry out this section.

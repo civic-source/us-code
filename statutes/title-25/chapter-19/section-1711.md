@@ -1,14 +1,12 @@
 ---
-title: "Section 1711 - Limitation of actions; jurisdiction"
+title: "Section 1711 - Omitted"
 usc_title: 25
 usc_section: "1711"
 chapter: 19
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1711"
-generated_at: "2026-03-29T18:05:17.173Z"
+generated_at: "2026-03-29T18:25:23.750Z"
 ---
 
-# § 1711. Limitation of actions; jurisdiction
-
-Notwithstanding any other provision of law, any action to contest the constitutionality of this subchapter shall be barred unless the complaint is filed within one hundred and eighty days of September 30, 1978 . Exclusive jurisdiction over any such action is hereby vested in the United States District Court for the District of Rhode Island.
+# § 1711. Omitted
 

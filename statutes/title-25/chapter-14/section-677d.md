@@ -1,14 +1,12 @@
 ---
-title: "Section 677d - Restriction of tribe to full-blood members after publication of final rolls; non-interest of mixed-blood members; new membership"
+title: "Section 677d - Omitted"
 usc_title: 25
 usc_section: "677d"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 677d"
-generated_at: "2026-03-29T18:05:17.085Z"
+generated_at: "2026-03-29T18:25:23.699Z"
 ---
 
-# § 677d. Restriction of tribe to full-blood members after publication of final rolls; non-interest of mixed-blood members; new membership
-
-Effective on the date of publication of the final rolls as provided in section 677g of this title the tribe shall thereafter consist exclusively of full-blood members. Mixed-blood members shall have no interest therein except as otherwise provided in this subchapter. New membership in the tribe shall thereafter be controlled and determined by the constitution and bylaws of the tribe and ordinances enacted thereunder.
+# § 677d. Omitted
 

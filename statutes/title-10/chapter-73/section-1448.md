@@ -3,9 +3,9 @@ title: "Section 1448 - Application of Plan"
 usc_title: 10
 usc_section: "1448"
 chapter: 73
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 1448"
-generated_at: "2026-03-29T18:04:13.082Z"
+generated_at: "2026-03-29T18:23:51.825Z"
 ---
 
 # § 1448. Application of Plan
@@ -96,6 +96,18 @@ generated_at: "2026-03-29T18:04:13.082Z"
   - **(5)** A person who elects to provide an annuity to a former spouse under paragraph (2) or (3) shall, at the time of making the election, provide the Secretary concerned with a written statement (in a form to be prescribed by that Secretary and signed by such person and the former spouse) setting forth—
     - **(A)** whether the election is being made pursuant to the requirements of a court order; or
     - **(B)** whether the election is being made pursuant to a written agreement previously entered into voluntarily by such person as a part of, or incident to, a proceeding of divorce, dissolution, or annulment and (if so) whether such voluntary written agreement has been incorporated in, or ratified or approved by, a court order.
+  - **(6)** A person who has established a supplemental or special needs trust under subparagraph (A) or (C) of section 1917(d)(4) of the Social Security Act ( 42 U.S.C. 1396p(d)(4) ) for the sole benefit of a dependent child considered disabled under section 1614(a)(3) of that Act ( 42 U.S.C. 1382c(a)(3) ) who is incapable of self-support because of mental or physical incapacity may elect to provide an annuity to that supplemental or special needs trust.
+  - **(7)**
+    - **(A)** A person who elects to provide an annuity to a former spouse under paragraph (2) or (3) and whose former spouse subsequently dies is no longer a participant in the Plan, effective on the date of death of the former spouse.
+    - **(B)** If a person’s participation in the Plan is discontinued by reason of the death of a former spouse beneficiary, the person may elect to resume participation in the Plan and to elect a new spouse beneficiary as follows:
+      - **(i)** A person who is married at the time of the death of the former spouse beneficiary may elect to provide coverage to that person’s spouse. Such an election must be received by the Secretary concerned within one year after the date of death of the former spouse beneficiary.
+      - **(ii)** A person who is not married at the time of the death of the former spouse beneficiary and who later marries may elect to provide spouse coverage. Such an election must be received by the Secretary concerned within one year after the date on which that person marries.
+    - **(C)** The effective date of election under this paragraph shall be as follows:
+      - **(i)** An election under subparagraph (B)(i) is effective as of the first day of the first calendar month following the death of the former spouse beneficiary.
+      - **(ii)** An election under subparagraph (B)(ii) is effective as of the first day of the first calendar month following the month in which the election is received by the Secretary concerned.
+    - **(D)** A person making an election under subparagraph (B) may not reduce the base amount previously elected.
+    - **(E)** An election under this paragraph shall be in writing, signed by the participant, and made in such form and manner as the Secretary concerned may prescribe.
+    - **(F)** An election under this paragraph is irrevocable.
 - **(c)** The application of the Plan to a person whose name is on the temporary disability retired list terminates when his name is removed from that list and he is no longer entitled to disability retired pay.
 - **(d)**
   - **(1)** Except as provided in paragraph (2)(B), the Secretary concerned shall pay an annuity under this subchapter to the surviving spouse of—
@@ -105,8 +117,8 @@ generated_at: "2026-03-29T18:04:13.082Z"
       - **(iii)** completing 20 years of active service but before the member is eligible to retire as a commissioned officer because the member has not completed 10 years of active commissioned service; or
     - **(B)** a member not described in subparagraph (A) who dies in line of duty while on active duty.
   - **(2)**
-    - **(A)** In the case of a member described in paragraph (1), the Secretary concerned shall pay an annuity under this subchapter to the member’s dependent children under section 1450(a)(2) of this title as applicable.
-    - **(B)** In the case of a member described in paragraph (1) who dies after October 7, 2001 , and for whom there is a surviving spouse eligible for an annuity under paragraph (1), the Secretary may pay an annuity under this subchapter to the member’s dependent children under section 1450(a)(3) of this title , if applicable, instead of paying an annuity to the surviving spouse under paragraph (1), if the Secretary concerned, in consultation with the surviving spouse, determines it appropriate to provide an annuity for the dependent children under this paragraph instead of an annuity for the surviving spouse under paragraph (1).
+    - **(A)** In the case of a member described in paragraph (1), the Secretary concerned shall pay an annuity under this subchapter to the member’s dependent children under subsection (a)(2) or (a)(4) of section 1450 of this title as applicable.
+    - **(B)** In the case of a member described in paragraph (1) who dies after October 7, 2001 , and for whom there is a surviving spouse eligible for an annuity under paragraph (1), the Secretary may pay an annuity under this subchapter to the member’s dependent children under subsection (a)(3) or (a)(4) of section 1450 of this title , if applicable, instead of paying an annuity to the surviving spouse under paragraph (1), if the Secretary concerned, in consultation with the surviving spouse, determines it appropriate to provide an annuity for the dependent children under this paragraph instead of an annuity for the surviving spouse under paragraph (1).
   - **(3)** If a member described in paragraph (1) is required under a court order or spousal agreement to provide an annuity to a former spouse upon becoming eligible to be a participant in the Plan or has made an election under subsection (b) to provide an annuity to a former spouse, the Secretary—
     - **(A)** may not pay an annuity under paragraph (1) or (2); but
     - **(B)** shall pay an annuity to that former spouse as if the member had been a participant in the Plan and had made an election under subsection (b) to provide an annuity to the former spouse, or in accordance with that election, as the case may be, if the Secretary receives a written request from the former spouse concerned that the election be deemed to have been made in the same manner as provided in section 1450(f)(3) of this title .
@@ -124,7 +136,7 @@ generated_at: "2026-03-29T18:04:13.082Z"
       - **(i)** before being notified under section 12731(d) of this title that he has completed the years of service required for eligibility for reserve-component retired pay; or
       - **(ii)** during the 90-day period beginning on the date he receives notification under section 12731(d) of this title that he has completed the years of service required for eligibility for reserve-component retired pay if he had not made an election under subsection (a)(2)(B) to participate in the Plan; or
     - **(B)** is a member of a reserve component not described in subparagraph (A) and dies from an injury or illness incurred or aggravated in the line of duty during inactive-duty training.
-  - **(2)** The Secretary concerned shall pay an annuity under this subchapter to the dependent child of a person described in paragraph (1) if there is no surviving spouse or if the person’s surviving spouse subsequently dies.
+  - **(2)** The Secretary concerned shall pay an annuity under this subchapter to the dependent child, or to a special needs trust pursuant to section 1450(a)(4) of this title , of a person described in paragraph (1) if there is no surviving spouse or if the person’s surviving spouse subsequently dies.
   - **(3)** If a person described in paragraph (1) is required under a court order or spousal agreement to provide an annuity to a former spouse upon becoming eligible to be a participant in the Plan or has made an election under subsection (b) to provide an annuity to a former spouse, the Secretary—
     - **(A)** may not pay an annuity under paragraph (1) or (2); but
     - **(B)** shall pay an annuity to that former spouse as if the person had been a participant in the Plan and had made an election under subsection (b) to provide an annuity to the former spouse, or in accordance with that election, as the case may be, if the Secretary receives a written request from the former spouse concerned that the election be deemed to have been made in the same manner as provided in section 1450(f)(3) of this title .

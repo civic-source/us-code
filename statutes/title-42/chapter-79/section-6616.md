@@ -3,15 +3,15 @@ title: "Section 6616 - Additional functions of Director"
 usc_title: 42
 usc_section: "6616"
 chapter: 79
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 6616"
-generated_at: "2026-03-29T18:07:14.784Z"
+generated_at: "2026-03-29T18:27:03.718Z"
 ---
 
 # § 6616. Additional functions of Director
 
 - **(a)** The Director shall, in addition to the other duties and functions set forth in this subchapter—
-  - **(1)** serve as Chairman of the Federal Coordinating Council for Science, Engineering, and Technology established under subchapter IV of this chapter; and
+  - **(1)** serve as Chairman of the Federal Coordinating Council for Science, Engineering, and Technology established under subchapter IV; and
   - **(2)** serve as a member of the Domestic Council.
 - **(b)** For the purpose of assuring the optimum contribution of science and technology to the national security, the Director, at the request of the National Security Council, shall advise the National Security Council in such matters concerning science and technology as relate to national security.
 - **(c)** In carrying out his functions under this chapter, the Director is authorized to—

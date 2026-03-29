@@ -3,9 +3,9 @@ title: "Section 2350 - Corrosion prevention"
 usc_title: 33
 usc_section: "2350"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 2350"
-generated_at: "2026-03-29T02:14:18.633Z"
+generated_at: "2026-03-29T18:26:01.306Z"
 ---
 
 # § 2350. Corrosion prevention
@@ -23,13 +23,5 @@ generated_at: "2026-03-29T02:14:18.633Z"
   - **(6)** demonstrate a history of compliance with applicable requirements of the Occupational Safety and Health Administration.
 - **(c)** In this section, the term “corrosion prevention activities” means—
   - **(1)** the application and inspection of protective coatings for complex work involving steel and cementitious structures, including structures that will be exposed in immersion;
-  - **(2)** the installation, testing, and inspection of cathodic protection systems;
-  - **(3)** the carrying out of an activity described in paragraph (1) or (2) through a program in corrosion prevention that is—
-    - **(A)** offered or accredited by an organization that sets industry standards for corrosion mitigation and prevention; or
-    - **(B)** an industrial coatings applicator program that is—
-      - **(i)** an employment and training activity (as defined in section 3102 of title 29 ); or
-      - **(ii)** registered under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; 50 Stat. 664 , chapter 663; 29 U.S.C. 50 et seq.); and
-  - **(4)** any other activities related to corrosion prevention the Secretary determines appropriate.
-- **(d)** In the first annual report submitted to Congress after December 16, 2016 , in accordance with section 556 of this title , and section 2295(b) of this title , the Secretary shall report on the corrosion prevention activities encouraged under this section, including—
-  - **(1)** a description of the actions the Secretary has taken to implement this section; and
-  - **(2)** a description of the projects utilizing corrosion prevention activities, including which activities were undertaken.
+  - **(2)** the installation, testing, and inspection of cathodic protection systems; and
+  - **(3)** any other activities related to corrosion prevention the Secretary determines appropriate.

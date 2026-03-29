@@ -3,9 +3,9 @@ title: "Section 13001b - Regional children’s advocacy centers"
 usc_title: 42
 usc_section: "13001b"
 chapter: 132
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 13001b"
-generated_at: "2026-03-29T18:07:15.296Z"
+generated_at: "2026-03-29T18:27:04.101Z"
 ---
 
 # § 13001b. Regional children’s advocacy centers
@@ -36,7 +36,7 @@ generated_at: "2026-03-29T18:07:15.296Z"
 - **(c)**
   - **(1)** Not later than 1 year after November 4, 1992 , the Administrator shall solicit proposals for assistance under this section.
   - **(2)** In order for a proposal to be selected, the Administrator may require an applicant to have in existence, at the time the proposal is submitted, 1 or more of the following:
-    - **(A)** A proven record in conducting activities of the kinds described in subsection (c) of this section.
+    - **(A)** A proven record in conducting activities of the kinds described in subsection (c).
     - **(B)** A facility where children who are victims of sexual or physical abuse and their nonoffending family members can go for the purpose of evaluation, intervention, evidence gathering, and counseling.
     - **(C)** Multidisciplinary staff experienced in providing remedial counseling to children and families.
     - **(D)** Experience in serving as a center for training and education and as a resource facility.
@@ -59,7 +59,7 @@ generated_at: "2026-03-29T18:07:15.296Z"
     - **(B)** The Administrator, in coordination with the Director, shall select proposals for funding that—
       - **(i)** best result in developing and establishing multidisciplinary programs that respond to child abuse by assisting, training, and teaching community agencies and professionals called upon to respond to child abuse cases;
       - **(ii)** assist in resolving problems that may occur during the development, operation, and implementation of a multidisciplinary program that responds to child abuse;
-      - **(iii)** carry out the objectives developed by the board under subsection (e)(2)(A) of this section;
+      - **(iii)** carry out the objectives developed by the board under subsection (e)(2)(A);
       - **(iv)** to the greatest extent possible and subject to available appropriations, ensure that at least 1 applicant is selected from each of the 4 census regions of the country; and
       - **(v)** otherwise best carry out the purposes of this section.
   - **(5)** From amounts made available in separate appropriation Acts, the Administrator shall provide to each grant recipient the financial and technical assistance and other incentives that are necessary and appropriate to carry out this section.
@@ -71,7 +71,7 @@ generated_at: "2026-03-29T18:07:15.296Z"
     - **(B)** states whether changes are needed and are being made to carry out the purpose of the children’s advocacy program.
   - **(3)**
     - **(A)** If a grant recipient under this section substantially fails in the implementation of the program activities, the Administrator shall not discontinue funding until reasonable notice and an opportunity for reconsideration is given.
-    - **(B)** Upon discontinuation of funding of a grant recipient under this section, the Administrator shall solicit new proposals in accordance with subsection (c) of this section.
+    - **(B)** Upon discontinuation of funding of a grant recipient under this section, the Administrator shall solicit new proposals in accordance with subsection (c).
 - **(e)**
   - **(1)**
     - **(A)** Not later than 120 days after November 4, 1992 , the Administrator and the Director, after consulting with representatives of community agencies that respond to child abuse cases, shall establish a children’s advocacy advisory board to provide guidance and oversight in implementing the selection criteria and operation of the regional children’s advocacy program.
@@ -82,7 +82,7 @@ generated_at: "2026-03-29T18:07:15.296Z"
         - **(III)** shall have members appointed for a term not to exceed 3 years.
       - **(ii)** Members of the board may be reappointed for successive terms.
   - **(2)**
-    - **(A)** Not later than 180 days after November 4, 1992 , and annually thereafter, the board shall develop and submit to the Administrator and the Director objectives for the implementation of the children’s advocacy program activities described in subsection (b) of this section.
+    - **(A)** Not later than 180 days after November 4, 1992 , and annually thereafter, the board shall develop and submit to the Administrator and the Director objectives for the implementation of the children’s advocacy program activities described in subsection (b).
     - **(B)** The board shall annually—
       - **(i)** review the solicitation and selection of children’s advocacy program proposals and make recommendations concerning how each such activity can be altered so as to better achieve the purposes of this section; and
       - **(ii)** review the program activities and management plan of each grant recipient and report its findings and recommendations to the Administrator and the Director.

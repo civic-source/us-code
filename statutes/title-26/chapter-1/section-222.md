@@ -3,9 +3,9 @@ title: "Section 222 - Qualified tuition and related expenses"
 usc_title: 26
 usc_section: "222"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 222"
-generated_at: "2026-03-29T18:05:44.544Z"
+generated_at: "2026-03-29T18:25:53.490Z"
 ---
 
 # § 222. Qualified tuition and related expenses
@@ -38,5 +38,8 @@ generated_at: "2026-03-29T18:05:44.544Z"
     - **(B)** Subparagraph (A) shall not apply to qualified tuition and related expenses paid during a taxable year if such expenses are in connection with an academic term beginning during such taxable year or during the first 3 months of the next taxable year.
   - **(4)** If the taxpayer is a married individual (within the meaning of section 7703), this section shall apply only if the taxpayer and the taxpayer’s spouse file a joint return for the taxable year.
   - **(5)** If the taxpayer is a nonresident alien individual for any portion of the taxable year, this section shall apply only if such individual is treated as a resident alien of the United States for purposes of this chapter by reason of an election under subsection (g) or (h) of section 6013.
-  - **(6)** The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations requiring recordkeeping and information reporting.
-- **(e)** This section shall not apply to taxable years beginning after December 31, 2013 .
+  - **(6)**
+    - **(A)** Except as otherwise provided by the Secretary, no deduction shall be allowed under subsection (a) unless the taxpayer receives a statement furnished under section 6050S(d) which contains all of the information required by paragraph (2) thereof.
+    - **(B)** The receipt of the statement referred to in subparagraph (A) by an individual described in subsection (c)(3) shall be treated for purposes of subparagraph (A) as received by the taxpayer.
+  - **(7)** The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations requiring recordkeeping and information reporting.
+- **(e)** This section shall not apply to taxable years beginning after December 31, 2016 .

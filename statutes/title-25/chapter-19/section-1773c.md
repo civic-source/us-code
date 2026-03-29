@@ -1,14 +1,12 @@
 ---
-title: "Section 1773c - Future trust lands"
+title: "Section 1773c - Omitted"
 usc_title: 25
 usc_section: "1773c"
 chapter: 19
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1773c"
-generated_at: "2026-03-29T18:05:17.181Z"
+generated_at: "2026-03-29T18:25:23.751Z"
 ---
 
-# § 1773c. Future trust lands
-
-In accepting lands in trust (other than those described in section 1773b of this title ) for the Puyallup Tribe or its members, the Secretary shall exercise the authority provided him in section 465 of this title , and shall apply the standards set forth in part 151 of title 25, Code of Federal Regulations, as those standards now exist or as they may be amended in the future.
+# § 1773c. Omitted
 

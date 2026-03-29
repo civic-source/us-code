@@ -3,9 +3,9 @@ title: "Section 7034 - Federal Crop Insurance Corporation and Risk Management Ag
 usc_title: 7
 usc_section: "7034"
 chapter: 98
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 7034"
-generated_at: "2026-03-29T18:04:05.098Z"
+generated_at: "2026-03-29T18:23:43.496Z"
 ---
 
 # § 7034. Federal Crop Insurance Corporation and Risk Management Agency
@@ -19,4 +19,4 @@ generated_at: "2026-03-29T18:04:05.098Z"
     - **(A)** the location and type of data to be made available to agricultural producers;
     - **(B)** the location where agricultural producers can electronically file their paperwork; and
     - **(C)** the responsibilities of the applicable parties, including agricultural producers, the Risk Management Agency, the Federal Crop Insurance Corporation, approved insurance providers, crop insurance agents, and brokers.
-- **(c)** Not later than December 1, 2001 , the Federal Crop Insurance Corporation and the Risk Management Agency shall complete implementation of the plan submitted under subsection (a) of this section.
+- **(c)** Not later than December 1, 2001 , the Federal Crop Insurance Corporation and the Risk Management Agency shall complete implementation of the plan submitted under subsection (a).

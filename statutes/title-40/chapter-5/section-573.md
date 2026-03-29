@@ -3,9 +3,9 @@ title: "Section 573 - Personal property"
 usc_title: 40
 usc_section: "573"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "40 U.S.C. § 573"
-generated_at: "2026-03-29T18:06:19.951Z"
+generated_at: "2026-03-29T18:26:04.556Z"
 ---
 
 # § 573. Personal property

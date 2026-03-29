@@ -3,9 +3,9 @@ title: "Section 6271 - International oil allocations"
 usc_title: 42
 usc_section: "6271"
 chapter: 77
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 6271"
-generated_at: "2026-03-29T18:07:14.734Z"
+generated_at: "2026-03-29T18:27:03.676Z"
 ---
 
 # § 6271. International oil allocations
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T18:07:14.734Z"
 - **(c)**
   - **(1)** Any rule under this section shall be consistent with the attainment, to the maximum extent practicable, of the objectives specified in section 753(b)(1) 1 of title 15.
   - **(2)** No officer or agency of the United States shall have any authority, other than authority under this section, to require that petroleum products be allocated to other countries for the purpose of implementation of the obligations of the United States under the international energy program.
-- **(d)** Neither section 6212 of this title nor section 185(u) of title 30 shall preclude the allocation and export, to other countries in accordance with this section, of petroleum products produced in the United States.
+- **(d)** Neither section 6212 1 of this title nor section 185(u) of title 30 shall preclude the allocation and export, to other countries in accordance with this section, of petroleum products produced in the United States.
 - **(e)** No rule under this section may be put into effect unless—
   - **(1)** an international energy supply emergency, as defined in the first sentence of section 6272(k)(1) of this title , is in effect; and
   - **(2)** the allocation of available oil referred to in chapter III of the international energy program has been activated pursuant to chapter IV of such program.

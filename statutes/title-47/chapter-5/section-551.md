@@ -3,9 +3,9 @@ title: "Section 551 - Protection of subscriber privacy"
 usc_title: 47
 usc_section: "551"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "47 U.S.C. § 551"
-generated_at: "2026-03-29T18:07:40.879Z"
+generated_at: "2026-03-29T18:27:09.584Z"
 ---
 
 # § 551. Protection of subscriber privacy
@@ -15,9 +15,9 @@ generated_at: "2026-03-29T18:07:40.879Z"
     - **(A)** the nature of personally identifiable information collected or to be collected with respect to the subscriber and the nature of the use of such information;
     - **(B)** the nature, frequency, and purpose of any disclosure which may be made of such information, including an identification of the types of persons to whom the disclosure may be made;
     - **(C)** the period during which such information will be maintained by the cable operator;
-    - **(D)** the times and place at which the subscriber may have access to such information in accordance with subsection (d) of this section; and
-    - **(E)** the limitations provided by this section with respect to the collection and disclosure of information by a cable operator and the right of the subscriber under subsections (f) and (h) of this section to enforce such limitations.
-  - **(2)** For purposes of this section, other than subsection (h) of this section—
+    - **(D)** the times and place at which the subscriber may have access to such information in accordance with subsection (d); and
+    - **(E)** the limitations provided by this section with respect to the collection and disclosure of information by a cable operator and the right of the subscriber under subsections (f) and (h) to enforce such limitations.
+  - **(2)** For purposes of this section, other than subsection (h)—
     - **(A)** the term “personally identifiable information” does not include any record of aggregate data which does not identify particular persons;
     - **(B)** the term “other service” includes any wire or radio communications service provided using any of the facilities of a cable operator that are used in the provision of cable service; and
     - **(C)** the term “cable operator” includes, in addition to persons within the definition of cable operator in section 522 of this title , any person who (i) is owned or controlled by, or under common ownership or control with, a cable operator, and (ii) provides any wire or radio communications service.
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T18:07:40.879Z"
   - **(1)** Except as provided in paragraph (2), a cable operator shall not disclose personally identifiable information concerning any subscriber without the prior written or electronic consent of the subscriber concerned and shall take such actions as are necessary to prevent unauthorized access to such information by a person other than the subscriber or cable operator.
   - **(2)** A cable operator may disclose such information if the disclosure is—
     - **(A)** necessary to render, or conduct a legitimate business activity related to, a cable service or other service provided by the cable operator to the subscriber;
-    - **(B)** subject to subsection (h) of this section, made pursuant to a court order authorizing such disclosure, if the subscriber is notified of such order by the person to whom the order is directed;
+    - **(B)** subject to subsection (h), made pursuant to a court order authorizing such disclosure, if the subscriber is notified of such order by the person to whom the order is directed;
     - **(C)** a disclosure of the names and addresses of subscribers to any cable service or other service, if—
       - **(i)** the cable operator has provided the subscriber the opportunity to prohibit or limit such disclosure, and
       - **(ii)** the disclosure does not reveal, directly or indirectly, the—
@@ -38,7 +38,7 @@ generated_at: "2026-03-29T18:07:40.879Z"
         - **(II)** the nature of any transaction made by the subscriber over the cable system of the cable operator; or
     - **(D)** to a government entity as authorized under chapters 119, 121, or 206 of title 18, except that such disclosure shall not include records revealing cable subscriber selection of video programming from a cable operator.
 - **(d)** A cable subscriber shall be provided access to all personally identifiable information regarding that subscriber which is collected and maintained by a cable operator. Such information shall be made available to the subscriber at reasonable times and at a convenient place designated by such cable operator. A cable subscriber shall be provided reasonable opportunity to correct any error in such information.
-- **(e)** A cable operator shall destroy personally identifiable information if the information is no longer necessary for the purpose for which it was collected and there are no pending requests or orders for access to such information under subsection (d) of this section or pursuant to a court order.
+- **(e)** A cable operator shall destroy personally identifiable information if the information is no longer necessary for the purpose for which it was collected and there are no pending requests or orders for access to such information under subsection (d) or pursuant to a court order.
 - **(f)**
   - **(1)** Any person aggrieved by any act of a cable operator in violation of this section may bring a civil action in a United States district court.
   - **(2)** The court may award—
@@ -47,6 +47,6 @@ generated_at: "2026-03-29T18:07:40.879Z"
     - **(C)** reasonable attorneys’ fees and other litigation costs reasonably incurred.
   - **(3)** The remedy provided by this section shall be in addition to any other lawful remedy available to a cable subscriber.
 - **(g)** Nothing in this subchapter shall be construed to prohibit any State or any franchising authority from enacting or enforcing laws consistent with this section for the protection of subscriber privacy.
-- **(h)** Except as provided in subsection (c)(2)(D) of this section, a governmental entity may obtain personally identifiable information concerning a cable subscriber pursuant to a court order only if, in the court proceeding relevant to such court order—
+- **(h)** Except as provided in subsection (c)(2)(D), a governmental entity may obtain personally identifiable information concerning a cable subscriber pursuant to a court order only if, in the court proceeding relevant to such court order—
   - **(1)** such entity offers clear and convincing evidence that the subject of the information is reasonably suspected of engaging in criminal activity and that the information sought would be material evidence in the case; and
   - **(2)** the subject of the information is afforded the opportunity to appear and contest such entity’s claim.

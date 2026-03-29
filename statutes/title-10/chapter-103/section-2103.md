@@ -3,9 +3,9 @@ title: "Section 2103 - Eligibility for membership"
 usc_title: 10
 usc_section: "2103"
 chapter: 103
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2103"
-generated_at: "2026-03-29T18:04:13.115Z"
+generated_at: "2026-03-29T18:23:51.872Z"
 ---
 
 # § 2103. Eligibility for membership

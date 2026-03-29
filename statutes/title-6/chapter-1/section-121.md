@@ -3,9 +3,9 @@ title: "Section 121 - Information and Analysis and Infrastructure Protection"
 usc_title: 6
 usc_section: "121"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "6 U.S.C. § 121"
-generated_at: "2026-03-29T18:03:43.228Z"
+generated_at: "2026-03-29T18:23:35.724Z"
 ---
 
 # § 121. Information and Analysis and Infrastructure Protection
@@ -74,7 +74,7 @@ generated_at: "2026-03-29T18:03:43.228Z"
     - **(G)** Any other agency of the Federal Government that the President considers appropriate.
   - **(3)** The Secretary and the head of the agency concerned may enter into cooperative agreements for the purpose of detailing personnel under this subsection.
   - **(4)** The detail of personnel under this subsection may be on a reimbursable or non-reimbursable basis.
-- **(g)** In accordance with subchapter XII of this chapter, there shall be transferred to the Secretary, for assignment to the Office of Intelligence and Analysis and the Office of Infrastructure Protection under this section, the functions, personnel, assets, and liabilities of the following:
+- **(g)** In accordance with subchapter XII, there shall be transferred to the Secretary, for assignment to the Office of Intelligence and Analysis and the Office of Infrastructure Protection under this section, the functions, personnel, assets, and liabilities of the following:
   - **(1)** The National Infrastructure Protection Center of the Federal Bureau of Investigation (other than the Computer Investigations and Operations Section), including the functions of the Attorney General relating thereto.
   - **(2)** The National Communications System of the Department of Defense, including the functions of the Secretary of Defense relating thereto.
   - **(3)** The Critical Infrastructure Assurance Office of the Department of Commerce, including the functions of the Secretary of Commerce relating thereto.

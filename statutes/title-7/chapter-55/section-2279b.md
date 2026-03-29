@@ -3,9 +3,9 @@ title: "Section 2279b - Department of Agriculture educational, training, and pro
 usc_title: 7
 usc_section: "2279b"
 chapter: 55
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 2279b"
-generated_at: "2026-03-29T18:04:04.985Z"
+generated_at: "2026-03-29T18:23:43.392Z"
 ---
 
 # § 2279b. Department of Agriculture educational, training, and professional development activities
@@ -54,4 +54,4 @@ generated_at: "2026-03-29T18:04:04.985Z"
   - **(4)** dispose of real and personal property without regard to chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 - **(i)** The Graduate School may enter into contracts without regard to chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 or any other law that prescribes procedures for the procurement of property or services by an executive agency.
 - **(j)** The Graduate School may use the facilities and resources of the Department of Agriculture, on the condition that any costs incurred by the Department that are attributable solely to Graduate School operations and all costs incurred by the Graduate School arising out of such operations shall be paid using funds of the Graduate School. Federal funds may not be used to pay the costs.
-- **(k)** The financial records of the Graduate School (including records relating to contracts or agreements entered into under subsection (c) of this section) shall be made available to the Comptroller General for purposes of conducting an audit.
+- **(k)** The financial records of the Graduate School (including records relating to contracts or agreements entered into under subsection (c)) shall be made available to the Comptroller General for purposes of conducting an audit.

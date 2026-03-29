@@ -1,14 +1,12 @@
 ---
-title: "Section 530 - Capital reserve fund; interest for administrative expenses"
+title: "Section 530 - Omitted"
 usc_title: 25
 usc_section: "530"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 530"
-generated_at: "2026-03-29T18:05:17.068Z"
+generated_at: "2026-03-29T18:25:23.696Z"
 ---
 
-# § 530. Capital reserve fund; interest for administrative expenses
-
-The Secretary of the Interior shall cause to be established on the books of the Treasury, out of any unobligated tribal funds of the Indians of the Klamath Reservation in Oregon (hereinafter referred to as the “Klamath Indians”) on deposit in the Treasury of the United States, a capital reserve fund for said Klamath Indians. Such fund shall be created by setting aside the sum of $50,000 for the fiscal year 1937, and shall be augmented by additions of $50,000 for each fiscal year thereafter. Such fund shall be held in the Treasury of the United States and shall bear interest as provided by law. The interest upon such fund shall be used, insofar as it is sufficient, for the payment of the expenses of administration of the Klamath Indian Reservation in Oregon.
+# § 530. Omitted
 

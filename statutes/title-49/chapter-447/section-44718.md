@@ -3,9 +3,9 @@ title: "Section 44718 - Structures interfering with air commerce"
 usc_title: 49
 usc_section: "44718"
 chapter: 447
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 44718"
-generated_at: "2026-03-29T18:07:51.510Z"
+generated_at: "2026-03-29T18:27:16.604Z"
 ---
 
 # § 44718. Structures interfering with air commerce
@@ -14,12 +14,13 @@ generated_at: "2026-03-29T18:07:51.510Z"
   - **(1)** safety in air commerce; and
   - **(2)** the efficient use and preservation of the navigable airspace and of airport traffic capacity at public-use airports.
 - **(b)**
-  - **(1)** Under regulations prescribed by the Secretary, if the Secretary decides that constructing or altering a structure may result in an obstruction of the navigable airspace or an interference with air navigation facilities and equipment or the navigable airspace, the Secretary shall conduct an aeronautical study to decide the extent of any adverse impact on the safe and efficient use of the airspace, facilities, or equipment. In conducting the study, the Secretary shall consider factors relevant to the efficient and effective use of the navigable airspace, including—
+  - **(1)** Under regulations prescribed by the Secretary, if the Secretary decides that constructing or altering a structure may result in an obstruction of the navigable airspace or an interference with air or space navigation facilities and equipment or the navigable airspace, the Secretary shall conduct an aeronautical study to decide the extent of any adverse impact on the safe and efficient use of the airspace, facilities, or equipment. In conducting the study, the Secretary shall consider factors relevant to the efficient and effective use of the navigable airspace, including—
     - **(A)** the impact on arrival, departure, and en route procedures for aircraft operating under visual flight rules;
     - **(B)** the impact on arrival, departure, and en route procedures for aircraft operating under instrument flight rules;
     - **(C)** the impact on existing public-use airports and aeronautical facilities;
-    - **(D)** the impact on planned public-use airports and aeronautical facilities; and
-    - **(E)** the cumulative impact resulting from the proposed construction or alteration of a structure when combined with the impact of other existing or proposed structures.
+    - **(D)** the impact on planned public-use airports and aeronautical facilities;
+    - **(E)** the cumulative impact resulting from the proposed construction or alteration of a structure when combined with the impact of other existing or proposed structures; and
+    - **(F)** the impact on launch and reentry for launch and reentry vehicles arriving or departing from a launch site or reentry site licensed by the Secretary.
   - **(2)** On completing the study, the Secretary shall issue a report disclosing completely the extent of the adverse impact on the safe and efficient use of the navigable airspace that the Secretary finds will result from constructing or altering the structure.
 - **(c)** In carrying out laws related to a broadcast application and conducting an aeronautical study related to broadcast towers, the Administrator of the Federal Aviation Administration and the Federal Communications Commission shall take action necessary to coordinate efficiently—
   - **(1)** the receipt and consideration of, and action on, the application; and

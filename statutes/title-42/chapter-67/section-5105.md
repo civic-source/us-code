@@ -3,9 +3,9 @@ title: "Section 5105 - Research and assistance activities"
 usc_title: 42
 usc_section: "5105"
 chapter: 67
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 5105"
-generated_at: "2026-03-29T18:07:14.636Z"
+generated_at: "2026-03-29T18:27:03.606Z"
 ---
 
 # § 5105. Research and assistance activities
@@ -58,7 +58,7 @@ generated_at: "2026-03-29T18:07:14.636Z"
   - **(2)** Such technical assistance may include an evaluation or identification of—
     - **(A)** various methods and procedures for the investigation, assessment, and prosecution of child physical and sexual abuse cases;
     - **(B)** ways to mitigate psychological trauma to the child victim;
-    - **(C)** effective programs carried out by the States under this subchapter and subchapter III of this chapter; and
+    - **(C)** effective programs carried out by the States under this subchapter and subchapter III; and
     - **(D)** effective approaches being utilized to link child protective service agencies with health care, mental health care, and developmental services to improve forensic diagnosis and health evaluations, and barriers and shortages to such linkages.
   - **(3)** The Secretary may provide for and disseminate information relating to various training resources available at the State and local level to—
     - **(A)** individuals who are engaged, or who intend to engage, in the prevention, identification, and treatment of child abuse and neglect; and

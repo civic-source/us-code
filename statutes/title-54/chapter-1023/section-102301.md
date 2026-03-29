@@ -3,9 +3,9 @@ title: "Section 102301 - Volunteers in parks program"
 usc_title: 54
 usc_section: "102301"
 chapter: 1023
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "54 U.S.C. § 102301"
-generated_at: "2026-03-29T02:16:35.465Z"
+generated_at: "2026-03-29T18:27:38.918Z"
 ---
 
 # § 102301. Volunteers in parks program
@@ -17,4 +17,4 @@ generated_at: "2026-03-29T02:16:35.465Z"
   - **(2)** For the purpose of sections 1346(b) and 2401(b) and chapter 171 of title 28, a volunteer under this chapter shall be deemed a Federal employee.
   - **(3)** For the purposes of subchapter I of chapter 81 of title 5, volunteers under this chapter shall be deemed civil employees of the United States within the meaning of the term “employee” as defined in section 8101 of title 5 , and subchapter I of chapter 81 of title 5 shall apply.
   - **(4)** For the purpose of claims relating to damage to, or loss of, personal property of a volunteer incident to volunteer service, a volunteer under this chapter shall be deemed a Federal employee, and section 3721 of title 31 shall apply.
-- **(d)** There is authorized to be appropriated to carry out this section not more than $9,000,000 for each fiscal year.
+- **(d)** There is authorized to be appropriated to carry out this section not more than $7,000,000 for each fiscal year.

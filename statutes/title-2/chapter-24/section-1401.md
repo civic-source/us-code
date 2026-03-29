@@ -3,14 +3,14 @@ title: "Section 1401 - Procedure for consideration of alleged violations"
 usc_title: 2
 usc_section: "1401"
 chapter: 24
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "2 U.S.C. § 1401"
-generated_at: "2026-03-29T18:03:21.791Z"
+generated_at: "2026-03-29T18:23:14.111Z"
 ---
 
 # § 1401. Procedure for consideration of alleged violations
 
-Except as otherwise provided, the procedure for consideration of alleged violations of part A of subchapter II of this chapter consists of—
+Except as otherwise provided, the procedure for consideration of alleged violations of part A of subchapter II consists of—
 
   - **(1)** counseling as provided in section 1402 of this title ;
   - **(2)** mediation as provided in section 1403 of this title ; and

@@ -3,9 +3,9 @@ title: "Section 8982 - Availability of vision benefits"
 usc_title: 5
 usc_section: "8982"
 chapter: 89
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 8982"
-generated_at: "2026-03-29T18:03:29.980Z"
+generated_at: "2026-03-29T18:23:29.981Z"
 ---
 
 # § 8982. Availability of vision benefits

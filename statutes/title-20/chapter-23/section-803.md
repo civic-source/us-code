@@ -3,9 +3,9 @@ title: "Section 803 - Matching grants to States"
 usc_title: 20
 usc_section: "803"
 chapter: 23
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 803"
-generated_at: "2026-03-29T18:05:00.023Z"
+generated_at: "2026-03-29T18:24:40.881Z"
 ---
 
 # § 803. Matching grants to States
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T18:05:00.023Z"
 - **(a)** Subject to the provisions of this chapter and in accordance with regulations prescribed by him, the Secretary may make matching grants to States to assist in—
   - **(1)** organizing, initiating, developing, or expanding programs to provide special training in skills needed for economic and efficient community development to those technical, professional, and other persons with the capacity to master and employ such skills who are, or are training to be, employed by a governmental or public body which has responsibilities for community development, or by a private nonprofit organization which is conducting or has responsibility for housing and community development programs; and
   - **(2)** supporting State and local research that is needed in connection with housing programs and needs, public improvement programing, code problems, efficient land use, urban transportation, and similar community development problems, and collecting, collating, and publishing statistics and information relating to such research.
-- **(b)** Grants may be made under subsection (a) of this section to support (1) the training of persons, especially persons of low income, in acquiring the skills needed in the management of housing for low- and moderate-income persons, and (2) research and the dissemination of information with respect to the problems involved in the management of housing for low- and moderate-income persons.
+- **(b)** Grants may be made under subsection (a) to support (1) the training of persons, especially persons of low income, in acquiring the skills needed in the management of housing for low- and moderate-income persons, and (2) research and the dissemination of information with respect to the problems involved in the management of housing for low- and moderate-income persons.
 - **(c)** No grants may be made to a State under this section unless the Secretary has approved a plan for the State which—
   - **(1)** sets forth the proposed use of the funds and the objectives to be accomplished;
   - **(2)** explains the method by which the required amounts from non-Federal sources will be obtained;

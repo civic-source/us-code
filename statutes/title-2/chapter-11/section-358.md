@@ -3,9 +3,9 @@ title: "Section 358 - Recommendations of President with respect to pay"
 usc_title: 2
 usc_section: "358"
 chapter: 11
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "2 U.S.C. § 358"
-generated_at: "2026-03-29T18:03:21.733Z"
+generated_at: "2026-03-29T18:23:14.069Z"
 ---
 
 # § 358. Recommendations of President with respect to pay

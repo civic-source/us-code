@@ -3,9 +3,9 @@ title: "Section 14043b - Grants to protect the privacy and confidentiality of vi
 usc_title: 42
 usc_section: "14043b"
 chapter: 136
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 14043b"
-generated_at: "2026-03-29T18:07:15.355Z"
+generated_at: "2026-03-29T18:27:04.144Z"
 ---
 
 # § 14043b. Grants to protect the privacy and confidentiality of victims of domestic violence, dating violence, sexual assault, and stalking

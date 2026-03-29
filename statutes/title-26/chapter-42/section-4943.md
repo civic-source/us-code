@@ -3,9 +3,9 @@ title: "Section 4943 - Taxes on excess business holdings"
 usc_title: 26
 usc_section: "4943"
 chapter: 42
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 4943"
-generated_at: "2026-03-29T18:05:44.903Z"
+generated_at: "2026-03-29T18:25:53.835Z"
 ---
 
 # § 4943. Taxes on excess business holdings
@@ -77,7 +77,7 @@ generated_at: "2026-03-29T18:05:44.903Z"
     - **(C)** a 35-percent controlled entity (as defined in section 4958(f)(3) by substituting “persons described in subparagraph (A) or (B) of section 4943(e)(2)” for “persons described in subparagraph (A) or (B) of paragraph (1)” in subparagraph (A)(i) thereof).
   - **(3)** For purposes of this subsection, rules similar to the rules of paragraphs (4), (5), and (6) of subsection (c) shall apply to donor advised funds (as so defined), except that—
     - **(A)** “the date of the enactment of this subsection” shall be substituted for “ May 26, 1969 ” each place it appears in paragraphs (4), (5), and (6), and
-    - **(B)** “ January 1, 2007 ” shall be substituted for “ January 1, 1970 ” in paragraph (4)(E).
+    - **(B)** “ January 1, 2007 ” shall be substituted for “ January 1, 1971 ” in paragraph (4)(E).
 - **(f)**
   - **(1)** For purposes of this section, an organization which is described in paragraph (3) shall be treated as a private foundation.
   - **(2)** The Secretary may exempt the excess business holdings of any organization from the application of this subsection if the Secretary determines that such holdings are consistent with the purpose or function constituting the basis for its exemption under section 501.
@@ -106,4 +106,4 @@ generated_at: "2026-03-29T18:05:44.903Z"
   - **(6)** For purposes of this subsection, the term “excess business holdings” shall not include any holdings of a type III supporting organization in any business enterprise if, as of November 18, 2005 , the holdings were held (and at all times thereafter, are held) for the benefit of the community pursuant to the direction of a State attorney general or a State official with jurisdiction over such organization.
   - **(7)** For purposes of this subsection, rules similar to the rules of paragraphs (4), (5), and (6) of subsection (c) shall apply to organizations described in section 509(a)(3), except that—
     - **(A)** “the date of the enactment of this subsection” shall be substituted for “ May 26, 1969 ” each place it appears in paragraphs (4), (5), and (6), and
-    - **(B)** “ January 1, 2007 ” shall be substituted for “ January 1, 1970 ” in paragraph (4)(E).
+    - **(B)** “ January 1, 2007 ” shall be substituted for “ January 1, 1971 ” in paragraph (4)(E).

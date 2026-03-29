@@ -3,12 +3,12 @@ title: "Section 508 - Annual estimates of quantity of paper required for public 
 usc_title: 44
 usc_section: "508"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "44 U.S.C. § 508"
-generated_at: "2026-03-29T18:06:33.609Z"
+generated_at: "2026-03-29T18:26:16.104Z"
 ---
 
 # § 508. Annual estimates of quantity of paper required for public printing and binding
 
-At the beginning of each session of Congress, the Public Printer shall submit to the Joint Committee on Printing estimates of the quantity of paper of all descriptions required for the public printing and binding during the ensuing year.
+At the beginning of each session of Congress, the Director of the Government Publishing Office shall submit to the Joint Committee on Printing estimates of the quantity of paper of all descriptions required for the public printing and binding during the ensuing year.
 

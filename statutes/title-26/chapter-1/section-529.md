@@ -3,9 +3,9 @@ title: "Section 529 - Qualified tuition programs"
 usc_title: 26
 usc_section: "529"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 529"
-generated_at: "2026-03-29T18:05:44.665Z"
+generated_at: "2026-03-29T18:25:53.613Z"
 ---
 
 # § 529. Qualified tuition programs
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T18:05:44.665Z"
     - **(B)** which meets the other requirements of this subsection.
   - **(2)** A program shall not be treated as a qualified tuition program unless it provides that purchases or contributions may only be made in cash.
   - **(3)** A program shall not be treated as a qualified tuition program unless it provides separate accounting for each designated beneficiary.
-  - **(4)** A program shall not be treated as a qualified tuition program unless it provides that any contributor to, or designated beneficiary under, such program may not directly or indirectly direct the investment of any contributions to the program (or any earnings thereon).
+  - **(4)** A program shall not be treated as a qualified tuition program unless it provides that any contributor to, or designated beneficiary under, such program may, directly or indirectly, direct the investment of any contributions to the program (or any earnings thereon) no more than 2 times in any calendar year.
   - **(5)** A program shall not be treated as a qualified tuition program if it allows any interest in the program or any portion thereof to be used as security for a loan.
   - **(6)** A program shall not be treated as a qualified tuition program unless it provides adequate safeguards to prevent contributions on behalf of a designated beneficiary in excess of those necessary to provide for the qualified higher education expenses of the beneficiary.
 - **(c)**
@@ -52,10 +52,7 @@ generated_at: "2026-03-29T18:05:44.665Z"
         - **(II)** to the credit of another designated beneficiary under a qualified tuition program who is a member of the family of the designated beneficiary with respect to which the distribution was made.
       - **(ii)** Any change in the designated beneficiary of an interest in a qualified tuition program shall not be treated as a distribution for purposes of subparagraph (A) if the new beneficiary is a member of the family of the old beneficiary.
       - **(iii)** Clause (i)(I) shall not apply to any transfer if such transfer occurs within 12 months from the date of a previous transfer to any qualified tuition program for the benefit of the designated beneficiary.
-    - **(D)** For purposes of applying section 72—
-      - **(i)** to the extent provided by the Secretary, all qualified tuition programs of which an individual is a designated beneficiary shall be treated as one program,
-      - **(ii)** except to the extent provided by the Secretary, all distributions during a taxable year shall be treated as one distribution, and
-      - **(iii)** except to the extent provided by the Secretary, the value of the contract, income on the contract, and investment in the contract shall be computed as of the close of the calendar year in which the taxable year begins.
+    - **(D)** In the case of a beneficiary who receives a refund of any qualified higher education expenses from an eligible educational institution, subparagraph (A) shall not apply to that portion of any distribution for the taxable year which is recontributed to a qualified tuition program of which such individual is a beneficiary, but only to the extent such recontribution is made not later than 60 days after the date of such refund and does not exceed the refunded amount.
   - **(4)**
     - **(A)** No amount shall be includible in the gross estate of any individual for purposes of chapter 11 by reason of an interest in a qualified tuition program.
     - **(B)** Subparagraph (A) shall not apply to amounts distributed on account of the death of a beneficiary.
@@ -81,7 +78,7 @@ generated_at: "2026-03-29T18:05:44.665Z"
     - **(A)** The term “qualified higher education expenses” means—
       - **(i)** tuition, fees, books, supplies, and equipment required for the enrollment or attendance of a designated beneficiary at an eligible educational institution;
       - **(ii)** expenses for special needs services in the case of a special needs beneficiary which are incurred in connection with such enrollment or attendance 2 2 So in original. Probably should be followed by “; and”.
-      - **(iii)** expenses paid or incurred in 2009 or 2010 for the purchase of any computer technology or equipment (as defined in section 170(e)(6)(F)(i)) or Internet access and related services, if such technology, equipment, or services are to be used by the beneficiary and the beneficiary’s family during any of the years the beneficiary is enrolled at an eligible educational institution.
+      - **(iii)** expenses for the purchase of computer or peripheral equipment (as defined in section 168(i)(2)(B)), computer software (as defined in section 197(e)(3)(B)), or Internet access and related services, if such equipment, software, or services are to be used primarily by the beneficiary during any of the years the beneficiary is enrolled at an eligible educational institution.
     - **(B)**
       - **(i)** In the case of an individual who is an eligible student (as defined in section 25A(b)(3)) for any academic period, such term shall also include reasonable costs for such period (as determined under the qualified tuition program) incurred by the designated beneficiary for room and board while attending such institution. For purposes of subsection (b)(6), a designated beneficiary shall be treated as meeting the requirements of this clause.
       - **(ii)** The amount treated as qualified higher education expenses by reason of clause (i) shall not exceed—

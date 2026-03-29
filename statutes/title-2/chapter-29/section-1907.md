@@ -3,9 +3,9 @@ title: "Section 1907 - Transfer of disbursing function"
 usc_title: 2
 usc_section: "1907"
 chapter: 29
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "2 U.S.C. § 1907"
-generated_at: "2026-03-29T18:03:21.809Z"
+generated_at: "2026-03-29T18:23:14.127Z"
 ---
 
 # § 1907. Transfer of disbursing function
@@ -17,10 +17,10 @@ generated_at: "2026-03-29T18:03:21.809Z"
 - **(b)**
   - **(1)**
     - **(A)** There is established in the Treasury of the United States a separate account for the Capitol Police, into which shall be deposited appropriations received by the Chief of the Capitol Police and available for the salaries of the Capitol Police.
-    - **(B)** Until such time as the Chief notifies the Chief Administrative Officer of the House of Representatives and the Secretary of the Senate that systems are in place for discharging the disbursing functions under subsection (a) of this section, the Chief shall have the authority to transfer amounts in the account to the House of Representatives and the Senate to the extent necessary to enable the Chief Administrative Officer of the House of Representatives and the Secretary of the Senate to continue to serve as the disbursing authority on behalf of the Capitol Police pursuant to subsection (a)(3) of this section.
+    - **(B)** Until such time as the Chief notifies the Chief Administrative Officer of the House of Representatives and the Secretary of the Senate that systems are in place for discharging the disbursing functions under subsection (a), the Chief shall have the authority to transfer amounts in the account to the House of Representatives and the Senate to the extent necessary to enable the Chief Administrative Officer of the House of Representatives and the Secretary of the Senate to continue to serve as the disbursing authority on behalf of the Capitol Police pursuant to subsection (a)(3).
   - **(2)** There is established in the Treasury of the United States a separate account for the Capitol Police, into which shall be deposited appropriations received by the Chief of the Capitol Police and available for the general expenses of the Capitol Police.
 - **(c)**
-  - **(1)** The Chief Administrative Officer of the House of Representatives and the Secretary of the Senate are authorized and directed to transfer to the Chief of the Capitol Police all funds, assets, accounts, and copies of original records of the Capitol Police that are in the possession or under the control of the Chief Administrative Officer of the House of Representatives or the Secretary of the Senate in order that all such items may be available for the unified operation of the Capitol Police. Any funds so transferred shall be deposited in the Treasury accounts established under subsection (b) of this section and be available to the Chief of the Capitol Police for the same purposes as, and in like manner and subject to the same conditions as, the funds prior to the transfer.
+  - **(1)** The Chief Administrative Officer of the House of Representatives and the Secretary of the Senate are authorized and directed to transfer to the Chief of the Capitol Police all funds, assets, accounts, and copies of original records of the Capitol Police that are in the possession or under the control of the Chief Administrative Officer of the House of Representatives or the Secretary of the Senate in order that all such items may be available for the unified operation of the Capitol Police. Any funds so transferred shall be deposited in the Treasury accounts established under subsection (b) and be available to the Chief of the Capitol Police for the same purposes as, and in like manner and subject to the same conditions as, the funds prior to the transfer.
   - **(2)** Any transfer authority existing before February 20, 2003 , granted to the Chief Administrative Officer of the House of Representatives or the Secretary of the Senate for salaries, expenses, and operations of the Capitol Police shall be transferred to the Chief of the Capitol Police.
 - **(d)** Except as may otherwise be provided in law, the unexpended balances of appropriations for the fiscal year 2003 and succeeding fiscal years that are subject to disbursement by the Chief of the Capitol Police shall be withdrawn as of September 30 of the fifth fiscal year following the period or year for which provided. Unpaid obligations chargeable to any of the balances so withdrawn or appropriations for prior years shall be liquidated from any appropriations for the same general purpose, which, at the time of payment, are available for disbursement.
 - **(e)**

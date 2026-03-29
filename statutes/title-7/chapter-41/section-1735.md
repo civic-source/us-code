@@ -3,9 +3,9 @@ title: "Section 1735 - Consultation"
 usc_title: 7
 usc_section: "1735"
 chapter: 41
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 1735"
-generated_at: "2026-03-29T18:04:04.888Z"
+generated_at: "2026-03-29T18:23:43.304Z"
 ---
 
 # § 1735. Consultation

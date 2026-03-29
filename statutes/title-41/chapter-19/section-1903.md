@@ -3,9 +3,9 @@ title: "Section 1903 - Special emergency procurement authority"
 usc_title: 41
 usc_section: "1903"
 chapter: 19
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "41 U.S.C. § 1903"
-generated_at: "2026-03-29T18:06:34.748Z"
+generated_at: "2026-03-29T18:26:25.272Z"
 ---
 
 # § 1903. Special emergency procurement authority
@@ -18,8 +18,8 @@ generated_at: "2026-03-29T18:06:34.748Z"
     - **(A)** $15,000 in the case of a contract to be awarded and performed, or purchase to be made, in the United States; and
     - **(B)** $25,000 in the case of a contract to be awarded and performed, or purchase to be made, outside the United States;
   - **(2)** the term “simplified acquisition threshold” means—
-    - **(A)** $250,000 in the case of a contract to be awarded and performed, or purchase to be made, in the United States; and
-    - **(B)** $1,000,000 in the case of a contract to be awarded and performed, or purchase to be made, outside the United States; and
+    - **(A)** $750,000 in the case of a contract to be awarded and performed, or purchase to be made, in the United States; and
+    - **(B)** $1,500,000 in the case of a contract to be awarded and performed, or purchase to be made, outside the United States; and
   - **(3)** the $5,000,000 limitation in sections 1901(a)(2) and 3305(a)(2) of this title and section 2304(g)(1)(B) of title 10 is deemed to be $10,000,000.
 - **(c)**
   - **(1)** The head of an executive agency carrying out a procurement of property or a service to which this section applies under subsection (a)(2) may treat the property or service as a commercial item for the purpose of carrying out the procurement.

@@ -3,9 +3,9 @@ title: "Section 1362 - Election; revocation; termination"
 usc_title: 26
 usc_section: "1362"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 1362"
-generated_at: "2026-03-29T18:05:44.802Z"
+generated_at: "2026-03-29T18:25:53.739Z"
 ---
 
 # § 1362. Election; revocation; termination
@@ -47,9 +47,7 @@ generated_at: "2026-03-29T18:05:44.802Z"
         - **(I)** has accumulated earnings and profits at the close of each of 3 consecutive taxable years, and
         - **(II)** has gross receipts for each of such taxable years more than 25 percent of which are passive investment income.
       - **(ii)** Any termination under this paragraph shall be effective on and after the first day of the first taxable year beginning after the third consecutive taxable year referred to in clause (i).
-      - **(iii)** A prior taxable year shall not be taken into account under clause (i) unless—
-        - **(I)** such taxable year began after December 31, 1981 , and
-        - **(II)** the corporation was an S corporation for such taxable year.
+      - **(iii)** A prior taxable year shall not be taken into account under clause (i) unless the corporation was an S corporation for such taxable year.
     - **(B)** For purposes of this paragraph—
       - **(i)** in the case of dispositions of capital assets (other than stock and securities), gross receipts from such dispositions shall be taken into account only to the extent of the capital gain net income therefrom, and
       - **(ii)** in the case of sales or exchanges of stock or securities, gross receipts shall be taken into account only to the extent of the gains therefrom.

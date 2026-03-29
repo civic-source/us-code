@@ -3,9 +3,9 @@ title: "Section 32 - Earned income"
 usc_title: 26
 usc_section: "32"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 32"
-generated_at: "2026-03-29T18:05:44.415Z"
+generated_at: "2026-03-29T18:25:53.365Z"
 ---
 
 # § 32. Earned income
@@ -16,21 +16,12 @@ generated_at: "2026-03-29T18:05:44.415Z"
     - **(A)** the credit percentage of the earned income amount, over
     - **(B)** the phaseout percentage of so much of the adjusted gross income (or, if greater, the earned income) of the taxpayer for the taxable year as exceeds the phaseout amount.
 - **(b)** For purposes of subsection (a)—
-  - **(1)** The credit percentage and the phaseout percentage shall be determined as follows:
-    - **(A)** In the case of taxable years beginning after 1995: In the case of an eligible individual with: The credit percentage is: The phaseout percentage is: 1 qualifying child 34 15.98 2 or more qualifying children 40 21.06 No qualifying children 7.65 7.65
-    - **(B)** In the case of taxable years beginning in 1995: In the case of an eligible individual with: The credit percentage is: The phaseout percentage is: 1 qualifying child 34 15.98 2 or more qualifying children 36 20.22 No qualifying children 7.65 7.65
-    - **(C)** In the case of a taxable year beginning in 1994: In the case of an eligible individual with: The credit percentage is: The phaseout percentage is: 1 qualifying child 26.3 15.98 2 or more qualifying children 30 17.68 No qualifying children 7.65 7.65
+  - **(1)** The credit percentage and the phaseout percentage shall be determined as follows: In the case of an eligible individual with: The credit percentage is: The phaseout percentage is: 1 qualifying child 34 15.98 2 qualifying children 40 21.06 3 or more qualifying children 45 21.06 No qualifying children 7.65 7.65
   - **(2)**
     - **(A)** Subject to subparagraph (B), the earned income amount and the phaseout amount shall be determined as follows: In the case of an eligible individual with: The earned income amount is: The phaseout amount is: 1 qualifying child $6,330 $11,610 2 or more qualifying children $8,890 $11,610 No qualifying children $4,220 $5,280
-    - **(B)** In the case of a joint return filed by an eligible individual and such individual’s spouse, the phaseout amount determined under subparagraph (A) shall be increased by—
-      - **(i)** $1,000 in the case of taxable years beginning in 2002, 2003, and 2004,
-      - **(ii)** $2,000 in the case of taxable years beginning in 2005, 2006, and 2007, and
-      - **(iii)** $3,000 in the case of taxable years beginning after 2007.
-  - **(3)** In the case of any taxable year beginning after 2008 and before 2018—
-    - **(A)** In the case of a taxpayer with 3 or more qualifying children, the credit percentage is 45 percent.
     - **(B)**
-      - **(i)** The dollar amount in effect under paragraph (2)(B) shall be $5,000.
-      - **(ii)** In the case of any taxable year beginning in 2010, the $5,000 amount in clause (i) shall be increased by an amount equal to—
+      - **(i)** In the case of a joint return filed by an eligible individual and such individual’s spouse, the phaseout amount determined under subparagraph (A) shall be increased by $5,000.
+      - **(ii)** In the case of any taxable year beginning after 2015, the $5,000 amount in clause (i) shall be increased by an amount equal to—
         - **(I)** such dollar amount, multiplied by
         - **(II)** the cost of living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins determined by substituting “calendar year 2008” for “calendar year 1992” in subparagraph (B) thereof.
       - **(iii)** Subparagraph (A) of subsection (j)(2) shall apply after taking into account any increase under clause (ii).
@@ -113,4 +104,4 @@ generated_at: "2026-03-29T18:05:44.415Z"
   - **(3)** section 101 of the Housing and Urban Development Act of 1965,
   - **(4)** sections 221(d)(3), 235, and 236 of the National Housing Act, and
   - **(5)** the Food and Nutrition Act of 2008,
-- **(m)** Solely for purposes of subsections (c)(1)(E) and (c)(3)(D), a taxpayer identification number means a social security number issued to an individual by the Social Security Administration (other than a social security number issued pursuant to clause (II) (or that portion of clause (III) that relates to clause (II)) of section 205(c)(2)(B)(i) of the Social Security Act).
+- **(m)** Solely for purposes of subsections (c)(1)(E) and (c)(3)(D), a taxpayer identification number means a social security number issued to an individual by the Social Security Administration (other than a social security number issued pursuant to clause (II) (or that portion of clause (III) that relates to clause (II)) of section 205(c)(2)(B)(i) of the Social Security Act) on or before the due date for filing the return for the taxable year.

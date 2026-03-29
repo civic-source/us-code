@@ -3,9 +3,9 @@ title: "Section 42a - Use of receipts from sale of maps for map printing and dis
 usc_title: 43
 usc_section: "42a"
 chapter: 2
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 42a"
-generated_at: "2026-03-29T18:06:28.247Z"
+generated_at: "2026-03-29T18:26:14.773Z"
 ---
 
 # § 42a. Use of receipts from sale of maps for map printing and distribution

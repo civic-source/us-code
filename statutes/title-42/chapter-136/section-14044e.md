@@ -3,9 +3,9 @@ title: "Section 14044e - Definitions"
 usc_title: 42
 usc_section: "14044e"
 chapter: 136
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 14044e"
-generated_at: "2026-03-29T18:07:15.362Z"
+generated_at: "2026-03-29T18:27:04.153Z"
 ---
 
 # § 14044e. Definitions

@@ -3,9 +3,9 @@ title: "Section 5382 - Establishment"
 usc_title: 25
 usc_section: "5382"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 5382"
-generated_at: "2026-03-29T02:13:21.015Z"
+generated_at: "2026-03-29T18:25:23.840Z"
 ---
 
 # § 5382. Establishment

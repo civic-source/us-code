@@ -3,9 +3,9 @@ title: "Section 184 - Regional Centers for Security Studies"
 usc_title: 10
 usc_section: "184"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 184"
-generated_at: "2026-03-29T18:04:12.970Z"
+generated_at: "2026-03-29T18:23:51.730Z"
 ---
 
 # § 184. Regional Centers for Security Studies
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T18:04:12.970Z"
     - **(B)** serves as a forum for bilateral and multilateral research, communication, and exchange of ideas involving military and civilian participants.
   - **(2)** The Department of Defense Regional Centers for Security Studies are the following:
     - **(A)** The George C. Marshall European Center for Security Studies, established in 1993 and located in Garmisch-Partenkirchen, Germany.
-    - **(B)** The Asia-Pacific Center for Security Studies, established in 1995 and located in Honolulu, Hawaii.
+    - **(B)** The Daniel K. Inouye Asia-Pacific Center for Security Studies, established in 1995 and located in Honolulu, Hawaii.
     - **(C)** The William J. Perry Center for Hemispheric Defense Studies, established in 1997 and located in Washington, D.C.
     - **(D)** The Africa Center for Strategic Studies, established in 1999 and located in Washington, D.C.
     - **(E)** The Near East South Asia Center for Strategic Studies, established in 2000 and located in Washington, D.C.

@@ -3,9 +3,9 @@ title: "Section 3903 - Multiyear contracts"
 usc_title: 41
 usc_section: "3903"
 chapter: 39
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "41 U.S.C. § 3903"
-generated_at: "2026-03-29T18:06:34.764Z"
+generated_at: "2026-03-29T18:26:25.282Z"
 ---
 
 # § 3903. Multiyear contracts

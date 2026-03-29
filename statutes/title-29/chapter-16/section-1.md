@@ -1,42 +1,15 @@
 ---
-title: "Section 1 - Grants to centers for independent living in States in which Federal funding exceeds State funding"
+title: "Section 1 - Training and technical assistance"
 usc_title: 29
 usc_section: "1"
 chapter: 16
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 1"
-generated_at: "2026-03-29T18:05:31.719Z"
+generated_at: "2026-03-29T18:25:43.056Z"
 ---
 
-# § 796f–1. Grants to centers for independent living in States in which Federal funding exceeds State funding
+# § 796j–1. Training and technical assistance
 
-- **(a)**
-  - **(1)** Unless the director of a designated State unit awards grants under section 796f–2 of this title to eligible agencies in a State for a fiscal year, the Commissioner shall award grants under this section to such eligible agencies for such fiscal year from the amount of funds allotted to the State under subsection (c) or (d) of section 796f of this title for such year.
-  - **(2)** The Commissioner shall award such grants, from the amount of funds so allotted, to such eligible agencies for the planning, conduct, administration, and evaluation of centers for independent living that comply with the standards and assurances set forth in section 796f–4 of this title .
-- **(b)** In any State in which the Commissioner has approved the State plan required by section 796c of this title , the Commissioner may make a grant under this section to any eligible agency that—
-  - **(1)** has the power and authority to carry out the purpose of this subpart and perform the functions set forth in section 796f–4 of this title within a community and to receive and administer funds under this subpart, funds and contributions from private or public sources that may be used in support of a center for independent living, and funds from other public and private programs;
-  - **(2)** is determined by the Commissioner to be able to plan, conduct, administer, and evaluate a center for independent living consistent with the standards and assurances set forth in section 796f–4 of this title ; and
-  - **(3)** submits an application to the Commissioner at such time, in such manner, and containing such information as the Commissioner may require.
-- **(c)** In the administration of the provisions of this section, the Commissioner shall award grants to any eligible agency that has been awarded a grant under this subpart by September 30, 1997 , unless the Commissioner makes a finding that the agency involved fails to meet program and fiscal standards and assurances set forth in section 796f–4 of this title .
-- **(d)**
-  - **(1)** If there is no center for independent living serving a region of the State or a region is underserved, and the increase in the allotment of the State is sufficient to support an additional center for independent living in the State, the Commissioner may award a grant under this section to the most qualified applicant proposing to serve such region, consistent with the provisions in the State plan setting forth the design of the State for establishing a statewide network of centers for independent living.
-  - **(2)** In selecting from among applicants for a grant under this section for a new center for independent living, the Commissioner—
-    - **(A)** shall consider comments regarding the application, if any, by the Statewide Independent Living Council in the State in which the applicant is located;
-    - **(B)** shall consider the ability of each such applicant to operate a center for independent living based on—
-      - **(i)** evidence of the need for such a center;
-      - **(ii)** any past performance of such applicant in providing services comparable to independent living services;
-      - **(iii)** the plan for satisfying or demonstrated success in satisfying the standards and the assurances set forth in section 796f–4 of this title ;
-      - **(iv)** the quality of key personnel and the involvement of individuals with significant disabilities;
-      - **(v)** budgets and cost-effectiveness;
-      - **(vi)** an evaluation plan; and
-      - **(vii)** the ability of such applicant to carry out the plans; and
-    - **(C)** shall give priority to applications from applicants proposing to serve geographic areas within each State that are currently unserved or underserved by independent living programs, consistent with the provisions of the State plan submitted under section 796c of this title regarding establishment of a statewide network of centers for independent living.
-  - **(3)** Notwithstanding paragraphs (1) and (2), a center for independent living that receives assistance under subpart 2 for a fiscal year shall be eligible for a grant for the subsequent fiscal year under this subsection.
-- **(e)** The Commissioner shall be guided by the following order of priorities in allocating funds among centers for independent living within a State, to the extent funds are available:
-  - **(1)** The Commissioner shall support existing centers for independent living, as described in subsection (c) of this section, that comply with the standards and assurances set forth in section 796f–4 of this title , at the level of funding for the previous year.
-  - **(2)** The Commissioner shall provide for a cost-of-living increase for such existing centers for independent living.
-  - **(3)** The Commissioner shall fund new centers for independent living, as described in subsection (d) of this section, that comply with the standards and assurances set forth in section 796f–4 of this title .
-- **(f)** A center that provides or manages residential housing after October 1, 1994 , shall not be considered to be an eligible agency under this section.
-- **(g)**
-  - **(1)** The Commissioner shall periodically review each center receiving funds under this section to determine whether such center is in compliance with the standards and assurances set forth in section 796f–4 of this title . If the Commissioner determines that any center receiving funds under this section is not in compliance with the standards and assurances set forth in section 796f–4 of this title , the Commissioner shall immediately notify such center that it is out of compliance.
-  - **(2)** The Commissioner shall terminate all funds under this section to such center 90 days after the date of such notification unless the center submits a plan to achieve compliance within 90 days of such notification and such plan is approved by the Commissioner.
+- **(a)** From the funds appropriated and made available to carry out this part for any fiscal year, beginning with fiscal year 2015, the Commissioner shall first reserve not less than 1.8 percent and not more than 2 percent of the funds to provide, either directly or through grants, contracts, or cooperative agreements, training and technical assistance to designated State agencies, or other providers of independent living services for older individuals who are blind, that are funded under this part for such fiscal year.
+- **(b)** The Commissioner shall conduct a survey of designated State agencies that receive grants under section 796k of this title regarding training and technical assistance needs in order to determine funding priorities for such training and technical assistance.
+- **(c)** To be eligible to receive a grant or enter into a contract or cooperative agreement under this section, an entity shall submit an application to the Commissioner at such time, in such manner, containing a proposal to provide such training and technical assistance, and containing such additional information, as the Commissioner may require. The Commissioner shall provide for peer review of applications by panels that include persons who are not government employees and who have experience in the provision of services to older individuals who are blind.

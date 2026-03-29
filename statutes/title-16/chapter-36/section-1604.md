@@ -3,9 +3,9 @@ title: "Section 1604 - National Forest System land and resource management plans
 usc_title: 16
 usc_section: "1604"
 chapter: 36
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 1604"
-generated_at: "2026-03-29T18:05:06.960Z"
+generated_at: "2026-03-29T18:24:22.817Z"
 ---
 
 # § 1604. National Forest System land and resource management plans
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T18:05:06.960Z"
 - **(d)** The Secretary shall provide for public participation in the development, review, and revision of land management plans including, but not limited to, making the plans or revisions available to the public at convenient locations in the vicinity of the affected unit for a period of at least three months before final adoption, during which period the Secretary shall publicize and hold public meetings or comparable processes at locations that foster public participation in the review of such plans or revisions.
 - **(e)** In developing, maintaining, and revising plans for units of the National Forest System pursuant to this section, the Secretary shall assure that such plans—
   - **(1)** provide for multiple use and sustained yield of the products and services obtained therefrom in accordance with the Multiple-Use Sustained-Yield Act of 1960 [ 16 U.S.C. 528–531 ], and, in particular, include coordination of outdoor recreation, range, timber, watershed, wildlife and fish, and wilderness; and
-  - **(2)** determine forest management systems, harvesting levels, and procedures in the light of all of the uses set forth in subsection (c)(1) of this section, the definition of the terms “multiple use” and “sustained yield” as provided in the Multiple-Use Sustained-Yield Act of 1960, and the availability of lands and their suitability for resource management.
+  - **(2)** determine forest management systems, harvesting levels, and procedures in the light of all of the uses set forth in subsection (c)(1), the definition of the terms “multiple use” and “sustained yield” as provided in the Multiple-Use Sustained-Yield Act of 1960, and the availability of lands and their suitability for resource management.
 - **(f)** Plans developed in accordance with this section shall—
   - **(1)** form one integrated plan for each unit of the National Forest System, incorporating in one document or one set of documents, available to the public at convenient locations, all of the features required by this section;
   - **(2)** be embodied in appropriate written material, including maps and other descriptive documents, reflecting proposed and possible actions, including the planned timber sale program and the proportion of probable methods of timber harvest within the unit necessary to fulfill the plan;

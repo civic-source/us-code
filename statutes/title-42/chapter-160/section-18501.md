@@ -1,14 +1,14 @@
 ---
-title: "Section 18501 - Exclusion of payments from State eugenics compensation programs from consideration in determining eligibility for, or the amount of, Federal public benefits"
+title: "Section 18501 - Exclusion of payments from State Eugenics compensation programs from consideration in determining eligibility for, or the amount of, Federal public benefits"
 usc_title: 42
 usc_section: "18501"
 chapter: 160
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 18501"
-generated_at: "2026-03-29T02:15:37.441Z"
+generated_at: "2026-03-29T18:27:04.301Z"
 ---
 
-# § 18501. Exclusion of payments from State eugenics compensation programs from consideration in determining eligibility for, or the amount of, Federal public benefits
+# § 18501. Exclusion of payments from State Eugenics compensation programs from consideration in determining eligibility for, or the amount of, Federal public benefits
 
 - **(a)** Notwithstanding any other provision of law, payments made under a State eugenics compensation program shall not be considered as income or resources in determining eligibility for, or the amount of, any Federal public benefit.
 - **(b)** For purposes of this section:

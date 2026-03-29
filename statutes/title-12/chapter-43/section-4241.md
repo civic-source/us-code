@@ -3,14 +3,14 @@ title: "Section 4241 - Authority to enter into contracts for private counsel"
 usc_title: 12
 usc_section: "4241"
 chapter: 43
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 4241"
-generated_at: "2026-03-29T18:04:43.704Z"
+generated_at: "2026-03-29T18:24:03.023Z"
 ---
 
 # § 4241. Authority to enter into contracts for private counsel
 
 - **(a)** The Attorney General may enter into contracts retaining private counsel to furnish legal services, including representation in investigation, negotiation, compromise, settlement, litigation, and execution of judgments in the case of any civil action referred to in section 4201 of this title or section 4225 of this title .
-- **(b)** Each contract under subsection (a) of this section shall include the provisions described in section 4244 of this title and such other terms and conditions as the Attorney General considers necessary and appropriate to protect the interests of the United States.
-- **(c)** The amount of the contingency fee payable for legal services furnished under a contract described in subsection (a) of this section shall not exceed the contingency fee that counsel engaged in the private practice of law in the jurisdiction wherein the legal services are furnished typically charge clients for furnishing the same or comparable legal services.
+- **(b)** Each contract under subsection (a) shall include the provisions described in section 4244 of this title and such other terms and conditions as the Attorney General considers necessary and appropriate to protect the interests of the United States.
+- **(c)** The amount of the contingency fee payable for legal services furnished under a contract described in subsection (a) shall not exceed the contingency fee that counsel engaged in the private practice of law in the jurisdiction wherein the legal services are furnished typically charge clients for furnishing the same or comparable legal services.
 - **(d)** Notwithstanding section 3302(b) of title 31 , a contract under this section shall provide that a fee that the United States pays private counsel for services is payable from the amount recovered and shall be based on a percentage of the civil penalties or assets recovered.

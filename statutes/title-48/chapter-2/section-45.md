@@ -3,9 +3,9 @@ title: "Section 45 - Omitted"
 usc_title: 48
 usc_section: "45"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "48 U.S.C. § 45"
-generated_at: "2026-03-29T02:16:00.796Z"
+generated_at: "2026-03-29T18:27:11.634Z"
 ---
 
 # §§ 43 to 45. Omitted

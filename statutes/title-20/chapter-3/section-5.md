@@ -3,9 +3,9 @@ title: "Section 5 - Educational and liaison programs"
 usc_title: 20
 usc_section: "5"
 chapter: 3
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 5"
-generated_at: "2026-03-29T18:05:00.015Z"
+generated_at: "2026-03-29T18:24:40.873Z"
 ---
 
 # § 80r–5. Educational and liaison programs
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T18:05:00.015Z"
     - **(A)** carry out educational programs relating to African American life, art, history, and culture, including—
       - **(i)** programs using digital, electronic, and interactive technologies; and
       - **(ii)** programs carried out in collaboration with elementary schools, secondary schools, and postsecondary schools; and
-    - **(B)** consult with the Director of the Institute of Museum and Library Services concerning the grant and scholarship programs carried out under subsection (b) of this section.
+    - **(B)** consult with the Director of the Institute of Museum and Library Services concerning the grant and scholarship programs carried out under subsection (b).
 - **(b)**
   - **(1)** In consultation with the Council and the Director of the Museum, the Director of the Institute of Museum and Library Services shall establish—
     - **(A)** a grant program with the purpose of improving operations, care of collections, and development of professional management at African American museums;

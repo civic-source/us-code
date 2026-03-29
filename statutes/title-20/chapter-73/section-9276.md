@@ -1,23 +1,12 @@
 ---
-title: "Section 9276 - Transition provisions"
+title: "Section 9276 - Repealed. Pub. L. 113–128, title V , § 511(a), July 22, 2014 , 128 Stat. 1705"
 usc_title: 20
 usc_section: "9276"
 chapter: 73
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 9276"
-generated_at: "2026-03-29T18:05:00.411Z"
+generated_at: "2026-03-29T18:24:41.179Z"
 ---
 
-# § 9276. Transition provisions
+# §§ 9271 to 9276. Repealed. Pub. L. 113–128, title V , § 511(a), July 22, 2014 , 128 Stat. 1705
 
-- **(a)** The Secretary of Labor shall take such actions as the Secretary determines to be appropriate to provide for the orderly transition from any authority under the Job Training Partnership Act ( 29 U.S.C. 1501 et seq.) to the workforce investment systems established under title I of this Act [ 29 U.S.C. 2801 et seq.]. Such actions shall include the provision of guidance relating to the designation of State workforce investment boards, local workforce investment areas, and local workforce investment boards described in such title.
-- **(b)**
-  - **(1)** The Secretary of Education shall take such actions as the Secretary determines to be appropriate to provide for the transition from any authority under the Adult Education Act to any authority under the Adult Education and Family Literacy Act [ 20 U.S.C. 9201 et seq.] (as added by title II of this Act).
-  - **(2)** The authority to take actions under paragraph (1) shall apply until July 1, 2000 .
-- **(c)**
-  - **(1)** Not later than 180 days after August 7, 1998 , the Secretary of Labor shall develop and publish in the Federal Register interim final regulations relating to the transition to, and implementation of, this Act.
-  - **(2)** Not later than December 31, 1999 , the Secretary shall develop and publish in the Federal Register final regulations relating to the transition to, and implementation of, this Act.
-- **(d)**
-  - **(1)** Subject to paragraph (2) and in accordance with regulations developed under subsection (c) of this section, States, grant recipients, administrative entities, and other recipients of financial assistance under the Job Training Partnership Act ( 29 U.S.C. 1501 et seq.) or under this Act may expend funds received under the Job Training Partnership Act or under this Act, prior to July 1, 2000 , in order to plan and implement programs and activities authorized under this Act.
-  - **(2)** Not to exceed 2 percent of any allotment to any State from amounts appropriated under the Job Training Partnership Act or under this Act for fiscal year 1998 or 1999 may be made available to carry out planning authorized under paragraph (1) and not less than 50 percent of any such amount used to carry out planning authorized under paragraph (1) shall be made available to local entities for the planning purposes described in such paragraph.
-- **(e)** Not later than 1 year after August 7, 1998 , the Secretary of Labor shall reorganize and align functions within the Department of Labor and within the Employment and Training Administration in order to carry out the duties and responsibilities required by this Act (and related laws) in an effective and efficient manner.

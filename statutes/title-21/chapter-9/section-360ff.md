@@ -3,9 +3,9 @@ title: "Section 360ff - Priority review to encourage treatments for rare pediatr
 usc_title: 21
 usc_section: "360ff"
 chapter: 9
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 360ff"
-generated_at: "2026-03-29T18:05:14.801Z"
+generated_at: "2026-03-29T18:25:04.144Z"
 ---
 
 # § 360ff. Priority review to encourage treatments for rare pediatric diseases
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T18:05:14.801Z"
   - **(1)** The term “priority review”, with respect to a human drug application as defined in section 379g(1) of this title , means review and action by the Secretary on such application not later than 6 months after receipt by the Secretary of such application, as described in the Manual of Policies and Procedures of the Food and Drug Administration and goals identified in the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2012.
   - **(2)** The term “priority review voucher” means a voucher issued by the Secretary to the sponsor of a rare pediatric disease product application that entitles the holder of such voucher to priority review of a single human drug application submitted under section 355(b)(1) of this title or section 351(a) of the Public Health Service Act [ 42 U.S.C. 262(a) ] after the date of approval of the rare pediatric disease product application.
   - **(3)** The term “rare pediatric disease” means a disease that meets each of the following criteria:
-    - **(A)** The disease primarily affects individuals aged from birth to 18 years, including age groups often called neonates, infants, children, and adolescents.
+    - **(A)** The disease is a serious or life-threatening disease in which the serious or life-threatening manifestations primarily affect individuals aged from birth to 18 years, including age groups often called neonates, infants, children, and adolescents.
     - **(B)** The disease is a rare disease or condition, within the meaning of section 360bb of this title .
   - **(4)** The term “rare pediatric disease product application” means a human drug application, as defined in section 379g(1) of this title , that—
     - **(A)** is for a drug or biological product—
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T18:05:14.801Z"
     - **(C)** the Secretary deems eligible for priority review;
     - **(D)** that 1 1 So in original. The word “that” probably should not appear. relies on clinical data derived from studies examining a pediatric population and dosages of the drug intended for that population;
     - **(E)** that 1 does not seek approval for an adult indication in the original rare pediatric disease product application; and
-    - **(F)** is approved after July 9, 2012 .
+    - **(F)** is approved after September 30, 2016 .
 - **(b)**
   - **(1)** The Secretary shall award a priority review voucher to the sponsor of a rare pediatric disease product application upon approval by the Secretary of such rare pediatric disease product application.
   - **(2)**
@@ -32,9 +32,15 @@ generated_at: "2026-03-29T18:05:14.801Z"
     - **(B)** Each person to whom a voucher is transferred shall notify the Secretary of such change in ownership of the voucher not later than 30 days after such transfer.
   - **(3)** A sponsor of a rare pediatric disease product application may not receive a priority review voucher under this section if the rare pediatric disease product application was submitted to the Secretary prior to the date that is 90 days after July 9, 2012 .
   - **(4)**
-    - **(A)** The sponsor of a human drug application shall notify the Secretary not later than 90 days prior to submission of the human drug application that is the subject of a priority review voucher of an intent to submit the human drug application, including the date on which the sponsor intends to submit the application. Such notification shall be a legally binding commitment to pay for the user fee to be assessed in accordance with this section.
-    - **(B)** The sponsor of a human drug application that provides notification of the intent of such sponsor to use the voucher for the human drug application under subparagraph (A) may transfer the voucher after such notification is provided, if such sponsor has not yet submitted the human drug application described in the notification.
-  - **(5)** The Secretary may not award any priority review vouchers under paragraph (1) after the last day of the 1-year period that begins on the date that the Secretary awards the third rare pediatric disease priority voucher under this section.
+    - **(A)**
+      - **(i)** Beginning on the date that is 90 days after September 30, 2016 , the sponsor of a rare pediatric disease product application that intends to request a priority review voucher under this section shall notify the Secretary of such intent upon submission of the rare pediatric disease product application that is the basis of the request for a priority review voucher.
+      - **(ii)** The sponsor of a rare pediatric disease product application that was submitted and that has not been approved as of September 30, 2016 , shall be considered eligible for a priority review voucher, if—
+        - **(I)** such sponsor has submitted such rare pediatric disease product application—
+        - **(II)** such application otherwise meets the criteria for a priority review voucher under this section.
+    - **(B)**
+      - **(i)** The sponsor of a human drug application shall notify the Secretary not later than 90 days prior to submission of the human drug application that is the subject of a priority review voucher of an intent to submit the human drug application, including the date on which the sponsor intends to submit the application. Such notification shall be a legally binding commitment to pay the user fee to be assessed in accordance with this section.
+      - **(ii)** The sponsor of a human drug application that provides notification of the intent of such sponsor to use the voucher for the human drug application under clause (i) may transfer the voucher after such notification is provided, if such sponsor has not yet submitted the human drug application described in the notification.
+  - **(5)** The Secretary may not award any priority review vouchers under paragraph (1) after December 31, 2016 .
 - **(c)**
   - **(1)** The Secretary shall establish a user fee program under which a sponsor of a human drug application that is the subject of a priority review voucher shall pay to the Secretary a fee determined under paragraph (2). Such fee shall be in addition to any fee required to be submitted by the sponsor under subchapter VII.
   - **(2)** The amount of the priority review user fee shall be determined each fiscal year by the Secretary, based on the difference between—
@@ -69,7 +75,7 @@ generated_at: "2026-03-29T18:05:14.801Z"
   - **(2)** If, after the last day of the 1-year period that begins on the date that the Secretary awards the third rare pediatric disease priority voucher under this section, a sponsor of an application submitted under section 355(b) of this title or section 351(a) of the Public Health Service Act [ 42 U.S.C. 262(a) ] for a drug uses a priority review voucher under this section for such application, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a document—
     - **(A)** notifying such Committees of the use of such voucher; and
     - **(B)** identifying the drug for which such priority review voucher is used.
-- **(g)** Nothing in this section precludes a sponsor who seeks a priority review voucher under this section from participating in any other incentive program, including under this chapter.
+- **(g)** Nothing in this section precludes a sponsor who seeks a priority review voucher under this section from participating in any other incentive program, including under this chapter, except that no sponsor of a rare pediatric disease product application may receive more than one priority review voucher issued under any section of this chapter with respect to the drug for which the application is made.. 2 2 So in original.
 - **(h)** The provisions of this section shall supplement, not supplant, any other provisions of this chapter or the Public Health Service Act [ 42 U.S.C. 201 et seq.] that encourage the development of drugs for tropical diseases and rare pediatric diseases.
 - **(i)**
   - **(1)**

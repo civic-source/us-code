@@ -3,12 +3,12 @@ title: "Section 1703 - Superintendent of Documents: assistants, blanks, printing
 usc_title: 44
 usc_section: "1703"
 chapter: 17
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "44 U.S.C. § 1703"
-generated_at: "2026-03-29T18:06:33.618Z"
+generated_at: "2026-03-29T18:26:16.112Z"
 ---
 
 # § 1703. Superintendent of Documents: assistants, blanks, printing and binding
 
-The Public Printer, upon the requisition of the Superintendent of Documents, shall appoint necessary assistants, furnish blanks, and do the printing and binding required by his office. The Public Printer shall provide convenient office, storage, and distributing rooms for the use of the Superintendent of Documents.
+The Director of the Government Publishing Office, upon the requisition of the Superintendent of Documents, shall appoint necessary assistants, furnish blanks, and do the printing and binding required by his office. The Director of the Government Publishing Office shall provide convenient office, storage, and distributing rooms for the use of the Superintendent of Documents.
 

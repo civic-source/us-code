@@ -3,16 +3,16 @@ title: "Section 834 - Art. 34. Advice of staff judge advocate and reference for 
 usc_title: 10
 usc_section: "834"
 chapter: 47
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 834"
-generated_at: "2026-03-29T18:04:13.012Z"
+generated_at: "2026-03-29T18:23:51.762Z"
 ---
 
 # § 834. Art. 34. Advice of staff judge advocate and reference for trial
 
 - **(a)** Before directing the trial of any charge by general court-martial, the convening authority shall refer it to his staff judge advocate for consideration and advice. The convening authority may not refer a specification under a charge to a general court-martial for trial unless he has been advised in writing by the staff judge advocate that—
   - **(1)** the specification alleges an offense under this chapter;
-  - **(2)** the specification is warranted by the evidence indicated in the report of investigation under section 832 of this title (article 32) (if there is such a report); and
+  - **(2)** the specification is warranted by the evidence indicated in the report of a preliminary hearing under section 832 of this title (article 32) (if there is such a report); and
   - **(3)** a court-martial would have jurisdiction over the accused and the offense.
 - **(b)** The advice of the staff judge advocate under subsection (a) with respect to a specification under a charge shall include a written and signed statement by the staff judge advocate—
   - **(1)** expressing his conclusions with respect to each matter set forth in subsection (a); and

@@ -3,9 +3,9 @@ title: "Section 12651b - Authorities and duties of the Board of Directors"
 usc_title: 42
 usc_section: "12651b"
 chapter: 129
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 12651b"
-generated_at: "2026-03-29T18:07:15.258Z"
+generated_at: "2026-03-29T18:27:04.073Z"
 ---
 
 # § 12651b. Authorities and duties of the Board of Directors
@@ -45,4 +45,4 @@ generated_at: "2026-03-29T18:07:15.258Z"
   - **(11)** prepare and make recommendations to the authorizing committees and the President for changes in the national service laws resulting from the studies and demonstrations the Chief Executive Officer is required to carry out under section 12651d(b)(11) of this title , which recommendations shall be submitted to the authorizing committees and President not later than January 1, 2012 .
 - **(h)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Board.
 - **(i)** All employees and officers of the Corporation shall recuse themselves from decisions that would constitute conflicts of interest.
-- **(j)** As part of the agenda of meetings of the Board under subsection (a) of this section, the Board shall review projects and programs conducted or funded by the Corporation under the national service laws to improve the coordination between such projects and programs, and the activities of other Federal agencies that deal with the individuals and communities participating in or benefiting from such projects and programs. The ex officio members of the Board specified in section 12651a(a)(3) of this title shall jointly plan, implement, and fund activities in connection with projects and programs conducted under the national service laws to ensure that Federal efforts attempt to address the total needs of participants in such programs and projects, their communities, and the persons and communities the participants serve.
+- **(j)** As part of the agenda of meetings of the Board under subsection (a), the Board shall review projects and programs conducted or funded by the Corporation under the national service laws to improve the coordination between such projects and programs, and the activities of other Federal agencies that deal with the individuals and communities participating in or benefiting from such projects and programs. The ex officio members of the Board specified in section 12651a(a)(3) of this title shall jointly plan, implement, and fund activities in connection with projects and programs conducted under the national service laws to ensure that Federal efforts attempt to address the total needs of participants in such programs and projects, their communities, and the persons and communities the participants serve.

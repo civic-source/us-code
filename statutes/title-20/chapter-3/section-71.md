@@ -3,9 +3,9 @@ title: "Section 71 - Designation of site"
 usc_title: 20
 usc_section: "71"
 chapter: 3
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 71"
-generated_at: "2026-03-29T18:05:00.002Z"
+generated_at: "2026-03-29T18:24:40.864Z"
 ---
 
 # § 71. Designation of site

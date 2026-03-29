@@ -1,14 +1,12 @@
 ---
-title: "Section 6571 - Contracts for separate parts of Senate stationery"
+title: "Section 6571 - Repealed. Pub. L. 113–235, div. H, title I , § 1(a), Dec. 16, 2014 , 128 Stat. 2525"
 usc_title: 2
 usc_section: "6571"
 chapter: 65
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "2 U.S.C. § 6571"
-generated_at: "2026-03-29T18:03:21.863Z"
+generated_at: "2026-03-29T18:23:14.172Z"
 ---
 
-# § 6571. Contracts for separate parts of Senate stationery
-
-Sections 6569 and 6570 of this title shall not prevent the Secretary from contracting for separate parts of the supplies of stationery required to be furnished.
+# §§ 6569 to 6571. Repealed. Pub. L. 113–235, div. H, title I , § 1(a), Dec. 16, 2014 , 128 Stat. 2525
 

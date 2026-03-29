@@ -3,9 +3,9 @@ title: "Section 6207 - Limits on grants for Radio Free Europe and Radio Liberty"
 usc_title: 22
 usc_section: "6207"
 chapter: 71
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 6207"
-generated_at: "2026-03-29T18:05:21.997Z"
+generated_at: "2026-03-29T18:24:54.348Z"
 ---
 
 # § 6207. Limits on grants for Radio Free Europe and Radio Liberty
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T18:05:21.997Z"
 - **(e)** Nothing in this chapter may be construed to make RFE/RL, Incorporated a Federal agency or instrumentality.
 - **(f)** Grants authorized under section 6204 of this title for RFE/RL, Incorporated, shall be available to make annual grants for the purpose of carrying out similar functions as were carried out by RFE/RL, Incorporated, on the day before April 30, 1994 , with respect to Radio Free Europe and Radio Liberty, consistent with section 2 of the Board for International Broadcasting Act of 1973 [ 22 U.S.C. 2871 ], as in effect on such date.
 - **(g)** Grants to RFE/RL, Incorporated, by the Board shall only be made in compliance with a grant agreement. The grant agreement shall establish guidelines for such grants. The grant agreement shall include the following provisions—
-  - **(1)** that a grant be used only for activities which the Board determines are consistent with the purposes of subsection (f) of this section;
+  - **(1)** that a grant be used only for activities which the Board determines are consistent with the purposes of subsection (f);
   - **(2)** that RFE/RL, Incorporated, shall otherwise comply with the requirements of this section;
   - **(3)** that failure to comply with the requirements of this section may result in suspension or termination of a grant without further obligation by the Board or the United States;
   - **(4)** that duplication of language services and technical operations between RFE/RL, Incorporated and the International Broadcasting Bureau be reduced to the extent appropriate, as determined by the Board; and

@@ -3,9 +3,9 @@ title: "Section 441d - Examinations, excavations, and gathering of objects of in
 usc_title: 16
 usc_section: "441d"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 441d"
-generated_at: "2026-03-29T18:05:06.605Z"
+generated_at: "2026-03-29T18:24:22.522Z"
 ---
 
 # § 441d. Examinations, excavations, and gathering of objects of interest within park

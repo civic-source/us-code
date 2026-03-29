@@ -3,15 +3,15 @@ title: "Section 7246 - Fair funds for investors"
 usc_title: 15
 usc_section: "7246"
 chapter: 98
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 7246"
-generated_at: "2026-03-29T18:04:29.964Z"
+generated_at: "2026-03-29T18:24:08.652Z"
 ---
 
 # § 7246. Fair funds for investors
 
 - **(a)** If, in any judicial or administrative action brought by the Commission under the securities laws, the Commission obtains a civil penalty against any person for a violation of such laws, or such person agrees, in settlement of any such action, to such civil penalty, the amount of such civil penalty shall, on the motion or at the direction of the Commission, be added to and become part of a disgorgement fund or other fund established for the benefit of the victims of such violation.
-- **(b)** The Commission is authorized to accept, hold, administer, and utilize gifts, bequests and devises of property, both real and personal, to the United States for a disgorgement fund or other fund described in subsection (a) of this section. Such gifts, bequests, and devises of money and proceeds from sales of other property received as gifts, bequests, or devises shall be deposited in such fund and shall be available for allocation in accordance with subsection (a) of this section.
+- **(b)** The Commission is authorized to accept, hold, administer, and utilize gifts, bequests and devises of property, both real and personal, to the United States for a disgorgement fund or other fund described in subsection (a). Such gifts, bequests, and devises of money and proceeds from sales of other property received as gifts, bequests, or devises shall be deposited in such fund and shall be available for allocation in accordance with subsection (a).
 - **(c)**
   - **(1)** The Commission shall review and analyze—
     - **(A)** enforcement actions by the Commission over the five years preceding July 30, 2002 , that have included proceedings to obtain civil penalties or disgorgements to identify areas where such proceedings may be utilized to efficiently, effectively, and fairly provide restitution for injured investors; and

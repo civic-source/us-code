@@ -1,14 +1,12 @@
 ---
-title: "Section 458aa - Establishment"
+title: "Section 458aa - Transferred"
 usc_title: 25
 usc_section: "458aa"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 458aa"
-generated_at: "2026-03-29T18:05:17.057Z"
+generated_at: "2026-03-29T18:25:23.694Z"
 ---
 
-# § 458aa. Establishment
-
-The Secretary of the Interior (hereinafter in this part referred to as the “Secretary”) shall establish and carry out a program within the Department of the Interior to be known as Tribal Self-Governance (hereinafter in this part referred to as “Self-Governance”) in accordance with this part.
+# § 458aa. Transferred
 

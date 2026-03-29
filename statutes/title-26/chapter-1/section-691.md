@@ -3,9 +3,9 @@ title: "Section 691 - Recipients of income in respect of decedents"
 usc_title: 26
 usc_section: "691"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 691"
-generated_at: "2026-03-29T18:05:44.687Z"
+generated_at: "2026-03-29T18:25:53.635Z"
 ---
 
 # § 691. Recipients of income in respect of decedents
@@ -44,7 +44,7 @@ generated_at: "2026-03-29T18:05:44.687Z"
   - **(4)** For purposes of sections 1(h), 1201, 1202, and 1211, the amount taken into account with respect to any item described in subsection (a)(1) shall be reduced (but not below zero) by the amount of the deduction allowable under paragraph (1) of this subsection with respect to such item.
 - **(d)**
   - **(1)** For purposes of computing the deduction under subsection (c)(1)(A), amounts received by a surviving annuitant—
-    - **(A)** as an annuity under a joint and survivor annuity contract where the decedent annuitant died after December 31, 1953 , and after the annuity starting date (as defined in section 72(c)(4)), and
+    - **(A)** as an annuity under a joint and survivor annuity contract where the decedent annuitant died after the annuity starting date (as defined in section 72(c)(4)), and
     - **(B)** during the surviving annuitant’s life expectancy period, shall, to the extent included in gross income under section 72, be considered as amounts included in gross income under subsection (a).
   - **(2)** In determining the net value for estate tax purposes under subsection (c)(2)(B) for purposes of this subsection, the value for estate tax purposes of the items described in paragraph (1) of this subsection shall be computed—
     - **(A)** by determining the excess of the value of the annuity at the date of the death of the deceased annuitant over the total amount excludable from the gross income of the surviving annuitant under section 72 during the surviving annuitant’s life expectancy period, and

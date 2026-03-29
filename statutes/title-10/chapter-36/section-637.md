@@ -3,9 +3,9 @@ title: "Section 637 - Selection of regular officers for continuation on active d
 usc_title: 10
 usc_section: "637"
 chapter: 36
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 637"
-generated_at: "2026-03-29T18:04:13.000Z"
+generated_at: "2026-03-29T18:23:51.753Z"
 ---
 
 # § 637. Selection of regular officers for continuation on active duty

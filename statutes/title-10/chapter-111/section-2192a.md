@@ -3,9 +3,9 @@ title: "Section 2192a - Science, Mathematics, and Research for Transformation (S
 usc_title: 10
 usc_section: "2192a"
 chapter: 111
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2192a"
-generated_at: "2026-03-29T18:04:13.124Z"
+generated_at: "2026-03-29T18:23:51.881Z"
 ---
 
 # § 2192a. Science, Mathematics, and Research for Transformation (SMART) Defense Education Program
@@ -13,15 +13,19 @@ generated_at: "2026-03-29T18:04:13.124Z"
 - **(a)** The Secretary of Defense shall carry out a program to provide financial assistance for education in science, mathematics, engineering, and technology skills and disciplines that, as determined by the Secretary, are critical to the national security functions of the Department of Defense and are needed in the Department of Defense workforce.
 - **(b)**
   - **(1)** Under the program under this section, the Secretary of Defense may award a scholarship or fellowship in accordance with this section to a person who—
-    - **(A)** is a citizen of the United States;
+    - **(A)** is a citizen of the United States or, subject to subsection (g), a country the government of which is a party to The Technical Cooperation Program (TTCP) memorandum of understanding of October 24, 1995 ;
     - **(B)** is pursuing an associates degree, undergraduate degree, or advanced degree in a critical skill or discipline described in subsection (a) at an accredited institution of higher education; and
     - **(C)** enters into a service agreement with the Secretary of Defense as described in subsection (c).
-  - **(2)** The amount of the financial assistance provided under a scholarship or fellowship awarded to a person under this subsection shall be the amount determined by the Secretary of Defense as being necessary to pay all educational expenses incurred by that person, including tuition, fees, cost of books, laboratory expenses, equipment expenses, and expenses of room and board.
+  - **(2)** The amount of the financial assistance provided under a scholarship or fellowship awarded to a person under this subsection shall be an amount determined by the Secretary of Defense.
   - **(3)** Financial assistance provided under a scholarship or fellowship awarded under this section may be paid directly to the recipient of such scholarship or fellowship or to an administering entity for disbursement of the funds.
 - **(c)**
   - **(1)** To receive financial assistance under this section—
     - **(A)** in the case of an employee of the Department of Defense, the employee shall enter into a written agreement to continue in the employment of the department for the period of obligated service determined under paragraph (2); and
-    - **(B)** in the case of a person not an employee of the Department of Defense, the person shall enter into a written agreement to accept and continue employment in the Department of Defense for the period of obligated service determined under paragraph (2).
+    - **(B)** in the case of a person not an employee of the Department of Defense, the person shall enter into a written agreement to accept and continue employment for the period of obligated service determined under paragraph (2)—
+      - **(i)** with the Department; or
+      - **(ii)** with a public or private entity or organization outside of the Department if the Secretary—
+        - **(I)** is unable to find an appropriate position for the person within the Department; and
+        - **(II)** determines that employment of the person with such entity or organization for the purpose of such obligated service would provide a benefit to the Department.
   - **(2)** For the purposes of this subsection, the period of obligated service for a recipient of financial assistance under this section shall be the period determined by the Secretary of Defense as being appropriate to obtain adequate service in exchange for such financial assistance. The period of service required of a recipient may not be less than the total period of pursuit of a degree that is covered by such financial assistance. The period of obligated service is in addition to any other period for which the recipient is obligated to serve in the civil service of the United States.
   - **(3)** An agreement entered into under this subsection by a person pursuing an academic degree shall include any terms and conditions that the Secretary of Defense determines necessary to protect the interests of the United States or otherwise appropriate for carrying out this section.
 - **(d)** The Secretary of Defense—
@@ -39,4 +43,10 @@ generated_at: "2026-03-29T18:04:13.124Z"
   - **(3)** The Secretary of Defense may waive, in whole or in part, a refund required under paragraph (1) if the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States.
   - **(4)** A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or under this subsection.
 - **(f)** The Secretary of Defense shall coordinate the provision of financial assistance under the authority of this section with the provision of financial assistance under the other authorities provided in this chapter in order to maximize the benefits derived by the Department of Defense from the exercise of all such authorities.
-- **(g)** In this section, the term “institution of higher education” has the meaning given such term in section 101 of the Higher Education Act of 1965 ( 20 U.S.C. 1001 ).
+- **(g)**
+  - **(1)** The Secretary may not award scholarships or fellowships under this section to more than five individuals described in paragraph (2) per year.
+  - **(2)** An individual described in this paragraph is an individual who—
+    - **(A)** has not previously been awarded a scholarship or fellowship under the program under this section;
+    - **(B)** is not a citizen of the United States; and
+    - **(C)** is a citizen of a country the government of which is a party to The Technical Cooperation Program (TTCP) memorandum of understanding of October 24, 1995 .
+- **(h)** In this section, the term “institution of higher education” has the meaning given such term in section 101 of the Higher Education Act of 1965 ( 20 U.S.C. 1001 ).

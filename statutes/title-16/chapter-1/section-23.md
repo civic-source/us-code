@@ -3,9 +3,9 @@ title: "Section 23 - Land use authorities"
 usc_title: 16
 usc_section: "23"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 23"
-generated_at: "2026-03-29T18:05:06.701Z"
+generated_at: "2026-03-29T18:24:22.605Z"
 ---
 
 # § 460nnn–23. Land use authorities
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T18:05:06.701Z"
   - **(1)** The Secretary shall permit hunting, fishing, and trapping on Federal lands included in the Cooperative Management and Protection Area in accordance with applicable laws and regulations of the United States and the State of Oregon.
   - **(2)** After consultation with the Oregon Department of Fish and Wildlife, the Secretary may designate zones where, and establish periods when, hunting, trapping or fishing is prohibited on Federal lands included in the Cooperative Management and Protection Area for reasons of public safety, administration, or public use and enjoyment.
 - **(e)**
-  - **(1)** Except as otherwise provided in this section and part F of this subchapter, the laws, regulations, and executive orders otherwise applicable to the Bureau of Land Management in issuing and administering grazing leases and permits on lands under its jurisdiction shall apply in regard to the Federal lands included in the Cooperative Management and Protection Area.
+  - **(1)** Except as otherwise provided in this section and part F, the laws, regulations, and executive orders otherwise applicable to the Bureau of Land Management in issuing and administering grazing leases and permits on lands under its jurisdiction shall apply in regard to the Federal lands included in the Cooperative Management and Protection Area.
   - **(2)** The Secretary shall cancel that portion of the permitted grazing on Federal lands in the Fish Creek/Big Indian, East Ridge, and South Steens allotments located within the area designated as the “no livestock grazing area” on the map referred to in section 460nnn–11(a) of this title . Upon cancellation, future grazing use in that designated area is prohibited. The Secretary shall be responsible for installing and maintaining any fencing required for resource protection within the designated no livestock grazing area.
   - **(3)** Reallocation of available forage shall be made as follows:
     - **(A)** O’Keefe pasture within the Miners Field allotment to Stafford Ranches.

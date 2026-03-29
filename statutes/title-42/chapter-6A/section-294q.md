@@ -3,9 +3,9 @@ title: "Section 294q - National Health Care Workforce Commission"
 usc_title: 42
 usc_section: "294q"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 294q"
-generated_at: "2026-03-29T18:07:13.481Z"
+generated_at: "2026-03-29T18:27:02.699Z"
 ---
 
 # § 294q. National Health Care Workforce Commission
@@ -56,8 +56,8 @@ generated_at: "2026-03-29T18:07:13.481Z"
   - **(3)** The topics described in this paragraph include—
     - **(A)** current health care workforce supply and distribution, including demographics, skill sets, and demands, with projected demands during the subsequent 10 and 25 year periods;
     - **(B)** health care workforce education and training capacity, including the number of students who have completed education and training, including registered apprenticeships; the number of qualified faculty; the education and training infrastructure; and the education and training demands, with projected demands during the subsequent 10 and 25 year periods;
-    - **(C)** the education loan and grant programs in titles VII and VIII of the Public Health Service Act ( 42 U.S.C. 292 et seq. and 296 et seq.), with recommendations on whether such programs should become part of the Higher Education Act of 1965 ( 20 U.S.C. 1001 et seq[., 42 U.S.C. 2751 et seq.]);
-    - **(D)** the implications of new and existing Federal policies which affect the health care workforce, including Medicare and Medicaid graduate medical education policies, titles VII and VIII of the Public Health Service Act ( 42 U.S.C. 292 et seq. and 296 et seq.), the National Health Service Corps (with recommendations for aligning such programs with national health workforce priorities and goals), and other health care workforce programs, including those supported through the Workforce Investment Act of 1998 ( 29 U.S.C. 2801 et seq.), the Carl D. Perkins Career and Technical Education Act of 2006 ( 20 U.S.C. 2301 et seq.), the Higher Education Act of 1965 ( 20 U.S.C. 1001 et seq.[, 42 U.S.C. 2751 et seq.]), and any other Federal health care workforce programs;
+    - **(C)** the education loan and grant programs in titles VII and VIII of the Public Health Service Act ( 42 U.S.C. 292 et seq. and 296 et seq.), with recommendations on whether such programs should become part of the Higher Education Act of 1965 ( 20 U.S.C. 1001 et seq 2 2 So in original. Probably should be followed by a period. );
+    - **(D)** the implications of new and existing Federal policies which affect the health care workforce, including Medicare and Medicaid graduate medical education policies, titles VII and VIII of the Public Health Service Act ( 42 U.S.C. 292 et seq. and 296 et seq.), the National Health Service Corps (with recommendations for aligning such programs with national health workforce priorities and goals), and other health care workforce programs, including those supported through the Workforce Innovation and Opportunity Act, the Carl D. Perkins Career and Technical Education Act of 2006 ( 20 U.S.C. 2301 et seq.), the Higher Education Act of 1965 ( 20 U.S.C. 1001 et seq.), and any other Federal health care workforce programs;
     - **(E)** the health care workforce needs of special populations, such as minorities, rural populations, medically underserved populations, gender specific needs, individuals with disabilities, and geriatric and pediatric populations with recommendations for new and existing Federal policies to meet the needs of these special populations; and
     - **(F)** recommendations creating or revising national loan repayment programs and scholarship programs to require low-income, minority medical students to serve in their home communities, if designated as medical underserved community. 2 2 So in original.
   - **(4)**

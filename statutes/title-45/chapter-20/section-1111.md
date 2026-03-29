@@ -1,12 +1,12 @@
 ---
-title: "Section 1111 - Repealed. Pub. L. 105–134, title IV, § 408 , Dec. 2, 1997 , 111 Stat. 2586"
+title: "Section 1111 - Repealed. Pub. L. 105–134, title IV , § 408, Dec. 2, 1997 , 111 Stat. 2586"
 usc_title: 45
 usc_section: "1111"
 chapter: 20
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "45 U.S.C. § 1111"
-generated_at: "2026-03-29T18:06:35.981Z"
+generated_at: "2026-03-29T18:26:13.325Z"
 ---
 
-# § 1111. Repealed. Pub. L. 105–134, title IV, § 408 , Dec. 2, 1997 , 111 Stat. 2586
+# § 1111. Repealed. Pub. L. 105–134, title IV , § 408, Dec. 2, 1997 , 111 Stat. 2586
 

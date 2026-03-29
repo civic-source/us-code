@@ -3,9 +3,9 @@ title: "Section 2439 - Freedom to emigrate to join a very close relative in Unit
 usc_title: 19
 usc_section: "2439"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 2439"
-generated_at: "2026-03-29T18:04:55.097Z"
+generated_at: "2026-03-29T18:24:16.167Z"
 ---
 
 # § 2439. Freedom to emigrate to join a very close relative in United States
@@ -14,6 +14,6 @@ generated_at: "2026-03-29T18:04:55.097Z"
   - **(1)** denies its citizens the right or opportunity to join permanently through emigration, a very close relative in the United State, 1 1 So in original. such as a spouse, parent, child, brother, or sister;
   - **(2)** imposes more than a nominal tax on the visas or other documents required for emigration described in paragraph (1); or
   - **(3)** imposes more than a nominal tax, levy, fine, fee, or other charge on any citizen as a consequence of the desire of such citizen to emigrate as described in paragraph (1),
-- **(b)** After January 3, 1975 , (A) a nonmarket economy country may participate in any program of the Government of the United States which extends credits or credit guarantees or investment guarantees, and (B) the President may conclude a commercial agreement with such country, only after the President has submitted to the Congress a report indicating that such country is not in violation of paragraph (1), (2), or (3) of subsection (a) of this section. Such report with respect to such country shall include information as to the nature and implementation of its laws and policies and restrictions or discrimination applied to or against persons wishing to emigrate to the United States to join close relatives. The report required by this subsection shall be submitted initially as provided herein and, with current information, on or before each June 30 and December 31 thereafter, so long as such credits or guarantees are extended or such agreement is in effect.
+- **(b)** After January 3, 1975 , (A) a nonmarket economy country may participate in any program of the Government of the United States which extends credits or credit guarantees or investment guarantees, and (B) the President may conclude a commercial agreement with such country, only after the President has submitted to the Congress a report indicating that such country is not in violation of paragraph (1), (2), or (3) of subsection (a). Such report with respect to such country shall include information as to the nature and implementation of its laws and policies and restrictions or discrimination applied to or against persons wishing to emigrate to the United States to join close relatives. The report required by this subsection shall be submitted initially as provided herein and, with current information, on or before each June 30 and December 31 thereafter, so long as such credits or guarantees are extended or such agreement is in effect.
 - **(c)** This section shall not apply to any country the products of which are eligible for the rates set forth in rate column numbered 1 of the Tariff Schedules of the United States on January 3, 1975 .
-- **(d)** During any period that a waiver is in effect with respect to any nonmarket economy country under section 2432(c) of this title , the provisions of subsections (a) and (b) of this section shall not apply with respect to such country.
+- **(d)** During any period that a waiver is in effect with respect to any nonmarket economy country under section 2432(c) of this title , the provisions of subsections (a) and (b) shall not apply with respect to such country.

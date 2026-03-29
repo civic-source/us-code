@@ -1,14 +1,12 @@
 ---
-title: "Section 1780o - Timing of actions"
+title: "Section 1780o - Omitted"
 usc_title: 25
 usc_section: "1780o"
 chapter: 19
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1780o"
-generated_at: "2026-03-29T18:05:17.192Z"
+generated_at: "2026-03-29T18:25:23.752Z"
 ---
 
-# § 1780o. Timing of actions
-
-It is the intent of Congress that the land conveyances and adjustments contemplated in this subchapter (except the conveyances and adjustments relating to Los Alamos Townsite Land) shall be completed not later than 180 days after September 27, 2006 .
+# § 1780o. Omitted
 

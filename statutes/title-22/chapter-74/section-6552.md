@@ -3,9 +3,9 @@ title: "Section 6552 - Application of certain laws"
 usc_title: 22
 usc_section: "6552"
 chapter: 74
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 6552"
-generated_at: "2026-03-29T18:05:22.007Z"
+generated_at: "2026-03-29T18:24:54.358Z"
 ---
 
 # § 6552. Application of certain laws
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T18:05:22.007Z"
 - **(a)** Section 1461 of this title , section 1461–1 of this title , and section 1461–1a of this title shall not apply to public affairs and other information dissemination functions of the Secretary of State as carried out prior to any transfer of functions pursuant to this chapter.
 - **(b)** Section 1461 of this title , section 1461–1 of this title , and section 1461–1a of this title shall apply only to public diplomacy programs of the Director of the United States Information Agency as carried out prior to any transfer of functions pursuant to this chapter to the same extent that such programs were covered by these provisions prior to such transfer.
 - **(c)**
-  - **(1)** Except as provided in section 1461 of this title and section 1461–1a of this title , funds specifically authorized to be appropriated for such public diplomacy programs, identified as public diplomacy funds in any Congressional Presentation Document described in subsection (e) of this section, or reprogrammed for public diplomacy purposes, shall not be used to influence public opinion in the United States, and no program material prepared using such funds shall be distributed or disseminated in the United States.
+  - **(1)** Except as provided in section 1461 of this title and section 1461–1a of this title , funds specifically authorized to be appropriated for such public diplomacy programs, identified as public diplomacy funds in any Congressional Presentation Document described in subsection (e), or reprogrammed for public diplomacy purposes, shall not be used to influence public opinion in the United States, and no program material prepared using such funds shall be distributed or disseminated in the United States.
   - **(2)** Nothing in paragraph (1) may be construed (A) to interfere with the integration of administrative resources between public diplomacy and other functions of the Department of State or to prevent the occasional performance of functions other than public diplomacy by officials or employees of the Department of State who are primarily assigned to public diplomacy, provided there is no substantial resulting diminution in the amount of resources devoted to public diplomacy below the amounts described in paragraph (1), or (B) to supersede reprogramming procedures.
 - **(d)** The report submitted pursuant to section 6601(f) of this title shall include a detailed statement of the manner in which the special mission of public diplomacy carried out by USIA prior to the transfer of functions under this chapter shall be preserved within the Department of State, including the planned duties and responsibilities of any new bureaus that will perform such public diplomacy functions. Such report shall also include the best available estimates of—
   - **(1)** the amounts expended by the Department of State for public affairs programs during fiscal year 1998, and on the personnel and support costs for such programs;

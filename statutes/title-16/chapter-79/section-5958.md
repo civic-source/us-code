@@ -1,32 +1,12 @@
 ---
-title: "Section 5958 - National Park Service Concessions Management Advisory Board"
+title: "Section 5958 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "5958"
 chapter: 79
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 5958"
-generated_at: "2026-03-29T18:05:07.088Z"
+generated_at: "2026-03-29T18:24:22.926Z"
 ---
 
-# § 5958. National Park Service Concessions Management Advisory Board
+# § 5958. Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272
 
-- **(a)** There is hereby established a National Park Service Concessions Management Advisory Board (in this subchapter referred to as the “Advisory Board”) whose purpose shall be to advise the Secretary and National Park Service on matters relating to management of concessions in the National Park System.
-- **(b)**
-  - **(1)** The Advisory Board shall advise on each of the following:
-    - **(A)** Policies and procedures intended to assure that services and facilities provided by concessioners are necessary and appropriate, meet acceptable standards at reasonable rates with a minimum of impact on park resources and values, and provide the concessioners with a reasonable opportunity to make a profit.
-    - **(B)** Ways to make National Park Service concessions programs and procedures more cost effective, more process efficient, less burdensome, and timelier.
-  - **(2)** The Advisory Board shall make recommendations to the Secretary regarding each of the following:
-    - **(A)** National Park Service contracting with the private sector to conduct appropriate elements of concessions management and providing recommendations to make more efficient, less burdensome, and timelier the review or approval of concessioner rates and charges to the public.
-    - **(B)** The nature and scope of products which qualify as Indian, Alaska Native, and Native Hawaiian handicrafts within this 1 1 So in original. Probably should be “the”. meaning of this subchapter.
-    - **(C)** The allocation of concession fees.
-  - **(3)** The Advisory Board, commencing with the first anniversary of its initial meeting, shall provide an annual report on its activities to the Committee on Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate.
-- **(c)** Members of the Advisory Board shall be appointed on a staggered basis by the Secretary for a term not to exceed 4 years and shall serve at the pleasure of the Secretary. The Advisory Board shall be comprised of not more than seven individuals appointed from among citizens of the United States not in the employment of the Federal Government and not in the employment of or having an interest in a National Park Service concession. Of the seven members of the Advisory Board—
-  - **(1)** one member shall be privately employed in the hospitality industry and have both broad knowledge of hotel or food service management and experience in the parks and recreation concessions business;
-  - **(2)** one member shall be privately employed in the tourism industry;
-  - **(3)** one member shall be privately employed in the accounting industry;
-  - **(4)** one member shall be privately employed in the outfitting and guide industry;
-  - **(5)** one member shall be a State government employee with expertise in park concession management;
-  - **(6)** one member shall be active in promotion of traditional arts and crafts; and
-  - **(7)** one member shall be active in a nonprofit conservation organization involved in parks and recreation programs.
-- **(d)** The Advisory Board shall continue to exist until December 31, 2009 . In all other respects, it shall be subject to the provisions of the Federal Advisory Committee Act.
-- **(e)** Service of an individual as a member of the Advisory Board shall not be considered as service or employment bringing such individual within the provisions of any Federal law relating to conflicts of interest or otherwise imposing restrictions, requirements, or penalties in relation to the employment of persons, the performance of services, or the payment or receipt of compensation in connection with claims, proceedings, or matters involving the United States. Service as a member of the Advisory Board shall not be considered service in an appointive or elective position in the Government for purposes of section 8344 of title 5 or other comparable provisions of Federal law.

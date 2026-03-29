@@ -3,9 +3,9 @@ title: "Section 2267b - Post-disaster watershed assessments"
 usc_title: 33
 usc_section: "2267b"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 2267b"
-generated_at: "2026-03-29T02:14:18.611Z"
+generated_at: "2026-03-29T18:26:01.288Z"
 ---
 
 # § 2267b. Post-disaster watershed assessments
@@ -28,6 +28,3 @@ generated_at: "2026-03-29T02:14:18.611Z"
     - **(B)** not require any element of a study completed for the project prior to the disaster to be repeated.
 - **(c)** All requirements applicable to a project under the Acts described in subsection (b) shall apply to the project.
 - **(d)** A watershed assessment under subsection (a) shall be initiated not later than 2 years after the date on which the major disaster declaration is issued.
-- **(e)**
-  - **(1)** For any major disaster declared in a territory of the United States before October 23, 2018 , all activities in the territory carried out or undertaken pursuant to the authorities described in this section shall be conducted at full Federal expense unless the President determines that the territory has the ability to pay the cost share for an assessment under this section without the use of loans.
-  - **(2)** In this subsection, the term “territory of the United States” means an insular area specified in section 2310(a)(1) of this title .

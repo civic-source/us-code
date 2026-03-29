@@ -3,9 +3,9 @@ title: "Section 3451 - Definitions"
 usc_title: 16
 usc_section: "3451"
 chapter: 54
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 3451"
-generated_at: "2026-03-29T18:05:07.032Z"
+generated_at: "2026-03-29T18:24:22.877Z"
 ---
 
 # § 3451. Definitions
@@ -40,7 +40,7 @@ In this subchapter:
     - **(B)** designated by the chief executive officer or legislature of the State to receive technical assistance and financial assistance under this subchapter.
   - **(4)** The term “designated area” means a geographic area designated by the Secretary to receive technical assistance and financial assistance under this subchapter.
   - **(5)** The term “financial assistance” means a grant or loan provided by the Secretary (or the Secretary and other Federal agencies) to, or a cooperative agreement entered into by the Secretary (or the Secretary and other Federal agencies) with, a council, or association of councils, to carry out an area plan in a designated area, including assistance provided for planning, analysis, feasibility studies, training, education, and other activities necessary to carry out the area plan.
-  - **(6)** The term “Indian tribe” has the meaning given the term in section 450b of title 25 .
+  - **(6)** The term “Indian tribe” has the meaning given the term in section 5304 of title 25 .
   - **(7)** The term “local unit of government” means—
     - **(A)** any county, city, town, township, parish, village, or other general-purpose subdivision of a State; and
     - **(B)** any local or regional special district or other limited political subdivision of a State, including any soil conservation district, school district, park authority, and water or sanitary district.

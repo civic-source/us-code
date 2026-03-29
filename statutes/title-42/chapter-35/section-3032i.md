@@ -3,9 +3,9 @@ title: "Section 3032i - Demonstration and support projects for legal assistance 
 usc_title: 42
 usc_section: "3032i"
 chapter: 35
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 3032i"
-generated_at: "2026-03-29T18:07:14.489Z"
+generated_at: "2026-03-29T18:27:03.490Z"
 ---
 
 # § 3032i. Demonstration and support projects for legal assistance for older individuals
@@ -18,4 +18,4 @@ generated_at: "2026-03-29T18:07:14.489Z"
     - **(D)** assistance in the design, implementation, and administration of legal assistance delivery systems to local providers of legal assistance for older individuals; and
   - **(2)** support demonstration projects to expand or improve the delivery of legal assistance to older individuals with social or economic needs.
 - **(b)** Any grants or contracts made under subsection (a)(2) of this section shall contain assurances that the requirements of section 3027(a)(11) of this title are met.
-- **(c)** To carry out subsection (a)(1) of this section, the Assistant Secretary shall make grants to or enter into contracts with national nonprofit organizations experienced in providing support and technical assistance on a nationwide basis to States, area agencies on aging, legal assistance providers, ombudsmen, elder abuse prevention programs, and other organizations interested in the legal rights of older individuals.
+- **(c)** To carry out subsection (a)(1) of this section, the Assistant Secretary shall make grants to or enter into contracts with nonprofit organizations experienced in providing support and technical assistance on a nationwide basis to States, area agencies on aging, legal assistance providers, ombudsmen, elder abuse prevention programs, and other organizations interested in the legal rights of older individuals.

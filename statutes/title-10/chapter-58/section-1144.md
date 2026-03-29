@@ -3,9 +3,9 @@ title: "Section 1144 - Employment assistance, job training assistance, and other
 usc_title: 10
 usc_section: "1144"
 chapter: 58
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 1144"
-generated_at: "2026-03-29T18:04:13.062Z"
+generated_at: "2026-03-29T18:23:51.801Z"
 ---
 
 # § 1144. Employment assistance, job training assistance, and other transitional services: Department of Labor
@@ -23,6 +23,7 @@ generated_at: "2026-03-29T18:04:13.062Z"
   - **(6)** Provide information about the geographic areas in which such members will relocate after separation from the armed forces, including, to the degree possible, information about employment opportunities, the labor market, and the cost of living in those areas (including, to the extent practicable, the cost and availability of housing, child care, education, and medical and dental care).
   - **(7)** Work with military and veterans’ service organizations and other appropriate organizations in promoting and publicizing job fairs for such members.
   - **(8)** Provide information regarding the public and community service jobs program carried out under section 1143a of this title .
+  - **(9)** Provide information about disability-related employment and education protections.
 - **(c)**
   - **(1)** Except as provided in paragraph (2), the Secretary of Defense and the Secretary of Homeland Security shall require the participation in the program carried out under this section of the members eligible for assistance under the program.
   - **(2)** The Secretary of Defense and the Secretary of Homeland Security may, under regulations such Secretaries shall prescribe, waive the participation requirement of paragraph (1) with respect to—
@@ -40,3 +41,10 @@ generated_at: "2026-03-29T18:04:13.062Z"
     - **(C)** other relevant topics; and
   - **(7)** take other necessary action to develop and furnish the information and services to be provided under this section.
 - **(e)** As part of the program carried out under this section, the Secretary of Defense and the Secretary of Homeland Security may permit a member of the armed forces eligible for assistance under the program to participate in an apprenticeship program registered under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; 50 Stat. 664 , chapter 663; 29 U.S.C. 50 et seq.), or a pre-apprenticeship program that provides credit toward a program registered under such Act, that provides members of the armed forces with the education, training, and services necessary to transition to meaningful employment that leads to economic self-sufficiency.
+- **(f)**
+  - **(1)** As part of the program carried out under this section, the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating, when the Coast Guard is not operating within the Department of the Navy, shall permit a member of the armed forces eligible for assistance under the program to elect to receive additional training in any of the following subjects:
+    - **(A)** Preparation for higher education or training.
+    - **(B)** Preparation for career or technical training.
+    - **(C)** Preparation for entrepreneurship.
+    - **(D)** Other training options determined by the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating, when the Coast Guard is not operating within the Department of the Navy.
+  - **(2)** The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating, when the Coast Guard is not operating within the Department of the Navy, shall ensure that a member of the armed forces who elects to receive additional training in subjects available under paragraph (1) is able to receive the training.

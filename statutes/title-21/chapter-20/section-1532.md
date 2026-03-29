@@ -3,9 +3,9 @@ title: "Section 1532 - Program authorization"
 usc_title: 21
 usc_section: "1532"
 chapter: 20
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 1532"
-generated_at: "2026-03-29T18:05:14.913Z"
+generated_at: "2026-03-29T18:25:04.236Z"
 ---
 
 # § 1532. Program authorization
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T18:05:14.913Z"
       - **(xii)** Other organizations involved in reducing substance abuse.
     - **(B)** If feasible, in addition to representatives from the categories listed in subparagraph (A), the coalition shall have an elected official (or a representative of an elected official) from—
       - **(i)** the Federal Government; and
-      - **(ii)** the government of the appropriate State and political subdivision thereof or the governing body or an Indian tribe (as that term is defined in section 450b(e) of title 25 ).
+      - **(ii)** the government of the appropriate State and political subdivision thereof or the governing body or an Indian tribe (as that term is defined in section 5304(e) of title 25 ).
     - **(C)** An individual who is a member of the coalition may serve on the coalition as a representative of not more than 1 category listed under subparagraph (A).
   - **(3)** The coalition shall demonstrate, to the satisfaction of the Administrator—
     - **(A)** that the representatives of the coalition have worked together on substance abuse reduction initiatives, which, at a minimum, includes initiatives that target drugs referenced in section 1523(9)(A) of this title , for a period of not less than 6 months, acting through entities such as task forces, subcommittees, or community boards; and
@@ -64,19 +64,19 @@ generated_at: "2026-03-29T18:05:14.913Z"
   - **(1)**
     - **(A)**
       - **(i)** Subject to clause (iv), for a fiscal year, the Administrator may grant to an eligible coalition under this paragraph, an amount not to exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, for that fiscal year.
-      - **(ii)** If such grant recipient fails to continue to meet the criteria specified in subsection (a) of this section, the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
+      - **(ii)** If such grant recipient fails to continue to meet the criteria specified in subsection (a), the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
       - **(iii)** Subject to clause (iv), the Administrator may award a renewal grant to a grant recipient under this subparagraph for each fiscal year following the fiscal year for which an initial grant is awarded, in an amount not to exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, for that fiscal year, during the 4-year period following the period of the initial grant.
       - **(iv)** The amount of a grant award under this subparagraph may not exceed $125,000 for a fiscal year.
     - **(B)**
       - **(i)** Except as provided in clause (ii), the Administrator may, with respect to a community, make a grant to 1 eligible coalition that represents that community.
       - **(ii)** The Administrator may make a grant to more than 1 eligible coalition that represents a community if—
         - **(I)** the eligible coalitions demonstrate that the coalitions are collaborating with one another; and
-        - **(II)** each of the coalitions has independently met the requirements set forth in subsection (a) of this section.
+        - **(II)** each of the coalitions has independently met the requirements set forth in subsection (a).
   - **(2)**
     - **(A)**
-      - **(i)** In addition to awarding grants under paragraph (1), to stimulate the development of coalitions in sparsely populated and rural areas, the Administrator, in consultation with the Advisory Commission, may award a grant in accordance with this section to a coalition that represents a county with a population that does not exceed 30,000 individuals. In awarding a grant under this paragraph, the Administrator may waive any requirement under subsection (a) of this section if the Administrator considers that waiver to be appropriate.
+      - **(i)** In addition to awarding grants under paragraph (1), to stimulate the development of coalitions in sparsely populated and rural areas, the Administrator, in consultation with the Advisory Commission, may award a grant in accordance with this section to a coalition that represents a county with a population that does not exceed 30,000 individuals. In awarding a grant under this paragraph, the Administrator may waive any requirement under subsection (a) if the Administrator considers that waiver to be appropriate.
       - **(ii)** Subject to subparagraph (C), for a fiscal year, the Administrator may grant to an eligible coalition under this paragraph, an amount not to exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, for that fiscal year.
-      - **(iii)** If such grant recipient fails to continue to meet any criteria specified in subsection (a) of this section that has not been waived by the Administrator pursuant to clause (i), the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
+      - **(iii)** If such grant recipient fails to continue to meet any criteria specified in subsection (a) that has not been waived by the Administrator pursuant to clause (i), the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
     - **(B)** The Administrator may award a renewal grant to an eligible coalition that is a grant recipient under this paragraph for each fiscal year following the fiscal year for which an initial grant is awarded, in an amount not to exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, during the 4-year period following the period of the initial grant.
     - **(C)**
       - **(i)** The amount of a grant award under this paragraph shall not exceed $125,000 for a fiscal year.
@@ -88,8 +88,8 @@ generated_at: "2026-03-29T18:05:14.913Z"
     - **(D)** Subject to subparagraph (F), the Administrator may award a renewal grant to a grant recipient under this paragraph for each of the fiscal years of the 4-fiscal-year period following the fiscal year for which the initial additional grant under subparagraph (A) is awarded in an amount not to exceed amounts as follows:
       - **(i)** For the first and second fiscal years of that 4-fiscal-year period, the amount equal to 80 percent of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year.
       - **(ii)** For the third and fourth fiscal years of that 4-fiscal-year period, the amount equal to 67 percent of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year.
-    - **(E)** If a grant recipient under this paragraph fails to continue to meet the criteria specified in subsection (a) of this section, the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
+    - **(E)** If a grant recipient under this paragraph fails to continue to meet the criteria specified in subsection (a), the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
     - **(F)** The amount of a grant award under this paragraph may not exceed $125,000 for a fiscal year.
   - **(4)** A grantee shall not be suspended or terminated under paragraph (1)(A)(ii), (2)(A)(iii), or (3)(E) unless that grantee is afforded a fair, timely, and independent appeal prior to such suspension or termination.
 - **(c)** Funds appropriated for the substance abuse activities of a coalition that includes a representative of the Bureau of Indian Affairs, the Indian Health Service, or a tribal government agency with expertise in the field of substance abuse may be counted as non-Federal funds raised by the coalition for purposes of this section.
-- **(d)** In awarding grants under subsection (b)(1)(A)(i) of this section, priority shall be given to a coalition serving economically disadvantaged areas.
+- **(d)** In awarding grants under subsection (b)(1)(A)(i), priority shall be given to a coalition serving economically disadvantaged areas.

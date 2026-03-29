@@ -3,9 +3,9 @@ title: "Section 10133 - Site characterization"
 usc_title: 42
 usc_section: "10133"
 chapter: 108
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 10133"
-generated_at: "2026-03-29T18:07:15.125Z"
+generated_at: "2026-03-29T18:27:03.969Z"
 ---
 
 # § 10133. Site characterization
@@ -35,6 +35,6 @@ generated_at: "2026-03-29T18:07:15.125Z"
     - **(B)** notify the Congress, the 2 2 So in original. Probably should read “Congress and the”. Governor and legislature of Nevada of such termination and the reasons for such termination;
     - **(C)** remove any high-level radioactive waste, spent nuclear fuel, or other radioactive materials at or in such site as promptly as practicable;
     - **(D)** take reasonable and necessary steps to reclaim the site and to mitigate any significant adverse environmental impacts caused by site characterization activities at such site;
-    - **(E)** suspend all future benefits payments under part F of this subchapter with respect to such site; and
+    - **(E)** suspend all future benefits payments under part F with respect to such site; and
     - **(F)** report to Congress not later than 6 months after such determination the Secretary’s recommendations for further action to assure the safe, permanent disposal of spent nuclear fuel and high-level radioactive waste, including the need for new legislative authority.
 - **(d)** Each activity of the Secretary under this section that is in compliance with the provisions of subsection (c) shall be considered a preliminary decisionmaking activity. No such activity shall require the preparation of an environmental impact statement under section 102(2)(C) of the National Environmental Policy Act of 1969 ( 42 U.S.C. 4332(2)(C) ), or to 3 3 So in original. The word “to” probably should not appear. require any environmental review under subparagraph (E) or (F) of section 102(2) of such Act.

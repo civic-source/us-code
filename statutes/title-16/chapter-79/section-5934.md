@@ -1,14 +1,12 @@
 ---
-title: "Section 5934 - Inventory and monitoring program"
+title: "Section 5934 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "5934"
 chapter: 79
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 5934"
-generated_at: "2026-03-29T18:05:07.086Z"
+generated_at: "2026-03-29T18:24:22.926Z"
 ---
 
-# § 5934. Inventory and monitoring program
-
-The Secretary shall undertake a program of inventory and monitoring of National Park System resources to establish baseline information and to provide information on the long-term trends in the condition of National Park System resources. The monitoring program shall be developed in cooperation with other Federal monitoring and information collection efforts to ensure a cost-effective approach.
+# § 5934. Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272
 

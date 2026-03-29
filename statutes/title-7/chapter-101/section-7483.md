@@ -3,14 +3,14 @@ title: "Section 7483 - Issuance of orders"
 usc_title: 7
 usc_section: "7483"
 chapter: 101
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 7483"
-generated_at: "2026-03-29T18:04:05.124Z"
+generated_at: "2026-03-29T18:23:43.519Z"
 ---
 
 # § 7483. Issuance of orders
 
-- **(a)** To effectuate the policy described in section 7481(b) of this title , the Secretary, subject to subsection (b) of this section, shall issue 1 or more orders applicable to processors. An order shall be applicable to all popcorn production and marketing areas in the United States. Not more than 1 order shall be in effect under this subchapter at any 1 time.
+- **(a)** To effectuate the policy described in section 7481(b) of this title , the Secretary, subject to subsection (b), shall issue 1 or more orders applicable to processors. An order shall be applicable to all popcorn production and marketing areas in the United States. Not more than 1 order shall be in effect under this subchapter at any 1 time.
 - **(b)**
   - **(1)** The Secretary may propose the issuance of an order, or an association of processors or any other person that would be affected by an order may request the issuance of, and submit a proposal for, an order.
   - **(2)** Not later than 60 days after the receipt of a request and proposal for an order under paragraph (1), or at such time as the Secretary determines to propose an order, the Secretary shall publish a proposed order and give due notice and opportunity for public comment on the proposed order.

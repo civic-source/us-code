@@ -3,9 +3,9 @@ title: "Section 1030 - Alternative methods of compliance"
 usc_title: 29
 usc_section: "1030"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 1030"
-generated_at: "2026-03-29T18:05:31.731Z"
+generated_at: "2026-03-29T18:25:43.063Z"
 ---
 
 # § 1030. Alternative methods of compliance
@@ -16,4 +16,4 @@ generated_at: "2026-03-29T18:05:31.731Z"
     - **(A)** increase the costs to the plan, or
     - **(B)** impose unreasonable administrative burdens with respect to the operation of the plan, having regard to the particular characteristics of the plan or the type of plan involved; and
   - **(3)** that the application of this part would be adverse to the interests of plan participants in the aggregate.
-- **(b)** An alternative method may be prescribed under subsection (a) of this section by regulation or otherwise. If an alternative method is prescribed other than by regulation, the Secretary shall provide notice and an opportunity for interested persons to present their views, and shall publish in the Federal Register the provisions of such alternative method.
+- **(b)** An alternative method may be prescribed under subsection (a) by regulation or otherwise. If an alternative method is prescribed other than by regulation, the Secretary shall provide notice and an opportunity for interested persons to present their views, and shall publish in the Federal Register the provisions of such alternative method.

@@ -3,9 +3,9 @@ title: "Section 1141e - Extension of protection of an international registration
 usc_title: 15
 usc_section: "1141e"
 chapter: 22
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 1141e"
-generated_at: "2026-03-29T18:04:29.539Z"
+generated_at: "2026-03-29T18:24:08.434Z"
 ---
 
 # § 1141e. Extension of protection of an international registration to the United States under the Madrid Protocol

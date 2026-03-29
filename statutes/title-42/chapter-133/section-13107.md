@@ -3,15 +3,15 @@ title: "Section 13107 - EPA report"
 usc_title: 42
 usc_section: "13107"
 chapter: 133
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 13107"
-generated_at: "2026-03-29T18:07:15.300Z"
+generated_at: "2026-03-29T18:27:04.104Z"
 ---
 
 # § 13107. EPA report
 
 - **(a)** The Administrator shall provide Congress with a report within eighteen months after November 5, 1990 , and biennially thereafter, containing a detailed description of the actions taken to implement the strategy to promote source reduction developed under section 13103(b) 1 1 See References in Text note below. of this title and of the results of such actions. The report shall include an assessment of the effectiveness of the clearinghouse and grant program established under this chapter in promoting the goals of the strategy, and shall evaluate data gaps and data duplication with respect to data collected under Federal environmental statutes.
-- **(b)** Each biennial report submitted under subsection (a) of this section after the first report shall contain each of the following:
+- **(b)** Each biennial report submitted under subsection (a) after the first report shall contain each of the following:
   - **(1)** An analysis of the data collected under section 13106 of this title on an industry-by-industry basis for not less than five SIC codes or other categories as the Administrator deems appropriate. The analysis shall begin with those SIC codes or other categories of facilities which generate the largest quantities of toxic chemical waste. The analysis shall include an evaluation of trends in source reduction by industry, firm size, production, or other useful means. Each such subsequent report shall cover five SIC codes or other categories which were not covered in a prior report until all SIC codes or other categories have been covered.
   - **(2)** An analysis of the usefulness and validity of the data collected under section 13106 of this title for measuring trends in source reduction and the adoption of source reduction by business.
   - **(3)** Identification of regulatory and nonregulatory barriers to source reduction, and of opportunities for using existing regulatory programs, and incentives and disincentives to promote and assist source reduction.

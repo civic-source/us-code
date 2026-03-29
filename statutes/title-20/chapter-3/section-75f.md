@@ -3,9 +3,9 @@ title: "Section 75f - Director; appointment and compensation; officers and emplo
 usc_title: 20
 usc_section: "75f"
 chapter: 3
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 75f"
-generated_at: "2026-03-29T18:05:00.003Z"
+generated_at: "2026-03-29T18:24:40.865Z"
 ---
 
 # § 75f. Director; appointment and compensation; officers and employees

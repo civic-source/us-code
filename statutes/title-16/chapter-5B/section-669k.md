@@ -3,9 +3,9 @@ title: "Section 669k - Reports and certifications"
 usc_title: 16
 usc_section: "669k"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 669k"
-generated_at: "2026-03-29T18:05:06.794Z"
+generated_at: "2026-03-29T18:24:22.682Z"
 ---
 
 # § 669k. Reports and certifications
@@ -27,4 +27,4 @@ generated_at: "2026-03-29T18:05:06.794Z"
 - **(d)**
   - **(1)** Not later than 60 days after the end of each fiscal year, each State that received amounts apportioned under the Pittman-Robertson Wildlife Restoration Act ( 16 U.S.C. 669 et seq.) or the Dingell-Johnson Sport Fish Restoration Act ( 16 U.S.C. 777 et seq.) for the fiscal year shall certify to the Secretary of the Interior in writing that the amounts were expended by the State in accordance with each of those Acts.
   - **(2)** Not later than December 31 of a fiscal year, the Secretary of the Interior shall transmit all certifications under paragraph (1) for the previous fiscal year to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate.
-- **(e)** The Secretary of the Interior shall not delegate the responsibility for making a certification under subsection (c) of this section to any person except the Assistant Secretary for Fish and Wildlife and Parks.
+- **(e)** The Secretary of the Interior shall not delegate the responsibility for making a certification under subsection (c) to any person except the Assistant Secretary for Fish and Wildlife and Parks.

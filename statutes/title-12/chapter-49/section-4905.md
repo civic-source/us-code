@@ -3,9 +3,9 @@ title: "Section 4905 - Disclosure requirements for lender paid mortgage insuranc
 usc_title: 12
 usc_section: "4905"
 chapter: 49
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 4905"
-generated_at: "2026-03-29T18:04:43.743Z"
+generated_at: "2026-03-29T18:24:03.057Z"
 ---
 
 # § 4905. Disclosure requirements for lender paid mortgage insurance
@@ -24,4 +24,4 @@ generated_at: "2026-03-29T18:04:43.743Z"
     - **(C)** that lender paid mortgage insurance and borrower paid mortgage insurance both have benefits and disadvantages, including a generic analysis of the differing costs and benefits of a residential mortgage in the case lender paid mortgage insurance versus borrower paid mortgage insurance over a 10-year period, assuming prevailing interest and property appreciation rates;
     - **(D)** that lender paid mortgage insurance may be tax-deductible for purposes of Federal income taxes, if the mortgagor itemizes expenses for that purpose; and
   - **(2)** not later than 30 days after the termination date that would apply in the case of borrower paid mortgage insurance, the servicer shall provide to the mortgagor a written notice indicating that the mortgagor may wish to review financing options that could eliminate the requirement for private mortgage insurance in connection with the residential mortgage transaction.
-- **(d)** The servicer of a residential mortgage transaction may develop and use a standardized form or forms for the provision of notices to the mortgagor, as required under subsection (c) of this section.
+- **(d)** The servicer of a residential mortgage transaction may develop and use a standardized form or forms for the provision of notices to the mortgagor, as required under subsection (c).

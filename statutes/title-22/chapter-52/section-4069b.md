@@ -3,17 +3,17 @@ title: "Section 4069b - Survivor benefits for certain former spouses"
 usc_title: 22
 usc_section: "4069b"
 chapter: 52
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 4069b"
-generated_at: "2026-03-29T18:05:21.942Z"
+generated_at: "2026-03-29T18:24:54.306Z"
 ---
 
 # § 4069b. Survivor benefits for certain former spouses
 
-- **(a)** Any individual who was a former spouse of a participant or former participant on February 14, 1981 , shall be entitled, to the extent or in such amounts as are provided in advance in appropriations Acts, and except to the extent such former spouse is disqualified under subsection (b) of this section, to a survivor annuity equal to 55 percent of the greater of—
+- **(a)** Any individual who was a former spouse of a participant or former participant on February 14, 1981 , shall be entitled, to the extent or in such amounts as are provided in advance in appropriations Acts, and except to the extent such former spouse is disqualified under subsection (b), to a survivor annuity equal to 55 percent of the greater of—
   - **(1)** the full amount of the participant’s or former participant’s annuity, as computed under this subchapter; or
   - **(2)** the full amount of what such annuity as so computed would be if the participant or former participant had not withdrawn a lump-sum portion of contributions made with respect to such annuity.
-- **(b)** If an election has been made with respect to such former spouse under section 4159 or 4046(f) of this title, then the survivor annuity under subsection (a) of this section of such former spouse shall be equal to the full amount of the participant’s or former participant’s annuity referred to in subsection (a) of this section less the amount of such election.
+- **(b)** If an election has been made with respect to such former spouse under section 4159 or 4046(f) of this title, then the survivor annuity under subsection (a) of such former spouse shall be equal to the full amount of the participant’s or former participant’s annuity referred to in subsection (a) less the amount of such election.
 - **(c)** A former spouse shall not be entitled to a survivor annuity under this section if—
   - **(1)** the former spouse remarries before age 55; or
   - **(2)** the former spouse was not married to the participant at least 10 years during service of the participant which is creditable under this subchapter with at least 5 years occurring while the participant was a member of the Foreign Service.

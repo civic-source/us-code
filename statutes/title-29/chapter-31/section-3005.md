@@ -3,9 +3,9 @@ title: "Section 3005 - National activities"
 usc_title: 29
 usc_section: "3005"
 chapter: 31
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 3005"
-generated_at: "2026-03-29T18:05:31.845Z"
+generated_at: "2026-03-29T18:25:43.136Z"
 ---
 
 # § 3005. National activities
@@ -109,6 +109,6 @@ generated_at: "2026-03-29T18:05:31.845Z"
   - **(1)** individuals with disabilities who use assistive technology and understand the barriers to the acquisition of such technology and assistive technology services;
   - **(2)** family members, guardians, advocates, and authorized representatives of such individuals;
   - **(3)** individuals employed by protection and advocacy systems funded under section 3004 of this title ;
-  - **(4)** relevant employees from Federal departments and agencies, other than the Department of Education;
+  - **(4)** relevant employees from Federal departments and agencies, other than the Department of Health and Human Services;
   - **(5)** representatives of businesses; and
   - **(6)** venders and public and private researchers and developers.

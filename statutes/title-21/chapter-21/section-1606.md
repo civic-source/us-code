@@ -3,9 +3,9 @@ title: "Section 1606 - Subsequent impleader of dismissed biomaterials supplier"
 usc_title: 21
 usc_section: "1606"
 chapter: 21
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 1606"
-generated_at: "2026-03-29T18:05:14.921Z"
+generated_at: "2026-03-29T18:25:04.240Z"
 ---
 
 # § 1606. Subsequent impleader of dismissed biomaterials supplier
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T18:05:14.921Z"
   - **(2)** the claimant has moved to implead the supplier and the court finds, based on the court’s independent review of the evidence contained in the record of the action, that under applicable law—
     - **(A)** the negligence or intentionally tortious conduct of the dismissed supplier was an actual and proximate cause of the harm to the claimant; and
     - **(B)** the claimant is unlikely to be able to recover the full amount of its damages from the remaining defendants.
-- **(b)** Notwithstanding any preliminary finding under subsection (a) of this section, a biomaterials supplier who has been impleaded into an action covered by this chapter, as provided for in this section—
-  - **(1)** may, prior to entry of judgment on the claim against it, supplement the record of the proceeding that was developed prior to the grant of the motion for impleader under subsection (a) of this section; and
+- **(b)** Notwithstanding any preliminary finding under subsection (a), a biomaterials supplier who has been impleaded into an action covered by this chapter, as provided for in this section—
+  - **(1)** may, prior to entry of judgment on the claim against it, supplement the record of the proceeding that was developed prior to the grant of the motion for impleader under subsection (a); and
   - **(2)** may be found liable to a manufacturer or a claimant only to the extent required and permitted by any applicable State or Federal law other than this chapter.
 - **(c)** Nothing in this section shall give a claimant or any other party the right to obtain discovery from a biomaterials supplier at any time prior to grant of a motion for impleader beyond that allowed under section 1605 of this title .

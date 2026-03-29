@@ -3,9 +3,9 @@ title: "Section 1108 - Exemptions from prohibited transactions"
 usc_title: 29
 usc_section: "1108"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 1108"
-generated_at: "2026-03-29T18:05:31.757Z"
+generated_at: "2026-03-29T18:25:43.089Z"
 ---
 
 # § 1108. Exemptions from prohibited transactions
@@ -35,13 +35,13 @@ generated_at: "2026-03-29T18:05:31.757Z"
     - **(B)** the bank, trust company, or insurance company receives not more than reasonable compensation, and
     - **(C)** such transaction is expressly permitted by the instrument under which the plan is maintained, or by a fiduciary (other than the bank, trust company, or insurance company, or an affiliate thereof) who has authority to manage and control the assets of the plan.
   - **(9)** The making by a fiduciary of a distribution of the assets of the plan in accordance with the terms of the plan if such assets are distributed in the same manner as provided under section 1344 of this title (relating to allocation of assets).
-  - **(10)** Any transaction required or permitted under part 1 of subtitle E of subchapter III of this chapter.
+  - **(10)** Any transaction required or permitted under part 1 of subtitle E of subchapter III.
   - **(11)** A merger of multiemployer plans, or the transfer of assets or liabilities between multiemployer plans, determined by the Pension Benefit Guaranty Corporation to meet the requirements of section 1411 of this title .
   - **(12)** The sale by a plan to a party in interest on or after December 18, 1987 , of any stock, if—
-    - **(A)** the requirements of paragraphs (1) and (2) of subsection (e) of this section are met with respect to such stock,
+    - **(A)** the requirements of paragraphs (1) and (2) of subsection (e) are met with respect to such stock,
     - **(B)** on the later of the date on which the stock was acquired by the plan, or January 1, 1975 , such stock constituted a qualifying employer security (as defined in section 1107(d)(5) of this title as then in effect), and
     - **(C)** such stock does not constitute a qualifying employer security (as defined in section 1107(d)(5) of this title as in effect at the time of the sale).
-  - **(13)** Any transfer made before January 1, 2022 , of excess pension assets from a defined benefit plan to a retiree health account in a qualified transfer permitted under section 420 of title 26 (as in effect on July 6, 2012 ).
+  - **(13)** Any transfer made before January 1, 2026 , of excess pension assets from a defined benefit plan to a retiree health account in a qualified transfer permitted under section 420 of title 26 (as in effect on July 31, 2015 ).
   - **(14)** Any transaction in connection with the provision of investment advice described in section 1002(21)(A)(ii) of this title to a participant or beneficiary of an individual account plan that permits such participant or beneficiary to direct the investment of assets in their individual account, if—
     - **(A)** the transaction is—
       - **(i)** the provision of the investment advice to the participant or beneficiary of the plan with respect to a security or other property available as an investment under the plan,
@@ -121,7 +121,7 @@ generated_at: "2026-03-29T18:05:31.757Z"
   - **(3)** if—
     - **(A)** the plan is an eligible individual account plan (as defined in section 1107(d)(3) of this title ), or
     - **(B)** in the case of an acquisition or lease of qualifying employer real property by a plan which is not an eligible individual account plan, or of an acquisition of qualifying employer securities by such a plan, the lease or acquisition is not prohibited by section 1107(a) of this title .
-- **(f)** Section 1106(b)(2) of this title shall not apply to any merger or transfer described in subsection (b)(11) of this section.
+- **(f)** Section 1106(b)(2) of this title shall not apply to any merger or transfer described in subsection (b)(11).
 - **(g)**
   - **(1)** The prohibitions provided in section 1106 of this title shall not apply to transactions described in subsection (b)(14) if the investment advice provided by a fiduciary adviser is provided under an eligible investment advice arrangement.
   - **(2)** For purposes of this subsection, the term “eligible investment advice arrangement” means an arrangement—

@@ -1,16 +1,17 @@
 ---
-title: "Section 3309 - Annual report on advisory committees"
+title: "Section 3309 - Notification of establishment of advisory committee"
 usc_title: 50
 usc_section: "3309"
 chapter: 45
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 3309"
-generated_at: "2026-03-29T18:07:43.125Z"
+generated_at: "2026-03-29T18:27:35.691Z"
 ---
 
-# § 3309. Annual report on advisory committees
+# § 3309. Notification of establishment of advisory committee
 
-  - **(1)** The Director of National Intelligence and the Director of the Central Intelligence Agency shall each submit to the congressional intelligence committees an annual report on advisory committees created by each such Director. Each report shall include—
-    - **(A)** a description of each such advisory committee, including the subject matter of the committee; and
-    - **(B)** a list of members of each such advisory committee.
-  - **(2)** Each report submitted by the Director of National Intelligence in accordance with paragraph (1) shall include the reasons for a determination by the Director under section 4(b)(3) of the Federal Advisory Committee Act (5 U.S.C. App.), as added by subsection (a) of this section, that an advisory committee cannot comply with the requirements of such Act.
+The Director of National Intelligence and the Director of the Central Intelligence Agency shall each notify the congressional intelligence committees each time each such Director creates an advisory committee. Each notification shall include—
+
+  - **(1)** a description of such advisory committee, including the subject matter of such committee;
+  - **(2)** a list of members of such advisory committee; and
+  - **(3)** in the case of an advisory committee created by the Director of National Intelligence, the reasons for a determination by the Director under section 4(b)(3) of the Federal Advisory Committee Act (5 U.S.C. App.) that an advisory committee cannot comply with the requirements of such Act.

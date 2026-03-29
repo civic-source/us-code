@@ -3,9 +3,9 @@ title: "Section 1693i - Issuance of cards or other means of access"
 usc_title: 15
 usc_section: "1693i"
 chapter: 41
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 1693i"
-generated_at: "2026-03-29T18:04:29.655Z"
+generated_at: "2026-03-29T18:24:08.502Z"
 ---
 
 # § 1693i. Issuance of cards or other means of access
@@ -13,9 +13,9 @@ generated_at: "2026-03-29T18:04:29.655Z"
 - **(a)** No person may issue to a consumer any card, code, or other means of access to such consumer’s account for the purpose of initiating an electronic fund transfer other than—
   - **(1)** in response to a request or application therefor; or
   - **(2)** as a renewal of, or in substitution for, an accepted card, code, or other means of access, whether issued by the initial issuer or a successor.
-- **(b)** Notwithstanding the provisions of subsection (a) of this section, a person may distribute to a consumer on an unsolicited basis a card, code, or other means of access for use in initiating an electronic fund transfer from such consumer’s account, if—
+- **(b)** Notwithstanding the provisions of subsection (a), a person may distribute to a consumer on an unsolicited basis a card, code, or other means of access for use in initiating an electronic fund transfer from such consumer’s account, if—
   - **(1)** such card, code, or other means of access is not validated;
   - **(2)** such distribution is accompanied by a complete disclosure, in accordance with section 1693c of this title , of the consumer’s rights and liabilities which will apply if such card, code, or other means of access is validated;
   - **(3)** such distribution is accompanied by a clear explanation, in accordance with regulations of the Bureau, that such card, code, or other means of access is not validated and how the consumer may dispose of such code, card, or other means of access if validation is not desired; and
   - **(4)** such card, code, or other means of access is validated only in response to a request or application from the consumer, upon verification of the consumer’s identity.
-- **(c)** For the purpose of subsection (b) of this section, a card, code, or other means of access is validated when it may be used to initiate an electronic fund transfer.
+- **(c)** For the purpose of subsection (b), a card, code, or other means of access is validated when it may be used to initiate an electronic fund transfer.

@@ -3,9 +3,9 @@ title: "Section 1718 - Limitation on court orders; termination of orders conditi
 usc_title: 20
 usc_section: "1718"
 chapter: 39
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1718"
-generated_at: "2026-03-29T18:05:00.234Z"
+generated_at: "2026-03-29T18:24:41.066Z"
 ---
 
 # § 1718. Limitation on court orders; termination of orders conditioned upon compliance with fifth and fourteenth amendments; statement of basis for termination orders; stay of termination orders

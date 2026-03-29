@@ -3,9 +3,9 @@ title: "Section 286 - Acceptance of membership by United States in International
 usc_title: 22
 usc_section: "286"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 286"
-generated_at: "2026-03-29T18:05:21.731Z"
+generated_at: "2026-03-29T18:24:54.120Z"
 ---
 
 # § 286. Acceptance of membership by United States in International Monetary Fund

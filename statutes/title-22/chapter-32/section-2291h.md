@@ -3,9 +3,9 @@ title: "Section 2291h - Reporting requirements"
 usc_title: 22
 usc_section: "2291h"
 chapter: 32
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 2291h"
-generated_at: "2026-03-29T18:05:21.826Z"
+generated_at: "2026-03-29T18:24:54.198Z"
 ---
 
 # § 2291h. Reporting requirements
@@ -58,10 +58,10 @@ generated_at: "2026-03-29T18:05:21.826Z"
       - **(i)** An economic analysis that estimates the legitimate demand for such chemicals in such countries as compared to the actual or estimated amount of such chemicals that is imported into such countries.
       - **(ii)** The best available data and other information regarding the production of methamphetamine in such countries and the diversion of such chemicals for use in the production of methamphetamine.
 - **(b)**
-  - **(1)** At the time that the report required by subsection (a) of this section is submitted each year, the Secretary of State, in consultation with appropriate United States Government agencies, shall report to the appropriate committees of the Congress on the assistance provided or proposed to be provided by the United States Government during the preceding fiscal year, the current fiscal year, and the next fiscal year to support international efforts to combat illicit narcotics production or trafficking.
+  - **(1)** At the time that the report required by subsection (a) is submitted each year, the Secretary of State, in consultation with appropriate United States Government agencies, shall report to the appropriate committees of the Congress on the assistance provided or proposed to be provided by the United States Government during the preceding fiscal year, the current fiscal year, and the next fiscal year to support international efforts to combat illicit narcotics production or trafficking.
   - **(2)** Each report pursuant to this subsection shall—
     - **(A)** specify the amount and nature of the assistance provided or to be provided;
-    - **(B)** include, for each country identified in subsection (a)(3)(A) of this section, information from the Drug Enforcement Administration, the Customs Service, and the Coast Guard describing in detail—
+    - **(B)** include, for each country identified in subsection (a)(3)(A), information from the Drug Enforcement Administration, the Customs Service, and the Coast Guard describing in detail—
       - **(i)** the assistance provided or to be provided to such country by that agency, and
       - **(ii)** the assistance provided or to be provided to that agency by such country,
     - **(C)** list all transfers, which were made by the United States Government during the preceding fiscal year, to a foreign country for narcotics control purposes of any property seized by or otherwise forfeited to the United States Government in connection with narcotics-related activity, including an estimate of the fair market value and physical condition of each item of property transferred.

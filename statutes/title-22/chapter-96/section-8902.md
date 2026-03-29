@@ -3,9 +3,9 @@ title: "Section 8902 - United States policy toward Ukraine"
 usc_title: 22
 usc_section: "8902"
 chapter: 96
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 8902"
-generated_at: "2026-03-29T18:05:22.075Z"
+generated_at: "2026-03-29T18:24:54.418Z"
 ---
 
 # § 8902. United States policy toward Ukraine
@@ -19,7 +19,7 @@ It is the policy of the United States—
   - **(5)** to support the people of Ukraine in their desire to forge closer ties with Europe, including signing an Association Agreement with the European Union as a means to address endemic corruption, consolidate democracy, and achieve sustained prosperity;
   - **(6)** to use the voice and vote of the United States to secure sufficient resources through the International Monetary Fund to support needed economic structural reforms in Ukraine under conditions that will reinforce a sovereign decision by the Government of Ukraine to sign and implement an association agreement with the European Union;
   - **(7)** to help the Government of Ukraine prepare for the presidential election in May 2014;
-  - **(8)** to reinforce the efforts of the Government of Ukraine to bring to justice those responsible for the acts of violence against peaceful protestors and other unprovoked acts of violence related to the antigovernment protests in that began on November 21, 2013 ;
+  - **(8)** to reinforce the efforts of the Government of Ukraine to bring to justice those responsible for the acts of violence against peaceful protestors and other unprovoked acts of violence related to the antigovernment protests in 1 1 So in original. that began on November 21, 2013 ;
   - **(9)** to support the efforts of the Government of Ukraine to recover and return to the Ukrainian state funds stolen by former President Yanukovych, his family, and other current and former members of the Ukrainian government and elites;
   - **(10)** to support the continued professionalization of the Ukrainian military;
   - **(11)** to condemn economic extortion by the Russian Federation against Ukraine, Moldova, Lithuania, and other countries in the region designed to obstruct closer ties between the European Union and the countries of the Eastern Partnership and to reduce the harmful consequences of such extortion;

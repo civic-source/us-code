@@ -3,9 +3,9 @@ title: "Section 2573 - Policy formulation"
 usc_title: 22
 usc_section: "2573"
 chapter: 35
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 2573"
-generated_at: "2026-03-29T18:05:21.868Z"
+generated_at: "2026-03-29T18:24:54.238Z"
 ---
 
 # § 2573. Policy formulation

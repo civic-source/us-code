@@ -3,9 +3,9 @@ title: "Section 12206 - Technical assistance"
 usc_title: 42
 usc_section: "12206"
 chapter: 126
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 12206"
-generated_at: "2026-03-29T18:07:15.221Z"
+generated_at: "2026-03-29T18:27:04.048Z"
 ---
 
 # § 12206. Technical assistance
@@ -13,11 +13,11 @@ generated_at: "2026-03-29T18:07:15.221Z"
 - **(a)**
   - **(1)** Not later than 180 days after July 26, 1990 , the Attorney General, in consultation with the Chair of the Equal Employment Opportunity Commission, the Secretary of Transportation, the Chair of the Architectural and Transportation Barriers Compliance Board, and the Chairman of the Federal Communications Commission, shall develop a plan to assist entities covered under this chapter, and other Federal agencies, in understanding the responsibility of such entities and agencies under this chapter.
   - **(2)** The Attorney General shall publish the plan referred to in paragraph (1) for public comment in accordance with subchapter II of chapter 5 of title 5 (commonly known as the Administrative Procedure Act).
-- **(b)** The Attorney General may obtain the assistance of other Federal agencies in carrying out subsection (a) of this section, including the National Council on Disability, the President’s Committee on Employment of People with Disabilities, the Small Business Administration, and the Department of Commerce.
+- **(b)** The Attorney General may obtain the assistance of other Federal agencies in carrying out subsection (a), including the National Council on Disability, the President’s Committee on Employment of People with Disabilities, the Small Business Administration, and the Department of Commerce.
 - **(c)**
   - **(1)** Each Federal agency that has responsibility under paragraph (2) for implementing this chapter may render technical assistance to individuals and institutions that have rights or duties under the respective subchapter or subchapters of this chapter for which such agency has responsibility.
   - **(2)**
-    - **(A)** The Equal Employment Opportunity Commission and the Attorney General shall implement the plan for assistance developed under subsection (a) of this section, for subchapter I.
+    - **(A)** The Equal Employment Opportunity Commission and the Attorney General shall implement the plan for assistance developed under subsection (a), for subchapter I.
     - **(B)**
       - **(i)** The Attorney General shall implement such plan for assistance for part A of subchapter II.
       - **(ii)** The Secretary of Transportation shall implement such plan for assistance for part B of subchapter II.
@@ -25,6 +25,6 @@ generated_at: "2026-03-29T18:07:15.221Z"
     - **(D)** The Chairman of the Federal Communications Commission, in coordination with the Attorney General, shall implement such plan for assistance for title IV.
   - **(3)** Each Federal agency that has responsibility under paragraph (2) for implementing this chapter shall, as part of its implementation responsibilities, ensure the availability and provision of appropriate technical assistance manuals to individuals or entities with rights or duties under this chapter no later than six months after applicable final regulations are published under subchapters I, II, and III and title IV.
 - **(d)**
-  - **(1)** Each Federal agency that has responsibility under subsection (c)(2) of this section for implementing this chapter may make grants or award contracts to effectuate the purposes of this section, subject to the availability of appropriations. Such grants and contracts may be awarded to individuals, institutions not organized for profit and no part of the net earnings of which inures to the benefit of any private shareholder or individual (including educational institutions), and associations representing individuals who have rights or duties under this chapter. Contracts may be awarded to entities organized for profit, but such entities may not be the recipients or 1 1 So in original. Probably should be “of”. grants described in this paragraph.
+  - **(1)** Each Federal agency that has responsibility under subsection (c)(2) for implementing this chapter may make grants or award contracts to effectuate the purposes of this section, subject to the availability of appropriations. Such grants and contracts may be awarded to individuals, institutions not organized for profit and no part of the net earnings of which inures to the benefit of any private shareholder or individual (including educational institutions), and associations representing individuals who have rights or duties under this chapter. Contracts may be awarded to entities organized for profit, but such entities may not be the recipients or 1 1 So in original. Probably should be “of”. grants described in this paragraph.
   - **(2)** Such grants and contracts, among other uses, may be designed to ensure wide dissemination of information about the rights and duties established by this chapter and to provide information and technical assistance about techniques for effective compliance with this chapter.
 - **(e)** An employer, public accommodation, or other entity covered under this chapter shall not be excused from compliance with the requirements of this chapter because of any failure to receive technical assistance under this section, including any failure in the development or dissemination of any technical assistance manual authorized by this section.

@@ -1,12 +1,12 @@
 ---
-title: "Section 792 - Repealed. Pub. L. 97–375, title I, § 111(b) , Dec. 21, 1982 , 96 Stat. 1821"
+title: "Section 792 - Repealed. Pub. L. 97–375, title I , § 111(b), Dec. 21, 1982 , 96 Stat. 1821"
 usc_title: 45
 usc_section: "792"
 chapter: 16
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "45 U.S.C. § 792"
-generated_at: "2026-03-29T18:06:35.972Z"
+generated_at: "2026-03-29T18:26:13.317Z"
 ---
 
-# § 792. Repealed. Pub. L. 97–375, title I, § 111(b) , Dec. 21, 1982 , 96 Stat. 1821
+# § 792. Repealed. Pub. L. 97–375, title I , § 111(b), Dec. 21, 1982 , 96 Stat. 1821
 

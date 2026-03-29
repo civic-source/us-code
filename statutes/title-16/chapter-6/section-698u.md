@@ -3,9 +3,9 @@ title: "Section 698u - Tallgrass Prairie National Preserve: findings and purpose
 usc_title: 16
 usc_section: "698u"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 698u"
-generated_at: "2026-03-29T18:05:06.807Z"
+generated_at: "2026-03-29T18:24:22.692Z"
 ---
 
 # § 698u. Tallgrass Prairie National Preserve: findings and purposes
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T18:05:06.807Z"
   - **(1)** of the 400,000 square miles of tallgrass prairie that once covered the North American Continent, less than 1 percent remains, primarily in the Flint Hills of Kansas;
   - **(2)** in 1991, the National Park Service conducted a special resource study of the Spring Hill Ranch, located in the Flint Hills of Kansas;
   - **(3)** the study concludes that the Spring Hill Ranch—
-    - **(A)** is a nationally significant example of the once vast tallgrass ecosystem, and includes buildings listed on the National Register of Historic Places pursuant to section 470a of this title that represent outstanding examples of Second Empire and other 19th Century architectural styles; and
+    - **(A)** is a nationally significant example of the once vast tallgrass ecosystem, and includes buildings listed on the National Register of Historic Places pursuant to section 101 of the National Historic Preservation Act ( 16 U.S.C. 470a ) 1 1 See References in Text note below. that represent outstanding examples of Second Empire and other 19th Century architectural styles; and
     - **(B)** is suitable and feasible as a potential addition to the National Park System; and
   - **(4)** the National Park Trust, which owns the Spring Hill Ranch, has agreed to permit the National Park Service—
     - **(A)** to acquire a portion of the ranch, as specified in sections 698u to 698u–7 of this title; and

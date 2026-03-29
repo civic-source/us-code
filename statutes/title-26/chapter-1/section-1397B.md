@@ -3,9 +3,9 @@ title: "Section 1397B - Nonrecognition of gain on rollover of empowerment zone i
 usc_title: 26
 usc_section: "1397B"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 1397B"
-generated_at: "2026-03-29T18:05:44.812Z"
+generated_at: "2026-03-29T18:25:53.748Z"
 ---
 
 # § 1397B. Nonrecognition of gain on rollover of empowerment zone investments
@@ -17,8 +17,9 @@ generated_at: "2026-03-29T18:05:44.812Z"
   - **(1)**
     - **(A)** The term “qualified empowerment zone asset” means any property which would be a qualified community asset (as defined in section 1400F) if in section 1400F—
       - **(i)** references to empowerment zones were substituted for references to renewal communities,
-      - **(ii)** references to enterprise zone businesses (as defined in section 1397C) were substituted for references to renewal community businesses, and
-      - **(iii)** the date of the enactment of this paragraph were substituted for “ December 31, 2001 ” each place it appears.
+      - **(ii)** references to enterprise zone businesses (as defined in section 1397C) were substituted for references to renewal community businesses,
+      - **(iii)** the date of the enactment of this paragraph were substituted for “ December 31, 2001 ” each place it appears, and
+      - **(iv)** the day after the date set forth in section 1391(d)(1)(A)(i) were substituted for “ January 1, 2010 ” each place it appears.
     - **(B)** The District of Columbia Enterprise Zone shall not be treated as an empowerment zone for purposes of this section.
   - **(2)** This section shall not apply to—
     - **(A)** any gain which is treated as ordinary income for purposes of this subtitle, and

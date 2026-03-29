@@ -3,9 +3,9 @@ title: "Section 5304 - Operation of program"
 usc_title: 15
 usc_section: "5304"
 chapter: 79
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 5304"
-generated_at: "2026-03-29T18:04:29.927Z"
+generated_at: "2026-03-29T18:24:08.614Z"
 ---
 
 # § 5304. Operation of program
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T18:04:29.927Z"
   - **(3)** include a single or multiyear management plan that outlines how the research and development activities will be administered and carried out;
   - **(4)** state the annual cost of the proposal and a breakdown of those costs; and
   - **(5)** describe the technology transfer mechanisms the applicant will use to make available research results to industry and to other researchers.
-- **(c)** The management plan set forth in subsection (b)(3) of this section shall—
+- **(c)** The management plan set forth in subsection (b)(3) shall—
   - **(1)** outline the basic research and development activities expected to be performed;
   - **(2)** outline who will conduct those research activities;
   - **(3)** establish the time frame over which the research activities will take place; and
@@ -47,4 +47,4 @@ generated_at: "2026-03-29T18:04:29.927Z"
   - **(5)** ensure the timely transfer of technology to industry; and
   - **(6)** otherwise best carry out the purposes of this chapter.
 - **(e)** From amounts made available in separate appropriation Acts, the Secretary shall provide to each applicant selected the financial and technical assistance and other incentives that are necessary and appropriate to carry out the purposes of this chapter.
-- **(f)** Each recipient of financial assistance under subsection (d) of this section shall be known as a “National Metal Casting Research Institute”.
+- **(f)** Each recipient of financial assistance under subsection (d) shall be known as a “National Metal Casting Research Institute”.

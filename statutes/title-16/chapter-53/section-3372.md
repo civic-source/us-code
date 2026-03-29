@@ -3,9 +3,9 @@ title: "Section 3372 - Prohibited acts"
 usc_title: 16
 usc_section: "3372"
 chapter: 53
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 3372"
-generated_at: "2026-03-29T18:05:07.030Z"
+generated_at: "2026-03-29T18:24:22.875Z"
 ---
 
 # § 3372. Prohibited acts
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T18:05:07.030Z"
         - **(IV)** the taking of plants without, or contrary to, required authorization;
       - **(ii)** taken, possessed, transported, or sold without the payment of appropriate royalties, taxes, or stumpage fees required for the plant by any law or regulation of any State or any foreign law; or
       - **(iii)** taken, possessed, transported, or sold in violation of any limitation under any law or regulation of any State, or under any foreign law, governing the export or transshipment of plants; or
-    - **(C)** any prohibited wildlife species (subject to subsection (e) of this section);
+    - **(C)** any prohibited wildlife species (subject to subsection (e));
   - **(3)** within the special maritime and territorial jurisdiction of the United States (as defined in section 7 of title 18 )—
     - **(A)** to possess any fish or wildlife taken, possessed, transported, or sold in violation of any law or regulation of any State or in violation of any foreign law or Indian tribal law, or
     - **(B)** to possess any plant—
@@ -46,7 +46,7 @@ generated_at: "2026-03-29T18:05:07.030Z"
   - **(1)** imported, exported, transported, sold, purchased, or received from any foreign country; or
   - **(2)** transported in interstate or foreign commerce.
 - **(e)**
-  - **(1)** Subsection (a)(2)(C) of this section does not apply to importation, exportation, transportation, sale, receipt, acquisition, or purchase of an animal of a prohibited wildlife species, by a person that, under regulations prescribed under paragraph (3), is described in paragraph (2) with respect to that species.
+  - **(1)** Subsection (a)(2)(C) does not apply to importation, exportation, transportation, sale, receipt, acquisition, or purchase of an animal of a prohibited wildlife species, by a person that, under regulations prescribed under paragraph (3), is described in paragraph (2) with respect to that species.
   - **(2)** A person is described in this paragraph, if the person—
     - **(A)** is licensed or registered, and inspected, by the Animal and Plant Health Inspection Service or any other Federal agency with respect to that species;
     - **(B)** is a State college, university, or agency, State-licensed wildlife rehabilitator, or State-licensed veterinarian;
@@ -58,7 +58,7 @@ generated_at: "2026-03-29T18:05:07.030Z"
     - **(D)** has custody of the animal solely for the purpose of expeditiously transporting the animal to a person described in this paragraph with respect to the species.
   - **(3)** Not later than 180 days after December 19, 2003 , the Secretary, in cooperation with the Director of the Animal and Plant Health Inspection Service, shall promulgate regulations describing the persons described in paragraph (2).
   - **(4)** Nothing in this subsection preempts or supersedes the authority of a State to regulate wildlife species within that State.
-  - **(5)** There is authorized to be appropriated to carry out subsection (a)(2)(C) of this section $3,000,000 for each of fiscal years 2004 through 2008.
+  - **(5)** There is authorized to be appropriated to carry out subsection (a)(2)(C) $3,000,000 for each of fiscal years 2004 through 2008.
 - **(f)**
   - **(1)** Effective 180 days from the date of enactment of this subsection, and except as provided in paragraph (3), it shall be unlawful for any person to import any plant unless the person files upon importation a declaration that contains—
     - **(A)** the scientific name of any plant (including the genus and species of the plant) contained in the importation;

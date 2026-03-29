@@ -3,9 +3,9 @@ title: "Section 6211 - Definition of a deficiency"
 usc_title: 26
 usc_section: "6211"
 chapter: 63
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 6211"
-generated_at: "2026-03-29T18:05:44.990Z"
+generated_at: "2026-03-29T18:25:53.913Z"
 ---
 
 # § 6211. Definition of a deficiency
@@ -20,6 +20,6 @@ generated_at: "2026-03-29T18:05:44.990Z"
   - **(2)** The term “rebate” means so much of an abatement, credit, refund, or other repayment, as was made on the ground that the tax imposed by subtitle A or B or chapter 41, 42, 43, or 44 was less than the excess of the amount specified in subsection (a)(1) over the rebates previously made.
   - **(3)** The computation by the Secretary, pursuant to section 6014, of the tax imposed by chapter 1 shall be considered as having been made by the taxpayer and the tax so computed considered as shown by the taxpayer upon his return.
   - **(4)** For purposes of subsection (a)—
-    - **(A)** any excess of the sum of the credits allowable under sections 24(d), 25A by reason of subsection (i)(6) thereof, 32, 34, 35, 36, 36A, 36B, 53(e), 168(k)(4), 6428, and 6431 over the tax imposed by subtitle A (determined without regard to such credits), and
+    - **(A)** any excess of the sum of the credits allowable under sections 24(d), 25A by reason of subsection (i)(6) 1 1 See References in Text note below. thereof, 32, 34, 35, 36, 36B, 168(k)(4), and 6431 over the tax imposed by subtitle A (determined without regard to such credits), and
     - **(B)** any excess of the sum of such credits as shown by the taxpayer on his return over the amount shown as the tax by the taxpayer on such return (determined without regard to such credits),
 - **(c)** In determining the amount of any deficiency for purposes of this subchapter, adjustments to partnership items shall be made only as provided in subchapters C and D.

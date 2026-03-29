@@ -3,9 +3,9 @@ title: "Section 1680o - Authorization of appropriations"
 usc_title: 25
 usc_section: "1680o"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1680o"
-generated_at: "2026-03-29T18:05:17.171Z"
+generated_at: "2026-03-29T18:25:23.748Z"
 ---
 
 # § 1680o. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 3492 - Tutorial assistance"
 usc_title: 38
 usc_section: "3492"
 chapter: 34
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "38 U.S.C. § 3492"
-generated_at: "2026-03-29T18:06:22.797Z"
+generated_at: "2026-03-29T18:26:07.607Z"
 ---
 
 # § 3492. Tutorial assistance

@@ -1,14 +1,12 @@
 ---
-title: "Section 2288 - Review of cost effectiveness of design"
+title: "Section 2288 - Repealed. Pub. L. 113–121, title I , § 1004, June 10, 2014 , 128 Stat. 1199"
 usc_title: 33
 usc_section: "2288"
 chapter: 36
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 2288"
-generated_at: "2026-03-29T18:06:10.593Z"
+generated_at: "2026-03-29T18:26:01.292Z"
 ---
 
-# § 2288. Review of cost effectiveness of design
-
-During the design of each water resources project which has a total cost in excess of $10,000,000, which is authorized before, on, or after November 17, 1986 , and undertaken by the Secretary, and on which construction has not been initiated as of November 17, 1986 , the Secretary shall require a review of the cost effectiveness of such design. The review shall employ cost control techniques which will ensure that such project is designed in the most cost-effective way for the life of the project.
+# § 2288. Repealed. Pub. L. 113–121, title I , § 1004, June 10, 2014 , 128 Stat. 1199
 

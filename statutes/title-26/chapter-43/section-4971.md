@@ -3,9 +3,9 @@ title: "Section 4971 - Taxes on failure to meet minimum funding standards"
 usc_title: 26
 usc_section: "4971"
 chapter: 43
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 4971"
-generated_at: "2026-03-29T18:05:44.909Z"
+generated_at: "2026-03-29T18:25:53.841Z"
 ---
 
 # § 4971. Taxes on failure to meet minimum funding standards
@@ -67,7 +67,7 @@ generated_at: "2026-03-29T18:05:44.909Z"
       - **(ii)** the amount equal to $1,100 multiplied by the number of days during the taxable year which are included in the period beginning on the day following the close of the 240-day period described in section 432(e)(1)(A) and ending on the day on which the rehabilitation plan is adopted.
     - **(C)**
       - **(i)** The tax imposed by subparagraph (A) shall be paid by each plan sponsor.
-      - **(ii)** For purposes of clause (i), the term “plan sponsor” has the meaning given such term by section 432(i)(9).
+      - **(ii)** For purposes of clause (i), the term “plan sponsor” has the meaning given such term by section 432(i)(9). 2
   - **(5)** In the case of a failure described in paragraph (2) or (3) which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the tax imposed by this subsection. For purposes of this paragraph, reasonable cause includes unanticipated and material market fluctuations, the loss of a significant contributing employer, or other factors to the extent that the payment of tax under this subsection with respect to the failure would be excessive or otherwise inequitable relative to the failure involved.
   - **(6)** For purposes of this subsection, any term used in this subsection which is also used in section 432 shall have the meaning given such term by section 432.
 - **(h)**

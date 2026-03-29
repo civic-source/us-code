@@ -3,9 +3,9 @@ title: "Section 7108 - Actions against significant traffickers in persons"
 usc_title: 22
 usc_section: "7108"
 chapter: 78
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 7108"
-generated_at: "2026-03-29T18:05:22.023Z"
+generated_at: "2026-03-29T18:24:54.375Z"
 ---
 
 # § 7108. Actions against significant traffickers in persons
@@ -17,16 +17,16 @@ generated_at: "2026-03-29T18:05:22.023Z"
     - **(C)** Foreign persons that are owned, controlled, or directed by, or acting for or on behalf of, a significant foreign trafficker identified pursuant to subparagraph (A).
   - **(2)** The penalties set forth in section 1705 of title 50 apply to violations of any license, order, or regulation issued under this section.
 - **(b)**
-  - **(1)** Upon exercising the authority of subsection (a) of this section, the President shall report to the appropriate congressional committees—
+  - **(1)** Upon exercising the authority of subsection (a), the President shall report to the appropriate congressional committees—
     - **(A)** identifying publicly the foreign persons that the President determines are appropriate for sanctions pursuant to this section and the basis for such determination; and
     - **(B)** detailing publicly the sanctions imposed pursuant to this section.
-  - **(2)** Upon suspending or terminating any action imposed under the authority of subsection (a) of this section, the President shall report to the committees described in paragraph (1) on such suspension or termination.
+  - **(2)** Upon suspending or terminating any action imposed under the authority of subsection (a), the President shall report to the committees described in paragraph (1) on such suspension or termination.
   - **(3)** Reports submitted under this subsection may include an annex with classified information regarding the basis for the determination made by the President under paragraph (1)(A).
 - **(c)** Nothing in this section prohibits or otherwise limits the authorized law enforcement or intelligence activities of the United States, or the law enforcement activities of any State or subdivision thereof.
 - **(d)**
 - **(e)**
-  - **(1)** The President may delegate any authority granted by this section, including the authority to designate foreign persons under paragraphs (1)(B) and (1)(C) of subsection (a) of this section.
+  - **(1)** The President may delegate any authority granted by this section, including the authority to designate foreign persons under paragraphs (1)(B) and (1)(C) of subsection (a).
   - **(2)** The head of any agency, including the Secretary of Treasury, is authorized to take such actions as may be necessary to carry out any authority delegated by the President pursuant to paragraph (1), including promulgating rules and regulations.
-  - **(3)** Such rules and regulations shall include procedures affording an opportunity for a person to be heard in an expeditious manner, either in person or through a representative, for the purpose of seeking changes to or termination of any determination, order, designation or other action associated with the exercise of the authority in subsection (a) of this section.
+  - **(3)** Such rules and regulations shall include procedures affording an opportunity for a person to be heard in an expeditious manner, either in person or through a representative, for the purpose of seeking changes to or termination of any determination, order, designation or other action associated with the exercise of the authority in subsection (a).
 - **(f)** In this section, the term “foreign person” means any citizen or national of a foreign state or any entity not organized under the laws of the United States, including a foreign government official, but does not include a foreign state.
-- **(g)** Nothing in this section shall be construed as precluding judicial review of the exercise of the authority described in subsection (a) of this section.
+- **(g)** Nothing in this section shall be construed as precluding judicial review of the exercise of the authority described in subsection (a).

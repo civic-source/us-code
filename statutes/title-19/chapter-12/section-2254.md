@@ -3,9 +3,9 @@ title: "Section 2254 - Monitoring, modification, and termination of action"
 usc_title: 19
 usc_section: "2254"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 2254"
-generated_at: "2026-03-29T18:04:55.080Z"
+generated_at: "2026-03-29T18:24:16.150Z"
 ---
 
 # § 2254. Monitoring, modification, and termination of action
@@ -16,8 +16,8 @@ generated_at: "2026-03-29T18:04:55.080Z"
   - **(3)** In the course of preparing each report under paragraph (2), the Commission shall hold a hearing at which interested persons shall be given a reasonable opportunity to be present, to produce evidence, and to be heard.
   - **(4)** Upon request of the President, the Commission shall advise the President of its judgment as to the probable economic effect on the industry concerned of any reduction, modification, or termination of the action taken under section 2253 of this title which is under consideration.
 - **(b)**
-  - **(1)** Action taken under section 2253 of this title may be reduced, modified, or terminated by the President (but not before the President receives the report required under subsection (a)(2)(A) of this section) if the President—
-    - **(A)** after taking into account any report or advice submitted by the Commission under subsection (a) of this section and after seeking the advice of the Secretary of Commerce and the Secretary of Labor, determines, on the basis that either—
+  - **(1)** Action taken under section 2253 of this title may be reduced, modified, or terminated by the President (but not before the President receives the report required under subsection (a)(2)(A)) if the President—
+    - **(A)** after taking into account any report or advice submitted by the Commission under subsection (a) and after seeking the advice of the Secretary of Commerce and the Secretary of Labor, determines, on the basis that either—
       - **(i)** the domestic industry has not made adequate efforts to make a positive adjustment to import competition, or
       - **(ii)** the effectiveness of the action taken under section 2253 of this title has been impaired by changed economic circumstances,
     - **(B)** determines, after a majority of the representatives of the domestic industry submits to the President a petition requesting such reduction, modification, or termination on such basis, that the domestic industry has made a positive adjustment to import competition.

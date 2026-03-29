@@ -3,9 +3,9 @@ title: "Section 1087e - Terms and conditions of loans"
 usc_title: 20
 usc_section: "1087e"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1087e"
-generated_at: "2026-03-29T18:05:00.118Z"
+generated_at: "2026-03-29T18:24:40.958Z"
 ---
 
 # § 1087e. Terms and conditions of loans
@@ -133,7 +133,7 @@ generated_at: "2026-03-29T18:05:00.118Z"
   - **(6)** The Secretary shall establish procedures under which a borrower of a loan made under this part who chooses or is required to repay such loan pursuant to income contingent repayment is notified of the terms and conditions of such plan, including notification of such borrower—
     - **(A)** that the Internal Revenue Service will disclose to the Secretary tax return information as authorized under section 6103( l )(13) of title 26; and
     - **(B)** that if a borrower considers that special circumstances, such as a loss of employment by the borrower or the borrower’s spouse, warrant an adjustment in the borrower’s loan repayment as determined using the information described in subparagraph (A), or the alternative documentation described in paragraph (3), the borrower may contact the Secretary, who shall determine whether such adjustment is appropriate, in accordance with criteria established by the Secretary.
-  - **(7)** In calculating the extended period of time for which an income contingent repayment plan under this subsection may be in effect for a borrower, the Secretary shall include all time periods during which a borrower of loans under part B, part C, or part D—
+  - **(7)** In calculating the extended period of time for which an income contingent repayment plan under this subsection may be in effect for a borrower, the Secretary shall include all time periods during which a borrower of loans under part B, part D, or part E—
     - **(A)** is not in default on any loan that is included in the income contingent repayment plan; and
     - **(B)**
       - **(i)** is in deferment due to an economic hardship described in section 1085( o ) of this title;
@@ -168,7 +168,7 @@ generated_at: "2026-03-29T18:05:00.118Z"
   - **(1)**
     - **(A)** An institution shall maintain financial records in a manner consistent with records maintained for other programs under this subchapter.
     - **(B)** Except as otherwise required by regulations of the Secretary 1 an institution may maintain loan funds under this part in the same account as other Federal student financial assistance.
-  - **(2)** Payments and refunds shall be reconciled in a manner consistent with the manner set forth for the submission of a payment summary report required of institutions participating in the program under subpart 1 of part A of this subchapter, except that nothing in this paragraph shall prevent such reconciliations on a monthly basis.
+  - **(2)** Payments and refunds shall be reconciled in a manner consistent with the manner set forth for the submission of a payment summary report required of institutions participating in the program under subpart 1 of part A, except that nothing in this paragraph shall prevent such reconciliations on a monthly basis.
   - **(3)** All transaction histories under this part shall be maintained using the same system designated by the Secretary for the provision of Federal Pell Grants under subpart 1 of part A of this subchapter.
 - **(l)**
   - **(1)** Using funds received by transfer to the Secretary under section 2174 of title 10 for the payment of interest on a loan made under this part to a member of the Armed Forces, the Secretary shall pay the interest on the loan as due for a period not in excess of 36 consecutive months. The Secretary may not pay interest on such a loan out of any funds other than funds that have been so transferred.

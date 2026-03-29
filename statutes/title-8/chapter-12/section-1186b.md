@@ -3,21 +3,21 @@ title: "Section 1186b - Conditional permanent resident status for certain alien 
 usc_title: 8
 usc_section: "1186b"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "8 U.S.C. § 1186b"
-generated_at: "2026-03-29T18:03:34.043Z"
+generated_at: "2026-03-29T18:23:33.938Z"
 ---
 
 # § 1186b. Conditional permanent resident status for certain alien entrepreneurs, spouses, and children
 
 - **(a)**
-  - **(1)** Notwithstanding any other provision of this chapter, an alien entrepreneur (as defined in subsection (f)(1) of this section), alien spouse, and alien child (as defined in subsection (f)(2) of this section) shall be considered, at the time of obtaining the status of an alien lawfully admitted for permanent residence, to have obtained such status on a conditional basis subject to the provisions of this section.
+  - **(1)** Notwithstanding any other provision of this chapter, an alien entrepreneur (as defined in subsection (f)(1)), alien spouse, and alien child (as defined in subsection (f)(2)) shall be considered, at the time of obtaining the status of an alien lawfully admitted for permanent residence, to have obtained such status on a conditional basis subject to the provisions of this section.
   - **(2)**
-    - **(A)** At the time an alien entrepreneur, alien spouse, or alien child obtains permanent resident status on a conditional basis under paragraph (1), the Attorney General shall provide for notice to such an entrepreneur, spouse, or child respecting the provisions of this section and the requirements of subsection (c)(1) of this section to have the conditional basis of such status removed.
-    - **(B)** In addition, the Attorney General shall attempt to provide notice to such an entrepreneur, spouse, or child, at or about the beginning of the 90-day period described in subsection (d)(2)(A) of this section, of the requirements of subsection (c)(1) of this section.
+    - **(A)** At the time an alien entrepreneur, alien spouse, or alien child obtains permanent resident status on a conditional basis under paragraph (1), the Attorney General shall provide for notice to such an entrepreneur, spouse, or child respecting the provisions of this section and the requirements of subsection (c)(1) to have the conditional basis of such status removed.
+    - **(B)** In addition, the Attorney General shall attempt to provide notice to such an entrepreneur, spouse, or child, at or about the beginning of the 90-day period described in subsection (d)(2)(A), of the requirements of subsection (c)(1).
     - **(C)** The failure of the Attorney General to provide a notice under this paragraph shall not affect the enforcement of the provisions of this section with respect to such an entrepreneur, spouse, or child.
 - **(b)**
-  - **(1)** In the case of an alien entrepreneur with permanent resident status on a conditional basis under subsection (a) of this section, if the Attorney General determines, before the second anniversary of the alien’s obtaining the status of lawful admission for permanent residence, that—
+  - **(1)** In the case of an alien entrepreneur with permanent resident status on a conditional basis under subsection (a), if the Attorney General determines, before the second anniversary of the alien’s obtaining the status of lawful admission for permanent residence, that—
     - **(A)** the investment in the commercial enterprise was intended solely as a means of evading the immigration laws of the United States,
     - **(B)**
       - **(i)** the alien did not invest, or was not actively in the process of investing, the requisite capital; or
@@ -25,13 +25,13 @@ generated_at: "2026-03-29T18:03:34.043Z"
     - **(C)** the alien was otherwise not conforming to the requirements of section 1153(b)(5) of this title ,
   - **(2)** Any alien whose permanent resident status is terminated under paragraph (1) may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Attorney General to establish, by a preponderance of the evidence, that a condition described in paragraph (1) is met.
 - **(c)**
-  - **(1)** In order for the conditional basis established under subsection (a) of this section for an alien entrepreneur, alien spouse, or alien child to be removed—
-    - **(A)** the alien entrepreneur must submit to the Attorney General, during the period described in subsection (d)(2) of this section, a petition which requests the removal of such conditional basis and which states, under penalty of perjury, the facts and information described in subsection (d)(1) of this section, and
-    - **(B)** in accordance with subsection (d)(3) of this section, the alien entrepreneur must appear for a personal interview before an officer or employee of the Service respecting the facts and information described in subsection (d)(1) of this section.
+  - **(1)** In order for the conditional basis established under subsection (a) for an alien entrepreneur, alien spouse, or alien child to be removed—
+    - **(A)** the alien entrepreneur must submit to the Attorney General, during the period described in subsection (d)(2), a petition which requests the removal of such conditional basis and which states, under penalty of perjury, the facts and information described in subsection (d)(1), and
+    - **(B)** in accordance with subsection (d)(3), the alien entrepreneur must appear for a personal interview before an officer or employee of the Service respecting the facts and information described in subsection (d)(1).
   - **(2)**
-    - **(A)** In the case of an alien with permanent resident status on a conditional basis under subsection (a) of this section, if—
+    - **(A)** In the case of an alien with permanent resident status on a conditional basis under subsection (a), if—
       - **(i)** no petition is filed with respect to the alien in accordance with the provisions of paragraph (1)(A), or
-      - **(ii)** unless there is good cause shown, the alien entrepreneur fails to appear at the interview described in paragraph (1)(B) (if required under subsection (d)(3) of this section),
+      - **(ii)** unless there is good cause shown, the alien entrepreneur fails to appear at the interview described in paragraph (1)(B) (if required under subsection (d)(3)),
     - **(B)** In any removal proceeding with respect to an alien whose permanent resident status is terminated under subparagraph (A), the burden of proof shall be on the alien to establish compliance with the conditions of paragraphs (1)(A) and (1)(B).
   - **(3)**
     - **(A)** If—
@@ -39,18 +39,18 @@ generated_at: "2026-03-29T18:03:34.043Z"
       - **(ii)** the alien entrepreneur appears at any interview described in paragraph (1)(B),
     - **(B)** If the Attorney General determines that such facts and information are true, the Attorney General shall so notify the alien involved and shall remove the conditional basis of the alien’s status effective as of the second anniversary of the alien’s lawful admission for permanent residence.
     - **(C)** If the Attorney General determines that such facts and information are not true, the Attorney General shall so notify the alien involved and, subject to subparagraph (D), shall terminate the permanent resident status of an alien entrepreneur, alien spouse, or alien child as of the date of the determination.
-    - **(D)** Any alien whose permanent resident status is terminated under subparagraph (C) may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Attorney General to establish, by a preponderance of the evidence, that the facts and information described in subsection (d)(1) of this section and alleged in the petition are not true with respect to the qualifying commercial enterprise.
+    - **(D)** Any alien whose permanent resident status is terminated under subparagraph (C) may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Attorney General to establish, by a preponderance of the evidence, that the facts and information described in subsection (d)(1) and alleged in the petition are not true with respect to the qualifying commercial enterprise.
 - **(d)**
-  - **(1)** Each petition under subsection (c)(1)(A) of this section shall contain facts and information demonstrating that the alien—
+  - **(1)** Each petition under subsection (c)(1)(A) shall contain facts and information demonstrating that the alien—
     - **(A)**
       - **(i)** invested, or is actively in the process of investing, the requisite capital; and
       - **(ii)** sustained the actions described in clause (i) throughout the period of the alien’s residence in the United States; and
     - **(B)** is otherwise conforming to the requirements of section 1153(b)(5) of this title .
   - **(2)**
-    - **(A)** Except as provided in subparagraph (B), the petition under subsection (c)(1)(A) of this section must be filed during the 90-day period before the second anniversary of the alien’s lawful admission for permanent residence.
+    - **(A)** Except as provided in subparagraph (B), the petition under subsection (c)(1)(A) must be filed during the 90-day period before the second anniversary of the alien’s lawful admission for permanent residence.
     - **(B)** Such a petition may be considered if filed after such date, but only if the alien establishes to the satisfaction of the Attorney General good cause and extenuating circumstances for failure to file the petition during the period described in subparagraph (A).
     - **(C)** In the case of an alien who is the subject of removal hearings as a result of failure to file a petition on a timely basis in accordance with subparagraph (A), the Attorney General may stay such removal proceedings against an alien pending the filing of the petition under subparagraph (B).
-  - **(3)** The interview under subsection (c)(1)(B) of this section shall be conducted within 90 days after the date of submitting a petition under subsection (c)(1)(A) of this section and at a local office of the Service, designated by the Attorney General, which is convenient to the parties involved. The Attorney General, in the Attorney General’s discretion, may waive the deadline for such an interview or the requirement for such an interview in such cases as may be appropriate.
+  - **(3)** The interview under subsection (c)(1)(B) shall be conducted within 90 days after the date of submitting a petition under subsection (c)(1)(A) and at a local office of the Service, designated by the Attorney General, which is convenient to the parties involved. The Attorney General, in the Attorney General’s discretion, may waive the deadline for such an interview or the requirement for such an interview in such cases as may be appropriate.
 - **(e)** For purposes of subchapter III, in the case of an alien who is in the United States as a lawful permanent resident on a conditional basis under this section, the alien shall be considered to have been admitted as an alien lawfully admitted for permanent residence and to be in the United States as an alien lawfully admitted to the United States for permanent residence.
 - **(f)** In this section:
   - **(1)** The term “alien entrepreneur” means an alien who obtains the status of an alien lawfully admitted for permanent residence (whether on a conditional basis or otherwise) under section 1153(b)(5) of this title .

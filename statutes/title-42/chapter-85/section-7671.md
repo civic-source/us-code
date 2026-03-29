@@ -3,9 +3,9 @@ title: "Section 7671 - Definitions"
 usc_title: 42
 usc_section: "7671"
 chapter: 85
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 7671"
-generated_at: "2026-03-29T18:07:14.961Z"
+generated_at: "2026-03-29T18:27:03.851Z"
 ---
 
 # § 7671. Definitions

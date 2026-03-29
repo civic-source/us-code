@@ -3,9 +3,9 @@ title: "Section 290bb - Center for Substance Abuse Treatment"
 usc_title: 42
 usc_section: "290bb"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 290bb"
-generated_at: "2026-03-29T18:07:13.435Z"
+generated_at: "2026-03-29T18:27:02.663Z"
 ---
 
 # § 290bb. Center for Substance Abuse Treatment
@@ -26,4 +26,4 @@ generated_at: "2026-03-29T18:07:13.435Z"
   - **(12)** encourage public and private entities that provide health insurance to provide benefits for outpatient treatment services and other nonhospital-based treatment services;
   - **(13)** evaluate treatment programs to determine the quality and appropriateness of various forms of treatment, which shall be carried out through grants, contracts, or cooperative agreements provided to public or nonprofit private entities; and
   - **(14)** in carrying out paragraph (13), assess the quality, appropriateness, and costs of various treatment forms for specific patient groups.
-- **(c)** In carrying out the duties established in subsection (b) of this section, the Director may make grants to and enter into contracts and cooperative agreements with public and nonprofit private entities.
+- **(c)** In carrying out the duties established in subsection (b), the Director may make grants to and enter into contracts and cooperative agreements with public and nonprofit private entities.

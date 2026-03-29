@@ -3,9 +3,9 @@ title: "Section 1673h - Establishment of product categories for short life cycle
 usc_title: 19
 usc_section: "1673h"
 chapter: 4
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 1673h"
-generated_at: "2026-03-29T18:04:55.043Z"
+generated_at: "2026-03-29T18:24:16.120Z"
 ---
 
 # § 1673h. Establishment of product categories for short life cycle merchandise
@@ -51,7 +51,7 @@ generated_at: "2026-03-29T18:04:55.043Z"
       - **(ii)** the merchandise and the manufacturer are not specified by name in the affirmative dumping determination or in any antidumping duty order issued as a result of such affirmative dumping determination.
   - **(4)** The term “short life cycle merchandise” means any product that the Commission determines is likely to become outmoded within 4 years, by reason of technological advances, after the product is commercially available. For purposes of this paragraph, the term “outmoded” refers to a kind of style that is no longer state-of-the-art.
 - **(c)**
-  - **(1)** For purposes of this section and section 1673b(b)(1)(B) and (C) of this title, all affirmative dumping determinations described in subsection (b)(2)(A) of this section that were made after December 31, 1980 , and before August 23, 1988 , and all affirmative dumping determinations described in subsection (b)(2)(B) of this section that were made after December 31, 1984 , and before August 23, 1988 , with respect to each category of short life cycle merchandise of the same manufacturer shall be treated as one affirmative dumping determination with respect to that category for that manufacturer which was made on the date on which the latest of such determinations was made.
+  - **(1)** For purposes of this section and section 1673b(b)(1)(B) and (C) of this title, all affirmative dumping determinations described in subsection (b)(2)(A) that were made after December 31, 1980 , and before August 23, 1988 , and all affirmative dumping determinations described in subsection (b)(2)(B) that were made after December 31, 1984 , and before August 23, 1988 , with respect to each category of short life cycle merchandise of the same manufacturer shall be treated as one affirmative dumping determination with respect to that category for that manufacturer which was made on the date on which the latest of such determinations was made.
   - **(2)** No affirmative dumping determination that—
-    - **(A)** is described in subsection (b)(2)(A) of this section and was made before January 1, 1981 , or
-    - **(B)** is described in subsection (b)(2)(B) of this section and was made before January 1, 1985 ,
+    - **(A)** is described in subsection (b)(2)(A) and was made before January 1, 1981 , or
+    - **(B)** is described in subsection (b)(2)(B) and was made before January 1, 1985 ,

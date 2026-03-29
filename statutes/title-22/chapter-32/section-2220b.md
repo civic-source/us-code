@@ -3,9 +3,9 @@ title: "Section 2220b - General authority"
 usc_title: 22
 usc_section: "2220b"
 chapter: 32
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 2220b"
-generated_at: "2026-03-29T18:05:21.821Z"
+generated_at: "2026-03-29T18:24:54.193Z"
 ---
 
 # § 2220b. General authority

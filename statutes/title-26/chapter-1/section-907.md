@@ -3,9 +3,9 @@ title: "Section 907 - Special rules in case of foreign oil and gas income"
 usc_title: 26
 usc_section: "907"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 907"
-generated_at: "2026-03-29T18:05:44.741Z"
+generated_at: "2026-03-29T18:25:53.686Z"
 ---
 
 # § 907. Special rules in case of foreign oil and gas income
@@ -76,7 +76,5 @@ generated_at: "2026-03-29T18:05:44.741Z"
     - **(A)** In the case of any taxable year which is an unused credit year under this subsection and which is an unused credit year under section 904(c), the provisions of this subsection shall be applied before section 904(c).
     - **(B)** For purposes of determining the amount of taxes paid or accrued in any taxable year which may be deemed paid or accrued in a preceding or succeeding taxable year under section 904(c), any tax deemed paid or accrued in such preceding or succeeding taxable year under this subsection shall be considered to be tax paid or accrued in such preceding or succeeding taxable year.
   - **(4)**
-    - **(A)** In the case of any unused credit year beginning before January 1, 2009 , this subsection shall be applied to any unused oil and gas extraction taxes carried from such unused credit year to a year beginning after December 31, 2008 —
-      - **(i)** by substituting “oil and gas extraction taxes” for “foreign oil and gas taxes” each place it appears in paragraphs (1), (2), and (3), and
-      - **(ii)** by computing, for purposes of paragraph (2)(A), the limitation under subparagraph (A) for the year to which such taxes are carried by substituting “foreign oil and gas extraction income” for “foreign oil and gas income” in subsection (a).
+    - **(A)** In the case of any unused credit year beginning before January 1, 2009 , this subsection, as in effect on the day before the date of the enactment of the Energy Improvement and Extension Act of 2008, shall apply to unused oil and gas extraction taxes carried from such unused credit year to a taxable year beginning after December 31, 2008 .
     - **(B)** In the case of any unused credit year beginning in 2009, the amendments made to this subsection by the Energy Improvement and Extension Act of 2008 shall be treated as being in effect for any preceding year beginning before January 1, 2009 , solely for purposes of determining how much of the unused foreign oil and gas taxes for such unused credit year may be deemed paid or accrued in such preceding year.

@@ -3,9 +3,9 @@ title: "Section 2511 - Peace Corps National Advisory Council"
 usc_title: 22
 usc_section: "2511"
 chapter: 34
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 2511"
-generated_at: "2026-03-29T18:05:21.866Z"
+generated_at: "2026-03-29T18:24:54.236Z"
 ---
 
 # § 2511. Peace Corps National Advisory Council
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T18:05:21.866Z"
 - **(a)** A Peace Corps National Advisory Council (hereinafter in this section referred to as the “Council”) shall be established in accordance with the provisions of this section.
 - **(b)**
   - **(1)** The Council shall advise and consult with the President and the Director of the Peace Corps with regard to policies and programs designed to further the purposes of this chapter and shall, as the Council considers appropriate, periodically report to the Congress with regard to the Peace Corps.
-  - **(2)** Members of the Council shall (subject to subsection (d)(1) of this section) conduct on-site inspections, and make examinations, of the activities of the Peace Corps in the United States and in other countries in order to—
+  - **(2)** Members of the Council shall (subject to subsection (d)(1)) conduct on-site inspections, and make examinations, of the activities of the Peace Corps in the United States and in other countries in order to—
     - **(A)** evaluate the accomplishments of the Peace Corps;
     - **(B)** assess the potential capabilities and the future role of the Peace Corps;
     - **(C)** make recommendations to the President, the Director of the Peace Corps, and, as the Council considers appropriate, the Congress, for the purpose of guiding the future direction of the Peace Corps and of helping to ensure that the purposes and programs of the Peace Corps are carried out in ways that are economical, efficient, responsive to changing needs in developing countries and to changing relationships among people, and in accordance with law; and

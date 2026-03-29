@@ -3,9 +3,9 @@ title: "Section 7512 - Actions covered"
 usc_title: 5
 usc_section: "7512"
 chapter: 75
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 7512"
-generated_at: "2026-03-29T18:03:29.918Z"
+generated_at: "2026-03-29T18:23:29.929Z"
 ---
 
 # § 7512. Actions covered
@@ -20,5 +20,6 @@ This subchapter applies to—
     - **(A)** a suspension or removal under section 7532 of this title ,
     - **(B)** a reduction-in-force action under section 3502 of this title ,
     - **(C)** the reduction in grade of a supervisor or manager who has not completed the probationary period under section 3321(a)(2) of this title if such reduction is to the grade held immediately before becoming such a supervisor or manager,
-    - **(D)** a reduction in grade or removal under section 4303 of this title , or
-    - **(E)** an action initiated under section 1215 or 7521 of this title.
+    - **(D)** a reduction in grade or removal under section 4303 of this title ,
+    - **(E)** an action initiated under section 1215 or 7521 of this title, or
+    - **(F)** a suitability action taken by the Office under regulations prescribed by the Office, subject to the rules prescribed by the President under this title for the administration of the competitive service.

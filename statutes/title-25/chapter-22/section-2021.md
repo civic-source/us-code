@@ -3,9 +3,9 @@ title: "Section 2021 - Definitions"
 usc_title: 25
 usc_section: "2021"
 chapter: 22
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 2021"
-generated_at: "2026-03-29T18:05:17.208Z"
+generated_at: "2026-03-29T18:25:23.769Z"
 ---
 
 # § 2021. Definitions
@@ -22,10 +22,10 @@ For the purposes of this chapter, unless otherwise specified:
     - **(C)** a school for which assistance is provided under the Tribally Controlled Schools Act of 1988 [ 25 U.S.C. 2501 et seq.].
   - **(4)** The term “Bureau school” means a Bureau-operated elementary or secondary day or boarding school or a Bureau-operated dormitory for students attending a school other than a Bureau school.
   - **(5)** The term “complementary educational facilities” means educational program functional spaces such as libraries, gymnasiums, and cafeterias.
-  - **(6)** The term “contract or grant school” means an elementary school, secondary school, or dormitory that receives financial assistance for its operation under a contract, grant, or agreement with the Bureau under section 450f, 450h(a), or 458d of this title, or under the Tribally Controlled Schools Act of 1988 [ 25 U.S.C. 2501 et seq.].
+  - **(6)** The term “contract or grant school” means an elementary school, secondary school, or dormitory that receives financial assistance for its operation under a contract, grant, or agreement with the Bureau under section 5321, 5322(a), or 5352 of this title, or under the Tribally Controlled Schools Act of 1988 [ 25 U.S.C. 2501 et seq.].
   - **(7)** The term “Director” means the Director of the Office of Indian Education Programs.
   - **(8)** The term “education line officer” means a member of the education personnel under the supervision of the Director of the Office, whether located in a central, area, or agency office.
-  - **(9)** The term “family literacy services” has the meaning given that term in section 7801 1 1 See References in Text note below. of title 20.
+  - **(9)** The term “family literacy services” has the meaning given that term in section 7801 of title 20 .
   - **(10)** The term “financial plan” means a plan of services provided by each Bureau school.
   - **(11)** The term “Indian organization” means any group, association, partnership, corporation, or other legal entity owned or controlled by a federally recognized Indian tribe or tribes, or a majority of whose members are members of federally recognized tribes.
   - **(12)** The term “inherently Federal functions” means functions and responsibilities which, under section 2006(c) of this title , are noncontractable, including—

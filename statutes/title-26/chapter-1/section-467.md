@@ -3,9 +3,9 @@ title: "Section 467 - Certain payments for the use of property or services"
 usc_title: 26
 usc_section: "467"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 467"
-generated_at: "2026-03-29T18:05:44.645Z"
+generated_at: "2026-03-29T18:25:53.594Z"
 ---
 
 # § 467. Certain payments for the use of property or services
@@ -55,7 +55,7 @@ generated_at: "2026-03-29T18:05:44.645Z"
   - **(1)** The term “constant rental amount” means, with respect to any section 467 rental agreement, the amount which, if paid as of the close of each lease period under the agreement, would result in an aggregate present value equal to the present value of the aggregate payments required under the agreement.
   - **(2)** A transaction is a leaseback transaction if it involves a leaseback to any person who had an interest in such property at any time within 2 years before such leaseback (or to a related person).
   - **(3)**
-    - **(A)** The statutory In the case of: recovery period is: 3-year property 3 years 5-year property 5 years 7-year property 7 years 10-year property 10 years 15-year and 20-year property 15 years Residential rental property and nonresi- dential real property 19 years Any railroad grading or tunnel bore 50 years.
+    - **(A)** In the case of: The statutory recovery period is: 3-year property 3 years 5-year property 5 years 7-year property 7 years 10-year property 10 years 15-year and 20-year property 15 years Residential rental property and nonresidential real property 19 years Any railroad grading or tunnel bore 50 years.
     - **(B)** In the case of property to which section 168 does not apply, subparagraph (A) shall be applied as if section 168 applies to such property.
   - **(4)** For purposes of computing present value and interest under subsection (a)(2), the rate used shall be equal to 110 percent of the applicable Federal rate determined under section 1274(d) (compounded semiannually) which is in effect at the time the agreement is entered into with respect to debt instruments having a maturity equal to the term of the agreement.
   - **(5)** The term “related person” has the meaning given to such term by section 465(b)(3)(C).

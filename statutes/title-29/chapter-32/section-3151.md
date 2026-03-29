@@ -3,9 +3,9 @@ title: "Section 3151 - Establishment of one-stop delivery systems"
 usc_title: 29
 usc_section: "3151"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 3151"
-generated_at: "2026-03-29T02:14:09.511Z"
+generated_at: "2026-03-29T18:25:43.147Z"
 ---
 
 # § 3151. Establishment of one-stop delivery systems
@@ -34,7 +34,7 @@ generated_at: "2026-03-29T02:14:09.511Z"
       - **(ix)** employment and training activities carried out under the Community Services Block Grant Act ( 42 U.S.C. 9901 et seq.);
       - **(x)** employment and training activities carried out by the Department of Housing and Urban Development;
       - **(xi)** programs authorized under State unemployment compensation laws (in accordance with applicable Federal law);
-      - **(xii)** programs authorized under section 60532 2 2 See References in Text note below. of title 34; and
+      - **(xii)** programs authorized under section 17532 of title 42 ; and
       - **(xiii)** programs authorized under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.), subject to subparagraph (C).
     - **(C)**
       - **(i)** An entity that carries out a program referred to in subparagraph (B)(xiii) shall be included in the one-stop partners for the local area, as a required partner, for purposes of this Act and the other core program provisions that are not part of this Act, unless the Governor provides the notification described in clause (ii).
@@ -139,7 +139,7 @@ generated_at: "2026-03-29T02:14:09.511Z"
         - **(I)** The portion of funds required to be contributed under this paragraph from a program authorized under subpart 2 or 3, or the Wagner-Peyser Act ( 29 U.S.C. 49 et seq.) shall not exceed 3 percent of the amount of Federal funds provided to carry out that program in the State for a fiscal year.
         - **(II)** The portion of funds required to be contributed under this paragraph from a program described in subsection (b)(1) other than the programs described in subclause (I) shall not exceed 1.5 percent of the amount of Federal funds provided to carry out that program in the State for a fiscal year.
         - **(III)** Notwithstanding subclauses (I) and (II), an entity administering a program described in subsection (b)(1)(B)(iv) shall not be required to provide from that program, under this paragraph, a portion that exceeds—
-      - **(iii)** For local areas in a State that are not covered by paragraph (1)(A)(i)(I), an entity administering a program funded with direct spending as defined in section 900(c)(8) of title 2 , as in effect on February 15, 2014 3 3 So in original. Probably should be “2014,”. shall not be required to provide, for purposes of this paragraph, an amount in excess of the amount determined under subparagraph (C)(i) to be equivalent to the cost of the proportionate use of the one-stop centers for the one-stop partner for such program in the State.
+      - **(iii)** For local areas in a State that are not covered by paragraph (1)(A)(i)(I), an entity administering a program funded with direct spending as defined in section 900(c)(8) of title 2 , as in effect on February 15, 2014 2 2 So in original. Probably should be “2014,”. shall not be required to provide, for purposes of this paragraph, an amount in excess of the amount determined under subparagraph (C)(i) to be equivalent to the cost of the proportionate use of the one-stop centers for the one-stop partner for such program in the State.
       - **(iv)** One-stop partners for Native American programs established under section 3221 of this title shall not be subject to the provisions of this subsection (other than this clause) or subsection (i). For purposes of subsection (c)(2)(A)(ii)(II), the method for determining the appropriate portion of funds to be provided by such partners to pay for the costs of infrastructure of a one-stop center shall be determined as part of the development of the memorandum of understanding under subsection (c) for the one-stop center and shall be stated in the memorandum.
     - **(E)** The Governor shall establish a process, described under section 3112(b)(2)(D)(i)(IV) of this title , for a one-stop partner administering a program described in subsection (b)(1) to appeal a determination regarding the portion of funds to be provided under this paragraph. Such a determination may be appealed under the process on the basis that such determination is inconsistent with the requirements of this paragraph. Such process shall ensure prompt resolution of the appeal in order to ensure the funds are distributed in a timely manner, consistent with the requirements of section 3242(e) of this title .
   - **(3)**

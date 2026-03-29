@@ -3,14 +3,14 @@ title: "Section 14194 - Responsibilities of Commission"
 usc_title: 42
 usc_section: "14194"
 chapter: 136
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 14194"
-generated_at: "2026-03-29T18:07:15.378Z"
+generated_at: "2026-03-29T18:27:04.164Z"
 ---
 
 # § 14194. Responsibilities of Commission
 
-- **(a)** The responsibilities of the Commission shall include such study and consultation as may be necessary or appropriate to carry out the purposes set forth in section 14193 of this title , including the specific measures described in subsections (b) through (e) of this section in relation to the subject areas addressed in those subsections.
+- **(a)** The responsibilities of the Commission shall include such study and consultation as may be necessary or appropriate to carry out the purposes set forth in section 14193 of this title , including the specific measures described in subsections (b) through (e) in relation to the subject areas addressed in those subsections.
 - **(b)** In addressing the subject of crime and violence generally, the activities of the Commission shall include the following:
   - **(1)** Reviewing the effectiveness of traditional criminal justice approaches in preventing and controlling crime and violence.
   - **(2)** Examining the impact that changes in Federal and State law have had in controlling crime and violence.

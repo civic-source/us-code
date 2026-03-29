@@ -3,9 +3,9 @@ title: "Section 30305 - Access to Register information"
 usc_title: 49
 usc_section: "30305"
 chapter: 303
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 30305"
-generated_at: "2026-03-29T18:07:51.440Z"
+generated_at: "2026-03-29T18:27:16.540Z"
 ---
 
 # § 30305. Access to Register information
@@ -29,6 +29,7 @@ generated_at: "2026-03-29T18:07:51.440Z"
     - **(B)** to verify the accuracy of the information; or
     - **(C)** to obtain a certified copy of the information.
   - **(12)** The head of a Federal department or agency authorized to receive information regarding an individual from the Register under this section may request and receive such information from the Secretary.
+  - **(13)** The Administrator of the Federal Motor Carrier Safety Administration may request the chief driver licensing official of a State to provide information under subsection (a) of this section about an individual in connection with a safety investigation under the Administrator’s jurisdiction.
 - **(c)** A request for, or receipt of, information from the Register is subject to sections 552 and 552a of title 5, and other applicable laws of the United States or a State, except that—
   - **(1)** the Secretary of Transportation may not relay or otherwise provide information specified in section 30304(b)(1)(A) or (C) of this title to a person not authorized by this section to receive the information;
   - **(2)** a request for, or receipt of, information by a chief driver licensing official, or by a person authorized by subsection (b) of this section to request and receive the information, is deemed to be a routine use under section 552a(b) of title 5 ; and

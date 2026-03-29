@@ -3,9 +3,9 @@ title: "Section 398a - Leases of unallotted lands for oil and gas mining purpose
 usc_title: 25
 usc_section: "398a"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 398a"
-generated_at: "2026-03-29T18:05:17.044Z"
+generated_at: "2026-03-29T18:25:23.687Z"
 ---
 
 # § 398a. Leases of unallotted lands for oil and gas mining purposes within Executive order Indian reservations

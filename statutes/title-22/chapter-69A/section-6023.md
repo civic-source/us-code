@@ -3,9 +3,9 @@ title: "Section 6023 - Definitions"
 usc_title: 22
 usc_section: "6023"
 chapter: 69
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 6023"
-generated_at: "2026-03-29T18:05:21.988Z"
+generated_at: "2026-03-29T18:24:54.342Z"
 ---
 
 # § 6023. Definitions
@@ -15,7 +15,7 @@ As used in this chapter, the following terms have the following meanings:
   - **(1)** The term “agency or instrumentality of a foreign state” has the meaning given that term in section 1603(b) of title 28 .
   - **(2)** The term “appropriate congressional committees” means the Committee on International Relations and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
   - **(3)** The term “commercial activity” has the meaning given that term in section 1603(d) of title 28 .
-  - **(4)** As used in subchapters I and III of this chapter, the term “confiscated” refers to—
+  - **(4)** As used in subchapters I and III, the term “confiscated” refers to—
     - **(A)** the nationalization, expropriation, or other seizure by the Cuban Government of ownership or control of property, on or after January 1, 1959 —
       - **(i)** without the property having been returned or adequate and effective compensation provided; or
       - **(ii)** without the claim to the property having been settled pursuant to an international claims settlement agreement or other mutually accepted settlement procedure; and
@@ -28,7 +28,7 @@ As used in this chapter, the following terms have the following meanings:
     - **(B)** For purposes of subparagraph (A), the term “agency or instrumentality of the Government of Cuba” means an agency or instrumentality of a foreign state as defined in section 1603(b) of title 28 , with each reference in such section to “a foreign state” deemed to be a reference to “Cuba”.
   - **(6)** The term “democratically elected government in Cuba” means a government determined by the President to have met the requirements of section 6066 of this title .
   - **(7)** The term “economic embargo of Cuba” refers to—
-    - **(A)** the economic embargo (including all restrictions on trade or transactions with, and travel to or from, Cuba, and all restrictions on transactions in property in which Cuba or nationals of Cuba have an interest) that was imposed against Cuba pursuant to section 2370(a) of this title , section 5(b) of title 50 , Appendix, the Cuban Democracy Act of 1992 ( 22 U.S.C. 6001 and following), or any other provision of law; and
+    - **(A)** the economic embargo (including all restrictions on trade or transactions with, and travel to or from, Cuba, and all restrictions on transactions in property in which Cuba or nationals of Cuba have an interest) that was imposed against Cuba pursuant to section 2370(a) of this title , section 4305(b) of title 50 , the Cuban Democracy Act of 1992 ( 22 U.S.C. 6001 and following), or any other provision of law; and
     - **(B)** the restrictions imposed by section 902(c) of the Food Security Act of 1985.
   - **(8)** The term “foreign national” means—
     - **(A)** an alien; or
@@ -42,7 +42,7 @@ As used in this chapter, the following terms have the following meanings:
       - **(i)** the claim to the property is held by a United States national and the claim has been certified under title V of the International Claims Settlement Act of 1949 [ 22 U.S.C. 1643 et seq.]; or
       - **(ii)** the property is occupied by an official of the Cuban Government or the ruling political party in Cuba.
   - **(13)**
-    - **(A)** As used in subchapter III of this chapter, and except as provided in subparagraph (B), a person “traffics” in confiscated property if that person knowingly and intentionally—
+    - **(A)** As used in subchapter III, and except as provided in subparagraph (B), a person “traffics” in confiscated property if that person knowingly and intentionally—
       - **(i)** sells, transfers, distributes, dispenses, brokers, manages, or otherwise disposes of confiscated property, or purchases, leases, receives, possesses, obtains control of, manages, uses, or otherwise acquires or holds an interest in confiscated property,
       - **(ii)** engages in a commercial activity using or otherwise benefiting from confiscated property, or
       - **(iii)** causes, directs, participates in, or profits from, trafficking (as described in clause (i) or (ii)) by another person, or otherwise engages in trafficking (as described in clause (i) or (ii)) through another person,

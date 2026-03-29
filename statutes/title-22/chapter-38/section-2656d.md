@@ -3,9 +3,9 @@ title: "Section 2656d - Responsibilities of Secretary of State"
 usc_title: 22
 usc_section: "2656d"
 chapter: 38
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 2656d"
-generated_at: "2026-03-29T18:05:21.872Z"
+generated_at: "2026-03-29T18:24:54.243Z"
 ---
 
 # § 2656d. Responsibilities of Secretary of State
@@ -22,4 +22,4 @@ generated_at: "2026-03-29T18:05:21.872Z"
 - **(c)** The Secretary shall, to such extent or in such amounts as are provided in appropriation Acts, enter into short-term and long-term contracts, including contracts for the services of consult­ants, and shall make grants and take other appropriate measures in order to obtain assistance from knowledgeable persons and organizations in training officers and employees of the United States Government, at all levels of the Foreign Service and Civil Service—
   - **(1)** in the application of science and technology to problems of United States foreign policy and international relations generally; and
   - **(2)** in the skills of long-range planning and analysis with respect to the scientific and technological aspects of United States foreign policy.
-- **(d)** In obtaining assistance pursuant to subsection (c) of this section in training personnel who are officers or employees of the Department of State, the Secretary may provide for detached service for graduate study at accredited colleges and universities.
+- **(d)** In obtaining assistance pursuant to subsection (c) in training personnel who are officers or employees of the Department of State, the Secretary may provide for detached service for graduate study at accredited colleges and universities.

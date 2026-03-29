@@ -3,9 +3,9 @@ title: "Section 2229a - Staffing for adequate fire and emergency response"
 usc_title: 15
 usc_section: "2229a"
 chapter: 49
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 2229a"
-generated_at: "2026-03-29T18:04:29.847Z"
+generated_at: "2026-03-29T18:24:08.535Z"
 ---
 
 # § 2229a. Staffing for adequate fire and emergency response
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T18:04:29.847Z"
   - **(2)** An application for a grant under this section shall be submitted in such form, and contain such information, as the Administrator of FEMA may prescribe.
   - **(3)** At a minimum, each application for a grant under this section shall—
     - **(A)** explain the applicant’s inability to address the need without Federal assistance;
-    - **(B)** in the case of a grant under subsection (a)(1) of this section, explain how the applicant plans to meet the requirements of subsection (a)(1)(B)(ii) and (F) of this section;
+    - **(B)** in the case of a grant under subsection (a)(1), explain how the applicant plans to meet the requirements of subsection (a)(1)(B)(ii) and (F);
     - **(C)** specify long-term plans for retaining firefighters following the conclusion of Federal support provided under this section; and
     - **(D)** provide assurances that the applicant will, to the extent practicable, seek, recruit, and hire members of racial and ethnic minority groups and women in order to increase their ranks within firefighting.
 - **(c)**
@@ -73,7 +73,7 @@ generated_at: "2026-03-29T18:04:29.847Z"
     - **(D)** $1,093,000,000 for fiscal year 2007;
     - **(E)** $1,126,000,000 for fiscal year 2008;
     - **(F)** $1,159,000,000 for fiscal year 2009;
-    - **(G)** $1,194,000,000 for fiscal year 2010; and 2 2 So in original. The word “and” probably should not appear.
+    - **(G)** $1,194,000,000 for fiscal year 2010;
     - **(H)** $750,000,000 for fiscal year 2013; and
     - **(I)** for each of fiscal years 2014 through 2017, an amount equal to the amount authorized for the previous fiscal year increased by the percentage by which—
       - **(i)** the Consumer Price Index (all items, United States city average) for the previous fiscal year, exceeds

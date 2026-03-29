@@ -3,9 +3,9 @@ title: "Section 1181g - Unselected and unpatented odd-numbered sections as reves
 usc_title: 43
 usc_section: "1181g"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 1181g"
-generated_at: "2026-03-29T18:06:28.322Z"
+generated_at: "2026-03-29T18:26:14.848Z"
 ---
 
 # § 1181g. Unselected and unpatented odd-numbered sections as revested grant lands; administration as national-forest lands; revenues; prohibition against disposition or exchange

@@ -3,9 +3,9 @@ title: "Section 450ss - Findings and purposes"
 usc_title: 16
 usc_section: "450ss"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 450ss"
-generated_at: "2026-03-29T18:05:06.615Z"
+generated_at: "2026-03-29T18:24:22.531Z"
 ---
 
 # § 450ss. Findings and purposes

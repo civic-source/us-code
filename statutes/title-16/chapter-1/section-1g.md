@@ -1,14 +1,12 @@
 ---
-title: "Section 1g - Cooperative agreements"
+title: "Section 1g - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "1g"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 1g"
-generated_at: "2026-03-29T18:05:06.374Z"
+generated_at: "2026-03-29T18:24:22.402Z"
 ---
 
-# § 1g. Cooperative agreements
-
-The National Park Service may in fiscal year 1997 and thereafter enter into cooperative agreements that involve the transfer of National Park Service appropriated funds to State, local and tribal governments, other public entities, educational institutions, and private nonprofit organizations for the public purpose of carrying out National Park Service programs pursuant to section 6305 of title 31 to carry out public purposes of National Park Service programs.
+# § 1g. Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272
 

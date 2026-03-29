@@ -3,9 +3,9 @@ title: "Section 8345 - Payment of benefits; commencement, termination, and waive
 usc_title: 5
 usc_section: "8345"
 chapter: 83
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 8345"
-generated_at: "2026-03-29T18:03:29.944Z"
+generated_at: "2026-03-29T18:23:29.950Z"
 ---
 
 # § 8345. Payment of benefits; commencement, termination, and waiver of annuity
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T18:03:29.944Z"
 - **(c)** The annuity of a retired employee or Member terminates on the day death or other terminating event provided by this subchapter occurs. The annuity of a survivor terminates on the last day of the month before death or other terminating event occurs.
 - **(d)** An individual entitled to annuity from the Fund may decline to accept all or any part of the annuity by a waiver signed and filed with the Office of Personnel Management. The waiver may be revoked in writing at any time. Payment of the annuity waived may not be made for the period during which the waiver was in effect.
 - **(e)** Payment due a minor, or an individual mentally incompetent or under other legal disability, may be made to the person who is constituted guardian or other fiduciary by the law of the State of residence of the claimant or is otherwise legally vested with the care of the claimant or his estate. If a guardian or other fiduciary of the individual under legal disability has not been appointed under the law of the State of residence of the claimant, payment may be made to any person who, in the judgment of the Office, is responsible for the care of the claimant, and the payment bars recovery by any other person.
-- **[(f)** Repealed. Pub. L. 99–251, title III, § 305(a) , Feb. 27, 1986 , 100 Stat. 26 .]
+- **[(f)** Repealed. Pub. L. 99–251, title III , § 305(a), Feb. 27, 1986 , 100 Stat. 26 .]
 - **(g)** The Office shall prescribe regulations to provide that the amount of any monthly annuity payable under this section accruing for any month and which is computed with regard to service that includes any service referred to in section 8332(b)(6) performed by an individual prior to January 1, 1969 , shall be reduced by the portion of any benefits under any State retirement system to which such individual is entitled (or on proper application would be entitled) for such month which is attributable to such service performed by such individual before such date.
 - **(h)** An individual entitled to an annuity from the Fund may make allotments or assignments of amounts from his annuity for such purposes as the Office of Personnel Management in its sole discretion considers appropriate.
 - **(i)**

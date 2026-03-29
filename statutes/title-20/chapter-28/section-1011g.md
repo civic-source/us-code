@@ -3,12 +3,12 @@ title: "Section 1011g - Application of peer review process"
 usc_title: 20
 usc_section: "1011g"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1011g"
-generated_at: "2026-03-29T18:05:00.040Z"
+generated_at: "2026-03-29T18:24:40.892Z"
 ---
 
 # § 1011g. Application of peer review process
 
-All applications submitted under the provisions of this chapter and part C of subchapter I of chapter 34 of title 42 which require peer review shall be read by a panel of readers composed of individuals selected by the Secretary, which shall include outside readers who are not employees of the Federal Government. The Secretary shall ensure that no individual assigned under this section to review any application has any conflict of interest with regard to that application which might impair the impartiality with which that individual conducts the review under this section.
+All applications submitted under the provisions of this chapter which require peer review shall be read by a panel of readers composed of individuals selected by the Secretary, which shall include outside readers who are not employees of the Federal Government. The Secretary shall ensure that no individual assigned under this section to review any application has any conflict of interest with regard to that application which might impair the impartiality with which that individual conducts the review under this section.
 

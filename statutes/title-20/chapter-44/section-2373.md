@@ -3,9 +3,9 @@ title: "Section 2373 - Tech prep program"
 usc_title: 20
 usc_section: "2373"
 chapter: 44
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 2373"
-generated_at: "2026-03-29T18:05:00.249Z"
+generated_at: "2026-03-29T18:24:41.077Z"
 ---
 
 # § 2373. Tech prep program
@@ -32,7 +32,7 @@ generated_at: "2026-03-29T18:05:00.249Z"
         - **(II)** an apprenticeship program of not less than 2 years following secondary education instruction; and
     - **(B)** integrates academic and career and technical education instruction, and utilizes work-based and worksite learning experiences where appropriate and available;
     - **(C)** provides technical preparation in a career field, including high skill, high wage, or high demand occupations;
-    - **(D)** builds student competence in technical skills and in core academic subjects (as defined in section 7801 of this title ), as appropriate, through applied, contextual, and integrated instruction, in a coherent sequence of courses;
+    - **(D)** builds student competence in technical skills and as part of a well-rounded education (as defined in section 7801 of this title ), as appropriate, through applied, contextual, and integrated instruction, in a coherent sequence of courses;
     - **(E)** leads to technical skill proficiency, an industry-recognized credential, a certificate, or a degree, in a specific career field;
     - **(F)** leads to placement in high skill or high wage employment, or to further education; and
     - **(G)** utilizes career and technical education programs of study, to the extent practicable;

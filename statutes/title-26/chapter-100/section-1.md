@@ -3,9 +3,9 @@ title: "Section 1 - Additional market reforms"
 usc_title: 26
 usc_section: "1"
 chapter: 100
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 1"
-generated_at: "2026-03-29T18:05:45.098Z"
+generated_at: "2026-03-29T18:25:54.015Z"
 ---
 
 # § 9815. 1 1 So in original. No section 9814 has been enacted. Additional market reforms

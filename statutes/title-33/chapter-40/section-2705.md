@@ -3,14 +3,14 @@ title: "Section 2705 - Interest; partial payment of claims"
 usc_title: 33
 usc_section: "2705"
 chapter: 40
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 2705"
-generated_at: "2026-03-29T18:06:10.608Z"
+generated_at: "2026-03-29T18:26:01.310Z"
 ---
 
 # § 2705. Interest; partial payment of claims
 
-- **(a)** The responsible party or the responsible party’s guarantor is liable to a claimant for interest on the amount paid in satisfaction of a claim under this Act for the period described in subsection (b) of this section. The responsible party shall establish a procedure for the payment or settlement of claims for interim, short-term damages. Payment or settlement of a claim for interim, short-term damages representing less than the full amount of damages to which the claimant ultimately may be entitled shall not preclude recovery by the claimant for damages not reflected in the paid or settled partial claim.
+- **(a)** The responsible party or the responsible party’s guarantor is liable to a claimant for interest on the amount paid in satisfaction of a claim under this Act for the period described in subsection (b). The responsible party shall establish a procedure for the payment or settlement of claims for interim, short-term damages. Payment or settlement of a claim for interim, short-term damages representing less than the full amount of damages to which the claimant ultimately may be entitled shall not preclude recovery by the claimant for damages not reflected in the paid or settled partial claim.
 - **(b)**
   - **(1)** Except as provided in paragraph (2), the period for which interest shall be paid is the period beginning on the 30th day following the date on which the claim is presented to the responsible party or guarantor and ending on the date on which the claim is paid.
   - **(2)** If the guarantor offers to the claimant an amount equal to or greater than that finally paid in satisfaction of the claim, the period described in paragraph (1) does not include the period beginning on the date the offer is made and ending on the date the offer is accepted. If the offer is made within 60 days after the date on which the claim is presented under section 2713(a) of this title , the period described in paragraph (1) does not include any period before the offer is accepted.

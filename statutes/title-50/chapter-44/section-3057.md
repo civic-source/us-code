@@ -3,9 +3,9 @@ title: "Section 3057 - National Counter Proliferation Center"
 usc_title: 50
 usc_section: "3057"
 chapter: 44
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 3057"
-generated_at: "2026-03-29T18:07:43.110Z"
+generated_at: "2026-03-29T18:27:35.676Z"
 ---
 
 # § 3057. National Counter Proliferation Center
@@ -22,8 +22,8 @@ generated_at: "2026-03-29T18:07:43.110Z"
   - **(5)** Conducting net assessments and warnings about the proliferation of weapons of mass destruction, their delivery systems, and related materials and technologies.
   - **(6)** Coordinating counter proliferation plans and activities of the various departments and agencies of the United States Government to prevent and halt the proliferation of weapons of mass destruction, their delivery systems, and related materials and technologies.
   - **(7)** Conducting strategic operational counter proliferation planning for the United States Government to prevent and halt the proliferation of weapons of mass destruction, their delivery systems, and related materials and technologies.
-- **(c)** The President may waive the requirements of this section, and any parts thereof, if the President determines that such requirements do not materially improve the ability of the United States Government to prevent and halt the proliferation of weapons of mass destruction, their delivery systems, and related materials and technologies. Such waiver shall be made in writing to Congress and shall include a description of how the missions and objectives in subsection (b) of this section are being met.
+- **(c)** The President may waive the requirements of this section, and any parts thereof, if the President determines that such requirements do not materially improve the ability of the United States Government to prevent and halt the proliferation of weapons of mass destruction, their delivery systems, and related materials and technologies. Such waiver shall be made in writing to Congress and shall include a description of how the missions and objectives in subsection (b) are being met.
 - **(d)**
   - **(1)** Not later than nine months after the implementation of this chapter, the President shall submit to Congress, in classified form if necessary, the findings and recommendations of the President’s Commission on Weapons of Mass Destruction established by Executive Order in February 2004, together with the views of the President regarding the establishment of a National Counter Proliferation Center.
-  - **(2)** If the President decides not to exercise the waiver authority granted by subsection (c) of this section, the President shall submit to Congress from time to time updates and plans regarding the establishment of a National Counter Proliferation Center.
+  - **(2)** If the President decides not to exercise the waiver authority granted by subsection (c), the President shall submit to Congress from time to time updates and plans regarding the establishment of a National Counter Proliferation Center.
 - **(e)** It is the sense of Congress that a central feature of counter proliferation activities, consistent with the President’s Proliferation Security Initiative, should include the physical interdiction, by air, sea, or land, of weapons of mass destruction, their delivery systems, and related materials and technologies, and enhanced law enforcement activities to identify and disrupt proliferation networks, activities, organizations, and persons.

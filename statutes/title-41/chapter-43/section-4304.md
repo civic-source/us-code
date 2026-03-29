@@ -3,9 +3,9 @@ title: "Section 4304 - Specific costs not allowable"
 usc_title: 41
 usc_section: "4304"
 chapter: 43
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "41 U.S.C. § 4304"
-generated_at: "2026-03-29T18:06:34.766Z"
+generated_at: "2026-03-29T18:26:25.284Z"
 ---
 
 # § 4304. Specific costs not allowable
@@ -28,7 +28,8 @@ generated_at: "2026-03-29T18:06:34.766Z"
   - **(13)** Costs of severance pay paid by the contractor to foreign nationals employed by the contractor under a service contract performed outside the United States, to the extent that the amount of severance pay paid in any case exceeds the amount paid in the industry involved under the customary or prevailing practice for firms in that industry providing similar services in the United States, as determined under the Federal Acquisition Regulation.
   - **(14)** Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performed in a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a Federal Government facility in that country at the request of the government of that country.
   - **(15)** Costs incurred by a contractor in connection with any criminal, civil, or administrative proceeding commenced by the Federal Government or a State, to the extent provided in section 4310 of this title .
-  - **(16)** Costs of compensation of senior executives of contractors for a fiscal year, regardless of the contract funding source, to the extent that the compensation exceeds the benchmark compensation amount determined applicable for the fiscal year by the Administrator under section 1127 of this title .
+  - **(16)** 1 1 So in original. Two pars. (16) have been enacted. Costs of compensation of any contractor employee for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $625,000 adjusted annually for the U.S. Bureau of Labor Statistics Employment Cost Index for total compensation for private industry workers, by occupational and industry group not seasonally adjusted, except that the executive agency may establish exceptions for positions in the science, technology, engineering, mathematics, medical, and cybersecurity fields and other fields requiring unique areas of expertise upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.
+  - **(16)** 1 Costs of compensation of contractor and subcontractor employees for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $487,000 per year, adjusted annually to reflect the change in the Employment Cost Index for all workers, as calculated by the Bureau of Labor Statistics, except that the head of an executive agency may establish one or more narrowly targeted exceptions for scientists, engineers, or other specialists upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.
 - **(b)**
   - **(1)** Pursuant to the Federal Acquisition Regulation and subject to the availability of appropriations, an executive agency, in awarding a covered contract, may waive the application of paragraphs (13) and (14) of subsection (a) to that contract if the executive agency determines that—
     - **(A)** the application of those provisions to that contract would adversely affect the continuation of a program, project, or activity that provides significant support services for employees of the executive agency posted outside the United States;

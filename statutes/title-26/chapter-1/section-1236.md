@@ -3,9 +3,9 @@ title: "Section 1236 - Dealers in securities"
 usc_title: 26
 usc_section: "1236"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 1236"
-generated_at: "2026-03-29T18:05:44.779Z"
+generated_at: "2026-03-29T18:25:53.719Z"
 ---
 
 # § 1236. Dealers in securities
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T18:05:44.779Z"
 - **(a)** Gain by a dealer in securities from the sale or exchange of any security shall in no event be considered as gain from the sale or exchange of a capital asset unless—
   - **(1)** the security was, before the close of the day on which it was acquired (or such earlier time as the Secretary may prescribe by regulations), clearly identified in the dealer’s records as a security held for investment; and
   - **(2)** the security was not, at any time after the close of such day (or such earlier time), held by such dealer primarily for sale to customers in the ordinary course of his trade or business.
-- **(b)** Loss by a dealer in securities from the sale or exchange of any security shall, except as otherwise provided in section 582(c), (relating to bond, etc., losses of banks), in no event be considered as ordinary loss if at any time after November 19, 1951 , the security was clearly identified in the dealer’s records as a security held for investment.
+- **(b)** Loss by a dealer in securities from the sale or exchange of any security shall, except as otherwise provided in section 582(c), (relating to bond, etc., losses of banks), in no event be considered as ordinary loss if at any time the security was clearly identified in the dealer’s records as a security held for investment.
 - **(c)** For purposes of this section, the term “security” means any share of stock in any corporation, certificate of stock or interest in any corporation, note, bond, debenture, or evidence of indebtedness, or any evidence of an interest in or right to subscribe to or purchase any of the foregoing.
 - **(d)**
   - **(1)** In the case of a floor specialist (but only with respect to acquisitions, in connection with his duties on an exchange, of stock in which the specialist is registered with the exchange), subsection (a) shall be applied—

@@ -3,9 +3,9 @@ title: "Section 582 - Notice of establishment of standards; shipments under cont
 usc_title: 7
 usc_section: "582"
 chapter: 25
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 582"
-generated_at: "2026-03-29T18:04:04.783Z"
+generated_at: "2026-03-29T18:23:43.211Z"
 ---
 
 # § 582. Notice of establishment of standards; shipments under contracts made before adoption of standards

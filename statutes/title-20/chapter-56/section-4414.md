@@ -3,9 +3,9 @@ title: "Section 4414 - General powers of Board"
 usc_title: 20
 usc_section: "4414"
 chapter: 56
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 4414"
-generated_at: "2026-03-29T18:05:00.271Z"
+generated_at: "2026-03-29T18:24:41.094Z"
 ---
 
 # § 4414. General powers of Board
@@ -26,4 +26,4 @@ generated_at: "2026-03-29T18:05:00.271Z"
   - **(13)** to use any funds or property received by the Institute to carry out the purpose of this chapter, including the authority to designate on an annual basis a portion, not to exceed 10 percent, of the funds appropriated pursuant to section 4451 of this title for investment, without regard to any other provision of law regarding investment or disposition of federally appropriated funds, on a short-term basis for the purpose of maximizing yield and liquidity of such funds; and
   - **(14)** to exercise all other lawful powers necessarily or reasonably related to the establishment of the Institute in order to carry out the provisions of this chapter and the exercise of the powers, purposes, functions, duties, and authorized activities of the Institute.
 - **(b)** Any funds received by, or under the control of, the Institute that are not Federal funds shall be accounted for separately from Federal funds.
-- **(c)** Interest and earnings on amounts received by the Institute pursuant to section 4451 of this title invested under subsection (a)(12) 2 2 See References in Text note below. of this section shall be the property of the Institute and shall be expended to carry out this chapter. The Board shall be held to a reasonable and prudent standard of care, given such information and circumstances as existed when the decision is made, in decisions involving investment of funds under subsection (a)(12) 2 of this section.
+- **(c)** Interest and earnings on amounts received by the Institute pursuant to section 4451 of this title invested under subsection (a)(12) 2 2 See References in Text note below. shall be the property of the Institute and shall be expended to carry out this chapter. The Board shall be held to a reasonable and prudent standard of care, given such information and circumstances as existed when the decision is made, in decisions involving investment of funds under subsection (a)(12). 2

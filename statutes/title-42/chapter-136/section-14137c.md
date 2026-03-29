@@ -3,9 +3,9 @@ title: "Section 14137c - Offset of funds appropriated"
 usc_title: 42
 usc_section: "14137c"
 chapter: 136
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 14137c"
-generated_at: "2026-03-29T18:07:15.375Z"
+generated_at: "2026-03-29T18:27:04.161Z"
 ---
 
 # § 14137c. Offset of funds appropriated

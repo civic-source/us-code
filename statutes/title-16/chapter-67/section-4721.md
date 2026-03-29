@@ -3,9 +3,9 @@ title: "Section 4721 - Establishment of Task Force"
 usc_title: 16
 usc_section: "4721"
 chapter: 67
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 4721"
-generated_at: "2026-03-29T18:05:07.071Z"
+generated_at: "2026-03-29T18:24:22.913Z"
 ---
 
 # § 4721. Establishment of Task Force
@@ -18,8 +18,8 @@ generated_at: "2026-03-29T18:05:07.071Z"
   - **(4)** the Commandant of the United States Coast Guard;
   - **(5)** the Assistant Secretary;
   - **(6)** the Secretary of Agriculture; and
-  - **(7)** the head of any other Federal agency that the chairpersons designated under subsection (d) of this section deem appropriate.
-- **(c)** The chairpersons designated under subsection (d) of this section shall invite representatives of the Great Lakes Commission, the Lake Champlain Basin Program, the Chesapeake Bay Program, the San Francisco Bay-Delta Estuary Program, and State agencies and other governmental entities to participate as ex officio members of the Task Force.
+  - **(7)** the head of any other Federal agency that the chairpersons designated under subsection (d) deem appropriate.
+- **(c)** The chairpersons designated under subsection (d) shall invite representatives of the Great Lakes Commission, the Lake Champlain Basin Program, the Chesapeake Bay Program, the San Francisco Bay-Delta Estuary Program, and State agencies and other governmental entities to participate as ex officio members of the Task Force.
 - **(d)** The Director and the Under Secretary shall serve as co-chairpersons of the Task Force and shall be jointly responsible, and are authorized to undertake such activities as may be necessary, for carrying out this subchapter in consultation and cooperation with the other members of the Task Force.
 - **(e)** Within six months of November 29, 1990 , the Director and the Under Secretary shall develop a memorandum of understanding that describes the role of each in jointly carrying out this subchapter.
 - **(f)** Each Task Force member shall coordinate any action to carry out this subchapter with any such action by other members of the Task Force, and regional, State and local entities.

@@ -3,9 +3,9 @@ title: "Section 450a - Chalmette, Louisiana, Monument"
 usc_title: 16
 usc_section: "450a"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 450a"
-generated_at: "2026-03-29T18:05:06.608Z"
+generated_at: "2026-03-29T18:24:22.524Z"
 ---
 
 # § 450a. Chalmette, Louisiana, Monument

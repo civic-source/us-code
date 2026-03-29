@@ -3,12 +3,14 @@ title: "Section 20116 - Rulemaking process"
 usc_title: 49
 usc_section: "20116"
 chapter: 201
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 20116"
-generated_at: "2026-03-29T18:07:51.402Z"
+generated_at: "2026-03-29T18:27:16.506Z"
 ---
 
 # § 20116. Rulemaking process
 
-No rule or order issued by the Secretary under this part shall be effective if it incorporates by reference a code, rule, standard, requirement, or practice issued by an association or other entity that is not an agency of the Federal Government, unless the date on which the code, rule, standard, requirement, or practice was adopted is specifically cited in the rule or order, or the code, rule, standard, requirement, or practice has been subject to notice and comment under a rule or order issued under this part.
+No rule or order issued by the Secretary under this part shall be effective if it incorporates by reference a code, rule, standard, requirement, or practice issued by an association or other entity that is not an agency of the Federal Government, unless—
 
+  - **(1)** the date on which the code, rule, standard, requirement, or practice was adopted is specifically cited in the rule or order; or
+  - **(2)** the code, rule, standard, requirement, or practice has been subject to notice and comment under a rule or order issued under this part.

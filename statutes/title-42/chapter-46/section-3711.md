@@ -3,9 +3,9 @@ title: "Section 3711 - Establishment of Office of Justice Programs"
 usc_title: 42
 usc_section: "3711"
 chapter: 46
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 3711"
-generated_at: "2026-03-29T18:07:14.533Z"
+generated_at: "2026-03-29T18:27:03.525Z"
 ---
 
 # § 3711. Establishment of Office of Justice Programs

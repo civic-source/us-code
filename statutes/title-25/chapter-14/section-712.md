@@ -1,16 +1,12 @@
 ---
-title: "Section 712 - Definitions"
+title: "Section 712 - Omitted"
 usc_title: 25
 usc_section: "712"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 712"
-generated_at: "2026-03-29T18:05:17.095Z"
+generated_at: "2026-03-29T18:25:23.700Z"
 ---
 
-# § 712. Definitions
+# § 712. Omitted
 
-For the purposes of this subchapter—
-
-  - **(1)** the term “tribe” means the Cow Creek Band of Umpqua Tribe of Indians; and
-  - **(2)** the term “member”, when used with respect to the tribe, means a person enrolled on the membership roll of the tribe in accordance with section 712c of this title .

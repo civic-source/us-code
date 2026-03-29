@@ -1,16 +1,12 @@
 ---
-title: "Section 6871 - Eligible entity"
+title: "Section 6871 - Repealed. Pub. L. 114–95, title III , § 3001(2)(C), Dec. 10, 2015 , 129 Stat. 1953"
 usc_title: 20
 usc_section: "6871"
 chapter: 70
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 6871"
-generated_at: "2026-03-29T18:05:00.340Z"
+generated_at: "2026-03-29T18:24:41.136Z"
 ---
 
-# § 6871. Eligible entity
+# § 6871. Repealed. Pub. L. 114–95, title III , § 3001(2)(C), Dec. 10, 2015 , 129 Stat. 1953
 
-In this part, the term “eligible entity” means—
-
-  - **(1)** one or more local educational agencies; or
-  - **(2)** one or more local educational agencies, in collaboration with an institution of higher education, community-based organization, or State educational agency.

@@ -3,9 +3,9 @@ title: "Section 2510 - The tribally controlled grant school endowment program"
 usc_title: 25
 usc_section: "2510"
 chapter: 27
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 2510"
-generated_at: "2026-03-29T18:05:17.225Z"
+generated_at: "2026-03-29T18:25:23.787Z"
 ---
 
 # § 2510. The tribally controlled grant school endowment program
@@ -16,4 +16,4 @@ generated_at: "2026-03-29T18:05:17.225Z"
     - **(A)** for deposit into the trust fund, only funds from non-Federal sources, except that the interest on funds received from grants provided under this chapter may be used for that purpose;
     - **(B)** for deposit into the trust fund, any earnings on funds deposited in the fund; and
     - **(C)** for the sole use of the school any noncash, in-kind contributions of real or personal property, which may at any time be used, sold, or otherwise disposed of.
-- **(b)** Interest from the fund established under subsection (a) of this section may periodically be withdrawn and used, at the discretion of the school, to defray any expenses associated with the operation of the school consistent with the purposes of this Act. 1 1 See References in Text note below.
+- **(b)** Interest from the fund established under subsection (a) may periodically be withdrawn and used, at the discretion of the school, to defray any expenses associated with the operation of the school consistent with the purposes of this Act. 1 1 See References in Text note below.

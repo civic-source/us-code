@@ -3,16 +3,16 @@ title: "Section 788 - Use of commercial standards"
 usc_title: 15
 usc_section: "788"
 chapter: 16
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 788"
-generated_at: "2026-03-29T18:04:29.523Z"
+generated_at: "2026-03-29T18:24:08.422Z"
 ---
 
 # § 788. Use of commercial standards
 
 - **(a)** If any proposed rule by the Administrator contains any commercial standards, or specifically authorizes or requires the use of any such standards, then any general notice of the proposed rulemaking shall—
   - **(1)** identify, by name, the organization which promulgated such standards; and
-  - **(2)** state whether or not, in the judgment of the Administrator, such organization complied with the requirements of subsection (b) of this section in the promulgation of such standards.
+  - **(2)** state whether or not, in the judgment of the Administrator, such organization complied with the requirements of subsection (b) in the promulgation of such standards.
 - **(b)** An organization complies with the requirements of this subsection in promulgating any commercial standards if—
   - **(1)** it gives interested persons adequate notice of the proposed promulgation of the standards and an opportunity to participate in the promulgation process through the presentation of their views in hearings or meetings which are open to the public;
   - **(2)** the membership of the organization at the time of the promulgation of the standards is sufficiently balanced so as to allow for the effective representation of all interested persons;

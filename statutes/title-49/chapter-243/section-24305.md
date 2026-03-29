@@ -3,9 +3,9 @@ title: "Section 24305 - General authority"
 usc_title: 49
 usc_section: "24305"
 chapter: 243
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 24305"
-generated_at: "2026-03-29T18:07:51.419Z"
+generated_at: "2026-03-29T18:27:16.518Z"
 ---
 
 # § 24305. General authority
@@ -37,7 +37,7 @@ generated_at: "2026-03-29T18:07:51.419Z"
   - **(1)** Establishing through routes and joint fares between Amtrak and other intercity rail passenger carriers and motor carriers of passengers is consistent with the public interest and the transportation policy of the United States. Congress encourages establishing those routes and fares.
   - **(2)** Amtrak may establish through routes and joint fares with any domestic or international motor carrier, air carrier, or water carrier.
   - **(3)** Congress encourages Amtrak and motor common carriers of passengers to use the authority conferred in sections 11322 and 14302 of this title for the purpose of providing improved service to the public and economy of operation.
-- **(e)** Amtrak may employ rail police to provide security for rail passengers and property of Amtrak. Rail police employed by Amtrak who have complied with a State law establishing requirements applicable to rail police or individuals employed in a similar position may be employed without regard to the law of another State containing those requirements.
+- **(e)** Amtrak may directly employ or contract with rail police to provide security for rail passengers and property of Amtrak. Rail police directly employed by or contracted by Amtrak who have complied with a State law establishing requirements applicable to rail police or individuals employed in a similar position may be directly employed or contracted without regard to the law of another State containing those requirements.
 - **(f)**
   - **(1)** In this subsection, “United States” means the States, territories, and possessions of the United States and the District of Columbia.
   - **(2)** Amtrak shall buy only—

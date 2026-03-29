@@ -3,9 +3,9 @@ title: "Section 3221 - Native American programs"
 usc_title: 29
 usc_section: "3221"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 3221"
-generated_at: "2026-03-29T02:14:09.524Z"
+generated_at: "2026-03-29T18:25:43.161Z"
 ---
 
 # § 3221. Native American programs
@@ -36,7 +36,7 @@ generated_at: "2026-03-29T02:14:09.524Z"
   - **(3)** identify the education and employment needs of the population to be served and the manner in which the activities to be provided will strengthen the ability of the individuals served to obtain or retain unsubsidized employment leading to self-sufficiency;
   - **(4)** describe the activities to be provided and the manner in which such activities are to be integrated with other appropriate activities; and
   - **(5)** describe, after the entity submitting the plan consults with the Secretary, the performance accountability measures to be used to assess the performance of entities in carrying out the activities assisted under this section, which shall include the primary indicators of performance described in section 3141(b)(2)(A) of this title and expected levels of performance for such indicators, in accordance with subsection (h).
-- **(f)** Each entity receiving assistance under subsection (c) may consolidate such assistance with assistance received from related programs in accordance with the provisions of the Indian Employment, Training and Related Services Demonstration Act of 1992 ( 25 U.S.C. 3401 et seq.). 1
+- **(f)** Each entity receiving assistance under subsection (c) may consolidate such assistance with assistance received from related programs in accordance with the provisions of the Indian Employment, Training and Related Services Demonstration Act of 1992 ( 25 U.S.C. 3401 et seq.).
 - **(g)** Nothing in this section shall be construed—
   - **(1)** to limit the eligibility of any entity described in subsection (c) to participate in any activity offered by a State or local entity under this Act; or
   - **(2)** to preclude or discourage any agreement, between any entity described in subsection (c) and any State or local entity, to facilitate the provision of services by such entity or to the population served by such entity.
@@ -66,7 +66,7 @@ generated_at: "2026-03-29T02:14:09.524Z"
       - **(iii)** The Secretary shall provide the Council with such administrative support as may be necessary to perform the functions of the Council.
     - **(E)** The Council shall select a chairperson from among its members.
     - **(F)** The Council shall meet not less than twice each year.
-    - **(G)** Section 1013 of title 5 shall not apply to the Council.
+    - **(G)** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Council.
   - **(5)** The Secretary, acting through the unit established under paragraph (1), is authorized to provide technical assistance to entities described in subsection (c) that receive assistance under such subsection to enable such entities to improve the activities authorized under this section that are provided by such entities.
   - **(6)** A federally recognized Indian tribe that administers funds provided under this section and funds provided by more than one State under other sections of this subchapter may enter into an agreement with the Secretary and the Governors of the affected States to transfer the funds provided by the States to the program administered by the tribe under this section.
 - **(j)** Grants made and contracts and cooperative agreements entered into under this section shall be subject to the requirements of chapter 75 of subtitle V of title 31, and charging of costs under this section shall be subject to appropriate circulars issued by the Office of Management and Budget.

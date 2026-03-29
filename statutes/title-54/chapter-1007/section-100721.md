@@ -3,9 +3,9 @@ title: "Section 100721 - Definitions"
 usc_title: 54
 usc_section: "100721"
 chapter: 1007
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "54 U.S.C. § 100721"
-generated_at: "2026-03-29T02:16:35.444Z"
+generated_at: "2026-03-29T18:27:38.910Z"
 ---
 
 # § 100721. Definitions

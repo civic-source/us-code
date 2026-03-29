@@ -3,14 +3,14 @@ title: "Section 14503 - Limitation on liability for volunteers"
 usc_title: 42
 usc_section: "14503"
 chapter: 139
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 14503"
-generated_at: "2026-03-29T18:07:15.382Z"
+generated_at: "2026-03-29T18:27:04.170Z"
 ---
 
 # § 14503. Limitation on liability for volunteers
 
-- **(a)** Except as provided in subsections (b) and (d) of this section, no volunteer of a nonprofit organization or governmental entity shall be liable for harm caused by an act or omission of the volunteer on behalf of the organization or entity if—
+- **(a)** Except as provided in subsections (b) and (d), no volunteer of a nonprofit organization or governmental entity shall be liable for harm caused by an act or omission of the volunteer on behalf of the organization or entity if—
   - **(1)** the volunteer was acting within the scope of the volunteer’s responsibilities in the nonprofit organization or governmental entity at the time of the act or omission;
   - **(2)** if appropriate or required, the volunteer was properly licensed, certified, or authorized by the appropriate authorities for the activities or practice in the State in which the harm occurred, where the activities were or practice was undertaken within the scope of the volunteer’s responsibilities in the nonprofit organization or governmental entity;
   - **(3)** the harm was not caused by willful or criminal misconduct, gross negligence, reckless misconduct, or a conscious, flagrant indifference to the rights or safety of the individual harmed by the volunteer; and
@@ -34,4 +34,4 @@ generated_at: "2026-03-29T18:07:15.382Z"
     - **(C)** involves a sexual offense, as defined by applicable State law, for which the defendant has been convicted in any court;
     - **(D)** involves misconduct for which the defendant has been found to have violated a Federal or State civil rights law; or
     - **(E)** where the defendant was under the influence (as determined pursuant to applicable State law) of intoxicating alcohol or any drug at the time of the misconduct.
-  - **(2)** Nothing in this subsection shall be construed to effect subsection (a)(3) or (e) of this section.
+  - **(2)** Nothing in this subsection shall be construed to effect subsection (a)(3) or (e).

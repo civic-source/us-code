@@ -3,9 +3,9 @@ title: "Section 2246 - Definitions for chapter"
 usc_title: 18
 usc_section: "2246"
 chapter: 109
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "18 U.S.C. § 2246"
-generated_at: "2026-03-29T18:04:50.943Z"
+generated_at: "2026-03-29T18:24:43.835Z"
 ---
 
 # § 2246. Definitions for chapter

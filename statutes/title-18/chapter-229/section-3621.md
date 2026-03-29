@@ -3,9 +3,9 @@ title: "Section 3621 - Imprisonment of a convicted person"
 usc_title: 18
 usc_section: "3621"
 chapter: 229
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "18 U.S.C. § 3621"
-generated_at: "2026-03-29T18:04:50.997Z"
+generated_at: "2026-03-29T18:24:43.883Z"
 ---
 
 # § 3621. Imprisonment of a convicted person

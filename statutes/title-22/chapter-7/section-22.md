@@ -1,14 +1,14 @@
 ---
-title: "Section 22 - Prohibition against duplicate payments; eligibility for payments unaffected by means employed for acquisition of property; rights and powers unaffected"
+title: "Section 22 - Thirteenth replenishment"
 usc_title: 22
 usc_section: "22"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 22"
-generated_at: "2026-03-29T18:05:21.720Z"
+generated_at: "2026-03-29T18:24:54.133Z"
 ---
 
-# § 277d–22. Prohibition against duplicate payments; eligibility for payments unaffected by means employed for acquisition of property; rights and powers unaffected
+# § 290g–22. Thirteenth replenishment
 
-Payments to be made as herein provided shall be in addition to, but not in duplication of, any payments that may otherwise be authorized by law. The means employed to acquire the property, whether by condemnation or otherwise, shall not affect eligibility for reimbursement or compensation under sections 277d–17 to 277d–25 of this title. Nothing contained in such sections shall be construed as creating any legal right or cause of action against the United States or as precluding the exercise by the Government of the right of eminent domain or any other right or power that it may have under such sections or any other law; nor shall such sections be construed as precluding an owner or tenant from asserting any rights he may have under other laws or the Constitution of the United States.
-
+- **(a)** The United States Governor of the Fund is authorized to contribute on behalf of the United States $585,000,000 to the thirteenth replenishment of the resources of the Fund, subject to obtaining the necessary appropriations.
+- **(b)** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $585,000,000 for payment by the Secretary of the Treasury.

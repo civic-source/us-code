@@ -3,9 +3,9 @@ title: "Section 2607 - Prohibition against kickbacks and unearned fees"
 usc_title: 12
 usc_section: "2607"
 chapter: 27
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 2607"
-generated_at: "2026-03-29T18:04:43.661Z"
+generated_at: "2026-03-29T18:24:02.985Z"
 ---
 
 # § 2607. Prohibition against kickbacks and unearned fees
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T18:04:43.661Z"
 - **(d)**
   - **(1)** Any person or persons who violate the provisions of this section shall be fined not more than $10,000 or imprisoned for not more than one year, or both.
   - **(2)** Any person or persons who violate the prohibitions or limitations of this section shall be jointly and severally liable to the person or persons charged for the settlement service involved in the violation in an amount equal to three times the amount of any charge paid for such settlement service.
-  - **(3)** No person or persons shall be liable for a violation of the provisions of subsection (c)(4)(A) of this section if such person or persons proves by a preponderance of the evidence that such violation was not intentional and resulted from a bona fide error notwithstanding maintenance of procedures that are reasonably adapted to avoid such error.
+  - **(3)** No person or persons shall be liable for a violation of the provisions of subsection (c)(4)(A) if such person or persons proves by a preponderance of the evidence that such violation was not intentional and resulted from a bona fide error notwithstanding maintenance of procedures that are reasonably adapted to avoid such error.
   - **(4)** The Bureau, the Secretary, or the attorney general or the insurance commissioner of any State may bring an action to enjoin violations of this section. Except, to the extent that a person is subject to the jurisdiction of the Bureau, the Secretary, or the attorney general or the insurance commissioner of any State, the Bureau shall have primary authority to enforce or administer this section, subject to subtitle B of the Consumer Financial Protection Act of 2010 [ 12 U.S.C. 5511 et seq.].
   - **(5)** In any private action brought pursuant to this subsection, the court may award to the prevailing party the court costs of the action together with reasonable attorneys fees.
   - **(6)** No provision of State law or regulation that imposes more stringent limitations on affiliated business arrangements shall be construed as being inconsistent with this section.

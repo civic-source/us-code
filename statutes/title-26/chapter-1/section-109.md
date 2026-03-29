@@ -3,9 +3,9 @@ title: "Section 109 - Improvements by lessee on lessor’s property"
 usc_title: 26
 usc_section: "109"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 109"
-generated_at: "2026-03-29T18:05:44.474Z"
+generated_at: "2026-03-29T18:25:53.425Z"
 ---
 
 # § 109. Improvements by lessee on lessor’s property

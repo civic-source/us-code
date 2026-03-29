@@ -3,14 +3,14 @@ title: "Section 4741 - Authorization of appropriations"
 usc_title: 16
 usc_section: "4741"
 chapter: 67
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 4741"
-generated_at: "2026-03-29T18:05:07.072Z"
+generated_at: "2026-03-29T18:24:22.915Z"
 ---
 
 # § 4741. Authorization of appropriations
 
-- **(a)** There are authorized to be appropriated to develop and implement the provisions of subchapter II of this chapter—
+- **(a)** There are authorized to be appropriated to develop and implement the provisions of subchapter II—
   - **(1)** $500,000 until the end of fiscal year 1992 to the Secretary to carry out sections 4711 and 4712(a)(3) of this title;
   - **(2)** $2,000,000 until the end of fiscal year 1992 to the Director and Under Secretary to carry out the studies under sections 4712(a)(1) and 4712(a)(2 1 1 So in original. Probably should be followed by a closing parenthesis. of this title;
   - **(3)** to the Secretary to carry out section 4711 of this title —
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T18:05:07.072Z"
   - **(5)** for each of fiscal years 1997 through 2002—
     - **(A)** $3,000,000, which shall be made available from funds otherwise authorized to be appropriated if such funds are so authorized, to the Under Secretary to carry out section 4712(e) of this title ; and
     - **(B)** $500,000 to the Secretary to carry out section 4712(f) of this title .
-- **(b)** There are authorized to be appropriated for each of fiscal years 1997 through 2002 to develop and implement the provisions of subchapter III of this chapter—
+- **(b)** There are authorized to be appropriated for each of fiscal years 1997 through 2002 to develop and implement the provisions of subchapter III—
   - **(1)** $6,000,000 to the Department of the Interior, to be used by the Director to carry out sections 4722 and 4728 of this title;
   - **(2)** $1,000,000 to the Department of Commerce, to be used by the Under Secretary to carry out section 4722 of this title ;
   - **(3)** $1,625,000, which shall be made available from funds otherwise authorized to be appropriated if such funds are so authorized, to fund aquatic nuisance species prevention and control research under section 4722(i) of this title at the Great Lakes Environmental Research Laboratory of the National Oceanic and Atmospheric Administration, of which $500,000 shall be made available for grants, to be competitively awarded and subject to peer review, for research relating to Lake Champlain;

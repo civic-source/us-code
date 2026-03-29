@@ -3,15 +3,15 @@ title: "Section 10601 - Crime Victims Fund"
 usc_title: 42
 usc_section: "10601"
 chapter: 112
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 10601"
-generated_at: "2026-03-29T18:07:15.154Z"
+generated_at: "2026-03-29T18:27:03.993Z"
 ---
 
 # § 10601. Crime Victims Fund
 
 - **(a)** There is created in the Treasury a separate account to be known as the Crime Victims Fund (hereinafter in this chapter referred to as the “Fund”).
-- **(b)** Except as limited by subsection (c) of this section, there shall be deposited in the Fund—
+- **(b)** Except as limited by subsection (c), there shall be deposited in the Fund—
   - **(1)** all fines that are collected from persons convicted of offenses against the United States except—
     - **(A)** fines available for use by the Secretary of the Treasury pursuant to—
       - **(i)** section 11(d) of the Endangered Species Act ( 16 U.S.C. 1540(d) ); and
@@ -27,15 +27,19 @@ generated_at: "2026-03-29T18:07:15.154Z"
   - **(5)** any gifts, bequests, or donations to the Fund from private entities or individuals, which the Director is hereby authorized to accept for deposit into the Fund, except that the Director is not hereby authorized to accept any such gift, bequest, or donation that—
     - **(A)** attaches conditions inconsistent with applicable laws or regulations; or
     - **(B)** is conditioned upon or would require the expenditure of appropriated funds that are not available to the Office for Victims of Crime.
-- **(c)** Sums deposited in the Fund shall remain in the Fund and be available for expenditure under this chapter for grants under this chapter without fiscal year limitation. Notwithstanding subsection (d)(5) of this section, all sums deposited in the Fund in any fiscal year that are not made available for obligation by Congress in the subsequent fiscal year shall remain in the Fund for obligation in future fiscal years, without fiscal year limitation.
+- **(c)** Sums deposited in the Fund shall remain in the Fund and be available for expenditure under this chapter for grants under this chapter without fiscal year limitation. Notwithstanding subsection (d)(5), all sums deposited in the Fund in any fiscal year that are not made available for obligation by Congress in the subsequent fiscal year shall remain in the Fund for obligation in future fiscal years, without fiscal year limitation.
 - **(d)** The Fund shall be available as follows:
-  - **(1)** Repealed. Pub. L. 105–119, title I, § 109(a)(1) , Nov. 26, 1997 , 111 Stat. 2457 .
+  - **(1)** Repealed. Pub. L. 105–119, title I , § 109(a)(1), Nov. 26, 1997 , 111 Stat. 2457 .
   - **(2)**
     - **(A)** Except as provided in subparagraph (B), the first $10,000,000 deposited in the Fund shall be available for grants under section 10603a of this title .
     - **(B)**
       - **(i)** For any fiscal year for which the amount deposited in the Fund is greater than the amount deposited in the Fund for fiscal year 1998, the $10,000,000 referred to in subparagraph (A) plus an amount equal to 50 percent of the increase in the amount from fiscal year 1998 shall be available for grants under section 10603a of this title .
       - **(ii)** Amounts available under this subparagraph for any fiscal year shall not exceed $20,000,000.
-  - **(3)** Of the sums remaining in the Fund in any particular fiscal year after compliance with paragraph (2), such sums as may be necessary shall be available for the United States Attorneys Offices and the Federal Bureau of Investigation to improve services for the benefit of crime victims in the Federal criminal justice system, and for a Victim Notification System.
+  - **(3)**
+    - **(A)** Of the sums remaining in the Fund in any particular fiscal year after compliance with paragraph (2), such sums as may be necessary shall be available only for—
+      - **(i)** the United States Attorneys Offices and the Federal Bureau of Investigation to provide and improve services for the benefit of crime victims in the Federal criminal justice system (as described in section 3771 or section 3772, as it relates to direct services, of title 18 and section 10607 of this title ) through victim coordinators, victims’ specialists, and advocates, including for the administrative support of victim coordinators and advocates providing such services; and
+      - **(ii)** a Victim Notification System.
+    - **(B)** Amounts made available under subparagraph (A) may not be used for any purpose that is not specified in clause (i) or (ii) of subparagraph (A).
   - **(4)** Of the remaining amount to be distributed from the Fund in a particular fiscal year—
     - **(A)** 47.5 percent shall be available for grants under section 10602 of this title ;
     - **(B)** 47.5 percent shall be available for grants under section 10603(a) of this title ; and
@@ -43,15 +47,15 @@ generated_at: "2026-03-29T18:07:15.154Z"
   - **(5)**
     - **(A)** In addition to the amounts distributed under paragraphs (2), (3), and (4), the Director may set aside up to $50,000,000 from the amounts transferred to the Fund in response to the airplane hijackings and terrorist acts that occurred on September 11, 2001 , as an antiterrorism emergency reserve. The Director may replenish any amounts obligated from such reserve in subsequent fiscal years by setting aside up to 5 percent of the amounts remaining in the Fund in any fiscal year after distributing amounts under paragraphs (2), (3) and (4). Such reserve shall not exceed $50,000,000.
     - **(B)** The antiterrorism emergency reserve referred to in subparagraph (A) may be used for supplemental grants under section 10603b of this title and to provide compensation to victims of international terrorism under section 10603c of this title .
-    - **(C)** Amounts in the antiterrorism emergency reserve established pursuant to subparagraph (A) may be carried over from fiscal year to fiscal year. Notwithstanding subsection (c) of this section and section 619 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001 (and any similar limitation on Fund obligations in any future Act, unless the same should expressly refer to this section), any such amounts carried over shall not be subject to any limitation on obligations from amounts deposited to or available in the Fund.
-- **(e)** Any amount awarded as part of a grant under this chapter that remains unspent at the end of a fiscal year in which the grant is made may be expended for the purpose for which the grant is made at any time during the 3 succeeding fiscal years, at the end of which period, any remaining unobligated sums shall be available for deposit into the emergency reserve fund referred to in subsection (d)(5) of this section at the discretion of the Director. Any remaining unobligated sums shall be returned to the Fund.
+    - **(C)** Amounts in the antiterrorism emergency reserve established pursuant to subparagraph (A) may be carried over from fiscal year to fiscal year. Notwithstanding subsection (c) and section 619 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001 (and any similar limitation on Fund obligations in any future Act, unless the same should expressly refer to this section), any such amounts carried over shall not be subject to any limitation on obligations from amounts deposited to or available in the Fund.
+- **(e)** Any amount awarded as part of a grant under this chapter that remains unspent at the end of a fiscal year in which the grant is made may be expended for the purpose for which the grant is made at any time during the 3 succeeding fiscal years, at the end of which period, any remaining unobligated sums shall be available for deposit into the emergency reserve fund referred to in subsection (d)(5) at the discretion of the Director. Any remaining unobligated sums shall be returned to the Fund.
 - **(f)** As used in this section, the term “offenses against the United States” does not include—
   - **(1)** a criminal violation of the Uniform Code of Military Justice ( 10 U.S.C. 801 et seq.);
   - **(2)** an offense against the laws of the District of Columbia; and
   - **(3)** an offense triable by an Indian tribal court or Court of Indian Offenses.
 - **(g)**
-  - **(1)** The Attorney General shall use 15 percent of the funds available under subsection (d)(2) of this section to make grants for the purpose of assisting Native American Indian tribes in developing, establishing, and operating programs designed to improve—
+  - **(1)** The Attorney General shall use 15 percent of the funds available under subsection (d)(2) to make grants for the purpose of assisting Native American Indian tribes in developing, establishing, and operating programs designed to improve—
     - **(A)** the handling of child abuse cases, particularly cases of child sexual abuse, in a manner which limits additional trauma to the child victim; and
     - **(B)** the investigation and prosecution of cases of child abuse, particularly child sexual abuse.
-  - **(2)** The Attorney General may use 5 percent of the funds available under subsection (d)(2) of this section (prior to distribution) for grants to Indian tribes to establish child victim assistance programs, as appropriate.
-  - **(3)** As used in this subsection, the term “tribe” 2 2 So in original. Probably should be “ ‘Indian tribe’ ”. has the meaning given that term in section 450b(b) 3 3 See References in Text note below. of title 25.
+  - **(2)** The Attorney General may use 5 percent of the funds available under subsection (d)(2) (prior to distribution) for grants to Indian tribes to establish child victim assistance programs, as appropriate.
+  - **(3)** As used in this subsection, the term “tribe” 2 2 So in original. Probably should be “ ‘Indian tribe’ ”. has the meaning given that term in section 5304(b) 1 of title 25.

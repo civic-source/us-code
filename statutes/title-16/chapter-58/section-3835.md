@@ -3,9 +3,9 @@ title: "Section 3835 - Contracts"
 usc_title: 16
 usc_section: "3835"
 chapter: 58
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 3835"
-generated_at: "2026-03-29T18:05:07.046Z"
+generated_at: "2026-03-29T18:24:22.888Z"
 ---
 
 # § 3835. Contracts
@@ -41,26 +41,37 @@ generated_at: "2026-03-29T18:05:07.046Z"
   - **(2)** At least 90 days before taking any action to terminate under paragraph (1) all conservation reserve contracts entered into under this subpart, the Secretary shall provide to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate written notice of the action.
 - **(e)**
   - **(1)**
-    - **(A)** The Secretary shall allow a participant that entered into a contract under this subpart before January 1, 1995 , to terminate the contract at any time if the contract has been in effect for at least 5 years.
+    - **(A)** During fiscal year 2015, the Secretary shall allow a participant that entered into a contract under this subpart to terminate the contract at any time if the contract has been in effect for at least 5 years.
     - **(B)** The termination shall not relieve the participant of liability for a contract violation occurring before the date of the termination.
     - **(C)** The participant shall provide the Secretary with reasonable notice of the desire of the participant to terminate the contract.
   - **(2)** The following land shall not be subject to an early termination of contract under this subsection:
     - **(A)** Filterstrips, waterways, strips adjacent to riparian areas, windbreaks, and shelterbelts.
     - **(B)** Land with an erodibility index of more than 15.
-    - **(C)** Other land of high environmental value (including wetland), as determined by the Secretary.
-  - **(3)** The contract termination shall become effective 60 days after the date on which the owner or operator submits the notice required under paragraph (1)(C).
+    - **(C)** Land devoted to hardwood trees.
+    - **(D)** Wildlife habitat, duck nesting habitat, pollinator habitat, upland bird habitat buffer, wildlife food plots, State acres for wildlife enhancement, shallow water areas for wildlife, and rare and declining habitat.
+    - **(E)** Farmable wetland and restored wetland.
+    - **(F)** Land that contains diversions, erosion control structures, flood control structures, contour grass strips, living snow fences, salinity reducing vegetation, cross wind trap strips, and sediment retention structures.
+    - **(G)** Land located within a federally designated wellhead protection area.
+    - **(H)** Land that is covered by an easement under the conservation reserve program.
+    - **(I)** Land located within an average width, according to the applicable Natural Resources Conservation Service field office technical guide, of a perennial stream or permanent water body.
+    - **(J)** Land enrolled under the conservation reserve enhancement program.
+  - **(3)** The contract termination shall become effective upon approval by the Secretary.
   - **(4)** If a contract entered into under this subpart is terminated under this subsection before the end of the fiscal year for which a rental payment is due, the Secretary shall provide a prorated rental payment covering the portion of the fiscal year during which the contract was in effect.
   - **(5)** The termination of a contract entered into under this subpart shall not affect the ability of the owner or operator that requested the termination to submit a subsequent bid to enroll the land that was subject to the contract into the conservation reserve.
-  - **(6)** If land that was subject to a contract is returned to production of an agricultural commodity, the conservation requirements under subchapters II and III of this chapter shall apply to the use of the land to the extent that the requirements are similar to those requirements imposed on other similar land in the area, except that the requirements may not be more onerous than the requirements imposed on other land.
+  - **(6)** If land that was subject to a contract is returned to production of an agricultural commodity, the conservation requirements under subchapters II and III shall apply to the use of the land to the extent that the requirements are similar to those requirements imposed on other similar land in the area, except that the requirements may not be more onerous than the requirements imposed on other land.
 - **(f)**
-  - **(1)** In the case of a contract modification approved in order to facilitate the transfer, as described in subsection (c)(1)(B)(iii), of land to a beginning farmer or rancher or socially disadvantaged farmer or rancher (in this subsection referred to as a “covered farmer or rancher”), the Secretary shall—
+  - **(1)** In the case of a contract modification approved in order to facilitate the transfer of land subject to a contract from a retired farmer or rancher to a beginning farmer or rancher, a veteran farmer or rancher (as defined in section 2279(e) of title 7 ), or a socially disadvantaged farmer or rancher (in this subsection referred to as a “covered farmer or rancher”), the Secretary shall—
     - **(A)** beginning on the date that is 1 year before the date of termination of the contract—
-      - **(i)** allow the covered farmer or rancher, in conjunction with the retired or retiring owner or operator, to make conservation and land improvements; and
+      - **(i)** allow the covered farmer or rancher, in conjunction with the retired or retiring owner or operator, to make conservation and land improvements, including preparing to plant an agricultural crop; and
       - **(ii)** allow the covered farmer or rancher to begin the certification process under the Organic Foods Production Act of 1990 ( 7 U.S.C. 6501 et seq.);
     - **(B)** beginning on the date of termination of the contract, require the retired or retiring owner or operator to sell or lease (under a long-term lease or a lease with an option to purchase) to the covered farmer or rancher the land subject to the contract for production purposes;
     - **(C)** require the covered farmer or rancher to develop and implement a conservation plan;
-    - **(D)** provide to the covered farmer or rancher an opportunity to enroll in the conservation stewardship program or the environmental quality incentives program by not later than the date on which the farmer or rancher takes possession of the land through ownership or lease; and
-    - **(E)** continue to make annual payments to the retired or retiring owner or operator for not more than an additional 2 years after the date of termination of the contract, if the retired or retiring owner or operator is not a family member (as defined in section 1308–1(b)(3)(B) 1 1 See References in Text note below. of title 7) of the covered farmer or rancher.
+    - **(D)** provide to the covered farmer or rancher an opportunity to enroll in the conservation stewardship program or the environmental quality incentives program by not later than the date on which the covered farmer or rancher takes possession of the land through ownership or lease; and
+    - **(E)** continue to make annual payments to the retired or retiring owner or operator for not more than an additional 2 years after the date of termination of the contract, if the retired or retiring owner or operator is not a family member (as defined in section 1308 of title 7 ) of the covered farmer or rancher.
   - **(2)** The Secretary shall provide a covered farmer or rancher with the option to reenroll any applicable partial field conservation practice that—
-    - **(A)** is eligible for enrollment under the continuous signup requirement of section 3831(h)(4)(B) 1 of this title; and
+    - **(A)** is eligible for enrollment under the continuous signup option pursuant to section 3834(d)(2)(A)(ii) of this title ; and
     - **(B)** is part of an approved conservation plan.
+- **(g)** The Secretary shall not consider an owner or operator to be in violation of a term or condition of the conservation reserve contract if—
+  - **(1)** during the year prior to expiration of the contract, the land is enrolled in the conservation stewardship program; and
+  - **(2)** the activity required under the conservation stewardship program pursuant to such enrollment is consistent with this subpart.
+- **(h)** The Secretary may terminate or modify a contract entered into under this subpart if eligible land that is subject to such contract is transferred into the agricultural conservation easement program under subchapter VII.

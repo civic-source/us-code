@@ -3,14 +3,14 @@ title: "Section 5521 - National Science Foundation activities"
 usc_title: 15
 usc_section: "5521"
 chapter: 81
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 5521"
-generated_at: "2026-03-29T18:04:29.930Z"
+generated_at: "2026-03-29T18:24:08.618Z"
 ---
 
 # § 5521. National Science Foundation activities
 
-- **(a)** As part of the Program described in subchapter I of this chapter—
+- **(a)** As part of the Program described in subchapter I—
   - **(1)** the National Science Foundation shall provide computing and networking infrastructure support for all science and engineering disciplines, and support basic research and human resource development in all aspects of high-performance computing and advanced high-speed computer networking;
   - **(2)** to the extent that colleges, universities, and libraries cannot connect to the Network with the assistance of the private sector, the National Science Foundation shall have primary responsibility for assisting colleges, universities, and libraries to connect to the Network;
   - **(3)** the National Science Foundation shall serve as the primary source of information on access to and use of the Network; and

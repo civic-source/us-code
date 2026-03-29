@@ -3,9 +3,9 @@ title: "Section 950 - Conversion of ownership, control, and operation of telepho
 usc_title: 7
 usc_section: "950"
 chapter: 31
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 950"
-generated_at: "2026-03-29T18:04:04.806Z"
+generated_at: "2026-03-29T18:23:43.231Z"
 ---
 
 # § 950. Conversion of ownership, control, and operation of telephone bank

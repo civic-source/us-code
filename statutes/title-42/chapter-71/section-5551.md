@@ -3,9 +3,9 @@ title: "Section 5551 - Congressional declaration of findings and policy"
 usc_title: 42
 usc_section: "5551"
 chapter: 71
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 5551"
-generated_at: "2026-03-29T18:07:14.695Z"
+generated_at: "2026-03-29T18:27:03.647Z"
 ---
 
 # § 5551. Congressional declaration of findings and policy

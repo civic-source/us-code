@@ -3,9 +3,9 @@ title: "Section 5107 - Hazmat employee training requirements and grants"
 usc_title: 49
 usc_section: "5107"
 chapter: 51
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 5107"
-generated_at: "2026-03-29T18:07:51.337Z"
+generated_at: "2026-03-29T18:27:16.438Z"
 ---
 
 # § 5107. Hazmat employee training requirements and grants
@@ -41,3 +41,6 @@ generated_at: "2026-03-29T18:07:51.337Z"
   - **(1)** Chapter 35 of title 44 does not apply to an activity of the Secretary under subsections (a)–(d) of this section.
   - **(2)** An action of the Secretary under subsections (a)–(d) of this section and section 5106 is not an exercise, under section 4(b)(1) of the Occupational Safety and Health Act of 1970 ( 29 U.S.C. 653(b)(1) ), of statutory authority to prescribe or enforce standards or regulations affecting occupational safety or health.
 - **(h)** No grant under subsection (e) shall supplant or replace existing employer-provided hazardous materials training efforts or obligations.
+- **(i)** The Secretary shall establish a competitive program for making grants to nonprofit organizations for—
+  - **(1)** conducting national outreach and training programs to assist communities in preparing for and responding to accidents and incidents involving the transportation of hazardous materials, including Class 3 flammable liquids by rail; and
+  - **(2)** training State and local personnel responsible for enforcing the safe transportation of hazardous materials, including Class 3 flammable liquids.

@@ -3,13 +3,13 @@ title: "Section 4355 - Monitoring, evaluation, and reporting"
 usc_title: 20
 usc_section: "4355"
 chapter: 55
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 4355"
-generated_at: "2026-03-29T18:05:00.269Z"
+generated_at: "2026-03-29T18:24:41.092Z"
 ---
 
 # § 4355. Monitoring, evaluation, and reporting
 
 - **(a)** The Secretary shall conduct monitoring and evaluation activities of the education programs and activities and the administrative operations of the University (including the elementary, secondary, undergraduate, and graduate programs) and of NTID. The Secretary may also conduct studies related to the provision of preschool, elementary, secondary, and postsecondary education and other related services to individuals who are deaf or hard of hearing. In carrying out the responsibilities described in this section, the Secretary is authorized to employ such consultants as may be necessary pursuant to section 3109 of title 5 .
-- **(b)** The Secretary shall annually transmit information to Congress on the monitoring and evaluation activities pursuant to subsection (a) of this section, together with such recommendations, including recommendations for legislation, as the Secretary may consider necessary.
+- **(b)** The Secretary shall annually transmit information to Congress on the monitoring and evaluation activities pursuant to subsection (a), together with such recommendations, including recommendations for legislation, as the Secretary may consider necessary.
 - **(c)** There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2009 through 2014 to carry out the monitoring and evaluation activities authorized under this section.

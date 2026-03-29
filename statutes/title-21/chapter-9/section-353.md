@@ -3,9 +3,9 @@ title: "Section 353 - Exemptions and consideration for certain drugs, devices, a
 usc_title: 21
 usc_section: "353"
 chapter: 9
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 353"
-generated_at: "2026-03-29T18:05:14.762Z"
+generated_at: "2026-03-29T18:25:04.112Z"
 ---
 
 # § 353. Exemptions and consideration for certain drugs, devices, and biological products
@@ -22,11 +22,11 @@ generated_at: "2026-03-29T18:05:14.762Z"
     - **(B)** A drug to which paragraph (1) does not apply shall be deemed to be misbranded if at any time prior to dispensing the label of the drug bears the symbol described in subparagraph (A).
   - **(5)** Nothing in this subsection shall be construed to relieve any person from any requirement prescribed by or under authority of law with respect to drugs now included or which may hereafter be included within the classifications stated in sections 4721, 6001, and 6151 of title 26, or to marihuana as defined in section 4761 of title 26 .
 - **(c)**
-  - **(1)** No person may sell, purchase, or trade or offer to sell, purchase, or trade any drug sample. For purposes of this paragraph and subsection (d) of this section, the term “drug sample” means a unit of a drug, subject to subsection (b) of this section, which is not intended to be sold and is intended to promote the sale of the drug. Nothing in this paragraph shall subject an officer or executive of a drug manufacturer or distributor to criminal liability solely because of a sale, purchase, trade, or offer to sell, purchase, or trade in violation of this paragraph by other employees of the manufacturer or distributor.
-  - **(2)** No person may sell, purchase, or trade, offer to sell, purchase, or trade, or counterfeit any coupon. For purposes of this paragraph, the term “coupon” means a form which may be redeemed, at no cost or at a reduced cost, for a drug which is prescribed in accordance with subsection (b) of this section.
+  - **(1)** No person may sell, purchase, or trade or offer to sell, purchase, or trade any drug sample. For purposes of this paragraph and subsection (d), the term “drug sample” means a unit of a drug, subject to subsection (b), which is not intended to be sold and is intended to promote the sale of the drug. Nothing in this paragraph shall subject an officer or executive of a drug manufacturer or distributor to criminal liability solely because of a sale, purchase, trade, or offer to sell, purchase, or trade in violation of this paragraph by other employees of the manufacturer or distributor.
+  - **(2)** No person may sell, purchase, or trade, offer to sell, purchase, or trade, or counterfeit any coupon. For purposes of this paragraph, the term “coupon” means a form which may be redeemed, at no cost or at a reduced cost, for a drug which is prescribed in accordance with subsection (b).
   - **(3)**
     - **(A)** No person may sell, purchase, or trade, or offer to sell, purchase, or trade, any drug—
-      - **(i)** which is subject to subsection (b) of this section, and
+      - **(i)** which is subject to subsection (b), and
       - **(ii)**
         - **(I)** which was purchased by a public or private hospital or other health care entity, or
         - **(II)** which was donated or supplied at a reduced price to a charitable organization described in section 501(c)(3) of title 26 .
@@ -35,14 +35,14 @@ generated_at: "2026-03-29T18:05:14.762Z"
       - **(ii)** the sale, purchase, or trade of a drug or an offer to sell, purchase, or trade a drug by an organization described in subparagraph (A)(ii)(II) to a nonprofit affiliate of the organization to the extent otherwise permitted by law,
       - **(iii)** a sale, purchase, or trade of a drug or an offer to sell, purchase, or trade a drug among hospitals or other health care entities which are under common control,
       - **(iv)** a sale, purchase, or trade of a drug or an offer to sell, purchase, or trade a drug for emergency medical reasons, or
-      - **(v)** a sale, purchase, or trade of a drug, an offer to sell, purchase, or trade a drug, or the dispensing of a drug pursuant to a prescription executed in accordance with subsection (b) of this section.
+      - **(v)** a sale, purchase, or trade of a drug, an offer to sell, purchase, or trade a drug, or the dispensing of a drug pursuant to a prescription executed in accordance with subsection (b).
 - **(d)**
   - **(1)** Except as provided in paragraphs (2) and (3), no person may distribute any drug sample. For purposes of this subsection, the term “distribute” does not include the providing of a drug sample to a patient by a—
     - **(A)** practitioner licensed to prescribe such drug,
     - **(B)** health care professional acting at the direction and under the supervision of such a practitioner, or
     - **(C)** pharmacy of a hospital or of another health care entity that is acting at the direction of such a practitioner and that received such sample pursuant to paragraph (2) or (3).
   - **(2)**
-    - **(A)** The manufacturer or authorized distributor of record of a drug subject to subsection (b) of this section may, in accordance with this paragraph, distribute drug samples by mail or common carrier to practitioners licensed to prescribe such drugs or, at the request of a licensed practitioner, to pharmacies of hospitals or other health care entities. Such a distribution of drug samples may only be made—
+    - **(A)** The manufacturer or authorized distributor of record of a drug subject to subsection (b) may, in accordance with this paragraph, distribute drug samples by mail or common carrier to practitioners licensed to prescribe such drugs or, at the request of a licensed practitioner, to pharmacies of hospitals or other health care entities. Such a distribution of drug samples may only be made—
       - **(i)** in response to a written request for drug samples made on a form which meets the requirements of subparagraph (B), and
       - **(ii)** under a system which requires the recipient of the drug sample to execute a written receipt for the drug sample upon its delivery and the return of the receipt to the manufacturer or authorized distributor of record.
     - **(B)** A written request for a drug sample required by subparagraph (A)(i) shall contain—
@@ -51,25 +51,76 @@ generated_at: "2026-03-29T18:05:14.762Z"
       - **(iii)** the name of the manufacturer of the drug sample requested, and
       - **(iv)** the date of the request.
     - **(C)** Each drug manufacturer or authorized distributor of record which makes distributions by mail or common carrier under this paragraph shall maintain, for a period of 3 years, the request forms submitted for such distributions and the receipts submitted for such distributions and shall maintain a record of distributions of drug samples which identifies the drugs distributed and the recipients of the distributions. Forms, receipts, and records required to be maintained under this subparagraph shall be made available by the drug manufacturer or authorized distributor of record to Federal and State officials engaged in the regulation of drugs and in the enforcement of laws applicable to drugs.
-  - **(3)** The manufacturer or authorized distributor of record of a drug subject to subsection (b) of this section may, by means other than mail or common carrier, distribute drug samples only if the manufacturer or authorized distributor of record makes the distributions in accordance with subparagraph (A) and carries out the activities described in subparagraphs (B) through (F) as follows:
+  - **(3)** The manufacturer or authorized distributor of record of a drug subject to subsection (b) may, by means other than mail or common carrier, distribute drug samples only if the manufacturer or authorized distributor of record makes the distributions in accordance with subparagraph (A) and carries out the activities described in subparagraphs (B) through (F) as follows:
     - **(A)** Drug samples may only be distributed—
       - **(i)** to practitioners licensed to prescribe such drugs if they make a written request for the drug samples, or
       - **(ii)** at the written request of such a licensed practitioner, to pharmacies of hospitals or other health care entities.
     - **(B)** Drug manufacturers or authorized distributors of record shall store drug samples under conditions that will maintain their stability, integrity, and effectiveness and will assure that the drug samples will be free of contamination, deterioration, and adulteration.
     - **(C)** Drug manufacturers or authorized distributors of record shall conduct, at least annually, a complete and accurate inventory of all drug samples in the possession of representatives of the manufacturer or authorized distributor of record. Drug manufacturers or authorized distributors of record shall maintain lists of the names and address of each of their representatives who distribute drug samples and of the sites where drug samples are stored. Drug manufacturers or authorized distributors of record shall maintain records for at least 3 years of all drug samples distributed, destroyed, or returned to the manufacturer or authorized distributor of record, of all inventories maintained under this subparagraph, of all thefts or significant losses of drug samples, and of all requests made under subparagraph (A) for drug samples. Records and lists maintained under this subparagraph shall be made available by the drug manufacturer or authorized distributor of record to the Secretary upon request.
     - **(D)** Drug manufacturers or authorized distributors of record shall notify the Secretary of any significant loss of drug samples and any known theft of drug samples.
-    - **(E)** Drug manufacturers or authorized distributors of record shall report to the Secretary any conviction of their representatives for violations of subsection (c)(1) of this section or a State law because of the sale, purchase, or trade of a drug sample or the offer to sell, purchase, or trade a drug sample.
+    - **(E)** Drug manufacturers or authorized distributors of record shall report to the Secretary any conviction of their representatives for violations of subsection (c)(1) or a State law because of the sale, purchase, or trade of a drug sample or the offer to sell, purchase, or trade a drug sample.
     - **(F)** Drug manufacturers or authorized distributors of record shall provide to the Secretary the name and telephone number of the individual responsible for responding to a request for information respecting drug samples.
+  - **(4)** In this subsection, the term “authorized distributors of record” means those distributors with whom a manufacturer has established an ongoing relationship to distribute such manufacturer’s products.
 - **(e)**
-  - **(1)**
-    - **(A)** Each person who is engaged in the wholesale distribution of a drug subject to subsection (b) of this section and who is not the manufacturer or an authorized distributor of record of such drug shall, before each wholesale distribution of such drug (including each distribution to an authorized distributor of record or to a retail pharmacy), provide to the person who receives the drug a statement (in such form and containing such information as the Secretary may require) identifying each prior sale, purchase, or trade of such drug (including the date of the transaction and the names and addresses of all parties to the transaction).
-    - **(B)** Each manufacturer of a drug subject to subsection (b) of this section shall maintain at its corporate offices a current list of the authorized distributors of record of such drug.
+  - **(1)** Subject to section 360eee–2 of this title :
+    - **(A)** No person may engage in wholesale distribution of a drug subject to subsection (b)(1) in any State unless such person—
+      - **(i)**
+        - **(I)** is licensed by the State from which the drug is distributed; or
+        - **(II)** if the State from which the drug is distributed has not established a licensure requirement, is licensed by the Secretary; and
+      - **(ii)** if the drug is distributed interstate, is licensed by the State into which the drug is distributed if the State into which the drug is distributed requires the licensure of a person that distributes drugs into the State.
+    - **(B)** Each Federal and State license described in subparagraph (A) shall meet the standards, terms, and conditions established by the Secretary under section 360eee–2 of this title .
   - **(2)**
-    - **(A)** No person may engage in the wholesale distribution in interstate commerce of drugs subject to subsection (b) of this section in a State unless such person is licensed by the State in accordance with the guidelines issued under subparagraph (B).
-    - **(B)** The Secretary shall by regulation issue guidelines establishing minimum standards, terms, and conditions for the licensing of persons to make wholesale distributions in interstate commerce of drugs subject to subsection (b) of this section. Such guidelines shall prescribe requirements for the storage and handling of such drugs and for the establishment and maintenance of records of the distributions of such drugs.
-  - **(3)** For the purposes of this subsection and subsection (d) of this section—
-    - **(A)** the term “authorized distributors of record” means those distributors with whom a manufacturer has established an ongoing relationship to distribute such manufacturer’s products, and
-    - **(B)** the term “wholesale distribution” means distribution of drugs subject to subsection (b) of this section to other than the consumer or patient but does not include intracompany sales and does not include distributions of drugs described in subsection (c)(3)(B) of this section.
+    - **(A)** Beginning January 1, 2015 , any person who owns or operates an establishment that engages in wholesale distribution shall—
+      - **(i)** report to the Secretary, on an annual basis pursuant to a schedule determined by the Secretary—
+        - **(I)** each State by which the person is licensed and the appropriate identification number of each such license; and
+        - **(II)** the name, address, and contact information of each facility at which, and all trade names under which, the person conducts business; and
+      - **(ii)** report to the Secretary within a reasonable period of time and in a reasonable manner, as determined by the Secretary, any significant disciplinary actions, such as the revocation or suspension of a wholesale distributor license, taken by a State or the Federal Government during the reporting period against the wholesale distributor.
+    - **(B)** Not later than January 1, 2015 , the Secretary shall establish a database of authorized wholesale distributors. Such database shall—
+      - **(i)** identify each authorized wholesale distributor by name, contact information, and each State where such wholesale distributor is appropriately licensed to engage in wholesale distribution;
+      - **(ii)** be available to the public on the Internet Web site of the Food and Drug Administration; and
+      - **(iii)** be regularly updated on a schedule determined by the Secretary.
+    - **(C)** The Secretary shall establish a format and procedure for appropriate State officials to access the information provided pursuant to subparagraph (A) in a prompt and secure manner.
+    - **(D)** Nothing in this paragraph shall be construed as authorizing the Secretary to disclose any information that is a trade secret or confidential information subject to section 552(b)(4) of title 5 or section 1905 of title 18 .
+  - **(3)**
+    - **(A)** If a State does not establish a licensing program for persons engaged in the wholesale distribution of a drug subject to subsection (b), the Secretary shall license a person engaged in wholesale distribution located in such State and may collect a reasonable fee in such amount necessary to reimburse the Secretary for costs associated with establishing and administering the licensure program and conducting periodic inspections under this section. The Secretary shall adjust fee rates as needed on an annual basis to generate only the amount of revenue needed to perform this service. Fees authorized under this paragraph shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation.
+    - **(B)** Nothing in this chapter shall prohibit States from collecting fees from wholesale distributors in connection with State licensing of such distributors.
+  - **(4)** For the purposes of this subsection and subsection (d), the term “wholesale distribution” means the distribution of a drug subject to subsection (b) to a person other than a consumer or patient, or receipt of a drug subject to subsection (b) by a person other than the consumer or patient, but does not include—
+    - **(A)** intracompany distribution of any drug between members of an affiliate or within a manufacturer;
+    - **(B)** the distribution of a drug, or an offer to distribute a drug among hospitals or other health care entities which are under common control;
+    - **(C)** the distribution of a drug or an offer to distribute a drug for emergency medical reasons, including a public health emergency declaration pursuant to section 247d of title 42 , except that, for purposes of this paragraph, a drug shortage not caused by a public health emergency shall not constitute an emergency medical reason;
+    - **(D)** the dispensing of a drug pursuant to a prescription executed in accordance with subsection (b)(1);
+    - **(E)** the distribution of minimal quantities of drug by a licensed retail pharmacy to a licensed practitioner for office use;
+    - **(F)** the distribution of a drug or an offer to distribute a drug by a charitable organization to a nonprofit affiliate of the organization to the extent otherwise permitted by law;
+    - **(G)** the purchase or other acquisition by a dispenser, hospital, or other health care entity of a drug for use by such dispenser, hospital, or other health care entity;
+    - **(H)** the distribution of a drug by the manufacturer of such drug;
+    - **(I)** the receipt or transfer of a drug by an authorized third-party logistics provider provided that such third-party logistics provider does not take ownership of the drug;
+    - **(J)** a common carrier that transports a drug, provided that the common carrier does not take ownership of the drug;
+    - **(K)** the distribution of a drug, or an offer to distribute a drug by an authorized repackager that has taken ownership or possession of the drug and repacks it in accordance with section 360eee–1(e) of this title ;
+    - **(L)** salable drug returns when conducted by a dispenser;
+    - **(M)** the distribution of a collection of finished medical devices, which may include a product or biological product, assembled in kit form strictly for the convenience of the purchaser or user (referred to in this subparagraph as a “medical convenience kit”) if—
+      - **(i)** the medical convenience kit is assembled in an establishment that is registered with the Food and Drug Administration as a device manufacturer in accordance with section 360(b)(2) of this title ;
+      - **(ii)** the medical convenience kit does not contain a controlled substance that appears in a schedule contained in the Comprehensive Drug Abuse Prevention and Control Act of 1970 [ 21 U.S.C. 801 et seq.];
+      - **(iii)** in the case of a medical convenience kit that includes a product, the person that manufacturers the kit—
+        - **(I)** purchased such product directly from the pharmaceutical manufacturer or from a wholesale distributor that purchased the product directly from the pharmaceutical manufacturer; and
+        - **(II)** does not alter the primary container or label of the product as purchased from the manufacturer or wholesale distributor; and
+      - **(iv)** in the case of a medical convenience kit that includes a product, the product is—
+        - **(I)** an intravenous solution intended for the replenishment of fluids and electrolytes;
+        - **(II)** a product intended to maintain the equilibrium of water and minerals in the body;
+        - **(III)** a product intended for irrigation or reconstitution;
+        - **(IV)** an anesthetic;
+        - **(V)** an anticoagulant;
+        - **(VI)** a vasopressor; or
+        - **(VII)** a sympathomimetic;
+    - **(N)** the distribution of an intravenous drug that, by its formulation, is intended for the replenishment of fluids and electrolytes (such as sodium, chloride, and potassium) or calories (such as dextrose and amino acids);
+    - **(O)** the distribution of an intravenous drug used to maintain the equilibrium of water and minerals in the body, such as dialysis solutions;
+    - **(P)** the distribution of a drug that is intended for irrigation, or sterile water, whether intended for such purposes or for injection;
+    - **(Q)** the distribution of medical gas, as defined in section 360ddd of this title ;
+    - **(R)** facilitating the distribution of a product by providing solely administrative services, including processing of orders and payments; or
+    - **(S)** the transfer of a product by a hospital or other health care entity, or by a wholesale distributor or manufacturer operating at the direction of the hospital or other health care entity, to a repackager described in section 360eee(16)(B) of this title and registered under section 360 of this title for the purpose of repackaging the drug for use by that hospital, or other health care entity and other health care entities that are under common control, if ownership of the drug remains with the hospital or other health care entity at all times.
+  - **(5)** Notwithstanding paragraphs (1) through (4), each entity that meets the definition of a third-party logistics provider under section 360eee(22) of this title shall obtain a license as a third-party logistics provider as described in section 360eee–3(a) of this title and is not required to obtain a license as a wholesale distributor if the entity never assumes an ownership interest in the product it handles.
+  - **(6)** For purposes of this subsection, the term “affiliate” means a business entity that has a relationship with a second business entity if, directly or indirectly—
+    - **(A)** one business entity controls, or has the power to control, the other business entity; or
+    - **(B)** a third party controls, or has the power to control, both of the business entities.
 - **(f)**
   - **(1)**
     - **(A)** A drug intended for use by animals other than man, other than a veterinary feed directive drug intended for use in animal feed or an animal feed bearing or containing a veterinary feed directive drug, which—

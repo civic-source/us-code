@@ -3,9 +3,9 @@ title: "Section 1048 - Gratuity payment to persons discharged for fraudulent enl
 usc_title: 10
 usc_section: "1048"
 chapter: 53
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 1048"
-generated_at: "2026-03-29T18:04:13.038Z"
+generated_at: "2026-03-29T18:23:51.782Z"
 ---
 
 # § 1048. Gratuity payment to persons discharged for fraudulent enlistment

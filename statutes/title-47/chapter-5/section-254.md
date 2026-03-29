@@ -3,9 +3,9 @@ title: "Section 254 - Universal service"
 usc_title: 47
 usc_section: "254"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "47 U.S.C. § 254"
-generated_at: "2026-03-29T18:07:40.824Z"
+generated_at: "2026-03-29T18:27:09.542Z"
 ---
 
 # § 254. Universal service
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T18:07:40.824Z"
   - **(3)** Consumers in all regions of the Nation, including low-income consumers and those in rural, insular, and high cost areas, should have access to telecommunications and information services, including interexchange services and advanced telecommunications and information services, that are reasonably comparable to those services provided in urban areas and that are available at rates that are reasonably comparable to rates charged for similar services in urban areas.
   - **(4)** All providers of telecommunications services should make an equitable and nondiscriminatory contribution to the preservation and advancement of universal service.
   - **(5)** There should be specific, predictable and sufficient Federal and State mechanisms to preserve and advance universal service.
-  - **(6)** Elementary and secondary schools and classrooms, health care providers, and libraries should have access to advanced telecommunications services as described in subsection (h) of this section.
+  - **(6)** Elementary and secondary schools and classrooms, health care providers, and libraries should have access to advanced telecommunications services as described in subsection (h).
   - **(7)** Such other principles as the Joint Board and the Commission determine are necessary and appropriate for the protection of the public interest, convenience, and necessity and are consistent with this chapter.
 - **(c)**
   - **(1)** Universal service is an evolving level of telecommunications services that the Commission shall establish periodically under this section, taking into account advances in telecommunications and information technologies and services. The Joint Board in recommending, and the Commission in establishing, the definition of the services that are supported by Federal universal service support mechanisms shall consider the extent to which such telecommunications services—
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T18:07:40.824Z"
     - **(C)** are being deployed in public telecommunications networks by telecommunications carriers; and
     - **(D)** are consistent with the public interest, convenience, and necessity.
   - **(2)** The Joint Board may, from time to time, recommend to the Commission modifications in the definition of the services that are supported by Federal universal service support mechanisms.
-  - **(3)** In addition to the services included in the definition of universal service under paragraph (1), the Commission may designate additional services for such support mechanisms for schools, libraries, and health care providers for the purposes of subsection (h) of this section.
+  - **(3)** In addition to the services included in the definition of universal service under paragraph (1), the Commission may designate additional services for such support mechanisms for schools, libraries, and health care providers for the purposes of subsection (h).
 - **(d)** Every telecommunications carrier that provides interstate telecommunications services shall contribute, on an equitable and nondiscriminatory basis, to the specific, predictable, and sufficient mechanisms established by the Commission to preserve and advance universal service. The Commission may exempt a carrier or class of carriers from this requirement if the carrier’s telecommunications activities are limited to such an extent that the level of such carrier’s contribution to the preservation and advancement of universal service would be de minimis. Any other provider of interstate telecommunications may be required to contribute to the preservation and advancement of universal service if the public interest so requires.
 - **(e)** After the date on which Commission regulations implementing this section take effect, only an eligible telecommunications carrier designated under section 214(e) of this title shall be eligible to receive specific Federal universal service support. A carrier that receives such support shall use that support only for the provision, maintenance, and upgrading of facilities and services for which the support is intended. Any such support should be explicit and sufficient to achieve the purposes of this section.
 - **(f)** A State may adopt regulations not inconsistent with the Commission’s rules to preserve and advance universal service. Every telecommunications carrier that provides intrastate telecommunications services shall contribute, on an equitable and nondiscriminatory basis, in a manner determined by the State to the preservation and advancement of universal service in that State. A State may adopt regulations to provide for additional definitions and standards to preserve and advance universal service within that State only to the extent that such regulations adopt additional specific, predictable, and sufficient mechanisms to support such definitions or standards that do not rely on or burden Federal universal service support mechanisms.
@@ -36,7 +36,7 @@ generated_at: "2026-03-29T18:07:40.824Z"
 - **(h)**
   - **(1)**
     - **(A)** A telecommunications carrier shall, upon receiving a bona fide request, provide telecommunications services which are necessary for the provision of health care services in a State, including instruction relating to such services, to any public or nonprofit health care provider that serves persons who reside in rural areas in that State at rates that are reasonably comparable to rates charged for similar services in urban areas in that State. A telecommunications carrier providing service under this paragraph shall be entitled to have an amount equal to the difference, if any, between the rates for services provided to health care providers for rural areas in a State and the rates for similar services provided to other customers in comparable rural areas in that State treated as a service obligation as a part of its obligation to participate in the mechanisms to preserve and advance universal service.
-    - **(B)** All telecommunications carriers serving a geographic area shall, upon a bona fide request for any of its services that are within the definition of universal service under subsection (c)(3) of this section, provide such services to elementary schools, secondary schools, and libraries for educational purposes at rates less than the amounts charged for similar services to other parties. The discount shall be an amount that the Commission, with respect to interstate services, and the States, with respect to intrastate services, determine is appropriate and necessary to ensure affordable access to and use of such services by such entities. A telecommunications carrier providing service under this paragraph shall—
+    - **(B)** All telecommunications carriers serving a geographic area shall, upon a bona fide request for any of its services that are within the definition of universal service under subsection (c)(3), provide such services to elementary schools, secondary schools, and libraries for educational purposes at rates less than the amounts charged for similar services to other parties. The discount shall be an amount that the Commission, with respect to interstate services, and the States, with respect to intrastate services, determine is appropriate and necessary to ensure affordable access to and use of such services by such entities. A telecommunications carrier providing service under this paragraph shall—
       - **(i)** have an amount equal to the amount of the discount treated as an offset to its obligation to contribute to the mechanisms to preserve and advance universal service, or
       - **(ii)** notwithstanding the provisions of subsection (e) of this section, receive reimbursement utilizing the support mechanisms to preserve and advance universal service.
   - **(2)** The Commission shall establish competitively neutral rules—
@@ -48,10 +48,10 @@ generated_at: "2026-03-29T18:07:40.824Z"
     - **(A)**
       - **(i)** Except as provided in clause (ii), an elementary or secondary school having computers with Internet access may not receive services at discount rates under paragraph (1)(B) unless the school, school board, local educational agency, or other authority with responsibility for administration of the school—
         - **(I)** submits to the Commission the certifications described in subparagraphs (B) and (C);
-        - **(II)** submits to the Commission a certification that an Internet safety policy has been adopted and implemented for the school under subsection ( l ) of this section; and
+        - **(II)** submits to the Commission a certification that an Internet safety policy has been adopted and implemented for the school under subsection ( l ); and
         - **(III)** ensures the use of such computers in accordance with the certifications.
       - **(ii)** The prohibition in clause (i) shall not apply with respect to a school that receives services at discount rates under paragraph (1)(B) only for purposes other than the provision of Internet access, Internet service, or internal connections.
-      - **(iii)** An elementary or secondary school described in clause (i), or the school board, local educational agency, or other authority with responsibility for administration of the school, shall provide reasonable public notice and hold at least one public hearing or meeting to address the proposed Internet safety policy. In the case of an elementary or secondary school other than an elementary or secondary school as defined in section 8801 1 1 See References in Text note below. of title 20, the notice and hearing required by this clause may be limited to those members of the public with a relationship to the school.
+      - **(iii)** An elementary or secondary school described in clause (i), or the school board, local educational agency, or other authority with responsibility for administration of the school, shall provide reasonable public notice and hold at least one public hearing or meeting to address the proposed Internet safety policy. In the case of an elementary or secondary school other than an elementary school or a secondary school as defined in section 7801 of title 20 , the notice and hearing required by this clause may be limited to those members of the public with a relationship to the school.
     - **(B)** A certification under this subparagraph is a certification that the school, school board, local educational agency, or other authority with responsibility for administration of the school—
       - **(i)** is enforcing a policy of Internet safety for minors that includes monitoring the online activities of minors and the operation of a technology protection measure with respect to any of its computers with Internet access that protects against access through such computers to visual depictions that are—
         - **(I)** obscene;
@@ -83,7 +83,7 @@ generated_at: "2026-03-29T18:07:40.824Z"
     - **(A)**
       - **(i)** Except as provided in clause (ii), a library having one or more computers with Internet access may not receive services at discount rates under paragraph (1)(B) unless the library—
         - **(I)** submits to the Commission the certifications described in subparagraphs (B) and (C); and
-        - **(II)** submits to the Commission a certification that an Internet safety policy has been adopted and implemented for the library under subsection ( l ) of this section; and
+        - **(II)** submits to the Commission a certification that an Internet safety policy has been adopted and implemented for the library under subsection ( l ); and
         - **(III)** ensures the use of such computers in accordance with the certifications.
       - **(ii)** The prohibition in clause (i) shall not apply with respect to a library that receives services at discount rates under paragraph (1)(B) only for purposes other than the provision of Internet access, Internet service, or internal connections.
       - **(iii)** A library described in clause (i) shall provide reasonable public notice and hold at least one public hearing or meeting to address the proposed Internet safety policy.
@@ -121,8 +121,9 @@ generated_at: "2026-03-29T18:07:40.824Z"
       - **(iii)** local health departments or agencies;
       - **(iv)** community mental health centers;
       - **(v)** not-for-profit hospitals;
-      - **(vi)** rural health clinics; and
-      - **(vii)** consortia of health care providers consisting of one or more entities described in clauses (i) through (vi).
+      - **(vi)** rural health clinics;
+      - **(vii)** skilled nursing facilities (as defined in section 395i–3(a) of title 42 ); and
+      - **(viii)** consortia of health care providers consisting of one or more entities described in clauses (i) through (vii).
     - **(C)** The term “public institutional telecommunications user” means an elementary or secondary school, a library, or a health care provider as those terms are defined in this paragraph.
     - **(D)** The term “minor” means any individual who has not attained the age of 17 years.
     - **(E)** The term “obscene” has the meaning given such term in section 1460 of title 18 .
@@ -137,7 +138,7 @@ generated_at: "2026-03-29T18:07:40.824Z"
 - **(j)** Nothing in this section shall affect the collection, distribution, or administration of the Lifeline Assistance Program provided for by the Commission under regulations set forth in section 69.117 of title 47, Code of Federal Regulations, and other related sections of such title.
 - **(k)** A telecommunications carrier may not use services that are not competitive to subsidize services that are subject to competition. The Commission, with respect to interstate services, and the States, with respect to intrastate services, shall establish any necessary cost allocation rules, accounting safeguards, and guidelines to ensure that services included in the definition of universal service bear no more than a reasonable share of the joint and common costs of facilities used to provide those services.
 - **(l)**
-  - **(1)** In carrying out its responsibilities under subsection (h) of this section, each school or library to which subsection (h) of this section applies shall—
+  - **(1)** In carrying out its responsibilities under subsection (h), each school or library to which subsection (h) applies shall—
     - **(A)** adopt and implement an Internet safety policy that addresses—
       - **(i)** access by minors to inappropriate matter on the Internet and World Wide Web;
       - **(ii)** the safety and security of minors when using electronic mail, chat rooms, and other forms of direct electronic communications;
@@ -148,6 +149,6 @@ generated_at: "2026-03-29T18:07:40.824Z"
   - **(2)** A determination regarding what matter is inappropriate for minors shall be made by the school board, local educational agency, library, or other authority responsible for making the determination. No agency or instrumentality of the United States Government may—
     - **(A)** establish criteria for making such determination;
     - **(B)** review the determination made by the certifying school, school board, local educational agency, library, or other authority; or
-    - **(C)** consider the criteria employed by the certifying school, school board, local educational agency, library, or other authority in the administration of subsection (h)(1)(B) of this section.
+    - **(C)** consider the criteria employed by the certifying school, school board, local educational agency, library, or other authority in the administration of subsection (h)(1)(B).
   - **(3)** Each Internet safety policy adopted under this subsection shall be made available to the Commission, upon request of the Commission, by the school, school board, local educational agency, library, or other authority responsible for adopting such Internet safety policy for purposes of the review of such Internet safety policy by the Commission.
   - **(4)** This subsection shall apply with respect to schools and libraries on or after the date that is 120 days after December 21, 2000 .

@@ -3,9 +3,9 @@ title: "Section 5 - Bulletin as to labor conditions"
 usc_title: 29
 usc_section: "5"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 5"
-generated_at: "2026-03-29T18:05:31.655Z"
+generated_at: "2026-03-29T18:25:42.999Z"
 ---
 
 # § 5. Bulletin as to labor conditions

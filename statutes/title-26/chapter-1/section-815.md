@@ -3,9 +3,9 @@ title: "Section 815 - Distributions to shareholders from pre-1984 policyholders 
 usc_title: 26
 usc_section: "815"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 815"
-generated_at: "2026-03-29T18:05:44.700Z"
+generated_at: "2026-03-29T18:25:53.648Z"
 ---
 
 # § 815. Distributions to shareholders from pre-1984 policyholders surplus account
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T18:05:44.700Z"
     - **(A)** the sum of—
       - **(i)** the life insurance company’s taxable income (but not below zero),
       - **(ii)** the small life insurance company deduction provided by section 806, and
-      - **(iii)** the deductions for dividends received provided by sections 243, 244, and 245 (as modified by section 805(a)(4)) and the amount of interest excluded from gross income under section 103, over
+      - **(iii)** the deductions for dividends received provided by sections 243 and 245 (as modified by section 805(a)(4)) and the amount of interest excluded from gross income under section 103, over
     - **(B)** the taxes imposed for the taxable year by section 801 (determined without regard to this section).
   - **(3)** There shall be subtracted from the shareholders surplus account for any taxable year the amount which is treated under this section as distributed out of such account.
 - **(d)**

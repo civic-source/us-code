@@ -3,9 +3,9 @@ title: "Section 7543 - State standards"
 usc_title: 42
 usc_section: "7543"
 chapter: 85
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 7543"
-generated_at: "2026-03-29T18:07:14.916Z"
+generated_at: "2026-03-29T18:27:03.819Z"
 ---
 
 # § 7543. State standards
@@ -29,6 +29,6 @@ generated_at: "2026-03-29T18:07:14.916Z"
       - **(i)** the determination of California is arbitrary and capricious,
       - **(ii)** California does not need such California standards to meet compelling and extraordinary conditions, or
       - **(iii)** California standards and accompanying enforcement procedures are not consistent with this section.
-    - **(B)** Any State other than California which has plan provisions approved under part D of subchapter I of this chapter may adopt and enforce, after notice to the Administrator, for any period, standards relating to control of emissions from nonroad vehicles or engines (other than those referred to in subparagraph (A) or (B) of paragraph (1)) and take such other actions as are referred to in subparagraph (A) of this paragraph respecting such vehicles or engines if—
+    - **(B)** Any State other than California which has plan provisions approved under part D of subchapter I may adopt and enforce, after notice to the Administrator, for any period, standards relating to control of emissions from nonroad vehicles or engines (other than those referred to in subparagraph (A) or (B) of paragraph (1)) and take such other actions as are referred to in subparagraph (A) of this paragraph respecting such vehicles or engines if—
       - **(i)** such standards and implementation and enforcement are identical, for the period concerned, to the California standards authorized by the Administrator under subparagraph (A), and
       - **(ii)** California and such State adopt such standards at least 2 years before commencement of the period for which the standards take effect.

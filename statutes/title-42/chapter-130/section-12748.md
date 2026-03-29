@@ -3,9 +3,9 @@ title: "Section 12748 - HOME Investment Trust Funds"
 usc_title: 42
 usc_section: "12748"
 chapter: 130
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 12748"
-generated_at: "2026-03-29T18:07:15.279Z"
+generated_at: "2026-03-29T18:27:04.090Z"
 ---
 
 # § 12748. HOME Investment Trust Funds
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T18:07:15.279Z"
   - **(2)** any payment or repayment made pursuant to section 12749 of this title .
 - **(c)** A participating jurisdiction’s line of credit shall be reduced by—
   - **(1)** funds drawn from the HOME Investment Trust Fund by the participating jurisdiction,
-  - **(2)** funds expiring under subsection (g) of this section, and
+  - **(2)** funds expiring under subsection (g), and
   - **(3)** any penalties assessed by the Secretary under section 12754 1 1 So in original. Probably should be section “12753”. of this title.
 - **(d)** A participating jurisdiction may draw funds from its HOME Investment Trust Fund, but not to exceed the remaining line of credit, only after providing certification that the funds shall be used pursuant to the participating jurisdiction’s approved housing strategy and in compliance with all requirements of this subchapter. When such certification is received, the Secretary shall immediately disburse such funds in accordance with the form of the assistance determined by the participating jurisdiction.
 - **(e)** The participating jurisdiction shall, not later than 15 days after funds are drawn from the jurisdiction’s HOME Investment Trust Fund, invest such funds, together with any interest earned thereon, in the affordable housing for which the funds were withdrawn.

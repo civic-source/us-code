@@ -1,14 +1,12 @@
 ---
-title: "Section 1777b - Ratification of Settlement Agreement"
+title: "Section 1777b - Omitted"
 usc_title: 25
 usc_section: "1777b"
 chapter: 19
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1777b"
-generated_at: "2026-03-29T18:05:17.185Z"
+generated_at: "2026-03-29T18:25:23.752Z"
 ---
 
-# § 1777b. Ratification of Settlement Agreement
-
-The Settlement Agreement is hereby approved and ratified.
+# § 1777b. Omitted
 

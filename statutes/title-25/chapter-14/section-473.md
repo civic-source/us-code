@@ -1,14 +1,12 @@
 ---
-title: "Section 473 - Application generally"
+title: "Section 473 - Transferred"
 usc_title: 25
 usc_section: "473"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 473"
-generated_at: "2026-03-29T18:05:17.065Z"
+generated_at: "2026-03-29T18:25:23.695Z"
 ---
 
-# § 473. Application generally
-
-The provisions of this Act shall not apply to any of the Territories, colonies, or insular possessions of the United States, except that sections 9, 10, 11, 12, and 16 [ 25 U.S.C. 469 , 470, 471, 472, 476] shall apply to the Territory of Alaska: Provided , That sections 4, 7, 16, 17, and 18 of this Act [ 25 U.S.C. 464 , 467, 476, 477, 478] shall not apply to the following-named Indian tribes, the members of such Indian tribes, together with members of other tribes affiliated with such named tribes located in the State of Oklahoma, as follows: Cheyenne, Arapaho, Apache, Comanche, Kiowa, Caddo, Delaware, Wichita, Osage, Kaw, Otoe, Tonkawa, Pawnee, Ponca, Shawnee, Ottawa, Quapaw, Seneca, Wyandotte, Iowa, Sac and Fox, Kickapoo, Pottawatomi, Cherokee, Chickasaw, Choctaw, Creek, and Seminole. Section 4 of this Act [ 25 U.S.C. 464 ] shall not apply to the Indians of the Klamath Reservation in Oregon.
+# § 473. Transferred
 

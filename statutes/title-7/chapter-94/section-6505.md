@@ -3,9 +3,9 @@ title: "Section 6505 - Compliance requirements"
 usc_title: 7
 usc_section: "6505"
 chapter: 94
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 6505"
-generated_at: "2026-03-29T18:04:05.080Z"
+generated_at: "2026-03-29T18:23:43.478Z"
 ---
 
 # § 6505. Compliance requirements
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T18:04:05.080Z"
     - **(B)** no person may affix a label to, or provide other market information concerning, an agricultural product if such label or information implies, directly or indirectly, that such product is produced and handled using organic methods, except in accordance with this chapter.
   - **(2)** A label affixed, or other market information provided, in accordance with paragraph (1) may indicate that the agricultural product meets Department of Agriculture standards for organic production and may incorporate the Department of Agriculture seal.
 - **(b)** Imported agricultural products may be sold or labeled as organically produced if the Secretary determines that such products have been produced and handled under an organic certification program that provides safeguards and guidelines governing the production and handling of such products that are at least equivalent to the requirements of this chapter.
-- **(c)** Subsection (a) of this section shall not apply to agricultural products that—
+- **(c)** Subsection (a) shall not apply to agricultural products that—
   - **(1)** contain at least 50 percent organically produced ingredients by weight, excluding water and salt, to the extent that the Secretary, in consultation with the National Organic Standards Board and the Secretary of Health and Human Services, has determined to permit the word “organic” to be used on the principal display panel of such products only for the purpose of describing the organically produced ingredients; or
   - **(2)** contain less than 50 percent organically produced ingredients by weight, excluding water and salt, to the extent that the Secretary, in consultation with the National Organic Standards Board and the Secretary of Health and Human Services, has determined to permit the word “organic” to appear on the ingredient listing panel to describe those ingredients that are organically produced in accordance with this chapter.
-- **(d)** Subsection (a)(1) of this section shall not apply to persons who sell no more than $5,000 annually in value of agricultural products.
+- **(d)** Subsection (a)(1) shall not apply to persons who sell no more than $5,000 annually in value of agricultural products.

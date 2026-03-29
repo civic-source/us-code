@@ -3,9 +3,9 @@ title: "Section 1638f - Indian country modular component facilities demonstratio
 usc_title: 25
 usc_section: "1638f"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1638f"
-generated_at: "2026-03-29T18:05:17.157Z"
+generated_at: "2026-03-29T18:25:23.735Z"
 ---
 
 # § 1638f. Indian country modular component facilities demonstration program
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T18:05:17.157Z"
     - **(C)** can adequately house the health care services needed by the Indian population to be served.
   - **(3)** A modular component health care facility project selected for participation in the demonstration program shall not be eligible for entry on the facilities construction priorities list entitled “IHS Health Care Facilities FY 2011 Planned Construction Budget” and dated May 7, 2009 (or any successor list).
 - **(d)**
-  - **(1)** An Indian tribe may submit a petition under subsection (c)(1)(B) regardless of whether the Indian tribe is a party to any contract or compact under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.).
+  - **(1)** An Indian tribe may submit a petition under subsection (c)(1)(B) regardless of whether the Indian tribe is a party to any contract or compact under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.). 3 3 See References in Text note below.
   - **(2)** At the election of an Indian tribe or tribal organization selected for participation in the demonstration program, the funds provided for the project shall be subject to the provisions of the Indian Self-Determination and Education Assistance Act.
 - **(e)** Not later than 1 year after the date on which funds are made available for the demonstration program and annually thereafter, the Secretary shall submit to Congress a report describing—
   - **(1)** each activity carried out under the demonstration program, including an evaluation of the success of the activity; and

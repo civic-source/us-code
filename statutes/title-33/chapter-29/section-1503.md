@@ -3,9 +3,9 @@ title: "Section 1503 - License for ownership, construction, and operation of dee
 usc_title: 33
 usc_section: "1503"
 chapter: 29
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 1503"
-generated_at: "2026-03-29T18:06:10.576Z"
+generated_at: "2026-03-29T18:26:01.271Z"
 ---
 
 # § 1503. License for ownership, construction, and operation of deepwater port
@@ -35,4 +35,4 @@ generated_at: "2026-03-29T18:06:10.576Z"
 - **(f)** The Secretary may amend, transfer, or reinstate a license issued under this chapter 2 if the Secretary finds that the amendment, transfer, or reinstatement is consistent with the requirements of this chapter.
 - **(g)** Any citizen of the United States who otherwise qualifies under the terms of this chapter shall be eligible to be issued a license for the ownership, construction, and operation of a deepwater port.
 - **(h)** A license issued under this chapter remains in effect unless suspended or revoked by the Secretary or until surrendered by the licensee.
-- **(i)** To promote the security of the United States, the Secretary shall give top priority to the processing of a license under this chapter for liquefied natural gas facilities that will be supplied with liquefied natural gas by United States flag vessels.
+- **(i)** To promote the security of the United States, the Secretary shall give top priority to the processing of a license under this chapter for liquefied natural gas facilities that will be supplied with or that will supply liquefied natural gas by United States flag vessels.

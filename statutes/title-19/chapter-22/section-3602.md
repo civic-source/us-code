@@ -3,9 +3,9 @@ title: "Section 3602 - Special agricultural safeguard authority"
 usc_title: 19
 usc_section: "3602"
 chapter: 22
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 3602"
-generated_at: "2026-03-29T18:04:55.150Z"
+generated_at: "2026-03-29T18:24:16.216Z"
 ---
 
 # § 3602. Special agricultural safeguard authority
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T18:04:55.150Z"
 - **(b)** If the President determines with respect to a special safeguard agricultural good that it is appropriate to impose—
   - **(1)** the price-based safeguard in accordance with subparagraph 1(b) of Article 5; or
   - **(2)** the volume-based safeguard in accordance with subparagraph 1(a) of Article 5,
-- **(c)** The President shall direct the Secretary of the Treasury to impose a duty on a special safeguard agricultural good entered, or withdrawn from warehouse, for consumption in the United States in accordance with a determination made under subsection (b) of this section.
+- **(c)** The President shall direct the Secretary of the Treasury to impose a duty on a special safeguard agricultural good entered, or withdrawn from warehouse, for consumption in the United States in accordance with a determination made under subsection (b).
 - **(d)** A duty may not be in effect for a special safeguard agricultural good pursuant to this section during any period in which such good is the subject of any action proclaimed pursuant to section 2252 or 2253 of this title.
 - **(e)** The President may exempt from any duty imposed under this section any good originating in a NAFTA country (as determined in accordance with section 3332 of this title ).
 - **(f)** The Secretary of Agriculture shall advise the President on the implementation of this section.

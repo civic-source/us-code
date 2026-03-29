@@ -3,9 +3,9 @@ title: "Section 117 - Qualified scholarships"
 usc_title: 26
 usc_section: "117"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 117"
-generated_at: "2026-03-29T18:05:44.475Z"
+generated_at: "2026-03-29T18:25:53.426Z"
 ---
 
 # § 117. Qualified scholarships
@@ -19,8 +19,9 @@ generated_at: "2026-03-29T18:05:44.475Z"
 - **(c)**
   - **(1)** Except as provided in paragraph (2), subsections (a) and (d) shall not apply to that portion of any amount received which represents payment for teaching, research, or other services by the student required as a condition for receiving the qualified scholarship or qualified tuition reduction.
   - **(2)** Paragraph (1) shall not apply to any amount received by an individual under—
-    - **(A)** the National Health Service Corps Scholarship Program under section 338A(g)(1)(A) of the Public Health Service Act, or
-    - **(B)** the Armed Forces Health Professions Scholarship and Financial Assistance program under subchapter I of chapter 105 of title 10, United States Code.
+    - **(A)** the National Health Service Corps Scholarship Program under section 338A(g)(1)(A) of the Public Health Service Act,
+    - **(B)** the Armed Forces Health Professions Scholarship and Financial Assistance program under subchapter I of chapter 105 of title 10, United States Code, or
+    - **(C)** a comprehensive student work-learning-service program (as defined in section 448(e) of the Higher Education Act of 1965) operated by a work college (as defined in such section).
 - **(d)**
   - **(1)** Gross income shall not include any qualified tuition reduction.
   - **(2)** For purposes of this subsection, the term “qualified tuition reduction” means the amount of any reduction in tuition provided to an employee of an organization described in section 170(b)(1)(A)(ii) for the education (below the graduate level) at such organization (or another organization described in section 170(b)(1)(A)(ii)) of—

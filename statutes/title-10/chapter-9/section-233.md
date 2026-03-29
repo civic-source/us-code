@@ -3,9 +3,9 @@ title: "Section 233 - Operation and maintenance budget presentation"
 usc_title: 10
 usc_section: "233"
 chapter: 9
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 233"
-generated_at: "2026-03-29T18:04:12.978Z"
+generated_at: "2026-03-29T18:23:51.733Z"
 ---
 
 # § 233. Operation and maintenance budget presentation

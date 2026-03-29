@@ -3,9 +3,9 @@ title: "Section 13526 - Uncosted obligations"
 usc_title: 42
 usc_section: "13526"
 chapter: 134
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 13526"
-generated_at: "2026-03-29T18:07:15.329Z"
+generated_at: "2026-03-29T18:27:04.125Z"
 ---
 
 # § 13526. Uncosted obligations
@@ -16,4 +16,4 @@ generated_at: "2026-03-29T18:07:15.329Z"
     - **(B)** uncommitted uncosted obligations;
   - **(2)** specifically describes the purposes for which all such funds are intended; and
   - **(3)** explains the effect that information contained in the report has had on the annual budget request for the Department of Energy being simultaneously submitted.
-- **(b)** Within 90 days after October 24, 1992 , the Secretary shall submit a report to the Congress containing definitions of the terms “uncosted obligation”, “committed uncosted obligation”, and “uncommitted uncosted obligation” for purposes of reports to be submitted under subsection (a) of this section.
+- **(b)** Within 90 days after October 24, 1992 , the Secretary shall submit a report to the Congress containing definitions of the terms “uncosted obligation”, “committed uncosted obligation”, and “uncommitted uncosted obligation” for purposes of reports to be submitted under subsection (a).

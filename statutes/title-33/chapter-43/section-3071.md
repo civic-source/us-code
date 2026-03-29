@@ -3,9 +3,9 @@ title: "Section 3071 - Applicability of certain provisions of title 10"
 usc_title: 33
 usc_section: "3071"
 chapter: 43
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 3071"
-generated_at: "2026-03-29T18:06:10.620Z"
+generated_at: "2026-03-29T18:26:01.323Z"
 ---
 
 # § 3071. Applicability of certain provisions of title 10
@@ -27,4 +27,4 @@ generated_at: "2026-03-29T18:06:10.620Z"
   - **(14)** Sections 2731 and 2735, relating to property loss incident to service.
   - **(15)** Section 2771, relating to final settlement of accounts of deceased members.
   - **(16)** Such other provisions of subtitle A of that title as may be adopted for applicability to the commissioned officer corps of the National Oceanic and Atmospheric Administration by any other provision of law.
-- **(b)** The authority vested by title 10 in the “military departments”, “the Secretary concerned”, or “the Secretary of Defense” with respect to the provisions of law referred to in subsection (a) of this section shall be exercised, with respect to the commissioned officer corps of the Administration, by the Secretary of Commerce or the Secretary’s designee.
+- **(b)** The authority vested by title 10 in the “military departments”, “the Secretary concerned”, or “the Secretary of Defense” with respect to the provisions of law referred to in subsection (a) shall be exercised, with respect to the commissioned officer corps of the Administration, by the Secretary of Commerce or the Secretary’s designee.

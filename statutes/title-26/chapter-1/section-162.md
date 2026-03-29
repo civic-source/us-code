@@ -3,9 +3,9 @@ title: "Section 162 - Trade or business expenses"
 usc_title: 26
 usc_section: "162"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 162"
-generated_at: "2026-03-29T18:05:44.504Z"
+generated_at: "2026-03-29T18:25:53.452Z"
 ---
 
 # § 162. Trade or business expenses
@@ -66,7 +66,7 @@ generated_at: "2026-03-29T18:05:44.504Z"
     - **(A)** the legislature was in session (including any day in which the legislature was not in session for a period of 4 consecutive days or less), or
     - **(B)** the legislature was not in session but the physical presence of the individual was formally recorded at a meeting of a committee of such legislature.
   - **(3)** An election under this subsection for any taxable year shall be made at such time and in such manner as the Secretary shall by regulations prescribe.
-  - **(4)** For taxable years beginning after December 31, 1980 , this subsection shall not apply to any legislator whose place of residence within the legislative district which he represents is 50 or fewer miles from the capitol building of the State.
+  - **(4)** This subsection shall not apply to any legislator whose place of residence within the legislative district which he represents is 50 or fewer miles from the capitol building of the State.
 - **[(i)**
 - **(j)**
   - **(1)** No deduction shall be allowed under subsection (a) for any expenses of an advertisement carried by a foreign broadcast undertaking and directed primarily to a market in the United States. This paragraph shall apply only to foreign broadcast undertakings located in a country which denies a similar deduction for the cost of advertising directed primarily to a market in the foreign country when placed with a United States broadcast undertaking.

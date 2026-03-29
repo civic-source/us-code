@@ -3,9 +3,9 @@ title: "Section 1413 - Local educational agency eligibility"
 usc_title: 20
 usc_section: "1413"
 chapter: 33
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1413"
-generated_at: "2026-03-29T18:05:00.213Z"
+generated_at: "2026-03-29T18:24:41.047Z"
 ---
 
 # § 1413. Local educational agency eligibility
@@ -35,7 +35,7 @@ generated_at: "2026-03-29T18:05:00.213Z"
       - **(ii)**
         - **(I)** the amount received by the local educational agency under this subchapter for that fiscal year; divided by
         - **(II)** the number of children with disabilities in the jurisdiction of that agency.
-  - **(3)** The local educational agency shall ensure that all personnel necessary to carry out this subchapter are appropriately and adequately prepared, subject to the requirements of section 1412(a)(14) of this title and section 2122 of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6622 ].
+  - **(3)** The local educational agency shall ensure that all personnel necessary to carry out this subchapter are appropriately and adequately prepared, subject to the requirements of section 1412(a)(14) of this title and section 2102(b) of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6612(b) ].
   - **(4)**
     - **(A)** Notwithstanding paragraph (2)(A) or section 1412(a)(17)(B) of this title (relating to commingled funds), funds provided to the local educational agency under this subchapter may be used for the following activities:
       - **(i)** For the costs of special education and related services, and supplementary aids and services, provided in a regular class or other education-related setting to a child with a disability in accordance with the individualized education program of the child, even if 1 or more nondisabled children benefit from such services.

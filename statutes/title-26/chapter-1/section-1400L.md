@@ -3,9 +3,9 @@ title: "Section 1400L - Tax benefits for New York Liberty Zone"
 usc_title: 26
 usc_section: "1400L"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 1400L"
-generated_at: "2026-03-29T18:05:44.817Z"
+generated_at: "2026-03-29T18:25:53.753Z"
 ---
 
 # § 1400L. Tax benefits for New York Liberty Zone
@@ -47,20 +47,20 @@ generated_at: "2026-03-29T18:05:44.817Z"
     - **(B)** Nonresidential real property or residential rental property is described in this subparagraph only to the extent it rehabilitates real property damaged, or replaces real property destroyed or condemned, as a result of the September 11, 2001 , terrorist attack. For purposes of the preceding sentence, property shall be treated as replacing real property destroyed or condemned if, as part of an integrated plan, such property replaces real property which is included in a continuous area which includes real property destroyed or condemned.
     - **(C)**
       - **(i)** Such term shall not include property to which section 168(k) applies.
-      - **(ii)** The term “qualified New York Liberty Zone property” shall not include any property described in section 168(k)(2)(D)(i).
+      - **(ii)** The term “qualified New York Liberty Zone property” shall not include any property described in section 168(k)(2)(D)(i). 1 1 See References in Text note below.
       - **(iii)** Such term shall not include any qualified New York Liberty Zone leasehold improvement property.
-      - **(iv)** For purposes of this subsection, rules similar to the rules of section 168(k)(2)(D)(iii) shall apply.
-    - **(D)** For purposes of this subsection, rules similar to the rules of section 168(k)(2)(E) shall apply, except that clause (i) thereof shall be applied without regard to “and before January 1, 2014 ”, and clause (iv) thereof shall be applied by substituting “qualified New York Liberty Zone property” for “qualified property”.
+      - **(iv)** For purposes of this subsection, rules similar to the rules of section 168(k)(2)(D)(iii) 1 shall apply.
+    - **(D)** For purposes of this subsection, rules similar to the rules of section 168(k)(2)(E) shall apply, except that clause (i) thereof shall be applied without regard to “and before January 1, 2015 ”, and clause (iv) thereof shall be applied by substituting “qualified New York Liberty Zone property” for “qualified property”.
     - **(E)** For purposes of this subsection, rules similar to the rules of section 168(k)(2)(G) shall apply.
 - **(c)**
   - **(1)** For purposes of section 168, the term “5-year property” includes any qualified New York Liberty Zone leasehold improvement property.
-  - **(2)** For purposes of this section, the term “qualified New York Liberty Zone leasehold improvement property” means qualified leasehold improvement property (as defined in section 168(k)(3)) if—
+  - **(2)** For purposes of this section, the term “qualified New York Liberty Zone leasehold improvement property” means qualified leasehold improvement property (as defined in section 168(k)(3) 1 ) if—
     - **(A)** such building is located in the New York Liberty Zone,
     - **(B)** such improvement is placed in service after September 10, 2001 , and before January 1, 2007 , and
     - **(C)** no written binding contract for such improvement was in effect before September 11, 2001 .
   - **(3)** The applicable depreciation method under section 168 shall be the straight line method in the case of qualified New York Liberty Zone leasehold improvement property.
   - **(4)** For purposes of section 168(g), the class life of qualified New York Liberty Zone leasehold improvement property shall be 9 years.
-  - **(5)** For purposes of this subsection, rules similar to the rules of section 168(k)(2)(D)(iii) shall apply.
+  - **(5)** For purposes of this subsection, rules similar to the rules of section 168(k)(2)(D)(iii) 1 shall apply.
 - **(d)**
   - **(1)** For purposes of this title, any qualified New York Liberty Bond shall be treated as an exempt facility bond.
   - **(2)** For purposes of this subsection, the term “qualified New York Liberty Bond” means any bond issued as part of an issue if—

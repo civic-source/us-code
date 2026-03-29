@@ -3,9 +3,9 @@ title: "Section 1783 - Coordination with foreign policy"
 usc_title: 22
 usc_section: "1783"
 chapter: 24
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 1783"
-generated_at: "2026-03-29T18:05:21.788Z"
+generated_at: "2026-03-29T18:24:54.164Z"
 ---
 
 # § 1783. Coordination with foreign policy

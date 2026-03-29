@@ -1,14 +1,12 @@
 ---
-title: "Section 788b - Distribution of funds; tax exemption; equal shares"
+title: "Section 788b - Omitted"
 usc_title: 25
 usc_section: "788b"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 788b"
-generated_at: "2026-03-29T18:05:17.105Z"
+generated_at: "2026-03-29T18:25:23.701Z"
 ---
 
-# § 788b. Distribution of funds; tax exemption; equal shares
-
-After the deduction of attorney fees, litigation expenses, the costs of distribution, and the cost of preparing the roll pursuant to section 788a of this title , the funds, including interest, remaining to the credit of the Creek Nation as constituted August 9, 1814 , which were appropriated by the Act of April 30, 1965 , to pay a judgment obtained in Indian Claims Commission docket numbered 21, shall be distributed on a per capita basis to all persons whose names appear on the roll. The funds so distributed shall not be subject to Federal or State income taxes.
+# § 788b. Omitted
 

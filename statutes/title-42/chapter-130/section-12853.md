@@ -3,9 +3,9 @@ title: "Section 12853 - National Homeownership Trust Fund"
 usc_title: 42
 usc_section: "12853"
 chapter: 130
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 12853"
-generated_at: "2026-03-29T18:07:15.285Z"
+generated_at: "2026-03-29T18:27:04.094Z"
 ---
 
 # § 12853. National Homeownership Trust Fund
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T18:07:15.285Z"
 - **(b)** The Fund shall consist of—
   - **(1)** any amount approved in appropriation Acts under section 12857 of this title for purposes of carrying out this subchapter;
   - **(2)** any amount received by the Trust as repayment for payments made under this subchapter; and
-  - **(3)** any amount received by the Trust under subsection (d) of this section.
+  - **(3)** any amount received by the Trust under subsection (d).
 - **(c)** The Fund shall, to the extent approved in appropriations Acts, be available to the Trust for purposes of carrying out this subchapter.
 - **(d)** Any amounts in the Fund determined by the Trust to be in excess of the amounts currently required to carry out the provisions of this subchapter shall be invested by the Trust in obligations of, or obligations guaranteed as to both principal and interest by, the United States or any agency of the United States.
 - **(e)** Using not more than $20,000,000 of any amounts appropriated for the Fund under section 12857 of this title in fiscal year 1991, the Secretary shall carry out demonstration programs for combining housing activities and economic development activities, as follows:

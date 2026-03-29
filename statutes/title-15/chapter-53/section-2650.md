@@ -3,9 +3,9 @@ title: "Section 2650 - Asbestos contractors and local educational agencies"
 usc_title: 15
 usc_section: "2650"
 chapter: 53
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 2650"
-generated_at: "2026-03-29T18:04:29.869Z"
+generated_at: "2026-03-29T18:24:08.559Z"
 ---
 
 # § 2650. Asbestos contractors and local educational agencies
@@ -20,4 +20,4 @@ generated_at: "2026-03-29T18:04:29.869Z"
     - **(F)** Identification of any other impediments to the timely completion of inspections or the development and implementation of management plans under this subchapter.
   - **(2)** Not later than April 1, 1988 , the Administrator shall submit to the Congress an interim report on the progress of the study required by this subsection, along with preliminary findings based on information collected to that date.
   - **(3)** Not later than October 1, 1990 , the Administrator shall submit to the Congress a final report on the study required by this subsection, including final findings based on the information collected.
-- **(b)** On the basis of the interim report or the final report of the study required by subsection (a) of this section, a State may enact or amend State law to establish or modify a standard of liability for local educational agencies or asbestos contractors with respect to actions required under this subchapter.
+- **(b)** On the basis of the interim report or the final report of the study required by subsection (a), a State may enact or amend State law to establish or modify a standard of liability for local educational agencies or asbestos contractors with respect to actions required under this subchapter.

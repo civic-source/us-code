@@ -1,16 +1,12 @@
 ---
-title: "Section 1041f - Jurisdiction"
+title: "Section 1041f - Omitted"
 usc_title: 25
 usc_section: "1041f"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1041f"
-generated_at: "2026-03-29T18:05:17.118Z"
+generated_at: "2026-03-29T18:25:23.705Z"
 ---
 
-# § 1041f. Jurisdiction
+# § 1041f. Omitted
 
-- **(a)** The Tribe shall have jurisdiction over trust land and restricted land of the Tribe and its members to the same extent that the Cherokee Nation has jurisdiction over land recognized by the Secretary to be within the Cherokee Nation and its members, but only if such land—
-  - **(1)** is not recognized by the Secretary to be within the jurisdiction of another federally recognized tribe; or
-  - **(2)** has been placed in trust or restricted status with the consent of the federally recognized tribe within whose jurisdiction the Secretary recognizes the land to be, and only to the extent that the Tribe’s jurisdiction has been agreed to by that host tribe.
-- **(b)** Nothing in this subchapter shall be construed to diminish or otherwise limit the jurisdiction of any Indian tribe that is federally recognized on the day before December 27, 2000 , over trust land, restricted land, or other forms of Indian country of that Indian tribe on such date.

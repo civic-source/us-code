@@ -3,9 +3,9 @@ title: "Section 679a - Safe Meat and Poultry Inspection Panel"
 usc_title: 21
 usc_section: "679a"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 679a"
-generated_at: "2026-03-29T18:05:14.878Z"
+generated_at: "2026-03-29T18:25:04.208Z"
 ---
 
 # § 679a. Safe Meat and Poultry Inspection Panel
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T18:05:14.878Z"
     - **(A)** The panel shall submit to the Secretary a report on the results of each review and evaluation carried out under paragraph (1), including such recommendations as the panel considers appropriate.
     - **(B)** In the case of a report concerning a formal change in meat inspection regulations, the report shall be made within the time limits prescribed for formal comments on such changes.
     - **(C)** Each report of the panel to the Secretary shall be published in the Federal Register.
-- **(c)** Not later than 90 days after the publication of a panel report under subsection (b)(2)(C) of this section, the Secretary shall publish in the Federal Register any response required of the Secretary to the report.
+- **(c)** Not later than 90 days after the publication of a panel report under subsection (b)(2)(C), the Secretary shall publish in the Federal Register any response required of the Secretary to the report.
 - **(d)** The panel shall be composed of 7 members, not fewer than 5 of whom shall be from the food science, meat science, or poultry science profession, appointed to staggered terms not to exceed 3 years by the Secretary from nominations received from the National Institutes of Health and the Federation of American Societies of Food Animal Science and based on the professional qualifications of the nominees.
 - **(e)**
   - **(1)** In constituting the initial panel, the Secretary shall solicit 6 nominees from the National Institutes of Health and 6 nominees from the Federation of American Societies of Food Animal Science for membership on the panel.

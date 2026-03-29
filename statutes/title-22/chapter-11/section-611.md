@@ -3,9 +3,9 @@ title: "Section 611 - Definitions"
 usc_title: 22
 usc_section: "611"
 chapter: 11
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 611"
-generated_at: "2026-03-29T18:05:21.760Z"
+generated_at: "2026-03-29T18:24:54.141Z"
 ---
 
 # § 611. Definitions
@@ -30,7 +30,7 @@ As used in and for the purposes of this subchapter—
 - **(g)** The term “public-relations counsel” includes any person who engages directly or indirectly in informing, advising, or in any way representing a principal in any public relations matter pertaining to political or public interests, policies, or relations of such principal;
 - **(h)** The term “publicity agent” includes any person who engages directly or indirectly in the publication or dissemination of oral, visual, graphic, written, or pictorial information or matter of any kind, including publication by means of advertising, books, periodicals, newspapers, lectures, broadcasts, motion pictures, or otherwise;
 - **(i)** The term “information-service employee” includes any person who is engaged in furnishing, disseminating, or publishing accounts, descriptions, information, or data with respect to the political, industrial, employment, economic, social, cultural, or other benefits, advantages, facts, or conditions of any country other than the United States or of any government of a foreign country or of a foreign political party or of a partnership, association, corporation, organization, or other combination of individuals organized under the laws of, or having its principal place of business in, a foreign country;
-- **(j)** Repealed. Pub. L. 104–65, § 9(1)(A) , Dec. 19, 1995 , 109 Stat. 699 .
+- **(j)** Repealed. Pub. L. 104–65 , § 9(1)(A), Dec. 19, 1995 , 109 Stat. 699 .
 - **(k)** The term “registration statement” means the registration statement required to be filed with the Attorney General under section 612(a) of this title , and any supplements thereto required to be filed under section 612(b) of this title , and includes all documents and papers required to be filed therewith or amendatory thereof or supplemental thereto, whether attached thereto or incorporated therein by reference;
 - **(l)** The term “American republic” includes any of the states which were signatory to the Final Act of the Second Meeting of the Ministers of Foreign Affairs of the American Republics at Habana, Cuba, July 30, 1940 ;
 - **(m)** The term “United States”, when used in a geographical sense, includes the several States, the District of Columbia, the Territories, the Canal Zone, the insular possessions, and all other places now or hereafter subject to the civil or military jurisdiction of the United States;

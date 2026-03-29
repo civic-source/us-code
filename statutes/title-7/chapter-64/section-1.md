@@ -3,9 +3,9 @@ title: "Section 1 - Grants to upgrade agriculture and food sciences facilities a
 usc_title: 7
 usc_section: "1"
 chapter: 64
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-29T18:04:05.015Z"
+generated_at: "2026-03-29T18:23:43.419Z"
 ---
 
 # § 3222b–1. Grants to upgrade agriculture and food sciences facilities at the District of Columbia land-grant university

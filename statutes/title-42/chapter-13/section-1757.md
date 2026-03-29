@@ -3,15 +3,15 @@ title: "Section 1757 - State disbursement to schools"
 usc_title: 42
 usc_section: "1757"
 chapter: 13
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1757"
-generated_at: "2026-03-29T18:07:14.286Z"
+generated_at: "2026-03-29T18:27:03.346Z"
 ---
 
 # § 1757. State disbursement to schools
 
 - **(a)** Funds paid to any State during any fiscal year pursuant to section 1753 of this title shall be disbursed by the State educational agency, in accordance with such agreements approved by the Secretary, as may be entered into by such State agency and the schools in the State, to those schools in the State which the State educational agency, taking into account need and attendance, determines are eligible to participate in the school lunch program.
-- **(b)** The agreements described in subsection (a) of this section shall be permanent agreements that may be amended as necessary.
+- **(b)** The agreements described in subsection (a) shall be permanent agreements that may be amended as necessary.
 - **(c)** The State educational agency may suspend or terminate any such agreement in accordance with regulations prescribed by the Secretary.
 - **(d)** Use of funds paid to States may include, in addition to the purchase price of agricultural commodities and other foods, the cost of processing, distributing, transporting, storing or handling thereof.
 - **(e)** In no event shall such disbursement for food to any school for any fiscal year exceed an amount determined by multiplying the number of lunches served in the school in the school lunch program under this chapter during such year by the maximum per meal reimbursement rate for the State, for the type of lunch served, as prescribed by the Secretary.

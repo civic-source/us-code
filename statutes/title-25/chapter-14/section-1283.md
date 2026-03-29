@@ -1,14 +1,12 @@
 ---
-title: "Section 1283 - Payments to adults; trusts for minors and persons under legal disability"
+title: "Section 1283 - Omitted"
 usc_title: 25
 usc_section: "1283"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1283"
-generated_at: "2026-03-29T18:05:17.125Z"
+generated_at: "2026-03-29T18:25:23.710Z"
 ---
 
-# § 1283. Payments to adults; trusts for minors and persons under legal disability
-
-Sums payable to adult living enrollees or to adult heirs or legatees of deceased enrollees shall be paid directly to such persons. Sums payable to enrollees or their heirs or legatees who are less than eighteen years of age or who are under legal disability shall be paid in accordance with such procedures, including the establishment of trusts, as the Secretary determines appropriate to protect the best interests of such persons.
+# § 1283. Omitted
 

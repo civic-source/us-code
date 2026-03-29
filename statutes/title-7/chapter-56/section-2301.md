@@ -3,9 +3,9 @@ title: "Section 2301 - Congressional findings and declaration of policy"
 usc_title: 7
 usc_section: "2301"
 chapter: 56
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 2301"
-generated_at: "2026-03-29T18:04:04.988Z"
+generated_at: "2026-03-29T18:23:43.393Z"
 ---
 
 # § 2301. Congressional findings and declaration of policy

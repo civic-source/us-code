@@ -3,9 +3,9 @@ title: "Section 10702 - Establishment of Institute; duties"
 usc_title: 42
 usc_section: "10702"
 chapter: 113
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 10702"
-generated_at: "2026-03-29T18:07:15.158Z"
+generated_at: "2026-03-29T18:27:03.998Z"
 ---
 
 # § 10702. Establishment of Institute; duties

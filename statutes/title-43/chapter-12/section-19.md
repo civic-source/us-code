@@ -3,13 +3,13 @@ title: "Section 19 - Williamson County, Texas, water recycling and reuse project
 usc_title: 43
 usc_section: "19"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 19"
-generated_at: "2026-03-29T18:06:28.268Z"
+generated_at: "2026-03-29T18:26:14.794Z"
 ---
 
 # § 390h–19. Williamson County, Texas, water recycling and reuse project
 
 - **(a)** The Secretary, in cooperation with the Lower Colorado River Authority, Texas, is authorized to participate in the design, planning, and construction of permanent facilities to reclaim and reuse water in Williamson County, Texas.
-- **(b)** The Federal share of the costs of the project described in subsection (a) of this section shall not exceed 25 percent of the total cost.
-- **(c)** The Secretary shall not provide funds for the operation and maintenance of the project described in subsection (a) of this section.
+- **(b)** The Federal share of the costs of the project described in subsection (a) shall not exceed 25 percent of the total cost.
+- **(c)** The Secretary shall not provide funds for the operation and maintenance of the project described in subsection (a).

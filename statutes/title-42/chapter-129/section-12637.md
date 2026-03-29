@@ -3,16 +3,16 @@ title: "Section 12637 - Nonduplication and nondisplacement"
 usc_title: 42
 usc_section: "12637"
 chapter: 129
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 12637"
-generated_at: "2026-03-29T18:07:15.253Z"
+generated_at: "2026-03-29T18:27:04.069Z"
 ---
 
 # § 12637. Nonduplication and nondisplacement
 
 - **(a)**
   - **(1)** Assistance provided under the national service laws shall be used only for a program that does not duplicate, and is in addition to, an activity otherwise available in the locality of such program.
-  - **(2)** Assistance made available under the national service laws shall not be provided to a private nonprofit entity to conduct activities that are the same or substantially equivalent to activities provided by a State or local government agency that such entity resides in, unless the requirements of subsection (b) of this section are met.
+  - **(2)** Assistance made available under the national service laws shall not be provided to a private nonprofit entity to conduct activities that are the same or substantially equivalent to activities provided by a State or local government agency that such entity resides in, unless the requirements of subsection (b) are met.
 - **(b)**
   - **(1)** An employer shall not displace an employee, position, or volunteer (other than a participant under the national service laws), including partial displacement such as reduction in hours, wages, or employment benefits, as a result of the use by such employer of a participant in a program receiving assistance under the national service laws.
   - **(2)** A service opportunity shall not be created under the national service laws that will infringe in any manner on the promotional opportunity of an employed individual.

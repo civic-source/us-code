@@ -3,9 +3,9 @@ title: "Section 7854 - Availability of material for Naval Militia"
 usc_title: 10
 usc_section: "7854"
 chapter: 659
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 7854"
-generated_at: "2026-03-29T18:04:13.284Z"
+generated_at: "2026-03-29T18:23:52.079Z"
 ---
 
 # § 7854. Availability of material for Naval Militia

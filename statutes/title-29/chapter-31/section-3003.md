@@ -3,9 +3,9 @@ title: "Section 3003 - State grants for assistive technology"
 usc_title: 29
 usc_section: "3003"
 chapter: 31
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 3003"
-generated_at: "2026-03-29T18:05:31.843Z"
+generated_at: "2026-03-29T18:25:43.134Z"
 ---
 
 # § 3003. State grants for assistive technology
@@ -49,7 +49,7 @@ generated_at: "2026-03-29T18:05:31.843Z"
         - **(I)** individuals with disabilities that use assistive technology or the family members or guardians of the individuals;
         - **(II)** a representative of the designated State agency, as defined in section 7 of the Rehabilitation Act of 1973 ( 29 U.S.C. 705 ) and the State agency for individuals who are blind (within the meaning of section 101 of that Act ( 29 U.S.C. 721 )), if such agency is separate;
         - **(III)** a representative of a State center for independent living described in part C of title VII of the Rehabilitation Act of 1973 ( 29 U.S.C. 796f et seq.);
-        - **(IV)** a representative of the State workforce investment board established under section 111 of the Workforce Investment Act of 1998 ( 29 U.S.C. 2821 );
+        - **(IV)** a representative of the State workforce development board established under section 101 of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 ];
         - **(V)** a representative of the State educational agency, as defined in section 7801 of title 20 ; and
         - **(VI)** representatives of other State agencies, public agencies, or private organizations, as determined by the State.
       - **(ii)**
@@ -108,7 +108,7 @@ generated_at: "2026-03-29T18:05:31.843Z"
     - **(B)** The State shall directly, or in collaboration with public or private entities, carry out assistive technology device reutilization programs that provide for the exchange, repair, recycling, or other reutilization of assistive technology devices, which may include redistribution through device sales, loans, rentals, or donations.
     - **(C)** The State shall directly, or in collaboration with public or private entities, carry out device loan programs that provide short-term loans of assistive technology devices to individuals, employers, public agencies, or others seeking to meet the needs of targeted individuals and entities, including others seeking to comply with the Individuals with Disabilities Education Act ( 20 U.S.C. 1400 et seq.), the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12101 et seq.), and section 504 of the Rehabilitation Act of 1973 ( 29 U.S.C. 794 ).
     - **(D)**
-      - **(i)** The State shall directly, or in collaboration with public and private entities, such as one-stop partners, as defined in section 101 of the Workforce Investment Act of 1998 ( 29 U.S.C. 2801 ), demonstrate a variety of assistive technology devices and assistive technology services (including assisting individuals in making informed choices regarding, and providing experiences with, the devices and services), using personnel who are familiar with such devices and services and their applications.
+      - **(i)** The State shall directly, or in collaboration with public and private entities, such as one-stop partners, as defined in section 3 of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3102 ], demonstrate a variety of assistive technology devices and assistive technology services (including assisting individuals in making informed choices regarding, and providing experiences with, the devices and services), using personnel who are familiar with such devices and services and their applications.
       - **(ii)** The State shall directly, or through referrals, provide to individuals, to the extent practicable, comprehensive information about State and local assistive technology venders, providers, and repair services.
   - **(3)**
     - **(A)** A State that receives a grant under this section shall use a portion of not more than 40 percent of the funds made available through the grant to carry out the activities described in subparagraph (B). From that portion, the State shall use at least 5 percent of the portion for activities described in subparagraph (B)(i)(III).

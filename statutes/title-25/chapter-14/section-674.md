@@ -1,14 +1,12 @@
 ---
-title: "Section 674 - Use of funds of the Ute Mountain Tribe of the Ute Mountain Reservation for expenditure and per capita payments; taxation of lands and funds; regulations applicable to loans"
+title: "Section 674 - Omitted"
 usc_title: 25
 usc_section: "674"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 674"
-generated_at: "2026-03-29T18:05:17.085Z"
+generated_at: "2026-03-29T18:25:23.699Z"
 ---
 
-# § 674. Use of funds of the Ute Mountain Tribe of the Ute Mountain Reservation for expenditure and per capita payments; taxation of lands and funds; regulations applicable to loans
-
-Notwithstanding any other provisions of existing laws, the tribal funds now on deposit or hereafter deposited in the United States Treasury to the credit of the Ute Mountain Tribe of the Ute Mountain Reservation, may be expended or advanced for such purposes and in a manner, including per capita payments, the purchase of land or any interests therein or improvements thereon and water rights, as may be designated by the Ute Mountain Tribal Council and approved by the Secretary of the Interior: Provided , That the purchase of taxable lands under this authority shall not operate to remove such lands from the tax rolls: Provided further , That neither the transfer to the tribe of tribal funds, nor the distribution thereof to individual members of the tribe, as provided herein, from those funds consisting of compensation for lands acquired by the United States Government, shall be subject to Federal tax: And provided further , That any funds advanced for loans by the tribe to individual Indians or associations of Indians shall be subject to regulations established for the making of loans from the revolving loan fund authorized by section 470 of this title .
+# § 674. Omitted
 

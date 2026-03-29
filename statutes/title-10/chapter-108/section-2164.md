@@ -3,9 +3,9 @@ title: "Section 2164 - Department of Defense domestic dependent elementary and s
 usc_title: 10
 usc_section: "2164"
 chapter: 108
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2164"
-generated_at: "2026-03-29T18:04:13.121Z"
+generated_at: "2026-03-29T18:23:51.878Z"
 ---
 
 # § 2164. Department of Defense domestic dependent elementary and secondary schools
@@ -108,3 +108,4 @@ generated_at: "2026-03-29T18:04:13.121Z"
     - **(A)** is enrolled in an elementary or secondary school operated by a local educational agency or another accredited educational program in the United States (other than a school operated by the Department of Defense education program); and
     - **(B)** immediately before such enrollment, was enrolled in the defense dependents’ education system established under section 1402 of the Defense Dependents’ Education Act of 1978 ( 20 U.S.C. 921 ).
   - **(2)** Enrollment of a dependent described in paragraph (1) pursuant to such paragraph shall be on a tuition basis.
+  - **(3)** Any payments received by the Secretary of Defense under this subsection shall be credited to the account designated by the Secretary for the operation of the virtual educational program under this subsection. Payments so credited shall be merged with other funds in the account and shall be available, to the extent provided in advance in appropriation Acts, for the same purposes and the same period as other funds in the account.

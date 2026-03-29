@@ -3,15 +3,15 @@ title: "Section 4022 - Foreign language requirements"
 usc_title: 22
 usc_section: "4022"
 chapter: 52
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 4022"
-generated_at: "2026-03-29T18:05:21.933Z"
+generated_at: "2026-03-29T18:24:54.299Z"
 ---
 
 # § 4022. Foreign language requirements
 
 - **(a)** The Secretary shall establish foreign language proficiency requirements for members of the Service who are to be assigned abroad in order that Foreign Service posts abroad will be staffed by individuals having a useful knowledge of the language or dialect common to the country in which the post is located.
-- **(b)** The Secretary of State shall arrange for appropriate language training of members of the Service by the institution or otherwise in order to assist in meeting the requirements established under subsection (a) of this section.
+- **(b)** The Secretary of State shall arrange for appropriate language training of members of the Service by the institution or otherwise in order to assist in meeting the requirements established under subsection (a).
 - **(c)** Not later than January 31 of each year, the Director General of the Foreign Service shall submit a report to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives summarizing the number of positions in each overseas mission requiring foreign language competence that—
   - **(1)** became vacant during the previous fiscal year; and
   - **(2)** were filled by individuals having the required foreign language competence.

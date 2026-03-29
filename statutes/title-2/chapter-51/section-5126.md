@@ -3,9 +3,9 @@ title: "Section 5126 - Allowance available to former Speaker for payment of offi
 usc_title: 2
 usc_section: "5126"
 chapter: 51
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "2 U.S.C. § 5126"
-generated_at: "2026-03-29T18:03:21.845Z"
+generated_at: "2026-03-29T18:23:14.158Z"
 ---
 
 # § 5126. Allowance available to former Speaker for payment of office and other expenses for administration, etc., of matters pertaining to incumbency in office as Representative and Speaker

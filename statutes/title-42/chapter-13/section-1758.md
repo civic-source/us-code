@@ -3,9 +3,9 @@ title: "Section 1758 - Program requirements"
 usc_title: 42
 usc_section: "1758"
 chapter: 13
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1758"
-generated_at: "2026-03-29T18:07:14.287Z"
+generated_at: "2026-03-29T18:27:03.348Z"
 ---
 
 # § 1758. Program requirements
@@ -201,7 +201,7 @@ generated_at: "2026-03-29T18:07:14.287Z"
     - **(A)** After the initial submission, a local educational agency shall not be required to submit a free and reduced price policy statement to a State educational agency under this chapter unless there is a substantive change in the free and reduced price policy of the local educational agency.
     - **(B)** A routine change in the policy of a local educational agency (such as an annual adjustment of the income eligibility guidelines for free and reduced price meals) shall not be sufficient cause for requiring the local educational agency to submit a policy statement.
   - **(8)**
-    - **(A)** Any communication with a household under this subsection or subsection (d) of this section shall be in an understandable and uniform format and, to the maximum extent practicable, in a language that parents and legal guardians can understand.
+    - **(A)** Any communication with a household under this subsection or subsection (d) shall be in an understandable and uniform format and, to the maximum extent practicable, in a language that parents and legal guardians can understand.
     - **(B)** In addition to the distribution of applications and descriptive material in paper form as provided for in this paragraph, the applications and material may be made available electronically via the Internet.
   - **(9)**
     - **(A)** Any child who is a member of a household whose income, at the time the application is submitted, is at an annual rate which does not exceed the applicable family size income level of the income eligibility guidelines for free lunches, as determined under paragraph (1), shall be served a free lunch.
@@ -280,7 +280,7 @@ generated_at: "2026-03-29T18:07:14.287Z"
     - **(A)** appropriate documentation relating to the income of such household (as prescribed by the Secretary) has been provided to the appropriate local educational agency so that the local educational agency may calculate the total income of such household;
     - **(B)** documentation showing that the household is participating in the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 [ 7 U.S.C. 2011 et seq.] has been provided to the appropriate local educational agency;
     - **(C)** documentation has been provided to the appropriate local educational agency showing that the family is receiving assistance under the State program funded under part A of title IV of the Social Security Act [ 42 U.S.C. 601 et seq.] that the Secretary determines complies with standards established by the Secretary that ensure that the standards under the State program are comparable to or more restrictive than those in effect on June 1, 1995 ;
-    - **(D)** documentation has been provided to the appropriate local educational agency showing that the child meets the criteria specified in clauses (iv) or (v) of subsection (b)(12)(A) of this section;
+    - **(D)** documentation has been provided to the appropriate local educational agency showing that the child meets the criteria specified in clauses (iv) or (v) of subsection (b)(12)(A);
     - **(E)** documentation has been provided to the appropriate local educational agency showing the status of the child as a migratory child (as defined in section 6399 of title 20 );
     - **(F)**
       - **(i)** documentation has been provided to the appropriate local educational agency showing the status of the child as a foster child whose care and placement is the responsibility of an agency that administers a State plan under part B or E of title IV of the Social Security Act [ 42 U.S.C. 620 et seq., 670 et seq.]; or

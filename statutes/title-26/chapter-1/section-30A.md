@@ -3,9 +3,9 @@ title: "Section 30A - Puerto Rico economic activity credit"
 usc_title: 26
 usc_section: "30A"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 30A"
-generated_at: "2026-03-29T18:05:44.410Z"
+generated_at: "2026-03-29T18:25:53.362Z"
 ---
 
 # § 30A. Puerto Rico economic activity credit
@@ -24,10 +24,9 @@ generated_at: "2026-03-29T18:05:44.410Z"
   - **(1)** If 80 percent or more of the gross income of the qualified domestic corporation for the 3-year period immediately preceding the close of the taxable year (or for such part of such period immediately preceding the close of such taxable year as may be applicable) was derived from sources within a possession (determined without regard to section 904(f)).
   - **(2)** If 75 percent or more of the gross income of the qualified domestic corporation for such period or such part thereof was derived from the active conduct of a trade or business within a possession.
 - **(c)** The credit provided by subsection (a) shall not be allowed against the tax imposed by—
-  - **(1)** section 59A (relating to environmental tax),
-  - **(2)** section 531 (relating to the tax on accumulated earnings),
-  - **(3)** section 541 (relating to personal holding company tax), or
-  - **(4)** section 1351 (relating to recoveries of foreign expropriation losses).
+  - **(1)** section 531 (relating to the tax on accumulated earnings),
+  - **(2)** section 541 (relating to personal holding company tax), or
+  - **(3)** section 1351 (relating to recoveries of foreign expropriation losses).
 - **(d)** The amount of the credit determined under subsection (a) for any taxable year shall not exceed the sum of the following amounts:
   - **(1)** 60 percent of the sum of—
     - **(A)** the aggregate amount of the qualified domestic corporation’s qualified possession wages for such taxable year, plus

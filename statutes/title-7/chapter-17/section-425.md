@@ -3,9 +3,9 @@ title: "Section 425 - Authorization of appropriations for cotton ginning studies
 usc_title: 7
 usc_section: "425"
 chapter: 17
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 425"
-generated_at: "2026-03-29T18:04:04.768Z"
+generated_at: "2026-03-29T18:23:43.197Z"
 ---
 
 # § 425. Authorization of appropriations for cotton ginning studies

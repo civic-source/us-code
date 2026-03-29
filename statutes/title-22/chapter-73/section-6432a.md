@@ -3,9 +3,9 @@ title: "Section 6432a - Powers of the Commission"
 usc_title: 22
 usc_section: "6432a"
 chapter: 73
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 6432a"
-generated_at: "2026-03-29T18:05:22.002Z"
+generated_at: "2026-03-29T18:24:54.353Z"
 ---
 
 # § 6432a. Powers of the Commission

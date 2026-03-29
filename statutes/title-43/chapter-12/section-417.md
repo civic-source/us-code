@@ -3,9 +3,9 @@ title: "Section 417 - Reservation of easements in public lands for reclamation p
 usc_title: 43
 usc_section: "417"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 417"
-generated_at: "2026-03-29T18:06:28.274Z"
+generated_at: "2026-03-29T18:26:14.800Z"
 ---
 
 # § 417. Reservation of easements in public lands for reclamation projects

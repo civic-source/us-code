@@ -3,9 +3,9 @@ title: "Section 4601 - Review of underwriting guidelines"
 usc_title: 12
 usc_section: "4601"
 chapter: 46
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 4601"
-generated_at: "2026-03-29T18:04:43.721Z"
+generated_at: "2026-03-29T18:24:03.038Z"
 ---
 
 # § 4601. Review of underwriting guidelines
@@ -17,4 +17,4 @@ generated_at: "2026-03-29T18:04:43.721Z"
     - **(A)** establish a downpayment requirement for mortgagors of 5 percent or less;
     - **(B)** allow the use of cash on hand as a source for downpayments; and
     - **(C)** approve borrowers who have a credit history of delinquencies if the borrower can demonstrate a satisfactory credit history for at least the 12-month period ending on the date of the application for the mortgage.
-- **(b)** Not later than the expiration of the 1-year period beginning on October 28, 1992 , each enterprise shall submit to the Secretary, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate a report regarding the study conducted by the enterprise under subsection (a) of this section. Each report shall include any recommendations of the enterprise for better meeting the housing needs of low- and moderate-income families.
+- **(b)** Not later than the expiration of the 1-year period beginning on October 28, 1992 , each enterprise shall submit to the Secretary, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate a report regarding the study conducted by the enterprise under subsection (a). Each report shall include any recommendations of the enterprise for better meeting the housing needs of low- and moderate-income families.

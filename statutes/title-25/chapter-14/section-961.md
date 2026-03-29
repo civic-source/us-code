@@ -1,14 +1,12 @@
 ---
-title: "Section 961 - Membership roll; preparation; eligibility for enrollment; applications for enrollment; protests; finality of determination"
+title: "Section 961 - Omitted"
 usc_title: 25
 usc_section: "961"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 961"
-generated_at: "2026-03-29T18:05:17.115Z"
+generated_at: "2026-03-29T18:25:23.704Z"
 ---
 
-# § 961. Membership roll; preparation; eligibility for enrollment; applications for enrollment; protests; finality of determination
-
-The Secretary of the Interior is authorized and directed, pursuant to such regulations as may be issued by him, to prepare a roll of Omaha Indians whose names appear on the Omaha allotment rolls finally approved pursuant to the Acts of Congress of August 7, 1882 , ( 22 Stat. 341 ) and March 3, 1893 ( 27 Stat. 612 ), and who are living on September 14, 1961 , and the descendants of such allottees who are born and living on September 14, 1961 and who possess Omaha blood of the degree of one-fourth or more regardless of whether such allottees are living or deceased: Provided , That no person who is enrolled with any other tribe of Indians or who has received an allotment of land on any other reservation shall be enrolled under the provisions of this subchapter unless the application for enrollment by such person is approved by a two-thirds vote of the governing body of the Omaha Tribe of Nebraska. Applications for enrollment must be filed with the area director of the Bureau of Indian Affairs, Aberdeen, South Dakota, within four months after September 14, 1961 . For a period of three months thereafter, the Secretary shall permit the examination of the applications by the governing body of the Omaha Tribe of Nebraska for the purpose of lodging protests against any application. The determination of the Secretary regarding the eligibility of an applicant shall be final.
+# § 961. Omitted
 

@@ -3,9 +3,9 @@ title: "Section 1 - Transparency and accountability for socially disadvantaged f
 usc_title: 7
 usc_section: "1"
 chapter: 55
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-29T18:04:04.985Z"
+generated_at: "2026-03-29T18:23:43.391Z"
 ---
 
 # § 2279–1. Transparency and accountability for socially disadvantaged farmers and ranchers

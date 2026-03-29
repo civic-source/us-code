@@ -3,9 +3,9 @@ title: "Section 2453 - Future-years nuclear security program"
 usc_title: 50
 usc_section: "2453"
 chapter: 41
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 2453"
-generated_at: "2026-03-29T18:07:43.074Z"
+generated_at: "2026-03-29T18:27:35.643Z"
 ---
 
 # § 2453. Future-years nuclear security program
@@ -33,6 +33,6 @@ generated_at: "2026-03-29T18:07:43.074Z"
 - **(c)**
   - **(1)** The Administrator shall ensure that amounts described in subparagraph (A) of paragraph (2) for any fiscal year are consistent with amounts described in subparagraph (B) of paragraph (2) for that fiscal year.
   - **(2)** Amounts referred to in paragraph (1) are the following:
-    - **(A)** The amounts specified in program and budget information submitted to Congress by the Administrator in support of expenditure estimates and proposed appropriations in the budget submitted to Congress by the President under section 1105(a) of title 31 for any fiscal year, as shown in the future-years nuclear security program submitted pursuant to subsection (a) of this section.
+    - **(A)** The amounts specified in program and budget information submitted to Congress by the Administrator in support of expenditure estimates and proposed appropriations in the budget submitted to Congress by the President under section 1105(a) of title 31 for any fiscal year, as shown in the future-years nuclear security program submitted pursuant to subsection (a).
     - **(B)** The total amounts of estimated expenditures and proposed appropriations necessary to support the programs, projects, and activities of the Administration included pursuant to paragraph (5) of section 1105(a) of such title in the budget submitted to Congress under that section for any fiscal year.
-- **(d)** Nothing in this section shall be construed to prohibit the inclusion in the future-years nuclear security program of amounts for management contingencies, subject to the requirements of subsection (c) of this section.
+- **(d)** Nothing in this section shall be construed to prohibit the inclusion in the future-years nuclear security program of amounts for management contingencies, subject to the requirements of subsection (c).

@@ -3,16 +3,16 @@ title: "Section 460oo - Establishment"
 usc_title: 16
 usc_section: "460oo"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 460oo"
-generated_at: "2026-03-29T18:05:06.670Z"
+generated_at: "2026-03-29T18:24:22.579Z"
 ---
 
 # § 460oo. Establishment
 
 - **(a)** In order to conserve, protect, and manage, in a substantially undeveloped condition, certain National Forest System lands in the State of Oregon having unique geographic, topographic, biological, ecological features and possessing significant scenic, wildlife, dispersed recreation, and watershed values, there is hereby established, within the Umpqua, Willamette, Winema and Deschutes National Forests, the Oregon Cascades Recreation Area (hereinafter referred to in this subchapter as the “recreation area”).
 - **(b)** The recreation area shall comprise approximately one hundred fifty-six thousand nine hundred acres as generally depicted on a map entitled “Oregon Cascades Recreation Area” dated March 1984. Except as otherwise provided in this section, the Secretary of Agriculture (hereinafter referred to as the “Secretary”) shall administer and manage the recreation area in accordance with the laws and regulations applicable to the National Forest System so as to enhance scenic and watershed values, wildlife habitat, and dispersed recreation.
-- **(c)** The recreation area shall be managed in accordance with plans prepared in subsection (g) of this section to:
+- **(c)** The recreation area shall be managed in accordance with plans prepared in subsection (g) to:
   - **(1)** provide a range of recreation opportunities from primitive to full service developed campgrounds;
   - **(2)** provide access for use by the public;
   - **(3)** to the extent practicable, maintain the natural and scenic character of the area; and

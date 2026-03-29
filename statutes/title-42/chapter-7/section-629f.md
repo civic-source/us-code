@@ -3,15 +3,15 @@ title: "Section 629f - Authorization of appropriations; reservation of certain a
 usc_title: 42
 usc_section: "629f"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 629f"
-generated_at: "2026-03-29T18:07:13.734Z"
+generated_at: "2026-03-29T18:27:02.910Z"
 ---
 
 # § 629f. Authorization of appropriations; reservation of certain amounts
 
 - **(a)** In addition to any amount otherwise made available to carry out this subpart, there are authorized to be appropriated to carry out this subpart $345,000,000 for each of fiscal years 2012 through 2016.
-- **(b)** From the amount specified in subsection (a) of this section for a fiscal year, the Secretary shall reserve amounts as follows:
+- **(b)** From the amount specified in subsection (a) for a fiscal year, the Secretary shall reserve amounts as follows:
   - **(1)** The Secretary shall reserve $6,000,000 for expenditure by the Secretary—
     - **(A)** for research, training, and technical assistance costs related to the program under this subpart; and
     - **(B)** for evaluation of State programs based on the plans approved under section 629b of this title and funded under this subpart, and any other Federal, State, or local program, regardless of whether federally assisted, that is designed to achieve the same purposes as the State programs.

@@ -3,9 +3,9 @@ title: "Section 384e - Recognition of foreign government inspections"
 usc_title: 21
 usc_section: "384e"
 chapter: 9
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 384e"
-generated_at: "2026-03-29T18:05:14.852Z"
+generated_at: "2026-03-29T18:25:04.188Z"
 ---
 
 # § 384e. Recognition of foreign government inspections

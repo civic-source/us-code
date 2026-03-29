@@ -3,9 +3,9 @@ title: "Section 5590 - Submittal to Congressional committees of plan for demonst
 usc_title: 42
 usc_section: "5590"
 chapter: 71
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 5590"
-generated_at: "2026-03-29T18:07:14.700Z"
+generated_at: "2026-03-29T18:27:03.649Z"
 ---
 
 # § 5590. Submittal to Congressional committees of plan for demonstrating applications of photovoltaic systems and facilitating use in other nations; encouragement of international participation and cooperation; coordination and consistency of plan and international activities with similar activities and programs

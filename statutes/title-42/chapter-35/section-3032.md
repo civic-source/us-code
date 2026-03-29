@@ -3,9 +3,9 @@ title: "Section 3032 - Program authorized"
 usc_title: 42
 usc_section: "3032"
 chapter: 35
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 3032"
-generated_at: "2026-03-29T18:07:14.487Z"
+generated_at: "2026-03-29T18:27:03.489Z"
 ---
 
 # § 3032. Program authorized
@@ -28,6 +28,9 @@ generated_at: "2026-03-29T18:07:14.487Z"
     - **(A)** programs addressing unique issues faced by rural caregivers;
     - **(B)** programs focusing on the needs of older individuals with cognitive impairment such as Alzheimer’s disease and related disorders with neurological and organic brain dysfunction, and their caregivers; and
     - **(C)** programs supporting caregivers in the role they play in providing disease prevention and health promotion services;
-  - **(12)** building public awareness of cognitive impairments such as Alzheimer’s disease and related disorders with neurological and organic brain dysfunction, depression, and mental disorders; and
-  - **(13)** any other activities that the Assistant Secretary determines will achieve the objectives of this section.
-- **(b)** There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.
+  - **(12)** building public awareness of cognitive impairments such as Alzheimer’s disease and related disorders with neurological and organic brain dysfunction, depression, and mental disorders;
+  - **(13)** continuing support for program integrity initiatives concerning the Medicare program under title XVIII of the Social Security Act ( 42 U.S.C. 1395 et seq.) that train senior volunteers to prevent and identify health care fraud and abuse; and
+  - **(14)** any other activities that the Assistant Secretary determines will achieve the objectives of this section.
+- **(b)** There are authorized to be appropriated to carry out—
+  - **(1)** aging network support activities under this section, $6,216,054 for fiscal year 2017, $6,346,048 for fiscal year 2018, and $6,476,043 for fiscal year 2019; and
+  - **(2)** elder rights support activities under this section, $10,856,828 for fiscal year 2017, $11,083,873 for fiscal year 2018, and $11,310,919 for fiscal year 2019.

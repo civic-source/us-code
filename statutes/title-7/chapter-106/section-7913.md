@@ -3,9 +3,9 @@ title: "Section 7913 - Availability of direct payments"
 usc_title: 7
 usc_section: "7913"
 chapter: 106
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 7913"
-generated_at: "2026-03-29T18:04:05.145Z"
+generated_at: "2026-03-29T18:23:43.540Z"
 ---
 
 # § 7913. Availability of direct payments
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T18:04:05.145Z"
   - **(8)** Soybeans, $0.44 per bushel.
   - **(9)** Other oilseeds, $0.0080 per pound.
 - **(c)** The amount of the direct payment to be paid to the producers on a farm for a covered commodity for a crop year shall be equal to the product of the following:
-  - **(1)** The payment rate specified in subsection (b) of this section.
+  - **(1)** The payment rate specified in subsection (b).
   - **(2)** The payment acres of the covered commodity on the farm.
   - **(3)** The payment yield for the covered commodity for the farm.
 - **(d)**

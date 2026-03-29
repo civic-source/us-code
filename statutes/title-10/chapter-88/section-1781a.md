@@ -3,9 +3,9 @@ title: "Section 1781a - Department of Defense Military Family Readiness Council"
 usc_title: 10
 usc_section: "1781a"
 chapter: 88
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 1781a"
-generated_at: "2026-03-29T18:04:13.107Z"
+generated_at: "2026-03-29T18:23:51.864Z"
 ---
 
 # § 1781a. Department of Defense Military Family Readiness Council

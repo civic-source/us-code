@@ -3,9 +3,9 @@ title: "Section 1200 - Judicial determination where compensation for condemnatio
 usc_title: 43
 usc_section: "1200"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 1200"
-generated_at: "2026-03-29T18:06:28.323Z"
+generated_at: "2026-03-29T18:26:14.849Z"
 ---
 
 # § 1200. Judicial determination where compensation for condemnation of Sioux lands for dam purposes rejected

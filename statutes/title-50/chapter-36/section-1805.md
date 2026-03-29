@@ -3,9 +3,9 @@ title: "Section 1805 - Issuance of order"
 usc_title: 50
 usc_section: "1805"
 chapter: 36
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 1805"
-generated_at: "2026-03-29T18:07:43.035Z"
+generated_at: "2026-03-29T18:27:35.605Z"
 ---
 
 # § 1805. Issuance of order
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T18:07:43.035Z"
     - **(B)** each of the facilities or places at which the electronic surveillance is directed is being used, or is about to be used, by a foreign power or an agent of a foreign power;
   - **(3)** the proposed minimization procedures meet the definition of minimization procedures under section 1801(h) of this title ; and
   - **(4)** the application which has been filed contains all statements and certifications required by section 1804 of this title and, if the target is a United States person, the certification or certifications are not clearly erroneous on the basis of the statement made under section 1804(a)(7)(E) 1 1 See References in Text note below. of this title and any other information furnished under section 1804(d) 1 of this title.
-- **(b)** In determining whether or not probable cause exists for purposes of an order under subsection (a)(2) of this section, a judge may consider past activities of the target, as well as facts and circumstances relating to current or future activities of the target.
+- **(b)** In determining whether or not probable cause exists for purposes of an order under subsection (a)(2), a judge may consider past activities of the target, as well as facts and circumstances relating to current or future activities of the target.
 - **(c)**
   - **(1)** An order approving an electronic surveillance under this section shall specify—
     - **(A)** the identity, if known, or a description of the specific target of the electronic surveillance identified or described in the application pursuant to section 1804(a)(3) of this title ;
@@ -50,7 +50,21 @@ generated_at: "2026-03-29T18:07:43.035Z"
   - **(4)** A denial of the application made under this subsection may be reviewed as provided in section 1803 of this title .
   - **(5)** In the event that such application for approval is denied, or in any other case where the electronic surveillance is terminated and no order is issued approving the surveillance, no information obtained or evidence derived from such surveillance shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerning any United States person acquired from such surveillance shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of such person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
   - **(6)** The Attorney General shall assess compliance with the requirements of paragraph (5).
-- **(f)** Notwithstanding any other provision of this subchapter, officers, employees, or agents of the United States are authorized in the normal course of their official duties to conduct electronic surveillance not targeted against the communications of any particular person or persons, under procedures approved by the Attorney General, solely to—
+- **(f)**
+  - **(1)** Notwithstanding any other provision of this chapter, the lawfully authorized targeting of a non-United States person previously believed to be located outside the United States for the acquisition of foreign intelligence information may continue for a period not to exceed 72 hours from the time that the non-United States person is reasonably believed to be located inside the United States and the acquisition is subject to this subchapter or to subchapter II of this chapter, provided that the head of an element of the intelligence community—
+    - **(A)** reasonably determines that a lapse in the targeting of such non-United States person poses a threat of death or serious bodily harm to any person;
+    - **(B)** promptly notifies the Attorney General of a determination under subparagraph (A); and
+    - **(C)** requests, as soon as practicable, the employment of emergency electronic surveillance under subsection (e) or the employment of an emergency physical search pursuant to section 1824(e) of this title , as warranted.
+  - **(2)** The authority under this subsection to continue the acquisition of foreign intelligence information is limited to a period not to exceed 72 hours and shall cease upon the earlier of the following:
+    - **(A)** The employment of emergency electronic surveillance under subsection (e) or the employment of an emergency physical search pursuant to section 1824(e) of this title .
+    - **(B)** An issuance of a court order under this subchapter or subchapter II of this chapter.
+    - **(C)** The Attorney General provides direction that the acquisition be terminated.
+    - **(D)** The head of the element of the intelligence community conducting the acquisition determines that a request under paragraph (1)(C) is not warranted.
+    - **(E)** When the threat of death or serious bodily harm to any person is no longer reasonably believed to exist.
+  - **(3)** Nonpublicly available information concerning unconsenting United States persons acquired under this subsection shall not be disseminated during the 72 hour time period under paragraph (1) unless necessary to investigate, reduce, or eliminate the threat of death or serious bodily harm to any person.
+  - **(4)** If the Attorney General declines to authorize the employment of emergency electronic surveillance under subsection (e) or the employment of an emergency physical search pursuant to section 1824(e) of this title , or a court order is not obtained under this subchapter or subchapter II of this chapter, information obtained during the 72 hour acquisition time period under paragraph (1) shall not be retained, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
+  - **(5)** Paragraphs (5) and (6) of subsection (e) shall apply to this subsection.
+- **(g)** Notwithstanding any other provision of this subchapter, officers, employees, or agents of the United States are authorized in the normal course of their official duties to conduct electronic surveillance not targeted against the communications of any particular person or persons, under procedures approved by the Attorney General, solely to—
   - **(1)** test the capability of electronic equipment, if—
     - **(A)** it is not reasonable to obtain the consent of the persons incidentally subjected to the surveillance;
     - **(B)** the test is limited in extent and duration to that necessary to determine the capability of the equipment;
@@ -67,6 +81,6 @@ generated_at: "2026-03-29T18:07:43.035Z"
       - **(iii)** train persons in the use of such equipment without engaging in electronic surveillance;
     - **(B)** such electronic surveillance is limited in extent and duration to that necessary to train the personnel in the use of the equipment; and
     - **(C)** no contents of any communication acquired are retained or disseminated for any purpose, but are destroyed as soon as reasonably possible.
-- **(g)** Certifications made by the Attorney General pursuant to section 1802(a) of this title and applications made and orders granted under this subchapter shall be retained for a period of at least ten years from the date of the certification or application.
-- **(h)** No cause of action shall lie in any court against any provider of a wire or electronic communication service, landlord, custodian, or other person (including any officer, employee, agent, or other specified person thereof) that furnishes any information, facilities, or technical assistance in accordance with a court order or request for emergency assistance under this chapter for electronic surveillance or physical search.
-- **(i)** In any case in which the Government makes an application to a judge under this subchapter to conduct electronic surveillance involving communications and the judge grants such application, upon the request of the applicant, the judge shall also authorize the installation and use of pen registers and trap and trace devices, and direct the disclosure of the information set forth in section 1842(d)(2) of this title .
+- **(h)** Certifications made by the Attorney General pursuant to section 1802(a) of this title and applications made and orders granted under this subchapter shall be retained for a period of at least ten years from the date of the certification or application.
+- **(i)** No cause of action shall lie in any court against any provider of a wire or electronic communication service, landlord, custodian, or other person (including any officer, employee, agent, or other specified person thereof) that furnishes any information, facilities, or technical assistance in accordance with a court order or request for emergency assistance under this chapter for electronic surveillance or physical search.
+- **(j)** In any case in which the Government makes an application to a judge under this subchapter to conduct electronic surveillance involving communications and the judge grants such application, upon the request of the applicant, the judge shall also authorize the installation and use of pen registers and trap and trace devices, and direct the disclosure of the information set forth in section 1842(d)(2) of this title .

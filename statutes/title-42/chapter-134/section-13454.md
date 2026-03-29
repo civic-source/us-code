@@ -3,9 +3,9 @@ title: "Section 13454 - Advanced buildings for 2005"
 usc_title: 42
 usc_section: "13454"
 chapter: 134
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 13454"
-generated_at: "2026-03-29T18:07:15.323Z"
+generated_at: "2026-03-29T18:27:04.121Z"
 ---
 
 # § 13454. Advanced buildings for 2005
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T18:07:15.323Z"
   - **(1)** Within 1 year after October 24, 1992 , the Secretary shall solicit proposals for conducting activities under this section.
   - **(2)** Proposals submitted under this subsection shall include and be judged upon—
     - **(A)** evidence of knowledge of current building practices in the United States and in other countries;
-    - **(B)** an explanation of how the proposal will encourage the commercialization of the technologies resulting from activities in subsection (a) of this section;
+    - **(B)** an explanation of how the proposal will encourage the commercialization of the technologies resulting from activities in subsection (a);
     - **(C)** evidence of consideration of collaboration with Department of Energy national laboratories;
     - **(D)** evidence of collaboration with relevant industry or other groups or organizations; and
     - **(E)** a demonstration of the ability of the proposers to undertake and complete the project proposed.

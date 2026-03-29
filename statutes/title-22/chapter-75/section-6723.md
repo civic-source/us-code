@@ -3,9 +3,9 @@ title: "Section 6723 - Authority to conduct inspections"
 usc_title: 22
 usc_section: "6723"
 chapter: 75
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 6723"
-generated_at: "2026-03-29T18:05:22.011Z"
+generated_at: "2026-03-29T18:24:54.361Z"
 ---
 
 # § 6723. Authority to conduct inspections
@@ -23,4 +23,4 @@ generated_at: "2026-03-29T18:05:22.011Z"
       - **(ii)** such individual has committed any act or activity which would be a felony under the laws of the United States; or
       - **(iii)** the participation of such individual as a member of an inspection team would pose a risk to the national security or economic well-being of the United States.
     - **(B)** Any objection by the President to an individual serving as an inspector, whether made pursuant to this section or otherwise, shall not be reviewable in any court.
-- **(c)** The requirement under subsection (b)(2)(A) of this section shall not apply to inspections of United States chemical weapons destruction facilities (as used within the meaning of part IV(C)(13) of the Verification Annex to the Convention).
+- **(c)** The requirement under subsection (b)(2)(A) shall not apply to inspections of United States chemical weapons destruction facilities (as used within the meaning of part IV(C)(13) of the Verification Annex to the Convention).

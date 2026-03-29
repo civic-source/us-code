@@ -3,9 +3,9 @@ title: "Section 1455 - Wireless facilities deployment"
 usc_title: 47
 usc_section: "1455"
 chapter: 13
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "47 U.S.C. § 1455"
-generated_at: "2026-03-29T18:07:40.927Z"
+generated_at: "2026-03-29T18:27:09.616Z"
 ---
 
 # § 1455. Wireless facilities deployment
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T18:07:40.927Z"
     - **(A)** collocation of new transmission equipment;
     - **(B)** removal of transmission equipment; or
     - **(C)** replacement of transmission equipment.
-  - **(3)** Nothing in paragraph (1) shall be construed to relieve the Commission from the requirements of the National Historic Preservation Act or the National Environmental Policy Act of 1969.
+  - **(3)** Nothing in paragraph (1) shall be construed to relieve the Commission from the requirements of the National Historic Preservation Act 1 1 See References in Text note below. or the National Environmental Policy Act of 1969.
 - **(b)**
   - **(1)** If an executive agency, a State, a political subdivision or agency of a State, or a person, firm, or organization applies for the grant of an easement or right-of-way to, in, over, or on a building or other property owned by the Federal Government for the right to install, construct, and maintain wireless service antenna structures and equipment and backhaul transmission equipment, the executive agency having control of the building or other property may grant to the applicant, on behalf of the Federal Government, an easement or right-of-way to perform such installation, construction, and maintenance.
   - **(2)** The Administrator of General Services shall develop a common form for applications for easements and rights-of-way under paragraph (1) for all executive agencies that shall be used by applicants with respect to the buildings or other property of each such agency.

@@ -3,9 +3,9 @@ title: "Section 290aa - Substance Abuse and Mental Health Services Administratio
 usc_title: 42
 usc_section: "290aa"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 290aa"
-generated_at: "2026-03-29T18:07:13.431Z"
+generated_at: "2026-03-29T18:27:02.660Z"
 ---
 
 # § 290aa. Substance Abuse and Mental Health Services Administration
@@ -49,7 +49,7 @@ generated_at: "2026-03-29T18:07:13.431Z"
   - **(3)**
     - **(A)** Not less than once during each 2 years, the Administrator, acting through the Associate Administrator for Alcohol Prevention and Treatment Policy, shall prepare a report describing the alcoholism and alcohol abuse prevention and treatment programs undertaken by the Administration and its agencies, and the report shall include a detailed statement of the expenditures made for the activities reported on and the personnel used in connection with such activities.
     - **(B)** Each report under subparagraph (A) shall include a description of any revisions in the plan under paragraph (2) made during the preceding 2 years.
-    - **(C)** Each report under subparagraph (A) shall be submitted to the Administrator for inclusion in the biennial report under subsection (k) of this section.
+    - **(C)** Each report under subparagraph (A) shall be submitted to the Administrator for inclusion in the biennial report under subsection (k).
 - **(f)**
   - **(1)** The Administrator, with the approval of the Secretary, shall appoint an Associate Administrator for Women’s Services who shall report directly to the Administrator.
   - **(2)** The Associate Administrator appointed under paragraph (1) shall—
@@ -62,7 +62,7 @@ generated_at: "2026-03-29T18:07:13.431Z"
     - **(C)** establish an advisory committee to be known as the Advisory Committee for Women’s Services, which shall be composed of not more than 10 individuals, a majority of whom shall be women, who are not officers or employees of the Federal Government, to be appointed by the Administrator from among physicians, practitioners, treatment providers, and other health professionals, whose clinical practice, specialization, or professional expertise includes a significant focus on women’s substance abuse and mental health conditions, that shall—
       - **(i)** advise the Associate Administrator on appropriate activities to be undertaken by the agencies of the Administration with respect to women’s substance abuse and mental health services, including services which require a multidisciplinary approach;
       - **(ii)** collect and review data, including information provided by the Secretary (including the material referred to in paragraph (3)), and report biannually to the Administrator regarding the extent to which women are represented among senior personnel, and make recommendations regarding improvement in the participation of women in the workforce of the Administration; and
-      - **(iii)** prepare, for inclusion in the biennial report required pursuant to subsection (k) of this section, a description of activities of the Committee, including findings made by the Committee regarding—
+      - **(iii)** prepare, for inclusion in the biennial report required pursuant to subsection (k), a description of activities of the Committee, including findings made by the Committee regarding—
         - **(I)** the extent of expenditures made for women’s substance abuse and mental health services by the agencies of the Administration; and
         - **(II)** the estimated level of funding needed for substance abuse and mental health services to meet the needs of women;
     - **(D)** improve the collection of data on women’s health by—
@@ -97,7 +97,7 @@ generated_at: "2026-03-29T18:07:13.431Z"
   - **(3)** the application is otherwise in such form, is made in such manner, and contains such agreements, assurances, and information as the official determines to be necessary to carry out the purpose for which the award is to be provided.
 - **(m)**
   - **(1)** Notwithstanding section 290aa–3 of this title and except as provided in paragraph (2), the Secretary may use not to exceed 2.5 percent of all amounts appropriated under this subchapter for a fiscal year to make noncompetitive grants, contracts or cooperative agreements to public entities to enable such entities to address emergency substance abuse or mental health needs in local communities.
-  - **(2)** Amounts appropriated under part C of this subchapter shall not be subject to paragraph (1).
+  - **(2)** Amounts appropriated under part C shall not be subject to paragraph (1).
   - **(3)** The Secretary shall establish criteria for determining that a substance abuse or mental health emergency exists and publish such criteria in the Federal Register prior to providing funds under this subsection.
 - **(n)** No information, if an establishment or person supplying the information or described in it is identifiable, obtained in the course of activities undertaken or supported under section 290aa–4 of this title may be used for any purpose other than the purpose for which it was supplied unless such establishment or person has consented (as determined under regulations of the Secretary) to its use for such other purpose. Such information may not be published or released in other form if the person who supplied the information or who is described in it is identifiable unless such person has consented (as determined under regulations of the Secretary) to its publication or release in other form.
 - **(o)** For the purpose of providing grants, cooperative agreements, and contracts under this section, there are authorized to be appropriated $25,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.

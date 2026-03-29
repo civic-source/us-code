@@ -3,9 +3,9 @@ title: "Section 5025 - Programs of national significance"
 usc_title: 42
 usc_section: "5025"
 chapter: 66
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 5025"
-generated_at: "2026-03-29T18:07:14.632Z"
+generated_at: "2026-03-29T18:27:03.602Z"
 ---
 
 # § 5025. Programs of national significance
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T18:07:14.632Z"
 - **(a)**
   - **(1)** With not less than one-third of the funds made available under subsection (d) of this section in each fiscal year, the Director shall make grants under the programs authorized in parts A, B, and C to support programs that address national problems of local concern.
   - **(2)** An applicant for a grant under paragraph (1) shall determine whether the program to be supported by the grant is a program under part A, B, or C, and shall submit an application as required for such program.
-  - **(3)** Each program for which a grant is received under this subsection shall be carried out in accordance with the requirements applicable to the program under part A, B, or C of this subchapter under which the program supported by such grant is to be carried out.
+  - **(3)** Each program for which a grant is received under this subsection shall be carried out in accordance with the requirements applicable to the program under part A, B, or C under which the program supported by such grant is to be carried out.
   - **(4)** To the maximum extent practicable, the Director shall ensure that not less than 25 percent of the funds appropriated under this section are used to award grants—
     - **(A)** to applicants for grants under this section that are not receiving assistance from the Corporation at the time of such grant award; or
     - **(B)** to applicants from locations where no programs supported under part A, B, or C are in effect at the time of such grant award.

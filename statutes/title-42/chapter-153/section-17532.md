@@ -3,9 +3,9 @@ title: "Section 17532 - Responsible reintegration of offenders"
 usc_title: 42
 usc_section: "17532"
 chapter: 153
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 17532"
-generated_at: "2026-03-29T18:07:15.524Z"
+generated_at: "2026-03-29T18:27:04.272Z"
 ---
 
 # § 17532. Responsible reintegration of offenders
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T18:07:15.524Z"
 - **(c)**
   - **(1)** A grant awarded under this section may be used for—
     - **(A)** mentoring eligible offenders, including the provision of support, guidance, and assistance in the community and the workplace to address the challenges faced by such offenders;
-    - **(B)** providing job training and job placement services to eligible offenders, including work readiness activities, job referrals, basic skills remediation, educational services, occupational skills training, on-the-job training, work experience, and post-placement support, in coordination with the one-stop partners and one-stop operators (as such terms are defined in section 2801 of title 29 ) that provide services at any center operated under a one-stop delivery system established under section 2864(c) of title 29 , businesses, and educational institutions; and
+    - **(B)** providing job training and job placement services to eligible offenders, including work readiness activities, job referrals, basic skills remediation, educational services, occupational skills training, on-the-job training, work experience, and post-placement support, in coordination with the one-stop partners and one-stop operators (as such terms are defined in section 3102 of title 29 ) that provide services at any center operated under a one-stop delivery system established under section 3151(e) of title 29 , businesses, and educational institutions; and
     - **(C)** providing outreach, orientation, intake, assessments, counseling, case management, and other transitional services to eligible offenders, including prerelease outreach and orientation.
   - **(2)**
     - **(A)** A grant under this section may not be used to provide substance abuse treatment services, mental health treatment services, or housing services, except that such a grant may be used to coordinate with other programs and entities to arrange for such programs and entities to provide substance abuse treatment services, mental health treatment services, or housing services to eligible offenders.
@@ -35,7 +35,7 @@ generated_at: "2026-03-29T18:07:15.524Z"
     - **(B)** At a minimum, an application for a grant under this section shall include—
       - **(i)** the identification of the eligible area that is to be served and a description of the need for support in such area;
       - **(ii)** a description of the mentoring, job training and job placement, and other services to be provided;
-      - **(iii)** a description of partnerships that have been established with the criminal justice system (including coordination with demonstration projects carried out under section 3797w of this title , as amended by this Act, where applicable), the local workforce investment boards established under section 2832 of title 29 ), 1 1 So in original. The closing parenthesis probably should not appear. and housing authorities that will be used to assist in carrying out grant activities under this section; and
+      - **(iii)** a description of partnerships that have been established with the criminal justice system (including coordination with demonstration projects carried out under section 3797w of this title , as amended by this Act, where applicable), the local workforce development boards established under section 3122 of title 29 , and housing authorities that will be used to assist in carrying out grant activities under this section; and
       - **(iv)** a description of how other Federal, State, local, or private funding will be leveraged to provide support services that are not directly funded under this section, such as mental health and substance abuse treatment and housing.
   - **(2)** In this subsection, the term “eligible area” means an area that—
     - **(A)** is located within an urbanized area or urban cluster, as determined by the Bureau of the Census in the most recently available census;

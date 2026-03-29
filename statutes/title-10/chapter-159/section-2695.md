@@ -3,9 +3,9 @@ title: "Section 2695 - Acceptance of funds to cover administrative expenses rela
 usc_title: 10
 usc_section: "2695"
 chapter: 159
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2695"
-generated_at: "2026-03-29T18:04:13.204Z"
+generated_at: "2026-03-29T18:23:51.993Z"
 ---
 
 # § 2695. Acceptance of funds to cover administrative expenses relating to certain real property transactions
@@ -17,4 +17,8 @@ generated_at: "2026-03-29T18:04:13.204Z"
   - **(3)** The lease or license of real property of the United States.
   - **(4)** The disposal of real property of the United States for which the Secretary will be the disposal agent.
   - **(5)** The conveyance of real property under section 2694a of this title .
-- **(c)** Amounts collected under subsection (a) for administrative expenses shall be credited to the appropriation, fund, or account from which the expenses were paid. Amounts so credited shall be merged with funds in such appropriation, fund, or account and shall be available for the same purposes and subject to the same limitations as the funds with which merged.
+- **(c)**
+  - **(1)** Amounts collected by the Secretary of a military department under subsection (a) for administrative expenses shall be credited, at the option of the Secretary—
+    - **(A)** to the appropriation, fund, or account from which the expenses were paid; or
+    - **(B)** to an appropriate appropriation, fund, or account currently available to the Secretary for the purposes for which the expenses were paid.
+  - **(2)** Amounts credited under paragraph (1) shall be merged with funds in such appropriation, fund, or account and shall be available for the same purposes and subject to the same limitations as the funds with which merged.

@@ -3,9 +3,9 @@ title: "Section 1831c - Assuring consistent oversight of subsidiaries of holding
 usc_title: 12
 usc_section: "1831c"
 chapter: 16
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 1831c"
-generated_at: "2026-03-29T18:04:43.587Z"
+generated_at: "2026-03-29T18:24:02.924Z"
 ---
 
 # § 1831c. Assuring consistent oversight of subsidiaries of holding companies

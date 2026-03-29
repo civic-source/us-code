@@ -3,9 +3,9 @@ title: "Section 57109 - Operation of vessels purchased, chartered, or leased fro
 usc_title: 46
 usc_section: "57109"
 chapter: 571
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "46 U.S.C. § 57109"
-generated_at: "2026-03-29T18:07:34.413Z"
+generated_at: "2026-03-29T18:27:18.934Z"
 ---
 
 # § 57109. Operation of vessels purchased, chartered, or leased from Secretary of Transportation

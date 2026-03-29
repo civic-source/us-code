@@ -3,9 +3,9 @@ title: "Section 1339 - Trade Remedy Assistance Office"
 usc_title: 19
 usc_section: "1339"
 chapter: 4
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 1339"
-generated_at: "2026-03-29T18:04:55.004Z"
+generated_at: "2026-03-29T18:24:16.078Z"
 ---
 
 # § 1339. Trade Remedy Assistance Office
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T18:04:55.004Z"
   - **(1)** to prepare and file petitions and applications (other than those which, in the opinion of the Office, are frivolous); and
   - **(2)** to seek to obtain the remedies and benefits available under the trade laws, including any administrative review or administrative appeal thereunder.
 - **(c)** For purposes of this section—
-  - **(1)** The term “eligible small business” means any business concern which, in the agency’s judgment, due to its small size, has neither adequate internal resources nor financial ability to obtain qualified outside assistance in preparing and filing petitions and applications for remedies and benefits under trade laws. In determining whether a business concern is an “eligible small business”, the agency may consult with the Small Business Administration, and shall consult with any other agency that has provided assistance under subsection (b) of this section to that business concern. An agency decision regarding whether a business concern is an eligible small business for purposes of this section is not reviewable by any other agency or by any court.
+  - **(1)** The term “eligible small business” means any business concern which, in the agency’s judgment, due to its small size, has neither adequate internal resources nor financial ability to obtain qualified outside assistance in preparing and filing petitions and applications for remedies and benefits under trade laws. In determining whether a business concern is an “eligible small business”, the agency may consult with the Small Business Administration, and shall consult with any other agency that has provided assistance under subsection (b) to that business concern. An agency decision regarding whether a business concern is an eligible small business for purposes of this section is not reviewable by any other agency or by any court.
   - **(2)** The term “trade laws” means—
     - **(A)** chapter 1 of title II of the Trade Act of 1974 ( 19 U.S.C. 2251 et seq., relating to injury caused by import competition);
     - **(B)** chapters 2 and 3 of such title II [ 19 U.S.C. 2271 et seq., 2341 et seq.] (relating to adjustment assistance for workers and firms);

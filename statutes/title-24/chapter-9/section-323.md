@@ -3,9 +3,9 @@ title: "Section 323 - Transfer and release to State of residence or legal domici
 usc_title: 24
 usc_section: "323"
 chapter: 9
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "24 U.S.C. § 323"
-generated_at: "2026-03-29T18:05:10.891Z"
+generated_at: "2026-03-29T18:25:00.383Z"
 ---
 
 # § 323. Transfer and release to State of residence or legal domicile, or to relative

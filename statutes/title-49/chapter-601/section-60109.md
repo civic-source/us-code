@@ -3,9 +3,9 @@ title: "Section 60109 - High-density population areas and environmentally sensit
 usc_title: 49
 usc_section: "60109"
 chapter: 601
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 60109"
-generated_at: "2026-03-29T18:07:51.568Z"
+generated_at: "2026-03-29T18:27:16.647Z"
 ---
 
 # § 60109. High-density population areas and environmentally sensitive areas
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T18:07:51.568Z"
   - **(2)** provide that the identification be carried out through the inventory required under section 60102(e) of this title .
 - **(b)** When describing areas that are unusually sensitive to environmental damage if there is a hazardous liquid pipeline accident, the Secretary shall consider areas where a pipeline rupture would likely cause permanent or long-term environmental damage, including—
   - **(1)** locations near pipeline rights-of-way that are critical to drinking water, including intake locations for community water systems and critical sole source aquifer protection areas; and
-  - **(2)** locations near pipeline rights-of-way that have been identified as critical wetlands, riverine or estuarine systems, national parks, wilderness areas, wildlife preservation areas or refuges, wild and scenic rivers, or critical habitat areas for threatened and endangered species.
+  - **(2)** locations near pipeline rights-of-way that are part of the Great Lakes or have been identified as coastal beaches, marine coastal waters, critical wetlands, riverine or estuarine systems, national parks, wilderness areas, wildlife preservation areas or refuges, wild and scenic rivers, or critical habitat areas for threatened and endangered species.
 - **(c)**
   - **(1)** Each operator of a gas pipeline facility shall conduct an analysis of the risks to each facility of the operator located in an area identified pursuant to subsection (a)(1) and defined in chapter 192 of title 49, Code of Federal Regulations, including any subsequent modifications, and shall adopt and implement a written integrity management program for such facility to reduce the risks.
   - **(2)**
@@ -76,3 +76,12 @@ generated_at: "2026-03-29T18:07:51.568Z"
 - **(f)** The Secretary shall establish procedures requiring certification of annual and semiannual pipeline integrity management program performance reports by a senior executive officer of the company operating a pipeline subject to this chapter. The procedures shall require a signed statement, which may be effected electronically in accordance with the provisions of the Electronic Signatures in Global and National Commerce Act ( 15 U.S.C. 7001 et seq.), certifying that—
   - **(1)** the signing officer has reviewed the report; and
   - **(2)** to the best of such officer’s knowledge and belief, the report is true and complete.
+- **(g)**
+  - **(1)** Notwithstanding any pipeline integrity management program or integrity assessment schedule otherwise required by the Secretary, each operator of a pipeline facility to which this subsection applies shall ensure that pipeline integrity assessments—
+    - **(A)** using internal inspection technology appropriate for the integrity threat are completed not less often than once every 12 months; and
+    - **(B)** using pipeline route surveys, depth of cover surveys, pressure tests, external corrosion direct assessment, or other technology that the operator demonstrates can further the understanding of the condition of the pipeline facility are completed on a schedule based on the risk that the pipeline facility poses to the high consequence area in which the pipeline facility is located.
+  - **(2)** This subsection shall apply to any underwater hazardous liquid pipeline facility located in a high consequence area—
+    - **(A)** that is not an offshore pipeline facility; and
+    - **(B)** any portion of which is located at depths greater than 150 feet under the surface of the water.
+  - **(3)** For purposes of this subsection, the term “high consequence area” has the meaning given that term in section 195.450 of title 49, Code of Federal Regulations.
+  - **(4)** The Secretary shall conduct inspections under section 60117(c) to determine whether each operator of a pipeline facility to which this subsection applies is complying with this section.

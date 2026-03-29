@@ -3,17 +3,17 @@ title: "Section 217 - Bicycle transportation and pedestrian walkways"
 usc_title: 23
 usc_section: "217"
 chapter: 2
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "23 U.S.C. § 217"
-generated_at: "2026-03-29T18:05:12.230Z"
+generated_at: "2026-03-29T18:25:00.195Z"
 ---
 
 # § 217. Bicycle transportation and pedestrian walkways
 
-- **(a)** Subject to project approval by the Secretary, a State may obligate funds apportioned to it under sections 104(b)(2) and 104(b)(3) 1 1 See References in Text note below. of this title for construction of pedestrian walkways and bicycle transportation facilities and for carrying out nonconstruction projects related to safe bicycle use.
-- **(b)** Subject to project approval by the Secretary, a State may obligate funds apportioned to it under section 104(b)(1) 1 of this title for construction of pedestrian walkways and bicycle transportation facilities on land adjacent to any highway on the National Highway System.
+- **(a)** Subject to project approval by the Secretary, a State may obligate funds apportioned to it under sections 104(b)(2) and 104(b)(4) of this title for construction of pedestrian walkways and bicycle transportation facilities and for carrying out nonconstruction projects related to safe bicycle use.
+- **(b)** Subject to project approval by the Secretary, a State may obligate funds apportioned to it under section 104(b)(1) of this title for construction of pedestrian walkways and bicycle transportation facilities on land adjacent to any highway on the National Highway System.
 - **(c)** Funds authorized for forest highways, forest development roads and trails, public lands development roads and trails, park roads, parkways, Indian reservation roads, and public lands highways shall be available, at the discretion of the department charged with the administration of such funds, for the construction of pedestrian walkways and bicycle transportation facilities.
-- **(d)** Each State receiving an apportionment under sections 104(b)(2) and 104(b)(3) 1 of this title shall use such amount of the apportionment as may be necessary to fund in the State department of transportation a position of bicycle and pedestrian coordinator for promoting and facilitating the increased use of nonmotorized modes of transportation, including developing facilities for the use of pedestrians and bicyclists and public education, promotional, and safety programs for using such facilities.
+- **(d)** Each State receiving an apportionment under sections 104(b)(2) and 104(b)(3) of this title shall use such amount of the apportionment as may be necessary to fund in the State department of transportation a position of bicycle and pedestrian coordinator for promoting and facilitating the increased use of nonmotorized modes of transportation, including developing facilities for the use of pedestrians and bicyclists and public education, promotional, and safety programs for using such facilities.
 - **(e)** In any case where a highway bridge deck being replaced or rehabilitated with Federal financial participation is located on a highway on which bicycles are permitted to operate at each end of such bridge, and the Secretary determines that the safe accommodation of bicycles can be provided at reasonable cost as part of such replacement or rehabilitation, then such bridge shall be so replaced or rehabilitated as to provide such safe accommodations.
 - **(f)** For all purposes of this title, construction of a pedestrian walkway and a bicycle transportation facility shall be deemed to be a highway project and the Federal share payable on account of such construction shall be determined in accordance with section 120(b).
 - **(g)**

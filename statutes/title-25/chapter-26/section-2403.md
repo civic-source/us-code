@@ -3,9 +3,9 @@ title: "Section 2403 - Definitions"
 usc_title: 25
 usc_section: "2403"
 chapter: 26
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 2403"
-generated_at: "2026-03-29T18:05:17.219Z"
+generated_at: "2026-03-29T18:25:23.782Z"
 ---
 
 # § 2403. Definitions
@@ -23,5 +23,5 @@ For purposes of this chapter—
     - **(E)** rehabilitation to provide on-going assistance, either on an inpatient or outpatient basis, to help Indians reform or abstain from alcohol or substance abuse,
     - **(F)** follow-up or after-care to provide the appropriate counseling and assistance on an outpatient basis, and
     - **(G)** referral to other sources of assistance or resources.
-  - **(5)** The term “service unit” means an administrative entity within the Indian Health Service or a tribe or tribal organization operating health care programs or facilities with funds from the Indian Health Service under the Indian Self-Determination Act [ 25 U.S.C. 450f et seq.] through which the services are provided, directly or by contract, to the eligible Indian population within a defined geographic area.
+  - **(5)** The term “service unit” means an administrative entity within the Indian Health Service or a tribe or tribal organization operating health care programs or facilities with funds from the Indian Health Service under the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.] through which the services are provided, directly or by contract, to the eligible Indian population within a defined geographic area.
   - **(6)** The terms “Urban Indian”, “Urban Center”, and “Urban Indian Organization” shall have the same meaning as provided in section 1603 of this title .

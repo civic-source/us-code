@@ -3,9 +3,9 @@ title: "Section 1204 - Operation of State plans"
 usc_title: 42
 usc_section: "1204"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1204"
-generated_at: "2026-03-29T18:07:13.798Z"
+generated_at: "2026-03-29T18:27:02.956Z"
 ---
 
 # § 1204. Operation of State plans

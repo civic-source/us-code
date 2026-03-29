@@ -3,9 +3,9 @@ title: "Section 2008o - Historic barn preservation"
 usc_title: 7
 usc_section: "2008o"
 chapter: 50
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 2008o"
-generated_at: "2026-03-29T18:04:04.926Z"
+generated_at: "2026-03-29T18:23:43.338Z"
 ---
 
 # § 2008o. Historic barn preservation

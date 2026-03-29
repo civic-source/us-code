@@ -3,9 +3,9 @@ title: "Section 547a - Inclusion of regional economic development benefits in ec
 usc_title: 33
 usc_section: "547a"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 547a"
-generated_at: "2026-03-29T18:06:10.486Z"
+generated_at: "2026-03-29T18:26:01.176Z"
 ---
 
 # § 547a. Inclusion of regional economic development benefits in economic analysis for purposes of computing economic justification of project

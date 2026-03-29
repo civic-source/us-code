@@ -3,9 +3,9 @@ title: "Section 7416 - Assessments"
 usc_title: 7
 usc_section: "7416"
 chapter: 101
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 7416"
-generated_at: "2026-03-29T18:04:05.115Z"
+generated_at: "2026-03-29T18:23:43.513Z"
 ---
 
 # § 7416. Assessments
@@ -14,10 +14,10 @@ generated_at: "2026-03-29T18:04:05.115Z"
   - **(1)** paid by first handlers with respect to the agricultural commodity produced and marketed in the United States; and
   - **(2)** paid by importers with respect to the agricultural commodity imported into the United States, if the imported agricultural commodity is covered by the order pursuant to section 7415(f) of this title .
 - **(b)** Assessments required under an order shall be remitted to the board established under the order at the time and in the manner prescribed by the order.
-- **(c)** Not more than 1 assessment may be levied on a first handler or importer under subsection (a) of this section with respect to any agricultural commodity.
-- **(d)** The board shall recommend to the Secretary 1 or more rates of assessment to be levied under subsection (a) of this section. If approved by the Secretary, the rates shall take effect. An order may provide that an assessment rate may not be increased unless approved by a referendum conducted pursuant to section 7417 of this title .
+- **(c)** Not more than 1 assessment may be levied on a first handler or importer under subsection (a) with respect to any agricultural commodity.
+- **(d)** The board shall recommend to the Secretary 1 or more rates of assessment to be levied under subsection (a). If approved by the Secretary, the rates shall take effect. An order may provide that an assessment rate may not be increased unless approved by a referendum conducted pursuant to section 7417 of this title .
 - **(e)**
-  - **(1)** Late-payment and interest charges may be levied on each person subject to an order who fails to remit an assessment in accordance with subsection (b) of this section.
+  - **(1)** Late-payment and interest charges may be levied on each person subject to an order who fails to remit an assessment in accordance with subsection (b).
   - **(2)** The rate for the charges shall be specified by the Secretary.
 - **(f)** Pending disbursement of assessments under a budget approved by the Secretary, a board may invest assessments collected under this section in—
   - **(1)** obligations of the United States or any agency of the United States;
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T18:04:05.115Z"
   - **(4)** obligations fully guaranteed as to principal and interest by the United States.
 - **(g)**
   - **(1)** During the period beginning on the effective date of an order and ending on the date the Secretary announces the results of a referendum that is conducted under section 7417(b)(1) of this title with respect to the order, the board established under the order shall—
-    - **(A)** establish and maintain an escrow account of the kind described in subsection (f)(3) of this section to be used to refund assessments; and
+    - **(A)** establish and maintain an escrow account of the kind described in subsection (f)(3) to be used to refund assessments; and
     - **(B)** deposit funds in the account in accordance with paragraph (2).
   - **(2)** The board shall deposit in the account an amount equal to 10 percent of the assessments collected during the period referred to in paragraph (1).
   - **(3)** Subject to paragraphs (4), (5), and (6), persons subject to an order shall be eligible to demand a refund of assessments collected during the period referred to in paragraph (1) if—

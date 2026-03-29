@@ -3,21 +3,21 @@ title: "Section 2204 - Purchase of trust or restricted or controlled lands at no
 usc_title: 25
 usc_section: "2204"
 chapter: 24
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 2204"
-generated_at: "2026-03-29T18:05:17.210Z"
+generated_at: "2026-03-29T18:25:23.771Z"
 ---
 
 # § 2204. Purchase of trust or restricted or controlled lands at no less than fair market value; requisite conditions
 
 - **(a)**
-  - **(1)** Subject to subsection (b) of this section, any Indian tribe may purchase, at not less than fair market value and with the consent of the owners of the interests, part or all of the interests in—
+  - **(1)** Subject to subsection (b), any Indian tribe may purchase, at not less than fair market value and with the consent of the owners of the interests, part or all of the interests in—
     - **(A)** any tract of trust or restricted land within the boundaries of the reservation of the tribe; or
     - **(B)** land that is otherwise subject to the jurisdiction of the tribe.
   - **(2)**
     - **(A)** The Indian tribe may purchase all interests in a tract described in paragraph (1) with the consent of the owners of undivided interests equal to at least 50 percent of the undivided interest in the tract.
     - **(B)** Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under subparagraph (A) has been met.
-- **(b)** Subsection (a) of this section applies on the condition that—
+- **(b)** Subsection (a) applies on the condition that—
   - **(1)** any Indian owning any undivided interest, and in actual use and possession of such tract for at least three years preceding the tribal initiative, may purchase such tract by matching the tribal offer;
   - **(2)** if at any time within five years following the date of acquisition of such land by an individual pursuant to this section, such property is offered for sale or a petition is filed with the Secretary for removal of the property from trust or restricted status, the tribe shall have 180 days from the date it is notified of such offer or petition to acquire such property by paying to the owner the fair market value as determined by the Secretary; and
   - **(3)** the approval of the Secretary shall be required for a land sale initiated under this section, except that such approval shall not be required with respect to a land sale transaction initiated by an Indian tribe that has in effect a land consolidation plan that has been approved by the Secretary under section 2203 of this title .

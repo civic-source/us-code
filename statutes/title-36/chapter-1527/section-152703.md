@@ -3,9 +3,9 @@ title: "Section 152703 - Purposes"
 usc_title: 36
 usc_section: "152703"
 chapter: 1527
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "36 U.S.C. § 152703"
-generated_at: "2026-03-29T18:06:24.325Z"
+generated_at: "2026-03-29T18:26:09.297Z"
 ---
 
 # § 152703. Purposes

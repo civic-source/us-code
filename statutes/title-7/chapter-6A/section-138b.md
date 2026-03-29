@@ -3,9 +3,9 @@ title: "Section 138b - Accreditation"
 usc_title: 7
 usc_section: "138b"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 138b"
-generated_at: "2026-03-29T18:04:04.748Z"
+generated_at: "2026-03-29T18:23:43.178Z"
 ---
 
 # § 138b. Accreditation

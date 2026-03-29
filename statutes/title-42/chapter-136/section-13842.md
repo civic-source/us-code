@@ -3,15 +3,15 @@ title: "Section 13842 - Emerging community development corporation revolving loa
 usc_title: 42
 usc_section: "13842"
 chapter: 136
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 13842"
-generated_at: "2026-03-29T18:07:15.346Z"
+generated_at: "2026-03-29T18:27:04.136Z"
 ---
 
 # § 13842. Emerging community development corporation revolving loan funds
 
 - **(a)** The Secretary may award grants to emerging community development corporations to enable such corporations to establish, maintain or expand revolving loan funds, to make or guarantee loans, or to make capital investments in new or expanding local businesses.
-- **(b)** To be eligible to receive a grant under subsection (a) of this section, an entity shall—
+- **(b)** To be eligible to receive a grant under subsection (a), an entity shall—
   - **(1)** be a community development corporation;
   - **(2)** have completed not less than one nor more than two community economic development projects or related projects that improve or provide job and employment opportunities to low-income individuals;
   - **(3)** prepare and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a strategic investment plan that identifies and describes the economic characteristics of the target area to be served, the types of business to be assisted using amounts received under the grant and the impact of such assistance on low-income individuals; and

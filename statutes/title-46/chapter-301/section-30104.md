@@ -3,9 +3,9 @@ title: "Section 30104 - Personal injury to or death of seamen"
 usc_title: 46
 usc_section: "30104"
 chapter: 301
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "46 U.S.C. § 30104"
-generated_at: "2026-03-29T18:07:34.372Z"
+generated_at: "2026-03-29T18:27:18.897Z"
 ---
 
 # § 30104. Personal injury to or death of seamen

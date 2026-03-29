@@ -3,9 +3,9 @@ title: "Section 6693 - Failure to provide reports on certain tax-favored account
 usc_title: 26
 usc_section: "6693"
 chapter: 68
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 6693"
-generated_at: "2026-03-29T18:05:45.032Z"
+generated_at: "2026-03-29T18:25:53.951Z"
 ---
 
 # § 6693. Failure to provide reports on certain tax-favored accounts or annuities; penalties relating to designated nondeductible contributions
@@ -16,8 +16,9 @@ generated_at: "2026-03-29T18:05:45.032Z"
     - **(A)** subsections (i) and ( l ) of section 408 (relating to individual retirement plans),
     - **(B)** section 220(h) (relating to Archer MSAs),
     - **(C)** section 223(h) (relating to health savings accounts),
-    - **(D)** section 529(d) (relating to qualified tuition programs), and
-    - **(E)** section 530(h) (relating to Coverdell education savings accounts).
+    - **(D)** section 529(d) (relating to qualified tuition programs),
+    - **(E)** section 529A(d) (relating to qualified ABLE programs), and
+    - **(F)** section 530(h) (relating to Coverdell education savings accounts).
 - **(b)**
   - **(1)** Any individual who—
     - **(A)** is required to furnish information under section 408( o )(4) as to the amount of designated nondeductible contributions made for any taxable year, and

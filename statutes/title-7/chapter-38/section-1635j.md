@@ -3,9 +3,9 @@ title: "Section 1635j - Mandatory reporting for swine"
 usc_title: 7
 usc_section: "1635j"
 chapter: 38
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 1635j"
-generated_at: "2026-03-29T18:04:04.879Z"
+generated_at: "2026-03-29T18:23:43.295Z"
 ---
 
 # § 1635j. Mandatory reporting for swine
@@ -55,7 +55,10 @@ generated_at: "2026-03-29T18:04:04.879Z"
       - **(i)** The Secretary shall publish the information obtained under this paragraph in a prior day report—
         - **(I)** in the case of information regarding barrows and gilts purchased or priced, not later than 8:00 a.m. Central Time, and
         - **(II)** in the case of information regarding barrows and gilts slaughtered, not later than 10:00 a.m. Central Time,
-      - **(ii)** The information published by the Secretary under clause (i) shall include a distribution of net prices in the range between and including the lowest net price and the highest net price reported. The publication shall include a delineation of the number of barrows and gilts at each reported price level or, at the option of the Secretary, the number of barrows and gilts within each of a series of reasonable price bands within the range of prices.
+      - **(ii)** The information published by the Secretary under clause (i) shall include—
+        - **(I)** a distribution of net prices in the range between and including the lowest net price and the highest net price reported;
+        - **(II)** a delineation of the number of barrows and gilts at each reported price level or, at the option of the Secretary, the number of barrows and gilts within each of a series of reasonable price bands within the range of prices; and
+        - **(III)** the total number and weighted average price of barrows and gilts purchased through negotiated purchases and negotiated formula purchases.
   - **(2)**
     - **(A)** The corporate officers or officially designated representatives of each packer processing plant that processes barrows or gilts shall report to the Secretary not later than 10:00 a.m. Central Time each reporting day—
       - **(i)** the packer’s best estimate of the total number of barrows and gilts, and barrows and gilts that qualify as packer-owned swine, expected to be purchased throughout the reporting day through each type of purchase;
@@ -70,6 +73,7 @@ generated_at: "2026-03-29T18:04:04.879Z"
       - **(iii)** the base price paid for all base market hogs purchased up to that time of the reporting day through negotiated purchases; and
       - **(iv)** the base price paid for all base market hogs purchased up to that time of the reporting day through each type of purchase other than negotiated purchase, unless such information is unavailable due to pricing that is determined on a delayed basis.
     - **(B)** The Secretary shall publish the information obtained under this paragraph in the afternoon report as soon as practicable, but not later than 3:00 p.m. Central Time, on each reporting day.
+    - **(C)** The Secretary shall include in the morning report and the afternoon report for the following day any information required to be reported under subparagraph (A) that is obtained after the time of the reporting day specified in that subparagraph.
 - **(d)**
   - **(1)** The corporate officers or officially designated representatives of each packer of sows and boars shall report to the Secretary, for each business day of the packer, such information reported by hog class as the Secretary determines necessary and appropriate to—
     - **(A)** comply with the publication requirements of this section; and

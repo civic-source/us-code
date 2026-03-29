@@ -3,9 +3,9 @@ title: "Section 7511 - Definitions; application"
 usc_title: 5
 usc_section: "7511"
 chapter: 75
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 7511"
-generated_at: "2026-03-29T18:03:29.918Z"
+generated_at: "2026-03-29T18:23:29.929Z"
 ---
 
 # § 7511. Definitions; application
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T18:03:29.918Z"
   - **(1)** “employee” means—
     - **(A)** an individual in the competitive service—
       - **(i)** who is not serving a probationary or trial period under an initial appointment; or
-      - **(ii)** who has completed 1 year of current continuous service under other than a temporary appointment limited to 1 year or less;
+      - **(ii)** except as provided in section 1599e of title 10 , who has completed 1 year of current continuous service under other than a temporary appointment limited to 1 year or less;
     - **(B)** a preference eligible in the excepted service who has completed 1 year of current continuous service in the same or similar positions—
       - **(i)** in an Executive agency; or
       - **(ii)** in the United States Postal Service or Postal Regulatory Commission; and

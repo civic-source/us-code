@@ -3,9 +3,9 @@ title: "Section 760 - Establishment of rearing ponds and fish hatchery in Kentuc
 usc_title: 16
 usc_section: "760"
 chapter: 9
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 760"
-generated_at: "2026-03-29T18:05:06.824Z"
+generated_at: "2026-03-29T18:24:22.704Z"
 ---
 
 # § 760. Establishment of rearing ponds and fish hatchery in Kentucky

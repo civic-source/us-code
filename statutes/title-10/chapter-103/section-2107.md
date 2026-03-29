@@ -3,9 +3,9 @@ title: "Section 2107 - Financial assistance program for specially selected membe
 usc_title: 10
 usc_section: "2107"
 chapter: 103
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2107"
-generated_at: "2026-03-29T18:04:13.115Z"
+generated_at: "2026-03-29T18:23:51.872Z"
 ---
 
 # § 2107. Financial assistance program for specially selected members
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T18:04:13.115Z"
   - **(1)** The Secretary of the military department concerned may provide for the payment of all expenses in his department of administering the financial assistance program under this section, including tuition, fees, books, and laboratory expenses. In the case of a student enrolled in an academic program which has been approved by the Secretary of the military department concerned and which requires more than four academic years for completion of baccalaureate degree requirements, including elective requirements of the Senior Reserve Officers’ Training Corps course, financial assistance under this section may also be provided during a fifth academic year or during a combination of a part of a fifth academic year and summer sessions.
   - **(2)** The Secretary of the military department concerned may provide financial assistance, as described in paragraph (1), to a student enrolled in an advanced education program beyond the baccalaureate degree level if the student also is a cadet or midshipman in an advanced training program. Not more than 15 percent of the total number of scholarships awarded under this section in any year may be awarded under this paragraph.
   - **(3)** In the case of a cadet or midshipman eligible to receive financial assistance under paragraph (1) or (2), the Secretary of the military department concerned may, in lieu of all or part of the financial assistance described in paragraph (1), provide financial assistance in the form of room and board expenses for the cadet or midshipman and other expenses required by the educational institution.
-  - **[(4)** Repealed. Pub. L. 109–163, div. A, title V, § 531(a)(1) , Jan. 6, 2006 , 119 Stat. 3247 .]
+  - **[(4)** Repealed. Pub. L. 109–163, div. A, title V , § 531(a)(1), Jan. 6, 2006 , 119 Stat. 3247 .]
   - **(5)**
     - **(A)** The Secretary of the Army, under regulations and criteria established by the Secretary, may provide an individual who received a commission as a Reserve officer in the Army from a military junior college through a program under this chapter and who does not have a baccalaureate degree with financial assistance for pursuit of a baccalaureate degree.
     - **(B)** Such assistance is in addition to any financial assistance provided under paragraph (1) or (3).

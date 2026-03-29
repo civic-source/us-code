@@ -3,9 +3,9 @@ title: "Section 312 - Inspector General"
 usc_title: 38
 usc_section: "312"
 chapter: 3
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "38 U.S.C. § 312"
-generated_at: "2026-03-29T18:06:22.734Z"
+generated_at: "2026-03-29T18:26:07.540Z"
 ---
 
 # § 312. Inspector General
@@ -14,3 +14,16 @@ generated_at: "2026-03-29T18:06:22.734Z"
 - **(b)**
   - **(1)** The Secretary shall provide for not less than 40 full-time positions in the Office of Inspector General in addition to the number of such positions in that office on March 15, 1989 .
   - **(2)** The President shall include in the budget transmitted to the Congress for each fiscal year pursuant to section 1105 of title 31 an estimate of the amount for the Office of Inspector General that is sufficient to provide for a number of full-time positions in that office that is not less than the number of full-time positions in that office on March 15, 1989 , plus 40.
+- **(c)**
+  - **(1)** Whenever the Inspector General, in carrying out the duties and responsibilities established under the Inspector General Act of 1978 (5 U.S.C. App.), issues a work product the Inspector General shall—
+    - **(A)** submit the work product to—
+      - **(i)** the Secretary;
+      - **(ii)** the Committee on Veterans’ Affairs, the Committee on Homeland Security and Governmental Affairs, and the Committee on Appropriations of the Senate;
+      - **(iii)** the Committee on Veterans’ Affairs, the Committee on Oversight and Government Reform, and the Committee on Appropriations of the House of Representatives;
+      - **(iv)** if the work product was initiated upon request by an individual or entity other than the Inspector General, that individual or entity; and
+      - **(v)** any Member of Congress upon request; and
+    - **(B)** the Inspector General shall submit all final work products to—
+      - **(i)** if the work product was initiated upon request by an individual or entity other than the Inspector General, that individual or entity; and
+      - **(ii)** any Member of Congress upon request; and
+    - **(C)** not later than 3 days after the work product is submitted in final form to the Secretary, post the work product on the Internet website of the Inspector General.
+  - **(2)** Nothing in this subsection shall be construed to authorize the public disclosure of information that is specifically prohibited from disclosure by any other provision of law.

@@ -3,15 +3,15 @@ title: "Section 3512 - Executive agency accounting and other financial managemen
 usc_title: 31
 usc_section: "3512"
 chapter: 35
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "31 U.S.C. § 3512"
-generated_at: "2026-03-29T18:06:08.477Z"
+generated_at: "2026-03-29T18:25:59.170Z"
 ---
 
 # § 3512. Executive agency accounting and other financial management reports and plans
 
 - **(a)**
-  - **(1)** The Director of the Office of Management and Budget shall prepare and submit to the appropriate committees of the Congress a financial management status report and a governmentwide 5-year financial management plan.
+  - **(1)** The Director of the Office of Management and Budget shall prepare and submit to the appropriate committees of the Congress and make available on the website described under section 1122 a financial management status report and a governmentwide 5-year financial management plan.
   - **(2)** A financial management status report under this subsection shall include—
     - **(A)** a description and analysis of the status of financial management in the executive branch;
     - **(B)** a summary of the most recently completed financial statements—

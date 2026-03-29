@@ -3,9 +3,9 @@ title: "Section 974 - Military musical units and musicians: performance policies
 usc_title: 10
 usc_section: "974"
 chapter: 49
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 974"
-generated_at: "2026-03-29T18:04:13.032Z"
+generated_at: "2026-03-29T18:23:51.777Z"
 ---
 
 # § 974. Military musical units and musicians: performance policies; restriction on performance in competition with local civilian musicians
@@ -38,5 +38,9 @@ generated_at: "2026-03-29T18:04:13.032Z"
 - **(c)**
   - **(1)** When authorized under regulations prescribed by the Secretary of Defense for purposes of this section, a military musical unit may produce recordings for distribution to the public, at a cost not to exceed expenses of production and distribution.
   - **(2)** Amounts received in payment for a recording distributed to the public under this subsection shall be credited to the appropriation or account providing the funds for the production of the recording. Any amount so credited shall be merged with amounts in the appropriation or account to which credited, and shall be available for the same purposes, and subject to the same conditions and limitations, as amounts in such appropriation or account.
-- **(d)** Subsection (a) does not apply to a performance outside the United States, its commonwealths, or its possessions.
-- **(e)** In this section, the term “military musical unit” means a band, ensemble, chorus, or similar musical unit of the armed forces.
+- **(d)**
+  - **(1)** The Secretary concerned may accept contributions of money, personal property, or services on the condition that such money, property, or services be used for the benefit of a military musical unit under the jurisdiction of the Secretary.
+  - **(2)** Any contribution of money under paragraph (1) shall be credited to the appropriation or account providing the funds for such military musical unit. Any amount so credited shall be merged with amounts in the appropriation or account to which credited, and shall be available for the same purposes, and subject to the same conditions and limitations, as amounts in such appropriation or account.
+  - **(3)** Not later than January 30 of each year, the Secretary concerned shall submit to Congress a report on any contributions of money, personal property, and services accepted under paragraph (1) during the fiscal year preceding the fiscal year during which the report is submitted.
+- **(e)** Subsection (a) does not apply to a performance outside the United States, its commonwealths, or its possessions.
+- **(f)** In this section, the term “military musical unit” means a band, ensemble, chorus, or similar musical unit of the armed forces.

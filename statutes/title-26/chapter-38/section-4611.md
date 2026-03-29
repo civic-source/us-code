@@ -3,9 +3,9 @@ title: "Section 4611 - Imposition of tax"
 usc_title: 26
 usc_section: "4611"
 chapter: 38
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 4611"
-generated_at: "2026-03-29T18:05:44.895Z"
+generated_at: "2026-03-29T18:25:53.827Z"
 ---
 
 # § 4611. Imposition of tax
@@ -35,9 +35,9 @@ generated_at: "2026-03-29T18:05:44.895Z"
   - **(1)** Except as provided in paragraphs (2) and (3), the Hazardous Substance Superfund financing rate under this section shall apply after December 31, 1986 , and before January 1, 1996 .
   - **(2)** If on December 31, 1993 , or December 31, 1994 —
     - **(A)** the unobligated balance in the Hazardous Substance Superfund exceeds $3,500,000,000, and
-    - **(B)** the Secretary, after consultation with the Administrator of the Environmental Protection Agency, determines that the unobligated balance in the Hazardous Substance Superfund will exceed $3,500,000,000 on December 31 of 1994 or 1995, respectively, if no tax is imposed under section 59A, this section, and sections 4661 and 4671,
+    - **(B)** the Secretary, after consultation with the Administrator of the Environmental Protection Agency, determines that the unobligated balance in the Hazardous Substance Superfund will exceed $3,500,000,000 on December 31 of 1994 or 1995, respectively, if no tax is imposed under this section and sections 4661 and 4671,
   - **(3)**
-    - **(A)** The Secretary as of the close of each calendar quarter (and at such other times as the Secretary determines appropriate) shall make an estimate of the amount of taxes which will be collected under section 59A, this section (to the extent attributable to the Hazardous Substance Superfund financing rate), and sections 4661 and 4671 and credited to the Hazardous Substance Superfund during the period beginning January 1, 1987 , and ending December 31, 1995 .
+    - **(A)** The Secretary as of the close of each calendar quarter (and at such other times as the Secretary determines appropriate) shall make an estimate of the amount of taxes which will be collected under this section (to the extent attributable to the Hazardous Substance Superfund financing rate) and sections 4661 and 4671 and credited to the Hazardous Substance Superfund during the period beginning January 1, 1987 , and ending December 31, 1995 .
     - **(B)** If the Secretary estimates under subparagraph (A) that more than $11,970,000,000 will be credited to the Fund before January 1, 1996 , the Hazardous Substance Superfund financing rate under this section shall not apply after the date on which (as estimated by the Secretary) $11,970,000,000 will be so credited to the Fund.
 - **(f)**
   - **(1)** Except as provided in paragraph (2), the Oil Spill Liability Trust Fund financing rate under subsection (c) shall apply on and after April 1, 2006 , or if later, the date which is 30 days after the last day of any calendar quarter for which the Secretary estimates that, as of the close of that quarter, the unobligated balance in the Oil Spill Liability Trust Fund is less than $2,000,000,000.

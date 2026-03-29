@@ -3,9 +3,9 @@ title: "Section 3435 - Rules of procedure for panels and committees"
 usc_title: 19
 usc_section: "3435"
 chapter: 21
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 3435"
-generated_at: "2026-03-29T18:04:55.142Z"
+generated_at: "2026-03-29T18:24:16.208Z"
 ---
 
 # § 3435. Rules of procedure for panels and committees
@@ -17,5 +17,5 @@ generated_at: "2026-03-29T18:04:55.142Z"
   - **(4)** other appropriate procedural matters.
 - **(b)** The administering authority shall prescribe rules, negotiated in accordance with paragraph 2 of Annex 1904.13, governing the procedures for reviews by extraordinary challenge committees.
 - **(c)** The administering authority shall prescribe rules, negotiated in accordance with Annex 1905.6, governing the procedures for special committees described in such Annex.
-- **(d)** The rules prescribed under subsections (a), (b), and (c) of this section shall be published in the Federal Register.
+- **(d)** The rules prescribed under subsections (a), (b), and (c) shall be published in the Federal Register.
 - **(e)** As used in this section, the term “administering authority” has the meaning given such term in section 1677(1) of this title .

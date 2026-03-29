@@ -3,9 +3,9 @@ title: "Section 2354 - Study by Secretary of Commerce when International Trade C
 usc_title: 19
 usc_section: "2354"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 2354"
-generated_at: "2026-03-29T18:04:55.088Z"
+generated_at: "2026-03-29T18:24:16.160Z"
 ---
 
 # § 2354. Study by Secretary of Commerce when International Trade Commission begins investigation
@@ -13,5 +13,5 @@ generated_at: "2026-03-29T18:04:55.088Z"
 - **(a)** Whenever the Commission begins an investigation under section 2252 of this title with respect to an industry, the Commission shall immediately notify the Secretary of such investigation, and the Secretary shall immediately begin a study of—
   - **(1)** the number of firms in the domestic industry producing the like or directly competitive article which have been or are likely to be certified as eligible for adjustment assistance, and
   - **(2)** the extent to which the orderly adjustment of such firms to the import competition may be facilitated through the use of existing programs.
-- **(b)** The report of the Secretary of the study under subsection (a) of this section shall be made to the President not later than 15 days after the day on which the Commission makes its report under section 2252(f) of this title . Upon making its report to the President, the Secretary shall also promptly make it public (with the exception of information which the Secretary determines to be confidential) and shall have a summary of it published in the Federal Register.
+- **(b)** The report of the Secretary of the study under subsection (a) shall be made to the President not later than 15 days after the day on which the Commission makes its report under section 2252(f) of this title . Upon making its report to the President, the Secretary shall also promptly make it public (with the exception of information which the Secretary determines to be confidential) and shall have a summary of it published in the Federal Register.
 - **(c)** Whenever the Commission makes an affirmative finding under section 2252(b) of this title that increased imports are a substantial cause of serious injury or threat thereof with respect to an industry, the Secretary shall make available, to the extent feasible, full information to the firms in such industry about programs which may facilitate the orderly adjustment to import competition of such firms, and he shall provide assistance in the preparation and processing of petitions and applications of such firms for program benefits.

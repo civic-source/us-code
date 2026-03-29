@@ -3,9 +3,9 @@ title: "Section 8302 - Definitions"
 usc_title: 7
 usc_section: "8302"
 chapter: 109
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 8302"
-generated_at: "2026-03-29T18:04:05.163Z"
+generated_at: "2026-03-29T18:23:43.558Z"
 ---
 
 # § 8302. Definitions
@@ -19,7 +19,7 @@ In this chapter:
   - **(5)** The term “export” means to move from a place within the territorial limits of the United States to a place outside the territorial limits of the United States.
   - **(6)** The term “facility” means any structure.
   - **(7)** The term “import” means to move from a place outside the territorial limits of the United States to a place within the territorial limits of the United States.
-  - **(8)** The term “Indian tribe” has the meaning given the term in section 450b of title 25 .
+  - **(8)** The term “Indian tribe” has the meaning given the term in section 5304 of title 25 .
   - **(9)** The term “interstate commerce” means trade, traffic, or other commerce—
     - **(A)** between a place in a State and a place in another State, or between places within the same State but through any place outside that State; or
     - **(B)** within the District of Columbia or any territory or possession of the United States.

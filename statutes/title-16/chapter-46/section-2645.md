@@ -3,9 +3,9 @@ title: "Section 2645 - Utility regulatory institute"
 usc_title: 16
 usc_section: "2645"
 chapter: 46
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 2645"
-generated_at: "2026-03-29T18:05:07.008Z"
+generated_at: "2026-03-29T18:24:22.859Z"
 ---
 
 # § 2645. Utility regulatory institute
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T18:05:07.008Z"
   - **(1)** conduct research on electric and gas utility regulatory policy issues,
   - **(2)** develop data processing and retrieval methods for electric and gas utility ratemaking, and
   - **(3)** perform other functions directly related to assisting State regulatory authorities in carrying out their functions under State law and this Act.
-- **(b)** Grants under this section shall not be used to provide more than the following percentages of the cost to the institute of carrying out the activities specified in subsection (a) of this section:
+- **(b)** Grants under this section shall not be used to provide more than the following percentages of the cost to the institute of carrying out the activities specified in subsection (a):
   - **(1)** 80 percent for the fiscal year 1979; and
   - **(2)** 60 percent for the fiscal year 1980.
 - **(c)** Grants under this section may not be made subject to terms and conditions other than those the Secretary deems necessary for purposes of administering this section and for purposes of assuring that—

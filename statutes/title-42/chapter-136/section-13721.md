@@ -3,9 +3,9 @@ title: "Section 13721 - Task force on prison construction standardization and te
 usc_title: 42
 usc_section: "13721"
 chapter: 136
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 13721"
-generated_at: "2026-03-29T18:07:15.338Z"
+generated_at: "2026-03-29T18:27:04.132Z"
 ---
 
 # § 13721. Task force on prison construction standardization and techniques
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T18:07:15.338Z"
 - **(c)** The task force shall work to—
   - **(1)** establish and recommend standardized construction plans and techniques for prison and prison component construction; and
   - **(2)** evaluate and recommend new construction technologies, techniques, and materials,
-- **(d)** The task force shall disseminate information described in subsection (c) of this section to State and local officials involved in prison construction, through written reports and meetings.
+- **(d)** The task force shall disseminate information described in subsection (c) to State and local officials involved in prison construction, through written reports and meetings.
 - **(e)** The task force shall—
   - **(1)** work to promote the implementation of cost-saving efforts at the Federal, State, and local levels;
   - **(2)** evaluate and advise on the results and effectiveness of such cost-saving efforts as adopted, broadly disseminating information on the results; and

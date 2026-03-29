@@ -3,9 +3,9 @@ title: "Section 1465ff - Definitions"
 usc_title: 22
 usc_section: "1465ff"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 1465ff"
-generated_at: "2026-03-29T18:05:21.774Z"
+generated_at: "2026-03-29T18:24:54.152Z"
 ---
 
 # § 1465ff. Definitions

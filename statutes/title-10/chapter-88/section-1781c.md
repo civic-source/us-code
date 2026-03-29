@@ -3,9 +3,9 @@ title: "Section 1781c - Office of Community Support for Military Families With S
 usc_title: 10
 usc_section: "1781c"
 chapter: 88
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 1781c"
-generated_at: "2026-03-29T18:04:13.107Z"
+generated_at: "2026-03-29T18:23:51.865Z"
 ---
 
 # § 1781c. Office of Community Support for Military Families With Special Needs

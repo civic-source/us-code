@@ -3,16 +3,16 @@ title: "Section 2301 - Merit system principles"
 usc_title: 5
 usc_section: "2301"
 chapter: 23
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 2301"
-generated_at: "2026-03-29T18:03:29.841Z"
+generated_at: "2026-03-29T18:23:29.868Z"
 ---
 
 # § 2301. Merit system principles
 
 - **(a)** This section shall apply to—
   - **(1)** an Executive agency; and
-  - **(2)** the Government Printing Office.
+  - **(2)** the Government Publishing Office.
 - **(b)** Federal personnel management should be implemented consistent with the following merit system principles:
   - **(1)** Recruitment should be from qualified individuals from appropriate sources in an endeavor to achieve a work force from all segments of society, and selection and advancement should be determined solely on the basis of relative ability, knowledge, and skills, after fair and open competition which assures that all receive equal opportunity.
   - **(2)** All employees and applicants for employment should receive fair and equitable treatment in all aspects of personnel management without regard to political affiliation, race, color, religion, national origin, sex, marital status, age, or handicapping condition, and with proper regard for their privacy and constitutional rights.

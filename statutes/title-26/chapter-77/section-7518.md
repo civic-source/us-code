@@ -3,9 +3,9 @@ title: "Section 7518 - Tax incentives relating to merchant marine capital constr
 usc_title: 26
 usc_section: "7518"
 chapter: 77
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 7518"
-generated_at: "2026-03-29T18:05:45.059Z"
+generated_at: "2026-03-29T18:25:53.977Z"
 ---
 
 # § 7518. Tax incentives relating to merchant marine capital construction funds
@@ -82,11 +82,9 @@ generated_at: "2026-03-29T18:05:45.059Z"
       - **(i)** no interest shall be payable under section 6601 and no addition to the tax shall be payable under section 6651,
       - **(ii)** interest on the amount of the additional tax attributable to any item referred to in subparagraph (A) or (B) shall be paid at the applicable rate (as defined in paragraph (4)) from the last date prescribed for payment of the tax for the taxable year for which such item was deposited in the fund, and
       - **(iii)** no interest shall be payable on amounts referred to in clauses (i) and (ii) of paragraph (2) or in the case of any nonqualified withdrawal arising from the application of the recapture provision of section 606(5) of the Merchant Marine Act, 1936, as in effect on December 31, 1969 .
-  - **(4)** For purposes of paragraph (3)(C)(ii), the applicable rate of interest for any nonqualified withdrawal—
-    - **(A)** made in a taxable year beginning in 1970 or 1971 is 8 percent, or
-    - **(B)** made in a taxable year beginning after 1971, shall be determined and published jointly by the Secretary of the Treasury or his delegate and the applicable Secretary and shall bear a relationship to 8 percent which the Secretaries determine under joint regulations to be comparable to the relationship which the money rates and investment yields for the calendar year immediately preceding the beginning of the taxable year bear to the money rates and investment yields for the calendar year 1970.
+  - **(4)** For purposes of paragraph (3)(C)(ii), the applicable rate of interest for any nonqualified withdrawal shall be determined and published jointly by the Secretary of the Treasury or his delegate and the applicable Secretary and shall bear a relationship to 8 percent which the Secretaries determine under joint regulations to be comparable to the relationship which the money rates and investment yields for the calendar year immediately preceding the beginning of the taxable year bear to the money rates and investment yields for the calendar year 1970.
   - **(5)**
-    - **(A)** The applicable percentage of any amount which remains in a capital construction fund at the close of the 26th, 27th, 28th, 29th, or 30th taxable year following the taxable year for which such amount was deposited shall be treated as a nonqualified withdrawal in accordance with the following table: If the amount remains in the fund The applicable at the close of the— percentage is— 26th taxable year 20 percent 27th taxable year 40 percent 28th taxable year 60 percent 29th taxable year 80 percent 30th taxable year 100 percent.
+    - **(A)** The applicable percentage of any amount which remains in a capital construction fund at the close of the 26th, 27th, 28th, 29th, or 30th taxable year following the taxable year for which such amount was deposited shall be treated as a nonqualified withdrawal in accordance with the following table: If the amount remains in the fund at the close of the— The applicable percentage is— 26th taxable year 20 percent 27th taxable year 40 percent 28th taxable year 60 percent 29th taxable year 80 percent 30th taxable year 100 percent.
     - **(B)** The earnings of any capital construction fund for any taxable year (other than net gains) shall be treated for purposes of this paragraph as an amount deposited for such taxable year.
     - **(C)** For purposes of subparagraph (A), an amount shall not be treated as remaining in a capital construction fund at the close of any taxable year to the extent there is a binding contract at the close of such year for a qualified withdrawal of such amount with respect to an identified item for which such withdrawal may be made.
     - **(D)** If the Secretary determines that the balance in any capital construction fund exceeds the amount which is appropriate to meet the vessel construction program objectives of the person who established such fund, the amount of such excess shall be treated as a nonqualified withdrawal under subparagraph (A) unless such person develops appropriate program objectives within 3 years to dissipate such excess.

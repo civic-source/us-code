@@ -3,9 +3,9 @@ title: "Section 823a - Conduit hydroelectric facilities"
 usc_title: 16
 usc_section: "823a"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 823a"
-generated_at: "2026-03-29T18:05:06.838Z"
+generated_at: "2026-03-29T18:24:22.714Z"
 ---
 
 # § 823a. Conduit hydroelectric facilities
@@ -30,8 +30,8 @@ generated_at: "2026-03-29T18:05:06.838Z"
 - **(b)** Subject to subsection (c), the Commission may grant an exemption in whole or in part from the requirements of this subchapter, including any license requirements contained in this subchapter, to any facility (not including any dam or other impoundment) constructed, operated, or maintained for the generation of electric power which the Commission determines, by rule or order—
   - **(1)** utilizes for such generation only the hydroelectric potential of a conduit; and
   - **(2)** has an installed capacity that does not exceed 40 megawatts.
-- **(c)** In making the determination under subsection (b) of this section the Commission shall consult with the United States Fish and Wildlife Service 1 1 So in original. Probably should be followed by a comma. National Marine Fisheries Service 1 and the State agency exercising administration over the fish and wildlife resources of the State in which the facility is or will be located, in the manner provided by the Fish and Wildlife Coordination Act ( 16 U.S.C. 661 , et seq.), and shall include in any such exemption—
+- **(c)** In making the determination under subsection (b) the Commission shall consult with the United States Fish and Wildlife Service 1 1 So in original. Probably should be followed by a comma. National Marine Fisheries Service 1 and the State agency exercising administration over the fish and wildlife resources of the State in which the facility is or will be located, in the manner provided by the Fish and Wildlife Coordination Act ( 16 U.S.C. 661 , et seq.), and shall include in any such exemption—
   - **(1)** such terms and conditions as the Fish and Wildlife Service 1 National Marine Fisheries Service 1 and the State agency each determine are appropriate to prevent loss of, or damage to, such resources and to otherwise carry out the purposes of such Act, and
   - **(2)** such terms and conditions as the Commission deems appropriate to insure that such facility continues to comply with the provisions of this section and terms and conditions included in any such exemption.
-- **(d)** Any violation of a term or condition of any exemption granted under subsection (b) of this section shall be treated as a violation of a rule or order of the Commission under this chapter.
-- **(e)** The Commission, in addition to the requirements of section 803(e) of this title , shall establish fees which shall be paid by an applicant for a license or exemption for a project that is required to meet terms and conditions set by fish and wildlife agencies under subsection (c) of this section. Such fees shall be adequate to reimburse the fish and wildlife agencies referred to in subsection (c) of this section for any reasonable costs incurred in connection with any studies or other reviews carried out by such agencies for purposes of compliance with this section. The fees shall, subject to annual appropriations Acts, be transferred to such agencies by the Commission for use solely for purposes of carrying out such studies and shall remain available until expended.
+- **(d)** Any violation of a term or condition of any exemption granted under subsection (b) shall be treated as a violation of a rule or order of the Commission under this chapter.
+- **(e)** The Commission, in addition to the requirements of section 803(e) of this title , shall establish fees which shall be paid by an applicant for a license or exemption for a project that is required to meet terms and conditions set by fish and wildlife agencies under subsection (c). Such fees shall be adequate to reimburse the fish and wildlife agencies referred to in subsection (c) for any reasonable costs incurred in connection with any studies or other reviews carried out by such agencies for purposes of compliance with this section. The fees shall, subject to annual appropriations Acts, be transferred to such agencies by the Commission for use solely for purposes of carrying out such studies and shall remain available until expended.

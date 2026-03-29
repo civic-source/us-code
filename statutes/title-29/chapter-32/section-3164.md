@@ -3,9 +3,9 @@ title: "Section 3164 - Use of funds for youth workforce investment activities"
 usc_title: 29
 usc_section: "3164"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 3164"
-generated_at: "2026-03-29T02:14:09.514Z"
+generated_at: "2026-03-29T18:25:43.151Z"
 ---
 
 # § 3164. Use of funds for youth workforce investment activities
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T02:14:09.514Z"
         - **(II)** A youth who is within the age of compulsory school attendance, but has not attended school for at least the most recent complete school year calendar quarter.
         - **(III)** A recipient of a secondary school diploma or its recognized equivalent who is a low-income individual and is—
         - **(IV)** An individual who is subject to the juvenile or adult justice system.
-        - **(V)** A homeless individual (as defined in section 12473(6) of title 34 ), a homeless child or youth (as defined in section 11434a(2) of title 42 ), a runaway, in foster care or has 1 1 So in original. Probably should be preceded by “who”. aged out of the foster care system, a child eligible for assistance under section 677 of title 42 , or in an out-of-home placement.
+        - **(V)** A homeless individual (as defined in section 14043e–2(6) of title 42 ), a homeless child or youth (as defined in section 11434a(2) of title 42 ), a runaway, in foster care or has 1 1 So in original. Probably should be preceded by “who”. aged out of the foster care system, a child eligible for assistance under section 677 of title 42 , or in an out-of-home placement.
         - **(VI)** An individual who is pregnant or parenting.
         - **(VII)** A youth who is an individual with a disability.
         - **(VIII)** A low-income individual who requires additional assistance to enter or complete an educational program or to secure or hold employment.
@@ -33,7 +33,7 @@ generated_at: "2026-03-29T02:14:09.514Z"
         - **(I)** Basic skills deficient.
         - **(II)** An English language learner.
         - **(III)** An offender.
-        - **(IV)** A homeless individual (as defined in section 12473(6) of title 34 ), a homeless child or youth (as defined in section 11434a(2) of title 42 ), a runaway, in foster care or has 1 aged out of the foster care system, a child eligible for assistance under section 677 of title 42 , or in an out-of-home placement.
+        - **(IV)** A homeless individual (as defined in section 14043e–2(6) of title 42 ), a homeless child or youth (as defined in section 11434a(2) of title 42 ), a runaway, in foster care or has 1 aged out of the foster care system, a child eligible for assistance under section 677 of title 42 , or in an out-of-home placement.
         - **(V)** Pregnant or parenting.
         - **(VI)** A youth who is an individual with a disability.
         - **(VII)** An individual who requires additional assistance to complete an educational program or to secure or hold employment.

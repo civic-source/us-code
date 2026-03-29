@@ -3,9 +3,9 @@ title: "Section 6699 - Failure to file S corporation return"
 usc_title: 26
 usc_section: "6699"
 chapter: 68
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 6699"
-generated_at: "2026-03-29T18:05:45.033Z"
+generated_at: "2026-03-29T18:25:53.952Z"
 ---
 
 # § 6699. Failure to file S corporation return
@@ -18,3 +18,6 @@ generated_at: "2026-03-29T18:05:45.033Z"
   - **(2)** the number of persons who were shareholders in the S corporation during any part of the taxable year.
 - **(c)** The penalty imposed by subsection (a) shall be assessed against the S corporation.
 - **(d)** Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, and certain excise taxes) shall not apply in respect of the assessment or collection of any penalty imposed by subsection (a).
+- **(e)**
+  - **(1)** In the case of any return required to be filed in a calendar year beginning after 2014, the $195 dollar amount under subsection (b)(1) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting “calendar year 2013” for “calendar year 1992” in subparagraph (B) thereof.
+  - **(2)** If any amount adjusted under paragraph (1) is not a multiple of $5, such amount shall be rounded to the next lowest multiple of $5.

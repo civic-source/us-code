@@ -3,9 +3,9 @@ title: "Section 303 - Federal Acquisition Service"
 usc_title: 40
 usc_section: "303"
 chapter: 3
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "40 U.S.C. § 303"
-generated_at: "2026-03-29T18:06:19.945Z"
+generated_at: "2026-03-29T18:26:04.551Z"
 ---
 
 # § 303. Federal Acquisition Service

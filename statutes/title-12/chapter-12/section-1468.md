@@ -3,9 +3,9 @@ title: "Section 1468 - Transactions with affiliates; extensions of credit to exe
 usc_title: 12
 usc_section: "1468"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 1468"
-generated_at: "2026-03-29T18:04:43.452Z"
+generated_at: "2026-03-29T18:24:02.797Z"
 ---
 
 # § 1468. Transactions with affiliates; extensions of credit to executive officers, directors, and principal shareholders

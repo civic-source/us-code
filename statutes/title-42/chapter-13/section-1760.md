@@ -3,9 +3,9 @@ title: "Section 1760 - Miscellaneous provisions"
 usc_title: 42
 usc_section: "1760"
 chapter: 13
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1760"
-generated_at: "2026-03-29T18:07:14.295Z"
+generated_at: "2026-03-29T18:27:03.352Z"
 ---
 
 # § 1760. Miscellaneous provisions
@@ -94,7 +94,7 @@ generated_at: "2026-03-29T18:07:14.295Z"
     - **(C)** a family or group day care home sponsoring organization described in section 1766 of this title .
 - **(m)**
   - **(1)** Subject to the availability of funds made available under paragraph (4), the Secretary shall provide technical assistance and training to States, State agencies, schools, and school food authorities in the procurement of goods and services for programs under this chapter or the Child Nutrition Act of 1966 ( 42 U.S.C. 1771 et seq.) (other than section 17 of that Act ( 42 U.S.C. 1786 )).
-  - **(2)** Activities carried out under paragraph (1) shall include technical assistance and training to ensure compliance with subsection (n) of this section.
+  - **(2)** Activities carried out under paragraph (1) shall include technical assistance and training to ensure compliance with subsection (n).
   - **(3)** Activities carried out under paragraph (1) shall include technical assistance and training on procuring safe foods, including the use of model specifications for procuring safe foods.
   - **(4)** There is authorized to be appropriated to carry out this subsection $1,000,000 for each of fiscal years 2010 through 2015, to remain available until expended.
 - **(n)**

@@ -3,9 +3,9 @@ title: "Section 390d - Dams and reservoirs wherein costs thereof, or rights ther
 usc_title: 43
 usc_section: "390d"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 390d"
-generated_at: "2026-03-29T18:06:28.265Z"
+generated_at: "2026-03-29T18:26:14.789Z"
 ---
 
 # § 390d. Dams and reservoirs wherein costs thereof, or rights thereto, have been acquired by local interests

@@ -3,9 +3,9 @@ title: "Section 7528 - Internal Revenue Service user fees"
 usc_title: 26
 usc_section: "7528"
 chapter: 77
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 7528"
-generated_at: "2026-03-29T18:05:45.062Z"
+generated_at: "2026-03-29T18:25:53.980Z"
 ---
 
 # § 7528. Internal Revenue Service user fees
@@ -30,3 +30,4 @@ generated_at: "2026-03-29T18:05:45.062Z"
       - **(ii)** The term “eligible employer” means an eligible employer (as defined in section 408(p)(2)(C)(i)(I)) which has at least 1 employee who is not a highly compensated employee (as defined in section 414(q)) and is participating in the plan. The determination of whether an employer is an eligible employer under subparagraph (B) shall be made as of the date of the request described in such subparagraph.
       - **(iii)** For purposes of any determination of average fees charged, any request to which subparagraph (B) applies shall not be taken into account.
   - **(3)** The average fee charged under the program required by subsection (a) shall not be less than the amount determined under the following table: Average Category Fee Employee plan ruling and opinion $250 Exempt organization ruling $350 Employee plan determination $300 Exempt organization determination $275 Chief counsel ruling $200.
+  - **(4)** The fee charged under the program in connection with the certification by the Secretary of a professional employer organization under section 7705 shall be an annual fee not to exceed $1,000 per year.

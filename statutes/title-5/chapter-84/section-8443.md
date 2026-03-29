@@ -3,9 +3,9 @@ title: "Section 8443 - Rights of a child"
 usc_title: 5
 usc_section: "8443"
 chapter: 84
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 8443"
-generated_at: "2026-03-29T18:03:29.962Z"
+generated_at: "2026-03-29T18:23:29.965Z"
 ---
 
 # § 8443. Rights of a child

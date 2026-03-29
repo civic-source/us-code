@@ -3,9 +3,9 @@ title: "Section 12572 - National service programs eligible for program assistanc
 usc_title: 42
 usc_section: "12572"
 chapter: 129
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 12572"
-generated_at: "2026-03-29T18:07:15.239Z"
+generated_at: "2026-03-29T18:27:04.057Z"
 ---
 
 # § 12572. National service programs eligible for program assistance
@@ -32,7 +32,7 @@ generated_at: "2026-03-29T18:07:15.239Z"
     - **(C)** The indicators for a corps program described in this paragraph are—
       - **(i)** student engagement, including student attendance and student behavior;
       - **(ii)** student academic achievement;
-      - **(iii)** secondary school graduation rates as defined in section 6311(b)(2)(C)(vi) of title 20 and as clarified in applicable regulations promulgated by the Department of Education;
+      - **(iii)** four-year adjusted cohort graduation rate (as defined in section 7801 of title 20 );
       - **(iv)** rate of college enrollment and continued college enrollment for recipients of a high school diploma;
       - **(v)** any additional indicator relating to improving education for students that the Corporation, in consultation (as appropriate) with the Secretary of Education, establishes; or
       - **(vi)** any additional local indicator (applicable to a particular recipient and on which an improvement in performance is needed) relating to improving education for students, that is approved by the Corporation or a State Commission.
@@ -167,7 +167,7 @@ generated_at: "2026-03-29T18:07:15.239Z"
       - **(i)** recruits individuals with special skills or provides specialized preservice training to enable participants to be placed individually or in teams in positions in which the participants can meet such unmet needs; and
       - **(ii)** if consistent with the purposes of the program, brings participants together for additional training and other activities designed to foster civic responsibility, increase the skills of participants, and improve the quality of the service provided.
     - **(C)** A campus-based program that is designed to provide substantial service in a community during the school term and during summer or other vacation periods through the use of—
-      - **(i)** students who are attending an institution of higher education, including students participating in a work-study program assisted under part C of title IV of the Higher Education Act of 1965 ( 42 U.S.C. 2751 et seq.);
+      - **(i)** students who are attending an institution of higher education, including students participating in a work-study program assisted under part C of title IV of the Higher Education Act of 1965 ( 42 U.S.C. 2751 et seq.); 1 1 See References in Text note below.
       - **(ii)** teams composed of students described in clause (i); or
       - **(iii)** teams composed of a combination of such students and community residents.
     - **(D)** A professional corps program that recruits and places qualified participants in positions—

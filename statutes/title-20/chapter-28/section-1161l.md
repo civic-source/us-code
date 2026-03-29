@@ -3,9 +3,9 @@ title: "Section 1161l - Student safety and campus emergency management"
 usc_title: 20
 usc_section: "1161l"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1161l"
-generated_at: "2026-03-29T18:05:00.186Z"
+generated_at: "2026-03-29T18:24:41.025Z"
 ---
 
 # § 1161l. Student safety and campus emergency management

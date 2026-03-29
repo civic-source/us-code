@@ -3,9 +3,9 @@ title: "Section 11021 - Material safety data sheets"
 usc_title: 42
 usc_section: "11021"
 chapter: 116
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 11021"
-generated_at: "2026-03-29T18:07:15.165Z"
+generated_at: "2026-03-29T18:27:04.006Z"
 ---
 
 # § 11021. Material safety data sheets
@@ -26,13 +26,13 @@ generated_at: "2026-03-29T18:07:15.165Z"
     - **(B)** Submitting a material safety data sheet for, or identifying on a list, the mixture itself.
 - **(b)** The Administrator may establish threshold quantities for hazardous chemicals below which no facility shall be subject to the provisions of this section. The threshold quantities may, in the Administrator’s discretion, be based on classes of chemicals or categories of facilities.
 - **(c)**
-  - **(1)** If an owner or operator of a facility submits a list of chemicals under subsection (a)(1) of this section, the owner or operator, upon request by the local emergency planning committee, shall submit the material safety data sheet for any chemical on the list to such committee.
+  - **(1)** If an owner or operator of a facility submits a list of chemicals under subsection (a)(1), the owner or operator, upon request by the local emergency planning committee, shall submit the material safety data sheet for any chemical on the list to such committee.
   - **(2)** A local emergency planning committee, upon request by any person, shall make available a material safety data sheet to the person in accordance with section 11044 of this title . If the local emergency planning committee does not have the requested material safety data sheet, the committee shall request the sheet from the facility owner or operator and then make the sheet available to the person in accordance with section 11044 of this title .
 - **(d)**
   - **(1)** The initial material safety data sheet or list required under this section with respect to a hazardous chemical shall be provided before the later of—
     - **(A)** 12 months after October 17, 1986 , or
     - **(B)** 3 months after the owner or operator of a facility is required to prepare or have available a material safety data sheet for the chemical under the Occupational Safety and Health Act of 1970 [ 29 U.S.C. 651 et seq.] and regulations promulgated under that Act.
-  - **(2)** Within 3 months following discovery by an owner or operator of significant new information concerning an aspect of a hazardous chemical for which a material safety data sheet was previously submitted to the local emergency planning committee under subsection (a) of this section, a revised sheet shall be provided to such person.
+  - **(2)** Within 3 months following discovery by an owner or operator of significant new information concerning an aspect of a hazardous chemical for which a material safety data sheet was previously submitted to the local emergency planning committee under subsection (a), a revised sheet shall be provided to such person.
 - **(e)** For purposes of this section, the term “hazardous chemical” has the meaning given such term by section 1910.1200(c) of title 29 of the Code of Federal Regulations, except that such term does not include the following:
   - **(1)** Any food, food additive, color additive, drug, or cosmetic regulated by the Food and Drug Administration.
   - **(2)** Any substance present as a solid in any manufactured item to the extent exposure to the substance does not occur under normal conditions of use.

@@ -3,9 +3,9 @@ title: "Section 390a - Review process"
 usc_title: 7
 usc_section: "390a"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 390a"
-generated_at: "2026-03-29T18:04:04.766Z"
+generated_at: "2026-03-29T18:23:43.195Z"
 ---
 
 # § 390a. Review process
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T18:04:04.766Z"
 - **(a)** Each proposal for an agricultural research facility shall be submitted to the Secretary for review. The Secretary shall review the proposals in the order in which the proposals are received.
 - **(b)** In consultation with the congressional agriculture committees, the Secretary shall establish an application process for the submission of proposals for agricultural research facilities.
 - **(c)**
-  - **(1)** With respect to each proposal for an agricultural research facility submitted under subsection (a) of this section, the Secretary shall determine whether the proposal meets the criteria set forth in paragraph (2).
+  - **(1)** With respect to each proposal for an agricultural research facility submitted under subsection (a), the Secretary shall determine whether the proposal meets the criteria set forth in paragraph (2).
   - **(2)** A proposal for an agricultural research facility shall meet the following criteria:
     - **(A)** The proposal shall certify the availability of at least a 50 percent non-Federal share of the cost of the facility. The non-Federal share shall be paid in cash and may include funding from private sources or from units of State or local government.
     - **(B)** The proposal shall demonstrate how the agricultural research facility would be complementary to, and not duplicative of, facilities of colleges, universities, and nonprofit institutions, and facilities of the Agricultural Research Service, within the State and region.
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T18:04:04.766Z"
     - **(D)** The proposal shall demonstrate that the recipient college, university, or nonprofit institution has the ability and commitment to support the long-term, ongoing operating costs of—
       - **(i)** the agricultural research facility after the facility is completed; and
       - **(ii)** each program to be based at the facility.
-- **(d)** Not later than 90 days after receiving a proposal under subsection (a) of this section, the Secretary shall—
-  - **(1)** evaluate and assess the merits of the proposal, including the extent to which the proposal meets the criteria set forth in subsection (c) of this section; and
+- **(d)** Not later than 90 days after receiving a proposal under subsection (a), the Secretary shall—
+  - **(1)** evaluate and assess the merits of the proposal, including the extent to which the proposal meets the criteria set forth in subsection (c); and
   - **(2)** report to the congressional agriculture committees on the results of the evaluation and assessment.
 - **(e)** The Secretary shall ensure that each research activity conducted by a facility of the Agricultural Research Service serves a national or multistate need.

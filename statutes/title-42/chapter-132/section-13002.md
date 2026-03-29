@@ -3,15 +3,16 @@ title: "Section 13002 - Local children’s advocacy centers"
 usc_title: 42
 usc_section: "13002"
 chapter: 132
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 13002"
-generated_at: "2026-03-29T18:07:15.297Z"
+generated_at: "2026-03-29T18:27:04.101Z"
 ---
 
 # § 13002. Local children’s advocacy centers
 
 - **(a)** The Administrator, in coordination with the Director and with the Director of the Office of Victims of Crime, shall make grants to develop and implement multidisciplinary child abuse investigation and prosecution programs.
-- **(b)**
+- **(b)** The Administrator, in coordination with the Director and with the Director of the Office of Victims of Crime, may make grants to develop and implement specialized programs to identify and provide direct services to victims of child pornography.
+- **(c)**
   - **(1)** The Director shall establish the criteria to be used in evaluating applications for grants under this section consistent with sections 5673 and 5676 of this title.
   - **(2)** In general, the grant criteria established pursuant to paragraph (1) may require that a program include any of the following elements:
     - **(A)** A written agreement between local law enforcement, social service, health, and other related agencies to coordinate child abuse investigation, prosecution, treatment, and counseling services.
@@ -24,5 +25,5 @@ generated_at: "2026-03-29T18:07:15.297Z"
     - **(H)** Designation of a director for the multidisciplinary program.
     - **(I)** Assignment of a volunteer or staff advocate to each child in order to assist the child and, when appropriate, the child’s family, throughout each step of judicial proceedings.
     - **(J)** Such other criteria as the Director shall establish by regulation.
-- **(c)** In awarding grants under this section, the Director shall ensure that grants are distributed to both large and small States and to rural, suburban, and urban jurisdictions.
-- **(d)** A grant recipient under this section shall consult from time to time with regional children’s advocacy centers in its census region that are grant recipients under section 13001b of this title .
+- **(d)** In awarding grants under this section, the Director shall ensure that grants are distributed to both large and small States and to rural, suburban, and urban jurisdictions.
+- **(e)** A grant recipient under this section shall consult from time to time with regional children’s advocacy centers in its census region that are grant recipients under section 13001b of this title .

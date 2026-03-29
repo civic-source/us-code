@@ -1,12 +1,12 @@
 ---
-title: "Section 5146 - Repealed. Pub. L. 100–707, title I, § 105(d) , Nov. 23, 1988 , 102 Stat. 4691"
+title: "Section 5146 - Repealed. Pub. L. 100–707, title I , § 105(d), Nov. 23, 1988 , 102 Stat. 4691"
 usc_title: 42
 usc_section: "5146"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 5146"
-generated_at: "2026-03-29T02:15:36.745Z"
+generated_at: "2026-03-29T18:27:03.617Z"
 ---
 
-# §§ 5145, 5146. Repealed. Pub. L. 100–707, title I, § 105(d) , Nov. 23, 1988 , 102 Stat. 4691
+# §§ 5145, 5146. Repealed. Pub. L. 100–707, title I , § 105(d), Nov. 23, 1988 , 102 Stat. 4691
 

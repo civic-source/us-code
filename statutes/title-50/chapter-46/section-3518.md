@@ -3,18 +3,18 @@ title: "Section 3518 - Special annuity computation rules for certain employees�
 usc_title: 50
 usc_section: "3518"
 chapter: 46
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 3518"
-generated_at: "2026-03-29T18:07:43.142Z"
+generated_at: "2026-03-29T18:27:35.701Z"
 ---
 
 # § 3518. Special annuity computation rules for certain employees’ service abroad
 
-- **(a)** Notwithstanding any provision of chapter 83 of title 5, the annuity under subchapter III of such chapter of an officer or employee of the Central Intelligence Agency who retires on or after October 1, 1989 , is not designated under section 2013 of this title , and has served abroad as an officer or employee of the Agency on or after January 1, 1987 , shall be computed as provided in subsection (b) of this section.
+- **(a)** Notwithstanding any provision of chapter 83 of title 5, the annuity under subchapter III of such chapter of an officer or employee of the Central Intelligence Agency who retires on or after October 1, 1989 , is not designated under section 2013 of this title , and has served abroad as an officer or employee of the Agency on or after January 1, 1987 , shall be computed as provided in subsection (b).
 - **(b)**
   - **(1)** The portion of the annuity relating to such service abroad that is actually performed at any time during the officer’s or employee’s first ten years of total service shall be computed at the rate and using the percent of average pay specified in section 8339(a)(3) of title 5 that is normally applicable only to so much of an employee’s total service as exceeds ten years.
-  - **(2)** The portion of the annuity relating to service abroad as described in subsection (a) of this section but that is actually performed at any time after the officer’s or employee’s first ten years of total service shall be computed as provided in section 8339(a)(3) of title 5 ; but, in addition, the officer or employee shall be deemed for annuity computation purposes to have actually performed an equivalent period of service abroad during his or her first ten years of total service, and in calculating the portion of the officer’s or employee’s annuity for his or her first ten years of total service, the computation rate and percent of average pay specified in paragraph (1) shall also be applied to the period of such deemed or equivalent service abroad.
-  - **(3)** The portion of the annuity relating to other service by an officer or employee as described in subsection (a) of this section shall be computed as provided in the provisions of section 8339(a) of title 5 that would otherwise be applicable to such service.
+  - **(2)** The portion of the annuity relating to service abroad as described in subsection (a) but that is actually performed at any time after the officer’s or employee’s first ten years of total service shall be computed as provided in section 8339(a)(3) of title 5 ; but, in addition, the officer or employee shall be deemed for annuity computation purposes to have actually performed an equivalent period of service abroad during his or her first ten years of total service, and in calculating the portion of the officer’s or employee’s annuity for his or her first ten years of total service, the computation rate and percent of average pay specified in paragraph (1) shall also be applied to the period of such deemed or equivalent service abroad.
+  - **(3)** The portion of the annuity relating to other service by an officer or employee as described in subsection (a) shall be computed as provided in the provisions of section 8339(a) of title 5 that would otherwise be applicable to such service.
   - **(4)** For purposes of this subsection, the term “total service” has the meaning given such term under chapter 83 of title 5.
 - **(c)** For purposes of subsections (f) through (m) of section 8339 of title 5 , an annuity computed under this section shall be deemed to be an annuity computed under subsections (a) and ( o ) 1 1 See References in Text note below. of section 8339 of title 5 .
 - **(d)** The provisions of subsection (a) of this section shall not apply to an officer or employee of the Central Intelligence Agency who would otherwise be entitled to a greater annuity computed under an otherwise applicable subsection of section 8339 of title 5 .

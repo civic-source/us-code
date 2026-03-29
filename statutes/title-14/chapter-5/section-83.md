@@ -3,12 +3,12 @@ title: "Section 83 - Unauthorized aids to maritime navigation; penalty"
 usc_title: 14
 usc_section: "83"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "14 U.S.C. § 83"
-generated_at: "2026-03-29T18:04:21.479Z"
+generated_at: "2026-03-29T18:23:55.765Z"
 ---
 
 # § 83. Unauthorized aids to maritime navigation; penalty
 
-No person, or public body, or instrumentality, excluding the armed services, shall establish, erect, or maintain any aid to maritime navigation in or adjacent to the waters subject to the jurisdiction of the United States, its territories or possessions, or the Trust Territory of the Pacific Islands, or on the high seas if that person, or public body, or instrumentality is subject to the jurisdiction of the United States, without first obtaining authority to do so from the Coast Guard in accordance with applicable regulations. Whoever violates the provisions of this section or any of the regulations issued by the Secretary in accordance herewith shall be guilty of a misdemeanor and shall be fined not more than $100 for each offense. Each day during which such violation continues shall be considered as a new offense.
+No person, or public body, or instrumentality, excluding the armed services, shall establish, erect, or maintain any aid to maritime navigation in or adjacent to the waters subject to the jurisdiction of the United States, its territories or possessions, or the Trust Territory of the Pacific Islands, or on the high seas if that person, or public body, or instrumentality is subject to the jurisdiction of the United States, without first obtaining authority to do so from the Coast Guard in accordance with applicable regulations. Whoever violates the provisions of this section or any of the regulations issued by the Secretary in accordance herewith shall be guilty of a misdemeanor and shall be fined not more than $1,500 for each offense. Each day during which such violation continues shall be considered as a new offense.
 

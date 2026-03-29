@@ -3,9 +3,9 @@ title: "Section 6917 - Appropriations for the Commission"
 usc_title: 22
 usc_section: "6917"
 chapter: 77
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 6917"
-generated_at: "2026-03-29T18:05:22.015Z"
+generated_at: "2026-03-29T18:24:54.366Z"
 ---
 
 # § 6917. Appropriations for the Commission

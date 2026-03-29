@@ -3,9 +3,9 @@ title: "Section 4516 - Funding"
 usc_title: 12
 usc_section: "4516"
 chapter: 46
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 4516"
-generated_at: "2026-03-29T18:04:43.711Z"
+generated_at: "2026-03-29T18:24:03.030Z"
 ---
 
 # § 4516. Funding
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T18:04:43.711Z"
   - **(3)** such amounts in excess of actual expenses for any given year as deemed necessary by the Director to maintain a working capital fund in accordance with subsection (e); and
   - **(4)** the windup of the affairs of the Office of Federal Housing Enterprise Oversight and the Federal Housing Finance Board under title III of the Federal Housing Finance Regulatory Reform Act of 2008.
 - **(b)**
-  - **(1)** Each enterprise shall pay to the Director a proportion of the annual assessment made pursuant to subsection (a) of this section that bears the same ratio to the total annual assessment that the total assets of each enterprise bears 1 1 So in original. Probably should be “bear”. to the total assets of both enterprises.
+  - **(1)** Each enterprise shall pay to the Director a proportion of the annual assessment made pursuant to subsection (a) that bears the same ratio to the total annual assessment that the total assets of each enterprise bears 1 1 So in original. Probably should be “bear”. to the total assets of both enterprises.
   - **(2)** Assessments collected from the enterprises shall not exceed the amounts sufficient to provide for the costs and expenses described in subsection (a) relating to the enterprises. Assessments collected from the Federal Home Loan Banks shall not exceed the amounts sufficient to provide for the costs and expenses described in subsection (a) relating to the Federal Home Loan Banks.
   - **(3)** The annual assessment shall be payable semiannually for each fiscal year, on October 1 and April 1.
   - **(4)** For the purpose of this section, the term “total assets” means, with respect to an enterprise, the sum of—

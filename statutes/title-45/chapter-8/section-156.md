@@ -3,9 +3,9 @@ title: "Section 156 - Procedure in changing rates of pay, rules, and working con
 usc_title: 45
 usc_section: "156"
 chapter: 8
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "45 U.S.C. § 156"
-generated_at: "2026-03-29T18:06:35.936Z"
+generated_at: "2026-03-29T18:26:13.278Z"
 ---
 
 # § 156. Procedure in changing rates of pay, rules, and working conditions

@@ -3,9 +3,9 @@ title: "Section 1312 - Financial assistance"
 usc_title: 30
 usc_section: "1312"
 chapter: 25
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "30 U.S.C. § 1312"
-generated_at: "2026-03-29T18:05:26.217Z"
+generated_at: "2026-03-29T18:25:30.916Z"
 ---
 
 # § 1312. Financial assistance

@@ -3,9 +3,9 @@ title: "Section 133 - Protection of voluntarily shared critical infrastructure i
 usc_title: 6
 usc_section: "133"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "6 U.S.C. § 133"
-generated_at: "2026-03-29T18:03:43.233Z"
+generated_at: "2026-03-29T18:23:35.728Z"
 ---
 
 # § 133. Protection of voluntarily shared critical infrastructure information
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T18:03:43.233Z"
     - **(A)** in the case of written information or records, a written marking on the information or records substantially similar to the following: “This information is voluntarily submitted to the Federal Government in expectation of protection from disclosure as provided by the provisions of the Critical Infrastructure Information Act of 2002.”; or
     - **(B)** in the case of oral information, a similar written statement submitted within a reasonable period following the oral communication.
 - **(b)** No communication of critical infrastructure information to a covered Federal agency made pursuant to this part shall be considered to be an action subject to the requirements of the Federal Advisory Committee Act.
-- **(c)** Nothing in this section shall be construed to limit or otherwise affect the ability of a State, local, or Federal Government entity, agency, or authority, or any third party, under applicable law, to obtain critical infrastructure information in a manner not covered by subsection (a) of this section, including any information lawfully and properly disclosed generally or broadly to the public and to use such information in any manner permitted by law. For purposes of this section a permissible use of independently obtained information includes the disclosure of such information under section 2302(b)(8) of title 5 .
+- **(c)** Nothing in this section shall be construed to limit or otherwise affect the ability of a State, local, or Federal Government entity, agency, or authority, or any third party, under applicable law, to obtain critical infrastructure information in a manner not covered by subsection (a), including any information lawfully and properly disclosed generally or broadly to the public and to use such information in any manner permitted by law. For purposes of this section a permissible use of independently obtained information includes the disclosure of such information under section 2302(b)(8) of title 5 .
 - **(d)** The voluntary submittal to the Government of information or records that are protected from disclosure by this part shall not be construed to constitute compliance with any requirement to submit such information to a Federal agency under any other provision of law.
 - **(e)**
   - **(1)** The Secretary of the Department of Homeland Security shall, in consultation with appropriate representatives of the National Security Council and the Office of Science and Technology Policy, establish uniform procedures for the receipt, care, and storage by Federal agencies of critical infrastructure information that is voluntarily submitted to the Government. The procedures shall be established not later than 90 days after November 25, 2002 .
@@ -42,4 +42,4 @@ generated_at: "2026-03-29T18:03:43.233Z"
 - **(g)** The Federal Government may provide advisories, alerts, and warnings to relevant companies, targeted sectors, other governmental entities, or the general public regarding potential threats to critical infrastructure as appropriate. In issuing a warning, the Federal Government shall take appropriate actions to protect from disclosure—
   - **(1)** the source of any voluntarily submitted critical infrastructure information that forms the basis for the warning; or
   - **(2)** information that is proprietary, business sensitive, relates specifically to the submitting person or entity, or is otherwise not appropriately in the public domain.
-- **(h)** The President may delegate authority to a critical infrastructure protection program, designated under section 132 of this title , to enter into a voluntary agreement to promote critical infrastructure security, including with any Information Sharing and Analysis Organization, or a plan of action as otherwise defined in section 2158 of title 50 , Appendix.
+- **(h)** The President may delegate authority to a critical infrastructure protection program, designated under section 132 of this title , to enter into a voluntary agreement to promote critical infrastructure security, including with any Information Sharing and Analysis Organization, or a plan of action as otherwise defined in section 4558 of title 50 .

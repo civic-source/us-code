@@ -3,9 +3,9 @@ title: "Section 4a - Double damages remedy for unauthorized use of multifamily h
 usc_title: 12
 usc_section: "4a"
 chapter: 13
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 4a"
-generated_at: "2026-03-29T18:04:43.496Z"
+generated_at: "2026-03-29T18:24:02.838Z"
 ---
 
 # § 1715z–4a. Double damages remedy for unauthorized use of multifamily housing project assets and income

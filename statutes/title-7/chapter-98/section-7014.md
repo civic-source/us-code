@@ -3,15 +3,15 @@ title: "Section 7014 - Termination of authority"
 usc_title: 7
 usc_section: "7014"
 chapter: 98
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 7014"
-generated_at: "2026-03-29T18:04:05.097Z"
+generated_at: "2026-03-29T18:23:43.495Z"
 ---
 
 # § 7014. Termination of authority
 
-- **(a)** Subject to subsection (b) of this section, the authority delegated to the Secretary by this chapter to reorganize the Department shall terminate on the date that is 2 years after October 13, 1994 .
-- **(b)** Subsection (a) of this section shall not affect:
+- **(a)** Subject to subsection (b), the authority delegated to the Secretary by this chapter to reorganize the Department shall terminate on the date that is 2 years after October 13, 1994 .
+- **(b)** Subsection (a) shall not affect:
   - **(1)** The authority of the Secretary to continue to carry out a function that the Secretary performs on the date that is 2 years after October 13, 1994 .
   - **(2)** The authority delegated to the Secretary under Reorganization Plan No. 2 of 1953 (5 U.S.C. App.; 7 U.S.C. 2201 note).
   - **(3)** The authority of an agency, office, officer, or employee of the Department to continue to perform all functions delegated or assigned to the entity or person as of that termination date.

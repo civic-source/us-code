@@ -3,9 +3,9 @@ title: "Section 20162 - Minimum training standards and plans"
 usc_title: 49
 usc_section: "20162"
 chapter: 201
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 20162"
-generated_at: "2026-03-29T18:07:51.411Z"
+generated_at: "2026-03-29T18:27:16.510Z"
 ---
 
 # § 20162. Minimum training standards and plans
@@ -13,6 +13,6 @@ generated_at: "2026-03-29T18:07:51.411Z"
 - **(a)** The Secretary of Transportation shall, not later than 1 year after the date of enactment of the Rail Safety Improvement Act of 2008, establish—
   - **(1)** minimum training standards for each class and craft of safety-related railroad employee (as defined in section 20102) and equivalent railroad carrier contractor and subcontractor employees, which shall require railroad carriers, contractors, and subcontractors to qualify or otherwise document the proficiency of such employees in each such class and craft regarding their knowledge of, and ability to comply with, Federal railroad safety laws and regulations and railroad carrier rules and procedures promulgated to implement those Federal railroad safety laws and regulations;
   - **(2)** a requirement that railroad carriers, contractors, and subcontractors develop and submit training and qualification plans to the Secretary for approval, including training programs and information deemed necessary by the Secretary to ensure that all safety-related railroad employees receive appropriate training in a timely manner; and
-  - **(3)** a minimum training curriculum, and ongoing training criteria, testing, and skills evaluation measures to ensure that safety-related railroad employees, and contractor and subcontractor employees, charged with the inspection of track or railroad equipment are qualified to assess railroad compliance with Federal standards to identify defective conditions and initiate immediate remedial action to correct critical safety defects that are known to contribute to derailments, accidents, incidents, or injuries, and, in implementing the requirements of this paragraph, take into consideration existing training programs of railroad carriers.
+  - **(3)** a minimum training curriculum, and ongoing training criteria, testing, and skills evaluation measures to ensure that safety-related railroad employees, and contractor and subcontractor employees, charged with the inspection of track or railroad equipment are qualified to assess railroad carrier compliance with Federal standards to identify defective conditions and initiate immediate remedial action to correct critical safety defects that are known to contribute to derailments, accidents, incidents, or injuries, and, in implementing the requirements of this paragraph, take into consideration existing training programs of railroad carriers.
 - **(b)** The Secretary shall review and approve the plans required under subsection (a)(2) utilizing an approval process required for programs to certify the qualification of locomotive engineers pursuant to part 240 of title 49, Code of Federal Regulations.
 - **(c)** The Secretary may exempt railroad carriers and railroad carrier contractors and subcontractors from submitting training plans for which the Secretary has issued training regulations before the date of enactment of the Rail Safety Improvement Act of 2008.

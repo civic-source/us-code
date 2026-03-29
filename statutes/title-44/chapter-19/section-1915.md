@@ -3,12 +3,12 @@ title: "Section 1915 - Highest State appellate court libraries as depository lib
 usc_title: 44
 usc_section: "1915"
 chapter: 19
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "44 U.S.C. § 1915"
-generated_at: "2026-03-29T18:06:33.620Z"
+generated_at: "2026-03-29T18:26:16.114Z"
 ---
 
 # § 1915. Highest State appellate court libraries as depository libraries
 
-Upon the request of the highest appellate court of a State, the Public Printer is authorized to designate the library of that court as a depository library. The provisions of section 1911 of this title shall not apply to any library so designated.
+Upon the request of the highest appellate court of a State, the Director of the Government Publishing Office is authorized to designate the library of that court as a depository library. The provisions of section 1911 of this title shall not apply to any library so designated.
 

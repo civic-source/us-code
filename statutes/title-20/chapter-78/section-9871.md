@@ -3,9 +3,9 @@ title: "Section 9871 - Alignment of secondary school graduation requirements wit
 usc_title: 20
 usc_section: "9871"
 chapter: 78
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 9871"
-generated_at: "2026-03-29T18:05:00.433Z"
+generated_at: "2026-03-29T18:24:41.194Z"
 ---
 
 # § 9871. Alignment of secondary school graduation requirements with the demands of 21st century postsecondary endeavors and support for P–16 education data systems
@@ -90,7 +90,7 @@ generated_at: "2026-03-29T18:05:00.433Z"
         - **(IV)** the capacity to communicate with higher education data systems; and
         - **(V)** a State data audit system assessing data quality, validity, and reliability.
       - **(ii)** With respect to preschool through grade 12 education—
-        - **(I)** yearly test records of individual students with respect to assessments under section 6311(b) of this title ;
+        - **(I)** yearly test records of individual students with respect to assessments under section 6311(b)(2) of this title ;
         - **(II)** information on students not tested by grade and subject;
         - **(III)** a teacher identifier system with the ability to match teachers to students;
         - **(IV)** student-level transcript information, including information on courses completed and grades earned; and

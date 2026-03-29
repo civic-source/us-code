@@ -3,9 +3,9 @@ title: "Section 2417 - Modification and termination of actions"
 usc_title: 19
 usc_section: "2417"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 2417"
-generated_at: "2026-03-29T18:04:55.095Z"
+generated_at: "2026-03-29T18:24:16.165Z"
 ---
 
 # § 2417. Modification and termination of actions
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T18:04:55.095Z"
     - **(A)** a particular action has been taken under section 2411 of this title during any 4-year period, and
     - **(B)** neither the petitioner nor any representative of the domestic industry which benefits from such action has submitted to the Trade Representative during the last 60 days of such 4-year period a written request for the continuation of such action,
   - **(2)** The Trade Representative shall notify by mail the petitioner and representatives of the domestic industry described in paragraph (1)(B) of any termination of action by reason of paragraph (1) at least 60 days before the date of such termination.
-  - **(3)** If a request is submitted to the Trade Representative under paragraph (1)(B) to continue taking a particular action under section 2411 of this title , the Trade Representative shall conduct a review of—
+  - **(3)** If a request is submitted to the Trade Representative under paragraph (1)(B) to continue taking a particular action under section 2411 of this title , or if a request is submitted to the Trade Representative under section 2416(c)(2) of this title to reinstate action, the Trade Representative shall conduct a review of—
     - **(A)** the effectiveness in achieving the objectives of section 2411 of this title of—
       - **(i)** such action, and
       - **(ii)** other actions that could be taken (including actions against other products or services), and

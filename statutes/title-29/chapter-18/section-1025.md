@@ -3,9 +3,9 @@ title: "Section 1025 - Reporting of participant’s benefit rights"
 usc_title: 29
 usc_section: "1025"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 1025"
-generated_at: "2026-03-29T18:05:31.730Z"
+generated_at: "2026-03-29T18:25:43.063Z"
 ---
 
 # § 1025. Reporting of participant’s benefit rights

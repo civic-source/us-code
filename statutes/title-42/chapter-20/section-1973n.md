@@ -1,14 +1,12 @@
 ---
-title: "Section 1973n - Impairment of voting rights of persons holding current registration"
+title: "Section 1973n - Transferred"
 usc_title: 42
 usc_section: "1973n"
 chapter: 20
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1973n"
-generated_at: "2026-03-29T18:07:14.355Z"
+generated_at: "2026-03-29T18:27:03.399Z"
 ---
 
-# § 1973n. Impairment of voting rights of persons holding current registration
-
-Nothing in subchapters I–A to I–C of this chapter shall be construed to deny, impair, or otherwise adversely affect the right to vote of any person registered to vote under the law of any State or political subdivision.
+# § 1973n. Transferred
 

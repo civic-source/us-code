@@ -3,9 +3,9 @@ title: "Section 3361 - Declaration of emergency"
 usc_title: 15
 usc_section: "3361"
 chapter: 60
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 3361"
-generated_at: "2026-03-29T18:04:29.887Z"
+generated_at: "2026-03-29T18:24:08.579Z"
 ---
 
 # § 3361. Declaration of emergency
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T18:04:29.887Z"
   - **(1)** a severe natural gas shortage, endangering the supply of natural gas for high-priority uses, exists or is imminent in the United States or in any region thereof; and
   - **(2)** the exercise of authorities under section 3362 or section 3363 of this title is reasonably necessary, having exhausted other alternatives to the maximum extent practicable, to assist in meeting natural gas requirements for such high-priority uses.
 - **(b)**
-  - **(1)** Any declaration of a natural gas supply emergency (or extension thereof) under subsection (a) of this section, shall terminate at the earlier of—
-    - **(A)** the date on which the President finds that any shortage described in subsection (a) of this section does not exist or is not imminent; or
+  - **(1)** Any declaration of a natural gas supply emergency (or extension thereof) under subsection (a), shall terminate at the earlier of—
+    - **(A)** the date on which the President finds that any shortage described in subsection (a) does not exist or is not imminent; or
     - **(B)** 120 days after the date of such declaration of emergency (or extension thereof).
-  - **(2)** Nothing in this subsection shall prohibit the President from extending, under subsection (a) of this section, any emergency (or extension thereof), previously declared under subsection (a) of this section, upon the expiration of such declaration of emergency (or extension thereof) under paragraph (1)(B).
+  - **(2)** Nothing in this subsection shall prohibit the President from extending, under subsection (a), any emergency (or extension thereof), previously declared under subsection (a), upon the expiration of such declaration of emergency (or extension thereof) under paragraph (1)(B).

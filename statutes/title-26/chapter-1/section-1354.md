@@ -3,9 +3,9 @@ title: "Section 1354 - Alternative tax election; revocation; termination"
 usc_title: 26
 usc_section: "1354"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 1354"
-generated_at: "2026-03-29T18:05:44.800Z"
+generated_at: "2026-03-29T18:25:53.737Z"
 ---
 
 # § 1354. Alternative tax election; revocation; termination
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T18:05:44.800Z"
   - **(1)**
     - **(A)** An election under subsection (a) may be terminated by revocation.
     - **(B)** Except as provided in subparagraph (C)—
-      - **(i)** a revocation made during the taxable year and on or before the 15th day of the 3d month thereof shall be effective on the 1st day of such taxable year, and
+      - **(i)** a revocation made during the taxable year and on or before the 15th day of the 4th month thereof shall be effective on the 1st day of such taxable year, and
       - **(ii)** a revocation made during the taxable year but after such 15th day shall be effective on the 1st day of the following taxable year.
     - **(C)** If the revocation specifies a date for revocation which is on or after the day on which the revocation is made, the revocation shall be effective for taxable years beginning on and after the date so specified.
   - **(2)**

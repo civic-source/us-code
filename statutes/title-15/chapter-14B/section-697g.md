@@ -3,16 +3,16 @@ title: "Section 697g - Foreclosure and liquidation of loans"
 usc_title: 15
 usc_section: "697g"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 697g"
-generated_at: "2026-03-29T18:04:29.502Z"
+generated_at: "2026-03-29T18:24:08.403Z"
 ---
 
 # § 697g. Foreclosure and liquidation of loans
 
-- **(a)** In accordance with this section, the Administration shall delegate to any qualified State or local development company (as defined in section 697(e) of this title ) that meets the eligibility requirements of subsection (b)(1) of this section the authority to foreclose and liquidate, or to otherwise treat in accordance with this section, defaulted loans in its portfolio that are funded with the proceeds of debentures guaranteed by the Administration under section 697 of this title .
+- **(a)** In accordance with this section, the Administration shall delegate to any qualified State or local development company (as defined in section 697(e) of this title ) that meets the eligibility requirements of subsection (b)(1) the authority to foreclose and liquidate, or to otherwise treat in accordance with this section, defaulted loans in its portfolio that are funded with the proceeds of debentures guaranteed by the Administration under section 697 of this title .
 - **(b)**
-  - **(1)** A qualified State or local development company shall be eligible for a delegation of authority under subsection (a) of this section if—
+  - **(1)** A qualified State or local development company shall be eligible for a delegation of authority under subsection (a) if—
     - **(A)** the company—
       - **(i)** has participated in the loan liquidation pilot program established by the Small Business Programs Improvement Act of 1996 ( 15 U.S.C. 695 note), as in effect on the day before promulgation of final regulations by the Administration implementing this section;
       - **(ii)** is participating in the Premier Certified Lenders Program under section 697e of this title ; or
@@ -22,9 +22,9 @@ generated_at: "2026-03-29T18:04:29.502Z"
         - **(I)** with not less than 2 years of substantive, decision-making experience in administering the liquidation and workout of problem loans secured in a manner substantially similar to loans funded with the proceeds of debentures guaranteed under section 697 of this title ; and
         - **(II)** who have completed a training program on loan liquidation developed by the Administration in conjunction with qualified State and local development companies that meet the requirements of this paragraph; or
       - **(ii)** submits to the Administration documentation demonstrating that the company has contracted with a qualified third-party to perform any liquidation activities and secures the approval of the contract by the Administration with respect to the qualifications of the contractor and the terms and conditions of liquidation activities.
-  - **(2)** On request the Administration shall examine the qualifications of any company described in subsection (a) of this section to determine if such company is eligible for the delegation of authority under this section. If the Administration determines that a company is not eligible, the Administration shall provide the company with the reasons for such ineligibility.
+  - **(2)** On request the Administration shall examine the qualifications of any company described in subsection (a) to determine if such company is eligible for the delegation of authority under this section. If the Administration determines that a company is not eligible, the Administration shall provide the company with the reasons for such ineligibility.
 - **(c)**
-  - **(1)** Each qualified State or local development company to which the Administration delegates authority under section 1 1 So in original. Probably should be “subsection”. (a) may with respect to any loan described in subsection (a) of this section—
+  - **(1)** Each qualified State or local development company to which the Administration delegates authority under section 1 1 So in original. Probably should be “subsection”. (a) may with respect to any loan described in subsection (a)—
     - **(A)** perform all liquidation and foreclosure functions, including the purchase in accordance with this subsection of any other indebtedness secured by the property securing the loan, in a reasonable and sound manner according to commercially accepted practices, pursuant to a liquidation plan approved in advance by the Administration under paragraph (2)(A);
     - **(B)** litigate any matter relating to the performance of the functions described in subparagraph (A), except that the Administration may—
       - **(i)** defend or bring any claim if—
@@ -59,7 +59,7 @@ generated_at: "2026-03-29T18:04:29.502Z"
       - **(iv)** if the Administration cannot act because insufficient information or documentation was provided by the company submitting the plan or request, shall specify the nature of such additional information or documentation.
   - **(3)** In carrying out functions described in paragraph (1), a qualified State or local development company shall take no action that would result in an actual or apparent conflict of interest between the company (or any employee of the company) and any third party lender, associate of a third party lender, or any other person participating in a liquidation, foreclosure, or loss mitigation action.
 - **(d)** The Administration may revoke or suspend a delegation of authority under this section to any qualified State or local development company, if the Administration determines that the company—
-  - **(1)** does not meet the requirements of subsection (b)(1) of this section;
+  - **(1)** does not meet the requirements of subsection (b)(1);
   - **(2)** has violated any applicable rule or regulation of the Administration or any other applicable law; or
   - **(3)** fails to comply with any reporting requirement that may be established by the Administration relating to carrying out of functions described in paragraph (1).
 - **(e)**

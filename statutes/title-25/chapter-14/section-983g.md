@@ -1,14 +1,12 @@
 ---
-title: "Section 983g - Regulations"
+title: "Section 983g - Omitted"
 usc_title: 25
 usc_section: "983g"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 983g"
-generated_at: "2026-03-29T18:05:17.116Z"
+generated_at: "2026-03-29T18:25:23.705Z"
 ---
 
-# § 983g. Regulations
-
-The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this subchapter.
+# § 983g. Omitted
 

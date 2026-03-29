@@ -3,17 +3,17 @@ title: "Section 4162 - Replacement of recipient"
 usc_title: 25
 usc_section: "4162"
 chapter: 43
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 4162"
-generated_at: "2026-03-29T18:05:17.259Z"
+generated_at: "2026-03-29T18:25:23.823Z"
 ---
 
 # § 4162. Replacement of recipient
 
-- **(a)** As a condition of the Secretary making a grant under this chapter on behalf of an Indian tribe, the tribe shall agree that, notwithstanding any other provision of law, the Secretary may, only in the circumstances set forth in subsection (b) of this section, require that a replacement tribally designated housing entity serve as the recipient for the tribe, in accordance with subsection (c) of this section.
+- **(a)** As a condition of the Secretary making a grant under this chapter on behalf of an Indian tribe, the tribe shall agree that, notwithstanding any other provision of law, the Secretary may, only in the circumstances set forth in subsection (b), require that a replacement tribally designated housing entity serve as the recipient for the tribe, in accordance with subsection (c).
 - **(b)** The Secretary may require such replacement tribally designated housing entity for a tribe only upon a determination by the Secretary on the record after opportunity for a hearing that the recipient for the tribe has engaged in a pattern or practice of activities that constitutes substantial or willful noncompliance with the requirements under this chapter.
 - **(c)** If the Secretary requires that a replacement tribally designated housing entity serve as the recipient for a tribe (or tribes)—
-  - **(1)** the replacement entity shall be an entity mutually agreed upon by the Secretary and the tribe (or tribes) for which the recipient was authorized to act, except that if no such entity is agreed upon before the expiration of the 60-day period beginning upon the date that the Secretary makes the determination under subsection (b) of this section, the Secretary shall act as the replacement entity until agreement is reached upon a replacement entity; and
+  - **(1)** the replacement entity shall be an entity mutually agreed upon by the Secretary and the tribe (or tribes) for which the recipient was authorized to act, except that if no such entity is agreed upon before the expiration of the 60-day period beginning upon the date that the Secretary makes the determination under subsection (b), the Secretary shall act as the replacement entity until agreement is reached upon a replacement entity; and
   - **(2)** the replacement entity (or the Secretary, as provided in paragraph (1)) shall act as the tribally designated housing entity for the tribe (or tribes) for a period that expires upon—
-    - **(A)** a date certain, which shall be specified by the Secretary upon making the determination under subsection (b) of this section; or
-    - **(B)** the occurrence of specific conditions, which conditions shall be specified in written notice provided by the Secretary to the tribe upon making the determination under subsection (b) of this section.
+    - **(A)** a date certain, which shall be specified by the Secretary upon making the determination under subsection (b); or
+    - **(B)** the occurrence of specific conditions, which conditions shall be specified in written notice provided by the Secretary to the tribe upon making the determination under subsection (b).

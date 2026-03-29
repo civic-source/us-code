@@ -3,9 +3,9 @@ title: "Section 3204 - Restrictions on use of penalty mail"
 usc_title: 39
 usc_section: "3204"
 chapter: 32
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "39 U.S.C. § 3204"
-generated_at: "2026-03-29T18:06:14.487Z"
+generated_at: "2026-03-29T18:26:03.565Z"
 ---
 
 # § 3204. Restrictions on use of penalty mail

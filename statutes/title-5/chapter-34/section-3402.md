@@ -3,9 +3,9 @@ title: "Section 3402 - Establishment of part-time career employment programs"
 usc_title: 5
 usc_section: "3402"
 chapter: 34
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 3402"
-generated_at: "2026-03-29T18:03:29.856Z"
+generated_at: "2026-03-29T18:23:29.879Z"
 ---
 
 # § 3402. Establishment of part-time career employment programs

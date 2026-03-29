@@ -3,9 +3,9 @@ title: "Section 144 - National bridge and tunnel inventory and inspection standa
 usc_title: 23
 usc_section: "144"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "23 U.S.C. § 144"
-generated_at: "2026-03-29T18:05:12.214Z"
+generated_at: "2026-03-29T18:25:00.183Z"
 ---
 
 # § 144. National bridge and tunnel inventory and inspection standards
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T18:05:12.214Z"
 - **(c)**
   - **(1)** Except as provided in paragraph (2) and notwithstanding any other provision of law, the General Bridge Act of 1946 ( 33 U.S.C. 525 et seq.) shall apply to bridges authorized to be replaced, in whole or in part, by this title.
   - **(2)** Section 502(b) of the General Bridge Act of 1946 ( 33 U.S.C. 525(b) ) and section 9 of the Act of March 3, 1899 ( 33 U.S.C. 401 ), shall not apply to any bridge constructed, reconstructed, rehabilitated, or replaced with assistance under this title, if the bridge is over waters that—
-    - **(A)** are not used and are not susceptible to use in the natural condition of the bridge or by reasonable improvement as a means to transport interstate or foreign commerce; and
+    - **(A)** are not used and are not susceptible to use in the natural condition of the water or by reasonable improvement as a means to transport interstate or foreign commerce; and
     - **(B)** are—
       - **(i)** not tidal; or
       - **(ii)** if tidal, used only by recreational boating, fishing, and other small vessels that are less than 21 feet in length.
@@ -104,8 +104,22 @@ generated_at: "2026-03-29T18:05:12.214Z"
 - **(i)**
   - **(1)** The Secretary, in cooperation with the State transportation departments, shall maintain a program designed to train appropriate personnel to carry out highway bridge and tunnel inspections.
   - **(2)** The training program shall be revised from time to time to take into account new and improved techniques.
-- **(j)** In carrying out this section—
+- **(j)**
+  - **(1)** The purpose of this subsection is to save costs and time by encouraging States to bundle multiple bridge projects as 1 project.
+  - **(2)** In this subsection, the term “eligible entity” means an entity eligible to carry out a bridge project under section 119 or 133.
+  - **(3)** An eligible entity may bundle 2 or more similar bridge projects that are—
+    - **(A)** eligible projects under section 119 or 133;
+    - **(B)** included as a bundled project in a transportation improvement program under section 134(j) or a statewide transportation improvement program under section 135, as applicable; and
+    - **(C)** awarded to a single contractor or consultant pursuant to a contract for engineering and design or construction between the contractor and an eligible entity.
+  - **(4)** Notwithstanding any other provision of law (including regulations), a bundling of bridge projects under this subsection may be listed as—
+    - **(A)** 1 project for purposes of sections 134 and 135; and
+    - **(B)** a single project.
+  - **(5)** Projects bundled under this subsection shall have the same financial characteristics, including—
+    - **(A)** the same funding category or subcategory; and
+    - **(B)** the same Federal share.
+  - **(6)** The provisions of section 102(b) do not apply to projects carried out under this subsection.
+- **(k)** In carrying out this section—
   - **(1)** the Secretary may use funds made available to the Secretary under sections 104(a) and 503;
-  - **(2)** a State may use amounts apportioned to the State under section 104(b)(1) and 104(b)(3);
+  - **(2)** a State may use amounts apportioned to the State under section 104(b)(1) and 104(b)(2);
   - **(3)** an Indian tribe may use funds made available to the Indian tribe under section 202; and
   - **(4)** a Federal agency may use funds made available to the agency under section 503.

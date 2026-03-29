@@ -3,9 +3,9 @@ title: "Section 77cc - Directors of Corporation; appointment, term of office, an
 usc_title: 15
 usc_section: "77cc"
 chapter: 2
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 77cc"
-generated_at: "2026-03-29T18:04:29.315Z"
+generated_at: "2026-03-29T18:24:08.225Z"
 ---
 
 # § 77cc. Directors of Corporation; appointment, term of office, and removal

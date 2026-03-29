@@ -3,9 +3,9 @@ title: "Section 14045a - Enhancing culturally specific services for victims of d
 usc_title: 42
 usc_section: "14045a"
 chapter: 136
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 14045a"
-generated_at: "2026-03-29T18:07:15.363Z"
+generated_at: "2026-03-29T18:27:04.154Z"
 ---
 
 # § 14045a. Enhancing culturally specific services for victims of domestic violence, dating violence, sexual assault, and stalking
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T18:07:15.363Z"
     - **(A)** Section 3796hh of this title (Grants to Encourage Arrest Policies and Enforcement of Protection Orders).
     - **(B)** Section 3796gg–6 of this title 2 2 See References in Text note below. (Legal Assistance for Victims).
     - **(C)** Section 13971 of this title (Rural Domestic Violence, Dating Violence, Sexual Assault, Stalking, and Child Abuse Enforcement Assistance).
-    - **(D)** Section 14041a of this title (Enhanced Training and Services to End Violence Against Women Later in Life). 3 3 So in original. Probably should be “(Enhanced Training and Services to End Violence Against and Abuse of Women Later in Life).”.
+    - **(D)** Section 14041a of this title (Enhanced Training and Services to End Violence Against Women Later in Life). 2
     - **(E)** Section 3796gg–7 of this title (Education, Training, and Enhanced Services to End Violence Against and Abuse of Women with Disabilities).
 - **(b)**
   - **(1)** The purpose of the program required by this section is to promote:

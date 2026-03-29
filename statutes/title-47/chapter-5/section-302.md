@@ -1,12 +1,12 @@
 ---
-title: "Section 302 - Repealed. June 5, 1936, ch. 511, § 1 , 49 Stat. 1475"
+title: "Section 302 - Repealed. June 5, 1936, ch. 511 , § 1, 49 Stat. 1475"
 usc_title: 47
 usc_section: "302"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "47 U.S.C. § 302"
-generated_at: "2026-03-29T18:07:40.838Z"
+generated_at: "2026-03-29T18:27:09.548Z"
 ---
 
-# § 302. Repealed. June 5, 1936, ch. 511, § 1 , 49 Stat. 1475
+# § 302. Repealed. June 5, 1936, ch. 511 , § 1, 49 Stat. 1475
 

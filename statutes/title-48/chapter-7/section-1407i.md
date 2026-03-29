@@ -1,12 +1,12 @@
 ---
-title: "Section 1407i - Repealed. Pub. L. 97–357, title III, § 308(e) , Oct. 19, 1982 , 96 Stat. 1710"
+title: "Section 1407i - Repealed. Pub. L. 97–357, title III , § 308(e), Oct. 19, 1982 , 96 Stat. 1710"
 usc_title: 48
 usc_section: "1407i"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "48 U.S.C. § 1407i"
-generated_at: "2026-03-29T02:16:00.803Z"
+generated_at: "2026-03-29T18:27:11.650Z"
 ---
 
-# §§ 1407 to 1407i. Repealed. Pub. L. 97–357, title III, § 308(e) , Oct. 19, 1982 , 96 Stat. 1710
+# §§ 1407 to 1407i. Repealed. Pub. L. 97–357, title III , § 308(e), Oct. 19, 1982 , 96 Stat. 1710
 

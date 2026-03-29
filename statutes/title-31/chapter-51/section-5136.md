@@ -3,9 +3,9 @@ title: "Section 5136 - United States Mint Public Enterprise Fund"
 usc_title: 31
 usc_section: "5136"
 chapter: 51
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "31 U.S.C. § 5136"
-generated_at: "2026-03-29T18:06:08.500Z"
+generated_at: "2026-03-29T18:25:59.195Z"
 ---
 
 # § 5136. United States Mint Public Enterprise Fund

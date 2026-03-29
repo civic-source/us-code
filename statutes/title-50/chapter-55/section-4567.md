@@ -3,9 +3,9 @@ title: "Section 4567 - Defense Production Act Committee"
 usc_title: 50
 usc_section: "4567"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 4567"
-generated_at: "2026-03-29T02:16:14.850Z"
+generated_at: "2026-03-29T18:27:35.747Z"
 ---
 
 # § 4567. Defense Production Act Committee
@@ -27,4 +27,4 @@ generated_at: "2026-03-29T02:16:14.850Z"
   - **(4)** recommendations for improving information sharing between departments, agencies, and independent establishments of the Federal Government relating to the use of the priorities and allocations authorities in this chapter;
   - **(5)** up-to-date copies of the rules described under section 4511(d)(1) of this title ; and
   - **(6)** short attestations signed by each member of the Committee stating their concurrence in the report.
-- **(e)** The provisions of chapter 10 of title 5 shall not apply to the Committee.
+- **(e)** The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Committee.

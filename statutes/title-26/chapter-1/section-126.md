@@ -3,9 +3,9 @@ title: "Section 126 - Certain cost-sharing payments"
 usc_title: 26
 usc_section: "126"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 126"
-generated_at: "2026-03-29T18:05:44.480Z"
+generated_at: "2026-03-29T18:25:53.429Z"
 ---
 
 # § 126. Certain cost-sharing payments
@@ -16,11 +16,10 @@ generated_at: "2026-03-29T18:05:44.480Z"
   - **(3)** The water bank program authorized by the Water Bank Act ( 16 U.S.C. 1301 et seq.).
   - **(4)** The emergency conservation measures program authorized by title IV of the Agricultural Credit Act of 1978.
   - **(5)** The agricultural conservation program authorized by the Soil Conservation and Domestic Allotment Act ( 16 U.S.C. 590a ).
-  - **(6)** The great plains conservation program authorized by section 16 1 1 See References in Text note below. of the Soil Conservation and Domestic Policy Act ( 16 U.S.C. 590p(b) ).
-  - **(7)** The resource conservation and development program authorized by the Bankhead-Jones Farm Tenant Act and by the Soil Conservation and Domestic Allotment Act ( 7 U.S.C. 1010 ; 16 U.S.C. 590a et seq.).
-  - **(8)** The forestry incentives program authorized by section 4 1 of the Cooperative Forestry Assistance Act of 1978 ( 16 U.S.C. 2103 ).
-  - **(9)** Any small watershed program administered by the Secretary of Agriculture which is determined by the Secretary of the Treasury or his delegate to be substantially similar to the type of programs described in paragraphs (1) through (8).
-  - **(10)** Any program of a State, possession of the United States, a political subdivision of any of the foregoing, or the District of Columbia under which payments are made to individuals primarily for the purpose of conserving soil, protecting or restoring the environment, improving forests, or providing a habitat for wildlife.
+  - **(6)** The resource conservation and development program authorized by the Bankhead-Jones Farm Tenant Act and by the Soil Conservation and Domestic Allotment Act ( 7 U.S.C. 1010 ; 16 U.S.C. 590a et seq.).
+  - **(7)** The forestry incentives program authorized by section 4 1 1 See References in Text note below. of the Cooperative Forestry Assistance Act of 1978 ( 16 U.S.C. 2103 ).
+  - **(8)** Any small watershed program administered by the Secretary of Agriculture which is determined by the Secretary of the Treasury or his delegate to be substantially similar to the type of programs described in paragraphs (1) through (8).
+  - **(9)** Any program of a State, possession of the United States, a political subdivision of any of the foregoing, or the District of Columbia under which payments are made to individuals primarily for the purpose of conserving soil, protecting or restoring the environment, improving forests, or providing a habitat for wildlife.
 - **(b)** For purposes of this section—
   - **(1)** The term “excludable portion” means that portion (or all) of a payment made to any person under any program described in subsection (a) which—
     - **(A)** is determined by the Secretary of Agriculture to be made primarily for the purpose of conserving soil and water resources, protecting or restoring the environment, improving forests, or providing a habitat for wildlife, and

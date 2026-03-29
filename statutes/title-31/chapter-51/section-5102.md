@@ -3,9 +3,9 @@ title: "Section 5102 - Standard weight"
 usc_title: 31
 usc_section: "5102"
 chapter: 51
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "31 U.S.C. § 5102"
-generated_at: "2026-03-29T18:06:08.494Z"
+generated_at: "2026-03-29T18:25:59.190Z"
 ---
 
 # § 5102. Standard weight

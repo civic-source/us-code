@@ -3,9 +3,9 @@ title: "Section 26 - Limitation based on tax liability; definition of tax liabil
 usc_title: 26
 usc_section: "26"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 26"
-generated_at: "2026-03-29T18:05:44.410Z"
+generated_at: "2026-03-29T18:25:53.361Z"
 ---
 
 # § 26. Limitation based on tax liability; definition of tax liability
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T18:05:44.410Z"
   - **(1)** The term “regular tax liability” means the tax imposed by this chapter for the taxable year.
   - **(2)** For purposes of paragraph (1), any tax imposed by any of the following provisions shall not be treated as tax imposed by this chapter:
     - **(A)** section 55 (relating to minimum tax),
-    - **(B)** section 59A (relating to environmental tax),
+    - **[(B)** Repealed. Pub. L. 113–295, div. A, title II , § 221(a)(12)(B), Dec. 19, 2014 , 128 Stat. 4038 .]
     - **(C)** subsection (m)(5)(B), (q), (t), or (v) of section 72 (relating to additional taxes on certain distributions),
     - **(D)** section 143(m) (relating to recapture of proration of Federal subsidy from use of mortgage bonds and mortgage credit certificates),
     - **(E)** section 530(d)(4) (relating to additional tax on certain distributions from Coverdell education savings accounts),
@@ -38,6 +38,7 @@ generated_at: "2026-03-29T18:05:44.410Z"
     - **(T)** section 170( o )(3)(B) (relating to recapture of certain deductions for fractional gifts),
     - **(U)** section 223(f)(4) (relating to additional tax on health savings account distributions not used for qualified medical expenses),
     - **(V)** subsections (a)(1)(B)(i) and (b)(4)(A) of section 409A (relating to interest and additional tax with respect to certain deferred compensation),
-    - **(W)** section 36(f) (relating to recapture of homebuyer credit), and
-    - **(X)** section 457A(c)(1)(B) (relating to determinability of amounts of compensation).
+    - **(W)** section 36(f) (relating to recapture of homebuyer credit),
+    - **(X)** section 457A(c)(1)(B) (relating to determinability of amounts of compensation), and
+    - **(Y)** section 529A(c)(3)(A) (relating to additional tax on ABLE account distributions not used for qualified disability expenses).
 - **(c)** For purposes of this part, the term “tentative minimum tax” means the amount determined under section 55(b)(1).

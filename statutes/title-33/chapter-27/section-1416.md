@@ -3,15 +3,15 @@ title: "Section 1416 - Relationship to other laws"
 usc_title: 33
 usc_section: "1416"
 chapter: 27
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 1416"
-generated_at: "2026-03-29T18:06:10.573Z"
+generated_at: "2026-03-29T18:26:01.268Z"
 ---
 
 # § 1416. Relationship to other laws
 
 - **(a)** After the effective date of this subchapter, all licenses, permits, and authorizations other than those issued pursuant to this subchapter shall be void and of no legal effect, to the extent that they purport to authorize any activity regulated by this subchapter, and whether issued before or after the effective date of this subchapter.
-- **(b)** The provisions of subsection (a) of this section shall not apply to actions taken before the effective date of this subchapter under the authority of the Rivers and Harbors Act of 1899 ( 30 Stat. 1151 ), as amended ( 33 U.S.C. 401 et seq.).
+- **(b)** The provisions of subsection (a) shall not apply to actions taken before the effective date of this subchapter under the authority of the Rivers and Harbors Act of 1899 ( 30 Stat. 1151 ), as amended ( 33 U.S.C. 401 et seq.).
 - **(c)** Prior to issuing any permit under this subchapter, if it appears to the Administrator that the disposition of material, other than dredged material, may adversely affect navigation in the territorial sea of the United States, or in the approaches to any harbor of the United States, or may create an artificial island on the Outer Continental Shelf, the Administrator shall consult with the Secretary and no permit shall be issued if the Secretary determines that navigation will be unreasonably impaired.
 - **(d)**
   - **(1)** Except as expressly provided in this subsection, nothing in this subchapter shall preclude or deny the right of any State to adopt or enforce any requirements respecting dumping of materials into ocean waters within the jurisdiction of the State.

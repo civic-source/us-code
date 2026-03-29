@@ -3,9 +3,9 @@ title: "Section 4139 - Relationship to other remedies"
 usc_title: 22
 usc_section: "4139"
 chapter: 52
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 4139"
-generated_at: "2026-03-29T18:05:21.950Z"
+generated_at: "2026-03-29T18:24:54.312Z"
 ---
 
 # § 4139. Relationship to other remedies
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T18:05:21.950Z"
 - **(a)**
   - **(1)** A grievant may not file a grievance with the Board if the grievant has formally requested, prior to filing a grievance, that the matter or matters which are the basis of the grievance be considered or resolved and relief be provided under another provision of law, regulation, or Executive order, other than under section 1214 or 1221 of title 5, and the matter has been carried to final decision under such provision on its merits or is still under consideration.
   - **(2)** If a grievant is not prohibited from filing a grievance under paragraph (1), the grievant may file with the Board a grievance which is also eligible for consideration, resolution, and relief under chapter 12 of title 5 or a regulation or Executive order other than under this subchapter. An election of remedies under this subsection shall be final upon the acceptance of jurisdiction by the Board.
-  - **(3)** This subsection shall not apply to any grievance with respect to which subsection (b) of this section applies.
+  - **(3)** This subsection shall not apply to any grievance with respect to which subsection (b) applies.
 - **(b)**
   - **(1)** With respect to a grievance based on an alleged violation of a law, rule, regulation, or policy directive referred to in section 4131(a)(1)(H) of this title , a grievant may either—
     - **(A)** file a grievance under this subchapter, or

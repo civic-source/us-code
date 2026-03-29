@@ -3,9 +3,9 @@ title: "Section 3755 - Formula"
 usc_title: 42
 usc_section: "3755"
 chapter: 46
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 3755"
-generated_at: "2026-03-29T18:07:14.542Z"
+generated_at: "2026-03-29T18:27:03.529Z"
 ---
 
 # § 3755. Formula
@@ -51,3 +51,4 @@ generated_at: "2026-03-29T18:07:14.542Z"
   - **(1)** Notwithstanding any other provision of this part, the amounts allocated under subsection (a) of this section to Puerto Rico, 100 percent shall be for direct grants to the Commonwealth government of Puerto Rico.
   - **(2)** Subsections (c) and (d) of this section shall not apply to Puerto Rico.
 - **(h)** In carrying out this section with respect to the State of Louisiana, the term “unit of local government” means a district attorney or a parish sheriff.
+- **(i)** For purposes of this section, the term “part 1 violent crimes” shall include severe forms of trafficking in persons (as defined in section 7102 of title 22 ).

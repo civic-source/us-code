@@ -3,9 +3,9 @@ title: "Section 1140m - Model demonstration programs to support improved access 
 usc_title: 20
 usc_section: "1140m"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1140m"
-generated_at: "2026-03-29T18:05:00.176Z"
+generated_at: "2026-03-29T18:24:41.013Z"
 ---
 
 # § 1140m. Model demonstration programs to support improved access to postsecondary instructional materials for students with print disabilities

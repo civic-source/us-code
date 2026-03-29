@@ -3,9 +3,9 @@ title: "Section 3313 - Consultation and layover requirements for, and effective 
 usc_title: 19
 usc_section: "3313"
 chapter: 21
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 3313"
-generated_at: "2026-03-29T18:04:55.132Z"
+generated_at: "2026-03-29T18:24:16.200Z"
 ---
 
 # § 3313. Consultation and layover requirements for, and effective date of, proclaimed actions
@@ -19,4 +19,4 @@ generated_at: "2026-03-29T18:04:55.132Z"
     - **(B)** the advice obtained under paragraph (1);
   - **(3)** a period of 60 calendar days, beginning with the first day on which the President has met the requirements of paragraphs (1) and (2) with respect to such action, has expired; and
   - **(4)** the President has consulted with such Committees regarding the proposed action during the period referred to in paragraph (3).
-- **(b)** Any action proclaimed by the President under the authority of this Act that is not subject to the consultation and layover requirements under subsection (a) of this section may not take effect before the 15th day after the date on which the text of the proclamation is published in the Federal Register.
+- **(b)** Any action proclaimed by the President under the authority of this Act that is not subject to the consultation and layover requirements under subsection (a) may not take effect before the 15th day after the date on which the text of the proclamation is published in the Federal Register.

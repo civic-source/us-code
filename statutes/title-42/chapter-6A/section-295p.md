@@ -3,9 +3,9 @@ title: "Section 295p - Definitions"
 usc_title: 42
 usc_section: "295p"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 295p"
-generated_at: "2026-03-29T18:07:13.487Z"
+generated_at: "2026-03-29T18:27:02.703Z"
 ---
 
 # § 295p. Definitions
@@ -63,7 +63,7 @@ For purposes of this subchapter:
   - **(20)** The term “health disparity population” has the meaning given such term in section 299a–1(d)(1) of this title .
   - **(21)** The term “health literacy” means the degree to which an individual has the capacity to obtain, communicate, process, and understand health information and services in order to make appropriate health decisions.
   - **(22)** The term “mental health service professional” means an individual with a graduate or postgraduate degree from an accredited institution of higher education in psychiatry, psychology, school psychology, behavioral pediatrics, psychiatric nursing, social work, school social work, substance abuse disorder prevention and treatment, marriage and family counseling, school counseling, or professional counseling.
-  - **(23)** The term “one-stop delivery system” means a one-stop delivery system described in section 2864(c) of title 29 .
+  - **(23)** The term “one-stop delivery system” means a one-stop delivery system described in section 3151(e) of title 29 .
   - **(24)** The term “paraprofessional child and adolescent mental health worker” means an individual who is not a mental or behavioral health service professional, but who works at the first stage of contact with children and families who are seeking mental or behavioral health services, including substance abuse prevention and treatment services.
   - **(25)** The terms “racial and ethnic minority group” and “racial and ethnic minority population” have the meaning given the term “racial and ethnic minority group” in section 300u–6 of this title .
   - **(26)** The term “rural health clinic” has the meaning given that term in section 1395x(aa) of this title .

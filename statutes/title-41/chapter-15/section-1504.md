@@ -3,14 +3,14 @@ title: "Section 1504 - Effect on other standards and regulations"
 usc_title: 41
 usc_section: "1504"
 chapter: 15
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "41 U.S.C. § 1504"
-generated_at: "2026-03-29T18:06:34.744Z"
+generated_at: "2026-03-29T18:26:25.269Z"
 ---
 
 # § 1504. Effect on other standards and regulations
 
-- **(a)** All cost accounting standards, waivers, exemptions, interpretations, modifications, rules, and regulations prescribed by the Cost Accounting Standards Board under section 719 of the Defense Production Act of 1950 (50 U.S.C. App. 2168)—
+- **(a)** All cost accounting standards, waivers, exemptions, interpretations, modifications, rules, and regulations prescribed by the Cost Accounting Standards Board under section 719 of the Defense Production Act of 1950 (50 U.S.C. App. 2168)— 1 1 See References in Text note below.
   - **(1)** remain in effect until amended, superseded, or rescinded by the Board under this chapter; and
   - **(2)** are subject to the provisions of this division in the same manner as if prescribed by the Board under this division.
 - **(b)** To ensure that a regulation or proposed regulation of an executive agency is not inconsistent with a cost accounting standard prescribed or amended under this chapter, the Administrator, under the authority in sections 1121, 1122(a) to (c)(1), 1125, 1126, 1130, 1131, and 2305 of this title, shall rescind or deny the promulgation of the inconsistent regulation or proposed regulation and take other appropriate action authorized under sections 1121, 1122(a) to (c)(1), 1125, 1126, 1130, 1131, and 2305.

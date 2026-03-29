@@ -3,9 +3,9 @@ title: "Section 4607 - Permissive terms and provisions"
 usc_title: 7
 usc_section: "4607"
 chapter: 77
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 4607"
-generated_at: "2026-03-29T18:04:05.037Z"
+generated_at: "2026-03-29T18:23:43.437Z"
 ---
 
 # § 4607. Permissive terms and provisions
@@ -20,16 +20,16 @@ generated_at: "2026-03-29T18:04:05.037Z"
   - **(7)** Providing for terms and conditions incidental to, and not inconsistent with, the terms and conditions specified in this chapter and necessary to effectuate the other provisions of such an order.
   - **(8)** If approved in a referendum conducted under this chapter, providing authority for the development of programs and related rules and regulations that will, with the approval of the Secretary, establish minimum purity standards for honey and honey products that are designed to maintain a positive and wholesome marketing image for honey and honey products.
 - **(b)**
-  - **(1)** Any program, rule, or regulation under subsection (a)(8) of this section may provide for the inspection, by the Secretary, of honey and honey products being sold for domestic consumption in, or for export from, the United States.
+  - **(1)** Any program, rule, or regulation under subsection (a)(8) may provide for the inspection, by the Secretary, of honey and honey products being sold for domestic consumption in, or for export from, the United States.
   - **(2)** The Honey Board may develop and recommend to the Secretary a system for monitoring the purity of honey and honey products being sold for domestic consumption in, or for export from, the United States, including a system for identifying adulterated honey.
   - **(3)** The Secretary may coordinate, to the maximum extent practicable, with the head of any other Federal agency that has authority to ensure compliance with labeling or other requirements relating to the purity of honey and honey products concerning an enforcement action against any person that does not comply with a rule or regulation issued by any other Federal agency concerning the labeling or purity requirements of honey and honey products.
   - **(4)** The Secretary may issue such rules and regulations as are necessary to carry out this subsection.
 - **(c)**
-  - **(1)** In addition to or independent of any program, rule, or regulation under subsection (b) of this section, the Honey Board, with the approval of the Secretary, may establish and carry out a voluntary quality assurance program concerning purity standards for honey and honey products.
+  - **(1)** In addition to or independent of any program, rule, or regulation under subsection (b), the Honey Board, with the approval of the Secretary, may establish and carry out a voluntary quality assurance program concerning purity standards for honey and honey products.
   - **(2)** The program may include—
     - **(A)** the establishment of an official Honey Board seal of approval to be displayed on honey and honey products of producers, handlers, and importers that participate in the voluntary program and are found to meet such standards of purity as are established under the program;
     - **(B)** actions to encourage producers, handlers, and importers to participate in the program;
     - **(C)** actions to encourage consumers to purchase honey and honey products bearing the official seal of approval; and
     - **(D)** periodic inspections by the Secretary, or other parties approved by the Secretary, of honey and honey products of producers, handlers, and importers that participate in the voluntary program.
   - **(3)** To be eligible to display the official seal of approval established under paragraph (2)(A) on a honey or honey product, a producer, handler, or importer shall participate in the voluntary program under this subsection.
-- **(d)** Notwithstanding any other provision of this chapter, the Secretary shall have the authority to approve or disapprove the establishment of minimum purity standards, the inspection and monitoring system under subsection (b) of this section, and the voluntary quality assurance program under subsection (c) of this section.
+- **(d)** Notwithstanding any other provision of this chapter, the Secretary shall have the authority to approve or disapprove the establishment of minimum purity standards, the inspection and monitoring system under subsection (b), and the voluntary quality assurance program under subsection (c).

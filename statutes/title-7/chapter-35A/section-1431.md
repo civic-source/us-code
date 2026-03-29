@@ -3,9 +3,9 @@ title: "Section 1431 - Disposition of commodities to prevent waste"
 usc_title: 7
 usc_section: "1431"
 chapter: 35
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 1431"
-generated_at: "2026-03-29T18:04:04.837Z"
+generated_at: "2026-03-29T18:23:43.258Z"
 ---
 
 # § 1431. Disposition of commodities to prevent waste
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T18:04:04.837Z"
 - **(b)**
   - **(1)** The Secretary, subject to the requirements of paragraph (10), may furnish eligible commodities for carrying out programs of assistance in developing countries and friendly countries under titles II and III of the Food for Peace Act [ 7 U.S.C. 1721 et seq., 1727 et seq.] and under the Food for Progress Act of 1985 [ 7 U.S.C. 1736 o ], as approved by the Secretary, and for such purposes as are approved by the Secretary. To ensure that the furnishing of commodities under this subsection is coordinated with and complements other United States foreign assistance, assistance under this subsection shall be coordinated through the mechanism designated by the President to coordinate assistance under the Food for Peace Act [ 7 U.S.C. 1691 et seq.].
   - **(2)** As used in this subsection, the term “eligible commodities” means—
-    - **(A)** dairy products, wheat, rice, feed grains, and oilseeds acquired by the Commodity Credit Corporation through price support operations, and the products thereof, that the Secretary determines meet the criteria specified in subsection (a) of this section; and
+    - **(A)** dairy products, wheat, rice, feed grains, and oilseeds acquired by the Commodity Credit Corporation through price support operations, and the products thereof, that the Secretary determines meet the criteria specified in subsection (a); and
     - **(B)** such other edible agricultural commodities as may be acquired by the Secretary or the Commodity Credit Corporation in the normal course of operations and that are available for disposition under this subsection, except that no such commodities may be acquired for the purpose of their use under this subsection.
   - **(3)**
     - **(A)** Commodities may not be made available for disposition under this subsection in amounts that (i) will, in any way, reduce the amounts of commodities that traditionally are made available through donations to domestic feeding programs or agencies, or (ii) will prevent the Secretary from fulfilling any agreement entered into by the Secretary under a payment-in-kind program under this Act or other Acts administered by the Secretary.

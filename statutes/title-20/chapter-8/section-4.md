@@ -3,9 +3,9 @@ title: "Section 4 - Enforcement"
 usc_title: 20
 usc_section: "4"
 chapter: 8
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 4"
-generated_at: "2026-03-29T18:05:00.019Z"
+generated_at: "2026-03-29T18:24:40.876Z"
 ---
 
 # § 130aa–4. Enforcement
@@ -14,4 +14,4 @@ generated_at: "2026-03-29T18:05:00.019Z"
   - **(1)** withdraws or expends any endowment fund corpus, or any endowment fund income in excess of the amount authorized by section 130aa–3 of this title ;
   - **(2)** fails to invest its endowment fund corpus or income in accordance with the investment standards set forth in section 130aa–2 of this title ; or
   - **(3)** fails to account properly to the Secretary concerning investments and expenditures of its endowment fund corpus or income.
-- **(b)** If the Secretary terminates a grant under subsection (a) of this section, the University shall return to the Treasury of the United States an amount equal to the sum of the original grant or grants under this subchapter 1 1 See Codification note below. plus any income earned thereon. The Secretary may direct the University to take such other appropriate measures to remedy any violation of this subchapter and to protect the financial interest of the United States.
+- **(b)** If the Secretary terminates a grant under subsection (a), the University shall return to the Treasury of the United States an amount equal to the sum of the original grant or grants under this subchapter 1 1 See Codification note below. plus any income earned thereon. The Secretary may direct the University to take such other appropriate measures to remedy any violation of this subchapter and to protect the financial interest of the United States.

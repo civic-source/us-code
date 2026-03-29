@@ -3,9 +3,9 @@ title: "Section 1271 - Treatment of amounts received on retirement or sale or ex
 usc_title: 26
 usc_section: "1271"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 1271"
-generated_at: "2026-03-29T18:05:44.789Z"
+generated_at: "2026-03-29T18:25:53.728Z"
 ---
 
 # § 1271. Treatment of amounts received on retirement or sale or exchange of debt instruments
@@ -46,11 +46,9 @@ generated_at: "2026-03-29T18:05:44.789Z"
     - **(B)** any obligation issued before July 2, 1982 , by an issuer which is not a corporation and is not a government or political subdivision thereof.
   - **(2)** Paragraph (1) shall not apply to any obligation purchased (within the meaning of section 1272(d)(1)) after June 8, 1997 .
 - **(c)**
-  - **(1)** Paragraph (1) of subsection (a) shall apply to a debt instrument issued before January 1, 1955 , only if such instrument was issued with interest coupons or in registered form, or was in such form on March 1, 1954 .
-  - **(2)**
-    - **(A)** On the sale or exchange of debt instruments issued by a government or political subdivision thereof after December 31, 1954 , and before July 2, 1982 , or by a corporation after December 31, 1954 , and on or before May 27, 1969 , any gain realized which does not exceed—
-      - **(i)** an amount equal to the original issue discount, or
-      - **(ii)** if at the time of original issue there was no intention to call the debt instrument before maturity, an amount which bears the same ratio to the original issue discount as the number of complete months that the debt instrument was held by the taxpayer bears to the number of complete months from the date of original issue to the date of maturity,
-    - **(B)** Subsection (a)(2)(A) shall not apply to any debt instrument referred to in subparagraph (A) of this paragraph.
-    - **(C)** For current inclusion of original issue discount, see section 1272.
+  - **(1)** On the sale or exchange of debt instruments issued by a government or political subdivision thereof after December 31, 1954 , and before July 2, 1982 , or by a corporation after December 31, 1954 , and on or before May 27, 1969 , any gain realized which does not exceed—
+    - **(A)** an amount equal to the original issue discount, or
+    - **(B)** if at the time of original issue there was no intention to call the debt instrument before maturity, an amount which bears the same ratio to the original issue discount as the number of complete months that the debt instrument was held by the taxpayer bears to the number of complete months from the date of original issue to the date of maturity, shall be considered as ordinary income.
+  - **(2)** Subsection (a)(2)(A) shall not apply to any debt instrument referred to in paragraph (1) of this subsection.
+  - **(3)** For current inclusion of original issue discount, see section 1272.
 - **(d)** This section and sections 1272 and 1286 shall not require the inclusion of any amount previously includible in gross income.

@@ -3,9 +3,9 @@ title: "Section 220301 - Organization"
 usc_title: 36
 usc_section: "220301"
 chapter: 2203
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "36 U.S.C. § 220301"
-generated_at: "2026-03-29T18:06:24.335Z"
+generated_at: "2026-03-29T18:26:09.307Z"
 ---
 
 # § 220301. Organization

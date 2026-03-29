@@ -1,14 +1,14 @@
 ---
-title: "Section 3913 - Reports on program implementation"
+title: "Section 3913 - Reports on pilot program implementation"
 usc_title: 33
 usc_section: "3913"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 3913"
-generated_at: "2026-03-29T02:14:18.670Z"
+generated_at: "2026-03-29T18:26:01.337Z"
 ---
 
-# § 3913. Reports on program implementation
+# § 3913. Reports on pilot program implementation
 
 - **(a)** As soon as practicable after each fiscal year for which amounts are made available to carry out this chapter, the Secretary and the Administrator shall publish on a dedicated, publicly accessible Internet site—
   - **(1)** each application received for assistance under this chapter; and
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T02:14:18.670Z"
     - **(B)** the amount of financial assistance provided for each project; and
     - **(C)** the basis for the selection of each project with respect to the requirements of this chapter.
 - **(b)**
-  - **(1)** Not later than 3 years after October 23, 2018 , the Comptroller General of the United States shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report summarizing for the projects that are receiving, or have received, assistance under this chapter—
+  - **(1)** Not later than 4 years after June 10, 2014 , the Comptroller General of the United States shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report summarizing for the projects that are receiving, or have received, assistance under this chapter—
     - **(A)** the applications received for assistance under this chapter;
     - **(B)** the projects selected for assistance under this chapter, including a description of the projects and the basis for the selection of those projects with respect to the requirements of this chapter;
     - **(C)** the type and amount of financial assistance provided for each project selected for assistance under this chapter;

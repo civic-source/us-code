@@ -3,9 +3,9 @@ title: "Section 81l - Additional exchange of lands"
 usc_title: 16
 usc_section: "81l"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 81l"
-generated_at: "2026-03-29T18:05:06.395Z"
+generated_at: "2026-03-29T18:24:22.416Z"
 ---
 
 # § 81l. Additional exchange of lands

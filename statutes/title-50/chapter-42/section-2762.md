@@ -3,13 +3,14 @@ title: "Section 2762 - Restriction on use of funds to pay penalties under Clean 
 usc_title: 50
 usc_section: "2762"
 chapter: 42
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 2762"
-generated_at: "2026-03-29T18:07:43.091Z"
+generated_at: "2026-03-29T18:27:35.662Z"
 ---
 
 # § 2762. Restriction on use of funds to pay penalties under Clean Air Act
 
-  - **(1)** the Secretary finds that compliance is physically impossible within the time prescribed for compliance, or
-  - **(2)** the President has specifically requested appropriations for compliance and Congress has failed to appropriate funds for such purpose.
+None of the funds authorized to be appropriated by the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981 ( Public Law 96–540 ; 94 Stat. 3197 ) or any other Act may be used to pay any penalty, fine, forfeiture, or settlement resulting from a failure to comply with the Clean Air Act ( 42 U.S.C. 7401 et seq.) with respect to any defense activity of the Department of Energy if—
 
+  - **(1)** the Secretary finds that compliance is physically impossible within the time prescribed for compliance; or
+  - **(2)** the President has specifically requested appropriations for compliance and Congress has failed to appropriate funds for such purpose.

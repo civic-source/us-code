@@ -3,9 +3,9 @@ title: "Section 225 - Acquisition accountability reports on the ballistic missil
 usc_title: 10
 usc_section: "225"
 chapter: 9
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 225"
-generated_at: "2026-03-29T18:04:12.976Z"
+generated_at: "2026-03-29T18:23:51.732Z"
 ---
 
 # § 225. Acquisition accountability reports on the ballistic missile defense system
@@ -52,3 +52,6 @@ generated_at: "2026-03-29T18:04:12.976Z"
   - **(1)** a justification for such adjustment or revision;
   - **(2)** the specific adjustments or revisions made to the acquisition baseline, including to the elements described in subsection (b); and
   - **(3)** the effective date of the adjusted or revised acquisition baseline.
+- **(e)** The Director shall ensure that each life-cycle cost estimate included in an acquisition baseline pursuant to subsection (b)(3)(A) includes—
+  - **(1)** all of the operations and sustainment costs for which the Director is responsible; and
+  - **(2)** a description of the operations and sustainment functions and costs for which a military department is responsible.

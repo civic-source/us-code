@@ -3,9 +3,9 @@ title: "Section 6272 - International voluntary agreements"
 usc_title: 42
 usc_section: "6272"
 chapter: 77
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 6272"
-generated_at: "2026-03-29T18:07:14.734Z"
+generated_at: "2026-03-29T18:27:03.677Z"
 ---
 
 # § 6272. International voluntary agreements
@@ -42,7 +42,7 @@ generated_at: "2026-03-29T18:07:14.734Z"
   - **(2)** Except in the case of actions taken to develop a voluntary agreement or plan of action, the defense provided in this subsection shall be available only if the person asserting the defense demonstrates that the actions were specified in, or within the reasonable contemplation of, an approved voluntary agreement or plan of action.
   - **(3)** Persons interposing the defense provided by this subsection shall have the burden of proof, except that the burden shall be on the person against whom the defense is asserted with respect to whether the actions were taken for the purpose of injuring competition.
 - **(g)** No provision of this section shall be construed as granting immunity for, or as limiting or in any way affecting any remedy or penalty which may result from any legal action or proceeding arising from, any act or practice which occurred prior to the date of enactment of this chapter or subsequent to its expiration or repeal.
-- **(h)** Section 2158 of title 50 , Appendix, shall not apply to any agreement or action undertaken for the purpose of developing or carrying out—
+- **(h)** Section 4558 of title 50 shall not apply to any agreement or action undertaken for the purpose of developing or carrying out—
   - **(1)** the international energy program; or
   - **(2)** any allocation, price control, or similar program with respect to petroleum products under this chapter.
 - **(i)** The Attorney General and the Federal Trade Commission shall each submit to the Congress and to the President, at such intervals as are appropriate based on significant developments and issues, reports on the impact on competition and on small business of actions authorized by this section.

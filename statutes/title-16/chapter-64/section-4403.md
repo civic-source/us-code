@@ -3,9 +3,9 @@ title: "Section 4403 - Establishment of North American Wetlands Conservation Cou
 usc_title: 16
 usc_section: "4403"
 chapter: 64
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 4403"
-generated_at: "2026-03-29T18:05:07.067Z"
+generated_at: "2026-03-29T18:24:22.909Z"
 ---
 
 # § 4403. Establishment of North American Wetlands Conservation Council
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T18:05:07.067Z"
   - **(3)** nonprofit charitable organizations and Native American interests, including tribal organizations, which are participating actively in one or more wetlands conservation projects under this chapter, the Plan, or the Agreement.
 - **(d)** The Chairman shall be elected by the Council from its members for a three-year term, except that the first elected Chairman may serve a term of less than three years.
 - **(e)** A majority of the current membership of the Council shall constitute a quorum for the transaction of business.
-- **(f)** The Council shall meet at the call of the Chairman at least once a year. Council meetings shall be open to the public, and the Chairman shall take appropriate steps to provide adequate notice to the public of the time and place of such meetings. If a Council member appointed under subsection (a)(1)(C) or (a)(1)(D) of this section misses three consecutive regularly scheduled meetings, the Secretary may remove that individual in accordance with subsection (b)(4) of this section.
+- **(f)** The Council shall meet at the call of the Chairman at least once a year. Council meetings shall be open to the public, and the Chairman shall take appropriate steps to provide adequate notice to the public of the time and place of such meetings. If a Council member appointed under subsection (a)(1)(C) or (a)(1)(D) of this section misses three consecutive regularly scheduled meetings, the Secretary may remove that individual in accordance with subsection (b)(4).
 - **(g)** The Director of the United States Fish and Wildlife Service shall appoint an individual who shall serve at the pleasure of the Director and—
   - **(1)** who shall be educated and experienced in the principles of fish, wildlife, and wetlands conservation;
   - **(2)** who shall be responsible, with assistance from the United States Fish and Wildlife Service, for facilitating consideration of wetlands conservation projects by the Council and otherwise assisting the Council in carrying out its responsibilities under this chapter; and

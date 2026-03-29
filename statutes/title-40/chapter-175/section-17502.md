@@ -3,9 +3,9 @@ title: "Section 17502 - Monitoring system"
 usc_title: 40
 usc_section: "17502"
 chapter: 175
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "40 U.S.C. § 17502"
-generated_at: "2026-03-29T18:06:19.984Z"
+generated_at: "2026-03-29T18:26:04.594Z"
 ---
 
 # § 17502. Monitoring system

@@ -3,9 +3,9 @@ title: "Section 169 - Development of programmatic mitigation plans"
 usc_title: 23
 usc_section: "169"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "23 U.S.C. § 169"
-generated_at: "2026-03-29T18:05:12.225Z"
+generated_at: "2026-03-29T18:25:00.190Z"
 ---
 
 # § 169. Development of programmatic mitigation plans
@@ -29,5 +29,5 @@ generated_at: "2026-03-29T18:05:12.225Z"
   - **(3)** consider any comments received from such agencies and the public on the draft plan; and
   - **(4)** address such comments in the final plan.
 - **(e)** A programmatic mitigation plan may be integrated with other plans, including watershed plans, ecosystem plans, species recovery plans, growth management plans, and land use plans.
-- **(f)** If a programmatic mitigation plan has been developed pursuant to this section, any Federal agency responsible for environmental reviews, permits, or approvals for a transportation project may use the recommendations in a programmatic mitigation plan when carrying out the responsibilities under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).
+- **(f)** If a programmatic mitigation plan has been developed pursuant to this section, any Federal agency responsible for environmental reviews, permits, or approvals for a transportation project shall give substantial weight to the recommendations in a programmatic mitigation plan when carrying out the responsibilities under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) or other Federal environmental law.
 - **(g)** Nothing in this section limits the use of programmatic approaches to reviews under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).

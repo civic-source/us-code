@@ -1,14 +1,12 @@
 ---
-title: "Section 1773g - Jurisdiction"
+title: "Section 1773g - Omitted"
 usc_title: 25
 usc_section: "1773g"
 chapter: 19
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1773g"
-generated_at: "2026-03-29T18:05:17.181Z"
+generated_at: "2026-03-29T18:25:23.751Z"
 ---
 
-# § 1773g. Jurisdiction
-
-The Tribe shall retain and exercise jurisdiction, and the United States and the State and political subdivisions thereof shall retain and exercise jurisdiction, as provided in the Settlement Agreement and Technical Documents and, where not provided therein, as otherwise provided by Federal law.
+# § 1773g. Omitted
 

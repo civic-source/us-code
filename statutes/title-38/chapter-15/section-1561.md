@@ -1,15 +1,12 @@
 ---
-title: "Section 1561 - Certificate"
+title: "Section 1561 - Repealed. Pub. L. 113–66, div. A, title V , § 563(c)(1), Dec. 26, 2013 , 127 Stat. 768 ]"
 usc_title: 38
 usc_section: "1561"
 chapter: 15
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "38 U.S.C. § 1561"
-generated_at: "2026-03-29T18:06:22.747Z"
+generated_at: "2026-03-29T18:26:07.553Z"
 ---
 
-# § 1561. Certificate
+# [§§ 1560, 1561. Repealed. Pub. L. 113–66, div. A, title V , § 563(c)(1), Dec. 26, 2013 , 127 Stat. 768 ]
 
-- **(a)** The Secretary concerned shall determine whether or not each applicant is entitled to have such person’s name entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll. If the official award of the Medal of Honor to the applicant, or the official notice to such person thereof, shows that the Medal of Honor was awarded to the applicant for an act described in section 1560 of this title , such award or notice shall be sufficient to entitle the applicant to have such person’s name entered on such roll without further investigation; otherwise all official correspondence, orders, reports, recommendations, requests, and other evidence on file in any public office or department shall be considered.
-- **(b)** Each person whose name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll shall be furnished a certificate of service and of the act of heroism, gallantry, bravery, or intrepidity for which the Medal of Honor was awarded, of enrollment on such roll, and, if such person has indicated such person’s desire to receive the special pension provided by section 1562 of this title , of such person’s right to such special pension.
-- **(c)** The Secretary concerned shall deliver to the Secretary a certified copy of each certificate issued under subsection (b) in which the right of the person named in the certificate to the special pension provided by section 1562 of this title is set forth. Such copy shall authorize the Secretary to pay such special pension to the person named in the certificate.

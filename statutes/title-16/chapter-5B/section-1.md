@@ -3,9 +3,9 @@ title: "Section 1 - Firearm and bow hunter education and safety program grants"
 usc_title: 16
 usc_section: "1"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-29T18:05:06.794Z"
+generated_at: "2026-03-29T18:24:22.681Z"
 ---
 
 # § 669h–1. Firearm and bow hunter education and safety program grants
@@ -22,4 +22,4 @@ generated_at: "2026-03-29T18:05:06.794Z"
 - **(b)** The Federal share of the cost of any activity carried out with a grant under this section shall not exceed 75 percent of the total cost of the activity.
 - **(c)**
   - **(1)** Amounts made available and apportioned for grants under this section shall remain available only for the fiscal year for which the amounts are apportioned.
-  - **(2)** At the end of the period of availability under paragraph (1), the Secretary of the Interior shall apportion amounts made available that have not been used to make grants under this section among the States described in subsection (a)(1)(B) of this section for use by those States in accordance with this chapter.
+  - **(2)** At the end of the period of availability under paragraph (1), the Secretary of the Interior shall apportion amounts made available that have not been used to make grants under this section among the States described in subsection (a)(1)(B) for use by those States in accordance with this chapter.

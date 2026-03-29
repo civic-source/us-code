@@ -3,9 +3,9 @@ title: "Section 30119 - Notification procedures"
 usc_title: 49
 usc_section: "30119"
 chapter: 301
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 30119"
-generated_at: "2026-03-29T18:07:51.433Z"
+generated_at: "2026-03-29T18:27:16.531Z"
 ---
 
 # § 30119. Notification procedures
@@ -41,3 +41,7 @@ generated_at: "2026-03-29T18:07:51.433Z"
 - **(f)**
   - **(1)** In this subsection, “leased motor vehicle” means a motor vehicle that is leased to a person for at least 4 months by a lessor that has leased at least 5 motor vehicles in the 12 months before the date of the notification.
   - **(2)** A lessor that receives a notification required by section 30118 of this title about a leased motor vehicle shall provide a copy of the notification to the lessee in the way the Secretary prescribes by regulation.
+- **(g)** A manufacturer that is required to furnish a report under section 573.6 of title 49, Code of Federal Regulations (or any successor regulation) for a defect or noncompliance in a motor vehicle or in an item of original or replacement equipment shall, if such defect or noncompliance involves a specific component or components, include in such report, with respect to such component or components, the following information:
+  - **(1)** The name of the component or components.
+  - **(2)** A description of the component or components.
+  - **(3)** The part number of the component or components, if any.

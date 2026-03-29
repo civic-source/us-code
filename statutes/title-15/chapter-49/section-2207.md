@@ -3,9 +3,9 @@ title: "Section 2207 - Fire technology"
 usc_title: 15
 usc_section: "2207"
 chapter: 49
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 2207"
-generated_at: "2026-03-29T18:04:29.839Z"
+generated_at: "2026-03-29T18:24:08.529Z"
 ---
 
 # § 2207. Fire technology
@@ -32,7 +32,7 @@ generated_at: "2026-03-29T18:04:29.839Z"
   - **(2)** the wildland-urban interface.
 - **(e)** At the request of other Federal agencies, including the Department of Agriculture and the Department of the Interior, the Administrator may provide assistance in fire prevention and control technologies, including methods of containing insect-infested forest fires and limiting dispersal of resultant fire particle smoke, and methods of measuring and tracking the dispersal of fine particle smoke resulting from fires of insect-infested fuel.
 - **(f)**
-  - **(1)** In addition to, or as part of, the program conducted under subsection (a) of this section, the Administrator, in consultation with the National Institute of Standards and Technology, the Inter-Agency Board for Equipment Standardization and Inter-Operability, the National Institute for Occupational Safety and Health, the Directorate of Science and Technology of the Department of Homeland Security, national voluntary consensus standards development organizations, interested Federal, State, and local agencies, and other interested parties, shall—
+  - **(1)** In addition to, or as part of, the program conducted under subsection (a), the Administrator, in consultation with the National Institute of Standards and Technology, the Inter-Agency Board for Equipment Standardization and Inter-Operability, the National Institute for Occupational Safety and Health, the Directorate of Science and Technology of the Department of Homeland Security, national voluntary consensus standards development organizations, interested Federal, State, and local agencies, and other interested parties, shall—
     - **(A)** develop new, and utilize existing, measurement techniques and testing methodologies for evaluating new firefighting technologies, including—
       - **(i)** personal protection equipment;
       - **(ii)** devices for advance warning of extreme hazard;

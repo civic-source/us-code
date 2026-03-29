@@ -3,23 +3,23 @@ title: "Section 669b - Grants to States for access and visitation programs"
 usc_title: 42
 usc_section: "669b"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 669b"
-generated_at: "2026-03-29T18:07:13.759Z"
+generated_at: "2026-03-29T18:27:02.929Z"
 ---
 
 # § 669b. Grants to States for access and visitation programs
 
 - **(a)** The Administration for Children and Families shall make grants under this section to enable States to establish and administer programs to support and facilitate noncustodial parents’ access to and visitation of their children, by means of activities including mediation (both voluntary and mandatory), counseling, education, development of parenting plans, visitation enforcement (including monitoring, supervision and neutral drop-off and pickup), and development of guidelines for visitation and alternative custody arrangements.
 - **(b)** The amount of the grant to be made to a State under this section for a fiscal year shall be an amount equal to the lesser of—
-  - **(1)** 90 percent of State expenditures during the fiscal year for activities described in subsection (a) of this section; or
-  - **(2)** the allotment of the State under subsection (c) of this section for the fiscal year.
+  - **(1)** 90 percent of State expenditures during the fiscal year for activities described in subsection (a); or
+  - **(2)** the allotment of the State under subsection (c) for the fiscal year.
 - **(c)**
   - **(1)** The allotment of a State for a fiscal year is the amount that bears the same ratio to $10,000,000 for grants under this section for the fiscal year as the number of children in the State living with only 1 biological parent bears to the total number of such children in all States.
   - **(2)** The Administration for Children and Families shall adjust allotments to States under paragraph (1) as necessary to ensure that no State is allotted less than—
     - **(A)** $50,000 for fiscal year 1997 or 1998; or
     - **(B)** $100,000 for any succeeding fiscal year.
-- **(d)** A State to which a grant is made under this section may not use the grant to supplant expenditures by the State for activities specified in subsection (a) of this section, but shall use the grant to supplement such expenditures at a level at least equal to the level of such expenditures for fiscal year 1995.
+- **(d)** A State to which a grant is made under this section may not use the grant to supplant expenditures by the State for activities specified in subsection (a), but shall use the grant to supplement such expenditures at a level at least equal to the level of such expenditures for fiscal year 1995.
 - **(e)** Each State to which a grant is made under this section—
   - **(1)** may administer State programs funded with the grant, directly or through grants to or contracts with courts, local public agencies, or nonprofit private entities;
   - **(2)** shall not be required to operate such programs on a statewide basis; and

@@ -3,9 +3,9 @@ title: "Section 324 - Special pay: accession bonus for new officers in critical 
 usc_title: 37
 usc_section: "324"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "37 U.S.C. § 324"
-generated_at: "2026-03-29T18:06:17.215Z"
+generated_at: "2026-03-29T18:26:10.134Z"
 ---
 
 # § 324. Special pay: accession bonus for new officers in critical skills
@@ -18,4 +18,4 @@ generated_at: "2026-03-29T18:06:17.215Z"
 - **(d)** Upon acceptance of a written agreement under subsection (a) by the Secretary concerned, the total amount of the accession bonus payable under the agreement becomes fixed. The agreement shall specify whether the accession bonus will be paid by the Secretary in a lump sum or installments.
 - **(e)** An individual may not receive an accession bonus under this section and section 302d, 302h, 302j, or 312b of this title for the same period of service.
 - **(f)** An individual who, having received all or part of the bonus under an agreement referred to in subsection (a), is not thereafter commissioned as an officer or does not commence or complete the total period of active duty service specified in the agreement shall be subject to the repayment provisions of section 303a(e) of this title .
-- **(g)** No agreement under this section may be entered into after December 31, 2013 .
+- **(g)** No agreement under this section may be entered into after December 31, 2016 .

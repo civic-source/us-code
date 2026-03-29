@@ -3,9 +3,9 @@ title: "Section 1374 - Tax imposed on certain built-in gains"
 usc_title: 26
 usc_section: "1374"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 1374"
-generated_at: "2026-03-29T18:05:44.805Z"
+generated_at: "2026-03-29T18:25:53.742Z"
 ---
 
 # § 1374. Tax imposed on certain built-in gains
@@ -52,15 +52,8 @@ generated_at: "2026-03-29T18:05:44.805Z"
     - **(A)** such asset shall be treated as held by the S corporation as of the beginning of such 1st taxable year, and
     - **(B)** any determination under paragraph (3)(B) or (4)(B) with respect to such asset shall be made by reference to the fair market value and adjusted basis of such other asset as of the beginning of such 1st taxable year.
   - **(7)**
-    - **(A)** The term “recognition period” means the 10-year period beginning with the 1st day of the 1st taxable year for which the corporation was an S corporation.
-    - **(B)** No tax shall be imposed on the net recognized built-in gain of an S corporation—
-      - **(i)** in the case of any taxable year beginning in 2009 or 2010, if the 7th taxable year in the recognition period preceded such taxable year, or
-      - **(ii)** in the case of any taxable year beginning in 2011, if the 5th year in the recognition period preceded such taxable year.
-    - **(C)** For purposes of determining the net recognized built-in gain for taxable years beginning in 2012 or 2013, subparagraphs (A) and (D) shall be applied by substituting “5-year” for “10-year”.
-    - **(D)** For purposes of applying this section to any amount includible in income by reason of distributions to shareholders pursuant to section 593(e)—
-      - **(i)** subparagraph (A) shall be applied without regard to the phrase “10-year”, and
-      - **(ii)** subparagraph (B) shall not apply.
-    - **(E)** If an S corporation sells an asset and reports the income from the sale using the installment method under section 453, the treatment of all payments received shall be governed by the provisions of this paragraph applicable to the taxable year in which such sale was made.
+    - **(A)** The term “recognition period” means the 5-year period beginning with the 1st day of the 1st taxable year for which the corporation was an S corporation. For purposes of applying this section to any amount includible in income by reason of distributions to shareholders pursuant to section 593(e), the preceding sentence shall be applied without regard to the phrase “5-year”.
+    - **(B)** If an S corporation sells an asset and reports the income from the sale using the installment method under section 453, the treatment of all payments received shall be governed by the provisions of this paragraph applicable to the taxable year in which such sale was made.
   - **(8)**
     - **(A)** Except to the extent provided in regulations, if—
       - **(i)** an S corporation acquires any asset, and

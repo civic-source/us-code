@@ -3,12 +3,12 @@ title: "Section 11291 - Providing information for personnel of Social Security A
 usc_title: 42
 usc_section: "11291"
 chapter: 118
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 11291"
-generated_at: "2026-03-29T18:07:15.174Z"
+generated_at: "2026-03-29T18:27:04.014Z"
 ---
 
 # § 11291. Providing information for personnel of Social Security Administration
 
 - **(a)** The Secretary shall develop a mechanism to ensure the prompt provision of the most current information concerning Alzheimer’s disease and related dementias to the Commissioner of Social Security, particularly information which will increase the understanding of personnel of the Social Security Administration concerning such disease and dementias.
-- **(b)** The Commissioner of Social Security shall ensure that information received under subsection (a) of this section is provided to personnel of the Social Security Administration, particularly personnel involved in the process of determining, for purposes of titles II and XVI of the Social Security Act [ 42 U.S.C. 401 et seq., 1381 et seq.], whether an individual is under a disability.
+- **(b)** The Commissioner of Social Security shall ensure that information received under subsection (a) is provided to personnel of the Social Security Administration, particularly personnel involved in the process of determining, for purposes of titles II and XVI of the Social Security Act [ 42 U.S.C. 401 et seq., 1381 et seq.], whether an individual is under a disability.

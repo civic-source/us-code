@@ -3,9 +3,9 @@ title: "Section 15101 - Definitions"
 usc_title: 40
 usc_section: "15101"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "40 U.S.C. § 15101"
-generated_at: "2026-03-29T18:06:19.981Z"
+generated_at: "2026-03-29T18:26:04.588Z"
 ---
 
 # § 15101. Definitions
@@ -26,6 +26,6 @@ In this subtitle, the following definitions apply:
       - **(i)** inappropriately used Federal grant funds from any Federal source; or
       - **(ii)** appointed an officer who, during the period in which another entity inappropriately used Federal grant funds from any Federal source, was an officer of the other entity.
   - **(3)** The term “Federal grant program” means a Federal grant program to provide assistance in carrying out economic and community development activities.
-  - **(4)** The term “Indian tribe” has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450b ).
+  - **(4)** The term “Indian tribe” has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450b ). 1 1 See References in Text note below.
   - **(5)** The term “nonprofit entity” means any organization described in section 501(c) of the Internal Revenue Code of 1986 and exempt from taxation under 501(a) of that Code that has been formed for the purpose of economic development.
-  - **(6)** The term “region” means the area covered by a Commission as described in subchapter II of chapter 157. 1 1 So in original. Probably means chapter 4 of this subtitle.
+  - **(6)** The term “region” means the area covered by a Commission as described in subchapter II of chapter 157. 2 2 So in original. Probably means chapter 4 of this subtitle.

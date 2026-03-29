@@ -1,14 +1,14 @@
 ---
-title: "Section 1413 - 470–512 MHz public safety spectrum."
+title: "Section 1413 - 470–512 MHz public safety spectrum"
 usc_title: 47
 usc_section: "1413"
 chapter: 13
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "47 U.S.C. § 1413"
-generated_at: "2026-03-29T18:07:40.922Z"
+generated_at: "2026-03-29T18:27:09.611Z"
 ---
 
-# § 1413. 470–512 MHz public safety spectrum.
+# § 1413. 470–512 MHz public safety spectrum
 
 - **(a)** Not later than 9 years after February 22, 2012 , the Commission shall—
   - **(1)** reallocate the spectrum in the 470–512 MHz band (referred to in this section as the “T-Band spectrum”) currently used by public safety eligibles as identified in section 90.303 of title 47, Code of Federal Regulations; and

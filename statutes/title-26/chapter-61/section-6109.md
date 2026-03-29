@@ -3,9 +3,9 @@ title: "Section 6109 - Identifying numbers"
 usc_title: 26
 usc_section: "6109"
 chapter: 61
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 6109"
-generated_at: "2026-03-29T18:05:44.982Z"
+generated_at: "2026-03-29T18:25:53.906Z"
 ---
 
 # § 6109. Identifying numbers
@@ -37,3 +37,25 @@ generated_at: "2026-03-29T18:05:44.982Z"
   - **(2)** If any person receives or accrues interest referred to in paragraph (1), such person shall include on the return for the taxable year in which such interest is so received or accrued the name, address, and TIN of the person liable for such interest.
   - **(3)** If any person is required to include the TIN of another person on a return under paragraph (1) or (2), such other person shall furnish his TIN to such person.
   - **(4)** For purposes of this subsection, the term “seller-provided financing” means any indebtedness incurred in acquiring any residence if the person to whom such indebtedness is owed is the person from whom such residence was acquired.
+- **(i)**
+  - **(1)** The Secretary is authorized to issue an individual taxpayer identification number to an individual only if the applicant submits an application, using such form as the Secretary may require and including the required documentation—
+    - **(A)** in the case of an applicant not described in subparagraph (B)—
+      - **(i)** in person to an employee of the Internal Revenue Service or a community-based certified acceptance agent approved by the Secretary, or
+      - **(ii)** by mail, pursuant to rules prescribed by the Secretary, or
+    - **(B)** in the case of an applicant who resides outside of the United States, by mail or in person to an employee of the Internal Revenue Service or a designee of the Secretary at a United States diplomatic mission or consular post.
+  - **(2)** For purposes of this subsection—
+    - **(A)** The term “required documentation” includes such documentation as the Secretary may require that proves the individual’s identity, foreign status, and residency.
+    - **(B)** The Secretary may accept only original documents or certified copies meeting the requirements of the Secretary.
+  - **(3)**
+    - **(A)** An individual taxpayer identification number issued after December 31, 2012 , shall remain in effect unless the individual to whom such number is issued does not file a return of tax (or is not included as a dependent on the return of tax of another taxpayer) for 3 consecutive taxable years. In the case of an individual described in the preceding sentence, such number shall expire on the last day of such third consecutive taxable year.
+    - **(B)** In the case of an individual with respect to whom an individual taxpayer identification number was issued before January 1, 2013 , such number shall remain in effect until the earlier of—
+      - **(i)** the applicable date, or
+      - **(ii)** if the individual does not file a return of tax (or is not included as a dependent on the return of tax of another taxpayer) for 3 consecutive taxable years, the earlier of—
+        - **(I)** the last day of such third consecutive taxable year, or
+        - **(II)** the last day of the taxable year that includes the date of the enactment of this subsection.
+    - **(C)** For purposes of subparagraph (B), the term “applicable date” means—
+      - **(i)** January 1, 2017 , in the case of an individual taxpayer identification number issued before January 1, 2008 ,
+      - **(ii)** January 1, 2018 , in the case of an individual taxpayer identification number issued in 2008,
+      - **(iii)** January 1, 2019 , in the case of an individual taxpayer identification number issued in 2009 or 2010, and
+      - **(iv)** January 1, 2020 , in the case of an individual taxpayer identification number issued in 2011 or 2012.
+  - **(4)** The Secretary shall implement a system that ensures that individual taxpayer identification numbers issued solely for purposes of claiming tax treaty benefits are used only for such purposes, by distinguishing such numbers from other individual taxpayer identification numbers issued.

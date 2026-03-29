@@ -3,15 +3,15 @@ title: "Section 3202 - Beneficiary country"
 usc_title: 19
 usc_section: "3202"
 chapter: 20
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 3202"
-generated_at: "2026-03-29T18:04:55.128Z"
+generated_at: "2026-03-29T18:24:16.194Z"
 ---
 
 # § 3202. Beneficiary country
 
 - **(a)** For purposes of this chapter—
-  - **(1)** The term “beneficiary country” means any country listed in subsection (b)(1) of this section with respect to which there is in effect a proclamation by the President designating such country as a beneficiary country for purposes of this chapter.
+  - **(1)** The term “beneficiary country” means any country listed in subsection (b)(1) with respect to which there is in effect a proclamation by the President designating such country as a beneficiary country for purposes of this chapter.
   - **(2)** The term “entered” means entered, or withdrawn from warehouse for consumption, in the customs territory of the United States.
   - **(3)** The term “HTS” means Harmonized Tariff Schedule of the United States.
 - **(b)**
@@ -66,6 +66,6 @@ generated_at: "2026-03-29T18:04:55.128Z"
         - **(II)** the time and place at which such written comments will be accepted.
 - **(f)**
   - **(1)** Not later than June 30, 2010 , and annually thereafter during the period this chapter is in effect, the United States Trade Representative shall submit to the Congress a report regarding the operation of this chapter, including—
-    - **(A)** with respect to subsections (c) and (d) of this section, the results of a general review of beneficiary countries based on the considerations described in such subsections; and
+    - **(A)** with respect to subsections (c) and (d), the results of a general review of beneficiary countries based on the considerations described in such subsections; and
     - **(B)** the performance of each beneficiary country or ATPEA 2 2 So in original. Probably should be “ATPDEA”. beneficiary country, as the case may be, under the criteria set forth in section 3203(b)(6)(B) of this title .
   - **(2)** Before submitting the report described in paragraph (1), the United States Trade Representative shall publish a notice in the Federal Register requesting public comments on whether beneficiary countries are meeting the criteria listed in section 3203(b)(6)(B) of this title .

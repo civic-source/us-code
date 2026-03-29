@@ -1,12 +1,12 @@
 ---
-title: "Section 28 - Repealed. Pub. L. 104–66, title I, § 1041(e) , Dec. 21, 1995 , 109 Stat. 715"
+title: "Section 28 - Repealed. Pub. L. 104–66, title I , § 1041(e), Dec. 21, 1995 , 109 Stat. 715"
 usc_title: 20
 usc_section: "28"
 chapter: 2
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 28"
-generated_at: "2026-03-29T18:05:00.000Z"
+generated_at: "2026-03-29T18:24:40.862Z"
 ---
 
-# § 28. Repealed. Pub. L. 104–66, title I, § 1041(e) , Dec. 21, 1995 , 109 Stat. 715
+# § 28. Repealed. Pub. L. 104–66, title I , § 1041(e), Dec. 21, 1995 , 109 Stat. 715
 

@@ -3,9 +3,9 @@ title: "Section 2462 - Designation of beneficiary developing countries"
 usc_title: 19
 usc_section: "2462"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 2462"
-generated_at: "2026-03-29T18:04:55.099Z"
+generated_at: "2026-03-29T18:24:16.167Z"
 ---
 
 # § 2462. Designation of beneficiary developing countries
@@ -43,7 +43,7 @@ generated_at: "2026-03-29T18:04:55.099Z"
         - **(II)** good faith negotiations to provide prompt, adequate, and effective compensation under the applicable provisions of international law are in progress, or the country described in clause (i) is otherwise taking steps to discharge its obligations under international law with respect to such citizen, corporation, partnership, or association, or
         - **(III)** a dispute involving such citizen, corporation, partnership, or association over compensation for such a seizure has been submitted to arbitration under the provisions of the Convention for the Settlement of Investment Disputes, or in another mutually agreed upon forum,
     - **(E)** Such country fails to act in good faith in recognizing as binding or in enforcing arbitral awards in favor of United States citizens or a corporation, partnership, or association which is 50 percent or more beneficially owned by United States citizens, which have been made by arbitrators appointed for each case or by permanent arbitral bodies to which the parties involved have submitted their dispute.
-    - **(F)** Such country aids or abets, by granting sanctuary from prosecution to, any individual or group which has committed an act of international terrorism or the Secretary of State makes a determination with respect to such country under section 2405(j)(1)(A) of title 50 , Appendix or such country has not taken steps to support the efforts of the United States to combat terrorism.
+    - **(F)** Such country aids or abets, by granting sanctuary from prosecution to, any individual or group which has committed an act of international terrorism or the Secretary of State makes a determination with respect to such country under section 4605(j)(1)(A) of title 50 or such country has not taken steps to support the efforts of the United States to combat terrorism.
     - **(G)** Such country has not taken or is not taking steps to afford internationally recognized worker rights to workers in the country (including any designated zone in that country).
     - **(H)** Such country has not implemented its commitments to eliminate the worst forms of child labor.
 - **(c)** In determining whether to designate any country as a beneficiary developing country under this subchapter, the President shall take into account—
@@ -58,8 +58,8 @@ generated_at: "2026-03-29T18:04:55.099Z"
   - **(7)** whether or not such country has taken or is taking steps to afford to workers in that country (including any designated zone in that country) internationally recognized worker rights.
 - **(d)**
   - **(1)** The President may withdraw, suspend, or limit the application of the duty-free treatment accorded under this subchapter with respect to any country. In taking any action under this subsection, the President shall consider the factors set forth in section 2461 of this title and subsection (c) of this section.
-  - **(2)** The President shall, after complying with the requirements of subsection (f)(2) of this section, withdraw or suspend the designation of any country as a beneficiary developing country if, after such designation, the President determines that as the result of changed circumstances such country would be barred from designation as a beneficiary developing country under subsection (b)(2) of this section. Such country shall cease to be a beneficiary developing country on the day on which the President issues an Executive order or Presidential proclamation revoking the designation of such country under this subchapter.
-  - **(3)** The President shall, as necessary, advise the Congress on the application of section 2461 of this title and subsection (c) of this section, and the actions the President has taken to withdraw, to suspend, or to limit the application of duty-free treatment with respect to any country which has failed to adequately take the actions described in subsection (c) of this section.
+  - **(2)** The President shall, after complying with the requirements of subsection (f)(2), withdraw or suspend the designation of any country as a beneficiary developing country if, after such designation, the President determines that as the result of changed circumstances such country would be barred from designation as a beneficiary developing country under subsection (b)(2). Such country shall cease to be a beneficiary developing country on the day on which the President issues an Executive order or Presidential proclamation revoking the designation of such country under this subchapter.
+  - **(3)** The President shall, as necessary, advise the Congress on the application of section 2461 of this title and subsection (c) of this section, and the actions the President has taken to withdraw, to suspend, or to limit the application of duty-free treatment with respect to any country which has failed to adequately take the actions described in subsection (c).
 - **(e)** If the President determines that a beneficiary developing country has become a “high income” country, as defined by the official statistics of the International Bank for Reconstruction and Development, then the President shall terminate the designation of such country as a beneficiary developing country for purposes of this subchapter, effective on January 1 of the second year following the year in which such determination is made.
 - **(f)**
   - **(1)**

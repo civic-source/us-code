@@ -3,9 +3,9 @@ title: "Section 567c - Authorization of appropriation for cooperation in acquisi
 usc_title: 16
 usc_section: "567c"
 chapter: 3
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 567c"
-generated_at: "2026-03-29T18:05:06.768Z"
+generated_at: "2026-03-29T18:24:22.658Z"
 ---
 
 # § 567c. Authorization of appropriation for cooperation in acquisition and management of State forests

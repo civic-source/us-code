@@ -1,18 +1,12 @@
 ---
-title: "Section 1756 - Practice and procedure"
+title: "Section 1756 - Omitted"
 usc_title: 25
 usc_section: "1756"
 chapter: 19
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1756"
-generated_at: "2026-03-29T18:05:17.178Z"
+generated_at: "2026-03-29T18:25:23.751Z"
 ---
 
-# § 1756. Practice and procedure
+# § 1756. Omitted
 
-- **(a)** Notwithstanding any other provision of law, the constitutionality of this subchapter may not be drawn into question in any action unless such question has been raised in—
-  - **(1)** a pleading contained in a complaint filed before the end of the one-hundred-and-eighty-day period beginning on October 18, 1983 , or
-  - **(2)** an answer contained in a reply to a complaint before the end of such period.
-- **(b)** Notwithstanding any other provision of law, exclusive jurisdiction of any action in which the constitutionality of this subchapter is drawn into question is vested in the United States District Court for the District of Connecticut.
-- **(c)** Any action to which subsection (a) of this section applies and which is brought in the court of any State may be removed by the defendant to the United States District Court for the District of Connecticut.
-- **(d)** Except as provided in this subchapter, no provision of this subchapter shall be construed to constitute a jurisdictional act, to confer jurisdiction to sue, or to grant implied consent to any Indian, Indian nation, or tribe or band of Indians to sue the United States or any of its officers with respect to the claims extinguished by the operation of this subchapter.

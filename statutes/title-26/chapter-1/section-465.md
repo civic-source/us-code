@@ -3,9 +3,9 @@ title: "Section 465 - Deductions limited to amount at risk"
 usc_title: 26
 usc_section: "465"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 465"
-generated_at: "2026-03-29T18:05:44.643Z"
+generated_at: "2026-03-29T18:25:53.593Z"
 ---
 
 # § 465. Deductions limited to amount at risk
@@ -54,8 +54,8 @@ generated_at: "2026-03-29T18:05:44.643Z"
     - **(A)** holding, producing, or distributing motion picture films or video tapes,
     - **(B)** farming (as defined in section 464(e)),
     - **(C)** leasing any section 1245 property (as defined in section 1245(a)(3)),
-    - **(D)** exploring for, or exploiting, oil and gas resources as a trade or business or for the production of income, or
-    - **(E)** exploring for, or exploiting, geothermal deposits (as defined in section 613(e)(2)).
+    - **(D)** exploring for, or exploiting, oil and gas resources, or
+    - **(E)** exploring for, or exploiting, geothermal deposits (as defined in section 613(e)(2)) 1 1 So in original. Probably should be followed by a comma.
   - **(2)** For purposes of this section—
     - **(A)** Except as provided in subparagraph (B), a taxpayer’s activity with respect to each—
       - **(i)** film or video tape,
@@ -69,7 +69,7 @@ generated_at: "2026-03-29T18:05:44.643Z"
         - **(II)** are placed in service in any taxable year of the partnership or S corporation,
       - **(ii)** Rules similar to the rules of subparagraphs (B) and (C) of paragraph (3) shall apply for purposes of this paragraph.
   - **(3)**
-    - **(A)** In the case of taxable years beginning after December 31, 1978 , this section also applies to each activity—
+    - **(A)** This section also applies to each activity—
       - **(i)** engaged in by the taxpayer in carrying on a trade or business or for the production of income, and
       - **(ii)** which is not described in paragraph (1).
     - **(B)** Except as provided in subparagraph (C), for purposes of this section, activities described in subparagraph (A) which constitute a trade or business shall be treated as one activity if—

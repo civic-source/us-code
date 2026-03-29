@@ -3,9 +3,9 @@ title: "Section 718a - Prohibition on taking"
 usc_title: 16
 usc_section: "718a"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 718a"
-generated_at: "2026-03-29T18:05:06.815Z"
+generated_at: "2026-03-29T18:24:22.696Z"
 ---
 
 # § 718a. Prohibition on taking
@@ -14,8 +14,9 @@ generated_at: "2026-03-29T18:05:06.815Z"
   - **(1)** Except as provided in paragraph (2), no individual who has attained the age of 16 years shall take any migratory waterfowl unless, at the time of the taking, the individual carries on the person of the individual a valid Migratory Bird Hunting and Conservation Stamp, validated by the signature of the individual written in ink across the face of the stamp prior to the time of the taking by the individual of the waterfowl.
   - **(2)** No stamp described in paragraph (1) shall be required for the taking of migratory waterfowl—
     - **(A)** by Federal or State agencies;
-    - **(B)** for propagation; or
-    - **(C)** by the resident owner, tenant, or sharecropper of the property, or officially designated agencies of the Department of the Interior, for the killing, under such restrictions as the Secretary may by regulation prescribe, of such waterfowl when found damaging crops or other property.
+    - **(B)** for propagation;
+    - **(C)** by the resident owner, tenant, or sharecropper of the property, or officially designated agencies of the Department of the Interior, for the killing, under such restrictions as the Secretary may by regulation prescribe, of such waterfowl when found damaging crops or other property; or
+    - **(D)** by a rural Alaska resident for subsistence uses (as that term is defined in section 3113 of this title ).
 - **(b)** Any individual to whom a stamp has been sold under this subchapter shall, upon request, display the stamp for inspection to—
   - **(1)** any officer or employee of the Department of the Interior who is authorized to enforce this subchapter; or
   - **(2)** any officer of any State or political subdivision of a State authorized to enforce State game laws.

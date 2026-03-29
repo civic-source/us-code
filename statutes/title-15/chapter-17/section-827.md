@@ -1,12 +1,12 @@
 ---
-title: "Section 827 - Repealed. Apr. 26, 1937, ch. 127, § 20(a) , 50 Stat. 90"
+title: "Section 827 - Repealed. Apr. 26, 1937, ch. 127 , § 20(a), 50 Stat. 90"
 usc_title: 15
 usc_section: "827"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 827"
-generated_at: "2026-03-29T02:11:34.141Z"
+generated_at: "2026-03-29T18:24:08.424Z"
 ---
 
-# §§ 801 to 827. Repealed. Apr. 26, 1937, ch. 127, § 20(a) , 50 Stat. 90
+# §§ 801 to 827. Repealed. Apr. 26, 1937, ch. 127 , § 20(a), 50 Stat. 90
 

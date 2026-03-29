@@ -3,9 +3,9 @@ title: "Section 273b - Grazing privileges; right of occupancy or use for fixed t
 usc_title: 16
 usc_section: "273b"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 273b"
-generated_at: "2026-03-29T18:05:06.425Z"
+generated_at: "2026-03-29T18:24:22.444Z"
 ---
 
 # § 273b. Grazing privileges; right of occupancy or use for fixed term of years; renewal

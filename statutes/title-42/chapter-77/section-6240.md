@@ -3,9 +3,9 @@ title: "Section 6240 - Petroleum products for storage, transport, or exchange"
 usc_title: 42
 usc_section: "6240"
 chapter: 77
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 6240"
-generated_at: "2026-03-29T18:07:14.731Z"
+generated_at: "2026-03-29T18:27:03.674Z"
 ---
 
 # § 6240. Petroleum products for storage, transport, or exchange
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T18:07:14.731Z"
 - **(a)** The Secretary may acquire, place in storage, transport, or exchange petroleum products acquired by purchase or exchange.
 - **(b)** The Secretary shall, to the greatest extent practicable, acquire petroleum products for the Reserve in a manner consonant with the following objectives:
   - **(1)** minimization of the cost of the Reserve;
-  - **(2)** Repealed. Pub. L. 106–469, title I, § 103(14)(C) , Nov. 9, 2000 , 114 Stat. 2031 ;
+  - **(2)** Repealed. Pub. L. 106–469, title I , § 103(14)(C), Nov. 9, 2000 , 114 Stat. 2031 ;
   - **(3)** minimization of the Nation’s vulnerability to a severe energy supply interruption;
   - **(4)** minimization of the impact of such acquisition upon supply levels and market forces; and
   - **(5)** encouragement of competition in the petroleum industry.

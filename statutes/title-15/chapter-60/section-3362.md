@@ -3,9 +3,9 @@ title: "Section 3362 - Emergency purchase authority"
 usc_title: 15
 usc_section: "3362"
 chapter: 60
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 3362"
-generated_at: "2026-03-29T18:04:29.887Z"
+generated_at: "2026-03-29T18:24:08.579Z"
 ---
 
 # § 3362. Emergency purchase authority
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T18:04:29.887Z"
     - **(A)** such natural gas is not produced from the Outer Continental Shelf; and
     - **(B)** the sale or transportation of such natural gas was not pursuant to a certificate issued under the Natural Gas Act [ 15 U.S.C. 717 et seq.] immediately before the date on which such contract was entered into; or
   - **(2)** from any intrastate pipeline, local distribution company, or other person (other than an interstate pipeline or a producer of natural gas).
-- **(b)** The duration of any contract authorized under subsection (a) of this section may not exceed 4 months. The preceding sentence shall not prohibit the President from authorizing under subsection (a) of this section a renewal of any contract, previously authorized under such subsection, following the expiration of such contract.
-- **(c)** The President may, by order, require any pipeline to transport natural gas, and to construct and operate such facilities for the transportation of natural gas, as he determines necessary to carry out any contract authorized under subsection (a) of this section. The costs of any construction or transportation ordered under this subsection shall be paid by the purchaser of natural gas under the contract with respect to which such order is issued. No order to transport natural gas under this subsection shall require any pipeline to transport natural gas in excess of such pipeline’s available capacity.
+- **(b)** The duration of any contract authorized under subsection (a) may not exceed 4 months. The preceding sentence shall not prohibit the President from authorizing under subsection (a) a renewal of any contract, previously authorized under such subsection, following the expiration of such contract.
+- **(c)** The President may, by order, require any pipeline to transport natural gas, and to construct and operate such facilities for the transportation of natural gas, as he determines necessary to carry out any contract authorized under subsection (a). The costs of any construction or transportation ordered under this subsection shall be paid by the purchaser of natural gas under the contract with respect to which such order is issued. No order to transport natural gas under this subsection shall require any pipeline to transport natural gas in excess of such pipeline’s available capacity.
 - **(d)** The Commission shall require any interstate pipeline or local distribution company contracting under the authority of this section for natural gas to maintain and make available full and adequate records concerning transactions under this section, including records of the volumes of natural gas purchased under the authority of this section and the rates and charges for purchase and receipt of such natural gas.
 - **(e)** No sale under any emergency purchase contract under this section for emergency supplies of natural gas for sale and delivery from any intrastate pipeline which is operating under court supervision as of January 1, 1977 , may take effect unless the court approves.

@@ -3,9 +3,9 @@ title: "Section 7431 - Requirements as to consultation and approval"
 usc_title: 10
 usc_section: "7431"
 chapter: 641
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 7431"
-generated_at: "2026-03-29T18:04:13.278Z"
+generated_at: "2026-03-29T18:23:52.071Z"
 ---
 
 # § 7431. Requirements as to consultation and approval
@@ -19,9 +19,3 @@ generated_at: "2026-03-29T18:04:13.278Z"
 - **(b)**
   - **(1)** During the period of production authorized by section 7422(c) of this title , the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives any new plans or substantial amendments to ongoing plans for the exploration, development, and production of the naval petroleum reserves.
   - **(2)** All plans or substantial amendments submitted to the Congress pursuant to this section shall contain a report by the Attorney General of the United States with respect to the anticipated effects of such plans or amendments on competition. Such plans or amendments shall not be implemented until sixty days after such plans or amendments have been submitted to such committees.
-- **(c)** During the period of production authorized by section 7422(c) of this title , the Secretary shall submit annual reports as of the first day of the fiscal year to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, and such committees shall cause such reports to be printed as a Senate or House document, as appropriate. The Secretary shall include in such reports, with respect to each naval petroleum reserve, an explanation in detail of the following:
-  - **(1)** The status of the exploration, development, and production programs.
-  - **(2)** The production that has been achieved, including the disposition of such production and the proceeds realized therefrom.
-  - **(3)** The status of pipeline construction and procurement and problems related to the availability of transportation facilities.
-  - **(4)** A summary of future plans for exploration, development, production, disposal, and transportation of the production from the naval petroleum reserves.
-  - **(5)** Such other information regarding the reserve as the Secretary deems appropriate.

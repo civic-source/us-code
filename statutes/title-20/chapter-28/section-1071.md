@@ -3,9 +3,9 @@ title: "Section 1071 - Statement of purpose; nondiscrimination; and appropriatio
 usc_title: 20
 usc_section: "1071"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1071"
-generated_at: "2026-03-29T18:05:00.083Z"
+generated_at: "2026-03-29T18:24:40.927Z"
 ---
 
 # § 1071. Statement of purpose; nondiscrimination; and appropriations authorized
@@ -27,4 +27,4 @@ generated_at: "2026-03-29T18:05:00.083Z"
 - **(c)** The program established under this part shall be referred to as the “Robert T. Stafford Federal Student Loan Program”. Loans made pursuant to sections 1077 and 1078 of this title shall be known as “Federal Stafford Loans”.
 - **(d)** Notwithstanding paragraphs (1) through (6) of subsection (b) or any other provision of law—
   - **(1)** no new loans (including consolidation loans) may be made or insured under this part after June 30, 2010 ; and
-  - **(2)** no funds are authorized to be appropriated, or may be expended, under this chapter and part C of subchapter I of chapter 34 of title 42 or any other Act to make or insure loans under this part (including consolidation loans) for which the first disbursement is after June 30, 2010 ,
+  - **(2)** no funds are authorized to be appropriated, or may be expended, under this chapter or any other Act to make or insure loans under this part (including consolidation loans) for which the first disbursement is after June 30, 2010 ,

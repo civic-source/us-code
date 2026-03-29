@@ -3,9 +3,9 @@ title: "Section 1831w - Safety and soundness firewalls applicable to financial s
 usc_title: 12
 usc_section: "1831w"
 chapter: 16
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 1831w"
-generated_at: "2026-03-29T18:04:43.601Z"
+generated_at: "2026-03-29T18:24:02.935Z"
 ---
 
 # § 1831w. Safety and soundness firewalls applicable to financial subsidiaries of banks
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T18:04:43.601Z"
   - **(2)** the State bank complies with the capital deduction and financial statement disclosure requirements in section 24a(c) of this title ;
   - **(3)** the State bank complies with the financial and operational safeguards required by section 24a(d) of this title ; and
   - **(4)** the State bank complies with the amendments to sections 23A and 23B of the Federal Reserve Act [ 12 U.S.C. 371c and 371c–1] made by section 121(b) of the Gramm-Leach-Bliley Act.
-- **(b)** Notwithstanding subsection (a) of this section, an insured State bank may retain control of a subsidiary, or retain an interest in a subsidiary, that the State bank lawfully controlled or acquired before November 12, 1999 , and conduct through such subsidiary any activities lawfully conducted in such subsidiary as of such date.
+- **(b)** Notwithstanding subsection (a), an insured State bank may retain control of a subsidiary, or retain an interest in a subsidiary, that the State bank lawfully controlled or acquired before November 12, 1999 , and conduct through such subsidiary any activities lawfully conducted in such subsidiary as of such date.
 - **(c)** For purposes of this section, the following definitions shall apply:
   - **(1)** The term “subsidiary” means any company that is a subsidiary (as defined in section 1813(w)(4) of this title ) of 1 or more insured banks.
   - **(2)** The term “financial subsidiary” has the meaning given the term in section 24a(g) of this title .

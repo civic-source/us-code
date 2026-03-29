@@ -3,9 +3,9 @@ title: "Section 2393 - Prohibition against doing business with certain offerors 
 usc_title: 10
 usc_section: "2393"
 chapter: 141
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2393"
-generated_at: "2026-03-29T18:04:13.162Z"
+generated_at: "2026-03-29T18:23:51.942Z"
 ---
 
 # § 2393. Prohibition against doing business with certain offerors or contractors
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T18:04:13.162Z"
     - **(A)** in the case of debarment, the debarment of the offeror or contractor by all other agencies has been terminated or the period of time specified for such debarment has expired; and
     - **(B)** in the case of a suspension, the period of time specified by all other agencies for the suspension of the offeror or contractor has expired.
   - **(2)** Paragraph (1) does not apply in any case in which the Secretary concerned determines that there is a compelling reason to solicit an offer from, award a contract to, extend a contract with, or approve a subcontract with such offeror or contractor.
-- **(b)** Whenever the Secretary concerned makes a determination described in subsection (a)(2), he shall, at the time of the determination, transmit a notice to the Administrator of General Services describing the determination. The Administrator of General Services shall maintain each such notice in a file available for public inspection.
+- **(b)** Whenever the Secretary concerned makes a determination described in subsection (a)(2), he shall, at the time of the determination, transmit a notice to the Administrator of General Services describing the determination. The Administrator of General Services shall maintain each such notice on a publicly accessible website to the maximum extent practicable.
 - **(c)** In this section:
   - **(1)** The term “debar” means to exclude, pursuant to established administrative procedures, from Government contracting and subcontracting for a specified period of time commensurate with the seriousness of the failure or offense or the inadequacy of performance.
   - **(2)** The term “suspend” means to disqualify, pursuant to established administrative procedures, from Government contracting and subcontracting for a temporary period of time because a concern or individual is suspected of engaging in criminal, fraudulent, or seriously improper conduct.

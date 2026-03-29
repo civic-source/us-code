@@ -3,9 +3,9 @@ title: "Section 669b - Authorization of appropriations"
 usc_title: 16
 usc_section: "669b"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 669b"
-generated_at: "2026-03-29T18:05:06.790Z"
+generated_at: "2026-03-29T18:24:22.679Z"
 ---
 
 # § 669b. Authorization of appropriations
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T18:05:06.790Z"
   - **(2)** The interest on obligations held in the fund—
     - **(A)** shall be credited to the fund;
     - **(B)** constitute the sums available for allocation by the Secretary under section 4407 of this title ; and
-    - **(C)** shall become available for apportionment under this chapter at the beginning of fiscal year 2016.
+    - **(C)** shall become available for apportionment under this chapter at the beginning of fiscal year 2026.
 - **(c)**
   - **(1)** Amounts transferred to the Wildlife Conservation and Restoration Account shall supplement, but not replace, existing funds available to the States from the sport fish restoration account and wildlife restoration account and shall be used for the development, revision, and implementation of wildlife conservation and restoration programs and should be used to address the unmet needs for a diverse array of wildlife and associated habitats, including species that are not hunted or fished, for wildlife conservation, wildlife conservation education, and wildlife-associated recreation projects. Such funds may be used for new programs and projects as well as to enhance existing programs and projects.
   - **(2)** Funds may be used by a State or an Indian tribe for the planning and implementation of its wildlife conservation and restoration program and wildlife conservation strategy, as provided in sections 669c(d) and (e) 2 2 So in original. Section 669c of this title does not contain a subsec. (e). of this title, including wildlife conservation, wildlife conservation education, and wildlife-associated recreation projects. Such funds may be used for new programs and projects as well as to enhance existing programs and projects.

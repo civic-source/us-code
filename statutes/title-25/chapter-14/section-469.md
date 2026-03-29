@@ -1,14 +1,12 @@
 ---
-title: "Section 469 - Indian corporations; appropriation for organizing"
+title: "Section 469 - Transferred"
 usc_title: 25
 usc_section: "469"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 469"
-generated_at: "2026-03-29T18:05:17.065Z"
+generated_at: "2026-03-29T18:25:23.695Z"
 ---
 
-# § 469. Indian corporations; appropriation for organizing
-
-There is authorized to be appropriated, out of any funds in the Treasury not otherwise appropriated, such sums as may be necessary, but not to exceed $250,000 in any fiscal year, to be expended at the order of the Secretary of the Interior, in defraying the expenses of organizing Indian chartered corporations or other organizations created under this Act.
+# § 469. Transferred
 

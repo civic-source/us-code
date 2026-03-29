@@ -1,14 +1,12 @@
 ---
-title: "Section 1120 - Tax exemption; costs"
+title: "Section 1120 - Omitted"
 usc_title: 25
 usc_section: "1120"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1120"
-generated_at: "2026-03-29T18:05:17.120Z"
+generated_at: "2026-03-29T18:25:23.709Z"
 ---
 
-# § 1120. Tax exemption; costs
-
-The funds distributed under the provisions of this subchapter shall not be subject to Federal or State income taxes, and any costs incurred by the Secretary in the preparation of the rolls and in the distribution of per capita shares in accordance with the provisions of this subchapter shall be paid by appropriate withdrawals from the judgment funds.
+# § 1120. Omitted
 

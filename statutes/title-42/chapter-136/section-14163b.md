@@ -3,9 +3,9 @@ title: "Section 14163b - Applications"
 usc_title: 42
 usc_section: "14163b"
 chapter: 136
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 14163b"
-generated_at: "2026-03-29T18:07:15.376Z"
+generated_at: "2026-03-29T18:27:04.162Z"
 ---
 
 # § 14163b. Applications

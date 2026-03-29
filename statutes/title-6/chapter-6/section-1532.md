@@ -3,15 +3,15 @@ title: "Section 1532 - Enhancement of emergency services"
 usc_title: 6
 usc_section: "1532"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "6 U.S.C. § 1532"
-generated_at: "2026-03-29T02:10:05.099Z"
+generated_at: "2026-03-29T18:23:35.797Z"
 ---
 
 # § 1532. Enhancement of emergency services
 
-- **(a)** Not later than 90 days after December 18, 2015 , the Secretary of Homeland Security, acting through the center established under section 659 of this title , in coordination with appropriate Federal entities and the Assistant Director for Emergency Communications, shall establish a process by which a Statewide Interoperability Coordinator may report data on any cybersecurity risk or incident involving any information system or network used by emergency response providers (as defined in section 101 of this title ) within the State.
-- **(b)** Not later than 1 year after December 18, 2015 , the Secretary of Homeland Security, acting through the Director of the National Cybersecurity and Communications Integration Center, in coordination with appropriate entities and the Assistant Director for Emergency Communications, and in consultation with the Secretary of Commerce, acting through the Director of the National Institute of Standards and Technology, shall conduct integration and analysis of the data reported under subsection (a) to develop information and recommendations on security and resilience measures for any information system or network used by State emergency response providers.
+- **(a)** Not later than 90 days after December 18, 2015 , the Secretary of Homeland Security, acting through the center established under section 148 of this title , in coordination with appropriate Federal entities and the Director for Emergency Communications, shall establish a process by which a Statewide Interoperability Coordinator may report data on any cybersecurity risk or incident involving any information system or network used by emergency response providers (as defined in section 101 of this title ) within the State.
+- **(b)** Not later than 1 year after December 18, 2015 , the Secretary of Homeland Security, acting through the Director of the National Cybersecurity and Communications Integration Center, in coordination with appropriate entities and the Director for Emergency Communications, and in consultation with the Secretary of Commerce, acting through the Director of the National Institute of Standards and Technology, shall conduct integration and analysis of the data reported under subsection (a) to develop information and recommendations on security and resilience measures for any information system or network used by State emergency response providers.
 - **(c)**
   - **(1)** Using the results of the integration and analysis conducted under subsection (b), and any other relevant information, the Director of the National Institute of Standards and Technology shall, on an ongoing basis, facilitate and support the development of methods for reducing cybersecurity risks to emergency response providers using the process described in section 272(e) of title 15 .
   - **(2)** The Director of the National Institute of Standards and Technology shall submit to Congress a report on the result of the activities of the Director under paragraph (1), including any methods developed by the Director under such paragraph, and shall make such report publicly available on the website of the National Institute of Standards and Technology.

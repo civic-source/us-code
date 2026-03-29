@@ -3,9 +3,9 @@ title: "Section 2750 - Transfer of defense environmental cleanup funds"
 usc_title: 50
 usc_section: "2750"
 chapter: 42
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 2750"
-generated_at: "2026-03-29T18:07:43.091Z"
+generated_at: "2026-03-29T18:27:35.658Z"
 ---
 
 # § 2750. Transfer of defense environmental cleanup funds
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T18:07:43.091Z"
   - **(2)** The amount transferred to or from a program or project in any one transfer under subsection (a) may not exceed $5,000,000.
   - **(3)** A transfer may not be carried out by a manager of a field office under subsection (a) unless the manager determines that the transfer is necessary—
     - **(A)** to address a risk to health, safety, or the environment; or
-    - **(B)** to assure the most efficient use of defense environmental management funds 1 1 So in original. Probably should be “defense environmental cleanup funds”. at the field office.
+    - **(B)** to assure the most efficient use of defense environmental cleanup funds at the field office.
   - **(4)** Funds transferred pursuant to subsection (a) may not be used for an item for which Congress has specifically denied funds or for a new program or project that has not been authorized by Congress.
 - **(c)** The requirements of section 2742 of this title shall not apply to transfers of funds pursuant to subsection (a).
 - **(d)** The Secretary, acting through the Assistant Secretary of Energy for Environmental Management, shall notify Congress of any transfer of funds pursuant to subsection (a) not later than 30 days after such transfer occurs.

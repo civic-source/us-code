@@ -3,9 +3,9 @@ title: "Section 6963 - Reorganization of Forest Service"
 usc_title: 7
 usc_section: "6963"
 chapter: 98
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 6963"
-generated_at: "2026-03-29T18:04:05.094Z"
+generated_at: "2026-03-29T18:23:43.492Z"
 ---
 
 # § 6963. Reorganization of Forest Service
@@ -18,4 +18,4 @@ generated_at: "2026-03-29T18:04:05.094Z"
   - **(5)** achieving structural and organizational consolidations;
   - **(6)** to the extent practicable, sharing office space, equipment, vehicles, and electronic systems with other administrative units of the Department and other Federal field offices, including proposals for using an on-line system by all administrative units of the Department to maximize administrative efficiency; and
   - **(7)** reorganizing the Service in a manner that will result in a larger percentage of employees of the Service being retained at organizational levels below regional offices, research stations, and the area office of the Service.
-- **(b)** Not later than March 31, 1995 , the Secretary shall submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate that describes actions taken to carry out subsection (a) of this section, identifies any disparities in regional funding patterns, and contains the rationale behind the disparities.
+- **(b)** Not later than March 31, 1995 , the Secretary shall submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate that describes actions taken to carry out subsection (a), identifies any disparities in regional funding patterns, and contains the rationale behind the disparities.

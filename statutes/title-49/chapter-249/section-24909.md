@@ -3,9 +3,9 @@ title: "Section 24909 - Authorization of appropriations"
 usc_title: 49
 usc_section: "24909"
 chapter: 249
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 24909"
-generated_at: "2026-03-29T18:07:51.425Z"
+generated_at: "2026-03-29T18:27:16.526Z"
 ---
 
 # § 24909. Authorization of appropriations
@@ -34,7 +34,7 @@ generated_at: "2026-03-29T18:07:51.425Z"
       - **(xv)** rehabilitate interlockings between the District of Columbia and New York, New York;
       - **(xvi)** paint the Connecticut River, Groton, and Pelham Bay bridges;
       - **(xvii)** provide additional catenary renewal and power supply upgrading between the District of Columbia and New York, New York;
-      - **(xviii)** rehabilitate structural, electrical, and mechanical systems at the 30th Street Station in Philadelphia, Pennsylvania;
+      - **(xviii)** rehabilitate structural, electrical, and mechanical systems at the William H. Gray III 30th Street Station in Philadelphia, Pennsylvania;
       - **(xix)** install evacuation and fire protection facilities in tunnels in New York, New York;
       - **(xx)** improve the communication and signal systems between Wilmington, Delaware, and Boston, Massachusetts, on the Northeast Corridor main line, and between Philadelphia, Pennsylvania, and Harrisburg, Pennsylvania, on the Harrisburg Line;
       - **(xxi)** improve the electric traction systems between Wilmington, Delaware, and Newark, New Jersey;

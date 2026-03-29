@@ -1,14 +1,15 @@
 ---
-title: "Section 31103 - United States Government’s share of costs"
+title: "Section 31103 - Commercial motor vehicle operators grant program"
 usc_title: 49
 usc_section: "31103"
 chapter: 311
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 31103"
-generated_at: "2026-03-29T18:07:51.443Z"
+generated_at: "2026-03-29T18:27:16.542Z"
 ---
 
-# § 31103. United States Government’s share of costs
+# § 31103. Commercial motor vehicle operators grant program
 
-- **(a)** The Secretary of Transportation shall reimburse a State, from a grant made under this subchapter, an amount that is not more than 80 percent of the costs incurred by the State in a fiscal year in developing and implementing programs to improve commercial motor vehicle safety and enforce commercial motor vehicle regulations, standards, or orders adopted under this subchapter or subchapter II of this chapter. In determining those costs, the Secretary shall include in-kind contributions by the State. Amounts of the State and its political subdivisions required to be expended under section 31102(b)(2)(E) of this title may not be included as part of the share not provided by the United States Government. Amounts generated under the unified carrier registration agreement under section 14504a and received by a State and used for motor carrier safety purposes may be included as part of the State’s share not provided by the United States. The Secretary may allocate among the States whose applications for grants have been approved those amounts appropriated for grants to support those programs, under criteria that may be established.
-- **(b)** The Secretary may reimburse State agencies, local governments, or other persons up to 100 percent for public education activities.
+- **(a)** The Secretary shall administer a commercial motor vehicle operators grant program funded under section 31104.
+- **(b)** The purpose of the grant program is to train individuals in the safe operation of commercial motor vehicles (as defined in section 31301).
+- **(c)** In administering grants under this section, the Secretary shall award priority to grant applications for programs to train former members of the armed forces (as defined in section 101 of title 10 ) in the safe operation of such vehicles.

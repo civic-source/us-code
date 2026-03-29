@@ -3,17 +3,17 @@ title: "Section 78x - Public availability of information"
 usc_title: 15
 usc_section: "78x"
 chapter: 2
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 78x"
-generated_at: "2026-03-29T18:04:29.376Z"
+generated_at: "2026-03-29T18:24:08.282Z"
 ---
 
 # § 78x. Public availability of information
 
 - **(a)** For purposes of section 552 of title 5 the term “records” includes all applications, statements, reports, contracts, correspondence, notices, and other documents filed with or otherwise obtained by the Commission pursuant to this chapter or otherwise.
 - **(b)** It shall be unlawful for any member, officer, or employee of the Commission to disclose to any person other than a member, officer, or employee of the Commission, or to use for personal benefit, any information contained in any application, statement, report, contract, correspondence, notice, or other document filed with or otherwise obtained by the Commission (1) in contravention of the rules and regulations of the Commission under section 552 of title 5 , or (2) in circumstances where the Commission has determined pursuant to such rules to accord confidential treatment to such information.
-- **(c)** The Commission may, in its discretion and upon a showing that such information is needed, provide all “records” (as defined in subsection (a) of this section) and other information in its possession to such persons, both domestic and foreign, as the Commission by rule deems appropriate if the person receiving such records or information provides such assurances of confidentiality as the Commission deems appropriate.
-- **(d)** Except as provided in subsection (g) of this section, the Commission shall not be compelled to disclose records obtained from a foreign securities authority if (1) the foreign securities authority has in good faith determined and represented to the Commission that public disclosure of such records would violate the laws applicable to that foreign securities authority, and (2) the Commission obtains such records pursuant to (A) such procedure as the Commission may authorize for use in connection with the administration or enforcement of the securities laws, or (B) a memorandum of understanding. For purposes of section 552 of title 5 , this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552.
+- **(c)** The Commission may, in its discretion and upon a showing that such information is needed, provide all “records” (as defined in subsection (a)) and other information in its possession to such persons, both domestic and foreign, as the Commission by rule deems appropriate if the person receiving such records or information provides such assurances of confidentiality as the Commission deems appropriate.
+- **(d)** Except as provided in subsection (g), the Commission shall not be compelled to disclose records obtained from a foreign securities authority if (1) the foreign securities authority has in good faith determined and represented to the Commission that public disclosure of such records would violate the laws applicable to that foreign securities authority, and (2) the Commission obtains such records pursuant to (A) such procedure as the Commission may authorize for use in connection with the administration or enforcement of the securities laws, or (B) a memorandum of understanding. For purposes of section 552 of title 5 , this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552.
 - **(e)** For purposes of section 552(b)(8) of title 5 (commonly referred to as the Freedom of Information Act)—
   - **(1)** the Commission is an agency responsible for the regulation or supervision of financial institutions; and
   - **(2)** any entity for which the Commission is responsible for regulating, supervising, or examining under this chapter is a financial institution.

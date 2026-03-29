@@ -3,9 +3,9 @@ title: "Section 24 - Eastern Municipal Water District recycled water system pres
 usc_title: 43
 usc_section: "24"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 24"
-generated_at: "2026-03-29T18:06:28.269Z"
+generated_at: "2026-03-29T18:26:14.794Z"
 ---
 
 # § 390h–24. Eastern Municipal Water District recycled water system pressurization and expansion project, California

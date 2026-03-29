@@ -3,9 +3,9 @@ title: "Section 80301 - Definitions"
 usc_title: 49
 usc_section: "80301"
 chapter: 803
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 80301"
-generated_at: "2026-03-29T18:07:51.581Z"
+generated_at: "2026-03-29T18:27:16.656Z"
 ---
 
 # § 80301. Definitions

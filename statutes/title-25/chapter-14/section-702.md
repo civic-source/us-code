@@ -1,14 +1,12 @@
 ---
-title: "Section 702 - Execution by Secretary of patents, deeds, etc."
+title: "Section 702 - Omitted"
 usc_title: 25
 usc_section: "702"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 702"
-generated_at: "2026-03-29T18:05:17.093Z"
+generated_at: "2026-03-29T18:25:23.700Z"
 ---
 
-# § 702. Execution by Secretary of patents, deeds, etc.
-
-The Secretary shall have authority to execute such patents, deeds, assignments, releases, certificates, contracts, and other instruments as may be necessary or appropriate to carry out the provisions of this subchapter, or to establish a marketable and recordable title to any property disposed of pursuant to this subchapter.
+# § 702. Omitted
 

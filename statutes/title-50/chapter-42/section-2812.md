@@ -3,14 +3,14 @@ title: "Section 2812 - Engineering and manufacturing research, development, and 
 usc_title: 50
 usc_section: "2812"
 chapter: 42
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 2812"
-generated_at: "2026-03-29T18:07:43.094Z"
+generated_at: "2026-03-29T18:27:35.664Z"
 ---
 
 # § 2812. Engineering and manufacturing research, development, and demonstration by managers of certain nuclear weapons production facilities
 
-- **(a)** The Administrator for Nuclear Security shall authorize the head of each nuclear weapons production facility to establish an Engineering and Manufacturing Research, Development, and Demonstration Program under this section.
+- **(a)** The Administrator shall authorize the head of each nuclear weapons production facility to establish an Engineering and Manufacturing Research, Development, and Demonstration Program under this section.
 - **(b)** The projects and activities carried out through the program at a nuclear weapons production facility under this section shall support innovative or high-risk design and manufacturing concepts and technologies with potentially high payoff for the nuclear security enterprise. Those projects and activities may include—
   - **(1)** replacement of obsolete or aging design and manufacturing technologies;
   - **(2)** development of innovative agile manufacturing techniques and processes; and

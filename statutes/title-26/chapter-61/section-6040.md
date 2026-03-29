@@ -3,9 +3,9 @@ title: "Section 6040 - Cross references"
 usc_title: 26
 usc_section: "6040"
 chapter: 61
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 6040"
-generated_at: "2026-03-29T18:05:44.960Z"
+generated_at: "2026-03-29T18:25:53.888Z"
 ---
 
 # § 6040. Cross references
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T18:05:44.960Z"
   - **(3)** For the notice required of taxpayers for redetermination of taxes claimed as credits, see sections 905(c) and 2016.
   - **(4)** For exemption certificates required to be furnished to employers by employees, see section 3402(f)(2), (3), (4), and (5).
   - **(5)** For receipts, constituting information returns, required to be furnished to employees, see section 6051.
-  - **[(6)** Repealed. Pub. L. 89–44, title III, § 305(b) , June 21, 1965 , 79 Stat. 148 ]
+  - **[(6)** Repealed. Pub. L. 89–44, title III , § 305(b), June 21, 1965 , 79 Stat. 148 ]
   - **(7)** For information required with respect to the redemption of stamps, see section 6805.
   - **(8)** For the statement required to be filed by a corporation expecting a net operating loss carryback or unused excess profits credit carryback, see section 6164.
   - **(9)** For the application, which a taxpayer may file for a tentative carryback adjustment of income taxes, see section 6411.

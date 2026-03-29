@@ -3,9 +3,9 @@ title: "Section 207 - Conditions of lease"
 usc_title: 30
 usc_section: "207"
 chapter: 3
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "30 U.S.C. § 207"
-generated_at: "2026-03-29T18:05:26.145Z"
+generated_at: "2026-03-29T18:25:30.852Z"
 ---
 
 # § 207. Conditions of lease
@@ -23,5 +23,5 @@ generated_at: "2026-03-29T18:05:26.145Z"
   - **(5)** The aggregate number of years during the period of any lease for which advance royalties may be accepted in lieu of the condition of continued operation shall not exceed 20 years.
   - **(6)** 1 1 So in original. Two pars. (6) have been enacted. The amount of any production royalty paid for any year shall be reduced (but not below 0) by the amount of any advance royalties paid under a lease described in paragraph (5) to the extent that the advance royalties have not been used to reduce production royalties for a prior year.
   - **(6)** 1 The Secretary may, upon six months’ notification to the lessee cease to accept advance royalties in lieu of the requirement of continued operation.
-  - **(7)** Nothing in this subsection shall be construed to affect the requirement contained in the second sentence of subsection (a) of this section relating to commencement of production at the end of ten years.
+  - **(7)** Nothing in this subsection shall be construed to affect the requirement contained in the second sentence of subsection (a) relating to commencement of production at the end of ten years.
 - **(c)** Prior to taking any action on a leasehold which might cause a significant disturbance of the environment, the lessee shall submit for the Secretary’s approval an operation and reclamation plan. The Secretary shall approve or disapprove the plan or require that it be modified. Where the land involved is under the surface jurisdiction of another Federal agency, that other agency must consent to the terms of such approval.

@@ -3,12 +3,12 @@ title: "Section 312 - Machinery, material, equipment, or supplies from other Gov
 usc_title: 44
 usc_section: "312"
 chapter: 3
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "44 U.S.C. § 312"
-generated_at: "2026-03-29T18:06:33.609Z"
+generated_at: "2026-03-29T18:26:16.104Z"
 ---
 
 # § 312. Machinery, material, equipment, or supplies from other Government agencies
 
-An officer of the Government having machinery, material, equipment, or supplies for printing, binding, and blank-book work, including lithography, photolithography, and other processes of reproduction, no longer required or authorized for his service, shall submit a detailed report of them to the Public Printer. The Public Printer, with the approval of the Joint Committee on Printing, may requisition such articles as are serviceable in the Government Printing Office, and they shall be promptly delivered to that office.
+An officer of the Government having machinery, material, equipment, or supplies for printing, binding, and blank-book work, including lithography, photolithography, and other processes of reproduction, no longer required or authorized for the service of such officer, shall submit a detailed report of them to the Director of the Government Publishing Office. The Director of the Government Publishing Office, with the approval of the Joint Committee on Printing, may requisition such articles as are serviceable in the Government Publishing Office, and they shall be promptly delivered to that office.
 

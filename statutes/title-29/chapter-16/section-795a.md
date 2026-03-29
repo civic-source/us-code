@@ -1,14 +1,12 @@
 ---
-title: "Section 795a - Authorization of appropriations"
+title: "Section 795a - Repealed. Pub. L. 113–128, title IV , § 461(1), July 22, 2014 , 128 Stat. 1679"
 usc_title: 29
 usc_section: "795a"
 chapter: 16
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 795a"
-generated_at: "2026-03-29T18:05:31.716Z"
+generated_at: "2026-03-29T18:25:43.051Z"
 ---
 
-# § 795a. Authorization of appropriations
-
-There are authorized to be appropriated to carry out the provisions of this part, such sums as may be necessary for each of fiscal years 1999 through 2003.
+# §§ 795, 795a. Repealed. Pub. L. 113–128, title IV , § 461(1), July 22, 2014 , 128 Stat. 1679
 

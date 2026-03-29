@@ -1,12 +1,30 @@
 ---
-title: "Section 3044 - Repealed. Pub. L. 111–259, title III, § 347(a) , Oct. 7, 2010 , 124 Stat. 2698"
+title: "Section 3044 - Software licensing"
 usc_title: 50
 usc_section: "3044"
 chapter: 44
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 3044"
-generated_at: "2026-03-29T18:07:43.108Z"
+generated_at: "2026-03-29T18:27:35.674Z"
 ---
 
-# § 3044. Repealed. Pub. L. 111–259, title III, § 347(a) , Oct. 7, 2010 , 124 Stat. 2698
+# § 3044. Software licensing
 
+- **(a)** The chief information officer of each element of the intelligence community, in consultation with the Chief Information Officer of the Intelligence Community, shall biennially—
+  - **(1)** conduct an inventory of all existing software licenses of such element, including utilized and unutilized licenses;
+  - **(2)** assess the actions that could be carried out by such element to achieve the greatest possible economies of scale and associated cost savings in software procurement and usage, including—
+    - **(A)** increasing the centralization of the management of software licenses;
+    - **(B)** increasing the regular tracking and maintaining of comprehensive inventories of software licenses using automated discovery and inventory tools and metrics;
+    - **(C)** analyzing software license data to inform investment decisions; and
+    - **(D)** providing appropriate personnel with sufficient software licenses management training; and
+  - **(3)** submit to the Chief Information Officer of the Intelligence Community each inventory required by paragraph (1) and each assessment required by paragraph (2).
+- **(b)** The Chief Information Officer of the Intelligence Community, based on the inventories and assessments required by subsection (a), shall biennially—
+  - **(1)** compile an inventory of all existing software licenses of the intelligence community, including utilized and unutilized licenses;
+  - **(2)** assess the actions that could be carried out by the intelligence community to achieve the greatest possible economies of scale and associated cost savings in software procurement and usage, including—
+    - **(A)** increasing the centralization of the management of software licenses;
+    - **(B)** increasing the regular tracking and maintaining of comprehensive inventories of software licenses using automated discovery and inventory tools and metrics;
+    - **(C)** analyzing software license data to inform investment decisions; and
+    - **(D)** providing appropriate personnel with sufficient software licenses management training; and
+  - **(3)** based on the assessment required under paragraph (2), make such recommendations with respect to software procurement and usage to the Director of National Intelligence as the Chief Information Officer considers appropriate.
+- **(c)** The Chief Information Officer of the Intelligence Community shall submit to the congressional intelligence committees a copy of each inventory compiled under subsection (b)(1).
+- **(d)** Not later than 180 days after the date on which the Director of National Intelligence receives recommendations from the Chief Information Officer of the Intelligence Community in accordance with subsection (b)(3), the Director of National Intelligence shall, to the extent practicable, issue guidelines for the intelligence community on software procurement and usage based on such recommendations.

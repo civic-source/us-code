@@ -3,9 +3,9 @@ title: "Section 325 - State assumption of responsibilities for certain programs 
 usc_title: 23
 usc_section: "325"
 chapter: 3
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "23 U.S.C. § 325"
-generated_at: "2026-03-29T18:05:12.233Z"
+generated_at: "2026-03-29T18:25:00.199Z"
 ---
 
 # § 325. State assumption of responsibilities for certain programs and projects
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T18:05:12.233Z"
     - **(A)** The Secretary may establish a pilot program under which States may assume the responsibilities of the Secretary under any Federal laws subject to the requirements of this section.
     - **(B)** In the first 3 fiscal years following the date of enactment of the SAFETEA–LU, the Secretary may allow up to 5 States to participate in the pilot program.
   - **(2)** Under the pilot program, the Secretary may assign, and a State may assume, any of the Secretary’s responsibilities (other than responsibilities relating to federally recognized Indian tribes) for environmental reviews, consultation, or decisionmaking or other actions required under any Federal law as such requirements apply to the following projects:
-    - **(A)** Projects funded under section 104(h). 1 1 See References in Text note below.
+    - **(A)** Projects funded under section 104(h).
     - **(B)** Transportation enhancement activities under section 133, as such term is defined in section 101(a)(35). 1
 - **(b)**
   - **(1)** The Secretary shall enter into a memorandum of understanding with a State participating in the pilot program setting forth the responsibilities to be assigned under subsection (a)(2) and the terms and conditions under which the assignment is being made.

@@ -3,9 +3,9 @@ title: "Section 192 - Homeland Security Institute"
 usc_title: 6
 usc_section: "192"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "6 U.S.C. § 192"
-generated_at: "2026-03-29T18:03:43.240Z"
+generated_at: "2026-03-29T18:23:35.735Z"
 ---
 
 # § 192. Homeland Security Institute
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T18:03:43.240Z"
   - **(6)** Design of metrics and use of those metrics to evaluate the effectiveness of homeland security programs throughout the Federal Government, including all national laboratories.
   - **(7)** Design of and support for the conduct of homeland security-related exercises and simulations.
   - **(8)** Creation of strategic technology development plans to reduce vulnerabilities in the Nation’s critical infrastructure and key resources.
-- **(d)** In carrying out the duties described in subsection (c) of this section, the Institute shall consult widely with representatives from private industry, institutions of higher education, nonprofit institutions, other Government agencies, and federally funded research and development centers.
+- **(d)** In carrying out the duties described in subsection (c), the Institute shall consult widely with representatives from private industry, institutions of higher education, nonprofit institutions, other Government agencies, and federally funded research and development centers.
 - **(e)** The Institute shall utilize the capabilities of the National Infrastructure Simulation and Analysis Center.
 - **(f)** The Institute shall transmit to the Secretary and Congress an annual report on the activities of the Institute under this section.
 - **(g)** The Homeland Security Institute shall terminate 5 years after its establishment.

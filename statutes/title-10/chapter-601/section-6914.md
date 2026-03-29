@@ -1,12 +1,12 @@
 ---
-title: "Section 6914 - Repealed. Pub. L. 96–513, title III, § 374 , Dec. 12, 1980 , 94 Stat. 2904 ]"
+title: "Section 6914 - Repealed. Pub. L. 96–513, title III , § 374, Dec. 12, 1980 , 94 Stat. 2904 ]"
 usc_title: 10
 usc_section: "6914"
 chapter: 601
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 6914"
-generated_at: "2026-03-29T18:04:13.266Z"
+generated_at: "2026-03-29T18:23:52.057Z"
 ---
 
-# [§ 6914. Repealed. Pub. L. 96–513, title III, § 374 , Dec. 12, 1980 , 94 Stat. 2904 ]
+# [§ 6914. Repealed. Pub. L. 96–513, title III , § 374, Dec. 12, 1980 , 94 Stat. 2904 ]
 

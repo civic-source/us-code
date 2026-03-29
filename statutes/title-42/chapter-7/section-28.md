@@ -3,9 +3,9 @@ title: "Section 28 - Definitions; miscellaneous provisions"
 usc_title: 42
 usc_section: "28"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 28"
-generated_at: "2026-03-29T18:07:13.976Z"
+generated_at: "2026-03-29T18:27:03.109Z"
 ---
 
 # § 1395w–28. Definitions; miscellaneous provisions
@@ -22,10 +22,10 @@ generated_at: "2026-03-29T18:07:13.976Z"
   - **(3)**
     - **(A)** The term “MSA plan” means a Medicare+ÐChoice plan that—
       - **(i)** provides reimbursement for at least the items and services described in section 1395w–22(a)(1) of this title in a year but only after the enrollee incurs countable expenses (as specified under the plan) equal to the amount of an annual deductible (described in subparagraph (B));
-      - **(ii)** counts as such expenses (for purposes of such deductible) at least all amounts that would have been payable under parts A and B of this subchapter, and that would have been payable by the enrollee as deductibles, coinsurance, or copayments, if the enrollee had elected to receive benefits through the provisions of such parts; and
+      - **(ii)** counts as such expenses (for purposes of such deductible) at least all amounts that would have been payable under parts A and B, and that would have been payable by the enrollee as deductibles, coinsurance, or copayments, if the enrollee had elected to receive benefits through the provisions of such parts; and
       - **(iii)** provides, after such deductible is met for a year and for all subsequent expenses for items and services referred to in clause (i) in the year, for a level of reimbursement that is not less than—
         - **(I)** 100 percent of such expenses, or
-        - **(II)** 100 percent of the amounts that would have been paid (without regard to any deductibles or coinsurance) under parts A and B of this subchapter with respect to such expenses,
+        - **(II)** 100 percent of the amounts that would have been paid (without regard to any deductibles or coinsurance) under parts A and B with respect to such expenses,
     - **(B)** The amount of annual deductible under an MSA plan—
       - **(i)** for contract year 1999 shall be not more than $6,000; and
       - **(ii)** for a subsequent contract year shall be not more than the maximum amount of such deductible for the previous contract year under this subparagraph increased by the national per capita Medicare+Choice growth percentage under section 1395w–23(c)(6) of this title for the year.
@@ -38,7 +38,7 @@ generated_at: "2026-03-29T18:07:13.976Z"
     - **(A)** The term “specialized MA plan for special needs individuals” means an MA plan that exclusively serves special needs individuals (as defined in subparagraph (B)) and that, as of January 1, 2010 , meets the applicable requirements of paragraph (2), (3), or (4) of subsection (f), as the case may be.
     - **(B)** The term “special needs individual” means an MA eligible individual who—
       - **(i)** is institutionalized (as defined by the Secretary);
-      - **(ii)** is entitled to medical assistance under a State plan under subchapter XIX of this chapter; or
+      - **(ii)** is entitled to medical assistance under a State plan under subchapter XIX; or
       - **(iii)** meets such requirements as the Secretary may determine would benefit from enrollment in such a specialized MA plan described in subparagraph (A) for individuals with severe or disabling chronic conditions who have one or more comorbid and medically complex chronic conditions that are substantially disabling or life threatening, have a high risk of hospitalization or other significant adverse health outcomes, and require specialized delivery systems across domains of care.
 - **(c)**
   - **(1)** The term “Medicare+Choice eligible individual” is defined in section 1395w–21(a)(3) of this title .
@@ -46,7 +46,7 @@ generated_at: "2026-03-29T18:07:13.976Z"
   - **(3)** The “national per capita Medicare+Choice growth percentage” is defined in section 1395w–23(c)(6) of this title .
   - **(4)** The terms “Medicare+Choice monthly basic beneficiary premium” and “Medicare+Choice monthly supplemental beneficiary premium” are defined in section 1395w–24(a)(2) of this title .
   - **(5)** The term “MA local area” is defined in section 1395w–23(d)(2) of this title .
-- **(d)** Nothing in this part shall be construed as preventing a State from coordinating benefits under a medicaid plan under subchapter XIX of this chapter with those provided under a Medicare+Choice plan in a manner that assures continuity of a full-range of acute care and long-term care services to poor elderly or disabled individuals eligible for benefits under this subchapter and under such plan.
+- **(d)** Nothing in this part shall be construed as preventing a State from coordinating benefits under a medicaid plan under subchapter XIX with those provided under a Medicare+Choice plan in a manner that assures continuity of a full-range of acute care and long-term care services to poor elderly or disabled individuals eligible for benefits under this subchapter and under such plan.
 - **(e)**
   - **(1)** In the case of a Medicare+Choice religious fraternal benefit society plan described in paragraph (2), notwithstanding any other provision of this part to the contrary and in accordance with regulations of the Secretary, the society offering the plan may restrict the enrollment of individuals under this part to individuals who are members of the church, convention, or group described in paragraph (3)(B) with which the society is affiliated.
   - **(2)** For purposes of this subsection, a Medicare+Choice religious fraternal benefit society plan described in this paragraph is a Medicare+Choice plan described in section 1395w–21(a)(2) of this title that—
@@ -59,7 +59,7 @@ generated_at: "2026-03-29T18:07:13.976Z"
     - **(D)** does not impose any limitation on membership in the society based on any health status-related factor.
   - **(4)** Under regulations of the Secretary, in the case of individuals enrolled under this part under a Medicare+Choice religious fraternal benefit society plan described in paragraph (2), the Secretary shall provide for such adjustment to the payment amounts otherwise established under section 1395w–24 of this title as may be appropriate to assure an appropriate payment level, taking into account the actuarial characteristics and experience of such individuals.
 - **(f)**
-  - **(1)** In the case of a specialized MA plan for special needs individuals (as defined in subsection (b)(6) of this section), notwithstanding any other provision of this part and in accordance with regulations of the Secretary and for periods before January 1, 2017 , the plan may restrict the enrollment of individuals under the plan to individuals who are within one or more classes of special needs individuals.
+  - **(1)** In the case of a specialized MA plan for special needs individuals (as defined in subsection (b)(6)), notwithstanding any other provision of this part and in accordance with regulations of the Secretary and for periods before January 1, 2019 , the plan may restrict the enrollment of individuals under the plan to individuals who are within one or more classes of special needs individuals.
   - **(2)** In the case of a specialized MA plan for special needs individuals described in subsection (b)(6)(B)(i), the applicable requirements described in this paragraph are as follows:
     - **(A)** Each individual that enrolls in the plan on or after January 1, 2010 , is a special needs individuals described in subsection (b)(6)(B)(i). In the case of an individual who is living in the community but requires an institutional level of care, such individual shall not be considered a special needs individual described in subsection (b)(6)(B)(i) unless the determination that the individual requires an institutional level of care was made—
       - **(i)** using a State assessment tool of the State in which the individual resides; and

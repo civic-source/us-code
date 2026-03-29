@@ -3,9 +3,9 @@ title: "Section 4417 - United States Army War College: acceptance of grants for 
 usc_title: 10
 usc_section: "4417"
 chapter: 407
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 4417"
-generated_at: "2026-03-29T18:04:13.241Z"
+generated_at: "2026-03-29T18:23:52.032Z"
 ---
 
 # § 4417. United States Army War College: acceptance of grants for faculty research for scientific, literary, and educational purposes

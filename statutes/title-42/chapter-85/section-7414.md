@@ -3,15 +3,15 @@ title: "Section 7414 - Recordkeeping, inspections, monitoring, and entry"
 usc_title: 42
 usc_section: "7414"
 chapter: 85
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 7414"
-generated_at: "2026-03-29T18:07:14.887Z"
+generated_at: "2026-03-29T18:27:03.797Z"
 ---
 
 # § 7414. Recordkeeping, inspections, monitoring, and entry
 
-- **(a)** For the purpose (i) of developing or assisting in the development of any implementation plan under section 7410 or section 7411(d) of this title , any standard of performance under section 7411 of this title , any emission standard under section 7412 of this title ,, 1 1 So in original. or any regulation of solid waste combustion under section 7429 of this title , or any regulation under section 7429 of this title (relating to solid waste combustion), (ii) of determining whether any person is in violation of any such standard or any requirement of such a plan, or (iii) carrying out any provision of this chapter (except a provision of subchapter II of this chapter with respect to a manufacturer of new motor vehicles or new motor vehicle engines)—
-  - **(1)** the Administrator may require any person who owns or operates any emission source, who manufactures emission control equipment or process equipment, who the Administrator believes may have information necessary for the purposes set forth in this subsection, or who is subject to any requirement of this chapter (other than a manufacturer subject to the provisions of section 7525(c) or 7542 of this title with respect to a provision of subchapter II of this chapter) on a one-time, periodic or continuous basis to—
+- **(a)** For the purpose (i) of developing or assisting in the development of any implementation plan under section 7410 or section 7411(d) of this title , any standard of performance under section 7411 of this title , any emission standard under section 7412 of this title ,, 1 1 So in original. or any regulation of solid waste combustion under section 7429 of this title , or any regulation under section 7429 of this title (relating to solid waste combustion), (ii) of determining whether any person is in violation of any such standard or any requirement of such a plan, or (iii) carrying out any provision of this chapter (except a provision of subchapter II with respect to a manufacturer of new motor vehicles or new motor vehicle engines)—
+  - **(1)** the Administrator may require any person who owns or operates any emission source, who manufactures emission control equipment or process equipment, who the Administrator believes may have information necessary for the purposes set forth in this subsection, or who is subject to any requirement of this chapter (other than a manufacturer subject to the provisions of section 7525(c) or 7542 of this title with respect to a provision of subchapter II) on a one-time, periodic or continuous basis to—
     - **(A)** establish and maintain such records;
     - **(B)** make such reports;
     - **(C)** install, use, and maintain such monitoring equipment, and use such audit procedures, or methods;

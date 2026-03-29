@@ -3,9 +3,9 @@ title: "Section 5707 - Regulations and reports"
 usc_title: 5
 usc_section: "5707"
 chapter: 57
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 5707"
-generated_at: "2026-03-29T18:03:29.891Z"
+generated_at: "2026-03-29T18:23:29.909Z"
 ---
 
 # § 5707. Regulations and reports
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T18:03:29.891Z"
   - **(2)** Regulations promulgated to implement section 5702 or 5706a of this title shall be transmitted to the appropriate committees of the Congress and shall not take effect until 30 days after such transmittal.
 - **(b)** The Administrator of General Services shall prescribe the mileage reimbursement rates for use on official business of privately owned airplanes, privately owned automobiles, and privately owned motorcycles while engaged on official business as provided for in section 5704 of this title as follows:
   - **(1)**
-    - **(A)** The Administrator of General Services, in consultation with the Secretary of Transportation, the Secretary of Defense, and representatives of organizations of employees of the Government, shall conduct periodic investigations of the cost of travel and the operation of privately owned vehicles to employees while engaged on official business, and shall report the results of such investigations to Congress at least once a year.
+    - **(A)** The Administrator of General Services shall conduct periodic investigations of the cost of travel and the operation of privately owned airplanes and privately owned motorcycles by employees while engaged on official business, and shall report the results of such investigations to Congress at least once a year.
     - **(B)** In conducting the periodic investigations, the Administrator shall review and analyze among other factors—
       - **(i)** depreciation of original vehicle cost;
       - **(ii)** gasoline and oil (excluding taxes);
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T18:03:29.891Z"
       - **(v)** State and Federal taxes.
   - **(2)**
     - **(A)** The Administrator shall issue regulations under this section which—
-      - **(i)** shall prescribe a mileage reimbursement rate which reflects the current costs as determined by the Administrator of operating privately owned automobiles, and which shall not exceed, as provided in section 5704(a)(1) of this title , the single standard mileage rate established by the Internal Revenue Service, and
+      - **(i)** shall provide that the mileage reimbursement rate for privately owned automobiles, as provided in section 5704(a)(1), is the single standard mileage rate established by the Internal Revenue Service referred to in that section, and
       - **(ii)** shall prescribe mileage reimbursement rates which reflect the current costs as determined by the Administrator of operating privately owned airplanes and motorcycles.
     - **(B)** At least once each year after the issuance of the regulations described in subparagraph (A) of this paragraph, the Administrator shall determine, based upon the results of the cost investigation, specific figures, each rounded to the nearest half cent, of the average, actual cost per mile during the period for the use of a privately owned airplane, automobile, and motorcycle.
     - **(C)** The Administrator shall report the specific figures to Congress not later than five working days after the Administrator makes the cost determination. Each such report shall be printed in the Federal Register.

@@ -3,9 +3,9 @@ title: "Section 1531 - Apprehension and prosecution of international cyber crimi
 usc_title: 6
 usc_section: "1531"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "6 U.S.C. § 1531"
-generated_at: "2026-03-29T02:10:05.099Z"
+generated_at: "2026-03-29T18:23:35.797Z"
 ---
 
 # § 1531. Apprehension and prosecution of international cyber criminals

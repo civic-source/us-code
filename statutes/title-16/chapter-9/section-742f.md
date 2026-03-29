@@ -3,9 +3,9 @@ title: "Section 742f - Powers of Secretaries of the Interior and Commerce"
 usc_title: 16
 usc_section: "742f"
 chapter: 9
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 742f"
-generated_at: "2026-03-29T18:05:06.819Z"
+generated_at: "2026-03-29T18:24:22.700Z"
 ---
 
 # § 742f. Powers of Secretaries of the Interior and Commerce
@@ -53,7 +53,7 @@ generated_at: "2026-03-29T18:05:06.819Z"
     - **(A)** providing outdoor classroom opportunities for students on national wildlife refuges that combine educational curricula with the personal experiences of students relating to fish, wildlife, and plants and their habitat and to the cultural and historical resources of the refuges;
     - **(B)** promoting understanding and conservation of fish, wildlife, and plants and cultural and historical resources of the refuges; and
     - **(C)** improving scientific literacy in conjunction with both formal and nonformal education programs.
-  - **(2)** Based on the guidance developed under paragraph (1), the Secretary of the Interior may develop or enhance refuge education programs as appropriate, based on the resources of individual refuges and the opportunities available for such programs in State, local, and private schools. In developing and implementing each program, the Secretary should cooperate with State and local education authorities, and may cooperate with partner organizations in accordance with subsection (d) of this section.
+  - **(2)** Based on the guidance developed under paragraph (1), the Secretary of the Interior may develop or enhance refuge education programs as appropriate, based on the resources of individual refuges and the opportunities available for such programs in State, local, and private schools. In developing and implementing each program, the Secretary should cooperate with State and local education authorities, and may cooperate with partner organizations in accordance with subsection (d).
 - **(f)** Not later than 1 year after January 4, 2011 , and every 5 years thereafter, the Secretary of the Interior shall submit a report to the Committee on Natural Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate—
   - **(1)** evaluating the accomplishments of the volunteer program, the community partnerships program, and the refuge education programs authorized under this section, and of the National Volunteer Coordination Program and volunteer coordination strategy under section 742f–1 of this title ; and
   - **(2)** making recommendations to improve the effectiveness of such programs, including regarding implementing subparagraphs (A), (B), and (C) of paragraph (1) of subsection (e).

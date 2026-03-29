@@ -3,14 +3,14 @@ title: "Section 2 - Arbitration"
 usc_title: 20
 usc_section: "2"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 2"
-generated_at: "2026-03-29T18:05:00.018Z"
+generated_at: "2026-03-29T18:24:40.875Z"
 ---
 
 # § 107d–2. Arbitration
 
-- **(a)** Upon receipt of a complaint filed under section 107d–1 of this title , the Secretary shall convene an ad hoc arbitration panel as provided in subsection (b) of this section. Such panel shall, in accordance with the provisions of subchapter II of chapter 5 of title 5, give notice, conduct a hearing, and render its decision which shall be subject to appeal and review as a final agency action for purposes of chapter 7 of such title 5.
+- **(a)** Upon receipt of a complaint filed under section 107d–1 of this title , the Secretary shall convene an ad hoc arbitration panel as provided in subsection (b). Such panel shall, in accordance with the provisions of subchapter II of chapter 5 of title 5, give notice, conduct a hearing, and render its decision which shall be subject to appeal and review as a final agency action for purposes of chapter 7 of such title 5.
 - **(b)**
   - **(1)** The arbitration panel convened by the Secretary to hear grievances of blind licensees shall be composed of three members appointed as follows:
     - **(A)** one individual designated by the State licensing agency;

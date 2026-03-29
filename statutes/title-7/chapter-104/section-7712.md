@@ -3,16 +3,16 @@ title: "Section 7712 - Regulation of movement of plants, plant products, biologi
 usc_title: 7
 usc_section: "7712"
 chapter: 104
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 7712"
-generated_at: "2026-03-29T18:04:05.133Z"
+generated_at: "2026-03-29T18:23:43.529Z"
 ---
 
 # § 7712. Regulation of movement of plants, plant products, biological control organisms, noxious weeds, articles, and means of conveyance
 
 - **(a)** The Secretary may prohibit or restrict the importation, entry, exportation, or movement in interstate commerce of any plant, plant product, biological control organism, noxious weed, article, or means of conveyance, if the Secretary determines that the prohibition or restriction is necessary to prevent the introduction into the United States or the dissemination of a plant pest or noxious weed within the United States.
 - **(b)** The Secretary shall ensure that processes used in developing regulations under this section governing consideration of import requests are based on sound science and are transparent and accessible.
-- **(c)** The Secretary may issue regulations to implement subsection (a) of this section, including regulations requiring that any plant, plant product, biological control organism, noxious weed, article, or means of conveyance imported, entered, to be exported, or moved in interstate commerce—
+- **(c)** The Secretary may issue regulations to implement subsection (a), including regulations requiring that any plant, plant product, biological control organism, noxious weed, article, or means of conveyance imported, entered, to be exported, or moved in interstate commerce—
   - **(1)** be accompanied by a permit issued by the Secretary prior to the importation, entry, exportation, or movement in interstate commerce;
   - **(2)** be accompanied by a certificate of inspection issued (in a manner and form required by the Secretary) by appropriate officials of the country or State from which the plant, plant product, biological control organism, noxious weed, article, or means of conveyance is to be moved;
   - **(3)** be subject to remedial measures the Secretary determines to be necessary to prevent the spread of plant pests or noxious weeds; and

@@ -3,26 +3,26 @@ title: "Section 1 - Posthumous citizenship through death while on active-duty se
 usc_title: 8
 usc_section: "1"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "8 U.S.C. § 1"
-generated_at: "2026-03-29T18:03:34.092Z"
+generated_at: "2026-03-29T18:23:33.981Z"
 ---
 
 # § 1440–1. Posthumous citizenship through death while on active-duty service in armed forces during World War I, World War II, the Korean hostilities, the Vietnam hostilities, or in other periods of military hostilities
 
-- **(a)** Notwithstanding any other provision of this subchapter, the Secretary of Homeland Security shall provide, in accordance with this section, for the granting of posthumous citizenship at the time of death to a person described in subsection (b) of this section if the Secretary of Homeland Security approves an application for that posthumous citizenship under subsection (c) of this section.
-- **(b)** A person referred to in subsection (a) of this section is a person who, while an alien or a noncitizen national of the United States—
+- **(a)** Notwithstanding any other provision of this subchapter, the Secretary of Homeland Security shall provide, in accordance with this section, for the granting of posthumous citizenship at the time of death to a person described in subsection (b) if the Secretary of Homeland Security approves an application for that posthumous citizenship under subsection (c).
+- **(b)** A person referred to in subsection (a) is a person who, while an alien or a noncitizen national of the United States—
   - **(1)** served honorably in an active-duty status in the military, air, or naval forces of the United States during any period described in the first sentence of section 1440(a) of this title ,
   - **(2)** died as a result of injury or disease incurred in or aggravated by that service, and
   - **(3)** satisfied the requirements of clause (1) or (2) of the first sentence of section 1440(a) of this title .
 - **(c)**
-  - **(1)** A request for the granting of posthumous citizenship to a person described in subsection (b) of this section may be filed on behalf of that person—
+  - **(1)** A request for the granting of posthumous citizenship to a person described in subsection (b) may be filed on behalf of that person—
     - **(A)** upon locating the next-of-kin, and if so requested by the next-of-kin, by the Secretary of Defense or the Secretary’s designee with the Bureau of Citizenship and Immigration Services in the Department of Homeland Security immediately upon the death of that person; or
     - **(B)** by the next-of-kin.
   - **(2)** The Director of the Bureau of Citizenship and Immigration Services shall approve a request for posthumous citizenship filed by the next-of-kin in accordance with paragraph (1)(B) if—
     - **(A)** the request is filed not later than 2 years after—
       - **(i)** November 24, 2003 ; or
       - **(ii)** the date of the person’s death;
-    - **(B)** the request is accompanied by a duly authenticated certificate from the executive department under which the person served which states that the person satisfied the requirements of paragraphs (1) and (2) of subsection (b) of this section; and
-    - **(C)** the Director finds that the person satisfied the requirement of subsection (b)(3) of this section.
-- **(d)** If the Director of the Bureau of Citizenship and Immigration Services approves the request referred to in subsection (c) of this section, the Director shall send to the next-of-kin of the person who is granted citizenship, a suitable document which states that the United States considers the person to have been a citizen of the United States at the time of the person’s death.
+    - **(B)** the request is accompanied by a duly authenticated certificate from the executive department under which the person served which states that the person satisfied the requirements of paragraphs (1) and (2) of subsection (b); and
+    - **(C)** the Director finds that the person satisfied the requirement of subsection (b)(3).
+- **(d)** If the Director of the Bureau of Citizenship and Immigration Services approves the request referred to in subsection (c), the Director shall send to the next-of-kin of the person who is granted citizenship, a suitable document which states that the United States considers the person to have been a citizen of the United States at the time of the person’s death.

@@ -3,20 +3,20 @@ title: "Section 1011j - Prior rights and obligations"
 usc_title: 20
 usc_section: "1011j"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1011j"
-generated_at: "2026-03-29T18:05:00.041Z"
+generated_at: "2026-03-29T18:24:40.893Z"
 ---
 
 # § 1011j. Prior rights and obligations
 
 - **(a)**
-  - **(1)** There are authorized to be appropriated such sums as may be necessary for fiscal year 2009 and for each succeeding fiscal year to pay obligations incurred prior to 1987 under parts C and D of subchapter VII of this chapter, as such parts were in effect before the effective date of the Higher Education Amendments of 1992.
-  - **(2)** There are authorized to be appropriated such sums as may be necessary for fiscal year 2009 and for each succeeding fiscal year to pay obligations incurred prior to October 7, 1998 , under part C of subchapter VII of this chapter, as such part was in effect during the period—
+  - **(1)** There are authorized to be appropriated such sums as may be necessary for fiscal year 2009 and for each succeeding fiscal year to pay obligations incurred prior to 1987 under parts C and D of subchapter VII, as such parts were in effect before the effective date of the Higher Education Amendments of 1992.
+  - **(2)** There are authorized to be appropriated such sums as may be necessary for fiscal year 2009 and for each succeeding fiscal year to pay obligations incurred prior to October 7, 1998 , under part C of subchapter VII, as such part was in effect during the period—
     - **(A)** after the effective date of the Higher Education Amendments of 1992; and
     - **(B)** prior to October 7, 1998 .
 - **(b)**
-  - **(1)** All entities with continuing obligations incurred under parts A, B, C, and D of subchapter VII of this chapter, as such parts were in effect before the effective date of the Higher Education Amendments of 1992, shall be subject to the requirements of such part as in effect before the effective date of the Higher Education Amendments of 1992.
-  - **(2)** All entities with continuing obligations incurred under part C of subchapter VII of this chapter, as such part was in effect during the period—
+  - **(1)** All entities with continuing obligations incurred under parts A, B, C, and D of subchapter VII, as such parts were in effect before the effective date of the Higher Education Amendments of 1992, shall be subject to the requirements of such part as in effect before the effective date of the Higher Education Amendments of 1992.
+  - **(2)** All entities with continuing obligations incurred under part C of subchapter VII, as such part was in effect during the period—
     - **(A)** after the effective date of the Higher Education Amendments of 1992; and
     - **(B)** prior to October 7, 1998 ,

@@ -3,9 +3,9 @@ title: "Section 24405 - Grant conditions"
 usc_title: 49
 usc_section: "24405"
 chapter: 244
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 24405"
-generated_at: "2026-03-29T18:07:51.422Z"
+generated_at: "2026-03-29T18:27:16.522Z"
 ---
 
 # § 24405. Grant conditions
@@ -34,7 +34,7 @@ generated_at: "2026-03-29T18:07:51.422Z"
   - **(11)** The requirements of this subsection shall only apply to projects for which the costs exceed $100,000.
 - **(b)** A person that conducts rail operations over rail infrastructure constructed or improved with funding provided in whole or in part in a grant made under this chapter shall be considered a rail carrier as defined in section 10102(5) of this title for purposes of this title and any other statute that adopts that definition or in which that definition applies, including—
   - **(1)** the Railroad Retirement Act of 1974 ( 45 U.S.C. 231 et seq.);
-  - **(2)** the Railway Labor Act (43 1 1 So in original. Probably should be “(45”. U.S.C. 151 et seq.); and
+  - **(2)** the Railway Labor Act ( 45 U.S.C. 151 et seq.); and
   - **(3)** the Railroad Unemployment Insurance Act ( 45 U.S.C. 351 et seq.).
 - **(c)** The Secretary shall require as a condition of making any grant under this chapter for a project that uses rights-of-way owned by a railroad that—
   - **(1)** a written agreement exist between the applicant and the railroad regarding such use and ownership, including—
@@ -44,9 +44,9 @@ generated_at: "2026-03-29T18:07:51.422Z"
     - **(D)** an assurance that an applicant complies with liability requirements consistent with section 28103 of this title ; and
   - **(2)** the applicant agrees to comply with—
     - **(A)** the standards of section 24312 of this title , as such section was in effect on September 1, 2003 , with respect to the project in the same manner that Amtrak is required to comply with those standards for construction work financed under an agreement made under section 24308(a) of this title ; and
-    - **(B)** the protective arrangements established under section 504 of the Railroad Revitalization and Regulatory Reform Act of 1976 ( 45 U.S.C. 836 ) with respect to employees affected by actions taken in connection with the project to be financed in whole or in part by grants under this chapter.
+    - **(B)** the protective arrangements that are equivalent to the protective arrangements established under section 504 of the Railroad Revitalization and Regulatory Reform Act of 1976 ( 45 U.S.C. 836 ) with respect to employees affected by actions taken in connection with the project to be financed in whole or in part by grants under this chapter.
 - **(d)**
-  - **(1)** Any entity providing intercity passenger railroad transportation that begins operations after the date of enactment of this Act 2 2 See References in Text note below. on a project funded in whole or in part by grants made under this chapter and replaces intercity rail passenger service that was provided by Amtrak, unless such service was provided solely by Amtrak to another entity, as of such date shall enter into an agreement with the authorized bargaining agent or agents for adversely affected employees of the predecessor provider that—
+  - **(1)** Any entity providing intercity passenger railroad transportation that begins operations after the date of enactment of this Act 1 1 See References in Text note below. on a project funded in whole or in part by grants made under this chapter and replaces intercity rail passenger service that was provided by Amtrak, unless such service was provided solely by Amtrak to another entity or unless Amtrak ceased providing intercity passenger railroad transportation over the affected route more than 3 years before the commencement of new service, as of such date shall enter into an agreement with the authorized bargaining agent or agents for adversely affected employees of the predecessor provider that—
     - **(A)** gives each such qualified employee of the predecessor provider priority in hiring according to the employee’s seniority on the predecessor provider for each position with the replacing entity that is in the employee’s craft or class and is available within 3 years after the termination of the service being replaced;
     - **(B)** establishes a procedure for notifying such an employee of such positions;
     - **(C)** establishes a procedure for such an employee to apply for such positions; and
@@ -57,7 +57,7 @@ generated_at: "2026-03-29T18:07:51.422Z"
   - **(3)** A replacing entity under this subsection shall commence service only after an agreement is entered into with respect to the matters set forth in subparagraphs (A) through (D) of paragraph (1) or the decision of the arbitrator has been rendered.
   - **(4)** If the replacement of existing rail passenger service takes place within 3 years after the replacing entity commences intercity passenger rail service, the replacing entity and the collective bargaining agent or agents for the adversely affected employees of the predecessor provider shall enter into an agreement with respect to the matters set forth in subparagraphs (A) through (D) of paragraph (1). If the parties have not entered into an agreement with respect to all such matters within 60 days after the date on which the replacing entity replaces the predecessor provider, the parties shall select an arbitrator using the procedures set forth in paragraph (2)(B), who shall, within 20 days after the commencement of the arbitration, conduct a hearing and decide all unresolved issues. This decision shall be final, binding, and conclusive upon the parties.
 - **(e)** Nothing in this section applies to—
-  - **(1)** commuter rail passenger transportation (as defined in section 24102(4) 2 of this title) operations of a State or local government 3 3 So in original. Probably should be “governmental”. authority (as those terms are defined in section 5302(11) 2 and (6), 2 respectively, of this title) eligible to receive financial assistance under section 5307 of this title , or to its contractor performing services in connection with commuter rail passenger operations (as so defined);
+  - **(1)** commuter rail passenger transportation (as defined in section 24102(4) 1 of this title) operations of a State or local government 2 2 So in original. Probably should be “governmental”. authority (as those terms are defined in section 5302(11) 1 and (6), 1 respectively, of this title) eligible to receive financial assistance under section 5307 of this title , or to its contractor performing services in connection with commuter rail passenger operations (as so defined);
   - **(2)** the Alaska Railroad or its contractors; or
   - **(3)** Amtrak’s access rights to railroad rights of way and facilities under current law.
-- **(f)** No grants shall be provided under this chapter for commuter rail passenger transportation, as defined in section 24102(4) 2 of this title.
+- **(f)** No grants shall be provided under this chapter for commuter rail passenger transportation (as defined in section 24102(3)).

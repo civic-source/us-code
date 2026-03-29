@@ -3,9 +3,9 @@ title: "Section 4834 - Findings and recommendations by a Board"
 usc_title: 22
 usc_section: "4834"
 chapter: 58
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 4834"
-generated_at: "2026-03-29T18:05:21.965Z"
+generated_at: "2026-03-29T18:24:54.325Z"
 ---
 
 # § 4834. Findings and recommendations by a Board
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T18:05:21.965Z"
   - **(2)** transmit the finding of reasonable cause, together with all information relevant to such finding, to the head of the appropriate Federal agency or instrumentality, and
   - **(3)** recommend that such agency or instrumentality initiate an appropriate investigatory or disciplinary action.
 - **(d)**
-  - **(1)** In any case in which a Board transmits recommendations to the Secretary of State under subsection (b) of this section, the Secretary shall, not later than 90 days after the receipt of such recommendations, submit a report to the Congress on each such recommendation and the action taken with respect to that recommendation.
-  - **(2)** In any case in which a Board transmits a finding of reasonable cause under subsection (c) of this section, the head of the Federal agency or instrumentality receiving the information shall review the evidence and recommendations and shall, not later than 30 days after the receipt of that finding, transmit to the Congress a report specifying—
+  - **(1)** In any case in which a Board transmits recommendations to the Secretary of State under subsection (b), the Secretary shall, not later than 90 days after the receipt of such recommendations, submit a report to the Congress on each such recommendation and the action taken with respect to that recommendation.
+  - **(2)** In any case in which a Board transmits a finding of reasonable cause under subsection (c), the head of the Federal agency or instrumentality receiving the information shall review the evidence and recommendations and shall, not later than 30 days after the receipt of that finding, transmit to the Congress a report specifying—
     - **(A)** the nature of the case and a summary of the evidence transmitted by the Board; and
     - **(B)** the decision by the Federal agency or instrumentality to take disciplinary or other appropriate action against that individual or the reasons for deciding not to take disciplinary or other action with respect to that individual.

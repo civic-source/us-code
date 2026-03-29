@@ -3,15 +3,15 @@ title: "Section 2703 - Eligible articles"
 usc_title: 19
 usc_section: "2703"
 chapter: 15
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 2703"
-generated_at: "2026-03-29T18:04:55.113Z"
+generated_at: "2026-03-29T18:24:16.183Z"
 ---
 
 # § 2703. Eligible articles
 
 - **(a)**
-  - **(1)** Unless otherwise excluded from eligibility by this chapter, and subject to section 423 of the Tax Reform Act of 1986, and except as provided in subsection (b)(2) and (3) of this section, the duty-free treatment provided under this chapter shall apply to any article which is the growth, product, or manufacture of a beneficiary country if—
+  - **(1)** Unless otherwise excluded from eligibility by this chapter, and subject to section 423 of the Tax Reform Act of 1986, and except as provided in subsection (b)(2) and (3), the duty-free treatment provided under this chapter shall apply to any article which is the growth, product, or manufacture of a beneficiary country if—
     - **(A)** that article is imported directly from a beneficiary country into the customs territory of the United States; and
     - **(B)** the sum of (i) the cost or value of the materials produced in a beneficiary country or two or more beneficiary countries, plus (ii) the direct costs of processing operations performed in a beneficiary country or countries is not less than 35 per centum of the appraised value of such article at the time it is entered.
   - **(2)** The Secretary of the Treasury shall prescribe such regulations as may be necessary to carry out this subsection including, but not limited to, regulations providing that, in order to be eligible for duty-free treatment under this chapter, an article must be wholly the growth, product, or manufacture of a beneficiary country, or must be a new or different article of commerce which has been grown, produced, or manufactured in the beneficiary country; but no article or material of a beneficiary country shall be eligible for such treatment by virtue of having merely undergone—
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T18:04:55.113Z"
     - **(A)** all actual labor costs involved in the growth, production, manufacture, or assembly of the specific merchandise, including fringe benefits, on-the-job training and the cost of engineering, supervisory, quality control, and similar personnel; and
     - **(B)** dies, molds, tooling, and depreciation on machinery and equipment which are allocable to the specific merchandise.
   - **(4)** Notwithstanding section 1311 of this title , the products of a beneficiary country which are imported directly from any beneficiary country into Puerto Rico may be entered under bond for processing or use in manufacturing in Puerto Rico. No duty shall be imposed on the withdrawal from warehouse of the product of such processing or manufacturing if, at the time of such withdrawal, such product meets the requirements of paragraph (1)(B).
-  - **(5)** The duty-free treatment provided under this chapter shall apply to an article (other than an article listed in subsection (b) of this section) which is the growth, product, or manufacture of the Commonwealth of Puerto Rico if—
+  - **(5)** The duty-free treatment provided under this chapter shall apply to an article (other than an article listed in subsection (b)) which is the growth, product, or manufacture of the Commonwealth of Puerto Rico if—
     - **(A)** the article is imported directly from the beneficiary country into the customs territory of the United States,
     - **(B)** the article was by any means advanced in value or improved in condition in a beneficiary country, and
     - **(C)** if any materials are added to the article in a beneficiary country, such materials are a product of a beneficiary country or the United States.
@@ -37,7 +37,7 @@ generated_at: "2026-03-29T18:04:55.113Z"
     - **(C)** tuna, prepared or preserved in any manner, in airtight containers;
     - **(D)** petroleum, or any product derived from petroleum, provided for in headings 2709 and 2710 of the HTS;
     - **(E)** watches and watch parts (including cases, bracelets, and straps), of whatever type including, but not limited to, mechanical, quartz digital or quartz analog, if such watches or watch parts contain any material which is the product of any country with respect to which HTS column 2 rates of duty apply; or
-    - **(F)** articles to which reduced rates of duty apply under subsection (h) of this section.
+    - **(F)** articles to which reduced rates of duty apply under subsection (h).
   - **(2)**
     - **(A)** During the transition period, the preferential treatment described in subparagraph (B) shall apply to the following articles:
       - **(i)** Apparel articles sewn or otherwise assembled in one or more CBTPA beneficiary countries from fabrics wholly formed and cut, or from components knit-to-shape, in the United States from yarns wholly formed in the United States, or both (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are wholly formed and cut in the United States) that are—
@@ -87,8 +87,8 @@ generated_at: "2026-03-29T18:04:55.113Z"
       - **(ii)** Clause (i) does not apply to any article accorded duty-free treatment under U.S. Note 2(b) to subchapter II of chapter 98 of the HTS.
       - **(iii)** Notwithstanding paragraph (1)(B) and clause (i) of this subparagraph, footwear provided for in any of subheadings 6403.59.60, 6403.91.30, 6403.99.60, and 6403.99.90 of the HTS shall be eligible for the duty-free treatment provided for under this chapter if—
         - **(I)** the article of footwear is the growth, product, or manufacture of a CBTPA beneficiary country; and
-        - **(II)** the article otherwise meets the requirements of subsection (a) of this section, except that in applying such subsection, “CBTPA beneficiary country” shall be substituted for “beneficiary country” each place it appears.
-    - **(B)** If at any time during the transition period the rate of duty that would (but for action taken under subparagraph (A)(i) in regard to such period) apply with respect to any article under subsection (h) of this section is a rate of duty that is lower than the rate of duty resulting from such action, then such lower rate of duty shall be applied for the purposes of implementing such action.
+        - **(II)** the article otherwise meets the requirements of subsection (a), except that in applying such subsection, “CBTPA beneficiary country” shall be substituted for “beneficiary country” each place it appears.
+    - **(B)** If at any time during the transition period the rate of duty that would (but for action taken under subparagraph (A)(i) in regard to such period) apply with respect to any article under subsection (h) is a rate of duty that is lower than the rate of duty resulting from such action, then such lower rate of duty shall be applied for the purposes of implementing such action.
   - **(4)**
     - **(A)**
       - **(i)** Any importer that claims preferential treatment under paragraph (2) or (3) shall comply with customs procedures similar in all material respects to the requirements of Article 502(1) of the NAFTA as implemented pursuant to United States law, in accordance with regulations promulgated by the Secretary of the Treasury.

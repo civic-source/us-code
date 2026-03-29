@@ -3,9 +3,9 @@ title: "Section 13931 - Grants for capital improvements to prevent crime in publ
 usc_title: 42
 usc_section: "13931"
 chapter: 136
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 13931"
-generated_at: "2026-03-29T18:07:15.351Z"
+generated_at: "2026-03-29T18:27:04.140Z"
 ---
 
 # § 13931. Grants for capital improvements to prevent crime in public transportation
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T18:07:15.351Z"
     - **(B)** increasing camera surveillance of areas within and adjacent to public transportation systems, including bus stops, subway stations, parking lots, or garages;
     - **(C)** providing emergency phone lines to contact law enforcement or security personnel in areas within or adjacent to public transportation systems, including bus stops, subway stations, parking lots, or garages; or
     - **(D)** any other project intended to increase the security and safety of existing or planned public transportation systems.
-  - **(2)** From the sums authorized under this section, at least 75 percent shall be expended on projects of the type described in subsection (b)(1)(A) and (B) of this section.
+  - **(2)** From the sums authorized under this section, at least 75 percent shall be expended on projects of the type described in subsection (b)(1)(A) and (B).
 - **(c)** All grants under this section are contingent upon the filing of a report with the Secretary and the Department of Justice, Office of Victims of Crime, showing crime rates in or adjacent to public transportation before, and for a 1-year period after, the capital improvement. Statistics shall be compiled on the basis of the type of crime, sex, race, ethnicity, language, and relationship of victim to the offender.
 - **(d)** Notwithstanding any other provision of law, the Federal share under this section for each capital improvement project that enhances the safety and security of public transportation systems and that is not required by law (including any other provision of this Act) shall be 90 percent of the net project cost of the project.
 - **(e)** From the sums authorized under this section, the Secretary shall provide grants and loans for the purpose of studying ways to reduce violent crimes against women in public transit through better design or operation of public transit systems.

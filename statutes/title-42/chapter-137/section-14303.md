@@ -3,9 +3,9 @@ title: "Section 14303 - Information dissemination"
 usc_title: 42
 usc_section: "14303"
 chapter: 137
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 14303"
-generated_at: "2026-03-29T18:07:15.380Z"
+generated_at: "2026-03-29T18:27:04.168Z"
 ---
 
 # § 14303. Information dissemination

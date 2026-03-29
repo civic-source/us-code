@@ -3,9 +3,9 @@ title: "Section 373 - Disposal by will of allotments held under trust"
 usc_title: 25
 usc_section: "373"
 chapter: 10
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 373"
-generated_at: "2026-03-29T18:05:17.041Z"
+generated_at: "2026-03-29T18:25:23.683Z"
 ---
 
 # § 373. Disposal by will of allotments held under trust

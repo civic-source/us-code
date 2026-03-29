@@ -3,9 +3,9 @@ title: "Section 1003 - Notices of capacity requirements"
 usc_title: 47
 usc_section: "1003"
 chapter: 9
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "47 U.S.C. § 1003"
-generated_at: "2026-03-29T18:07:40.908Z"
+generated_at: "2026-03-29T18:27:09.606Z"
 ---
 
 # § 1003. Notices of capacity requirements
@@ -18,12 +18,12 @@ generated_at: "2026-03-29T18:07:40.908Z"
     - **(A)** may be based upon the type of equipment, type of service, number of subscribers, type or size or 1 1 So in original. Probably should be “of”. carrier, nature of service area, or any other measure; and
     - **(B)** shall identify, to the maximum extent practicable, the capacity required at specific geographic locations.
 - **(b)**
-  - **(1)** Within 3 years after the publication by the Attorney General of a notice of capacity requirements or within 4 years after October 25, 1994 , whichever is longer, a telecommunications carrier shall, subject to subsection (e) of this section, ensure that its systems are capable of—
-    - **(A)** accommodating simultaneously the number of interceptions, pen registers, and trap and trace devices set forth in the notice under subsection (a)(1)(A) of this section; and
-    - **(B)** expanding to the maximum capacity set forth in the notice under subsection (a)(1)(B) of this section.
-  - **(2)** After the date described in paragraph (1), a telecommunications carrier shall, subject to subsection (e) of this section, ensure that it can accommodate expeditiously any increase in the actual number of communication interceptions, pen registers, and trap and trace devices that authorized agencies may seek to conduct and use, up to the maximum capacity requirement set forth in the notice under subsection (a)(1)(B) of this section.
+  - **(1)** Within 3 years after the publication by the Attorney General of a notice of capacity requirements or within 4 years after October 25, 1994 , whichever is longer, a telecommunications carrier shall, subject to subsection (e), ensure that its systems are capable of—
+    - **(A)** accommodating simultaneously the number of interceptions, pen registers, and trap and trace devices set forth in the notice under subsection (a)(1)(A); and
+    - **(B)** expanding to the maximum capacity set forth in the notice under subsection (a)(1)(B).
+  - **(2)** After the date described in paragraph (1), a telecommunications carrier shall, subject to subsection (e), ensure that it can accommodate expeditiously any increase in the actual number of communication interceptions, pen registers, and trap and trace devices that authorized agencies may seek to conduct and use, up to the maximum capacity requirement set forth in the notice under subsection (a)(1)(B).
 - **(c)**
-  - **(1)** The Attorney General shall periodically publish in the Federal Register, after notice and comment, notice of any necessary increases in the maximum capacity requirement set forth in the notice under subsection (a)(1)(B) of this section.
-  - **(2)** Within 3 years after notice of increased maximum capacity requirements is published under paragraph (1), or within such longer time period as the Attorney General may specify, a telecommunications carrier shall, subject to subsection (e) of this section, ensure that its systems are capable of expanding to the increased maximum capacity set forth in the notice.
-- **(d)** Within 180 days after the publication by the Attorney General of a notice of capacity requirements pursuant to subsection (a) or (c) of this section, a telecommunications carrier shall submit to the Attorney General a statement identifying any of its systems or services that do not have the capacity to accommodate simultaneously the number of interceptions, pen registers, and trap and trace devices set forth in the notice under such subsection.
-- **(e)** The Attorney General shall review the statements submitted under subsection (d) of this section and may, subject to the availability of appropriations, agree to reimburse a telecommunications carrier for costs directly associated with modifications to attain such capacity requirement that are determined to be reasonable in accordance with section 1008(e) of this title . Until the Attorney General agrees to reimburse such carrier for such modification, such carrier shall be considered to be in compliance with the capacity notices under subsection (a) or (c) of this section.
+  - **(1)** The Attorney General shall periodically publish in the Federal Register, after notice and comment, notice of any necessary increases in the maximum capacity requirement set forth in the notice under subsection (a)(1)(B).
+  - **(2)** Within 3 years after notice of increased maximum capacity requirements is published under paragraph (1), or within such longer time period as the Attorney General may specify, a telecommunications carrier shall, subject to subsection (e), ensure that its systems are capable of expanding to the increased maximum capacity set forth in the notice.
+- **(d)** Within 180 days after the publication by the Attorney General of a notice of capacity requirements pursuant to subsection (a) or (c), a telecommunications carrier shall submit to the Attorney General a statement identifying any of its systems or services that do not have the capacity to accommodate simultaneously the number of interceptions, pen registers, and trap and trace devices set forth in the notice under such subsection.
+- **(e)** The Attorney General shall review the statements submitted under subsection (d) and may, subject to the availability of appropriations, agree to reimburse a telecommunications carrier for costs directly associated with modifications to attain such capacity requirement that are determined to be reasonable in accordance with section 1008(e) of this title . Until the Attorney General agrees to reimburse such carrier for such modification, such carrier shall be considered to be in compliance with the capacity notices under subsection (a) or (c).

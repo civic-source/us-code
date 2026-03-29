@@ -3,9 +3,9 @@ title: "Section 201 - Definitions"
 usc_title: 42
 usc_section: "201"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 201"
-generated_at: "2026-03-29T18:07:13.255Z"
+generated_at: "2026-03-29T18:27:02.517Z"
 ---
 
 # § 201. Definitions
@@ -19,7 +19,7 @@ When used in this chapter—
 - **(e)** The term “executive department” means any executive department, agency, or independent establishment of the United States or any corporation wholly owned by the United States;
 - **(f)** Except as provided in sections 246(g)(4)(B), 1 1 See References in Text note below. 247c(c)(1), 1 254d(h)(3), 1 263c(5), 1 264(d), 292a(9), 1 300a(c), 300f(13), and 300n(1) 1 of this title, the term “State” includes, in addition to the several States, only the District of Columbia, Guam, the Commonwealth of Puerto Rico, the Northern Mariana Islands, the Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands.
 - **(g)** The term “possession” includes, among other possessions, Puerto Rico and the Virgin Islands;
-- **(h)** Repealed. Pub. L. 97–35, title IX, § 986(a) , Aug. 13, 1981 , 95 Stat. 603 .
+- **(h)** Repealed. Pub. L. 97–35, title IX , § 986(a), Aug. 13, 1981 , 95 Stat. 603 .
 - **(i)** The term “vessel” includes every description of watercraft or other artificial contrivance used, or capable of being used, as a means of transportation on water, exclusive of aircraft and amphibious contrivances;
 - **(j)** The term “habit-forming narcotic drug” or “narcotic” means opium and coca leaves and the several alkaloids derived therefrom, the best known of these alkaloids being morphia, heroin, and codeine, obtained from opium, and cocaine derived from the coca plant; all compounds, salts, preparations, or other derivatives obtained either from the raw material or from the various alkaloids; Indian hemp and its various derivatives, compounds, and preparations, and peyote in its various forms; isonipecaine and its derivatives, compounds, salts, and preparations; opiates (as defined in section 4731(g) 1 of title 26);
 - **(k)** The term “addict” means any person who habitually uses any habit-forming narcotic drugs so as to endanger the public morals, health, safety, or welfare, or who is or has been so far addicted to the use of such habit-forming narcotic drugs as to have lost the power of self-control with reference to his addiction;

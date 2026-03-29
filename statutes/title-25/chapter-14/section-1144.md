@@ -1,14 +1,12 @@
 ---
-title: "Section 1144 - Apportionment; ratio of apportioned shares"
+title: "Section 1144 - Omitted"
 usc_title: 25
 usc_section: "1144"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1144"
-generated_at: "2026-03-29T18:05:17.122Z"
+generated_at: "2026-03-29T18:25:23.709Z"
 ---
 
-# § 1144. Apportionment; ratio of apportioned shares
-
-The Secretary of the Interior shall apportion to each group mentioned in section 1142 of this title so much of the aforementioned judgment and accrued interest as the ratio of its enrollees bears to the total enrollees of all of said groups.
+# § 1144. Omitted
 

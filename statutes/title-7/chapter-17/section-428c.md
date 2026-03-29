@@ -3,9 +3,9 @@ title: "Section 428c - Rice research"
 usc_title: 7
 usc_section: "428c"
 chapter: 17
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 428c"
-generated_at: "2026-03-29T18:04:04.769Z"
+generated_at: "2026-03-29T18:23:43.197Z"
 ---
 
 # § 428c. Rice research
@@ -19,5 +19,5 @@ generated_at: "2026-03-29T18:04:04.769Z"
   - **(6)** to develop more efficient rice storage practices;
   - **(7)** to improve domestic and international marketing of rice; and
   - **(8)** to benefit the general welfare.
-- **(b)** The Secretary shall, in implementing the program authorized in subsection (a) of this section, utilize the technical and related services of appropriate Federal, State, local governmental, and private agencies, with priority consideration for land grant universities, State experiment stations, and other agricultural institutions of higher learning.
+- **(b)** The Secretary shall, in implementing the program authorized in subsection (a), utilize the technical and related services of appropriate Federal, State, local governmental, and private agencies, with priority consideration for land grant universities, State experiment stations, and other agricultural institutions of higher learning.
 - **(c)** There is authorized to be appropriated not more than $1,000,000 for the period ending September 30, 1976 , to carry out the provisions of this section. No funds authorized by this section shall be used for advertising or promotional activities.

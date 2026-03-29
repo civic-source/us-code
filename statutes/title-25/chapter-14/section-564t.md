@@ -1,14 +1,12 @@
 ---
-title: "Section 564t - Indian claims unaffected"
+title: "Section 564t - Omitted"
 usc_title: 25
 usc_section: "564t"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 564t"
-generated_at: "2026-03-29T18:05:17.072Z"
+generated_at: "2026-03-29T18:25:23.696Z"
 ---
 
-# § 564t. Indian claims unaffected
-
-Nothing contained in this subchapter shall deprive the tribe or its constituent parts of any right, privilege, or benefit granted by the Act of August 13, 1946 ( 60 Stat. 1049 ) [ 25 U.S.C. 70 et seq.].
+# § 564t. Omitted
 

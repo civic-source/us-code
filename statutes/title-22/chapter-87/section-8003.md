@@ -3,9 +3,9 @@ title: "Section 8003 - Waiver authority and congressional approval"
 usc_title: 22
 usc_section: "8003"
 chapter: 87
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 8003"
-generated_at: "2026-03-29T18:05:22.046Z"
+generated_at: "2026-03-29T18:24:54.395Z"
 ---
 
 # § 8003. Waiver authority and congressional approval
@@ -160,5 +160,5 @@ generated_at: "2026-03-29T18:05:22.046Z"
         - **(II)** any enrichment is being carried out pursuant to Article 6 of the Agreement.
   - **(3)**
     - **(A)** Each annual report submitted under paragraph (2) after the initial report may be submitted together with the annual report on proliferation prevention required under section 3281(a) of this title .
-    - **(B)** The information required to be submitted under paragraph (2)(F) after the initial report may be submitted together with the annual report on progress toward regional nonproliferation required under section 2376(c) of this title .
+    - **(B)** The information required to be submitted under paragraph (2)(F) after the initial report may be submitted together with the annual report on progress toward regional nonproliferation required under section 2376(c) 2 2 See References in Text note below. of this title.
   - **(4)** Each report submitted under this subsection shall be submitted in unclassified form, but may contain a classified annex.

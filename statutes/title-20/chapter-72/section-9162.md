@@ -3,9 +3,9 @@ title: "Section 9162 - National leadership grants, contracts, or cooperative agr
 usc_title: 20
 usc_section: "9162"
 chapter: 72
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 9162"
-generated_at: "2026-03-29T18:05:00.405Z"
+generated_at: "2026-03-29T18:24:41.178Z"
 ---
 
 # § 9162. National leadership grants, contracts, or cooperative agreements
@@ -18,6 +18,6 @@ generated_at: "2026-03-29T18:05:00.405Z"
   - **(3)** preserving or digitizing of library materials and resources, giving priority to projects emphasizing coordination, avoidance of duplication, and access by researchers beyond the institution or library entity undertaking the project, including the development of national, regional, statewide, or local emergency plans that would ensure the preservation of knowledge and library collections in the event of a disaster; and
   - **(4)** model programs demonstrating cooperative efforts between libraries and museums.
 - **(b)**
-  - **(1)** The Director may carry out the activities described in subsection (a) of this section by awarding grants to, or entering into contracts or cooperative agreements with, libraries, agencies, institutions of higher education, or museums, where appropriate.
+  - **(1)** The Director may carry out the activities described in subsection (a) by awarding grants to, or entering into contracts or cooperative agreements with, libraries, agencies, institutions of higher education, or museums, where appropriate.
   - **(2)** Grants, contracts, and cooperative agreements under this section shall be awarded on a competitive basis.
 - **(c)** The Director shall make every effort to ensure that activities assisted under this section are administered by appropriate library and museum professionals or experts.

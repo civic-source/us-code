@@ -3,9 +3,9 @@ title: "Section 1226c - Biennial evaluation report"
 usc_title: 20
 usc_section: "1226c"
 chapter: 31
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1226c"
-generated_at: "2026-03-29T18:05:00.196Z"
+generated_at: "2026-03-29T18:24:41.033Z"
 ---
 
 # § 1226c. Biennial evaluation report
@@ -17,4 +17,4 @@ Not later than March 31, 1995 , and every two years after such date, the Secreta
   - **(3)** address significant program activities, such as initiatives for program improvement, regulations, and program monitoring and evaluation;
   - **(4)** list the principal analyses and studies supporting the major conclusions in such report;
   - **(5)** be prepared in concise summary form with necessary detailed data and appendixes, including available data to indicate the effectiveness of the programs and projects by the race, sex, disability and age of beneficiaries of such programs and projects; and
-  - **(6)** include the results of the program evaluations conducted in accordance with section 7941 of this title .
+  - **(6)** include the results of the program evaluations conducted in accordance with section 7981 of this title .

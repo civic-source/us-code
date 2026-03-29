@@ -3,9 +3,9 @@ title: "Section 4213 - Eligibility requirements for veterans under Federal emplo
 usc_title: 38
 usc_section: "4213"
 chapter: 42
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "38 U.S.C. § 4213"
-generated_at: "2026-03-29T18:06:22.819Z"
+generated_at: "2026-03-29T18:26:07.630Z"
 ---
 
 # § 4213. Eligibility requirements for veterans under Federal employment and training programs
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T18:06:22.819Z"
   - **(1)** Any public service employment program.
   - **(2)** Any emergency employment program.
   - **(3)** Any job training program assisted under the Economic Opportunity Act of 1964.
-  - **(4)** Any employment or training program carried out under title I of the Workforce Investment Act of 1998 ( 29 U.S.C. 2801 et seq.).
+  - **(4)** Any employment or training program carried out under title I of the Workforce Innovation and Opportunity Act.
   - **(5)** Any other employment or training (or related) program financed in whole or in part with Federal funds.
 - **(b)** Subsection (a) applies with respect to the following amounts and periods of time:
   - **(1)** Any amount received as pay or allowances by any person while serving on active duty.

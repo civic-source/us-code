@@ -3,18 +3,18 @@ title: "Section 273 - Organ procurement organizations"
 usc_title: 42
 usc_section: "273"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 273"
-generated_at: "2026-03-29T18:07:13.353Z"
+generated_at: "2026-03-29T18:27:02.601Z"
 ---
 
 # § 273. Organ procurement organizations
 
 - **(a)**
-  - **(1)** The Secretary may make grants for the planning of qualified organ procurement organizations described in subsection (b) of this section.
-  - **(2)** The Secretary may make grants for the establishment, initial operation, consolidation, and expansion of qualified organ procurement organizations described in subsection (b) of this section.
+  - **(1)** The Secretary may make grants for the planning of qualified organ procurement organizations described in subsection (b).
+  - **(2)** The Secretary may make grants for the establishment, initial operation, consolidation, and expansion of qualified organ procurement organizations described in subsection (b).
 - **(b)**
-  - **(1)** A qualified organ procurement organization for which grants may be made under subsection (a) of this section is an organization which, as determined by the Secretary, will carry out the functions described in paragraph (2) 1 1 See References in Text note below. and—
+  - **(1)** A qualified organ procurement organization for which grants may be made under subsection (a) is an organization which, as determined by the Secretary, will carry out the functions described in paragraph (2) 1 1 See References in Text note below. and—
     - **(A)** is a nonprofit entity,
     - **(B)** has accounting and other fiscal procedures (as specified by the Secretary) necessary to assure the fiscal stability of the organization,
     - **(C)** has an agreement with the Secretary to be reimbursed under title XVIII of the Social Security Act [ 42 U.S.C. 1395 et seq.] for the procurement of kidneys,
@@ -53,4 +53,4 @@ generated_at: "2026-03-29T18:07:13.353Z"
     - **(I)** have arrangements to cooperate with tissue banks for the retrieval, processing, preservation, storage, and distribution of tissues as may be appropriate to assure that all useable tissues are obtained from potential donors,
     - **(J)** evaluate annually the effectiveness of the organization in acquiring potentially available organs, and
     - **(K)** assist hospitals in establishing and implementing protocols for making routine inquiries about organ donations by potential donors.
-- **(c)** Pancreata procured by an organ procurement organization and used for islet cell transplantation or research shall be counted for purposes of certification or recertification under subsection (b) of this section.
+- **(c)** Pancreata procured by an organ procurement organization and used for islet cell transplantation or research shall be counted for purposes of certification or recertification under subsection (b).

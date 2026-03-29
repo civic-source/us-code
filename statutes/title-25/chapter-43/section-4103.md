@@ -3,9 +3,9 @@ title: "Section 4103 - Definitions"
 usc_title: 25
 usc_section: "4103"
 chapter: 43
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 4103"
-generated_at: "2026-03-29T18:05:17.253Z"
+generated_at: "2026-03-29T18:25:23.815Z"
 ---
 
 # § 4103. Definitions
@@ -26,7 +26,7 @@ For purposes of this chapter, the following definitions shall apply:
     - **(E)** The amount of any earned income of any member of the family who is less than 18 years of age.
     - **(F)** Excessive travel expenses, not to exceed $25 per family per week, for employment- or education-related travel.
     - **(G)** Such other amounts as may be provided in the Indian housing plan for an Indian tribe.
-  - **(2)** The term “affordable housing” means housing that complies with the requirements for affordable housing under subchapter II of this chapter. The term includes permanent housing for homeless persons who are persons with disabilities, transitional housing, and single room occupancy housing.
+  - **(2)** The term “affordable housing” means housing that complies with the requirements for affordable housing under subchapter II. The term includes permanent housing for homeless persons who are persons with disabilities, transitional housing, and single room occupancy housing.
   - **(3)** The term “drug-related criminal activity” means the illegal manufacture, sale, distribution, use, or possession with intent to manufacture, sell, distribute, or use, of a controlled substance (as such term is defined in section 802 of title 21 ).
   - **(4)** The terms “elderly family” and “near-elderly family” mean a family whose head (or his or her spouse), or whose sole member, is an elderly person or a near-elderly person, respectively. Such terms include 2 or more elderly persons or near-elderly persons living together, and 1 or more such persons living with 1 or more persons determined under the Indian housing plan for the agency to be essential to their care or well-being.
   - **(5)** The term “elderly person” means a person who is at least 62 years of age.
@@ -50,7 +50,7 @@ For purposes of this chapter, the following definitions shall apply:
   - **(12)** The term “Indian housing plan” means a plan under section 4112 of this title .
   - **(13)**
     - **(A)** The term “Indian tribe” means a tribe that is a federally recognized tribe or a State recognized tribe.
-    - **(B)** The term “federally recognized tribe” means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act [ 43 U.S.C. 1601 et seq.], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.).
+    - **(B)** The term “federally recognized tribe” means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act [ 43 U.S.C. 1601 et seq.], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.). 1 1 See References in Text note below.
     - **(C)**
       - **(i)** The term “State recognized tribe” means any tribe, band, nation, pueblo, village, or community—
         - **(I)** that has been recognized as an Indian tribe by any State; and

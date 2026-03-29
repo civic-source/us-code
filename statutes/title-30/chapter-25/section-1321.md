@@ -3,9 +3,9 @@ title: "Section 1321 - Fellowship awards"
 usc_title: 30
 usc_section: "1321"
 chapter: 25
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "30 U.S.C. § 1321"
-generated_at: "2026-03-29T18:05:26.217Z"
+generated_at: "2026-03-29T18:25:30.917Z"
 ---
 
 # § 1321. Fellowship awards

@@ -3,9 +3,9 @@ title: "Section 3382 - Procedures concerning conduct of International Trade Comm
 usc_title: 19
 usc_section: "3382"
 chapter: 21
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 3382"
-generated_at: "2026-03-29T18:04:55.139Z"
+generated_at: "2026-03-29T18:24:16.205Z"
 ---
 
 # § 3382. Procedures concerning conduct of International Trade Commission investigations

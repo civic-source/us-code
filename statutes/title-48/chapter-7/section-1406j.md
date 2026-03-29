@@ -1,12 +1,12 @@
 ---
-title: "Section 1406j - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 649"
+title: "Section 1406j - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 Stat. 649"
 usc_title: 48
 usc_section: "1406j"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "48 U.S.C. § 1406j"
-generated_at: "2026-03-29T18:07:36.842Z"
+generated_at: "2026-03-29T18:27:11.650Z"
 ---
 
-# § 1406j. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 649
+# § 1406j. Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 Stat. 649
 

@@ -3,9 +3,9 @@ title: "Section 39 - Improving outcomes for children and adolescents through ser
 usc_title: 42
 usc_section: "39"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 39"
-generated_at: "2026-03-29T18:07:13.450Z"
+generated_at: "2026-03-29T18:27:02.674Z"
 ---
 
 # § 290bb–39. Improving outcomes for children and adolescents through services integration between child welfare and mental health services
@@ -13,14 +13,14 @@ generated_at: "2026-03-29T18:07:13.450Z"
 - **(a)** The Secretary shall award grants, contracts or cooperative agreements to States, political subdivisions of States, Indian tribes, and tribal organizations to provide integrated child welfare and mental health services for children and adolescents under 19 years of age in the child welfare system or at risk for becoming part of the system, and parents or caregivers with a mental illness or a mental illness and a co-occurring substance abuse disorder.
 - **(b)** With respect to a grant, contract or cooperative agreement awarded under this section, the period during which payments under such award are made to the recipient may not exceed 5 years.
 - **(c)**
-  - **(1)** To be eligible to receive an award under subsection (a) of this section, a State, political subdivision of a State, Indian tribe, or tribal organization shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may reasonably require.
+  - **(1)** To be eligible to receive an award under subsection (a), a State, political subdivision of a State, Indian tribe, or tribal organization shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may reasonably require.
   - **(2)** An application submitted under paragraph (1) shall—
     - **(A)** describe the program to be funded under the grant, contract or cooperative agreement;
     - **(B)** explain how such program reflects best practices in the provision of child welfare and mental health services; and
     - **(C)** provide assurances that—
       - **(i)** persons providing services under the grant, contract or cooperative agreement are adequately trained to provide such services; and
-      - **(ii)** the services will be provided in accordance with subsection (d) of this section.
-- **(d)** A State, political subdivision of a State, Indian tribe, or tribal organization that receives a grant, contract, or cooperative agreement under subsection (a) of this section shall use amounts made available through such grant, contract or cooperative agreement to—
+      - **(ii)** the services will be provided in accordance with subsection (d).
+- **(d)** A State, political subdivision of a State, Indian tribe, or tribal organization that receives a grant, contract, or cooperative agreement under subsection (a) shall use amounts made available through such grant, contract or cooperative agreement to—
   - **(1)** provide family-centered, comprehensive, and coordinated child welfare and mental health services, including prevention, early intervention and treatment services for children and adolescents, and for their parents or caregivers;
   - **(2)** ensure a single point of access for such coordinated services;
   - **(3)** provide integrated mental health and substance abuse treatment for children, adolescents, and parents or caregivers with a mental illness and a co-occurring substance abuse disorder;
@@ -30,6 +30,6 @@ generated_at: "2026-03-29T18:07:13.450Z"
   - **(7)** coordinate services with services provided under the Medicaid program and the State Children’s Health Insurance Program under titles XIX and XXI of the Social Security Act [ 42 U.S.C. 1396 et seq., 1397aa et seq.];
   - **(8)** provide linguistically appropriate and culturally competent services; and
   - **(9)** evaluate the effectiveness and cost-efficiency of the integrated services that measure the level of coordination, outcome measures for parents or caregivers with a mental illness or a mental illness and a co-occurring substance abuse disorder, and outcome measures for children.
-- **(e)** The Secretary shall ensure that grants, contracts, and cooperative agreements awarded under subsection (a) of this section are equitably distributed among the geographical regions of the United States and between urban and rural populations.
-- **(f)** The Secretary shall evaluate each program carried out by a State, political subdivision of a State, Indian tribe, or tribal organization under subsection (a) of this section and shall disseminate the findings with respect to each such evaluation to appropriate public and private entities.
+- **(e)** The Secretary shall ensure that grants, contracts, and cooperative agreements awarded under subsection (a) are equitably distributed among the geographical regions of the United States and between urban and rural populations.
+- **(f)** The Secretary shall evaluate each program carried out by a State, political subdivision of a State, Indian tribe, or tribal organization under subsection (a) and shall disseminate the findings with respect to each such evaluation to appropriate public and private entities.
 - **(g)** There is authorized to be appropriated to carry out this section, $10,000,000 for fiscal year 2001, and such sums as may be necessary for each of fiscal years 2002 and 2003.

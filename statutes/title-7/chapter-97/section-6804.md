@@ -3,9 +3,9 @@ title: "Section 6804 - Required terms in orders"
 usc_title: 7
 usc_section: "6804"
 chapter: 97
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 6804"
-generated_at: "2026-03-29T18:04:05.086Z"
+generated_at: "2026-03-29T18:23:43.485Z"
 ---
 
 # § 6804. Required terms in orders
@@ -70,11 +70,11 @@ generated_at: "2026-03-29T18:04:05.086Z"
   - **(3)** appoint members of the PromoFlor Council to serve on an executive committee;
   - **(4)** employ such persons as the PromoFlor Council determines are necessary, and set the compensation and define the duties of the persons;
   - **(5)**
-    - **(A)** develop budgets for the implementation of the order and submit the budgets to the Secretary for approval under subsection (d) of this section; and
-    - **(B)** propose and develop (or receive and evaluate), approve, and submit to the Secretary for approval under subsection (d) of this section plans and projects for cut flowers or cut greens promotion, consumer information, or related research;
+    - **(A)** develop budgets for the implementation of the order and submit the budgets to the Secretary for approval under subsection (d); and
+    - **(B)** propose and develop (or receive and evaluate), approve, and submit to the Secretary for approval under subsection (d) plans and projects for cut flowers or cut greens promotion, consumer information, or related research;
   - **(6)**
-    - **(A)** implement plans and projects for cut flowers or cut greens promotion, consumer information, or related research, as provided in subsection (d) of this section; or
-    - **(B)** contract or enter into agreements with appropriate persons to implement the plans and projects, as provided in subsection (e) of this section, and pay the costs of the implementation, or contracts and agreements, with funds received under the order;
+    - **(A)** implement plans and projects for cut flowers or cut greens promotion, consumer information, or related research, as provided in subsection (d); or
+    - **(B)** contract or enter into agreements with appropriate persons to implement the plans and projects, as provided in subsection (e), and pay the costs of the implementation, or contracts and agreements, with funds received under the order;
   - **(7)** evaluate on-going and completed plans and projects for cut flowers or cut greens promotion, consumer information, or related research;
   - **(8)** receive, investigate, and report to the Secretary complaints of violations of the order;
   - **(9)** recommend to the Secretary amendments to the order;
@@ -171,7 +171,7 @@ generated_at: "2026-03-29T18:04:05.086Z"
 - **(j)**
   - **(1)** The order shall provide that each qualified handler shall maintain, and make available for inspection, such books and records as are required by the order and file reports at the time, in the manner, and having the content required by the order, to the end that such information is made available to the Secretary and the PromoFlor Council as is appropriate for the administration or enforcement of this chapter, the order, or any regulation issued under this chapter.
   - **(2)**
-    - **(A)** Information obtained from books, records, or reports under paragraph (1) or subsection (h)(6) of this section, or from reports required under section 6805(b)(3) of this title , shall be kept confidential by all officers and employees of the Department of Agriculture and by the staff and agents of the PromoFlor Council.
+    - **(A)** Information obtained from books, records, or reports under paragraph (1) or subsection (h)(6), or from reports required under section 6805(b)(3) of this title , shall be kept confidential by all officers and employees of the Department of Agriculture and by the staff and agents of the PromoFlor Council.
     - **(B)** Information described in subparagraph (A) may be disclosed to the public only—
       - **(i)** in a suit or administrative hearing brought at the request of the Secretary, or to which the Secretary or any officer of the United States is a party, involving the order; and
       - **(ii)** to the extent the Secretary considers the information relevant to the suit or hearing.
@@ -188,4 +188,4 @@ generated_at: "2026-03-29T18:04:05.086Z"
     - **(B)** A committee appointed under subparagraph (A)—
       - **(i)** may not provide advice or recommendations to a representative of an agency, or an officer, of the Federal Government; and
       - **(ii)** shall consult directly with the PromoFlor Council.
-- **(l)** The order shall contain such other terms and provisions, consistent with this chapter, as are necessary to carry out this chapter (including provision for the assessment of interest and a charge for each late payment of assessments under subsection (h) of this section and for carrying out section 6805 of this title ).
+- **(l)** The order shall contain such other terms and provisions, consistent with this chapter, as are necessary to carry out this chapter (including provision for the assessment of interest and a charge for each late payment of assessments under subsection (h) and for carrying out section 6805 of this title ).

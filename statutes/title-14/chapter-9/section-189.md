@@ -3,9 +3,9 @@ title: "Section 189 - Grade of permanent commissioned teaching staff"
 usc_title: 14
 usc_section: "189"
 chapter: 9
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "14 U.S.C. § 189"
-generated_at: "2026-03-29T18:04:21.485Z"
+generated_at: "2026-03-29T18:23:55.769Z"
 ---
 
 # § 189. Grade of permanent commissioned teaching staff

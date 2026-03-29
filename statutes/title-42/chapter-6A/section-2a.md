@@ -3,9 +3,9 @@ title: "Section 2a - Medical treatment of narcotics addiction; report to Congres
 usc_title: 42
 usc_section: "2a"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 2a"
-generated_at: "2026-03-29T18:07:13.436Z"
+generated_at: "2026-03-29T18:27:02.664Z"
 ---
 
 # § 290bb–2a. Medical treatment of narcotics addiction; report to Congress

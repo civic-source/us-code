@@ -3,9 +3,9 @@ title: "Section 425m - Retained rights"
 usc_title: 16
 usc_section: "425m"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 425m"
-generated_at: "2026-03-29T18:05:06.590Z"
+generated_at: "2026-03-29T18:24:22.510Z"
 ---
 
 # § 425m. Retained rights

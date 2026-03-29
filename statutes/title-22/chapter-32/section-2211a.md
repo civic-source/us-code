@@ -3,9 +3,9 @@ title: "Section 2211a - Authorization; implementation; targeted assistance"
 usc_title: 22
 usc_section: "2211a"
 chapter: 32
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 2211a"
-generated_at: "2026-03-29T18:05:21.818Z"
+generated_at: "2026-03-29T18:24:54.191Z"
 ---
 
 # § 2211a. Authorization; implementation; targeted assistance
@@ -27,7 +27,7 @@ generated_at: "2026-03-29T18:05:21.818Z"
       - **(ii)** take all appropriate steps to ensure that the provider of assistance keeps administrative costs as low as practicable to ensure the maximum amount of funds are used for directly assisting microfinance and microenterprise clients, for establishing sustainable microfinance and microenterprise institutions, or for advancing the microenterprise development field; and
       - **(iii)** give preference to proposals from providers of assistance that are the most technically competitive and have a reasonable allocation to overhead and administrative costs.
   - **(3)** With respect to assistance provided under this section, the office shall be responsible for concurring in the microenterprise development components of strategic plans of missions, bureaus, and other offices of the Agency and providing technical support to field missions to help the missions prepare such components.
-- **(c)** In carrying out sustainable poverty-focused programs under subsection (a) of this section, 50 percent of all microenterprise resources shall be targeted to clients who are very poor. Specifically, until September 30, 2006 , such resources shall be used for—
+- **(c)** In carrying out sustainable poverty-focused programs under subsection (a), 50 percent of all microenterprise resources shall be targeted to clients who are very poor. Specifically, until September 30, 2006 , such resources shall be used for—
   - **(1)** support of programs under this section through practitioner institutions that—
     - **(A)** provide credit and other financial services to clients who are very poor, with loans in 1995 United States dollars of—
       - **(i)** $1,000 or less in the Europe and Eurasia region;

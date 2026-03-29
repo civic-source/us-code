@@ -3,9 +3,9 @@ title: "Section 3851 - Agriculture conservation experienced services program"
 usc_title: 16
 usc_section: "3851"
 chapter: 58
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 3851"
-generated_at: "2026-03-29T18:05:07.057Z"
+generated_at: "2026-03-29T18:24:22.896Z"
 ---
 
 # § 3851. Agriculture conservation experienced services program
@@ -19,11 +19,7 @@ generated_at: "2026-03-29T18:05:07.057Z"
     - **(C)** affect existing contracts for services.
 - **(c)**
   - **(1)** Except as provided in paragraph (2), the Secretary may carry out the ACES program using funds made available to carry out each program under this chapter.
-  - **(2)** Funds made available to carry out the following programs may not be used to carry out the ACES program:
-    - **(A)** The conservation reserve program.
-    - **(B)** The wetlands reserve program.
-    - **(C)** The grassland reserve program.
-    - **(D)** The conservation stewardship program.
+  - **(2)** Funds made available to carry out the conservation reserve program may not be used to carry out the ACES program.
 - **(d)** An individual providing technical services under the ACES program is deemed to be an employee of the United States Government for purposes of chapter 171 of title 28 if the individual—
   - **(1)** is providing technical services pursuant to an agreement entered into under subsection (b); and
   - **(2)** is acting within the scope of the agreement.

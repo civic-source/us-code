@@ -3,14 +3,14 @@ title: "Section 13962 - State databases"
 usc_title: 42
 usc_section: "13962"
 chapter: 136
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 13962"
-generated_at: "2026-03-29T18:07:15.351Z"
+generated_at: "2026-03-29T18:27:04.141Z"
 ---
 
 # § 13962. State databases
 
 - **(a)** The Attorney General shall study and report to the States and to Congress on how the States may collect centralized databases on the incidence of sexual and domestic violence offenses within a State.
 - **(b)** In conducting its study, the Attorney General shall consult persons expert in the collection of criminal justice data, State statistical administrators, law enforcement personnel, and nonprofit nongovernmental agencies that provide direct services to victims of domestic violence. The final report shall set forth the views of the persons consulted on the recommendations.
-- **(c)** The Attorney General shall ensure that no later than 1 year after September 13, 1994 , the study required under subsection (a) of this section is completed and a report describing the findings made is submitted to the Committees on the Judiciary of the Senate and the House of Representatives.
+- **(c)** The Attorney General shall ensure that no later than 1 year after September 13, 1994 , the study required under subsection (a) is completed and a report describing the findings made is submitted to the Committees on the Judiciary of the Senate and the House of Representatives.
 - **(d)** There are authorized to be appropriated to carry out this section $200,000 for fiscal year 1996.

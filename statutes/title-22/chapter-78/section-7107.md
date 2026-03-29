@@ -3,9 +3,9 @@ title: "Section 7107 - Actions against governments failing to meet minimum stand
 usc_title: 22
 usc_section: "7107"
 chapter: 78
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 7107"
-generated_at: "2026-03-29T18:05:22.023Z"
+generated_at: "2026-03-29T18:24:54.374Z"
 ---
 
 # § 7107. Actions against governments failing to meet minimum standards
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T18:05:22.023Z"
     - **(F)** emerging issues in human trafficking; and
     - **(G)** a section entitled “Promising Practices in the Eradication of Trafficking in Persons” to highlight effective practices and use of innovation and technology in prevention, protection, prosecution, and partnerships, including by foreign governments, the private sector, and domestic civil society actors.
   - **(2)**
-    - **(A)** Not later than the date on which the determinations described in subsections (c) and (d) of this section are submitted to the appropriate congressional committees in accordance with such subsections, the Secretary of State shall submit to the appropriate congressional committees a list of countries that the Secretary determines requires special scrutiny during the following year. The list shall be composed of the following countries:
+    - **(A)** Not later than the date on which the determinations described in subsections (c) and (d) are submitted to the appropriate congressional committees in accordance with such subsections, the Secretary of State shall submit to the appropriate congressional committees a list of countries that the Secretary determines requires special scrutiny during the following year. The list shall be composed of the following countries:
       - **(i)** Countries that have been listed pursuant to paragraph (1)(A) in the current annual report and were listed pursuant to paragraph (1)(B) in the previous annual report.
       - **(ii)** Countries that have been listed pursuant to paragraph (1)(B) pursuant to the current annual report and were listed pursuant to paragraph (1)(C) in the previous annual report.
       - **(iii)** Countries that have been listed pursuant to paragraph (1)(B) pursuant to the current annual report, where—
@@ -43,10 +43,10 @@ generated_at: "2026-03-29T18:05:22.023Z"
     - **(A)** the extent to which the country is a country of origin, transit, or destination for severe forms of trafficking;
     - **(B)** the extent of noncompliance with the minimum standards by the government and, particularly, the extent to which officials or employees of the government have participated in, facilitated, condoned, or are otherwise complicit in severe forms of trafficking; and
     - **(C)** what measures are reasonable to bring the government into compliance with the minimum standards in light of the resources and capabilities of the government.
-- **(c)** Not less than 45 days or more than 90 days after the submission, on or after January 1, 2003 , of an annual report under subsection (b)(1) of this section, or an interim report under subsection (b)(2) of this section, the President shall submit to the appropriate congressional committees a notification of one of the determinations listed in subsection (d) of this section with respect to each foreign country whose government, according to such report—
+- **(c)** Not less than 45 days or more than 90 days after the submission, on or after January 1, 2003 , of an annual report under subsection (b)(1), or an interim report under subsection (b)(2), the President shall submit to the appropriate congressional committees a notification of one of the determinations listed in subsection (d) with respect to each foreign country whose government, according to such report—
     - **(A)** does not comply with the minimum standards for the elimination of trafficking; and
-    - **(B)** is not making significant efforts to bring itself into compliance, as described in subsection (b)(1)(C) of this section.
-- **(d)** The determinations referred to in subsection (c) of this section are the following:
+    - **(B)** is not making significant efforts to bring itself into compliance, as described in subsection (b)(1)(C).
+- **(d)** The determinations referred to in subsection (c) are the following:
   - **(1)** The President has determined that—
     - **(A)**
       - **(i)** the United States will not provide nonhumanitarian, nontrade-related foreign assistance to the government of the country for the subsequent fiscal year until such government complies with the minimum standards or makes significant efforts to bring itself into compliance; or
@@ -62,5 +62,5 @@ generated_at: "2026-03-29T18:05:22.023Z"
       - **(iii)** one or more programs, projects, or activities of such assistance.
     - **(B)** The President shall exercise the authority under paragraph (4) when necessary to avoid significant adverse effects on vulnerable populations, including women and children.
   - **(6)** In this subsection, the term “multilateral development bank” refers to any of the following institutions: the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the Asian Development Bank, the Inter-American Investment Corporation, the African Development Bank, the African Development Fund, the European Bank for Reconstruction and Development, and the Multilateral Investment Guaranty Agency.
-- **(e)** Together with any notification under subsection (c) of this section, the President shall provide a certification by the Secretary of State that, with respect to any assistance described in clause (ii), (iii), or (v) of section 7102(8)(A) of this title , or with respect to any assistance described in section 7102(8)(B) of this title , no assistance is intended to be received or used by any agency or official who has participated in, facilitated, or condoned a severe form of trafficking in persons.
-- **(f)** After the President has made a determination described in subsection (d)(1) of this section with respect to the government of a country, the President may at any time make a determination described in paragraphs (4) and (5) of subsection (d) of this section to waive, in whole or in part, the measures imposed against the country by the previous determination under subsection (d)(1) of this section.
+- **(e)** Together with any notification under subsection (c), the President shall provide a certification by the Secretary of State that, with respect to any assistance described in clause (ii), (iii), or (v) of section 7102(8)(A) of this title , or with respect to any assistance described in section 7102(8)(B) of this title , no assistance is intended to be received or used by any agency or official who has participated in, facilitated, or condoned a severe form of trafficking in persons.
+- **(f)** After the President has made a determination described in subsection (d)(1) with respect to the government of a country, the President may at any time make a determination described in paragraphs (4) and (5) of subsection (d) to waive, in whole or in part, the measures imposed against the country by the previous determination under subsection (d)(1).

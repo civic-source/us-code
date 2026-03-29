@@ -1,12 +1,29 @@
 ---
-title: "Section 736 - Repealed. Pub. L. 115–41, title I, § 102(a)(1) , June 23, 2017 , 131 Stat. 865 ]"
+title: "Section 736 - Reports to Congress"
 usc_title: 38
 usc_section: "736"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "38 U.S.C. § 736"
-generated_at: "2026-03-29T02:14:50.340Z"
+generated_at: "2026-03-29T18:26:07.546Z"
 ---
 
-# [§§ 734 to 736. Repealed. Pub. L. 115–41, title I, § 102(a)(1) , June 23, 2017 , 131 Stat. 865 ]
+# § 736. Reports to Congress
 
+- **(a)** Not less frequently than once each year, the Secretary shall submit to the appropriate committees of Congress a report that includes—
+  - **(1)** with respect to whistleblower complaints filed under section 732 of this title during the year covered by the report—
+    - **(A)** the number of such complaints filed;
+    - **(B)** the disposition of such complaints; and
+    - **(C)** the ways in which the Secretary addressed such complaints in which a positive determination was made by a supervisor under subsection (b)(1) of such section;
+  - **(2)** the number of whistleblower complaints filed during the year covered by the report that are not included under paragraph (1), including—
+    - **(A)** the method in which such complaints were filed;
+    - **(B)** the disposition of such complaints; and
+    - **(C)** the ways in which the Secretary addressed such complaints; and
+  - **(3)** with respect to disclosures made by a contractor under section 4705 or 4712 of title 41—
+    - **(A)** the number of complaints relating to such disclosures that were investigated by the Inspector General of the Department of Veterans Affairs during the year covered by the report;
+    - **(B)** the disposition of such complaints; and
+    - **(C)** the ways in which the Secretary addressed such complaints.
+- **(b)** Not later than 30 days after the date on which the Secretary receives from the Special Counsel information relating to a whistleblower complaint pursuant to section 1213 of title 5 , the Secretary shall notify the appropriate committees of Congress of such information, including the determination made by the Special Counsel.
+- **(c)** In this section, the term “appropriate committees of Congress” means—
+  - **(1)** the Committee on Veterans’ Affairs and the Committee on Homeland Security and Governmental Affairs of the Senate; and
+  - **(2)** the Committee on Veterans’ Affairs and the Committee on Oversight and Government Reform of the House of Representatives.

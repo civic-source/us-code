@@ -3,9 +3,9 @@ title: "Section 1365 - Annual report of plan administrator"
 usc_title: 29
 usc_section: "1365"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 1365"
-generated_at: "2026-03-29T18:05:31.787Z"
+generated_at: "2026-03-29T18:25:43.114Z"
 ---
 
 # § 1365. Annual report of plan administrator
@@ -14,7 +14,7 @@ For each plan year for which section 1321 of this title applies to a plan, the p
 
   - **(1)** a copy of each notification required under section 1363 of this title with respect to such year,
   - **(2)** a statement disclosing whether any reportable event (described in section 1343(b) 1 1 See References in Text note below. of this title) occurred during the plan year except to the extent the corporation waives such requirement, and
-  - **(3)** in the case of a multiemployer plan, information with respect to such plan which the corporation determines is necessary for the enforcement of subtitle E of this subchapter and requires by regulation, which may include—
+  - **(3)** in the case of a multiemployer plan, information with respect to such plan which the corporation determines is necessary for the enforcement of subtitle E and requires by regulation, which may include—
     - **(A)** a statement certified by the plan’s enrolled actuary of—
       - **(i)** the value of all vested benefits under the plan as of the end of the plan year, and
       - **(ii)** the value of the plan’s assets as of the end of the plan year;

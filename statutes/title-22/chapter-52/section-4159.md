@@ -3,9 +3,9 @@ title: "Section 4159 - Survivor benefits for certain former spouses"
 usc_title: 22
 usc_section: "4159"
 chapter: 52
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 4159"
-generated_at: "2026-03-29T18:05:21.952Z"
+generated_at: "2026-03-29T18:24:54.313Z"
 ---
 
 # § 4159. Survivor benefits for certain former spouses
@@ -17,6 +17,6 @@ generated_at: "2026-03-29T18:05:21.952Z"
   - **(3)** For purposes of applying subchapter VIII of this chapter, any such election shall be treated the same as if it were a spousal agreement under section 4060(b)(1) of this title .
 - **(c)** An election under this section may provide for a survivor benefit based on all or any portion of that part of the annuity of the participant which is not designated or committed as a base for survivor benefits for a spouse or any other former spouse of the participant. The participant and his or her spouse may make an election under section 4046(b)(1)(B) of this title prior to the time of retirement for the purpose of allowing an election to be made under this section.
 - **(d)** The amount of the reduction in the participant’s annuity shall be determined in accordance with section 4046(b)(2) of this title . Such reduction shall be effective as of—
-  - **(1)** the commencing date of the participant’s annuity, in the case of an election under subsection (b)(1) of this section, or
-  - **(2)** February 15, 1981 , in the case of an election under subsection (b)(2) of this section.
+  - **(1)** the commencing date of the participant’s annuity, in the case of an election under subsection (b)(1), or
+  - **(2)** February 15, 1981 , in the case of an election under subsection (b)(2).
 - **(e)** For purposes of this section, the terms “former spouse”, “participant”, and “spousal agreement” have the meanings given such terms in sections 4043 and 4044 of this title.

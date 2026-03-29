@@ -3,9 +3,9 @@ title: "Section 2906 - Written evaluations"
 usc_title: 12
 usc_section: "2906"
 chapter: 30
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 2906"
-generated_at: "2026-03-29T18:04:43.667Z"
+generated_at: "2026-03-29T18:24:02.992Z"
 ---
 
 # § 2906. Written evaluations
@@ -31,11 +31,11 @@ generated_at: "2026-03-29T18:04:43.667Z"
   - **(3)** The confidential section may be disclosed, in whole or part, to the institution, if the appropriate Federal financial supervisory agency determines that such disclosure will promote the objectives of this chapter. However, disclosure under this paragraph shall not identify a person or organization that has provided information in confidence to a Federal or State financial supervisory agency.
 - **(d)**
   - **(1)** In the case of a regulated financial institution that maintains domestic branches in 2 or more States, the appropriate Federal financial supervisory agency shall prepare—
-    - **(A)** a written evaluation of the entire institution’s record of performance under this chapter, as required by subsections (a), (b), and (c) of this section; and
-    - **(B)** for each State in which the institution maintains 1 or more domestic branches, a separate written evaluation of the institution’s record of performance within such State under this chapter, as required by subsections (a), (b), and (c) of this section.
-  - **(2)** In the case of a regulated financial institution that maintains domestic branches in 2 or more States within a multistate metropolitan area, the appropriate Federal financial supervisory agency shall prepare a separate written evaluation of the institution’s record of performance within such metropolitan area under this chapter, as required by subsections (a), (b), and (c) of this section. If the agency prepares a written evaluation pursuant to this paragraph, the scope of the written evaluation required under paragraph (1)(B) shall be adjusted accordingly.
+    - **(A)** a written evaluation of the entire institution’s record of performance under this chapter, as required by subsections (a), (b), and (c); and
+    - **(B)** for each State in which the institution maintains 1 or more domestic branches, a separate written evaluation of the institution’s record of performance within such State under this chapter, as required by subsections (a), (b), and (c).
+  - **(2)** In the case of a regulated financial institution that maintains domestic branches in 2 or more States within a multistate metropolitan area, the appropriate Federal financial supervisory agency shall prepare a separate written evaluation of the institution’s record of performance within such metropolitan area under this chapter, as required by subsections (a), (b), and (c). If the agency prepares a written evaluation pursuant to this paragraph, the scope of the written evaluation required under paragraph (1)(B) shall be adjusted accordingly.
   - **(3)** A written evaluation prepared pursuant to paragraph (1)(B) shall—
-    - **(A)** present the information required by subparagraphs (A) and (B) of subsection (b)(1) of this section separately for each metropolitan area in which the institution maintains 1 or more domestic branch offices and separately for the remainder of the nonmetropolitan area of the State if the institution maintains 1 or more domestic branch offices in such nonmetropolitan area; and
+    - **(A)** present the information required by subparagraphs (A) and (B) of subsection (b)(1) separately for each metropolitan area in which the institution maintains 1 or more domestic branch offices and separately for the remainder of the nonmetropolitan area of the State if the institution maintains 1 or more domestic branch offices in such nonmetropolitan area; and
     - **(B)** describe how the Federal financial supervisory agency has performed the examination of the institution, including a list of the individual branches examined.
 - **(e)** For purposes of this section the following definitions shall apply:
   - **(1)** The term “domestic branch” means any branch office or other facility of a regulated financial institution that accepts deposits, located in any State.

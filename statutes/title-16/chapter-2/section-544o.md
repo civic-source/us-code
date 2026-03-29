@@ -3,18 +3,18 @@ title: "Section 544o - Savings provisions"
 usc_title: 16
 usc_section: "544o"
 chapter: 2
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 544o"
-generated_at: "2026-03-29T18:05:06.759Z"
+generated_at: "2026-03-29T18:24:22.651Z"
 ---
 
 # § 544o. Savings provisions
 
 - **(a)** Nothing in sections 544 to 544p of this title shall—
   - **(1)** affect or modify any treaty or other rights of any Indian tribe;
-  - **(2)** except as provided in section 13(c), authorize the appropriation or use of water by any Federal, State, or local agency, Indian tribe, or any other entity or individual;
-  - **(3)** except as provided in section 13(c), affect the rights or jurisdictions of the United States, the States, Indian tribes or other entities over waters of any river or stream or over any ground water resource or affect or interfere with transportation activities on any such river or stream;
-  - **(4)** except as provided in section 13(c), alter, establish, or affect the respective rights of the United States, the States, Indian tribes, or any person with respect to any water or water-related right;
+  - **(2)** except as provided in section 13(c), 1 1 See References in Text note below. authorize the appropriation or use of water by any Federal, State, or local agency, Indian tribe, or any other entity or individual;
+  - **(3)** except as provided in section 13(c), 1 affect the rights or jurisdictions of the United States, the States, Indian tribes or other entities over waters of any river or stream or over any ground water resource or affect or interfere with transportation activities on any such river or stream;
+  - **(4)** except as provided in section 13(c), 1 alter, establish, or affect the respective rights of the United States, the States, Indian tribes, or any person with respect to any water or water-related right;
   - **(5)** alter, amend, repeal, interpret, modify, or be in conflict with any interstate compact made by the States before November 17, 1986 ;
   - **(6)** affect or modify the ability of the Bonneville Power Administration to operate, maintain, and modify existing transmission facilities;
   - **(7)** affect lands held in trust by the Secretary of the Interior for Indian tribes or individual members of Indian tribes or other lands acquired by the Army Corps of Engineers and administered by the Secretary of the Interior for the benefit of Indian tribes and individual members of Indian tribes;

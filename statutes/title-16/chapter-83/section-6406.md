@@ -3,15 +3,15 @@ title: "Section 6406 - National program"
 usc_title: 16
 usc_section: "6406"
 chapter: 83
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 6406"
-generated_at: "2026-03-29T18:05:07.094Z"
+generated_at: "2026-03-29T18:24:22.931Z"
 ---
 
 # § 6406. National program
 
 - **(a)** Subject to the availability of appropriations, the Secretary may conduct activities to conserve coral reefs and coral reef ecosystems, that are consistent with this chapter, the National Marine Sanctuaries Act [ 16 U.S.C. 1431 et seq.], the Coastal Zone Management Act of 1972 [ 16 U.S.C. 1451 et seq.], the Magnuson-Stevens Fishery Conservation and Management Act [ 16 U.S.C. 1801 et seq.], the Endangered Species Act of 1973 [ 16 U.S.C. 1531 et seq.], and the Marine Mammal Protection Act of 1972 [ 16 U.S.C. 1361 et seq.].
-- **(b)** Activities authorized under subsection (a) of this section include—
+- **(b)** Activities authorized under subsection (a) include—
   - **(1)** mapping, monitoring, assessment, restoration, and scientific research that benefit the understanding, sustainable use, and long-term conservation of coral reefs and coral reef ecosystems;
   - **(2)** enhancing public awareness, education, understanding, and appreciation of coral reefs and coral reef ecosystems;
   - **(3)** providing assistance to States in removing abandoned fishing gear, marine debris, and abandoned vessels from coral reefs to conserve living marine resources; and

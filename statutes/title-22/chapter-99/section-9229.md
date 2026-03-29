@@ -3,9 +3,9 @@ title: "Section 9229 - Report on and imposition of sanctions to address persons 
 usc_title: 22
 usc_section: "9229"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 9229"
-generated_at: "2026-03-29T02:12:40.488Z"
+generated_at: "2026-03-29T18:24:54.426Z"
 ---
 
 # § 9229. Report on and imposition of sanctions to address persons responsible for knowingly engaging in significant activities undermining cybersecurity
@@ -18,6 +18,6 @@ generated_at: "2026-03-29T02:12:40.488Z"
     - **(C)** an assessment of the extent to which a foreign government has provided material support to the Government of North Korea or any person acting for or on behalf of that Government to conduct significant activities undermining cybersecurity; and
     - **(D)** a United States strategy to counter North Korea’s efforts to conduct significant activities undermining cybersecurity against the United States, that includes efforts to engage foreign governments to halt the capability of the Government of North Korea and persons acting for or on behalf of that Government to conduct significant activities undermining cybersecurity.
   - **(3)**
-    - **(A)** The report required under paragraph (1) shall be submitted not later than 90 days after October 25, 2018 , and every 180 days thereafter for 5 years.
+    - **(A)** The report required under paragraph (1) shall be submitted not later than 90 days after February 18, 2016 , and every 180 days thereafter.
     - **(B)** The report required under paragraph (1) shall be submitted in an unclassified form, but may include a classified annex.
 - **(b)** The President shall designate under section 9214(a) of this title any person identified in the report required under subsection (a)(1) that knowingly engages in significant activities undermining cybersecurity through the use of computer networks or systems against foreign persons, governments, or other entities on behalf of the Government of North Korea.

@@ -3,9 +3,9 @@ title: "Section 5102 - Definitions; application"
 usc_title: 5
 usc_section: "5102"
 chapter: 51
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 5102"
-generated_at: "2026-03-29T18:03:29.865Z"
+generated_at: "2026-03-29T18:23:29.888Z"
 ---
 
 # § 5102. Definitions; application
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T18:03:29.865Z"
     - **(A)** an Executive agency;
     - **(B)** the Library of Congress;
     - **(C)** the Botanic Garden;
-    - **(D)** the Government Printing Office;
+    - **(D)** the Government Publishing Office;
     - **(E)** the Office of the Architect of the Capitol; and
     - **(F)** the government of the District of Columbia;
       - **(i)** a Government controlled corporation;
@@ -24,9 +24,10 @@ generated_at: "2026-03-29T18:03:29.865Z"
       - **(iv)** the Atomic Energy Commission;
       - **(v)** the Central Intelligence Agency;
       - **(vi)** the National Security Agency, Department of Defense;
-      - **(vii)** the Government Accountability Office; or 1 1 So in original. The word “or” probably should not appear.
-      - **(ix)** 2 2 So in original. Subsec. (a)(1) does not contain a cl. (viii). the Defense Intelligence Agency, Department of Defense; or
-      - **(x)** the National Geospatial-Intelligence Agency, Department of Defense. 3 3 So in original. The period probably should be a semicolon.
+      - **(vii)** the Government Accountability Office;
+      - **(viii)** the Office of the Director of National Intelligence;
+      - **(ix)** the Defense Intelligence Agency, Department of Defense; or
+      - **(x)** the National Geospatial-Intelligence Agency, Department of Defense;
   - **(2)** “employee” means an individual employed in or under an agency;
   - **(3)** “position” means the work, consisting of the duties and responsibilities, assignable to an employee;
   - **(4)** “class” or “class of positions” includes all positions which are sufficiently similar, as to—
@@ -38,7 +39,7 @@ generated_at: "2026-03-29T18:03:29.865Z"
     - **(B)** level of qualification requirements of the work;
 - **(b)** Except as provided by subsections (c) and (d) of this section, this chapter applies to all civilian positions and employees in or under an agency, including positions in local boards and appeal boards within the Selective Service System and employees occupying those positions.
 - **(c)** This chapter does not apply to—
-  - **[ (1)** Repealed. Pub. L. 91–375, § 6(c)(9) , Aug. 12, 1970 , 84 Stat. 776 ;]
+  - **[ (1)** Repealed. Pub. L. 91–375 , § 6(c)(9), Aug. 12, 1970 , 84 Stat. 776 ;]
   - **(2)** members of the Foreign Service whose pay is fixed under the Foreign Service Act of 1980; and positions in or under the Department of State which are—
     - **(A)** connected with the representation of the United States to international organizations; or
     - **(B)** specifically exempted by statute from this chapter or other classification or pay statute;
@@ -48,10 +49,10 @@ generated_at: "2026-03-29T18:03:29.865Z"
   - **(6)** lighthouse keepers and civilian employees on lightships and vessels of the Coast Guard whose pay is fixed under section 432(f) and (g) of title 14;
   - **(7)** employees in recognized trades or crafts, or other skilled mechanical crafts, or in unskilled, semiskilled, or skilled manual-labor occupations, and other employees including foremen and supervisors in positions having trade, craft, or laboring experience and knowledge as the paramount requirement, and employees in the Bureau of Engraving and Printing whose duties are to perform or to direct manual or machine operations requiring special skill or experience, or to perform or direct the counting, examining, sorting, or other verification of the product of manual or machine operations;
   - **(8)** officers and members of crews of vessels;
-  - **(9)** employees of the Government Printing Office whose pay is fixed under section 305 of title 44 ;
+  - **(9)** employees of the Government Publishing Office whose pay is fixed under section 305 of title 44 ;
   - **(10)** civilian professors, instructors, and lecturers at a professional military education school (and, in the case of the George C. Marshall European Center for Security Studies, the Director and the Deputy Director) whose pay is fixed under section 1595, 4021, 7478, or 9021 of title 10; civilian professors, lecturers, and instructors at the Military Academy, the Naval Academy, and the Air Force Academy whose pay is fixed under sections 4338, 6952, and 9338, respectively, of title 10; senior professors, professors, associate and assistant professors, and instructors at the Naval Postgraduate School whose pay is fixed under section 7044 of title 10 ; the Provost and Academic Dean of the Naval Postgraduate School whose pay is fixed under section 7043 of title 10 ; civilian professors, instructors, and lecturers in the defense acquisition university structure (including the Defense Systems Management College) whose pay is fixed under section 1746(b) of title 10 ;
   - **(11)** aliens or noncitizens of the United States who occupy positions outside the United States;
-  - **[(12)** Repealed. Pub. L. 104–201, div. C, title XXXV, § 3548(a)(2)(B) , Sept. 23, 1996 , 110 Stat. 3868 ;]
+  - **[(12)** Repealed. Pub. L. 104–201, div. C, title XXXV , § 3548(a)(2)(B), Sept. 23, 1996 , 110 Stat. 3868 ;]
   - **(13)** employees who serve without pay or at nominal rates of pay;
   - **(14)** employees whose pay is not wholly from appropriated funds of the United States (other than employees of the Federal Retirement Thrift Investment Management System appointed under section 8474(c)(2) of this title ), except that with respect to the Veterans’ Canteen Service, Department of Veterans Affairs this paragraph applies only to employees necessary for the transaction of the business of the Service at canteens, warehouses, and storage depots whose employment is authorized by section 7802 of title 38 ;
   - **(15)** employees whose pay is fixed under a cooperative agreement between the United States and—

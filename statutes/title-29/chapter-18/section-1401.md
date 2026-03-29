@@ -3,9 +3,9 @@ title: "Section 1401 - Resolution of disputes"
 usc_title: 29
 usc_section: "1401"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 1401"
-generated_at: "2026-03-29T18:05:31.793Z"
+generated_at: "2026-03-29T18:25:43.118Z"
 ---
 
 # § 1401. Resolution of disputes
@@ -21,10 +21,10 @@ generated_at: "2026-03-29T18:05:31.793Z"
       - **(i)** the actuarial assumptions and methods used in the determination were, in the aggregate, unreasonable (taking into account the experience of the plan and reasonable expectations), or
       - **(ii)** the plan’s actuary made a significant error in applying the actuarial assumptions or methods.
 - **(b)**
-  - **(1)** If no arbitration proceeding has been initiated pursuant to subsection (a) of this section, the amounts demanded by the plan sponsor under section 1399(b)(1) of this title shall be due and owing on the schedule set forth by the plan sponsor. The plan sponsor may bring an action in a State or Federal court of competent jurisdiction for collection.
+  - **(1)** If no arbitration proceeding has been initiated pursuant to subsection (a), the amounts demanded by the plan sponsor under section 1399(b)(1) of this title shall be due and owing on the schedule set forth by the plan sponsor. The plan sponsor may bring an action in a State or Federal court of competent jurisdiction for collection.
   - **(2)** Upon completion of the arbitration proceedings in favor of one of the parties, any party thereto may bring an action, no later than 30 days after the issuance of an arbitrator’s award, in an appropriate United States district court in accordance with section 1451 of this title to enforce, vacate, or modify the arbitrator’s award.
   - **(3)** Any arbitration proceedings under this section shall, to the extent consistent with this subchapter, be conducted in the same manner, subject to the same limitations, carried out with the same powers (including subpena power), and enforced in United States courts as an arbitration proceeding carried out under title 9.
-- **(c)** In any proceeding under subsection (b) of this section, there shall be a presumption, rebuttable only by a clear preponderance of the evidence, that the findings of fact made by the arbitrator were correct.
+- **(c)** In any proceeding under subsection (b), there shall be a presumption, rebuttable only by a clear preponderance of the evidence, that the findings of fact made by the arbitrator were correct.
 - **(d)** Payments shall be made by an employer in accordance with the determinations made under this part until the arbitrator issues a final decision with respect to the determination submitted for arbitration, with any necessary adjustments in subsequent payments for overpayments or underpayments arising out of the decision of the arbitrator with respect to the determination. If the employer fails to make timely payment in accordance with such final decision, the employer shall be treated as being delinquent in the making of a contribution required under the plan (within the meaning of section 1145 of this title ).
 - **(e)**
   - **(1)** If—
@@ -34,10 +34,10 @@ generated_at: "2026-03-29T18:05:31.793Z"
     - **(B)** such determination is based in whole or in part on a finding by the plan sponsor under section 1392(c) of this title that a principal purpose of a transaction that occurred before January 1, 1999 , was to evade or avoid withdrawal liability under this subtitle, and
     - **(C)** such transaction occurred at least 5 years before the date of the complete or partial withdrawal,
   - **(2)**
-    - **(A)** Notwithstanding subsection (a)(3) of this section—
+    - **(A)** Notwithstanding subsection (a)(3)—
       - **(i)** a determination by the plan sponsor under paragraph (1)(B) shall not be presumed to be correct, and
       - **(ii)** the plan sponsor shall have the burden to establish, by a preponderance of the evidence, the elements of the claim under section 1392(c) of this title that a principal purpose of the transaction was to evade or avoid withdrawal liability under this subtitle.
-    - **(B)** Notwithstanding subsection (d) of this section and section 1399(c) of this title , if an employer contests the plan sponsor’s determination under paragraph (1) through an arbitration proceeding pursuant to subsection (a) of this section, or through a claim brought in a court of competent jurisdiction, the employer shall not be obligated to make any withdrawal liability payments until a final decision in the arbitration proceeding, or in court, upholds the plan sponsor’s determination.
+    - **(B)** Notwithstanding subsection (d) and section 1399(c) of this title , if an employer contests the plan sponsor’s determination under paragraph (1) through an arbitration proceeding pursuant to subsection (a), or through a claim brought in a court of competent jurisdiction, the employer shall not be obligated to make any withdrawal liability payments until a final decision in the arbitration proceeding, or in court, upholds the plan sponsor’s determination.
 - **(f)**
   - **(1)** If—
     - **(A)** a plan sponsor of a plan determines that—

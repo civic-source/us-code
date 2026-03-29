@@ -3,9 +3,9 @@ title: "Section 9703 - Managerial accountability and flexibility"
 usc_title: 31
 usc_section: "9703"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "31 U.S.C. § 9703"
-generated_at: "2026-03-29T02:14:14.123Z"
+generated_at: "2026-03-29T18:25:59.219Z"
 ---
 
 # § 9703. Managerial accountability and flexibility

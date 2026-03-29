@@ -3,9 +3,9 @@ title: "Section 1306 - Premium rates"
 usc_title: 29
 usc_section: "1306"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 1306"
-generated_at: "2026-03-29T18:05:31.778Z"
+generated_at: "2026-03-29T18:25:43.105Z"
 ---
 
 # § 1306. Premium rates
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T18:05:31.778Z"
       - **(i)** in the case of a single-employer plan, an amount for each individual who is a participant in such plan during the plan year equal to the sum of the additional premium (if any) determined under subparagraph (E) and—
         - **(I)** for plan years beginning after December 31, 2005 , and before January 1, 2013 , $30;
         - **(II)** for plan years beginning after December 31, 2012 , and before January 1, 2014 , $42;
-        - **(III)** for plan years beginning after December 31, 2013 and before January 1, 2015 ,, 1 1 So in original. The second comma probably should follow “2013”. $49. 2 2 So in original. The period probably should be a semicolon.
+        - **(III)** for plan years beginning after December 31, 2013 and before January 1, 2015 ,, 1 1 So in original. $49. 2 2 So in original. The period probably should be a semicolon.
         - **(IV)** for plan years beginning after December 31, 2014 , and before January 1, 2016 , $57; and
         - **(V)** for plan years beginning after December 31, 2015 , and before January 1, 2017 , $64.
       - **(ii)** in the case of a multiemployer plan, for the plan year within which the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980 falls, an amount for each individual who is a participant in such plan for such plan year equal to the sum of—
@@ -34,8 +34,9 @@ generated_at: "2026-03-29T18:05:31.778Z"
         - **(II)** $1.80 for each participant, for the fifth and sixth plan years,
         - **(III)** $2.20 for each participant, for the seventh and eighth plan years, and
         - **(IV)** $2.60 for each participant, for the ninth plan year, and for each succeeding plan year,
-      - **(iv)** in the case of a multiemployer plan, for plan years beginning after December 31, 2005 , and before January 1, 2013 , $8.00 for each individual who is a participant in such plan during the applicable plan year, or
-      - **(v)** in the case of a multiemployer plan, for plan years beginning after December 31, 2012 , $12.00 for each individual who is a participant in such plan during the applicable plan year.
+      - **(iv)** in the case of a multiemployer plan, for plan years beginning after December 31, 2005 , and before January 1, 2013 , $8.00 for each individual who is a participant in such plan during the applicable plan year,
+      - **(v)** in the case of a multiemployer plan, for plan years beginning after December 31, 2012 , and before January 1, 2015 , $12.00 for each individual who is a participant in such plan during the applicable plan year, or
+      - **(vi)** in the case of a multiemployer plan, for plan years beginning after December 31, 2014 , $26 for each individual who is a participant in such plan during the applicable plan year.
     - **(B)** The corporation may prescribe by regulation the extent to which the rate described in subparagraph (A)(i) applies more than once for any plan year to an individual participating in more than one plan maintained by the same employer, and the corporation may prescribe regulations under which the rate described in clause (iii) or (iv) of subparagraph (A) will not apply to the same participant in any multiemployer plan more than once for any plan year.
     - **(C)**
       - **(i)** If the sum of—
@@ -90,6 +91,11 @@ generated_at: "2026-03-29T18:05:31.778Z"
         - **(I)** the national average wage index (as defined in section 409(k)(1) of title 42 ) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
         - **(II)** the national average wage index (as so defined) for 2014; and
       - **(ii)** such dollar amount for plan years beginning in the preceding calendar year.
+    - **(M)** For each plan year beginning in a calendar year after 2015, there shall be substituted for the dollar amount specified in clause (vi) of subparagraph (A) an amount equal to the greater of—
+      - **(i)** the product derived by multiplying such dollar amount by the ratio of—
+        - **(I)** the national average wage index (as defined in section 409(k)(1) of title 42 ) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
+        - **(II)** the national average wage index (as so defined) for 2013; and
+      - **(ii)** such dollar amount for plan years beginning in the preceding calendar year.
   - **(4)** The corporation may prescribe, subject to the enactment of a joint resolution in accordance with this section or section 1322a(f) of this title , alternative schedules of premium rates, and bases for the application of those rates, for basic benefits guaranteed by it under sections 1322 and 1322a of this title based, in whole or in part, on the risks insured by the corporation in each plan.
   - **(5)**
     - **(A)** In carrying out its authority under paragraph (1) to establish schedules of premium rates, and bases for the application of those rates, for nonbasic benefits guaranteed under sections 1322 and 1322a of this title the premium rates charged by the corporation for any period for nonbasic benefits guaranteed shall—
@@ -141,7 +147,7 @@ generated_at: "2026-03-29T18:05:31.778Z"
       - **(iii)** 2013, in the case of plan years beginning after calendar year 2015; and
       - **(iv)** 2014, in the case of plan years beginning after calendar year 2016.
 - **(b)**
-  - **(1)** In order to place a revised schedule (other than a schedule described in subsection (a)(2)(C), (D), or (E) of this section) in effect, the corporation shall transmit the proposed schedule, its proposed effective date, and the reasons for its proposal to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives, and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate.
+  - **(1)** In order to place a revised schedule (other than a schedule described in subsection (a)(2)(C), (D), or (E)) in effect, the corporation shall transmit the proposed schedule, its proposed effective date, and the reasons for its proposal to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives, and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate.
   - **(2)** The succeeding paragraphs of this subsection are enacted by Congress as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such they shall be deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions described in paragraph (3). They shall supersede other rules only to the extent that they are inconsistent therewith. They are enacted with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any rule of that House.
   - **(3)** For the purpose of the succeeding paragraphs of this subsection, “resolution” means only a joint resolution, the matter after the resolving clause of which is as follows: “The proposed revised schedule transmitted to Congress by the Pension Benefit Guaranty Corporation on __ is hereby approved.”, the blank space therein being filled with the date on which the corporation’s message proposing the rate was delivered.
   - **(4)** A resolution shall be referred to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate.
@@ -149,7 +155,7 @@ generated_at: "2026-03-29T18:05:31.778Z"
   - **(6)** When a committee has reported, or has been discharged from further consideration of a resolution, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to. Debate on the resolution shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate is not debatable. An amendment to, or motion to recommit, the resolution is not in order, and it is not in order to move to reconsider the vote by which the resolution is agreed to or disagreed to.
   - **(7)** Motions to postpone, made with respect to the discharge from committee, or the consideration of, a resolution and motions to proceed to the consideration of other business shall be decided without debate. Appeals from the decisions of the Chair relating to the application of the rules of the Senate or the House of Representatives, as the case may be, to the procedure relating to a resolution shall be decided without debate.
 - **(c)**
-  - **(1)** Except as provided in subsection (a)(3) of this section, and subject to paragraph (2), the rate for all plans for basic benefits guaranteed under this subchapter with respect to plan years ending after September 2, 1974 , is—
+  - **(1)** Except as provided in subsection (a)(3), and subject to paragraph (2), the rate for all plans for basic benefits guaranteed under this subchapter with respect to plan years ending after September 2, 1974 , is—
     - **(A)** in the case of each plan which was not a multiemployer plan in a plan year—
       - **(i)** with respect to each plan year beginning before January 1, 1978 , an amount equal to $1 for each individual who was a participant in such plan during the plan year,
       - **(ii)** with respect to each plan year beginning after December 31, 1977 , and before January 1, 1986 , an amount equal to $2.60 for each individual who was a participant in such plan during the plan year, and 4 4 So in original. The word “and” probably should not appear.

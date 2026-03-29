@@ -3,9 +3,9 @@ title: "Section 1400H - Renewal community employment credit"
 usc_title: 26
 usc_section: "1400H"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 1400H"
-generated_at: "2026-03-29T18:05:44.816Z"
+generated_at: "2026-03-29T18:25:53.752Z"
 ---
 
 # § 1400H. Renewal community employment credit

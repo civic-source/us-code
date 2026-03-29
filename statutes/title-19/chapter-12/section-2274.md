@@ -3,9 +3,9 @@ title: "Section 2274 - Study and notifications regarding certain affirmative det
 usc_title: 19
 usc_section: "2274"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 2274"
-generated_at: "2026-03-29T18:04:55.081Z"
+generated_at: "2026-03-29T18:24:16.151Z"
 ---
 
 # § 2274. Study and notifications regarding certain affirmative determinations; industry notification of assistance
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T18:04:55.081Z"
 - **(a)** Whenever the International Trade Commission (hereafter referred to in this part as the “Commission”) begins an investigation under section 2252 of this title with respect to an industry, the Commission shall immediately notify the Secretary of such investigation, and the Secretary shall immediately begin a study of—
   - **(1)** the number of workers in the domestic industry producing the like or directly competitive article who have been or are likely to be certified as eligible for adjustment assistance, and
   - **(2)** the extent to which the adjustment of such workers to the import competition may be facilitated through the use of existing programs.
-- **(b)** The report of the Secretary of the study under subsection (a) of this section shall be made to the President not later than 15 days after the day on which the Commission makes its report under section 2252(f) of this title . Upon making his report to the President, the Secretary shall also promptly make it public (with the exception of information which the Secretary determines to be confidential) and shall have a summary of it published in the Federal Register and on the website of the Department of Labor.
+- **(b)** The report of the Secretary of the study under subsection (a) shall be made to the President not later than 15 days after the day on which the Commission makes its report under section 2252(f) of this title . Upon making his report to the President, the Secretary shall also promptly make it public (with the exception of information which the Secretary determines to be confidential) and shall have a summary of it published in the Federal Register and on the website of the Department of Labor.
 - **(c)** Upon making an affirmative determination under section 2252(b)(1) of this title , the Commission shall promptly notify the Secretary of Labor and the Secretary of Commerce and, in the case of a determination with respect to an agricultural commodity, the Secretary of Agriculture, of the determination.
 - **(d)**
   - **(1)** Upon making an affirmative determination under section 2451(b)(1) of this title , the Commission shall promptly notify the Secretary of Labor and the Secretary of Commerce and, in the case of a determination with respect to an agricultural commodity, the Secretary of Agriculture, of the determination.

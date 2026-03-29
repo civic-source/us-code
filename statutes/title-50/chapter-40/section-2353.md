@@ -3,9 +3,9 @@ title: "Section 2353 - Comprehensive preparedness program"
 usc_title: 50
 usc_section: "2353"
 chapter: 40
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 2353"
-generated_at: "2026-03-29T18:07:43.068Z"
+generated_at: "2026-03-29T18:27:35.635Z"
 ---
 
 # § 2353. Comprehensive preparedness program
@@ -25,8 +25,8 @@ generated_at: "2026-03-29T18:07:43.068Z"
     - **(B)** an assessment of the options for United States cooperation with Russia in the disposition of Russian plutonium.
   - **(10)** Plans for studying the merits and costs of establishing a global network of means for detecting and responding to terroristic or other criminal use of biological agents against people or other forms of life in the United States or any foreign country.
 - **(c)**
-  - **(1)** At the same time that the President submits the budget for fiscal year 1998 to Congress pursuant to section 1105(a) of title 31 , the President shall submit to Congress a report that sets forth the comprehensive program developed under subsection (a) of this section.
+  - **(1)** At the same time that the President submits the budget for fiscal year 1998 to Congress pursuant to section 1105(a) of title 31 , the President shall submit to Congress a report that sets forth the comprehensive program developed under subsection (a).
   - **(2)** The report shall include the following:
-    - **(A)** The specific plans for the program that are required under subsection (b) of this section.
+    - **(A)** The specific plans for the program that are required under subsection (b).
     - **(B)** Estimates of the funds necessary, by agency or department, for carrying out such plans in fiscal year 1998 and the following five fiscal years.
   - **(3)** The report shall be in an unclassified form. If there is a classified version of the report, the President shall submit the classified version at the same time.

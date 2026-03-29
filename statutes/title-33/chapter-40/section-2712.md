@@ -3,9 +3,9 @@ title: "Section 2712 - Uses of Fund"
 usc_title: 33
 usc_section: "2712"
 chapter: 40
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 2712"
-generated_at: "2026-03-29T18:06:10.609Z"
+generated_at: "2026-03-29T18:26:01.311Z"
 ---
 
 # § 2712. Uses of Fund
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T18:06:10.609Z"
 - **(a)** The Fund shall be available to the President for—
   - **(1)** the payment of removal costs, including the costs of monitoring removal actions, determined by the President to be consistent with the National Contingency Plan—
     - **(A)** by Federal authorities; or
-    - **(B)** by a Governor or designated State official under subsection (d) of this section;
+    - **(B)** by a Governor or designated State official under subsection (d);
   - **(2)** the payment of costs incurred by Federal, State, or Indian tribe trustees in carrying out their functions under section 2706 of this title for assessing natural resource damages and for developing and implementing plans for the restoration, rehabilitation, replacement, or acquisition of the equivalent of damaged resources determined by the President to be consistent with the National Contingency Plan;
   - **(3)** the payment of removal costs determined by the President to be consistent with the National Contingency Plan as a result of, and damages resulting from, a discharge, or a substantial threat of a discharge, of oil from a foreign offshore unit;
   - **(4)** the payment of claims in accordance with section 2713 of this title for uncompensated removal costs determined by the President to be consistent with the National Contingency Plan or uncompensated damages;
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T18:06:10.609Z"
     - **(D)** not more than $27,250,000 in each fiscal year shall be available to carry out subchapter IV of this chapter; and
   - **(6)** the making of loans pursuant to the program established under section 2713(f) of this title .
 - **(b)** The Fund shall not be available to pay any claim for removal costs or damages to a particular claimant, to the extent that the incident, removal costs, or damages are caused by the gross negligence or willful misconduct of that claimant.
-- **(c)** The President may promulgate regulations designating one or more Federal officials who may obligate money in accordance with subsection (a) of this section.
+- **(c)** The President may promulgate regulations designating one or more Federal officials who may obligate money in accordance with subsection (a).
 - **(d)**
   - **(1)** In accordance with regulations promulgated under this section, the President, upon the request of the Governor of a State or pursuant to an agreement with a State under paragraph (2), may obligate the Fund for payment in an amount not to exceed $250,000 for removal costs consistent with the National Contingency Plan required for the immediate removal of a discharge, or the mitigation or prevention of a substantial threat of a discharge, of oil.
   - **(2)**
@@ -54,7 +54,7 @@ generated_at: "2026-03-29T18:06:10.609Z"
   - **(3)** The time limitations contained in this subsection shall not begin to run—
     - **(A)** against a minor until the earlier of the date when such minor reaches 18 years of age or the date on which a legal representative is duly appointed for the minor, or
     - **(B)** against an incompetent person until the earlier of the date on which such incompetent’s incompetency ends or the date on which a legal representative is duly appointed for the incompetent.
-- **(i)** In any case in which the President has paid an amount from the Fund for any removal costs or damages specified under subsection (a) of this section, no other claim may be paid from the Fund for the same removal costs or damages.
+- **(i)** In any case in which the President has paid an amount from the Fund for any removal costs or damages specified under subsection (a), no other claim may be paid from the Fund for the same removal costs or damages.
 - **(j)**
   - **(1)** Except as provided in paragraph (2), amounts may be obligated from the Fund for the restoration, rehabilitation, replacement, or acquisition of natural resources only in accordance with a plan adopted under section 2706(c) of this title .
   - **(2)** Paragraph (1) shall not apply in a situation requiring action to avoid irreversible loss of natural resources or to prevent or reduce any continuing danger to natural resources or similar need for emergency action.

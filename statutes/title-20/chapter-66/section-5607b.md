@@ -3,9 +3,9 @@ title: "Section 5607b - Use of Institute by Federal agency or other entity"
 usc_title: 20
 usc_section: "5607b"
 chapter: 66
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 5607b"
-generated_at: "2026-03-29T18:05:00.282Z"
+generated_at: "2026-03-29T18:24:41.103Z"
 ---
 
 # § 5607b. Use of Institute by Federal agency or other entity
@@ -15,14 +15,14 @@ generated_at: "2026-03-29T18:05:00.282Z"
   - **(1)** A Federal agency may enter into a contract and expend funds to obtain the services of the Institute.
   - **(2)** A payment from an executive agency on a contract entered into under paragraph (1) shall be paid into the Environmental Dispute Resolution Fund established under section 5607a of this title .
 - **(c)**
-  - **(1)** An agency or instrumentality of the Federal Government shall notify the chairperson of the President’s Council on Environmental Quality when using the Foundation or the Institute to provide the services described in subsection (a) of this section.
+  - **(1)** An agency or instrumentality of the Federal Government shall notify the chairperson of the President’s Council on Environmental Quality when using the Foundation or the Institute to provide the services described in subsection (a).
   - **(2)** In a matter involving two or more agencies or instrumentalities of the Federal Government, notification under paragraph (1) shall include a written description of—
     - **(A)** the issues and parties involved;
     - **(B)** prior efforts, if any, undertaken by the agency to resolve or address the issue or issues;
     - **(C)** all Federal agencies or instrumentalities with a direct interest or involvement in the matter and a statement that all Federal agencies or instrumentalities agree to dispute resolution; and
     - **(D)** other relevant information.
   - **(3)**
-    - **(A)** In a matter that involves two or more agencies or instrumentalities of the Federal Government (including branches or divisions of a single agency or instrumentality), the agencies or instrumentalities of the Federal Government shall obtain the concurrence of the chairperson of the President’s Council on Environmental Quality before using the Foundation or Institute to provide the services described in subsection (a) of this section.
+    - **(A)** In a matter that involves two or more agencies or instrumentalities of the Federal Government (including branches or divisions of a single agency or instrumentality), the agencies or instrumentalities of the Federal Government shall obtain the concurrence of the chairperson of the President’s Council on Environmental Quality before using the Foundation or Institute to provide the services described in subsection (a).
     - **(B)** The chairperson of the President’s Council on Environmental Quality shall indicate concurrence or nonconcurrence under subparagraph (A) not later than 20 days after receiving notice under paragraph (2).
 - **(d)**
   - **(1)**

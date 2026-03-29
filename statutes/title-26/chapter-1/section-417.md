@@ -3,9 +3,9 @@ title: "Section 417 - Definitions and special rules for purposes of minimum surv
 usc_title: 26
 usc_section: "417"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 417"
-generated_at: "2026-03-29T18:05:44.612Z"
+generated_at: "2026-03-29T18:25:53.563Z"
 ---
 
 # § 417. Definitions and special rules for purposes of minimum survivor annuity requirements
@@ -79,10 +79,7 @@ generated_at: "2026-03-29T18:05:44.612Z"
     - **(A)** For purposes of paragraphs (1) and (2), the present value shall not be less than the present value calculated by using the applicable mortality table and the applicable interest rate.
     - **(B)** For purposes of subparagraph (A), the term “applicable mortality table” means a mortality table, modified as appropriate by the Secretary, based on the mortality table specified for the plan year under subparagraph (A) of section 430(h)(3) (without regard to subparagraph (C) or (D) of such section).
     - **(C)** For purposes of subparagraph (A), the term “applicable interest rate” means the adjusted first, second, and third segment rates applied under rules similar to the rules of section 430(h)(2)(C) (determined by not taking into account any adjustment under clause (iv) thereof) for the month before the date of the distribution or such other time as the Secretary may by regulations prescribe.
-    - **(D)** For purposes of subparagraph (C), the adjusted first, second, and third segment rates are the first, second, and third segment rates which would be determined under section 430(h)(2)(C) (determined by not taking into account any adjustment under clause (iv) thereof) if—
-      - **(i)** section 430(h)(2)(D) were applied by substituting the average yields for the month described in subparagraph (C) for the average yields for the 24-month period described in such section,
-      - **(ii)** section 430(h)(2)(G)(i)(II) were applied by substituting “section 417(e)(3)(A)(ii)(II)” for “section 412(b)(5)(B)(ii)(II)”, and
-      - **(iii)** the applicable percentage under section 430(h)(2)(G) were determined in accordance with the following table: In the case of plan years beginning in: The applicable percentage is: 2008 20 percent 2009 40 percent 2010 60 percent 2011 80 percent.
+    - **(D)** For purposes of subparagraph (C), the adjusted first, second, and third segment rates are the first, second, and third segment rates which would be determined under section 430(h)(2)(C) (determined by not taking into account any adjustment under clause (iv) thereof) if section 430(h)(2)(D) were applied by substituting the average yields for the month described in subparagraph (C) for the average yields for the 24-month period described in such section.
 - **(f)** For purposes of this section and section 401(a)(11)—
   - **(1)** The term “vested participant” means any participant who has a nonforfeitable right (within the meaning of section 411(a)) to any portion of such participant’s accrued benefit.
   - **(2)**

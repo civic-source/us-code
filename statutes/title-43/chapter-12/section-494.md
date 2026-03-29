@@ -3,9 +3,9 @@ title: "Section 494 - Pecuniary penalty for nonpayment of operation charge"
 usc_title: 43
 usc_section: "494"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 494"
-generated_at: "2026-03-29T18:06:28.286Z"
+generated_at: "2026-03-29T18:26:14.810Z"
 ---
 
 # § 494. Pecuniary penalty for nonpayment of operation charge

@@ -3,9 +3,9 @@ title: "Section 5121 - Administrative"
 usc_title: 49
 usc_section: "5121"
 chapter: 51
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 5121"
-generated_at: "2026-03-29T18:07:51.340Z"
+generated_at: "2026-03-29T18:27:16.441Z"
 ---
 
 # § 5121. Administrative
@@ -62,7 +62,7 @@ generated_at: "2026-03-29T18:07:51.340Z"
   - **(2)** to enhance emergency communications capacity as determined necessary by the Secretary, including the use of integrated, interoperable emergency communications technologies where appropriate;
   - **(3)** to conduct research, development, demonstration, risk assessment, and emergency response planning and training activities; or
   - **(4)** to otherwise carry out this chapter.
-- **(h)** The Secretary shall, once every 2 years, prepare and transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a comprehensive report on the transportation of hazardous materials during the preceding 2 calendar years. The report shall include—
+- **(h)** The Secretary shall, once every 2 years, prepare and make available to the public on the Department of Transportation’s Internet Web site a comprehensive report on the transportation of hazardous materials during the preceding 2 calendar years. The report shall include—
   - **(1)** a statistical compilation of accidents and casualties related to the transportation of hazardous material;
   - **(2)** a list and summary of applicable Government regulations, criteria, orders, and special permits;
   - **(3)** a summary of the basis for each special permit;

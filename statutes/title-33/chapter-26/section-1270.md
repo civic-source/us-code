@@ -3,9 +3,9 @@ title: "Section 1270 - Lake Champlain Basin Program"
 usc_title: 33
 usc_section: "1270"
 chapter: 26
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 1270"
-generated_at: "2026-03-29T18:06:10.535Z"
+generated_at: "2026-03-29T18:26:01.228Z"
 ---
 
 # § 1270. Lake Champlain Basin Program
@@ -47,7 +47,7 @@ generated_at: "2026-03-29T18:06:10.535Z"
 - **(g)** In this section:
   - **(1)** The term “Lake Champlain Basin Program” means the coordinated efforts among the Federal Government, State governments, and local governments to implement the Plan.
   - **(2)** The term “Lake Champlain drainage basin” means all or part of Clinton, Franklin, Hamilton, Warren, Essex, and Washington counties in the State of New York and all or part of Franklin, Grand Isle, Chittenden, Addison, Rutland, Bennington, Lamoille, Orange, Washington, Orleans, and Caledonia counties in Vermont, that contain all of the streams, rivers, lakes, and other bodies of water, including wetlands, that drain into Lake Champlain.
-  - **(3)** The term “Plan” means the plan developed under subsection (e) of this section.
+  - **(3)** The term “Plan” means the plan developed under subsection (e).
 - **(h)** Nothing in this section—
   - **(1)** affects the jurisdiction or powers of—
     - **(A)** any department or agency of the Federal Government or any State government; or

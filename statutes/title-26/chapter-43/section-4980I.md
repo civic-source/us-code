@@ -3,9 +3,9 @@ title: "Section 4980I - Excise tax on high cost employer-sponsored health covera
 usc_title: 26
 usc_section: "4980I"
 chapter: 43
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 4980I"
-generated_at: "2026-03-29T18:05:44.921Z"
+generated_at: "2026-03-29T18:25:53.853Z"
 ---
 
 # § 4980I. Excise tax on high cost employer-sponsored health coverage
@@ -36,8 +36,8 @@ generated_at: "2026-03-29T18:05:44.921Z"
       - **(iv)** In the case of an individual who is a qualified retiree or who participates in a plan sponsored by an employer the majority of whose employees covered by the plan are engaged in a high-risk profession or employed to repair or install electrical or telecommunications lines—
         - **(I)** the dollar amount in clause (i)(I) shall be increased by $1,650, and
         - **(II)** the dollar amount in clause (i)(II) shall be increased by $3,450, 1 1 So in original. The comma probably should be a period.
-      - **(v)** In the case of any calendar year after 2018, each of the dollar amounts under clauses (i) (after the application of clause (ii)) and (iv) shall be increased to the amount equal to such amount as in effect for the calendar year preceding such year, increased by an amount equal to the product of—
-        - **(I)** such amount as so in effect, multiplied by
+      - **(v)** In the case of any calendar year after 2018, each of the dollar amounts under clauses (i) (after the application of clause (ii)) and (iv) shall be increased to the amount equal to such amount as determined for for the calendar year preceding such year, increased by an amount equal to the product of—
+        - **(I)** such amount as so determined, multiplied by
         - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for such year (determined by substituting the calendar year that is 2 years before such year for “1992” in subparagraph (B) thereof), increased by 1 percentage point in the case of determinations for calendar years beginning before 2020.
 - **(c)**
   - **(1)** Each coverage provider shall pay the tax imposed by subsection (a) on its applicable share of the excess benefit with respect to an employee for any taxable period.
@@ -98,5 +98,5 @@ generated_at: "2026-03-29T18:05:44.921Z"
   - **(7)** The term “plan sponsor” has the meaning given such term in section 3(16)(B) of the Employee Retirement Income Security Act of 1974.
   - **(8)** The term “taxable period” means the calendar year or such shorter period as the Secretary may prescribe. The Secretary may have different taxable periods for employers of varying sizes.
   - **(9)** All employers treated as a single employer under subsection (b), (c), (m), or ( o ) of section 414 shall be treated as a single employer.
-  - **(10)** For denial of a deduction for the tax imposed by this section, see section 275(a)(6).
+  - **(10)** Section 275(a)(6) shall not apply to the tax imposed by subsection (a).
 - **(g)** The Secretary shall prescribe such regulations as may be necessary to carry out this section.

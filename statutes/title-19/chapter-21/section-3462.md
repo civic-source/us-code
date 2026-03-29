@@ -3,9 +3,9 @@ title: "Section 3462 - Review of operation and effects of Agreement"
 usc_title: 19
 usc_section: "3462"
 chapter: 21
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 3462"
-generated_at: "2026-03-29T18:04:55.143Z"
+generated_at: "2026-03-29T18:24:16.208Z"
 ---
 
 # § 3462. Review of operation and effects of Agreement
@@ -19,10 +19,10 @@ generated_at: "2026-03-29T18:04:55.143Z"
     - **(A)** improvement in real wages and working conditions in Mexico,
     - **(B)** effective enforcement of labor and environmental laws in Mexico, and
     - **(C)** the reduction or abatement of pollution in the region of the United States-Mexico border.
-- **(b)** In assessing the factors listed in subsection (a) of this section, to the extent possible, the study shall distinguish between the consequences of the Agreement and events that likely would have occurred without the Agreement. In addition, the study shall evaluate the effects of the Agreement relative to aggregate economic changes and, to the extent possible, relative to the effects of other factors, including—
+- **(b)** In assessing the factors listed in subsection (a), to the extent possible, the study shall distinguish between the consequences of the Agreement and events that likely would have occurred without the Agreement. In addition, the study shall evaluate the effects of the Agreement relative to aggregate economic changes and, to the extent possible, relative to the effects of other factors, including—
   - **(1)** international competition,
   - **(2)** reductions in defense spending,
   - **(3)** the shift from traditional manufacturing to knowledge and information based economic activity, and
   - **(4)** the Federal debt burden.
-- **(c)** The study shall include any appropriate recommendations by the President with respect to the operation and effects of the Agreement, including recommendations with respect to the specific factors listed in subsection (a) of this section.
+- **(c)** The study shall include any appropriate recommendations by the President with respect to the operation and effects of the Agreement, including recommendations with respect to the specific factors listed in subsection (a).
 - **(d)** The President shall provide the study to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate and any other committee that has jurisdiction over any provision of United States law that was either enacted or amended by the North American Free Trade Agreement Implementation Act. Each such committee may hold hearings and make recommendations to the President with respect to the operation and effects of the Agreement.

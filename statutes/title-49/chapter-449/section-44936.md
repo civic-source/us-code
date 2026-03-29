@@ -3,9 +3,9 @@ title: "Section 44936 - Employment investigations and restrictions"
 usc_title: 49
 usc_section: "44936"
 chapter: 449
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 44936"
-generated_at: "2026-03-29T18:07:51.521Z"
+generated_at: "2026-03-29T18:27:16.613Z"
 ---
 
 # § 44936. Employment investigations and restrictions
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T18:07:51.521Z"
       - **(iii)** individuals who regularly have escorted access to aircraft of an air carrier or foreign air carrier or a secured area of an airport in the United States the Administrator designates that serves an air carrier or foreign air carrier; and
       - **(iv)** such other individuals who exercise security functions associated with baggage or cargo, as the Under Secretary determines is necessary to ensure air transportation security.
     - **(C)**
-      - **(i)** A new background check (including a criminal history record check and a review of available law enforcement data bases and records of other governmental and international agencies to the extent determined practicable by the Under Secretary of Transportation for Transportation Security shall be required for any individual who is employed in a position described in subparagraphs (A) and (B) on the date of enactment of the Aviation and Transportation Security Act.
+      - **(i)** A new background check (including a criminal history record check and a review of available law enforcement data bases and records of other governmental and international agencies to the extent determined practicable by the Under Secretary of Transportation for Transportation Security 2 2 So in original. Probably should be followed by a closing parenthesis. shall be required for any individual who is employed in a position described in subparagraphs (A) and (B) on the date of enactment of the Aviation and Transportation Security Act.
       - **(ii)** The Under Secretary may provide by order (without regard to the provisions of chapter 5 of title 5, United States Code) for a phased-in implementation of the requirements of this subparagraph.
     - **(D)** An employment investigation, including a criminal history record check, shall not be required under this subsection for an individual who is exempted under section 107.31(m)(1) or (2) of title 14, Code of Federal Regulations, as in effect on November 22, 2000 . The Under Secretary shall work with the International Civil Aviation Organization and with appropriate authorities of foreign countries to ensure that individuals exempted under this subparagraph do not pose a threat to aviation or national security.
   - **(2)** An air carrier, foreign air carrier, airport operator, or government that employs, or authorizes or makes a contract for the services of, an individual in a position described in paragraph (1) of this subsection shall ensure that the investigation the Under Secretary requires is conducted.

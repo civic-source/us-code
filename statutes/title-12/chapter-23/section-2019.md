@@ -3,9 +3,9 @@ title: "Section 2019 - Purposes for extensions of credit"
 usc_title: 12
 usc_section: "2019"
 chapter: 23
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 2019"
-generated_at: "2026-03-29T18:04:43.624Z"
+generated_at: "2026-03-29T18:24:02.954Z"
 ---
 
 # § 2019. Purposes for extensions of credit
@@ -19,4 +19,4 @@ generated_at: "2026-03-29T18:04:43.624Z"
   - **(3)** For rural housing purposes under this section the term “rural areas” shall not be defined to include any city or village having a population in excess of 2,500 inhabitants.
 - **(c)**
   - **(1)** Loans to persons furnishing farm-related services to farmers and ranchers directly related to their on-farm operating needs may be made for the necessary capital structures and equipment and initial working capital for such services.
-  - **(2)** The banks may own and lease, or lease with option to purchase, to persons eligible for credit under this subchapter or subchapter II of this chapter, equipment or facilities needed in the operations of such persons.
+  - **(2)** The banks may own and lease, or lease with option to purchase, to persons eligible for credit under this subchapter or subchapter II, equipment or facilities needed in the operations of such persons.

@@ -3,15 +3,15 @@ title: "Section 12755 - Tenant and participant protections"
 usc_title: 42
 usc_section: "12755"
 chapter: 130
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 12755"
-generated_at: "2026-03-29T18:07:15.280Z"
+generated_at: "2026-03-29T18:27:04.091Z"
 ---
 
 # § 12755. Tenant and participant protections
 
 - **(a)** The lease between a tenant and an owner of affordable housing assisted under this subchapter for rental shall be for not less than one year, unless by mutual agreement between the tenant and the owner, and shall contain such terms and conditions as the Secretary shall determine to be appropriate.
-- **(b)** An owner shall not terminate the tenancy or refuse to renew the lease of a tenant of rental housing assisted under this subchapter except for serious or repeated violation of the terms and conditions of the lease, for violation of applicable Federal, State, or local law, or for other good cause. Any termination or refusal to renew must be preceded by not less than 30 days by the owner’s service upon the tenant of a written notice specifying the grounds for the action.
+- **(b)** An owner shall not terminate the tenancy or refuse to renew the lease of a tenant of rental housing assisted under this subchapter except for serious or repeated violation of the terms and conditions of the lease, for violation of applicable Federal, State, or local law, or for other good cause. Any termination or refusal to renew must be preceded by not less than 30 days by the owner’s service upon the tenant of a written notice specifying the grounds for the action. Such 30-day waiting period is not required if the grounds for the termination or refusal to renew involve a direct threat to the safety of the tenants or employees of the housing, or an imminent and serious threat to the property (and the termination or refusal to renew is in accordance with the requirements of State or local law).
 - **(c)** The owner of rental housing assisted under this subchapter shall maintain the premises in compliance with all applicable housing quality standards and local code requirements.
 - **(d)** The owner of rental housing assisted under this subchapter shall adopt written tenant selection policies and criteria that—
   - **(1)** are consistent with the purpose of providing housing for very low-income and low-income families,

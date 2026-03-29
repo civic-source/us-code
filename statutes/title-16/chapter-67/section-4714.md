@@ -3,9 +3,9 @@ title: "Section 4714 - Ballast water management demonstration program"
 usc_title: 16
 usc_section: "4714"
 chapter: 67
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 4714"
-generated_at: "2026-03-29T18:05:07.070Z"
+generated_at: "2026-03-29T18:24:22.913Z"
 ---
 
 # § 4714. Ballast water management demonstration program
@@ -41,7 +41,7 @@ generated_at: "2026-03-29T18:05:07.070Z"
   - **(4)** In selecting technologies and practices for demonstration under this subsection, the Secretary of the Interior and the Secretary of Commerce shall give priority consideration to technologies and practices identified as promising by the National Research Council Marine Board of the National Academy of Sciences in its report on ships’ ballast water operations issued in July 1996.
   - **(5)** Not later than 3 years after October 26, 1996 , the Secretary of the Interior and the Secretary of Commerce shall prepare and submit a report to the Congress on the demonstration program conducted pursuant to this section. The report shall include findings and recommendations of the Secretary of the Interior and the Secretary of Commerce concerning technologies and practices.
 - **(c)**
-  - **(1)** In conducting the demonstration program under subsection (b) of this section, the Secretary of the Interior may—
+  - **(1)** In conducting the demonstration program under subsection (b), the Secretary of the Interior may—
     - **(A)** enter into cooperative agreements with appropriate officials of other agencies of the Federal Government, agencies of States and political subdivisions thereof, and private entities;
     - **(B)** accept funds, facilities, equipment, or personnel from other Federal agencies; and
     - **(C)** accept donations of property and services.

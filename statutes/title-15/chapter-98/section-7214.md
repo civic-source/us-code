@@ -3,9 +3,9 @@ title: "Section 7214 - Inspections of registered public accounting firms"
 usc_title: 15
 usc_section: "7214"
 chapter: 98
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 7214"
-generated_at: "2026-03-29T18:04:29.960Z"
+generated_at: "2026-03-29T18:24:08.647Z"
 ---
 
 # § 7214. Inspections of registered public accounting firms
@@ -32,12 +32,12 @@ generated_at: "2026-03-29T18:04:29.960Z"
   - **(3)** perform such other testing of the audit, supervisory, and quality control procedures of the firm as are necessary or appropriate in light of the purpose of the inspection and the responsibilities of the Board.
 - **(e)** The rules of the Board may require the retention by registered public accounting firms for inspection purposes of records whose retention is not otherwise required by section 7213 of this title or the rules issued thereunder.
 - **(f)** The rules of the Board shall provide a procedure for the review of and response to a draft inspection report by the registered public accounting firm under inspection. The Board shall take such action with respect to such response as it considers appropriate (including revising the draft report or continuing or supplementing its inspection activities before issuing a final report), but the text of any such response, appropriately redacted to protect information reasonably identified by the accounting firm as confidential, shall be attached to and made part of the inspection report.
-- **(g)** A written report of the findings of the Board for each inspection under this section, subject to subsection (h) of this section, shall be—
+- **(g)** A written report of the findings of the Board for each inspection under this section, subject to subsection (h), shall be—
   - **(1)** transmitted, in appropriate detail, to the Commission and each appropriate State regulatory authority, accompanied by any letter or comments by the Board or the inspector, and any letter of response from the registered public accounting firm; and
   - **(2)** made available in appropriate detail to the public (subject to section 7215(b)(5)(A) of this title , and to the protection of such confidential and proprietary information as the Board may determine to be appropriate, or as may be required by law), except that no portions of the inspection report that deal with criticisms of or potential defects in the quality control systems of the firm under inspection shall be made public if those criticisms or defects are addressed by the firm, to the satisfaction of the Board, not later than 12 months after the date of the inspection report.
 - **(h)**
   - **(1)** A registered public accounting firm may seek review by the Commission, pursuant to such rules as the Commission shall promulgate, if the firm—
-    - **(A)** has provided the Board with a response, pursuant to rules issued by the Board under subsection (f) of this section, to the substance of particular items in a draft inspection report, and disagrees with the assessments contained in any final report prepared by the Board following such response; or
-    - **(B)** disagrees with the determination of the Board that criticisms or defects identified in an inspection report have not been addressed to the satisfaction of the Board within 12 months of the date of the inspection report, for purposes of subsection (g)(2) of this section.
+    - **(A)** has provided the Board with a response, pursuant to rules issued by the Board under subsection (f), to the substance of particular items in a draft inspection report, and disagrees with the assessments contained in any final report prepared by the Board following such response; or
+    - **(B)** disagrees with the determination of the Board that criticisms or defects identified in an inspection report have not been addressed to the satisfaction of the Board within 12 months of the date of the inspection report, for purposes of subsection (g)(2).
   - **(2)** Any decision of the Commission with respect to a review under paragraph (1) shall not be reviewable under section 78y of this title , or deemed to be “final agency action” for purposes of section 704 of title 5 .
   - **(3)** Review under paragraph (1) may be sought during the 30-day period following the date of the event giving rise to the review under subparagraph (A) or (B) of paragraph (1).

@@ -3,9 +3,9 @@ title: "Section 517 - Travel card management"
 usc_title: 14
 usc_section: "517"
 chapter: 13
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "14 U.S.C. § 517"
-generated_at: "2026-03-29T18:04:21.489Z"
+generated_at: "2026-03-29T18:23:55.772Z"
 ---
 
 # § 517. Travel card management

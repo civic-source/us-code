@@ -3,9 +3,9 @@ title: "Section 300q - Loan and loan guarantee authority"
 usc_title: 42
 usc_section: "300q"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 300q"
-generated_at: "2026-03-29T18:07:13.554Z"
+generated_at: "2026-03-29T18:27:02.756Z"
 ---
 
 # § 300q. Loan and loan guarantee authority
@@ -22,6 +22,6 @@ generated_at: "2026-03-29T18:07:13.554Z"
       - **(i)** non-Federal lenders for their loans to public and nonprofit private entities for medical facilities projects described in paragraph (1), and
       - **(ii)** the Federal Financing Bank for its loans to public and nonprofit private entities for such projects,
     - **(B)** In the case of a guarantee of any loan to a public or nonprofit private entity under subparagraph (A)(i) which is located in an urban or rural poverty area, the Secretary may pay, to the holder of such loan and for and on behalf of the project for which the loan was made, amounts sufficient to reduce by not more than one half the net effective interest rate otherwise payable on such loan if the Secretary finds that without such assistance the project could not be undertaken.
-- **(b)** The principal amount of a loan directly made or guaranteed under subsection (a) of this section for a medical facilities project, when added to any other assistance provided such project under part B, may not exceed 90 per centum of the cost of such project unless the project is located in an area determined by the Secretary to be an urban or rural poverty area, in which case the principal amount, when added to other assistance under part B, may cover up to 100 per centum of such costs.
+- **(b)** The principal amount of a loan directly made or guaranteed under subsection (a) for a medical facilities project, when added to any other assistance provided such project under part B, may not exceed 90 per centum of the cost of such project unless the project is located in an area determined by the Secretary to be an urban or rural poverty area, in which case the principal amount, when added to other assistance under part B, may cover up to 100 per centum of such costs.
 - **(c)** The cumulative total of the principal of the loans outstanding at any time with respect to which guarantees have been issued, or which have been directly made, may not exceed such limitations as may be specified in appropriation Acts.
 - **(d)** The Secretary, with the consent of the Secretary of Housing and Urban Development, shall obtain from the Department of Housing and Urban Development such assistance with respect to the administration of this part as will promote efficiency and economy thereof.

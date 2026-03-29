@@ -3,14 +3,14 @@ title: "Section 13824 - Availability of lines of credit and use"
 usc_title: 42
 usc_section: "13824"
 chapter: 136
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 13824"
-generated_at: "2026-03-29T18:07:15.345Z"
+generated_at: "2026-03-29T18:27:04.136Z"
 ---
 
 # § 13824. Availability of lines of credit and use
 
-- **(a)** The Secretary shall provide a community development corporation that has an application approved under section 13823 of this title with a line of credit in an amount determined appropriate by the Secretary, subject to the limitations contained in subsection (b) of this section.
+- **(a)** The Secretary shall provide a community development corporation that has an application approved under section 13823 of this title with a line of credit in an amount determined appropriate by the Secretary, subject to the limitations contained in subsection (b).
 - **(b)**
   - **(1)** The Secretary shall not provide in excess of $2,000,000 in lines of credit under this subpart to a single applicant.
   - **(2)** A line of credit provided under this subpart shall remain available over a period of time established by the Secretary, but in no event shall any such period of time be in excess of 3 years from the date on which such line of credit is made available.

@@ -3,9 +3,9 @@ title: "Section 6228 - Judicial review where administrative adjustment request i
 usc_title: 26
 usc_section: "6228"
 chapter: 63
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 6228"
-generated_at: "2026-03-29T18:05:44.994Z"
+generated_at: "2026-03-29T18:25:53.915Z"
 ---
 
 # § 6228. Judicial review where administrative adjustment request is not allowed in full

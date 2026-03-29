@@ -3,9 +3,9 @@ title: "Section 3431 - Coordination with the Natural Gas Act"
 usc_title: 15
 usc_section: "3431"
 chapter: 60
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 3431"
-generated_at: "2026-03-29T18:04:29.891Z"
+generated_at: "2026-03-29T18:24:08.582Z"
 ---
 
 # § 3431. Coordination with the Natural Gas Act
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T18:04:29.891Z"
     - **(A)** For purposes of section 1(b) of the Natural Gas Act [ 15 U.S.C. 717(b) ], the provisions of the Natural Gas Act [ 15 U.S.C. 717 et seq.], and the jurisdiction of the Commission under such Act shall not apply to any natural gas solely by reason of any first sale of such natural gas.
     - **(B)** For purposes of section 1(b) of the Natural Gas Act [ 15 U.S.C. 717(b) ], the provisions of the Natural Gas Act [ 15 U.S.C. 717 et seq.] and the jurisdiction of the Commission under such Act shall not apply by reason of any sale of natural gas—
       - **(i)** authorized under section 3362(a) or 3371(b) of this title; or
-      - **(ii)** pursuant to any assigned authorized under section 3372(a) of this title .
+      - **(ii)** pursuant to any assigned 1 1 So in original. Probably should be “assignment”. authorized under section 3372(a) of this title .
     - **(C)** For purposes of the Natural Gas Act [ 15 U.S.C. 717 et seq.], the term “natural-gas company” (as defined in section 2(6) of such Act [ 15 U.S.C. 717a(6) et seq.]) shall not include any person by reason of, or with respect to, any sale of natural gas if the provisions of the Natural Gas Act and the jurisdiction of the Commission do not apply to such sale solely by reason of subparagraph (A) or (B) of this paragraph.
   - **(2)**
     - **(A)** For purposes of section 1(b) of the Natural Gas Act [ 15 U.S.C. 717(b) ] the provisions of such Act [ 15 U.S.C. 717 et seq.] and the jurisdiction of the Commission under such Act shall not apply to any transportation in interstate commerce of natural gas if such transportation is—

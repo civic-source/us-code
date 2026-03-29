@@ -3,9 +3,9 @@ title: "Section 8302 - Definitions"
 usc_title: 42
 usc_section: "8302"
 chapter: 92
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 8302"
-generated_at: "2026-03-29T18:07:14.994Z"
+generated_at: "2026-03-29T18:27:03.880Z"
 ---
 
 # § 8302. Definitions
@@ -119,5 +119,5 @@ generated_at: "2026-03-29T18:07:14.994Z"
   - **(2)** The application of paragraph (1) with respect to the use of natural gas by any powerplant shall be conditioned on the person using such natural gas submitting to the Secretary a report not later than one year after certification is made under paragraph (1), and annually thereafter, containing the following information:
     - **(A)** the source, amount, quality, and point of delivery to the pipeline of the synthetic gas to which paragraph (1) applied during the annual period ending with the calendar month preceding the date of such report; and
     - **(B)** the amount, quality, and point of delivery by the pipeline to such person of the natural gas covered by paragraph (1) which is used by the person during such annual period.
-  - **(3)** Repealed. Pub. L. 100–42, § 1(c)(2)(H) , May 21, 1987 , 101 Stat. 310 .
+  - **(3)** Repealed. Pub. L. 100–42 , § 1(c)(2)(H), May 21, 1987 , 101 Stat. 310 .
   - **(4)** For purposes of this subsection, the term “pipeline” means any interstate or intrastate pipeline or local distribution company.

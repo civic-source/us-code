@@ -3,9 +3,9 @@ title: "Section 2296 - Training"
 usc_title: 19
 usc_section: "2296"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 2296"
-generated_at: "2026-03-29T18:04:55.083Z"
+generated_at: "2026-03-29T18:24:16.153Z"
 ---
 
 # § 2296. Training
@@ -19,9 +19,7 @@ generated_at: "2026-03-29T18:04:55.083Z"
     - **(E)** the worker is qualified to undertake and complete such training, and
     - **(F)** such training is suitable for the worker and available at a reasonable cost,
   - **(2)**
-    - **(A)** The total amount of funds available to carry out this section and sections 2295, 2297, and 2298 of this title shall not exceed—
-      - **(i)** $575,000,000 for each of fiscal years 2012 and 2013; and
-      - **(ii)** $143,750,000 for the 3-month period beginning on October 1, 2013 , and ending on December 31, 2013 .
+    - **(A)** The total amount of funds available to carry out this section and sections 2295, 2297, and 2298 of this title shall not exceed $450,000,000 for each of fiscal years 2015 through 2021.
     - **(B)**
       - **(i)** The Secretary shall, as soon as practicable after the beginning of each fiscal year, make an initial distribution of the funds made available to carry out this section and sections 2295, 2297, and 2298 of this title, in accordance with the requirements of subparagraph (C).
       - **(ii)** The Secretary shall ensure that not less than 90 percent of the funds made available to carry out this section and sections 2295, 2297, and 2298 of this title for a fiscal year are distributed to the States by not later than July 15 of that fiscal year.
@@ -48,8 +46,8 @@ generated_at: "2026-03-29T18:04:55.083Z"
       - **(i)** on-the-job training,
       - **(ii)** customized training, and
       - **(iii)** apprenticeship programs registered under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; 50 Stat. 664 , chapter 663; 29 U.S.C. 50 et seq.),
-    - **(B)** any training program provided by a State pursuant to title I of the Workforce Investment Act of 1998 [ 29 U.S.C. 2801 et seq.],
-    - **(C)** any training program approved by a private industry council established under section 102 of such Act,
+    - **(B)** any training program provided by a State pursuant to title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 et seq.],
+    - **(C)** any training program approved by a private industry council established under section 102 of such Act, 2 2 See References in Text note below.
     - **(D)** any program of remedial education,
     - **(E)** any program of prerequisite education or coursework required to enroll in training that may be approved under this section,
     - **(F)** any training program (other than a training program described in paragraph (7)) for which all, or any portion, of the costs of training the worker are paid—
@@ -106,8 +104,8 @@ generated_at: "2026-03-29T18:04:55.083Z"
     - **(F)** the job for which such adversely affected worker is being trained is not being created in a promotional line that will infringe in any way upon the promotional opportunities of currently employed individuals,
     - **(G)** such training is not for the same occupation from which the worker was separated and with respect to which such worker’s group was certified pursuant to section 2272 of this title ,
     - **(H)** the employer is provided reimbursement of not more than 50 percent of the wage rate of the participant, for the cost of providing the training and additional supervision related to the training,
-    - **(I)** the employer has not received payment under subsection (a)(1) of this section with respect to any other on-the-job training provided by such employer which failed to meet the requirements of subparagraphs (A), (B), (C), (D), (E), and (F), and
-    - **(J)** the employer has not taken, at any time, any action which violated the terms of any certification described in subparagraph (H) made by such employer with respect to any other on-the-job training provided by such employer for which the Secretary has made a payment under subsection (a)(1) of this section.
+    - **(I)** the employer has not received payment under subsection (a)(1) with respect to any other on-the-job training provided by such employer which failed to meet the requirements of subparagraphs (A), (B), (C), (D), (E), and (F), and
+    - **(J)** the employer has not taken, at any time, any action which violated the terms of any certification described in subparagraph (H) made by such employer with respect to any other on-the-job training provided by such employer for which the Secretary has made a payment under subsection (a)(1).
 - **(d)** An adversely affected worker may not be determined to be ineligible or disqualified for unemployment insurance or program benefits under this subpart—
   - **(1)** because the worker—
     - **(A)** is enrolled in training approved under subsection (a);

@@ -3,9 +3,9 @@ title: "Section 1926 - Water and waste facility loans and grants"
 usc_title: 7
 usc_section: "1926"
 chapter: 50
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 1926"
-generated_at: "2026-03-29T18:04:04.902Z"
+generated_at: "2026-03-29T18:23:43.316Z"
 ---
 
 # § 1926. Water and waste facility loans and grants
@@ -42,11 +42,11 @@ generated_at: "2026-03-29T18:04:04.902Z"
     - **(B)** The term “project” shall include facilities providing central service or facilities serving individual properties, or both.
   - **(5)** Not earlier than 60 days before a preliminary application is filed for a loan under paragraph (1) or a grant under paragraph (2) for a water or waste disposal purpose, a notice of the intent of the applicant to apply for the loan or grant shall be published in a general circulation newspaper. The selection of engineers for a project design shall be done by a request for proposals by the applicant.
   - **(6)** The Secretary may make grants aggregating not to exceed $30,000,000 in any fiscal year to public bodies or such other agencies as the Secretary may determine having authority to prepare comprehensive plans for the development of water or waste disposal systems in rural areas which do not have funds available for immediate undertaking of the preparation of such plan.
-  - **(7)** Repealed. Pub. L. 107–171, title VI, § 6020(b)(1) , May 13, 2002 , 116 Stat. 363 .
+  - **(7)** Repealed. Pub. L. 107–171, title VI , § 6020(b)(1), May 13, 2002 , 116 Stat. 363 .
   - **(8)** In each instance where the Secretary receives two or more applications for financial assistance for projects that would serve substantially the same group of residents within a single rural area, and one such application is submitted by a city, town, county or other unit of general local government, he shall, in the absence of substantial reasons to the contrary, provide such assistance to such city, town, county or other unit of general local government.
   - **(9)** No Federal funds shall be made available under this section for a water system unless the Secretary determines that the water system will make significant progress toward meeting the standards established under title XIV of the Public Health Service Act (commonly known as the “Safe Drinking Water Act”) ( 42 U.S.C. 300f et seq.).
   - **(10)** No Federal funds shall be made available under this section for a water treatment discharge or waste disposal system unless the Secretary determines that the effluent from the system conforms with applicable Federal and State water pollution control standards.
-  - **(11)** Repealed. Pub. L. 113–79, title VI, § 6012(b) , Feb. 7, 2014 , 128 Stat. 845 .
+  - **(11)** Repealed. Pub. L. 113–79, title VI , § 6012(b), Feb. 7, 2014 , 128 Stat. 845 .
   - **(12)**
     - **(A)** The Secretary shall, in cooperation with institutions eligible to receive funds under the Act of July 2, 1862 ( 12 Stat. 503–505 , as amended; 7 U.S.C. 301–305 , 307 and 308), or the Act of August 30, 1890 ( 26 Stat. 417–419 , as amended; 7 U.S.C. 321–326 and 328), including the Tuskegee Institute and State, substate, and regional planning bodies, establish a system for the dissemination of information and technical assistance on federally sponsored or funded programs. The system shall be for the use of institutions eligible to receive funds under the Act of July 2, 1862 ( 12 Stat. 503–505 , as amended; 7 U.S.C. 301–305 , 307, and 308), or the Act of August 30, 1890 ( 26 Stat. 417–419 , as amended; 7 U.S.C. 321–326 and 328), including the Tuskegee Institute and State, substate, and regional planning bodies, and other persons concerned with rural development.
     - **(B)** The informational system developed under this paragraph shall contain all pertinent information, including, but not limited to, information contained in the Federal Procurement Data System, Federal Assistance Program Retrieval System, Catalogue of Federal Domestic Assistance, Geographic Distribution of Federal Funds, United States Census, and Code of Federal Regulations.
@@ -67,21 +67,21 @@ generated_at: "2026-03-29T18:04:04.902Z"
     - **(B)** If the Secretary determines that a design or materials, other than those that were recommended, should be used in the water or waste disposal facility, the Secretary shall provide such applicant or borrower with a comprehensive justification for such determination.
   - **(18)** In making or insuring loans or making grants under this subsection, the Secretary may not condition approval of such loans or grants upon any requirement, condition or certification other than those specified under this chapter.
   - **(19)**
-    - **(A)** The Secretary may make grants, in a total amount not to exceed $10,000,000 for any fiscal year, to associations, units of general local government, nonprofit corporations, Indian tribes (as such term is defined under section 450b(e) of title 25 ),, 1 1 So in original. and federally recognized Indian tribes to provide the Federal share of the cost of developing specific essential community facilities in rural areas.
+    - **(A)** The Secretary may make grants, in a total amount not to exceed $10,000,000 for any fiscal year, to associations, units of general local government, nonprofit corporations, Indian tribes (as such term is defined under section 5304(e) of title 25 ),, 1 1 So in original. and federally recognized Indian tribes to provide the Federal share of the cost of developing specific essential community facilities in rural areas.
     - **(B)**
       - **(i)** Except as provided in clauses (ii) and (iii), the Secretary shall, by regulation, establish the amount of the Federal share of the cost of the facility under this paragraph.
       - **(ii)** The amount of a grant provided under this paragraph for a facility shall not exceed 75 percent of the cost of developing the facility.
       - **(iii)** The Secretary shall provide for a graduated scale for the amount of the Federal share provided under this paragraph, with higher Federal shares for facilities in communities that have lower community population and income levels, as determined by the Secretary.
   - **(20)**
     - **(A)** In this paragraph, the term “not employed rate”, with respect to a community, means the percentage of individuals over the age of 18 who reside within the community and who are ready, willing, and able to be employed but are unable to find employment, as determined by the department of labor of the State in which the community is located.
-    - **(B)** The Secretary may make grants to associations, units of general local government, nonprofit corporations, and Indian tribes (as defined in section 450b of title 25 ) in a State to provide the Federal share of the cost of developing specific essential community facilities in rural communities with respect to which the not employed rate is greater than the lesser of—
+    - **(B)** The Secretary may make grants to associations, units of general local government, nonprofit corporations, and Indian tribes (as defined in section 5304 of title 25 ) in a State to provide the Federal share of the cost of developing specific essential community facilities in rural communities with respect to which the not employed rate is greater than the lesser of—
       - **(i)** 500 percent of the average national unemployment rate on November 9, 2000 , as determined by the Bureau of Labor Statistics; or
       - **(ii)** 200 percent of the average national unemployment rate during the Great Depression, as determined by the Bureau of Labor Statistics.
     - **(C)** Paragraph (19)(B) shall apply to a grant made under this paragraph.
     - **(D)** There are authorized to be appropriated to carry out this paragraph $50,000,000 for fiscal year 2001 and such sums as are necessary for each subsequent fiscal year, of which not more than 5 percent of the amount made available for a fiscal year shall be available for community planning and implementation.
     - **(E)** Notwithstanding subparagraph (C), the Secretary may make grants to State agencies for use by regulatory commissions in states 2 2 So in original. Probably should be capitalized. with rural communities without local broadband service to establish a competitively, technologically neutral grant program to telecommunications carriers or cable operators that establish common carrier facilities and services which, in the commission’s determination, will result in the long-term availability to such communities of affordable broadband services which are used for the provision of high speed Internet access.
   - **(21)**
-    - **(A)** The Secretary may make grants to associations, units of general local government, nonprofit corporations, and Indian tribes (as defined in section 450b of title 25 ) in a State to provide the Federal share of the cost of developing specific essential community facilities in any geographic area—
+    - **(A)** The Secretary may make grants to associations, units of general local government, nonprofit corporations, and Indian tribes (as defined in section 5304 of title 25 ) in a State to provide the Federal share of the cost of developing specific essential community facilities in any geographic area—
       - **(i)** that is represented by—
         - **(I)** any political subdivision of a State;
         - **(II)** an Indian tribe on a Federal or State reservation; or

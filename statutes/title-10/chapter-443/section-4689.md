@@ -3,9 +3,9 @@ title: "Section 4689 - Transfer of material and equipment to the Architect of th
 usc_title: 10
 usc_section: "4689"
 chapter: 443
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 4689"
-generated_at: "2026-03-29T18:04:13.245Z"
+generated_at: "2026-03-29T18:23:52.036Z"
 ---
 
 # § 4689. Transfer of material and equipment to the Architect of the Capitol

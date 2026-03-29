@@ -3,9 +3,9 @@ title: "Section 31309 - Commercial driver’s license information system"
 usc_title: 49
 usc_section: "31309"
 chapter: 313
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 31309"
-generated_at: "2026-03-29T18:07:51.453Z"
+generated_at: "2026-03-29T18:27:16.552Z"
 ---
 
 # § 31309. Commercial driver’s license information system
@@ -39,4 +39,4 @@ generated_at: "2026-03-29T18:07:51.453Z"
       - **(i)** Availability and cost of technology and equipment needed to comply with subparagraph (A).
       - **(ii)** Time necessary to install, and test the operation of, such technology and equipment.
   - **(5)** The Secretary shall implement the plan developed under subsection (a) and modernize the information system under this section to meet the requirements of the plan.
-- **(f)** At the Secretary’s discretion, a State may use, subject to section 31313(a), the funds made available to the State under section 31313 to modernize its commercial driver’s license information system to be compatible with the modernized information system under this section.
+- **(f)** At the Secretary’s discretion, a State may use, subject to section 31313(a), 1 1 See References in Text note below. the funds made available to the State under section 31313 1 to modernize its commercial driver’s license information system to be compatible with the modernized information system under this section.

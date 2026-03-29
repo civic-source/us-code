@@ -3,12 +3,12 @@ title: "Section 1059b - Goals for financial management and academic program"
 usc_title: 20
 usc_section: "1059b"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1059b"
-generated_at: "2026-03-29T18:05:00.058Z"
+generated_at: "2026-03-29T18:24:40.908Z"
 ---
 
 # § 1059b. Goals for financial management and academic program
 
 - **(a)** Any application for a grant under this part shall describe measurable goals for the institution’s financial management and academic programs, and include a plan of how the applicant intends to achieve those goals.
-- **(b)** Any continuation application shall demonstrate the progress made toward achievement of the goals described pursuant to subsection (a) of this section.
+- **(b)** Any continuation application shall demonstrate the progress made toward achievement of the goals described pursuant to subsection (a).

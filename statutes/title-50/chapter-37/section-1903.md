@@ -3,9 +3,9 @@ title: "Section 1903 - National Security Education Board"
 usc_title: 50
 usc_section: "1903"
 chapter: 37
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 1903"
-generated_at: "2026-03-29T18:07:43.048Z"
+generated_at: "2026-03-29T18:27:35.621Z"
 ---
 
 # § 1903. National Security Education Board
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T18:07:43.048Z"
   - **(7)** The Director of National Intelligence.
   - **(8)** The Chairperson of the National Endowment for the Humanities.
   - **(9)** Six individuals appointed by the President, who shall be experts in the fields of international, language, area, and counterproliferation studies education and who may not be officers or employees of the Federal Government.
-- **(c)** Each individual appointed to the Board pursuant to subsection (b)(7) of this section shall be appointed for a period specified by the President at the time of the appointment, but not to exceed four years. Such individuals shall receive no compensation for service on the Board but may receive reimbursement for travel and other necessary expenses.
+- **(c)** Each individual appointed to the Board pursuant to subsection (b)(7) shall be appointed for a period specified by the President at the time of the appointment, but not to exceed four years. Such individuals shall receive no compensation for service on the Board but may receive reimbursement for travel and other necessary expenses.
 - **(d)** The Board shall perform the following functions:
   - **(1)** Develop criteria for awarding scholarships, fellowships, and grants under this chapter, including an order of priority in such awards that favors individuals expressing an interest in national security issues or pursuing a career in a national security position.
   - **(2)** Provide for wide dissemination of information regarding the activities assisted under this chapter.

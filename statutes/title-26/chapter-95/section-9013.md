@@ -3,9 +3,9 @@ title: "Section 9013 - Effective date of chapter"
 usc_title: 26
 usc_section: "9013"
 chapter: 95
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 9013"
-generated_at: "2026-03-29T18:05:45.083Z"
+generated_at: "2026-03-29T18:25:54.001Z"
 ---
 
 # § 9013. Effective date of chapter

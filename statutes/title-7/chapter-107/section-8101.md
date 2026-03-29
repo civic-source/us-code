@@ -3,9 +3,9 @@ title: "Section 8101 - Definitions"
 usc_title: 7
 usc_section: "8101"
 chapter: 107
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 8101"
-generated_at: "2026-03-29T18:04:05.154Z"
+generated_at: "2026-03-29T18:23:43.551Z"
 ---
 
 # § 8101. Definitions
@@ -42,7 +42,7 @@ Except as otherwise provided, in this chapter:
     - **(B)** The term “forest product” includes—
       - **(i)** pulp, paper, paperboard, pellets, lumber, and other wood products; and
       - **(ii)** any recycled products derived from forest materials.
-  - **(10)** The term “Indian tribe” has the meaning given the term in section 450b of title 25 .
+  - **(10)** The term “Indian tribe” has the meaning given the term in section 5304 of title 25 .
   - **(11)** The term “institution of higher education” has the meaning given the term in section 1002(a) of title 20 .
   - **(12)** The term “intermediate ingredient or feedstock” means a material or compound made in whole or in significant part from biological products, including renewable agricultural materials (including plant, animal, and marine materials) or forestry materials, that are subsequently used to make a more complex compound or product.
   - **(13)** The term “renewable biomass” means—

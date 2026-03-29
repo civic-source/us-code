@@ -3,9 +3,9 @@ title: "Section 1322b - Aggregate limit on benefits guaranteed; criteria applica
 usc_title: 29
 usc_section: "1322b"
 chapter: 18
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 1322b"
-generated_at: "2026-03-29T18:05:31.782Z"
+generated_at: "2026-03-29T18:25:43.109Z"
 ---
 
 # § 1322b. Aggregate limit on benefits guaranteed; criteria applicable

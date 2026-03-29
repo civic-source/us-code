@@ -3,9 +3,9 @@ title: "Section 137a - Principal Deputy Under Secretaries of Defense"
 usc_title: 10
 usc_section: "137a"
 chapter: 4
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 137a"
-generated_at: "2026-03-29T18:04:12.961Z"
+generated_at: "2026-03-29T18:23:51.722Z"
 ---
 
 # § 137a. Principal Deputy Under Secretaries of Defense
@@ -13,7 +13,8 @@ generated_at: "2026-03-29T18:04:12.961Z"
 - **(a)**
   - **(1)** There are five Principal Deputy Under Secretaries of Defense.
   - **(2)** The Principal Deputy Under Secretaries of Defense shall be appointed from civilian life by the President, by and with the advice and consent of the Senate.
-- **(b)** Each Principal Deputy Under Secretary of Defense shall be the first assistant to an Under Secretary of Defense and shall assist such Under Secretary in the performance of the duties of the position of such Under Secretary and shall act for, and exercise the powers of, such Under Secretary when such Under Secretary is absent or disabled.
+  - **(3)** The officials authorized under this section shall be the only Deputy Under Secretaries of Defense.
+- **(b)** Each Principal Deputy Under Secretary of Defense shall be the first assistant to an Under Secretary of Defense and shall assist such Under Secretary in the performance of the duties of the position of such Under Secretary and shall act for, and exercise the powers of, such Under Secretary when such Under Secretary dies, resigns, or is otherwise unable to perform the functions and duties of the office.
 - **(c)**
   - **(1)** One of the Principal Deputy Under Secretaries is the Principal Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics.
   - **(2)** One of the Principal Deputy Under Secretaries is the Principal Deputy Under Secretary of Defense for Policy.

@@ -3,9 +3,9 @@ title: "Section 409 - Qualifications for tax credit employee stock ownership pla
 usc_title: 26
 usc_section: "409"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 409"
-generated_at: "2026-03-29T18:05:44.594Z"
+generated_at: "2026-03-29T18:25:53.545Z"
 ---
 
 # § 409. Qualifications for tax credit employee stock ownership plans
@@ -159,7 +159,3 @@ generated_at: "2026-03-29T18:05:44.594Z"
   - **(7)**
     - **(A)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection.
     - **(B)** The Secretary may, by regulation or other guidance of general applicability, provide that a nonallocation year occurs in any case in which the principal purpose of the ownership structure of an S corporation constitutes an avoidance or evasion of this subsection.
-- **(q)**
-  - **(1)** For requirements for allowance of employee plan credit, see section 48(n). 1
-  - **(2)** For assessable penalties for failure to meet requirements of this section, or for failure to make contributions required with respect to the allowance of an employee plan credit or employee stock ownership credit, see section 6699. 1
-  - **(3)** For requirements for allowance of an employee stock ownership credit, see section 41. 1

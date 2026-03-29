@@ -3,9 +3,9 @@ title: "Section 40728 - Transfer of firearms, ammunition, and parts"
 usc_title: 36
 usc_section: "40728"
 chapter: 407
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "36 U.S.C. § 40728"
-generated_at: "2026-03-29T18:06:24.305Z"
+generated_at: "2026-03-29T18:26:09.279Z"
 ---
 
 # § 40728. Transfer of firearms, ammunition, and parts
@@ -24,3 +24,6 @@ generated_at: "2026-03-29T18:06:24.305Z"
 - **(e)** The Secretary may transfer from the inventory of the Department of the Army to the corporation any part from a rifle designated to be demilitarized.
 - **(f)** After February 10, 1996 , the Secretary may not demilitarize an M–1 Garand rifle in the inventory of the Army unless the Defense Logistics Agency decides the rifle is unserviceable.
 - **(g)** A transfer of firearms, ammunition, or parts to the corporation under this section shall be made without cost to the corporation, except that the corporation shall assume the cost of preparation and transportation of firearms and ammunition transferred under this section.
+- **(h)**
+  - **(1)** Subject to paragraph (2), the Secretary may transfer to the corporation, in accordance with the procedure prescribed in this subchapter, surplus caliber .45 M1911/M1911A1 pistols and spare parts and related accessories for those pistols that, on the date of the enactment of this subsection, are under the control of the Secretary and are surplus to the requirements of the Department of the Army, and such material as may be recovered by the Secretary pursuant to section 40728A(a) of this title . The Secretary shall determine a reasonable schedule for the transfer of such surplus pistols.
+  - **(2)** The Secretary may not transfer more than 10,000 surplus caliber .45 M1911/M1911A1 pistols to the corporation during any year and may only transfer such pistols as long as pistols described in paragraph (1) remain available for transfer.

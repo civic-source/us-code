@@ -3,9 +3,9 @@ title: "Section 921b - Policy of expansion of markets for debentures"
 usc_title: 7
 usc_section: "921b"
 chapter: 31
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 921b"
-generated_at: "2026-03-29T18:04:04.797Z"
+generated_at: "2026-03-29T18:23:43.223Z"
 ---
 
 # § 921b. Policy of expansion of markets for debentures

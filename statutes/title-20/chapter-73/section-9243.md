@@ -1,16 +1,12 @@
 ---
-title: "Section 9243 - Local administrative cost limits"
+title: "Section 9243 - Repealed. Pub. L. 113–128, title V , § 511(a), July 22, 2014 , 128 Stat. 1705"
 usc_title: 20
 usc_section: "9243"
 chapter: 73
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 9243"
-generated_at: "2026-03-29T18:05:00.409Z"
+generated_at: "2026-03-29T18:24:41.179Z"
 ---
 
-# § 9243. Local administrative cost limits
+# §§ 9241 to 9243. Repealed. Pub. L. 113–128, title V , § 511(a), July 22, 2014 , 128 Stat. 1705
 
-- **(a)** Subject to subsection (b) of this section, of the amount that is made available under this part to an eligible provider—
-  - **(1)** not less than 95 percent shall be expended for carrying out adult education and literacy activities; and
-  - **(2)** the remaining amount, not to exceed 5 percent, shall be used for planning, administration, personnel development, and interagency coordination.
-- **(b)** In cases where the cost limits described in subsection (a) of this section are too restrictive to allow for adequate planning, administration, personnel development, and interagency coordination, the eligible provider shall negotiate with the eligible agency in order to determine an adequate level of funds to be used for noninstructional purposes.

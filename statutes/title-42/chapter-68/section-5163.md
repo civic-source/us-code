@@ -3,9 +3,9 @@ title: "Section 5163 - Limitation on use of sliding scales"
 usc_title: 42
 usc_section: "5163"
 chapter: 68
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 5163"
-generated_at: "2026-03-29T18:07:14.650Z"
+generated_at: "2026-03-29T18:27:03.619Z"
 ---
 
 # § 5163. Limitation on use of sliding scales

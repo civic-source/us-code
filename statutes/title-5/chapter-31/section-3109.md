@@ -3,9 +3,9 @@ title: "Section 3109 - Employment of experts and consultants; temporary or inter
 usc_title: 5
 usc_section: "3109"
 chapter: 31
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 3109"
-generated_at: "2026-03-29T18:03:29.846Z"
+generated_at: "2026-03-29T18:23:29.871Z"
 ---
 
 # § 3109. Employment of experts and consultants; temporary or intermittent

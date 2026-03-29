@@ -3,9 +3,9 @@ title: "Section 5603 - Agricultural export promotion strategy"
 usc_title: 7
 usc_section: "5603"
 chapter: 87
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 5603"
-generated_at: "2026-03-29T18:04:05.049Z"
+generated_at: "2026-03-29T18:23:43.449Z"
 ---
 
 # § 5603. Agricultural export promotion strategy
@@ -15,8 +15,8 @@ generated_at: "2026-03-29T18:04:05.049Z"
   - **(2)** any accession to membership in the World Trade Organization;
   - **(3)** the continued economic growth in the Pacific Rim; and
   - **(4)** other developments.
-- **(b)** The strategy developed under subsection (a) of this section shall encourage the maintenance, development, and expansion of export markets for United States agricultural commodities and related products, including high-value and value-added products.
-- **(c)** The strategy developed under subsection (a) of this section shall have the following goals:
+- **(b)** The strategy developed under subsection (a) shall encourage the maintenance, development, and expansion of export markets for United States agricultural commodities and related products, including high-value and value-added products.
+- **(c)** The strategy developed under subsection (a) shall have the following goals:
   - **(1)** Increase the value of United States agricultural exports each year.
   - **(2)** Increase the value of United States agricultural exports each year at a faster rate than the rate of increase in the value of overall world export trade in agricultural products.
   - **(3)** Increase the value of United States high-value and value-added agricultural exports each year.
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T18:04:05.049Z"
     - **(A)** all obligations undertaken in the Uruguay Round Agreement on Agriculture that significantly increase access for United States agricultural commodities are implemented to the extent required by the Uruguay Round Agreements; or
     - **(B)** applicable United States laws are used to secure United States rights under the Uruguay Round Agreement on Agriculture.
 - **(d)**
-  - **(1)** In developing the strategy required under subsection (a) of this section, the Secretary shall annually identify as priority markets—
+  - **(1)** In developing the strategy required under subsection (a), the Secretary shall annually identify as priority markets—
     - **(A)** those markets in which imports of agricultural products show the greatest potential for increase; and
     - **(B)** those markets in which, with the assistance of Federal export promotion programs, exports of United States agricultural products show the greatest potential for increase.
   - **(2)** The President shall identify annually in the budget of the United States Government submitted under section 1105 of title 31 each overseas office of the Foreign Agricultural Service that provides assistance to United States exporters in each of the priority markets identified under paragraph (1).

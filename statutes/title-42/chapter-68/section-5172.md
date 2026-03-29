@@ -3,9 +3,9 @@ title: "Section 5172 - Repair, restoration, and replacement of damaged facilitie
 usc_title: 42
 usc_section: "5172"
 chapter: 68
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 5172"
-generated_at: "2026-03-29T18:07:14.652Z"
+generated_at: "2026-03-29T18:27:03.621Z"
 ---
 
 # § 5172. Repair, restoration, and replacement of damaged facilities
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T18:07:14.652Z"
       - **(ii)** the owner or operator of the facility—
         - **(I)** has applied for a disaster loan under section 636(b) of title 15 ; and
         - **(II)**
-    - **(B)** In this paragraph, the term “critical services” includes power, water (including water provided by an irrigation organization or facility), sewer, wastewater treatment, communications, education, and emergency medical care.
+    - **(B)** In this paragraph, the term “critical services” includes power, water (including water provided by an irrigation organization or facility), sewer, wastewater treatment, communications (including broadcast and telecommunications), education, and emergency medical care.
   - **(4)** Before making any contribution under this section in an amount greater than $20,000,000, the President shall notify—
     - **(A)** the Committee on Environment and Public Works of the Senate;
     - **(B)** the Committee on Transportation and Infrastructure of the House of Representatives;

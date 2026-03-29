@@ -3,9 +3,9 @@ title: "Section 1324 - Clean lakes"
 usc_title: 33
 usc_section: "1324"
 chapter: 26
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 1324"
-generated_at: "2026-03-29T18:06:10.557Z"
+generated_at: "2026-03-29T18:26:01.251Z"
 ---
 
 # § 1324. Clean lakes
@@ -39,6 +39,6 @@ generated_at: "2026-03-29T18:06:10.557Z"
   - **(4)**
     - **(A)** There is authorized to be appropriated to carry out this subsection not to exceed $40,000,000 for fiscal years beginning after September 30, 1986 , to remain available until expended.
     - **(B)**
-      - **(i)** There is authorized to be appropriated to carry out subsection (b) of this section with respect to subsection (a)(1)(D) of this section not to exceed $25,000,000 for fiscal years beginning after September 30, 1986 , to remain available until expended.
+      - **(i)** There is authorized to be appropriated to carry out subsection (b) with respect to subsection (a)(1)(D) not to exceed $25,000,000 for fiscal years beginning after September 30, 1986 , to remain available until expended.
       - **(ii)** The Administrator shall provide for an equitable distribution of sums appropriated pursuant to this subparagraph among States carrying out approved methods and procedures. Such distribution shall be based on the relative needs of each such State for the mitigation of the harmful effects on lakes and other surface waters of high acidity that may reasonably be due to acid deposition or acid mine drainage.
       - **(iii)** The amount of any grant to a State under this subparagraph shall be in addition to, and not in lieu of, any other Federal financial assistance.

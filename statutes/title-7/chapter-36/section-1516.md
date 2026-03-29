@@ -3,9 +3,9 @@ title: "Section 1516 - Funding"
 usc_title: 7
 usc_section: "1516"
 chapter: 36
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 1516"
-generated_at: "2026-03-29T18:04:04.860Z"
+generated_at: "2026-03-29T18:23:43.278Z"
 ---
 
 # § 1516. Funding
@@ -18,14 +18,14 @@ generated_at: "2026-03-29T18:04:04.860Z"
     - **(C)** Costs associated with the conduct of livestock and wild salmon pilot programs carried out under section 1523 of this title , subject to the limitations in subsections (a)(3)(E)(ii) and (b)(10) of section 1523 of this title .
     - **(D)** Costs associated with the reimbursement, contracting, and partnerships for research and development under section 1522 of this title .
 - **(b)**
-  - **(1)** For each of the 1999 and subsequent reinsurance years, the Corporation may pay from the insurance fund established under subsection (c) of this section all expenses of the Corporation (other than expenses covered by subsection (a)(1) of this section and expenses covered by paragraph (2)(A)), including the following:
+  - **(1)** For each of the 1999 and subsequent reinsurance years, the Corporation may pay from the insurance fund established under subsection (c) all expenses of the Corporation (other than expenses covered by subsection (a)(1) and expenses covered by paragraph (2)(A)), including the following:
     - **(A)** Premium subsidies and indemnities.
     - **(B)** Administrative and operating expenses of the Corporation necessary to pay the sales commissions of agents.
     - **(C)** All administrative and operating expense reimbursements due under a reinsurance agreement with an approved insurance provider.
     - **(D)** Costs associated with the conduct of livestock and wild salmon pilot programs carried out under section 1523 of this title , subject to the limitations in subsections (a)(3)(E)(ii) and (b)(10) of section 1523 of this title .
     - **(E)** Costs associated with the reimbursement, contracting, and partnerships for research and development under section 1522 of this title .
   - **(2)**
-    - **(A)** For each of the 1999 and subsequent reinsurance years, the Corporation may use the insurance fund established under subsection (c) of this section, but not to exceed $3,500,000 for each fiscal year, to pay the following:
+    - **(A)** For each of the 1999 and subsequent reinsurance years, the Corporation may use the insurance fund established under subsection (c), but not to exceed $3,500,000 for each fiscal year, to pay the following:
       - **(i)** Costs associated with the consideration and implementation of policies, plans of insurance, and related materials submitted under section 1508(h) of this title or developed under section 1522 or 1523 of this title.
       - **(ii)** Costs to contract for the review of policies, plans of insurance, and related materials under section 1505(e) of this title and to contract for other assistance in considering policies, plans of insurance, and related materials.
     - **(B)** Amounts necessary to carry out the dairy options pilot program shall not be counted toward the limitation on expenses specified in subparagraph (A).
@@ -38,7 +38,7 @@ generated_at: "2026-03-29T18:04:04.860Z"
         - **(II)** obligate those funds.
       - **(iii)** Funds made available under this subparagraph shall be in addition to other funds made available for costs incurred by the Corporation or the Risk Management Agency.
 - **(c)**
-  - **(1)** There is established an insurance fund, for the deposit of premium income, amounts made available under subsection (a)(2) of this section, and civil fines collected under section 1515(h) of this title , to be available without fiscal year limitation.
-  - **(2)** If at any time the amounts in the insurance fund are insufficient to enable the Corporation to carry out subsection (b) of this section, to the extent the funds of the Commodity Credit Corporation are available—
-    - **(A)** the Corporation may request the Secretary to use the funds of the Commodity Credit Corporation to carry out subsection (b) of this section; and
-    - **(B)** the Secretary may use the funds of the Commodity Credit Corporation to carry out subsection (b) of this section.
+  - **(1)** There is established an insurance fund, for the deposit of premium income, amounts made available under subsection (a)(2), and civil fines collected under section 1515(h) of this title , to be available without fiscal year limitation.
+  - **(2)** If at any time the amounts in the insurance fund are insufficient to enable the Corporation to carry out subsection (b), to the extent the funds of the Commodity Credit Corporation are available—
+    - **(A)** the Corporation may request the Secretary to use the funds of the Commodity Credit Corporation to carry out subsection (b); and
+    - **(B)** the Secretary may use the funds of the Commodity Credit Corporation to carry out subsection (b).

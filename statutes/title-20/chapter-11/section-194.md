@@ -3,9 +3,9 @@ title: "Section 194 - Advisory council"
 usc_title: 20
 usc_section: "194"
 chapter: 11
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 194"
-generated_at: "2026-03-29T18:05:00.020Z"
+generated_at: "2026-03-29T18:24:40.877Z"
 ---
 
 # § 194. Advisory council

@@ -3,9 +3,9 @@ title: "Section 11501 - Designation of enterprise zones"
 usc_title: 42
 usc_section: "11501"
 chapter: 120
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 11501"
-generated_at: "2026-03-29T18:07:15.194Z"
+generated_at: "2026-03-29T18:27:04.031Z"
 ---
 
 # § 11501. Designation of enterprise zones
@@ -23,19 +23,19 @@ generated_at: "2026-03-29T18:07:15.194Z"
       - **(ii)** are outside of a metropolitan statistical area (as designated by the Director of the Office of Management and Budget); or
       - **(iii)** that are determined by the Secretary, after consultation with the Secretary of Commerce, to be rural areas.
   - **(3)**
-    - **(A)** Except as provided in subparagraph (B), the Secretary shall designate (i) the nominated areas with the highest average ranking with respect to the criteria set forth in subparagraphs (C) and (D) of subsection (c)(3) of this section, and the 1 criterion set forth in subparagraph (E)(i) or (E)(ii) of subsection (c)(3) of this section that gives an area a higher ranking; and (ii) for areas described in paragraph (2)(B), the nominated areas with the highest ranking with respect to the 1 criterion set forth in subparagraph (C), (D), (E)(i), or (E)(ii) of subsection (c)(3) of this section that gives an area a higher ranking. For purposes of the preceding sentence, an area shall be ranked within each such criterion on the basis of the amount by which the area exceeds such criterion, with the area that exceeds such criterion by the greatest amount given the highest ranking.
+    - **(A)** Except as provided in subparagraph (B), the Secretary shall designate (i) the nominated areas with the highest average ranking with respect to the criteria set forth in subparagraphs (C) and (D) of subsection (c)(3), and the 1 criterion set forth in subparagraph (E)(i) or (E)(ii) of subsection (c)(3) that gives an area a higher ranking; and (ii) for areas described in paragraph (2)(B), the nominated areas with the highest ranking with respect to the 1 criterion set forth in subparagraph (C), (D), (E)(i), or (E)(ii) of subsection (c)(3) that gives an area a higher ranking. For purposes of the preceding sentence, an area shall be ranked within each such criterion on the basis of the amount by which the area exceeds such criterion, with the area that exceeds such criterion by the greatest amount given the highest ranking.
     - **(B)** An area shall not be designated under subparagraph (A) if the Secretary determines that the course of action with respect to such area is inadequate.
     - **(C)** Subparagraph (A) shall be applied separately with respect to areas described in paragraph (2)(B) and to other areas.
   - **(4)**
     - **(A)** Before designating any area as an enterprise zone, the Secretary shall prescribe by regulation not later than 4 months following February 5, 1988 , after consultation with the officials described in paragraph (1)(B)—
       - **(i)** the procedures for nominating an area under paragraph (1)(A);
       - **(ii)** the parameters relating to the size and population characteristics of an enterprise zone; and
-      - **(iii)** the manner in which nominated areas will be evaluated based on the criteria specified in subsection (d) of this section.
+      - **(iii)** the manner in which nominated areas will be evaluated based on the criteria specified in subsection (d).
     - **(B)** The Secretary shall designate nominated areas as enterprise zones only during the 24-month period beginning on the 1st day of the 1st month following the month in which the date of the enactment of the Housing and Community Development Act of 1992 occurs.
     - **(C)** The Secretary shall not make any designation under paragraph (1) unless—
       - **(i)** the local governments and the State in which the nominated area is located have the authority—
         - **(I)** to nominate such area for designation as an enterprise zone;
-        - **(II)** to make the State and local commitments under subsection (d) of this section; and
+        - **(II)** to make the State and local commitments under subsection (d); and
         - **(III)** to provide assurances satisfactory to the Secretary that such commitments will be fulfilled;
       - **(ii)** a nomination therefor is submitted in such a manner and in such form, and contains such information, as the Secretary shall by regulation prescribe;
       - **(iii)** the Secretary determines that any information furnished is reasonably accurate; and
@@ -44,17 +44,17 @@ generated_at: "2026-03-29T18:07:15.194Z"
 - **(b)**
   - **(1)** Any designation of an area as an enterprise zone shall remain in effect during the period beginning on the date of the designation and ending on the earliest of—
     - **(A)** December 31 of the 24th calendar year following the calendar year in which such date occurs;
-    - **(B)** the termination date designated by the State and local governments as provided for in their nomination pursuant to subsection (a)(4)(C)(ii) of this section; or
+    - **(B)** the termination date designated by the State and local governments as provided for in their nomination pursuant to subsection (a)(4)(C)(ii); or
     - **(C)** the date the Secretary revokes such designation under paragraph (2).
-  - **(2)** The Secretary, after consultation with the officials described in subsection (a)(1)(B) of this section and a hearing on the record involving officials of the State or local government involved, may revoke the designation of an area if the Secretary determines that the local government or the State in which it is located is not complying substantially with the State and local commitments pursuant to subsection (d) of this section.
+  - **(2)** The Secretary, after consultation with the officials described in subsection (a)(1)(B) and a hearing on the record involving officials of the State or local government involved, may revoke the designation of an area if the Secretary determines that the local government or the State in which it is located is not complying substantially with the State and local commitments pursuant to subsection (d).
 - **(c)**
-  - **(1)** The Secretary may make a designation of any nominated area under subsection (a)(1) of this section only if it meets the requirements of paragraphs (2) and (3).
+  - **(1)** The Secretary may make a designation of any nominated area under subsection (a)(1) only if it meets the requirements of paragraphs (2) and (3).
   - **(2)** A nominated area meets the requirements of this paragraph if—
     - **(A)** the area is within the jurisdiction of the local government;
     - **(B)** the boundary of the area is continuous; and
     - **(C)** the area—
       - **(i)** has a population, as determined by the most recent census data available, of not less than—
-        - **(I)** 4,000 if any portion of such area (other than a rural area described in subsection (a)(2)(B)(i) of this section) is located within a metropolitan statistical area (as designated by the Director of the Office of Management and Budget) with a population of 50,000 or more; or
+        - **(I)** 4,000 if any portion of such area (other than a rural area described in subsection (a)(2)(B)(i)) is located within a metropolitan statistical area (as designated by the Director of the Office of Management and Budget) with a population of 50,000 or more; or
         - **(II)** 1,000 in any other case; or
       - **(ii)** is entirely within an Indian reservation (as determined by the Secretary of the Interior).
   - **(3)** For purposes of paragraph (1), a nominated area meets the requirements of this paragraph if the State and local governments in which it is located certify and the Secretary, after such review of supporting data as he deems appropriate, accepts such certification, that—
@@ -65,7 +65,7 @@ generated_at: "2026-03-29T18:07:15.194Z"
     - **(E)** the area meets at least one of the following criteria:
       - **(i)** Not less than 70 percent of the households living in the area have incomes below 80 percent of the median income of households of the local government (determined in the same manner as under section 5318 of this title ).
       - **(ii)** The population of the area decreased by 20 percent or more between 1970 and 1980 (as determined from the most recent census available).
-  - **(4)** For purposes of paragraph (1), a nominated area that is a rural area described in subsection (a)(2)(B) of this section meets the requirements of paragraph (3) if the State and local governments in which it is located certify and the Secretary, after such review of supporting data as he deems appropriate, accepts such certification, that the area meets—
+  - **(4)** For purposes of paragraph (1), a nominated area that is a rural area described in subsection (a)(2)(B) meets the requirements of paragraph (3) if the State and local governments in which it is located certify and the Secretary, after such review of supporting data as he deems appropriate, accepts such certification, that the area meets—
     - **(A)** the criteria set forth in subparagraphs (A) and (B) of paragraph (3); and
     - **(B)** not less than one of the criteria set forth in the other subparagraphs of paragraph (3).
 - **(d)**

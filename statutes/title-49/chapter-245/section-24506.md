@@ -1,12 +1,12 @@
 ---
-title: "Section 24506 - Repealed. Pub. L. 105–134, title I, § 106(a) , Dec. 2, 1997 , 111 Stat. 2573 ]"
+title: "Section 24506 - Repealed. Pub. L. 105–134, title I , § 106(a), Dec. 2, 1997 , 111 Stat. 2573 ]"
 usc_title: 49
 usc_section: "24506"
 chapter: 245
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 24506"
-generated_at: "2026-03-29T02:16:08.951Z"
+generated_at: "2026-03-29T18:27:16.523Z"
 ---
 
-# [§§ 24501 to 24506. Repealed. Pub. L. 105–134, title I, § 106(a) , Dec. 2, 1997 , 111 Stat. 2573 ]
+# [§§ 24501 to 24506. Repealed. Pub. L. 105–134, title I , § 106(a), Dec. 2, 1997 , 111 Stat. 2573 ]
 

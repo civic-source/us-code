@@ -3,17 +3,14 @@ title: "Section 3104 - Reports on security clearances"
 usc_title: 50
 usc_section: "3104"
 chapter: 44
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 3104"
-generated_at: "2026-03-29T18:07:43.116Z"
+generated_at: "2026-03-29T18:27:35.681Z"
 ---
 
 # § 3104. Reports on security clearances
 
 - **(a)**
-  - **(1)** The President shall every four years conduct an audit of the manner in which the executive branch determines whether a security clearance is required for a particular position in the United States Government.
-  - **(2)** Not later than 30 days after the completion of an audit conducted under paragraph (1), the President shall submit to Congress the results of such audit.
-- **(b)**
   - **(1)** Not later than February 1 of each year, the President shall submit to Congress a report on the security clearance process. Such report shall include, for each security clearance level—
     - **(A)** the number of employees of the United States Government who—
       - **(i)** held a security clearance at such level as of October 1 of the preceding year; and
@@ -44,4 +41,4 @@ generated_at: "2026-03-29T18:07:43.116Z"
   - **(2)** For purposes of paragraph (1), the President may consider—
     - **(A)** security clearances at the level of confidential and secret as one security clearance level; and
     - **(B)** security clearances at the level of top secret or higher as one security clearance level.
-- **(c)** The results required under subsection (a)(2) and the reports required under subsection (b)(1) shall be submitted in unclassified form, but may include a classified annex.
+- **(b)** The reports required under subsection (a)(1) shall be submitted in unclassified form, but may include a classified annex.

@@ -1,14 +1,12 @@
 ---
-title: "Section 1755 - State jurisdiction over reservation"
+title: "Section 1755 - Omitted"
 usc_title: 25
 usc_section: "1755"
 chapter: 19
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1755"
-generated_at: "2026-03-29T18:05:17.178Z"
+generated_at: "2026-03-29T18:25:23.751Z"
 ---
 
-# § 1755. State jurisdiction over reservation
-
-Notwithstanding the provision relating to a special election in section 406 of the Act of April 11, 1968 ( 82 Stat. 80 ; 25 U.S.C. 1326 ), the reservation of the Tribe is declared to be Indian country subject to State jurisdiction to the maximum extent provided in title IV of such Act [ 25 U.S.C. 1321 et seq.].
+# § 1755. Omitted
 

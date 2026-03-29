@@ -1,18 +1,12 @@
 ---
-title: "Section 714 - Definitions"
+title: "Section 714 - Omitted"
 usc_title: 25
 usc_section: "714"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 714"
-generated_at: "2026-03-29T18:05:17.097Z"
+generated_at: "2026-03-29T18:25:23.700Z"
 ---
 
-# § 714. Definitions
+# § 714. Omitted
 
-For the purposes of this subchapter—
-
-  - **(1)** “Tribe” means the Confederated Tribes of Coos, Lower Umpqua, and Siuslaw Indians;
-  - **(2)** “Secretary” means the Secretary of the Interior or his authorized representative;
-  - **(3)** “Interim Council” means the tribal council of the Confederated Tribes of Coos, Lower Umpqua, and Siuslaw Indians, which serves pursuant to section 714c of this title ; and
-  - **(4)** “member” used with respect to the Tribe means a person enrolled on the membership roll of the Tribe provided for in section 714b of this title .

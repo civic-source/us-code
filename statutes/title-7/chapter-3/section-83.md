@@ -3,9 +3,9 @@ title: "Section 83 - Omitted"
 usc_title: 7
 usc_section: "83"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 83"
-generated_at: "2026-03-29T02:10:16.651Z"
+generated_at: "2026-03-29T18:23:43.139Z"
 ---
 
 # §§ 80 to 83. Omitted

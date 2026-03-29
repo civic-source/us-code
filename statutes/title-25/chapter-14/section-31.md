@@ -1,14 +1,12 @@
 ---
-title: "Section 31 - Residence of families eligible for relocation assistance"
+title: "Section 31 - Omitted"
 usc_title: 25
 usc_section: "31"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 31"
-generated_at: "2026-03-29T18:05:17.083Z"
+generated_at: "2026-03-29T18:25:23.698Z"
 ---
 
-# § 640d–31. Residence of families eligible for relocation assistance
-
-Nothing in this subchapter prohibits the Commissioner from providing relocation assistance to families certified as eligible, regardless of their current place of residence, with funds appropriated to implement this subchapter.
+# § 640d–31. Omitted
 

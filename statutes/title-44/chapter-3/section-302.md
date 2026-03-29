@@ -1,14 +1,14 @@
 ---
-title: "Section 302 - Deputy Public Printer: appointment; duties"
+title: "Section 302 - Deputy Director of the Government Publishing Office: appointment; duties"
 usc_title: 44
 usc_section: "302"
 chapter: 3
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "44 U.S.C. § 302"
-generated_at: "2026-03-29T18:06:33.608Z"
+generated_at: "2026-03-29T18:26:16.103Z"
 ---
 
-# § 302. Deputy Public Printer: appointment; duties
+# § 302. Deputy Director of the Government Publishing Office: appointment; duties
 
-The Public Printer shall appoint a suitable person, who must be a practical printer and versed in the art of bookbinding, to be the Deputy Public Printer. He shall perform the duties formerly required of the chief clerk, supervise the buildings occupied by the Government Printing Office, and perform any other duties required of him by the Public Printer.
+The Director of the Government Publishing Office shall appoint a suitable person to be the Deputy Director of the Government Publishing Office. The Deputy Director of the Government Publishing Office shall supervise the buildings occupied by the Government Publishing Office and perform any other duties required by the Director of the Government Publishing Office.
 

@@ -3,9 +3,9 @@ title: "Section 6371 - Mandatory retirement: Superintendent of the United States
 usc_title: 10
 usc_section: "6371"
 chapter: 573
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 6371"
-generated_at: "2026-03-29T18:04:13.261Z"
+generated_at: "2026-03-29T18:23:52.055Z"
 ---
 
 # § 6371. Mandatory retirement: Superintendent of the United States Naval Academy; waiver authority

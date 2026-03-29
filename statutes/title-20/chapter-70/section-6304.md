@@ -3,14 +3,14 @@ title: "Section 6304 - State administration"
 usc_title: 20
 usc_section: "6304"
 chapter: 70
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 6304"
-generated_at: "2026-03-29T18:05:00.291Z"
+generated_at: "2026-03-29T18:24:41.109Z"
 ---
 
 # § 6304. State administration
 
-- **(a)** Except as provided in subsection (b) of this section, to carry out administrative duties assigned under parts A, C, and D of this subchapter, each State may reserve the greater of—
+- **(a)** Except as provided in subsection (b), to carry out administrative duties assigned under parts A, C, and D of this subchapter, each State may reserve the greater of—
   - **(1)** 1 percent of the amounts received under such parts; or
   - **(2)** $400,000 ($50,000 in the case of each outlying area).
-- **(b)** If the sum of the amounts appropriated for parts A, C, and D of this subchapter is equal to or greater than $14,000,000,000, then the reservation described in subsection (a)(1) of this section shall not exceed 1 percent of the amount the State would receive, if $14,000,000,000 were allocated among the States for parts A, C, and D of this subchapter.
+- **(b)** If the sum of the amounts appropriated for parts A, C, and D of this subchapter is equal to or greater than $14,000,000,000, then the reservation described in subsection (a)(1) shall not exceed 1 percent of the amount the State would receive, if $14,000,000,000 were allocated among the States for parts A, C, and D of this subchapter.

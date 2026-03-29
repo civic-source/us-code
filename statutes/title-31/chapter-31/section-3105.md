@@ -3,9 +3,9 @@ title: "Section 3105 - Savings bonds and savings certificates"
 usc_title: 31
 usc_section: "3105"
 chapter: 31
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "31 U.S.C. § 3105"
-generated_at: "2026-03-29T18:06:08.472Z"
+generated_at: "2026-03-29T18:25:59.164Z"
 ---
 
 # § 3105. Savings bonds and savings certificates

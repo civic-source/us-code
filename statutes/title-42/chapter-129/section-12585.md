@@ -3,18 +3,18 @@ title: "Section 12585 - Consideration of applications"
 usc_title: 42
 usc_section: "12585"
 chapter: 129
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 12585"
-generated_at: "2026-03-29T18:07:15.245Z"
+generated_at: "2026-03-29T18:27:04.061Z"
 ---
 
 # § 12585. Consideration of applications
 
-- **(a)** The Corporation shall apply the criteria described in subsections (c) and (d) of this section in determining whether—
+- **(a)** The Corporation shall apply the criteria described in subsections (c) and (d) in determining whether—
   - **(1)** to approve an application submitted under section 12582 of this title and provide assistance under section 12571 of this title to the applicant; and
-  - **(2)** to approve service positions described in the application as national service positions that include the national service educational award described in division D of this subchapter and provide such approved national service positions to the applicant.
+  - **(2)** to approve service positions described in the application as national service positions that include the national service educational award described in division D and provide such approved national service positions to the applicant.
 - **(b)**
-  - **(1)** A State or other entity that uses assistance provided under section 12571(a) of this title to support national service programs selected on a competitive basis to receive a share of the assistance shall use the criteria described in subsections (c) and (d) of this section when considering an application submitted by a national service program to receive a portion of such assistance or an approved national service position.
+  - **(1)** A State or other entity that uses assistance provided under section 12571(a) of this title to support national service programs selected on a competitive basis to receive a share of the assistance shall use the criteria described in subsections (c) and (d) when considering an application submitted by a national service program to receive a portion of such assistance or an approved national service position.
   - **(2)** The application of the State or other entity under section 12582 of this title shall contain—
     - **(A)** a certification that the State or other entity used these criteria in the selection of national service programs to receive assistance;
     - **(B)** a description of the positions into which participants will be placed using such assistance, including descriptions of specific tasks to be performed by such participants; and
@@ -51,7 +51,7 @@ generated_at: "2026-03-29T18:07:15.245Z"
     - **(A)** establish panels of experts for the purpose of securing recommendations on applications submitted under section 12582 of this title for more than $250,000 in assistance, or for national service positions that would require more than $250,000 in national service educational awards; and
     - **(B)** consider the opinions of such panels prior to making such determinations.
 - **(e)** In making assistance available under section 12571 of this title and in providing approved national service positions under section 12573 of this title , the Corporation shall ensure that not less than 50 percent of the total amount of assistance to be distributed to States under subsections (d) and (e) of section 12581 of this title for a fiscal year is provided to carry out or support national service programs and projects that—
-  - **(1)** are conducted in any of the areas described in subsection (c)(6) of this section or on Federal or other public lands, to address unmet human, educational, environmental, or public safety needs in such areas or on such lands; and
+  - **(1)** are conducted in any of the areas described in subsection (c)(6) or on Federal or other public lands, to address unmet human, educational, environmental, or public safety needs in such areas or on such lands; and
   - **(2)** place a priority on the recruitment of participants who are residents of any of such areas or Federal or other public lands.
 - **(f)** In making competitive awards under section 12581(d) of this title , the Corporation shall solicit and consider the views of a State Commission regarding any application for assistance to carry out a national service program within the State.
 - **(g)**

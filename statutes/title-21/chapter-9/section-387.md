@@ -3,9 +3,9 @@ title: "Section 387 - Definitions"
 usc_title: 21
 usc_section: "387"
 chapter: 9
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 387"
-generated_at: "2026-03-29T18:05:14.852Z"
+generated_at: "2026-03-29T18:25:04.188Z"
 ---
 
 # § 387. Definitions
@@ -25,7 +25,7 @@ In this subchapter:
   - **(7)** The term “distributor” as regards a tobacco product means any person who furthers the distribution of a tobacco product, whether domestic or imported, at any point from the original place of manufacture to the person who sells or distributes the product to individuals for personal consumption. Common carriers are not considered distributors for purposes of this subchapter.
   - **(8)** The term “illicit trade” means any practice or conduct prohibited by law which relates to production, shipment, receipt, possession, distribution, sale, or purchase of tobacco products including any practice or conduct intended to facilitate such activity.
   - **(9)** The term “Indian country” has the meaning given such term in section 1151 of title 18 .
-  - **(10)** The term “Indian tribe” has the meaning given such term in section 450b(e) of title 25 .
+  - **(10)** The term “Indian tribe” has the meaning given such term in section 5304(e) of title 25 .
   - **(11)** The term “little cigar” means a product that—
     - **(A)** is a tobacco product; and
     - **(B)** meets the definition of the term “little cigar” in section 1332(7) of title 15 .

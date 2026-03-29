@@ -3,9 +3,9 @@ title: "Section 4802 - Responsibility of Secretary of State"
 usc_title: 22
 usc_section: "4802"
 chapter: 58
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 4802"
-generated_at: "2026-03-29T18:05:21.964Z"
+generated_at: "2026-03-29T18:24:54.324Z"
 ---
 
 # § 4802. Responsibility of Secretary of State
@@ -44,4 +44,4 @@ generated_at: "2026-03-29T18:05:21.964Z"
 - **(c)** The Secretary of State shall—
   - **(1)** have full responsibility for the coordination of all United States Government personnel assigned to diplomatic or consular posts or other United States missions abroad pursuant to United States Government authorization (except for facilities, installations, or personnel under the command of a United States area military commander) 2 2 So in original. Probably should be followed by “; and”.
   - **(2)** establish appropriate overseas staffing levels for all such posts or missions for all Federal agencies with activities abroad (except for personnel and activities under the command of a United States area military commander or regional inspector general offices under the jurisdiction of the inspector 3 3 So in original. Probably should be capitalized. General, Agency for International Development).
-- **(d)** As used in this subchapter and subchapter III of this chapter, the term “Federal agency” includes any department or agency of the United States Government.
+- **(d)** As used in this subchapter and subchapter III, the term “Federal agency” includes any department or agency of the United States Government.

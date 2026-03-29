@@ -3,9 +3,9 @@ title: "Section 3002 - Definitions"
 usc_title: 29
 usc_section: "3002"
 chapter: 31
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 3002"
-generated_at: "2026-03-29T18:05:31.842Z"
+generated_at: "2026-03-29T18:25:43.133Z"
 ---
 
 # § 3002. Definitions
@@ -15,7 +15,7 @@ In this chapter:
   - **(1)** The term “adult service program” means a program that provides services to, or is otherwise substantially involved with the major life functions of, individuals with disabilities. Such term includes—
     - **(A)** a program providing residential, supportive, or employment services, or employment-related services, to individuals with disabilities;
     - **(B)** a program carried out by a center for independent living, such as a center described in part C of title VII of the Rehabilitation Act of 1973 ( 29 U.S.C. 796f et seq.);
-    - **(C)** a program carried out by an employment support agency connected to adult vocational rehabilitation, such as a one-stop partner, as defined in section 2801 of this title ; and
+    - **(C)** a program carried out by an employment support agency connected to adult vocational rehabilitation, such as a one-stop partner, as defined in section 3102 of this title ; and
     - **(D)** a program carried out by another organization or vender licensed or registered by the designated State agency, as defined in section 7 of the Rehabilitation Act of 1973 ( 29 U.S.C. 705 ).
   - **(2)** The term “American Indian consortium” means an entity that is an American Indian Consortium (as defined in section 102 of Developmental Disabilities Assistance and Bill of Rights Act of 2000 ( 42 U.S.C. 15002 )), and that is established to provide protection and advocacy services for purposes of receiving funding under subtitle C of title I of such Act ( 42 U.S.C. 15041 et seq.).
   - **(3)** The term “assistive technology” means technology designed to be utilized in an assistive technology device or assistive technology service.
@@ -55,7 +55,7 @@ In this chapter:
   - **(12)** The term “protection and advocacy services” means services that—
     - **(A)** are described in subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ( 42 U.S.C. 15041 et seq.), the Protection and Advocacy for Individuals with Mental Illness Act ( 42 U.S.C. 10801 et seq.), or section 509 of the Rehabilitation Act of 1973 ( 29 U.S.C. 794e ); and
     - **(B)** assist individuals with disabilities with respect to assistive technology devices and assistive technology services.
-  - **(13)** The term “Secretary” means the Secretary of Education.
+  - **(13)** The term “Secretary” means the Secretary of Health and Human Services.
   - **(14)**
     - **(A)** Except as provided in subparagraph (B), the term “State” means each of the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
     - **(B)** In section 3003(b) of this title :

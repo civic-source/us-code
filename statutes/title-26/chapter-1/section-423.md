@@ -3,14 +3,14 @@ title: "Section 423 - Employee stock purchase plans"
 usc_title: 26
 usc_section: "423"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 423"
-generated_at: "2026-03-29T18:05:44.619Z"
+generated_at: "2026-03-29T18:25:53.568Z"
 ---
 
 # § 423. Employee stock purchase plans
 
-- **(a)** Section 421(a) shall apply with respect to the transfer of a share of stock to an individual pursuant to his exercise of an option granted after December 31, 1963 , under an employee stock purchase plan (as defined in subsection (b)) if—
+- **(a)** Section 421(a) shall apply with respect to the transfer of a share of stock to an individual pursuant to his exercise of an option granted under an employee stock purchase plan (as defined in subsection (b)) if—
   - **(1)** no disposition of such share is made by him within 2 years after the date of the granting of the option nor within 1 year after the transfer of such share to him; and
   - **(2)** at all times during the period beginning with the date of the granting of the option and ending on the day 3 months before the date of such exercise, he is an employee of the corporation granting such option, a parent or subsidiary corporation of such corporation, or a corporation or a parent or subsidiary corporation of such corporation issuing or assuming a stock option in a transaction to which section 424(a) applies.
 - **(b)** For purposes of this part, the term “employee stock purchase plan” means a plan which meets the following requirements:

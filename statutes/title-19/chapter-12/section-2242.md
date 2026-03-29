@@ -3,9 +3,9 @@ title: "Section 2242 - Identification of countries that deny adequate protection
 usc_title: 19
 usc_section: "2242"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 2242"
-generated_at: "2026-03-29T18:04:55.077Z"
+generated_at: "2026-03-29T18:24:16.148Z"
 ---
 
 # § 2242. Identification of countries that deny adequate protection, or market access, for intellectual property rights
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T18:04:55.077Z"
     - **(B)** deny fair and equitable market access to United States persons that rely upon intellectual property protection, and
   - **(2)** those foreign countries identified under paragraph (1) that are determined by the Trade Representative to be priority foreign countries.
 - **(b)**
-  - **(1)** In identifying priority foreign countries under subsection (a)(2) of this section, the Trade Representative shall only identify those foreign countries—
+  - **(1)** In identifying priority foreign countries under subsection (a)(2), the Trade Representative shall only identify those foreign countries—
     - **(A)** that have the most onerous or egregious acts, policies, or practices that—
       - **(i)** deny adequate and effective intellectual property rights, or
       - **(ii)** deny fair and equitable market access to United States persons that rely upon intellectual property protection,
@@ -24,12 +24,12 @@ generated_at: "2026-03-29T18:04:55.077Z"
     - **(C)** that are not—
       - **(i)** entering into good faith negotiations, or
       - **(ii)** making significant progress in bilateral or multilateral negotiations,
-  - **(2)** In identifying priority foreign countries under subsection (a)(2) of this section, the Trade Representative shall—
+  - **(2)** In identifying priority foreign countries under subsection (a)(2), the Trade Representative shall—
     - **(A)** consult with the Register of Copyrights, the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office, other appropriate officers of the Federal Government, and
     - **(B)** take into account information from such sources as may be available to the Trade Representative and such information as may be submitted to the Trade Representative by interested persons, including information contained in reports submitted under section 2241(b) of this title and petitions submitted under section 2412 of this title .
-  - **(3)** The Trade Representative may identify a foreign country under subsection (a)(1)(B) of this section only if the Trade Representative finds that there is a factual basis for the denial of fair and equitable market access as a result of the violation of international law or agreement, or the existence of barriers, referred to in subsection (d)(3) of this section.
-  - **(4)** In identifying foreign countries under paragraphs (1) and (2) of subsection (a) of this section, the Trade Representative shall take into account—
-    - **(A)** the history of intellectual property laws and practices of the foreign country, including any previous identification under subsection (a)(2) of this section, and
+  - **(3)** The Trade Representative may identify a foreign country under subsection (a)(1)(B) only if the Trade Representative finds that there is a factual basis for the denial of fair and equitable market access as a result of the violation of international law or agreement, or the existence of barriers, referred to in subsection (d)(3).
+  - **(4)** In identifying foreign countries under paragraphs (1) and (2) of subsection (a), the Trade Representative shall take into account—
+    - **(A)** the history of intellectual property laws and practices of the foreign country, including any previous identification under subsection (a)(2), and
     - **(B)** the history of efforts of the United States, and the response of the foreign country, to achieve adequate and effective protection and enforcement of intellectual property rights.
 - **(c)**
   - **(1)** The Trade Representative may at any time—
@@ -40,18 +40,18 @@ generated_at: "2026-03-29T18:04:55.077Z"
   - **(1)** The term “persons that rely upon intellectual property protection” means persons involved in—
     - **(A)** the creation, production or licensing of works of authorship (within the meaning of sections 102 and 103 of title 17) that are copyrighted, or
     - **(B)** the manufacture of products that are patented or for which there are process patents.
-  - **(2)** A foreign country denies adequate and effective protection of intellectual property rights if the foreign country denies adequate and effective means under the laws of the foreign country for persons who are not citizens or nationals of such foreign country to secure, exercise, and enforce rights relating to patents, process patents, registered trademarks, copyrights and mask works.
+  - **(2)** A foreign country denies adequate and effective protection of intellectual property rights if the foreign country denies adequate and effective means under the laws of the foreign country for persons who are not citizens or nationals of such foreign country to secure, exercise, and enforce rights relating to patents, process patents, registered trademarks, copyrights, trade secrets, and mask works.
   - **(3)** A foreign country denies fair and equitable market access if the foreign country effectively denies access to a market for a product protected by a copyright or related right, patent, trademark, mask work, trade secret, or plant breeder’s right, through the use of laws, procedures, practices, or regulations which—
     - **(A)** violate provisions of international law or international agreements to which both the United States and the foreign country are parties, or
     - **(B)** constitute discriminatory nontariff trade barriers.
   - **(4)** A foreign country may be determined to deny adequate and effective protection of intellectual property rights, notwithstanding the fact that the foreign country may be in compliance with the specific obligations of the Agreement on Trade-Related Aspects of Intellectual Property Rights referred to in section 3511(d)(15) of this title .
-- **(e)** The Trade Representative shall publish in the Federal Register a list of foreign countries identified under subsection (a) of this section and shall make such revisions to the list as may be required by reason of action under subsection (c) of this section.
+- **(e)** The Trade Representative shall publish in the Federal Register a list of foreign countries identified under subsection (a) and shall make such revisions to the list as may be required by reason of action under subsection (c).
 - **(f)**
   - **(1)** By no later than the date that is 30 days after the date on which the annual report is submitted to Congressional committees under section 2241(b) of this title , the Trade Representative shall identify any act, policy, or practice of Canada which—
     - **(A)** affects cultural industries,
     - **(B)** is adopted or expanded after December 17, 1992 , and
     - **(C)** is actionable under article 2106 of the North American Free Trade Agreement.
-  - **(2)** For purposes of section 2412(b)(2)(A) of this title , an act, policy, or practice identified under this subsection shall be treated as an act, policy, or practice that is the basis for identification of a country under subsection (a)(2) of this section, unless the United States has already taken action pursuant to article 2106 of the North American Free Trade Agreement in response to such act, policy, or practice. In deciding whether to identify an act, policy, or practice under paragraph (1), the Trade Representative shall—
+  - **(2)** For purposes of section 2412(b)(2)(A) of this title , an act, policy, or practice identified under this subsection shall be treated as an act, policy, or practice that is the basis for identification of a country under subsection (a)(2), unless the United States has already taken action pursuant to article 2106 of the North American Free Trade Agreement in response to such act, policy, or practice. In deciding whether to identify an act, policy, or practice under paragraph (1), the Trade Representative shall—
     - **(A)** consult with and take into account the views of representatives of the relevant domestic industries, appropriate committees established pursuant to section 2155 of this title , and appropriate officers of the Federal Government, and
     - **(B)** take into account the information from such sources as may be available to the Trade Representative and such information as may be submitted to the Trade Representative by interested persons, including information contained in reports submitted under section 2241(b) of this title .
   - **(3)** For purposes of this subsection, the term “cultural industries” means persons engaged in any of the following activities:
@@ -60,4 +60,21 @@ generated_at: "2026-03-29T18:04:55.077Z"
     - **(C)** The production, distribution, sale, or exhibition of audio or video music recordings.
     - **(D)** The publication, distribution, or sale of music in print or machine readable form.
     - **(E)** Radio communications in which the transmissions are intended for direct reception by the general public, and all radio, television, and cable broadcasting undertakings and all satellite programming and broadcast network services.
-- **(g)** The Trade Representative shall, by not later than the date by which countries are identified under subsection (a) of this section, transmit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate, a report on actions taken under this section during the 12 months preceding such report, and the reasons for such actions, including a description of progress made in achieving improved intellectual property protection and market access for persons relying on intellectual property rights.
+- **(g)**
+  - **(1)**
+    - **(A)** Not later than 90 days after the date on which the Trade Representative submits the National Trade Estimate under section 2241(b) of this title , the Trade Representative shall develop an action plan described in subparagraph (C) with respect to each foreign country described in subparagraph (B).
+    - **(B)** The Trade Representative shall develop an action plan under subparagraph (A) with respect to each foreign country that—
+      - **(i)** the Trade Representative has identified for placement on the priority watch list; and
+      - **(ii)** has remained on such list for at least one year.
+    - **(C)** An action plan developed under subparagraph (A) shall contain the benchmarks described in subparagraph (D) and be designed to assist the foreign country—
+      - **(i)** to achieve—
+        - **(I)** adequate and effective protection of intellectual property rights; and
+        - **(II)** fair and equitable market access for United States persons that rely upon intellectual property protection; or
+      - **(ii)** to make significant progress toward achieving the goals described in clause (i).
+    - **(D)** The benchmarks contained in an action plan developed pursuant to subparagraph (A) are such legislative, institutional, enforcement, or other actions as the Trade Representative determines to be necessary for the foreign country to achieve the goals described in clause (i) or (ii) of subparagraph (C).
+  - **(2)** If, as of one year after the date on which an action plan is developed under paragraph (1)(A), the President, in consultation with the Trade Representative, determines that the foreign country to which the action plan applies has not substantially complied with the benchmarks described in paragraph (1)(D), the President may take appropriate action with respect to the foreign country.
+  - **(3)** In this subsection, the term “priority watch list” means the priority watch list established by the Trade Representative pursuant to subsection (a).
+- **(h)** Not later than 30 days after the date on which the Trade Representative submits the National Trade Estimate under section 2241(b) of this title , the Trade Representative shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on actions taken under this section during the 12 months preceding such report, and the reasons for such actions, including—
+  - **(1)** a list of any foreign countries identified under subsection (a);
+  - **(2)** a description of progress made in achieving improved intellectual property protection and market access for persons relying on intellectual property rights; and
+  - **(3)** a description of the action plans developed under subsection (g) and any actions taken by foreign countries under such plans.

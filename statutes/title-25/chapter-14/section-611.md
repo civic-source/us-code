@@ -1,14 +1,12 @@
 ---
-title: "Section 611 - Division of trust fund on deposit in United States Treasury to joint credit of both tribes"
+title: "Section 611 - Omitted"
 usc_title: 25
 usc_section: "611"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 611"
-generated_at: "2026-03-29T18:05:17.076Z"
+generated_at: "2026-03-29T18:25:23.698Z"
 ---
 
-# § 611. Division of trust fund on deposit in United States Treasury to joint credit of both tribes
-
-The Secretary of the Interior is authorized and directed to divide the trust funds on deposit in the Treasury of the United States to the joint credit of the Shoshone and Arapaho Tribes of the Wind River Reservation, Wyoming, including the unexpended balance of the treaty funds arising under section 12 of the Act of June 7, 1897 ( 30 Stat. 93 ), between the Shoshone Tribe and the Arapaho Tribe, crediting one-half of the total amount in the principal account to a principal trust fund account and one-half of the total amount in the interest account to an interest trust fund account for each tribe: Provided , That in dividing the funds there shall be taken into consideration in determining the amount to be credited to each tribe the outstanding loans made from joint trust funds to the Indians of each tribe.
+# § 611. Omitted
 

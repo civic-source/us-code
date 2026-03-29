@@ -3,9 +3,9 @@ title: "Section 1321 - Eligibility requirements for transfer of funds; reimburse
 usc_title: 42
 usc_section: "1321"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1321"
-generated_at: "2026-03-29T18:07:13.848Z"
+generated_at: "2026-03-29T18:27:03.007Z"
 ---
 
 # § 1321. Eligibility requirements for transfer of funds; reimbursement by State; application; certification; limitation
@@ -21,4 +21,4 @@ generated_at: "2026-03-29T18:07:13.848Z"
     - **(A)** an application for an advance shall be made on such forms, and shall contain such information and data (fiscal and otherwise) concerning the operation and administration of the State unemployment compensation law, as the Secretary of Labor deems necessary or relevant to the performance of his duties under this subchapter,
     - **(B)** the amount required by any State for the payment of compensation in any month shall be determined with due allowance for contingencies and taking into account all other amounts that will be available in the State’s unemployment fund for the payment of compensation in such month, and
     - **(C)** the term “compensation” means cash benefits payable to individuals with respect to their unemployment, exclusive of expenses of administration.
-- **(b)** The Secretary of the Treasury shall, prior to audit or settlement by the Government Accountability Office, transfer in monthly installments from the Federal unemployment account to the account of the State in the Unemployment Trust Fund the amount certified under subsection (a) of this section by the Secretary of Labor (but not exceeding that portion of the balance in the Federal unemployment account at the time of the transfer which is not restricted as to use pursuant to section 1103(b)(1) of this title ). The amount of any monthly installment so transferred shall not exceed the amount estimated by the State to be required for the payment of compensation for the month with respect to which such installment is made.
+- **(b)** The Secretary of the Treasury shall, prior to audit or settlement by the Government Accountability Office, transfer in monthly installments from the Federal unemployment account to the account of the State in the Unemployment Trust Fund the amount certified under subsection (a) by the Secretary of Labor (but not exceeding that portion of the balance in the Federal unemployment account at the time of the transfer which is not restricted as to use pursuant to section 1103(b)(1) of this title ). The amount of any monthly installment so transferred shall not exceed the amount estimated by the State to be required for the payment of compensation for the month with respect to which such installment is made.

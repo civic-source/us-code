@@ -3,9 +3,9 @@ title: "Section 619 - Increase in capacity of existing generating equipment at H
 usc_title: 43
 usc_section: "619"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 619"
-generated_at: "2026-03-29T18:06:28.297Z"
+generated_at: "2026-03-29T18:26:14.823Z"
 ---
 
 # § 619. Increase in capacity of existing generating equipment at Hoover Powerplant; construction of Colorado River bridge crossing

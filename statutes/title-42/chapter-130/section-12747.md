@@ -3,15 +3,15 @@ title: "Section 12747 - Allocation of resources"
 usc_title: 42
 usc_section: "12747"
 chapter: 130
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 12747"
-generated_at: "2026-03-29T18:07:15.278Z"
+generated_at: "2026-03-29T18:27:04.089Z"
 ---
 
 # § 12747. Allocation of resources
 
 - **(a)**
-  - **(1)** After reserving amounts under paragraph (3) for the insular areas, the Secretary shall allocate funds approved in an appropriation Act to carry out this subchapter by formula as provided in subsection (b) of this section. Of the funds made available under the preceding sentence, the Secretary shall initially allocate 60 percent among units of general local government and 40 percent among States.
+  - **(1)** After reserving amounts under paragraph (3) for the insular areas, the Secretary shall allocate funds approved in an appropriation Act to carry out this subchapter by formula as provided in subsection (b). Of the funds made available under the preceding sentence, the Secretary shall initially allocate 60 percent among units of general local government and 40 percent among States.
   - **(2)**
   - **(3)** For each fiscal year, of any amounts approved in appropriation Acts to carry out this subchapter, the Secretary shall reserve for grants to the insular areas the greater of (A) $750,000, or (B) 0.2 percent of the amounts appropriated under such Acts. The Secretary shall provide for the distribution of amounts reserved under this paragraph among the insular areas pursuant to specific criteria for such distribution, which shall be contained in a regulation issued by the Secretary.
 - **(b)**

@@ -3,9 +3,9 @@ title: "Section 2071 - Lump-sum payments"
 usc_title: 50
 usc_section: "2071"
 chapter: 38
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 2071"
-generated_at: "2026-03-29T18:07:43.060Z"
+generated_at: "2026-03-29T18:27:35.628Z"
 ---
 
 # § 2071. Lump-sum payments
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T18:07:43.060Z"
   - **(3)** is not reemployed in a position in which the participant is subject to this subchapter at the time the participant files the application; and
   - **(4)** will not become eligible to receive an annuity under this subchapter within 31 days after filing the application,
 - **(b)**
-  - **(1)** Whenever a former participant becomes entitled to receive payment of the lump-sum credit under subsection (a) of this section, such lump-sum credit shall be paid to the former participant and to any former spouse or former wife or husband of the former participant in accordance with paragraphs (2) through (4). The former participant’s lump-sum credit shall be reduced by the amount of the lump-sum credit payable to any former spouse or former wife or husband.
+  - **(1)** Whenever a former participant becomes entitled to receive payment of the lump-sum credit under subsection (a), such lump-sum credit shall be paid to the former participant and to any former spouse or former wife or husband of the former participant in accordance with paragraphs (2) through (4). The former participant’s lump-sum credit shall be reduced by the amount of the lump-sum credit payable to any former spouse or former wife or husband.
   - **(2)** Unless otherwise expressly provided by any spousal agreement or court order under section 2094(b) of this title , a former spouse of the former participant shall be entitled to receive a share of such participant’s lump-sum credit—
     - **(A)** if married to the participant throughout the period of creditable service of the participant, equal to 50 percent of such lump-sum credit; or
     - **(B)** if not married to the participant throughout such creditable service, equal to a proportion of 50 percent of such lump-sum credit which is the proportion that the number of days of the marriage of the former spouse to the participant during periods of creditable service of such participant bears to the total number of days of such creditable service.
@@ -34,10 +34,10 @@ generated_at: "2026-03-29T18:07:43.060Z"
   - **(5)** If none of the above, to the duly appointed executor or administrator of the estate of such participant.
   - **(6)** If none of the above, to such other next of kin of such participant as the Director determines to be legally entitled to such payment.
 - **(d)**
-  - **(1)** Except as provided in paragraph (2), if a former participant eligible for a deferred annuity under section 2054 of this title dies before reaching age 62, such former participant’s lump-sum credit shall be paid in accordance with subsection (c) of this section.
-  - **(2)** In any case where there is a surviving former spouse or surviving former wife or husband of such participant who is entitled to a share of such participant’s lump-sum credit under paragraphs (2) and (3) of subsection (b) of this section, the lump-sum credit payable under paragraph (1) shall be reduced by the lump-sum credit payable to such former spouse or former wife or husband.
-- **(e)** If all annuity rights under this subchapter based on the service of a deceased participant or annuitant terminate before the total annuity paid equals the lump-sum credit, the difference shall be paid in accordance with subsection (c) of this section.
-- **(f)** If a retired participant dies, any annuity accrued and unpaid shall be paid in accordance with subsection (c) of this section.
+  - **(1)** Except as provided in paragraph (2), if a former participant eligible for a deferred annuity under section 2054 of this title dies before reaching age 62, such former participant’s lump-sum credit shall be paid in accordance with subsection (c).
+  - **(2)** In any case where there is a surviving former spouse or surviving former wife or husband of such participant who is entitled to a share of such participant’s lump-sum credit under paragraphs (2) and (3) of subsection (b), the lump-sum credit payable under paragraph (1) shall be reduced by the lump-sum credit payable to such former spouse or former wife or husband.
+- **(e)** If all annuity rights under this subchapter based on the service of a deceased participant or annuitant terminate before the total annuity paid equals the lump-sum credit, the difference shall be paid in accordance with subsection (c).
+- **(f)** If a retired participant dies, any annuity accrued and unpaid shall be paid in accordance with subsection (c).
 - **(g)** An annuity accrued and unpaid on the termination, except by death, of the annuity of a survivor annuitant shall be paid to that individual. An annuity accrued and unpaid on the death of a survivor annuitant shall be paid in the following order of precedence, and the payment bars recovery by any other individual:
   - **(1)** To the duly appointed executor or administrator of the estate of the survivor annuitant.
   - **(2)** If there is no executor or administrator, to such next of kin of the survivor annuitant as the Director determines to be legally entitled to such payment, except that no payment shall be made under this paragraph until after the expiration of 30 days from the date of death of the survivor annuitant.

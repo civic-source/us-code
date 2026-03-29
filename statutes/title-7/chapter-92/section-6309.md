@@ -3,14 +3,14 @@ title: "Section 6309 - Administrative provisions"
 usc_title: 7
 usc_section: "6309"
 chapter: 92
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 6309"
-generated_at: "2026-03-29T18:04:05.075Z"
+generated_at: "2026-03-29T18:23:43.475Z"
 ---
 
 # § 6309. Administrative provisions
 
-- **(a)** Except as provided in subsection (b) of this section, nothing in this chapter may be construed to—
+- **(a)** Except as provided in subsection (b), nothing in this chapter may be construed to—
   - **(1)** preempt or supersede any other program relating to soybean promotion, research, consumer information, or industry information organized and operated under the laws of the United States or any State; or
   - **(2)** authorize the withholding of any information from Congress.
 - **(b)**

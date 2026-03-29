@@ -1,14 +1,12 @@
 ---
-title: "Section 17g - Equipment required by field employees; by whom furnished and maintained"
+title: "Section 17g - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "17g"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 17g"
-generated_at: "2026-03-29T18:05:06.377Z"
+generated_at: "2026-03-29T18:24:22.403Z"
 ---
 
-# § 17g. Equipment required by field employees; by whom furnished and maintained
-
-The Secretary of the Interior may require field employees of the National Park Service to furnish horses, motor and other vehicles, and miscellaneous equipment necessary for the performance of their official work; and he may provide, at Government expense, forage, care, and housing for animals, and housing or storage and fuel for vehicles and other equipment so required to be furnished.
+# § 17g. Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272
 

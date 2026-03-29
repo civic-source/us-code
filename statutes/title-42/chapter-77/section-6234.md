@@ -3,9 +3,9 @@ title: "Section 6234 - Strategic Petroleum Reserve"
 usc_title: 42
 usc_section: "6234"
 chapter: 77
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 6234"
-generated_at: "2026-03-29T18:07:14.731Z"
+generated_at: "2026-03-29T18:27:03.674Z"
 ---
 
 # § 6234. Strategic Petroleum Reserve

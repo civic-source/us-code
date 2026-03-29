@@ -3,17 +3,17 @@ title: "Section 290kk - Applicability to designated programs"
 usc_title: 42
 usc_section: "290kk"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 290kk"
-generated_at: "2026-03-29T18:07:13.457Z"
+generated_at: "2026-03-29T18:27:02.681Z"
 ---
 
 # § 290kk. Applicability to designated programs
 
-- **(a)** Subject to subsection (b) of this section, this part applies to discretionary and formula grant programs administered by the Substance Abuse and Mental Health Services Administration that make awards of financial assistance to public or private entities for the purpose of carrying out activities to prevent or treat substance abuse (in this part referred to as a “designated program”). Designated programs include the program under subpart II of part B of subchapter XVII of this chapter (relating to formula grants to the States).
-- **(b)** This part does not apply to any award of financial assistance under a designated program for a purpose other than the purpose specified in subsection (a) of this section.
-- **(c)** For purposes of this part (and subject to subsection (b) of this section):
-  - **(1)** The term “designated program” has the meaning given such term in subsection (a) of this section.
+- **(a)** Subject to subsection (b), this part applies to discretionary and formula grant programs administered by the Substance Abuse and Mental Health Services Administration that make awards of financial assistance to public or private entities for the purpose of carrying out activities to prevent or treat substance abuse (in this part referred to as a “designated program”). Designated programs include the program under subpart II of part B of subchapter XVII (relating to formula grants to the States).
+- **(b)** This part does not apply to any award of financial assistance under a designated program for a purpose other than the purpose specified in subsection (a).
+- **(c)** For purposes of this part (and subject to subsection (b)):
+  - **(1)** The term “designated program” has the meaning given such term in subsection (a).
   - **(2)** The term “financial assistance” means a grant, cooperative agreement, or contract.
   - **(3)** The term “program beneficiary” means an individual who receives program services.
   - **(4)** The term “program participant” means a public or private entity that has received financial assistance under a designated program.

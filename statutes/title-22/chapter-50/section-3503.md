@@ -3,9 +3,9 @@ title: "Section 3503 - Functions"
 usc_title: 22
 usc_section: "3503"
 chapter: 50
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 3503"
-generated_at: "2026-03-29T18:05:21.909Z"
+generated_at: "2026-03-29T18:24:54.281Z"
 ---
 
 # § 3503. Functions
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T18:05:21.909Z"
   - **(4)** advise and assist other agencies of the United States Government in planning and executing policies and programs of scientific and technological cooperation with developing countries;
   - **(5)** facilitate the participation of private United States institutions, businesses, and individuals in scientific and technological cooperation with developing countries; and
   - **(6)** gather, analyze, and disseminate information relevant to the scientific and technological needs of developing countries.
-- **(b)** In carrying out the functions specified in subsection (a) of this section, the Institute shall take particular care to review all of its programs, projects, and other activities to ensure that technologies which are developed, utilized, or promoted are assessed with regard to minimizing any new problems and that participants in such programs, projects, and activities are fully aware of the need for such review with respect to any technology-related activities for which the 1 1 So in original. Probably should be “they”. are responsible.
+- **(b)** In carrying out the functions specified in subsection (a), the Institute shall take particular care to review all of its programs, projects, and other activities to ensure that technologies which are developed, utilized, or promoted are assessed with regard to minimizing any new problems and that participants in such programs, projects, and activities are fully aware of the need for such review with respect to any technology-related activities for which the 1 1 So in original. Probably should be “they”. are responsible.
 - **(c)** For purposes of carrying out the functions of the Institute, the President may utilize, in addition to authorities conferred by this chapter, such authority contained in the Foreign Assistance Act of 1961 [ 22 U.S.C. 2151 et seq.], the Foreign Service Act of 1980 [ 22 U.S.C. 3901 et seq.], title V of the Foreign Relations Authorization Act, Fiscal Year 1979 [ 22 U.S.C. 2656a to 2656d], and title IV of the International Development and Food Assistance Act of 1978 [ 22 U.S.C. 2385a ], as the President deems necessary.
 - **(d)** The Institute shall carry out its functions in consultation and cooperation with the agencies of the United States Government, international organizations, and agencies of other governments engaged in promoting economic, social, and technological development in developing countries.
 - **(e)** The President shall prescribe appropriate procedures to assure coordination of the activities of the Institute with other activities of the United States Government in furthering the use of science and technology in the cause of development.

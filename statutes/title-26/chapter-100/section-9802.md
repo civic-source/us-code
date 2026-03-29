@@ -3,9 +3,9 @@ title: "Section 9802 - Prohibiting discrimination against individual participant
 usc_title: 26
 usc_section: "9802"
 chapter: 100
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 9802"
-generated_at: "2026-03-29T18:05:45.093Z"
+generated_at: "2026-03-29T18:25:54.014Z"
 ---
 
 # § 9802. Prohibiting discrimination against individual participants and beneficiaries based on health status
@@ -54,6 +54,6 @@ generated_at: "2026-03-29T18:05:45.093Z"
 - **(f)** A church plan (as defined in section 414(e)) shall not be treated as failing to meet the requirements of this section solely because such plan requires evidence of good health for coverage of—
   - **(1)** both any employee of an employer with 10 or less employees (determined without regard to section 414(e)(3)(C)) and any self-employed individual, or
   - **(2)** any individual who enrolls after the first 90 days of initial eligibility under the plan.
-- **(f)** Any reference in this chapter to genetic information concerning an individual or family member of an individual shall—
+- **(g)** Any reference in this chapter to genetic information concerning an individual or family member of an individual shall—
   - **(1)** with respect to such an individual or family member of an individual who is a pregnant woman, include genetic information of any fetus carried by such pregnant woman; and
   - **(2)** with respect to an individual or family member utilizing an assisted reproductive technology, include genetic information of any embryo legally held by the individual or family member.

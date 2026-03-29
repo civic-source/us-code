@@ -1,28 +1,12 @@
 ---
-title: "Section 566f - Economic development"
+title: "Section 566f - Omitted"
 usc_title: 25
 usc_section: "566f"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 566f"
-generated_at: "2026-03-29T18:05:17.073Z"
+generated_at: "2026-03-29T18:25:23.697Z"
 ---
 
-# § 566f. Economic development
+# § 566f. Omitted
 
-- **(a)** The Secretary shall—
-  - **(1)**
-    - **(A)** enter into negotiations with the Executive Committee of the General Council with respect to establishing a plan for economic development for the tribe; and
-    - **(B)** in accordance with this section and not later than two years after August 27, 1986 , develop such a plan.
-  - **(2)** Upon the approval of such plan by the General Council (and after consultation with the State and local officials pursuant to subsection (b) of this section), the Secretary shall submit such plan to the Congress.
-- **(b)** To assure that legitimate State and local interests are not prejudiced by the proposed economic self-sufficiency plan, the Secretary shall notify and consult with the appropriate officials of the State and all appropriate local governmental officials in the State. The Secretary shall provide complete information on the proposed plan to such officials, including the restrictions on such proposed plan imposed by subsection (c) of this section. During any consultation by the Secretary under this subsection, the Secretary shall provide such information as the Secretary may possess, and shall request comments and additional information on the extent of any State or local service to the tribe.
-- **(c)** Any plan developed by the Secretary under subsection (a) of this section shall provide that—
-  - **(1)** any real property transferred by the tribe or any member to the Secretary shall be taken and held in the name of the United States for the benefit of the tribe;
-  - **(2)** any real property taken in trust by the Secretary pursuant to such plan shall be subject to—
-    - **(A)** all legal rights and interests in such land existing at the time of the acquisition of such land by the Secretary, including any lien, mortgage, or previously levied and outstanding State or local tax; and
-    - **(B)** foreclosure or sale in accordance with the laws of the State pursuant to the terms of any valid obligation in existence at the time of the acquisition of such land by the Secretary; and
-  - **(3)** any real property transferred pursuant to such plan shall be exempt from Federal, State, and local taxation of any kind.
-- **(d)** The Secretary shall append to the plan submitted to the Congress under subsection (a) of this section a detailed statement—
-  - **(1)** naming each individual and official consulted in accordance with subsection (b) of this section;
-  - **(2)** summarizing the testimony received by the Secretary pursuant to any such consultation; and
-  - **(3)** including any written comments or reports submitted to the Secretary by any party named in paragraph (1).

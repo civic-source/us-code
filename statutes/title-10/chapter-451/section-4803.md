@@ -3,9 +3,9 @@ title: "Section 4803 - Admiralty claims by United States"
 usc_title: 10
 usc_section: "4803"
 chapter: 451
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 4803"
-generated_at: "2026-03-29T18:04:13.247Z"
+generated_at: "2026-03-29T18:23:52.038Z"
 ---
 
 # § 4803. Admiralty claims by United States

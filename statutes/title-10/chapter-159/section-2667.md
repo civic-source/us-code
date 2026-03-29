@@ -3,9 +3,9 @@ title: "Section 2667 - Leases: non-excess property of military departments and D
 usc_title: 10
 usc_section: "2667"
 chapter: 159
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2667"
-generated_at: "2026-03-29T18:04:13.199Z"
+generated_at: "2026-03-29T18:23:51.987Z"
 ---
 
 # § 2667. Leases: non-excess property of military departments and Defense Agencies
@@ -60,12 +60,13 @@ generated_at: "2026-03-29T18:04:13.199Z"
       - **(iii)** Lease of facilities.
       - **(iv)** Payment of utility services.
       - **(v)** Real property maintenance services.
+      - **(vi)** Administrative expenses incurred by the Secretary concerned under this section and for easements under section 2668 of this title .
     - **(D)** At least 50 percent of the proceeds deposited in the special account established for the Secretary concerned shall be available for activities described in subparagraph (C) only at the military installation or Defense Agency location where the proceeds were derived.
-    - **(E)** If the proceeds deposited in the special account established for the Secretary concerned are derived from activities associated with a military museum described in section 489(a) of this title , the proceeds shall be available for activities described in subparagraph (C) only at that museum.
+    - **(E)** If the proceeds deposited in the special account established for the Secretary concerned are derived from activities associated with a military museum described in section 489(a) 1 1 See References in Text note below. of this title, the proceeds shall be available for activities described in subparagraph (C) only at that museum.
   - **(2)** Payments for utilities and services furnished lessees pursuant to leases entered into under this section shall be credited to the appropriation account or working capital fund from which the cost of furnishing the utilities and services was paid.
   - **(3)** Money rentals received by the United States directly from a lease under this section for agricultural or grazing purposes of lands under the control of the Secretary concerned (other than lands acquired by the United States for flood control or navigation purposes or any related purpose, including the development of hydroelectric power) may be retained and spent by the Secretary concerned in such amounts as the Secretary considers necessary to cover the administrative expenses of leasing for such purposes and to cover the financing of multiple-land use management programs at any installation under the jurisdiction of the Secretary.
-  - **(4)** Money rentals received by the United States from a lease under subsection (g) at a military installation approved for closure or realignment under a base closure law before January 1, 2005 , shall be deposited into the account established under section 2906(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510 ; 10 U.S.C. 2687 note).
-  - **(5)** Money rentals received by the United States from a lease under subsection (g) at a military installation approved for closure or realignment under a base closure law on or after January 1, 2005 , shall be deposited into the account established under section 2906A(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510 ; 10 U.S.C. 2687 note).
+  - **(4)** Money rentals received by the United States from a lease under subsection (g) at a military installation approved for closure or realignment under a base closure law before January 1, 2005 , shall be deposited into the account established under section 2906(a) 1 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510 ; 10 U.S.C. 2687 note).
+  - **(5)** Money rentals received by the United States from a lease under subsection (g) at a military installation approved for closure or realignment under a base closure law on or after January 1, 2005 , shall be deposited into the account established under section 2906A(a) 1 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510 ; 10 U.S.C. 2687 note).
 - **(f)** The interest of a lessee of property leased under this section may be taxed by State or local governments. A lease under this section shall provide that, if and to the extent that the leased property is later made taxable by State or local governments under an Act of Congress, the lease shall be renegotiated.
 - **(g)**
   - **(1)** Notwithstanding subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 (to the extent those provisions are inconsistent with this subsection) or subsection (a)(2) of this section, pending the final disposition of real property and personal property located at a military installation to be closed or realigned under a base closure law, the Secretary concerned may lease the property to any individual or entity under this subsection if the Secretary determines that such a lease would facilitate State or local economic adjustment efforts.
@@ -88,11 +89,18 @@ generated_at: "2026-03-29T18:04:13.199Z"
     - **(A)** Use of the ship is restricted to federally supported research programs and to non-Federal uses under specific conditions with approval by the Secretary of the Navy.
     - **(B)** Because of the anticipated value to the Navy of the oceanographic research and training that will result from the ship’s operation, no monetary lease payments are required from the lessee under the initial lease or under any renewal or extension.
     - **(C)** The lessee is required to maintain the ship in a good state of repair, readiness, and efficient operating condition, conform to all applicable regulatory requirements, and assume full responsibility for the safety of the ship, its crew, and scientific personnel aboard.
+  - **(4)**
+    - **(A)** Paragraph (1) does not apply to a renewal, extension, or succeeding lease by the Secretary concerned with a financial institution selected in accordance with the Department of Defense Financial Management Regulation providing for the selection of financial institutions to operate on military installations if each of the following applies:
+      - **(i)** The on-base financial institution was selected before the date of the enactment of this paragraph or competitive procedures are used for the selection of any new financial institutions.
+      - **(ii)** A current and binding operating agreement is in place between the installation commander and the selected on-base financial institution.
+    - **(B)** The renewal, extension, or succeeding lease shall terminate upon the termination of the operating agreement described in subparagraph (A)(ii) associated with that lease.
 - **(i)** In this section:
-  - **(1)** The term “community support facility” includes an ancillary supporting facility (as that term is defined in section 2871(1) of this title ).
-  - **(2)** The term “community support services” includes revenue-generating food, recreational, lodging support services, and resale operations and other retail facilities and services intended to support a community.
-  - **(3)** The term “military installation” has the meaning given such term in section 2687 of this title .
-  - **(4)** The term “Secretary concerned” means—
+  - **(1)** The term “administrative expenses” means only those expenses related to assessing, negotiating, executing, and managing lease and easement transactions. The term does not include any Government personnel costs.
+  - **(2)** The term “community support facility” includes an ancillary supporting facility (as that term is defined in section 2871(1) of this title ).
+  - **(3)** The term “community support services” includes revenue-generating food, recreational, lodging support services, and resale operations and other retail facilities and services intended to support a community.
+  - **(4)** The term “military installation” has the meaning given such term in section 2687 of this title .
+  - **(5)** The term “Secretary concerned” means—
     - **(A)** the Secretary of a military department, with respect to matters concerning that military department; and
     - **(B)** the Secretary of Defense, with respect to matters concerning the Defense Agencies.
 - **(j)** This section does not apply to oil, mineral, or phosphate lands.
+- **(k)** Notwithstanding subsection (b)(4), the Secretary concerned may accept consideration in an amount that is less than the fair market value of the lease, if the lease is to a local education agency or an elementary or secondary school (as those terms are defined in section 9101 1 of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7801 )).

@@ -1,14 +1,20 @@
 ---
-title: "Section 856 - Art. 56. Maximum limits"
+title: "Section 856 - Art. 56. Maximum and minimum limits"
 usc_title: 10
 usc_section: "856"
 chapter: 47
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 856"
-generated_at: "2026-03-29T18:04:13.014Z"
+generated_at: "2026-03-29T18:23:51.764Z"
 ---
 
-# § 856. Art. 56. Maximum limits
+# § 856. Art. 56. Maximum and minimum limits
 
-The punishment which a court-martial may direct for an offense may not exceed such limits as the President may prescribe for that offense.
-
+- **(a)** The punishment which a court-martial may direct for an offense may not exceed such limits as the President may prescribe for that offense.
+- **(b)**
+  - **(1)** While a person subject to this chapter who is found guilty of an offense specified in paragraph (2) shall be punished as a general court-martial may direct, such punishment must include, at a minimum, dismissal or dishonorable discharge, except as provided for in section 860 of this title (article 60).
+  - **(2)** Paragraph (1) applies to the following offenses:
+    - **(A)** An offense in violation of subsection (a) or (b) of section 920 of this title (article 120(a) or (b)).
+    - **(B)** Rape and sexual assault of a child under subsection (a) or (b) of section 920b of this title (article 120b).
+    - **(C)** Forcible sodomy under section 925 of this title (article 125).
+    - **(D)** An attempt to commit an offense specified in subparagraph (A), (B), or (C) that is punishable under section 880 of this title (article 80).

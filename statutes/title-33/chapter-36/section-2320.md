@@ -3,9 +3,9 @@ title: "Section 2320 - Protection of recreational and commercial uses"
 usc_title: 33
 usc_section: "2320"
 chapter: 36
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 2320"
-generated_at: "2026-03-29T18:06:10.597Z"
+generated_at: "2026-03-29T18:26:01.298Z"
 ---
 
 # § 2320. Protection of recreational and commercial uses
@@ -17,6 +17,6 @@ generated_at: "2026-03-29T18:06:10.597Z"
   - **(2)** The Secretary may not expend more than $2,000,000 in a fiscal year to carry out this subsection.
   - **(3)** This subsection shall not be effective after the last day of the 5-year period beginning on November 28, 1990 ; except that the Secretary may complete any restoration commenced under this subsection on or before such last day.
 - **(d)**
-  - **(1)** Subsections (b) and (c) of this section shall apply to maintenance, repair, rehabilitation, or reconstruction for which physical construction is initiated after May 1, 1988 .
-  - **(2)** Subsections (b) and (c) of this section shall not apply to any action of the Secretary which is necessary to discontinue the operation of a water resources project.
+  - **(1)** Subsections (b) and (c) shall apply to maintenance, repair, rehabilitation, or reconstruction for which physical construction is initiated after May 1, 1988 .
+  - **(2)** Subsections (b) and (c) shall not apply to any action of the Secretary which is necessary to discontinue the operation of a water resources project.
 - **(e)** Costs incurred by the Secretary to carry out the objectives of this section shall be allocated to recreation and shall be payable by the beneficiaries of the recreation.

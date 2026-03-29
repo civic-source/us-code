@@ -3,9 +3,9 @@ title: "Section 2306c - Multiyear contracts: acquisition of services"
 usc_title: 10
 usc_section: "2306c"
 chapter: 137
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2306c"
-generated_at: "2026-03-29T18:04:13.143Z"
+generated_at: "2026-03-29T18:23:51.910Z"
 ---
 
 # § 2306c. Multiyear contracts: acquisition of services
@@ -41,5 +41,5 @@ generated_at: "2026-03-29T18:04:13.143Z"
   - **(2)** appropriations currently available for procurement of the type of services concerned, and not otherwise obligated; or
   - **(3)** funds appropriated for those payments.
 - **(f)** For the purposes of this section, a multiyear contract is a contract for the purchase of services for more than one, but not more than five, program years. Such a contract may provide that performance under the contract during the second and subsequent years of the contract is contingent upon the appropriation of funds and (if it does so provide) may provide for a cancellation payment to be made to the contractor if such appropriations are not made.
-- **[(g)** Repealed. Pub. L. 108–136, div. A, title VIII, § 843(a) , Nov. 24, 2003 , 117 Stat. 1553 .]
+- **[(g)** Repealed. Pub. L. 108–136, div. A, title VIII , § 843(a), Nov. 24, 2003 , 117 Stat. 1553 .]
 - **(h)** In this section, the term “military installation” has the meaning given such term in section 2801(c)(4) of this title .

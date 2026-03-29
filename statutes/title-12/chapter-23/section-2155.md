@@ -3,9 +3,9 @@ title: "Section 2155 - Liability of banks; United States not liable"
 usc_title: 12
 usc_section: "2155"
 chapter: 23
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 2155"
-generated_at: "2026-03-29T18:04:43.631Z"
+generated_at: "2026-03-29T18:24:02.959Z"
 ---
 
 # § 2155. Liability of banks; United States not liable
@@ -19,6 +19,6 @@ generated_at: "2026-03-29T18:04:43.631Z"
     - **(D)** If the Farm Credit Administration makes any such call and the available collateral of all such banks does not fully satisfy the liability necessitating such calls, such calls shall be made on all nondefaulting banks in proportion to each such bank’s remaining assets.
     - **(E)** Any System bank that, pursuant to a call by the Farm Credit Administration, makes a payment of principal or interest to the holder of any consolidated or System-wide obligation issued on behalf of another System bank shall be subrogated to all rights of the holder against such other bank to the extent of such payment.
     - **(F)** On making such a call with respect to obligations issued on behalf of a System bank, the Farm Credit Administration shall appoint a receiver for the bank, which shall expeditiously liquidate or otherwise wind up the affairs of the bank.
-- **(b)** Each bank participating in an issue shall by appropriate resolution undertake such responsibility as provided in subsection (a) of this section, and in the case of consolidated or System-wide obligations shall authorize the execution of such long-term notes, bonds, debentures, or other obligations on its behalf. When a consolidated or System-wide issue is approved, the notes, bonds, debentures, or other obligations shall be executed and the banks shall be liable thereon as provided herein.
+- **(b)** Each bank participating in an issue shall by appropriate resolution undertake such responsibility as provided in subsection (a), and in the case of consolidated or System-wide obligations shall authorize the execution of such long-term notes, bonds, debentures, or other obligations on its behalf. When a consolidated or System-wide issue is approved, the notes, bonds, debentures, or other obligations shall be executed and the banks shall be liable thereon as provided herein.
 - **(c)** The United States shall not be liable or assume any liability directly or indirectly thereon.
 - **(d)** Beginning 5 years after January 6, 1988 , the Farm Credit Administration shall not call on any System institution to satisfy the liability of the institution on any joint, consolidated, or System-wide obligation participated in by the institution or with respect to which the institution is primarily, or jointly and severally, liable, before the Farm Credit Insurance Fund is exhausted, even if the Fund is only able to make a partial payment because of insufficient amounts in the Fund.

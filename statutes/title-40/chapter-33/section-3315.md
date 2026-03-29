@@ -1,16 +1,16 @@
 ---
-title: "Section 3315 - Report to Congress"
+title: "Section 3315 - Delegation"
 usc_title: 40
 usc_section: "3315"
 chapter: 33
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "40 U.S.C. § 3315"
-generated_at: "2026-03-29T18:06:19.961Z"
+generated_at: "2026-03-29T18:26:04.567Z"
 ---
 
-# § 3315. Report to Congress
+# § 3315. Delegation
 
-- **(a)** Within a reasonable time after a request of either House of Congress or any committee of Congress, the Administrator of General Services shall submit a report showing the location, space, cost, and status of each public building the construction, alteration, or acquisition of which—
-  - **(1)** is to be under authority of this chapter; and
-  - **(2)** was uncompleted as of the date of the request, or as of another date the request may designate.
-- **(b)** The Administrator and the United States Postal Service shall make building project surveys requested by resolution by the Committee on Environment and Public Works of the Senate or the Committee on Transportation and Infrastructure of the House of Representatives, and within a reasonable time shall make a report on the survey to Congress. The report shall contain all other information required to be included in a prospectus of the proposed public building project under section 3307(b) of this title .
+- **(a)** The carrying out of the duties and powers of the Administrator of General Services under this chapter, in accordance with standards the Administrator prescribes—
+  - **(1)** shall, except for the authority contained in section 3305(b) of this title , be delegated on request to the appropriate executive agency when the estimated cost of the project does not exceed $100,000; and
+  - **(2)** may be delegated to the appropriate executive agency when the Administrator determines that delegation will promote efficiency and economy.
+- **(b)** Delegation under subsection (a) does not exempt the person to whom the delegation is made, or the carrying out of the delegated duty or power, from any other provision of this chapter.

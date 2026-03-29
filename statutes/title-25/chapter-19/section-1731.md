@@ -1,14 +1,12 @@
 ---
-title: "Section 1731 - Other claims discharged by this subchapter"
+title: "Section 1731 - Omitted"
 usc_title: 25
 usc_section: "1731"
 chapter: 19
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1731"
-generated_at: "2026-03-29T18:05:17.175Z"
+generated_at: "2026-03-29T18:25:23.750Z"
 ---
 
-# § 1731. Other claims discharged by this subchapter
-
-Except as expressly provided herein, this subchapter shall constitute a general discharge and release of all obligations of the State of Maine and all of its political subdivisions, agencies, departments, and all of the officers or employees thereof arising from any treaty or agreement with, or on behalf of any Indian nation, or tribe or band of Indians or the United States as trustee therefor, including those actions now pending in the United States District Court for the District of Maine captioned United States of America against State of Maine (Civil Action Nos. 1966–ND and 1969–ND).
+# § 1731. Omitted
 

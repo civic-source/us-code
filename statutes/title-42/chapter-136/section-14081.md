@@ -3,15 +3,15 @@ title: "Section 14081 - Rural Crime and Drug Enforcement Task Forces"
 usc_title: 42
 usc_section: "14081"
 chapter: 136
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 14081"
-generated_at: "2026-03-29T18:07:15.365Z"
+generated_at: "2026-03-29T18:27:04.155Z"
 ---
 
 # § 14081. Rural Crime and Drug Enforcement Task Forces
 
 - **(a)** The Attorney General, in consultation with the Governors, mayors, and chief executive officers of State and local law enforcement agencies, may establish a Rural Crime and Drug Enforcement Task Force in judicial districts that encompass significant rural lands. Assets seized as a result of investigations initiated by a Rural Crime and Drug Enforcement Task Force and forfeited under Federal law shall be used, consistent with the guidelines on equitable sharing established by the Attorney General and of the Secretary of the Treasury, primarily to enhance the operations of the task force and its participating State and local law enforcement agencies.
-- **(b)** The Task Forces 1 1 So in original. Probably should not be capitalized. established under subsection (a) of this section shall be carried out under policies and procedures established by the Attorney General. The Attorney General may deputize State and local law enforcement officers and may cross-designate up to 100 Federal law enforcement officers, when necessary to undertake investigations pursuant to section 873(a) of title 21 or offenses punishable by a term of imprisonment of 10 years or more under title 18. The task forces—
+- **(b)** The Task Forces 1 1 So in original. Probably should not be capitalized. established under subsection (a) shall be carried out under policies and procedures established by the Attorney General. The Attorney General may deputize State and local law enforcement officers and may cross-designate up to 100 Federal law enforcement officers, when necessary to undertake investigations pursuant to section 873(a) of title 21 or offenses punishable by a term of imprisonment of 10 years or more under title 18. The task forces—
   - **(1)** shall include representatives from—
     - **(A)** State and local law enforcement agencies;
     - **(B)** the office of the United States Attorney for the judicial district; and

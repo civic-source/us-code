@@ -3,9 +3,9 @@ title: "Section 101913 - Award of concession contracts"
 usc_title: 54
 usc_section: "101913"
 chapter: 1019
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "54 U.S.C. § 101913"
-generated_at: "2026-03-29T02:16:35.454Z"
+generated_at: "2026-03-29T18:27:38.915Z"
 ---
 
 # § 101913. Award of concession contracts
@@ -65,7 +65,7 @@ In furtherance of the findings and policy stated in section 101912 of this title
     - **(C)** A concessioner that holds a concession contract that the Secretary estimates will result in gross annual receipts of less than $500,000 if renewed shall be entitled to a preferential right of renewal under this subchapter if—
       - **(i)** the Secretary has determined that the concessioner has operated satisfactorily during the term of the contract (including any extension); and
       - **(ii)** the concessioner has submitted a responsive proposal for a proposed new concession contract that satisfies the minimum requirements established by the Secretary pursuant to paragraph (4).
-  - **(9)** The Secretary may propose to amend the applicable terms of an existing concessions contract to provide new and additional services where the Secretary determines the services are necessary and appropriate for public use and enjoyment of the unit of the National Park System in which they are located and are consistent to the highest practicable degree with the preservation and conservation of the resources and values of the unit. Such new and additional services shall not represent a material change to the required and authorized services as set forth in the applicable prospectus or contract.
+  - **(9)** The Secretary shall not grant a preferential right to a concessioner to provide new or additional services in a System unit.
   - **(10)** Nothing in this subchapter shall be construed as limiting the authority of the Secretary to determine whether to issue a concession contract or to establish its terms and conditions in furtherance of the policies expressed in this subchapter.
   - **(11)** Notwithstanding this section, the Secretary may award, without public solicitation, the following:
     - **(A)** To avoid interruption of services to the public at a System unit, the Secretary may award a temporary concession contract or an extension of an existing concessions contract for a term not to exceed 3 years, except that prior to making the award, the Secretary shall take all reasonable and appropriate steps to consider alternatives to avoid the interruption.

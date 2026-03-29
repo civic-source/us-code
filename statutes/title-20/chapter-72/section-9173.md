@@ -3,9 +3,9 @@ title: "Section 9173 - Museum services activities"
 usc_title: 20
 usc_section: "9173"
 chapter: 72
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 9173"
-generated_at: "2026-03-29T18:05:00.406Z"
+generated_at: "2026-03-29T18:24:41.179Z"
 ---
 
 # § 9173. Museum services activities
@@ -32,13 +32,13 @@ generated_at: "2026-03-29T18:05:00.406Z"
   - **(10)** supporting museums in research, program evaluation, and the collection and dissemination of information to museum professionals and the public; and
   - **(11)** encouraging, supporting, and disseminating model programs of museum and library collaboration.
 - **(b)**
-  - **(1)** Except as provided in paragraph (2), the Federal share described in subsection (a) of this section shall be not more than 50 percent.
-  - **(2)** The Director may use not more than 20 percent of the funds made available under this subchapter for a fiscal year to enter into arrangements under subsection (a) of this section for which the Federal share may be greater than 50 percent.
+  - **(1)** Except as provided in paragraph (2), the Federal share described in subsection (a) shall be not more than 50 percent.
+  - **(2)** The Director may use not more than 20 percent of the funds made available under this subchapter for a fiscal year to enter into arrangements under subsection (a) for which the Federal share may be greater than 50 percent.
   - **(3)** No funds for operational expenses may be provided under this section to any entity that is not a museum.
 - **(c)**
-  - **(1)** The Director shall establish procedures for reviewing and evaluating arrangements described in subsection (a) of this section entered into under this subchapter.
+  - **(1)** The Director shall establish procedures for reviewing and evaluating arrangements described in subsection (a) entered into under this subchapter.
   - **(2)** In awarding grants, the Director shall take into consideration the equitable distribution of grants to museums of various types and sizes and to different geographic areas of the United States 1 1 So in original. Probably should be followed by a period.
   - **(3)**
     - **(A)** The Director may use not more than 10 percent of the funds appropriated to carry out this subchapter for technical assistance.
     - **(B)** Individual museums may receive not more than 3 technical assistance awards under subparagraph (A). Subsequent awards for technical assistance shall be subject to review outside the Institute.
-- **(d)** From amounts appropriated under section 9176 of this title , the Director shall reserve 1.75 percent to award grants to, or enter into contracts or cooperative agreements with, Indian tribes and organizations that primarily serve and represent Native Hawaiians (as defined in section 7517 of this title ), to enable such tribes and organizations to carry out the activities described in subsection (a) of this section.
+- **(d)** From amounts appropriated under section 9176 of this title , the Director shall reserve 1.75 percent to award grants to, or enter into contracts or cooperative agreements with, Indian tribes and organizations that primarily serve and represent Native Hawaiians (as defined in section 7517 of this title ), to enable such tribes and organizations to carry out the activities described in subsection (a).

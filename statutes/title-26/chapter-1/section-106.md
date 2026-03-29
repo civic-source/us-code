@@ -3,9 +3,9 @@ title: "Section 106 - Contributions by employer to accident and health plans"
 usc_title: 26
 usc_section: "106"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 106"
-generated_at: "2026-03-29T18:05:44.472Z"
+generated_at: "2026-03-29T18:25:53.422Z"
 ---
 
 # § 106. Contributions by employer to accident and health plans
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T18:05:44.472Z"
   - **(6)** For purposes of this subsection, the terms “eligible individual” and “Archer MSA” have the respective meanings given to such terms by section 220.
   - **(7)** For penalty on failure by employer to make comparable contributions to the Archer MSAs of comparable employees, see section 4980E.
 - **(c)**
-  - **(1)** Effective on and after January 1, 1997 , gross income of an employee shall include employer-provided coverage for qualified long-term care services (as defined in section 7702B(c)) to the extent that such coverage is provided through a flexible spending or similar arrangement.
+  - **(1)** Gross income of an employee shall include employer-provided coverage for qualified long-term care services (as defined in section 7702B(c)) to the extent that such coverage is provided through a flexible spending or similar arrangement.
   - **(2)** For purposes of this subsection, a flexible spending arrangement is a benefit program which provides employees with coverage under which—
     - **(A)** specified incurred expenses may be reimbursed (subject to reimbursement maximums and other reasonable conditions), and
     - **(B)** the maximum amount of reimbursement which is reasonably available to a participant for such coverage is less than 500 percent of the value of such coverage.

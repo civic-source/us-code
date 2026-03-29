@@ -1,12 +1,12 @@
 ---
-title: "Section 1020o - Repealed. Aug. 14, 1946, ch. 964, § 2(a)(2) , 60 Stat. 1062"
+title: "Section 1020o - Repealed. Aug. 14, 1946, ch. 964 , § 2(a)(2), 60 Stat. 1062"
 usc_title: 12
 usc_section: "1020o"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 1020o"
-generated_at: "2026-03-29T18:04:43.420Z"
+generated_at: "2026-03-29T18:24:02.769Z"
 ---
 
-# § 1020o. Repealed. Aug. 14, 1946, ch. 964, § 2(a)(2) , 60 Stat. 1062
+# § 1020o. Repealed. Aug. 14, 1946, ch. 964 , § 2(a)(2), 60 Stat. 1062
 

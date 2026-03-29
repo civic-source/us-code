@@ -3,9 +3,9 @@ title: "Section 3371 - Definitions"
 usc_title: 5
 usc_section: "3371"
 chapter: 33
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 3371"
-generated_at: "2026-03-29T18:03:29.854Z"
+generated_at: "2026-03-29T18:23:29.877Z"
 ---
 
 # § 3371. Definitions
@@ -19,7 +19,7 @@ For the purpose of this subchapter—
     - **(A)** any political subdivision, instrumentality, or authority of a State or States as defined in subparagraph (A) of paragraph (1);
     - **(B)** any general or special purpose agency of such a political subdivision, instrumentality, or authority; and
     - **(C)** any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village as defined in the Alaska Native Claims Settlement Act ( 85 Stat. 688 ), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians and includes any tribal organization as defined in section 4 of the Indian Self-Determination and Education Assistance Act;
-  - **(3)** “Federal agency” means an Executive agency, military department, a court of the United States, the Administrative Office of the United States Courts, the Library of Congress, the Botanic Garden, the Government Printing Office, the Congressional Budget Office, the United States Postal Service, the Postal Regulatory Commission, the Office of the Architect of the Capitol, the Office of Technology Assessment, and such other similar agencies of the legislative and judicial branches as determined appropriate by the Office of Personnel Management; and
+  - **(3)** “Federal agency” means an Executive agency, military department, a court of the United States, the Administrative Office of the United States Courts, the Library of Congress, the Botanic Garden, the Government Publishing Office, the Congressional Budget Office, the United States Postal Service, the Postal Regulatory Commission, the Office of the Architect of the Capitol, the Office of Technology Assessment, and such other similar agencies of the legislative and judicial branches as determined appropriate by the Office of Personnel Management; and
   - **(4)** “other organization” means—
     - **(A)** a national, regional, State-wide, area-wide, or metropolitan organization representing member State or local governments;
     - **(B)** an association of State or local public officials;

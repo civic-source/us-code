@@ -3,9 +3,9 @@ title: "Section 2729 - State Department records of overseas deaths of United Sta
 usc_title: 22
 usc_section: "2729"
 chapter: 38
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 2729"
-generated_at: "2026-03-29T18:05:21.885Z"
+generated_at: "2026-03-29T18:24:54.256Z"
 ---
 
 # § 2729. State Department records of overseas deaths of United States citizens from nonnatural causes
@@ -15,5 +15,5 @@ generated_at: "2026-03-29T18:05:21.885Z"
   - **(2)** The locality where the death occurred (including the state or province and municipality, if available).
   - **(3)** The cause of death, including information on the circumstances of the death, and including, if the death resulted from an act of terrorism, a statement disclosing that information.
   - **(4)** Such other information as the Secretary shall prescribe.
-- **(b)** The Secretary shall establish and maintain a database containing the information collected under subsection (a) of this section.
-- **(c)** Beginning three months after September 30, 2002 , the Secretary, shall make available, on a country-by-country basis, on the Internet website of the Department’s Bureau of Consular Affairs, the information from the database described in subsection (b) of this section with respect to deaths occurring since September 30, 2002 , or occurring during the preceding three calendar years, whichever period is shorter. The information shall be updated at least every six months.
+- **(b)** The Secretary shall establish and maintain a database containing the information collected under subsection (a).
+- **(c)** Beginning three months after September 30, 2002 , the Secretary, shall make available, on a country-by-country basis, on the Internet website of the Department’s Bureau of Consular Affairs, the information from the database described in subsection (b) with respect to deaths occurring since September 30, 2002 , or occurring during the preceding three calendar years, whichever period is shorter. The information shall be updated at least every six months.

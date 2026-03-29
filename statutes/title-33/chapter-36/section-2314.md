@@ -3,9 +3,9 @@ title: "Section 2314 - Innovative technology"
 usc_title: 33
 usc_section: "2314"
 chapter: 36
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 2314"
-generated_at: "2026-03-29T18:06:10.596Z"
+generated_at: "2026-03-29T18:26:01.297Z"
 ---
 
 # § 2314. Innovative technology
@@ -22,4 +22,4 @@ generated_at: "2026-03-29T18:06:10.596Z"
   - **(3)** Each pilot project under paragraph (1) and demonstration project under paragraph (2) shall be conducted by a university with proven expertise in the research and development of contaminated sediment treatment technologies and innovative applications using waste materials.
   - **(4)** At least 1 of the projects under this subsection shall be conducted in New England by the University of New Hampshire.
 - **(c)** Within 2 years after November 17, 1988 , and thereafter at the Secretary’s discretion, the Secretary shall provide Congress with a report on the results of, and recommendations to increase, the development and use of innovative technology in water resources development projects under the Secretary’s jurisdiction. Such report shall also contain information regarding innovative technologies which the Secretary has considered and rejected for use in water resources development projects under the Secretary’s jurisdiction.
-- **(d)** For the purpose of this section, the term “innovative technology” means designs, materials, or methods which the Secretary determines are previously undemonstrated or are too new to be considered standard practice.
+- **(d)** For the purpose of this section, the term “innovative technology” means designs, methods, or materials, including roller compacted concrete, geosynthetic materials, and advanced composites, that the Secretary determines are appropriate to carry out this section.

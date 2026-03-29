@@ -1,12 +1,12 @@
 ---
-title: "Section 2712 - Repealed. Pub. L. 111–203, title XIV, § 1496(b)(7) , July 21, 2010 , 124 Stat. 2209"
+title: "Section 2712 - Repealed. Pub. L. 111–203, title XIV , § 1496(b)(7), July 21, 2010 , 124 Stat. 2209"
 usc_title: 12
 usc_section: "2712"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 2712"
-generated_at: "2026-03-29T18:04:43.664Z"
+generated_at: "2026-03-29T18:24:02.989Z"
 ---
 
-# § 2712. Repealed. Pub. L. 111–203, title XIV, § 1496(b)(7) , July 21, 2010 , 124 Stat. 2209
+# § 2712. Repealed. Pub. L. 111–203, title XIV , § 1496(b)(7), July 21, 2010 , 124 Stat. 2209
 

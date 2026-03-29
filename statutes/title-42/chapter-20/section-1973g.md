@@ -1,12 +1,12 @@
 ---
-title: "Section 1973g - Repealed. Pub. L. 109–246, § 3(c) , July 27, 2006 , 120 Stat. 580"
+title: "Section 1973g - Repealed. Pub. L. 109–246 , § 3(c), July 27, 2006 , 120 Stat. 580"
 usc_title: 42
 usc_section: "1973g"
 chapter: 20
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1973g"
-generated_at: "2026-03-29T18:07:14.354Z"
+generated_at: "2026-03-29T18:27:03.399Z"
 ---
 
-# § 1973g. Repealed. Pub. L. 109–246, § 3(c) , July 27, 2006 , 120 Stat. 580
+# § 1973g. Repealed. Pub. L. 109–246 , § 3(c), July 27, 2006 , 120 Stat. 580
 

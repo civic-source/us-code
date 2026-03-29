@@ -1,12 +1,12 @@
 ---
-title: "Section 3762 - Repealed. Pub. L. 109–162, title XI, § 1111(b)(1) , Jan. 5, 2006 , 119 Stat. 3101"
+title: "Section 3762 - Repealed. Pub. L. 109–162, title XI , § 1111(b)(1), Jan. 5, 2006 , 119 Stat. 3101"
 usc_title: 42
 usc_section: "3762"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 3762"
-generated_at: "2026-03-29T02:15:36.682Z"
+generated_at: "2026-03-29T18:27:03.530Z"
 ---
 
-# §§ 3760 to 3762. Repealed. Pub. L. 109–162, title XI, § 1111(b)(1) , Jan. 5, 2006 , 119 Stat. 3101
+# §§ 3760 to 3762. Repealed. Pub. L. 109–162, title XI , § 1111(b)(1), Jan. 5, 2006 , 119 Stat. 3101
 

@@ -1,14 +1,12 @@
 ---
-title: "Section 5611 - Annual report"
+title: "Section 5611 - Repealed. Pub. L. 113–188, title II , § 201(f), Nov. 26, 2014 , 128 Stat. 2018"
 usc_title: 16
 usc_section: "5611"
 chapter: 76
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 5611"
-generated_at: "2026-03-29T18:05:07.084Z"
+generated_at: "2026-03-29T18:24:22.923Z"
 ---
 
-# § 5611. Annual report
-
-The Secretary shall annually report to the Congress on the activities of the Fisheries Commission, the General Council, the Scientific Council, and the consultative committee established under section 5607 of this title .
+# § 5611. Repealed. Pub. L. 113–188, title II , § 201(f), Nov. 26, 2014 , 128 Stat. 2018
 

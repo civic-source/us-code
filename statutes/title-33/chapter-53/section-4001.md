@@ -3,9 +3,9 @@ title: "Section 4001 - Assessments"
 usc_title: 33
 usc_section: "4001"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 4001"
-generated_at: "2026-03-29T02:14:18.671Z"
+generated_at: "2026-03-29T18:26:01.338Z"
 ---
 
 # § 4001. Assessments
@@ -22,9 +22,8 @@ generated_at: "2026-03-29T02:14:18.671Z"
   - **(9)** the Food and Drug Administration;
   - **(10)** the Office of Science and Technology Policy;
   - **(11)** the Council on Environmental Quality;
-  - **(12)** the Centers for Disease Control and Prevention;
-  - **(13)** the Army Corps of Engineers; and
-  - **(14)** other Federal agencies as the President considers appropriate.
+  - **(12)** the Centers for Disease Control and Prevention; and
+  - **(13)** other Federal agencies as the President considers appropriate.
 - **(b)**
   - **(1)** Not later than 12 months after November 13, 1998 , the Task Force, in cooperation with the coastal States, Indian tribes, and local governments, industry (including agricultural organizations), academic institutions, and non-governmental organizations with expertise in coastal zone management, shall complete and submit to the Congress an assessment which examines the ecological and economic consequences of harmful algal blooms, alternatives for reducing, mitigating, and controlling harmful algal blooms, and the social and economic costs and benefits of such alternatives.
   - **(2)** The assessment shall—
@@ -51,21 +50,33 @@ generated_at: "2026-03-29T02:14:18.671Z"
     - **(B)** potential methods to prevent, control, and mitigate hypoxia or harmful algal blooms in that area and the potential ecological and economic costs and benefits of such methods; and
     - **(C)** other topics the Task Force considers appropriate.
 - **(f)**
+  - **(1)** Not later than 24 months after December 10, 2004 , the Task Force shall complete and submit to Congress a scientific assessment of current knowledge about harmful algal blooms in freshwater, such as the Great Lakes and upper reaches of estuaries, including a research plan for coordinating Federal efforts to better understand freshwater harmful algal blooms.
+  - **(2)** The freshwater harmful algal bloom scientific assessment shall—
+    - **(A)** examine the causes and ecological consequences, and the economic costs, of harmful algal blooms with significant effects on freshwater, including estimations of the frequency and occurrence of significant events;
+    - **(B)** establish priorities and guidelines for a competitive, peer-reviewed, merit-based interagency research program, as part of the Ecology and Oceanography of Harmful Algal Blooms (ECOHAB) project, to better understand the causes, characteristics, and impacts of harmful algal blooms in freshwater locations; and
+    - **(C)** identify ways to improve coordination and to prevent unnecessary duplication of effort among Federal agencies and departments with respect to research on harmful algal blooms in freshwater locations.
+- **(g)**
   - **(1)** Not less than once every 5 years the Task Force shall complete and submit to the Congress a scientific assessment of hypoxia in United States coastal waters including the Great Lakes. The first such assessment shall be completed not less than 24 months after December 10, 2004 .
   - **(2)** The assessments under this subsection shall—
     - **(A)** examine the causes and ecological consequences, and the economic costs, of hypoxia;
     - **(B)** describe the potential ecological and economic costs and benefits of possible policy and management actions for preventing, controlling, and mitigating hypoxia;
     - **(C)** evaluate progress made by, and the needs of, Federal research programs on the causes, characteristics, and impacts of hypoxia, including recommendations of how to eliminate significant gaps in hypoxia modeling and monitoring data; and
     - **(D)** identify ways to improve coordination and to prevent unnecessary duplication of effort among Federal agencies and departments with respect to research on hypoxia.
-- **(g)** Not less than once every 5 years the Task Force shall complete and submit to Congress a scientific assessment of harmful algal blooms in United States coastal waters and freshwater systems. Each assessment shall examine both marine and freshwater harmful algal blooms, including those in the Great Lakes and upper reaches of estuaries, those in freshwater lakes and rivers, and those that originate in freshwater lakes or rivers and migrate to coastal waters.
 - **(h)**
+  - **(1)** Not less than once every 5 years the Task Force shall complete and submit to Congress a scientific assessment of harmful algal blooms in United States coastal waters. The first such assessment shall be completed not later than 24 months after December 10, 2004 , and shall consider only marine harmful algal blooms. All subsequent assessments shall examine both marine and freshwater harmful algal blooms, including those in the Great Lakes and upper reaches of estuaries.
+  - **(2)** The assessments under this subsection shall—
+    - **(A)** examine the causes and ecological consequences, and economic costs, of harmful algal blooms;
+    - **(B)** describe the potential ecological and economic costs and benefits of possible actions for preventing, controlling, and mitigating harmful algal blooms;
+    - **(C)** evaluate progress made by, and the needs of, Federal research programs on the causes, characteristics, and impacts of harmful algal blooms; and
+    - **(D)** identify ways to improve coordination and to prevent unnecessary duplication of effort among Federal agencies and departments with respect to research on harmful algal blooms.
+- **(i)**
   - **(1)** Not later than 12 months after December 10, 2004 , the Task Force shall develop and submit to Congress a plan providing for a comprehensive and coordinated national research program to develop and demonstrate prevention, control, and mitigation methods to reduce the impacts of harmful algal blooms on coastal ecosystems (including the Great Lakes), public health, and the economy.
   - **(2)** The plan shall—
     - **(A)** establish priorities and guidelines for a competitive, peer reviewed, merit based interagency research, development, demonstration, and technology transfer program on methods for the prevention, control, and mitigation of harmful algal blooms;
     - **(B)** identify ways to improve coordination and to prevent unnecessary duplication of effort among Federal agencies and departments with respect to the actions described in paragraph (1); and
     - **(C)** include to the maximum extent practicable diverse institutions, including Historically Black Colleges and Universities and those serving large proportions of Hispanics, Native Americans, Asian Pacific Americans, and other underrepresented populations.
   - **(3)** The Secretary of Commerce, in conjunction with other appropriate Federal agencies, shall establish a research, development, demonstration, and technology transfer program that meets the priorities and guidelines established under paragraph (2)(A). The Secretary shall ensure, through consultation with Sea Grant Programs, that the results and findings of the program are communicated to State, Indian tribe, and local governments, and to the general public.
-- **(i)** Not later than 2 years after the date the Action Strategy is submitted under section 4003 of this title , the Under Secretary shall submit a report to Congress that describes—
+- **(j)** Not later than 2 years after the date the Action Strategy is submitted under section 4003 of this title , the Under Secretary shall submit a report to Congress that describes—
   - **(1)** the proceedings of the annual Task Force meetings;
   - **(2)** the activities carried out under the Program, including the regional and subregional parts of the Action Strategy;
   - **(3)** the budget related to the activities under paragraph (2);

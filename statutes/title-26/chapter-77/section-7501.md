@@ -3,9 +3,9 @@ title: "Section 7501 - Liability for taxes withheld or collected"
 usc_title: 26
 usc_section: "7501"
 chapter: 77
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 7501"
-generated_at: "2026-03-29T18:05:45.057Z"
+generated_at: "2026-03-29T18:25:53.976Z"
 ---
 
 # § 7501. Liability for taxes withheld or collected

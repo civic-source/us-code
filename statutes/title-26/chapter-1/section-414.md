@@ -3,9 +3,9 @@ title: "Section 414 - Definitions and special rules"
 usc_title: 26
 usc_section: "414"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 414"
-generated_at: "2026-03-29T18:05:44.602Z"
+generated_at: "2026-03-29T18:25:53.553Z"
 ---
 
 # § 414. Definitions and special rules
@@ -14,7 +14,15 @@ generated_at: "2026-03-29T18:05:44.602Z"
   - **(1)** in any case in which the employer maintains a plan of a predecessor employer, service for such predecessor shall be treated as service for the employer, and
   - **(2)** in any case in which the employer maintains a plan which is not the plan maintained by a predecessor employer, service for such predecessor shall, to the extent provided in regulations prescribed by the Secretary, be treated as service for the employer.
 - **(b)** For purposes of sections 401, 408(k), 408(p), 410, 411, 415, and 416, all employees of all corporations which are members of a controlled group of corporations (within the meaning of section 1563(a), determined without regard to section 1563(a)(4) and (e)(3)(C)) shall be treated as employed by a single employer. With respect to a plan adopted by more than one such corporation, the applicable limitations provided by section 404(a) shall be determined as if all such employers were a single employer, and allocated to each employer in accordance with regulations prescribed by the Secretary.
-- **(c)** For purposes of sections 401, 408(k), 408(p), 410, 411, 415, and 416, under regulations prescribed by the Secretary, all employees of trades or businesses (whether or not incorporated) which are under common control shall be treated as employed by a single employer. The regulations prescribed under this subsection shall be based on principles similar to the principles which apply in the case of subsection (b).
+- **(c)**
+  - **(1)** Except as provided in paragraph (2), for purposes of sections 401, 408(k), 408(p), 410, 411, 415, and 416, under regulations prescribed by the Secretary, all employees of trades or businesses (whether or not incorporated) which are under common control shall be treated as employed by a single employer. The regulations prescribed under this subsection shall be based on principles similar to the principles which apply in the case of subsection (b).
+  - **(2)**
+    - **(A)** Except as provided in subparagraphs (B) and (C), for purposes of this subsection and subsection (m), an organization that is otherwise eligible to participate in a church plan shall not be aggregated with another such organization and treated as a single employer with such other organization for a plan year beginning in a taxable year unless—
+      - **(i)** one such organization provides (directly or indirectly) at least 80 percent of the operating funds for the other organization during the preceding taxable year of the recipient organization, and
+      - **(ii)** there is a degree of common management or supervision between the organizations such that the organization providing the operating funds is directly involved in the day-to-day operations of the other organization.
+    - **(B)** Notwithstanding subparagraph (A), for purposes of this subsection and subsection (m), an organization that is a nonqualified church-controlled organization shall be aggregated with 1 or more other nonqualified church-controlled organizations, or with an organization that is not exempt from tax under section 501, and treated as a single employer with such other organization, if at least 80 percent of the directors or trustees of such other organization are either representatives of, or directly or indirectly controlled by, such nonqualified church-controlled organization. For purposes of this subparagraph, the term “nonqualified church-controlled organization” means a church-controlled tax-exempt organization described in section 501(c)(3) that is not a qualified church-controlled organization (as defined in section 3121(w)(3)(B)).
+    - **(C)** The church or convention or association of churches with which an organization described in subparagraph (A) is associated (within the meaning of subsection (e)(3)(D)), or an organization designated by such church or convention or association of churches, may elect to treat such organizations as a single employer for a plan year. Such election, once made, shall apply to all succeeding plan years unless revoked with notice provided to the Secretary in such manner as the Secretary shall prescribe.
+    - **(D)** For purposes of subparagraph (A), in the case of a church plan, an employer may elect to treat churches (as defined in section 403(b)(12)(B)) separately from entities that are not churches (as so defined), without regard to whether such entities maintain separate church plans. Such election, once made, shall apply to all succeeding plan years unless revoked with notice provided to the Secretary in such manner as the Secretary shall prescribe.
 - **(d)** For purposes of this part, the term “governmental plan” means a plan established and maintained for its employees by the Government of the United States, by the government of any State or political subdivision thereof, or by any agency or instrumentality of any of the foregoing. The term “governmental plan” also includes any plan to which the Railroad Retirement Act of 1935 or 1937 applies and which is financed by contributions required under that Act and any plan of an international organization which is exempt from taxation by reason of the International Organizations Immunities Act ( 59 Stat. 669 ). The term “governmental plan” includes a plan which is established and maintained by an Indian tribal government (as defined in section 7701(a)(40)), a subdivision of an Indian tribal government (determined in accordance with section 7871(d)), or an agency or instrumentality of either, and all of the participants of which are employees of such entity substantially all of whose services as such an employee are in the performance of essential governmental functions but not in the performance of commercial activities (whether or not an essential government function).
 - **(e)**
   - **(1)** For purposes of this part, the term “church plan” means a plan established and maintained (to the extent required in paragraph (2)(B)) for its employees (or their benefici­aries) by a church or by a convention or association of churches which is exempt from tax under section 501.
@@ -151,7 +159,7 @@ generated_at: "2026-03-29T18:05:44.602Z"
   - **(3)** For purposes of this subsection, the requirements listed in this paragraph are—
     - **(A)** paragraphs (3), (4), (7), (16), (17), and (26) of section 401(a),
     - **(B)** sections 408(k), 408(p), 410, 411, 415, and 416, and
-    - **(C)** sections 79, 106, 117(d), 120, 125, 127, 129, 132, 137, 274(j), 505, and 4980B.
+    - **(C)** sections 79, 106, 117(d), 125, 127, 129, 132, 137, 274(j), 505, and 4980B.
   - **(4)**
     - **(A)** In the case of any leased employee, paragraph (1) shall apply only for purposes of determining whether the requirements listed in paragraph (3) are met for periods after the close of the period referred to in paragraph (2)(B).
     - **(B)** In the case of a person who is an employee of the recipient (whether by reason of this subsection or otherwise), for purposes of the requirements listed in paragraph (3), years of service for the recipient shall be determined by taking into account any period for which such employee would have been a leased employee but for the requirements of paragraph (2)(B).
@@ -276,7 +284,7 @@ generated_at: "2026-03-29T18:05:44.602Z"
   - **(4)** For purposes of this subsection, the term “applicable provision” means any provision which specifically refers to this subsection.
 - **(t)**
   - **(1)** All employees who are treated as employed by a single employer under subsection (b), (c), or (m) shall be treated as employed by a single employer for purposes of an applicable section. The provisions of subsection ( o ) shall apply with respect to the requirements of an applicable section.
-  - **(2)** For purposes of this subsection, the term “applicable section” means section 79, 106, 117(d), 120, 125, 127, 129, 132, 137, 274(j), 505, or 4980B.
+  - **(2)** For purposes of this subsection, the term “applicable section” means section 79, 106, 117(d), 125, 127, 129, 132, 137, 274(j), 505, or 4980B.
 - **(u)**
   - **(1)** If any contribution is made by an employer or an employee under an individual account plan with respect to an employee, or by an employee to a defined benefit plan that provides for employee contributions, and such contribution is required by reason of such employee’s rights under chapter 43 of title 38, United States Code, resulting from qualified military service, then—
     - **(A)** such contribution shall not be subject to any otherwise applicable limitation contained in section 402(g), 402(h), 403(b), 404(a), 404(h), 408, 415, or 457, and shall not be taken into account in applying such limitations to other contributions or benefits under such plan or any other plan, with respect to the year in which the contribution is made,
@@ -331,8 +339,8 @@ generated_at: "2026-03-29T18:05:44.602Z"
         - **(I)** the participant’s compensation (as defined in section 415(c)(3)) for the year, over
         - **(II)** any other elective deferrals of the participant for such year which are made without regard to this subsection.
     - **(B)** For purposes of this paragraph—
-      - **(i)** In the case of an applicable employer plan other than a plan described in section 401(k)(11) or 408(p), the applicable dollar amount shall be determined in accordance with the following table: For taxable years The applicable beginning in: dollar amount is: 2002 $1,000 2003 $2,000 2004 $3,000 2005 $4,000 2006 and thereafter $5,000.
-      - **(ii)** In the case of an applicable employer plan described in section 401(k)(11) or 408(p), the applicable dollar amount shall be determined in accordance with the following table: For taxable years The applicable beginning in: dollar amount is: 2002 $500 2003 $1,000 2004 $1,500 2005 $2,000 2006 and thereafter $2,500.
+      - **(i)** In the case of an applicable employer plan other than a plan described in section 401(k)(11) or 408(p), the applicable dollar amount is $5,000.
+      - **(ii)** In the case of an applicable employer plan described in section 401(k)(11) or 408(p), the applicable dollar amount is $2,500.
     - **(C)** In the case of a year beginning after December 31, 2006 , the Secretary shall adjust annually the $5,000 amount in subparagraph (B)(i) and the $2,500 amount in subparagraph (B)(ii) for increases in the cost-of-living at the same time and in the same manner as adjustments under section 415(d); except that the base period taken into account shall be the calendar quarter beginning July 1, 2005 , and any increase under this subparagraph which is not a multiple of $500 shall be rounded to the next lower multiple of $500.
     - **(D)** For purposes of this paragraph, plans described in clauses (i), (ii), and (iv) of paragraph (6)(A) that are maintained by the same employer (as determined under subsection (b), (c), (m) or ( o )) shall be treated as a single plan, and plans described in clause (iii) of paragraph (6)(A) that are maintained by the same employer shall be treated as a single plan.
   - **(3)** In the case of any contribution to a plan under paragraph (1)—
@@ -397,7 +405,7 @@ generated_at: "2026-03-29T18:05:44.602Z"
       - **(ii)** For purposes of clause (i), the applicable percentage is the lesser of—
         - **(I)** 1 percent multiplied by the number of years of service with the employer, or
         - **(II)** 20 percent.
-      - **(iii)** If the defined benefit plan under clause (i) is an applicable defined benefit plan as defined in section 411(a)(13)(B) which meets the interest credit requirements of section 411(b)(5)(B)(i), the plan shall be treated as meeting the requirements of clause (i) with respect to any plan year if each participant receives a pay credit for the year which is not less than the percentage of compensation determined in accordance with the following table: If the participant’s age as of the The percentage beginning of the year is— is— 30 or less 2 Over 30 but less than 40 4 40 or over but less than 50 6 50 or over 8.
+      - **(iii)** If the defined benefit plan under clause (i) is an applicable defined benefit plan as defined in section 411(a)(13)(B) which meets the interest credit requirements of section 411(b)(5)(B)(i), the plan shall be treated as meeting the requirements of clause (i) with respect to any plan year if each participant receives a pay credit for the year which is not less than the percentage of compensation determined in accordance with the following table: If the participant’s age as of the beginning of the year is— The percentage is— 30 or less 2 Over 30 but less than 40 4 40 or over but less than 50 6 50 or over 8.
       - **(iv)** For purposes of this subparagraph, years of service shall be determined under the rules of paragraphs (4), (5), and (6) of section 411(a), except that the plan may not disregard any year of service because of a participant making, or failing to make, any elective deferral with respect to the qualified cash or deferred arrangement to which subparagraph (C) applies.
     - **(C)**
       - **(i)** The contribution requirements of this subparagraph with respect to any applicable defined contribution plan forming part of an eligible combined plan are met if—
@@ -441,9 +449,27 @@ generated_at: "2026-03-29T18:05:44.602Z"
     - **(A)** to which section 104 of the Pension Protection Act of 2006 applies, without regard to—
       - **(i)** section 104(a)(2) of such Act;
       - **(ii)** the amendments to such section 104 by section 202(b) of the Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010; and
-      - **(iii)** paragraph (3)(B); or
-    - **(B)** that, as of June 25, 2010 , was maintained by more than one employer and all of the employers were organizations described in section 501(c)(3).
-  - **(2)** All employers that are treated as a single employer under subsection (b) or (c) shall be treated as a single employer for purposes of determining if a plan was maintained by more than one employer under paragraph (1)(B).
+      - **(iii)** paragraph (3)(B);
+    - **(B)** that, as of June 25, 2010 , was maintained by more than one employer and all of the employers were organizations described in section 501(c)(3); or
+    - **(C)** that, as of June 25, 2010 , was maintained by an employer—
+      - **(i)** described in section 501(c)(3) of such Code, 5 5 So in original. Probably means section 501(c)(3) of this title .
+      - **(ii)** chartered under part B of subtitle II of title 36, United States Code,
+      - **(iii)** with employees in at least 40 States, and
+      - **(iv)** whose primary exempt purpose is to provide services with respect to children.
+  - **(2)** All employers that are treated as a single employer under subsection (b) or (c) shall be treated as a single employer for purposes of determining if a plan was maintained by more than one employer under subparagraph 6 6 So in original. (B) and (C) of paragraph (1).
   - **(3)**
     - **(A)** If a plan falls within the definition of a CSEC plan under this subsection (without regard to this paragraph), such plan shall be a CSEC plan unless the plan sponsor elects not later than the close of the first plan year of the plan beginning after December 31, 2013 , not to be treated as a CSEC plan. An election under the preceding sentence shall take effect for such plan year and, once made, may be revoked only with the consent of the Secretary.
     - **(B)** If a plan described in subparagraph (A) is treated as a CSEC plan, section 104 of the Pension Protection Act of 2006, as amended by the Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010, shall cease to apply to such plan as of the first date as of which such plan is treated as a CSEC plan.
+- **(z)**
+  - **(1)** Under rules prescribed by the Secretary, except as provided in paragraph (2), no amount shall be includible in gross income by reason of—
+    - **(A)** a transfer of all or a portion of the accrued benefit of a participant or beneficiary, whether or not vested, from a church plan that is a plan described in section 401(a) or an annuity contract described in section 403(b) to an annuity contract described in section 403(b), if such plan and annuity contract are both maintained by the same church or convention or association of churches,
+    - **(B)** a transfer of all or a portion of the accrued benefit of a participant or beneficiary, whether or not vested, from an annuity contract described in section 403(b) to a church plan that is a plan described in section 401(a), if such plan and annuity contract are both maintained by the same church or convention or association of churches, or
+    - **(C)** a merger of a church plan that is a plan described in section 401(a), or an annuity contract described in section 403(b), with an annuity contract described in section 403(b), if such plan and annuity contract are both maintained by the same church or convention or association of churches.
+  - **(2)** Paragraph (1) shall not apply to a transfer or merger unless the participant’s or beneficiary’s total accrued benefit immediately after the transfer or merger is equal to or greater than the participant’s or beneficiary’s total accrued benefit immediately before the transfer or merger, and such total accrued benefit is nonforfeitable after the transfer or merger.
+  - **(3)** A plan or annuity contract shall not fail to be considered to be described in section 401(a) or 403(b) merely because such plan or annuity contract engages in a transfer or merger described in this subsection.
+  - **(4)** For purposes of this subsection—
+    - **(A)** The term “church or convention or association of churches” includes an organization described in subparagraph (A) or (B)(ii) of subsection (e)(3).
+    - **(B)** The term “annuity contract” includes a custodial account described in section 403(b)(7) and a retirement income account described in section 403(b)(9).
+    - **(C)** The term “accrued benefit” means—
+      - **(i)** in the case of a defined benefit plan, the employee’s accrued benefit determined under the plan, and
+      - **(ii)** in the case of a plan other than a defined benefit plan, the balance of the employee’s account under the plan.

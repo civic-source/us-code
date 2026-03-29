@@ -3,9 +3,9 @@ title: "Section 262n - Congressional findings and policies respecting agricultur
 usc_title: 22
 usc_section: "262n"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 262n"
-generated_at: "2026-03-29T18:05:21.705Z"
+generated_at: "2026-03-29T18:24:54.098Z"
 ---
 
 # § 262n. Congressional findings and policies respecting agricultural and commodity production

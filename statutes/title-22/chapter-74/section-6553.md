@@ -3,9 +3,9 @@ title: "Section 6553 - Sunset of United States Advisory Commission on Public Dip
 usc_title: 22
 usc_section: "6553"
 chapter: 74
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 6553"
-generated_at: "2026-03-29T18:05:22.007Z"
+generated_at: "2026-03-29T18:24:54.358Z"
 ---
 
 # § 6553. Sunset of United States Advisory Commission on Public Diplomacy

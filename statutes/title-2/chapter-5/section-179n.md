@@ -3,9 +3,9 @@ title: "Section 179n - National Film Preservation Board"
 usc_title: 2
 usc_section: "179n"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "2 U.S.C. § 179n"
-generated_at: "2026-03-29T18:03:21.719Z"
+generated_at: "2026-03-29T18:23:14.055Z"
 ---
 
 # § 179n. National Film Preservation Board
@@ -33,8 +33,8 @@ generated_at: "2026-03-29T18:03:21.719Z"
 - **(b)** The Librarian shall appoint one member of the Board to serve as Chair.
 - **(c)**
   - **(1)** The term of each member of the Board shall be 4 years, except that there shall be no limit to the number of terms that any individual member may serve.
-  - **(2)** The Librarian shall have the authority to remove any member of the Board, or the organization listed in subsection (a) of this section such member represents, if the member, or organization, over any consecutive 2-year period, fails to attend at least one regularly scheduled Board meeting.
-  - **(3)** A vacancy in the Board shall be filled in the manner in which the original appointment was made under subsection (a) of this section, except that the Librarian may fill the vacancy from a list of candidates previously submitted by the organization or organizations involved. Any member appointed to fill a vacancy before the expiration of the term for which his or her predecessor was appointed shall be appointed for the remainder of such term.
+  - **(2)** The Librarian shall have the authority to remove any member of the Board, or the organization listed in subsection (a) such member represents, if the member, or organization, over any consecutive 2-year period, fails to attend at least one regularly scheduled Board meeting.
+  - **(3)** A vacancy in the Board shall be filled in the manner in which the original appointment was made under subsection (a), except that the Librarian may fill the vacancy from a list of candidates previously submitted by the organization or organizations involved. Any member appointed to fill a vacancy before the expiration of the term for which his or her predecessor was appointed shall be appointed for the remainder of such term.
 - **(d)** 12 members of the Board shall constitute a quorum but a lesser number may hold hearings.
 - **(e)** Members of the Board shall serve without pay, but may receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5.
 - **(f)** The Board shall meet at least once each fiscal year. Meetings shall be at the call of the Librarian.

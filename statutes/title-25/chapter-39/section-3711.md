@@ -3,14 +3,14 @@ title: "Section 3711 - Management of Indian rangelands and farmlands"
 usc_title: 25
 usc_section: "3711"
 chapter: 39
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 3711"
-generated_at: "2026-03-29T18:05:17.248Z"
+generated_at: "2026-03-29T18:25:23.811Z"
 ---
 
 # § 3711. Management of Indian rangelands and farmlands
 
-- **(a)** Consistent with the provisions of the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 450 et seq.], the Secretary shall provide for the management of Indian agricultural lands to achieve the following objectives:
+- **(a)** Consistent with the provisions of the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.], the Secretary shall provide for the management of Indian agricultural lands to achieve the following objectives:
   - **(1)** To protect, conserve, utilize, and maintain the highest productive potential on Indian agricultural lands through the application of sound conservation practices and techniques. These practices and techniques shall be applied to planning, development, inventorying, classification, and management of agricultural resources.
   - **(2)** To increase production and expand the diversity and availability of agricultural products for subsistence, income, and employment of Indians and Alaska Natives, through the development of agricultural resources on Indian lands.
   - **(3)** To manage agricultural resources consistent with integrated resource management plans in order to protect and maintain other values such as wildlife, fisheries, cultural resources, recreation and to regulate water runoff and minimize soil erosion.

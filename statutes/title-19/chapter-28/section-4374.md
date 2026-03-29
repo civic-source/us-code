@@ -3,9 +3,9 @@ title: "Section 4374 - Cooperation with foreign countries on preventing evasion 
 usc_title: 19
 usc_section: "4374"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 4374"
-generated_at: "2026-03-29T02:12:08.768Z"
+generated_at: "2026-03-29T18:24:16.246Z"
 ---
 
 # § 4374. Cooperation with foreign countries on preventing evasion of trade remedy laws
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T02:12:08.768Z"
     - **(B)** On the written request of the importing country, the exporting country shall conduct a verification for purposes of enabling the importing country to make a determination described in subparagraph (A).
     - **(C)** The exporting country may allow the importing country to participate in a verification described in subparagraph (B), including through a site visit.
     - **(D)** If the exporting country does not allow participation of the importing country in a verification described in subparagraph (B), the importing country may take this fact into consideration in its trade enforcement and compliance assessment activities regarding the compliance of the exporting country’s exports with the importing country’s trade remedy laws.
-- **(b)** The Commissioner is authorized to take into consideration whether a country is a signatory to a bilateral agreement described in subsection (a) or a party to the USMCA (as defined in section 4502 of this title ) and the extent to which the country is cooperating under the bilateral agreement or the USMCA, as the case may be, for purposes of trade enforcement and compliance assessment activities of U.S. Customs and Border Protection that concern evasion by such country’s exports.
+- **(b)** The Commissioner is authorized to take into consideration whether a country is a signatory to a bilateral agreement described in subsection (a) and the extent to which the country is cooperating under the bilateral agreement for purposes of trade enforcement and compliance assessment activities of U.S. Customs and Border Protection that concern evasion by such country’s exports.
 - **(c)** Not later than December 31 of each calendar year beginning after February 24, 2016 , the Secretary shall submit to the appropriate congressional committees a report summarizing—
   - **(1)** the status of any ongoing negotiations of bilateral agreements described in subsection (a), including the identities of the countries involved in such negotiations;
   - **(2)** the terms of any completed bilateral agreements described in subsection (a); and

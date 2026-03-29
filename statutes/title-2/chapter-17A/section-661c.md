@@ -3,9 +3,9 @@ title: "Section 661c - Budgetary treatment"
 usc_title: 2
 usc_section: "661c"
 chapter: 17
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "2 U.S.C. § 661c"
-generated_at: "2026-03-29T18:03:21.764Z"
+generated_at: "2026-03-29T18:23:14.087Z"
 ---
 
 # § 661c. Budgetary treatment
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T18:03:21.764Z"
   - **(1)** new budget authority to cover their costs is provided in advance in an appropriations Act;
   - **(2)** a limitation on the use of funds otherwise available for the cost of a direct loan or loan guarantee program has been provided in advance in an appropriations Act; or
   - **(3)** authority is otherwise provided in appropriation Acts.
-- **(c)** Subsections (b) and (e) of this section shall not apply to a direct loan or loan guarantee program that—
+- **(c)** Subsections (b) and (e) shall not apply to a direct loan or loan guarantee program that—
   - **(1)** constitutes an entitlement (such as the guaranteed student loan program or the veterans’ home loan guaranty program); or
   - **(2)** all existing credit programs of the Commodity Credit Corporation on November 5, 1990 .
 - **(d)**

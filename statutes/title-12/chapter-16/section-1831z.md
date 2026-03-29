@@ -3,9 +3,9 @@ title: "Section 1831z - Bi-annual FDIC survey and report on encouraging use of d
 usc_title: 12
 usc_section: "1831z"
 chapter: 16
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 1831z"
-generated_at: "2026-03-29T18:04:43.603Z"
+generated_at: "2026-03-29T18:24:02.936Z"
 ---
 
 # § 1831z. Bi-annual FDIC survey and report on encouraging use of depository institutions by the unbanked
@@ -18,4 +18,4 @@ generated_at: "2026-03-29T18:04:43.603Z"
     - **(C)** What efforts are insured institutions making at converting “unbanked” money order, wire transfer, and international remittance customers into conventional account holders?
     - **(D)** What cultural, language and identification issues as well as transaction costs appear to most prevent “unbanked” individuals from establishing conventional accounts?
     - **(E)** What is a fair estimate of the size and worth of the “unbanked” market in the United States?
-- **(b)** The Chairperson of the Board of Directors shall submit a bi-annual report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate containing the Corporation’s findings and conclusions with respect to the survey conducted pursuant to subsection (a) of this section, together with such recommendations for legislative or administrative action as the Chairperson may determine to be appropriate.
+- **(b)** The Chairperson of the Board of Directors shall submit a bi-annual report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate containing the Corporation’s findings and conclusions with respect to the survey conducted pursuant to subsection (a), together with such recommendations for legislative or administrative action as the Chairperson may determine to be appropriate.

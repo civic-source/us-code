@@ -3,9 +3,9 @@ title: "Section 4312 - Reemployment rights of persons who serve in the uniformed
 usc_title: 38
 usc_section: "4312"
 chapter: 43
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "38 U.S.C. § 4312"
-generated_at: "2026-03-29T18:06:22.820Z"
+generated_at: "2026-03-29T18:26:07.631Z"
 ---
 
 # § 4312. Reemployment rights of persons who serve in the uniformed services
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T18:06:22.820Z"
   - **(2)** during which such person was unable to obtain orders releasing such person from a period of service in the uniformed services before the expiration of such five-year period and such inability was through no fault of such person;
   - **(3)** performed as required pursuant to section 10147 of title 10 , under section 502(a) or 503 of title 32, or to fulfill additional training requirements determined and certified in writing by the Secretary concerned, to be necessary for professional development, or for completion of skill training or retraining; or
   - **(4)** performed by a member of a uniformed service who is—
-    - **(A)** ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, or 12305 of title 10 or under section 331, 332, 359, 360, 367, or 712 of title 14;
+    - **(A)** ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, 12304a, 12304b, or 12305 of title 10 or under section 331, 332, 359, 360, 367, or 712 of title 14;
     - **(B)** ordered to or retained on active duty (other than for training) under any provision of law because of a war or national emergency declared by the President or the Congress, as determined by the Secretary concerned;
     - **(C)** ordered to active duty (other than for training) in support, as determined by the Secretary concerned, of an operational mission for which personnel have been ordered to active duty under section 12304 of title 10 ;
     - **(D)** ordered to active duty in support, as determined by the Secretary concerned, of a critical mission or requirement of the uniformed services;

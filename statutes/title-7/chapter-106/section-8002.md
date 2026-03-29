@@ -3,9 +3,9 @@ title: "Section 8002 - Implementation funding and information management"
 usc_title: 7
 usc_section: "8002"
 chapter: 106
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 8002"
-generated_at: "2026-03-29T18:04:05.154Z"
+generated_at: "2026-03-29T18:23:43.550Z"
 ---
 
 # § 8002. Implementation funding and information management
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T18:04:05.154Z"
 - **(a)**
   - **(1)** The Secretary of Agriculture, acting through the Farm Service Agency, may use not more than $55,000,000 of funds of the Commodity Credit Corporation to cover administrative costs associated with the implementation of title I and the amendments made by that title.
   - **(2)** The funds referred to in paragraph (1) shall remain available to the Secretary until expended.
-  - **(3)** Of the amount specified in paragraph (1), the Secretary shall use not less than $5,000,000, but not more than $8,000,000, to carry out subsection (b) of this section.
+  - **(3)** Of the amount specified in paragraph (1), the Secretary shall use not less than $5,000,000, but not more than $8,000,000, to carry out subsection (b).
 - **(b)**
   - **(1)** The Secretary of Agriculture shall develop a comprehensive information management system, using appropriate technologies, to be used in implementing the programs administered by the Federal Crop Insurance Corporation and the Farm Service Agency.
   - **(2)** The information management system developed under this subsection shall be designed to—
@@ -32,4 +32,4 @@ generated_at: "2026-03-29T18:04:05.154Z"
     - **(A)** any Federal agency that requires the information to carry out the functions of the agency; and
     - **(B)** any approved insurance provider, as defined in section 1502(b) of this title , with respect to producers insured by the approved insurance provider.
   - **(6)** This subsection shall not interfere with, or delay, existing agreements or requests for proposals of the Federal Crop Insurance Corporation or the Farm Service Agency regarding the information management activities known as data mining or data warehousing.
-- **(c)** In addition to amounts made available under subsection (a)(3) of this section, there are authorized to be appropriated such sums as are necessary to carry out subsection (b) of this section for each of fiscal years 2003 through 2008.
+- **(c)** In addition to amounts made available under subsection (a)(3), there are authorized to be appropriated such sums as are necessary to carry out subsection (b) for each of fiscal years 2003 through 2008.

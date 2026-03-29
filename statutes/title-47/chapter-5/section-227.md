@@ -3,9 +3,9 @@ title: "Section 227 - Restrictions on use of telephone equipment"
 usc_title: 47
 usc_section: "227"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "47 U.S.C. § 227"
-generated_at: "2026-03-29T18:07:40.817Z"
+generated_at: "2026-03-29T18:27:09.535Z"
 ---
 
 # § 227. Restrictions on use of telephone equipment
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T18:07:40.817Z"
   - **(1)** The term “automatic telephone dialing system” means equipment which has the capacity—
     - **(A)** to store or produce telephone numbers to be called, using a random or sequential number generator; and
     - **(B)** to dial such numbers.
-  - **(2)** The term “established business relationship”, for purposes only of subsection (b)(1)(C)(i) of this section, shall have the meaning given the term in section 64.1200 of title 47, Code of Federal Regulations, as in effect on January 1, 2003 , except that—
+  - **(2)** The term “established business relationship”, for purposes only of subsection (b)(1)(C)(i), shall have the meaning given the term in section 64.1200 of title 47, Code of Federal Regulations, as in effect on January 1, 2003 , except that—
     - **(A)** such term shall include a relationship between a person or entity and a business subscriber subject to the same terms applicable under such section to a relationship between a person or entity and a residential subscriber; and
     - **(B)** an established business relationship shall be subject to any time limitation established pursuant to paragraph (2)(G)). 1 1 So in original. Second closing parenthesis probably should not appear.
   - **(3)** The term “telephone facsimile machine” means equipment which has the capacity (A) to transcribe text or images, or both, from paper into an electronic signal and to transmit that signal over a regular telephone line, or (B) to transcribe text or images (or both) from an electronic signal received over a regular telephone line onto paper.
@@ -25,8 +25,8 @@ generated_at: "2026-03-29T18:07:40.817Z"
     - **(A)** to make any call (other than a call made for emergency purposes or made with the prior express consent of the called party) using any automatic telephone dialing system or an artificial or prerecorded voice—
       - **(i)** to any emergency telephone line (including any “911” line and any emergency line of a hospital, medical physician or service office, health care facility, poison control center, or fire protection or law enforcement agency);
       - **(ii)** to the telephone line of any guest room or patient room of a hospital, health care facility, elderly home, or similar establishment; or
-      - **(iii)** to any telephone number assigned to a paging service, cellular telephone service, specialized mobile radio service, or other radio common carrier service, or any service for which the called party is charged for the call;
-    - **(B)** to initiate any telephone call to any residential telephone line using an artificial or prerecorded voice to deliver a message without the prior express consent of the called party, unless the call is initiated for emergency purposes or is exempted by rule or order by the Commission under paragraph (2)(B);
+      - **(iii)** to any telephone number assigned to a paging service, cellular telephone service, specialized mobile radio service, or other radio common carrier service, or any service for which the called party is charged for the call, unless such call is made solely to collect a debt owed to or guaranteed by the United States;
+    - **(B)** to initiate any telephone call to any residential telephone line using an artificial or prerecorded voice to deliver a message without the prior express consent of the called party, unless the call is initiated for emergency purposes, is made solely pursuant to the collection of a debt owed to or guaranteed by the United States, or is exempted by rule or order by the Commission under paragraph (2)(B);
     - **(C)** to use any telephone facsimile machine, computer, or other device to send, to a telephone facsimile machine, an unsolicited advertisement, unless—
       - **(i)** the unsolicited advertisement is from a sender with an established business relationship with the recipient;
       - **(ii)** the sender obtained the number of the telephone facsimile machine through—
@@ -50,21 +50,22 @@ generated_at: "2026-03-29T18:07:40.817Z"
         - **(I)** a domestic contact telephone and facsimile machine number for the recipient to transmit such a request to the sender; and
         - **(II)** a cost-free mechanism for a recipient to transmit a request pursuant to such notice to the sender of the unsolicited advertisement; the Commission shall by rule require the sender to provide such a mechanism and may, in the discretion of the Commission and subject to such conditions as the Commission may prescribe, exempt certain classes of small business senders, but only if the Commission determines that the costs to such class are unduly burdensome given the revenues generated by such small businesses;
       - **(v)** the telephone and facsimile machine numbers and the cost-free mechanism set forth pursuant to clause (iv) permit an individual or business to make such a request at any time on any day of the week; and
-      - **(vi)** the notice complies with the requirements of subsection (d) of this section;
+      - **(vi)** the notice complies with the requirements of subsection (d);
     - **(E)** shall provide, by rule, that a request not to send future unsolicited advertisements to a telephone facsimile machine complies with the requirements under this subparagraph only if—
       - **(i)** the request identifies the telephone number or numbers of the telephone facsimile machine or machines to which the request relates;
       - **(ii)** the request is made to the telephone or facsimile number of the sender of such an unsolicited advertisement provided pursuant to subparagraph (D)(iv) or by any other method of communication as determined by the Commission; and
       - **(iii)** the person making the request has not, subsequent to such request, provided express invitation or permission to the sender, in writing or otherwise, to send such advertisements to such person at such telephone facsimile machine;
     - **(F)** may, in the discretion of the Commission and subject to such conditions as the Commission may prescribe, allow professional or trade associations that are tax-exempt nonprofit organizations to send unsolicited advertisements to their members in furtherance of the association’s tax-exempt purpose that do not contain the notice required by paragraph (1)(C)(iii), except that the Commission may take action under this subparagraph only—
       - **(i)** by regulation issued after public notice and opportunity for public comment; and
-      - **(ii)** if the Commission determines that such notice required by paragraph (1)(C)(iii) is not necessary to protect the ability of the members of such associations to stop such associations from sending any future unsolicited advertisements; and
+      - **(ii)** if the Commission determines that such notice required by paragraph (1)(C)(iii) is not necessary to protect the ability of the members of such associations to stop such associations from sending any future unsolicited advertisements;
     - **(G)**
       - **(i)** may, consistent with clause (ii), limit the duration of the existence of an established business relationship, however, before establishing any such limits, the Commission shall—
         - **(I)** determine whether the existence of the exception under paragraph (1)(C) relating to an established business relationship has resulted in a significant number of complaints to the Commission regarding the sending of unsolicited advertisements to telephone facsimile machines;
         - **(II)** determine whether a significant number of any such complaints involve unsolicited advertisements that were sent on the basis of an established business relationship that was longer in duration than the Commission believes is consistent with the reasonable expectations of consumers;
         - **(III)** evaluate the costs to senders of demonstrating the existence of an established business relationship within a specified period of time and the benefits to recipients of establishing a limitation on such established business relationship; and
         - **(IV)** determine whether with respect to small businesses, the costs would not be unduly burdensome; and
-      - **(ii)** may not commence a proceeding to determine whether to limit the duration of the existence of an established business relationship before the expiration of the 3-month period that begins on July 9, 2005 .
+      - **(ii)** may not commence a proceeding to determine whether to limit the duration of the existence of an established business relationship before the expiration of the 3-month period that begins on July 9, 2005 ; and
+    - **(H)** may restrict or limit the number and duration of calls made to a telephone number assigned to a cellular telephone service to collect a debt owed to or guaranteed by the United States.
   - **(3)** A person or entity may, if otherwise permitted by the laws or rules of court of a State, bring in an appropriate court of that State—
     - **(A)** an action based on a violation of this subsection or the regulations prescribed under this subsection to enjoin such violation,
     - **(B)** an action to recover for actual monetary loss from such a violation, or to receive $500 in damages for each such violation, whichever is greater, or
@@ -101,7 +102,7 @@ generated_at: "2026-03-29T18:07:40.817Z"
     - **(A)** an action based on a violation of the regulations prescribed under this subsection to enjoin such violation,
     - **(B)** an action to recover for actual monetary loss from such a violation, or to receive up to $500 in damages for each such violation, whichever is greater, or
     - **(C)** both such actions.
-  - **(6)** The provisions of this subsection shall not be construed to permit a communication prohibited by subsection (b) of this section.
+  - **(6)** The provisions of this subsection shall not be construed to permit a communication prohibited by subsection (b).
 - **(d)**
   - **(1)** It shall be unlawful for any person within the United States—
     - **(A)** to initiate any communication using a telephone facsimile machine, or to make any telephone call using any automatic telephone dialing system, that does not comply with the technical and procedural standards prescribed under this subsection, or to use any telephone facsimile machine or automatic telephone dialing system in a manner that does not comply with such standards; or
@@ -148,12 +149,12 @@ generated_at: "2026-03-29T18:07:40.817Z"
     - **(C)** The term “IP-enabled voice service” has the meaning given that term by section 9.3 of the Commission’s regulations (47 C.F.R. 9.3), as those regulations may be amended by the Commission from time to time.
   - **(9)** Notwithstanding any other provision of this section, subsection (f) shall not apply to this subsection or to the regulations under this subsection.
 - **(f)**
-  - **(1)** Except for the standards prescribed under subsection (d) of this section and subject to paragraph (2) of this subsection, nothing in this section or in the regulations prescribed under this section shall preempt any State law that imposes more restrictive intrastate requirements or regulations on, or which prohibits—
+  - **(1)** Except for the standards prescribed under subsection (d) and subject to paragraph (2) of this subsection, nothing in this section or in the regulations prescribed under this section shall preempt any State law that imposes more restrictive intrastate requirements or regulations on, or which prohibits—
     - **(A)** the use of telephone facsimile machines or other electronic devices to send unsolicited advertisements;
     - **(B)** the use of automatic telephone dialing systems;
     - **(C)** the use of artificial or prerecorded voice messages; or
     - **(D)** the making of telephone solicitations.
-  - **(2)** If, pursuant to subsection (c)(3) of this section, the Commission requires the establishment of a single national database of telephone numbers of subscribers who object to receiving telephone solicitations, a State or local authority may not, in its regulation of telephone solicitations, require the use of any database, list, or listing system that does not include the part of such single national database that relates to such State.
+  - **(2)** If, pursuant to subsection (c)(3), the Commission requires the establishment of a single national database of telephone numbers of subscribers who object to receiving telephone solicitations, a State or local authority may not, in its regulation of telephone solicitations, require the use of any database, list, or listing system that does not include the part of such single national database that relates to such State.
 - **(g)**
   - **(1)** Whenever the attorney general of a State, or an official or agency designated by a State, has reason to believe that any person has engaged or is engaging in a pattern or practice of telephone calls or other transmissions to residents of that State in violation of this section or the regulations prescribed under this section, the State may bring a civil action on behalf of its residents to enjoin such calls, an action to recover for actual monetary loss or receive $500 in damages for each violation, or both such actions. If the court finds the defendant willfully or knowingly violated such regulations, the court may, in its discretion, increase the amount of the award to an amount equal to not more than 3 times the amount available under the preceding sentence.
   - **(2)** The district courts of the United States, the United States courts of any territory, and the District Court of the United States for the District of Columbia shall have exclusive jurisdiction over all civil actions brought under this subsection. Upon proper application, such courts shall also have jurisdiction to issue writs of mandamus, or orders affording like relief, commanding the defendant to comply with the provisions of this section or regulations prescribed under this section, including the requirement that the defendant take such action as is necessary to remove the danger of such violation. Upon a proper showing, a permanent or temporary injunction or restraining order shall be granted without bond.

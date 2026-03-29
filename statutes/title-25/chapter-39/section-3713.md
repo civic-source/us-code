@@ -3,9 +3,9 @@ title: "Section 3713 - Indian agricultural lands trespass"
 usc_title: 25
 usc_section: "3713"
 chapter: 39
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 3713"
-generated_at: "2026-03-29T18:05:17.249Z"
+generated_at: "2026-03-29T18:25:23.811Z"
 ---
 
 # § 3713. Indian agricultural lands trespass
@@ -18,4 +18,4 @@ generated_at: "2026-03-29T18:05:17.249Z"
   - **(2)** designate responsibility within the Department of the Interior for the detection and investigation of Indian agricultural lands trespass; and
   - **(3)** set forth responsibilities and procedures for the assessment and collection of civil penalties.
 - **(b)** The proceeds of civil penalties collected under this section shall be treated as proceeds from the sale of agricultural products from the Indian agricultural lands upon which such trespass occurred.
-- **(c)** Indian tribes which adopt the regulations promulgated by the Secretary pursuant to subsection (a) of this section shall have concurrent jurisdiction with the United States to enforce the provisions of this section and the regulations promulgated thereunder. The Bureau and other agencies of the Federal Government shall, at the request of the tribal government, defer to tribal prosecutions of Indian agricultural land trespass cases. Tribal court judgments regarding agricultural trespass shall be entitled to full faith and credit in Federal and State courts to the same extent as a Federal court judgment obtained under this section. Nothing in this chapter shall be construed to diminish the sovereign authority of Indian tribes with respect to trespass.
+- **(c)** Indian tribes which adopt the regulations promulgated by the Secretary pursuant to subsection (a) shall have concurrent jurisdiction with the United States to enforce the provisions of this section and the regulations promulgated thereunder. The Bureau and other agencies of the Federal Government shall, at the request of the tribal government, defer to tribal prosecutions of Indian agricultural land trespass cases. Tribal court judgments regarding agricultural trespass shall be entitled to full faith and credit in Federal and State courts to the same extent as a Federal court judgment obtained under this section. Nothing in this chapter shall be construed to diminish the sovereign authority of Indian tribes with respect to trespass.

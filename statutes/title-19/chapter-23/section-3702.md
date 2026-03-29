@@ -3,9 +3,9 @@ title: "Section 3702 - Statement of policy"
 usc_title: 19
 usc_section: "3702"
 chapter: 23
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 3702"
-generated_at: "2026-03-29T18:04:55.151Z"
+generated_at: "2026-03-29T18:24:16.216Z"
 ---
 
 # § 3702. Statement of policy
@@ -19,5 +19,6 @@ Congress supports—
   - **(5)** focusing on countries committed to the rule of law, economic reform, and the eradication of poverty;
   - **(6)** strengthening and expanding the private sector in sub-Saharan Africa, especially enterprises owned by women and small businesses;
   - **(7)** facilitating the development of civil societies and political freedom in sub-Saharan Africa;
-  - **(8)** establishing a United States-Sub-Saharan Africa Trade and Economic Cooperation Forum; and
-  - **(9)** the accession of the countries in sub-Saharan Africa to the Organization for Economic Cooperation and Development (OECD) Convention on Combating Bribery of Foreign Public Officials in International Business Transactions.
+  - **(8)** establishing a United States-Sub-Saharan Africa Trade and Economic Cooperation Forum;
+  - **(9)** the accession of the countries in sub-Saharan Africa to the Organization for Economic Cooperation and Development (OECD) Convention on Combating Bribery of Foreign Public Officials in International Business Transactions; and
+  - **(10)** promoting the role of women in social, political, and economic development in sub-Saharan Africa.

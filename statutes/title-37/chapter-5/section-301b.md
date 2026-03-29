@@ -3,14 +3,14 @@ title: "Section 301b - Special pay: aviation career officers extending period of
 usc_title: 37
 usc_section: "301b"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "37 U.S.C. § 301b"
-generated_at: "2026-03-29T18:06:17.207Z"
+generated_at: "2026-03-29T18:26:10.127Z"
 ---
 
 # § 301b. Special pay: aviation career officers extending period of active duty
 
-- **(a)** An aviation officer described in subsection (b) who, during the period beginning on January 1, 1989 , and ending on December 31, 2013 , executes a written agreement to remain on active duty in aviation service for at least one year may, upon the acceptance of the agreement by the Secretary concerned, be paid a retention bonus as provided in this section.
+- **(a)** An aviation officer described in subsection (b) who, during the period beginning on January 1, 1989 , and ending on December 31, 2016 , executes a written agreement to remain on active duty in aviation service for at least one year may, upon the acceptance of the agreement by the Secretary concerned, be paid a retention bonus as provided in this section.
 - **(b)** An aviation officer referred to in subsection (a) is an officer of a uniformed service who—
   - **(1)** is entitled to aviation career incentive pay under section 301a of this title ;
   - **(2)** is in a pay grade below pay grade O–7;

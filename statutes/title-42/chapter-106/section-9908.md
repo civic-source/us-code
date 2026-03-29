@@ -3,18 +3,18 @@ title: "Section 9908 - Application and plan"
 usc_title: 42
 usc_section: "9908"
 chapter: 106
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 9908"
-generated_at: "2026-03-29T18:07:15.115Z"
+generated_at: "2026-03-29T18:27:03.963Z"
 ---
 
 # § 9908. Application and plan
 
 - **(a)**
-  - **(1)** The chief executive officer of a State desiring to receive a grant or allotment under section 9905 or 9906 of this title shall designate, in an application submitted to the Secretary under subsection (b) of this section, an appropriate State agency that complies with the requirements of paragraph (2) to act as a lead agency for purposes of carrying out State activities under this chapter.
+  - **(1)** The chief executive officer of a State desiring to receive a grant or allotment under section 9905 or 9906 of this title shall designate, in an application submitted to the Secretary under subsection (b), an appropriate State agency that complies with the requirements of paragraph (2) to act as a lead agency for purposes of carrying out State activities under this chapter.
   - **(2)** The lead agency shall—
-    - **(A)** develop the State plan to be submitted to the Secretary under subsection (b) of this section;
-    - **(B)** in conjunction with the development of the State plan as required under subsection (b) of this section, hold at least one hearing in the State with sufficient time and statewide distribution of notice of such hearing, to provide to the public an opportunity to comment on the proposed use and distribution of funds to be provided through the grant or allotment under section 9905 or 9906 of this title for the period covered by the State plan; and
+    - **(A)** develop the State plan to be submitted to the Secretary under subsection (b);
+    - **(B)** in conjunction with the development of the State plan as required under subsection (b), hold at least one hearing in the State with sufficient time and statewide distribution of notice of such hearing, to provide to the public an opportunity to comment on the proposed use and distribution of funds to be provided through the grant or allotment under section 9905 or 9906 of this title for the period covered by the State plan; and
     - **(C)** conduct reviews of eligible entities under section 9914 of this title .
   - **(3)** In order to be eligible to receive a grant or allotment under section 9905 or 9906 of this title, the State shall hold at least one legislative hearing every 3 years in conjunction with the development of the State plan.
 - **(b)** Beginning with fiscal year 2000, to be eligible to receive a grant or allotment under section 9905 or 9906 of this title, a State shall prepare and submit to the Secretary an application and State plan covering a period of not less than 1 fiscal year and not more than 2 fiscal years. The plan shall be submitted not later than 30 days prior to the beginning of the first fiscal year covered by the plan, and shall contain such information as the Secretary shall require, including—
@@ -40,7 +40,7 @@ generated_at: "2026-03-29T18:07:15.115Z"
     - **(C)** a description of how funds made available through grants made under section 9907(a) of this title will be coordinated with other public and private resources; and
     - **(D)** a description of how the local entity will use the funds to support innovative community and neighborhood-based initiatives related to the purposes of this chapter, which may include fatherhood initiatives and other initiatives with the goal of strengthening families and encouraging effective parenting;
   - **(4)** an assurance that eligible entities in the State will provide, on an emergency basis, for the provision of such supplies and services, nutritious foods, and related services, as may be necessary to counteract conditions of starvation and malnutrition among low-income individuals;
-  - **(5)** an assurance that the State and the eligible entities in the State will coordinate, and establish linkages between, governmental and other social services programs to assure the effective delivery of such services to low-income individuals and to avoid duplication of such services, and a description of how the State and the eligible entities will coordinate the provision of employment and training activities, as defined in section 101 1 1 See References in Text note below. of such Act [ 29 U.S.C. 2801 ], in the State and in communities with entities providing activities through statewide and local workforce investment systems under the Workforce Investment Act of 1998;
+  - **(5)** an assurance that the State and the eligible entities in the State will coordinate, and establish linkages between, governmental and other social services programs to assure the effective delivery of such services to low-income individuals and to avoid duplication of such services, and a description of how the State and the eligible entities will coordinate the provision of employment and training activities, as defined in section 3 of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3102 ], in the State and in communities with entities providing activities through statewide and local workforce development systems under such Act;
   - **(6)** an assurance that the State will ensure coordination between antipoverty programs in each community in the State, and ensure, where appropriate, that emergency energy crisis intervention programs under title XXVI [ 42 U.S.C. 8621 et seq.] (relating to low-income home energy assistance) are conducted in such community;
   - **(7)** an assurance that the State will permit and cooperate with Federal investigations undertaken in accordance with section 9916 of this title ;
   - **(8)** an assurance that any eligible entity in the State that received funding in the previous fiscal year through a community services block grant made under this chapter will not have its funding terminated under this chapter, or reduced below the proportional share of funding the entity received in the previous fiscal year unless, after providing notice and an opportunity for a hearing on the record, the State determines that cause exists for such termination or such reduction, subject to review by the Secretary as provided in section 9915(b) of this title ;
@@ -49,7 +49,7 @@ generated_at: "2026-03-29T18:07:15.115Z"
   - **(11)** an assurance that the State will secure from each eligible entity in the State, as a condition to receipt of funding by the entity through a community services block grant made under this chapter for a program, a community action plan (which shall be submitted to the Secretary, at the request of the Secretary, with the State plan) that includes a community-needs assessment for the community served, which may be coordinated with community-needs assessments conducted for other programs;
   - **(12)** an assurance that the State and all eligible entities in the State will, not later than fiscal year 2001, participate in the Results Oriented Management and Accountability System, another performance measure system for which the Secretary facilitated development pursuant to section 9917(b) of this title , or an alternative system for measuring performance and results that meets the requirements of that section, and a description of outcome measures to be used to measure eligible entity performance in promoting self-sufficiency, family stability, and community revitalization; and
   - **(13)** information describing how the State will carry out the assurances described in this subsection.
-- **(c)** For purposes of making a determination in accordance with subsection (b)(8) of this section with respect to—
+- **(c)** For purposes of making a determination in accordance with subsection (b)(8) with respect to—
   - **(1)** a funding reduction, the term “cause” includes—
     - **(A)** a statewide redistribution of funds provided through a community services block grant under this chapter to respond to—
       - **(i)** the results of the most recently available census or other appropriate data;
@@ -61,4 +61,4 @@ generated_at: "2026-03-29T18:07:15.115Z"
 - **(e)**
   - **(1)** The chief executive officer of each State may revise any plan prepared under this section and shall submit the revised plan to the Secretary.
   - **(2)** Each plan or revised plan prepared under this section shall be made available for public inspection within the State in such a manner as will facilitate review of, and comment on, the plan.
-- **(f)** For fiscal year 2000, to be eligible to receive a grant or allotment under section 9905 or 9906 of this title, a State shall prepare and submit to the Secretary an application and State plan in accordance with the provisions of this chapter (as in effect on the day before October 27, 1998 ), rather than the provisions of subsections (a) through (c) of this section relating to applications and plans.
+- **(f)** For fiscal year 2000, to be eligible to receive a grant or allotment under section 9905 or 9906 of this title, a State shall prepare and submit to the Secretary an application and State plan in accordance with the provisions of this chapter (as in effect on the day before October 27, 1998 ), rather than the provisions of subsections (a) through (c) relating to applications and plans.

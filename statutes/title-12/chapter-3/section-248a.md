@@ -3,15 +3,15 @@ title: "Section 248a - Pricing of services"
 usc_title: 12
 usc_section: "248a"
 chapter: 3
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 248a"
-generated_at: "2026-03-29T18:04:43.388Z"
+generated_at: "2026-03-29T18:24:02.739Z"
 ---
 
 # § 248a. Pricing of services
 
 - **(a)** Not later than the first day of the sixth month after March 31, 1980 , the Board shall publish for public comment a set of pricing principles in accordance with this section and a proposed schedule of fees based upon those principles for Federal Reserve bank services to depository institutions, and not later than the first day of the eighteenth month after March 31, 1980 , the Board shall begin to put into effect a schedule of fees for such services which is based on those principles.
-- **(b)** The services which shall be covered by the schedule of fees under subsection (a) of this section are—
+- **(b)** The services which shall be covered by the schedule of fees under subsection (a) are—
   - **(1)** currency and coin services;
   - **(2)** check clearing and collection services;
   - **(3)** wire transfer services;

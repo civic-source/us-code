@@ -3,9 +3,9 @@ title: "Section 46 - Definition"
 usc_title: 42
 usc_section: "46"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 46"
-generated_at: "2026-03-29T18:07:13.517Z"
+generated_at: "2026-03-29T18:27:02.726Z"
 ---
 
 # § 300d–46. Definition

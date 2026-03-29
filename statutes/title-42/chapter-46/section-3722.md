@@ -3,9 +3,9 @@ title: "Section 3722 - National Institute of Justice"
 usc_title: 42
 usc_section: "3722"
 chapter: 46
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 3722"
-generated_at: "2026-03-29T18:07:14.539Z"
+generated_at: "2026-03-29T18:27:03.528Z"
 ---
 
 # § 3722. National Institute of Justice
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T18:07:14.539Z"
   - **(5)** provide research fellowships and clinical internships and carry out programs of training and special workshops for the presentation and dissemination of information resulting from research, demonstrations, and special projects including those authorized by this subchapter;
   - **(6)** collect and disseminate information obtained by the Institute or other Federal agencies, public agencies, institutions of higher education, and private organizations relating to the purposes of this subchapter;
   - **(7)** serve as a national and international clearinghouse for the exchange of information with respect to the purposes of this subchapter;
-  - **(8)** after consultation with appropriate agencies and officials of States and units of local government, make recommendations for the designation of programs or projects which will be effective in improving the functioning of the criminal justice system, for funding as discretionary grants under subchapter V of this chapter;
+  - **(8)** after consultation with appropriate agencies and officials of States and units of local government, make recommendations for the designation of programs or projects which will be effective in improving the functioning of the criminal justice system, for funding as discretionary grants under subchapter V;
   - **(9)** encourage, assist, and serve in a consulting capacity to Federal, State, and local justice system agencies in the development, maintenance, and coordination of criminal and civil justice programs and services; and
   - **(10)** research and development of tools and technologies relating to prevention, detection, investigation, and prosecution of crime; and
   - **(11)** support research, development, testing, training, and evaluation of tools and technology for Federal, State, and local law enforcement agencies.
@@ -35,4 +35,4 @@ generated_at: "2026-03-29T18:07:14.539Z"
   - **(2)** confer with and avail itself of the cooperation, services, records, and facilities of State or of municipal or other local agencies;
   - **(3)** request such information, data, and reports from any Federal agency as may be required to carry out the purposes of this section, and the agencies shall provide such information to the Institute as required to carry out the purposes of this subchapter;
   - **(4)** seek the cooperation of the judicial branches of Federal and State Government in coordinating civil and criminal justice research and development; and
-  - **(5)** exercise the powers and functions set out in subchapter VIII of this chapter.
+  - **(5)** exercise the powers and functions set out in subchapter VIII.

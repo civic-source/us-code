@@ -3,9 +3,9 @@ title: "Section 1904 - Marine mineral research centers"
 usc_title: 30
 usc_section: "1904"
 chapter: 31
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "30 U.S.C. § 1904"
-generated_at: "2026-03-29T18:05:26.238Z"
+generated_at: "2026-03-29T18:25:30.933Z"
 ---
 
 # § 1904. Marine mineral research centers
@@ -27,7 +27,7 @@ generated_at: "2026-03-29T18:05:26.238Z"
   - **(2)** advise the Secretary on pertinent international activities in marine mineral resources development;
   - **(3)** engage in research, training, and education transfer associated with the characterization and utilization of marine mineral resources; and
   - **(4)** promote the efficient identification, assessment, exploration, and management of marine mineral resources in an environmentally sound manner.
-- **(e)** In distributing funds to the centers designated under subsection (a) of this section, the Secretary shall, to the extent practicable, allocate an equal amount to each center.
+- **(e)** In distributing funds to the centers designated under subsection (a), the Secretary shall, to the extent practicable, allocate an equal amount to each center.
 - **(f)**
   - **(1)** Not more than 5 percent of the amount made available to carry out this section during a fiscal year may be used by the Secretary for expenses associated with administration of the program authorized by this section.
   - **(2)** None of the funds made available under this section may be used for the construction of a new building or the acquisition, expansion, remodeling, or alteration of an existing building (including site grading and improvement and architect fees).

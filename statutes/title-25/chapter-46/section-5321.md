@@ -3,9 +3,9 @@ title: "Section 5321 - Self-determination contracts"
 usc_title: 25
 usc_section: "5321"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 5321"
-generated_at: "2026-03-29T02:13:21.005Z"
+generated_at: "2026-03-29T18:25:23.834Z"
 ---
 
 # § 5321. Self-determination contracts
@@ -33,7 +33,7 @@ generated_at: "2026-03-29T02:13:21.005Z"
   - **(3)** provide the tribal organization with a hearing on the record with the right to engage in full discovery relevant to any issue raised in the matter and the opportunity for appeal on the objections raised, under such rules and regulations as the Secretary may promulgate, except that the tribe or tribal organization may, in lieu of filing such appeal, exercise the option to initiate an action in a Federal district court and proceed directly to such court pursuant to section 5331(a) of this title .
 - **(c)**
   - **(1)** Beginning in 1990, the Secretary shall be responsible for obtaining or providing liability insurance or equivalent coverage, on the most cost-effective basis, for Indian tribes, tribal organizations, and tribal contractors carrying out contracts, grant agreements and cooperative agreements pursuant to this chapter. In obtaining or providing such coverage, the Secretary shall take into consideration the extent to which liability under such contracts or agreements are covered by the Federal Tort Claims Act.
-  - **(2)** In obtaining or providing such coverage, the Secretary shall, to the greatest extent practicable, give a preference to coverage underwritten by Indian-owned economic enterprises (as defined in section 1452 of this title ), except that, for the purposes of this subsection, such enterprises may include non-profit corporations.
+  - **(2)** In obtaining or providing such coverage, the Secretary shall, to the greatest extent practicable, give a preference to coverage underwritten by Indian-owned economic enterprises as defined in section 1452 of this title , except that, for the purposes of this subsection, such enterprises may include non-profit corporations.
   - **(3)**
     - **(A)** Any policy of insurance obtained or provided by the Secretary pursuant to this subsection shall contain a provision that the insurance carrier shall waive any right it may have to raise as a defense the sovereign immunity of an Indian tribe from suit, but that such waiver shall extend only to claims the amount and nature of which are within the coverage and limits of the policy and shall not authorize or empower such insurance carrier to waive or otherwise limit the tribe’s sovereign immunity outside or beyond the coverage or limits of the policy of insurance.
     - **(B)** No waiver of the sovereign immunity of an Indian tribe pursuant to this paragraph shall include a waiver to the extent of any potential liability for interest prior to judgment or for punitive damages or for any other limitation on liability imposed by the law of the State in which the alleged injury occurs.
@@ -43,9 +43,3 @@ generated_at: "2026-03-29T02:13:21.005Z"
   - **(2)** Notwithstanding any other provision of law, a decision by an official of the Department of the Interior or the Department of Health and Human Services, as appropriate (referred to in this paragraph as the “Department”) that constitutes final agency action and that relates to an appeal within the Department that is conducted under subsection (b)(3) of this section shall be made either—
     - **(A)** by an official of the Department who holds a position at a higher organizational level within the Department than the level of the departmental agency (such as the Indian Health Service or the Bureau of Indian Affairs) in which the decision that is the subject of the appeal was made; or
     - **(B)** by an administrative judge.
-- **(f)** In the negotiation of contracts and funding agreements, the Secretary shall—
-  - **(1)** at all times negotiate in good faith to maximize implementation of the self-determination policy; and
-  - **(2)** carry out this chapter in a manner that maximizes the policy of Tribal self-determination, in a manner consistent with—
-    - **(A)** the purposes specified in section 5302 of this title ; and
-    - **(B)** the PROGRESS for Indian Tribes Act.
-- **(g)** Subject to section 101(a) of the PROGRESS for Indian Tribes Act, each provision of this chapter and each provision of a contract or funding agreement shall be liberally construed for the benefit of the Indian Tribe participating in self-determination, and any ambiguity shall be resolved in favor of the Indian Tribe.

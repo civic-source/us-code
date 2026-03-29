@@ -1,12 +1,12 @@
 ---
-title: "Section 1119 - Repealed. Pub. L. 94–579, title VII, § 703(a) , Oct. 21, 1976 , 90 Stat. 2789"
+title: "Section 1119 - Repealed. Pub. L. 94–579, title VII , § 703(a), Oct. 21, 1976 , 90 Stat. 2789"
 usc_title: 43
 usc_section: "1119"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 1119"
-generated_at: "2026-03-29T02:15:47.584Z"
+generated_at: "2026-03-29T18:26:14.846Z"
 ---
 
-# §§ 1111 to 1119. Repealed. Pub. L. 94–579, title VII, § 703(a) , Oct. 21, 1976 , 90 Stat. 2789
+# §§ 1111 to 1119. Repealed. Pub. L. 94–579, title VII , § 703(a), Oct. 21, 1976 , 90 Stat. 2789
 

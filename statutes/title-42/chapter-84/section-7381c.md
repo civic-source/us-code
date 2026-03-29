@@ -3,9 +3,9 @@ title: "Section 7381c - Education partnerships"
 usc_title: 42
 usc_section: "7381c"
 chapter: 84
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 7381c"
-generated_at: "2026-03-29T18:07:14.858Z"
+generated_at: "2026-03-29T18:27:03.772Z"
 ---
 
 # § 7381c. Education partnerships

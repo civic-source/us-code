@@ -1,12 +1,12 @@
 ---
-title: "Section 1727 - Repealed. Pub. L. 90–384, § 1(a) , July 5, 1968 , 82 Stat. 292 ]"
+title: "Section 1727 - Repealed. Pub. L. 90–384 , § 1(a), July 5, 1968 , 82 Stat. 292 ]"
 usc_title: 18
 usc_section: "1727"
 chapter: 83
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "18 U.S.C. § 1727"
-generated_at: "2026-03-29T18:04:50.930Z"
+generated_at: "2026-03-29T18:24:43.823Z"
 ---
 
-# [§ 1727. Repealed. Pub. L. 90–384, § 1(a) , July 5, 1968 , 82 Stat. 292 ]
+# [§ 1727. Repealed. Pub. L. 90–384 , § 1(a), July 5, 1968 , 82 Stat. 292 ]
 

@@ -3,9 +3,9 @@ title: "Section 41761 - Purpose"
 usc_title: 49
 usc_section: "41761"
 chapter: 417
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 41761"
-generated_at: "2026-03-29T18:07:51.496Z"
+generated_at: "2026-03-29T18:27:16.589Z"
 ---
 
 # § 41761. Purpose

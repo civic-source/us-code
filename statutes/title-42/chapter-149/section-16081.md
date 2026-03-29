@@ -3,9 +3,9 @@ title: "Section 16081 - Fuel cell transit bus demonstration"
 usc_title: 42
 usc_section: "16081"
 chapter: 149
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 16081"
-generated_at: "2026-03-29T18:07:15.448Z"
+generated_at: "2026-03-29T18:27:04.208Z"
 ---
 
 # § 16081. Fuel cell transit bus demonstration

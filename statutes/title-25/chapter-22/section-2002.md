@@ -3,9 +3,9 @@ title: "Section 2002 - National criteria for home-living situations"
 usc_title: 25
 usc_section: "2002"
 chapter: 22
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 2002"
-generated_at: "2026-03-29T18:05:17.200Z"
+generated_at: "2026-03-29T18:25:23.761Z"
 ---
 
 # § 2002. National criteria for home-living situations
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T18:05:17.200Z"
     - **(E)** aggregate cost estimates for bringing all such schools into compliance with the criteria established under this section; and
     - **(F)** specific timelines for bringing each school into compliance with such standards.
 - **(d)**
-  - **(1)** A tribal governing body or local school board may, in accordance with this subsection, waive the standards established under this section for a school described in subsection (a) of this section.
+  - **(1)** A tribal governing body or local school board may, in accordance with this subsection, waive the standards established under this section for a school described in subsection (a).
   - **(2)**
     - **(A)** A tribal governing body, or the local school board so designated by the tribal governing body, may waive, in whole or in part, the standards established under this section if such standards are determined by such body or board to be inappropriate for the needs of students from that tribe.
     - **(B)** The tribal governing body or school board involved shall, not later than 60 days after providing a waiver under subparagraph (A) for a school, submit to the Director a proposal for alternative standards that take into account the specific needs of the tribe’s children. Such alternative standards shall be established by the Director for the school involved unless specifically rejected by the Director for good cause and in writing provided to the affected tribes or local school board.

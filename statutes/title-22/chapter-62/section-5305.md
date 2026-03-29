@@ -3,15 +3,15 @@ title: "Section 5305 - Reporting requirements"
 usc_title: 22
 usc_section: "5305"
 chapter: 62
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 5305"
-generated_at: "2026-03-29T18:05:21.969Z"
+generated_at: "2026-03-29T18:24:54.328Z"
 ---
 
 # § 5305. Reporting requirements
 
 - **(a)** In furtherance of the purpose of this chapter, the Secretary, after consultation with the Chairman of the Board, shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, on or before October 15 of each year, a written report on international economic policy, including exchange rate policy. The Secretary shall provide a written update of developments six months after the initial report. In addition, the Secretary shall appear, if requested, before both committees to provide testimony on these reports.
-- **(b)** Each report submitted under subsection (a) of this section shall contain—
+- **(b)** Each report submitted under subsection (a) shall contain—
   - **(1)** an analysis of currency market developments and the relationship between the United States dollar and the currencies of our major trade competitors;
   - **(2)** an evaluation of the factors in the United States and other economies that underlie conditions in the currency markets, including developments in bilateral trade and capital flows;
   - **(3)** a description of currency intervention or other actions undertaken to adjust the actual exchange rate of the dollar;

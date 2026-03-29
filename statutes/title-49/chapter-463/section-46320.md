@@ -3,9 +3,9 @@ title: "Section 46320 - Interference with wildfire suppression, law enforcement,
 usc_title: 49
 usc_section: "46320"
 chapter: 463
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 46320"
-generated_at: "2026-03-29T02:16:09.058Z"
+generated_at: "2026-03-29T18:27:16.622Z"
 ---
 
 # § 46320. Interference with wildfire suppression, law enforcement, or emergency response effort by operation of unmanned aircraft

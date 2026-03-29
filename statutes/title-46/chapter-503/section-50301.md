@@ -3,15 +3,15 @@ title: "Section 50301 - Vessel Operations Revolving Fund"
 usc_title: 46
 usc_section: "50301"
 chapter: 503
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "46 U.S.C. § 50301"
-generated_at: "2026-03-29T18:07:34.385Z"
+generated_at: "2026-03-29T18:27:18.910Z"
 ---
 
 # § 50301. Vessel Operations Revolving Fund
 
 - **(a)** There is a “Vessel Operations Revolving Fund” for use by the Secretary of Transportation in carrying out duties and powers related to vessel operations, including charter, operation, maintenance, repair, reconditioning, and improvement of merchant vessels under the jurisdiction of the Secretary. The Fund has a working capital of $20,000,000, to remain available until expended.
-- **(b)** Notwithstanding any other law, rates for shipping services provided under the Fund shall be prescribed by the Secretary and the Fund shall be credited with receipts from vessel operations conducted under the Fund. Sections 1(a) and (c), 3(c), and 4 of the Act of March 24, 1943 (50 App. U.S.C. 1291(a), (c), 1293(c), 1294), apply to those operations and to seamen employed through general agents as employees of the United States Government. Notwithstanding any other law on the employment of persons by the Government, the seamen may be employed in accordance with customary commercial practices in the maritime industry.
+- **(b)** Notwithstanding any other law, rates for shipping services provided under the Fund shall be prescribed by the Secretary and the Fund shall be credited with receipts from vessel operations conducted under the Fund. Sections 1(a) and (c), 3(c), and 4 of the Act of March 24, 1943 (50 App. U.S.C. 1291(a), (c), 1293(c), 1294), 1 1 See References in Text note below. apply to those operations and to seamen employed through general agents as employees of the United States Government. Notwithstanding any other law on the employment of persons by the Government, the seamen may be employed in accordance with customary commercial practices in the maritime industry.
 - **(c)** With the approval of the Director of the Office of Management and Budget, the Secretary may advance amounts the Secretary considers necessary, but not more than 2 percent of vessel operating expenses, from the Fund to the appropriation “Salaries and Expenses” in carrying out duties and powers related to vessel operations, without regard to the limitations on amounts stated in that appropriation.
 - **(d)** The unexpended balances of working funds or of allocation accounts established after January 1, 1951 , for the activities provided for in subsection (a), and receipts received from those activities, may be transferred to the Fund, which shall be available for the purposes of those working funds or allocation accounts.
 - **(e)**

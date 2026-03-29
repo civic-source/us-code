@@ -3,9 +3,9 @@ title: "Section 3108 - Allowances"
 usc_title: 38
 usc_section: "3108"
 chapter: 31
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "38 U.S.C. § 3108"
-generated_at: "2026-03-29T18:06:22.788Z"
+generated_at: "2026-03-29T18:26:07.595Z"
 ---
 
 # § 3108. Allowances
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T18:06:22.788Z"
   - **(3)** With respect to any fiscal year beginning on or after October 1, 1995 , the Secretary shall continue to pay, in lieu of the rates payable under paragraph (1) of this subsection, the monthly rates payable under this subsection for the previous fiscal year and shall provide, for any such fiscal year, a percentage increase in such rates equal to the percentage by which—
     - **(A)** the Consumer Price Index (all items, United States city average) for the 12-month period ending on June 30 preceding the beginning of the fiscal year for which the increase is made, exceeds
     - **(B)** such Consumer Price Index for the 12-month period preceding the 12-month period described in subparagraph (A).
-  - **(4)** A veteran entitled to a subsistence allowance under this chapter and educational assistance under chapter 33 of this title may elect to receive payment from the Secretary in lieu of an amount otherwise determined by the Secretary under this subsection in an amount equal to the applicable monthly amount of basic allowance for housing payable under section 403 of title 37 for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the institution providing 1 1 So in original. Probably should be followed by “the”. rehabilitation program concerned.
+  - **(4)** A veteran entitled to a subsistence allowance under this chapter and educational assistance under chapter 33 of this title may elect to receive payment from the Secretary in lieu of an amount otherwise determined by the Secretary under this subsection in an amount equal to the applicable monthly amount of basic allowance for housing payable under section 403 of title 37 for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the institution providing the rehabilitation program concerned.
 - **(c)**
   - **(1)** In any case in which the vocational rehabilitation program for a veteran includes training on the job by an employer in any month, such employer shall be required to submit to the Secretary a statement in writing showing any wage, compensation, or other income paid (directly or indirectly) by the employer to such veteran for such month. Based upon such written statement, the Secretary is authorized to reduce the subsistence allowance of such veteran to an amount considered equitable and just in accordance with criteria which the Secretary shall establish in regulations which the Secretary shall prescribe.
   - **(2)** A veteran pursuing on-job training or work experience as part of a vocational rehabilitation program in a Federal, State, or local government agency or federally recognized Indian tribe under the provisions of section 3115(a)(1) of this title without pay or for nominal pay shall be paid the appropriate subsistence allowance rate provided in subsection (b) of this section for an institutional program.

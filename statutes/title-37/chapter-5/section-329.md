@@ -3,9 +3,9 @@ title: "Section 329 - Incentive bonus: retired members and reserve component mem
 usc_title: 37
 usc_section: "329"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "37 U.S.C. § 329"
-generated_at: "2026-03-29T18:06:17.216Z"
+generated_at: "2026-03-29T18:26:10.134Z"
 ---
 
 # § 329. Incentive bonus: retired members and reserve component members volunteering for high-demand, low-density assignments

@@ -3,9 +3,9 @@ title: "Section 2279f - Merger of similar banks"
 usc_title: 12
 usc_section: "2279f"
 chapter: 23
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 2279f"
-generated_at: "2026-03-29T18:04:43.650Z"
+generated_at: "2026-03-29T18:24:02.976Z"
 ---
 
 # § 2279f. Merger of similar banks
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T18:04:43.650Z"
   - **(4)** in the case of a bank for cooperatives, a majority of the total equity interests in such merging bank for cooperatives (including allocated, but not unallocated, surplus and reserves) held by those stockholders or subscribers to the guaranty fund of the bank voting.
 - **(b)** Sections 2279a–2 and 2279a–3 of this title shall apply to banks merged under this section.
 - **(c)**
-  - **(1)** After a merger under subsection (a) of this section, a board of directors shall be created for the resulting bank.
+  - **(1)** After a merger under subsection (a), a board of directors shall be created for the resulting bank.
   - **(2)** The board shall be composed of—
     - **(A)** two directors elected by each of the bank boards, with at least one such director from each bank being elected by the eligible stockholders of, or subscribers to, the guaranty fund of the merging banks; and
     - **(B)** one outside director elected by the directors elected under subparagraph (A).

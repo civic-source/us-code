@@ -1,12 +1,12 @@
 ---
-title: "Section 14073 - Repealed. Pub. L. 109–248, title I, § 129(a) , July 27, 2006 , 120 Stat. 600"
+title: "Section 14073 - Repealed. Pub. L. 109–248, title I , § 129(a), July 27, 2006 , 120 Stat. 600"
 usc_title: 42
 usc_section: "14073"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 14073"
-generated_at: "2026-03-29T02:15:37.278Z"
+generated_at: "2026-03-29T18:27:04.155Z"
 ---
 
-# §§ 14071 to 14073. Repealed. Pub. L. 109–248, title I, § 129(a) , July 27, 2006 , 120 Stat. 600
+# §§ 14071 to 14073. Repealed. Pub. L. 109–248, title I , § 129(a), July 27, 2006 , 120 Stat. 600
 

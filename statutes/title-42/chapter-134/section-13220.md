@@ -3,9 +3,9 @@ title: "Section 13220 - Biodiesel fuel use credits"
 usc_title: 42
 usc_section: "13220"
 chapter: 134
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 13220"
-generated_at: "2026-03-29T18:07:15.302Z"
+generated_at: "2026-03-29T18:27:04.108Z"
 ---
 
 # § 13220. Biodiesel fuel use credits
@@ -18,11 +18,11 @@ generated_at: "2026-03-29T18:07:15.302Z"
   - **(3)** The Secretary may, by rule, lower the 20 percent biodiesel volume requirement in paragraph (1) for reasons related to cold start, safety, or vehicle function considerations.
   - **(4)** A fleet or covered person seeking a credit under this section shall provide written documentation to the Secretary supporting the allocation of a credit to such fleet or covered person under paragraph (1).
 - **(b)**
-  - **(1)** At the request of a fleet or covered person allocated a credit under subsection (a) of this section, the Secretary shall, for the year in which the purchase of a qualifying volume is made, treat that purchase as the acquisition of one alternative fueled vehicle the fleet or covered person is required to acquire under this subchapter, subchapter II of this chapter, or subchapter III of this chapter.
-  - **(2)** Credits allocated under subsection (a) of this section may not be used to satisfy more than 50 percent of the alternative fueled vehicle requirements of a fleet or covered person under this subchapter, subchapter II of this chapter, and subchapter III of this chapter. This paragraph shall not apply to a fleet or covered person that is a biodiesel alternative fuel provider described in section 13251(a)(2)(A) of this title .
+  - **(1)** At the request of a fleet or covered person allocated a credit under subsection (a), the Secretary shall, for the year in which the purchase of a qualifying volume is made, treat that purchase as the acquisition of one alternative fueled vehicle the fleet or covered person is required to acquire under this subchapter, subchapter II, or subchapter III.
+  - **(2)** Credits allocated under subsection (a) may not be used to satisfy more than 50 percent of the alternative fueled vehicle requirements of a fleet or covered person under this subchapter, subchapter II, and subchapter III. This paragraph shall not apply to a fleet or covered person that is a biodiesel alternative fuel provider described in section 13251(a)(2)(A) of this title .
 - **(c)** A credit under this section shall not be considered a credit under section 13258 of this title .
 - **(d)** The Secretary shall, before January 1, 1999 , issue a rule establishing procedures for the implementation of this section.
-- **(e)** The Secretary shall collect such data as are required to make a determination described in subsection (f)(2)(B) of this section.
+- **(e)** The Secretary shall collect such data as are required to make a determination described in subsection (f)(2)(B).
 - **(f)** For purposes of this section—
   - **(1)** the term “biodiesel”—
     - **(A)** means a diesel fuel substitute produced from nonpetroleum renewable resources that meets the registration requirements for fuels and fuel additives established by the Environmental Protection Agency under section 7545 of this title ;

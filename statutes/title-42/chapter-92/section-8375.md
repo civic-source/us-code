@@ -1,12 +1,12 @@
 ---
-title: "Section 8375 - Repealed. Pub. L. 100–42, § 1(a)(5) , May 21, 1987 , 101 Stat. 310"
+title: "Section 8375 - Repealed. Pub. L. 100–42 , § 1(a)(5), May 21, 1987 , 101 Stat. 310"
 usc_title: 42
 usc_section: "8375"
 chapter: 92
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 8375"
-generated_at: "2026-03-29T18:07:15.001Z"
+generated_at: "2026-03-29T18:27:03.883Z"
 ---
 
-# § 8375. Repealed. Pub. L. 100–42, § 1(a)(5) , May 21, 1987 , 101 Stat. 310
+# § 8375. Repealed. Pub. L. 100–42 , § 1(a)(5), May 21, 1987 , 101 Stat. 310
 

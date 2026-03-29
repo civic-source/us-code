@@ -3,9 +3,9 @@ title: "Section 7421 - Jurisdiction and control"
 usc_title: 10
 usc_section: "7421"
 chapter: 641
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 7421"
-generated_at: "2026-03-29T18:04:13.277Z"
+generated_at: "2026-03-29T18:23:52.070Z"
 ---
 
 # § 7421. Jurisdiction and control

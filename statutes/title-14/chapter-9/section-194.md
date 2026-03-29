@@ -3,21 +3,35 @@ title: "Section 194 - Annual Board of Visitors"
 usc_title: 14
 usc_section: "194"
 chapter: 9
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "14 U.S.C. § 194"
-generated_at: "2026-03-29T18:04:21.486Z"
+generated_at: "2026-03-29T18:23:55.769Z"
 ---
 
 # § 194. Annual Board of Visitors
 
-- **(a)** In addition to the Advisory Committee, a Board of Visitors to the Academy is established to visit the Academy annually and to make recommendations on the operation of the Academy.
-- **(b)** The Board shall be composed of—
-  - **(1)** two Senators designated by the Chairman of the Committee on Commerce, Science, and Transportation of the Senate;
-  - **(2)** three Members of the House of Representatives designated by the Chairman of the Committee on Transportation and Infrastructure of the House of Representatives;
-  - **(3)** one Senator designated by the President of the Senate;
-  - **(4)** two Members of the House of Representatives designated by the Speaker of the House of Representatives; and
-  - **(5)** the Chairman of the Committee on Commerce, Science, and Transportation of the Senate and the Chairman of the Committee on Transportation and Infrastructure of the House of Representatives, as ex officio Members.
-- **(c)** When a Member is unable to attend the annual meeting another Member may be designated as provided under subsection (b).
-- **(d)** When an ex officio Member is unable to attend the annual meeting that Member may designate another Member.
-- **(e)** Members of the Board shall be designated in the First Session and serve for the duration of the Congress.
-- **(f)** The Board shall visit the Academy annually on the date chosen by the Secretary. Each Member of the Board shall be reimbursed, to the extent permitted by law, by the Coast Guard for actual expenses incurred while engaged in duties as a Member of the Board.
+- **(a)** A Board of Visitors to the Coast Guard Academy is established to review and make recommendations on the operation of the Academy.
+- **(b)**
+  - **(1)** The membership of the Board shall consist of the following:
+    - **(A)** The chairman of the Committee on Commerce, Science, and Transportation of the Senate, or the chairman’s designee.
+    - **(B)** The chairman of the Committee on Transportation and Infrastructure of the House of Representatives, or the chairman’s designee.
+    - **(C)** 3 Members of the Senate designated by the Vice President.
+    - **(D)** 4 Members of the House of Representatives designated by the Speaker of the House of Representatives.
+    - **(E)** 6 individuals designated by the President.
+  - **(2)**
+    - **(A)** A Member of Congress designated under subparagraph (C) or (D) of paragraph (1) as a member of the Board shall be designated as a member in the First Session of a Congress and serve for the duration of that Congress.
+    - **(B)** Each individual designated by the President under subparagraph (E) of paragraph (1) shall serve as a member of the Board for 3 years, except that any such member whose term of office has expired shall continue to serve until a successor is appointed.
+  - **(3)** If a member of the Board dies or resigns, a successor shall be designated for any unexpired portion of the term of the member by the official who designated the member.
+- **(c)**
+  - **(1)** The Board shall visit the Academy annually to review the operation of the Academy.
+  - **(2)** With the approval of the Secretary, the Board or individual members of the Board may make other visits to the Academy in connection with the duties of the Board or to consult with the Superintendent of the Academy.
+- **(d)** The Board shall review, with respect to the Academy—
+  - **(1)** the state of morale and discipline;
+  - **(2)** the curriculum;
+  - **(3)** instruction;
+  - **(4)** physical equipment;
+  - **(5)** fiscal affairs; and
+  - **(6)** other matters relating to the Academy that the Board determines appropriate.
+- **(e)** Not later than 60 days after the date of an annual visit of the Board under subsection (c)(1), the Board shall submit to the Secretary, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives a report on the actions of the Board during such visit and the recommendations of the Board pertaining to the Academy.
+- **(f)** If approved by the Secretary, the Board may consult with advisors in carrying out this section.
+- **(g)** Each member of the Board and each adviser consulted by the Board under subsection (f) shall be reimbursed, to the extent permitted by law, by the Coast Guard for actual expenses incurred while engaged in duties as a member or adviser.

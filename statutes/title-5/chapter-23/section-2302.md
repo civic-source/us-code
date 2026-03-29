@@ -3,9 +3,9 @@ title: "Section 2302 - Prohibited personnel practices"
 usc_title: 5
 usc_section: "2302"
 chapter: 23
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 2302"
-generated_at: "2026-03-29T18:03:29.841Z"
+generated_at: "2026-03-29T18:23:29.869Z"
 ---
 
 # § 2302. Prohibited personnel practices
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T18:03:29.841Z"
       - **(v)** a reinstatement;
       - **(vi)** a restoration;
       - **(vii)** a reemployment;
-      - **(viii)** a performance evaluation under chapter 43 of this title;
+      - **(viii)** a performance evaluation under chapter 43 of this title or under title 38;
       - **(ix)** a decision concerning pay, benefits, or awards, or concerning education or training if the education or training may reasonably be expected to lead to an appointment, promotion, performance evaluation, or other action described in this subparagraph;
       - **(x)** a decision to order psychiatric testing or examination;
       - **(xi)** the implementation or enforcement of any nondisclosure policy, form, or agreement; and
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T18:03:29.841Z"
     - **(B)** “covered position” means, with respect to any personnel action, any position in the competitive service, a career appointee position in the Senior Executive Service, or a position in the excepted service, but does not include any position which is, prior to the personnel action—
       - **(i)** excepted from the competitive service because of its confidential, policy-determining, policy-making, or policy-advocating character; or
       - **(ii)** excluded from the coverage of this section by the President based on a determination by the President that it is necessary and warranted by conditions of good administration;
-    - **(C)** “agency” means an Executive agency and the Government Printing Office, but does not include—
+    - **(C)** “agency” means an Executive agency and the Government Publishing Office, but does not include—
       - **(i)** a Government corporation, except in the case of an alleged prohibited personnel practice described under subsection (b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D);
       - **(ii)**
         - **(I)** the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, the Office of the Director of National Intelligence, and the National Reconnaissance Office; and

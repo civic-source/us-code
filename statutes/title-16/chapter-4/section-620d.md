@@ -3,9 +3,9 @@ title: "Section 620d - Monitoring and enforcement"
 usc_title: 16
 usc_section: "620d"
 chapter: 4
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 620d"
-generated_at: "2026-03-29T18:05:06.784Z"
+generated_at: "2026-03-29T18:24:22.674Z"
 ---
 
 # § 620d. Monitoring and enforcement
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T18:05:06.784Z"
       - **(i)** a written acknowledgment of the notice, and
       - **(ii)** a written agreement that the recipient of the timber will comply with the requirements of sections 620 to 620j of this title,
     - **(C)** provide to the Secretary of Commerce copies of all notices, acknowledgments, and agreements referred to in subparagraphs (A) and (B).
-- **(b)** Using the information gathered under subsection (a) of this section, the Secretaries of Agriculture and Interior shall, not later than June 1, 1995 , submit to the Congress a report on the disposition of unprocessed timber harvested from Federal lands west of the 100th meridian in the contiguous 48 States, and recommendations concerning the practice of indirect substitution of such timber for exported timber harvested from private lands. Specifically, such report shall—
+- **(b)** Using the information gathered under subsection (a), the Secretaries of Agriculture and Interior shall, not later than June 1, 1995 , submit to the Congress a report on the disposition of unprocessed timber harvested from Federal lands west of the 100th meridian in the contiguous 48 States, and recommendations concerning the practice of indirect substitution of such timber for exported timber harvested from private lands. Specifically, such report shall—
   - **(1)** analyze the effects of indirect substitution on market efficiency;
   - **(2)** analyze the effects of indirect substitution on domestic log supply;
   - **(3)** offer any recommendations that the Secretaries consider necessary for specific statutory or regulatory changes regarding indirect substitution;
@@ -57,4 +57,4 @@ generated_at: "2026-03-29T18:05:06.784Z"
       - **(i)** No person may be debarred from bidding for or entering into a contract for the purchase of unprocessed timber from Federal lands under subparagraph (A) unless the head of the appropriate Federal department or agency first finds, on the record and after an opportunity for a hearing, that debarment is warranted.
       - **(ii)** The head of an appropriate Federal department or agency may withhold an award under sections 620 to 620j of this title of a contract for the purchase of unprocessed timber from Federal lands during a debarment proceeding.
   - **(2)** The head of the appropriate Federal department or agency under sections 620 to 620j of this title may cancel any contract entered into with a person found to have violated sections 620 to 620j of this title or regulations issued under sections 620 to 620j of this title.
-- **(e)** Subsections (c) and (d) of this section do not apply to violations of section 620i of this title .
+- **(e)** Subsections (c) and (d) do not apply to violations of section 620i of this title .

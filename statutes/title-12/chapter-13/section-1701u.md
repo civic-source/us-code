@@ -3,9 +3,9 @@ title: "Section 1701u - Economic opportunities for low- and very low-income pers
 usc_title: 12
 usc_section: "1701u"
 chapter: 13
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 1701u"
-generated_at: "2026-03-29T18:04:43.461Z"
+generated_at: "2026-03-29T18:24:02.806Z"
 ---
 
 # § 1701u. Economic opportunities for low- and very low-income persons
@@ -22,22 +22,22 @@ generated_at: "2026-03-29T18:04:43.461Z"
     - **(B)** The efforts required under subparagraph (A) shall be directed in the following order of priority:
       - **(i)** To residents of the housing developments for which the assistance is expended.
       - **(ii)** To residents of other developments managed by the public or Indian housing agency that is expending the assistance.
-      - **(iii)** To participants in YouthBuild programs receiving assistance under section 2918a of title 29 .
+      - **(iii)** To participants in YouthBuild programs receiving assistance under section 3226 of title 29 .
       - **(iv)** To other low- and very low-income persons residing within the metropolitan area (or nonmetropolitan county) in which the assistance is expended.
   - **(2)**
     - **(A)** In other programs that provide housing and community development assistance, the Secretary shall ensure that, to the greatest extent feasible, and consistent with existing Federal, State, and local laws and regulations, opportunities for training and employment arising in connection with a housing rehabilitation (including reduction and abatement of lead-based paint hazards), housing construction, or other public construction project are given to low- and very low-income persons residing within the metropolitan area (or nonmetropolitan county) in which the project is located.
-    - **(B)** Where feasible, priority should be given to low- and very low-income persons residing within the service area of the project or the neighborhood in which the project is located and to participants in YouthBuild programs receiving assistance under section 2918a of title 29 .
+    - **(B)** Where feasible, priority should be given to low- and very low-income persons residing within the service area of the project or the neighborhood in which the project is located and to participants in YouthBuild programs receiving assistance under section 3226 of title 29 .
 - **(d)**
   - **(1)**
     - **(A)** The Secretary shall require that public and Indian housing agencies, and their contractors and subcontractors, make their best efforts, consistent with existing Federal, State, and local laws and regulations, to award contracts for work to be performed in connection with development assistance provided pursuant to section 1437c of title 42 , operating assistance provided pursuant to section 1437g of title 42 , and modernization grants provided pursuant to section 1437 l of title 42, 1 to business concerns that provide economic opportunities for low- and very low-income persons.
     - **(B)** The efforts required under subparagraph (A) shall be directed in the following order of priority:
       - **(i)** To business concerns that provide economic opportunities for residents of the housing development for which the assistance is provided.
       - **(ii)** To business concerns that provide economic opportunities for residents of other housing developments operated by the public and Indian housing agency that is providing the assistance.
-      - **(iii)** To YouthBuild programs receiving assistance under section 2918a of title 29 .
+      - **(iii)** To YouthBuild programs receiving assistance under section 3226 of title 29 .
       - **(iv)** To business concerns that provide economic opportunities for low- and very low-income persons residing within the metropolitan area (or nonmetropolitan county) in which the assistance is provided.
   - **(2)**
     - **(A)** In providing housing and community development assistance pursuant to other programs, the Secretary shall ensure that, to the greatest extent feasible, and consistent with existing Federal, State, and local laws and regulations, contracts awarded for work to be performed in connection with a housing rehabilitation (including reduction and abatement of lead-based paint hazards), housing construction, or other public construction project are given to business concerns that provide economic opportunities for low- and very low-income persons residing within the metropolitan area (or nonmetropolitan county) in which the assistance is expended.
-    - **(B)** Where feasible, priority should be given to business concerns which provide economic opportunities for low- and very low-income persons residing within the service area of the project or the neighborhood in which the project is located and to YouthBuild programs receiving assistance under section 2918a of title 29 .
+    - **(B)** Where feasible, priority should be given to business concerns which provide economic opportunities for low- and very low-income persons residing within the service area of the project or the neighborhood in which the project is located and to YouthBuild programs receiving assistance under section 3226 of title 29 .
 - **(e)** For the purposes of this section the following definitions shall apply:
   - **(1)** The terms “low-income persons” and “very low-income persons” have the same meanings given the terms “low-income families” and “very low-income families”, respectively, in section 1437a(b)(2) of title 42 .
   - **(2)** The term “a business concern that provides economic opportunities” means a business concern that—

@@ -3,9 +3,9 @@ title: "Section 6222 - United States Marine Band; United States Marine Drum and 
 usc_title: 10
 usc_section: "6222"
 chapter: 565
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 6222"
-generated_at: "2026-03-29T18:04:13.258Z"
+generated_at: "2026-03-29T18:23:52.052Z"
 ---
 
 # § 6222. United States Marine Band; United States Marine Drum and Bugle Corps: composition; appointment and promotion of members

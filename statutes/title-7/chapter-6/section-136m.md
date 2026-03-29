@@ -3,9 +3,9 @@ title: "Section 136m - Indemnities"
 usc_title: 7
 usc_section: "136m"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 136m"
-generated_at: "2026-03-29T18:04:04.728Z"
+generated_at: "2026-03-29T18:23:43.153Z"
 ---
 
 # § 136m. Indemnities
@@ -44,5 +44,5 @@ generated_at: "2026-03-29T18:04:04.728Z"
   - **(3)** Any payment required to be made under paragraph (1) or (2) shall be made from the appropriation provided under section 1304 of title 31 .
   - **(4)** An administrative settlement of a claim for such indemnity may be made in accordance with the third paragraph of section 2414 of title 28 and shall be regarded as if it were made under that section for purposes of section 1304 of title 31 .
 - **(c)**
-  - **(1)** The amount of an indemnity payment under subsection (a) or (b) of this section to any person shall be determined on the basis of the cost of the pesticide owned by the person (other than the cost of transportation, if any) immediately before the issuance of the notice to the registrant referred to in subsection (a)(1)(A), (b)(1)(A), or (b)(2)(B)(i) of this section, except that in no event shall an indemnity payment to any person exceed the fair market value of the pesticide owned by the person immediately before the issuance of the notice.
+  - **(1)** The amount of an indemnity payment under subsection (a) or (b) to any person shall be determined on the basis of the cost of the pesticide owned by the person (other than the cost of transportation, if any) immediately before the issuance of the notice to the registrant referred to in subsection (a)(1)(A), (b)(1)(A), or (b)(2)(B)(i), except that in no event shall an indemnity payment to any person exceed the fair market value of the pesticide owned by the person immediately before the issuance of the notice.
   - **(2)** Notwithstanding any other provision of this subchapter, the Administrator may provide a reasonable time for use or other disposal of the pesticide. In determining the quantity of any pesticide for which indemnity shall be paid under this section, proper adjustment shall be made for any pesticide used or otherwise disposed of by the owner.

@@ -3,14 +3,14 @@ title: "Section 4q - Opposition to assistance by international financial institu
 usc_title: 22
 usc_section: "4q"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 4q"
-generated_at: "2026-03-29T18:05:21.709Z"
+generated_at: "2026-03-29T18:24:54.101Z"
 ---
 
 # § 262p–4q. Opposition to assistance by international financial institutions to terrorist states
 
-- **(a)** The Secretary of the Treasury shall instruct the United States executive director of each international financial institution to use the voice and vote of the United States to oppose any loan or other use of the funds of the respective institution to or for a country for which the Secretary of State has made a determination under section 2405(j) of title 50 , Appendix, or section 2371 of this title .
+- **(a)** The Secretary of the Treasury shall instruct the United States executive director of each international financial institution to use the voice and vote of the United States to oppose any loan or other use of the funds of the respective institution to or for a country for which the Secretary of State has made a determination under section 4605(j) of title 50 or section 2371 of this title .
 - **(b)** For purposes of this section, the term “international financial institution” includes—
   - **(1)** the International Bank for Reconstruction and Development, the International Development Association, and the International Monetary Fund;
   - **(2)** wherever applicable, the Inter-American Bank, the Asian Development Bank, the European Bank for Reconstruction and Development, the African Development Bank, and the African Development Fund; and

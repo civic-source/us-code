@@ -3,17 +3,17 @@ title: "Section 613 - Video programming accessibility"
 usc_title: 47
 usc_section: "613"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "47 U.S.C. § 613"
-generated_at: "2026-03-29T18:07:40.888Z"
+generated_at: "2026-03-29T18:27:09.590Z"
 ---
 
 # § 613. Video programming accessibility
 
 - **(a)** Within 180 days after February 8, 1996 , the Federal Communications Commission shall complete an inquiry to ascertain the level at which video programming is closed captioned. Such inquiry shall examine the extent to which existing or previously published programming is closed captioned, the size of the video programming provider or programming owner providing closed captioning, the size of the market served, the relative audience shares achieved, or any other related factors. The Commission shall submit to the Congress a report on the results of such inquiry.
 - **(b)** Within 18 months after February 8, 1996 , the Commission shall prescribe such regulations as are necessary to implement this section. Such regulations shall ensure that—
-  - **(1)** video programming first published or exhibited after the effective date of such regulations is fully accessible through the provision of closed captions, except as provided in subsection (d) of this section; and
-  - **(2)** video programming providers or owners maximize the accessibility of video programming first published or exhibited prior to the effective date of such regulations through the provision of closed captions, except as provided in subsection (d) of this section.
+  - **(1)** video programming first published or exhibited after the effective date of such regulations is fully accessible through the provision of closed captions, except as provided in subsection (d); and
+  - **(2)** video programming providers or owners maximize the accessibility of video programming first published or exhibited prior to the effective date of such regulations through the provision of closed captions, except as provided in subsection (d).
 - **(c)**
   - **(1)** The regulations prescribed pursuant to subsection (b) shall include an appropriate schedule of deadlines for the provision of closed captioning of video programming once published or exhibited on television.
   - **(2)**
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T18:07:40.888Z"
       - **(vi)** shall consider that the video programming provider or distributor shall be deemed in compliance if such entity enables the rendering or pass through of closed captions and makes a good faith effort to identify video programming subject to the Act using the mechanism created in (v); and
       - **(vii)** shall provide that de minimis failure to comply with such regulations by a video programming provider or owner shall not be treated as a violation of the regulations.
   - **(3)** An entity may meet the requirements of this section through alternate means than those prescribed by regulations pursuant to subsection (b), as revised pursuant to paragraph (2)(A) of this subsection, if the requirements of this section are met, as determined by the Commission.
-- **(d)** Notwithstanding subsection (b) of this section—
+- **(d)** Notwithstanding subsection (b)—
   - **(1)** the Commission may exempt by regulation programs, classes of programs, or services for which the Commission has determined that the provision of closed captioning would be economically burdensome to the provider or owner of such programming;
   - **(2)** a provider of video programming or the owner of any program carried by the provider shall not be obligated to supply closed captions if such action would be inconsistent with contracts in effect on February 8, 1996 , except that nothing in this section shall be construed to relieve a video programming provider of its obligations to provide services required by Federal law; and
   - **(3)** a provider of video programming or program owner may petition the Commission for an exemption from the requirements of this section, and the Commission may grant such petition upon a showing that the requirements contained in this section would be economically burdensome. During the pendency of such a petition, such provider or owner shall be exempt from the requirements of this section. The Commission shall act to grant or deny any such petition, in whole or in part, within 6 months after the Commission receives such petition, unless the Commission finds that an extension of the 6-month period is necessary to determine whether such requirements are economically burdensome.

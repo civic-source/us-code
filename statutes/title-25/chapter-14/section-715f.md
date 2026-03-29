@@ -1,14 +1,12 @@
 ---
-title: "Section 715f - Interim government"
+title: "Section 715f - Omitted"
 usc_title: 25
 usc_section: "715f"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 715f"
-generated_at: "2026-03-29T18:05:17.100Z"
+generated_at: "2026-03-29T18:25:23.700Z"
 ---
 
-# § 715f. Interim government
-
-Until a new tribal constitution and bylaws are adopted and become effective under section 715g of this title , the Tribe’s governing body shall be an Interim Council. The initial membership of the Interim Council shall consist of the members of the Tribal Council of the Coquille Tribe on June 28, 1989 , and the Interim Council shall continue to operate in the manner prescribed for the Tribal Council under the tribal bylaws adopted on April 23, 1979 . Any new members filling vacancies on the Interim Council must meet the criteria for enrollment in section 715e(b) of this title and be elected in the same manner as are Tribal Council members under the April 23, 1979 , bylaws.
+# § 715f. Omitted
 

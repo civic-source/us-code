@@ -3,9 +3,9 @@ title: "Section 13472 - High efficiency heat engines"
 usc_title: 42
 usc_section: "13472"
 chapter: 134
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 13472"
-generated_at: "2026-03-29T18:07:15.324Z"
+generated_at: "2026-03-29T18:27:04.122Z"
 ---
 
 # § 13472. High efficiency heat engines
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T18:07:15.324Z"
     - **(B)** intercooled gas turbines with steam injection or recuperation;
     - **(C)** gas turbines utilizing reformed fuels or hydrogen; and
     - **(D)** high efficiency, simple cycle gas turbines.
-- **(b)** The goal of the program established under subsection (a) of this section shall be to develop heat engines that can achieve over 50 percent efficiency in the mid-term.
+- **(b)** The goal of the program established under subsection (a) shall be to develop heat engines that can achieve over 50 percent efficiency in the mid-term.
 - **(c)** Within 180 days after October 24, 1992 , the Secretary shall prepare and submit to the Congress a 5-year program plan, to be included in the plan required under section 13451(c) of this title , to guide the activities under this section. In preparing the program plan, the Secretary shall consult with appropriate representatives of industry, institutions of higher education, Federal agencies, including the Environmental Protection Agency and national laboratories, and professional and technical societies.
 - **(d)** Within 1 year after October 24, 1992 , the Secretary shall solicit proposals for conducting activities under this section.
 - **(e)** There are authorized to be appropriated to the Secretary for carrying out this section such sums as may be necessary to be derived from sums authorized under section 13451(e) of this title .

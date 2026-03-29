@@ -3,9 +3,9 @@ title: "Section 4518 - Prohibition and withholding of executive compensation"
 usc_title: 12
 usc_section: "4518"
 chapter: 46
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 4518"
-generated_at: "2026-03-29T18:04:43.712Z"
+generated_at: "2026-03-29T18:24:03.031Z"
 ---
 
 # § 4518. Prohibition and withholding of executive compensation
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T18:04:43.712Z"
 - **(a)** The Director shall prohibit the regulated entities from providing compensation to any executive officer of the regulated entity that is not reasonable and comparable with compensation for employment in other similar businesses (including other publicly held financial institutions or major financial services companies) involving similar duties and responsibilities.
 - **(b)** In making any determination under subsection (a), the Director may take into consideration any factors the Director considers relevant, including any wrongdoing on the part of the executive officer, and such wrongdoing shall include any fraudulent act or omission, breach of trust or fiduciary duty, violation of law, rule, regulation, order, or written agreement, and insider abuse with respect to the regulated entity. The approval of an agreement or contract pursuant to section 1723a(d)(3)(B) of this title or section 1452(h)(2) of this title shall not preclude the Director from making any subsequent determination under subsection (a).
 - **(c)** In carrying out subsection (a), the Director may require a regulated entity to withhold any payment, transfer, or disbursement of compensation to an executive officer, or to place such compensation in an escrow account, during the review of the reasonableness and comparability of compensation.
-- **(d)** In carrying out subsection (a) of this section, the Director may not prescribe or set a specific level or range of compensation.
+- **(d)** In carrying out subsection (a), the Director may not prescribe or set a specific level or range of compensation.
 - **(e)**
   - **(1)** The Director may prohibit or limit, by regulation or order, any golden parachute payment or indemnification payment.
   - **(2)** The Director shall prescribe, by regulation, the factors to be considered by the Director in taking any action pursuant to paragraph (1), which may include such factors as—

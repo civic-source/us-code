@@ -3,9 +3,9 @@ title: "Section 1722A - Copayment for medications"
 usc_title: 38
 usc_section: "1722A"
 chapter: 17
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "38 U.S.C. § 1722A"
-generated_at: "2026-03-29T18:06:22.755Z"
+generated_at: "2026-03-29T18:26:07.563Z"
 ---
 
 # § 1722A. Copayment for medications
@@ -17,6 +17,7 @@ generated_at: "2026-03-29T18:06:22.755Z"
     - **(A)** to a veteran with a service-connected disability rated 50 percent or more;
     - **(B)** to a veteran who is a former prisoner of war; or
     - **(C)** to a veteran whose annual income (as determined under section 1503 of this title ) does not exceed the maximum annual rate of pension which would be payable to such veteran if such veteran were eligible for pension under section 1521 of this title .
+  - **(4)** Paragraph (1) does not apply to opioid antagonists furnished under this chapter to a veteran who is at high risk for overdose of a specific medication or substance in order to reverse the effect of such an overdose.
 - **(b)** The Secretary, pursuant to regulations which the Secretary shall prescribe, may—
   - **(1)** increase the copayment amount in effect under subsection (a); and
   - **(2)** establish a maximum monthly and a maximum annual pharmaceutical copayment amount under subsection (a) for veterans who have multiple outpatient prescriptions.

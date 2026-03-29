@@ -3,9 +3,9 @@ title: "Section 1908 - Judicial Review Commission on Foreign Asset Control"
 usc_title: 21
 usc_section: "1908"
 chapter: 24
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 1908"
-generated_at: "2026-03-29T18:05:14.933Z"
+generated_at: "2026-03-29T18:25:04.248Z"
 ---
 
 # § 1908. Judicial Review Commission on Foreign Asset Control
@@ -46,13 +46,13 @@ generated_at: "2026-03-29T18:05:14.933Z"
     - **(B)** Members of the Commission who are officers or employees of the United States shall receive no additional pay by reason of their service on the Commission.
   - **(2)** While away from their homes or regular places of business in the performance of services for the Commission, members of the Commission may be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) 2 2 So in original. Section 5703 of title 5 does not contain a subsec. (b). of title 5.
 - **(g)**
-  - **(1)** Not later than 1 year after December 3, 1999 , the Commissions 3 3 So in original. Probably should be “Commission”. shall submit to the committees of Congress referred to in paragraph (4) a report on the activities of the Commission under this section, including the findings, conclusions, and recommendations, if any, of the Commission as a result of the review under subsection (c)(1) of this section and the examination and evaluation under subsection (c)(2) of this section.
+  - **(1)** Not later than 1 year after December 3, 1999 , the Commissions 3 3 So in original. Probably should be “Commission”. shall submit to the committees of Congress referred to in paragraph (4) a report on the activities of the Commission under this section, including the findings, conclusions, and recommendations, if any, of the Commission as a result of the review under subsection (c)(1) and the examination and evaluation under subsection (c)(2).
   - **(2)** The report under paragraph (1) shall include any additional or dissenting views of a member of the Commission upon the request of the member.
   - **(3)** The report under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
   - **(4)** The committees of Congress referred to in this paragraph are the following:
     - **(A)** The Select Committee on Intelligence and the Committees on Foreign Relations and the Judiciary of the Senate.
     - **(B)** The Permanent Select Committee on Intelligence and the Committees on International Relations and the Judiciary of the House of Representatives.
-- **(h)** The Commission shall terminate at the end of the 60-day period beginning on the date on which the report required by subsection (g) of this section is submitted to the committees of Congress referred to in that subsection.
+- **(h)** The Commission shall terminate at the end of the 60-day period beginning on the date on which the report required by subsection (g) is submitted to the committees of Congress referred to in that subsection.
 - **(i)**
   - **(1)** The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the activities of the Commission under this section.
   - **(2)** The provisions of section 552 of title 5 (commonly referred to as the Freedom of Information Act) shall not apply to the activities, records, and proceedings of the Commission under this chapter.

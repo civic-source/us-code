@@ -3,9 +3,9 @@ title: "Section 15205 - Authorization of appropriations"
 usc_title: 42
 usc_section: "15205"
 chapter: 145
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 15205"
-generated_at: "2026-03-29T18:07:15.405Z"
+generated_at: "2026-03-29T18:27:04.188Z"
 ---
 
 # § 15205. Authorization of appropriations

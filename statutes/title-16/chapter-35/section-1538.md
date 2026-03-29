@@ -3,9 +3,9 @@ title: "Section 1538 - Prohibited acts"
 usc_title: 16
 usc_section: "1538"
 chapter: 35
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 1538"
-generated_at: "2026-03-29T18:05:06.954Z"
+generated_at: "2026-03-29T18:24:22.814Z"
 ---
 
 # § 1538. Prohibited acts
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T18:05:06.954Z"
 - **(b)**
   - **(1)** The provisions of subsections (a)(1)(A) and (a)(1)(G) of this section shall not apply to any fish or wildlife which was held in captivity or in a controlled environment on (A) December 28, 1973 , or (B) the date of the publication in the Federal Register of a final regulation adding such fish or wildlife species to any list published pursuant to subsection (c) of section 1533 of this title : Provided , That such holding and any subsequent holding or use of the fish or wildlife was not in the course of a commercial activity. With respect to any act prohibited by subsections (a)(1)(A) and (a)(1)(G) of this section which occurs after a period of 180 days from (i) December 28, 1973 , or (ii) the date of publication in the Federal Register of a final regulation adding such fish or wildlife species to any list published pursuant to subsection (c) of section 1533 of this title , there shall be a rebuttable presumption that the fish or wildlife involved in such act is not entitled to the exemption contained in this subsection.
   - **(2)**
-    - **(A)** The provisions of subsection (a)(1) of this section shall not apply to—
+    - **(A)** The provisions of subsection (a)(1) shall not apply to—
       - **(i)** any raptor legally held in captivity or in a controlled environment on November 10, 1978 ; or
       - **(ii)** any progeny of any raptor described in clause (i);
     - **(B)** Any person holding any raptor or progeny described in subparagraph (A) must be able to demonstrate that the raptor or progeny does, in fact, qualify under the provisions of this paragraph, and shall maintain and submit to the Secretary, on request, such inventories, documentation, and records as the Secretary may by regulation require as being reasonably appropriate to carry out the purposes of this paragraph. Such requirements shall not unnecessarily duplicate the requirements of other rules and regulations promulgated by the Secretary.

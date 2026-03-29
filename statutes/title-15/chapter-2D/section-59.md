@@ -3,9 +3,9 @@ title: "Section 59 - Functions and activities of business development companies"
 usc_title: 15
 usc_section: "59"
 chapter: 2
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 59"
-generated_at: "2026-03-29T18:04:29.404Z"
+generated_at: "2026-03-29T18:24:08.311Z"
 ---
 
 # § 80a–59. Functions and activities of business development companies

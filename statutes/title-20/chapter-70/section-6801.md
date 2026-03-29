@@ -1,19 +1,18 @@
 ---
-title: "Section 6801 - Authorizations of appropriations; condition on effectiveness of parts"
+title: "Section 6801 - Authorization of appropriations"
 usc_title: 20
 usc_section: "6801"
 chapter: 70
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 6801"
-generated_at: "2026-03-29T18:05:00.337Z"
+generated_at: "2026-03-29T18:24:41.133Z"
 ---
 
-# § 6801. Authorizations of appropriations; condition on effectiveness of parts
+# § 6801. Authorization of appropriations
 
-- **(a)**
-  - **(1)** Subject to subsection (b) of this section, there are authorized to be appropriated to carry out this subchapter, except for subpart 4 of part B, $750,000,000 for fiscal year 2002 and such sums as may be necessary for each of the 5 succeeding fiscal years.
-  - **(2)** There are authorized to be appropriated to carry out subpart 4 of part B of this subchapter (when such part is in effect) such sums as may be necessary for fiscal year 2002 and each of the 5 succeeding fiscal years.
-- **(b)**
-  - **(1)** Part A of this subchapter shall be in effect for any fiscal year for which the amount appropriated under paragraphs (1) and (2) of subsection (a) of this section equals or exceeds $650,000,000.
-  - **(2)** Part B of this subchapter shall be in effect only for a fiscal year for which part A of this subchapter is not in effect.
-- **(c)** In any fiscal year for which part A of this subchapter is in effect, references in Federal law (other than this subchapter) to part B of this subchapter shall be considered to be references to part A of this subchapter. In any fiscal year for which part B of this subchapter is in effect, references in Federal law (other than this subchapter) to part A of this subchapter shall be considered to be references to part B of this subchapter.
+There are authorized to be appropriated to carry out this subchapter—
+
+  - **(1)** $756,332,450 for fiscal year 2017;
+  - **(2)** $769,568,267 for fiscal year 2018;
+  - **(3)** $784,959,633 for fiscal year 2019; and
+  - **(4)** $884,959,633 for fiscal year 2020.

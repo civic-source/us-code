@@ -3,9 +3,9 @@ title: "Section 6730 - Payments"
 usc_title: 42
 usc_section: "6730"
 chapter: 80
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 6730"
-generated_at: "2026-03-29T18:07:14.789Z"
+generated_at: "2026-03-29T18:27:03.722Z"
 ---
 
 # § 6730. Payments

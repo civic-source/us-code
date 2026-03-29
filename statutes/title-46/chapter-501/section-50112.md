@@ -3,9 +3,9 @@ title: "Section 50112 - National Maritime Enhancement Institutes"
 usc_title: 46
 usc_section: "50112"
 chapter: 501
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "46 U.S.C. § 50112"
-generated_at: "2026-03-29T18:07:34.385Z"
+generated_at: "2026-03-29T18:27:18.910Z"
 ---
 
 # § 50112. National Maritime Enhancement Institutes
@@ -29,4 +29,4 @@ generated_at: "2026-03-29T18:07:34.385Z"
   - **(4)** The demonstrated ability of the applicant to assemble and evaluate pertinent information from national and international sources and to disseminate results of maritime industry research and educational programs through a continuing education program.
   - **(5)** The qualification of the applicant as a nonprofit institution of higher learning.
 - **(e)** The Secretary may make awards on an equal matching basis to an institute designated under subsection (a) from amounts appropriated. The aggregate annual amount of the Federal share of the awards by the Secretary may not exceed $500,000.
-- **(f)** The Secretary may make a grant under section 5505 of title 49 to an institute designated under subsection (a) for maritime and maritime intermodal research under that section as if the institute were a university transportation center. In making a grant, the Secretary, through the Research and Innovative Technology Administration, shall advise the Maritime Administration on the availability of funds for the grants and consult with the Administration on making the grants.
+- **(f)** The Secretary may make a grant under section 5505 of title 49 to an institute designated under subsection (a) for maritime and maritime intermodal research under that section as if the institute were a university transportation center. In making a grant, the Secretary, through the Office of the Assistant Secretary for Research and Technology of the Department of Transportation, shall advise the Maritime Administration on the availability of funds for the grants and consult with the Administration on making the grants.

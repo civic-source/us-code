@@ -1,12 +1,12 @@
 ---
-title: "Section 5863 - Repealed. Pub. L. 85–861, § 36B(14) , Sept. 2, 1958 , 72 Stat. 1571 ]"
+title: "Section 5863 - Repealed. Pub. L. 85–861 , § 36B(14), Sept. 2, 1958 , 72 Stat. 1571 ]"
 usc_title: 10
 usc_section: "5863"
 chapter: 547
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 5863"
-generated_at: "2026-03-29T18:04:13.254Z"
+generated_at: "2026-03-29T18:23:52.048Z"
 ---
 
-# [§ 5863. Repealed. Pub. L. 85–861, § 36B(14) , Sept. 2, 1958 , 72 Stat. 1571 ]
+# [§ 5863. Repealed. Pub. L. 85–861 , § 36B(14), Sept. 2, 1958 , 72 Stat. 1571 ]
 

@@ -3,9 +3,9 @@ title: "Section 408g - Submerged lands surrounding islands"
 usc_title: 16
 usc_section: "408g"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 408g"
-generated_at: "2026-03-29T18:05:06.452Z"
+generated_at: "2026-03-29T18:24:22.463Z"
 ---
 
 # § 408g. Submerged lands surrounding islands

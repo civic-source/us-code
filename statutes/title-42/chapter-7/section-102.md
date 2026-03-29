@@ -3,30 +3,30 @@ title: "Section 102 - Prescription drug benefits"
 usc_title: 42
 usc_section: "102"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 102"
-generated_at: "2026-03-29T18:07:13.978Z"
+generated_at: "2026-03-29T18:27:03.111Z"
 ---
 
 # § 1395w–102. Prescription drug benefits
 
 - **(a)**
-  - **(1)** For purposes of this part and part C of this subchapter, the term “qualified prescription drug coverage” means either of the following:
-    - **(A)** Standard prescription drug coverage (as defined in subsection (b) of this section) and access to negotiated prices under subsection (d) of this section.
-    - **(B)** Coverage of covered part D drugs which meets the alternative prescription drug coverage requirements of subsection (c) of this section and access to negotiated prices under subsection (d) of this section, but only if the benefit design of such coverage is approved by the Secretary, as provided under subsection (c) of this section.
+  - **(1)** For purposes of this part and part C, the term “qualified prescription drug coverage” means either of the following:
+    - **(A)** Standard prescription drug coverage (as defined in subsection (b)) and access to negotiated prices under subsection (d).
+    - **(B)** Coverage of covered part D drugs which meets the alternative prescription drug coverage requirements of subsection (c) and access to negotiated prices under subsection (d), but only if the benefit design of such coverage is approved by the Secretary, as provided under subsection (c).
   - **(2)**
     - **(A)** Subject to subparagraph (B), qualified prescription drug coverage may include supplemental prescription drug coverage consisting of either or both of the following:
       - **(i)**
         - **(I)** A reduction in the annual deductible, a reduction in the coinsurance percentage, or an increase in the initial coverage limit with respect to covered part D drugs, or any combination thereof, insofar as such a reduction or increase increases the actuarial value of benefits above the actuarial value of basic prescription drug coverage.
-        - **(II)** Nothing in this paragraph shall be construed as affecting the application of subsection (c)(3) of this section.
-      - **(ii)** Coverage of any product that would be a covered part D drug but for the application of subsection (e)(2)(A) of this section.
+        - **(II)** Nothing in this paragraph shall be construed as affecting the application of subsection (c)(3).
+      - **(ii)** Coverage of any product that would be a covered part D drug but for the application of subsection (e)(2)(A).
     - **(B)** A PDP sponsor may not offer a prescription drug plan that provides supplemental prescription drug coverage pursuant to subparagraph (A) in an area unless the sponsor also offers a prescription drug plan in the area that only provides basic prescription drug coverage.
-  - **(3)** For purposes of this part and part C of this subchapter, the term “basic prescription drug coverage” means either of the following:
+  - **(3)** For purposes of this part and part C, the term “basic prescription drug coverage” means either of the following:
     - **(A)** Coverage that meets the requirements of paragraph (1)(A).
     - **(B)** Coverage that meets the requirements of paragraph (1)(B) but does not have any supplemental prescription drug coverage described in paragraph (2)(A).
-  - **(4)** The provisions of section 1395w–22(a)(4) of this title shall apply under this part in the same manner as they apply under part C of this subchapter.
-  - **(5)** Nothing in this subsection shall be construed as changing the computation of incurred costs under subsection (b)(4) of this section.
-- **(b)** For purposes of this part and part C of this subchapter, the term “standard prescription drug coverage” means coverage of covered part D drugs that meets the following requirements:
+  - **(4)** The provisions of section 1395w–22(a)(4) of this title shall apply under this part in the same manner as they apply under part C.
+  - **(5)** Nothing in this subsection shall be construed as changing the computation of incurred costs under subsection (b)(4).
+- **(b)** For purposes of this part and part C, the term “standard prescription drug coverage” means coverage of covered part D drugs that meets the following requirements:
   - **(1)**
     - **(A)** The coverage has an annual deductible—
       - **(i)** for 2006, that is equal to $250; or
@@ -97,14 +97,14 @@ generated_at: "2026-03-29T18:07:13.978Z"
   - **(1)**
     - **(A)** The actuarial value of the total coverage is at least equal to the actuarial value of standard prescription drug coverage.
     - **(B)** The unsubsidized value of the coverage is at least equal to the unsubsidized value of standard prescription drug coverage. For purposes of this subparagraph, the unsubsidized value of coverage is the amount by which the actuarial value of the coverage exceeds the actuarial value of the subsidy payments under section 1395w–115 of this title with respect to such coverage.
-    - **(C)** The coverage is designed, based upon an actuarially representative pattern of utilization, to provide for the payment, with respect to costs incurred that are equal to the initial coverage limit under subsection (b)(3) of this section for the year, of an amount equal to at least the product of—
-      - **(i)** the amount by which the initial coverage limit described in subsection (b)(3) of this section for the year exceeds the deductible described in subsection (b)(1) of this section for the year; and
-      - **(ii)** 100 percent minus the coinsurance percentage specified in subsection (b)(2)(A)(i) of this section.
-  - **(2)** The deductible under the coverage shall not exceed the deductible amount specified under subsection (b)(1) of this section for the year.
-  - **(3)** The coverage provides the coverage required under subsection (b)(4) of this section.
+    - **(C)** The coverage is designed, based upon an actuarially representative pattern of utilization, to provide for the payment, with respect to costs incurred that are equal to the initial coverage limit under subsection (b)(3) for the year, of an amount equal to at least the product of—
+      - **(i)** the amount by which the initial coverage limit described in subsection (b)(3) for the year exceeds the deductible described in subsection (b)(1) for the year; and
+      - **(ii)** 100 percent minus the coinsurance percentage specified in subsection (b)(2)(A)(i).
+  - **(2)** The deductible under the coverage shall not exceed the deductible amount specified under subsection (b)(1) for the year.
+  - **(3)** The coverage provides the coverage required under subsection (b)(4).
 - **(d)**
   - **(1)**
-    - **(A)** Under qualified prescription drug coverage offered by a PDP sponsor offering a prescription drug plan or an MA organization offering an MA–PD plan, the sponsor or organization shall provide enrollees with access to negotiated prices used for payment for covered part D drugs, regardless of the fact that no benefits may be payable under the coverage with respect to such drugs because of the application of a deductible or other cost-sharing or an initial coverage limit (described in subsection (b)(3) of this section).
+    - **(A)** Under qualified prescription drug coverage offered by a PDP sponsor offering a prescription drug plan or an MA organization offering an MA–PD plan, the sponsor or organization shall provide enrollees with access to negotiated prices used for payment for covered part D drugs, regardless of the fact that no benefits may be payable under the coverage with respect to such drugs because of the application of a deductible or other cost-sharing or an initial coverage limit (described in subsection (b)(3)).
     - **(B)** For purposes of this part, negotiated prices shall take into account negotiated price concessions, such as discounts, direct or indirect subsidies, rebates, and direct or indirect remunerations, for covered part D drugs, and include any dispensing fees for such drugs.
     - **(C)** The prices negotiated by a prescription drug plan, by an MA–PD plan with respect to covered part D drugs, or by a qualified retiree prescription drug plan (as defined in section 1395w–132(a)(2) of this title ) with respect to such drugs on behalf of part D eligible individuals, shall (notwithstanding any other provision of law) not be taken into account for the purposes of establishing the best price under section 1396r–8(c)(1)(C) of this title .
   - **(2)** A PDP sponsor offering a prescription drug plan or an MA organization offering an MA–PD plan shall disclose to the Secretary (in a manner specified by the Secretary) the aggregate negotiated price concessions described in paragraph (1)(B) made available to the sponsor or organization by a manufacturer which are passed through in the form of lower subsidies, lower monthly beneficiary prescription drug premiums, and lower prices through pharmacies and other dispensers. The provisions of section 1396r–8(b)(3)(D) of this title apply to information disclosed to the Secretary under this paragraph.
@@ -115,7 +115,7 @@ generated_at: "2026-03-29T18:07:13.978Z"
     - **(B)** a biological product described in clauses (i) through (iii) of subparagraph (B) of such section or insulin described in subparagraph (C) of such section and medical supplies associated with the injection of insulin (as defined in regulations of the Secretary),
   - **(2)**
     - **(A)** Such term does not include drugs or classes of drugs, or their medical uses, which may be excluded from coverage or otherwise restricted under section 1396r–8(d)(2) of this title , other than subparagraph (E) of such section (relating to smoking cessation agents), other than subparagraph (I) of such section (relating to barbiturates) if the barbiturate is used in the treatment of epilepsy, cancer, or a chronic mental health disorder, and other than subparagraph (J) of such section (relating to benzodiazepines), or under section 1396r–8(d)(3) of this title , as such sections were in effect on December 8, 2003 . Such term also does not include a drug when used for the treatment of sexual or erectile dysfunction, unless such drug were used to treat a condition, other than sexual or erectile dysfunction, for which the drug has been approved by the Food and Drug Administration.
-    - **(B)** A drug prescribed for a part D eligible individual that would otherwise be a covered part D drug under this part shall not be so considered if payment for such drug as so prescribed and dispensed or administered with respect to that individual is available (or would be available but for the application of a deductible) under part A or B of this subchapter for that individual.
+    - **(B)** A drug prescribed for a part D eligible individual that would otherwise be a covered part D drug under this part shall not be so considered if payment for such drug as so prescribed and dispensed or administered with respect to that individual is available (or would be available but for the application of a deductible) under part A or B for that individual.
   - **(3)** A prescription drug plan or an MA–PD plan may exclude from qualified prescription drug coverage any covered part D drug—
     - **(A)** for which payment would not be made if section 1395y(a) of this title applied to this part; or
     - **(B)** which is not prescribed in accordance with the plan or this part.

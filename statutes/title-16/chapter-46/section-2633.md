@@ -3,15 +3,15 @@ title: "Section 2633 - Judicial review and enforcement"
 usc_title: 16
 usc_section: "2633"
 chapter: 46
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 2633"
-generated_at: "2026-03-29T18:05:07.007Z"
+generated_at: "2026-03-29T18:24:22.859Z"
 ---
 
 # § 2633. Judicial review and enforcement
 
 - **(a)** Notwithstanding any other provision of law, no court of the United States shall have jurisdiction over any action arising under any provision of subchapter I or II or of this subchapter except for—
-  - **(1)** an action over which a court of the United States has jurisdiction under subsection (b) or (c)(2) of this section; and
+  - **(1)** an action over which a court of the United States has jurisdiction under subsection (b) or (c)(2); and
   - **(2)** review of any action in the Supreme Court of the United States in accordance with sections 1257 and 1258 of title 28.
 - **(b)**
   - **(1)** The Secretary may bring an action in any appropriate court of the United States to enforce his right to intervene and participate under section 2631(a) of this title , and such court shall have jurisdiction to grant appropriate relief.

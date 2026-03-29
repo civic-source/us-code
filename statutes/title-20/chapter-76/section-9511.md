@@ -3,9 +3,9 @@ title: "Section 9511 - Establishment"
 usc_title: 20
 usc_section: "9511"
 chapter: 76
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 9511"
-generated_at: "2026-03-29T18:05:00.414Z"
+generated_at: "2026-03-29T18:24:41.181Z"
 ---
 
 # § 9511. Establishment
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T18:05:00.414Z"
   - **(1)** The Office of the Director (as described in section 9514 of this title ).
   - **(2)** The National Board for Education Sciences (as described in section 9516 of this title ).
   - **(3)** The National Education Centers, which include—
-    - **(A)** the National Center for Education Research (as described in part B of this subchapter);
-    - **(B)** the National Center for Education Statistics (as described in part C of this subchapter);
-    - **(C)** the National Center for Education Evaluation and Regional Assistance (as described in part D of this subchapter); and
-    - **(D)** the National Center for Special Education Research (as described in part E of this subchapter).
+    - **(A)** the National Center for Education Research (as described in part B);
+    - **(B)** the National Center for Education Statistics (as described in part C);
+    - **(C)** the National Center for Education Evaluation and Regional Assistance (as described in part D); and
+    - **(D)** the National Center for Special Education Research (as described in part E).

@@ -3,9 +3,9 @@ title: "Section 767 - Transitional and savings provisions"
 usc_title: 15
 usc_section: "767"
 chapter: 16
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 767"
-generated_at: "2026-03-29T18:04:29.520Z"
+generated_at: "2026-03-29T18:24:08.420Z"
 ---
 
 # § 767. Transitional and savings provisions
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T18:04:29.520Z"
   - **(1)** which have been issued, made, granted, or allowed to become effective by the President, by any Federal department or agency or official thereof, or by a court of competent jurisdiction, in the performance of functions which are transferred under this chapter, and
   - **(2)** which are in effect at the time this chapter takes effect,
 - **(b)** This chapter shall not affect any proceeding pending, at the time this chapter takes effect, before any department or agency (or component thereof) regarding functions which are transferred by this chapter; but such proceedings, to the extent that they relate to functions so transferred, shall be continued. Orders shall be issued in such proceedings, appeals (except as provided in section 766(i)(2) of this title ) shall be taken therefrom, and payments shall be made pursuant to such orders, as if this chapter had not been enacted; and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this subsection shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions, and to the same extent, that such proceeding could have been discontinued if this chapter had not been enacted.
-- **(c)** Except as provided in subsection (e) of this section—
+- **(c)** Except as provided in subsection (e)—
   - **(1)** the provisions of this chapter shall not affect suits commenced prior to the date this chapter takes effect, and
   - **(2)** in all such suits proceedings shall be had, appeals taken, and judgments rendered, in the same manner and effect as if this chapter had not been enacted.
 - **(d)** No suit, action, or other proceeding commenced by or against any officer in his official capacity as an officer of any department or agency, functions of which are transferred by this chapter, shall abate by reason of the enactment of this chapter. No cause of action by or against any department or agency, functions of which are transferred by this chapter, or by or against any officer thereof in his official capacity shall abate by reason of the enactment of this chapter. Causes of actions, suits, actions, or other proceedings may be asserted by or against the United States or such official as may be appropriate and, in any litigation pending when this chapter takes effect, the court may at any time, on its own motion or that of any party, enter any order which will give effect to the provisions of this section.

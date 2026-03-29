@@ -3,9 +3,9 @@ title: "Section 469 - Passive activity losses and credits limited"
 usc_title: 26
 usc_section: "469"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 469"
-generated_at: "2026-03-29T18:05:44.647Z"
+generated_at: "2026-03-29T18:25:53.596Z"
 ---
 
 # § 469. Passive activity losses and credits limited
@@ -71,7 +71,7 @@ generated_at: "2026-03-29T18:05:44.647Z"
       - **(i)** any income or loss from a passive activity, and
       - **(ii)** any item of gross income, expense, gain, or loss described in paragraph (1)(A).
   - **(3)** Earned income (within the meaning of section 911(d)(2)(A)) shall not be taken into account in computing the income or loss from a passive activity for any taxable year.
-  - **(4)** For purposes of paragraphs (1) and (2), income from dividends shall be reduced by the amount of any dividends received deduction under section 243, 244, or 245.
+  - **(4)** For purposes of paragraphs (1) and (2), income from dividends shall be reduced by the amount of any dividends received deduction under section 243 or 245.
 - **(f)** For purposes of this section—
   - **(1)** If an activity is a former passive activity for any taxable year—
     - **(A)** any unused deduction allocable to such activity under subsection (b) shall be offset against the income from such activity for the taxable year,
@@ -175,16 +175,3 @@ generated_at: "2026-03-29T18:05:44.647Z"
   - **(3)** requiring net income or gain from a limited partnership or other passive activity to be treated as not from a passive activity,
   - **(4)** which provide for the determination of the allocation of interest expense for purposes of this section, and
   - **(5)** which deal with changes in marital status and changes between joint returns and separate returns.
-- **(m)**
-  - **(1)** In the case of any passive activity loss or passive activity credit for any taxable year beginning in calendar years 1987 through 1990, subsection (a) shall not apply to the applicable percentage of that portion of such loss (or such credit) which is attributable to pre-enactment interests.
-  - **(2)** For purposes of this subsection, the applicable percentage shall be determined in accordance with the following table: In the case of taxable years beginning in: The applicable percentage is: 1987 65 1988 40 1989 20 1990 10.
-  - **(3)** For purposes of this subsection—
-    - **(A)** The portion of the passive activity loss (or passive activity credit) for any taxable year which is attributable to pre-enactment interests is the lesser of—
-      - **(i)** the amount of the passive activity loss (or passive activity credit) which is disallowed for the taxable year under subsection (a) (without regard to this subsection), or
-      - **(ii)** the amount of the passive activity loss (or passive activity credit) which would be disallowed for the taxable year (without regard to this subsection and without regard to any amount allocable to an activity for the taxable year under subsection (b)) taking into account only pre-enactment interests.
-    - **(B)**
-      - **(i)** The term “pre-enactment interest” means any interest in a passive activity held by a taxpayer on the date of the enactment of the Tax Reform Act of 1986, and at all times thereafter.
-      - **(ii)** For purposes of clause (i), any interest acquired after such date of enactment pursuant to a written binding contract in effect on such date, and at all times thereafter, shall be treated as held on such date.
-      - **(iii)** The term “pre-enactment interest” shall not include an interest in a passive activity unless such activity was being conducted on such date of enactment. The preceding sentence shall not apply to an activity commencing after such date if—
-        - **(I)** the property used in such activity is acquired pursuant to a written binding contract in effect on August 16, 1986 , and at all times thereafter, or
-        - **(II)** construction of property used in such activity began on or before August 16, 1986 .

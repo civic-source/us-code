@@ -3,9 +3,9 @@ title: "Section 8a - Discontinuance of preliminary examination reports"
 usc_title: 33
 usc_section: "8a"
 chapter: 15
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 8a"
-generated_at: "2026-03-29T18:06:10.498Z"
+generated_at: "2026-03-29T18:26:01.190Z"
 ---
 
 # § 701b–8a. Discontinuance of preliminary examination reports

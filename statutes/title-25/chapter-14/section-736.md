@@ -1,22 +1,12 @@
 ---
-title: "Section 736 - Provisions relating to tribal reservation"
+title: "Section 736 - Omitted"
 usc_title: 25
 usc_section: "736"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 736"
-generated_at: "2026-03-29T18:05:17.101Z"
+generated_at: "2026-03-29T18:25:23.701Z"
 ---
 
-# § 736. Provisions relating to tribal reservation
+# § 736. Omitted
 
-- **(a)** The reservation is hereby declared to be a Federal Indian reservation for the use and benefit of the tribe without regard to whether legal title to such lands is held in trust by the Secretary.
-- **(b)** The Secretary shall—
-  - **(1)** accept any offer from the State to convey title to any lands held in trust by the State or the Texas Indian Commission for the benefit of the tribe to the Secretary, and
-  - **(2)** shall hold such title, upon conveyance by the State, in trust for the benefit of the tribe.
-- **(c)** At the written request of the Tribal Council, the Secretary shall—
-  - **(1)** accept conveyance by the tribe of title to any lands within the reservation which are held by the tribe to the Secretary, and
-  - **(2)** hold such title, upon such conveyance by the tribe, in trust for the benefit of the tribe.
-- **(d)** Notwithstanding any other provision of law or regulation, the Attorney General of the United States shall approve any deed or other instrument from the State or the tribe which conveys title to lands within the reservation to the United States.
-- **(e)** Notwithstanding any other provision of law or rule of law, the Secretary or the tribe may erect permanent improvements, improvements of substantial value, or any other improvement authorized by law on the reservation without regard to whether legal title to such lands has been conveyed to the Secretary by the State or the tribe.
-- **(f)** The State shall exercise civil and criminal jurisdiction within the boundaries of the reservation as if such State had assumed such jurisdiction with the consent of the tribe under sections 1321 and 1322 of this title.

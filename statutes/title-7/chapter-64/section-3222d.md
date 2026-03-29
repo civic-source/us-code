@@ -3,9 +3,9 @@ title: "Section 3222d - Matching funds requirement for research and extension ac
 usc_title: 7
 usc_section: "3222d"
 chapter: 64
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 3222d"
-generated_at: "2026-03-29T18:04:05.015Z"
+generated_at: "2026-03-29T18:23:43.419Z"
 ---
 
 # § 3222d. Matching funds requirement for research and extension activities at eligible institutions
@@ -17,8 +17,8 @@ generated_at: "2026-03-29T18:04:05.015Z"
   - **(1)** the sources of non-Federal funds made available by the State to the eligible institution for agricultural research, extension, and education to meet the requirements of this section; and
   - **(2)** the amount of such funds generally available from each source.
 - **(c)** Notwithstanding any other provision of this subchapter, the State shall provide equal matching funds from non-Federal sources.
-- **(d)** Notwithstanding subsection (f) of this section, the Secretary may waive the matching funds requirement under subsection (c) of this section above the 50 percent level for any fiscal year for an eligible institution of a State if the Secretary determines that the State will be unlikely to satisfy the matching requirement.
-- **(e)** Under terms and conditions established by the Secretary, matching funds provided as required by subsection (c) of this section may be used by an eligible institution for agricultural research, extension, and education activities.
+- **(d)** Notwithstanding subsection (f), the Secretary may waive the matching funds requirement under subsection (c) above the 50 percent level for any fiscal year for an eligible institution of a State if the Secretary determines that the State will be unlikely to satisfy the matching requirement.
+- **(e)** Under terms and conditions established by the Secretary, matching funds provided as required by subsection (c) may be used by an eligible institution for agricultural research, extension, and education activities.
 - **(f)**
-  - **(1)** Federal funds that are not matched by a State in accordance with subsection (c) of this section for a fiscal year shall be redistributed by the Secretary to eligible institutions whose States have satisfied the matching funds requirement for that fiscal year.
-  - **(2)** Any redistribution of funds under this subsection shall be subject to the applicable matching requirement specified in subsection (c) of this section and shall be made in a manner consistent with sections 3221 and 3222 of this title, as determined by the Secretary.
+  - **(1)** Federal funds that are not matched by a State in accordance with subsection (c) for a fiscal year shall be redistributed by the Secretary to eligible institutions whose States have satisfied the matching funds requirement for that fiscal year.
+  - **(2)** Any redistribution of funds under this subsection shall be subject to the applicable matching requirement specified in subsection (c) and shall be made in a manner consistent with sections 3221 and 3222 of this title, as determined by the Secretary.

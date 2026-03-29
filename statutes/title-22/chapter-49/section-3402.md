@@ -3,9 +3,9 @@ title: "Section 3402 - Supplemental authorization of foreign military sales loan
 usc_title: 22
 usc_section: "3402"
 chapter: 49
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 3402"
-generated_at: "2026-03-29T18:05:21.907Z"
+generated_at: "2026-03-29T18:24:54.280Z"
 ---
 
 # § 3402. Supplemental authorization of foreign military sales loan guaranties for Egypt and Israel
@@ -16,4 +16,4 @@ generated_at: "2026-03-29T18:05:21.907Z"
 - **(d)** Loans guaranteed with funds made available pursuant to subsection (b) of this section shall be on terms calling for repayment within a period of not less than thirty years, including an initial grace period of ten years on repayment of principal.
 - **(e)**
   - **(1)** The Congress finds that the Governments of Israel and Egypt each have an enormous external debt burden which may be made more difficult by virtue of the financing authorized by this section. The Congress further finds that, as a consequence of the impact of the debt burdens incurred by Israel and Egypt under such financing, it may become necessary in future years to modify the terms of the loans guaranteed with funds made available pursuant to this section.
-  - **(2)** Repealed. Pub. L. 97–113, title VII, § 734(a)(4) , Dec. 29, 1981 , 95 Stat. 1560 .
+  - **(2)** Repealed. Pub. L. 97–113, title VII , § 734(a)(4), Dec. 29, 1981 , 95 Stat. 1560 .

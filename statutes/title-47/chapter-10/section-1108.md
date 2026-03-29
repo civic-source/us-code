@@ -1,24 +1,12 @@
 ---
-title: "Section 1108 - Definitions"
+title: "Section 1108 - Omitted"
 usc_title: 47
 usc_section: "1108"
 chapter: 10
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "47 U.S.C. § 1108"
-generated_at: "2026-03-29T18:07:40.914Z"
+generated_at: "2026-03-29T18:27:09.607Z"
 ---
 
-# § 1108. Definitions
+# § 1108. Omitted
 
-In this chapter:
-
-  - **(1)** The term “affiliate”—
-    - **(A)** means any person or entity that controls, or is controlled by, or is under common control with, another person or entity; and
-    - **(B)** may include any individual who is a director or senior management officer of an affiliate, a shareholder controlling more than 25 percent of the voting securities of an affiliate, or more than 25 percent of the ownership interest in an affiliate not organized in stock form.
-  - **(2)** The term “nonserved area” means any area that—
-    - **(A)** is outside the grade B contour (as determined using standards employed by the Federal Communications Commission) of the local television broadcast signals serving a particular designated market area; and
-    - **(B)** does not have access to such signals by any commercial, for profit, multichannel video provider.
-  - **(3)** The term “underserved area” means any area that—
-    - **(A)** is outside the grade A contour (as determined using standards employed by the Federal Communications Commission) of the local television broadcast signals serving a particular designated market area; and
-    - **(B)** has access to local television broadcast signals from not more than one commercial, for-profit multichannel video provider.
-  - **(4)** Except as provided in paragraphs (1) through (3), any term used in this chapter that is defined in the Communications Act of 1934 ( 47 U.S.C. 151 et seq.) has the meaning given that term in the Communications Act of 1934.

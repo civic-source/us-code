@@ -3,9 +3,9 @@ title: "Section 742l - Enforcement authority for the protection of fish and wild
 usc_title: 16
 usc_section: "742l"
 chapter: 9
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 742l"
-generated_at: "2026-03-29T18:05:06.821Z"
+generated_at: "2026-03-29T18:24:22.701Z"
 ---
 
 # § 742l. Enforcement authority for the protection of fish and wildlife resources
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T18:05:06.821Z"
     - **(A)** establish and conduct national training programs to provide, at the request of any State, training for State fish and wildlife law enforcement personnel;
     - **(B)** develop new or improved approaches, techniques, systems, equipment, and service to improve and strengthen fish and wildlife law enforcement; and
     - **(C)** assist in conducting, at the request of any appropriate State official, local or regional training programs for the training of State fish and wildlife law enforcement personnel.
-  - **(2)** There are authorized to be appropriated beginning with fiscal year 1980 such funds as may be necessary to carry out the purposes of subsection (b) of this section, and the Secretary of the Interior and the Secretary of Commerce may each require reimbursement from the States for expenditures made pursuant to subsections (b)(1)(A) and (C) of this section.
+  - **(2)** There are authorized to be appropriated beginning with fiscal year 1980 such funds as may be necessary to carry out the purposes of subsection (b), and the Secretary of the Interior and the Secretary of Commerce may each require reimbursement from the States for expenditures made pursuant to subsections (b)(1)(A) and (C).
 - **(b)** Notwithstanding any other provision of law, the Secretary of the Interior and the Secretary of Commerce may each utilize by agreement, with or without reimbursement, the personnel, services and facilities of any other Federal or State agency to the extent he deems it necessary and appropriate for effective enforcement of any Federal or State laws on lands, waters, or interests therein under his jurisdiction which are administered or managed for fish and wildlife purposes and for enforcement of any laws administered by him relating to fish and wildlife. Persons so designated by either Secretary, who are not employees of another Federal agency—
   - **(1)** shall not be deemed a Federal employee and shall not be subject to the provisions of law relating to Federal employment, including those relating to hours of work, competitive examination, rates of compensation, and Federal employee benefits, but may be considered eligible for compensation for work injuries under subchapter III of chapter 81 of title 5;
   - **(2)** shall be considered to be investigative or law enforcement officers of the United States for the purposes of the tort claim provisions of title 28;

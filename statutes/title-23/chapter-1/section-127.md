@@ -3,9 +3,9 @@ title: "Section 127 - Vehicle weight limitations—Interstate System"
 usc_title: 23
 usc_section: "127"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "23 U.S.C. § 127"
-generated_at: "2026-03-29T18:05:12.198Z"
+generated_at: "2026-03-29T18:25:00.172Z"
 ---
 
 # § 127. Vehicle weight limitations—Interstate System
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T18:05:12.198Z"
 - **(a)**
   - **(1)** The Secretary shall withhold 50 percent of the apportionment of a State under section 104(b)(1) in any fiscal year in which the State does not permit the use of The Dwight D. Eisenhower System of Interstate and Defense Highways within its boundaries by vehicles with a weight of twenty thousand pounds carried on any one axle, including enforcement tolerances, or with a tandem axle weight of thirty-four thousand pounds, including enforcement tolerances, or a gross weight of at least eighty thousand pounds for vehicle combinations of five axles or more.
   - **(2)** However, the maximum gross weight to be allowed by any State for vehicles using The Dwight D. Eisenhower System of Interstate and Defense Highways shall be twenty thousand pounds carried on one axle, including enforcement tolerances, and a tandem axle weight of thirty-four thousand pounds, including enforcement tolerances and with an overall maximum gross weight, including enforcement tolerances, on a group of two or more consecutive axles produced by application of the following formula:
-  - **(3)** Any amount which is withheld from apportionment to any State pursuant to the foregoing provisions shall lapse if not released and obligated within the availability period specified in section 118(b)(2) 1 1 See References in Text note below. of this title.
+  - **(3)** Any amount which is withheld from apportionment to any State pursuant to the foregoing provisions shall lapse if not released and obligated within the availability period specified in section 118(b).
   - **(4)** This section shall not be construed to deny apportionment to any State allowing the operation within such State of any vehicles or combinations thereof, other than vehicles or combinations subject to subsection (d) of this section, which the State determines could be lawfully operated within such State on July 1, 1956 , except in the case of the overall gross weight of any group of two or more consecutive axles, on the date of enactment of the Federal-Aid Highway Amendments of 1974.
   - **(5)** With respect to the State of Hawaii, laws or regulations in effect on February 1, 1960 , shall be applicable for the purposes of this section in lieu of those in effect on July 1, 1956 .
   - **(6)** With respect to the State of Colorado, vehicles designed to carry 2 or more precast concrete panels shall be considered a nondivisible load.
@@ -22,14 +22,15 @@ generated_at: "2026-03-29T18:05:12.198Z"
   - **(9)** The State of Louisiana may allow, by special permit, the operation of vehicles with a gross vehicle weight of up to 100,000 pounds for the hauling of sugarcane during the harvest season, not to exceed 100 days annually.
   - **(10)** With respect to Interstate Routes 89, 93, and 95 in the State of New Hampshire, State laws (including regulations) concerning vehicle weight limitations that were in effect on January 1, 1987 , and are applicable to State highways other than the Interstate System, shall be applicable in lieu of the requirements of this subsection.
   - **(11)**
-    - **(A)** With respect to all portions of the Interstate Highway System in the State of Maine, laws (including regulations) of that State concerning vehicle weight limitations applicable to other State highways shall be applicable in lieu of the requirements under this subsection through December 31, 2031 .
-    - **(B)** With respect to all portions of the Interstate Highway System in the State of Vermont, laws (including regulations) of that State concerning vehicle weight limitations applicable to other State highways shall be applicable in lieu of the requirements under this subsection through December 31, 2031 .
+    - **(A)** With respect to all portions of the Interstate Highway System in the State of Maine, laws (including regulations) of that State concerning vehicle weight limitations applicable to other State highways shall be applicable in lieu of the requirements under this subsection.
+    - **(B)** With respect to all portions of the Interstate Highway System in the State of Vermont, laws (including regulations) of that State concerning vehicle weight limitations applicable to other State highways shall be applicable in lieu of the requirements under this subsection.
   - **(12)**
     - **(A)** Subject to subparagraphs (B) and (C), in order to promote reduction of fuel use and emissions because of engine idling, the maximum gross vehicle weight limit and the axle weight limit for any heavy-duty vehicle equipped with an idle reduction technology shall be increased by a quantity necessary to compensate for the additional weight of the idle reduction system.
     - **(B)** The weight increase under subparagraph (A) shall be not greater than 550 pounds.
     - **(C)** On request by a regulatory agency or law enforcement agency, the vehicle operator shall provide proof (through demonstration or certification) that—
       - **(i)** the idle reduction technology is fully functional at all times; and
       - **(ii)** the 550-pound gross weight increase is not used for any purpose other than the use of idle reduction technology described in subparagraph (A).
+  - **(13)** A vehicle carrying fluid milk products shall be considered a load that cannot be easily dismantled or divided.
 - **(b)** No State may enact or enforce any law denying reasonable access to motor vehicles subject to this title to and from the Interstate Highway System to terminals and facilities for food, fuel, repairs, and rest.
 - **(c)** For purposes of this section, the term “ocean transport container” has the meaning given the term “freight container” by the International Standards Organization in Series 1, Freight Containers, 3rd Edition (reference number IS0668–1979(E)) as in effect on the date of the enactment of this subsection.
 - **(d)**
@@ -63,3 +64,47 @@ generated_at: "2026-03-29T18:05:12.198Z"
     - **(B)** the permits are issued in accordance with State law; and
     - **(C)** the permits are issued exclusively to vehicles and loads that are delivering relief supplies.
   - **(2)** A permit issued under paragraph (1) shall expire not later than 120 days after the date of the declaration of emergency under subparagraph (A) of that paragraph.
+- **(j)** If any segment of the United States Route 41 corridor, as described in section 1105(c)(57) of the Intermodal Surface Transportation Efficiency Act of 1991, is designated as a route on the Interstate System, a vehicle that could operate legally on that segment before the date of such designation may continue to operate on that segment, without regard to any requirement under subsection (a).
+- **(k)** If any segment of United States Route 78 in Mississippi from mile marker 0 to mile marker 113 is designated as part of the Interstate System, no limit established under this section may apply to that segment with respect to the operation of any vehicle that could have legally operated on that segment before such designation.
+- **(l)**
+  - **(1)** If any segment of highway described in paragraph (2) is designated as a route on the Interstate System, a vehicle that could operate legally on that segment before the date of such designation may continue to operate on that segment, without regard to any requirement under subsection (a).
+  - **(2)** The highway segments referred to in paragraph (1) are as follows:
+    - **(A)** Interstate Route 69 in Kentucky (formerly the Wendell H. Ford (Western Kentucky) Parkway) from the Interstate Route 24 Interchange, near Eddyville, to the Edward T. Breathitt (Pennyrile) Parkway Interchange.
+    - **(B)** The Edward T. Breathitt (Pennyrile) Parkway (to be designated as Interstate Route 69) in Kentucky from the Wendell H. Ford (Western Kentucky) Parkway Interchange to near milepost 77, and on new alignment to an interchange on the Audubon Parkway, if the segment is designated as part of the Interstate System.
+- **(m)**
+  - **(1)** The vehicle weight limitations set forth in this section do not apply to a covered heavy-duty tow and recovery vehicle.
+  - **(2)** In this subsection, the term “covered heavy-duty tow and recovery vehicle” means a vehicle that—
+    - **(A)** is transporting a disabled vehicle from the place where the vehicle became disabled to the nearest appropriate repair facility; and
+    - **(B)** has a gross vehicle weight that is equal to or exceeds the gross vehicle weight of the disabled vehicle being transported.
+- **(n)** If any segment in the State of Texas of United States Route 59, United States Route 77, United States Route 281, United States Route 84, Texas State Highway 44, or another roadway is designated as Interstate Route 69, a vehicle that could operate legally on that segment before the date of the designation may continue to operate on that segment, without regard to any requirement under this section.
+- **(o)**
+  - **(1)** The Secretary shall waive, with respect to a covered logging vehicle, the application of any vehicle weight limit established under this section.
+  - **(2)** In this subsection, the term “covered logging vehicle” means a vehicle that—
+    - **(A)** is transporting raw or unfinished forest products, including logs, pulpwood, biomass, or wood chips;
+    - **(B)** has a gross vehicle weight of not more than 98,000 pounds;
+    - **(C)** has not less than 6 axles; and
+    - **(D)** is operating on a segment of Interstate Route 39 in the State of Wisconsin from mile marker 175.8 to mile marker 189.
+- **(p)** If any segment of United States Route 63 between the exits for highways 14 and 75 in the State of Arkansas is designated as part of the Interstate System, the single axle weight, tandem axle weight, gross vehicle weight, and bridge formula limits under subsection (a) and the width limitation under section 31113(a) of title 49 shall not apply to that segment with respect to the operation of any vehicle that could operate legally on that segment before the date of the designation.
+- **(q)**
+  - **(1)** The Secretary shall waive, with respect to a covered logging vehicle, the application of any vehicle weight limit established under this section.
+  - **(2)** In this subsection, the term “covered logging vehicle” means a vehicle that—
+    - **(A)** is transporting raw or unfinished forest products, including logs, pulpwood, biomass, or wood chips;
+    - **(B)** has a gross vehicle weight of not more than 99,000 pounds;
+    - **(C)** has not less than 6 axles; and
+    - **(D)** is operating on a segment of Interstate Route 35 in the State of Minnesota from mile marker 235.4 to mile marker 259.552.
+- **(r)**
+  - **(1)** Notwithstanding subsection (a), a State shall not enforce against an emergency vehicle a vehicle weight limit (up to a maximum gross vehicle weight of 86,000 pounds) of less than—
+    - **(A)** 24,000 pounds on a single steering axle;
+    - **(B)** 33,500 pounds on a single drive axle;
+    - **(C)** 62,000 pounds on a tandem axle; or
+    - **(D)** 52,000 pounds on a tandem rear drive steer axle.
+  - **(2)** In this subsection, the term “emergency vehicle” means a vehicle designed to be used under emergency conditions—
+    - **(A)** to transport personnel and equipment; and
+    - **(B)** to support the suppression of fires and mitigation of other hazardous situations.
+- **(s)** A vehicle, if operated by an engine fueled primarily by natural gas, may exceed any vehicle weight limit (up to a maximum gross vehicle weight of 82,000 pounds) under this section by an amount that is equal to the difference between—
+  - **(1)** the weight of the vehicle attributable to the natural gas tank and fueling system carried by that vehicle; and
+  - **(2)** the weight of a comparable diesel tank and fueling system.
+- **(t)** A vehicle limited or prohibited under this section from operating on a segment of the Interstate System in the State of Idaho may operate on such a segment if such vehicle–
+  - **(1)** has a gross vehicle weight of 129,000 pounds or less;
+  - **(2)** other than gross vehicle weight, complies with the single axle, tandem axle, and bridge formula limits set forth in subsection (a); and
+  - **(3)** is authorized to operate on such segment under Idaho State law.

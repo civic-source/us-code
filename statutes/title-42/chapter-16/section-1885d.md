@@ -3,15 +3,15 @@ title: "Section 1885d - Biennial reports"
 usc_title: 42
 usc_section: "1885d"
 chapter: 16
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1885d"
-generated_at: "2026-03-29T18:07:14.344Z"
+generated_at: "2026-03-29T18:27:03.391Z"
 ---
 
 # § 1885d. Biennial reports
 
 - **(a)** By January 30 of each odd-numbered year, the Director shall simultaneously transmit a report to the Congress, the Attorney General, the Director of the Office of Science and Technology Policy, the Chairman of the Equal Employment Opportunity Commission, the Director of the Office of Personnel Management, the Secretary of Labor, the Secretary of Education, and the Secretary of Health and Human Services.
-- **(b)** The report required by subsection (a) of this section shall contain—
+- **(b)** The report required by subsection (a) shall contain—
   - **(1)** an accounting and comparison, by sex, race, and ethnic group and by discipline, of the participation of women and men in scientific and engineering positions, including—
     - **(A)** the number of individuals in permanent and temporary and in full-time and part-time scientific and engineering positions by appropriate level or similar category;
     - **(B)** the average salary of individuals in such scientific and engineering positions;

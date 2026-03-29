@@ -3,9 +3,9 @@ title: "Section 19a - Patient protections"
 usc_title: 42
 usc_section: "19a"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 19a"
-generated_at: "2026-03-29T18:07:13.625Z"
+generated_at: "2026-03-29T18:27:02.824Z"
 ---
 
 # § 300gg–19a. Patient protections

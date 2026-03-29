@@ -3,9 +3,9 @@ title: "Section 11292 - Education of public, individuals with Alzheimer’s dise
 usc_title: 42
 usc_section: "11292"
 chapter: 118
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 11292"
-generated_at: "2026-03-29T18:07:15.174Z"
+generated_at: "2026-03-29T18:27:04.014Z"
 ---
 
 # § 11292. Education of public, individuals with Alzheimer’s disease and their families, and health and long-term care providers
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T18:07:15.174Z"
   - **(2)** the availability in the community of public and private sources of assistance, including financial assistance, for caring for such individuals.
 - **(c)** In awarding grants under this section, the Director of the National Institute on Aging shall—
   - **(1)** award the grants on the basis of merit;
-  - **(2)** award the grants in a manner that will ensure access to the programs described in subsections (a) and (b) of this section by rural, minority, and underserved populations throughout the country; and
+  - **(2)** award the grants in a manner that will ensure access to the programs described in subsections (a) and (b) by rural, minority, and underserved populations throughout the country; and
   - **(3)** ensure that the grants are distributed among the principal geographic regions of the United States.
 - **(d)** To be eligible to receive a grant under this section, an entity shall submit an application to the Director of the National Institute on Aging at such time, in such manner, and containing or accompanied by such information, as the Director may reasonably require, including, at a minimum, an assurance that the entity will coordinate programs provided under this section with the State agency designated under section 305(a)(1) of the Older Americans Act of 1965 [ 42 U.S.C. 3025(a)(1) ], in the State in which the entity will provide such programs.
 - **(e)** The Director of the National Institute on Aging shall coordinate the award of grants under this section with the heads of other appropriate agencies, including the Commissioner of the Administration on Aging.

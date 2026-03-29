@@ -3,9 +3,9 @@ title: "Section 1737 - Implementation provisions"
 usc_title: 43
 usc_section: "1737"
 chapter: 35
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 1737"
-generated_at: "2026-03-29T18:06:28.376Z"
+generated_at: "2026-03-29T18:26:14.897Z"
 ---
 
 # § 1737. Implementation provisions
@@ -21,4 +21,4 @@ generated_at: "2026-03-29T18:06:28.376Z"
   - **(1)** the tort claims provisions of title 28;
   - **(2)** subchapter 1 1 1 So in original. Probably should be subchapter “I”. of chapter 81 of title 5; and
   - **(3)** claims relating to damage to, or loss of, personal property of a volunteer incident to volunteer service, in which case the provisions of section 3721 of title 31 shall apply.
-- **(g)** Effective with fiscal years beginning after September 30, 1984 , there are authorized to be appropriated such sums as may be necessary to carry out the provisions of subsection (d) of this section, but not more than $250,000 may be appropriated for any one fiscal year.
+- **(g)** Effective with fiscal years beginning after September 30, 1984 , there are authorized to be appropriated such sums as may be necessary to carry out the provisions of subsection (d), but not more than $250,000 may be appropriated for any one fiscal year.

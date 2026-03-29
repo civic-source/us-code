@@ -3,9 +3,9 @@ title: "Section 1536 - Custody and release pending removal hearing"
 usc_title: 8
 usc_section: "1536"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "8 U.S.C. § 1536"
-generated_at: "2026-03-29T18:03:34.101Z"
+generated_at: "2026-03-29T18:23:33.989Z"
 ---
 
 # § 1536. Custody and release pending removal hearing
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T18:03:34.101Z"
     - **(B)** The judge may consider classified information submitted in camera and ex parte in making a determination whether to release an alien pending the removal hearing.
   - **(3)**
     - **(A)** Subject to subparagraph (B), if a judge of the removal court denies the order sought in an application filed pursuant to section 1533 of this title , and the Attorney General does not seek review of such denial, the alien shall be released from custody.
-    - **(B)** Subparagraph (A) shall not prevent the arrest and detention of the alien pursuant to subchapter II of this chapter.
+    - **(B)** Subparagraph (A) shall not prevent the arrest and detention of the alien pursuant to subchapter II.
 - **(b)**
   - **(1)** If a judge of the removal court denies the order sought in an application filed pursuant to section 1533 of this title and the Attorney General seeks review of such denial, the judge shall release the alien from custody subject to the least restrictive condition, or combination of conditions, of release described in section 3142(b) and clauses (i) through (xiv) of section 3142(c)(1)(B) of title 18 that—
     - **(A)** will reasonably assure the appearance of the alien at any future proceeding pursuant to this subchapter; and

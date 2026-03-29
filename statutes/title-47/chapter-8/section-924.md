@@ -3,9 +3,9 @@ title: "Section 924 - Withdrawal or limitation of assignment to Federal Governme
 usc_title: 47
 usc_section: "924"
 chapter: 8
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "47 U.S.C. § 924"
-generated_at: "2026-03-29T18:07:40.903Z"
+generated_at: "2026-03-29T18:27:09.602Z"
 ---
 
 # § 924. Withdrawal or limitation of assignment to Federal Government stations
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T18:07:40.903Z"
   - **(5)** transmit a notice and description to the Commission and each House of Congress of the actions taken under this subsection.
 - **(b)**
   - **(1)** If the President determines that a circumstance described in paragraph (2) exists, the President—
-    - **(A)** may substitute an alternative frequency or frequencies for the frequency that is subject to such determination and withdraw (or limit) the assignment of that alternative frequency in the manner required by subsection (a) of this section; and
+    - **(A)** may substitute an alternative frequency or frequencies for the frequency that is subject to such determination and withdraw (or limit) the assignment of that alternative frequency in the manner required by subsection (a); and
     - **(B)** shall submit a statement of the reasons for taking the action described in subparagraph (A) to the Commission, Committee on Energy and Commerce of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
   - **(2)** For purposes of paragraph (1), the following circumstances are described in this paragraph:
     - **(A)** the reassignment would seriously jeopardize the national defense interests of the United States;

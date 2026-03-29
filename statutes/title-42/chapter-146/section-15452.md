@@ -1,14 +1,12 @@
 ---
-title: "Section 15452 - Report"
+title: "Section 15452 - Transferred"
 usc_title: 42
 usc_section: "15452"
 chapter: 146
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 15452"
-generated_at: "2026-03-29T18:07:15.415Z"
+generated_at: "2026-03-29T18:27:04.190Z"
 ---
 
-# § 15452. Report
+# § 15452. Transferred
 
-- **(a)** Each entity which receives a grant under this subpart shall submit to the Commission a report describing the activities carried out with the funds provided under the grant.
-- **(b)** An entity shall submit a report required under subsection (a) of this section not later than 60 days after the end of the fiscal year for which the entity received the grant which is the subject of the report.

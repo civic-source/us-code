@@ -3,9 +3,9 @@ title: "Section 1313 - Assistance for United States citizens returned from forei
 usc_title: 42
 usc_section: "1313"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1313"
-generated_at: "2026-03-29T18:07:13.801Z"
+generated_at: "2026-03-29T18:27:02.959Z"
 ---
 
 # § 1313. Assistance for United States citizens returned from foreign countries
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T18:07:13.801Z"
   - **(1)** The Secretary is authorized to provide temporary assistance to citizens of the United States and to dependents of citizens of the United States, if they (A) are identified by the Department of State as having returned, or been brought, from a foreign country to the United States because of the destitution of the citizen of the United States or the illness of such citizen or any of his dependents or because of war, threat of war, invasion, or similar crisis, and (B) are without available resources.
   - **(2)** Except in such cases or classes of cases as are set forth in regulations of the Secretary, provision shall be made for reimbursement to the United States by the recipients of the temporary assistance to cover the cost thereof.
   - **(3)** The Secretary may provide assistance under paragraph (1) directly or through utilization of the services and facilities of appropriate public or private agencies and organizations, in accordance with agreements providing for payment, in advance or by way of reimbursement, as may be determined by the Secretary, of the cost thereof. Such cost shall be determined by such statistical, sampling, or other method as may be provided in the agreement.
-- **(b)** The Secretary is authorized to develop plans and make arrangements for provision of temporary assistance within the United States to individuals specified in subsection (a)(1) of this section. Such plans shall be developed and such arrangements shall be made after consultation with the Secretary of State, the Attorney General, and the Secretary of Defense. To the extent feasible, assistance provided under subsection (a) of this section shall be provided in accordance with the plans developed pursuant to this subsection, as modified from time to time by the Secretary.
+- **(b)** The Secretary is authorized to develop plans and make arrangements for provision of temporary assistance within the United States to individuals specified in subsection (a)(1). Such plans shall be developed and such arrangements shall be made after consultation with the Secretary of State, the Attorney General, and the Secretary of Defense. To the extent feasible, assistance provided under subsection (a) shall be provided in accordance with the plans developed pursuant to this subsection, as modified from time to time by the Secretary.
 - **(c)** For purposes of this section, the term “temporary assistance” means money payments, medical care, temporary billeting, transportation, and other goods and services necessary for the health or welfare of individuals (including guidance, counseling, and other welfare services) furnished to them within the United States upon their arrival in the United States and for such period after their arrival, not exceeding ninety days, as may be provided in regulations of the Secretary; except that assistance under this section may be furnished beyond such ninety-day period in the case of any citizen or dependent upon a finding by the Secretary that the circumstances involved necessitate or justify the furnishing of assistance beyond such period in that particular case.
 - **(d)** The total amount of temporary assistance provided under this section shall not exceed $1,000,000 during any fiscal year beginning after September 30, 2009 , except that, in the case of fiscal year 2010, the total amount of such assistance provided during that fiscal year shall not exceed $25,000,000.
 - **(e)**

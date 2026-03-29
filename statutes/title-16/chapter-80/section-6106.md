@@ -3,9 +3,9 @@ title: "Section 6106 - Cooperation"
 usc_title: 16
 usc_section: "6106"
 chapter: 80
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 6106"
-generated_at: "2026-03-29T18:05:07.089Z"
+generated_at: "2026-03-29T18:24:22.928Z"
 ---
 
 # § 6106. Cooperation

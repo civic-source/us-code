@@ -3,9 +3,9 @@ title: "Section 6913 - Reductions in number of Department personnel"
 usc_title: 7
 usc_section: "6913"
 chapter: 98
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 6913"
-generated_at: "2026-03-29T18:04:05.090Z"
+generated_at: "2026-03-29T18:23:43.488Z"
 ---
 
 # § 6913. Reductions in number of Department personnel
@@ -16,5 +16,5 @@ generated_at: "2026-03-29T18:04:05.090Z"
     - **(B)** in such other locations as are identified by the Secretary for purposes of this section.
   - **(2)** The term “field structure” means the offices, functions, and employee positions of all agencies, offices, or other administrative units of the Department, other than the headquarters offices, except that the term does not include State, county, or area committees established under section 590h(b)(5) of title 16 . The term includes the physical and geographic locations of such agencies, offices, or other administrative units.
 - **(b)** The Secretary shall achieve Federal employee reductions of at least 7,500 staff years within the Department by the end of fiscal year 1999. Reductions in the number of full-time equivalent positions within the Department achieved under section 5 of the Federal Workforce Restructuring Act of 1994 ( Public Law 103–226 ; 108 Stat. 115 ; 5 U.S.C. 3101 note) shall be counted toward the employee reductions required under this section.
-- **(c)** In achieving the employee reductions required by subsection (b) of this section, the Secretary shall pursue a goal so that the percentage of the total number of employee staff years reduced in headquarters offices is at least twice the percentage of the total number of employee staff years reduced in the field structure.
+- **(c)** In achieving the employee reductions required by subsection (b), the Secretary shall pursue a goal so that the percentage of the total number of employee staff years reduced in headquarters offices is at least twice the percentage of the total number of employee staff years reduced in the field structure.
 - **(d)** The personnel reductions in headquarters offices and in the field structure should be accomplished concurrently in a manner determined by the Secretary.

@@ -3,9 +3,9 @@ title: "Section 207 - Restrictions on former officers, employees, and elected of
 usc_title: 18
 usc_section: "207"
 chapter: 11
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "18 U.S.C. § 207"
-generated_at: "2026-03-29T18:04:50.859Z"
+generated_at: "2026-03-29T18:24:43.768Z"
 ---
 
 # § 207. Restrictions on former officers, employees, and elected officials of the executive and legislative branches
@@ -82,7 +82,7 @@ generated_at: "2026-03-29T18:04:50.859Z"
     - **(D)** the term “employee of the Senate” means an employee of a Senator, an employee of a committee of the Senate, an employee of a joint committee of the Congress whose pay is disbursed by the Secretary of the Senate, and an employee on the leadership staff of the Senate;
     - **(E)** a person is an employee of a Member of the House of Representatives if that person is an employee of a Member of the House of Representatives under the clerk hire allowance;
     - **(F)** a person is an employee of a Senator if that person is an employee in a position in the office of a Senator;
-    - **(G)** the term “employee of any other legislative office of the Congress” means an officer or employee of the Architect of the Capitol, the United States Botanic Garden, the Government Accountability Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, the United States Capitol Police, and any other agency, entity, or office in the legislative branch not covered by paragraph (1), (2), (3), (4), or (5) of this subsection;
+    - **(G)** the term “employee of any other legislative office of the Congress” means an officer or employee of the Architect of the Capitol, the United States Botanic Garden, the Government Accountability Office, the Government Publishing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, the United States Capitol Police, and any other agency, entity, or office in the legislative branch not covered by paragraph (1), (2), (3), (4), or (5) of this subsection;
     - **(H)** the term “employee on the leadership staff of the House of Representatives” means an employee of the office of a Member of the leadership of the House of Representatives described in subparagraph (L), and any elected minority employee of the House of Representatives;
     - **(I)** the term “employee on the leadership staff of the Senate” means an employee of the office of a Member of the leadership of the Senate described in subparagraph (M);
     - **(J)** the term “Member of Congress” means a Senator or a Member of the House of Representatives;
@@ -108,7 +108,7 @@ generated_at: "2026-03-29T18:04:50.859Z"
 - **(j)**
   - **(1)**
     - **(A)** The restrictions contained in this section shall not apply to acts done in carrying out official duties on behalf of the United States or the District of Columbia or as an elected official of a State or local government.
-    - **(B)** The restrictions contained in this section shall not apply to acts authorized by section 104(j) of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450i(j) ).
+    - **(B)** The restrictions contained in this section shall not apply to acts authorized by section 104(j) of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450i(j) ). 1
   - **(2)** The restrictions contained in subsections (c), (d), and (e) shall not apply to acts done in carrying out official duties as an employee of—
     - **(A)** an agency or instrumentality of a State or local government if the appearance, communication, or representation is on behalf of such government, or
     - **(B)** an accredited, degree-granting institution of higher education, as defined in section 101 of the Higher Education Act of 1965, or a hospital or medical research organization, exempted and defined under section 501(c)(3) of the Internal Revenue Code of 1986, if the appearance, communication, or representation is on behalf of such institution, hospital, or organization.

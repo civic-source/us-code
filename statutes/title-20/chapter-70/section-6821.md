@@ -3,52 +3,50 @@ title: "Section 6821 - Formula grants to States"
 usc_title: 20
 usc_section: "6821"
 chapter: 70
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 6821"
-generated_at: "2026-03-29T18:05:00.337Z"
+generated_at: "2026-03-29T18:24:41.134Z"
 ---
 
 # § 6821. Formula grants to States
 
-- **(a)** In the case of each State educational agency having a plan approved by the Secretary for a fiscal year under section 6823 of this title , the Secretary shall make a grant for the year to the agency for the purposes specified in subsection (b) of this section. The grant shall consist of the allotment determined for the State educational agency under subsection (c) of this section.
+- **(a)** In the case of each State educational agency having a plan approved by the Secretary for a fiscal year under section 6823 of this title , the Secretary shall make a grant for the year to the agency for the purposes specified in subsection (b). The grant shall consist of the allotment determined for the State educational agency under subsection (c).
 - **(b)**
-  - **(1)** The Secretary may make a grant under subsection (a) of this section only if the State educational agency involved agrees to expend at least 95 percent of the State educational agency’s allotment under subsection (c) of this section for a fiscal year—
+  - **(1)** The Secretary may make a grant under subsection (a) only if the State educational agency involved agrees to expend at least 95 percent of the State educational agency’s allotment under subsection (c) for a fiscal year—
     - **(A)** to award subgrants, from allocations under section 6824 of this title , to eligible entities to carry out the activities described in section 6825 of this title (other than subsection (e)); and
     - **(B)** to award subgrants under section 6824(d)(1) of this title to eligible entities that are described in that section to carry out the activities described in section 6825(e) of this title .
-  - **(2)** Subject to paragraph (3), each State educational agency receiving a grant under subsection (a) of this section may reserve not more than 5 percent of the agency’s allotment under subsection (c) of this section to carry out one or more of the following activities:
-    - **(A)** Professional development activities, and other activities, that assist personnel in meeting State and local certification and licensing requirements for teaching limited English proficient children.
-    - **(B)** Planning, evaluation, administration, and interagency coordination related to the subgrants referred to in paragraph (1).
-    - **(C)** Providing technical assistance and other forms of assistance to eligible entities that are receiving subgrants from a State educational agency under this subpart, including assistance in—
-      - **(i)** identifying and implementing language instruction educational programs and curricula that are based on scientifically based research on teaching limited English proficient children;
-      - **(ii)** helping limited English proficient children meet the same challenging State academic content and student academic achievement standards as all children are expected to meet;
+  - **(2)** Subject to paragraph (3), each State educational agency receiving a grant under subsection (a) may reserve not more than 5 percent of the agency’s allotment under subsection (c) to carry out one or more of the following activities:
+    - **(A)** Establishing and implementing, with timely and meaningful consultation with local educational agencies representing the geographic diversity of the State, standardized statewide entrance and exit procedures, including a requirement that all students who may be English learners are assessed for such status within 30 days of enrollment in a school in the State.
+    - **(B)** Providing effective teacher and principal preparation, effective professional development activities, and other effective activities related to the education of English learners, which may include assisting teachers, principals, and other educators in—
+      - **(i)** meeting State and local certification and licensing requirements for teaching English learners; and
+      - **(ii)** improving teaching skills in meeting the diverse needs of English learners, including how to implement effective programs and curricula on teaching English learners.
+    - **(C)** Planning, evaluation, administration, and interagency coordination related to the subgrants referred to in paragraph (1).
+    - **(D)** Providing technical assistance and other forms of assistance to eligible entities that are receiving subgrants from a State educational agency under this subpart, including assistance in—
+      - **(i)** identifying and implementing effective language instruction educational programs and curricula for teaching English learners;
+      - **(ii)** helping English learners meet the same challenging State academic standards that all children are expected to meet;
       - **(iii)** identifying or developing, and implementing, measures of English proficiency; and
-      - **(iv)** promoting parental and community participation in programs that serve limited English proficient children.
-    - **(D)** Providing recognition, which may include providing financial awards, to subgrantees that have exceeded their annual measurable achievement objectives pursuant to section 6842 of this title .
-  - **(3)** From the amount reserved under paragraph (2), a State educational agency may use not more than 60 percent of such amount or $175,000, whichever is greater, for the planning and administrative costs of carrying out paragraphs (1) and (2).
+      - **(iv)** strengthening and increasing parent, family, and community engagement in programs that serve English learners.
+    - **(E)** Providing recognition, which may include providing financial awards, to recipients of subgrants under section 6825 of this title that have significantly improved the achievement and progress of English learners in meeting—
+      - **(i)** the State-designed long-term goals established under section 6311(c)(4)(A)(ii) of this title , including measurements of interim progress towards meeting such goals, based on the State’s English language proficiency assessment under section 6311(b)(2)(G) of this title ; and
+      - **(ii)** the challenging State academic standards.
+  - **(3)** From the amount reserved under paragraph (2), a State educational agency may use not more than 50 percent of such amount or $175,000, whichever is greater, for the planning and direct administrative costs of carrying out paragraphs (1) and (2).
 - **(c)**
-  - **(1)** From the amount appropriated under section 6801(a) of this title for each fiscal year, the Secretary shall reserve—
+  - **(1)** From the amount appropriated under section 6801 of this title for each fiscal year, the Secretary shall reserve—
     - **(A)** 0.5 percent or $5,000,000 of such amount, whichever is greater, for payments to eligible entities that are defined under section 6822(a) of this title for activities, approved by the Secretary, consistent with this subpart;
-    - **(B)** 0.5 percent of such amount for payments to outlying areas, to be allotted in accordance with their respective needs for assistance under this subpart, as determined by the Secretary, for activities, approved by the Secretary, consistent with this subpart;
-    - **(C)** 6.5 percent of such amount for national activities under sections 6861 and 7013 of this title, except that not more than 0.5 percent of such amount shall be reserved for evaluation activities conducted by the Secretary and not more than $2,000,000 of such amount may be reserved for the National Clearinghouse for English Language Acquisition and Language Instruction Educational Programs described in section 7013 of this title ; and
-    - **(D)** such sums as may be necessary to make continuation awards under paragraph (2).
+    - **(B)** 0.5 percent of such amount for payments to outlying areas, to be allotted in accordance with their respective needs for assistance under this subpart, as determined by the Secretary, for activities, approved by the Secretary, consistent with this subpart; and
+    - **(C)** 6.5 percent of such amount for national activities under sections 6861 and 7013 of this title, except that not more than $2,000,000 of such amount may be reserved for the National Clearinghouse for English Language Acquisition and Language Instruction Educational Programs described in section 7013 of this title .
   - **(2)**
-    - **(A)** Before making allotments to State educational agencies under paragraph (3) for any fiscal year, the Secretary shall use the sums reserved under paragraph (1)(D) to make continuation awards to recipients who received grants or fellowships for the fiscal year preceding any fiscal year described in section 6801(b)(1)(A) of this title under—
-      - **(i)** subparts 1 and 3 of part A of title VII (as in effect on the day before January 8, 2002 ); or
-      - **(ii)** subparts 1 and 3 of part B of this subchapter.
-    - **(B)** The Secretary shall make the awards in order to allow such recipients to receive awards for the complete period of their grants or fellowships under the appropriate subparts.
-  - **(3)**
-    - **(A)** Except as provided in subparagraph (B), from the amount appropriated under section 6801(a) of this title for each fiscal year that remains after making the reservations under paragraph (1), the Secretary shall allot to each State educational agency having a plan approved under section 6823(c) of this title —
-      - **(i)** an amount that bears the same relationship to 80 percent of the remainder as the number of limited English proficient children in the State bears to the number of such children in all States; and
-      - **(ii)** an amount that bears the same relationship to 20 percent of the remainder as the number of immigrant children and youth in the State bears to the number of such children and youth in all States.
+    - **(A)** Except as provided in subparagraph (B), from the amount appropriated under section 6801 of this title for each fiscal year that remains after making the reservations under paragraph (1), the Secretary shall allot to each State educational agency having a plan approved under section 6823(c) of this title —
+      - **(i)** an amount that bears the same relationship to 80 percent of the remainder as the number of English learners in the State bears to the number of English learners in all States, as determined in accordance with paragraph (3)(A); and
+      - **(ii)** an amount that bears the same relationship to 20 percent of the remainder as the number of immigrant children and youth in the State bears to the number of such children and youth in all States, as determined in accordance with paragraph (3)(B).
     - **(B)** No State educational agency shall receive an allotment under this paragraph that is less than $500,000.
     - **(C)** If any State educational agency described in subparagraph (A) does not submit a plan to the Secretary for a fiscal year, or submits a plan (or any amendment to a plan) that the Secretary, after reasonable notice and opportunity for a hearing, determines does not satisfy the requirements of this subpart, the Secretary—
       - **(i)** shall endeavor to make the State’s allotment available on a competitive basis to specially qualified agencies within the State to satisfy the requirements of section 6825 of this title (and any additional requirements that the Secretary may impose), consistent with the purposes of such section, and to carry out required and authorized activities under such section; and
       - **(ii)** shall reallot any portion of such allotment remaining after the application of clause (i) to the remaining State educational agencies in accordance with subparagraph (A).
     - **(D)** The total amount allotted to Puerto Rico for any fiscal year under subparagraph (A) shall not exceed 0.5 percent of the total amount allotted to all States for that fiscal year.
-  - **(4)**
-    - **(A)** In making State allotments under paragraph (3), for the purpose of determining the number of limited English proficient children in a State and in all States, and the number of immigrant children and youth in a State and in all States, for each fiscal year, the Secretary shall use data that will yield the most accurate, up-to-date numbers of such children and youth.
-    - **(B)**
-      - **(i)** In making determinations under subparagraph (A) for the 2 fiscal years following January 8, 2002 , the Secretary shall determine the number of limited English proficient children in a State and in all States, and the number of immigrant children and youth in a State and in all States, using data available from the Bureau of Census or submitted by the States to the Secretary.
-      - **(ii)** For subsequent fiscal years, the Secretary shall determine the number of limited English proficient children in a State and in all States, and the number of immigrant children and youth in a State and in all States, using the more accurate of—
-        - **(I)** the data available from the American Community Survey available from the Department of Commerce; or
-        - **(II)** the number of children being assessed for English proficiency in a State as required under section 6311(b)(7) of this title .
+  - **(3)** In making State allotments under paragraph (2) for each fiscal year, the Secretary shall—
+    - **(A)** determine the number of English learners in a State and in all States, using the most accurate, up-to-date data, which shall be—
+      - **(i)** data available from the American Community Survey conducted by the Department of Commerce, which may be multiyear estimates;
+      - **(ii)** the number of students being assessed for English language proficiency, based on the State’s English language proficiency assessment under section 6311(b)(2)(G) of this title , which may be multiyear estimates; or
+      - **(iii)** a combination of data available under clauses (i) and (ii); and
+    - **(B)** determine the number of immigrant children and youth in the State and in all States based only on data available from the American Community Survey conducted by the Department of Commerce, which may be multiyear estimates.

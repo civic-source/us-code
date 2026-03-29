@@ -3,9 +3,9 @@ title: "Section 6011 - General requirement of return, statement, or list"
 usc_title: 26
 usc_section: "6011"
 chapter: 61
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 6011"
-generated_at: "2026-03-29T18:05:44.951Z"
+generated_at: "2026-03-29T18:25:53.880Z"
 ---
 
 # § 6011. General requirement of return, statement, or list
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T18:05:44.951Z"
     - **(A)** shall not require any person to file returns on magnetic media unless such person is required to file at least 250 returns during the calendar year, and
     - **(B)** shall take into account (among other relevant factors) the ability of the taxpayer to comply at reasonable cost with the requirements of such regulations.
   - **(3)**
-    - **(A)** The Secretary shall require than 1 1 So in original. Probably should be “that”. any individual income tax return prepared by a tax return preparer be filed on magnetic media if—
+    - **(A)** The Secretary shall require that any individual income tax return prepared by a tax return preparer be filed on magnetic media if—
       - **(i)** such return is filed by such tax return preparer, and
       - **(ii)** such tax return preparer is a specified tax return preparer for the calendar year during which such return is filed.
     - **(B)** For purposes of this paragraph, the term “specified tax return preparer” means, with respect to any calendar year, any tax return preparer unless such preparer reasonably expects to file 10 or fewer individual income tax returns during such calendar year.

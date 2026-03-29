@@ -3,9 +3,9 @@ title: "Section 2762 - Omitted"
 usc_title: 42
 usc_section: "2762"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 2762"
-generated_at: "2026-03-29T02:15:36.621Z"
+generated_at: "2026-03-29T18:27:03.469Z"
 ---
 
 # §§ 2761, 2762. Omitted

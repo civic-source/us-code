@@ -3,9 +3,9 @@ title: "Section 2279 - Outreach and assistance for socially disadvantaged farmer
 usc_title: 7
 usc_section: "2279"
 chapter: 55
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 2279"
-generated_at: "2026-03-29T18:04:04.984Z"
+generated_at: "2026-03-29T18:23:43.391Z"
 ---
 
 # § 2279. Outreach and assistance for socially disadvantaged farmers and ranchers and veteran farmers and ranchers
@@ -81,14 +81,14 @@ generated_at: "2026-03-29T18:04:04.984Z"
   - **(5)** The term “eligible entity” means any of the following:
     - **(A)** Any community-based organization, network, or coalition of community-based organizations that—
       - **(i)** has demonstrated experience in providing agricultural education or other agriculturally related services to socially disadvantaged farmers and ranchers and veteran farmers or ranchers;
-      - **(ii)** has provided to the Secretary documentary evidence of work with, and on behalf of, socially disadvantaged farmers or ranchers and veteran farmers or ranchers during the 3-year period preceding the submission of an application for assistance under subsection (a) of this section; and
+      - **(ii)** has provided to the Secretary documentary evidence of work with, and on behalf of, socially disadvantaged farmers or ranchers and veteran farmers or ranchers during the 3-year period preceding the submission of an application for assistance under subsection (a); and
       - **(iii)** does not engage in activities prohibited under section 501(c)(3) of title 26 .
     - **(B)** An 1890 institution or 1994 institution (as defined in section 7601 of this title ), including West Virginia State College.
     - **(C)** An Indian tribal community college or an Alaska Native cooperative college.
     - **(D)** An Hispanic-serving institution (as defined in section 3103 of this title ).
     - **(E)** Any other institution of higher education (as defined in section 1001 of title 20 ) that has demonstrated experience in providing agriculture education or other agriculturally related services to socially disadvantaged farmers and ranchers in a region.
-    - **(F)** An Indian tribe (as defined in section 450b of title 25 ) or a national tribal organization that has demonstrated experience in providing agriculture education or other agriculturally related services to socially disadvantaged farmers and ranchers in a region.
-    - **(G)** An organization or institution that received funding under subsection (a) of this section before January 1, 1996 , but only with respect to projects that the Secretary considers are similar to projects previously carried out by the organization or institution under such subsection.
+    - **(F)** An Indian tribe (as defined in section 5304 of title 25 ) or a national tribal organization that has demonstrated experience in providing agriculture education or other agriculturally related services to socially disadvantaged farmers and ranchers in a region.
+    - **(G)** An organization or institution that received funding under subsection (a) before January 1, 1996 , but only with respect to projects that the Secretary considers are similar to projects previously carried out by the organization or institution under such subsection.
   - **(6)** The term “Secretary” means the Secretary of Agriculture.
   - **(7)** The term “veteran farmer or rancher” means a farmer or rancher who has served in the Armed Forces (as defined in section 101(10) of title 38 ) and who—
     - **(A)** has not operated a farm or ranch; or

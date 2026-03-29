@@ -3,15 +3,15 @@ title: "Section 3311 - Reporting requirements"
 usc_title: 22
 usc_section: "3311"
 chapter: 48
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 3311"
-generated_at: "2026-03-29T18:05:21.907Z"
+generated_at: "2026-03-29T18:24:54.280Z"
 ---
 
 # § 3311. Reporting requirements
 
 - **(a)** The Secretary of State shall transmit to the Congress the text of any agreement to which the Institute is a party. However, any such agreement the immediate public disclosure of which would, in the opinion of the President, be prejudicial to the national security of the United States shall not be so transmitted to the Congress but shall be transmitted to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives under an appropriate injunction of secrecy to be removed only upon due notice from the President.
-- **(b)** For purposes of subsection (a) of this section, the term “agreement” includes—
+- **(b)** For purposes of subsection (a), the term “agreement” includes—
   - **(1)** any agreement entered into between the Institute and the governing authorities on Taiwan or the instrumentality established by Taiwan; and
   - **(2)** any agreement entered into between the Institute and an agency of the United States Government.
 - **(c)** Agreements and transactions made or to be made by or through the Institute shall be subject to the same congressional notification, review, and approval requirements and procedures as if such agreements and transactions were made by or through the agency of the United States Government on behalf of which the Institute is acting.

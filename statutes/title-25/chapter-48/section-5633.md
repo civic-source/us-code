@@ -3,9 +3,9 @@ title: "Section 5633 - Under Secretary for Indian Affairs"
 usc_title: 25
 usc_section: "5633"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 5633"
-generated_at: "2026-03-29T02:13:21.024Z"
+generated_at: "2026-03-29T18:25:23.848Z"
 ---
 
 # § 5633. Under Secretary for Indian Affairs
@@ -30,4 +30,4 @@ generated_at: "2026-03-29T02:13:21.024Z"
   - **(2)** Except as otherwise provided by law—
     - **(A)** any officer or employee described in paragraph (1) shall be appointed in accordance with the civil service laws;
     - **(B)** the compensation of such an officer or employee shall be fixed in accordance with title 5; and
-    - **(C)** in appointing or otherwise hiring any employee, the Under Secretary shall give preference to Indians in accordance with section 5116 of this title .
+    - **(C)** in appointing or otherwise hiring any employee, the Under Secretary shall give preference to Indians in accordance with section 472 of this title .

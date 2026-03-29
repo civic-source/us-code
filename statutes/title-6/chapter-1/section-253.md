@@ -3,15 +3,15 @@ title: "Section 253 - Professional responsibility and quality review"
 usc_title: 6
 usc_section: "253"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "6 U.S.C. § 253"
-generated_at: "2026-03-29T18:03:43.246Z"
+generated_at: "2026-03-29T18:23:35.742Z"
 ---
 
 # § 253. Professional responsibility and quality review
 
-The Under Secretary for Border and Transportation Security shall be responsible for—
+The Secretary shall be responsible for—
 
-  - **(1)** conducting investigations of noncriminal allegations of misconduct, corruption, and fraud involving any employee of the Bureau of Border Security that are not subject to investigation by the Inspector General for the Department;
-  - **(2)** inspecting the operations of the Bureau of Border Security and providing assessments of the quality of the operations of such bureau as a whole and each of its components; and
-  - **(3)** providing an analysis of the management of the Bureau of Border Security.
+  - **(1)** conducting investigations of noncriminal allegations of misconduct, corruption, and fraud involving any employee of U.S. Immigration and Customs Enforcement that are not subject to investigation by the Inspector General for the Department;
+  - **(2)** inspecting the operations of U.S. Immigration and Customs Enforcement and providing assessments of the quality of the operations of such bureau as a whole and each of its components; and
+  - **(3)** providing an analysis of the management of U.S. Immigration and Customs Enforcement.

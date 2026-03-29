@@ -3,9 +3,9 @@ title: "Section 293 - Authority to conduct a demonstration project relating to d
 usc_title: 6
 usc_section: "293"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "6 U.S.C. § 293"
-generated_at: "2026-03-29T18:03:43.249Z"
+generated_at: "2026-03-29T18:23:35.744Z"
 ---
 
 # § 293. Authority to conduct a demonstration project relating to disciplinary action
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T18:03:43.249Z"
 - **(c)** Under the demonstration project—
   - **(1)** the use of alternative means of dispute resolution (as defined in section 571 of title 5 ) shall be encouraged, whenever appropriate; and
   - **(2)** each covered entity under the jurisdiction of the official conducting the project shall be required to provide for the expeditious, fair, and independent review of any action to which section 4303 or subchapter II of chapter 75 of such title 5 would otherwise apply (except an action described in section 7512(5) of such title 5).
-- **(d)** Notwithstanding any other provision of this section, if, in the case of any matter described in section 7702(a)(1)(B) of title 5 , there is no judicially reviewable action under the demonstration project within 120 days after the filing of an appeal or other formal request for review (referred to in subsection (c)(2) of this section), an employee shall be entitled to file a civil action to the same extent and in the same manner as provided in section 7702(e)(1) of such title 5 (in the matter following subparagraph (C) thereof).
+- **(d)** Notwithstanding any other provision of this section, if, in the case of any matter described in section 7702(a)(1)(B) of title 5 , there is no judicially reviewable action under the demonstration project within 120 days after the filing of an appeal or other formal request for review (referred to in subsection (c)(2)), an employee shall be entitled to file a civil action to the same extent and in the same manner as provided in section 7702(e)(1) of such title 5 (in the matter following subparagraph (C) thereof).
 - **(e)** Employees shall not be included within any project under this section if such employees are—
   - **(1)** neither managers nor supervisors; and
   - **(2)** within a unit with respect to which a labor organization is accorded exclusive recognition under chapter 71 of title 5.

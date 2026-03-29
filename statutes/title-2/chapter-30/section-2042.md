@@ -3,9 +3,9 @@ title: "Section 2042 - Senate Restaurants; management by Architect of the Capito
 usc_title: 2
 usc_section: "2042"
 chapter: 30
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "2 U.S.C. § 2042"
-generated_at: "2026-03-29T18:03:21.817Z"
+generated_at: "2026-03-29T18:23:14.135Z"
 ---
 
 # § 2042. Senate Restaurants; management by Architect of the Capitol

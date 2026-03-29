@@ -1,22 +1,22 @@
 ---
-title: "Section 3831b - Pilot program for enrollment of wetland and buffer acreage in conservation reserve"
+title: "Section 3831b - Farmable wetland program"
 usc_title: 16
 usc_section: "3831b"
 chapter: 58
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 3831b"
-generated_at: "2026-03-29T18:05:07.044Z"
+generated_at: "2026-03-29T18:24:22.886Z"
 ---
 
-# § 3831b. Pilot program for enrollment of wetland and buffer acreage in conservation reserve
+# § 3831b. Farmable wetland program
 
 - **(a)**
-  - **(1)** During the 2008 through 2012 fiscal years, the Secretary shall carry out a program in each State under which the Secretary shall enroll eligible acreage described in subsection (b).
+  - **(1)** During the 2008 through 2018 fiscal years, the Secretary shall carry out a farmable wetland program in each State under which the Secretary shall enroll eligible acreage described in subsection (b).
   - **(2)** The Secretary shall ensure, to the maximum extent practicable, that owners and operators in each State have an equitable opportunity to participate in the program established under this section.
 - **(b)**
   - **(1)** Subject to subsections (c) and (d), an owner or operator may enroll in the conservation reserve, pursuant to the program established under this section, land—
     - **(A)** that is wetland (including a converted wetland described in section 3822(b)(1)(A) of this title ) that had a cropping history during at least 3 of the immediately preceding 10 crop years;
-    - **(B)** on which a constructed wetland is to be developed that will receive flow from a row crop agriculture drainage system and is designed to provide nitrogen removal in addition to other wetland functions;
+    - **(B)** on which a constructed wetland is to be developed that will receive surface and subsurface flow from row crop agricultural production and is designed to provide nitrogen removal in addition to other wetland functions;
     - **(C)** that was devoted to commercial pond-raised aquaculture in any year during the period of calendar years 2002 through 2007; or
     - **(D)** that, after January 1, 1990 , and before December 31, 2002 , was—
       - **(i)** cropped during at least 3 of 10 crop years; and
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T18:05:07.044Z"
 - **(c)**
   - **(1)** The Secretary may enroll in the conservation reserve, pursuant to the program established under this section, not more than—
     - **(A)** 100,000 acres in any State; and
-    - **(B)** a total of 1,000,000 acres.
+    - **(B)** a total of 750,000 acres.
   - **(2)** Subject to paragraph (3), any acreage enrolled in the conservation reserve under this section shall be considered acres maintained in the conservation reserve.
   - **(3)** Acreage enrolled in the conservation reserve under this section shall not affect for any fiscal year the quantity of—
     - **(A)** acreage enrolled to establish conservation buffers as part of the program announced on March 24, 1998 (63 Fed. Reg. 14109); or
@@ -52,5 +52,5 @@ generated_at: "2026-03-29T18:05:07.044Z"
   - **(1)** Except as provided in paragraphs (2) and (3), in return for a contract entered into under this section, the Secretary shall—
     - **(A)** make payments to the owner or operator based on rental rates for cropland; and
     - **(B)** provide assistance to the owner or operator in accordance with sections 3833 and 3834 of this title.
-  - **(2)** The Secretary shall use the method of determination described in section 3834(c)(2)(B) of this title to determine the acceptability of contract offers and the amount of rental payments under this section.
+  - **(2)** The Secretary shall use the method of determination described in section 3834(d)(2)(A)(ii) of this title to determine the acceptability of contract offers and the amount of rental payments under this section.
   - **(3)** The amounts payable to owners and operators in the form of rental payments under contracts entered into under this section shall reflect incentives that are provided to owners and operators to enroll filterstrips in the conservation reserve under section 3834 of this title .

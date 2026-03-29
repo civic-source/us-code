@@ -3,9 +3,9 @@ title: "Section 7671o - Transfers among Parties to Montreal Protocol"
 usc_title: 42
 usc_section: "7671o"
 chapter: 85
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 7671o"
-generated_at: "2026-03-29T18:07:14.966Z"
+generated_at: "2026-03-29T18:27:03.857Z"
 ---
 
 # § 7671o. Transfers among Parties to Montreal Protocol

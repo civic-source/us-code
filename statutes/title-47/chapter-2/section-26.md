@@ -3,9 +3,9 @@ title: "Section 26 - Duties of commanders of warships"
 usc_title: 47
 usc_section: "26"
 chapter: 2
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "47 U.S.C. § 26"
-generated_at: "2026-03-29T18:07:40.795Z"
+generated_at: "2026-03-29T18:27:09.518Z"
 ---
 
 # § 26. Duties of commanders of warships

@@ -3,9 +3,9 @@ title: "Section 6045 - Returns of brokers"
 usc_title: 26
 usc_section: "6045"
 chapter: 61
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 6045"
-generated_at: "2026-03-29T18:05:44.961Z"
+generated_at: "2026-03-29T18:25:53.889Z"
 ---
 
 # § 6045. Returns of brokers
@@ -75,6 +75,7 @@ generated_at: "2026-03-29T18:05:44.961Z"
       - **(iii)** January 1, 2013 , or such later date determined by the Secretary in the case of any other specified security.
   - **(4)** In the case of the sale of a covered security acquired by an S corporation (other than a financial institution) after December 31, 2011 , such S corporation shall be treated in the same manner as a partnership for purposes of this section.
   - **(5)** In the case of a short sale, reporting under this section shall be made for the year in which such sale is closed.
+  - **(6)** For purposes of this subsection, stock acquired before January 1, 2012 , in connection with a dividend reinvestment plan shall be treated as stock described in clause (ii) of paragraph (3)(C) (unless the broker with respect to such stock elects not to have this paragraph apply with respect to such stock).
 - **(h)**
   - **(1)** For purposes of this section, if a covered security is acquired or disposed of pursuant to the exercise of an option that was granted or acquired in the same account as the covered security, the amount received with respect to the grant or paid with respect to the acquisition of such option shall be treated as an adjustment to gross proceeds or as an adjustment to basis, as the case may be.
   - **(2)** In the case of the lapse (or closing transaction (as defined in section 1234(b)(2)(A))) of an option on a specified security or the exercise of a cash-settled option on a specified security, reporting under subsections (a) and (g) with respect to such option shall be made for the calendar year which includes the date of such lapse, closing transaction, or exercise.

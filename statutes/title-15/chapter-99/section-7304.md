@@ -3,14 +3,14 @@ title: "Section 7304 - Briefings, hearings, witnesses, and subpoenas"
 usc_title: 15
 usc_section: "7304"
 chapter: 99
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 7304"
-generated_at: "2026-03-29T18:04:29.965Z"
+generated_at: "2026-03-29T18:24:08.653Z"
 ---
 
 # § 7304. Briefings, hearings, witnesses, and subpoenas
 
-- **(a)** The Director or his designee, on behalf of a Team, may conduct hearings, administer oaths, and require, by subpoena (pursuant to subsection (e) of this section) and otherwise, necessary witnesses and evidence as necessary to carry out this chapter.
+- **(a)** The Director or his designee, on behalf of a Team, may conduct hearings, administer oaths, and require, by subpoena (pursuant to subsection (e)) and otherwise, necessary witnesses and evidence as necessary to carry out this chapter.
 - **(b)** The Director or his designee (who may be the leader or a member of a Team), on behalf of a Team, shall hold regular public briefings on the status of investigative proceedings and findings, including a final briefing after the report required by section 7307 of this title is issued.
 - **(c)** During the course of an investigation by a Team, the National Institute of Standards and Technology may, if the Director considers it to be in the public interest, hold a public hearing for the purposes of—
   - **(1)** gathering testimony from witnesses; and

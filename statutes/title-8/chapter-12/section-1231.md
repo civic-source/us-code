@@ -3,9 +3,9 @@ title: "Section 1231 - Detention and removal of aliens ordered removed"
 usc_title: 8
 usc_section: "1231"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "8 U.S.C. § 1231"
-generated_at: "2026-03-29T18:03:34.058Z"
+generated_at: "2026-03-29T18:23:33.951Z"
 ---
 
 # § 1231. Detention and removal of aliens ordered removed
@@ -96,11 +96,11 @@ generated_at: "2026-03-29T18:03:34.058Z"
       - **(ii)** condition that the alien appear when required as a witness and for removal; and
       - **(iii)** other conditions the Attorney General may prescribe.
   - **(3)**
-    - **(A)** Except as provided in subparagraph (B) and subsection (d) 4 4 So in original. Probably should be subsection “(e)”. of this section, an owner of a vessel or aircraft bringing an alien to the United States shall pay the costs of detaining and maintaining the alien—
-      - **(i)** while the alien is detained under subsection (d)(1) of this section, and
+    - **(A)** Except as provided in subparagraph (B) and subsection (d), 4 4 So in original. Probably should be subsection “(e),”. an owner of a vessel or aircraft bringing an alien to the United States shall pay the costs of detaining and maintaining the alien—
+      - **(i)** while the alien is detained under subsection (d)(1), and
       - **(ii)** in the case of an alien who is a stowaway, while the alien is being detained pursuant to—
-        - **(I)** subsection (d)(2)(A) or (d)(2)(B)(i) of this section,
-        - **(II)** subsection (d)(2)(B)(ii) or (iii) of this section for the period of time reasonably necessary for the owner to arrange for repatriation or removal of the stowaway, including obtaining necessary travel documents, but not to extend beyond the date on which it is ascertained that such travel documents cannot be obtained from the country to which the stowaway is to be returned, or
+        - **(I)** subsection (d)(2)(A) or (d)(2)(B)(i),
+        - **(II)** subsection (d)(2)(B)(ii) or (iii) for the period of time reasonably necessary for the owner to arrange for repatriation or removal of the stowaway, including obtaining necessary travel documents, but not to extend beyond the date on which it is ascertained that such travel documents cannot be obtained from the country to which the stowaway is to be returned, or
         - **(III)** section 1225(b)(1)(B)(ii) of this title , for a period not to exceed 15 days (excluding Saturdays, Sundays, and holidays) commencing on the first such day which begins on the earlier of 72 hours after the time of the initial presentation of the stowaway for inspection or at the time the stowaway is determined to have a credible fear of persecution.
     - **(B)** Subparagraph (A) shall not apply if—
       - **(i)** the alien is a crewmember;

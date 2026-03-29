@@ -3,9 +3,9 @@ title: "Section 620o - Definitions"
 usc_title: 43
 usc_section: "620o"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 620o"
-generated_at: "2026-03-29T18:06:28.301Z"
+generated_at: "2026-03-29T18:26:14.826Z"
 ---
 
 # § 620o. Definitions

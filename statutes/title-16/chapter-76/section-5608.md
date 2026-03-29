@@ -3,9 +3,9 @@ title: "Section 5608 - Administrative matters"
 usc_title: 16
 usc_section: "5608"
 chapter: 76
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 5608"
-generated_at: "2026-03-29T18:05:07.084Z"
+generated_at: "2026-03-29T18:24:22.923Z"
 ---
 
 # § 5608. Administrative matters
@@ -14,5 +14,5 @@ generated_at: "2026-03-29T18:05:07.084Z"
   - **(1)** a Commissioner, Alternate Commissioner, Representative, or Alternative Representative;
   - **(2)** an expert or adviser authorized under section 5601(e) of this title ; or
   - **(3)** a member of the consultative committee established by section 5607 of this title .
-- **(b)** The Secretary of State shall, subject to the availability of appropriations, pay all necessary travel and other expenses of persons described in subsection (a)(1) of this section and of not more than six experts and advisers authorized under section 5601(e) of this title with respect to their actual performance of their official duties pursuant to this chapter, in accordance with the Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5.
-- **(c)** A person shall not be considered to be a Federal employee by reason of any service of the person in a capacity described in subsection (a) of this section, except for purposes of injury compensation and tort claims liability under chapter 81 of title 5 and chapter 171 of title 28, respectively.
+- **(b)** The Secretary of State shall, subject to the availability of appropriations, pay all necessary travel and other expenses of persons described in subsection (a)(1) and of not more than six experts and advisers authorized under section 5601(e) of this title with respect to their actual performance of their official duties pursuant to this chapter, in accordance with the Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5.
+- **(c)** A person shall not be considered to be a Federal employee by reason of any service of the person in a capacity described in subsection (a), except for purposes of injury compensation and tort claims liability under chapter 81 of title 5 and chapter 171 of title 28, respectively.

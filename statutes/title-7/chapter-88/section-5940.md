@@ -3,14 +3,14 @@ title: "Section 5940 - Legitimacy of industrial hemp research"
 usc_title: 7
 usc_section: "5940"
 chapter: 88
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 5940"
-generated_at: "2026-03-29T18:04:05.063Z"
+generated_at: "2026-03-29T18:23:43.463Z"
 ---
 
 # § 5940. Legitimacy of industrial hemp research
 
-- **(a)** Notwithstanding the Controlled Substances Act ( 21 U.S.C. 801 et seq.), the Safe and Drug-Free Schools and Communities Act ( 20 U.S.C. 7101 et seq.), chapter 81 of title 41, or any other Federal law, an institution of higher education (as defined in section 1001 of title 20 ) or a State department of agriculture may grow or cultivate industrial hemp if—
+- **(a)** Notwithstanding the Controlled Substances Act ( 21 U.S.C. 801 et seq.), chapter 81 of title 41, or any other Federal law, an institution of higher education (as defined in section 1001 of title 20 ) or a State department of agriculture may grow or cultivate industrial hemp if—
   - **(1)** the industrial hemp is grown or cultivated for purposes of research conducted under an agricultural pilot program or other agricultural or academic research; and
   - **(2)** the growing or cultivating of industrial hemp is allowed under the laws of the State in which such institution of higher education or State department of agriculture is located and such research occurs.
 - **(b)** In this section:

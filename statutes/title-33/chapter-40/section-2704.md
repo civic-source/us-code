@@ -3,9 +3,9 @@ title: "Section 2704 - Limits on liability"
 usc_title: 33
 usc_section: "2704"
 chapter: 40
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 2704"
-generated_at: "2026-03-29T18:06:10.608Z"
+generated_at: "2026-03-29T18:26:01.309Z"
 ---
 
 # § 2704. Limits on liability
@@ -26,17 +26,17 @@ generated_at: "2026-03-29T18:06:10.608Z"
   - **(4)** for any onshore facility and a deepwater port, $350,000,000.
 - **(b)**
   - **(1)** For purposes of determining the responsible party and applying this Act and except as provided in paragraph (2), a mobile offshore drilling unit which is being used as an offshore facility is deemed to be a tank vessel with respect to the discharge, or the substantial threat of a discharge, of oil on or above the surface of the water.
-  - **(2)** To the extent that removal costs and damages from any incident described in paragraph (1) exceed the amount for which a responsible party is liable (as that amount may be limited under subsection (a)(1) of this section), the mobile offshore drilling unit is deemed to be an offshore facility. For purposes of applying subsection (a)(3) of this section, the amount specified in that subsection shall be reduced by the amount for which the responsible party is liable under paragraph (1).
+  - **(2)** To the extent that removal costs and damages from any incident described in paragraph (1) exceed the amount for which a responsible party is liable (as that amount may be limited under subsection (a)(1)), the mobile offshore drilling unit is deemed to be an offshore facility. For purposes of applying subsection (a)(3), the amount specified in that subsection shall be reduced by the amount for which the responsible party is liable under paragraph (1).
 - **(c)**
-  - **(1)** Subsection (a) of this section does not apply if the incident was proximately caused by—
+  - **(1)** Subsection (a) does not apply if the incident was proximately caused by—
     - **(A)** gross negligence or willful misconduct of, or
     - **(B)** the violation of an applicable Federal safety, construction, or operating regulation by,
-  - **(2)** Subsection (a) of this section does not apply if the responsible party fails or refuses—
+  - **(2)** Subsection (a) does not apply if the responsible party fails or refuses—
     - **(A)** to report the incident as required by law and the responsible party knows or has reason to know of the incident;
     - **(B)** to provide all reasonable cooperation and assistance requested by a responsible official in connection with removal activities; or
     - **(C)** without sufficient cause, to comply with an order issued under subsection (c) or (e) of section 1321 of this title or the Intervention on the High Seas Act ( 33 U.S.C. 1471 et seq.).
-  - **(3)** Notwithstanding the limitations established under subsection (a) of this section and the defenses of section 2703 of this title , all removal costs incurred by the United States Government or any State or local official or agency in connection with a discharge or substantial threat of a discharge of oil from any Outer Continental Shelf facility or a vessel carrying oil as cargo from such a facility shall be borne by the owner or operator of such facility or vessel.
-  - **(4)** Subsection (a)(1) of this section shall not apply to—
+  - **(3)** Notwithstanding the limitations established under subsection (a) and the defenses of section 2703 of this title , all removal costs incurred by the United States Government or any State or local official or agency in connection with a discharge or substantial threat of a discharge of oil from any Outer Continental Shelf facility or a vessel carrying oil as cargo from such a facility shall be borne by the owner or operator of such facility or vessel.
+  - **(4)** Subsection (a)(1) shall not apply to—
     - **(A)** a tank vessel on which the only oil carried as cargo is an animal fat or vegetable oil, as those terms are used in section 2720 of this title ; and
     - **(B)** a tank vessel that is designated in its certificate of inspection as an oil spill response vessel (as that term is defined in section 2101 of title 46 ) and that is used solely for removal.
 - **(d)**
@@ -45,5 +45,5 @@ generated_at: "2026-03-29T18:06:10.608Z"
     - **(A)** The Secretary shall conduct a study of the relative operational and environmental risks posed by the transportation of oil by vessel to deepwater ports (as defined in section 1502 of this title ) versus the transportation of oil by vessel to other ports. The study shall include a review and analysis of offshore lightering practices used in connection with that transportation, an analysis of the volume of oil transported by vessel using those practices, and an analysis of the frequency and volume of oil discharges which occur in connection with the use of those practices.
     - **(B)** Not later than 1 year after August 18, 1990 , the Secretary shall submit to the Congress a report on the results of the study conducted under subparagraph (A).
     - **(C)** If the Secretary determines, based on the results of the study conducted under this 2 2 So in original. The word “this” probably should not appear. subparagraph (A), that the use of deepwater ports in connection with the transportation of oil by vessel results in a lower operational or environmental risk than the use of other ports, the Secretary shall initiate, not later than the 180th day following the date of submission of the report to the Congress under subparagraph (B), a rulemaking proceeding to lower the limits of liability under this section for deepwater ports as the Secretary determines appropriate. The Secretary may establish a limit of liability of less than $350,000,000, but not less than $50,000,000, in accordance with paragraph (1).
-  - **(3)** The President shall, within 6 months after August 18, 1990 , and from time to time thereafter, report to the Congress on the desirability of adjusting the limits of liability specified in subsection (a) of this section.
+  - **(3)** The President shall, within 6 months after August 18, 1990 , and from time to time thereafter, report to the Congress on the desirability of adjusting the limits of liability specified in subsection (a).
   - **(4)** The President, by regulations issued not later than 3 years after July 11, 2006 , and not less than every 3 years thereafter, shall adjust the limits on liability specified in subsection (a) to reflect significant increases in the Consumer Price Index.

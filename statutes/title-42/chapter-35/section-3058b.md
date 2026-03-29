@@ -3,9 +3,9 @@ title: "Section 3058b - Allotment"
 usc_title: 42
 usc_section: "3058b"
 chapter: 35
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 3058b"
-generated_at: "2026-03-29T18:07:14.498Z"
+generated_at: "2026-03-29T18:27:03.499Z"
 ---
 
 # § 3058b. Allotment
@@ -18,8 +18,8 @@ generated_at: "2026-03-29T18:07:14.498Z"
       - **(i)** No State shall be allotted less than one-half of 1 percent of the funds appropriated under section 3058a of this title for the fiscal year for which the determination is made.
       - **(ii)** Guam, the United States Virgin Islands, and the Trust Territory of the Pacific Islands, shall each be allotted not less than one-fourth of 1 percent of the funds appropriated under section 3058a of this title for the fiscal year for which the determination is made. American Samoa and the Commonwealth of the Northern Mariana Islands shall each be allotted not less than one-sixteenth of 1 percent of the sum appropriated under section 3058a of this title for the fiscal year for which the determination is made.
     - **(C)**
-      - **(i)** No State shall be allotted for a fiscal year, from the funds appropriated under section 3058a of this title and made available to carry out subpart II of this part, less than the amount allotted to the State under section 3024 of this title in fiscal year 2000 to carry out the State Long-Term Care Ombudsman program under subchapter III of this chapter.
-      - **(ii)** No State shall be allotted for a fiscal year, from the funds appropriated under section 3058a of this title and made available to carry out subpart III of this part, less than the amount allotted to the State under section 3024 of this title in fiscal year 2000 to carry out programs with respect to the prevention of elder abuse, neglect, and exploitation under subchapter III of this chapter.
+      - **(i)** No State shall be allotted for a fiscal year, from the funds appropriated under section 3058a of this title and made available to carry out subpart II of this part, less than the amount allotted to the State under section 3024 of this title in fiscal year 2000 to carry out the State Long-Term Care Ombudsman program under subchapter III.
+      - **(ii)** No State shall be allotted for a fiscal year, from the funds appropriated under section 3058a of this title and made available to carry out subpart III of this part, less than the amount allotted to the State under section 3024 of this title in fiscal year 2000 to carry out programs with respect to the prevention of elder abuse, neglect, and exploitation under subchapter III.
     - **(D)** For the purposes of this paragraph, the term “State” does not include Guam, American Samoa, the United States Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
 - **(b)**
   - **(1)** If the Assistant Secretary determines that any amount allotted to a State for a fiscal year under this section will not be used by the State for carrying out the purpose for which the allotment was made, the Assistant Secretary shall make the amount available to a State that the Assistant Secretary determines will be able to use the amount for carrying out the purpose.

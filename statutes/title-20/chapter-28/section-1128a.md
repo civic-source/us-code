@@ -3,9 +3,9 @@ title: "Section 1128a - American overseas research centers"
 usc_title: 20
 usc_section: "1128a"
 chapter: 28
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1128a"
-generated_at: "2026-03-29T18:05:00.164Z"
+generated_at: "2026-03-29T18:24:41.003Z"
 ---
 
 # § 1128a. American overseas research centers
@@ -24,5 +24,5 @@ generated_at: "2026-03-29T18:05:00.164Z"
   - **(1)** receive more than 50 percent of their funding from public or private United States sources;
   - **(2)** have a permanent presence in the country in which the center is located; and
   - **(3)** are organizations described in section 501(c)(3) of title 26 which are exempt from taxation under section 501(a) of such title.
-- **(d)** The Secretary is authorized to make grants for the establishment of new centers. The grants may be used to fund activities that, within 1 year, will result in the creation of a center described in subsection (c) of this section.
+- **(d)** The Secretary is authorized to make grants for the establishment of new centers. The grants may be used to fund activities that, within 1 year, will result in the creation of a center described in subsection (c).
 - **(e)** Each center desiring to receive a grant or contract under this section shall submit an application to the Secretary at such time, in such manner, and accompanied by such information and assurances as the Secretary may require.

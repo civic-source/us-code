@@ -3,14 +3,14 @@ title: "Section 16915a - Direction to the Attorney General"
 usc_title: 42
 usc_section: "16915a"
 chapter: 151
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 16915a"
-generated_at: "2026-03-29T18:07:15.489Z"
+generated_at: "2026-03-29T18:27:04.238Z"
 ---
 
 # § 16915a. Direction to the Attorney General
 
-- **(a)** The Attorney General, using the authority provided in section 114(a)(7) of the Sex Offender Registration and Notification Act [ 42 U.S.C. 16914(a)(7) ], shall require that each sex offender provide to the sex offender registry those Internet identifiers the sex offender uses or will use of any type that the Attorney General determines to be appropriate under that Act [ 42 U.S.C. 16901 et seq.]. These records of Internet identifiers shall be subject to the Privacy Act ( 5 U.S.C. 552a ) to the same extent as the other records in the National Sex Offender Registry.
+- **(a)** The Attorney General, using the authority provided in section 114(a)(7) 1 1 See References in Text note below. of the Sex Offender Registration and Notification Act [ 42 U.S.C. 16914(a)(7) ], shall require that each sex offender provide to the sex offender registry those Internet identifiers the sex offender uses or will use of any type that the Attorney General determines to be appropriate under that Act [ 42 U.S.C. 16901 et seq.]. These records of Internet identifiers shall be subject to the Privacy Act ( 5 U.S.C. 552a ) to the same extent as the other records in the National Sex Offender Registry.
 - **(b)** The Attorney General, using the authority provided in section 112(b) of the Sex Offender Registration and Notification Act [ 42 U.S.C. 16912(b) ], shall specify the time and manner for keeping current information required to be provided under this section.
 - **(c)** The Attorney General, using the authority provided in section 118(b)(4) of the Sex Offender Registration and Notification Act [ 42 U.S.C. 16918(b)(4) ], shall exempt from disclosure all information provided by a sex offender under subsection (a).
 - **(d)** The Attorney General shall ensure that procedures are in place to notify each sex offender of changes in requirements that apply to that sex offender as a result of the implementation of this section.

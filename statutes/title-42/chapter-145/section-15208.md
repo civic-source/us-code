@@ -3,9 +3,9 @@ title: "Section 15208 - Law enforcement tribute acts"
 usc_title: 42
 usc_section: "15208"
 chapter: 145
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 15208"
-generated_at: "2026-03-29T18:07:15.405Z"
+generated_at: "2026-03-29T18:27:04.188Z"
 ---
 
 # § 15208. Law enforcement tribute acts
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T18:07:15.405Z"
   - **(6)** In addition, recent statistics indicate that 83 officers were accidentally killed in the performance of their duties in 2000, an increase of 18 from the 65 accidental deaths in 1999.
   - **(7)** A permanent tribute is a powerful means of honoring the men and women who have served our Nation with distinction. However, many law enforcement and public safety agencies lack the resources to honor their fallen colleagues.
 - **(c)** From amounts made available to carry out this section, the Attorney General may make grants to States, units of local government, and Indian tribes to carry out programs to honor, through permanent tributes, men and women of the United States who were killed or disabled while serving as law enforcement or public safety officers.
-- **(d)** Grants awarded under this section shall be distributed directly to the State, unit of local government, or Indian tribe, and shall be used for the purposes specified in subsection (c) of this section.
+- **(d)** Grants awarded under this section shall be distributed directly to the State, unit of local government, or Indian tribe, and shall be used for the purposes specified in subsection (c).
 - **(e)** A grant under this section may not exceed $150,000 to any single recipient.
 - **(f)**
   - **(1)** The Federal portion of the costs of a program provided by a grant under this section may not exceed 50 percent.

@@ -3,18 +3,18 @@ title: "Section 9514 - Office of the Director"
 usc_title: 20
 usc_section: "9514"
 chapter: 76
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 9514"
-generated_at: "2026-03-29T18:05:00.414Z"
+generated_at: "2026-03-29T18:24:41.181Z"
 ---
 
 # § 9514. Office of the Director
 
-- **(a)** Except as provided in subsection (b)(2) of this section, the President, by and with the advice and consent of the Senate, shall appoint the Director of the Institute.
+- **(a)** Except as provided in subsection (b)(2), the President, by and with the advice and consent of the Senate, shall appoint the Director of the Institute.
 - **(b)**
   - **(1)** The Director shall serve for a term of 6 years, beginning on the date of appointment of the Director.
   - **(2)** The President, without the advice and consent of the Senate, may appoint the Assistant Secretary for the Office of Educational Research and Improvement (as such office existed on the day before November 5, 2002 ) to serve as the first Director of the Institute.
-  - **(3)** The Board may make recommendations to the President with respect to the appointment of a Director under subsection (a) of this section, other than a Director appointed under paragraph (2).
+  - **(3)** The Board may make recommendations to the President with respect to the appointment of a Director under subsection (a), other than a Director appointed under paragraph (2).
 - **(c)** The Director shall receive the rate of basic pay for level II of the Executive Schedule.
 - **(d)** The Director shall be selected from individuals who are highly qualified authorities in the fields of scientifically valid research, statistics, or evaluation in education, as well as management within such areas, and have a demonstrated capacity for sustained productivity and leadership in these areas.
 - **(e)** The Director shall—

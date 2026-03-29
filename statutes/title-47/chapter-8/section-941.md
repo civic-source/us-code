@@ -3,17 +3,17 @@ title: "Section 941 - Child-friendly second-level Internet domain"
 usc_title: 47
 usc_section: "941"
 chapter: 8
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "47 U.S.C. § 941"
-generated_at: "2026-03-29T18:07:40.905Z"
+generated_at: "2026-03-29T18:27:09.604Z"
 ---
 
 # § 941. Child-friendly second-level Internet domain
 
 - **(a)** The NTIA shall require the registry selected to operate and maintain the United States country code Internet domain to establish, operate, and maintain a second-level domain within the United States country code domain that provides access only to material that is suitable for minors and not harmful to minors (in this section referred to as the “new domain”).
 - **(b)**
-  - **(1)** The NTIA shall not exercise any option periods under any contract between the NTIA and the initial registry to operate and maintain the United States country code Internet domain unless the initial registry agrees, during the 90-day period beginning upon December 4, 2002 , to carry out, and to operate the new domain in accordance with, the requirements under subsection (c) of this section. Nothing in this subsection shall be construed to prevent the initial registry of the United States country code Internet domain from participating in the NTIA’s process for selecting a successor registry or to prevent the NTIA from awarding, to the initial registry, the contract to be successor registry subject to the requirements of paragraph (2).
-  - **(2)** The NTIA shall not enter into any contract for operating and maintaining the United States country code Internet domain with any successor registry unless such registry enters into an agreement with the NTIA, during the 90-day period after selection of such registry, that provides for the registry to carry out, and the new domain to operate in accordance with, the requirements under subsection (c) of this section.
+  - **(1)** The NTIA shall not exercise any option periods under any contract between the NTIA and the initial registry to operate and maintain the United States country code Internet domain unless the initial registry agrees, during the 90-day period beginning upon December 4, 2002 , to carry out, and to operate the new domain in accordance with, the requirements under subsection (c). Nothing in this subsection shall be construed to prevent the initial registry of the United States country code Internet domain from participating in the NTIA’s process for selecting a successor registry or to prevent the NTIA from awarding, to the initial registry, the contract to be successor registry subject to the requirements of paragraph (2).
+  - **(2)** The NTIA shall not enter into any contract for operating and maintaining the United States country code Internet domain with any successor registry unless such registry enters into an agreement with the NTIA, during the 90-day period after selection of such registry, that provides for the registry to carry out, and the new domain to operate in accordance with, the requirements under subsection (c).
 - **(c)** The registry and new domain shall be subject to the following requirements:
   - **(1)** Written content standards for the new domain, except that the NTIA shall not have any authority to establish such standards.
   - **(2)** Written agreements with each registrar for the new domain that require that use of the new domain is in accordance with the standards and requirements of the registry.

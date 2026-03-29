@@ -3,9 +3,9 @@ title: "Section 45G - Railroad track maintenance credit"
 usc_title: 26
 usc_section: "45G"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 45G"
-generated_at: "2026-03-29T18:05:44.437Z"
+generated_at: "2026-03-29T18:25:53.389Z"
 ---
 
 # § 45G. Railroad track maintenance credit
@@ -24,9 +24,9 @@ generated_at: "2026-03-29T18:05:44.437Z"
 - **(c)** For purposes of this section, the term “eligible taxpayer” means—
   - **(1)** any Class II or Class III railroad, and
   - **(2)** any person who transports property using the rail facilities of a Class II or Class III railroad or who furnishes railroad-related property or services to a Class II or Class III railroad, but only with respect to miles of railroad track assigned to such person by such Class II or Class III railroad for purposes of subsection (b).
-- **(d)** For purposes of this section, the term “qualified railroad track maintenance expenditures” means gross expenditures (whether or not otherwise chargeable to capital account) for maintaining railroad track (including roadbed, bridges, and related track structures) owned or leased as of January 1, 2005 , by a Class II or Class III railroad (determined without regard to any consideration for such expenditures given by the Class II or Class III railroad which made the assignment of such track).
+- **(d)** For purposes of this section, the term “qualified railroad track maintenance expenditures” means gross expenditures (whether or not otherwise chargeable to capital account) for maintaining railroad track (including roadbed, bridges, and related track structures) owned or leased as of January 1, 2015 , by a Class II or Class III railroad (determined without regard to any consideration for such expenditures given by the Class II or Class III railroad which made the assignment of such track).
 - **(e)**
   - **(1)** For purposes of this section, the terms “Class II railroad” and “Class III railroad” have the respective meanings given such terms by the Surface Transportation Board.
   - **(2)** Rules similar to the rules of paragraph (1) of section 41(f) shall apply for purposes of this section.
   - **(3)** For purposes of this subtitle, if a credit is allowed under this section with respect to any railroad track, the basis of such track shall be reduced by the amount of the credit so allowed.
-- **(f)** This section shall apply to qualified railroad track maintenance expenditures paid or incurred during taxable years beginning after December 31, 2004 , and before January 1, 2014 .
+- **(f)** This section shall apply to qualified railroad track maintenance expenditures paid or incurred during taxable years beginning after December 31, 2004 , and before January 1, 2017 .

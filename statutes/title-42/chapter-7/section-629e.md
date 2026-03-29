@@ -3,9 +3,9 @@ title: "Section 629e - Evaluations; research; technical assistance"
 usc_title: 42
 usc_section: "629e"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 629e"
-generated_at: "2026-03-29T18:07:13.734Z"
+generated_at: "2026-03-29T18:27:02.909Z"
 ---
 
 # § 629e. Evaluations; research; technical assistance
@@ -13,10 +13,10 @@ generated_at: "2026-03-29T18:07:13.734Z"
 - **(a)**
   - **(1)** The Secretary shall evaluate and report to the Congress biennially on the effectiveness of the programs carried out pursuant to this subpart in accomplishing the purposes of this subpart, and may evaluate any other Federal, State, or local program, regardless of whether federally assisted, that is designed to achieve the same purposes as the program under this subpart, in accordance with criteria established in accordance with paragraph (2).
   - **(2)** In developing the criteria to be used in evaluations under paragraph (1), the Secretary shall consult with appropriate parties, such as—
-    - **(A)** State agencies administering programs under this part and part E of this subchapter;
+    - **(A)** State agencies administering programs under this part and part E;
     - **(B)** persons administering child and family services programs (including family preservation and family support programs) for private, nonprofit organizations with an interest in child welfare; and
     - **(C)** other persons with recognized expertise in the evaluation of child and family services programs (including family preservation and family support programs) or other related programs.
-  - **(3)** Beginning in 2003, the Secretary shall submit the biennial report required by this subsection not later than April 1 of every other year, and shall include in each such report the funding level, the status of ongoing evaluations, findings to date, and the nature of any technical assistance provided to States under subsection (d) of this section.
+  - **(3)** Beginning in 2003, the Secretary shall submit the biennial report required by this subsection not later than April 1 of every other year, and shall include in each such report the funding level, the status of ongoing evaluations, findings to date, and the nature of any technical assistance provided to States under subsection (d).
 - **(b)** The Secretary shall develop procedures to coordinate evaluations under this section, to the extent feasible, with evaluations by the States of the effectiveness of programs under this subpart.
 - **(c)** Of the amount reserved under section 629f(b)(1) of this title for a fiscal year, the Secretary shall use not less than—
   - **(1)** $1,000,000 for evaluations, research, and providing technical assistance with respect to supporting monthly caseworker visits with children who are in foster care under the responsibility of the State, in accordance with section 629f(b)(4)(B)(i) of this title ; and

@@ -3,9 +3,9 @@ title: "Section 3404 - Definitions"
 usc_title: 20
 usc_section: "3404"
 chapter: 48
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 3404"
-generated_at: "2026-03-29T18:05:00.253Z"
+generated_at: "2026-03-29T18:24:41.081Z"
 ---
 
 # § 3404. Definitions

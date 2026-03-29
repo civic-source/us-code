@@ -1,14 +1,12 @@
 ---
-title: "Section 470o - Transfer of personnel, property, etc., by Department of the Interior to Council; time limit"
+title: "Section 470o - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "470o"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 470o"
-generated_at: "2026-03-29T18:05:06.725Z"
+generated_at: "2026-03-29T18:24:22.618Z"
 ---
 
-# § 470o. Transfer of personnel, property, etc., by Department of the Interior to Council; time limit
-
-So much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, held, used, programed, or available or to be made available by the Department of the Interior in connection with the functions of the Council, as the Director of the Office of Management and Budget shall determine, shall be transferred from the Department to the Council within 60 days of the effective date of this Act.
+# § 470o. Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272
 

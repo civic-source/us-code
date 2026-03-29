@@ -1,14 +1,12 @@
 ---
-title: "Section 964 - Distribution of shares"
+title: "Section 964 - Omitted"
 usc_title: 25
 usc_section: "964"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 964"
-generated_at: "2026-03-29T18:05:17.115Z"
+generated_at: "2026-03-29T18:25:23.704Z"
 ---
 
-# § 964. Distribution of shares
+# § 964. Omitted
 
-- **(a)** Except as provided in subsection (b) of this section, the Secretary shall distribute a per capita share payable to a living enrollee directly to such enrollee, and the Secretary shall distribute a per capita share payable to a deceased enrollee directly to his next of kin or legatees as determined by the laws of the place of domicile of the decedent upon proof of death and inheritance satisfactory to the Secretary, whose findings upon such proof shall be final and conclusive.
-- **(b)** A share payable to a person under twenty-one years of age or to a person under a legal disability shall be paid in accordance with such procedures as the Secretary determines will adequately protect the best interests of such persons.
