@@ -3,9 +3,9 @@ title: "Section 1595 - Seizure"
 usc_title: 7
 usc_section: "1595"
 chapter: 37
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "7 U.S.C. § 1595"
-generated_at: "2026-03-29T23:24:49.426Z"
+generated_at: "2026-03-29T23:28:01.857Z"
 ---
 
 # § 1595. Seizure

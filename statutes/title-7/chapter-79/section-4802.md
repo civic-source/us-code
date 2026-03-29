@@ -3,9 +3,9 @@ title: "Section 4802 - Definitions"
 usc_title: 7
 usc_section: "4802"
 chapter: 79
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "7 U.S.C. § 4802"
-generated_at: "2026-03-29T23:24:49.488Z"
+generated_at: "2026-03-29T23:28:01.921Z"
 ---
 
 # § 4802. Definitions

@@ -3,9 +3,9 @@ title: "Section 3938 - Child custody protection"
 usc_title: 50
 usc_section: "3938"
 chapter: 50
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "50 U.S.C. § 3938"
-generated_at: "2026-03-29T23:26:21.623Z"
+generated_at: "2026-03-29T23:32:08.664Z"
 ---
 
 # § 3938. Child custody protection

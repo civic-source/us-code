@@ -3,9 +3,9 @@ title: "Section 1509 - Exemption of indemnities from levy"
 usc_title: 7
 usc_section: "1509"
 chapter: 36
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "7 U.S.C. § 1509"
-generated_at: "2026-03-29T23:24:49.422Z"
+generated_at: "2026-03-29T23:28:01.853Z"
 ---
 
 # § 1509. Exemption of indemnities from levy

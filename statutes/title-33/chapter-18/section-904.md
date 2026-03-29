@@ -3,9 +3,9 @@ title: "Section 904 - Liability for compensation"
 usc_title: 33
 usc_section: "904"
 chapter: 18
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "33 U.S.C. § 904"
-generated_at: "2026-03-29T23:25:51.299Z"
+generated_at: "2026-03-29T23:30:21.083Z"
 ---
 
 # § 904. Liability for compensation

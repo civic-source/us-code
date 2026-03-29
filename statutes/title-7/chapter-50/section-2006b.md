@@ -3,9 +3,9 @@ title: "Section 2006b - Loan assessments"
 usc_title: 7
 usc_section: "2006b"
 chapter: 50
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "7 U.S.C. § 2006b"
-generated_at: "2026-03-29T23:24:49.445Z"
+generated_at: "2026-03-29T23:28:01.878Z"
 ---
 
 # § 2006b. Loan assessments

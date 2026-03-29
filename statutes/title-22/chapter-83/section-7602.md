@@ -3,9 +3,9 @@ title: "Section 7602 - Definitions"
 usc_title: 22
 usc_section: "7602"
 chapter: 83
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "22 U.S.C. § 7602"
-generated_at: "2026-03-29T23:25:31.313Z"
+generated_at: "2026-03-29T23:29:38.110Z"
 ---
 
 # § 7602. Definitions

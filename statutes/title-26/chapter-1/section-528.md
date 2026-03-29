@@ -3,9 +3,9 @@ title: "Section 528 - Certain homeowners associations"
 usc_title: 26
 usc_section: "528"
 chapter: 1
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "26 U.S.C. § 528"
-generated_at: "2026-03-29T23:25:46.666Z"
+generated_at: "2026-03-29T23:29:54.831Z"
 ---
 
 # § 528. Certain homeowners associations

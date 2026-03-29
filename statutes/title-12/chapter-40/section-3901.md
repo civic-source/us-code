@@ -3,9 +3,9 @@ title: "Section 3901 - Congressional declaration of policy"
 usc_title: 12
 usc_section: "3901"
 chapter: 40
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "12 U.S.C. § 3901"
-generated_at: "2026-03-29T23:24:55.297Z"
+generated_at: "2026-03-29T23:28:25.440Z"
 ---
 
 # § 3901. Congressional declaration of policy

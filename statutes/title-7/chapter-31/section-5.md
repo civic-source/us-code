@@ -3,9 +3,9 @@ title: "Section 5 - Default and deobligation; deferral"
 usc_title: 7
 usc_section: "5"
 chapter: 31
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "7 U.S.C. § 5"
-generated_at: "2026-03-29T23:24:49.404Z"
+generated_at: "2026-03-29T23:28:01.834Z"
 ---
 
 # § 950bb–5. Default and deobligation; deferral

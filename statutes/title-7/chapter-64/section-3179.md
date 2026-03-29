@@ -3,9 +3,9 @@ title: "Section 3179 - Research on strategies to promote the selection and consu
 usc_title: 7
 usc_section: "3179"
 chapter: 64
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "7 U.S.C. § 3179"
-generated_at: "2026-03-29T23:24:49.478Z"
+generated_at: "2026-03-29T23:28:01.910Z"
 ---
 
 # § 3179. Research on strategies to promote the selection and consumption of healthy foods

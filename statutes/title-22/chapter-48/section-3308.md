@@ -3,9 +3,9 @@ title: "Section 3308 - Activities of United States Government agencies"
 usc_title: 22
 usc_section: "3308"
 chapter: 48
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "22 U.S.C. § 3308"
-generated_at: "2026-03-29T23:25:31.265Z"
+generated_at: "2026-03-29T23:29:38.065Z"
 ---
 
 # § 3308. Activities of United States Government agencies

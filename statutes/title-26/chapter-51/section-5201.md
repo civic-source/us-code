@@ -3,9 +3,9 @@ title: "Section 5201 - Regulation of operations"
 usc_title: 26
 usc_section: "5201"
 chapter: 51
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "26 U.S.C. § 5201"
-generated_at: "2026-03-29T23:25:46.758Z"
+generated_at: "2026-03-29T23:29:55.003Z"
 ---
 
 # § 5201. Regulation of operations

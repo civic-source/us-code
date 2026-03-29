@@ -3,9 +3,9 @@ title: "Section 4111 - Prosecution barred by foreign conviction"
 usc_title: 18
 usc_section: "4111"
 chapter: 306
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "18 U.S.C. § 4111"
-generated_at: "2026-03-29T23:25:16.634Z"
+generated_at: "2026-03-29T23:28:55.562Z"
 ---
 
 # § 4111. Prosecution barred by foreign conviction

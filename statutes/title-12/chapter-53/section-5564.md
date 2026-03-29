@@ -3,9 +3,9 @@ title: "Section 5564 - Litigation authority"
 usc_title: 12
 usc_section: "5564"
 chapter: 53
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "12 U.S.C. § 5564"
-generated_at: "2026-03-29T23:24:55.341Z"
+generated_at: "2026-03-29T23:28:25.480Z"
 ---
 
 # § 5564. Litigation authority

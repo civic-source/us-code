@@ -3,9 +3,9 @@ title: "Section 72 - Donner und Blitzen River Redband Trout Reserve"
 usc_title: 16
 usc_section: "72"
 chapter: 1
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "16 U.S.C. § 72"
-generated_at: "2026-03-29T23:25:21.230Z"
+generated_at: "2026-03-29T23:28:58.045Z"
 ---
 
 # § 460nnn–72. Donner und Blitzen River Redband Trout Reserve

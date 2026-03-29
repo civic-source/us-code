@@ -3,9 +3,9 @@ title: "Section 2901 - Purpose"
 usc_title: 43
 usc_section: "2901"
 chapter: 47
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "43 U.S.C. § 2901"
-generated_at: "2026-03-29T23:25:58.725Z"
+generated_at: "2026-03-29T23:30:55.689Z"
 ---
 
 # § 2901. Purpose

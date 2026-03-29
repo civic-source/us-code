@@ -3,9 +3,9 @@ title: "Section 7711 - Disclosure"
 usc_title: 22
 usc_section: "7711"
 chapter: 84
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "22 U.S.C. § 7711"
-generated_at: "2026-03-29T23:25:31.317Z"
+generated_at: "2026-03-29T23:29:38.114Z"
 ---
 
 # § 7711. Disclosure

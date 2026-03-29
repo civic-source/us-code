@@ -3,9 +3,9 @@ title: "Section 361 - Adequate protection"
 usc_title: 11
 usc_section: "361"
 chapter: 3
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "11 U.S.C. § 361"
-generated_at: "2026-03-29T23:24:52.799Z"
+generated_at: "2026-03-29T23:28:29.109Z"
 ---
 
 # § 361. Adequate protection

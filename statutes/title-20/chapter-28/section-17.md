@@ -3,9 +3,9 @@ title: "Section 17 - Staff development activities"
 usc_title: 20
 usc_section: "17"
 chapter: 28
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "20 U.S.C. § 17"
-generated_at: "2026-03-29T23:25:23.720Z"
+generated_at: "2026-03-29T23:29:00.163Z"
 ---
 
 # § 1070a–17. Staff development activities

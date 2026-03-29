@@ -3,9 +3,9 @@ title: "Section 17061 - Definitions"
 usc_title: 42
 usc_section: "17061"
 chapter: 152
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "42 U.S.C. § 17061"
-generated_at: "2026-03-29T23:26:16.329Z"
+generated_at: "2026-03-29T23:31:59.466Z"
 ---
 
 # § 17061. Definitions

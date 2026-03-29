@@ -3,9 +3,9 @@ title: "Section 2329 - International outreach program"
 usc_title: 33
 usc_section: "2329"
 chapter: 36
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "33 U.S.C. § 2329"
-generated_at: "2026-03-29T23:25:51.341Z"
+generated_at: "2026-03-29T23:30:21.122Z"
 ---
 
 # § 2329. International outreach program

@@ -3,9 +3,9 @@ title: "Section 7304 - Definitions"
 usc_title: 22
 usc_section: "7304"
 chapter: 80
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "22 U.S.C. § 7304"
-generated_at: "2026-03-29T23:25:31.311Z"
+generated_at: "2026-03-29T23:29:38.109Z"
 ---
 
 # § 7304. Definitions

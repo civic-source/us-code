@@ -3,9 +3,9 @@ title: "Section 558 - Donation of forfeited vessels"
 usc_title: 40
 usc_section: "558"
 chapter: 5
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "40 U.S.C. § 558"
-generated_at: "2026-03-29T23:25:56.045Z"
+generated_at: "2026-03-29T23:30:45.793Z"
 ---
 
 # § 558. Donation of forfeited vessels

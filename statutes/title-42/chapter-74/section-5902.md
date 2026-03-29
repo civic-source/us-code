@@ -3,9 +3,9 @@ title: "Section 5902 - Congressional declaration of policy and purpose; implemen
 usc_title: 42
 usc_section: "5902"
 chapter: 74
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "42 U.S.C. § 5902"
-generated_at: "2026-03-29T23:26:16.105Z"
+generated_at: "2026-03-29T23:31:59.255Z"
 ---
 
 # § 5902. Congressional declaration of policy and purpose; implementation and administration of program by Secretary of Energy

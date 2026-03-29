@@ -3,9 +3,9 @@ title: "Section 9446 - Cadets: requirements for admission"
 usc_title: 10
 usc_section: "9446"
 chapter: 953
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 9446"
-generated_at: "2026-03-29T23:24:28.250Z"
+generated_at: "2026-03-29T23:27:42.169Z"
 ---
 
 # § 9446. Cadets: requirements for admission

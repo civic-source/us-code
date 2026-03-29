@@ -3,9 +3,9 @@ title: "Section 287t - Prohibition against disclosure of information or knowledg
 usc_title: 22
 usc_section: "287t"
 chapter: 7
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "22 U.S.C. § 287t"
-generated_at: "2026-03-29T23:25:31.202Z"
+generated_at: "2026-03-29T23:29:38.006Z"
 ---
 
 # § 287t. Prohibition against disclosure of information or knowledge

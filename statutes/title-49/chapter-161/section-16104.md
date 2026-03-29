@@ -3,9 +3,9 @@ title: "Section 16104 - Disobedience to subpenas"
 usc_title: 49
 usc_section: "16104"
 chapter: 161
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "49 U.S.C. § 16104"
-generated_at: "2026-03-29T23:26:35.664Z"
+generated_at: "2026-03-29T23:32:06.150Z"
 ---
 
 # § 16104. Disobedience to subpenas

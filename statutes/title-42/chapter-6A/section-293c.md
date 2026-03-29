@@ -3,9 +3,9 @@ title: "Section 293c - Educational assistance in the health professions regardin
 usc_title: 42
 usc_section: "293c"
 chapter: 6
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "42 U.S.C. § 293c"
-generated_at: "2026-03-29T23:26:15.710Z"
+generated_at: "2026-03-29T23:31:58.875Z"
 ---
 
 # § 293c. Educational assistance in the health professions regarding individuals from disadvantaged backgrounds

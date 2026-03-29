@@ -3,9 +3,9 @@ title: "Section 1087e - Terms and conditions of loans"
 usc_title: 20
 usc_section: "1087e"
 chapter: 28
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "20 U.S.C. § 1087e"
-generated_at: "2026-03-29T23:25:23.738Z"
+generated_at: "2026-03-29T23:29:00.180Z"
 ---
 
 # § 1087e. Terms and conditions of loans
@@ -172,7 +172,23 @@ generated_at: "2026-03-29T23:25:23.738Z"
       - **(ii)** in repayment on September 28, 2018 .
   - **(4)** For the purpose of this subsection, the term “borrower” means an individual who is a new borrower on the date such individual applies for a loan under this part for which the first disbursement is made on or after July 1, 1993 .
   - **(5)** A borrower of a loan made under this part, who at the time such individual applies for such loan, has an outstanding balance of principal or interest owing on any loan made, insured, or guaranteed under part B of this subchapter prior to July 1, 1993 , shall be eligible for a deferment under section 1077(a)(2)(C) of this title or section 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992 .
-- **(g)** A borrower of a loan made under this part may consolidate such loan with the loans described in section 1078–3(a)(4) of this title , including any loan made under part B and first disbursed before July 1, 2010 . To be eligible for a consolidation loan under this part, a borrower shall meet the eligibility criteria set forth in section 1078–3(a)(3) of this title .
+- **(g)**
+  - **(1)** A borrower of a loan made under this part may consolidate such loan with the loans described in section 1078–3(a)(4) of this title , including any loan made under part B and first disbursed before July 1, 2010 . To be eligible for a consolidation loan under this part, a borrower shall meet the eligibility criteria set forth in section 1078–3(a)(3) of this title .
+  - **(2)**
+    - **(A)**
+      - **(i)** A married couple, or 2 individuals who were previously a married couple, and who received a joint consolidation loan as such married couple under subparagraph (C) of section 1078–3(a)(3) of this title (as such subparagraph was in effect on June 30, 2006 ), may apply to the Secretary, in accordance with subparagraph (C) of this paragraph, for each individual borrower in the married couple (or previously married couple) to receive a separate Federal Direct Consolidation Loan under this part.
+      - **(ii)** Notwithstanding any other provision of this chapter, a married couple, or 2 individuals who were previously a married couple, who are in default on a joint consolidation loan may be eligible to receive a separate Federal Direct Consolidation Loan under this part in accordance with this paragraph.
+    - **(B)** Notwithstanding section 1078–3(a)(3)(A) of this title or any other provision of law, for each individual borrower who applies under subparagraph (A), the Secretary shall—
+      - **(i)** make a separate Federal Direct Consolidation Loan under this part that—
+        - **(I)** shall be for an amount equal to the product of—
+        - **(II)** has the same rate of interest as the joint consolidation loan (as of the date that is the day before such separate consolidation loan is made); and
+      - **(ii)** in a timely manner, notify each individual borrower that the joint consolidation loan had been repaid and of the terms and conditions of their new loans.
+    - **(C)**
+      - **(i)** Except as provided in clause (ii), to receive separate consolidation loans under this part, both individual borrowers in a married couple (or previously married couple) shall jointly apply under subparagraph (A).
+      - **(ii)** An individual borrower in a married couple (or previously married couple) may apply for a separate consolidation loan under subparagraph (A) separately and without regard to whether or when the other individual borrower in the married couple (or previously married couple) applies under subparagraph (A), in a case in which—
+        - **(I)** the individual borrower certifies to the Secretary that such borrower—
+        - **(II)** the Secretary determines that authorizing each individual borrower to apply separately under subparagraph (A) would be in the best fiscal interests of the Federal Government.
+      - **(iii)** In the case of an individual borrower who receives a separate consolidation loan due to the circumstances described in clause (ii), the other non-applying individual borrower shall become solely liable for the remaining balance of the joint consolidation loan.
 - **(h)** Notwithstanding any other provision of State or Federal law, the Secretary shall specify in regulations which acts or omissions of an institution of higher education a borrower may assert as a defense to repayment of a loan made under this part, except that in no event may a borrower recover from the Secretary, in any action arising from or relating to a loan made under this part, an amount in excess of the amount such borrower has repaid on such loan.
 - **(i)** The common financial reporting form required in section 1090(a)(1) of this title shall constitute the application for loans made under this part (other than a Federal Direct PLUS loan). The Secretary shall develop, print, and distribute to participating institutions a standard promissory note and loan disclosure form.
 - **(j)**

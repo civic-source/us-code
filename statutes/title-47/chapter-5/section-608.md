@@ -3,9 +3,9 @@ title: "Section 608 - Separability"
 usc_title: 47
 usc_section: "608"
 chapter: 5
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "47 U.S.C. § 608"
-generated_at: "2026-03-29T23:26:22.236Z"
+generated_at: "2026-03-29T23:32:06.739Z"
 ---
 
 # § 608. Separability

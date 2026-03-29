@@ -3,9 +3,9 @@ title: "Section 949 - Telephone installation and charges"
 usc_title: 14
 usc_section: "949"
 chapter: 9
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "14 U.S.C. § 949"
-generated_at: "2026-03-29T23:24:52.365Z"
+generated_at: "2026-03-29T23:28:07.874Z"
 ---
 
 # § 949. Telephone installation and charges

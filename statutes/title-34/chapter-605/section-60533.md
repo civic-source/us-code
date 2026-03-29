@@ -3,9 +3,9 @@ title: "Section 60533 - Bureau of Prisons policy on mentoring contacts"
 usc_title: 34
 usc_section: "60533"
 chapter: 605
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "34 U.S.C. § 60533"
-generated_at: "2026-03-29T23:25:50.367Z"
+generated_at: "2026-03-29T23:30:38.551Z"
 ---
 
 # § 60533. Bureau of Prisons policy on mentoring contacts

@@ -3,9 +3,9 @@ title: "Section 315e - Rights of way; development of mineral resources"
 usc_title: 43
 usc_section: "315e"
 chapter: 8
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "43 U.S.C. § 315e"
-generated_at: "2026-03-29T23:25:58.670Z"
+generated_at: "2026-03-29T23:30:55.633Z"
 ---
 
 # § 315e. Rights of way; development of mineral resources

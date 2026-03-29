@@ -3,9 +3,9 @@ title: "Section 3003 - Mail bearing a fictitious name or address"
 usc_title: 39
 usc_section: "3003"
 chapter: 30
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "39 U.S.C. § 3003"
-generated_at: "2026-03-29T23:25:53.448Z"
+generated_at: "2026-03-29T23:30:45.987Z"
 ---
 
 # § 3003. Mail bearing a fictitious name or address

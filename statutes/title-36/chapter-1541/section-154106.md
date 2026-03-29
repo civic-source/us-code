@@ -3,9 +3,9 @@ title: "Section 154106 - Exclusive right to name, insignia, emblems, badges, mar
 usc_title: 36
 usc_section: "154106"
 chapter: 1541
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "36 U.S.C. § 154106"
-generated_at: "2026-03-29T23:25:54.089Z"
+generated_at: "2026-03-29T23:30:40.912Z"
 ---
 
 # § 154106. Exclusive right to name, insignia, emblems, badges, marks, and words

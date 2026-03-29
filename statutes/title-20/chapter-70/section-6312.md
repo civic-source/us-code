@@ -3,9 +3,9 @@ title: "Section 6312 - Local educational agency plans"
 usc_title: 20
 usc_section: "6312"
 chapter: 70
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "20 U.S.C. § 6312"
-generated_at: "2026-03-29T23:25:23.802Z"
+generated_at: "2026-03-29T23:29:00.246Z"
 ---
 
 # § 6312. Local educational agency plans

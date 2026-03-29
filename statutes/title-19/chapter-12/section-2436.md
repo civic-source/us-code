@@ -3,9 +3,9 @@ title: "Section 2436 - Market disruption"
 usc_title: 19
 usc_section: "2436"
 chapter: 12
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "19 U.S.C. § 2436"
-generated_at: "2026-03-29T23:25:17.788Z"
+generated_at: "2026-03-29T23:29:08.452Z"
 ---
 
 # § 2436. Market disruption

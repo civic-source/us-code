@@ -3,9 +3,9 @@ title: "Section 52 - Allocation of funds"
 usc_title: 20
 usc_section: "52"
 chapter: 28
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "20 U.S.C. § 52"
-generated_at: "2026-03-29T23:25:23.737Z"
+generated_at: "2026-03-29T23:29:00.179Z"
 ---
 
 # § 1087–52. Allocation of funds

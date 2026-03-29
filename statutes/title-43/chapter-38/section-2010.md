@@ -3,9 +3,9 @@ title: "Section 2010 - Negotiations with Government of Canada"
 usc_title: 43
 usc_section: "2010"
 chapter: 38
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "43 U.S.C. § 2010"
-generated_at: "2026-03-29T23:25:58.721Z"
+generated_at: "2026-03-29T23:30:55.684Z"
 ---
 
 # § 2010. Negotiations with Government of Canada

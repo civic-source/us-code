@@ -3,9 +3,9 @@ title: "Section 106 - Same; income tax"
 usc_title: 4
 usc_section: "106"
 chapter: 4
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "4 U.S.C. § 106"
-generated_at: "2026-03-29T23:24:04.660Z"
+generated_at: "2026-03-29T23:26:59.780Z"
 ---
 
 # § 106. Same; income tax

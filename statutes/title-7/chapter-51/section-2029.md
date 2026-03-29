@@ -3,9 +3,9 @@ title: "Section 2029 - Workfare"
 usc_title: 7
 usc_section: "2029"
 chapter: 51
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "7 U.S.C. § 2029"
-generated_at: "2026-03-29T23:24:49.459Z"
+generated_at: "2026-03-29T23:28:01.892Z"
 ---
 
 # § 2029. Workfare

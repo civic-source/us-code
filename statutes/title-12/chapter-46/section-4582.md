@@ -3,9 +3,9 @@ title: "Section 4582 - Hearings"
 usc_title: 12
 usc_section: "4582"
 chapter: 46
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "12 U.S.C. § 4582"
-generated_at: "2026-03-29T23:24:55.308Z"
+generated_at: "2026-03-29T23:28:25.450Z"
 ---
 
 # § 4582. Hearings

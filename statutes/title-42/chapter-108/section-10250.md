@@ -3,9 +3,9 @@ title: "Section 10250 - Termination of Office"
 usc_title: 42
 usc_section: "10250"
 chapter: 108
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "42 U.S.C. § 10250"
-generated_at: "2026-03-29T23:26:16.234Z"
+generated_at: "2026-03-29T23:31:59.378Z"
 ---
 
 # § 10250. Termination of Office

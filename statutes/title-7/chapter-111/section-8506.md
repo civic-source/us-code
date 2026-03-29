@@ -3,9 +3,9 @@ title: "Section 8506 - Role of brown tree snake Technical Working Group"
 usc_title: 7
 usc_section: "8506"
 chapter: 111
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "7 U.S.C. § 8506"
-generated_at: "2026-03-29T23:24:49.537Z"
+generated_at: "2026-03-29T23:28:01.971Z"
 ---
 
 # § 8506. Role of brown tree snake Technical Working Group

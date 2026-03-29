@@ -3,9 +3,9 @@ title: "Section 802 - Forfeiture of pay during absence from duty due to disease 
 usc_title: 37
 usc_section: "802"
 chapter: 15
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "37 U.S.C. § 802"
-generated_at: "2026-03-29T23:25:53.261Z"
+generated_at: "2026-03-29T23:30:45.232Z"
 ---
 
 # § 802. Forfeiture of pay during absence from duty due to disease from intemperate use of alcohol or drugs

@@ -3,9 +3,9 @@ title: "Section 335 - Judicial Conference of the Court of International Trade"
 usc_title: 28
 usc_section: "335"
 chapter: 15
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "28 U.S.C. § 335"
-generated_at: "2026-03-29T23:25:40.717Z"
+generated_at: "2026-03-29T23:30:11.199Z"
 ---
 
 # § 335. Judicial Conference of the Court of International Trade

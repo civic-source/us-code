@@ -3,9 +3,9 @@ title: "Section 1063e - President’s Board of Advisors on HBCUS"
 usc_title: 20
 usc_section: "1063e"
 chapter: 28
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "20 U.S.C. § 1063e"
-generated_at: "2026-03-29T23:25:23.716Z"
+generated_at: "2026-03-29T23:29:00.160Z"
 ---
 
 # § 1063e. President’s Board of Advisors on HBCUS

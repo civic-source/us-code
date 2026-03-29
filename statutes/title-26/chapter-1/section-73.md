@@ -3,9 +3,9 @@ title: "Section 73 - Services of child"
 usc_title: 26
 usc_section: "73"
 chapter: 1
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "26 U.S.C. § 73"
-generated_at: "2026-03-29T23:25:46.588Z"
+generated_at: "2026-03-29T23:29:54.752Z"
 ---
 
 # § 73. Services of child

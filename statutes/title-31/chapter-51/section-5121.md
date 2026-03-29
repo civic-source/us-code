@@ -3,9 +3,9 @@ title: "Section 5121 - Refining, assaying, and valuation of bullion"
 usc_title: 31
 usc_section: "5121"
 chapter: 51
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "31 U.S.C. § 5121"
-generated_at: "2026-03-29T23:25:49.618Z"
+generated_at: "2026-03-29T23:30:22.221Z"
 ---
 
 # § 5121. Refining, assaying, and valuation of bullion

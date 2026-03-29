@@ -3,9 +3,9 @@ title: "Section 3702 - Sealed bids"
 usc_title: 41
 usc_section: "3702"
 chapter: 37
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "41 U.S.C. § 3702"
-generated_at: "2026-03-29T23:25:57.840Z"
+generated_at: "2026-03-29T23:30:54.768Z"
 ---
 
 # § 3702. Sealed bids

@@ -3,9 +3,9 @@ title: "Section 12651g - Administration"
 usc_title: 42
 usc_section: "12651g"
 chapter: 129
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "42 U.S.C. § 12651g"
-generated_at: "2026-03-29T23:26:16.269Z"
+generated_at: "2026-03-29T23:31:59.410Z"
 ---
 
 # § 12651g. Administration

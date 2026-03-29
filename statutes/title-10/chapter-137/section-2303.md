@@ -3,9 +3,9 @@ title: "Section 2303 - Repealed. Pub. L. 116–283, div. A, title XVIII, § 1807
 usc_title: 10
 usc_section: "2303"
 chapter: 137
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 2303"
-generated_at: "2026-03-29T23:24:28.186Z"
+generated_at: "2026-03-29T23:27:42.104Z"
 ---
 
 # [§ 2303. Repealed. Pub. L. 116–283, div. A, title XVIII, § 1807(c)(4) , Jan. 1, 2021 , 134 Stat. 4157 ]

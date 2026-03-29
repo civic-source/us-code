@@ -3,9 +3,9 @@ title: "Section 7384q - Designation of additional members of special exposure co
 usc_title: 42
 usc_section: "7384q"
 chapter: 84
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "42 U.S.C. § 7384q"
-generated_at: "2026-03-29T23:26:16.151Z"
+generated_at: "2026-03-29T23:31:59.298Z"
 ---
 
 # § 7384q. Designation of additional members of special exposure cohort

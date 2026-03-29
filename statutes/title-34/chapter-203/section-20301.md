@@ -3,9 +3,9 @@ title: "Section 20301 - Findings"
 usc_title: 34
 usc_section: "20301"
 chapter: 203
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "34 U.S.C. § 20301"
-generated_at: "2026-03-29T23:25:50.347Z"
+generated_at: "2026-03-29T23:30:38.530Z"
 ---
 
 # § 20301. Findings

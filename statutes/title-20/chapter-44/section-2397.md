@@ -3,9 +3,9 @@ title: "Section 2397 - Participation of private school personnel and children"
 usc_title: 20
 usc_section: "2397"
 chapter: 44
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "20 U.S.C. § 2397"
-generated_at: "2026-03-29T23:25:23.786Z"
+generated_at: "2026-03-29T23:29:00.229Z"
 ---
 
 # § 2397. Participation of private school personnel and children

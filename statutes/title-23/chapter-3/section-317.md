@@ -3,9 +3,9 @@ title: "Section 317 - Appropriation for highway purposes of lands or interests i
 usc_title: 23
 usc_section: "317"
 chapter: 3
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "23 U.S.C. § 317"
-generated_at: "2026-03-29T23:25:28.283Z"
+generated_at: "2026-03-29T23:29:36.126Z"
 ---
 
 # § 317. Appropriation for highway purposes of lands or interests in lands owned by the United States

@@ -3,9 +3,9 @@ title: "Section 16378 - Authorization of appropriations; contract authority"
 usc_title: 42
 usc_section: "16378"
 chapter: 149
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "42 U.S.C. § 16378"
-generated_at: "2026-03-29T23:26:16.322Z"
+generated_at: "2026-03-29T23:31:59.459Z"
 ---
 
 # § 16378. Authorization of appropriations; contract authority

@@ -3,9 +3,9 @@ title: "Section 3582 - Expanding secure access to CIPSEA data assets"
 usc_title: 44
 usc_section: "3582"
 chapter: 35
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "44 U.S.C. § 3582"
-generated_at: "2026-03-29T23:25:58.068Z"
+generated_at: "2026-03-29T23:31:03.844Z"
 ---
 
 # § 3582. Expanding secure access to CIPSEA data assets

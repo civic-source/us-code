@@ -3,9 +3,9 @@ title: "Section 942 - Miner benefit entitlement reports; penalty for failure or 
 usc_title: 30
 usc_section: "942"
 chapter: 22
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "30 U.S.C. § 942"
-generated_at: "2026-03-29T23:25:37.367Z"
+generated_at: "2026-03-29T23:30:01.663Z"
 ---
 
 # § 942. Miner benefit entitlement reports; penalty for failure or refusal to file

@@ -3,9 +3,9 @@ title: "Section 6703 - Rules applicable to penalties under sections 6700, 6701, 
 usc_title: 26
 usc_section: "6703"
 chapter: 68
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "26 U.S.C. § 6703"
-generated_at: "2026-03-29T23:25:46.797Z"
+generated_at: "2026-03-29T23:29:55.039Z"
 ---
 
 # § 6703. Rules applicable to penalties under sections 6700, 6701, and 6702

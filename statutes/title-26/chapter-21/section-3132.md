@@ -3,9 +3,9 @@ title: "Section 3132 - Payroll credit for paid family leave"
 usc_title: 26
 usc_section: "3132"
 chapter: 21
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "26 U.S.C. § 3132"
-generated_at: "2026-03-29T23:25:46.731Z"
+generated_at: "2026-03-29T23:29:54.978Z"
 ---
 
 # § 3132. Payroll credit for paid family leave

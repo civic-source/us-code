@@ -3,9 +3,9 @@ title: "Section 1928e - North Atlantic Assembly; appropriations for expenses of 
 usc_title: 22
 usc_section: "1928e"
 chapter: 24
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "22 U.S.C. § 1928e"
-generated_at: "2026-03-29T23:25:31.218Z"
+generated_at: "2026-03-29T23:29:38.022Z"
 ---
 
 # § 1928e. North Atlantic Assembly; appropriations for expenses of annual meeting

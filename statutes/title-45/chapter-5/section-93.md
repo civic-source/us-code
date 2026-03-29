@@ -3,9 +3,9 @@ title: "Section 93 - Transferred"
 usc_title: 45
 usc_section: "93"
 chapter: 5
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "45 U.S.C. § 93"
-generated_at: "2026-03-29T23:25:59.171Z"
+generated_at: "2026-03-29T23:31:01.618Z"
 ---
 
 # § 93. Transferred

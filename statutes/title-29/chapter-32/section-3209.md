@@ -3,9 +3,9 @@ title: "Section 3209 - Management information"
 usc_title: 29
 usc_section: "3209"
 chapter: 32
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "29 U.S.C. § 3209"
-generated_at: "2026-03-29T23:25:38.615Z"
+generated_at: "2026-03-29T23:29:42.268Z"
 ---
 
 # § 3209. Management information

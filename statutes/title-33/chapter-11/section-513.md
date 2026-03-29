@@ -3,9 +3,9 @@ title: "Section 513 - Notice, hearings, and findings"
 usc_title: 33
 usc_section: "513"
 chapter: 11
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "33 U.S.C. § 513"
-generated_at: "2026-03-29T23:25:51.284Z"
+generated_at: "2026-03-29T23:30:21.070Z"
 ---
 
 # § 513. Notice, hearings, and findings

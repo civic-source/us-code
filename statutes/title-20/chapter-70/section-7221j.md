@@ -3,9 +3,9 @@ title: "Section 7221j - Authorization of appropriations"
 usc_title: 20
 usc_section: "7221j"
 chapter: 70
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "20 U.S.C. § 7221j"
-generated_at: "2026-03-29T23:25:23.816Z"
+generated_at: "2026-03-29T23:29:00.260Z"
 ---
 
 # § 7221j. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 6966a - Increased use of recovered mineral component in federall
 usc_title: 42
 usc_section: "6966a"
 chapter: 82
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "42 U.S.C. § 6966a"
-generated_at: "2026-03-29T23:26:16.137Z"
+generated_at: "2026-03-29T23:31:59.286Z"
 ---
 
 # § 6966a. Increased use of recovered mineral component in federally funded projects involving procurement of cement or concrete

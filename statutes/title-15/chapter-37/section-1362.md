@@ -3,9 +3,9 @@ title: "Section 1362 - Rules and regulations"
 usc_title: 15
 usc_section: "1362"
 chapter: 37
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "15 U.S.C. § 1362"
-generated_at: "2026-03-29T23:25:11.192Z"
+generated_at: "2026-03-29T23:28:23.438Z"
 ---
 
 # § 1362. Rules and regulations

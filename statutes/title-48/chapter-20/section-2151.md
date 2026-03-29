@@ -3,9 +3,9 @@ title: "Section 2151 - Analysis of pensions"
 usc_title: 48
 usc_section: "2151"
 chapter: 20
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "48 U.S.C. § 2151"
-generated_at: "2026-03-29T23:26:19.112Z"
+generated_at: "2026-03-29T23:32:02.409Z"
 ---
 
 # § 2151. Analysis of pensions

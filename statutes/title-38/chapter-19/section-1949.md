@@ -3,9 +3,9 @@ title: "Section 1949 - Change of beneficiary"
 usc_title: 38
 usc_section: "1949"
 chapter: 19
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "38 U.S.C. § 1949"
-generated_at: "2026-03-29T23:25:55.547Z"
+generated_at: "2026-03-29T23:30:52.787Z"
 ---
 
 # § 1949. Change of beneficiary

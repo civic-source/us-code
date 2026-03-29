@@ -3,9 +3,9 @@ title: "Section 1284 - Control of alien crewmen"
 usc_title: 8
 usc_section: "1284"
 chapter: 12
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "8 U.S.C. § 1284"
-generated_at: "2026-03-29T23:24:14.102Z"
+generated_at: "2026-03-29T23:27:18.082Z"
 ---
 
 # § 1284. Control of alien crewmen

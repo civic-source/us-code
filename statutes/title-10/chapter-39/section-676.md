@@ -3,9 +3,9 @@ title: "Section 676 - Renumbered § 12308]"
 usc_title: 10
 usc_section: "676"
 chapter: 39
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 676"
-generated_at: "2026-03-29T23:24:28.131Z"
+generated_at: "2026-03-29T23:27:42.047Z"
 ---
 
 # [§ 676. Renumbered § 12308]

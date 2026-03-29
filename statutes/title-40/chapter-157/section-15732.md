@@ -3,9 +3,9 @@ title: "Section 15732 - Southwest Border Regional Commission"
 usc_title: 40
 usc_section: "15732"
 chapter: 157
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "40 U.S.C. § 15732"
-generated_at: "2026-03-29T23:25:56.059Z"
+generated_at: "2026-03-29T23:30:45.807Z"
 ---
 
 # § 15732. Southwest Border Regional Commission

@@ -3,9 +3,9 @@ title: "Section 55 - Contract, rule, regulation, or device exempting from liabil
 usc_title: 45
 usc_section: "55"
 chapter: 2
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "45 U.S.C. § 55"
-generated_at: "2026-03-29T23:25:59.171Z"
+generated_at: "2026-03-29T23:31:01.618Z"
 ---
 
 # § 55. Contract, rule, regulation, or device exempting from liability; set-off

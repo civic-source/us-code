@@ -3,9 +3,9 @@ title: "Section 12205 - Attorney’s fees"
 usc_title: 42
 usc_section: "12205"
 chapter: 126
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "42 U.S.C. § 12205"
-generated_at: "2026-03-29T23:26:16.258Z"
+generated_at: "2026-03-29T23:31:59.399Z"
 ---
 
 # § 12205. Attorney’s fees

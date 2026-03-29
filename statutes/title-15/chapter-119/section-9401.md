@@ -3,9 +3,9 @@ title: "Section 9401 - Definitions"
 usc_title: 15
 usc_section: "9401"
 chapter: 119
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "15 U.S.C. § 9401"
-generated_at: "2026-03-29T23:25:11.295Z"
+generated_at: "2026-03-29T23:28:23.542Z"
 ---
 
 # § 9401. Definitions

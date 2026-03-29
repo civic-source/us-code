@@ -3,9 +3,9 @@ title: "Section 456 - Rules and regulations; appointment, removal, and compensat
 usc_title: 7
 usc_section: "456"
 chapter: 18
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "7 U.S.C. § 456"
-generated_at: "2026-03-29T23:24:49.392Z"
+generated_at: "2026-03-29T23:28:01.822Z"
 ---
 
 # § 456. Rules and regulations; appointment, removal, and compensation of employees; expenditures; authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 390 - Publication of international design application"
 usc_title: 35
 usc_section: "390"
 chapter: 38
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "35 U.S.C. § 390"
-generated_at: "2026-03-29T23:25:48.779Z"
+generated_at: "2026-03-29T23:30:28.013Z"
 ---
 
 # § 390. Publication of international design application

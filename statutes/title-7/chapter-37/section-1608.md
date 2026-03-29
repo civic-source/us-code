@@ -3,9 +3,9 @@ title: "Section 1608 - Separability"
 usc_title: 7
 usc_section: "1608"
 chapter: 37
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "7 U.S.C. § 1608"
-generated_at: "2026-03-29T23:24:49.427Z"
+generated_at: "2026-03-29T23:28:01.858Z"
 ---
 
 # § 1608. Separability

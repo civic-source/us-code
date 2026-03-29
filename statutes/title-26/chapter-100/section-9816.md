@@ -3,9 +3,9 @@ title: "Section 9816 - Preventing surprise medical bills"
 usc_title: 26
 usc_section: "9816"
 chapter: 100
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "26 U.S.C. § 9816"
-generated_at: "2026-03-29T23:25:46.824Z"
+generated_at: "2026-03-29T23:29:55.066Z"
 ---
 
 # § 9816. Preventing surprise medical bills

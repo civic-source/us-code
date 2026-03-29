@@ -3,9 +3,9 @@ title: "Section 283c - Administration"
 usc_title: 16
 usc_section: "283c"
 chapter: 1
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "16 U.S.C. § 283c"
-generated_at: "2026-03-29T23:25:21.165Z"
+generated_at: "2026-03-29T23:28:57.981Z"
 ---
 
 # § 283c. Administration

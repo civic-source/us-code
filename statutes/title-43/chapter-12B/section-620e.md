@@ -3,9 +3,9 @@ title: "Section 620e - Cost allocations; Indian lands; report to Congress"
 usc_title: 43
 usc_section: "620e"
 chapter: 12
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "43 U.S.C. § 620e"
-generated_at: "2026-03-29T23:25:58.687Z"
+generated_at: "2026-03-29T23:30:55.651Z"
 ---
 
 # § 620e. Cost allocations; Indian lands; report to Congress

@@ -3,9 +3,9 @@ title: "Section 328 - Expenditures and cultivation requirements"
 usc_title: 43
 usc_section: "328"
 chapter: 9
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "43 U.S.C. § 328"
-generated_at: "2026-03-29T23:25:58.671Z"
+generated_at: "2026-03-29T23:30:55.635Z"
 ---
 
 # § 328. Expenditures and cultivation requirements

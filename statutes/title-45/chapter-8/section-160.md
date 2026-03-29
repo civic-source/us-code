@@ -3,9 +3,9 @@ title: "Section 160 - Emergency board"
 usc_title: 45
 usc_section: "160"
 chapter: 8
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "45 U.S.C. § 160"
-generated_at: "2026-03-29T23:25:59.173Z"
+generated_at: "2026-03-29T23:31:01.620Z"
 ---
 
 # § 160. Emergency board

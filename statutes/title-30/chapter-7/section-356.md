@@ -3,9 +3,9 @@ title: "Section 356 - Furnishing description of lands and title documents; recor
 usc_title: 30
 usc_section: "356"
 chapter: 7
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "30 U.S.C. § 356"
-generated_at: "2026-03-29T23:25:37.358Z"
+generated_at: "2026-03-29T23:30:01.654Z"
 ---
 
 # § 356. Furnishing description of lands and title documents; recordation of documents; authenticated copies

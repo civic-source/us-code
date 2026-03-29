@@ -3,9 +3,9 @@ title: "Section 401 - Exchange of census information with Bureau of Economic Ana
 usc_title: 13
 usc_section: "401"
 chapter: 10
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "13 U.S.C. § 401"
-generated_at: "2026-03-29T23:24:51.651Z"
+generated_at: "2026-03-29T23:28:05.430Z"
 ---
 
 # § 401. Exchange of census information with Bureau of Economic Analysis

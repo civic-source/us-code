@@ -3,9 +3,9 @@ title: "Section 282a - Assessment of emerging technologies requiring research in
 usc_title: 15
 usc_section: "282a"
 chapter: 7
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "15 U.S.C. § 282a"
-generated_at: "2026-03-29T23:25:11.143Z"
+generated_at: "2026-03-29T23:28:23.387Z"
 ---
 
 # § 282a. Assessment of emerging technologies requiring research in metrology

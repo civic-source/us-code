@@ -3,9 +3,9 @@ title: "Section 1885 - Definitions"
 usc_title: 50
 usc_section: "1885"
 chapter: 36
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "50 U.S.C. § 1885"
-generated_at: "2026-03-29T23:26:21.577Z"
+generated_at: "2026-03-29T23:32:08.617Z"
 ---
 
 # § 1885. Definitions

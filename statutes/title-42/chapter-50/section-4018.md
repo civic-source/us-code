@@ -3,9 +3,9 @@ title: "Section 4018 - Operating costs and allowances; definitions"
 usc_title: 42
 usc_section: "4018"
 chapter: 50
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "42 U.S.C. § 4018"
-generated_at: "2026-03-29T23:26:16.068Z"
+generated_at: "2026-03-29T23:31:59.221Z"
 ---
 
 # § 4018. Operating costs and allowances; definitions

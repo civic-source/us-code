@@ -3,9 +3,9 @@ title: "Section 2912 - Authority to provide assistance to cooperative countries"
 usc_title: 50
 usc_section: "2912"
 chapter: 43
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "50 U.S.C. § 2912"
-generated_at: "2026-03-29T23:26:21.595Z"
+generated_at: "2026-03-29T23:32:08.637Z"
 ---
 
 # § 2912. Authority to provide assistance to cooperative countries

@@ -3,9 +3,9 @@ title: "Section 40 - Repealed. Aug. 2, 1956, ch. 887, § 4(a)(15) , 70 Stat. 947
 usc_title: 19
 usc_section: "40"
 chapter: 1
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "19 U.S.C. § 40"
-generated_at: "2026-03-29T23:25:17.747Z"
+generated_at: "2026-03-29T23:29:08.412Z"
 ---
 
 # § 40. Repealed. Aug. 2, 1956, ch. 887, § 4(a)(15) , 70 Stat. 947

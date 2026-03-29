@@ -3,9 +3,9 @@ title: "Section 5 - Enterprise integration initiative"
 usc_title: 15
 usc_section: "5"
 chapter: 7
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "15 U.S.C. § 5"
-generated_at: "2026-03-29T23:25:11.141Z"
+generated_at: "2026-03-29T23:28:23.384Z"
 ---
 
 # § 278g–5. Enterprise integration initiative

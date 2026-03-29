@@ -3,9 +3,9 @@ title: "Section 45J - Credit for production from advanced nuclear power faciliti
 usc_title: 26
 usc_section: "45J"
 chapter: 1
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "26 U.S.C. § 45J"
-generated_at: "2026-03-29T23:25:46.574Z"
+generated_at: "2026-03-29T23:29:54.739Z"
 ---
 
 # § 45J. Credit for production from advanced nuclear power facilities

@@ -3,9 +3,9 @@ title: "Section 206 - Recreational trails program"
 usc_title: 23
 usc_section: "206"
 chapter: 2
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "23 U.S.C. § 206"
-generated_at: "2026-03-29T23:25:28.281Z"
+generated_at: "2026-03-29T23:29:36.124Z"
 ---
 
 # § 206. Recreational trails program

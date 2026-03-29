@@ -3,9 +3,9 @@ title: "Section 142j - John C. Stennis Center for Public Service Training and De
 usc_title: 2
 usc_section: "142j"
 chapter: 5
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "2 U.S.C. § 142j"
-generated_at: "2026-03-29T23:24:11.479Z"
+generated_at: "2026-03-29T23:26:58.018Z"
 ---
 
 # § 142j. John C. Stennis Center for Public Service Training and Development; disbursement of funds, computation and disbursement of basic pay, and provision of financial management services and support by Library of Congress; payment for services

@@ -3,9 +3,9 @@ title: "Section 18 - Eleventh replenishment"
 usc_title: 22
 usc_section: "18"
 chapter: 7
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "22 U.S.C. § 18"
-generated_at: "2026-03-29T23:25:31.204Z"
+generated_at: "2026-03-29T23:29:38.007Z"
 ---
 
 # § 290g–18. Eleventh replenishment

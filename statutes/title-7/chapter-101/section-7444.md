@@ -3,9 +3,9 @@ title: "Section 7444 - Required terms in orders"
 usc_title: 7
 usc_section: "7444"
 chapter: 101
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "7 U.S.C. § 7444"
-generated_at: "2026-03-29T23:24:49.518Z"
+generated_at: "2026-03-29T23:28:01.951Z"
 ---
 
 # § 7444. Required terms in orders

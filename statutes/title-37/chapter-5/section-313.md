@@ -3,9 +3,9 @@ title: "Section 313 - Repealed. Pub. L. 96–513, title IV, § 414(a) , Dec. 12,
 usc_title: 37
 usc_section: "313"
 chapter: 5
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "37 U.S.C. § 313"
-generated_at: "2026-03-29T23:25:53.255Z"
+generated_at: "2026-03-29T23:30:45.227Z"
 ---
 
 # [§ 313. Repealed. Pub. L. 96–513, title IV, § 414(a) , Dec. 12, 1980 , 94 Stat. 2906 ]

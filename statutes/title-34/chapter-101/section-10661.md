@@ -3,9 +3,9 @@ title: "Section 10661 - Authority to make grants to address public safety and me
 usc_title: 34
 usc_section: "10661"
 chapter: 101
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "34 U.S.C. § 10661"
-generated_at: "2026-03-29T23:25:50.326Z"
+generated_at: "2026-03-29T23:30:38.508Z"
 ---
 
 # § 10661. Authority to make grants to address public safety and methamphetamine manufacturing, sale, and use in hot spots

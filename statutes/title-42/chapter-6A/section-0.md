@@ -3,9 +3,9 @@ title: "Section 0 - National Mental Health and Substance Use Policy Laboratory"
 usc_title: 42
 usc_section: "0"
 chapter: 6
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "42 U.S.C. § 0"
-generated_at: "2026-03-29T23:26:15.696Z"
+generated_at: "2026-03-29T23:31:58.860Z"
 ---
 
 # § 290aa–0. National Mental Health and Substance Use Policy Laboratory

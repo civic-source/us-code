@@ -3,9 +3,9 @@ title: "Section 921a - Appearance of attorneys for Secretary, deputy commissione
 usc_title: 33
 usc_section: "921a"
 chapter: 18
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "33 U.S.C. § 921a"
-generated_at: "2026-03-29T23:25:51.300Z"
+generated_at: "2026-03-29T23:30:21.085Z"
 ---
 
 # § 921a. Appearance of attorneys for Secretary, deputy commissioner, or Board

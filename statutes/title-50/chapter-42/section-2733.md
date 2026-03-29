@@ -3,9 +3,9 @@ title: "Section 2733 - Program to monitor Department of Energy workers exposed t
 usc_title: 50
 usc_section: "2733"
 chapter: 42
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "50 U.S.C. § 2733"
-generated_at: "2026-03-29T23:26:21.592Z"
+generated_at: "2026-03-29T23:32:08.634Z"
 ---
 
 # § 2733. Program to monitor Department of Energy workers exposed to hazardous and radioactive substances

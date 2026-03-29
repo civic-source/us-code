@@ -3,9 +3,9 @@ title: "Section 304 - Deputy Secretary of Veterans Affairs"
 usc_title: 38
 usc_section: "304"
 chapter: 3
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "38 U.S.C. § 304"
-generated_at: "2026-03-29T23:25:55.528Z"
+generated_at: "2026-03-29T23:30:52.770Z"
 ---
 
 # § 304. Deputy Secretary of Veterans Affairs

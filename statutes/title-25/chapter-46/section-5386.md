@@ -3,9 +3,9 @@ title: "Section 5386 - General provisions"
 usc_title: 25
 usc_section: "5386"
 chapter: 46
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "25 U.S.C. § 5386"
-generated_at: "2026-03-29T23:25:29.221Z"
+generated_at: "2026-03-29T23:29:20.386Z"
 ---
 
 # § 5386. General provisions

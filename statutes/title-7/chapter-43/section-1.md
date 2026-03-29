@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. Pub. L. 107–228, div. A, title II, § 213 , Sept
 usc_title: 7
 usc_section: "1"
 chapter: 43
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-29T23:24:49.437Z"
+generated_at: "2026-03-29T23:28:01.868Z"
 ---
 
 # § 1765d–1. Repealed. Pub. L. 107–228, div. A, title II, § 213 , Sept. 30, 2002 , 116 Stat. 1365

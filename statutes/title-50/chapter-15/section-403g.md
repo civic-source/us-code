@@ -3,9 +3,9 @@ title: "Section 403g - Transferred"
 usc_title: 50
 usc_section: "403g"
 chapter: 15
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "50 U.S.C. § 403g"
-generated_at: "2026-03-29T23:26:21.565Z"
+generated_at: "2026-03-29T23:32:08.604Z"
 ---
 
 # § 403g. Transferred

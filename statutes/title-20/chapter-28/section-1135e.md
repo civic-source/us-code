@@ -3,9 +3,9 @@ title: "Section 1135e - Authorization of appropriations"
 usc_title: 20
 usc_section: "1135e"
 chapter: 28
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "20 U.S.C. § 1135e"
-generated_at: "2026-03-29T23:25:23.757Z"
+generated_at: "2026-03-29T23:29:00.200Z"
 ---
 
 # § 1135e. Authorization of appropriations

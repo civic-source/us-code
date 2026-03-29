@@ -3,9 +3,9 @@ title: "Section 2203 - Nomination of association directors; representative selec
 usc_title: 12
 usc_section: "2203"
 chapter: 23
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "12 U.S.C. § 2203"
-generated_at: "2026-03-29T23:24:55.276Z"
+generated_at: "2026-03-29T23:28:25.421Z"
 ---
 
 # § 2203. Nomination of association directors; representative selection of nominees

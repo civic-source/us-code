@@ -3,9 +3,9 @@ title: "Section 9904 - Whole-of-government coordination and consultation to supp
 usc_title: 22
 usc_section: "9904"
 chapter: 106
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "22 U.S.C. § 9904"
-generated_at: "2026-03-29T23:25:31.341Z"
+generated_at: "2026-03-29T23:29:38.138Z"
 ---
 
 # § 9904. Whole-of-government coordination and consultation to support United States economic and business interests

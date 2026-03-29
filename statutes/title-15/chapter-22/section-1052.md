@@ -3,9 +3,9 @@ title: "Section 1052 - Trademarks registrable on principal register; concurrent 
 usc_title: 15
 usc_section: "1052"
 chapter: 22
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "15 U.S.C. § 1052"
-generated_at: "2026-03-29T23:25:11.183Z"
+generated_at: "2026-03-29T23:28:23.428Z"
 ---
 
 # § 1052. Trademarks registrable on principal register; concurrent registration

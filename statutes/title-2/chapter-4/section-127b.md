@@ -3,9 +3,9 @@ title: "Section 127b - Transferred"
 usc_title: 2
 usc_section: "127b"
 chapter: 4
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "2 U.S.C. § 127b"
-generated_at: "2026-03-29T23:24:11.478Z"
+generated_at: "2026-03-29T23:26:58.016Z"
 ---
 
 # § 127b. Transferred

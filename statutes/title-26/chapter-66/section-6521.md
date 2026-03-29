@@ -3,9 +3,9 @@ title: "Section 6521 - Mitigation of effect of limitation in case of related tax
 usc_title: 26
 usc_section: "6521"
 chapter: 66
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "26 U.S.C. § 6521"
-generated_at: "2026-03-29T23:25:46.792Z"
+generated_at: "2026-03-29T23:29:55.035Z"
 ---
 
 # § 6521. Mitigation of effect of limitation in case of related taxes under different chapters

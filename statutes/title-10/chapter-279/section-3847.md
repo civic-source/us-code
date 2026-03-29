@@ -3,9 +3,9 @@ title: "Section 3847 - Defense Contract Audit Agency: annual report"
 usc_title: 10
 usc_section: "3847"
 chapter: 279
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 3847"
-generated_at: "2026-03-29T23:24:28.217Z"
+generated_at: "2026-03-29T23:27:42.135Z"
 ---
 
 # § 3847. Defense Contract Audit Agency: annual report

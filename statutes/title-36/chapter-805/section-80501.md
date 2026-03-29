@@ -3,9 +3,9 @@ title: "Section 80501 - Definition"
 usc_title: 36
 usc_section: "80501"
 chapter: 805
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "36 U.S.C. § 80501"
-generated_at: "2026-03-29T23:25:54.082Z"
+generated_at: "2026-03-29T23:30:40.906Z"
 ---
 
 # § 80501. Definition

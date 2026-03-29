@@ -3,9 +3,9 @@ title: "Section 262c - Commitments for United States contributions to internatio
 usc_title: 22
 usc_section: "262c"
 chapter: 7
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "22 U.S.C. § 262c"
-generated_at: "2026-03-29T23:25:31.186Z"
+generated_at: "2026-03-29T23:29:37.990Z"
 ---
 
 # § 262c. Commitments for United States contributions to international financial institutions fostering economic development in less developed countries; continuation of participation

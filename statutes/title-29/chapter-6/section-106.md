@@ -3,9 +3,9 @@ title: "Section 106 - Responsibility of officers and members of associations or 
 usc_title: 29
 usc_section: "106"
 chapter: 6
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "29 U.S.C. § 106"
-generated_at: "2026-03-29T23:25:38.546Z"
+generated_at: "2026-03-29T23:29:42.201Z"
 ---
 
 # § 106. Responsibility of officers and members of associations or their organizations for unlawful acts of individual officers, members, and agents

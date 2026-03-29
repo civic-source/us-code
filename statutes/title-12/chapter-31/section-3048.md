@@ -3,9 +3,9 @@ title: "Section 3048 - Cooperation with Federal agencies offering programs for c
 usc_title: 12
 usc_section: "3048"
 chapter: 31
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "12 U.S.C. § 3048"
-generated_at: "2026-03-29T23:24:55.289Z"
+generated_at: "2026-03-29T23:28:25.434Z"
 ---
 
 # § 3048. Cooperation with Federal agencies offering programs for consumer cooperatives in disseminating information

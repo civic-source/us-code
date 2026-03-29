@@ -3,9 +3,9 @@ title: "Section 7542 - Actions covered"
 usc_title: 5
 usc_section: "7542"
 chapter: 75
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "5 U.S.C. § 7542"
-generated_at: "2026-03-29T23:24:04.601Z"
+generated_at: "2026-03-29T23:27:13.637Z"
 ---
 
 # § 7542. Actions covered

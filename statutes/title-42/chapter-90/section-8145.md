@@ -3,9 +3,9 @@ title: "Section 8145 - Coordination and development of program with other Federa
 usc_title: 42
 usc_section: "8145"
 chapter: 90
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "42 U.S.C. § 8145"
-generated_at: "2026-03-29T23:26:16.191Z"
+generated_at: "2026-03-29T23:31:59.336Z"
 ---
 
 # § 8145. Coordination and development of program with other Federal and non-Federal programs

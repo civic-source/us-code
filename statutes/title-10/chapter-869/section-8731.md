@@ -3,9 +3,9 @@ title: "Section 8731 - Requirements as to consultation and approval"
 usc_title: 10
 usc_section: "8731"
 chapter: 869
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 8731"
-generated_at: "2026-03-29T23:24:28.244Z"
+generated_at: "2026-03-29T23:27:42.163Z"
 ---
 
 # § 8731. Requirements as to consultation and approval

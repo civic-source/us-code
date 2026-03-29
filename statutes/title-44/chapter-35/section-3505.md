@@ -3,9 +3,9 @@ title: "Section 3505 - Assignment of tasks and deadlines"
 usc_title: 44
 usc_section: "3505"
 chapter: 35
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "44 U.S.C. § 3505"
-generated_at: "2026-03-29T23:25:58.066Z"
+generated_at: "2026-03-29T23:31:03.842Z"
 ---
 
 # § 3505. Assignment of tasks and deadlines

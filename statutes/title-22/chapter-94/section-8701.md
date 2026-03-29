@@ -3,9 +3,9 @@ title: "Section 8701 - Definitions"
 usc_title: 22
 usc_section: "8701"
 chapter: 94
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "22 U.S.C. § 8701"
-generated_at: "2026-03-29T23:25:31.325Z"
+generated_at: "2026-03-29T23:29:38.123Z"
 ---
 
 # § 8701. Definitions

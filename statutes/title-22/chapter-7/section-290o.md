@@ -3,9 +3,9 @@ title: "Section 290o - Acceptance of membership"
 usc_title: 22
 usc_section: "290o"
 chapter: 7
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "22 U.S.C. § 290o"
-generated_at: "2026-03-29T23:25:31.205Z"
+generated_at: "2026-03-29T23:29:38.009Z"
 ---
 
 # § 290o. Acceptance of membership

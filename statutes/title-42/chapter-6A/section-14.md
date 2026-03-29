@@ -3,9 +3,9 @@ title: "Section 14 - Process for adoption of endorsed recommendations; adoption 
 usc_title: 42
 usc_section: "14"
 chapter: 6
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "42 U.S.C. § 14"
-generated_at: "2026-03-29T23:26:15.771Z"
+generated_at: "2026-03-29T23:31:58.934Z"
 ---
 
 # § 300jj–14. Process for adoption of endorsed recommendations; adoption of initial set of standards, implementation specifications, and certification criteria

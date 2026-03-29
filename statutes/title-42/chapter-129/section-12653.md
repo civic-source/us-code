@@ -3,9 +3,9 @@ title: "Section 12653 - Additional Corporation activities to support national se
 usc_title: 42
 usc_section: "12653"
 chapter: 129
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "42 U.S.C. § 12653"
-generated_at: "2026-03-29T23:26:16.270Z"
+generated_at: "2026-03-29T23:31:59.410Z"
 ---
 
 # § 12653. Additional Corporation activities to support national service

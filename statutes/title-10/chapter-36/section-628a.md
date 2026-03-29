@@ -3,9 +3,9 @@ title: "Section 628a - Special selection review boards"
 usc_title: 10
 usc_section: "628a"
 chapter: 36
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 628a"
-generated_at: "2026-03-29T23:24:28.129Z"
+generated_at: "2026-03-29T23:27:42.045Z"
 ---
 
 # § 628a. Special selection review boards

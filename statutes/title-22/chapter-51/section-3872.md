@@ -3,9 +3,9 @@ title: "Section 3872 - Notification requirements"
 usc_title: 22
 usc_section: "3872"
 chapter: 51
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "22 U.S.C. § 3872"
-generated_at: "2026-03-29T23:25:31.270Z"
+generated_at: "2026-03-29T23:29:38.070Z"
 ---
 
 # § 3872. Notification requirements

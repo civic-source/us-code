@@ -3,9 +3,9 @@ title: "Section 3102 - National Landslide Hazards Reduction Program"
 usc_title: 43
 usc_section: "3102"
 chapter: 49
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "43 U.S.C. § 3102"
-generated_at: "2026-03-29T23:25:58.726Z"
+generated_at: "2026-03-29T23:30:55.689Z"
 ---
 
 # § 3102. National Landslide Hazards Reduction Program

@@ -3,9 +3,9 @@ title: "Section 1451 - Assignment of Government employees to requesting countrie
 usc_title: 22
 usc_section: "1451"
 chapter: 18
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "22 U.S.C. § 1451"
-generated_at: "2026-03-29T23:25:31.211Z"
+generated_at: "2026-03-29T23:29:38.015Z"
 ---
 
 # § 1451. Assignment of Government employees to requesting countries; governing regulations

@@ -3,9 +3,9 @@ title: "Section 9023 - Emergency increase in unemployment compensation benefits"
 usc_title: 15
 usc_section: "9023"
 chapter: 116
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "15 U.S.C. § 9023"
-generated_at: "2026-03-29T23:25:11.288Z"
+generated_at: "2026-03-29T23:28:23.536Z"
 ---
 
 # § 9023. Emergency increase in unemployment compensation benefits

@@ -3,9 +3,9 @@ title: "Section 20147 - Warning of civil liability"
 usc_title: 49
 usc_section: "20147"
 chapter: 201
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "49 U.S.C. § 20147"
-generated_at: "2026-03-29T23:26:35.667Z"
+generated_at: "2026-03-29T23:32:06.152Z"
 ---
 
 # § 20147. Warning of civil liability

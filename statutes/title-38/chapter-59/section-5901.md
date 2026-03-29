@@ -3,9 +3,9 @@ title: "Section 5901 - Prohibition against acting as claims agent or attorney"
 usc_title: 38
 usc_section: "5901"
 chapter: 59
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "38 U.S.C. § 5901"
-generated_at: "2026-03-29T23:25:55.577Z"
+generated_at: "2026-03-29T23:30:52.817Z"
 ---
 
 # § 5901. Prohibition against acting as claims agent or attorney

@@ -3,9 +3,9 @@ title: "Section 1106 - Repealed. Pub. L. 91–510, title IV, § 422(a) , Oct. 26
 usc_title: 8
 usc_section: "1106"
 chapter: 12
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "8 U.S.C. § 1106"
-generated_at: "2026-03-29T23:24:14.084Z"
+generated_at: "2026-03-29T23:27:18.063Z"
 ---
 
 # § 1106. Repealed. Pub. L. 91–510, title IV, § 422(a) , Oct. 26, 1970 , 84 Stat. 1189

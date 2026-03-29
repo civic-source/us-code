@@ -3,9 +3,9 @@ title: "Section 1704 - Keys or locks stolen or reproduced"
 usc_title: 18
 usc_section: "1704"
 chapter: 83
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "18 U.S.C. § 1704"
-generated_at: "2026-03-29T23:25:16.604Z"
+generated_at: "2026-03-29T23:28:55.530Z"
 ---
 
 # § 1704. Keys or locks stolen or reproduced

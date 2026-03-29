@@ -3,9 +3,9 @@ title: "Section 3796jj - Transferred"
 usc_title: 42
 usc_section: "3796jj"
 chapter: 46
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "42 U.S.C. § 3796jj"
-generated_at: "2026-03-29T23:26:16.066Z"
+generated_at: "2026-03-29T23:31:59.218Z"
 ---
 
 # § 3796jj. Transferred

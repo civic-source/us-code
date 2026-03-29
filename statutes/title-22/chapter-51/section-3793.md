@@ -3,9 +3,9 @@ title: "Section 3793 - Interest on investments"
 usc_title: 22
 usc_section: "3793"
 chapter: 51
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "22 U.S.C. § 3793"
-generated_at: "2026-03-29T23:25:31.270Z"
+generated_at: "2026-03-29T23:29:38.070Z"
 ---
 
 # § 3793. Interest on investments

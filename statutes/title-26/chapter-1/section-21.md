@@ -3,9 +3,9 @@ title: "Section 21 - Expenses for household and dependent care services necessar
 usc_title: 26
 usc_section: "21"
 chapter: 1
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "26 U.S.C. § 21"
-generated_at: "2026-03-29T23:25:46.559Z"
+generated_at: "2026-03-29T23:29:54.724Z"
 ---
 
 # § 21. Expenses for household and dependent care services necessary for gainful employment

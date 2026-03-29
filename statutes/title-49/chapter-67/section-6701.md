@@ -3,9 +3,9 @@ title: "Section 6701 - National infrastructure project assistance"
 usc_title: 49
 usc_section: "6701"
 chapter: 67
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "49 U.S.C. § 6701"
-generated_at: "2026-03-29T23:26:35.653Z"
+generated_at: "2026-03-29T23:32:06.140Z"
 ---
 
 # § 6701. National infrastructure project assistance
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T23:26:35.653Z"
     - **(G)** a partnership between Amtrak and 1 or more entities described in subparagraphs (A) through (F); and
     - **(H)** a group of entities described in any of subparagraphs (A) through (G).
   - **(3)** The term “program” means the program established by subsection (b).
-  - **(4)** The term “Secretary”’ means the Secretary of Transportation.
+  - **(4)** The term “Secretary” means the Secretary of Transportation.
   - **(5)** The term “State” means—
     - **(A)** any of the several States;
     - **(B)** the District of Columbia;

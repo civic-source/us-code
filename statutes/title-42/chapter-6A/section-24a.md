@@ -3,9 +3,9 @@ title: "Section 24a - Activities regarding women’s health"
 usc_title: 42
 usc_section: "24a"
 chapter: 6
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "42 U.S.C. § 24a"
-generated_at: "2026-03-29T23:26:15.719Z"
+generated_at: "2026-03-29T23:31:58.884Z"
 ---
 
 # § 299b–24a. Activities regarding women’s health

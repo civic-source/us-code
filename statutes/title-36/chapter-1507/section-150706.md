@@ -3,9 +3,9 @@ title: "Section 150706 - Powers"
 usc_title: 36
 usc_section: "150706"
 chapter: 1507
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "36 U.S.C. § 150706"
-generated_at: "2026-03-29T23:25:54.086Z"
+generated_at: "2026-03-29T23:30:40.909Z"
 ---
 
 # § 150706. Powers

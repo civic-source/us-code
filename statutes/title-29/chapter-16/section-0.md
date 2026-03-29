@@ -3,9 +3,9 @@ title: "Section 0 - Training and technical assistance"
 usc_title: 29
 usc_section: "0"
 chapter: 16
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "29 U.S.C. § 0"
-generated_at: "2026-03-29T23:25:38.567Z"
+generated_at: "2026-03-29T23:29:42.221Z"
 ---
 
 # § 796e–0. Training and technical assistance

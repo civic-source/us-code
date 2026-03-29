@@ -3,9 +3,9 @@ title: "Section 658 - Definitions"
 usc_title: 2
 usc_section: "658"
 chapter: 17
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "2 U.S.C. § 658"
-generated_at: "2026-03-29T23:24:11.490Z"
+generated_at: "2026-03-29T23:26:58.028Z"
 ---
 
 # § 658. Definitions

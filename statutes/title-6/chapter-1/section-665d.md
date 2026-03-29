@@ -3,9 +3,9 @@ title: "Section 665d - Sector Risk Management Agencies"
 usc_title: 6
 usc_section: "665d"
 chapter: 1
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "6 U.S.C. § 665d"
-generated_at: "2026-03-29T23:24:29.935Z"
+generated_at: "2026-03-29T23:27:16.074Z"
 ---
 
 # § 665d. Sector Risk Management Agencies

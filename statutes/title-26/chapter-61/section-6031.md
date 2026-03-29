@@ -3,9 +3,9 @@ title: "Section 6031 - Return of partnership income"
 usc_title: 26
 usc_section: "6031"
 chapter: 61
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "26 U.S.C. § 6031"
-generated_at: "2026-03-29T23:25:46.766Z"
+generated_at: "2026-03-29T23:29:55.011Z"
 ---
 
 # § 6031. Return of partnership income

@@ -3,9 +3,9 @@ title: "Section 2031 - Authorities; delegation of functions; rules and regulatio
 usc_title: 19
 usc_section: "2031"
 chapter: 8
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "19 U.S.C. § 2031"
-generated_at: "2026-03-29T23:25:17.777Z"
+generated_at: "2026-03-29T23:29:08.442Z"
 ---
 
 # § 2031. Authorities; delegation of functions; rules and regulations

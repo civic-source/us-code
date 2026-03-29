@@ -3,9 +3,9 @@ title: "Section 2372 - Payment of plant variety protection fees; return of exces
 usc_title: 7
 usc_section: "2372"
 chapter: 57
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "7 U.S.C. § 2372"
-generated_at: "2026-03-29T23:24:49.469Z"
+generated_at: "2026-03-29T23:28:01.902Z"
 ---
 
 # § 2372. Payment of plant variety protection fees; return of excess amounts

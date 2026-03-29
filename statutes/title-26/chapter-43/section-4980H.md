@@ -3,9 +3,9 @@ title: "Section 4980H - Shared responsibility for employers regarding health cov
 usc_title: 26
 usc_section: "4980H"
 chapter: 43
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "26 U.S.C. § 4980H"
-generated_at: "2026-03-29T23:25:46.753Z"
+generated_at: "2026-03-29T23:29:54.998Z"
 ---
 
 # § 4980H. Shared responsibility for employers regarding health coverage

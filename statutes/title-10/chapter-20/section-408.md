@@ -3,9 +3,9 @@ title: "Section 408 - Equipment and training of foreign personnel to assist in D
 usc_title: 10
 usc_section: "408"
 chapter: 20
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 408"
-generated_at: "2026-03-29T23:24:28.122Z"
+generated_at: "2026-03-29T23:27:42.036Z"
 ---
 
 # § 408. Equipment and training of foreign personnel to assist in Department of Defense accounting for missing United States Government personnel

@@ -3,9 +3,9 @@ title: "Section 3415 - Intervention"
 usc_title: 15
 usc_section: "3415"
 chapter: 60
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "15 U.S.C. § 3415"
-generated_at: "2026-03-29T23:25:11.244Z"
+generated_at: "2026-03-29T23:28:23.492Z"
 ---
 
 # § 3415. Intervention

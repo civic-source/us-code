@@ -3,9 +3,9 @@ title: "Section 5116d - Application"
 usc_title: 42
 usc_section: "5116d"
 chapter: 67
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "42 U.S.C. § 5116d"
-generated_at: "2026-03-29T23:26:16.088Z"
+generated_at: "2026-03-29T23:31:59.239Z"
 ---
 
 # § 5116d. Application

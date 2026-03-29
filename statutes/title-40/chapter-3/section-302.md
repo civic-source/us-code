@@ -3,9 +3,9 @@ title: "Section 302 - Administrator and Deputy Administrator"
 usc_title: 40
 usc_section: "302"
 chapter: 3
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "40 U.S.C. § 302"
-generated_at: "2026-03-29T23:25:56.043Z"
+generated_at: "2026-03-29T23:30:45.792Z"
 ---
 
 # § 302. Administrator and Deputy Administrator

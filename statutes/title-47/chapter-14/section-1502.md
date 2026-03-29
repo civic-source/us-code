@@ -3,9 +3,9 @@ title: "Section 1502 - Identifying 255 megahertz"
 usc_title: 47
 usc_section: "1502"
 chapter: 14
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "47 U.S.C. § 1502"
-generated_at: "2026-03-29T23:26:22.251Z"
+generated_at: "2026-03-29T23:32:06.750Z"
 ---
 
 # § 1502. Identifying 255 megahertz

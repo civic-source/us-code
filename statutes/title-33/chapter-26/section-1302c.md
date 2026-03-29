@@ -3,9 +3,9 @@ title: "Section 1302c - Small publicly owned treatment works efficiency grant pr
 usc_title: 33
 usc_section: "1302c"
 chapter: 26
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "33 U.S.C. § 1302c"
-generated_at: "2026-03-29T23:25:51.311Z"
+generated_at: "2026-03-29T23:30:21.094Z"
 ---
 
 # § 1302c. Small publicly owned treatment works efficiency grant program

@@ -3,9 +3,9 @@ title: "Section 6871 - Annual report by Secretary and Director to President and 
 usc_title: 42
 usc_section: "6871"
 chapter: 81
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "42 U.S.C. § 6871"
-generated_at: "2026-03-29T23:26:16.131Z"
+generated_at: "2026-03-29T23:31:59.280Z"
 ---
 
 # § 6871. Annual report by Secretary and Director to President and Congress on weatherization program

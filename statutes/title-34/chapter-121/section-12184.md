@@ -3,9 +3,9 @@ title: "Section 12184 - Availability of lines of credit and use"
 usc_title: 34
 usc_section: "12184"
 chapter: 121
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "34 U.S.C. § 12184"
-generated_at: "2026-03-29T23:25:50.334Z"
+generated_at: "2026-03-29T23:30:38.518Z"
 ---
 
 # § 12184. Availability of lines of credit and use

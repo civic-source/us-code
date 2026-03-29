@@ -3,9 +3,9 @@ title: "Section 4143 - Payment of awards; priorities; limitations"
 usc_title: 50
 usc_section: "4143"
 chapter: 51
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "50 U.S.C. § 4143"
-generated_at: "2026-03-29T23:26:21.628Z"
+generated_at: "2026-03-29T23:32:08.669Z"
 ---
 
 # § 4143. Payment of awards; priorities; limitations

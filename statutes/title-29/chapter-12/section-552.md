@@ -3,9 +3,9 @@ title: "Section 552 - Deputy Secretary; appointment; duties"
 usc_title: 29
 usc_section: "552"
 chapter: 12
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "29 U.S.C. § 552"
-generated_at: "2026-03-29T23:25:38.554Z"
+generated_at: "2026-03-29T23:29:42.208Z"
 ---
 
 # § 552. Deputy Secretary; appointment; duties

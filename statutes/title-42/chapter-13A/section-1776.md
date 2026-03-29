@@ -3,9 +3,9 @@ title: "Section 1776 - State administrative expenses"
 usc_title: 42
 usc_section: "1776"
 chapter: 13
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "42 U.S.C. § 1776"
-generated_at: "2026-03-29T23:26:15.999Z"
+generated_at: "2026-03-29T23:31:59.155Z"
 ---
 
 # § 1776. State administrative expenses

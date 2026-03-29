@@ -3,9 +3,9 @@ title: "Section 717 - Agreements"
 usc_title: 14
 usc_section: "717"
 chapter: 7
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "14 U.S.C. § 717"
-generated_at: "2026-03-29T23:24:52.363Z"
+generated_at: "2026-03-29T23:28:07.873Z"
 ---
 
 # § 717. Agreements

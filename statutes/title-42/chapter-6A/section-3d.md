@@ -3,9 +3,9 @@ title: "Section 3d - Water supply cost savings"
 usc_title: 42
 usc_section: "3d"
 chapter: 6
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "42 U.S.C. § 3d"
-generated_at: "2026-03-29T23:26:15.733Z"
+generated_at: "2026-03-29T23:31:58.897Z"
 ---
 
 # § 300j–3d. Water supply cost savings

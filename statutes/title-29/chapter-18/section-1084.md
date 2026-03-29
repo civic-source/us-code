@@ -3,9 +3,9 @@ title: "Section 1084 - Minimum funding standards for multiemployer plans"
 usc_title: 29
 usc_section: "1084"
 chapter: 18
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "29 U.S.C. § 1084"
-generated_at: "2026-03-29T23:25:38.577Z"
+generated_at: "2026-03-29T23:29:42.231Z"
 ---
 
 # § 1084. Minimum funding standards for multiemployer plans

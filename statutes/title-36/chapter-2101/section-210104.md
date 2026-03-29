@@ -3,9 +3,9 @@ title: "Section 210104 - Governing body"
 usc_title: 36
 usc_section: "210104"
 chapter: 2101
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "36 U.S.C. § 210104"
-generated_at: "2026-03-29T23:25:54.091Z"
+generated_at: "2026-03-29T23:30:40.914Z"
 ---
 
 # § 210104. Governing body

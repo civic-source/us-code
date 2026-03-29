@@ -3,9 +3,9 @@ title: "Section 1619 - Attorney and consultant fees"
 usc_title: 43
 usc_section: "1619"
 chapter: 33
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "43 U.S.C. § 1619"
-generated_at: "2026-03-29T23:25:58.708Z"
+generated_at: "2026-03-29T23:30:55.671Z"
 ---
 
 # § 1619. Attorney and consultant fees

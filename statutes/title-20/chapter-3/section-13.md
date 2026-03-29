@@ -3,9 +3,9 @@ title: "Section 13 - Grants by Secretary of the Interior to assist Indian organi
 usc_title: 20
 usc_section: "13"
 chapter: 3
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "20 U.S.C. § 13"
-generated_at: "2026-03-29T23:25:23.698Z"
+generated_at: "2026-03-29T23:29:00.142Z"
 ---
 
 # § 80q–13. Grants by Secretary of the Interior to assist Indian organizations with respect to renovation and repair of museum facilities and exhibit facilities

@@ -3,9 +3,9 @@ title: "Section 3807 - General enforcement provisions"
 usc_title: 7
 usc_section: "3807"
 chapter: 69
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "7 U.S.C. § 3807"
-generated_at: "2026-03-29T23:24:49.484Z"
+generated_at: "2026-03-29T23:28:01.916Z"
 ---
 
 # § 3807. General enforcement provisions

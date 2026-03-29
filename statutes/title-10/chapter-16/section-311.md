@@ -3,9 +3,9 @@ title: "Section 311 - Exchange of defense personnel between United States and fr
 usc_title: 10
 usc_section: "311"
 chapter: 16
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 311"
-generated_at: "2026-03-29T23:24:28.118Z"
+generated_at: "2026-03-29T23:27:42.032Z"
 ---
 
 # § 311. Exchange of defense personnel between United States and friendly foreign countries: authority

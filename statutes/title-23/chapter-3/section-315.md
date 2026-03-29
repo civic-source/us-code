@@ -3,9 +3,9 @@ title: "Section 315 - Rules, regulations, and recommendations"
 usc_title: 23
 usc_section: "315"
 chapter: 3
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "23 U.S.C. § 315"
-generated_at: "2026-03-29T23:25:28.283Z"
+generated_at: "2026-03-29T23:29:36.126Z"
 ---
 
 # § 315. Rules, regulations, and recommendations

@@ -3,9 +3,9 @@ title: "Section 591 - Omitted"
 usc_title: 43
 usc_section: "591"
 chapter: 12
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "43 U.S.C. § 591"
-generated_at: "2026-03-29T23:25:58.683Z"
+generated_at: "2026-03-29T23:30:55.647Z"
 ---
 
 # § 591. Omitted

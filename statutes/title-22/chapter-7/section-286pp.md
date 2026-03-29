@@ -3,9 +3,9 @@ title: "Section 286pp - Acceptance of amendments to Articles of Agreement of Fun
 usc_title: 22
 usc_section: "286pp"
 chapter: 7
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "22 U.S.C. § 286pp"
-generated_at: "2026-03-29T23:25:31.200Z"
+generated_at: "2026-03-29T23:29:38.004Z"
 ---
 
 # § 286pp. Acceptance of amendments to Articles of Agreement of Fund approved on April 28 and May 5, 2008

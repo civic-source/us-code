@@ -3,9 +3,9 @@ title: "Section 1475 - Consultation procedure"
 usc_title: 33
 usc_section: "1475"
 chapter: 28
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "33 U.S.C. § 1475"
-generated_at: "2026-03-29T23:25:51.326Z"
+generated_at: "2026-03-29T23:30:21.109Z"
 ---
 
 # § 1475. Consultation procedure

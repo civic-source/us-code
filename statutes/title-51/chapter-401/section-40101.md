@@ -3,9 +3,9 @@ title: "Section 40101 - Definition of institution of higher education"
 usc_title: 51
 usc_section: "40101"
 chapter: 401
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "51 U.S.C. § 40101"
-generated_at: "2026-03-29T23:26:39.154Z"
+generated_at: "2026-03-29T23:32:18.907Z"
 ---
 
 # § 40101. Definition of institution of higher education

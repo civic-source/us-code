@@ -3,9 +3,9 @@ title: "Section 5334 - Administrative provisions"
 usc_title: 49
 usc_section: "5334"
 chapter: 53
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "49 U.S.C. § 5334"
-generated_at: "2026-03-29T23:26:35.648Z"
+generated_at: "2026-03-29T23:32:06.136Z"
 ---
 
 # § 5334. Administrative provisions
@@ -48,7 +48,7 @@ generated_at: "2026-03-29T23:26:35.648Z"
     - **(B)** a local governmental authority, nonprofit organization, or other third party entity to be used for the purpose of transit-oriented development with no further obligation to the Government if the Secretary decides—
       - **(i)** the asset is a necessary component of a proposed transit-oriented development project;
       - **(ii)** the transit-oriented development project will increase transit ridership;
-      - **(iii)** at least 40 percent of the housing units offered in the transit-oriented development, including housing units owned by nongovernmental entities, are legally binding affordability restricted to tenants with incomes at or below 60 percent of the area median income and owners with incomes at or below 60 percent the area median income, which shall include at least 20 percent of such housing units offered restricted to tenants with incomes at or below 30 percent of the area median income and owners with incomes at or below 30 percent the area median income;
+      - **(iii)** at least 40 percent of the housing units offered in the transit-oriented development, including housing units owned by nongovernmental entities, are legally binding affordability restricted to tenants with incomes at or below 60 percent of the area median income and owners with incomes at or below 60 percent 1 1 So in original. Probably should be followed by “of”. the area median income, which shall include at least 20 percent of such housing units offered restricted to tenants with incomes at or below 30 percent of the area median income and owners with incomes at or below 30 percent the area median income;
       - **(iv)** the asset will remain in use as described in this section for at least 30 years after the date the asset is transferred; and
       - **(v)** with respect to a transfer to a third party entity—
         - **(I)** a local government authority or nonprofit organization is unable to receive the property;

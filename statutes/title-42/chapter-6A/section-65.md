@@ -3,9 +3,9 @@ title: "Section 65 - Requirement of submission of application containing certain
 usc_title: 42
 usc_section: "65"
 chapter: 6
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "42 U.S.C. § 65"
-generated_at: "2026-03-29T23:26:15.757Z"
+generated_at: "2026-03-29T23:31:58.920Z"
 ---
 
 # § 300ff–65. Requirement of submission of application containing certain agreements and assurances

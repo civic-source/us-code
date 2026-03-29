@@ -3,9 +3,9 @@ title: "Section 2 - Minimum capital level"
 usc_title: 12
 usc_section: "2"
 chapter: 23
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "12 U.S.C. § 2"
-generated_at: "2026-03-29T23:24:55.284Z"
+generated_at: "2026-03-29T23:28:25.428Z"
 ---
 
 # § 2279bb–2. Minimum capital level

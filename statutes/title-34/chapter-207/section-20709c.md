@@ -3,9 +3,9 @@ title: "Section 20709c - Training of tribal law enforcement and prosecutorial pe
 usc_title: 34
 usc_section: "20709c"
 chapter: 207
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "34 U.S.C. § 20709c"
-generated_at: "2026-03-29T23:25:50.350Z"
+generated_at: "2026-03-29T23:30:38.532Z"
 ---
 
 # § 20709c. Training of tribal law enforcement and prosecutorial personnel

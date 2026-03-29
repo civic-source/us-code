@@ -3,9 +3,9 @@ title: "Section 1791 - Funding for military child care"
 usc_title: 10
 usc_section: "1791"
 chapter: 88
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 1791"
-generated_at: "2026-03-29T23:24:28.176Z"
+generated_at: "2026-03-29T23:27:42.094Z"
 ---
 
 # § 1791. Funding for military child care

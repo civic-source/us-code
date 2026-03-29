@@ -3,9 +3,9 @@ title: "Section 557 - Rules and regulations"
 usc_title: 30
 usc_section: "557"
 chapter: 13
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "30 U.S.C. § 557"
-generated_at: "2026-03-29T23:25:37.359Z"
+generated_at: "2026-03-29T23:30:01.656Z"
 ---
 
 # § 557. Rules and regulations

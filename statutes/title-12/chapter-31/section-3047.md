@@ -3,9 +3,9 @@ title: "Section 3047 - Programs for training directors and staff of eligible coo
 usc_title: 12
 usc_section: "3047"
 chapter: 31
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "12 U.S.C. § 3047"
-generated_at: "2026-03-29T23:24:55.289Z"
+generated_at: "2026-03-29T23:28:25.434Z"
 ---
 
 # § 3047. Programs for training directors and staff of eligible cooperatives, and public education; development and availability; scope and implementation

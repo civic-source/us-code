@@ -3,9 +3,9 @@ title: "Section 2632 - Transportation to and from certain places of employment a
 usc_title: 10
 usc_section: "2632"
 chapter: 157
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 2632"
-generated_at: "2026-03-29T23:24:28.194Z"
+generated_at: "2026-03-29T23:27:42.113Z"
 ---
 
 # § 2632. Transportation to and from certain places of employment and on military installations

@@ -3,9 +3,9 @@ title: "Section 1702 - Under Secretary of Defense for Acquisition and Sustainmen
 usc_title: 10
 usc_section: "1702"
 chapter: 87
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 1702"
-generated_at: "2026-03-29T23:24:28.174Z"
+generated_at: "2026-03-29T23:27:42.091Z"
 ---
 
 # § 1702. Under Secretary of Defense for Acquisition and Sustainment: authorities and responsibilities

@@ -3,9 +3,9 @@ title: "Section 12836 - Labor"
 usc_title: 42
 usc_section: "12836"
 chapter: 130
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "42 U.S.C. § 12836"
-generated_at: "2026-03-29T23:26:16.277Z"
+generated_at: "2026-03-29T23:31:59.417Z"
 ---
 
 # § 12836. Labor

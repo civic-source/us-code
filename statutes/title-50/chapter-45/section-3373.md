@@ -3,9 +3,9 @@ title: "Section 3373 - Establishment of office, organizational structure, and au
 usc_title: 50
 usc_section: "3373"
 chapter: 45
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "50 U.S.C. § 3373"
-generated_at: "2026-03-29T23:26:21.614Z"
+generated_at: "2026-03-29T23:32:08.655Z"
 ---
 
 # § 3373. Establishment of office, organizational structure, and authorities to address unidentified aerial phenomena

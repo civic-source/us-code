@@ -3,9 +3,9 @@ title: "Section 6167 - Extension of time for payment of tax attributable to reco
 usc_title: 26
 usc_section: "6167"
 chapter: 62
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "26 U.S.C. § 6167"
-generated_at: "2026-03-29T23:25:46.780Z"
+generated_at: "2026-03-29T23:29:55.023Z"
 ---
 
 # § 6167. Extension of time for payment of tax attributable to recovery of foreign expropriation losses

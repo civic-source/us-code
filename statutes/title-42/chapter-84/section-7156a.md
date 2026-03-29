@@ -3,9 +3,9 @@ title: "Section 7156a - Repealed. Pub. L. 105–85, div. C, title XXXIV, § 3403
 usc_title: 42
 usc_section: "7156a"
 chapter: 84
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "42 U.S.C. § 7156a"
-generated_at: "2026-03-29T23:26:16.144Z"
+generated_at: "2026-03-29T23:31:59.292Z"
 ---
 
 # § 7156a. Repealed. Pub. L. 105–85, div. C, title XXXIV, § 3403 , Nov. 18, 1997 , 111 Stat. 2059

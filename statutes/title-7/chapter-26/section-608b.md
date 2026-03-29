@@ -3,9 +3,9 @@ title: "Section 608b - Marketing agreements; exemption from anti-trust laws; ins
 usc_title: 7
 usc_section: "608b"
 chapter: 26
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "7 U.S.C. § 608b"
-generated_at: "2026-03-29T23:24:49.397Z"
+generated_at: "2026-03-29T23:28:01.827Z"
 ---
 
 # § 608b. Marketing agreements; exemption from anti-trust laws; inspection requirements for handlers not subject to agreements

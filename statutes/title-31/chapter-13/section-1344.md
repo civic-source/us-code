@@ -3,9 +3,9 @@ title: "Section 1344 - Passenger carrier use"
 usc_title: 31
 usc_section: "1344"
 chapter: 13
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "31 U.S.C. § 1344"
-generated_at: "2026-03-29T23:25:49.603Z"
+generated_at: "2026-03-29T23:30:22.209Z"
 ---
 
 # § 1344. Passenger carrier use

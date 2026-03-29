@@ -3,9 +3,9 @@ title: "Section 1624 - Authority of States and political subdivisions of States 
 usc_title: 8
 usc_section: "1624"
 chapter: 14
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "8 U.S.C. § 1624"
-generated_at: "2026-03-29T23:24:14.115Z"
+generated_at: "2026-03-29T23:27:18.095Z"
 ---
 
 # § 1624. Authority of States and political subdivisions of States to limit assistance to aliens and to distinguish among classes of aliens in providing general cash public assistance

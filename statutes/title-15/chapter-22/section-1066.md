@@ -3,9 +3,9 @@ title: "Section 1066 - Interference; declaration by Director"
 usc_title: 15
 usc_section: "1066"
 chapter: 22
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "15 U.S.C. § 1066"
-generated_at: "2026-03-29T23:25:11.184Z"
+generated_at: "2026-03-29T23:28:23.428Z"
 ---
 
 # § 1066. Interference; declaration by Director

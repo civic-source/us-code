@@ -3,9 +3,9 @@ title: "Section 107 - Penalty for false information"
 usc_title: 43
 usc_section: "107"
 chapter: 4
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "43 U.S.C. § 107"
-generated_at: "2026-03-29T23:25:58.668Z"
+generated_at: "2026-03-29T23:30:55.631Z"
 ---
 
 # § 107. Penalty for false information

@@ -3,9 +3,9 @@ title: "Section 3516 - Reports consolidation"
 usc_title: 31
 usc_section: "3516"
 chapter: 35
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "31 U.S.C. § 3516"
-generated_at: "2026-03-29T23:25:49.609Z"
+generated_at: "2026-03-29T23:30:22.214Z"
 ---
 
 # § 3516. Reports consolidation

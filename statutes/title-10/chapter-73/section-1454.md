@@ -3,9 +3,9 @@ title: "Section 1454 - Correction of administrative errors"
 usc_title: 10
 usc_section: "1454"
 chapter: 73
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 1454"
-generated_at: "2026-03-29T23:24:28.166Z"
+generated_at: "2026-03-29T23:27:42.084Z"
 ---
 
 # § 1454. Correction of administrative errors

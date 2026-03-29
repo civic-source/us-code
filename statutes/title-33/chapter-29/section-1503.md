@@ -3,9 +3,9 @@ title: "Section 1503 - License for ownership, construction, and operation of dee
 usc_title: 33
 usc_section: "1503"
 chapter: 29
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "33 U.S.C. § 1503"
-generated_at: "2026-03-29T23:25:51.327Z"
+generated_at: "2026-03-29T23:30:21.109Z"
 ---
 
 # § 1503. License for ownership, construction, and operation of deepwater port

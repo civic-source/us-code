@@ -3,9 +3,9 @@ title: "Section 254b - Renumbered §§ 240a to 240f]"
 usc_title: 10
 usc_section: "254b"
 chapter: 9
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 254b"
-generated_at: "2026-03-29T23:24:28.117Z"
+generated_at: "2026-03-29T23:27:42.031Z"
 ---
 
 # [§§ 251 to 254b. Renumbered §§ 240a to 240f]

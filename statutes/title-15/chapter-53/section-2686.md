@@ -3,9 +3,9 @@ title: "Section 2686 - Lead hazard information pamphlet"
 usc_title: 15
 usc_section: "2686"
 chapter: 53
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "15 U.S.C. § 2686"
-generated_at: "2026-03-29T23:25:11.236Z"
+generated_at: "2026-03-29T23:28:23.483Z"
 ---
 
 # § 2686. Lead hazard information pamphlet

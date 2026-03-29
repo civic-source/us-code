@@ -3,9 +3,9 @@ title: "Section 3956 - Termination of telephone, multichannel video programming,
 usc_title: 50
 usc_section: "3956"
 chapter: 50
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "50 U.S.C. § 3956"
-generated_at: "2026-03-29T23:26:21.624Z"
+generated_at: "2026-03-29T23:32:08.665Z"
 ---
 
 # § 3956. Termination of telephone, multichannel video programming, and internet access service contracts

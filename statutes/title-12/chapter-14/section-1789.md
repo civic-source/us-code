@@ -3,9 +3,9 @@ title: "Section 1789 - Administrative provisions"
 usc_title: 12
 usc_section: "1789"
 chapter: 14
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "12 U.S.C. § 1789"
-generated_at: "2026-03-29T23:24:55.244Z"
+generated_at: "2026-03-29T23:28:25.393Z"
 ---
 
 # § 1789. Administrative provisions

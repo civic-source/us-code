@@ -3,9 +3,9 @@ title: "Section 2026a - Healthy fluid milk incentives projects"
 usc_title: 7
 usc_section: "2026a"
 chapter: 51
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "7 U.S.C. § 2026a"
-generated_at: "2026-03-29T23:24:49.459Z"
+generated_at: "2026-03-29T23:28:01.892Z"
 ---
 
 # § 2026a. Healthy fluid milk incentives projects

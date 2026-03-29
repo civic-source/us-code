@@ -3,9 +3,9 @@ title: "Section 6554 - Applied silvicultural assessments"
 usc_title: 16
 usc_section: "6554"
 chapter: 84
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "16 U.S.C. § 6554"
-generated_at: "2026-03-29T23:25:21.373Z"
+generated_at: "2026-03-29T23:28:58.288Z"
 ---
 
 # § 6554. Applied silvicultural assessments

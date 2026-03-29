@@ -3,9 +3,9 @@ title: "Section 635n - Prohibition of loans, guarantees, and insurance as to sal
 usc_title: 12
 usc_section: "635n"
 chapter: 6
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "12 U.S.C. § 635n"
-generated_at: "2026-03-29T23:24:55.194Z"
+generated_at: "2026-03-29T23:28:25.348Z"
 ---
 
 # § 635n. Prohibition of loans, guarantees, and insurance as to sales of defense articles or services

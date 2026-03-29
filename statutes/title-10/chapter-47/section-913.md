@@ -3,9 +3,9 @@ title: "Section 913 - Art. 113. Drunken or reckless operation of a vehicle, airc
 usc_title: 10
 usc_section: "913"
 chapter: 47
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 913"
-generated_at: "2026-03-29T23:24:28.139Z"
+generated_at: "2026-03-29T23:27:42.055Z"
 ---
 
 # § 913. Art. 113. Drunken or reckless operation of a vehicle, aircraft, or vessel

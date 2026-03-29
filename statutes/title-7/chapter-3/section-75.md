@@ -3,9 +3,9 @@ title: "Section 75 - Definitions"
 usc_title: 7
 usc_section: "75"
 chapter: 3
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "7 U.S.C. § 75"
-generated_at: "2026-03-29T23:24:49.368Z"
+generated_at: "2026-03-29T23:28:01.797Z"
 ---
 
 # § 75. Definitions

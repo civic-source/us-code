@@ -3,9 +3,9 @@ title: "Section 20710 - Service of process"
 usc_title: 36
 usc_section: "20710"
 chapter: 207
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "36 U.S.C. § 20710"
-generated_at: "2026-03-29T23:25:54.076Z"
+generated_at: "2026-03-29T23:30:40.899Z"
 ---
 
 # § 20710. Service of process

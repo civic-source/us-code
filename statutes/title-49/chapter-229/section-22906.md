@@ -3,9 +3,9 @@ title: "Section 22906 - Authorization of appropriations"
 usc_title: 49
 usc_section: "22906"
 chapter: 229
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "49 U.S.C. § 22906"
-generated_at: "2026-03-29T23:26:35.672Z"
+generated_at: "2026-03-29T23:32:06.158Z"
 ---
 
 # § 22906. Authorization of appropriations

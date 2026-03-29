@@ -3,9 +3,9 @@ title: "Section 8543 - Provost and Academic Dean"
 usc_title: 10
 usc_section: "8543"
 chapter: 855
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 8543"
-generated_at: "2026-03-29T23:24:28.240Z"
+generated_at: "2026-03-29T23:27:42.159Z"
 ---
 
 # § 8543. Provost and Academic Dean

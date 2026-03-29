@@ -3,9 +3,9 @@ title: "Section 80c - Liaison between Securities and Exchange Commission and Sma
 usc_title: 15
 usc_section: "80c"
 chapter: 2
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "15 U.S.C. § 80c"
-generated_at: "2026-03-29T23:25:11.136Z"
+generated_at: "2026-03-29T23:28:23.379Z"
 ---
 
 # § 80c. Liaison between Securities and Exchange Commission and Small Business Administration

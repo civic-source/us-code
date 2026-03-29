@@ -3,9 +3,9 @@ title: "Section 507 - Limitation on use of statistical information"
 usc_title: 7
 usc_section: "507"
 chapter: 21
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "7 U.S.C. § 507"
-generated_at: "2026-03-29T23:24:49.395Z"
+generated_at: "2026-03-29T23:28:01.825Z"
 ---
 
 # § 507. Limitation on use of statistical information

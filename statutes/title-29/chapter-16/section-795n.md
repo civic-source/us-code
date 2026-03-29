@@ -3,9 +3,9 @@ title: "Section 795n - Advisory Committee on Increasing Competitive Integrated E
 usc_title: 29
 usc_section: "795n"
 chapter: 16
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "29 U.S.C. § 795n"
-generated_at: "2026-03-29T23:25:38.566Z"
+generated_at: "2026-03-29T23:29:42.220Z"
 ---
 
 # § 795n. Advisory Committee on Increasing Competitive Integrated Employment for Individuals with Disabilities

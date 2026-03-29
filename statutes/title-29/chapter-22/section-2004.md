@@ -3,9 +3,9 @@ title: "Section 2004 - Authority of Secretary"
 usc_title: 29
 usc_section: "2004"
 chapter: 22
-current_through: "PL 117-185"
+current_through: "PL 117-200"
 classification: "29 U.S.C. § 2004"
-generated_at: "2026-03-29T23:25:38.602Z"
+generated_at: "2026-03-29T23:29:42.255Z"
 ---
 
 # § 2004. Authority of Secretary
